@@ -1,0 +1,40 @@
+---
+label: Tours and equipment
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+- type: textarea
+  name: property_description
+  label: Description
+- type: text
+  name: property_name
+  label: Business Name for Sorting
+  description: This text will determine the alpha sort
+- type: list
+  name: equip_type
+  label: Type
+  config:
+    min: '1'
+    max: '2'
+    use_select: true
+    source:
+      type: simple
+    options:
+    - 1 - Tour
+    - 2 - Equipement
+  description: Please select if this entry provides Tours, Equipments or both.
+- type: include
+  template: image-alt
+  label: Image
+  name: image
+- type: include
+  template: contact
+  label: Contact
+  name: contact
+pages:
+- site/content/tourandequipment/coos-bay-boat-tours.md
+- site/content/tourandequipment/south-coast-tours-rentals-at-sunset-bay.md
+- site/content/tourandequipment/indigenous-02.md
+- site/content/tourandequipment/bahama-boards.md

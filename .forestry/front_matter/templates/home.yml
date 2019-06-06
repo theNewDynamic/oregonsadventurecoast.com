@@ -1,0 +1,212 @@
+---
+label: Home
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: field_group_list
+  name: slideshow
+  label: Slideshow
+  fields:
+  - type: text
+    label: Title
+    name: title
+    description: The title of the slide
+  - type: file
+    name: photo
+    label: Image
+    description: The image of the slide
+- type: text
+  name: welcomeheadline
+  label: Welcome Headline
+  description: Headline displayed below the slideshow
+- type: field_group
+  name: masonry1
+  label: Masonry 1
+  fields:
+  - type: file
+    name: desktopphoto
+    label: Image for Desktop
+  - type: text
+    name: desktoptitle
+    label: Title for Desktop
+  - type: file
+    name: mobilephoto
+    label: Image for Mobile
+  - type: text
+    name: mobiletitle
+    label: Title for Mobile
+  - type: text
+    label: 'Hover Title '
+    name: hovertitle
+    description: The Title displayed on mouse hover
+  - type: textarea
+    label: Hover Description
+    name: hoverdescription
+    description: The text displayed on mouse hover
+  - type: text
+    name: url
+    label: URL
+- type: field_group
+  name: masonry2
+  label: Masonry 2
+  fields:
+  - type: file
+    name: desktopphoto
+    label: Image for Desktop
+  - type: text
+    name: desktoptitle
+    label: Title for Desktop
+  - type: file
+    name: mobilephoto
+    label: Image for Mobile
+  - type: text
+    name: mobiletitle
+    label: Title for Mobile
+  - type: text
+    label: 'Hover Title '
+    name: hovertitle
+    description: The Title displayed on mouse hover
+  - type: textarea
+    label: Hover Description
+    name: hoverdescription
+    description: The text displayed on mouse hover
+  - type: text
+    name: url
+    label: URL
+- type: field_group
+  name: masonry3
+  label: Masonry 3
+  fields:
+  - type: file
+    name: desktopphoto
+    label: Image for Desktop
+  - type: text
+    name: desktoptitle
+    label: Title for Desktop
+  - type: file
+    name: mobilephoto
+    label: Image for Mobile
+  - type: text
+    name: mobiletitle
+    label: Title for Mobile
+  - type: text
+    label: 'Hover Title '
+    name: hovertitle
+    description: The Title displayed on mouse hover
+  - type: textarea
+    label: Hover Description
+    name: hoverdescription
+    description: The text displayed on mouse hover
+  - type: text
+    name: url
+    label: URL
+- type: field_group
+  name: masonry4
+  label: Masonry 4
+  fields:
+  - type: file
+    name: desktopphoto
+    label: Image for Desktop
+  - type: text
+    name: desktoptitle
+    label: Title for Desktop
+  - type: file
+    name: mobilephoto
+    label: Image for Mobile
+  - type: text
+    name: mobiletitle
+    label: Title for Mobile
+  - type: text
+    label: 'Hover Title '
+    name: hovertitle
+    description: The Title displayed on mouse hover
+  - type: textarea
+    label: Hover Description
+    name: hoverdescription
+    description: The text displayed on mouse hover
+  - type: text
+    name: url
+    label: URL
+- type: field_group
+  name: masonry5
+  label: Masonry 5
+  fields:
+  - type: file
+    name: desktopphoto
+    label: Image for Desktop
+  - type: text
+    name: desktoptitle
+    label: Title for Desktop
+  - type: file
+    name: mobilephoto
+    label: Image for Mobile
+  - type: text
+    name: mobiletitle
+    label: Title for Mobile
+  - type: text
+    label: 'Hover Title '
+    name: hovertitle
+    description: The Title displayed on mouse hover
+  - type: textarea
+    label: Hover Description
+    name: hoverdescription
+    description: The text displayed on mouse hover
+  - type: text
+    name: url
+    label: URL
+- type: field_group
+  name: masonry6
+  label: Masonry 6
+  fields:
+  - type: file
+    name: desktopphoto
+    label: Image for Desktop
+  - type: text
+    name: desktoptitle
+    label: Title for Desktop
+  - type: file
+    name: mobilephoto
+    label: Image for Mobile
+  - type: text
+    name: mobiletitle
+    label: Title for Mobile
+  - type: text
+    label: 'Hover Title '
+    name: hovertitle
+    description: The Title displayed on mouse hover
+  - type: textarea
+    label: Hover Description
+    name: hoverdescription
+    description: The text displayed on mouse hover
+  - type: text
+    name: url
+    label: URL
+- type: field_group
+  name: masonry7
+  label: Masonry 7
+  fields:
+  - type: file
+    name: desktopphoto
+    label: Image for Desktop
+  - type: text
+    name: desktoptitle
+    label: Title for Desktop
+  - type: file
+    name: mobilephoto
+    label: Image for Mobile
+  - type: text
+    name: mobiletitle
+    label: Title for Mobile
+  - type: text
+    label: 'Hover Title '
+    name: hovertitle
+    description: The Title displayed on mouse hover
+  - type: textarea
+    label: Hover Description
+    name: hoverdescription
+    description: The text displayed on mouse hover
+  - type: text
+    name: url
+    label: URL

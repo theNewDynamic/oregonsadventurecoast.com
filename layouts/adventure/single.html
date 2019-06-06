@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix">
+    <div class="m-standard-nav">
+        <h3>Adventures</h3>
+    
+        <ul>
+        {{ $pageUrl := .RelPermalink }}
+        {{ range where .Site.Pages "Section" "adventure" }}
+            {{ if ne .URL "/adventure/" }}
+                {{ if eq $pageUrl .RelPermalink }}
+                <li class="active"><a href="{{ .URL }}">{{ .Title }}</a></li>
+                {{ else }}
+                <li><a href="{{ .URL }}">{{ .Title }}</a></li>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+        </ul>
+    </div>
+    
+    <div class="m-standard-content">
+        <h1>{{ .Title }}</h1>
+    
+        <div class="introtext clearfix">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
+{{ end }}

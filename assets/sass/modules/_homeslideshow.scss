@@ -1,0 +1,86 @@
+.m-homeslideshow {
+    @include smallPlus {
+        display: none!important;
+    }
+}
+.m-homeslideshow-mobile {
+    display: none;
+    @include smallPlus {
+        display: block;
+    }
+}
+
+.m-homeslideshow,
+.m-homeslideshow-mobile {
+    position: relative;
+}
+.m-homeslideshow .slide,
+.m-homeslideshow-mobile .slide {
+    // position: relative;
+    width: 100%;
+    @include largeUp {
+        overflow: hidden;
+        height: 850px;
+    }
+    @include smallPlus {
+        overflow: hidden;
+        height: 331px;
+    }
+}
+.m-homeslideshow .slide img,
+.m-homeslideshow-mobile .slide img {
+    display: block;
+    width: 100%;
+    @include largeUp {
+        width: 2048px;
+        height: 850px;
+        position: relative;
+        margin-left: 50%;
+        left: -1024px;
+    }
+    @include smallPlus {
+        width: 798px;
+        height: 331.25px;
+        position: relative;
+        margin-left: 50%;
+        left: -399px;
+    }
+}
+.m-homeslideshow .slide .title,
+.m-homeslideshow-mobile .slide .title {
+    font-family: $calli;
+    position: absolute;
+    bottom: 180px;
+    width: 100%;
+    text-align: center;
+    z-index: 110;
+    font-size: 90px;
+    color: $white;
+    text-shadow: 0 0 12px #000;
+    @include large {
+        font-size: 75px;
+    }
+    @include medium {
+        font-size: 58px;
+        bottom: 120px;
+    }
+}
+.m-homeslideshow .overlay,
+.m-homeslideshow-mobile .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 500;
+    @include largeUp {
+        height: 171px;
+    }
+}
+.m-homeslideshow .overlay img,
+.m-homeslideshow-mobile .overlay img {
+    display: block;
+    width: 100%;
+    @include largeUp {
+        height: 171px;
+    }
+}

@@ -1,0 +1,60 @@
+---
+label: Regular Pages
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: url
+  label: Url
+  type: text
+  hidden: false
+  default: ''
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    options:
+    - contact
+    - meeting-planners
+    - meeting-planners-sub
+    - our-area
+    - press-media-industry
+    - relocation-request
+    - thank-you
+    - travelersinfo
+  label: Layout
+  description: Choose Layout/Sidebar for Your Page
+- type: file
+  name: photo
+  label: Header Photo
+  description: Choose a header image - size to 2048px by 530px.
+- type: field_group
+  name: seo
+  label: SEO
+  fields:
+  - type: text
+    label: Description
+    name: description
+  - type: text
+    label: Title
+    name: title
+  - type: text
+    name: imgalt
+    label: Image ALT Text
+  - type: file
+    name: image
+    label: SEO Image
+pages:
+- site/content/sitepages/3a-coos-bay-photo-contest-rules-2019.md
+- site/content/sitepages/tour-groups.md
+- site/content/sitepages/regis-page.md
+- site/content/sitepages/testing-font-size-for-janice.md
+- site/content/sitepages/privacy-policy.md
+- site/content/sitepages/contest-january-2019-comcast-win-weekend.md
+- site/content/sitepages/staff-directory.md
+- site/content/sitepages/sportsman-show-giveaway.md
+- site/content/sitepages/sportsman-s-show-contest.md

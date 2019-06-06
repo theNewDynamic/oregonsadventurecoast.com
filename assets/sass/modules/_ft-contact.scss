@@ -1,0 +1,58 @@
+.m-ft-contact {
+    color: $white;
+    @include smallPlus {
+        text-align: center;
+        img.logo{
+            margin-left:20px;
+        }
+    }
+}
+@media (max-width: $medium - 1){
+    .m-ft-contact__contact{
+        position: relative;
+        padding:12px 0 15px 0;
+        &:before, &:after{
+            content:"";
+            height:1px;
+            background-color:$white;
+            width:164px;
+            position: absolute;
+            left:50%;
+            margin-left: -82px;
+        }
+        &:before{
+            top:0;
+        }
+        &:after{
+            bottom:0;
+        }
+    }
+}
+.m-ft-contact .logo {
+    display: block;
+    width: 100%;
+    max-width: 416px;
+    margin: 0 auto 30px auto;
+    @media (min-width:$smallPlus){
+        width:calc(100% + 20px);
+    }
+}
+.m-ft-contact .phone {
+    font-family: $roboto;
+    font-weight: 300;
+    font-size: 33px;
+    
+    margin: 0;
+    @include smallPlus {
+        text-align: center;
+    }
+}
+.m-ft-contact .address {
+    font-family: $roboto;
+    font-weight: 300;
+    font-size: 14px;
+    margin: 0;
+    @include smallPlus {
+        text-align: center;
+    }
+}

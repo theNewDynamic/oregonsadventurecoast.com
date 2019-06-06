@@ -1,0 +1,48 @@
+/* Share */
+.m-mobile-share {
+    display: none;
+    @include smallPlus {
+        display: block;
+        background-color: rgb(174, 174, 174);
+        padding: 0 10px;
+        color: $white;
+        margin-bottom: 20px;
+    }
+}
+.m-mobile-share ul,
+.m-mobile-share li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.m-mobile-share .share-label {
+    float: left;
+    font-family: $fjalla;
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 34px;
+}
+.m-mobile-share .share-label .icon {
+    font-size: 18px;
+    margin-left: 4px;
+}
+.m-mobile-share ul {
+    float: right;
+}
+.m-mobile-share li {
+    float: left;
+}
+.m-mobile-share li a {
+    display: inline-block;
+    padding: 5px 0;
+    width: 24px;
+    text-align: center;
+    color: $white;
+    font-size: 16px;
+    margin-left: 5px;
+}
+.m-mobile-share li a:link,
+.m-mobile-share li a:visited {
+    color: $white;
+    text-decoration: none;
+}

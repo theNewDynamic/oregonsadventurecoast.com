@@ -1,0 +1,27 @@
+[
+    {{- range $index, $e := .Data.Pages }}
+        {{ if $index }},{{ end }}
+        {
+            "title": "{{ htmlEscape .Title }}",
+            "photo": "{{ .Params.photo }}",
+            "largeboxphoto": "{{ .Params.largeboxphoto }}",
+            "mediumboxphoto": "{{ .Params.mediumboxphoto }}",
+            "smallboxphoto": "{{ .Params.smallboxphoto }}",
+            "desktoptitle": "{{ htmlEscape .Params.desktoptitle }}",
+            "mobiletitle": "{{ htmlEscape .Params.mobiletitle }}",
+            "hovertitle": "{{ htmlEscape .Params.hovertitle }}",
+            "hoverdescription": {{ .Params.hoverdescription | jsonify }},
+            "startdate": "{{ htmlEscape .Params.startdate }}",
+            "enddate": "{{ htmlEscape .Params.enddate }}",
+            "street": "{{ htmlEscape .Params.address.street }}",
+            "street2": "{{ htmlEscape .Params.address.street2 }}",
+            "city": "{{ htmlEscape .Params.address.city }}",
+            "state": "{{ htmlEscape .Params.address.state }}",
+            "zip": "{{ htmlEscape .Params.address.zip }}",
+            "phone_toll_free": "{{ htmlEscape .Params.phone_toll_free }}",
+            "phone_local": "{{ htmlEscape .Params.phone_local }}",
+            "website": "{{ htmlEscape .Params.website }}",
+            "url": "{{ .RelPermalink }}"
+        }
+    {{ end -}}
+]

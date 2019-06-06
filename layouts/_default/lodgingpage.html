@@ -1,0 +1,82 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix m-lodging">
+
+    <div class="lodging-intro clearfix">
+        <h1>{{ .Title }}</h1>
+
+        {{ .Content }}
+    </div>
+
+    <div class="amenity-key clearfix">
+        <ul>
+            <li class="restaurant">Restaurant/Bar/Rm Svc</li>
+            <li class="fitness">Fitness Center</li>
+            <li class="pet">Pet Friendly</li>
+            <li class="kitchens">Kitchens Available</li>
+            <li class="handicap">Handicap Accessible</li>
+            <li class="breakfast">Continental or Full Bkfst</li>
+            <li class="pool">Pool/Hot Tub</li>
+            <li class="wifi">WiFi Available</li>
+            <li class="meeting">Meeting Facilities</li>
+            <li class="chamber">Chamber Member</li>
+        </ul>
+    </div>
+
+    <div class="m-view-bar clearfix">
+        <div class="view">
+            <ul>
+                <li id="view-toggle-grid" class="view-bar-item active grid-view"><i class="fas fa-th-large"></i></li>
+                <li id="view-toggle-list" class="view-bar-item list-view"><i class="fas fa-bars"></i></li>
+                <!-- <li id="view-toggle-map" class="view-bar-item map-view"><i class="fas fa-map-marker-alt"></i></li> -->
+            </ul>
+        </div>
+
+        <div class="filter-wrap">
+            <span class="filter-toggle" id="filter-toggle">Filter</span>
+
+            <div class="filters-list clearfix" id="filters-list">
+                <div class="filter">
+                    <h3 class="selection">Categories</h3>
+                    <ul class="filter-menu" id="filter-by-category"></ul>
+                </div>
+
+                <div class="filter">
+                    <h3 class="selection">Towns</h3>
+                    <ul class="filter-menu" id="filter-by-city"></ul>
+                </div>
+                
+                <div class="filter">
+                    <h3 class="selection">Amenities</h3>
+                    <ul class="filter-menu" id="filter-by-amenity"></ul>
+                </div>
+
+                <div class="filter">
+                    <h3 class="selection">Sort</h3>
+                    <ul class="filter-menu">
+                        <li id="sort-menu-ascending" class="-selected">Sort A-Z</li>
+                        <li id="sort-menu-descending">Sort Z-A</li>
+                    </ul>
+                </div>
+
+            </div>
+            
+        </div>
+    </div>
+
+    <div id="view-display" class="lodging-list">
+        <div id="lodging-output" class="m-grid"></div>
+        {{ partial "pagination" . }}
+    </div>
+
+    <!-- <div id="view-map" style="display: none;">Map Here</div> -->
+    
+</div>
+
+{{ end }}
+
+{{ define "footerJs" }}
+<script src="/js/lodging.js"></script>
+{{ end }}

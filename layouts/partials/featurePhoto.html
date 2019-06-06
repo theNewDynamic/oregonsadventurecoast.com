@@ -1,0 +1,17 @@
+{{ if (.photo) -}}
+<div class="m-featurephoto" style="background-image: url({{ .photo }});">
+    <div class="overlay">
+        <img src="/layout-images/img-swoosh-overlay.png" alt="">
+    </div>
+</div>
+{{ else }}
+<div class="m-featurephoto" style="background-image: url(/img/trip-ideas-lighthouse.jpg);">
+    <div class="overlay">
+        <img src="/layout-images/img-swoosh-overlay.png" alt="">
+    </div>
+</div>
+{{- end }}
+
+<div class="m-visitor-guide-download">
+    <a href="/img/Oregon-Coast-Visitor-Guide.pdf">Download Our<br>Visitor Guide</a>
+</div>

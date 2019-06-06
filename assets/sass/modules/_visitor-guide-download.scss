@@ -1,0 +1,39 @@
+.m-visitor-guide-download {
+    position: relative;
+    max-width: 1000px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    @include smallPlus {
+        display: none;
+    }
+}
+.m-visitor-guide-download a {
+    width: 310px;
+    height: 178px;
+    z-index: 200;
+    top: -168px;
+    right: 0;
+    position: absolute;
+    z-index: 510;
+    background: url('/layout-images/img-visitor-guide.png') no-repeat 100% 0;
+    background-size: 119px 177px;
+    font-family: $fjalla;
+    text-transform: uppercase;
+    font-size: 17px;
+    @include borderBox;
+    padding: 50px 130px 0 0;
+    text-align: right;
+    @include large {
+        top: -150px;
+    }
+    @include medium {
+        top: -130px;
+    }
+}
+.m-visitor-guide-download a:link,
+.m-visitor-guide-download a:visited {
+    color: $red;
+    text-decoration: none;
+}

@@ -1,0 +1,219 @@
+
+.lodging-list:not(.-view-as-list) .m-grid, 
+.equipment .m-grid,
+.tourcharters .m-grid{
+    @media (min-width:$small){
+        display:grid;
+        grid-template-columns:repeat(2, 1fr);
+        grid-gap:20px;
+    }
+    @media (min-width:$medium){
+        grid-template-columns:repeat(3, 1fr);
+        grid-gap:40px;
+    }
+}
+
+.m-lodging-item {
+    border: 1px solid #d3d3d3;
+    overflow: hidden;
+    border-radius: 6px;
+    margin-bottom:20px;
+    position: relative;
+    padding-bottom:50px;
+    #lodging-output & {
+        padding-bottom:100px;
+    }
+    @media (min-width:$small){
+        margin-bottom:0;
+    }
+}
+.-view-as-list .m-lodging-item {
+    display:flex;
+    @include borderBox;
+    float: none;
+    margin: 0 0 20px 0;
+    border: none;
+    border-bottom: 1px solid #d3d3d3;
+    padding-bottom:20px;
+    border-radius:0;
+    @include medium {
+        width: 100%;
+        margin: 0 0 20px 0;
+    }
+}
+.-view-as-list #lodging-output .m-lodging-item{
+    padding-bottom:20px;
+}
+.m-lodging-item .content {
+    padding: 10px 15px;
+    overflow: hidden;
+}
+.-view-as-list .m-lodging-item .content {
+    padding: 0;
+    height:auto;
+}
+
+.m-lodging-item .photo {
+    width: 100%;
+    height: 142px;
+    overflow: hidden;
+    background-size:cover;
+    background-position:top center;
+}
+/* Enforce aspect ratio for mobile */
+@media (max-width:$small - 1){
+    .lodging-list:not(.-view-as-list) .m-lodging-item .photo{
+        height:auto;
+        padding-top: calc(130 / 290  * 100%);
+    }
+}
+
+.-view-as-list .m-lodging-item .photo {
+    flex:0 0 auto;
+    margin-right:20px;
+    height: 175px;
+    border-radius: 6px;
+    max-width:200px;
+    @media (max-width:$small - 1){
+        display:none;
+    }
+}
+
+.m-lodging-item .photo img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.m-lodging-item .category {
+    color: $lightGray;
+    font-size: 12px;
+    font-weight: 300;
+    border-bottom: 1px solid #d3d3d3;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+.-view-as-list .m-lodging-item .category {
+    border: none;
+    float: right;
+    font-size: 16px;
+}
+.m-lodging-item .location h2 {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0 0 .25em 0;
+}
+.m-lodging-item .location .address {
+    font-size: 14px;
+    font-weight: 300;
+}
+.m-lodging-item .description {
+    font-size: 12px;
+    font-weight: 300;
+    overflow: hidden;
+}
+.-view-as-list .m-lodging-item .description {
+    height: auto;
+}
+
+/* Amenity Keys */
+.m-lodging-item .amenity-list {
+    padding: 15px 0;;
+    height: 20px;
+}
+.-view-as-list .m-lodging-item .amenity-list {
+    border: none;
+    float: right;
+    position: relative;
+    bottom: auto;
+    width: auto;
+}
+.m-lodging-item__footer{
+    position: absolute;
+    width: calc(100% - 30px);
+    bottom:15px;
+    .-view-as-list & {
+        position: relative;
+        width:auto;
+        bottom:auto;
+    }
+}
+.m-lodging-item .amenity-list ul,
+.m-lodging-item .amenity-list li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.m-lodging-item .amenity-list li {
+    float: left;
+    @include borderBox;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: 20px 20px;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+.m-lodging-item .amenity-list .restaurant {
+    background-image: url('/layout-images/amenity-key-icons/icon-restaurant.png');
+}
+.m-lodging-item .amenity-list .fitness {
+    background-image: url('/layout-images/amenity-key-icons/icon-fitness.png');
+}
+.m-lodging-item .amenity-list .pet {
+    background-image: url('/layout-images/amenity-key-icons/icon-pet.png');
+}
+.m-lodging-item .amenity-list .kitchens {
+    background-image: url('/layout-images/amenity-key-icons/icon-kitchens.png');
+}
+.m-lodging-item .amenity-list .handicap {
+    background-image: url('/layout-images/amenity-key-icons/icon-handicap.png');
+}
+.m-lodging-item .amenity-list .breakfast {
+    background-image: url('/layout-images/amenity-key-icons/icon-breakfast.png');
+}
+.m-lodging-item .amenity-list .pool {
+    background-image: url('/layout-images/amenity-key-icons/icon-pool.png');
+}
+.m-lodging-item .amenity-list .wifi {
+    background-image: url('/layout-images/amenity-key-icons/icon-wifi.png');
+}
+.m-lodging-item .amenity-list .meeting {
+    background-image: url('/layout-images/amenity-key-icons/icon-meeting.png');
+}
+.m-lodging-item .amenity-list .chamber {
+    background-image: url('/layout-images/amenity-key-icons/icon-chamber.png');
+}
+
+/* Links */
+.m-lodging-item .links {
+    padding: 10px 0 0 0;
+    font-size: 15px;
+    font-weight: 300;
+    border-top: 1px solid #d3d3d3
+}
+.-view-as-list .m-lodging-item .links {
+    padding-top: 15px;
+    position: relative;
+    bottom: auto;
+    border-top:0;
+}
+
+.m-lodging-item .links a:link,
+.m-lodging-item .links a:visited {
+    color: $darkGray;
+    text-decoration: none;
+}
+.m-lodging-item .links .icon {
+    color: $red!important;
+    font-size: 14px;
+}
+.m-lodging-item .links .map {
+    float: left;
+}
+.m-lodging-item .links .website {
+    float: left;
+    margin-left: 10px;
+    border-left: 1px solid #d3d3d3;
+    padding-left: 11px;
+}

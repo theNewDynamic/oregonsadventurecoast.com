@@ -1,0 +1,35 @@
+.m-search-results .search-results-count {
+    font-weight: bold;
+    font-size: 24px;
+    margin: 0;
+    @include medium {
+        text-align: center;
+    }
+}
+.m-search-results .search-results-count .term {
+    color: $red;
+}
+
+.m-search-results .search-result-item {
+    margin-bottom: 30px;
+}
+.m-search-results .search-result-item h2 {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: none;
+}
+.m-search-results .search-result-item h2 a:link,
+.m-search-results .search-result-item h2 a:visited {
+    color: $darkGray;
+    text-decoration: none;
+}
+.m-search-results .search-result-item h2 a:hover {
+    color: $red;
+}
+.m-search-results .search-result-item p {
+    margin-bottom: 5px;
+}
+.m-search-results .search-result-item .more a:link,
+.m-search-results .search-result-item .more a:visited {
+    text-decoration: none;
+}

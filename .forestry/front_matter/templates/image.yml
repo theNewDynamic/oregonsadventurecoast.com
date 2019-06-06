@@ -1,0 +1,21 @@
+---
+label: Image
+hide_body: false
+display_field: photo
+fields:
+- type: file
+  label: Page Hero Image
+  name: photo
+  description: Image Size 2048px x 530px
+- type: file
+  name: largeboxphoto
+  label: Large
+  description: Image Size 1024px x 395px
+- type: file
+  name: mediumboxphoto
+  label: Medium
+  description: Image Size 667px x 355px
+- type: file
+  name: smallboxphoto
+  label: small
+  description: Image Size 340px x 214px

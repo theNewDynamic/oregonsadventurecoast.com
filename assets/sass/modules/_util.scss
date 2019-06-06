@@ -1,0 +1,66 @@
+.m-util {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 100;
+    font-family: $fjalla;
+    height: 50px;
+    width: 100%;
+    overflow: hidden;
+    // box-shadow: 0 -20px 80px #000;
+    @include medium {
+        display: none;
+    }
+}
+.m-util .inner {
+    width: 370px;
+    margin: 0 auto;
+    padding-left: 700px;
+}
+.m-util .inner-bg {
+    background: rgba(12,56,96,.5);
+    position: relative;
+}
+.m-util .fade {
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(to right, rgba($black, 0), rgba(12,56,96,.5));
+    position: absolute;
+    margin-left: -50px;
+}
+.m-util .fade-right {
+    width: 400px;
+    height: 50px;
+    background: linear-gradient(to left, rgba($black, 0), rgba(12,56,96,.5));
+    position: absolute;
+    right: -400px;
+}
+.m-util .util-nav {
+    float: right;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.m-util .util-nav li {
+    margin: 0;
+    padding: 14px 0;
+    list-style: none;
+    display: inline-block;
+}
+.m-util .util-nav a {
+    border-left: 1px solid $white;
+    display: inline-block;
+    padding: 0 20px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.m-util .util-nav a:link,
+.m-util .util-nav a:visited {
+    color: $white;
+    text-decoration: none;
+}
+
+.m-util .social {
+    float: left;
+    padding: 14px;
+}

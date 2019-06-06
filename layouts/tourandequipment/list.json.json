@@ -1,0 +1,30 @@
+[
+    {{- range $index, $e := .Data.Pages }}
+        {{ if $index }},{{ end }}
+        {
+            "title": "{{ htmlEscape .Title }}",
+            "photo_name": "{{ htmlEscape .Params.photo_name }}",
+            "photo_alt": "{{ htmlEscape .Params.photo_alt }}",
+            "property_name": "{{ htmlEscape .Params.property_name }}",
+            "street": "{{ htmlEscape .Params.address.street }}",
+            "street2": "{{ htmlEscape .Params.address.street2 }}",
+            "city": "{{ htmlEscape .Params.address.city }}",
+            "state": "{{ htmlEscape .Params.address.state }}",
+            "zip": "{{ htmlEscape .Params.address.zip }}",
+            "phone_toll_free": "{{ htmlEscape .Params.phone_toll_free }}",
+            "phone_local": "{{ htmlEscape .Params.phone_local }}",
+            "property_description": {{ .Params.property_description | jsonify }},
+            "website": "{{ htmlEscape .Params.website }}",
+            "typeSelect": [
+                {{- range $equipIndex, $equip := .Params.equip_type -}}
+                {{- if $equipIndex }},{{ end -}}
+                    {{ if eq (printf "%T" $equip) "string" }}
+                        {{ index (split $equip " - ") 0 }}
+                    {{ else }}
+                        {{ index $equip "typeSelect" }}
+                    {{ end }}
+                {{- end -}}
+            ]
+        }
+    {{ end -}}
+]

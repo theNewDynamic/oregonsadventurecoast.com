@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix">
+    <div class="m-standard-nav">
+        <h3>Resources</h3>
+    
+        <ul>
+            <li><a href="http://www.flyoth.com/" target="_blank">Airline Tickets and Travel</a></li>
+            <li><a href="http://www.bayareahospital.org/" target="_blank">Bay Area Hospital</a></li>
+            <li><a href="http://nbmconline.com/" target="_blank">North Bend Medical Center</a></li>
+            <li><a href="https://myodfw.com/" target="_blank">Recreation Report</a></li>
+            <li><a href="https://www.tripcheck.com/Pages/Road-Conditions?mainNav=RoadConditions&curRegion=4" target="_blank">Road & Travel Conditions</a></li>
+            <li><a href="https://tides4fishing.com/us/oregon/coos-bay" target="_blank">Tides4Fishing.com Tides & Solunar Charts</a></li>
+            <li><a href="https://www.tideschart.com/United-States/Oregon/Coos-Bay" target="_blank">TidesChart.com Tide Times & Tide Charts</a></li>
+        </ul>
+    </div>
+    
+    <div class="m-standard-content">
+        <h1>{{ .Title }}</h1>
+    
+        <div class="introtext clearfix">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
+{{ end }}

@@ -1,0 +1,69 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix">
+    <div class="m-calendar">
+        <h1>{{ .Title }}</h1>
+
+        <div class="introtext">
+            {{ .Content }}
+        </div>
+        
+    </div>
+
+    <div class="m-calendar-filter">
+
+        <div class="m-view-bar">
+            <div class="filter-wrap">
+                <span class="filter-toggle" id="filter-toggle">Filter</span>
+    
+                <div class="filters-list clearfix" id="filters-list">
+                    <div class="filter">
+                        <h3 class="selection">Months</h3>
+                        <ul class="filter-menu" id="filter-by-months">
+                            <li id="all-months" data-searchby="all" class="-selected">All Months</li>
+                            <li id="january" data-searchby="01">January <span class="count"></span></li>
+                            <li id="february" data-searchby="02">February <span class="count"></span></li>
+                            <li id="march" data-searchby="03">March <span class="count"></span></li>
+                            <li id="april" data-searchby="04">April <span class="count"></span></li>
+                            <li id="may" data-searchby="05">May <span class="count"></span></li>
+                            <li id="june" data-searchby="06">June <span class="count"></span></li>
+                            <li id="july" data-searchby="07">July <span class="count"></span></li>
+                            <li id="august" data-searchby="08">August <span class="count"></span></li>
+                            <li id="september" data-searchby="09">September <span class="count"></span></li>
+                            <li id="october" data-searchby="10">October <span class="count"></span></li>
+                            <li id="november" data-searchby="11">November <span class="count"></span></li>
+                            <li id="december" data-searchby="12">December <span class="count"></span></li>
+                        </ul>
+                    </div>
+    
+                    <div class="filter">
+                        <h3 class="selection">Towns</h3>
+                        <ul class="filter-menu" id="filter-by-city">
+                            <li id="all-towns" data-searchby="all" class="-selected">All Towns</li>
+                            <li id="coosbay" data-searchby="Coos Bay">Coos Bay <span class="count"></span></li>
+                            <li id="northbend" data-searchby="North Bend">North Bend <span class="count"></span></li>
+                            <li id="charleston" data-searchby="Charleston">Charleston <span class="count"></span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="m-calendar-list clearfix">
+        <div id="calendar-output"></div>
+        <div id="no-calendar-results" class="no-calendar-results">
+            <img src="/layout-images/img-calendar-no-results.gif" alt="No Calendar Results Found">
+        </div>
+        {{ partial "pagination" . }}
+    </div>
+</div>
+
+{{ end }}
+
+{{ define "footerJs" }}
+<script src="/js/calendar.js"></script>
+{{ end }}

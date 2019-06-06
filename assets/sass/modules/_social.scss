@@ -1,0 +1,23 @@
+.m-social {
+
+}
+.m-social ul,
+.m-social li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.m-social li {
+    float: left;
+    padding: 0 8px;
+}
+.m-social a {
+    font-size: 18px;
+}
+.m-social a:link,
+.m-social a:visited {
+    color: $white;
+}
+.m-social a:hover {
+    opacity: .8;
+}

@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix">
+    <div class="m-standard-nav -no-sidebar-mobile">
+        <img class="sidebar-photo" src="/layout-images/img-search-sidebar.jpg" alt="">
+    </div>
+
+    <div class="m-standard-content m-search-results -no-sidebar-mobile">
+        <div id="search-results-count"></div>
+        <h1>{{ .Title }}</h1>
+        <div id="search-results-output"></div>
+    </div>
+</div>
+
+{{ end }}
+
+{{ define "footerJs" }}
+<script src="/js/search.js"></script>
+{{ end }}

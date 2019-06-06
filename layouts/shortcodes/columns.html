@@ -1,0 +1,7 @@
+<div class="m-content-columns" data-columns="{{ cond (eq (.Get "number") "2") 2 3 | safeHTMLAttr }}">
+    {{ range (split .Inner "++++") }}
+    <div class="m-content-columns__col">
+        {{ . | markdownify }}
+    </div>
+    {{ end }}
+</div>

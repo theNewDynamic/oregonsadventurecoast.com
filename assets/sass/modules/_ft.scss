@@ -1,0 +1,76 @@
+.m-ft-contact, .m-ft-links{
+	max-width:270px;
+	margin:0 auto;
+}
+.m-ft{
+	padding-top:15%;
+}
+@media (min-width:$smallPlus){
+	.m-ft{
+		display: flex;
+		.m-ft-contact{
+			max-width:240px;
+		}
+	}
+}
+@media (min-width:$medium){
+	.m-ft{
+		padding-top: 20%;
+		.m-ft-contact{
+			margin-left:0;
+		}
+		.m-ft-links{
+			max-width:100%;
+			margin-right:0;
+			flex: 0 0 600px;
+			.sections{
+				display:flex;
+				flex-wrap:wrap;
+				li{
+					flex: 0 0 auto;
+					width:50%;
+					padding-right:3%;
+					&:nth-child(odd){
+						//flex-basis:47%;
+						
+					}
+				}
+				.equipment{
+					order:1;
+				}
+				.meetings{
+					order:2;
+				}
+				.tour{
+					order:3;
+				}
+				.press{
+					order:4;
+				}
+				.traveler{
+					order:5;
+				}
+				.brochure{
+					order:6
+				}
+			}
+		}
+		.m-ft-newsletter{
+			padding-bottom:15px;
+		}
+	}
+}
+.m-ft-contact{
+	margin-bottom:10px;
+}
+#ft {
+    background: url('/layout-images/img-footer-swoosh-overlay.png') no-repeat 0 0 $red;
+    background-size: 100% auto;
+    @include largeUp {
+        background-size: 100% 171px;
+    }
+    //padding-top: 200px;
+    @include medium {
+        //padding-top: 100px;
+    }
+}

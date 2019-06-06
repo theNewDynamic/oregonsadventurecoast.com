@@ -1,0 +1,36 @@
+.m-homewelcome {
+    background: url('/layout-images/bg-pixelated-wave-blue.gif') no-repeat 50% 100%;
+    background-size: contain;
+    max-width: 1024px;
+    margin: 0 auto;
+    width: 100%;
+    @include borderBox;
+    font-family: $roboto;
+    color: $gray;
+    text-align: center;
+    padding-bottom: 40px;
+    @include medium {
+        padding: 0 20px;
+    }
+}
+.m-homewelcome h1 {
+    @include h1;
+}
+.m-homewelcome p,
+.m-homewelcome li {
+    font-size: 18px;
+  line-height: 1.5em;
+  font-weight: 300;
+  font-family: $roboto;
+  @include smallPlus {
+    font-size: 16px;
+    line-height: 1.5em;
+  }
+}
+.m-homewelcome .welcome-logo {
+    float: left;
+    margin: 0 20px 20px 0;
+    display: block;
+    max-width: 152px;
+    height: auto;
+}

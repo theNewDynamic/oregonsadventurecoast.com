@@ -1,0 +1,94 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: content
+webhook_url: 
+sections:
+- type: heading
+  label: Pages
+- type: document
+  path: site/content/_index.md
+  label: Home
+  templates:
+  - home
+- type: directory
+  path: site/content
+  label: Main Pages
+  create: all
+  match: "*.md"
+  exclude: _index.md
+- type: directory
+  path: site/content/sitepages
+  label: Other Pages
+  create: all
+  match: "**/*"
+  templates:
+  - regular-pages
+- type: heading
+  label: Other
+- type: directory
+  path: site/content/adventure
+  label: Adventures
+  create: all
+  match: "**/*"
+  templates:
+  - adventure
+- type: directory
+  path: site/content/blog
+  label: Blog Posts
+  create: all
+  match: "**/*"
+  templates:
+  - post
+- type: directory
+  path: site/content/event
+  label: Events
+  create: all
+  match: "**/*"
+  templates:
+  - event
+- type: directory
+  path: site/content/tripideas
+  label: Trip Ideas
+  create: all
+  match: "**/*"
+  templates:
+  - trip-ideas
+- type: directory
+  path: site/content/lodgingitems
+  label: Lodgings
+  create: all
+  match: "**/*"
+  templates:
+  - lodging
+- type: directory
+  path: site/content/tourandequipment
+  label: Tours and Equipment
+  create: all
+  match: "**/*"
+  templates:
+  - tours-and-equipment
+- type: heading
+  label: Data
+- type: document
+  path: site/data/taxonomies.yaml
+  label: Taxonomies
+upload_dir: site/static/img
+public_path: "/img"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_command: npm run forestry
+  publish_command: hugo -d public
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.52
+  publish_env:
+  - HUGO_ENV=production
+  - HUGO_VERSION=0.52
+  preview_output_directory: dist
+  output_directory: dist
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
+version: '0.52'

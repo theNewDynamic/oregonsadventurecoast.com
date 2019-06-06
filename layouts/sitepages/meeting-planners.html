@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix">
+    <div class="m-standard-nav">
+        <h3>Planners</h3>
+    
+        <ul>
+            <li><a href="/meeting-planners">Conventions, Groups & Meeting Planners</a></li>
+            <li><a href="/mtg-planning-meeting-convention">Planning Your Meeting, Retreat, Reunion or Convention</a></li>
+            <li><a href="/mtg-meeting-event-wedding-venues">Meeting, Event, & Wedding Venues</a></li>
+            <li><a href="/mtg-large-group-lodging">Large Group Lodging</a></li>
+            <li><a href="/mtg-event-services">Event Services</a></li>
+            <li><a href="/sports-facilities">Sports Facilities</a></li>
+        </ul>
+    </div>
+    
+    <div class="m-standard-content">
+        <h1>{{ .Title }}</h1>
+    
+        <div class="introtext clearfix">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
+{{ end }}

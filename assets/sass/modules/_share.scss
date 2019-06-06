@@ -1,0 +1,44 @@
+/* Share */
+.m-share ul,
+.m-share li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.m-share {
+    float: right;
+}
+.m-share .share-label {
+    display: none;
+}
+.m-share li {
+    float: left;
+}
+.m-share li a {
+    display: inline-block;
+    padding: 5px 0;
+    width: 38px;
+    text-align: center;
+    color: $white;
+    font-size: 20px;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+.m-share .facebook a {
+    background-color: $facebook;
+}
+.m-share .twitter a {
+    background-color: $twitter;
+}
+.m-share .instagram a {
+    background: url('/layout-images/bg-instagram.png') no-repeat 0 0;
+    background-size: cover;
+}
+.m-share .pinterest a {
+    background-color: $pinterest;
+}
+.m-share li a:link,
+.m-share li a:visited {
+    color: $white;
+    text-decoration: none;
+}

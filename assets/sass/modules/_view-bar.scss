@@ -1,0 +1,120 @@
+/* View Bar */
+.m-view-bar {
+    border-bottom: 1px solid $gray;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+/* Filter */
+.m-view-bar .filter-toggle {
+    display: inline-block;
+    background: url('/layout-images/icon-arrow-down.png') no-repeat 90% 50% $red;
+    background-size: 15px 6px;
+    color: $white;
+    font-family: $fjalla;
+    font-size: 25px;
+    text-transform: uppercase;
+    padding: 0 35px 0 15px;
+    height: 45px;
+    line-height: 45px;
+}
+.m-view-bar .filter-toggle:hover {
+    cursor: pointer;
+}
+
+/* Filters List */
+.m-view-bar .filters-list {
+    background-color: $red;
+    display: none;
+}
+
+/* Filter Menu */
+.m-view-bar .filter {
+    position: relative;
+    float: left;
+    border-right: 1px solid $white;
+    @include medium {
+        float: none;
+    }
+}
+.m-view-bar .filter .selection {
+    font-family: $fjalla;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 35px 10px 15px;
+    font-weight: normal;
+    background: url('/layout-images/icon-arrow-down.png') no-repeat 90% 50%;
+    background-size: 15px 6px;
+    color: $white;
+    @include medium {
+        background-position: 95% 50%;
+    }
+}
+.m-view-bar .filter .selection:hover {
+    cursor: pointer;
+}
+.m-view-bar .filter ul {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 250px;
+    display: none;
+    padding: 0;
+    margin: 0;
+    z-index: 20;
+    @include medium {
+        position: relative;
+        top: auto;
+        left: auto;
+        width: 100%;
+        @include borderBox;
+    }
+}
+.m-view-bar .filter-menu {
+    background-color: #e0e0e0;
+}
+.m-view-bar .filter-menu li {
+    list-style: none;
+    margin: 0;
+    padding: 5px 10px;
+}
+.m-view-bar .filter-menu li:hover {
+    cursor: pointer;
+    background-color: #c8c8c8;
+}
+.m-view-bar .filter-menu .-selected,
+.m-view-bar .filter-menu .-select-all-selected {
+    background: #c8c8c8 url('/layout-images/icon-menu-check.png') no-repeat 95% 50%;
+    background-size: 15px 12px;
+}
+
+/* View */
+.m-view-bar .view {
+    float: right;
+    height: 35px;
+    padding-top: 10px;
+}
+.m-view-bar .view ul,
+.m-view-bar .view li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.m-view-bar .view li {
+    float: left;
+    background-color: rgba($gray, .26);
+    color: $white;
+    @include transition;
+    padding: 0 10px;
+    line-height: 35px;
+    margin-left: 1px;
+    font-size: 18px;
+}
+.m-view-bar .view li:hover {
+    cursor: pointer;
+    background-color: $red;
+}
+.m-view-bar .view .active {
+    background-color: $red;
+}

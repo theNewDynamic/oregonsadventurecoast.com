@@ -1,0 +1,39 @@
+/* HTML/Body */
+html {
+	background-color: #fff;
+}
+body {
+	font-family: $roboto;
+	color: $darkGray;
+}
+
+/* Default Links */
+a {
+	@include transition;
+}
+a:link, a:visited {
+	color: $red;
+}
+a:hover, a:active {
+	color: $black;
+	text-decoration: none;
+}
+
+/* Common Text Styles (p, li, blockquote, etc) */
+p,
+ul,
+li {
+	margin-top: 0;
+}
+
+/* Default Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin-top: 0;
+}
+
+/* Form Styles */

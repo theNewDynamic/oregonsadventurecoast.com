@@ -1,0 +1,292 @@
+.m-nav {
+    background-color: $red;
+    width: 100%;
+    box-sizing: border-box;
+    position: absolute;
+    left: 0;
+    top: 50px;
+    z-index: 500;
+    font-family: $fjalla;
+    @include medium {
+        top: 0;
+        position: relative;
+        height: 42px;
+    }
+    @include smallPlus {
+        height: auto;
+    }
+}
+.m-nav .inner {
+    max-width: 1070px;
+    margin-left: auto;
+    margin-right: auto;
+    @include medium {
+        display: none;
+        width: 50%;
+        background-color: #f0f0f0;
+        max-width: 50%;
+        margin-left: 50%;
+        z-index: 500;
+    }
+    @include smallPlus {
+        width: 100%;
+        max-width: 100%;
+        margin-left: 0;
+    }
+}
+.m-nav .mobile-menu {
+    display: none;
+    @include medium {
+        display: block;
+        text-align: right;
+        color: $white;
+        padding: 10px 20px;
+    }
+}
+.m-nav .mobile-menu .menu-toggle {
+    width: 90px;
+    display: block;
+    float: right;
+}
+.m-nav .mobile-menu .menu-link {
+    float: left;
+    width: 21px;
+    height: 21px;
+    margin-top: 2px;
+}
+.m-nav .mobile-menu .menu-text {
+    float: right;
+}
+.m-nav ul,
+.m-nav li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.m-nav ul {
+    float: right;
+    @include medium {
+        float: none;
+    }
+}
+.m-nav li {
+    float: left;
+    position: relative;
+    text-transform: uppercase;
+    @include medium {
+        float: none;
+        text-align: left;
+        padding: 4px 15px;
+    }
+}
+.m-nav a {
+    display: block;
+    padding: 20px 14px;
+    @include medium {
+        padding: 10px 0;
+        border-bottom: 1px solid #d3d3d3;
+        background: url('/layout-images/img-arrow-right.png') no-repeat 100% 50%;
+        background-size: 6px 15px;
+    }
+}
+.m-nav .search-nav-item {
+    margin-right: 4px;
+    @include medium {
+        display: none;
+    }
+}
+.m-nav a:link,
+.m-nav a:visited {
+    color: $white;
+    text-decoration: none;
+    @include medium {
+        color: $gray;
+    }
+}
+
+/* Subnav */
+.m-nav .subnav {
+    display: none;
+    position: absolute;
+    left: 50%;
+    width: 736px;
+    margin-left: -368px;
+    z-index: 220;
+    padding-top: 30px;
+    @include transition;
+}
+.m-nav .subnav.-small {
+    width: 300px;
+    margin-left: -150px;
+}
+.m-nav .subnav-shadow {
+    box-shadow: 0 0 30px #000;
+}
+.m-nav .subnav-inner {
+    background: url('/layout-images/bg-subnav.jpg') no-repeat 0 0 $white;
+    background-size: cover;
+    padding: 20px 40px;
+    position: relative;
+    z-index: 222;
+}
+.m-nav li:hover .subnav {
+    display: block;
+    @include medium {
+        display: none!important;
+    }
+}
+
+/* Subnav Arrow */
+.m-nav .subnav-arrow {
+    position: absolute;
+    left: 50%;
+    top: 76px;
+    margin-left: -23px;
+    width: 46px;
+    height: 24px;
+    overflow: hidden;
+    display: block;
+    display: none;
+    background: url('/layout-images/subnav-arrow.png') no-repeat 50% 0;
+    z-index: 222;
+}
+.m-nav li:hover .subnav-arrow {
+    display: block;
+}
+
+/* Subnav Styling */
+.m-nav .subnav .col-left,
+.m-nav .subnav .col-mid,
+.m-nav .subnav .col-right {
+    width: 32%;
+    float: left;
+}
+.m-nav .subnav .title {
+    font-size: 13px;
+    font-family: $roboto;
+    border-bottom: 1px solid #d3d3d3;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.m-nav .subnav ul {
+    float: none;
+    display: block;
+}
+.m-nav .subnav li {
+    float: none;
+    display: block;
+    font-size: 14px;
+    font-family: $roboto;
+    font-weight: 300;
+    text-transform: none;
+}
+.m-nav .subnav a {
+    display: block;
+    padding-left: 0;
+    padding-right: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    @include transition;
+}
+.m-nav .subnav a:link,
+.m-nav .subnav a:visited {
+    color: $gray;
+}
+.m-nav .subnav a:hover {
+    color: $black;
+    text-decoration: underline;
+    padding-right: 0;
+    padding-left: 6px;
+}
+
+/* Nav Search */
+.m-nav .search-form .search {
+    width: 80%;
+    @include borderBox;
+    padding: 5px;
+    font-size: 13px;
+    font-family: $roboto;
+    margin-right: 5%;
+}
+.m-nav .search-form .search-btn:hover {
+    cursor: pointer;
+}
+
+/* Mobile Search Form */
+.m-nav .mobile-search-form {
+    display: none;
+    @include medium {
+        margin: 10px;
+        display: block;
+        position: relative;
+        background-color: $white;
+        border-radius: 6px;
+        border: 1px solid $gray;
+        overflow: hidden;
+    }
+}
+.m-nav .mobile-search-form .search {
+    font-size: 16px;
+    font-family: $fjalla;
+    width: 88%;
+    padding: 0 1%;
+    @include borderBox;
+    height: 38px;
+    float: left;
+}
+.m-nav .mobile-search-form .submit {
+    background: $red url('/layout-images/icon-arrow-white-right.png') no-repeat 50% 50%;
+    background-size: 13px 30px;
+    display: block;
+    width: 10%;
+    height: 38px;
+    float: right;
+}
+
+/* Sections for Mobile Menu */
+.m-nav .sections {
+    display: none;
+    @include medium {
+        display: block;
+        padding: 20px 0;
+    }
+}
+.m-nav .sections li {
+    font-weight: 200;
+    font-family: $roboto;
+}
+.m-nav .sections a {
+    font-size: 14px;
+    border: none;
+    background: none;   
+    font-weight: 500;
+}
+
+/* Mobile Social */
+.m-nav .mobile-social {
+    display: none;
+    @include medium {
+        display: block;
+        overflow: hidden;
+    }
+}
+.m-nav .mobile-social h5 {
+    font-family: $roboto;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 0 0 5px 0;
+    margin: 0 15px 5px 15px;
+    border-bottom: 1px solid #d3d3d3;
+}
+.m-nav .mobile-social li {
+    width: 20%;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    float: left;
+}
+.m-nav .mobile-social a {
+    background: none;
+    border: none;
+    font-size: 24px;
+}

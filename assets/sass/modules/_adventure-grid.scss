@@ -1,0 +1,132 @@
+.m-adventure-grid {
+    @include medium {
+        width: 660px;
+        margin: 0 auto;
+    }
+    @include smallPlus {
+        width: 330px;
+        margin: 0 auto;
+    }
+}
+.m-adventure-grid a:link,
+.m-adventure-grid a:visited {
+    color: $white;
+    text-decoration: none;
+}
+.m-adventure-grid .item {
+    width: 290px;
+    height: 200px;
+    border-radius: 6px;
+    overflow: hidden;
+    float: left;
+    position: relative;
+    background-color: $gray;
+    margin: 0 20px 40px 20px;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+.m-adventure-grid .item .label {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 15px;
+    z-index: 11;
+    text-align: right;
+    font-size: 18px;
+    font-weight: 700;
+    @include borderBox;
+    @include transition;
+    color: #303030
+}
+.m-adventure-grid .item .expand {
+    font-size: 34px;
+    font-weight: bold;
+    color: #303030;
+    width: 65px;
+    height: 65px;
+    background: url('/layout-images/bg-adventure-expand.png') no-repeat 0 0;
+    background-size: 65px 65px;
+    line-height: 45px;
+    text-indent: 10px;
+    @include transition;
+}
+.m-adventure-grid .item .overlay {
+    position: absolute;
+    z-index: 10;
+    bottom: 0;
+    display: block;
+    width: 100%;
+    height: 76px;
+    background: url('/layout-images/img-adventures-grid-overlay.png') no-repeat 50% 0;
+    background-size: 100% auto;
+    transition: all .5s;
+}
+
+.m-adventure-grid .item .description {
+    width: 290px;
+    height: 200px;
+    background-color: rgba($red, 0);
+    color: $white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    @include borderBox;
+    padding: 40px 10px 0 10px;
+    @include transition;
+}
+.m-adventure-grid .item .description h3 {
+    position: relative;
+    left: 100%;
+    transition: all .5s;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+.m-adventure-grid .item .description p {
+    position: relative;
+    right: 100%;
+    transition: all .5s;
+    width: 100%;
+    font-size: 14px;
+}
+.m-adventure-grid .item .description .more {
+    opacity: 0;
+    transition: all .5s;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 700;
+    background: url('/layout-images/icon-double-arrow-white.png') no-repeat 100% 50%;
+    background-size: 10px 11px;
+    display: inline-block;
+    padding-right: 20px;
+}
+.m-adventure-grid .item .description .more:link,
+.m-adventure-grid .item .description .more:visited {
+    color: $white;
+    text-decoration: none;
+}
+
+/* Hovers */
+.m-adventure-grid .item:hover {
+    cursor: pointer;
+}
+.m-adventure-grid .item:hover .label,
+.m-adventure-grid .item:hover .expand,
+.m-adventure-grid .item:hover .overlay {
+    opacity: 0;
+}
+.m-adventure-grid .item:hover .description {
+    background-color: rgba($red, .8);
+}
+.m-adventure-grid .item:hover .description h3 {
+    left: 0;
+}
+.m-adventure-grid .item:hover .description p {
+    right: 0;
+}
+.m-adventure-grid .item:hover .description .more {
+    opacity: 1;
+}

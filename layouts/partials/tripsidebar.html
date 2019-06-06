@@ -1,0 +1,38 @@
+<div class="m-standard-nav -three-wide">
+    <div class="nav-group">
+            <h3>Duration</h3>
+
+            <ul>
+                    <li><a href="/tripideas/">All Durations</a></li>
+                {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.durations }}
+                    {{ if ne $taxonomyname "" }}
+                    <li data-taxonomyname="{{ $taxonomyname }}"><a href="{{ "/durations/" | relLangURL}}{{ $taxonomyname | urlize }}">{{ humanize (replace $taxonomyname "--" " & ") }} ({{ $taxonomy.Count }})</a></li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+        </div>
+        
+        <div class="nav-group">
+            <h3>Towns</h3>
+            <ul>
+                    <li><a href="/tripideas/">All Towns</a></li>
+                {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.towns }}
+                    {{ if ne $taxonomyname "" }}
+                    <li data-taxonomyname="{{ $taxonomyname }}"><a href="{{ "/towns/" | relLangURL}}{{ $taxonomyname | urlize }}">{{ humanize (replace $taxonomyname "--" " & ") }} ({{ $taxonomy.Count }})</a></li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+        </div>
+        
+        <div class="nav-group">
+            <h3>Adventures</h3>
+            <ul>
+                    <li><a href="/tripideas/">All Adventures</a></li>
+                {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.tripadventures }}
+                    {{ if ne $taxonomyname "" }}
+                    <li data-taxonomyname="{{ $taxonomyname }}"><a href="{{ "/tripadventures/" | relLangURL}}{{ $taxonomyname | urlize }}">{{ humanize (replace $taxonomyname "--" " & ") }} ({{ $taxonomy.Count }})</a></li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+        </div>
+</div>

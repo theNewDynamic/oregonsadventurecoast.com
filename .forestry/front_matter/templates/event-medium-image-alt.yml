@@ -1,0 +1,11 @@
+---
+label: Event Medium Image + Alt
+hide_body: false
+fields:
+- type: file
+  label: medium
+  name: mediumboxphoto
+  description: Image Size 667px x 355px
+- type: text
+  label: Medium Event Alt
+  name: medium_event_alt

@@ -1,0 +1,33 @@
+[
+    {{- range $index, $e := .Data.Pages }}
+        {{ if $index }},{{ end }}
+        {
+            "title": "{{ htmlEscape .Title }}",
+            "photo_name": "{{ .Params.photo_name }}",
+            "photo_alt": "{{ htmlEscape .Params.photo_alt }}",
+            "property_name": "{{ htmlEscape (default .Title .Params.property_name ) }}",
+            "property_category": "{{ substr .Params.property_category 0 1 }}",
+            "street": "{{ htmlEscape .Params.address.street }}",
+            "street2": "{{ htmlEscape .Params.address.street2 }}",
+            "city": "{{ htmlEscape .Params.address.city }}",
+            "state": "{{ htmlEscape .Params.address.state }}",
+            "zip": "{{ htmlEscape .Params.address.zip }}",
+            "phone_toll_free": "{{ htmlEscape .Params.phone_toll_free }}",
+            "phone_local": "{{ htmlEscape .Params.phone_local }}",
+            "units": "{{ htmlEscape .Params.units }}",
+            "cost": "{{ substr (htmlEscape .Params.cost) 0 1 }}",
+            "property_description": {{ .Params.property_description | jsonify }},
+            "website": "{{ htmlEscape .Params.website }}",
+            "amenityList": [
+                {{- range $amenityIndex, $amenity := .Params.amenityList -}}
+                {{- if $amenityIndex }},{{ end -}}
+                    {{ if eq (printf "%T" $amenity) "string" }}
+                        {{ index (split $amenity " - ") 0 }}
+                    {{ else }}
+                        {{ index $amenity "amenitySelect" }}
+                    {{ end }}
+                {{- end -}}
+            ]
+        }
+    {{ end -}}
+]

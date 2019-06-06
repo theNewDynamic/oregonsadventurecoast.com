@@ -1,0 +1,131 @@
+.m-event {
+    @include g-wrap;
+}
+.m-event .col-left {
+    width: 210px;
+    float: left;
+    @include medium {
+        display: none;
+    }
+}
+.m-event .col-right {
+    width: 715px;
+    float: right;
+    @include medium {
+        float: none;
+        clear: both;
+        padding: 30px 20px;
+        @include borderBox;
+        width: 100%;
+    }
+}
+.m-event .sidebar h3 {
+    font-family: $fjalla;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: $white;
+    background-color: $red;
+    padding: 15px 15px 0 0;
+    line-height: .7em;
+    margin: 0 0 20px 0;
+    font-weight: normal;
+    position: relative;
+}
+.m-event .sidebar h3 .icon {
+    position: absolute;
+    bottom: 0;
+    padding-left: 6px;
+}
+.m-event .address {
+    background: url('/layout-images/icon-map-pin.png') no-repeat 0 3px;
+    background-size: 10px 14px;
+    padding-left: 20px;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+.m-event .phone {
+    background: url('/layout-images/icon-phone.png') no-repeat 0 3px;
+    background-size: 14px 14px;
+    padding-left: 20px;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+.m-event .website {
+    background: url('/layout-images/icon-globe.png') no-repeat 0 3px;
+    background-size: 14px 14px;
+    padding-left: 20px;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+.m-event a:link,
+.m-event a:visited {
+    color: $red;
+    text-decoration: none;
+}
+.m-event a:hover {
+    color: $darkGray;
+}
+
+/* Content */
+.m-event .content h1 {
+    @include h1;
+}
+.m-event .content .date {
+    background-color: $red;
+    color: $white;
+    padding: 5px 15px;
+    font-size: 24px;
+    text-transform: uppercase;
+    border-radius: 4px;
+    font-weight: 500;
+    @include smallPlus {
+        font-size: 18px;
+    }
+}
+.m-event .content .inner {
+    padding: 0 15px;
+    @include p;
+}
+.m-event .content h2 {
+    @include h2;
+}
+.m-event .content h3 {
+    @include h3;
+}
+
+/* Mobile Details */
+.m-event .mobile-event-details {
+    display: none;
+    @include medium {
+        display: block;
+    }
+}
+.m-event .mobile-event-details.-medium {
+    @include smallPlus {
+        display: none;
+    }
+}
+.m-event .mobile-event-details.-small {
+    @include medium {
+        display: none;
+    }
+    @include smallPlus {
+        display: block;
+    }
+}
+.m-event .mobile-event-details .mobile-left {
+    width: 45%;
+    float: left;
+}
+.m-event .mobile-event-details .mobile-right {
+    width: 45%;
+    float: right;
+}
+.m-event .mobile-event-details.-small .mobile-left,
+.m-event .mobile-event-details.-small .mobile-right {
+    width: 100%;
+    float: none;
+}
+.m-event .mobile-event-details.-medium .phone {
+    margin: 0;
+}

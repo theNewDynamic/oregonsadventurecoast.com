@@ -1,0 +1,30 @@
+---
+label: Contact
+hide_body: false
+fields:
+- type: field_group
+  name: address
+  label: Address
+  fields:
+  - type: text
+    name: street
+    label: Street
+  - type: text
+    name: street2
+    label: Street 2
+  - type: text
+    name: city
+    label: City
+  - type: text
+    name: zip
+    label: ZIP Code
+- type: text
+  name: phone_local
+  label: Phone Local
+- type: text
+  name: phone_toll_free
+  label: Phone Toll Free
+- type: text
+  name: website
+  label: Website
+  description: Website's URL. Include protocole (https://)

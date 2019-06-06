@@ -1,0 +1,15 @@
+.m-home-splash {
+    @include g-wrap;
+    margin-bottom: 20px;
+    @include medium {
+        width: 768px;
+        padding: 0;
+    }
+    @include smallPlus {
+        width: 345px;
+    }
+}
+.m-home-splash img {
+    display: block;
+    width: 100%;
+}

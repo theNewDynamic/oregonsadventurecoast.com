@@ -1,0 +1,44 @@
+---
+label: Trip Ideas
+hide_body: false
+fields:
+- type: text
+  default: ''
+  label: Title
+  name: title
+- type: textarea
+  name: description
+  label: Description
+- type: file
+  name: image
+  label: Image
+- type: list
+  name: towns
+  label: Towns
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: towns
+      file: site/data/taxonomies.yaml
+      path: towns
+- type: list
+  name: tripadventures
+  label: Adventures
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: towns
+      file: site/data/taxonomies.yaml
+      path: adventures
+- type: list
+  name: durations
+  label: Durations
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: towns
+      file: site/data/taxonomies.yaml
+      path: durations

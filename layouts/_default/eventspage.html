@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix">
+    <div class="m-events">
+        <h1>{{ .Title }}</h1>
+
+        <div class="introtext">
+            {{ .Content }}
+        </div>
+        
+    </div>
+</div>
+
+<div class="m-events-grid clearfix">
+    <div id="event-large"></div>
+    <div class="events-grid-left" id="event-left"></div>
+    <div class="events-grid-right" id="event-right"></div>
+</div>
+
+<div class="m-events-list" id="more-events">
+    
+</div>
+
+{{ end }}
+
+{{ define "footerJs" }}
+<script src="/js/events.js"></script>
+{{ end }}

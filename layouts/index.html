@@ -1,0 +1,231 @@
+{{ define "main" }}
+
+<div class="m-homeslideshow">
+    <div class="slides cycle-slideshow"
+    data-cycle-fx="cycle-slideshow" 
+    data-cycle-pause-on-hover="true"
+    data-cycle-timeout="6000"
+    data-cycle-speed="1200"
+    data-cycle-slides="> div">
+    {{ range .Params.slideshow }}
+
+        <div class="slide">
+            <img src="{{ .photo }}" alt="{{ .title }}">
+            <div class="title">{{ .title }}</div>
+        </div>
+
+    {{ end }}
+    </div>
+<div class="overlay">
+    <img src="/layout-images/img-swoosh-overlay.png" alt="">
+</div>
+</div>
+
+
+<div class="m-homeslideshow-mobile">
+{{ range first 1 .Params.slideshow }}
+
+    <div class="slide">
+        <img src="{{ .photo }}" alt="{{ .title }}">
+    </div>
+
+{{ end }}
+<div class="overlay">
+    <img src="/layout-images/img-swoosh-overlay.png" alt="">
+</div>
+</div>
+
+<div class="m-visitor-guide-download">
+    <a href="/img/Oregon-Coast-Visitor-Guide.pdf">Download Our<br>Visitor Guide</a>
+</div>
+
+<div class="m-homewelcome clearfix">
+    <h1>{{ .Params.welcomeheadline }}</h1>
+
+    <img src="/layout-images/img-soul-meets-sea.png" alt="Where the Soul Meets the Sea" class="welcome-logo">
+
+    <div class="welcometext">
+        {{ .Content }}
+    </div>
+</div>
+
+<div class="m-home-splash">
+    <a href="adventures">
+        <img src="/layout-images/img-home-breathtaking.jpg" alt="Breathtaking">
+    </a>
+</div>
+
+<div class="m-home-grid clearfix">
+    <div class="home-grid-left">
+        <div class="newsletter">
+            <h2>Sign Up for E-Newsletter</h2>
+            <p>Find out about the latest deals &amp; events.</p>
+
+
+            <form action="https://oregonsadventurecoast.us17.list-manage.com/subscribe/post?u=23d20aa9dd6b1cc84d8ba12c6&amp;id=2e9c9509c9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                
+                <input type="email" value="" name="EMAIL" class="text" id="mce-EMAIL" placeholder="Enter Email Address">
+                <input type="submit" value="" name="subscribe" id="mc-embedded-subscribe" class="btn">
+
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_23d20aa9dd6b1cc84d8ba12c6_2e9c9509c9" tabindex="-1" value=""></div>
+            </form>
+            
+        </div>
+    
+        <a href="{{ .Params.masonry1.url }}">
+            <div class="item -tiny" style="background-image: url({{ .Params.masonry1.desktopphoto }});">
+                <div class="description">
+                    <h3>{{ .Params.masonry1.hovertitle }}</h3>
+                    <p>{{ .Params.masonry1.hoverdescription }}</p>
+                    <span class="more">Learn More</span>
+                </div>
+                <div class="expand">+</div>
+                <div class="label">{{ .Params.masonry1.desktoptitle }}</div>
+                <div class="overlay"></div>
+            </div>
+            <div class="item-mobile" style="background-image: url({{ .Params.masonry1.mobilephoto }});">
+                <div class="label">{{ .Params.masonry1.mobiletitle }}</div>
+                <div class="overlay"></div>
+            </div>
+        </a>
+
+        <a href="{{ .Params.masonry2.url }}">
+            <div class="item -large" style="background-image: url({{ .Params.masonry2.desktopphoto }});">
+                <div class="description">
+                        <h3>{{ .Params.masonry2.hovertitle }}</h3>
+                        <p>{{ .Params.masonry2.hoverdescription }}</p>
+                        <span class="more">Learn More</span>
+                </div>
+                <div class="expand">+</div>
+                <div class="label">{{ .Params.masonry2.desktoptitle }}</div>
+                <div class="overlay"></div>
+            </div>
+            <div class="item-mobile" style="background-image: url({{ .Params.masonry2.mobilephoto }});">
+                <div class="label">{{ .Params.masonry2.mobiletitle }}</div>
+                <div class="overlay"></div>
+            </div>
+        </a>
+
+        <a href="{{ .Params.masonry3.url }}">
+            <div class="item -small" style="background-image: url({{ .Params.masonry3.desktopphoto }});">
+                <div class="description">
+                    <h3>{{ .Params.masonry3.hovertitle }}</h3>
+                    <p>{{ .Params.masonry3.hoverdescription }}</p>
+                    <span class="more">Learn More</span>
+                </div>
+                <div class="expand">+</div>
+                <div class="label">{{ .Params.masonry3.desktoptitle }}</div>
+                <div class="overlay"></div>
+            </div>
+            <div class="item-mobile" style="background-image: url({{ .Params.masonry3.mobilephoto }});">
+                <div class="label">{{ .Params.masonry3.mobiletitle }}</div>
+                <div class="overlay"></div>
+            </div>
+        </a>
+
+        <a href="{{ .Params.masonry4.url }}">
+            <div class="item -smallWide" style="background-image: url({{ .Params.masonry4.desktopphoto }});">
+                <div class="description">
+                    <h3>{{ .Params.masonry4.hovertitle }}</h3>
+                    <p>{{ .Params.masonry4.hoverdescription }}</p>
+                    <span class="more">Learn More</span>
+                </div>
+                <div class="expand">+</div>
+                <div class="label">{{ .Params.masonry4.desktoptitle }}</div>
+                <div class="overlay"></div>
+            </div>
+            <div class="item-mobile" style="background-image: url({{ .Params.masonry4.mobilephoto }});">
+                <div class="label">{{ .Params.masonry4.mobiletitle }}</div>
+                <div class="overlay"></div>
+            </div>
+        </a>
+    </div>
+
+    <div class="home-grid-right">
+        <a href="{{ .Params.masonry5.url }}">
+            <div class="item -medium" style="background-image: url({{ .Params.masonry5.desktopphoto }});">
+                <div class="description">
+                    <h3>{{ .Params.masonry5.hovertitle }}</h3>
+                    <p>{{ .Params.masonry5.hoverdescription }}</p>
+                    <span class="more">Learn More</span>
+                </div>
+                <div class="expand">+</div>
+                <div class="label">{{ .Params.masonry5.desktoptitle }}</div>
+                <div class="overlay"></div>
+            </div>
+            <div class="item-mobile" style="background-image: url({{ .Params.masonry5.mobilephoto }});">
+                <div class="label">{{ .Params.masonry5.mobiletitle }}</div>
+                <div class="overlay"></div>
+            </div>
+        </a>
+
+        <a href="{{ .Params.masonry6.url }}">
+            <div class="item -medium" style="background-image: url({{ .Params.masonry6.desktopphoto }});">
+                <div class="description">
+                    <h3>{{ .Params.masonry6.hovertitle }}</h3>
+                    <p>{{ .Params.masonry6.hoverdescription }}</p>
+                    <span class="more">Learn More</span>
+                </div>
+                <div class="expand">+</div>
+                <div class="label">{{ .Params.masonry6.desktoptitle }}</div>
+                <div class="overlay"></div>
+            </div>
+            <div class="item-mobile" style="background-image: url({{ .Params.masonry6.mobilephoto }});">
+                <div class="label">{{ .Params.masonry6.mobiletitle }}</div>
+                <div class="overlay"></div>
+            </div>
+        </a>
+
+        <a href="{{ .Params.masonry7.url }}">
+            <div class="item -medium" style="background-image: url({{ .Params.masonry7.desktopphoto }});">
+                <div class="description">
+                    <h3>{{ .Params.masonry7.hovertitle }}</h3>
+                    <p>{{ .Params.masonry7.hoverdescription }}</p>
+                    <span class="more">Learn More</span>
+                </div>
+                <div class="expand">+</div>
+                <div class="label">{{ .Params.masonry7.desktoptitle }}</div>
+                <div class="overlay"></div>
+            </div>
+            <div class="item-mobile" style="background-image: url({{ .Params.masonry7.mobilephoto }});">
+                <div class="label">{{ .Params.masonry7.mobiletitle }}</div>
+                <div class="overlay"></div>
+            </div>
+        </a>
+    </div>
+
+    <a href="/contact">
+    <div class="mobile-visitor-guide">
+        <h3>Official Visitor Guide</h3>
+        <p>Download or Order Today</p>
+    </div>
+    </a>
+</div>
+
+<div class="m-home-titlebar">
+    <h2>The Adventure Starts Here</h2>
+    <i class="titlebar-arrow"></i>
+</div>
+
+<div class="m-home-blog clearfix">
+
+    {{ range first 3 (where .Data.Pages "Section" "blog") }}
+        <div class="post">
+            <div class="photo">
+                <a href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="{{ .Title }}"></a>
+            </div>
+            <div class="content">
+                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                <p>{{ .Description | safeHTML }}</p>
+                <a href="{{ .Permalink }}" class="more-btn">Learn More &raquo;</a>
+            </div>
+        </div>
+    {{ end }}
+
+</div>
+
+{{ end }}
+
+{{ define "footerJs" }}
+<script src="/js/cycle2.min.js"></script>
+{{ end }}

@@ -1,0 +1,48 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  label: Publish Date
+  name: date
+  description: Date this post should be public.
+  hidden: false
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Description
+  description: Text introducing the post on list pages.
+- type: file
+  name: image
+  label: Image
+  description: Blog photo header - size and scale to 695px by 322px.
+- type: tag_list
+  name: tags
+  label: Tags
+  description: Hit the TAB key after each Tag is entered.
+- type: tag_list
+  name: categories
+  label: Categories
+  description: Hit the TAB key after each Category is entered.
+pages:
+- site/content/blog/best-ways-to-experience-the-oregon-dunes.md
+- site/content/blog/featured-adventure-see-oregon-s-south-coast-on-a-coos-boat-tour.md
+- site/content/blog/hit-the-trails-six-hiking-destinations-to-explore-on-oregon-s-adventure-coast.md
+- site/content/blog/helpful-travel-tips-for-savvy-travelers.md
+- site/content/blog/come-for-the-lights-stay-for-the-sights.md
+- site/content/blog/charleston-marine-life-center-in-a-hidden-gem.md
+- site/content/blog/get-ready-for-the-35th-annual-charleston-crab-feed.md
+- site/content/blog/six-instagrammable-places-on-oregon-s-adventure-coast.md
+- site/content/blog/winter-steelhead-fishing-forecast-for-2019.md
+- site/content/blog/after-you-see-the-tall-ships-see-more-of-oregon-s-adventure-coast.md
+- site/content/blog/coos-bay-named-tree-city-usa.md
+- site/content/blog/where-can-i-find-the-best-oysters-on-oregon-s-adventure-coast.md
+- site/content/blog/spring-video.md
+- site/content/blog/crabbing-and-clamming-on-the-oregon-coast.md
+- site/content/blog/2019-spring-whale-watching-week-on-oregon-s-adventure-coast.md
+- site/content/blog/five-fun-and-funky-places-to-stay-on-oregon-s-adventure-coast.md
+- site/content/blog/where-the-soul-meets-the-sea-video.md

@@ -1,0 +1,43 @@
+.m-copyright-footer {
+    font-family: $roboto;
+    font-weight: 300;
+    color: $white;
+    padding: 20px 0;
+    border-top: 1px solid $white;
+    @include medium {
+        margin: 0 3%;
+        width: 94%;
+    }
+    @include smallPlus {
+        border-top: none;
+    }
+}
+.m-copyright-footer p {
+    margin: 0;
+    padding: 0;
+}
+.m-copyright-footer .copyright {
+    font-size: 14px;
+    float: left;
+    @include smallPlus {
+        float: none;
+        text-align: center;
+    }
+}
+.m-copyright-footer .locations {
+    float: right;
+    @include smallPlus {
+        float: none;
+        text-align: center;
+        padding-bottom: 20px;
+        border-bottom: 1px solid $white;
+        margin-bottom: 20px;
+    }
+}
+.m-copyright-footer .locations a:link, .m-copyright-footer .locations a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+.m-copyright-footer .locations a:hover {
+    text-decoration: none;
+}

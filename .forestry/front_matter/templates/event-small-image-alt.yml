@@ -1,0 +1,11 @@
+---
+label: Event Small Image + Alt
+hide_body: false
+fields:
+- type: file
+  name: smallboxphoto
+  label: small
+  description: Image Size 340px x 214px
+- type: text
+  name: photo_alt
+  label: Alternate Image Text

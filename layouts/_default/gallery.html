@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix">
+    <div class="m-standard-content -full">
+        <h1>{{ .Title }}</h1>
+        <div id="instafeed"></div>
+    </div>
+</div>
+
+{{ end }}
+
+{{ define "footerJs" }}
+<script src="/js/instagram.js"></script>
+{{ end }}

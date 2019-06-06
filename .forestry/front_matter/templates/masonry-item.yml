@@ -1,0 +1,14 @@
+---
+label: Masonry Item
+hide_body: false
+display_field: title_for_desktop
+fields:
+- type: file
+  name: desktopphoto
+  label: Image for Desktop
+- type: text
+  name: title_for_desktop
+  label: Title for Desktop
+- type: text
+  name: url
+  label: URL

@@ -1,0 +1,10 @@
+#hd {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 600;
+    width: 100%;
+    @include smallPlus {
+        position: relative;
+    }
+}

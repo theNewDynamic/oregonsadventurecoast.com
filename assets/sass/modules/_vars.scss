@@ -1,0 +1,168 @@
+/* Fonts */
+$defaultFont: Arial, sans-serif;
+$fjalla: 'Fjalla One', sans-serif;
+$calli: 'Calligraffitti', cursive;
+$roboto: 'Roboto', sans-serif;
+
+/* Colors */
+$red: #d74029;
+$white: #ffffff;
+$black: #000;
+$cyan: #76ced9;
+$lightGray: #909090;
+$gray: #606060;
+$darkGray: #303030;
+
+/* Social Colors */
+$twitter: #1da1f2;
+$facebook: #3b5998;
+$pinterest: #c92228;
+
+/* Common Font Styles */
+b, strong {
+font-weight: 500;
+}
+@mixin h1 {
+  font-size: 42px;
+  font-weight: 200;
+  margin: 0 0 .5em 0;
+  line-height: 1.125em;
+  font-family: $roboto;
+  @include smallPlus {
+    font-size: 30px;
+  }
+}
+@mixin h2 {
+  font-size: 24px;
+  font-weight: 600;
+  margin: 0 0 .2em 0;
+  line-height: 1.125em;
+  font-family: $roboto;
+  color: #303030;
+  text-transform: uppercase;
+  @include smallPlus {
+    font-size: 18px;
+  }
+}
+@mixin h3 {
+  font-size: 24px;
+  font-weight: 600;
+  margin: 1.5em 0 .2em 0;
+  line-height: 1.125em;
+  font-family: $roboto;
+  color: #303030;
+  text-transform: uppercase;
+  @include smallPlus {
+    font-size: 18px;
+  }
+}
+@mixin h4 {
+  font-size: 21px;
+  font-weight: 600;
+  margin: 0 0 .2em 0;
+  line-height: 1.125em;
+  font-family: $roboto;
+  color: #303030;
+  text-transform: uppercase;
+  @include smallPlus {
+    font-size: 16px;
+  }
+}
+@mixin p {
+  font-size: 18px;
+  line-height: 1.5em;
+  font-weight: 300;
+  font-family: $roboto;
+  @include smallPlus {
+    font-size: 13px;
+    line-height: 1.3125em;
+  }
+}
+
+/* Helpers */
+@mixin textHide {
+  text-indent: 100%;
+  overflow: hidden;
+  text-align: left;
+  white-space: nowrap;
+}
+
+@mixin transition {
+  -webkit-transition: all .25s;
+  -moz-transition: all .25s;
+  transition: all .25s;
+}
+
+@mixin borderBox {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Media Queries */
+$xsmall: 400px;
+$small: 640px;
+$smallPlus: 767px;
+$medium: 1025px;
+$mediumPlus: 1080px;
+$large: 1200px;
+
+@mixin xsmall {
+  @media only screen and (max-width: $xsmall) {
+    @content;
+  }
+}
+
+@mixin small {
+  @media only screen and (max-width: $small) {
+    @content;
+  }
+}
+
+@mixin smallPlus {
+  @media only screen and (max-width: $smallPlus) {
+    @content;
+  }
+}
+
+@mixin smallPlusUp {
+  @media only screen and (min-width: $smallPlus) {
+    @content;
+  }
+}
+
+@mixin medium {
+  @media only screen and (max-width: $medium) {
+    @content;
+  }
+}
+
+@mixin mediumUp {
+  @media only screen and (min-width: $medium) {
+    @content;
+  }
+}
+
+@mixin mediumPlus {
+  @media only screen and (max-width: $mediumPlus) {
+    @content;
+  }
+}
+
+@mixin large {
+  @media only screen and (max-width: $large) {
+    @content;
+  }
+}
+
+@mixin largeUp {
+  @media only screen and (min-width: $large) {
+    @content;
+  }
+}
+
+@mixin custom( $custom ) {
+  @media only screen and (max-width: $custom) {
+    @content;
+  }
+}

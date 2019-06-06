@@ -1,0 +1,53 @@
+.m-pagination {
+    clear: both;
+    margin-top:20px;
+}
+.m-pagination .pagination {
+    float: right;
+}
+.m-pagination #paginate-prev {
+    background: url('/layout-images/img-arrow-left.png') no-repeat 50% 50%;
+    background-size: 7px 16px;
+    width: 20px;
+    height: 32px;
+    overflow: hidden;
+    text-indent: 100%;
+    float: left;
+}
+.m-pagination #paginate-next {
+    background: url('/layout-images/img-arrow-right.png') no-repeat 50% 50%;
+    background-size: 7px 16px;
+    width: 20px;
+    height: 32px;
+    overflow: hidden;
+    text-indent: 100%;
+    float: right;
+}
+.m-pagination #paginate-prev:hover,
+.m-pagination #paginate-next:hover {
+    cursor: pointer;
+}
+.m-pagination .numbers {
+    float: left;
+}
+.m-pagination .numbers span {
+    display: inline-block;
+    padding: 4px 10px;
+    background-color: rgba($gray, .37);
+    font-size: 18px;
+    color: $white;
+    border-radius: 4px;
+    @include transition;
+    font-weight: bold;
+}
+.m-pagination .numbers span.current,
+.m-pagination .numbers span:hover {
+    cursor: pointer;
+    background-color: $red;
+}
+.m-pagination .-paginate-disabled {
+    opacity: .4;
+}
+.m-pagination .-paginate-disabled:hover {
+    cursor: default!important;
+}

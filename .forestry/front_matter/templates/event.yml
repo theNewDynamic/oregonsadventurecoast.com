@@ -1,0 +1,35 @@
+---
+label: Event
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: startdate
+  label: Start Date
+  description: 'IMPORTANT: Date must be entered YYYY-MM-DD (NO Time)'
+- type: text
+  name: enddate
+  label: End Date
+  description: 'IMPORTANT: Date must be entered YYYY-MM-DD (NO Time)'
+- type: include
+  template: contact
+  label: Contact
+  name: contact
+- type: include
+  template: event-specials
+  label: Animated Box
+  name: animated_box
+  description: Information to display in the Animated box
+- type: include
+  name: image
+  label: Image
+  template: image
+pages:
+- site/content/event/116th-birthday-north-bend-july-jubilee.md
+- site/content/event/july-3rd-july-4th-on-oregon-s-adventure-coast.md
+- site/content/event/37th-annual-blackberry-arts-festival.md
+- site/content/event/8th-annual-bbq-blues-brews-on-the-bay.md
+- site/content/event/lady-washington-hawaiian-chieftain-tall-ships.md
+- site/content/event/41st-annual-oregon-coast-music-festival.md

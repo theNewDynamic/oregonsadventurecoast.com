@@ -1,0 +1,34 @@
+/* Generic Wrapper For Content */
+@mixin g-wrap {
+    max-width: 1024px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    @include medium {
+        padding: 0 10px;
+    }
+}
+.g-wrap {
+    @include g-wrap;
+}
+
+/* Swoosh Bullet */
+.g-swoosh-bullet {
+    display: inline-block;
+    width: 13px;
+    height: 6px;
+    vertical-align: middle;
+    background: url('/layout-images/icon-bullet.png') no-repeat 0 0;
+    background-size: 13px 6px;
+}
+
+/* Read More */
+.g-read-more {
+    font-weight: bold;
+}
+
+/* Capitalize */
+.g-capitalize {
+    text-transform: capitalize;
+}

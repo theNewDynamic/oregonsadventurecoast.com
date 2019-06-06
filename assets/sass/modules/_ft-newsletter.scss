@@ -1,0 +1,55 @@
+.m-ft-newsletter {
+    padding-top: 30px;
+    padding-bottom: 40px;
+    @include smallPlus {
+        display: none;
+    }
+}
+.m-ft-newsletter h4 {
+    font-family: $roboto;
+    font-weight: 300;
+    font-size: 17px;
+    margin: 0;
+}
+.m-ft-newsletter p {
+    font-family: $roboto;
+    font-weight: 300;
+    font-size: 12px;
+    margin: 0;
+}
+.m-ft-newsletter .newsletter-form {
+    padding-top: 15px;
+}
+.m-ft-newsletter .text {
+    width: 80%;
+    @include borderBox;
+    float: left;
+    border: none;
+    background-color: rgba($white, .65);
+    line-height: 36px;
+    padding: 2px 10px;
+    font-size: 14px;
+    @include transition;
+}
+.m-ft-newsletter .text:hover,
+.m-ft-newsletter .text:focus,
+.m-ft-newsletter .text:active {
+    box-shadow: none;
+    outline: none;
+    background-color: rgba($white, 1);
+}
+.m-ft-newsletter .btn {
+    background: url('/layout-images/icon-button-arrow.png') no-repeat 50% 50% $cyan;
+    background-size: 8px 19px;
+    border: none;
+    line-height: 37px;
+    width: 20%;
+    vertical-align: middle;
+    @include borderBox;
+    float: left;
+    @include transition;
+}
+.m-ft-newsletter .btn:hover {
+    background-color: rgba($cyan, .75);
+    cursor: pointer;
+}

@@ -1,0 +1,10 @@
+---
+label: Image + Alt
+hide_body: false
+fields:
+- type: file
+  label: Image
+  name: photo_name
+- type: text
+  name: photo_alt
+  label: Image Alternate Attribute

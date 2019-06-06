@@ -1,0 +1,110 @@
+#Force non-www:
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.oregonsadventurecoast\.com [NC]
+RewriteRule ^(.*)$ https://oregonsadventurecoast.com/$1 [L,R=301]
+
+#Force SSL
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+ErrorDocument 404 /404/
+
+Redirect 301 /featured-adventures https://oregonsadventurecoast.com/adventures
+Redirect 301 /featured-adventures/state-parks https://oregonsadventurecoast.com/state-parks-and-national-lands
+Redirect 301 /featured-adventures/walking-hiking https://oregonsadventurecoast.com/hiking-walking
+Redirect 301 /featured-adventures/undeveloped-beaches https://oregonsadventurecoast.com/untamed-dunes
+Redirect 301 /featured-adventures/the-dunes https://oregonsadventurecoast.com/untamed-dunes
+Redirect 301 /featured-adventures/fishing-crabbing-clamming https://oregonsadventurecoast.com/fishing
+Redirect 301 /featured-adventures/atving-motorsports https://oregonsadventurecoast.com/atv-motorsports
+Redirect 301 /featured-adventures/history-culture https://oregonsadventurecoast.com/art-history-culture
+Redirect 301 /featured-adventures/stormwatching https://oregonsadventurecoast.com/storm-watching
+Redirect 301 /featured-adventures/birding https://oregonsadventurecoast.com/birding-and-wildlife
+Redirect 301 /group-travel https://oregonsadventurecoast.com/meeting-planners
+Redirect 301 /group-travel/bring-it-home-planning-your-meeting https://oregonsadventurecoast.com/mtg-planning-meeting-convention
+Redirect 301 /group-travel/meeting-venues https://oregonsadventurecoast.com/mtg-meeting-event-wedding-venues
+Redirect 301 /group-travel/large-group-lodging https://oregonsadventurecoast.com/mtg-large-group-lodging
+Redirect 301 /group-travel/event-services https://oregonsadventurecoast.com/mtg-event-services
+Redirect 301 /group-travel/meeting-convention-info-request https://oregonsadventurecoast.com/meeting-planners
+Redirect 301 /group-travel/sports-facilities https://oregonsadventurecoast.com/meeting-planners
+Redirect 301 /group-travel/sports-facilities/city-of-north-bend-municipal-swimming-pool https://oregonsadventurecoast.com/meeting-planners
+Redirect 301 /group-travel/sports-facilities/southwestern-oregon-community-college https://oregonsadventurecoast.com/meeting-planners
+Redirect 301 /tours-charters https://oregonsadventurecoast.com/tour-guides-and-charters
+Redirect 301 /equipment-rentals-sales https://oregonsadventurecoast.com/equipment-rent-and-buy
+Redirect 301 /listings/door-bugs https://oregonsadventurecoast.com/equipment-rent-and-buy
+Redirect 301 /listings/sharkys-charters https://oregonsadventurecoast.com/equipment-rent-and-buy
+Redirect 301 /listings/steves-atv-rental https://oregonsadventurecoast.com/equipment-rent-and-buy
+Redirect 301 /listings/waxers-surf-skate-shop https://oregonsadventurecoast.com/equipment-rent-and-buy
+Redirect 301 /about https://oregonsadventurecoast.com/our-area
+Redirect 301 /towns/north-bend https://oregonsadventurecoast.com/our-area-north-bend
+Redirect 301 /towns/coos-bay https://oregonsadventurecoast.com/our-area-coos-bay
+Redirect 301 /towns/charleston https://oregonsadventurecoast.com/our-area-charleston
+Redirect 301 /about/tribal-heritage https://oregonsadventurecoast.com/tribal-heritage-coquilles
+Redirect 301 /about/relocation-information https://oregonsadventurecoast.com/travelers-info
+Redirect 301 /about/chamber-of-commerce/ https://oregonsadventurecoast.com/bay-area-chamber
+Redirect 301 /about/prefontaine https://oregonsadventurecoast.com/steve-prefontaine-story
+Redirect 301 /about/prefontaine/a-letter https://oregonsadventurecoast.com/steve-prefontaine-story
+Redirect 301 /travelers-guide https://oregonsadventurecoast.com/travelers-info
+Redirect 301 /photo-gallery https://oregonsadventurecoast.com
+Redirect 301 /wp-content/uploads/2018/06/Oregon-Coast-Visitor-Guide.pdf https://oregonsadventurecoast.com/img/Oregon-Coast-Visitor-Guide.pdf
+Redirect 301 /trip-ideas/durations/full-day https://oregonsadventurecoast.com/durations/full-day
+Redirect 301 /trip-ideas/durations/half-day https://oregonsadventurecoast.com/durations/half-day
+Redirect 301 /trip-ideas/durations/long-weekend https://oregonsadventurecoast.com/durations/long-weekend
+Redirect 301 /trip-ideas https://oregonsadventurecoast.com/tripideas
+Redirect 301 /trip-ideas/town/charleston https://oregonsadventurecoast.com/towns/charleston
+Redirect 301 /trip-ideas/winter-fun-in-oregons-adventure-coast https://oregonsadventurecoast.com/tripideas/winter-fun-in-oregons-adventure-coast
+Redirect 301 /trip-ideas/sand-seafood-and-surf-in-coos-bay https://oregonsadventurecoast.com/tripideas/sand-seafood-and-surf-in-coos-bay
+Redirect 301 /trip-ideas/saltwater-fishing-ocean-bay https://oregonsadventurecoast.com/tripideas/saltwater-fishing--ocean-bay
+Redirect 301 /trip-ideas/crabbing-and-clamming https://oregonsadventurecoast.com/tripideas/crabbing-and-clamming
+Redirect 301 /trip-ideas/charleston-to-bandon-tour-route https://oregonsadventurecoast.com/tripideas/charleston-to-bandon-tour-route
+Redirect 301 /trip-ideas/explore-the-cape-arago-beach-loop https://oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop
+Redirect 301 /trip-ideas/day-by-day-like-travel-writer-nancy-brown https://oregonsadventurecoast.com/tripideas/day-by-day-like-travel-writer-nancy-brown
+Redirect 301 /trip-ideas/kayak-fishing-on-the-south-coast https://oregonsadventurecoast.com/tripideas/kayak-fishing-on-the-south-coast
+Redirect 301 /trip-ideas/discover-historic-front-street https://oregonsadventurecoast.com/tripideas/discover-historic-front-street
+Redirect 301 /trip-ideas/historic-walking-tour-of-coos-bay https://oregonsadventurecoast.com/tripideas/historic-walking-tour-of-coos-bay
+Redirect 301 /trip-ideas/fresh-water-fishing-options-by-body-of-water https://oregonsadventurecoast.com/tripideas/fresh-water-fishing-options--by-body-of-water
+Redirect 301 /trip-ideas/southern-oregon-coast-lighthouses https://oregonsadventurecoast.com/tripideas/southern-oregon-coast-lighthouses
+Redirect 301 /trip-ideas/guide-to-the-oregon-dunes-national-recreation-area-2 https://oregonsadventurecoast.com/tripideas/oregon-dunes-national-recreation-area
+Redirect 301 /eat-drink https://oregonsadventurecoast.com/dining
+Redirect 301 /activities/category/atv-motorsports https://oregonsadventurecoast.com/atv-motorsports
+Redirect 301 /activities/category/beach https://oregonsadventurecoast.com/undeveloped-beaches
+Redirect 301 /activities/category/birding https://oregonsadventurecoast.com/birding-and-wildlife
+Redirect 301 /activities/category/culture-museums https://oregonsadventurecoast.com/art-history-culture
+Redirect 301 /activities/category/cycling https://oregonsadventurecoast.com/cycling
+Redirect 301 /activities/category/dunes https://oregonsadventurecoast.com/untamed-dunes
+Redirect 301 /activities/category/eat-drink-activities https://oregonsadventurecoast.com/dining
+Redirect 301 /activities/category/entertainment https://oregonsadventurecoast.com/entertainment-and-nightlife
+Redirect 301 /activities/category/events https://oregonsadventurecoast.com/calendar
+Redirect 301 /activities/category/fishing https://oregonsadventurecoast.com/fishing
+Redirect 301 /activities/category/gaming https://oregonsadventurecoast.com/gaming
+Redirect 301 /activities/category/geocaching https://oregonsadventurecoast.com
+Redirect 301 /activities/category/golfing https://oregonsadventurecoast.com/golfing
+Redirect 301 /activities/category/historical https://oregonsadventurecoast.com/art-history-culture
+Redirect 301 /activities/category/kayaking https://oregonsadventurecoast.com/water-recreation
+Redirect 301 /activities/category/lighthouses https://oregonsadventurecoast.com/lighthouses
+Redirect 301 /activities/category/scenic-drives https://oregonsadventurecoast.com/scenic-drives
+Redirect 301 /activities/category/shopping https://oregonsadventurecoast.com/shopping
+Redirect 301 /activities/category/parks https://oregonsadventurecoast.com/state-parks-and-national-lands
+Redirect 301 /activities/category/theaters https://oregonsadventurecoast.com/theatres
+Redirect 301 /activities/category/tidepooling https://oregonsadventurecoast.com/ocean-life-and-tidepooling
+Redirect 301 /activities/category/hiking https://oregonsadventurecoast.com/hiking-walking
+# Redirect 301 /events https://oregonsadventurecoast.com/calendar
+# Redirect 301 /lodging https://oregonsadventurecoast.com/lodging
+Redirect 301 /deals https://oregonsadventurecoast.com/lodging
+# Redirect 301 /contact https://oregonsadventurecoast.com/contact
+Redirect 301 /contact/visitors-packet https://oregonsadventurecoast.com/contact
+RedirectMatch 301 ^/2018/.*$ https://oregonsadventurecoast.com/blog
+RedirectMatch 301 ^/2017/.*$ https://oregonsadventurecoast.com/blog
+RedirectMatch 301 ^/2016/.*$ https://oregonsadventurecoast.com/blog
+RedirectMatch 301 ^/2015/.*$ https://oregonsadventurecoast.com/blog
+RedirectMatch 301 ^/2014/.*$ https://oregonsadventurecoast.com/blog
+RedirectMatch 301 ^/2013/.*$ https://oregonsadventurecoast.com/blog
+RedirectMatch 301 ^/2012/.*$ https://oregonsadventurecoast.com/blog
+RedirectMatch 301 ^/2011/.*$ https://oregonsadventurecoast.com/blog
+RedirectMatch 301 ^/2010/.*$ https://oregonsadventurecoast.com/blog
+Redirect 301 /rob https://oregonsadventurecoast.com/?utm_source=Rob&utm_medium=Basin_Tackle&utm_campaign=Sponsorship
+Redirect 301 /listings/polar-bear-plunge-2 https://oregonsadventurecoast.com/calendar/
+Redirect 301 /adventures/stormwatching https://oregonsadventurecoast.com/storm-watching
+Redirect 301 /listings/shore-acres-state-park https://oregonsadventurecoast.com/state-parks-and-national-lands
+Redirect 301 /listings/bastendorff-beach https://oregonsadventurecoast.com/undeveloped-beaches
+Redirect 301 /groups https://oregonsadventurecoast.com/meeting-planners
+Redirect 301 /sportsman-qr https://oregonsadventurecoast.com/sportsman-show-giveaway

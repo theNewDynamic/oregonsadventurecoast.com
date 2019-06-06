@@ -1,0 +1,17 @@
+.learn-more-anywhere-btn {
+    border: 1px solid $red;
+    border-radius: 6px;
+    padding: 7px 20px;
+    display: inline-block;
+    text-transform: uppercase;
+    font-family: $roboto;
+    font-weight: 700;
+}
+.learn-more-anywhere-btn:link,
+.learn-more-anywhere-btn:visited {
+    text-decoration: none;
+}
+.learn-more-anywhere-btn:hover {
+    background-color: $red;
+    color: $white;
+}

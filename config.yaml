@@ -1,0 +1,26 @@
+baseurl: 'https://oregonsadventurecoast.com'
+languageCode: en-us
+title: Coos Bay - North Bend VCB
+googleAnalytics: UA-4406033-1
+MetaDataFormat: yaml
+params:
+  visitorGuideLink: /visitor-guide
+outputs:
+  page:
+    - HTML
+    - JSON
+  section:
+    - HTML
+    - RSS
+    - JSON
+taxonomies:
+  category: categories
+  tag: tags
+  duration: durations
+  town: towns
+  tripadventure: tripadventures
+permalinks:
+  adventure: ':slug/'
+  sitepages: ':slug/'
+blackfriday:
+  hrefTargetBlank: false

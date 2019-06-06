@@ -1,0 +1,28 @@
+.m-logo {
+    background: url('/layout-images/logo.png') no-repeat 0 0;
+    width: 257px;
+    height: 141px;
+    background-size: contain;
+    position: relative;
+    z-index: 510;
+    @include medium {
+        position: absolute;
+    }
+    @include smallPlus {
+        background: url('/layout-images/logo-ft.png') no-repeat 0 0;
+        background-size: contain;
+        width: 100px;
+        height: 32px;
+        top: 5px;
+        left: 10px;
+    }
+}
+.m-logo a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    text-align: left;
+    text-indent: 100%;
+    white-space: nowrap;
+}

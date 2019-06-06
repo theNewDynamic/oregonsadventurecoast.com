@@ -1,0 +1,40 @@
+.m-featurephoto {
+    position: relative;
+    height: 530px;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    @include large {
+        height: 530px;
+    }
+    @include medium {
+        height: 400px;
+    }
+    @include smallPlus {
+        height: 300px;
+    }
+    @include small {
+        height: 206px;
+    }
+}
+.m-featurephoto .photo {
+    display: block;
+    width: 100%;
+}
+.m-featurephoto .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    @include largeUp {
+        height: 171px;
+    }
+}
+.m-featurephoto .overlay img {
+    display: block;
+    width: 100%;
+    @include largeUp {
+        height: 171px;
+    }
+}

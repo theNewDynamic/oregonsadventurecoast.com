@@ -1,0 +1,20 @@
+<div class="nav-group">
+<h3>Categories</h3>
+    
+<ul>
+    <li><a href="/blog/">All Categories</a></li>
+    {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.categories }}
+    <li data-taxonomyname="{{ $taxonomyname }}"><a href="{{ "/categories/" | relLangURL}}{{ $taxonomyname | urlize }}">{{ humanize (replace $taxonomyname "--" " & ") }} ({{ $taxonomy.Count }})</a></li>
+    {{ end }}
+</ul>
+</div>
+
+<div class="nav-group">
+<h3>Archives</h3>
+
+<ul>
+    {{ range (where .Site.Pages "Section" "blog").GroupByDate "January 2006" }}
+    <li><a href="/archives/#{{ .Key | urlize }}">{{ .Key }} ({{ len .Pages }})</a></li>
+    {{ end }}
+</ul>
+</div>

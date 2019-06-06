@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix">
+    <div class="m-adventures">
+        <h1>{{ .Title }}</h1>
+
+        <div class="introtext clearfix">
+            {{ .Content }}
+        </div>
+    </div>
+
+    <div class="m-adventure-grid">
+
+        {{ range .Params.boxes }}
+
+            <a href="{{ .url }}">
+                <div class="item" style="background-image: url({{ .desktopphoto }});">
+                    <div class="description">
+                        <h3>{{ .hovertitle }}</h3>
+                        <p>{{ .hoverdescription }}</p>
+                        <span class="more">Learn More</span>
+                    </div>
+                    <div class="expand">+</div>
+                    <div class="label">{{ .desktoptitle }}</div>
+                    <div class="overlay"></div>
+                </div>
+            </a>
+        
+        {{ end }}
+
+    </div>
+</div>
+
+{{ end }}

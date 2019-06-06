@@ -1,0 +1,72 @@
+.m-hugo-paginator,
+.m-hugo-paginator li {
+    list-style: none;
+}
+.m-hugo-paginator {
+    float: right;
+}
+.m-hugo-paginator li {
+    margin: 0 2px;
+}
+.m-hugo-paginator .first,
+.m-hugo-paginator .last {
+    display: none;
+}
+.m-hugo-paginator .prev {
+    float: left;
+}
+.m-hugo-paginator .next {
+    float: right;
+}
+.m-hugo-paginator .prev a {
+    display: inline-block;
+    background: url('/layout-images/img-arrow-left.png') no-repeat 50% 50%;
+    background-size: 7px 16px;
+    width: 20px;
+    height: 32px;
+    overflow: hidden;
+    text-indent: 100%;
+}
+.m-hugo-paginator .next a {
+    display: inline-block;
+    background: url('/layout-images/img-arrow-right.png') no-repeat 50% 50%;
+    background-size: 7px 16px;
+    width: 20px;
+    height: 32px;
+    overflow: hidden;
+    text-indent: 100%;
+}
+.m-hugo-paginator .prev:hover,
+.m-hugo-paginator .next:hover {
+    cursor: pointer;
+}
+.m-hugo-paginator .page-item {
+    float: left;
+}
+.m-hugo-paginator .page-item a {
+    display: inline-block;
+    padding: 4px 10px;
+    background-color: rgba($gray, .37);
+    font-size: 18px;
+    color: $white;
+    border-radius: 4px;
+    @include transition;
+    font-weight: bold;
+}
+.m-hugo-paginator .page-item a:link,
+.m-hugo-paginator .page-item a:visited {
+    color: $white;
+    text-decoration: none;
+}
+.m-hugo-paginator .page-item.active a,
+.m-hugo-paginator .page-item a:hover {
+    cursor: pointer;
+    background-color: $red;
+}
+.m-hugo-paginator .prev.disabled,
+.m-hugo-paginator .next.disabled {
+    opacity: .4;
+}
+.m-hugo-paginator .disabled a:hover {
+    cursor: default!important;
+}

@@ -1,0 +1,25 @@
+.m-content-columns{
+    display:grid;
+    grid-template-columns:1fr;
+    grid-gap:2%;
+}
+@media (min-width:$xsmall) {
+    .m-content-columns[data-columns="2"]{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (min-width:$small) {
+    .m-content-columns[data-columns="3"]{
+        grid-template-columns: repeat(3, 1fr);
+    }   
+}
+.m-content-columns__col {
+    font-family: Roboto,sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.5em;   
+    @include borderBox;
+    img{
+        max-width:100%;
+    }
+}

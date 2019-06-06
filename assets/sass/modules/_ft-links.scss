@@ -1,0 +1,130 @@
+.m-ft-links {
+    margin: 0 auto;
+    @include medium {
+        //width: 45%;
+    }
+    @include smallPlus {
+        //margin: 0 auto;
+    }
+}
+.m-ft-links a:link,
+.m-ft-links a:visited {
+    color: $white;
+    text-decoration: none;
+}
+.m-ft-links{
+    .m-social{
+        display: inline-block;
+        margin: 0 auto;
+        text-align: center;
+        li{
+            float:none;
+            display: inline-block;
+        }
+        .svg-inline--fa{
+            font-size:1.3em;
+        }
+        @media (max-width:$smallPlus - 1){
+            margin-bottom:20px;
+            .svg-inline--fa{
+                font-size:1.5em;
+            }
+        }
+        @media (min-width:$smallPlus){
+            text-align: left;
+        }
+    }
+    
+}
+.m-ft-links .sections {
+    position: relative;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    @include medium {
+        padding-top: 20px;
+    }
+}
+.m-ft-links .sections li {
+    list-style: none;
+    margin: 0 0 10px 0;
+    padding: 0;
+    width: 50%;
+    @include borderBox;
+    background-repeat: no-repeat;
+    background-position: 0 50%;
+    text-transform: uppercase;
+    font-family: $fjalla;
+    //font-size: 17px;
+    @include medium {
+        width: 100%;
+    }
+    @include smallPlus {
+        //font-size: 16px;
+    }
+}
+.m-ft-links .sections li a {
+    display: block;
+    padding: 0 0 0 50px;
+    height: 45px;
+    line-height: 45px;
+    white-space: nowrap;
+}
+/* Alignments */
+
+/* Icons */
+.m-ft-links .sections .equipment {
+    background-image: url('/layout-images/icon-equipment.png');
+    background-size: 31px 46px;
+    background-position: 2px 50%;
+}
+.m-ft-links .sections .tour {
+    background-image: url('/layout-images/icon-tour.png');
+    background-size: 37px 35px;
+}
+.m-ft-links .sections .traveler {
+    background-image: url('/layout-images/icon-traveler.png');
+    background-size: 34px 36px;
+    background-position: 2px 50%;
+}
+.m-ft-links .sections .meetings {
+    background-image: url('/layout-images/icon-meetings.png');
+    background-size: 35px 35px;
+}
+.m-ft-links .sections .press {
+    background-image: url('/layout-images/icon-press.png');
+    background-size: 35px 36px;
+}
+/* Brochure */
+.m-ft-links .sections .brochure {
+    position: absolute;
+    right: 0;
+    top: 110px;
+    background: url('/layout-images/img-visitor-guide.png') no-repeat 0 0;
+    background-size: 75px 112px;
+    @include medium {
+        display: none;
+    }
+}
+.m-ft-links .sections .brochure a {
+    line-height: 1.3em;
+    height: 112px;
+    padding-left: 90px;
+    padding-top: 25px;
+}
+/* Social Links */
+.m-ft-links .social {
+    padding-top: 20px;
+    @include medium {
+        display: none;
+    }
+}
+.m-ft-links .social.-mobile-social {
+    display: none;
+    @include medium {
+        display: block;
+    }
+}
+.m-ft-links .social a {
+    font-size: 24px;
+}

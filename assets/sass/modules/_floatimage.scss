@@ -1,0 +1,35 @@
+.m-floatimage {
+    margin-bottom: 20px;
+}
+.m-floatimage.float-left {
+    float: left;
+    margin: 0 20px 20px 0;
+}
+.m-floatimage.float-right {
+    float: right;
+    margin: 0 0 20px 20px;
+}
+.m-floatimage.size-default {
+    max-width: 50%;
+}
+.m-floatimage img {
+    display: block;
+    max-width: 100%;
+}
+
+/* Float Sizes */
+.m-floatimage.size-20 {
+    max-width: 20%;
+}
+.m-floatimage.size-40 {
+    max-width: 40%;
+}
+.m-floatimage.size-60 {
+    max-width: 60%;
+}
+.m-floatimage.size-80 {
+    max-width: 80%;
+}
+.m-floatimage.size-100 {
+    max-width: 100%;
+}

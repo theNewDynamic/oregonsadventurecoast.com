@@ -1,0 +1,25 @@
+.m-calendar {
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.m-calendar h1 {
+    @include h1;
+    color: $gray;
+}
+.m-calendar h2,
+.m-calendar h3 {
+    @include h2;
+}
+.m-calendar p,
+.m-calendar li {
+    @include p;
+}
+
+.m-calendar-list .no-calendar-results {
+    display: none;
+}
+.m-calendar-list .no-calendar-results img {
+    display: block;
+    max-width: 80%;
+}

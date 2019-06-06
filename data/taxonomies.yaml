@@ -1,0 +1,23 @@
+---
+towns:
+- charleston
+- coos-bay
+- north-bend
+adventures:
+- atving-motorsports
+- beach
+- crabbing-clamming
+- culture-museums
+- dunes
+- eat-drink
+- fishing
+- fishing-crabbing-clamming
+- historical
+- lighthouses
+- scenic-drives
+- shopping
+- state-parks-national-lands
+durations:
+- full-day
+- half-day
+- long-weekend

@@ -1,0 +1,64 @@
+---
+label: Lodging
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+- type: textarea
+  name: property_description
+  label: Description
+- type: include
+  name: image
+  label: Image
+  template: image-alt
+- type: number
+  label: Units
+  name: units
+- type: select
+  name: cost
+  config:
+    source:
+      type: simple
+      section: costs
+      file: site/data/selects/costs.yaml
+    options:
+    - 1 - $
+    - 2 - $$
+    - 3 - $$$
+  label: Cost
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - 1 - Hotels, Motels & Inns
+    - 2 - RV Parks & Camping
+    - 3 - Bed & Breakfasts
+    - 4 - Vacation Rental Homes
+  label: Category
+  name: property_category
+- type: list
+  name: amenityList
+  label: Amenities
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - 1 - Restaurant/Bar/Rm Service
+    - 2 - Continental or Full Bkfst
+    - 3 - Fitness Center
+    - 4 - Pool/Hot Tub
+    - 5 - Pet Friendly
+    - 6 - WiFi Available
+    - 7 - Kitchens Available
+    - 8 - Meeting Facilities
+    - 9 - Handicap Accessible
+    - 10 - Chamber Member
+- type: include
+  template: contact
+  label: Contact
+  name: contact
+pages:
+- site/content/lodgingitems/seagate-premier-townhouse.md

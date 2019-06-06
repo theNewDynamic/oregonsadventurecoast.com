@@ -1,0 +1,61 @@
+.m-standard-content {
+    width: 695px;
+    float: right;
+    padding: 30px 0;
+    margin-right: 50px;
+    @include medium {
+        @include borderBox;
+        width: 100%;
+        padding: 30px 10px;
+        float: none;
+        clear: both;
+        margin: 0;
+    }
+}
+.m-standard-content.-no-sidebar-mobile {
+    @include medium {
+        width: 100%;
+        float: none;
+        @include borderBox;
+        clear: both;
+    }
+}
+.m-standard-content.-full {
+    width: 100%;
+    float: none;
+    @include borderBox;
+    clear: both;
+}
+.m-standard-content h1 {
+    @include h1;
+    color: $gray;
+}
+.m-standard-content.-no-sidebar-mobile h1,
+.m-standard-content.-full h1 {
+    @include medium {
+        text-align: center;
+    }
+}
+.m-standard-content h2 {
+    @include h2;
+}
+.m-standard-content h3 {
+    @include h3;
+}
+.m-standard-content h4 {
+    @include h4;
+}
+.m-standard-content p,
+.m-standard-content li {
+    @include p;
+}
+
+/* Images */
+.m-standard-content img {
+    max-width: 100%;
+}
+
+/* IFrames */
+.m-standard-content iframe {
+    max-width: 100%;
+}

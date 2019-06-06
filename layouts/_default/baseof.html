@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en">
+  {{ partial "head" . }}
+  <body>
+    {{ partial "hd" . }}
+    <div id="bd">{{ block "main" . }}{{ end }}</div>
+    {{ partial "footer" . }}
+    {{ block "footerJs" . }}{{ end }}
+ 	{{ partial "googletag" (dict "where" "bottom") }}
+  </body>
+</html>

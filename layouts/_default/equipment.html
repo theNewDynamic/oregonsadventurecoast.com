@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix m-lodging">
+    <div class="lodging-intro">
+        <h1>{{ .Title }}</h1>
+
+        <div class="introtext">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
+<div class="g-wrap clearfix">
+    <div class="equipment">
+        <div id="equipment-output" class="m-grid"></div>
+    </div>
+
+    {{ partial "pagination" . }}
+</div>
+
+{{ end }}
+
+{{ define "footerJs" }}
+<script src="/js/equipment.js"></script>
+{{ end }}

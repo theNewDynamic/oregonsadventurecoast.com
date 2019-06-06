@@ -1,0 +1,327 @@
+/* Vars */
+$homeGridMargin: 20px;
+
+/* Home Grid */
+.m-events-grid {
+    @include g-wrap;
+    @include medium {
+        width: 768px;
+        padding: 0;
+    }
+    @include smallPlus {
+        width: 100%;
+        padding: 0 20px;
+    }
+}
+.m-events-grid .events-grid-left {
+    width: 667px;
+    float: left;
+    @include medium {
+        width: 500px;
+    }
+    @include smallPlus {
+        float: none;
+        width: 290px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+.m-events-grid .events-grid-right {
+    width: 340px;
+    float: right;
+    @include medium {
+        width: 254px;
+    }
+    @include smallPlus {
+        float: none;
+        width: 290px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+/* 
+Modifier Classes for .items:
+    -small
+    -medium
+    -large
+*/
+.m-events-grid a:link,
+.m-events-grid a:visited {
+    color: $white;
+    text-decoration: none;
+}
+.m-events-grid .item {
+    width: 290px;
+    height: 200px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    overflow: hidden;
+    float: left;
+    position: relative;
+    background-color: $gray;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.m-events-grid .item-wrap {
+    margin-bottom: $homeGridMargin;
+}
+@include smallPlusUp {
+    .m-events-grid .item-wrap.-small .item {
+        width: 100%;
+        height: 214px;
+        @include medium {
+            height: 218px;
+        }
+    }
+    .m-events-grid .item-wrap.-medium .item {
+        width: 100%;
+        height: 355px;
+    }
+    .m-events-grid .item-wrap.-large .item {
+        width: 100%;
+        height: 395px;
+    }
+}
+.m-events-grid .item-wrap.-large {
+    @include smallPlus {
+        width: 290px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+.m-events-grid .item .label,
+.m-events-grid .item .mobile-label {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 5px 2px 5px;
+    letter-spacing: -1px;
+    z-index: 11;
+    text-align: right;
+    font-size: 24px;
+    font-weight: 700;
+    color: $darkGray;
+    @include borderBox;
+    @include transition;
+}
+.m-events-grid .item .label {
+    display: block;
+    @include medium {
+        display: none;
+    }
+}
+.m-events-grid .item .mobile-label {
+    display: none;
+    @include medium {
+        display: block;
+    }
+}
+@include smallPlusUp {
+    .m-events-grid .item-wrap.-large .item .label {
+        bottom: auto;
+        top: 50px;
+        left: 30px;
+        color: $white;
+        width: 50%;
+        font-size: 55px;
+        text-shadow: 0 0 3px $black;
+        text-align: left;
+        line-height: 1em;
+    }
+}
+.m-events-grid .item .expand {
+    font-size: 34px;
+    width: 65px;
+    height: 65px;
+    background: url('/layout-images/bg-adventure-expand.png') no-repeat 0 0;
+    background-size: 65px 65px;
+    line-height: 45px;
+    text-indent: 10px;
+    @include transition;
+}
+.m-events-grid .item .overlay {
+    position: absolute;
+    z-index: 10;
+    bottom: 0;
+    display: block;
+    width: 100%;
+    height: 86px;
+    background: url('/layout-images/img-adventures-grid-overlay-large.png') no-repeat 50% 0;
+    background-size: 100% 100%;
+    transition: all .5s;
+}
+@include smallPlusUp {
+    .m-events-grid .item-wrap.-small .item .overlay {
+        background: url('/layout-images/img-adventures-grid-overlay.png') no-repeat 50% 100%;
+        background-size: 100% auto;
+    }
+    .m-events-grid .item-wrap.-large .item .overlay {
+        display: none;
+    }
+}
+
+.m-events-grid .item .description {
+    width: 290px;
+    height: 200px;
+    background-color: rgba($red, 0);
+    color: $white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    @include borderBox;
+    padding: 40px 10px 0 10px;
+    @include transition;
+}
+
+@include smallPlusUp {
+    .m-events-grid .item-wrap.-small .item .description {
+        width: 100%;
+        height: 214px;
+    }
+    .m-events-grid .item-wrap.-medium .item .description {
+        width: 100%;
+        height: 355px;
+        padding-top: 100px;
+    }
+    .m-events-grid .item-wrap.-large .item .description {
+        width: 100%;
+        height: 395px;
+        padding-top: 110px;
+    }
+}
+.m-events-grid .item .description h3 {
+    position: relative;
+    left: 110%;
+    transition: all .5s;
+    width: 100%;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+@include smallPlusUp {
+    .m-events-grid .item-wrap.-large .description h3 {
+        font-size: 36px;
+    }
+}
+.m-events-grid .item .description p {
+    position: relative;
+    right: 110%;
+    transition: all .5s;
+    width: 100%;
+    font-size: 16px;
+}
+@include smallPlusUp {
+    .m-events-grid .item-wrap.-large .description p {
+        font-size: 21px;
+    }
+}
+.m-events-grid .item .description .more {
+    opacity: 0;
+    transition: all .5s;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    background: url('/layout-images/icon-double-arrow-white.png') no-repeat 100% 50%;
+    background-size: 10px 11px;
+    display: inline-block;
+    padding-right: 20px;
+}
+@include smallPlusUp {
+    .m-events-grid .item-wrap.-large .description .more {
+        font-size: 24px;
+    }
+}
+.m-events-grid .item .description .more:link,
+.m-events-grid .item .description .more:visited {
+    color: $white;
+    text-decoration: none;
+}
+
+/* Hovers */
+.m-events-grid .item:hover {
+    cursor: pointer;
+}
+.m-events-grid .item:hover .label,
+.m-events-grid .item:hover .mobile-label,
+.m-events-grid .item:hover .expand,
+.m-events-grid .item:hover .overlay {
+    opacity: 0;
+}
+.m-events-grid .item:hover .description {
+    background-color: rgba($red, .8);
+}
+.m-events-grid .item:hover .description h3 {
+    left: 0;
+}
+.m-events-grid .item:hover .description p {
+    right: 0;
+}
+.m-events-grid .item:hover .description .more {
+    opacity: 1;
+}
+
+/* Util Bar */
+.m-events-grid .util-bar {
+    background-color: $red;
+    color: $white;
+    z-index: 150;
+    width: 100%;
+    @include borderBox;
+    padding: 5px 15px;
+    font-size: 27px;
+    font-weight: 700;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    @include medium {
+        font-size: 18px;
+    }
+}
+.m-events-grid .util-bar .date {
+    float: left;
+    margin: 0;
+}
+.m-events-grid .util-bar .share {
+    font-weight: 300;
+    text-transform: uppercase;
+    float: right;
+    position: relative;
+}
+.m-events-grid .util-bar .share .hide-mobile {
+    @include smallPlus {
+        display: none;
+    }
+}
+@include smallPlusUp {
+    .m-events-grid .item.-large .util-bar {
+        font-size: 36px;
+    }
+}
+
+/* Social */
+.m-events-grid .share .m-share {
+    float: right;
+    background-color: $white;
+    padding: 15px 0 15px 10px;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    width: 165px;
+    z-index: 200;
+    box-shadow: 0 0 12px $gray;
+    display: none;
+}
+.m-events-grid .share .m-share .share-label {
+    display: block;
+    color: $darkGray;
+    font-size: 16px;
+    font-weight: 200;
+    padding-left: 10px;
+    text-transform: none;
+}
+@include smallPlusUp {
+    .m-events-grid .item-wrap.-large .share .m-share .share-label {
+        display: none;
+    }
+}

@@ -1,0 +1,15 @@
+.m-adventures {
+    text-align: center;
+}
+.m-adventures h1 {
+    @include h1;
+    color: $gray;
+}
+.m-adventures h2,
+.m-adventures h3 {
+    @include h2;
+}
+.m-adventures p,
+.m-adventures li {
+    @include p;
+}

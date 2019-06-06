@@ -1,0 +1,34 @@
+.g-menu-x {
+    position: relative;
+    display: block;
+    width: 25px;
+    height: 25px;
+}
+.g-menu-x .bar {
+    width: 100%;
+    height: 3px;
+    overflow: hidden;
+    background-color: $white;
+    position: absolute;
+    @include transition;
+}
+.g-menu-x .bar-top {
+    top: 0;
+}
+.g-menu-x .bar-mid {
+    top: 33%;
+}
+.g-menu-x .bar-btm {
+    top: 66%;
+}
+.g-menu-x.-active .bar-top {
+    transform: rotate(45deg);
+    transform-origin: top left;
+}
+.g-menu-x.-active .bar-btm {
+    transform: rotate(-45deg);
+    transform-origin: bottom left;
+}
+.g-menu-x.-active .bar-mid {
+    opacity: 0;
+}

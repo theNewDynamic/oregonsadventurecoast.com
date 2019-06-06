@@ -1,0 +1,173 @@
+.m-standard-nav {
+    width: 170px;
+    float: left;
+    padding: 30px 0;
+    margin-left: 50px;
+    @include medium {
+        @include borderBox;
+        width: 100%;
+        float: none;
+        clear: both;
+        padding: 60px 20px 20px 20px;
+        margin: 0;
+    }
+}
+.m-standard-nav.-hide-mobile {
+    @include medium {
+        display: none;
+    }
+}
+.m-standard-nav .nav-group {
+    margin-bottom: 2px;
+}
+.m-standard-nav.-bottom-mobile {
+    display: none;
+    @include medium {
+        display: block;
+        margin-bottom: 30px;
+    }
+}
+.m-standard-nav.-no-sidebar-mobile {
+    @include medium {
+        display: none;
+    }
+}
+.m-standard-nav.-two-wide .nav-group {
+    @include medium {
+        width: 49%;
+        float: left;
+        margin-right: 1%;
+    }
+    @include smallPlus {
+        width: 100%;
+        float: none;
+        margin: 0 0 2px 0;
+    }
+}
+.m-standard-nav.-three-wide .nav-group {
+    @include medium {
+        width: 32%;
+        float: left;
+        margin-right: 1%;
+    }
+    @include smallPlus {
+        width: 100%;
+        float: none;
+        margin: 0 0 2px 0;
+    }
+}
+.m-standard-nav.-three-wide .nav-group:last-child {
+    @include medium {
+        margin: 0;
+    }
+}
+.m-standard-nav h3 {
+    font-family: $fjalla;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: $white;
+    background-color: $red;
+    padding: 15px 15px 0 0;
+    line-height: .7em;
+    margin: 0 0 20px 0;
+    font-weight: normal;
+    @include medium {
+        margin: 0;
+        font-size: 25px;
+        padding: 10px 15px 10px 10px;
+        line-height: 1em;
+    }
+}
+.m-standard-nav ul,
+.m-standard-nav li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-family: $roboto;
+    font-weight: 300;
+}
+.m-standard-nav ul {
+    margin-bottom: 30px;
+    @include medium {
+        display: none;
+        background-color: #f0f0f0;
+        padding: 15px;
+        margin: 0;
+    }
+}
+.m-standard-nav li a {
+    text-transform: capitalize;
+    display: block;
+    padding: 5px 10px;
+    background: url('/layout-images/icon-list-arrow.png') no-repeat 0 50%;
+    background-size: 4px 9px;
+    @include medium {
+        text-transform: uppercase;
+        padding: 10px 0;
+        border-bottom: 1px solid #d3d3d3;
+        background: url('/layout-images/img-arrow-right.png') no-repeat 100% 50%;
+        background-size: 6px 15px;
+        font-family: $fjalla;
+    }
+}
+.m-standard-nav li a:link,
+.m-standard-nav li a:visited {
+    text-decoration: none;
+    @include medium {
+        color: $darkGray;
+    }
+}
+.m-standard-nav li a:hover,
+.m-standard-nav li.active a {
+    background: url('/layout-images/icon-list-arrow-hover.png') no-repeat 0 50%;
+    background-size: 4px 9px;
+    color: $darkGray;
+    @include medium {
+        background: url('/layout-images/img-arrow-right.png') no-repeat 100% 50%;
+        background-size: 6px 15px;
+    }
+}
+.m-standard-nav li.active a {
+    @include medium {
+        font-weight: bold;
+    }
+}
+
+.m-standard-nav .menu-link {
+    display: none;
+    @include medium {
+        display: block;
+        font-family: $fjalla;
+        font-size: 16px;
+        float: right;
+        position: relative;
+    }
+}
+.m-standard-nav.-three-wide .menu-link .menu-text {
+    display: none;
+}
+
+/* Sidebar Photo */
+.m-standard-nav img.sidebar-photo {
+    display: block;
+    max-width: 100%;
+}
+
+/* Mobile hiding elements */
+.m-standard-nav .hide-mobile {
+    @include medium {
+        display: none;
+    }
+}
+
+/* Nav Group Display Box */
+.m-standard-nav .nav-group-display {
+    display: block;
+    margin-bottom: 20px;
+    @include medium {
+        display: none;
+        background-color: #e0e0e0;
+        padding: 10px;
+        margin-bottom: 0;
+    }
+}

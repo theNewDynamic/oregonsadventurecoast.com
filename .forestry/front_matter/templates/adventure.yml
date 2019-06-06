@@ -1,0 +1,10 @@
+---
+label: Adventure
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: file
+  name: photo
+  label: Image

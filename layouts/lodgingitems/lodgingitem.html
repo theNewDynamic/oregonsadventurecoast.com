@@ -1,0 +1,47 @@
+<div class="m-lodging-item">
+    <div class="photo">
+        <img src="{{ .Params.photo_name }}" alt="{{ .Params.photo_alt }}">
+    </div>
+
+    <div class="content">
+        <div class="category">
+            {{ partial "lodging/propertyCategory.html" .Params.property_category }}
+        </div>
+
+        <div class="location">
+            <h2>{{ .Params.property_name }}</h2>
+            <p class="address">
+                {{ .Params.address.street1 }}<br>
+                {{ .Params.address.street2 }}<br>
+                {{ .Params.address.city }}, {{ .Params.address.state }} {{ .Params.address.zip }}<br>
+                {{ .Params.phone_local }} | 
+                {{ .Params.phone_toll_free }}
+            </p>
+        </div>
+
+        <div class="description">
+            <strong> 
+            {{ partial "lodging/units.html" .Params.units }}
+            &bull;
+            {{ partial "lodging/cost.html" .Params.cost }}:
+            </strong>
+            {{ .Params.property_description }}
+        </div>
+
+        <div class="amenities">
+            <div class="amenity-list clearfix">
+                <ul>
+                {{ range .Params.categoryTest }}
+                    {{ partial "lodging/lodgingAmenities.html" . }}
+                {{ end }}
+                </ul>
+            </div>
+        </div>
+
+        <div class="links clearfix">
+            <span class="map"><a href="#" target="_blank"><span class="icon"><i class="fas fa-map-marker-alt"></i></span> Map</a></span>
+            <span class="website"><a href="{{ .Params.website }}" target="_blank"><span class="icon"><i class="fas fa-globe"></i></span> Website</a></span>
+        </div>
+    </div>
+
+</div>

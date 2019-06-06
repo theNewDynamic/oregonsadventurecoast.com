@@ -1,0 +1,9 @@
+.m-events {
+    text-align: center;
+}
+.m-events h1 {
+    @include h1;
+}
+.m-events p {
+    @include p;
+}

@@ -1,0 +1,28 @@
+.m-home-titlebar {
+    background-color: $red;
+    color: $white;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+}
+.m-home-titlebar h2 {
+    font-family: $roboto;
+    font-size: 48px;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+    @include smallPlus {
+        font-size: 32px;
+    }
+}
+.m-home-titlebar .titlebar-arrow {
+    width: 32px;
+    height: 32px;
+    display: block;
+    transform: rotate(-45deg);
+    position: absolute;
+    left: 50%;
+    margin-left: -16px;
+    bottom: -16px;
+    background-color: $red;
+}

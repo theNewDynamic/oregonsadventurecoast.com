@@ -1,0 +1,66 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix">
+    
+    {{ partial "tripsidebar" . }}
+    
+    <div class="m-standard-content m-blog-post">
+        <h1 class="g-capitalize">{{ humanize (replace .Data.Term "--" " & ") }}</h1>
+        {{ range (.Paginator 20).Pages }}
+        <div class="list-post">
+                {{ if .Params.image }}
+                <div class="blog-image"><img src="{{ .Params.image }}" alt="{{ .Title }}" />
+                <div class="photo-label">
+                    {{ with .Params.durations }}
+                    <ul>
+                    {{ range . }}<li>{{ humanize (replace . "--" " & ") }}</li>{{ end }}
+                    </ul>
+                    {{ end }}
+                </div>
+                <div class="photo-label">
+                    {{ with .Params.durations }}
+                    <ul>
+                    {{ range . }}<li>{{ humanize (replace . "--" " & ") }}</li>{{ end }}
+                    </ul>
+                    {{ end }}
+                </div>
+                <div class="share">
+                    <span class="share-trigger">
+                        <span class="icon"><i class="fas fa-share-square"></i></span>
+                        <span class="share-btn-label">Share</span>
+                    </span>
+                    {{ partial "share" (dict "title" .Title "url" .Permalink) }}
+                </div>
+                </div>
+    
+                <div class="mobile-share">
+                    {{ partial "mobileshare" (dict "title" .Title "url" .Permalink) }}
+                </div>
+                {{ end }}
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+
+            <div class="meta">
+                <p>Adventures: </p>
+                {{ with .Params.tripadventures }}
+                <ul id="categories">
+                    {{ range . }}
+                    <li> <a href="{{ "/tripadventures/" | absURL }}{{ . | urlize }}">{{ humanize . }}</a><span class="next">,</span></span></li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </div>
+        
+            <div class="introtext clearfix">
+                <p>{{ .Description }}...<a class="g-read-more" href="{{ .Permalink }}">Read More &raquo;</a></p>
+            </div>
+        </div>
+        {{ end }}
+
+        {{ partial "hugoPaginator" . }}
+
+    </div>
+</div>
+
+{{end}}

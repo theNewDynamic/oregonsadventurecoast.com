@@ -1,0 +1,20 @@
+---
+label: Event Animated Box
+hide_body: false
+fields:
+- type: text
+  name: desktoptitle
+  label: Desktop title
+  description: Title displayed on desktop
+- type: text
+  name: mobiletitle
+  label: Mobile title
+  description: Title displayed on mobile
+- type: text
+  name: hovertitle
+  label: Box Animation title
+  description: Title displayed on Event box animation
+- type: text
+  name: hoverdescription
+  label: Box Animation description
+  description: Description displayed on Event Box animation

@@ -1,0 +1,76 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix">
+    <div class="m-standard-nav -hide-mobile">
+        {{ partial "blogsidebar" . }}
+    </div>
+    
+    <div class="m-standard-content m-blog-post">
+        <h1>Our Adventure Blog</h1>
+        {{ range (.Paginator 20).Pages.ByPublishDate.Reverse }}
+        <div class="list-post">
+            {{ if .Params.image }}
+            
+                <div class="blog-image"><a href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="{{ .Title }}" /></a>
+                    <div class="share">
+                        <span class="share-trigger">
+                            <span class="icon"><i class="fas fa-share-square"></i></span>
+                            <span class="share-btn-label">Share</span>
+                        </span>
+                        {{ partial "share" (dict "title" .Title "url" .Permalink) }}
+                    </div>
+                </div>
+
+                <div class="mobile-share">
+                    {{ partial "mobileshare" (dict "title" .Title "url" .Permalink) }}
+                </div>
+            
+            {{ end }}
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+
+            <p class="date mobile-date"><span class="icon"><i class="fas fa-calendar-alt"></i></span> {{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+
+            <div class="meta">
+                <p class="date"><span class="icon"><i class="fas fa-calendar-alt"></i></span> {{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+                <p>| Categories: </p>
+                {{ with .Params.categories }}
+                <ul id="categories">
+                    {{ range . }}
+                    <li> <a href="{{ "/categories/" | absURL }}{{ . | urlize }}">{{ humanize . }}</a><span class="next">,</span></span></li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </div>
+        
+            <div class="introtext clearfix">
+                <p>{{ .Description }}...
+                    <div class="meta-mobile">
+                        <p>Categories: </p>
+                        {{ with .Params.categories }}
+                        <ul id="categories">
+                            {{ range . }}
+                            <li> <a href="{{ "/categories/" | absURL }}{{ . | urlize }}">{{ humanize . }}</a><span class="next">,</span></span></li>
+                            {{ end }}
+                        </ul>
+                        {{ end }}
+                    </div>
+                    <a class="g-read-more" href="{{ .Permalink }}">Read More &raquo;</a>
+                </p>
+            </div>
+
+            
+        </div>
+        {{ end }}
+
+        {{ partial "hugoPaginator" . }}
+
+    </div>
+
+    <div class="m-standard-nav -bottom-mobile -two-wide clearfix">
+        {{ partial "blogsidebar" . }}
+    </div>
+</div>
+
+{{end}}

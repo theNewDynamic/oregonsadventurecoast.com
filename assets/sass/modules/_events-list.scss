@@ -1,0 +1,46 @@
+.m-events-list {
+    @include g-wrap;
+    clear: both;
+    @include medium {
+        padding: 0 20px;
+    }
+}
+.m-events-list .month-wrap {
+    padding-top: 25px;
+}
+.m-events-list .month {
+    background-color: $red;
+    color: $white;
+    padding: 5px 15px;
+    font-size: 28px;
+    border-radius: 4px;
+    margin-bottom: 25px;
+}
+.m-events-list .month .continued {
+    font-weight: 200;
+    font-style: italic;
+}
+
+/* Event */
+.m-events-list .event {
+    margin-bottom: 15px;
+    padding-left: 15px;
+}
+.m-events-list .event a {
+    text-decoration: none;
+}
+.m-events-list .event a:hover {
+    text-decoration: underline;
+}
+.m-events-list .event .date {
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+}
+.m-events-list .event .title {
+    color: $darkGray;
+    display: block;
+    padding-left: 15px;
+    font-size: 22px;
+    font-weight: bold;
+}

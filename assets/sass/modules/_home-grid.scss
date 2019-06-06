@@ -1,0 +1,430 @@
+/* Vars */
+$homeGridMargin: 20px;
+
+/* Home Grid */
+.m-home-grid {
+    @include g-wrap;
+    @include medium {
+        width: 768px;
+        padding: 0;
+    }
+    @include smallPlus {
+        width: 100%;
+        padding: 0;
+    }
+}
+.m-home-grid .home-grid-left {
+    width: 667px;
+    float: left;
+    @include medium {
+        width: 500px;
+    }
+    @include smallPlus {
+        float: none;
+        width: 345px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+.m-home-grid .home-grid-right {
+    width: 340px;
+    float: right;
+    @include medium {
+        width: 254px;
+    }
+    @include smallPlus {
+        float: none;
+        width: 345px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+.m-home-grid .home-grid-left > a {
+    display: block;
+}
+
+/* 
+Modifier Classes for .items:
+    -tiny
+    -small
+    -smallWide
+    -medium
+    -large
+*/
+.m-home-grid a:link,
+.m-home-grid a:visited {
+    color: $white;
+    text-decoration: none;
+}
+.m-home-grid .item {
+    width: 290px;
+    height: 200px;
+    border-radius: 6px;
+    overflow: hidden;
+    float: left;
+    position: relative;
+    background-color: $gray;
+    background-repeat: no-repeat;
+    background-size: cover;
+    @include smallPlus {
+        display: none!important;
+    }
+}
+.m-home-grid .item.-tiny {
+    width: 146px;
+    height: 152px;
+    margin-bottom: $homeGridMargin;
+    @include medium {
+        width: 108px;
+        height: 114px;
+    }
+}
+.m-home-grid .item.-small {
+    width: 230px;
+    height: 185px;
+    margin-right: $homeGridMargin;
+    margin-bottom: $homeGridMargin;
+    @include medium {
+        width: 172px;
+        height: 139px;
+    }
+}
+.m-home-grid .item.-smallWide {
+    width: 417px;
+    height: 185px;
+    margin-bottom: $homeGridMargin;
+    @include medium {
+        width: 305px;
+        height: 139px;
+    }
+}
+.m-home-grid .item.-medium {
+    width: 100%;
+    height: 255px;
+    margin-bottom: $homeGridMargin;
+    @include medium {
+        height: 191px;
+    }
+}
+.m-home-grid .item.-large {
+    width: 100%;
+    height: 428px;
+    margin-bottom: $homeGridMargin;
+    @include medium {
+        height: 321px;
+    }
+}
+.m-home-grid .item .label {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    z-index: 11;
+    text-align: right;
+    font-size: 26px;
+    color: #303030;
+    font-weight: 700;
+    @include borderBox;
+    @include transition;
+    @include medium {
+        font-size: 21px;
+    }
+}
+.m-home-grid .item.-tiny .label {
+    font-size: 26px;
+     @include medium {
+        font-size: 21px;
+    }
+}
+.m-home-grid .item .expand {
+    font-size: 40px;
+    font-weight: bold;
+    width: 65px;
+    height: 65px;
+    background: url('/layout-images/bg-adventure-expand.png') no-repeat 0 0;
+    background-size: 65px 65px;
+    line-height: 43px;
+    text-indent: 8px;
+    color: #303030;
+    @include transition;
+}
+.m-home-grid .item .overlay {
+    position: absolute;
+    z-index: 10;
+    bottom: 0;
+    display: block;
+    width: 100%;
+    height: 76px;
+    background: url('/layout-images/img-adventures-grid-overlay.png') no-repeat 50% 0;
+    background-size: 100% 100%;
+    transition: all .5s;
+}
+.m-home-grid .item.-tiny .overlay {
+    background-size: 200% auto;
+    background-position: 100% 0px;
+    @include medium {
+        background-position: 100% 100%;
+    }
+}
+.m-home-grid .item.-small .overlay {
+    background: url('/layout-images/img-adventures-grid-overlay-smallWide.png') no-repeat 50% 100%;
+    background-size: 180% 100%;
+}
+.m-home-grid .item.-smallWide .overlay {
+    background: url('/layout-images/img-adventures-grid-overlay-smallWide.png') no-repeat 50% 100%;
+    background-size: 100% 100%;
+}
+.m-home-grid .item.-large .overlay {
+    background: url('/layout-images/img-adventures-grid-overlay-large.png') no-repeat 50% 100%;
+    background-size: 100% 100%;
+}
+
+.m-home-grid .item .description {
+    width: 100%;
+    height: 100%;
+    background-color: rgba($red, 0);
+    color: $white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    @include borderBox;
+    padding: 40px 10px 0 10px;
+    @include transition;
+    @include medium {
+        padding-top: 20px;
+    }
+}
+.m-home-grid .item.-medium .description {
+    padding-top: 70px;
+}
+.m-home-grid .item.-large .description {
+    padding-top: 150px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.m-home-grid .item .description h3 {
+    position: relative;
+    left: 150%;
+    transition: all .5s;
+    width: 100%;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+.m-home-grid .item.-tiny .description h3 {
+    font-size: 18px;
+}
+.m-home-grid .item .description p {
+    position: relative;
+    right: 150%;
+    transition: all .5s;
+    width: 100%;
+    font-size: 16px;
+}
+.m-home-grid .item.-tiny .description p {
+    display: none;
+}
+.m-home-grid .item .description .more {
+    opacity: 0;
+    transition: all .5s;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    background: url('/layout-images/icon-double-arrow-white.png') no-repeat 100% 50%;
+    background-size: 10px 11px;
+    display: inline-block;
+    padding-right: 20px;
+}
+.m-home-grid .item.-tiny .description .more {
+    font-size: 15px;
+}
+.m-home-grid .item .description .more:link,
+.m-home-grid .item .description .more:visited {
+    color: $white;
+    text-decoration: none;
+}
+
+/* Hovers */
+.m-home-grid .item:hover {
+    cursor: pointer;
+}
+.m-home-grid .item:hover .label,
+.m-home-grid .item:hover .expand,
+.m-home-grid .item:hover .overlay {
+    opacity: 0;
+}
+.m-home-grid .item:hover .description {
+    background-color: rgba($red, .8);
+}
+.m-home-grid .item:hover .description h3 {
+    left: 0;
+}
+.m-home-grid .item:hover .description p {
+    right: 0;
+}
+.m-home-grid .item:hover .description .more {
+    opacity: 1;
+}
+
+/* Newsletter */
+.m-home-grid .newsletter {
+    border-radius: 6px;
+    background: url('/layout-images/img-newsletter.png') no-repeat 20px 50% $cyan;
+    background-size: 102px 102px;
+    overflow: hidden;
+    width: 500px;
+    height: 152px;
+    @include borderBox;
+    margin-right: $homeGridMargin;
+    margin-bottom: $homeGridMargin;
+    padding: 20px 20px 0 140px;
+    float: left;
+    @include medium {
+        width: 370px;
+        height: 114px;
+        background-size: 50px 50px;
+        padding-left: 80px;
+        padding-top: 10px;
+    }
+    @include smallPlus {
+        width: 345px;
+        background-size: 65px 65px;
+        padding-left: 95px;
+        background-position: 14px 50%;
+    }
+}
+.m-home-grid .newsletter h2 {
+    color: $white;
+    font-size: 28px;
+    font-weight: 300;
+    margin: 0;
+    @include medium {
+        font-size: 21px;
+    }
+    @include smallPlus {
+        font-size: 20px;
+    }
+}
+.m-home-grid .newsletter p {
+    color: $white;
+    font-size: 16px;
+    margin: 0 0 5px 0;
+    @include medium {
+        font-size: 14px;
+    }
+    @include smallPlus {
+        font-size: 12px;
+        margin-bottom: 8px;
+    }
+}
+.m-home-grid .newsletter .text {
+    width: 80%;
+    @include borderBox;
+    float: left;
+    border: none;
+    background-color: rgba($white, .65);
+    line-height: 36px;
+    padding: 2px 10px;
+    font-size: 14px;
+    @include transition;
+    @include smallPlus {
+        line-height: 24px;
+    }
+}
+.m-home-grid .newsletter .text:hover,
+.m-home-grid .newsletter .text:focus,
+.m-home-grid .newsletter .text:active {
+    box-shadow: none;
+    outline: none;
+    background-color: rgba($white, 1);
+}
+.m-home-grid .newsletter .btn {
+    background: url('/layout-images/icon-button-arrow.png') no-repeat 50% 50% $red;
+    background-size: 8px 19px;
+    border: none;
+    line-height: 37px;
+    width: 20%;
+    vertical-align: middle;
+    @include borderBox;
+    float: left;
+    @include transition;
+    @include smallPlus {
+        line-height: 24px;
+        width:15%;
+    }
+}
+.m-home-grid .newsletter .btn:hover {
+    background-color: $gray;
+    cursor: pointer;
+}
+
+/* Items Mobile */
+.m-home-grid .item-mobile {
+    display: none;
+    @include smallPlus {
+        display: block;
+        width: 345px;
+        height: 160px;
+        border-radius: 6px;
+        overflow: hidden;
+        position: relative;
+        background-color: $gray;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-bottom: 20px;
+    }
+}
+.m-home-grid .item-mobile .overlay {
+    position: absolute;
+    z-index: 10;
+    bottom: -20px;
+    display: block;
+    width: 100%;
+    height: 80px;
+    background: url('/layout-images/img-adventures-grid-overlay.png') no-repeat 50% 0;
+    background-size: 100% 100%;
+    transition: all .5s;
+}
+.m-home-grid .item-mobile .label {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 10px 5px 10px;
+    z-index: 11;
+    text-align: right;
+    font-size: 20px;
+    color: #303030;
+    font-weight: 700;
+    @include borderBox;
+    @include transition;
+}
+
+/* Mobile Visitor Guide */
+.m-home-grid .mobile-visitor-guide {
+    display: none;
+    @include smallPlus {
+        display: block;
+        border-radius: 6px;
+        background: url('/layout-images/icon-mobile-brochure.png') no-repeat 14px 50% $cyan;
+        background-size: 60px 60px;
+        padding: 20px 20px 20px 90px;
+        overflow: hidden;
+        @include borderBox;
+        width: 345px;
+        margin: 0 auto 40px auto;
+        color: $white;
+    }
+}
+.m-home-grid .mobile-visitor-guide h3 {
+    font-size: 22px;
+    font-weight: 300;
+    background: url('/layout-images/icon-arrow-white-right.png') no-repeat 100% 50%;
+    background-size: 13px 30px;
+    margin: 0;
+}
+.m-home-grid .mobile-visitor-guide p {
+    font-size: 17px;
+    margin: 0;
+    font-weight: 200;
+}

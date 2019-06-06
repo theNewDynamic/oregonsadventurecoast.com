@@ -1,0 +1,65 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix">
+    <div class="m-standard-nav -hide-mobile">
+        {{ partial "blogsidebar" . }}
+    </div>
+    
+    <div class="m-standard-content m-blog-post">
+        <h1>Blog Archives</h1>
+
+        {{ with .Site.GetPage "section" "blog" }}
+        {{ range .Data.Pages.GroupByDate "January 2006" }}
+        
+        <a name="{{ .Key | urlize }}"></a>
+        <h1>{{ .Key }}</h1>
+        {{ range .Pages }}
+        <div class="list-post">
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+
+            <p class="date mobile-date"><span class="icon"><i class="fas fa-calendar-alt"></i></span> {{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+
+            <div class="meta">
+                <p class="date"><span class="icon"><i class="fas fa-calendar-alt"></i></span> {{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+                <p>| Categories: </p>
+                {{ with .Params.categories }}
+                <ul id="categories">
+                    {{ range . }}
+                    <li> <a href="{{ "/categories/" | absURL }}{{ . | urlize }}">{{ humanize . }}</a><span class="next">,</span></span></li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </div>
+        
+            <div class="introtext clearfix">
+                <p>{{ .Description }}...
+                    <div class="meta-mobile">
+                        <p>Categories: </p>
+                        {{ with .Params.categories }}
+                        <ul id="categories">
+                            {{ range . }}
+                            <li> <a href="{{ "/categories/" | absURL }}{{ . | urlize }}">{{ humanize . }}</a><span class="next">,</span></span></li>
+                            {{ end }}
+                        </ul>
+                        {{ end }}
+                    </div>
+                    <a class="g-read-more" href="{{ .Permalink }}">Read More &raquo;</a>
+                </p>
+            </div>
+        </div>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+
+        {{ partial "hugoPaginator" . }}
+
+    </div>
+
+    <div class="m-standard-nav -bottom-mobile -two-wide clearfix">
+        {{ partial "blogsidebar" . }}
+    </div>
+</div>
+
+{{end}}

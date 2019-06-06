@@ -1,0 +1,91 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="m-event clearfix">
+    <div class="col-left sidebar">
+        <h3>Details</h3>
+
+        <div class="address">
+            {{ .Params.address.street }}<br>
+            {{ .Params.address.city }}, {{ .Params.address.state }}<br>
+            {{ .Params.address.zip }} | {{ partial "mapit" (dict "title" .Title "street" .Params.address.street "city" .Params.address.city "state" .Params.address.state "zip" .Params.address.zip )}}
+        </div>
+
+        <div class="phone">
+            {{ .Params.phone_local }}<br>
+            {{ .Params.phone_toll_free }}
+        </div>
+
+        {{ if isset .Params "website" }}
+        <div class="website">
+            <a href="{{ .Params.website }}" target="_blank">Event Website</a>
+        </div>
+        {{ end }}
+
+        <h3 class="share">Share <span class="icon"><i class="fas fa-share-square"></i></span></h3>
+
+        {{ partial "share" (dict "url" .Permalink "title" .Title) }}
+    </div>
+
+    <div class="col-right content">
+        <h1>{{ .Title }}</h1>
+        {{ if ne .Params.startdate .Params.enddate }}
+        <p class="date">{{ dateFormat "Jan 2" .Params.startdate }} - {{ dateFormat "Jan 2, 2006" .Params.enddate }}</p>
+        {{ else }}
+        <p class="date">{{ dateFormat "Jan 2, 2006" .Params.startdate }}</p>
+        {{ end }}
+
+        <div class="mobile-event-details -medium clearfix">
+            <div class="mobile-left">
+                <div class="address">
+                    {{ .Params.address.street }}<br>
+                    {{ .Params.address.city }}, {{ .Params.address.state }}
+                    {{ .Params.address.zip }} | {{ partial "mapit" (dict "title" .Title "street" .Params.address.street "city" .Params.address.city "state" .Params.address.state "zip" .Params.address.zip )}}
+                </div>
+            </div>
+            <div class="mobile-right">
+                <div class="phone">
+                    {{ .Params.phone_local }} &bull;
+                    {{ .Params.phone_toll_free }}
+                </div>
+        
+                {{ if isset .Params "website" }}
+                <div class="website">
+                    <a href="{{ .Params.website }}" target="_blank">Event Website</a>
+                </div>
+                {{ end }}
+            </div>
+            
+        </div>
+
+        <div class="inner">
+            {{ .Content }}
+        </div>
+
+        <div class="mobile-event-details -small clearfix">
+            <div class="mobile-left">
+                <div class="address">
+                    {{ .Params.address.street }}<br>
+                    {{ .Params.address.city }}, {{ .Params.address.state }}
+                    {{ .Params.address.zip }} | {{ partial "mapit" (dict "title" .Title "street" .Params.address.street "city" .Params.address.city "state" .Params.address.state "zip" .Params.address.zip )}}
+                </div>
+            </div>
+            <div class="mobile-right">
+                <div class="phone">
+                    {{ .Params.phone_local }} &bull;
+                    {{ .Params.phone_toll_free }}
+                </div>
+        
+                {{ if isset .Params "website" }}
+                <div class="website">
+                    <a href="{{ .Params.website }}" target="_blank">Event Website</a>
+                </div>
+                {{ end }}
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+{{ end }}

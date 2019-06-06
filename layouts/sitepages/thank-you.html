@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix">
+    <div class="m-standard-nav">
+        <h3>Thanks!</h3>
+    
+        <ul>
+            <li><a href="/">Back to Our Home Page</a></li>
+        </ul>
+    </div>
+    
+    <div class="m-standard-content">
+        <h1>{{ .Title }}</h1>
+    
+        <div class="introtext clearfix">
+            {{ .Content }}
+            <div style="width: 100%; text-align:center;">
+                <img src="/img/check-icon.png"/>
+                   <p>&nbsp;</p>
+                   <h2>That's it!</h2>
+                   <p>We really appreciate your time and will be in<br>touch with you shortly.</p>
+                   <p>&nbsp;</p>
+                   <p>&nbsp;</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ end }}
