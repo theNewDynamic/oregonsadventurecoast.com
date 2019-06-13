@@ -4,6 +4,8 @@ import Calendar from './calendar/Calendar';
 import FilterToggles from './common/filter-toggles';
 import {PAGINATION_DEFAULTS, PAGINATION_ACTIONS, FILTER_OPTION} from './common/constants';
 
+const api_url = "https://oregonsadventurecoast.com";
+
 (function($) {
 
     new FilterToggles();
@@ -23,7 +25,7 @@ import {PAGINATION_DEFAULTS, PAGINATION_ACTIONS, FILTER_OPTION} from './common/c
      * @return
      */
 	$.ajax({
-        url: '/data-api/index.php?method=get&type=calendar',
+        url: api_url + '/data-api/index.php?method=get&type=calendar',
         dataType: 'jsonp',
         contentType: 'application/json; charset=utf-8'
     })

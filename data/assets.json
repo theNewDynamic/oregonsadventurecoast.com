@@ -4,12 +4,12 @@
     "jsIntegrity": "sha256-EHLelAOXJ77J60N5z1Z9zG4o3HDABGVXu+Zt7ZrKmFA="
   },
   "calendar": {
-    "js": "/dist/calendar.1850eba2b039847092ad.js",
-    "jsIntegrity": "sha256-FuI8v6a/H1AkQRtXcCKPt67EoK7AK/NtOGD+T+7zytI="
+    "js": "/dist/calendar.9e924cc5fc3478fc0502.js",
+    "jsIntegrity": "sha256-EkgaPq4YQFagK/oagzzRxpjLghFTmQrcRtziG5sy4Es="
   },
   "dining": {
-    "js": "/dist/dining.ff7254a70537b16d267a.js",
-    "jsIntegrity": "sha256-elGElY5HzHOCQhrcjudUMmN3KHHlH3DUYARBPcYszUU="
+    "js": "/dist/dining.69a80f5c93513c00c20b.js",
+    "jsIntegrity": "sha256-PLvGXkEH9mOF20qPU14vLPGYfafprd6eD7sTh+qwqMI="
   },
   "equipment": {
     "js": "/dist/equipment.31f9c23e46a5683a1874.js",
