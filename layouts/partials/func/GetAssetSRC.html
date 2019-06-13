@@ -1,0 +1,6 @@
+{{ $base := "/dist" }}
+{{ if in (slice "jquery.min.js" "cycle2.min.js") . }}
+  {{ $base = "/vendors" }}
+{{ end }}
+{{ $url := printf "%s/%s" $base . | safeURL }}
+{{ return $url }}

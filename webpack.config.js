@@ -10,16 +10,16 @@ module.exports = {
   entry: {
     // main: './src/index.js'
     //MAY NEED VENDOR
-    app: ["./js/app"],
-    main: ["./js/main"],
-    lodging: ["./js/lodging"],
-    tourcharters: ["./js/tourcharters"],
-    equipment: ["./js/equipment"],
-    events: ["./js/events"],
-    calendar: ["./js/calendar"],
-    instagram: ["./js/instagram"],
-    search: ["./js/search"],
-    dining: ["./js/dining"]
+    app: ["./src/js/app"],
+    main: ["./src/js/main"],
+    lodging: ["./src/js/lodging"],
+    tourcharters: ["./src/js/tourcharters"],
+    equipment: ["./src/js/equipment"],
+    events: ["./src/js/events"],
+    calendar: ["./src/js/calendar"],
+    instagram: ["./src/js/instagram"],
+    search: ["./src/js/search"],
+    dining: ["./src/js/dining"]
 	},
   output: {
     path: path.join(__dirname, "./static/dist/"),

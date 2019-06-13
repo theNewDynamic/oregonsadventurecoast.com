@@ -17,9 +17,9 @@
             {{ .Params.phone_toll_free }}
         </div>
 
-        {{ if isset .Params "website" }}
+        {{ with .Params.website }}
         <div class="website">
-            <a href="{{ .Params.website }}" target="_blank">Event Website</a>
+            <a href="{{ . }}" target="_blank">Event Website</a>
         </div>
         {{ end }}
 
@@ -50,9 +50,9 @@
                     {{ .Params.phone_toll_free }}
                 </div>
         
-                {{ if isset .Params "website" }}
+                {{ with .Params.website }}
                 <div class="website">
-                    <a href="{{ .Params.website }}" target="_blank">Event Website</a>
+                    <a href="{{ . }}" target="_blank">Event Website</a>
                 </div>
                 {{ end }}
             </div>
@@ -77,9 +77,9 @@
                     {{ .Params.phone_toll_free }}
                 </div>
         
-                {{ if isset .Params "website" }}
+                {{ with .Params.website }}
                 <div class="website">
-                    <a href="{{ .Params.website }}" target="_blank">Event Website</a>
+                    <a href="{{ . }}" target="_blank">Event Website</a>
                 </div>
                 {{ end }}
             </div>

@@ -39,7 +39,8 @@
       "webpack-subresource-integrity": "^1.3.2"
     },
     "dependencies": {
-      
+      "instafeed.js": "^1.4.1",
+      "lunr": "^2.3.0"
     },
     "browserslist": "> 2.25%, not dead"
   }

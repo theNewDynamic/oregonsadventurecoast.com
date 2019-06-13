@@ -1,6 +1,6 @@
 <head>
 
-	<title>{{ if isset .Params.seo "title" }}{{ .Params.seo.title }}{{ else }}{{ .Title }}{{ end }}</title>
+	<title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}</title>
 	<link href="https://fonts.googleapis.com/css?family=Calligraffitti|Fjalla+One|Roboto:100,300,400,500" rel="stylesheet">
 	{{/*  <link rel="stylesheet" href="/css/main.css" />  */}}
 	{{ partial "_head/assets.html" . }}
@@ -33,7 +33,7 @@
 
 	<!-- FB Open Graph -->
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="{{ if isset .Params.seo "title" }}{{ .Params.seo.title }}{{ else }}{{ .Title }}{{ end }}">
+	<meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
 	<meta property="og:url" content="{{ .Permalink | absURL }}">
 	<meta property="og:image" content="{{ .Params.seo.image }}">
 	<meta property="og:description" content="{{ .Params.seo.description }}">
@@ -41,7 +41,7 @@
 	<!-- Twitter -->
 	<meta name="twitter:card" content="summary">
 	<!-- <meta name="twitter:site" content="@publisher_handle"> -->
-	<meta name="twitter:title" content="{{ if isset .Params.seo "title" }}{{ .Params.seo.title }}{{ else }}{{ .Title }}{{ end }}">
+	<meta name="twitter:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
 	<meta name="twitter:description" content="{{ .Params.seo.description }}">
 	<!-- <meta name="twitter:creator" content="@author_handle"> -->
 	<meta name="twitter:image" content="{{ .Params.seo.image }}">

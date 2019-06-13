@@ -67,7 +67,7 @@
 </div>
 
 <!-- optimize these -->
-<script src="/js/app.js"></script>
-<script src="/js/jquery.min.js"></script>
-<script src="/js/main.js"></script>
+{{ range slice "app.js" "jquery.min.js" "main.js" }}
+<script src="{{ partial "func/GetAssetSRC" . }}"></script>
+{{ end }}
 
