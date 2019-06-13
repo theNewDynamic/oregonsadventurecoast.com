@@ -1,6 +1,6 @@
-{{ $base := "/dist" }}
-{{ if in (slice "jquery.min.js" "cycle2.min.js") . }}
-  {{ $base = "/vendors" }}
+{{ $manifest := site.Data.assets }}
+{{ $return := false }}
+{{ with index $manifest . }}
+  {{ $return = . }}
 {{ end }}
-{{ $url := printf "%s/%s" $base . | safeURL }}
-{{ return $url }}
+{{ return $return }}

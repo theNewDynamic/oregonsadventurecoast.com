@@ -1,0 +1,12 @@
+{{ with partialCached "func/GetAssetSRC" . . }}
+  <script 
+    type="text/javascript" src="{{ .js }}"
+    defer
+    crossorigin="anonymous"
+    {{ with .jsIntegrity }}
+    integrity="{{ . }}"
+    {{ end }}
+  ></script>
+{{ else }}
+  <script type="text/javascript" src="{{ . }}" ></script>
+{{ end }}
