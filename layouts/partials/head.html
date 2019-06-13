@@ -8,7 +8,11 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="{{ .Params.seo.description }}">
-
+	{{if eq (getenv "HUGO_ENV") "production"}}
+  <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+	{{else}}
+		<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+	{{end}}
 	<!-- Favicons -->
 	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png">
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png">
