@@ -33,8 +33,3 @@ fields:
   template: contact
   label: Contact
   name: contact
-pages:
-- site/content/tourandequipment/coos-bay-boat-tours.md
-- site/content/tourandequipment/south-coast-tours-rentals-at-sunset-bay.md
-- site/content/tourandequipment/indigenous-02.md
-- site/content/tourandequipment/bahama-boards.md

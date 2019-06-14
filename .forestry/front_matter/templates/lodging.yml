@@ -60,5 +60,3 @@ fields:
   template: contact
   label: Contact
   name: contact
-pages:
-- site/content/lodgingitems/seagate-premier-townhouse.md
