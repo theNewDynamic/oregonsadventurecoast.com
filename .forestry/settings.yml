@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Pages
 - type: document
-  path: site/content/_index.md
+  path: content/_index.md
   label: Home
   templates:
   - home
@@ -18,7 +18,7 @@ sections:
   match: "*.md"
   exclude: _index.md
 - type: directory
-  path: site/content/sitepages
+  path: content/sitepages
   label: Other Pages
   create: all
   match: "**/*"
@@ -27,42 +27,42 @@ sections:
 - type: heading
   label: Other
 - type: directory
-  path: site/content/adventure
+  path: content/adventure
   label: Adventures
   create: all
   match: "**/*"
   templates:
   - adventure
 - type: directory
-  path: site/content/blog
+  path: content/blog
   label: Blog Posts
   create: all
   match: "**/*"
   templates:
   - post
 - type: directory
-  path: site/content/event
+  path: content/event
   label: Events
   create: all
   match: "**/*"
   templates:
   - event
 - type: directory
-  path: site/content/tripideas
+  path: content/tripideas
   label: Trip Ideas
   create: all
   match: "**/*"
   templates:
   - trip-ideas
 - type: directory
-  path: site/content/lodgingitems
+  path: content/lodgingitems
   label: Lodgings
   create: all
   match: "**/*"
   templates:
   - lodging
 - type: directory
-  path: site/content/tourandequipment
+  path: content/tourandequipment
   label: Tours and Equipment
   create: all
   match: "**/*"
