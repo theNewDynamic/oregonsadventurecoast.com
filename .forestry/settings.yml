@@ -73,7 +73,7 @@ sections:
 - type: document
   path: site/data/taxonomies.yaml
   label: Taxonomies
-upload_dir: site/static/img
+upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: false
