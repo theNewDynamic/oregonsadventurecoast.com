@@ -12,7 +12,7 @@ sections:
   templates:
   - home
 - type: directory
-  path: site/content
+  path: content
   label: Main Pages
   create: all
   match: "*.md"
