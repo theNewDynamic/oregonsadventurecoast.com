@@ -1,6 +1,7 @@
 baseurl: 'https://oregonsadventurecoast.netlify.com'
 languageCode: en-us
-title: Coos Bay - North Bend VCB
+themesDir: components
+title: Oregon's Adventure Coast
 googleAnalytics: UA-4406033-1
 MetaDataFormat: yaml
 params:
@@ -22,3 +23,5 @@ permalinks:
   sitepages: ':slug/'
 blackfriday:
   hrefTargetBlank: false
+theme:
+  - tnd-seo

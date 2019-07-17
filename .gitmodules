@@ -1,0 +1,3 @@
+[submodule "components/tnd-seo"]
+	path = components/tnd-seo
+	url = https://github.com/theNewDynamic/hugo-component-tnd-seo.git

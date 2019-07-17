@@ -1,6 +1,5 @@
 <head>
 
-	<title>{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}</title>
 	<link href="https://fonts.googleapis.com/css?family=Calligraffitti|Fjalla+One|Roboto:100,300,400,500" rel="stylesheet">
 	{{/*  <link rel="stylesheet" href="/css/main.css" />  */}}
 	{{ partial "_head/assets.html" . }}
@@ -35,20 +34,9 @@
 	<meta name="msapplication-wide310x150logo" content="mstile-310x150.png">
 	<meta name="msapplication-square310x310logo" content="mstile-310x310.png">
 
-	<!-- FB Open Graph -->
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
-	<meta property="og:url" content="{{ .Permalink | absURL }}">
-	<meta property="og:image" content="{{ .Params.seo.image }}">
-	<meta property="og:description" content="{{ .Params.seo.description }}">
-
-	<!-- Twitter -->
-	<meta name="twitter:card" content="summary">
-	<!-- <meta name="twitter:site" content="@publisher_handle"> -->
-	<meta name="twitter:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
-	<meta name="twitter:description" content="{{ .Params.seo.description }}">
-	<!-- <meta name="twitter:creator" content="@author_handle"> -->
-	<meta name="twitter:image" content="{{ .Params.seo.image }}">
+	{{ if templates.Exists "partials/tnd-seo/print.html" }}
+  	{{ partial "tnd-seo/print.html" . }}
+	{{ end }}
 
 	{{ with .Params.forestry_instant_preview_id }}
 	<meta name="forestry:prevID" value="{{ . }}">

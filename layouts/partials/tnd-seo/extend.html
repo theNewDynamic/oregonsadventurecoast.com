@@ -1,0 +1,35 @@
+{{/*
+  TND SEO EXtend
+  Overwrites some SEO default with current project's own specificity.
+
+  @author @regisphilibert
+
+  @context Page (.)
+
+  @TODO: Monitor after deployement as some use cases might have been left out.
+
+*/}}
+{{/* First condition makes sure a specifif SEO Image has not been set */}}
+{{ with $.Params.seo.image }}{{ else }}
+  {{ $image := false }}
+  {{/* Potential parameter to be used as seo image are:
+    1. .image */}}
+  {{ with .Params.image }}
+    {{ $image = . }}
+  {{ else }}
+    {{/* .photo */}}
+    {{ with .Params.photo }}
+      {{ $image = . }}
+    {{ else }}
+      {{ if eq .Type "event" }}}}
+        {{/* .mediumphotobox */}}
+        {{ with .Params.mediumboxphoto }}
+          {{ $image = . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ with $image }}
+    {{- $.Scratch.SetInMap "seo" "image" (. | absURL ) -}}
+  {{ end }}
+{{ end }}
