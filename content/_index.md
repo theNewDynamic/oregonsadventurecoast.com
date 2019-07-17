@@ -4,7 +4,7 @@ slideshow:
 - title: Farmer's Market - Thru Oct 30th
   photo: "/img/farmers-market-home-slider.jpg"
   title_mobile: Farmer's Market
-  image_mobile: "/img/farmers-market-home-slider-mobile.jpeg"
+  photo_mobile: "/img/farmers-market-home-slider-mobile.jpeg"
 - title: Being in the Moment
   photo: "/img/Shore-Acres-Couple-Flowers.jpg"
 - photo: "/img/shore-acres-slider.jpg"

@@ -1,5 +1,7 @@
 {{ define "main" }}
-
+<style>
+    @media min-
+</style>
 <div class="m-homeslideshow">
     <div class="slides cycle-slideshow"
     data-cycle-fx="cycle-slideshow" 
@@ -24,9 +26,17 @@
 
 <div class="m-homeslideshow-mobile">
 {{ range first 1 .Params.slideshow }}
-
+    {{ $photo := .photo }}
+    {{ with .photo_mobile }}
+        {{ $photo = . }}
+    {{ end }}
     <div class="slide">
-        <img src="{{ .photo }}" alt="{{ .title }}">
+        <img src="{{ $photo }}" alt="{{ .title }}">
+        {{ with .title_mobile }}
+            <div class="title">
+                <div>{{ . }}</div>
+            </div>
+        {{ end }}
     </div>
 
 {{ end }}

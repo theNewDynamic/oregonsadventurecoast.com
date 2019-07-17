@@ -23,7 +23,7 @@ fields:
       required: false
     label: Title on mobile
     description: The text to be displayed on mobile
-  - name: image_mobile
+  - name: photo_mobile
     type: file
     config:
       maxSize: 250

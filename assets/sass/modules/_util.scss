@@ -64,3 +64,12 @@
     float: left;
     padding: 14px;
 }
+
+.u-hidden{
+    display:none;
+}
+@include smallPlusUp{
+    .sm\:block{
+        display: block;
+    }
+}
