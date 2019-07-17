@@ -107,6 +107,10 @@ Modifier Classes for .items:
 }
 .m-events-grid .item .label {
     display: block;
+    padding: 0.8em 1.3em;
+    font-size: 1rem;
+    text-shadow: 0 0 12px #fff;
+    letter-spacing: 1px;
     @include medium {
         display: none;
     }
