@@ -17,6 +17,18 @@ fields:
     name: photo
     label: Image
     description: The image of the slide
+  - name: title_mobile
+    type: text
+    config:
+      required: false
+    label: Title on mobile
+    description: The text to be displayed on mobile
+  - name: image_mobile
+    type: file
+    config:
+      maxSize: 250
+    label: Image on mobile
+    description: The image used on mobile
 - type: text
   name: welcomeheadline
   label: Welcome Headline
