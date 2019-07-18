@@ -14,3 +14,5 @@ fields:
   type: image_gallery
   config: {}
   label: Gallery
+pages:
+- content/gallery.md
