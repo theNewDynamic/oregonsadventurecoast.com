@@ -14,5 +14,23 @@ fields:
   type: image_gallery
   config: {}
   label: Gallery
+- name: gallery_2
+  type: field_group_list
+  fields:
+  - name: filename
+    type: text
+    config:
+      required: false
+    label: Filename
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+  config:
+    min: 
+    max: 
+    labelField: filename
+  label: Gallery
 pages:
 - content/gallery.md
