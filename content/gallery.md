@@ -7,5 +7,8 @@ gallery:
 - "/img/Wild-mare2.jpg"
 - "/img/Cozy-Cottage.jpg"
 - "/img/bimart-sporting-goods-charters.jpg"
+gallery_2:
+- filename: lucky-rover-rv.jpg
+  image: "/img/lucky-logger-rv.jpg"
 
 ---
