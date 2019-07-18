@@ -10,3 +10,7 @@ fields:
 - type: file
   name: photo
   label: Photo
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Gallery
