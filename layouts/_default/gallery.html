@@ -1,16 +1,33 @@
+
 {{ define "main" }}
 
-{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+    {{ partial "featurePhoto" (dict "photo" .Params.photo) }}
 
-<div class="g-wrap clearfix">
-    <div class="m-standard-content -full">
-        <h1>{{ .Title }}</h1>
-        <div id="instafeed"></div>
+    <div class="g-wrap clearfix">
+        <div class="m-standard-content -full">
+            <h1>{{ .Title }}</h1>
+            <div class="inner">
+                {{ .Content }}
+            </div>
+            {{ with .Params.gallery }}
+                <div id="lightgallery" class="m-content-columns" data-columns="3">
+                    {{ range . }}
+                        <a href="{{ . }}" class="m-content-columns__col">
+                            <img src="{{ . }}">
+                        </a>
+                    {{ end }}
+                </div>
+            {{ end }}
+    
+        </div>
     </div>
-</div>
+
 
 {{ end }}
 
 {{ define "footerJs" }}
-{{ partial "script" "instagram" }}
+<script src="/vendors/lg/js/lightgallery.min.js"></script>
+<script>
+    lightGallery(document.getElementById('lightgallery'));
+</script>
 {{ end }}
