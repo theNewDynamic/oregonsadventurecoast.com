@@ -41,8 +41,12 @@
     font-family: $roboto;
     font-weight: 300;
     font-size: 33px;
-    color: currentColor;
+    
     margin: 0;
+    a{
+        color: currentColor;
+        text-decoration: none;
+    }
     @include smallPlus {
         text-align: center;
     }
