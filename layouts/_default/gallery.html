@@ -12,8 +12,14 @@
             {{ with .Params.gallery }}
                 <div id="lightgallery" class="m-content-columns" data-columns="3">
                     {{ range . }}
-                        <a href="{{ . }}" class="m-content-columns__col">
-                            <img src="{{ . }}">
+                        <a href="{{ .image }}" class="m-content-columns__col" data-sub-html=".caption">
+                            <img src="{{ .image }}">
+                            {{ with .title }}
+                            <div class="caption">
+                               <h4>{{ . }}</h4>
+                            </div>
+                            {{ end }}
+         
                         </a>
                     {{ end }}
                 </div>
@@ -28,6 +34,8 @@
 {{ define "footerJs" }}
 <script src="/vendors/lg/js/lightgallery.min.js"></script>
 <script>
-    lightGallery(document.getElementById('lightgallery'));
+    lightGallery(document.getElementById('lightgallery'), {
+        subHtmlSelectorRelative: true
+    });
 </script>
 {{ end }}

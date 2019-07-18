@@ -3,12 +3,14 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
-- "/img/davy-jones-locker-charters.jpg"
-- "/img/Wild-mare2.jpg"
-- "/img/Cozy-Cottage.jpg"
-- "/img/bimart-sporting-goods-charters.jpg"
-gallery_2:
-- filename: lucky-rover-rv.jpg
+- title: DavyJonesChartsr.jpg
+  image: "/img/davy-jones-locker-charters.jpg"
+- title: Wild Mare
+  image: "/img/Wild-mare2.jpg"
+- title: Bimart Sporting Goods
+  image: "/img/bimart-sporting-goods-charters.jpg"
+- title: Cozy
+  image: "/img/Cozy-Cottage.jpg"
+- title: lucky-rover-rv.jpg
   image: "/img/lucky-logger-rv.jpg"
-
 ---
