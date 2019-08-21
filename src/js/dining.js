@@ -9,7 +9,7 @@ import GetFilterMatchType from './common/get-filter-match-type';
 import SortMenu from './common/sort-menu';
 import Map from './maps/Map';
 
-const api_url = "https://oregonsadventurecoast.com";
+const api_url = "https://api.oregonsadventurecoast.com";
 
 /**
  * Sets up the initMap callback function for Maps API to call back into.

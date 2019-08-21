@@ -4,7 +4,7 @@ import Calendar from './calendar/Calendar';
 import FilterToggles from './common/filter-toggles';
 import {PAGINATION_DEFAULTS, PAGINATION_ACTIONS, FILTER_OPTION} from './common/constants';
 
-const api_url = "https://oregonsadventurecoast.com";
+const api_url = "https://api.oregonsadventurecoast.com";
 
 (function($) {
 
