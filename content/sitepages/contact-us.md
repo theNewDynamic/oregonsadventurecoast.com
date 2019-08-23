@@ -1,14 +1,14 @@
 ---
 title: Contact Us for Oregon Coast Trip Ideas
 layout: contact
-url: /contact
-photo: /img/contact-page-header.jpg
+url: "/contact"
+photo: "/img/contact-page-header.jpg"
 seo:
-  description: >-
-    If you need help finding exciting things to do on the Oregon Coast or just
-    want to find out more about the area, feel free to contact us! Start
-    planning your vacation now!
+  description: If you need help finding exciting things to do on the Oregon Coast
+    or just want to find out more about the area, feel free to contact us! Start planning
+    your vacation now!
   title: Oregon Coast Trip Ideas - Things to Do | Contact Oregon's Adventure Coast
+
 ---
 Thank you for visiting our site! If you need help finding something wonderful to do or just want to find out more about the area, feel free to contact Oregon’s Adventure Coast.
 
@@ -18,43 +18,41 @@ Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor acti
 
 [ {{< floatimage src="/img/request-guide-red-button.png" float="right" alt="Click Here to Request a Visitor Guide / Packet" size="undefined" >}} ](#contactform)
 
-#### Coos Bay – North Bend\
+#### Coos Bay – North Bend\\
 
-#### Visitor & Convention Bureau\
+#### Visitor & Convention Bureau\\
 
-50 Central Avenue\
-Coos Bay, OR 97420\
-(541) 269-0215 • (800) 824-8486
+50 Central Avenue  
+Coos Bay, OR 97420  
+(541) 269-0215
 
-<mailto:info@oregonsadventurecoast.com>\
+[mailto:info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com)\\
 
-<p>&nbsp;</p>
+<p> </p>
 
 {{< columns number="3" >}}
 
-**Coos Bay Visitor**\
-**Information Center**\
-50 Central Ave\
-Coos Bay, OR 97420\
-[Email Us](mailto:info@oregonsadventurecoast.com)\
-(541) 269-0215\
-(800) 824-8486
+**Coos Bay Visitor**  
+**Information Center**  
+50 Central Ave  
+Coos Bay, OR 97420  
+[Email Us](mailto:info@oregonsadventurecoast.com)  
+(541) 269-0215
 
 Find information, maps, and public restrooms.
 Open Mon – Fri, 9am-5pm, Sat 11am-3pm. Extended summer hours include Sun 10am-3pm (_Memorial Day – Labor Day_). Our visitor center staff are more then happy to [mail you visitor information](#contactform) or [relocation information](/relocation-info-request/#relocationform) upon request.
-++++
-**North Bend Visitor Information Center**\
-1380 Sherman Ave\
-North Bend, OR 97459\
-[Email Us](mailto:nbinfo@northbendcity.org)\
-(541) 756-4613\
-(800) 472-9176
+\++++
+**North Bend Visitor Information Center**  
+1380 Sherman Ave  
+North Bend, OR 97459  
+[Email Us](mailto:nbinfo@northbendcity.org)  
+(541) 756-4613
 
 Find information, maps, public restrooms and public computer. Located adjacent to Simpson Park. Open daily. Our visitor centers are more then happy to mail you visitor information or relocation information upon request.
-++++
-**Charleston Visitor Information Center**\
-91141 Cape Arago Hwy\
-Charleston, OR 97429\
+\++++
+**Charleston Visitor Information Center**  
+91141 Cape Arago Hwy  
+Charleston, OR 97429  
 (541) 888-2311
 
 Open Seasonally: May 1st - September 30th
@@ -65,7 +63,7 @@ Open Seasonally: May 1st - September 30th
 
 <a name="contactform"></a>
 
-<p>&nbsp;</p>
+<p> </p>
 
 ### Request a Visitor Guide / Packet
 

@@ -1,14 +1,14 @@
 ---
 title: Our Area
 layout: our-area
-url: /our-area
-photo: /img/our-area-main.jpg
+url: "/our-area"
+photo: "/img/our-area-main.jpg"
 seo:
-  description: >-
-    Travel to Coos Bay, North Bend, or Charleston to discover the beauty &
-    adventure of a vacation to the Oregon Coast for yourself! See what makes
-    each of these towns unique.
+  description: Travel to Coos Bay, North Bend, or Charleston to discover the beauty
+    & adventure of a vacation to the Oregon Coast for yourself! See what makes each
+    of these towns unique.
   title: Oregon Coast Trips Vacations - Our Area | Oregon's Adventure Coast
+
 ---
 ## ADVENTURE IS OUR MIDDLE NAME!
 
@@ -24,7 +24,13 @@ _Where the Soul Meets the Sea!_
 
 ### OREGON’S ADVENTURE COAST TOWNS
 
-This beautiful section of the Oregon coastline is known as Oregon’s Adventure Coast for several reasons and when you arrive in the area, you will easily see why. Check out more information below to see what makes each of our towns unique:
+This beautiful section of the Oregon coastline is known as Oregon’s Adventure Coast for several reasons and when you arrive in the area, you will easily see why. Check out more information below to see what makes each of our towns unique.
+
+{{< floatimage src="/img/walking-map-icon.png" float="left" alt="Downtown Walking Map Icon" size="100" >}}
+
+#### Explore Our Downtown Walking Maps
+
+[Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.](/img/walking-map-cbnb.pdf)Find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns.
 
 {{< columns number="3" >}}
 
@@ -36,7 +42,7 @@ A stroll through Coos Bay shows the merging of past and present. Historic buildi
 
 <a href="/our-area-coos-bay" class="learn-more-anywhere-btn">Learn More »</a>
 
-++++
+\++++
 
 ![McCullough Bridge in North Bend, Oregon](/img/col-our-area-north-bend.jpg)
 
@@ -46,7 +52,7 @@ On the “North Bend” of the bay, this town boasts great beaches, the Oregon C
 
 <a href="/our-area-north-bend" class="learn-more-anywhere-btn">Learn More »</a>
 
-++++
+\++++
 
 ![The Marina in Charleston, Oregon](/img/col-our-area-charleston.jpg)
 

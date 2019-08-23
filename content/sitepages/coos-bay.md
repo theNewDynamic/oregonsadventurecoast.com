@@ -1,14 +1,21 @@
 ---
 title: Coos Bay
 layout: our-area
-url: /our-area-coos-bay
-photo: /img/our-area-coos-bay-header.jpg
+url: "/our-area-coos-bay"
+photo: "/img/our-area-coos-bay-header.jpg"
+
 ---
 **Coos Bay** was established in the 1850’s as Marshfield, but changed its name to Coos Bay in 1944. Year’s later, the cities’ of Empire and Eastside merged with Coos Bay making Coos Bay the largest city on the Oregon Coast with a current population of 16,292. Coos Bay is also the birthplace of legendary runner, [Steve Prefontaine](/steve-prefontaine-story).
 
 The name Coos Bay is derived from one of the area’s Native American tribes and has two Indian meanings – lake, and place of pines, both very fitting for this area. Several Native American Tribes called the Coos Bay region their ancestral homeland including the Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians, and the Coquille Indians.
 
 Today, you’ll find intriguing restaurants, gourmet coffee houses, antique shops, gift shops, the Coos History Museum, and the Coos Art Museum, the 3rd oldest art museum in Oregon. Thanks to Coos Bay’s progressive vision, you’ll find a rejuvenated and quickly changing downtown area with growing retail and service sectors. The downtown area known as the Old Marshfield district is adjacent to the Coos Bay Boardwalk where locals and visitors alike can often be seen enjoying the waterfront views. The best way to enjoy the downtown area is on foot, view a historical walking tour here.
+
+{{< floatimage src="/img/walking-map-icon.png" float="left" alt="Downtown Walking Map Icon" size="100" >}}
+
+#### Explore Our Downtown Walking Maps
+
+[Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.](/img/walking-map-cbnb.pdf)Find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns.
 
 ### OREGON’S ADVENTURE COAST TOWNS
 
