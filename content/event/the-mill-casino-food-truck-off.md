@@ -8,14 +8,14 @@ desktoptitle: Mill Casino Food Truck Off
 mobiletitle: Mill Food Trucks
 hovertitle: Mill Food Trucks
 hoverdescription: Food trucks, live music and more!
-startdate: 2019-08-02 00:00:00 +0000
-enddate: 2019-08-04 00:00:00 +0000
+startdate: '2019-08-02'
+enddate: '2019-08-04'
 address:
   city: North Bend
   state: OR
   street: 3201 Tremont St.
   zip: 97459
-phone_local: 541-756-8800
+phone_local: "(541) 756-8800"
 website: https://www.themillcasino.com/entertainment/3rd-annual-food-truck-off/
 seo:
   imgalt: 'Mill Casino Food Truck Off '
@@ -29,7 +29,7 @@ Bring the whole family to enjoy this great outdoor event. Feast yourself on the 
 
 This three day event features more than 20 food trucks from around the region competing for a portion of the $8,500 prize fund. Beer Garden brought to you by Columbia Distributing. Feast yourself on the goods while the trucks compete in 7 categories. Cast your vote to see which truck will win the People’s Choice. All trucks will have at least one sample item available for purchase and will also serve from the entire regular menu.
 
-Friday, August 2 – 5 pm – 9 pm  
+Friday, August 2 – 4 pm – 8 pm  
 Saturday, August 3 – Noon – 6 pm  
 Sunday, August 4 – 11 am – 4 pm
 
