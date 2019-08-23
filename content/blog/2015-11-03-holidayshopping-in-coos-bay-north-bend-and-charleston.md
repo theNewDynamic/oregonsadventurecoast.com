@@ -141,5 +141,5 @@ Please support our fabulous and unique <a href="/activities/category/shopping/" 
 We&#8217;re here to help! If you need help finding something wonderful to do or just want to find out more about the area, feel free to contact us. Email us, call us or stop in and see us!
 
 <p style="text-align: center;">
-  Coos Bay – North Bend Visitor & Convention Bureau<br /> 50 Central Avenue,<br /> Coos Bay, OR 97420<br /> (541) 269-0215 • 1-800-824-8486 FREE<br /> info@oregonsadventurecoast.com
+  Coos Bay – North Bend Visitor & Convention Bureau<br /> 50 Central Avenue,<br /> Coos Bay, OR 97420<br /> (541) 269-0215<br /> info@oregonsadventurecoast.com
 </p>
