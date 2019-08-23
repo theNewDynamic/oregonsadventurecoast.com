@@ -9,7 +9,7 @@ seo:
   title: Oregon Coast Trips - Shopping | Oregon's Adventure Coast
 
 ---
-Not all adventures take place outside! Shopping is one adventure that takes you into some ecclectic businesses, including antique and kitchy shops, all over the Coos Bay, North Bend & Charleston area.
+Not all adventures take place outside! Shopping is one adventure that takes you into some eclectic businesses, including antique and kitchy shops, all over the Coos Bay, North Bend & Charleston area.
 
 Hunting for that special something or stumbling across a treasure you didn't even know you were looking for can make your next trip to Oregon's Adventure Coast, well, an Adventure you didn't expect!
 
@@ -24,6 +24,11 @@ In Coos Bay's Downtown area, here are a few places to stop in for unique shoppin
 The {{< link url="https://cooshistory.org/museum-store" >}}Coos History Museum Gift Shop{{< /link >}} provide visitors with a look at our history and culture. At our weekly {{< link url="https://www.facebook.com/CoosBayFarmersMarket" >}}Downtown Farmers Market{{< /link >}}, you can take home locally grown produce, handcrafted items, and lunch from the food court. More than 80 vendors take up 4 blocks of downtown every Wednesday, May to October, from 9am to 2pm.
 
 And a visit to Coos Bay is not complete without a stop at {{< link url="http://cranberrysweets.com" >}}Cranberry Sweets{{< /link >}} for their unique take on cranberry candies and other delicious selections.
+{{< floatimage src="/img/walking-map-icon.png" float="left" alt="Downtown Walking Map Icon" size="100" >}}
+
+#### Explore Our Downtown Walking Maps
+
+[Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.](/img/walking-map-cbnb.pdf)Find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns.
 
 <div class="margin-50px-top"></div>
 
@@ -34,6 +39,12 @@ And a visit to Coos Bay is not complete without a stop at {{< link url="http://c
 North Bend's quaint downtown offers shoppers a blend of gift, antique and clothing stores to choose from, including, {{< link url="https://www.facebook.com/paintedzebraboutique" >}}Painted Zebra{{< /link >}}, {{< link url="http://www.petaltothemetalflowers.com" >}}Petal to the Metal{{< /link >}}, {{< link url="https://www.facebook.com/Books-By-The-Bay-232314893488700" >}}Books by the Bay{{< /link >}}, {{< link url="https://www.facebook.com/Josies-Art-Lab-216155035404818/" >}}Josies Art Lab{{< /link >}}, Fat Cat Antiques, Mossy Rose, and many others.
 
 Other shopping options in North Bend include the {{< link url="http://ponyvm.com" >}}Pony Village Mall{{< /link >}}, {{< link url="http://www.myrtlewood-hauserrvpark.com/index.html" >}}The Myrtlewood Factory{{< /link >}}, and {{< link url="https://www.themillcasino.com/accommodations/ko-kwel-gifts" >}}Ko-Kwel Gifts{{< /link >}} at The Mill Casino.
+
+{{< floatimage src="/img/walking-map-icon.png" float="left" alt="Downtown Walking Map Icon" size="100" >}}
+
+#### Explore Our Downtown Walking Maps
+
+[Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.](/img/walking-map-cbnb.pdf)Find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns.
 
 <div class="margin-50px-top"></div>
 

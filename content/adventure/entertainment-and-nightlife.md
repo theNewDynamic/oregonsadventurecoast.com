@@ -1,13 +1,13 @@
 ---
 title: Entertainment and Nightlife
-url: /entertainment-and-nightlife
-photo: /img/nightlife-entertainment-sub-header.jpg
+url: "/entertainment-and-nightlife"
+photo: "/img/nightlife-entertainment-sub-header.jpg"
 seo:
-  description: >-
-    Browse entertainment and nightlife options during your Oregon Coast trip!
-    Our authentic, down-to-earth vibe promises an evening you won’t find
-    anywhere else.
+  description: Browse entertainment and nightlife options during your Oregon Coast
+    trip! Our authentic, down-to-earth vibe promises an evening you won’t find anywhere
+    else.
   title: Oregon Coast Trips - Entertainment/Nightlife | Oregon's Adventure Coast
+
 ---
 ![Dale Inskeep Band](/img/enterainment-top-header.jpg)
 
@@ -20,6 +20,13 @@ Our area features some fabulous entertainment venues like The Liberty Theatre (h
 But it’s inside our rustic beloved local pubs where one can find real  hidden musical gems! Our authentic, down-to-earth, Oregon Coast vibe promises an evening you won’t find anywhere else. 
 
 Here are some of the best local places that support up and coming bands and musicians. If you plan to visit any of these, it’s best to call ahead to confirm their schedule.
+
+{{< floatimage src="/img/walking-map-icon.png" float="left" alt="Downtown Walking Map Icon" size="100" >}}
+
+#### Explore Our Downtown Walking Maps
+
+[Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.](/img/walking-map-cbnb.pdf)Find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns.
+<div style="clear:both"></div>
 
 {{< columns number="2" >}}
 

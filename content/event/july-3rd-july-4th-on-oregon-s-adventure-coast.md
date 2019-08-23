@@ -1,27 +1,27 @@
 ---
 title: July 3rd & July 4th on Oregon's Adventure Coast
-startdate: 2019-07-03 00:00:00 +0000
-enddate: 2019-07-04 00:00:00 +0000
+photo: "/img/fireworks-event-page-header.jpg"
+photo_alt: Fireworks over Coos Bay
+largeboxphoto: "/img/fireworks-event-large.jpg"
+mediumboxphoto: "/img/fireworks-event-medium.jpg"
+smallboxphoto: "/img/fireworks-event-small.jpg"
+desktoptitle: Celebrate Over Coos Bay
+mobiletitle: Celebrate Over Coos Bay
+hovertitle: Celebrate our Independence Over Coos Bay
+hoverdescription: Don’t miss Oregon’s largest fireworks display on July 3rd!
+startdate: '2019-07-03'
+enddate: '2019-07-04'
 address:
   street: ''
   street2: ''
   city: ''
   zip: ''
-phone_local: 541-269-0215
-phone_toll_free: 800-824-8486
+phone_local: "(541) 269-0215"
+phone_toll_free: "(800) 824-8486"
 website: http://www.oregonsadventurecoast.com
-desktoptitle: Celebrate Over Coos Bay
-mobiletitle: Celebrate Over Coos Bay
-hovertitle: Celebrate our Independence Over Coos Bay
-hoverdescription: Don’t miss Oregon’s largest fireworks display on July 3rd!
-photo: "/img/fireworks-event-page-header.jpg"
-largeboxphoto: "/img/fireworks-event-large.jpg"
-mediumboxphoto: "/img/fireworks-event-medium.jpg"
-smallboxphoto: "/img/fireworks-event-small.jpg"
-photo_alt: Fireworks over Coos Bay
-date: 2019-02-10 21:43:54 +0000
 
 ---
+
 ![](/img/fireworks-event-blog-695x322.jpg)
 
 ## July 3rd Fireworks at The Mill
