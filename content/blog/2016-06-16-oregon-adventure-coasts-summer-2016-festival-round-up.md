@@ -1,28 +1,27 @@
 ---
 title: Oregon Adventure Coast's Summer 2016 Festival Round-Up
-date: 2016-06-16T15:27:02.000Z
-description: >+
-  Summer's just getting started, and so are we! Buckle up for a summer packed
-  full of music, food, and activities in the shape of our many festivals! We
-  hope you have plenty of sunscreen, because you're going to need it!
-
+date: 2016-06-16T15:27:02.000+00:00
+description: "Summer's just getting started, and so are we! Buckle up for a summer
+  packed full of music, food, and activities in the shape of our many festivals! We
+  hope you have plenty of sunscreen, because you're going to need it!\n\n"
 tags:
-  - Annual Oregon Coast Music Festival
-  - City of Coos Bay
-  - Coos Bay
-  - Events in July
-  - Festivals
-  - Fireworks
-  - Fourth of July celebrations
-  - July
-  - Mill Casino
-  - Mingus Park
-  - Music Festivals
-  - North Bend
-  - Oregon Coast
+- Annual Oregon Coast Music Festival
+- City of Coos Bay
+- Coos Bay
+- Events in July
+- Festivals
+- Fireworks
+- Fourth of July celebrations
+- July
+- Mill Casino
+- Mingus Park
+- Music Festivals
+- North Bend
+- Oregon Coast
 categories:
-  - Fairs & Festivals
+- Fairs & Festivals
 image: ''
+
 ---
 Summer&#8217;s just getting started, and so are we! Buckle up for a summer packed full of music, food, and activities in the shape of our many festivals! We hope you have plenty of sunscreen, because you&#8217;re going to need it!
 

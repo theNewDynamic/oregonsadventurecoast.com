@@ -1,29 +1,25 @@
 ---
-title: >-
-  Expect Plenty of Music, Dancing and Fun During South Coast Folk Week October
+title: Expect Plenty of Music, Dancing and Fun During South Coast Folk Week October
   4th-10th
-date: 2015-09-18T15:06:20.000Z
-description: >-
-  South Coast Folk Society Ready for Centennial Celebration and Community
-  Residency Tour
+date: 2015-09-18T15:06:20.000+00:00
+description: |-
+  South Coast Folk Society Ready for Centennial Celebration and Community Residency Tour
 
-
-  Are you ready Coos Bay, Oregon? Our own South Coast Folk Society is one of
-  seven prestigious groups across the U.S. and Canada awarded a community
-  residency as part of a Centennial Tour by the arts and education organization
-  the Country Dance & Song Society (CDSS).
+  Are you ready Coos Bay, Oregon? Our own South Coast Folk Society is one of seven prestigious groups across the U.S. and Canada awarded a community residency as part of a Centennial Tour by the arts and education organization the Country Dance & Song Society (CDSS).
 tags:
-  - Centennial Celebration
-  - contra dance
-  - Contra Dance South Coast Folk Society
-  - Country Dance & Song Society
-  - folk dance
-  - South Coast Folk Society
-  - South Coast Folk Week
+- Centennial Celebration
+- contra dance
+- Contra Dance South Coast Folk Society
+- Country Dance & Song Society
+- folk dance
+- South Coast Folk Society
+- South Coast Folk Week
 categories:
-  - Fairs & Festivals
-  - Miscellaneous
+- Fairs & Festivals
+- Miscellaneous
 image: ''
+draft: true
+
 ---
 ### South Coast Folk Society Ready for Centennial Celebration and Community Residency Tour
 

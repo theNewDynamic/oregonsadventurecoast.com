@@ -1,27 +1,27 @@
 ---
-title: >-
-  Celebrate Art, Culture & Delicious Blackberries at the 2017 Blackberry Arts
+title: Celebrate Art, Culture & Delicious Blackberries at the 2017 Blackberry Arts
   Festival
-date: 2017-07-21T14:20:02.000Z
-description: >-
-  The Coos Bay Downtown Association invites you and your family to celebrate
-  local art, culture, food and drink at the 2017 Blackberry Arts Festival in
-  downtown Coos Bay August 26th & August 27th 2017.  This popular festival
-  happens annually on the 4th weekend of August (peak of the Blackberry season
-  on the Oregon Coast) and celebrates the annual harvest of the Blackberry.
+date: 2017-07-21T14:20:02.000+00:00
+description: The Coos Bay Downtown Association invites you and your family to celebrate
+  local art, culture, food and drink at the 2017 Blackberry Arts Festival in downtown
+  Coos Bay August 26th & August 27th 2017.  This popular festival happens annually
+  on the 4th weekend of August (peak of the Blackberry season on the Oregon Coast)
+  and celebrates the annual harvest of the Blackberry.
 tags:
-  - arts and crafts
-  - Arts Festival
-  - Blackberry Arts Festival
-  - Blackberry Jam
-  - Coos Bay
-  - Coos Bay Downtown Association
-  - K-DOCK 92.9
-  - Oregon Coast Festival
-  - Outdoor Market
+- arts and crafts
+- Arts Festival
+- Blackberry Arts Festival
+- Blackberry Jam
+- Coos Bay
+- Coos Bay Downtown Association
+- K-DOCK 92.9
+- Oregon Coast Festival
+- Outdoor Market
 categories:
-  - Fairs & Festivals
-image: /img/07-21-17-anual-blackberry-fest.jpg
+- Fairs & Festivals
+image: "/img/07-21-17-anual-blackberry-fest.jpg"
+draft: true
+
 ---
 The <a href="http://coosbaydowntown.org/" target="_blank" rel="noopener noreferrer">Coos Bay Downtown Association</a> invites you and your family to celebrate local art, culture, food and drink at the <a href="http://blackberryartsfestival.com/" target="_blank" rel="noopener noreferrer">2017 Blackberry Arts Festival</a> in downtown Coos Bay August 26th & August 27th 2017.  This popular festival happens annually on the 4th weekend of August (peak of the Blackberry season on the Oregon Coast) and celebrates the annual harvest of the Blackberry.
 

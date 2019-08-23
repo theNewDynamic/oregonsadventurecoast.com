@@ -1,32 +1,26 @@
 ---
 title: What are the best indoor activities on Oregon's Adventure Coast?
-date: 2017-01-26T15:34:04.000Z
-description: >-
+date: 2017-01-26T15:34:04.000+00:00
+description: |-
   10 Ways to Explore the "Great Indoors"
-
-  Last week, we revealed that it's not uncommon to experience a "secret
-  miniature summer" featuring surprisingly beautiful and balmy days of sunshine
-  during the winter months along the Oregon Coast. When the outdoors beckon,
-  it's time to embark on a beach stroll, a hike through the woods or along the
-  Oregon Dunes or one of our beautiful state parks. Perhaps you'll want to go
-  for a drive along the The Cape Arago Beach Loop, go winter fishing, crabbing,
-  clamming, biking, ANYTHING to get you outside!
+  Last week, we revealed that it's not uncommon to experience a "secret miniature summer" featuring surprisingly beautiful and balmy days of sunshine during the winter months along the Oregon Coast. When the outdoors beckon, it's time to embark on a beach stroll, a hike through the woods or along the Oregon Dunes or one of our beautiful state parks. Perhaps you'll want to go for a drive along the The Cape Arago Beach Loop, go winter fishing, crabbing, clamming, biking, ANYTHING to get you outside!
 tags:
-  - Charleston Marine Life Center
-  - Coast
-  - Coos Art Museum
-  - Coos Bay
-  - Indoor Activities
-  - North Bend
-  - North Bend Lanes
-  - Southern Oregon Coast
-  - Winter
+- Charleston Marine Life Center
+- Coast
+- Coos Art Museum
+- Coos Bay
+- Indoor Activities
+- North Bend
+- North Bend Lanes
+- Southern Oregon Coast
+- Winter
 categories:
-  - Culture & Museums
-  - Eat & Drink
-  - Entertainment & Nightlife
-  - Historical
-image: ''
+- Culture & Museums
+- Eat & Drink
+- Entertainment & Nightlife
+- Historical
+image: "/img/North Bend Lanes Bowling blog-695x322.jpg"
+
 ---
 &nbsp;
 

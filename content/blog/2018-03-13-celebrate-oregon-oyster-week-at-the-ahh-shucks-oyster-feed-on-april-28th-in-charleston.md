@@ -1,30 +1,30 @@
 ---
-title: >-
-  Celebrate Oregon Oyster Week at the 'Ahh Shucks!' Oyster Feed on April 28th in
-  Charleston!
-date: 2018-03-13T12:55:57.000Z
-description: >-
-  It's a fact: Oregonians love oysters, so it's no wonder the annual Charleston
-  "Ahh Shucks!" Oyster Feed is one of the most anticipated food events of the
-  year! Here in Charleston, Oregon, oyster lovers gather every year to celebrate
-  tender, tempting, tasty, fresh Coos Bay oysters with a feast like no other.
+title: Celebrate Oregon Oyster Week at the 'Ahh Shucks!' Oyster Feed on April 28th
+  in Charleston!
+date: 2018-03-13T12:55:57.000+00:00
+description: 'It''s a fact: Oregonians love oysters, so it''s no wonder the annual
+  Charleston "Ahh Shucks!" Oyster Feed is one of the most anticipated food events
+  of the year! Here in Charleston, Oregon, oyster lovers gather every year to celebrate
+  tender, tempting, tasty, fresh Coos Bay oysters with a feast like no other.'
 tags:
-  - Beaches
-  - Charleston
-  - Coast
-  - Coos Bay
-  - Festivals Aww Shucks Oyster Feed
-  - North Bend
-  - Oregon
-  - Oregon Institute of Marine Biology Cafeteria
-  - Oyster
-  - oyster feast
-  - Oyster Feed
-  - recreation
-  - Southern Oregon Coast
+- Beaches
+- Charleston
+- Coast
+- Coos Bay
+- Festivals Aww Shucks Oyster Feed
+- North Bend
+- Oregon
+- Oregon Institute of Marine Biology Cafeteria
+- Oyster
+- oyster feast
+- Oyster Feed
+- recreation
+- Southern Oregon Coast
 categories:
-  - Fairs & Festivals
-image: /img/03-13-18-ahh-schucks-oyster-week.jpg
+- Fairs & Festivals
+image: "/img/03-13-18-ahh-schucks-oyster-week.jpg"
+draft: true
+
 ---
 ## <h2>Don't Miss the 13th Annual Charleston "Ahh Shucks!" Oyster Feed Saturday, April 28th!</h2>
 

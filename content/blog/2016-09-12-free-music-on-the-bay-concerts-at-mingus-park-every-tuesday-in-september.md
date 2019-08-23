@@ -1,30 +1,30 @@
 ---
-title: >-
-  Free "Music on The Bay" Concerts at Mingus Park Every Tuesday Through the End
+title: Free "Music on The Bay" Concerts at Mingus Park Every Tuesday Through the End
   of September
-date: 2016-09-12T17:10:39.000Z
-description: >-
-  Fall is one of our favorite times of year here on the southern Oregon coast.
-  Not only do we have fabulous festivals and events happening almost every
-  weekend, Coos Bay visitors and residents are treated to fabulous free musical
-  entertainment every Tuesday evening thanks to "Music on The Bay", a local
-  non-profit that strives to bring musical excellence to Oregon's South Coast.
+date: 2016-09-12T17:10:39.000+00:00
+description: Fall is one of our favorite times of year here on the southern Oregon
+  coast. Not only do we have fabulous festivals and events happening almost every
+  weekend, Coos Bay visitors and residents are treated to fabulous free musical entertainment
+  every Tuesday evening thanks to "Music on The Bay", a local non-profit that strives
+  to bring musical excellence to Oregon's South Coast.
 tags:
-  - Beaches
-  - Casey Abrams
-  - Charleston
-  - Coast
-  - Coos Bay
-  - Duffy Bishop
-  - Mingus Park
-  - North Bend
-  - Oregon
-  - recreation
-  - Southern Oregon Coast
+- Beaches
+- Casey Abrams
+- Charleston
+- Coast
+- Coos Bay
+- Duffy Bishop
+- Mingus Park
+- North Bend
+- Oregon
+- recreation
+- Southern Oregon Coast
 categories:
-  - Culture & Museums
-  - Miscellaneous
+- Culture & Museums
+- Miscellaneous
 image: ''
+draft: true
+
 ---
 Fall is one of our favorite times of year here on the southern Oregon coast. Not only do we have fabulous festivals and events happening almost every weekend, Coos Bay visitors and residents are treated to fabulous free musical entertainment every Tuesday evening thanks to &#8220;Music on The Bay&#8221;, a local non-profit that strives to bring musical excellence to Oregon&#8217;s South Coast.
 

@@ -1,28 +1,27 @@
 ---
-title: 'Festival of Sail® Coos Bay/North Bend 2017 Docks June 1-4, 2017'
-date: 2017-04-18T00:17:29.000Z
-description: >-
-  It’s happening! It's really happening! Later this spring, Coos Bay and North
-  Bend will be one of only a handful of Pacific ports that will host historic
-  ships during the annual Festival of Sail®, June 1st-4th, 2017. This annual
-  festival draws enthusiastic crowds from all over the region as it's "a rare
-  chance to catch a glimpse, step aboard, and even set sail on some of the
-  grandest ships of yore".
+title: Festival of Sail® Coos Bay/North Bend 2017 Docks June 1-4, 2017
+date: 2017-04-18T00:17:29.000+00:00
+description: It’s happening! It's really happening! Later this spring, Coos Bay and
+  North Bend will be one of only a handful of Pacific ports that will host historic
+  ships during the annual Festival of Sail®, June 1st-4th, 2017. This annual festival
+  draws enthusiastic crowds from all over the region as it's "a rare chance to catch
+  a glimpse, step aboard, and even set sail on some of the grandest ships of yore".
 tags:
-  - Festival
-  - Festival of Sail
-  - Festival of Sail 2017
-  - Festival of Sail Coos Bay
-  - Fleet of Historic Ships
-  - Historic Ships
-  - North Bend
-  - Oregon
-  - Oregon Coast
-  - ships
-  - World’s Largest Rubber Duck
+- Festival
+- Festival of Sail
+- Festival of Sail 2017
+- Festival of Sail Coos Bay
+- Fleet of Historic Ships
+- Historic Ships
+- North Bend
+- Oregon
+- Oregon Coast
+- ships
+- World’s Largest Rubber Duck
 categories:
-  - Fairs & Festivals
+- Fairs & Festivals
 image: ''
+
 ---
 It’s happening! It&#8217;s really happening! Later this spring, Coos Bay and North Bend will be one of only a handful of Pacific ports that will host historic ships during the annual [Festival of Sail®](http://festofsailcoosbay.com/), June 1st-4th, 2017. This annual festival draws enthusiastic crowds from all over the region as it&#8217;s &#8220;a rare chance to catch a glimpse, step aboard, and even set sail on some of the grandest ships of yore&#8221;.
 

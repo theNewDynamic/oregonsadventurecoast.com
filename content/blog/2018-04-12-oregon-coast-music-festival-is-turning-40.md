@@ -1,16 +1,17 @@
 ---
 title: Oregon Coast Music Festival is Turning 40!
-date: 2018-04-12T13:34:38.000Z
-description: >-
-  The longest running music festival on the Oregon Coast is turning 40! The 40th
-  Annual Oregon Coast Music Festival is happening Tuesday, July 24th through
+date: 2018-04-12T13:34:38.000+00:00
+description: The longest running music festival on the Oregon Coast is turning 40!
+  The 40th Annual Oregon Coast Music Festival is happening Tuesday, July 24th through
   Saturday, July 28th, 2018.
 tags:
-  - Entertainment & Nightlife
-  - Fairs & Festivals
+- Entertainment & Nightlife
+- Fairs & Festivals
 categories:
-  - Miscellaneous
-image: /img/04-12-18-or-coast-musfest.jpg
+- Miscellaneous
+image: "/img/04-12-18-or-coast-musfest.jpg"
+draft: true
+
 ---
 <em>Photo @ OCMF</em>
 

@@ -1,17 +1,19 @@
 ---
 id: 811
 title: 2016 Festival of Sail Coming to Coos Bay this May!
-date: 2016-04-12T13:18:53-07:00
+date: 2016-04-12T20:18:53.000+00:00
 author: TravelCoosBay
 layout: post
 guid: http://blog.oregonsadventurecoast.com/?p=811
-permalink: /2016/04/2016-festival-of-sail-coming-to-coos-bay-this-may/
+permalink: "/2016/04/2016-festival-of-sail-coming-to-coos-bay-this-may/"
 has_tweeted:
-  - "1"
-  - "1"
-image: /wp-content/uploads/2012/09/8d0675798b4e26f7d018eebcd51bfb6b-120x80.jpg
+- '1'
+- '1'
+image: "/wp-content/uploads/2012/09/8d0675798b4e26f7d018eebcd51bfb6b-120x80.jpg"
 blog_category:
-  - Local Love
+- Local Love
+draft: true
+
 ---
 The brig **<a href="http://www.historicalseaport.org/lady-washington" target="_blank">Lady Washington</a>** and her companion ship **<a href="http://www.historicalseaport.org/hawaiian-chieftain" target="_blank">Hawaiian Chieftain</a>** will return to the <a href="http://www.oregonsadventurecoast.com/listings/coos-bay-boardwalk/" target="_blank">Coos Bay Boardwalk</a> in conjunction with the annual **Festival of Sail** happening May 6-15, 2016.
 

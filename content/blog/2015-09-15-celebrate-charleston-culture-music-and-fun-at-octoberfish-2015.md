@@ -1,30 +1,32 @@
 ---
-title: 'Celebrate Charleston Culture, Music and Fun at Octoberfish 2015!'
-date: 2015-09-15T22:52:48.000Z
+title: Celebrate Charleston Culture, Music and Fun at Octoberfish 2015!
+date: 2015-09-15T22:52:48.000+00:00
 description: |-
   What: Octoberfish 2015
   Where: Cape Arago Hwy & Seven Devils Road Charleston, OR 97420
   When: Friday, October 2nd - Sunday October 4th
 tags:
-  - Beach Cleanup
-  - boat basin
-  - Boat Basin Charleston
-  - Charleston
-  - charleston marina
-  - Charleston Marine Life Science Center
-  - Community
-  - Community Festival
-  - Cook Off
-  - Festival
-  - harleston Food Pantry
-  - OCCI
-  - Octoberfish
-  - Octoberfish Gala
-  - Tailigating
-  - Tuna Guys
+- Beach Cleanup
+- boat basin
+- Boat Basin Charleston
+- Charleston
+- charleston marina
+- Charleston Marine Life Science Center
+- Community
+- Community Festival
+- Cook Off
+- Festival
+- harleston Food Pantry
+- OCCI
+- Octoberfish
+- Octoberfish Gala
+- Tailigating
+- Tuna Guys
 categories:
-  - Fairs & Festivals
+- Fairs & Festivals
 image: ''
+draft: true
+
 ---
 <h3 style="text-align: center;">
   What: Octoberfish 2015<br /> Where: Cape Arago Hwy & Seven Devils Road Charleston, OR 97420<br /> When: Friday, October 2nd &#8211; Sunday October 4th

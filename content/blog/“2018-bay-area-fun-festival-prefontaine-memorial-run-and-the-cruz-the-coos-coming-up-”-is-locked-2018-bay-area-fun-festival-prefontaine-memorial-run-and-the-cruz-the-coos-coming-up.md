@@ -1,48 +1,49 @@
 ---
-title: ' 2018 Bay Area Fun Festival, Prefontaine Memorial Run and The Cruz the Coos Coming Up!'
-date: '2018-08-01T11:07:49-07:00'
-description: >-
-  The Bay Area Fun Festival is coming up September 15-16, 2018 and there is
-  already plenty of buzz about this year's event! Thousands of locals and
-  visitors from afar come to enjoy the sights, sounds and tastes of beautiful
-  downtown Coos Bay and surrounding areas for this popular festival. Book your
-  accommodations soon so your group can enjoy the fun!
+title: Are you Ready for Some Fun? Join Us September 21-22, 2019 for the Bay Area
+  Fun Festival!
+date: 2019-08-06T11:10:00-07:00
+description: 'The end of summer is approaching, but that means the Bay Area Fun Festival
+  is happening soon! Join us the weekend of September 21-22, 2019 for a parade, the
+  Prefontaine Memorial Run, Cruz the Coos and so much more! '
 tags:
-  - Bay Area Fun Festival
-  - Beaches
-  - Charleston
-  - Coast
-  - Coos Bay
-  - North Bend
-  - Oregon
-  - recreation
-  - Steve Prefontaine
+- Bay Area Fun Festival
+- Beaches
+- Charleston
+- Coast
+- Coos Bay
+- North Bend
+- Oregon
+- recreation
+- Steve Prefontaine
 categories:
-  - Fairs & Festivals
-image: /img/bay-area-fun-fest-parade.jpg
+- Fairs & Festivals
+image: "/img/bay-area-fun-fest-parade.jpg"
+
 ---
-<a href="http://bayareafunfestival.com/" target="_blank" rel="noopener noreferrer">The Bay Area Fun Festival</a> is coming up September 15-16, 2018 and there is already plenty of buzz about this year's event! Thousands of locals and visitors from afar come to enjoy the sights, sounds and tastes of beautiful downtown Coos Bay and surrounding areas for this popular festival. [Book your accommodations](/lodging) soon so your group can enjoy the fun!
+The end of summer is approaching, but that means the Bay Area Fun Festival is happening very soon! Visitors from all over the region come out to celebrate with us and take in the sights, sounds and tastes of beautiful downtown Coos Bay and surrounding areas for this popular annual festival.
 
-![Bay Area Fun Festival Event Header](/img/bay-area-fun-fest-hder.jpg)
+The Bay Area Fun Festival is sponsored by the [Coos Bay Downtown Association](http://coosbaydowntown.org/) and takes place September 21-22, 2019. Enjoy fun activities including a parade, shopping, tasty food, a car cruise, Prefontaine Memorial Run, and[ live entertainment on the K-DOCK Entertainment Stage](https://bayareafunfestival.com/entertainment/).
 
-## Bay Area Fun Festival
+Book your accommodations soon so your group can enjoy the fun!
 
-<a href="http://bayareafunfestival.com/" target="_blank" rel="noopener noreferrer">The Bay Area Fun Festival</a> (a.k.a. BAFF) is September 15-16, 2018 and will feature the one-and-only <a href="https://cruzthecoos.com" target="_blank" rel="noopener noreferrer">Cruz the Coos</a> featuring nearly 500 vintage automobiles, the <a href="https://bayareafunfestival.com/prefontaine-run/" target="_blank" rel="noopener noreferrer">Prefontaine Memorial Run</a>, <a href="https://bayareafunfestival.com/entertainment/" target="_blank" rel="noopener noreferrer">K-DOCK Music Festival</a>, a parade and much more! Visitors will also enjoy a variety of vendors, arts and crafts and lots of different kinds of food along with a beer &amp; wine garden.
+## Featured Events
 
-<div class="clearfix margin-50px-top"></div>
+#### _Cruz the Coos_ Saturday, Sept 21, 2019 at 6:00 p.m.
 
-![Cruz the Coos Annual Event ](/img/cruz-coos-header.jpg)
+![](/img/cruz-coos-header.jpg)
 
-## Cruz the Coos
+Coos Bay-North Bend Rotary, The Mill Casino Hotel & RV Park, KDOCK (KDCQ) 92.9 FM and Bay Area Fun Festival are proud to present a weekend of fun at the [Annual Cruz the Coos and Show ‘n Shine](https://bayareafunfestival.com/cruz-the-coos/).
 
-The Coos Bay-North Bend Rotary Club will present the largest vintage car cruises and "Show 'n Shine" on the Oregon Coast Saturday, September 15th, 2018. Visit <a href="https://cruzthecoos.com/" target="_blank" rel="noopener noreferrer">cruzthecoos.com</a> for more details about this family-friendly event.
+The event features a Show ‘n Shine in the Mill Casino Hotel Parking Lot followed by the largest car cruise on the Oregon Coast through the streets of downtown Coos Bay. Bring a chair and join the K-DOCK Broadcast Crew at 4th and Central, downtown Coos Bay Saturday night at 6 p.m. for vintage cars and trucks restored to their former glory and some of the greatest music ever made. [www.cruzthecoos.com](https://cruzthecoos.com/)
 
-<div class="clearfix margin-50px-top"></div>
+#### _Bay Area Fun Festival Parade_ - Saturday, Sept 21, 2019 at 1:00 p.m.
 
-![Steve Prefontaine Annual Run](/img/steve-prefontaine-outdoor-mural.jpg)
+![](/img/bay-area-fun-fest-parade.jpg)
 
-## Prefontaine Run
+Celebrate Coos Bay’s rich history and the 2019 parade theme, “Our Great Outdoors”! The parade line up will start at 4th and Golden Avenue in Coos Bay and begins at 1:00 p.m. Arrive early to get a good spot! [www.bayareafunfestival.com/parade/](https://bayareafunfestival.com/parade/ "https://bayareafunfestival.com/parade/")
 
-The ever-popular <a href="http://www.prefontainerun.com/index.php" target="_blank" rel="noopener noreferrer">Prefontaine Memorial Run</a> follows the training route of Coos Bay native and running phenom, Steve Prefontaine and is happening Saturday, September 15th, 2018. After the run, runners and their guests are encouraged to view the Prefontaine Memorial Gallery at Coos Art Museum. This exhibit is a permanent collection of Steve’s awards and memorabilia, as well as numerous photographs highlighting his illustrious running career. The three-panel mural, pictured above, can be viewed on a building facing Hwy 101 between Anderson and Curtis! <a href="https://prefontainerun.com/run-info/index.php" target="_blank" rel="noopener noreferrer">Register Online for the Prefontaine Run</a>
+#### Prefontaine Run Saturday, Sept 21, 2019
 
-<a href="https://bayareafunfestival.com/2016-schedule/" target="_blank">Click here</a> to see the full schedule of 2018 BAFF events. See you in September!
+![Steve Prefontaine Annual Run](/img/steve-prefontaine-outdoor-mural.jpg)The ever-popular Prefontaine Memorial Run follows the training route of Coos Bay native and running phenom, Steve Prefontaine. After the run, runners and their guests are encouraged to view the Prefontaine Memorial Gallery at [Coos Art Museum](https://www.coosart.org/). This exhibit is a permanent collection of Steve’s awards and memorabilia, as well as numerous photographs highlighting his illustrious running career. The three-panel mural, pictured above, can be viewed on a building facing Hwy 101 between Anderson and Curtis! [Register Online for the Prefontaine Run. ](https://www.prefontainerun.com/run-information/application.html)
+
+[Click here](https://bayareafunfestival.com/2016-schedule/) to see the full schedule of events. See you in September!

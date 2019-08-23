@@ -1,33 +1,33 @@
 ---
 title: 8 Ways to Enjoy Spring Break on Oregon's Adventure Coast
-date: 2015-01-27T18:46:16.000Z
-description: >+
-  Spring Break will be here before you know it, why not plan a family getaway to
-  the Oregon Coast? The mild Pacific air brings so much to do and see for people
-  of all ages. Here are some fun Spring Break ideas and activities the whole
-  family can enjoy.
-
+date: 2015-01-27T18:46:16.000+00:00
+description: "Spring Break will be here before you know it, why not plan a family
+  getaway to the Oregon Coast? The mild Pacific air brings so much to do and see for
+  people of all ages. Here are some fun Spring Break ideas and activities the whole
+  family can enjoy.\n\n"
 tags:
-  - Beaches
-  - Charleston
-  - Coast
-  - Coos Bay
-  - North Bend
-  - Oregon
-  - Oregon Coast
-  - Oregon Dunes National Recreation Area
-  - "recreation\t —"
+- Beaches
+- Charleston
+- Coast
+- Coos Bay
+- North Bend
+- Oregon
+- Oregon Coast
+- Oregon Dunes National Recreation Area
+- "recreation\t —"
 categories:
-  - Beach
-  - Culture & Museums
-  - Dunes
-  - Eat & Drink
-  - Entertainment & Nightlife
-  - Fairs & Festivals
-  - Fishing
-  - Crabbing & Clamming
-  - Theaters
+- Beach
+- Culture & Museums
+- Dunes
+- Eat & Drink
+- Entertainment & Nightlife
+- Fairs & Festivals
+- Fishing
+- Crabbing & Clamming
+- Theaters
 image: ''
+draft: true
+
 ---
 Spring Break will be here before you know it, why not plan a family getaway to the Oregon Coast? The mild Pacific air brings so much to do and see for people of all ages. Here are some fun Spring Break ideas and activities the whole family can enjoy.
 
