@@ -26,6 +26,11 @@ date: '2019-02-10T00:00:00.000+00:00'
 
 **Come and enjoy the sights and sounds of the 2019 North Bend July Jubilee! Featuring live music, food, dancing, a parade, the July Jaunt, and an all car cruise! So much fun as we celebrate our town's 116th Birthday, North Bend Oregon USA!**
 
+### July Jubilee Court
+
+###### ![](/img/Jubilee Court 2019.jpg)  
+_Left to Right Back Row: Princess Isabella Jensen, Princess Lillian Collins, Princess Zoey Acker. Middle Row Left to Right: Princess Lila Keating, Princess Randee Cunningham. Front Row: Princess Alyah Ramirez_
+
 ### Schedule of Events:
 
 ### **Friday, July 19**
@@ -52,9 +57,9 @@ Benefits Clambake Music Festival
 Starting at Engles Furniture - 2079 Sherman Ave. Ending at Liberty Theatre - 2100 Sherman Ave. $10 donation for glass & program  
 Sponsored by L TOB and Liberty Theatre.
 
-\**7:00 pm -11:00 pm  
-North Bend High School Class Reunions at North Bend Lanes  
-\**1225 Virginia Ave.  
+**7:00 pm -11:00 pm  
+North Bend High School Class Reunions at North Bend Lanes**  
+1225 Virginia Ave.  
 NBHS Reunion Class of 1989 / Deck  
 NBHS Reunion Class of 1979@ Back Alley
 

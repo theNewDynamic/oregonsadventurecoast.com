@@ -1,7 +1,7 @@
 ---
 title: 41st Annual Oregon Coast Music Festival
-startdate: 2019-07-13
-enddate: 2019-07-27
+startdate: '2019-07-13'
+enddate: '2019-07-27'
 address:
   street: ''
   street2: ''
@@ -20,7 +20,7 @@ largeboxphoto: "/img/music-festival-large.jpg"
 mediumboxphoto: "/img/music-festival-medium.jpg"
 smallboxphoto: "/img/music-festival-small.jpg"
 photo_alt: ''
-date: 2019-02-10 21:57:25 +0000
+date: '2019-02-10T21:57:25.000+00:00'
 
 ---
 **Coos Bay is home to the longest running music festival on the Oregon Coast! Each year over 80 musicians travel from all over the United States and Canada to perform three classical concerts during Festival Week.**
@@ -29,7 +29,7 @@ Whether a novice or seasoned classical music fan, a very special treat awaits he
 
 #### **OCMA Orchestra Concerts**
 
-July 23rd - 7:30pm – [**Concert I**](http://www.oregoncoastmusic.org/concert-i/) **– “World Premiere Night” Runestad, Mozart, Stravinsky -** Marshfield High School Auditorium - $20/$25
+July 23rd - 7:30pm – [**Concert I**](http://www.oregoncoastmusic.org/concert-i/) **– “World Premiere Night” Runestad, Mozart, Stravinsky and _“World on Fire”_** (Commissioned piece to celebrate Maestro James Paul’s 28th year with the festival orchestra) **-** Marshfield High School Auditorium - $20/$25
 
 July 25th - 7:30pm – [**Pops Concert**](http://www.oregoncoastmusic.org/pops-concert/) **– “Youth Has No Age” Music from films and musicals -** Marshfield High School Auditorium - $20/$25
 
@@ -40,9 +40,15 @@ July 27th - 7:30pm – [**Concert II**](http://www.oregoncoastmusic.org/concert-
 
 July 13th - Noon – **OMCA Kick-off Concert - Bay Area Concert Band -** Mingus Park - Free
 
-July 17th - 7pm – **Pub Night at the Liberty** - Liberty Pub - $10
+July 16th - 7pm – **John Craigie** - Oregon Institute of Marine Biology’s Boathouse Auditorium - $20 (Tickets available at 7 Devils Brewery or the Festival website, advanced purchase recommended)
 
-July 20th - Noon – **Shore Acres Picnic and Concert** - $5 parking fee
+July 17th - 7pm – **Pub Night at the Liberty with Delta Bluesmen David Pinsky & Phil Newton** - Liberty Pub - $10
+
+July 18th - 7:30pm – **Sarah Shook and the Disarmers** - 7 Devils Public House - Free
+
+July 18th - 7:30pm – **River Whyless** - Front Street Provisioners - $20 [(for tickets)](https://www.7devilsbrewery.com/store/p16/river-whyless-tix.html)
+
+July 20th - Noon – **Shore Acres Picnic and Concert - Che’s Lounge the Band**  - $5 parking fee
 
 July 21st - 2-4pm – **Jazz at the Boathouse Concert and Reception - Aaron Johnson Trio** - OIMB Boathouse Auditorium - $40/$50
 
@@ -55,6 +61,8 @@ July 22nd - 7pm – **Tribute to Children's Musicals** - Dolphin Playhouse - $10
 July 23rd - 10am – **Youth Interpretive Workshop and Pops Rehearsal -** Marshfield High School Auditorium - Free with Registration
 
 July 24th - Noon – **Noon Lectures with Adam Stern** - Coos Bay Library - Free
+
+July 24th - 7:30pm – **Sarah Shook and the Disarmers** - 7 Devils Public House - Free
 
 July 26th - Noon – **Noon Lectures with Adam Stern** - Coos Bay Library - Free
 

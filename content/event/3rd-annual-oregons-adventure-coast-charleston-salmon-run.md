@@ -18,7 +18,7 @@ address:
 website: https://www.charlestonsalmonrun.com
 
 ---
-![2nd Annual Charleston Salmon Run on Oregon's Adventure Coast](/img/salmon-run-695x322.jpg)
+![](/img/salmon-run-hdr-695-x-322.jpg)
 
 **3rd Annual Oregon's Adventure Coast Charleston Salmon Run and Crab Walk** takes place October 5th on one of the most beautiful courses in Oregon.  All races begin and end in Charleston Oregon and follow amazing scenic routes along rugged sea cliffs and sandy beaches.
 
@@ -30,12 +30,14 @@ After the run, join the fun at the annual [Octoberfish](https://oregonsadventure
 
 ### Packet Pickup
 
+{{< columns number="2" >}}
 #### Friday, Oct 4, 2019
 
 _Noon to 8:00pm_  
 **7 Devils Brewing Company**  
 247 S 2nd Street  
 Coos Bay, OR 97420
+\++++
 
 #### Saturday, Oct 5, 2019
 
@@ -43,6 +45,7 @@ _6:00am to 7:00am_
 **Bayside Coffee**  
 63340 Boat Basin Road  
 Charleston, OR 97420
+{{< /columns >}}
 
 Packet Pick-up will take place at 7 Devils Brewing Co. on Friday and at Bayside Coffee conveniently located near the starting line on race day. Packet pick-up is available between noon and 8pm on Friday October 4th and between 6am and 7 am Saturday October 5th. Registration is available for the 10k on race day but only between 6am and 7am at Bayside Coffee.
 
@@ -56,3 +59,5 @@ Boat Basin Rd, Charleston, OR 97420
 > * Half Marathon - 9:30am\\
 > * 10K - 10:00am\\
 > * 1 Mile Walk - 10:30am
+
+![2nd Annual Charleston Salmon Run on Oregon's Adventure Coast](/img/salmon-run-695x322.jpg)

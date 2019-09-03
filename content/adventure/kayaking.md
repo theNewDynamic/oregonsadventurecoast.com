@@ -37,9 +37,9 @@ Here's a great video to give you some hints about Bastendorff Beach!
 
 ## Water Skiing
 
-Tenmile Lakes in Lakeside, just 15 miles north of Coos Bay, is a great place for waterskiing and fresh water recreation! No wetsuit required from June to mid-September. The best time for flat water is before 11am or in the evening, but you can find a private spot to play down one of the many wind-protected arms of the lakes any time of the day. Try wakeboarding, tubing, waterskiing, trick skiing, knee boarding, wake surfing, or any watersport you can do behind a boat! 
+Tenmile Lakes in Lakeside, just 15 miles north of Coos Bay, is a great place for waterskiing and fresh water recreation! No wetsuit required from June to mid-September. The best time for flat water is before 11am or in the evening, but you can find a private spot to play down one of the many wind-protected arms of the lakes any time of the day. Try wakeboarding, tubing, waterskiing, trick skiing, knee boarding, wake surfing, or any watersport you can do behind a boat!
 
-Tenmile Lakes is made up of two lakes (North and South) connected by a channel. You can launch your boat at the County Park on South Lake (parking fee required), beach your boat at the public sandy beach - Wulfy Beach - and play with the kids or soak up some sun (no fee required). Gas up your boat at and pick up boating supplies and snacks at Ringo’s Lakeside Marina on South Lake. Dock your boat at Osprey Point Pub & Pizza or the Lakeshore Lodge and enjoy a meal with a lake-front view. 
+Tenmile Lakes is made up of two lakes (North and South) connected by a channel. You can launch your boat at the County Park on South Lake (parking fee required), beach your boat at the public sandy beach - Wulfy Beach - and play with the kids or soak up some sun (no fee required). Gas up your boat at and pick up boating supplies and snacks at Ringo’s Lakeside Marina on South Lake. Dock your boat at Osprey Point Pub & Pizza or the Lakeshore Lodge and enjoy a meal with a lake-front view.
 
 <div class="margin-50px-top"></div>
 
@@ -47,4 +47,4 @@ Tenmile Lakes is made up of two lakes (North and South) connected by a channel. 
 
 ## Equipment Rental
 
-Don't have your own kayak, paddleboard or surfboard? You can rent one and get some sage advice from our friends at {{< link url="http://www.surfwaxers.com" >}}Waxer's Surf Shop{{< /link >}} in downtown Coos Bay.
+Don't have your own kayak, paddleboard or surfboard? You can rent one and get some sage advice from our friends at {{< link url="http://www.surfwaxers.com" >}}Waxer's Surf Shop{{< /link >}} in downtown Coos Bay; [Bahama Boards](https://bahamastyles.com/coos-bay-rentals/) in Coos Bay; and [South Coast Tours](https://www.facebook.com/southcoasttours/), renting on location at Sunset Bay State Park.

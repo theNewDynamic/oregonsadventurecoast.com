@@ -1,40 +1,39 @@
 ---
 title: Learn How to Win Free Tickets To the 2018 South Coast Clambake Jazz Festival!
-date: 2018-03-06T00:44:46.000Z
-description: >-
-  Do you love music? Do you love the Oregon Coast? Do you use Facebook?
-
-
-  If you answered yes to these three questions, we've got a contest just for
-  you! The annual South Coast Clambake Music Festival (formerly South Coast
-  Clambake Jazz Festival) will be here to rock and roll Oregon’s South Coast
-  this weekend, March 9th-11th, 2018 and we want to award one of our loyal and
-  wonderful Facebook followers with two passes to the 2018 South Coast Clambake
-  Music Festival good for Friday, March 9th (a $60.00 value)! 
+date: 2018-03-06T00:44:46.000+00:00
+description: "Do you love music? Do you love the Oregon Coast? Do you use Facebook?\n\nIf
+  you answered yes to these three questions, we've got a contest just for you! The
+  annual South Coast Clambake Music Festival (formerly South Coast Clambake Jazz Festival)
+  will be here to rock and roll Oregon’s South Coast this weekend, March 9th-11th,
+  2018 and we want to award one of our loyal and wonderful Facebook followers with
+  two passes to the 2018 South Coast Clambake Music Festival good for Friday, March
+  9th (a $60.00 value)! "
 tags:
-  - Beaches
-  - best western
-  - Charleston
-  - Coast
-  - Coos Bay
-  - Coos Bay-North Bend
-  - Dixieland Jazz Festival
-  - hotel reservations
-  - Jazz Festival
-  - March
-  - North Bend
-  - Oregon
-  - Oregon Coast
-  - recreation
-  - Red Lion Hotel
-  - Rock and Roll North Bend
-  - South Coast Clambake
-  - South Coast Clambake Jazz Festival
-  - The Mill Casino
-  - the Oregon Coast
+- Beaches
+- best western
+- Charleston
+- Coast
+- Coos Bay
+- Coos Bay-North Bend
+- Dixieland Jazz Festival
+- hotel reservations
+- Jazz Festival
+- March
+- North Bend
+- Oregon
+- Oregon Coast
+- recreation
+- Red Lion Hotel
+- Rock and Roll North Bend
+- South Coast Clambake
+- South Coast Clambake Jazz Festival
+- The Mill Casino
+- the Oregon Coast
 categories:
-  - Entertainment & Nightlife
-image: /img/03-05-18-south-coast-clambake-jazz-fest.jpg
+- Entertainment & Nightlife
+image: "/img/03-05-18-south-coast-clambake-jazz-fest.jpg"
+draft: true
+
 ---
 <pre><em>Image Courtesy of  <a href="https://www.facebook.com/clambakemusicfestival/photos/a.10155196148402566.1073741846.277800537565/10155196162772566/?type=3&amp;theater" target="_blank" rel="noopener noreferrer">South Coast Clambake Music Festival</a> on Facebook</em></pre>
 
