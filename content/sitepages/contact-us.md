@@ -26,7 +26,7 @@ Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor acti
 Coos Bay, OR 97420  
 (541) 269-0215
 
-[mailto:info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com)
+[info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com)
 
 <p> </p>
 
