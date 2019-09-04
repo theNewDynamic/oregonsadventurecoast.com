@@ -18,15 +18,15 @@ Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor acti
 
 [ {{< floatimage src="/img/request-guide-red-button.png" float="right" alt="Click Here to Request a Visitor Guide / Packet" size="undefined" >}} ](#contactform)
 
-#### Coos Bay – North Bend\\
+#### Coos Bay – North Bend
 
-#### Visitor & Convention Bureau\\
+#### Visitor & Convention Bureau
 
 50 Central Avenue  
 Coos Bay, OR 97420  
 (541) 269-0215
 
-[mailto:info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com)\\
+[info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com)
 
 <p> </p>
 
