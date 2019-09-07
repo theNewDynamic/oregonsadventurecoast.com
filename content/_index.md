@@ -1,10 +1,10 @@
 ---
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
-- title: Bay Area Fun Festival Sept 21 & 22
-  photo: "/img/farmers-market-home-slider.jpg"
-  title_mobile: Farmer's Market
-  photo_mobile: "/img/farmers-market-home-slider-mobile.jpeg"
+- title: Bay Area Fun Fest - Sept 21 & 22
+  photo: "/img/bay-area-fun-festival-hm-slider.jpg"
+  title_mobile: Bay Area Fun Fest
+  photo_mobile: "/img/bay-area-mobile-slider.jpg"
 - title: Being in the Moment
   photo: "/img/Shore-Acres-Couple-Flowers.jpg"
 - photo: "/img/shore-acres-slider.jpg"
