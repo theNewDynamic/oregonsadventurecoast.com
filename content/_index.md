@@ -5,8 +5,8 @@ slideshow:
   photo: "/img/bay-area-fun-festival-hm-slider.jpg"
   title_mobile: Bay Area Fun Fest
   photo_mobile: "/img/bay-area-mobile-slider.jpg"
-- title: Being in the Moment
-  photo: "/img/Shore-Acres-Couple-Flowers.jpg"
+- title: Charleston Salmon Run - Oct 5th
+  photo: "/img/Salmon-Run-Home-Slider.jpg"
 - photo: "/img/shore-acres-slider.jpg"
   title: Breathtaking Views
 - photo: "/img/seven-devils-interior-night.jpg"
