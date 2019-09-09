@@ -37,17 +37,17 @@ While you’re visiting, spend some time exploring the beaches and state parks a
 
 ## #4 LEARN & FOLLOW CRITICAL SAFETY GUIDELINES WHILE YOU’RE NEAR THE OCEAN
 
-Our quiet, peaceful, undeveloped beaches [https://oregonsadventurecoast.com/undeveloped-beaches/](https://oregonsadventurecoast.com/undeveloped-beaches/ "https://oregonsadventurecoast.com/undeveloped-beaches/") are ideal for training runs, long walks, hiking, photography, picnicking, and tide-pooling, but if you ignore these guidelines [https://oregonsadventurecoast.netlify.com/blog/eight-ways-to-stay-safe-on-the-beaches-along-the-oregon-coast/](https://oregonsadventurecoast.netlify.com/blog/eight-ways-to-stay-safe-on-the-beaches-along-the-oregon-coast/ "https://oregonsadventurecoast.netlify.com/blog/eight-ways-to-stay-safe-on-the-beaches-along-the-oregon-coast/") , what should be a beautiful day by the Pacific Ocean could suddenly become unsafe without warning.
+Our quiet, peaceful, [undeveloped beaches](/undeveloped-beaches) are ideal for training runs, long walks, hiking, photography, picnicking, and tide-pooling, but if you ignore [these guidelines](/blog/eight-ways-to-stay-safe-on-the-beaches-along-the-oregon-coast), what should be a beautiful day by the Pacific Ocean could suddenly become unsafe without warning.
 
 ## #5 GO FISHING, CLAMMING OR CRABBING
 
-Autumn is a lovely time of year to visit Oregon’s Adventure Coast and fishing, crabbing and clamming opportunities are in no short supply here! There are more than 30 lakes and rivers to choose from in Coos County alone, and anglers will find there is plenty of bay and ocean fishing. Click here [https://oregonsadventurecoast.netlify.com/fishing/](https://oregonsadventurecoast.netlify.com/fishing/ "https://oregonsadventurecoast.netlify.com/fishing/") for a list of resources that will be helpful in planning your trip. Be sure to visit one of our bait shops while in the area, they’re always willing to share pointers with visiting anglers. Learn more about crabbing & clamming on Oregon’s Adventure Coast [https://oregonsadventurecoast.netlify.com/crabbing-clamming/](https://oregonsadventurecoast.netlify.com/crabbing-clamming/ "https://oregonsadventurecoast.netlify.com/crabbing-clamming/")
+Autumn is a lovely time of year to visit Oregon’s Adventure Coast and fishing, crabbing and clamming opportunities are in no short supply here! There are more than 30 lakes and rivers to choose from in Coos County alone, and anglers will find there is plenty of bay and ocean fishing. [Click here](/fishing) for a list of resources that will be helpful in planning your trip. Be sure to visit one of our bait shops while in the area, they’re always willing to share pointers with visiting anglers. [Learn more about crabbing & clamming on Oregon’s Adventure Coast](/crabbing-clamming).
 
 ## #6 TRY YOUR LUCK IN ONE OF OUR CASINOS
 
 Did you know that our little corner of the Pacific Northwest is home to two of the area’s best casinos? Whether its slots, cards, or games, you’re sure to find round-the-clock adventure, fun, and (fingers crossed) millions right here.
 
-Our two casinos are located within a ten-minute drive of each other, so play your cards right and visit both. You won’t regret it. Learn more: [https://oregonsadventurecoast.netlify.com/blog/try-your-luck-on-oregon-s-adventure-coast/](https://oregonsadventurecoast.netlify.com/blog/try-your-luck-on-oregon-s-adventure-coast/ "https://oregonsadventurecoast.netlify.com/blog/try-your-luck-on-oregon-s-adventure-coast/")
+Our two casinos are located within a ten-minute drive of each other, so play your cards right and visit both. You won’t regret it. Learn more: [https://oregonsadventurecoast.com/blog/try-your-luck-on-oregon-s-adventure-coast/](https://oregonsadventurecoast.com/blog/try-your-luck-on-oregon-s-adventure-coast "https://oregonsadventurecoast.netlify.com/blog/try-your-luck-on-oregon-s-adventure-coast/")
 
 ## #7 VISIT AN ART AND/OR HISTORY MUSEUM
 
@@ -55,7 +55,7 @@ Spend some time browsing the museums, galleries, and other cultural gems in our 
 
 ## #8 LEARN SOMETHING NEW
 
-The 6,000-square-foot [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/), located on the campus of [UO’s Institute of Marine Biology](https://oimb.uoregon.edu/) features permanent exhibits including a Marine Ecosystem Gallery, an Underwater Oregon Gallery (where after just a few minutes exploring, you’re likely to see a multitude of marine life you may have never known existed) and an Oregon Fisheries Gallery (an open-air deck where visitors can see fishing vessels coming and going from the harbor). Visit t [oimb.uoregon.edu](https://oimb.uoregon.edu/) for more info.
+The 6,000-square-foot [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/), located on the campus of [UO’s Institute of Marine Biology](https://oimb.uoregon.edu/) features permanent exhibits including a Marine Ecosystem Gallery, an Underwater Oregon Gallery (where after just a few minutes exploring, you’re likely to see a multitude of marine life you may have never known existed) and an Oregon Fisheries Gallery (an open-air deck where visitors can see fishing vessels coming and going from the harbor). Visit [oimb.uoregon.edu](https://oimb.uoregon.edu/) for more info.
 
 We also recommend spending a day at the [South Slough National Estuarine Research Reserve Interpretive Center](https://www.oregon.gov/oprd/NATRES/pages/rs_faqcoastal.aspx#What_is_a_Research_Reserve_) learning about our local culture, history and natural resources. There are miles of beautiful hiking trails and waterways to explore in addition to classes/workshops for all ages.
 
@@ -73,4 +73,4 @@ North Bend’s quaint downtown offers shoppers a blend of gift, antique and clot
 
 [Download this walking map of Downtown Coos Bay & North Bend](/img/walking-map-cbnb.pdf).
 
-There is an [adventure for everyone](/adventure) on Oregon’s Adventure Coast. Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor activities, prime shopping, fine dining, special events, or an evening of entertainment, you will find here. For more information, please contact the [Coos Bay – North Bend Visitor & Convention Bureau](/contact). 
+There is an [adventure for everyone](/adventure) on Oregon’s Adventure Coast. Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor activities, prime shopping, fine dining, special events, or an evening of entertainment, you will find here. For more information, please contact the [Coos Bay – North Bend Visitor & Convention Bureau](/contact).
