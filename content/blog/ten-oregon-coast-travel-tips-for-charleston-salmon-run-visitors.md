@@ -29,7 +29,7 @@ There are a number of local restaurants dishing out the freshest seafood and cho
 
 If you’re in Charleston, grab some chowder at Chuck’s Seafood or High Tide Café. You can’t go wrong with the popular Fish ’n Chips at Miller’s At the Cove Sports Bar & Grill. The Wildflour Cafe in North Bend along with these newer locally-owned restaurants [https://www.oregonsadventurecoast.com/blog/2018-05-08-four-new-oregon-coast-restaurants-you-need-to-try/](https://www.oregonsadventurecoast.com/blog/2018-05-08-four-new-oregon-coast-restaurants-you-need-to-try/ "https://www.oregonsadventurecoast.com/blog/2018-05-08-four-new-oregon-coast-restaurants-you-need-to-try/") are getting rave reviews from locals and visitors alike. There are a number of establishments that have stood the test of time like Shark Bites in Coos Bay, Hilltop House Restaurant and Lounge, Fisherman’s Grotto, Blue Heron Bistro, [Fisherman’s](http://fishermensseafoodmarket.com/) [Seafood Market](http://fishermensseafoodmarket.com/), Captain’s Choice Family Fish House and many more. At the end of the day, grab a craft beverage at 7 Devils Brewing Co in Coos Bay.
 
-[Download our Local Restaurant Guide](https://oregonsadventurecoast.com/img/restaurant-brochure.pdf) to carry with you or visit [oregonsadventurecoast.com/dining](https://oregonsadventurecoast.com/dining/) to see all of our local restaurants.
+[Download our Local Restaurant Guide](https://app.forestry.io/sites/2lzmjp3bn6gdfg/body-media//img/restaurant-brochure-04-19.pdf) to carry with you or visit [oregonsadventurecoast.com/dining](https://oregonsadventurecoast.com/dining/) to see all of our local restaurants.
 
 ## #3 EXPLORE THE SIGHTS ON CAPE ARAGO HIGHWAY
 
