@@ -24,7 +24,7 @@ website: https://www.charlestonsalmonrun.com
 
 The Salmon Run includes a 26.2-mile Marathon, 13.1-mile Half Marathon, 10K run and the 1 mile Crab Walk.
 
-{{< floatimage src="/img/qr-code-salmon-run.png" float="right" alt="Register for the Charleston Salmon Run by Scanning this QR Code" size="100" >}}
+{{< floatimage src="/img/qr-code-salmon-run.png" float="right" alt="Register for the Charleston Salmon Run by Scanning this QR Code" size="60" >}}
 
 ### [Registration OPEN SCAN the QR CODE or Click This Link!](https://endurancecui.active.com/new/events/59229051/select-race?_p=5139225389165294&e4q=f1854eb8-6eb2-431e-8e5d-2e8010ddaf7f&e4p=d8a9b909-9b9a-47e1-b9d5-b89d46916554&e4ts=1566414896&e4c=active&e4e=snawe00000000&e4rt=Safetynet&e4h=a64c2a1cb66cf0969dbfe13d35027597)
 
