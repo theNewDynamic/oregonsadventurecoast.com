@@ -1,7 +1,7 @@
 ---
 title: Fishing
 url: "/fishing"
-photo: "/img/fishing-sub-header.jpg"
+photo: "/img/fishing-page-sub-header.jpg"
 seo:
   description: The Oregon Coast is a great place for dozens of outdoor things to do!
     Plan your next fishing trip with fish for every season & prime spots. Come by
