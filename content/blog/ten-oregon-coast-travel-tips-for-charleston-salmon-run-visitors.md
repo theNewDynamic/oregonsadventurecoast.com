@@ -71,6 +71,6 @@ While you’re here, shop for treasures in the eclectic retail stores in the Coo
 
 North Bend’s quaint downtown offers shoppers a blend of gift, antique and clothing stores to choose from, including, Painted Zebra, Petal to the Metal, Books by the Bay, Fat Cat Antiques, Mossy Rose, and many others. Other shopping options in North Bend include the Pony Village Mall, The Myrtlewood Factory, and Ko-Kwel Gifts at The Mill Casino.
 
-Download this walking map of Downtown Coos Bay & North Bend. [https://oregonsadventurecoast.netlify.com/img/walking-map-cbnb.pdf](https://oregonsadventurecoast.netlify.com/img/walking-map-cbnb.pdf "https://oregonsadventurecoast.netlify.com/img/walking-map-cbnb.pdf")
+[Download this walking map of Downtown Coos Bay & North Bend](/img/walking-map-cbnb.pdf).
 
-There is an adventure for everyone [https://oregonsadventurecoast.netlify.com/adventures/](https://oregonsadventurecoast.netlify.com/adventures/ "https://oregonsadventurecoast.netlify.com/adventures/") on Oregon’s Adventure Coast. Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor activities, prime shopping, fine dining, special events, or an evening of entertainment, you will find here. For more information, please contact the [Coos Bay – North Bend Visitor & Convention Bureau](/contact). 
+There is an [adventure for everyone](/adventure) on Oregon’s Adventure Coast. Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor activities, prime shopping, fine dining, special events, or an evening of entertainment, you will find here. For more information, please contact the [Coos Bay – North Bend Visitor & Convention Bureau](/contact). 
