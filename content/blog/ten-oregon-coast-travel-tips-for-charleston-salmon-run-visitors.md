@@ -1,6 +1,6 @@
 ---
 title: Ten Oregon Coast Travel Tips for Charleston Salmon Run Visitors
-date: 2019-09-09T07:00:00+00:00
+date: 2019-09-09T16:00:00+00:00
 description: Oregon’s South Coast is a runner’s haven. Not only is this the hometown
   of one of our country’s greatest running icons, the late Steve Prefontaine, but
   the region is also filled with natural running trails, temperate weather and coastal
