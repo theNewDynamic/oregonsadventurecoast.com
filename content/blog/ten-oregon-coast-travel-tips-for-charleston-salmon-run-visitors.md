@@ -8,7 +8,6 @@ description: Oregon’s South Coast is a runner’s haven. Not only is this the 
 image: "/img/charleston-salmon-run-tips-blog-hdr-695x322.jpg"
 tags: []
 categories: []
-draft: true
 
 ---
 Oregon’s South Coast is a runner’s haven. Not only is this the hometown of one of our country’s greatest running icons, the late [Steve Prefontaine](/steve-prefontaine-story), but the region is also filled with natural running trails, temperate weather and coastal beauty that can’t be found anywhere else in the country.
