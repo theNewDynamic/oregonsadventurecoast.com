@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ with site.GetPage "/sitepages/404" }}
+  {{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+  <div class="g-wrap clearfix">
+      <div class="m-sitepage">
+          <h1>{{ .Title }}</h1>
+
+          <div class="introtext">
+              {{ .Content }}
+          </div>
+          
+      </div>
+  </div>
+
+  {{ end }}
+{{ end }}
