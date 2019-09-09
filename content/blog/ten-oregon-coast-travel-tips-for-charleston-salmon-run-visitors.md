@@ -11,7 +11,7 @@ categories: []
 draft: true
 
 ---
-Oregon’s South Coast is a runner’s haven. Not only is this the hometown of one of our country’s greatest running icons, the late [Steve Prefontaine](/about/prefontaine), but the region is also filled with natural running trails, temperate weather and coastal beauty that can’t be found anywhere else in the country.
+Oregon’s South Coast is a runner’s haven. Not only is this the hometown of one of our country’s greatest running icons, the late [Steve Prefontaine](/steve-prefontaine-story), but the region is also filled with natural running trails, temperate weather and coastal beauty that can’t be found anywhere else in the country.
 
 Every September, runners from all over the world travel here to compete in the [Prefontaine Memorial Run](http://prefontainerun.com/), a challenging 10K road race across one of Steve Prefontaine’s training courses here in Coos Bay. The 40th Annual Prefontaine Memorial Race, part of the Bay Area Fun Festival, is coming up on September 21, 2019.
 
