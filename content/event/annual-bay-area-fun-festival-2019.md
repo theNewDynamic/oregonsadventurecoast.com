@@ -1,5 +1,5 @@
 ---
-title: Bay Area Fun Festival 2019
+title: Annual Bay Area Fun Festival 2019
 photo: "/img/events-runners-header.jpg"
 largeboxphoto: "/img/bay-area-fun-fest-large.jpg"
 mediumboxphoto: "/img/bay-area-fun-fest-medium.jpg"
