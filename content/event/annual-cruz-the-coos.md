@@ -22,6 +22,6 @@ website: https://cruzthecoos.com/
 ---
 {{< floatimage src="/img/cruz-the-coos-large.jpg" float="none" alt="32nd Annual Cruz the Coos" size="68" >}}
 
-This event, spanning decades on Oregon’s Adventure Coast, is one of the longest-running and largest classic car cruises on the Oregon Coast featuring hundreds of rare and vintage automobiles. This family-friendly event include a Show ‘n Shine at The Mill Casino Hotel & RV Park and its marquee event, the annual “cruise” through the streets of downtown Coos Bay on Saturday. 
+This event, spanning decades on Oregon’s Adventure Coast, is one of the longest-running and largest classic car cruises on the Oregon Coast featuring hundreds of rare and vintage automobiles. This family-friendly event include a Show ‘n Shine at The Mill Casino Hotel & RV Park and its marquee event, the annual “cruise” through the streets of downtown Coos Bay on Saturday . 
 
 This event is part of the annual Bay Area Fun Festival!
