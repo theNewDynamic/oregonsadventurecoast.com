@@ -28,6 +28,8 @@ This event is part of the annual Bay Area Fun Festival!
 
 #### Here are the other exciting events happening this weekend!
 
+***
+
 {{< columns number="2" >}}
 
 [![Annual Bay Area Fun Festival](/img/bay-area-fun-festival-column.jpg)](/event/annual-bay-area-fun-festival-2019/)
