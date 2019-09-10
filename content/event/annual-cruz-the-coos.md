@@ -30,7 +30,7 @@ This event is part of the annual Bay Area Fun Festival!
 
 {{< columns number="2" >}}
 
-[![Annual Cruz the Coos](/img/cruz-the-coos-column.jpg)](/event/annual-cruz-the-coos/)
+[![Annual Bay Area Fun Festival](/img/bay-area-fun-festival-column.jpg)](/event/annual-bay-area-fun-festival-2019/)
 
 \++++
 
