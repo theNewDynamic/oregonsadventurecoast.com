@@ -33,8 +33,12 @@ The K-DOCK RockFest features a full weekend of live local musicians including T
 
 Visitors will also enjoy a variety of vendors, arts and crafts and lots of different kinds of food along with a beer & wine garden.
 
-For vendor information please contact (541) 267-5008 or (541) 267-0749.{{< columns number="2" >}}
-First column text here
+For vendor information please contact (541) 267-5008 or (541) 267-0749.
+
+[![Annual Cruz the Coos](/img/cruz-the-coos-column.jpg)](/event/annual-cruz-the-coos/)
+
+{{< columns number="2" >}}
+
 \++++
-Second column text here
+![Annual Prefontaine Memorial Run](/img/prefontaine-run-column.jpg)
 {{< /columns >}}
