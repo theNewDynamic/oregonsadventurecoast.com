@@ -5,8 +5,8 @@ largeboxphoto: "/img/bay-area-fun-fest-large.jpg"
 mediumboxphoto: "/img/bay-area-fun-fest-medium.jpg"
 smallboxphoto: "/img/bay-area-fun-fest-small.jpg"
 desktoptitle: Bay Area Fun Festival 2019
-mobiletitle: Bay Area Festival
-hovertitle: Bay Fun Fest
+mobiletitle: Bay Area Fun Festival
+hovertitle: Annual Bay Fun Fun Festival
 hoverdescription: Famous Cruz the Coos vintage autos, Prefontaine Memorial Run, K-DOCK
   RockFest & Parade.
 startdate: '2019-09-21'
@@ -33,4 +33,8 @@ The K-DOCK RockFest features a full weekend of live local musicians including T
 
 Visitors will also enjoy a variety of vendors, arts and crafts and lots of different kinds of food along with a beer & wine garden.
 
-For vendor information please contact (541) 267-5008 or (541) 267-0749.
+For vendor information please contact (541) 267-5008 or (541) 267-0749.{{< columns number="2" >}}
+First column text here
+\++++
+Second column text here
+{{< /columns >}}
