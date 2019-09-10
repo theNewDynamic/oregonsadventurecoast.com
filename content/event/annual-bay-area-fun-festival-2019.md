@@ -35,7 +35,7 @@ Visitors will also enjoy a variety of vendors, arts and crafts and lots of diffe
 
 For vendor information please contact (541) 267-5008 or (541) 267-0749.
 
-## Here are the other exciting events happening this weekend!
+#### Here are the other exciting events happening this weekend!
 
 {{< columns number="2" >}}
 
