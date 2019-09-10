@@ -35,10 +35,12 @@ Visitors will also enjoy a variety of vendors, arts and crafts and lots of diffe
 
 For vendor information please contact (541) 267-5008 or (541) 267-0749.
 
-[![Annual Cruz the Coos](/img/cruz-the-coos-column.jpg)](/event/annual-cruz-the-coos/)
-
 {{< columns number="2" >}}
 
+[![Annual Cruz the Coos](/img/cruz-the-coos-column.jpg)](/event/annual-cruz-the-coos/)
+
 \++++
-![Annual Prefontaine Memorial Run](/img/prefontaine-run-column.jpg)
+
+[![Annual Prefontaine Memorial Run](/img/prefontaine-run-column.jpg)](/event/annual-prefontaine-memorial-run/)
+
 {{< /columns >}}
