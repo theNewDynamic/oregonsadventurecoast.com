@@ -35,6 +35,8 @@ Visitors will also enjoy a variety of vendors, arts and crafts and lots of diffe
 
 For vendor information please contact (541) 267-5008 or (541) 267-0749.
 
+## Here are the other exciting events happening this weekend!
+
 {{< columns number="2" >}}
 
 [![Annual Cruz the Coos](/img/cruz-the-coos-column.jpg)](/event/annual-cruz-the-coos/)
