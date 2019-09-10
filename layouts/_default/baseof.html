@@ -6,6 +6,11 @@
     <div id="bd">{{ block "main" . }}{{ end }}</div>
     {{ partial "footer" . }}
     {{ block "footerJs" . }}{{ end }}
+    <script
+      type="text/javascript"
+      async defer
+      src="//assets.pinterest.com/js/pinit.js"
+  ></script>
  	{{ partial "googletag" (dict "where" "bottom") }}
   </body>
 </html>
