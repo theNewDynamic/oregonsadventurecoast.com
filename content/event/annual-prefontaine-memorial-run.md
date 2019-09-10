@@ -20,8 +20,21 @@ website: http://www.prefontainerun.com
 ---
 {{< floatimage src="/img/prefontaine-run.large.jpg" float="none" alt="Prefontaine Runners" size="68" >}}
 
-A rolling and challenging course, this 10K road race honors one of America’s greatest distance runners, Steve Prefontaine. Event includes the 10K run and a 2M walk. Hilly, out and back. 
+A rolling and challenging course, this 10K road race honors one of America’s greatest distance runners, Steve Prefontaine. Event includes the 10K run and a 2M walk. Hilly, out and back.
 
 Part of the annual Bay Area Fun Fest, September 20-22, 2019
 
 [Registration available online](http://www.prefontainerun.com/).
+
+#### Here are the other exciting events happening this weekend!
+
+{{< columns number="2" >}}
+
+[![Annual Bay Area Fun Festival](/img/bay-area-fun-festival-column.jpg)](/event/annual-bay-area-fun-festival-2019/)
+
+\++++
+
+[![Annual Cruz the Coos](/img/cruz-the-coos-column.jpg)](/event/annual-cruz-the-coos/)
+
+{{< /columns >}}
+
