@@ -1,5 +1,5 @@
 ---
-title: 33rd Annual Cruz The Coos
+title: Annual Cruz The Coos
 photo: "/img/events-runners-header.jpg"
 largeboxphoto: "/img/cruz-the-coos-large.jpg"
 mediumboxphoto: "/img/cruz-the-coos-medium.jpg"
