@@ -1,5 +1,5 @@
 ---
-title: 40th Annual Prefontaine Memorial Run
+title: Annual Prefontaine Memorial Run
 photo: "/img/events-runners-header.jpg"
 largeboxphoto: "/img/prefontaine-run.large.jpg"
 mediumboxphoto: "/img/prefontaine-run-medium.jpg"
