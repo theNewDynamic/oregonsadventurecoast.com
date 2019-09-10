@@ -18,7 +18,6 @@ address:
 website: http://www.prefontainerun.com
 
 ---
-
 {{< floatimage src="/img/prefontaine-run.large.jpg" float="none" alt="Prefontaine Runners" size="68" >}}
 
 A rolling and challenging course, this 10K road race honors one of America’s greatest distance runners, Steve Prefontaine. Event includes the 10K run and a 2M walk. Hilly, out and back.
