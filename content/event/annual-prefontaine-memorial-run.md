@@ -28,6 +28,8 @@ Part of the annual Bay Area Fun Fest, September 20-22, 2019
 
 #### Here are the other exciting events happening this weekend!
 
+***
+
 {{< columns number="2" >}}
 
 [![Annual Bay Area Fun Festival](/img/bay-area-fun-festival-column.jpg)](/event/annual-bay-area-fun-festival-2019/)
@@ -37,4 +39,3 @@ Part of the annual Bay Area Fun Fest, September 20-22, 2019
 [![Annual Cruz the Coos](/img/cruz-the-coos-column.jpg)](/event/annual-cruz-the-coos/)
 
 {{< /columns >}}
-
