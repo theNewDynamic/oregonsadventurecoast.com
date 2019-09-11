@@ -22,7 +22,7 @@ website: http://www.prefontainerun.com
 
 A rolling and challenging course, this 10K road race honors one of America’s greatest distance runners, Steve Prefontaine. Event includes the 10K run and a 2M walk. Hilly, out and back.
 
-Part of the annual Bay Area Fun Fest, September 20-22, 2019
+Part of the annual Bay Area Fun Fest, September 20-22, 2019.
 
 [Registration available online](http://www.prefontainerun.com/).
 
