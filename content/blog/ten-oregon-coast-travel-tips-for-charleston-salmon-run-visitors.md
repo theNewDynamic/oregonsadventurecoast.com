@@ -18,6 +18,8 @@ The race featured in this post, however, is the 3rd Annual Oregon's Adventure Co
 
 After the run, join the fun at the annual [Octoberfish](/event/octoberfish), the official after party of the Oregon's Adventure Coast Charleston Salmon Run! But don’t rush off once the party is over! Stick around and experience more of what Oregon’s Adventure Coast has to offer! Here are some tips to help you enjoy the very best of Coos Bay, North Bend and Charleston, Oregon during your visit this fall.
 
+![](/img/octoberfish-event-medium.jpg)
+
 ## # 1 PACK LAYERS
 
 Layered clothing allows you to adjust for changes in temperature accordingly. While our area is temperate year-round, there are daily fluctuations. Be sure to check the local, extended forecast before you go. We encourage you to bring hiking boots if you plan to explore. A light, waterproof jacket and sweaters help with the evening breezes and depending on the season, a combination of shorts and long pants will give you some options for daytime adventures.
