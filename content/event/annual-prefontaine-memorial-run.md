@@ -26,6 +26,8 @@ Part of the annual Bay Area Fun Fest, September 20-22, 2019.
 
 [Registration available online](http://www.prefontainerun.com/).
 
+Free admission to Coos Art Museum
+
 #### Here are the other exciting events happening this weekend!
 
 ***
