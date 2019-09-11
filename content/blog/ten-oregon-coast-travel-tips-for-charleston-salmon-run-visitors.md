@@ -1,6 +1,6 @@
 ---
 title: Ten Oregon Coast Travel Tips for Charleston Salmon Run Visitors
-date: 2019-09-09T16:00:00+00:00
+date: 2019-09-09T16:00:00.000+00:00
 description: Oregon’s South Coast is a runner’s haven. Not only is this the hometown
   of one of our country’s greatest running icons, the late Steve Prefontaine, but
   the region is also filled with natural running trails, temperate weather and coastal
@@ -26,7 +26,7 @@ Layered clothing allows you to adjust for changes in temperature accordingly. Wh
 
 There are a number of local restaurants dishing out the freshest seafood and chowder you could possibly hope for! Though there are too many to mention in one post, here are a few ideas to whet your appetite.
 
-If you’re in Charleston, grab some chowder at Chuck’s Seafood or High Tide Café. You can’t go wrong with the popular Fish ’n Chips at Miller’s At the Cove Sports Bar & Grill. The Wildflour Cafe in North Bend along with these newer locally-owned restaurants [https://www.oregonsadventurecoast.com/blog/2018-05-08-four-new-oregon-coast-restaurants-you-need-to-try/](https://www.oregonsadventurecoast.com/blog/2018-05-08-four-new-oregon-coast-restaurants-you-need-to-try/ "https://www.oregonsadventurecoast.com/blog/2018-05-08-four-new-oregon-coast-restaurants-you-need-to-try/") are getting rave reviews from locals and visitors alike. There are a number of establishments that have stood the test of time like Shark Bites in Coos Bay, Hilltop House Restaurant and Lounge, Fisherman’s Grotto, Blue Heron Bistro, [Fisherman’s](http://fishermensseafoodmarket.com/) [Seafood Market](http://fishermensseafoodmarket.com/), Captain’s Choice Family Fish House and many more. At the end of the day, grab a craft beverage at 7 Devils Brewing Co in Coos Bay.
+If you’re in Charleston, grab some chowder at Chuck’s Seafood or High Tide Café. You can’t go wrong with the popular Fish ’n Chips at Miller’s At the Cove Sports Bar & Grill. The Wildflour Cafe in North Bend along with these newer [locally-owned restaurants ](https://www.oregonsadventurecoast.com/blog/2018-05-08-four-new-oregon-coast-restaurants-you-need-to-try/)are getting rave reviews from locals and visitors alike. There are a number of establishments that have stood the test of time like Shark Bites in Coos Bay, Hilltop House Restaurant and Lounge, Fisherman’s Grotto, Blue Heron Bistro, [Fisherman’s](http://fishermensseafoodmarket.com/) [Seafood Market](http://fishermensseafoodmarket.com/), Captain’s Choice Family Fish House and many more. At the end of the day, grab a craft beverage at 7 Devils Brewing Co in Coos Bay.
 
 [Download our Local Restaurant Guide](https://app.forestry.io/sites/2lzmjp3bn6gdfg/body-media//img/restaurant-brochure-04-19.pdf) to carry with you or visit [oregonsadventurecoast.com/dining](https://oregonsadventurecoast.com/dining/) to see all of our local restaurants.
 
@@ -46,11 +46,11 @@ Autumn is a lovely time of year to visit Oregon’s Adventure Coast and fishing,
 
 Did you know that our little corner of the Pacific Northwest is home to two of the area’s best casinos? Whether its slots, cards, or games, you’re sure to find round-the-clock adventure, fun, and (fingers crossed) millions right here.
 
-Our two casinos are located within a ten-minute drive of each other, so play your cards right and visit both. You won’t regret it. Learn more: [https://oregonsadventurecoast.com/blog/try-your-luck-on-oregon-s-adventure-coast/](https://oregonsadventurecoast.com/blog/try-your-luck-on-oregon-s-adventure-coast "https://oregonsadventurecoast.netlify.com/blog/try-your-luck-on-oregon-s-adventure-coast/")
+Our two casinos are located within a ten-minute drive of each other, so play your cards right and visit both.  [Learn more.]()
 
 ## #7 VISIT AN ART AND/OR HISTORY MUSEUM
 
-Spend some time browsing the museums, galleries, and other cultural gems in our area like the [Coos Art Museum](http://www.coosart.org/) where runners can see the rare personal items of champion runner Stever Prefontaine, the cornerstone of visual arts on Oregon’s Southern Coast and the [Coos History Museum](https://cooshistory.org/), Oregon’s oldest continuously operated historical society boasting more than 250,000 historic photographs. [Click here](https://oregonsadventurecoast.com/art-history-culture/) to see more wonderful additions to our network of museums and galleries.
+Spend some time browsing the museums, galleries, and other cultural gems in our area like the [Coos Art Museum](http://www.coosart.org/) where runners can see the rare personal items of champion runner Steve Prefontaine, the cornerstone of visual arts on Oregon’s Southern Coast and the [Coos History Museum](https://cooshistory.org/), Oregon’s oldest continuously operated historical society boasting more than 250,000 historic photographs. [Click here](https://oregonsadventurecoast.com/art-history-culture/) to see more wonderful additions to our network of museums and galleries.
 
 ## #8 LEARN SOMETHING NEW
 
