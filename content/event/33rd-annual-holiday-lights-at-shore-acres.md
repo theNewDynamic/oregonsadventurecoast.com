@@ -29,11 +29,11 @@ Famous for its beautiful 7 acre botanical gardens and Japanese lily pond, Share 
 This festive annual display debuts on Thanksgiving Day (Thursday, November 28th) and will light up Shore Acres from 4 p.m.-9:30 p.m. each night (including Dec 24th & 25th) thru December 31st.
 
 {{< youtube "WEXAadGTff8" >}}
-<br><br>
+<br>
 
 ## Tips to make your visit more enjoyable
 
-<br><br>
+<br>
 {{< columns number="2" >}}
 
 #### Viewing Tips
