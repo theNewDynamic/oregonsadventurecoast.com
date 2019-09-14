@@ -67,6 +67,8 @@ Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or
 
 {{< /columns >}}
 
+![Shore Acres Holiday Lights - Charleston, Oregon](/img/Shore-Acres-Holiday-Lights-Collage.jpg)
+
 ## **Here are some other things to see and do while in Charleston, Coos Bay & North Bend!**
 
 In **Charleston**, stop in at the [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/) and discover the marine life and coastal ecosystem just off Oregon's coast. Take a stroll along [Bastendorff Beach](https://oregonsadventurecoast.com/blog/2017-08-29-spotlight-on-bastendorff-beach/). You might even see a surfer taking on the waves. And if you have more time this visit, take a [fishing charter](https://oregonsadventurecoast.com/tour-guides-and-charters/) out of the Charleston Marina.
