@@ -11,7 +11,7 @@ seo:
 draft: true
 
 ---
-![The Best Girlfriends Getaway on the Oregon Coast - Oregon's Adventure Coast](/img/girlfriends-getaway-header-695x322.jpg)
+![Girlfriends Getaway on the Oregon Coast - Turbo Charged, Zen Inspired](/img/girlfriends-getaway-hdr-695x322.jpg)
 
 ## The Best Girlfriends Getaway on the Oregon Coast!
 
