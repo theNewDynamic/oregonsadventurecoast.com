@@ -32,6 +32,24 @@ This festive annual display debuts on Thanksgiving Day (Thursday, November 28th)
 
 ## Here are some tips from Shore Acres to make your visit more enjoyable:
 
+{{< columns number="2" >}} 
+
+#### Viewing Tips
+
+**Fridays and Saturdays are the busiest.**  
+_(Waiting line of cars likely, especially on a dry night)_
+
+**Traffic is heavy between 6:00pm-8:00pm**
+
+**Sundays through Thursdays are less busy.**  
+**_Bonus_**: Park rangers will randomly select one vehicle coming by the booth after 3pm each Sunday through Thursday to win an OPRD-branded gift or an annual parking pass!
+
+**There is less traffic on rainy nights and the lights are beautiful in the rain!**
+
+\++++
+
+#### Other Tips
+
 **$5 parking fee** - **_Cash or Check Only_**   
 Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or current Campground Receipt.
 
@@ -39,15 +57,7 @@ Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or
 
 **Wheelchairs** - the park has a few wheelchairs available to those who may need them.
 
-**Viewing Tips:**  
-**Fridays and Saturdays are the busiest.**  
-_(waiting line of cars likely, especially on a dry night)_  
-**Traffic is heavy between 6:00pm-8:00pm**
-
-**Sundays through Thursdays are less busy.**  
-**_Bonus_** - Park rangers will randomly select one vehicle coming by the booth after 3pm each Sunday through Thursday to win an OPRD-branded gift or an annual parking pass!
-
-**There is Less Traffic on rainy nights and the lights are beautiful in the rain!**
+{{< /columns >}}
 
 **_Arrive early to see the ocean waves, the park, and the lights' sparkling transition from daylight to dark!_**
 
