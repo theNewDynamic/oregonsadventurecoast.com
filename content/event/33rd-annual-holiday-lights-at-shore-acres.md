@@ -29,10 +29,12 @@ Famous for its beautiful 7 acre botanical gardens and Japanese lily pond, Share 
 This festive annual display debuts on Thanksgiving Day (Thursday, November 28th) and will light up Shore Acres from 4 p.m.-9:30 p.m. each night (including Dec 24th & 25th) thru December 31st.
 
 {{< youtube "WEXAadGTff8" >}}
+<br><br>
 
 ## Tips to make your visit more enjoyable
 
-{{< columns number="2" >}} 
+<br><br>
+{{< columns number="2" >}}
 
 #### Viewing Tips
 
@@ -54,7 +56,7 @@ _(Waiting line of cars likely, especially on a dry night)_
 
 ***
 
-**$5 parking fee** - **_Cash or Check Only_**   
+**$5 parking fee** - **_Cash or Check Only_**  
 Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or current Campground Receipt.
 
 **Animals** - Dogs and other animals are not allowed outside vehicles at Shore Acres. _Exception: Service Animals_
