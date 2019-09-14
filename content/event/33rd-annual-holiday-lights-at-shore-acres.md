@@ -31,7 +31,7 @@ This festive annual display debuts on Thanksgiving Day (Thursday, November 28th)
 {{< youtube "WEXAadGTff8" >}}
 <br>
 
-## Tips to make your visit more enjoyable
+## Tips to make your Shore Acres visit more enjoyable
 
 <br>
 {{< columns number="2" >}}
