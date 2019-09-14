@@ -36,6 +36,8 @@ This festive annual display debuts on Thanksgiving Day (Thursday, November 28th)
 
 #### Viewing Tips
 
+***
+
 **Fridays and Saturdays are the busiest.**  
 _(Waiting line of cars likely, especially on a dry night)_
 
@@ -49,6 +51,8 @@ _(Waiting line of cars likely, especially on a dry night)_
 \++++
 
 #### Other Tips
+
+***
 
 **$5 parking fee** - **_Cash or Check Only_**   
 Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or current Campground Receipt.
