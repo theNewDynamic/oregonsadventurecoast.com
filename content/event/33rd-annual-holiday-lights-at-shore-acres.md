@@ -30,8 +30,6 @@ This festive annual display debuts on Thanksgiving Day (Thursday, November 28th)
 
 {{< youtube "WEXAadGTff8" >}}
 
-<iframe width="695" height="390" src="https://www.youtube.com/embed/WEXAadGTff8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Here are some tips from Shore Acres to make your visit more enjoyable:
 
 **$5 parking fee** - **_Cash or Check Only_**   
