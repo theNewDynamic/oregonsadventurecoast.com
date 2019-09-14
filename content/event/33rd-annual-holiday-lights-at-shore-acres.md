@@ -30,7 +30,7 @@ This festive annual display debuts on Thanksgiving Day (Thursday, November 28th)
 
 {{< youtube "WEXAadGTff8" >}}
 
-## Here are some tips from Shore Acres to make your visit more enjoyable:
+## Tips to make your visit more enjoyable
 
 {{< columns number="2" >}} 
 
@@ -57,9 +57,9 @@ Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or
 
 **Wheelchairs** - the park has a few wheelchairs available to those who may need them.
 
-{{< /columns >}}
+**Arrive Early -**  See the ocean waves, the park, and the lights' sparkling transition from daylight to dark!
 
-**_Arrive early to see the ocean waves, the park, and the lights' sparkling transition from daylight to dark!_**
+{{< /columns >}}
 
 ## **Here are some other things to see and do while in Charleston, Coos Bay & North Bend!**
 
