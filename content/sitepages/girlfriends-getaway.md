@@ -8,7 +8,6 @@ seo:
   title: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
 ![Girlfriends Getaway on the Oregon Coast - Turbo Charged, Zen Inspired](/img/girlfriends-getaway-hdr-695x322.jpg)
