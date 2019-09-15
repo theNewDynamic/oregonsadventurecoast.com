@@ -10,7 +10,7 @@ seo:
   title: Oregon Coast Trip Ideas - Things to Do | Contact Oregon's Adventure Coast
 
 ---
-Thank you for visiting our site! If you need help finding something wonderful to do or just want to find out more about the area, feel free to contact Oregon’s Adventure Coast.
+Thank you for visiting our site! If you need help finding something wonderful to do or just want to find out more about the area, feel free to contact Oregon’s Adventure Coast today.
 
 ## Find Outdoor Activities, Events, Dining, & More on the Oregon Coast
 
