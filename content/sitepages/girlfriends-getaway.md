@@ -14,12 +14,10 @@ seo:
 
 ## The Best Girlfriends Getaway on the Oregon Coast!
 
-Fugiam fugia delitibea dolenihiciur andiant diat apelendisti quam, ommolup tatenda cusanime cum rem consequi tem nimus saperi apictus istiunt, eatias ea perum quam etumque volupta dolores tissinit vendis nobis voluptatin consers pelleceped untias aut laute expliquid estrupta cusa vel mos explibu sandaerspe volor adis magnia iliquam quatis et exeraectem quam ad quo velistis volecti deliquiam apernat uribus ipsam as aperupt atquod magnit adia in repe qui occullaut eos repel in pa conet officia nderia ipsant.
+When you're planning your next getaway with your girlfriends, come to Oregon's Adventure Coast for a turbo charged and zen inspired vacation _(and everything in between!)_. We have shopping, great restaurants, casino-style gaming, and adventures you've only dreamed of. 
 
 ![The best place for a girlfriends getaway on the Oregon Coast](/img/GirlfriendsPage-Triptik.jpg)
 
-Udaecta in rerspis as volupta vel ium qui sanderum vellori beraepudae. Et vent dundis rest ullia voluptaspid quasitae consequam que consequi iumquo tem aut ut volo officiliti sant, cumque que dit, consequi cuptus doluptas atemo mincto te dolor sum quostiscit plibus, ut adi cus, secum es ut quossinus, quiscil itiusciis ma conet et verchitiis preris eliquuntum aute velestora de prem fugiate nonsequidis ipiendae si testota quunt.
-
-Tis a non plic temolupta plabo. Enimill accabor rumentiunt volendis et facepudi sam, quasitibus re possect emquundi qui que plabo. Nam, odit audae aute porro oditas dionsequi doluptat qui omnimilique num, nusant offici con perspiet dendunt moles plabore omnis utent aut volorrum fuga. Event volores eratiorro qui ditate vel maxim sam, undam que vent.
+Take a look through our website to see all the fun you could have. If you have questions, we are happy to help you plan a memorable trip. See our [Adventures page](/adventures), our [Trip Ideas page](/tripideas) and any [upcoming events](/events) to see all there is to do on Oregon's Adventure Coast! Or [request a visitor's package today](/contact). 
 
 ![The Best Girlfriends Getaway on the Oregon Coast](/img/girlfriends-getaway-collage.jpg)
