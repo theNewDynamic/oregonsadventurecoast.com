@@ -22,6 +22,8 @@ website: http://shoreacres.net/
 ---
 ![32nd Annual Holiday Lights at Shore Acres](/img/holiday-lights-695x322.jpg)
 
+{{< floatimage src="/img/Holiday-Lights-Logo.png" float="right" alt="Annual Holiday Lights at Shore Acres State Park in Charleston, Oregon" size="100" >}}
+
 The brightest and most beautiful place on the West Coast shines as brightly as ever in 2019.
 
 Famous for its beautiful 7 acre botanical gardens and Japanese lily pond, Share Acres shines with over a quarter million lights, animated displays, Santa, choirs, and more. A holiday tradition for the whole family.
@@ -67,7 +69,7 @@ Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or
 
 {{< /columns >}}
 
-![Shore Acres Holiday Lights - Charleston, Oregon](/img/Shore-Acres-Holiday-Lights-Collage.jpg)
+![Shore Acres Holiday Lights - Charleston, Oregon](/img/Shore-Acres-Holiday-Lights-Collage-2.jpg)
 
 ## **Here are some other things to see and do while in Charleston, Coos Bay & North Bend!**
 
@@ -76,3 +78,7 @@ In **Charleston**, stop in at the [Charleston Marine Life Center](http://www.cha
 In **Coos Bay**, take a stroll along the boardwalk and visit the Coos Bay Visitor Information Center where you will see the 30' lighted tree! Visit the [Coos History Museum](https://cooshistory.org/) and explore our area's culture and history. A special exhibition now on, _Vet Ink: Tattoos Inspired by Military Service_, explores the reasons local veterans and active duty military men and women chose their tattoos. And [catch a bite to eat](https://oregonsadventurecoast.com/dining/) at one of our many casual restaurants and coffee shops.
 
 In **North Bend**, take a stroll downtown and visit [quaint, one-of-a-kind shops](https://oregonsadventurecoast.com/shopping/) and cafes. Cross over the historic McCullough Bridge on your way to Horsfall Beach at the tip of the [Oregon Dunes National Recreation Area](https://oregonsadventurecoast.com/untamed-dunes/) and one of the many ATV rental locations in the area.
+
+![Shore Acres Holiday Lights - Charleston, Oregon](/img/Shore-Acres-Holiday-Lights-Collage-3.jpg)
+
+![Shore Acres Holiday Lights - Charleston, Oregon](/img/holiday-lights-shore-acres-panoramic.jpg)
