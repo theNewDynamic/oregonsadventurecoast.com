@@ -22,7 +22,7 @@ website: http://shoreacres.net/
 ---
 ![32nd Annual Holiday Lights at Shore Acres](/img/holiday-lights-695x322.jpg)
 
-{{< floatimage src="/img/Holiday-Lights-Logo.png" float="right" alt="Annual Holiday Lights at Shore Acres State Park in Charleston, Oregon" size="100" >}}
+{{< floatimage src="/img/Holiday-Lights-Logo-320px.png" float="right" alt="Annual Holiday Lights at Shore Acres State Park in Charleston, Oregon" size="100" >}}
 
 The brightest and most beautiful place on the West Coast shines as brightly as ever in 2019.
 
