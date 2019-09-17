@@ -9,7 +9,18 @@ image: "/img/09-12-18-national-estuaries-week.jpg"
 tags:
 - National Estuaries Week
 - Estuaries
-categories: []
+- South Slough National Estuarine Research Reserve
+- South Slough NERR
+- Oregon Coast
+- Coastal Wildlife
+- ecosystem
+- wetlands
+- coastal forest
+- family destinations
+- Stand Up! For The Bay
+- " Coos Bay Surfriders"
+categories:
+- National Lands
 draft: true
 
 ---
