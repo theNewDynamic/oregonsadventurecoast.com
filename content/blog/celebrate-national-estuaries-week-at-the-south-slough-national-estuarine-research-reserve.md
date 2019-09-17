@@ -2,10 +2,10 @@
 title: Celebrate National Estuaries Week at The South Slough National Estuarine Research
   Reserve!
 date: 2019-09-17T04:00:00+00:00
-description: Opening blurb- If you haven’t had the opportunity to visit South Slough
-  NERR, we urge you to do so! In honor of National Estuaries Week (NEW), we’re highlighting
-  this local treasure and the importance of estuaries everywhere.
-image: ''
+description: If you haven’t had the opportunity to visit South Slough NERR, we urge
+  you to do so! In honor of National Estuaries Week (NEW), we’re highlighting this
+  local treasure and the importance of estuaries everywhere.
+image: "/img/09-12-18-national-estuaries-week.jpg"
 tags:
 - National Estuaries Week
 - Estuaries
