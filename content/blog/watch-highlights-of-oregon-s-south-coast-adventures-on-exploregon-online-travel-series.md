@@ -1,11 +1,11 @@
 ---
 title: " Watch Highlights of Oregon's South Coast Adventures on ExplOregon Online
   Travel Series "
-date: 2019-06-05T21:00:00-07:00
+date: 2019-06-06T04:00:00.000+00:00
 description: 'Rick Dancer''s online travel series, ExplOregon, was back in the Coos
   Bay, North Bend and Charleston area last month to help Oregon travelers discover
   even more adventures, interesting people and amazing local food. '
-image: "/img/ExplOregon Oregon's Adventure Coast.png"
+image: "/img/ExplOregon-Oregon's-Adventure-Coast.jpg"
 tags:
 - Facebook Live
 - ExplOregon
