@@ -38,7 +38,6 @@ South Coast Tours is no stranger to introducing kayaking, stand up paddle boardi
 
 South Coast Tours Owner & Guide, Dave Lacey, was featured recently on an episode of _Facing Waves_, a TV series that follows seasoned paddlers as they explore the world's top paddling destinations. You can watch the [episode here](https://www.youtube.com/watch?v=S_dtEtCMeD4&feature=youtu.be&fbclid=IwAR2kdoL2kTF8woWAlt5XESDJmnEaR8Rrca3SjGto0oHBKnUKt2BIaIBxoTo).
 
-
 For more local adventure ideas with South Coast Tours, consider the [South Slough Coos Bay Wildlife Viewing Kayak Tour](https://www.southcoasttours.net/tours/kayak-south-slough-coos-bay/) for epic wildlife viewing or explore the Bandon Marsh U.S. Fish and Wildlife National Reserve on their [Bandon Coquille River Tour](https://www.southcoasttours.net/tours/kayak-bandon-coquille-river-tour/).
 
 [Waxer's Surf Shop](http://www.surfwaxers.com/)and Bahama Boards are also great resources to [rent kayaks and paddle boards](http://www.surfwaxers.com/rentals-1/) (or purchase) in addition to gear, clothing, and accessories you may need as you explore the Pacific ocean waters, lakes and rivers!
