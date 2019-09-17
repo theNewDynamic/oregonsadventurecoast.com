@@ -32,7 +32,7 @@ If you haven’t had the opportunity to visit South Slough NERR, we urge you to 
 
 South Slough encompasses a mixture of open water channels, tidal and freshwater wetlands, riparian areas, and forested uplands and the Interpretive Center is open Tuesday through Saturday from 10 am until 4:30 pm (Closed on State holidays). Trails are open from dawn to dusk every day. Many of their educational and outdoor programs are free or offered at a low cost to cover materials. **South Slough NERR is located 4 miles south of Charleston on Seven Devils Road.**
 
-**![](https://lh4.googleusercontent.com/Sz_7q4xy6kMq4HlASOt7XgdxTXyqfn0k866B2Aj9ls2wTdNWE6rvdeEJa6ZxNC8bSwvg08WJ7ZIrV1LyPVnwynamHWiL0B3psfX_zXv2ooM923ZHWRpKfqjZ7M6s7EDj2Ox7xw_sLsiCTaYzdg =694x372)**
+![](/img/South Slough Hike blog-695x322.jpg)
 
 Curious about the importance of our nation’s estuaries? Here are some answers to a few of the FAQs:
 
