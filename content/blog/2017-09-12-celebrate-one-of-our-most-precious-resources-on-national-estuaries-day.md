@@ -1,19 +1,20 @@
 ---
 title: National Estuaries Week Celebrates Precious Coastal Resources
-date: 2017-09-12T19:00:59.000Z
-description: >-
-  Many do not realize the important role that estuaries have in our ecosystem
-  and in our lives. Estuarine ecosystems serve as natural barriers to buffer
-  against storms and floods, absorb and store carbon, and provide critical
-  habitat for commercial and recreational fisheries. The need to protect and
-  restore these critical places has never been more pressing.
+date: 2017-09-12T19:00:59.000+00:00
+description: Many do not realize the important role that estuaries have in our ecosystem
+  and in our lives. Estuarine ecosystems serve as natural barriers to buffer against
+  storms and floods, absorb and store carbon, and provide critical habitat for commercial
+  and recreational fisheries. The need to protect and restore these critical places
+  has never been more pressing.
 tags:
-  - Charleston
-  - National Estuaries Day
-  - South Slough National Estuarine Research Reserve
+- Charleston
+- National Estuaries Day
+- South Slough National Estuarine Research Reserve
 categories:
-  - Miscellaneous
-image: /img/09-12-18-national-estuaries-week.jpg
+- Miscellaneous
+image: "/img/09-12-18-national-estuaries-week.jpg"
+draft: true
+
 ---
 Many do not realize the important role that estuaries have in our ecosystem and in our lives. Estuarine ecosystems serve as natural barriers to buffer against storms and floods, absorb and store carbon, and provide critical habitat for commercial and recreational fisheries. The need to protect and restore these critical places has never been more pressing.
 
@@ -36,4 +37,3 @@ Here are some answers to a few of the FAQs regarding our nation's  estuaries .
 <strong>Are there local events I can participate in?</strong> Yes. <em>Stand UP! For the Bay</em> is an event taking place on National Estuaries Day, Saturday, September 30th 2017 from 9am to 2:30pm in downtown Coos Bay. Meet on the boardwalk (across from Visitor Center). Participants will either stand up paddle, canoe, or kayak, in the bay along a route that is designed for ease of travel, with consideration of tide and wind direction.  This event includes live music as well as a paddle board jousting event. <a href="http://www.oregonsadventurecoast.com/listings/stand-up-for-the-bay/">Click here</a> for more information.
 
 You can also spend the day at South Slough NERR,  located at 61907 Seven Devils Road Charleston, OR 97420.  Go to<a href="http://www.oregon.gov/dsl/SSNERR/Pages/index.aspx" target="_blank" rel="noopener noreferrer"> www.oregon.gov</a> or call (541) 888-5558 for info.
-
