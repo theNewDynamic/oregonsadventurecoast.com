@@ -28,3 +28,8 @@ fields:
   name: website
   label: Website
   description: Website's URL. Include protocole (https://)
+- name: seo_template
+  type: include
+  config: {}
+  template: seo
+  label: SEO Template
