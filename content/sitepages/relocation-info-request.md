@@ -3,6 +3,10 @@ title: Relocation Information
 layout: relocation-request
 url: "/relocation-info-request"
 photo: "/img/our-area-main.jpg"
+seo:
+  description: Thinking of moving here? We love when people want to join our community.
+    Request a relocation packet and let us help get you started.
+  title: Relocation Information | Oregon's Adventure Coast
 
 ---
 **Oregon’s Adventure Coast**, consisting of Coos Bay, North Bend and Charleston, is truly unique. Our business and professional people accentuate individuality and character. Our retailers strike a balance between distinctively-local shops and nationally-known chains.
