@@ -9,12 +9,7 @@ fields:
   name: photo
   label: Image
 - name: seo
-  type: field_group
+  type: include
   config: {}
-  fields:
-  - name: description
-    type: text
-    config:
-      required: false
-    label: description
-  label: seo
+  template: regular-pages
+  label: SEO
