@@ -77,7 +77,7 @@ masonry7:
   url: "/crabbing-clamming/"
 seo:
   description: Travel to the Oregon Coast to experience a vacation full of adventure,
-    nature, wildlife, shopping, culture, arts, and more. Your adventure awaits!
+    nature, wildlife, shopping, arts, and more. Your adventure awaits!
   title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
 
 ---
