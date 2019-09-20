@@ -32,19 +32,8 @@ fields:
   name: photo
   label: Header Photo
   description: Choose a header image - size to 2048px by 530px.
-- type: field_group
-  name: seo
-  label: SEO
-  fields:
-  - type: text
-    label: Description
-    name: description
-  - type: text
-    label: Title
-    name: title
-  - type: text
-    name: imgalt
-    label: Image ALT Text
-  - type: file
-    name: image
-    label: SEO Image
+- name: seo_template
+  type: include
+  config: {}
+  template: seo
+  label: SEO Template
