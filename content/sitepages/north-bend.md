@@ -3,6 +3,10 @@ title: North Bend
 layout: our-area
 url: "/our-area-north-bend"
 photo: "/img/our-area-north-bend-header.jpg"
+seo:
+  description: 'It wouldn''t be a visit to the Oregon''s Adventure Coast without exploring
+    North Bend. Learn more about the history and things to do. '
+  title: North Bend | Oregon's Adventure Coast
 
 ---
 North Bend is named to reflect its geographic location as it is situated on the north bend of the bay. Originally named Yarrow, the community was founded in 1863 by Thomas Symons and later purchased by Louis Simpson in 1902. He merged Yarrow with “Old Town” a mill site owned by his father Asa and renamed the area North Bend in 1903.
