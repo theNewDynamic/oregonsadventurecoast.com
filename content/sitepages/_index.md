@@ -4,9 +4,9 @@ layout: our-area
 url: "/our-area"
 photo: "/img/our-area-main.jpg"
 seo:
-  description: Travel to Coos Bay, North Bend, or Charleston to discover the beauty
-    & adventure of a vacation to the Oregon Coast for yourself! See what makes each
-    of these towns unique.
+  description: Charleston is located eight miles from Coos Bay and North Bend and
+    is just inside the entrance to the bay. Learn more about our history and things
+    to do.
   title: Oregon Coast Trips Vacations - Our Area | Oregon's Adventure Coast
 
 ---
