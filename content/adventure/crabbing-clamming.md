@@ -1,15 +1,13 @@
 ---
 title: Crabbing & Clamming
-url: /crabbing-clamming
-photo: /img/adventures-crabbing.jpg
+url: "/crabbing-clamming"
+photo: "/img/adventures-crabbing.jpg"
 seo:
-  description: >-
-    No vacation to the Oregon Coast is complete without awesome outdoor
-    activities like crabbing and clamming! Find rental crab rings and learn our
-    tips and tricks for first-timers!
-  title: >-
-    Oregon Coast Outdoor Activities - Crabbing/Clamming | Oregon's Adventure
+  description: No vacation to the Oregon Coast is complete without outdoor activities
+    like crabbing and clamming! Rent crab rings and learn our tips and tricks!
+  title: Oregon Coast Outdoor Activities - Crabbing/Clamming | Oregon's Adventure
     Coast
+
 ---
 ## Crabbing on Oregon's Adventure Coast
 
