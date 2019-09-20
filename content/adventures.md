@@ -134,8 +134,8 @@ boxes:
   mobiletitle: Entertainment/Nightlife
   url: "/entertainment-and-nightlife"
 seo:
-  description: Discover the numerous outdoor activities, cultural attractions, shopping,
-    events, and more adventures for your vacation to the Oregon Coast!
+  description: 'Discover the numerous outdoor activities, cultural attractions, shopping,
+    events, and more adventures for your vacation to the Oregon Coast! '
   title: Oregon Coast Trips Vacations - Things to Do | Oregon's Adventure Coast
 
 ---
