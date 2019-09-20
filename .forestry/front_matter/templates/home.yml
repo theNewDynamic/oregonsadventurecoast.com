@@ -231,4 +231,4 @@ fields:
     config:
       required: false
     label: description
-  label: seo
+  label: SEO
