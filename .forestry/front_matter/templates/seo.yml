@@ -11,6 +11,15 @@ fields:
     config:
       required: false
     label: Title
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Description
   - name: imgalt
     type: text
     config:
@@ -22,12 +31,3 @@ fields:
       maxSize: 250
     label: SEO Image
   label: SEO
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Description
