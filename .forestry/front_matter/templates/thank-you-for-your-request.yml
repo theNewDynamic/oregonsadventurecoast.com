@@ -34,8 +34,3 @@ fields:
     - travelersinfo
   label: Layout
   description: Choose the Layout/Sidebar for Your Page
-- name: seo_template
-  type: include
-  config: {}
-  template: seo
-  label: SEO Template
