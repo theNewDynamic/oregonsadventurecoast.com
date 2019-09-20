@@ -28,5 +28,10 @@ fields:
     max: 
     labelField: title
   label: Gallery
+- name: seo_template
+  type: include
+  config: {}
+  template: seo
+  label: SEO Template
 pages:
 - content/gallery.md
