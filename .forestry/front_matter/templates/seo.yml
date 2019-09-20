@@ -1,4 +1,24 @@
 ---
 label: SEO
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
+- name: imgalt
+  type: file
+  config:
+    maxSize: 250
+  label: Image ALT Text
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
