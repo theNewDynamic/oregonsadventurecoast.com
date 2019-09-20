@@ -1,13 +1,13 @@
 ---
 title: ATV & Motorsports
-url: /atv-motorsports
-photo: /img/adventures-atv-motorsports.jpg
+url: "/atv-motorsports"
+photo: "/img/adventures-atv-motorsports.jpg"
 seo:
-  description: >-
-    Looking for the best outdoor activities for your Oregon Coast vacation?
-    Pulse-pounding adventure hides over and around every dune here! Include ATV
-    & motorsports in your next coastal vacation.
+  description: Looking for the best outdoor activities for your Oregon Coast vacation?
+    Pulse-pounding adventure hides over every dune! Include ATV & motorsports in your
+    next coastal vacation.
   title: Oregon Coast Outdoor Activities - ATV/Motorsport | Oregon's Adventure Coast
+
 ---
 <div class="float-right-350px">
 <p><img src="/img/atv-jump-cropped.jpg" alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast" width="100%">
