@@ -8,8 +8,8 @@ fields:
 - type: file
   name: photo
   label: Image
-- name: seo
+- name: seo_template
   type: include
   config: {}
-  template: regular-pages
-  label: SEO
+  template: seo
+  label: SEO Template
