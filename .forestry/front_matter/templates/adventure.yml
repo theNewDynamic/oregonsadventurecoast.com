@@ -8,3 +8,13 @@ fields:
 - type: file
   name: photo
   label: Image
+- name: seo
+  type: field_group
+  config: {}
+  fields:
+  - name: description
+    type: text
+    config:
+      required: false
+    label: description
+  label: seo
