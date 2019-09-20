@@ -222,3 +222,13 @@ fields:
   - type: text
     name: url
     label: URL
+- name: seo
+  type: field_group
+  config: {}
+  fields:
+  - name: description
+    type: text
+    config:
+      required: false
+    label: description
+  label: seo
