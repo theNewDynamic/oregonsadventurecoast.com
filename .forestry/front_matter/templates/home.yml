@@ -222,3 +222,8 @@ fields:
   - type: text
     name: url
     label: URL
+- name: seo_template
+  type: include
+  config: {}
+  template: seo
+  label: SEO Template
