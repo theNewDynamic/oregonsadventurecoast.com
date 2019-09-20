@@ -4,8 +4,7 @@ title: Oregon Coast Trips - Dining Options During Your Stay
 photo: "/img/dining-header.jpg"
 seo:
   description: Choose from a variety of dining options during your Oregon Coast trip!
-    Offering several family style eateries, as well as ethnic, chain, seafood, and
-    fine dining restaurants.
+    Offering family style eateries, ethnic, chain, seafood, and fine dining restaurants.
   title: Oregon Coast Trips Vacations - Dining | Oregon's Adventure Coast
   image: "/img/dining-header.jpg"
   imgalt: Seafood dining on oregon's adventure coast
