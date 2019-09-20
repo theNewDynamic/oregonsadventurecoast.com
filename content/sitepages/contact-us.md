@@ -5,10 +5,9 @@ url: "/contact"
 photo: "/img/contact-page-header.jpg"
 seo:
   description: If you need help finding exciting things to do on the Oregon Coast
-    or just want to find out more about the area, feel free to contact us! Start planning
-    your vacation now!
-  title: If you need help finding exciting things to do on the Oregon Coast or just
-    want to find out more about the area, contact us! Start planning your vacation.
+    or just want to find out more about the area, contact us! Start planning your
+    vacation.
+  title: Contact Us for Oregon Coast Trip Ideas | Oregon's Adventure Coast
 
 ---
 Thank you for visiting our site! If you need help finding something wonderful to do or just want to find out more about the area, feel free to contact Oregon’s Adventure Coast today.
