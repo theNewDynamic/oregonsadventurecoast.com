@@ -25,5 +25,5 @@ fields:
     type: file
     config:
       maxSize: 250
-    label: Image
+    label: SEO Image
   label: SEO
