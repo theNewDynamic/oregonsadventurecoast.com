@@ -17,11 +17,11 @@ seo:
 draft: true
 
 ---
-"From rocky headlands to wide-open shores, agates, seabirds, tide pools and lighthouses in the distance, the Oregon Coast is a balm for the soul. Why ride it? Because its 363 miles of glorious coastline are full of wonder, largely car-free and accessible for us all." - Jen Anderson, Travel Oregon
+### Grab your bikes and head to the Oregon Coast this fall! 
 
 [Live Culture Coast](https://www.oregonsadventurecoast.com/event/live-culture-coast/), a 10-day sensory celebration of fermentation, creativity & exploration of the Southern Oregon Coast, is kicking off right here in the Coos Bay, North Bend, Charleston area October 18, 2019! The series of events celebrates the very best of Oregon's South Coast including world-class biking trails like the [Whiskey Run Mountain Bike Trails](https://www.mtbproject.com/directory/8019222/whiskey-run-trails) and the [Wild Rivers Coast Scenic Bikeways](https://traveloregon.com/things-to-do/outdoor-recreation/bicycling/wild-rivers-coast-scenic-bikeway/).
 
-Whether you are a seasoned cyclist or a casual rider, we encourage you to bring your bikes during our first ever **Live Culture Coast** to enjoy the many options here ranging from flat surfaces to heart-pumping hills and trails. Some come grab life by the handle-bars and head to Oregon's Adventure Coast for an epic cycling adventure this fall, or any time of the year. Here are some ideas and resources to help you plan. 
+Whether you are a seasoned cyclist or a casual rider, we encourage you to bring your bikes to the first-ever **Live Culture Coast** to enjoy the many options here ranging from flat surfaces to heart-pumping hills and trails. Here are some ideas and resources to help you plan Oregon's Adventure Coast for an epic cycling adventure this fall, or any time of the year.
 
 **FUN FOR MOUNTAIN BIKERS**
 
