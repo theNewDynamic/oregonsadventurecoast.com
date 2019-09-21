@@ -34,5 +34,6 @@ fields:
   template: seo
   label: SEO Template
 pages:
+- content/blog/cycling-oregon-s-adventure-coast.md
 - content/blog/celebrate-national-estuaries-week-at-the-south-slough-national-estuarine-research-reserve.md
 - content/blog/ten-oregon-coast-travel-tips-for-charleston-salmon-run-visitors.md
