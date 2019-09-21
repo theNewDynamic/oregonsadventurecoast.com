@@ -30,12 +30,12 @@ This local gem of a trail system flows and winds through the misty Coos County F
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YA0X_rpH930" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Other local destinations for avid mountain bikers to explore include-
+<br>Other local destinations for avid mountain bikers to explore include-
 
-* [**BLUE RIDGE LOOP**](http://coostrails.com/traildescriptions/blueridge/blueridge.htm) 
-* [**WINCHESTER NORTH**](https://www.mtbproject.com/trail/7032115/winchester-north) 
-* [**EMPIRE LAKES**](http://coosbay.org/uploads/PDF/Operations/Parks/John_Topits_Park/JOHN_TOPITS_PARK_TRAIL_MAP.pdf) 
-* [**EUPHORIA RIDGE TRAILS**](http://coostrails.com/traildescriptions/euphoriaridge/euphoriaridge.htm) 
+* [BLUE RIDGE LOOP](http://coostrails.com/traildescriptions/blueridge/blueridge.htm) 
+* [WINCHESTER NORTH](https://www.mtbproject.com/trail/7032115/winchester-north) 
+* [EMPIRE LAKES](http://coosbay.org/uploads/PDF/Operations/Parks/John_Topits_Park/JOHN_TOPITS_PARK_TRAIL_MAP.pdf) 
+* [EUPHORIA RIDGE TRAILS](http://coostrails.com/traildescriptions/euphoriaridge/euphoriaridge.htm) 
 
 **FUN OPTIONS FOR ROAD CYCLISTS**  
 
