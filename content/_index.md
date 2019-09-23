@@ -1,12 +1,10 @@
 ---
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
-- title: Bay Area Fun Fest - Sept 21 & 22
-  photo: "/img/bay-area-fun-festival-hm-slider.jpg"
-  title_mobile: Bay Area Fun Fest
-  photo_mobile: "/img/bay-area-mobile-slider.jpg"
 - title: Charleston Salmon Run - Oct 5th
   photo: "/img/Salmon-Run-Home-Slider.jpg"
+  title_mobile: Charleston Salmon Run - October 5th
+  photo_mobile: "/img/salmon-run-mobile.jpg"
 - photo: "/img/shore-acres-slider.jpg"
   title: Breathtaking Views
 - photo: "/img/seven-devils-interior-night.jpg"
