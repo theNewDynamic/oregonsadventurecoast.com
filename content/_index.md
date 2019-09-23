@@ -4,7 +4,7 @@ slideshow:
 - title: Charleston Salmon Run - Oct 5th
   photo: "/img/Salmon-Run-Home-Slider.jpg"
   title_mobile: Charleston Salmon Run - October 5th
-  photo_mobile: "/img/salmon-run-mobile.jpg"
+  photo_mobile: "/img/salmon-run-mobile-02.jpg"
 - photo: "/img/shore-acres-slider.jpg"
   title: Breathtaking Views
 - photo: "/img/seven-devils-interior-night.jpg"
