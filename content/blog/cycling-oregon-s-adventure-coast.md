@@ -14,7 +14,6 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
 ### Grab your bikes and head to the Oregon Coast this fall!
