@@ -37,3 +37,5 @@ fields:
   config: {}
   template: seo
   label: SEO Template
+pages:
+- content/sitepages/local-industry-resources.md
