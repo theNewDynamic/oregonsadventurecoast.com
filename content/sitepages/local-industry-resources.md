@@ -10,7 +10,7 @@ seo:
   image: ''
 
 ---
-### Local Industry Resources
+## Local Industry Resources
 
 The Coos Bay-North Bend Visitor & Convention Bureau (VCB) and the Coos Bay Visitor Information Center provide the following documents to our local industry partners to assist in planning and requests.
 
