@@ -31,9 +31,11 @@ seo:
   image: ''
 
 ---
-The first-ever [Live Culture Coast](http://www.liveculturecoast.org), a unique and diverse celebration of culture, food, drink, nature, art, people, and places on Oregon's South Coast is happening in just over 2 weeks!  This nine-day event, beginning October 18th and ending October 27th, celebrates the wonders of the 135 beautiful miles from Reedsport to Bookings.  Residents and visitors can register for over 90 hand-on experiences focused on art and culture, food and farms, and people and places all along the Oregon Southern Coast.
+The first-ever [Live Culture Coast](http://www.liveculturecoast.org), a unique and diverse celebration of culture, food, drink, nature, art, people, and places on Oregon's South Coast is happening in just over 2 weeks! This nine-day event, beginning October 18th and ending October 27th, celebrates the wonders of the 135 beautiful miles from Reedsport to Bookings.  Residents and visitors can register for over 90 hand-on experiences focused on art and culture, food and farms, and people and places all along the Oregon Southern Coast.
 
-If you can only spend a few days at the festival, we’d love to have you here on Oregon's Adventure Coast from October 18-22 to experience our region in a completely new way. Event registration is available online and will fill up quickly, so plan early. We also [recommend booking accommodations now](https://www.oregonsadventurecoast.com/lodging/) as they are expected to fill up quickly. Here's a summary of events happening in the towns of Coos Bay, North Bend and Charleston. Please click here for details and the full schedule.
+If you can only spend a few days at the festival, we’d love to have you here on Oregon's Adventure Coast from October 18-22 to experience our region in a completely new way. Event registration is available online and will fill up quickly, so plan early. We also [recommend booking accommodations now](https://www.oregonsadventurecoast.com/lodging/) if you have not already done so. 
+
+Here's a summary of events happening in the towns of Coos Bay, North Bend and Charleston. Please click here for details and the full schedule.
 
 #### **Friday, October 18, 2019**
 
