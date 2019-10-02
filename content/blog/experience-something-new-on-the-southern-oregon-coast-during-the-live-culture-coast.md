@@ -2,10 +2,10 @@
 title: Experience something new on the Southern Oregon Coast during the Live Culture
   Coast
 date: 2019-10-02T04:00:00+00:00
-description: Live Culture Coast, a nine-day event, beginning October 18, celebrates
-  the wonders of the Oregon South Coast.  Residents and visitors can register for
-  over 90 hand-on experiences focused on art and culture, food and farms, and people
-  and places all along the Oregon Southern Coast.
+description: Live Culture Coast, beginning October 18th, celebrates the wonders of
+  the Oregon South Coast.  Residents and visitors can register for over 90 hand-on
+  experiences focused on art and culture, food and farms, and people and places all
+  along the Oregon Southern Coast.
 image: "/img/live-culture-logo-header.jpg"
 tags:
 - 7 Devils Brewery
