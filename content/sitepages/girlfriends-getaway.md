@@ -14,7 +14,11 @@ seo:
 
 ## The Best Girlfriends Getaway on the Oregon Coast!
 
-When you're planning your next getaway with your girlfriends, come to Oregon's Adventure Coast for a turbo charged and zen inspired vacation _(and everything in between!)_. We have shopping, great restaurants, casino-style gaming, and adventures you've only dreamed of.
+Plan your next getaway with your girlfriends, at Oregon’s Adventure Coast for a turbo charged and zen inspired vacation _(and everything in between!)_. There’s so much to do here. Your crew will find indoor and outdoor adventures to enjoy while you catch up and vacation together.
+
+Indoors, we have [shopping](/shopping), [museums](/art-history-culture), [great restaurants](/dining), [entertainment](/entertainment-and-nightlife) and [casino-style gaming](/gaming), all set in one of the most beautiful, rugged and diverse coastal settings.
+
+And with a year-round temperate climate, outdoor adventures are always part of the trip. [Hiking](/hiking-walking), [crabbing and clamming](/crabbing-clamming), [surfing](/water-recreation), [beach combing](/undeveloped-beaches), [ATV’ing](/atv-motorsports), [cycling](/cycling), [storm watching](/storm-watching), [scenic drives](scenic-drives), are just a few ways to enjoy the great outdoors while you and your girlfriends create lifetime memories.
 
 ![The best place for a girlfriends getaway on the Oregon Coast](/img/GirlfriendsPage-Triptik-02.jpg)
 
