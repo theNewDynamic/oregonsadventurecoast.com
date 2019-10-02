@@ -42,7 +42,7 @@ The Biggest Little Farm, which chronicles a couple's 8-year quest to bring 200 a
 
 #### Tuesday, October 22, 2019
 
-IMAGE 4 LIGHTHOUSE (Photo credit: Image courtesy David MacFarlane/Shutterstock)
+![Umpqua River Lighthouse](/img/Umpqua_River_lighthouse.jpg "Umpqua River Lighthouse")_Photo @_[_Adbar_](https://commons.wikimedia.org/wiki/User:Adbar "User:Adbar") _-licensed under the_ [_Creative Commons _](https://en.wikipedia.org/wiki/en:Creative_Commons "w:en:Creative Commons")[_Attribution-Share Alike 3.0 Unported_](https://creativecommons.org/licenses/by-sa/3.0/deed.en) _license._
 
 The final event planned in Coos Bay is one of the best. The [LAKE + LIGHTHOUSE VAN TOUR](https://www.liveculturecoast.org/new-events/lake-lighthouse-van-tour) offers a unique opportunity to one of the magnificent lighthouses near Coos Bay, the Umpqua River Lighthouse. Tour the lighthouse in a van then take a short boat ride around the lovely Lake Marie. The tour, provided by South Coast Tours, runs from 2:00 PM – 4:00 PM and departs from 7 Devils Brewing, 247 S 2nd Street.
 
