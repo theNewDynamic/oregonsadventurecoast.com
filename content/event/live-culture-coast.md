@@ -1,8 +1,8 @@
 ---
 title: Live Culture Coast
 photo: "/img/live-culture-page-header.jpg"
-largeboxphoto: "/img/live-coast-stand-1024x395.jpg"
-mediumboxphoto: "/img/live-coast-stand-med-667x355.jpg"
+largeboxphoto: "/img/live-culture-coast-large.jpg"
+mediumboxphoto: "/img/live-culture-coast-medium.jpg"
 smallboxphoto: "/img/live-culture-logo-sm-340x214.jpg"
 desktoptitle: Live Culture Coast
 mobiletitle: Live Culture Coast
