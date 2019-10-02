@@ -31,7 +31,7 @@ seo:
   image: ''
 
 ---
-Mark your calendars now for one of the most unique and diverse celebrations of culture, food, farms, art, people, and places in the United States - the first-ever [Live Culture Coast](http://www.liveculturecoast.org). This nine-day event, beginning October 18 and ending October 27, celebrates the wonders of the 135 beautiful miles from Reedsport to Bookings.  Residents and visitors can register for over 90 hand-on experiences focused on art and culture, food and farms, and people and places all along the Oregon Southern Coast.
+The first-ever [Live Culture Coast](http://www.liveculturecoast.org), a unique and diverse celebration of culture, food, drink, nature, art, people, and places on Oregon's South Coast is happening in just over 2 weeks!  This nine-day event, beginning October 18th and ending October 27th, celebrates the wonders of the 135 beautiful miles from Reedsport to Bookings.  Residents and visitors can register for over 90 hand-on experiences focused on art and culture, food and farms, and people and places all along the Oregon Southern Coast.
 
 If you can only spend a few days at the festival, we’d love to have you here on Oregon's Adventure Coast from October 18-22 to experience our region in a completely new way. Event registration is available online and will fill up quickly, so plan early. We also [recommend booking accommodations now](https://www.oregonsadventurecoast.com/lodging/) as they are expected to fill up quickly. Here's a summary of events happening in the towns of Coos Bay, North Bend and Charleston. Please click here for details and the full schedule.
 
@@ -53,7 +53,7 @@ Tour [Stillwagon Distillery](http://stillwagondistillery.com/) and learn about i
 #### **Sunday, October 20, 2019**
 
 [LIVING BEVERAGES: ALE TASTING & FERMENTATION TALES](https://www.liveculturecoast.org/new-events/living-beverages-ale-tasting-amp-fermentation-tales)
-"Hop-on-over" (get it?) to the [7 Devils Brewing](https://www.7devilsbrewery.com/)for an effervescent afternoon with 7 Devils brewer Carmen Matthews, CEO Annie Pollard, and the whole brew crew. After enjoying a brief history of beer brewing and fermented drinks, you’ll taste cask ales, sip probiotic sodas, and learn about the fermented drinks you can make at home. 2:00 PM-4:00 PM 
+"Hop-on-over" (get it?) to the [7 Devils Brewing](https://www.7devilsbrewery.com/)for an effervescent afternoon with 7 Devils brewer Carmen Matthews, CEO Annie Pollard, and the whole brew crew. After enjoying a brief history of beer brewing and fermented drinks, you’ll taste cask ales, sip probiotic sodas, and learn about the fermented drinks you can make at home. 2:00 PM-4:00 PM
 
 [MOVIE NIGHT AT THE EGYPTIAN (Coos Bay)](https://www.liveculturecoast.org/new-events/movie-night-at-the-egyptian)
 Head over to one of Coos Bay's most famous landmarks, [The Egyptian Theatre ](https://egyptiantheatreoregon.com/)to watch [The Biggest Little Farm](https://www.biggestlittlefarmmovie.com/), which chronicles a couple's 8-year quest to bring 200 acres of barren farmland into harmony with nature.
