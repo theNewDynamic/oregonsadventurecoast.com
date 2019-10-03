@@ -20,7 +20,7 @@ property_description: Waterfront House with gorgeous sunsets and views. Escape t
   sure to enjoy your stay!
 website: https://www.airbnb.com/rooms/24303004
 amenityList:
-- amenitySelect: '6'
-- amenitySelect: '7'
+- 6 - WiFi Available
+- 7 - Kitchens Available
 
 ---
