@@ -13,7 +13,7 @@
         <div class="list-post">
             {{ if .Params.image }}
             
-                <div class="blog-image"><a href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="{{ .Title }}" /></a>
+                <div class="blog-image"><a href="{{ .Permalink }}"><img data-pin-url="{{ .Permalink }}" src="{{ .Params.image }}" alt="{{ .Title }}" /></a>
                     <div class="share">
                         <span class="share-trigger">
                             <span class="icon"><i class="fas fa-share-square"></i></span>

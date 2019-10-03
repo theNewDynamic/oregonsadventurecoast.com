@@ -54,7 +54,7 @@ export default class Events {
                         <ul class="share-list clearfix">
                             <li class="facebook"><a target="_blank" href="http://www.facebook.com/sharer.php?u=http://oregonsadventurecoast.com${val.url}"><i class="fab fa-facebook-f"></i></a></li>
                             <li class="twitter"><a target="_blank" href="https://twitter.com/share?url=http://oregonsadventurecoast.com${val.url}&amp;text=${val.desktoptitle}"><i class="fab fa-twitter"></i></a></li>
-                            <li class="pinterest"><a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><i class="fab fa-pinterest-p"></i></a></li>
+                            <li class="pinterest"><a target="_blank" href="https://www.pinterest.com/pin/create/button/?url=${val.url}"><i class="fab fa-pinterest-p"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -94,7 +94,7 @@ export default class Events {
                         <ul class="share-list clearfix">
                             <li class="facebook"><a target="_blank" href="http://www.facebook.com/sharer.php?u=http://oregonsadventurecoast.com${val.url}"><i class="fab fa-facebook-f"></i></a></li>
                             <li class="twitter"><a target="_blank" href="https://twitter.com/share?url=http://oregonsadventurecoast.com${val.url}&amp;text=${val.desktoptitle}"><i class="fab fa-twitter"></i></a></li>
-                            <li class="pinterest"><a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><i class="fab fa-pinterest-p"></i></a></li>
+                            <li class="pinterest"><a target="_blank" href="https://www.pinterest.com/pin/create/button/?url=${val.url}"><i class="fab fa-pinterest-p"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -134,7 +134,7 @@ export default class Events {
                         <ul class="share-list clearfix">
                             <li class="facebook"><a target="_blank" href="http://www.facebook.com/sharer.php?u=http://oregonsadventurecoast.com${val.url}"><i class="fab fa-facebook-f"></i></a></li>
                             <li class="twitter"><a target="_blank" href="https://twitter.com/share?url=http://oregonsadventurecoast.com${val.url}&amp;text=${val.desktoptitle}"><i class="fab fa-twitter"></i></a></li>
-                            <li class="pinterest"><a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><i class="fab fa-pinterest-p"></i></a></li>
+                            <li class="pinterest"><a target="_blank" href="https://www.pinterest.com/pin/create/button/?url=${val.url}"><i class="fab fa-pinterest-p"></i></a></li>
                         </ul>
                     </div>
                 </div>
