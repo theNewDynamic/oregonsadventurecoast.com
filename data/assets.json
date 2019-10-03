@@ -4,8 +4,8 @@
     "jsIntegrity": "sha256-EHLelAOXJ77J60N5z1Z9zG4o3HDABGVXu+Zt7ZrKmFA="
   },
   "calendar": {
-    "js": "/dist/calendar.f13f5a8adbadd813dd9e.js",
-    "jsIntegrity": "sha256-eec9kRA2rix4vjiwm0jL11kqvifSneMKCxptyoFfc40="
+    "js": "/dist/calendar.cd8a37aa8aefc2b7a88d.js",
+    "jsIntegrity": "sha256-5auMNvlnR6z122CvgZTsEKyi2he2L2v2B2Wlpsyz+LE="
   },
   "dining": {
     "js": "/dist/dining.e60ce30a0ba553e2210b.js",
@@ -16,8 +16,8 @@
     "jsIntegrity": "sha256-uh6Gl6Dd2UHZLAGo5VGEUj2TXUkn0hGF0GeCeqqno9A="
   },
   "events": {
-    "js": "/dist/events.ffaafe203a7fc1e01052.js",
-    "jsIntegrity": "sha256-FHrQllWB5rEF2f0ECDG/T0tYbh6IA5iC3oj2bazVhlA="
+    "js": "/dist/events.879b0ddc9267e478ec03.js",
+    "jsIntegrity": "sha256-Kk5EDD5FkqIXRVf6ti0IGHfVa6G/3bxlAwS0dSePChA="
   },
   "instagram": {
     "js": "/dist/instagram.61e45347cdadea0c39b9.js",
