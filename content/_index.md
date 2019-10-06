@@ -3,7 +3,7 @@ title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
 - title: Live Culture Coast - Oct 18 - 27
   photo: "/img/live-culture-coast-hm-pg-slider-lg.jpg"
-  title_mobile: Live Culture Coast - October 18 - 27
+  title_mobile: Live Culture Coast October 18 - 27
   photo_mobile: "/img/live-culture-coast-mobile.jpg"
 - photo: "/img/shore-acres-slider.jpg"
   title: Breathtaking Views
