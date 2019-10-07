@@ -26,7 +26,7 @@ website: http://shoreacres.net/
 
 The brightest and most beautiful place on the West Coast shines as brightly as ever in 2019.
 
-Famous for its beautiful 7 acre botanical gardens and Japanese lily pond, Share Acres shines with over a quarter million lights, animated displays, Santa, choirs, and more. A holiday tradition for the whole family.
+Famous for its beautiful 7 acre botanical gardens and Japanese lily pond, Shore Acres shines with over a quarter million lights, animated displays, Santa, choirs, and more. A holiday tradition for the whole family.
 
 This festive annual display debuts on Thanksgiving Day (Thursday, November 28th) and will light up Shore Acres from 4 p.m.-9:30 p.m. each night (including Dec 24th & 25th) thru December 31st.
 
