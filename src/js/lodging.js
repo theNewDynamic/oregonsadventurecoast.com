@@ -32,6 +32,7 @@ function initMap() {
     let fullLodgingList = {};
     let getFilterMatchType = new GetFilterMatchType();
     let sortMenu = new SortMenu();
+    let sortAlpha = false;
 
     /**
      * Call to get the lodging data
@@ -58,12 +59,14 @@ function initMap() {
         sortMenu.setClasses($(this));
         resetPagination(lodgingList);
         outputLodging(lodgingList);
+        sortAlpha = true
     });
     $('#sort-menu-descending').click(function(){
         lodgingList = sortMenu.sortDescending(lodgingList, 'property_name');
         sortMenu.setClasses($(this));
         resetPagination(lodgingList);
         outputLodging(lodgingList);
+        sortAlpha = true
     });
 
     /**
@@ -212,7 +215,6 @@ function initMap() {
      * @return {object} - returns the new filtered list based on the updated options
      */
     function updateFilterOptions(key, value, action) {
-        
         if (action === FILTER_OPTION.add) {
             if (_.has(filterOptions, key)) {
                 filterOptions[key].push(value);
@@ -283,18 +285,20 @@ function initMap() {
 
             // Ensure that all filters have a valid match for the item.
             _.forIn(itemPassedFilterChecks, (valid) => {
-                console.log(valid);
                 if (valid === false) {
                     addItemToList = false;
                 }
             });
-
             return addItemToList;
         });
 
         // reset pagination
         resetPagination(filteredList);
 
+        //Sort by Intial Priority (only if Alpha sorting is off)
+        if(!sortAlpha){
+            filteredList = lodging.sortByInitialPriority(filteredList);
+        }
         // call outputLodging with the updated list
         return filteredList;
     }

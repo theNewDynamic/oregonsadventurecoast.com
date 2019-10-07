@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 - Remove iFrame snippt/shortcode
 - Add caption to content images
 - Fixes vulnerability
+- Fix ordering of Lodgings after filtering
 
 ## [0.3.0] - 2019-10-03 (@regisphilibert)
 
