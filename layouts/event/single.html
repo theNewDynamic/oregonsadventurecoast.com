@@ -61,7 +61,9 @@
             <p class="date">{{ dateFormat "Jan 2, 2006" .Params.startdate }}</p>
             {{ end }}
 
-            {{ .Content }}
+            <div class="user-content">
+                {{ .Content }}
+            </div>
         </div>
 
         <div class="mobile-event-details -small clearfix">

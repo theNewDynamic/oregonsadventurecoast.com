@@ -4,3 +4,11 @@
     margin-bottom: 1rem;
   }
 }
+
+.user-content{
+  img + figcaption{
+    text-align: center;
+    padding:0.3em 1rem;
+    font-size: .8em;
+  }
+}
