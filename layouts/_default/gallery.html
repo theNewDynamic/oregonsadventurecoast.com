@@ -12,15 +12,18 @@
             {{ with .Params.gallery }}
                 <div id="lightgallery" class="m-content-columns" data-columns="3">
                     {{ range . }}
-                        <a href="{{ .image }}" class="m-content-columns__col" data-sub-html=".caption">
-                            <img src="{{ .image }}">
-                            {{ with .title }}
-                            <div class="caption">
-                               <h4>{{ . }}</h4>
+                        <a href="{{ .image }}" 
+                            class="m-content-columns__col gallery__item" 
+                            style="background-image: url({{ .image | safeCSS }});"
+                            data-sub-html=".gallery__item__caption"
+                        >
+                        {{ with .title }}
+                            <div class="gallery__item__caption">
+                                {{ . }}
                             </div>
-                            {{ end }}
-         
+                        {{ end }}
                         </a>
+                        
                     {{ end }}
                 </div>
             {{ end }}

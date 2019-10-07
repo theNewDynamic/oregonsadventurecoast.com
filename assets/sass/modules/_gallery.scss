@@ -1,0 +1,16 @@
+.gallery__item{
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 100%;
+  opacity: 0.8;
+  background-repeat: no-repeat;
+  transition: 300ms;
+  &:hover{
+    background-size: 200%;
+    opacity: 1;
+  }
+
+  &__caption{
+    display: none;
+  }
+}

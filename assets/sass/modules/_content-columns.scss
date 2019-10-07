@@ -1,7 +1,7 @@
 .m-content-columns{
     display:grid;
     grid-template-columns:1fr;
-    grid-gap:2%;
+    grid-gap:1rem;
 }
 @media (min-width:$xsmall) {
     .m-content-columns[data-columns="2"]{
