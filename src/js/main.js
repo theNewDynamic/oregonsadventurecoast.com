@@ -41,3 +41,16 @@
         $(this).next('.m-share').toggle();
     });
 })(jQuery);
+
+/* Adding caption to images in news pages */
+var richTextImages = document.querySelectorAll(".user-content img");
+if (richTextImages) {
+    richTextImages.forEach(function(element) {
+    var title = element.getAttribute("title");
+    var caption =
+        "<figcaption>" + title + "</figcaption>";
+    if (title !== null) {
+        element.insertAdjacentHTML("afterend", caption);
+    }
+    });
+}

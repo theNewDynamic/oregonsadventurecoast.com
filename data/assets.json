@@ -28,8 +28,8 @@
     "jsIntegrity": "sha256-2+ZsgonT9mMRF87b5gD1G2UVkhXBSoV85ENYaL6fHOE="
   },
   "main": {
-    "js": "/dist/main.0dfc7275f027132b2f82.js",
-    "jsIntegrity": "sha256-1tf+iEO6/J63q1BN2gpoqHlqKLr43T6ZpwHcDnZNnxc="
+    "js": "/dist/main.f7827229515a8b9193ce.js",
+    "jsIntegrity": "sha256-yM21v8iBN1gJahVpzyT3e/KAnmrb9dy085LUqNXYSs4="
   },
   "search": {
     "js": "/dist/search.07d7d01ae1870c8920fc.js",
