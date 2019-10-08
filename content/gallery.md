@@ -15,6 +15,10 @@ gallery:
   image: "/img/shore-acres-flower-viewing.jpg"
 - title: Shore Acres Flowers in Truck
   image: "/img/shore-acres-flowers.jpg"
+- title: ATV'ing in the Dunes
+  image: "/img/dunes-high-five.jpg"
+- title: ''
+  image: ''
 seo:
   title: ''
   description: ''
