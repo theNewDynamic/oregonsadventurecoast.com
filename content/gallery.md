@@ -3,6 +3,18 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
+- title: ''
+  image: ''
+- title: ''
+  image: ''
+- title: ''
+  image: ''
+- title: ''
+  image: ''
+- title: ''
+  image: ''
+- title: Couple Kayaking at Sunrise
+  image: "/img/kayaking-adults-back.jpg"
 - title: Couple Kayaking
   image: "/img/kayaking-adults.jpg"
 - title: Hiking in Dunes
@@ -26,4 +38,4 @@ seo:
   image: ''
 
 ---
-Preview This Page
+Contact us for use of any of the following images. We require 
