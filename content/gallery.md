@@ -17,8 +17,8 @@ gallery:
   image: "/img/shore-acres-flowers.jpg"
 - title: ATV'ing in the Dunes
   image: "/img/dunes-high-five.jpg"
-- title: ''
-  image: ''
+- title: Dining with Bay View
+  image: "/img/dining-overlook.jpg"
 seo:
   title: ''
   description: ''
