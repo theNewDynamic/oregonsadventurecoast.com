@@ -3,8 +3,8 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
-- title: ''
-  image: ''
+- title: Selfie in the Dunes
+  image: "/img/selfie-in-dunes.jpg"
 - title: Polar Bear Plunge on New Year's Day
   image: "/img/polar-bear-plunge.jpg"
 - title: Cape Arago Lighthouse
