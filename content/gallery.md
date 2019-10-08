@@ -5,8 +5,8 @@ photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
 - title: Shopping in Downtown Coos Bay
   image: "/img/shopping-coos-bay.jpg"
-- title: ''
-  image: ''
+- title: Sunset Bay at Sunset
+  image: "/img/sunset-bay-van.jpg"
 - title: ''
   image: ''
 - title: ''
