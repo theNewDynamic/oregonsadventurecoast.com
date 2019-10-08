@@ -7,8 +7,8 @@ gallery:
   image: "/img/shopping-coos-bay.jpg"
 - title: Sunset Bay at Sunset
   image: "/img/sunset-bay-van.jpg"
-- title: ''
-  image: ''
+- title: Surfers Running into Water at Sunset
+  image: "/img/surfers-running-sunset.jpg"
 - title: ''
   image: ''
 - title: Selfie in the Dunes
