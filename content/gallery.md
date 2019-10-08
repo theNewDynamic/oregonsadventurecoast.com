@@ -9,8 +9,8 @@ gallery:
   image: "/img/hiking-dunes.jpg"
 - title: Charleston Marina
   image: "/img/charleston-marina.jpg"
-- title: ''
-  image: ''
+- title: Family Crabbing in Charleston
+  image: "/img/crabbing-family.jpg"
 - title: ''
   image: ''
 - title: ''
