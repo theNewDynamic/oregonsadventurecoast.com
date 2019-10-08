@@ -46,12 +46,6 @@ seo:
   image: ''
 
 ---
-If you are media or a meeting planner looking to download images, we have an amazing collection of assets you can peruse.
-
-**Instructions:**
-
-1. Contact us at [info@OregonsAdventureCoast.com](mailto:info@OregonsAdventureCoast.com). Please clearly state your intended usage for our records, and the specific image you would like to use.
-2. Someone will review your request.
-3. Once your request is approved, you will receive a download link for a high res, non-watermarked image.
+If you are media or a meeting planner looking for images, we have a wonderful collection of assets to consider. Contact us at [info@OregonsAdventureCoast.com](mailto:info@OregonsAdventureCoast.com). Please clearly state your intended usage for our records, and the specific image you would like to use.Once your request is approved, you will receive a download link for a high res, non-watermarked image.
 
 Thank you for your interest in our beautiful area!
