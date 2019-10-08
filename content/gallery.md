@@ -9,8 +9,8 @@ gallery:
   image: "/img/sunset-bay-van.jpg"
 - title: Surfers Running into Water at Sunset
   image: "/img/surfers-running-sunset.jpg"
-- title: ''
-  image: ''
+- title: Surfers Walking at Sunset
+  image: "/img/surfing-sunset.jpg"
 - title: Selfie in the Dunes
   image: "/img/selfie-in-dunes.jpg"
 - title: Polar Bear Plunge on New Year's Day
