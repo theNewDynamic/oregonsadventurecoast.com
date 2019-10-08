@@ -3,10 +3,18 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
-- title: Hiking in Dunes
-  image: "/img/hiking-dunes.jpg"
 - title: Couple Kayaking
   image: "/img/kayaking-adults.jpg"
+- title: Hiking in Dunes
+  image: "/img/hiking-dunes.jpg"
+- title: Charleston Marina
+  image: "/img/charleston-marina.jpg"
+- title: ''
+  image: ''
+- title: ''
+  image: ''
+- title: ''
+  image: ''
 seo:
   title: ''
   description: ''
