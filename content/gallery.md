@@ -7,8 +7,8 @@ gallery:
   image: ''
 - title: ''
   image: ''
-- title: ''
-  image: ''
+- title: Cape Arago Lighthouse
+  image: "/img/lighthouse-1.jpg"
 - title: Cape Arago at Sunrise
   image: "/img/cape-arago.jpg"
 - title: Biking on Coos Bay Boardwalk
@@ -38,4 +38,12 @@ seo:
   image: ''
 
 ---
-Contact us for use of any of the following images. We require 
+If you are media or a meeting planner looking to download images, we have an amazing collection of assets you can peruse.
+
+**Instructions:**
+
+1. Contact us at [info@OregonsAdventureCoast.com](mailto:info@OregonsAdventureCoast.com). Please clearly state your intended usage for our records, and the specific image you would like to use.
+2. Someone will review your request.
+3. Once your request is approved, you will receive a download link for a high res, non-watermarked image.
+
+Thank you for your interest in our beautiful area!
