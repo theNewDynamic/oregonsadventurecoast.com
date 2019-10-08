@@ -9,8 +9,8 @@ gallery:
   image: ''
 - title: ''
   image: ''
-- title: ''
-  image: ''
+- title: Cape Arago at Sunrise
+  image: "/img/cape-arago.jpg"
 - title: Biking on Coos Bay Boardwalk
   image: "/img/biking-coos-bay-boardwalk.jpg"
 - title: Couple Kayaking
