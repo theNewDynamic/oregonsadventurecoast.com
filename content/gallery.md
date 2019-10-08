@@ -13,8 +13,8 @@ gallery:
   image: "/img/crabbing-family.jpg"
 - title: Shore Acres Viewing Flowers
   image: "/img/shore-acres-flower-viewing.jpg"
-- title: ''
-  image: ''
+- title: Shore Acres Flowers in Truck
+  image: "/img/shore-acres-flowers.jpg"
 seo:
   title: ''
   description: ''
