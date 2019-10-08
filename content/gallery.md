@@ -11,8 +11,8 @@ gallery:
   image: "/img/charleston-marina.jpg"
 - title: Family Crabbing in Charleston
   image: "/img/crabbing-family.jpg"
-- title: ''
-  image: ''
+- title: Shore Acres Viewing Flowers
+  image: "/img/shore-acres-flower-viewing.jpg"
 - title: ''
   image: ''
 seo:
