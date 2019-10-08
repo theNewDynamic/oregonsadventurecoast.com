@@ -11,12 +11,12 @@ gallery:
   image: ''
 - title: ''
   image: ''
-- title: ''
-  image: ''
-- title: Couple Kayaking at Sunrise
-  image: "/img/kayaking-adults-back.jpg"
+- title: Biking on Coos Bay Boardwalk
+  image: "/img/biking-coos-bay-boardwalk.jpg"
 - title: Couple Kayaking
   image: "/img/kayaking-adults.jpg"
+- title: Couple Kayaking at Sunrise
+  image: "/img/kayaking-adults-back.jpg"
 - title: Hiking in Dunes
   image: "/img/hiking-dunes.jpg"
 - title: Charleston Marina
