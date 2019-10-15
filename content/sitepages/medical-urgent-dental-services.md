@@ -11,3 +11,31 @@ seo:
 draft: true
 
 ---
+### OREGON’S ADVENTURE COAST TOWNS
+
+This beautiful section of the Oregon coastline is known as Oregon’s Adventure Coast for several reasons and when you arrive in the area, you will easily see why. Check out more information below to see what makes each of our towns unique.
+
+{{< columns number="2" >}}
+
+![](/img/bay-area-hospital.jpg)
+
+#### Bay Area Hospital
+
+1775 Thompson Road  
+Coos Bay, Oregon 97420  
+541-269-8111  
+<a href="[http://www.bayareahospital.org/](http://www.bayareahospital.org/ "http://www.bayareahospital.org/")" class="learn-more-anywhere-btn">bayareahospital.org</a>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\++++
+
+![North Bend Medical Center in North Bend, Oregon](/img/north-bend-medical-center-1.jpg)
+
+#### Charleston
+
+A quaint fishing village with a bustling marina, Charleston hosts the freshest seafood around. It is also the entry point to some of the finest beaches and scenery in the whole Pacific Northwest.
+
+<a href="/our-area-charleston" class="learn-more-anywhere-btn">Learn More »</a>
+
+{{< /columns >}}
