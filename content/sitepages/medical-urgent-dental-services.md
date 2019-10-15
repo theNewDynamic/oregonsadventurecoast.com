@@ -24,7 +24,7 @@ This beautiful section of the Oregon coastline is known as Oregon’s Adventure 
 1775 Thompson Road  
 Coos Bay, Oregon 97420  
 (541) 269-8111  
-<a href="[http://www.bayareahospital.org/](http://www.bayareahospital.org/ "http://www.bayareahospital.org/")" class="learn-more-anywhere-btn">bayareahospital.org</a>
+<a href="[http://www.bayareahospital.org/](http://www.bayareahospital.org/ "http://www.bayareahospital.org/")" class="learn-more-anywhere-btn">www.bayareahospital.org</a>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -32,10 +32,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![North Bend Medical Center in North Bend, Oregon](/img/north-bend-medical-center-1.jpg)
 
-#### Charleston
+#### North Bend Medical Center
 
-A quaint fishing village with a bustling marina, Charleston hosts the freshest seafood around. It is also the entry point to some of the finest beaches and scenery in the whole Pacific Northwest.
+1900 Woodland Drive  
+Coos Bay, OR 97420  
+(541) 267-5151  
+<a href="[http://www.](http://www.bayareahospital.org/ "http://www.bayareahospital.org/")nbmchealth" class="learn-more-anywhere-btn">www.nbmchealth.com</a>
 
-<a href="/our-area-charleston" class="learn-more-anywhere-btn">Learn More »</a>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 {{< /columns >}}
