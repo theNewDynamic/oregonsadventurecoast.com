@@ -37,6 +37,6 @@ The best viewing times tend to be November through March.
 
 {{< youtube "yTeho70rQFo" >}}
 
-<br><br>
+<br>
 
 {{< youtube "vEcmD88vgtA" >}}
