@@ -1,22 +1,28 @@
 ---
 title: Charleston to Bandon Tour Route
-description: >-
-  A short spur off the Pacific Coast Scenic Byway, this Route showcases a
-  glorious stretch of coastline that includes six state parks, two National
-  Wildlife Refuges and America’s first National Estuarine Research Reserve.
+description: A short spur off the Pacific Coast Scenic Byway, this Route showcases
+  a glorious stretch of coastline that includes six state parks, two National Wildlife
+  Refuges and America’s first National Estuarine Research Reserve.
 durations:
-  - full-day
-  - half-day
+- full-day
+- half-day
 towns:
-  - charleston
+- charleston
 tripadventures:
-  - beach
-  - lighthouses
-  - scenic-drives
-  - state-parks-national-lands
-image: /img/wave-crash-charleston-bandon-tour.jpg
+- beach
+- lighthouses
+- scenic-drives
+- state-parks-national-lands
+image: "/img/wave-crash-charleston-bandon-tour.jpg"
+
 ---
+{{< floatimage src="/img/charleston-to-bandon-cover-icon.png" float="right" alt="Charleston to Bandon Scenic Tour Driving Map" size="20" >}} 
+
 A short spur off the Pacific Coast Scenic Byway, this Route showcases a glorious stretch of coastline that includes six state parks, two National Wildlife Refuges and America’s first National Estuarine Research Reserve.
+
+[Download our Charleston to Bandon Scenic Tour Driving Map.](/img/charleston-to-bandon-map.pdf "charleston-to-bandon-map.pdf")
+
+<div class="clearfix margin-30px-top"></div>
 
 ### To Coos Head
 
