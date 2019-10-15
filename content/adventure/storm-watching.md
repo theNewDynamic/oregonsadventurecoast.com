@@ -17,9 +17,7 @@ The Oregon Coast is famous for drama-the good kind!  Fall and winter is the best
 
 As Oregon Coast experts, we can assure you that it doesn’t matter how many times you have witnessed Mother Nature’s fury over the mighty Pacific, storm watchers have a different experience each and every time.
 
-{{< floatimage src="/img/wave-crash-panoramic.jpg" float="none" alt="Shore Acres State Park Wave Crash" size="undefined" >}}
-
-Stormwatching has more to do with the ocean conditions rather than the actual weather conditions.  When conditions in the ocean create large swells, they translate into amazing wave action. A 15 – 20 foot swell will turn into a wave over 100 feet high!
+![Storm Watching on Oregon's Adventure Coast at Shore Acres State Park](/img/storm-watch-collage-695x322.jpg)Stormwatching has more to do with the ocean conditions rather than the actual weather conditions.  When conditions in the ocean create large swells, they translate into amazing wave action. A 15 – 20 foot swell will turn into a wave over 100 feet high!
 
 Shore Acres State Park is often lauded as the best stormwatching spot on the entire Oregon Coast. Perched on top of an 80 foot cliff, this location allows for a safe distance above the waves while enjoying fantastic views.
 
