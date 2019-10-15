@@ -24,7 +24,7 @@ A short spur off the Pacific Coast Scenic Byway, this Route showcases a glorious
 
 <div class="clearfix"></div>
 
-### To Coos Head
+# To Coos Head
 
 From North Bend, take Cape Arago Highway to Charleston, a working fishing port and a great point of departure for a charter fishing trip. Soon you’ll pass the Oregon Institute of Marine Biology, a teaching and research extension of the University of Oregon, and Coos Head, which offers a fascinating look at the mouth of this dynamic estuary. Driving south, you’ll reach Bastendorff Beach County Park, a popular surfing spot.
 
