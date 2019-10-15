@@ -12,9 +12,10 @@ seo:
 ## GET OUT OF TOWN!
 
 
-{{< floatimage src="/img/charleston-to-bandon-cover-icon.png" float="left" alt="Charleston to Bandon Scenic Tour Driving Map" size="20" >}} 
+{{< floatimage src="/img/charleston-to-bandon-cover-icon.png" float="left" alt="Charleston to Bandon Scenic Tour Driving Map" size="30" >}} 
 
 You came for adventure.  You might not always think of an afternoon drive, or a casual moonlit evening outing as adventure, but if you do it here, you will.  From urban lights, to sunsets or moon-lit ocean backdrops, to inland rivers and parks, a part of your adventure can be just cruising in your car.
+
 [Download our Charlestong to Bandon Scenic Tour Driving Map (PDF).](/img/charleston-to-bandon-map.pdf "charleston-to-bandon-map.pdf")
 
 <div class="clearfix margin-30px-top"></div>
