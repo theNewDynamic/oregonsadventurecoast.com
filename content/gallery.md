@@ -46,6 +46,6 @@ seo:
   image: ''
 
 ---
-Thank you for your interest in our beautiful area! We are happy to offer our resources for your project. 
+Thank you for your interest in our beautiful area! If you are media or a meeting planner looking for images, we are happy to offer our wonderful assets for your to consider.
 
-If you are media or a meeting planner looking for images, we have a wonderful collection of assets to consider. Contact us at [info@OregonsAdventureCoast.com](mailto:info@OregonsAdventureCoast.com). Please clearly state your intended usage for our records, and the specific image you would like to use.Once your request is approved, you will receive a download link for a high res, non-watermarked image.
+Contact us at [info@OregonsAdventureCoast.com](mailto:info@OregonsAdventureCoast.com). Please clearly state your intended usage for our records, and the specific image you would like to use. Once your request is approved (and our approval process is qu, you will receive a download link for a high res, non-watermarked image.
