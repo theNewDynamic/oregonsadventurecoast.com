@@ -2,7 +2,7 @@
 title: Medical, Urgent & Dental Services
 url: medical-urgent-dental
 layout: travelersinfo
-photo: "/img/medical-subpage-header.jpg"
+photo: "/img/medical-subpage-header-02.jpg"
 seo:
   title: ''
   description: ''
