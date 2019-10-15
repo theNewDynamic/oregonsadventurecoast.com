@@ -27,9 +27,7 @@ A whopping five of Oregon’s nine lighthouses are within one hour of the Coos B
 
 #### Charleston to Bandon Tour Route
 
-This chunk of Pacific Coast Scenic Byway, showcases a glorious stretch of coastline.  Included in this drive, are six state parks, two National Wildlife Refuges, and America’s first National Estuarine Research Reserve. [Visit our Trip Ideas page for the whole story!](/tripideas/charleston-to-bandon-tour-route/)  
-
-[Download our Charleston Bandon Tour Route Map (PDF)](/img/charleston-to-bandon-map.pdf "charleston-to-bandon-map.pdf")
+This chunk of Pacific Coast Scenic Byway, showcases a glorious stretch of coastline.  Included in this drive, are six state parks, two National Wildlife Refuges, and America’s first National Estuarine Research Reserve. [Visit our Trip Ideas page for the whole story!](/tripideas/charleston-to-bandon-tour-route/) [Download our Charleston Bandon Tour Route Map (PDF)](/img/charleston-to-bandon-map.pdf "charleston-to-bandon-map.pdf")
 
 <div class="clearfix margin-30px-top"></div>
 
