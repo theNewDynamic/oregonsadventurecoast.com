@@ -12,7 +12,7 @@ seo:
 ## GET OUT OF TOWN!
 
 
-{{< floatimage src="/img/charleston-to-bandon-cover-icon.png" float="left" alt="Charleston to Bandon Scenic Tour Driving Map" size="30" >}} 
+{{< floatimage src="/img/charleston-to-bandon-cover-icon.png" float="right" alt="Charleston to Bandon Scenic Tour Driving Map" size="25" >}} 
 
 You came for adventure.  You might not always think of an afternoon drive, or a casual moonlit evening outing as adventure, but if you do it here, you will.  From urban lights, to sunsets or moon-lit ocean backdrops, to inland rivers and parks, a part of your adventure can be just cruising in your car.
 
