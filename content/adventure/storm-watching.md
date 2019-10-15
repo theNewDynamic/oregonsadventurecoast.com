@@ -9,6 +9,8 @@ seo:
   title: 'Oregon Coast Things to Do - Storm Watching | Oregon''s Adventure Coast '
 
 ---
+![Best Storm Watching on the Oregon Coast, Shore Acres State Park](/img/storm-watching-logo-695-x-322.jpg)
+
 ## THE MAJESTY OF MOTHER NATURE
 
 The Oregon Coast is famous for drama-the good kind!  Fall and winter is the best time to watch dramatic wave crashes reaching up to 300 feet high resulting from winter storms on the Pacific during the months of November through March.
@@ -25,7 +27,16 @@ The safest areas to view winter storms are at the storm watching hut at Shore Ac
 
 The best viewing times tend to be November through March.
 
+{{< youtube "fKK3nZvM_go" >}}
+
+<br><br>
+
 {{< youtube "jdnrfyh4gRc" >}}
+
 <br><br>
 
 {{< youtube "yTeho70rQFo" >}}
+
+<br><br>
+
+{{< youtube "vEcmD88vgtA" >}}
