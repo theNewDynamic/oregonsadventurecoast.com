@@ -22,7 +22,7 @@ A short spur off the Pacific Coast Scenic Byway, this Route showcases a glorious
 
 [Download our Charleston to Bandon Scenic Tour Driving Map.](/img/charleston-to-bandon-map.pdf "charleston-to-bandon-map.pdf")
 
-<div class="clearfix margin-30px-top"></div>
+<div class="clearfix margin-10px-top"></div>
 
 ### To Coos Head
 
