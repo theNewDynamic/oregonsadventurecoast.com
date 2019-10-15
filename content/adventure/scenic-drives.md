@@ -1,13 +1,13 @@
 ---
 title: Scenic Drives
-url: /scenic-drives
-photo: /img/scenic-drives-sub-header.jpg
+url: "/scenic-drives"
+photo: "/img/scenic-drives-sub-header.jpg"
 seo:
-  description: >-
-    Plan a scenic drive on your Oregon Coast vacation! Lots of things to see and
-    do: from urban lights, to sunsets or moonlit ocean backdrops, to rivers &
-    parks, a part of your adventure can be cruising in your car.
+  description: 'Plan a scenic drive on your Oregon Coast vacation! Lots of things
+    to see and do: from urban lights, to sunsets or moonlit ocean backdrops, to rivers
+    & parks, a part of your adventure can be cruising in your car.'
   title: Oregon Coast Things to Do - Scenic Drives | Oregon's Adventure Coast
+
 ---
 ## GET OUT OF TOWN!
 
@@ -27,7 +27,9 @@ A whopping five of Oregon’s nine lighthouses are within one hour of the Coos B
 
 #### Charleston to Bandon Tour Route
 
-This chunk of Pacific Coast Scenic Byway, showcases a glorious stretch of coastline.  Included in this drive, are six state parks, two National Wildlife Refuges, and America’s first National Estuarine Research Reserve. [Visit our Trip Ideas page for the whole story!](/tripideas/charleston-to-bandon-tour-route/)
+This chunk of Pacific Coast Scenic Byway, showcases a glorious stretch of coastline.  Included in this drive, are six state parks, two National Wildlife Refuges, and America’s first National Estuarine Research Reserve. [Visit our Trip Ideas page for the whole story!](/tripideas/charleston-to-bandon-tour-route/)  
+
+[Download our Charleston Bandon Tour Route Map (PDF)](/img/charleston-to-bandon-map.pdf "charleston-to-bandon-map.pdf")
 
 <div class="clearfix margin-30px-top"></div>
 
