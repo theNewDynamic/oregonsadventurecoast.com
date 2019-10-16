@@ -3,6 +3,8 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
+- title: ATV'ing Superheros in the Dunes
+  image: "/img/Girlfriends-Dunes.jpg"
 - title: ATV'ing in the Dunes
   image: "/img/Tourism-'Ladies-Getaway'-17.jpg"
 - title: Cycling at Whiskey Run
