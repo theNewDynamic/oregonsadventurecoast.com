@@ -8,7 +8,7 @@ gallery:
 - title: Sunset Bay at Sunset
   image: "/img/sunset-bay-van.jpg"
 - title: Couple Kayaking
-  image: "/img/kayaking-adults.jpg"
+  image: "/img/kayaking-adults-1.jpg"
 - title: Couple Kayaking at Sunrise
   image: "/img/kayaking-adults-back.jpg"
 - title: Hiking in Dunes
