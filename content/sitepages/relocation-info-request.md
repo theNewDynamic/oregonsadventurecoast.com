@@ -41,24 +41,24 @@ Executive Director: Sam Baugh
 
 ## Professional Development/Employee Training Services
 
-The [Southwestern Oregon Community College](https://www.socc.edu) (SWOCC) Small Business Development Center provides practical business information including confidential advising services, referrals to business assistance programs, affordable business training and a multitude of business resources for business success.  We focus on the retention and expansion of established businesses, as well as helping businesses get started.  Advising services are free and include: marketing, financing sources, growth, cash flow, record keeping, technology, customer service, business planning, strategic planning, export/import, human resources, sales skills, budgeting, market research, lender relations and much more.  Upcoming training programs are listed on the [SWOCC website](https://www.socc.edu) or at <a href="https://bizcenter.org" target="_blank">www.BizCenter.org</a>.  A free, confidential business advising session or registration for a low cost training can be scheduled by calling 541-756-6866 or emailing Mary Loiselle at [mailto:mloiselle@socc.edu](mailto:mloiselle@socc.edu).
+The [Southwestern Oregon Community College](https://www.socc.edu) (SWOCC) Small Business Development Center provides practical business information including confidential advising services, referrals to business assistance programs, affordable business training and a multitude of business resources for business success.  We focus on the retention and expansion of established businesses, as well as helping businesses get started.  Advising services are free and include: marketing, financing sources, growth, cash flow, record keeping, technology, customer service, business planning, strategic planning, export/import, human resources, sales skills, budgeting, market research, lender relations and much more.  Upcoming training programs are listed on the [SWOCC website](https://www.socc.edu) or at [www.BizCenter.org](https://bizcenter.org).  A free, confidential business advising session or registration for a low cost training can be scheduled by calling 541-756-6866 or emailing Mary Loiselle at [mloiselle@socc.edu](mailto:mloiselle@socc.edu).
 
 ## Workforce Development
 
-<a href="https://www.socc.edu" target="_blank">Southwestern’s Workforce Development Department</a> delivers high-quality technical and professional training in career-oriented programs that are specific to your employees needs. Whether your organization is for-profit or non-profit, private, public or government, we have experience in a wide variety of industry settings. Trainings can be delivered on-site, on campus or online. For more information, call (541) 888-7328.
-
-{{< columns number="2" >}}
+[Southwestern’s Workforce Development Department](https://www.socc.edu) delivers high-quality technical and professional training in career-oriented programs that are specific to your employees needs. Whether your organization is for-profit or non-profit, private, public or government, we have experience in a wide variety of industry settings. Trainings can be delivered on-site, on campus or online. For more information, call (541) 888-7328.
 
 ## Downtown/Merchants Associations
 
-**<a href="http://coosbaydowntown.org" target="_blank">Coos Bay Downtown Association</a>/**
+{{< columns number="2" >}}
+
+[**Coos Bay Downtown Association**](http://coosbaydowntown.org)
 Contact: Holly Boardman, Executive Director
 (541)266-9706
 [mailto:director@coosbaydowntown.org](mailto:director@coosbaydowntown.org)
 
 \++++
 
-**<a href="https://charlestonoregonmerchants.com" target="_blank">Charleston Merchants Association</a>/**
+[**Charleston Merchants Association**](https://charlestonoregonmerchants.com)
 Contact: Tim Hyatt
 c/o Sunset Bay Golf Course
 (541) 888-9301
