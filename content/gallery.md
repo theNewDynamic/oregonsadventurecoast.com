@@ -3,6 +3,14 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
+- title: Cycling at Whiskey Run
+  image: "/img/Forest-7.jpg"
+- title: Enjoying Sunrise Coffee on the Bay
+  image: "/img/Tourism-'Ladies-Getaway'-31.jpg"
+- title: Charleston Close Up
+  image: "/img/180710_CoosBay1_028.jpg"
+- title: Shore Acres State Park
+  image: "/img/180709_ShoreAcres_021.jpg"
 - title: Shopping in Downtown Coos Bay
   image: "/img/shopping-coos-bay-1.jpg"
 - title: Sunset Bay at Sunset
