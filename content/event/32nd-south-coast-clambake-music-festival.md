@@ -30,7 +30,7 @@ seo:
   image: "/img/clambake-music-fest-medium-03.jpg"
 
 ---
-{{< floatimage src="/img/sccmusicfest_30thlogo-1.png" float="right" alt="31st Annual South Coast Clambake Music Festival" size="100" >}}
+{{< floatimage src="/img/southcoast-clambake-music-fest-logo.jpg" float="right" alt="Annual South Coast Clambake Music Festival" size="100" >}}
 
 Polish up those dancin’ shoes and get ready for the exciting musical extravaganza known as the South Coast Clambake Music Festival! The Clambake Music Festival features incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco! Dancers and music enthusiasts from up and down the West Coast, visit each year, as the Clambake Music Festival has developed a reputation as a favorite.
 
