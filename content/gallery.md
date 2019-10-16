@@ -28,13 +28,13 @@ gallery:
 - title: Cape Arago at Sunrise
   image: "/img/cape-arago-1.jpg"
 - title: Cape Arago Lighthouse
-  image: "/img/lighthouse-2.jpg"
+  image: "/img/lighthouse-3.jpg"
 - title: Biking on Coos Bay Boardwalk
   image: "/img/biking-coos-bay-boardwalk-1.jpg"
 - title: Charleston Marina
   image: "/img/charleston-marina-1.jpg"
 - title: Surfers Walking at Sunset
-  image: "/img/surfing-sunset-2.jpg"
+  image: "/img/surfing-sunset-1.jpg"
 - title: Surfers Running into Water at Sunset
   image: "/img/surfers-running-sunset-1.jpg"
 - title: Polar Bear Plunge on New Year's Day
