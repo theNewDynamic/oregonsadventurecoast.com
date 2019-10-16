@@ -65,8 +65,8 @@ c/o Sunset Bay Golf Course
 
 {{< /columns >}} 
 
-<a id=“relocationform“></a>
 
-## Relocation Information Request
+
+## <a id=“relocationform“></a>Relocation Information Request
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/83167269356164"></script>
