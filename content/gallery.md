@@ -32,13 +32,13 @@ gallery:
 - title: Biking on Coos Bay Boardwalk
   image: "/img/biking-coos-bay-boardwalk-1.jpg"
 - title: Charleston Marina
-  image: "/img/charleston-marina.jpg"
+  image: "/img/charleston-marina-1.jpg"
 - title: Surfers Walking at Sunset
-  image: "/img/surfing-sunset.jpg"
+  image: "/img/surfing-sunset-2.jpg"
 - title: Surfers Running into Water at Sunset
-  image: "/img/surfers-running-sunset.jpg"
+  image: "/img/surfers-running-sunset-1.jpg"
 - title: Polar Bear Plunge on New Year's Day
-  image: "/img/polar-bear-plunge.jpg"
+  image: "/img/polar-bear-plunge-1.jpg"
 seo:
   title: ''
   description: ''
