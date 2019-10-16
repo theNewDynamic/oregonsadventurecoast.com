@@ -19,7 +19,7 @@ We love when people want to join our community. Request a relocation packet and 
 
 ## Moving your business?
 
-We have many entities who are at your service for all your business needs and want to help make you successful. 
+We have many entities who are at your service for all your business needs and want to help make you successful.
 
 {{< columns number="2" >}}
 
@@ -37,7 +37,7 @@ Executive Director: Sam Baugh
 (541) 888-7003  
 [Sam@scdcinc.org](mailto:Sam@scdcinc.org)
 
-{{< columns >}}
+{{< /columns >}}
 
 ## Professional Development/Employee Training Services
 
@@ -63,7 +63,8 @@ Contact: Tim Hyatt
 c/o Sunset Bay Golf Course
 (541) 888-9301
 
-{{< columns >}}
+{{< /columns >}} 
+
 <a id=“relocationform“></a>
 
 ## Relocation Information Request
