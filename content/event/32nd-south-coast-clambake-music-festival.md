@@ -1,5 +1,5 @@
 ---
-title: 31st South Coast Clambake Music Festival
+title: South Coast Clambake Music Festival
 photo: "/img/clambake-music-fest-header-03.jpg"
 largeboxphoto: "/img/clambake-music-fest-large.jpg"
 mediumboxphoto: "/img/clambake-music-fest-medium-03.jpg"
