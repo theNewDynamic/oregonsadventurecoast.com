@@ -3,6 +3,8 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
+- title: ATV'ing in the Dunes
+  image: "/img/Tourism-'Ladies-Getaway'-17.jpg"
 - title: Cycling at Whiskey Run
   image: "/img/Forest-7.jpg"
 - title: Enjoying Sunrise Coffee on the Bay
