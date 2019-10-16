@@ -4,7 +4,7 @@ photo: "/img/aw-shucks-oyster-header.jpg"
 largeboxphoto: "/img/aw-shucks-oyster-Large.jpg"
 mediumboxphoto: "/img/aw-shucks-oyster-medium.jpg"
 smallboxphoto: "/img/aw-shucks-oyster-small.jpg"
-desktoptitle: Ah Shucks! 14th Annual Charleston Oyster Feed
+desktoptitle: Ah Shucks! 15th Annual Charleston Oyster Feed
 mobiletitle: Ah Shucks! Oyster Feed
 hovertitle: Ah Shucks! Oyster Feed
 hoverdescription: A celebration of the Oyster!
