@@ -24,12 +24,12 @@ We have many entities who are at your service for all your business needs and wa
 {{< columns number="2" >}}
 
 **<a href="http://coosbaynorthbendcharlestonchamber.com" target="_blank">Bay Area Chamber of Commerce</a>/**
-Executive Director: Timm Slater/  
-145 Central Ave, Coos Bay, OR 97420/  
-(541) 266-0868/  
+Executive Director: Timm Slater  
+145 Central Ave, Coos Bay, OR 97420  
+(541) 266-0868
 [mailto:timmslater@oregonsbayarea.org](mailto:timmslater@oregonsbayarea.org)
 
-\++++
+++++
 
 **<a href="https://www.scdcinc.org" target="_blank">South Coast Development Council</a>**
 Regional Site Selection and Business Expansion Services  
@@ -53,15 +53,15 @@ The [Southwestern Oregon Community College](https://www.socc.edu) (SWOCC) Small 
 ## Downtown/Merchants Associations
 
 **<a href="http://coosbaydowntown.org" target="_blank">Coos Bay Downtown Association</a>/**
-Contact: Holly Boardman, Executive Director/  
-(541)266-9706/
+Contact: Holly Boardman, Executive Director
+(541)266-9706
 [mailto:director@coosbaydowntown.org](mailto:director@coosbaydowntown.org)
 
-\++++
+++++
 
 **<a href="https://charlestonoregonmerchants.com" target="_blank">Charleston Merchants Association</a>/**
-Contact: Tim Hyatt/  
-c/o Sunset Bay Golf Course/  
+Contact: Tim Hyatt
+c/o Sunset Bay Golf Course
 (541) 888-9301
 
 {{< columns >}}
