@@ -1,14 +1,13 @@
 ---
 title: 8th Annual BBQ, Blues & Brews on the Bay
-photo: /img/bbq-blue-subpage-header.jpg
-largeboxphoto: /img/bbq-blues-event-large.jpg
-mediumboxphoto: /img/bbq-blues-event-medium.jpg
-smallboxphoto: /img/bbq-blues-event-small.jpg
+photo: "/img/bbq-blue-subpage-header.jpg"
+largeboxphoto: "/img/bbq-blues-event-large.jpg"
+mediumboxphoto: "/img/bbq-blues-event-medium.jpg"
+smallboxphoto: "/img/bbq-blues-event-small.jpg"
 desktoptitle: BBQ, Blues & Brews Festival
 mobiletitle: BBQ, Blues & Brews
-hovertitle: 'BBQ, Blues & Brews'
+hovertitle: BBQ, Blues & Brews
 hoverdescription: KCBS Sanctioned BBQ Event on the Bay!
-
 startdate: '2019-05-24'
 enddate: '2019-05-26'
 address:
