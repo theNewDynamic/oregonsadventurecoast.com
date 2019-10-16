@@ -3,6 +3,8 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
+- title: Shopping in North Bend
+  image: "/img/Painted-Zebra-8.jpg"
 - title: Stand Up Paddleboarding on Sunset Bay
   image: "/img/SunsetFire-Season-25-Rocky.jpg"
 - title: ATV'ing Superheros in the Dunes
