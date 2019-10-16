@@ -14,23 +14,23 @@ gallery:
 - title: Hiking in Dunes
   image: "/img/hiking-dunes-1.jpg"
 - title: Selfie in the Dunes
-  image: "/img/selfie-in-dunes.jpg"
+  image: "/img/selfie-in-dunes-1.jpg"
 - title: ATV'ing in the Dunes
-  image: "/img/dunes-high-five.jpg"
+  image: "/img/dunes-high-five-1.jpg"
 - title: Family Crabbing in Charleston
-  image: "/img/crabbing-family.jpg"
+  image: "/img/crabbing-family-1.jpg"
 - title: Shore Acres Viewing Flowers
-  image: "/img/shore-acres-flower-viewing.jpg"
+  image: "/img/shore-acres-flower-viewing-1.jpg"
 - title: Shore Acres Flowers in Truck
-  image: "/img/shore-acres-flowers.jpg"
+  image: "/img/shore-acres-flowers-1.jpg"
 - title: Dining with Bay View
-  image: "/img/dining-overlook.jpg"
+  image: "/img/dining-overlook-1.jpg"
 - title: Cape Arago at Sunrise
-  image: "/img/cape-arago.jpg"
+  image: "/img/cape-arago-1.jpg"
 - title: Cape Arago Lighthouse
-  image: "/img/lighthouse-1.jpg"
+  image: "/img/lighthouse-2.jpg"
 - title: Biking on Coos Bay Boardwalk
-  image: "/img/biking-coos-bay-boardwalk.jpg"
+  image: "/img/biking-coos-bay-boardwalk-1.jpg"
 - title: Charleston Marina
   image: "/img/charleston-marina.jpg"
 - title: Surfers Walking at Sunset
