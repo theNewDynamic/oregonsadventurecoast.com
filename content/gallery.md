@@ -6,13 +6,13 @@ gallery:
 - title: Shopping in Downtown Coos Bay
   image: "/img/shopping-coos-bay-1.jpg"
 - title: Sunset Bay at Sunset
-  image: "/img/sunset-bay-van.jpg"
+  image: "/img/sunset-bay-van-1.jpg"
 - title: Couple Kayaking
   image: "/img/kayaking-adults-1.jpg"
 - title: Couple Kayaking at Sunrise
-  image: "/img/kayaking-adults-back.jpg"
+  image: "/img/kayaking-adults-back-1.jpg"
 - title: Hiking in Dunes
-  image: "/img/hiking-dunes.jpg"
+  image: "/img/hiking-dunes-1.jpg"
 - title: Selfie in the Dunes
   image: "/img/selfie-in-dunes.jpg"
 - title: ATV'ing in the Dunes
