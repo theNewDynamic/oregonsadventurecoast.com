@@ -19,24 +19,23 @@ We love when people want to join our community. Request a relocation packet and 
 
 ## Moving your business?
 
-We have many entities who are at your service for all your business needs and want to help make you successful.
+We have many entities who are at your service for all your business needs and want to help make you successful. 
 
 {{< columns number="2" >}}
 
-**<a href="http://coosbaynorthbendcharlestonchamber.com" target="_blank">Bay Area Chamber of Commerce</a>/**
-Executive Director: Timm Slater  
+[**Bay Area Chamber of Commerce**](http://coosbaynorthbendcharlestonchamber.com) Executive Director: Timm Slater  
 145 Central Ave, Coos Bay, OR 97420  
-(541) 266-0868
-[mailto:timmslater@oregonsbayarea.org](mailto:timmslater@oregonsbayarea.org)
+(541) 266-0868  
+[timmslater@oregonsbayarea.org](mailto:timmslater@oregonsbayarea.org)
 
-++++
+\++++
 
-**<a href="https://www.scdcinc.org" target="_blank">South Coast Development Council</a>**
+[**South Coast Development Council**](https://www.scdcinc.org)
 Regional Site Selection and Business Expansion Services  
 Executive Director: Sam Baugh  
 2110 Newmark Ave, Coos Bay, OR 97420  
-(541) 888-7003   
-[mailto:Sam@scdcinc.org](Sam@scdcinc.org)
+(541) 888-7003  
+[Sam@scdcinc.org](mailto:Sam@scdcinc.org)
 
 {{< columns >}}
 
@@ -57,7 +56,7 @@ Contact: Holly Boardman, Executive Director
 (541)266-9706
 [mailto:director@coosbaydowntown.org](mailto:director@coosbaydowntown.org)
 
-++++
+\++++
 
 **<a href="https://charlestonoregonmerchants.com" target="_blank">Charleston Merchants Association</a>/**
 Contact: Tim Hyatt
