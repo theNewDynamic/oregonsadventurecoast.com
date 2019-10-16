@@ -39,6 +39,8 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 **Featuring the music of bands all across these United States!** <br>
 Enjoy the Dave Bennett Quartet from Detroit, Good Co. from Seattle, Dave Stuckey and the Hot House Gang from Los Angeles, Gator Nation from Sonoma California, Gino and Lone Gunmen from Temecula California, Phat Cat Swinger from Disneyland, Royal Jelly Jive form San Francisco, Barn Door Slammers from Portland, Lisa Mann from Portland, Bay City Swing from Coos Bay/North Bend Oregon and the Young Bucs from North Bend/Coos Bay Oregon!
 
+Festivities begin on Thursday, March 12th with a Warm Up Concert. Doors open at 6.
+
 For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks! Visit the website for details: [ClambakeJazz.com](https://clambakejazz.com). For a printable schedule, **Coming Soon**.
 
 ## The 2020 Lineup include:
