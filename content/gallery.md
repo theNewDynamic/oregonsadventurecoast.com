@@ -5,6 +5,14 @@ photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
 - title: ''
   image: ''
+- title: ''
+  image: ''
+- title: ''
+  image: ''
+- title: ''
+  image: ''
+- title: ''
+  image: ''
 - title: Enjoying Some Chocolate
   image: "/img/180711_CoosBay1321-1.jpg"
 - title: Tidepool Experience at the Charleston Marine Life Center
