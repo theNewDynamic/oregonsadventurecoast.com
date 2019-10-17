@@ -3,6 +3,24 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
+- title: Shore Acres Holiday Lights - Overview
+  image: "/img/HolidayLights-House-169.jpg"
+- title: Shore Acres Holiday Lights - House
+  image: "/img/HolidayLights-House-02-172.jpg"
+- title: Shore Acres Holiday Lights - Bushes & Trees
+  image: "/img/HolidayLights-Bushes-176.jpg"
+- title: Shore Acres Holiday Lights - Aerial 01
+  image: "/img/HolidayLights-Aerial-02-179.jpg"
+- title: Shore Acres Holiday Lights - Aerial 02
+  image: "/img/HolidayLights-Aerial-177.jpg"
+- title: Shore Acres Holiday Lights - Whale
+  image: "/img/HolidayLights-Whale-170.jpg"
+- title: Annual Prefontaine Run - Start 02
+  image: "/img/prefontaine-race-02.jpg"
+- title: Annual Prefontaine Run - Start
+  image: "/img/prefontaine-run.jpg"
+- title: Oregon's Adventure Coast Charleston Salmon Run
+  image: "/img/charleston-salmon-run.jpg"
 - title: Woodland Yoga Near Cape Arago
   image: "/img/Woodland Yoga-2.jpg"
 - title: Storm Watching at Shore Acres State Park
