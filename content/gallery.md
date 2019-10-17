@@ -4,7 +4,7 @@ layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
 - title: Hiking at the Falls
-  image: "/img/Falls-34.jpg"
+  image: "/img/Falls-34 copy.jpg"
 - title: Shopping in North Bend
   image: "/img/Painted-Zebra-8.jpg"
 - title: Stand Up Paddleboarding on Sunset Bay
