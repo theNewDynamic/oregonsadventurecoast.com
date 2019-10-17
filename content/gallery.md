@@ -13,14 +13,16 @@ gallery:
   image: "/img/dunes-high-five-1.jpg"
 - title: ATV'ing in the Dunes
   image: "/img/Tourism-'Ladies-Getaway'-17.jpg"
-- title: Coos History Museum - Portrait 02
-  image: "/img/Museum-2.jpg"
+- title: Tidepool Experience at the Charleston Marine Life Center
+  image: "/img/180711_CoosBay1426-1.jpg"
 - title: Coos History Museum - Boat Display
   image: /img/Tourism "Ladies Getaway"-39.jpg
 - title: Coos History Museum Portrait
   image: "/img/Museum-1.jpg"
 - title: Selfie in Front of the Painted Zebra in North Bend
   image: "/img/Painted-Zebra-13.jpg"
+- title: Coos Bay Farmers Market
+  image: "/img/180711_CoosBay0452.jpg"
 - title: Enjoying Some Chocolate
   image: "/img/180711_CoosBay1321-1.jpg"
 - title: Shopping in Downtown North Bend
@@ -57,24 +59,18 @@ gallery:
   image: "/img/Boat-Ride-Three.jpg"
 - title: Tall Ships
   image: "/img/180715_TallShips_475.jpg"
-- title: Tidepool Experience at the Charleston Marine Life Center
-  image: "/img/180711_CoosBay1426-1.jpg"
-- title: Three Women Hiking at the Falls - Vertical
-  image: "/img/180714_Waterfalls_345.jpg"
+- title: Hiking at the Falls
+  image: "/img/Falls-34 copy.jpg"
 - title: Hiking at the Falls - Vertical
   image: "/img/180714_Waterfalls_068.jpg"
+- title: Three Women Hiking at the Falls - Vertical
+  image: "/img/180714_Waterfalls_345.jpg"
 - title: Girlfriends Crabbing in Charleston
   image: "/img/Crabbing-On-Dock-Charleston.jpg"
 - title: Crabbing in Charleston
   image: "/img/180712_CoosBay1278.jpg"
 - title: Family Crabbing in Charleston
   image: "/img/crabbing-family-1.jpg"
-- title: Coos Bay Farmers Market
-  image: "/img/180711_CoosBay0452.jpg"
-- title: Hiking at the Falls
-  image: "/img/Falls-34 copy.jpg"
-- title: Shopping in North Bend
-  image: "/img/Painted-Zebra-8.jpg"
 - title: Dining with Bay View
   image: "/img/dining-overlook-1.jpg"
 - title: Enjoying Sunrise Coffee on the Bay
@@ -83,10 +79,10 @@ gallery:
   image: "/img/kayaking-adults-1.jpg"
 - title: Couple Kayaking at Sunrise
   image: "/img/kayaking-adults-back-1.jpg"
-- title: Kayaking on a Sunny Day
-  image: "/img/180712_CoosBay0645.jpg"
 - title: Ocean Kayaking at Sunset Bay Beach
   image: "/img/180712_CoosBay0211.jpg"
+- title: Kayaking on a Sunny Day
+  image: "/img/180712_CoosBay0645.jpg"
 - title: Stand Up Paddleboarding on Sunset Bay
   image: "/img/SunsetFire-Season-25-Rocky.jpg"
 - title: Cycling at Whiskey Run
