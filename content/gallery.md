@@ -43,8 +43,10 @@ gallery:
   image: "/img/FunFest-LittleGirl-Baloon.jpg"
 - title: Bay Area Fun Fest - Cruz the Coos
   image: "/img/FunFest-CruzCoos-YellowCar.jpg"
-- title: Storm Watching at Shore Acres State Park
+- title: Storm Watching at Shore Acres State Park - 01
   image: "/img/WaveCrash-8x6.jpg"
+- title: Storm Watching at Shore Acres State Park - 02
+  image: "/img/storm-watching-02.jpg"
 - title: 7 Devils - Girlfriends Toasting
   image: "/img/Girlfriends-7-Devis-Toast-Lg.jpg"
 - title: 7 Devils Enjoying the Music
