@@ -40,8 +40,9 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 
 ![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-music-v01-695x322.jpg)
 
-**Featuring the music of bands all across these United States!  
-**Enjoy the Dave Bennett Quartet from Detroit, Good Co. from Seattle, Dave Stuckey and the Hot House Gang from Los Angeles, Gator Nation from Sonoma California, Gino and Lone Gunmen from Temecula California, Phat Cat Swinger from Disneyland, Royal Jelly Jive form San Francisco, Barn Door Slammers from Portland, Lisa Mann from Portland, Bay City Swing from Coos Bay/North Bend Oregon and the Young Bucs from North Bend/Coos Bay Oregon!
+### Featuring the music of bands all across these United States!
+
+Enjoy the Dave Bennett Quartet from Detroit, Good Co. from Seattle, Dave Stuckey and the Hot House Gang from Los Angeles, Gator Nation from Sonoma California, Gino and Lone Gunmen from Temecula California, Phat Cat Swinger from Disneyland, Royal Jelly Jive form San Francisco, Barn Door Slammers from Portland, Lisa Mann from Portland, Bay City Swing from Coos Bay/North Bend Oregon and the Young Bucs from North Bend/Coos Bay Oregon!
 
 Festivities begin on Thursday, March 12th with a Warm Up Concert. Doors open at 6.
 
@@ -49,7 +50,7 @@ For Clambake Music Fans there are discounts from several Hotels, Motels and RV P
 
 ![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-music-v02-695x322.jpg)
 
-## The 2020 Lineup include:
+### The 2020 Lineup include:
 
 [**ALPHA, RHYTHM KINGS**](https://clambakejazz.com/alpha-rhythm-kings/) – The Alpha Rhythm Kings high-energy jazzy vibe has whisked them all over the globe, from the Greystone Mansion in Beverly Hills, to performances in Hungary, Austria, Germany, and back to the USA to play at the 2018 Grammy Awards Nominee San Francisco Chapter Celebration.
 
