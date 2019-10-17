@@ -5,8 +5,8 @@ photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
 - title: ''
   image: ''
-- title: ''
-  image: ''
+- title: Hiking at the Falls - Vertical
+  image: "/img/180714_Waterfalls_068.jpg"
 - title: Crabbing in Charleston
   image: "/img/180712_CoosBay1278.jpg"
 - title: Ocean Kayaking at Sunset Bay Beach
