@@ -3,6 +3,16 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
+- title: Shopping in Downtown North Bend
+  image: "/img/Painted-Zebra-8-1.jpg"
+- title: Coos History Museum - Portrait 02
+  image: "/img/Museum-2.jpg"
+- title: Coos History Museum Portrait
+  image: "/img/Museum-1.jpg"
+- title: Fourth of July Fireworks at The Mill Casino
+  image: "/img/MillCasino4thStevenMichael.jpg"
+- title: McCullough Bridge in North Bend
+  image: "/img/McCullough-Bridge-17.jpg"
 - title: Steve Prefontaine Mural at Night in Downtown Coos Bay
   image: "/img/IMG_0118.jpg"
 - title: 7 Devils - Girlfriends Toasting
