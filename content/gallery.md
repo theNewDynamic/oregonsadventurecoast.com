@@ -15,16 +15,8 @@ gallery:
   image: "/img/HolidayLights-Aerial-177.jpg"
 - title: Shore Acres Holiday Lights - Whale
   image: "/img/HolidayLights-Whale-170.jpg"
-- title: Annual Prefontaine Run - Start 02
-  image: "/img/prefontaine-race-02.jpg"
-- title: Annual Prefontaine Run - Start
-  image: "/img/prefontaine-run.jpg"
-- title: Oregon's Adventure Coast Charleston Salmon Run
-  image: "/img/charleston-salmon-run.jpg"
 - title: Woodland Yoga Near Cape Arago
   image: "/img/Woodland Yoga-2.jpg"
-- title: Storm Watching at Shore Acres State Park
-  image: "/img/WaveCrash-8x6.jpg"
 - title: Selfie in Front of the Painted Zebra in North Bend
   image: "/img/Painted-Zebra-13.jpg"
 - title: Shopping in Downtown North Bend
@@ -35,18 +27,26 @@ gallery:
   image: /img/Tourism "Ladies Getaway"-39.jpg
 - title: Coos History Museum Portrait
   image: "/img/Museum-1.jpg"
+- title: Oregon's Adventure Coast Charleston Salmon Run
+  image: "/img/charleston-salmon-run.jpg"
+- title: Annual Prefontaine Run - Start
+  image: "/img/prefontaine-run.jpg"
+- title: Annual Prefontaine Run - Start 02
+  image: "/img/prefontaine-race-02.jpg"
 - title: Fourth of July Fireworks at The Mill Casino
   image: "/img/MillCasino4thStevenMichael.jpg"
-- title: McCullough Bridge in North Bend
-  image: "/img/McCullough-Bridge-17.jpg"
-- title: Steve Prefontaine Mural at Night in Downtown Coos Bay
-  image: "/img/IMG_0118.jpg"
-- title: 7 Devils - Girlfriends Toasting
-  image: "/img/Girlfriends-7-Devis-Toast-Lg.jpg"
 - title: Bay Area Fun Festival - Enjoying Parade
   image: "/img/FunFest-LittleGirl-Baloon.jpg"
 - title: Bay Area Fun Fest - Cruz the Coos
   image: "/img/FunFest-CruzCoos-YellowCar.jpg"
+- title: McCullough Bridge in North Bend
+  image: "/img/McCullough-Bridge-17.jpg"
+- title: Storm Watching at Shore Acres State Park
+  image: "/img/WaveCrash-8x6.jpg"
+- title: Steve Prefontaine Mural at Night in Downtown Coos Bay
+  image: "/img/IMG_0118.jpg"
+- title: 7 Devils - Girlfriends Toasting
+  image: "/img/Girlfriends-7-Devis-Toast-Lg.jpg"
 - title: 7 Devils Enjoying the Music
   image: "/img/Front-Street-18.jpg"
 - title: East Side Drone Shot
@@ -65,26 +65,26 @@ gallery:
   image: "/img/180714_Waterfalls_068.jpg"
 - title: Crabbing in Charleston
   image: "/img/180712_CoosBay1278.jpg"
-- title: Ocean Kayaking at Sunset Bay Beach
-  image: "/img/180712_CoosBay0211.jpg"
 - title: Coos Bay Farmers Market
   image: "/img/180711_CoosBay0452.jpg"
 - title: Enjoying Some Chocolate
   image: "/img/180711_CoosBay1321-1.jpg"
 - title: Tidepool Experience at the Charleston Marine Life Center
   image: "/img/180711_CoosBay1426-1.jpg"
-- title: Kayaking on a Sunny Day
-  image: "/img/180712_CoosBay0645.jpg"
 - title: Hiking at the Falls
   image: "/img/Falls-34 copy.jpg"
 - title: Shopping in North Bend
   image: "/img/Painted-Zebra-8.jpg"
+- title: Couple Kayaking
+  image: "/img/kayaking-adults-1.jpg"
+- title: Couple Kayaking at Sunrise
+  image: "/img/kayaking-adults-back-1.jpg"
+- title: Kayaking on a Sunny Day
+  image: "/img/180712_CoosBay0645.jpg"
+- title: Ocean Kayaking at Sunset Bay Beach
+  image: "/img/180712_CoosBay0211.jpg"
 - title: Stand Up Paddleboarding on Sunset Bay
   image: "/img/SunsetFire-Season-25-Rocky.jpg"
-- title: ATV'ing Superheros in the Dunes
-  image: "/img/Girlfriends-Dunes.jpg"
-- title: ATV'ing in the Dunes
-  image: "/img/Tourism-'Ladies-Getaway'-17.jpg"
 - title: Cycling at Whiskey Run
   image: "/img/Forest-7.jpg"
 - title: Enjoying Sunrise Coffee on the Bay
@@ -97,14 +97,14 @@ gallery:
   image: "/img/shopping-coos-bay-1.jpg"
 - title: Sunset Bay at Sunset
   image: "/img/sunset-bay-van-1.jpg"
-- title: Couple Kayaking
-  image: "/img/kayaking-adults-1.jpg"
-- title: Couple Kayaking at Sunrise
-  image: "/img/kayaking-adults-back-1.jpg"
-- title: Hiking in Dunes
-  image: "/img/hiking-dunes-1.jpg"
 - title: Selfie in the Dunes
   image: "/img/selfie-in-dunes-1.jpg"
+- title: Hiking in Dunes
+  image: "/img/hiking-dunes-1.jpg"
+- title: ATV'ing in the Dunes
+  image: "/img/Tourism-'Ladies-Getaway'-17.jpg"
+- title: ATV'ing Superheros in the Dunes
+  image: "/img/Girlfriends-Dunes.jpg"
 - title: ATV'ing in the Dunes
   image: "/img/dunes-high-five-1.jpg"
 - title: Family Crabbing in Charleston
