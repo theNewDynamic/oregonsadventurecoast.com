@@ -3,6 +3,16 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
+- title: Steve Prefontaine Mural at Night in Downtown Coos Bay
+  image: "/img/IMG_0118.jpg"
+- title: 7 Devils - Girlfriends Toasting
+  image: "/img/Girlfriends-7-Devis-Toast-Lg.jpg"
+- title: Bay Area Fun Festival - Enjoying Parade
+  image: "/img/FunFest-LittleGirl-Baloon.jpg"
+- title: Bay Area Fun Fest - Cruz the Coos
+  image: "/img/FunFest-CruzCoos-YellowCar.jpg"
+- title: 7 Devils Enjoying the Music
+  image: "/img/Front-Street-18.jpg"
 - title: East Side Drone Shot
   image: "/img/EastSide-18.jpg"
 - title: Girlfriends Crabbing in Charleston
