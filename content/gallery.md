@@ -3,6 +3,16 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
+- title: Hiking in Dunes
+  image: "/img/hiking-dunes-1.jpg"
+- title: Selfie in the Dunes
+  image: "/img/selfie-in-dunes-1.jpg"
+- title: ATV'ing Superheros in the Dunes
+  image: "/img/Girlfriends-Dunes.jpg"
+- title: ATV'ing in the Dunes
+  image: "/img/dunes-high-five-1.jpg"
+- title: ATV'ing in the Dunes
+  image: "/img/Tourism-'Ladies-Getaway'-17.jpg"
 - title: Woodland Yoga Near Cape Arago
   image: "/img/Woodland Yoga-2.jpg"
 - title: Selfie in Front of the Painted Zebra in North Bend
@@ -39,14 +49,6 @@ gallery:
   image: "/img/Girlfriends-7-Devis-Toast-Lg.jpg"
 - title: 7 Devils Enjoying the Music
   image: "/img/Front-Street-18.jpg"
-- title: Hiking in Dunes
-  image: "/img/hiking-dunes-1.jpg"
-- title: ATV'ing Superheros in the Dunes
-  image: "/img/Girlfriends-Dunes.jpg"
-- title: ATV'ing in the Dunes
-  image: "/img/dunes-high-five-1.jpg"
-- title: ATV'ing in the Dunes
-  image: "/img/Tourism-'Ladies-Getaway'-17.jpg"
 - title: McCullough Bridge in North Bend
   image: "/img/McCullough-Bridge-17.jpg"
 - title: East Side Drone Shot
@@ -87,8 +89,6 @@ gallery:
   image: "/img/180712_CoosBay0211.jpg"
 - title: Stand Up Paddleboarding on Sunset Bay
   image: "/img/SunsetFire-Season-25-Rocky.jpg"
-- title: Selfie in the Dunes
-  image: "/img/selfie-in-dunes-1.jpg"
 - title: Cycling at Whiskey Run
   image: "/img/Forest-7.jpg"
 - title: Charleston Close Up
