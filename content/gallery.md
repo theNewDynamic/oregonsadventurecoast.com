@@ -3,6 +3,16 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
+- title: Woodland Yoga Near Cape Arago
+  image: "/img/Woodland Yoga-2.jpg"
+- title: Storm Watching at Shore Acres State Park
+  image: "/img/WaveCrash-8x6.jpg"
+- title: Coos History Museum - Boat Display
+  image: /img/Tourism "Ladies Getaway"-39.jpg
+- title: Stand Up Paddleboarding on Sunset Bay
+  image: "/img/SunsetFire-Season-25-Rocky-1.jpg"
+- title: Selfie in Front of the Painted Zebra in North Bend
+  image: "/img/Painted-Zebra-13.jpg"
 - title: Shopping in Downtown North Bend
   image: "/img/Painted-Zebra-8-1.jpg"
 - title: Coos History Museum - Portrait 02
