@@ -3,6 +3,14 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
+- title: ''
+  image: ''
+- title: ''
+  image: "/img/180711_CoosBay1321-1.jpg"
+- title: Tidepool Experience at the Charleston Marine Life Center
+  image: "/img/180711_CoosBay1426-1.jpg"
+- title: Kayaking on a Sunny Day
+  image: "/img/180712_CoosBay0645.jpg"
 - title: Hiking at the Falls
   image: "/img/Falls-34 copy.jpg"
 - title: Shopping in North Bend
