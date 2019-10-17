@@ -3,8 +3,18 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
-- title: ''
-  image: ''
+- title: East Side Drone Shot
+  image: "/img/EastSide-18.jpg"
+- title: Girlfriends Crabbing in Charleston
+  image: "/img/Crabbing-On-Dock-Charleston.jpg"
+- title: Cape Arago at Night with Stars
+  image: "/img/Cape-Arago-22.jpg"
+- title: Fun Sway Boat Trip on the Bay
+  image: "/img/Boat-Ride-Three.jpg"
+- title: Tall Ships
+  image: "/img/180715_TallShips_475.jpg"
+- title: Three Women Hiking at the Falls - Vertical
+  image: "/img/180714_Waterfalls_345.jpg"
 - title: Hiking at the Falls - Vertical
   image: "/img/180714_Waterfalls_068.jpg"
 - title: Crabbing in Charleston
