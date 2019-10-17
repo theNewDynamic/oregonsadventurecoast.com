@@ -13,20 +13,20 @@ gallery:
   image: "/img/dunes-high-five-1.jpg"
 - title: ATV'ing in the Dunes
   image: "/img/Tourism-'Ladies-Getaway'-17.jpg"
-- title: Woodland Yoga Near Cape Arago
-  image: "/img/Woodland Yoga-2.jpg"
-- title: Selfie in Front of the Painted Zebra in North Bend
-  image: "/img/Painted-Zebra-13.jpg"
-- title: Shopping in Downtown North Bend
-  image: "/img/Painted-Zebra-8-1.jpg"
 - title: Coos History Museum - Portrait 02
   image: "/img/Museum-2.jpg"
-- title: Enjoying Some Chocolate
-  image: "/img/180711_CoosBay1321-1.jpg"
 - title: Coos History Museum - Boat Display
   image: /img/Tourism "Ladies Getaway"-39.jpg
 - title: Coos History Museum Portrait
   image: "/img/Museum-1.jpg"
+- title: Selfie in Front of the Painted Zebra in North Bend
+  image: "/img/Painted-Zebra-13.jpg"
+- title: Enjoying Some Chocolate
+  image: "/img/180711_CoosBay1321-1.jpg"
+- title: Shopping in Downtown North Bend
+  image: "/img/Painted-Zebra-8-1.jpg"
+- title: Shopping in Downtown Coos Bay
+  image: "/img/shopping-coos-bay-1.jpg"
 - title: Oregon's Adventure Coast Charleston Salmon Run
   image: "/img/charleston-salmon-run.jpg"
 - title: Annual Prefontaine Run - Start
@@ -39,8 +39,6 @@ gallery:
   image: "/img/MillCasino4thStevenMichael.jpg"
 - title: Bay Area Fun Festival - Enjoying Parade
   image: "/img/FunFest-LittleGirl-Baloon.jpg"
-- title: Girlfriends Crabbing in Charleston
-  image: "/img/Crabbing-On-Dock-Charleston.jpg"
 - title: Bay Area Fun Fest - Cruz the Coos
   image: "/img/FunFest-CruzCoos-YellowCar.jpg"
 - title: Storm Watching at Shore Acres State Park
@@ -65,6 +63,8 @@ gallery:
   image: "/img/180714_Waterfalls_345.jpg"
 - title: Hiking at the Falls - Vertical
   image: "/img/180714_Waterfalls_068.jpg"
+- title: Girlfriends Crabbing in Charleston
+  image: "/img/Crabbing-On-Dock-Charleston.jpg"
 - title: Crabbing in Charleston
   image: "/img/180712_CoosBay1278.jpg"
 - title: Family Crabbing in Charleston
@@ -91,32 +91,32 @@ gallery:
   image: "/img/SunsetFire-Season-25-Rocky.jpg"
 - title: Cycling at Whiskey Run
   image: "/img/Forest-7.jpg"
-- title: Charleston Close Up
-  image: "/img/180710_CoosBay1_028.jpg"
-- title: Shopping in Downtown Coos Bay
-  image: "/img/shopping-coos-bay-1.jpg"
+- title: Woodland Yoga Near Cape Arago
+  image: "/img/Woodland Yoga-2.jpg"
 - title: Sunset Bay at Sunset
   image: "/img/sunset-bay-van-1.jpg"
 - title: Surfers Walking at Sunset
   image: "/img/surfing-sunset-1.jpg"
 - title: Surfers Running into Water at Sunset
   image: "/img/surfers-running-sunset-1.jpg"
-- title: Biking on Coos Bay Boardwalk
-  image: "/img/biking-coos-bay-boardwalk-1.jpg"
 - title: Polar Bear Plunge on New Year's Day
   image: "/img/polar-bear-plunge-1.jpg"
-- title: Shore Acres State Park
-  image: "/img/180709_ShoreAcres_021.jpg"
 - title: Cape Arago at Sunrise
   image: "/img/cape-arago-1.jpg"
+- title: Shore Acres State Park
+  image: "/img/180709_ShoreAcres_021.jpg"
 - title: Cape Arago Lighthouse
   image: "/img/lighthouse-3.jpg"
 - title: Charleston Marina
   image: "/img/charleston-marina-1.jpg"
+- title: Charleston Close Up
+  image: "/img/180710_CoosBay1_028.jpg"
 - title: Shore Acres Viewing Flowers
   image: "/img/shore-acres-flower-viewing-1.jpg"
 - title: Shore Acres Flowers in Truck
   image: "/img/shore-acres-flowers-1.jpg"
+- title: Biking on Coos Bay Boardwalk
+  image: "/img/biking-coos-bay-boardwalk-1.jpg"
 - title: Shore Acres Holiday Lights - Overview
   image: "/img/HolidayLights-House-169.jpg"
 - title: Shore Acres Holiday Lights - House
