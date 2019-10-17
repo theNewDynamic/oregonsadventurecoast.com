@@ -3,18 +3,6 @@ title: Gallery
 layout: gallery
 photo: "/img/adventures-atv-motorsports.jpg"
 gallery:
-- title: Shore Acres Holiday Lights - Overview
-  image: "/img/HolidayLights-House-169.jpg"
-- title: Shore Acres Holiday Lights - House
-  image: "/img/HolidayLights-House-02-172.jpg"
-- title: Shore Acres Holiday Lights - Bushes & Trees
-  image: "/img/HolidayLights-Bushes-176.jpg"
-- title: Shore Acres Holiday Lights - Aerial 01
-  image: "/img/HolidayLights-Aerial-02-179.jpg"
-- title: Shore Acres Holiday Lights - Aerial 02
-  image: "/img/HolidayLights-Aerial-177.jpg"
-- title: Shore Acres Holiday Lights - Whale
-  image: "/img/HolidayLights-Whale-170.jpg"
 - title: Woodland Yoga Near Cape Arago
   image: "/img/Woodland Yoga-2.jpg"
 - title: Selfie in Front of the Painted Zebra in North Bend
@@ -23,6 +11,8 @@ gallery:
   image: "/img/Painted-Zebra-8-1.jpg"
 - title: Coos History Museum - Portrait 02
   image: "/img/Museum-2.jpg"
+- title: Enjoying Some Chocolate
+  image: "/img/180711_CoosBay1321-1.jpg"
 - title: Coos History Museum - Boat Display
   image: /img/Tourism "Ladies Getaway"-39.jpg
 - title: Coos History Museum Portrait
@@ -33,44 +23,44 @@ gallery:
   image: "/img/prefontaine-run.jpg"
 - title: Annual Prefontaine Run - Start 02
   image: "/img/prefontaine-race-02.jpg"
+- title: Steve Prefontaine Mural at Night in Downtown Coos Bay
+  image: "/img/IMG_0118.jpg"
 - title: Fourth of July Fireworks at The Mill Casino
   image: "/img/MillCasino4thStevenMichael.jpg"
 - title: Bay Area Fun Festival - Enjoying Parade
   image: "/img/FunFest-LittleGirl-Baloon.jpg"
+- title: Girlfriends Crabbing in Charleston
+  image: "/img/Crabbing-On-Dock-Charleston.jpg"
 - title: Bay Area Fun Fest - Cruz the Coos
   image: "/img/FunFest-CruzCoos-YellowCar.jpg"
-- title: McCullough Bridge in North Bend
-  image: "/img/McCullough-Bridge-17.jpg"
 - title: Storm Watching at Shore Acres State Park
   image: "/img/WaveCrash-8x6.jpg"
-- title: Steve Prefontaine Mural at Night in Downtown Coos Bay
-  image: "/img/IMG_0118.jpg"
 - title: 7 Devils - Girlfriends Toasting
   image: "/img/Girlfriends-7-Devis-Toast-Lg.jpg"
 - title: 7 Devils Enjoying the Music
   image: "/img/Front-Street-18.jpg"
+- title: McCullough Bridge in North Bend
+  image: "/img/McCullough-Bridge-17.jpg"
 - title: East Side Drone Shot
   image: "/img/EastSide-18.jpg"
-- title: Girlfriends Crabbing in Charleston
-  image: "/img/Crabbing-On-Dock-Charleston.jpg"
 - title: Cape Arago at Night with Stars
   image: "/img/Cape-Arago-22.jpg"
 - title: Fun Sway Boat Trip on the Bay
   image: "/img/Boat-Ride-Three.jpg"
 - title: Tall Ships
   image: "/img/180715_TallShips_475.jpg"
+- title: Tidepool Experience at the Charleston Marine Life Center
+  image: "/img/180711_CoosBay1426-1.jpg"
 - title: Three Women Hiking at the Falls - Vertical
   image: "/img/180714_Waterfalls_345.jpg"
 - title: Hiking at the Falls - Vertical
   image: "/img/180714_Waterfalls_068.jpg"
 - title: Crabbing in Charleston
   image: "/img/180712_CoosBay1278.jpg"
+- title: Family Crabbing in Charleston
+  image: "/img/crabbing-family-1.jpg"
 - title: Coos Bay Farmers Market
   image: "/img/180711_CoosBay0452.jpg"
-- title: Enjoying Some Chocolate
-  image: "/img/180711_CoosBay1321-1.jpg"
-- title: Tidepool Experience at the Charleston Marine Life Center
-  image: "/img/180711_CoosBay1426-1.jpg"
 - title: Hiking at the Falls
   image: "/img/Falls-34 copy.jpg"
 - title: Shopping in North Bend
@@ -95,6 +85,8 @@ gallery:
   image: "/img/180709_ShoreAcres_021.jpg"
 - title: Shopping in Downtown Coos Bay
   image: "/img/shopping-coos-bay-1.jpg"
+- title: Shore Acres Holiday Lights - Overview
+  image: "/img/HolidayLights-House-169.jpg"
 - title: Sunset Bay at Sunset
   image: "/img/sunset-bay-van-1.jpg"
 - title: Selfie in the Dunes
@@ -107,8 +99,6 @@ gallery:
   image: "/img/Girlfriends-Dunes.jpg"
 - title: ATV'ing in the Dunes
   image: "/img/dunes-high-five-1.jpg"
-- title: Family Crabbing in Charleston
-  image: "/img/crabbing-family-1.jpg"
 - title: Shore Acres Viewing Flowers
   image: "/img/shore-acres-flower-viewing-1.jpg"
 - title: Shore Acres Flowers in Truck
@@ -121,6 +111,16 @@ gallery:
   image: "/img/lighthouse-3.jpg"
 - title: Biking on Coos Bay Boardwalk
   image: "/img/biking-coos-bay-boardwalk-1.jpg"
+- title: Shore Acres Holiday Lights - Bushes & Trees
+  image: "/img/HolidayLights-Bushes-176.jpg"
+- title: Shore Acres Holiday Lights - House
+  image: "/img/HolidayLights-House-02-172.jpg"
+- title: Shore Acres Holiday Lights - Aerial 01
+  image: "/img/HolidayLights-Aerial-02-179.jpg"
+- title: Shore Acres Holiday Lights - Aerial 02
+  image: "/img/HolidayLights-Aerial-177.jpg"
+- title: Shore Acres Holiday Lights - Whale
+  image: "/img/HolidayLights-Whale-170.jpg"
 - title: Charleston Marina
   image: "/img/charleston-marina-1.jpg"
 - title: Surfers Walking at Sunset
