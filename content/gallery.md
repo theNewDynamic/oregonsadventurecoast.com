@@ -7,12 +7,12 @@ gallery:
   image: ''
 - title: ''
   image: ''
-- title: ''
-  image: ''
-- title: ''
-  image: ''
-- title: ''
-  image: ''
+- title: Crabbing in Charleston
+  image: "/img/180712_CoosBay1278.jpg"
+- title: Ocean Kayaking at Sunset Bay Beach
+  image: "/img/180712_CoosBay0211.jpg"
+- title: Coos Bay Farmers Market
+  image: "/img/180711_CoosBay0452.jpg"
 - title: Enjoying Some Chocolate
   image: "/img/180711_CoosBay1321-1.jpg"
 - title: Tidepool Experience at the Charleston Marine Life Center
