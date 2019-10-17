@@ -34,14 +34,20 @@ seo:
 
 Polish up those dancin’ shoes and get ready for the exciting musical extravaganza known as the South Coast Clambake Music Festival! The Clambake Music Festival features incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco! Dancers and music enthusiasts from up and down the West Coast, visit each year, as the Clambake Music Festival has developed a reputation as a favorite.
 
+![Annual South Coast Clambake Music Festival](/img/clambake-music-v03-695x322.jpg)
+
 The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hotel in North Bend on Oregon's Adventure Coast! The Mill hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar.
 
-**Featuring the music of bands all across these United States!** <br>
-Enjoy the Dave Bennett Quartet from Detroit, Good Co. from Seattle, Dave Stuckey and the Hot House Gang from Los Angeles, Gator Nation from Sonoma California, Gino and Lone Gunmen from Temecula California, Phat Cat Swinger from Disneyland, Royal Jelly Jive form San Francisco, Barn Door Slammers from Portland, Lisa Mann from Portland, Bay City Swing from Coos Bay/North Bend Oregon and the Young Bucs from North Bend/Coos Bay Oregon!
+![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-music-v01-695x322.jpg)
+
+**Featuring the music of bands all across these United States!  
+**Enjoy the Dave Bennett Quartet from Detroit, Good Co. from Seattle, Dave Stuckey and the Hot House Gang from Los Angeles, Gator Nation from Sonoma California, Gino and Lone Gunmen from Temecula California, Phat Cat Swinger from Disneyland, Royal Jelly Jive form San Francisco, Barn Door Slammers from Portland, Lisa Mann from Portland, Bay City Swing from Coos Bay/North Bend Oregon and the Young Bucs from North Bend/Coos Bay Oregon!
 
 Festivities begin on Thursday, March 12th with a Warm Up Concert. Doors open at 6.
 
 For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks! Visit the website for details: [ClambakeJazz.com](https://clambakejazz.com). For a printable schedule, **Coming Soon**.
+
+![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-music-v02-695x322.jpg)
 
 ## The 2020 Lineup include:
 
