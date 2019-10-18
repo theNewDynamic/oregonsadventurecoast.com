@@ -59,8 +59,10 @@ gallery:
   image: "/img/Cape-Arago-22.jpg"
 - title: Fun Sway Boat Trip on the Bay
   image: "/img/Boat-Ride-Three.jpg"
-- title: Tall Ships
+- title: Tall Ships - 01
   image: "/img/180715_TallShips_475.jpg"
+- title: Tall Ships - 02
+  image: "/img/tall-ships-lady-washington.jpg"
 - title: Hiking at the Falls
   image: "/img/Falls-34 copy.jpg"
 - title: Hiking at the Falls - Vertical
