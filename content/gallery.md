@@ -139,3 +139,5 @@ seo:
 Thank you for your interest in our beautiful area! If you are media or a meeting planner looking for images, we are happy to offer our wonderful assets for your to consider.
 
 Contact us at [info@OregonsAdventureCoast.com](mailto:info@OregonsAdventureCoast.com). Please clearly state your intended usage for our records, and the specific image you would like to use. Once your request is approved, you will receive a download link for a high res, non-watermarked image.
+
+By the way, we have a number of other images, so if you don't see what you're looking for, don't hesitate to ask!
