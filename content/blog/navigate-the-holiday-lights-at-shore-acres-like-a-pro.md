@@ -10,6 +10,9 @@ tags:
 - " Holiday Lights"
 - 'Holiday Lights at Shore Acres '
 - '2019 Holiday Lights at Shore Acres '
+- Coos Bay
+- North Bend
+- Charleston Oregon
 categories: []
 seo:
   title: ''
