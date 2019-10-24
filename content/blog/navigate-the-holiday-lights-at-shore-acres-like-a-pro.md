@@ -40,13 +40,13 @@ As mentioned in tip #1, the holiday light display draws tens of thousands of peo
 **#4 Don’t be afraid of a little rain!** Here in Oregon, a little rain shouldn’t stop you from enjoying the sights! Not only are the lights beautiful in the rain, the traffic and the crowds tend to be much lighter on rainy evenings. Just pack your umbrella, a weatherproof coat and some sturdy shoes - you won’t even notice.
 
 **#5 Come for the lights, stay for the sights!**
-While you’re visiting, be sure to enjoy the many other [activities and amenities](https://www.oregonsadventurecoast.com/blog/come-for-the-lights-stay-for-the-sights/) you’ll find throughout Oregon’s South Coast this holiday season. Not only are we home to one of the best breweries and some of the best seafood restaurants in the region, but Coos Bay, North Bend, and Charleston is also a wonderful destination for some fun holiday shopping!
+While you’re visiting, be sure to enjoy the many other [activities and amenities](https://www.oregonsadventurecoast.com/blog/come-for-the-lights-stay-for-the-sights/) you’ll find throughout Oregon’s South Coast this holiday season. Not only are we home to one of the best breweries and some of the best seafood restaurants in the region, but Coos Bay, North Bend, and Charleston are also wonderful destinations for some fun holiday shopping!
 
-##### What: 33rd Annual Holiday Lights at Shore Acres
+**What:** 33rd Annual Holiday Lights at Shore Acres
+**Where:** Shore Acres State Park
+**When:** 4:00 p.m.- 9:30 p.m. each night Thanksgiving, Nov. 28 thru New Year's Eve, Dec. 31, 2019 
 
-Where: Shore Acres State Park
-When: 4:00 p.m.- 9:30 p.m. each night Thanksgiving, Nov. 28 thru New Year's Eve, Dec. 31, 2019
-Features: 325,000 LED Lights - Walk-thru Display – Open Garden House with hot cider, punch, coffee and cookies
+**Features 325,000 LED Lights , walk-thru display, an open Garden House with hot cider, punch, coffee, and cookies.**
 
 **History of the Annual Holiday Lights at Shore Acres**
 The holiday lights event became an instant community tradition in 1987 when the Friends of Shore Acres, Inc. in cooperation with Shore Acres State Park decided to "string a few lights" to help celebrate the holidays. That first season, 6,000 miniature lights, one Christmas tree, and the open Garden House drew 9,000 visitors. Now, depending on the weather, it attracts – on average – 50,000-60,000 visitors each season.
