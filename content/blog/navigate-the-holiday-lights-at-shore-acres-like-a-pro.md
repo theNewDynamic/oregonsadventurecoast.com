@@ -42,9 +42,9 @@ As mentioned in tip #1, the holiday light display draws tens of thousands of peo
 **#5 Come for the lights, stay for the sights!**
 While you’re visiting, be sure to enjoy the many other [activities and amenities](https://www.oregonsadventurecoast.com/blog/come-for-the-lights-stay-for-the-sights/) you’ll find throughout Oregon’s South Coast this holiday season. Not only are we home to one of the best breweries and some of the best seafood restaurants in the region, but Coos Bay, North Bend, and Charleston are also wonderful destinations for some fun holiday shopping!
 
-**What:** 33rd Annual Holiday Lights at Shore Acres
-**Where:** Shore Acres State Park
-**When:** 4:00 p.m.- 9:30 p.m. each night Thanksgiving, Nov. 28 thru New Year's Eve, Dec. 31, 2019 
+**What:** 33rd Annual Holiday Lights at Shore Acres<br>
+**Where:** Shore Acres State Park<br>
+**When:** 4:00 p.m.- 9:30 p.m. each night Thanksgiving, Nov. 28 thru New Year's Eve, Dec. 31, 2019 <br>
 
 **Features 325,000 LED Lights , walk-thru display, an open Garden House with hot cider, punch, coffee, and cookies.**
 
