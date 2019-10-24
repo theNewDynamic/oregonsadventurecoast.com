@@ -34,7 +34,7 @@ As mentioned in tip #1, the holiday light display draws tens of thousands of peo
 Here in Oregon, a little rain shouldn’t stop you from enjoying the sights! Not only are the lights beautiful in the rain, the traffic and the crowds tend to be much lighter on rainy evenings. Just pack your umbrella, your a weatherproof coast and some sturdy shoes - you won’t even notice.
 
 **#5 Come for the lights, stay for the sights!**
-While you’re visiting, be sure to enjoy the many other activities and amenities you’ll find throughout Oregon’s South Coast. Not only are we home to one of the best breweries and some of the best seafood restaurants in the region, but Coos Bay, North Bend and Charleston is also a wonderful destination for some fun holiday shopping! [https://www.oregonsadventurecoast.com/blog/come-for-the-lights-stay-for-the-sights/](https://www.oregonsadventurecoast.com/blog/come-for-the-lights-stay-for-the-sights/ "https://www.oregonsadventurecoast.com/blog/come-for-the-lights-stay-for-the-sights/")
+While you’re visiting, be sure to enjoy the many other [activities and amenities](https://www.oregonsadventurecoast.com/blog/come-for-the-lights-stay-for-the-sights/) you’ll find throughout Oregon’s South Coast this holiday season. Not only are we home to one of the best breweries and some of the best seafood restaurants in the region, but Coos Bay, North Bend, and Charleston is also a wonderful destination for some fun holiday shopping! 
 
 33rd annual Holiday Lights at Shore Acres
 
