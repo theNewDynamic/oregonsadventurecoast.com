@@ -42,3 +42,5 @@ fields:
       section: towns
       file: site/data/taxonomies.yaml
       path: durations
+pages:
+- content/tripideas/a-girlfriends-getaway-on-oregon-s-adventure-coast.md
