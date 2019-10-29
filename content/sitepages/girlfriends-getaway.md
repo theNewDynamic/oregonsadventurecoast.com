@@ -22,7 +22,9 @@ And with a year-round temperate climate, outdoor adventures are always part of t
 
 ![The best place for a girlfriends getaway on the Oregon Coast](/img/GirlfriendsPage-Triptik-02.jpg)
 
-#### Follow the same path our girlfriends took on their trek along Oregon's Adventure Coast! [Click here!](/tripideas/a-girlfriends-getaway-on-oregon-s-adventure-coast/)
+### Trip Ideas: Explore Our Girlfriend's Long Weekend
+
+Follow the same path our girlfriends took on their trek along Oregon's Adventure Coast! [Click here to see the Girlfriends Getaway Trip Idea!](/tripideas/a-girlfriends-getaway-on-oregon-s-adventure-coast/)
 
 Take a look through our website to see all the fun you could have. If you have questions, we are happy to help you plan a memorable trip. See our [Adventures page](/adventures), our [Trip Ideas page](/tripideas) and any [upcoming events](/events) to see all there is to do on Oregon's Adventure Coast! Or [request a visitor's packet today](/contact/#contactform).
 
