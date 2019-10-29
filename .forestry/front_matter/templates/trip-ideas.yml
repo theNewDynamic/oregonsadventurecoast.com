@@ -44,9 +44,15 @@ fields:
   config:
     use_select: true
     source:
-      type: documents
-      section: towns
+      type: simple
+      section: ''
       file: site/data/taxonomies.yaml
-      path: durations
+      path: ''
+    options:
+    - full-day
+    - half-day
+    - long-weekend
+    min: '1'
+    max: '3'
 pages:
 - content/tripideas/a-girlfriends-getaway-on-oregon-s-adventure-coast.md
