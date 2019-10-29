@@ -6,7 +6,6 @@ image: "/img/girlfriends-getaway-hdr-695x322.jpg"
 towns: []
 tripadventures: []
 durations: []
-draft: true
 
 ---
 ## A Girlfriends Getaway on Oregon's Adventure Coast!
