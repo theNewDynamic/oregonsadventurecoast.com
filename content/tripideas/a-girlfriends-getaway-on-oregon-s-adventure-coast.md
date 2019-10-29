@@ -9,6 +9,12 @@ towns:
 - charleston
 tripadventures:
 - atving-motorsports
+- beach
+- culture-museums
+- eat-drink
+- scenic-drives
+- shopping
+- state-park-national-lands
 durations:
 - long-weekend
 
