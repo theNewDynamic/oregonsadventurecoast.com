@@ -6,8 +6,12 @@ image: "/img/girlfriends-getaway-hdr-695x322.jpg"
 towns:
 - coos-bay
 - north-bend
+- charleston
 tripadventures: []
-durations: []
+durations:
+- full-day
+- half-day
+- long-weekend
 
 ---
 ## A Girlfriends Getaway on Oregon's Adventure Coast!
