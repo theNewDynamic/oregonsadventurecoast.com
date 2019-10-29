@@ -3,7 +3,9 @@ title: A Girlfriends Getaway on Oregon's Adventure Coast!
 description: Take a long weekend & discover Oregon's Adventure Coast with your best
   friends.
 image: "/img/girlfriends-getaway-hdr-695x322.jpg"
-towns: []
+towns:
+- coos-bay
+- north-bend
 tripadventures: []
 durations: []
 
