@@ -40,18 +40,18 @@ fields:
       path: ''
     options:
     - atving-motorsports
-    - " beach"
-    - "\Lcrabbing-clamming"
-    - "\Lculture-museums"
-    - "\Ldunes"
-    - "\Leat-drink"
-    - "\Lfishing"
-    - "\Lfishing-crabbing-clamming"
-    - "\Lhistorical"
-    - "\Llighthouses"
-    - "\Lscenic-drives"
-    - "\Lshopping"
-    - "\Lstate-parks-national-lands"
+    - beach
+    - crabbing-clamming
+    - culture-museums
+    - dunes
+    - eat-drink
+    - fishing
+    - fishing-crabbing-clamming
+    - historical
+    - lighthouses
+    - scenic-drives
+    - shopping
+    - state-park-national-lands
     min: '1'
     max: '13'
 - type: list
