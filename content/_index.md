@@ -49,7 +49,7 @@ masonry4:
   url: "/art-history-culture/"
 masonry5:
   desktopphoto: "/img/girlfriends-getaway-masonry-right.jpg"
-  desktoptitle: Fishing
+  desktoptitle: Girlfriends Getaway
   hoverdescription: The best Girlfriends Getaway on the Oregon Coast!
   hovertitle: Turbo Charged - Zen Inspired
   mobilephoto: "/img/girlfriends-getaway-mobile.jpg"
