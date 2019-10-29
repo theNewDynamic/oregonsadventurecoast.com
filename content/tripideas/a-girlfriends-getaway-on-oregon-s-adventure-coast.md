@@ -7,10 +7,15 @@ towns:
 - coos-bay
 - north-bend
 - charleston
-tripadventures: []
+tripadventures:
+- atving-motorsports
+- " beach"
+- "\Lculture-museums"
+- "\Leat-drink"
+- "\Lscenic-drives"
+- "\Lshopping"
+- "\Lstate-parks-national-lands"
 durations:
-- full-day
-- half-day
 - long-weekend
 
 ---
