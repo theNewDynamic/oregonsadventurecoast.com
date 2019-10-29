@@ -18,10 +18,13 @@ fields:
   config:
     use_select: true
     source:
-      type: documents
-      section: towns
+      type: simple
+      section: ''
       file: site/data/taxonomies.yaml
-      path: towns
+      path: ''
+    options:
+    - coos-bay
+    - north-bend
 - type: list
   name: tripadventures
   label: Adventures
