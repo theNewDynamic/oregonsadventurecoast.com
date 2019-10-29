@@ -9,12 +9,6 @@ towns:
 - charleston
 tripadventures:
 - atving-motorsports
-- " beach"
-- "\Lculture-museums"
-- "\Leat-drink"
-- "\Lscenic-drives"
-- "\Lshopping"
-- "\Lstate-parks-national-lands"
 durations:
 - long-weekend
 
