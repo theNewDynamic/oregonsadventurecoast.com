@@ -46,7 +46,7 @@ Coos Bay, Oregon 97420
 (541) 269-8111  
 [www.bayareahospital.org](http://www.bayareahospital.org)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Bay Area Hospital is a 172-bed, publicly owned, acute care facility, and is the largest hospital on the Oregon Coast and serves as the South Coast’s regional referral center. As the medical center for Oregon’s South Coast, the hospital offers a comprehensive range of diagnostic & therapeutic services. Inpatient and outpatient services include the accredited Bay Area Cancer Center with medical and radiation oncology, the Prefontaine Cardiovascular Center with a full range of cardiology services, mental health, pediatric, obstetrical, surgical, wound care with a hyperbaric chamber and more. Physicians, nurses, & technologists are on duty 24 hours a day to meet the medical and emergency needs of the South Coast residents and visitors.
 
 \++++
 
@@ -59,7 +59,7 @@ Coos Bay, OR 97420
 (541) 267-5151  
 [www.nbmchealth.com](http://www.nbmchealth.com)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+North Bend Medical Center offers a full scope of services ranging from preventive care to plastic & reconstructive surgery. Highly skilled Physicians and Advanced Practitioners provide high quality care for residents and visitors to the area. For the convenience of our valued patients, NBMC offers comprehensive care in five Southern Oregon coastal communities, including our main clinic in Coos Bay and satellite clinics in Bandon, Coquille, Gold Beach and Myrtle Point. From our Immediate Care Clinic and community-based primary care services to the multi-specialty care available in our main clinic, NBMC is your convenient source for complete care.
 
 {{< /columns >}}
 
