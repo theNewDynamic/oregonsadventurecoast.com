@@ -1,36 +1,31 @@
 ---
 title: The Dazzling Annual Shore Acres Holiday Lights Display is Coming!
-date: 2017-10-10T17:31:43.000Z
-description: >-
-  The brightest and most beautiful place on the West Coast shines as brightly as
-  ever in 2017.
+date: 2017-10-10T17:31:43.000+00:00
+description: |-
+  The brightest and most beautiful place on the West Coast shines as brightly as ever in 2017.
 
-
-  It might be pumpkin season, but volunteers at Shore Acres State Park are
-  already hard at work preparing for the 31st annual Holiday Lights Display.
-  This is certainly one of our favorite local holiday traditions and it has
-  captured the attention of media, residents,and visitors from all over the
-  country.
+  It might be pumpkin season, but volunteers at Shore Acres State Park are already hard at work preparing for the 31st annual Holiday Lights Display. This is certainly one of our favorite local holiday traditions and it has captured the attention of media, residents,and visitors from all over the country.
 tags:
-  - Beaches
-  - Cape Arago Hwy
-  - Charleston
-  - Coast
-  - Coos Bay
-  - flowers
-  - Garden House
-  - local
-  - North Bend
-  - Oregon
-  - recreation
-  - Shore Acres
-  - Shore Acres Holiday Lights
-  - Shore Acres State Park
+- Beaches
+- Cape Arago Hwy
+- Charleston
+- Coast
+- Coos Bay
+- flowers
+- Garden House
+- local
+- North Bend
+- Oregon
+- recreation
+- Shore Acres
+- Shore Acres Holiday Lights
+- Shore Acres State Park
 categories:
-  - Holliday Lights
-  - Parks
-  - State Parks & National Lands
-image: /img/holliday-lights-02-172.jpg
+- Parks
+- State Parks & National Lands
+image: "/img/holliday-lights-02-172.jpg"
+draft: true
+
 ---
 <strong><em>The brightest and most beautiful place on the West Coast shines as brightly as ever in 2017.</em></strong>
 
