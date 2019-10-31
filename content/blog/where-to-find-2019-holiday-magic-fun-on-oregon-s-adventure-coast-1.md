@@ -3,14 +3,21 @@ title: Where to Find 2019 Holiday Magic & Fun on Oregon's Adventure Coast
 date: 2019-10-29T04:00:00+00:00
 description: ''
 image: "/img/holiday-lights-mobile.jpg"
-tags: []
+tags:
+- Holidays
+- " Coos Bay"
+- North Bend
+- Charleston Oregon
+- Tree Lightings
+- Christmas Festivals
+- Holiday Festivals
+- Oregon Coast Holiday Events
 categories: []
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
 Wondering where you can find some holiday magic this year on Oregon's South Coast? We're so glad you asked! With November upon us, it's the perfect time to do a "Holiday Event Roundup" featuring some of the [upcoming events ](https://www.oregonsadventurecoast.com/calendar/)that will grace Oregon's Adventure Coast this 2019 holiday season!
