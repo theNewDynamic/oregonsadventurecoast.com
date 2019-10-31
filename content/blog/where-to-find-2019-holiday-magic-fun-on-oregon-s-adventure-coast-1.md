@@ -13,13 +13,11 @@ seo:
 draft: true
 
 ---
-**Where to Find 2019 Holiday Magic & Fun on Oregon's Adventure Coast**
-
-Wondering where you can find some holiday magic this year on Oregon's South Coast? We're so glad you asked! With November upon us, it's the perfect time to do a "Holiday Event Roundup" featuring some of the upcoming events that will grace Oregon's Adventure Coast this 2019 holiday season!
+Wondering where you can find some holiday magic this year on Oregon's South Coast? We're so glad you asked! With November upon us, it's the perfect time to do a "Holiday Event Roundup" featuring some of the [upcoming events ](https://www.oregonsadventurecoast.com/calendar/)that will grace Oregon's Adventure Coast this 2019 holiday season!
 
 If you’re among those traveling from out-of-town to see the Holiday Lights this year, we hope you’ll stick around and[ experience more of what Oregon’s Adventure Coast has to offer](https://www.oregonsadventurecoast.com/blog/come-for-the-lights-stay-for-the-sights/). So without further ado, grab your Santa hat and get ready to be festive!
 
-**November 28, 2019- Thanksgiving Dinner at The Mill Casino** Savor roast turkey and all the trimmings, side dishes and dessert from The Mill’s own bakery; or enjoy a bayfront Traditional Turkey Dinner from 11 am - 2:30 pm & 4 pm - 9 pm in the Plankhouse Restaurant. [https://www.themillcasino.com/dining/plank-house/](https://www.themillcasino.com/dining/plank-house/ "https://www.themillcasino.com/dining/plank-house/") Thanksgiving buffet will be presented in Saw Blade Buffet [https://www.themillcasino.com/dining/plank-house/](https://www.themillcasino.com/dining/plank-house/ "https://www.themillcasino.com/dining/plank-house/") from 11:00 am to 8:00 pm or in the Salmon room for parties of 6 or more. Reservations for large parties are strongly encouraged.
+**November 28, 2019- Thanksgiving Dinner at The Mill Casino** Savor roast turkey and all the trimmings, side dishes and dessert from The Mill’s own bakery; or enjoy a bayfront Traditional Turkey Dinner from 11 am - 2:30 pm & 4 pm - 9 pm in the [Plankhouse Restaurant](https://www.themillcasino.com/dining/plank-house/ ). Thanksgiving buffet will be presented in [Saw Blade Buffet](https://www.themillcasino.com/dining/plank-house/ ) from 11:00 am to 8:00 pm or in the Salmon room for parties of 6 or more. Reservations for large parties are strongly encouraged.
 
 N**ovember 28, 2019-December 31, 2019: Holiday Lights at Shore Acres** Famous for its beautiful 7-acre botanical gardens and Japanese lily pond, the gardens at Shore Acres State Park shine with more than 325,000 lights. 4 pm – 9:30 pm every night Thanksgiving through New Year’s Eve at Shore Acres State Park in Charleston, Oregon; just west of Coos Bay ($5 parking fee per vehicle).[ Click here](https://www.oregonsadventurecoast.com/blog/navigate-the-holiday-lights-at-shore-acres-like-a-pro/) for tips on how to navigate this year's holiday light display like a pro!
 
