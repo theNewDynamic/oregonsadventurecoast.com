@@ -1,5 +1,5 @@
 ---
-title: Medical, Urgent & Dental Services
+title: Medical, Urgent, Dental & Veterinary Services
 url: medical-urgent-dental
 layout: travelersinfo
 photo: "/img/medical-subpage-header-03.jpg"
@@ -81,7 +81,7 @@ North Bend, OR 97459
 Monday- Saturday 8:00-5:00  
 **Emergency after hours care available for an additional fee, depending on circumstance**
 
-South Coast Family Dentistry  
+**South Coast Family Dentistry**  
 1250 Thompson Rd  
 Coos Bay, OR 97420  
 (541) 982-2175  
@@ -107,7 +107,7 @@ Coos Bay, OR 97420
 Monday- Friday 8:30-5:30  
 **Emergency after hours available**
 
-Ocean Boulevard Veterinary Hospital  
+**Ocean Boulevard Veterinary Hospital**  
 1710 Ocean Blvd. NW  
 Coos Bay, OR 97420  
 (541) 888-6713  
