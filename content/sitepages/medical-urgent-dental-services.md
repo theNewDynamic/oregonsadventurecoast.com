@@ -66,6 +66,27 @@ North Bend Medical Center offers a full scope of services ranging from preventiv
 
 {{< columns number="2" >}}
 
+![](/img/bay-clinic-picture-1.jpg)
+
+#### Bay Clinic and Bay Clinic Pediatrics
+
+1750 Thompson Road  
+Coos Bay, OR 97420  
+(541) 269-0333  
+[http://bayclinic.net/](http://bayclinic.net/ "http://bayclinic.net/")
+
+Bay Clinic offers quality care by a skilled staff of clinicians in internal medicine, pediatrics, obstetrics and gynecology, and allergy. The main clinic is open Monday-Friday 8:00am to 5:00pm. 
+
+The Bay Clinic Pediatrics specializes in pediatric and adolescent medicine. The extended hours for the Pediatrics practice at Bay Clinic are Monday-Thursday 5:30pm to 6:30pm.
+
+\++++
+
+#### **Waterfall Clinic**
+
+{{< /columns >}}  
+
+{{< columns number="2" >}}
+
 ![](/img/dentistry.jpg)
 
 ## Dental Services<br><br>
