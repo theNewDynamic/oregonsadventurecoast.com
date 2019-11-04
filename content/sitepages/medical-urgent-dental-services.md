@@ -15,6 +15,8 @@ draft: true
 
 We know that sometimes, when you are traveling, the unexpected happens and you need to find an immediate care clinic, a hospital, a dentist or vet. We put this list together for those occasions. But, if this is a true emergency, **call 911**. <br><br>
 
+![](/img/urgent-care-north-bend-medical-center.jpg)
+
 #### **Immediate Care Clinic @ NBMC**
 
 1900 Woodland Drive  
@@ -33,7 +35,7 @@ No appointment is necessary; just drop in and you’ll find:
 * A clean, comfortable clinic with friendly and caring staff
 * Medical evaluations and treatment of non-life-threatening injuries
 * Advanced diagnostic imaging technology (X-ray, MRI and CT)
-* Full Service Laboratory
+* Full Service Laboratory<br><br>
 
 {{< columns number="2" >}}
 
@@ -65,6 +67,8 @@ North Bend Medical Center offers a full scope of services ranging from preventiv
 
 {{< columns number="2" >}}
 
+![](/img/dentistry.jpg)
+
 ## Dentists
 
 #### Advantage Dental
@@ -93,6 +97,8 @@ Saturday 8:00-6:00
 **No after hours emergency care available, but do offer extended regular hours of operation**
 
 \++++
+
+![](/img/veternarians.jpg)
 
 ## Veterinary Services
 
