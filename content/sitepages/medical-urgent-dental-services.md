@@ -69,7 +69,7 @@ North Bend Medical Center offers a full scope of services ranging from preventiv
 
 ![](/img/dentistry.jpg)
 
-## Dentists
+## Dentists<br><br>
 
 #### Advantage Dental
 
@@ -100,7 +100,7 @@ Saturday 8:00-6:00
 
 ![](/img/veternarians.jpg)
 
-## Veterinary Services
+## Veterinary Services<br><br>
 
 #### Hanson-Meekins Animal Hospital
 
