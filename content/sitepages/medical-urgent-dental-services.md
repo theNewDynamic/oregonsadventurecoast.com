@@ -77,7 +77,7 @@ North Bend Medical Center offers a full scope of services ranging from preventiv
 North Bend, OR 97459  
 (541) 808-6226  
 Monday-Friday 8:00-6:00 pm  
-**NO after hours emergency care available<br>**
+**NO after hours emergency care available<br><br>**
 
 #### Above Dental
 
@@ -85,7 +85,7 @@ Monday-Friday 8:00-6:00 pm
 North Bend, OR 97459  
 (541) 756-0155  
 Monday- Saturday 8:00-5:00  
-**Emergency after hours care available for an additional fee, depending on circumstance<br>**
+**Emergency after hours care available for an additional fee, depending on circumstance<br><br>**
 
 #### South Coast Family Dentistry
 
@@ -108,7 +108,7 @@ Saturday 8:00-6:00
 Coos Bay, OR 97420  
 (541) 269-2415  
 Monday-Friday 9:00-5:30pm  
-**No after hours emergency care available**
+**No after hours emergency care available<br><br>**
 
 #### Morgan Veterinary Clinic
 
@@ -116,7 +116,7 @@ Monday-Friday 9:00-5:30pm
 Coos Bay, OR 97420  
 (541) 269-5846  
 Monday- Friday 8:30-5:30  
-**Emergency after hours available**
+**Emergency after hours available<br><br>**
 
 #### Ocean Boulevard Veterinary Hospital
 
