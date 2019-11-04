@@ -81,8 +81,6 @@ The Bay Clinic Pediatrics specializes in pediatric and adolescent medicine. The 
 
 \++++
 
-![](/img/19896_or_Waterfall_Clinic_Inc_vlb.jpg)
-
 #### **Waterfall Community Health Center**
 
 Primary Care Center
