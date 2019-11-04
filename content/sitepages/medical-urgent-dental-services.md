@@ -69,7 +69,7 @@ North Bend Medical Center offers a full scope of services ranging from preventiv
 
 ![](/img/dentistry.jpg)
 
-## Dentists<br><br>
+## Dental Services<br><br>
 
 #### Advantage Dental
 
