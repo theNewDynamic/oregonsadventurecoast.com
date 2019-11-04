@@ -65,49 +65,55 @@ North Bend Medical Center offers a full scope of services ranging from preventiv
 
 {{< columns number="2" >}}
 
-#### Dentists
+## Dentists
 
-**Advantage Dental**  
-2157 Broadway   
+#### Advantage Dental
+
+2157 Broadway  
 North Bend, OR 97459  
 (541) 808-6226  
 Monday-Friday 8:00-6:00 pm  
-**NO after hours emergency care available**
+**NO after hours emergency care available<br>**
 
-**Above Dental**  
+#### Above Dental
+
 2070 Virginia Avenue  
 North Bend, OR 97459  
 (541) 756-0155  
 Monday- Saturday 8:00-5:00  
-**Emergency after hours care available for an additional fee, depending on circumstance**
+**Emergency after hours care available for an additional fee, depending on circumstance<br>**
 
-**South Coast Family Dentistry**  
+#### South Coast Family Dentistry
+
 1250 Thompson Rd  
 Coos Bay, OR 97420  
 (541) 982-2175  
 Monday-Friday 7:00-7:00  
 Saturday 8:00-6:00  
-**No after hours emergency care available, but do offer extended regular hours of operation** 
+**No after hours emergency care available, but do offer extended regular hours of operation**
 
 \++++
 
-#### Veterinary Services
+## Veterinary Services
 
-**Hanson-Meekins Animal Hospital**  
+#### Hanson-Meekins Animal Hospital
+
 25 Lockhart Avenue  
 Coos Bay, OR 97420  
 (541) 269-2415  
 Monday-Friday 9:00-5:30pm  
 **No after hours emergency care available**
 
-**Morgan Veterinary Clinic**  
+#### Morgan Veterinary Clinic
+
 230	West Market Avenue  
 Coos Bay, OR 97420  
 (541) 269-5846  
 Monday- Friday 8:30-5:30  
 **Emergency after hours available**
 
-**Ocean Boulevard Veterinary Hospital**  
+#### Ocean Boulevard Veterinary Hospital
+
 1710 Ocean Blvd. NW  
 Coos Bay, OR 97420  
 (541) 888-6713  
