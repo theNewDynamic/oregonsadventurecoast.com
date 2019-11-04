@@ -81,7 +81,25 @@ The Bay Clinic Pediatrics specializes in pediatric and adolescent medicine. The 
 
 \++++
 
-#### **Waterfall Clinic**
+#### **Waterfall Community Health Center**
+
+Primary Care Center   
+1890 Waite St.   
+North Bend, OR 97459  
+(541) 756-6232   
+
+Mental Health Center  
+1950 Waite St.  
+North Bend, OR 97459  
+(541) 756-6232
+
+[https://www.wfall.org/](https://www.wfall.org/ "https://www.wfall.org/")
+
+With a mission to promote access to quality integrated health services that meet the needs of individuals with barriers to care on the Southern Oregon Coast, Waterfall Community Clinic provides fee-adjusted primary health care services to low-income, medically uninsured, medically disenfranchised, and other vulnerable populations.
+
+Waterfall provides primary care, women's health, mental health, and an on-site pharmacy.
+
+Hours of operation are Monday-Friday 8:00am to 5:00pm.
 
 {{< /columns >}}  
 
