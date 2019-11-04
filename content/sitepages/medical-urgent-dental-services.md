@@ -8,7 +8,6 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
 ## {{% colortext color="e10000" %}}Dial 911{{% /colortext %}} If this is an emergency
