@@ -21,7 +21,7 @@ We know that sometimes, when you are traveling, the unexpected happens and you n
 1900 Woodland Drive  
 Coos Bay, Oregon 97420  
 (541) 266-1789  
-[www.nbmchealth.com/services/immediate-care-clinic/](www.nbmchealth.com/services/immediate-care-clinic/)
+[www.nbmchealth.com/services/immediate-care-clinic](https://www.nbmchealth.com/services/immediate-care-clinic)
 
 **The Immediate Care Clinic** offers convenient and affordable patient care seven days per week. Our professional, caring providers are available to treat symptoms that require immediate medical attention, but are not considered life-threatening.
 
