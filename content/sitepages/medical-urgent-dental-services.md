@@ -66,7 +66,7 @@ North Bend Medical Center offers a full scope of services ranging from preventiv
 
 {{< columns number="2" >}}
 
-![](/img/bay-clinic-picture-1.jpg)
+![](/img/bay-clinic-picture.jpg)
 
 #### Bay Clinic and Bay Clinic Pediatrics
 
@@ -75,18 +75,22 @@ Coos Bay, OR 97420
 (541) 269-0333  
 [http://bayclinic.net/](http://bayclinic.net/ "http://bayclinic.net/")
 
-Bay Clinic offers quality care by a skilled staff of clinicians in internal medicine, pediatrics, obstetrics and gynecology, and allergy. The main clinic is open Monday-Friday 8:00am to 5:00pm. 
+Bay Clinic offers quality care by a skilled staff of clinicians in internal medicine, pediatrics, obstetrics and gynecology, and allergy. The main clinic is open Monday-Friday 8:00am to 5:00pm.
 
 The Bay Clinic Pediatrics specializes in pediatric and adolescent medicine. The extended hours for the Pediatrics practice at Bay Clinic are Monday-Thursday 5:30pm to 6:30pm.
 
 \++++
 
+![](/img/19896_or_Waterfall_Clinic_Inc_vlb.jpg)
+
 #### **Waterfall Community Health Center**
 
-Primary Care Center   
-1890 Waite St.   
+Primary Care Center
+
+1890 Waite St.
+
 North Bend, OR 97459  
-(541) 756-6232   
+(541) 756-6232
 
 Mental Health Center  
 1950 Waite St.  
@@ -95,13 +99,9 @@ North Bend, OR 97459
 
 [https://www.wfall.org/](https://www.wfall.org/ "https://www.wfall.org/")
 
-With a mission to promote access to quality integrated health services that meet the needs of individuals with barriers to care on the Southern Oregon Coast, Waterfall Community Clinic provides fee-adjusted primary health care services to low-income, medically uninsured, medically disenfranchised, and other vulnerable populations.
+With a mission to promote access to quality integrated health services that meet the needs of individuals with barriers to care on the Southern Oregon Coast, Waterfall Community Clinic provides fee-adjusted primary health care services to low-income, medically uninsured, medically disenfranchised, and other vulnerable populations. Waterfall provides primary care, women's health, mental health, and an on-site pharmacy. Hours of operation are Monday-Friday 8:00am to 5:00pm.
 
-Waterfall provides primary care, women's health, mental health, and an on-site pharmacy.
-
-Hours of operation are Monday-Friday 8:00am to 5:00pm.
-
-{{< /columns >}}  
+{{< /columns >}}
 
 {{< columns number="2" >}}
 
