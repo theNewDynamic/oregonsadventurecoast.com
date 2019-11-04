@@ -17,7 +17,7 @@ We know that sometimes, when you are traveling, the unexpected happens and you n
 
 ![](/img/urgent-care-north-bend-medical-center.jpg)
 
-#### **Immediate Care Clinic @ NBMC**
+#### **Immediate Care Clinic @ North Bend Medical Center**
 
 1900 Woodland Drive  
 Coos Bay, Oregon 97420  
