@@ -26,3 +26,5 @@ fields:
   name: image
   label: Image
   template: image
+pages:
+- content/event/north-bend-tree-lighting-and-lighted-parade.md
