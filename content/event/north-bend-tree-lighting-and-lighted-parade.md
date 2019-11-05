@@ -21,8 +21,8 @@ hovertitle: North Bend Holiday Events
 hoverdescription: North Bend Holiday Events
 photo: "/img/north-bend-tree-lighting-event-sub-header.jpg"
 largeboxphoto: "/img/nb-tree-lighting-trucks-large.jpg"
-mediumboxphoto: "/img/Truck parade 3-cropped.jpg"
-smallboxphoto: "/img/Truck parade 3-small.jpg"
+mediumboxphoto: "/img/nb-tree-lighting-trucks-medium.jpg"
+smallboxphoto: "/img/nb-tree-lighting-trucks-small.jpg"
 draft: true
 
 ---
