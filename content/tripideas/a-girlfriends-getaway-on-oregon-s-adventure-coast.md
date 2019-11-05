@@ -27,7 +27,11 @@ We arrived midday on a Thursday and our first stop – the [Oregon Dunes Nationa
 
 Then it was time to check in to our hotel, get cleaned up and head out for a wonderful dinner at [Front Street Provisioners](http://frontstreetprovisioners.com/), one of Coos Bay’s newest dining options. There is a [whole list of restaurants](/dining/) to choose from and we tried several during our long weekend. This was just the first and we enjoyed the celebratory atmosphere with wine pairings and gourmet wood-fired pizza.
 
+![](/img/Fun-Sway-Boat-Trip-On-Bay-cropped.jpg)
+
 Friday dawned with gorgeous sunshine and a morning boat tour of the Bay with [Coos Boat Tours](https://www.coosboattours.com/). The 2 hour trip took us from City Dock in downtown **Coos Bay** all the way to the McCullough Bridge, the iconic bridge over the Bay where you enter this coastal paradise into **North Bend**. We grabbed lunch in the quaint fishing village of **Charleston**. Fish is so fresh here because it comes right off the boats in the marina. Next we headed out to the beaches along this rugged part of southern Oregon. Here, cliffs rise 100 feet above the ocean and, from what we heard, during storm season (October through March), you can see wave crashes along these cliffs that reach up to [300 ft in the air](/storm-watching/)!
+
+![](/img/Woodland-Yoga-Near-Cape-Arago-cropped.jpg)
 
 We visited [Sunset Bay State Park](/state-parks-and-national-lands/) where we kayaked in the protected cove under a cloudless blue sky. Next we hiked through [Shore Acres State Park](/state-parks-and-national-lands/) along the amazing cliffs and into the surprising botanical gardens. As we trekked through the coastal forest, we discovered a zen-like area where we just had to stop and do a few yoga poses. It was so peaceful and quiet – until the sea lions and seals started barking! We couldn’t see them yet, but we could definitely hear them. We spied the Cape Arago Lighthouse _(unfortunately closed to the public now)_ and took some great, iconic photos to take home as a memory.
 
@@ -35,7 +39,11 @@ A quick drive along Cape Arago Loop took us to Simpson Reef Overlook where, with
 
 As the day wound down, we headed back to Sunset Bay State Park – the absolutely best place to watch the sun set on what was a great day filled with adventure.
 
+![](/img/Coos-History-Museum-Portraits-cropped.jpg)
+
 Saturday we took time for ourselves. Having pastries and coffee for breakfast was a real treat followed by the spa-like atmosphere of the salon where we had mimosas and pedicures. We can be such girls some time! We visited the [Coos History Museum](https://cooshistory.org/) which is filled with artifacts and dioramas depicting life along the Bay and rivers that make up the waterways of the South Coast. We were amazed to find the Fresnel lens from the Cape Arago Lighthouse on display here. If we couldn’t visit the lighthouse, at least we are getting to see a part of it up close.
+
+![](/img/Shopping-in-Downtown-North-Bend-cropped.jpg)
 
 Then it was shopping time! North Bend and Coos Bay have some [eclectic shops ](/shopping/)to choose from. There are few strip malls or big box stores here and we were happy to see that shops here are locally owned and carry a wide array of unique merchandise. Plus Antiques! There are quite a few interesting antique shops along Hwy 101 in both North Bend and Coos Bay. We found many great treasures to take home.
 
