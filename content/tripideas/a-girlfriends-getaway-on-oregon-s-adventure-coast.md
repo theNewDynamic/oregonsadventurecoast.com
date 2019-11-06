@@ -27,7 +27,7 @@ We arrived midday on a Thursday and our first stop – the [Oregon Dunes Nationa
 
 Then it was time to check in to our hotel, get cleaned up and head out for a wonderful dinner at [Front Street Provisioners](http://frontstreetprovisioners.com/), one of Coos Bay’s newest dining options. There is a [whole list of restaurants](/dining/) to choose from and we tried several during our long weekend. This was just the first and we enjoyed the celebratory atmosphere with wine pairings and gourmet wood-fired pizza.
 
-![](/img/Fun-Sway-Boat-Trip-On-Bay-cropped.jpg)
+![](/img/boating-two-images.jpg)
 
 Friday dawned with gorgeous sunshine and a morning boat tour of the Bay with [Coos Boat Tours](https://www.coosboattours.com/). The 2 hour trip took us from City Dock in downtown **Coos Bay** all the way to the McCullough Bridge, the iconic bridge over the Bay where you enter this coastal paradise into **North Bend**. We grabbed lunch in the quaint fishing village of **Charleston**. Fish is so fresh here because it comes right off the boats in the marina. Next we headed out to the beaches along this rugged part of southern Oregon. Here, cliffs rise 100 feet above the ocean and, from what we heard, during storm season (October through March), you can see wave crashes along these cliffs that reach up to [300 ft in the air](/storm-watching/)!
 
