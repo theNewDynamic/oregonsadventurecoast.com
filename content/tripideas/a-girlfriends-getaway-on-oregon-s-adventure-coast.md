@@ -45,7 +45,9 @@ A quick drive along Cape Arago Loop took us to Simpson Reef Overlook where, with
 
 As the day wound down, we headed back to Sunset Bay State Park – the absolutely best place to watch the sun set on what was a great day filled with adventure.
 
-![](/img/Coos-History-Museum-Portraits-cropped.jpg)
+![Enjoying a quite coffee and pastries with friends](/img/coffee-pastry-shop.jpg)
+
+![Spa and pedicure treatment enjoying mimosas](/img/spa-pedicure-long.jpg)
 
 Saturday we took time for ourselves. Having pastries and coffee for breakfast was a real treat followed by the spa-like atmosphere of the salon where we had mimosas and pedicures. We can be such girls some time! We visited the [Coos History Museum](https://cooshistory.org/) which is filled with artifacts and dioramas depicting life along the Bay and rivers that make up the waterways of the South Coast. We were amazed to find the Fresnel lens from the Cape Arago Lighthouse on display here. If we couldn’t visit the lighthouse, at least we are getting to see a part of it up close.
 
