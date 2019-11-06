@@ -35,7 +35,9 @@ Then it was time to check in to our hotel, get cleaned up and head out for a won
 
 Friday dawned with gorgeous sunshine and a morning boat tour of the Bay with [Coos Boat Tours](https://www.coosboattours.com/). The 2 hour trip took us from City Dock in downtown **Coos Bay** all the way to the McCullough Bridge, the iconic bridge over the Bay where you enter this coastal paradise into **North Bend**. We grabbed lunch in the quaint fishing village of **Charleston**. Fish is so fresh here because it comes right off the boats in the marina. Next we headed out to the beaches along this rugged part of southern Oregon. Here, cliffs rise 100 feet above the ocean and, from what we heard, during storm season (October through March), you can see wave crashes along these cliffs that reach up to [300 ft in the air](/storm-watching/)!
 
-![](/img/Woodland-Yoga-Near-Cape-Arago-cropped.jpg)
+![Kayaking on Sunset Bay on Oregon's Adventure Coast](/img/kayaking-side-by-side.jpg)
+
+![Woodland yoga pose in Shore Acres State Park](/img/woodland-yoga-695w.jpg)
 
 We visited [Sunset Bay State Park](/state-parks-and-national-lands/) where we kayaked in the protected cove under a cloudless blue sky. Next we hiked through [Shore Acres State Park](/state-parks-and-national-lands/) along the amazing cliffs and into the surprising botanical gardens. As we trekked through the coastal forest, we discovered a zen-like area where we just had to stop and do a few yoga poses. It was so peaceful and quiet – until the sea lions and seals started barking! We couldn’t see them yet, but we could definitely hear them. We spied the Cape Arago Lighthouse _(unfortunately closed to the public now)_ and took some great, iconic photos to take home as a memory.
 
