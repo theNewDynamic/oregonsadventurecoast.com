@@ -25,9 +25,13 @@ durations:
 
 We arrived midday on a Thursday and our first stop – the [Oregon Dunes National Recreation Area](/tripideas/oregon-dunes-national-recreation-area/).  We took a wild ride through the almost 500 foot tall sand dunes at the southern portion of the more than 40 miles of dunes that stretch from North Bend to Florence on Oregon’s beautiful south coast. With a choice of an experienced Tour Guide and driving ourselves, we decided to test our metal against the dunes. It was exhilarating to careen over hills of sand and we even got to ride along the ocean. Such a rush!
 
+![ATV'ing in the Oregon Dunes National Recreational Area](/img/dunes-three-images.jpg)
+
 Then it was time to check in to our hotel, get cleaned up and head out for a wonderful dinner at [Front Street Provisioners](http://frontstreetprovisioners.com/), one of Coos Bay’s newest dining options. There is a [whole list of restaurants](/dining/) to choose from and we tried several during our long weekend. This was just the first and we enjoyed the celebratory atmosphere with wine pairings and gourmet wood-fired pizza.
 
-![](/img/boating-two-images.jpg)
+![](/img/dinner-two-images.jpg)
+
+![](/img/boating-two-images-03.jpg)
 
 Friday dawned with gorgeous sunshine and a morning boat tour of the Bay with [Coos Boat Tours](https://www.coosboattours.com/). The 2 hour trip took us from City Dock in downtown **Coos Bay** all the way to the McCullough Bridge, the iconic bridge over the Bay where you enter this coastal paradise into **North Bend**. We grabbed lunch in the quaint fishing village of **Charleston**. Fish is so fresh here because it comes right off the boats in the marina. Next we headed out to the beaches along this rugged part of southern Oregon. Here, cliffs rise 100 feet above the ocean and, from what we heard, during storm season (October through March), you can see wave crashes along these cliffs that reach up to [300 ft in the air](/storm-watching/)!
 
