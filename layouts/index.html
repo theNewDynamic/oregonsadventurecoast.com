@@ -9,6 +9,10 @@
     data-cycle-timeout="6000"
     data-cycle-speed="1200"
     data-cycle-slides="> div">
+    {{/* Video Test */}}
+    <div class="slide">
+        {{ partial "video-test" . }}
+    </div>
     {{ range .Params.slideshow }}
 
         <div class="slide">
