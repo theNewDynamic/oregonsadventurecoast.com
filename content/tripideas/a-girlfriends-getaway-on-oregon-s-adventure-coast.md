@@ -21,7 +21,7 @@ durations:
 ---
 **A girlfriend’s getaway on Oregon’s Adventure Coast? Totally!** One text to my girls and we were all in! We had such a great time exploring all Coos Bay, North Bend and Charleston had to offer…Together.
 
-{{< youtube "UGOlB26cMl8" >}}<br><br>
+{{< youtube "UGOlB26cMl8" >}}<br>
 
 **And here’s the great trip we took:** We arrived midday on a Thursday and our first stop – the [Oregon Dunes National Recreation Area](/tripideas/oregon-dunes-national-recreation-area/).  We took a wild ride through the almost 500 foot tall sand dunes at the southern portion of the more than 40 miles of dunes that stretch from North Bend to Florence on Oregon’s beautiful south coast. With a choice of an experienced Tour Guide and driving ourselves, we decided to test our metal against the dunes. It was exhilarating to careen over hills of sand and we even got to ride along the ocean. Such a rush!
 
