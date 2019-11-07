@@ -23,7 +23,9 @@ durations:
 
 {{< youtube "UGOlB26cMl8" >}}<br>
 
-**And here’s the great trip we took:** We arrived midday on a Thursday and our first stop – the [Oregon Dunes National Recreation Area](/tripideas/oregon-dunes-national-recreation-area/).  We took a wild ride through the almost 500 foot tall sand dunes at the southern portion of the more than 40 miles of dunes that stretch from North Bend to Florence on Oregon’s beautiful south coast. With a choice of an experienced Tour Guide and driving ourselves, we decided to test our metal against the dunes. It was exhilarating to careen over hills of sand and we even got to ride along the ocean. Such a rush!
+#### And here’s the great trip we took
+
+We arrived midday on a Thursday and our first stop – the [Oregon Dunes National Recreation Area](/tripideas/oregon-dunes-national-recreation-area/).  We took a wild ride through the almost 500 foot tall sand dunes at the southern portion of the more than 40 miles of dunes that stretch from North Bend to Florence on Oregon’s beautiful south coast. With a choice of an experienced Tour Guide and driving ourselves, we decided to test our metal against the dunes. It was exhilarating to careen over hills of sand and we even got to ride along the ocean. Such a rush!
 
 ![ATV'ing in the Oregon Dunes National Recreational Area](/img/dunes-three-images.jpg)
 
@@ -53,7 +55,7 @@ Saturday we took time for ourselves. Having pastries and coffee for breakfast wa
 
 ![Coos History Museum visit in Coos Bay Oregon](/img/museum-collage-two-images.jpg)
 
-![Shopping excursion in North Bend on Oregon's Adventure Coast](/img/shopping-north-bend-1.jpg)
+![](/img/shopping-girlfriends-north-bend.jpg)
 
 Then it was shopping time! North Bend and Coos Bay have some [eclectic shops ](/shopping/)to choose from. There are few strip malls or big box stores here and we were happy to see that shops here are locally owned and carry a wide array of unique merchandise. Plus Antiques! There are quite a few interesting antique shops along Hwy 101 in both North Bend and Coos Bay. We found many great treasures to take home.
 
