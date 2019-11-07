@@ -51,13 +51,19 @@ As the day wound down, we headed back to Sunset Bay State Park – the absolutel
 
 Saturday we took time for ourselves. Having pastries and coffee for breakfast was a real treat followed by the spa-like atmosphere of the salon where we had mimosas and pedicures. We can be such girls some time! We visited the [Coos History Museum](https://cooshistory.org/) which is filled with artifacts and dioramas depicting life along the Bay and rivers that make up the waterways of the South Coast. We were amazed to find the Fresnel lens from the Cape Arago Lighthouse on display here. If we couldn’t visit the lighthouse, at least we are getting to see a part of it up close.
 
-![](/img/Shopping-in-Downtown-North-Bend-cropped.jpg)
+![Coos History Museum visit in Coos Bay Oregon](/img/museum-collage-two-images.jpg)
+
+![Shopping excursion in North Bend on Oregon's Adventure Coast](/img/shopping-north-bend-1.jpg)
 
 Then it was shopping time! North Bend and Coos Bay have some [eclectic shops ](/shopping/)to choose from. There are few strip malls or big box stores here and we were happy to see that shops here are locally owned and carry a wide array of unique merchandise. Plus Antiques! There are quite a few interesting antique shops along Hwy 101 in both North Bend and Coos Bay. We found many great treasures to take home.
+
+![The Mill Casino resort hotel playing slots](/img/casino-slotmachine-03.jpg)
 
 And we wrapped up our day trying our luck at the [casinos](/gaming/). There are two in the Coos Bay and North Bend area. One of us got very lucky but we all had a great time!
 
 Sunday, we knew we had to head home but we got in one last adventure before we did. A morning hike through [South Slough National Estuarine Research Center](https://www.oregon.gov/dsl/SS/Pages/About.aspx). While the Interpretive Center was not open when we went, we were able to [download the trail map](https://www.oregon.gov/dsl/SS/Documents/south_slough_brochure_0415.pdf) and easily follow the trails through thick forest land down to the water of the estuary. It was strenuous but a great hike. We saw mushrooms and newts and so many plants we couldn’t identify!
+
+![Girlfriends hugging goodbye at the beach](/img/girlfriends-hug-at-beach.jpg)
 
 Then it was time to say a teary goodbye to my best friends. We know we will visit here again because there were so many things we didn’t get to do this time around – [mountain biking on Whiskey Run](), visiting the [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/), going [crabbing or clamming](/crabbing-clamming/) or even out on a charter fishing boat to name just a few.
 
