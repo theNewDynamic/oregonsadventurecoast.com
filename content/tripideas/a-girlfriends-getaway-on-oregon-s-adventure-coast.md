@@ -19,7 +19,8 @@ durations:
 - long-weekend
 
 ---
-**A girlfriend’s getaway on Oregon’s Adventure Coast? Totally!** One text to my girls and we were all in! We had such a great time exploring all Coos Bay, North Bend and Charleston had to offer…Together.
+**A girlfriend’s getaway on Oregon’s Adventure Coast? Totally!  
+**One text to my girls and we were all in! We had such a great time exploring all Coos Bay, North Bend and Charleston had to offer…together.
 
 {{< youtube "UGOlB26cMl8" >}}<br>
 
