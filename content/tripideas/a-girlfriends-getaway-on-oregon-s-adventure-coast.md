@@ -17,6 +17,7 @@ tripadventures:
 - state-park-national-lands
 durations:
 - long-weekend
+photo: "/img/girlfriend-getaway-sub-pg-header.jpg"
 
 ---
 **A girlfriend’s getaway on Oregon’s Adventure Coast? Totally!  
