@@ -9,6 +9,12 @@ fields:
 - type: textarea
   name: description
   label: Description
+- name: photo
+  type: file
+  config:
+    maxSize: 250
+  label: Header Photo
+  description: Choose a header image - size to 2048px by 530px
 - type: file
   name: image
   label: Image
