@@ -1,10 +1,7 @@
 ---
 title: Where to Find 2019 Holiday Magic & Fun on Oregon's Adventure Coast
 date: 2019-10-29T04:00:00.000+00:00
-description: Wondering where you can find some holiday magic this year on Oregon's
-  South Coast? We're so glad you asked! With November upon us, it's the perfect time
-  to do a "Holiday Event Roundup" featuring some of the upcoming events that will
-  grace Oregon's Adventure Coast this 2019 holiday season!
+description: ''
 image: "/img/nb-train-lights-blog-hdr-695x322.jpg"
 tags:
 - Holidays
