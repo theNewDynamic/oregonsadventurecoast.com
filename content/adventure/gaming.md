@@ -1,5 +1,7 @@
 ---
 title: Gaming
+aliases:
+  - /activities/category/gaming
 url: "/gaming"
 photo: "/img/gaming-sub-header.jpg"
 seo:

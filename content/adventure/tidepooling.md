@@ -1,5 +1,7 @@
 ---
 title: Ocean Life & Tidepooling
+aliases:
+  - /activities/category/tidepooling
 url: /ocean-life-and-tidepooling
 photo: /img/tidepooling-subheader.jpg
 seo:

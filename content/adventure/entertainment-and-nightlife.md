@@ -1,5 +1,7 @@
 ---
 title: Entertainment and Nightlife
+aliases:
+  - /activities/category/entertainment
 url: "/entertainment-and-nightlife"
 photo: "/img/nightlife-entertainment-sub-header.jpg"
 seo:

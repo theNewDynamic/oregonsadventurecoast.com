@@ -1,5 +1,7 @@
 ---
 title: Winter Fun On Oregon’s Adventure Coast
+aliases:
+  - /trip-ideas/winter-fun-in-oregons-adventure-coast
 description: >-
   Winter steelhead fishing and clamming are popular winter activities on the
   Oregon Coast, but it doesn’t end there. Watch waves crashing at Shore Acres,

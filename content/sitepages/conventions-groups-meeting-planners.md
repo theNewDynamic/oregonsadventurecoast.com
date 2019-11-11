@@ -1,5 +1,12 @@
 ---
 title: Conventions, Groups & Meeting Planners
+aliases:
+  - group-travel
+  - /group-travel/meeting-convention-info-request 
+  - /group-travel/sports-facilities
+  - /group-travel/sports-facilities/city-of-north-bend-municipal-swimming-pool
+  - /group-travel/sports-facilities/southwestern-oregon-community-college
+  - /groups
 layout: meeting-planners
 url: "/meeting-planners"
 photo: "/img/meeting-planners.jpg"

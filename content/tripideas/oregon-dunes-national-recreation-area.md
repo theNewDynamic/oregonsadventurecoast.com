@@ -1,5 +1,7 @@
 ---
 title: Oregon Dunes National Recreation Area
+aliases:
+  - /trip-ideas/guide-to-the-oregon-dunes-national-recreation-area-2
 description: >-
   The majestic dunes are one of our favorite attractions on the Southern Oregon
   Coast because they give visitors plenty of opportunities to find relaxation

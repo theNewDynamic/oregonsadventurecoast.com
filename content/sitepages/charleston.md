@@ -1,5 +1,8 @@
 ---
 title: Charleston
+aliases:
+  - /towns/charleston
+  - /trip-ideas/town/charleston
 layout: our-area
 url: "/our-area-charleston"
 photo: "/img/our-area-charleston-header.jpg"

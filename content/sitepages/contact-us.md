@@ -1,5 +1,7 @@
 ---
 title: Contact Us for Oregon Coast Trip Ideas
+aliases:
+  - /contact/visitors-packet
 layout: contact
 url: "/contact"
 photo: "/img/contact-page-header.jpg"

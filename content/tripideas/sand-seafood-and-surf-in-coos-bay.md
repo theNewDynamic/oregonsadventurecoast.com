@@ -1,5 +1,7 @@
 ---
 title: 'Sand, Seafood and Surf in Coos Bay'
+aliases:
+  - /trip-ideas/sand-seafood-and-surf-in-coos-bay
 description: >-
   The towns of Coos Bay, North Bend and Charleston, located on Highway 101 in
   the southern part of the state, are called “Oregon’s Adventure Coast” for a

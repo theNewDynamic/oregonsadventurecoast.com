@@ -1,5 +1,7 @@
 ---
 title: Planning Your Meeting, Retreat, Reunion or Convention
+aliases:
+  - /group-travel/bring-it-home-planning-your-meeting
 layout: meeting-planners-sub
 url: /mtg-planning-meeting-convention
 photo: /img/meeting-planners.jpg

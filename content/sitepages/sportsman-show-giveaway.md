@@ -1,5 +1,7 @@
 ---
 title: Sportsman's Show Contest
+aliases:
+  - /sportsman-qr
 date: 2019-01-21 00:53:11 +0000
 url: sportsman-show-giveaway
 layout: contact

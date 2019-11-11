@@ -1,5 +1,7 @@
 ---
 layout: lodgingpage
+aliases:
+  - /deals
 title: Places to Stay on the Oregon Coast
 photo: /img/lodging-header.jpg
 seo:

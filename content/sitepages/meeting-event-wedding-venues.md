@@ -1,5 +1,7 @@
 ---
 title: Meeting, Event, & Wedding Venues
+aliases:
+  - /group-travel/meeting-venues
 layout: meeting-planners-sub
 url: "/mtg-meeting-event-wedding-venues"
 photo: "/img/meeting-planners.jpg"

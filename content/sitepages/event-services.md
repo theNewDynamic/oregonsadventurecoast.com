@@ -1,5 +1,7 @@
 ---
 title: Event Services
+aliases:
+  - /group-travel/event-services
 layout: meeting-planners-sub
 url: "/mtg-event-services"
 photo: "/img/meeting-planners.jpg"

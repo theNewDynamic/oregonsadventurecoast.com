@@ -1,5 +1,7 @@
 ---
 title: 'Day By Day, Like Travel Writer, Nancy Brown'
+aliases:
+  - /trip-ideas/day-by-day-like-travel-writer-nancy-brown
 description: >-
   A few years back, we hosted Travel Writer Nancy Brown for a 3 day taste of our
   area. As we went over each day with her, we actually started getting

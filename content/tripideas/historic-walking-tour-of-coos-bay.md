@@ -1,5 +1,7 @@
 ---
 title: Historic Walking Tour of Coos Bay
+aliases:
+  - /trip-ideas/historic-walking-tour-of-coos-bay
 description: >-
   What now makes up the central district of Coos Bay was called Marshfield until
   1944 when residents voted to change the name to Coos Bay to match the name of

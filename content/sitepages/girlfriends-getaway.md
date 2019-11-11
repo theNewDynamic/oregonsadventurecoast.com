@@ -1,5 +1,9 @@
 ---
 title: Girlfriends Getaway
+aliases:
+  - /girlfreinds
+  - /Girlfreinds
+  - /Girlfriends
 url: girlfriends
 layout: contact
 photo: "/img/girlfriend-getaway-sub-pg-header.jpg"

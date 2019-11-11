@@ -1,5 +1,7 @@
 ---
 title: Kayak Fishing On The South Coast
+aliases:
+  - /trip-ideas/kayak-fishing-on-the-south-coast
 description: >-
   Kayak fishing in Oregon is enjoying a surge in popularity. Beginners and
   families can find a friendly learning curve with a slow troll for trout or

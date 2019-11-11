@@ -1,5 +1,7 @@
 ---
 title: Explore the Cape Arago Beach Loop
+aliases:
+  - /trip-ideas/explore-the-cape-arago-beach-loop
 description: >-
   The Cape Arago Beach Loop is a wonderful way to experience a variety of
   natural Pacific Coast beauty in a number of settings.  This loop will take you

@@ -1,5 +1,9 @@
 ---
 title: Untamed Dunes
+aliases:
+  - /featured-adventures/undeveloped-beaches
+  - /featured-adventures/the-dunes
+  - /activities/category/dunes
 url: /untamed-dunes
 photo: /img/untamed-dunes-sub-header.jpg
 seo:

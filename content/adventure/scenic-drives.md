@@ -1,5 +1,7 @@
 ---
 title: Scenic Drives
+aliases:
+  - /activities/category/scenic-drives
 url: "/scenic-drives"
 photo: "/img/scenic-drives-sub-header.jpg"
 seo:

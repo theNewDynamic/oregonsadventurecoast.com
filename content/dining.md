@@ -1,6 +1,9 @@
 ---
 layout: diningpage
 title: Oregon Coast Trips - Dining Options During Your Stay
+aliases:
+  - /eat-drink
+  - /activities/category/eat-drink-activities
 photo: "/img/dining-header.jpg"
 seo:
   description: Choose from a variety of dining options during your Oregon Coast trip!

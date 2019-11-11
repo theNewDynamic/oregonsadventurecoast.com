@@ -1,5 +1,7 @@
 ---
 title: Our Area
+aliases:
+  - /about
 layout: our-area
 url: "/our-area"
 photo: "/img/our-area-main.jpg"

@@ -1,5 +1,8 @@
 ---
 title: 33rd Annual Holiday Lights at Shore Acres
+aliases:
+  - /holidaylights
+  - /HolidayLights
 photo: "/img/shore-acres-holiday-lights-header.jpg"
 largeboxphoto: "/img/holiday-lights-large.jpg"
 mediumboxphoto: "/img/holiday-lights-medium.jpg"

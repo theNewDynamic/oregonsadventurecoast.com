@@ -1,6 +1,8 @@
 ---
 layout: adventures
 title: Oregon Coast Vacations - Experience the Adventure!
+aliases:
+  - /featured-adventures
 photo: "/img/adventures-atv-motorsports.jpg"
 boxes:
 - desktopphoto: "/img/undeveloped-beaches.jpg"

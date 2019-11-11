@@ -1,5 +1,8 @@
 ---
 title: Hiking & Walking
+aliases:
+  - /featured-adventures/walking-hiking
+  - /activities/category/hiking
 url: /hiking-walking
 photo: /img/adventures-main-and-hiking.jpg
 seo:

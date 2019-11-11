@@ -1,5 +1,7 @@
 ---
 title: Coos Bay
+aliases:
+  - /towns/coos-bay
 layout: our-area
 url: "/our-area-coos-bay"
 photo: "/img/our-area-coos-bay-header.jpg"

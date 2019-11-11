@@ -1,5 +1,7 @@
 ---
 title: Discover Historic Front Street
+aliases:
+  - /trip-ideas/discover-historic-front-street
 description: >-
   Hidden in plain sight, Coos Bay’s Front Street was originally a wharf which
   became the bustling heart of a water-dependent community (then called
