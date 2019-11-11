@@ -1,7 +1,5 @@
 ---
 title: North Bend
-aliases:
-  - /towns/north-bend
 layout: our-area
 url: "/our-area-north-bend"
 photo: "/img/our-area-north-bend-header.jpg"

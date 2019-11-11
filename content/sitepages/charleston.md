@@ -1,7 +1,6 @@
 ---
 title: Charleston
 aliases:
-  - /towns/charleston
   - /trip-ideas/town/charleston
 layout: our-area
 url: "/our-area-charleston"
