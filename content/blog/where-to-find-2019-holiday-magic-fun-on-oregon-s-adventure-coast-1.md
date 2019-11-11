@@ -15,7 +15,9 @@ tags:
 - Christmas Festivals
 - Holiday Festivals
 - Oregon Coast Holiday Events
-categories: []
+categories:
+- Holidays
+- Events
 seo:
   title: ''
   description: ''
