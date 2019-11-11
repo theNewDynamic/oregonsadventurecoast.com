@@ -2,7 +2,7 @@
 title: Where to Find 2019 Holiday Magic & Fun on Oregon's Adventure Coast
 date: 2019-10-29T04:00:00.000+00:00
 description: ''
-image: "/img/holiday-lights-mobile.jpg"
+image: "/img/nb-train-lights-blog-hdr-695x322.jpg"
 tags:
 - Holidays
 - " Coos Bay"
