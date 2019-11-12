@@ -227,3 +227,10 @@ fields:
   config: {}
   template: seo
   label: SEO Template
+- name: aliases
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Aliases
