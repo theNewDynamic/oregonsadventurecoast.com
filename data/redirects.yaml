@@ -1,40 +1,40 @@
 site_redirects:
   - redirect:
-      from: /img/Oregon-Coast-Visitor-Guide.pdf
-      to: /wp-content/uploads/2018/06/Oregon-Coast-Visitor-Guide.pdf
+      to: /img/Oregon-Coast-Visifromr-Guide.pdf
+      from: /wp-content/uploads/2018/06/Oregon-Coast-Visifromr-Guide.pdf
   - redirect:
-      from: /durations/full-day
-      to: /trip-ideas/durations/full-day
+      to: /durations/full-day
+      from: /trip-ideas/durations/full-day
   - redirect:
-      from: /durations/half-day
-      to: /trip-ideas/durations/half-day
+      to: /durations/half-day
+      from: /trip-ideas/durations/half-day
   - redirect:
-      from: /durations/long-weekend
-      to: /trip-ideas/durations/long-weekend
+      to: /durations/long-weekend
+      from: /trip-ideas/durations/long-weekend
   - redirect:
-      from: /blog
-      to: /2018/*
+      to: /blog
+      from: /2018/*
   - redirect:
-      from: /blog
-      to: /2017/*
+      to: /blog
+      from: /2017/*
   - redirect:
-      from: /blog
-      to: /2016/*
+      to: /blog
+      from: /2016/*
   - redirect:
-      from: /blog
-      to: /2015/*
+      to: /blog
+      from: /2015/*
   - redirect:
-      from: /blog
-      to: /2014/*
+      to: /blog
+      from: /2014/*
   - redirect:
-      from: /blog
-      to: /2013/*
+      to: /blog
+      from: /2013/*
   - redirect:
-      from: /blog
-      to: /2012/*
+      to: /blog
+      from: /2012/*
   - redirect:
-      from: /blog
-      to: /2011/*
+      to: /blog
+      from: /2011/*
   - redirect:
-      from: /blog
-      to: /2010/*
+      to: /blog
+      from: /2010/*
