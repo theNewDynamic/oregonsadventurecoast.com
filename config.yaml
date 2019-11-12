@@ -4,9 +4,25 @@ themesDir: components
 title: Oregon's Adventure Coast
 googleAnalytics: UA-4406033-1
 MetaDataFormat: yaml
+disableAliases: true
 params:
   visitorGuideLink: /visitor-guide
+mediaTypes:
+  text/netlify:
+    delimiter: ''
+    suffixes:
+    - ''
+outputFormats:
+  REDIR:
+    baseName: _redirects
+    isPlainText: true
+    mediatype: text/netlify
+    notAlternative: true
 outputs:
+  home:
+    - HTML
+    - RSS
+    - REDIR
   page:
     - HTML
   section:
