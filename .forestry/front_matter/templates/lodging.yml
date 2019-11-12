@@ -60,10 +60,3 @@ fields:
   template: contact
   label: Contact
   name: contact
-- name: aliases
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-  label: Aliases
