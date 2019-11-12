@@ -34,3 +34,10 @@ fields:
     - travelersinfo
   label: Layout
   description: Choose the Layout/Sidebar for Your Page
+- name: aliases
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Aliases
