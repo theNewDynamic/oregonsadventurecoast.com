@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: "/static/content/"
 webhook_url: 
 sections:
+- type: document
+  path: data/redirects.yaml
+  label: Redirects
+  match: "**/*"
 - type: heading
   label: Pages
 - type: document
