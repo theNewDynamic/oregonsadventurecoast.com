@@ -15,3 +15,10 @@ fields:
 - type: file
   name: photo
   label: Photo
+- name: aliases
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Aliases
