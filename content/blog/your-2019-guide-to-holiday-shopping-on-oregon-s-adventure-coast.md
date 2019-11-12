@@ -22,7 +22,7 @@ We’ve listed a few upcoming events as well as unique gift ideas you won’t fi
 
 We look forward to seeing you!
 
-**Upcoming Events**
+### UPCOMING EVENTS 
 THIS weekend!! [Coos Bay Downtown Association’s (CBDA) Holiday Open House](https://coosbaydowntown.org/holiday-events-in-downtown-2/)
 **November 15th – 9 AM to 5 PM
 November 16th – 10 AM to 4 PM**
