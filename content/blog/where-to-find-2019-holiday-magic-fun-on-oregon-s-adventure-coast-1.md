@@ -49,3 +49,5 @@ Santa arrives at 3 p.m. The tree lighting begins at 5 p.m. and is followed by th
 **December 7, 2019: Empire Tree Lighting Celebration**
 
 Santa will arrive on a Fire Engine and light the tree in Coos Bay’s Empire District. Enjoy refreshments, live music and be sure to vote for your favorite Christmas village! The tree is located at the Star of Hope Center at 657 Newmark Ave. Festivities begin at 5 p.m. Presented by the [Community Coalition of Empire.](https://www.facebook.com/empirecommunitycoalition/)
+
+**Local Tip!** While you're here, be sure to go see the beautiful lighted trains at the [Oregon Coast Historical Railway](https://oregonsadventurecoast.us17.list-manage.com/track/click?u=23d20aa9dd6b1cc84d8ba12c6&id=908d5a258b&e=cad3f05a54)! You can see them any evening Thanksgiving through Christmas!
