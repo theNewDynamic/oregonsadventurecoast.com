@@ -26,5 +26,12 @@ fields:
   name: image
   label: Image
   template: image
+- name: aliases
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Aliases
 pages:
 - content/event/north-bend-tree-lighting-and-lighted-parade.md
