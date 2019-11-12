@@ -32,9 +32,8 @@ Get a jump start on your holiday shopping this weekend and come to downtown Coos
 #### [**Downtown Coos Bay Black Friday**](https://coosbaydowntown.org/holiday-events-in-downtown-2/)**-November 29**
 Set your alarm! Shop early, eat, mingle, and explore downtown on Black Friday, November 29th. These shops will offer extra specials for you at 7:00 am and be doing giveaways throughout the day: Tru Furniture, Canard Labs, Checkerberry’s Flowers & Gifts, So it Goes Coffeehouse, Katrina Kathleen’s Home Décor, Jennies Shoes, Marshfield Mercantile and Leaf’s Treehouse.#ShopLocal
 
-#### [Shop Small Saturday in Downtown Coos Bay](https://coosbaydowntown.org/holiday-events-in-downtown-2/)
-November 30
-10 AM – 3 PM
+#### [Shop Small Saturday in Downtown Coos Bay](https://coosbaydowntown.org/holiday-events-in-downtown-2/)**-November 30 10 AM – 3 PM**
+
 Grab the Downtown Coos Bay mug you earned earlier in the month or purchase one on Shop Small Saturday and enjoy a warm cup of cider or eggnog as you #ShopLocal. Maps of participating Cider Stroll/Noggin’ Along businesses and commemorative mugs are available at Jennie’s Shoes, 262 Central Ave. Some restrictions apply. Mugs can be purchased for $10.  
 
 ![](/img/Holiday Shopping Coos Bay North Bend Charleston.jpg)
