@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: "/static/content/"
 webhook_url: 
 sections:
-- type: document
-  path: data/redirects.yaml
-  label: Redirects
-  match: "**/*"
 - type: heading
   label: Pages
 - type: document
@@ -76,6 +72,9 @@ sections:
   - tours-and-equipment
 - type: heading
   label: Data
+- type: document
+  path: data/redirects.yaml
+  label: Redirects
 - type: document
   path: site/data/taxonomies.yaml
   label: Taxonomies
