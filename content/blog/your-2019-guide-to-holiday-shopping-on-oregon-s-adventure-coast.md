@@ -29,10 +29,10 @@ November 16th – 10 AM to 4 PM**
 
 Get a jump start on your holiday shopping this weekend and come to downtown Coos Bay for the Annual Downtown Holiday Open House presented by The Coos Bay Downtown Association. Enjoy shopping while sipping on yummy refreshments. Earn a commemorative “Downtown Coos Bay” mug November 15, 2019 through November 30, 2019 when you collect $100 in retail or restaurant receipts (while supplies last). There will also be a chance to win door prizes Friday, November 15th from 9 a.m. to 5 p.m. and Saturday, November 16th from 10 a.m. to 4 p.m. Pick up a map of participating businesses at Katrina Kathleen’s Home Décor and Checkerberry’s Flowers & Gifts.
 
-#### [**Downtown Coos Bay Black Friday**](https://coosbaydowntown.org/holiday-events-in-downtown-2/)**-November 29**
+#### [**Downtown Coos Bay Black Friday**](https://coosbaydowntown.org/holiday-events-in-downtown-2/)**-November 29, 2019**
 Set your alarm! Shop early, eat, mingle, and explore downtown on Black Friday, November 29th. These shops will offer extra specials for you at 7:00 am and be doing giveaways throughout the day: Tru Furniture, Canard Labs, Checkerberry’s Flowers & Gifts, So it Goes Coffeehouse, Katrina Kathleen’s Home Décor, Jennies Shoes, Marshfield Mercantile and Leaf’s Treehouse.#ShopLocal
 
-#### [Shop Small Saturday in Downtown Coos Bay](https://coosbaydowntown.org/holiday-events-in-downtown-2/)**-November 30 10 AM – 3 PM**
+#### [Shop Small Saturday in Downtown Coos Bay](https://coosbaydowntown.org/holiday-events-in-downtown-2/)**-November 30, 2019 10 AM – 3 PM**
 
 Grab the Downtown Coos Bay mug you earned earlier in the month or purchase one on Shop Small Saturday and enjoy a warm cup of cider or eggnog as you #ShopLocal. Maps of participating Cider Stroll/Noggin’ Along businesses and commemorative mugs are available at Jennie’s Shoes, 262 Central Ave. Some restrictions apply. Mugs can be purchased for $10.  
 
