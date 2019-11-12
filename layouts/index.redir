@@ -1,7 +1,7 @@
 {{ if .Site.Data.redirects.site_redirects }}
     {{ range .Site.Data.redirects.site_redirects }}
         {{ if and .redirect.from .redirect.to }}
-            {{ .redirect.to }}&emsp;{{ .redirect.from }}<br />
+            {{ .redirect.to }} {{ .redirect.from }}
         {{ end }}
     {{ end }}
 {{ end }}
