@@ -1,0 +1,17 @@
+---
+label: Redirects
+hide_body: true
+fields:
+- name: site_redirects
+  type: field_group_list
+  fields:
+  - name: redirect
+    type: include
+    config: {}
+    template: redirect
+    label: Redirect
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Site Redirects

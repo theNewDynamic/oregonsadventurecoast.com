@@ -1,8 +1,11 @@
 ---
 title: Where to Find 2019 Holiday Magic & Fun on Oregon's Adventure Coast
 date: 2019-10-29T04:00:00.000+00:00
-description: ''
-image: "/img/holiday-lights-mobile.jpg"
+description: Wondering where you can find some holiday magic this year on Oregon's
+  South Coast? We're so glad you asked! With November upon us, it's the perfect time
+  to do a "Holiday Event Roundup" featuring some of the upcoming events that will
+  grace Oregon's Adventure Coast this 2019 holiday season!
+image: "/img/nb-train-lights-blog-hdr-695x322.jpg"
 tags:
 - Holidays
 - " Coos Bay"
@@ -12,7 +15,9 @@ tags:
 - Christmas Festivals
 - Holiday Festivals
 - Oregon Coast Holiday Events
-categories: []
+categories:
+- Holidays
+- Events
 seo:
   title: ''
   description: ''
@@ -44,3 +49,5 @@ Santa arrives at 3 p.m. The tree lighting begins at 5 p.m. and is followed by th
 **December 7, 2019: Empire Tree Lighting Celebration**
 
 Santa will arrive on a Fire Engine and light the tree in Coos Bay’s Empire District. Enjoy refreshments, live music and be sure to vote for your favorite Christmas village! The tree is located at the Star of Hope Center at 657 Newmark Ave. Festivities begin at 5 p.m. Presented by the [Community Coalition of Empire.](https://www.facebook.com/empirecommunitycoalition/)
+
+**Local Tip!** While you're here, be sure to go see the beautiful lighted trains at the [Oregon Coast Historical Railway](https://oregonsadventurecoast.us17.list-manage.com/track/click?u=23d20aa9dd6b1cc84d8ba12c6&id=908d5a258b&e=cad3f05a54)! You can see them any evening Thanksgiving through Christmas!

@@ -1,19 +1,20 @@
 ---
 title: Holiday Shopping Fun on Oregon's Adventure Coast!
-date: '2018-11-07T09:14:29-05:00'
-description: >-
-  There is a bounty of holiday treasures waiting to be discovered right now in
-  locally owned shops throughout Oregon's Adventure Coast.
+date: 2018-11-07T09:14:29-05:00
+description: There is a bounty of holiday treasures waiting to be discovered right
+  now in locally owned shops throughout Oregon's Adventure Coast.
 tags:
-  - news
-  - holiday shopping
-  - Shop Small Saturday
-  - Downtown Coos Bay
-  - Holiday Open House
-  - Downtown Coos Bay Association
+- news
+- holiday shopping
+- Shop Small Saturday
+- Downtown Coos Bay
+- Holiday Open House
+- Downtown Coos Bay Association
 categories:
-  - Holidays
-image: /img/shopping-north-bend.jpg
+- Holidays
+image: "/img/shopping-north-bend.jpg"
+draft: true
+
 ---
 How do you shop for the person who has everything? You come to Oregon's South Coast and find unique treasures they would not find anywhere else! There is a bounty of holiday treasures waiting to be discovered right now in locally owned shops throughout Oregon's Adventure Coast. With so many extraordinary events and retail shops opening every season, there is something for everyone on your holiday list (including yourself). 
 

@@ -17,6 +17,7 @@ tags:
 categories:
 - Miscellaneous
 image: "/img/04-25-18-coos-bay-farmers-market.jpg"
+draft: true
 
 ---
 The Coos Bay Farmers Market is set to open its 18th season on Wednesday, May 2nd! The market operates every Wednesday from 9 AM to 2 PM through October 31st and is located in the heart of the Coos Bay downtown historic district on Central Ave. from Highway 101 across from the Coos Bay Visitors Center.

@@ -76,5 +76,12 @@ fields:
     - long-weekend
     min: '1'
     max: '3'
+- name: aliases
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Aliases
 pages:
 - content/tripideas/a-girlfriends-getaway-on-oregon-s-adventure-coast.md
