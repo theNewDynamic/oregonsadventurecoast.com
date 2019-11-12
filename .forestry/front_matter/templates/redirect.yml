@@ -1,4 +1,16 @@
 ---
 label: Redirect
 hide_body: true
-fields: []
+fields:
+- name: from
+  type: text
+  config:
+    required: false
+  label: From
+  description: The actual file path tied to the redirect
+- name: to
+  type: text
+  config:
+    required: false
+  label: To
+  description: The seudo path that will redirect to the actual file
