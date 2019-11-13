@@ -18,12 +18,13 @@ seo:
 desktoptitle: North Bend Tree Lighting & Lighted Truck Parade
 mobiletitle: North Bend Holiday Events
 hovertitle: North Bend Holiday Events
-hoverdescription: Join us for a bright, colorful and tasty holiday season kick-off
+hoverdescription: Join us for a bright, colorful and tasty holiday season kickoff
   in North Bend this year!
 photo: "/img/north-bend-tree-lighting-event-sub-header.jpg"
 largeboxphoto: "/img/nb-tree-lighting-trucks-large.jpg"
 mediumboxphoto: "/img/nb-tree-lighting-trucks-medium.jpg"
 smallboxphoto: "/img/nb-tree-lighting-trucks-small.jpg"
+aliases: []
 
 ---
 ![](/img/nb-tree-lighting-trucks-695x322-1.jpg)
