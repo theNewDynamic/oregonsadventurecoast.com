@@ -41,7 +41,7 @@ Set your alarm! Shop early, eat, mingle, and explore downtown on Black Friday, N
 
 Grab the Downtown Coos Bay mug you earned earlier in the month or purchase one on Shop Small Saturday and enjoy a warm cup of cider or eggnog as you #ShopLocal. Maps of participating Cider Stroll/Noggin’ Along businesses and commemorative mugs are available at Jennie’s Shoes, 262 Central Ave. Some restrictions apply. Mugs can be purchased for $10.
 
-While you're here, you will also find an array of unique gift options for everyone on your list in locally-owned shops and boutiques in downtown North Bend and Charleston  We put together a sampling of shops and local eateries to have on your radar as you embark on your holiday shopping adventure.
+While you're here, you will also find an array of unique gift options for everyone on your list in locally-owned shops and boutiques in downtown **North Bend** and **Charleston.**  We put together a sampling of shops and local eateries to have on your radar as you embark on your holiday shopping adventure.
 
 ![](/img/Holiday Shopping Coos Bay North Bend Charleston.jpg)
 

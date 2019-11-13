@@ -5,11 +5,16 @@ fields:
 - name: site_redirects
   type: field_group_list
   fields:
-  - name: redirect
-    type: include
-    config: {}
-    template: redirect
-    label: Redirect
+  - name: from
+    type: text
+    config:
+      required: false
+    label: From
+  - name: to
+    type: text
+    config:
+      required: false
+    label: To
   config:
     min: 
     max: 
