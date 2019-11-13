@@ -119,23 +119,23 @@ Our region is full of independently owned dining establishments serving up every
 
 #### FOR THE HISTORY BUFF
 
-[Coos History Museum & Maritime Collection](https://cooshistory.org/) - Local history books, jewelry and fused glass art can be found in their gift shop.
+[Coos History Museum & Maritime Collection](https://cooshistory.org/) - Local history books, jewelry and fused glass art can be found in their gift shop. In Coos Bay.
 
 #### FOR THE NATURE LOVER
 
-[South Slough Reserve Gift Shop ](https://www.oregonsadventurecoast.com/tags/south-slough-nerr/)- Great place to find local history, unique gifts made by local artisans, such as walking sticks and leather goods, books about birds, insects, fish, amphibians and mammals and much much more!
+[South Slough Reserve Gift Shop ](https://www.oregonsadventurecoast.com/tags/south-slough-nerr/)- Great place to find local history, unique gifts made by local artisans, such as walking sticks and leather goods, books about birds, insects, fish, amphibians and mammals and much much more! Outside Charleston on 7 Devils Road.
 
 #### FOR THE COLLECTOR
 
-[Organic Glass Art & Gifts](https://www.facebook.com/organicglassart/) - Traditional crafts and contemporary art ranging from pendants and ornaments to pottery and pipes. Find something for everyone and every budget! www.facebook.com
+[Organic Glass Art & Gifts](https://www.facebook.com/organicglassart/) - Traditional crafts and contemporary art ranging from pendants and ornaments to pottery and pipes. Find something for everyone and every budget! In downtown Coos Bay.
 
-[Vintage 101 ](https://www.facebook.com/atVintage101)- Antiques and collectibles from multiple vendors.
+[Vintage 101 ](https://www.facebook.com/atVintage101)- Antiques and collectibles from multiple vendors. In downtown Coos Bay.
 
-[Artist Loft Gallery ](https://www.theartistloftgallery.com)(inside Pony Village Mall) - An artist-run gallery featuring about 25 local artists. Works include paintings, jewelry, sculpture, and photography.
+[Artist Loft Gallery](https://www.theartistloftgallery.com) - An artist-run gallery featuring local and regional artists. Works include paintings, jewelry, sculpture, and photography. In downtown Coos Bay.
 
-[Pony Village Mall -](https://www.ponyvm.com/) You’ll enjoy a range of shopping options to suit every taste!
+[Pony Village Mall -](https://www.ponyvm.com/) You’ll enjoy a range of shopping options to suit every taste! In North Bend.
 
-[Leafs Treehouse ](https://www.facebook.com/TreehouseMall)- A collective of unique and interesting locally owned small individual stores exhibiting individuality craftsmanship and artistry. Throughout the mall, you will find an interesting mix of vintage, repurposed, antiques, eclectic and fun.
+[Leafs Treehouse ](https://www.facebook.com/TreehouseMall)- A collective of unique and interesting locally owned small individual stores exhibiting individuality craftsmanship and artistry. Throughout the mall, you will find an interesting mix of vintage, repurposed, antiques, eclectic and fun. In downtown Coos Bay.
 
 #### FOR THE BOOKWORM
 
