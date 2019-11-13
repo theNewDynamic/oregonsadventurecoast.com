@@ -105,11 +105,11 @@ Our region is full of independently owned dining establishments serving up every
 
 #### FOR THE FASHIONISTA
 
-[Painted Zebra Boutique](https://www.facebook.com/paintedzebraboutique/) - When we asked our Facebook followers for their recommendations, Painted Zebra was heavily endorsed. Stylish clothing, jewelry, handbags, organic lotions and much more for women and juniors.
+[Painted Zebra Boutique](https://www.facebook.com/paintedzebraboutique/) - When we asked our Facebook followers for their recommendations, Painted Zebra was heavily endorsed. Stylish clothing, jewelry, handbags, organic lotions and much more for women and juniors. In downtown North Bend.
 
 [Katrina Kathleen’s Home Decor & Gifts](https://www.facebook.com/katrinakathleens/?rf=212911775714072) - Home accents, holiday items and ornaments, jewelry, floral, accessories, antiques and more.
 
-[Ko-Kwel Gifts](https://www.themillcasino.com) - Handcrafted jewelry and beadwork, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members.
+[Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts/) - Handcrafted jewelry and beadwork, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members.
 
 [Canard Labs](https://canardlabs.com/)– Shoppers will find amazing and luxurious ways to pamper themselves with decadent soaps, lotions, organic skincare, soothing candles and more.
 
