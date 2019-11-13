@@ -119,7 +119,7 @@ Our region is full of independently owned dining establishments serving up every
 
 #### FOR THE HISTORY BUFF
 
-[Coos History Museum & Maritime Collection](www.cooshistory.org) - Local history books, jewelry and fused glass art can be found in their gift shop.
+[Coos History Museum & Maritime Collection](https://cooshistory.org/) - Local history books, jewelry and fused glass art can be found in their gift shop.
 
 #### FOR THE NATURE LOVER
 
