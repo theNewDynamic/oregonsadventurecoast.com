@@ -7,13 +7,15 @@ description: There is a bounty of holiday treasures waiting to be discovered rig
 image: "/img/Holiday Shopping Guide 2019 Coos Bay, North Bend, Charleston Oregon.jpg"
 tags:
 - Holiday Shopping
-categories: []
+categories:
+- Shopping
+- Holidays
 seo:
-  title: ''
-  description: ''
+  title: Your 2019 Guide to Holiday Shopping on Oregon's Adventure Coast
+  description: There is a bounty of holiday treasures waiting to be discovered right
+    now in locally-owned shops throughout Oregon's Adventure Coast.
   imgalt: ''
-  image: ''
-draft: true
+  image: "/img/Holiday Shopping Guide 2019 Coos Bay, North Bend, Charleston Oregon.jpg"
 
 ---
 Join us on Oregon’s South Coast this holiday season and check EVERYONE off your list (including yourself!). There is a bounty of holiday treasures waiting to be discovered right now in locally-owned shops throughout the region. Plan ahead and make a day or weekend of it and really get into the spirit of the season.
@@ -22,19 +24,24 @@ We’ve listed a few upcoming events as well as unique gift ideas you won’t fi
 
 We look forward to seeing you!
 
-### UPCOMING EVENTS 
+### UPCOMING EVENTS
+
 #### THIS weekend!! [Coos Bay Downtown Association’s (CBDA) Holiday Open House](https://coosbaydowntown.org/holiday-events-in-downtown-2/)
+
 **November 15th – 9 AM to 5 PM <br>
 November 16th – 10 AM to 4 PM**
 
 Get a jump start on your holiday shopping this weekend and come to downtown Coos Bay for the Annual Downtown Holiday Open House presented by The Coos Bay Downtown Association. Enjoy shopping while sipping on yummy refreshments. Earn a commemorative “Downtown Coos Bay” mug November 15, 2019 through November 30, 2019 when you collect $100 in retail or restaurant receipts (while supplies last). There will also be a chance to win door prizes Friday, November 15th from 9 a.m. to 5 p.m. and Saturday, November 16th from 10 a.m. to 4 p.m. Pick up a map of participating businesses at Katrina Kathleen’s Home Décor and Checkerberry’s Flowers & Gifts.
 
 #### [**Downtown Coos Bay Black Friday**](https://coosbaydowntown.org/holiday-events-in-downtown-2/)**-November 29, 2019**
+
 Set your alarm! Shop early, eat, mingle, and explore downtown on Black Friday, November 29th. These shops will offer extra specials for you at 7:00 am and be doing giveaways throughout the day: Tru Furniture, Canard Labs, Checkerberry’s Flowers & Gifts, So it Goes Coffeehouse, Katrina Kathleen’s Home Décor, Jennies Shoes, Marshfield Mercantile and Leaf’s Treehouse.#ShopLocal
 
 #### [Shop Small Saturday in Downtown Coos Bay](https://coosbaydowntown.org/holiday-events-in-downtown-2/)**-November 30, 2019 10 AM – 3 PM**
 
-Grab the Downtown Coos Bay mug you earned earlier in the month or purchase one on Shop Small Saturday and enjoy a warm cup of cider or eggnog as you #ShopLocal. Maps of participating Cider Stroll/Noggin’ Along businesses and commemorative mugs are available at Jennie’s Shoes, 262 Central Ave. Some restrictions apply. Mugs can be purchased for $10.  
+Grab the Downtown Coos Bay mug you earned earlier in the month or purchase one on Shop Small Saturday and enjoy a warm cup of cider or eggnog as you #ShopLocal. Maps of participating Cider Stroll/Noggin’ Along businesses and commemorative mugs are available at Jennie’s Shoes, 262 Central Ave. Some restrictions apply. Mugs can be purchased for $10.
+
+While you're here, you will also find an array of unique gift options for everyone on your list in locally-owned shops and boutiques in downtown North Bend and Charleston  We put together a sampling of shops and local eateries to have on your radar as you embark on your holiday shopping adventure.
 
 ![](/img/Holiday Shopping Coos Bay North Bend Charleston.jpg)
 
@@ -70,11 +77,19 @@ Here are a few ideas to keep you nourished and hydrated while you “shop ‘til
 
 [7 Devils Brewing Co](www.7devilsbrewery.com).– A popular local hang out with live music, great beer, and amazing food. You can also pick up some of their tasty ale to take home or gift.
 
+[Wildflour Cafe](https://www.wildflour-catering.com/)- Specializes in sandwiches, salads, comfort foods, pastries and vegetarian dishes made with fresh, locally sourced ingredients. Open Monday through Saturday.
+
+[Tin Thistle](https://www.facebook.com/thetinthistlecafe/)- A Celtic themed whole foods vegan café featuring pasties, village bowls, vegetarian burgers, soup, pies and smoothies.
+
 ### GIFT IDEAS FOR EVERYONE ON YOUR LIST
 
 We’ve compiled some ideas for everyone on your list. Holiday shopping, done!
 
 #### FOR THE FOODIE
+
+Our region is full of independently owned dining establishments serving up everything from fresh sushi, pub-style fish-n-chips, gourmet Italian, home-made pancakes, fresh Mexican food, world-class chowder and so much more. There is literally a restaurant for every taste, so consider picking up a gift certificate to one of [our many delicious dining establishments](https://www.oregonsadventurecoast.com/dining/)!
+
+[Sweet Street](https://www.facebook.com/sweetstreetcoosbay/)- You can't go wrong gifting treats like gourmet candies, flavored popcorn, fresh fudge, caramel apples, and more!
 
 [7 Devils Brewing Co](www.7devilsbrewery.com). – Grab a six-pack of this popular Coos Bay Northwest-style ales.
 
@@ -98,11 +113,13 @@ We’ve compiled some ideas for everyone on your list. Holiday shopping, done!
 
 [Canard Labs](www.canardlabs.com)– Shoppers will find amazing and luxurious ways to pamper themselves with decadent soaps, lotions, organic skincare, soothing candles and more.
 
-[Truffles](www.facebook.com/trufflescoosbay)– A delightful boutique filled to the brim with beautiful gifts, unique women’s apparel and accessories, an adorable children’s area, and an eclectic collection of home decor including lamps, pictures, baskets, furniture, garden decor and so much more!
+[Checkerberry’s Flowers and Gifts ](https://i-pbgsi-1h8yyg.instant.forestry.io/blog/your-2019-guide-to-holiday-shopping-on-oregon-s-adventure-coast/www.checkerberrys.com)– In addition to beautiful holiday arrangements and centerpieces, look for high-quality fashion pieces and jewelry!
+
+[Pony Village Mall -](https://i-pbgsi-1h8yyg.instant.forestry.io/blog/your-2019-guide-to-holiday-shopping-on-oregon-s-adventure-coast/www.ponyvm.com/) Be sure to check out the multiple new clothing stores in this North Bend mall .
 
 #### FOR THE HISTORY BUFF
 
-[Coos History Museum & Maritime Collection](www.cooshistory.org) - Local history books, jewelry and fused glass art can be found in their new gift shop.
+[Coos History Museum & Maritime Collection](www.cooshistory.org) - Local history books, jewelry and fused glass art can be found in their gift shop.
 
 #### FOR THE NATURE LOVER
 
@@ -112,11 +129,9 @@ We’ve compiled some ideas for everyone on your list. Holiday shopping, done!
 
 [Organic Glass Art & Gifts](https://www.facebook.com/organicglassart/) - Traditional crafts and contemporary art ranging from pendants and ornaments to pottery and pipes. Find something for everyone and every budget! www.facebook.com
 
-[Vintage 101 ](www.facebook.com/atVintage101)- Antiques and collectibles with multiple vendors.
+[Vintage 101 ](www.facebook.com/atVintage101)- Antiques and collectibles from multiple vendors.
 
 [Artist Loft Gallery ](www.theartistloftgallery.com)(inside Pony Village Mall) - An artist-run gallery featuring about 25 local artists. Works include paintings, jewelry, sculpture, and photography.
-
-[Fiddlesticks Photo to Art Personalized Photo Art](www.fiddlefun.com) - They make “Photo Canvas Gallery Wraps” and “Woven Photo and Printed Blankets” from your photos. Free photo retouching. Keepsakes you will treasure forever.
 
 [Pony Village Mall -](www.ponyvm.com/) You’ll enjoy a range of shopping options to suit every taste!
 
@@ -124,7 +139,7 @@ We’ve compiled some ideas for everyone on your list. Holiday shopping, done!
 
 #### FOR THE BOOKWORM
 
-[Books by the Bay](https://www.facebook.com/Books-By-The-Bay-232314893488700/)-  Friendly, old style bookstore featuring new and used books with plenty of room to relax, read, have a cup of coffee, listen to author readings and get personal recommendations
+[Books by the Bay](https://www.facebook.com/Books-By-The-Bay-232314893488700/)-  Friendly, old-style bookstore featuring new and used books with plenty of room to relax, read, have a cup of coffee, listen to author readings and get personal recommendations
 
 #### FOR THE DECORATOR
 
@@ -134,15 +149,11 @@ We’ve compiled some ideas for everyone on your list. Holiday shopping, done!
 
 [Shore Acres Holiday Lights Gift Center](www.shoreacres.net) - Local art, jewelry, historical books, toys, puzzles ornaments, souvenirs and unique LED light features you can take home.
 
-[Simply Cottage Home Décor](https://www.facebook.com/Simply-Cottage-1421176431457257/timeline) - Beautifully refurbished furniture. www.facebook.com
-
 [Tarnished Threads](www.facebook.com/TarnishedThreads) - Home décor and gifts, such as jewelry, craft items, scented wax melts, decorative warmers, and much more. Housed in Marshfield Bargain House.
 
-[Tru Furniture ](www.lovetrufurniture.com)- Home décor, furniture and specialized paints.
+[Tru Furniture ](www.lovetrufurniture.com)- Home décor, furniture, and specialized paints.
 
-[Your Space Design Home Décor and Furniture ](yourspacedesigner.com)– Hand-selected gifts and home décor.
-
-[Checkerberry’s Flowers and Gifts ](www.checkerberrys.com)– In addition to beautiful holiday arrangements and centerpieces, shoppers can buy high-quality candles, special gift baskets, and much more
+[Checkerberry’s Flowers and Gifts ](www.checkerberrys.com)–Packed with treasures, shoppers will find gorgeous arrangements, high-end candles, specialty gift baskets, and much more in this beloved downtown Coos Bay establishment. 
 
 #### FOR THE YOUNG (AND THE YOUNG AT HEART)
 
