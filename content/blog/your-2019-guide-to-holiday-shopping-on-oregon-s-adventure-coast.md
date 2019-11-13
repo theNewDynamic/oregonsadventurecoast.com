@@ -97,7 +97,7 @@ Our region is full of independently owned dining establishments serving up every
 
 [Oregon Wine Cellars](https://winesoforegon.com/) - Wines from approximately 50 Oregon Wineries, Wine accessories, Full line of Oregon microbrews, local gourmet foods, handmade cigars, large assortment of Baltic Amber jewelry, unique variety of gift items. This place has it all! (155 S Broadway, Coos Bay, OR 97420)
 
-[Cranberry Sweets](www.cranberrysweets.com) - Local gourmet treats, fruit jelly candies, cookies, chocolates, caramels, toppings and so much more! There are always plenty of free samples available.
+[Cranberry Sweets](https://cranberrysweets.com/) - Local gourmet treats, fruit jelly candies, cookies, chocolates, caramels, toppings and so much more! There are always plenty of free samples available.
 
 [Chuck’s Seafood Custom Cannery and Seafood Market](www.chucksseafood.com) -  Gift Packs and Samplers are freshly prepared, hand-packed, and processed to keep their natural flavor. No artificial ingredients are ever used.
 
