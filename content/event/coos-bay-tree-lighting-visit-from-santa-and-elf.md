@@ -24,7 +24,6 @@ largeboxphoto: "/img/Tree lighting - 1024x395.jpg"
 mediumboxphoto: "/img/Tree Lighting - 667x355.jpg"
 smallboxphoto: "/img/Tree Lighting - 340x214.jpg"
 aliases: []
-draft: true
 
 ---
 ### Coos Bay Welcomes Santa for a Tree Lighting and "Elf"at the Egyptian Theatre
