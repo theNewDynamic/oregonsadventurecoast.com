@@ -51,11 +51,11 @@ Here are a few ideas to keep you nourished and hydrated while you “shop ‘til
 
 #### BREAKFAST
 
-[Bayside Coffee](http://www.baysidecoffeeshop.com/) – Fresh roasted specialty coffee and fine loose-leaf teas. Find interesting gift ideas, too!
+[Bayside Coffee](http://www.baysidecoffeeshop.com/) – Fresh roasted specialty coffee and fine loose-leaf teas. Find interesting gift ideas, too! In Charleston.
 
-[Bayside Bakery Grill](https://www.baysidebakerygrill.com/) – A family-run, independent bakery, grill & cafe offering high quality fresh-baked pastries, 100% Arabica coffee from around the world, as well as hot grilled Italian Panini sandwiches, & gourmet burgers. It’s a great place to meet, eat and socialize for breakfast, lunch or dinner.
+[Bayside Bakery Grill](https://www.baysidebakerygrill.com/) – A family-run, independent bakery, grill & cafe offering high quality fresh-baked pastries, 100% Arabica coffee from around the world, as well as hot grilled Italian Panini sandwiches, & gourmet burgers. It’s a great place to meet, eat and socialize for breakfast, lunch or dinner. In the Pony Village Mall.
 
-[Pancake Mill Restaurant and Pie Shoppe](https://www.pancakemill.com/) – Enjoy more than just pancakes and take home some pie for later.
+[Pancake Mill Restaurant and Pie Shoppe](https://www.pancakemill.com/) – Enjoy more than just pancakes and take home some pie for later. In North Bend.
 
 #### LUNCH, DINNER & LATE NIGHT BITES
 
