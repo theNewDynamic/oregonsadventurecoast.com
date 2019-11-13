@@ -143,18 +143,18 @@ Our region is full of independently owned dining establishments serving up every
 
 #### FOR THE DECORATOR
 
-[Katrina Kathleen’s Home Decor & Gifts](https://www.facebook.com/katrinakathleens/?rf=212911775714072) - Home accents, holiday items and ornaments, jewelry, floral, accessories, antiques and more.
+[Katrina Kathleen’s Home Decor & Gifts](https://www.facebook.com/katrinakathleens/?rf=212911775714072) - Home accents, holiday items and ornaments, jewelry, floral, accessories, antiques and more. In downtown Coos Bay.
 
-[Ko-Kwel Gifts -](https://www.themillcasino.com) Handcrafted jewelry and bead work, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members.
+[Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts/) - Handcrafted jewelry and bead work, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members. Inside The Mill Casino * Hotel & RV Park.
 
-[Shore Acres Holiday Lights Gift Center](https://www.shoreacres.net) - Local art, jewelry, historical books, toys, puzzles ornaments, souvenirs and unique LED light features you can take home.
+[Shore Acres Holiday Lights Gift Center](https://www.shoreacres.net) - Local art, jewelry, historical books, toys, puzzles ornaments, souvenirs and unique LED light features you can take home. Outside Charleston on Cape Arago Highway.
 
-[Tarnished Threads](https://www.facebook.com/TarnishedThreads) - Home décor and gifts, such as jewelry, craft items, scented wax melts, decorative warmers, and much more. Housed in Marshfield Bargain House.
+[Tarnished Threads](https://www.facebook.com/TarnishedThreads) - Home décor and gifts, such as jewelry, craft items, scented wax melts, decorative warmers, and much more. Housed in Marshfield Bargain House in Coos Bay.
 
-[Tru Furniture ](https://www.trufurnitureco.com/)- Home décor, furniture, and specialized paints.
+[Tru Furniture ](https://www.trufurnitureco.com/)- Home décor, furniture, and specialized paints. In downtown Coos Bay.
 
-[Checkerberry’s Flowers and Gifts ](https://checkerberrys.com)–Packed with treasures, shoppers will find gorgeous arrangements, high-end candles, specialty gift baskets, and much more in this beloved downtown Coos Bay establishment.
+[Checkerberry’s Flowers and Gifts ](https://checkerberrys.com)- Packed with treasures, shoppers will find gorgeous arrangements, high-end candles, specialty gift baskets, and much more in this beloved downtown Coos Bay establishment.
 
 #### FOR THE YOUNG (AND THE YOUNG AT HEART)
 
-[Remember When Toys ](https://theworldlink.com/places/shopping/toys/remember-when-toys/business_1144764052.html)– High-quality toys with excellent, helpful staff. Find nostalgic toys as well as new toys.
+[Remember When Toys ](https://theworldlink.com/places/shopping/toys/remember-when-toys/business_1144764052.html)– High-quality toys with excellent, helpful staff. Find nostalgic toys as well as new toys. In downtown Coos Bay.
