@@ -93,7 +93,7 @@ Our region is full of independently owned dining establishments serving up every
 
 [7 Devils Brewing Co](https://www.7devilsbrewery.com/) – Grab a six-pack of this popular Coos Bay Northwest-style ales.
 
-[Winter Farmers Market](https://www.facebook.com/PonyVillageMallFarmersMarket/) - Find local fare, vegetables, coffee and tea at the Coos Bay Winter Farmers Market, held in the Coos History Museum every Wednesday from 10 am to 2 pm through April.
+[Winter Farmers Market](https://www.facebook.com/PonyVillageMallFarmersMarket/) - Find local fare, vegetables, coffee and tea at the  Winter Farmers Market, held in the Pony Village Mall every Wednesday from 10 am to 2 pm through April.
 
 [Oregon Wine Cellars](https://winesoforegon.com/) - Wines from approximately 50 Oregon Wineries, Wine accessories, Full line of Oregon microbrews, local gourmet foods, handmade cigars, large assortment of Baltic Amber jewelry, unique variety of gift items. This place has it all! (155 S Broadway, Coos Bay, OR 97420)
 
