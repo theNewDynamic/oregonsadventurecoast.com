@@ -145,9 +145,9 @@ Our region is full of independently owned dining establishments serving up every
 
 [Katrina Kathleen’s Home Decor & Gifts](https://www.facebook.com/katrinakathleens/?rf=212911775714072) - Home accents, holiday items and ornaments, jewelry, floral, accessories, antiques and more.
 
-[Ko-Kwel Gifts -](www.themillcasino.com) Handcrafted jewelry and bead work, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members.
+[Ko-Kwel Gifts -](https://www.themillcasino.com) Handcrafted jewelry and bead work, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members.
 
-[Shore Acres Holiday Lights Gift Center](www.shoreacres.net) - Local art, jewelry, historical books, toys, puzzles ornaments, souvenirs and unique LED light features you can take home.
+[Shore Acres Holiday Lights Gift Center](https://www.shoreacres.net) - Local art, jewelry, historical books, toys, puzzles ornaments, souvenirs and unique LED light features you can take home.
 
 [Tarnished Threads](https://www.facebook.com/TarnishedThreads) - Home décor and gifts, such as jewelry, craft items, scented wax melts, decorative warmers, and much more. Housed in Marshfield Bargain House.
 
