@@ -1,6 +1,6 @@
 ---
 title: Your 2019 Guide to Holiday Shopping on Oregon's Adventure Coast
-date: 2019-11-12T05:00:00+00:00
+date: 2019-11-12T05:00:00.000+00:00
 description: There is a bounty of holiday treasures waiting to be discovered right
   now in locally-owned shops throughout Oregon's Adventure Coast.  Plan ahead and
   make a day or weekend of it and really get into the spirit of the season.
@@ -31,7 +31,7 @@ We look forward to seeing you!
 **November 15th – 9 AM to 5 PM <br>
 November 16th – 10 AM to 4 PM**
 
-Get a jump start on your holiday shopping this weekend and come to downtown Coos Bay for the Annual Downtown Holiday Open House presented by The Coos Bay Downtown Association. Enjoy shopping while sipping on yummy refreshments. Earn a commemorative “Downtown Coos Bay” mug November 15, 2019 through November 30, 2019 when you collect $100 in retail or restaurant receipts (while supplies last). There will also be a chance to win door prizes Friday, November 15th from 9 a.m. to 5 p.m. and Saturday, November 16th from 10 a.m. to 4 p.m. Pick up a map of participating businesses at Katrina Kathleen’s Home Décor and Checkerberry’s Flowers & Gifts.
+Get a jump start on your holiday shopping this weekend and come to downtown Coos Bay for the Annual Downtown Holiday Open House presented by The Coos Bay Downtown Association. Enjoy shopping while sipping on yummy refreshments. Earn a commemorative “Downtown Coos Bay” mug November 15, 2019 through November 30, 2019 when you collect $100 in retail or restaurant receipts (while supplies last). There will also be a chance to win door prizes Friday, November 15th from 9 a.m. to 5 p.m. and Saturday, November 16th from 10 a.m. to 4 p.m. Pick up a map of participating businesses at the Coos Bay Visitor Information Center, Katrina Kathleen’s Home Décor and Checkerberry’s Flowers & Gifts.
 
 #### [**Downtown Coos Bay Black Friday**](https://coosbaydowntown.org/holiday-events-in-downtown-2/)**-November 29, 2019**
 
