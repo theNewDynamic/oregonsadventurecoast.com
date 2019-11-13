@@ -151,9 +151,9 @@ Our region is full of independently owned dining establishments serving up every
 
 [Tarnished Threads](www.facebook.com/TarnishedThreads) - Home décor and gifts, such as jewelry, craft items, scented wax melts, decorative warmers, and much more. Housed in Marshfield Bargain House.
 
-[Tru Furniture ](www.lovetrufurniture.com)- Home décor, furniture, and specialized paints.
+[Tru Furniture ](https://www.trufurnitureco.com/)- Home décor, furniture, and specialized paints.
 
-[Checkerberry’s Flowers and Gifts ](www.checkerberrys.com)–Packed with treasures, shoppers will find gorgeous arrangements, high-end candles, specialty gift baskets, and much more in this beloved downtown Coos Bay establishment.
+[Checkerberry’s Flowers and Gifts ](https://checkerberrys.com)–Packed with treasures, shoppers will find gorgeous arrangements, high-end candles, specialty gift baskets, and much more in this beloved downtown Coos Bay establishment.
 
 #### FOR THE YOUNG (AND THE YOUNG AT HEART)
 
