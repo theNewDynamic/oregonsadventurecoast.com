@@ -149,7 +149,7 @@ Our region is full of independently owned dining establishments serving up every
 
 [Shore Acres Holiday Lights Gift Center](www.shoreacres.net) - Local art, jewelry, historical books, toys, puzzles ornaments, souvenirs and unique LED light features you can take home.
 
-[Tarnished Threads](www.facebook.com/TarnishedThreads) - Home décor and gifts, such as jewelry, craft items, scented wax melts, decorative warmers, and much more. Housed in Marshfield Bargain House.
+[Tarnished Threads](https://www.facebook.com/TarnishedThreads) - Home décor and gifts, such as jewelry, craft items, scented wax melts, decorative warmers, and much more. Housed in Marshfield Bargain House.
 
 [Tru Furniture ](https://www.trufurnitureco.com/)- Home décor, furniture, and specialized paints.
 
