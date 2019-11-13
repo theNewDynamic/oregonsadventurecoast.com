@@ -71,7 +71,7 @@ sections:
   templates:
   - tours-and-equipment
 - type: heading
-  label: Data
+  label: Other
 - type: document
   path: data/redirects.yaml
   label: Redirects
