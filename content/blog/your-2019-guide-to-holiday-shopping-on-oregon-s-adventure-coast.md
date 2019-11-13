@@ -33,11 +33,11 @@ November 16th – 10 AM to 4 PM**
 
 Get a jump start on your holiday shopping this weekend and come to downtown Coos Bay for the Annual Downtown Holiday Open House presented by The Coos Bay Downtown Association. Enjoy shopping while sipping on yummy refreshments. Earn a commemorative “Downtown Coos Bay” mug November 15, 2019 through November 30, 2019 when you collect $100 in retail or restaurant receipts (while supplies last). There will also be a chance to win door prizes Friday, November 15th from 9 a.m. to 5 p.m. and Saturday, November 16th from 10 a.m. to 4 p.m. Pick up a map of participating businesses at the Coos Bay Visitor Information Center, Katrina Kathleen’s Home Décor and Checkerberry’s Flowers & Gifts.
 
-#### [**Downtown Coos Bay Black Friday**](https://coosbaydowntown.org/holiday-events-in-downtown-2/)**-November 29, 2019**
+#### [**Downtown Coos Bay Black Friday**](https://coosbaydowntown.org/holiday-events-in-downtown-2/) **- November 29, 2019**
 
 Set your alarm! Shop early, eat, mingle, and explore downtown on Black Friday, November 29th. These shops will offer extra specials for you at 7:00 am and be doing giveaways throughout the day: Tru Furniture, Canard Labs, Checkerberry’s Flowers & Gifts, So it Goes Coffeehouse, Katrina Kathleen’s Home Décor, Jennies Shoes, Marshfield Mercantile and Leaf’s Treehouse.#ShopLocal
 
-#### [Shop Small Saturday in Downtown Coos Bay](https://coosbaydowntown.org/holiday-events-in-downtown-2/)**-November 30, 2019 10 AM – 3 PM**
+#### [Shop Small Saturday in Downtown Coos Bay](https://coosbaydowntown.org/holiday-events-in-downtown-2/) **- November 30, 2019 10 AM – 3 PM**
 
 Grab the Downtown Coos Bay mug you earned earlier in the month or purchase one on Shop Small Saturday and enjoy a warm cup of cider or eggnog as you #ShopLocal. Maps of participating Cider Stroll/Noggin’ Along businesses and commemorative mugs are available at Jennie’s Shoes, 262 Central Ave. Some restrictions apply. Mugs can be purchased for $10.
 
@@ -65,7 +65,7 @@ Here are a few ideas to keep you nourished and hydrated while you “shop ‘til
 
 [Coney Station](https://www.facebook.com/ConeyStation/) – A popular sports bar and pub with great food and live music and karaoke at night. In Coos Bay.
 
-[Fishermen's Seafood Market](https://fishermensseafoodmarket.com/) – The “official home of West Coast Clams” - a fresh seafood market with a select menu that includes amazing fish tacos, fish & chips, clam chowder, and fresh crab. Located on the docks directly across from the Coos Bay Visitor Center. Delicious.
+[Fishermen's Seafood Market](https://fishermensseafoodmarket.com/) – The “official home of West Coast Clams” - a fresh seafood market with a select menu that includes amazing fish tacos, fish & chips, clam chowder, and fresh crab. Located on the docks at the Coos Bay Boardwalk directly across from the Coos Bay Visitor Center. Delicious.
 
 [High Tide Café](http://hightidecafeoregon.com/home/) – Excellent customer service and award-winning clam chowder. In Charleston.
 
@@ -75,9 +75,9 @@ Here are a few ideas to keep you nourished and hydrated while you “shop ‘til
 
 [Zen Authentic Thai & Sushi Bar ](https://zenthaisushi.com/)– Everything you’d want – authentic Thai and fresh, unique sushi. In North Bend.
 
-[7 Devils Brewing Co](https://www.7devilsbrewery.com/).– A popular local hang out with live music, great beer, and amazing food. You can also pick up some of their tasty ale to take home or gift. In Coos Bay.
+[7 Devils Brewing Co](https://www.7devilsbrewery.com/) – A popular local hang out with live music, great beer, and amazing food. You can also pick up some of their tasty ale to take home or gift. In Coos Bay.
 
-[Wildflour Cafe](https://www.wildflour-catering.com/)- Specializes in sandwiches, salads, comfort foods, pastries and vegetarian dishes made with fresh, locally sourced ingredients. Open Monday through Saturday. In downtown North Bend.
+[Wildflour Cafe](https://www.wildflour-catering.com/) - Specializes in sandwiches, salads, comfort foods, pastries and vegetarian dishes made with fresh, locally sourced ingredients. Open Monday through Friday. In downtown North Bend.
 
 [Tin Thistle](https://www.facebook.com/thetinthistlecafe/)- A Celtic themed whole foods vegan café featuring pasties, village bowls, vegetarian burgers, soup, pies and smoothies. In downtown North Bend.
 
