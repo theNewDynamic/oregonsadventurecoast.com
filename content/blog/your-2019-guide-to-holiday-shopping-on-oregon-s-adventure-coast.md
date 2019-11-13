@@ -99,7 +99,7 @@ Our region is full of independently owned dining establishments serving up every
 
 [Cranberry Sweets](https://cranberrysweets.com/) - Local gourmet treats, fruit jelly candies, cookies, chocolates, caramels, toppings and so much more! There are always plenty of free samples available.
 
-[Chuck’s Seafood Custom Cannery and Seafood Market](www.chucksseafood.com) -  Gift Packs and Samplers are freshly prepared, hand-packed, and processed to keep their natural flavor. No artificial ingredients are ever used.
+[Chuck’s Seafood Custom Cannery and Seafood Market](https://www.chucksseafood.com/) -  Gift Packs and Samplers are freshly prepared, hand-packed, and processed to keep their natural flavor. No artificial ingredients are ever used.
 
 [Fishermen’s Wharf Seafood Market](https://charlestonoregonmerchants.com/merchants_directory/fishermans-wharf-floating-seafood-market/) - Gourmet canned and smoked seafood, specialty foods and seasonings, Fishermen’s Wharf apparel and more are offered in this iconic seafood market in Charleston’s scenic boat basin.
 
@@ -109,7 +109,7 @@ Our region is full of independently owned dining establishments serving up every
 
 [Katrina Kathleen’s Home Decor & Gifts](https://www.facebook.com/katrinakathleens/?rf=212911775714072) - Home accents, holiday items and ornaments, jewelry, floral, accessories, antiques and more.
 
-[Ko-Kwel Gifts](www.themillcasino.com) - Handcrafted jewelry and beadwork, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members.
+[Ko-Kwel Gifts](https://www.themillcasino.com) - Handcrafted jewelry and beadwork, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members.
 
 [Canard Labs](www.canardlabs.com)– Shoppers will find amazing and luxurious ways to pamper themselves with decadent soaps, lotions, organic skincare, soothing candles and more.
 
