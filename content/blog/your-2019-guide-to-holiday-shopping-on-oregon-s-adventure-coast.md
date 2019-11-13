@@ -129,13 +129,13 @@ Our region is full of independently owned dining establishments serving up every
 
 [Organic Glass Art & Gifts](https://www.facebook.com/organicglassart/) - Traditional crafts and contemporary art ranging from pendants and ornaments to pottery and pipes. Find something for everyone and every budget! www.facebook.com
 
-[Vintage 101 ](www.facebook.com/atVintage101)- Antiques and collectibles from multiple vendors.
+[Vintage 101 ](https://www.facebook.com/atVintage101)- Antiques and collectibles from multiple vendors.
 
-[Artist Loft Gallery ](www.theartistloftgallery.com)(inside Pony Village Mall) - An artist-run gallery featuring about 25 local artists. Works include paintings, jewelry, sculpture, and photography.
+[Artist Loft Gallery ](https://www.theartistloftgallery.com)(inside Pony Village Mall) - An artist-run gallery featuring about 25 local artists. Works include paintings, jewelry, sculpture, and photography.
 
-[Pony Village Mall -](www.ponyvm.com/) You’ll enjoy a range of shopping options to suit every taste!
+[Pony Village Mall -](https://www.ponyvm.com/) You’ll enjoy a range of shopping options to suit every taste!
 
-[Leafs Treehouse ](www.facebook.com/TreehouseMall)- A collective of unique and interesting locally owned small individual stores exhibiting individuality craftsmanship and artistry. Throughout the mall, you will find an interesting mix of vintage, repurposed, antiques, eclectic and fun.
+[Leafs Treehouse ](https://www.facebook.com/TreehouseMall)- A collective of unique and interesting locally owned small individual stores exhibiting individuality craftsmanship and artistry. Throughout the mall, you will find an interesting mix of vintage, repurposed, antiques, eclectic and fun.
 
 #### FOR THE BOOKWORM
 
