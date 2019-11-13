@@ -20,3 +20,5 @@ fields:
     max: 
     labelField: 
   label: Site Redirects
+pages:
+- data/redirects.yaml
