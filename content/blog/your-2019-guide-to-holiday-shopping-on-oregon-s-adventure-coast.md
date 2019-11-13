@@ -89,17 +89,17 @@ We’ve compiled some ideas for everyone on your list. Holiday shopping, done!
 
 Our region is full of independently owned dining establishments serving up everything from fresh sushi, pub-style fish-n-chips, gourmet Italian, home-made pancakes, fresh Mexican food, world-class chowder and so much more. There is literally a restaurant for every taste, so consider picking up a gift certificate to one of [our many delicious dining establishments](https://www.oregonsadventurecoast.com/dining/)!
 
-[Sweet Street](https://www.facebook.com/sweetstreetcoosbay/)- You can't go wrong gifting treats like gourmet candies, flavored popcorn, fresh fudge, caramel apples, and more!
+[Sweet Street](https://www.facebook.com/sweetstreetcoosbay/)- You can't go wrong gifting treats like gourmet candies, flavored popcorn, fresh fudge, caramel apples, and more! In downtown Coos Bay.
 
 [7 Devils Brewing Co](https://www.7devilsbrewery.com/) – Grab a six-pack of this popular Coos Bay Northwest-style ales.
 
-[Winter Farmers Market](https://www.facebook.com/PonyVillageMallFarmersMarket/) - Find local fare, vegetables, coffee and tea at the  Winter Farmers Market, held in the Pony Village Mall every Wednesday from 10 am to 2 pm through April.
+[Winter Farmers Market](https://www.facebook.com/PonyVillageMallFarmersMarket/) - Find local fare, vegetables, coffee and tea at the  Winter Farmers Market, held in the Pony Village Mall every Wednesday from 10 am to 2 pm through April. In North Bend.
 
-[Oregon Wine Cellars](https://winesoforegon.com/) - Wines from approximately 50 Oregon Wineries, Wine accessories, Full line of Oregon microbrews, local gourmet foods, handmade cigars, large assortment of Baltic Amber jewelry, unique variety of gift items. This place has it all! (155 S Broadway, Coos Bay, OR 97420)
+[Oregon Wine Cellars](https://winesoforegon.com/) - Wines from approximately 50 Oregon Wineries, Wine accessories, Full line of Oregon microbrews, local gourmet foods, handmade cigars, large assortment of Baltic Amber jewelry, unique variety of gift items. This place has it all! In downtown Coos Bay.
 
-[Cranberry Sweets](https://cranberrysweets.com/) - Local gourmet treats, fruit jelly candies, cookies, chocolates, caramels, toppings and so much more! There are always plenty of free samples available.
+[Cranberry Sweets](https://cranberrysweets.com/) - Local gourmet treats, fruit jelly candies, cookies, chocolates, caramels, toppings and so much more! There are always plenty of free samples available. In Coos Bay.
 
-[Chuck’s Seafood Custom Cannery and Seafood Market](https://www.chucksseafood.com/) -  Gift Packs and Samplers are freshly prepared, hand-packed, and processed to keep their natural flavor. No artificial ingredients are ever used.
+[Chuck’s Seafood Custom Cannery and Seafood Market](https://www.chucksseafood.com/) -  Gift Packs and Samplers are freshly prepared, hand-packed, and processed to keep their natural flavor. No artificial ingredients are ever used. In Charleston.
 
 [Fishermen’s Wharf Seafood Market](https://charlestonoregonmerchants.com/merchants_directory/fishermans-wharf-floating-seafood-market/) - Gourmet canned and smoked seafood, specialty foods and seasonings, Fishermen’s Wharf apparel and more are offered in this iconic seafood market in Charleston’s scenic boat basin.
 
