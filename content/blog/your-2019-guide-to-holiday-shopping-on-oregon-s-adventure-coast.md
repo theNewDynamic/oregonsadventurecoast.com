@@ -157,4 +157,4 @@ Our region is full of independently owned dining establishments serving up every
 
 #### FOR THE YOUNG (AND THE YOUNG AT HEART)
 
-[Remember When Toys ](www.facebook.com/pages/Remember-When-Toys)– High-quality toys with excellent, helpful staff. Find nostalgic toys as well as new toys.
+[Remember When Toys ](https://theworldlink.com/places/shopping/toys/remember-when-toys/business_1144764052.html)– High-quality toys with excellent, helpful staff. Find nostalgic toys as well as new toys.
