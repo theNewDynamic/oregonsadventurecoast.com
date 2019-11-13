@@ -19,15 +19,15 @@ desktoptitle: Coos Bay Tree Lighting, Visit from Santa and "ELF"!
 mobiletitle: Coos Bay Tree Lighting & Santa
 hovertitle: Coos Bay Tree Lighting, Visit from Santa and "ELF"!
 hoverdescription: Don't miss the Coos Bay holiday kickoff with a tree lighting, a
-  visit from Santa and a screening of  the movie "ELF"!
+  visit from Santa and a screening of  the movie "ELF" at the Egyptian Theatre!
 photo: "/img/north-bend-tree-lighting-event-sub-header.jpg"
-largeboxphoto: "/img/Tree lighting - 1024x395.jpg"
-mediumboxphoto: "/img/Tree Lighting - 667x355.jpg"
-smallboxphoto: "/img/Tree Lighting - 340x214.jpg"
+largeboxphoto: "/img/tree-lighting-coosbay-1024x395.jpg"
+mediumboxphoto: "/img/tree-lighting-coosbay-667x355.jpg"
+smallboxphoto: "/img/Tree-Lighting-coosbay-340x214.jpg"
 aliases: []
 
 ---
-### Coos Bay Welcomes Santa for a Tree Lighting and "Elf"at the Egyptian Theatre
+### Coos Bay Welcomes Santa for a Tree Lighting and a Screening of the movie "Elf"at the Egyptian Theatre
 
 Join Santa as he lights the 50 foot Christmas Tree in downtown Coos Bay. The event takes place at the Coos Bay Visitor Information Center. Cider and cookies will be served and carols will be sung as visitors await Santa's arrival.
 
