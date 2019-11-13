@@ -107,15 +107,15 @@ Our region is full of independently owned dining establishments serving up every
 
 [Painted Zebra Boutique](https://www.facebook.com/paintedzebraboutique/) - When we asked our Facebook followers for their recommendations, Painted Zebra was heavily endorsed. Stylish clothing, jewelry, handbags, organic lotions and much more for women and juniors. In downtown North Bend.
 
-[Katrina Kathleen’s Home Decor & Gifts](https://www.facebook.com/katrinakathleens/?rf=212911775714072) - Home accents, holiday items and ornaments, jewelry, floral, accessories, antiques and more.
+[Katrina Kathleen’s Home Decor & Gifts](https://www.facebook.com/katrinakathleens/?rf=212911775714072) - Home accents, holiday items and ornaments, jewelry, floral, accessories, antiques and more. In downtown Coos Bay.
 
-[Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts/) - Handcrafted jewelry and beadwork, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members.
+[Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts/) - Handcrafted jewelry and beadwork, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members. Inside The Mill Casino * Hotel & RV Park.
 
-[Canard Labs](https://canardlabs.com/)– Shoppers will find amazing and luxurious ways to pamper themselves with decadent soaps, lotions, organic skincare, soothing candles and more.
+[Canard Labs](https://canardlabs.com/)– Shoppers will find amazing and luxurious ways to pamper themselves with decadent soaps, lotions, organic skincare, soothing candles and more. In downtown Coos Bay.
 
-[Checkerberry’s Flowers and Gifts ](https://checkerberrys.com)– In addition to beautiful holiday arrangements and centerpieces, look for high-quality fashion pieces and jewelry!
+[Checkerberry’s Flowers and Gifts ](https://checkerberrys.com)– In addition to beautiful holiday arrangements and centerpieces, look for high-quality fashion pieces and jewelry! In downtown Coos Bay.
 
-[Pony Village Mall -](https://ponyvm.com/) Be sure to check out the multiple new clothing stores in this North Bend mall .
+[Pony Village Mall -](https://ponyvm.com/) Be sure to check out the multiple new clothing stores in this North Bend mall.
 
 #### FOR THE HISTORY BUFF
 
