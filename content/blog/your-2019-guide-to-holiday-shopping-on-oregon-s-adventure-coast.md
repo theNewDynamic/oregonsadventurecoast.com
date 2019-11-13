@@ -91,7 +91,7 @@ Our region is full of independently owned dining establishments serving up every
 
 [Sweet Street](https://www.facebook.com/sweetstreetcoosbay/)- You can't go wrong gifting treats like gourmet candies, flavored popcorn, fresh fudge, caramel apples, and more!
 
-[7 Devils Brewing Co](www.7devilsbrewery.com). – Grab a six-pack of this popular Coos Bay Northwest-style ales.
+[7 Devils Brewing Co](https://www.7devilsbrewery.com/) – Grab a six-pack of this popular Coos Bay Northwest-style ales.
 
 [Coos Bay Winter Farmers Market ](https://www.facebook.com/CoosBayFarmersMarket/)- Find local fare, vegetables, coffee and tea at the Coos Bay Winter Farmers Market, held in the Coos History Museum every Wednesday from 10 am to 2 pm through April.
 
