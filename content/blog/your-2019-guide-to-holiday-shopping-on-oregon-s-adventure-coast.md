@@ -95,7 +95,7 @@ Our region is full of independently owned dining establishments serving up every
 
 [Coos Bay Winter Farmers Market ](https://www.facebook.com/CoosBayFarmersMarket/)- Find local fare, vegetables, coffee and tea at the Coos Bay Winter Farmers Market, held in the Coos History Museum every Wednesday from 10 am to 2 pm through April.
 
-[Oregon Wine Cellars](www.winesoforegon.com ) - Wines from approximately 50 Oregon Wineries, Wine accessories, Full line of Oregon microbrews, local gourmet foods, handmade cigars, large assortment of Baltic Amber jewelry, unique variety of gift items. This place has it all! (155 S Broadway, Coos Bay, OR 97420)
+[Oregon Wine Cellars](https://winesoforegon.com/) - Wines from approximately 50 Oregon Wineries, Wine accessories, Full line of Oregon microbrews, local gourmet foods, handmade cigars, large assortment of Baltic Amber jewelry, unique variety of gift items. This place has it all! (155 S Broadway, Coos Bay, OR 97420)
 
 [Cranberry Sweets](www.cranberrysweets.com) - Local gourmet treats, fruit jelly candies, cookies, chocolates, caramels, toppings and so much more! There are always plenty of free samples available.
 
