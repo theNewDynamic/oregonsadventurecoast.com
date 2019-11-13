@@ -75,7 +75,7 @@ Here are a few ideas to keep you nourished and hydrated while you “shop ‘til
 
 [Zen Authentic Thai & Sushi Bar ](https://zenthaisushi.com/)– Everything you’d want – authentic Thai and fresh, unique sushi.
 
-[7 Devils Brewing Co](www.7devilsbrewery.com).– A popular local hang out with live music, great beer, and amazing food. You can also pick up some of their tasty ale to take home or gift.
+[7 Devils Brewing Co](https://www.7devilsbrewery.com/).– A popular local hang out with live music, great beer, and amazing food. You can also pick up some of their tasty ale to take home or gift.
 
 [Wildflour Cafe](https://www.wildflour-catering.com/)- Specializes in sandwiches, salads, comfort foods, pastries and vegetarian dishes made with fresh, locally sourced ingredients. Open Monday through Saturday.
 
