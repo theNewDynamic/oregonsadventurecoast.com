@@ -113,9 +113,9 @@ Our region is full of independently owned dining establishments serving up every
 
 [Canard Labs](https://canardlabs.com/)– Shoppers will find amazing and luxurious ways to pamper themselves with decadent soaps, lotions, organic skincare, soothing candles and more.
 
-[Checkerberry’s Flowers and Gifts ](https://i-pbgsi-1h8yyg.instant.forestry.io/blog/your-2019-guide-to-holiday-shopping-on-oregon-s-adventure-coast/www.checkerberrys.com)– In addition to beautiful holiday arrangements and centerpieces, look for high-quality fashion pieces and jewelry!
+[Checkerberry’s Flowers and Gifts ](https://checkerberrys.com)– In addition to beautiful holiday arrangements and centerpieces, look for high-quality fashion pieces and jewelry!
 
-[Pony Village Mall -](https://i-pbgsi-1h8yyg.instant.forestry.io/blog/your-2019-guide-to-holiday-shopping-on-oregon-s-adventure-coast/www.ponyvm.com/) Be sure to check out the multiple new clothing stores in this North Bend mall .
+[Pony Village Mall -](https://ponyvm.com/) Be sure to check out the multiple new clothing stores in this North Bend mall .
 
 #### FOR THE HISTORY BUFF
 
