@@ -59,27 +59,27 @@ Here are a few ideas to keep you nourished and hydrated while you “shop ‘til
 
 #### LUNCH, DINNER & LATE NIGHT BITES
 
-[Bungalow Market & Deli ](https://www.facebook.com/Bungalow-Market-Deli-282965688442/)– Healthy fast food and the BEST sandwiches in town. You can also stock up on some snacks for later on in the day.
+[Bungalow Market & Deli ](https://www.facebook.com/Bungalow-Market-Deli-282965688442/)– Healthy fast food and the BEST sandwiches in town. You can also stock up on some snacks for later on in the day. In North Bend.
 
-[SharkBite’s Seafood Cafe ](https://www.facebook.com/sharkbitesseafoodcafe/)– Famous for fish tacos, located in the heart of downtown Coos Bay.
+[SharkBite’s Seafood Cafe ](https://www.facebook.com/sharkbitesseafoodcafe/)– Famous for fish tacos, located in the heart of downtown Coos Bay. 
 
-[Coney Station](https://www.facebook.com/ConeyStation/) – A popular sports bar and pub with great food and live music and karaoke at night.
+[Coney Station](https://www.facebook.com/ConeyStation/) – A popular sports bar and pub with great food and live music and karaoke at night. In Coos Bay.
 
 [Fishermen's Seafood Market](https://fishermensseafoodmarket.com/) – The “official home of West Coast Clams” - a fresh seafood market with a select menu that includes amazing fish tacos, fish & chips, clam chowder, and fresh crab. Located on the docks directly across from the Coos Bay Visitor Center. Delicious.
 
-[High Tide Café](http://hightidecafeoregon.com/home/) – Excellent customer service and award-winning clam chowder.
+[High Tide Café](http://hightidecafeoregon.com/home/) – Excellent customer service and award-winning clam chowder. In Charleston.
 
-[Liberty Pub ](https://www.facebook.com/TheLibertyPub/)– A relaxed and comfortable place to enjoy great pizza and beer.
+[Liberty Pub ](https://www.facebook.com/TheLibertyPub/)– A relaxed and comfortable place to enjoy great pizza and beer. In downtown North Bend.
 
-[Miller's at the Cove](https://www.millersatthecove.rocks/menu/) – Great bar food, chowder, and beer in Charleston. Also tons of TVs to get your football fix.
+[Miller's at the Cove](https://www.millersatthecove.rocks/menu/) – Great bar food, chowder, and beer in Charleston. Also tons of TVs to get your football fix. 
 
-[Zen Authentic Thai & Sushi Bar ](https://zenthaisushi.com/)– Everything you’d want – authentic Thai and fresh, unique sushi.
+[Zen Authentic Thai & Sushi Bar ](https://zenthaisushi.com/)– Everything you’d want – authentic Thai and fresh, unique sushi. In North Bend.
 
-[7 Devils Brewing Co](https://www.7devilsbrewery.com/).– A popular local hang out with live music, great beer, and amazing food. You can also pick up some of their tasty ale to take home or gift.
+[7 Devils Brewing Co](https://www.7devilsbrewery.com/).– A popular local hang out with live music, great beer, and amazing food. You can also pick up some of their tasty ale to take home or gift. In Coos Bay.
 
-[Wildflour Cafe](https://www.wildflour-catering.com/)- Specializes in sandwiches, salads, comfort foods, pastries and vegetarian dishes made with fresh, locally sourced ingredients. Open Monday through Saturday.
+[Wildflour Cafe](https://www.wildflour-catering.com/)- Specializes in sandwiches, salads, comfort foods, pastries and vegetarian dishes made with fresh, locally sourced ingredients. Open Monday through Saturday. In downtown North Bend.
 
-[Tin Thistle](https://www.facebook.com/thetinthistlecafe/)- A Celtic themed whole foods vegan café featuring pasties, village bowls, vegetarian burgers, soup, pies and smoothies.
+[Tin Thistle](https://www.facebook.com/thetinthistlecafe/)- A Celtic themed whole foods vegan café featuring pasties, village bowls, vegetarian burgers, soup, pies and smoothies. In downtown North Bend.
 
 ### GIFT IDEAS FOR EVERYONE ON YOUR LIST
 
