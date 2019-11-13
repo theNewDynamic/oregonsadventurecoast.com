@@ -1,5 +1,8 @@
 ---
 title: The Steve Prefontaine Story
+aliases:
+  - /about/prefontaine
+  - /about/prefontaine/a-letter
 layout: our-area
 url: /steve-prefontaine-story
 photo: /img/prefontaine-page-header.jpg

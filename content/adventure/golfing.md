@@ -1,5 +1,7 @@
 ---
 title: Golfing
+aliases:
+  - /activities/category/golfing
 url: /golfing
 photo: /img/golfing-sub-header.jpg
 seo:

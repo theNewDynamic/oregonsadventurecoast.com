@@ -1,5 +1,8 @@
 ---
 title: ATV & Motorsports
+aliases:
+  - /featured-adventures/atving-motorsports
+  - /activities/category/atv-motorsports
 url: "/atv-motorsports"
 photo: "/img/adventures-atv-motorsports.jpg"
 seo:

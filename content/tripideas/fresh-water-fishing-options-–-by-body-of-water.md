@@ -1,5 +1,7 @@
 ---
 title: Fresh Water Fishing Options – By Body of Water
+aliases:
+  - /trip-ideas/fresh-water-fishing-options-by-body-of-water
 description: >-
   Lake, river and stream fishing are popular pursuits. Early summer and late
   fall salmon runs offer the best chances for a great catch and hearty sportsmen

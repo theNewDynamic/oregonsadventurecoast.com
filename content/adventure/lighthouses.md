@@ -1,5 +1,7 @@
 ---
 title: Lighthouses
+aliases:
+  - /activities/category/lighthouses
 url: /lighthouses
 photo: /img/lighthouses-sub-header.jpg
 seo:

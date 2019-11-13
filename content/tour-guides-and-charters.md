@@ -1,6 +1,8 @@
 ---
 layout: tourcharters
 title: Tour Guides & Charters
+aliases:
+  - /tours-charters
 photo: /img/charters.jpg
 seo:
   description: From chartered boats, planes and ATV tours, you’ll be able to see Oregon’s Adventure Coast from a local’s point of view. See our tour options.

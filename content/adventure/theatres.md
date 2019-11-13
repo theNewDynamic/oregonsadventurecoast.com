@@ -1,5 +1,7 @@
 ---
 title: Theatres
+aliases:
+  - /activities/category/theaters
 url: "/theatres"
 photo: "/img/theatre-sub-header.jpg"
 seo:

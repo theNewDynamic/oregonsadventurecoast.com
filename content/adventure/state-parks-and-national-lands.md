@@ -1,5 +1,9 @@
 ---
 title: State Parks and National Lands
+aliases:
+  - /featured-adventures/state-parks
+  - /activities/category/parks
+  - /listings/shore-acres-state-park
 url: /state-parks-and-national-lands
 photo: /img/our-area-main.jpg
 seo:

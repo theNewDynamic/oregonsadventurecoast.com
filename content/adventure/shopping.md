@@ -1,5 +1,7 @@
 ---
 title: Shopping
+aliases:
+  - /activities/category/shopping
 url: "/shopping"
 photo: "/img/shopping-sub-header.jpg"
 seo:

@@ -1,5 +1,8 @@
 ---
 title: Undeveloped Beaches
+aliases:
+  - /activities/category/beach
+  - /listings/bastendorff-beach
 url: /undeveloped-beaches
 photo: /img/undeveloped-beaches-sub-header.jpg
 seo:

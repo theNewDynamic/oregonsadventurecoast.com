@@ -1,5 +1,8 @@
 ---
 layout: calendarpage
+aliases:
+  - /activities/category/events
+  - /listings/polar-bear-plunge-2
 title: Oregon Coast Trips - Calendar of Events
 photo: "/img/calendar-orchestra.jpg"
 seo:

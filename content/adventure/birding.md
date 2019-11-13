@@ -1,5 +1,8 @@
 ---
 title: Birding & Wildlife
+aliases:
+  - /featured-adventures/birding
+  - /activities/category/birding
 url: /birding-and-wildlife
 photo: /img/blog-plover-header.jpg
 seo:

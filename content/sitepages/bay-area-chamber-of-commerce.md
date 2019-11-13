@@ -1,5 +1,7 @@
 ---
 title: Bay Area Chamber of Commerce
+aliases:
+  - /about/chamber-of-commerce/
 layout: our-area
 url: /bay-area-chamber
 photo: /img/our-area-bay-area-chamber.jpg

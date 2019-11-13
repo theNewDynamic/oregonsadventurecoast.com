@@ -1,5 +1,7 @@
 ---
 title: Water Recreation
+aliases:
+  - /activities/category/kayaking
 url: "/water-recreation"
 photo: "/img/water-recreation-sub-header.jpg"
 seo:

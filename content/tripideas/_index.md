@@ -1,5 +1,7 @@
 ---
 title: 'Oregon Coast Vacations: Options for Your Lifestyle!'
+aliases:
+  - /trip-ideas
 description: c
 durations:
   - ''

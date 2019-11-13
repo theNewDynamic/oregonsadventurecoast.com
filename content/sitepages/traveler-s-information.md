@@ -1,5 +1,8 @@
 ---
 title: Traveler's Information
+aliases:
+  - /about/relocation-information
+  - /travelers-guide
 layout: travelersinfo
 url: "/travelers-info"
 photo: "/img/travelers-information-header.jpg"

@@ -1,5 +1,7 @@
 ---
 title: Cycling
+aliases:
+  - /activities/category/cycling
 url: "/cycling"
 photo: "/img/adventures-biking-header.jpg"
 seo:

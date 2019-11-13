@@ -1,5 +1,8 @@
 ---
 title: Fishing
+aliases:
+  - /featured-adventures/fishing-crabbing-clamming
+  - /activities/category/fishing
 url: "/fishing"
 photo: "/img/fishing-page-sub-header.jpg"
 seo:

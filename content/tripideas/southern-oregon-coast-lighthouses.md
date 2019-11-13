@@ -1,5 +1,7 @@
 ---
 title: Southern Oregon Coast Lighthouses
+aliases:
+  - /trip-ideas/southern-oregon-coast-lighthouses
 description: >-
   Lighthouse exploring is an exciting and historic thing for the whole family to
   do. Oregon’s Coast has a rich history steeped in seafaring. You’ll find 5 of

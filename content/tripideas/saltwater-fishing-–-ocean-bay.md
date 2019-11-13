@@ -1,5 +1,7 @@
 ---
 title: Saltwater Fishing – Ocean & Bay
+aliases:
+  - /trip-ideas/saltwater-fishing-ocean-bay
 description: >-
   Variety is the name of the game when it comes to fishing on Oregon’s Adventure
   Coast! The fun and sport of fishing builds memories of a lifetime. While here,

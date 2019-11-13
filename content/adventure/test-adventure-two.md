@@ -1,5 +1,9 @@
 ---
 title: Art, History & Culture
+aliases:
+  - /featured-adventures/history-culture
+  - /activities/category/culture-museums
+  - /activities/category/historical
 url: "/art-history-culture"
 photo: "/img/museum-cultural-sub-header.jpg"
 seo:

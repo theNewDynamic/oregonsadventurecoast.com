@@ -1,5 +1,7 @@
 ---
 title: Crabbing and Clamming
+aliases:
+  - /trip-ideas/crabbing-and-clamming
 description: >-
   Throughout the year low tides provide access to a bountiful resource; clams.
   And no trip to the Adventure Coast is complete without Dungeness crab, and the

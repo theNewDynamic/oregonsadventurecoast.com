@@ -1,5 +1,7 @@
 ---
 title: Large Group Lodging
+aliases:
+  - /group-travel/large-group-lodging
 layout: meeting-planners-sub
 url: "/mtg-large-group-lodging"
 photo: "/img/meeting-planners.jpg"

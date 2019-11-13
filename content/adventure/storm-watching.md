@@ -1,5 +1,8 @@
 ---
 title: Storm Watching
+aliases:
+  - /featured-adventures/stormwatching
+  - /adventures/stormwatching
 url: "/storm-watching"
 photo: "/img/travelers-information-header.jpg"
 seo:

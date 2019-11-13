@@ -1,5 +1,7 @@
 ---
 title: Charleston to Bandon Tour Route
+aliases:
+  - /trip-ideas/charleston-to-bandon-tour-route
 description: A short spur off the Pacific Coast Scenic Byway, this Route showcases
   a glorious stretch of coastline that includes six state parks, two National Wildlife
   Refuges and America’s first National Estuarine Research Reserve.
