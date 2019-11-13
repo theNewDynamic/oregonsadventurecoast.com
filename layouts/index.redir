@@ -1,10 +1,10 @@
-{{ if .Site.Data.redirects.site_redirects }}
-    {{ range .Site.Data.redirects.site_redirects }}
-        {{ if and .redirect.from .redirect.to }}
-            {{ .redirect.from }} {{ .redirect.to }}
-        {{ end }}
-    {{ end }}
-{{ end }}
+{{- if .Site.Data.redirects.site_redirects -}}
+    {{- range .Site.Data.redirects.site_redirects -}}
+        {{- if and .redirect.from .redirect.to }}
+{{ .redirect.from }} {{ .redirect.to }}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
 
 {{- range $p := .Site.Pages -}}
 {{- range .Aliases }}
