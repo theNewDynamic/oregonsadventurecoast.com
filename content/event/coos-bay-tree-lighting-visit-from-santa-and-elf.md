@@ -16,9 +16,10 @@ seo:
   imgalt: ''
   image: ''
 desktoptitle: Coos Bay Tree Lighting, Visit from Santa and "ELF"!
-mobiletitle: Coos Bay Tree Lighting, Visit from Santa and "ELF"!
+mobiletitle: Coos Bay Tree Lighting & Santa
 hovertitle: Coos Bay Tree Lighting, Visit from Santa and "ELF"!
-hoverdescription: Don't Miss the Coos Bay Tree Lighting, Visit from Santa and "ELF"!
+hoverdescription: Don't miss the Coos Bay holiday kickoff with a tree lighting, a
+  visit from Santa and a screening of  the movie "ELF"!
 photo: "/img/north-bend-tree-lighting-event-sub-header.jpg"
 largeboxphoto: "/img/Tree lighting - 1024x395.jpg"
 mediumboxphoto: "/img/Tree Lighting - 667x355.jpg"
