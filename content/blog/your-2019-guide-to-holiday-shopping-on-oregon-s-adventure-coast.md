@@ -123,7 +123,7 @@ Our region is full of independently owned dining establishments serving up every
 
 #### FOR THE NATURE LOVER
 
-[South Slough Reserve Gift Shop ](www.oregon.gov)- Great place to find local history, unique gifts made by local artisans, such as walking sticks and leather goods, books about birds, insects, fish, amphibians and mammals and much much more!
+[South Slough Reserve Gift Shop ](https://www.oregonsadventurecoast.com/tags/south-slough-nerr/)- Great place to find local history, unique gifts made by local artisans, such as walking sticks and leather goods, books about birds, insects, fish, amphibians and mammals and much much more!
 
 #### FOR THE COLLECTOR
 
