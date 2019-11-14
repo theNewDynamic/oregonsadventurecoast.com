@@ -1,0 +1,1 @@
+.carousel-shell{position:relative;max-width:100%;overflow:hidden}.carousel-shell .overlay{position:absolute;left:0;right:0;bottom:0;max-width:500px}.carousel-shell .overlay img{width:100vw;max-height:170px}

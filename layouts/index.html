@@ -1,28 +1,42 @@
 {{ define "main" }}
+
+<!-- flickity script -->
+{{ $style := resources.Get "js/flickity.pkgd.js" | resources.Minify }}
+<script src="{{ $style.Permalink }}"></script>
+
+<!-- flickity styles -->
+{{ $style := resources.Get "css/flickity.css" | resources.Minify }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
+
+<!-- carousel style -->
+{{ $style := resources.Get "css/carousel.css" | resources.Minify }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
+
 <style>
     @media min-
 </style>
-<div class="m-homeslideshow">
-    <div class="slides cycle-slideshow"
-    data-cycle-fx="cycle-slideshow" 
-    data-cycle-pause-on-hover="true"
-    data-cycle-timeout="6000"
-    data-cycle-speed="1200"
-    data-cycle-slides="> div">
-    {{ range .Params.slideshow }}
 
-        <div class="slide">
-            <img src="{{ .photo }}" alt="{{ .title }}">
-            <div class="title">{{ .title }}</div>
-        </div>
+<div class="carousel-shell">
+    <div class="m-homeslideshow main-carousel">
 
-    {{ end }}
+        {{ range .Params.slideshow }}
+
+            <div class="slide carousel-cell">
+                <img src="{{ .photo }}" alt="{{ .title }}">
+                <div class="title">{{ .title }}</div>
+            </div>
+
+        {{ end }}
+        
     </div>
-<div class="overlay">
-    <img src="/layout-images/img-swoosh-overlay.png" alt="">
-</div>
+    <div class="overlay">
+        <img src="/layout-images/img-swoosh-overlay.png" alt="">
+    </div>
 </div>
 
+<!-- carousel script -->
+{{ $style := resources.Get "js/carousel.js" | resources.Minify }}
+<script src="{{ $style.Permalink }}"></script>
 
 <div class="m-homeslideshow-mobile">
 {{ range first 1 .Params.slideshow }}
