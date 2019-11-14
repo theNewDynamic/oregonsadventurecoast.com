@@ -3,10 +3,30 @@ var flkty = new Flickity( elem, {
     // options
     cellAlign: 'left',
     contain: true,
-    autoPlay: 8000,
+    autoPlay: 4000,
     prevNextButtons: false,
     pageDots: false,
     draggable: false,
     wraparound: true,
     fade: true
 });
+
+let carouselVideos = document.getElementsByClassName("carousel-video");
+let allCells = document.getElementsByClassName("carousel-cell");
+
+flkty.on( 'change', slideChange );
+
+for (let i = 0; i < allCells.length; i++){
+    flkty.on( 'settle', function(i) {
+        let cellVideo = allCells[i].getElementsByClassName("carousel-video");
+        if (typeof cellVideo[0] !== "undefined"){
+            cellVideo[0].play()
+        }
+    });
+}
+
+function slideChange(){
+    for(let i = 0; i < carouselVideos.length; i++){
+        carouselVideos[i].pause();
+    }
+}

@@ -9,6 +9,10 @@ slideshow:
   photo: "/img/holiday-lights-home-slider.jpg"
   title_mobile: Holiday Lights Nov 28 - Dec 31
   photo_mobile: "/img/holiday-lights-mobile.jpg"
+  video:
+    enabled: true
+    source: "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+    type: "mp4"
 - photo: "/img/shore-acres-slider.jpg"
   title: Breathtaking Views
 - photo: "/img/seven-devils-interior-night.jpg"

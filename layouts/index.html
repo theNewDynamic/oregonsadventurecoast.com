@@ -29,8 +29,15 @@
 
         {{ range .Params.slideshow }}
 
-            <div class="slide carousel-cell">
-                <img src="{{ .photo }}" alt="{{ .title }}">
+            <div class="slide carousel-cell{{ if .video.enabled }} video-cell{{ end }}">
+                {{ if .video.enabled }}
+                <video class="carousel-video" width="100%" controls="" autoplay="true" muted>
+                    <source src="{{ .video.source }}" type="video/{{ .video.type }}">
+                </video>
+                {{ end }}
+                {{ if not .video.enabled }}
+                    <img src="{{ .photo }}" alt="{{ .title }}">
+                {{ end }}
                 <div class="title">{{ .title }}</div>
             </div>
 
