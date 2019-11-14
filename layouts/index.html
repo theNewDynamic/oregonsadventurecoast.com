@@ -12,6 +12,14 @@
 {{ $style := resources.Get "css/carousel.css" | resources.Minify }}
 <link rel="stylesheet" href="{{ $style.Permalink }}">
 
+<!-- flickity fade styles -->
+{{ $style := resources.Get "css/flickity-fade.css" | resources.Minify }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
+
+<!-- flickity fade script -->
+{{ $style := resources.Get "js/flickity-fade.js" | resources.Minify }}
+<script src="{{ $style.Permalink }}"></script>
+
 <style>
     @media min-
 </style>

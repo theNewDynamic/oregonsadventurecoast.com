@@ -3,9 +3,10 @@ var flkty = new Flickity( elem, {
     // options
     cellAlign: 'left',
     contain: true,
-    autoPlay: 10000,
+    autoPlay: 8000,
     prevNextButtons: false,
     pageDots: false,
     draggable: false,
-    wraparound: true
+    wraparound: true,
+    fade: true
 });
