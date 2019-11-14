@@ -1,8 +1,8 @@
 ---
 title: 33rd Annual Holiday Lights at Shore Acres
 aliases:
-  - /holidaylights
-  - /HolidayLights
+- "/holidaylights"
+- "/HolidayLights"
 photo: "/img/shore-acres-holiday-lights-header.jpg"
 largeboxphoto: "/img/holiday-lights-large.jpg"
 mediumboxphoto: "/img/holiday-lights-medium.jpg"
@@ -33,7 +33,7 @@ Famous for its beautiful 7 acre botanical gardens and Japanese lily pond, Shore 
 
 This festive annual display debuts on Thanksgiving Day (Thursday, November 28th) and will light up Shore Acres from 4 p.m.-9:30 p.m. each night (including Dec 24th & 25th) thru December 31st.
 
-{{< youtube "WEXAadGTff8" >}}
+{{< youtube "oMwQeDRya7o" >}}
 <br>
 
 ## Tips to make your Shore Acres visit more enjoyable
