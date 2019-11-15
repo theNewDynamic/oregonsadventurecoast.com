@@ -14,19 +14,20 @@ var flkty = new Flickity( elem, {
 let carouselVideos = document.getElementsByClassName("carousel-video");
 let allCells = document.getElementsByClassName("carousel-cell");
 
+window.addEventListener("DOMContentLoaded", slideChange)
 flkty.on( 'change', slideChange );
 
-for (let i = 0; i < allCells.length; i++){
-    flkty.on( 'settle', function(i) {
-        let cellVideo = allCells[i].getElementsByClassName("carousel-video");
-        if (typeof cellVideo[0] !== "undefined"){
-            cellVideo[0].play()
-        }
-    });
-}
 
 function slideChange(){
+    let isSelected = document.getElementsByClassName("is-selected");
     for(let i = 0; i < carouselVideos.length; i++){
-        carouselVideos[i].pause();
+        if(carouselVideos[i] !== isSelected[0]){
+            carouselVideos[i].pause();
+        }
+    }
+    let cellVideo = isSelected[0].getElementsByClassName("carousel-video");
+    if (typeof cellVideo[0] !== "undefined"){
+        cellVideo[0].play()
     }
 }
+

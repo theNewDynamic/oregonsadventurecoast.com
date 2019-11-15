@@ -20,19 +20,15 @@
 {{ $style := resources.Get "js/flickity-fade.js" | resources.Minify }}
 <script src="{{ $style.Permalink }}"></script>
 
-<style>
-    @media min-
-</style>
-
 <div class="carousel-shell">
     <div class="m-homeslideshow main-carousel">
 
         {{ range .Params.slideshow }}
 
-            <div class="slide carousel-cell{{ if .video.enabled }} video-cell{{ end }}">
-                {{ if .video.enabled }}
-                <video class="carousel-video" width="100%" autoplay="true" muted>
-                    <source src="{{ .video.source }}" type="video/{{ .video.type }}">
+            <div class="slide carousel-cell{{ if .video.source }} video-cell{{ end }}">
+                {{ if .video.source }}
+                <video class="carousel-video" width="100%" autoplay="true" muted loop>
+                    <source src="{{ .video.source }}" type="video/mp4">
 
                     <!--[if gt IE 6]>
                         <object width="100%" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B"><!
@@ -55,7 +51,7 @@
                     </object><!--<![endif]-->
                 </video>
                 {{ end }}
-                {{ if not .video.enabled }}
+                {{ if not .video.source }}
                     <img src="{{ .photo }}" alt="{{ .title }}">
                 {{ end }}
                 <div class="title">{{ .title }}</div>
