@@ -4,7 +4,7 @@ date: 2019-11-12T05:00:00.000+00:00
 description: There is a bounty of holiday treasures waiting to be discovered right
   now in locally-owned shops throughout Oregon's Adventure Coast.  Plan ahead and
   make a day or weekend of it and really get into the spirit of the season.
-image: "/img/Holiday Shopping Guide 2019 Coos Bay, North Bend, Charleston Oregon.jpg"
+image: "/img/Holiday-Shopping-Guide-2019-Coos-Bay-North-Bend-Charleston.jpg"
 tags:
 - Holiday Shopping
 categories:
@@ -43,7 +43,7 @@ Grab the Downtown Coos Bay mug you earned earlier in the month or purchase one o
 
 While you're here, you will also find an array of unique gift options for everyone on your list in locally-owned shops and boutiques in downtown **North Bend** and **Charleston.**  We put together a sampling of shops and local eateries to have on your radar as you embark on your holiday shopping adventure.
 
-![](/img/Holiday Shopping Coos Bay North Bend Charleston.jpg)
+![](/img/Holiday-Shopping-Coos-Bay-North-Bend-Charleston.jpg)
 
 ### STAYING NOURISHED
 
@@ -61,7 +61,7 @@ Here are a few ideas to keep you nourished and hydrated while you “shop ‘til
 
 [Bungalow Market & Deli ](https://www.facebook.com/Bungalow-Market-Deli-282965688442/)– Healthy fast food and the BEST sandwiches in town. You can also stock up on some snacks for later on in the day. In North Bend.
 
-[SharkBite’s Seafood Cafe ](https://www.facebook.com/sharkbitesseafoodcafe/)– Famous for fish tacos, located in the heart of downtown Coos Bay. 
+[SharkBite’s Seafood Cafe ](https://www.facebook.com/sharkbitesseafoodcafe/)– Famous for fish tacos, located in the heart of downtown Coos Bay.
 
 [Coney Station](https://www.facebook.com/ConeyStation/) – A popular sports bar and pub with great food and live music and karaoke at night. In Coos Bay.
 
@@ -71,7 +71,7 @@ Here are a few ideas to keep you nourished and hydrated while you “shop ‘til
 
 [Liberty Pub ](https://www.facebook.com/TheLibertyPub/)– A relaxed and comfortable place to enjoy great pizza and beer. In downtown North Bend.
 
-[Miller's at the Cove](https://www.millersatthecove.rocks/menu/) – Great bar food, chowder, and beer in Charleston. Also tons of TVs to get your football fix. 
+[Miller's at the Cove](https://www.millersatthecove.rocks/menu/) – Great bar food, chowder, and beer in Charleston. Also tons of TVs to get your football fix.
 
 [Zen Authentic Thai & Sushi Bar ](https://zenthaisushi.com/)– Everything you’d want – authentic Thai and fresh, unique sushi. In North Bend.
 
