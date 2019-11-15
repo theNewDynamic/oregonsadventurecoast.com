@@ -15,8 +15,6 @@ slideshow:
   title: Breathtaking Views
 - photo: "/img/seven-devils-interior-night.jpg"
   title: Relax and Converse
-  video:
-    source: "/video/test-vid.mp4"
 - photo: "/img/camping-family-slider.jpg"
   title: Disconnect to Reconnect
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
