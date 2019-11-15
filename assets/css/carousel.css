@@ -15,3 +15,18 @@
     width: 100vw;
     max-height: 170px;
 }
+
+.carousel-video{
+    z-index: 4;
+}
+
+.main-carousel::before{
+    z-index: 5;
+    content: " ";
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
