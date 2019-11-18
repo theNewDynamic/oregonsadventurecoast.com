@@ -14,11 +14,15 @@ slideshow:
 - photo: "/img/shore-acres-slider.jpg"
   title: Breathtaking Views
   video:
-    source: "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+    source: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
 - photo: "/img/seven-devils-interior-night.jpg"
   title: Relax and Converse
+  video:
+    source: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
 - photo: "/img/camping-family-slider.jpg"
   title: Disconnect to Reconnect
+  video:
+    source: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/hiking-shore-acres-desktop.jpg"
