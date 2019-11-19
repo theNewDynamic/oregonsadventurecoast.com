@@ -23,6 +23,7 @@ outputs:
     - HTML
     - RSS
     - REDIR
+    - JSON
   page:
     - HTML
   section:
