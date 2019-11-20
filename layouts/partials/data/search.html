@@ -1,0 +1,43 @@
+{{/*     {
+  "uri": "/birding-and-wildlife",
+  "title": "Birding & Wildlife",
+  "content": "\n\nEXCELLENT BIRDING OPPORTUNITIES\n\nRugged and largely undeveloped, Oregon’s south coast lures birders to view wildlife seldom encountered. The Oregon Islands National Wildlife Refuge, is protected habitat for 1.2 million nesting seabirds. \n\n{{ floatimage src=\"/img/birdwatching.jpg\" float=\"left\" alt=\"Birdwatching on Oregon's Adventure Coast\" size=\"80\" }}\n\nThe South Slough National Estuarine Research Reserve near Charleston, with its 5,000 acres of saltwater marshes  and mixed conifer forest, attracts Band-tailed Pigeons and Wrentits.\n\nIn April and August Bandon Marsh National Wildlife Refuge attracts rare shorebirds and is a feeding and resting stopover for migrating Pacific Golden-Plover, Dunlin and Whimbrel. \n\nVisit Oregon’s Adventure Coast in September for the annual Oregon Shorebird Festival. You’ll find field trips, talks, and a forum for all skill levels to share and exchange stories. Founded by the Cape Arago Audubon Society, and sponsored by several groups, you can expand your knowledge, and spend a long summer weekend on the Coast - what could be better?\n\ndiv class=\"clearfix margin-50px-top\"/div\n\n SEE OUR SEALS ON YOUR VISIT\n\nThe Simpson Reef Interpretive Stop: On Charleston’s Cape Arago Hwy Loop, enjoy excellent views of Oregon’s largest haul-out of seals and sea lions. \n\nShell Island: Part of the Oregon Islands National Wildlife Refuge, Shell Island offers viewing of Northern Elephant  Seals, Harbor Seals and Stellar Sea Lions. California Sea Lions take over Cape Arago every fall. \n\nSimpson Beach: Directly below Shore Acres State Park, a path leads to a secluded cove that provides great whale watching and a different view of Shell Island. \n\ndiv class=\"clearfix margin-50px-top\"/div\n\nA WHALE OF A TIME FOR EVERYONE\n\nEach Winter and Spring, visitors flock to see  gray whales migrate between Mexico and the Bering Sea. We have some of the best sites along the coast, at both Shore Acres State Park and Cape Arago State Park.\n",
+  "tags": []
+}, 
+	if (meta.data.equip_type != undefined) {
+		if (meta.data.equip_type[0].typeSelect == '1') {
+			uri = '/tour-guides-and-charters/';
+		} else if (meta.data.equip_type[0].typeSelect == '2') {
+			uri = '/equipment-rent-and-buy/';
+		}
+
+
+*/}}
+{{ $s := newScratch }}
+{{ $index := slice }}
+{{ range site.RegularPages }}
+  {{ $s.Set "entry" dict }}
+  {{ $uri := .RelPermalink }}
+  
+  {{ with .Params.equip_type }}
+    {{ with index . 0 }}
+      {{ if reflect.IsMap . }}
+        {{ with .typeSelect }}
+          {{ if eq 1 (int .) }}
+            {{ $uri = "/tour-guides-and-charters/" }}
+          {{ else if eq 2 (int .) }}
+            {{ $uri  = "/equipment-rent-and-buy/" }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ $s.SetInMap "entry" "uri" $uri }}
+  {{ $s.SetInMap "entry" "title" .Title }}
+  {{ $s.SetInMap "entry" "content" .Plain }}
+  {{ with .Params.tags }}
+    {{ $s.SetInMap "entry" "tags" . }}
+  {{ end }}
+  {{ $index = $index | append ($s.Get "entry") }}
+{{ end }}
+{{ return $index }}
