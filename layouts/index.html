@@ -22,20 +22,24 @@
 
 <div class="carousel-shell">
     <div class="m-homeslideshow main-carousel">
+        {{/* We store the current slideshow item in $slide for further reference in deeper context */}}
         {{ range $slide := .Params.slideshow }}
             {{ $video := false }}
+            {{ $source := false }}
             {{ with .video }}
+                {{ $video = . }}
                 {{ with .source }}
-                    {{ $video = . }}
+                    {{ $source = . }}
                 {{ end }}
             {{ end }}
-            <div class="slide carousel-cell{{ if .video.source }} video-cell{{ end }}">
-                {{ with $video }}
+            <div class="slide carousel-cell{{ with $video }} video-cell{{ end }}">
+                {{/* Context is now a string (source) */}}
+                {{ with $source }}
                     {{ $cover := false }}
                     {{ with $slide.photo }}
                         {{ $cover = . }}
                     {{ end }}
-                    {{ with .cover }}
+                    {{ with $video.cover }}
                         {{ $cover = . }}
                     {{ end }}
                     <video 
@@ -45,9 +49,9 @@
                         muted 
                         loop
                         {{ with $cover }}
-                            poster="{{ . }}">
+                            poster="{{ . }}"
                         {{ end }}
-
+                    >
                         <source src="{{ . | relURL }}" type="video/mp4">
     
                         <!--[if gt IE 6]>
@@ -56,25 +60,25 @@
                         <!-- non-IE QuickTime embed (hidden from IE): the self-closing comment tag allows non-IE browsers to
                         see the HTML whilst being compatible with serving as XML -->
                         <!--[if !IE]><!-->
-                            <object width="100%" type="video/quicktime" data="{{ . | relURL }}">
+                        <object width="100%" type="video/quicktime" data="{{ . | relURL }}">
                         <!--<![endif]-->
                         <param name="src" value="{{ . | relURL }}">
                         <param name="showlogo" value="false">
                         <param name="autoplay" value="true">
                         <!-- fallback to Flash -->
-                        <object width="100%" type="application/x-shockwave-flash" data="player.swf?autostart=true&amp;image=poster.jpg&amp;file={{ .video.source | relURL }}">
+                        <object width="100%" type="application/x-shockwave-flash" data="player.swf?autostart=true&amp;image={{ $cover }}&amp;file={{ . | relURL }}">
                             <!-- Firefox uses the `data` attribute above, IE/Safari uses the param below -->
-                            <param name="movie" value="player.swf?image=poster.jpg&amp;file={{ . | relURL }}">
+                            <param name="movie" value="player.swf?image={{ $cover }}&amp;file={{ . | relURL }}">
                             <!-- fallback image -->
                             {{ with $cover }}
-                                <img src="{{ .}}" width="100%" alt="placeholder" title="No video playback capabilities, please download the video below">
+                                <img src="{{ . }}" width="100%" alt="placeholder" title="No video playback capabilities, please download the video below">
                             {{ end }}
                         </object><!--[if gt IE 6]><!-->
                         </object><!--<![endif]-->
                     </video>
                 {{ else }}
                     {{ with .photo }}
-                        <img src="{{ .photo }}" alt="{{ .title }}">
+                        <img src="{{ . }}" alt="{{ $slide.title }}">
                     {{ end }}
                 {{ end }}
                 <div class="title">{{ .title }}</div>
