@@ -27,8 +27,9 @@
 
             <div class="slide carousel-cell{{ if .video.source }} video-cell{{ end }}">
                 {{ if .video.source }}
-                <video class="carousel-video" width="100%" autoplay="true" muted loop>
-                    <source src="{{ .video.source }}" type="video/mp4">
+                <video class="carousel-video" width="100%" autoplay="true" muted loop
+                {{ if .photo }} poster="{{ .photo }}"{{ else }}{{ if .video.cover }} poster="{{ .video.cover }}"{{ end }}{{ end }}>
+                    <source src="{{ .video.source | relURL }}" type="video/mp4">
 
                     <!--[if gt IE 6]>
                         <object width="100%" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B"><!
@@ -36,15 +37,15 @@
                     <!-- non-IE QuickTime embed (hidden from IE): the self-closing comment tag allows non-IE browsers to
                     see the HTML whilst being compatible with serving as XML -->
                     <!--[if !IE]><!-->
-                        <object width="100%" type="video/quicktime" data="{{ .video.source }}">
+                        <object width="100%" type="video/quicktime" data="{{ .video.source | relURL }}">
                     <!--<![endif]-->
-                    <param name="src" value="{{ .video.source }}">
+                    <param name="src" value="{{ .video.source | relURL }}">
                     <param name="showlogo" value="false">
                     <param name="autoplay" value="true">
                     <!-- fallback to Flash -->
-                    <object width="100%" type="application/x-shockwave-flash" data="player.swf?autostart=true&amp;image=poster.jpg&amp;file={{ .video.source }}">
+                    <object width="100%" type="application/x-shockwave-flash" data="player.swf?autostart=true&amp;image=poster.jpg&amp;file={{ .video.source | relURL }}">
                         <!-- Firefox uses the `data` attribute above, IE/Safari uses the param below -->
-                        <param name="movie" value="player.swf?image=poster.jpg&amp;file={{ .video.source }}">
+                        <param name="movie" value="player.swf?image=poster.jpg&amp;file={{ .video.source | relURL }}">
                         <!-- fallback image -->
                         <img src="poster.jpg" width="100%" alt="placeholder" title="No video playback capabilities, please download the video below">
                     </object><!--[if gt IE 6]><!-->

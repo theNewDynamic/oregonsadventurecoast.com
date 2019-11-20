@@ -10,11 +10,12 @@ slideshow:
   title_mobile: Holiday Lights Nov 28 - Dec 31
   photo_mobile: "/img/holiday-lights-mobile.jpg"
   video:
-    source: "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+    source: "video/test-vid.mp4"
+    cover: "/img/holiday-lights-mobile.jpg"
 - photo: "/img/shore-acres-slider.jpg"
   title: Breathtaking Views
   video:
-    source: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    source: "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
 - photo: "/img/seven-devils-interior-night.jpg"
   title: Relax and Converse
   video:
