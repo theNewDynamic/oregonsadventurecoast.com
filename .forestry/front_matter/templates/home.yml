@@ -29,6 +29,11 @@ fields:
       maxSize: 250
     label: Image on mobile
     description: The image used on mobile
+  - type: include
+    template: video
+    name: video
+    label: Video
+    description: The video displayed in the carousel slid, Instead of a photo.
 - type: text
   name: welcomeheadline
   label: Welcome Headline
