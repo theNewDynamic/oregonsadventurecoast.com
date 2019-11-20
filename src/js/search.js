@@ -11,7 +11,7 @@ import Search from './search/Search';
 
     if (searchTerm !== '' && searchTerm !== undefined) {
         // Setup Lunr Search
-        $.getJSON('/lunr.json', (data) => {
+        $.getJSON('/index.json', (data) => {
             let siteIndex = data;
             let idx = lunr(function () {
                 this.ref('uri');

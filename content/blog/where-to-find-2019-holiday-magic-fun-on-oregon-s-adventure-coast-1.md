@@ -37,6 +37,9 @@ Savor roast turkey and all the trimmings, side dishes and dessert from The Mill�
 **November 29, 2019: Coos Bay Tree Lighting and Visit with Santa 5:30 p.m.**
 Join Santa as he lights the 30 foot Christmas Tree in downtown Coos Bay. The event takes place at the[ Coos Bay Visitor Information Center](https://www.oregonsadventurecoast.com/contact/). Cider and cookies will be served as visitors await Santa's arrival. Following the tree lighting is the annual showing of ELF at the Historic Egyptian Theatre. Entry to the movie is FREE with a pair of new clean socks for the snowball fight scene. Socks will be donated to local shelters after the showing.
 
+**December 1-31, 2019: Holiday Adventure to the Lights!**  
+The Coos History Museum and Black Diamond Shuttle want to make your holiday group gathering memorable with an evening of Holiday Cheer & Noshing, exclusive shopping and discounts in the Museum's Gift Shop, and a shuttle ride to the **Holiday Lights at Shore Acres**. You can even add your own festive touch. Talk to Pam at the Coos History Museum to find out more. The shuttle holds 12 and pricing is based on full capacity. Contact Pam Cottrell at [rentals@cooshistory.org](mailto:rentals@cooshistory.org) or 541-252-5666.
+
 **December 2- 11, 2019: 2019 Festival of Trees**
 Each year, The Mill Casino invites local businesses, individuals and organizations throughout the community to sponsor and decorate a tree or wreath for a worthy cause. Trees will be on display in the hotel lobby December 3 – 11, 2019. Holiday Tree Showcase & Benefit Auction will be held at 7:00 pm on Wednesday, December 11, 2019. Doors open at 5:30 pm for those with reserved tables for dinner. 6:45 pm doors open to the public. The Auction is free to attend. All proceeds benefit Coos Bay – North Bend Rotary programs such as Shots for Tots and the Kids HOPE Center.[ Click here for more info](https://www.themillcasino.com/entertainment/2019-festival-of-trees/).
 
