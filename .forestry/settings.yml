@@ -26,8 +26,6 @@ sections:
   match: "**/*"
   templates:
   - regular-pages
-- type: heading
-  label: Other
 - type: directory
   path: content/adventure
   label: Adventures
