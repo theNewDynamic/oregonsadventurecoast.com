@@ -1,7 +1,7 @@
 ---
 title: Theatres
 aliases:
-  - /activities/category/theaters
+- "/activities/category/theaters"
 url: "/theatres"
 photo: "/img/theatre-sub-header.jpg"
 seo:
@@ -31,6 +31,8 @@ The Egyptian Theatre, built in 1925, is a center for community events. The theat
 #### The Dolphin Playhouse
 
 Home of the Dolphin Players - The Dolphin Players produce six to seven full productions every year in an intimate setting. The theatre also offers classes and provides meeting space in the Empire District of Coos Bay. {{< link url="http://thedolphinplayers.webs.com" >}}Visit the Dolphin Playhouse website for more information.{{< /link >}}
+
+{{< floatimage src="/img/pony-cinema-north-bend.jpg" float="left" alt="The Pony Village Cinema 11 in North Bend" size="40" >}}
 
 #### **Pony Village Cinema 11**
 
