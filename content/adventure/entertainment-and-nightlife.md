@@ -102,7 +102,7 @@ Popular with locals and visitors alike. They offers a mix of great food (some sa
 3290 Ocean Blvd SE   
 Coos Bay, OR 97420  
 (541) 266-8815  
-[www.gooneyssportsbar.com]()
+[www.gooneyssportsbar.com](https://www.gooneyssportsbar.com/)
 
 This Coos Bay bar and restaurant is best known for its friendly and welcoming atmosphere along with great entertainment to go along with its selection of cocktails, beers, burgers, sandwiches, salads, and pizza and more. There is live music every Saturday evening in addition to Karoke throughout the week. By the way, Wednesday Geezer Jam Night is not to be missed!
 
