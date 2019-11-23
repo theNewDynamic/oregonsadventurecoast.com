@@ -1,7 +1,7 @@
 ---
 title: Water Recreation
 aliases:
-  - /activities/category/kayaking
+- "/activities/category/kayaking"
 url: "/water-recreation"
 photo: "/img/water-recreation-sub-header.jpg"
 seo:
@@ -44,6 +44,12 @@ Tenmile Lakes in Lakeside, just 15 miles north of Coos Bay, is a great place for
 Tenmile Lakes is made up of two lakes (North and South) connected by a channel. You can launch your boat at the County Park on South Lake (parking fee required), beach your boat at the public sandy beach - Wulfy Beach - and play with the kids or soak up some sun (no fee required). Gas up your boat at and pick up boating supplies and snacks at Ringo’s Lakeside Marina on South Lake. Dock your boat at Osprey Point Pub & Pizza or the Lakeshore Lodge and enjoy a meal with a lake-front view.
 
 <div class="margin-50px-top"></div>
+
+![](/img/oflynn with passengers - 1024.jpg)
+
+## Bay Tours
+
+If you are seeking a way to get out on the water, but self-propelled sports are not your cup of tea, a scenic and historic tour of the Coos Bay aboard the O'Flynn may be just the perfect addition to your visit. [Coos Boat Tour](https://www.coosboattours.com/)'s Captain Brian navigates the Bay in this sturdy 21' tub boat with seating for six. The O’Flynn has a top speed of just 8 mph, as it was designed for scenic cruising.
 
 ![Waxer's Surf Shop](/img/waxer-surf-shop.jpg)
 
