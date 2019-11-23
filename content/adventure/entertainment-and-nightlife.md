@@ -99,7 +99,7 @@ Popular with locals and visitors alike. They offers a mix of great food (some sa
 ![Gooney's Sports Bar in Coos Bay, Oregon](/img/ent-gooneys.jpg)
 
 **Gooney’s Sports Bar**  
-3290 Ocean Blvd SE   
+3290 Ocean Blvd SE  
 Coos Bay, OR 97420  
 (541) 266-8815  
 [www.gooneyssportsbar.com](https://www.gooneyssportsbar.com/)
@@ -107,3 +107,11 @@ Coos Bay, OR 97420
 This Coos Bay bar and restaurant is best known for its friendly and welcoming atmosphere along with great entertainment to go along with its selection of cocktails, beers, burgers, sandwiches, salads, and pizza and more. There is live music every Saturday evening in addition to Karoke throughout the week. By the way, Wednesday Geezer Jam Night is not to be missed!
 
 {{< /columns >}}
+
+![](/img/180714_bowling_483-1.jpg)
+
+### Cosmic Bowling at North Bend Lanes
+
+**For an indoor adventure like no other, look no further than North Bend Lanes Cosmic Bowling!** Laser Lights, Disco Lights, Black Lights, and Runway Lights. Haze machines pumping out fog. LOUD heart pounding music. The bowling lanes even glow in the dark during Cosmic Events! For a schedule of Cosmic Bowling times, visit [North Bend Lanes website](https://northbendlanes.com/cosmic-bowling/).
+
+North Bend Lanes also hosts league and public bowling opportunities, live music, Red Neck Wine Tasting events and more. 
