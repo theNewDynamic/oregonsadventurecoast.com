@@ -108,10 +108,10 @@ This Coos Bay bar and restaurant is best known for its friendly and welcoming at
 
 {{< /columns >}}
 
-![](/img/180714_bowling_483-1.jpg)
+![](/img/Collage-Two-Images-Bowling.jpg)
 
 ### Cosmic Bowling at North Bend Lanes
 
 **For an indoor adventure like no other, look no further than North Bend Lanes Cosmic Bowling!** Laser Lights, Disco Lights, Black Lights, and Runway Lights. Haze machines pumping out fog. LOUD heart pounding music. The bowling lanes even glow in the dark during Cosmic Events! For a schedule of Cosmic Bowling times, visit [North Bend Lanes website](https://northbendlanes.com/cosmic-bowling/).
 
-North Bend Lanes also hosts league and public bowling opportunities, live music, Red Neck Wine Tasting events and more. 
+North Bend Lanes also hosts league and public bowling opportunities, live music, Red Neck Wine Tasting events and more.
