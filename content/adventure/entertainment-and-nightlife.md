@@ -108,7 +108,7 @@ This Coos Bay bar and restaurant is best known for its friendly and welcoming at
 
 {{< /columns >}}
 
-<br><br>
+<br>
 
 ![](/img/Collage-Two-Images-Bowling.jpg)
 
