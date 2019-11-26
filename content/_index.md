@@ -9,9 +9,9 @@ slideshow:
   photo: "/img/holiday-lights-home-slider.jpg"
   title_mobile: Holiday Lights Nov 28 - Dec 31
   photo_mobile: "/img/holiday-lights-mobile.jpg"
-  url: "https://www.google.com/"
+  url: "/event/33rd-annual-holiday-lights-at-shore-acres/"
   video:
-    source: "video/test-vid.mp4"
+    source: "/img/holiday_lights_2019_854.mp4"
     cover: "/img/holiday-lights-mobile.jpg"
 - photo: "/img/shore-acres-slider.jpg"
   title: Breathtaking Views
