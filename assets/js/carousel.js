@@ -29,4 +29,3 @@ function slideChange(){
         cellVideo[0].play()
     }
 }
-

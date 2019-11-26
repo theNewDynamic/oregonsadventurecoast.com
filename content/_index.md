@@ -9,6 +9,7 @@ slideshow:
   photo: "/img/holiday-lights-home-slider.jpg"
   title_mobile: Holiday Lights Nov 28 - Dec 31
   photo_mobile: "/img/holiday-lights-mobile.jpg"
+  url: "https://www.google.com/"
   video:
     source: "video/test-vid.mp4"
     cover: "/img/holiday-lights-mobile.jpg"

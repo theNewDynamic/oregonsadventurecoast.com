@@ -33,6 +33,7 @@
                 {{ end }}
             {{ end }}
             <div class="slide carousel-cell{{ with $video }} video-cell{{ end }}">
+                {{ with .url }}<a class="cell-link" href="{{ . }}"></a>{{ end }}
                 {{/* Context is now a string (source) */}}
                 {{ with $source }}
                     {{ $cover := false }}
