@@ -1,6 +1,6 @@
 ---
 title: Bay Point Landing Modern Camping Resort
-photo_name: ''
+photo_name: "/img/bay-point-landing-resort.jpg"
 photo_alt: Activity Center at Bay Point Landing
 property_name: Bay Point Landing
 property_category: 2 - RV Parks & Camping
