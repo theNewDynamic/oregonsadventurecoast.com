@@ -12,7 +12,7 @@ slideshow:
   url: "/event/33rd-annual-holiday-lights-at-shore-acres/"
   video:
     source: "/img/holiday_lights_2019_854.mp4"
-    cover: "/img/holiday-lights-mobile.jpg"
+    cover: "/img/holiday-lights-home-slider.jpg"
 - photo: "/img/shore-acres-slider.jpg"
   title: Breathtaking Views
   video:
