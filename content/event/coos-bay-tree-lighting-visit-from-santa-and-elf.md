@@ -33,4 +33,4 @@ Join Santa as he lights the 50 foot Christmas Tree in downtown Coos Bay. The eve
 
 Following the tree lighting is the annual showing of **ELF** at the Historic Egyptian Theatre. Entry to the movie is FREE with a pair of new clean socks for the snowball fight scene. Bring more than one pair to have extra "snowball" throws! Socks will be donated to local shelters after the showing.
 
-**Festivities begin at 5:00pm with the tree lighting at approximately 5:30pm. ELF begins at 6pm. Attendees can walk from Coos Bay Visitor Center to the Egyptian Theatre.**
+**Festivities begin at 5:00pm with the tree lighting at approximately 5:30pm. Head over to the Egyptian Theatre with Santa for pictures.  ELF begins around 7pm. Attendees can walk from Coos Bay Visitor Center to the Egyptian Theatre.**
