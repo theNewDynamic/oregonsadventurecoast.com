@@ -7,7 +7,18 @@ description: 'Visitors will have an amazing opportunity to see some of the thous
   here is a 2-day Winter Whale Watching itinerary the whole family will enjoy with
   options for indoor and outdoor activities. '
 image: "/img/02-16-18-spring-whale-watch.jpg"
-tags: []
+tags:
+- Winter Whale Watch Week
+- Whale Watching Oregon Coast
+- Oregon Coast Whale Watch Trip
+- Shore Acres State Park
+- Whales Spoken Here
+- Charleston Oregon
+- Coos Bay Oregon
+- North Bend Oregon
+- Oregon Coast Itinerary
+- 2-day Intinerary
+- 'Whale Watch Trip Itinerary '
 categories: []
 seo:
   title: ''
