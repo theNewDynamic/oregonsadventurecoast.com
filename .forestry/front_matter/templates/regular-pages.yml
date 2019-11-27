@@ -26,6 +26,8 @@ fields:
     - relocation-request
     - thank-you
     - travelersinfo
+    - lodgingpage
+    - equipment
   label: Layout
   description: Choose Layout/Sidebar for Your Page
 - type: file
