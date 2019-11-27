@@ -6,7 +6,7 @@ description: 'Visitors will have an amazing opportunity to see some of the thous
   Friday, December 27th through Tuesday, December 31st. To help you plan your trip,
   here is a 2-day Winter Whale Watching itinerary the whole family will enjoy with
   options for indoor and outdoor activities. '
-image: ''
+image: "/img/02-16-18-spring-whale-watch.jpg"
 tags: []
 categories: []
 seo:
@@ -14,7 +14,6 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
 ### The Whole Family Will Have a "Whale of a Time" During Winter 2019 Whale Watching Week- December 27th – 31st, 2019
