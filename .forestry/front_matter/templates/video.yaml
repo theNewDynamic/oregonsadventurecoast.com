@@ -2,10 +2,18 @@
 label: Video
 hide_body: true
 fields:
-  - type: file
-    name: source
-    label: Video
-  - type: file
-    name: cover
-    label: Video Cover Image
-    description: The cover image displayed when the video is loading. Only used if no slide photo is set.
+- name: video
+  type: field_group
+  config: {}
+  fields:
+  - name: cover
+    type: file
+    config:
+      maxSize: 250
+    label: Cover
+  - name: source
+    type: file
+    config:
+      maxSize: 250
+    label: Source
+  label: Video
