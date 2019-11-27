@@ -1,28 +1,99 @@
 {{ define "main" }}
-<style>
-    @media min-
-</style>
-<div class="m-homeslideshow">
-    <div class="slides cycle-slideshow"
-    data-cycle-fx="cycle-slideshow" 
-    data-cycle-pause-on-hover="true"
-    data-cycle-timeout="6000"
-    data-cycle-speed="1200"
-    data-cycle-slides="> div">
-    {{ range .Params.slideshow }}
 
-        <div class="slide">
-            <img src="{{ .photo }}" alt="{{ .title }}">
-            <div class="title">{{ .title }}</div>
-        </div>
+<!-- flickity script -->
+{{ $style := resources.Get "js/flickity.pkgd.js" | resources.Minify }}
+<script src="{{ $style.Permalink }}"></script>
 
-    {{ end }}
+<!-- flickity styles -->
+{{ $style := resources.Get "css/flickity.css" | resources.Minify }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
+
+<!-- carousel style -->
+{{ $style := resources.Get "css/carousel.css" | resources.Minify }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
+
+<!-- flickity fade styles -->
+{{ $style := resources.Get "css/flickity-fade.css" | resources.Minify }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
+
+<!-- flickity fade script -->
+{{ $style := resources.Get "js/flickity-fade.js" | resources.Minify }}
+<script src="{{ $style.Permalink }}"></script>
+
+<div class="carousel-shell">
+    <div class="m-homeslideshow main-carousel">
+        {{/* We store the current slideshow item in $slide for further reference in deeper context */}}
+        {{ range $slide := .Params.slideshow }}
+            {{ $video := false }}
+            {{ $source := false }}
+            {{ with .video }}
+                {{ $video = . }}
+                {{ with .source }}
+                    {{ $source = . }}
+                {{ end }}
+            {{ end }}
+            <div class="slide carousel-cell{{ with $video }} video-cell{{ end }}">
+                {{ with .url }}<a class="cell-link" href="{{ . }}"></a>{{ end }}
+                {{/* Context is now a string (source) */}}
+                {{ with $source }}
+                    {{ $cover := false }}
+                    {{ with $slide.photo }}
+                        {{ $cover = . }}
+                    {{ end }}
+                    {{ with $video.cover }}
+                        {{ $cover = . }}
+                    {{ end }}
+                    <video 
+                        class="carousel-video" 
+                        width="100%" 
+                        autoplay="true" 
+                        muted 
+                        loop
+                        {{ with $cover }}
+                            poster="{{ . }}"
+                        {{ end }}
+                    >
+                        <source src="{{ . | relURL }}" type="video/mp4">
+    
+                        <!--[if gt IE 6]>
+                            <object width="100%" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B"><!
+                        [endif]-->
+                        <!-- non-IE QuickTime embed (hidden from IE): the self-closing comment tag allows non-IE browsers to
+                        see the HTML whilst being compatible with serving as XML -->
+                        <!--[if !IE]><!-->
+                        <object width="100%" type="video/quicktime" data="{{ . | relURL }}">
+                        <!--<![endif]-->
+                        <param name="src" value="{{ . | relURL }}">
+                        <param name="showlogo" value="false">
+                        <param name="autoplay" value="true">
+                        <!-- fallback to Flash -->
+                        <object width="100%" type="application/x-shockwave-flash" data="player.swf?autostart=true&amp;image={{ $cover }}&amp;file={{ . | relURL }}">
+                            <!-- Firefox uses the `data` attribute above, IE/Safari uses the param below -->
+                            <param name="movie" value="player.swf?image={{ $cover }}&amp;file={{ . | relURL }}">
+                            <!-- fallback image -->
+                            {{ with $cover }}
+                                <img src="{{ . }}" width="100%" alt="placeholder" title="No video playback capabilities, please download the video below">
+                            {{ end }}
+                        </object><!--[if gt IE 6]><!-->
+                        </object><!--<![endif]-->
+                    </video>
+                {{ else }}
+                    {{ with .photo }}
+                        <img src="{{ . }}" alt="{{ $slide.title }}">
+                    {{ end }}
+                {{ end }}
+                <div class="title">{{ .title }}</div>
+            </div>
+        {{ end }}
     </div>
-<div class="overlay">
-    <img src="/layout-images/img-swoosh-overlay.png" alt="">
-</div>
+    <div class="overlay">
+        <img src="/layout-images/img-swoosh-overlay.png" alt="">
+    </div>
 </div>
 
+<!-- carousel script -->
+{{ $style := resources.Get "js/carousel.js" | resources.Minify }}
+<script src="{{ $style.Permalink }}"></script>
 
 <div class="m-homeslideshow-mobile">
 {{ range first 1 .Params.slideshow }}
