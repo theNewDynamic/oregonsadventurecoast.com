@@ -1,3 +1,14 @@
+{{ if eq . "dining" }}
+<script>
+var diningMap;
+function initMap() {
+  diningMap = new google.maps.Map(document.getElementById('view-map'), {
+    center: {lat: 43.376077, lng: -124.2229427},
+    zoom: 12
+  });
+}
+</script>
+{{ end }}
 {{ with partialCached "func/GetAssetSRC" . . }}
   <script 
     type="text/javascript" src="{{ .js }}"
@@ -9,4 +20,8 @@
   ></script>
 {{ else }}
   <script type="text/javascript" src="{{ . }}" ></script>
+{{ end }}
+{{ if eq . "dining" }}
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCaPDAhneASbG0tVysxiT4vmZrOPQqBeE&callback=initMap"
+type="text/javascript"></script>
 {{ end }}

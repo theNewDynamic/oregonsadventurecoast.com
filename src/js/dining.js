@@ -16,12 +16,13 @@ const api_url = "https://api.oregonsadventurecoast.com";
  * @param
  * @return
  */
-let map = new Map();
+var map;
 function initMap() {
-    // call here to Map.initMap
-    map.initMap('dining-map', []);
+  map = new google.maps.Map(document.getElementById('view-map'), {
+    center: {lat: -34.397, lng: 150.644},
+    zoom: 8
+  });
 }
-
 (function($) {
 
     new FilterToggles();
@@ -84,6 +85,16 @@ function initMap() {
         $('#dining-output').html('');
 
         _.forEach(list, (val, index) => {
+            if(typeof val.latitude != "undefined" && typeof val.longitude != "undefined") {
+                let markerPosition = {lat: parseFloat(val.latitude), lng: parseFloat(val.longitude)};
+                
+                var marker = new google.maps.Marker({
+                    position: markerPosition,
+                    map: diningMap,
+                    title: val.name
+                });
+            }
+            
             if (index >= start && index < limit) {
                 $('#dining-output').append(dining.generateTemplate(val));
             }
