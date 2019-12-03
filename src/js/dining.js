@@ -11,6 +11,8 @@ import Map from './maps/Map';
 
 const api_url = "https://api.oregonsadventurecoast.com";
 
+let markersArray = []
+
 /**
  * Sets up the initMap callback function for Maps API to call back into.
  * @param
@@ -91,8 +93,11 @@ function initMap() {
                 var marker = new google.maps.Marker({
                     position: markerPosition,
                     map: diningMap,
-                    title: val.name
+                    title: val.name,
+                    visible: true
                 });
+
+                markersArray.push(marker);
             }
             
             if (index >= start && index < limit) {
@@ -259,6 +264,22 @@ function initMap() {
         console.log('updating filter options with ', key, ' with value of ', value, ' to ', action, ' it.');
 
         diningList = buildFilteredList(fullDiningList, filterOptions);
+
+        // display the corresponding markers
+        // first, hide all map markers
+        for (let i = 0; i < markersArray.length; i++){
+            markersArray[i].setVisible(false);
+        }
+        //check every list item against every map marker
+        for (let i = 0; i < diningList.length; i++){
+            for (let j = 0; j < markersArray.length; j++){
+                // if the list item lat/lng matches the map marker lat/lng, make the marker visible
+                if ((diningList[i].latitude == markersArray[j].getPosition().lat()) && (diningList[i].longitude == markersArray[j].getPosition().lng())){
+                    markersArray[j].setVisible(true);
+                    j = markersArray.length;
+                }
+            }
+        }
 
         outputDining(diningList);
     }
