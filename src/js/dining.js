@@ -11,7 +11,7 @@ import Map from './maps/Map';
 
 const api_url = "https://api.oregonsadventurecoast.com";
 
-let markersArray = []
+let markersArray = [];
 
 /**
  * Sets up the initMap callback function for Maps API to call back into.
@@ -86,8 +86,12 @@ function initMap() {
         // Reset output
         $('#dining-output').html('');
 
+        let bounds = new google.maps.LatLngBounds();
         _.forEach(list, (val, index) => {
             if(typeof val.latitude != "undefined" && typeof val.longitude != "undefined") {
+                let infowindow = new google.maps.InfoWindow({
+                    content: "<h1>" + val.name + "</h1>" + "\n" + "<span style='font-size: 16px;'>" + val.description + "</span>"
+                });
                 let markerPosition = {lat: parseFloat(val.latitude), lng: parseFloat(val.longitude)};
                 
                 var marker = new google.maps.Marker({
@@ -97,6 +101,11 @@ function initMap() {
                     visible: true
                 });
 
+                marker.addListener('click', function() {
+                    infowindow.open(diningMap, marker);
+                });
+                
+
                 markersArray.push(marker);
             }
             
@@ -104,6 +113,12 @@ function initMap() {
                 $('#dining-output').append(dining.generateTemplate(val));
             }
         });
+
+        for (let i = 0; i < markersArray.length; i++) {
+            bounds.extend(markersArray[i].getPosition());
+        }
+
+        diningMap.fitBounds(bounds);
     }
 
     /**
@@ -270,6 +285,7 @@ function initMap() {
         for (let i = 0; i < markersArray.length; i++){
             markersArray[i].setVisible(false);
         }
+
         //check every list item against every map marker
         for (let i = 0; i < diningList.length; i++){
             for (let j = 0; j < markersArray.length; j++){
