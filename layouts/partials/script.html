@@ -1,22 +1,6 @@
-{{ if eq . "dining" }}
-<script>
-var diningMap;
-function initMap() {
-  diningMap = new google.maps.Map(document.getElementById('view-map'), {
-    center: {lat: 43.376077, lng: -124.2229427}
-  });
-}
-</script>
-{{ end }}
-{{ if eq . "lodging" }}
-<script>
-  var lodgingMap;
-  function initMap() {
-    lodgingMap = new google.maps.Map(document.getElementById('view-map'), {
-      center: {lat: 43.376077, lng: -124.2229427}
-    });
-  }
-</script>
+{{ if or (eq . "dining") (eq . "lodging") }}
+{{ $style := resources.Get "js/initMap.js" | resources.Minify }}
+<script src="{{ $style.Permalink }}"></script>
 {{ end }}
 {{ with partialCached "func/GetAssetSRC" . . }}
   <script 

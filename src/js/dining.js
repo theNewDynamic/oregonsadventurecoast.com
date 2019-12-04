@@ -96,13 +96,13 @@ function initMap() {
                 
                 var marker = new google.maps.Marker({
                     position: markerPosition,
-                    map: diningMap,
+                    map: viewMap,
                     title: val.name,
                     visible: true
                 });
 
                 marker.addListener('click', function() {
-                    infowindow.open(diningMap, marker);
+                    infowindow.open(viewMap, marker);
                 });
                 
 
@@ -118,7 +118,7 @@ function initMap() {
             bounds.extend(markersArray[i].getPosition());
         }
 
-        diningMap.fitBounds(bounds);
+        viewMap.fitBounds(bounds);
     }
 
     /**
