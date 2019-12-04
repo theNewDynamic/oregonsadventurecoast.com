@@ -8,6 +8,16 @@ function initMap() {
 }
 </script>
 {{ end }}
+{{ if eq . "lodging" }}
+<script>
+  var lodgingMap;
+  function initMap() {
+    lodgingMap = new google.maps.Map(document.getElementById('view-map'), {
+      center: {lat: 43.376077, lng: -124.2229427}
+    });
+  }
+</script>
+{{ end }}
 {{ with partialCached "func/GetAssetSRC" . . }}
   <script 
     type="text/javascript" src="{{ .js }}"
@@ -20,7 +30,7 @@ function initMap() {
 {{ else }}
   <script type="text/javascript" src="{{ . }}" ></script>
 {{ end }}
-{{ if eq . "dining" }}
+{{ if or (eq . "dining") (eq . "lodging") }}
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCaPDAhneASbG0tVysxiT4vmZrOPQqBeE&callback=initMap"
 type="text/javascript"></script>
 {{ end }}
