@@ -28,6 +28,21 @@ fields:
   name: website
   label: Website
   description: Website's URL. Include protocole (https://)
+- name: coordinates
+  type: field_group
+  config: {}
+  fields:
+  - name: lat
+    type: text
+    config:
+      required: false
+    label: Latitude
+  - name: lng
+    type: text
+    config:
+      required: false
+    label: Longitude
+  label: Coordinates
 - name: seo_template
   type: include
   config: {}

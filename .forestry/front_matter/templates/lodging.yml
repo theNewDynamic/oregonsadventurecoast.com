@@ -60,18 +60,3 @@ fields:
   template: contact
   label: Contact
   name: contact
-- name: coord
-  type: field_group
-  config: {}
-  fields:
-  - name: lat
-    type: text
-    config:
-      required: false
-    label: Latitutde
-  - name: lng
-    type: text
-    config:
-      required: false
-    label: Longitude
-  label: Coordinates
