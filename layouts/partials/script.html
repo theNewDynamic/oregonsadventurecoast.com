@@ -15,6 +15,14 @@
   <script type="text/javascript" src="{{ . }}" ></script>
 {{ end }}
 {{ if or (eq . "dining") (eq . "lodging") }}
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCaPDAhneASbG0tVysxiT4vmZrOPQqBeE&callback=initMap"
+{{ $mapKey := "" }}
+{{ with getenv "GOOGLE_MAP_API" }}
+  {{ $mapKey = . }}
+{{ else }}
+  {{ if site.Data.env.GOOGLE_MAP_API }}
+    {{ $mapKey = site.Data.env.GOOGLE_MAP_API }}
+  {{ end }}
+{{ end }}
+<script async defer src="https://maps.googleapis.com/maps/api/js?key={{ $mapKey }}&callback=initMap"
 type="text/javascript"></script>
 {{ end }}
