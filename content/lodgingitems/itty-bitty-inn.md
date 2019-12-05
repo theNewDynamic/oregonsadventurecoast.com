@@ -1,9 +1,9 @@
 ---
-photo_name: "/img/Itty-Bitty.jpg"
+photo_name: /img/Itty-Bitty.jpg
 photo_alt: Itty Bitty Inn in North Bend, OR
 title: Itty Bitty Inn
 property_name: Itty Bitty Inn
-property_category: 1 - Hotels, Motels & Inns
+property_category: '1'
 address:
   street: 1504 Sherman Avenue
   street2: 
@@ -21,8 +21,8 @@ property_description: The Itty Bitty Inn provides a safe, clean, & cozy atmosphe
 website: http://www.ittybittyinn.com
 amenityList:
  - amenitySelect: '2'
-  - amenitySelect: '6'
-  - amenitySelect: '7'
-  - amenitySelect: '9'
+ - amenitySelect: '6'
+ - amenitySelect: '7'
+ - amenitySelect: '9'
 
 ---
