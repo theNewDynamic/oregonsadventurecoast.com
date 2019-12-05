@@ -90,7 +90,7 @@ function initMap() {
         _.forEach(list, (val, index) => {
             if(typeof val.latitude != "undefined" && typeof val.longitude != "undefined") {
                 let infowindow = new google.maps.InfoWindow({
-                    content: "<h1>" + val.name + "</h1>" + "\n" + "<span style='font-size: 16px;'>" + val.description + "</span>"
+                    content: "<span class='map-info-window'>" + dining.generateTemplate(val) + "</span>"
                 });
                 let markerPosition = {lat: parseFloat(val.latitude), lng: parseFloat(val.longitude)};
                 
