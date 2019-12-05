@@ -24,8 +24,8 @@
     "jsIntegrity": "sha256-gnArUm4kCBbNYO1GItJ/zhlOIlNC0wMijcQYnuEdPL0="
   },
   "lodging": {
-    "js": "/dist/lodging.3ac12cc7a02045cfabbf.js",
-    "jsIntegrity": "sha256-dehAay+6H/NQ1j7LwloUNf9A7TD/hMHS+4Vfa/VQUoo="
+    "js": "/dist/lodging.d1bc0b8b2f9d4e5bad00.js",
+    "jsIntegrity": "sha256-48GkQCDMqABNwmeNSjK87dLLWDNVElH9Ws7ZLk7HGVA="
   },
   "main": {
     "js": "/dist/main.10d65ab9a1f72c7ff592.js",

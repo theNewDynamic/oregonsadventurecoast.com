@@ -17,13 +17,13 @@ let markersArray = [];
  * @param
  * @return
  */
-var map;
+/**var map;
 function initMap() {
   map = new google.maps.Map(document.getElementById('view-map'), {
     center: {lat: -34.397, lng: 150.644},
     zoom: 8
   });
-}
+}**/
 (function($) {
 
     new FilterToggles();
@@ -82,9 +82,9 @@ function initMap() {
         // Reset output
         $('#lodging-output').html('');
 
-        let bounds = new google.maps.LatLngBounds();
+        //let bounds = new google.maps.LatLngBounds();
         _.forEach(list, (val, index) => {
-            if(typeof val.latitude != "undefined" && typeof val.longitude != "undefined") {
+            /**if(typeof val.latitude != "undefined" && typeof val.longitude != "undefined") {
                 let infowindow = new google.maps.InfoWindow({
                     content: "<h1>" + val.name + "</h1>" + "\n" + "<span style='font-size: 16px;'>" + val.description + "</span>"
                 });
@@ -103,18 +103,18 @@ function initMap() {
                 
 
                 markersArray.push(marker);
-            }
+            }**/
 
             if (index >= start && index < limit) {
                 $('#lodging-output').append(lodging.generateTemplate(val));
             }
         });
 
-        for (let i = 0; i < markersArray.length; i++) {
+        /**for (let i = 0; i < markersArray.length; i++) {
             bounds.extend(markersArray[i].getPosition());
         }
 
-        viewMap.fitBounds(bounds);
+        viewMap.fitBounds(bounds);**/
     }
 
     /**
@@ -270,9 +270,9 @@ function initMap() {
 
         lodgingList = buildFilteredList(fullLodgingList, filterOptions);
 
-                // display the corresponding markers
+        // display the corresponding markers
         // first, hide all map markers
-        for (let i = 0; i < markersArray.length; i++){
+        /**for (let i = 0; i < markersArray.length; i++){
             markersArray[i].setVisible(false);
         }
 
@@ -285,7 +285,7 @@ function initMap() {
                     j = markersArray.length;
                 }
             }
-        }
+        }**/
 
         outputLodging(lodgingList);
     }
