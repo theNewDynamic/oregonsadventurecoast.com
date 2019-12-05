@@ -19,8 +19,8 @@
 {{ with getenv "GOOGLE_MAP_API" }}
   {{ $mapKey = . }}
 {{ else }}
-  {{ if site.Data.env.GOOGLE_MAP_API }}
-    {{ $mapKey = site.Data.env.GOOGLE_MAP_API }}
+  {{ with site.Data.env.GOOGLE_MAP_API }}
+    {{ $mapKey = . }}
   {{ end }}
 {{ end }}
 <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ $mapKey }}&callback=initMap"
