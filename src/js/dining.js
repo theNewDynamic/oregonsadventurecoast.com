@@ -12,6 +12,7 @@ import Map from './maps/Map';
 const api_url = "https://api.oregonsadventurecoast.com";
 
 let markersArray = [];
+let lastInfoWindow = false;
 
 
 /**
@@ -26,10 +27,6 @@ function initMap() {
     zoom: 8
   });
 }
-
-let lastInfoWindow = new google.maps.InfoWindow({
-    content: ""
-});
 
 (function($) {
 
@@ -108,7 +105,9 @@ let lastInfoWindow = new google.maps.InfoWindow({
                 });
 
                 marker.addListener('click', function() {
-                    lastInfoWindow.close();
+                    if (lastInfoWindow){
+                        lastInfoWindow.close();
+                    }
                     lastInfoWindow = infowindow;
                     infowindow.open(viewMap, marker);
                 });
