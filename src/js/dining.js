@@ -12,9 +12,6 @@ import Map from './maps/Map';
 const api_url = "https://api.oregonsadventurecoast.com";
 
 let markersArray = [];
-let lastInfoWindow = new google.maps.InfoWindow({
-    content: ""
-});
 
 
 /**
@@ -29,6 +26,11 @@ function initMap() {
     zoom: 8
   });
 }
+
+let lastInfoWindow = new google.maps.InfoWindow({
+    content: ""
+});
+
 (function($) {
 
     new FilterToggles();
