@@ -12,6 +12,10 @@ import Map from './maps/Map';
 const api_url = "https://api.oregonsadventurecoast.com";
 
 let markersArray = [];
+let lastInfoWindow = new google.maps.InfoWindow({
+    content: ""
+});
+
 
 /**
  * Sets up the initMap callback function for Maps API to call back into.
@@ -102,6 +106,8 @@ function initMap() {
                 });
 
                 marker.addListener('click', function() {
+                    lastInfoWindow.close();
+                    lastInfoWindow = infowindow;
                     infowindow.open(viewMap, marker);
                 });
                 
