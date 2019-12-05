@@ -23,13 +23,25 @@ draft: true
 ---
 #### When the holidays are over, that means “[storm watching season](https://www.oregonsadventurecoast.com/storm-watching/)” is upon us! 
 
-When Pacific Storms rage and swells of 20 feet or more pound the cliffs of Oregon's South Coast, The massive waves (some reaching up to 300 feet high!) resulting from Pacific storms that rage during the winter months put on quite a show. Visitors often spend hours gazing at the Pacific Ocean’s majestic fury and it’s dramatic waves. Seasoned storm watchers know that some of the best viewing spots on the Oregon Coast dot the rugged coastline around Coos Bay, North Bend, Charleston and at the state parks surrounding these cities.
+When Pacific Storms rage in winter and swells of 20 feet or more pound the cliffs of Oregon's South Coast, these massive waves can rise up to 300 feet in the air  and put on quite a show. Visitors often spend hours gazing at the Pacific Ocean’s majestic fury and its dramatic waves. Seasoned storm watchers know that some of the best viewing spots on the Oregon Coast dot the rugged coastline around Coos Bay, North Bend, Charleston and at the state parks surrounding these cities.
 
-The best time to go is when swells are predicted to be high so be sure to check the local, extended forecast. It’s exciting to get close to the action, but we need you to stay safe so never turn your back to the ocean and always watch from safe viewing areas.
+The best time to go is when swells of 20-30 feet are predicted, so be sure to check the local, extended forecast. 
 
-An amazing perch is at [Shore Acres State Park](http://oregonsadventurecoast.com/listings/shore-acres-state-park/). They have a designated viewing area offering breathtaking views, just for ocean gazers and storm watchers. On rainy days, there’s even a storm watching hut to keep visitors safe and dry. Here are a couple of great videos we’ve captured at [Shore Acres State Park](http://www.shoreacres.net/) and elsewhere. **<<INSERT YOU-TUBE VIDEO(S) HERE?>>**The gigantic Pacific Ocean waves breaking across the cliffs are so spectacular that visitors plan all year to experience the power of Mother Nature as she continues to reshape lands end.
+An amazing perch is at [Shore Acres State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/). The park has a designated viewing area offering breathtaking views, just for ocean gazers and storm watchers. On rainy days, there’s even a storm watching hut to keep visitors safe and dry. Here are a couple of great videos captured at [Shore Acres State Park](http://www.shoreacres.net/) and elsewhere. 
 
-For the more faint of heart, a great local storm watching spot is at the bluff overlooking [Bastendorff Beach](http://oregonsadventurecoast.com/listings/bastendorff-beach/) and [Sunset Bay State Park](http://www.oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70) along [Cape Arago Highway](http://traveloregon.com/trip-ideas/itineraries/2-cape-arago-beach-loop/). Sunset Bay State Park features a protected beach, with tidepools exposed at low tide. The beach is probably the safest beach to walk on in winter, due to its geography, with land on three sides and an island that slows incoming waves.
+**<<INSERT YOU-TUBE VIDEO(S) HERE?>>**
+
+**-** [https://www.youtube.com/watch?time_continue=1&v=jdnrfyh4gRc](https://www.youtube.com/watch?time_continue=1&v=jdnrfyh4gRc "https://www.youtube.com/watch?time_continue=1&v=jdnrfyh4gRc")
+
+**-** [https://www.youtube.com/watch?v=yTeho70rQFo](https://www.youtube.com/watch?v=yTeho70rQFo "https://www.youtube.com/watch?v=yTeho70rQFo")
+
+The gigantic Pacific Ocean waves breaking across the cliffs are so spectacular that visitors plan all year to experience the power of Mother Nature as she continues to reshape lands end.
+
+**<<INSERT IMAGE WITH PEOPLE HERE>>**
+
+**It’s exciting to get close to the action, but we need you to stay safe so never turn your back to the ocean and always watch from safe viewing areas.**
+
+For the more faint of heart, a great local storm watching spot is at the bluff overlooking [Bastendorff Beach](https://www.oregonsadventurecoast.com/undeveloped-beaches/) and [Sunset Bay State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) along [Cape Arago Highway](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/). Sunset Bay State Park features a protected beach, with [tidepools](https://www.oregonsadventurecoast.com/ocean-life-and-tidepooling/) exposed at low tide. The beach is probably the safest beach for a walk in winter, due to its geography, with land on three sides and an island that slows incoming waves.
 
 Follow these tips to stay safe & dry!
 
