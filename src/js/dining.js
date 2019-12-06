@@ -13,6 +13,7 @@ const api_url = "https://api.oregonsadventurecoast.com";
 
 let markersArray = [];
 let lastInfoWindow = false;
+let hideMap = false;
 
 
 /**
@@ -126,7 +127,11 @@ function initMap() {
         }
 
         viewMap.fitBounds(bounds);
-        document.getElementById("view-map").style.display = "none";
+        if(hideMap === false){
+            document.getElementById("view-map").style.display = "none";
+            hideMap = true;
+        }
+        
     }
 
     /**
