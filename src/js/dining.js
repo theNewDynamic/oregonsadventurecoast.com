@@ -126,6 +126,7 @@ function initMap() {
         }
 
         viewMap.fitBounds(bounds);
+        document.getElementById("view-map").style.display = "none";
     }
 
     /**
