@@ -18,7 +18,6 @@ seo:
     wave splashes up to 300 feet at Shore Acres!
   imgalt: Massive Wave Splashes on Oregon's Adventure Coast
   image: "/img/storm-watching-wave-crash.jpg"
-draft: true
 
 ---
 #### When the holidays are over, that means “[storm watching season](https://www.oregonsadventurecoast.com/storm-watching/)” is upon us!
