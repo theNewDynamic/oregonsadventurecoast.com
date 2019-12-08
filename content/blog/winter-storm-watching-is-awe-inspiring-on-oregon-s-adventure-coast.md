@@ -35,9 +35,7 @@ An amazing perch for storm watching is at [Shore Acres State Park](https://www.o
 
 Here are a couple of great videos captured at [Shore Acres State Park](http://www.shoreacres.net/) that show just how powerful these waves can be.
 
-**<<INSERT YOU-TUBE VIDEO(S) HERE?>>**
-
-**-** [https://www.youtube.com/watch?time_continue=1&v=jdnrfyh4gRc](https://www.youtube.com/watch?time_continue=1&v=jdnrfyh4gRc "https://www.youtube.com/watch?time_continue=1&v=jdnrfyh4gRc")
+{{< youtube "jdnrfyh4gRc" >}}
 
 **-** [https://www.youtube.com/watch?v=yTeho70rQFo](https://www.youtube.com/watch?v=yTeho70rQFo "https://www.youtube.com/watch?v=yTeho70rQFo")
 
