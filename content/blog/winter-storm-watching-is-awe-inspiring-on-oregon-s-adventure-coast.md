@@ -17,7 +17,7 @@ seo:
   description: Witness the power and feel the thunder of mother nature with giant
     wave splashes up to 300 feet at Shore Acres!
   imgalt: Massive Wave Splashes on Oregon's Adventure Coast
-  image: ''
+  image: "/img/storm-watching-wave-crash.jpg"
 draft: true
 
 ---
