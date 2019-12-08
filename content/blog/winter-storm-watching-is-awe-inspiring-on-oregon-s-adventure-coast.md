@@ -37,11 +37,11 @@ Here are a couple of great videos captured at [Shore Acres State Park](http://ww
 
 {{< youtube "jdnrfyh4gRc" >}}
 
-**-** [https://www.youtube.com/watch?v=yTeho70rQFo](https://www.youtube.com/watch?v=yTeho70rQFo "https://www.youtube.com/watch?v=yTeho70rQFo")
+{{< youtube "yTeho70rQFo" >}}
 
 The gigantic Pacific Ocean waves breaking across the cliffs are so spectacular that visitors plan all year to experience the power of Mother Nature as she continues to reshape lands end.
 
-**<<INSERT IMAGE WITH PEOPLE HERE>>**
+![best storm watching on Oregon's Adventure Coast](/img/storm-watching-people-695x322.jpg)
 
 **It’s exciting to get close to the action, but your safety is paramount, so never turn your back to the ocean and always watch from safe viewing areas.**
 
