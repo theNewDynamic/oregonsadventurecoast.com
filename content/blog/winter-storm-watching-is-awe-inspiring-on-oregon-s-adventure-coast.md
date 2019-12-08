@@ -21,17 +21,19 @@ seo:
 draft: true
 
 ---
-#### When the holidays are over, that means “[storm watching season](https://www.oregonsadventurecoast.com/storm-watching/)” is upon us! 
+![](/img/storm-watching-logo-695-x-322.jpg)
 
-When Pacific Storms rage in winter and swells of 20 feet or more pound the cliffs of Oregon's South Coast, these massive waves can rise up to 300 feet in the air and they certainly put on quite a show. 
+#### When the holidays are over, that means “[storm watching season](https://www.oregonsadventurecoast.com/storm-watching/)” is upon us!
+
+When Pacific Storms rage in winter and swells of 20 feet or more pound the cliffs of Oregon's South Coast, these massive waves can rise up to 300 feet in the air and they certainly put on quite a show.
 
 Visitors often spend hours gazing at the Pacific Ocean’s majestic fury and its dramatic waves. Seasoned storm watchers know that some of the best viewing spots on the Oregon Coast dot the rugged coastline around Coos Bay, North Bend, Charleston and at the state parks surrounding these cities.
 
 The best time to go is when swells of 20-30 feet are predicted, so be sure to check the local, extended forecast. We will post High Surf Warnings on our [Facebook Page](https://www.facebook.com/OregonsAdventureCoast/), too, so Follow Us!
 
-An amazing perch for storm watching is at [Shore Acres State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/). The park has a designated viewing area offering breathtaking views, just for ocean gazers and storm watchers. On rainy days, there’s even a storm watching hut to keep visitors safe and dry. 
+An amazing perch for storm watching is at [Shore Acres State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/). The park has a designated viewing area offering breathtaking views, just for ocean gazers and storm watchers. On rainy days, there’s even a storm watching hut to keep visitors safe and dry.
 
-Here are a couple of great videos captured at [Shore Acres State Park](http://www.shoreacres.net/) that show just how powerful these waves can be. 
+Here are a couple of great videos captured at [Shore Acres State Park](http://www.shoreacres.net/) that show just how powerful these waves can be.
 
 **<<INSERT YOU-TUBE VIDEO(S) HERE?>>**
 
