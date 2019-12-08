@@ -59,3 +59,5 @@ For the more faint of heart, a great local storm watching spot is at the bluff o
 * Be aware that some locations, like state parks, may charge a fee for access. Shore Acres State Park charges a $5/vehicle fee, or display your State Park Annual Pass!
 
 #### Come prepared to have a one of a kind experience you won’t soon forget.
+
+![](/img/storm-watch-collage-695x322.jpg)
