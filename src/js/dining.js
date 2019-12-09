@@ -11,15 +11,22 @@ import Map from './maps/Map';
 
 const api_url = "https://api.oregonsadventurecoast.com";
 
+let markersArray = [];
+let lastInfoWindow = false;
+let hideMap = false;
+
+
 /**
  * Sets up the initMap callback function for Maps API to call back into.
  * @param
  * @return
  */
-let map = new Map();
+var map;
 function initMap() {
-    // call here to Map.initMap
-    map.initMap('dining-map', []);
+  map = new google.maps.Map(document.getElementById('view-map'), {
+    center: {lat: -34.397, lng: 150.644},
+    zoom: 8
+  });
 }
 
 (function($) {
@@ -83,11 +90,48 @@ function initMap() {
         // Reset output
         $('#dining-output').html('');
 
+        let bounds = new google.maps.LatLngBounds();
         _.forEach(list, (val, index) => {
+            if(typeof val.latitude != "undefined" && typeof val.longitude != "undefined") {
+                let infowindow = new google.maps.InfoWindow({
+                    content: "<span class='map-info-window'>" + dining.generateTemplate(val) + "</span>"
+                });
+                let markerPosition = {lat: parseFloat(val.latitude), lng: parseFloat(val.longitude)};
+                
+                var marker = new google.maps.Marker({
+                    position: markerPosition,
+                    map: viewMap,
+                    title: val.name,
+                    visible: true
+                });
+
+                marker.addListener('click', function() {
+                    if (lastInfoWindow){
+                        lastInfoWindow.close();
+                    }
+                    lastInfoWindow = infowindow;
+                    infowindow.open(viewMap, marker);
+                });
+                
+
+                markersArray.push(marker);
+            }
+            
             if (index >= start && index < limit) {
                 $('#dining-output').append(dining.generateTemplate(val));
             }
         });
+
+        for (let i = 0; i < markersArray.length; i++) {
+            bounds.extend(markersArray[i].getPosition());
+        }
+
+        viewMap.fitBounds(bounds);
+        if(hideMap === false){
+            document.getElementById("view-map").style.display = "none";
+            hideMap = true;
+        }
+        
     }
 
     /**
@@ -248,6 +292,23 @@ function initMap() {
         console.log('updating filter options with ', key, ' with value of ', value, ' to ', action, ' it.');
 
         diningList = buildFilteredList(fullDiningList, filterOptions);
+
+        // display the corresponding markers
+        // first, hide all map markers
+        for (let i = 0; i < markersArray.length; i++){
+            markersArray[i].setVisible(false);
+        }
+
+        //check every list item against every map marker
+        for (let i = 0; i < diningList.length; i++){
+            for (let j = 0; j < markersArray.length; j++){
+                // if the list item lat/lng matches the map marker lat/lng, make the marker visible
+                if ((diningList[i].latitude == markersArray[j].getPosition().lat()) && (diningList[i].longitude == markersArray[j].getPosition().lng())){
+                    markersArray[j].setVisible(true);
+                    j = markersArray.length;
+                }
+            }
+        }
 
         outputDining(diningList);
     }

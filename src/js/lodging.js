@@ -10,17 +10,20 @@ import GetFilterMatchType from './common/get-filter-match-type';
 import SortMenu from './common/sort-menu';
 import Map from './maps/Map';
 
+let markersArray = [];
+
 /**
  * Sets up the initMap callback function for Maps API to call back into.
  * @param
  * @return
  */
-let map = new Map();
+/**var map;
 function initMap() {
-    // call here to Map.initMap
-    map.initMap('lodging-map', []);
-}
-
+  map = new google.maps.Map(document.getElementById('view-map'), {
+    center: {lat: -34.397, lng: 150.644},
+    zoom: 8
+  });
+}**/
 (function($) {
 
     new FilterToggles();
@@ -79,11 +82,39 @@ function initMap() {
         // Reset output
         $('#lodging-output').html('');
 
+        //let bounds = new google.maps.LatLngBounds();
         _.forEach(list, (val, index) => {
+            /**if(typeof val.latitude != "undefined" && typeof val.longitude != "undefined") {
+                let infowindow = new google.maps.InfoWindow({
+                    content: "<h1>" + val.name + "</h1>" + "\n" + "<span style='font-size: 16px;'>" + val.description + "</span>"
+                });
+                let markerPosition = {lat: parseFloat(val.latitude), lng: parseFloat(val.longitude)};
+                
+                var marker = new google.maps.Marker({
+                    position: markerPosition,
+                    map: viewMap,
+                    title: val.name,
+                    visible: true
+                });
+
+                marker.addListener('click', function() {
+                    infowindow.open(viewMap, marker);
+                });
+                
+
+                markersArray.push(marker);
+            }**/
+
             if (index >= start && index < limit) {
                 $('#lodging-output').append(lodging.generateTemplate(val));
             }
         });
+
+        /**for (let i = 0; i < markersArray.length; i++) {
+            bounds.extend(markersArray[i].getPosition());
+        }
+
+        viewMap.fitBounds(bounds);**/
     }
 
     /**
@@ -238,6 +269,23 @@ function initMap() {
         console.log('updating filter options with ', key, ' with value of ', value, ' to ', action, ' it.');
 
         lodgingList = buildFilteredList(fullLodgingList, filterOptions);
+
+        // display the corresponding markers
+        // first, hide all map markers
+        /**for (let i = 0; i < markersArray.length; i++){
+            markersArray[i].setVisible(false);
+        }
+
+        //check every list item against every map marker
+        for (let i = 0; i < lodgingList.length; i++){
+            for (let j = 0; j < markersArray.length; j++){
+                // if the list item lat/lng matches the map marker lat/lng, make the marker visible
+                if ((lodgingList[i].latitude == markersArray[j].getPosition().lat()) && (lodgingList[i].longitude == markersArray[j].getPosition().lng())){
+                    markersArray[j].setVisible(true);
+                    j = markersArray.length;
+                }
+            }
+        }**/
 
         outputLodging(lodgingList);
     }

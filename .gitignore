@@ -7,3 +7,4 @@ yarn-error.log
 /tools/data/
 .vs
 public
+data/env.yaml

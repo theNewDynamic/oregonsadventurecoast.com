@@ -4,28 +4,28 @@
     "jsIntegrity": "sha256-V5qH22C/rbD+G4eqJwuBocw1gWyTvmjGBbnChomhskM="
   },
   "calendar": {
-    "js": "/dist/calendar.058ac4169c4792cf2900.js",
-    "jsIntegrity": "sha256-NjCyktNvQb6WlaenX4eSEhOxeDojMUYN11pK0j3f5v4="
+    "js": "/dist/calendar.99ae233deac5a23dd25a.js",
+    "jsIntegrity": "sha256-Hv3QtUV5FvdIgR2cew1hWKViSYz3KC625stiw4v+EOU="
   },
   "dining": {
-    "js": "/dist/dining.6130f5e58806e040a5d6.js",
-    "jsIntegrity": "sha256-q+0m47U1DY1GMNzdqQtWKW6zH8vD2knmHYBFrhAuexs="
+    "js": "/dist/dining.f377053177b08ae13a61.js",
+    "jsIntegrity": "sha256-ngBnLcjcKoHbJLmufKxzzAMSxYnd4kmI5uasRq5XJKM="
   },
   "equipment": {
-    "js": "/dist/equipment.327415c539212852cc93.js",
-    "jsIntegrity": "sha256-Yp82OCmCCPBKhDAFhsCI9omrRigcBYfLcSPLm6YOqaU="
+    "js": "/dist/equipment.e2b5128b67dc7998db17.js",
+    "jsIntegrity": "sha256-53lENd/yZYco9H2y5QcEWurCGkG6LgGrnsiEbkDNvMw="
   },
   "events": {
-    "js": "/dist/events.c608c0af01e2fa2ed083.js",
-    "jsIntegrity": "sha256-9qEPbf+0KrMxHdQsPRhCo8CAOs3XSQcksIMYc3f75o4="
+    "js": "/dist/events.f62509b76f61c2561fea.js",
+    "jsIntegrity": "sha256-GfwiFHDjPQNciDI0eklFgIJYjFTIG0E6k5VCXz3HAKU="
   },
   "instagram": {
     "js": "/dist/instagram.29f23f5a123314d1c42a.js",
     "jsIntegrity": "sha256-gnArUm4kCBbNYO1GItJ/zhlOIlNC0wMijcQYnuEdPL0="
   },
   "lodging": {
-    "js": "/dist/lodging.bb78b40ed20e60427e76.js",
-    "jsIntegrity": "sha256-CI3BS/FpzJEBzK13iJKdYmkBlWD9HuLOJPxQzDordYQ="
+    "js": "/dist/lodging.d1bc0b8b2f9d4e5bad00.js",
+    "jsIntegrity": "sha256-48GkQCDMqABNwmeNSjK87dLLWDNVElH9Ws7ZLk7HGVA="
   },
   "main": {
     "js": "/dist/main.10d65ab9a1f72c7ff592.js",
@@ -36,7 +36,7 @@
     "jsIntegrity": "sha256-U6KauDEZ9G+fgtY3nkUND+IvtH/ln5Vc2Ad/YmcerL8="
   },
   "tourcharters": {
-    "js": "/dist/tourcharters.485b2afe42d3adda240e.js",
-    "jsIntegrity": "sha256-h3m1cPxXJlaYtidcDuFPYOtanqcKGU7cA/x57Zf3znQ="
+    "js": "/dist/tourcharters.b29f6220476bebf1cfd8.js",
+    "jsIntegrity": "sha256-346YSqFKiB6Y0VHxl/v4r6GCBLgjyuRpDTXqOBtt7fk="
   }
 }

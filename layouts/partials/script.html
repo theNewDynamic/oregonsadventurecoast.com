@@ -1,3 +1,7 @@
+{{ if eq . "dining" }}
+{{ $style := resources.Get "js/initMap.js" | resources.Minify }}
+<script src="{{ $style.Permalink }}"></script>
+{{ end }}
 {{ with partialCached "func/GetAssetSRC" . . }}
   <script 
     type="text/javascript" src="{{ .js }}"
@@ -9,4 +13,16 @@
   ></script>
 {{ else }}
   <script type="text/javascript" src="{{ . }}" ></script>
+{{ end }}
+{{ if eq . "dining" }}
+{{ $mapKey := "" }}
+{{ with getenv "GOOGLE_MAP_API" }}
+  {{ $mapKey = . }}
+{{ else }}
+  {{ with site.Data.env.GOOGLE_MAP_API }}
+    {{ $mapKey = . }}
+  {{ end }}
+{{ end }}
+<script async defer src="https://maps.googleapis.com/maps/api/js?key={{ $mapKey }}&callback=initMap"
+type="text/javascript"></script>
 {{ end }}
