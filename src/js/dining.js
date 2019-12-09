@@ -292,8 +292,10 @@ function initMap() {
         // update filter option settings
         console.log('updating filter options with ', key, ' with value of ', value, ' to ', action, ' it.');
 
-        document.getElementById("view-map").style.opacity = "0";
-        document.getElementById("view-map").style.display = "block";
+        if (!document.getElementById("view-toggle-map").classList.contains("active")){
+            document.getElementById("view-map").style.opacity = "0";
+            document.getElementById("view-map").style.display = "block";
+        }
 
         diningList = buildFilteredList(fullDiningList, filterOptions);
 
@@ -316,10 +318,12 @@ function initMap() {
 
         console.log(bounds);
         viewMap.fitBounds(bounds);
-        setTimeout(function(){
-            document.getElementById("view-map").style.display = "none";
-            document.getElementById("view-map").style.opacity = "100";
-         }, 10);
+        if (!document.getElementById("view-toggle-map").classList.contains("active")){
+            setTimeout(function(){
+                document.getElementById("view-map").style.display = "none";
+                document.getElementById("view-map").style.opacity = "100";
+            }, 10);
+        }
 
         outputDining(diningList);
     }
