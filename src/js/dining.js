@@ -14,6 +14,7 @@ const api_url = "https://api.oregonsadventurecoast.com";
 let markersArray = [];
 let lastInfoWindow = false;
 let hideMap = false;
+let bounds = false;
 
 
 /**
@@ -90,7 +91,7 @@ function initMap() {
         // Reset output
         $('#dining-output').html('');
 
-        let bounds = new google.maps.LatLngBounds();
+        bounds = new google.maps.LatLngBounds();
         _.forEach(list, (val, index) => {
             if(typeof val.latitude != "undefined" && typeof val.longitude != "undefined") {
                 let infowindow = new google.maps.InfoWindow({
@@ -291,6 +292,9 @@ function initMap() {
         // update filter option settings
         console.log('updating filter options with ', key, ' with value of ', value, ' to ', action, ' it.');
 
+        document.getElementById("view-map").style.opacity = "0";
+        document.getElementById("view-map").style.display = "block";
+
         diningList = buildFilteredList(fullDiningList, filterOptions);
 
         // display the corresponding markers
@@ -309,6 +313,13 @@ function initMap() {
                 }
             }
         }
+
+        console.log(bounds);
+        viewMap.fitBounds(bounds);
+        setTimeout(function(){
+            document.getElementById("view-map").style.display = "none";
+            document.getElementById("view-map").style.opacity = "100";
+         }, 10);
 
         outputDining(diningList);
     }

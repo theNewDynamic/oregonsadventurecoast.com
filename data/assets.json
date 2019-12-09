@@ -8,8 +8,8 @@
     "jsIntegrity": "sha256-Hv3QtUV5FvdIgR2cew1hWKViSYz3KC625stiw4v+EOU="
   },
   "dining": {
-    "js": "/dist/dining.f377053177b08ae13a61.js",
-    "jsIntegrity": "sha256-ngBnLcjcKoHbJLmufKxzzAMSxYnd4kmI5uasRq5XJKM="
+    "js": "/dist/dining.8e2cb4abc8f3b7554e30.js",
+    "jsIntegrity": "sha256-6xiOfnpMdI6i4sWohtwiH6yU7ggkhed7Zx7Unm5ItDY="
   },
   "equipment": {
     "js": "/dist/equipment.e2b5128b67dc7998db17.js",
