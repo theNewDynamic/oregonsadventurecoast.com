@@ -1,9 +1,9 @@
-{{ if eq . "1" }}
+{{ if eq (substr . 0 1) "1" }}
     $
 {{ end }}
-{{ if eq . "2" }}
+{{ if eq (substr . 0 1) "2" }}
     $$
 {{ end }}
-{{ if eq . "3" }}
+{{ if eq (substr . 0 1) "3" }}
     $$$
 {{ end }}
