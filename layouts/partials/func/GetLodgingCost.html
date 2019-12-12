@@ -1,0 +1,14 @@
+{{ $return := false }}
+{{ $costString := . }}
+{{ with $costString }}
+    {{ if eq (substr . 0 1) "1" }}
+        {{ $return = "$" }}
+    {{ end }}
+    {{ if eq (substr . 0 1) "2" }}
+        {{ $return = "$$" }}
+    {{ end }}
+    {{ if eq (substr . 0 1) "3" }}
+        {{ $return = "$$$" }}
+    {{ end }}
+{{ end }}
+{{ return $return }}
