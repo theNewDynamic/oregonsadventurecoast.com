@@ -47,5 +47,5 @@ fields:
     max: 
   label: Aliases
 pages:
-- content/sitepages/medical-urgent-dental-services.md
 - content/sitepages/local-industry-resources.md
+- content/sitepages/medical-urgent-dental-services.md
