@@ -24,7 +24,7 @@
                     {{ if eq (printf "%T" $amenity) "string" }}
                         {{ index (split $amenity " - ") 0 }}
                     {{ else }}
-                        {{ index $amenity "amenitySelect" }}
+                        {{ substr $amenity.amenitySelect 0 1 }}
                     {{ end }}
                 {{- end -}}
             ]
