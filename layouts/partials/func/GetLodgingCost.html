@@ -1,3 +1,15 @@
+{{/*
+  GetLodgingCost
+  This function returns a label corresponding to the passed cost string.
+  False is returned if the passed string is invalid.
+
+  @author @mountainbug95
+
+  @context string (.)
+
+  @example - Go Template
+    {{ partial "func/GetLodgingCost" . }}
+*/}}
 {{ $return := false }}
 {{ $costString := . }}
 {{ with $costString }}

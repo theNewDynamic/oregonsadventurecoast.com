@@ -4,11 +4,12 @@
     </div>
 
     <div class="content">
-        {{ $propertyCategory := "func/GetLodgingCategory.html" .Params.property_category }}
-        {{ with $propertyCategory }}
-            <div class="category">
-                {{ $propertyCategory }}
-            </div>
+        {{ with .Params.property_category }}
+            {{ with partial "func/GetLodgingCategory" . }}
+                <div class="category">
+                    {{ . }}
+                </div>
+            {{ end }}
         {{ end }}
 
         <div class="location">
@@ -25,11 +26,12 @@
         <div class="description">
             <strong> 
             {{ partial "lodging/units.html" .Params.units }}
-            {{ $cost := partial "func/GetLodgingCost.html" .Params.cost }}
-            {{ with $cost }}
-                &bull;
-                {{ . }}
-            {{ end }}:
+            {{ with .Params.cost }}
+                {{ with partial "func/GetLodgingCost" . }}
+                    &bull;
+                    {{ . }}
+                {{ end }}:
+            {{ end }}
             </strong>
             {{ .Params.property_description }}
         </div>
@@ -38,8 +40,7 @@
             <div class="amenity-list clearfix">
                 <ul>
                 {{ range .Params.categoryTest }}
-                    {{ $amenity := partial "func/GetLodgingAmenity.html" . }}
-                    {{ with $amenity }}
+                    {{ with partial "func/GetLodgingAmenity" . }}
                         <li class="{{ . }}"></li>
                     {{ end }}
                 {{ end }}

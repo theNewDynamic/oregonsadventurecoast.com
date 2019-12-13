@@ -1,3 +1,15 @@
+{{/*
+  GetLodgingAmenity
+  This function returns the class name corresponding to the passed amenity string.
+  False is returned if the passed string is invalid.
+
+  @author @mountainbug95
+
+  @context string (.)
+
+  @example - Go Template
+    {{ partial "func/GetLodgingAmenity" . }}
+*/}}
 {{ $return := false }}
 {{ $amenityString := . }}
 {{ with $amenityString }}

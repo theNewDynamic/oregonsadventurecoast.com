@@ -1,3 +1,15 @@
+{{/*
+  GetLodgingCategory
+  This function returns the label corresponding to the passed category string.
+  False is returned if the passed string is invalid.
+
+  @author @mountainbug95
+
+  @context string (.)
+
+  @example - Go Template
+    {{ partial "func/GetLodgingCategory" . }}
+*/}}
 {{ $return := false }}
 {{ $costString := . }}
 {{ with $costString }}
