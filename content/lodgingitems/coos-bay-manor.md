@@ -2,7 +2,7 @@
 title: Coos Bay Manor
 photo_name: "/img/coos-bay-manor.jpg"
 property_name: Coos Bay Manor
-property_category: ''
+property_category: 3 - Bed & Breakfasts
 address:
   city: Coos Bay
   state: Oregon
@@ -11,7 +11,7 @@ address:
 phone_toll_free: 800-269-1224
 phone_local: 541-269-1224
 units: '6'
-cost: ''
+cost: 2 - $$
 property_description: "Lovely residential neighborhood. Historic building and area,
   close to Mingus Park. Mannerly children over age 4 welcome. Second floor balcony,
   stately high ceilings and large rooms. \n\nAmenities: Airport Shuttle, Fireplace,
