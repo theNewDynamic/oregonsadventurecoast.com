@@ -15,9 +15,9 @@ phone_local: 541-756-6398
 units: '5'
 cost: 2 - $$
 property_description: The Itty Bitty Inn provides a safe, clean, & cozy atmosphere
-  for travelers since 1950! Each room includes Oregon-made soaps and locally roasted
-  coffee. Our vintage vibe features bicycles, record players & rebuilt Atari 2600s
-  available for guest use.
+  for travelers since 1950! Each room includes Oregon-made soaps & locally roasted
+  coffee. Our vintage vibe features bicycles, record players & rebuilt Ataris available
+  for guest use. Electric car charging station.
 website: http://www.ittybittyinn.com
 amenityList:
 - 2 - Continental or Full Bkfst
