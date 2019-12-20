@@ -18,8 +18,6 @@ categories:
 image: "/img/Live Music Coos Bay.jpg"
 
 ---
-<pre><em>Photo: Dale Inskeep Band plays at 7 Devils Brewery.  Photo Source: <a href="https://www.facebook.com/7DevilsBrewingCo/">Facebook</a></em></pre>
-
 Oregon's Adventure Coast already has a thriving restaurant and arts scene, so it's no wonder that our music culture is also growing. 
 
 The Coos Bay\~North Bend\~Charleston area already hosts a fantastic selection of fantastic annual festivals featuring a range of musical genres like the [South Coast Clambake Music Festival ](https://www.oregonsadventurecoast.com/event/32nd-south-coast-clambake-music-festival/) (coming up March 13th, 2020!), the [Oregon Coast Music Festival](https://www.oregoncoastmusic.org/calendar-events/), [BBQ, Blues and Brews by the Bay](https://www.themillcasino.com/event/bbq-blues-brews/) and a series of free concerts that take places throughout the summer in various destinations.  
