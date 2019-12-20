@@ -16,7 +16,7 @@ address:
   zip: '97459'
 phone_local: 541-756-8800
 phone_toll_free: 800-953-4800
-website: https://www.themillcasino.com
+website: https://www.themillcasino.com/bbq-event/
 seo:
   title: BBQ, Blues & Brews
   description: The Mill's BBQ, Blues & Brews on the Bay has grown into one of The
