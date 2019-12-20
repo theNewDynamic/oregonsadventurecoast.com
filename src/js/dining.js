@@ -91,31 +91,12 @@ function initMap() {
         // Reset output
         $('#dining-output').html('');
 
+        //init the map bounds object
         bounds = new google.maps.LatLngBounds();
+
         _.forEach(list, (val, index) => {
             if(typeof val.latitude != "undefined" && typeof val.longitude != "undefined") {
-                let infowindow = new google.maps.InfoWindow({
-                    content: "<span class='map-info-window'>" + dining.generateTemplate(val) + "</span>"
-                });
-                let markerPosition = {lat: parseFloat(val.latitude), lng: parseFloat(val.longitude)};
-                
-                var marker = new google.maps.Marker({
-                    position: markerPosition,
-                    map: viewMap,
-                    title: val.name,
-                    visible: true
-                });
-
-                marker.addListener('click', function() {
-                    if (lastInfoWindow){
-                        lastInfoWindow.close();
-                    }
-                    lastInfoWindow = infowindow;
-                    infowindow.open(viewMap, marker);
-                });
-                
-
-                markersArray.push(marker);
+                createMarker(val);
             }
             
             if (index >= start && index < limit) {
@@ -123,11 +104,15 @@ function initMap() {
             }
         });
 
+        //find the initial map bounds
         for (let i = 0; i < markersArray.length; i++) {
             bounds.extend(markersArray[i].getPosition());
         }
 
+        //set the initial map bounds
         viewMap.fitBounds(bounds);
+
+        //hide the map if initial page load
         if(hideMap === false){
             document.getElementById("view-map").style.display = "none";
             hideMap = true;
@@ -292,43 +277,20 @@ function initMap() {
         // update filter option settings
         console.log('updating filter options with ', key, ' with value of ', value, ' to ', action, ' it.');
 
-        if (!document.getElementById("view-toggle-map").classList.contains("active")){
-            document.getElementById("view-map").style.opacity = "0";
-            document.getElementById("view-map").style.display = "block";
-        }
+        //if not on the map tab, briefly enable map with no opacity to allow the map to update
+        enableMap();
 
         diningList = buildFilteredList(fullDiningList, filterOptions);
 
-        // display the corresponding markers
-        // first, hide all map markers
-        for (let i = 0; i < markersArray.length; i++){
-            markersArray[i].setVisible(false);
-        }
+        //update map markers
+        reloadMapMarkers(diningList);
 
-        //check every list item against every map marker
-        for (let i = 0; i < diningList.length; i++){
-            for (let j = 0; j < markersArray.length; j++){
-                // if the list item lat/lng matches the map marker lat/lng, make the marker visible
-                if ((diningList[i].latitude == markersArray[j].getPosition().lat()) && (diningList[i].longitude == markersArray[j].getPosition().lng())){
-                    markersArray[j].setVisible(true);
-                    j = markersArray.length;
-                }
-            }
-        }
-
-        console.log(bounds);
-        viewMap.fitBounds(bounds);
-        if (!document.getElementById("view-toggle-map").classList.contains("active")){
-            setTimeout(function(){
-                document.getElementById("view-map").style.display = "none";
-                document.getElementById("view-map").style.opacity = "100";
-            }, 10);
-        }
+        //if not on the map tab, disable the map, now that it has been updated
+        disableMap();
 
         outputDining(diningList);
     }
 
-    // 
     function buildFilteredList(list, filters) {
         // create copy of diningList
         
@@ -483,6 +445,91 @@ function initMap() {
                 $(this).addClass('current');
             }
         });
+    }
+
+    /**
+     * Creates a map marker for each dining entry and pushes it to markersArray.
+     * @param {object | val} - the given dining entry
+     * @return null
+     */
+    function createMarker(val){
+        //create the info window
+        let infowindow = new google.maps.InfoWindow({
+            content: "<span class='map-info-window'>" + dining.generateTemplate(val) + "</span>"
+        });
+        let markerPosition = {lat: parseFloat(val.latitude), lng: parseFloat(val.longitude)};
+        
+        //create the map marker
+        var marker = new google.maps.Marker({
+            position: markerPosition,
+            map: viewMap,
+            title: val.name,
+            visible: true
+        });
+        
+        //display the info window when the marker is clicked
+        marker.addListener('click', function() {
+            if (lastInfoWindow){
+                lastInfoWindow.close();
+            }
+            lastInfoWindow = infowindow;
+            infowindow.open(viewMap, marker);
+        });
+        
+        
+        //add the marker to markersArray
+        markersArray.push(marker);
+    }
+
+    /**
+     * Accepts a list of dining entries and display only the corresponding map markers.
+     * @param {list | diningList} - the dining entries to be displayed on the map
+     * @return null
+     */
+    function reloadMapMarkers(diningList){
+        // first, hide all map markers
+        for (let i = 0; i < markersArray.length; i++){
+            markersArray[i].setVisible(false);
+        }
+
+        //check every list item against every map marker
+        for (let i = 0; i < diningList.length; i++){
+            for (let j = 0; j < markersArray.length; j++){
+                // if the list item lat/lng matches the map marker lat/lng, make the marker visible
+                if ((diningList[i].latitude == markersArray[j].getPosition().lat()) && (diningList[i].longitude == markersArray[j].getPosition().lng())){
+                    markersArray[j].setVisible(true);
+                    j = markersArray.length;
+                }
+            }
+        }
+        
+        viewMap.fitBounds(bounds);
+    }
+
+    /**
+     * Enable the map for updates on tabs where it is disabled
+     * @param
+     * @return
+     */
+    function enableMap(){
+        if (!document.getElementById("view-toggle-map").classList.contains("active")){
+            document.getElementById("view-map").style.opacity = "0";
+            document.getElementById("view-map").style.display = "block";
+        }
+    }
+
+    /**
+     * disable the map after updates on tabs where it should disabled
+     * @param
+     * @return
+     */
+    function disableMap(){
+        if (!document.getElementById("view-toggle-map").classList.contains("active")){
+            setTimeout(function(){
+                document.getElementById("view-map").style.display = "none";
+                document.getElementById("view-map").style.opacity = "100";
+            }, 10);
+        }
     }
 
 })(jQuery);
