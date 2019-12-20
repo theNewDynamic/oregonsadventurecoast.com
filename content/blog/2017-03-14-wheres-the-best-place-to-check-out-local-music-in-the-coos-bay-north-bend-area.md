@@ -16,7 +16,6 @@ tags:
 categories:
 - Entertainment & Nightlife
 image: "/img/Live Music Coos Bay.jpg"
-draft: true
 
 ---
 <pre><em>Photo: Dale Inskeep Band plays at 7 Devils Brewery.  Photo Source: <a href="https://www.facebook.com/7DevilsBrewingCo/">Facebook</a></em></pre>
@@ -33,11 +32,11 @@ But it's inside our rustic beloved local pub where one can find a treasure trove
 
 ## [7 Devils Brewery](http://www.7devilsbrewery.com/live-music-beer-and-movie-nights-trivia-pub-science-beer-festivals-etc/)
 
-Located in downtown Coos Bay, this local brew pub quickly become a favorite gathering place. It’s a great place to take in tunes from local bands like the Dale Inskeep Band, Che’s Lounge and even Porland-based music like Scratchdog String Band (Americana) and Cascade Crescendo (Bluegrass). Guests enjoy their seasonal menu selections and of course plenty of craft beer. If you stop in on a Monday night, stick around for Pub Trivia!  Located at 247 S 2nd St, Coos Bay, OR 97420
+Located in downtown Coos Bay, this local brewpub quickly become a favorite gathering place. It’s a great place to take in tunes from local bands like the Dale Inskeep Band, Che’s Lounge and even Portland-based music like Scratchdog String Band (Americana) and Cascade Crescendo (Bluegrass). Guests enjoy their seasonal menu selections and of course plenty of craft beer. If you stop in on a Monday night, stick around for Pub Trivia!  Located at 247 S 2nd St, Coos Bay, OR 97420
 
 ## [Gooney’s Sports Bar](http://www.gooneyssportsbar.com/)
 
-This Coos Bay bar and restaurant is best known for its friendly and welcoming atmosphere along with great entertainment to go along with its selection of cocktails, beers, burgers, sandwiches, salads, and pizza and more. There is live music every Saturday evening in addition to Karoke throughout the week. By the way, Wednesday Geezer Jam Night is not to be missed! Located at 3290 Ocean Blvd SE, Coos Bay, OR 97420
+This Coos Bay bar and restaurant is best known for its friendly and welcoming atmosphere along with great entertainment to go along with its selection of cocktails, beers, burgers, sandwiches, salads, and pizza and more. There is live music every Saturday evening in addition to karaoke throughout the week. By the way, Wednesday Geezer Jam Night is not to be missed! Located at 3290 Ocean Blvd SE, Coos Bay, OR 97420
 
 ### [Blue Moon Restaurant & Lounge]()
 
