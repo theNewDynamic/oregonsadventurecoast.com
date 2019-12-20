@@ -15,7 +15,7 @@ tags:
 - North Bend Music Venue
 categories:
 - Entertainment & Nightlife
-image: ''
+image: "/img/Live Music Coos Bay.jpg"
 draft: true
 
 ---
