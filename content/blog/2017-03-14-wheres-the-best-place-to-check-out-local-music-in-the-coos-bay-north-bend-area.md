@@ -1,5 +1,6 @@
 ---
-title: Six Destinations to Check Out Live Local Music in Coos Bay ~ North Bend ~ Charleston
+title: Seven Destinations to Check Out Live Local Music in Coos Bay ~ North Bend ~
+  Charleston
 date: 2019-12-20T05:00:00+00:00
 description: With a thriving and growing restaurant and arts scene, it’s natural for
   our eclectic music culture to grow as well. The Coos Bay/North Bend region already
