@@ -28,7 +28,7 @@ But it's inside our rustic beloved local pub where one can find a treasure trove
 
 **If you plan to visit any of these businesses, it’s best to call ahead to confirm their schedule.**
 
-## [7 Devils Brewery](http://www.7devilsbrewery.com/live-music-beer-and-movie-nights-trivia-pub-science-beer-festivals-etc/)
+## [7 Devils Brewery](https://www.7devilsbrewery.com/events.html)
 
 Located in downtown Coos Bay, this local brewpub has quickly become a favorite gathering place. It’s a great place to take in tunes from local bands like the Dale Inskeep Band, Che’s Lounge and Bay City Swing, and even Portland-based music like Scratchdog String Band (Americana) and Cascade Crescendo (Bluegrass). Guests enjoy their seasonal menu selections and, of course, plenty of craft beer. If you stop in on a Monday night, stick around for Pub Trivia!  Located at 247 S 2nd St, Coos Bay, OR 97420
 
