@@ -28,6 +28,10 @@ But it's inside our rustic beloved local pub where one can find a treasure trove
 
 **If you plan to visit any of these businesses, it’s best to call ahead to confirm their schedule.**
 
+## [Coney Station](https://coneystation.business.site/)
+
+Located in the heart of downtown Coos Bay, Coney Station is a local favorite that offers everything from Live Music, Karaoke, DJ Trivia, Texas Hold Em' Poker and more!  [Click here](https://www.facebook.com/ConeyStation/) to follow their updates and entertainment schedule! 
+
 ## [7 Devils Brewery](https://www.7devilsbrewery.com/events.html)
 
 Located in downtown Coos Bay, this local brewpub has quickly become a favorite gathering place. It’s a great place to take in tunes from local bands like the Dale Inskeep Band, Che’s Lounge and Bay City Swing, and even Portland-based music like Scratchdog String Band (Americana) and Cascade Crescendo (Bluegrass). Guests enjoy their seasonal menu selections and, of course, plenty of craft beer. If you stop in on a Monday night, stick around for Pub Trivia!  Located at 247 S 2nd St, Coos Bay, OR 97420
@@ -42,7 +46,7 @@ The Blue Moon has it all. Their convenient and central location in Coos Bay, Ore
 
 ## [Warehouse 101](https://www.themillcasino.com/dining/warehouse-101/)
 
-This well known North Bend establishment is part nightclub, part sports bar. Located inside [The Mill Casino](https://www.themillcasino.com/), Warehouse 101 is a great place to catch live bands every Friday and Saturday night. Their massive widescreen TVs and vast selection of craft beer and wings also makes it a fun place to catch the game. And if that’s not enough, they offer Trivia Night every Tuesday evening, and hilarious stand-up comedy each Wednesday night!
+This well known North Bend establishment is part nightclub, part sports bar. Located inside [The Mill Casino](https://www.themillcasino.com/), _Warehouse 101_ is a great place to catch live bands every Friday and Saturday night. Their massive widescreen TVs and vast selection of craft beer and wings also make it a fun place to catch the game (Tip- The Mill Casino now offers Sports Betting right outside Warehouse 101). And if that’s not enough, they offer Trivia Night every Tuesday evening, and hilarious stand-up comedy each Wednesday night! [Learn more here](https://www.themillcasino.com/entertainment/sports-betting-is-here/2019-12-21/).
 
 ## [Liberty Pub](https://www.facebook.com/TheLibertyPub/)
 
