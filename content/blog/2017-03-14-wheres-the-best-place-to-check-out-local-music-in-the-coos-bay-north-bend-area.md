@@ -36,7 +36,7 @@ Located in downtown Coos Bay, this local brewpub has quickly become a favorite g
 
 This Coos Bay bar and restaurant is best known for its friendly and welcoming atmosphere along with great entertainment to go along with its selection of cocktails, beers, burgers, sandwiches, salads, and pizza and more. There is live music every Saturday evening in addition to karaoke throughout the week. By the way, Wednesday Geezer Jam Night is not to be missed! Located at 3290 Ocean Blvd SE, Coos Bay, OR 97420
 
-## [Blue Moon Restaurant & Lounge]()
+## [Blue Moon Restaurant & Lounge](https://www.facebook.com/bluemooncoosbay)
 
 The Blue Moon has it all. Their convenient and central location in Coos Bay, Oregon is an easy stop for locals as well as travelers making their way down Highway 101. With two separate sections, patrons can enjoy a stiff drink in the saloon or bring family into the cafe for some of the best breakfast in town. The saloon boasts a music venue with karaoke nights, pool table and video lottery machines.
 
