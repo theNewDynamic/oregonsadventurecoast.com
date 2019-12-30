@@ -12,7 +12,7 @@ tags:
 - Winter on the Oregon Coast
 categories:
 - Miscellaneous
-image: "/img/Boat-Ride-Three.jpg"
+image: "/img/Fun-Sway-Boat-Trip-On-Bay-cropped.jpg"
 
 ---
 ### Winter on Oregon's Adventure Coast is sometimes warm, sometimes wet, but always wild & wonderful.
