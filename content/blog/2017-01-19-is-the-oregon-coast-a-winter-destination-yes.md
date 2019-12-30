@@ -38,12 +38,12 @@ We also recommend spending a day at the [South Slough National Estuarine Researc
 
 </li> <li> [**Try your luck in one of our casinos**](https://www.oregonsadventurecoast.com/blog/try-your-luck-on-oregon-s-adventure-coast/)**.** Did you know that our little corner of the Pacific Northwest is home to two of the area’s best casinos? Whether its slots, cards, or games, you’re sure to find round-the-clock adventure, fun, and (fingers crossed) millions right here. Our two casinos are located within a ten-minute drive of each other, so play your cards right and visit both. [Learn more.](https://www.oregonsadventurecoast.com/blog/try-your-luck-on-oregon-s-adventure-coast)
 
-</li> <li>[**Visit the Oregon Dunes**](https://www.oregonsadventurecoast.com/blog/best-ways-to-experience-the-oregon-dunes/)**.** The Oregon Dunes National Recreation Area is the largest expanse of coastal sand dunes in North America and it is like no place on earth.
+</li> <li>[**Visit the Oregon Dunes**](https://www.oregonsadventurecoast.com/blog/best-ways-to-experience-the-oregon-dunes/)**.** The Oregon Dunes National Recreation Area is the largest expanse of coastal sand dunes in North America and it is like no place on earth. With more than 32,186 acres of dunes, forest, streams and lakes, there are plenty of opportunities for an amazing winter adventure. 
 
-</li> <li> **Enjoy Coast Culture.** Spend some time browsing the museums, galleries, and other cultural gems in our area like the [Coos Art Museum](http://www.coosart.org/) and the [Coos History Museum](https://cooshistory.org/), Oregon’s oldest continuously operated historical society boasting more than 250,000 historic photographs. [Click here](https://oregonsadventurecoast.com/art-history-culture/) to see more wonderful additions to our network of museums and galleries.
-</ul>
-_</li>
+</li> <li> **Enjoy Coast Culture.** Spend some time browsing the museums, galleries, and other cultural gems in our area like the [Coos Art Museum](http://www.coosart.org/) and the [Coos History Museum](https://cooshistory.org/), Oregon’s oldest continuously operated historical society boasting more than 250,000 historic photographs. [Click here](https://oregonsadventurecoast.com/art-history-culture/) to see more wonderful additions to our network of museums and galleries. 
 
 </li> <li>**Check out a winter event or festival.** There is always something happening in Coos Bay, North Bend, and Charleston, a.k.a. Oregon's Adventure Coast. We are, after all, an all-seasons destination!  There are plenty of events happening in the winter months and early spring that are worth the trip like the [36th Annual Charleston Crab Feed](https://www.oregonsadventurecoast.com/event/36th-annual-charleston-crab-feed/)- (February 8, 2020) and the [South Coast Clambake Music Festival](https://www.oregonsadventurecoast.com/event/32nd-south-coast-clambake-music-festival/) (March 13-15, 2020).
+
+</ul>
 
 For a full list of events visit <a href="/events/" target="_blank" rel="noopener noreferrer"><strong>Oregon’s Adventure Coast Events Page</strong></a>.
