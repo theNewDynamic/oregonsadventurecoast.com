@@ -12,7 +12,7 @@ tags:
 - Winter on the Oregon Coast
 categories:
 - Miscellaneous
-image: ''
+image: "/img/Boat-Ride-Three.jpg"
 draft: true
 
 ---
