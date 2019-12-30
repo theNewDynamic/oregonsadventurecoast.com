@@ -18,7 +18,7 @@ draft: true
 ---
 ### Winter on Oregon's Adventure Coast is sometimes warm, sometimes wet, but always wild & wonderful.
 
-"At first blush, a winter trip to the Oregon coast might not seem as alluring as a summer vacation but to ignore our scenic shoreline in the winter is to miss out on a huge part of what makes it so special in the first place." -From [_30 reasons to love the Oregon coast in the winter_](https://www.oregonlive.com/travel/2018/02/30_reasons_to_love_the_oregon.html)
+<p>"At first blush, a winter trip to the Oregon coast might not seem as alluring as a summer vacation but to ignore our scenic shoreline in the winter is to miss out on a huge part of what makes it so special in the first place." -From [_30 reasons to love the Oregon coast in the winter_](https://www.oregonlive.com/travel/2018/02/30_reasons_to_love_the_oregon.html)
 
 One of the draws of the Oregon Coast is its wild unpredictability. There is never a dull day when you live near the mighty Pacific ocean. You may be surprised to learn that winter on the Oregon Coast is actually a lot more pleasant than most people realize.
 
