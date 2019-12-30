@@ -13,7 +13,6 @@ tags:
 categories:
 - Miscellaneous
 image: "/img/Boat-Ride-Three.jpg"
-draft: true
 
 ---
 ### Winter on Oregon's Adventure Coast is sometimes warm, sometimes wet, but always wild & wonderful.
@@ -21,6 +20,8 @@ draft: true
 <p>"At first blush, a winter trip to the Oregon coast might not seem as alluring as a summer vacation but to ignore our scenic shoreline in the winter is to miss out on a huge part of what makes it so special in the first place." -From [_30 reasons to love the Oregon coast in the winter_](https://www.oregonlive.com/travel/2018/02/30_reasons_to_love_the_oregon.html)
 
 One of the draws of the Oregon Coast is its wild unpredictability. There is never a dull day when you live near the mighty Pacific ocean. You may be surprised to learn that winter on the Oregon Coast is actually a lot more pleasant than most people realize.
+
+![](/img/crab-feed-charleston-medium.jpg)
 
 Despite what you may hear about cold and rainy Oregon winters, it’s not uncommon for coastal residents and visitors to be treated to spectacular balmy days of sunshine and warmer temperatures mimicking summer weather. In fact, if you’re visiting during the winter months, it might be wise to pack some lighter gear and even shorts!
 
@@ -38,9 +39,9 @@ We also recommend spending a day at the [South Slough National Estuarine Researc
 
 </li> <li> [**Try your luck in one of our casinos**](https://www.oregonsadventurecoast.com/blog/try-your-luck-on-oregon-s-adventure-coast/)**.** Did you know that our little corner of the Pacific Northwest is home to two of the area’s best casinos? Whether its slots, cards, or games, you’re sure to find round-the-clock adventure, fun, and (fingers crossed) millions right here. Our two casinos are located within a ten-minute drive of each other, so play your cards right and visit both. [Learn more.](https://www.oregonsadventurecoast.com/blog/try-your-luck-on-oregon-s-adventure-coast)
 
-</li> <li>[**Visit the Oregon Dunes**](https://www.oregonsadventurecoast.com/blog/best-ways-to-experience-the-oregon-dunes/)**.** The Oregon Dunes National Recreation Area is the largest expanse of coastal sand dunes in North America and it is like no place on earth. With more than 32,186 acres of dunes, forest, streams and lakes, there are plenty of opportunities for an amazing winter adventure. 
+</li> <li>[**Visit the Oregon Dunes**](https://www.oregonsadventurecoast.com/blog/best-ways-to-experience-the-oregon-dunes/)**.** The Oregon Dunes National Recreation Area is the largest expanse of coastal sand dunes in North America and it is like no place on earth. With more than 32,186 acres of dunes, forest, streams and lakes, there are plenty of opportunities for an amazing winter adventure.
 
-</li> <li> **Enjoy Coast Culture.** Spend some time browsing the museums, galleries, and other cultural gems in our area like the [Coos Art Museum](http://www.coosart.org/) and the [Coos History Museum](https://cooshistory.org/), Oregon’s oldest continuously operated historical society boasting more than 250,000 historic photographs. [Click here](https://oregonsadventurecoast.com/art-history-culture/) to see more wonderful additions to our network of museums and galleries. 
+</li> <li> **Enjoy Coast Culture.** Spend some time browsing the museums, galleries, and other cultural gems in our area like the [Coos Art Museum](http://www.coosart.org/) and the [Coos History Museum](https://cooshistory.org/), Oregon’s oldest continuously operated historical society boasting more than 250,000 historic photographs. [Click here](https://oregonsadventurecoast.com/art-history-culture/) to see more wonderful additions to our network of museums and galleries.
 
 </li> <li>**Check out a winter event or festival.** There is always something happening in Coos Bay, North Bend, and Charleston, a.k.a. Oregon's Adventure Coast. We are, after all, an all-seasons destination!  There are plenty of events happening in the winter months and early spring that are worth the trip like the [36th Annual Charleston Crab Feed](https://www.oregonsadventurecoast.com/event/36th-annual-charleston-crab-feed/)- (February 8, 2020) and the [South Coast Clambake Music Festival](https://www.oregonsadventurecoast.com/event/32nd-south-coast-clambake-music-festival/) (March 13-15, 2020).
 
