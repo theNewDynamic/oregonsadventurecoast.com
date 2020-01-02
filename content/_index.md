@@ -12,7 +12,7 @@ slideshow:
   url: "/storm-watching"
 - title: Breathtaking Views
   photo: "/img/shore-acres-slider.jpg"
-  url: "/storm-watching/"
+  url: "/hiking-walking"
 - title: Disconnect to Reconnect
   photo: "/img/camping-family-slider.jpg"
   url: "/state-parks-and-national-lands"
