@@ -1,10 +1,13 @@
 ---
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 aliases:
-  - /photo-gallery
-  - /activities/category/geocaching
-  - /rob
+- "/photo-gallery"
+- "/activities/category/geocaching"
+- "/rob"
 slideshow:
+- title: Breathtaking Views
+  photo: "/img/shore-acres-slider.jpg"
+  url: "/storm-watching/"
 - title: Holiday Lights - Nov 28 - Dec 31
   photo: "/img/holiday-lights-home-slider.jpg"
   title_mobile: Holiday Lights Nov 28 - Dec 31
