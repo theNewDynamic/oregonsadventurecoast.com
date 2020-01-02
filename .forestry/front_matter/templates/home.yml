@@ -29,6 +29,12 @@ fields:
       maxSize: 250
     label: Image on mobile
     description: The image used on mobile
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+    description: The URL of the page opened when tthe slide is clicked
   - type: include
     template: video
     name: video
