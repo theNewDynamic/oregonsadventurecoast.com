@@ -5,17 +5,11 @@ aliases:
 - "/activities/category/geocaching"
 - "/rob"
 slideshow:
+- title: Disconnect to Reconnect
+  photo: "/img/camping-family-slider.jpg"
 - title: Breathtaking Views
   photo: "/img/shore-acres-slider.jpg"
   url: "/storm-watching/"
-- title: Holiday Lights - Nov 28 - Dec 31
-  photo: "/img/holiday-lights-home-slider.jpg"
-  title_mobile: Holiday Lights Nov 28 - Dec 31
-  photo_mobile: "/img/holiday-lights-mobile.jpg"
-  url: "/event/33rd-annual-holiday-lights-at-shore-acres/"
-  video:
-    source: "/img/holiday_lights_2019_854.mp4"
-    cover: "/img/holiday-lights-home-slider.jpg"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/hiking-shore-acres-desktop.jpg"
