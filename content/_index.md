@@ -5,6 +5,11 @@ aliases:
 - "/activities/category/geocaching"
 - "/rob"
 slideshow:
+- title: Best Storm Watching - Jan • Feb • Mar
+  photo: "/img/storm-watching-hm-slider-lg.jpg"
+  title_mobile: Best Storm Watching
+  photo_mobile: "/img/storm-watching-mobile-hm-slider.jpg"
+  url: "/storm-watching"
 - title: Breathtaking Views
   photo: "/img/shore-acres-slider.jpg"
   url: "/storm-watching/"
