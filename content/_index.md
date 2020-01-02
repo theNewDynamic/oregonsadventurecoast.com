@@ -7,6 +7,7 @@ aliases:
 slideshow:
 - title: Disconnect to Reconnect
   photo: "/img/camping-family-slider.jpg"
+  url: "/state-parks-and-national-lands"
 - title: Breathtaking Views
   photo: "/img/shore-acres-slider.jpg"
   url: "/storm-watching/"
