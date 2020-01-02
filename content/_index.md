@@ -5,12 +5,13 @@ aliases:
 - "/activities/category/geocaching"
 - "/rob"
 slideshow:
-- title: Disconnect to Reconnect
-  photo: "/img/camping-family-slider.jpg"
-  url: "/state-parks-and-national-lands"
+- {}
 - title: Breathtaking Views
   photo: "/img/shore-acres-slider.jpg"
   url: "/storm-watching/"
+- title: Disconnect to Reconnect
+  photo: "/img/camping-family-slider.jpg"
+  url: "/state-parks-and-national-lands"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/hiking-shore-acres-desktop.jpg"
