@@ -7,7 +7,8 @@ var flkty = new Flickity( elem, {
     pageDots: false,
     draggable: false,
     wraparound: true,
-    fade: true
+    fade: true,
+    autoPlay: 4000
 });
 
 let carouselVideos = document.getElementsByClassName("carousel-video");
