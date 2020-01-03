@@ -9,7 +9,7 @@ address:
   street2: 
   city: Coos Bay
   state: OR
-  zip: "97420"
+  zip: '97420'
 phone_toll_free: 
 phone_local: 541-269-0999
 units: 20
@@ -24,5 +24,8 @@ amenityList:
 - amenitySelect: 6
 - amenitySelect: 9
 - amenitySelect: 10
+coordinates:
+  lat: '43.382267'
+  lng: "-124.2492887"
 
 ---
