@@ -35,7 +35,7 @@ Other Charleston restaurant shoutouts included **The Portside Restaurant, The Ca
 
 Other North Bend establishments receiving multiple recommendations include **The Liberty Pub** “love their pizza”, **Hilltop House Restaurant and Lounge** and **Wildflour Café & Catering**. One follower posted “the best Clam chowder IMO is the **North Bend Bowling Alley**... no kidding. Made fresh on Friday”. Another says **Yeong's Place Restaurant** is "where the locals go for a great burger”.
 
-Other North Bend eateries getting shout-outs from locals and visitors were **Back Alley Pub, Grab & Go Deli at Bailey's, Dishner's Fine Foods, El Guadalajara, Lucky Star Chinese, The Tin Thistle, Bungalow Market & Deli, Mill Casino, Vinny 's Smokin' Good Burgers & Sandwiches and The Grounds Cafe in Books By The Bay.**
+Other North Bend eateries getting shout-outs from locals and visitors were **Back Alley Pub, Grab & Go Deli at Bailey's, Dishner's Fine Foods, El Guadalajara, Lucky Star Chinese, The Tin Thistle, Bungalow Market & Deli, Mill Casino, Vinny 's Smokin' Good Burgers & Sandwiches** and **The Grounds Cafe in Books By The Bay.**
 
 We also read a post praising **Top Dog Coffee Company** for “really yummy creative drinks”, **Alder Smokehouse** for BBQ Tri-Tip and breakfast at **Kozy Kitchen**.
 
@@ -43,14 +43,13 @@ We also read a post praising **Top Dog Coffee Company** for “really yummy crea
 
 **MOST RECOMMENDED: Tokyo Bistro** (fans say it has the best sushi) received many recommendations along with **7 Devils Brewing Co.** “the best pub ever” and **Shark Bites** in Coos Bay’s downtown district.
 
-**Darrell’s Devils Food** received mad love from fans for their pizza:
-
+**Darrell’s Devils Food** received mad love from fans for their pizza:  
 “I just picked my pizza up from Darrell’s Devils Food. My kid says it’s the best pizza in the world”
 “Darrell's Devil's Food (Best pizza.. EVER)”
 “Darrell's Devil's Food is my favorite place to go for a coffee, snack, breakfast or lunch. Their pizza and ham and cheese croissants are to die for! Plus Shanan is a wizard at making mochas!”
 
 Other Coos Bay restaurants receiving multiple recommendations are **Coach House, Blue Heron Bistro, Kaffe 101, Sumin's Restaurant & Sushi Bar, Little Italy Restaurant, EZ Thai, City Subs, Noster Kitchen, The Boat** (one fan says it “has the best fish and chips in the area”). Respondents also recommended **Stockpot Restaurant** for a “breakfast you can't beat” and “best breakfast in town. Good people too”.
 
-**Restaurant O, Fishermen's Seafood Market, Street Provisioners, Grab & Go Deli at Coos Head Food Co-op, So It Goes Coffeehouse, Bay Burger Inn-Praus Haus and Luigi's Italian Sandwiches** also received shout-outs from our Facebook followers.
+**Restaurant O, Fishermen's Seafood Market, Front Street Provisioners, Grab & Go Deli at Coos Head Food Co-op, So It Goes Coffeehouse, Bay Burger Inn-Praus Haus** and **Luigi's Italian Sandwiches** also received shout-outs from our Facebook followers.
 
 As you can see, Oregon’s Adventure Coast boasts a wide variety of terrific dining and meal options to explore. We encourage you to try these and other fabulous restaurants on your next visit and let us know what you think! [Click here ](https://www.oregonsadventurecoast.com/dining/)for our most recent list of area restaurants.
