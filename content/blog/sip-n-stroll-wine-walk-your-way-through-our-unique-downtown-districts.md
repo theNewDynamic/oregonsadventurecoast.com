@@ -24,7 +24,7 @@ The [next Sip n Stroll is scheduled for March 20, 2020](https://www.facebook.com
 
 ### [Downtown Coos Bay Wine Walk](https://www.facebook.com/CoosBayWineWalk/)
 
-On the first Friday of each month, you may notice cheerful groups of people browsing through local businesses in the Downtown Coos Bay shopping district and sipping wine. That is none other than the **Downtown Coos Bay Wine Walk**, a monthly event celebrating local businesses and benefitting local non-profit organizations.
+On the first Friday of each month (except January), you may notice cheerful groups of people browsing through local businesses in the Downtown Coos Bay shopping district and sipping wine. That is none other than the **Downtown Coos Bay Wine Walk**, a monthly event celebrating local businesses and benefitting local non-profit organizations.
 
 Now in its 13th year, the Downtown Coos Bay Wine Walk has provided about $310,000 to local non-profit organizations. The event is coordinated by the **Coos Bay - North Bend Rotary Club** and supported by **The World newspaper.**
 
