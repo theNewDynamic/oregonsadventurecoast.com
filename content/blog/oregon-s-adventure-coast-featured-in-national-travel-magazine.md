@@ -5,7 +5,12 @@ description: 'We were pleased to learn that Oregon Dunes National Recreation Are
   was featured in the newest issue of Courier, the magazine of The National Tour Association
   (NTA). '
 image: "/img/Blog-Courier Magazine.png"
-tags: []
+tags:
+- The National Tour Association (NTA)
+- Courier
+- Oregon Dunes
+- 'Oregon Dunes National Recreation Area '
+- Travel Magazine
 categories: []
 seo:
   title: ''
