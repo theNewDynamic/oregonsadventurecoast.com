@@ -33,9 +33,9 @@ Other Charleston restaurant shoutouts included **The Portside Restaurant, The Ca
 
 **MOST RECOMMENDED:** **Mediterranean Café, Ciccarelli's and Pancake Mill** were hands down the most recommended restaurants in our unofficial poll. One fan says, “I live in Seattle, which is a huge city and there is nowhere here that's like Pancake Mill. Nowhere even close.”
 
-Other North Bend establishments receiving multiple recommendations include **The Liberty Pub** “love their pizza”, **Hilltop House Restaurant and Lounge** and **Wildflour Café & Catering**. One follower posted “the best Clam chowder IMO is the **North Bend Bowling Alley**... no kidding. Made fresh on Friday”. Another says **Yeong's Place Restaurant** is "where the locals go for a great burger”.
+Other North Bend establishments receiving multiple recommendations include **The Liberty Pub** “love their pizza”, **Hilltop House Restaurant and Lounge** and **Wildflour Café & Catering**. One follower posted “the best Clam chowder IMO is the **North Bend Bowling Alley (Back Alley Pub)** ... no kidding. Made fresh on Friday”. Another says **Yeong's Place Restaurant** is "where the locals go for a great burger”.
 
-Other North Bend eateries getting shout-outs from locals and visitors were **Back Alley Pub, Grab & Go Deli at Bailey's, Dishner's Fine Foods, El Guadalajara, Lucky Star Chinese, The Tin Thistle, Bungalow Market & Deli, Mill Casino, Vinny 's Smokin' Good Burgers & Sandwiches** and **The Grounds Cafe in Books By The Bay.**
+Other North Bend eateries getting shout-outs from locals and visitors were  **Grab & Go Deli at Bailey's, Dishner's Fine Foods, El Guadalajara, Lucky Star Chinese, The Tin Thistle, Bungalow Market & Deli, Mill Casino, Vinny 's Smokin' Good Burgers & Sandwiches** and **The Grounds Cafe in Books By The Bay.**
 
 We also read a post praising **Top Dog Coffee Company** for “really yummy creative drinks”, **Alder Smokehouse** for BBQ Tri-Tip and breakfast at **Kozy Kitchen**.
 
