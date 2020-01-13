@@ -32,16 +32,16 @@ Participants begin their wine walk at the **Coos Bay Visitor Information Center*
 
 Here is the recipient list and calendar dates for **Downtown Coos Bay Wine Walk 2020:** 
 
-February 7, 2020 Lab Band Program Association<br>
-March 6, 2020 South Coast Clambake Music Festival<br>
-April 3, 2020 Coos Bay Public Library Foundation<br>
-May 1, 2020 Dolphin Players & Oregon Coast Historical Railway<br>
-June 5, 2020 Egyptian Theatre Preservation Association<br>
-July 10, 2020 Oregon Coast Music Association (2nd Friday this month only)<br>
-August 7, 2020 Coos Art Museum<br>
-September 4, 2020 Music on the Bay<br>
-October 2, 2020 Marshfield Sun Printing Museum<br>
-November 6, 2020 Dance Umbrella for South Coast<br>
-December 4, 2020 Friends of South Slough<br>
+February 7, 2020 - Lab Band Program Association<br>
+March 6, 2020 - South Coast Clambake Music Festival<br>
+April 3, 2020 - Coos Bay Public Library Foundation<br>
+May 1, 2020 - Dolphin Players & Oregon Coast Historical Railway<br>
+June 5, 2020 - Egyptian Theatre Preservation Association<br>
+July 10, 2020 - Oregon Coast Music Association (2nd Friday this month only)<br>
+August 7, 2020 - Coos Art Museum<br>
+September 4, 2020 - Music on the Bay<br>
+October 2, 2020 - Marshfield Sun Printing Museum<br>
+November 6, 2020 - Dance Umbrella for South Coast<br>
+December 4, 2020 - Friends of South Slough<br>
 
 For more information, visit [facebook.com/CoosBayWineWalk](http://facebook.com/CoosBayWineWalk).
