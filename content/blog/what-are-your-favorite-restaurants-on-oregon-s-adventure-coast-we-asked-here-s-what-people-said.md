@@ -1,7 +1,7 @@
 ---
 title: 'What Are Your Favorite Restaurants on Oregon''s Adventure Coast? We asked.
   Here''s what people said. '
-date: 2020-01-28T05:00:00+00:00
+date: 2020-01-28T05:00:00.000+00:00
 description: 'There is a wide range of dining options in the cities of Coos Bay, North
   Bend and Charleston so we asked locals and visitors to share their favorites. Here''s
   what they said. '
@@ -18,7 +18,8 @@ draft: true
 ---
 Aside from the natural beauty, one of the things that travelers say they love the most about visiting Oregon’s Adventure Coast is the food. Self-proclaimed “food-snobs” visiting from large cities all over the region have told us time and time again how impressed they are with the quality and the selection of the restaurants in our area. Hungry travelers can find world-class chowder, fresh local seafood, top-notch sushi, Thai, Italian, Mexican, and American comfort food within just a couple of miles of each other.
 
-Dining in local establishments is a wonderful way to meet new people and get an authentic sense of the history and culture in our area. We recently asked some of the locals and frequent visitors to share their favorite restaurant recommendations on Facebook. <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOregonsAdventureCoast%2Fposts%2F10157893649951692%3A0&width=500" width="500" height="449" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+Dining in local establishments is a wonderful way to meet new people and get an authentic sense of the history and culture in our area. We recently asked some of the locals and frequent visitors to share their favorite restaurant recommendations on Facebook.   
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOregonsAdventureCoast%2Fposts%2F10157893649951692%3A0&width=500" width="500" height="449" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 Here’s what they said.
 
@@ -50,6 +51,6 @@ We also read a post praising **Top Dog Coffee Company** for “really yummy crea
 
 Other Coos Bay restaurants receiving multiple recommendations are **Coach House, Blue Heron Bistro, Kaffe 101, Sumin's Restaurant & Sushi Bar, Little Italy Restaurant, EZ Thai, City Subs, Noster Kitchen, The Boat** (one fan says it “has the best fish and chips in the area”). Respondents also recommended **Stockpot Restaurant** for a “breakfast you can't beat” and “best breakfast in town. Good people too”.
 
-**Restaurant O, Fishermen's Seafood Market, Street Provisioners, Grab & Go Deli at Coos Head Food Co-op, So It Goes Coffeehouse, Bay Burger Inn-Praus Haus and Luigi's Italian Sandwiches** also received shout-outs from our Facebook followers. 
+**Restaurant O, Fishermen's Seafood Market, Street Provisioners, Grab & Go Deli at Coos Head Food Co-op, So It Goes Coffeehouse, Bay Burger Inn-Praus Haus and Luigi's Italian Sandwiches** also received shout-outs from our Facebook followers.
 
 As you can see, Oregon’s Adventure Coast boasts a wide variety of terrific dining and meal options to explore. We encourage you to try these and other fabulous restaurants on your next visit and let us know what you think! [Click here ](https://www.oregonsadventurecoast.com/dining/)for our most recent list of area restaurants.
