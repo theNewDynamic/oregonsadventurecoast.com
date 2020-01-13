@@ -1,6 +1,6 @@
 ---
 title: Is the Oregon Coast a Winter Destination?  YES.
-date: 2019-12-27T05:00:00+00:00
+date: 2019-12-27T05:00:00.000+00:00
 description: There is never a dull day when you live near the mighty Pacific ocean.
   You may be surprised to learn that winter on the Oregon Coast is actually a lot
   more pleasant than most people realize.
@@ -12,7 +12,6 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
 ### Winter on Oregon's Adventure Coast is sometimes warm, sometimes wet, but always wild & wonderful.
