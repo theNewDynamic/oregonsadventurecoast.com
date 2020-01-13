@@ -1,6 +1,6 @@
 ---
 title: Sip n Stroll & Wine Walk Your Way Through our Unique Downtown Districts
-date: 2020-01-13T05:00:00+00:00
+date: 2020-01-13T05:00:00.000+00:00
 description: Look out for these special events on Oregon’s Adventure Coast that celebrate
   community, wine and locally owned businesses while supporting special causes.
 image: ''
@@ -18,9 +18,9 @@ Exploring the unique and eclectic shops and businesses in Downtown Coos Bay and 
 
 ### [**North Bend Sip n Stroll**](https://www.facebook.com/SipNStrollNorthBend/?eid=ARCj24BiNxId-g3mSkI2ESyH0dIfjO4KypKLIHDHtINg8zgrnbGextco3OEmF_X-gAflDCeS0arZrIb9)
 
-The **North Bend Sip n Stroll** is a fabulous way to experience the charm of downtown North Bend. Vistors that take part in the event enjoy sampling beer and wine as they stroll from location to location.
+The Quarterly **North Bend Sip n Stroll** is a fabulous way to experience the charm of downtown North Bend. Visitors that take part in the event enjoy sampling beer and wine as they stroll from location to location.
 
-The [next Sip n Stroll is scheduled for March 20, 2020](https://www.facebook.com/events/2379250162331991/). Proceeds from the event will benefit the Moore Family, owners of the popular Wildflour Cafe. The family is caring for a two-year-old child with significant medical needs while running a restaurant, catering company and bakery. The event starts at 5 p.m. at Engles Furniture ends at The Liberty Theatre. To learn more, visit [https://www.facebook.com/SipNStrollNorthBend/](https://www.facebook.com/SipNStrollNorthBend/ "www.facebook.com/SipNStrollNorthBend/")
+The [next Sip n Stroll is scheduled for March 20, 2020](https://www.facebook.com/events/2379250162331991/). Proceeds from the event will benefit the Moore Family, owners of the popular Wildflour Cafe. The family is caring for a two-year-old son with significant medical needs while running a restaurant, catering company and bakery. The event starts at 5 p.m. at Engles Furniture and ends at The Liberty Theatre. To learn more, visit [https://www.facebook.com/SipNStrollNorthBend/](https://www.facebook.com/SipNStrollNorthBend/ "www.facebook.com/SipNStrollNorthBend/")
 
 ### [Downtown Coos Bay Wine Walk](facebook.com/CoosBayWineWalk)
 
@@ -28,9 +28,9 @@ On the first Friday of each month, you may notice cheerful groups of people brow
 
 Now in its 13th year, the Downtown Coos Bay Wine Walk has provided about $310,000 to local non-profit organizations. The event is coordinated by the **Coos Bay - North Bend Rotary Club** and supported by **The World newspaper.**
 
-Participants begin their wine walk at the **Coos Bay Visitor Information Center** at 50 Central Ave. at 5 p.m. where they donate $10 and get a map of participating businesses where they can stop by for complimentary wine through 7 p.m. 
+Participants begin their wine walk at the **Coos Bay Visitor Information Center** at 50 Central Ave. at 5 p.m. where they donate $10 and get a map of participating businesses where they can stop by for complimentary wine through 7 p.m.
 
-Here is the recipient list and calendar dates for **Downtown Coos Bay Wine Walk 2020:** 
+Here is the recipient list and calendar dates for **Downtown Coos Bay Wine Walk 2020:**
 
 February 7, 2020 - Lab Band Program Association<br>
 March 6, 2020 - South Coast Clambake Music Festival<br>
