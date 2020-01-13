@@ -3,7 +3,7 @@ title: Local Chef Eoghain O’Neill Appears on Food Network
 date: 2020-01-22T05:00:00+00:00
 description: 'Coos Bay chef and owner of Restaurant O, Eoghain O’Neill, appeared as
   a contestant on the hit show, Beat Bobby Flay last month! '
-image: ''
+image: "/img/Blog-Chef Eoghain O’Neill.png"
 tags: []
 categories: []
 seo:
@@ -25,8 +25,6 @@ Here are some behind-the-scenes photos shared on [Chef O'Neill's Instagram accou
 **You can** [**watch the full episode here**](https://www.foodnetwork.com/videos/holidays-are-for-battle-0287511)**.**
 
 Congratulations to Chef O'Neill for his stellar performance on the show!
-
-[https://www.instagram.com/p/B6NP4GmBA7A/?utm_source=ig_web_copy_link](https://www.instagram.com/p/B6NP4GmBA7A/?utm_source=ig_web_copy_link "https://www.instagram.com/p/B6NP4GmBA7A/?utm_source=ig_web_copy_link")
 
 [Chef O'Neill](http://www.masterchefoneill.com/meet-the-chef.html) has roots in Ireland, Trinidad and Tobago, and England. He pursued a degree in culinary arts in Canterbury, graduating summa cum laude before starting his adventure in various kitchens in Gstaad, London, Paris, Canouan and Mustique of St. Vincent and the Grenadines and Sardinia, Italy. Chef O'Neill launched his first restaurant, Ristorante O in May 2013 in Alghero in Sardinia, Italy which earned him recommendations in the Michelin Guide and L'Espresso Guides for three years before deciding to make Coos Bay his home. He is widely respected for his extensive experiences in the sophisticated culinary arena in Europe and the Carribean.
 
