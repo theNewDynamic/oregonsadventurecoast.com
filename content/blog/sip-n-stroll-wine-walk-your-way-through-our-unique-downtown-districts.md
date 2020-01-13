@@ -30,7 +30,7 @@ Now in its 13th year, the Downtown Coos Bay Wine Walk has provided about $310,00
 
 Participants begin their wine walk at the **Coos Bay Visitor Information Center** at 50 Central Ave. at 5 p.m. where they donate $10 and get a map of participating businesses where they can stop by for complimentary wine through 7 p.m.
 
-Here is the recipient list and calendar dates for [**Downtown Coos Bay Wine Walk**]() **2020:**
+Here is the recipient list and calendar dates for [**Downtown Coos Bay Wine Walk 2020**](https://www.facebook.com/CoosBayWineWalk/)**:**
 
 February 7, 2020 - Lab Band Program Association<br>
 March 6, 2020 - South Coast Clambake Music Festival<br>
