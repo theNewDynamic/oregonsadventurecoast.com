@@ -12,4 +12,8 @@ aliases: []
 draft: true
 
 ---
-<script type="text/javascript" src="https://form.jotform.com/jsform/90197398195169"></script>
+<div style="background-color: #d74029; width: 1600px; height:1200px; margin: 0 auto; color:#ffffff;">
+	      <p>Success </p>
+	      <p>;laksjd;lkfj</p>
+	      <p>&nbsp;</p>
+    </div>
