@@ -135,9 +135,9 @@
         <img src="/layout-images/breathtaking-shore-acres.jpg" alt="Breathtaking View at Shore Acres State Park">
     </a>
 </div>
-{{ with .GetPage "thatFormPage" }}
+{{ with site.GetPage "sitepages/sportsman-show-contest-entry" }}
     <div class="m-home-splash">
-        <a class="m-home-banner" href="#">
+        <a class="m-home-banner" href="{{ .RelPermalink }}">
             <img src="/layout-images/win-500-cash.png" alt="Win $500 Cash">
         </a>
     </div>
