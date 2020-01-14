@@ -135,12 +135,14 @@
         <img src="/layout-images/breathtaking-shore-acres.jpg" alt="Breathtaking View at Shore Acres State Park">
     </a>
 </div>
+{{ with .GetPage "thatFormPage" }}
+    <div class="m-home-splash">
+        <a class="m-home-banner" href="#">
+            <img src="/layout-images/win-500-cash.png" alt="Win $500 Cash">
+        </a>
+    </div>
+{{ end }}
 
-<div class="m-home-splash">
-    <a class="m-home-banner" href="#">
-        <img src="/layout-images/win-500-cash.png" alt="Win $500 Cash">
-    </a>
-</div>
 
 <div class="m-home-grid clearfix">
     <div class="home-grid-left">
