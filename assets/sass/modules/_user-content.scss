@@ -1,3 +1,14 @@
+.generic-title{
+  text-align: center;
+  margin-top: 3rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+
+  h1{
+    margin: 0;
+  }
+}
+
 .inner{
   // Hugo builtin vimeo/youtube shortcode inline styling is the only way to target a video iframe added by editors.
   [style*='padding-bottom: 56.25%;']{
