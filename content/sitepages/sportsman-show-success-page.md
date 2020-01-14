@@ -1,5 +1,5 @@
 ---
-title: Sportsman Show Contest Entry
+title: Sportsman Show Success Page
 url: sportsman-show-contest
 layout: ''
 photo: ''
