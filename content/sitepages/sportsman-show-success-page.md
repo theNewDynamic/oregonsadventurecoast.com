@@ -1,6 +1,6 @@
 ---
 title: Sportsman Show Success Page
-url: sportsman-show-contest
+url: sportsman-show-success
 layout: ''
 photo: ''
 seo:
