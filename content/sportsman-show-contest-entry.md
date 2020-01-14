@@ -1,7 +1,7 @@
 ---
 title: Sportsman Show Contest Entry
 url: sportsman-show-contest
-layout: ''
+layout: 'headless'
 photo: ''
 seo:
   title: ''
@@ -9,7 +9,7 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
-draft: true
+draft: false
 
 ---
 <script type="text/javascript" src="https://form.jotform.com/jsform/90197398195169"></script>

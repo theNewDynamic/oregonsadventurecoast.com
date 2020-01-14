@@ -14,6 +14,7 @@ seo:
   description: Oregon’s Adventure Coast has the ability to host small and large gatherings.
     Learn about rooms, rates & availability. Request information.
   title: Conventions, Groups & Meeting Planners | Oregon's Adventure Coast
+  
 
 ---
 ![The Salmon Room at The Mill Casino • Hotel & RV Park](/img/salmonroom-mill-casino.jpg)
