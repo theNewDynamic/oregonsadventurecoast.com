@@ -135,9 +135,10 @@
         <img src="/layout-images/breathtaking-shore-acres.jpg" alt="Breathtaking View at Shore Acres State Park">
     </a>
 </div>
-{{ with site.GetPage "sitepages/sportsman-show-contest-entry" }}
+{{/* Temporary banner */}}
+{{ with "https://craterlakecountry.com/coos-bay/" }}
     <div class="m-home-splash">
-        <a class="m-home-banner" href="{{ .RelPermalink }}">
+        <a class="m-home-banner" target="_blank" href="{{ . }}">
             <img src="/layout-images/win-500-cash.png" alt="Win $500 Cash">
         </a>
     </div>
