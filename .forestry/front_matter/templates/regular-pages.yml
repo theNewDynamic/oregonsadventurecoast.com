@@ -28,6 +28,7 @@ fields:
     - travelersinfo
     - lodgingpage
     - equipment
+    - headless
   label: Layout
   description: Choose Layout/Sidebar for Your Page
 - type: file
