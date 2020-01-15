@@ -1,0 +1,8 @@
+<!doctype html>
+<html lang="en">
+  {{ partial "head" . }}
+  <body>
+    <div id="bd">{{ block "main" . }}{{ end }}</div>
+ 	  {{ partial "googletag" (dict "where" "bottom") }}
+  </body>
+</html>
