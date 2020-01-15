@@ -12,4 +12,4 @@ aliases: []
 draft: false
 
 ---
-<script type="text/javascript" src="[https://form.jotform.com/jsform/200137311286142](https://form.jotform.com/jsform/200137311286142 "https://form.jotform.com/jsform/200137311286142")"></script>
+<script type="text/javascript" src="https://form.jotform.com/jsform/200137311286142"></script>
