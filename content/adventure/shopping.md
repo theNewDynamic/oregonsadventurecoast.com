@@ -1,7 +1,7 @@
 ---
 title: Shopping
 aliases:
-  - /activities/category/shopping
+- "/activities/category/shopping"
 url: "/shopping"
 photo: "/img/shopping-sub-header.jpg"
 seo:
@@ -54,4 +54,4 @@ Other shopping options in North Bend include the {{< link url="http://ponyvm.com
 
 ## Charleston
 
-In the small fishing village of Charleston, treasure hunters will find the unique and interesting at Kinnee's Gifts & Shells, {{< link url="http://charlestonoregonmerchants.com/merchants_directory/charleytown-marketplace/" >}}Charleytown Marketplace{{< /link >}}, {{< link url="https://www.facebook.com/AmethystandAlchemy" >}}Amethyst & Alchemy{{< /link >}}, as well as {{< link url="http://shoreacres.net" >}}Shore Acres State Park's{{< /link >}} Gift Shop, Englund Marine and {{< link url="http://www.chucksseafood.com" >}}Chuck's Seafood{{< /link >}}!
+In the small fishing village of Charleston, treasure hunters will find the unique and interesting at Kinnee's Gifts & Shells, as well as {{< link url="http://shoreacres.net" >}}Shore Acres State Park's{{< /link >}} Gift Shop, Englund Marine and {{< link url="http://www.chucksseafood.com" >}}Chuck's Seafood{{< /link >}}!
