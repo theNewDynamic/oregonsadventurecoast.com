@@ -24,6 +24,6 @@ Join your friends from Oregon's Adventure Coast for a feast of delicious Dungene
 
  ![](/img/crabs-charters.jpg)
 
-![](/img/crab-feed-feb-small.jpg)
+![](/img/crab-feed-feb-medium.jpg)
 
 **Note Location in North Bend!** The North Bend Community Center, 2222 Broadway Ave. All proceeds help support the Charleston Visitor Center.
