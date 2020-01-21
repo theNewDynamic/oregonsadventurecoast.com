@@ -20,5 +20,8 @@ website: https://www.coosbaymanor.com/en-us
 amenityList:
 - amenitySelect: '2'
 - amenitySelect: '6'
+coordinates:
+  lat: '43.358852'
+  lng: "-124.217908"
 
 ---
