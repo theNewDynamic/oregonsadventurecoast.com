@@ -22,5 +22,8 @@ website: http://www.anniescottage.org
 amenityList:
 - 6 - WiFi Available
 - 7 - Kitchens Available
+coordinates:
+  lat: '43.3680393'
+  lng: "-124.2127865"
 
 ---
