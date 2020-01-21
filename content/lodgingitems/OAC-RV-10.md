@@ -23,5 +23,8 @@ amenityList:
 - 5 - Pet Friendly
 - 6 - WiFi Available
 - 9 - Handicap Accessible
+coordinates:
+  lat: '43.3738434'
+  lng: "-124.2900685"
 
 ---
