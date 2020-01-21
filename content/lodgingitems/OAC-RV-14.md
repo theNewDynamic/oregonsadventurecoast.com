@@ -1,9 +1,9 @@
 ---
 title: Oceanside RV Park Resort
-photo_name: /img/Oceanside-RV-camp.jpg
-photo_alt: 'Oceanside Beach Tent Camping in Charleston, OR'
+photo_name: "/img/Oceanside-RV-camp.jpg"
+photo_alt: Oceanside Beach Tent Camping in Charleston, OR
 property_name: Oceanside RV Park Resort
-property_category: '2'
+property_category: ''
 address:
   city: Charleston
   state: OR
@@ -12,17 +12,19 @@ address:
 phone_toll_free: 888-717-7384
 phone_local: ''
 units: '71'
-cost: '1'
-property_description: >-
-  Unwind in unique vintage trailers, cottages, tents, or your own RV. Enjoy the
-  Oregon Coast with a variety of on-site amenities including a convenient crab
-  shack and free WiFi. Use of crab traps & clam digging equipment. Beach access
+cost: ''
+property_description: Unwind in unique vintage trailers, cottages, tents, or your
+  own RV. Enjoy the Oregon Coast with a variety of on-site amenities including a convenient
+  crab shack and free WiFi. Use of crab traps & clam digging equipment. Beach access
   & general store.
-website: 'http://www.oceansidervresort.com'
+website: http://www.oceansidervresort.com
 amenityList:
-  - amenitySelect: '1'
-  - amenitySelect: '5'
-  - amenitySelect: '6'
-  - amenitySelect: '10'
----
+- amenitySelect: '1'
+- amenitySelect: '5'
+- amenitySelect: '6'
+- amenitySelect: '10'
+coordinates:
+  lat: '43.339597'
+  lng: "-124.354628"
 
+---
