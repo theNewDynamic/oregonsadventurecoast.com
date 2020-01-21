@@ -1,9 +1,9 @@
 ---
-photo_name: /img/Ocean-Pines-RV.jpg
+photo_name: "/img/Ocean-Pines-RV.jpg"
 photo_alt: Ocean Pines RV Park in North Bend, OR
 title: Ocean Pines RV Park
 property_name: Ocean Pines RV Park
-property_category: '2'
+property_category: ''
 address:
   street: 69262 Wildwood Road
   street2: 
@@ -13,10 +13,14 @@ address:
 phone_toll_free: 
 phone_local: 541-756-6747
 units: ''
-cost: '1'
-property_description: >-
-  A public gazebo for group gatherings. 16×30 horse corrals, phone hook ups. Separate camping area.
+cost: ''
+property_description: A public gazebo for group gatherings. 16×30 horse corrals, phone
+  hook ups. Separate camping area.
 website: ''
-amenityList: 
-  - amenitySelect: ''
+amenityList:
+- amenitySelect: ''
+coordinates:
+  lat: '43.507991'
+  lng: "-124.214430"
+
 ---
