@@ -84,7 +84,7 @@ For Clambake Music Fans there are discounts from several Hotels, Motels and RV P
 
 ***
 
-[**LISA MANN **](https://clambakejazz.com/lisa-mann/)– This super talented musician has been awarded the prestigious 2016 Blues Music Award for her mighty skills on the bass guitar, an award which she also took home in 2015. Her first award win fell hot on the heels of her win for Blues Blast’s Sean Costello Rising Star Award, as well as three Muddy Waters Awards from the Cascade Blues Association for Contemporary Blues Act of the Year, Bass Player of the Year, and Northwest Recording of the Year. Her latest release, Hard Times, Bad Decisions debuted on the Living Blues radio chart at #7, and on the International Blues Broadcasters Association chart at #10, and can be heard burning up the airwaves worldwide.
+[**LISA MANN**](https://clambakejazz.com/lisa-mann/) – This super talented musician has been awarded the prestigious 2016 Blues Music Award for her mighty skills on the bass guitar, an award which she also took home in 2015. Her first award win fell hot on the heels of her win for Blues Blast’s Sean Costello Rising Star Award, as well as three Muddy Waters Awards from the Cascade Blues Association for Contemporary Blues Act of the Year, Bass Player of the Year, and Northwest Recording of the Year. Her latest release, Hard Times, Bad Decisions debuted on the Living Blues radio chart at #7, and on the International Blues Broadcasters Association chart at #10, and can be heard burning up the airwaves worldwide.
 
 ***
 
