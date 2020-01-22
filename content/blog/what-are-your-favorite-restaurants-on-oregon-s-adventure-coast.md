@@ -16,7 +16,6 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
 > Aside from the natural beauty, one of the things that travelers say they love the most about visiting Oregon’s Adventure Coast is the food. Self-proclaimed “food-snobs” visiting from large cities all over the region have told us time and time again how impressed they are with the quality and the selection of the restaurants in our area. Hungry travelers can find world-class chowder, fresh local seafood, top-notch sushi, Thai, Italian, Mexican, and American comfort food within just a couple of miles of each other.
@@ -29,9 +28,9 @@ draft: true
 >
 > ### CHARLESTON, OREGON RESTAURANTS
 >
-> **MOST RECOMMENDED:** Miller’s on the Cove, Fisherman’s Grotto and The High Tide Cafe received plenty of praise from fans. “High Tide Cafe has awesome chowder and fish and chips” and “Definitely best clam chowder” are some of the comments that were shared.
+> **MOST RECOMMENDED:** _Miller’s on the Cove, Fisherman’s Grotto_ and _The High Tide Cafe_ received plenty of praise from fans. “High Tide Cafe has awesome chowder and fish and chips” and “Definitely best clam chowder” are some of the comments that were shared.
 >
-> Other Charleston restaurant shoutouts included The Portside Restaurant, The Cape Cafe, and Davey Jones Locker “for some good fried snacks and tasty fresh sandwiches”.
+> Other Charleston restaurant shoutouts included _The Portside Restaurant, The Cape Cafe,_ and _Davey Jones Locker_ “for some good fried snacks and tasty fresh sandwiches”.
 >
 > ### NORTH BEND RESTAURANTS
 >
@@ -58,3 +57,5 @@ draft: true
 > _Restaurant O, Fishermen’s Seafood Market, Street Provisioners, Grab & Go Deli at Coos Head Food Co-op, So It Goes Coffeehouse, Bay Burger Inn-Praus Haus_ and _Luigi’s Italian Sandwiches a_lso received shout-outs from our Facebook followers.
 >
 > As you can see, Oregon’s Adventure Coast boasts a wide variety of terrific dining and meal options to explore. We encourage you to try these and other fabulous restaurants on your next visit and let us know what you think! [Click here ](https://www.oregonsadventurecoast.com/dining/)for our most recent list of area restaurants.
+
+he Portside Restaurant, The Cape Cafe,
