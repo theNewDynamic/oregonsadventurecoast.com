@@ -1,5 +1,5 @@
 ---
-title: Coos Bay is Home to World Class Chefs!
+title: Coos Bay is Home to World Class Dining & Chefs!
 date: 2020-01-29T05:00:00+00:00
 description: 'Did you know Coos Bay chef and owner of Restaurant O, Eoghain O’Neill,
   is a former contestant on the hit show, Beat Bobby Flay? Neither did we! '
