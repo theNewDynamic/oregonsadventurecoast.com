@@ -1,20 +1,27 @@
 ---
 title: Local Chef Eoghain O’Neill Appears on Food Network
-date: 2020-01-22T05:00:00+00:00
+date: 2020-01-29T05:00:00+00:00
 description: 'Coos Bay chef and owner of Restaurant O, Eoghain O’Neill, appeared as
   a contestant on the hit show, Beat Bobby Flay last month! '
 image: "/img/Blog-Chef Eoghain O’Neill.png"
-tags: []
-categories: []
+tags:
+- Restaurants
+- " Restaurant O"
+- Chef Eoghain O’Neill
+- Food Network
+- Coos Bay Restaurants
+categories:
+- Eat Drink
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
-[Chef Eoghain O’Neill](http://restauranto.us/masterchef-o-neill), owner of [Restaurant O ](http://www.restauranto.us/)in downtown Coos Bay, made his [Food Network ](https://www.foodnetwork.com/shows/beat-bobby-flay)debut last month when we appeared as a contestant on the hit show, _Beat Bobby Flay_. The premise of the show is for two talented chefs to compete for the chance to go toe-to-toe with celebrity chef Bobby Flay.
+Coos Bay, North Bend & Charleston may have that small-town charm and appeal, but it doesn't mean our restaurants are lacking in any way. You may be surprised to know that we have world-class chefs amd chefs-in-training right here in Coos Bay! The O[regon Coast Culinary Institute](https://www.socc.edu/), one of Oregon's top culinary schools, features award-winning student teams. Coos Bay is also home to [Chef Eoghain O’Neill](http://restauranto.us/masterchef-o-neill), owner of [Restaurant O](http://www.restauranto.us/).  You may be interested to know that Chef O'Neill has also appeared as a contestant on the [Food Network ](https://www.foodnetwork.com/shows/beat-bobby-flay)hit show, _Beat Bobby Flay_.
+
+The premise of the show is for two talented chefs to compete for the chance to go toe-to-toe with celebrity chef Bobby Flay.
 
 In the episode, [Holidays Are for Battle,](https://www.foodnetwork.com/videos/holidays-are-for-battle-0287511) Neapolitan chef Simone Falco went head-to-head with Master Chef Eoghain O'Neill with their take on Cornish Game Hens. Though celebrity judges Alex Guarnaschelli and Tia Mowry ultimately decided to go with Chef Falco, Chef O’Neill presented them with a most impressive dish receiving praise by both judges.
 
