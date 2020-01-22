@@ -42,11 +42,11 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 
 ### Featuring the music of bands all across these United States!
 
-Enjoy the Dave Bennett Quartet from Detroit, Good Co. from Seattle, Dave Stuckey and the Hot House Gang from Los Angeles, Gator Nation from Sonoma California, Gino and Lone Gunmen from Temecula California, Phat Cat Swinger from Disneyland, Royal Jelly Jive form San Francisco, Barn Door Slammers from Portland, Lisa Mann from Portland, Bay City Swing from Coos Bay/North Bend Oregon and the Young Bucs from North Bend/Coos Bay Oregon!
+Enjoy the Alpha, Rhythm Kings, Black Market Trust, the Dave Bennett Quartet, Ellis Dyson And The Shambles, Gator Nation, Gino and Lone Gunmen, The Jazz Cartel, Lisa Mann, Steve Lucky And The Rumba Bums, Plus Bay City Swing from Coos Bay/North Bend Oregon and the Young Bucs from North Bend/Coos Bay Oregon! [Click here](https://clambakejazz.com/our-bands/) to learn more about each band.
 
 Festivities begin on Thursday, March 12th with a Warm Up Concert. Doors open at 6.
 
-For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks! Visit the website for details: [ClambakeJazz.com](https://clambakejazz.com). For a printable schedule, **Coming Soon**.
+For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks! Visit the website for details: [ClambakeJazz.com](https://clambakejazz.com). 
 
 ![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-music-v02-695x322.jpg)
 
@@ -56,7 +56,11 @@ For Clambake Music Fans there are discounts from several Hotels, Motels and RV P
 
 ***
 
-[**BARN DOOR SLAMMERS**](https://clambakejazz.com/barn-door-slammers/) – This 7-piece swing band is recreating the music that filled American dance halls in the ’40s and ’50s. Inspired by the great western dance bands of Bob Wills, Tex Williams, Spade Cooley, and Billy Jack Wills!
+[**BAY CITY SWING**](https://clambakejazz.com/bay-city-swing/) – Formerly Evolution of The Oregon Coast Lab Band, Bay City Swing is comprised of former Evolution members along with a few new faces. Still associated with the Oregon Coast Lab Band, Bay City Swing is a collaboration of all the musicians in the band. Officially starting in early July 2017, Bay City Swing has very quickly made an impact in Oregon’s Bay Area and the festival world. The band has a Big Band feel and Crooner styling that swing across many decades.
+
+***
+
+[**BLACK MARKET TRUST**](https://clambakejazz.com/black-market-trust/) – The Black Market Trust are an American Traditional Pop/Vocal Jazz group from Los Angeles who combine the sounds of the legendary American crooners and vocal groups with the fire and energy of Gypsy Jazz guitarist Django Reinhardt.
 
 ***
 
@@ -64,7 +68,7 @@ For Clambake Music Fans there are discounts from several Hotels, Motels and RV P
 
 ***
 
-[**BAY CITY SWING**](https://clambakejazz.com/bay-city-swing/) – Formerly Evolution of The Oregon Coast Lab Band, Bay City Swing is comprised of former Evolution members along with a few new faces. Still associated with the Oregon Coast Lab Band, Bay City Swing is a collaboration of all the musicians in the band. Officially starting in early July 2017, Bay City Swing has very quickly made an impact in Oregon’s Bay Area and the festival world. The band has a Big Band feel and Crooner styling that swing across many decades.
+[**ELLIS DYSON AND THE SHAMBLES**](https://clambakejazz.com/ellis-dyson-and-the-shambles/) – Ellis Dyson & the Shambles expertly blends old-time influences ranging from early New Orleans jazz to Piedmont murder ballads. The result: foot-stompin’ and eccentric original songs that bring party music of departed eras to crowds both young and old. The Shambles have made waves with their theatrical live shows and dazzling musicianship. The original compositions evoke a bygone era while contributing to the vast tradition of storytelling through songwriting. The group released their 3rd full-length album “Greetings from Shambylvania” in April 2019. The album, deliberately written as a full group, is a series of whimsical vignettes from the fictional town of Shambylvania.
 
 ***
 
@@ -72,23 +76,19 @@ For Clambake Music Fans there are discounts from several Hotels, Motels and RV P
 
 ***
 
-[**GOOD CO.**](https://clambakejazz.com/good-co/) – As the United States’ first Electro Swing Band, Good Co is proud to present this new genre to hep cats everywhere. Pounding dance beats are mixed with gypsy jazz guitar riffs, samples from the past turned on their head along with a live horn section make for the best sounding dance party this side of the 1920s.
-
-***
-
 [**GINO & THE LONE GUNMEN**](https://clambakejazz.com/gino-the-lone-gunmen/) – Featuring a rockin’ mix of ROCKABILLY, SWING, BLUES, COUNTRY, and Vintage ROCK and ROLL. Their song catalog includes rockin and swingin original music, as well as all your favorites, including everything from Elvis and Buddy Holly to the Cavern Club days of the Beatles! The Lone Gunmen have shared the stage with many other great bands such as Big Bad Voodoo Daddy, Slim Jim Phantom(Stray Cats), Three Bad Jacks, Big Sandy and more, and after making their debut at the 2012 Viva Las Vegas festival, the band has been quickly gaining more and more fans from around the world!
 
 ***
 
-[**LISA MANN**](https://clambakejazz.com/lisa-mann/) – This super talented musician has been awarded the prestigious 2016 Blues Music Award for her mighty skills on the bass guitar, an award which she also took home in 2015. Her first award win fell hot on the heels of her win for Blues Blast’s Sean Costello Rising Star Award, as well as three Muddy Waters Awards from the Cascade Blues Association for Contemporary Blues Act of the Year, Bass Player of the Year, and Northwest Recording of the Year. Her latest release, Hard Times, Bad Decisions debuted on the Living Blues radio chart at #7, and on the International Blues Broadcasters Association chart at #10, and can be heard burning up the airwaves worldwide.
+[**THE JAZZ CARTEL**](https://clambakejazz.com/the-jazz-cartel/) – The Jazz Cartel is a ten piece Frank Sinatra style swing band that plays fully arranged original music and beloved standards from the Frank Sinatra catalogue as well as the American Songbook.
 
 ***
 
-[**PHAT CAT SWINGER** ](https://clambakejazz.com/phat-cat-swinger/)– Founding members Marco Palos and Will Pattinson teamed up to create and refine the Phat Cat sound. Booming toms, jumpin’ rhythms, and a powerful horn section blended with the sweet vocals of Curtis Parry were all the perfect ingredients for their creation. It became known as “**Phat Cat Swinger**” a West Coast “little-big” band that specializes in high-energy music with a vintage touch!
+[**LISA MANN **](https://clambakejazz.com/lisa-mann/)– This super talented musician has been awarded the prestigious 2016 Blues Music Award for her mighty skills on the bass guitar, an award which she also took home in 2015. Her first award win fell hot on the heels of her win for Blues Blast’s Sean Costello Rising Star Award, as well as three Muddy Waters Awards from the Cascade Blues Association for Contemporary Blues Act of the Year, Bass Player of the Year, and Northwest Recording of the Year. Her latest release, Hard Times, Bad Decisions debuted on the Living Blues radio chart at #7, and on the International Blues Broadcasters Association chart at #10, and can be heard burning up the airwaves worldwide.
 
 ***
 
-[**DAVE STUCKEY & THE HOT HOUSE GANG**](https://clambakejazz.com/dave-stuckey-the-hot-house-gang/) – This band is a hard-swinging, take-no-prisoners aggregation, playing the standards and not-so-standards from the 1920’s & 30s …and whose main objective is to bring the heat, get you out of your seat, and provoke you to move your feet. Bringing with him a Murderer’s Row of torrid trad jazz operators from the wilds of Los Angeles, Stuckey’s outfit channels an Eddie Condon small-group drive with jiving vocals that may conjure thoughts of Wingy Manone or Fats Waller.
+[**STEVE LUCKY AND THE RUMBA BUMS**](https://clambakejazz.com/steve-lucky-and-the-rumba-bums-featuring-miss-carmen-getit/) – Called “Instant Crowd Favorites” by the San Francisco Blues Festival and “Consummate musicians and entertainers” by New York City’s Lincoln Center, Lucky and Getit really shine before a live audience, bringing an intense energy and sheer personal magnetism to the stage, exercising wit in a continuous battle of the sexes. They’ve earned a reputation as captivating entertainers with “superior musicianship” (Downbeat), engaging audiences at the Montreux Jazz Festival in Switzerland, the Half Note Jazz Club in Athens, Greece, the San Francisco Blues Festival, as the house band at the Derby in Hollywood, and hundreds of nightclubs, festivals, and performing arts centers around the world.
 
 ***
 
