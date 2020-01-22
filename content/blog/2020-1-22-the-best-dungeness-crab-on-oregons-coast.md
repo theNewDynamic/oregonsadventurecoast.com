@@ -58,11 +58,6 @@ Rental crab rings are available at many RV parks and other lodging facilities, a
 Open Mon-Sat 8am-5pm; Sun 8am-Noon  
 [www.basintackle.com](http://www.basintackle.com/)
 
-**Crab Shack**  
-63840 Crossline Road, Charleston, OR 97420  
-(541) 888-3433  
-Open daily from 8am-6pm
-
 **Davey Jones Locker**  
 Cape Arago Highway & Boat Basin Road  
 Charleston, OR 97420  
