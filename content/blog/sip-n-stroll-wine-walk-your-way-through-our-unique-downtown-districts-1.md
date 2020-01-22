@@ -17,7 +17,6 @@ seo:
 draft: true
 
 ---
-
 Exploring the unique and eclectic shops and businesses in Downtown Coos Bay and North Bend is an adventure upon itself, but add a glass or two of wine to benefit local non-profits, and you have an entirely different experience! Look out for these special events on Oregon’s Adventure Coast that celebrate community, wine and locally owned businesses while supporting special causes.
 
 ### [**NORTH BEND SIP N STROLL**](https://www.facebook.com/SipNStrollNorthBend/?eid=ARCj24BiNxId-g3mSkI2ESyH0dIfjO4KypKLIHDHtINg8zgrnbGextco3OEmF_X-gAflDCeS0arZrIb9)
@@ -26,7 +25,7 @@ The North Bend Sip n Stroll is a fabulous way to experience the charm of downtow
 
 The [next Sip n Stroll is scheduled for March 20, 2020](https://www.facebook.com/events/2379250162331991/). Proceeds from the event will benefit the Moore Family, owners of the popular Wildflour Cafe. The family is caring for a two-year-old child with significant medical needs while running a restaurant, catering company and bakery. The event starts at 5 p.m. at Engles Furniture ends at The Liberty Theatre. To learn more, visit [https://www.facebook.com/SipNStrollNorthBend/](https://www.facebook.com/SipNStrollNorthBend/ "https://www.facebook.com/SipNStrollNorthBend/")
 
-### [DOWNTOWN COOS BAY WINE WALK](https://i-pbgsi-1h8yyg.instant.forestry.io/blog/sip-n-stroll-wine-walk-your-way-through-our-unique-downtown-districts/facebook.com/CoosBayWineWalk)
+### [DOWNTOWN COOS BAY WINE WALK](https://www.facebook.com/CoosBayWineWalk)
 
 On the first Friday of each month, you may notice cheerful groups of people browsing through local businesses in the Downtown Coos Bay shopping district and sipping wine. That is none other than the Downtown Coos Bay Wine Walk, a monthly event celebrating local businesses and benefitting local non-profit organizations.
 
