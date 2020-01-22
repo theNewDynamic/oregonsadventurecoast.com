@@ -1,6 +1,6 @@
 ---
 title: What Are Your Favorite Restaurants on Oregon's Adventure Coast?
-date: 2020-01-27T05:00:00+00:00
+date: 2020-02-04T05:00:00+00:00
 description: 'We asked people to tell us their favorite restaurants in Coos Bay-North
   Bend-Charleston.  Here''s what they said. '
 image: "/img/Dining_blog_695 X 395.jpg"
