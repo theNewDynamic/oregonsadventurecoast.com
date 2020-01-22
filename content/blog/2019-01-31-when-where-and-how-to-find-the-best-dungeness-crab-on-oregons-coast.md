@@ -1,6 +1,6 @@
 ---
-title: How to Find the Best Oregon Dungeness Crab in 2019
-date: 2019-01-30 11:04:54 +0000
+title: 'How to Find the Best Oregon Dungeness Crab '
+date: 2020-01-22T05:00:00+00:00
 description: Whether you like catching them or just eating Dungeness Crab, now is
   the time to plan your Oregon Coast adventure and go crabbing on the Southern Oregon
   Coast.
@@ -21,15 +21,15 @@ tags:
 categories:
 - Fishing
 - Crabbing & Clamming
-image: "/img/throw-crab-pot-blog-695x322.jpg"
+image: "/img/Crabbing_blog_695x322.jpg"
 draft: true
 
 ---
 ## Feast on Fresh Oregon Dungeness Crab on Oregon's Adventure Coast!
 
-Feasting on fresh Oregon Dungeness Crab is an experience every foodie must have while visiting the Oregon Coast. Better yet, why not catch your own? Anyone can go crabbing, no matter what your skill level is! Our [local crabbing experts]() are always happy to help point you in the right direction.
+Feasting on fresh Oregon Dungeness Crab is an experience every foodie must have while visiting the Oregon Coast. Better yet, why not catch your own? Anyone can go crabbing, no matter what your skill level is! Our local crabbing experts are always happy to help point you in the right direction.
 
-**If you're planning a road trip to Oregon's South Coast the weekend of February 9th, 2019 you better bring your appetite because the** [**35th Annual Charleston Merchants Crab Feed**]() **is happening! This beloved annual event will be from 11 a.m. to 3 p.m. at the** [**North Bend Community Center**]()**.**
+**If you're planning a road trip to Oregon's South Coast the weekend of February 8th, 2020 you better bring your appetite because the**[ **36th Annual Charleston Merchants Crab Feed** ](https://www.oregonsadventurecoast.com/event/36th-annual-charleston-crab-feed/)**is happening! This beloved annual event will be from 11 a.m. to 3 p.m. at the** [**North Bend Community Center**]()**.**
 
 In honor of the occasion, we wanted to share some crabbing tips we have collected through years from local experts along with this fantastic infographic and delicious local crab recipe our friends at The Port of Coos Bay shared with us.
 
