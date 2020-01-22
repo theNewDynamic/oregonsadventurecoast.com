@@ -1,8 +1,8 @@
 ---
 title: Local Chef Eoghain O’Neill Appears on Food Network
 date: 2020-01-29T05:00:00+00:00
-description: 'Coos Bay chef and owner of Restaurant O, Eoghain O’Neill, appeared as
-  a contestant on the hit show, Beat Bobby Flay last month! '
+description: 'Did you know Coos Bay chef and owner of Restaurant O, Eoghain O’Neill,
+  is a former contestant on the hit show, Beat Bobby Flay? Neither did we! '
 image: "/img/Blog-Chef Eoghain O’Neill.png"
 tags:
 - Restaurants
@@ -19,7 +19,7 @@ seo:
   image: ''
 
 ---
-Coos Bay, North Bend & Charleston may have that small-town charm and appeal, but it doesn't mean our restaurants are lacking in any way. You may be surprised to know that we have world-class chefs amd chefs-in-training right here in Coos Bay! The O[regon Coast Culinary Institute](https://www.socc.edu/), one of Oregon's top culinary schools, features award-winning student teams. Coos Bay is also home to [Chef Eoghain O’Neill](http://restauranto.us/masterchef-o-neill), owner of [Restaurant O](http://www.restauranto.us/).  You may be interested to know that Chef O'Neill has also appeared as a contestant on the [Food Network ](https://www.foodnetwork.com/shows/beat-bobby-flay)hit show, _Beat Bobby Flay_.
+Coos Bay, North Bend & Charleston may have that small-town charm and appeal, but it doesn't mean our restaurants are lacking in any way. You may be surprised to know that we have world-class chefs and chefs-in-training right here in our own back yard! The [Oregon Coast Culinary Institute](https://www.socc.edu/), one of Oregon's top culinary schools, features award-winning student teams. Coos Bay is also home to [Chef Eoghain O’Neill](http://restauranto.us/masterchef-o-neill), owner of [Restaurant O](http://www.restauranto.us/).  You may be interested to know that Chef O'Neill has also appeared as a contestant on the [Food Network ](https://www.foodnetwork.com/shows/beat-bobby-flay)hit show, _Beat Bobby Flay_.
 
 The premise of the show is for two talented chefs to compete for the chance to go toe-to-toe with celebrity chef Bobby Flay.
 
