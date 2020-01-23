@@ -17,7 +17,7 @@ address:
   zip: 97459
 phone_toll_free: ''
 phone_local: 541-297-2095
-website: http://www.OregonsAdventureCoast.com
+website: ''
 
 ---
 Join your friends from Oregon's Adventure Coast for a feast of delicious Dungeness Crab! Fresh Dungeness crab dinners - whole or half crabs at market price - include side dishes, bread, beverage and cake. Area businesses provide items for the raffle. Projected prices are $20 for whole crab dinner and $16 for half crab dinner, but market dictates final price. _Pricing may be updated as event approaches.  
