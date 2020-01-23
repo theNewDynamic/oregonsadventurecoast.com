@@ -16,7 +16,7 @@ address:
   street: 2222 Broadway Ave.
   zip: 97459
 phone_toll_free: ''
-phone_local: 541-269-0215
+phone_local: 541-297-2095
 website: http://www.OregonsAdventureCoast.com
 
 ---
