@@ -18,10 +18,11 @@ tripadventures:
 durations:
 - long-weekend
 photo: "/img/girlfriend-getaway-sub-pg-header.jpg"
+aliases: []
 
 ---
-**A girlfriend’s getaway on Oregon’s Adventure Coast? Totally!  
-**One text to my girls and we were all in! We had such a great time exploring all Coos Bay, North Bend and Charleston had to offer…together.
+\**A girlfriend’s getaway on Oregon’s Adventure Coast? Totally!  
+\**One text to my girls and we were all in! We had such a great time exploring all Coos Bay, North Bend and Charleston had to offer…together.
 
 {{< youtube "UGOlB26cMl8" >}}<br>
 
@@ -69,6 +70,6 @@ Sunday, we knew we had to head home but we got in one last adventure before we d
 
 ![Girlfriends hugging goodbye at the beach](/img/girlfriends-hug-at-beach.jpg)
 
-Then it was time to say a teary goodbye to my best friends. We know we will visit here again because there were so many things we didn’t get to do this time around – [mountain biking on Whiskey Run](), visiting the [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/), going [crabbing or clamming](/crabbing-clamming/) or even out on a charter fishing boat to name just a few.
+Then it was time to say a teary goodbye to my best friends. We know we will visit here again because there were so many things we didn’t get to do this time around – mountain biking on [Whiskey Run](https://www.oregonsadventurecoast.com/cycling/), visiting the [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/), going [crabbing or clamming](/crabbing-clamming/) or even out on a charter fishing boat to name just a few.
 
 **Oregon’s Adventure Coast** is so full of adventures, no wonder it’s their middle name!
