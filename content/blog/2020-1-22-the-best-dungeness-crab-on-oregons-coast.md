@@ -21,7 +21,7 @@ tags:
 categories:
 - Fishing
 - Crabbing & Clamming
-image: "/img/Crabbing_blog_695x322.jpg"
+image: "/img/Crabbing-On-Dock-Charleston.jpg"
 
 ---
 Feasting on fresh Oregon Dungeness Crab is an experience every foodie must have while visiting the Oregon Coast. Better yet, why not catch your own? Anyone can go crabbing, no matter what your skill level is! Our local crabbing experts are always happy to help point you in the right direction.
