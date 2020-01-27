@@ -13,7 +13,7 @@ address:
 phone_toll_free: 
 phone_local: 541-888-9300
 units: 59
-cost: ''
+cost: 1 - $
 property_description: Midway between Coos Bay & Charleston on Cape Arago Hwy. Cozy
   & quiet with large sites, immaculate private restrooms & beautiful landscaping.
   Full Hookups, Dump Station, WiFi, Handicap Accessible, Pets OK, Laundry. Good Sam,

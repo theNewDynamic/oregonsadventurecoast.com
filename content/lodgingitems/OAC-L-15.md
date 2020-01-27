@@ -3,7 +3,7 @@ title: Super 8 by Wyndham
 photo_name: "/img/Super-8-exterior-view.jpg"
 photo_alt: Super 8 in Coos Bay, OR
 property_name: Super 8 Bayshore Inn
-property_category: ''
+property_category: 1 - Hotels, Motels & Inns
 address:
   city: Coos Bay
   state: OR
@@ -11,7 +11,7 @@ address:
   zip: '97420'
 phone_local: 541-808-0700
 units: '54'
-cost: ''
+cost: 2 - $$
 property_description: Super 8 Coos Bay/North Bend is your gateway for exploring the
   Oregon coast. Quick access to Hwy 101 makes it easy to explore the Oregon Bay area.
   Well-appointed rooms include flat-screen TVs, free WiFi and complimentary breakfast.

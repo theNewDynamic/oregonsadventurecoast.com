@@ -3,7 +3,7 @@ photo_name: "/img/Sunset-Bay-Yurt.jpg"
 photo_alt: Sunset Bay State Park in Charleston, OR
 title: Sunset Bay State Park Campground
 property_name: Sunset Bay State Park Campground
-property_category: ''
+property_category: 2 - RV Parks & Camping
 address:
   street: 89814 Cape Arago Highway
   street2: 
@@ -13,7 +13,7 @@ address:
 phone_toll_free: 800-452-5687
 phone_local: 541-888-4902
 units: '138'
-cost: ''
+cost: 1 - $
 property_description: In one of the most scenic areas on the Oregon coast, Sunset
   Bay State Park features beautiful sandy beaches protected by towering sea cliffs.
   The campground has sites for tent camping and RV's, & cozy yurts. Beachcombing,
