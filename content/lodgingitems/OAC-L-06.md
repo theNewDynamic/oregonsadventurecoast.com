@@ -3,7 +3,7 @@ photo_name: "/img/EdgewaterInn.jpg"
 photo_alt: Edgewater Inn on the banks of Coos Bay
 title: Edgewater Inn
 property_name: Edgewater Inn
-property_category: ''
+property_category: 1 - Hotels, Motels & Inns
 address:
   street: 275 E. Johnson Avenue
   street2: 
@@ -13,7 +13,7 @@ address:
 phone_toll_free: 800-233-0423
 phone_local: 541-267-0423
 units: '82'
-cost: ''
+cost: 3 - $$$
 property_description: The perfect place to relax before setting off to explore the
   many recreational adventures close by. The Edgewater Inn offers comfortable rooms
   & suites with fridge, microwave, & free wifi. Fishing/observation deck offers beautiful

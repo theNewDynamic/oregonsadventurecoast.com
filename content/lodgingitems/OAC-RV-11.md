@@ -3,7 +3,7 @@ title: Mill Casino ● Hotel & RV Park
 photo_name: "/img/Mill-RV-overhead-1944.jpg"
 photo_alt: The Mill Casino Hotel and RV Park in North Bend, Oregon
 property_name: Mill Casino ● Hotel & RV Park
-property_category: ''
+property_category: 2 - RV Parks & Camping
 address:
   city: North Bend
   state: OR
@@ -12,7 +12,7 @@ address:
 phone_toll_free: 800-953-4800
 phone_local: 541-756-8800
 units: '102'
-cost: ''
+cost: 1 - $
 property_description: Located right on Coos Bay, The Mill Casino RV Park is a full-service,
   full hookup park. Wake up to breathtaking sunrise over the Bay right from your site.
   Friendly staff are here with helpful ideas on how to spend your day. Good Sam &

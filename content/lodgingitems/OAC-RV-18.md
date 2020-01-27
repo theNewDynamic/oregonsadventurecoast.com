@@ -3,7 +3,7 @@ photo_name: "/img/Snug-Harbor-RV.jpg"
 photo_alt: Snug Harbor RV Park in Charleston, OR
 title: Snug Harbor RV Park
 property_name: Snug Harbor RV Park
-property_category: ''
+property_category: 2 - RV Parks & Camping
 address:
   street: 91134 Cape Arago Highway
   street2: 
@@ -13,7 +13,7 @@ address:
 phone_toll_free: 
 phone_local: 541-888-5924
 units: '10'
-cost: ''
+cost: 1 - $
 property_description: Daily, weekly, monthly rates. 10 sites, power available. Full
   Hookups, Pets OK, Cable, High Speed Internet Access, Dump station, Laundry Facilities,
   Pull Through Spaces, WiFi.
