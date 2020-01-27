@@ -20,16 +20,16 @@ phone_local: 541-297-2095
 website: ''
 
 ---
-Join your friends from Oregon's Adventure Coast for a feast of delicious Dungeness Crab! Fresh Dungeness crab dinners - whole or half crabs at market price - include side dishes, bread, beverage and cake. Area businesses provide items for the raffle. Projected prices are $20 for whole crab dinner and $16 for half crab dinner, but market dictates final price. _Pricing may be updated as event approaches.  
-  
-**This event runs from 11am to 3pm!  But, Local Tip! Get there early.**_
+Join your friends from Oregon's Adventure Coast for a feast of delicious Dungeness Crab! Fresh Dungeness crab dinners - whole or half crabs at market price - include side dishes, bread, beverage and cake. Area businesses provide items for the drawing. Projected prices are $20 for whole crab dinner and $16 for half crab dinner, but market dictates final price. Pricing may be updated as event approaches. For those who want to attend but don't want to eat crab, a gourmet hot dog lunch with sides will also be available for $10.
+
+**This event runs from 11am to 3pm!  But, Local Tip! Get there early.**
 
 ![](/img/crabs-charters.jpg)
 
-**Truly a Community Affair!** The 1,000 lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab.  North Bend High School Key Club and Football team help set up tables, and Marshfield High School Key Club helps server the meal.
-
-Businesses from Charleston, Coos Bay and North Bend support this event with donations. Make sure to get your raffle tickets when you arrive for a chance at a number of great prizes!
+**Truly a Community Affair!** The 1,000+ lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab.  North Bend High School Key Club and Football team help set up tables, and Marshfield High School Key Club helps server the meal. North Bend Lanes/Back Alley Pub will be on hand with wine and beer.
 
 And finish off your meal with delicious homemade pies and cakes provided by the Coos Head Garden Club for the dessert sale.
+
+Businesses from Charleston, Coos Bay and North Bend support this event with donations. Make sure to get your raffle tickets when you arrive for a chance at a number of great prizes!
 
 **Note Location in North Bend!** Be on the lookout for **Louie**, the Inflatable Crab from the Oregon Crab Commission! He will mark the location at the North Bend Community Center, 2222 Broadway Ave. All proceeds help support the Charleston Visitor Center.
