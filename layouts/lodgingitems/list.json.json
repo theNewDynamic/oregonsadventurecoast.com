@@ -3,6 +3,8 @@
         {{ if $index }},{{ end }}
         {
             "title": "{{ htmlEscape .Title }}",
+            "latitude": "{{ htmlEscape .Params.coordinates.lat }}",
+            "longitude": "{{ htmlEscape .Params.coordinates.lng }}",
             "photo_name": "{{ .Params.photo_name }}",
             "photo_alt": "{{ htmlEscape .Params.photo_alt }}",
             "property_name": "{{ htmlEscape (default .Title .Params.property_name ) }}",

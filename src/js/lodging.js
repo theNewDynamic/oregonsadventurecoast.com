@@ -15,7 +15,7 @@ const api_url = "https://api.oregonsadventurecoast.com";
 let markersArray = [];
 let lastInfoWindow = false;
 let hideMap = false;
-let bounds = false;
+let bounds = new google.maps.LatLngBounds();
 
 
 /**
@@ -93,12 +93,10 @@ function initMap() {
     function outputLodging(list) {
         let limit = pagination.page * pagination.show;
         let start = limit - pagination.show;
+        let validEntry = false;
 
         // Reset output
         $('#lodging-output').html('');
-
-        //init the map bounds object
-        bounds = new google.maps.LatLngBounds();
 
         _.forEach(list, (val, index) => {
             if(typeof val.latitude != "undefined" && typeof val.longitude != "undefined") {
@@ -112,10 +110,10 @@ function initMap() {
         
         //find the initial map bounds
         for (let i = 0; i < markersArray.length; i++) {
-            bounds.extend(markersArray[i].getPosition());
+            if(!isNaN(markersArray[i].getPosition().lng()) && !isNaN(markersArray[i].getPosition().lat())){
+                bounds.extend(markersArray[i].getPosition());
+            }
         }
-
-        console.log(markersArray);
 
         //set the initial map bounds
         viewMap.fitBounds(bounds);
@@ -462,7 +460,7 @@ function initMap() {
      * @param {object | val} - the given lodging entry
      * @return null
      */
-    function createMarker(val){
+    function createMarker(val){ 
         //create the info window
         let infowindow = new google.maps.InfoWindow({
             content: "<span class='map-info-window'>" + lodging.generateTemplate(val) + "</span>"
