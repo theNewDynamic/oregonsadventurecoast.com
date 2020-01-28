@@ -10,20 +10,27 @@ import GetFilterMatchType from './common/get-filter-match-type';
 import SortMenu from './common/sort-menu';
 import Map from './maps/Map';
 
+const api_url = "https://api.oregonsadventurecoast.com";
+
 let markersArray = [];
+let lastInfoWindow = false;
+let hideMap = false;
+let bounds = false;
+
 
 /**
  * Sets up the initMap callback function for Maps API to call back into.
  * @param
  * @return
  */
-/**var map;
+var map;
 function initMap() {
   map = new google.maps.Map(document.getElementById('view-map'), {
     center: {lat: -34.397, lng: 150.644},
     zoom: 8
   });
-}**/
+}
+
 (function($) {
 
     new FilterToggles();
@@ -42,16 +49,24 @@ function initMap() {
      * @param
      * @return
      */
+    $.ajax({
+        url: api_url + '/data-api/index.php?method=get&type=lodging',
+        dataType: 'jsonp',
+        contentType: 'application/json; charset=utf-8'
+    })
 	$.getJSON('/lodgingitems/index.json', (data) => {
         fullLodgingList = _.cloneDeep(data);
         lodgingList = data;
-        //lodgingList = sortMenu.sortAscending(lodgingList, 'property_name');
+        lodgingList = sortMenu.sortAscending(lodgingList, 'property_name');
         lodgingList = lodging.sortByInitialPriority(lodgingList);
         resetPagination(lodgingList);
         outputLodging(lodgingList);
         buildFilterMenu('property_category', '#filter-by-category', fullLodgingList, false, 'All Categories', lodgingCategoryOptions);
         buildFilterMenu('city', '#filter-by-city', fullLodgingList, false, 'All Cities');
         buildFilterMenu('amenityList', '#filter-by-amenity', fullLodgingList, true, 'All Amenities', lodgingAmenityOptions);
+    })
+    .fail(function(jqXHR, status, error) {
+        console.log(status);
     });
 
     /**
@@ -82,39 +97,34 @@ function initMap() {
         // Reset output
         $('#lodging-output').html('');
 
-        //let bounds = new google.maps.LatLngBounds();
+        //init the map bounds object
+        bounds = new google.maps.LatLngBounds();
+
         _.forEach(list, (val, index) => {
-            /**if(typeof val.latitude != "undefined" && typeof val.longitude != "undefined") {
-                let infowindow = new google.maps.InfoWindow({
-                    content: "<h1>" + val.name + "</h1>" + "\n" + "<span style='font-size: 16px;'>" + val.description + "</span>"
-                });
-                let markerPosition = {lat: parseFloat(val.latitude), lng: parseFloat(val.longitude)};
-                
-                var marker = new google.maps.Marker({
-                    position: markerPosition,
-                    map: viewMap,
-                    title: val.name,
-                    visible: true
-                });
-
-                marker.addListener('click', function() {
-                    infowindow.open(viewMap, marker);
-                });
-                
-
-                markersArray.push(marker);
-            }**/
-
+            if(typeof val.latitude != "undefined" && typeof val.longitude != "undefined") {
+                createMarker(val);
+            }
+            
             if (index >= start && index < limit) {
                 $('#lodging-output').append(lodging.generateTemplate(val));
-            }
+            };
         });
-
-        /**for (let i = 0; i < markersArray.length; i++) {
+        
+        //find the initial map bounds
+        for (let i = 0; i < markersArray.length; i++) {
             bounds.extend(markersArray[i].getPosition());
         }
 
-        viewMap.fitBounds(bounds);**/
+        console.log(markersArray);
+
+        //set the initial map bounds
+        viewMap.fitBounds(bounds);
+
+        //hide the map if initial page load
+        if(hideMap === false){
+            document.getElementById("view-map").style.display = "none";
+            hideMap = true;
+        }
     }
 
     /**
@@ -134,9 +144,14 @@ function initMap() {
             menu = _.uniq(_.flattenDeep(_.map(list, key)));
         }
 
-        if (sort === true) {
-            menu.sort();
-        }
+        //if (sort === true) {
+            menu.sort(); // Forcing sort to always run.
+        //}
+
+        // Getting rid of undefined in the list, somehow it got in.
+        _.remove(menu, function(item){
+            return item === undefined;
+        });
 
         return menu;
     }
@@ -268,24 +283,16 @@ function initMap() {
         // update filter option settings
         console.log('updating filter options with ', key, ' with value of ', value, ' to ', action, ' it.');
 
+        //if not on the map tab, briefly enable map with no opacity to allow the map to update
+        enableMap();
+
         lodgingList = buildFilteredList(fullLodgingList, filterOptions);
 
-        // display the corresponding markers
-        // first, hide all map markers
-        /**for (let i = 0; i < markersArray.length; i++){
-            markersArray[i].setVisible(false);
-        }
+        //update map markers
+        reloadMapMarkers(lodgingList);
 
-        //check every list item against every map marker
-        for (let i = 0; i < lodgingList.length; i++){
-            for (let j = 0; j < markersArray.length; j++){
-                // if the list item lat/lng matches the map marker lat/lng, make the marker visible
-                if ((lodgingList[i].latitude == markersArray[j].getPosition().lat()) && (lodgingList[i].longitude == markersArray[j].getPosition().lng())){
-                    markersArray[j].setVisible(true);
-                    j = markersArray.length;
-                }
-            }
-        }**/
+        //if not on the map tab, disable the map, now that it has been updated
+        disableMap();
 
         outputLodging(lodgingList);
     }
@@ -449,5 +456,91 @@ function initMap() {
             }
         });
     }
+
+    /**
+     * Creates a map marker for each lodging entry and pushes it to markersArray.
+     * @param {object | val} - the given lodging entry
+     * @return null
+     */
+    function createMarker(val){
+        //create the info window
+        let infowindow = new google.maps.InfoWindow({
+            content: "<span class='map-info-window'>" + lodging.generateTemplate(val) + "</span>"
+        });
+        let markerPosition = {lat: parseFloat(val.latitude), lng: parseFloat(val.longitude)};
+        
+        //create the map marker
+        var marker = new google.maps.Marker({
+            position: markerPosition,
+            map: viewMap,
+            title: val.name,
+            visible: true
+        });
+        
+        //display the info window when the marker is clicked
+        marker.addListener('click', function() {
+            if (lastInfoWindow){
+                lastInfoWindow.close();
+            }
+            lastInfoWindow = infowindow;
+            infowindow.open(viewMap, marker);
+        });
+        
+        
+        //add the marker to markersArray
+        markersArray.push(marker);
+    }
+
+    /**
+     * Accepts a list of lodging entries and display only the corresponding map markers.
+     * @param {list | lodgingList} - the lodging entries to be displayed on the map
+     * @return null
+     */
+    function reloadMapMarkers(lodgingList){
+        // first, hide all map markers
+        for (let i = 0; i < markersArray.length; i++){
+            markersArray[i].setVisible(false);
+        }
+
+        //check every list item against every map marker
+        for (let i = 0; i < lodgingList.length; i++){
+            for (let j = 0; j < markersArray.length; j++){
+                // if the list item lat/lng matches the map marker lat/lng, make the marker visible
+                if ((lodgingList[i].latitude == markersArray[j].getPosition().lat()) && (lodgingList[i].longitude == markersArray[j].getPosition().lng())){
+                    markersArray[j].setVisible(true);
+                    j = markersArray.length;
+                }
+            }
+        }
+        
+        viewMap.fitBounds(bounds);
+    }
+
+    /**
+     * Enable the map for updates on tabs where it is disabled
+     * @param
+     * @return
+     */
+    function enableMap(){
+        if (!document.getElementById("view-toggle-map").classList.contains("active")){
+            document.getElementById("view-map").style.opacity = "0";
+            document.getElementById("view-map").style.display = "block";
+        }
+    }
+
+    /**
+     * disable the map after updates on tabs where it should disabled
+     * @param
+     * @return
+     */
+    function disableMap(){
+        if (!document.getElementById("view-toggle-map").classList.contains("active")){
+            setTimeout(function(){
+                document.getElementById("view-map").style.display = "none";
+                document.getElementById("view-map").style.opacity = "100";
+            }, 10);
+        }
+    }
+
 
 })(jQuery);
