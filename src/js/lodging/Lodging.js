@@ -51,7 +51,7 @@ export default class Lodging {
 
             </div>
         
-            <div class="content">
+            <div class="content marker-content">
                 <div class="category">
                     ${category.label}
                 </div>
