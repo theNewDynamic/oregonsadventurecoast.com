@@ -3,7 +3,7 @@ photo_name: "/img/red-lion-cb.jpg"
 photo_alt: Red Lion Hotel in Coos Bay, OR
 title: Red Lion Hotel
 property_name: Red Lion Hotel
-property_category: ''
+property_category: 1 - Hotels, Motels & Inns
 address:
   street: 1313 N. Bayshore Drive
   street2: 
@@ -13,7 +13,7 @@ address:
 phone_toll_free: 
 phone_local: 541-267-4141
 units: '144'
-cost: ''
+cost: 3 - $$$
 property_description: Experience Red Lion's signature blend of comfort and convenience
   mere blocks from the bay. Spread out in comfortable rooms that feature plush pillow-top
   beds, free Wi-Fi and HBO. Brickstone offers delicious dinners and Red Lion's Signature

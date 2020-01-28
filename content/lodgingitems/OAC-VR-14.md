@@ -3,7 +3,7 @@ photo_name: "/img/Oregon-Coast-VR.jpg"
 photo_alt: Oregon Coast Vacation Retreat in Charleston, OR
 title: Oregon Coast Vacation Retreat
 property_name: Oregon Coast Vacation Retreat
-property_category: ''
+property_category: 4 - Vacation Rental Homes
 address:
   street: 
   street2: 
@@ -13,7 +13,7 @@ address:
 phone_toll_free: 
 phone_local: 
 units: '1'
-cost: ''
+cost: 3 - $$$
 property_description: Fisherman's paradise w/spacious yard, views of nature & crabbing
   gear! Ocean meets peaceful tranquility in Charleston. This 3-bedroom home offers
   both, within walking distance to Bastendorff Beach while still being just off the

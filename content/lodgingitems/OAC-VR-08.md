@@ -13,7 +13,7 @@ address:
 phone_toll_free: 
 phone_local: 541-888-8386
 units: 2
-cost: ''
+cost: 3 - $$$
 property_description: 'We offer two Oceanfront vacation rentals: the "Lighthouse Suite"
   and "The Loft", both with up close views of Cape Arago Lighthouse. Private steps
   lead to a pristine beach, so bring your kayak, surfboard, fishing pole, camera and

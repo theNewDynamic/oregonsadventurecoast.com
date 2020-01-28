@@ -3,7 +3,7 @@ photo_name: "/img/southsider-motel.jpg"
 photo_alt: Southsider Motel in Coos Bay, OR
 title: Southsider Motel
 property_name: Southsider Motel
-property_category: ''
+property_category: 1 - Hotels, Motels & Inns
 address:
   street: 1005 S. Broadway
   street2: 
@@ -13,7 +13,7 @@ address:
 phone_toll_free: 
 phone_local: 541-267-2438
 units: '11'
-cost: ''
+cost: 2 - $$
 property_description: 'Clean, quiet comfort close to dining, shopping and entertainment.
   Commercial and weekly rates available. Free Wi-Fi. '
 website: ''
