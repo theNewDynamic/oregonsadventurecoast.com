@@ -28,7 +28,7 @@ seo:
   title: Bay Point Landing Luxury RV Park
   description: Bay Point Landing is right on Coos Bay
 coordinates:
-  lat: '43.373287'
-  lng: "-124.293750"
+  lat: '43.372733'
+  lng: "-124.291197"
 
 ---
