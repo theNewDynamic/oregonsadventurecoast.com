@@ -35,6 +35,9 @@ Enjoy a **romantic dinner for two** at one of the many [wonderful restaurants](/
 ![](/img/Shore-Acres-Viewing-Flower.jpg)  
 During the day, hiking along the rugged cliffs of the [Cape Arago Loop](/tripideas/explore-the-cape-arago-beach-loop/) between Sunset Bay and Shore Acres State Parks provides breathtaking views and [riding the dunes](/atv-motorsports/) in an ATV made for two will certainly get the adrenalin pumping.
 
-And at the end of the day, stay in one of our fabulous lodging properties. These two hotels are even offering specials just for Valentine’s Day – [The Mill Casino * Hotel & RV Park](https://www.themillcasino.com/) is offering a Valentine’s Package including your room, a bottle of champagne, a chocolate treat from Coastal Mists, and a $50 dining credit to any of The Mill’s dining venues for $215 per night plus tax. [The Edgewater Inn Coos Bay](https://edgewaterinns.com/edgewater-inn-coos-bay/) is offering a Valentine’s Package that includes a Spa Suite with a bottle of wine and truffles for $185 per night plus tax (February 14th only at this rate). Visit each hotel’s website for information on these and other upcoming special events!
+And at the end of the day, stay in one of our fabulous lodging properties. These two hotels are even offering specials just for Valentine’s Day: 
 
-With so many adventures to find here, your weekend will be filled with exciting things to do, just the two of you!
+* [The Mill Casino * Hotel & RV Park](https://www.themillcasino.com/) is offering a Valentine’s Package including your room, a bottle of champagne, a chocolate treat from Coastal Mists, and a $50 dining credit to any of The Mill’s dining venues for $215 per night plus tax. 
+* [The Edgewater Inn Coos Bay](https://edgewaterinns.com/edgewater-inn-coos-bay/) is offering a Valentine’s Package that includes a Spa Suite with a bottle of wine and truffles for $185 per night plus tax (February 14th only at this rate). Visit each hotel’s website for information on these and other upcoming special events!
+
+With so many [adventures](/adventures/) to find here, your weekend will be filled with exciting things to do, just the two of you!
