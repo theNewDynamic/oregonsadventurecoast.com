@@ -33,7 +33,7 @@ If we are blessed with beautiful sunsets over the Valentine’s Weekend, there i
 Enjoy a **romantic dinner for two** at one of the many [wonderful restaurants](/dining/) that call the Coos Bay Area home followed by a Spruce Tips IPA at [7 Devils Brewing Company](https://www.facebook.com/7DevilsBrewingCo/), Coos Bay’s homegrown craft brewery. Catch some live music around the fire pit at 7 Devils both Friday and Saturday night. Or head over to [The Mill Casino](https://www.themillcasino.com/) for some saucy music in Warehouse 101 and try your luck at the games.
 
 ![](/img/Shore-Acres-Viewing-Flower.jpg)  
-During the day, hiking along the rugged cliffs of the [Cape Arago Loop](/tripideas/explore-the-cape-arago-beach-loop/) between Sunset Bay and Shore Acres State Parks provides breathtaking views and [riding the dunes](/atv-motorsports/) in an ATV made for two will certainly get the adrenalin pumping.
+During the day, [hiking](/hiking-walking/) along the rugged cliffs of the [Cape Arago Loop](/tripideas/explore-the-cape-arago-beach-loop/) between Sunset Bay and Shore Acres State Parks provides breathtaking views and [riding the dunes](/atv-motorsports/) in an ATV made for two will certainly get the adrenalin pumping.
 
 And at the end of the day, stay in one of our fabulous lodging properties. These two hotels are even offering specials just for Valentine’s Day: 
 
