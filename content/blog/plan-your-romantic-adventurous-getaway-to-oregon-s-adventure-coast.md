@@ -1,9 +1,9 @@
 ---
 title: Plan Your Romantic, Adventurous Getaway to Oregon’s Adventure Coast!
-date: 2020-01-30T08:00:00+00:00
+date: 2020-01-30T08:00:00.000+00:00
 description: Cuddle up with your honey on Oregon's Adventure Coast this Valentine's
   Weekend.
-image: ''
+image: "/img/shore-acres-flowers-1.jpg"
 tags:
 - Valentine's Day
 - Romantic Sunsets
@@ -33,8 +33,8 @@ If we are blessed with beautiful sunsets over the Valentine’s Weekend, there i
 Enjoy a **romantic dinner for two** at one of the many [wonderful restaurants](/dining/) that call the Coos Bay Area home followed by a Spruce Tips IPA at [7 Devils Brewing Company](https://www.facebook.com/7DevilsBrewingCo/), Coos Bay’s homegrown craft brewery. Catch some live music around the fire pit at 7 Devils both Friday and Saturday night. Or head over to [The Mill Casino](https://www.themillcasino.com/) for some saucy music in Warehouse 101 and try your luck at the games.
 
 ![](/img/Shore-Acres-Viewing-Flower.jpg)  
-During the day, hiking along the rugged cliffs of the Cape Arago Loop between Sunset Bay and Shore Acres State Parks provides breathtaking views and riding the dunes in an ATV made for two will certainly get the adrenalin pumping.
+During the day, hiking along the rugged cliffs of the [Cape Arago Loop](/tripideas/explore-the-cape-arago-beach-loop/) between Sunset Bay and Shore Acres State Parks provides breathtaking views and [riding the dunes](/atv-motorsports/) in an ATV made for two will certainly get the adrenalin pumping.
 
-And at the end of the day, stay in one of our fabulous lodging properties. These two hotels are even offering specials just for Valentine’s Day – The Mill Casino * Hotel & RV Park is offering a Valentine’s Package including your room, a bottle of champagne, a chocolate treat from Coastal Mists, and a $50 dining credit to any of The Mill’s dining venues for $215 per night plus tax. The Edgewater Inn Coos Bay is offering a Valentine’s Package that includes a Spa Suite with a bottle of wine and truffles for $185 per night plus tax (February 14th only at this rate). Visit each hotel’s website for information on these and other upcoming special events!
+And at the end of the day, stay in one of our fabulous lodging properties. These two hotels are even offering specials just for Valentine’s Day – [The Mill Casino * Hotel & RV Park](https://www.themillcasino.com/) is offering a Valentine’s Package including your room, a bottle of champagne, a chocolate treat from Coastal Mists, and a $50 dining credit to any of The Mill’s dining venues for $215 per night plus tax. [The Edgewater Inn Coos Bay](https://edgewaterinns.com/edgewater-inn-coos-bay/) is offering a Valentine’s Package that includes a Spa Suite with a bottle of wine and truffles for $185 per night plus tax (February 14th only at this rate). Visit each hotel’s website for information on these and other upcoming special events!
 
 With so many adventures to find here, your weekend will be filled with exciting things to do, just the two of you!
