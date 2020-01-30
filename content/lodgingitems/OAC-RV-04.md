@@ -22,7 +22,7 @@ website: www.recreation.gov
 amenityList:
 - amenitySelect: ''
 coordinates:
-  lat: '43.3680393'
-  lng: "-124.2127865"
+  lat: '43.449771'
+  lng: "-124.262136"
 
 ---
