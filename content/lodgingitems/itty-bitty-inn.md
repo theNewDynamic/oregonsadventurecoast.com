@@ -26,6 +26,6 @@ amenityList:
 - 9 - Handicap Accessible
 coordinates:
   lat: 43°24'47.5"N
-  lng: 124°13'27.5"W
+  lng: -124°13'27.5"W
 
 ---
