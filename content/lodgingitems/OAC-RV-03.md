@@ -24,7 +24,7 @@ amenityList:
 - amenitySelect: '6'
 - amenitySelect: '9'
 coordinates:
-  lat: '43.3680393'
-  lng: "-124.2127865"
+  lat: '43.341395'
+  lng: "-124.349922"
 
 ---
