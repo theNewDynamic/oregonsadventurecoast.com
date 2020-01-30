@@ -25,7 +25,7 @@ amenityList:
 - 7 - Kitchens Available
 - 9 - Handicap Accessible
 coordinates:
-  lat: 43°24'47.5"N
-  lng: -124°13'27.5"W
+  lat: '43.412963'
+  lng: "-124.224281"
 
 ---
