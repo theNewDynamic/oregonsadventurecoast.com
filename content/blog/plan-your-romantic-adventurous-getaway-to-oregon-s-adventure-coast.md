@@ -3,7 +3,7 @@ title: Plan Your Romantic, Adventurous Getaway to Oregon’s Adventure Coast!
 date: 2020-01-30T08:00:00.000+00:00
 description: Cuddle up with your honey on Oregon's Adventure Coast this Valentine's
   Weekend.
-image: "/img/shore-acres-flowers-1.jpg"
+image: "/img/couple-flowers-truck-blog-695x322.jpg"
 tags:
 - Valentine's Day
 - Romantic Sunsets
