@@ -1,27 +1,35 @@
 .m-adventure-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
     @include medium {
-        width: 660px;
+        grid-template-columns: 1fr 1fr;
         margin: 0 auto;
     }
     @include smallPlus {
-        width: 330px;
+        max-width: 290px;
+        display: block;
         margin: 0 auto;
+        .item{
+            margin-bottom: 1rem;
+        }
     }
 }
-.m-adventure-grid a:link,
-.m-adventure-grid a:visited {
-    color: $white;
-    text-decoration: none;
+.m-adventure-grid{
+    a{
+        display: block;
+        &:link,&:visited {
+            color: $white;
+            text-decoration: none;
+        }
+    }
 }
 .m-adventure-grid .item {
-    width: 290px;
     height: 200px;
     border-radius: 6px;
     overflow: hidden;
-    float: left;
     position: relative;
     background-color: $gray;
-    margin: 0 20px 40px 20px;
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -64,7 +72,7 @@
 }
 
 .m-adventure-grid .item .description {
-    width: 290px;
+    width: 100%;
     height: 200px;
     background-color: rgba($red, 0);
     color: $white;
