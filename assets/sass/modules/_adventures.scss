@@ -20,6 +20,11 @@
         max-width: 950px;
         margin-left: 20px;
         margin-right: 20px;
+
+        @media (max-width:$medium){
+            margin-left: 0;
+            margin-right: 0;
+        }
     }
 }
 
