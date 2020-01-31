@@ -13,3 +13,16 @@
 .m-adventures li {
     @include p;
 }
+
+.introtext{
+    
+    iframe{
+        max-width: 950px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+.m-adventure-grid{
+    margin-top: 25px !important;
+}
