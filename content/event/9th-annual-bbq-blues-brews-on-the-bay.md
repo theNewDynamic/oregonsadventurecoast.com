@@ -34,31 +34,19 @@ The Mill's BBQ, Blues & Brews on the Bay has grown into one of The Mill's most a
 
 ### Schedule - Full Schedule Coming Soon
 
-**Friday, May 22, 2020**
+**Friday, May 22, 2020**   
+7:00 pm – 9:00 pm – Meet and greet with cooks and professional pitmasters. Enjoy live entertainment and a no host ba­r in the Salmon Room. Public welcome. 21 and older
 
-3:00 pm – 6:30 pm – JUDGING CLASS  
-Learn the ins and outs of BBQ and become a Certified KCBS BBQ Judge.  
-_(To become a judge: The fee is $100 for non-KCBS members and $75 for current KCBS members. Registration also includes a 1 year membership to KCBS. Pre-registration is required. For more information on becoming a judge, contact_ [_Amy Bailey_](mailto:abailey@themillcasino.com)_.)_  
-7:00 pm – 9:00 pm  – Meet and greet with cooks and professional pitmasters. Enjoy live entertainment and a no host ba­r in the Salmon Room. Public welcome. 21 and older
+**Saturday, May 23, 2020**   
+\*NOON TO 6:00PM! Sample BBQ from the competitors. Enjoy food vendors, beer garden and live entertainment. Sample 30+ craft brews in the beer garden.
 
-**Saturday, May 23, 2020**
+**Sunday, May 24, 2020**  
+\*ALL DAY! Sample BBQ from the competitors.   
+_NOTE: BBQ competitors will be in competition mode, new items are typically released every half hour. Be sure to check back often!_
 
-ALL DAY! Sample BBQ from the competitors.  
-\*Noon – 6:00 pm – Enjoy food vendors, beer garden and live entertainment. Sample 30+ craft brews for a $15 donation.
+Noon – BBQ Judging begins Noon – 4:00 pm –  Enjoy food vendors, beer garden and live entertainment. Sample 30+ craft brews in the beer garden.   
+2:00 pm  – Jim Monihan Mac ‘N Cheese Challenge turn in.   
+Sample Mac ‘N Cheese from the competitors until 4:00 pm.   
+4:00 pm – Awards Ceremony. Prize money will be awarded to BBQ competitors! Best brew winners will be announced!
 
-**Sunday, May 24, 2020**
-
-\*_ALL DAY! Sample BBQ from the competitors.  
-__ NOTE: BBQ competitors will be in competition mode, new items are typically released every half hour. Be sure to check back often!_
-
-Noon – BBQ Judging begins
-
-Noon – 4:00 pm –  Enjoy food vendors, beer garden and live entertainment. Sample 30+ craft brews for a $15 donation.
-
-2:00 pm  – Jim Monihan Mac ‘N Cheese Challenge turn in. Sample Mac ‘N Cheese from the competitors until 4:00 pm.
-
-\*4:00 pm – Awards Ceremony. Prize money will be awarded to BBQ competitors! Best brew winners will be announced!
-
-\***ALL SAMPLES AVAILABLE AT FESTIVAL ARE WHILE SUPPLIES LAST.**
-
-\** Proceeds of the beer garden go to local non-profit groups
+***ALL SAMPLES AVAILABLE AT FESTIVAL ARE WHILE SUPPLIES LAST.**

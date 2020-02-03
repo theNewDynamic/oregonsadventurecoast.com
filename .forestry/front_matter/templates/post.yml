@@ -33,6 +33,13 @@ fields:
   config: {}
   template: seo
   label: SEO Template
+- name: aliases
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Aliases
 pages:
 - content/blog/a-two-day-oregon-coast-whale-watching-trip-itinerary.md
 - content/blog/celebrate-national-estuaries-week-at-the-south-slough-national-estuarine-research-reserve.md

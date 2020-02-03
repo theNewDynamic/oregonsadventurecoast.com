@@ -19,6 +19,8 @@ seo:
     for Valentine's Weekend
   imgalt: ''
   image: ''
+aliases:
+- "/valentines"
 
 ---
 ### Plan Your Romantic, Adventurous Getaway to Oregon’s Adventure Coast!
