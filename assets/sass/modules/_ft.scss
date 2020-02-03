@@ -50,8 +50,39 @@
 				.traveler{
 					order:5;
 				}
+				.guide{
+					order:6;
+				}
+				.newsletter{
+					order:7;
+				}
 				.brochure{
-					order:6
+					order:8;
+				}
+				.social{
+					position: relative;
+					order: 9;
+					max-width: 50%;
+					margin: 0;
+					padding: 0;
+
+					ul{
+						max-width: 100%;
+						display: flex;
+						flex-direction: row;
+						justify-content: space-between;
+
+						li{
+							flex: none;
+							display: inline;
+							width: auto;
+
+							a{
+								padding: 10px;
+								margin-left: 0;
+							}
+						}
+					}
 				}
 			}
 		}
