@@ -53,7 +53,7 @@ aliases: []
 >
 > Other Coos Bay restaurants receiving multiple recommendations are _Coach House, Blue Heron Bistro, Kaffe 101, Sumin’s Restaurant & Sushi Bar, Little Italy Restaurant, EZ Thai, City Subs, Noster Kitchen, The Boat_ (one fan says it “has the best fish and chips in the area”). Respondents also recommended _Stockpot Restaurant_ for a “breakfast you can’t beat” and “best breakfast in town. Good people too”.
 >
-> _Restaurant O, Fishermen’s Seafood Market, Street Provisioners, Grab & Go Deli at Coos Head Food Co-op, So It Goes Coffeehouse, Bay Burger Inn-Praus Haus_ and _Luigi’s Italian Sandwiches a_lso received shout-outs from our Facebook followers.
+> _Restaurant O, Fishermen’s Seafood Market, Front Street Provisioners, Grab & Go Deli at Coos Head Food Co-op, So It Goes Coffeehouse, Bay Burger Inn-Praus Haus_ and _Luigi’s Italian Sandwiches_ also received shout-outs from our Facebook followers.
 >
 > As you can see, Oregon’s Adventure Coast boasts a wide variety of terrific dining and meal options to explore. We encourage you to try these and other fabulous restaurants on your next visit and let us know what you think! [Click here ](https://www.oregonsadventurecoast.com/dining/)for our most recent list of area restaurants.
 
