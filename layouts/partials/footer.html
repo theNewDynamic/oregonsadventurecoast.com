@@ -43,7 +43,9 @@
 					<li class="meetings"><a href="/meeting-planners">Meetings, Groups &amp; Conventions</a></li>
 					<li class="press"><a href="/press-media-industry">Press, Media &amp; Industry</a></li>
 					<li class="guide"><a href="/contact/#contactform">Get Our Free Visitor Guide</a></li>
-					<li class="newsletter"><a href="/newsletter-archive">Newsletter Archive</a></li>
+					{{ with .Site.GetPage "/newsletter-archive" }}
+						<li class="newsletter"><a href="{{ .Permalink }}">Newsletter Archive</a></li>
+					{{ end }}
 					<div class="m-social social">
 						<ul>
 							<li><a href="https://www.facebook.com/OregonsAdventureCoast" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
