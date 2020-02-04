@@ -47,11 +47,9 @@ aliases: []
 >
 > _Darrell’s Devils Food_ received mad love from fans for their pizza:
 >
-> “I just picked my pizza up from Darrell’s Devils Food. My kid says it’s the best pizza in the world”
->
-> “Darrell’s Devil’s Food (Best pizza.. EVER)”
->
-> “Darrell’s Devil’s Food is my favorite place to go for a coffee, snack, breakfast or lunch. Their pizza and ham and cheese croissants are to die for! Plus Shanan is a wizard at making mochas!”
+> * “I just picked my pizza up from Darrell’s Devils Food. My kid says it’s the best pizza in the world”
+> * “Darrell’s Devil’s Food (Best pizza.. EVER)”
+> * “Darrell’s Devil’s Food is my favorite place to go for a coffee, snack, breakfast or lunch. Their pizza and ham and cheese croissants are to die for! Plus Shanan is a wizard at making mochas!”
 >
 > Other Coos Bay restaurants receiving multiple recommendations are _Coach House, Blue Heron Bistro, Kaffe 101, Sumin’s Restaurant & Sushi Bar, Little Italy Restaurant, EZ Thai, City Subs, Noster Kitchen, The Boat_ (one fan says it “has the best fish and chips in the area”). Respondents also recommended _Stockpot Restaurant_ for a “breakfast you can’t beat” and “best breakfast in town. Good people too”.
 >
