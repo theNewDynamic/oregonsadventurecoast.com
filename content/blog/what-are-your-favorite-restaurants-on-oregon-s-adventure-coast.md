@@ -31,7 +31,7 @@ aliases: []
 >
 > **MOST RECOMMENDED:** _Miller’s at the Cove, Fisherman’s Grotto_ and _The High Tide Cafe_ received plenty of praise from fans. “High Tide Cafe has awesome chowder and fish and chips” and “Definitely best clam chowder” are some of the comments that were shared.
 >
-> Other Charleston restaurant shoutouts included _The Portside Restaurant, The Cape Cafe,_ and _Davey Jones Locker_ “for some good fried snacks and tasty fresh sandwiches”.
+> Other Charleston restaurant shoutouts included _The Portside Restaurant, The Cape Cafe,_ and _Davey Jones Locker_  “for some good fried snacks and tasty fresh sandwiches”.
 >
 > ### NORTH BEND RESTAURANTS
 >
