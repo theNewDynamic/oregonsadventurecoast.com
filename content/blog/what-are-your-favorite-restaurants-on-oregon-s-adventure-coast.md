@@ -1,6 +1,6 @@
 ---
 title: What Are Your Favorite Restaurants on Oregon's Adventure Coast?
-date: 2020-02-04T05:00:00+00:00
+date: 2020-02-04T05:00:00.000+00:00
 description: 'We asked people to tell us their favorite restaurants in Coos Bay-North
   Bend-Charleston.  Here''s what they said. '
 image: "/img/Dining_blog_695 X 395.jpg"
@@ -16,6 +16,7 @@ seo:
   description: ''
   imgalt: ''
   image: ''
+aliases: []
 
 ---
 > Aside from the natural beauty, one of the things that travelers say they love the most about visiting Oregon’s Adventure Coast is the food. Self-proclaimed “food-snobs” visiting from large cities all over the region have told us time and time again how impressed they are with the quality and the selection of the restaurants in our area. Hungry travelers can find world-class chowder, fresh local seafood, top-notch sushi, Thai, Italian, Mexican, and American comfort food within just a couple of miles of each other.
@@ -28,7 +29,7 @@ seo:
 >
 > ### CHARLESTON, OREGON RESTAURANTS
 >
-> **MOST RECOMMENDED:** _Miller’s on the Cove, Fisherman’s Grotto_ and _The High Tide Cafe_ received plenty of praise from fans. “High Tide Cafe has awesome chowder and fish and chips” and “Definitely best clam chowder” are some of the comments that were shared.
+> **MOST RECOMMENDED:** _Miller’s at the Cove, Fisherman’s Grotto_ and _The High Tide Cafe_ received plenty of praise from fans. “High Tide Cafe has awesome chowder and fish and chips” and “Definitely best clam chowder” are some of the comments that were shared.
 >
 > Other Charleston restaurant shoutouts included _The Portside Restaurant, The Cape Cafe,_ and _Davey Jones Locker_ “for some good fried snacks and tasty fresh sandwiches”.
 >
@@ -42,13 +43,13 @@ seo:
 >
 > #### COOS BAY RESTAURANTS
 >
-> **MOST RECOMMENDED: **_Tokyo Bistro_ (fans say it has the best sushi) received many recommendations along with _7 Devils Brewing Co._ “the best pub ever” and _Shark Bites_ in Coos Bay’s downtown district.
+> \**MOST RECOMMENDED: **_Tokyo Bistro_ (fans say it has the best sushi) received many recommendations along with _7 Devils Brewing Co._ “the best pub ever” and _Shark Bites_ in Coos Bay’s downtown district.
 >
-> _Darrell’s Devils Food_ received mad love from fans for their pizza: 
+> _Darrell’s Devils Food_ received mad love from fans for their pizza:
 >
-> “I just picked my pizza up from Darrell’s Devils Food. My kid says it’s the best pizza in the world” 
+> “I just picked my pizza up from Darrell’s Devils Food. My kid says it’s the best pizza in the world”
 >
-> “Darrell’s Devil’s Food (Best pizza.. EVER)” 
+> “Darrell’s Devil’s Food (Best pizza.. EVER)”
 >
 > “Darrell’s Devil’s Food is my favorite place to go for a coffee, snack, breakfast or lunch. Their pizza and ham and cheese croissants are to die for! Plus Shanan is a wizard at making mochas!”
 >
