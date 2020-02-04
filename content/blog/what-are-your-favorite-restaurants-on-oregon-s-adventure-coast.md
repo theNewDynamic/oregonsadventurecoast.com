@@ -43,7 +43,7 @@ aliases: []
 >
 > #### COOS BAY RESTAURANTS
 >
-> \**MOST RECOMMENDED: **_Tokyo Bistro_ (fans say it has the best sushi) received many recommendations along with _7 Devils Brewing Co._ “the best pub ever” and _Shark Bites_ in Coos Bay’s downtown district.
+> **MOST RECOMMENDED:** _Tokyo Bistro_ (fans say it has the best sushi) received many recommendations along with _7 Devils Brewing Co._ “the best pub ever” and _Shark Bites_ in Coos Bay’s downtown district.
 >
 > _Darrell’s Devils Food_ received mad love from fans for their pizza:
 >
