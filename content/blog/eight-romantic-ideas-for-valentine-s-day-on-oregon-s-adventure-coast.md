@@ -1,7 +1,10 @@
 ---
 title: Eight Romantic Ideas for Valentine's Day on Oregon's Adventure Coast
 date: 2020-02-03T05:00:00+00:00
-description: ''
+description: 'There are few places more romantic than Oregon’s Adventure Coast. Now
+  that Valentine’s Day is just around the corner, have you made your plans? Here are
+  some romantic dates and activities you and your Valentine will enjoy during your
+  stay- whether it’s for Valentine’s Day or any day of the year. '
 image: "/img/DSC_4334.jpeg"
 tags: []
 categories: []
@@ -11,7 +14,6 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
-draft: true
 
 ---
 ## MAKE OREGON’S ADVENTURE COAST YOUR DESTINATION FOR A ROMANTIC GETAWAY!
@@ -36,7 +38,7 @@ Spend quality time together browsing through the unique shops in Downtown Coos B
 
 ### 4) DINE AT ONE OF OUR FINE RESTAURANTS
 
-The restaurants in Coos Bay\~North Bend\~Charlestong are one of the best-kept secrets in our region! Whether you’re seeking [an upscale dining experience](https://www.oregonsadventurecoast.com/blog/coos-bay-is-home-to-world-class-chefs/) or a down-to-earth casual dinner, there is something for every taste. [Click here](https://www.oregonsadventurecoast.com/dining/) to see our list of dining options and be sure to be on the lookout this week where we share the recommendations from our locals & visitors. TIP- Be sure to call ahead and make reservations if possible!
+The restaurants in Coos Bay\~North Bend\~Charleston are one of the best-kept secrets in our region! Whether you’re seeking [an upscale dining experience](https://www.oregonsadventurecoast.com/blog/coos-bay-is-home-to-world-class-chefs/) or a down-to-earth casual dinner, there is something for every taste. [Click here](https://www.oregonsadventurecoast.com/dining/) to see our list of dining options and be sure to be on the lookout this week where we share the recommendations from our locals & visitors. TIP- Be sure to call ahead and make reservations if possible!
 
 ### 5 ) STROLL ALONG ONE OF THE LOCAL BEACHES.
 
