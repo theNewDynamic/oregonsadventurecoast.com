@@ -41,7 +41,7 @@ aliases: []
 >
 > Other North Bend eateries getting shout-outs from locals and visitors were Grab & Go Deli at _Bailey’s_, _Dishner’s Fine Foods, El Guadalajara, Lucky Star Chinese, The Tin Thistle, Bungalow Market & Deli, Mill Casino, Vinny ’s Smokin’ Good Burgers & Sandwiches_ and _The Grounds Cafe_ in _Books By The Bay_. We also read a post praising _Top Dog Coffee Company_ for “really yummy creative drinks”, _Alder Smokehouse_ for BBQ Tri-Tip and breakfast at _Kozy Kitchen._
 >
-> #### COOS BAY RESTAURANTS
+> ### COOS BAY RESTAURANTS
 >
 > **MOST RECOMMENDED:** _Tokyo Bistro_ (fans say it has the best sushi) received many recommendations along with _7 Devils Brewing Co._ “the best pub ever” and _Shark Bites_ in Coos Bay’s downtown district.
 >
