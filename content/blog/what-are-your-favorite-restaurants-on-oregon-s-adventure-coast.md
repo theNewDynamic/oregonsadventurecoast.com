@@ -56,5 +56,3 @@ aliases: []
 > _Restaurant O, Fishermen’s Seafood Market, Front Street Provisioners, Grab & Go Deli at Coos Head Food Co-op, So It Goes Coffeehouse, Bay Burger Inn-Praus Haus_ and _Luigi’s Italian Sandwiches_ also received shout-outs from our Facebook followers.
 >
 > As you can see, Oregon’s Adventure Coast boasts a wide variety of terrific dining and meal options to explore. We encourage you to try these and other fabulous restaurants on your next visit and let us know what you think! [Click here ](https://www.oregonsadventurecoast.com/dining/)for our most recent list of area restaurants.
-
-he Portside Restaurant, The Cape Cafe,
