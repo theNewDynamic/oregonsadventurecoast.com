@@ -1,7 +1,7 @@
 ---
-title: 41st Annual Oregon Coast Music Festival
-startdate: '2019-07-13'
-enddate: '2019-07-27'
+title: 42nd Annual Oregon Coast Music Festival
+startdate: '2020-07-11'
+enddate: '2020-07-25'
 address:
   street: ''
   street2: ''
@@ -12,7 +12,7 @@ phone_toll_free: ''
 website: http://www.oregoncoastmusic.org/
 desktoptitle: Oregon Coast Music Festival
 mobiletitle: OR Coast Music Fest
-hovertitle: 41st Annual Oregon Coast Music Festival
+hovertitle: 42nd Annual Oregon Coast Music Festival
 hoverdescription: Each year over 80 musicians travel from all over the United States
   and Canada to perform three classical concerts during Festival Week.
 photo: "/img/orchestra-music-fest-event-pg-headear.jpg"
@@ -23,48 +23,30 @@ photo_alt: ''
 date: '2019-02-10T21:57:25.000+00:00'
 
 ---
-**Coos Bay is home to the longest running music festival on the Oregon Coast! Each year over 80 musicians travel from all over the United States and Canada to perform three classical concerts during Festival Week.**
+**Coos Bay is home to the longest running music festival on the Oregon Coast! Each year more than 80 musicians travel from all over the United States and Canada to perform three classical concerts during Festival Week.**
 
-Whether a novice or seasoned classical music fan, a very special treat awaits hearing our orchestra live! Their exceptional performances bring audiences back year after year. Go to [Calendar](http://www.oregoncoastmusic.org/calendar-events/) for details of each concert program. There will be time between events to enjoy the treasures of the spectacular Oregon coast: pristine beaches, succulent seafood, sand dunes, fishing and more!
+Whether a novice or seasoned classical music fan, a very special treat awaits hearing our orchestra live! Their exceptional performances bring audiences back year after year. Go to [Calendar](https://www.oregoncoastmusic.org/calendar-2020/) for details of each concert program. There will be time between events to enjoy the treasures of the spectacular Oregon coast: pristine beaches, succulent seafood, sand dunes, fishing and more!
 
 #### **OCMA Orchestra Concerts**
 
-July 23rd - 7:30pm – [**Concert I**](http://www.oregoncoastmusic.org/concert-i/) **– “World Premiere Night” Runestad, Mozart, Stravinsky and _“World on Fire”_** (Commissioned piece to celebrate Maestro James Paul’s 28th year with the festival orchestra) **-** Marshfield High School Auditorium - $20/$25
+July 21st - 7:30pm – [**Concert I**](http://www.oregoncoastmusic.org/concert-i/) **– _BEETHOVEN, BERNSTEIN, and WILLIAMS_** **-** Marshfield High School Auditorium
 
-July 25th - 7:30pm – [**Pops Concert**](http://www.oregoncoastmusic.org/pops-concert/) **– “Youth Has No Age” Music from films and musicals -** Marshfield High School Auditorium - $20/$25
+July 23rd - 7:30pm – [**Pops Concert**](http://www.oregoncoastmusic.org/pops-concert/) **– _FIESTA_ -** Marshfield High School Auditorium
 
-July 27th - 7:30pm – [**Concert II**](http://www.oregoncoastmusic.org/concert-ii/) **– “Musical Magic” Brahms, Sibelius, Faure -** Marshfield High School Auditorium - $20/$25
+July 25th - 7:30pm – [**Concert II**](http://www.oregoncoastmusic.org/concert-ii/) **– _BEETHOVEN, WILLIAMS and SIBELIUS_ -** Marshfield High School Auditorium
 
 **Expanded Festival Schedule:**  
-**July 13 to July 27, 2019**
+**July 11 to July 25, 2020**
 
-July 13th - Noon – **OMCA Kick-off Concert - Bay Area Concert Band -** Mingus Park - Free
+**Saturday July 11th** - Outdoor Kickoff Concert - Bay Area Concert Band - Mingus Park
 
-July 16th - 7pm – **John Craigie** - Oregon Institute of Marine Biology’s Boathouse Auditorium - $20 (Tickets available at 7 Devils Brewery or the Festival website, advanced purchase recommended)
+**Wednesday, July 15th** - Liberty Pub ConcerT
 
-July 17th - 7pm – **Pub Night at the Liberty with Delta Bluesmen David Pinsky & Phil Newton** - Liberty Pub - $10
+**Saturday July 18th** - Shore Acres State Park Concert
 
-July 18th - 7:30pm – **Sarah Shook and the Disarmers** - 7 Devils Public House - Free
+**Sunday July 19th** - Jazz at the OIMB Boathouse
 
-July 18th - 7:30pm – **River Whyless** - Front Street Provisioners - $20 [(for tickets)](https://www.7devilsbrewery.com/store/p16/river-whyless-tix.html)
-
-July 20th - Noon – **Shore Acres Picnic and Concert - Che’s Lounge the Band**  - $5 parking fee
-
-July 21st - 2-4pm – **Jazz at the Boathouse Concert and Reception - Aaron Johnson Trio** - OIMB Boathouse Auditorium - $40/$50
-
-July 21st - 2pm – **Tribute to Children's Musicals** - Dolphin Playhouse - $10/$8/$5
-
-July 22nd - Noon – **Noon Lectures with Adam Stern** - Coos Bay Library - Free
-
-July 22nd - 7pm – **Tribute to Children's Musicals** - Dolphin Playhouse - $10/$8/$5
-
-July 23rd - 10am – **Youth Interpretive Workshop and Pops Rehearsal -** Marshfield High School Auditorium - Free with Registration
-
-July 24th - Noon – **Noon Lectures with Adam Stern** - Coos Bay Library - Free
-
-July 24th - 7:30pm – **Sarah Shook and the Disarmers** - 7 Devils Public House - Free
-
-July 26th - Noon – **Noon Lectures with Adam Stern** - Coos Bay Library - Free
+**Monday, July 20th, Wednesday July 22nd and Friday July 24th** - Noon Lectures with Adam Stern
 
 #### The Festival Orchestra
 
