@@ -21,7 +21,7 @@ aliases: []
 
 12/05/2019 - [It's the Most Wonderful Time of the Year on Oregon's Adventure Coast](http://eepurl.com/gLJ07n "It's the Most Wonderful Time of the Year on Oregon's Adventure Coast")
 
-11/29/2019 - [Visit the Brightest & Most Beautiful Place on the West Coast this Holiday Season ](http://eepurl.com/gK_OuD "Visit the Brightest & Most Beautiful Place on the West Coast this Holiday Season  🎅🎄🎇")
+11/29/2019 - [Visit the Brightest & Most Beautiful Place on the West Coast this Holiday Season ](http://eepurl.com/gK_OuD "Visit the Brightest & Most Beautiful Place on the West Coast this Holiday Season")
 
 11/08/2019 - [Experience Holiday Lights, Sights & Sounds on Oregon's Adventure Coast!](http://eepurl.com/gI68ij "Experience Holiday Lights, Sights & Sounds on Oregon's Adventure Coast!")
 
