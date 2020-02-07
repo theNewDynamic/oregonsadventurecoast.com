@@ -41,6 +41,10 @@ During the day, [hiking](/hiking-walking/) along the rugged cliffs of the [Cape 
 And at the end of the day, stay in one of our fabulous lodging properties. These two hotels are even offering specials just for Valentine’s Day:
 
 * [The Mill Casino * Hotel & RV Park](https://www.themillcasino.com/) is offering a Valentine’s Package including your room, a bottle of champagne, a chocolate treat from Coastal Mists, and a $50 dining credit to any of The Mill’s dining venues for $215 per night plus tax.
-* [The Edgewater Inn Coos Bay](https://edgewaterinns.com/edgewater-inn-coos-bay/) is offering a Valentine’s Package that includes a Spa Suite with a bottle of wine and truffles for $185 per night plus tax (February 14th only at this rate). Visit each hotel’s website for information on these and other upcoming special events!
+* [The Edgewater Inn Coos Bay](https://edgewaterinns.com/edgewater-inn-coos-bay/) is offering a Valentine’s Package that includes a Spa Suite with a bottle of wine and truffles for $185 per night plus tax (February 14th only at this rate). 
+* The [Motel 6 Coos Bay](https://www.motel6.com/en/motels.or.coos-bay.1244.html?ncr=true) is offering a Valentine's Discount! Use Code# CPN52XNE when booking your room and receive a 10% discount!
+
+
+* Visit each hotel’s website for information on these and other upcoming special events!
 
 With so many [adventures](/adventures/) to find here, your weekend will be filled with exciting things to do, just the two of you!
