@@ -31,4 +31,4 @@ aliases: []
 
 09/24/2019 - [Cycling on Oregon's Adventure Coast](http://eepurl.com/gD6hS1 "Cycling on Oregon's Adventure Coast")
 
-09/06/2019 - [Experience Music, Food, Culture & Fun this Fall on Oregon's Adventure Coast](https://mailchi.mp/oregonsadventurecoast.com/june2019-576107?e=%5BUNIQID%5D)
+09/06/2019 - [Experience Music, Food, Culture & Fun this Fall on Oregon's Adventure Coast](https://mailchi.mp/oregonsadventurecoast.com/june2019-576107?e=%5BUNIQID%5D "Experience Music, Food, Culture & Fun this Fall on Oregon's Adventure Coast")
