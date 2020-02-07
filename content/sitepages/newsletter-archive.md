@@ -2,7 +2,7 @@
 title: Newsletter Archive
 url: newsletter-archive
 layout: press-media-industry
-photo: ''
+photo: "/img/e-newsletter-archive-sub-pg-header.jpg"
 seo:
   title: ''
   description: ''
