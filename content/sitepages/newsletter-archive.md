@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-02/06/2020 - [Valentine's Day Weekend Specials on Oregon's Adventure Coast](http://eepurl.com/gRWuUv "Valentine's Day Weekend Specials on Oregon's Adventure Coast  😚 ❤")
+02/06/2020 - [Valentine's Day Weekend Specials on Oregon's Adventure Coast](http://eepurl.com/gRWuUv "Valentine's Day Weekend Specials on Oregon's Adventure Coast")
 
 02/03/2020 - [What's Happening on Oregon's Adventure Coast \~February 2020](http://eepurl.com/gRCtzb "What's Happening on Oregon's Adventure Coast ~February 2020")
 
