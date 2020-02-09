@@ -5,8 +5,8 @@ aliases:
 - "/activities/category/geocaching"
 - "/rob"
 slideshow:
-- title: Valentine's Weekend Specials!
-  photo: "/img/valentines-hm-slider.jpg"
+- title: Check Out Our Specials!
+  photo: "/img/valentines-hm-slider-02.jpg"
   title_mobile: Valentine's Weekend Specials!
   photo_mobile: "/img/valentines-hm-slider-mobile.jpg"
   url: "/valentines"
