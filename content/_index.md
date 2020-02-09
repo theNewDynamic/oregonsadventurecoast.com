@@ -5,11 +5,11 @@ aliases:
 - "/activities/category/geocaching"
 - "/rob"
 slideshow:
-- title: Charleston Crab Feed - Feb 8th!
-  photo: "/img/crab-feed-home-page-slider.jpg"
-  title_mobile: Annual Crab Feed Feb 8th
-  photo_mobile: "/img/crab-feed-mobile-slider.jpg"
-  url: "/event/36th-annual-charleston-crab-feed/"
+- title: Valentine's Weekend Specials!
+  photo: "/img/valentines-hm-slider.jpg"
+  title_mobile: Valentine's Weekend Specials!
+  photo_mobile: "/img/valentines-hm-slider-mobile.jpg"
+  url: "/valentines"
 - title: Best Storm Watching - Jan/Feb/Mar
   photo: "/img/storm-watching-hm-slider-lg.jpg"
   title_mobile: Best Storm Watching
