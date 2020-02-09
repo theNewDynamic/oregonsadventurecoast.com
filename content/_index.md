@@ -5,10 +5,10 @@ aliases:
 - "/activities/category/geocaching"
 - "/rob"
 slideshow:
-- title: Check Out Our Specials!
-  photo: "/img/valentines-hm-slider-02.jpg"
-  title_mobile: Valentine's Weekend Specials!
-  photo_mobile: "/img/valentines-hm-slider-mobile.jpg"
+- title: Valentine's Weekend Offers!
+  photo: "/img/valentines-hm-slider-03.jpg"
+  title_mobile: Valentine's Weekend Offers!
+  photo_mobile: "/img/valentines-hm-slider-mobile-02.jpg"
   url: "/valentines"
 - title: Best Storm Watching - Jan/Feb/Mar
   photo: "/img/storm-watching-hm-slider-lg.jpg"
