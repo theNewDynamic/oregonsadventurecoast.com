@@ -56,6 +56,9 @@ Here are some other points of interest to check out during your Coos Bay visit:
   </p>
 </div>
 
-<pre>Prefontaine photo credit: <a href="http://www.flickr.com/photos/40658682@N05/3751730337">Steve Prefontaine with winning trophy after setting a new US record in the 5000m in a US vs USSR All Stars meet at Edwards Field, Berkeley, CA, July 3, 1971</a> via <a href="http://photopin.com">photopin</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">(license)</a></pre>
+Prefontaine photo credit: [Steve Prefontaine with winning trophy after setting a new US record in the 5000m in a US vs USSR All Stars meet at Edwards Field, Berkeley, CA, July 3, 1971](http://www.flickr.com/photos/40658682@N05/3751730337)  
+via [photopin](http://photopin.com) [(license)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
-<pre>photo credit: <a href="http://www.flickr.com/photos/40658682@N05/3912601166">5000m race, July 16, 1970 Meet at Stuttgart, US vs Germany. Steve Prefontaine 13 (2nd in 13:39.6), Harold Norpoth (winner in 13:34.6), Kenny Moore 15. Runner's World photo, April 2006</a> via <a href="http://photopin.com">photopin</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">(license) </a></pre>
+photo credit: [5000m race, July 16, 1970 Meet at Stuttgart, US vs Germany. Steve Prefontaine 13 (2nd in 13:39.6), Harold Norpoth (winner in 13:34.6), Kenny Moore 15\. Runner's World photo, April 2006](http://www.flickr.com/photos/40658682@N05/3912601166)  
+via [photopin](http://photopin.com) [(license)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+
