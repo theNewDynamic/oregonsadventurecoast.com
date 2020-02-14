@@ -20,6 +20,14 @@
         li{
             float:none;
             display: inline-block;
+
+            a{
+                padding-left: 0 !important;
+                
+                @media (min-width:$medium + 1){
+                    padding-right: 20px !important;
+                }
+            }
         }
         .svg-inline--fa{
             font-size:1.3em;
@@ -47,12 +55,14 @@
 }
 .m-ft-links .sections li {
     list-style: none;
-    margin: 0 0 10px 0;
+    margin: 0 0 20px 0;
     padding: 0;
     width: 50%;
+    height: 34px;
     @include borderBox;
     background-repeat: no-repeat;
     background-position: 0 50%;
+    background-size: auto 34px;
     text-transform: uppercase;
     font-family: $fjalla;
     //font-size: 17px;
@@ -64,10 +74,11 @@
     }
 }
 .m-ft-links .sections li a {
-    display: block;
+    display: flex;
+    align-items: center;
     padding: 0 0 0 50px;
-    height: 45px;
-    line-height: 45px;
+    height: 100%;
+    line-height: 0;
     white-space: nowrap;
 }
 /* Alignments */
@@ -75,33 +86,25 @@
 /* Icons */
 .m-ft-links .sections .equipment {
     background-image: url('/layout-images/icon-equipment.png');
-    background-size: 31px 46px;
-    background-position: 2px 50%;
+    background-position: 5px 50%;
 }
 .m-ft-links .sections .tour {
     background-image: url('/layout-images/icon-tour.png');
-    background-size: 37px 35px;
 }
 .m-ft-links .sections .traveler {
     background-image: url('/layout-images/icon-traveler.png');
-    background-size: 34px 36px;
-    background-position: 2px 50%;
 }
 .m-ft-links .sections .newsletter {
     background-image: url('/layout-images/icon-newsletter.png');
-    background-size: 34px 36px;
 }
 .m-ft-links .sections .meetings {
     background-image: url('/layout-images/icon-meetings.png');
-    background-size: 35px 35px;
 }
 .m-ft-links .sections .press {
     background-image: url('/layout-images/icon-press.png');
-    background-size: 35px 36px;
 }
 .m-ft-links .sections .guide {
     background-image: url('/layout-images/icon-guide.png');
-    background-size: 35px 36px;
 }
 /* Brochure */
 .m-ft-links .sections .brochure {
@@ -123,13 +126,13 @@
 /* Social Links */
 .m-ft-links .social {
     padding-top: 20px;
-    @include medium {
+    @media (max-width:$medium - 1){
         display: none;
     }
 }
 .m-ft-links .social.-mobile-social {
     display: none;
-    @include medium {
+    @media (max-width:$medium - 1){
         display: block;
     }
 }
