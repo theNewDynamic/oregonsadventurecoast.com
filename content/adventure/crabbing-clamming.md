@@ -13,7 +13,7 @@ seo:
 
 {{< floatimage src="/img/kids-crabbing-141.jpg" float="right" alt="Family Crabbing at the Charleston Marina" size="100" >}}
 
-No trip to the Adventure Coast is complete without Dungeness crab, and the best crab are always the ones you bring up yourself from the waters of lower Coos Bay. Rent or buy a crab ring and try your luck; the payoff will be a fresh crab feast you’ll always remember. And you’ll keep coming back for more. 
+No trip to the Adventure Coast is complete without Dungeness crab, and the best crab are always the ones you bring up yourself from the waters of lower Coos Bay. Rent or buy a crab ring and try your luck; the payoff will be a fresh crab feast you’ll always remember. And you’ll keep coming back for more.
 
 Here are a few tips we want to share from the {{< link url="https://myodfw.com/articles/how-crab" >}}Oregon Department of Fish and Wildlife{{< /link >}}. Be sure to read their [instructional flyer How to Crab](https://www.dfw.state.or.us/resources/fishing/docs/CrabbingFlyer.pdf) for important details.
 
@@ -26,20 +26,15 @@ Here are a few tips we want to share from the {{< link url="https://myodfw.com/a
 
 Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores often rent and sell rings. Here’s a short list of some locations:
 
-**Basin Tackle Shop**\
-63510 Kingfisher Road, Charleston, OR 97420\
-(541) 888-FISH\
-Open Mon-Sat 8am-5pm; Sun 8am-Noon\
+**Basin Tackle Shop**  
+63510 Kingfisher Road, Charleston, OR 97420  
+(541) 888-FISH  
+Open Mon-Sat 8am-5pm; Sun 8am-Noon  
 {{< link url="http://www.basintackle.com" >}}www.basintackle.com{{< /link >}}
 
-**Crab Shack**\
-63840 Crossline Road, Charleston, OR 97420\
-(541) 888-3433\
-Open daily from 8am-6pm
-
-**Davey Jones Locker**\
-Cape Arago Highway & Boat Basin Road\
-Charleston, OR 97420\
+**Davey Jones Locker**  
+Cape Arago Highway & Boat Basin Road  
+Charleston, OR 97420  
 (541) 888-3941
 
 ### Clamming on Oregon's Adventure Coast
@@ -66,7 +61,7 @@ The low tides commonly found from Empire to Charleston make our region one of th
 
 **4. Go to a bait and tackle shop before you head out.**
 
-<p class="bullet-para-indent">Some of the best advice you will receive will probably come from one of the fishing experts at one of our\[ local bait and tackle stores](/equipment-rent-and-buy). They can tell you when the best time of day to dig would be based on the tides. They can also help you make sure you have the right equipment- a bucket, a shovel (can be rented or borrowed) and/or a tube a.k.a. a “clam gun”.</p>
+<p class="bullet-para-indent">Some of the best advice you will receive will probably come from one of the fishing experts at one of our\[ local bait and tackle stores\](/equipment-rent-and-buy). They can tell you when the best time of day to dig would be based on the tides. They can also help you make sure you have the right equipment- a bucket, a shovel (can be rented or borrowed) and/or a tube a.k.a. a “clam gun”.</p>
 
 **5. Keep track of how many clams you dig.**
 
@@ -77,3 +72,5 @@ The low tides commonly found from Empire to Charleston make our region one of th
 <p class="bullet-para-indent">Watch this video to learn the basics of digging:</p>
 <p>
 <iframe width="695" height="403" src="https://www.youtube.com/embed/caRg6WqgrcI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+
+### **Visit our** [**Fishing page**]() **for information on charters and more!**
