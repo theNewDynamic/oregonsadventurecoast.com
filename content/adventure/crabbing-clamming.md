@@ -73,4 +73,4 @@ The low tides commonly found from Empire to Charleston make our region one of th
 <p>
 <iframe width="695" height="403" src="https://www.youtube.com/embed/caRg6WqgrcI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-### **Visit our** [**Fishing page**]() **for information on charters and more!**
+### **Visit our** [**Fishing**]() **page for information on charters and more!**
