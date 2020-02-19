@@ -20,7 +20,6 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
-draft: true
 
 ---
 The [2020 OSAA / OnPoint Community Credit Union 3A Basketball State Championship](http://www.osaa.org/activities/bbx/brackets) games are coming up **March 5-7, 2020** and do you know what that means? It’s time for our annual [#3ACoosBay Photo Competition](https://www.instagram.com/explore/tags/3acoosbay/)!
