@@ -51,7 +51,7 @@ Here’s how to enter:
 * Share your *photographs depicting your awesome experience in the Coos Bay, North Bend, Charleston geographic area on Instagram anytime between 8 am Thursday, March 5, 2020 and 11:59 pm Saturday, March 7, 2020. _There is no limit to how many photographs can be uploaded during the contest period, however, photos submitted before or after these dates/times will not be considered for entry._
 * Use the #3ACoosBay hashtag in your Instagram caption to qualify as an official entry.
 * HAVE FUN!! We want to see your favorite moments from the basketball tournament and all the other fun places you go during your visit!
-* By entering, [you agree to these Official Rules](https://oregonsadventurecoast.com/3a-coosbay-rules-2019).
+* By entering, [you agree to these Official Rules](https://www.oregonsadventurecoast.com/3a-coosbay-rules-2020).
 
 _*Photographs are subject to and must comply with Instagram’s Terms of Use. We reserve the right to disqualify any photograph that does not meet the standards of our rules & regulations._
 
