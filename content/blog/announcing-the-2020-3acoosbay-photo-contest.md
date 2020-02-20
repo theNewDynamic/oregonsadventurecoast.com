@@ -4,7 +4,7 @@ date: 2020-02-19T21:00:00+00:00
 description: 'Traveling to Coos Bay~North Bend~Charleston, Oregon for the 2020 3A
   Basketball State Championship? Share Your Adventures on Instagram with the #3ACoosBay
   tag for a chance to win some outstanding prizes!'
-image: "/img/3ACoosBay2019Winner.png"
+image: "/img/jumping-girls-3a.jpg"
 tags:
 - 3ACoosBay
 - " Coos Bay"
