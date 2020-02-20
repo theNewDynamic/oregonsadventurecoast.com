@@ -13,7 +13,8 @@ tags:
 - "#3ACoosBay Photo Competition"
 - '2020 OSAA / OnPoint Community Credit Union 3A Basketball State Championship '
 - " Oregon School Activities Association "
-categories: []
+categories:
+- Events
 seo:
   title: ''
   description: ''
