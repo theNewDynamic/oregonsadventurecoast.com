@@ -37,7 +37,7 @@ While you are here, be sure to take some time to explore our area and enter our 
 
 **THIRD PLACE: $25 Amazon Gift Card**
 
-All you have to do is post a photo that best captures the spirit of your experience here on Oregon’s Adventure Coast on Instagram and tag it with the #3acoosbay hashtag (we’ll also accept #3acoosbay2020). Be sure to[ follow the #3acoosbay hashtag](https://www.instagram.com/explore/tags/3acoosbay/) to see entries from previous years and to follow the action for 2020! Here are last year's winners-
+All you have to do is post a photo that best captures the spirit of your experience here on Oregon’s Adventure Coast on Instagram and tag it with the #3acoosbay hashtag (we’ll also accept #3acoosbay2020). Be sure to[ follow the #3acoosbay hashtag](https://www.instagram.com/explore/tags/3acoosbay/) to see entries from previous years and to follow the action for 2020!
 
 Here’s how to enter:
 
