@@ -43,13 +43,19 @@ All you have to do is post a photo that best captures the spirit of your experie
 
 **1st Place - 2019**
 
+![](/img/3a-photos-first-place.jpg)
+
 \++++
 
 **2nd Place - 2019**
 
+![](/img/3a-photo-second-place.jpg)
+
 \++++
 
 **3rd Place - 2019**
+
+![](/img/da-photo-third-place.jpg)
 
  {{< /columns >}}
 
