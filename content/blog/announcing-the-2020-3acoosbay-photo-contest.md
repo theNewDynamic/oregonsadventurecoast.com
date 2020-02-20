@@ -1,6 +1,6 @@
 ---
 title: 'Announcing the 2020 #3ACoosBay Photo Contest!'
-date: 2020-02-19T05:00:00+00:00
+date: 2020-02-20T01:00:00+00:00
 description: 'Traveling to Coos Bay~North Bend~Charleston, Oregon for the 2020 3A
   Basketball State Championship? Share Your Adventures on Instagram with the #3ACoosBay
   tag for a chance to win some outstanding prizes!'
