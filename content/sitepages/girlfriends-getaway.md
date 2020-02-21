@@ -26,7 +26,7 @@ Indoors, we have [shopping](/shopping), [museums](/art-history-culture), [great 
 
 And with a year-round temperate climate, outdoor adventures are always part of the trip. [Hiking](/hiking-walking), [crabbing and clamming](/crabbing-clamming), [surfing](/water-recreation), [beach combing](/undeveloped-beaches), [ATV’ing](/atv-motorsports), [cycling](/cycling), [storm watching](/storm-watching), [scenic drives](/scenic-drives), are just a few ways to enjoy the great outdoors while you and your girlfriends create lifetime memories.
 
-![The best place for a girlfriends getaway on the Oregon Coast](/img/GirlfriendsPage-Triptik-02.jpg)![The best place for a girlfriends getaway on the Oregon Coast](/img/girlfriends-getaway-collage.jpg)
+![The best place for a girlfriends getaway on the Oregon Coast](/img/girlfriends-getaway-collage.jpg)
 
 ### {{< floatimage src="/img/trip-ideas-icon-62x96.png" float="left" alt="Trip Ideas for a Girlfriends Getaway on Oregon's Adventure Coast" >}}Trip Ideas: Explore Our Girlfriend's Long Weekend
 
