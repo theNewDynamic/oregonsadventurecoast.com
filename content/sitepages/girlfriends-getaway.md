@@ -1,9 +1,9 @@
 ---
 title: Girlfriends Getaway
 aliases:
-  - /girlfreinds
-  - /Girlfreinds
-  - /Girlfriends
+- "/girlfreinds"
+- "/Girlfreinds"
+- "/Girlfriends"
 url: girlfriends
 layout: contact
 photo: "/img/girlfriend-getaway-sub-pg-header.jpg"
@@ -35,3 +35,9 @@ Follow the same path our girlfriends took on their trek along Oregon's Adventure
 Take a look through our website to see all the fun you could have. If you have questions, we are happy to help you plan a memorable trip. See our [Adventures page](/adventures), our [Trip Ideas page](/tripideas) and any [upcoming events](/events) to see all there is to do on Oregon's Adventure Coast! Or [request a visitor's packet today](/contact/#contactform).
 
 ![The best place for a girlfriends getaway on the Oregon Coast](/img/girlfriends-getaway-collage.jpg)
+
+![](/img/museum-collage-two-images.jpg)
+
+![](/img/shopping-girlfriends-north-bend.jpg)
+
+![](/img/girlfriends-hug-at-beach.jpg)
