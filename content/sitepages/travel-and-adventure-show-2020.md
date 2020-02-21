@@ -1,5 +1,5 @@
 ---
-title: Sportsman Show Contest Entry
+title: Travel &
 url: sportsman-show-contest
 layout: headless
 photo: ''
