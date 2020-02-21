@@ -1,6 +1,6 @@
 ---
-title: Travel &
-url: sportsman-show-contest
+title: Travel & Adventure Show
+url: travel-and-adventure-show
 layout: headless
 photo: ''
 seo:
