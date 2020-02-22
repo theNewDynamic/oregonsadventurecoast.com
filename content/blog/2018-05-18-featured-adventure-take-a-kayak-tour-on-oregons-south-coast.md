@@ -1,27 +1,26 @@
 ---
 title: 'Featured Adventure: Take a Kayak Tour on Oregon''s South Coast'
-date: 2018-05-18T15:51:18.000Z
-description: >+
-  Fishing, wildlife viewing and exploring the peaceful waterways along Oregon's
-  South Coast...these are a few of our favorite things. For the ultimate
-  summertime adventure, it doesn't get much better than gliding along the water
-  on a guided kayak tour.
-
+date: 2018-05-18T15:51:18.000+00:00
+description: "Fishing, wildlife viewing and exploring the peaceful waterways along
+  Oregon's South Coast...these are a few of our favorite things. For the ultimate
+  summertime adventure, it doesn't get much better than gliding along the water on
+  a guided kayak tour.\n\n"
 tags:
-  - Cape arago state park
-  - Crabbing & Clamming
-  - Fishing
-  - Crabbing & Clamming
-  - Guided Kayak Tour
-  - Kayak
-  - Oregon Coast Kayak Tour
-  - South Coast Tours
-  - South Slough National Estuarine Research Reserve
-  - Sunset Bay State Park
+- Cape arago state park
+- Crabbing & Clamming
+- Fishing
+- Crabbing & Clamming
+- Guided Kayak Tour
+- Kayak
+- Oregon Coast Kayak Tour
+- South Coast Tours
+- South Slough National Estuarine Research Reserve
+- Sunset Bay State Park
 categories:
-  - Kayaking
-  - Miscellaneous
-image: /img/05-18-18-adventure-kayak-tour.jpg
+- Kayaking
+- Miscellaneous
+image: "/img/05-18-18-adventure-kayak-tour.jpg"
+
 ---
 Fishing, wildlife viewing and exploring the peaceful waterways along Oregon's South Coast...these are a few of our favorite things. For the ultimate summertime adventure, it doesn't get much better than gliding along the water on a guided <a href="/kayaking/" target="_blank" rel="noopener noreferrer">kayak</a> tour.
 
@@ -55,8 +54,8 @@ Visit <a href="https://www.southcoasttours.net/">www.southcoasttours.net</a> to
 
 The South Slough National Estuarine Research Reserve in Charleston, OR also offers guided kayak tours throughout the year. During the five-mile paddle, experienced guides will show you areas of the Reserve rarely seen by visitors. Please note you must bring your own kayak or canoe, paddles, water and lunch but a driver and shuttle will be provided. <a href="http://www.oregon.gov/dsl/SS/Pages/CommunityClassReg.aspx" target="_blank" rel="noopener noreferrer">Click here </a> for a schedule of their guided tours.
 
-<h2>Self-Guided Kayak Tours &amp; Rentals</h2>
+<h2>Self-Guided Kayak Tours & Rentals</h2>
 
-If you want to go on your own, there are multiple options! <a href="/adventure/state-parks-and-national-lands" target="_blank" rel="noopener noreferrer">Sunset Bay State Park</a> is a local favorite among kayakers. Known for its calm waters and easy access to the beach, Sunset Bay State Park is an ideal location for kayakers of all levels. <strong>Don't own a kayak? No problem.</strong> <a href="http://www.surfwaxers.com/" target="_blank" rel="noopener noreferrer">Waxer's Surf Shop</a> is a great place to <a href="http://www.surfwaxers.com/rentals-1/" target="_blank" rel="noopener noreferrer">rent kayaks</a> (or purchase) in addition to gear, clothing, and accessories you may need as you explore the south coast!
+If you want to go on your own, there are multiple options! <a href="/adventure/state-parks-and-national-lands" target="_blank" rel="noopener noreferrer">Sunset Bay State Park</a> is a local favorite among kayakers. Known for its calm waters and easy access to the beach, Sunset Bay State Park is an ideal location for kayakers of all levels. <strong>Don't own a kayak? No problem.</strong> <a href="http://www.surfwaxers.com/" target="_blank" rel="noopener noreferrer">Waxer's Surf Shop</a> is a great place to <a href="http://www.surfwaxers.com" target="_blank" rel="noopener noreferrer">rent kayaks</a> (or purchase) in addition to gear, clothing, and accessories you may need as you explore the south coast!
 
 Whether it's a guided tour or a self-guided tour, kayaking on Oregon's Adventure Coast is an unforgettable adventure that belongs at the top of your summer bucket list. Want to learn more?   <a href="/contact/">Contact Us</a> to get more tips on kayaking experiences as well as the inside scoop for finding the best local food, events and activities any time of the year.
