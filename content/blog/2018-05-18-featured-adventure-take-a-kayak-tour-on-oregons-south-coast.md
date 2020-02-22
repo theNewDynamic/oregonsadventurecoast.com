@@ -22,7 +22,7 @@ categories:
 image: "/img/05-18-18-adventure-kayak-tour.jpg"
 
 ---
-Fishing, wildlife viewing and exploring the peaceful waterways along Oregon's South Coast...these are a few of our favorite things. For the ultimate summertime adventure, it doesn't get much better than gliding along the water on a guided <a href="/kayaking/" target="_blank" rel="noopener noreferrer">kayak</a> tour.
+Fishing, wildlife viewing and exploring the peaceful waterways along Oregon's South Coast...these are a few of our favorite things. For the ultimate summertime adventure, it doesn't get much better than gliding along the water on a guided [kayak](/water-recreation) tour.
 
 With so many calm lakes, rivers and beaches [to choose from,](/water-recreation) Oregon's Adventure Coast is a haven for kayakers of all skill levels. Though there are ample opportunities for going on your own, we think embarking on a guided tour from local companies like <a href="https://www.southcoasttours.net/">South Coast Tours</a> (SCT) is the way to go! SCT offers kayaking, stand up paddle boarding and kayak fishing from the Coos Bay area down to the California border and Brookings Harbor. The company is receiving much praise for their adventure paddle tours of rivers, estuaries and along shores of Oregon's Southern Coast.
 
