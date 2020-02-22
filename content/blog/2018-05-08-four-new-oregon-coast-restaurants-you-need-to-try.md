@@ -1,38 +1,37 @@
 ---
 title: Four New Oregon Coast Restaurants You Need to Try
-date: 2018-05-08T12:55:37.000Z
-description: >+
-  Ask anyone who visits the Coos Bay, North Bend and Charleston area and they
-  will tell you that we love to eat. Guests of the visitor center frequently
-  tell us how pleasantly surprised they are about the quality of the food,
-  service and the selection of our local dining establishments. Guess you could
-  say it's one of the best-kept secrets on Oregon's Adventure Coast!
-
+date: 2018-05-08T12:55:37.000+00:00
+description: "Ask anyone who visits the Coos Bay, North Bend and Charleston area and
+  they will tell you that we love to eat. Guests of the visitor center frequently
+  tell us how pleasantly surprised they are about the quality of the food, service
+  and the selection of our local dining establishments. Guess you could say it's one
+  of the best-kept secrets on Oregon's Adventure Coast!\n\n"
 tags:
-  - Best food
-  - Casual Dining
-  - Charleston
-  - Coos Bay
-  - Dining
-  - Fine Dining
-  - Fish and Chips
-  - Food
-  - New Restaurants
-  - North Bend
-  - Oregon Coast Restaurants
-  - Oregon Coast Travel Tips
-  - Restaurants
-  - Seafood
-  - Where to Eat
+- Best food
+- Casual Dining
+- Charleston
+- Coos Bay
+- Dining
+- Fine Dining
+- Fish and Chips
+- Food
+- New Restaurants
+- North Bend
+- Oregon Coast Restaurants
+- Oregon Coast Travel Tips
+- Restaurants
+- Seafood
+- Where to Eat
 categories:
-  - Eat & Drink
-image: /img/05-08-18-new-or-coast-resteraunts.jpg
+- Eat & Drink
+image: "/img/05-08-18-new-or-coast-resteraunts.jpg"
+
 ---
 <pre><em>Photo Source: <a href="https://www.facebook.com/RestaurantO/">Restaurant O</a></em></pre>
 
 Ask anyone who visits the Coos Bay, North Bend and Charleston area and they will tell you that we love to eat. Guests of the <a href="/" target="_blank" rel="noopener noreferrer">visitor center</a> frequently tell us how pleasantly surprised they are about the quality of the food, service and the selection of our local dining establishments. Guess you could say it's one of the best-kept secrets on Oregon's Adventure Coast!
 
-We're also earning a reputation for hosting some of the most delicious festivals on the coast like the upcoming annual <a href="/events/" target="_blank" rel="noopener noreferrer">BBQ, Blues &amp; Brews by the Bay</a> May 25th-27th, the <a href="/event/the-mill-casino-food-truck-off/" target="_blank" rel="noopener noreferrer">Mill Casino Food Truck Off</a> August 3rd-5th,the annual <a href="/event/annual-charleston-seafood-festival/" target="_blank" rel="noopener noreferrer">Charleston Seafood Festival</a> August 10th-12th and many others throughout the year.
+We're also earning a reputation for hosting some of the most delicious festivals on the coast like the upcoming annual <a href="/events/" target="_blank" rel="noopener noreferrer">BBQ, Blues & Brews by the Bay</a> May 25th-27th, the <a href="/event/the-mill-casino-food-truck-off/" target="_blank" rel="noopener noreferrer">Mill Casino Food Truck Off</a> August 3rd-5th,the annual <a href="/event/annual-charleston-seafood-festival/" target="_blank" rel="noopener noreferrer">Charleston Seafood Festival</a> August 10th-12th and many others throughout the year.
 
 Whether you're in the mood for local fresh seafood, comfort food, burgers, sushi, ethnic or pub fare- you will find it here. Most of our restaurants are locally owned and operated and are active members of the community. Many restaurant owners and staff will often chat with travelers, welcoming them and giving them an authentic sense of the history and culture in our area as well as unique ideas to get the most out of their trip.
 
@@ -66,4 +65,4 @@ For travelers with food sensitivities or just looking for wholesome, healthier o
 
 There is no need to travel to a large city for a fine dining experience. Perhaps one of the most exciting recent additions to the local restaurant scene is Restaurant O, led by Master <a href="http://restauranto.us/masterchef-o-neill" target="_blank" rel="noopener noreferrer">Chef Eoghain O’Neill</a>. Even though Restaurant O has only been open for a few months, Chef O'Neill's fresh new menu and attentive staff have already received widespread accolades from visitors and locals alike. Located in the space formerly occupied by Benetti's Italian Restaurant, Restaurant O is one of the first open concept kitchens in southern Oregon and features a tapas and cocktail bar, a brasserie main dining hall and a tasting room on the upper level that overlooks the bay. Reservations are recommended.
 
-So when you visit our area this spring and summer, be sure to bring your appetite! To help you plan, download and print this <a href="/img/restaurant-brochure.pdf" target="_blank" rel="noopener noreferrer"> handy restaurant guide</a> to bring with you as you are out exploring. Bon Appétit!
+So when you visit our area this spring and summer, be sure to bring your appetite! To help you plan, download and print this [handy restaurant guide](/img/restaurant-brochure-04-19.pdf) to bring with you as you are out exploring. Bon Appétit!
