@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: 'diningpage'
 title: Oregon Coast Trips - Dining Options During Your Stay
 aliases:
 - "/eat-drink"
