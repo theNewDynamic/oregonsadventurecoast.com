@@ -1,7 +1,7 @@
 ---
 title: Plan Your Next Visit to Oregon's Adventure Coast with 1859 Oregon's Magazine’s
   Trip Planner
-date: 2019-02-14 05:00:00 +0000
+date: 2019-02-14T05:00:00.000+00:00
 description: We may be in the early stages of 2019, but Oregon's Adventure Coast has
   already received a whole lot of buzz this year! We all know that the Coos Bay, North
   Bend and Charleston are is one of Oregon's best-kept travel secrets, but looks like
@@ -30,4 +30,4 @@ The article also shines the spotlight on the [Coos History Museum](https://orego
 
 In addition to this fabulous piece, Oregon's Adventure Coast was highlighted in Portland Monthly magazine in [_Winter Storms on the Southern Oregon Coast Make A Great Get-A-Way_](https://www.pdxmonthly.com/articles/2019/1/8/winter-storms-southern-oregon)  AND our Holiday Lights at Shore Acres display got a shout-out in the Chicago Tribune's article [_A globetrotter's guide to the world's big events in 2019_](https://trib.in/2ABDbMh)!
 
-**About 1859 Oregon's Magazine** 1859 Oregon's Magazine is a bi-monthly lifestyle magazine based in Bend, Oregon whose mission is to "Live, Think, Explore". The magazine covers both contemporary and historical content relating to the state of Oregon,from the Pacific Coast to high desert of Eastern Oregon. Named for Oregon's year of statehood, the publication was established in Bend, Oregon in the summer of 2009. To learn more or to subscribe, visit at [1859oregonmagazine.com/subscribe](1859oregonmagazine.com/subscribe).
+**About 1859 Oregon's Magazine** 1859 Oregon's Magazine is a bi-monthly lifestyle magazine based in Bend, Oregon whose mission is to "Live, Think, Explore". The magazine covers both contemporary and historical content relating to the state of Oregon,from the Pacific Coast to high desert of Eastern Oregon. Named for Oregon's year of statehood, the publication was established in Bend, Oregon in the summer of 2009. To learn more or to subscribe, visit at [1859oregonmagazine.com/subscribe](http://1859oregonmagazine.com/subscribe).
