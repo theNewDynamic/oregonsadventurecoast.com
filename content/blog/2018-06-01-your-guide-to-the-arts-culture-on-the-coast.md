@@ -1,36 +1,36 @@
 ---
 title: Your Guide to the Arts & Culture on the Coast
-date: 2018-06-01T15:34:30.000Z
-description: >-
-  Our unique setting on Oregon's South Coast has been a source of inspiration to
-  artists and performers from all over the world. Not only are we home to the
-  Coos Art Museum, a cultural haven since 1966, the towns of Coos Bay, North
-  Bend & Charleston are home to renowned festivals, events and spaces that
-  celebrate the arts, theatre and music.
+date: 2018-06-01T15:34:30.000+00:00
+description: Our unique setting on Oregon's South Coast has been a source of inspiration
+  to artists and performers from all over the world. Not only are we home to the Coos
+  Art Museum, a cultural haven since 1966, the towns of Coos Bay, North Bend & Charleston
+  are home to renowned festivals, events and spaces that celebrate the arts, theatre
+  and music.
 tags:
-  - Annual Oregon Coast Music Festival
-  - Art Exhibits
-  - Arts and Culture
-  - CAM
-  - Coos Art Museum
-  - Coos Bay Downtown Association
-  - Coos Bay Shakespeare in the Park
-  - Downtown Coos Bay Farmers Market
-  - Little Ole Opry on the Bay
-  - local art
-  - Local Music
-  - Music
-  - Music on the Bay
-  - Oregon’s South Coast
-  - The Liberty Theatre
-  - Theatre
+- Annual Oregon Coast Music Festival
+- Art Exhibits
+- Arts and Culture
+- CAM
+- Coos Art Museum
+- Coos Bay Downtown Association
+- Coos Bay Shakespeare in the Park
+- Downtown Coos Bay Farmers Market
+- Little Ole Opry on the Bay
+- local art
+- Local Music
+- Music
+- Music on the Bay
+- Oregon’s South Coast
+- The Liberty Theatre
+- Theatre
 categories:
-  - Culture & Museums
-  - Events
-  - Miscellaneous
-image: /img/06-01-18-guide-to-arts-and-culture.jpg
+- Culture & Museums
+- Events
+- Miscellaneous
+image: "/img/06-01-18-guide-to-arts-and-culture.jpg"
+
 ---
-<p style="text-align: left;">Our unique setting on Oregon's South Coast has been a source of inspiration to artists and performers from all over the world. Not only are we home to the Coos Art Museum, a cultural haven since 1966, the towns of Coos Bay, North Bend &amp; Charleston are home to renowned festivals, events and spaces that celebrate the arts, theatre and music.</p>
+<p style="text-align: left;">Our unique setting on Oregon's South Coast has been a source of inspiration to artists and performers from all over the world. Not only are we home to the Coos Art Museum, a cultural haven since 1966, the towns of Coos Bay, North Bend & Charleston are home to renowned festivals, events and spaces that celebrate the arts, theatre and music.</p>
 
 <p style="text-align: left;">This summer, we invite you to come explore our innovative and inspired performances, exhibits and local attractions. Our weekly <a href="https://www.facebook.com/CoosBayFarmersMarket/">Downtown Farmers Market</a> in addition to <a href="/blog/2017-03-14-wheres-the-best-place-to-check-out-local-music-in-the-coos-bay-north-bend-area/">local music venues</a>, <a href="/art-history-culture/">museums</a>, galleries, antique markets and other <a href="/shopping/">eclectic businesses</a> will also give our visitors a sense of our history and culture.</p>
 
@@ -48,7 +48,7 @@ image: /img/06-01-18-guide-to-arts-and-culture.jpg
 
 <h2>Little Ole Opry on the Bay at The Liberty Theatre</h2>
 
-<a href="https://www.facebook.com/thelibertytheatrenorthbend/photos/a.438076686226610.106280.159672927400322/1018089231558683/?type=3&amp;theater" target="_blank" rel="noopener noreferrer">
+<a href="https://www.facebook.com/thelibertytheatrenorthbend/photos/a.438076686226610.106280.159672927400322/1018089231558683/?type=3&theater" target="_blank" rel="noopener noreferrer">
 
 ![Little Ole Opry on the Bay - Liberty Theatre](/img/opry-2018-674x379.jpg)
 
@@ -76,7 +76,7 @@ The public is invited to experience maritime history when the brig <a href="htt
 
 <div style="text-align: center;">
 
-<p style="text-align: left;">The longest running music festival on the Oregon Coast is turning 40! The 40th Annual <a href="/blog/2018-04-12-oregon-coast-music-festival-is-turning-40/" target="_blank" rel="noopener noreferrer">Oregon Coast Music Festival</a> is happening Tuesday, July 24th through Saturday, July 28th, 2018.  The only festival of its kind in southwestern Oregon, OCMF has been listed on TravelMag.Com’s <a href="http://www.travelmag.com/articles/festivals-oregon-summer/" target="_blank" rel="noopener noreferrer">List of Best Festivals.</a> Visit the <a href="http://www.oregoncoastmusic.org/" target="_blank" rel="noopener noreferrer">official page</a> to see the latest lineup and show dates!</p>
+<p style="text-align: left;">The longest running music festival on the Oregon Coast is turning 40! The 40th Annual Oregon Coast Music Festival is happening Tuesday, July 24th through Saturday, July 28th, 2018.  The only festival of its kind in southwestern Oregon, OCMF has been listed on TravelMag.Com’s <a href="http://www.travelmag.com/articles/festivals-oregon-summer/" target="_blank" rel="noopener noreferrer">List of Best Festivals.</a> Visit the <a href="http://www.oregoncoastmusic.org/" target="_blank" rel="noopener noreferrer">official page</a> to see the latest lineup and show dates!</p>
 
 <h2 style="text-align: left;">Music on the Bay</h2>
 

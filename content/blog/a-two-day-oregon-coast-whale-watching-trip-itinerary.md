@@ -1,6 +1,6 @@
 ---
 title: A Two-Day Oregon Coast Whale Watching Trip Itinerary
-date: 2019-11-26T05:00:00+00:00
+date: 2019-11-26T05:00:00.000+00:00
 description: 'Visitors will have an amazing opportunity to see some of the thousands
   of Gray whales migrating south in the Pacific Ocean during Winter Whale Watch Week:
   Friday, December 27th through Tuesday, December 31st. To help you plan your trip,
@@ -25,6 +25,7 @@ seo:
   description: ''
   imgalt: ''
   image: ''
+aliases: []
 
 ---
 ### The Whole Family Will Have a "Whale of a Time" During Winter 2019 Whale Watching Week- December 27th – 31st, 2019
@@ -83,8 +84,8 @@ Get a sense of Coos Bay’s history and culture with a visit to the [Coos Histor
 Afterward, browse through the [unique locally-owned shops, galleries and boutiques in downtown Coos Bay and North Bend.](https://www.oregonsadventurecoast.com/shopping/)
 
 **DINNER**
-Try another [local restaurant](https://www.oregonsadventurecoast.com/dining/) in Coos Bay, North Bend or Charleston- whatever you’re in the mood for, we probably have it! For a truly special family outing, visit North Bend Lanes for dinner and bowling. This popular locally owned bowling alley features some of the best pizza and burgers in town PLUS a full bar. It’s a great place to end your trip. 
+Try another [local restaurant](https://www.oregonsadventurecoast.com/dining/) in Coos Bay, North Bend or Charleston- whatever you’re in the mood for, we probably have it! For a truly special family outing, visit North Bend Lanes for dinner and bowling. This popular locally owned bowling alley features some of the best pizza and burgers in town PLUS a full bar. It’s a great place to end your trip.
 
-**Got questions?** We’ve got answers! We’re here to help you plan and make the most of your time on Oregon’s Adventure Coast any time of the year. Please visit our [traveler's info page ](https://www.oregonsadventurecoast.com/travelers-info/ )for more info and click here to download our [Visitor Guide](https://www.oregonsadventurecoast.com/img/Oregon-Coast-Visitor-Guide.pdf. ). 
+**Got questions?** We’ve got answers! We’re here to help you plan and make the most of your time on Oregon’s Adventure Coast any time of the year. Please visit our [traveler's info page ](https://www.oregonsadventurecoast.com/travelers-info/ )for more info and click here to download our [Visitor Guide](https://www.oregonsadventurecoast.com/img/Oregon-Coast-Visitor-Guide.pdf).
 
 You can also learn more by visiting the Coos Bay Visitor Information Center located at 50 Central Avenue in Downtown Coos Bay or call (541) 269-0215 or email us at [info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com).
