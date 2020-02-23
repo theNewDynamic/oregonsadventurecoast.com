@@ -1,26 +1,23 @@
 ---
 title: 23rd Annual Maritime Art Exhibition opens at Coos Art Museum
-date: 2016-07-08T19:54:40.000Z
-description: >-
-  The Coos Art Museum will open its 23rd Annual Maritime Art Exhibition in the
-  first floor Maggie Karl Gallery this weekend! The juried exhibition displays
-  maritime-themed artwork by major artists from across the United States.
-  Seventy-six works by forty-four of the nation’s leading maritime artists are
-  featured.
+date: 2016-07-08T19:54:40.000+00:00
+description: The Coos Art Museum will open its 23rd Annual Maritime Art Exhibition
+  in the first floor Maggie Karl Gallery this weekend! The juried exhibition displays
+  maritime-themed artwork by major artists from across the United States. Seventy-six
+  works by forty-four of the nation’s leading maritime artists are featured.
 tags:
-  - Art
-  - Coos Art Museum
-  - Downtown Coos Bay
-  - Exhibits
-  - Fine Art Prints
-  - Maritime
+- Art
+- Coos Art Museum
+- Downtown Coos Bay
+- Exhibits
+- Fine Art Prints
+- Maritime
 categories:
-  - Culture & Museums
+- Culture & Museums
 image: ''
+
 ---
 The Coos Art Museum will open its <a href="http://www.coosart.org/maritime-art-exhibit-2016-and-more/" target="_blank">23rd Annual Maritime Art Exhibition</a> in the first floor Maggie Karl Gallery this weekend! The juried exhibition displays maritime-themed artwork by major artists from across the United States. Seventy-six works by forty-four of the nation’s leading maritime artists are featured.
-
-<img class="aligncenter size-large wp-image-93477" src="/wp-content/uploads/2016/07/940x420-Maritime2016-674x301.jpg" alt="Maritime Art Exhibit 2016" width="674" height="301" srcset="/wp-content/uploads/2016/07/940x420-Maritime2016-674x301.jpg 674w, /wp-content/uploads/2016/07/940x420-Maritime2016-200x89.jpg 200w, /wp-content/uploads/2016/07/940x420-Maritime2016.jpg 940w" sizes="(max-width: 674px) 100vw, 674px" />
 
 The works are in a variety of media including: oil, watercolor, acrylic, pastel, ink, ceramic, bronze, wood, colored pencil, and mixed media sculpture. The exhibition runs through September 24, 2016. It is sanctioned by <a href="http://americansocietyofmarineartists.com/" target="_blank">American Society of Marine Artists</a>, co-sponsored by the <a href="http://portofcoosbay.com/" target="_blank">Oregon International Port of Coos Bay</a>, and partially funded by a grant from the <a href="http://www.coquilletribalfund.org/" target="_blank">Coquille Tribal Community Fund</a>.
 
