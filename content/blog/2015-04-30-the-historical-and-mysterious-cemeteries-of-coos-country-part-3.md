@@ -1,6 +1,6 @@
 ---
 title: The Historical and Mysterious Cemeteries of Coos Country (Part 3)
-date: 2017-07-09T00:03:00-07:00
+date: 2017-07-09T07:03:00.000+00:00
 description: If you have been following the adventures of our guest writer Steven
   Michael, you know that the Southern Oregon Coast is full of mystery. The beautiful
   historical cemeteries in and around Coos Country are excellent places to uncover
@@ -28,33 +28,9 @@ In this post, guest writer Steven Michael of [Steven Michael Photography](https:
 
 ## Fairview Cemetery
 
-<div id="attachment_66815" style="width: 684px" class="wp-caption aligncenter">
-<img class="size-large wp-image-66815" src="/wp-content/uploads/2015/04/6365401_orig-674x449.jpg" alt="Fairview Cemetery" width="674" height="449" srcset="/wp-content/uploads/2015/04/6365401_orig-674x449.jpg 674w, /wp-content/uploads/2015/04/6365401_orig-200x133.jpg 200w, /wp-content/uploads/2015/04/6365401_orig-254x168.jpg 254w, /wp-content/uploads/2015/04/6365401_orig-120x80.jpg 120w, /wp-content/uploads/2015/04/6365401_orig.jpg 1100w" sizes="(max-width: 674px) 100vw, 674px" />
-
-<p class="wp-caption-text">
-Fairview Cemetery
-</p>
-</div>
-
 The Fairview Cemetery is a great example of what a well kept small country cemetery should look like. The volunteers who care for the cemetery take pride in the upkeep of the cemetery, keeping the site clean and well manicured at all times. The 168 people buried here are worth your visit.
 
-<div id="attachment_66816" style="width: 260px" class="wp-caption aligncenter">
-<img class="size-full wp-image-66816" src="/wp-content/uploads/2015/04/340440.jpg" alt="Edward Neely Gravestone" width="250" height="375" srcset="/wp-content/uploads/2015/04/340440.jpg 250w, /wp-content/uploads/2015/04/340440-80x120.jpg 80w, /wp-content/uploads/2015/04/340440-89x133.jpg 89w" sizes="(max-width: 250px) 100vw, 250px" />
-
-<p class="wp-caption-text">
-Edward Neely’s Gravestone
-</p>
-</div>
-
 Edward Neely died in 1898 at the age of 63. He and his family lived in the Fairview area working as Farmers. They Farmed in a time when life was much harder than it is today. Edward and much of his family are buried at the Fairview Cemetery, atop a hillside over looking the valley. A beautiful, peaceful and well kept pioneer cemetery. All of Neely’s family and relatives have very nice gravestones.
-
-<div id="attachment_66817" style="width: 684px" class="wp-caption aligncenter">
-<img class="size-large wp-image-66817" src="/wp-content/uploads/2015/04/9987681_orig-674x449.jpg" alt="David Curtis Noah" width="674" height="449" srcset="/wp-content/uploads/2015/04/9987681_orig-674x449.jpg 674w, /wp-content/uploads/2015/04/9987681_orig-200x133.jpg 200w, /wp-content/uploads/2015/04/9987681_orig-254x168.jpg 254w, /wp-content/uploads/2015/04/9987681_orig-120x80.jpg 120w, /wp-content/uploads/2015/04/9987681_orig.jpg 1100w" sizes="(max-width: 674px) 100vw, 674px" />
-
-<p class="wp-caption-text">
-This small but moving military statue stands at the top of the headstone belonging to David Curtis Noah.
-</p>
-</div>
 
 David Curtis Noah was born in 1949 and died in 2005. David was a PVT in the US Army. He served in Vietnam. There are several military Veterans in this cemetery.
 
@@ -64,14 +40,6 @@ The cemetery has an equal amount of the older upright headstone and the newer fl
 
 Bullard Family Cemetery
 
-<div id="attachment_66819" style="width: 684px" class="wp-caption aligncenter">
-<img class="size-large wp-image-66819" src="/wp-content/uploads/2015/04/8316837_orig-674x449.jpg" alt="Bullard Family Cemetery" width="674" height="449" srcset="/wp-content/uploads/2015/04/8316837_orig-674x449.jpg 674w, /wp-content/uploads/2015/04/8316837_orig-200x133.jpg 200w, /wp-content/uploads/2015/04/8316837_orig-254x168.jpg 254w, /wp-content/uploads/2015/04/8316837_orig-120x80.jpg 120w, /wp-content/uploads/2015/04/8316837_orig.jpg 1100w" sizes="(max-width: 674px) 100vw, 674px" />
-
-<p class="wp-caption-text">
-Bullard Family Cemetery
-</p>
-</div>
-
 Nestled high atop a forested sand dune hill and quietly overlooking the campers on loop “C”, of the Bullards State Park campground, a lonely cemetery rests peacefully. This small family cemetery is well preserved and hidden amongst the Huckleberry, Salal, wild Rhododendron, Hemlock and large Shore Pines. If you were camping in loop “C” and didn’t adventure out on your own, you would never know a cemetery was near with headstones quietly standing, as if watching the activities of the campground below.
 
 Robert W. Bullard, for whom the bridge is named, migrated to Coos County from Iowa, in 1877. In 1882 Bullard established a general store and ferry crossing that operated from the north bank of the Coquille River.
@@ -80,23 +48,7 @@ Today, the only visible trace of any sort of working community once existing in 
 
 To search out this cemetery on your own, it will be difficult to know where to find it. The Bullards State Park does not openly advertise the cemetery’s location in order to protect the delicate headstones from vandals. Though not advertized, it is open to the public to go visit. For directions, just stop by the campground registration booth, or the camp host for directions.
 
-<div id="attachment_66820" style="width: 684px" class="wp-caption aligncenter">
-<img class="size-large wp-image-66820" src="/wp-content/uploads/2015/04/5403575_orig-674x449.jpg" alt="Bullard Family Cemetery" width="674" height="449" srcset="/wp-content/uploads/2015/04/5403575_orig-674x449.jpg 674w, /wp-content/uploads/2015/04/5403575_orig-200x133.jpg 200w, /wp-content/uploads/2015/04/5403575_orig-254x168.jpg 254w, /wp-content/uploads/2015/04/5403575_orig-120x80.jpg 120w, /wp-content/uploads/2015/04/5403575_orig.jpg 1100w" sizes="(max-width: 674px) 100vw, 674px" />
-
-<p class="wp-caption-text">
-Bullard Family Cemetery
-</p>
-</div>
-
 Norway “Pioneer” Cemetery
-
-<div id="attachment_66821" style="width: 572px" class="wp-caption aligncenter">
-<img class="wp-image-66821 size-full" src="/wp-content/uploads/2015/04/combine_images.jpg" alt="Norway "Pioneer" Cemetery" width="562" height="838" srcset="/wp-content/uploads/2015/04/combine_images.jpg 562w, /wp-content/uploads/2015/04/combine_images-80x120.jpg 80w, /wp-content/uploads/2015/04/combine_images-89x133.jpg 89w" sizes="(max-width: 562px) 100vw, 562px" />
-
-<p class="wp-caption-text">
-Norway “Pioneer” Cemetery is filled with poignant reminders of loss families endured when deadly diseases swept through the Coquille River Valley, taking the lives of many infants and children.
-</p>
-</div>
 
 The Norway Cemetery is one of the oldest cemeteries in Coos County dating back to 1875. The Cemetery has an unusual distinction unlike any other cemetery in Coos County. There is a tremendous amount of infants and very young children buried here. In the early 1900’s and into the 1920’s, a variety of deadly diseases like diphtheria, smallpox, and measles swept through the Coquille River Valley killing a large portion of the children.
 
@@ -110,14 +62,6 @@ Several names that played huge rolls in the development of the towns throughout 
 
 Gravelford Pioneer Cemetery
 
-<div id="attachment_66822" style="width: 684px" class="wp-caption aligncenter">
-<img class="size-large wp-image-66822" src="/wp-content/uploads/2015/04/6073247_orig-674x449.jpg" alt="Gravelford Pioneer Cemetery" width="674" height="449" srcset="/wp-content/uploads/2015/04/6073247_orig-674x449.jpg 674w, /wp-content/uploads/2015/04/6073247_orig-200x133.jpg 200w, /wp-content/uploads/2015/04/6073247_orig-254x168.jpg 254w, /wp-content/uploads/2015/04/6073247_orig-120x80.jpg 120w, /wp-content/uploads/2015/04/6073247_orig.jpg 1100w" sizes="(max-width: 674px) 100vw, 674px" />
-
-<p class="wp-caption-text">
-Gravelford Pioneer Cemetery
-</p>
-</div>
-
 One of the finest examples of a small country cemetery being overtaken by the growth of a healthy forest would have to be the Gravelford Pioneer Cemetery established in 1884. From the gravel road, you can’t see the cemetery. It’s hidden up on a hillside underneath a dense canopy of a thriving forest. With the growth of the trees, less sunlight reaches the forest floor, keeping the place dark, damp, and mysterious. More and more of what was once new, is being embraced by the encroachment of the forest cycle.
 
 The inscription on William Albert Bright’s headstone reads, “Lost to sight yet dear to memory”. Such words coincides with the grounds of the cemetery being lost in the forest.
@@ -128,19 +72,9 @@ The dominate families in the cemetery are the Hobson’s, Bright’s and Shook�
 
 Life on the farm was not easy and these families are witness to such hardships. Two-and-a-half year-old J.H. Chandler died in 1884, the same year the cemetery was established. Over the years, a healthy growing Douglas Fir’s roots have been encroaching upon the headstone, “hugging” it around its base.
 
-<div id="attachment_66825" style="width: 684px" class="wp-caption aligncenter">
-<img class="size-large wp-image-66825" src="/wp-content/uploads/2015/04/9331431_orig-1-674x449.jpg" alt="Historical Cemetery" width="674" height="449" srcset="/wp-content/uploads/2015/04/9331431_orig-1-674x449.jpg 674w, /wp-content/uploads/2015/04/9331431_orig-1-200x133.jpg 200w, /wp-content/uploads/2015/04/9331431_orig-1-254x168.jpg 254w, /wp-content/uploads/2015/04/9331431_orig-1-120x80.jpg 120w, /wp-content/uploads/2015/04/9331431_orig-1.jpg 1100w" sizes="(max-width: 674px) 100vw, 674px" />
-
-<p class="wp-caption-text">
-Two-and-a-half year-old J.H. Chandler died in 1884.
-</p>
-</div>
-
 Coos County Cemetery Map Locator
 
 The Coos County Cemeteries featured in this series of posts are listed and numbered in YELLOW. An additional seven Coos County Cemeteries are listed in BLUE that are just as historic, unique, and worth visiting. If you love cemeteries, then you’ll love all the cemeteries listed in yellow and in blue.
-
-<img class="aligncenter size-large wp-image-66826" src="/wp-content/uploads/2015/04/17877_orig-674x463.jpg" alt="Coos County Cemeteries Map" width="674" height="463" srcset="/wp-content/uploads/2015/04/17877_orig-674x463.jpg 674w, /wp-content/uploads/2015/04/17877_orig-194x133.jpg 194w, /wp-content/uploads/2015/04/17877_orig.jpg 1100w" sizes="(max-width: 674px) 100vw, 674px" />
 
 A cemetery can be a powerful place. Suddenly everything has perspective: our problems and mistakes, our challenges and dreams, our values and priorities. To walk amongst the headstones digesting that all we take with us are our deeds and who we have become, what potential we have realized and the value of our service to those we love. A cemetery is authoritative in its unassuming way of humbling us, and yet empowering in its wake-up call for us to appreciate what we have here and now and all the opportunities and pleasures life offers.
 
