@@ -1,42 +1,34 @@
 ---
 title: 11 Road Trip Worthy Festivals Happening on Oregon's Adventure Coast
-date: 2015-05-06T23:33:31.000Z
-description: >-
-  Are you ready for summer? We sure are! There are countless reasons to treat
-  yourself and your family to an epic road trip to Oregon's Adventure Coast this
-  summer.
+date: 2015-05-06T23:33:31.000+00:00
+description: Are you ready for summer? We sure are! There are countless reasons to
+  treat yourself and your family to an epic road trip to Oregon's Adventure Coast
+  this summer.
 tags:
-  - Fourth of July Festivals
-  - Memorial Day Weekend
-  - Oregon Coast Festivals
-  - Oregon Coast Summer Trip
-  - Parade
-  - Road Trips
-  - Summer Festivals
+- Fourth of July Festivals
+- Memorial Day Weekend
+- Oregon Coast Festivals
+- Oregon Coast Summer Trip
+- Parade
+- Road Trips
+- Summer Festivals
 categories:
-  - Fairs & Festivals
-  - Miscellaneous
+- Fairs & Festivals
+- Miscellaneous
 image: ''
+
 ---
-Are you ready for summer? We sure are! There are countless reasons to treat yourself and your family to an epic road trip to Oregon&#8217;s Adventure Coast this summer.
+Are you ready for summer? We sure are! There are countless reasons to treat yourself and your family to an epic road trip to Oregon’s Adventure Coast this summer.
 
 Come explore the many adventures here like our eclectic local festivals, a scenic drive along the iconic <a href="/trip-ideas/explore-the-cape-arago-beach-loop/" target="_blank">Cape Argo Loop</a> and a long walk along one of our unspoiled beaches. Spend the day fishing, hiking, riding the Oregon Dunes or all the above!
 
 Summer Road tripping has never been better.
 
-## Oregon&#8217;s Adventure Coast Summer Festival Round Up
+## Oregon’s Adventure Coast Summer Festival Round Up
 
 ### BBQ, Blues & Brews by the Bay May 22-24, 2015
 
 Spend Memorial Day weekend in North Bend at this annual BBQ event hosted by the Mill Casino feasting on amazing barbecued food, enjoying fantastic music, and some locally brewed beers! For more information call 800-953-4800 or visit <a href="https://www.facebook.com/BbqBluesBrewsOnTheBay" target="_blank">www.facebook.com/BbqBluesBrewsOnTheBay</a>
-
-<div id="attachment_66970" style="width: 437px" class="wp-caption alignright">
-  <img class="size-full wp-image-66970" src="/wp-content/uploads/2015/05/86WbvLfVIOEe5MrJreIT3xhXHnnCoy6eYbN6bXIWlyM.jpg" alt="Memorial Day Parade Coos Bay" width="427" height="640" srcset="/wp-content/uploads/2015/05/86WbvLfVIOEe5MrJreIT3xhXHnnCoy6eYbN6bXIWlyM.jpg 427w, /wp-content/uploads/2015/05/86WbvLfVIOEe5MrJreIT3xhXHnnCoy6eYbN6bXIWlyM-80x120.jpg 80w, /wp-content/uploads/2015/05/86WbvLfVIOEe5MrJreIT3xhXHnnCoy6eYbN6bXIWlyM-89x133.jpg 89w" sizes="(max-width: 427px) 100vw, 427px" />
-  
-  <p class="wp-caption-text">
-    The Memorial Day Parade in Coos Bay will take place Saturday, May 30th.
-  </p>
-</div>
 
 ### 28th Annual United Veterans Memorial Day Parade May 30, 2015 at 11 a.m.
 
@@ -88,4 +80,4 @@ It’s all things Salmon the 2nd week in September! The Mill Luck Salmon celebra
 
 The 2015 Bay Area Fun Festival in Coos Bay is a weekend you won’t want to miss! Loads of entertainment booked, plenty of vendors scheduled to appear with unique wares, and even a parade scheduled to march through downtown Coos Bay! For more information call 800-824-8486 or visit <a href="http://www.bayareafunfestival.com/" target="_blank">www.bayareafunfestival.com</a>
 
-&nbsp;
+ 
