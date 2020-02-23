@@ -37,19 +37,17 @@ Last month, we shared some of <a title="Steven Michael Facebook page" href="http
 
 With over 6,000 graves, <a href="https://plus.google.com/117247192413080128687/about?gl=us&hl=en" target="_blank">Sunset Memorial Park</a> is one of Coos County’s largest and newest cemeteries. The cemetery was established in 1915 when the Marshfield Pioneer Cemetery ran out of room. Several graves were moved from the Marshfield Pioneer Cemetery and re-interred in the Sunset Memorial Park for various reasons.
 
-The southeast corner of the cemetery is dominated by very impressive upright headstones,  several of which are older than the establishment of the cemetery. It is a common practice here to memorialize loved ones with a photo of person buried there. In the Pioneer section of the cemetery, there are three such headstone found where the photo is printed on porcelain. 
+The southeast corner of the cemetery is dominated by very impressive upright headstones,  several of which are older than the establishment of the cemetery. It is a common practice here to memorialize loved ones with a photo of person buried there. In the Pioneer section of the cemetery, there are three such headstone found where the photo is printed on porcelain.
 
- f only a headstone could talk, what would it say? Several headstones “do talk” in the form of an epitaph or inscription. Some epitaph are long, while others are short and to the point like this one found on a very elaborate headstone belonging to Mary A. Stambone who died in 1918. The epitaph reads, “May She Rest In Peace”
+f only a headstone could talk, what would it say? Several headstones “do talk” in the form of an epitaph or inscription. Some epitaph are long, while others are short and to the point like this one found on a very elaborate headstone belonging to Mary A. Stambone who died in 1918. The epitaph reads, “May She Rest In Peace”
 
 Or this simple stone that reads, “At Rest”
 
- One of Coos County’s most famous residents is put to rest here in Sunset Memorial Park Cemetery. His name was Steve Prefontaine, known as “Pre”. Steve was an American middle and long-distance runner who competed in the 1972 Olympics. He was a champion runner who held the American record in seven different distance track events.
+One of Coos County’s most famous residents is put to rest here in Sunset Memorial Park Cemetery. His name was Steve Prefontaine, known as “Pre”. Steve was an American middle and long-distance runner who competed in the 1972 Olympics. He was a champion runner who held the American record in seven different distance track events.
 
 On May 30th, 1975, at the age of 24, Steve tragically died in a single car wreck when he ran his car into a rock wall. His car flipped over and he was not wearing a seat belt. Steve’s blood alcohol level was .16 percent, .6 higher than Oregon’s legal blood alcohol limit. As a result, the cause of death was determined to be alcohol-related. An unfortunate, tragic death taking a life far to soon. Steve Prefontaine’s headstone is the only upright headstone in the section in which he is buried at Sunset Memorial Park. His grave is visited by thousands each year.
 
 Today, the Sunset Memorial Park is mostly a “lawn” cemetery, with a few exceptions. A lawn cemetery when the headstone lay flat, and make it easier for lawn mowing and maintenance. Though most, who don’t have a loved one buried here, find such a cemetery boring or not attractive, one must get out and walk the grounds to discover the hidden flat beauty. It is amazing what you can discover.
-
-Picture
 
 ### Coos River “Pioneer” Cemetery
 
@@ -63,7 +61,7 @@ Dr. William married Lydia Eliza Yoakam on April 7, 1896 in a ceremony officiated
 
 The cemetery has a great mix of different styles of headstones ranging from the large granite cross, belonging to the Horsfall family, to the well preserved decorative headstone throughout. You’ll find several “lawn” style headstones, a few small statues and even a couple of delicate and rarely seen wooden headstones in Coos County.
 
-Even though the Coos River Pioneer Cemetery is still used today, the forces of nature have not been so kind to it resting inhabitants. Ground settling has been a huge problem in some sections of the cemetery. Headstones are tilting left and right, and eventually, gravity will win. There is also a huge infestation of non-native European Ivy that keeps encroaching into the cemetery. Unless measures are taken to preserve such a historic site, nature will win. 
+Even though the Coos River Pioneer Cemetery is still used today, the forces of nature have not been so kind to it resting inhabitants. Ground settling has been a huge problem in some sections of the cemetery. Headstones are tilting left and right, and eventually, gravity will win. There is also a huge infestation of non-native European Ivy that keeps encroaching into the cemetery. Unless measures are taken to preserve such a historic site, nature will win.
 
 The Coos River Pioneer Cemetery is great to visit on warm sunny days. The drive up the river is scenic. The cemetery has big town residents but in a small country setting.
 
