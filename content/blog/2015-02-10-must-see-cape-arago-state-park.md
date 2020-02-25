@@ -6,7 +6,7 @@ author: TravelCoosBay
 layout: post
 guid: http://oregonsadventurecoast.com/?p=64648
 permalink: "/2015/02/must-see-cape-arago-state-park/"
-image: "/wp-content/uploads/2015/02/UwdHdfbPe5qntKgUYWuJ5PYuJI3IRK30VSNrUTb4z74-120x80.jpg"
+image: ''
 blog_category:
 - Local Love
 
