@@ -27,6 +27,7 @@ fields:
     - thank-you
     - travelersinfo
     - lodgingpage
+    - diningpage
     - equipment
     - headless
   label: Layout
