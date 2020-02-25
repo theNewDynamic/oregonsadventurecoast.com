@@ -1,7 +1,7 @@
 ---
 title: Come to Oregon's South Coast for BBQ, Blues & Brews on the Bay this Memorial
   Day Weekend
-date: 2019-04-16 21:00:00 -0700
+date: 2019-04-17T04:00:00.000+00:00
 description: "The Mill Casino will once again bring the best lip-smackin' BBQ, brews
   and smokin' hot tunes on Oregon's Adventure Coast over Memorial Day Weekend, May
   25 - May 27, 2018. If good fun, great music, and tasty BBQ & Brews sound good to
@@ -32,8 +32,6 @@ Coming up on the 8th year, BBQ, Blues & Brews on the Bay has grown to be one of 
 ![](/img/BBQ Blues on the Bay Steven Micheal blog-695x322’.jpg)
 
 ![](/img/BBQ & Blues Crowd blog-695x322’.JPG)![](/img/BBQ_bay_Steven Michael_blog-695x322.jpg)
-
-![](/img/BBQ_Brews_Steven Michael_blog-695x322’.jpg)
 
 ![](/img/BBQ_Blues_MillCasino blog-695x322’.JPG)
 
