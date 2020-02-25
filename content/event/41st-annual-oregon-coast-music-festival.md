@@ -27,6 +27,8 @@ date: '2019-02-10T21:57:25.000+00:00'
 
 Whether a novice or seasoned classical music fan, a very special treat awaits hearing our orchestra live! Their exceptional performances bring audiences back year after year. Go to [Calendar](https://www.oregoncoastmusic.org/calendar-2020/) for details of each concert program. There will be time between events to enjoy the treasures of the spectacular Oregon coast: pristine beaches, succulent seafood, sand dunes, fishing and more!
 
+![](/img/OCMF POSTER.png)
+
 #### **OCMA Orchestra Concerts**
 
 July 21st - 7:30pm – [**Concert I**](http://www.oregoncoastmusic.org/concert-i/) **– _BEETHOVEN, BERNSTEIN, and WILLIAMS_** **-** Marshfield High School Auditorium
