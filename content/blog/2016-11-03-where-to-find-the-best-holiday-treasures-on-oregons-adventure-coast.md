@@ -23,8 +23,6 @@ categories:
 image: ''
 
 ---
-<pre><em>Image Credit: <a href="https://www.facebook.com/cranberrysweets/photos/a.454371154598546.92761.165315903504074/455342334501428/?type=3&theater" target="_blank">Cranberry Sweets via Facebook</a></em></pre>
-
 ### How do you shop for the person who has everything?
 
 You come to Oregon’s South Coast and find the most unique treasures they wouldn’t find anywhere else! There are a bounty of holiday treasures waiting to be discovered right now in locally owned shops throughout Oregon’s South Coast.
@@ -55,21 +53,13 @@ We asked some locals to tell us their favorite places to go holiday shopping, so
 
 **Painted Zebra Boutique** When we asked our Facebook followers for their recommendations, Painted Zebra was heavily endorsed. Stylish clothing, jewelry, handbags, organic lotions and much more for women and juniors. <a href="http://paintedzebraboutique.com/" target="_blank" class="broken_link">www.paintedzebraboutique.com</a>
 
-<img class=" aligncenter" src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/14910514_1232378466822751_7027768947923917319_n.jpg?oh=e02606d5d2ecdc1a58fedee0cb631867&oe=58D3B723" alt="" width="539" height="403" />
-
 **Katrina Kathleen’s Home Decor & Gifts** Home Accents, Holiday Items and Ornaments, Jewelry, Floral, Accessories, Antiques and more. <a href="http://katrinakathleens.com/" target="_blank">www.katrinakathleens.com</a>
-
-<img class=" aligncenter" src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/14915265_1473615085988640_7066123440837702794_n.jpg?oh=9f54d9427e25d94da423519506ac48ba&oe=58CFA597" alt="" width="415" height="553" />
 
 \**Ko-Kwel Gifts **Handcrafted jewelry and bead work, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members. [www.themillcasino.com](http://www.themillcasino.com/)
 
 **Canard Labs**– Shoppers will find amazing and luxurious ways to pamper themselves with decadent soaps, lotions, organic skin care, soothing candles and more. <a href="http://www.canardlabs.com/" target="_blank">www.canardlabs.com</a>
 
-<img class=" aligncenter" src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/14900362_1211509868927764_4758766672615015359_n.jpg?oh=dd50e4d72ee57ea9865378803ef22b90&oe=58CD00D0" alt="" width="471" height="471" />
-
 **Truffles**– A delightful boutique filled to the brim with beautiful gifts, unique women’s apparel and accessories, an adorable children’s area, and an eclectic collection of home decor including lamps, pictures, baskets, furniture, garden decor and so much more! <a href="https://www.facebook.com/trufflescoosbay/" target="_blank">www.facebook.com/trufflescoosbay</a>
-
-<img class=" aligncenter" src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/13516395_1031477490234720_5056519979398315049_n.jpg?oh=07f043eaccccae64aca7535f25cb9b8e&oe=58D50461" alt="" width="416" height="740" />
 
 ### For the History Buff
 
@@ -79,15 +69,11 @@ We asked some locals to tell us their favorite places to go holiday shopping, so
 
 **South Slough Reserve Gift Shop** Great place to find local history, unique gifts made by local artisans, such as walking sticks and leather goods, books about birds, insects, fish, amphibians and mammals and much much more! <a href="http://www.oregon.gov/DSL/SSNERR/Pages/index.aspx" target="_blank">www.oregon.gov</a>
 
-<img class="  wp-image-70981 aligncenter" src="/wp-content/uploads/2016/01/DStore-674x372.jpg" alt="\[D\]Store" width="600" height="331" srcset="/wp-content/uploads/2016/01/DStore-674x372.jpg 674w, /wp-content/uploads/2016/01/DStore-200x110.jpg 200w, /wp-content/uploads/2016/01/DStore.jpg 1050w" sizes="(max-width: 600px) 100vw, 600px" />
-
 ### For the Collector
 
 **Organic Glass Art & Gifts** Traditional crafts and Contemporary Art ranging from Pendants & Ornaments to Pottery & Pipes. Find something for everyone and every budget! <a href="https://www.facebook.com/Organic-Glass-Art-Gifts-159901224041236/timeline" target="_blank">www.facebook.com</a>
 
 **Vintage 101** Antiques and Collectibles with multiple vendors (new business owner and some new vendors – location formerly Black Cat Antique Mall). <a href="https://www.facebook.com/atVintage101/" target="_blank">www.facebook.com/atVintage101</a>
-
-<img class=" aligncenter" src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/13100788_962973103822967_6304827322137343358_n.jpg?oh=4845c247acee9408a52895e3460c871f&oe=588A84D4" alt="" width="519" height="519" />
 
 **Artist Loft Gallery** (inside Pony Village Mall) An artist run gallery featuring about 25 local artists. Works include paintings, jewelry, sculpture, and photography. <a href="http://www.theartistloftgallery.com/" target="_blank">www.theartistloftgallery.com</a>
 
@@ -125,11 +111,7 @@ We asked some locals to tell us their favorite places to go holiday shopping, so
 
 **Tarnished Threads** Home décor and gifts, such as Jewelry, Craft items, Scented wax melts, Decorative warmers, and much more. Housed in Marshfield Bargain House. <a href="https://www.facebook.com/TarnishedThreads/" target="_blank">www.facebook.com/TarnishedThreads</a>
 
-<img class=" aligncenter" src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/14963293_879205762216304_111219577675761106_n.jpg?oh=8400dc62b845f1febd57f1ba57dab60d&oe=588F2B3F" alt="" width="632" height="632" />
-
 **Tru Furniture** Home Décor, Furniture and specialized paints. One Facebook user posts “Her shop is immaculate, everything screams of quality craftsmanship…It’s so nice to see such an amazing, high quality business in Coos Bay. Very impressed”. <a href="http://www.lovetrufurniture.com/" target="_blank">www.lovetrufurniture.com</a>
-
-<img class=" aligncenter" src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/14956439_1285863548144878_6699342287169497433_n.jpg?oh=227536132814793bae7f93589591f9bd&oe=5888C529" alt="" width="590" height="590" />
 
 **Your Space Design** Home Décor and Furniture. “All gifts and merchandise we carry is hand-selected by a designer, giving you a boutique-like shopping experience.” <a href="http://yourspacedesigner.com/" target="_blank">yourspacedesigner.com</a>
 
