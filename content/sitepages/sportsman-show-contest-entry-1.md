@@ -9,7 +9,6 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
-draft: true
 
 ---
 <script type="text/javascript" src="https://form.jotform.com/jsform/200605509348150"></script>
