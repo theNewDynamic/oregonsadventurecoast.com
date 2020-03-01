@@ -1,6 +1,6 @@
 ---
-title: Sportsman Show Contest Entry
-url: sportsman-show-contest
+title: Women's Trade Show Newsletter Sign Up
+url: womens-expo
 layout: headless
 photo: ''
 seo:
@@ -12,4 +12,4 @@ aliases: []
 draft: true
 
 ---
-<script type="text/javascript" src="https://form.jotform.com/jsform/200144740948151"></script>
+<script type="text/javascript" src="https://form.jotform.com/jsform/200605509348150"></script>
