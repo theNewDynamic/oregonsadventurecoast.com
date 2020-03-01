@@ -5,6 +5,11 @@ aliases:
 - "/activities/category/geocaching"
 - "/rob"
 slideshow:
+- title: The Best Girlfriends Getaway!
+  photo: "/img/girlfriends-getaway-home-slider.jpg"
+  title_mobile: Girlfriends Getaway!
+  photo_mobile: "/img/girlfriends-getaway-home-mobile.jpg"
+  url: https://www.oregonsadventurecoast.com/girlfriends/
 - title: Best Storm Watching - Jan/Feb/Mar
   photo: "/img/storm-watching-hm-slider-lg.jpg"
   title_mobile: Best Storm Watching
