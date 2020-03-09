@@ -83,7 +83,7 @@ export default class Lodging {
             
                     <div class="links clearfix">
                         <span class="map"><a href="${mapLink}" target="_blank"><span class="icon"><i class="fas fa-map-marker-alt"></i></span> Map</a></span>
-                        <span class="website"><a href="${val.website}" target="_blank"><span class="icon"><i class="fas fa-globe"></i></span> Website</a></span>
+                        <span class="website ${val.website != '' ? '' : 'hidden'}"><a href="${val.website}" target="_blank"><span class="icon"><i class="fas fa-globe"></i></span> Website</a></span>
                     </div>
                 </div>
             </div>
