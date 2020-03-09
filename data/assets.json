@@ -12,8 +12,8 @@
     "jsIntegrity": "sha256-UKjhuM1rO7mCg0wUdB3NiMjGMFZZys9Z97iyHv885VE="
   },
   "equipment": {
-    "js": "/dist/equipment.e2b5128b67dc7998db17.js",
-    "jsIntegrity": "sha256-53lENd/yZYco9H2y5QcEWurCGkG6LgGrnsiEbkDNvMw="
+    "js": "/dist/equipment.b68d018f66e0543ce188.js",
+    "jsIntegrity": "sha256-6gPdHYpHe3MH0e/e256NKN3LyvU202PHnsLXe9eVbHE="
   },
   "events": {
     "js": "/dist/events.f62509b76f61c2561fea.js",
@@ -24,8 +24,8 @@
     "jsIntegrity": "sha256-gnArUm4kCBbNYO1GItJ/zhlOIlNC0wMijcQYnuEdPL0="
   },
   "lodging": {
-    "js": "/dist/lodging.b139c25542c099d768db.js",
-    "jsIntegrity": "sha256-g1jKwtEbasCC7NSEyVR4GyGUpzKq233pjwHLbu3Uf+s="
+    "js": "/dist/lodging.d03b4c7e63c20c7a9012.js",
+    "jsIntegrity": "sha256-XPuw9Ik3uFnQgv9neC5nHQxB/FWYgZ/3QLEByTjPJlY="
   },
   "main": {
     "js": "/dist/main.10d65ab9a1f72c7ff592.js",
@@ -36,7 +36,7 @@
     "jsIntegrity": "sha256-U6KauDEZ9G+fgtY3nkUND+IvtH/ln5Vc2Ad/YmcerL8="
   },
   "tourcharters": {
-    "js": "/dist/tourcharters.b29f6220476bebf1cfd8.js",
-    "jsIntegrity": "sha256-346YSqFKiB6Y0VHxl/v4r6GCBLgjyuRpDTXqOBtt7fk="
+    "js": "/dist/tourcharters.9e44949760ff711ff84e.js",
+    "jsIntegrity": "sha256-ZDxsWs8M7jtFzfTbZleEuzZV8UPwrYzyk7lznbmApHo="
   }
 }
