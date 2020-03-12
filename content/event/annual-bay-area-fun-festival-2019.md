@@ -1,18 +1,18 @@
 ---
-title: Annual Bay Area Fun Festival 2019
+title: Annual Bay Area Fun Festival 2020
 aliases:
-  - /event/annual-bay-area-fun-festival-2019/*
+- "/event/annual-bay-area-fun-festival-2019/*"
 photo: "/img/events-runners-header.jpg"
 largeboxphoto: "/img/bay-area-fun-fest-large.jpg"
 mediumboxphoto: "/img/bay-area-fun-fest-medium.jpg"
 smallboxphoto: "/img/bay-area-fun-fest-small.jpg"
-desktoptitle: Bay Area Fun Festival 2019
+desktoptitle: Bay Area Fun Festival 2020
 mobiletitle: Bay Area Fun Festival
 hovertitle: Annual Bay Fun Fun Festival
 hoverdescription: Famous Cruz the Coos vintage autos, Prefontaine Memorial Run, K-DOCK
   RockFest & Parade.
-startdate: '2019-09-21'
-enddate: '2019-09-22'
+startdate: '2020-09-19'
+enddate: '2020-09-20'
 address:
   city: Coos Bay
   state: Oregon
@@ -31,7 +31,7 @@ Summer may be winding down, but the fun is just beginning here on the South Coas
 
 Thousands of locals and visitors from afar come to enjoy the sights, sounds and tastes of this popular festival. Highlights include live entertainment, the famous Cruz the Coos featuring nearly 500 vintage automobiles, the Prefontaine Memorial Run, a parade and much more.
 
-The K-DOCK RockFest features a full weekend of live local musicians including Toyz, CRBQ, Aurora, Timberwolf, and Border Patrol. Bring a lawn chair and join us for great music all weekend long.
+The K-DOCK RockFest features a full weekend of live local musicians (band TBD). Bring a lawn chair and join us for great music all weekend long.
 
 Visitors will also enjoy a variety of vendors, arts and crafts and lots of different kinds of food along with a beer & wine garden.
 
