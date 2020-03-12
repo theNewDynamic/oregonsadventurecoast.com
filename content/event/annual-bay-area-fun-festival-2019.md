@@ -1,7 +1,7 @@
 ---
 title: Annual Bay Area Fun Festival 2020
 aliases:
-- "/event/annual-bay-area-fun-festival-2019/*"
+- "/event/annual-bay-area-fun-festival-2020/*"
 photo: "/img/events-runners-header.jpg"
 largeboxphoto: "/img/bay-area-fun-fest-large.jpg"
 mediumboxphoto: "/img/bay-area-fun-fest-medium.jpg"
@@ -31,7 +31,7 @@ Summer may be winding down, but the fun is just beginning here on the South Coas
 
 Thousands of locals and visitors from afar come to enjoy the sights, sounds and tastes of this popular festival. Highlights include live entertainment, the famous Cruz the Coos featuring nearly 500 vintage automobiles, the Prefontaine Memorial Run, a parade and much more.
 
-The K-DOCK RockFest features a full weekend of live local musicians (band TBD). Bring a lawn chair and join us for great music all weekend long.
+The K-DOCK RockFest features a full weekend of live local musicians (band. Bring a lawn chair and join us for great music all weekend long.
 
 Visitors will also enjoy a variety of vendors, arts and crafts and lots of different kinds of food along with a beer & wine garden.
 
