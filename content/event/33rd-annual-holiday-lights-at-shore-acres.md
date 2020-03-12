@@ -1,5 +1,5 @@
 ---
-title: 33rd Annual Holiday Lights at Shore Acres
+title: 34th Annual Holiday Lights at Shore Acres
 aliases:
 - "/holidaylights"
 - "/HolidayLights"
@@ -7,12 +7,12 @@ photo: "/img/shore-acres-holiday-lights-header.jpg"
 largeboxphoto: "/img/holiday-lights-large.jpg"
 mediumboxphoto: "/img/holiday-lights-medium.jpg"
 smallboxphoto: "/img/holiday-lights-small.jpg"
-desktoptitle: 33rd Annual Holiday Lights at Shore Acres
+desktoptitle: 34th Annual Holiday Lights at Shore Acres
 mobiletitle: Shore Acres Holiday Lights
 hovertitle: Bright & Beautiful Holiday Lights
 hoverdescription: Don't Miss 325,000 Holiday Lights at Shore Acres State Park
-startdate: '2019-11-28'
-enddate: '2019-12-31'
+startdate: '2020-11-26'
+enddate: '2020-12-31'
 address:
   city: Charleston
   state: OR
@@ -27,11 +27,11 @@ website: http://shoreacres.net/
 
 {{< floatimage src="/img/Holiday-Lights-Logo-320px.png" float="right" alt="Annual Holiday Lights at Shore Acres State Park in Charleston, Oregon" size="100" >}}
 
-The brightest and most beautiful place on the West Coast shines as brightly as ever in 2019.
+The brightest and most beautiful place on the West Coast shines as brightly as ever in 2020.
 
 Famous for its beautiful 7 acre botanical gardens and Japanese lily pond, Shore Acres shines with over a quarter million lights, animated displays, Santa, choirs, and more. A holiday tradition for the whole family.
 
-This festive annual display debuts on Thanksgiving Day (Thursday, November 28th) and will light up Shore Acres from 4 p.m.-9:30 p.m. each night (including Dec 24th & 25th) thru December 31st.
+This festive annual display debuts on Thanksgiving Day (Thursday, November 26th) and will light up Shore Acres State Park from 4 p.m.-9:30 p.m. each night (including Dec 24th & 25th) thru December 31st.
 
 {{< youtube "oMwQeDRya7o" >}}
 <br>
@@ -50,8 +50,7 @@ _(Waiting line of cars likely, especially on a dry night)_
 
 **Traffic is heavy between 6:00pm-8:00pm**
 
-**Sundays through Thursdays are less busy.**  
-**_Bonus_**: Park rangers will randomly select one vehicle coming by the booth after 3pm each Sunday through Thursday to win an OPRD-branded gift or an annual parking pass!
+**Sundays through Thursdays are less busy.**
 
 **There is less traffic on rainy nights and the lights are beautiful in the rain!**
 
