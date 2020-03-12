@@ -25,8 +25,6 @@ website: https://bayareafunfestival.com/
 ---
 {{< floatimage src="/img/bay-area-fun-fest-large.jpg" float="none" alt="People At Bay Area Fun Fest" size="68" >}}
 
-{{< floatimage src="/img/bay-area-fun-festival-2019-flyer.jpg" float="right" alt="Bay Area Fun Festival Poster" size="80" >}}
-
 Summer may be winding down, but the fun is just beginning here on the South Coast! The Bay Area Fun Festival, also known as the greatest last party of the summer, happens here in Coos Bay and surrounding areas the third weekend in September.
 
 Thousands of locals and visitors from afar come to enjoy the sights, sounds and tastes of this popular festival. Highlights include live entertainment, the famous Cruz the Coos featuring nearly 500 vintage automobiles, the Prefontaine Memorial Run, a parade and much more.
