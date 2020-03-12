@@ -21,6 +21,7 @@ seo:
   imgalt: 'Mill Casino Food Truck Off '
 
 ---
+![](/img/2020_Food_Truck Logo-simple-online.jpg)
 
 **Enjoy a 3-day event featuring food trucks, live music and more.**
 
