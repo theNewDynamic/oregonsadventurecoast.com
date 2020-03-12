@@ -7,8 +7,8 @@ smallboxphoto: "/img/clambake-music-fest-small-02.jpg"
 desktoptitle: South Coast Clambake Music Fest - CANCELLED
 mobiletitle: Clambake Music Fest - CANCELLED
 hovertitle: Clambake Music Festival - CANCELLED
-hoverdescription: The Clambake Music Festival features incredible music that ranges
-  from traditional jazz to 50’s rock!
+hoverdescription: CANCELLED - The Clambake Music Festival features incredible music
+  that ranges from traditional jazz to 50’s rock!
 startdate: '2020-03-13'
 enddate: '2020-03-15'
 address:
