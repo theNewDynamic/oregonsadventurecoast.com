@@ -21,7 +21,7 @@ seo:
   imgalt: 'Mill Casino Food Truck Off '
 
 ---
-![](/img/2020_Food_Truck Logo-simple-online.jpg)
+![](/img/2008_Food_Truck_Off_FB-generalpublic.jpg)
 
 **Enjoy a 3-day event featuring food trucks, live music and more.**
 
@@ -34,3 +34,5 @@ Saturday, August 1 – Noon – 6 pm
 Sunday, August 2 – 11 am – 4 pm
 
 **More information coming soon!**
+
+![](/img/2020_Food_Truck Logo-simple-online.png)
