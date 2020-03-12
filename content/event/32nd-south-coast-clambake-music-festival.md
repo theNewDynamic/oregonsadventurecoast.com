@@ -1,5 +1,5 @@
 ---
-title: South Coast Clambake Music Festival
+title: South Coast Clambake Music Festival -CANCELLED
 photo: "/img/clambake-music-fest-header-03.jpg"
 largeboxphoto: "/img/clambake-music-fest-large.jpg"
 mediumboxphoto: "/img/clambake-music-fest-medium-03.jpg"
@@ -32,6 +32,8 @@ seo:
 ---
 {{< floatimage src="/img/southcoast-clambake-music-fest-logo.jpg" float="right" alt="Annual South Coast Clambake Music Festival" size="100" >}}
 
+**Due to directives from Governor Kate Brown, the South Coast Clambake Music Festival for 2020 has been CANCELLED.**
+
 Polish up those dancin’ shoes and get ready for the exciting musical extravaganza known as the South Coast Clambake Music Festival! The Clambake Music Festival features incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco! Dancers and music enthusiasts from up and down the West Coast, visit each year, as the Clambake Music Festival has developed a reputation as a favorite.
 
 ![Annual South Coast Clambake Music Festival](/img/clambake-music-v03-695x322.jpg)
@@ -46,7 +48,7 @@ Enjoy the Alpha, Rhythm Kings, Black Market Trust, the Dave Bennett Quartet, Ell
 
 Festivities begin on Thursday, March 12th with a Warm Up Concert. Doors open at 6.
 
-For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks! Visit the website for details: [ClambakeJazz.com](https://clambakejazz.com). 
+For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks! Visit the website for details: [ClambakeJazz.com](https://clambakejazz.com).
 
 ![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-music-v02-695x322.jpg)
 
