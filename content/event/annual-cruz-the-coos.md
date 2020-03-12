@@ -4,13 +4,13 @@ photo: "/img/events-runners-header.jpg"
 largeboxphoto: "/img/cruz-the-coos-large.jpg"
 mediumboxphoto: "/img/cruz-the-coos-medium.jpg"
 smallboxphoto: "/img/cruz-the-coos-small.jpg"
-desktoptitle: 33rd Annual Cruz The Coos
+desktoptitle: Annual Cruz The Coos
 mobiletitle: Cruz The Coos
 hovertitle: Cruz The Coos
 hoverdescription: One of the longest-running and largest classic car cruises on the
   Oregon Coast
-startdate: '2019-09-21'
-enddate: '2019-09-21'
+startdate: '2020-09-19'
+enddate: '2020-09-19'
 address:
   city: Coos Bay
   state: OR
@@ -32,7 +32,7 @@ This event is part of the annual Bay Area Fun Festival!
 
 {{< columns number="2" >}}
 
-[![Annual Bay Area Fun Festival](/img/bay-area-fun-festival-column.jpg)](/event/annual-bay-area-fun-festival-2019/)
+[![Annual Bay Area Fun Festival](/img/bay-area-fun-festival-column.jpg)](/event/annual-bay-area-fun-festival-2020/)
 
 \++++
 
