@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Information
 url: "/covid-19"
-layout: headless
+layout: our-area
 photo: ''
 seo:
   title: ''
