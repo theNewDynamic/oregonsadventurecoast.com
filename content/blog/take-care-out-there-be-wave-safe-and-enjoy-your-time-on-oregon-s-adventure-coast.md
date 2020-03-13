@@ -42,10 +42,8 @@ There’s no place quite like Oregon’s Adventure Coast, it’s truly one of th
 
 <h3>“Take Care Out There”</h3> Travel Oregon has launched a new campaign, [Take Care Out There](https://traveloregon.com/things-to-do/outdoor-recreation/take-care-out-there/), to help promote responsible recreation in Oregon and ensure outdoor opportunities for health, connection and joy for generations to come. Watch how Travel Oregon encourages visitors to stay safe by following these simple rules: Prepare. Care. Connect.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/lRnBnUFkXAc](https://www.youtube.com/embed/lRnBnUFkXAc "https://www.youtube.com/embed/lRnBnUFkXAc")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "lRnBnUFkXAc" >}}
 
 <h3>“Be Wave Safe”</h3> The National Weather Service has also issued a series of “Wave Safe” [educational resources](https://www.weather.gov/safety/ripcurrent-waves) and videos like the one below to keep people and their pets “Wave Safe” on Oregon’s beaches.
-
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/qov7nqD3z04](https://www.youtube.com/embed/lRnBnUFkXAc "https://www.youtube.com/embed/lRnBnUFkXAc")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In addition to these guidelines, most state parks and public beaches will post rules and regulations that are very important to follow. We want you to enjoy the natural treasures throughout Oregon’s Adventure Coast, but more importantly, we want you to stay safe. And remember “Never turn your back on the ocean.”
