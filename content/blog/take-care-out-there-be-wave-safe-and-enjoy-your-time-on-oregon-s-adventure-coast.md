@@ -41,7 +41,8 @@ There’s no place quite like Oregon’s Adventure Coast, it’s truly one of th
 <h3>“Never ever turn your back on the ocean.”</h3> 
 Sadly, if one is not careful, what should be a peaceful day by the sea could suddenly turn deadly without warning. Now that spring is upon us, it’s more important than ever to remind our visitors to avoid potential dangers by following some common-sense guidelines to keep you and your family safe and to preserve our wildlife and outdoor spaces on Oregon’s Adventure Coast so others may enjoy them too. We have outlined some tips to keep you, your loved ones and your pets safe when visiting Coos Bay, North Bend and Charleston in our post [Eight Ways to Stay Safe on the Beaches Along the Oregon Coast _](https://www.oregonsadventurecoast.com/blog/eight-ways-to-stay-safe-on-the-beaches-along-the-oregon-coast/)(please read it and share it!). Stay alert! [Sneaker Waves](https://www.oregonlive.com/pacific-northwest-news/2019/03/sneaker-waves-on-the-oregon-coast-5-things-you-need-to-know-to-stay-safe.html) are a real thing, and they can be deadly.
 
-<h3>“Take Care Out There”</h3> Travel Oregon has launched a new campaign, [Take Care Out There](https://traveloregon.com/things-to-do/outdoor-recreation/take-care-out-there/), to help promote responsible recreation in Oregon and ensure outdoor opportunities for health, connection and joy for generations to come. Watch how Travel Oregon encourages visitors to stay safe by following these simple rules: Prepare. Care. Connect.
+<h3>“Take Care Out There”</h3>
+Travel Oregon has launched a new campaign, [Take Care Out There](https://traveloregon.com/things-to-do/outdoor-recreation/take-care-out-there/), to help promote responsible recreation in Oregon and ensure outdoor opportunities for health, connection and joy for generations to come. Watch how Travel Oregon encourages visitors to stay safe by following these simple rules: Prepare. Care. Connect.
 
 {{< youtube "lRnBnUFkXAc" >}}
 
@@ -51,4 +52,3 @@ The National Weather Service has also issued a series of “Wave Safe” [educat
 {{< youtube "qov7nqD3z04" >}}
 
 In addition to these guidelines, most state parks and public beaches will post rules and regulations that are very important to follow. We want you to enjoy the natural treasures throughout Oregon’s Adventure Coast, but more importantly, we want you to stay safe. And remember “Never turn your back on the ocean.”
-
