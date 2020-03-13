@@ -12,9 +12,9 @@ aliases: []
 draft: true
 
 ---
-**As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect our community and visitors.**
+**As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors.**
 
-In these uncertain times, we want our residents and visitors to know that Coos Bay, North Bend and Charleston area attractions, activities, restaurants and hotels are open and functioning normally at this time. We welcome visitors to Oregon's Adventure Coast. 
+In these uncertain times, we want our residents and visitors to know that Coos Bay, North Bend and Charleston area attractions, activities, restaurants and hotels are open and functioning normally at this time. 
 
 **Our attractions, restaurants, and accommodations are taking additional measures to ensure a clean, safe experience.** Our tourism industry is feeling the impact of this pandemic with cancellations of events and room nights. We encourage visitors and locals to enjoy our amenities, but also continue to take safety measures while doing so.
 
@@ -28,3 +28,5 @@ We are closely monitoring the Coronavirus (COVID-19) pandemic as it relates to o
 **Our top priority is the safety, health, and well-being of our community, its residents, and visitors.** Federal public health officials have repeated frequently that it is safe for healthy people to travel in the U.S. We encourage the traveling public to seek and heed the latest expert guidance, and to make fact-based travel decisions.
 
 This is a rapidly evolving situation that changes by the hour and there is a lot of uncertainty. We strongly encourage residents and travelers to always follow public health authorities’ recommendations above all else.
+
+**If you choose to travel, we welcome you. If you choose to stay home at this time, we look forward to seeing you in the future.**
