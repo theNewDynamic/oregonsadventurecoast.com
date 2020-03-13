@@ -2,7 +2,7 @@
 title: COVID-19 Information
 url: "/covid-19"
 layout: our-area
-photo: ''
+photo: "/img/corona-virus-header.jpg"
 seo:
   title: ''
   description: ''
