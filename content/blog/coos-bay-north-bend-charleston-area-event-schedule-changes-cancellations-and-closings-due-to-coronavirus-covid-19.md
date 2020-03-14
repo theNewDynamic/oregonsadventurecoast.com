@@ -3,7 +3,7 @@ title: Coos Bay - North Bend- Charleston Area Event Schedule Changes, Cancellati
   and Closings Due to Coronavirus (COVID-19)
 date: 2020-03-13T04:00:00.000+00:00
 description: ''
-image: ''
+image: "/img/coronavirus-695x322.jpg"
 tags: []
 categories: []
 seo:
