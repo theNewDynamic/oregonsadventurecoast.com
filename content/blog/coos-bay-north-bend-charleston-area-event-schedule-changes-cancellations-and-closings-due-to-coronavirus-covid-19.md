@@ -23,17 +23,20 @@ Due to the directive issued by Governor Kate Brown on 3/11/2020 in conjunction w
 **Canceled:** South Coast Clambake Music Festival March 13-15, 2020
 **Canceled:** CCCCA presents Sail On - The Beach Boys Tribute March 18, 2020
 **Canceled:** The Goonies 35th Anniversary Screening - Coos Bay
- March 21, 2020
+March 21, 2020
 **Canceled:** The ORIGINAL Brews & Giggles 6th Annual Beer & Comedy Night
- April 4, 2020
-**Canceled:** Ah Shucks! 15th Annual Charleston Oyster Feed originally scheduled for Apr 25, 2020 
+April 4, 2020
+**Canceled:** Ah Shucks! 15th Annual Charleston Oyster Feed originally scheduled for Apr 25, 2020
 **Canceled:** April 7th First Tuesday Talk at the Coos History Museum
 
 **Spring 2020 Whale Watch Week Update:** No volunteers will be stationed for the spring Whale Watch Week, set March 21-29, to help slow the spread of COVID-19. Oregon State Parks made this decision to protect the health and safety of our volunteers and visitors. However, you can still enjoy this spring break tradition on your own.
 
 **Temporary closures as of 3/13/2020**
-The Coos History Museum will close for 2 weeks
-Charleston Marine Life Center will be closed for 2 weeks
+The following attractions will be CLOSED Monday, March 16th through the end of the month.
+Charleston Marine Life Center  
+Coos History Museum  
+Coos Bay Public Library  
+North Bend Public Library
 
 **Rescheduled:** North Bend Sip n Stroll rescheduled for May 15, 2020 **Rescheduled:** 007 Black Tie Event- fundraiser for Liberty Theatre rescheduled for June 25, 2020
 
