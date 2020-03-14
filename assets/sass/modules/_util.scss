@@ -13,9 +13,10 @@
     }
 }
 .m-util .inner {
-    width: 370px;
+    max-width: 1070px;
     margin: 0 auto;
-    padding-left: 700px;
+    display: flex;
+    justify-content: flex-end;
 }
 .m-util .inner-bg {
     background: rgba(12,56,96,.5);
