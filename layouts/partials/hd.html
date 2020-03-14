@@ -12,6 +12,9 @@
 			<div class="fade"></div>
 				<div class="m-social social">
 					<ul>
+						{{ with site.GetPage "/covid-19-information" }}
+						<li><a href="{{ .RelPermalink }}" class="emergency">Coronavirus update</a></li>
+						{{ end }}
 						<li><a href="https://www.facebook.com/OregonsAdventureCoast" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
 						<li><a href="https://twitter.com/travelcoosbay" target="_blank"><i class="fab fa-twitter"></i></a></li>
 						<li><a href="https://www.instagram.com/travelcoosbay/" target="_blank"><i class="fab fa-instagram"></i></a></li>
@@ -102,6 +105,9 @@
 				<li class="press"><a href="/press-media-industry/">Press, Media &amp; Industry</a></li>
 				<li><a href="/contact/">Contact</a></li>
 				<li><a href="/blog/">Blog</a></li>
+				{{ with site.GetPage "/covid-19-information" }}
+				<li><a href="{{ .RelPermalink }}" class="emergency">Coronavirus update</a></li>
+				{{ end }}
 			</ul>
 
 			<div class="mobile-social">
