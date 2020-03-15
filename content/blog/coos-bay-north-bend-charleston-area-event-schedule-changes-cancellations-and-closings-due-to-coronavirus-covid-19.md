@@ -1,7 +1,8 @@
 ---
 title: Coos Bay - North Bend- Charleston Area Cancellations and Closings Due to COVID-19
 date: 2020-03-13T04:00:00+00:00
-description: ''
+description: Keeping residents and visitors updated on changes during this rapidly
+  evolving situation.
 image: "/img/OAC-Logo-2018.jpg"
 tags: []
 categories: []
@@ -21,13 +22,9 @@ Due to the directive issued by Governor Kate Brown on 3/11/2020 in conjunction w
 
 **Canceled:** South Coast Clambake Music Festival March 13-15, 2020<br>
 **Canceled:** CCCCA presents Sail On - The Beach Boys Tribute March 18, 2020<br>
-**Canceled:** The Goonies 35th Anniversary Screening - Coos Bay
-March 21, 2020<br>
-**Canceled:** The Goonies 35th Anniversary Screening - Coos Bay March 21, 2020<br>
-**Canceled:** Coos Bay North Bend Rotary Club Wine Walk- April 3, 2020<br>
+**Canceled:** The Goonies 35th Anniversary Screening - Coos Bay March 21, 2020<br> **Canceled:** Coos Bay North Bend Rotary Club Wine Walk- April 3, 2020<br>
 **Canceled:** The ORIGINAL Brews & Giggles 6th Annual Beer & Comedy Night April 4, 2020<br>
-**Canceled:** April 7th First Tuesday Talk at the Coos History Museum<br>
-**Canceled:** Ah Shucks! 15th Annual Charleston Oyster Feed originally scheduled for Apr 25, 2020<br>
+**Canceled:** First Tuesday Talk at the Coos History Museum April, 2020<br> **Canceled:** Ah Shucks! 15th Annual Charleston Oyster Feed April 25, 2020<br>
 
 **Spring 2020 Whale Watch Week Update:** No volunteers will be stationed for the spring Whale Watch Week, set March 21-29, to help slow the spread of COVID-19. Oregon State Parks made this decision to protect the health and safety of our volunteers and visitors. However, you can still enjoy this spring break tradition on your own.
 
