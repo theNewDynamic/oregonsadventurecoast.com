@@ -18,6 +18,7 @@ address:
 phone_toll_free: ''
 phone_local: 541-888-4582
 website: ''
+draft: true
 
 ---
 **Due to directives from Governor Kate Brown and the University of Oregon, the Ah Shucks Oyster Feed for 2020 has been CANCELLED.**
