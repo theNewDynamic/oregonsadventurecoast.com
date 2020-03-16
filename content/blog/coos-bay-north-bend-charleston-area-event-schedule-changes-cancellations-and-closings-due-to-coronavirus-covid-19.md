@@ -14,7 +14,7 @@ seo:
 aliases: []
 
 ---
-_*Last Updated 4:33 p.m. PST March 14th_
+_*Last Updated 2:15 p.m. PST March 16th_
 
 **We want our residents and visitors to know that most Coos Bay, North Bend and Charleston area attractions, activities, restaurants and hotels are open for business and functioning normally at this time. Our attractions, restaurants, and accommodations are taking additional measures to ensure a clean, safe experience.**
 
@@ -28,12 +28,12 @@ Due to the directive issued by Governor Kate Brown on 3/11/2020 in conjunction w
 
 **Spring 2020 Whale Watch Week Update:** No volunteers will be stationed for the spring Whale Watch Week, set March 21-29, to help slow the spread of COVID-19. Oregon State Parks made this decision to protect the health and safety of our volunteers and visitors. However, you can still enjoy this spring break tradition on your own.
 
-**Temporary closures as of 3/13/2020**
-The following attractions will be CLOSED Monday, March 16th through the end of the month.<br>
-Charleston Marine Life Center  
+**Temporary closures as of 3/13/2020** The following attractions will be CLOSED Monday, March 16th through the end of the month.<br> Charleston Marine Life Center  
 Coos History Museum  
 Coos Bay Public Library  
-North Bend Public Library
+North Bend Public Library  
+Coos Bay Visitor Center  
+North Bend Visitor Center
 
 **Rescheduled:** North Bend Sip n Stroll rescheduled for May 15, 2020<br>
 **Rescheduled:** 007 Black Tie Event- fundraiser for Liberty Theatre rescheduled for June 25, 2020
