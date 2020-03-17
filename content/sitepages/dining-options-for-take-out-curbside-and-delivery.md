@@ -39,7 +39,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Kaffe 101**](http://kaffe101.com/)- Take-out and curbside delivery of regular food and beverage menu. For curbside pickup, call ahead (541) 267-4894
 
-[**Lillie Family Market**]() - online ordering at [www.lilliefamilymarket.com](http://www.lilliefamilymarket.com/?fbclid=IwAR2FOQ_V7aubWPY9zVLbY2k4BlA_zaJu6mOrOqISBeZgtlSeBEiZ_qw4wps) Phone: 541-756-3838
+[**Lillie Family Market**](http://www.lilliefamilymarket.com) - online ordering at [www.lilliefamilymarket.com](http://www.lilliefamilymarket.com/?fbclid=IwAR2FOQ_V7aubWPY9zVLbY2k4BlA_zaJu6mOrOqISBeZgtlSeBEiZ_qw4wps) Phone: 541-756-3838
 
 [**Margarita’s Mexican Grill**](https://www.facebook.com/Margaritas-mexican-grill-209792999040540/) - Order by phone and pick up through Drive Thru Window of regular menu
 
