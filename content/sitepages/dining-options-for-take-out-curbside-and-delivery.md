@@ -55,6 +55,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Pancake Mill**](https://www.pancakemill.com/) - Take-out of regular menu breakfast and lunch menu. Phone: (541) 756-2751
 
+[**Restaurant O**](http://www.restauranto.us/) - Take-out of a limited menu from 4pm - 7:30pm. 20% discount on orders over $20. Phone: (541) 808-9300
+
 [**Shake 'N Burger**](https://www.facebook.com/Shake-N-Burger-589936737695886/) - Pick up, Drive Thru and Curbside order pick up. Phone: (541) 808-9013
 
 [**Scoops Handmade Ice Cream**](https://scoops.life/) - Curbside pickup available. Phone ahead.
