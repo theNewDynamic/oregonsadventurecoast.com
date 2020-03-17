@@ -11,11 +11,15 @@ seo:
 aliases: []
 
 ---
+**_Updated 1:30pm, March 17, 2020_**
+
 Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurants and bars to close seated dining services and instead offer Take-Out, Curbside, or Delivery services, we have compiled a list of Coos Bay, North Bend and Charleston restaurants, coffee shops, and bars offering these services. This list will be updated as establishments alert us of their plans.
 
 #### We encourage our visitors and residents to support our local businesses!
 
 [**7 Devils Brewery**](https://www.7devilsbrewery.com/) - Take-out of their regular menu
+
+[**Abby’s Pizza**](https://abbys.com/) - Delivery and curbside togo orders only 541-267-5839
 
 [**Alder Smokehouse**](https://www.facebook.com/thealdersmokehouse/) - Take-out of regular menu. Curbside pick up from 11-3. Call or Text (541) 756-9599
 
@@ -26,6 +30,10 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 [**Bayside Coffee, Charleston**](http://www.baysidecoffeeshop.com/) - Takeout and curbside delivery of coffee drinks and pastries. Order drinks, ground coffee or beans ahead and pick up curbside (541) 260-3742
 
 [**Blue Heron Bistro**](http://www.blueheronbistro.net/) - Take-out, curbside and delivery of family style meals
+
+[**Bungalow Market & Deli**](https://www.facebook.com/Bungalow-Market-Deli-282965688442/) - Regular hours and to go operations.
+
+[**Buzz**](https://www.facebook.com/ponyvillagebuzz/) - Pick up and delivery of regular menu
 
 [**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - Curbside & Delivery Service Phone: (541) 808-9500
 
@@ -58,6 +66,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 [**Wildflour Cafe**](https://www.wildflour-catering.com/wildflour-cafe) - Curbside and Take-out of regular menu and family meals
 
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted:
+
+**Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags
 
 **Ciccarelli's Restaurant**, North Bend
 
