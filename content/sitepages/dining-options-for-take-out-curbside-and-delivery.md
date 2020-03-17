@@ -33,7 +33,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Domino’s Pizza CB**](https://www.dominos.com/) (2 locations) - Online ordering, contactless delivery and take-out. Half priced pizzas ordered online.
 
-[**Elkhorn BBQ Food Truck **](https://www.facebook.com/elkhornbbq/)- Check Facebook for daily location, usually at the Coos Bay Fast Mart
+[**Elkhorn BBQ Food Truck**](https://www.facebook.com/elkhornbbq/) - Check Facebook for daily location, usually at the Coos Bay Fast Mart
 
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420
 
