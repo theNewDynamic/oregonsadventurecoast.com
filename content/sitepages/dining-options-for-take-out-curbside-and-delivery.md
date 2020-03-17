@@ -51,7 +51,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Margarita’s Mexican Grill**](https://www.facebook.com/Margaritas-mexican-grill-209792999040540/) - Order by phone and pick up through Drive Thru Window of regular menu
 
-[**Noster Kitchen**](https://nosterkitchen.com/) - Takeout available [www.nosterkitchen.com/menu](http://www.nosterkitchen.com/menu?fbclid=IwAR3jpx1_zpUzdJxvKEjupUnTvLnkLkFr7n2cbZEIzPiYtXu1osG-HpJ4u_A) or call (541) 808-3999
+[**Noster Kitchen**](https://nosterkitchen.com/) - Takeout available [www.nosterkitchen.com/menu](http://www.nosterkitchen.com/menu?fbclid=IwAR3jpx1_zpUzdJxvKEjupUnTvLnkLkFr7n2cbZEIzPiYtXu1osG-HpJ4u_A) or call (541) 808-3999, temporary hours 10:30am - 2pm
 
 [**Pancake Mill**](https://www.pancakemill.com/) - Take-out of regular menu breakfast and lunch menu. Phone: (541) 756-2751
 
