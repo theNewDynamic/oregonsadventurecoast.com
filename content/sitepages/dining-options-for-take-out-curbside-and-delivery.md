@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated 1:30pm, March 17, 2020_**
+**_Updated 4:30pm, March 17, 2020_**
 
 Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurants and bars to close seated dining services and instead offer Take-Out, Curbside, or Delivery services, we have compiled a list of Coos Bay, North Bend and Charleston restaurants, coffee shops, and bars offering these services. This list will be updated as establishments alert us of their plans.
 
@@ -58,6 +58,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 [**Restaurant O**](https://www.facebook.com/RestaurantO/) - Take-out of a limited menu from 4pm - 7:30pm. 20% discount on orders over $20. Phone: (541) 808-9300
 
 [**Shake 'N Burger**](https://www.facebook.com/Shake-N-Burger-589936737695886/) - Pick up, Drive Thru and Curbside order pick up. Phone: (541) 808-9013
+
+[**Shark Bites Cafe**](http://www.sharkbites.cafe/) - Take-out of full menu. Phone: (541) 269-7475
 
 [**Scoops Handmade Ice Cream**](https://scoops.life/) - Curbside pickup available. Phone ahead.
 
