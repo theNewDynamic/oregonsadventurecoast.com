@@ -25,7 +25,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Bayside Coffee, Charleston**](http://www.baysidecoffeeshop.com/) - Takeout and curbside delivery of coffee drinks and pastries. Order drinks, ground coffee or beans ahead and pick up curbside (541) 260-3742
 
-[**Blue Heron Bistro**](http://www.blueheronbistro.net/) - Take-out, curbside and delivery of family style meals 
+[**Blue Heron Bistro**](http://www.blueheronbistro.net/) - Take-out, curbside and delivery of family style meals
 
 [**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - Curbside & Delivery Service Phone: (541) 808-9500
 
@@ -33,7 +33,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Domino’s Pizza CB**](https://www.dominos.com/) (2 locations) - Online ordering, contactless delivery and take-out. Half priced pizzas ordered online.
 
-[**Elkhorn BBQ Food Truck **](https://www.facebook.com/elkhornbbq/)- Check Facebook for daily location, usually at the Coos Bay Fast Mart 
+[**Elkhorn BBQ Food Truck **](https://www.facebook.com/elkhornbbq/)- Check Facebook for daily location, usually at the Coos Bay Fast Mart
 
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420
 
