@@ -14,9 +14,8 @@ seo:
 aliases: []
 
 ---
-_*Last Updated 2:15 p.m. PST March 16th_
-
-**We want our residents and visitors to know that most Coos Bay, North Bend and Charleston area attractions, activities, restaurants and hotels are open for business and functioning normally at this time. Our attractions, restaurants, and accommodations are taking additional measures to ensure a clean, safe experience.**
+_*Last Updated 5:00 p.m. PST March 17, 2020  
+_**We want our residents and visitors to know that most Coos Bay, North Bend and Charleston area attractions, activities, restaurants and hotels are open for business and functioning normally at this time. Our attractions, restaurants, and accommodations are taking additional measures to ensure a clean, safe experience.**
 
 Due to the directive issued by Governor Kate Brown on 3/11/2020 in conjunction with the COVID 19 virus outbreak, there are some event cancellations, closings and schedule changes that may impact our and residents and visitors. Please note that this situation is evolving rapidly and we will do our best to post the most up-to-date information possible.
 
@@ -33,7 +32,9 @@ Coos History Museum
 Coos Bay Public Library  
 North Bend Public Library  
 Coos Bay Visitor Center  
-North Bend Visitor Center
+North Bend Visitor Center  
+North Bend Municipal Swimming Pool  
+Mingus Park Pool
 
 **Rescheduled:** North Bend Sip n Stroll rescheduled for May 15, 2020<br>
 **Rescheduled:** 007 Black Tie Event- fundraiser for Liberty Theatre rescheduled for June 25, 2020
