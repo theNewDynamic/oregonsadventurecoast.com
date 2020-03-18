@@ -27,15 +27,16 @@ Due to the directive issued by Governor Kate Brown on 3/11/2020 in conjunction w
 
 **Spring 2020 Whale Watch Week Update:** No volunteers will be stationed for the spring Whale Watch Week, set March 21-29, to help slow the spread of COVID-19. Oregon State Parks made this decision to protect the health and safety of our volunteers and visitors. However, you can still enjoy this spring break tradition on your own.
 
-**Temporary Closures:** The following attractions will be CLOSED Monday, March 16th through at least the end of the month.<br> Charleston Marine Life Center  
-Coos History Museum  
-Coos Art Museum  
-Coos Bay Public Library  
-North Bend Public Library  
-Coos Bay Visitor Center  
-North Bend Visitor Center  
-North Bend Municipal Swimming Pool  
-Mingus Park Pool
+**Temporary Closures:** The following attractions will be CLOSED Monday, March 16th through at least the end of the month.<br> Charleston Marine Life Center<br>  
+Coos History Museum<br>  
+Coos Art Museum<br>  
+Coos Bay Public Library<br>  
+North Bend Public Library<br>  
+Coos Bay Visitor Center<br>  
+North Bend Visitor Center<br>  
+North Bend Municipal Swimming Pool<br>  
+Mingus Park Pool<br>  
+Pony Village Cinema<br>
 
 **Rescheduled:** North Bend Sip n Stroll rescheduled for May 15, 2020<br>
 **Rescheduled:** 007 Black Tie Event- fundraiser for Liberty Theatre rescheduled for June 25, 2020
