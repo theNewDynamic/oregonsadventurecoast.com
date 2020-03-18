@@ -23,7 +23,7 @@ Due to the directive issued by Governor Kate Brown on 3/11/2020 in conjunction w
 **Canceled:** CCCCA presents Sail On - The Beach Boys Tribute March 18, 2020<br>
 **Canceled:** The Goonies 35th Anniversary Screening - Coos Bay March 21, 2020<br> **Canceled:** Coos Bay North Bend Rotary Club Wine Walk- April 3, 2020<br>
 **Canceled:** The ORIGINAL Brews & Giggles 6th Annual Beer & Comedy Night April 4, 2020<br>
-**Canceled:** First Tuesday Talk at the Coos History Museum April, 2020<br> **Canceled:** Ah Shucks! 15th Annual Charleston Oyster Feed April 25, 2020<br>
+**Canceled:** First Tuesday Talk at the Coos History Museum April, 2020<br> **Canceled:** Ah Shucks! 15th Annual Charleston Oyster Feed April 25, 2020<br>**Rescheduled:** North Bend Sip n Stroll rescheduled for May 15, 2020<br> **Rescheduled:** 007 Black Tie Event- fundraiser for Liberty Theatre rescheduled for June 25, 2020
 
 **Spring 2020 Whale Watch Week Update:** No volunteers will be stationed for the spring Whale Watch Week, set March 21-29, to help slow the spread of COVID-19. Oregon State Parks made this decision to protect the health and safety of our volunteers and visitors. However, you can still enjoy this spring break tradition on your own.
 
@@ -38,8 +38,8 @@ North Bend Municipal Swimming Pool<br>
 Mingus Park Pool<br>  
 Pony Village Cinema<br>
 
-**Rescheduled:** North Bend Sip n Stroll rescheduled for May 15, 2020<br>
-**Rescheduled:** 007 Black Tie Event- fundraiser for Liberty Theatre rescheduled for June 25, 2020
+**Other Changes:** The following have slight changes to their normal operations.  
+[**North Bend Lanes**](https://www.facebook.com/northbendlanes/) - canceling league bowling for 4 weeks; will have public bowling for small groups.
 
 **As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors.**
 
