@@ -39,17 +39,27 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**The Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - Take-out with curbside pickup (541) 267-5116 from 11-7 (M-Sa) 11-4 (Su)
 
+[**Dishner's Restaurant**](https://www.facebook.com/Dishners2881/) - Take-out of their  full menu. Phone: (541) 756-2881
+
 [**Domino’s Pizza CB**](https://www.dominos.com/) (2 locations) - Online ordering, contactless delivery and take-out. Half priced pizzas ordered online.
 
 [**Elkhorn BBQ Food Truck**](https://www.facebook.com/elkhornbbq/) - Check Facebook for daily location, usually at the Coos Bay Fast Mart
 
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420
 
+[**Gino's Pizza**](https://ginospizzainn.com/) - Delivery of pizza. Phone: (541) 756-5000
+
+[**Hilltop House Restaurant**](https://hilltophouserestaurant.com/) - Call in orders 7 days a week. Phone: (541) 756-4160
+
 [**Kaffe 101**](http://kaffe101.com/)- Take-out and curbside pickup of regular food and beverage menu. For curbside pickup, call ahead (541) 267-4894
 
 [**Kozy Kitche**](https://www.facebook.com/Kozykitchendiners/)n - Take-out and curbside pickup of Ready to Go meals. See their Facebook page for more information
 
 [**Lillie Family Market**](http://www.lilliefamilymarket.com) - online ordering at [www.lilliefamilymarket.com](http://www.lilliefamilymarket.com/?fbclid=IwAR2FOQ_V7aubWPY9zVLbY2k4BlA_zaJu6mOrOqISBeZgtlSeBEiZ_qw4wps) Phone: 541-756-3838
+
+[**Little Caesars**](https://littlecaesars.com/en-us/) - Coos Bay and North Bend - Hot-N-Ready Pizzas and more available 11am-9pm Daily. Phone: CB 541-266-9595, NB 541-756-5656
+
+[**Little Italy**](http://littleitalycoosbay.com/) - Take-out of their regular menu. They are offering a 15% discount. Phone: 541-808-2200
 
 [**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - In Pony Village Mall, take-out of full menu
 
