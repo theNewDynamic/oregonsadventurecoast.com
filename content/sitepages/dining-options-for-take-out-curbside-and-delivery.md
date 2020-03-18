@@ -37,6 +37,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - Curbside & Delivery Service Phone: (541) 808-9500
 
+[**Captain's Choice NB**](http://www.captainschoicefishhouse.com/) - Order ahead and pick up in lobby or call when you arrive and they'll deliver to your car. Phone (541) 756-0125
+
 [**The Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - Take-out with curbside pickup (541) 267-5116 from 11-7 (M-Sa) 11-4 (Su)
 
 [**Dishner's Restaurant**](https://www.facebook.com/Dishners2881/) - Take-out of their  full menu. Phone: (541) 756-2881
