@@ -47,6 +47,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Elkhorn BBQ Food Truck**](https://www.facebook.com/elkhornbbq/) - Check Facebook for daily location, usually at the Coos Bay Fast Mart
 
+[**E Z Thai**](https://www.ez-thai.com/) - Take-out during its normal business hours
+
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420
 
 [**Gino's Pizza**](https://ginospizzainn.com/) - Delivery of pizza. Phone: (541) 756-5000
@@ -79,6 +81,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Scoops Handmade Ice Cream**](https://scoops.life/) - Curbside pickup available. Phone ahead.
 
+[**Sumin’s Restaurant and Sushi Bar**](https://suminscoosbay.com/) - Take-out during its normal business hours
+
 [**Tokyo Bistro**](https://www.tokyocoosbay.com/) - Curbside pickup available.
 
 [**Top Dog Espresso**](https://www.facebook.com/TopDogCoffeeCompany) - Drive thru and curbside delivery. Call ahead (541) 808-3200 for quick service
@@ -100,3 +104,5 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 **Sizzler**, North Bend
 
 **So It Goes Coffeehouse**, Coos Bay
+
+Mean Street Sandwiches, and Green Street Organic Juice Bar will be offering takeout. Mean Street is open Tuesday through Saturday from 10:30 a.m. to 5 p.m. and Green Street is open from 7 a.m. to 3p.m. Curbside pickup is available.
