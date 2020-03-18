@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated 4:30pm, March 17, 2020_**
+**_Updated 4:30pm PST, March 17, 2020_**
 
 Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurants and bars to close seated dining services and instead offer Take-Out, Curbside, or Delivery services, we have compiled a list of Coos Bay, North Bend and Charleston restaurants, coffee shops, and bars offering these services. This list will be updated as establishments alert us of their plans.
 
@@ -68,6 +68,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 [**Vinny's Smokin' Good Burgers**](https://www.facebook.com/vinnyssmokinburgers/) - Take-out of regular menu. Phone: (541) 756-2221
 
 [**Wildflour Cafe**](https://www.wildflour-catering.com/wildflour-cafe) - Curbside and Take-out of regular menu and family meals
+
+[**Yeong's Place**](https://www.facebook.com/Yeongs-Place-Restaurant-1424336541200886/?__tn__=kCH-R&eid=ARCd5onDbXfjGBuHiOksZDaOPKPRIGJDcOjclJPb4I4NEcGRf_VzWr0ZuvHZ92lyY-nSzG-ehsZyU9ts&hc_ref=ARTN9S0xAypLp9rAvgpUQ7SHXR6akR8soLi_6rrUi8oTmbJr3sRD0X32QMB362f3x84&fref=nf&__xts__\[0\]=68.ARDs87eFZngddnIemSmoRaVxQI9RDMMwNYe05saCE3UmS0J2P3O34H0Bd1qWUivaF1U6JLUzlh-g9TLioYeE8qMsekcJ3-aDoXdUdiUJ8ShWApvWSNtNa3WyaEarZ6ObXrj5gdFIjkpqzr0I9hEMCDANErORP_tGoXucknVusVOMUF73WiC_8kq4aHZUUEDaLrQVcFQO68DwpURmh4uTOpN8Ci7I984aO-z_piYgieW9ds0ZY5MyQuVgG6SMPy-DorlMAupdGo59NYhwQnQRRJB39rIU-3yKDAo6XoyuA2NZ_D_F3Ol9TLbx4bRXkHyYlGru15AIZpEobACzoyB_xLaAldCLFCeDPgybXuBZbvyt63GnrtFB) - Take-out of regular menu. Phone: (541) 756-1914
 
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted:
 
