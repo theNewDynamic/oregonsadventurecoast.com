@@ -42,7 +42,8 @@ Pony Village Cinema
 
 **Other Changes:** The following have slight changes to their normal operations.  
 [**North Bend Lanes**](https://www.facebook.com/northbendlanes/) - canceling league bowling for 4 weeks; will have public bowling for small groups.  
-[**Josie's Art Lab**](https://www.facebook.com/Josies-Art-Lab-216155035404818/) - offering painting kits and online video instruction. 
+[**Josie's Art Lab**](https://www.facebook.com/Josies-Art-Lab-216155035404818/) - offering painting kits and online video instruction.  
+[**The Pottery Company**](https://www.facebook.com/The-Pottery-Co-161842183873942/) - offering paint to-go pottery kits.
 
 **As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors.**
 
