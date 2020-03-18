@@ -125,7 +125,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 **FAST FOOD** - all fast food with drive through windows are open for pick up though the drive through only.
 
-#### Restaurants Temporarily Closing until the restrictions on seated dining are lifted:
+#### Restaurants Temporarily Closing until the restrictions on seated dining are lifted: (we will update these as information is provided)
 
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags
 
@@ -139,7 +139,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 **High Tide**, Charleston
 
-**Saw Blade Buffet** at The Mill Casino Hotel & RV Park, North Bend
+**Saw Blade Buffet, Plankhouse, Timbers, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend
 
 **Sizzler**, North Bend
 
