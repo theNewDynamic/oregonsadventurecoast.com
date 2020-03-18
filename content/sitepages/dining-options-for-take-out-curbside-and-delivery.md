@@ -73,6 +73,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Kozy Kitche**](https://www.facebook.com/Kozykitchendiners/)n - Take-out and curbside pickup of Ready to Go meals. See their Facebook page for more information
 
+[**Liberty Pub**](https://www.thelibpub.com/) - Take-out and curbside pickup with Call ahead order
+
 [**Lillie Family Market**](http://www.lilliefamilymarket.com) - online ordering at [www.lilliefamilymarket.com](http://www.lilliefamilymarket.com/?fbclid=IwAR2FOQ_V7aubWPY9zVLbY2k4BlA_zaJu6mOrOqISBeZgtlSeBEiZ_qw4wps) Phone: 541-756-3838
 
 [**Little Caesars**](https://littlecaesars.com/en-us/) - Coos Bay and North Bend - Hot-N-Ready Pizzas and more available 11am-9pm Daily. Phone: CB 541-266-9595, NB 541-756-5656
