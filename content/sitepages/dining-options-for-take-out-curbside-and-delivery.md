@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated 9:00am PST, March 18, 2020_**
+**_Updated 1:00pm PST, March 18, 2020_**
 
 Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurants and bars to close seated dining services and instead offer Take-Out, Curbside, or Delivery services, we have compiled a list of Coos Bay, North Bend and Charleston restaurants, coffee shops, and bars offering these services. This list will be updated as establishments alert us of their plans.
 
@@ -131,12 +131,6 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 **Ciccarelli's Restaurant**, North Bend
 
-**Saw Blade Buffet** at The Mill Casino Hotel & RV Park, North Bend
-
-**Sizzler**, North Bend
-
-**So It Goes Coffeehouse**, Coos Bay
-
 **Captains Cabin**, Coos Bay
 
 **Coney Station**, Coos Bay
@@ -144,3 +138,9 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 **Gooney’s**, Coos Bay
 
 **High Tide**, Charleston
+
+**Saw Blade Buffet** at The Mill Casino Hotel & RV Park, North Bend
+
+**Sizzler**, North Bend
+
+**So It Goes Coffeehouse**, Coos Bay
