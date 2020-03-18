@@ -23,6 +23,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Alder Smokehouse**](https://www.facebook.com/thealdersmokehouse/) - Take-out of regular menu. Curbside pick up from 11-3. Call or Text (541) 756-9599
 
+[**Angelina’s Mexican Restaurant**](https://www.facebook.com/bestmexicanfoodintown/) - Call ahead for ToGo orders
+
 [**Back Alley Pub at North Bend Lanes**](https://northbendlanes.com/bar-grill/) - Bowling for small parties. Food available for take out. Call (541) 756-0571
 
 [**Bay Burger Inn**](https://www.facebook.com/Bay-Burger-Inn-Praus-Haus-111732925528842/) - Drive through or call in your order 541-888-3688
@@ -37,9 +39,19 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - Curbside & Delivery Service Phone: (541) 808-9500
 
+[**Cafe Mediterranean**](https://cafemediterranean.net/) - Take-out and curbside pick up available
+
+[**Cape Cafe**](https://www.facebook.com/pages/category/Restaurant/The-Cape-Cafe-2132250007095994/) - Take-out and Drive up window
+
 [**Captain's Choice NB**](http://www.captainschoicefishhouse.com/) - Order ahead and pick up in lobby or call when you arrive and they'll deliver to your car. Phone (541) 756-0125
 
+[**City Subs**](https://www.citysubs1.com/) - Take-out, must call ahead, (541)269-9000
+
+[**Clausen’s Deli**](https://www.clausenoysters.com/restaurant/) - no prepared food, still open to sell fresh oysters regular hours
+
 [**The Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - Take-out with curbside pickup (541) 267-5116 from 11-7 (M-Sa) 11-4 (Su)
+
+**Dave’s Pizza** - Delivery and take-out of regular menu, (541) 269-1010
 
 [**Dishner's Restaurant**](https://www.facebook.com/Dishners2881/) - Take-out of their  full menu. Phone: (541) 756-2881
 
@@ -48,6 +60,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 [**Elkhorn BBQ Food Truck**](https://www.facebook.com/elkhornbbq/) - Check Facebook for daily location, usually at the Coos Bay Fast Mart
 
 [**E Z Thai**](https://www.ez-thai.com/) - Take-out during its normal business hours
+
+[**Fisherman’s Grotto**](https://www.fishermansgrottoinc.com/) - Take-out and curbside pickup with call ahead orders
 
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420
 
@@ -66,6 +80,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 [**Little Italy**](http://littleitalycoosbay.com/) - Take-out of their regular menu. They are offering a 15% discount. Phone: 541-808-2200
 
 [**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - In Pony Village Mall, take-out of full menu
+
+[**Lucky Star**](http://www.luckystarnorthbend.com/) - Take-out with call ahead orders and delivery within city limits (bunker hill to NB Bridge and out to Empire)
 
 [**Margarita’s Mexican Grill**](https://www.facebook.com/Margaritas-mexican-grill-209792999040540/) - Order by phone and pick up through Drive Thru Window of regular menu
 
@@ -105,6 +121,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Zen Authentic Thai and Sushi Bar**](https://zenthaisushi.com/) - Take-out only of their full menu
 
+**FAST FOOD** - all fast food with drive through windows are open for pick up though the drive through only.
+
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted:
 
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags
@@ -116,3 +134,11 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 **Sizzler**, North Bend
 
 **So It Goes Coffeehouse**, Coos Bay
+
+**Captains Cabin**, Coos Bay
+
+**Coney Station**, Coos Bay
+
+**Gooney’s**, Coos Bay
+
+**High Tide**, Charleston
