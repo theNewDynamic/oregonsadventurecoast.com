@@ -75,6 +75,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Pancake Mill**](https://www.pancakemill.com/) - Take-out of regular menu breakfast and lunch menu. Phone: (541) 756-2751
 
+[**Portside**](http://www.portsidebythebay.com/) - Take-out full menu and if you call ahead they will have it ready and will bring out the back door to your car
+
 [**Restaurant O**](https://www.facebook.com/RestaurantO/) - Take-out of a limited menu from 4pm - 7:30pm. 20% discount on orders over $20. Phone: (541) 808-9300
 
 [**Shake 'N Burger**](https://www.facebook.com/Shake-N-Burger-589936737695886/) - Pick up, Drive Thru and Curbside order pick up. Phone: (541) 808-9013
@@ -85,15 +87,23 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Sumin’s Restaurant and Sushi Bar**](https://suminscoosbay.com/) - Take-out during its normal business hours
 
+[**Tai’s Dynasty**](http://taidynasty.com/) - Take-out, curbside pick up of full menu. Hours 11:00am-8:00pm
+
+[**Tin Thistle**](https://www.facebook.com/thetinthistlecafe/) - Take-out, curbside pick up of full menu
+
 [**Tokyo Bistro**](https://www.tokyocoosbay.com/) - Curbside pickup available.
 
 [**Top Dog Espresso**](https://www.facebook.com/TopDogCoffeeCompany) - Drive thru and curbside delivery. Call ahead (541) 808-3200 for quick service
 
 [**Vinny's Smokin' Good Burgers**](https://www.facebook.com/vinnyssmokinburgers/) - Take-out of regular menu. Phone: (541) 756-2221
 
+[**Walt’s Pourhouse**](https://www.facebook.com/waltspourhouse/) - Take-out, curbside, and limited delivery of a slightly modified menu and take-out beer. Open 11:00-8:00
+
 [**Wildflour Cafe**](https://www.wildflour-catering.com/wildflour-cafe) - Curbside and Take-out of regular menu and family meals
 
 [**Yeong's Place**](https://www.facebook.com/Yeongs-Place-Restaurant-1424336541200886/?__tn__=kCH-R&eid=ARCd5onDbXfjGBuHiOksZDaOPKPRIGJDcOjclJPb4I4NEcGRf_VzWr0ZuvHZ92lyY-nSzG-ehsZyU9ts&hc_ref=ARTN9S0xAypLp9rAvgpUQ7SHXR6akR8soLi_6rrUi8oTmbJr3sRD0X32QMB362f3x84&fref=nf&__xts__%5B0%5D=68.ARDs87eFZngddnIemSmoRaVxQI9RDMMwNYe05saCE3UmS0J2P3O34H0Bd1qWUivaF1U6JLUzlh-g9TLioYeE8qMsekcJ3-aDoXdUdiUJ8ShWApvWSNtNa3WyaEarZ6ObXrj5gdFIjkpqzr0I9hEMCDANErORP_tGoXucknVusVOMUF73WiC_8kq4aHZUUEDaLrQVcFQO68DwpURmh4uTOpN8Ci7I984aO-z_piYgieW9ds0ZY5MyQuVgG6SMPy-DorlMAupdGo59NYhwQnQRRJB39rIU-3yKDAo6XoyuA2NZ_D_F3Ol9TLbx4bRXkHyYlGru15AIZpEobACzoyB_xLaAldCLFCeDPgybXuBZbvyt63GnrtFB) - Take-out of regular menu. Phone: (541) 756-1914
+
+[**Zen Authentic Thai and Sushi Bar**](https://zenthaisushi.com/) - Take-out only of their full menu
 
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted:
 
