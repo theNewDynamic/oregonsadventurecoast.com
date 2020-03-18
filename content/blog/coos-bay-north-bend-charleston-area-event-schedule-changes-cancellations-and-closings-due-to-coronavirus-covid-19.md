@@ -41,6 +41,8 @@ Mingus Park Pool
 Pony Village Cinema  
 The Mill Casino * Hotel & RV Park (7 days beginning March 19)
 
+**From the U.S. Forest Service** - **Campgrounds at the Oregon Dunes National Recreation Area have been closed through April 14, 2020**, including Horsfall, Horsfall Beach, Spinreel, and Driftwood II. These campgrounds are unique in their design; rather than a typical family campground with individual sites separated by vegetation, these OHV campgrounds look more like parking lots where larger groups form tight circles of trailers and campers. During busy times, such as spring break weeks, these campgrounds often have a crowded, festival-like atmosphere. Existing reservations through April 14 have been canceled and fully refunded and new reservations before April 14 will not be accepted. 
+
 **Other Changes:** The following have slight changes to their normal operations.  
 [**North Bend Lanes**](https://www.facebook.com/northbendlanes/) - canceling league bowling for 4 weeks; will have public bowling for small groups.  
 [**Josie's Art Lab**](https://www.facebook.com/Josies-Art-Lab-216155035404818/) - offering painting kits and online video instruction.  
