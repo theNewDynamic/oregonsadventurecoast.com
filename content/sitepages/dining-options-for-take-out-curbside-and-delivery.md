@@ -45,9 +45,13 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420
 
-[**Kaffe 101**](http://kaffe101.com/)- Take-out and curbside delivery of regular food and beverage menu. For curbside pickup, call ahead (541) 267-4894
+[**Kaffe 101**](http://kaffe101.com/)- Take-out and curbside pickup of regular food and beverage menu. For curbside pickup, call ahead (541) 267-4894
+
+[**Kozy Kitche**](https://www.facebook.com/Kozykitchendiners/)n - Take-out and curbside pickup of Ready to Go meals. See their Facebook page for more information
 
 [**Lillie Family Market**](http://www.lilliefamilymarket.com) - online ordering at [www.lilliefamilymarket.com](http://www.lilliefamilymarket.com/?fbclid=IwAR2FOQ_V7aubWPY9zVLbY2k4BlA_zaJu6mOrOqISBeZgtlSeBEiZ_qw4wps) Phone: 541-756-3838
+
+[**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - In Pony Village Mall, take-out of full menu
 
 [**Margarita’s Mexican Grill**](https://www.facebook.com/Margaritas-mexican-grill-209792999040540/) - Order by phone and pick up through Drive Thru Window of regular menu
 
@@ -63,13 +67,15 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Scoops Handmade Ice Cream**](https://scoops.life/) - Curbside pickup available. Phone ahead.
 
+[**Tokyo Bistro**](https://www.tokyocoosbay.com/) - Curbside pickup available.
+
 [**Top Dog Espresso**](https://www.facebook.com/TopDogCoffeeCompany) - Drive thru and curbside delivery. Call ahead (541) 808-3200 for quick service
 
 [**Vinny's Smokin' Good Burgers**](https://www.facebook.com/vinnyssmokinburgers/) - Take-out of regular menu. Phone: (541) 756-2221
 
 [**Wildflour Cafe**](https://www.wildflour-catering.com/wildflour-cafe) - Curbside and Take-out of regular menu and family meals
 
-[**Yeong's Place**](https://www.facebook.com/Yeongs-Place-Restaurant-1424336541200886/?__tn__=kCH-R&eid=ARCd5onDbXfjGBuHiOksZDaOPKPRIGJDcOjclJPb4I4NEcGRf_VzWr0ZuvHZ92lyY-nSzG-ehsZyU9ts&hc_ref=ARTN9S0xAypLp9rAvgpUQ7SHXR6akR8soLi_6rrUi8oTmbJr3sRD0X32QMB362f3x84&fref=nf&__xts__\[0\]=68.ARDs87eFZngddnIemSmoRaVxQI9RDMMwNYe05saCE3UmS0J2P3O34H0Bd1qWUivaF1U6JLUzlh-g9TLioYeE8qMsekcJ3-aDoXdUdiUJ8ShWApvWSNtNa3WyaEarZ6ObXrj5gdFIjkpqzr0I9hEMCDANErORP_tGoXucknVusVOMUF73WiC_8kq4aHZUUEDaLrQVcFQO68DwpURmh4uTOpN8Ci7I984aO-z_piYgieW9ds0ZY5MyQuVgG6SMPy-DorlMAupdGo59NYhwQnQRRJB39rIU-3yKDAo6XoyuA2NZ_D_F3Ol9TLbx4bRXkHyYlGru15AIZpEobACzoyB_xLaAldCLFCeDPgybXuBZbvyt63GnrtFB) - Take-out of regular menu. Phone: (541) 756-1914
+[**Yeong's Place**](https://www.facebook.com/Yeongs-Place-Restaurant-1424336541200886/?__tn__=kCH-R&eid=ARCd5onDbXfjGBuHiOksZDaOPKPRIGJDcOjclJPb4I4NEcGRf_VzWr0ZuvHZ92lyY-nSzG-ehsZyU9ts&hc_ref=ARTN9S0xAypLp9rAvgpUQ7SHXR6akR8soLi_6rrUi8oTmbJr3sRD0X32QMB362f3x84&fref=nf&__xts__%5B0%5D=68.ARDs87eFZngddnIemSmoRaVxQI9RDMMwNYe05saCE3UmS0J2P3O34H0Bd1qWUivaF1U6JLUzlh-g9TLioYeE8qMsekcJ3-aDoXdUdiUJ8ShWApvWSNtNa3WyaEarZ6ObXrj5gdFIjkpqzr0I9hEMCDANErORP_tGoXucknVusVOMUF73WiC_8kq4aHZUUEDaLrQVcFQO68DwpURmh4uTOpN8Ci7I984aO-z_piYgieW9ds0ZY5MyQuVgG6SMPy-DorlMAupdGo59NYhwQnQRRJB39rIU-3yKDAo6XoyuA2NZ_D_F3Ol9TLbx4bRXkHyYlGru15AIZpEobACzoyB_xLaAldCLFCeDPgybXuBZbvyt63GnrtFB) - Take-out of regular menu. Phone: (541) 756-1914
 
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted:
 
