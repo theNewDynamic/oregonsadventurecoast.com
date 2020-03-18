@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated 4:30pm PST, March 17, 2020_**
+**_Updated 9:00am PST, March 18, 2020_**
 
 Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurants and bars to close seated dining services and instead offer Take-Out, Curbside, or Delivery services, we have compiled a list of Coos Bay, North Bend and Charleston restaurants, coffee shops, and bars offering these services. This list will be updated as establishments alert us of their plans.
 
