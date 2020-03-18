@@ -38,7 +38,8 @@ Coos Bay Visitor Center
 North Bend Visitor Center  
 North Bend Municipal Swimming Pool  
 Mingus Park Pool  
-Pony Village Cinema
+Pony Village Cinema  
+The Mill Casino * Hotel & RV Park (7 days beginning March 19)
 
 **Other Changes:** The following have slight changes to their normal operations.  
 [**North Bend Lanes**](https://www.facebook.com/northbendlanes/) - canceling league bowling for 4 weeks; will have public bowling for small groups.  
