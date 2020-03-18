@@ -14,8 +14,9 @@ seo:
 aliases: []
 
 ---
-_*Last Updated 5:00 p.m. PST March 17, 2020  
-_**We want our residents and visitors to know that most Coos Bay, North Bend and Charleston area attractions, activities, restaurants and hotels are open for business and functioning normally at this time. Our attractions, restaurants, and accommodations are taking additional measures to ensure a clean, safe experience.**
+Last Updated 8:30 a.m. PST March 18, 2020
+
+**We want our residents and visitors to know that most Coos Bay, North Bend and Charleston area attractions, activities, restaurants and hotels are open for business and functioning normally at this time. Our attractions, restaurants, and accommodations are taking additional measures to ensure a clean, safe experience.**
 
 Due to the directive issued by Governor Kate Brown on 3/11/2020 in conjunction with the COVID 19 virus outbreak, there are some event cancellations, closings and schedule changes that may impact our and residents and visitors. Please note that this situation is evolving rapidly and we will do our best to post the most up-to-date information possible.
 
@@ -27,16 +28,16 @@ Due to the directive issued by Governor Kate Brown on 3/11/2020 in conjunction w
 
 **Spring 2020 Whale Watch Week Update:** No volunteers will be stationed for the spring Whale Watch Week, set March 21-29, to help slow the spread of COVID-19. Oregon State Parks made this decision to protect the health and safety of our volunteers and visitors. However, you can still enjoy this spring break tradition on your own.
 
-**Temporary Closures:** The following attractions will be CLOSED Monday, March 16th through at least the end of the month.<br> Charleston Marine Life Center<br>  
-Coos History Museum<br>  
-Coos Art Museum<br>  
-Coos Bay Public Library<br>  
-North Bend Public Library<br>  
-Coos Bay Visitor Center<br>  
-North Bend Visitor Center<br>  
-North Bend Municipal Swimming Pool<br>  
-Mingus Park Pool<br>  
-Pony Village Cinema<br>
+**Temporary Closures:** The following attractions will be CLOSED Monday, March 16th through at least the end of the month.<br> Charleston Marine Life Center  
+Coos History Museum  
+Coos Art Museum  
+Coos Bay Public Library  
+North Bend Public Library  
+Coos Bay Visitor Center  
+North Bend Visitor Center  
+North Bend Municipal Swimming Pool  
+Mingus Park Pool  
+Pony Village Cinema
 
 **Other Changes:** The following have slight changes to their normal operations.  
 [**North Bend Lanes**](https://www.facebook.com/northbendlanes/) - canceling league bowling for 4 weeks; will have public bowling for small groups.
