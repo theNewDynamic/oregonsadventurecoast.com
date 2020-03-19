@@ -19,8 +19,6 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 #### We encourage our visitors and residents to support our local businesses! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
 
-[**7 Devils Brewery**](https://www.7devilsbrewery.com/) - Take-out of their regular menu (Thursday, March 9th until 3pm)
-
 [**Abby’s Pizza**](https://abbys.com/) - Delivery and curbside togo orders only 541-267-5839
 
 [**Alder Smokehouse**](https://www.facebook.com/thealdersmokehouse/) - Take-out of regular menu. Curbside pick up from 11-3. Call or Text (541) 756-9599
@@ -136,6 +134,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 **FAST FOOD** - all fast food with drive through windows are open for pick up though the drive through only.
 
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted: (we will update these as information is provided)
+
+**7 Devils Brewery**
 
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags
 
