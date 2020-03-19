@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated 2:00pm PST, March 18, 2020_**
+**_Updated 9:30am PST, March 19, 2020_**
 
 Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurants and bars to close seated dining services and instead offer Take-Out, Curbside, or Delivery services, we have compiled a list of Coos Bay, North Bend and Charleston restaurants, coffee shops, and bars offering these services. This list will be updated as establishments alert us of their plans.
 
@@ -67,13 +67,11 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Gino's Pizza**](https://ginospizzainn.com/) - Delivery of pizza. Phone: (541) 756-5000
 
-[**Hilltop House Restaurant**](https://hilltophouserestaurant.com/) - Call in orders 7 days a week. Phone: (541) 756-4160
-
 [**Kaffe 101**](http://kaffe101.com/)- Take-out and curbside pickup of regular food and beverage menu. For curbside pickup, call ahead (541) 267-4894
 
 [**Kozy Kitche**](https://www.facebook.com/Kozykitchendiners/)n - Take-out and curbside pickup of Ready to Go meals. See their Facebook page for more information
 
-[**Liberty Pub**](https://www.thelibpub.com/) - Take-out and curbside pickup with Call ahead order
+[**La Herradura**](https://www.facebook.com/La-Herradura-Mexican-Restaurant-632773200099437/) - Take-out and delivery available on regular menu 541-756-0906
 
 [**Lillie Family Market**](http://www.lilliefamilymarket.com) - online ordering at [www.lilliefamilymarket.com](http://www.lilliefamilymarket.com/?fbclid=IwAR2FOQ_V7aubWPY9zVLbY2k4BlA_zaJu6mOrOqISBeZgtlSeBEiZ_qw4wps) Phone: 541-756-3838
 
@@ -85,9 +83,15 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Lucky Star**](http://www.luckystarnorthbend.com/) - Take-out with call ahead orders and delivery within city limits (bunker hill to NB Bridge and out to Empire)
 
+[**Luigi’s**](https://www.facebook.com/Luigis-Italian-Sandwiches-140543963550/) - Take-out only with call ahead order
+
+[**Maria’s Authentic Mexican**](https://www.facebook.com/Marias-Authentic-Mexican-Restaurant-217216079032178/) - Delivery and curbside service available
+
 [**Margarita’s Mexican Grill**](https://www.facebook.com/Margaritas-mexican-grill-209792999040540/) - Order by phone and pick up through Drive Thru Window of regular menu
 
 [**Mean Street Sandwiches, and Green Street Organic Juice Bar**](https://www.facebook.com/MeanStreetCoosBay/) - Take-out and curbside pickup is available.
+
+[**Momiji’s Sushi**](https://www.momijiinc.com/north-bend) - Take-out or delivery available with call ahead order
 
 [**Noster Kitchen**](https://nosterkitchen.com/) - Takeout available [www.nosterkitchen.com/menu](http://www.nosterkitchen.com/menu?fbclid=IwAR3jpx1_zpUzdJxvKEjupUnTvLnkLkFr7n2cbZEIzPiYtXu1osG-HpJ4u_A) or call (541) 808-3999, temporary hours 10:30am - 2pm
 
@@ -140,6 +144,14 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 **Gooney’s**, Coos Bay
 
 **High Tide**, Charleston
+
+**Hilltop House Restaurant**
+
+**Liberty Pub**
+
+**Monkey Business** - has not yet opened for the season
+
+**Outdoor Inn**
 
 **Saw Blade Buffet, Plankhouse, Timbers, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend
 
