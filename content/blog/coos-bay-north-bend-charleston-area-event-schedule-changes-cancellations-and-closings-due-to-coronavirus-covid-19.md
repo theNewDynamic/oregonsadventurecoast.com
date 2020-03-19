@@ -15,9 +15,11 @@ seo:
 aliases: []
 
 ---
-Last Updated 6:30 p.m. PST March 18, 2020
+_Last Updated 9:30 a.m. PST March 19, 2020_
 
 **We want our residents and visitors to know that most Coos Bay, North Bend and Charleston area attractions, activities, restaurants and hotels are open for business and functioning normally at this time. Our attractions, restaurants, and accommodations are taking additional measures to ensure a clean, safe experience.**
+
+[**For a list of restaurants offering take-out, curbside pickup or delivery, click here**](/dining-options-takeout/)**.**
 
 Due to the directive issued by Governor Kate Brown on 3/11/2020 in conjunction with the COVID 19 virus outbreak, there are some event cancellations, closings and schedule changes that may impact our and residents and visitors. Please note that this situation is evolving rapidly and we will do our best to post the most up-to-date information possible.
 
