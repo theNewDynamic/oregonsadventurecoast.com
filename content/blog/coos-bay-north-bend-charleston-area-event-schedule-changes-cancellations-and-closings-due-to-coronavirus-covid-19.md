@@ -42,6 +42,7 @@ North Bend Municipal Swimming Pool
 Mingus Park Pool  
 Pony Village Cinema  
 North Bend Lanes  
+Painted Zebra Boutique  
 The Mill Casino * Hotel & RV Park (7 days beginning March 19)  
 Three Rivers Casino Coos Bay (Until April 1st)  
 South Slough Interpretive Center, Public Restrooms and events through April 30
