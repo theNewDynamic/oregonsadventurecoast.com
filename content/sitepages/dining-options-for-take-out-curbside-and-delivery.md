@@ -11,9 +11,11 @@ seo:
 aliases: []
 
 ---
-**_Updated 11:30am PST, March 19, 2020_**
+**_Updated 5:00pm PST, March 19, 2020_**
 
 Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurants and bars to close seated dining services and instead offer Take-Out, Curbside, or Delivery services, we have compiled a list of Coos Bay, North Bend and Charleston restaurants, coffee shops, and bars offering these services. This list will be updated as establishments alert us of their plans.
+
+**_PLEASE REMEMBER THAT THESE ESTABLISHMENTS CANNOT SERVE YOU ANYWHERE ON THEIR PREMISES - DECKS, PATIOS, PARKING LOTS - THEY CAN ONLY SERVE TO GO ORDERS TO BE TAKEN AWAY FROM THE BUSINESS TO BE CONSUMED. - OLCC_**
 
 #### We encourage our visitors and residents to support our local businesses! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
 
