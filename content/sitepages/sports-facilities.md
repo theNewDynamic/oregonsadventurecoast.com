@@ -29,9 +29,7 @@ North Bend Municipal Swimming Pool hosts many swim competitions throughout the y
 2455 Pacific Avenue\\
 
 North Bend, OR 97459  
-{{< link url="http://
-www.northbendcity.org" >}}
-www.northbendcity.org{{< /link >}}
+{{< link url="http://www.northbendcity.org" >}}
 
 \**
 Contact:** KayLee Kocher  
