@@ -5,7 +5,9 @@ date: 2020-03-13T04:00:00+00:00
 description: Keeping residents and visitors updated on changes during this rapidly
   evolving situation.
 image: "/img/oac-ocean-cliff-photo-blog-695x322.jpg"
-tags: []
+tags:
+- Closures
+- COVID-19
 categories: []
 seo:
   title: ''
