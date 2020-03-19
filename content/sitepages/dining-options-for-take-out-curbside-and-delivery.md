@@ -17,7 +17,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 #### We encourage our visitors and residents to support our local businesses!
 
-[**7 Devils Brewery**](https://www.7devilsbrewery.com/) - Take-out of their regular menu
+[**7 Devils Brewery**](https://www.7devilsbrewery.com/) - Take-out of their regular menu (Thursday, March 9th until 3pm)
 
 [**Abby’s Pizza**](https://abbys.com/) - Delivery and curbside togo orders only 541-267-5839
 
