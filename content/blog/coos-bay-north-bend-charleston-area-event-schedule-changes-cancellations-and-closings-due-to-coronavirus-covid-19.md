@@ -4,7 +4,7 @@ title: Coos Bay - North Bend- Charleston Area Cancellations, Closings & Changes 
 date: 2020-03-13T04:00:00+00:00
 description: Keeping residents and visitors updated on changes during this rapidly
   evolving situation.
-image: "/img/OAC-Logo-2018.jpg"
+image: "/img/OAC Photo-695x322.jpg"
 tags: []
 categories: []
 seo:
