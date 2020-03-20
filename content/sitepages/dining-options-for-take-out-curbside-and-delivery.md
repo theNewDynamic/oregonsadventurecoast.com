@@ -79,7 +79,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Kaffe 101**](http://kaffe101.com/)- Take-out and curbside pickup of regular food and beverage menu. For curbside pickup, call ahead (541) 267-4894
 
-[**Kozy Kitche**](https://www.facebook.com/Kozykitchendiners/)n - Take-out and curbside pickup of Ready to Go meals. See their Facebook page for more information
+[**Kozy Kitchen**](https://www.facebook.com/Kozykitchendiners/) - Take-out and curbside pickup of Ready to Go meals. See their Facebook page for more information
 
 [**Kum-Yons**](http://kumyonscoosbay.com/index.html) - Take-out available from 11am-8:30pm for call ahead orders
 
