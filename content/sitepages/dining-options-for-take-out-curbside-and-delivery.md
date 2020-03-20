@@ -69,6 +69,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Fisherman’s Grotto**](https://www.fishermansgrottoinc.com/) - Take-out and curbside pickup with call ahead orders
 
+[**Friends Cafe**](https://www.facebook.com/Friends-Cafe-530179044034503/) - Take-out of call ahead orders. 541-808-9449
+
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee
 
 [**Gino's Pizza**](https://ginospizzainn.com/) - Delivery of pizza. Phone: (541) 756-5000
