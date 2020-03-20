@@ -25,6 +25,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Angelina’s Mexican Restaurant**](https://www.facebook.com/bestmexicanfoodintown/) - Call ahead for ToGo orders
 
+[**Aromas**](https://www.facebook.com/visitaromas/) - Take-out from their Pony Village Mall location
+
 [**Back Alley Pub at North Bend Lanes**](https://northbendlanes.com/bar-grill/) - Bowling for small parties. Food available for take out. Call (541) 756-0571
 
 [**Bay Burger Inn**](https://www.facebook.com/Bay-Burger-Inn-Praus-Haus-111732925528842/) - Drive through or call in your order 541-888-3688
@@ -45,6 +47,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Captain's Choice NB**](http://www.captainschoicefishhouse.com/) - Order ahead and pick up in lobby or call when you arrive and they'll deliver to your car. Phone (541) 756-0125
 
+[**Chan's Wok**](http://www.chanswok.net/) - Take-out of regular menu items
+
 [**City Subs**](https://www.citysubs1.com/) - Take-out, must call ahead, (541)269-9000
 
 [**Clausen’s Deli**](https://www.clausenoysters.com/restaurant/) - no prepared food, still open to sell fresh oysters regular hours
@@ -63,7 +67,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Fisherman’s Grotto**](https://www.fishermansgrottoinc.com/) - Take-out and curbside pickup with call ahead orders
 
-[**Front Street Provisioners**](http://frontstreetprovisioners.com/) - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420
+[**Front Street Provisioners**](http://frontstreetprovisioners.com/) - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee
 
 [**Gino's Pizza**](https://ginospizzainn.com/) - Delivery of pizza. Phone: (541) 756-5000
 
@@ -131,7 +135,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Zen Authentic Thai and Sushi Bar**](https://zenthaisushi.com/) - Take-out only of their full menu
 
-**FAST FOOD** - all fast food with drive through windows are open for pick up though the drive through only.
+**FAST FOOD and DRIVE THROUGH COFFEE SHOPS** - all fast food and coffee shops with drive through windows are open for pick up though the drive through only.
 
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted: (we will update these as information is provided)
 
@@ -144,6 +148,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 **Captains Cabin**, Coos Bay
 
 **Coney Station**, Coos Bay
+
+**Darrell's Devis Food**, Coos Bay
 
 **Gooney’s**, Coos Bay
 
