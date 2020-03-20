@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated 2:00pm PST, March 20, 2020_**
+**_Updated 3:30pm PST, March 20, 2020_**
 
 #### We encourage our visitors and residents to support our local businesses by ordering meals to go or purchasing gift cards for future meals from these fine establishments! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
 
@@ -23,7 +23,7 @@ aliases: []
 
 [**Aromas**](https://www.facebook.com/visitaromas/) - Take-out from their Pony Village Mall location
 
-[**Back Alley Pub at North Bend Lanes**](https://northbendlanes.com/bar-grill/) - Bowling for small parties. Food available for take out. Call (541) 756-0571
+[**Bailey's Health Food Center Grab & Go Deli**](https://www.facebook.com/Baileys-Health-Food-Center-147228088639515/) - curb side pick-up of call ahead orders (541) 756-3004 
 
 [**Bay Burger Inn**](https://www.facebook.com/Bay-Burger-Inn-Praus-Haus-111732925528842/) - Drive through or call in your order 541-888-3688
 
