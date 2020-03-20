@@ -109,6 +109,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Portside**](http://www.portsidebythebay.com/) - Take-out full menu and if you call ahead they will have it ready and will bring out the back door to your car
 
+[**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - Take-out of regular menu, discounts available. 
+
 [**Restaurant O**](https://www.facebook.com/RestaurantO/) - Take-out of a limited menu from 4pm - 7:30pm. 20% discount on orders over $20. Phone: (541) 808-9300
 
 [**Shake 'N Burger**](https://www.facebook.com/Shake-N-Burger-589936737695886/) - Pick up, Drive Thru and Curbside order pick up. Phone: (541) 808-9013
