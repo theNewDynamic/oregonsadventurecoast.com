@@ -101,6 +101,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Momiji’s Sushi**](https://www.momijiinc.com/north-bend) - Take-out or delivery available with call ahead order
 
+[**Monkey Business**](https://www.facebook.com/Monkey-Business-Food-to-Go-1654371274782354/) - Food truck Take-out available
+
 [**Noster Kitchen**](https://nosterkitchen.com/) - Takeout available [www.nosterkitchen.com/menu](http://www.nosterkitchen.com/menu?fbclid=IwAR3jpx1_zpUzdJxvKEjupUnTvLnkLkFr7n2cbZEIzPiYtXu1osG-HpJ4u_A) or call (541) 808-3999, temporary hours 10:30am - 2pm
 
 [**Pancake Mill**](https://www.pancakemill.com/) - Take-out of regular menu breakfast and lunch menu. Phone: (541) 756-2751
