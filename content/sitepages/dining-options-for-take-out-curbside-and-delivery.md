@@ -127,7 +127,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Shark Bites Cafe**](http://www.sharkbites.cafe/) - Take-out of full menu. Phone: (541) 269-7475
 
-[**Scoops Handmade Ice Cream**](https://scoops.life/) - Curbside pickup available. Phone ahead.
+[**Scoops Handmade Ice Cream**](https://scoops.life/) - Curbside pickup available. Phone ahead. (541) 808-2990
 
 [**Subway**](https://www.subway.com/en-us) - all locations offering Take-out, online app ordering, pay online for curbside pickup
 
