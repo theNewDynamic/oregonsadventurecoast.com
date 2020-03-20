@@ -53,7 +53,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Chan's Wok**](http://www.chanswok.net/) - Take-out of regular menu items
 
-[**City Subs**](https://www.citysubs1.com/) - Take-out, must call ahead, (541)269-9000
+[**City Subs**](https://www.facebook.com/CitySubs/) - Take-out, must call ahead, (541)269-9000
 
 [**Clausen’s Deli**](https://www.clausenoysters.com/restaurant/) - no prepared food, still open to sell fresh oysters regular hours
 
