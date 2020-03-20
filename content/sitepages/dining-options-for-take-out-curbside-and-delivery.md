@@ -97,6 +97,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Mean Street Sandwiches, and Green Street Organic Juice Bar**](https://www.facebook.com/MeanStreetCoosBay/) - Take-out and curbside pickup is available.
 
+**Mom's Kitchen** - Take-out with call ahead order. (541) 756-2710
+
 [**Momiji’s Sushi**](https://www.momijiinc.com/north-bend) - Take-out or delivery available with call ahead order
 
 [**Noster Kitchen**](https://nosterkitchen.com/) - Takeout available [www.nosterkitchen.com/menu](http://www.nosterkitchen.com/menu?fbclid=IwAR3jpx1_zpUzdJxvKEjupUnTvLnkLkFr7n2cbZEIzPiYtXu1osG-HpJ4u_A) or call (541) 808-3999, temporary hours 10:30am - 2pm
