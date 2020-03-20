@@ -55,8 +55,6 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**The Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - Take-out with curbside pickup (541) 267-5116 from 11-7 (M-Sa) 11-4 (Su)
 
-**Dave’s Pizza** - Delivery and take-out of regular menu, (541) 269-1010
-
 [**Dishner's Restaurant**](https://www.facebook.com/Dishners2881/) - Take-out of their  full menu. Phone: (541) 756-2881
 
 [**Domino’s Pizza CB**](https://www.dominos.com/) (2 locations) - Online ordering, contactless delivery and take-out. Half priced pizzas ordered online.
@@ -157,17 +155,17 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 **Darrell's Devis Food**, Coos Bay
 
+**Dave’s Pizza**, Coos Bay
+
 **Gooney’s**, Coos Bay
 
 **High Tide**, Charleston
 
-**Hilltop House Restaurant**
+**Hilltop House Restaurant**, North Bend
 
-**Liberty Pub**
+**Liberty Pub**, North Bend
 
-**Monkey Business** - has not yet opened for the season
-
-**Outdoor Inn**
+**Outdoor Inn**, Coos Bay
 
 **Saw Blade Buffet, Plankhouse, Timbers, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend
 
