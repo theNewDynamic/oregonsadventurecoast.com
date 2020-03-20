@@ -61,6 +61,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Elkhorn BBQ Food Truck**](https://www.facebook.com/elkhornbbq/) - Check Facebook for daily location, usually at the Coos Bay Fast Mart
 
+[**Espresso Mill and Bakery**](https://www.facebook.com/Espresso-Mill-Bakery-276492352505979/) - Drive through service
+
 [**E Z Thai**](https://www.ez-thai.com/) - Take-out during its normal business hours
 
 [**Fisherman’s Grotto**](https://www.fishermansgrottoinc.com/) - Take-out and curbside pickup with call ahead orders
