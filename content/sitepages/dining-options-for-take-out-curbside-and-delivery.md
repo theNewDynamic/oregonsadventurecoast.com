@@ -117,7 +117,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Portside**](http://www.portsidebythebay.com/) - Take-out full menu and if you call ahead they will have it ready and will bring out the back door to your car
 
-[**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - Take-out of regular menu, discounts available. 
+[**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - Take-out of regular menu, discounts available.
 
 [**Restaurant O**](https://www.facebook.com/RestaurantO/) - Take-out of a limited menu from 4pm - 7:30pm. 20% discount on orders over $20. Phone: (541) 808-9300
 
@@ -132,8 +132,6 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 [**Subway**](https://www.subway.com/en-us) - all locations offering Take-out, online app ordering, pay online for curbside pickup
 
 [**Sumin’s Restaurant and Sushi Bar**](https://suminscoosbay.com/) - Take-out during its normal business hours
-
-[**Tai’s Dynasty**](http://taidynasty.com/) - Take-out, curbside pick up of full menu. Hours 11:00am-8:00pm
 
 [**Tin Thistle**](https://www.facebook.com/thetinthistlecafe/) - Take-out, curbside pick up of full menu
 
@@ -184,3 +182,5 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 **Sizzler**, North Bend
 
 **So It Goes Coffeehouse**, Coos Bay
+
+**Tai’s Dynasty**, North Bend
