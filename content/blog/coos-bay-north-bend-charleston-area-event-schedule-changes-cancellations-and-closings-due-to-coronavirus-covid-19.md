@@ -1,7 +1,7 @@
 ---
 title: Coos Bay - North Bend- Charleston Area Cancellations, Closings & Changes Due
   to COVID-19
-date: 2020-03-13T04:00:00+00:00
+date: 2020-03-13T04:00:00.000+00:00
 description: Keeping residents and visitors updated on changes during this rapidly
   evolving situation.
 image: "/img/oac-ocean-cliff-photo-blog-695x322.jpg"
@@ -17,7 +17,7 @@ seo:
 aliases: []
 
 ---
-_Last Updated 1:42 p.m. PST March 19, 2020_
+_Last Updated 1:52 p.m. PST March 20, 2020_
 
 **We want our residents and visitors to know that most Coos Bay, North Bend and Charleston area attractions, activities, restaurants and hotels are open for business and functioning normally at this time. Our attractions, restaurants, and accommodations are taking additional measures to ensure a clean, safe experience.**
 
@@ -25,11 +25,7 @@ _Last Updated 1:42 p.m. PST March 19, 2020_
 
 Due to the directive issued by Governor Kate Brown on 3/11/2020 in conjunction with the COVID 19 virus outbreak, there are some event cancellations, closings and schedule changes that may impact our and residents and visitors. Please note that this situation is evolving rapidly and we will do our best to post the most up-to-date information possible.
 
-**Canceled:** South Coast Clambake Music Festival March 13-15, 2020<br>
-**Canceled:** CCCCA presents Sail On - The Beach Boys Tribute March 18, 2020<br>
-**Canceled:** The Goonies 35th Anniversary Screening - Coos Bay March 21, 2020<br> **Canceled:** Coos Bay North Bend Rotary Club Wine Walk- April 3, 2020<br>
-**Canceled:** The ORIGINAL Brews & Giggles 6th Annual Beer & Comedy Night April 4, 2020<br>
-**Canceled:** First Tuesday Talk at the Coos History Museum April, 2020<br> **Canceled:** Ah Shucks! 15th Annual Charleston Oyster Feed April 25, 2020<br>**Rescheduled:** North Bend Sip n Stroll rescheduled for May 15, 2020<br> **Rescheduled:** 007 Black Tie Event- fundraiser for Liberty Theatre rescheduled for June 25, 2020
+**Many events have been cancelled or postponed. Please check with event organizers before making plans.**
 
 **Spring 2020 Whale Watch Week Update:** No volunteers will be stationed for the spring Whale Watch Week, set March 21-29, to help slow the spread of COVID-19. Oregon State Parks made this decision to protect the health and safety of our volunteers and visitors. However, you can still enjoy this spring break tradition on your own.
 
@@ -37,7 +33,7 @@ Due to the directive issued by Governor Kate Brown on 3/11/2020 in conjunction w
 
 **From the U.S. Forest Service** - **Campgrounds at the Oregon Dunes National Recreation Area have been closed through April 14, 2020**, including Horsfall, Horsfall Beach, Spinreel, and Driftwood II. These campgrounds are unique in their design; rather than a typical family campground with individual sites separated by vegetation, these OHV campgrounds look more like parking lots where larger groups form tight circles of trailers and campers. During busy times, such as spring break weeks, these campgrounds often have a crowded, festival-like atmosphere. Existing reservations through April 14 have been canceled and fully refunded and new reservations before April 14 will not be accepted.
 
-**Temporary Closures:** The following attractions will be CLOSED Monday, March 16th through at least the end of the month.<br> Charleston Marine Life Center  
+**Temporary Closures:** The following attractions will be CLOSED at least through the end of March, but most likely into April.<br> Charleston Marine Life Center  
 Coos History Museum  
 Coos Art Museum  
 Coos Bay Public Library  
