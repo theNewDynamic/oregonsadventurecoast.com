@@ -11,13 +11,9 @@ seo:
 aliases: []
 
 ---
-**_Updated 11:00am PST, March 20, 2020_**
+**_Updated 2:00pm PST, March 20, 2020_**
 
-Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurants and bars to close seated dining services and instead offer Take-Out, Curbside, or Delivery services, we have compiled a list of Coos Bay, North Bend and Charleston restaurants, coffee shops, and bars offering these services. This list will be updated as establishments alert us of their plans.
-
-**_PLEASE REMEMBER THAT THESE ESTABLISHMENTS CANNOT SERVE YOU ANYWHERE ON THEIR PREMISES - DECKS, PATIOS, PARKING LOTS - THEY CAN ONLY SERVE TO GO ORDERS TO BE TAKEN AWAY FROM THE BUSINESS TO BE CONSUMED. - OLCC_**
-
-#### We encourage our visitors and residents to support our local businesses! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
+#### We encourage our visitors and residents to support our local businesses by ordering meals to go or purchasing gift cards for future meals from these fine establishments! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
 
 [**Abby’s Pizza**](https://abbys.com/) - Delivery and curbside togo orders only 541-267-5839
 
@@ -151,36 +147,23 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 **FAST FOOD and DRIVE THROUGH COFFEE SHOPS** - all fast food and coffee shops with drive through windows are open for pick up though the drive through only.
 
-#### Restaurants Temporarily Closing until the restrictions on seated dining are lifted: (we will update these as information is provided)
+#### Restaurants Temporarily Closing until the restrictions on seated dining are lifted. Please keep these establishments in your thoughts and plan to visit them when they re-open.
 
-**7 Devils Brewery**
-
-**Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags
-
-**Ciccarelli's Restaurant**, North Bend
-
-**Captains Cabin**, Coos Bay
-
-**Coney Station**, Coos Bay
-
-**Darrell's Devis Food**, Coos Bay
-
-**Dave’s Pizza**, Coos Bay
-
-**Gooney’s**, Coos Bay
-
-**High Tide**, Charleston
-
-**Hilltop House Restaurant**, North Bend
-
-**Liberty Pub**, North Bend
-
-**Outdoor Inn**, Coos Bay
-
-**Saw Blade Buffet, Plankhouse, Timbers, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend
-
-**Sizzler**, North Bend
-
-**So It Goes Coffeehouse**, Coos Bay
-
+**7 Devils Brewery  
+Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
+**Ciccarelli's Restaurant**, North Bend  
+**Captains Cabin**, Coos Bay  
+**Coney Station**, Coos Bay  
+**Darrell's Devis Food**, Coos Bay  
+**Dave’s Pizza**, Coos Bay  
+**Gooney’s**, Coos Bay  
+**High Tide**, Charleston  
+**Hilltop House Restaurant**, North Bend  
+**Liberty Pub**, North Bend  
+**Outdoor Inn**, Coos Bay  
+**Saw Blade Buffet, Plankhouse, Timbers, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
+**Sizzler**, North Bend  
+**So It Goes Coffeehouse**, Coos Bay  
 **Tai’s Dynasty**, North Bend
+
+**_Please remember that these establishments cannot serve you anywhere on their premises - decks, patios, parking lots - they can only serve to go orders to be taken away from the business to be consumed. - OLCC_**
