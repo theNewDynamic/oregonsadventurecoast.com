@@ -105,7 +105,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Noster Kitchen**](https://nosterkitchen.com/) - Takeout available [www.nosterkitchen.com/menu](http://www.nosterkitchen.com/menu?fbclid=IwAR3jpx1_zpUzdJxvKEjupUnTvLnkLkFr7n2cbZEIzPiYtXu1osG-HpJ4u_A) or call (541) 808-3999, temporary hours 10:30am - 2pm
 
-[**Ocean Air Taqueria & Eatery **](https://www.facebook.com/Ocean-Air-Taqueria-Eatery-108504043866257/)- Take-out and curbside pickup with call ahead order (541) 808-3532
+[**Ocean Air Taqueria & Eatery**](https://www.facebook.com/Ocean-Air-Taqueria-Eatery-108504043866257/) - Take-out and curbside pickup with call ahead order (541) 808-3532
 
 [**Pancake Mill**](https://www.pancakemill.com/) - Take-out of regular menu breakfast and lunch menu. Phone: (541) 756-2751
 
