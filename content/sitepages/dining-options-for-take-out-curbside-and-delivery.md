@@ -31,7 +31,7 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Bay Burger Inn**](https://www.facebook.com/Bay-Burger-Inn-Praus-Haus-111732925528842/) - Drive through or call in your order 541-888-3688
 
-[**Bayside Bakery Grill & Cafe**]() - Take-out and curbside pickup on call ahead orders. (541) 808-0151
+[**Bayside Bakery Grill & Cafe**](https://www.facebook.com/Bayside-Bakery-Grill-Cafe-288893441167156/) - Take-out and curbside pickup on call ahead orders. (541) 808-0151
 
 [**Bayside Coffee, Charleston**](http://www.baysidecoffeeshop.com/) - Takeout and curbside delivery of coffee drinks and pastries. Order drinks, ground coffee or beans ahead and pick up curbside (541) 260-3742
 
