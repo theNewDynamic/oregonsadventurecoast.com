@@ -37,6 +37,8 @@ Due to the directive by Governor Kate Brown on March 16, 2020 for all restaurant
 
 [**Blue Heron Bistro**](http://www.blueheronbistro.net/) - Take-out, curbside and delivery of family style meals
 
+[**Bon Appetit Catering & Event Center**](https://www.facebook.com/BABCEvents/) - Take and bake meals. (541) 290-2271
+
 [**Bungalow Market & Deli**](https://www.facebook.com/Bungalow-Market-Deli-282965688442/) - Regular hours and to go operations.
 
 [**Buzz**](https://www.facebook.com/ponyvillagebuzz/) - Pick up and delivery of regular menu
