@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated 3:30pm PST, March 20, 2020_**
+**_Updated 11:50am PST, March 21, 2020_**
 
 #### We encourage our visitors and residents to support our local businesses by ordering meals to go or purchasing gift cards for future meals from these fine establishments! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
 
