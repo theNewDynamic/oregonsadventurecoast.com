@@ -23,7 +23,7 @@ aliases: []
 
 [**Aromas**](https://www.facebook.com/visitaromas/) - Take-out from their Pony Village Mall location
 
-[**Bailey's Health Food Center Grab & Go Deli**](https://www.facebook.com/Baileys-Health-Food-Center-147228088639515/) - curb side pick-up of call ahead orders (541) 756-3004 
+[**Bailey's Health Food Center Grab & Go Deli**](https://www.facebook.com/Baileys-Health-Food-Center-147228088639515/) - curb side pick-up of call ahead orders (541) 756-3004
 
 [**Bay Burger Inn**](https://www.facebook.com/Bay-Burger-Inn-Praus-Haus-111732925528842/) - Drive through or call in your order 541-888-3688
 
@@ -115,7 +115,7 @@ aliases: []
 
 [**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - Take-out of regular menu, discounts available.
 
-[**Restaurant O**](https://www.facebook.com/RestaurantO/) - Take-out of a limited menu from 4pm - 7:30pm. 20% discount on orders over $20. Phone: (541) 808-9300
+[**Restaurant O**](https://www.facebook.com/RestaurantO/) - Take-out of a limited menu from lunch and dinner - 12-8p Tues-Sun. 20% discount on orders over $20. Phone: (541) 808-9300
 
 [**Sea Basket**](https://www.facebook.com/JRU.industries/) - Take-out of specials and regular menu.
 
