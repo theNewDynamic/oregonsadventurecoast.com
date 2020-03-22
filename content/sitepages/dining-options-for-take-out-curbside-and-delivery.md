@@ -11,9 +11,9 @@ seo:
 aliases: []
 
 ---
-**_Updated 11:50am PST, March 21, 2020_**
+**_Updated 9:30am PST, March 22, 2020_**
 
-#### We encourage our visitors and residents to support our local businesses by ordering meals to go or purchasing gift cards for future meals from these fine establishments! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
+#### We encourage our residents and visitors to support our local businesses by ordering meals to go or purchasing gift cards for future meals from these fine establishments! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
 
 [**Abby’s Pizza**](https://abbys.com/) - Delivery and curbside togo orders only 541-267-5839
 
@@ -46,8 +46,6 @@ aliases: []
 [**Cape Cafe**](https://www.facebook.com/pages/category/Restaurant/The-Cape-Cafe-2132250007095994/) - Take-out and Drive up window
 
 [**Captain's Choice NB**](http://www.captainschoicefishhouse.com/) - Order ahead and pick up in lobby or call when you arrive and they'll deliver to your car. Phone (541) 756-0125
-
-[**Chan's Wok**](http://www.chanswok.net/) - Take-out of regular menu items
 
 [**City Subs**](https://www.facebook.com/CitySubs/) - Take-out, must call ahead, (541)269-9000
 
@@ -153,6 +151,7 @@ aliases: []
 Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
 **Ciccarelli's Restaurant**, North Bend  
 **Captains Cabin**, Coos Bay  
+**Chan's Wok**, North Bend, Closed until at least April 8  
 **Coney Station**, Coos Bay  
 **Darrell's Devis Food**, Coos Bay  
 **Dave’s Pizza**, Coos Bay  
