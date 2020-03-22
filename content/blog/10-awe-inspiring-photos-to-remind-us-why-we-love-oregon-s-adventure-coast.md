@@ -4,7 +4,15 @@ date: 2020-03-21T04:00:00+00:00
 description: Take a deep breath, and take a few minutes to get lost in these awe-inspiring
   photographs posted by some of our wonderful residents and visitors.
 image: "/img/Oregon Dunes Recreational Park blog-695x322.jpg"
-tags: []
+tags:
+- Instagram
+- Oregon Coast
+- Nature Photography
+- "#travelcoosbay"
+- Oregon Coast Photography
+- Coos Bay
+- North Bend
+- Charleston Oregon
 categories: []
 seo:
   title: ''
