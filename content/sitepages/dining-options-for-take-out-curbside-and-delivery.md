@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated 9:30am PST, March 22, 2020_**
+**_Updated 9:45am PST, March 23, 2020_**
 
 #### We encourage our residents and visitors to support our local businesses by ordering meals to go or purchasing gift cards for future meals from these fine establishments! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
 
@@ -67,7 +67,7 @@ aliases: []
 
 [**Friends Cafe**](https://www.facebook.com/Friends-Cafe-530179044034503/) - Take-out of call ahead orders. 541-808-9449
 
-[**Front Street Provisioners**](http://frontstreetprovisioners.com/) - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee
+[**Front Street Provisioners**](http://frontstreetprovisioners.com/) - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee, closed Mondays & Tuesdays
 
 [**Gino's Pizza**](https://ginospizzainn.com/) - Delivery of pizza. Phone: (541) 756-5000
 
@@ -86,8 +86,6 @@ aliases: []
 [**Little Italy**](http://littleitalycoosbay.com/) - Take-out of their regular menu. They are offering a 15% discount. Phone: 541-808-2200
 
 [**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - In Pony Village Mall, take-out of full menu
-
-[**Lucky Star**](http://www.luckystarnorthbend.com/) - Take-out with call ahead orders and delivery within city limits (bunker hill to NB Bridge and out to Empire)
 
 [**Luigi’s**](https://www.facebook.com/Luigis-Italian-Sandwiches-140543963550/) - Take-out only with call ahead order
 
@@ -159,6 +157,7 @@ Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go
 **High Tide**, Charleston  
 **Hilltop House Restaurant**, North Bend  
 **Liberty Pub**, North Bend  
+**Lucky Star**, North Bend, Closed until April 7  
 **Outdoor Inn**, Coos Bay  
 **Saw Blade Buffet, Plankhouse, Timbers, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
 **Sizzler**, North Bend  
