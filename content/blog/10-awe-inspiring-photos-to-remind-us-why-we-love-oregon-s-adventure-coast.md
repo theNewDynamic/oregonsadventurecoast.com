@@ -8,7 +8,7 @@ tags:
 - Instagram
 - Oregon Coast
 - Nature Photography
-- "#travelcoosbay"
+- "travelcoosbay"
 - Oregon Coast Photography
 - Coos Bay
 - North Bend
