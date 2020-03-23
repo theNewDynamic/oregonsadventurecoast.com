@@ -33,7 +33,9 @@ Due to the directive issued by Governor Kate Brown on 3/11/2020 in conjunction w
 
 **From the U.S. Forest Service** - **Campgrounds at the Oregon Dunes National Recreation Area have been closed through April 14, 2020**, including Horsfall, Horsfall Beach, Spinreel, and Driftwood II. These campgrounds are unique in their design; rather than a typical family campground with individual sites separated by vegetation, these OHV campgrounds look more like parking lots where larger groups form tight circles of trailers and campers. During busy times, such as spring break weeks, these campgrounds often have a crowded, festival-like atmosphere. Existing reservations through April 14 have been canceled and fully refunded and new reservations before April 14 will not be accepted.
 
-**Temporary Closures:** The following attractions will be CLOSED at least through the end of March, but most likely into April.<br> Charleston Marine Life Center  
+**Temporary Closures:** The following attractions will be CLOSED at least through the end of March, but most likely into April.
+
+Charleston Marine Life Center  
 Coos History Museum  
 Coos Art Museum  
 Coos Bay Public Library  
