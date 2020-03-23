@@ -109,6 +109,8 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Pancake Mill**](https://www.pancakemill.com/) - Take-out of regular menu breakfast and lunch menu. Phone: (541) 756-2751
 
+[**Papa Murphy's**](https://www.papamurphys.com/) - Take-out and curbside pickup of take & bake pizza. 
+
 [**Portside**](http://www.portsidebythebay.com/) - Take-out full menu and if you call ahead they will have it ready and will bring out the back door to your car
 
 [**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - Take-out of regular menu, discounts available.
