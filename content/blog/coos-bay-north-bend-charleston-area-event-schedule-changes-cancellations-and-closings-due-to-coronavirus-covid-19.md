@@ -1,6 +1,6 @@
 ---
-title: Coos Bay - North Bend- Charleston Area Cancellations, Closings & Changes Due
-  to COVID-19
+title: Coos Bay - North Bend- Charleston Area Cancellations, Closings and Changes
+  Due to COVID-19
 date: 2020-03-13T04:00:00.000+00:00
 description: Keeping residents and visitors updated on changes during this rapidly
   evolving situation.
