@@ -17,7 +17,7 @@ seo:
 aliases: []
 
 ---
-_Last Updated 1:52 p.m. PST March 20, 2020_
+_Last Updated 9:50 a.m. PST March 23, 2020_
 
 **We want our residents and visitors to know that most Coos Bay, North Bend and Charleston area attractions, activities, restaurants and hotels are open for business and functioning normally at this time. Our attractions, restaurants, and accommodations are taking additional measures to ensure a clean, safe experience.**
 
@@ -29,7 +29,7 @@ Due to the directive issued by Governor Kate Brown on 3/11/2020 in conjunction w
 
 **Spring 2020 Whale Watch Week Update:** No volunteers will be stationed for the spring Whale Watch Week, set March 21-29, to help slow the spread of COVID-19. Oregon State Parks made this decision to protect the health and safety of our volunteers and visitors. However, you can still enjoy this spring break tradition on your own.
 
-**State Parks:** Campgrounds operated by the Oregon Parks & Recreation Department will stay open for current overnight guests through April 2. However, reservations for all state park stays from April 3 through May 8 will be canceled and site fees refunded. All day-use and campground restrooms are temporarily closed due to limited janitorial service
+**State Parks:** Temporarily closed to all visitors through May 8, 2020.
 
 **From the U.S. Forest Service** - **Campgrounds at the Oregon Dunes National Recreation Area have been closed through April 14, 2020**, including Horsfall, Horsfall Beach, Spinreel, and Driftwood II. These campgrounds are unique in their design; rather than a typical family campground with individual sites separated by vegetation, these OHV campgrounds look more like parking lots where larger groups form tight circles of trailers and campers. During busy times, such as spring break weeks, these campgrounds often have a crowded, festival-like atmosphere. Existing reservations through April 14 have been canceled and fully refunded and new reservations before April 14 will not be accepted.
 
