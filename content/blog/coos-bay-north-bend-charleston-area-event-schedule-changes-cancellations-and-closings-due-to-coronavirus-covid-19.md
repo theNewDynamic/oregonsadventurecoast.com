@@ -17,7 +17,7 @@ seo:
 aliases: []
 
 ---
-_Last Updated 9:50 a.m. PST March 23, 2020_
+_Last Updated 10:39 a.m. PST March 23, 2020_
 
 **We want our residents and visitors to know that most Coos Bay, North Bend and Charleston area attractions, activities, restaurants and hotels are open for business and functioning normally at this time. Our attractions, restaurants, and accommodations are taking additional measures to ensure a clean, safe experience.**
 
