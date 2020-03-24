@@ -11,6 +11,8 @@ seo:
 aliases: []
 
 ---
+_Updated at 2:30p.m., March 24, 2020_
+
 **As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors.**
 
 In these uncertain times, we want our residents and visitors to know that most Coos Bay, North Bend and Charleston area attractions, activities, restaurants and hotels are open and functioning normally at this time. [_For a current list of closures,  postponed events and changes, visit our blog post on this topic._](/blog/coos-bay-north-bend-charleston-area-event-schedule-changes-cancellations-and-closings-due-to-coronavirus-covid-19/) _For a list of restaurants offering takeout, curbside pickup and delivery,_ [_click here_](/dining-options-takeout)_._
@@ -22,7 +24,7 @@ In these uncertain times, we want our residents and visitors to know that most C
 * Avoid close contact with anyone with cold or flu-like symptoms.
 * Practice social distancing of 3 feet when in small crowds.
 
-We are closely monitoring the Coronavirus (COVID-19) pandemic as it relates to our state, our county and our destinations. **At this time, we have no confirmed cases in Coos County.**
+We are closely monitoring the Coronavirus (COVID-19) pandemic as it relates to our state, our county and our destinations. **At this time, we have no confirmed cases in Coos County. County Commissioner Melissa Cribbins updates this data daily on her** [**Facebook page**](https://www.facebook.com/commissionercribbins/)**.** 
 
 **Our top priority is the safety, health, and well-being of our community, its residents, and visitors.** Federal public health officials have repeated frequently that it is safe for healthy people to travel in the U.S. We encourage the traveling public to seek and heed the latest expert guidance, and to make fact-based travel decisions.
 
