@@ -15,7 +15,7 @@ aliases: []
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
-##### We encourage our residents and visitors to support our local businesses by ordering meals to go or purchasing gift cards for future meals from these fine establishments! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
+#### We encourage our residents and visitors to support our local businesses by ordering meals to go or purchasing gift cards for future meals from these fine establishments! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
 
 [**Abby’s Pizza**](https://abbys.com/) - Delivery and curbside togo orders only 541-267-5839
 
@@ -109,7 +109,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Pancake Mill**](https://www.pancakemill.com/) - Take-out of regular menu breakfast and lunch menu. Phone: (541) 756-2751
 
-[**Papa Murphy's**](https://www.papamurphys.com/) - Take-out and curbside pickup of take & bake pizza. 
+[**Papa Murphy's**](https://www.papamurphys.com/) - Take-out and curbside pickup of take & bake pizza.
 
 [**Portside**](http://www.portsidebythebay.com/) - Take-out full menu and if you call ahead they will have it ready and will bring out the back door to your car
 
