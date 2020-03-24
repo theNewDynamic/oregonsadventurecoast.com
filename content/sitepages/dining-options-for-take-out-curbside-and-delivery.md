@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated 6:30pm PST, March 23, 2020_**
+**_Updated 10:30am PST, March 24, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -22,8 +22,6 @@ _Please know that we are doing our best to keep up with the restaurants offering
 [**Alder Smokehouse**](https://www.facebook.com/thealdersmokehouse/) - Take-out of regular menu. Curbside pick up from 11-3. Call or Text (541) 756-9599
 
 [**Angelina’s Mexican Restaurant**](https://www.facebook.com/bestmexicanfoodintown/) - Call ahead for ToGo orders
-
-[**Aromas**](https://www.facebook.com/visitaromas/) - Take-out from their Pony Village Mall location
 
 [**Bailey's Health Food Center Grab & Go Deli**](https://www.facebook.com/Baileys-Health-Food-Center-147228088639515/) - curb side pick-up of call ahead orders (541) 756-3004
 
@@ -147,7 +145,8 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted. Please keep these establishments in your thoughts and plan to visit them when they re-open.
 
-**7 Devils Brewery  
+**7 Devils Brewery**, Coos Bay**  
+Aromas**, North Bend**  
 Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
 **Ciccarelli's Restaurant**, North Bend  
 **Captains Cabin**, Coos Bay  
