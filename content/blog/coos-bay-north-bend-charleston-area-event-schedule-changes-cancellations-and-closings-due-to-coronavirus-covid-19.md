@@ -17,7 +17,7 @@ seo:
 aliases: []
 
 ---
-_Last Updated 3:15 9.m. PST March 23, 2020_
+_Last Updated 3:15 9.m. PST March 24, 2020_
 
 **We want our residents and visitors to know that most Coos Bay, North Bend and Charleston area attractions, activities, restaurants and hotels are open for business and functioning normally at this time. Our attractions, restaurants, and accommodations are taking additional measures to ensure a clean, safe experience.**
 
@@ -35,7 +35,7 @@ Due to the directive issued by Governor Kate Brown on 3/11/2020 in conjunction w
 
 **From the U.S. Forest Service** - **Campgrounds at the Oregon Dunes National Recreation Area have been closed through April 14, 2020**, including Horsfall, Horsfall Beach, Spinreel, and Driftwood II. These campgrounds are unique in their design; rather than a typical family campground with individual sites separated by vegetation, these OHV campgrounds look more like parking lots where larger groups form tight circles of trailers and campers. During busy times, such as spring break weeks, these campgrounds often have a crowded, festival-like atmosphere. Existing reservations through April 14 have been canceled and fully refunded and new reservations before April 14 will not be accepted.
 
-**Temporary Closures:** The following attractions will be CLOSED at least through the end of March, but most likely into April.
+**Temporary Closures:** The following attractions will be CLOSED until further notice.
 
 Charleston Marine Life Center  
 Coos History Museum  
