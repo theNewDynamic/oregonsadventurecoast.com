@@ -22,6 +22,33 @@
         <h1>{{ .Title }}</h1>
     
         <div class="introtext clearfix">
+            {{ with .Params.accordion_sections }}
+
+                {{ range . }}
+                    <div class="accordion-section">
+                        {{ with .title }}
+                            <h2 class="section-heading">{{ . }}</h2>
+                        {{ end }}
+
+                        {{ with .accordions }}
+                            {{ range . }}
+                                {{ if .title }}
+                                    <div class="accordion">
+                                        <div class="heading collapsed"><span>{{ .title }}</span></div>
+                                        {{ with .content }}
+                                            <div class="accordion-content hidden">
+                                                {{ . }}
+                                            </div>
+                                        {{ end }}
+                                    </div>
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
+                    </div>
+                {{ end }}
+
+            {{ end }}
+
             {{ .Content }}
         </div>
     </div>
