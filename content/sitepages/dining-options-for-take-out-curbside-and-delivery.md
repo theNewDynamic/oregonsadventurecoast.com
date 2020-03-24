@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated 2:45pm PST, March 23, 2020_**
+**_Updated 6:30pm PST, March 23, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -139,8 +139,6 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Walt’s Pourhouse**](https://www.facebook.com/waltspourhouse/) - Take-out, curbside, and limited delivery of a slightly modified menu and take-out beer. Open 11:00-8:00
 
-[**Wildflour Cafe**](https://www.wildflour-catering.com/wildflour-cafe) - Curbside and Take-out of regular menu and family meals
-
 [**Yeong's Place**](https://www.facebook.com/Yeongs-Place-Restaurant-1424336541200886/?__tn__=kCH-R&eid=ARCd5onDbXfjGBuHiOksZDaOPKPRIGJDcOjclJPb4I4NEcGRf_VzWr0ZuvHZ92lyY-nSzG-ehsZyU9ts&hc_ref=ARTN9S0xAypLp9rAvgpUQ7SHXR6akR8soLi_6rrUi8oTmbJr3sRD0X32QMB362f3x84&fref=nf&__xts__%5B0%5D=68.ARDs87eFZngddnIemSmoRaVxQI9RDMMwNYe05saCE3UmS0J2P3O34H0Bd1qWUivaF1U6JLUzlh-g9TLioYeE8qMsekcJ3-aDoXdUdiUJ8ShWApvWSNtNa3WyaEarZ6ObXrj5gdFIjkpqzr0I9hEMCDANErORP_tGoXucknVusVOMUF73WiC_8kq4aHZUUEDaLrQVcFQO68DwpURmh4uTOpN8Ci7I984aO-z_piYgieW9ds0ZY5MyQuVgG6SMPy-DorlMAupdGo59NYhwQnQRRJB39rIU-3yKDAo6XoyuA2NZ_D_F3Ol9TLbx4bRXkHyYlGru15AIZpEobACzoyB_xLaAldCLFCeDPgybXuBZbvyt63GnrtFB) - Take-out of regular menu. Phone: (541) 756-1914
 
 [**Zen Authentic Thai and Sushi Bar**](https://zenthaisushi.com/) - Take-out only of their full menu
@@ -166,6 +164,7 @@ Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go
 **Saw Blade Buffet, Plankhouse, Timbers, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
 **Sizzler**, North Bend  
 **So It Goes Coffeehouse**, Coos Bay  
-**Tai’s Dynasty**, North Bend
+**Tai’s Dynasty**, North Bend  
+**Wildflour Cafe**, North Bend
 
 **_Please remember that these establishments cannot serve you anywhere on their premises - decks, patios, parking lots - they can only serve to go orders to be taken away from the business to be consumed. - OLCC_**
