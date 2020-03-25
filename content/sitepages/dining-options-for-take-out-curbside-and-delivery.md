@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated 6:00pm PST, March 24, 2020_**
+**_Updated10:00pm PST, March 25, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -27,7 +27,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Bay Burger Inn**](https://www.facebook.com/Bay-Burger-Inn-Praus-Haus-111732925528842/) - Drive through or call in your order 541-888-3688
 
-[**Bayside Bakery Grill & Cafe**](https://www.facebook.com/Bayside-Bakery-Grill-Cafe-288893441167156/) - Take-out and curbside pickup on call ahead orders. (541) 808-0151
+[**Bayside Bakery Grill & Cafe**](https://www.facebook.com/Bayside-Bakery-Grill-Cafe-288893441167156/) - Free delivery in Coos Bay, North Bend & Empire city limits. on $10 or more orders. $3 delivery fee on other orders, Tues-Fri 8am-3pm and Sat 8:30am-3pm. Call (541) 808-0151
 
 [**Bayside Coffee, Charleston**](http://www.baysidecoffeeshop.com/) - Takeout and curbside delivery of coffee drinks and pastries. Order drinks, ground coffee or beans ahead and pick up curbside (541) 260-3742
 
