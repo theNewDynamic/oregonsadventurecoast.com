@@ -1,3 +1,5 @@
+{{ $resource := resources.Get "js/accordions.js" | resources.Minify }}
+<script src="{{ $resource.Permalink }}"></script>
 {{ if or (eq . "dining") (eq . "lodging") }}
 {{ $style := resources.Get "js/initMap.js" | resources.Minify }}
 <script src="{{ $style.Permalink }}"></script>
