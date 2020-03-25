@@ -10,11 +10,6 @@ slideshow:
   title_mobile: Girlfriends Getaway!
   photo_mobile: "/img/girlfriends-getaway-home-mobile.jpg"
   url: https://www.oregonsadventurecoast.com/girlfriends/
-- title: Best Storm Watching - Jan/Feb/Mar
-  photo: "/img/storm-watching-hm-slider-lg.jpg"
-  title_mobile: Best Storm Watching
-  photo_mobile: "/img/storm-watching-mobile-hm-slider.jpg"
-  url: "/storm-watching"
 - title: Breathtaking Views
   photo: "/img/shore-acres-slider.jpg"
   url: "/hiking-walking"
