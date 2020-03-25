@@ -7,11 +7,11 @@
         {{ end }}
 
         {{ with .accordions }}
-            {{ range . }}
-                {{ if .title }}
+            {{ range $accordion := . }}
+                {{ with .title }}
                     <div class="accordion">
-                        <div class="heading collapsed"><span>{{ .title }}</span></div>
-                        {{ with .content }}
+                        <div class="heading collapsed"><span>{{ $accordion.title }}</span></div>
+                        {{ with $accordion.content }}
                             <div class="accordion-content hidden">
                                 {{ . | markdownify }}
                             </div>
