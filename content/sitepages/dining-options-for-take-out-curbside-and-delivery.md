@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated10:45am PST, March 25, 2020_**
+**_Updated1:25pm PST, March 25, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -101,8 +101,6 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Monkey Business**](https://www.facebook.com/Monkey-Business-Food-to-Go-1654371274782354/) - Food truck Take-out available
 
-[**Noster Kitchen**](https://nosterkitchen.com/) - Takeout available [www.nosterkitchen.com/menu](http://www.nosterkitchen.com/menu?fbclid=IwAR3jpx1_zpUzdJxvKEjupUnTvLnkLkFr7n2cbZEIzPiYtXu1osG-HpJ4u_A) or call (541) 808-3999, temporary hours 10:30am - 2pm
-
 [**Ocean Air Taqueria & Eatery**](https://www.facebook.com/Ocean-Air-Taqueria-Eatery-108504043866257/) - Take-out and curbside pickup with call ahead order (541) 808-3532
 
 [**Pancake Mill**](https://www.pancakemill.com/) - Take-out of regular menu breakfast and lunch menu. Phone: (541) 756-2751
@@ -160,6 +158,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 **Hilltop House Restaurant**, North Bend  
 **Liberty Pub**, North Bend  
 **Lucky Star**, North Bend, Closed until April 7  
+**Noster Kitchen**, Coos Bay  
 **Outdoor Inn**, Coos Bay  
 **Saw Blade Buffet, Plankhouse, Timbers, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
 **Sizzler**, North Bend  
