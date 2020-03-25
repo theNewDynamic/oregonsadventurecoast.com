@@ -1,4 +1,4 @@
-{{ with .Params.accordion_sections }}
+{{ with $.Page.Params.accordion_sections }}
 
 {{ range . }}
     <div class="accordion-section">
@@ -13,7 +13,7 @@
                         <div class="heading collapsed"><span>{{ .title }}</span></div>
                         {{ with .content }}
                             <div class="accordion-content hidden">
-                                {{ . }}
+                                {{ . | markdownify }}
                             </div>
                         {{ end }}
                     </div>

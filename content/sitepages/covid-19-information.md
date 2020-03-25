@@ -24,6 +24,8 @@ accordion_sections:
         content: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
 
 ---
+{{< accordions >}}
+
 **As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors.**
 
 In these uncertain times, we want our residents and visitors to know that most Coos Bay, North Bend and Charleston area attractions, activities, restaurants and hotels are open and functioning normally at this time. [_For a current list of closures,  postponed events and changes, visit our blog post on this topic._](/blog/coos-bay-north-bend-charleston-area-event-schedule-changes-cancellations-and-closings-due-to-coronavirus-covid-19/) _For a list of restaurants offering takeout, curbside pickup and delivery,_ [_click here_](/dining-options-takeout)_._
