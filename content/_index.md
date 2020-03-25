@@ -6,6 +6,7 @@ aliases:
 - "/rob"
 slideshow:
 - photo: "/img/stay-home-healthy-hm-slider.jpg"
+  photo_mobile: "/img/stay-home-healthy-mobile-slider.jpg"
 - title: The Best Girlfriends Getaway!
   photo: "/img/girlfriends-getaway-home-slider.jpg"
   title_mobile: Girlfriends Getaway!
