@@ -19,8 +19,6 @@ _Updated at 6:00p.m., March 24, 2020_
 
 **To read the Governor's Executive Order,** [**click here**](https://govsite-assets.s3.amazonaws.com/jkAULYKcSh6DoDF8wBM0_EO%2020-12.pdf)**.**
 
-[_For a current list of closures,  postponed events and changes, visit our blog post on this topic._](/blog/coos-bay-north-bend-charleston-area-event-schedule-changes-cancellations-and-closings-due-to-coronavirus-covid-19/) _For a list of restaurants offering takeout, curbside pickup and delivery,_ [_click here_](/dining-options-takeout)_._
-
 Our tourism industry is feeling the impact of this pandemic with cancellations of events and room nights. We encourage visitors and locals to STAY HOME & STAY HEALTHY. We will be happy to welcome you when all of this is over and we are able to travel again.
 
 In the meantime, here are some suggestions to help you stay healthy.
