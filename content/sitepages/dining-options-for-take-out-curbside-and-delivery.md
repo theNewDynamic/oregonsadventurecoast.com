@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated10:00pm PST, March 25, 2020_**
+**_Updated10:45am PST, March 25, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -83,7 +83,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Little Caesars**](https://littlecaesars.com/en-us/) - Coos Bay and North Bend - Hot-N-Ready Pizzas and more available 11am-9pm Daily. Phone: CB 541-266-9595, NB 541-756-5656
 
-[**Little Italy**](http://littleitalycoosbay.com/) - Take-out of their regular menu. They are offering a 15% discount. Phone: 541-808-2200
+[**Little Italy**](http://littleitalycoosbay.com/) - Take-out of their regular menu from 3pm-8pm. They are offering a 15% discount. Phone: 541-808-2200
 
 [**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - In Pony Village Mall, take-out of full menu
 
