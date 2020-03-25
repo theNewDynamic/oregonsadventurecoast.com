@@ -37,7 +37,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Bungalow Market & Deli**](https://www.facebook.com/Bungalow-Market-Deli-282965688442/) - Regular hours and to go operations.
 
-[**Buzz**](https://www.facebook.com/ponyvillagebuzz/) - Pick up and delivery of regular menu
+[**Buzz**](https://www.facebook.com/ponyvillagebuzz/) - Pick up from back door (as Pony Village Mall is Closed now) and delivery of regular menu. Must call ahead (541) 756-0144
 
 [**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - Curbside & Delivery Service Phone: (541) 808-9500
 
