@@ -16,9 +16,6 @@ slideshow:
 - title: Disconnect to Reconnect
   photo: "/img/camping-family-slider.jpg"
   url: "/state-parks-and-national-lands"
-- photo: "/img/seven-devils-interior-night.jpg"
-  title: Relax and Converse
-  url: "/dining"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/hiking-shore-acres-desktop.jpg"
