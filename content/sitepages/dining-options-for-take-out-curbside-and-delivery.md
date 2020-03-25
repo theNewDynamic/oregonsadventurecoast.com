@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated 11:55am PST, March 24, 2020_**
+**_Updated 6:00pm PST, March 24, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -46,8 +46,6 @@ _Please know that we are doing our best to keep up with the restaurants offering
 [**Cape Cafe**](https://www.facebook.com/pages/category/Restaurant/The-Cape-Cafe-2132250007095994/) - Take-out and Drive up window
 
 [**Captain's Choice NB**](http://www.captainschoicefishhouse.com/) - Order ahead and pick up in lobby or call when you arrive and they'll deliver to your car. Phone (541) 756-0125
-
-[**City Subs**](https://www.facebook.com/CitySubs/) - Take-out, must call ahead, (541)269-9000
 
 [**Clausen’s Deli**](https://www.clausenoysters.com/restaurant/) - no prepared food, still open to sell fresh oysters regular hours
 
@@ -147,12 +145,13 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted. Please keep these establishments in your thoughts and plan to visit them when they re-open.
 
-**7 Devils Brewery__, Coos Bay**  
-Aromas**, North Bend**  
-Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
+**7 Devils Brewery**, Coos Bay  
+**Aromas**, North Bend  
+**Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
 **Ciccarelli's Restaurant**, North Bend  
 **Captains Cabin**, Coos Bay  
 **Chan's Wok**, North Bend, Closed until at least April 8  
+**City Subs**, Coos Bay  
 **Coney Station**, Coos Bay  
 **Darrell's Devis Food**, Coos Bay  
 **Dave’s Pizza**, Coos Bay  
