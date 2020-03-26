@@ -15,9 +15,10 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
+accordion_sections: []
 
 ---
-_Last Updated 6:00 p.m. PST March 24, 2020_
+_Last Updated 10:00 a.m. PST March 26, 2020_
 
 **Due to the Governor's Stay at Home order of March 23, 2020 all non-essential businesses, attractions, state parks, county parks, recreation providers, pools, and shopping malls are closed until further notice. The Governor is strongly discouraging non-essential travel in the state and we encourage everyone to STAY HOME & STAY HEALTHY. Let's all do our part to stop the spread of COVID-19.**
 
