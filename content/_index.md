@@ -7,17 +7,11 @@ aliases:
 slideshow:
 - photo: "/img/stay-home-healthy-hm-slider.jpg"
   photo_mobile: "/img/stay-home-healthy-mobile-slider.jpg"
-- title: The Best Girlfriends Getaway!
-  photo: "/img/girlfriends-getaway-home-slider.jpg"
-  title_mobile: Girlfriends Getaway!
-  photo_mobile: "/img/girlfriends-getaway-home-mobile.jpg"
-  url: https://www.oregonsadventurecoast.com/girlfriends/
 - title: Breathtaking Views
   photo: "/img/shore-acres-slider.jpg"
   url: "/hiking-walking"
-- title: Disconnect to Reconnect
-  photo: "/img/camping-family-slider.jpg"
-  url: "/state-parks-and-national-lands"
+- title: Spectacular Sights
+  photo: "/img/lighthouse-hm-slider.jpg"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/hiking-shore-acres-desktop.jpg"
