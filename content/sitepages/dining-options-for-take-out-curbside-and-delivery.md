@@ -69,7 +69,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee, closed Mondays & Tuesdays
 
-[**Gino's Pizza**](https://ginospizzainn.com/) - Delivery of pizza. Phone: (541) 756-5000
+[**Gino's Pizza**](https://ginospizzainn.com/) - Curbside pickup & take-out available. Phone: (541) 756-5000
 
 [**Kaffe 101**](http://kaffe101.com/)- Take-out and curbside pickup of regular food and beverage menu. For curbside pickup, call ahead (541) 267-4894
 
