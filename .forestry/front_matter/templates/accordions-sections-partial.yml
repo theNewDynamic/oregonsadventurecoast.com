@@ -2,8 +2,26 @@
 label: Accordions Sections Partial
 hide_body: true
 fields:
-- name: test
-  type: text
-  config:
-    required: false
-  label: Test
+- name: accordion_sections
+  type: field_group_list
+  label: Accordion Sections
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Section Title
+  - name: accordions
+    type: field_group_list
+    label: Accordions
+    fields:
+    - name: title
+      type: text
+      config:
+        required: true
+      label: Accordion Title
+    - name: content
+      type: textarea
+      config:
+        required: true
+      label: Accordion Content

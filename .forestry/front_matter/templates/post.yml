@@ -40,6 +40,11 @@ fields:
     min: 
     max: 
   label: Aliases
+- name: accordions_sections
+  type: include
+  config: {}
+  template: accordions-sections-partial
+  label: Accordions Sections
 pages:
 - content/blog/10-awe-inspiring-photos-to-remind-us-why-we-love-oregon-s-adventure-coast.md
 - content/blog/a-two-day-oregon-coast-whale-watching-trip-itinerary.md
