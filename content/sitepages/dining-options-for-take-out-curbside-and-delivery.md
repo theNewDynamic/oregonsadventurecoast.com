@@ -17,6 +17,8 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 #### We encourage our residents and visitors to support our local businesses by ordering meals to go or purchasing gift cards for future meals from these fine establishments! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
 
+[**7 Devils Brewery**](https://www.7devilsbrewery.com/#/) - offering Take N Bake Meals and Beer in cans, bottles, & growlers on Fridays, Sundays & Tuesdays. Orders must be made at least 12 hours in advance - [click this link](https://www.7devilsbrewery.com/#/). Pickup from 4pm-7pm
+
 [**Abby’s Pizza**](https://abbys.com/) - Delivery and curbside togo orders only 541-267-5839
 
 [**Alder Smokehouse**](https://www.facebook.com/thealdersmokehouse/) - Take-out of regular menu. Curbside pick up from 11-3. Call or Text (541) 756-9599
@@ -143,7 +145,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted. Please keep these establishments in your thoughts and plan to visit them when they re-open.
 
-**7 Devils Brewery**, Coos Bay  
+  
 **Aromas**, North Bend  
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
 **Ciccarelli's Restaurant**, North Bend  
