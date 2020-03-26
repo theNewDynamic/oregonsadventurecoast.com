@@ -113,6 +113,8 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - Take-out of regular menu, discounts available.
 
+**Puerto Vallarta** - Take-Out available. (541) 269-0919
+
 [**Restaurant O**](https://www.facebook.com/RestaurantO/) - Take-out of a limited menu from lunch and dinner - 12-8p Tues-Sun. 20% discount on orders over $20. Phone: (541) 808-9300
 
 [**Sea Basket**](https://www.facebook.com/JRU.industries/) - Take-out of specials and regular menu.
