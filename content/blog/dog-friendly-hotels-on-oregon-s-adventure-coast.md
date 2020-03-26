@@ -5,7 +5,7 @@ description: Pets are part of the family, and what’s a family vacation to Oreg
   Adventure Coast without the whole family in tow? We welcome travelers AND their
   furry friends! Here is a list of several of our “pet-friendly” play areas and lodging
   options in the Coos Bay/North Bend/Charleston area.
-image: "/img/Dog photo_blog.png"
+image: "/img/Pet Friendly Oregon Coast Hotels_blog_695 x 322.png"
 tags:
 - Traveling with Dogs
 - Dog Friendly Hotels
@@ -23,9 +23,10 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
+accordion_sections: []
 
 ---
-We love our visitors, we really do! But for the time being, PLEASE STAY HOME and STAY HEALTHY. We look forward to welcoming you back when we can all safely travel again- and when that happens, there will be beautiful beaches, hiking trails and more waiting for you. In the meantime, we hope this post gives you some ideas and inspiration on ways to travel with your pet on Oregon's Adventure Coast
+We love our visitors, we really do! But for the time being, PLEASE STAY HOME and STAY HEALTHY. We look forward to welcoming you back when we can all safely travel again- and when that happens, there will be beautiful beaches, hiking trails and more waiting for you. In the meantime, we hope this post gives you some ideas and inspiration on ways to travel with your pet on Oregon's Adventure Coast.
 
 ### Where Can Pets Play & Stay in the Coos Bay \~ North Bend \~ Charleston area?
 
