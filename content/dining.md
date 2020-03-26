@@ -15,7 +15,7 @@ seo:
 ---
 ### Due to directives in relation to the COVID-19 virus, most of our area restaurants and bars have moved to Take-Out, Curbside or Delivery options. [**_Please review this list_**](/dining-options-takeout) for the most up to date information.
 
-## We encourage visitors & residents to support our local businesses!
+## We encourage EVERYONE to support local businesses!
 
 Wherever you are at Oregon’s Adventure Coast, you will have a wide variety of dining and meal options. We have several family style eateries, as well as ethnic, chain, seafood and fine dining restaurants. [Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.](/img/walking-map-cbnb.pdf)Find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns.
 

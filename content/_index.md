@@ -5,25 +5,15 @@ aliases:
 - "/activities/category/geocaching"
 - "/rob"
 slideshow:
-- title: The Best Girlfriends Getaway!
-  photo: "/img/girlfriends-getaway-home-slider.jpg"
-  title_mobile: Girlfriends Getaway!
-  photo_mobile: "/img/girlfriends-getaway-home-mobile.jpg"
-  url: https://www.oregonsadventurecoast.com/girlfriends/
-- title: Best Storm Watching - Jan/Feb/Mar
-  photo: "/img/storm-watching-hm-slider-lg.jpg"
-  title_mobile: Best Storm Watching
-  photo_mobile: "/img/storm-watching-mobile-hm-slider.jpg"
-  url: "/storm-watching"
+- photo: "/img/stay-home-healthy-hm-slider.jpg"
+  photo_mobile: "/img/stay-home-healthy-mobile-slider.jpg"
 - title: Breathtaking Views
   photo: "/img/shore-acres-slider.jpg"
   url: "/hiking-walking"
-- title: Disconnect to Reconnect
-  photo: "/img/camping-family-slider.jpg"
-  url: "/state-parks-and-national-lands"
-- photo: "/img/seven-devils-interior-night.jpg"
-  title: Relax and Converse
-  url: "/dining"
+- title: Spectacular Sights
+  photo: "/img/lighthouse-hm-slider.jpg"
+- photo: "/img/sunset-bay-sunset-hm-slider.jpg"
+  title: Stunning Sunsets
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/hiking-shore-acres-desktop.jpg"

@@ -11,11 +11,13 @@ seo:
 aliases: []
 
 ---
-**_Updated 6:30pm PST, March 23, 2020_**
+**_Updated 5:55pm PST, March 25, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
 #### We encourage our residents and visitors to support our local businesses by ordering meals to go or purchasing gift cards for future meals from these fine establishments! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
+
+[**7 Devils Brewery**](https://www.7devilsbrewery.com/#/) - offering Take N Bake Meals and Beer in cans, bottles, & growlers on Fridays, Sundays & Tuesdays. Orders must be made at least 12 hours in advance - [click this link](https://www.7devilsbrewery.com/#/). Pickup from 4pm-7pm
 
 [**Abby’s Pizza**](https://abbys.com/) - Delivery and curbside togo orders only 541-267-5839
 
@@ -23,23 +25,21 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Angelina’s Mexican Restaurant**](https://www.facebook.com/bestmexicanfoodintown/) - Call ahead for ToGo orders
 
-[**Aromas**](https://www.facebook.com/visitaromas/) - Take-out from their Pony Village Mall location
-
 [**Bailey's Health Food Center Grab & Go Deli**](https://www.facebook.com/Baileys-Health-Food-Center-147228088639515/) - curb side pick-up of call ahead orders (541) 756-3004
 
 [**Bay Burger Inn**](https://www.facebook.com/Bay-Burger-Inn-Praus-Haus-111732925528842/) - Drive through or call in your order 541-888-3688
 
-[**Bayside Bakery Grill & Cafe**](https://www.facebook.com/Bayside-Bakery-Grill-Cafe-288893441167156/) - Take-out and curbside pickup on call ahead orders. (541) 808-0151
+[**Bayside Bakery Grill & Cafe**](https://www.facebook.com/Bayside-Bakery-Grill-Cafe-288893441167156/) - Free delivery in Coos Bay, North Bend & Empire city limits. on $10 or more orders. $3 delivery fee on other orders, Tues-Fri 8am-3pm and Sat 8:30am-3pm. Call (541) 808-0151
 
 [**Bayside Coffee, Charleston**](http://www.baysidecoffeeshop.com/) - Takeout and curbside delivery of coffee drinks and pastries. Order drinks, ground coffee or beans ahead and pick up curbside (541) 260-3742
 
-[**Blue Heron Bistro**](http://www.blueheronbistro.net/) - Take-out, curbside and delivery of family style meals
+[**Blue Heron Bistro**](http://www.blueheronbistro.net/) - Take-out, curbside and delivery of family style meals, dinner
 
 [**Bon Appetit Catering & Event Center**](https://www.facebook.com/BABCEvents/) - Take and bake meals. (541) 290-2271
 
 [**Bungalow Market & Deli**](https://www.facebook.com/Bungalow-Market-Deli-282965688442/) - Regular hours and to go operations.
 
-[**Buzz**](https://www.facebook.com/ponyvillagebuzz/) - Pick up and delivery of regular menu
+[**Buzz**](https://www.facebook.com/ponyvillagebuzz/) - Pick up from back door (as Pony Village Mall is Closed now) and delivery of regular menu. Must call ahead (541) 756-0144
 
 [**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - Curbside & Delivery Service Phone: (541) 808-9500
 
@@ -49,11 +49,11 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Captain's Choice NB**](http://www.captainschoicefishhouse.com/) - Order ahead and pick up in lobby or call when you arrive and they'll deliver to your car. Phone (541) 756-0125
 
-[**City Subs**](https://www.facebook.com/CitySubs/) - Take-out, must call ahead, (541)269-9000
-
 [**Clausen’s Deli**](https://www.clausenoysters.com/restaurant/) - no prepared food, still open to sell fresh oysters regular hours
 
 [**The Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - Take-out with curbside pickup (541) 267-5116 from 11-7 (M-Sa) 11-4 (Su)
+
+[**Coney Station**](https://www.facebook.com/ConeyStation/) - Curbside pickup of a limited menu, 11am-6pm, Please Call ahead (541) 269-6948
 
 [**Dishner's Restaurant**](https://www.facebook.com/Dishners2881/) - Take-out of their  full menu. Phone: (541) 756-2881
 
@@ -71,11 +71,11 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee, closed Mondays & Tuesdays
 
-[**Gino's Pizza**](https://ginospizzainn.com/) - Delivery of pizza. Phone: (541) 756-5000
+[**Gino's Pizza**](https://ginospizzainn.com/) - Curbside pickup & take-out available. Phone: (541) 756-5000
 
 [**Kaffe 101**](http://kaffe101.com/)- Take-out and curbside pickup of regular food and beverage menu. For curbside pickup, call ahead (541) 267-4894
 
-[**Kozy Kitchen**](https://www.facebook.com/Kozykitchendiners/) - Take-out and curbside pickup of Ready to Go meals. See their Facebook page for more information
+[**Kozy Kitchen**](https://www.facebook.com/Kozykitchendiners/) - Take-out, curbside pickup of Ready to Go meals, and Delivery service within 5 mile radius for $5 fee. See their Facebook page for more information and call in your order 541-756-1214
 
 [**Kum-Yons**](http://kumyonscoosbay.com/index.html) - Take-out available from 11am-8:30pm for call ahead orders
 
@@ -85,7 +85,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Little Caesars**](https://littlecaesars.com/en-us/) - Coos Bay and North Bend - Hot-N-Ready Pizzas and more available 11am-9pm Daily. Phone: CB 541-266-9595, NB 541-756-5656
 
-[**Little Italy**](http://littleitalycoosbay.com/) - Take-out of their regular menu. They are offering a 15% discount. Phone: 541-808-2200
+[**Little Italy**](http://littleitalycoosbay.com/) - Take-out of their regular menu from 3pm-8pm. They are offering a 15% discount. Phone: 541-808-2200
 
 [**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - In Pony Village Mall, take-out of full menu
 
@@ -103,8 +103,6 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Monkey Business**](https://www.facebook.com/Monkey-Business-Food-to-Go-1654371274782354/) - Food truck Take-out available
 
-[**Noster Kitchen**](https://nosterkitchen.com/) - Takeout available [www.nosterkitchen.com/menu](http://www.nosterkitchen.com/menu?fbclid=IwAR3jpx1_zpUzdJxvKEjupUnTvLnkLkFr7n2cbZEIzPiYtXu1osG-HpJ4u_A) or call (541) 808-3999, temporary hours 10:30am - 2pm
-
 [**Ocean Air Taqueria & Eatery**](https://www.facebook.com/Ocean-Air-Taqueria-Eatery-108504043866257/) - Take-out and curbside pickup with call ahead order (541) 808-3532
 
 [**Pancake Mill**](https://www.pancakemill.com/) - Take-out of regular menu breakfast and lunch menu. Phone: (541) 756-2751
@@ -114,6 +112,8 @@ _Please know that we are doing our best to keep up with the restaurants offering
 [**Portside**](http://www.portsidebythebay.com/) - Take-out full menu and if you call ahead they will have it ready and will bring out the back door to your car
 
 [**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - Take-out of regular menu, discounts available.
+
+**Puerto Vallarta** - Take-Out available. (541) 269-0919
 
 [**Restaurant O**](https://www.facebook.com/RestaurantO/) - Take-out of a limited menu from lunch and dinner - 12-8p Tues-Sun. 20% discount on orders over $20. Phone: (541) 808-9300
 
@@ -147,11 +147,13 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted. Please keep these establishments in your thoughts and plan to visit them when they re-open.
 
-**7 Devils Brewery  
-Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
+  
+**Aromas**, North Bend  
+**Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
 **Ciccarelli's Restaurant**, North Bend  
 **Captains Cabin**, Coos Bay  
 **Chan's Wok**, North Bend, Closed until at least April 8  
+**City Subs**, Coos Bay  
 **Coney Station**, Coos Bay  
 **Darrell's Devis Food**, Coos Bay  
 **Dave’s Pizza**, Coos Bay  
@@ -160,6 +162,7 @@ Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go
 **Hilltop House Restaurant**, North Bend  
 **Liberty Pub**, North Bend  
 **Lucky Star**, North Bend, Closed until April 7  
+**Noster Kitchen**, Coos Bay  
 **Outdoor Inn**, Coos Bay  
 **Saw Blade Buffet, Plankhouse, Timbers, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
 **Sizzler**, North Bend  
