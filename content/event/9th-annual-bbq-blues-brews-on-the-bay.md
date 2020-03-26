@@ -8,7 +8,7 @@ desktoptitle: BBQ, Blues & Brews Festival
 mobiletitle: BBQ, Blues & Brews
 hovertitle: BBQ, Blues & Brews
 hoverdescription: KCBS Sanctioned BBQ Event on the Bay!
-startdate: '2020-07-18'
+startdate: '2020-07-17'
 enddate: '2020-07-19'
 address:
   street: 3201 Tremont St
@@ -26,9 +26,9 @@ seo:
   image: "/img/bbq-blues-event-medium.jpg"
 
 ---
-**Get ready for 3 days of lip-smackin' BBQ, incredible brews and smokin' hot tunes. July 18-19, 2020. _Please note the new dates!_**
+**Get ready for 3 days of lip-smackin' BBQ, incredible brews and smokin' hot tunes. July 17-19, 2020. _Please note the new dates!_**
 
-The Mill's BBQ, Blues & Brews on the Bay has grown into one of The Mill's most attended events. Finger lickin’ good barbecue, hand-crafted beers and smokin’ hot tunes at the BBQ, Blues & Brews on the Bay, Memorial Day Weekend. Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, July 18 and 19, 2020 at The Mill Casino • Hotel & RV Park.
+The Mill's BBQ, Blues & Brews on the Bay has grown into one of The Mill's most attended events. Finger lickin’ good barbecue, hand-crafted beers and smokin’ hot tunes at the BBQ, Blues & Brews on the Bay, Memorial Day Weekend. Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, July 17-19, 2020 at The Mill Casino • Hotel & RV Park.
 
 [Book your room now!](https://oregonsadventurecoast.com/lodging/ "Lodging on Oregon's Adventure Coast!")
 
