@@ -1,3 +1,4 @@
+{{ if ne (getenv "HUGO_ENV") "production" }}
 {{ with $.Page.Params.accordion_sections }}
 
 {{ range . }}
@@ -23,4 +24,5 @@
     </div>
 {{ end }}
 
+{{ end }}
 {{ end }}
