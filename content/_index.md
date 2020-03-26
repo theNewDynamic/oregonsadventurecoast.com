@@ -12,6 +12,8 @@ slideshow:
   url: "/hiking-walking"
 - title: Spectacular Sights
   photo: "/img/lighthouse-hm-slider.jpg"
+- photo: "/img/sunset-bay-sunset-hm-slider.jpg"
+  title: Stunning Sunsets
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/hiking-shore-acres-desktop.jpg"
