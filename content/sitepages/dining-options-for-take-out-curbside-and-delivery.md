@@ -11,7 +11,7 @@ seo:
 aliases: []
 
 ---
-**_Updated1:25pm PST, March 25, 2020_**
+**_Updated 5:55pm PST, March 25, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
