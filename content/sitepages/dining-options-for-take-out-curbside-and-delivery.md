@@ -9,9 +9,10 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
+accordion_sections: []
 
 ---
-**_Updated 5:55pm PST, March 25, 2020_**
+**_Updated 10:00am PST, March 26, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -147,7 +148,6 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted. Please keep these establishments in your thoughts and plan to visit them when they re-open.
 
-  
 **Aromas**, North Bend  
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
 **Ciccarelli's Restaurant**, North Bend  
