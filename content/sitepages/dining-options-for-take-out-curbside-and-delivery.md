@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 10:00am PST, March 26, 2020_**
+**_Updated 4:20pm PST, March 26, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -88,8 +88,6 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Little Italy**](http://littleitalycoosbay.com/) - Take-out of their regular menu from 3pm-8pm. They are offering a 15% discount. Phone: 541-808-2200
 
-[**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - In Pony Village Mall, take-out of full menu
-
 [**Luigi’s**](https://www.facebook.com/Luigis-Italian-Sandwiches-140543963550/) - Take-out only with call ahead order
 
 [**Maria’s Authentic Mexican**](https://www.facebook.com/Marias-Authentic-Mexican-Restaurant-217216079032178/) - Delivery and curbside service available
@@ -161,6 +159,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 **High Tide**, Charleston  
 **Hilltop House Restaurant**, North Bend  
 **Liberty Pub**, North Bend  
+**Los Dos Amigos**, North Bend  
 **Lucky Star**, North Bend, Closed until April 7  
 **Noster Kitchen**, Coos Bay  
 **Outdoor Inn**, Coos Bay  
