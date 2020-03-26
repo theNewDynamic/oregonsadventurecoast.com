@@ -1,0 +1,58 @@
+.accordion-section{
+    margin-bottom: 2em;
+
+    .section-heading{
+        margin-bottom: 1em;
+    }
+
+    .accordion{
+
+        .heading{
+            background-color: $red;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            padding-left: 15px;
+            padding-right: 15px;
+            transition: 0.3s;
+            margin-bottom: 1em;
+            
+
+            span:after{
+                content: " ";
+                background-image: url('/layout-images/chevron-up.png');
+                width: 20px;
+                height: 20px;
+                background-size: 20px;
+                background-repeat: no-repeat;
+                background-position: center;
+                display: block;
+                position: absolute;
+                right: -40px;
+                top: 3px;
+                transform: rotate(180deg);
+                transition: transform 0.3s;
+            }
+
+            &.expanded span{
+                &:after{
+                    transform: rotate(0);
+                }
+            }
+            
+            &:hover{
+                filter: brightness(130%);
+            }
+
+            span{
+                position: relative;
+                color: $white;
+                font-size: 20px;
+                font-weight: normal;
+            }
+        }
+
+        .accordion-content{
+            margin-bottom: 1em;
+        }
+    }
+}

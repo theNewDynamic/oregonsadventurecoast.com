@@ -9,7 +9,13 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
-
+accordion_sections:
+  - title: 'A group of accordion'
+    accordions:
+      - title: 'An accordion title'
+        content: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+      - title: 'Another accordion title'
+        content: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
 ---
 _Updated at 6:00p.m., March 24, 2020_
 
@@ -34,3 +40,5 @@ We are closely monitoring the Coronavirus (COVID-19) pandemic as it relates to o
 This is a rapidly evolving situation that changes by the hour and there is a lot of uncertainty. We strongly encourage residents and travelers to always follow public health authorities’ recommendations above all else.
 
 **We look forward to seeing you in the future.**
+
+{{< accordions >}}

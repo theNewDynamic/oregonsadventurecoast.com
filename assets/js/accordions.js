@@ -1,0 +1,49 @@
+document.addEventListener('DOMContentLoaded', (event) => {
+    var accordionSections = document.getElementsByClassName("accordion-section");
+    var accordions = [];
+
+    for (var i = 0; i < accordionSections.length; i++){
+        var sectionAccordions = accordionSections[i].getElementsByClassName("accordion");
+
+        for (var j = 0; j < sectionAccordions.length; j++){
+            accordions = accordions.concat(sectionAccordions[j]);
+        }
+
+    }
+
+    accordions.forEach(function(accordion, index) {
+        accordion.addEventListener('click', function() {
+          var accordionHeading = this.getElementsByClassName("heading")[0];
+          var accordionContent = this.getElementsByClassName("accordion-content")[0];
+
+          if(accordionHeading.classList.contains("collapsed")){
+            closeAllAccordions();
+            accordionHeading.classList.remove("collapsed");
+            accordionHeading.classList.add("expanded");
+            accordionContent.classList.remove("hidden");
+          }
+          else{
+            accordionHeading.classList.remove("expanded");
+            accordionHeading.classList.add("collapsed");
+            accordionContent.classList.add("hidden");
+          }
+
+        });
+    });
+
+    function closeAllAccordions(){
+
+        for (var i = 0; i < accordions.length; i++){
+            var currentHeading = accordions[i].getElementsByClassName("heading")[0];
+            var currentContent = accordions[i].getElementsByClassName("accordion-content")[0];
+
+            if (currentHeading.classList.contains("expanded")){
+                currentHeading.classList.remove("expanded");
+                currentHeading.classList.add("collapsed");
+                currentContent.classList.add("hidden");
+            }
+        }
+
+    }
+
+});
