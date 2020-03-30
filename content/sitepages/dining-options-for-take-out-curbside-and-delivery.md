@@ -34,7 +34,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Bayside Coffee, Charleston**](http://www.baysidecoffeeshop.com/) - Takeout and curbside delivery of coffee drinks and pastries. Order drinks, ground coffee or beans ahead and pick up curbside (541) 260-3742
 
-[**Blue Heron Bistro**](http://www.blueheronbistro.net/) - Take-out, curbside and delivery of family style meals, dinner
+[**Blue Heron Bistro**](http://www.blueheronbistro.net/) - Take-out, curbside and delivery of family style meals, dinner. New weekly menu items too. 
 
 [**Bon Appetit Catering & Event Center**](https://www.facebook.com/BABCEvents/) - Take and bake meals. (541) 290-2271
 
