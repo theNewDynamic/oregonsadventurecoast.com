@@ -28,3 +28,6 @@ Visitor Services Manager
 Marketing Admin  
 541-269-1181 ext 2304  
 [allison@oregonsadventurecoast.com](mailto:allison@oregonsadventurecoast.com)
+
+![](/img/Staff meeting.jpg)  
+_VCB Staff meeting remotely during the COVID-19 "Stay at Home" directive. From Left to Right, Top Row: Allison Richards, Janice Langlinais; Bottom Row: Cheryl Crockett_
