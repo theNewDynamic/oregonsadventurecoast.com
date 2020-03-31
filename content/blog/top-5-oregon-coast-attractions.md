@@ -1,6 +1,6 @@
 ---
 title: Top 5 Oregon Coast Attractions - Indoors!
-date: 2020-03-06T08:00:00+00:00
+date: 2020-03-06T08:00:00.000+00:00
 description: These Top 5 Oregon Coast Attractions will keep your kids happy when the
   weather is a bit grey.
 image: ''
@@ -20,11 +20,13 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
+accordion_sections: []
 draft: true
 
 ---
-## Top 5 Oregon Coast Attractions -  
-Indoors - For Kids of All Ages
+## Top 5 Oregon Coast Attractions -
+
+### Indoors - For Kids of All Ages
 
 [**Oregon’s Adventure Coast**](https://www.oregonsadventurecoast.com/)’s towns of Coos Bay, North Bend and Charleston are known for their outdoor adventures – fishing, crabbing, clamming, hiking, biking, kayaking and more – but what do you do when the weather is less than cooperative and you have kids in tow?
 
