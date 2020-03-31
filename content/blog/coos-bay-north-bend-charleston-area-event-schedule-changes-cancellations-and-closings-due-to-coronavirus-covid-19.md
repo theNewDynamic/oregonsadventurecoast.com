@@ -18,11 +18,13 @@ aliases: []
 accordion_sections: []
 
 ---
-_Last Updated 10:00 a.m. PST March 26, 2020_
+_Last Updated 10:30 a.m. PST March 31, 2020_
 
 **Due to the Governor's Stay at Home order of March 23, 2020 all non-essential businesses, attractions, state parks, county parks, recreation providers, pools, and shopping malls are closed until further notice. The Governor is strongly discouraging non-essential travel in the state and we encourage everyone to STAY HOME & STAY HEALTHY. Let's all do our part to stop the spread of COVID-19.**
 
 **To read the Governor's Executive Order,** [**click here**](https://govsite-assets.s3.amazonaws.com/jkAULYKcSh6DoDF8wBM0_EO%2020-12.pdf)**.**
+
+**_Latest closure, 3/31/2020: The Oregon Dunes National Recreation Area and all access points are closed until further notice._**
 
 Restaurants are considered an essential business, however, seated dining is prohibited at this time. We are keeping a running list of those local restaurants offering other options.
 
