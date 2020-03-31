@@ -11,7 +11,8 @@ seo:
 date: '2019-02-18T19:35:33.000+00:00'
 
 ---
-![](/img/Staff meeting.jpg 'CVB Staff remote meeting during COVID-19 "Stay at Home" order')
+###### ![](/img/Staff meeting.jpg 'CVB Staff remote meeting during COVID-19 "Stay at Home" order')  
+_VCB Staff meeting remotely during the COVID-19 "Stay at Home" directive. From Left to Right: Allison Richards, Janice Langlinais, Cheryl Crockett._
 
 #### **Coos Bay-North Bend Visitor & Convention Bureau Staff Directory**
 
