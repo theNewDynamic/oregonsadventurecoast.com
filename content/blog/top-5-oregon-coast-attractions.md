@@ -3,7 +3,7 @@ title: Top 5 Oregon Coast Attractions - Indoors!
 date: 2020-03-06T08:00:00.000+00:00
 description: These Top 5 Oregon Coast Attractions will keep your kids happy when the
   weather is a bit grey.
-image: ''
+image: "/img/CharlestonMarineLifeCenterblog-695x322.jpg"
 tags:
 - top 5 oregon coast attractions
 - indoor attractions oregon coast
@@ -32,13 +32,19 @@ draft: true
 
 ### We have compiled our Top 5 Indoor Attractions here:
 
+![](/img/CharlestonMarineLifeCenterblog-695x322.jpg)
+
 #### 1. Interact with Nature – Even Indoors
 
 You can learn and interact with nature even when you’re not outside. The [**South Slough Estuary Reserve**]() has an amazing interpretive center, where you can look at fossils, learn about indigenous animals, and watch nature films. Visit their website to find out about programs and classes. The [**Charleston Marine Life Center**](http://www.charlestonmarinelifecenter.com/) is an oasis of marine learning and offers a touch tide pool, fossil displays, and live sea creature tanks. Come in and watch the fishing boats unload their catch from across the dock and spy a variety of bird species that call this part of the coast home.
 
+![](/img/Coos History - Mom Daughter 695x322.jpg)
+
 #### 2. Museums
 
 Museums are for kids too! [**The Coos History Museum**](https://cooshistory.org/), hosts Family fun Day on the first Saturday of each month – admission to the museum is **Free** to everyone all day long and there is a craft activity for kids from 10am-2pm. At the [**Coos Art Museum**](http://www.coosart.org/) rotating exhibits showcase local and national artists while the Prefontaine Gallery houses memorabilia and photographs depicting Steve Prefontaine’s running career and Olympic medals. Check the Coos Art Museum’s calendar for a variety of classes and activities for kids.
+
+![](/img/180714_bowling_483-1.jpg)
 
 #### 3. Burn Off Some Energy
 
