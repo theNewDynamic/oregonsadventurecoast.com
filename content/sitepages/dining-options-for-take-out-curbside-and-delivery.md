@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 11:00am PDT, April 1, 2020_**
+**_Updated 4:00pm PDT, April 3, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -55,8 +55,6 @@ _Please know that we are doing our best to keep up with the restaurants offering
 [**The Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - Take-out with curbside pickup (541) 267-5116 from 11-7 (M-Sa) 11-4 (Su)
 
 [**Coney Station**](https://www.facebook.com/ConeyStation/) - Curbside pickup of a limited menu, 11am-6pm, Please Call ahead (541) 269-6948
-
-[**Darrell's Devis Food**](https://www.facebook.com/Chefdeezy/) - will begin offering Take-out the week of March 30th. Details coming soon.
 
 [**Dishner's Restaurant**](https://www.facebook.com/Dishners2881/) - Take-out of their  full menu. Phone: (541) 756-2881
 
@@ -155,6 +153,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 **Chan's Wok**, North Bend, Closed until at least April 8  
 **City Subs**, Coos Bay  
 **Coney Station**, Coos Bay  
+**Darrell's Devils Food**, Coos Bay  
 **Dave’s Pizza**, Coos Bay  
 **Gooney’s**, Coos Bay  
 **High Tide**, Charleston  
