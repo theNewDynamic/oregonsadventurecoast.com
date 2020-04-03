@@ -21,7 +21,7 @@ description: These are just a few things travelers have said about their visit t
 
 **“a mesmerizing, spiritual view of the wild Pacific Coast”.**
 
-These are just a few things travelers have said about their visit to Cape Arago State Park. While the Oregon Coast offers plenty of spectacular views of the Pacific Ocean, there is something very special about this scenic headland located at the end of <a href="http://www.oregonsadventurecoast.com/trip-ideas/explore-the-cape-arago-beach-loop/" target="_blank">Cape Arago Highway</a> about 15 miles southwest of Coos Bay.
+These are just a few things travelers have said about their visit to Cape Arago State Park. While the Oregon Coast offers plenty of spectacular views of the Pacific Ocean, there is something very special about this scenic headland located at the end of <a href="/trip-ideas/explore-the-cape-arago-beach-loop/">Cape Arago Highway</a> about 15 miles southwest of Coos Bay.
 
 Cape Arago State Park is one of our favorite places to experience nature while taking in the beautiful coastal forest, dramatic cliffs, crashing surf, and amazing views of the Pacific. It’s also one of the best spots in Oregon to see migrating whales and other marine mammals, as well as fishing boats and ships entering and leaving Coos Bay.
 
@@ -41,5 +41,3 @@ Here are some quick tips to get the most out of your trip to
 **How to Get there:**
 
 From Hwy 101, head west on Newmark Avenue (just south of the Mill Casino). Follow the road until you reach the Stop sign at the End, follow the signs and turn left onto Cape Arago Hwy. Follow this road, once you cross the bridge into Charleston, the road will fork; veer to the right to head for the docks, or veer to the left to follow the Cape Arago Beach Loop. This road will eventually loop back around. Enjoy the views and pull over often!
-
- 
