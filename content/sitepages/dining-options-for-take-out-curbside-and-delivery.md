@@ -76,6 +76,8 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Kaffe 101**](http://kaffe101.com/)- Take-out and curbside pickup of regular food and beverage menu. For curbside pickup, call ahead (541) 267-4894
 
+**Kim's Oriental Market** - Take-out of small menu of items. Phone: (541) 267-0488
+
 [**Kozy Kitchen**](https://www.facebook.com/Kozykitchendiners/) - Take-out, curbside pickup of Ready to Go meals, and Delivery service within 5 mile radius for $5 fee. See their Facebook page for more information and call in your order 541-756-1214
 
 [**Kum-Yons**](http://kumyonscoosbay.com/index.html) - Take-out available from 11am-8:30pm for call ahead orders
