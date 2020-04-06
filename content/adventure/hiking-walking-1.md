@@ -10,6 +10,12 @@ seo:
     an entire system of hiking and biking trails in the immediate and surrounding
     area. '
   title: Oregon Coast Outdoor Activities - Hiking/Biking | Oregon's Adventure Coast
+accordion_sections:
+- title: Other Trails to Explore
+  accordions:
+  - content: '4 miles of paved and 1.5 miles of dirt paths around Upper and Lower
+      Empire Lakes in Coos Bay. '
+    title: Empire Lakes Trail
 draft: true
 
 ---
