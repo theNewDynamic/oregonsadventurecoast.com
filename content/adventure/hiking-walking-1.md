@@ -1,5 +1,5 @@
 ---
-title: Hiking & Walking
+title: Hiking & Walking-Accordion
 aliases:
 - "/featured-adventures/walking-hiking"
 - "/activities/category/hiking"
