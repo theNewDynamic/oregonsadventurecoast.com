@@ -16,6 +16,8 @@ accordion_sections:
   - content: '4 miles of paved and 1.5 miles of dirt paths around Upper and Lower
       Empire Lakes in Coos Bay. '
     title: Empire Lakes Trail
+  - title: Millicoma Marsh
+    content: ".5 mile loop with interpretive birding trail"
 draft: true
 
 ---
