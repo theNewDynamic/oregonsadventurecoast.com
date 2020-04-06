@@ -41,3 +41,8 @@ fields:
     min: 
     max: 
   label: Aliases
+- name: accordions_sections
+  type: include
+  config: {}
+  template: accordions-sections-partial
+  label: Accordions Section
