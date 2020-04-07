@@ -11,7 +11,7 @@ seo:
     area. '
   title: Oregon Coast Outdoor Activities - Hiking/Biking | Oregon's Adventure Coast
 accordion_sections:
-- title: Other Trails to Explore
+- title: MORE TRAILS TO EXPLORE
   accordions:
   - title: John Dellenback Dunes Trail
     content: Part of the Oregon Dunes National Recreation Area where motorized vehicles

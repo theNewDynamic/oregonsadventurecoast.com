@@ -9,7 +9,7 @@ fields:
   - name: title
     type: text
     config:
-      required: false
+      required: true
     label: Section Title
   - name: accordions
     type: field_group_list
@@ -24,7 +24,4 @@ fields:
       type: textarea
       config:
         required: true
-        wysiwyg: true
-        schema:
-          format: markdown
       label: Accordion Content
