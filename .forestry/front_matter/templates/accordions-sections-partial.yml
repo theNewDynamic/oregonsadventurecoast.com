@@ -24,4 +24,7 @@ fields:
       type: textarea
       config:
         required: true
+        wysiwyg: true
+        schema:
+          format: markdown
       label: Accordion Content
