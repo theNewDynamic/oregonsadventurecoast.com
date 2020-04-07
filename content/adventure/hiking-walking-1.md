@@ -23,6 +23,22 @@ accordion_sections:
     title: Empire Lakes Trail
   - title: Millicoma Marsh
     content: ".5 mile loop with interpretive birding trail"
+  - title: Mingus Park
+    content: 1 mile trail in Coos Bay's city park that is paved, dirt and gravel,
+      includes a secluded Zen garden, a Japanese inspired bridge over the pond in
+      the middle of park, and an outdoor stage for musical events.
+  - title: North Spit of Coos Bay Trail System
+    content: Made up of open sand dunes, forested islands, and wetlands, the North
+      Spit of Coos Bay is at the southern-most end of a series of sand dunes extending
+      along the Oregon coastline from Florence to Coos Bay. There are 10 miles of
+      hiking/horse trails, sand driving roads, an undeveloped staging area and miles
+      of beach waiting for you to explore. The North Spit of Coos Bay is home to the
+      threatened western snowy plover. From March 15 to September 15 each year, access
+      restrictions are in place on the dry sand along the ocean shore to protect the
+      nesting birds.
+  - title: Simpson Park/Ferry Road
+    content: 1 mile loops in North Bend city park with disk golf, playground and other
+      amenities.
 draft: true
 
 ---
