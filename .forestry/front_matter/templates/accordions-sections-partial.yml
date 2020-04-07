@@ -9,7 +9,7 @@ fields:
   - name: title
     type: text
     config:
-      required: true
+      required: false
     label: Section Title
   - name: accordions
     type: field_group_list
