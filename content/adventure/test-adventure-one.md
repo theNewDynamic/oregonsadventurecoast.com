@@ -32,7 +32,7 @@ Zipping up and down the stunning Pacific Ocean beach dunes is a hair-raising goo
 
 {{< youtube "CDuA5ZNTmeo" >}}
 
-</br></br>
+</br>
 
 **Getting There:** Three main off-highway vehicle riding areas have been set aside to provide riders with a variety of experiences. The largest riding area at the Oregon Dunes stretches between {{< link url="https://www.ridetheoregondunes.com" >}}Spinreel Campground{{< /link >}} and {{< link url="https://www.fs.usda.gov/recarea/siuslaw/recreation/beaches-dunes/recarea/?recid=42627&actid=19" >}}Horsfall Road{{< /link >}}. A few miles north of North Bend/Coos Bay, this road leads to Horsfall dunes and a beach access. Another access is Hauser Sand Rd, which links the Horsfall dunes to the beach.
 
