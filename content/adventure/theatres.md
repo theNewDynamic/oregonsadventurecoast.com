@@ -26,10 +26,6 @@ Home of the Little Theatre on the Bay – Famed for their little Ole Opry perfor
 
 The Egyptian Theatre, built in 1925, is a center for community events. The theatre is listed on the National Register of Historic Places and boasts one of the only remaining operable Wurlitzer Organs in the state. Movie events and fundraisers are the weekly fare, but the theatre is also available for private events and screenings. Live music is featured on occasion, as well as beer and movie nights. With a new 4K projection system and top notch surround sound, you can experience a theatre with 90 years of memories with modern amenities! {{< link url="http://egyptiantheatreoregon.com" >}}Visit The Egyptian Theatre website for more information.{{< /link >}}
 
-#### Take A Virtual Tour of The Egyptian Theatre Back of House and Experience a Wurlitzer Organ Concert!
-
-{{< youtube "[https://www.facebook.com/watch/?v=1769505299814563](https://www.facebook.com/watch/?v=1769505299814563 "https://www.facebook.com/watch/?v=1769505299814563")" >}}
-
 {{< floatimage src="/img/dolphin-cropped.jpg" float="left" alt="The Dolphin Performance" size="40" >}}
 
 #### The Dolphin Playhouse
