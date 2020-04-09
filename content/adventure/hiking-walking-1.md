@@ -11,7 +11,7 @@ seo:
     area. '
   title: Oregon Coast Outdoor Activities - Hiking/Biking | Oregon's Adventure Coast
 accordion_sections:
-- title: ''
+- title: More Trails
   accordions:
   - title: MORE TRAILS TO EXPLORE
     content: |-
