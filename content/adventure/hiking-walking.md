@@ -80,5 +80,6 @@ South Slough National Estuarine Research Reserve is located off Cape Arago Highw
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772887646142995%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 {{< accordions >}}
+<div class="margin-50px-top"></div>
 
 **_Be sure to wear comfortable and appropriate gear, including a helmet while biking, and always carry water._**
