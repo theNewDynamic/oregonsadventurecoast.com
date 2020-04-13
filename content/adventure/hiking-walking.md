@@ -18,7 +18,7 @@ accordion_sections:
 
       Part of the Oregon Dunes National Recreation Area where motorized vehicles are prohibited. 2.7 Miles of the Dellenback trail leads to the beach, but the hike will seem longer as hikers are walking on soft, open sand.  There is also an easier interpretive loop hike.
 
-      #### [**Empire Lakes Trail**](https://www.alltrails.com/trail/us/oregon/lower-empire-lake-loop)
+      #### [**Empire Lakes Trail**](http://coosbay.org/uploads/PDF/Operations/Parks/John_Topits_Park/JOHN_TOPITS_PARK_TRAIL_MAP.pdf)
 
       4 miles of paved and 1.5 miles of dirt paths around Upper and Lower Empire Lakes in Coos Bay.
 
