@@ -1,21 +1,22 @@
 ---
 title: Hiking & Walking
 aliases:
-  - /featured-adventures/walking-hiking
-  - /activities/category/hiking
-url: /hiking-walking
-photo: /img/adventures-main-and-hiking.jpg
+- "/featured-adventures/walking-hiking"
+- "/activities/category/hiking"
+url: "/hiking-walking"
+photo: "/img/adventures-main-and-hiking.jpg"
 seo:
-  description: >-
-    The Oregon Coast offers a variety of outdoor activities including an entire
-    system of hiking and biking trails in the immediate and surrounding area. 
+  description: 'The Oregon Coast offers a variety of outdoor activities including
+    an entire system of hiking and biking trails in the immediate and surrounding
+    area. '
   title: Oregon Coast Outdoor Activities - Hiking/Biking | Oregon's Adventure Coast
+
 ---
 ## TAKE A HIKE! LITERALLY!
 
-Coos Bay, North Bend and Charleston in Coos County is an adventure waiting to happen. Grab your hiking boots, or your bike and take in nature. There are many levels of difficulty, so whatever your skill level, we think you’ll find a way to breathe in the fresh air and explore.
+Coos Bay, North Bend and Charleston in Coos County are an adventure waiting to happen. Grab your hiking boots and take in nature. There are many levels of difficulty, so whatever your skill level, we think you’ll find a way to breathe in the fresh air and explore.
 
-We have a whole system of hiking and biking trails in the immediate and surrounding area, but listed below are some of our favorites:
+We have a whole system of hiking trails in the immediate and surrounding area, but listed below are some of our favorites:
 
 ![Oregon Coast Trail - Hikers near Shore Acres State Park](/img/hiking-shore-acres-kids.jpg)
 
