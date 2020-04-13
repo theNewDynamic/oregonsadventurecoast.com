@@ -48,4 +48,8 @@ Located off Horsfall Road in the Oregon National Dunes Recreation Area just out 
 
 South Slough National Estuarine Research Reserve is located off Cape Arago Highway near Charleston along Seven Devils Road, covers 19,000 acres and offers hiking trails for all ability levels. Beginning in the uplands,  this trail system follows Hidden Creek down the valley to the slough.  After crossing the creek a few times the trail turns into a boardwalk that winds through fresh and saltwater marshes, including a portion called the skunkcabbage walk.  Vegetation includes salmonberry, thimbleberry, Lyngby’s Sedge, and Eel grass.  The “Saltwater Overlook” and “Lookout” offer views of mudflats and open-water channel, ideal for wildlife observation.  On the edge of the estuary are several trails that lead to the shoreline including Rhodes Dike, Sloughside Pilings and the Marsh trail.  Heading back towards the interpretive center is the Big Cedar trail which has remnants of the former train trestle. [Visit the South Slough Reserve webpage for more information.](https://www.oregon.gov/DSL/SS/Pages/About.aspx) [Click here for the a Estuary Study Trails map (pdf).](https://www.oregon.gov/dsl/SS/Documents/south_slough_brochure_0415.pdf)
 
+<div class="margin-50px-top"></div>
+
+![](/img/hiking-dunes-alt.jpg)
+
 **_Be sure to wear comfortable and appropriate gear, including a helmet while biking, and always carry water._**
