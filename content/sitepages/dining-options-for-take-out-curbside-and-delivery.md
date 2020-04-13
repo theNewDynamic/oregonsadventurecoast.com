@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 9:00am PDT, April 6, 2020_**
+**_Updated 2:00pm PDT, April 13, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -102,7 +102,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Momiji’s Sushi**](https://www.momijiinc.com/north-bend) - Take-out or delivery available with call ahead order
 
-[**Monkey Business**](https://www.facebook.com/Monkey-Business-Food-to-Go-1654371274782354/) - Food truck Take-out available
+[**Monkey Business**](https://www.facebook.com/Monkey-Business-Food-to-Go-1654371274782354/) - Food truck Take-out available Sat-Tue 10am-4pm; Wed-Fri 10am-6pm
 
 [**Ocean Air Taqueria & Eatery**](https://www.facebook.com/Ocean-Air-Taqueria-Eatery-108504043866257/) - Take-out and curbside pickup with call ahead order (541) 808-3532
 
