@@ -22,7 +22,7 @@ We have a whole system of hiking trails in the immediate and surrounding area, b
 
 ## Oregon Coast Trail _(Sunset Bay to Cape Arago)_
 
-Located off Cape Arago Highway through Charleston, you’ll find four miles of trails (one way) winding along one of the most spectacular coastlines in Oregon. From the Sunset Bay, the trail winds around the coastal bluffs offering spectacular views of the rugged Oregon coastline, past Shore Acres Botanical Gardens and Simpson Reef viewing area to the captivating Cape Arago State Park. {{< link url="https://www.oregon.gov/oprd/PARKS/Pages/OCT_main.aspx" >}}Visit the Oregon Coast Trail website _(Sunset Bay to Cape Arago)_ {{< /link >}}.  [Click here for a trail map](https://www.oregon.gov/oprd/PARKS/docs/OCT_g.pdf).
+Located off Cape Arago Highway through Charleston, you’ll find four miles of trails (one way) winding along one of the most spectacular coastlines in Oregon. From the Sunset Bay, the trail winds around the coastal bluffs offering spectacular views of the rugged Oregon coastline, past Shore Acres Botanical Gardens and Simpson Reef viewing area to the captivating Cape Arago State Park. {{< link url="[https://www.oregon.gov/oprd/PARKS/Pages/OCT_main.aspx](https://www.oregon.gov/oprd/PARKS/Pages/OCT_main.aspx "https://www.oregon.gov/oprd/PARKS/Pages/OCT_main.aspx")" >}}Visit the Oregon Coast Trail website _(Sunset Bay to Cape Arago)_ {{< /link >}}.  [Click here for a trail map](https://www.oregon.gov/oprd/PARKS/docs/OCT_g.pdf).
 
 <div class="margin-50px-top"></div>
 
