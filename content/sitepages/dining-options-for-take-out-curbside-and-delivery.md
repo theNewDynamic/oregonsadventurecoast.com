@@ -44,8 +44,6 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - Curbside & Delivery Service Phone: (541) 808-9500
 
-[**Cafe Mediterranean**](https://cafemediterranean.net/) - Take-out and curbside pick up available
-
 [**Cape Cafe**](https://www.facebook.com/pages/category/Restaurant/The-Cape-Cafe-2132250007095994/) - Take-out and Drive up window
 
 [**Captain's Choice NB**](http://www.captainschoicefishhouse.com/) - Order ahead and pick up in lobby or call when you arrive and they'll deliver to your car. Phone (541) 756-0125
@@ -56,7 +54,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Coney Station**](https://www.facebook.com/ConeyStation/) - Curbside pickup of a limited menu, 11am-6pm, Please Call ahead (541) 269-6948
 
-[**Darrell's Devils Food**](https://www.facebook.com/Chefdeezy) - Take-out and curbside pickup Tues-Fri 11am-4pm Saturdays 9am-4pm. 
+[**Darrell's Devils Food**](https://www.facebook.com/Chefdeezy) - Take-out and curbside pickup Tues-Fri 11am-4pm Saturdays 9am-4pm.
 
 [**Dishner's Restaurant**](https://www.facebook.com/Dishners2881/) - Take-out of their  full menu. Phone: (541) 756-2881
 
@@ -152,9 +150,10 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 **Aromas**, North Bend  
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
-**Ciccarelli's Restaurant**, North Bend  
+**Cafe Mediterranean**, North Bend (Closed for renovations)  
 **Captains Cabin**, Coos Bay  
 **Chan's Wok**, North Bend, Closed until at least April 8  
+**Ciccarelli's Restaurant**, North Bend  
 **City Subs**, Coos Bay  
 **Coney Station**, Coos Bay  
 **Darrell's Devils Food**, Coos Bay  
