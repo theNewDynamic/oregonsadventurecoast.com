@@ -15,11 +15,11 @@ accordion_sections:
   accordions:
   - title: MORE TRAILS TO EXPLORE
     content: |-
-      #### John Dellenback Dunes Trail
+      #### [**John Dellenback Dunes Trail**](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5427142.pdf)
 
       Part of the Oregon Dunes National Recreation Area where motorized vehicles are prohibited. 2.7 Miles of the Dellenback trail leads to the beach, but the hike will seem longer as hikers are walking on soft, open sand.  There is also an easier interpretive loop hike.
 
-      #### Empire Lakes Trail
+      #### [**Empire Lakes Trail**](https://www.alltrails.com/trail/us/oregon/lower-empire-lake-loop)
 
       4 miles of paved and 1.5 miles of dirt paths around Upper and Lower Empire Lakes in Coos Bay.
 
@@ -27,11 +27,11 @@ accordion_sections:
 
       .5 mile loop with interpretive birding trail
 
-      #### Mingus Park
+      #### [**Mingus Park**](http://coosbay.org/departments/parks)
 
       1 mile trail in Coos Bay's city park that is paved, dirt and gravel, includes a secluded Zen garden, a Japanese inspired bridge over the pond in the middle of park, and an outdoor stage for musical events.
 
-      #### North Spit of Coos Bay Trail System
+      #### [**North Spit of Coos Bay Trail System**](https://www.blm.gov/visit/north-spit)
 
       Made up of open sand dunes, forested islands, and wetlands, the North Spit of Coos Bay is at the southern-most end of a series of sand dunes extending along the Oregon coastline from Florence to Coos Bay. There are 10 miles of hiking/horse trails, sand driving roads, an undeveloped staging area and miles of beach waiting for you to explore. The North Spit of Coos Bay is home to the threatened western snowy plover. From March 15 to September 15 each year, access restrictions are in place on the dry sand along the ocean shore to protect the nesting birds.
 
