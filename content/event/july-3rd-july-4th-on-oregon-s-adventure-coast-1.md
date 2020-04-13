@@ -1,16 +1,16 @@
 ---
-title: July 3rd & July 4th on Oregon's Adventure Coast
+title: July 4th on Oregon's Adventure Coast
 photo: "/img/fireworks-event-page-header.jpg"
 photo_alt: Fireworks over Coos Bay
 largeboxphoto: "/img/fireworks-event-large.jpg"
-mediumboxphoto: "/img/fireworks-event-medium.jpg"
-smallboxphoto: "/img/fireworks-event-small.jpg"
+mediumboxphoto: "/img/Fireworks 667x355.jpg"
+smallboxphoto: "/img/Fireworks 340x214.jpg"
 desktoptitle: Celebrate Over Coos Bay
 mobiletitle: Celebrate Over Coos Bay
 hovertitle: Celebrate our Independence Over Coos Bay
 hoverdescription: Don’t miss the Oregon Coast’s largest fireworks display on July
   3rd!
-startdate: '2020-07-03'
+startdate: '2020-07-04'
 enddate: '2020-07-04'
 address:
   street: ''
@@ -20,21 +20,9 @@ address:
 phone_local: "(541) 269-0215"
 phone_toll_free: ''
 website: http://www.oregonsadventurecoast.com
-draft: true
 
 ---
-![](/img/fireworks-event-blog-695x322.jpg)
-
-## July 3rd Fireworks at The Mill
-
-_July 3, 2020_
-
-Don’t miss the Oregon Coast’s largest fireworks display on July 3rd. The Mill Casino will light up the skies over North Bend and the Coos Bay shoreline with their annual waterfront fireworks display.
-
-Guests are invited to enjoy the fireworks show and music for free in the non-reserved seating areas located along the boardwalk. An outdoor grill, beverage station and beer garden will be available from 7 p.m. to 10 p.m. while free non-stop shuttle service will be available from the south end of Pony Village Mall to the casino from 7 p.m. until midnight. This event is open to all ages. Fireworks begin at dusk (approximately 10 p.m.)
-
-The Mill Casino * Hotel & RV Park  
-3201 Tremont Ave, North Bend OR, 97459
+![](/img/4th-of-july-fireworks-coos-bay-674x447.jpg)
 
 ## 4th of July in Mingus Park & Coos Bay Boardwalk Fireworks
 
