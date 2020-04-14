@@ -156,7 +156,6 @@ _Please know that we are doing our best to keep up with the restaurants offering
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
 **Cafe Mediterranean**, North Bend (Closed for renovations)  
 **Captains Cabin**, Coos Bay  
-**Chan's Wok**, North Bend, Closed until at least April 8  
 **Ciccarelli's Restaurant**, North Bend  
 **City Subs**, Coos Bay  
 **Coney Station**, Coos Bay  
