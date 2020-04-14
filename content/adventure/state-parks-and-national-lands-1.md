@@ -24,16 +24,35 @@ On the Oregon Coast, many of the beaches are state parks and our area is no exce
 
 {{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68" >}}**Shore Acres State Park**{{< /link >}}, the Oregon Coast’s crown jewel, was once the private estate of lumber baron, Louis Simpson, founder of the community of North Bend. Perched on rugged sandstone cliffs high above the ocean, Shore Acres State Park is an exciting and unexpected combination of beautiful natural and constructed features, including lushly planted gardens with plants and flowers from all over the world. Something is in bloom almost every day of the year.
 
-In the landscaped area you'll discover a formal garden, a Japanese-style garden with a lily pond, and two rose gardens which include All American Rose Selections. From Thanksgiving through New Year's Eve, the gardens are ablaze with thousands of colored lights and holiday decorations put up by community volunteers and The Friends of Shore Acres in cooperation with the Oregon Parks and Recreation Department. [Click here](https://shoreacres.net/) for more information on Holiday Lights. 
+In the landscaped area you'll discover a formal garden, a Japanese-style garden with a lily pond, and two rose gardens which include All American Rose Selections. From Thanksgiving through New Year's Eve, the gardens are ablaze with thousands of colored lights and holiday decorations put up by community volunteers and The Friends of Shore Acres in cooperation with the Oregon Parks and Recreation Department. [Click here](https://shoreacres.net/) for more information on Holiday Lights.
 
 After seeing the garden, you can stroll down a trail to a secluded ocean cove at Simpson Beach or skirt the cliff's edge to see spectacular ocean vistas which often include towering waves crashing against the shoreline after a storm and migrating grey whales. On the site of Simpson's vanished mansion, a fully enclosed observation building will allow you to view the ocean and protect you from the weather. The observation building has interpretive panels describing the history of the Simpson estate.
 
-{{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70" >}}Sunset Bay State Park{{< /link >}} and {{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=66" >}}Cape Arago State Park{{< /link >}}. 
+<div class="margin-50px-top"></div>
 
-##   
-National Lands For Recreation
+Situated in one of the most scenic areas on the Oregon coast, {{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70" >}}**Sunset Bay State Park**{{< /link >}} features beautiful sandy beaches protected by towering sea cliffs. Only a short walk from the beach, the campground has sites for tent camping and RV's, as well as cozy and comfortable yurts. Day-use and picnic facilities are located along the bay to allow easy access for beachcombing, fishing, swimming, and boating.
 
-The {{< link url="https://www.stateparks.com/oregon_dunes.html" >}}Oregon Dunes National Recreation Area{{< /link >}} is the largest expanse of coastal sand dunes in North America and it is like no place on earth. The majestic dunes are one of our favorite attractions on the Southern Oregon Coast because they give visitors plenty of opportunities to find relaxation and adventure. If you head inland, you’ll find {{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67" >}}Golden and Silver Falls State Park{{< /link >}}, a hidden gem in the dense coastal forests. Hidden trails wind through all our state parks providing opportunities for hiking, sightseeing, photography and wildlife viewing.
+A network of hiking trails connects Sunset Bay with nearby Shore Acres and Cape Arago State Parks. Hiking these trails will give you a chance to experience pristine coastal forests, seasonal wildflowers and spectacular ocean vistas from atop the rugged cliffs and headlands. From points along the trail, you'll be treated to views of Gregory Point and the Cape Arago lighthouse.
+
+<div class="margin-50px-top"></div>
+
+ {{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=66" >}}**Cape Arago State Park**{{< /link >}}, may be the end of the road (the road out of Coos Bay goes no further), but it's really only the beginning if you want to explore the southern Oregon coast.
+
+Located at the end of Cape Arago Highway about 15 miles southwest of Coos Bay, Cape Arago is a scenic headland jutting into the Pacific Ocean. Long used by native Americans, Cape Arago was first sighted by Europeans during one of Sir Francis Drake's expeditions in the late 1500s. Modern visitors can scan the horizon for migrating whales and other marine mammals, as well as fishing boats and ships entering and leaving nearby Coos Bay.
+
+The south cove trail leads down to a sandy beach and superior tidepools where you can visit intertidal plants and animals (but please enjoy them with your eyes only). The north cove trail provides access for fishing, beachcombing, and viewing the off-shore colonies of seals and sea lions at Shell Island -- a designated National Wildlife Refuge. The trail is closed March 1- June 30 to protect seal pups. Picnic tables, restrooms and a gazebo shelter are available for daytime use.
+
+<div class="margin-50px-top"></div>
+
+If you head inland, you’ll find {{< link url="[https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67 "https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67")" >}}**Golden and Silver Falls State Park**{{< /link >}}, a hidden gem in the dense coastal forests. Golden and Silver Falls State Natural Area may be hard to find, but it's well worth the 24-mile drive from Highway 101. The final 3-miles narrow to a one lane gravel road. The small parking and picnic area are located along the banks of Glenn and Silver Creeks and is shaded by large maple, alder, and Oregon myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls that plunge over sheer rock cliffs to moss covered boulders 100 feet below.  
+  
+Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the cascading waterfall and giant old-growth firs and cedars.
+
+<div class="margin-50px-top"></div>
+
+## National Lands For Recreation
+
+The {{< link url="https://www.stateparks.com/oregon_dunes.html" >}}Oregon Dunes National Recreation Area{{< /link >}} is the largest expanse of coastal sand dunes in North America and it is like no place on earth. The majestic dunes are one of our favorite attractions on the Southern Oregon Coast because they give visitors plenty of opportunities to find relaxation and adventure. 
 
 <div class="margin-50px-top"></div>
 
