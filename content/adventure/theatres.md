@@ -11,7 +11,7 @@ seo:
   title: Oregon Coast Vacations - Theatres | Oregon's Adventure Coast
 
 ---
-For such a small community, the Coos Bay area boasts some amazingly talented performers - from singers and actors, to musicians from every musical genre! The Historic Liberty Theatre, the Historic Egyptian Theatre and the Dolphin Playhouse offer theatre enthusiasts with a wide variety of entertainment options.
+For such a small community, the Coos Bay area boasts some amazingly talented performers - from singers and actors, to musicians from every musical genre! The Historic Liberty Theatre, the Historic Egyptian Theatre and the Dolphin Playhouse offer theatre enthusiasts with a wide variety of entertainment options, while the Egyptian Theatre and Pony Village Cinema bring the best in feature films both old and new.
 
 {{< floatimage src="/img/liberty-theater.jpg" float="left" alt="Liberty theatre" size="40" >}}
 
@@ -26,7 +26,9 @@ Home of the Little Theatre on the Bay – Famed for their little Ole Opry perfor
 
 The Egyptian Theatre, built in 1925, is a center for community events. The theatre is listed on the National Register of Historic Places and boasts one of the only remaining operable Wurlitzer Organs in the state. Movie events and fundraisers are the weekly fare, but the theatre is also available for private events and screenings. Live music is featured on occasion, as well as beer and movie nights. With a new 4K projection system and top notch surround sound, you can experience a theatre with 90 years of memories with modern amenities! {{< link url="http://egyptiantheatreoregon.com" >}}Visit The Egyptian Theatre website for more information.{{< /link >}}
 
-#### Take a Virtual Backstage Tour of the Egyptian Theatre and Enjoy a Wurlitzer concert!
+<div class="margin-25px-top"></div>
+
+#### Take a Virtual Backstage Tour of the Egyptian Theatre and Experience a Wurlitzer Organ Concert!
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1769505299814563%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
@@ -36,11 +38,11 @@ The Egyptian Theatre, built in 1925, is a center for community events. The theat
 
 #### The Dolphin Playhouse
 
-Home of the Dolphin Players - The Dolphin Players produce six to seven full productions every year in an intimate setting. The theatre also offers classes and provides meeting space in the Empire District of Coos Bay. {{< link url="http://thedolphinplayers.webs.com" >}}Visit the Dolphin Playhouse website for more information.{{< /link >}}  
+Home of the Dolphin Players who produce six to seven full productions every year in an intimate setting. The theatre also offers classes and provides meeting space in the Empire District of Coos Bay. {{< link url="http://thedolphinplayers.webs.com" >}}Visit the Dolphin Playhouse website for more information.{{< /link >}}  
 <div class="clearfix"></div>
 
 {{< floatimage src="/img/pony-cinema-north-bend.jpg" float="left" alt="The Pony Village Cinema 11 in North Bend" size="40" >}}
 
 #### **Pony Village Cinema 11**
 
-Utilizing the latest in Digital Projection, Digital Sound, 3D equipment and wall-to-wall screens, Pony Village Cinema presents films the way filmmakers intended. Pony Village Cinema boasts 11 theaters showing the latest releases, stadium seating and a full compliment of concession offerings. [Visit the Pony Village Cinema 11 for showtimes](https://www.catheatres.com/SectionIndex.asp?SectionID=34).
+Utilizing the latest in Digital Projection, Digital Sound, 3D equipment and wall-to-wall screens, Pony Village Cinema presents films the way filmmakers intended. Pony Village Cinema boasts 11 theaters showing the latest releases, with stadium seating and a full compliment of concession offerings. [Visit the Pony Village Cinema 11 for showtimes](https://www.catheatres.com/SectionIndex.asp?SectionID=34).
