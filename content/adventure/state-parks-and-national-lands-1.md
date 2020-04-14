@@ -58,9 +58,9 @@ Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the casc
 
 ![Wave Crash at Shore Acres State Park - Winter Stormwatching!](/img/wave-crash-charleston-bandon-tour.jpg)
 
-### Shore Acres State Park – Winter Stormwatching!
+### Winter Storm Watching at Shore Acres State Park!
 
-Shore Acres State Park is often lauded as the best stormwatching spot on the entire Oregon Coast. Perched on top of an 80 foot cliff, this location allows for a safe distance above the waves while enjoying fantastic views. The term stormwatching has more to do with the ocean conditions rather than the actual weather conditions. When conditions in the ocean create large swells, they translate into amazing wave action. A 15 – 20 foot swell will turn into a wave over 100 feet high, and swells of 25-35 feet create waves as high as 250-300 feet high!
+Shore Acres State Park is often lauded as the best storm watching spot on the entire Oregon Coast. Perched on top of an 80 foot cliff, this location allows for a safe distance above the waves while enjoying fantastic views. The term storm watching has more to do with the ocean conditions rather than the actual weather conditions. When conditions in the ocean create large swells, they translate into amazing wave action. A 15 – 20 foot swell will turn into a wave over 100 feet high, and swells of 25-35 feet create waves as high as 250-300 feet high!
 
 <iframe width="695" height="403" src="https://www.youtube.com/embed/yTeho70rQFo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
