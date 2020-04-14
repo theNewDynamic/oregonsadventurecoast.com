@@ -50,12 +50,6 @@ Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the casc
 
 <div class="margin-50px-top"></div>
 
-## National Lands For Recreation
-
-The {{< link url="https://www.stateparks.com/oregon_dunes.html" >}}Oregon Dunes National Recreation Area{{< /link >}} is the largest expanse of coastal sand dunes in North America and it is like no place on earth. The majestic dunes are one of our favorite attractions on the Southern Oregon Coast because they give visitors plenty of opportunities to find relaxation and adventure. 
-
-<div class="margin-50px-top"></div>
-
 ![Wave Crash at Shore Acres State Park - Winter Stormwatching!](/img/wave-crash-charleston-bandon-tour.jpg)
 
 ### Shore Acres State Park – Winter Stormwatching!
@@ -63,6 +57,12 @@ The {{< link url="https://www.stateparks.com/oregon_dunes.html" >}}Oregon Dunes 
 Shore Acres State Park is often lauded as the best stormwatching spot on the entire Oregon Coast. Perched on top of an 80 foot cliff, this location allows for a safe distance above the waves while enjoying fantastic views. The term stormwatching has more to do with the ocean conditions rather than the actual weather conditions. When conditions in the ocean create large swells, they translate into amazing wave action. A 15 – 20 foot swell will turn into a wave over 100 feet high, and swells of 25-35 feet create waves as high as 250-300 feet high!
 
 <iframe width="695" height="403" src="https://www.youtube.com/embed/yTeho70rQFo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div class="margin-50px-top"></div>
+
+## National Lands For Recreation
+
+The {{< link url="[https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42465](https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42465 "https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42465")" >}}**Oregon Dunes National Recreation Area**{{< /link >}} is the largest expanse of coastal sand dunes in North America and it is like no place on earth. The majestic dunes are one of our favorite attractions on the Southern Oregon Coast because they give visitors plenty of opportunities to find relaxation and adventure. Click here for tips on exploring the [**Untamed Dunes**](/untamed-dunes/). 
 
 <div class="margin-50px-top"></div>
 
