@@ -18,6 +18,8 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 #### We encourage our residents and visitors to support our local businesses by ordering meals to go or purchasing gift cards for future meals from these fine establishments! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
 
+<div class="margin-50px-top"></div>
+
 [**7 Devils Brewery**](https://www.7devilsbrewery.com/#/) - offering Take N Bake Meals and Beer in cans, bottles, & growlers on Fridays, Sundays & Tuesdays. Orders must be made at least 12 hours in advance - [click this link](https://www.7devilsbrewery.com/#/). Pickup from 4pm-7pm
 
 [**Abby’s Pizza**](https://abbys.com/) - Delivery and curbside togo orders only 541-267-5839
