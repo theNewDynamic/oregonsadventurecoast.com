@@ -1,5 +1,5 @@
 ---
-title: State Parks and National Lands
+title: State Parks and National Lands-REDUX
 aliases:
 - "/featured-adventures/state-parks"
 - "/activities/category/parks"
@@ -18,15 +18,28 @@ The scenery that makes up the unique setting on Oregon’s Adventure Coast is sp
 
 ![Family Camping at Shore Acres State Park](/img/family-camping-state-parks.jpg)
 
-## State Parks and National Lands
+## State Parks
 
-On the Oregon Coast, many of the beaches are state parks and our area is no exception. Along the 8 mile [Cape Arago Loop](/img/cape-arago-loop-itinerary-2018.pdf) in Charleston you’ll find a trifecta of State Parks including Oregon Coast’s crown jewel, {{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68" >}}Shore Acres State Park{{< /link >}}, {{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70" >}}Sunset Bay State Park{{< /link >}} and {{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=66" >}}Cape Arago State Park{{< /link >}}. The {{< link url="https://www.stateparks.com/oregon_dunes.html" >}}Oregon Dunes National Recreation Area{{< /link >}} is the largest expanse of coastal sand dunes in North America and it is like no place on earth. The majestic dunes are one of our favorite attractions on the Southern Oregon Coast because they give visitors plenty of opportunities to find relaxation and adventure. If you head inland, you’ll find {{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67" >}}Golden and Silver Falls State Park{{< /link >}}, a hidden gem in the dense coastal forests. Hidden trails wind through all our state parks providing opportunities for hiking, sightseeing, photography and wildlife viewing.
+On the Oregon Coast, many of the beaches are state parks and our area is no exception. Along the 8 mile [Cape Arago Loop](/img/cape-arago-loop-itinerary-2018.pdf) in Charleston you’ll find a trifecta of State Parks.
+
+{{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68" >}}**Shore Acres State Park**{{< /link >}}, the Oregon Coast’s crown jewel, was once the private estate of lumber baron, Louis Simpson, founder of the community of North Bend. Perched on rugged sandstone cliffs high above the ocean, Shore Acres State Park is an exciting and unexpected combination of beautiful natural and constructed features, including lushly planted gardens with plants and flowers from all over the world. Something is in bloom almost every day of the year.
+
+In the landscaped area you'll discover a formal garden, a Japanese-style garden with a lily pond, and two rose gardens which include All American Rose Selections. From Thanksgiving through New Year's Eve, the gardens are ablaze with thousands of colored lights and holiday decorations put up by community volunteers and The Friends of Shore Acres in cooperation with the Oregon Parks and Recreation Department. [Click here](https://shoreacres.net/) for more information on Holiday Lights. 
+
+After seeing the garden, you can stroll down a trail to a secluded ocean cove at Simpson Beach or skirt the cliff's edge to see spectacular ocean vistas which often include towering waves crashing against the shoreline after a storm and migrating grey whales. On the site of Simpson's vanished mansion, a fully enclosed observation building will allow you to view the ocean and protect you from the weather. The observation building has interpretive panels describing the history of the Simpson estate.
+
+{{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70" >}}Sunset Bay State Park{{< /link >}} and {{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=66" >}}Cape Arago State Park{{< /link >}}. 
+
+##   
+National Lands For Recreation
+
+The {{< link url="https://www.stateparks.com/oregon_dunes.html" >}}Oregon Dunes National Recreation Area{{< /link >}} is the largest expanse of coastal sand dunes in North America and it is like no place on earth. The majestic dunes are one of our favorite attractions on the Southern Oregon Coast because they give visitors plenty of opportunities to find relaxation and adventure. If you head inland, you’ll find {{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67" >}}Golden and Silver Falls State Park{{< /link >}}, a hidden gem in the dense coastal forests. Hidden trails wind through all our state parks providing opportunities for hiking, sightseeing, photography and wildlife viewing.
 
 <div class="margin-50px-top"></div>
 
 ![Wave Crash at Shore Acres State Park - Winter Stormwatching!](/img/wave-crash-charleston-bandon-tour.jpg)
 
-## Shore Acres State Park – Winter Stormwatching!
+### Shore Acres State Park – Winter Stormwatching!
 
 Shore Acres State Park is often lauded as the best stormwatching spot on the entire Oregon Coast. Perched on top of an 80 foot cliff, this location allows for a safe distance above the waves while enjoying fantastic views. The term stormwatching has more to do with the ocean conditions rather than the actual weather conditions. When conditions in the ocean create large swells, they translate into amazing wave action. A 15 – 20 foot swell will turn into a wave over 100 feet high, and swells of 25-35 feet create waves as high as 250-300 feet high!
 
