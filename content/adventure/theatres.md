@@ -30,7 +30,7 @@ The Egyptian Theatre, built in 1925, is a center for community events. The theat
 
 #### Take a Virtual Backstage Tour of the Egyptian Theatre and Experience a Wurlitzer Organ Concert!
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1769505299814563%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1769505299814563%2F&show_text=0&width=695" width="695" height="390" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 <div class="margin-50px-top"></div>
 
