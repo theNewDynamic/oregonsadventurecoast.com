@@ -15,13 +15,13 @@ seo:
 ---
 The scenery that makes up the unique setting on Oregon’s Adventure Coast is spell-binding for the senses. With such a wide array of terrain and vistas, it’s no wonder that our State Parks and National Lands are the top of our visitors’ “Must See” lists. Waterfalls, wooded river trails, dramatic ocean cliffs, and beach-side options all make for their own, one-of-a-kind experiences. Each excursion is special, from sand dunes to rocky switchbacks, so every outing creates a magical, gorgeous, can’t miss photo op.
 
-![Family Camping at Shore Acres State Park](/img/family-camping-state-parks.jpg)
+![Family Camping at Sunset Bay State Park](/img/family-camping-state-parks.jpg "Camping at Sunset Bay State Park")
 
 ## State Parks
 
 On the Oregon Coast, many of the beaches are state parks and our area is no exception. Along the 8 mile [Cape Arago Loop](/img/cape-arago-loop-itinerary-2018.pdf) in Charleston you’ll find a trifecta of State Parks.
 
-[**Shore Acres State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68), the Oregon Coast’s crown jewel, was once the private estate of lumber baron, Louis Simpson, founder of the community of North Bend. Perched on rugged sandstone cliffs high above the ocean, Shore Acres State Park is an exciting and unexpected combination of beautiful natural and constructed features, including lushly planted gardens with plants and flowers from all over the world. Something is in bloom almost every day of the year.
+{{< floatimage src="img/Shore-Acres-Viewing-Flower.jpg" float="right" alt="Visiting Shore Acres Gardens" size="40" >}}[**Shore Acres State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68), the Oregon Coast’s crown jewel, was once the private estate of lumber baron, Louis Simpson, founder of the community of North Bend. Perched on rugged sandstone cliffs high above the ocean, Shore Acres State Park is an exciting and unexpected combination of beautiful natural and constructed features, including lushly planted gardens with plants and flowers from all over the world. Something is in bloom almost every day of the year.
 
 In the landscaped area you'll discover a formal garden, a Japanese-style garden with a lily pond, and two rose gardens which include All American Rose Selections. From Thanksgiving through New Year's Eve, the gardens are ablaze with thousands of colored lights and holiday decorations put up by community volunteers and The Friends of Shore Acres in cooperation with the Oregon Parks and Recreation Department. [Click here](https://shoreacres.net/) for more information on Holiday Lights.
 
@@ -29,13 +29,13 @@ After seeing the garden, you can stroll down a trail to a secluded ocean cove at
 
 <div class="margin-50px-top"></div>
 
-Situated in one of the most scenic areas on the Oregon coast, [**Sunset Bay State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70) features beautiful sandy beaches protected by towering sea cliffs. Only a short walk from the beach, the campground has sites for tent camping and RV's, as well as cozy and comfortable yurts. Day-use and picnic facilities are located along the bay to allow easy access for beachcombing, fishing, swimming, and boating.
+{{< floatimage src="img/S Coast Tours Sunset Bay.jpg" float="right" alt="Sunset Bay is perfect for kayaking" size="40" >}}Situated in one of the most scenic areas on the Oregon coast, [**Sunset Bay State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70) features beautiful sandy beaches protected by towering sea cliffs. Only a short walk from the beach, the campground has sites for tent camping and RV's, as well as cozy and comfortable yurts. Day-use and picnic facilities are located along the bay to allow easy access for beachcombing, fishing, swimming, and boating.
 
 A network of hiking trails connects Sunset Bay with nearby Shore Acres and Cape Arago State Parks. Hiking these trails will give you a chance to experience pristine coastal forests, seasonal wildflowers and spectacular ocean vistas from atop the rugged cliffs and headlands. From points along the trail, you'll be treated to views of Gregory Point and the Cape Arago lighthouse.
 
 <div class="margin-50px-top"></div>
 
-[**Cape Arago State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=66), may be the end of the road (the road out of Coos Bay goes no further), but it's really only the beginning if you want to explore the southern Oregon coast.
+{{< floatimage src="img/cape-arago-1.jpg" float="right" alt="Cape Arago State Park views" size="40" >}}[**Cape Arago State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=66), may be the end of the road (the road out of Coos Bay goes no further), but it's really only the beginning if you want to explore the southern Oregon coast.
 
 Located at the end of Cape Arago Highway about 15 miles southwest of Coos Bay, Cape Arago is a scenic headland jutting into the Pacific Ocean. Long used by native Americans, Cape Arago was first sighted by Europeans during one of Sir Francis Drake's expeditions in the late 1500s. Modern visitors can scan the horizon for migrating whales and other marine mammals, as well as fishing boats and ships entering and leaving nearby Coos Bay.
 
@@ -43,7 +43,7 @@ The south cove trail leads down to a sandy beach and superior tidepools where yo
 
 <div class="margin-50px-top"></div>
 
-If you head inland, you’ll find [**Golden and Silver Falls State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67), a hidden gem in the dense coastal forests. Golden and Silver Falls State Natural Area may be hard to find, but it's well worth the 24-mile drive from Highway 101. The final 3-miles narrow to a one lane gravel road. The small parking and picnic area are located along the banks of Glenn and Silver Creeks and is shaded by large maple, alder, and Oregon myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls that plunge over sheer rock cliffs to moss covered boulders 100 feet below.
+{{< floatimage src="img/Golden and Silver Falls blog695x322.jpg" float="right" alt="Golden & Silver Falls" size="40" >}}If you head inland, you’ll find [**Golden and Silver Falls State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67), a hidden gem in the dense coastal forests. Golden and Silver Falls State Natural Area may be hard to find, but it's well worth the 24-mile drive from Highway 101. The final 3-miles narrow to a one lane gravel road. The small parking and picnic area are located along the banks of Glenn and Silver Creeks and is shaded by large maple, alder, and Oregon myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls that plunge over sheer rock cliffs to moss covered boulders 100 feet below.
 
 Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the cascading waterfall and giant old-growth firs and cedars.
 
