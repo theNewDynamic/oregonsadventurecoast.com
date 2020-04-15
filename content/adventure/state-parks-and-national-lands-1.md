@@ -67,7 +67,7 @@ Shore Acres State Park is often lauded as the best storm watching spot on the en
 
 ## National Lands For Recreation
 
-The [**Oregon Dunes National Recreation Area**](https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42465) is the largest expanse of coastal sand dunes in North America and it is like no place on earth. The majestic dunes are one of our favorite attractions on the Southern Oregon Coast because they give visitors plenty of opportunities to find relaxation and adventure. Click here for tips on exploring the [**Untamed Dunes**](/untamed-dunes/).
+{{< floatimage src="img/dunes-high-five-1.jpg" float="left" alt="Take an exhilarating ride in the dunes!" size="40" >}}The [**Oregon Dunes National Recreation Area**](https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42465) is the largest expanse of coastal sand dunes in North America and it is like no place on earth. The majestic dunes are one of our favorite attractions on the Southern Oregon Coast because they give visitors plenty of opportunities to find relaxation and adventure. Click here for tips on exploring the [**Untamed Dunes**](/untamed-dunes/).
 
 <div class="margin-50px-top"></div>
 
