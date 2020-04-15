@@ -11,7 +11,7 @@ seo:
     Waterfalls, wooded river trails, ocean cliffs, & beach-side options create a one-of-a-kind
     experience!
   title: Oregon Coast Trips - State Parks/National Lands | Oregon's Adventure Coast
-draft: true
+draft: false
 
 ---
 The scenery that makes up the unique setting on Oregon’s Adventure Coast is spell-binding for the senses. With such a wide array of terrain and vistas, it’s no wonder that our State Parks and National Lands are the top of our visitors’ “Must See” lists. Waterfalls, wooded river trails, dramatic ocean cliffs, and beach-side options all make for their own, one-of-a-kind experiences. Each excursion is special, from sand dunes to rocky switchbacks, so every outing creates a magical, gorgeous, can’t miss photo op.
@@ -44,7 +44,7 @@ The south cove trail leads down to a sandy beach and superior tidepools where yo
 
 <div class="margin-50px-top"></div>
 
-If you head inland, you’ll find {{< link url="[https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67 "https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67")" >}}**Golden and Silver Falls State Park**{{< /link >}}, a hidden gem in the dense coastal forests. Golden and Silver Falls State Natural Area may be hard to find, but it's well worth the 24-mile drive from Highway 101. The final 3-miles narrow to a one lane gravel road. The small parking and picnic area are located along the banks of Glenn and Silver Creeks and is shaded by large maple, alder, and Oregon myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls that plunge over sheer rock cliffs to moss covered boulders 100 feet below.  
+If you head inland, you’ll find {{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67" >}}**Golden and Silver Falls State Park**{{< /link >}}, a hidden gem in the dense coastal forests. Golden and Silver Falls State Natural Area may be hard to find, but it's well worth the 24-mile drive from Highway 101. The final 3-miles narrow to a one lane gravel road. The small parking and picnic area are located along the banks of Glenn and Silver Creeks and is shaded by large maple, alder, and Oregon myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls that plunge over sheer rock cliffs to moss covered boulders 100 feet below.  
   
 Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the cascading waterfall and giant old-growth firs and cedars.
 
@@ -68,7 +68,7 @@ Shore Acres State Park is often lauded as the best storm watching spot on the en
 
 ## National Lands For Recreation
 
-The {{< link url="[https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42465](https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42465 "https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42465")" >}}**Oregon Dunes National Recreation Area**{{< /link >}} is the largest expanse of coastal sand dunes in North America and it is like no place on earth. The majestic dunes are one of our favorite attractions on the Southern Oregon Coast because they give visitors plenty of opportunities to find relaxation and adventure. Click here for tips on exploring the [**Untamed Dunes**](/untamed-dunes/). 
+The {{< link url="https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42465" >}}**Oregon Dunes National Recreation Area**{{< /link >}} is the largest expanse of coastal sand dunes in North America and it is like no place on earth. The majestic dunes are one of our favorite attractions on the Southern Oregon Coast because they give visitors plenty of opportunities to find relaxation and adventure. Click here for tips on exploring the [**Untamed Dunes**](/untamed-dunes/). 
 
 <div class="margin-50px-top"></div>
 
