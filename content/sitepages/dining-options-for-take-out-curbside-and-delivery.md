@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 10:00am PDT, April 14, 2020_**
+**_Updated 12:30pm PDT, April 16, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -51,8 +51,6 @@ _Please know that we are doing our best to keep up with the restaurants offering
 [**Captain's Choice NB**](http://www.captainschoicefishhouse.com/) - Order ahead and pick up in lobby or call when you arrive and they'll deliver to your car. Phone (541) 756-0125
 
 [**Chan's Wok**](https://www.facebook.com/Chans-Wok-590674157672423/) - Take-out from 11am-8pm. Call ahead (541) 751-0623
-
-[**Clausen’s Deli**](https://www.clausenoysters.com/restaurant/) - no prepared food, still open to sell fresh oysters regular hours
 
 [**The Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - Take-out with curbside pickup (541) 267-5116 from 11-7 (M-Sa) 11-4 (Su)
 
@@ -158,6 +156,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 **Captains Cabin**, Coos Bay  
 **Ciccarelli's Restaurant**, North Bend  
 **City Subs**, Coos Bay  
+**Clausen’s Deli**  
 **Coney Station**, Coos Bay  
 **Darrell's Devils Food**, Coos Bay  
 **Dave’s Pizza**, Coos Bay  
