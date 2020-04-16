@@ -46,7 +46,7 @@ Located in an active logging forest, Whiskey Run gives visitors a view of the Co
 
 These professionally built trails are made to withstand the coast's weather, so when the weather is unfavorable in the Cascades and you want to ride some loam and clay, come on down to the coast. However, please don't ride if the trails are muddy. Check trail reports or call the local shops or guide services. _Note: 10 of the 30 miles are complete with Phase II construction set to begin soon._
 
-<iframe width="695" height="405" src="https://www.youtube.com/embed/YA0X_rpH930?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "YA0X_rpH930" >}}
 
 <div class="margin-50px-top"></div>
 
