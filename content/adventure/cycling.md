@@ -47,9 +47,6 @@ Located in an active logging forest, Whiskey Run gives visitors a view of the Co
 These professionally built trails are made to withstand the coast's weather, so when the weather is unfavorable in the Cascades and you want to ride some loam and clay, come on down to the coast. However, please don't ride if the trails are muddy. Check trail reports or call the local shops or guide services. _Note: 10 of the 30 miles are complete with Phase II construction set to begin soon._
 
 <iframe width="695" height="405" src="https://www.youtube.com/embed/YA0X_rpH930?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-<div class="margin-50px-top"></div>
-![](/img/mountain-biking-tire-dust.jpg)
 
 <div class="margin-50px-top"></div>
 
@@ -64,4 +61,4 @@ _From rocky headlands to wide-open shores, agates, seabirds, tide pools and ligh
 
 Grab your big, balloon tires and bring your bike down to the beaches and the dunes. Ride along the miles of Horsfall Beach and into The Dunes for a challenging experience. As Katy Bryce put it in her article, [_Fat Biking 100 Miles of Oregon Coast_](https://traveloregon.com/things-to-do/outdoor-recreation/bicycling/fat-biking/fat-biking-100-miles-of-oregon-coast), "Riding fat bikes is not just beach cruising! [The Oregon Dunes National Recreation Area](https://www.stateparks.com/oregon_dunes.html) provided us with the opportunity to shred hard in soft sand. Hike up. Slide down. Giggle. Repeat."
 
-Wherever you go fat tire biking on Oregon's Adventure Coast, [check the tides](https://www.oregon.gov/oprd/PARKS/pages/beach_tips.aspx#Know_the_tides) and try to go during low tide as much as possible. Beware of [sneaker waves](https://www.oregon.gov/oprd/PARKS/Pages/beach_safety.aspx) and stay off rocks and small, enclosed beaches. Respect the sensitive micro-environments, whether it’s birds or anemone you encounter.
+Wherever you go fat tire biking on Oregon's Adventure Coast, [check the tides](https://www.usharbors.com/harbor/oregon/coos-bay-or/tides/) and try to go during low tide as much as possible. Beware of [sneaker waves](https://www.oregon.gov/oprd/PARKS/Pages/beach_safety.aspx) and stay off rocks and small, enclosed beaches. Respect the sensitive micro-environments, whether it’s birds or anemone you encounter.
