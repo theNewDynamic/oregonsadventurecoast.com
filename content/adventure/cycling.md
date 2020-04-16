@@ -58,10 +58,10 @@ These professionally built trails are made to withstand the coast's weather, so 
 <div class="margin-50px-top"></div>
 ![](/img/fat-tire-biking-695x322.jpg)
 
-## Fat Biking
+## Fat Tire Biking
 
 _From rocky headlands to wide-open shores, agates, seabirds, tide pools and lighthouses in the distance, the Oregon Coast is a balm for the soul. Why ride it? Because its 363 miles of glorious coastline are full of wonder, largely car-free and accessible for us all._  - Jen Anderson, Travel Oregon
 
 Grab your big, balloon tires and bring your bike down to the beaches and the dunes. Ride along the miles of Horsfall Beach and into The Dunes for a challenging experience. As Katy Bryce put it in her article, [_Fat Biking 100 Miles of Oregon Coast_](https://traveloregon.com/things-to-do/outdoor-recreation/bicycling/fat-biking/fat-biking-100-miles-of-oregon-coast), "Riding fat bikes is not just beach cruising! [The Oregon Dunes National Recreation Area](https://www.stateparks.com/oregon_dunes.html) provided us with the opportunity to shred hard in soft sand. Hike up. Slide down. Giggle. Repeat."
 
-Wherever you go fat biking on Oregon's Adventure Coast, [check the tides](https://www.oregon.gov/oprd/PARKS/pages/beach_tips.aspx#Know_the_tides) and try to go during low tide as much as possible. Beware of [sneaker waves](https://www.oregon.gov/oprd/PARKS/Pages/beach_safety.aspx) and stay off rocks and small, enclosed beaches. Respect the sensitive micro-environments, whether it’s birds or anenome you encounter.
+Wherever you go fat tire biking on Oregon's Adventure Coast, [check the tides](https://www.oregon.gov/oprd/PARKS/pages/beach_tips.aspx#Know_the_tides) and try to go during low tide as much as possible. Beware of [sneaker waves](https://www.oregon.gov/oprd/PARKS/Pages/beach_safety.aspx) and stay off rocks and small, enclosed beaches. Respect the sensitive micro-environments, whether it’s birds or anemone you encounter.
