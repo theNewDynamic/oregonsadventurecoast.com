@@ -29,7 +29,13 @@ Paddle down the Coquille River, in Sunset Bay, or in Coos Bay. For an extra adve
 
 We'd love to be able to say, "come on in, the water's fine" but it would be more like "come on in, the water's fine, but cold, so wear a wetsuit"! Join your fellow surfers at one of the finest, most exhilarating surfing spots along the South Coast, {{< link url="http://www.co.coos.or.us/Departments/CoosCountyParks/Bastendorff.aspx" >}}Bastendorf Beach{{< /link >}} in Charleston. Bastendorff Beach is a favorite among surfers, kiters, beachcombers - locals and tourists alike. You’ll find an uncrowded beach and spectacular ocean views.
 
-Here's a great video to give you some hints about Bastendorff Beach!
+### Learn More About Surfing and Protecting Our Oceans with Carmen Matthews and Rick Dancer!
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=0&width=695" width="695" height="391" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+<div class="margin-50px-top"></div>
+
+#### Here's a great video to give you some hints about Bastendorff Beach!
 
 <iframe width="695" height="403" src="https://www.youtube.com/embed/SngRceWuWu4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
