@@ -1,26 +1,25 @@
 ---
-title: >-
-  Have You Shared Your #CoosBayHoliday Photos Yet? You Could Win a Fabulous
-  Oregon Coast Getaway!
-date: 2017-12-11T16:04:43.000Z
-description: >-
-  The 31st Annual Holiday Lights Display at Shore Acres State Park is underway
-  and has already dazzled thousands of visitors from all over the region. To
-  celebrate the season, we're asking attendees to post their favorite photos of
-  the holiday lights on Facebook, Twitter & Instagram with the #CoosBayHoliday
-  tag for a chance to win a fantastic Oregon Coast getaway and other prizes!
+title: 'Have You Shared Your #CoosBayHoliday Photos Yet? You Could Win a Fabulous
+  Oregon Coast Getaway!'
+date: 2017-12-11T16:04:43.000+00:00
+description: 'The 31st Annual Holiday Lights Display at Shore Acres State Park is
+  underway and has already dazzled thousands of visitors from all over the region.
+  To celebrate the season, we''re asking attendees to post their favorite photos of
+  the holiday lights on Facebook, Twitter & Instagram with the #CoosBayHoliday tag
+  for a chance to win a fantastic Oregon Coast getaway and other prizes!'
 tags:
-  - CoosBayHoliday
-  - Charleston
-  - Christmas lights
-  - Coos Bay
-  - North Bend
-  - Oregon Coast Holiday Lights
-  - Shore Acres
-  - Shore Acres Holiday Lights
+- CoosBayHoliday
+- Charleston
+- Christmas lights
+- Coos Bay
+- North Bend
+- Oregon Coast Holiday Lights
+- Shore Acres
+- Shore Acres Holiday Lights
 categories:
-  - Miscellaneous
-image: /img/holidaylights-aerial-177-new.jpg
+- Miscellaneous
+image: "/img/holidaylights-aerial-177-new.jpg"
+
 ---
 <pre><em>Photo Courtesy of <a href="https://www.facebook.com/Friends-of-Shore-Acres-206248449391886/" target="_blank">Friends of Shore Acres</a></em></pre>
 

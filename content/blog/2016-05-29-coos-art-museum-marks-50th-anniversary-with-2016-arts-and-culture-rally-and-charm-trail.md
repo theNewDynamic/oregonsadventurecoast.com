@@ -1,24 +1,23 @@
 ---
-title: >-
-  Coos Art Museum Marks 50th Anniversary with 2016 Arts and Culture Rally and
+title: Coos Art Museum Marks 50th Anniversary with 2016 Arts and Culture Rally and
   Charm Trail
-date: 2016-05-29T17:43:11.000Z
-description: >+
-  The Coos Art Museum (CAM), one of our favorite cultural gems on Oregon's
-  Coast, is turning 50 this year! To celebrate this milestone, the Museum
-  invites you to participate in the 2016 Arts & Culture Rally & Charm Trail
-  happening now through December 31, 2016.
-
+date: 2016-05-29T17:43:11.000+00:00
+description: "The Coos Art Museum (CAM), one of our favorite cultural gems on Oregon's
+  Coast, is turning 50 this year! To celebrate this milestone, the Museum invites
+  you to participate in the 2016 Arts & Culture Rally & Charm Trail happening now
+  through December 31, 2016.\n\n"
 tags:
-  - 2016 Arts & Culture Rally & Charm Trail
-  - Arts and Culture
-  - CAM
-  - Coos Art Museum
-  - Oregon’s South Coast
+- 2016 Arts & Culture Rally & Charm Trail
+- Arts and Culture
+- CAM
+- Coos Art Museum
+- Oregon’s South Coast
 categories:
-  - Culture & Museums
-  - Miscellaneous
+- Culture & Museums
+- Miscellaneous
 image: ''
+draft: true
+
 ---
 The Coos Art Museum (CAM), one of our favorite cultural gems on Oregon&#8217;s Coast, is turning 50 this year! To celebrate this milestone, the Museum invites you to participate in the 2016 Arts & Culture Rally & Charm Trail happening now through December 31, 2016.
 

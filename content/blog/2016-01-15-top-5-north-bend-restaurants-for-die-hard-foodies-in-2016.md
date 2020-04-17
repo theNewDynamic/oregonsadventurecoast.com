@@ -1,28 +1,28 @@
 ---
 title: Top 5 North Bend Restaurants For Die Hard Foodies in 2016
-date: 2016-01-15T18:02:09.000Z
-description: >+
-  Oregon's Adventure Coast is a haven for foodies and sport eaters alike. You
-  may have seen our top five Coos Bay eateries to hit up in 2016, and the time
-  has come for us to reveal our top 5 restaurants that North Bend has to offer
-  this new year. From Seafood to Pancakes to Italian to Mediterranean, North
-  Bend will have you spoiled for choice come time to dine out.
-
+date: 2016-01-15T18:02:09.000+00:00
+description: "Oregon's Adventure Coast is a haven for foodies and sport eaters alike.
+  You may have seen our top five Coos Bay eateries to hit up in 2016, and the time
+  has come for us to reveal our top 5 restaurants that North Bend has to offer this
+  new year. From Seafood to Pancakes to Italian to Mediterranean, North Bend will
+  have you spoiled for choice come time to dine out.\n\n"
 tags:
-  - Cafe Mediterranean
-  - Ciccarelli’s
-  - Dining
-  - Downtown North Bend
-  - Food
-  - North Bend
-  - Oregon Coast Dining
-  - Pancake Mill
-  - Restaurants
-  - The Liberty Pub
-  - Yeongs Place
+- Cafe Mediterranean
+- Ciccarelli’s
+- Dining
+- Downtown North Bend
+- Food
+- North Bend
+- Oregon Coast Dining
+- Pancake Mill
+- Restaurants
+- The Liberty Pub
+- Yeongs Place
 categories:
-  - Eat & Drink
+- Eat & Drink
 image: ''
+draft: true
+
 ---
 Oregon&#8217;s Adventure Coast is a haven for foodies and sport eaters alike. You may have seen our [top five Coos Bay eateries to hit up in 2016](/2015/12/five-coos-bay-restaurants-to-try-in-2016/), and the time has come for us to reveal our top 5 restaurants that North Bend has to offer this new year. From Seafood to Pancakes to Italian to Mediterranean, North Bend will have you spoiled for choice come time to dine out.
 
