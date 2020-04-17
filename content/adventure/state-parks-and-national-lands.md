@@ -60,6 +60,7 @@ Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the casc
 <div class="margin-50px-top"></div>
 
 ### Take a Virtual Tour of Shore Acres State Park!<br><br>
+
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772859196145840%2F&show_text=0&width=695" width="695" height="454" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 <div class="margin-50px-top"></div>
@@ -76,7 +77,7 @@ Shore Acres State Park is often lauded as the best storm watching spot on the en
 
 ## National Lands For Recreation
 
-{{< floatimage src="img/Oregon Dunes Recreational Park blog-695x322.jpg" float="left" alt="Take a Hike in the dunes!" size="40" >}}The [**Oregon Dunes National Recreation Area**](https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42465) is the largest expanse of coastal sand dunes in North America and it is like no place on earth. The majestic dunes are one of our favorite attractions on the Southern Oregon Coast because they give visitors plenty of opportunities to find relaxation and adventure. Click here for tips on exploring the [**Untamed Dunes**](/untamed-dunes/).
+The [**Oregon Dunes National Recreation Area**](https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42465) is the largest expanse of coastal sand dunes in North America and it is like no place on earth. The majestic dunes are one of our favorite attractions on the Southern Oregon Coast because they give visitors plenty of opportunities to find relaxation and adventure. Click here for tips on exploring the [**Untamed Dunes**](/untamed-dunes/).
 
 <div class="margin-50px-top"></div>
 
