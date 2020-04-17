@@ -22,7 +22,9 @@ The scenery that makes up the unique setting on Oregon’s Adventure Coast is sp
 
 On the Oregon Coast, many of the beaches are state parks and our area is no exception. Along the 8 mile [Cape Arago Loop](/img/cape-arago-loop-itinerary-2018.pdf) in Charleston you’ll find a trifecta of State Parks.
 
-{{< floatimage src="img/Shore-Acres-Viewing-Flower.jpg" float="left" alt="Visiting Shore Acres Gardens" size="40" >}}[**Shore Acres State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68), the Oregon Coast’s crown jewel, was once the private estate of lumber baron, Louis Simpson, founder of the community of North Bend. Perched on rugged sandstone cliffs high above the ocean, Shore Acres State Park is an exciting and unexpected combination of beautiful natural and constructed features, including lushly planted gardens with plants and flowers from all over the world. Something is in bloom almost every day of the year.
+![](/img/ShoreAcres-State-Park-695x125.jpg)
+
+[**Shore Acres State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68), the Oregon Coast’s crown jewel, was once the private estate of lumber baron, Louis Simpson, founder of the community of North Bend. Perched on rugged sandstone cliffs high above the ocean, Shore Acres State Park is an exciting and unexpected combination of beautiful natural and constructed features, including lushly planted gardens with plants and flowers from all over the world. Something is in bloom almost every day of the year.
 
 In the landscaped area you'll discover a formal garden, a Japanese-style garden with a lily pond, and two rose gardens which include All American Rose Selections. From Thanksgiving through New Year's Eve, the gardens are ablaze with thousands of colored lights and holiday decorations put up by community volunteers and The Friends of Shore Acres in cooperation with the Oregon Parks and Recreation Department. [Click here](https://shoreacres.net/) for more information on Holiday Lights.
 
