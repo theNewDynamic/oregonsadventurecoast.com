@@ -75,7 +75,7 @@ Shore Acres State Park is often lauded as the best storm watching spot on the en
 
 <div class="margin-50px-top"></div>
 
-## National Lands For Recreation
+## National Lands For Recreation<br><br>
 
 ![](/img/OR-Dunes-Ntl-Rec-Area-695x125.jpg)
 
