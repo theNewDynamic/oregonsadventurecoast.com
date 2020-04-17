@@ -32,7 +32,7 @@ After seeing the garden, you can stroll down a trail to a secluded ocean cove at
 
 <div class="margin-50px-top"></div>
 
-{{< floatimage src="img/S Coast Tours Sunset Bay.jpg" float="left" alt="Sunset Bay is perfect for kayaking" size="40" >}}Situated in one of the most scenic areas on the Oregon coast, [**Sunset Bay State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70) features beautiful sandy beaches protected by towering sea cliffs. Only a short walk from the beach, the campground has sites for tent camping and RV's, as well as cozy and comfortable yurts. Day-use and picnic facilities are located along the bay to allow easy access for beachcombing, fishing, swimming, and boating.
+Situated in one of the most scenic areas on the Oregon coast, [**Sunset Bay State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70) features beautiful sandy beaches protected by towering sea cliffs. Only a short walk from the beach, the campground has sites for tent camping and RV's, as well as cozy and comfortable yurts. Day-use and picnic facilities are located along the bay to allow easy access for beachcombing, fishing, swimming, and boating.
 
 A network of hiking trails connects Sunset Bay with nearby Shore Acres and Cape Arago State Parks. Hiking these trails will give you a chance to experience pristine coastal forests, seasonal wildflowers and spectacular ocean vistas from atop the rugged cliffs and headlands. From points along the trail, you'll be treated to views of Gregory Point and the Cape Arago lighthouse.
 
