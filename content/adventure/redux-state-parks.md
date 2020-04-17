@@ -22,6 +22,8 @@ The scenery that makes up the unique setting on Oregon’s Adventure Coast is sp
 
 On the Oregon Coast, many of the beaches are state parks and our area is no exception. Along the 8 mile [Cape Arago Loop](/img/cape-arago-loop-itinerary-2018.pdf) in Charleston you’ll find a trifecta of State Parks.
 
+<div class="margin-50px-top"></div>
+
 ![](/img/ShoreAcres-State-Park-695x125.jpg)
 
 [**Shore Acres State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68), the Oregon Coast’s crown jewel, was once the private estate of lumber baron, Louis Simpson, founder of the community of North Bend. Perched on rugged sandstone cliffs high above the ocean, Shore Acres State Park is an exciting and unexpected combination of beautiful natural and constructed features, including lushly planted gardens with plants and flowers from all over the world. Something is in bloom almost every day of the year.
@@ -32,13 +34,15 @@ After seeing the garden, you can stroll down a trail to a secluded ocean cove at
 
 <div class="margin-50px-top"></div>
 
+![](/img/Sunset-Bay-State-Park-695x125.jpg)
+
 Situated in one of the most scenic areas on the Oregon coast, [**Sunset Bay State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70) features beautiful sandy beaches protected by towering sea cliffs. Only a short walk from the beach, the campground has sites for tent camping and RV's, as well as cozy and comfortable yurts. Day-use and picnic facilities are located along the bay to allow easy access for beachcombing, fishing, swimming, and boating.
 
 A network of hiking trails connects Sunset Bay with nearby Shore Acres and Cape Arago State Parks. Hiking these trails will give you a chance to experience pristine coastal forests, seasonal wildflowers and spectacular ocean vistas from atop the rugged cliffs and headlands. From points along the trail, you'll be treated to views of Gregory Point and the Cape Arago lighthouse.
 
 <div class="margin-50px-top"></div>
 
-{{< floatimage src="img/cape-arago-1.jpg" float="left" alt="Cape Arago State Park views" size="40" >}}[**Cape Arago State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=66), may be the end of the road (the road out of Coos Bay goes no further), but it's really only the beginning if you want to explore the southern Oregon coast.
+[**Cape Arago State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=66), may be the end of the road (the road out of Coos Bay goes no further), but it's really only the beginning if you want to explore the southern Oregon coast.
 
 Located at the end of Cape Arago Highway about 15 miles southwest of Coos Bay, Cape Arago is a scenic headland jutting into the Pacific Ocean. Long used by native Americans, Cape Arago was first sighted by Europeans during one of Sir Francis Drake's expeditions in the late 1500s. Modern visitors can scan the horizon for migrating whales and other marine mammals, as well as fishing boats and ships entering and leaving nearby Coos Bay.
 
