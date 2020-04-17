@@ -1,10 +1,10 @@
 ---
 title: Spring and Summer Blooms at Shore Acres State Park
-date: 2015-03-05T17:57:33.000+00:00
-description: |-
-  UPDATED with 2018 Dates!
-
-  While the rest of the country was shivering with record temperatures and snowstorms this winter, Mother Nature treated us to a number of balmy 60 degree days and sunshine here on the Southern Oregon coast. We also had plenty of days to watch the spectacular waves as a result of the winter storms coming ashore off the mighty Pacific, but overall, it was a very pleasant winter.
+date: 2020-04-20T16:57:33+00:00
+description: While the rest of the country has been staying home and social distancing,
+  the glorious spring and summer blooms at Shore Acres State Park haven't missed a
+  beat. We would normally encourage you to pack your bags and head down to Oregon's
+  Adventure Coast asap so you can see them for yourself- but this is not the time.
 tags:
 - Beaches
 - Cape Arago
@@ -23,20 +23,27 @@ tags:
 - Summer Travel
 categories:
 - State Parks & National Lands
-image: ''
+image: "/img/shore-acres-blog-header-695x322.png"
 
 ---
-**UPDATED with 2018 Dates!**
 
-While the rest of the country was shivering with record temperatures and snowstorms this winter, Mother Nature treated us to a number of balmy 60 degree days and sunshine here on the Southern Oregon coast. We also had plenty of days to watch the spectacular waves as a result of the winter storms coming ashore off the mighty Pacific, but overall, it was a very pleasant winter.
+While the rest of the country has been staying home and social distancing, the glorious spring and summer blooms at Shore Acres State park haven't missed a beat. We would normally encourage you to pack your bags and head down to Oregon's Adventure Coast asap so you can see them for yourself- but this is not the time. 
 
-The warmer temperatures are a reminder that the glorious gardens in <a href="http://shoreacres.net/" target="_blank" rel="noopener noreferrer">Shore Acres State Park</a> will soon be in full bloom.  What began as a luxurious private estate that belonged to lumber and shipping tycoon, Louis Simpson, has become a beloved local treasure featuring a “garden for all seasons” for anyone to enjoy.
+We know you hate to miss out on seeing the beautiful blooms in the <a href="http://shoreacres.net/" target="_blank" rel="noopener noreferrer">Shore Acres State Park</a> garden this time of year, we will do whatever we can to let you enjoy them from the comfort and safety of your own home this time. 
 
-The original plantings of Shore Acres were designed to take advantage of our mild climate and featured exotic trees, shrubs, and flowering plants brought in from around the world by Simpson. The grounds contained five acres of formal gardens, including a Japanese-style garden built around a 100-foot lily pond to compliment Mr. Simpson’s elaborate home featuring a heated, indoor swimming pool and a large ballroom.
+First, a little history. What began as a luxurious private estate that belonged to lumber and shipping tycoon, Louis Simpson, has become a beloved local treasure featuring a “garden for all seasons” for anyone to enjoy. The original plantings of Shore Acres were designed to take advantage of our mild climate and featured exotic trees, shrubs, and flowering plants brought in from around the world by Simpson. The grounds contained five acres of formal gardens, including a Japanese-style garden built around a 100-foot lily pond to compliment Mr. Simpson’s elaborate home featuring a heated, indoor swimming pool and a large ballroom.
 
-In 1942, Simpson’s beloved Shore Acres was purchased by the state of Oregon for use as a public park. Thanks to the help of thousands of Friends of Shore Acres volunteers, visitors can expect to see hundreds of rhododendrons, azaleas, daffodils along with thousands of tulips this spring. The garden also features thousands of flowering annuals/perennials and rose bushes through the summer along with dahlias in the fall. And visitors can of course enjoy 300,000 or more holiday lights (almost all L.E.D.) during the holidays.
+In 1942, Simpson’s beloved Shore Acres was purchased by the state of Oregon for use as a public park. Thanks to the help of thousands of Friends of Shore Acres volunteers, hundreds of rhododendrons, azaleas, daffodils along with thousands of tulips will bloom this spring. The garden also features thousands of flowering annuals/perennials and rose bushes through the summer along with dahlias in the fall. 
 
-Here are some notable dates coming up!
+Here are some recent images to enjoy: 
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F206248449391886%2Fvideos%2F2859929507456295%2F&show_text=1&width=560" width="560" height="407" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D3471415456208486%26id%3D206248449391886&width=500" width="500" height="745" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D3468017039881661%26id%3D206248449391886&width=500" width="500" height="688" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+Here's to many more blooms and brighter days ahead! 
 
 **More Info**
 
