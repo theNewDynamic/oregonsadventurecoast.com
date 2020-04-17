@@ -52,6 +52,8 @@ The south cove trail leads down to a sandy beach and superior tidepools where yo
 
 <div class="margin-50px-top"></div>
 
+![](/img/golden-silver-falls-state-park-695x125.jpg)
+
 If you head inland, you’ll find [**Golden and Silver Falls State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67), a hidden gem in the dense coastal forests. Golden and Silver Falls State Natural Area may be hard to find, but it's well worth the 24-mile drive from Highway 101. The final 3-miles narrow to a one lane gravel road. The small parking and picnic area are located along the banks of Glenn and Silver Creeks and is shaded by large maple, alder, and Oregon myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls that plunge over sheer rock cliffs to moss covered boulders 100 feet below.
 
 Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the cascading waterfall and giant old-growth firs and cedars.
