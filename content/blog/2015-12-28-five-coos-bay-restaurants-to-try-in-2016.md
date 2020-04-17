@@ -1,29 +1,29 @@
 ---
 title: Five Coos Bay Restaurants to Try in 2016
-date: 2015-12-28T15:56:28.000Z
-description: >-
-  The outstanding service and food experienced by restaurant patrons in our
-  local dining establishments are one of the best kept secrets on Oregon's
-  Adventure Coast. Foodies from all over the region have told us time and time
-  again how surprised they were in the quality and the selection of the
-  restaurants in our area.
+date: 2015-12-28T15:56:28.000+00:00
+description: The outstanding service and food experienced by restaurant patrons in
+  our local dining establishments are one of the best kept secrets on Oregon's Adventure
+  Coast. Foodies from all over the region have told us time and time again how surprised
+  they were in the quality and the selection of the restaurants in our area.
 tags:
-  - Best Coos Bay Restaurants
-  - Best food in Coos Bay
-  - Blue Heron Bistro
-  - City Subs
-  - Coos Bay
-  - Dining
-  - Fishermen’s Seafood Market
-  - Food
-  - Little Italy
-  - Oregon Coast Restaurants
-  - Oregon Coast Travel Tips
-  - Restaurants
-  - Tokyo Bistro
+- Best Coos Bay Restaurants
+- Best food in Coos Bay
+- Blue Heron Bistro
+- City Subs
+- Coos Bay
+- Dining
+- Fishermen’s Seafood Market
+- Food
+- Little Italy
+- Oregon Coast Restaurants
+- Oregon Coast Travel Tips
+- Restaurants
+- Tokyo Bistro
 categories:
-  - Eat & Drink
+- Eat & Drink
 image: ''
+draft: true
+
 ---
 The outstanding service and food experienced by restaurant patrons in our local dining establishments are one of the best kept secrets on Oregon&#8217;s Adventure Coast. Foodies from all over the region have told us time and time again how surprised they were in the quality and the selection of the restaurants in our area.
 

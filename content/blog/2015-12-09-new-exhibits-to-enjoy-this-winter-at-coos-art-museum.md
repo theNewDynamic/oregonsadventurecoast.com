@@ -1,20 +1,21 @@
 ---
 title: New Exhibits to Enjoy this Winter at Coos Art Museum
-date: 2015-12-09T21:12:08.000Z
-description: >-
-  We believe that Coos Art Museum (CAM) is one of the best kept secrets on
-  Oregon's South Coast. For the last 5 decades, CAM has been an important piece
-  of our state’s cultural landscape providing countless opportunities for the
-  extraordinary artists living in our region.
+date: 2015-12-09T21:12:08.000+00:00
+description: We believe that Coos Art Museum (CAM) is one of the best kept secrets
+  on Oregon's South Coast. For the last 5 decades, CAM has been an important piece
+  of our state’s cultural landscape providing countless opportunities for the extraordinary
+  artists living in our region.
 tags:
-  - Art
-  - Coos Art Museum
-  - Downtown Coos Bay
-  - Exhibits
-  - Fine Art Prints
+- Art
+- Coos Art Museum
+- Downtown Coos Bay
+- Exhibits
+- Fine Art Prints
 categories:
-  - Culture & Museums
+- Culture & Museums
 image: ''
+draft: true
+
 ---
 Above Images:  _Cauldron_ by Joyce Spicer, _Limbs Akimb_o by Mary Farrell, _Fox_ by Liv Rainy-Smith, _Calm Before the Storm_ by Jonnel Covault
 
