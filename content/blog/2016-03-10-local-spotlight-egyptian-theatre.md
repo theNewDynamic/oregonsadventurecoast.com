@@ -19,15 +19,15 @@ categories:
 image: "/img/egyptian-theatre-coos-bay--blog-695x322.jpg.png"
 
 ---
-While we're in "shut-down" mode from the COVID-19 pandemic, we're taking a closer look at some of our historical gems right here in Coos Bay. In this post, we're highlighting one of Coos Bay’s most treasured sites, the <a href="[http://egyptiantheatreoregon.com/](http://egyptiantheatreoregon.com/ "http://egyptiantheatreoregon.com/")" target="_blank">Egyptian Theatre</a>, a cultural icon of the area since its doors first opened in 1925. That's right, you don’t need to travel across the world to visit a historical Egyptian landmark, there’s one right downtown!  
+While we're in "shut-down" mode from the COVID-19 pandemic, we're taking a closer look at some of our historical gems right here in the Coos Bay area. In this post, we're highlighting one of our most treasured sites, the <a href="[http://egyptiantheatreoregon.com/](http://egyptiantheatreoregon.com/ "http://egyptiantheatreoregon.com/")" target="_blank">Egyptian Theatre</a>, a cultural icon of the area since its doors first opened in 1925. That's right, you don’t need to travel across the world to visit a historical Egyptian landmark, there’s one right downtown!
 
-![](/img/Egyptian Theatre Oregon's Adventure Coast.jpg)
+!\[\](/img/Egyptian Theatre Oregon's Adventure Coast.jpg)
 
 \[Above Image Source: [Egyptian Theatre Coos Bay](https://www.facebook.com/pg/egyptiantheatrecoosbay/photos/?ref=page_internal "https://www.facebook.com/pg/egyptiantheatrecoosbay/photos/?ref=page_internal")\]
 
 ### **Did You Say 1925?!**
 
-It all began back in 1925 right in the heart of downtown Coos Bay. But did you know it wasn’t always a theatre? In 1922, the building was originally constructed as the Motor Inn Garage and Service station. In that same year, King Tutankhamen’s tomb was unearthed in Egypt! Coincidence? 
+It all began back in 1925 right in the heart of downtown Coos Bay. But did you know it wasn’t always a theatre? In 1922, the building was originally constructed as the Motor Inn Garage and Service station. In that same year, King Tutankhamen’s tomb was unearthed in Egypt! Coincidence?
 
 The American public was fascinated by the allure and mysteries of ancient Egypt, leading to an adoption of what is now known as the Egyptian Revival style. The Motor Inn Garage and Service Station was shut down due to building restrictions and the space took on a new form: The Egyptian Theatre.
 
@@ -39,11 +39,11 @@ The Theatre has changed ownership throughout the years, finally being purchased 
 
 ### **What Does It Offer?**
 
-If classic entertainment for an affordable price is what you’re after then the Egyptian Theatre is the place for you. There’s something just right about watching classic cinema in a historical venue like the Egyptian Theatre. It’s also a great spot to watch live music, oftentimes for free.  
+If classic entertainment for an affordable price is what you’re after then the Egyptian Theatre is the place for you. There’s something just right about watching classic cinema in a historical venue like the Egyptian Theatre. It’s also a great spot to watch live music, oftentimes for free.
 
-Like many of our local businesses, the Egyptian Theatre will be closed until further notice due to the COVID-19 pandemic. However, the day will come in the not-so-distant future when it will be open for business, and when that day comes, you'll want to be there. 
+Like many of our local businesses, the Egyptian Theatre will be closed until further notice due to the COVID-19 pandemic. However, the day will come in the not-so-distant future when it will be open for business, and when that day comes, you'll want to be there.
 
-Be sure to check their <a href="http://egyptiantheatreoregon.com/future-events/" target="_blank">Events</a> page in the near future and plan your outing! 
+Be sure to check their <a href="http://egyptiantheatreoregon.com/future-events/" target="_blank">Events</a> page in the near future and plan your outing!
 
 ### **So You’re Saying People Like This Place?**
 
@@ -62,3 +62,5 @@ _“This is like a trip back in time. The decor is original, and the feel remind
 We’re glad to hear it! The Egyptian Theatre is a special part of Coos Bay’s history and one that should be experienced by everyone at least once. If you want classic entertainment then you’ll be hard-pressed to find better.
 
 As we previously mentioned the Egyptian Theatre is run by non-profit efforts and passionate volunteers. If you’d like to get involved then reach out to the <a href="http://egyptiantheatreoregon.com/volunteer-info/" target="_blank">Egyptian Theatre</a> and help keep this historic landmark up and running for future generations of visitors.
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1769505299814563%2F&show_text=1&width=560" width="560" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
