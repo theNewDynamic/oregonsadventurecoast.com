@@ -19,7 +19,7 @@ categories:
 image: "/img/egyptian-theatre-coos-bay--blog-695x322.jpg.png"
 
 ---
-While we're in "shut-down" mode from the COVID-19 pandemic, we're taking a closer look at some of our historical gems right here in the Coos Bay area. In this post, we're highlighting one of our most treasured sites, the <a href="[http://egyptiantheatreoregon.com/](http://egyptiantheatreoregon.com/ "http://egyptiantheatreoregon.com/")" target="_blank">Egyptian Theatre</a>, a cultural icon of the area since its doors first opened in 1925. That's right, you don’t need to travel across the world to visit a historical Egyptian landmark, there’s one right downtown!
+While we're in "shut-down" mode from the COVID-19 pandemic, we're taking a closer look at some of our historical gems right here in the Coos Bay area. In this post, we're highlighting one of our most treasured sites, the [Egyptian Theatre](http://egyptiantheatreoregon.com), a cultural icon of the area since its doors first opened in 1925. That's right, you don’t need to travel across the world to visit a historical Egyptian landmark, there’s one right downtown!
 
 !\[\](/img/Egyptian Theatre Oregon's Adventure Coast.jpg)
 
@@ -35,7 +35,7 @@ The American public was fascinated by the allure and mysteries of ancient Egypt,
 
 \[Above Image Source: [Egyptian Theatre Coos Bay](https://www.facebook.com/pg/egyptiantheatrecoosbay/photos/?ref=page_internal "https://www.facebook.com/pg/egyptiantheatrecoosbay/photos/?ref=page_internal")\]
 
-The Theatre has changed ownership throughout the years, finally being purchased by The City of Coos Bay Urban Renewal Agency in 2006. With the enlisted help of nonprofit <a href="http://egyptiantheatreoregon.com/membership-info/" target="_blank">Egyptian Theatre Preservation Association</a>, they have transformed the venue into a showcase for classic and educational movies, hosted concerts, special events, and community celebrations.
+The Theatre has changed ownership throughout the years, finally being purchased by The City of Coos Bay Urban Renewal Agency in 2006. With the enlisted help of nonprofit [Egyptian Theatre Preservation Association](http://egyptiantheatreoregon.com/membership-info/), they have transformed the venue into a showcase for classic and educational movies, hosted concerts, special events, and community celebrations.
 
 ### **What Does It Offer?**
 
