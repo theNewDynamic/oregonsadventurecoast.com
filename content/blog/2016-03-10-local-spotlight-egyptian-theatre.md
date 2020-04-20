@@ -59,4 +59,4 @@ We’re glad to hear it! The Egyptian Theatre is a special part of Coos Bay’s 
 
 As we previously mentioned the Egyptian Theatre is run by non-profit efforts and passionate volunteers. If you’d like to get involved then reach out to the <a href="http://egyptiantheatreoregon.com/volunteer-info/" target="_blank">Egyptian Theatre</a> and help keep this historic landmark up and running for future generations of visitors.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1769505299814563%2F&show_text=1&width=560" width="560" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1769505299814563%2F&show_text=0&width=695" width="695" height="391" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
