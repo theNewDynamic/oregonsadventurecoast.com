@@ -19,8 +19,7 @@ tags:
 - Shore Acres State Park
 - Spring Travel
 - State Parks
-- State Parks & National Lands
-- Summer Travel
+- State Parks and National Lands
 categories:
 - State Parks & National Lands
 image: "/img/shore-acres-spring-flowers-695x322.jpg"
