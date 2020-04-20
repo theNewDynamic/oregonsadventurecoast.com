@@ -43,13 +43,13 @@ If classic entertainment for an affordable price is what you’re after then the
 
 Like many of our local businesses, the Egyptian Theatre will be closed until further notice due to the COVID-19 pandemic. However, the day will come in the not-so-distant future when it will be open for business, and when that day comes, you'll want to be there.
 
-Be sure to check their <a href="http://egyptiantheatreoregon.com/future-events/" target="_blank">Events</a> page in the near future and plan your outing!
+Be sure to check their [Events](http://egyptiantheatreoregon.com/future-events) page in the near future and plan your outing!
 
 ### **So You’re Saying People Like This Place?**
 
 That’s putting it lightly! Here are just a couple of reviews from the Egyptian Theatre’s [Tripadvisor](http://www.tripadvisor.com/Attraction_Review-g51813-d7227989-Reviews-Egyptian_Theater-Coos_Bay_Oregon.html#REVIEWS) page:
 
-_“Have come to over 10 performances here in the last several years. A truly jaw dropping interior that is one of a kind, and really brings back the spirit of the roaring 20’s. Visit if you have a chance!__“_
+_“Have come to over 10 performances here in the last several years. A truly jaw dropping interior that is one of a kind, and really brings back the spirit of the roaring 20’s. Visit if you have a chance!“_
 
 _“I absolutely love the movies we see there. We saw the Minions recently. We also saw the old Mummy with Boris Karloff. The popcorn is fabulous. The seats are comfortable and you can see from every seat. We will keep going back.“_
 
