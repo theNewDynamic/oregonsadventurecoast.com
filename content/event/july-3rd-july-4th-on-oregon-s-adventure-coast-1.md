@@ -1,5 +1,5 @@
 ---
-title: July 4th on Oregon's Adventure Coast
+title: July 4th Fireworks Over The Bay
 photo: "/img/fireworks-event-page-header.jpg"
 photo_alt: Fireworks over Coos Bay
 largeboxphoto: "/img/fireworks-event-large.jpg"
@@ -24,16 +24,11 @@ website: http://www.oregonsadventurecoast.com
 ---
 ![](/img/4th-of-july-fireworks-coos-bay-674x447.jpg)
 
-## 4th of July in Mingus Park & Coos Bay Boardwalk Fireworks
+## 4th of July Fireworks Over The Bay 
 
-_July 4, 2019_
+Due to COVID-19, the events that are usually planned for July 4th in Mingus Park have been cancelled this year. 
 
-This event features the Mayor's 5K run, fishing ponds, face painting, free swimming, family competitions, clowns, kids entertainment, horse viewing and petting, Boy Scouts and Furry Friends Therapy Dogs. Enjoy crafts and goodie bags, delicious food and much more. Fireworks by the City of Coos Bay.
-
-Day time activities take place at Mingus Park with evening activities on the Coos Bay Boardwalk starting at 8 p.m.
-
-Mingus Park  
-10th & Central, Coos Bay OR
+Fireworks Over the Bay will begin at 8:00pm from the Coos Bay Boardwalk. Social Distancing measures will be in place.
 
 Coos Bay Boardwalk  
 Hwy 101 at Central Ave, Coos Bay, OR
