@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 5:00pm PDT, April 22, 2020_**
+**_Updated 12:00pm PDT, April 23, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -52,7 +52,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Chan's Wok**](https://www.facebook.com/Chans-Wok-590674157672423/) - Take-out from 11am-8pm. Call ahead (541) 751-0623
 
-[**Clausen's Oysters**](https://www.facebook.com/ClausenOysters/) - The deli is still closed but are open for all your oyster needs, 10am-5pm
+[**Clausen's Oysters**](https://www.facebook.com/ClausenOysters/) - Take-out deli items like chowder and all your oyster needs, 10am-5pm. (541) 756-3600
 
 [**The Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - Take-out with curbside pickup (541) 267-5116 from 11am-8pm (M-Sa) Closed Sunday (Temporarily)
 
