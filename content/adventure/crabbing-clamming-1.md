@@ -25,6 +25,10 @@ Here are a few tips we want to share from the {{< link url="https://myodfw.com/a
 * Tie the end of your crab line to the dock or pier from where you are crabbing. Throw your crab pot or ring in the water and start crabbing.
 * Check with the {{< link url="https://myodfw.com/crabbing-clamming" >}}Oregon Department of Fish and Wildlife{{< /link >}}website for the most current shellfish regulations and harvest notices.
 
+### Best Locations for Crabbing on Oregon's Adventure Coast
+
+### Equipment Rental and Advice
+
 Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores often rent and sell rings. Here’s a short list of some locations:
 
 **Basin Tackle Shop**  
