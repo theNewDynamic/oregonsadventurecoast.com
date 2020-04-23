@@ -1,7 +1,7 @@
 ---
-title: Crabbing & Clamming
+title: Clamming
 url: "/crabbing-clamming"
-photo: "/img/adventures-crabbing.jpg"
+photo: ''
 seo:
   description: No vacation to the Oregon Coast is complete without outdoor activities
     like crabbing and clamming! Rent crab rings and learn our tips and tricks!
@@ -10,34 +10,6 @@ seo:
 draft: true
 
 ---
-## Crabbing on Oregon's Adventure Coast
-
-{{< floatimage src="/img/kids-crabbing-141.jpg" float="right" alt="Family Crabbing at the Charleston Marina" size="100" >}}
-
-No trip to the Adventure Coast is complete without Dungeness crab, and the best crab are always the ones you bring up yourself from the waters of lower Coos Bay. Rent or buy a crab ring and try your luck; the payoff will be a fresh crab feast you’ll always remember. And you’ll keep coming back for more.
-
-Here are a few tips we want to share from the {{< link url="https://myodfw.com/articles/how-crab" >}}Oregon Department of Fish and Wildlife{{< /link >}}. Be sure to read their [instructional flyer How to Crab](https://www.dfw.state.or.us/resources/fishing/docs/CrabbingFlyer.pdf) for important details.
-
-* Make sure you have your shellfish license (14 and older requires a shellfish license), crab measuring tool, pots or rings, cooler, gloves, bait holders and bait supply. 3-day licenses are available at local ODFW offices and at many sporting goods or hardware stores.
-* Slack water (the time around high or low tide) are the best times to crab. During slack water, crabs are generally walking around and foraging since they are not getting pushed around by tidal exchange.
-* Check all lines on crab pots or rings for kinks or knots to ensure they are durable and will allow gear to work correctly.
-* Fresh bait is best. Many different types of bait are used for crabbing: turkey, chicken, mink, fish carcass, shad, herring, clams, etc.
-* Tie the end of your crab line to the dock or pier from where you are crabbing. Throw your crab pot or ring in the water and start crabbing.
-* Check with the {{< link url="https://myodfw.com/crabbing-clamming" >}}Oregon Department of Fish and Wildlife{{< /link >}}website for the most current shellfish regulations and harvest notices.
-
-Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores often rent and sell rings. Here’s a short list of some locations:
-
-**Basin Tackle Shop**  
-63510 Kingfisher Road, Charleston, OR 97420  
-(541) 888-FISH  
-Open Mon-Sat 8am-5pm; Sun 8am-Noon  
-{{< link url="http://www.basintackle.com" >}}www.basintackle.com{{< /link >}}
-
-**Davey Jones Locker**  
-Cape Arago Highway & Boat Basin Road  
-Charleston, OR 97420  
-(541) 888-3941
-
 ### Clamming on Oregon's Adventure Coast
 
 {{< floatimage src="/img/crabbing-and-clamming.jpg" float="right" alt="Girl Clamming in " size="100" >}}
