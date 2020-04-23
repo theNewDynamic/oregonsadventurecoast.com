@@ -1,5 +1,5 @@
 ---
-title: Crabbing
+title: Crabbing & Clamming
 url: "/crabbing-clamming"
 photo: "/img/adventures-crabbing.jpg"
 seo:
