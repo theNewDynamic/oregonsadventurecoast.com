@@ -13,7 +13,7 @@ accordion_sections: []
 
 ---
 <style type="text/css">
-.display_archive {font-family: arial,verdana; font-size: 16px;}
+.display_archive {font-family: roboto, sans-serif; font-size: 18px; font-weight: 300; line-height: 1.5em;}
 .campaign {line-height: 150%; margin: 5px;}
 </style>
 <script language="javascript" src="//oregonsadventurecoast.us17.list-manage.com/generate-js/?u=23d20aa9dd6b1cc84d8ba12c6&fid=9248&show=100" type="text/javascript"></script>
