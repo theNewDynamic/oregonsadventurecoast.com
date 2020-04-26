@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 12:00pm PDT, April 23, 2020_**
+**_Updated 9:30am PDT, April 26, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -153,6 +153,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted. Please keep these establishments in your thoughts and plan to visit them when they re-open.
 
 **Aromas**, North Bend  
+**Back Alley Pub**, North Bend  
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
 **Cafe Mediterranean**, North Bend (Closed for renovations)  
 **Captains Cabin**, Coos Bay  
