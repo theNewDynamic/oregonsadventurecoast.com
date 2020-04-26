@@ -13,8 +13,9 @@ seo:
   imgalt: Seafood dining on oregon's adventure coast
 
 ---
-### Due to directives in relation to the COVID-19 virus, our area restaurants have moved to Take-Out, Curbside or Delivery options.  
-[**_CLICK HERE_**](/dining-options-takeout//dining-options-takeout/) for the most up to date information.
+### Due to directives in relation to the COVID-19 virus, our area restaurants have moved to Take-Out, Curbside or Delivery options.
+
+[**_CLICK HERE_**](/dining-options-takeout) for the most up to date information.
 
 ## We encourage EVERYONE to support local businesses!
 
