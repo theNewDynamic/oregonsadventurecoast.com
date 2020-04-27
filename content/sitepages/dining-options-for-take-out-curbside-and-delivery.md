@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 9:30am PDT, April 26, 2020_**
+**_Updated 1:00pm PDT, April 27, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -45,6 +45,8 @@ _Please know that we are doing our best to keep up with the restaurants offering
 [**Buzz**](https://www.facebook.com/ponyvillagebuzz/) - Pick up from back door (as Pony Village Mall is Closed now) and delivery of regular menu. Must call ahead (541) 756-0144
 
 [**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - Curbside & Delivery Service Phone: (541) 808-9500
+
+[**Cafe Mediterranean**](https://cafemediterranean.net/) - Re-opened for Take-out 11am - 8pm. (541)756-2299
 
 [**Cape Cafe**](https://www.facebook.com/pages/category/Restaurant/The-Cape-Cafe-2132250007095994/) - Take-out and Drive up window
 
@@ -155,7 +157,6 @@ _Please know that we are doing our best to keep up with the restaurants offering
 **Aromas**, North Bend  
 **Back Alley Pub**, North Bend  
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
-**Cafe Mediterranean**, North Bend (Closed for renovations)  
 **Captains Cabin**, Coos Bay  
 **Ciccarelli's Restaurant**, North Bend  
 **City Subs**, Coos Bay  
