@@ -46,6 +46,6 @@ The low tides commonly found from Empire to Charleston make our region one of th
 <p>
 <iframe width="695" height="403" src="https://www.youtube.com/embed/caRg6WqgrcI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-#### Oregon's Adventure Coast is not just known for great clamming, but excellent crabbing and fishing as well. Learn more about [**Crabbing on Oregon’s Adventure Coast**](). 
+#### Oregon's Adventure Coast is not just known for great clamming, but excellent crabbing and fishing as well. Learn more about [**Crabbing on Oregon’s Adventure Coast**]().
 
 #### And visit our [**Fishing page**](/fishing/) for information on charters and more!
