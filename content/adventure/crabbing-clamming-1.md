@@ -42,4 +42,6 @@ Cape Arago Highway & Boat Basin Road
 Charleston, OR 97420  
 (541) 888-3941
 
-#### Visit our [**Fishing page**](/fishing/) for information on charters and more!
+#### Oregon's Adventure Coast is not just known for great crabbing, but excellent clamming and fishing as well. Learn more about [**Clamming on Oregon’s Adventure Coast**]().
+
+#### And visit our [**Fishing page**](/fishing/) for information on charters and more!
