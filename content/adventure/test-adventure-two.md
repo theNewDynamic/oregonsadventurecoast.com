@@ -21,7 +21,7 @@ The Coos Bay, North Bend, Charleston Area has an amazing network of museums, gal
 
 Founded by local artists in 1966, Coos Art Museum is the third oldest art museum in Oregon and the only one on its coast. Housed in a 1936 art deco building it features seven galleries with up to 24 changing exhibitions annually and a Steve Prefontaine Memorial Room. The Museum’s Permanent Collection highlights contemporary fine art printmaking and artworks in all media by Pacific Northwest Artists. {{< link url="http://www.coosart.org" >}}Visit the Coos Art Museum website for more information.{{< /link >}}
 
-<div class="clearfix margin-30px-top"></div>
+{{< spacer >}}
 
 {{< floatimage src="/img/history-museum-mother-child.jpg" float="left" alt="Coos History Museum in Coos Bay, Oregon" size="40" >}}
 
@@ -29,7 +29,7 @@ Founded by local artists in 1966, Coos Art Museum is the third oldest art museum
 
 Oregon’s oldest continuously operated historical society boasting more than 250,000 historic photographs. With ever-changing exhibits, event and rental space, a unique museum shop and a developing bayfront plaza, this community built facility opened in its current location in 2015. Gain a historic overview of the  Coos and Coquille Indian tribes, as well as coal miners, loggers and shipbuilders that helped to shape the area. Local shipwrecks are chronicled, along with frequently changed exhibits on a wide variety of topics from pre-history to the present. {{< link url="https://cooshistory.org" >}}Visit the Coos History Museum website for more information.{{< /link >}}
 
-<div class="clearfix margin-30px-top"></div>
+{{< spacer >}}
 
 {{< floatimage src="/img/marshfield-printing-museum.jpg" float="left" alt="The Marshfield Sun Printing Museum" size="40" >}}
 
@@ -37,7 +37,7 @@ Oregon’s oldest continuously operated historical society boasting more than 25
 
 Step back in time and see the original equipment from The Sun Newspaper as it was left in 1944. Open from Memorial Day to Labor Day. Tues-Sat 1pm – 4pm. For group tours or other times of the year call 541-266-0901 or 541-267-3762. {{< link url="https://www.marshfieldsunprintingmuseum.org" >}}Visit the Marshfield Sun Printing Museum website for more information.{{< /link >}}
 
-<div class="clearfix margin-30px-top"></div>
+{{< spacer >}}
 
 {{< floatimage src="/img/railroad-museum.jpg" float="left" alt="The Oregon Coast Historic Railway Museum" size="40" >}}
 
@@ -45,7 +45,7 @@ Step back in time and see the original equipment from The Sun Newspaper as it wa
 
 A must stop for railroad enthusiasts. Ring the bell of the signature 1922 Baldwin steam locomotive! This museum shows off railroad and logging equipment in an outdoor display area, and a mini-museum with photos and railroad memorabilia. Welcome aboard! Open Wednesdays & Saturdays. {{< link url="http://www.orcorail.org" >}}Visit The Oregon Coast Historic Railway Museum website for more information.{{< /link >}}
 
-<div class="clearfix margin-30px-top"></div>
+{{< spacer >}}
 
 {{< floatimage src="/img/liberty-theater.jpg" float="left" alt="The Liberty Theatre on Oregon's Adventure Coast" size="40" >}}
 
@@ -53,7 +53,7 @@ A must stop for railroad enthusiasts. Ring the bell of the signature 1922 Baldwi
 
 Home of the Little Theatre on the Bay – Famed for their little Ole Opry performances,  you won’t want to miss any of the musicals at this charming, renovated 1939 theatre. {{< link url="http://thelibertytheatre.org" >}}Visit The Liberty Theatre website for productions, showtimes, and ticket information.{{< /link >}}
 
-<div class="clearfix margin-30px-top"></div>
+{{< spacer >}}
 
 {{< floatimage src="/img/egyptian-theatre-museums.jpg" float="left" alt="The Egyptian Theatre in Coos Bay, Oregon" size="40" >}}
 

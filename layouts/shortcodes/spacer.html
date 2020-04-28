@@ -1,0 +1,5 @@
+{{- $size := "50" -}}
+{{- with .Get 0 -}}
+  {{- $size = string . -}}
+{{- end -}}
+<div style="margin-top: {{- $size | safeCSS -}}px"></div>

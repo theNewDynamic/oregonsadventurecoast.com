@@ -26,7 +26,7 @@ In April and August Bandon Marsh National Wildlife Refuge attracts rare shorebir
 
 Visit Oregon’s Adventure Coast in September for the annual [Oregon Shorebird Festival](https://www.oregonshorebirdfestival.org/). You’ll find field trips, talks, and a forum for all skill levels to share and exchange stories. Founded by the Cape Arago Audubon Society, and sponsored by several groups, you can expand your knowledge, and spend a long summer weekend on the Coast - what could be better?
 
-<div class="clearfix margin-50px-top"></div>
+{{< spacer 50 >}}
 
 ![Coquille Point Harbor Seal](/img/coquillepoint_harborseal.jpg)
 
@@ -38,7 +38,7 @@ Visit Oregon’s Adventure Coast in September for the annual [Oregon Shorebird F
 
 **Simpson Beach:** Directly below Shore Acres State Park, a path leads to a secluded cove that provides great whale watching and a different view of Shell Island. 
 
-<div class="clearfix margin-50px-top"></div>
+{{< spacer 50 >}}
 
 ![Southern Oregon Coast Grey Whale](/img/southerncoastoregon_grey_whale.jpg)
 

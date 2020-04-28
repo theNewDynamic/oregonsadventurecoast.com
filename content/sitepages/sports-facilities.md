@@ -18,7 +18,7 @@ Let us know what we can do to help. Our facilities, our lodging properties and o
 * **Southwestern Oregon Community College Facilities –** Basketball, Baseball, Dance & Exercise, Racquetball, Rock Climbing, Rugby, Soccer, Track & Field, Volleyball, Wrestling,
 * **Swimming Pools**
 
-<div class="clearfix margin-50px-top"></div>
+{{< spacer 50 >}}
 
 ![City of North Bend Municipal Swimming Pool](/img/nbswimmingpool-695x322.jpg)
 
@@ -61,7 +61,7 @@ Public Restrooms:** Yes
 
 Additional Offerings:** Swimming lessons for all ages, competitive swim teams-South Coast Aquatic Team and North Bend High School, Lifeguard Training, and Water Aerobic Classes.
 
-<div class="clearfix margin-50px-top"></div>
+{{< spacer 50 >}}
 
 ![Southwestern Oregon Community College Sports Facilities](/img/track-bldg_sm1-695x322.jpg)
 
