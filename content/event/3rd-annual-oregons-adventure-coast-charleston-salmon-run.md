@@ -8,19 +8,20 @@ desktoptitle: Oregon's Adventure Coast Charleston Salmon Run
 mobiletitle: Charleston Salmon Run
 hovertitle: Run Your Race on the Coast!
 hoverdescription: Run or walk this year - Marathon, Half, 10K and 1 Mile Crab Walk!
-startdate: '2019-10-05'
-enddate: '2019-10-05'
+startdate: '2020-10-03'
+enddate: '2020-10-03'
 address:
   city: Charleston
   state: OR
   street: Boat Basin Road
   zip: 97420
 website: https://www.charlestonsalmonrun.com
+draft: true
 
 ---
 ![](/img/salmon-run-hdr-695-x-322.jpg)
 
-**3rd Annual Oregon's Adventure Coast Charleston Salmon Run and Crab Walk** takes place October 5th on one of the most beautiful courses in Oregon.  All races begin and end in Charleston Oregon and follow amazing scenic routes along rugged sea cliffs and sandy beaches.
+**4th Annual Oregon's Adventure Coast Charleston Salmon Run and Crab Walk** takes place October 3rd on one of the most beautiful courses in Oregon.  All races begin and end in Charleston Oregon and follow amazing scenic routes along rugged sea cliffs and sandy beaches.
 
 The Salmon Run includes a 26.2-mile Marathon, 13.1-mile Half Marathon, 10K run and the 1 mile Crab Walk.
 
