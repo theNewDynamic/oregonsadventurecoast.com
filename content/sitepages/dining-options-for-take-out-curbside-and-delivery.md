@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 1:00pm PDT, April 27, 2020_**
+**_Updated 5:00pm PDT, April 27, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -171,6 +171,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 **Lucky Star**, North Bend, Closed until April 7  
 **Noster Kitchen**, Coos Bay  
 **Outdoor Inn**, Coos Bay  
+**Playa Del Sol**, Coos Bay  
 **Saw Blade Buffet, Plankhouse, Timbers, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
 **Sizzler**, North Bend  
 **So It Goes Coffeehouse**, Coos Bay  
