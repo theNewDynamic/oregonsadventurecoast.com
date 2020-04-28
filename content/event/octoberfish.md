@@ -1,20 +1,21 @@
 ---
 title: Octoberfish
 photo: "/img/salmon-run-pg-header.jpg"
-largeboxphoto: "/img/octoberfish-event-large.jpg"
-mediumboxphoto: "/img/octoberfish-event-medium.jpg"
-smallboxphoto: "/img/octoberfish-event-small.jpg"
+largeboxphoto: ''
+mediumboxphoto: ''
+smallboxphoto: ''
 desktoptitle: 'Octoberfish: The Official Salmon Run Afterparty!'
 mobiletitle: Octoberfish
 hovertitle: Official Salmon Run Afterparty
 hoverdescription: Join Us for the Fun After the Run!
-startdate: '2019-10-05'
-enddate: '2019-10-05'
+startdate: '2020-10-03'
+enddate: '2020-10-03'
 address:
   city: Charleston
   state: Oregon
   street: Boat Basin Road
   zip: 97420
+draft: true
 
 ---
 ![Octoberfish - Official Afterparty for the Charleston Salmon Run](/img/octoberfish-695x322.jpg)
