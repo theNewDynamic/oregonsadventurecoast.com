@@ -36,27 +36,27 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Bayside Coffee, Charleston**](http://www.baysidecoffeeshop.com/) - Takeout and curbside delivery of coffee drinks and pastries. Order drinks, ground coffee or beans ahead and pick up curbside (541) 260-3742
 
-[**Blue Heron Bistro**](http://www.blueheronbistro.net/) - Take-out, curbside and delivery of family style meals, dinner. New weekly menu items too.
-
-[**Bon Appetit Catering & Event Center**](https://www.facebook.com/BABCEvents/) - Take and bake meals. (541) 290-2271
-
-[**Bungalow Market & Deli**](https://www.facebook.com/Bungalow-Market-Deli-282965688442/) - Regular hours and to go operations.
-
-[**Buzz**](https://www.facebook.com/ponyvillagebuzz/) - Pick up from back door (as Pony Village Mall is Closed now) and delivery of regular menu. Must call ahead (541) 756-0144
+[**Blue Heron Bistro**](http://www.blueheronbistro.net/) - Take-out, curbside and delivery of family style meals, dinner. New weekly menu items too. (541) 267-3933
 
 [**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - Curbside & Delivery Service Phone: (541) 808-9500
 
+[**Bon Appetit Catering & Event Center**](https://www.facebook.com/BABCEvents/) - Take and bake meals. (541) 290-2271
+
+[**Bungalow Market & Deli**](https://www.facebook.com/Bungalow-Market-Deli-282965688442/) - Regular hours and to go operations. (541) 751-0304
+
+[**Buzz**](https://www.facebook.com/ponyvillagebuzz/) - Pick up from back door (as Pony Village Mall is Closed now) and delivery of regular menu. Must call ahead (541) 756-0144
+
 [**Cafe Mediterranean**](https://cafemediterranean.net/) - Re-opened for Take-out 11am - 8pm. (541)756-2299
 
-[**Cape Cafe**](https://www.facebook.com/pages/category/Restaurant/The-Cape-Cafe-2132250007095994/) - Take-out and Drive up window
+[**Cape Cafe**](https://www.facebook.com/pages/category/Restaurant/The-Cape-Cafe-2132250007095994/) - Take-out and Drive up window. (541) 808-2662
 
-[**Captain's Choice NB**](http://www.captainschoicefishhouse.com/) - Order ahead and pick up in lobby or call when you arrive and they'll deliver to your car. Phone (541) 756-0125
+[**Captain's Choice**](http://www.captainschoicefishhouse.com/) - Order ahead and pick up in lobby or call when you arrive and they'll deliver to your car. Phone (541) 756-0125
 
 [**Chan's Wok**](https://www.facebook.com/Chans-Wok-590674157672423/) - Take-out from 11am-8pm. Call ahead (541) 751-0623
 
 [**Clausen's Oysters**](https://www.facebook.com/ClausenOysters/) - Take-out deli items like chowder and all your oyster needs, 10am-5pm. (541) 756-3600
 
-[**The Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - Take-out with curbside pickup (541) 267-5116 from 11am-8pm (M-Sa) Closed Sunday (Temporarily)
+[**Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - Take-out with curbside pickup (541) 267-5116 from 11am-8pm (M-Sa) Closed Sunday (Temporarily)
 
 [**Coney Station**](https://www.facebook.com/ConeyStation/) - Curbside pickup of a limited menu, 11am-6pm, Please Call ahead (541) 269-6948
 
@@ -71,10 +71,6 @@ _Please know that we are doing our best to keep up with the restaurants offering
 [**Espresso Mill and Bakery**](https://www.facebook.com/Espresso-Mill-Bakery-276492352505979/) - Drive through service
 
 [**E Z Thai**](https://www.ez-thai.com/) - Take-out during its normal business hours
-
-[**Fisherman’s Grotto**](https://www.fishermansgrottoinc.com/) - Take-out and curbside pickup with call ahead orders
-
-[**Friends Cafe**](https://www.facebook.com/Friends-Cafe-530179044034503/) - Take-out of call ahead orders. 541-808-9449
 
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee, closed Mondays & Tuesdays
 
@@ -178,12 +174,16 @@ _Please know that we are doing our best to keep up with the restaurants offering
 **Humboldt Club**, North Bend  
 **Liberty Pub**, North Bend  
 **Los Dos Amigos**, North Bend  
+**Lucky Dragon Buffet**, North Bend  
+**Millers at the Cove**, Charleston  
 **Noster Kitchen**, Coos Bay  
 **Outdoor-In**, Coos Bay  
 **Playa Del Sol**, Coos Bay  
 **Saw Blade Buffet, Plankhouse, Timbers, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
 **Sizzler**, North Bend  
 **So It Goes Coffeehouse**, Coos Bay  
+**Stockpot Restaurant**, Coos Bay  
+**Tiny's Tavern**, North Bend  
 **Wildflour Cafe**, North Bend
 
 **_Please remember that these establishments cannot serve you anywhere on their premises - decks, patios, parking lots - they can only serve to go orders to be taken away from the business to be consumed. - OLCC_**
