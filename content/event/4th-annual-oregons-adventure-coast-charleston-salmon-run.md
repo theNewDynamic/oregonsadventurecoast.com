@@ -33,7 +33,7 @@ The Salmon Run includes a 26.2-mile Marathon, 13.1-mile Half Marathon, 10K run a
 
 **After the run, join the fun at the annual** [**Octoberfish**](https://oregonsadventurecoast.com/event/octoberfish), the official after party of the Oregon's Adventure Coast Charleston Salmon Run!
 
-### Packet Pickup
+### Packet Pickup (subject to change)
 
 {{< columns number="2" >}}
 
@@ -53,7 +53,7 @@ _6:00am to 7:00am_
 Charleston, OR 97420
 {{< /columns >}}
 
-Packet Pick-up will take place at 7 Devils Brewing Co. on Friday and at Bayside Coffee conveniently located near the starting line on race day. Packet pick-up is available between noon and 8pm on Friday October 4th and between 6am and 7 am Saturday October 5th. Registration is available for the 10k on race day but only between 6am and 7am at Bayside Coffee.
+Packet Pick-up will take place at 7 Devils Brewing Co. on Friday and at Bayside Coffee conveniently located near the starting line on race day. Packet pick-up is available between noon and 8pm on Friday October 2nd and between 6am and 7 am Saturday October 3rd. Registration is available for the 10k on race day, but only between 6am and 7am, at Bayside Coffee.
 
 ### Starting Location
 
