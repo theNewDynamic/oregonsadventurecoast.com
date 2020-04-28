@@ -38,7 +38,7 @@ The low tides commonly found from Empire to Charleston make our region one of th
 
 **5. Keep track of how many clams you dig.**
 
-<p class="bullet-para-indent">You are allowed 20 bay clams per day in the aggregate, however, only 12 of which may be Gaper or Empire clams; again this is something someone at a local bait and tackle shop can help you with. Click here for {{< link url="https://www.dfw.state.or.us/mrp/shellfish/regulations.asp" >}}ODFW's Regulations Summary for Marine Shellfish{{< /link >}}.</p>
+<p class="bullet-para-indent">You are allowed 20 bay clams per day in the aggregate, however, only 12 of which may be Gaper or Empire clams; again this is something someone at a local bait and tackle shop can help you with. Click here for [ODFW's Regulations Summary for Marine Shellfish](https://www.dfw.state.or.us/mrp/shellfish/regulations.asp).</p>
 
 **6. Watch these tutorials and learn from the pros!**
 
