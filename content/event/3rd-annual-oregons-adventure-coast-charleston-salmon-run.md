@@ -37,7 +37,7 @@ The Salmon Run includes a 26.2-mile Marathon, 13.1-mile Half Marathon, 10K run a
 
 {{< columns number="2" >}}
 
-#### Friday, Oct 4, 2019
+#### Friday, Oct 2, 2020
 
 _Noon to 8:00pm_  
 **7 Devils Brewing Company**  
@@ -45,7 +45,7 @@ _Noon to 8:00pm_
 Coos Bay, OR 97420
 \++++
 
-#### Saturday, Oct 5, 2019
+#### Saturday, Oct 3, 2020
 
 _6:00am to 7:00am_  
 **Bayside Coffee**  
@@ -65,7 +65,5 @@ Boat Basin Rd, Charleston, OR 97420
 > * Half Marathon - 9:30am
 > * 10K - 10:00am
 > * 1 Mile Walk - 10:30am
-
-![](/img/Salmon-Run-Lodging-Promo.png)
 
 ![2nd Annual Charleston Salmon Run on Oregon's Adventure Coast](/img/salmon-run-695x322.jpg)
