@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 5:00pm PDT, April 27, 2020_**
+**_Updated 3:00pm PDT, April 28, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -96,6 +96,8 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Little Italy**](http://littleitalycoosbay.com/) - Take-out of their regular menu from 3pm-8pm. They are offering a 15% discount. Phone: 541-808-2200
 
+[**Lucky Star**](https://www.facebook.com/Lucky-Star-120151947996876/) - Take-out and delivery of regular menu 11am-9pm. Phone orders at 541-751-9526 or online ordering at [www.luckystarnorthbend.com](http://www.luckystarnorthbend.com/?fbclid=IwAR1SCzjU4VwY8GOfYXEfac0dqmY5gL4sAiWdekhzRVcbiPH7qshENaSsrqQ)
+
 [**Luigi’s**](https://www.facebook.com/Luigis-Italian-Sandwiches-140543963550/) - Take-out only with call ahead order
 
 [**Maria’s Authentic Mexican**](https://www.facebook.com/Marias-Authentic-Mexican-Restaurant-217216079032178/) - Delivery and curbside service available
@@ -136,6 +138,8 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Sumin’s Restaurant and Sushi Bar**](https://suminscoosbay.com/) - Take-out during its normal business hours
 
+[**Tai’s Dynasty**](http://taidynasty.com/) - Take-out of the Chinese menu only, 11am-8pm daily
+
 [**Tin Thistle**](https://www.facebook.com/thetinthistlecafe/) - Take-out, curbside pick up of full menu
 
 [**Tokyo Bistro**](https://www.tokyocoosbay.com/) - Curbside pickup available.
@@ -156,26 +160,30 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 **Aromas**, North Bend  
 **Back Alley Pub**, North Bend  
+**Blue Moon Saloon**, Coos Bay  
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
+**Cafe 1297**, inside Three Rivers Casino, Coos Bay  
 **Captains Cabin**, Coos Bay  
 **Ciccarelli's Restaurant**, North Bend  
 **City Subs**, Coos Bay  
-**Coney Station**, Coos Bay  
-**Darrell's Devils Food**, Coos Bay  
+**Crabby Cakes Bakery**, Charleston  
 **Dave’s Pizza**, Coos Bay  
+**El Guadalajara Mexican**, North Bend  
+**Fisherman's Grotto**, Charleston  
+**Fishermen's Seafood Market**, Coos Bay (Note: Food Truck is open in Powers)  
 **Gooney’s**, Coos Bay  
+**Grounds Cafe**, in Books by the Bay, North Bend  
 **High Tide**, Charleston  
 **Hilltop House Restaurant**, North Bend  
+**Humboldt Club**, North Bend  
 **Liberty Pub**, North Bend  
 **Los Dos Amigos**, North Bend  
-**Lucky Star**, North Bend, Closed until April 7  
 **Noster Kitchen**, Coos Bay  
-**Outdoor Inn**, Coos Bay  
+**Outdoor-In**, Coos Bay  
 **Playa Del Sol**, Coos Bay  
 **Saw Blade Buffet, Plankhouse, Timbers, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
 **Sizzler**, North Bend  
 **So It Goes Coffeehouse**, Coos Bay  
-**Tai’s Dynasty**, North Bend  
 **Wildflour Cafe**, North Bend
 
 **_Please remember that these establishments cannot serve you anywhere on their premises - decks, patios, parking lots - they can only serve to go orders to be taken away from the business to be consumed. - OLCC_**
