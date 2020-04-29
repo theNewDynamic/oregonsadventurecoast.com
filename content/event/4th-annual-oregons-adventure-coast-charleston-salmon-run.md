@@ -19,12 +19,13 @@ website: https://www.charlestonsalmonrun.com
 draft: true
 
 ---
+![](/img/salmon-run-hdr-4th-695-x-322.jpg)
+
+![](/img/shore-acres-spring-flowers-695x322.jpg)
 
 **4th Annual Oregon's Adventure Coast Charleston Salmon Run and Crab Walk** takes place October 3rd on one of the most beautiful courses in Oregon.  All races begin and end in Charleston Oregon and follow amazing scenic routes along rugged sea cliffs and sandy beaches.
 
 The Salmon Run includes a 26.2-mile Marathon, 13.1-mile Half Marathon, 10K run and the 1 mile Crab Walk.
-
-![](/img/salmon-run-hdr-4th-695-x-322.jpg)
 
 <div class="margin-50px-top"></div>
 
