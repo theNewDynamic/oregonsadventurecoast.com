@@ -30,7 +30,7 @@ The Salmon Run includes a 26.2-mile Marathon, 13.1-mile Half Marathon, 10K run a
 
 ### Registration COMING SOON!
 
-{{< spacer 50 >}}
+<div class="margin-50px-top"></div>
 
 **After the run, join the fun at the annual** [**Octoberfish**](https://oregonsadventurecoast.com/event/octoberfish), the official after party of the Oregon's Adventure Coast Charleston Salmon Run!
 
