@@ -110,7 +110,7 @@ _Please know that we are doing our best to keep up with the restaurants offering
 
 [**Ocean Air Taqueria & Eatery**](https://www.facebook.com/Ocean-Air-Taqueria-Eatery-108504043866257/) - Take-out and curbside pickup with call ahead order (541) 808-3532
 
-[**Pancake Mill**](https://www.pancakemill.com/) - Take-out of regular menu breakfast and lunch menu. Phone: (541) 756-2751
+[**Pancake Mill**](https://www.pancakemill.com/) - RE-OPENING MAY 5th - Take-out of regular menu breakfast and lunch menu. Phone: (541) 756-2751
 
 [**Papa Murphy's**](https://www.papamurphys.com/) - Take-out and curbside pickup of take & bake pizza.
 
