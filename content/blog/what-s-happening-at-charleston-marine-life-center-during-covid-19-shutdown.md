@@ -24,13 +24,10 @@ Many of our followers have asked how the marine-life are being cared for and how
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FUOCMLC%2Fvideos%2F2640015716269022%2F&show_text=1&width=424" width="424" height="662" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FUOCMLC%2Fvideos%2F928539914233012%2F&show_text=1&width=267" width="267" height="905" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FUOCMLC%2Fvideos%2F928539914233012%2F&show_text=1&width=267" width="267" height="905" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe><br>
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FUOCMLC%2Fvideos%2F1267022913500893%2F&show_text=1&width=357" width="357" height="689" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
 Our friend Rick Dancer toured the Charleston Marine Life Center during a series of segments back in 2018. Watch it here. https://www.facebook.com/watch/live/?v=1771112492987177&ref=watch_permalink 
 
-If you wish to supplement your children’s scientific knowledge, the CMLC Facebook page contains a wealth of marine life information with interesting facts and fun educational resources. Like everyone else, we’re looking forward to the day when our local businesses, cultural and nature centers like the Charleston Marine Life Center can re-open and welcome back the public. We’ll keep you posted on when that day comes, but until then- stay home, stay safe and dream! For more information visit http://www.charlestonmarinelifecenter.com/. 
-
-
-
+If you wish to supplement your children’s scientific knowledge, the CMLC Facebook page contains a wealth of marine life information with interesting facts and fun educational resources. Like everyone else, we’re looking forward to the day when our local businesses, cultural and nature centers like the Charleston Marine Life Center can re-open and welcome back the public. We’ll keep you posted on when that day comes, but until then- stay home, stay safe and dream! For more information visit http://www.charlestonmarinelifecenter.com/.
