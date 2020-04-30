@@ -1,9 +1,21 @@
 ---
 title: 'What’s Happening at Charleston Marine Life Center During COVID-19 Shutdown? '
 date: 2020-04-30T04:00:00+00:00
-description: ''
+description: 'Many of our followers were curious as to what the animals were up to
+  at Charleston Marine Life Center during the COVID-19 shutdown. Even though these
+  amazing creatures miss their public visitors and school groups, it looks like they’re
+  doing just fine. '
 image: "/img/CharlestonMarine-LifeCenterBlog-695x322.jpg"
-tags: []
+tags:
+- Charleston Marine Life Center
+- COVID-19 shut down
+- Oregon
+- Oregon Coast
+- The Oregon Institute of Marine Biology
+- marine life
+- 'marine biology '
+- museum
+- 'nature center '
 categories: []
 seo:
   title: ''
