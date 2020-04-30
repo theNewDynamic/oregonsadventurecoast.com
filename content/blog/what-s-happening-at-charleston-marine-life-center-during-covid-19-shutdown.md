@@ -12,11 +12,10 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-draft: true
 
 ---
 We know you’re missing the many interesting places and faces throughout Oregon’s Adventure Coast, so we thought we’d peek in at one of our favorite local destinations like the Charleston Marine Life Center, considered by many to be a [gem hidden in plain sight](https://www.oregonsadventurecoast.com/blog/charleston-marine-life-center-in-a-hidden-gem/). The center, part of the OIMB - The Oregon Institute of Marine Biology, has developed a loyal following among locals, visitors and educators throughout the region, but like many other public buildings and businesses throughout the country, they have temporarily closed their doors to help stop the spread of COVID-19.
-Many of our followers have asked how the marine-life are being cared for and how they are passing the time during the shut-down. You will be happy to know the animals are doing just fine and being cared for by a small, dedicated crew of CMLC staff and OIMB graduate students that are feeding the marine-life regularly and maintaining the tanks. Even though these amazing creatures miss their public visitors and school groups, they’ve still managed to have some fun- take a look at what they’ve been up to these past few weeks. 
+Many of our followers have asked how the marine-life are being cared for and how they are passing the time during the shut-down. You will be happy to know the animals are doing just fine and being cared for by a small, dedicated crew of CMLC staff and OIMB graduate students that are feeding the marine-life regularly and maintaining the tanks. Even though these amazing creatures miss their public visitors and school groups, they’ve still managed to have some fun- take a look at what they’ve been up to these past few weeks.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FUOCMLC%2Fposts%2F1098127087187442&width=500" width="500" height="689" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
@@ -28,6 +27,7 @@ Many of our followers have asked how the marine-life are being cared for and how
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FUOCMLC%2Fvideos%2F1267022913500893%2F&show_text=1&width=357" width="357" height="689" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
-Our friend Rick Dancer toured the Charleston Marine Life Center during a series of segments back in 2018. Watch it here. https://www.facebook.com/watch/live/?v=1771112492987177&ref=watch_permalink 
+Our friend Rick Dancer toured the Charleston Marine Life Center during a series of segments back in 2018. Watch it here.
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1771112492987177%2F&show_text=1&width=560" width="560" height="445" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
-If you wish to supplement your children’s scientific knowledge, the CMLC Facebook page contains a wealth of marine life information with interesting facts and fun educational resources. Like everyone else, we’re looking forward to the day when our local businesses, cultural and nature centers like the Charleston Marine Life Center can re-open and welcome back the public. We’ll keep you posted on when that day comes, but until then- stay home, stay safe and dream! For more information visit http://www.charlestonmarinelifecenter.com/.
+If you wish to supplement your children’s scientific knowledge, the CMLC Facebook page contains a wealth of marine life information with interesting facts and fun educational resources. Like everyone else, we’re looking forward to the day when our local businesses, cultural and nature centers like the Charleston Marine Life Center can re-open and welcome back the public. We’ll keep you posted on when that day comes, but until then- stay home, stay safe and dream! For more information, visit [www.charlestonmarinelifecenter.com](http://www.charlestonmarinelifecenter.com/.).
