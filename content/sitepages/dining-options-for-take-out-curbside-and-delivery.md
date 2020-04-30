@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 3:00pm PDT, April 28, 2020_**
+**_Updated 10:30pm PDT, April 30, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -53,6 +53,8 @@ _Please know that we are doing our best to keep up with the restaurants offering
 [**Captain's Choice**](http://www.captainschoicefishhouse.com/) - Order ahead and pick up in lobby or call when you arrive and they'll deliver to your car. Phone (541) 756-0125
 
 [**Chan's Wok**](https://www.facebook.com/Chans-Wok-590674157672423/) - Take-out from 11am-8pm. Call ahead (541) 751-0623
+
+[**City Subs**](https://www.facebook.com/CitySubs/) - OPENING MAY 4TH! Take-out, Monday thru Saturday from 10 am to 4 pm. Call-In orders only. (541) 269-9000
 
 [**Clausen's Oysters**](https://www.facebook.com/ClausenOysters/) - Take-out deli items like chowder and all your oyster needs, 10am-5pm. (541) 756-3600
 
