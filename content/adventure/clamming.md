@@ -22,7 +22,7 @@ The low tides commonly found from Empire to Charleston make our region one of th
 
 **1. Get your shellfish license.**
 
-<p class="bullet-para-indent">Clams can be harvested all year on our coast, but ODFW does require a license.  {{< link url="https://myodfw.com/crabbing-clamming/licensing-info" >}}Click here to get your license{{< /link >}}.</p>
+<p class="bullet-para-indent">Clams can be harvested all year on our coast, but ODFW does require a license.  [Click here to get your license](https://myodfw.com/crabbing-clamming/licensing-info).</p>
 
 **2. Wear waterproof boots (trust us).**
 
