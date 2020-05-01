@@ -43,8 +43,8 @@ The low tides commonly found from Empire to Charleston make our region one of th
 **6. Watch these tutorials and learn from the pros!**
 
 <p class="bullet-para-indent">Watch this video to learn the basics of digging:</p>
-<p>
-<iframe width="695" height="403" src="https://www.youtube.com/embed/caRg6WqgrcI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+
+{{< youtube "caRg6WqgrcI" >}}
 
 {{< spacer 50 >}}
 
