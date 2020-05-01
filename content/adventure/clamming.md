@@ -46,10 +46,20 @@ The low tides commonly found from Empire to Charleston make our region one of th
 <p>
 <iframe width="695" height="403" src="https://www.youtube.com/embed/caRg6WqgrcI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<div class="margin-50px-top"></div>
+{{< spacer 50 >}}
 
-#### Oregon's Adventure Coast is not just known for great clamming, but excellent crabbing and fishing as well. Learn more about Crabbing on Oregon’s Adventure Coast.
+### Explore Crabbing & Fishing!<br>
 
-<div class="margin-50px-top"></div>
+<div class="trip-idea-thumbnail"> <img src="/img/thumbnail-crabbing-4px-line.jpg" alt="Crabbing on the Oregon's Adventure Coast"></div>
 
-#### And visit our [**Fishing page**](/fishing/) for information on charters and more!
+[**Crabbing**](/crabbing-clamming)  
+Oregon's Adventure Coast is not just known for great clamming, but excellent crabbing. No trip is complete without Dungeness crab, and the best crab are always the ones you bring up yourself from the waters of lower Coos Bay. [Learn more about Crabbing on Oregon’s Adventure Coast >>](/crabbing-clamming)
+
+<div class="clearfix"></div>
+
+{{< spacer 30 >}}
+
+<div class="trip-idea-thumbnail"> <img src="/img/thumbnail-fishing-4px-line.jpg" alt="World-Class Fishing on the Oregon's Adventure Coast"></div>
+
+[**World-Class Fishing**](/fishing)  
+Fishing opportunities are in no short supply here. There are fish for every season and an endless choice of prime fishing spots to select from.[Visit our Fishing page for information on charters and more! >>](/fishing)
