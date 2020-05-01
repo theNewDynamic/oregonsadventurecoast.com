@@ -50,12 +50,12 @@ Charleston, OR 97420
 
 <div class="trip-idea-thumbnail"> <img src="/img/thumbnail-clamming-4px-line.jpg" alt="Clamming on the Oregon's Adventure Coast"></div>
 
-#### All About Our Clamming
+[**Clamming**](/clamming)**  
+**Oregon's Adventure Coast is not just known for great crabbing, but excellent clamming and fishing as well. [Learn more about Clamming on Oregon’s Adventure Coast >>](/clamming)
 
-Oregon's Adventure Coast is not just known for great crabbing, but excellent clamming and fishing as well. [Learn more about Clamming on Oregon’s Adventure Coast >>](/clamming)
+<div class="clearfix padding-20px-top"></div>
 
 <div class="trip-idea-thumbnail"> <img src="/img/thumbnail-fishing-4px-line.jpg" alt="World-Class Fishing on the Oregon's Adventure Coast"></div>
 
-#### World-Class Fishing
-
-Fishing opportunities are in no short supply here on Oregon’s Adventure Coast! There are fish for every season and an endless choice of prime fishing spots to select from.[Visit our Fishing page for information on charters and more! >>](/fishing)
+[**World-Class Fishing**](/fishing)  
+Fishing opportunities are in no short supply here. There are fish for every season and an endless choice of prime fishing spots to select from.[Visit our Fishing page for information on charters and more! >>](/fishing)
