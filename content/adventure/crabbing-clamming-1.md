@@ -16,7 +16,7 @@ draft: true
 
 No trip to the Adventure Coast is complete without Dungeness crab, and the best crab are always the ones you bring up yourself from the waters of lower Coos Bay. Rent or buy a crab ring and try your luck; the payoff will be a fresh crab feast you’ll always remember. And you’ll keep coming back for more.
 
-Here are a few tips we want to share from the {{< link url="https://myodfw.com/articles/how-crab" >}}Oregon Department of Fish and Wildlife{{< /link >}}. Be sure to read their [instructional flyer How to Crab](https://www.dfw.state.or.us/resources/fishing/docs/CrabbingFlyer.pdf) for important details.
+Here are a few tips we want to share from the [Oregon Department of Fish and Wildlife](https://myodfw.com/articles/how-crab). Be sure to read their [instructional flyer How to Crab](https://www.dfw.state.or.us/resources/fishing/docs/CrabbingFlyer.pdf) for important details.
 
 ![](/img/Pet Friendly Oregon Coast Hotels_blog_695 x 322.png)
 
@@ -25,7 +25,7 @@ Here are a few tips we want to share from the {{< link url="https://myodfw.com/a
 * Check all lines on crab pots or rings for kinks or knots to ensure they are durable and will allow gear to work correctly.
 * Fresh bait is best. Many different types of bait are used for crabbing: turkey, chicken, mink, fish carcass, shad, herring, clams, etc.
 * Tie the end of your crab line to the dock or pier from where you are crabbing. Throw your crab pot or ring in the water and start crabbing.
-* Check with the {{< link url="https://myodfw.com/crabbing-clamming" >}}Oregon Department of Fish and Wildlife{{< /link >}}website for the most current shellfish regulations and harvest notices.
+* Check with the [Oregon Department of Fish and Wildlife](https://myodfw.com/crabbing-clamming) website for the most current shellfish regulations and harvest notices.
 
 ### Best Locations for Crabbing on Oregon's Adventure Coast
 
