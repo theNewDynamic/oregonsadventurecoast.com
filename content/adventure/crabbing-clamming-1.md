@@ -18,7 +18,7 @@ No trip to the Adventure Coast is complete without Dungeness crab, and the best 
 
 Here are a few tips we want to share from the [Oregon Department of Fish and Wildlife](https://myodfw.com/articles/how-crab). Be sure to read their [instructional flyer How to Crab](https://www.dfw.state.or.us/resources/fishing/docs/CrabbingFlyer.pdf) for important details.
 
-![](/img/Pet Friendly Oregon Coast Hotels_blog_695 x 322.png)
+![](/img/Girlfriends-Crabbing-in-Charleston-695x322.jpg)
 
 * Make sure you have your shellfish license (14 and older requires a shellfish license), crab measuring tool, pots or rings, cooler, gloves, bait holders and bait supply. 3-day licenses are available at local ODFW offices and at many sporting goods or hardware stores.
 * Slack water (the time around high or low tide) are the best times to crab. During slack water, crabs are generally walking around and foraging since they are not getting pushed around by tidal exchange.
