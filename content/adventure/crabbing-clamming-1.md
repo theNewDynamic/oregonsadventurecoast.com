@@ -37,17 +37,25 @@ Rental crab rings are available at many RV parks and other lodging facilities, a
 63510 Kingfisher Road, Charleston, OR 97420  
 (541) 888-FISH  
 Open Mon-Sat 8am-5pm; Sun 8am-Noon  
-{{< link url="http://www.basintackle.com" >}}www.basintackle.com{{< /link >}}
+[www.basintackle.com](http://www.basintackle.com)
 
 **Davey Jones Locker**  
 Cape Arago Highway & Boat Basin Road  
 Charleston, OR 97420  
 (541) 888-3941
 
-<div class="margin-50px-top"></div>
+{{< spacer 50 >}}
 
-#### Oregon's Adventure Coast is not just known for great crabbing, but excellent clamming and fishing as well. Learn more about [**Clamming on Oregon’s Adventure Coast**]().
+### Explore Clamming & Fishing!
 
-<div class="margin-50px-top"></div>
+<div class="trip-idea-thumbnail"> <img src="/img/ti-hiking-dunes-thumb-4pxline.jpg" alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast"></div>
 
-#### And visit our [**Fishing page**](/fishing/) for information on charters and more!
+#### All About Our Clamming
+
+Oregon's Adventure Coast is not just known for great crabbing, but excellent clamming and fishing as well. [Learn more about Clamming on Oregon’s Adventure Coast >>](/clamming)
+
+<div class="trip-idea-thumbnail"> <img src="/img/ti-hiking-dunes-thumb-4pxline.jpg" alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast"></div>
+
+#### World-Class Fishing
+
+And visit our Fishing page for information on charters and more!
