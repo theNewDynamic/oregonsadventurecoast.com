@@ -46,7 +46,7 @@ Charleston, OR 97420
 
 {{< spacer 50 >}}
 
-### Explore Clamming & Fishing!
+### Explore Clamming & Fishing!<br>
 
 <div class="trip-idea-thumbnail"> <img src="/img/thumbnail-clamming-4px-line.jpg" alt="Clamming on the Oregon's Adventure Coast"></div>
 
