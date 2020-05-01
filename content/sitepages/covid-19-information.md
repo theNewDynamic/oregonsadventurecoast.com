@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-_Updated at 10:30a.m., March 31, 2020_
+_Updated at 9:30a.m., May 1, 2020_
 
 **As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors.**
 
@@ -30,10 +30,8 @@ In the meantime, here are some suggestions to help you stay healthy.
 * Practice social distancing of 6 feet when in small crowds.
 * **STAY HOME AS MUCH AS POSSIBLE TO STOP THE SPREAD OF COVID-19**
 
-We are closely monitoring the Coronavirus (COVID-19) pandemic as it relates to our state, our county and our destinations. **At this time, we have no confirmed cases in Coos County. County Commissioner Melissa Cribbins updates this data daily on her** [**Facebook page**](https://www.facebook.com/commissionercribbins/)**.**
+We are closely monitoring the Coronavirus (COVID-19) pandemic as it relates to our state, our county and our destinations. **At this time, we have 21 confirmed cases in Coos County, all associated with Shutter Creek Correctional Institution. County Commissioner Melissa Cribbins updates this data daily on her** [**Facebook page**](https://www.facebook.com/commissionercribbins/)**.**
 
 This is a rapidly evolving situation that changes by the hour and there is a lot of uncertainty. We strongly encourage residents and travelers to always follow public health authorities’ recommendations above all else.
 
 **We look forward to seeing you in the future.**
-
-{{< accordions >}}
