@@ -57,7 +57,7 @@ Oregon's Adventure Coast is not just known for great clamming, but excellent cra
 
 <div class="clearfix"></div>
 
-{{< spacer 30 >}}
+{{< spacer 10 >}}
 
 <div class="trip-idea-thumbnail"> <img src="/img/thumbnail-fishing-4px-line.jpg" alt="World-Class Fishing on the Oregon's Adventure Coast"></div>
 
