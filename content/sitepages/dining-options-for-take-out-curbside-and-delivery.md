@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 9:30am PDT, May 1, 2020_**
+**_Updated 9:00am PDT, May 4, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -24,7 +24,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 {{< spacer 50 >}}
 
-[**7 Devils Brewery**](https://www.7devilsbrewery.com/#/) - CB - offering Take N Bake Meals and Beer in cans, bottles, & growlers on Fridays, Sundays & Tuesdays. Orders must be made at least 12 hours in advance - [click this link](https://www.7devilsbrewery.com/#/). Pickup from 4pm-7pm (541) 808-3738
+[**7 Devils Brewery**](https://www.7devilsbrewery.com/#/) - CB - offering Full menu for Take-Out and Beer in cans, bottles, & growlers Wednesday through Saturday from noon to 7pm. [click this link](https://www.7devilsbrewery.com/#/) or call (541) 808-3738
 
 [**Abby’s Pizza**](https://abbys.com/) - CB - Delivery and curbside togo orders only (541) 267-5839
 
@@ -60,7 +60,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Ciccarelli's Restaurant**](https://www.facebook.com/Ciccarellis-Restaurant-1006325779561696/) - NB - Take-out of full restaurant menu Tuesday-Saturday, 11:30am-8pm. Take-out from The Coffee Shop will be open from Tuesday-Saturday 9-3. (541) 751-1999
 
-[**City Subs**](https://www.facebook.com/CitySubs/) - CB - OPENING MAY 4TH! Take-out, Monday thru Saturday from 10 am to 4 pm. Call-In orders only. (541) 269-9000
+[**City Subs**](https://www.facebook.com/CitySubs/) - CB - Take-out, Monday thru Saturday from 10 am to 4 pm. Call-In orders only. (541) 269-9000
 
 [**Clausen's Oysters**](https://www.facebook.com/ClausenOysters/) - NB - Take-out deli items like chowder and all your oyster needs, 10am-5pm. (541) 756-3600
 
@@ -84,7 +84,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Gino's Pizza**](https://ginospizzainn.com/) - NB - Curbside pickup & take-out available. Phone: (541) 756-5000
 
-[**Green Street Organic Juice Bar**](https://www.facebook.com/GreenStreetJuice/) - CB - Take-out and curbside pickup is available. (541) 808-0475 
+[**Green Street Organic Juice Bar**](https://www.facebook.com/GreenStreetJuice/) - CB - Take-out and curbside pickup is available. (541) 808-0475
 
 [**Kaffe 101**](http://kaffe101.com/)- CB - Take-out and curbside pickup of regular food and beverage menu. For curbside pickup, call ahead (541) 267-4894
 
@@ -102,6 +102,8 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Little Italy**](http://littleitalycoosbay.com/) - CB - Take-out of their regular menu from 3pm-8pm. They are offering a 15% discount. Phone: (541) 808-2200
 
+[**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - NB - Take-out of a special menu with Free delivery for orders over $20. Call (541) 756-4799
+
 [**Lucky Star**](https://www.facebook.com/Lucky-Star-120151947996876/) - NB - Take-out and delivery of regular menu 11am-9pm. Phone orders at (541) 751-9526 or online ordering at [www.luckystarnorthbend.com](http://www.luckystarnorthbend.com/?fbclid=IwAR1SCzjU4VwY8GOfYXEfac0dqmY5gL4sAiWdekhzRVcbiPH7qshENaSsrqQ)
 
 [**Luigi’s**](https://www.facebook.com/Luigis-Italian-Sandwiches-140543963550/) - CB - Take-out only with call ahead order (541) 888-9407
@@ -110,7 +112,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Margarita’s Mexican Grill**](https://www.facebook.com/Margaritas-mexican-grill-209792999040540/) - CB - Order by phone and pick up through Drive Thru Window of regular menu. (541) 267-5480
 
-[**Mean Street Sandwiches**](https://www.facebook.com/MeanStreetCoosBay/) - CB - Take-out and curbside pickup is available. (541) 808-9263 
+[**Mean Street Sandwiches**](https://www.facebook.com/MeanStreetCoosBay/) - CB - Take-out and curbside pickup is available. (541) 808-9263
 
 **Mom's Kitchen** - NB - Take-out with call ahead order, 6am-2pm. (541) 756-2710
 
@@ -170,7 +172,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
 **Cafe 1297**, inside Three Rivers Casino, Coos Bay  
 **Captains Cabin**, Coos Bay  
-**City Subs**, Coos Bay  
 **Crabby Cakes Bakery**, Charleston  
 **Dave’s Pizza**, Coos Bay  
 **El Guadalajara Mexican**, North Bend  
@@ -182,7 +183,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **Hilltop House Restaurant**, North Bend  
 **Humboldt Club**, North Bend  
 **Liberty Pub**, North Bend  
-**Los Dos Amigos**, North Bend  
 **Lucky Dragon Buffet**, North Bend  
 **Millers at the Cove**, Charleston  
 **Noster Kitchen**, Coos Bay  
