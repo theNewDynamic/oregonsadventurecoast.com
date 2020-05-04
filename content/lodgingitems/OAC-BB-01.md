@@ -10,7 +10,7 @@ address:
   street: 476 Newmark Avenue
   zip: '97420'
 phone_local: 541-888-6058
-units: '4'
+units: 4
 cost: 3 - $$$
 property_description: The Old Tower House Bed & Breakfast is central to Oregon's bay
   area. Start your adventure with a relaxing stay in an atmosphere that allows you
