@@ -102,7 +102,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Little Italy**](http://littleitalycoosbay.com/) - CB - Take-out of their regular menu from 3pm-8pm. They are offering a 15% discount. Phone: (541) 808-2200
 
-[**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - NB - Take-out of a special menu with Free delivery for orders over $20. Call (541) 756-4799
+[**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - NB - Curbside pickup of a special menu with Free delivery for orders over $20. Margaritas, Daiquiris & Mojitos, too! Call (541) 756-4799
 
 [**Lucky Star**](https://www.facebook.com/Lucky-Star-120151947996876/) - NB - Take-out and delivery of regular menu 11am-9pm. Phone orders at (541) 751-9526 or online ordering at [www.luckystarnorthbend.com](http://www.luckystarnorthbend.com/?fbclid=IwAR1SCzjU4VwY8GOfYXEfac0dqmY5gL4sAiWdekhzRVcbiPH7qshENaSsrqQ)
 
