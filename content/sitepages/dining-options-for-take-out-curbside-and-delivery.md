@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 9:00am PDT, May 4, 2020_**
+**_Updated 9:00am PDT, May 5, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -120,6 +120,8 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Monkey Business**](https://www.facebook.com/Monkey-Business-Food-to-Go-1654371274782354/) - CH - Food truck Take-out available Sat-Tue 10am-4pm; Wed-Fri 10am-6pm (541) 260-4145
 
+[**Noster Kitchen**](https://www.facebook.com/nosterkitchen/) - CH - Take-out available with a [special take-out menu](https://nosterkitchen.com/takeoutmenu) M-F, 10:30am-2:30pm. (541) 808-3999
+
 [**Ocean Air Taqueria & Eatery**](https://www.facebook.com/Ocean-Air-Taqueria-Eatery-108504043866257/) - CH - Take-out and curbside pickup with call ahead order (541) 808-3532
 
 [**Pancake Mill**](https://www.pancakemill.com/) - NB - RE-OPENING MAY 5th - Take-out of regular menu breakfast and lunch menu. Phone: (541) 756-2751
@@ -185,7 +187,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **Liberty Pub**, North Bend  
 **Lucky Dragon Buffet**, North Bend  
 **Millers at the Cove**, Charleston  
-**Noster Kitchen**, Coos Bay  
 **Outdoor-In**, Coos Bay  
 **Playa Del Sol**, Coos Bay  
 **Saw Blade Buffet, Plankhouse, Timbers, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
