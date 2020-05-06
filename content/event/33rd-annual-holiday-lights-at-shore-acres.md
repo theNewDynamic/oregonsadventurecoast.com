@@ -21,6 +21,7 @@ address:
 phone_toll_free: 866-888-6100
 phone_local: 541-888-2472
 website: http://shoreacres.net/
+draft: true
 
 ---
 ![32nd Annual Holiday Lights at Shore Acres](/img/holiday-lights-695x322.jpg)
