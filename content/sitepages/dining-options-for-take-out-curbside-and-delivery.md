@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 9:00am PDT, May 5, 2020_**
+**_Updated 5:00pm PDT, May 6, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -88,7 +88,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Kaffe 101**](http://kaffe101.com/)- CB - Take-out and curbside pickup of regular food and beverage menu. For curbside pickup, call ahead (541) 267-4894
 
-**Kim's Oriental Market** - CB - Take-out of small menu of items. Phone: (541) 267-0488
+[**Kim's Oriental Market**](https://www.restaurantji.com/or/coos-bay/kims-oriental-market-/) - CB - Take-out of small menu of items. Phone: (541) 267-0488
 
 [**Kozy Kitchen**](https://www.facebook.com/Kozykitchendiners/) - NB - Take-out, curbside pickup of Ready to Go meals, and Delivery service within 5 mile radius for $5 fee. See their Facebook page for more information and call in your order (541) 756-1214
 
