@@ -20,6 +20,7 @@ address:
 phone_local: "(541) 269-0215"
 phone_toll_free: ''
 website: http://www.oregonsadventurecoast.com
+draft: true
 
 ---
 ![](/img/4th-of-july-fireworks-coos-bay-674x447.jpg)
