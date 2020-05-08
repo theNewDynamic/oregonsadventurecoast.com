@@ -20,6 +20,7 @@ largeboxphoto: "/img/blackberry-event-large.jpg"
 mediumboxphoto: "/img/blackberry-event-medium.jpg"
 smallboxphoto: "/img/blackberry-event-small.jpg"
 date: '2019-02-10T22:01:16.000+00:00'
+draft: true
 
 ---
 ![](/img/blackberry-fest-blog-695-322.jpg)

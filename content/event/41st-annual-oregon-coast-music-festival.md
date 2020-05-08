@@ -20,6 +20,7 @@ mediumboxphoto: "/img/music-festival-medium.jpg"
 smallboxphoto: "/img/music-festival-small.jpg"
 photo_alt: ''
 date: '2019-02-10T21:57:25.000+00:00'
+draft: true
 
 ---
 **_Due to concerns from the COVID-19 situation, OCMA Board has opted to cancel the three large festival concerts for 2020. For now, the smaller concerts and activities will remain on the schedule._**
