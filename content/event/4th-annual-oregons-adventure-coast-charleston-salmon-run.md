@@ -16,7 +16,6 @@ address:
   street: Boat Basin Road
   zip: 97420
 website: https://www.charlestonsalmonrun.com
-draft: true
 
 ---
 ![4th Annual Oregon's Adventure Coast Annual Charleston Salmon Run](/img/salmon-run-4th-695-x-322.jpg)
