@@ -82,6 +82,8 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**E Z Thai**](https://www.ez-thai.com/) - CB - Take-out during its normal business hours (541) 267-8404
 
+[**Fisherman's Grotto**](https://www.facebook.com/Fishermans-Grotto-162321840503126/) - CH - Take-out on Friday Saturday And Sundays! 11a -7p  (541) 888-3251
+
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - CB - {Note: Front Street will be closed May 11-19} Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee, closed Mondays & Tuesdays
 
 [**Gino's Pizza**](https://ginospizzainn.com/) - NB - Curbside pickup & take-out available. Phone: (541) 756-5000
@@ -178,7 +180,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **Captains Cabin**, Coos Bay  
 **Crabby Cakes Bakery**, Charleston  
 **Dave’s Pizza**, Coos Bay  
-**Fisherman's Grotto**, Charleston  
 **Fishermen's Seafood Market**, Coos Bay (Note: Food Truck is open in Powers)  
 **Gooney’s**, Coos Bay  
 **Grounds Cafe**, in Books by the Bay, North Bend  
