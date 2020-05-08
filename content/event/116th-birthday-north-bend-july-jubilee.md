@@ -20,6 +20,7 @@ mediumboxphoto: "/img/july-jubilee-event-medium.jpg"
 smallboxphoto: "/img/july-jubilee-event-small.jpg"
 photo_alt: ''
 date: '2019-02-10T00:00:00.000+00:00'
+draft: true
 
 ---
 ![](/img/july-jubilee-event-blog-695x322.jpg)
