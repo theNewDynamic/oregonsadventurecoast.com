@@ -74,13 +74,15 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Domino’s Pizza CB**](https://www.dominos.com/) (2 locations - CB) - Online ordering, contactless delivery and take-out. Half priced pizzas ordered online. (541) 269-1000 (Ocean Blvd) or (541) 982-6200 (Johnson Ave)
 
+[**El Guadalajara**]() - NB - Take-out of regular menu. Call to order (541) 756-3030
+
 [**Elkhorn BBQ Food Truck**](https://www.facebook.com/elkhornbbq/) - CB - Check Facebook for daily location, usually at the Coos Bay Fast Mart (541) 297-0581
 
 [**Espresso Mill and Bakery**](https://www.facebook.com/Espresso-Mill-Bakery-276492352505979/) - CB - Drive through service (541) 808-0005
 
 [**E Z Thai**](https://www.ez-thai.com/) - CB - Take-out during its normal business hours (541) 267-8404
 
-[**Front Street Provisioners**](http://frontstreetprovisioners.com/) - CB - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee, closed Mondays & Tuesdays
+[**Front Street Provisioners**](http://frontstreetprovisioners.com/) - CB - {Note: Front Street will be closed May 11-19} Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee, closed Mondays & Tuesdays
 
 [**Gino's Pizza**](https://ginospizzainn.com/) - NB - Curbside pickup & take-out available. Phone: (541) 756-5000
 
@@ -176,7 +178,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **Captains Cabin**, Coos Bay  
 **Crabby Cakes Bakery**, Charleston  
 **Dave’s Pizza**, Coos Bay  
-**El Guadalajara Mexican**, North Bend  
 **Fisherman's Grotto**, Charleston  
 **Fishermen's Seafood Market**, Coos Bay (Note: Food Truck is open in Powers)  
 **Gooney’s**, Coos Bay  
