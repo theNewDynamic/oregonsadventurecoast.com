@@ -15,7 +15,7 @@ seo:
 ---
 ### Due to directives in relation to the COVID-19 virus, our area restaurants have moved to Take-Out, Curbside or Delivery options.
 
-[**_CLICK HERE_**](/dining-options-takeout) for the most up to date information.
+#### [**_CLICK HERE_**](/dining-options-takeout) for the most up to date information.
 
 ## We encourage EVERYONE to support local businesses!
 
