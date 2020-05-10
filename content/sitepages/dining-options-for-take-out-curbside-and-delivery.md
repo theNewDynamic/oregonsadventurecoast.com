@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 12:00pm PDT, May 8, 2020_**
+**_Updated 1:40pm PDT, May 10, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -122,7 +122,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Momiji’s Sushi**](https://www.momijiinc.com/north-bend) - NB - Take-out or delivery available with call ahead order (541) 808-2133
 
-[**Monkey Business**](https://www.facebook.com/Monkey-Business-Food-to-Go-1654371274782354/) - CH - Food truck Take-out available Sat-Tue 10am-4pm; Wed-Fri 10am-6pm (541) 260-4145
+[**Monkey Business**](https://www.facebook.com/Monkey-Business-Food-to-Go-1654371274782354/) - CH - Food truck Take-out available Daily 10am-4pm (541) 778-3650
 
 [**Noster Kitchen**](https://www.facebook.com/nosterkitchen/) - CH - Take-out available with a [special take-out menu](https://nosterkitchen.com/takeoutmenu) M-F, 10:30am-2:30pm. (541) 808-3999
 
