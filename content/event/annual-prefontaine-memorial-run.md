@@ -16,6 +16,7 @@ address:
   street: 235 Anderson Avenue
   zip: 97420
 website: http://www.prefontainerun.com
+draft: true
 
 ---
 {{< floatimage src="/img/prefontaine-run.large.jpg" float="none" alt="Prefontaine Runners" size="68" >}}
