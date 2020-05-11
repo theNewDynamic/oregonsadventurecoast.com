@@ -21,6 +21,7 @@ address:
 phone_toll_free: "(800) 824-8486"
 phone_local: "(541) 269-0215"
 website: https://bayareafunfestival.com/
+draft: true
 
 ---
 {{< floatimage src="/img/bay-area-fun-fest-large.jpg" float="none" alt="People At Bay Area Fun Fest" size="68" >}}

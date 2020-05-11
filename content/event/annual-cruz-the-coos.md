@@ -18,6 +18,7 @@ address:
   zip: 97420
 phone_local: "(541) 888-3863"
 website: https://cruzthecoos.com/
+draft: true
 
 ---
 {{< floatimage src="/img/cruz-the-coos-large.jpg" float="none" alt="32nd Annual Cruz the Coos" size="68" >}}
