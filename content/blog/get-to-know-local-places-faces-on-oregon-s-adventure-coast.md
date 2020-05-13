@@ -1,5 +1,5 @@
 ---
-title: Get to Know Local Places & Faces on Oregon’s Adventure Coast
+title: Meet Janice Langlinais of Oregon’s Adventure Coast
 date: 2020-05-11T04:00:00+00:00
 description: Meet our fearless leader, Janice Langlinais, who is approaching her 3rd
   year as the Director at Coos Bay - North Bend Visitor and Convention Bureau here
@@ -21,6 +21,8 @@ aliases: []
 accordion_sections: []
 
 ---
+<h3>Get to Know Local Places & Faces on Oregon’s Adventure Coast</h3>
+
 We talk an awful lot about trip ideas and the unique destinations on Oregon’s Adventure Coast but the people of the [Coos Bay \~ North Bend \~ Charleston region ](https://www.oregonsadventurecoast.com/our-area/)are unique in their own right! Next time you visit, strike up a conversation with some of the friendly faces as you explore the many places that make Oregon’s Adventure Coast so unique.
 
 Visit the [locally owned stores](https://www.oregonsadventurecoast.com/shopping/) and [restaurants](https://www.oregonsadventurecoast.com/dining/) around the region and chances are you will engage in a memorable conversation with the business owners and employees and learn things about Oregon’s Adventure Coast you’ll never find in a brochure or magazine. Step inside our visitor center for some of the friendliest volunteers you’ll find anywhere.
