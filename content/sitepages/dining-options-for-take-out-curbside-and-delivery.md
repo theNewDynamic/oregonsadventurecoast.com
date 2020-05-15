@@ -16,7 +16,11 @@ accordion_sections: []
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
-#### Friday, May 15th, Coos County area restaurants allowed to re-open for dining as long as they can meet the new guidelines. We will try to note which restaurants are open for dine-in here, but encourage you to CALL before you go! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
+#### Friday, May 15th, Coos County area restaurants allowed to re-open for dining as long as they can meet the new guidelines. We will try to note which restaurants are open for dine-in here, but encourage you to CALL before you go! 
+
+###### {{< spacer 25 >}}
+
+#### Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) or Postmates for pickup and delivery services!
 
 {{< spacer 50 >}}
 
