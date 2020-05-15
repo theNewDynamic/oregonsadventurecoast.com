@@ -12,11 +12,11 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 4:00pm PDT, May 13, 2020_**
+**_Updated 2:00pm PDT, May 14, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
-#### We encourage our residents and visitors to support our local businesses by ordering meals to go or purchasing gift cards for future meals from these fine establishments! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
+#### Friday, May 15th, Coos County area restaurants allowed to re-open for dining as long as they can meet the new guidelines. We will try to note which restaurants are open for dine-in here, but encourage you to CALL before you go! Also, call on [**Yellow Cab**](https://yellowcabcoosbay.com/) for pickup and delivery services!
 
 {{< spacer 50 >}}
 
@@ -31,6 +31,8 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 [**Alder Smokehouse**](https://www.facebook.com/thealdersmokehouse/) - NB - Take-out of regular menu. Curbside pick up from 11-3. Call or Text (541) 756-9599
 
 [**Angelina’s Mexican Restaurant**](https://www.facebook.com/bestmexicanfoodintown/) - CB - Call ahead for ToGo orders (541) 808-9010
+
+[**Back Alley Pub & Grill**](https://www.facebook.com/BackAlleyPubAndGrill/) - NB - Dine-in, takeout food and wine! (541) 756-0572
 
 [**Bailey's Health Food Center Grab & Go Deli**](https://www.facebook.com/Baileys-Health-Food-Center-147228088639515/) - NB - curb side pick-up of call ahead orders (541) 756-3004
 
@@ -54,11 +56,13 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Cape Cafe**](https://www.facebook.com/pages/category/Restaurant/The-Cape-Cafe-2132250007095994/) - CH - Take-out and Drive up window. (541) 808-2662
 
+[**Captains Cabin**](https://www.facebook.com/Captains-Cabin-Bar-101307443269162/) - CB - Dine-in now available. (541) 267-7772
+
 [**Captain's Choice**](http://www.captainschoicefishhouse.com/) - NB - Order ahead and pick up in lobby or call when you arrive and they'll deliver to your car. Phone (541) 756-0125
 
 [**Chan's Wok**](https://www.facebook.com/Chans-Wok-590674157672423/) - NB - Take-out from 11am-8pm. Call ahead (541) 751-0623
 
-[**Ciccarelli's Restaurant**](https://www.facebook.com/Ciccarellis-Restaurant-1006325779561696/) - NB - Take-out of full restaurant menu Tuesday-Saturday, 11:30am-8pm. Take-out from The Coffee Shop will be open from Tuesday-Saturday 9-3. (541) 751-1999
+[**Ciccarelli's Restaurant**](https://www.facebook.com/Ciccarellis-Restaurant-1006325779561696/) - NB - Dine-in for dinner only , 4-close, Tuesday-Saturday, take-out of full menu still available. The Coffee Shop will be open from Tuesday-Saturday 9-3. (541) 751-1999
 
 [**City Subs**](https://www.facebook.com/CitySubs/) - CB - Take-out, Monday thru Saturday from 10 am to 4 pm. Call-In orders only. (541) 269-9000
 
@@ -86,7 +90,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - CB - {Note: Front Street will be closed May 11-19} Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee, closed Mondays & Tuesdays
 
-[**Gino's Pizza**](https://ginospizzainn.com/) - NB - Curbside pickup & take-out available. Phone: (541) 756-5000
+[**Gino's Pizza**](https://ginospizzainn.com/) - NB - Dine-in, plus curbside pickup & take-out still available. Phone: (541) 756-5000
 
 [**Green Street Organic Juice Bar**](https://www.facebook.com/GreenStreetJuice/) - CB - Take-out and curbside pickup is available. (541) 808-0475
 
@@ -94,7 +98,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Kim's Oriental Market**](https://www.restaurantji.com/or/coos-bay/kims-oriental-market-/) - CB - Take-out of small menu of items. Phone: (541) 267-0488
 
-[**Kozy Kitchen**](https://www.facebook.com/Kozykitchendiners/) - NB - Take-out, curbside pickup of Ready to Go meals, and Delivery service within 5 mile radius for $5 fee. See their Facebook page for more information and call in your order (541) 756-1214
+[**Kozy Kitchen**](https://www.facebook.com/Kozykitchendiners/) - NB - Dine-in, take-out, curbside pickup of Ready to Go meals, and Delivery service within 5 mile radius for $5 fee. See their Facebook page for more information and call in your order (541) 756-1214
 
 [**Kum-Yons**](http://kumyonscoosbay.com/index.html) - CB - Take-out available from 11am-8:30pm for call ahead orders (541) 269-2662
 
@@ -128,7 +132,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Ocean Air Taqueria & Eatery**](https://www.facebook.com/Ocean-Air-Taqueria-Eatery-108504043866257/) - CH - Take-out and curbside pickup with call ahead order (541) 808-3532
 
-[**Pancake Mill**](https://www.pancakemill.com/) - NB - RE-OPENING MAY 5th - Take-out of regular menu breakfast and lunch menu. Phone: (541) 756-2751
+[**Pancake Mill**](https://www.pancakemill.com/) - NB - Take-out of regular menu breakfast and lunch menu. Phone: (541) 756-2751
 
 [**Papa Murphy's**](https://www.papamurphys.com/) - CB & NB - Take-out and curbside pickup of take & bake pizza. (541) 269-9700 (CB) or (541) 756-0447 (NB)
 
@@ -173,11 +177,9 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted. Please keep these establishments in your thoughts and plan to visit them when they re-open.
 
 **Aromas**, North Bend  
-**Back Alley Pub**, North Bend  
 **Blue Moon Saloon**, Coos Bay  
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
 **Cafe 1297**, inside Three Rivers Casino, Coos Bay  
-**Captains Cabin**, Coos Bay  
 **Crabby Cakes Bakery**, Charleston  
 **Dave’s Pizza**, Coos Bay  
 **Fishermen's Seafood Market**, Coos Bay (Note: Food Truck is open in Powers)  
