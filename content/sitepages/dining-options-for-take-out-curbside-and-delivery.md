@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 9:30am PDT, May 15, 2020_**
+**_Updated 6:00pm PDT, May 15, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -36,7 +36,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Angelina’s Mexican Restaurant**](https://www.facebook.com/bestmexicanfoodintown/) - CB - Call ahead for ToGo orders (541) 808-9010
 
-[**Back Alley Pub & Grill**](https://www.facebook.com/BackAlleyPubAndGrill/) - NB - Dine-in, takeout food and wine! (541) 756-0572
+[**Back Alley Pub & Grill**](https://www.facebook.com/BackAlleyPubAndGrill/) - NB - Dine-in, takeout food and wine! 11am-9pm (541) 756-0572
 
 [**Bailey's Health Food Center Grab & Go Deli**](https://www.facebook.com/Baileys-Health-Food-Center-147228088639515/) - NB - curb side pick-up of call ahead orders (541) 756-3004
 
@@ -90,7 +90,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**E Z Thai**](https://www.ez-thai.com/) - CB - Take-out during its normal business hours (541) 267-8404
 
-[**Fisherman's Grotto**](https://www.facebook.com/Fishermans-Grotto-162321840503126/) - CH - Take-out on Friday Saturday And Sundays! 11a -7p  (541) 888-3251
+[**Fisherman's Grotto**](https://www.facebook.com/Fishermans-Grotto-162321840503126/) - CH - Dine-in or take-out on Friday Saturday And Sundays! 11a -7p  (541) 888-3251
 
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - CB - {Note: Front Street will be closed May 11-19} Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee, closed Mondays & Tuesdays
 
@@ -140,6 +140,8 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Papa Murphy's**](https://www.papamurphys.com/) - CB & NB - Take-out and curbside pickup of take & bake pizza. (541) 269-9700 (CB) or (541) 756-0447 (NB)
 
+**Playa Del Sol** - CB - Dine-in 11am-8pm. Limited seating. (541) 808-9696
+
 [**Portside**](http://www.portsidebythebay.com/) - CH - Take-out full menu and if you call ahead they will have it ready and will bring out the back door to your car (541) 888-5544
 
 [**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - CB - Take-out of regular menu, discounts available. (541) 266-9311
@@ -150,17 +152,21 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Sea Basket**](https://www.facebook.com/JRU.industries/) - CH - Take-out of specials and regular menu. (541) 888-5711
 
-[**Shake 'N Burger**](https://www.facebook.com/Shake-N-Burger-589936737695886/) - CB - Pick up, Drive Thru and Curbside order pick up. Phone: (541) 808-9013
+[**Shake 'N Burger**](https://www.facebook.com/Shake-N-Burger-589936737695886/) - CB - Dine-in, Take-out, Drive Thru and Curbside order pick up. Phone: (541) 808-9013
 
 [**Shark Bites Cafe**](http://www.sharkbites.cafe/) - CB - Take-out of full menu. Phone: (541) 269-7475
 
 [**Scoops Handmade Ice Cream**](https://scoops.life/) - NB - Curbside pickup available. Phone ahead. (541) 808-2990
+
+**Stockpot Restaurant** - CB - Dine-in now available. (541) 266-7070
 
 [**Subway**](https://www.subway.com/en-us) - CB & NB - all locations offering Take-out, online app ordering, pay online for curbside pickup
 
 [**Sumin’s Restaurant and Sushi Bar**](https://suminscoosbay.com/) - CB - Take-out during its normal business hours (541) 267-0119
 
 [**Tai’s Dynasty**](http://taidynasty.com/) - NB - Take-out of the Chinese menu only, 11am-8pm daily (541) 756-3475
+
+[**Timbers at The Mill**](https://www.themillcasino.com/update-on-our-response-to-covid-19/) - NB - Take-out from Timbers Cafe with social distancing dining in the Saw Blade Buffet or Warehouse 101. (541) 756-8800
 
 [**Tin Thistle**](https://www.facebook.com/thetinthistlecafe/) - NB - Take-out, curbside pick up of full menu (541) 267-0267
 
@@ -196,8 +202,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **Lucky Dragon Buffet**, North Bend  
 **Millers at the Cove**, Charleston  
 **Outdoor-In**, Coos Bay  
-**Playa Del Sol**, Coos Bay  
-**Saw Blade Buffet, Plankhouse, Timbers, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
+**Saw Blade Buffet, Plankhouse, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
 **Sizzler**, North Bend  
 **So It Goes Coffeehouse**, Coos Bay  
 **Stockpot Restaurant**, Coos Bay  
