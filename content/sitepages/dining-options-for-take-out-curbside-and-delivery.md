@@ -32,7 +32,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Abby’s Pizza**](https://abbys.com/) - CB - Delivery and curbside togo orders only (541) 267-5839
 
-[**Alder Smokehouse**](https://www.facebook.com/thealdersmokehouse/) - NB - Take-out of regular menu. Curbside pick up from 11-3. Call or Text (541) 756-9599
+[**Alder Smokehouse**](https://www.facebook.com/thealdersmokehouse/) - NB - Dine-in or take-out of regular menu. Curbside pick up from 11-3. Call or Text (541) 756-9599
 
 [**Angelina’s Mexican Restaurant**](https://www.facebook.com/bestmexicanfoodintown/) - CB - Call ahead for ToGo orders (541) 808-9010
 
@@ -48,15 +48,15 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Blue Heron Bistro**](http://www.blueheronbistro.net/) - CB - Take-out, curbside and delivery of family style meals, dinner. New weekly menu items too. (541) 267-3933
 
-[**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - CB - Curbside & Delivery Service Phone: (541) 808-9500
+[**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - CB - Dine-in, take-out or curbside pickup  Phone: (541) 808-9500
 
 [**Bon Appetit Catering & Event Center**](https://www.facebook.com/BABCEvents/) - CH - Take and bake meals. (541) 290-2271
 
 [**Bungalow Market & Deli**](https://www.facebook.com/Bungalow-Market-Deli-282965688442/) - NB - Regular hours and to go operations. (541) 751-0304
 
-[**Buzz**](https://www.facebook.com/ponyvillagebuzz/) - NB - Pick up from back door (as Pony Village Mall is Closed now) and delivery of regular menu. Must call ahead (541) 756-0144
+[**Buzz**](https://www.facebook.com/ponyvillagebuzz/) - NB - Dine-in, take-out and delivery of regular menu. (541) 756-0144
 
-[**Cafe Mediterranean**](https://cafemediterranean.net/) - NB - Take-out 11am - 8pm. (541)756-2299
+[**Cafe Mediterranean**](https://cafemediterranean.net/) - NB - Dine-in or take-out 11am - 8pm. (541)756-2299
 
 [**Cape Cafe**](https://www.facebook.com/pages/category/Restaurant/The-Cape-Cafe-2132250007095994/) - CH - Take-out and Drive up window. (541) 808-2662
 
@@ -112,7 +112,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Little Caesars**](https://littlecaesars.com/en-us/) - CB and NB - Hot-N-Ready Pizzas and more available 11am-9pm Daily. Phone: CB 541-266-9595, NB (541) 756-5656
 
-[**Little Italy**](http://littleitalycoosbay.com/) - CB - Take-out of their regular menu from 3pm-8pm. They are offering a 15% discount. Phone: (541) 808-2200
+[**Little Italy**](http://littleitalycoosbay.com/) - CB - Dine-n or take-out of their regular menu from 3pm-8pm. They are offering a 15% discount. Phone: (541) 808-2200
 
 [**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - NB - Dine-in or curbside pickup of a special menu with Free delivery for orders over $20. Margaritas, Daiquiris & Mojitos, too! Call (541) 756-4799
 
@@ -172,11 +172,11 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Tokyo Bistro**](https://www.tokyocoosbay.com/) - CB - Curbside pickup available. (541) 808-0808
 
-[**Top Dog Espresso**](https://www.facebook.com/TopDogCoffeeCompany) - NB - Drive thru and curbside delivery. Call ahead (541) 808-3200 for quick service
+[**Top Dog Espresso**](https://www.facebook.com/TopDogCoffeeCompany) - NB - Drive thru and curbside delivery. Limited outside seating. Call ahead (541) 808-3200 for quick service
 
-[**Vinny's Smokin' Good Burgers**](https://www.facebook.com/vinnyssmokinburgers/) - NB - Take-out of regular menu. Phone: (541) 756-2221
+[**Vinny's Smokin' Good Burgers**](https://www.facebook.com/vinnyssmokinburgers/) - NB - Dine-in or take-out of regular menu. Phone: (541) 756-2221
 
-[**Walt’s Pourhouse**](https://www.facebook.com/waltspourhouse/) - CB Take-out, curbside, and limited delivery of a slightly modified menu and take-out beer. Open 11:00-8:00 (541) 267-5588
+[**Walt’s Pourhouse**](https://www.facebook.com/waltspourhouse/) - CB - Dine-in, take-out, curbside, and limited delivery of a slightly modified menu and take-out beer. 11am-8pm (541) 267-5588
 
 [**Yeong's Place**](https://www.facebook.com/Yeongs-Place-Restaurant-1424336541200886/?__tn__=kCH-R&eid=ARCd5onDbXfjGBuHiOksZDaOPKPRIGJDcOjclJPb4I4NEcGRf_VzWr0ZuvHZ92lyY-nSzG-ehsZyU9ts&hc_ref=ARTN9S0xAypLp9rAvgpUQ7SHXR6akR8soLi_6rrUi8oTmbJr3sRD0X32QMB362f3x84&fref=nf&__xts__%5B0%5D=68.ARDs87eFZngddnIemSmoRaVxQI9RDMMwNYe05saCE3UmS0J2P3O34H0Bd1qWUivaF1U6JLUzlh-g9TLioYeE8qMsekcJ3-aDoXdUdiUJ8ShWApvWSNtNa3WyaEarZ6ObXrj5gdFIjkpqzr0I9hEMCDANErORP_tGoXucknVusVOMUF73WiC_8kq4aHZUUEDaLrQVcFQO68DwpURmh4uTOpN8Ci7I984aO-z_piYgieW9ds0ZY5MyQuVgG6SMPy-DorlMAupdGo59NYhwQnQRRJB39rIU-3yKDAo6XoyuA2NZ_D_F3Ol9TLbx4bRXkHyYlGru15AIZpEobACzoyB_xLaAldCLFCeDPgybXuBZbvyt63GnrtFB) - NB - Take-out of regular menu. Phone: (541) 756-1914
 
