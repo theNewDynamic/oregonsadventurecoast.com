@@ -78,7 +78,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Darrell's Devils Food**](https://www.facebook.com/Chefdeezy) - CB - Take-out and curbside pickup Tues-Fri 11am-4pm Saturdays 9am-4pm. (541) 808-9666
 
-[**Dishner's Restaurant**](https://www.facebook.com/Dishners2881/) - NB - Take-out of their  full menu. Phone: (541) 756-2881
+[**Dishner's Restaurant**](https://www.facebook.com/Dishners2881/) - NB - Dine-in or take-out of their  full menu. Phone: (541) 756-2881
 
 [**Domino’s Pizza CB**](https://www.dominos.com/) (2 locations - CB) - Online ordering, contactless delivery and take-out. Half priced pizzas ordered online. (541) 269-1000 (Ocean Blvd) or (541) 982-6200 (Johnson Ave)
 
