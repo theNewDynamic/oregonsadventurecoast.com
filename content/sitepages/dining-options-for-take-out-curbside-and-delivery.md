@@ -98,7 +98,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Green Street Organic Juice Bar**](https://www.facebook.com/GreenStreetJuice/) - CB - Take-out and curbside pickup is available. (541) 808-0475
 
-[**Kaffe 101**](http://kaffe101.com/)- CB - Take-out and curbside pickup of regular food and beverage menu. For curbside pickup, call ahead (541) 267-4894
+[**Kaffe 101**](http://kaffe101.com/)- CB - Dine-in, take-out and curbside pickup of regular food and beverage menu. 8am-4pm For curbside pickup, call ahead (541) 267-4894
 
 [**Kim's Oriental Market**](https://www.restaurantji.com/or/coos-bay/kims-oriental-market-/) - CB - Take-out of small menu of items. Phone: (541) 267-0488
 
@@ -134,7 +134,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Noster Kitchen**](https://www.facebook.com/nosterkitchen/) - CH - Take-out available with a [special take-out menu](https://nosterkitchen.com/takeoutmenu) M-F, 10:30am-2:30pm. (541) 808-3999
 
-[**Ocean Air Taqueria & Eatery**](https://www.facebook.com/Ocean-Air-Taqueria-Eatery-108504043866257/) - CH - Take-out and curbside pickup with call ahead order (541) 808-3532
+[**Ocean Air Taqueria & Eatery**](https://www.facebook.com/Ocean-Air-Taqueria-Eatery-108504043866257/) - CH - Dine-in, take-out and curbside pickup with call ahead order (541) 808-3532
 
 [**Pancake Mill**](https://www.pancakemill.com/) - NB - Dine-in or take-out of regular menu breakfast and lunch menu. (541) 756-2751
 
