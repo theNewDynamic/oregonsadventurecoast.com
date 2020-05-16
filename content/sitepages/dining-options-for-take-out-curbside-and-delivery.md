@@ -58,7 +58,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Cafe Mediterranean**](https://cafemediterranean.net/) - NB - Dine-in or take-out 11am - 8pm. (541)756-2299
 
-[**Cape Cafe**](https://www.facebook.com/pages/category/Restaurant/The-Cape-Cafe-2132250007095994/) - CH - Take-out and Drive up window. (541) 808-2662
+[**Cape Cafe**](https://www.facebook.com/pages/category/Restaurant/The-Cape-Cafe-2132250007095994/) - CH - Dine-in, take-out and Drive up window. (541) 808-2662
 
 [**Captains Cabin**](https://www.facebook.com/Captains-Cabin-Bar-101307443269162/) - CB - Dine-in now available. (541) 267-7772
 
