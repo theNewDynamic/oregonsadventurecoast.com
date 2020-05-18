@@ -148,7 +148,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 **Playa Del Sol** - CB - **Dine-in** 11am-8pm. Limited seating. (541) 808-9696
 
-[**Portside**](http://www.portsidebythebay.com/) - CH - **Dine-in**, take-out full menu and if you call ahead they will have it ready and will bring out the back door to your car (541) 888-5544
+[**Portside**](http://www.portsidebythebay.com/) - CH - **Dine-in** from 4pm-10pm nightly, take-out full menu and if you call ahead they will have it ready and will bring out the back door to your car (541) 888-5544
 
 [**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - CB - **Dine-in** and take-out of regular menu, discounts available. (541) 266-9311
 
