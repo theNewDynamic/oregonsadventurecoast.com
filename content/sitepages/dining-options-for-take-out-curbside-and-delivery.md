@@ -12,11 +12,11 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 6:00pm PDT, May 15, 2020_**
+**_Updated 10:00am PDT, May 18, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
-#### Friday, May 15th, Coos County area restaurants allowed to re-open for dining as long as they can meet the new guidelines. We will try to note which restaurants are open for dine-in here, but encourage you to CALL before you go! 
+#### Friday, May 15th, Coos County area restaurants allowed to re-open for dining as long as they can meet the new guidelines. We will try to note which restaurants are open for dine-in here, but encourage you to CALL before you go!
 
 ###### {{< spacer 25 >}}
 
@@ -108,6 +108,8 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**La Herradura**](https://www.facebook.com/La-Herradura-Mexican-Restaurant-632773200099437/) - NB - Take-out and delivery available on regular menu (541) 756-0906
 
+[**Liberty Pub**](https://www.facebook.com/TheLibertyPub/) - NB - Opening May 20th for dine-in. Please read their requirements on their Facebook page. (541) 756-2550
+
 [**Lillie Family Market**](http://www.lilliefamilymarket.com) - NB - online ordering at [www.lilliefamilymarket.com](http://www.lilliefamilymarket.com/?fbclid=IwAR2FOQ_V7aubWPY9zVLbY2k4BlA_zaJu6mOrOqISBeZgtlSeBEiZ_qw4wps)  (541) 756-3838
 
 [**Little Caesars**](https://littlecaesars.com/en-us/) - CB and NB - Hot-N-Ready Pizzas and more available 11am-9pm Daily. Phone: CB 541-266-9595, NB (541) 756-5656
@@ -144,9 +146,9 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Portside**](http://www.portsidebythebay.com/) - CH - Take-out full menu and if you call ahead they will have it ready and will bring out the back door to your car (541) 888-5544
 
-[**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - CB - Take-out of regular menu, discounts available. (541) 266-9311
+[**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - CB - Dine-in and take-out of regular menu, discounts available. (541) 266-9311
 
-**Puerto Vallarta** - CB - Take-Out available. (541) 269-0919
+**Puerto Vallarta** - CB - Dine-in and take-Out available. (541) 269-0919
 
 [**Restaurant O**](https://www.facebook.com/RestaurantO/) - CB - Take-out of a limited menu from lunch and dinner plus Free delivery on orders of $25 or more within Coos Bay, North Bend & Empire - 12-8p Tues-Sun. 20% discount on Pick Up orders over $20. Phone: (541) 808-9300
 
@@ -198,7 +200,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **High Tide**, Charleston  
 **Hilltop House Restaurant**, North Bend  
 **Humboldt Club**, North Bend  
-**Liberty Pub**, North Bend  
 **Lucky Dragon Buffet**, North Bend  
 **Millers at the Cove**, Charleston  
 **Outdoor-In**, Coos Bay  
