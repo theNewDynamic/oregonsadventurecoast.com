@@ -160,7 +160,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Shake 'N Burger**](https://www.facebook.com/Shake-N-Burger-589936737695886/) - CB - **Dine-in**, Take-out, Drive Thru and Curbside order pick up. Phone: (541) 808-9013
 
-[**Shark Bites Cafe**](http://www.sharkbites.cafe/) - CB - Take-out of full menu. Phone: (541) 269-7475
+[**Shark Bites Cafe**](http://www.sharkbites.cafe/) - CB - **Dine-in** and take-out of full menu. For dine-in, order and pickup from counter just like take-out. Limited number of tables available. (541) 269-7475
 
 [**Scoops Handmade Ice Cream**](https://scoops.life/) - NB - Curbside pickup available. Phone ahead. (541) 808-2990
 
