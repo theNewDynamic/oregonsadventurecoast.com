@@ -32,11 +32,11 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Abby’s Pizza**](https://abbys.com/) - CB - Delivery and curbside togo orders only (541) 267-5839
 
-[**Alder Smokehouse**](https://www.facebook.com/thealdersmokehouse/) - NB - Dine-in or take-out of regular menu. Curbside pick up from 11-3. Call or Text (541) 756-9599
+[**Alder Smokehouse**](https://www.facebook.com/thealdersmokehouse/) - NB - **Dine-in** or take-out of regular menu. Curbside pick up from 11-3. Call or Text (541) 756-9599
 
 [**Angelina’s Mexican Restaurant**](https://www.facebook.com/bestmexicanfoodintown/) - CB - Call ahead for ToGo orders (541) 808-9010
 
-[**Back Alley Pub & Grill**](https://www.facebook.com/BackAlleyPubAndGrill/) - NB - Dine-in, takeout food and wine! 11am-9pm (541) 756-0572
+[**Back Alley Pub & Grill**](https://www.facebook.com/BackAlleyPubAndGrill/) - NB - **Dine-in**, takeout food and wine! 11am-9pm (541) 756-0572
 
 [**Bailey's Health Food Center Grab & Go Deli**](https://www.facebook.com/Baileys-Health-Food-Center-147228088639515/) - NB - curb side pick-up of call ahead orders (541) 756-3004
 
@@ -48,25 +48,25 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Blue Heron Bistro**](http://www.blueheronbistro.net/) - CB - Take-out, curbside and delivery of family style meals, dinner. New weekly menu items too. (541) 267-3933
 
-[**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - CB - Dine-in, take-out or curbside pickup  Phone: (541) 808-9500
+[**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - CB - **Dine-in**, take-out or curbside pickup  Phone: (541) 808-9500
 
 [**Bon Appetit Catering & Event Center**](https://www.facebook.com/BABCEvents/) - CH - Take and bake meals. (541) 290-2271
 
 [**Bungalow Market & Deli**](https://www.facebook.com/Bungalow-Market-Deli-282965688442/) - NB - Regular hours and to go operations. (541) 751-0304
 
-[**Buzz**](https://www.facebook.com/ponyvillagebuzz/) - NB - Dine-in, take-out and delivery of regular menu. (541) 756-0144
+[**Buzz**](https://www.facebook.com/ponyvillagebuzz/) - NB - **Dine-in**, take-out and delivery of regular menu. (541) 756-0144
 
-[**Cafe Mediterranean**](https://cafemediterranean.net/) - NB - Dine-in or take-out 11am - 8pm. (541)756-2299
+[**Cafe Mediterranean**](https://cafemediterranean.net/) - NB - **Dine-in** or take-out 11am - 8pm. (541)756-2299
 
-[**Cape Cafe**](https://www.facebook.com/pages/category/Restaurant/The-Cape-Cafe-2132250007095994/) - CH - Dine-in, take-out and Drive up window. (541) 808-2662
+[**Cape Cafe**](https://www.facebook.com/pages/category/Restaurant/The-Cape-Cafe-2132250007095994/) - CH - **Dine-in**, take-out and Drive up window. (541) 808-2662
 
-[**Captains Cabin**](https://www.facebook.com/Captains-Cabin-Bar-101307443269162/) - CB - Dine-in now available. (541) 267-7772
+[**Captains Cabin**](https://www.facebook.com/Captains-Cabin-Bar-101307443269162/) - CB - **Dine-in** now available. (541) 267-7772
 
 [**Captain's Choice**](http://www.captainschoicefishhouse.com/) - NB - Order ahead and pick up in lobby or call when you arrive and they'll deliver to your car. Phone (541) 756-0125
 
 [**Chan's Wok**](https://www.facebook.com/Chans-Wok-590674157672423/) - NB - Take-out from 11am-8pm. Call ahead (541) 751-0623
 
-[**Ciccarelli's Restaurant**](https://www.facebook.com/Ciccarellis-Restaurant-1006325779561696/) - NB - Dine-in for dinner only , 4-close, Tuesday-Saturday, take-out of full menu still available. The Coffee Shop will be open from Tuesday-Saturday 9-3. (541) 751-1999
+[**Ciccarelli's Restaurant**](https://www.facebook.com/Ciccarellis-Restaurant-1006325779561696/) - NB - **Dine-in** for dinner only , 4-close, Tuesday-Saturday, take-out of full menu still available. The Coffee Shop will be open from Tuesday-Saturday 9-3. (541) 751-1999
 
 [**City Subs**](https://www.facebook.com/CitySubs/) - CB - Take-out, Monday thru Saturday from 10 am to 4 pm. Call-In orders only. (541) 269-9000
 
@@ -78,7 +78,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Darrell's Devils Food**](https://www.facebook.com/Chefdeezy) - CB - Take-out and curbside pickup Tues-Fri 11am-4pm Saturdays 9am-4pm. (541) 808-9666
 
-[**Dishner's Restaurant**](https://www.facebook.com/Dishners2881/) - NB - Dine-in or take-out of their  full menu. Phone: (541) 756-2881
+[**Dishner's Restaurant**](https://www.facebook.com/Dishners2881/) - NB - **Dine-in** or take-out of their  full menu. Phone: (541) 756-2881
 
 [**Domino’s Pizza CB**](https://www.dominos.com/) (2 locations - CB) - Online ordering, contactless delivery and take-out. Half priced pizzas ordered online. (541) 269-1000 (Ocean Blvd) or (541) 982-6200 (Johnson Ave)
 
@@ -90,21 +90,23 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**E Z Thai**](https://www.ez-thai.com/) - CB - Take-out during its normal business hours (541) 267-8404
 
-[**Fisherman's Grotto**](https://www.facebook.com/Fishermans-Grotto-162321840503126/) - CH - Dine-in or take-out on Friday Saturday And Sundays! 11a -7p  (541) 888-3251
+[**Fisherman's Grotto**](https://www.facebook.com/Fishermans-Grotto-162321840503126/) - CH - **Dine-in** or take-out on Friday Saturday And Sundays! 11a -7p  (541) 888-3251
+
+**Fishermen's Seafood Market** - CB - Will re-open at the Boardwalk location on Wed, May 27th.
 
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - CB - {Note: Front Street will be closed May 11-19} Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee, closed Mondays & Tuesdays
 
-[**Gino's Pizza**](https://ginospizzainn.com/) - NB - Dine-in, plus curbside pickup & take-out still available. Phone: (541) 756-5000
+[**Gino's Pizza**](https://ginospizzainn.com/) - NB - **Dine-in**, plus curbside pickup & take-out still available. Phone: (541) 756-5000
 
 [**Green Street Organic Juice Bar**](https://www.facebook.com/GreenStreetJuice/) - CB - Take-out and curbside pickup is available. (541) 808-0475
 
-[**Hilltop House Restaurant**](https://www.facebook.com/Hilltop-House-243331465858022/) - NB - will be open for Dine-in on May 23rd. Reservations highly recommended! (541) 756-4160
+[**Hilltop House Restaurant**](https://www.facebook.com/Hilltop-House-243331465858022/) - NB - will be open for **Dine-in on May 23rd**. Reservations highly recommended! (541) 756-4160
 
-[**Kaffe 101**](http://kaffe101.com/)- CB - Dine-in, take-out and curbside pickup of regular food and beverage menu. 8am-4pm For curbside pickup, call ahead (541) 267-4894
+[**Kaffe 101**](http://kaffe101.com/)- CB - **Dine-in**, take-out and curbside pickup of regular food and beverage menu. 8am-4pm For curbside pickup, call ahead (541) 267-4894
 
 [**Kim's Oriental Market**](https://www.restaurantji.com/or/coos-bay/kims-oriental-market-/) - CB - Take-out of small menu of items. Phone: (541) 267-0488
 
-[**Kozy Kitchen**](https://www.facebook.com/Kozykitchendiners/) - NB - Dine-in, take-out, curbside pickup of Ready to Go meals, and Delivery service within 5 mile radius for $5 fee. See their Facebook page for more information and call in your order (541) 756-1214
+[**Kozy Kitchen**](https://www.facebook.com/Kozykitchendiners/) - NB - **Dine-in,** take-out, curbside pickup of Ready to Go meals, and Delivery service within 5 mile radius for $5 fee. See their Facebook page for more information and call in your order (541) 756-1214
 
 [**Kum-Yons**](http://kumyonscoosbay.com/index.html) - CB - Take-out available from 11am-8:30pm for call ahead orders (541) 269-2662
 
@@ -116,9 +118,9 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Little Caesars**](https://littlecaesars.com/en-us/) - CB and NB - Hot-N-Ready Pizzas and more available 11am-9pm Daily. Phone: CB 541-266-9595, NB (541) 756-5656
 
-[**Little Italy**](http://littleitalycoosbay.com/) - CB - Dine-n or take-out of their regular menu from 3pm-8pm. They are offering a 15% discount. Phone: (541) 808-2200
+[**Little Italy**](http://littleitalycoosbay.com/) - CB - **Dine-in** or take-out of their regular menu from 3pm-8pm. They are offering a 15% discount. Phone: (541) 808-2200
 
-[**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - NB - Dine-in or curbside pickup of a special menu with Free delivery for orders over $20. Margaritas, Daiquiris & Mojitos, too! Call (541) 756-4799
+[**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - NB - **Dine-in** or curbside pickup of a special menu with Free delivery for orders over $20. Margaritas, Daiquiris & Mojitos, too! Call (541) 756-4799
 
 [**Lucky Star**](https://www.facebook.com/Lucky-Star-120151947996876/) - NB - Take-out and delivery of regular menu 11am-9pm. Phone orders at (541) 751-9526 or online ordering at [www.luckystarnorthbend.com](http://www.luckystarnorthbend.com/?fbclid=IwAR1SCzjU4VwY8GOfYXEfac0dqmY5gL4sAiWdekhzRVcbiPH7qshENaSsrqQ)
 
@@ -138,31 +140,31 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Noster Kitchen**](https://www.facebook.com/nosterkitchen/) - CH - Take-out available with a [special take-out menu](https://nosterkitchen.com/takeoutmenu) M-F, 10:30am-2:30pm. (541) 808-3999
 
-[**Ocean Air Taqueria & Eatery**](https://www.facebook.com/Ocean-Air-Taqueria-Eatery-108504043866257/) - CH - Dine-in, take-out and curbside pickup with call ahead order (541) 808-3532
+[**Ocean Air Taqueria & Eatery**](https://www.facebook.com/Ocean-Air-Taqueria-Eatery-108504043866257/) - CH - **Dine-in**, take-out and curbside pickup with call ahead order (541) 808-3532
 
-[**Pancake Mill**](https://www.pancakemill.com/) - NB - Dine-in or take-out of regular menu breakfast and lunch menu. (541) 756-2751
+[**Pancake Mill**](https://www.pancakemill.com/) - NB - **Dine-in** or take-out of regular menu breakfast and lunch menu. (541) 756-2751
 
 [**Papa Murphy's**](https://www.papamurphys.com/) - CB & NB - Take-out and curbside pickup of take & bake pizza. (541) 269-9700 (CB) or (541) 756-0447 (NB)
 
-**Playa Del Sol** - CB - Dine-in 11am-8pm. Limited seating. (541) 808-9696
+**Playa Del Sol** - CB - **Dine-in** 11am-8pm. Limited seating. (541) 808-9696
 
-[**Portside**](http://www.portsidebythebay.com/) - CH - Take-out full menu and if you call ahead they will have it ready and will bring out the back door to your car (541) 888-5544
+[**Portside**](http://www.portsidebythebay.com/) - CH - **Dine-in**, take-out full menu and if you call ahead they will have it ready and will bring out the back door to your car (541) 888-5544
 
-[**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - CB - Dine-in and take-out of regular menu, discounts available. (541) 266-9311
+[**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - CB - **Dine-in** and take-out of regular menu, discounts available. (541) 266-9311
 
-**Puerto Vallarta** - CB - Dine-in and take-Out available. (541) 269-0919
+**Puerto Vallarta** - CB - **Dine-in** and take-Out available. (541) 269-0919
 
 [**Restaurant O**](https://www.facebook.com/RestaurantO/) - CB - Take-out of a limited menu from lunch and dinner plus Free delivery on orders of $25 or more within Coos Bay, North Bend & Empire - 12-8p Tues-Sun. 20% discount on Pick Up orders over $20. Phone: (541) 808-9300
 
 [**Sea Basket**](https://www.facebook.com/JRU.industries/) - CH - Take-out of specials and regular menu. (541) 888-5711
 
-[**Shake 'N Burger**](https://www.facebook.com/Shake-N-Burger-589936737695886/) - CB - Dine-in, Take-out, Drive Thru and Curbside order pick up. Phone: (541) 808-9013
+[**Shake 'N Burger**](https://www.facebook.com/Shake-N-Burger-589936737695886/) - CB - **Dine-in**, Take-out, Drive Thru and Curbside order pick up. Phone: (541) 808-9013
 
 [**Shark Bites Cafe**](http://www.sharkbites.cafe/) - CB - Take-out of full menu. Phone: (541) 269-7475
 
 [**Scoops Handmade Ice Cream**](https://scoops.life/) - NB - Curbside pickup available. Phone ahead. (541) 808-2990
 
-**Stockpot Restaurant** - CB - Dine-in now available. (541) 266-7070
+**Stockpot Restaurant** - CB - **Dine-in** now available. (541) 266-7070
 
 [**Subway**](https://www.subway.com/en-us) - CB & NB - all locations offering Take-out, online app ordering, pay online for curbside pickup
 
@@ -178,9 +180,9 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Top Dog Espresso**](https://www.facebook.com/TopDogCoffeeCompany) - NB - Drive thru and curbside delivery. Limited outside seating. Call ahead (541) 808-3200 for quick service
 
-[**Vinny's Smokin' Good Burgers**](https://www.facebook.com/vinnyssmokinburgers/) - NB - Dine-in or take-out of regular menu. Phone: (541) 756-2221
+[**Vinny's Smokin' Good Burgers**](https://www.facebook.com/vinnyssmokinburgers/) - NB - **Dine-in** or take-out of regular menu. Phone: (541) 756-2221
 
-[**Walt’s Pourhouse**](https://www.facebook.com/waltspourhouse/) - CB - Dine-in, take-out, curbside, and limited delivery of a slightly modified menu and take-out beer. 11am-8pm (541) 267-5588
+[**Walt’s Pourhouse**](https://www.facebook.com/waltspourhouse/) - CB - **Dine-in**, take-out, curbside, and limited delivery of a slightly modified menu and take-out beer. 11am-8pm (541) 267-5588
 
 [**Yeong's Place**](https://www.facebook.com/Yeongs-Place-Restaurant-1424336541200886/?__tn__=kCH-R&eid=ARCd5onDbXfjGBuHiOksZDaOPKPRIGJDcOjclJPb4I4NEcGRf_VzWr0ZuvHZ92lyY-nSzG-ehsZyU9ts&hc_ref=ARTN9S0xAypLp9rAvgpUQ7SHXR6akR8soLi_6rrUi8oTmbJr3sRD0X32QMB362f3x84&fref=nf&__xts__%5B0%5D=68.ARDs87eFZngddnIemSmoRaVxQI9RDMMwNYe05saCE3UmS0J2P3O34H0Bd1qWUivaF1U6JLUzlh-g9TLioYeE8qMsekcJ3-aDoXdUdiUJ8ShWApvWSNtNa3WyaEarZ6ObXrj5gdFIjkpqzr0I9hEMCDANErORP_tGoXucknVusVOMUF73WiC_8kq4aHZUUEDaLrQVcFQO68DwpURmh4uTOpN8Ci7I984aO-z_piYgieW9ds0ZY5MyQuVgG6SMPy-DorlMAupdGo59NYhwQnQRRJB39rIU-3yKDAo6XoyuA2NZ_D_F3Ol9TLbx4bRXkHyYlGru15AIZpEobACzoyB_xLaAldCLFCeDPgybXuBZbvyt63GnrtFB) - NB - Take-out of regular menu. Phone: (541) 756-1914
 
@@ -196,7 +198,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **Cafe 1297**, inside Three Rivers Casino, Coos Bay  
 **Crabby Cakes Bakery**, Charleston  
 **Dave’s Pizza**, Coos Bay  
-**Fishermen's Seafood Market**, Coos Bay (Note: Food Truck is open in Powers)  
 **Gooney’s**, Coos Bay  
 **Grounds Cafe**, in Books by the Bay, North Bend  
 **High Tide**, Charleston  
