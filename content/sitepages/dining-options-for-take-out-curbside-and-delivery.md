@@ -208,7 +208,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **Saw Blade Buffet, Plankhouse, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
 **Sizzler**, North Bend  
 **So It Goes Coffeehouse**, Coos Bay  
-**Stockpot Restaurant**, Coos Bay  
 **Tiny's Tavern**, North Bend  
 **Wildflour Cafe**, North Bend
 
