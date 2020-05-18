@@ -23,7 +23,7 @@ Paddle down the Coquille River, in Sunset Bay, or in Coos Bay. For an extra adve
 
 {{< spacer 25 >}}
 
-{{< youtube "<iframe width="560" height="315" src="[https://www.youtube.com/embed/S5XKer69rJQ](https://www.youtube.com/embed/S5XKer69rJQ "https://www.youtube.com/embed/S5XKer69rJQ")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" >}}
+{{< youtube "S5XKer69rJQ" >}}
 
 {{< spacer 25 >}}
 
