@@ -21,7 +21,11 @@ Getting out on the water in a self-propelled vessel is to truly connect to the s
 
 Paddle down the Coquille River, in Sunset Bay, or in Coos Bay. For an extra adventure, bring your fishing gear and try your hand at [kayak fishing](/tripideas/kayak-fishing-on-the-south-coast)!
 
-<div class="margin-50px-top"></div>
+{{< spacer 25 >}}
+
+{{< youtube "<iframe width="560" height="315" src="[https://www.youtube.com/embed/S5XKer69rJQ](https://www.youtube.com/embed/S5XKer69rJQ "https://www.youtube.com/embed/S5XKer69rJQ")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" >}}
+
+{{< spacer 25 >}}
 
 ![null](/img/surfing-header-695x322.jpg)
 
