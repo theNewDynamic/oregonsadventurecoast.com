@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 10:00am PDT, May 18, 2020_**
+**_Updated 2:00pm PDT, May 18, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -75,6 +75,8 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 [**Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - CB - Take-out with curbside pickup (541) 267-5116 from 11am-8pm (M-Sa) Closed Sunday (Temporarily)
 
 [**Coney Station**](https://www.facebook.com/ConeyStation/) - CB - Curbside pickup of a limited menu, 11am-6pm, Please Call ahead (541) 269-6948
+
+[**Crabby Cakes Bakery**](https://www.facebook.com/Crabby-Cakes-Bakery-183368818480720/) - CH - **Dine-in** or take out Wed. thru Sun. 9am to 3pm. (541) 808-2388
 
 [**Darrell's Devils Food**](https://www.facebook.com/Chefdeezy) - CB - Take-out and curbside pickup Tues-Fri 11am-4pm Saturdays 9am-4pm. (541) 808-9666
 
@@ -164,7 +166,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Scoops Handmade Ice Cream**](https://scoops.life/) - NB - Curbside pickup available. Phone ahead. (541) 808-2990
 
-**Stockpot Restaurant** - CB - **Dine-in** now available. (541) 266-7070
+**Stockpot Restaurant** - CB - **Dine-in** and take-out now available. 6am-2pm daily (541) 266-7070
 
 [**Subway**](https://www.subway.com/en-us) - CB & NB - all locations offering Take-out, online app ordering, pay online for curbside pickup
 
@@ -196,7 +198,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **Blue Moon Saloon**, Coos Bay  
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
 **Cafe 1297**, inside Three Rivers Casino, Coos Bay  
-**Crabby Cakes Bakery**, Charleston  
 **Dave’s Pizza**, Coos Bay  
 **Gooney’s**, Coos Bay  
 **Grounds Cafe**, in Books by the Bay, North Bend  
