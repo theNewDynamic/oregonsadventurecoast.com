@@ -12,9 +12,13 @@ aliases: []
 accordion_sections: []
 
 ---
-_Updated at 9:00a.m., May 5, 2020_
+_Updated at 2:30pm, May 18, 2020_
 
 **As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors.**
+
+**Coos County has moved into Phase 1 Re-Opening as of May 15, 2020.** This means restaurants are now open for dine-in with restrictions and retail businesses are now able to re-open with certain protocols. Please be mindful of others when out in public. We encourage you to wear a mask when in public and to keep a 6 foot distance from others whenever possible.
+
+**Please note the Governor's Stay at Home order is still in effect!**
 
 **Due to the Governor's Stay at Home order of March 23, 2020 all non-essential businesses, attractions, state parks, county parks, recreation providers, pools, and shopping malls are closed until further notice. The Governor is strongly discouraging non-essential travel in the state and WE ENCOURAGE EVERYONE TO STAY HOME & STAY HEALTHY. Let's all do our part to stop the spread of COVID-19.**
 
