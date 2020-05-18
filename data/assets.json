@@ -32,8 +32,8 @@
     "jsIntegrity": "sha256-d3nREF59+pwNffgiB0XjvFMj4l7OLPcTTKUen7Y0YEM="
   },
   "search": {
-    "js": "/dist/search.862dd9f7f98442dfa6ce.js",
-    "jsIntegrity": "sha256-U6KauDEZ9G+fgtY3nkUND+IvtH/ln5Vc2Ad/YmcerL8="
+    "js": "/dist/search.e3eca8d24f09f70b3bdd.js",
+    "jsIntegrity": "sha256-luDjkuK51VJkmpy1LZjJcmtXbTK7ORuSIpovuB1dkmk="
   },
   "tourcharters": {
     "js": "/dist/tourcharters.9e44949760ff711ff84e.js",

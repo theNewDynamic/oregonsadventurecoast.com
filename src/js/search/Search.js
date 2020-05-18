@@ -62,17 +62,34 @@ export default class Search {
     getSearchResultCountTpl(count, term) {
         let message = '';
 
-        if (count === 0) {
+        if (term == "undefined") {
+            message = 'What would you like to search for?';
+            document.getElementById("resultsTitle").style.display = "none";
+        } else if (count === 0) {
             message = 'No search results for';
         } else if (count === 1) {
             message = '1 search result for';
-        } else {
+        }else {
             message = count + ' search results for';
         }
 
 
-        return `
-            <p class="search-results-count">${message}: <span class="term">${term}</span></p>
-        `;
+        if (term == "undefined") {
+            return `
+                <p class="search-results-count">${message}
+                    <div class="search-form">
+                        <form action="/search/" method="GET">
+                            <input type="text" class="search" placeholder="Search" name="search">
+                            <i class="fas fa-search search-btn"></i>
+                        </form>
+                    </div>
+                </p>
+            `;
+        } else{
+            return `
+                <p class="search-results-count">${message}: <span class="term">${term}</span></p>
+            `;
+        }
+
     }
 }
