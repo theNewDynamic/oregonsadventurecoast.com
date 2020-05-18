@@ -98,6 +98,8 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Green Street Organic Juice Bar**](https://www.facebook.com/GreenStreetJuice/) - CB - Take-out and curbside pickup is available. (541) 808-0475
 
+[**Hilltop House Restaurant**](https://www.facebook.com/Hilltop-House-243331465858022/) - NB - will be open for Dine-in on May 23rd. Reservations highly recommended! (541) 756-4160
+
 [**Kaffe 101**](http://kaffe101.com/)- CB - Dine-in, take-out and curbside pickup of regular food and beverage menu. 8am-4pm For curbside pickup, call ahead (541) 267-4894
 
 [**Kim's Oriental Market**](https://www.restaurantji.com/or/coos-bay/kims-oriental-market-/) - CB - Take-out of small menu of items. Phone: (541) 267-0488
@@ -198,7 +200,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **Gooney’s**, Coos Bay  
 **Grounds Cafe**, in Books by the Bay, North Bend  
 **High Tide**, Charleston  
-**Hilltop House Restaurant**, North Bend  
 **Humboldt Club**, North Bend  
 **Lucky Dragon Buffet**, North Bend  
 **Millers at the Cove**, Charleston  
