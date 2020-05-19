@@ -7,27 +7,6 @@
     }
 }
 
-.m-search-results{
-    .search-form{
-        margin-top: 20px;
-
-        @include medium {
-            text-align: center;
-        }
-
-        .search{
-            width: 330px;
-            max-width: 80%;
-            @include borderBox;
-            padding: 5px;
-            font-size: 13px;
-            font-family: $roboto;
-            margin-right: 10px;
-        }
-    }
-}
-
-
 .m-search-results .search-results-count .term {
     color: $red;
 }
