@@ -50,6 +50,6 @@ Even though parts of our economy are open, the Stay Home, Stay Safe order is sti
 
 Helpful Links:
 
-[Dining Options for Take Out, Curbside, and Delivery](https://www.oregonsadventurecoast.com/dining-options-takeout/)
-[Coos County Food Delivery And Take Out Facebook Group](https://www.facebook.com/groups/2757874947622484/about/)
+[Dining Options for Take Out, Curbside, and Delivery](https://www.oregonsadventurecoast.com/dining-options-takeout/)<p>
+[Coos County Food Delivery And Take Out Facebook Group](https://www.facebook.com/groups/2757874947622484/about/)<p>
 [Travel Oregon: What Reopening Oregon Means for You](https://traveloregon.com/things-to-do/what-reopening-oregon-means-for-you/?utm_source=Facebook&utm_campaign=General&utm_medium=social&utm_content=PromotedPost&utm_term=TravelOregon&fbclid=IwAR3xMUDeX5AoNocKv6zJZsMyp1iF3qtUunxpzCNdp-ByO6pqkjbcS5F6MT8)
