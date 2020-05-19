@@ -38,17 +38,17 @@ On Wednesday, June 2nd through Wednesday, October 28th from 9:00 am until 2:00 p
 
 As an essential provider of food items, the market will start with only farmers and prepared food vendors. The craft and art vendors, non-profits, and educational booths will not be included this year.
 
-Farmers Market Manager Melissa Hasart says, “The number one priority during the COVID-19 pandemic is everyone’s safety as we make farm fresh products to our community available in an open-air market.” 
+Farmers Market Manager Melissa Hasart says, “The number one priority during the COVID-19 pandemic is everyone’s safety as we make farm fresh products to our community available in an open-air market.”
 
 **The market will be set as an Essential Grocery-type Layout not a “Social Gathering” site.** It will feature traditional Homegrown and Local Essential products only. Vendors are encouraged to sell products in a bundle, prepackaged or individually. Some of the changes at the market include physical distancing and other practices.
 
 * All Staff, Volunteers, and Vendors are required to wear **Fabric Face Coverings** and gloves, and vendors will have hand sanitizer at their booths.
 * There will be **Hand Washing Stations** throughout the Farmers Market provided by Banner Bank
-* **Safety Greeters** will be located throughout the market to encourage physical distancing. 
+* **Safety Greeters** will be located throughout the market to encourage physical distancing.
 * Vendors booths will be spaced at least 8 feet apart.
-* Signs will be posted to **_“Shop with your Eyes”_**. 
+* Signs will be posted to **_“Shop with your Eyes”_**.
 * There will be no customer contact with products prior to purchase.
-* **Food vendors will provide “Take Out” only** and prepared food must be consumed off market premises. 
+* **Food vendors will provide “Take Out” only** and prepared food must be consumed off market premises.
 * **The Market is open to senior citizens and vulnerable customers only from 9am-10am**
 
 ![](/img/farmers-mkt-695x322.jpg)
@@ -64,4 +64,4 @@ With the goal of “farm fresh to every fork,” the CBDA Farmers Market accepts
 
 ![](/img/visitor-center-front-695x322.jpg)
 
-The **Coos Bay Visitor Information Center** will be open for any residents and locals who may need to visit the center for information or other needs. Protocols will be in place to ensure the safety of our volunteers, visitors and staff.
+The **Coos Bay Visitor Information Center** will be open for any residents and visitors who may need to visit the center for information or other needs. Protocols will be in place to ensure the safety of our volunteers, visitors and staff.
