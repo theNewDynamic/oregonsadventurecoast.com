@@ -32,7 +32,7 @@ aliases: []
 draft: true
 
 ---
-{{< floatimage src="img/CB_Farmers_market_logo.jpg" float="left" alt="Your Alt Text goes here" size="40" >}}
+{{< floatimage src="img/CB_Farmers_market_logo.jpg" float="left" alt="Coos Bay Downtown Farmers Market" size="40" >}}
 
 ### Coos Bay Downtown Farmer's Market Returns for its 20th Season!
 
