@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 1:00pm PDT, May 20, 2020_**
+**_Updated 2:00pm PDT, May 20, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -70,7 +70,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**City Subs**](https://www.facebook.com/CitySubs/) - CB - Take-out, Monday thru Saturday from 10 am to 4 pm. Call-In orders only. (541) 269-9000
 
-[**Clausen's Oysters**](https://www.facebook.com/ClausenOysters/) - NB - Take-out deli items like chowder and all your oyster needs, 10am-5pm. (541) 756-3600
+[**Clausen's Oysters**](https://www.facebook.com/ClausenOysters/) - NB - **Dine-in** {beginning May 21} and take-out deli items like chowder and all your oyster needs, 10am-4pm. (541) 756-3600
 
 [**Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - CB - Take-out with curbside pickup (541) 267-5116 from 11am-8pm (M-Sa) Closed Sunday (Temporarily)
 
