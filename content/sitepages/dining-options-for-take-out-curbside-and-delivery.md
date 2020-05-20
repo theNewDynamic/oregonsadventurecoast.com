@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 9:00am PDT, May 20, 2020_**
+**_Updated 1:00pm PDT, May 20, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -36,7 +36,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Angelina’s Mexican Restaurant**](https://www.facebook.com/bestmexicanfoodintown/) - CB - Call ahead for ToGo orders (541) 808-9010
 
-[**Back Alley Pub & Grill**](https://www.facebook.com/BackAlleyPubAndGrill/) - NB - **Dine-in**, takeout food and wine! 11am-9pm (541) 756-0572
+[**Back Alley Pub & Grill**](https://www.facebook.com/BackAlleyPubAndGrill/) - NB - **Dine-in**, takeout food and wine! New online ordering and payment portal available: [https://northbendlanes.ordereze.net/](https://northbendlanes.ordereze.net/ "https://northbendlanes.ordereze.net/") 11am-9pm (541) 756-0572
 
 [**Bailey's Health Food Center Grab & Go Deli**](https://www.facebook.com/Baileys-Health-Food-Center-147228088639515/) - NB - curb side pick-up of call ahead orders (541) 756-3004
 
