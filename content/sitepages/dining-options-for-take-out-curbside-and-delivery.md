@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 2:00pm PDT, May 18, 2020_**
+**_Updated 9:00am PDT, May 20, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -156,7 +156,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 **Puerto Vallarta** - CB - **Dine-in** and take-Out available. (541) 269-0919
 
-[**Restaurant O**](https://www.facebook.com/RestaurantO/) - CB - Take-out of a limited menu from lunch and dinner plus Free delivery on orders of $25 or more within Coos Bay, North Bend & Empire - 12-8p Tues-Sun. 20% discount on Pick Up orders over $20. Phone: (541) 808-9300
+[**Restaurant O**](https://www.facebook.com/RestaurantO/) - CB - **Dine-in available beginning May 22nd!** See their [Facebook page](https://www.facebook.com/RestaurantO/) for new restrictions. Take-out of a limited menu from lunch and dinner plus Free delivery on orders of $25 or more within Coos Bay, North Bend & Empire - 12-8p Tues-Sun. 20% discount on Pick Up orders over $20. Phone: (541) 808-9300
 
 [**Sea Basket**](https://www.facebook.com/JRU.industries/) - CH - Take-out of specials and regular menu. (541) 888-5711
 
