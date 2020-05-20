@@ -32,6 +32,8 @@ aliases: []
 draft: true
 
 ---
+{{< floatimage src="img/CB_Farmers_market_logo.jpg" float="left" alt="Your Alt Text goes here" size="40" >}}
+
 ### Coos Bay Downtown Farmer's Market Returns for its 20th Season!
 
 On Wednesday, June 2nd through Wednesday, October 28th from 9:00 am until 2:00 pm, the Downtown Farmers Market returns to Coos Bay for its 20th Season.  Located on Central Avenue between Highway 101 and 4th Street, this year's market will look a bit different than previous years.
