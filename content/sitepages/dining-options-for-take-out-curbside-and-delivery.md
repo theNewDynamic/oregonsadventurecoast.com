@@ -96,7 +96,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 **Fishermen's Seafood Market** - CB - Will re-open at the Boardwalk location on Wed, May 27th.
 
-[**Front Street Provisioners**](http://frontstreetprovisioners.com/) - CB - {Note: Front Street will be closed May 11-19} Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee, closed Mondays & Tuesdays
+[**Front Street Provisioners**](http://frontstreetprovisioners.com/) - CB - Takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee, closed Mondays & Tuesdays
 
 [**Gino's Pizza**](https://ginospizzainn.com/) - NB - **Dine-in**, plus curbside pickup & take-out still available. Phone: (541) 756-5000
 
