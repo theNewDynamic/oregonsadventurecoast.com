@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 2:00pm PDT, May 20, 2020_**
+**_Updated 10:30am PDT, May 21, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -30,7 +30,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**7 Devils Brewery**](https://www.7devilsbrewery.com/#/) - CB - offering Full menu for Take-Out and Beer in cans, bottles, & growlers Wednesday through Saturday from noon to 7pm. [click this link](https://www.7devilsbrewery.com/#/) or call (541) 808-3738
 
-[**Abby’s Pizza**](https://abbys.com/) - CB - Delivery and curbside togo orders only (541) 267-5839
+[**Abby’s Pizza**](https://abbys.com/) - CB - **Dine-in**, delivery and curbside togo orders only (541) 267-5839
 
 [**Alder Smokehouse**](https://www.facebook.com/thealdersmokehouse/) - NB - **Dine-in** or take-out of regular menu. Curbside pick up from 11-3. Call or Text (541) 756-9599
 
@@ -101,6 +101,8 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 [**Gino's Pizza**](https://ginospizzainn.com/) - NB - **Dine-in**, plus curbside pickup & take-out still available. Phone: (541) 756-5000
 
 [**Green Street Organic Juice Bar**](https://www.facebook.com/GreenStreetJuice/) - CB - Take-out and curbside pickup is available. (541) 808-0475
+
+[**High Tide**](https://www.facebook.com/HighTideCafeOregon/) - CH - **Dine-in** starting Friday May 22nd. For this weekend, Friday-Monday 11am-5pm, then beginning May 27th Wednesday-Sunday Noon-7pm.
 
 [**Hilltop House Restaurant**](https://www.facebook.com/Hilltop-House-243331465858022/) - NB - will be open for **Dine-in on May 23rd**. Reservations highly recommended! (541) 756-4160
 
@@ -201,7 +203,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **Dave’s Pizza**, Coos Bay  
 **Gooney’s**, Coos Bay  
 **Grounds Cafe**, in Books by the Bay, North Bend  
-**High Tide**, Charleston  
 **Humboldt Club**, North Bend  
 **Lucky Dragon Buffet**, North Bend  
 **Millers at the Cove**, Charleston  
