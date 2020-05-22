@@ -1,5 +1,5 @@
 ---
-layout: 'eventspage'
+layout: ''
 title: Amazing Outdoor Events & Things to Do on the Oregon Coast
 photo: "/img/events-runners-header.jpg"
 seo:
@@ -8,7 +8,6 @@ seo:
   title: Oregon Coast Trips - Events | Oregon's Adventure Coast
 
 ---
-
 {{< spacer 100 >}}
 
 ## Due to COVID-19 Most Events in 2020 have been cancelled. We will update this page as new information is provided.
