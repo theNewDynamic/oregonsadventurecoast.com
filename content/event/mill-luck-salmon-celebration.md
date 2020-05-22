@@ -20,6 +20,7 @@ address:
 phone_toll_free: 541-756-8800
 phone_local: 800-953-4800
 website: https://www.themillcasino.com
+draft: true
 
 ---
 ![Mill Luck Salmon Celebration Man With Salmon](/img/salmon-celebration-medium.jpg)
