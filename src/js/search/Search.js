@@ -62,17 +62,22 @@ export default class Search {
     getSearchResultCountTpl(count, term) {
         let message = '';
 
-        if (count === 0) {
-            message = 'No search results for';
-        } else if (count === 1) {
-            message = '1 search result for';
-        } else {
-            message = count + ' search results for';
+        if (term !== "undefined") {
+
+            if (count === 0) {
+                message = 'No search results for';
+            } else if (count === 1) {
+                message = '1 search result for';
+            }else {
+                message = count + ' search results for';
+            }
+
+            return `
+                <p class="search-results-count">${message}: <span class="term">${term}</span></p>
+            `;
+        } else{
+            return ``;
         }
 
-
-        return `
-            <p class="search-results-count">${message}: <span class="term">${term}</span></p>
-        `;
     }
 }
