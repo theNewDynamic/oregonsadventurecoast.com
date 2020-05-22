@@ -9,4 +9,6 @@ seo:
 
 ---
 
+{{< spacer 100 >}}
+
 ## Due to COVID-19 Most Events in 2020 have been cancelled. We will update this page as new information is provided.
