@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: 'calendarpage'
 title: Amazing Outdoor Events & Things to Do on the Oregon Coast
 photo: "/img/events-runners-header.jpg"
 seo:
