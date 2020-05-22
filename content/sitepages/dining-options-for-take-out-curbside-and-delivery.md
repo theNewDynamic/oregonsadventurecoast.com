@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 10:30am PDT, May 22, 2020_**
+**_Updated 2:30pm PDT, May 22, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -42,11 +42,11 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Bay Burger Inn**](https://www.facebook.com/Bay-Burger-Inn-Praus-Haus-111732925528842/) - CB - Drive through or call in your order (541) 888-3688
 
-[**Bayside Bakery Grill & Cafe**](https://www.facebook.com/Bayside-Bakery-Grill-Cafe-288893441167156/) - NB - Free delivery in Coos Bay, North Bend & Empire city limits. on $10 or more orders. $3 delivery fee on other orders, Tues-Fri 8am-3pm and Sat 8:30am-3pm. Call (541) 808-0151
+[**Bayside Bakery Grill & Cafe**](https://www.facebook.com/Bayside-Bakery-Grill-Cafe-288893441167156/) - NB - **Dine-in** and take-out Tuesday-Thursday 8am-3pm, Friday 7am-3pm, Saturday & Sunday 8:30am3pm Call (541) 808-0151
 
-[**Bayside Coffee, Charleston**](http://www.baysidecoffeeshop.com/) - CH - Takeout and curbside delivery of coffee drinks and pastries. Order drinks, ground coffee or beans ahead and pick up curbside (541) 260-3742
+[**Bayside Coffee, Charleston**](http://www.baysidecoffeeshop.com/) - CH - **Dine-in,** takeout and curbside delivery of coffee drinks and pastries. Order drinks, ground coffee or beans ahead and pick up curbside. Friday-Wednesday 7am-3pm, closed Thursday. (541) 260-3742
 
-[**Blue Heron Bistro**](http://www.blueheronbistro.net/) - CB - Take-out, curbside and delivery of family style meals, dinner. New weekly menu items too. (541) 267-3933
+[**Blue Heron Bistro**](http://www.blueheronbistro.net/) - CB - **Dine-in beginning May 24.** Take-out, curbside and delivery of family style meals, dinner. New weekly menu items too. (541) 267-3933
 
 [**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - CB - **Dine-in**, take-out or curbside pickup  Phone: (541) 808-9500
 
@@ -70,9 +70,9 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**City Subs**](https://www.facebook.com/CitySubs/) - CB - Take-out, Monday thru Saturday from 10 am to 4 pm. Call-In orders only. (541) 269-9000
 
-[**Clausen's Oysters**](https://www.facebook.com/ClausenOysters/) - NB - **Dine-in** {beginning May 21} and take-out deli items like chowder and all your oyster needs, 10am-4pm. (541) 756-3600
+[**Clausen's Oysters**](https://www.facebook.com/ClausenOysters/) - NB - **Dine-in** and take-out deli items like chowder and all your oyster needs, 10am-4pm. (541) 756-3600
 
-[**Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - CB - Take-out with curbside pickup (541) 267-5116 from 11am-8pm (M-Sa) Closed Sunday (Temporarily)
+[**Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - CB - **Dine-in,** take-out with curbside pickup (541) 267-5116 from 11am-8pm (M-Sa) Closed Sunday (Temporarily)
 
 [**Coney Station**](https://www.facebook.com/ConeyStation/) - CB - Curbside pickup of a limited menu, 11am-6pm, Please Call ahead (541) 269-6948
 
@@ -84,7 +84,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Domino’s Pizza CB**](https://www.dominos.com/) (2 locations - CB) - Online ordering, contactless delivery and take-out. Half priced pizzas ordered online. (541) 269-1000 (Ocean Blvd) or (541) 982-6200 (Johnson Ave)
 
-[**El Guadalajara**]() - NB - Take-out of regular menu. Call to order (541) 756-3030
+[**El Guadalajara**](https://www.facebook.com/El-Guadalajara-resturant-138025569587712/) - NB - Take-out of regular menu. Call to order (541) 756-3030
 
 [**Elkhorn BBQ Food Truck**](https://www.facebook.com/elkhornbbq/) - CB - Check Facebook for daily location, usually at the Coos Bay Fast Mart (541) 297-0581
 
@@ -116,7 +116,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**La Herradura**](https://www.facebook.com/La-Herradura-Mexican-Restaurant-632773200099437/) - NB - Take-out and delivery available on regular menu (541) 756-0906
 
-[**Liberty Pub**](https://www.facebook.com/TheLibertyPub/) - NB - Opening May 20th for dine-in. Please read their requirements on their Facebook page. (541) 756-2550
+[**Liberty Pub**](https://www.facebook.com/TheLibertyPub/) - NB - **Dine-in** and take-out. Please read their requirements on their [Facebook](https://www.facebook.com/TheLibertyPub/) page. (541) 756-2550
 
 [**Lillie Family Market**](http://www.lilliefamilymarket.com) - NB - online ordering at [www.lilliefamilymarket.com](http://www.lilliefamilymarket.com/?fbclid=IwAR2FOQ_V7aubWPY9zVLbY2k4BlA_zaJu6mOrOqISBeZgtlSeBEiZ_qw4wps)  (541) 756-3838
 
@@ -158,7 +158,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 **Puerto Vallarta** - CB - **Dine-in** and take-Out available. (541) 269-0919
 
-[**Restaurant O**](https://www.facebook.com/RestaurantO/) - CB - **Dine-in available!** See their [Facebook page](https://www.facebook.com/RestaurantO/) for new restrictions. Take-out of a limited menu from lunch and dinner plus Free delivery on orders of $25 or more within Coos Bay, North Bend & Empire - 12-8p Tues-Sun. 20% discount on Pick Up orders over $20. Phone: (541) 808-9300
+[**Restaurant O**](https://www.facebook.com/RestaurantO/) - CB - **Dine-in -** see their [Facebook page](https://www.facebook.com/RestaurantO/) for new restrictions. Take-out of a limited menu from lunch and dinner plus Free delivery on orders of $25 or more within Coos Bay, North Bend & Empire - 12-8p Tues-Sun. 20% discount on Pick Up orders over $20. Phone: (541) 808-9300
 
 [**Sea Basket**](https://www.facebook.com/JRU.industries/) - CH - Take-out of specials and regular menu. (541) 888-5711
 
@@ -174,7 +174,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Sumin’s Restaurant and Sushi Bar**](https://suminscoosbay.com/) - CB - Take-out during its normal business hours (541) 267-0119
 
-[**Tai’s Dynasty**](http://taidynasty.com/) - NB - Take-out of the Chinese menu only, 11am-8pm daily (541) 756-3475
+[**Tai’s Dynasty**](http://taidynasty.com/) - NB -  **Dine-in available May 25** and take-out of the Chinese menu only, 11am-8pm daily (541) 756-3475
 
 [**Timbers at The Mill**](https://www.themillcasino.com/update-on-our-response-to-covid-19/) - NB - Take-out from Timbers Cafe with social distancing dining in the Saw Blade Buffet or Warehouse 101. (541) 756-8800
 
