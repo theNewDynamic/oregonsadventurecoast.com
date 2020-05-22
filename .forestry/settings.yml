@@ -76,6 +76,13 @@ sections:
 - type: document
   path: site/data/taxonomies.yaml
   label: Taxonomies
+- type: heading
+  label: Information
+- type: document
+  path: docs/status.md
+  label: Status
+  match: "**/*"
+  read_only: true
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
