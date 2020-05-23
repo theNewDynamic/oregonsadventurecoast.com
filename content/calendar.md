@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: 'calendarpage'
 aliases:
 - "/activities/category/events"
 - "/listings/polar-bear-plunge-2"
