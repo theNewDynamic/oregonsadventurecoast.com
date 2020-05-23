@@ -1,31 +1,30 @@
 ---
 title: Lady Washington Sets Sail for Coos Bay April 11th – 17th!
-date: 2018-03-08T19:09:02.000Z
-description: >+
-  We are thrilled to announce the Lady Washington will return to Coos Bay April
-  11th – 17th, 2018! Locals and visitors will have the rare opportunity to tour
-  this majestic tall ship and meet her crew throughout the week. The dockside
-  vessel walk-on tours will be open to the public for a suggested donation of $5
-  per person.
-
+date: 2018-03-08T19:09:02.000+00:00
+description: "We are thrilled to announce the Lady Washington will return to Coos
+  Bay April 11th – 17th, 2018! Locals and visitors will have the rare opportunity
+  to tour this majestic tall ship and meet her crew throughout the week. The dockside
+  vessel walk-on tours will be open to the public for a suggested donation of $5 per
+  person.\n\n"
 tags:
-  - Beaches
-  - Charleston
-  - Coast
-  - Coos Bay
-  - Coos Bay Boardwalk
-  - Educational
-  - Lady Washington
-  - Maritime History
-  - North Bend
-  - Oregon
-  - recreation
-  - Tall Ships
-  - Tours
-  - Washington
+- Beaches
+- Charleston
+- Coast
+- Coos Bay
+- Coos Bay Boardwalk
+- Educational
+- Lady Washington
+- Maritime History
+- North Bend
+- Oregon
+- recreation
+- Tall Ships
+- Tours
+- Washington
 categories:
-  - Historical
-image: /img/03-08-18-lady-washingyon-sets-sali.jpg
+- Historical
+image: "/img/03-08-18-lady-washingyon-sets-sali.jpg"
+
 ---
 We are thrilled to announce the<strong> <a href="http://www.historicalseaport.org/ships/lady-washington/">Lady Washington</a> will return to Coos Bay April 11th – 17th, 2018</strong>! Locals and visitors will have the rare opportunity to tour this majestic <a href="http://historicalseaport.org/about-us/our-vessels/lady-washington/" target="_blank" rel="noopener noreferrer">tall ship</a> and meet her crew throughout the week. The dockside vessel walk-on tours will be open to the public for a suggested donation of $5 per person.
 
