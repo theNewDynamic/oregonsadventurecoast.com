@@ -1,6 +1,6 @@
 ---
 title: 'Share Your #3ACoosBay Experience for a Chance to Win Great Prizes!'
-date: 2019-02-19 17:11:57 +0000
+date: 2019-02-19T17:11:57.000+00:00
 description: 'Share your Photos from the 3A OSAA Basketball Tournament Weekend on
   Twitter or Instagram with the #3ACoosBay Hashtag for a Chance to Win Some Outstanding
   Prizes!'
