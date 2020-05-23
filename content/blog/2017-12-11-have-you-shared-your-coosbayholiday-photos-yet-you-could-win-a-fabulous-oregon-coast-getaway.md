@@ -19,6 +19,7 @@ tags:
 categories:
 - Miscellaneous
 image: "/img/holidaylights-aerial-177-new.jpg"
+draft: true
 
 ---
 <pre><em>Photo Courtesy of <a href="https://www.facebook.com/Friends-of-Shore-Acres-206248449391886/" target="_blank">Friends of Shore Acres</a></em></pre>
