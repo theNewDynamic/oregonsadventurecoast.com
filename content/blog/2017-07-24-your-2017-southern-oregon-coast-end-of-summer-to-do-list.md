@@ -26,6 +26,7 @@ tags:
 categories:
 - Miscellaneous
 image: "/img/07-24-17-end-of-summer-todo.jpg"
+draft: true
 
 ---
 Don't know about you, but it seems like the annual "back-to-school" to-do list gets larger and creeps up on us even sooner every passing year! We've got news for those who are drowning out our summer with the "back-to-school" movement: <strong>It's still summer here on Oregon's South Coast!</strong> In fact, we're just getting started on our Summer 2017 "To-Do Lists".
