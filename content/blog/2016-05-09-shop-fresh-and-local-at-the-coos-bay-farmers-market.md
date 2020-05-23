@@ -23,6 +23,7 @@ categories:
 - Eat & Drink
 - Miscellaneous
 image: ''
+draft: true
 
 ---
 Grab your grocery bags because the <a href="http://coosbaydowntown.org/farmers-market/" target="_blank">Coos Bay Farmers’Market</a> is back every Wednesday through October 26, 2016! Browse over 50 vendors’ stands as they sell fresh fruits and vegetables, homemade jams, arts and crafts, and candies.
