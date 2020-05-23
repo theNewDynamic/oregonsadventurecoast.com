@@ -21,6 +21,7 @@ tags:
 categories:
 - Fairs & Festivals
 image: ''
+draft: true
 
 ---
 It’s happening! It’s really happening! Later this spring, Coos Bay and North Bend will be one of only a handful of Pacific ports that will host historic ships during the annual [Festival of Sail®](http://festofsailcoosbay.com/), June 1st-4th, 2017. This annual festival draws enthusiastic crowds from all over the region as it’s “a rare chance to catch a glimpse, step aboard, and even set sail on some of the grandest ships of yore”.
