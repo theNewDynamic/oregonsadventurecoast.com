@@ -22,6 +22,7 @@ categories:
 - Miscellaneous
 - Walking & Hiking
 image: "/img/07-11-17-new-race-in-town.jpg"
+draft: true
 
 ---
 ### Be Among the First Runners to Participate in the Charleston Salmon Run and Crab Walk October 7th, 2017

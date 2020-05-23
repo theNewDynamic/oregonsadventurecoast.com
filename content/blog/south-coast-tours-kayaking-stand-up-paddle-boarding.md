@@ -18,6 +18,7 @@ tags:
 - 'stand-up paddleboarding rentals '
 categories:
 - Watersports
+draft: true
 
 ---
 With so many calm lakes, rivers and beaches to choose from, Oregon's Adventure Coast is a haven for Kayaking and Stand-Up Paddleboarding (SUP) and outdoor lovers of all skill levels. Taking a tour with a professional guide is an excellent way to experience the natural beauty of Oregon's south coast like never before.
