@@ -1,7 +1,7 @@
 ---
 title: Are you Ready for Some Fun? Join Us September 21-22, 2019 for the Bay Area
   Fun Festival!
-date: 2019-08-06T11:10:00-07:00
+date: 2019-08-06T18:10:00.000+00:00
 description: 'The end of summer is approaching, but that means the Bay Area Fun Festival
   is happening soon! Join us the weekend of September 21-22, 2019 for a parade, the
   Prefontaine Memorial Run, Cruz the Coos and so much more! '

@@ -1,30 +1,28 @@
 ---
 title: Sixteen Oregon Coast Adventures You Should Have in 2018!
-date: 2018-01-23T20:21:27.000Z
-description: >-
+date: 2018-01-23T20:21:27.000+00:00
+description: |-
   Get Ready to Make 2018 the Year of Exploration and Adventure!
-
-  So much to do, so little time! Oregon’s South Coast offers so many events and
-  attractions for travelers and adventure seekers to enjoy this year, we simply
-  cannot name them all!
+  So much to do, so little time! Oregon’s South Coast offers so many events and attractions for travelers and adventure seekers to enjoy this year, we simply cannot name them all!
 tags:
-  - Beaches
-  - Clamming
-  - Coos Bay
-  - Crabbing
-  - Crabbing & Clamming
-  - Fishing
-  - Crabbing & Clamming
-  - Hiking
-  - North Bend
-  - Oregon Coast Destinations
-  - Oregon Dunes National Recreation Area
-  - Travel Coos Bay
-  - Travel Oregon
+- Beaches
+- Clamming
+- Coos Bay
+- Crabbing
+- Crabbing & Clamming
+- Fishing
+- Crabbing & Clamming
+- Hiking
+- North Bend
+- Oregon Coast Destinations
+- Oregon Dunes National Recreation Area
+- Travel Coos Bay
+- Travel Oregon
 categories:
-  - Beach
-  - Walking & Hiking
-image: /img/01-23-18-sixteen-coast-adventures.jpg
+- Beach
+- Walking & Hiking
+image: "/img/01-23-18-sixteen-coast-adventures.jpg"
+
 ---
 ## <h2>Get Ready to Make 2018 the Year of Exploration and Adventure!</h2>
 
