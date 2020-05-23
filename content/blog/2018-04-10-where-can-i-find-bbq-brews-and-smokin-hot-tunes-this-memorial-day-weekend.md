@@ -23,6 +23,7 @@ tags:
 categories:
 - Events
 image: "/img/BBQ Blues Mill Casino blog-695x322.jpg"
+draft: true
 
 ---
 Is there a better way to celebrate the beginning of summer than 3 days of lip-smackin' BBQ, incredible brews and smokin' hot tunes on Oregon's Adventure Coast? We think not. The Mill Casino • Hotel & RV Park is once again hosting their popular [BBQ, Blues & Brews on the Bay](https://www.themillcasino.com/bbq-event/) this Memorial Day Weekend (May 24 - May 26, 2019).
