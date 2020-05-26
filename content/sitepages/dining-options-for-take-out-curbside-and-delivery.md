@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 2:30pm PDT, May 22, 2020_**
+**_Updated 12:30pm PDT, May 26, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -114,7 +114,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Kum-Yons**](http://kumyonscoosbay.com/index.html) - CB - Take-out available from 11am-8:30pm for call ahead orders (541) 269-2662
 
-[**La Herradura**](https://www.facebook.com/La-Herradura-Mexican-Restaurant-632773200099437/) - NB - Take-out and delivery available on regular menu (541) 756-0906
+[**La Herradura**](https://www.facebook.com/La-Herradura-Mexican-Restaurant-632773200099437/) - NB - **Dine-in,** take-out and delivery available on regular menu (541) 756-0906
 
 [**Liberty Pub**](https://www.facebook.com/TheLibertyPub/) - NB - **Dine-in** and take-out. Please read their requirements on their [Facebook](https://www.facebook.com/TheLibertyPub/) page. (541) 756-2550
 
