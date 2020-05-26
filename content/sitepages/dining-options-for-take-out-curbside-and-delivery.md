@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 12:30pm PDT, May 26, 2020_**
+**_Updated 2:00pm PDT, May 26, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -68,17 +68,17 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Ciccarelli's Restaurant**](https://www.facebook.com/Ciccarellis-Restaurant-1006325779561696/) - NB - **Dine-in** for dinner only , 4-close, Tuesday-Saturday, take-out of full menu still available. The Coffee Shop will be open from Tuesday-Saturday 9-3. (541) 751-1999
 
-[**City Subs**](https://www.facebook.com/CitySubs/) - CB - Take-out, Monday thru Saturday from 10 am to 4 pm. Call-In orders only. (541) 269-9000
+[**City Subs**](https://www.facebook.com/CitySubs/) - CB - **Dine-in beginning June 1.** Take-out, Monday thru Saturday from 10 am to 4 pm. Call-In orders only. (541) 269-9000
 
 [**Clausen's Oysters**](https://www.facebook.com/ClausenOysters/) - NB - **Dine-in** and take-out deli items like chowder and all your oyster needs, 10am-4pm. (541) 756-3600
 
 [**Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - CB - **Dine-in,** take-out with curbside pickup (541) 267-5116 from 11am-8pm (M-Sa) Closed Sunday (Temporarily)
 
-[**Coney Station**](https://www.facebook.com/ConeyStation/) - CB - Curbside pickup of a limited menu, 11am-6pm, Please Call ahead (541) 269-6948
+[**Coney Station**](https://www.facebook.com/ConeyStation/) - CB - **Dine-in beginning June 1.** Curbside pickup of a limited menu, 11am-6pm, Please Call ahead (541) 269-6948
 
 [**Crabby Cakes Bakery**](https://www.facebook.com/Crabby-Cakes-Bakery-183368818480720/) - CH - **Dine-in** or take out Wed. thru Sun. 9am to 3pm. (541) 808-2388
 
-[**Darrell's Devils Food**](https://www.facebook.com/Chefdeezy) - CB - Take-out and curbside pickup Tues-Fri 11am-4pm Saturdays 9am-4pm. (541) 808-9666
+[**Darrell's Devils Food**](https://www.facebook.com/Chefdeezy) - CB - **Dine-in beginning June 1.** Take-out and curbside pickup Tues-Fri 11am-4pm Saturdays 9am-4pm. (541) 808-9666
 
 [**Dishner's Restaurant**](https://www.facebook.com/Dishners2881/) - NB - **Dine-in** or take-out of their  full menu. Phone: (541) 756-2881
 
@@ -104,7 +104,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**High Tide**](https://www.facebook.com/HighTideCafeOregon/) - CH - **Dine-in** starting Friday May 22nd. For this weekend, Friday-Monday 11am-5pm, then beginning May 27th Wednesday-Sunday Noon-7pm.
 
-[**Hilltop House Restaurant**](https://www.facebook.com/Hilltop-House-243331465858022/) - NB - will be open for **Dine-in on May 23rd**. Reservations highly recommended! (541) 756-4160
+[**Hilltop House Restaurant**](https://www.facebook.com/Hilltop-House-243331465858022/) - NB - will be open for **Dine-in**. Reservations highly recommended! (541) 756-4160
 
 [**Kaffe 101**](http://kaffe101.com/)- CB - **Dine-in**, take-out and curbside pickup of regular food and beverage menu. 8am-4pm For curbside pickup, call ahead (541) 267-4894
 
@@ -174,7 +174,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Sumin’s Restaurant and Sushi Bar**](https://suminscoosbay.com/) - CB - Take-out during its normal business hours (541) 267-0119
 
-[**Tai’s Dynasty**](http://taidynasty.com/) - NB -  **Dine-in available May 25** and take-out of the Chinese menu only, 11am-8pm daily (541) 756-3475
+[**Tai’s Dynasty**](http://taidynasty.com/) - NB -  **Dine-in** and take-out of the Chinese menu only, 11am-8pm daily (541) 756-3475
 
 [**Timbers at The Mill**](https://www.themillcasino.com/update-on-our-response-to-covid-19/) - NB - Take-out from Timbers Cafe with social distancing dining in the Saw Blade Buffet or Warehouse 101. (541) 756-8800
 
