@@ -1,5 +1,5 @@
 ---
-layout: 'calendarpage'
+layout: ''
 aliases:
 - "/activities/category/events"
 - "/listings/polar-bear-plunge-2"
@@ -11,7 +11,7 @@ seo:
   title: Oregon Coast Trips - Calendar of Events | Oregon's Adventure Coast
 
 ---
-There’s something special about Oregon’s Adventure Coast that you won’t find anywhere else. We are a community with unique character tied together by a beautiful bay; Coos Bay. Coos Bay, North Bend and Charleston offer an events calendar full of spirit and adventure.
+There’s something special about Oregon’s Adventure Coast that you won’t find anywhere else. We are a community with unique character tied together by a beautiful bay; Coos Bay. Coos Bay, North Bend and Charleston offer a calendar full of spirit and adventure.
 
 ## Find the Right Special Activity During Your Vacation to the Oregon Coast
 
