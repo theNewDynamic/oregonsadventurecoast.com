@@ -122,7 +122,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Little Caesars**](https://littlecaesars.com/en-us/) - CB and NB - Hot-N-Ready Pizzas and more available 11am-9pm Daily. Phone: CB 541-266-9595, NB (541) 756-5656
 
-[**Little Italy**](http://littleitalycoosbay.com/) - CB - **Dine-in** or take-out of their regular menu from 3pm-8pm. They are offering a 15% discount. Phone: (541) 808-2200
+[**Little Italy**](http://littleitalycoosbay.com/) - CB - **Dine-in** from 4pm-9pm reservations recommended. Or take-out of their regular dinner menu from 3pm-8pm.  (541) 808-2200
 
 [**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - NB - **Dine-in** or curbside pickup of a special menu with Free delivery for orders over $20. Margaritas, Daiquiris & Mojitos, too! Call (541) 756-4799
 
