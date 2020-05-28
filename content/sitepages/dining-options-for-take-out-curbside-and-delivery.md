@@ -104,6 +104,8 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Gino's Pizza**](https://ginospizzainn.com/) - NB - **Dine-in**, plus curbside pickup & take-out still available. Phone: (541) 756-5000
 
+[**Gooney’s**](https://www.gooneyssportsbar.com/) - CB - Dine-in and patio seating. (541) 266-8815
+
 [**Green Street Organic Juice Bar**](https://www.facebook.com/GreenStreetJuice/) - CB - Take-out and curbside pickup is available. (541) 808-0475
 
 [**High Tide**](https://www.facebook.com/HighTideCafeOregon/) - CH - **Dine-in** starting Friday May 22nd. For this weekend, Friday-Monday 11am-5pm, then beginning May 27th Wednesday-Sunday Noon-7pm.
@@ -205,7 +207,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **Aromas**, North Bend  
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
 **Dave’s Pizza**, Coos Bay  
-**Gooney’s**, Coos Bay  
 **Grounds Cafe**, in Books by the Bay, North Bend  
 **Humboldt Club**, North Bend  
 **Lucky Dragon Buffet**, North Bend  
@@ -213,7 +214,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **Outdoor-In**, Coos Bay  
 **Saw Blade Buffet, Plankhouse, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
 **Sizzler**, North Bend  
-  
 **Tiny's Tavern**, North Bend  
 **Wildflour Cafe**, North Bend
 
