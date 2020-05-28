@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 8:00am PDT, May 27, 2020_**
+**_Updated 11:00am PDT, May 28, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -28,7 +28,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 {{< spacer 50 >}}
 
-[**7 Devils Brewery**](https://www.7devilsbrewery.com/#/) - CB - offering Full menu for Take-Out and Beer in cans, bottles, & growlers Wednesday through Saturday from noon to 7pm. [click this link](https://www.7devilsbrewery.com/#/) or call (541) 808-3738
+[**7 Devils Brewery**](https://www.7devilsbrewery.com/#/) - CB - **Dine-in**, take-out of food and beer in cans, bottles, & growlers Wednesday through Saturday Noon to 7pm. [click this link](https://www.7devilsbrewery.com/#/) or call (541) 808-3738
 
 [**Abby’s Pizza**](https://abbys.com/) - CB - **Dine-in**, delivery and curbside togo orders only (541) 267-5839
 
@@ -46,7 +46,9 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Bayside Coffee, Charleston**](http://www.baysidecoffeeshop.com/) - CH - **Dine-in,** takeout and curbside delivery of coffee drinks and pastries. Order drinks, ground coffee or beans ahead and pick up curbside. Friday-Wednesday 7am-3pm, closed Thursday. (541) 260-3742
 
-[**Blue Heron Bistro**](http://www.blueheronbistro.net/) - CB - **Dine-in beginning May 24.** Take-out, curbside and delivery of family style meals, dinner. New weekly menu items too. (541) 267-3933
+[**Blue Heron Bistro**](http://www.blueheronbistro.net/) - CB - **Dine-in**, take-out, curbside and delivery of family style meals, dinner. New weekly menu items too. (541) 267-3933
+
+[**Blue Moon Saloon & Cafe**](https://www.facebook.com/bluemooncoosbay/) - CB - Open 7am to Midnight.
 
 [**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - CB - **Dine-in**, take-out or curbside pickup  Phone: (541) 808-9500
 
@@ -55,6 +57,8 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 [**Bungalow Market & Deli**](https://www.facebook.com/Bungalow-Market-Deli-282965688442/) - NB - Regular hours and to go operations. (541) 751-0304
 
 [**Buzz**](https://www.facebook.com/ponyvillagebuzz/) - NB - **Dine-in**, take-out and delivery of regular menu. (541) 756-0144
+
+[**Cafe 1297**](https://www.threeriverscasino.com/cafe-1297), inside Three Rivers Casino - CB - **Dine-in** daily from 7am to 10pm with limited, socially distanced seating.
 
 [**Cafe Mediterranean**](https://cafemediterranean.net/) - NB - **Dine-in** or take-out 11am - 8pm. (541)756-2299
 
@@ -104,7 +108,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**High Tide**](https://www.facebook.com/HighTideCafeOregon/) - CH - **Dine-in** starting Friday May 22nd. For this weekend, Friday-Monday 11am-5pm, then beginning May 27th Wednesday-Sunday Noon-7pm.
 
-[**Hilltop House Restaurant**](https://www.facebook.com/Hilltop-House-243331465858022/) - NB - will be open for **Dine-in**. Reservations highly recommended! (541) 756-4160
+[**Hilltop House Restaurant**](https://www.facebook.com/Hilltop-House-243331465858022/) - NB - **Dine-in**. Reservations highly recommended! (541) 756-4160
 
 [**Kaffe 101**](http://kaffe101.com/)- CB - **Dine-in**, take-out and curbside pickup of regular food and beverage menu. 8am-4pm For curbside pickup, call ahead (541) 267-4894
 
@@ -168,6 +172,8 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Scoops Handmade Ice Cream**](https://scoops.life/) - NB - Curbside pickup available. Phone ahead. (541) 808-2990
 
+[**So It Goes Coffeehouse**](https://www.facebook.com/soitgoescoffeehouse/) - CB - Opening on June 1st for Take-out.
+
 **Stockpot Restaurant** - CB - **Dine-in** and take-out now available. 6am-2pm daily (541) 266-7070
 
 [**Subway**](https://www.subway.com/en-us) - CB & NB - all locations offering Take-out, online app ordering, pay online for curbside pickup
@@ -197,9 +203,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted. Please keep these establishments in your thoughts and plan to visit them when they re-open.
 
 **Aromas**, North Bend  
-**Blue Moon Saloon**, Coos Bay  
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
-**Cafe 1297**, inside Three Rivers Casino, Coos Bay  
 **Dave’s Pizza**, Coos Bay  
 **Gooney’s**, Coos Bay  
 **Grounds Cafe**, in Books by the Bay, North Bend  
@@ -209,7 +213,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 **Outdoor-In**, Coos Bay  
 **Saw Blade Buffet, Plankhouse, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
 **Sizzler**, North Bend  
-**So It Goes Coffeehouse**, Coos Bay  
+  
 **Tiny's Tavern**, North Bend  
 **Wildflour Cafe**, North Bend
 
