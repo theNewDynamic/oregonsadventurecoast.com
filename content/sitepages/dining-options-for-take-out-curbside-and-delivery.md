@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 11:00am PDT, May 28, 2020_**
+**_Updated 10:30am PDT, May 29, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -132,7 +132,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - NB - **Dine-in** or curbside pickup of a special menu with Free delivery for orders over $20. Margaritas, Daiquiris & Mojitos, too! Call (541) 756-4799
 
-[**Lucky Star**](https://www.facebook.com/Lucky-Star-120151947996876/) - NB - Take-out and delivery of regular menu 11am-9pm. Phone orders at (541) 751-9526 or online ordering at [www.luckystarnorthbend.com](http://www.luckystarnorthbend.com/?fbclid=IwAR1SCzjU4VwY8GOfYXEfac0dqmY5gL4sAiWdekhzRVcbiPH7qshENaSsrqQ)
+[**Lucky Star**](https://www.facebook.com/Lucky-Star-120151947996876/) - NB - **Dine-in** **beginning June 2**. Take-out and delivery of regular menu 11am-9pm. Phone orders at (541) 751-9526 or online ordering at [www.luckystarnorthbend.com](http://www.luckystarnorthbend.com/?fbclid=IwAR1SCzjU4VwY8GOfYXEfac0dqmY5gL4sAiWdekhzRVcbiPH7qshENaSsrqQ)
 
 [**Luigi’s**](https://www.facebook.com/Luigis-Italian-Sandwiches-140543963550/) - CB - Take-out only with call ahead order (541) 888-9407
 
