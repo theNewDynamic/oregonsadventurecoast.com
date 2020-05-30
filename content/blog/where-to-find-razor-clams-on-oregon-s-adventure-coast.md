@@ -26,8 +26,6 @@ accordion_sections: []
 draft: true
 
 ---
-### Where to find Razor Clams on Oregon's Adventure Coast
-
 Whether you prefer to catch and cook your own or have an expert prepare them for you [Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/) has an abundance of options to try out the ever-popular Pacific Razor Clams. These clams have a mild and sweet brininess that is more delicate than other clams, making them perfect for chowder, steaks or fritters.
 
 ![](/img/clamming-with-maggie-695x322.jpg)
