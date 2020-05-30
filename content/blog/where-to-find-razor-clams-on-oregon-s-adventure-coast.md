@@ -30,6 +30,8 @@ draft: true
 
 Whether you prefer to catch and cook your own or have an expert prepare them for you [Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/) has an abundance of options to try out the ever-popular Pacific Razor Clams. These clams have a mild and sweet brininess that is more delicate than other clams, making them perfect for chowder, steaks or fritters.
 
+![](/img/clamming-with-maggie-695x322.jpg)
+
 If you’re looking to catch your own dinner, you should definitely enlist some help the first time. [Basin Tackle](https://www.facebook.com/basintacklecharleston/) in Charleston offers a clam-digging ‘class’ and the equipment to set you up for success, they will even help you get your fishing license. For those of you who are brave enough to try it on your own or are already a seasoned pro, there are a few things you should know. You will need a fishing license, which you can find at a local [sporting goods store](https://www.oregonsadventurecoast.com/fishing-license-requirements/) or here: [https://myodfw.com/articles/where-crab-clam-coos-bay](https://myodfw.com/articles/where-crab-clam-coos-bay "https://myodfw.com/articles/where-crab-clam-coos-bay").
 
 Also, the limit for razor clams is your first 15 dug, which means that you cannot throw the ugly ones back, keep your first 15 and you’re done; at least for the day.
