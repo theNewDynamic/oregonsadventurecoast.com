@@ -16,5 +16,6 @@ address:
 phone_local: "(541) 373-0487"
 phone_toll_free: ''
 website: https://www.facebook.com/southcoasttours/
+draft: true
 
 ---
