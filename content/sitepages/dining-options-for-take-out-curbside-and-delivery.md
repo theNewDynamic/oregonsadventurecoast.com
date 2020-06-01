@@ -98,7 +98,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Fisherman's Grotto**](https://www.facebook.com/Fishermans-Grotto-162321840503126/) - CH - **Dine-in** or take-out on Friday Saturday And Sundays! 11a -7p  (541) 888-3251
 
-**Fishermen's Seafood Market** - CB - Will re-open at the Boardwalk location on Wed, May 27th.
+[**Fishermen's Seafood Market**]( https://www.facebook.com/fishermensseafoodmarket/) - CB - **Dine-in** with very LIMITED seating and take-out Tuesday through Saturday 10:30am to 7:00pm. (541) 267-2722
 
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - CB - **Dine-in**, takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee, closed Mondays & Tuesdays
 
