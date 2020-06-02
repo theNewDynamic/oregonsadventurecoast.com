@@ -186,7 +186,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Timbers at The Mill**](https://www.themillcasino.com/update-on-our-response-to-covid-19/) - NB - Take-out from Timbers Cafe with social distancing dining in the Saw Blade Buffet or Warehouse 101. (541) 756-8800
 
-[**Tin Thistle**](https://www.facebook.com/thetinthistlecafe/) - NB - Take-out, curbside pick up of full menu (541) 267-0267
+[**Tin Thistle**](https://www.facebook.com/thetinthistlecafe/) - NB - **Dine-in,** take-out, curbside pick up of full menu (541) 267-0267
 
 [**Tokyo Bistro**](https://www.tokyocoosbay.com/) - CB - Curbside pickup available. (541) 808-0808
 
