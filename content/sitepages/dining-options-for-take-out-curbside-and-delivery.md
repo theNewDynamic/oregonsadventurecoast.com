@@ -1,5 +1,5 @@
 ---
-title: Dining Options for Take Out, Curbside, and Delivery
+title: Dining Options for NEW Dine-In, Take Out, Curbside, and Delivery
 url: "/dining-options-takeout"
 layout: our-area
 photo: "/img/dining-header.jpg"
@@ -14,7 +14,7 @@ accordion_sections: []
 ---
 **_Updated 9:30am PDT, June 2, 2020_**
 
-_Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
+_Please know that we are doing our best to keep up with the restaurants offering NEW Dine-in service, take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
 #### Friday, May 15th, Coos County area restaurants allowed to re-open for dining as long as they can meet the new guidelines. We will try to note which restaurants are open for dine-in here, but encourage you to CALL before you go!
 
