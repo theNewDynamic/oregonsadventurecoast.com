@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 10:30am PDT, May 29, 2020_**
+**_Updated 9:30am PDT, June 2, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -28,7 +28,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 {{< spacer 50 >}}
 
-[**7 Devils Brewery**](https://www.7devilsbrewery.com/#/) - CB - **Dine-in**, take-out of food and beer in cans, bottles, & growlers Wednesday through Saturday Noon to 7pm. [click this link](https://www.7devilsbrewery.com/#/) or call (541) 808-3738
+[**7 Devils Brewery**](https://www.7devilsbrewery.com/#/) - CB - **Dine-in**, take-out of food and beer in cans, bottles, & growlers Wednesday through Monday Noon to 9pm. (541) 808-3738
 
 [**Abby’s Pizza**](https://abbys.com/) - CB - **Dine-in**, delivery and curbside togo orders only (541) 267-5839
 
@@ -98,7 +98,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Fisherman's Grotto**](https://www.facebook.com/Fishermans-Grotto-162321840503126/) - CH - **Dine-in** or take-out on Friday Saturday And Sundays! 11a -7p  (541) 888-3251
 
-[**Fishermen's Seafood Market**]( https://www.facebook.com/fishermensseafoodmarket/) - CB - **Dine-in** with very LIMITED seating and take-out Tuesday through Saturday 10:30am to 7:00pm. (541) 267-2722
+[**Fishermen's Seafood Market**](https://www.facebook.com/fishermensseafoodmarket/) - CB - **Dine-in** with very LIMITED seating and take-out Tuesday through Saturday 10:30am to 7:00pm. (541) 267-2722
 
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) - CB - **Dine-in**, takeout Food, Beer and Wine. Curbside and Take-Out Order by calling (541) 808-3420 Delivery now available for a $5 fee, closed Mondays & Tuesdays
 
