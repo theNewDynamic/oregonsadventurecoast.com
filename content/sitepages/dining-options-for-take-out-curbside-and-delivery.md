@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 9:30am PDT, June 2, 2020_**
+**_Updated 4:30pm PDT, June 3, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering NEW Dine-in service, take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -78,7 +78,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - CB - **Dine-in,** take-out with curbside pickup (541) 267-5116 from 11am-8pm (M-Sa) Closed Sunday (Temporarily)
 
-[**Coney Station**](https://www.facebook.com/ConeyStation/) - CB - **Dine-in beginning June 1.** Curbside pickup of a limited menu, 11am-6pm, Please Call ahead (541) 269-6948
+[**Coney Station**](https://www.facebook.com/ConeyStation/) - CB - **Dine-in**, take-out and curbside pickup of a limited menu, Tuesday through Saturday 11am-8pm. Seating is limited. (541) 269-6948
 
 [**Crabby Cakes Bakery**](https://www.facebook.com/Crabby-Cakes-Bakery-183368818480720/) - CH - **Dine-in** or take out Wed. thru Sun. 9am to 3pm. (541) 808-2388
 
