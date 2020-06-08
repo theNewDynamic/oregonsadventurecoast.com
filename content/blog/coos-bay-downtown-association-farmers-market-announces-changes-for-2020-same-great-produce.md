@@ -1,6 +1,6 @@
 ---
 title: Coos Bay Downtown Association Farmers Market Announces Changes for 2020
-date: 2020-05-27T04:00:00+00:00
+date: 2020-05-27T04:00:00.000+00:00
 description: CBDA Farmers Market announces it will open June 3, 2020 as an Essential
   Grocery-type Layout not a “Social Gathering” site. Read other changes can be expected
 image: "/img/coos-bay-farmers-market-695x322-jpg.png"
@@ -23,7 +23,6 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-draft: true
 
 ---
 ### Coos Bay Downtown Association Farmers Market Returns for 20th Season June 3, 2020
