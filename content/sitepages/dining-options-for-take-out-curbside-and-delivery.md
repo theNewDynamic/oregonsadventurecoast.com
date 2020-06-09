@@ -174,7 +174,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Scoops Handmade Ice Cream**](https://scoops.life/) - NB - Curbside pickup available. Phone ahead. (541) 808-2990
 
-[**So It Goes Coffeehouse**](https://www.facebook.com/soitgoescoffeehouse/) - CB - Opening on June 1st for Take-out.
+[**So It Goes Coffeehouse**](https://www.facebook.com/soitgoescoffeehouse/) - CB - Take-out only Monday-Friday 7am-2pm. (541) 808-9333
 
 **Stockpot Restaurant** - CB - **Dine-in** and take-out now available. 6am-2pm daily (541) 266-7070
 
