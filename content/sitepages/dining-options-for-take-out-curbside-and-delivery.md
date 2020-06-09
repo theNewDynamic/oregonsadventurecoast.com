@@ -82,7 +82,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Crabby Cakes Bakery**](https://www.facebook.com/Crabby-Cakes-Bakery-183368818480720/) - CH - **Dine-in** or take out Wed. thru Sun. 9am to 3pm. (541) 808-2388
 
-[**Darrell's Devils Food**](https://www.facebook.com/Chefdeezy) - CB - **Dine-in beginning June 1.** Take-out and curbside pickup Wednesday 9am-3pm (Farmers Market!) Tues, Thur, Fri 11am-3pm Saturdays 8am-3pm. (541) 808-9666
+[**Darrell's Devils Food**](https://www.facebook.com/Chefdeezy) - CB - **Dine-in beginning June 1.** Take-out and curbside pickup Wednesday 9am-3pm (Farmers Market!); Thur, Fri 11am-3pm; Saturdays 8am-3pm. (541) 808-9666
 
 [**Dishner's Restaurant**](https://www.facebook.com/Dishners2881/) - NB - **Dine-in** or take-out of their  full menu. Phone: (541) 756-2881
 
