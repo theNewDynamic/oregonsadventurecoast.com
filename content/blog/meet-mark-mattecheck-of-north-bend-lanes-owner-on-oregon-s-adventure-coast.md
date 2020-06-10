@@ -1,9 +1,24 @@
 ---
-title: Meet Mark Mattecheck of North Bend Lanes Owner on Oregon’s Adventure Coast
+title: Meet Mark Mattecheck, Owner of North Bend Lanes!
 date: 2020-06-10T04:00:00+00:00
-description: ''
-image: ''
-tags: []
+description: This month, we are featuring North Bend Lanes owner, Mark Mattecheck.
+  North Bend Lanes has been a beloved staple on Oregon’s Adventure Coast since 1957
+  when Mark’s father and grandfather left the movie theatre business and opened the
+  bowling alley. “
+image: "/img/mark-north-bend-lanes-blog-695px-by-322px.png"
+tags:
+- North Bend Lanes
+- " Bowling Alley"
+- Entertainment
+- Oregon Coast
+- Small Business
+- Back Alley Pub and Grill
+- 'North Bend Entertainment '
+- Local Bar
+- Events
+- Music
+- Outdoor Patio
+- Mark Mattecheck
 categories: []
 seo:
   title: ''
@@ -12,7 +27,6 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-draft: true
 
 ---
 As we navigate our way through Oregon’s reopening phases and transition into our new normal, we thought this would be a good time to spotlight some of our many local businesses and business people who make Oregon’s Adventure Coast such a special place.
