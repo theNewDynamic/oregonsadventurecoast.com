@@ -88,7 +88,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Domino’s Pizza CB**](https://www.dominos.com/) (2 locations - CB) - Online ordering, contactless delivery and take-out. Half priced pizzas ordered online. (541) 269-1000 (Ocean Blvd) or (541) 982-6200 (Johnson Ave)
 
-**El Coyote Mexican Restaurant** - NB - Take-out only of their full menu (541) 808-0177
+[**El Coyote Mexican Restaurant**](https://www.facebook.com/El-Coyote-Mexican-Restaurant-104827981227108/) - NB - **Dine-in** and take-out only of their full menu (541) 808-0177
 
 [**El Guadalajara**](https://www.facebook.com/El-Guadalajara-resturant-138025569587712/) - NB - **Dine-in beginning May 29.** Take-out of regular menu. Call to order (541) 756-3030
 
