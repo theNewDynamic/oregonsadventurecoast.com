@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 9:30am PDT, June 9, 2020_**
+**_Updated 2:00pm PDT, June 10, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering NEW Dine-in service, take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -88,6 +88,8 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Domino’s Pizza CB**](https://www.dominos.com/) (2 locations - CB) - Online ordering, contactless delivery and take-out. Half priced pizzas ordered online. (541) 269-1000 (Ocean Blvd) or (541) 982-6200 (Johnson Ave)
 
+**El Coyote Mexican Restaurant** - NB - Take-out only of their full menu (541) 808-0177
+
 [**El Guadalajara**](https://www.facebook.com/El-Guadalajara-resturant-138025569587712/) - NB - **Dine-in beginning May 29.** Take-out of regular menu. Call to order (541) 756-3030
 
 [**Elkhorn BBQ Food Truck**](https://www.facebook.com/elkhornbbq/) - CB - Check Facebook for daily location, usually at the Coos Bay Fast Mart (541) 297-0581
@@ -146,7 +148,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Momiji’s Sushi**](https://www.momijiinc.com/north-bend) - NB - Take-out or delivery available with call ahead order (541) 808-2133
 
-[**Monkey Business**](https://www.facebook.com/Monkey-Business-Food-to-Go-1654371274782354/) - CH - Food truck Take-out available Daily 10am-4pm (541) 778-3650 
+[**Monkey Business**](https://www.facebook.com/Monkey-Business-Food-to-Go-1654371274782354/) - CH - Food truck Take-out available Daily 10am-4pm (541) 778-3650
 
 [**Noster Kitchen**](https://www.facebook.com/nosterkitchen/) - CH - Take-out available with a [special take-out menu](https://nosterkitchen.com/takeoutmenu) M-F, 10:30am-2:30pm. (541) 808-3999
 
@@ -197,8 +199,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 [**Walt’s Pourhouse**](https://www.facebook.com/waltspourhouse/) - CB - **Dine-in**, take-out, curbside, and limited delivery of a slightly modified menu and take-out beer. 11am-8pm (541) 267-5588
 
 [**Yeong's Place**](https://www.facebook.com/Yeongs-Place-Restaurant-1424336541200886/?__tn__=kCH-R&eid=ARCd5onDbXfjGBuHiOksZDaOPKPRIGJDcOjclJPb4I4NEcGRf_VzWr0ZuvHZ92lyY-nSzG-ehsZyU9ts&hc_ref=ARTN9S0xAypLp9rAvgpUQ7SHXR6akR8soLi_6rrUi8oTmbJr3sRD0X32QMB362f3x84&fref=nf&__xts__%5B0%5D=68.ARDs87eFZngddnIemSmoRaVxQI9RDMMwNYe05saCE3UmS0J2P3O34H0Bd1qWUivaF1U6JLUzlh-g9TLioYeE8qMsekcJ3-aDoXdUdiUJ8ShWApvWSNtNa3WyaEarZ6ObXrj5gdFIjkpqzr0I9hEMCDANErORP_tGoXucknVusVOMUF73WiC_8kq4aHZUUEDaLrQVcFQO68DwpURmh4uTOpN8Ci7I984aO-z_piYgieW9ds0ZY5MyQuVgG6SMPy-DorlMAupdGo59NYhwQnQRRJB39rIU-3yKDAo6XoyuA2NZ_D_F3Ol9TLbx4bRXkHyYlGru15AIZpEobACzoyB_xLaAldCLFCeDPgybXuBZbvyt63GnrtFB) - NB - Take-out of regular menu. Phone: (541) 756-1914
-
-[**Zen Authentic Thai and Sushi Bar**](https://zenthaisushi.com/) - NB - Take-out only of their full menu (541) 808-3289
 
 **FAST FOOD and DRIVE THROUGH COFFEE SHOPS** - all fast food and coffee shops with drive through windows are open for pick up though the drive through only.
 
