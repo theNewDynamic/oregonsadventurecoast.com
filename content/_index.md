@@ -7,7 +7,7 @@ aliases:
 slideshow:
 - photo: "/img/ready-set-advenutre-fishing-hm-slider.jpg"
   photo_mobile: "/img/fishing-ready-set-now-open-mobile.jpg"
-- {}
+- photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
 - title: Breathtaking Views
   photo: "/img/shore-acres-slider.jpg"
   url: "/hiking-walking"
