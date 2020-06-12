@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: Title
+- name: url
+  type: text
+  config:
+    required: false
+  label: Url
 - type: file
   name: photo
   label: Image
