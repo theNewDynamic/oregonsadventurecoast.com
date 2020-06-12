@@ -5,8 +5,9 @@ aliases:
 - "/activities/category/geocaching"
 - "/rob"
 slideshow:
-- photo: "/img/stay-home-healthy-hm-slider.jpg"
-  photo_mobile: "/img/stay-home-healthy-mobile-slider.jpg"
+- photo: "/img/ready-set-advenutre-fishing-hm-slider.jpg"
+  photo_mobile: "/img/fishing-ready-set-now-open-mobile.jpg"
+- {}
 - title: Breathtaking Views
   photo: "/img/shore-acres-slider.jpg"
   url: "/hiking-walking"
