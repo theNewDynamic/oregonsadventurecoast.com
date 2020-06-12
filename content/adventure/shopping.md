@@ -13,7 +13,6 @@ seo:
 ---
 **_With COVID-19 Phased Reopening happening now, many of our shops have reopened with protocols. Please check with the shop or shops you wish to visit for their specific protocols, which could include requiring patrons wear face coverings and maintaining social distancing._**
 
-  
 Not all adventures take place outside! Shopping is one adventure that takes you into some eclectic businesses, including antique and kitchy shops, all over the Coos Bay, North Bend & Charleston area.
 
 Hunting for that special something or stumbling across a treasure you didn't even know you were looking for can make your next trip to Oregon's Adventure Coast, well, an Adventure you didn't expect!
@@ -27,8 +26,6 @@ Hunting for that special something or stumbling across a treasure you didn't eve
 In Coos Bay's Downtown area, here are a few places to stop in for unique shopping experiences: {{< link url="https://www.trufurnitureco.com" >}}Tru{{< /link >}}, {{< link url="https://www.facebook.com/atVintage101" >}}Vintage 101{{< /link >}}, {{< link url="https://www.facebook.com/TreehouseMall" >}}Leaf's Treehouse{{< /link >}}, {{< link url="https://www.facebook.com/Organic-Glass-Art-Gifts-159901224041236/" >}}Organic Glass Art & Gifts{{< /link >}}, {{< link url="https://katrinakathleens.com" >}}Katrina Kathleen's{{< /link >}} or [Canard Labs](https://www.canardlabs.com), Oregon Wine Cellars, {{< link url="https://checkerberrys.com" >}}Checkerberries{{< /link >}}, {{< link url="https://www.theartistloftgallery.com" >}}Artist Loft Gallery{{< /link >}}, [Sweet Street Candy & Popcorn](https://www.facebook.com/sweetstreetpopcornshop/), and so many more!
 
 The {{< link url="https://cooshistory.org/museum-store" >}}Coos History Museum Gift Shop{{< /link >}} provide visitors with a look at our history and culture. At our weekly {{< link url="https://www.facebook.com/CoosBayFarmersMarket" >}}Downtown Farmers Market{{< /link >}}, you can take home locally grown produce, handcrafted items, and lunch from the food court. More than 80 vendors take up 4 blocks of downtown every Wednesday, May to October, from 9am to 2pm.
-
-Rock hounds will find treasures at [Pacific Rim Abalone](https://www.facebook.com/pacificrimabalone/).
 
 And a visit to Coos Bay is not complete without a stop at {{< link url="http://cranberrysweets.com" >}}Cranberry Sweets{{< /link >}} for their unique take on cranberry candies and other delicious selections.
 {{< floatimage src="/img/walking-map-icon.png" float="left" alt="Downtown Walking Map Icon" size="100" >}}
