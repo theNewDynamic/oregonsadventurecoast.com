@@ -22,6 +22,8 @@ The low tides commonly found from Empire to Charleston make our region one of th
 
 ![](/img/clamming-collage.jpg)
 
+{{< spacer 40 >}}
+
 **Ready to give it a shot?**  Here are some more tips for first-time clammers:
 
 **1. Get your shellfish license.**
