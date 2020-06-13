@@ -28,7 +28,7 @@ The low tides commonly found from Empire to Charleston make our region one of th
 
 **1. Get your shellfish license.**
 
-<p class="bullet-para-indent">Clams can be harvested all year on our coast, but ODFW does require a license. <a href="https://myodfw.com/crabbing-clamming/licensing-info">Click here to get your license.</a>  
+<p class="bullet-para-indent">Clams can be harvested all year on our coast, but ODFW does require a license. <a href="https://myodfw.com/crabbing-clamming/licensing-info">Click here to get your license.</a>
 </p>
 
 **2. Wear waterproof boots (trust us).**
@@ -45,7 +45,7 @@ The low tides commonly found from Empire to Charleston make our region one of th
 
 **5. Keep track of how many clams you dig.**
 
-<p class="bullet-para-indent">You are allowed 20 bay clams per day in the aggregate, however, only 12 of which may be Gaper or Empire clams; again this is something someone at a local bait and tackle shop can help you with. Click here for [ODFW's Regulations Summary for Marine Shellfish](https://www.dfw.state.or.us/mrp/shellfish/regulations.asp).</p>
+<p class="bullet-para-indent">You are allowed 20 bay clams per day in the aggregate, however, only 12 of which may be Gaper or Empire clams; again this is something someone at a local bait and tackle shop can help you with. Click here for <a href="https://www.dfw.state.or.us/mrp/shellfish/regulations.asp">ODFW's Regulations Summary for Marine Shellfish.</a></p>
 
 **6. Watch these tutorials and learn from the pros!**
 
