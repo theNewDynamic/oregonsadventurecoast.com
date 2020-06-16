@@ -36,8 +36,8 @@ Here are some suggestions to help you stay healthy.
 * Practice social distancing of 6 feet when in small crowds.
 * STAY HOME AS MUCH AS POSSIBLE TO STOP THE SPREAD OF COVID-19
 
-We are closely monitoring the Coronavirus (COVID-19) pandemic as it relates to our state, our county and our destinations. **At this time, we have 29 confirmed cases, and two presumptive cases, in Coos County, a majority of those cases were associated with Shutter Creek Correctional Institution and have all been resolved.** 
+We are closely monitoring the Coronavirus (COVID-19) pandemic as it relates to our state, our county and our destinations. **At this time, we have 30 confirmed cases, and two presumptive cases, in Coos County, a majority of those cases were associated with Shutter Creek Correctional Institution and have all been resolved.**
 
 This situation continues to evolve with changes daily and there is a lot of uncertainty. We strongly encourage residents and travelers to always follow public health authorities’ recommendations above all else.
 
-**When you are ready to travel, we are ready to welcome you back where we have Adventures to Invigorate and Space to Spread Out!** 
+**When you are ready to travel, we are ready to welcome you back where we have Adventures to Invigorate and Space to Spread Out!**
