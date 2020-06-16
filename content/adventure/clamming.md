@@ -12,7 +12,7 @@ draft: true
 ---
 ### Clamming on Oregon's Adventure Coast
 
-{{< floatimage src="/img/crabbing-and-clamming.jpg" float="right" alt="Girl Clamming in " size="100" >}}
+{{< floatimage src="/img/crabbing-and-clamming.jpg" float="right" alt="Girl Clamming in " size="50" >}}
 
 If you’ve been anywhere along the Oregon Coast, you’ve probably heard a lot about clamming; but you might be wondering why it’s so popular among natives and visitors. Clamming is appealing to many Oregonians and visitors because it is relatively easy and the reward is a tasty treat best served in chowder, steamed or fried. There are no special skills required, no expensive equipment, and beginners can usually pick it up quite easily.
 
