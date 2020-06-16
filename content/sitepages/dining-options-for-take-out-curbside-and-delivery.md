@@ -12,11 +12,11 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 2:00pm PDT, June 10, 2020_**
+**_Updated 4:00pm PDT, June 16, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering NEW Dine-in service, take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
-#### Friday, May 15th, Coos County area restaurants allowed to re-open for dining as long as they can meet the new guidelines. We will try to note which restaurants are open for dine-in here, but encourage you to CALL before you go!
+#### Coos County has entered Phase II and area restaurants have been allowed to re-open for dining as long as they can meet the new guidelines. We will try to note which restaurants are open for dine-in here, but encourage you to CALL before you go!
 
 ###### {{< spacer 25 >}}
 
@@ -32,13 +32,11 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Abby’s Pizza**](https://abbys.com/) - CB - **Dine-in**, delivery and curbside togo orders only (541) 267-5839
 
-[**Alder Smokehouse**](https://www.facebook.com/thealdersmokehouse/) - NB - **Dine-in** or take-out of regular menu. Curbside pick up from 11-3. Call or Text (541) 756-9599
+[**Alder Smokehouse**](https://www.facebook.com/thealdersmokehouse/) - NB - Take-out of regular menu. Curbside pick up from 11-3. Call or Text (541) 756-9599
 
 [**Angelina’s Mexican Restaurant**](https://www.facebook.com/bestmexicanfoodintown/) - CB - Call ahead for ToGo orders (541) 808-9010
 
 [**Back Alley Pub & Grill**](https://www.facebook.com/BackAlleyPubAndGrill/) - NB - **Dine-in**, takeout food and wine! New online ordering and payment portal available: [https://northbendlanes.ordereze.net/](https://northbendlanes.ordereze.net/ "https://northbendlanes.ordereze.net/") 11am-9pm (541) 756-0572
-
-[**Bailey's Health Food Center Grab & Go Deli**](https://www.facebook.com/Baileys-Health-Food-Center-147228088639515/) - NB - curb side pick-up of call ahead orders (541) 756-3004
 
 [**Bay Burger Inn**](https://www.facebook.com/Bay-Burger-Inn-Praus-Haus-111732925528842/) - CB - Drive through or call in your order (541) 888-3688
 
@@ -48,7 +46,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Blue Heron Bistro**](http://www.blueheronbistro.net/) - CB - **Dine-in**, take-out, curbside and delivery of family style meals, dinner. New weekly menu items too. (541) 267-3933
 
-[**Blue Moon Saloon & Cafe**](https://www.facebook.com/bluemooncoosbay/) - CB - Open 7am to Midnight.
+[**Blue Moon Saloon & Cafe**](https://www.facebook.com/bluemooncoosbay/) - CB - **Dine-in**. Open 7am to Midnight.
 
 [**The Boat Fish & Chips**](https://www.facebook.com/pages/category/Fish---Chips-Restaurant/The-Boat-1658642967582777/) - CB - **Dine-in**, take-out or curbside pickup  Phone: (541) 808-9500
 
@@ -66,23 +64,25 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Captains Cabin**](https://www.facebook.com/Captains-Cabin-Bar-101307443269162/) - CB - **Dine-in** now available. (541) 267-7772
 
-[**Captain's Choice**](http://www.captainschoicefishhouse.com/) - NB - Order ahead and pick up in lobby or call when you arrive and they'll deliver to your car. Phone (541) 756-0125
+[**Captain's Choice**](http://www.captainschoicefishhouse.com/) - NB - **Dine-in** and take-out available. Phone (541) 756-0125
 
-[**Chan's Wok**](https://www.facebook.com/Chans-Wok-590674157672423/) - NB - Take-out from 11am-8pm. Call ahead (541) 751-0623
+[**Chan's Wok**](https://www.facebook.com/Chans-Wok-590674157672423/) - NB - **Dine-in** and take-out from 11am-8:30pm. Call ahead (541) 751-0623
 
 [**Ciccarelli's Restaurant**](https://www.facebook.com/Ciccarellis-Restaurant-1006325779561696/) - NB - **Dine-in** for dinner only , 4-close, Tuesday-Saturday, take-out of full menu still available. The Coffee Shop will be open from Tuesday-Saturday 9-3. (541) 751-1999
 
-[**City Subs**](https://www.facebook.com/CitySubs/) - CB - **Dine-in beginning June 1.** Take-out, Monday thru Saturday from 10 am to 4 pm. Call-In orders only. (541) 269-9000
+[**City Subs**](https://www.facebook.com/CitySubs/) - CB - **Dine-in** and take-out, Monday thru Saturday from 10 am to 4 pm. Call-In orders only. (541) 269-9000
 
 [**Clausen's Oysters**](https://www.facebook.com/ClausenOysters/) - NB - **Dine-in** and take-out deli items like chowder and all your oyster needs, 10am-4pm. (541) 756-3600
 
 [**Coach House Restaurant**](http://www.thecoachhousecoosbayor.com/) - CB - **Dine-in,** take-out with curbside pickup (541) 267-5116 from 11am-8pm (M-Sa) Closed Sunday (Temporarily)
 
-[**Coney Station**](https://www.facebook.com/ConeyStation/) - CB - **Dine-in**, take-out and curbside pickup of a limited menu, Tuesday through Saturday 11am-8pm. Seating is limited. (541) 269-6948
+[**Coney Station**](https://www.facebook.com/ConeyStation/) - CB - **Dine-in**, take-out and curbside pickup of a limited menu, Tuesday through Saturday 11am-8pm. Seating is limited. 21 & over, no family dining. (541) 269-6948
 
 [**Crabby Cakes Bakery**](https://www.facebook.com/Crabby-Cakes-Bakery-183368818480720/) - CH - **Dine-in** or take out Wed. thru Sun. 9am to 3pm. (541) 808-2388
 
-[**Darrell's Devils Food**](https://www.facebook.com/Chefdeezy) - CB - **Dine-in beginning June 1.** Take-out and curbside pickup Wednesday 9am-3pm (Farmers Market!); Thur, Fri 11am-3pm; Saturdays 8am-3pm. (541) 808-9666
+[**Darrell's Devils Food**](https://www.facebook.com/Chefdeezy) - CB - **Dine-in**, take-out and curbside pickup Wednesday 9am-3pm (Farmers Market!); Thur, Fri 11am-3pm; Saturdays 8am-3pm. (541) 808-9666
+
+**Dave’s Pizza** - CB - **Dine-in** 11am-9pm daily. No salad bar. [(541) 269-1010](https://www.google.com/search?q=dave%27s+pizza+coos+bay+oregon&oq=dave%27s+&aqs=chrome.0.69i59j69i57j0l3j69i61j69i60j69i61.1834j0j7&sourceid=chrome&ie=UTF-8#)
 
 [**Dishner's Restaurant**](https://www.facebook.com/Dishners2881/) - NB - **Dine-in** or take-out of their  full menu. Phone: (541) 756-2881
 
@@ -90,7 +90,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**El Coyote Mexican Restaurant**](https://www.facebook.com/El-Coyote-Mexican-Restaurant-104827981227108/) - NB - **Dine-in** and take-out only of their full menu (541) 808-0177
 
-[**El Guadalajara**](https://www.facebook.com/El-Guadalajara-resturant-138025569587712/) - NB - **Dine-in beginning May 29.** Take-out of regular menu. Call to order (541) 756-3030
+[**El Guadalajara**](https://www.facebook.com/El-Guadalajara-resturant-138025569587712/) - NB - **Dine-in** and take-out of regular menu. Call to order (541) 756-3030
 
 [**Elkhorn BBQ Food Truck**](https://www.facebook.com/elkhornbbq/) - CB - Check Facebook for daily location, usually at the Coos Bay Fast Mart (541) 297-0581
 
@@ -106,11 +106,11 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Gino's Pizza**](https://ginospizzainn.com/) - NB - **Dine-in**, plus curbside pickup & take-out still available. Phone: (541) 756-5000
 
-[**Gooney’s**](https://www.gooneyssportsbar.com/) - CB - Dine-in and patio seating. (541) 266-8815
+[**Gooney’s**](https://www.gooneyssportsbar.com/) - CB - **Dine-in** and patio seating. (541) 266-8815
 
 [**Green Street Organic Juice Bar**](https://www.facebook.com/GreenStreetJuice/) - CB - Take-out and curbside pickup is available. (541) 808-0475
 
-[**High Tide**](https://www.facebook.com/HighTideCafeOregon/) - CH - **Dine-in** starting Friday May 22nd. For this weekend, Friday-Monday 11am-5pm, then beginning May 27th Wednesday-Sunday Noon-7pm.
+[**High Tide**](https://www.facebook.com/HighTideCafeOregon/) - CH - **Dine-in.** Friday-Monday 11am-5pm, then beginning May 27th Wednesday-Sunday Noon-7pm. Call ahead (541) 888-3664
 
 [**Hilltop House Restaurant**](https://www.facebook.com/Hilltop-House-243331465858022/) - NB - **Dine-in**. Reservations highly recommended! (541) 756-4160
 
@@ -120,7 +120,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Kozy Kitchen**](https://www.facebook.com/Kozykitchendiners/) - NB - **Dine-in,** take-out, curbside pickup of Ready to Go meals, and Delivery service within 5 mile radius for $5 fee. See their Facebook page for more information and call in your order (541) 756-1214
 
-[**Kum-Yons**](http://kumyonscoosbay.com/index.html) - CB - Take-out available from 11am-8:30pm for call ahead orders (541) 269-2662
+[**Kum-Yons**](http://kumyonscoosbay.com/index.html) - CB - **Dine-in** and take-out available from 11am-8:30pm for call ahead orders (541) 269-2662
 
 [**La Herradura**](https://www.facebook.com/La-Herradura-Mexican-Restaurant-632773200099437/) - NB - **Dine-in,** take-out and delivery available on regular menu (541) 756-0906
 
@@ -134,15 +134,17 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Los Dos Amigos**](https://www.facebook.com/LosDosAmigosNorthBend/) - NB - **Dine-in** or curbside pickup of a special menu with Free delivery for orders over $20. Margaritas, Daiquiris & Mojitos, too! Call (541) 756-4799
 
-[**Lucky Star**](https://www.facebook.com/Lucky-Star-120151947996876/) - NB - **Dine-in** **beginning June 2**. Take-out and delivery of regular menu 11am-9pm. Phone orders at (541) 751-9526 or online ordering at [www.luckystarnorthbend.com](http://www.luckystarnorthbend.com/?fbclid=IwAR1SCzjU4VwY8GOfYXEfac0dqmY5gL4sAiWdekhzRVcbiPH7qshENaSsrqQ)
+[**Lucky Star**](https://www.facebook.com/Lucky-Star-120151947996876/) - NB - **Dine-in** and take-out and delivery of regular menu 11am-9pm. Phone orders at (541) 751-9526 or online ordering at [www.luckystarnorthbend.com](http://www.luckystarnorthbend.com/?fbclid=IwAR1SCzjU4VwY8GOfYXEfac0dqmY5gL4sAiWdekhzRVcbiPH7qshENaSsrqQ)
 
 [**Luigi’s**](https://www.facebook.com/Luigis-Italian-Sandwiches-140543963550/) - CB - Take-out only with call ahead order (541) 888-9407
 
-[**Maria’s Authentic Mexican**](https://www.facebook.com/Marias-Authentic-Mexican-Restaurant-217216079032178/) - NB - Delivery and curbside service available (541) 808-9580
+[**Maria’s Authentic Mexican**](https://www.facebook.com/Marias-Authentic-Mexican-Restaurant-217216079032178/) - NB - **Dine-in**, take-out and curbside service available (541) 808-9580
 
-[**Margarita’s Mexican Grill**](https://www.facebook.com/Margaritas-mexican-grill-209792999040540/) - CB - Order by phone and pick up through Drive Thru Window of regular menu. (541) 267-5480
+[**Margarita’s Mexican Grill**](https://www.facebook.com/Margaritas-mexican-grill-209792999040540/) - CB - **Dine-in** or order by phone and pick up through Drive Thru Window of regular menu. (541) 267-5480
 
 [**Mean Street Sandwiches**](https://www.facebook.com/MeanStreetCoosBay/) - CB - Take-out and curbside pickup is available. (541) 808-9263
+
+[**Millers at the Cove**](https://www.millersatthecove.rocks/) - CH - Will open June 25th for Take-out, and July 1st for Dine-in. More info soon. (541)808-2404
 
 **Mom's Kitchen** - NB - Take-out with call ahead order, 6am-2pm. (541) 756-2710
 
@@ -186,11 +188,13 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Tai’s Dynasty**](http://taidynasty.com/) - NB -  **Dine-in** and take-out of the Chinese menu only, 11am-8pm daily (541) 756-3475
 
-[**Timbers at The Mill**](https://www.themillcasino.com/update-on-our-response-to-covid-19/) - NB - Take-out from Timbers Cafe with social distancing dining in the Saw Blade Buffet or Warehouse 101. (541) 756-8800
+[**Timbers at The Mill**](https://www.themillcasino.com/update-on-our-response-to-covid-19/) **& Warehouse 101** - NB - Take-out from Timbers Cafe with social distancing dining in the Saw Blade Buffet or Warehouse 101. (541) 756-8800
 
 [**Tin Thistle**](https://www.facebook.com/thetinthistlecafe/) - NB - **Dine-in,** take-out, curbside pick up of full menu (541) 267-0267
 
-[**Tokyo Bistro**](https://www.tokyocoosbay.com/) - CB - Curbside pickup available. (541) 808-0808
+[**Tiny's Tavern**](https://www.facebook.com/tinystavernofnorthbend) - NB - **Dine-in** Noon to Midnight daily. [(541) 756-7675](https://www.google.com/search?sxsrf=ALeKk027amXnbqf1Ij4HXTiMHbTg6V2Jgg%3A1592345935974&ei=T0XpXvrtOsux0PEPgcin2Ag&q=tiny+tavern+north+ben&oq=tiny+tavern+north+ben&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeMgIIJjoECCMQJzoICAAQsQMQkQI6BQgAEJECOgUIABCxAzoICAAQsQMQiwM6BQgAEIsDOgQIABBDOgcIABCxAxBDOgcIABBDEIsDOgcIABAUEIcCOgIIADoFCAAQgwE6BAgAEAo6CggAEBQQhwIQiwM6CAgAEIMBEIsDOgcIABAKEIsDOggIABAWEAoQHlCS4x9YuYwgYMGOIGgDcAB4AIABnwGIAa8UkgEENS4xOZgBAKABAaoBB2d3cy13aXq4AQI&sclient=psy-ab&ved=0ahUKEwi60f3urofqAhXLGDQIHQHkCYsQ4dUDCAw&uact=5#)
+
+[**Tokyo Bistro**](https://www.tokyocoosbay.com/) - CB - **Dine-in** and take-out available. (541) 808-0808
 
 [**Top Dog Espresso**](https://www.facebook.com/TopDogCoffeeCompany) - NB - Drive thru and curbside delivery. Limited outside seating. Call ahead (541) 808-3200 for quick service
 
@@ -206,15 +210,9 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 **Aromas**, North Bend  
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
-**Dave’s Pizza**, Coos Bay  
-**Grounds Cafe**, in Books by the Bay, North Bend  
 **Humboldt Club**, North Bend  
 **Lucky Dragon Buffet**, North Bend  
-**Millers at the Cove**, Charleston  
 **Outdoor-In**, Coos Bay  
-**Saw Blade Buffet, Plankhouse, Whitecaps, Warehouse 101** at The Mill Casino Hotel & RV Park, North Bend  
+**Saw Blade Buffet, Plankhouse, Whitecaps** at The Mill Casino Hotel & RV Park, North Bend  
 **Sizzler**, North Bend  
-**Tiny's Tavern**, North Bend  
 **Wildflour Cafe**, North Bend
-
-**_Please remember that these establishments cannot serve you anywhere on their premises - decks, patios, parking lots - they can only serve to go orders to be taken away from the business to be consumed. - OLCC_**
