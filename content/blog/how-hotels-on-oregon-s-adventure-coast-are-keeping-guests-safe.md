@@ -18,7 +18,6 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-draft: true
 
 ---
 **What Travelers Can Expect As We Reopen Oregon’s Adventure Coast**  
