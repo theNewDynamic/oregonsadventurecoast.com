@@ -16,7 +16,8 @@ tags:
 - Take Out and Delivery
 - Dining
 - Food and Drink
-categories: []
+categories:
+- Eat Drink
 seo:
   title: ''
   description: ''
