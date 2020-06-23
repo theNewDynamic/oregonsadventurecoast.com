@@ -1,7 +1,8 @@
 ---
 title: How Hotels on Oregon’s Adventure Coast Are Keeping Guests Safe
 date: 2020-06-23T04:00:00+00:00
-description: ''
+description: Local hotels are going above and beyond to ensure the safety of their
+  guests.
 image: "/img/hotels_oregoncoast_blog_695x322.jpg"
 tags:
 - Oregon's Adventure Coast
