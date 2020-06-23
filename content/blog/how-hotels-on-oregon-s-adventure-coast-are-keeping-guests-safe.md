@@ -11,7 +11,8 @@ tags:
 - Hotel Guest Safety
 - 'Oregon Travel '
 - 'Phase Two Reopening '
-categories: []
+categories:
+- Hotel
 seo:
   title: ''
   description: ''
