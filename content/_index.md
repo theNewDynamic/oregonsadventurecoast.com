@@ -52,13 +52,13 @@ masonry4:
   mobiletitle: Museums & History
   url: "/art-history-culture/"
 masonry5:
-  desktopphoto: "/img/girlfriends-getaway-masonry-right.jpg"
-  desktoptitle: Girlfriends Getaway
-  hoverdescription: The best Girlfriends Getaway on the Oregon Coast!
-  hovertitle: Turbo Charged - Zen Inspired
-  mobilephoto: "/img/girlfriends-getaway-mobile.jpg"
-  mobiletitle: Girlfriends Getaway
-  url: "/girlfriends/"
+  desktopphoto: "/img/fishing-masonry-right.jpg"
+  desktoptitle: Fishing
+  hoverdescription: Fresh water and deep sea fishing opportunities year 'round.
+  hovertitle: What Lies Beneath
+  mobilephoto: "/img/fishing-masonry-mobile-345x160-1.jpg"
+  mobiletitle: Fishing
+  url: "/fishing"
 masonry6:
   desktopphoto: "/img/couple-shopping-desktop.jpg"
   desktoptitle: Shopping
