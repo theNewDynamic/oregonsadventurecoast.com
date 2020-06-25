@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 4:00pm PDT, June 16, 2020_**
+**_Updated 12:00pm PDT, June 25, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering NEW Dine-in service, take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -144,7 +144,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Mean Street Sandwiches**](https://www.facebook.com/MeanStreetCoosBay/) - CB - Take-out and curbside pickup is available. (541) 808-9263
 
-[**Millers at the Cove**](https://www.millersatthecove.rocks/) - CH - Will open June 25th for Take-out, and July 1st for Dine-in. More info soon. (541)808-2404
+[**Millers at the Cove**](https://www.millersatthecove.rocks/) - CH - Will open June 26th for Take-out, and July 1st for Dine-in. More info soon. (541)808-2404
 
 **Mom's Kitchen** - NB - Take-out with call ahead order, 6am-2pm. (541) 756-2710
 
