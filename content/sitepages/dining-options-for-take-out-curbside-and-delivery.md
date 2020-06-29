@@ -114,6 +114,8 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Hilltop House Restaurant**](https://www.facebook.com/Hilltop-House-243331465858022/) - NB - **Dine-in**. Reservations highly recommended! (541) 756-4160
 
+[**Humboldt Club**](https://www.facebook.com/humboldtclub/) - NB - **Dine-in**  Mon-Thur 8:30am-Midnight, Fri-Sun 9am-Midnight (541) 756-6314
+
 [**Kaffe 101**](http://kaffe101.com/)- CB - **Dine-in**, take-out and curbside pickup of regular food and beverage menu. 8am-4pm For curbside pickup, call ahead (541) 267-4894
 
 [**Kim's Oriental Market**](https://www.restaurantji.com/or/coos-bay/kims-oriental-market-/) - CB - Take-out of small menu of items. Phone: (541) 267-0488
@@ -210,7 +212,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 **Aromas**, North Bend  
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
-**Humboldt Club**, North Bend  
 **Lucky Dragon Buffet**, North Bend  
 **Outdoor-In**, Coos Bay  
 **Saw Blade Buffet, Plankhouse, Whitecaps** at The Mill Casino Hotel & RV Park, North Bend  
