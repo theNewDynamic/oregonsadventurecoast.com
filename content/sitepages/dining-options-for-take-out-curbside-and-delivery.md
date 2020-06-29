@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 12:00pm PDT, June 25, 2020_**
+**_Updated 2:00pm PDT, June 29, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering NEW Dine-in service, take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -98,7 +98,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**E Z Thai**](https://www.ez-thai.com/) - CB - Take-out during its normal business hours (541) 267-8404
 
-[**Fisherman's Grotto**](https://www.facebook.com/Fishermans-Grotto-162321840503126/) - CH - **Dine-in** or take-out on Friday Saturday And Sundays! 11a -7p  (541) 888-3251
+[**Fisherman's Grotto**](https://www.facebook.com/Fishermans-Grotto-162321840503126/) - CH - **Dine-in** or take-out daily 11a -7p  (541) 888-3251
 
 [**Fishermen's Seafood Market**](https://www.facebook.com/fishermensseafoodmarket/) - CB - **Dine-in** with very LIMITED seating and take-out Tuesday through Saturday 10:30am to 7:00pm. (541) 267-2722
 
