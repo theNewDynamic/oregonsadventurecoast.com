@@ -120,7 +120,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Kim's Oriental Market**](https://www.restaurantji.com/or/coos-bay/kims-oriental-market-/) - CB - Take-out of small menu of items. Phone: (541) 267-0488
 
-[**Kozy Kitchen**](https://www.facebook.com/Kozykitchendiners/) - NB - **Dine-in,** take-out, curbside pickup of Ready to Go meals, and Delivery service within 5 mile radius for $5 fee. See their Facebook page for more information and call in your order (541) 756-1214
+[**Kozy Kitchen**](https://www.facebook.com/Kozykitchendiners/) - NB - **Dine-in,** take-out, curbside pickup of Ready to Go meals, and Delivery service within 5 mile radius for $5 fee. (541) 756-1214
 
 [**Kum-Yons**](http://kumyonscoosbay.com/index.html) - CB - **Dine-in** and take-out available from 11am-8:30pm for call ahead orders (541) 269-2662
 
