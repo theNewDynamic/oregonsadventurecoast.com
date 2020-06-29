@@ -110,7 +110,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Green Street Organic Juice Bar**](https://www.facebook.com/GreenStreetJuice/) - CB - Take-out and curbside pickup is available. (541) 808-0475
 
-[**High Tide**](https://www.facebook.com/HighTideCafeOregon/) - CH - **Dine-in.** Friday-Monday 11am-5pm, then beginning May 27th Wednesday-Sunday Noon-7pm. Call ahead (541) 888-3664
+[**High Tide**](https://www.facebook.com/HighTideCafeOregon/) - CH - **Dine-in.** Wednesday-Sunday 11am-5pm. Call ahead (541) 888-3664
 
 [**Hilltop House Restaurant**](https://www.facebook.com/Hilltop-House-243331465858022/) - NB - **Dine-in**. Reservations highly recommended! (541) 756-4160
 
