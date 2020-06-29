@@ -57,10 +57,13 @@ The low tides commonly found from Empire to Charleston make our region one of th
 
 ### Where to Clam in Coos Bay
 
+{{< spacer 20 >}}
+
 {{< columns number="2" >}}
 
-![](/img/lower-coos-bay-clamming-header.jpg)
-**Lower Coos Bay - Map & Species**
+![](/img/lower-coos-bay-clamming-header.jpg) 
+
+**<br>Lower Coos Bay - Map & Species**
 
 The lower bay (areas from the ocean entrance to the airport) is “marine dominated”, meaning there is little freshwater influence, and offers some of Oregon’s most productive shellfishing opportunities.
 
