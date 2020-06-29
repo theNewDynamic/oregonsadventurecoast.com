@@ -55,6 +55,24 @@ The low tides commonly found from Empire to Charleston make our region one of th
 
 {{< spacer 50 >}}
 
+### Where to Clam in Coos Bay
+
+{{< columns number="2" >}}
+
+![](/img/lower-coos-bay-clamming-header.jpg)
+**Lower Coos Bay - Map & Species**
+
+The lower bay (areas from the ocean entrance to the airport) is “marine dominated”, meaning there is little freshwater influence, and offers some of Oregon’s most productive shellfishing opportunities.
+\++++
+
+![](/img/charleston-clamming-header.jpg)
+**Charleston Area - Map & Species**
+
+Clamming in Charleston is excellent throughout and access is easy. Rental shops are close by to help those new to clamming, gather the right gear and find the best spots.
+{{< /columns >}}
+
+{{< spacer 50 >}}
+
 ### Explore Crabbing & Fishing!<br>
 
 <div class="trip-idea-thumbnail"> <img src="/img/thumbnail-crabbing-4px-line.jpg" alt="Crabbing on the Oregon's Adventure Coast"></div>
