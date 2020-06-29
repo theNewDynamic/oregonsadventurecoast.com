@@ -67,7 +67,7 @@ The low tides commonly found from Empire to Charleston make our region one of th
 
 The lower bay (areas from the ocean entrance to the airport) is “marine dominated”, meaning there is little freshwater influence, and offers some of Oregon’s most productive shellfishing opportunities.
 
-<a href="/img/clamming-locations-map-06-20.pdf" class="learn-more-anywhere-btn">Download Map »</a> ++++
+<a href="/img/clamming-map-lower-coos-bay-06-20.pdf" class="learn-more-anywhere-btn">Download Map »</a> ++++
 
 ![](/img/charleston-clamming-header.jpg)
 
@@ -75,7 +75,7 @@ The lower bay (areas from the ocean entrance to the airport) is “marine domina
 
 Clamming in Charleston is excellent throughout and access is easy. Rental shops are close by to help those new to clamming, gather the right gear and find the best spots.
 
-<a href="/img/clammingmap-charleston-06-20.pdf" class="learn-more-anywhere-btn">Download Map »</a>
+<a href="/img/clamming-map-charleston-06-20.pdf" class="learn-more-anywhere-btn">Download Map »</a>
 
 {{< /columns >}}
 
