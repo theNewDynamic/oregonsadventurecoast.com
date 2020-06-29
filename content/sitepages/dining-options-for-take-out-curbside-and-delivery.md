@@ -140,7 +140,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Luigi’s**](https://www.facebook.com/Luigis-Italian-Sandwiches-140543963550/) - CB - Take-out only with call ahead order (541) 888-9407
 
-[**Maria’s Authentic Mexican**](https://www.facebook.com/Marias-Authentic-Mexican-Restaurant-217216079032178/) - NB - **Dine-in**, take-out and curbside service available (541) 808-9580
+[**Maria’s Authentic Mexican**](https://www.facebook.com/Marias-Authentic-Mexican-Restaurant-217216079032178/) - NB - **Dine-in** opening on July 3rd with a new menu, take-out and curbside service available (541) 808-9580
 
 [**Margarita’s Mexican Grill**](https://www.facebook.com/Margaritas-mexican-grill-209792999040540/) - CB - **Dine-in** or order by phone and pick up through Drive Thru Window of regular menu. (541) 267-5480
 
@@ -168,7 +168,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - CB - **Dine-in** and take-out of regular menu, discounts available. (541) 266-9311
 
-**Puerto Vallarta** - CB - **Dine-in** and take-Out available. (541) 269-0919
+[**Puerto Vallarta**](http://oregonpuertovallarta.com/) - CB - **Dine-in** and take-Out available. (541) 269-0919
 
 [**Restaurant O**](https://www.facebook.com/RestaurantO/) - CB - **Dine-in -** see their [Facebook page](https://www.facebook.com/RestaurantO/) for new restrictions. Take-out of a limited menu from lunch and dinner plus Free delivery on orders of $25 or more within Coos Bay, North Bend & Empire - 12-8p Tues-Sun. 20% discount on Pick Up orders over $20. Phone: (541) 808-9300
 
