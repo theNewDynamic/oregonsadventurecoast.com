@@ -75,7 +75,7 @@ The lower bay (areas from the ocean entrance to the airport) is “marine domina
 
 Clamming in Charleston is excellent throughout and access is easy. Rental shops are close by to help those new to clamming, gather the right gear and find the best spots.
 
-<a href="https://www.oregonsadventurecoast.com/img/Oregon-Coast-Visitor-Guide.pdf")" class="learn-more-anywhere-btn">Download Map »</a>
+<a href="/img/clammingmap-charleston-06-20.pdf" class="learn-more-anywhere-btn">Download Map »</a>
 
 {{< /columns >}}
 
