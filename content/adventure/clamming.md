@@ -41,13 +41,13 @@ The low tides commonly found from Empire to Charleston make our region one of th
 
 **4. Go to a bait and tackle shop before you head out.**
 
-<p class="bullet-para-indent">Some of the best advice you will receive will probably come from one of the fishing experts at one of our\[ local bait and tackle stores\](/equipment-rent-and-buy). They can tell you when the best time of day to dig would be based on the tides. They can also help you make sure you have the right equipment- a bucket, a shovel (can be rented or borrowed) and/or a tube a.k.a. a “clam gun”.</p>
+<p class="bullet-para-indent">Some of the best advice you will receive will probably come from one of the fishing experts at one of our [local bait and tackle stores](/equipment-rent-and-buy/). They can tell you when the best time of day to dig would be based on the tides. They can also help you make sure you have the right equipment- a bucket, a shovel (can be rented or borrowed) and/or a tube a.k.a. a “clam gun”.</p>
 
 **5. Keep track of how many clams you dig.**
 
 <p class="bullet-para-indent">You are allowed 20 bay clams per day in the aggregate, however, only 12 of which may be Gaper or Empire clams; again this is something someone at a local bait and tackle shop can help you with. <a href="https://www.dfw.state.or.us/mrp/shellfish/regulations.asp">Click here for ODFW's Regulations Summary for Marine Shellfish.</a></p>
 
-**6. Watch these tutorials and learn from the pros!**
+**6. Watch this tutorial and learn from the pros!**
 
 <p class="bullet-para-indent">Watch this video to learn the basics of digging:</p>
 
