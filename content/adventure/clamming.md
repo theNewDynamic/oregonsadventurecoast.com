@@ -16,7 +16,7 @@ draft: true
 
 If you’ve been anywhere along the Oregon Coast, you’ve probably heard a lot about clamming; but you might be wondering why it’s so popular among natives and visitors. Clamming is appealing to many Oregonians and visitors because it is relatively easy and the reward is a tasty treat best served in chowder, steamed or fried. There are no special skills required, no expensive equipment, and beginners can usually pick it up quite easily.
 
-The low tides commonly found from Empire to Charleston make our region one of the top destinations for clam digging. Local bait & tackle shops are usually the best resource for first (and second, third, fourth) time clammers and can usually advise on conditions, regulations, equipment, etc. Some businesses, like [Basin Tackle](http://www.basintackle.com) on Kingfisher Rd in Charleston, even offer classes on how to use a clam pump and clean the clams (they even share secret recipes!
+The low tides commonly found from Empire to Charleston make our region one of the top destinations for clam digging. Local bait & tackle shops are usually the best resource for first (and second, third, fourth) time clammers and can usually advise on conditions, regulations, equipment, etc. Some businesses, like [Basin Tackle](http://www.basintackle.com) on Kingfisher Rd in Charleston, even offer classes on how to use a clam pump and clean the clams (they even share secret recipes)!
 
 {{< spacer 40 >}}
 
@@ -61,7 +61,7 @@ The low tides commonly found from Empire to Charleston make our region one of th
 
 {{< columns number="2" >}}
 
-![](/img/lower-coos-bay-clamming-header.jpg) 
+![](/img/lower-coos-bay-clamming-header.jpg)
 
 **Lower Coos Bay - Map & Species**
 
