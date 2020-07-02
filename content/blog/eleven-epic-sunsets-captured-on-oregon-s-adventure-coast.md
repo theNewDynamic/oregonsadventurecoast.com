@@ -1,12 +1,21 @@
 ---
-title: Eleven Epic Sunsets Captured on Oregon’s Adventure Coast
+title: 'Eleven Sunset Instagram Images That Blow Your Mind '
 date: 2020-07-22T04:00:00+00:00
 description: 'Every sunset is unique, but there is something especially remarkable
   about the sunsets here on Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston.
   Here''s a look at some of our favorite sunset images. '
-image: ''
-tags: []
-categories: []
+image: "/img/cape-arago-blog-695x322.png"
+tags:
+- Oregon's Adventure Coast
+- " Coos Bay"
+- North Bend
+- Charleston Oregon
+- Cape Arago
+- Ocean
+- Sunsets
+- Photography
+categories:
+- Miscellaneous
 seo:
   title: ''
   description: ''
@@ -14,7 +23,6 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-draft: true
 
 ---
 Everyone loves a beautiful sunset, what’s not to love? There is something so humbling and inspiring about looking to the horizon and seeing the marvelous display of nature’s artwork with a variety of shades of pink, orange, blue, white and colors that don’t even have a name yet.
