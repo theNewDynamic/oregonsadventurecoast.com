@@ -1,7 +1,7 @@
 ---
 title: 'Ready. Set. Adventure! What Travelers Can Expect As We Reopen Oregon’s Adventure
   Coast '
-date: 2020-06-16T04:00:00+00:00
+date: 2020-06-16T04:00:00.000+00:00
 description: As Oregon’s Adventure Coast begins to carefully reopen, it’s important
   that visitors make informed decisions and prepare themselves for our “now normal”
   (because this won’t be forever!). Here are some answers to questions you may have
@@ -36,7 +36,7 @@ As Oregon’s Adventure Coast begins to carefully reopen, it’s important that 
 
 **What’s Open?** The Visitors Information Centers in Coos Bay, North Bend & Charleston re-opened last week under some strict protocols to keep volunteers, patrons and staff safe. Our volunteers are on hand to help you find things to see and do while you are here.
 
-**Retail Stores, Boutiques, Antique Stores and Galleries.** Many of our [local retail stores and boutiques](https://www.oregonsadventurecoast.com/shopping/) have opened with stringent cleaning and social distancing protocols still in effect. Most are offering shoppers hand sanitizer to use when they enter and ask that face masks be worn to help protect employees and customers from the virus. Please check with the shop or shops you wish to visit for their specific protocols,
+**Retail Stores, Boutiques, Antique Stores and Galleries.** Many of our [local retail stores and boutiques](https://www.oregonsadventurecoast.com/shopping/) have opened with stringent cleaning and social distancing protocols still in effect. Most are offering shoppers hand sanitizer to use when they enter and ask that face masks be worn to help protect employees and customers from the virus. Please check with the shop or shops you wish to visit for their specific protocols.
 
 **Restaurants and Bars.** Many [restaurants in Coos Bay/North Bend and Charleston](https://www.oregonsadventurecoast.com/dining/) are still offering delivery, pick-up and curbside service. But some have [opened their dining](https://www.oregonsadventurecoast.com/dining-options-takeout/) areas at reduced capacity by changing the layout to maintain physical distancing requirements and have implemented enhanced food safety and sanitation procedures. Self-service operations and pre-set tableware are prohibited under Phase Two guidelines. Please keep in mind that some businesses may have additional requirements of customers, such as face masks. Please be sure to contact the restaurant you wish to visit in advance to confirm hours and new rules.
 
