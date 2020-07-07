@@ -18,6 +18,8 @@ _Updated at 2:00pm, July 2, 2020_
 
 #### As of July 1, 2020, [face coverings are now mandatory](https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36869) for all when inside a public space.
 
+###### {{< spacer 25 >}}
+
 ##### **Coos County has moved into Phase 2 Re-Opening as of June 6, 2020.** [Read More Here!](/blog/ready.set.adventure-what-travelers-can-expect-as-we-reopen-oregon-s-adventure-coast/)  And [Here!](/blog/how-hotels-on-oregon-s-adventure-coast-are-keeping-guests-safe/)
 
 This means some restaurants are now open for dine-in with restrictions and retail businesses are now able to re-open with certain protocols. Please be mindful of others when out in public. We encourage you to wear a mask when in public and to keep a 6 foot distance from others whenever possible. **Please call ahead before going to a shop or restaurant to ensure the business is open!**
