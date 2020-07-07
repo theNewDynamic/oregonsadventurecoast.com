@@ -5,7 +5,7 @@ description: Summer is here on Oregon’s Adventure Coast, but things are a litt
   this year. However, you can still celebrate summer with us and stay safe while social
   distancing! Here are some local (secret) tips of the best spots to social distance
   yourself on Oregon’s Adventure Coast.
-image: "/img/untitled-design-20.png"
+image: "/img/social-distance-couple-on-beach-695x322.jpg"
 tags:
 - social distancing
 - " cape arago loop trail"
