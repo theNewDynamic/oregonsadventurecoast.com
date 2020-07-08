@@ -33,7 +33,7 @@ Here are a few tips we want to share from the [Oregon Department of Fish and Wil
 
 {{< columns number="2" >}}
 
-![](/img/lower-coos-bay-clamming-header.jpg)
+![Lower Coos Bay Crabbing Map](/img/lower-coos-bay-crabbing-header.jpg)
 
 **Lower Coos Bay - Map & Species**
 
@@ -41,7 +41,7 @@ The lower bay (areas from the ocean entrance to the airport) is “marine domina
 
 <a href="/img/clamming-map-lower-coos-bay-06-20.pdf" class="learn-more-anywhere-btn">Download Map »</a> ++++
 
-![](/img/charleston-clamming-header.jpg)
+![Charleston Crabbing Map](/img/charleston-crabbing-header.jpg)
 
 **Charleston Area - Map & Species**
 
