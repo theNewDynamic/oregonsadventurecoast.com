@@ -37,13 +37,9 @@ Here are a few tips we want to share from the [Oregon Department of Fish and Wil
 
 **Lower Coos Bay - Map**
 
-[crabbingmap-lowercoosbay-07-20.indd](/img/crabbingmap-lowercoosbay-07-20.indd "crabbingmap-lowercoosbay-07-20.indd")
-
-[crabbingmap-charleston-07-20.indd](/img/crabbingmap-charleston-07-20.indd "crabbingmap-charleston-07-20.indd")
-
 The lower bay (areas from the ocean entrance to the airport) is “marine dominated”, meaning there is little freshwater influence, and offers some of Oregon’s most productive shellfishing opportunities.
 
-<a href="/img/clamming-map-lower-coos-bay-06-20.pdf" class="learn-more-anywhere-btn">Download Map »</a> ++++
+<a href="/img/crabbingmap-lowercoosbay-07-20.pdf" class="learn-more-anywhere-btn">Download Map »</a> ++++
 
 ![Charleston Crabbing Map](/img/charleston-crabbing-header.jpg)
 
@@ -51,7 +47,7 @@ The lower bay (areas from the ocean entrance to the airport) is “marine domina
 
 Dock crabbing is available throughout the commercial docks in Charleston. Additionally, the Charleston Visitor Center and the T-docks South of the bridge provide excellent dock crabbing.
 
-<a href="/img/clamming-map-charleston-06-20.pdf" class="learn-more-anywhere-btn">Download Map »</a>
+<a href="/img/crabbingmap-charleston-07-20.pdf" class="learn-more-anywhere-btn">Download Map »</a>
 
 {{< /columns >}}
 
