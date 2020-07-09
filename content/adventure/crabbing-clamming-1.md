@@ -37,7 +37,7 @@ Here are a few tips we want to share from the [Oregon Department of Fish and Wil
 
 **Lower Coos Bay - Map**
 
-The lower bay (areas from the ocean entrance to the airport) is “marine dominated”, meaning there is little freshwater influence, and offers some of Oregon’s most productive shellfishing opportunities.
+The lower bay (from ocean entrance to the airport) is “marine dominated”, meaning there is little freshwater influence, and offers some of Oregon’s most productive shellfishing opportunities.
 
 <a href="/img/crabbingmap-lowercoosbay-07-20.pdf" class="learn-more-anywhere-btn">Download Map »</a> ++++
 
