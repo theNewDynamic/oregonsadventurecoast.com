@@ -55,6 +55,14 @@ sections:
   templates:
   - trip-ideas
 - type: directory
+  path: content/store
+  label: Shopping
+  create: all
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - store
+- type: directory
   path: content/lodgingitems
   label: Lodgings
   create: all
