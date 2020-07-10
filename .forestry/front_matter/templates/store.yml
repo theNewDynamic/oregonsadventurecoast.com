@@ -19,6 +19,7 @@ fields:
     options:
     - Antiques
     - Arts & Crafts
+    - Bookstores
     - Boutique
     - Clothing
     - Florist
@@ -31,6 +32,7 @@ fields:
     - Resale
     - Shoes
     - Souvenirs
+    - Specialty Foods
     - Sporting Goods
     - Vitamins
     - Liquor Stores/ Growler Fills
