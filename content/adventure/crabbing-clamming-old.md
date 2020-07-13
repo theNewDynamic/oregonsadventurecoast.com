@@ -1,6 +1,6 @@
 ---
 title: Crabbing & Clamming
-url: "/crabbing-clamming"
+url: "/crabbing-clamming-old"
 photo: "/img/adventures-crabbing.jpg"
 seo:
   description: No vacation to the Oregon Coast is complete without outdoor activities
