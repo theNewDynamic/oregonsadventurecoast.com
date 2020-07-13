@@ -7,7 +7,6 @@ seo:
     like crabbing and clamming! Rent crab rings and learn our tips and tricks!
   title: Oregon Coast Outdoor Activities - Crabbing/Clamming | Oregon's Adventure
     Coast
-draft: true
 
 ---
 ### Clamming on Oregon's Adventure Coast
