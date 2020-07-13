@@ -24,7 +24,7 @@ Plan your next getaway with your girlfriends, at Oregon’s Adventure Coast for 
 
 Indoors, we have [shopping](/shopping), [museums](/art-history-culture), [great restaurants](/dining), [entertainment](/entertainment-and-nightlife) and [casino-style gaming](/gaming), all set in one of the most beautiful, rugged and diverse coastal settings.
 
-And with a year-round temperate climate, outdoor adventures are always part of the trip. [Hiking](/hiking-walking), [crabbing and clamming](/crabbing-clamming), [surfing](/water-recreation), [beach combing](/undeveloped-beaches), [ATV’ing](/atv-motorsports), [cycling](/cycling), [storm watching](/storm-watching), [scenic drives](/scenic-drives), are just a few ways to enjoy the great outdoors while you and your girlfriends create lifetime memories.
+And with a year-round temperate climate, outdoor adventures are always part of the trip. [Hiking](/hiking-walking), [crabbing](/crabbing-clamming) and [clamming](/clamming), [surfing](/water-recreation), [beach combing](/undeveloped-beaches), [ATV’ing](/atv-motorsports), [cycling](/cycling), [storm watching](/storm-watching), [scenic drives](/scenic-drives), are just a few ways to enjoy the great outdoors while you and your girlfriends create lifetime memories.
 
 ![The best place for a girlfriends getaway on the Oregon Coast](/img/girlfriends-getaway-collage.jpg)
 
