@@ -17,6 +17,13 @@ tags:
 - Oregon Coast
 - Oregon Coast Travel
 categories: []
+seo:
+  title: ''
+  description: ''
+  imgalt: ''
+  image: ''
+aliases: []
+accordion_sections: []
 
 ---
 Oregon’s South Coast is a runner’s haven. Not only is this the hometown of one of our country’s greatest running icons, the late [Steve Prefontaine](/steve-prefontaine-story), but the region is also filled with natural running trails, temperate weather and coastal beauty that can’t be found anywhere else in the country.
@@ -51,7 +58,7 @@ Our quiet, peaceful, [undeveloped beaches](/undeveloped-beaches) are ideal for t
 
 ## #5 GO FISHING, CLAMMING OR CRABBING
 
-Autumn is a lovely time of year to visit Oregon’s Adventure Coast and fishing, crabbing and clamming opportunities are in no short supply here! There are more than 30 lakes and rivers to choose from in Coos County alone, and anglers will find there is plenty of bay and ocean fishing. [Click here](/fishing) for a list of resources that will be helpful in planning your trip. Be sure to visit one of our bait shops while in the area, they’re always willing to share pointers with visiting anglers. [Learn more about crabbing & clamming on Oregon’s Adventure Coast](/crabbing-clamming).
+Autumn is a lovely time of year to visit Oregon’s Adventure Coast and fishing, crabbing and clamming opportunities are in no short supply here! There are more than 30 lakes and rivers to choose from in Coos County alone, and anglers will find there is plenty of bay and ocean fishing. [Click here](/fishing) for a list of resources that will be helpful in planning your trip. Be sure to visit one of our bait shops while in the area, they’re always willing to share pointers with visiting anglers. [Learn more about crabbing](/crabbing-clamming) and [learn more about clamming](/clamming) on Oregon’s Adventure Coast.
 
 ## #6 TRY YOUR LUCK IN ONE OF OUR CASINOS
 
