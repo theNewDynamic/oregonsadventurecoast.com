@@ -12,8 +12,9 @@ fields:
   name: image
   label: Image
   template: image-alt
-- type: select
+- type: list
   config:
+    use_select: true
     source:
       type: simple
     options:
