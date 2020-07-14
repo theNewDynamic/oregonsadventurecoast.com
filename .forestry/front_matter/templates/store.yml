@@ -43,4 +43,5 @@ fields:
   label: Contact
   name: contact
 pages:
+- content/store/painted-zebra-boutique.md
 - content/store/regis-test-for-a-store.md
