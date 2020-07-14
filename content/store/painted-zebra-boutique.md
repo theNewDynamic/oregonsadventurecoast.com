@@ -14,8 +14,8 @@ phone_local: "(541) 808-2500"
 phone_toll_free: ''
 website: https://www.facebook.com/paintedzebraboutique
 coordinates:
-  lat: '43.406760'
-  lng: "-124.223881"
+  lat: '43.406768'
+  lng: "--124.223873"
 seo:
   title: ''
   description: ''
