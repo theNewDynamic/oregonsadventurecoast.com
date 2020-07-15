@@ -70,12 +70,12 @@ masonry6:
   url: "/shopping/"
 masonry7:
   desktopphoto: "/img/crab-pot-toss-desktop-02.jpg"
-  desktoptitle: Crabbing & Clamming
+  desktoptitle: Crabbing
   hoverdescription: 'Grab Your Gear! The year-round crabbing & clamming here is second
     to none.  '
   hovertitle: " Catch Your Fresh Dinner"
   mobilephoto: "/img/hm-mas-crabbing-mobile.jpg"
-  mobiletitle: Crabbing & Clamming
+  mobiletitle: Crabbing
   url: "/crabbing-clamming/"
 seo:
   description: Travel to the Oregon Coast to experience a vacation full of adventure,
