@@ -11,7 +11,7 @@ seo:
   title: Oregon Coast Outdoor Activities - Water Recreation | Oregon's Adventure Coast
 
 ---
-On Oregon's Adventure Coast, water activities abound, from kayaking, paddleboarding, scuba diving and surfing to world-class [fishing](/fishing), [crabbing and clamming](/crabbing-clamming).
+On Oregon's Adventure Coast, water activities abound, from kayaking, paddleboarding, scuba diving and surfing to world-class [fishing](/fishing), [crabbing](/crabbing-clamming) and [clamming](/clamming).
 
 ![Kayak & Paddleboarding on Oregon's Adventure Coast!](/img/water-rec-kayaking.jpg)
 
@@ -23,7 +23,7 @@ Paddle down the Coquille River, in Sunset Bay, or in Coos Bay. For an extra adve
 
 {{< spacer 25 >}}
 
-{{< youtube "S5XKer69rJQ" >}}
+{{< youtube "XM8iebLuClI" >}}
 
 {{< spacer 25 >}}
 
