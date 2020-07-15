@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-_Updated at 2:00pm, July 2, 2020_
+_Updated at 2:00pm, July 15, 2020_
 
 **As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors.**
 
