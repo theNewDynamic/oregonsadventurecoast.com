@@ -27,6 +27,10 @@ Paddle down the Coquille River, in Sunset Bay, or in Coos Bay. For an extra adve
 
 {{< spacer 25 >}}
 
+{{< youtube "7kidwJG10vA" >}}
+
+{{< spacer 50 >}}
+
 ![null](/img/surfing-header-695x322.jpg)
 
 ## Surfing on Oregon's Adventure Coast
