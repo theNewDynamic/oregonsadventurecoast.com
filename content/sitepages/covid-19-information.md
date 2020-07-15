@@ -16,7 +16,7 @@ _Updated at 2:00pm, July 2, 2020_
 
 **As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors.**
 
-#### As of July 1, 2020, [face coverings are now mandatory](https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36869) for all when inside a public space.
+#### As of July 15, 2020, [face coverings are now mandatory](https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36869) for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained. 
 
 ###### {{< spacer 25 >}}
 
