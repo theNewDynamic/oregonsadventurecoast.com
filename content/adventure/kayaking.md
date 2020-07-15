@@ -23,9 +23,13 @@ Paddle down the Coquille River, in Sunset Bay, or in Coos Bay. For an extra adve
 
 {{< spacer 25 >}}
 
+### Virtual Kayaking Tour on Coos Bay
+
 {{< youtube "XM8iebLuClI" >}}
 
 {{< spacer 25 >}}
+
+### Virtual Stand Up Paddleboarding Tour of Coos River
 
 {{< youtube "7kidwJG10vA" >}}
 
