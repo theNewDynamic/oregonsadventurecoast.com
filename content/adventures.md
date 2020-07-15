@@ -25,7 +25,7 @@ boxes:
   hovertitle: Now This is a Beach
   mobiletitle: Untamed Dunes
   url: "/untamed-dunes"
-  - desktopphoto: "/img/gaming-slots.jpg"
+- desktopphoto: "/img/gaming-slots.jpg"
   desktoptitle: Gaming
   hoverdescription: We have full casino-style gaming and over 700 slots right in town.
   hovertitle: Try Your Luck
@@ -148,6 +148,7 @@ seo:
   title: Oregon Coast Trips Vacations - Things to Do | Oregon's Adventure Coast
 
 ---
+
 Take a vacation to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities with a variety of exciting things to do; like Oregon Coast crabbing, clamming, salmon fishing, sand dune hiking, and more! Choose a few activities that will match your appetite for adventure!
 
 <h2>Discover Outdoor Activities, Shopping, & Events on the Oregon Coast</h2>
