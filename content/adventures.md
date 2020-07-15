@@ -25,13 +25,12 @@ boxes:
   hovertitle: Now This is a Beach
   mobiletitle: Untamed Dunes
   url: "/untamed-dunes"
-- desktopphoto: "/img/couple-shopping.jpg"
-  desktoptitle: Shopping
-  hoverdescription: Wander through our many shops and markets to buy gifts for you
-    and your friends.
-  hovertitle: Get Your Shopping On
-  mobiletitle: Shopping
-  url: "/shopping"
+  - desktopphoto: "/img/gaming-slots.jpg"
+  desktoptitle: Gaming
+  hoverdescription: We have full casino-style gaming and over 700 slots right in town.
+  hovertitle: Try Your Luck
+  mobiletitle: Gaming
+  url: "/gaming"
 - desktopphoto: "/img/cape-arago-wave-crash.jpg"
   desktoptitle: Storm Watching
   hoverdescription: Snuggle inside or take in the elements, our storms are breathtaking.
@@ -39,12 +38,19 @@ boxes:
   mobiletitle: Storm Watching
   url: "/storm-watching"
 - desktopphoto: "/img/family-crabbing.jpg"
-  desktoptitle: Crabbing & Clamming
-  hoverdescription: Grab Your Gear! The year-round crabbing & clamming here is second
+  desktoptitle: Crabbing
+  hoverdescription: Grab Your Gear! The year-round crabbing here is second
     to none.
   hovertitle: Catch Your Dinner
-  mobiletitle: Crabbing/Clamming
+  mobiletitle: Crabbing
   url: "/crabbing-clamming"
+- desktopphoto: "/img/clamming-adventures.jpg"
+  desktoptitle: Clamming
+  hoverdescription: Grab Your Gear! The year-round clamming here is second
+    to none.
+  hovertitle: Catch Your Dinner
+  mobiletitle: Clamming
+  url: "/clamming"
 - desktopphoto: "/img/tidepooling.jpg"
   desktoptitle: Ocean Life & Tidepooling
   hoverdescription: Nothing is more awesome than seeing Sea animals and plants on
@@ -70,12 +76,13 @@ boxes:
   hovertitle: Pedal Power Rules
   mobiletitle: Cycling
   url: "/cycling"
-- desktopphoto: "/img/gaming-slots.jpg"
-  desktoptitle: Gaming
-  hoverdescription: We have full casino-style gaming and over 700 slots right in town.
-  hovertitle: Try Your Luck
-  mobiletitle: Gaming
-  url: "/gaming"
+- desktopphoto: "/img/couple-shopping.jpg"
+  desktoptitle: Shopping
+  hoverdescription: Wander through our many shops and markets to buy gifts for you
+    and your friends.
+  hovertitle: Get Your Shopping On
+  mobiletitle: Shopping
+  url: "/shopping"
 - desktopphoto: "/img/hiking-shore-acres-new.jpg"
   desktoptitle: Hiking / Walking
   hoverdescription: There's no better way to get up close to our world famous scenery.
