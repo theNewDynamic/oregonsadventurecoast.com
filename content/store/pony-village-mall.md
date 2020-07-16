@@ -18,8 +18,8 @@ phone_local: "(541) 756-0433"
 phone_toll_free: ''
 website: https://ponyvm.com
 coordinates:
-  lat: ''
-  lng: ''
+  lat: '43.404403'
+  lng: "-124.234249"
 seo:
   title: ''
   description: ''
