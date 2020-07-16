@@ -11,12 +11,12 @@ address:
   street2: ''
   city: Coos Bay
   zip: '97420'
-phone_local: ''
+phone_local: "(541) 267-0387"
 phone_toll_free: ''
-website: ''
+website: https://www.facebook.com/The-Pottery-Co-161842183873942/
 coordinates:
-  lat: ''
-  lng: ''
+  lat: '43.366525'
+  lng: "-124.214139"
 seo:
   title: ''
   description: ''
