@@ -4,7 +4,10 @@ property_description: Fun and affordable Boutique featuring women's fashion in s
   S-3X. Open Tuesday-Saturday 11am-5pm.
 photo_name: ''
 photo_alt: ''
-property_category: Boutique
+property_category:
+- Shoes
+- Clothing
+- Boutique
 address:
   street: 1997 Sherman Avenue
   street2: ''
