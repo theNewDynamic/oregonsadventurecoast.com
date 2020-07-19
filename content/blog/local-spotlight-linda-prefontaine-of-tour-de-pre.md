@@ -29,7 +29,6 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-draft: true
 
 ---
 Coos Bay, North Bend and Charleston, a.k.a. Oregon's Adventure Coast, is filled with interesting and beautiful destinations that inspire visitors from all over the world. But did you know that the region is also full of fascinating people with amazing stories to tell? Our local residents are our best resource to share insider travel tips, local secrets and stories that cannot be found anywhere else. While our big annual events and festivals are on hiatus, we're spotlighting some of the folks who make Oregon’s Adventure Coast such a special place.
@@ -38,7 +37,7 @@ This month, we're featuring Coos Bay resident and former Women's Professional Ra
 
 Linda continues to honor his legacy with [Tour de Pre](http://prefontaineproductions.com/), a special one-of-a-kind experience where fans can explore the Coos Bay area, explore where Pre grew up and see where his brilliant career began while hearing personal stories and anecdotes that only Linda can offer.
 
-Linda was born and spent her childhood in Coos Bay along with her siblings, but left the town in 1973 to finish her degree in Education at the University of Oregon in Eugene where she lived until she moved back to Coos Bay in 2017. Here’s some of the conversation we recently had with her.
+![](/img/steve-prefontaine-outdoor-mural.jpg)Linda was born and spent her childhood in Coos Bay along with her siblings, but left the town in 1973 to finish her degree in Education at the University of Oregon in Eugene where she lived until she moved back to Coos Bay in 2017. Here’s some of the conversation we recently had with her.
 
 **OAC: What brought you back to Coos Bay?**
 **Linda:** I moved back in 2017. Eugene has grown too much for this small town girl. It is a 24/7 city now. That isn’t my cup of tea anymore. I think age has a lot to do with that. I”m looking for a simpler and quieter lifestyle. In addition, I started a touring business, called the Tour de Pre that operates from May 1st until the end of September. However, I am not giving tours this summer because of the virus. Even though I moved away I came back regularly because my parents were still alive and living here is Coos Bay.
