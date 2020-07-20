@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 2:00pm PDT, June 29, 2020_**
+**_Updated 2:00pm PDT, July 20, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering NEW Dine-in service, take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -146,7 +146,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Mean Street Sandwiches**](https://www.facebook.com/MeanStreetCoosBay/) - CB - Take-out and curbside pickup is available. (541) 808-9263
 
-[**Millers at the Cove**](https://www.millersatthecove.rocks/) - CH - Will open June 26th for Take-out, and July 1st for Dine-in. More info soon. (541)808-2404
+[**Millers at the Cove**](https://www.millersatthecove.rocks/) - CH - **Dine-in** and take-out daily 11am-9pm.  (541)808-2404
 
 **Mom's Kitchen** - NB - Take-out with call ahead order, 6am-2pm. (541) 756-2710
 
@@ -164,7 +164,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 **Playa Del Sol** - CB - **Dine-in** 11am-8pm. Limited seating. (541) 808-9696
 
-[**Portside**](http://www.portsidebythebay.com/) - CH - **Dine-in** from 4pm-10pm nightly, take-out full menu and if you call ahead they will have it ready and will bring out the back door to your car (541) 888-5544
+[**Portside**](http://www.portsidebythebay.com/) - CH - **Dine-in** and take-out from 4:30pm-9pm nightly in dining room or bar, take-out also available daily Noon-2:30pm. (541) 888-5544
 
 [**Pueblo Nuevo Mexican Restaurant**](https://www.facebook.com/Pueblo-Nuevo-Mexican-Restaurant-652831611426143/) - CB - **Dine-in** and take-out of regular menu, discounts available. (541) 266-9311
 
@@ -190,7 +190,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Tai’s Dynasty**](http://taidynasty.com/) - NB -  **Dine-in** and take-out of the Chinese menu only, 11am-8pm daily (541) 756-3475
 
-[**Timbers at The Mill**](https://www.themillcasino.com/update-on-our-response-to-covid-19/) **& Warehouse 101** - NB - Take-out from Timbers Cafe with social distancing dining in the Saw Blade Buffet or Warehouse 101. (541) 756-8800
+[**Timbers** **& Warehouse 101at The Mill**](https://www.themillcasino.com/dining-bars/) - NB - Take-out from Timbers Cafe with social distancing dining in the Saw Blade Buffet. And dine-in at Warehouse 101. (541) 756-8800
 
 [**Tin Thistle**](https://www.facebook.com/thetinthistlecafe/) - NB - **Dine-in,** take-out, curbside pick up of full menu (541) 267-0267
 
@@ -204,7 +204,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Walt’s Pourhouse**](https://www.facebook.com/waltspourhouse/) - CB - **Dine-in**, take-out, curbside, and limited delivery of a slightly modified menu and take-out beer. 11am-8pm (541) 267-5588
 
-[**Yeong's Place**](https://www.facebook.com/Yeongs-Place-Restaurant-1424336541200886/?__tn__=kCH-R&eid=ARCd5onDbXfjGBuHiOksZDaOPKPRIGJDcOjclJPb4I4NEcGRf_VzWr0ZuvHZ92lyY-nSzG-ehsZyU9ts&hc_ref=ARTN9S0xAypLp9rAvgpUQ7SHXR6akR8soLi_6rrUi8oTmbJr3sRD0X32QMB362f3x84&fref=nf&__xts__%5B0%5D=68.ARDs87eFZngddnIemSmoRaVxQI9RDMMwNYe05saCE3UmS0J2P3O34H0Bd1qWUivaF1U6JLUzlh-g9TLioYeE8qMsekcJ3-aDoXdUdiUJ8ShWApvWSNtNa3WyaEarZ6ObXrj5gdFIjkpqzr0I9hEMCDANErORP_tGoXucknVusVOMUF73WiC_8kq4aHZUUEDaLrQVcFQO68DwpURmh4uTOpN8Ci7I984aO-z_piYgieW9ds0ZY5MyQuVgG6SMPy-DorlMAupdGo59NYhwQnQRRJB39rIU-3yKDAo6XoyuA2NZ_D_F3Ol9TLbx4bRXkHyYlGru15AIZpEobACzoyB_xLaAldCLFCeDPgybXuBZbvyt63GnrtFB) - NB - Take-out of regular menu. Phone: (541) 756-1914
+[**Yeong's Place**](https://www.facebook.com/Yeongs-Place-Restaurant-1424336541200886/?__tn__=kCH-R&eid=ARCd5onDbXfjGBuHiOksZDaOPKPRIGJDcOjclJPb4I4NEcGRf_VzWr0ZuvHZ92lyY-nSzG-ehsZyU9ts&hc_ref=ARTN9S0xAypLp9rAvgpUQ7SHXR6akR8soLi_6rrUi8oTmbJr3sRD0X32QMB362f3x84&fref=nf&__xts__%5B0%5D=68.ARDs87eFZngddnIemSmoRaVxQI9RDMMwNYe05saCE3UmS0J2P3O34H0Bd1qWUivaF1U6JLUzlh-g9TLioYeE8qMsekcJ3-aDoXdUdiUJ8ShWApvWSNtNa3WyaEarZ6ObXrj5gdFIjkpqzr0I9hEMCDANErORP_tGoXucknVusVOMUF73WiC_8kq4aHZUUEDaLrQVcFQO68DwpURmh4uTOpN8Ci7I984aO-z_piYgieW9ds0ZY5MyQuVgG6SMPy-DorlMAupdGo59NYhwQnQRRJB39rIU-3yKDAo6XoyuA2NZ_D_F3Ol9TLbx4bRXkHyYlGru15AIZpEobACzoyB_xLaAldCLFCeDPgybXuBZbvyt63GnrtFB) - NB - **Dine-In** and Take-out of regular menu. Phone: (541) 756-1914
 
 **FAST FOOD and DRIVE THROUGH COFFEE SHOPS** - all fast food and coffee shops with drive through windows are open for pick up though the drive through only.
 
@@ -212,7 +212,6 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 **Aromas**, North Bend  
 **Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
-**Lucky Dragon Buffet**, North Bend  
 **Outdoor-In**, Coos Bay  
 **Saw Blade Buffet, Plankhouse, Whitecaps** at The Mill Casino Hotel & RV Park, North Bend  
 **Sizzler**, North Bend  
