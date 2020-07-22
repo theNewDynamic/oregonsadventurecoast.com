@@ -60,3 +60,5 @@ fields:
   template: contact
   label: Contact
   name: contact
+pages:
+- content/lodgingitems/bayview-house-north-bend.md
