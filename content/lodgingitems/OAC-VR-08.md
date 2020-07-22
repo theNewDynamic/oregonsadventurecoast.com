@@ -1,7 +1,7 @@
 ---
 photo_name: "/img/Loft-Lighthouse.jpg"
 photo_alt: Loft by the Lighthouse vacation rentals in Charleston, OR
-title: Loft by the Lighthouse
+title: Loft by the Lighthouse - Temporarily Closed
 property_name: Loft by the Lighthouse
 property_category: 4 - Vacation Rental Homes
 address:
