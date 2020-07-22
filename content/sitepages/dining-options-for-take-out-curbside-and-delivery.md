@@ -12,7 +12,7 @@ aliases: []
 accordion_sections: []
 
 ---
-**_Updated 2:00pm PDT, July 20, 2020_**
+**_Updated 1:00pm PDT, July 22, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering NEW Dine-in service, take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -186,7 +186,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Subway**](https://www.subway.com/en-us) - CB & NB - all locations offering Take-out, online app ordering, pay online for curbside pickup
 
-[**Sumin’s Restaurant and Sushi Bar**](https://suminscoosbay.com/) - CB - Take-out during its normal business hours (541) 267-0119
+[**Sumin’s Restaurant and Sushi Bar**](https://suminscoosbay.com/) - CB - **Dine-in** and take-out during its normal business hours (541) 267-0119
 
 [**Tai’s Dynasty**](http://taidynasty.com/) - NB -  **Dine-in** and take-out of the Chinese menu only, 11am-8pm daily (541) 756-3475
 
