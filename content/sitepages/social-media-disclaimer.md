@@ -1,7 +1,7 @@
 ---
 title: Social Media Disclaimer
 url: "/social-media-disclaimer/"
-layout: our-area
+layout: travelersinfo
 photo: ''
 seo:
   title: ''
