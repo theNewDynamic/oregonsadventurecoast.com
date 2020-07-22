@@ -22,5 +22,6 @@ amenityList:
 - amenitySelect: '5'
 - amenitySelect: '6'
 - amenitySelect: '7'
+draft: true
 
 ---
