@@ -1,7 +1,7 @@
 ---
 title: Social Media Disclaimer
 url: "/social-media-disclaimer/"
-layout: headless
+layout: our-area
 photo: ''
 seo:
   title: ''
