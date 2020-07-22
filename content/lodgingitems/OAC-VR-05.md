@@ -12,7 +12,7 @@ address:
   zip: '97420'
 phone_toll_free: 
 phone_local: 
-units: '1'
+units: 1
 cost: 3 - $$$
 property_description: This is a remodeled 100 year old craftsman style cottage with
   careful attention to privacy, quiet, and elegant simplicity. Three bedroom house
