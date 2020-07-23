@@ -19,6 +19,9 @@
 .m-copyright-footer .copyright {
     font-size: 14px;
     float: left;
+    a{
+        color: white;
+    }
     @include smallPlus {
         float: none;
         text-align: center;
