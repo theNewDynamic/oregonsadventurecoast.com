@@ -14,6 +14,8 @@ accordion_sections: []
 ---
 #### **OREGON'S ADVENTURE COAST: COOS BAY, NORTH BEND & CHARLESTON**
 
+{{< spacer 40 >}}
+
 #### **SOCIAL MEDIA DISCLAIMER / INAPPROPRIATE USE**
 
 **Oregon's Adventure Coast** welcomes and encourages open dialogue on our Social Media Site(s) and looks forward to comments and suggestions. Before you post, please make sure you read and understand our _Social Media Disclaimer._
