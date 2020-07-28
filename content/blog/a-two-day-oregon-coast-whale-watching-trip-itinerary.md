@@ -23,9 +23,10 @@ categories: []
 seo:
   title: ''
   description: ''
-  imgalt: ''
+  imgalt: Whale Watching on the Oregon Coast
   image: ''
 aliases: []
+accordion_sections: []
 
 ---
 ### The Whole Family Will Have a "Whale of a Time" During Winter 2019 Whale Watching Week- December 27th – 31st, 2019
@@ -37,7 +38,7 @@ Thanks to the dedicated and knowledgeable volunteers from the [Whale Watching Sp
 ### WINTER WHALE WATCHING TRIP DAY ONE
 
 **MORNING**  
-Start the day by sipping on a cup of fair trade, organic, house-roasted coffee from [Bayside Coffee](http://www.baysidecoffeeshop.com) on Boat Basin Road in Charleston, a favorite among locals and visitors alike. Chat with locals or the owners in this family-friendly, causal establishment. _Tip- try the Blackberry Mocha_!
+Start the day by sipping on a cup of fair trade, organic, house-roasted coffee from [Bayside Coffee](http://www.baysidecoffeeshop.com) on Boat Basin Road in Charleston, a favorite among locals and visitors alike. Chat with locals or the owners in this family-friendly, casual establishment. _Tip- try the Blackberry Mocha_!
 
 Afterward, go for a stroll along the [Charleston Marina Complex](https://www.portofcoosbay.com/marinahome), about a half-mile down the road to check out the fishing vessels and local wildlife. Sometimes, you can even catch a few of our local resident sea lions relaxing on the docks or going for a morning swim. Next, head to [Shore Acres State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68) from 10 am – 1 pm. Here you will find [Whale Watching Spoken Here®](https://oregonstateparks.org/index.cfm?do=thingstodo.dsp_whalewatching) volunteers to help you spot and learn more about the migrating gray whales heading south. Be sure to explore the beautiful gardens and natural scenery all around you, the views of the Pacific Ocean can’t be beat! Parking at Shore Acres is $5 (cash) or a current State Park Pass, Coastal Pass or current Campground Receipt.
 
@@ -48,7 +49,7 @@ After your big morning of adventure, head to one of the popular Charleston, Oreg
 After a delicious lunch, head to the [Charleston Marine Life Center.](http://www.charlestonmarinelifecenter.com/) This kid-friendly destination will entertain and educate kids of all ages for the afternoon. Attractions include an aquarium highlighting different coastal ecosystems, a tide pool touch tank, whale and sea lion skeletons, and underwater video from deep reefs and undersea volcanoes -OR- if you’re feeling adventurous and want a “true” Oregon Coast experience later in the day, be sure to stop by [Basin Tackle Shop](http://www.basintackle.net/) to find out how you can catch your own fresh Dungeness crab for dinner (ask for Rob!).
 
 **LATE AFTERNOON/EARLY EVENING**  
-If possible, go see Shore Acres Holiday Lights before you head for dinner (it will be less crowded earlier in the day). The [whimsical display ](https://www.oregonsadventurecoast.com/event/33rd-annual-holiday-lights-at-shore-acres/)features 325,000 LED lights, garden landscape lighting, holiday trees, and dozens of lighted sculptures including life-size whales, animated sea lions, an undersea garden, Koi underwater in the pond, a leaping frog in the pond, leaping dolphins and more. We recommend beating the crowds and arriving early so you can enjoy the beautiful view at the sea wall, browse through the Information & Gift Center (opens at 3:30 p.m.) and see the spectacular gardens before it gets dark. Besides, you will want to experience the magical transformation of the lights at dusk. The display runs until December 31, 2019, admission is free but parking is $5 (bring cash). A current State Park Pass, Coastal Pass or current Campground Receipt will also get you in the park!
+If possible, go see Shore Acres Holiday Lights before you head for dinner (it will be less crowded earlier in the day). The whimsical display features 325,000 LED lights, garden landscape lighting, holiday trees, and dozens of lighted sculptures including life-size whales, animated sea lions, an undersea garden, Koi underwater in the pond, a leaping frog in the pond, leaping dolphins and more. We recommend beating the crowds and arriving early so you can enjoy the beautiful view at the sea wall, browse through the Information & Gift Center (opens at 3:30 p.m.) and see the spectacular gardens before it gets dark. Besides, you will want to experience the magical transformation of the lights at dusk. The display runs until December 31, 2019, admission is free but parking is $5 (bring cash). A current State Park Pass, Coastal Pass or current Campground Receipt will also get you in the park!
 
 **DINNER**  
 Wrap up a big day of adventure with a delicious dinner at one of our local establishments in Coos Bay, North Bend or Charleston. Here are some of the local spots popular with visitors:
