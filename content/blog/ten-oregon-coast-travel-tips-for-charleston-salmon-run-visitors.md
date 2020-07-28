@@ -1,6 +1,6 @@
 ---
 title: Ten Oregon Coast Travel Tips for Charleston Salmon Run Visitors
-date: 2019-09-09T16:00:00.000+00:00
+date: 2019-09-09T16:00:00+00:00
 description: The 3rd Annual Oregon’s Adventure Coast Charleston Salmon Run and Crab
   Walk happening October 5th on one of the most beautiful courses in Oregon. Here
   are some tips to help runners and their fans to enjoy the very best of Coos Bay,
