@@ -20,7 +20,7 @@ categories: []
 seo:
   title: ''
   description: ''
-  imgalt: ''
+  imgalt: Charleston Prefontaine Memorial Run near Coos Bay
   image: ''
 aliases: []
 accordion_sections: []
