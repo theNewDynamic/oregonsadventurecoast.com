@@ -32,7 +32,7 @@ Every September, runners from all over the world travel here to compete in the [
 
 The race featured in this post, however, is the 3rd Annual Oregon's Adventure Coast Charleston Salmon Run and Crab Walk happening October 5th on one of the most beautiful courses in Oregon. The race begins and ends in Charleston, Oregon and follows amazing scenic routes along rugged sea cliffs and sandy beaches. Runners (and their cheering squad) of all levels are invited to participate. The Salmon Run includes a 26.2-mile Marathon, 13.1-mile Half Marathon, 10K run and the 1 mile Crab Walk so there is something for every activity level in this event!
 
-After the run, join the fun at the annual [Octoberfish](/event/octoberfish), the official after party of the Oregon's Adventure Coast Charleston Salmon Run! But don’t rush off once the party is over! Stick around and experience more of what Oregon’s Adventure Coast has to offer! Here are some tips to help you enjoy the very best of Coos Bay, North Bend and Charleston, Oregon during your visit this fall.
+After the run, join the fun at the annual Octoberfish, the official after party of the Oregon's Adventure Coast Charleston Salmon Run! But don’t rush off once the party is over! Stick around and experience more of what Oregon’s Adventure Coast has to offer! Here are some tips to help you enjoy the very best of Coos Bay, North Bend and Charleston, Oregon during your visit this fall.
 
 ![](/img/octoberfish-event-medium.jpg)
 
