@@ -42,7 +42,7 @@ image: ''
 ---
 You’ve hear that old saying, “The best things in life are free…” and it’s true!  Some of our favorite attractions and most treasured resources here on Oregon’s South Coast are completely free of charge or very inexpensive to enjoy.  From free festivals and outdoor concerts to movies and screenings, there is something for everyone.
 
-So if you are ready to explore and unwind while giving your savings account a much needed break, check out these ideas for cheap or free entertainment in Coos Bay, North Bend, and Charleston Oregon. 
+So if you are ready to explore and unwind while giving your savings account a much needed break, check out these ideas for cheap or free entertainment in Coos Bay, North Bend, and Charleston Oregon.
 
 ### Downtown Coos Bay Farmer’s Market every Wednesday and Sunday through October
 
@@ -136,4 +136,4 @@ The 2015 Bay Area Fun Festival in Coos Bay is a weekend you won’t want to miss
 
 This growing festival is a celebration of Coos Culture the first weekend in October at the Charleston Marina. Enjoy Food, Spirits, Art and Lots of MUSIC. Admission is $1/person or 3 cans of food is encouraged. Projected Tuna Guy meal prices are $10/person or $25/family. [www.facebook.com/octoberfish](https://www.facebook.com/octoberfish?fref=nf)
 
-For a complete listing and details, be sure to check our **<a href="/events " target="_blank">events calendar</a>.**
+For a complete listing and details, be sure to check our **<a href="/adventures" target="_blank">events calendar</a>.**
