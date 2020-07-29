@@ -26,7 +26,7 @@ image: "/img/North Bend Lanes Bowling blog-695x322.jpg"
 
 ### 10 Ways to Explore the “Great Indoors”
 
-Last week, we revealed that it’s not uncommon to experience a “secret miniature summer” featuring surprisingly beautiful and balmy days of sunshine during the winter months along the Oregon Coast. When the outdoors beckon, it’s time to embark on a beach stroll, a hike through the woods or along the  <a href="/trip-ideas/guide-to-the-oregon-dunes-national-recreation-area/" target="_blank">Oregon Dunes</a> or one of our beautiful state parks. Perhaps you’ll want to go for a drive along the <a href="/trip-ideas/explore-the-cape-arago-beach-loop/" target="_blank">The Cape Arago Beach Loop</a>, go winter fishing, crabbing, clamming, biking, ANYTHING to get you outside!
+Last week, we revealed that it’s not uncommon to experience a “secret miniature summer” featuring surprisingly beautiful and balmy days of sunshine during the winter months along the Oregon Coast. When the outdoors beckon, it’s time to embark on a beach stroll, a hike through the woods or along the  <a href="/tripideas/oregon-dunes-national-recreation-area/" target="_blank">Oregon Dunes</a> or one of our beautiful state parks. Perhaps you’ll want to go for a drive along the <a href="/trip-ideas/explore-the-cape-arago-beach-loop/" target="_blank">The Cape Arago Beach Loop</a>, go winter fishing, crabbing, clamming, biking, ANYTHING to get you outside!
 
 But as you know, winter weather on Oregon’s Adventure Coast can change at the drop of a hat. So what does one do on those days when the outdoors don’t seem quite as appealing? Here are ten ways to have a great time while staying out of the cold:
 
