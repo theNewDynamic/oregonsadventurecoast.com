@@ -28,8 +28,6 @@ Events will take place Wednesday, August 26th, 2015 at the Port of Coos Bay – 
 
 Events are free (with the exception of the sails aboard America) and open to the public.  <a href="https://www.zerve.com/NxtLevelSail/ACTourG" target="_blank" class="broken_link">Click here</a> for ticket information for the sails aboard America.
 
-[Click Here to Download Event Flyer](/wp-content/uploads/2015/08/flyer.pdf)
-
 **IN THE BEGINNING**
 
 In 1851 a radical looking schooner ghosted out of the afternoon mist and swiftly sailed past the Royal Yacht stationed in the Solent, between the Isle of Wight and the south coast of England, on an afternoon when Queen Victoria was watching a sailing race.
