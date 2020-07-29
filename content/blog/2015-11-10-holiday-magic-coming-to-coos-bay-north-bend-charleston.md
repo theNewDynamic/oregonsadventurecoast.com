@@ -111,8 +111,4 @@ The communities of Coos Bay, North Bend, and Charleston are special places to vi
 
 <a href="/2013/12/seven-things-you-want-to-do-in-charleston-oregon-this-holiday-season/" target="_blank">Seven Things You Want to Do in Charleston Oregon this Holiday Season </a>
 
-Guests can find a range of hotel, motel and bed & breakfast properties throughout the area. <a href="/deals/page/2/" target="_blank">Click here </a>to find special lodging deals good through the end of the year!
-
- 
-
- 
+Guests can find a range of hotel, motel and bed & breakfast properties throughout the area. Find special [lodging](https://www.oregonsadventurecoast.com/lodging/) through the end of the year!
