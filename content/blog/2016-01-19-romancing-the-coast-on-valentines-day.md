@@ -58,7 +58,7 @@ Spend some time browsing through the shops in Downtown Coos Bay, North Bend. Tog
 
 ### 4) The Charleston Crab Feed
 
-Enjoy a great feast at the annual <a href="/listings/annual-charleston-crab-feed/" target="_blank">Charleston Crab Feed</a> Saturday February 13, 2016! After the crab feed, make it a perfect day with wine and chocolate tastings at Charleytown.
+Enjoy a great feast at the annual <a href="/event/36th-annual-charleston-crab-feed/" target="_blank">Charleston Crab Feed</a> Saturday February 13, 2016! After the crab feed, make it a perfect day with wine and chocolate tastings at Charleytown.
 
 ### 5) See the New Exhibits at the Coos Art Museum
 
