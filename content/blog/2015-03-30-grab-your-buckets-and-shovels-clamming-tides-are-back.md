@@ -39,7 +39,7 @@ Clams can be harvested all year on our coast, but ODFW does require a license wh
 
 ### Go to a bait and tackle shop before you head out.
 
-Some of the best advice you will receive will probably come from one of the fishing experts at one of our <a href="/travelers-guide/fishing-license-requirements/#baitshops" target="_blank">local bait and tackle stores</a>. They can tell you when the best time of day to dig would be based on the tides. They can also help you make sure you have the right equipment- a bucket, a shovel (can be rented or borrowed) and/or a tube a.k.a. a “clam gun”.
+Some of the best advice you will receive will probably come from one of the fishing experts at one of our [local bait and tackle stores](https://www.oregonsadventurecoast.com/fishing-license-requirements/). They can tell you when the best time of day to dig would be based on the tides. They can also help you make sure you have the right equipment- a bucket, a shovel (can be rented or borrowed) and/or a tube a.k.a. a “clam gun”.
 
 ### Wear waterproof boots and dress in layers
 
