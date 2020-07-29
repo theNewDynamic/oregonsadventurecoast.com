@@ -31,7 +31,7 @@ image: "/img/05-08-18-new-or-coast-resteraunts.jpg"
 
 Ask anyone who visits the Coos Bay, North Bend and Charleston area and they will tell you that we love to eat. Guests of the <a href="/" target="_blank" rel="noopener noreferrer">visitor center</a> frequently tell us how pleasantly surprised they are about the quality of the food, service and the selection of our local dining establishments. Guess you could say it's one of the best-kept secrets on Oregon's Adventure Coast!
 
-We're also earning a reputation for hosting some of the most delicious festivals on the coast like the upcoming annual <a href="/events/" target="_blank" rel="noopener noreferrer">BBQ, Blues & Brews by the Bay</a> May 25th-27th, the Mill Casino Food Truck Off August 3rd-5th, the annual <a href="/event/annual-charleston-seafood-festival/" target="_blank" rel="noopener noreferrer">Charleston Seafood Festival</a> August 10th-12th and many others throughout the year.
+We're also earning a reputation for hosting some of the most delicious festivals on the coast like the upcoming annual <a href="/events/" target="_blank" rel="noopener noreferrer">BBQ, Blues & Brews by the Bay</a> May 25th-27th, the Mill Casino Food Truck Off August 3rd-5th, the annual Charleston Seafood Festival August 10th-12th and many others throughout the year.
 
 Whether you're in the mood for local fresh seafood, comfort food, burgers, sushi, ethnic or pub fare- you will find it here. Most of our restaurants are locally owned and operated and are active members of the community. Many restaurant owners and staff will often chat with travelers, welcoming them and giving them an authentic sense of the history and culture in our area as well as unique ideas to get the most out of their trip.
 
