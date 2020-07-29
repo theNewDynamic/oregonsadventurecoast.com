@@ -22,7 +22,7 @@ image: ''
 ---
 For many of us, pets are an important part of the family and often make great traveling companions, especially when you are heading to Oregon’s Adventure Coast!  That’s why we welcome travelers AND their furry friends.
 
-As a Pet Friendly destination, visitors will find numerous “<a href="/travelers-guide-traveling-with-pets/" target="_blank" rel="noopener noreferrer">pet friendly</a>” lodging options, services and play areas in the Coos Bay/North Bend/Charleston area.
+As a Pet Friendly destination, visitors will find numerous “<a href=[/blog/2017-02-17-pet-friendly-options-oregon-coast/](https://www.oregonsadventurecoast.com/blog/2017-02-17-pet-friendly-options-oregon-coast/)" target="_blank" rel="noopener noreferrer">pet friendly</a>” lodging options, services and play areas in the Coos Bay/North Bend/Charleston area.
 
 ### Where are the best places for my pets to play?
 
