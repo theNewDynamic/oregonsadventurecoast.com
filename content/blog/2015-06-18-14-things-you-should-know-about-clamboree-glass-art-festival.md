@@ -33,11 +33,9 @@ It’s hard to believe, but the month of June is quickly coming to a close. You 
 
 Visitors and locals alike are encouraged to come down to <a href="http://www.oregonsadventurecoast.com/listings/ed-lund-park/" target="_blank">Ed Lund Park</a> on Saturday, June 27th for the <a href="http://theworldlink.com/lifestyles/go/clamboree-returns-with-a-glass-art-element/article_dbd1b933-9c9c-5212-a501-02a4337e9aec.html" target="_blank">2015 Clamboree & </a><a href="http://theworldlink.com/lifestyles/go/clamboree-returns-with-a-glass-art-element/article_dbd1b933-9c9c-5212-a501-02a4337e9aec.html" target="_blank"><span style="line-height: 1.5;">Glass Art</span></a><span style="line-height: 1.5;"><a href="http://theworldlink.com/lifestyles/go/clamboree-returns-with-a-glass-art-element/article_dbd1b933-9c9c-5212-a501-02a4337e9aec.html" target="_blank"> Festival</a>.  </span>
 
-This annual celebration of our history and culture takes place from 10 a. m. -6 p. m. and is chock full of festive activities like glass blowing demonstrations,live music on two stages, kid’s events, the annual Hollering Contest, tours, a classic car show and much more!  So bring the family, warm up your vocal chords and come hungry!
+This annual celebration of our history and culture takes place from 10 a. m. -6 p. m. and is chock full of festive activities like glass blowing demonstrations, live music on two stages, kid’s events, the annual Hollering Contest, tours, a classic car show, and much more!  So bring the family, warm up your vocal chords and come hungry!
 
-The [Boat Coos Bay Building Center](https://coosbayboats.org/) located on the waterfront in Empire is having an open house and garage sale as part of the Clamboree Festivities. **The Coos Bay Boat Building Center is  one of the original groups that helped start the Clamboree.**
-
-[Click Here](/wp-content/uploads/2015/06/Clamboree-2015-1.pdf) to download the official flyer.
+The [Boat Coos Bay Building Center](https://coosbayboats.org/) located on the waterfront in Empire is having an open house and garage sale as part of the Clamboree Festivities. **The Coos Bay Boat Building Center is one of the original groups that helped start the Clamboree.**
 
 ### Here are 14 other things you need to know about Clamboree! & Glass Art Festival:
 
@@ -63,9 +61,3 @@ From Hwy 101 – go 2.9 miles west on Newmark Avenue then turn left onto
 Arago Hwy. Take your first right onto Michigan Ave and continue to docks.
 
 _Learn more about the history of **<a href="http://www.maritimeheritage.org/ports/usOregonHollering.html" target="_blank">Empire and Hollering Place in Coos Bay, Oregon. </a>**_
-
- 
-
- 
-
- 
