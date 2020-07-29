@@ -51,7 +51,7 @@ The [Boat Coos Bay Building Center](https://coosbayboats.org/) located on the w
 1. The **Clamboree! & Glass Art Fest** is family friendly and features a number of educational demonstrations and activities.
 2. The public is invited to take tours of the [Coos Bay Boat Building Center](https://coosbayboats.org/) and shuttles to the <a href="http://ctclusi.org/about-us" target="_blank">Confederated Tribes of Coos, Lower Umpqua & Siuslaw Indians Tribal Hall</a>, Laquawiiyat’as Gallery and plankhouse.
 3. The Empire District used to be <a href="http://web.oregon.com/history/hm/empire_city.cfm" target="_blank">Empire City</a>, a thriving town back in the late 1800s and the Coos County seat.
-4. After the festival, the <a href="http://thedolphinplayers.webs.com/" target="_blank">Dolphin Playhouse</a> will present stories of old Empire and Coos County at the _Hollering Place Radio Hour_ at 7 p.m. so get your tickets!  [Click Here for Details.](/wp-content/uploads/2015/06/Tales-of-Historic-Coos-County-1.pdf)
+4. After the festival, the <a href="http://thedolphinplayers.webs.com/" target="_blank">Dolphin Playhouse</a> will present stories of old Empire and Coos County at the _Hollering Place Radio Hour_ at 7 p.m. so get your tickets!
 5. Festival goers always enjoy the food from vendors like the talented aspiring chefs from the <a href="http://www.occi.net/" target="_blank">Oregon Coast Culinary Institute</a> (try the Clam Hoagies)!
 
 **Directions to Empire Docks:**
