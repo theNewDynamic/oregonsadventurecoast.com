@@ -82,4 +82,4 @@ To learn more, please visit <a href="http://www.bettykaycharters.com/" target="_
 </tr>
 </table>
 
-_Looking for more <a href="/activities/" target="_blank">activities</a> to take part in this summer?_
+Looking for more <a href="/adventures/" target="_blank">activities</a> to take part in this summer?_
