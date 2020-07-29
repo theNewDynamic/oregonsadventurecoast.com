@@ -48,7 +48,7 @@ Coos Bay and North Bend Restaurants are one of the best kept secrets in our regi
 
 <a href="/eat-drink/ " target="_blank">Click Here to to See All Dining Options</a>
 
-**TIP-** Be sure to call ahead and make reservations if possible! Since Valentine’s Day falls on a Sunday this year, look for restaurants that serve Brunch- then take rest of the day to explore the coast together.
+**TIP-** Be sure to call ahead and make reservations if possible! Since Valentine’s Day falls on a Sunday this year, look for restaurants that serve Brunch- then take the rest of the day to explore the coast together.
 
 ### 3) Explore our Unique Downtown Shopping Districts
 
@@ -58,7 +58,7 @@ Spend some time browsing through the shops in Downtown Coos Bay, North Bend. Tog
 
 ### 4) The Charleston Crab Feed
 
-Enjoy a great feast at the annual <a href="/listings/annual-charleston-crab-feed/" target="_blank">Charleston Crab Feed</a> Saturday February 13, 2016! After the crab feed, make it a perfect day with <a href="/listings/wine-chocolate-tasting/" target="_blank">wine and chocolate tastings</a> at Charleytown.
+Enjoy a great feast at the annual <a href="/listings/annual-charleston-crab-feed/" target="_blank">Charleston Crab Feed</a> Saturday February 13, 2016! After the crab feed, make it a perfect day with wine and chocolate tastings at Charleytown.
 
 ### 5) See the New Exhibits at the Coos Art Museum
 
