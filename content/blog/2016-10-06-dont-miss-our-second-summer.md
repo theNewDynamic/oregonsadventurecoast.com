@@ -26,7 +26,7 @@ image: ''
 ---
 ## Did you know that Fall is one of the BEST times to visit the Oregon Coast?
 
-In case you haven’Autumn is so lovely in fact, many of our locals refer to it as the Oregon Coast’s “Second Summer”. A few of the perks of traveling to the Oregon Coast during the fall season include:
+Autumn is so lovely that many of our locals refer to it as the Oregon Coast’s “Second Summer.” A few of the perks of traveling to the Oregon Coast during the fall season include:
 
 #### Weather
 
@@ -44,8 +44,7 @@ Inspired to give it a try? We’ve put together a list of some of our most popul
 
 #### Explore our Beaches
 
-We have the most [diverse options](/featured-adventures/undeveloped-beaches/ "beaches") on the Oregon Coast. Go beachcombing, picnicking, or tidepooling. Some of our favorite local beaches include [Bastendorff Beach](/listings/bastendorff-beach/ "Bastendorff Beach"), [Cape Arago State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=66 "cape arago state park"), [Lighthouse Beach](/listings/lighthouse-beach/ "Lighthouse Beach"), [Horsfall Beach](https://www.fs.usda.gov/wps/portal/fsinternet/cs/recarea?ss=110612&navtype=BROWSEBYSUBJECT&cid=FSE_003738&navid=110240000000000&pnavid=110000000000000&position=BROWSEBYSUBJECT&recid=42625&ttype=recarea&pname=Horsfall%20Beach%20Campground "Horsfall Beach"), [Shore Acres State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=68 "shore acres state park") & Simpson Beach, and of course [Sunset Bay State Park
-](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=70 "Sunset bay state park").
+We have the most [diverse options](/featured-adventures/undeveloped-beaches/ "beaches") on the Oregon Coast. Go beachcombing, picnicking, or tidepooling. Some of our favorite local beaches include [Bastendorff Beach](/listings/bastendorff-beach/ "Bastendorff Beach"), [Cape Arago State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=66 "cape arago state park"), [Lighthouse Beach](/listings/lighthouse-beach/ "Lighthouse Beach"), [Horsfall Beach](https://www.fs.usda.gov/wps/portal/fsinternet/cs/recarea?ss=110612&navtype=BROWSEBYSUBJECT&cid=FSE_003738&navid=110240000000000&pnavid=110000000000000&position=BROWSEBYSUBJECT&recid=42625&ttype=recarea&pname=Horsfall%20Beach%20Campground "Horsfall Beach"), [Shore Acres State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=68 "shore acres state park") & Simpson Beach, and of course [Sunset Bay State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=70 "Sunset bay state park").
 
 #### Discover our Roots
 
