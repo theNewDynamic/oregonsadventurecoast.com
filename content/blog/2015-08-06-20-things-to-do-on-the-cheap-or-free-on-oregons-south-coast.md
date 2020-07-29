@@ -68,10 +68,6 @@ In the mood to laugh out loud? Come to Warehouse 101, inside the Mill Casino Hot
 
 Come to Mingus Park every Tuesday evening through September 15th for a free outdoor concert the whole family can enjoy. Musicians range from the harmonizing songwriting trio, T Sisters to one of New York City’s favorite horn-powered Jazz/Rock band, The Rad Trads! Concerts are every Tuesday evening at 7 p.m. for 5 weeks in August and September! Dancing in designated area, food & beverages available. B.Y.O picnic, this is a non-smoking event. Free Shuttles available from Blossom Gulch School, Coos Art Museum and Old City Hall. *If it rains, the concerts will be moved to Egyptian Theatre located at 299 S. Broadway (Hwy 101), Coos Bay <a href="http://musiconthebayoregon.com/" target="_blank">musiconthebayoregon.com</a>
 
-### Foreign Film Friday 2nd Friday of the month
-
-Held the 2nd Friday of the month and free to the public. Refreshments served. Many of these films are not rated and parental discretion is advised. Subtitled for English-speaking audiences 525 Anderson Ave Coos Bay, OR 97420 <a href="/listings/foreign-film-friday-10/" target="_blank">oregonsadventurecoast.com</a>
-
 ### Live Music at Warehouse 101 inside The Mill Casino Mill Fridays & Saturday Nights
 
 Warehouse 101 goes live every Friday and Saturday night starting at 9pm! Dance the night away and rock out with some of our favorite regional bands while enjoying some great food and drinks! Shows 9pm-1am. <a href="http://www.themillcasino.com/entertainment/warehouse101.cfm" target="_blank" class="broken_link">www.themillcasino.com</a>
