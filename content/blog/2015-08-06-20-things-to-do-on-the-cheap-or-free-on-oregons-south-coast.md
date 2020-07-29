@@ -40,7 +40,7 @@ categories:
 image: ''
 
 ---
-You’ve hear that old saying, “The best things in life are free…” and it’s true!  Some of our favorite attractions and most treasured resources here on Oregon’s South Coast are completely free of charge or very inexpensive to enjoy.  From free festivals and outdoor concerts to movies and screenings, there is something for everyone.
+You’ve heard that old saying, “The best things in life are free…” and it’s true!  Some of our favorite attractions and most treasured resources here on Oregon’s South Coast are completely free of charge or very inexpensive to enjoy.  From free festivals and outdoor concerts to movies and screenings, there is something for everyone.
 
 So if you are ready to explore and unwind while giving your savings account a much needed break, check out these ideas for cheap or free entertainment in Coos Bay, North Bend, and Charleston Oregon.
 
@@ -110,7 +110,7 @@ Established in 1950, the Coos art Museum is the third oldest Art museum in Orego
 
 ### Marshfield Sun Printing Museum through September 5th
 
-The Marshfield Sun Printing Museum is a unique printing museum located at the north end of Front Street on Coos Bay’s historic waterfront. The Marshfield Sun was a working newspaper office and print shop from 1891 to 1944 and is today essentially as it was left in 1944, with additional exhibits upstairs and on the walls. Volunteers are always on hand during Museum open hours to interpret and demonstrate the Marshfield Sun’s presses and other printing equipment, as well as to answer questions about the Museum’s exhibits on printing and office technology, and on local history. Open Tuesday through Saturday 1pm-4pm Memorial Day through Labor Day. Admission is free but donations are encouraged.  <a href=" /listings/marshfield-sun-printing-museum-2/" target="_blank">/listings/marshfield-sun-printing-museum-2/</a>
+The [Marshfield Sun Printing Museum](https://www.marshfieldsunprintingmuseum.org/history) is a unique printing museum located at the north end of Front Street on Coos Bay’s historic waterfront. The Marshfield Sun was a working newspaper office and print shop from 1891 to 1944 and is today essentially as it was left in 1944, with additional exhibits upstairs and on the walls. Volunteers are always on hand during Museum open hours to interpret and demonstrate the Marshfield Sun’s presses and other printing equipment, as well as to answer questions about the Museum’s exhibits on printing and office technology, and on local history. Open Tuesday through Saturday 1pm-4pm Memorial Day through Labor Day. Admission is free but donations are encouraged.  
 
 ### Contra Dance & International Folk Dancing
 
