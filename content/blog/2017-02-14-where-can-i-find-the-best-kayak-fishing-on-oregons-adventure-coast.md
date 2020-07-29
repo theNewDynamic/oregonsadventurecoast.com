@@ -23,7 +23,7 @@ image: ''
 ---
 <pre><em>Photographer: Chris Hyde</em></pre>
 
-Throughout the year, Oregon’s Adventure Coast offers great opportunities for fishing, clamming and crabbing; so it’s not surprising that <a href="/activities/category/kayaking/" target="_blank">kayak fishing </a>is growing in popularity among locals and visitors. So where’s the local favorite kayak fishing spot? Our very own <a href="/listings/sunset-bay-state-park/" target="_blank">Sunset Bay State Park</a>.
+Throughout the year, Oregon’s Adventure Coast offers great opportunities for fishing, clamming and crabbing; so it’s not surprising that <a href="/activities/category/kayaking/" target="_blank">kayak fishing </a>is growing in popularity among locals and visitors. So where’s the local favorite kayak fishing spot? Our very own [Sunset Bay State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=70).
 
 Known for its towering sea cliffs, beautiful sandy beaches, amazing tide pools, picnic facilities, and campgrounds, Sunset Bay State Park gives ocean lovers easy access to it’s beaches, making ideal for kayakers. Visitors and locals frequent the park for a relaxing day of beach combing, birding, fishing, swimming, and boating.
 
