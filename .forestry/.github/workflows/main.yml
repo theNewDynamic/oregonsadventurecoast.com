@@ -1,0 +1,14 @@
+name: Trigger API Calls
+on:
+  schedule:
+    # Run every day at midnight
+    - cron: '0 0 * * *'
+jobs:
+  build:
+    name: Request API Endpoints
+    runs-on: ubuntu-latest
+    steps:
+      - name: Calendar Request
+        run: curl -X GET -d {} ${{ secrets.API_CALENDAR_URL }}
+      - name: Dining Request
+        run: curl -X GET -d {} ${{ secrets.API_DINING_CALENDAR }}
