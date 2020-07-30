@@ -1,7 +1,7 @@
 ---
 title: Scenic Drives
 aliases:
-  - /activities/category/scenic-drives
+- "/activities/category/scenic-drives"
 url: "/scenic-drives"
 photo: "/img/scenic-drives-sub-header.jpg"
 seo:
@@ -13,14 +13,13 @@ seo:
 ---
 ## GET OUT OF TOWN!
 
-
-{{< floatimage src="/img/charleston-to-bandon-cover-icon.png" float="right" alt="Charleston to Bandon Scenic Tour Driving Map" size="20" >}} 
+{{< floatimage src="/img/charleston-to-bandon-cover-icon.png" float="right" alt="Charleston to Bandon Scenic Tour Driving Map" size="20" >}}
 
 You came for adventure.  You might not always think of an afternoon drive, or a casual moonlit evening outing as adventure, but if you do it here, you will.  From urban lights, to sunsets or moon-lit ocean backdrops, to inland rivers and parks, a part of your adventure can be just cruising in your car.
 
 [Download our Charleston to Bandon Scenic Tour Driving Map.](/img/charleston-to-bandon-map.pdf "charleston-to-bandon-map.pdf")
 
-{{< spacer >}}
+{{< spacer 50 >}}
 
 {{< floatimage src="/img/scenic-drives-lighthouse.jpg" float="left" alt="Scenic Drives - Five Lighthouses within One-hour's drive" size="40" >}}
 
@@ -28,7 +27,8 @@ You came for adventure.  You might not always think of an afternoon drive, or a 
 
 A whopping five of Oregon’s nine lighthouses are within one hour of the Coos Bay, North Bend area.  [For more information, check out the Lighthouse adventure page.](/lighthouses/)
 
-{{< spacer >}}
+{{< spacer 50 >}}
+<div style="clear:both"></div>
 
 {{< floatimage src="/img/scenic-drives-wave-crash.jpg" float="left" alt="Scenic Drives - Charleston to Bandon Tour Route" size="40" >}}
 
@@ -36,7 +36,7 @@ A whopping five of Oregon’s nine lighthouses are within one hour of the Coos B
 
 This chunk of Pacific Coast Scenic Byway, showcases a glorious stretch of coastline.  Included in this drive, are six state parks, two National Wildlife Refuges, and America’s first National Estuarine Research Reserve. [Visit our Trip Ideas page for the whole story!](/tripideas/charleston-to-bandon-tour-route/) [Download our Charleston Bandon Tour Route Map (PDF)](/img/charleston-to-bandon-map.pdf "charleston-to-bandon-map.pdf")
 
-{{< spacer >}}
+{{< spacer 50 >}}
 
 {{< floatimage src="/img/scenic-drives-cape-arago-lookout.jpg" float="left" alt="Scenic Drives - Explore the Cape Arago Beach Loop" size="40" >}}
 
