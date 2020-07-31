@@ -36,3 +36,5 @@ We love all of our beautiful, undeveloped beaches here on Oregon’s Adventure C
 ### [Surf On!](https://www.oregonsadventurecoast.com/water-recreation/)
 
 There’s a reason why surfers love Oregon's Adventure Coast! We could explain, but we’d rather show you in this 2018 video our friend Rick Dancer shared when he experienced Surfing Oregon's Adventure Coast style!
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=1&width=560" width="560" height="468" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
