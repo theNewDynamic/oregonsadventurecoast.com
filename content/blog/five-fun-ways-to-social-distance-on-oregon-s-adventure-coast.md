@@ -1,6 +1,6 @@
 ---
 title: Five Fun Ways to Social Distance on Oregon’s Adventure Coast
-date: 2020-07-06T04:00:00+00:00
+date: 2020-07-06T04:00:00.000+00:00
 description: Summer is here on Oregon’s Adventure Coast, but things are a little different
   this year. However, you can still celebrate summer with us and stay safe while social
   distancing! Here are some local (secret) tips of the best spots to social distance
@@ -30,7 +30,7 @@ aliases: []
 accordion_sections: []
 
 ---
-Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston is currently in Phase 2 of Oregon’s re-opening plan so that means that non-essential travel is allowed! [Here’s what travelers can expect](https://www.oregonsadventurecoast.com/blog/ready.set.adventure-what-travelers-can-expect-as-we-reopen-oregon-s-adventure-coast/) under our current re-opening phase. Our [local hotels](https://www.oregonsadventurecoast.com/blog/how-hotels-on-oregon-s-adventure-coast-are-keeping-guests-safe/), restaurants, and businesses are going the extra mile to keep our visitors and locals safe. Face coverings are required in [indoor public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). To protect our communities, we ask everyone to follow Oregon’s [Safe+Strong guidelines](https://govstatus.egov.com/reopening-oregon).
+Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston is currently in Phase 2 of Oregon’s re-opening plan so that means that non-essential travel is allowed! [Here’s what travelers can expect](https://www.oregonsadventurecoast.com/blog/ready.set.adventure-what-travelers-can-expect-as-we-reopen-oregon-s-adventure-coast/) under our current re-opening phase. Our [local hotels](https://www.oregonsadventurecoast.com/blog/how-hotels-on-oregon-s-adventure-coast-are-keeping-guests-safe/), restaurants, and businesses are going the extra mile to keep our visitors and locals safe. Face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). To protect our communities, we ask everyone to follow Oregon’s [Safe+Strong guidelines](https://govstatus.egov.com/reopening-oregon).
 
 Summer is here on Oregon’s Adventure Coast, but things are a little different this year. It is true that many of our annual events, concerts, and gatherings are postponed or canceled out of an abundance of caution related to COVID-19. However, you can still celebrate summer with us and stay safe while social distancing! Here are some local (secret) tips of the best spots to social distance yourself on Oregon’s Adventure Coast.
 
