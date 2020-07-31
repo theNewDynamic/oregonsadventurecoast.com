@@ -1,9 +1,28 @@
 ---
 title: It’s Cool on Oregon’s Adventure Coast!
 date: 2020-08-01T04:00:00+00:00
-description: ''
+description: You can relax knowing that Coos Bay, North Bend & Charleston offers plenty
+  of space to spread out and adventures to invigorate. Here are a few ideas on how
+  to keep your cool AND stay safe this summer.
 image: "/img/cool-on-oregons-adventure-coast-blog-695x322-jpg-1.png"
-tags: []
+tags:
+- Cape Arago Highway Loop
+- 'Bandon Tour Route '
+- Oregon Coast Cooler Temperatures
+- 'Oregon Coast '
+- 'Oregon''s South Coast '
+- Coos Bay
+- North Bend Oregon
+- Charleston Oregon
+- Oregon Coast Road Trip
+- 'Summer Road Trip '
+- 'Cool at the Coast '
+- Bastendorff Beach
+- Surfing
+- Simpson Beach
+- 'Social Distancing '
+- 'Pet Friendly Hotels '
+- Oregon Coast Vacation
 categories: []
 seo:
   title: ''
@@ -12,7 +31,6 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-draft: true
 
 ---
 ### Spread Out, Beat the Heat and Stay Cool on Oregon’s Adventure Coast
@@ -42,3 +60,7 @@ There’s a reason why surfers love Oregon's Adventure Coast! We could explain, 
 
 It’s easy! Watch and imagine yourself here. When you are ready to return, this beauty will be waiting for you.
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOregonsAdventureCoast%2Fvideos%2F501046370589317%2F&show_text=1&width=560" width="560" height="474" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
+But that’s not all! Visit our [Adventure Page](https://www.oregonsadventurecoast.com/adventures/) for more cool ideas and inspiration! So beat the heat and get your road trip on for a much needed, low-key, easy-breezy getaway. When you are ready to visit, we will be here to help you plan your trip and stay safe. In return, we ask everyone to follow Oregon’s [Safe+Strong guidelines](https://govstatus.egov.com/reopening-oregon) to keep our community safe and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf).
+
+Please don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions. Learn more about what our [local hotels are doing to keep visitors safe](https://www.oregonsadventurecoast.com/blog/how-hotels-on-oregon-s-adventure-coast-are-keeping-guests-safe/) and be sure to visit [oregonsadventurecoast.com/lodging/](https://www.oregonsadventurecoast.com/lodging/) to see our many lodging options. Just FYI, we’re also cool with four-legged friends and have plenty of [Pet-Friendly hotels](https://www.oregonsadventurecoast.com/blog/dog-friendly-hotels-on-oregon-s-adventure-coast/) to choose from!
