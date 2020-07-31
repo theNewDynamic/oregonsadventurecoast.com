@@ -58,6 +58,19 @@ fields:
   config: {}
   template: accordions-sections-partial
   label: Accordions Section
+- name: boxes
+  type: field_group_list
+  fields:
+  - name: masonry_item
+    type: include
+    config: {}
+    template: masonry-item
+    label: Masonry Item
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Masonry Items
 pages:
 - content/sitepages/covid-19-information.md
 - content/sitepages/dining-options-for-take-out-curbside-and-delivery.md
