@@ -69,11 +69,8 @@ fields:
   config:
     min: 
     max: 
-    labelField: desktoptitle
+    labelField: 
   label: Masonry Items
-  showOnly:
-    field: layout
-    value: adventures
 pages:
 - content/sitepages/covid-19-information.md
 - content/sitepages/dining-options-for-take-out-curbside-and-delivery.md

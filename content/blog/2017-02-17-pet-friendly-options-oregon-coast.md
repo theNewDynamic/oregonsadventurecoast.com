@@ -26,7 +26,7 @@ As a Pet Friendly destination, visitors will find numerous [pet friendly](https:
 
 ### Where are the best places for my pets to play?
 
-Unless otherwise specified, keep your pet on a leash in public areas. However, if your pup needs a good run, we recommend heading to <a href="http://www.oregonsadventurecoast.com/listings/horsfall-beach/" target="_blank" rel="noopener noreferrer">Horsfall Beach</a> in North Bend and <a href="http://www.oregonsadventurecoast.com/listings/bastendorff-beach/" target="_blank" rel="noopener noreferrer">Bastendorff Beach </a>in Charleston. Both locations have long stretches of beach for dogs to run and play.  As an added bonus, dogs are allowed off leash provided they are well behaved and must be under owner’s control at all times.
+Unless otherwise specified, keep your pet on a leash in public areas. However, if your pup needs a good run, we recommend heading to [Horsfall Beach](https://www.campbase.com/horsfall-beach-campground) in North Bend and [Bastendorff Beach](https://www.oregonsadventurecoast.com/undeveloped-beaches/) in Charleston. Both locations have long stretches of beach for dogs to run and play.  As an added bonus, dogs are allowed off leash provided they are well behaved and must be under the owner’s control at all times.
 
 Never, EVER leave your dog unattended. Even the most well-trained dog can get distracted; pay extra special attention to your surroundings and any potential situations that may cause your dog to wander or run off.
 
