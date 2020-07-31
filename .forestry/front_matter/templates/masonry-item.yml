@@ -1,14 +1,20 @@
 ---
 label: Masonry Item
 hide_body: false
-display_field: title_for_desktop
+display_field: desktoptitle
 fields:
 - type: file
   name: desktopphoto
   label: Image for Desktop
 - type: text
-  name: title_for_desktop
+  name: desktoptitle
   label: Title for Desktop
+- type: text
+  name: mobiletitle
+  label: Title for Mobile
+- type: text
+  name: hovertitle
+  label: Title on hover
 - type: text
   name: url
   label: URL
