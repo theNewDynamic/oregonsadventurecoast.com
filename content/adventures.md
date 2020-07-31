@@ -2,7 +2,7 @@
 layout: adventures
 title: Oregon Coast Vacations - Experience the Adventure!
 aliases:
-  - /featured-adventures
+- "/featured-adventures"
 photo: "/img/adventures-atv-motorsports.jpg"
 boxes:
 - desktopphoto: "/img/undeveloped-beaches.jpg"
@@ -31,23 +31,21 @@ boxes:
   hovertitle: Try Your Luck
   mobiletitle: Gaming
   url: "/gaming"
-- desktopphoto: "/img/cape-arago-wave-crash.jpg"
-  desktoptitle: Storm Watching
-  hoverdescription: Snuggle inside or take in the elements, our storms are breathtaking.
-  hovertitle: The Best Show on the Coast
-  mobiletitle: Storm Watching
-  url: "/storm-watching"
+- desktopphoto: "/img/couple-kayaking.jpg"
+  desktoptitle: Water Recreation
+  hoverdescription: The best way to enjoy the area's beauty is on the water.
+  hovertitle: Sea Shore
+  mobiletitle: Water Recreation
+  url: "/water-recreation"
 - desktopphoto: "/img/family-crabbing.jpg"
   desktoptitle: Crabbing
-  hoverdescription: Grab Your Gear! The year-round crabbing here is second
-    to none.
+  hoverdescription: Grab Your Gear! The year-round crabbing here is second to none.
   hovertitle: Catch Your Dinner
   mobiletitle: Crabbing
   url: "/crabbing-clamming"
 - desktopphoto: "/img/clamming-adventures.jpg"
   desktoptitle: Clamming
-  hoverdescription: Grab Your Gear! The year-round clamming here is second
-    to none.
+  hoverdescription: Grab Your Gear! The year-round clamming here is second to none.
   hovertitle: Catch Your Dinner
   mobiletitle: Clamming
   url: "/clamming"
@@ -64,6 +62,12 @@ boxes:
   hovertitle: 'What Lies Beneath '
   mobiletitle: Fishing
   url: "/fishing"
+- desktopphoto: "/img/hiking-shore-acres-new.jpg"
+  desktoptitle: Hiking / Walking
+  hoverdescription: There's no better way to get up close to our world famous scenery.
+  hovertitle: Take a Hike!
+  mobiletitle: Hiking / Walking
+  url: "/hiking-walking"
 - desktopphoto: "/img/birding-oystercatcher.jpg"
   desktoptitle: Birding & Wildlife
   hoverdescription: Coastal birds, migrating whales, playful seals and sea lions abound.
@@ -83,12 +87,6 @@ boxes:
   hovertitle: Get Your Shopping On
   mobiletitle: Shopping
   url: "/shopping"
-- desktopphoto: "/img/hiking-shore-acres-new.jpg"
-  desktoptitle: Hiking / Walking
-  hoverdescription: There's no better way to get up close to our world famous scenery.
-  hovertitle: Take a Hike!
-  mobiletitle: Hiking / Walking
-  url: "/hiking-walking"
 - desktopphoto: "/img/cape-arago-lookers.jpg"
   desktoptitle: State Parks & Ntl Lands
   hoverdescription: You will be amazed at all the parks and natural lands protected
@@ -96,12 +94,12 @@ boxes:
   hovertitle: Prestine Lands Preserved
   mobiletitle: State Parks & Ntl Lands
   url: "/state-parks-and-national-lands"
-- desktopphoto: "/img/couple-kayaking.jpg"
-  desktoptitle: Water Recreation
-  hoverdescription: The best way to enjoy the area's beauty is on the water.
-  hovertitle: Sea Shore
-  mobiletitle: Water Recreation
-  url: "/water-recreation"
+- desktopphoto: "/img/cape-arago-wave-crash.jpg"
+  desktoptitle: Storm Watching
+  hoverdescription: Snuggle inside or take in the elements, our storms are breathtaking.
+  hovertitle: The Best Show on the Coast
+  mobiletitle: Storm Watching
+  url: "/storm-watching"
 - desktopphoto: "/img/cape-arago-lighthouse.jpg"
   desktoptitle: Lighthouses
   hoverdescription: Five of Oregon's nine lighthouses are within an hours drive.
@@ -148,7 +146,6 @@ seo:
   title: Oregon Coast Trips Vacations - Things to Do | Oregon's Adventure Coast
 
 ---
-
 Take a vacation to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities with a variety of exciting things to do; like Oregon Coast crabbing, clamming, salmon fishing, sand dune hiking, and more! Choose a few activities that will match your appetite for adventure!
 
 <h2>Discover Outdoor Activities, Shopping, & Events on the Oregon Coast</h2>
