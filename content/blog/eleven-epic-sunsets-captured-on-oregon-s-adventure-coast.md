@@ -1,5 +1,5 @@
 ---
-title: 'Eleven Sunset Instagram Images That Blow Your Mind '
+title: 11 Amazing Sunset Images Taken on Oregon's Adventure Coast
 date: 2020-08-11T04:00:00+00:00
 description: 'Every sunset is unique, but there is something especially remarkable
   about the sunsets here on Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston.
