@@ -10,9 +10,10 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+boxes: []
 
 ---
-**_Updated 1:00pm PDT, July 22, 2020_**
+**_Updated 9:30am PDT, August 6, 2020_**
 
 _Please know that we are doing our best to keep up with the restaurants offering NEW Dine-in service, take-out, curbside pickup and delivery, but please call the restaurant before heading out to ensure they are open for business at the time you desire a meal. Thank you!_
 
@@ -28,7 +29,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 {{< spacer 50 >}}
 
-[**7 Devils Brewery**](https://www.7devilsbrewery.com/#/) - CB - **Dine-in**, take-out of food and beer in cans, bottles, & growlers Wednesday through Monday Noon to 9pm. (541) 808-3738
+[**7 Devils Brewery**](https://www.7devilsbrewery.com/#/) - CB - **Dine-in**, take-out of food and beer in cans, bottles, & growlers Wednesday through Monday 11am to 9pm. (541) 808-3738
 
 [**Abby’s Pizza**](https://abbys.com/) - CB - **Dine-in**, delivery and curbside togo orders only (541) 267-5839
 
