@@ -10,9 +10,10 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+boxes: []
 
 ---
-_Updated at 12:00pm, July 28, 2020_
+_Updated at 10:00am, August 12, 2020_
 
 **As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors.**
 
@@ -20,7 +21,11 @@ _Updated at 12:00pm, July 28, 2020_
 
 ###### {{< spacer 25 >}}
 
-**On August 1st, 2020, the Coos History Museum will re-open under strict protocols. All guests are encouraged to pre-register for a tour appointment prior to their visit, and will be required to wear mandatory face coverings upon entry. To book an appointment,** [**click here**](https://cooshistory.org/visitor-appointments)**.** 
+**On August 1st, 2020, the Coos History Museum will re-open under strict protocols. All guests are encouraged to pre-register for a tour appointment prior to their visit, and will be required to wear mandatory face coverings upon entry. To book an appointment,** [**click here**](https://cooshistory.org/visitor-appointments)**.**
+
+###### {{< spacer 25 >}}
+
+**The Marshfield Sun Printing Museum on Coos Bay’s historic waterfront will be open special hours August 1 - 29: Fridays and Saturdays, 1-4 p.m. (other times may be available by appointment; call 541-267-6152).**
 
 ###### {{< spacer 25 >}}
 
