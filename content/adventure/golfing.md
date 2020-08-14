@@ -25,7 +25,7 @@ Known as the "Best Kept Secret on the Oregon Coast," Coos Golf Club, founded in 
 [http://coosgolfclub.com/](http://coosgolfclub.com/ "http://coosgolfclub.com/")
 
 **Sunset Bay Golf Course, Charleston**  
-Professionally designed 9 hole, par 36 course; valley setting. Family friendly and welcoming everyone for a relaxed game of golf.  
+Professionally designed 12 hole, par 47 course; valley setting. Family friendly and welcoming everyone for a relaxed game of golf.  
 {{< link url="http://www.sunsetbaygolf.com" >}}www.sunsetbaygolf.com{{< /link >}}
 
 **Bandon Crossings Golf Course, Bandon**  
