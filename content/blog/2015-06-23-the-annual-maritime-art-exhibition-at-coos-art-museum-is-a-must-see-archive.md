@@ -26,7 +26,7 @@ image: ''
 
 > ### “A converted post office from the Art Deco area, the Coos Art Museum is an unexpected treasure.” – Review on <a href="http://www.tripadvisor.com/Attraction_Review-g51813-d5777748-Reviews-Coos_Art_Museum-Coos_Bay_Oregon.html" target="_blank">Trip Advisor</a>
 
-It is widely believed that the <a href="http://www.coosart.org/" target="_blank"><strong>Coos Art Museum (CAM)</strong></a>, Oregon’s 3rd oldest gallery, is one of the best kept secrets on the South Coast.
+It is widely believed that the <a href="http://www.coosart.org/" target="_blank"><strong>Coos Art Museum (CAM) </strong></a>, Oregon’s 3rd oldest gallery, is one of the best kept secrets on the South Coast.
 
 The museum, known for it’s rich tradition of supporting regional and local artists, has played a vital role in the state’s cultural landscape for nearly 5 decades . Next time you are visiting Oregon’s South Coast, be sure to add this hidden cultural gem to your itinerary, you won’t regret it!
 
