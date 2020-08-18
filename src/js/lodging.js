@@ -1,16 +1,16 @@
 // Lodging JS
 import _ from 'lodash';
-import Lodging from './lodging/Lodging';
+import Entries from './lodging/Lodging';
 import FilterToggles from './common/filter-toggles';
 import {PAGINATION_DEFAULTS, PAGINATION_ACTIONS, FILTER_OPTION} from './common/constants';
-import {lodgingAmenityOptions} from './lodging/lodging-amenities';
-import {lodgingCategoryOptions} from './lodging/lodging-categories';
+import {entryAmenityOptions} from './lodging/lodging-amenities';
+import {entryCategoryOptions} from './lodging/lodging-categories';
 import {LODGING_FILTER_MATCH_BY} from './lodging/lodging-filter-match-by';
 import GetFilterMatchType from './common/get-filter-match-type';
 import SortMenu from './common/sort-menu';
 import Map from './maps/Map';
 
-function buildLodging() {
+function buildEntries() {
     
     const api_url = "https://api.oregonsadventurecoast.com";
 
@@ -37,17 +37,17 @@ function buildLodging() {
 
         new FilterToggles();
 
-        let lodgingList = Array();
-        let lodging = new Lodging();
+        let entryList = Array();
+        let entry = new Entries();
         let filterOptions = Array();
         let pagination = _.clone(PAGINATION_DEFAULTS);
-        let fullLodgingList = {};
+        let fullEntriesList = {};
         let getFilterMatchType = new GetFilterMatchType();
         let sortMenu = new SortMenu();
         let sortAlpha = false;
 
         /**
-         * Call to get the lodging data
+         * Call to get the entry data
          * @param
          * @return
          */
@@ -57,15 +57,15 @@ function buildLodging() {
             contentType: 'application/json; charset=utf-8'
         })
     	$.getJSON('/lodgingitems/index.json', (data) => {
-            fullLodgingList = _.cloneDeep(data);
-            lodgingList = data;
-            lodgingList = sortMenu.sortAscending(lodgingList, 'property_name');
-            lodgingList = lodging.sortByInitialPriority(lodgingList);
-            resetPagination(lodgingList);
-            outputLodging(lodgingList);
-            buildFilterMenu('property_category', '#filter-by-category', fullLodgingList, false, 'All Categories', lodgingCategoryOptions);
-            buildFilterMenu('city', '#filter-by-city', fullLodgingList, false, 'All Cities');
-            buildFilterMenu('amenityList', '#filter-by-amenity', fullLodgingList, true, 'All Amenities', lodgingAmenityOptions);
+            fullEntriesList = _.cloneDeep(data);
+            entryList = data;
+            entryList = sortMenu.sortAscending(entryList, 'property_name');
+            entryList = entry.sortByInitialPriority(entryList);
+            resetPagination(entryList);
+            outputEntries(entryList);
+            buildFilterMenu('property_category', '#filter-by-category', fullEntriesList, false, 'All Categories', entryCategoryOptions);
+            buildFilterMenu('city', '#filter-by-city', fullEntriesList, false, 'All Cities');
+            buildFilterMenu('amenityList', '#filter-by-amenity', fullEntriesList, true, 'All Amenities', entryAmenityOptions);
         })
         .fail(function(jqXHR, status, error) {
             console.log(status);
@@ -75,24 +75,24 @@ function buildLodging() {
          * Setup Menu Sorting
          */
         $('#sort-menu-ascending').click(function(){
-            lodgingList = sortMenu.sortAscending(lodgingList, 'property_name');
+            entryList = sortMenu.sortAscending(entryList, 'property_name');
             sortMenu.setClasses($(this));
-            resetPagination(lodgingList);
-            outputLodging(lodgingList);
+            resetPagination(entryList);
+            outputEntries(entryList);
             sortAlpha = true
         });
         $('#sort-menu-descending').click(function(){
-            lodgingList = sortMenu.sortDescending(lodgingList, 'property_name');
+            entryList = sortMenu.sortDescending(entryList, 'property_name');
             sortMenu.setClasses($(this));
-            resetPagination(lodgingList);
-            outputLodging(lodgingList);
+            resetPagination(entryList);
+            outputEntries(entryList);
             sortAlpha = true
         });
 
         /**
-         * Handles writing the lodging data by appending the template to the given div
+         * Handles writing the entry data by appending the template to the given div
          */
-        function outputLodging(list) {
+        function outputEntries(list) {
             let limit = pagination.page * pagination.show;
             let start = limit - pagination.show;
             let validEntry = false;
@@ -106,7 +106,7 @@ function buildLodging() {
                 }
 
                 if (index >= start && index < limit) {
-                    $('#lodging-output').append(lodging.generateTemplate(val));
+                    $('#lodging-output').append(entry.generateTemplate(val));
                 };
             });
 
@@ -286,20 +286,20 @@ function buildLodging() {
             //if not on the map tab, briefly enable map with no opacity to allow the map to update
             enableMap();
 
-            lodgingList = buildFilteredList(fullLodgingList, filterOptions);
+            entryList = buildFilteredList(fullEntriesList, filterOptions);
 
             //update map markers
-            reloadMapMarkers(lodgingList);
+            reloadMapMarkers(entryList);
 
             //if not on the map tab, disable the map, now that it has been updated
             disableMap();
 
-            outputLodging(lodgingList);
+            outputEntries(entryList);
         }
 
         // 
         function buildFilteredList(list, filters) {
-            // create copy of lodgingList
+            // create copy of entryList
 
             let itemPassedFilterChecks = {};
             let filteredList = _.filter(list, (item) => {
@@ -352,9 +352,9 @@ function buildLodging() {
 
             //Sort by Intial Priority (only if Alpha sorting is off)
             if(!sortAlpha){
-                filteredList = lodging.sortByInitialPriority(filteredList);
+                filteredList = entry.sortByInitialPriority(filteredList);
             }
-            // call outputLodging with the updated list
+            // call outputEntries with the updated list
             return filteredList;
         }
 
@@ -412,13 +412,13 @@ function buildLodging() {
         function updatePagination(action) {
             if (action === PAGINATION_ACTIONS.next && pagination.show * pagination.page < pagination.total) {
                 pagination.page = pagination.page + 1;
-                outputLodging(lodgingList);
+                outputEntries(entryList);
             } else if (action === PAGINATION_ACTIONS.prev && pagination.page > 1) {
                 pagination.page = pagination.page - 1;
-                outputLodging(lodgingList);
+                outputEntries(entryList);
             } else if (action > 0) {
                 pagination.page = action;
-                outputLodging(lodgingList);
+                outputEntries(entryList);
             }
 
             setPaginationClasses();
@@ -458,14 +458,14 @@ function buildLodging() {
         }
 
         /**
-         * Creates a map marker for each lodging entry and pushes it to markersArray.
-         * @param {object | val} - the given lodging entry
+         * Creates a map marker for each entry entry and pushes it to markersArray.
+         * @param {object | val} - the given entry entry
          * @return null
          */
         function createMarker(val){ 
             //create the info window
             let infowindow = new google.maps.InfoWindow({
-                content: "<span class='map-info-window'>" + lodging.generateTemplate(val) + "</span>"
+                content: "<span class='map-info-window'>" + entry.generateTemplate(val) + "</span>"
             });
             let markerPosition = {lat: parseFloat(val.latitude), lng: parseFloat(val.longitude)};
 
@@ -492,21 +492,21 @@ function buildLodging() {
         }
 
         /**
-         * Accepts a list of lodging entries and display only the corresponding map markers.
-         * @param {list | lodgingList} - the lodging entries to be displayed on the map
+         * Accepts a list of entry entries and display only the corresponding map markers.
+         * @param {list | entryList} - the entry entries to be displayed on the map
          * @return null
          */
-        function reloadMapMarkers(lodgingList){
+        function reloadMapMarkers(entryList){
             // first, hide all map markers
             for (let i = 0; i < markersArray.length; i++){
                 markersArray[i].setVisible(false);
             }
 
             //check every list item against every map marker
-            for (let i = 0; i < lodgingList.length; i++){
+            for (let i = 0; i < entryList.length; i++){
                 for (let j = 0; j < markersArray.length; j++){
                     // if the list item lat/lng matches the map marker lat/lng, make the marker visible
-                    if ((lodgingList[i].latitude == markersArray[j].getPosition().lat()) && (lodgingList[i].longitude == markersArray[j].getPosition().lng())){
+                    if ((entryList[i].latitude == markersArray[j].getPosition().lat()) && (entryList[i].longitude == markersArray[j].getPosition().lng())){
                         markersArray[j].setVisible(true);
                         j = markersArray.length;
                     }
@@ -546,4 +546,4 @@ function buildLodging() {
 
 }
 
-window.onload = buildLodging;
+window.onload = buildEntries;
