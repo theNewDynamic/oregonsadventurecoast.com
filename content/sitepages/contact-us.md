@@ -1,7 +1,7 @@
 ---
 title: Contact Us for Oregon Coast Trip Ideas
 aliases:
-  - /contact/visitors-packet
+- "/contact/visitors-packet"
 layout: contact
 url: "/contact"
 photo: "/img/contact-page-header.jpg"
@@ -41,8 +41,7 @@ Coos Bay, OR 97420
 [Email Us](mailto:info@oregonsadventurecoast.com)  
 (541) 269-0215
 
-Find information, maps, and public restrooms.
-Open Mon – Fri, 9am-5pm, Sat 11am-3pm. Extended summer hours include Sun 10am-3pm (_Memorial Day – Labor Day_). Our visitor center staff are more then happy to [mail you visitor information](#contactform) or [relocation information](/relocation-info-request/#relocationform) upon request.
+Find information, maps, and public restrooms. Open Mon – Fri, 9am-5pm, Sat 11am-3pm. Extended summer hours include Sun 11am-3pm (_Memorial Day – Labor Day_). Our visitor center staff are happy to [mail you visitor information](#contactform) or [relocation information](/relocation-info-request/#relocationform) upon request.
 \++++
 **North Bend Visitor Information Center**  
 1380 Sherman Ave  
@@ -50,8 +49,10 @@ North Bend, OR 97459
 [Email Us](mailto:nbinfo@northbendcity.org)  
 (541) 756-4613
 
-Find information, maps, public restrooms and public computer. Located adjacent to Simpson Park. Open daily. Our visitor centers are more then happy to mail you visitor information or relocation information upon request.
-\++++
+Find information, maps, public restrooms and public computer. Located adjacent to Simpson Park. Open Tuesday-Sunday. Our visitor centers are happy to [mail you visitor information](https://www.oregonsadventurecoast.com/contact/#contactform) or [relocation information](https://www.oregonsadventurecoast.com/relocation-info-request/#relocationform) upon request. 
+
+\++++ 
+
 **Charleston Visitor Information Center**  
 91141 Cape Arago Hwy  
 Charleston, OR 97429  
