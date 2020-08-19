@@ -11,7 +11,6 @@ seo:
 date: '2019-02-18T19:35:33.000+00:00'
 
 ---
-
 #### **Coos Bay-North Bend Visitor & Convention Bureau Staff Directory**
 
 **Janice Langlinais**  
@@ -29,5 +28,5 @@ Marketing Admin
 541-269-1181 ext 2304  
 [allison@oregonsadventurecoast.com](mailto:allison@oregonsadventurecoast.com)
 
-![](/img/Staff-meeting.jpg)  
-_VCB Staff meeting remotely during the COVID-19 "Stay at Home" directive. From Left to Right, Top Row: Allison Richards, Janice Langlinais; Bottom Row: Cheryl Crockett_
+![](/img/staff-masks.jpg)  
+_VCB Staff modeling our new crab mascot masks. From Left to Right, Cheryl Crockett, Allison Richards, Janice Langlinais_
