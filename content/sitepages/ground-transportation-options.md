@@ -18,22 +18,22 @@ draft: true
 
 #### Taxi Companies
 
-**O.C. Cab Company**
+**O.C. Cab Company**  
 1165 Newmark Ave Unit D,  
-Coos Bay, OR  
+Coos Bay, OR 97420  
 (541) 808-9269  
-[www.facebook.com/OCCabCo]( www.facebook.com/OCCabCo)
+[www.facebook.com/OCCabCo](www.facebook.com/OCCabCo)
 
-**Yellow Cab Taxi Company**
+**Yellow Cab Taxi Company**  
 2756 Woodland Drive  
-Coos Bay, OR 97420
+Coos Bay, OR 97420  
 (541) 267-3111  
-[www.yellowcabcoosbay.com]( www.yellowcabcoosbay.com)
+[www.yellowcabcoosbay.com](www.yellowcabcoosbay.com)
 
-**South Coast Taxi**
+**South Coast Taxi**  
 Coos Bay, OR 97420  
 (541) 252-1461  
-[www.southcoasttaxicoosbay.com]( www.southcoasttaxicoosbay.com)
+[www.southcoasttaxicoosbay.com](www.southcoasttaxicoosbay.com)
 
 {{< spacer 50 >}}
 
