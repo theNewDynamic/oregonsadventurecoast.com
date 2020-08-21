@@ -39,19 +39,36 @@ Coos Bay, OR 97420
 
 #### Luxury Shuttles and Limousines
 
-Black Diamond Luxury Shuttle Coos Bay, OR 97420 (521) 297-3456 www.facebook.com/blackdiamondluxuryshuttle/
+**Black Diamond Luxury Shuttle**  
+Coos Bay, OR 97420  
+ (521) 297-3456  
+[www.facebook.com/blackdiamondluxuryshuttle](www.facebook.com/blackdiamondluxuryshuttle)
 
-Mike’s Limousine North Bend, OR 97459 (541) 808-3539 or (209) 479-4436 www.facebook.com/mikeslimo
+**Mike’s Limousine**  
+North Bend, OR 97459  
+(541) 808-3539 or (209) 479-4436  
+[www.facebook.com/mikeslimo](www.facebook.com/mikeslimo)
 
-Jet Stream Limos Coos Bay, OR 97420 (541) 404-7813 or (541) 266-7777 www.jetstreamlimo.com
+**Jet Stream Limos**  
+Coos Bay, OR 97420  
+(541) 404-7813 or (541) 266-7777  
+[www.jetstreamlimo.com](www.jetstreamlimo.com)
 
-Aviation Transportation 93716 Orca Lane North Bend, OR 97459 (541) 759-4830 or (877) 315-7963 www.aviationtransportation.com Group rates available
+**Aviation Transportation**  
+93716 Orca Lane  
+North Bend, OR 97459  
+(541) 759-4830 or (877) 315-7963  
+[www.aviationtransportation.com](www.aviationtransportation.com)  
+Group rates available
 
 {{< spacer 50 >}}
 
-Mass Transit
+#### Mass Transit
 
-Coos County Area Transit Coos Bay, Or 97420 (541) 267-7111 www.coostransit.org/
+**Coos County Area Transit**  
+Coos Bay, Or 97420  
+(541) 267-7111  
+[www.coostransit.org](www.coostransit.org)
 
 {{< spacer 50 >}}
 
