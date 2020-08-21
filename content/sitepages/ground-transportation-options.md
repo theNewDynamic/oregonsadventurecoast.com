@@ -14,7 +14,7 @@ boxes: []
 draft: true
 
 ---
-**On Oregon's Adventure Coast, we offer a variety of ground transportation options for getting around the Coos Bay, North Bend and Charleston Areas**, including mass transit, taxi services and luxury shuttles/limousines. There are also several car rental locations. Below is the list of services, or click to [download a PDF list](/img/Transportation-Options-08-2020.pdf).
+**On Oregon's Adventure Coast, we offer a variety of ground transportation options for getting around the Coos Bay, North Bend and Charleston Areas**, including mass transit, taxi services and luxury shuttles/limousines. There are also several car rental locations. Below is the list of services, or click to [download a PDF list](/img/Transportation-Options-08-2020-REV.pdf).
 
 #### Taxi Companies
 
@@ -37,26 +37,26 @@ Coos Bay, OR 97420
 
 #### Luxury Shuttles and Limousines
 
-**Black Diamond Luxury Shuttle**   
-Coos Bay, OR 97420   
-(521) 297-3456   
+**Black Diamond Luxury Shuttle**  
+Coos Bay, OR 97420  
+(521) 297-3456  
 [www.facebook.com/blackdiamondluxuryshuttle/](http://www.facebook.com/blackdiamondluxuryshuttle/)
 
-**Mike’s Limousine**   
-North Bend, OR 97459   
-(541) 808-3539 or (209) 479-4436   
+**Mike’s Limousine**  
+North Bend, OR 97459  
+(541) 808-3539 or (209) 479-4436  
 [www.facebook.com/mikeslimo](http://www.facebook.com/mikeslimo)
 
-**Jet Stream Limos**   
-Coos Bay, OR 97420   
-(541) 404-7813 or (541) 266-7777   
+**Jet Stream Limos**  
+Coos Bay, OR 97420  
+(541) 404-7813 or (541) 266-7777  
 [www.jetstreamlimo.com](http://www.jetstreamlimo.com)
 
-**Aviation Transportation**   
-93716 Orca Lane   
-North Bend, OR 97459   
-(541) 759-4830 or (877) 315-7963   
-[www.aviationtransportation.com](http://www.aviationtransportation.com)   
+**Aviation Transportation**  
+93716 Orca Lane  
+North Bend, OR 97459  
+(541) 759-4830 or (877) 315-7963  
+[www.aviationtransportation.com](http://www.aviationtransportation.com)  
 Group rates available
 
 #### Mass Transit
