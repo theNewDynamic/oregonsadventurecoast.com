@@ -72,12 +72,28 @@ Coos Bay, Or 97420
 
 {{< spacer 50 >}}
 
-Rental Car Agencies
+#### Rental Car Agencies
 
-Enterprise Rent-a-Car 455 N. Broadway Coos Bay, OR 97420 (541) 266-7100 www.enterprise.com
+**Enterprise Rent-a-Car**  
+455 N. Broadway  
+Coos Bay, OR 97420  
+(541) 266-7100  
+[www.enterprise.com](www.enterprise.com)
 
-Enterprise Rent-a-Car (Airport Location) 1100 Airport Lane North Bend, OR 97459 (541) 751-0298 www.enterprise.com
+**Enterprise Rent-a-Car (Airport Location)**  
+1100 Airport Lane  
+North Bend, OR 97459  
+(541) 751-0298  
+[www.enterprise.com](www.enterprise.com)
 
-Hertz Rent a Car (Airport Location) 1100 Airport Lane North Bend, OR 97459 (541) 756-4416 www.hertz.com
+**Hertz Rent a Car (Airport Location)**  
+1100 Airport Lane  
+North Bend, OR 97459  
+(541) 756-4416  
+[www.hertz.com](www.hertz.com)
 
-Toyota Rent a Car 2001 N. Bayshore Drive (Hwy 101) Coos Bay, OR 97420 (541) 267-3121 www.coosbaytoyota.com/rental
+**Toyota Rent a Car**  
+2001 N. Bayshore Drive (Hwy 101)  
+Coos Bay, OR 97420  
+(541) 267-3121  
+[www.coosbaytoyota.com/rental](www.coosbaytoyota.com/rental)
