@@ -16,6 +16,8 @@ draft: true
 ---
 **On Oregon's Adventure Coast, we offer a variety of ground transportation options for getting around the Coos Bay, North Bend and Charleston Areas**, including mass transit, taxi services and luxury shuttles/limousines. There are also several car rental locations. Below is the list of services, or click to [download a PDF list](/img/Transportation-Options-08-2020-REV.pdf).
 
+###### {{< spacer 50 >}}
+
 #### Taxi Companies
 
 **O.C. Cab Company**  
@@ -34,6 +36,8 @@ Coos Bay, OR 97420
 Coos Bay, OR 97420  
 (541) 252-1461  
 [www.southcoasttaxicoosbay.com](http://www.southcoasttaxicoosbay.com)
+
+###### {{< spacer 50 >}}
 
 #### Luxury Shuttles and Limousines
 
@@ -59,9 +63,39 @@ North Bend, OR 97459
 [www.aviationtransportation.com](http://www.aviationtransportation.com)  
 Group rates available
 
+###### {{< spacer 50 >}}
+
 #### Mass Transit
 
 **Coos County Area Transit**  
 Coos Bay, Or 97420  
 (541) 267-7111  
 [www.coostransit.org/](http://www.coostransit.org/)
+
+###### {{< spacer 50 >}}
+
+#### Rental Car Agencies
+
+**Enterprise Rent-a-Car**  
+455 N. Broadway  
+Coos Bay, OR 97420  
+(541) 266-7100  
+[www.enterprise.com](http://www.enterprise.com)
+
+**Enterprise Rent-a-Car (Airport Location)**  
+1100 Airport Lane  
+North Bend, OR 97459  
+(541) 751-0298  
+[www.enterprise.com](http://www.enterprise.com)
+
+**Hertz Rent a Car (Airport Location)**  
+1100 Airport Lane  
+North Bend, OR 97459  
+(541) 756-4416  
+[www.hertz.com](http://www.hertz.com)
+
+**Toyota Rent a Car**  
+2001 N. Bayshore Drive (Hwy 101)  
+Coos Bay, OR 97420  
+(541) 267-3121  
+[www.coosbaytoyota.com/rental](http://www.coosbaytoyota.com/rental)
