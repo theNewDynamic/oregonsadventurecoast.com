@@ -1,7 +1,7 @@
 import _ from 'lodash';
-import {lodgingAmenityOptions} from './lodging-amenities';
-import {lodgingCostOptions} from './lodging-cost';
-import {lodgingCategoryOptions} from './lodging-categories';
+import {entryAmenityOptions} from './lodging-amenities';
+import {entryCostOptions} from './lodging-cost';
+import {entryCategoryOptions} from './lodging-categories';
 import FindOptionData from '../common/find-option-data';
 import GoogleMapLink from '../maps/GoogleMapLink';
 
@@ -100,7 +100,7 @@ export default class Lodging {
     generateAmenityListTpl(amenities) {
         let amenityTpl = '';
         _.forEach(amenities, (val) => {
-            let amenityData = this.findOptionData.find(lodgingAmenityOptions, val);
+            let amenityData = this.findOptionData.find(entryAmenityOptions, val);
             if (amenityData !== undefined) {
                 amenityTpl += `
                     <li class="${amenityData.class}"></li>
@@ -117,7 +117,7 @@ export default class Lodging {
      * @return {object} - returns the found object or an empty object
      */
     generateCostTpl(cost) {
-        let costTpl = this.findOptionData.find(lodgingCostOptions, cost);
+        let costTpl = this.findOptionData.find(entryCostOptions, cost);
         
         if (costTpl !== undefined) {
             return costTpl;
@@ -132,7 +132,7 @@ export default class Lodging {
      * @return {string} - category name
      */
     generateCategoryTpl(cat) {
-        let catTpl = this.findOptionData.find(lodgingCategoryOptions, cat);
+        let catTpl = this.findOptionData.find(entryCategoryOptions, cat);
         
         if (catTpl !== undefined) {
             return catTpl;
