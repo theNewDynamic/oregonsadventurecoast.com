@@ -25,7 +25,9 @@ There is no shortage of fabulous [RV Parks & Campsites on Oregon’s Adventure C
 
 ### Bastendorff Beach County Park
 
-63379 Bastendorff Beach Road ⚈ Charleston, OR 97420 ⚈ 541-888-5353 ⚈ www.co.coos.or.us
+63379 Bastendorff Beach Road ⚈ Charleston, OR 97420 ⚈ 541-888-5353 ⚈ [www.co.coos.or.us](http://www.co.coos.or.us/Departments/CoosCountyParks/Bastendorff.aspx)
+
+![](/img/bastendorf-google-images-september-2016-cherie-peterson.png)
 
 _Photo @Cherie Peterson_
 
@@ -35,7 +37,9 @@ _“Camp sites private, small but clean. One of our favorite camp grounds!” -_
 
 ### Bay Point Landing Modern Camping Resort
 
-92443 Cape Arago Highway ⚈ Coos Bay, OR 97420 ⚈ 541-351-9160 ⚈ [baypointlanding.com/](https://baypointlanding.com/)
+92443 Cape Arago Highway ⚈ Coos Bay, OR 97420 ⚈ 541-351-9160 ⚈ [baypointlanding.com](https://baypointlanding.com/)
+
+![](/img/image-bay-point-landing-via-google-jul-2020.png)
 
 _Photo @ Bay Point Landing_
 
@@ -47,6 +51,8 @@ _“Peaceful place, there's a lot of places to go and see around them. Just plan
 
 Horsfall Road ⚈ North Bend, OR 97459 ⚈ 877-444-6777 ⚈ [www.fs.usda.gov/recarea/siuslaw](https://www.fs.usda.gov/recarea/siuslaw/null/recarea/?recid=42647&actid=42)
 
+![](/img/bluebill-campground-photo-doug-nechodom-sep-2019.png)
+
 _Bluebill Campground Photo @ Doug Nechodom Sep 2019_
 
 Bluebill is located in the Horsfall Area, known for its excellent off-road vehicle trails of the dunes, less than a mile from Pacific Coast beaches & 2 miles north of North Bend. Bluebill has drinking water, vault toilets, campfire pits & dumpsters.
@@ -57,6 +63,8 @@ _“We loved staying at this campground. Peaceful, beautiful, small, and cozy...
 
 Horsfall Road ⚈ North Bend, OR 97459 ⚈ 877-444-6777 ⚈ [www.recreation.gov/camping](https://www.recreation.gov/camping/campgrounds/232183)
 
+![](/img/horsfall-beach-ohv-campground-photo-epuerto-oregon-google-may-2020.png)
+
 _Photo @ EPUERTO Oregon_
 
 Horsfall Beach Campground is ideal for off-road vehicle riders or those looking to take it easy on the beach. Flush toilets, drinking water, picnic area, accessible beach viewing platform. Dunes trails & open riding zones are north of the campground.
@@ -66,6 +74,8 @@ Horsfall Beach Campground is ideal for off-road vehicle riders or those looking 
 ### Spinreel Campground
 
 Spinreel Road ⚈ North Bend, OR 97459 ⚈ 877-444-6777 ⚈ [www.fs.usda.gov/recarea/siuslaw](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42653)
+
+![](/img/safe-camping-destinations-on-oregon-s-adventure-coast-blog-695x322-jpg.jpg)
 
 _Photo @ m Haigh July 2020_
 
@@ -91,7 +101,7 @@ While these destinations can offer much-needed wellness benefits, it is importan
 * Looking for some social distancing options in Coos Bay, North Bend and Charleston? [Here are some great ideas](https://www.oregonsadventurecoast.com/blog/five-fun-ways-to-social-distance-on-oregon-s-adventure-coast/)!
 * Bring all essentials to avoid unnecessary stops and additional points of contact. Bring all the supplies needed including the [Ten Essentials](https://www.nps.gov/articles/10essentials.htm), hand sanitizer, face coverings, money for park fees and gas. Pack out what you pack in and help us keep our parks clean and ready for the next visitors.
 * Keep a [distance of six feet](https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html) or more between yourself and others outside of your group. According to [standard trail etiquette](https://www.rei.com/blog/hike/trail-etiquette-who-has-the-right-of-way), hikers coming uphill have the right of way.
-* Do not linger in parking lots, trailheads or boat ramps. Parking areas, trailheads and boat ramps can get crowded quickly, hindering emergency and residential access. Park your car in designated areas only.
+* Do not linger in parking lots, trailheads, or boat ramps. Parking areas, trailheads, and boat ramps can get crowded quickly, hindering emergency and residential access. Park your car in designated areas only.
 * Keep pets leashed with a 6-feet distance from other people and animals. The CDC reports that pets can contract COVID-19.
 
-If you plan carefully and practice common sense safety guidelines, camping on Oregon’s Adventure Coast: Coos Bay, North Bend and Charleston is an experience worth having. This summer, come discover the beautiful natural gems in our region.
+If you plan carefully and practice common-sense safety guidelines, camping on Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston is an experience worth having. This summer, come discover the beautiful natural gems in our region.
