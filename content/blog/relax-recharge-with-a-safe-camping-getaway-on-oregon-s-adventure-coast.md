@@ -12,7 +12,6 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-draft: true
 
 ---
 If you’re feeling more stressed and anxious than normal, you are not alone. The past few months have been an extraordinarily trying time for most Americans. Many of us are experiencing [pandemic fatigue](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/how-to-deal-with-coronavirus-burnout-and-pandemic-fatigue) that is only exacerbated by tense social, economic and political tensions. One way to battle these tense emotions is to get back to nature.
