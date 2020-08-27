@@ -1,9 +1,28 @@
 ---
 title: 'Relax & Recharge with a Safe Camping Getaway on Oregon’s Adventure Coast '
 date: 2020-08-26T04:00:00+00:00
-description: ''
+description: 'There is no shortage of fabulous RV Parks & Campsites on Oregon’s Adventure
+  Coast: Coos Bay, North Bend and Charleston and in this post, we are highlighting
+  some uncrowded destinations where you can let go and let nature do its thing.'
 image: "/img/safe-camping-destinations-on-oregon-s-adventure-coast-blog-695x322-jpg.jpg"
-tags: []
+tags:
+- camping
+- 'Sunset Bay State Park '
+- Bastendorff Beach County Park
+- Bay Point Landing Modern Camping Resort
+- Bluebill Campground
+- Horsfall Beach OHV Campground
+- Spinreel Campground
+- 'Oregon Coast '
+- Oregon's South Coast
+- 'Camping on the Oregon Coast '
+- safe campgrounds
+- uncrowded campgrounds
+- 'beaches '
+- pacific northwest
+- Coos Bay
+- 'Charleston Oregon '
+- 'North Bend Oregon '
 categories: []
 seo:
   title: ''
