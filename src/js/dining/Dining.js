@@ -1,5 +1,4 @@
 import _ from 'lodash';
-import {diningCategoryOptions} from './dining-categories';
 import FindOptionData from '../common/find-option-data';
 import GoogleMapLink from '../maps/GoogleMapLink';
 
