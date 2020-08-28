@@ -1,6 +1,6 @@
 ---
 title: Kayak Fishing 101 on Oregon’s Adventure Coast
-date: 2019-07-24T21:00:00-07:00
+date: 2019-07-24T21:00:00.000-07:00
 description: Kayak fishing offers serenity and unsurpassed views of natural habitats
   and scenery that can only be found deep in the lakes, rivers and open water along
   the Pacific coastline. In this post, we're sharing answers to commonly asked questions
@@ -20,9 +20,11 @@ categories:
 - Kayaking
 
 ---
+Updated 8.28.2020
+
 ### "Many go fishing all their lives without knowing that it is not fish they are after." - Henry David Thoreau
 
-Kayak fishing is more popular than ever on Oregon’s South Coast, and with the [10th Annual Sunset Bay Angler Of The Day Kayak Fishing Challenge](https://www.facebook.com/events/sunset-bay-state-park/10th-annual-sunset-bay-angler-of-the-day-kayak-fishing-challenge/1213726548778689/) coming up August 24th, we thought this would the perfect time to share some answers to commonly asked questions about kayak fishing on Oregon’s Adventure Coast.
+Kayak fishing has grown exponentially on Oregon’s South Coast, so we thought this would a great time to share some answers to commonly asked questions about kayak fishing on Oregon’s Adventure Coast.
 
 **What’s so special about kayak fishing, you may ask?** Many people will say that they are drawn to this growing watersport for the purpose of ease and simplicity. You are not required to buy or rent expensive equipment and the sport is accessible to anglers of all skill levels. “Most fishing kayaks will float in 6" of water while holding up to 350 pounds of cargo,” writes Jerry White in [_Why Fish From a Kayak_](https://paddling.com/learn/why-fish-from-a-kayak/). “Not only does that make it easier to get on the water, but usually these places aren't accessible to conventional boats, either by law (designated as a "No Motor Zone") or by nature itself. .
 
