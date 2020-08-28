@@ -20,7 +20,7 @@ categories:
 - Kayaking
 
 ---
-Updated 8.28.2020
+Updated 8.28.2020  
 
 ### "Many go fishing all their lives without knowing that it is not fish they are after." - Henry David Thoreau
 
@@ -32,8 +32,7 @@ In addition to being more accessible, kayak fishing offers serenity and unsurpas
 
 ![](/img/kayak fishing ocean blog 695X322.jpg)
 
-**Where Can I Rent Kayaks and Fishing Gear?**
-Unless you’re BYOY (bring your own yak) you’ll need to rent one from one of our local businesses.
+**Where Can I Rent Kayaks and Fishing Gear?** Unless you’re BYOY (bring your own yak) you’ll need to rent one from one of our local businesses. **_The information in this post is subject to change without notice. Please contact the business directly to confirm hours and availability._**
 
 * [Waxer’s Surf Shop](http://www.surfwaxers.com/) in Coos Bay is a great place to rent a quality kayak and other sports gear and equipment from helpful, knowledgeable staff members.
 * [South Coast Tours](https://www.southcoasttours.net/), one of Oregon’s premier guided tour companies is now partnering with Oregon State Parks to offer kayaking rental packages right on Sunset Bay State Park between 10am-4pm on weekends.
