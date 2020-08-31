@@ -95,7 +95,7 @@ function buildEntries() {
             let validEntry = false;
 
             // Reset output
-            $('#dining-output').html('');
+            $('#entry-output').html('');
 
             _.forEach(list, (val, index) => {
                 if(typeof val.latitude != "undefined" && typeof val.longitude != "undefined") {
@@ -103,7 +103,7 @@ function buildEntries() {
                 }
 
                 if (index >= start && index < limit) {
-                    $('#dining-output').append(entry.generateTemplate(val));
+                    $('#entry-output').append(entry.generateTemplate(val));
                 };
             });
 

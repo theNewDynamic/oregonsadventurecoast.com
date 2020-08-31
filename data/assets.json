@@ -8,8 +8,8 @@
     "jsIntegrity": "sha256-Hv3QtUV5FvdIgR2cew1hWKViSYz3KC625stiw4v+EOU="
   },
   "dining": {
-    "js": "/dist/dining.0e239dbf248cfbe03b03.js",
-    "jsIntegrity": "sha256-2PYrfpYojQj5oU2EEs1aG1yqE8t6KTmhSBKbSr54o40="
+    "js": "/dist/dining.b3897078d60539e28d0d.js",
+    "jsIntegrity": "sha256-URoMid8L0dUNsrgp2ihWeMKCL2GP9KTbbR9bShgZXms="
   },
   "equipment": {
     "js": "/dist/equipment.b68d018f66e0543ce188.js",
@@ -24,8 +24,8 @@
     "jsIntegrity": "sha256-gnArUm4kCBbNYO1GItJ/zhlOIlNC0wMijcQYnuEdPL0="
   },
   "lodging": {
-    "js": "/dist/lodging.13329c9c1b3be13928d2.js",
-    "jsIntegrity": "sha256-XPuw9Ik3uFnQgv9neC5nHQxB/FWYgZ/3QLEByTjPJlY="
+    "js": "/dist/lodging.eeff811caf8f2fa90c8b.js",
+    "jsIntegrity": "sha256-sGrUFSi1ocZDi66UT760YGWjcg4Mr9uHeJhNooOiGGI="
   },
   "main": {
     "js": "/dist/main.10d65ab9a1f72c7ff592.js",

@@ -98,7 +98,7 @@ function buildEntries() {
             let validEntry = false;
 
             // Reset output
-            $('#lodging-output').html('');
+            $('#entry-output').html('');
 
             _.forEach(list, (val, index) => {
                 if(typeof val.latitude != "undefined" && typeof val.longitude != "undefined") {
@@ -106,7 +106,7 @@ function buildEntries() {
                 }
 
                 if (index >= start && index < limit) {
-                    $('#lodging-output').append(entry.generateTemplate(val));
+                    $('#entry-output').append(entry.generateTemplate(val));
                 };
             });
 
