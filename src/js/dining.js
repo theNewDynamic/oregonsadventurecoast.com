@@ -58,9 +58,10 @@ function buildEntries() {
     .done((data) => {
         fullEntriesList = _.cloneDeep(data);
         entryList = data;
+        entryList = sortMenu.sortAscending(entryList, 'property_name');
         resetPagination(entryList);
         outputEntries(entryList);
-        buildFilterMenu('property_category', '#filter-by-category', fullEntriesList, true, 'All Categories');
+        buildFilterMenu('property_category', '#filter-by-category', fullEntriesList, true, 'All Categories', entryCategoryOptions);
         buildFilterMenu('city', '#filter-by-city', fullEntriesList, false, 'All Cities');
     })
     .fail(function(jqXHR, status, error) {
@@ -346,10 +347,6 @@ function buildEntries() {
             // reset pagination
             resetPagination(filteredList);
 
-            //Sort by Intial Priority (only if Alpha sorting is off)
-            if(!sortAlpha){
-                filteredList = entry.sortByInitialPriority(filteredList);
-            }
             // call outputEntries with the updated list
             return filteredList;
         }
