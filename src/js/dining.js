@@ -61,7 +61,7 @@ function buildEntries() {
         entryList = sortMenu.sortAscending(entryList, 'property_name');
         resetPagination(entryList);
         outputEntries(entryList);
-        buildFilterMenu('category', '#filter-by-category', fullEntriesList, true, 'All Categories', entryCategoryOptions);
+        buildFilterMenu('category', '#filter-by-category', fullEntriesList, true, 'All Categories');
         buildFilterMenu('city', '#filter-by-city', fullEntriesList, false, 'All Cities');
     })
     .fail(function(jqXHR, status, error) {
