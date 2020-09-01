@@ -1,14 +1,38 @@
-// Lodging JS
+// Entries JS
+
+var entriesType = document.getElementById("entryTiles").getAttribute("entry-type");
+
 import _ from 'lodash';
-import Entries from './lodging/Lodging';
 import FilterToggles from './common/filter-toggles';
 import {PAGINATION_DEFAULTS, PAGINATION_ACTIONS, FILTER_OPTION} from './common/constants';
-import {entryAmenityOptions} from './lodging/lodging-amenities';
-import {entryCategoryOptions} from './lodging/lodging-categories';
-import {LODGING_FILTER_MATCH_BY} from './lodging/lodging-filter-match-by';
 import GetFilterMatchType from './common/get-filter-match-type';
 import SortMenu from './common/sort-menu';
 import Map from './maps/Map';
+
+import Lodging from './lodging/Lodging';
+import Dining from './dining/Dining';
+
+import {LodgingAmenityOptions} from './lodging/lodging-amenities';
+import {LodgingCategoryOptions} from './lodging/lodging-categories';
+
+import {DINING_FILTER_MATCH_BY} from './dining/dining-filter-match-by';
+import {LODGING_FILTER_MATCH_BY} from './lodging/lodging-filter-match-by';
+
+let Entries = "";
+let entryAmenityOptions = "";
+let entryCategoryOptions = "";
+let ENTRY_FILTER_MATCH_BY = "";
+
+if (entriesType == "lodging") {
+    Entries = Lodging;
+    entryAmenityOptions = LodgingAmenityOptions;
+    entryCategoryOptions = LodgingCategoryOptions;
+    ENTRY_FILTER_MATCH_BY = LODGING_FILTER_MATCH_BY;
+}
+else if (entriesType == "dining") {
+    Entries = Dining;
+    ENTRY_FILTER_MATCH_BY = DINING_FILTER_MATCH_BY;
+}
 
 function buildEntries() {
     
@@ -51,25 +75,46 @@ function buildEntries() {
          * @param
          * @return
          */
-        $.ajax({
-            url: api_url + '/data-api/index.php?method=get&type=lodging',
-            dataType: 'jsonp',
-            contentType: 'application/json; charset=utf-8'
-        })
-    	$.getJSON('/lodgingitems/index.json', (data) => {
-            fullEntriesList = _.cloneDeep(data);
-            entryList = data;
-            entryList = sortMenu.sortAscending(entryList, 'property_name');
-            entryList = entry.sortByInitialPriority(entryList);
-            resetPagination(entryList);
-            outputEntries(entryList);
-            buildFilterMenu('property_category', '#filter-by-category', fullEntriesList, false, 'All Categories', entryCategoryOptions);
-            buildFilterMenu('city', '#filter-by-city', fullEntriesList, false, 'All Cities');
-            buildFilterMenu('amenityList', '#filter-by-amenity', fullEntriesList, true, 'All Amenities', entryAmenityOptions);
-        })
-        .fail(function(jqXHR, status, error) {
-            console.log(status);
-        });
+        if (entriesType == "lodging") {
+            $.ajax({
+                url: api_url + '/data-api/index.php?method=get&type=lodging',
+                dataType: 'jsonp',
+                contentType: 'application/json; charset=utf-8'
+            })
+    	    $.getJSON('/lodgingitems/index.json', (data) => {
+                fullEntriesList = _.cloneDeep(data);
+                entryList = data;
+                entryList = sortMenu.sortAscending(entryList, 'property_name');
+                entryList = entry.sortByInitialPriority(entryList);
+                resetPagination(entryList);
+                outputEntries(entryList);
+                buildFilterMenu('property_category', '#filter-by-category', fullEntriesList, false, 'All Categories', entryCategoryOptions);
+                buildFilterMenu('city', '#filter-by-city', fullEntriesList, false, 'All Cities');
+                buildFilterMenu('amenityList', '#filter-by-amenity', fullEntriesList, true, 'All Amenities', entryAmenityOptions);
+            })
+            .fail(function(jqXHR, status, error) {
+                console.log(status);
+            });
+        }
+        else if (entriesType == "dining") {
+            $.ajax({
+                url: api_url + '/data-api/index.php?method=get&type=dining',
+                dataType: 'jsonp',
+                contentType: 'application/json; charset=utf-8'
+            })
+            .done((data) => {
+                fullEntriesList = _.cloneDeep(data);
+                entryList = data;
+                entryList = sortMenu.sortAscending(entryList, 'property_name');
+                resetPagination(entryList);
+                outputEntries(entryList);
+                buildFilterMenu('category', '#filter-by-category', fullEntriesList, true, 'All Categories');
+                buildFilterMenu('city', '#filter-by-city', fullEntriesList, false, 'All Cities');
+            })
+            .fail(function(jqXHR, status, error) {
+                console.log(status);
+            });
+        }
 
         /**
          * Setup Menu Sorting
@@ -311,20 +356,20 @@ function buildEntries() {
                         itemPassedFilterChecks[filterKey] = true;
                         _.forEach(filter, (filterValue) => {
                             if (item[filterKey].indexOf(filterValue) === -1 
-                                    && getFilterMatchType.getType(LODGING_FILTER_MATCH_BY, filterKey) === 'AND') {
+                                    && getFilterMatchType.getType(ENTRY_FILTER_MATCH_BY, filterKey) === 'AND') {
                                 // We've found one of the values does not exist for an AND so we fail this filterKey and stop the loop.
                                 itemPassedFilterChecks[filterKey] = false;
                                 return false;
                             } else if (item[filterKey].indexOf(filterValue) === -1 
-                                    && getFilterMatchType.getType(LODGING_FILTER_MATCH_BY, filterKey) === 'OR') {
+                                    && getFilterMatchType.getType(ENTRY_FILTER_MATCH_BY, filterKey) === 'OR') {
                                 // We've found one value does not exist, we'll set to false and keep checking since this is an OR.
                                 itemPassedFilterChecks[filterKey] = false;
                             } else if (item[filterKey].indexOf(filterValue) !== -1
-                                    && getFilterMatchType.getType(LODGING_FILTER_MATCH_BY, filterKey) === 'AND') {
+                                    && getFilterMatchType.getType(ENTRY_FILTER_MATCH_BY, filterKey) === 'AND') {
                                 // We've found a filter value that exists for an AND so we'll set to true but keep checking.
                                 itemPassedFilterChecks[filterKey] = true;
                             } else if (item[filterKey].indexOf(filterValue) !== -1
-                                    && getFilterMatchType.getType(LODGING_FILTER_MATCH_BY, filterKey) === 'OR') {
+                                    && getFilterMatchType.getType(ENTRY_FILTER_MATCH_BY, filterKey) === 'OR') {
                                 // We've found a filter value that exists for an OR so we'll set to true and exit the loop.
                                 itemPassedFilterChecks[filterKey] = true;
                                 return false;
@@ -350,9 +395,11 @@ function buildEntries() {
             // reset pagination
             resetPagination(filteredList);
 
-            //Sort by Intial Priority (only if Alpha sorting is off)
-            if(!sortAlpha){
-                filteredList = entry.sortByInitialPriority(filteredList);
+            if (entriesType == "lodging") {
+                //Sort by Intial Priority (only if Alpha sorting is off)
+                if(!sortAlpha){
+                    filteredList = entry.sortByInitialPriority(filteredList);
+                }
             }
             // call outputEntries with the updated list
             return filteredList;
