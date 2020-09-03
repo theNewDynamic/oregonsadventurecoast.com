@@ -45,6 +45,23 @@ fields:
   config: {}
   template: accordions-sections-partial
   label: Accordions Sections
+- name: warning
+  type: boolean
+  label: Warning
+  description: Should the post display the Blog's warning?
+  default: false
+- name: warning_copy
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Warning Copy
+  showOnly:
+    field: warning
+    value: true
 pages:
 - content/blog/10-awe-inspiring-photos-to-remind-us-why-we-love-oregon-s-adventure-coast.md
 - content/blog/a-two-day-oregon-coast-whale-watching-trip-itinerary.md
