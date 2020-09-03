@@ -1,4 +1,24 @@
 ---
 label: Blog Landing
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+- name: cascade
+  type: field_group
+  config: {}
+  fields:
+  - name: warning_copy
+    type: text
+    config:
+      required: false
+    label: Warning Copy
+  label: Options
