@@ -1,0 +1,10 @@
+{{ if .Params.warning }}
+  {{ with .Params.warning_copy }}
+  <div class="warning">
+    <img src="/img/blog-warning-icon.png" alt="Warning on this post">
+    <div>
+      {{ . | markdownify }}
+    </div>
+  </div>
+  {{ end }}
+{{ end }}

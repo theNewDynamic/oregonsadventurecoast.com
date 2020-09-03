@@ -1,0 +1,15 @@
+//background-color: #ffff4c; padding: 7px; margin-bottom:30px;
+.warning{
+  background-color: #FAF089;
+  padding: .7rem 1rem;
+  margin-bottom: 30px;
+  min-height: 61px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  img{
+    margin-right:.3rem;
+    width:75px;
+    height:60px;
+  }
+}
