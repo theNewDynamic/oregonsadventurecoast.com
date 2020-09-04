@@ -20,7 +20,7 @@ fields:
       schema:
         format: markdown
     label: Warning Copy
-  label: Options
+  label: Old Content Warning Text
 - name: seo
   type: include
   config: {}
