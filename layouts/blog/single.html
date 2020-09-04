@@ -26,6 +26,8 @@
         </div>
         {{ end }}
 
+        {{ .Render "warning" }}
+
         <div class="meta">
           <p class="date"><span class="icon"><i class="fas fa-calendar-alt"></i></span> {{ .Date.Format "Mon, Jan 2, 2006" }}</p>
           <p>| Categories: </p>

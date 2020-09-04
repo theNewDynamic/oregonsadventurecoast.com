@@ -24,9 +24,8 @@ tags:
 categories:
 - Culture & Museums
 image: ''
-
+warning: true
 ---
-<div style="background-color: #ffff4c; padding: 7px; margin-bottom:30px;"><img src="/img/blog-warning-icon.png" alt="Warning old content on this post" style="float:left;width:75px;height:60px;"><strong>This post may contain information, event dates or times that have changed or passed since it was first published. Please <a href="/contact">contact us</a> for the most current and up-to-date details about businesses, events and adventures.</strong></div>
 
 We believe that one of the best kept secrets on Oregon’s South Coast is the <a href="http://www.coosart.org/" target="_blank"><strong>Coos Art Museum (CAM)</strong></a>. Through collections, exhibitions and educational programs, CAM is building a robust arts and cultural scene in our community while promoting the appreciation, understanding and expression of visual arts.
 
