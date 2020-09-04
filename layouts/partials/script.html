@@ -1,6 +1,6 @@
 {{ $resource := resources.Get "js/accordions.js" | resources.Minify }}
 <script src="{{ $resource.Permalink }}"></script>
-{{ if or (eq . "dining") (eq . "lodging") }}
+{{ if eq "entries" . }}
 {{ $style := resources.Get "js/initMap.js" | resources.Minify }}
 <script src="{{ $style.Permalink }}"></script>
 {{ end }}
@@ -16,7 +16,7 @@
 {{ else }}
   <script type="text/javascript" src="{{ . }}" ></script>
 {{ end }}
-{{ if or (eq . "dining") (eq . "lodging") }}
+{{ if eq "entries" . }}
 {{ $mapKey := "" }}
 {{ with getenv "GOOGLE_MAP_API" }}
   {{ $mapKey = . }}
