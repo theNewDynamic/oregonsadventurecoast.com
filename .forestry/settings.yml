@@ -33,6 +33,10 @@ sections:
   match: "**/*"
   templates:
   - adventure
+- type: document
+  path: content/blog/_index.md
+  label: Blog Landing
+  match: "**/*"
 - type: directory
   path: content/blog
   label: Blog Posts
