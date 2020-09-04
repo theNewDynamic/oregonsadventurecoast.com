@@ -62,6 +62,8 @@ fields:
   showOnly:
     field: warning
     value: true
+  description: This will overwrite the Blog Landing's default warning copy for this
+    post.
 pages:
 - content/blog/10-awe-inspiring-photos-to-remind-us-why-we-love-oregon-s-adventure-coast.md
 - content/blog/a-two-day-oregon-coast-whale-watching-trip-itinerary.md
