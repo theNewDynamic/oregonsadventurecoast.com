@@ -1,6 +1,6 @@
 ---
 title: 'Adventure Spotlight: A Walk Through Golden and Silver Falls'
-date: 2019-02-18 21:00:00 -0800
+date: 2019-02-18T21:00:00.000-08:00
 description: "Spring is right around the corner and the need for fresh-aired exploration
   can be too great to ignore. Fortunately, there is the perfect solution right here
   on Oregon's South Coast. Pack your bag, grab a camera, get your hiking boots on,
@@ -23,9 +23,9 @@ categories:
 image: "/img/Golden and Silver Falls blog695x322.jpg"
 
 ---
-_Updated Feb 2019_
+_Updated September 2020_
 
-Spring is right around the corner and the need for fresh-aired exploration can be too great to ignore. Fortunately, there is the perfect solution right here on Oregon’s South Coast. Pack your bag, grab a camera, get your hiking boots on, and take a day trip <a href="http://alltrails.com/parks/us/oregon/golden-and-silver-falls-state-natural-area" target="_blank" rel="noopener noreferrer">Golden and Silver Falls State Natural Area</a>, “a hidden gem in the dense coastal forests” in our region.
+Even as Summer comes to an end, the need for fresh-aired exploration is too great to ignore. Fortunately, there is the perfect solution right here on Oregon’s South Coast. Pack your bag, grab a camera, get your hiking boots on, and take a day trip <a href="http://alltrails.com/parks/us/oregon/golden-and-silver-falls-state-natural-area" target="_blank" rel="noopener noreferrer">Golden and Silver Falls State Natural Area</a>, “a hidden gem in the dense coastal forests” in our region.
 
 “Hard to find, but worth the effort,” posted this <a href="https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=golden%20and%20silver%20falls&lrd=0x54c3f3a384e2d9e9:0x525b0ff0af984bd8,1,," target="_blank" rel="noopener noreferrer">recent visitor</a>. “The falls were absolutely gorgeous. If I had not been on a time schedule, I would have stayed so much longer simply to watch them. It is a relatively short hike to each of the waterfalls- Golden Falls to the right side of the park, and Silver Falls to the left,” [posted another](http://www.tripadvisor.com/ShowUserReviews-g29988-d6434056-r327001855-Golden_and_Silver_Falls-Allegany_Oregon.html#).
 
