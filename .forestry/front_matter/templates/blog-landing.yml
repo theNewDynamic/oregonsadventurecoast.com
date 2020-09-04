@@ -26,3 +26,5 @@ fields:
         format: markdown
     label: Warning Copy
   label: Options
+pages:
+- content/blog/_index.md
