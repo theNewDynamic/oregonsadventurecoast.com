@@ -7,11 +7,6 @@ fields:
   config:
     required: false
   label: Title
-- name: seo
-  type: include
-  config: {}
-  template: seo
-  label: SEO
 - name: cascade
   type: field_group
   config: {}
@@ -26,5 +21,10 @@ fields:
         format: markdown
     label: Warning Copy
   label: Options
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
 pages:
 - content/blog/_index.md
