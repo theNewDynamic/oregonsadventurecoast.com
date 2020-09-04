@@ -33,12 +33,12 @@ Coos Bay, OR 97420
 \++++
 
 [**South Coast Development Council**](https://www.scdcinc.org)
-Regional Site Selection and Business Expansion Services  
-Executive Director: Sam Baugh  
-2110 Newmark Ave  
+Regional Business Relocation and Expansion Services   
+Executive Director: Shaun Gibbs   
+2110 Newmark Ave   
 Coos Bay, OR 97420  
-(541) 888-7003  
-[Sam@scdcinc.org](mailto:Sam@scdcinc.org)
+ (541) 808-7774  
+[Shaun@scdcinc.org](mailto:Shaun@scdcinc.org)
 
 {{< /columns >}}
 
