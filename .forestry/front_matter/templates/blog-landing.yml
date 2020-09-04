@@ -17,8 +17,12 @@ fields:
   config: {}
   fields:
   - name: warning_copy
-    type: text
+    type: textarea
+    default: ''
     config:
       required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: Warning Copy
   label: Options
