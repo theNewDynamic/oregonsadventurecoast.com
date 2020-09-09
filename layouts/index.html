@@ -299,7 +299,7 @@
 
 <div class="m-home-blog clearfix">
 
-    {{ range first 3 (where .Data.Pages "Section" "blog") }}
+    {{ range first 3 (where site.RegularPages "Section" "blog") }}
         <div class="post">
             <div class="photo">
                 <a href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="{{ .Title }}"></a>
