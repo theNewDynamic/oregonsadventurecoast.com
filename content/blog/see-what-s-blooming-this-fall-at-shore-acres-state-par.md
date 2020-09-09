@@ -1,5 +1,5 @@
 ---
-title: See What’s Blooming This Fall at Shore Acres State Par
+title: See What’s Blooming This Fall at Shore Acres State Park
 date: 2020-09-09T04:00:00+00:00
 description: 'Shore Acres is a “garden for all seasons’ meaning visitors can enjoy
   it any time of the year, but If you happen to be visiting this fall, bring your
@@ -19,7 +19,8 @@ tags:
 - 'Simpson Beach '
 - Japanese garden
 - Tripadvisor
-categories: []
+categories:
+- 'State Parks & National Lands '
 seo:
   title: ''
   description: ''
