@@ -1,0 +1,15 @@
+version: "3"
+services:
+  hugo:
+    image: forestryio/hugo:latest
+    command: "hugo server -D -E -F --bind 0.0.0.0 --renderToDisk -d public"
+    working_dir: /srv/hugo
+    ports:
+      - 1313:1313
+    volumes:
+      - .:/srv/hugo
+      #- ./public/:/public
+      # - ./output/:/output
+    environment:
+      - HUGO_VERSION=0.58.0
+    restart: always
