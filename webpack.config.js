@@ -12,14 +12,13 @@ module.exports = {
     //MAY NEED VENDOR
     app: ["./src/js/app"],
     main: ["./src/js/main"],
-    lodging: ["./src/js/lodging"],
+    entries: ["./src/js/entries"],
     tourcharters: ["./src/js/tourcharters"],
     equipment: ["./src/js/equipment"],
     events: ["./src/js/events"],
     calendar: ["./src/js/calendar"],
     instagram: ["./src/js/instagram"],
     search: ["./src/js/search"],
-    dining: ["./src/js/dining"]
 	},
   output: {
     path: path.join(__dirname, "./static/dist/"),

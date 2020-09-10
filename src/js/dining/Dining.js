@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import {diningCategoryOptions} from './dining-categories';
+import {entryCategoryOptions} from './dining-categories';
 import FindOptionData from '../common/find-option-data';
 import GoogleMapLink from '../maps/GoogleMapLink';
 
@@ -16,7 +16,7 @@ export default class Lodging {
      * @return {string} - string of the template data
      */
     generateTemplate(val) {
-        let category = this.generateCategoryTpl(val.category);
+        let category = this.generateCategoryTpl(val.property_category);
         let phone = this.generatePhoneTpl(val.phone1, val.phone2);
         let address = this.generateAddressTpl({
             address1: val.address1,
@@ -69,16 +69,13 @@ export default class Lodging {
      * @return {string} - category name
      */
     generateCategoryTpl(cat) {
-        let label = '&nbsp;';
-        _.forEach(cat, (singleCat, index) => {
-            if (index !== 0) {
-                label = label + " | " + singleCat;
-            } else {
-                label = singleCat;
-            }
-        });
+        let catTpl = this.findOptionData.find(entryCategoryOptions, cat);
+        
+        if (catTpl !== undefined) {
+            return catTpl;
+        }
 
-        return label;
+        return {label: ''};
     }
 
     /**

@@ -1,4 +1,4 @@
-export const lodgingCategoryOptions = [
+export const LodgingCategoryOptions = [
     {value: 1, label: 'Hotels, Motels & Inns', class: ''},
     {value: 2, label: 'RV Parks & Camping', class: ''},
     {value: 3, label: 'Bed & Breakfasts', class: ''},
