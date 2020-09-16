@@ -2,7 +2,7 @@
 title: fall15
 url: "/fall15"
 layout: contact
-photo: ''
+photo: "/img/fall-15-off-subpage-header.jpg"
 seo:
   title: ''
   description: ''
