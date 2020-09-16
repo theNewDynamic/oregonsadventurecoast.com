@@ -28,7 +28,7 @@ Fall 15 Lodging Special
 Coos Bay, OR 97420  
 541-269-5111 | 800-228-8655  
 {{% /mousetext %}}
-**Units: 83** • $$$: Best Western Holiday Hotel offers a retreat for exploring the Oregon Coast, dunes, lighthouse, beaches, historic sites, and annual festivals & events. Located across the street from the Bay, within easy walking distance to downtown shopping & dining.
+**Units: 83 • $$$:** Best Western Holiday Hotel offers a retreat for exploring the Oregon Coast, dunes, lighthouse, beaches, historic sites, and annual festivals & events. Located across the street from the Bay, within easy walking distance to downtown shopping & dining.
 
 [Visit Our Website](https://www.bestwestern.com/en_US.html)
 
