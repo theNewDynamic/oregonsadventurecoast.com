@@ -18,8 +18,6 @@ draft: true
 ---
 Fall 15 Lodging Special
 
-{{< columns number="2" >}}
-
 **Best Western Holiday Hotel**
 {{% mousetext font-size="80" line-height="1.4" %}}  
 411 N. Bayshore Drive  
@@ -30,18 +28,12 @@ Coos Bay, OR 97420
 
 [Visit Our Website](https://www.bestwestern.com/en_US.html)
 
-/++++
-
 **Itty Bitty Inn**
 {{% mousetext font-size="80" line-height="1.4" %}}1504 Sherman Avenue  
 North Bend, OR 97459  
 541-756-6398{{% /mousetext %}}
 **Units: 5** • $$: The Itty Bitty Inn provides a safe, clean, & cozy atmosphere for travelers since 1950! Each room includes Oregon-made soaps & locally roasted coffee. Our vintage vibe features bicycles, record players & rebuilt Ataris available for guest use. Electric car charging station.  
 [Visit Our Website](https://www.ittybittyinn.com/)
-
-{{< /columns >}}
-
-{{< columns number="2" >}}
 
 **Mill Casino • Hotel & RV Park**
 {{% mousetext font-size="80" line-height="1.4" %}}  
@@ -53,8 +45,6 @@ North Bend, OR 97459
 
 [Visit Our Website](https://www.themillcasino.com)
 
-\++++
-
 **Quality Inn & Suites at Coos Bay**
 
 {{% mousetext font-size="80" line-height="1.4" %}}1503 Virginia Avenue  
@@ -64,10 +54,6 @@ North Bend, OR 97459
 **Units: 96** • $$$: Quality Inn & Suites Coos Bay is located 1 mile from SW Oregon Regional Airport. Nestled on Oregon's breathtaking coast, we are minutes from incredible attractions & natural treasures. Enjoy shopping, museums, gaming, entertainment & dining close by.
 
 [Visit Our Website]()
-
-{{< /columns >}}
-
-{{< columns number="2" >}}
 
 **Mill Casino ● Hotel & RV Park**
 
@@ -79,8 +65,6 @@ North Bend, OR 97459
 
 [Visit Our Website](https://www.themillcasino.com)
 
-\++++
-
 **Oceanside RV Park Resort**
 
 {{% mousetext font-size="80" line-height="1.4" %}90281 Cape Arago Highway  
@@ -90,5 +74,3 @@ Charleston, OR 97420
 **Units: 71** • $: Unwind in unique vintage trailers, cottages, tents, or your own RV. Enjoy the Oregon Coast with a variety of on-site amenities including a convenient crab shack and free WiFi. Use of crab traps & clam digging equipment. Beach access & general store.
 
 [Visit Our Website](https://www.sunrvresorts.com/resorts/the-northwest/oregon/oceanside-rv-resort)
-
-{{< /columns >}}
