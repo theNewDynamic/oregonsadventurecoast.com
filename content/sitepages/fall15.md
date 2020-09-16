@@ -40,18 +40,26 @@ Coos Bay, OR 97420
 North Bend, OR 97459  
 541-756-6398
 
-**Units: 5** • $$: The Itty Bitty Inn provides a safe, clean, & cozy atmosphere for travelers since 1950! Each room includes Oregon-made soaps & locally roasted coffee. Our vintage vibe features bicycles, record players & rebuilt Ataris available for guest use. Electric car charging station.  
+**Units: 5 • $$:** The Itty Bitty Inn provides a safe, clean, & cozy atmosphere for travelers since 1950! Each room includes Oregon-made soaps & locally roasted coffee. Our vintage vibe features bicycles, record players & rebuilt Ataris available for guest use. Electric car charging station.  
 [Visit Our Website](https://www.ittybittyinn.com/)
 
 {{< /columns >}}
+
+{{< columns number="2" >}}
+
+![](/img/Mill-hotelfront-cement-fixed.jpg)
 
 **Mill Casino • Hotel & RV Park**
 3201 Tremont Avenue  
 North Bend, OR 97459  
 541-756-8800 | 800-953-4800
-**Units: 204** • $$$: Experience over 200 well-appointed rooms and suites in our Tower and Lodge, Las Vegas-style gaming excitement, five excellent dining venues and live entertainment – all with a great view along scenic Coos Bay. Free WiFi, pool, hot tub & pets welcome.
+**Units: 204 • $$$:** Experience over 200 well-appointed rooms and suites in our Tower and Lodge, Las Vegas-style gaming excitement, five excellent dining venues and live entertainment – all with a great view along scenic Coos Bay. Free WiFi, pool, hot tub & pets welcome.
 
 [Visit Our Website](https://www.themillcasino.com)
+
+\++++ 
+
+![](/img/quality-inn-and-suites.jpg)
 
 **Quality Inn & Suites at Coos Bay**
 
@@ -59,9 +67,11 @@ North Bend, OR 97459
 North Bend, OR 97459  
 541-756-3191
 
-**Units: 96** • $$$: Quality Inn & Suites Coos Bay is located 1 mile from SW Oregon Regional Airport. Nestled on Oregon's breathtaking coast, we are minutes from incredible attractions & natural treasures. Enjoy shopping, museums, gaming, entertainment & dining close by.
+**Units: 96 • $$$:** Quality Inn & Suites Coos Bay is located 1 mile from SW Oregon Regional Airport. Nestled on Oregon's breathtaking coast, we are minutes from incredible attractions & natural treasures. Enjoy shopping, museums, gaming, entertainment & dining close by.
 
 [Visit Our Website]()
+
+ {{< /columns >}}
 
 **Mill Casino ● Hotel & RV Park**
 
