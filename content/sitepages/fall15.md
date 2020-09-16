@@ -49,10 +49,11 @@ North Bend, OR 97459
 
 ![](/img/Mill-hotelfront-cement-fixed.jpg)
 
-**Mill Casino • Hotel & RV Park**
+**Mill Casino • Hotel & RV Park<br>**  
 3201 Tremont Avenue  
 North Bend, OR 97459  
 541-756-8800 | 800-953-4800
+
 **Units: 204 • $$$:** Experience over 200 well-appointed rooms and suites in our Tower and Lodge, Las Vegas-style gaming excitement, five excellent dining venues and live entertainment – all with a great view along scenic Coos Bay. Free WiFi, pool, hot tub & pets welcome.
 
 [Visit Our Website](https://www.themillcasino.com)
@@ -61,9 +62,8 @@ North Bend, OR 97459
 
 ![](/img/quality-inn-and-suites.jpg)
 
-**Quality Inn & Suites at Coos Bay**
-
-1503 Virginia Avenue  
+**Quality Inn & Suites at Coos Bay<br>  
+**1503 Virginia Avenue  
 North Bend, OR 97459  
 541-756-3191
 
