@@ -32,7 +32,8 @@ Coos Bay, OR 97420
 
 [Visit Our Website](https://www.bestwestern.com/en_US.html)
 
-\++++![](/img/Itty-Bitty.jpg)
+/++++
+[](/img/Itty-Bitty.jpg)
 
 **Itty Bitty Inn**
 {{% mousetext font-size="80" line-height="1.4" %}}1504 Sherman Avenue  
@@ -58,7 +59,7 @@ North Bend, OR 97459
 [Visit Our Website](https://www.themillcasino.com)
 
 \++++  
-![](/img/quality-inn-and-suites.jpg)
+[](/img/quality-inn-and-suites.jpg)
 
 **Quality Inn & Suites at Coos Bay**
 
@@ -74,7 +75,7 @@ North Bend, OR 97459
 
 {{< columns number="2" >}}
 
-![](/img/Mill-RV-overhead-1944.jpg)
+[](/img/Mill-RV-overhead-1944.jpg)
 
 **Mill Casino ● Hotel & RV Park**
 
