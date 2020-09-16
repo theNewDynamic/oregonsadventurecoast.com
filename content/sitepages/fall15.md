@@ -20,7 +20,7 @@ Fall 15 Lodging Special
 
 {{< columns number="2" >}}
 
-![](/img/New-Best-Western-exterior.jpg)
+[](/img/New-Best-Western-exterior.jpg)
 
 **Best Western Holiday Hotel**
 {{% mousetext font-size="80" line-height="1.4" %}}  
@@ -33,7 +33,6 @@ Coos Bay, OR 97420
 [Visit Our Website](https://www.bestwestern.com/en_US.html)
 
 /++++
-[](/img/Itty-Bitty.jpg)
 
 **Itty Bitty Inn**
 {{% mousetext font-size="80" line-height="1.4" %}}1504 Sherman Avenue  
@@ -46,7 +45,7 @@ North Bend, OR 97459
 
 {{< columns number="2" >}}
 
-![](/img/Mill-hotelfront-cement-fixed.jpg)
+[](/img/Mill-hotelfront-cement-fixed.jpg)
 
 **Mill Casino • Hotel & RV Park**
 {{% mousetext font-size="80" line-height="1.4" %}}  
@@ -58,8 +57,7 @@ North Bend, OR 97459
 
 [Visit Our Website](https://www.themillcasino.com)
 
-\++++  
-[](/img/quality-inn-and-suites.jpg)
+\++++
 
 **Quality Inn & Suites at Coos Bay**
 
@@ -75,8 +73,6 @@ North Bend, OR 97459
 
 {{< columns number="2" >}}
 
-[](/img/Mill-RV-overhead-1944.jpg)
-
 **Mill Casino ● Hotel & RV Park**
 
 {{% mousetext font-size="80" line-height="1.4" %}}3201 Tremont Avenue  
@@ -89,7 +85,7 @@ North Bend, OR 97459
 
 \++++
 
-![](/img/Oceanside-RV-camp.jpg)
+[](/img/Oceanside-RV-camp.jpg)
 
 **Oceanside RV Park Resort**
 
