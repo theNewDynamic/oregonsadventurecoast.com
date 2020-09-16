@@ -31,9 +31,8 @@ Coos Bay, OR 97420
 **Units: 83** • $$$: Best Western Holiday Hotel offers a retreat for exploring the Oregon Coast, dunes, lighthouse, beaches, historic sites, and annual festivals & events. Located across the street from the Bay, within easy walking distance to downtown shopping & dining.
 
 [Visit Our Website](https://www.bestwestern.com/en_US.html)
-\++++
 
-![](/img/Itty-Bitty.jpg)
+\++++![](/img/Itty-Bitty.jpg)
 
 **Itty Bitty Inn**
 {{% mousetext font-size="80" line-height="1.4" %}}1504 Sherman Avenue  
@@ -58,8 +57,7 @@ North Bend, OR 97459
 
 [Visit Our Website](https://www.themillcasino.com)
 
-\++++
-
+\++++  
 ![](/img/quality-inn-and-suites.jpg)
 
 **Quality Inn & Suites at Coos Bay**
