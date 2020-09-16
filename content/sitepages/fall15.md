@@ -22,10 +22,11 @@ Fall 15 Lodging Special
 
 ![](/img/New-Best-Western-exterior.jpg)
 
-**Best Western Holiday Hotel**
+**Best Western Holiday Hotel<br>**
 411 N. Bayshore Drive  
 Coos Bay, OR 97420  
 541-269-5111 | 800-228-8655
+
 **Units: 83 • $$$:** Best Western Holiday Hotel offers a retreat for exploring the Oregon Coast, dunes, lighthouse, beaches, historic sites, and annual festivals & events. Located across the street from the Bay, within easy walking distance to downtown shopping & dining.
 
 [Visit Our Website](https://www.bestwestern.com/en_US.html)
@@ -34,10 +35,11 @@ Coos Bay, OR 97420
 
 ![](/img/Itty-Bitty.jpg)
 
-**Itty Bitty Inn**
+**Itty Bitty Inn<br>**
 1504 Sherman Avenue  
 North Bend, OR 97459  
 541-756-6398
+
 **Units: 5** • $$: The Itty Bitty Inn provides a safe, clean, & cozy atmosphere for travelers since 1950! Each room includes Oregon-made soaps & locally roasted coffee. Our vintage vibe features bicycles, record players & rebuilt Ataris available for guest use. Electric car charging station.  
 [Visit Our Website](https://www.ittybittyinn.com/)
 
