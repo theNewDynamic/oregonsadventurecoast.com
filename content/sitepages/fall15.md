@@ -20,6 +20,8 @@ Fall 15 Lodging Special
 
 {{< columns number="2" >}}
 
+![](/img/New-Best-Western-exterior.jpg)
+
 **Best Western Holiday Hotel**
 411 N. Bayshore Drive  
 Coos Bay, OR 97420  
@@ -29,6 +31,8 @@ Coos Bay, OR 97420
 [Visit Our Website](https://www.bestwestern.com/en_US.html)
 
 \++++
+
+![](/img/Itty-Bitty.jpg)
 
 **Itty Bitty Inn**
 1504 Sherman Avenue  
