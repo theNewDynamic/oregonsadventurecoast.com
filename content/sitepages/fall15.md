@@ -60,8 +60,7 @@ North Bend, OR 97459
 
 ![](/img/quality-inn-and-suites.jpg)
 
-##### Quality Inn & Suites at Coos Bay
-
+**Quality Inn & Suites at Coos Bay**<br>
 1503 Virginia Avenue  
 North Bend, OR 97459  
 541-756-3191
