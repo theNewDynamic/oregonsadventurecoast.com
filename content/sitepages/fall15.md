@@ -60,7 +60,8 @@ North Bend, OR 97459
 
 ![](/img/quality-inn-and-suites.jpg)
 
-**Quality Inn & Suites at Coos Bay**<br>
+##### Quality Inn & Suites at Coos Bay
+
 1503 Virginia Avenue  
 North Bend, OR 97459  
 541-756-3191
@@ -81,7 +82,7 @@ North Bend, OR 97459
 **Units: 102 • $:** Located right on Coos Bay, The Mill Casino RV Park is a full-service, full hookup park. Wake up to breathtaking sunrise over the Bay right from your site. Friendly staff are here with helpful ideas on how to spend your day. Good Sam & AAA discount.
 [Visit Our Website](https://www.themillcasino.com)
 
- ++++
+\++++
 
 ![](/img/Oceanside-RV-camp.jpg)
 
