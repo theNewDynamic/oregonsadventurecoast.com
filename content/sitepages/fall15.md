@@ -18,6 +18,8 @@ draft: true
 ---
 Fall 15 Lodging Special
 
+{{< columns number="2" >}}
+
 **Best Western Holiday Hotel**
 411 N. Bayshore Drive  
 Coos Bay, OR 97420  
@@ -26,12 +28,16 @@ Coos Bay, OR 97420
 
 [Visit Our Website](https://www.bestwestern.com/en_US.html)
 
+\++++
+
 **Itty Bitty Inn**
 1504 Sherman Avenue  
 North Bend, OR 97459  
 541-756-6398
 **Units: 5** • $$: The Itty Bitty Inn provides a safe, clean, & cozy atmosphere for travelers since 1950! Each room includes Oregon-made soaps & locally roasted coffee. Our vintage vibe features bicycles, record players & rebuilt Ataris available for guest use. Electric car charging station.  
 [Visit Our Website](https://www.ittybittyinn.com/)
+
+{{< /columns >}}
 
 **Mill Casino • Hotel & RV Park**
 3201 Tremont Avenue  
