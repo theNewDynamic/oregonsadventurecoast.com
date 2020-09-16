@@ -16,3 +16,4 @@ boxes: []
 draft: true
 
 ---
+Fall 15 Lodging Special
