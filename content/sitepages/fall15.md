@@ -23,13 +23,11 @@ Fall 15 Lodging Special
 ![](/img/New-Best-Western-exterior.jpg)
 
 **Best Western Holiday Hotel**
-
 {{% mousetext font-size="80" line-height="1.4" %}}  
 411 N. Bayshore Drive  
 Coos Bay, OR 97420  
 541-269-5111 | 800-228-8655  
 {{% /mousetext %}}
-
 **Units: 83** • $$$: Best Western Holiday Hotel offers a retreat for exploring the Oregon Coast, dunes, lighthouse, beaches, historic sites, and annual festivals & events. Located across the street from the Bay, within easy walking distance to downtown shopping & dining.
 
 [Visit Our Website](https://www.bestwestern.com/en_US.html)
@@ -38,11 +36,9 @@ Coos Bay, OR 97420
 ![](/img/Itty-Bitty.jpg)
 
 **Itty Bitty Inn**
-
 {{% mousetext font-size="80" line-height="1.4" %}}1504 Sherman Avenue  
 North Bend, OR 97459  
 541-756-6398{{% /mousetext %}}
-
 **Units: 5** • $$: The Itty Bitty Inn provides a safe, clean, & cozy atmosphere for travelers since 1950! Each room includes Oregon-made soaps & locally roasted coffee. Our vintage vibe features bicycles, record players & rebuilt Ataris available for guest use. Electric car charging station.  
 [Visit Our Website](https://www.ittybittyinn.com/)
 
@@ -51,13 +47,11 @@ North Bend, OR 97459
 ![](/img/Mill-hotelfront-cement-fixed.jpg)
 
 **Mill Casino • Hotel & RV Park**
-
 {{% mousetext font-size="80" line-height="1.4" %}}  
 3201 Tremont Avenue  
 North Bend, OR 97459  
 541-756-8800 | 800-953-4800  
 {{% /mousetext %}}
-
 **Units: 204** • $$$: Experience over 200 well-appointed rooms and suites in our Tower and Lodge, Las Vegas-style gaming excitement, five excellent dining venues and live entertainment – all with a great view along scenic Coos Bay. Free WiFi, pool, hot tub & pets welcome.
 
 [Visit Our Website](https://www.themillcasino.com)
