@@ -58,7 +58,7 @@ North Bend, OR 97459
 
 [Visit Our Website](https://www.themillcasino.com)
 
-\++++ 
+\++++
 
 ![](/img/quality-inn-and-suites.jpg)
 
@@ -71,11 +71,13 @@ North Bend, OR 97459
 
 [Visit Our Website](https://www.coosbayinn.com/)
 
- {{< /columns >}}
+{{< /columns >}}
 
-**Mill Casino ● Hotel & RV Park**
+{{< columns number="2" >}}
+![](/img/Mill-RV-overhead-1944.jpg)
 
-3201 Tremont Avenue  
+**Mill Casino ● Hotel & RV Park  
+**3201 Tremont Avenue  
 North Bend, OR 97459  
 541-756-8800 | 800-953-4800
 
@@ -83,12 +85,17 @@ North Bend, OR 97459
 
 [Visit Our Website](https://www.themillcasino.com)
 
-**Oceanside RV Park Resort**
+ ++++
 
-90281 Cape Arago Highway  
+![](/img/Oceanside-RV-camp.jpg)
+
+**Oceanside RV Park Resort  
+**90281 Cape Arago Highway  
 Charleston, OR 97420  
 888-717-7384
 
 **Units: 71** • $: Unwind in unique vintage trailers, cottages, tents, or your own RV. Enjoy the Oregon Coast with a variety of on-site amenities including a convenient crab shack and free WiFi. Use of crab traps & clam digging equipment. Beach access & general store.
 
 [Visit Our Website](https://www.sunrvresorts.com/resorts/the-northwest/oregon/oceanside-rv-resort)
+
+{{< /columns >}}
