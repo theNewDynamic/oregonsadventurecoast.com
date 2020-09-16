@@ -24,7 +24,7 @@ Fall 15 Lodging Special
 
 **Best Western Holiday Hotel**
 
-{{% mousetext font-size="80" line-height="1.6" %}}  
+{{% mousetext font-size="80" line-height="1.4" %}}  
 411 N. Bayshore Drive  
 Coos Bay, OR 97420  
 541-269-5111 | 800-228-8655  
@@ -39,7 +39,7 @@ Coos Bay, OR 97420
 
 **Itty Bitty Inn**
 
-{{% mousetext font-size="80" line-height="1.6" %}}1504 Sherman Avenue  
+{{% mousetext font-size="80" line-height="1.4" %}}1504 Sherman Avenue  
 North Bend, OR 97459  
 541-756-6398{{% /mousetext %}}
 
@@ -52,7 +52,7 @@ North Bend, OR 97459
 
 **Mill Casino • Hotel & RV Park**
 
-{{% mousetext font-size="80" line-height="1.6" %}}  
+{{% mousetext font-size="80" line-height="1.4" %}}  
 3201 Tremont Avenue  
 North Bend, OR 97459  
 541-756-8800 | 800-953-4800  
