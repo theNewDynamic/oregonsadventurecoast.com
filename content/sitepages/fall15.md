@@ -69,7 +69,7 @@ North Bend, OR 97459
 
 **Units: 96 • $$$:** Quality Inn & Suites Coos Bay is located 1 mile from SW Oregon Regional Airport. Nestled on Oregon's breathtaking coast, we are minutes from incredible attractions & natural treasures. Enjoy shopping, museums, gaming, entertainment & dining close by.
 
-[Visit Our Website]()
+[Visit Our Website](https://www.coosbayinn.com/)
 
  {{< /columns >}}
 
