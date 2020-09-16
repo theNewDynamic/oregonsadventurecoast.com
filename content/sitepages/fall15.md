@@ -20,8 +20,6 @@ Fall 15 Lodging Special
 
 {{< columns number="2" >}}
 
-[](/img/New-Best-Western-exterior.jpg)
-
 **Best Western Holiday Hotel**
 {{% mousetext font-size="80" line-height="1.4" %}}  
 411 N. Bayshore Drive  
@@ -44,8 +42,6 @@ North Bend, OR 97459
 {{< /columns >}}
 
 {{< columns number="2" >}}
-
-[](/img/Mill-hotelfront-cement-fixed.jpg)
 
 **Mill Casino • Hotel & RV Park**
 {{% mousetext font-size="80" line-height="1.4" %}}  
@@ -84,8 +80,6 @@ North Bend, OR 97459
 [Visit Our Website](https://www.themillcasino.com)
 
 \++++
-
-[](/img/Oceanside-RV-camp.jpg)
 
 **Oceanside RV Park Resort**
 
