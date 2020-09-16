@@ -1,5 +1,5 @@
 ---
-title: fall15
+title: Special 15% Fall Lodging Savings!
 url: "/fall15"
 layout: contact
 photo: "/img/fall-15-off-subpage-header.jpg"
