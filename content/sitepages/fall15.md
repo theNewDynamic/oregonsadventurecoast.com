@@ -16,9 +16,9 @@ boxes: []
 draft: true
 
 ---
-{{< floatimage src="/img/fall-logo-temp-placeholder-02-01.jpg" float="left" alt="Fall 15 OFF Lodging Offer" size="100" >}} Pit que dolorro tenia iuris mo vellame vid quatempores rem eum rationet ea cus archilic test, tempori tem sit quam, veris non explabo. Nem ra cus utatur aliqui dolupta eatist odit, sinum sa nus num volorib eriorem id moditi dolo eossitatis enderunt, cus. Axim ratur aut andi omni re dunt aciendit volum.
+{{< floatimage src="/img/fall-logo-temp-placeholder-02-01.jpg" float="left" alt="Fall 15 OFF Lodging Offer" size="100" >}} Pit que dolorro tenia iuris mo vellame vid quatempores rem eum rationet ea cus archilic test, tempori tem sit quam, veris non explabo. Nem ra cus utatur aliqui dolupta eatist odit, sinum sa nus num volorib eriorem id moditi dolo eossitatis enderunt, cus. Axim ratur aut andi omni re dunt aciendit volumAxim ratur aut andi omni re dunt aciendit volum.
 
-{{< spacer 20 >}}
+{{< spacer 50 >}}
 
 {{< columns number="2" >}}
 
