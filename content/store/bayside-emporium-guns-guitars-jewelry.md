@@ -5,18 +5,17 @@ photo_name: ''
 photo_alt: ''
 property_category:
 - Home Goods
-- Sporting Goods
 address:
   street: 1938 Sherman Ave
   street2: ''
   city: North Bend
   zip: '97459'
-phone_local: ''
+phone_local: "(541) 756-4410"
 phone_toll_free: ''
 website: ''
 coordinates:
-  lat: ''
-  lng: ''
+  lat: '43.407326'
+  lng: "-124.224233"
 seo:
   title: ''
   description: ''
