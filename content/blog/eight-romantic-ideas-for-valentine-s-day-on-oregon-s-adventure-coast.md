@@ -1,6 +1,6 @@
 ---
 title: Eight Romantic Ideas for Valentine's Day on Oregon's Adventure Coast
-date: 2020-02-03T05:00:00+00:00
+date: 2020-02-03T05:00:00.000+00:00
 description: 'There are few places more romantic than Oregon’s Adventure Coast. Now
   that Valentine’s Day is just around the corner, have you made your plans? Here are
   some romantic dates and activities you and your Valentine will enjoy during your
@@ -14,6 +14,9 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
+accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 ## MAKE OREGON’S ADVENTURE COAST YOUR DESTINATION FOR A ROMANTIC GETAWAY!

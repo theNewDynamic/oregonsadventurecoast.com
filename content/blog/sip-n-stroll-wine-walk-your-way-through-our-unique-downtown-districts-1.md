@@ -1,6 +1,6 @@
 ---
 title: Sip n Stroll & Wine Walk Your Way Through our Unique Downtown Districts
-date: 2020-01-24T05:00:00+00:00
+date: 2020-01-24T05:00:00.000+00:00
 description: Exploring the unique and eclectic shops and businesses in Downtown Coos
   Bay and North Bend is an adventure upon itself, but add a glass or two of wine to
   benefit local non-profits, and you have an entirely different experience! Look out
@@ -21,6 +21,10 @@ seo:
   description: ''
   imgalt: ''
   image: ''
+aliases: []
+accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 Exploring the unique and eclectic shops and businesses in Downtown Coos Bay and North Bend is an adventure upon itself, but add a glass or two of wine to benefit local non-profits, and you have an entirely different experience! Look out for these special events on Oregon’s Adventure Coast that celebrate community, wine and locally owned businesses while supporting special causes.

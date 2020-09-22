@@ -21,6 +21,9 @@ seo:
   image: ''
 aliases:
 - "/valentines"
+accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 ### Plan Your Romantic, Adventurous Getaway to Oregon’s Adventure Coast!
