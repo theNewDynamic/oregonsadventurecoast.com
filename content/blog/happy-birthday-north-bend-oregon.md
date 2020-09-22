@@ -32,6 +32,8 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 North Bend, Oregon is home to some of our area’s most beloved natural attractions as well as a lovely downtown filled with unique quaint shops, antique stores and restaurants. Since it turns 117 this month, we thought this would be the perfect time to shine a spotlight on this welcoming community on Oregon’s Adventure Coast!
