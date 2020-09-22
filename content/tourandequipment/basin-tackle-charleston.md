@@ -10,7 +10,7 @@ address:
   state: OR
   street: 63510 Kingfisher Rd
   zip: 97420
-phone_local: "(541) 888-3474"
+phone_local: 541-888-3474
 property_description: 'Basin Tackle is located in the Charleston Marina. With friendly,
   helpful, and somewhat quirky staff, Basin Tackle has become something of a local
   institution drawing people from near and far. Basin Tackle carries everything you

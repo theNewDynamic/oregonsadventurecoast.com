@@ -12,7 +12,7 @@ address:
 phone_local: 541-269-5259
 property_description: 'A family owned and operated guide service located about 15
   miles east of Coos Bay, Oregon, offering hunting trips, fishing trips and photography
-  tours. Prices vary depending on services requested. '
+  tours. Prices vary depending on services requested.  '
 website: ''
 
 ---
