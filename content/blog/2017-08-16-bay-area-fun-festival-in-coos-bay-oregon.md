@@ -28,6 +28,7 @@ tags:
 categories:
 - Miscellaneous
 image: "/img/capearago.jpg"
+warning: true
 
 ---
 Do you remember the last time you had fun?</h2>

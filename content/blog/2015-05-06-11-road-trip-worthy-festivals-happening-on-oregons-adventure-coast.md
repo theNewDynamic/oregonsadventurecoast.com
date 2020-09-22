@@ -16,6 +16,7 @@ categories:
 - Fairs & Festivals
 - Miscellaneous
 image: ''
+warning: true
 
 ---
 Are you ready for summer? We sure are! There are countless reasons to treat yourself and your family to an epic road trip to Oregon’s Adventure Coast this summer.

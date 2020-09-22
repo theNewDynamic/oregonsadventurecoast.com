@@ -1,6 +1,6 @@
 ---
 title: Feast on Fresh Oregon Dungeness Crab on Oregon's Adventure Coast!
-date: 2020-01-22T05:00:00+00:00
+date: 2020-01-22T05:00:00.000+00:00
 description: Whether you like catching them or just eating Dungeness Crab, now is
   the time to plan your Oregon Coast adventure and go crabbing on the Southern Oregon
   Coast.
@@ -22,6 +22,7 @@ categories:
 - Fishing
 - Crabbing & Clamming
 image: "/img/Crabbing-On-Dock-Charleston.jpg"
+warning: true
 
 ---
 Feasting on fresh Oregon Dungeness Crab is an experience every foodie must have while visiting the Oregon Coast. Better yet, why not catch your own? Anyone can go crabbing, no matter what your skill level is! Our local crabbing experts are always happy to help point you in the right direction.

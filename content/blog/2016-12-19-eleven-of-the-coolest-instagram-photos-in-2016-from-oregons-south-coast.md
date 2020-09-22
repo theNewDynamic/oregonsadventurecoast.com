@@ -26,6 +26,7 @@ categories:
 - Crabbing & Clamming
 - Walking & Hiking
 image: ''
+warning: true
 
 ---
 The secret is out! The exquisite natural beauty throughout Oregon’s South Coast is unparalleled to anywhere else in the world (we think so anyway). One doesn’t necessarily have to be a skilled photographer to capture and share the unique destinations waiting to be discovered here.
