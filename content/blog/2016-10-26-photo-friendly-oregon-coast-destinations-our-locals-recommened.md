@@ -21,6 +21,7 @@ categories:
 - Miscellaneous
 - Walking & Hiking
 image: ''
+warning: true
 
 ---
 ### Photo opps can be found everywhere in our area, you just have to keep your eyes open.

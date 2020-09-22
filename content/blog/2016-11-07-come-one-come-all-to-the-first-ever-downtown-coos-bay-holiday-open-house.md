@@ -1,29 +1,30 @@
 ---
-title: 'Come one, come all to the first ever Downtown Coos Bay Holiday Open House'
-date: 2016-11-07T15:15:42.000Z
-description: >-
-  How do you shop for the person who has everything? You come to Oregon's South
-  Coast and find the most unique treasures they wouldn't find anywhere else!
-  There are a bounty of holiday treasures waiting to be discovered right now in
-  locally owned shops throughout Oregon's South Coast.
+title: Come one, come all to the first ever Downtown Coos Bay Holiday Open House
+date: 2016-11-07T15:15:42.000+00:00
+description: How do you shop for the person who has everything? You come to Oregon's
+  South Coast and find the most unique treasures they wouldn't find anywhere else!
+  There are a bounty of holiday treasures waiting to be discovered right now in locally
+  owned shops throughout Oregon's South Coast.
 tags:
-  - Black Friday
-  - Charleston
-  - Christmas Shopping
-  - Coos Bay
-  - holiday shopping
-  - Holidays
-  - local
-  - Marshfield District
-  - North Bend
-  - Oregon
-  - Oregon seafood
-  - Retailers
-  - Small Business
-  - South Coast
+- Black Friday
+- Charleston
+- Christmas Shopping
+- Coos Bay
+- holiday shopping
+- Holidays
+- local
+- Marshfield District
+- North Bend
+- Oregon
+- Oregon seafood
+- Retailers
+- Small Business
+- South Coast
 categories:
-  - Shopping
+- Shopping
 image: ''
+warning: true
+
 ---
 <pre><em>Image Credit: <a href="https://www.facebook.com/115979621795980/photos/a.505449182849020.1073741825.115979621795980/626619490731988/?type=3&theater" target="_blank">Painted Zebra via Facebook</a></em>
 </pre>
