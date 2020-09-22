@@ -13,7 +13,7 @@ address:
   street2: ''
   city: Charleston
   zip: '97420'
-phone_local: "(541) 294-5252"
+phone_local: 541-294-5252
 phone_toll_free: ''
 website: https://www.facebook.com/PacificPondCharters
 coordinates:
