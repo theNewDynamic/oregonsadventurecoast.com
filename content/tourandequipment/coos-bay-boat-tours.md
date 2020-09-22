@@ -14,7 +14,7 @@ address:
   street2: ''
   city: Coos Bay
   zip: '97420'
-phone_local: "(541) 999-6575"
+phone_local: 541-999-6575
 phone_toll_free: ''
 website: https://www.coosboattours.com/
 
