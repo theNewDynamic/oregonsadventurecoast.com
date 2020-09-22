@@ -1,7 +1,7 @@
 ---
 title: 'Hear This: Oregon''s Adventure Coast''s 2019 Prefontaine Memorial 10k Run
   Playlist '
-date: 2019-08-18T21:00:00-07:00
+date: 2019-08-18T21:00:00.000-07:00
 description: We’ve gathered 90 minutes of some of our favorite hits – old and new
   – and created Oregon's Adventure Coast’s 40th Annual Prefontaine Memorial 10k Run
   playlist for you to download through Spotify to your smartphone. Go ahead, get your
@@ -15,6 +15,7 @@ tags:
 - Coos Bay
 - 'Steve Prefontaine '
 categories: []
+warning: true
 
 ---
 #### “I run to see who has the most guts.” - Running phenom Steve Prefontaine

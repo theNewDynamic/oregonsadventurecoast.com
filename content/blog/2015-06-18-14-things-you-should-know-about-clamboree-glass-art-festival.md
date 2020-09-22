@@ -27,6 +27,7 @@ categories:
 - Fairs & Festivals
 - Miscellaneous
 image: ''
+warning: true
 
 ---
 It’s hard to believe, but the month of June is quickly coming to a close. You know what that means? <a href="http://www.oregonsadventurecoast.com/listings/clamboree/" target="_blank">Clamboree!</a>

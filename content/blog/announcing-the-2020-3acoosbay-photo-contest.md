@@ -1,6 +1,6 @@
 ---
 title: 'Announcing the 2020 #3ACoosBay Photo Contest!'
-date: 2020-02-19T21:00:00+00:00
+date: 2020-02-19T21:00:00.000+00:00
 description: 'Traveling to Coos Bay~North Bend~Charleston, Oregon for the 2020 3A
   Basketball State Championship? Share Your Adventures on Instagram with the #3ACoosBay
   tag for a chance to win some outstanding prizes!'
@@ -21,6 +21,9 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
+accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 The [2020 OSAA / OnPoint Community Credit Union 3A Basketball State Championship](http://www.osaa.org/activities/bbx/brackets) games are coming up **March 5-7, 2020** and do you know what that means? It’s time for our annual [#3ACoosBay Photo Competition](https://www.instagram.com/explore/tags/3acoosbay/)!
