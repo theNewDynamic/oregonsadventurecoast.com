@@ -1,6 +1,6 @@
 ---
 title: 'Where Can I Find the Best Oysters on Oregon’s Adventure Coast? '
-date: 2019-03-17 21:00:00 -0700
+date: 2019-03-17T21:00:00.000-07:00
 description: Fresh and delicious Coos Bay oysters have been an Oregon Coast delicacy
   for generations, and everyone seems to have an opinion on the best way to enjoy
   them. Whether it’s roasted, fried, sauteed, steamed open on the barbecue, broiled
@@ -14,6 +14,7 @@ tags:
 - Ah Shucks! 14th Annual Charleston Oyster Feed
 - freshest oysters
 categories: []
+warning: true
 
 ---
 The 14th Annual Charleston “Ahh Shucks!” Oyster Feed, our annual celebration of fresh oysters, is coming up April 27th which got us thinking about where to find the very best oysters in the Coos Bay/North Bend/Charleston area? We asked around and here’s what we found out.

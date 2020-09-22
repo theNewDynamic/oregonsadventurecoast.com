@@ -20,6 +20,7 @@ tags:
 categories:
 - Culture & Museums
 image: ''
+warning: true
 
 ---
 ## The Coos Art Museum Presents the 22nd Annual Maritime Art Exhibition: July 11, 2015 – September 26,2015
