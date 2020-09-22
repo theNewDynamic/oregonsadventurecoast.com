@@ -1,20 +1,21 @@
 ---
 title: Coos Art Museum Joins List of Blue Star Museums
-date: 2018-05-29T17:47:19.000Z
-description: >-
-  Coos Art Museum is one of more than 2,000 museums across America to offer free
-  admission to military personnel and their families this summer in
-  collaboration with the National Endowment for the Arts, Blue Star Families,
-  and the Department of Defense.
+date: 2018-05-29T17:47:19.000+00:00
+description: Coos Art Museum is one of more than 2,000 museums across America to offer
+  free admission to military personnel and their families this summer in collaboration
+  with the National Endowment for the Arts, Blue Star Families, and the Department
+  of Defense.
 tags:
-  - Blue Star Families
-  - Blue Star Museum Coos Bay
-  - Blue Star Museums
-  - Coos Art Museum
-  - Free Admission Military
+- Blue Star Families
+- Blue Star Museum Coos Bay
+- Blue Star Museums
+- Coos Art Museum
+- Free Admission Military
 categories:
-  - Miscellaneous
-image: /img/05-29-18-coos-art-museum.jpg
+- Miscellaneous
+image: "/img/05-29-18-coos-art-museum.jpg"
+warning: true
+
 ---
 Coos Art Museum is one of more than 2,000 museums across America to offer free admission to military personnel and their families this summer in collaboration with the National Endowment for the Arts, Blue Star Families, and the Department of Defense.
 

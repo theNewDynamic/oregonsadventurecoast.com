@@ -1,21 +1,22 @@
 ---
 title: Five Simple Tips for Runners Traveling to Oregon's South Coast
-date: 2018-07-11T17:43:26.000Z
-description: >-
-  There's a reason why runners love to travel to Oregon's South Coast. Not only
-  is this home to one of Oregon’s greatest sports legends, the late Steve
-  Prefontaine, our region is filled with natural amenities ideal for training
-  including challenging hills, trails, temperate weather and coastal beauty that
-  can't be found anywhere else in the country.
+date: 2018-07-11T17:43:26.000+00:00
+description: There's a reason why runners love to travel to Oregon's South Coast.
+  Not only is this home to one of Oregon’s greatest sports legends, the late Steve
+  Prefontaine, our region is filled with natural amenities ideal for training including
+  challenging hills, trails, temperate weather and coastal beauty that can't be found
+  anywhere else in the country.
 tags:
-  - 10k
-  - Annual Prefontaine Memorial Run
-  - Coos Bay
-  - Oregon Coast
-  - Running
+- 10k
+- Annual Prefontaine Memorial Run
+- Coos Bay
+- Oregon Coast
+- Running
 categories:
-  - Walking & Hiking
-image: /img/07-11-17-new-race-in-town.jpg
+- Walking & Hiking
+image: "/img/07-11-17-new-race-in-town.jpg"
+warning: true
+
 ---
 There's a reason why runners love to travel to Oregon's South Coast. Not only is this home to one of Oregon’s greatest sports legends, the late <a href="/steve-prefontaine-story/" rel="noopener noreferrer"> Steve Prefontaine</a>, our region is filled with natural amenities ideal for training including challenging hills, trails, temperate weather and coastal beauty that can't be found anywhere else in the country.
 

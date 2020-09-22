@@ -1,30 +1,30 @@
 ---
 title: Have a Fantastic 4th of July on Oregon's South Coast
-date: 2018-06-08T16:39:58.000Z
-description: >-
-  Oregon's Adventure Coast will be bustling with events and activity this
-  Independence Day. Plan your trip and join the fun at our 4th of July
-  festivities, explore the unique shops and restaurants in the towns of Coos
-  Bay, North Bend and Charleston then visit the many beautiful natural
-  attractions unique to our area.
+date: 2018-06-08T16:39:58.000+00:00
+description: Oregon's Adventure Coast will be bustling with events and activity this
+  Independence Day. Plan your trip and join the fun at our 4th of July festivities,
+  explore the unique shops and restaurants in the towns of Coos Bay, North Bend and
+  Charleston then visit the many beautiful natural attractions unique to our area.
 tags:
-  - Beaches
-  - Charleston
-  - Cindy Rawlings
-  - Coast
-  - Coos Bay
-  - Coos Bay Speedway Circle Track Races
-  - Coos Bay Visitor Center
-  - Downtown Coos Bay
-  - Egyptian Theatre Preservation Association
-  - Independence Day Weekend
-  - North Bend
-  - Oregon
-  - recreation
-  - Southern Oregon Coast
+- Beaches
+- Charleston
+- Cindy Rawlings
+- Coast
+- Coos Bay
+- Coos Bay Speedway Circle Track Races
+- Coos Bay Visitor Center
+- Downtown Coos Bay
+- Egyptian Theatre Preservation Association
+- Independence Day Weekend
+- North Bend
+- Oregon
+- recreation
+- Southern Oregon Coast
 categories:
-  - Miscellaneous
-image: /img/06-08-18-fireworks-at-the-mill.jpg
+- Miscellaneous
+image: "/img/06-08-18-fireworks-at-the-mill.jpg"
+warning: true
+
 ---
 Oregon's Adventure Coast will be bustling with events and activity this Independence Day. Plan your trip and join the fun at our 4th of July festivities, explore the <a href="/shopping/">unique shops</a> and <a href="/dining/">restaurants</a> in the towns of Coos Bay, North Bend and Charleston then visit the many <a href="/adventures/">beautiful natural attractions</a> unique to our area.
 

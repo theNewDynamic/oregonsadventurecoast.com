@@ -1,31 +1,28 @@
 ---
 title: How to Celebrate the Holidays on Oregon's Adventure Coast
-date: 2017-11-09T14:15:39.000Z
-description: >-
-  Wondering where you can find some holiday magic this year on Oregon's South
-  Coast? We're so glad you asked!
+date: 2017-11-09T14:15:39.000+00:00
+description: |-
+  Wondering where you can find some holiday magic this year on Oregon's South Coast? We're so glad you asked!
 
-
-  November is here and cool autumn days will soon give in to the festive holiday
-  season.  Our "Holiday Event Roundup" features some of the upcoming events
-  you'll find here on Oregon's Adventure Coast this 2017 holiday season.  Visit
-  our Events Page for more up-to-date listings of local events.
+  November is here and cool autumn days will soon give in to the festive holiday season.  Our "Holiday Event Roundup" features some of the upcoming events you'll find here on Oregon's Adventure Coast this 2017 holiday season.  Visit our Events Page for more up-to-date listings of local events.
 tags:
-  - Charleston
-  - Christmas
-  - Coos Bay
-  - Coos Bay Tree Lighting
-  - Events
-  - Holiday Events
-  - Holidays
-  - North Bend
-  - North Bend Tree Lighting
-  - Oregon
-  - Oregon Coast Events
-  - Thanksgiving
+- Charleston
+- Christmas
+- Coos Bay
+- Coos Bay Tree Lighting
+- Events
+- Holiday Events
+- Holidays
+- North Bend
+- North Bend Tree Lighting
+- Oregon
+- Oregon Coast Events
+- Thanksgiving
 categories:
-  - Events
-image: /img/11-09-17-celibrate-the-hollidays.jpg
+- Events
+image: "/img/11-09-17-celibrate-the-hollidays.jpg"
+warning: true
+
 ---
 <span style="font-weight: 400;">Wondering where you can find some holiday magic this year on Oregon's South Coast? We're so glad you asked!</span>
 

@@ -1,22 +1,24 @@
 ---
-title: >-
-  Traveling Exhibit Honoring Native Americans in the Armed Forces now open at
+title: Traveling Exhibit Honoring Native Americans in the Armed Forces now open at
   Coos History Museum
-date: 2018-03-21T12:20:13.000Z
-description: >
-  Patriot Nations: Native Americans in Our Nation’s Armed Forces, a traveling
-  exhibit produced by the Smithsonian’s National Museum of the American Indian,
-  is now open at the Coos History Museum.
+date: 2018-03-21T12:20:13.000+00:00
+description: 'Patriot Nations: Native Americans in Our Nation’s Armed Forces, a traveling
+  exhibit produced by the Smithsonian’s National Museum of the American Indian, is
+  now open at the Coos History Museum.
+
+'
 tags:
-  - Coos Historical
-  - Coos History Museum
-  - cultural attractions
-  - Nati ve American
-  - National Museum of the American Indian
-  - Patriot Nations
+- Coos Historical
+- Coos History Museum
+- cultural attractions
+- Nati ve American
+- National Museum of the American Indian
+- Patriot Nations
 categories:
-  - Miscellaneous
-image: /img/03-21-18-native-american-armed-forces.jpg
+- Miscellaneous
+image: "/img/03-21-18-native-american-armed-forces.jpg"
+warning: true
+
 ---
 <pre><em>Photo Courtesy of <a href="http://nmai.si.edu/explore/exhibitions/item/?id=958" target="_blank" rel="noopener noreferrer">National Museum of the American Indian</a> and Coos History Museum.</em></pre>
 
