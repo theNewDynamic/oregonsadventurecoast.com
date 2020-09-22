@@ -1,29 +1,29 @@
 ---
 title: Even More Ways to Enjoy Coos Bay and North Bend for Cheap (or Free!)
-date: 2016-03-03T19:00:35.000Z
-description: >-
-  Let's not mince words here. We're big fans of cheap. Cheap is awesome, that's
-  just a proven fact. And even better than cheap is free!  Nothing beats
-  spending an awesome day with friends without the unsettling feeling of "wallet
-  fatigue."
+date: 2016-03-03T19:00:35.000+00:00
+description: Let's not mince words here. We're big fans of cheap. Cheap is awesome,
+  that's just a proven fact. And even better than cheap is free!  Nothing beats spending
+  an awesome day with friends without the unsettling feeling of "wallet fatigue."
 tags:
-  - Adventure Coast
-  - Beaches
-  - Coos Art Museum
-  - Coos Bay
-  - Crabbing & Clamming
-  - Downtown Coos Bay
-  - Free and Cheap
-  - Free Things to Do
-  - Hiking
-  - North Bend
-  - recreation
-  - Spring Break
-  - Whale Watching
+- Adventure Coast
+- Beaches
+- Coos Art Museum
+- Coos Bay
+- Crabbing & Clamming
+- Downtown Coos Bay
+- Free and Cheap
+- Free Things to Do
+- Hiking
+- North Bend
+- recreation
+- Spring Break
+- Whale Watching
 categories:
-  - State Parks & National Lands
-  - Walking & Hiking
+- State Parks & National Lands
+- Walking & Hiking
 image: ''
+warning: true
+
 ---
 Let&#8217;s not mince words here. We&#8217;re big fans of cheap. Cheap is awesome, that&#8217;s just a proven fact. And even better than cheap is free!  Nothing beats spending an awesome day with friends without the unsettling feeling of &#8220;wallet fatigue.&#8221;
 
