@@ -1,6 +1,6 @@
 ---
 title: 'Your Guide to Beach-Combing and Tide-Pooling on Oregon''s Adventure Coast '
-date: 2019-04-18T21:00:00-07:00
+date: 2019-04-18T21:00:00.000-07:00
 description: 'If beach-combing, tide-pooling, picnicking, whale watching, surfing
   and clamming or other popular pastimes are on your Oregon Coast wish list, look
   no further than our very own beaches and be sure to follow these tips to stay safe
@@ -19,6 +19,7 @@ tags:
 categories:
 - Beach
 image: "/img/Oregon Coast Beaches blog 695 x 322.JPG"
+warning: true
 
 ---
 There is much to love about visiting Oregon's Adventure Coast, but the miles and miles of beautiful, undeveloped beaches may be one of our greatest natural assets. The beaches on Oregon's South Coast are ideal for anyone searching for a quiet, undisturbed spot to watch the tide roll in and out. They are also perfect for those looking for a place to surf, swim, walk the dogs or search for hidden beach treasures.
