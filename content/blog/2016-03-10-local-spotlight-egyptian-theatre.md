@@ -1,6 +1,6 @@
 ---
 title: Coos Bay Local Spotlight - Egyptian Theatre
-date: 2020-04-23T16:38:04+00:00
+date: 2020-04-23T16:38:04.000+00:00
 description: You don't need to travel across the world to visit a historical Egyptian
   landmark, there's one right downtown!  This month's local spotlight is highlighting
   one of Coos Bay's most treasured sites, the Egyptian Theatre, a cultural icon of
@@ -17,6 +17,7 @@ tags:
 categories:
 - Entertainment & Nightlife
 image: "/img/Egyptian-theater-blog-695x322.jpg"
+warning: true
 
 ---
 While we're in "shut-down" mode from the COVID-19 pandemic, we're taking a closer look at some of our historical gems right here in the Coos Bay area. In this post, we're highlighting one of our most treasured sites, the [Egyptian Theatre](http://egyptiantheatreoregon.com), a cultural icon of the area since its doors first opened in 1925. That's right, you don’t need to travel across the world to visit a historical Egyptian landmark, there’s one right downtown!

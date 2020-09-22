@@ -1,7 +1,7 @@
 ---
 title: 'Take a Virtual Tour of Oregon''s Adventure Coast: 25 Experiences with Rick
   Dancer!'
-date: 2020-04-16T15:00:00+00:00
+date: 2020-04-16T15:00:00.000+00:00
 description: In 2018, we welcomed Oregon guru and journalist Rick Dancer and his wife
   Kathy as they explored some of our favorite places and spaces and interviewed wonderful
   locals from Coos Bay, North Bend & Charleston.
@@ -22,6 +22,7 @@ categories:
 - Theaters
 - Walking & Hiking
 image: "/img/rick-dancer-header.jpg"
+warning: true
 
 ---
 In 2018, we welcomed Oregon guru and journalist Rick Dancer and his wife Kathy as they explored some of our favorite places and spaces and interviewed wonderful locals from Coos Bay, North Bend & Charleston.

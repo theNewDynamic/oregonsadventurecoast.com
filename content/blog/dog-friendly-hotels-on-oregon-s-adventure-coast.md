@@ -1,6 +1,6 @@
 ---
 title: Dog-Friendly Hotels on Oregon’s Adventure Coast
-date: 2020-03-26T04:00:00+00:00
+date: 2020-03-26T04:00:00.000+00:00
 description: Pets are part of the family, and what’s a family vacation to Oregon’s
   Adventure Coast without the whole family in tow? We welcome travelers AND their
   furry friends! Here is a list of several of our “pet-friendly” play areas and lodging
@@ -24,6 +24,8 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 We love our visitors, we really do! But for the time being, PLEASE STAY HOME and STAY HEALTHY. We look forward to welcoming you back when we can all safely travel again- and when that happens, there will be beautiful beaches, hiking trails and more waiting for you. In the meantime, we hope this post gives you some ideas and inspiration on ways to travel with your pet on Oregon's Adventure Coast.
