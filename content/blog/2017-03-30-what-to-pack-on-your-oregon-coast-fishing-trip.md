@@ -19,6 +19,7 @@ categories:
 - Fishing
 - Crabbing & Clamming
 image: ''
+warning: true
 
 ---
 <pre><em>Photo Courtesy of <a href="https://www.instagram.com/portofcoosbay/?hl=en">Port of Coos Bay</a></em></pre>

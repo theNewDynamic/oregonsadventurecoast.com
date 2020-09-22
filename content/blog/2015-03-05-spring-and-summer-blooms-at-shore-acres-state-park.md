@@ -1,6 +1,6 @@
 ---
 title: Spring and Summer Blooms at Shore Acres State Park
-date: 2020-04-20T16:57:33+00:00
+date: 2020-04-20T16:57:33.000+00:00
 description: While the rest of the country has been staying home and social distancing,
   the glorious spring and summer blooms at Shore Acres State Park haven't missed a
   beat. We would normally encourage you to pack your bags and head down to Oregon's
@@ -23,6 +23,7 @@ tags:
 categories:
 - State Parks & National Lands
 image: "/img/shore-acres-spring-flowers-695x322.jpg"
+warning: true
 
 ---
 While the rest of the country has been staying home and social distancing, the glorious spring and summer blooms at Shore Acres State park haven't missed a beat. We would normally encourage you to pack your bags and head down to Oregon's Adventure Coast asap so you can see them for yourself- but this is not the time.

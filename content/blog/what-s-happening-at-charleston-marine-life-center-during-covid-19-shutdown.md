@@ -1,6 +1,6 @@
 ---
 title: 'What’s Happening at Charleston Marine Life Center During COVID-19 Shutdown? '
-date: 2020-04-30T04:00:00+00:00
+date: 2020-04-30T04:00:00.000+00:00
 description: 'Many of our followers were curious as to what the animals were up to
   at Charleston Marine Life Center during the COVID-19 shutdown. Even though these
   amazing creatures miss their public visitors and school groups, it looks like they’re
@@ -24,6 +24,8 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 We know you’re missing the many interesting places and faces throughout Oregon’s Adventure Coast, so we thought we’d peek in at one of our favorite local destinations like the Charleston Marine Life Center, considered by many to be a [gem hidden in plain sight](https://www.oregonsadventurecoast.com/blog/charleston-marine-life-center-in-a-hidden-gem/). The center, part of the OIMB - The Oregon Institute of Marine Biology, has developed a loyal following among locals, visitors and educators throughout the region, but like many other public buildings and businesses throughout the country, they have temporarily closed their doors to help stop the spread of COVID-19.<p>
