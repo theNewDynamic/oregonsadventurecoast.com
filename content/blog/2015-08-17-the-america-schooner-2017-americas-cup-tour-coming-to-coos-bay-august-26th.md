@@ -18,6 +18,7 @@ tags:
 categories:
 - Miscellaneous
 image: ''
+warning: true
 
 ---
 Sailing fans of all ages are in for a treat!
