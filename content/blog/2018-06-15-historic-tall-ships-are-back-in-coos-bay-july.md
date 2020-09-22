@@ -1,38 +1,38 @@
 ---
 title: Historic Tall Ships Are Back in Coos Bay in July!
-date: 2018-06-15T11:38:36.000Z
-description: >-
-  The public is invited to experience maritime history when the brig Lady
-  Washington and the topsail ketch Hawaiian Chieftain dock at the Coos Bay
-  Boardwalk July 12th-24th, 2018. This is welcome news to our community after
-  the Lady Washington was unable to complete her voyage to Coos Bay in April due
-  to weather conditions.
+date: 2018-06-15T11:38:36.000+00:00
+description: The public is invited to experience maritime history when the brig Lady
+  Washington and the topsail ketch Hawaiian Chieftain dock at the Coos Bay Boardwalk
+  July 12th-24th, 2018. This is welcome news to our community after the Lady Washington
+  was unable to complete her voyage to Coos Bay in April due to weather conditions.
 tags:
-  - Battle Sails
-  - Beaches
-  - Charleston
-  - Coast
-  - Coos Bay
-  - Coos Bay Boardwalk
-  - Coos Bay Boat Building Center
-  - Coquille Indian Tribe
-  - Educational
-  - Hawaiian Chieftain
-  - Lady Washington
-  - Lower Umpqua
-  - Maritime History
-  - North Bend
-  - Oregon
-  - reconciliation ceremony
-  - recreation
-  - Siuslaw
-  - Tall Ships
-  - The Confederated Tribes of Coos
-  - Tours
-  - Washington
+- Battle Sails
+- Beaches
+- Charleston
+- Coast
+- Coos Bay
+- Coos Bay Boardwalk
+- Coos Bay Boat Building Center
+- Coquille Indian Tribe
+- Educational
+- Hawaiian Chieftain
+- Lady Washington
+- Lower Umpqua
+- Maritime History
+- North Bend
+- Oregon
+- reconciliation ceremony
+- recreation
+- Siuslaw
+- Tall Ships
+- The Confederated Tribes of Coos
+- Tours
+- Washington
 categories:
-  - Miscellaneous
-image: /img/06-15-18-lady-washington-hawaiian-chieftan.jpg
+- Miscellaneous
+image: "/img/06-15-18-lady-washington-hawaiian-chieftan.jpg"
+warning: true
+
 ---
 <h2>See the historic Lady Washington and Hawaiian Chieftain at the Coos Bay Boardwalk July 12th-24th</h2>
 

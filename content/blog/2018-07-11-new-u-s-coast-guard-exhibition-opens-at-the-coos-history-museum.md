@@ -1,22 +1,23 @@
 ---
 title: New U.S. Coast Guard Exhibition Opens at the Coos History Museum
-date: 2018-07-11T15:02:58.000Z
-description: >-
-  U.S. Coast Guard: Through the Eye of the Artist, featuring fifteen works of
-  art by 11 United States Coast Guard artists – more than half of whom are from
-  the West – will be on view at the Coos History Museum from July 19 through
-  September 16, 2018. The exhibit will open with a free, family friendly
-  ceremony on Thursday – July 19, from 3:00 pm to 5:00 pm. The public is welcome
-  to attend and tour the museum exhibit, free of charge.
+date: 2018-07-11T15:02:58.000+00:00
+description: 'U.S. Coast Guard: Through the Eye of the Artist, featuring fifteen works
+  of art by 11 United States Coast Guard artists – more than half of whom are from
+  the West – will be on view at the Coos History Museum from July 19 through September
+  16, 2018. The exhibit will open with a free, family friendly ceremony on Thursday
+  – July 19, from 3:00 pm to 5:00 pm. The public is welcome to attend and tour the
+  museum exhibit, free of charge.'
 tags:
-  - Art Exhibits
-  - Coos History Museum
-  - Family Friendly
-  - U.S. Coast Guard
-  - 'U.S. Coast Guard: Through the Eye of the Artist'
+- Art Exhibits
+- Coos History Museum
+- Family Friendly
+- U.S. Coast Guard
+- 'U.S. Coast Guard: Through the Eye of the Artist'
 categories:
-  - Miscellaneous
-image: /img/07-11-18-coast-guard-exhibition.jpg
+- Miscellaneous
+image: "/img/07-11-18-coast-guard-exhibition.jpg"
+warning: true
+
 ---
 <h2>Coos History Museum Invites Public to Free, Family-Friendly Event July 19th to Celebrate Opening of "U.S. Coast Guard: Through the Eye of the Artist” Exhibition</h2>
 U.S. Coast Guard: Through the Eye of the Artist, featuring fifteen works of art by 11 United States Coast Guard artists – more than half of whom are from the West – will be on view at the Coos History Museum from July 19 through September 16, 2018. The exhibit will open with a <a href="https://cooshistory.org/events/us-coast-guard-art-through-the-eye-of-the-artist-exhibit-opening/" target="_blank" rel="noopener noreferrer">free, family friendly ceremony</a> on Thursday – July 19, from 3:00 pm to 5:00 pm. The public is welcome to attend and tour the museum exhibit, free of charge.
