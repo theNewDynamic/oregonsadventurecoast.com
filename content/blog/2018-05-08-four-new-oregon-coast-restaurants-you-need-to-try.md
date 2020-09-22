@@ -25,6 +25,7 @@ tags:
 categories:
 - Eat & Drink
 image: "/img/05-08-18-new-or-coast-resteraunts.jpg"
+warning: true
 
 ---
 <pre><em>Photo Source: <a href="https://www.facebook.com/RestaurantO/">Restaurant O</a></em></pre>
