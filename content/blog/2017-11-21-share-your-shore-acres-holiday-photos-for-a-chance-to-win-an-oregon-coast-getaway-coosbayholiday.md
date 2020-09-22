@@ -1,27 +1,24 @@
 ---
-title: >-
-  Share Your Shore Acres Holiday Photos for a Chance to Win an Oregon Coast
-  Getaway- #CoosBayHoliday
-date: 2017-11-21T15:27:34.000Z
-description: >-
-  Coos Bay-North Bend Visitor and Convention Bureau to host Twitter and
-  Instagram photo contest!
-
-  Charleston, OR- Each year, Shore Acres State Park is transformed into one of
-  the most beautiful destinations on the West Coast during the holiday season,
-  making this special place an ideal spot for photographers of all levels.
+title: 'Share Your Shore Acres Holiday Photos for a Chance to Win an Oregon Coast
+  Getaway- #CoosBayHoliday'
+date: 2017-11-21T15:27:34.000+00:00
+description: |-
+  Coos Bay-North Bend Visitor and Convention Bureau to host Twitter and Instagram photo contest!
+  Charleston, OR- Each year, Shore Acres State Park is transformed into one of the most beautiful destinations on the West Coast during the holiday season, making this special place an ideal spot for photographers of all levels.
 tags:
-  - CoosBayHoliday
-  - Charleston
-  - Christmas lights
-  - Coos Bay
-  - North Bend
-  - Oregon Coast Holiday Lights
-  - Shore Acres
-  - Shore Acres Holiday Lights
+- CoosBayHoliday
+- Charleston
+- Christmas lights
+- Coos Bay
+- North Bend
+- Oregon Coast Holiday Lights
+- Shore Acres
+- Shore Acres Holiday Lights
 categories:
-  - Miscellaneous
-image: /img/holidaylights-176.jpg
+- Miscellaneous
+image: "/img/holidaylights-176.jpg"
+warning: true
+
 ---
 <h2><strong>Coos Bay-North Bend Visitor and Convention Bureau to host Twitter and Instagram photo contest!</strong></h2>
 <strong>Charleston, OR- </strong>Each year, Shore Acres State Park is transformed into one of the most beautiful destinations on the West Coast during the holiday season, making this special place an ideal spot for photographers of all levels.

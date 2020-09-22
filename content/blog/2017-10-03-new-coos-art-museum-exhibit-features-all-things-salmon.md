@@ -1,25 +1,24 @@
 ---
 title: New Coos Art Museum exhibit features "All Things Salmon"
-date: 2017-10-03T16:29:29.000Z
-description: >+
-  The Coos Art Museum has announced their upcoming exhibition of contemporary
-  art, All Things Salmon, will open October 13th. The exhibition highlights the
-  significance and influence salmon has had on society and culture throughout
-  history.
-
+date: 2017-10-03T16:29:29.000+00:00
+description: "The Coos Art Museum has announced their upcoming exhibition of contemporary
+  art, All Things Salmon, will open October 13th. The exhibition highlights the significance
+  and influence salmon has had on society and culture throughout history.\n\n"
 tags:
-  - Coos Bay History Museum
-  - Coos County Historical Society
-  - Coos County History
-  - Coos History Museum
-  - Coos History Museum & Maritime Collections
-  - Coos Maritime Collections
-  - Front Street
-  - Oregon Coast History Museum
-  - South Coast Museum
+- Coos Bay History Museum
+- Coos County Historical Society
+- Coos County History
+- Coos History Museum
+- Coos History Museum & Maritime Collections
+- Coos Maritime Collections
+- Front Street
+- Oregon Coast History Museum
+- South Coast Museum
 categories:
-  - Miscellaneous
-image: /img/10-03-17-coos-art-museum-all-things-salmon.jpg
+- Miscellaneous
+image: "/img/10-03-17-coos-art-museum-all-things-salmon.jpg"
+warning: true
+
 ---
 The<a href="https://www.coosart.org/"> Coos Art Museum</a> has announced their upcoming exhibition of contemporary art, <em>All Things Salmon</em>, will open October 13th. The exhibition highlights the significance and influence salmon has had on society and culture throughout history.
 

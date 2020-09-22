@@ -1,27 +1,28 @@
 ---
 title: 'Where to Celebrate the Holidays on Oregon''s Adventure Coast '
-date: '2018-11-07T06:11:38-05:00'
-description: >-
-  Wondering where you can find some holiday magic this year on Oregon’s South
-  Coast? We’re so glad you asked!
+date: 2018-11-07T06:11:38-05:00
+description: Wondering where you can find some holiday magic this year on Oregon’s
+  South Coast? We’re so glad you asked!
 tags:
-  - news
-  - holidays
-  - Oregon Coast
-  - Christmas
-  - Christmas Events Oregon Coast
-  - Holiday Events Oregon Coast
-  - Thanskgiving
-  - New Years
-  - Polar Bear Plunge
-  - Coos Bay
-  - Downtown Coos Bay Holiday Shops. Shore Acres Holiday Lights
-  - Christmas 2008
-  - Tree Lightings
-  - ''
+- news
+- holidays
+- Oregon Coast
+- Christmas
+- Christmas Events Oregon Coast
+- Holiday Events Oregon Coast
+- Thanskgiving
+- New Years
+- Polar Bear Plunge
+- Coos Bay
+- Downtown Coos Bay Holiday Shops. Shore Acres Holiday Lights
+- Christmas 2008
+- Tree Lightings
+- ''
 categories:
-  - Events
-image: /img/1b9f2543b912206e3fe9e6848e529693.jpg
+- Events
+image: "/img/1b9f2543b912206e3fe9e6848e529693.jpg"
+warning: true
+
 ---
 Photo Source Cody Cha on [www.vimeo.com](https://vimeo.com/34231737)
 
