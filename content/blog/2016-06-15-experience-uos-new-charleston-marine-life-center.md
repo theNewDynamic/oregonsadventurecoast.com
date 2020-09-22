@@ -1,24 +1,24 @@
 ---
 title: Experience UO's NEW Charleston Marine Life Center
-date: 2016-06-15T17:55:19.000Z
-description: >+
-  It's here! After months of anticipation and nine years of development, The
-  University of Oregon has opened a brand new public museum and aquarium for
-  visitors of all ages in Charleston!
-
+date: 2016-06-15T17:55:19.000+00:00
+description: "It's here! After months of anticipation and nine years of development,
+  The University of Oregon has opened a brand new public museum and aquarium for visitors
+  of all ages in Charleston!\n\n"
 tags:
-  - aquarium
-  - Charleston Marine Life Center
-  - Gallery
-  - Marine Biology
-  - Marine Ecosystem
-  - marine life
-  - School Tours
-  - The University of Oregon
-  - UO’s Institute of Marine Biology
+- aquarium
+- Charleston Marine Life Center
+- Gallery
+- Marine Biology
+- Marine Ecosystem
+- marine life
+- School Tours
+- The University of Oregon
+- UO’s Institute of Marine Biology
 categories:
-  - Culture & Museums
+- Culture & Museums
 image: ''
+warning: true
+
 ---
 It&#8217;s here! After months of anticipation and nine years of development, The University of Oregon has opened a brand new public museum and aquarium for visitors of all ages in Charleston!
 

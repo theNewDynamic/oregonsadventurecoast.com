@@ -1,38 +1,35 @@
 ---
 title: 'Eight Fun Family-Friendly Halloween Activities on Oregon’s Adventure Coast '
-date: '2018-10-17T10:13:55-04:00'
-description: >-
-  Whether it’s trick or treating, scary movies or just an old-fashioned day at a
-  local pumpkin patch….there is something for everyone on Oregon’s Adventure
-  Coast - Coos Bay, North Bend and Charleston! 
-
-
-  Here’s a run down of some of the activities planned in the Coos Bay, North
-  Bend and Charleston area this season:
+date: 2018-10-17T10:13:55-04:00
+description: "Whether it’s trick or treating, scary movies or just an old-fashioned
+  day at a local pumpkin patch….there is something for everyone on Oregon’s Adventure
+  Coast - Coos Bay, North Bend and Charleston! \n\nHere’s a run down of some of the
+  activities planned in the Coos Bay, North Bend and Charleston area this season:"
 tags:
-  - news
-  - fall
-  - pumpkin patch
-  - Halloween
-  - Trick-or-treat
-  - Trunk-or-treat
-  - family friendly
-  - kids
-  - halloween events
-  - Coos Bay Halloween Events
-  - Charleston Oregon Halloween Events
-  - North Bend Halloween Events
-  - Safe Trick or Treating
-  - Oregon Coast
+- news
+- fall
+- pumpkin patch
+- Halloween
+- Trick-or-treat
+- Trunk-or-treat
+- family friendly
+- kids
+- halloween events
+- Coos Bay Halloween Events
+- Charleston Oregon Halloween Events
+- North Bend Halloween Events
+- Safe Trick or Treating
+- Oregon Coast
 categories:
-  - Events
-image: /img/safe-trick-or-treating-halloween-events-coos-bay-oregon.jpg
+- Events
+image: "/img/safe-trick-or-treating-halloween-events-coos-bay-oregon.jpg"
 seo:
   title: 'Eight Fun Family-Friendly Halloween Activities on Oregon’s Adventure Coast '
-  description: >-
-    Whether it’s trick or treating, scary movies or just an old-fashioned day at
-    a local pumpkin patch….there is something for everyone on Oregon’s Adventure
+  description: Whether it’s trick or treating, scary movies or just an old-fashioned
+    day at a local pumpkin patch….there is something for everyone on Oregon’s Adventure
     Coast - Coos Bay, North Bend and Charleston!
+warning: true
+
 ---
 It’s not too late to take a trip to Oregon’s South Coast and enjoy the many festive fall and Halloween themed events the whole family will enjoy this month. Whether it’s trick or treating, scary movies or just an old-fashioned day at a local pumpkin patch….there is something for everyone on Oregon’s Adventure Coast - Coos Bay, North Bend and Charleston! 
 

@@ -1,31 +1,28 @@
 ---
 title: Ten Steve Prefontaine Quotes To Get You Motivated and Ready to Run!
-date: 2016-09-05T15:17:15.000Z
-description: >+
-  The Prefontaine Run along with the Bay Area Fun Festival & Cruz The Coos are
-  coming in September!
-
-
-  Born and raised in Coos Bay, Steve Prefontaine grew to become one of the most
-  celebrated runners in history. His amazing story, and untimely death, inspired
-  the Annual Prefontaine Memorial Run happening Saturday, September 17th,
-  2016.  
-
+date: 2016-09-05T15:17:15.000+00:00
+description: "The Prefontaine Run along with the Bay Area Fun Festival & Cruz The
+  Coos are coming in September!\n\nBorn and raised in Coos Bay, Steve Prefontaine
+  grew to become one of the most celebrated runners in history. His amazing story,
+  and untimely death, inspired the Annual Prefontaine Memorial Run happening Saturday,
+  September 17th, 2016.  \n\n"
 tags:
-  - 35th Annual Prefontaine
-  - Adventure Coast
-  - Bay Area Fun Festival
-  - Coast
-  - Coos Art Museum
-  - Coos Bay
-  - Cruz the Coos
-  - Marshfield High School
-  - Prefontaine Run
-  - Southern Oregon Coast
+- 35th Annual Prefontaine
+- Adventure Coast
+- Bay Area Fun Festival
+- Coast
+- Coos Art Museum
+- Coos Bay
+- Cruz the Coos
+- Marshfield High School
+- Prefontaine Run
+- Southern Oregon Coast
 categories:
-  - Fairs & Festivals
-  - Miscellaneous
+- Fairs & Festivals
+- Miscellaneous
 image: ''
+warning: true
+
 ---
 ## The Prefontaine Run along with the Bay Area Fun Festival & Cruz The Coos are coming in September!
 
