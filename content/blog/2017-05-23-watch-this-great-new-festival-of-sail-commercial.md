@@ -20,6 +20,7 @@ tags:
 categories:
 - Fairs & Festivals
 image: ''
+warning: true
 
 ---
 Unless you&#8217;ve been living under a rock, you probably know that [Festival of Sail®](http://festofsailcoosbay.com/) is coming to Coos Bay/North Bend June 1st-4th, 2017. And you may have heard that this year is bigger and better than ever before! We could tell you more, but we&#8217;d rather show you in this new commercial spot!

@@ -1,6 +1,6 @@
 ---
 title: Come for the Lights...Stay for the Sights
-date: 2018-12-13 10:17:04 -0800
+date: 2018-12-13T10:17:04.000-08:00
 description: 'Twelve Things To Do When You Visit Holiday Lights at Shore Acres Display '
 image: "/img/07-24-17-end-of-summer-todo.jpg"
 tags:
@@ -13,6 +13,7 @@ tags:
 - 'Charleston Oregon '
 - 'Fun things to do Charleston Oregon '
 categories: []
+warning: true
 
 ---
 The[ Holiday Lights at Shore Acres](https://oregonsadventurecoast.com/event/32nd-annual-holiday-lights-at-shore-acres/) display is one of the most famous seasonal attractions on the Oregon Coast and attracts thousands of visitors to our area each year.
