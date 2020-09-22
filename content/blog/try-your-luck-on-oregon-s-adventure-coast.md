@@ -1,12 +1,13 @@
 ---
 title: Try your luck on Oregon's Adventure Coast
-date: 2019-09-03T11:30:00-07:00
+date: 2019-09-03T11:30:00.000-07:00
 description: Did you know that our little corner of the Pacific Northwest is home
   to two of the area’s best casinos? Whether its slots, cards, or games, you’re sure
   to find round-the-clock adventure, fun, and (fingers crossed) millions right here.
 image: "/img/Oregon Coast Casinos.jpg"
 tags: []
 categories: []
+warning: true
 
 ---
 If the kayaking, golf, amazing wildlife, world-class fishing, breathtaking hikes and Instagram- worthy views don’t have you feeling like you’ve hit the jackpot on the Southern Oregon coast, maybe this will: an actual jackpot.

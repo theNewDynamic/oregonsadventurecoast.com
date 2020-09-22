@@ -1,6 +1,6 @@
 ---
 title: 'Featured Adventure: See Oregon''s South Coast  on a Coos Boat Tour'
-date: 2019-05-13T09:01:00-07:00
+date: 2019-05-13T09:01:00.000-07:00
 description: 'Coos Boat Tours is now offering 2-hour scenic and historic tours in
   Coos Bay. Book a trip for up to 6 passengers on board the Fun Sway, a 40’ Motor
   Yacht and let Captain Brian Kraynik guide you through the incredible scenic beauty
@@ -15,6 +15,7 @@ tags:
 - scenic cruise
 categories:
 - Boat Tours
+warning: true
 
 ---
 To truly experience Oregon’s Adventure Coast from local’s point of view, you simply have to get out on the water. There is a range of recreational water activities to choose from here on Oregon’s South Coast. Everything from kayaking to paddleboarding, swimming, scuba diving, surfing and fishing on lakes or with a [guide or charter company](https://oregonsadventurecoast.com/tour-guides-and-charters/). But there have not been many opportunities for visitors to get out on the water on a scenic cruise or boat tour to explore Coos Bay's natural beauty and rich history, until now.

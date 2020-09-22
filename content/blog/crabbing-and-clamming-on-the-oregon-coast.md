@@ -1,6 +1,6 @@
 ---
 title: Crabbing and Clamming on the Oregon Coast
-date: 2019-02-28 21:00:00 -0800
+date: 2019-02-28T21:00:00.000-08:00
 description: 'No trip to Oregon’s Adventure Coast is complete without a fresh Dungeness
   crab or clam feast from the waters of lower Coos Bay. The best-tasting crabs and
   clams are the ones you catch yourself. It takes a little planning and patience,
@@ -19,6 +19,7 @@ tags:
 - oregon coast adventure
 categories:
 - Crabbing and Clamming
+warning: true
 
 ---
 Are you craving an Oregon Coast adventure? Whether you’ve been to our area before or you’re planning your first trip, we have an activity or two to add to your bucket list. Let’s talk Oregon Coast crabbing and clamming. No trip to Oregon’s Adventure Coast is complete without a fresh Dungeness crab or clam feast from the waters of lower Coos Bay.
