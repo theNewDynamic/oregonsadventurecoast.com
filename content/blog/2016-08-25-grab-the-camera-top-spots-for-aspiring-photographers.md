@@ -21,6 +21,7 @@ tags:
 categories:
 - Walking & Hiking
 image: ''
+warning: true
 
 ---
 Looking to update your portfolio and beef up your Instagram? Perhaps you’re just looking for some stunning scenery to capture in some timeless shots. No matter your goal and experience level, the Coos Bay area has the perfect backdrop for a planned and impromptu photo-sessions.
