@@ -1,6 +1,6 @@
 ---
 title: Charleston Marine Life Center is a Hidden Gem
-date: 2019-03-20 21:00:00 -0700
+date: 2019-03-20T21:00:00.000-07:00
 description: 'One of our most prized hidden gems is the Charleston Marine Life Center,
   part of the OIMB - The Oregon Institute of Marine Biology. From the outside, you''d
   never know that a wealth of knowledge about the Oregon Coast and it''s mysterious
@@ -11,6 +11,7 @@ description: 'One of our most prized hidden gems is the Charleston Marine Life C
 image: "/img/Charleston Marine Life Center blog-695x322.jpg"
 tags: []
 categories: []
+warning: true
 
 ---
 The Pacific Ocean is filled with a vibrant array of marine life and rich ecosystems. Those of us who live here or are visiting Oregon's South Coast are very fortunate to have such extraordinary access to these precious natural habitats and curiosities. It's no wonder this area is an epicenter for everyone from marine biologists to the naturally curious.
