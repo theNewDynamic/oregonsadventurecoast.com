@@ -1,35 +1,35 @@
 ---
 title: Clamming 101...Can You Dig It?
-date: 2018-03-03T02:13:38.000Z
-description: >+
-  If you've been anywhere along the Oregon Coast, you've probably heard a lot
-  about clamming; but you might be wondering why it's so popular among natives
-  and visitors. Clamming is appealing to many Oregonians and visitors because it
-  is relatively easy and the reward is a tasty treat best served in chowder,
-  steamed or fried. There are no special skills required, no expensive
-  equipment, and beginners can usually pick it up quite easily.
-
+date: 2018-03-03T02:13:38.000+00:00
+description: "If you've been anywhere along the Oregon Coast, you've probably heard
+  a lot about clamming; but you might be wondering why it's so popular among natives
+  and visitors. Clamming is appealing to many Oregonians and visitors because it is
+  relatively easy and the reward is a tasty treat best served in chowder, steamed
+  or fried. There are no special skills required, no expensive equipment, and beginners
+  can usually pick it up quite easily.\n\n"
 tags:
-  - Bait and Tackle
-  - Clam Digging
-  - Clamming
-  - Clamming for Beginners
-  - Clamming tips
-  - Clamming tutorial
-  - Fresh Clams
-  - Fried Clams
-  - How to Clean Clams
-  - How to Go Clamming
-  - Oregon Clams
-  - Oregon Coast Clamming
-  - Pacific Northwest Clamming
-  - Pacific Northwest Clams
-  - Razor Clams
-  - Steamed Clams
+- Bait and Tackle
+- Clam Digging
+- Clamming
+- Clamming for Beginners
+- Clamming tips
+- Clamming tutorial
+- Fresh Clams
+- Fried Clams
+- How to Clean Clams
+- How to Go Clamming
+- Oregon Clams
+- Oregon Coast Clamming
+- Pacific Northwest Clamming
+- Pacific Northwest Clams
+- Razor Clams
+- Steamed Clams
 categories:
-  - Fishing
-  - Crabbing & Clamming
-image: /img/03-02-18-claming-101.jpg
+- Fishing
+- Crabbing & Clamming
+image: "/img/03-02-18-claming-101.jpg"
+warning: true
+
 ---
 If you've been anywhere along the Oregon Coast, you've probably heard a lot about clamming; but you might be wondering why it's so popular among natives and visitors. Clamming is appealing to many Oregonians and visitors because it is relatively easy and the reward is a tasty treat best served in chowder, steamed or fried. There are no special skills required, no expensive equipment, and beginners can usually pick it up quite easily.
 

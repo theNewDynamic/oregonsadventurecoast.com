@@ -1,16 +1,20 @@
 ---
-title: >-
-  "That Oregon Life- ExplOregon Series"  Coming to Coos Bay, North Bend &
-  Charleston!
-date: '2018-07-31T09:20:00-07:00'
-description: "UPDATE as of August 1st: <em>As originally noted, the scheduled broadcast dates for the segments mentioned in this post are subject to change without notice. We'll do our best to keep you updated. At this time, some of the segments scheduled to air\_today & tomorrow will now be shared on Friday. Tune into the <a href=\"https://www.facebook.com/ThatOregonLife/\" target=\"_blank\">That Oregon Life Facebook Page</a>!</em>"
+title: '"That Oregon Life- ExplOregon Series"  Coming to Coos Bay, North Bend & Charleston!'
+date: 2018-07-31T09:20:00-07:00
+description: 'UPDATE as of August 1st: <em>As originally noted, the scheduled broadcast
+  dates for the segments mentioned in this post are subject to change without notice.
+  We''ll do our best to keep you updated. At this time, some of the segments scheduled
+  to air today & tomorrow will now be shared on Friday. Tune into the <a href="https://www.facebook.com/ThatOregonLife/"
+  target="_blank">That Oregon Life Facebook Page</a>!</em>'
 tags:
-  - news
+- news
 categories:
-  - Miscellaneous
-image: /img/south-cove-cliffs-new.jpg
+- Miscellaneous
+image: "/img/south-cove-cliffs-new.jpg"
 seo:
-  image: /img/south-cove-cliffs-new.jpg
+  image: "/img/south-cove-cliffs-new.jpg"
+warning: true
+
 ---
 <strong>UPDATE as of August 1st:</strong> <em>As originally noted, the scheduled broadcast dates for the segments mentioned in this post are subject to change without notice. We'll do our best to keep you updated. At this time, some of the segments scheduled to air today &amp; tomorrow will now be shared on Friday. Tune into the <a href="https://www.facebook.com/ThatOregonLife/">That Oregon Life Facebook Page</a>!</em>
 

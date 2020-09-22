@@ -1,27 +1,28 @@
 ---
 title: How to Catch Your Own Dungeness Crab Meal  Off the Oregon Coast
-date: 2018-02-02T14:51:43.000Z
-description: >-
-  It may be the middle of winter, but we don't mind. Whether you like to catch
-  them yourself or just eat them, February is a perfect time to go crabbing on
-  the Southern Oregon Coast! Now that commercial crab season is finally here, a
-  fresh Dungeness crab meal is waiting for you! Why not be adventurous and catch
-  this delicacy yourself in the waters of lower Coos Bay?
+date: 2018-02-02T14:51:43.000+00:00
+description: It may be the middle of winter, but we don't mind. Whether you like to
+  catch them yourself or just eat them, February is a perfect time to go crabbing
+  on the Southern Oregon Coast! Now that commercial crab season is finally here, a
+  fresh Dungeness crab meal is waiting for you! Why not be adventurous and catch this
+  delicacy yourself in the waters of lower Coos Bay?
 tags:
-  - Beaches
-  - Charleston
-  - Coast
-  - Commercial Dungeness Crab Season
-  - Coos Bay
-  - crab ring
-  - Dungeness Crab
-  - North Bend
-  - Oregon
-  - Oregon Department of Fish and Wildlife
-  - recreation
+- Beaches
+- Charleston
+- Coast
+- Commercial Dungeness Crab Season
+- Coos Bay
+- crab ring
+- Dungeness Crab
+- North Bend
+- Oregon
+- Oregon Department of Fish and Wildlife
+- recreation
 categories:
-  - Miscellaneous
-image: /img/02-02-18-catch-your-own-crab-mealoff.jpg
+- Miscellaneous
+image: "/img/02-02-18-catch-your-own-crab-mealoff.jpg"
+warning: true
+
 ---
 It may be the middle of winter, but we don't mind. Whether you like to catch them yourself or just eat them, February is a perfect time to go crabbing on the Southern Oregon Coast! Now that commercial crab season is finally here, a fresh Dungeness crab meal is waiting for you! Why not be adventurous and catch this delicacy yourself in the waters of lower Coos Bay?
 

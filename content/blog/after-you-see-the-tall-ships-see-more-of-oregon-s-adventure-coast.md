@@ -1,6 +1,6 @@
 ---
 title: After You See the Tall Ships, See More of Oregon's Adventure Coast
-date: 2019-04-24 04:00:00 +0000
+date: 2019-04-24T04:00:00.000+00:00
 description: The tall ships are always a treat, but we invite our visitors to get
   out and explore the unique destinations that make Oregon’s Adventure Coast an exceptional
   region. Here are some tips to help you enjoy the very best of Coos Bay, North Bend
@@ -25,6 +25,7 @@ tags:
 - Golden and Silver Falls
 - Charleston Marine Life Center
 categories: []
+warning: true
 
 ---
 The historic tall ships, Lady Washington and the Hawaiian Chieftain, will soon set sail for the Coos Bay Boardwalk where they will dock May 1st- 6th! The Lady Washington is a full-scale reproduction of the original Lady Washington, the first American vessel to make landfall on the west coast of North America in 1788. The Hawaiian Chieftain is a replica of a typical early nineteenth-century European merchant ship. Her hull shape and rigging are similar to the ships used by Spanish explorers during the 18th-century expeditions of the Washington, Oregon, and California coasts.
