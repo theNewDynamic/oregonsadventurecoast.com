@@ -21,6 +21,7 @@ tags:
 categories:
 - Fairs & Festivals
 image: ''
+warning: true
 
 ---
 Much like the Salmon returns upstream, the <a href="http://www.themillcasino.com/entertainment/salmon.cfm" target="_blank" class="broken_link">Mill-Luck Salmon Celebration</a> returns each year to the Mill Casino in North Bend on **Friday, September 10th__ to **Sunday, September 11th, 2016. **

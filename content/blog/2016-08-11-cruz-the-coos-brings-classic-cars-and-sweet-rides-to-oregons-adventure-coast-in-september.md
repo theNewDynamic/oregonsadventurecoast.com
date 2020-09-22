@@ -17,6 +17,7 @@ tags:
 categories:
 - Fairs & Festivals
 image: ''
+warning: true
 
 ---
 September is just around the corner and everyone’s talking about <a href="http://cruzthecoos.com/" target="_blank">Cruz the Coos</a>, now presented by <a href="http://coosbaynorthbendrotary.org/" target="_blank">The Coos Bay-North Bend Rotary Club</a>!  The event is one of the premiere vintage car cruises and show ‘n shines on the Oregon coast and part of the very popular <a href="/2016/08/here-comes-the-fun-the-bay-area-fun-festival-that-is/" target="_blank">Bay Area Fun Festival</a>.
