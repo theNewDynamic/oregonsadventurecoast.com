@@ -1,7 +1,7 @@
 ---
 title: Combine the Cape Arago Highway Loop & Charleston to Bandon Tour Route for the
   Ultimate Oregon Coast Road Trip
-date: 2018-10-07 08:19:16 -0400
+date: 2018-10-07T08:19:16.000-04:00
 description: Looking for the ultimate Oregon Coast road trip experience? The Cape
   Arago Highway and the Charleston to Bandon tour route are amazing on their own,
   but when combined together, it makes for an inspiring adventure packed with natural
@@ -20,6 +20,7 @@ seo:
     wonder and fun.
   image: "/img/beaches-sunset-bay.jpg"
   imgalt: Cape Arago Highway Loop and Charleston to Bandon Tour Route
+warning: true
 
 ---
 The Cape Arago Highway and the Charleston to Bandon tour route are amazing on their own, but when combined, it makes for an inspiring adventure packed with natural wonder and fun along a remote stretch of shoreline here on Oregon’s South Coast. This 41 mile route is a delightful alternative to the Pacific Coast Highway (Highway 101) and will take just about 2-3 hours to drive (depending on the number of stops you make). The drive will lead you past six state parks, two National Wildlife Refuges and America’s first National Estuarine Research Reserve. Travelers of all ages and experience levels will enjoy it as it has everything you could hope to see along the Oregon Coast — iconic views of the Pacific ocean, marine life, sea lions and seabirds, untouched beaches, secret coves and more!

@@ -22,6 +22,7 @@ categories:
 - Beach
 - Walking & Hiking
 image: "/img/01-23-18-sixteen-coast-adventures.jpg"
+warning: true
 
 ---
 ## <h2>Get Ready to Make 2018 the Year of Exploration and Adventure!</h2>

@@ -1,6 +1,6 @@
 ---
 title: A One-Minute Journey through Oregon's Adventure Coast
-date: 2019-04-15 00:00:00 -0700
+date: 2019-04-15T00:00:00.000-07:00
 description: 'We recently released two videos to show the world what a few days or
   more could look like for them on Oregon''s Adventure Coast. '
 image: "/img/mccullough-bridge-02-blog-695x322.jpg"
@@ -15,6 +15,7 @@ tags:
 - mountain biking
 categories:
 - General
+warning: true
 
 ---
 We love to tell anyone and everyone who will listen all about Oregon's Adventure Coast, but it's even better when we can show them! We recently released two videos to show the world what a few days or more could look like for them on Oregon's Adventure Coast. Whether it's riding through the [https://oregonsadventurecoast.com/untamed-dunes](https://oregonsadventurecoast.com/untamed-dunes), hiking through the [Golden and Silver Falls State Natural Area](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67), stand-up paddleboarding in [Sunset Bay State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70), [kayaking](https://oregonsadventurecoast.com/water-recreation) and [fishing in our lakes and rivers](https://oregonsadventurecoast.com/fishing), [surfing in the Pacific Ocean](https://oregonsadventurecoast.com/water-recreation), [mountain biking through coastal forests](https://oregonsadventurecoast.com/cycling), or simply hanging out on an [uncrowded beach](https://oregonsadventurecoast.com/undeveloped-beaches), this video covers just about all of our favorite outdoor experiences!

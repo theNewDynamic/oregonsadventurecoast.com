@@ -1,6 +1,6 @@
 ---
 title: Five Fun and Funky Places to Stay on Oregon’s Adventure Coast
-date: 2019-03-28 21:00:00 -0700
+date: 2019-03-28T21:00:00.000-07:00
 description: " In this post, we are highlighting a few of the \"funkier\" hotels in
   our area that will appeal to travelers looking for a more authentic local experience
   during their travels to Oregon's Adventure Coast.\n\n"
@@ -23,6 +23,7 @@ tags:
 - oregon coast lodging
 - The Old Tower House Bed & Breakfast
 categories: []
+warning: true
 
 ---
 Five Fun and Funky Places to Stay on Oregon’s Adventure Coast
