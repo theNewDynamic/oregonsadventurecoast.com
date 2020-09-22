@@ -1,7 +1,7 @@
 ---
 title: Celebrate National Estuaries Week at The South Slough National Estuarine Research
   Reserve!
-date: 2019-09-17T04:00:00+00:00
+date: 2019-09-17T04:00:00.000+00:00
 description: If you haven’t had the opportunity to visit South Slough NERR, we urge
   you to do so! In honor of National Estuaries Week (NEW), we’re highlighting this
   local treasure and the importance of estuaries everywhere.
@@ -21,6 +21,15 @@ tags:
 - " Coos Bay Surfriders"
 categories:
 - National Lands
+seo:
+  title: ''
+  description: ''
+  imgalt: ''
+  image: ''
+aliases: []
+accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 [National Estuaries Week (NEW)](https://estuaries.org/get-involved/new/) is happening THIS WEEK (September 14th-21st) and we wanted to take the opportunity to help raise awareness for these precious water systems and spotlight our own local estuary and local gem, [The South Slough National Estuarine Research Reserve (South Slough NERR)](https://www.oregon.gov/dsl/SS/Pages/About.aspx)!
