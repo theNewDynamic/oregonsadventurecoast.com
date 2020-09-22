@@ -13,7 +13,6 @@ aliases:
 - FALL15
 accordion_sections: []
 boxes: []
-draft: true
 
 ---
 ![](/img/fall-15-off-header-695x322.jpg)
