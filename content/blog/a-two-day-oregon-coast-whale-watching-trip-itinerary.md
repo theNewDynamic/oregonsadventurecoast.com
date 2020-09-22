@@ -27,6 +27,8 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 ### The Whole Family Will Have a "Whale of a Time" During Winter 2019 Whale Watching Week- December 27th – 31st, 2019

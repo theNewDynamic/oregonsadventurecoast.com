@@ -1,6 +1,6 @@
 ---
 title: Helpful Travel Tips For Savvy Travelers
-date: 2019-01-10 21:00:00 -0800
+date: 2019-01-10T21:00:00.000-08:00
 description: Planning a trip to Oregon’s South Coast? Whether you’re spending two
   weeks or just a weekend, you likely want to make the most of your vacation. That’s
   where smart planning comes in. Taking the time to plan an itinerary and be mindful
@@ -16,6 +16,7 @@ tags:
 - Oregon Travel Trip
 categories:
 - 'Travel Tips '
+warning: true
 
 ---
 Planning a trip to Oregon’s South Coast? Whether you’re spending two weeks or just a weekend, you likely want to make the most of your vacation. That’s where smart planning comes in. Taking the time to plan an itinerary and be mindful while exploring the area can help ensure you come away with memories that last a lifetime. Here are some top tips that will help you make the most of your trip.
