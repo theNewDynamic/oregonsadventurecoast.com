@@ -26,6 +26,8 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 So much has changed in our world since the COVID-19 crisis began a few months ago, but we are beginning to see the light at the end of the tunnel. Although it will take time to “get back to normal”, steps are being made in the right direction. On June 6th, 2020 Coos Bay/North Bend/Charleston a.k.a. Oregon’s Adventure Coast was allowed to enter into Phase 2 of the reopening process. This means that our community has spent at least 21 days in Phase 1 and saw no significant increase in COVID-19 cases. If you’re planning on traveling this summer and fall, you’re probably wondering what’s open and what’s safe.
