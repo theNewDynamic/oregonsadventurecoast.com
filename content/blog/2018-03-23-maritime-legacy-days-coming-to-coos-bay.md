@@ -1,28 +1,29 @@
 ---
 title: Maritime Legacy Days Coming to Coos Bay!
-date: 2018-03-23T16:50:44.000Z
-description: >-
-  Coos Bay is eager to welcome Maritime Legacy Days, a celebration of our
-  region's seafaring and shipbuilding heritage! This living history experience
-  will feature demonstrations of tall ship handling, sea shanty singing,
-  maritime amusements and more.
+date: 2018-03-23T16:50:44.000+00:00
+description: Coos Bay is eager to welcome Maritime Legacy Days, a celebration of our
+  region's seafaring and shipbuilding heritage! This living history experience will
+  feature demonstrations of tall ship handling, sea shanty singing, maritime amusements
+  and more.
 tags:
-  - adventure sails
-  - Charleston
-  - Community Events
-  - Coos Bay
-  - evening sails
-  - Family Friendly
-  - Lady Washington
-  - Maritime History
-  - Maritime Legacy Days
-  - North Bend
-  - Oregon Coast
-  - Shipbuilding
-  - Tall Ships
+- adventure sails
+- Charleston
+- Community Events
+- Coos Bay
+- evening sails
+- Family Friendly
+- Lady Washington
+- Maritime History
+- Maritime Legacy Days
+- North Bend
+- Oregon Coast
+- Shipbuilding
+- Tall Ships
 categories:
-  - Miscellaneous
-image: /img/03-23-18-maritime-legacy-days.jpg
+- Miscellaneous
+image: "/img/03-23-18-maritime-legacy-days.jpg"
+warning: true
+
 ---
 #### <h4>UPDATE 4/13/18 Sorry everybody, we just got word.</h4>
 

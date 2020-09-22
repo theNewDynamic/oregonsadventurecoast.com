@@ -1,25 +1,26 @@
 ---
 title: Nine Hot Festivals on Oregon's Cool Coast - Plan Your Trip Now
-date: 2018-05-22T18:00:24.000Z
-description: >-
-  There are many reasons to visit Oregon's Adventure Coast each summer. Between
-  the blissful escape from scorching hot temperatures in other parts of the
-  region and the wide range of amenities and attractions to choose from, what's
-  not to love? Summer is also "Festival Season" here. The towns of Coos Bay,
-  North Bend, and Charleston, OR are home to a number of unique outdoor
-  festivals celebrating our local culture.
+date: 2018-05-22T18:00:24.000+00:00
+description: There are many reasons to visit Oregon's Adventure Coast each summer.
+  Between the blissful escape from scorching hot temperatures in other parts of the
+  region and the wide range of amenities and attractions to choose from, what's not
+  to love? Summer is also "Festival Season" here. The towns of Coos Bay, North Bend,
+  and Charleston, OR are home to a number of unique outdoor festivals celebrating
+  our local culture.
 tags:
-  - Blackberry Arts Festival
-  - Charleston Seafood Beer & Wine Festival
-  - Mill Casino Food Truck Off
-  - Mill-Luck Salmon Celebration
-  - North Bend July Jubilee
-  - Oregon Coast Festival
-  - Oregon Coast Music Festival
-  - Oregon Coast Road Trip
+- Blackberry Arts Festival
+- Charleston Seafood Beer & Wine Festival
+- Mill Casino Food Truck Off
+- Mill-Luck Salmon Celebration
+- North Bend July Jubilee
+- Oregon Coast Festival
+- Oregon Coast Music Festival
+- Oregon Coast Road Trip
 categories:
-  - Miscellaneous
-image: /img/05-22-18-nine-hot-festivals.jpg
+- Miscellaneous
+image: "/img/05-22-18-nine-hot-festivals.jpg"
+warning: true
+
 ---
 There are many reasons to visit Oregon's Adventure Coast each summer. Between the blissful escape from scorching hot temperatures in other parts of the region and the wide range of <a href="/adventures/" target="_blank" rel="noopener noreferrer">amenities and attractions</a> to choose from, what's not to love? Summer is also "Festival Season" here. The towns of Coos Bay, North Bend, and Charleston, OR are home to a number of unique outdoor festivals celebrating our local culture.
 

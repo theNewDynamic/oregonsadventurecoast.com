@@ -1,21 +1,22 @@
 ---
 title: Two Coos Bay Historical Attractions Featured on KCBY's Western Oregon Living
-date: 2016-02-16T20:41:07.000Z
-description: >-
-  Two of Coos Bay's most treasured landmarks were featured recently on KCBY's
-  Western Oregon Living hosted by Sabrina Reese!
+date: 2016-02-16T20:41:07.000+00:00
+description: Two of Coos Bay's most treasured landmarks were featured recently on
+  KCBY's Western Oregon Living hosted by Sabrina Reese!
 tags:
-  - 'WOLtv'
-  - Coos Art Museum
-  - Coos Bay
-  - Egyptian Theatre
-  - KCBY
-  - KVAL
-  - Sabrina Reese
-  - Western Oregon Living
+- WOLtv
+- Coos Art Museum
+- Coos Bay
+- Egyptian Theatre
+- KCBY
+- KVAL
+- Sabrina Reese
+- Western Oregon Living
 categories:
-  - Culture & Museums
+- Culture & Museums
 image: ''
+warning: true
+
 ---
 Two of Coos Bay&#8217;s most treasured landmarks were featured recently on [KCBY&#8217;](http://kcby.com/)s <a href="http://kcby.com/features/western-oregon-living" target="_blank">Western Oregon Living</a> hosted by <a href="https://twitter.com/sabrinahost" target="_blank">Sabrina Reese</a>!
 

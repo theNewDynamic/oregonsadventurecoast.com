@@ -1,40 +1,41 @@
 ---
 title: Book Your Trip for the 2018 Shore Acres Holiday Lights!
-date: '2018-09-05T07:55:00-07:00'
-description: >-
-  Volunteers at Shore Acres State Park will soon be hard at work preparing for
-  the Annual Holiday Lights Display. This is certainly one of our favorite local
-  holiday traditions and it has captured the attention of media, residents, and
-  visitors from all over the country. This event is very popular so we encourage
-  you to book your accommodations as soon as possible.
+date: 2018-09-05T07:55:00-07:00
+description: Volunteers at Shore Acres State Park will soon be hard at work preparing
+  for the Annual Holiday Lights Display. This is certainly one of our favorite local
+  holiday traditions and it has captured the attention of media, residents, and visitors
+  from all over the country. This event is very popular so we encourage you to book
+  your accommodations as soon as possible.
 tags:
-  - Beaches
-  - Cape Arago Hwy
-  - Charleston
-  - Coast
-  - Coos Bay
-  - flowers
-  - Garden House
-  - local
-  - North Bend
-  - Oregon
-  - recreation
-  - Shore Acres
-  - Shore Acres Holiday Lights
-  - Shore Acres State Park
+- Beaches
+- Cape Arago Hwy
+- Charleston
+- Coast
+- Coos Bay
+- flowers
+- Garden House
+- local
+- North Bend
+- Oregon
+- recreation
+- Shore Acres
+- Shore Acres Holiday Lights
+- Shore Acres State Park
 categories:
-  - Beach
-  - Entertainment & Nightlife
-  - Historical
-  - Miscellaneous
-  - Parks
-  - Scenic Drives
-  - State Parks & National Lands
-image: /img/holidaylights-aerial-177-new.jpg
+- Beach
+- Entertainment & Nightlife
+- Historical
+- Miscellaneous
+- Parks
+- Scenic Drives
+- State Parks & National Lands
+image: "/img/holidaylights-aerial-177-new.jpg"
 seo:
   title: ''
   description: ''
   image: ''
+warning: true
+
 ---
 ```
 Photographer: Cody Cha 
