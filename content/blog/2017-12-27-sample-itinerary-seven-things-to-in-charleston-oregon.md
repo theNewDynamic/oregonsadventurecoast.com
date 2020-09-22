@@ -1,25 +1,26 @@
 ---
 title: 'Sample Itinerary: Seven Things to in Charleston, Oregon'
-date: 2017-12-27T09:55:57.000Z
-description: >-
-  Oregon's Adventure Coast features a relaxed and rustic atmosphere ideal for
-  anyone seeking refuge from the hustle and bustle of the "real world".
-  Charleston is known for its charming marina, fishing, friendly merchants,
-  beautiful beaches and a distinctly charismatic local community.
+date: 2017-12-27T09:55:57.000+00:00
+description: Oregon's Adventure Coast features a relaxed and rustic atmosphere ideal
+  for anyone seeking refuge from the hustle and bustle of the "real world". Charleston
+  is known for its charming marina, fishing, friendly merchants, beautiful beaches
+  and a distinctly charismatic local community.
 tags:
-  - Charleston
-  - Charleston Boat Basin
-  - charleston marina
-  - Charleytown
-  - Port of Coos Bay
-  - Sample Itinerary
-  - Travel Itinerary
+- Charleston
+- Charleston Boat Basin
+- charleston marina
+- Charleytown
+- Port of Coos Bay
+- Sample Itinerary
+- Travel Itinerary
 categories:
-  - Parks
-  - Scenic Drives
-  - Shopping
-  - State Parks & National Lands
-image: /img/12-27-17-seven-things-in-charleston.jpg
+- Parks
+- Scenic Drives
+- Shopping
+- State Parks & National Lands
+image: "/img/12-27-17-seven-things-in-charleston.jpg"
+warning: true
+
 ---
 Oregon's Adventure Coast features a relaxed and rustic atmosphere ideal for anyone seeking refuge from the hustle and bustle of the "real world". Charleston is known for its charming marina, fishing, friendly merchants, beautiful beaches and a distinctly charismatic local community.
 
