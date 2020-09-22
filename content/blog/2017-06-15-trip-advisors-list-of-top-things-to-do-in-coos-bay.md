@@ -16,6 +16,7 @@ categories:
 - Miscellaneous
 - State Parks & National Lands
 image: "/img/06-15-17-trip-advisor-s-coos-bay.jpg"
+warning: true
 
 ---
 ### What Coos Bay Attractions Are The Most Popular Among TripAdvisor Users?

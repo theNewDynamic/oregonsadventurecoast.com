@@ -19,6 +19,7 @@ categories:
 - Fishing
 - Crabbing & Clamming
 image: ''
+warning: true
 
 ---
 <pre><em>Photographer: Chris Hyde</em></pre>

@@ -26,6 +26,7 @@ categories:
 - Shopping
 - Walking & Hiking
 image: ''
+warning: true
 
 ---
 ## Make Oregon’s Adventure Coast Your Destination for a Romantic Getaway!
