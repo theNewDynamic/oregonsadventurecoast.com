@@ -33,3 +33,5 @@ fields:
   template: contact
   label: Contact
   name: contact
+pages:
+- content/tourandequipment/pacificpond-charters.md
