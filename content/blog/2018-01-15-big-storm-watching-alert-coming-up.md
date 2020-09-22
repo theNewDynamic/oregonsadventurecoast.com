@@ -1,28 +1,30 @@
 ---
 title: BIG Storm Watching Alert Coming Up!
-date: 2018-01-15T20:17:16.000Z
-description: >
-  "Get your cameras ready, pack your rain gear and come on over! This is
-  definitely a bucket list experience. As always be safe out there, we recommend
-  Shore Acres for the best and safest viewing spot." - The Mill Casino on
-  Facebook
+date: 2018-01-15T20:17:16.000+00:00
+description: '"Get your cameras ready, pack your rain gear and come on over! This
+  is definitely a bucket list experience. As always be safe out there, we recommend
+  Shore Acres for the best and safest viewing spot." - The Mill Casino on Facebook
+
+'
 tags:
-  - Beaches
-  - Charleston
-  - Coast
-  - Coos Bay
-  - North Bend
-  - Oregon
-  - Oregon Coast Storm Watching
-  - recreation
-  - Shore Acres State Park
-  - storm watching
+- Beaches
+- Charleston
+- Coast
+- Coos Bay
+- North Bend
+- Oregon
+- Oregon Coast Storm Watching
+- recreation
+- Shore Acres State Park
+- storm watching
 categories:
-  - Beach
-  - Parks
-  - Scenic Drives
-  - State Parks & National Lands
-image: /img/01-15-18-storm-watch-alert.jpg
+- Beach
+- Parks
+- Scenic Drives
+- State Parks & National Lands
+image: "/img/01-15-18-storm-watch-alert.jpg"
+warning: true
+
 ---
 <em>Top Photo Courtesy of Melisa Smith</em>
 

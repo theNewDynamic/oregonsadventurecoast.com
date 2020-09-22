@@ -1,32 +1,32 @@
 ---
 title: Shore Acres State Park is Truly a "Garden for all Seasons"
-date: 2017-09-18T16:13:46.000Z
-description: >+
-  It's well known fact that the state parks found along the the Cape Arago Beach
-  Loop are nothing short of grand, but if there is one destination along the way
-  you cannot miss, it is the glorious gardens of Shore Acres State Park , a.k.a.
-  "the jewel of the South Coast”.
-
+date: 2017-09-18T16:13:46.000+00:00
+description: "It's well known fact that the state parks found along the the Cape Arago
+  Beach Loop are nothing short of grand, but if there is one destination along the
+  way you cannot miss, it is the glorious gardens of Shore Acres State Park , a.k.a.
+  \"the jewel of the South Coast”.\n\n"
 tags:
-  - Beaches
-  - Cape Arago
-  - Coast
-  - Coos Bay
-  - flowers
-  - gardens
-  - Gardens in Oregon
-  - Holiday Light Show
-  - Louis Simpson
-  - Oregon Coast
-  - recreation
-  - Shore Acres
-  - Shore Acres State Park
-  - State Parks
-  - "State Parks & National Lands\t 0 No approved comments11 pending comment"
+- Beaches
+- Cape Arago
+- Coast
+- Coos Bay
+- flowers
+- gardens
+- Gardens in Oregon
+- Holiday Light Show
+- Louis Simpson
+- Oregon Coast
+- recreation
+- Shore Acres
+- Shore Acres State Park
+- State Parks
+- "State Parks & National Lands\t 0 No approved comments11 pending comment"
 categories:
-  - Miscellaneous
-  - State Parks & National Lands
-image: /img/09-18-18-shore-acres-garden-all-seasons.jpg
+- Miscellaneous
+- State Parks & National Lands
+image: "/img/09-18-18-shore-acres-garden-all-seasons.jpg"
+warning: true
+
 ---
 It's well known fact that the state parks found along the the <a href="http://www.oregonsadventurecoast.com/trip-ideas/explore-the-cape-arago-beach-loop/" target="_blank" rel="noopener noreferrer">Cape Arago Beach Loop </a> are nothing short of grand, but if there is one destination along the way you cannot miss, it is the glorious gardens of <a href="http://shoreacres.net/" target="_blank" rel="noopener noreferrer">Shore Acres State Park</a> , a.k.a. "the jewel of the South Coast”.
 

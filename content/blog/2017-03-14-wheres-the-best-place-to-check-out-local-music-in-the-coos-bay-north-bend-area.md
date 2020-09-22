@@ -1,7 +1,7 @@
 ---
 title: Seven Destinations to Check Out Live Local Music in Coos Bay ~ North Bend ~
   Charleston
-date: 2019-12-20T05:00:00+00:00
+date: 2019-12-20T05:00:00.000+00:00
 description: With a thriving and growing restaurant and arts scene, it’s natural for
   our eclectic music culture to grow as well. The Coos Bay/North Bend region already
   hosts a fantastic selection of fun annual festivals featuring a range of musical
@@ -20,6 +20,7 @@ image: "/img/Live Music Coos Bay.jpg"
 seo:
   image: "/img/Live Music Coos Bay.jpg"
   imgalt: LIve Music in Coos Bay
+warning: true
 
 ---
 Oregon's Adventure Coast already has a thriving restaurant and arts scene, so it's no wonder that our music culture is also growing.
