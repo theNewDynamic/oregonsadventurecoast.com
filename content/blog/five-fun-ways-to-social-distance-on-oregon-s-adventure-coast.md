@@ -28,6 +28,8 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston is currently in Phase 2 of Oregon’s re-opening plan so that means that non-essential travel is allowed! [Here’s what travelers can expect](https://www.oregonsadventurecoast.com/blog/ready.set.adventure-what-travelers-can-expect-as-we-reopen-oregon-s-adventure-coast/) under our current re-opening phase. Our [local hotels](https://www.oregonsadventurecoast.com/blog/how-hotels-on-oregon-s-adventure-coast-are-keeping-guests-safe/), restaurants, and businesses are going the extra mile to keep our visitors and locals safe. Face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). To protect our communities, we ask everyone to follow Oregon’s [Safe+Strong guidelines](https://govstatus.egov.com/reopening-oregon).
