@@ -16,6 +16,10 @@ seo:
     now in locally-owned shops throughout Oregon's Adventure Coast.
   imgalt: ''
   image: "/img/Holiday Shopping Guide 2019 Coos Bay, North Bend, Charleston Oregon.jpg"
+aliases: []
+accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 Join us on Oregon’s South Coast this holiday season and check EVERYONE off your list (including yourself!). There is a bounty of holiday treasures waiting to be discovered right now in locally-owned shops throughout the region. Plan ahead and make a day or weekend of it and really get into the spirit of the season.

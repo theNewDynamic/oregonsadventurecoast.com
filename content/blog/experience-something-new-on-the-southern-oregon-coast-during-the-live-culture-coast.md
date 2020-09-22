@@ -1,7 +1,7 @@
 ---
 title: Experience something new on the Southern Oregon Coast during the Live Culture
   Coast
-date: 2019-10-02T04:00:00+00:00
+date: 2019-10-02T04:00:00.000+00:00
 description: Live Culture Coast, beginning October 18th, celebrates the wonders of
   Oregon's South Coast.  Residents and visitors can register for over 90 hand-on experiences
   focused on art and culture, food and farms, and people and places all along the
@@ -29,6 +29,10 @@ seo:
   description: ''
   imgalt: ''
   image: ''
+aliases: []
+accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 The first-ever [Live Culture Coast](http://www.liveculturecoast.org), a unique and diverse celebration of culture, food, drink, nature, art, people, and places on Oregon's South Coast is happening in just over 2 weeks! This nine-day event, beginning October 18th and ending October 27th, celebrates the wonders of the 135 beautiful miles from Reedsport to Bookings.  Residents and visitors can register for over 90 hand-on experiences focused on art and culture, food and farms, and people and places all along the Oregon Southern Coast.

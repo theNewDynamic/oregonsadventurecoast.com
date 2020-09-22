@@ -1,6 +1,6 @@
 ---
 title: Oregon's Adventure Coast Year in Review- as presented in Instagram
-date: 2019-12-31T05:00:00+00:00
+date: 2019-12-31T05:00:00.000+00:00
 description: These photos truly capture some of the special moments and highlights
   that happened this year on Oregon's Adventure Coast. From all of us here, we wish
   you a Happy New Year!
@@ -18,6 +18,10 @@ seo:
   description: ''
   imgalt: ''
   image: ''
+aliases: []
+accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 We spend a lot of time talking about how Coos Bay-North Bend-Charleston is a fantastic destination to visit but sometime's it's better to simply show you. As we reflected on 2019, we thought it would be fun to share our most "liked" or commented on posts on[ Instagram](https://www.instagram.com/travelcoosbay/)- the ultimate visual storytelling platform. 

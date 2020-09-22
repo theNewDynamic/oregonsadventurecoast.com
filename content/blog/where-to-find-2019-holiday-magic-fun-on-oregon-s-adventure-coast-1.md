@@ -23,6 +23,10 @@ seo:
   description: ''
   imgalt: ''
   image: ''
+aliases: []
+accordion_sections: []
+warning: true
+warning_copy: ''
 
 ---
 Wondering where you can find some holiday magic this year on Oregon's South Coast? We're so glad you asked! With November upon us, it's the perfect time to do a "Holiday Event Roundup" featuring some of the [upcoming events ](https://www.oregonsadventurecoast.com/calendar/)that will grace Oregon's Adventure Coast this 2019 holiday season!
