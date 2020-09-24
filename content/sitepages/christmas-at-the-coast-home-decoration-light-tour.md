@@ -14,4 +14,6 @@ boxes: []
 draft: true
 
 ---
-![](/img/catc-form-header-695x322.jpg)
+![Christmas at the Coast Participation Sign Up](/img/catc-form-header-695x322.jpg)
+
+<script type="text/javascript" src="https://form.jotform.com/jsform/202676116637155"></script>
