@@ -13,12 +13,10 @@ accordion_sections: []
 boxes: []
 
 ---
-<div style="text-align:center; margin:20px auto 0px auto;"><img src="/img/catc-form-header-695x322-v02.jpg" alt="Christmas at the Coast Participation Sign Up"></div>
+<div style="text-align:center; margin:30px auto 0px auto;"><img src="/img/catc-form-header-695x322-v02.jpg" alt="Christmas at the Coast Participation Sign Up"></div>
 
-<p style="width:675px; text-align: center; margin:0px auto; font-size: 1.5em;"><strong>We invite our neighbors in Coos Bay, North Bend and Charleston, and communities around the Bay Area to participate in the First Christmas on the Coast! Event will run Thanksgiving to New Year's Eve.</strong></p>
+<p style="width:675px; text-align: center; margin:25px auto; font-size: 1.5em;"><strong>We invite our neighbors in Coos Bay, North Bend and Charleston, and communities around the Bay Area to participate in the First Christmas on the Coast! Event will run Thanksgiving to New Year's Eve.</strong></p>
 
-{{< spacer 25 >}}
-
-<p style="width:675px; text-align: center; margin:0px auto; font-size: 1.0em;">With no Holiday Lights at Shore Acres in 2020, a few community leaders and our Facebook friends decided to create an opportunity for our community to show our Holiday Spirit! Decorate your home or business, let us know the address, we'll work on getting the word out to encourage residents and visitors to tour the area looking at all the beautiful lights. Fill out the form below to indicate your participation. And join our [Facebook Community](https://www.facebook.com/Christmas-At-The-Coast) for updates!</p>
+<p style="width:675px; text-align: center; margin:0px auto; font-size: 1.2em;">With no Holiday Lights at Shore Acres in 2020, a few community leaders and our Facebook friends decided to create an opportunity for our community to show our Holiday Spirit! Decorate your home or business, let us know the address, we'll work on getting the word out to encourage residents and visitors to tour the area looking at all the beautiful lights. Fill out the form below to indicate your participation. And join our <a href="https://www.facebook.com/Christmas-At-The-Coast" target="_blank">Facebook Community</a> for updates!</p>
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/202676116637155"></script>
