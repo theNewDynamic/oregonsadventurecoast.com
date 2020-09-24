@@ -17,7 +17,7 @@ boxes: []
 ---
 ![](/img/fall-15-off-header-695x322.jpg)
 
-Pit que dolorro tenia iuris mo vellame vid quatempores rem eum rationet ea cus archilic test, tempori tem sit quam, veris non explabo. Nem ra cus utatur aliqui dolupta eatist odit, sinum sa.
+Join us this fall for a special 15% discount from the following properties. _Discount valid October 1, 2020 through November 30, 2020 and subject to change._ 
 
 {{< spacer 50 >}}
 
