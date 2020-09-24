@@ -9,6 +9,9 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
+accordion_sections: []
+boxes: []
+draft: true
 
 ---
 <script type="text/javascript" src="https://form.jotform.com/jsform/200605509348150"></script>
