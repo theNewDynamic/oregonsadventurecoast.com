@@ -1,4 +1,4 @@
-export const LodgingAmenityOptions = [
+export const entryAmenityOptions = [
     {value: 1, label: 'Restaurant/Bar/Rm Service', class: 'restaurant'},
     {value: 2, label: 'Continental or Full Bkfst', class: 'breakfast'},
     {value: 3, label: 'Fitness Center', class: 'fitness'},
