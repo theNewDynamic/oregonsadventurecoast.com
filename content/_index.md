@@ -5,6 +5,9 @@ aliases:
 - "/activities/category/geocaching"
 - "/rob"
 slideshow:
+- photo: "/img/fall-15-off-lodging-special-09-20.jpg"
+  photo_mobile: "/img/fall-15-off-lodging-special-mobile.jpg"
+  url: "/fall15"
 - photo: "/img/ready-set-advenutre-fishing-hm-slider.jpg"
   photo_mobile: "/img/fishing-ready-set-now-open-mobile.jpg"
 - photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
