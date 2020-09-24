@@ -17,7 +17,9 @@ boxes: []
 ---
 ![](/img/fall-15-off-header-695x322.jpg)
 
-Join us this fall for a special 15% discount from the following properties. _Discount valid October 1, 2020 through November 30, 2020 and subject to change._ 
+Spend this fall in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the following Lodging Properties and receive a special 15% discount. 
+
+**_Discount valid October 1, 2020 through November 30, 2020. Some restrictions apply and subject to change._**
 
 {{< spacer 50 >}}
 
