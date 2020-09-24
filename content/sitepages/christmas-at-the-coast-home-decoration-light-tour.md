@@ -15,7 +15,7 @@ boxes: []
 ---
 <div style="text-align:center; margin:20px auto 0px auto;"><img src="/img/catc-form-header-695x322-v02.jpg" alt="Christmas at the Coast Participation Sign Up"></div>
 
-<p style="width:675px; text-align: center; margin:0px auto; font-size: 1.5em;"><strong>We invite our neighbors in Coos Bay, North Bend and Charleston, and communities around the Bay Area to participate in the First Christmas on the Coast! From Thanksgiving to New Year's Eve.</strong></p>
+<p style="width:675px; text-align: center; margin:0px auto; font-size: 1.5em;"><strong>We invite our neighbors in Coos Bay, North Bend and Charleston, and communities around the Bay Area to participate in the First Christmas on the Coast! Event will run Thanksgiving to New Year's Eve.</strong></p>
 
 {{< spacer 25 >}}
 
