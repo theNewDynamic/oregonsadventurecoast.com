@@ -74,7 +74,9 @@ For inspiration, check out Chef Bob Neroni in this video that highlights several
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZCnwOxyEni4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Before You Go, Read These Helpful Tips!
+{{< spacer 25>}}
+
+**Before You Go, Read These Helpful Tips!**
 
 * While restaurants & brewpubs are open year-round, you can expect local foods to be served primarily during their respective seasons. Cranberries: (Mid-October – early December), Pumpkin Patches: (Late September – late October), Farmers Markets: (May – October).
 * Farms & markets are typically open seasonally, so be sure to check the brochure or businesses websites for up-to-date information about each location.
