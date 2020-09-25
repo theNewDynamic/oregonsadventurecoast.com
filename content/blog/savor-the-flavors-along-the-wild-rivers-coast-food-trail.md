@@ -79,5 +79,3 @@ Before You Go, Read These Helpful Tips!
 * Farms & markets are typically open seasonally, so be sure to check the brochure or businesses websites for up-to-date information about each location.
 * To ensure a positive experience, please check the hours of operation for each business online or by phone and note when reservations or appointments are required.
 * Check out their brochure! Get a hard copy at participating businesses or local visitors centers to follow along or use[ this online pdf](https://www.wrcfoodtrail.com/s/44989-WRC-Food-Trail-Brochureweb-1.pdf).
-
-  For the most up-to-date info about Covid-19 related travel updates along the Wild Rivers Coast Food Trail, read “What Reopening Oregon Means for You” at Travel Oregon’s website.
