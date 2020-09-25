@@ -18,6 +18,8 @@ Thank you for visiting our site! If you need help finding something wonderful to
 
 Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor activities, prime shopping, fine dining, special events, or an evening of entertainment, Oregon’s Adventure Coast has it all, and more! Learn more about vacation ideas on our site, or reach out to us for help planning your next trip or family getaway.
 
+[![](/img/fall-special-lodging-695-width.jpg)](/fall15)
+
 [ {{< floatimage src="/img/request-guide-red-button.png" float="right" alt="Click Here to Request a Visitor Guide / Packet" size="undefined" >}} ](#contactform)
 
 #### Coos Bay – North Bend
@@ -49,9 +51,9 @@ North Bend, OR 97459
 [Email Us](mailto:nbinfo@northbendcity.org)  
 (541) 756-4613
 
-Find information, maps, public restrooms and public computer. Located adjacent to Simpson Park. Open Tuesday-Sunday. Our visitor centers are happy to [mail you visitor information](https://www.oregonsadventurecoast.com/contact/#contactform) or [relocation information](https://www.oregonsadventurecoast.com/relocation-info-request/#relocationform) upon request. 
+Find information, maps, public restrooms and public computer. Located adjacent to Simpson Park. Open Tuesday-Sunday. Our visitor centers are happy to [mail you visitor information](https://www.oregonsadventurecoast.com/contact/#contactform) or [relocation information](https://www.oregonsadventurecoast.com/relocation-info-request/#relocationform) upon request.
 
-\++++ 
+\++++
 
 **Charleston Visitor Information Center**  
 91141 Cape Arago Hwy  
