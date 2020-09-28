@@ -14,7 +14,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 ## _Save 15% Off Participating Properties Between October 1, 2020 through November 30, 2020_
@@ -24,6 +23,8 @@ draft: true
 It’s a little known secret that autumn is one of the best times to visit Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, and with the strange summer we just experienced on the West Coast, many of you are probably in need of a break! Spend a few days with us this fall and receive a [15% discount at participating lodging properties](https://www.oregonsadventurecoast.com/fall15/) between October 1, 2020- November 30, 2020. Some restrictions apply and subject to change.
 
 Still hesitant to take a road trip? We get it! Fortunately, there is plenty of space to spread out and take in some fabulous [social-distance-friendly activities](https://www.oregonsadventurecoast.com/blog/five-fun-ways-to-social-distance-on-oregon-s-adventure-coast/) while you’re here. And now that school is back in session, you’ll practically have the region to yourself!
+
+![](/img/announcing-the-oregon-s-adventure-coast-fall-lodging-special-blog-695x322-jpg-1.png)
 
 Local hotels are going above and beyond to ensure the safety of their guests with enhanced cleaning, sanitation, and social distancing measures that allow for minimal contact.
 
@@ -43,10 +44,13 @@ You could go stand-up paddleboarding
 
 And/or kayaking
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XM8iebLuClI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 And all of this!
 
-
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOregonsAdventureCoast%2Fvideos%2F759621364848606%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe><br>
+
+[Click here to see more adventures](https://www.oregonsadventurecoast.com/adventures/) you can do this fall and plan your own itinerary!
+
+  
+You must take advantage of this 15% off lodging offer before November 30th, [click here to see details ](https://www.oregonsadventurecoast.com/fall15/)and a list of participating hotels. We look forward to welcoming you back to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston - all we ask is for you to follow Oregon’s [Safe+Strong guidelines](https://govstatus.egov.com/reopening-oregon) to keep our community safe and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). Please don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
