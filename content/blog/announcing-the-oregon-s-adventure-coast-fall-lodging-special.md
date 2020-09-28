@@ -37,14 +37,16 @@ There are plenty of ways for you to relax and recharge while you are here
 
 We could give you more ideas on ways to safely enjoy an Oregon Coast getaway this fall, but we’d rather show you.
 
-
 You could go stand-up paddleboarding
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7kidwJG10vA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7kidwJG10vA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
-And/or kayaking 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XM8iebLuClI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+And/or kayaking
 
-And all of this! 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOregonsAdventureCoast%2Fvideos%2F759621364848606%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XM8iebLuClI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+And all of this!
+
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOregonsAdventureCoast%2Fvideos%2F759621364848606%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe><br>
