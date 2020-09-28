@@ -6,7 +6,7 @@ seo:
   description: Find quality, affordable accomodations for your trip to the Oregon
     Coast!  Comfortable places to stay with various amenities in Coos Bay, North Bend,
     & Charleston.
-  title: Oregon Coast Trips Vacations - Places to Stay | Oregon's Adventure Coast
+  title: Oregon Coast Trips Vacations - Places to Stay
 aliases:
 - "/deals"
 

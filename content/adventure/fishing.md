@@ -8,7 +8,7 @@ photo: "/img/fishing-page-sub-header.jpg"
 seo:
   description: The Oregon Coast is a great place for fishing adventures! Come by boat,
     by foot, by kayak, or by charter, the fish are biting!
-  title: Oregon Coast Things to Do - Fishing Trips | Oregon's Adventure Coast
+  title: Oregon Coast Things to Do - Fishing Trips
 
 ---
 <div class="float-right-350px">

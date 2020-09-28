@@ -9,7 +9,7 @@ seo:
   description: Looking for the best outdoor activities for your Oregon Coast vacation?
     Pulse-pounding adventure hides over every dune! Include ATV & motorsports in your
     next coastal vacation.
-  title: Oregon Coast Outdoor Activities - ATV/Motorsport | Oregon's Adventure Coast
+  title: Oregon Coast Outdoor Activities - ATV/Motorsport
 
 ---
 <div class="float-right-350px">

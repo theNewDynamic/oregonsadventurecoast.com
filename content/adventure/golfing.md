@@ -7,7 +7,7 @@ photo: "/img/golfing-sub-header.jpg"
 seo:
   description: Enjoy excellent golfing during your vacation to the Oregon Coast. Offering
     numerous golf courses from nationally ranked and expert-designed, to family owned.
-  title: Oregon Coast Outdoor Activities - Golfing | Oregon's Adventure Coast
+  title: Oregon Coast Outdoor Activities - Golfing
 
 ---
 ## GET INTO THE SWING OF THINGS

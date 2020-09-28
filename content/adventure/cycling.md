@@ -8,7 +8,7 @@ seo:
   description: 'Whether you take to the road, fat bike on the beach, or careen around
     single-track trails, you will find heart pumping biking routes on Oregon’s Adventure
     Coast. '
-  title: Cycling | Oregon's Adventure Coast
+  title: Cycling
 accordion_sections:
 - accordions:
   - title: Other Mountain Biking Trails

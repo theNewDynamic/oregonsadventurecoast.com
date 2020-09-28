@@ -8,7 +8,7 @@ seo:
   description: On the Oregon Coast, outdoor activities & water recreation abounds,
     from kayaking, paddleboarding, scuba diving, & surfing to world-class fishing,
     crabbing, & clamming.
-  title: Oregon Coast Outdoor Activities - Water Recreation | Oregon's Adventure Coast
+  title: Oregon Coast Outdoor Activities - Water Recreation
 
 ---
 On Oregon's Adventure Coast, water activities abound, from kayaking, paddleboarding, scuba diving and surfing to world-class [fishing](/fishing), [crabbing](/crabbing-clamming) and [clamming](/clamming).

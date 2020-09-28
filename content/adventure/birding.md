@@ -10,7 +10,7 @@ seo:
     Rugged and largely undeveloped, this area of the Oregon Coast lures birders
     to view wildlife seldom encountered! Plan your trip for birding and wildlife
     viewing today.
-  title: Trips to the Oregon Coast - Birding/Wildlife | Oregon's Adventure Coast
+  title: Trips to the Oregon Coast - Birding/Wildlife
 ---
 ![Oyster Catcher on the Beach](/img/bandon_oystercatcher.jpg)
 

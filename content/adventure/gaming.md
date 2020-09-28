@@ -8,7 +8,7 @@ seo:
   description: After a day of outdoor activities on the Oregon Coast, why not try
     some different, like casino style gaming with more than 1,000 classic and new
     slots!
-  title: Oregon Coast Things to Do - Gaming | Oregon's Adventure Coast
+  title: Oregon Coast Things to Do - Gaming
 
 ---
 ## TRY YOUR HAND AT EXCITEMENT

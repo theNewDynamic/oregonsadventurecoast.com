@@ -8,7 +8,7 @@ seo:
   description: 'Plan a scenic drive on your Oregon Coast vacation! Lots of things
     to see and do: from urban lights, to sunsets or moonlit ocean backdrops, to rivers
     & parks, a part of your adventure can be cruising in your car.'
-  title: Oregon Coast Things to Do - Scenic Drives | Oregon's Adventure Coast
+  title: Oregon Coast Things to Do - Scenic Drives
 
 ---
 ## GET OUT OF TOWN!

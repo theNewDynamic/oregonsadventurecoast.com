@@ -10,7 +10,7 @@ seo:
   description: We’re here to make your trip to Oregon’s Adventure Coast as easy as
     possible. Here are our tips for what to pack, what to wear, and need to know before
     you head out.
-  title: Traveler's Information | Oregon's Adventure Coast
+  title: Traveler's Information
 
 ---
 We’re here to make your trip to Oregon’s Adventure Coast as uncomplicated as possible for you. Here are our tips for what to pack, what to wear, and need to know before you head out.

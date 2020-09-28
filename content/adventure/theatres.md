@@ -8,7 +8,7 @@ seo:
   description: Catch a show or production on your next Oregon Coast vacatopm! The
     Historic Liberty Theatre, the Historic Egyptian Theatre, & the Dolphin Playhouse
     give multiple entertainment options.
-  title: Oregon Coast Vacations - Theatres | Oregon's Adventure Coast
+  title: Oregon Coast Vacations - Theatres
 
 ---
 For such a small community, the Coos Bay area boasts some amazingly talented performers - from singers and actors, to musicians from every musical genre! The Historic Liberty Theatre, the Historic Egyptian Theatre and the Dolphin Playhouse offer theatre enthusiasts with a wide variety of entertainment options, while the Egyptian Theatre and Pony Village Cinema bring the best in feature films both old and new.

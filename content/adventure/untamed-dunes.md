@@ -12,7 +12,7 @@ seo:
     vacation, make sure you check out our outdoor activities - try untamed beach
     dunes - perfect for adventure seekers!
   image: ''
-  title: Oregon Coast Outdoor Activities - Untamed Dunes | Oregon's Adventure Coast
+  title: Oregon Coast Outdoor Activities - Untamed Dunes
 ---
 ![Oregon's Adventure Coast Dunes Selfie Photo](/img/dunes-selfie-stick.jpg)
 

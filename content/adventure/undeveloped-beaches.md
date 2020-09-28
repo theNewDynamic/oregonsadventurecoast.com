@@ -9,7 +9,7 @@ seo:
   description: The Oregon Coast offers a versatile coastal vacation with various undeveloped
     beaches! Take advantage of the ocean, numerous lakes and rivers offering exciting
     water adventures.
-  title: Oregon Coast Vacations - Undeveloped Beaches | Oregon's Adventure Coast
+  title: Oregon Coast Vacations - Undeveloped Beaches
 
 ---
 ## BEAUTY AT LANDS END
