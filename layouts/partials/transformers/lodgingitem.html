@@ -28,7 +28,9 @@
     {{ else }}
         {{ $entry = substr $amenity.amenitySelect 0 1 }}
     {{ end }}
-    {{ $amenities = $amenities | append $entry }}
+    {{ with $entry }}
+    {{ $amenities = $amenities | append (int .) }}
+    {{ end }}
   {{ end }}
   {{ with $amenities }}
     {{ $s.SetInMap "item" "amenityList" . }}
