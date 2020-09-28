@@ -1,5 +1,4 @@
 languageCode: en-us
-themesDir: components
 title: Oregon's Adventure Coast
 googleAnalytics: UA-4406033-1
 MetaDataFormat: yaml
@@ -29,5 +28,3 @@ outputs:
 permalinks:
   adventure: ':slug/'
   sitepages: ':slug/'
-theme:
-  - tnd-seo

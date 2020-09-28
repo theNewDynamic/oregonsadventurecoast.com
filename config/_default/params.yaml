@@ -1,1 +1,5 @@
 visitorGuideLink: /visitor-guide
+tnd_seo:
+  jsonld: true
+  enable_follow: true
+  default_image: uploads/default.jpg
