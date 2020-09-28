@@ -8,7 +8,7 @@ seo:
   description: Browse entertainment and nightlife options during your Oregon Coast
     trip! Our authentic, down-to-earth vibe promises an evening you won’t find anywhere
     else.
-  title: Oregon Coast Trips - Entertainment/Nightlife | Oregon's Adventure Coast
+  title: Oregon Coast Trips - Entertainment/Nightlife
 
 ---
 ![Dale Inskeep Band](/img/enterainment-top-header.jpg)

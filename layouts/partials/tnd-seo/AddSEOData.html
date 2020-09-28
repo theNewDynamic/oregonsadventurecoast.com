@@ -1,0 +1,43 @@
+{{/* 
+	Add/Edit SEO Scratch Object
+	
+	@author {user}
+	
+	@access public
+
+  @context Map
+    Page (.Page)
+		Map (.seo)
+		
+*/}}
+
+{{ $seo := dict }}
+{{ $s := newScratch }}
+{{ $s.Set "seo" dict }}
+
+{{/* First condition makes sure a specifif SEO Image has not been set */}}
+{{ with $.Page.Params.seo.image }}{{ else }}
+  {{ $image := false }}
+  {{/* Potential parameter to be used as seo image are:
+    1. .image */}}
+  {{ with $.Page.Params.image }}
+    {{ $image = . }}
+  {{ else }}
+    {{/* .photo */}}
+    {{ with $.Page.Params.photo }}
+      {{ $image = . }}
+    {{ else }}
+      {{ if eq $.Page.Type "event" }}}}
+        {{/* .mediumphotobox */}}
+        {{ with .Params.mediumboxphoto }}
+          {{ $image = . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ with $image }}
+    {{ $s.SetInMap "seo" "image" (. | absURL ) }}
+  {{ end }}
+{{ end }}
+
+{{ return merge .seo ($s.Get "seo") }}

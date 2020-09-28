@@ -10,7 +10,7 @@ seo:
   description: Include arts, history, & culture on your trip to the Oregon Coast!
     Coos Bay, North Bend, & Charleston offer amazing museums, galleries, and live
     performances.
-  title: Oregon Coast Trips - Art/History/Culture | Oregon's Adventure Coast
+  title: Oregon Coast Trips - Art/History/Culture
 
 ---
 The Coos Bay, North Bend, Charleston Area has an amazing network of museums, galleries, and live performances.  Browse your way through our site or take advantage of some of our hand-picked adventures in art.

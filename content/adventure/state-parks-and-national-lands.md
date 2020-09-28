@@ -10,7 +10,7 @@ seo:
   description: Visit State Parks & National Lands during your trip to the Oregon Coast.
     Waterfalls, wooded river trails, ocean cliffs, & beach-side options create a one-of-a-kind
     experience!
-  title: Oregon Coast Trips - State Parks/National Lands | Oregon's Adventure Coast
+  title: Oregon Coast Trips - State Parks/National Lands
 
 ---
 **_Note: As of May 29, 2020, State Parks in the Coos Bay Area re-opened to day use and some overnight camping at Sunset Bay State Park (begins on June 9th). Reservations for camping are required - call 800-452-5687. Walk ups will not be accepted. Shower facilities will remain closed but restrooms are open._**

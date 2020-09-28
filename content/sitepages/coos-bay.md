@@ -6,7 +6,7 @@ photo: "/img/our-area-coos-bay-header.jpg"
 seo:
   description: 'It wouldn''t be a visit to the Oregon''s Adventure Coast without exploring
     Coos Bay. Learn more about the history and things to do. '
-  title: Coos Bay | Oregon's Adventure Coast
+  title: Coos Bay
 
 ---
 **Coos Bay** was established in the 1850’s as Marshfield, but changed its name to Coos Bay in 1944. Year’s later, the cities’ of Empire and Eastside merged with Coos Bay making Coos Bay the largest city on the Oregon Coast with a current population of 16,292. Coos Bay is also the birthplace of legendary runner, [Steve Prefontaine](/steve-prefontaine-story).

@@ -8,7 +8,7 @@ seo:
   description: Discover one of the best things to do on your Oregon Coast trip - shopping!
     Discover eclectic businesses with unique treasures all over the Coos Bay, North
     Bend, & Charleston area.
-  title: Oregon Coast Trips - Shopping | Oregon's Adventure Coast
+  title: Oregon Coast Trips - Shopping
 
 ---
 **_With COVID-19 Phased Reopening happening now, many of our shops have reopened with protocols. Please check with the shop or shops you wish to visit for their specific protocols, which could include requiring patrons wear face coverings and maintaining social distancing._**

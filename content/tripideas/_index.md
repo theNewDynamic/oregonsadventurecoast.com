@@ -11,7 +11,7 @@ tripadventures:
 - ''
 image: "/img/trip-ideas-lighthouse.jpg"
 seo:
-  title: Oregon Coast Trips Vacations Ideas | Oregon's Adventure Coast
+  title: Oregon Coast Trips Vacations Ideas
   description: Get ideas for your trip to the Oregon Coast! Discover exciting and
     exhilarating adventures from this collection of half-day, full-day, and long weekend
     travel ideas.

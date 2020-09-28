@@ -8,7 +8,7 @@ seo:
   description: Discover ocean life and tidepooling options on your vacation to the
     Oregon Coast! Check out the Oregon Institute of Marine Biology’s Charleston Marine
     Life Center.
-  title: Oregon Coast Vacations - Ocean Life | Oregon's Adventure Coast
+  title: Oregon Coast Vacations - Ocean Life
 
 ---
 ## WHERE THE SOUL MEETS THE SEA

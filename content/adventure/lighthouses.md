@@ -9,7 +9,7 @@ seo:
     Include visits to beautiful & romantic lighthouses during your Oregon Coast
     trip! Five of Oregon’s nine lighthouses are within one hour of the Coos Bay
     & North Bend area.
-  title: Oregon Coast Trips - Lighthouses | Oregon's Adventure Coast
+  title: Oregon Coast Trips - Lighthouses
 ---
 <div class="float-right-350px">
 <p><img src="/img/lighthouse-01-stack.jpg" alt="Lighthouse on Oregon's Adventure Coast" width="100%">

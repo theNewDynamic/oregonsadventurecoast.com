@@ -8,7 +8,7 @@ photo: "/img/our-area-main.jpg"
 seo:
   description: Travel to Coos Bay, North Bend, or Charleston to discover the beauty
     & adventure of the Oregon Coast! See what makes each of these towns unique.
-  title: Our Area | Oregon's Adventure Coast
+  title: Our Area
 
 ---
 ## ADVENTURE IS OUR MIDDLE NAME!

@@ -9,7 +9,7 @@ seo:
   description: Charleston is located eight miles from Coos Bay and North Bend and
     is just inside the entrance to the bay. Learn more about our history and things
     to do.
-  title: Charleston | Oregon's Adventure Coast
+  title: Charleston
 
 ---
 Charleston is located just eight miles from Coos Bay and North Bend and is just inside the entrance to the bay. It is a distinctive fishing village located near some of the finest recreation and most beautiful scenery in the Northwest. 

@@ -13,7 +13,7 @@ photo: "/img/meeting-planners.jpg"
 seo:
   description: Oregon’s Adventure Coast has the ability to host small and large gatherings.
     Learn about rooms, rates & availability. Request information.
-  title: Conventions, Groups & Meeting Planners | Oregon's Adventure Coast
+  title: Conventions, Groups & Meeting Planners
   
 
 ---
