@@ -1,9 +1,22 @@
 ---
 title: 'Announcing the Oregon’s Adventure Coast Fall Lodging Special! '
 date: 2020-09-28T04:00:00+00:00
-description: ''
+description: Spend a few days with us this fall and receive a 15% discount at participating
+  lodging properties between October 1, 2020- November 30, 2020. Some restrictions
+  apply and subject to change.
 image: "/img/announcing-the-oregon-s-adventure-coast-fall-lodging-special-blog-695x322-jpg.png"
-tags: []
+tags:
+- Oregon Coast Getaway
+- Oregon Coast Hotel Discount
+- 'Autumn vacation '
+- Coos Bay
+- North Bend Oregon
+- 'Charleston Oregon '
+- Oregon Coast Hotels
+- North Bend Oregon Hotels
+- 'Coos Bay Hotels '
+- 'Oregon''s South Coast '
+- 'Hotel Savings '
 categories: []
 seo:
   title: ''
