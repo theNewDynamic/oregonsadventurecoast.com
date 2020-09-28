@@ -101,14 +101,20 @@
     {{ with .photo_mobile }}
         {{ $photo = . }}
     {{ end }}
-    <div class="slide">
+    {{ $tag_open := `<div class="slide">` }}
+    {{ $tag_close := `</div>` }}
+    {{ with .url }}
+        {{ $tag_open = printf `<a class="slide" href="%s">` . }}
+        {{ $tag_close = `</a>` }}
+    {{ end }}
+    {{ $tag_open | safeHTML }}
         <img src="{{ $photo }}" alt="{{ .title }}">
         {{ with .title_mobile }}
             <div class="title">
                 <div>{{ . }}</div>
             </div>
         {{ end }}
-    </div>
+    {{ $tag_close | safeHTML }}
 
 {{ end }}
 <div class="overlay">
