@@ -20,9 +20,9 @@ property_description: With full service RV sites and yurts, we have it all to ma
   during the day.
 website: http://www.portofcoosbay.com/rvpark
 amenityList:
-- amenitySelect: '5'
-- amenitySelect: '9'
-- amenitySelect: '10'
+- 5 - Pet Friendly
+- 9 - Handicap Accessible
+- 10 - Chamber Member
 coordinates:
   lat: '43.343558'
   lng: "-124.325539"

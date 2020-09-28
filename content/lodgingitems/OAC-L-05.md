@@ -20,12 +20,12 @@ property_description: Discover the center of comfort with modern amenities, luxu
   & dining.
 website: http://www.citycentermotelnorthbend.com
 amenityList:
-- amenitySelect: '1'
-- amenitySelect: '2'
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '7'
-- amenitySelect: '9'
+- 1 - Restaurant/Bar/Rm Service
+- 2 - Continental or Full Bkfst
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 7 - Kitchens Available
+- 9 - Handicap Accessible
 coordinates:
   lat: '43.409469'
   lng: "-124.224633"

@@ -37,7 +37,7 @@ export default class Lodging {
         
             <div class="content">
                 <div class="category">
-                    ${category}
+                    ${category.label}
                 </div>
         
                 <div class="location">

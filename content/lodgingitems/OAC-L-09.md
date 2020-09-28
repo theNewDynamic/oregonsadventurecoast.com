@@ -20,13 +20,13 @@ property_description: 'Located on Hwy 101 in Coos Bay, Motel 6 offers a variety 
   more for what you travel for®'
 website: http://www.motel6.com
 amenityList:
-- amenitySelect: '4'
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '7'
-- amenitySelect: '8'
-- amenitySelect: '9'
-- amenitySelect: '10'
+- 4 - Pool/Hot Tub
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 7 - Kitchens Available
+- 8 - Meeting Facilities
+- 9 - Handicap Accessible
+- 10 - Chamber Member
 coordinates:
   lat: '43.378752'
   lng: "-124.218168"

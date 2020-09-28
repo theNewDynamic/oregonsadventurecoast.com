@@ -20,9 +20,9 @@ property_description: 'RV’s 21′ or longer. 20-30-50 amp. Pull-thru and back-
   Access.'
 website: ''
 amenityList:
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '10'
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 10 - Chamber Member
 coordinates:
   lat: '43.380957'
   lng: "-124.244104"

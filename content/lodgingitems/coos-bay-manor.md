@@ -18,8 +18,8 @@ property_description: "Lovely residential neighborhood. Historic building and ar
   Private Bath, Full Breakfast, Internet Access: WiFi"
 website: https://www.coosbaymanor.com/en-us
 amenityList:
-- amenitySelect: '2'
-- amenitySelect: '6'
+- 2 - Continental or Full Bkfst
+- 6 - WiFi Available
 coordinates:
   lat: '43.358852'
   lng: "-124.217908"

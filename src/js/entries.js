@@ -12,7 +12,7 @@ import Map from './maps/Map';
 import Lodging from './lodging/Lodging';
 import Dining from './dining/Dining';
 
-import {LodgingAmenityOptions} from './lodging/lodging-amenities';
+import {entryAmenityOptions as LodgingAmenityOptions} from './lodging/lodging-amenities';
 import {LodgingCategoryOptions} from './lodging/lodging-categories';
 
 import {DINING_FILTER_MATCH_BY} from './dining/dining-filter-match-by';

@@ -19,14 +19,14 @@ property_description: Best Western Holiday Hotel offers a retreat for exploring 
   downtown shopping & dining.
 website: http://www.bestwestern.com
 amenityList:
-- amenitySelect: '2'
-- amenitySelect: '3'
-- amenitySelect: '4'
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '7'
-- amenitySelect: '9'
-- amenitySelect: '10'
+- 2 - Continental or Full Bkfst
+- 3 - Fitness Center
+- 4 - Pool/Hot Tub
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 7 - Kitchens Available
+- 9 - Handicap Accessible
+- 10 - Chamber Member
 coordinates:
   lat: '43.370051'
   lng: "-124.212674"

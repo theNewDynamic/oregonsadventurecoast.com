@@ -20,9 +20,9 @@ property_description: '"A quiet stay by the bay" Kelley’s offers concrete RV s
   Laundry Facilities.'
 website: http://www.kelleys-rv-park.com
 amenityList:
-- amenitySelect: '5'
-- amenitySelect: '9'
-- amenitySelect: '10'
+- 5 - Pet Friendly
+- 9 - Handicap Accessible
+- 10 - Chamber Member
 coordinates:
   lat: '43.386884'
   lng: "-124.280660"

@@ -18,7 +18,7 @@ property_description: >-
   Cottage on the outside ~ Zen-like interior with lots of color on the inside. The entire house and yard are for Your use. The back yard has a fire pit & lots of wood. Garage attached to house w garage door opener.
 website: 'https://www.airbnb.com/rooms/19056270'
 amenityList: 
-  - amenitySelect: '5'
-  - amenitySelect: '6'
-  - amenitySelect: '7'
+  - 5 - Pet Friendly
+  - 6 - WiFi Available
+  - 7 - Kitchens Available
 ---

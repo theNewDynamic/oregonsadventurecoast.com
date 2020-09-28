@@ -18,7 +18,7 @@ property_description: >-
   Dog-friendly bayfront home with water access, private hot tub, retro-style charm. With gorgeous water views & space for up 7 guests, you'll never want to leave! Near the Oregon Dunes National Recreation Area, Charleston marina, & outdoor recreation.
 website: 'https://www.vacasa.com/unit.php?UnitID=2239'
 amenityList: 
-  - amenitySelect: '5'
-  - amenitySelect: '6'
-  - amenitySelect: '7'
+  - 5 - Pet Friendly
+  - 6 - WiFi Available
+  - 7 - Kitchens Available
 ---

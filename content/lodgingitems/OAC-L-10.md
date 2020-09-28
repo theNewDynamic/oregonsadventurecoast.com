@@ -20,8 +20,8 @@ property_description: Just minutes away from shopping, casinos, dunes and the be
   for longer stays.
 website: http://www.parkside-motel.com
 amenityList:
-- amenitySelect: '5'
-- amenitySelect: '6'
+- 5 - Pet Friendly
+- 6 - WiFi Available
 - amenitySelect: '7 '
 coordinates:
   lat: '43.413436'

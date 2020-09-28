@@ -19,8 +19,8 @@ property_description: Located on the south side of Coos Bay, close to shopping, 
   rooms with kitchenettes.
 website: ''
 amenityList:
-- amenitySelect: '5'
-- amenitySelect: '7'
+- 5 - Pet Friendly
+- 7 - Kitchens Available
 coordinates:
   lat: '43.3561305'
   lng: "-124.2146658"

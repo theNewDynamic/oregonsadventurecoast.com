@@ -20,7 +20,7 @@ property_description: Fisherman's paradise w/spacious yard, views of nature & cr
   beaten path.
 website: https://www.vrbo.com/306282
 amenityList:
-- amenitySelect: '6'
-- amenitySelect: '7'
+- 6 - WiFi Available
+- 7 - Kitchens Available
 
 ---

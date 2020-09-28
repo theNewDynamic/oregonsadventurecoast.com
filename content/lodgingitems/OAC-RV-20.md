@@ -20,8 +20,8 @@ property_description: In one of the most scenic areas on the Oregon coast, Sunse
   fishing, swimming, boating.
 website: https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70
 amenityList:
-- amenitySelect: '5'
-- amenitySelect: '9'
+- 5 - Pet Friendly
+- 9 - Handicap Accessible
 coordinates:
   lat: '43.3308381'
   lng: "-124.3726305"

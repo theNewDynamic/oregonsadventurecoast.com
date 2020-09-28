@@ -20,8 +20,8 @@ property_description: 'A very sweet comfortable cottage in the desirable Mingus 
   events in the park. '
 website: https://www.vrbo.com/617162
 amenityList:
-- amenitySelect: '6'
-- amenitySelect: '7'
+- 6 - WiFi Available
+- 7 - Kitchens Available
 draft: true
 
 ---

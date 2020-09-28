@@ -18,5 +18,5 @@ property_description: >-
   Dune Haven offers a unique setting with unobstructed lake view, bordering the Oregon Dunes National Recreation Area on the Southern Oregon Coast. Three unique Our accommodations are comfortable and relaxing, nestled among the pines on Saunders Lake.
 website: 'http://dunehaven.biz'
 amenityList: 
-  - amenitySelect: '7'
+  - 7 - Kitchens Available
 ---

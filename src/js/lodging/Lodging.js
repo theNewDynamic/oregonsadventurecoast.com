@@ -1,7 +1,7 @@
 import _ from 'lodash';
 import {entryAmenityOptions} from './lodging-amenities';
 import {entryCostOptions} from './lodging-cost';
-import {entryCategoryOptions} from './lodging-categories';
+import {LodgingCategoryOptions as entryCategoryOptions} from './lodging-categories';
 import FindOptionData from '../common/find-option-data';
 import GoogleMapLink from '../maps/GoogleMapLink';
 

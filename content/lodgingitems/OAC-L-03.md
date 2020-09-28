@@ -19,10 +19,10 @@ property_description: Located near the Charleston Marina, Captain John’s offer
   stations and is pet friendly. Weekly rates available.
 website: http://www.captjohnsmotel.com
 amenityList:
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '7'
-- amenitySelect: '9'
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 7 - Kitchens Available
+- 9 - Handicap Accessible
 coordinates:
   lat: '43.342898'
   lng: "-124.326469"
