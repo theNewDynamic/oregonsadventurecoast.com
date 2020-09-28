@@ -61,7 +61,7 @@ export default class Lodging {
                     <p class="address">
                         ${street}
                         ${val.city}, ${val.state} ${val.zip}<br>
-                        ${val.phone_local} ${phoneDiv} ${val.phone_toll_free}
+                        ${val.phone_local} ${phoneDiv} ${val.phone_toll_free ? val.phone_toll_free : ''}
                     </p>
                 </div>
         
@@ -160,7 +160,7 @@ export default class Lodging {
      * @return {string} - category name
      */
     generatePhoneDivTpl(local, tollFree) {
-        if (local !== '' && tollFree !== '') {
+        if (local && tollFree) {
             return ' | ';
         } else {
             return '';
@@ -174,9 +174,9 @@ export default class Lodging {
      * @return {string} - street address string
      */
     generateStreetTpl(street, street2) {
-        if (street2 !== '') {
+        if (street && street2) {
             return street + '<br>' + street2 + '<br>';
-        } else if (street !== '') {
+        } else if (street) {
             return street + '<br>';
         } else {
             return '';
