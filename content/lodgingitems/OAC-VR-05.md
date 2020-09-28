@@ -19,9 +19,9 @@ property_description: This is a remodeled 100 year old craftsman style cottage w
   sleeps six. Located in the center of Coos Bay, OR.
 website: https://www.vrbo.com/431159
 amenityList:
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '7'
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 7 - Kitchens Available
 draft: true
 
 ---

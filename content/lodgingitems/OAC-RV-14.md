@@ -19,10 +19,10 @@ property_description: Unwind in unique vintage trailers, cottages, tents, or you
   & general store.
 website: http://www.oceansidervresort.com
 amenityList:
-- amenitySelect: '1'
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '10'
+- 1 - Restaurant/Bar/Rm Service
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 10 - Chamber Member
 coordinates:
   lat: '43.339597'
   lng: "-124.354628"

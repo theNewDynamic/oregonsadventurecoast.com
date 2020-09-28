@@ -21,7 +21,7 @@ property_description: Vacation rental in close proximity to The Port of Charlest
   the water.
 website: https://www.vrbo.com/4886447ha
 amenityList:
-- amenitySelect: '6'
-- amenitySelect: '7'
+- 6 - WiFi Available
+- 7 - Kitchens Available
 
 ---

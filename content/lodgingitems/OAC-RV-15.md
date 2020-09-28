@@ -20,9 +20,9 @@ property_description: Site for RV’s of any size. Tent sites, cabins and a vint
   Internet Access.
 website: https://koa.com/campgrounds/oregon-dunes/
 amenityList:
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '9'
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 9 - Handicap Accessible
 coordinates:
   lat: '43.500995'
   lng: "-124.219737"

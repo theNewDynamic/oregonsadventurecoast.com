@@ -20,8 +20,8 @@ property_description: Contemporary, quiet bayfront cottage! Follow beach trail t
   for a group of five.
 website: https://www.vacasa.com/unit.php?UnitID=2240
 amenityList:
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '7'
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 7 - Kitchens Available
 
 ---

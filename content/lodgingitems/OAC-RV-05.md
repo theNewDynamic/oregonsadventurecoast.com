@@ -20,8 +20,8 @@ property_description: Box Car Hill Campground offers 60 RV sites, full hookups o
   dunes and sandy beaches.
 website: http://www.boxcarhill.com
 amenityList:
-- amenitySelect: '6'
-- amenitySelect: '10'
+- 6 - WiFi Available
+- 10 - Chamber Member
 coordinates:
   lat: '43.437423'
   lng: "-124.236566"

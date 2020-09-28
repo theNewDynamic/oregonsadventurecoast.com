@@ -20,9 +20,9 @@ property_description: Escape to the breathtakingly beautiful S Oregon Coast at t
   shops & restaurants.
 website: https://www.vacasa.com/unit.php?UnitID=8052
 amenityList:
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '7'
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 7 - Kitchens Available
 coordinates:
   lat: '43.338219'
   lng: "-124.368342"

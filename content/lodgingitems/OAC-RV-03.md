@@ -20,9 +20,9 @@ property_description: 'Perched on the hill overlooking Bastendorff Beach is the 
   Speed Internet, Laundry.'
 website: http://www.co.coos.or.us/Departments/CoosCountyParks/Bastendorff.aspx
 amenityList:
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '9'
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 9 - Handicap Accessible
 coordinates:
   lat: '43.341395'
   lng: "-124.349922"

@@ -20,10 +20,10 @@ property_description: A charming, quaint non-smoking inn providing all the comfo
   Boat parking available.
 website: http://www.charlestonharborinn.com
 amenityList:
-- amenitySelect: '4'
-- amenitySelect: '6'
-- amenitySelect: '7'
-- amenitySelect: '9'
+- 4 - Pool/Hot Tub
+- 6 - WiFi Available
+- 7 - Kitchens Available
+- 9 - Handicap Accessible
 coordinates:
   lat: '43.342368'
   lng: "-124.326470"

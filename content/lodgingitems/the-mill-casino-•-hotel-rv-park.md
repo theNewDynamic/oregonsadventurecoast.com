@@ -19,15 +19,15 @@ property_description: Experience over 200 well-appointed rooms and suites in our
   tub & pets welcome.
 website: http://www.themillcasino.com
 amenityList:
-- amenitySelect: '1'
-- amenitySelect: '3'
-- amenitySelect: '4'
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '7'
-- amenitySelect: '8'
-- amenitySelect: '9'
-- amenitySelect: '10'
+- 1 - Restaurant/Bar/Rm Service
+- 3 - Fitness Center
+- 4 - Pool/Hot Tub
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 7 - Kitchens Available
+- 8 - Meeting Facilities
+- 9 - Handicap Accessible
+- 10 - Chamber Member
 coordinates:
   lat: '43.393977'
   lng: "-124.218401"

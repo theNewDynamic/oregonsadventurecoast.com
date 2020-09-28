@@ -20,8 +20,8 @@ property_description: Relax and revive in this artistic 'cabin' with wonderful v
   from the deck.
 website: http://www.belowthefallslodge.com
 amenityList:
-- amenitySelect: '6'
-- amenitySelect: '7'
+- 6 - WiFi Available
+- 7 - Kitchens Available
 coordinates:
   lat: '43.464979'
   lng: "-123.946061"

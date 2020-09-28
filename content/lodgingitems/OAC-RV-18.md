@@ -19,8 +19,8 @@ property_description: Daily, weekly, monthly rates. 10 sites, power available. F
   Pull Through Spaces, WiFi.
 website: ''
 amenityList:
-- amenitySelect: '5'
-- amenitySelect: '6'
+- 5 - Pet Friendly
+- 6 - WiFi Available
 coordinates:
   lat: '43.338785'
   lng: "-124.324863"

@@ -18,6 +18,6 @@ property_description: >-
   Beautifully renovated, historic two story home, conveniently located in downtown Coos Bay, just a short walk to restaurants, pubs, shops and the boardwalk, and situated directly across the street from beautiful Mingus Park.
 website: 'https://www.vrbo.com/1145036'
 amenityList: 
-  - amenitySelect: '6'
-  - amenitySelect: '7'
+  - 6 - WiFi Available
+  - 7 - Kitchens Available
 ---

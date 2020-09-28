@@ -19,11 +19,11 @@ property_description: Located right on Coos Bay, The Mill Casino RV Park is a fu
   AAA discount.
 website: http://www.themillcasino.com
 amenityList:
-- amenitySelect: '4'
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '9'
-- amenitySelect: '10'
+- 4 - Pool/Hot Tub
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 9 - Handicap Accessible
+- 10 - Chamber Member
 coordinates:
   lat: '43.398417'
   lng: "-124.219500"

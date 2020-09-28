@@ -20,11 +20,11 @@ property_description: Sometimes referred to as the Mural Motel, Plainview Motel 
   located on coos bay.
 website: https://www.plainviewmotel.com
 amenityList:
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '7'
-- amenitySelect: '9'
-- amenitySelect: '10'
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 7 - Kitchens Available
+- 9 - Handicap Accessible
+- 10 - Chamber Member
 coordinates:
   lat: '43.361263'
   lng: "-124.300564"

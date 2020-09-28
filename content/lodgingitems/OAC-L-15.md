@@ -17,11 +17,11 @@ property_description: Super 8 Coos Bay/North Bend is your gateway for exploring 
   Well-appointed rooms include flat-screen TVs, free WiFi and complimentary breakfast.
 website: https://www.wyndhamhotels.com/super-8/coos-bay-oregon/super-8-coos-bay-north-bend/overview?brand_id=SE&checkin_date=10/4/2018&checkout_date=10/5/2018&useWRPoints=false&children=0&adults=1&rooms=1&radius=25&brand_code=BH,DI,RA,BU,HJ,KG,MT,SE,TL,WG,WY,WT,WP,VO,DX,TM,CE,AA&PriceFilter=0-2147483647&latitude=43.3665007&longitude=-124.21789030000002&referring_&referring_brand=SE
 amenityList:
-- amenitySelect: '2'
-- amenitySelect: '4'
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '9'
+- 2 - Continental or Full Bkfst
+- 4 - Pool/Hot Tub
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 9 - Handicap Accessible
 coordinates:
   lat: '43.3740402'
   lng: "-124.2149999"

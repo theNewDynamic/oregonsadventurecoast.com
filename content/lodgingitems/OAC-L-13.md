@@ -20,13 +20,13 @@ property_description: Experience Red Lion's signature blend of comfort and conve
   breakfast.
 website: https://www.redlion.com/coos-bay
 amenityList:
-- amenitySelect: '1'
-- amenitySelect: '3'
-- amenitySelect: '4'
-- amenitySelect: '5'
-- amenitySelect: '6'
-- amenitySelect: '8'
-- amenitySelect: '9'
+- 1 - Restaurant/Bar/Rm Service
+- 3 - Fitness Center
+- 4 - Pool/Hot Tub
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 8 - Meeting Facilities
+- 9 - Handicap Accessible
 coordinates:
   lat: '43.377889'
   lng: "-124.216881"

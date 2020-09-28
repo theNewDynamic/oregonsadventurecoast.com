@@ -19,6 +19,6 @@ property_description: A seven bedroom house in the Charleston Marina with a larg
   along the Cape Arago Beach Loop, fishing, hiking and recreation activities.
 website: http://www.portsidebythebay.com/The_Portside_Vacation_Rentals_Rates.htm
 amenityList:
-- amenitySelect: '7'
+- 7 - Kitchens Available
 
 ---

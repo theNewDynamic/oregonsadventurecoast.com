@@ -18,8 +18,8 @@ property_description: 'Clean, quiet comfort close to dining, shopping and entert
   Commercial and weekly rates available. Free Wi-Fi. '
 website: ''
 amenityList:
-- amenitySelect: '6'
-- amenitySelect: '9'
+- 6 - WiFi Available
+- 9 - Handicap Accessible
 coordinates:
   lat: '43.357864'
   lng: "-124.213851"
