@@ -7,7 +7,7 @@
   "author": "budparr <budparr@thenewdynamic.com>",
   "license": "MIT",
   "hugo": {
-    "version": "0.58.0",
+    "version": "0.75.1",
     "extended": true
   },
   "scripts": {

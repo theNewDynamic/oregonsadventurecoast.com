@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo --gc"
 
 [build.environment]
-  HUGO_VERSION = "0.58.0"
+  HUGO_VERSION = "0.75.1"
 
 [context.production.environment]
 # Uncomment the next line when moving site to production

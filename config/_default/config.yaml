@@ -1,0 +1,33 @@
+languageCode: en-us
+themesDir: components
+title: Oregon's Adventure Coast
+googleAnalytics: UA-4406033-1
+MetaDataFormat: yaml
+disableAliases: true
+mediaTypes:
+  text/netlify:
+    delimiter: ''
+    suffixes:
+    - ''
+outputFormats:
+  REDIR:
+    baseName: _redirects
+    isPlainText: true
+    mediatype: text/netlify
+    notAlternative: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - REDIR
+    - JSON
+  page:
+    - HTML
+  section:
+    - HTML
+    - RSS
+permalinks:
+  adventure: ':slug/'
+  sitepages: ':slug/'
+theme:
+  - tnd-seo

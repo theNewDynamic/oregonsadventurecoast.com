@@ -1,0 +1,3 @@
+defaultMarkdownHandler: blackfriday
+blackfriday:
+  hrefTargetBlank: false
