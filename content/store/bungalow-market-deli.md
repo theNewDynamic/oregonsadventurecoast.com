@@ -2,7 +2,7 @@
 title: Bungalow Market & Deli
 property_description: Neighborhood grocery & deli. Open Mon-Fri 730am-7pm; Sat-Sun
   9am-7pm.
-photo_name: ''
+photo_name: "/img/bungalowmrkt.jpg"
 photo_alt: ''
 property_category:
 - Groceries
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
