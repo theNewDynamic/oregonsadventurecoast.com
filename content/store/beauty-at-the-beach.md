@@ -1,7 +1,7 @@
 ---
 title: Beauty At The Beach
 property_description: Full Service Hair Salon. Call for an appointment.
-photo_name: ''
+photo_name: "/img/beautyatthebeach.jpg"
 photo_alt: ''
 property_category:
 - Personal services
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
