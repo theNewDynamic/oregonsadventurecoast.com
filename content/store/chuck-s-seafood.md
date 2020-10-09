@@ -3,7 +3,7 @@ title: Chuck's Seafood
 property_description: Family owned and operated since 1953 - this local seafood market
   and cannery offers a selection of fresh, smoked or canned options for every pallet.
   They will even ship it home for you. Open daily 9am-5:30pm
-photo_name: ''
+photo_name: "/img/chucks_seafood_retailpg.jpg"
 photo_alt: ''
 property_category:
 - Specialty Foods
@@ -23,6 +23,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

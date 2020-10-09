@@ -2,7 +2,7 @@
 title: Chloe's Boutique
 property_description: Prom dresses, wedding, handbags & so much more! Located in the
   Pony Village Mall. Open daily
-photo_name: ''
+photo_name: "/img/chloes2.jpg"
 photo_alt: ''
 property_category:
 - Boutique
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

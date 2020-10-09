@@ -1,7 +1,7 @@
 ---
 title: Cherry Blossom Studio
 property_description: Full service nail salon and waxing services. Open by appointment
-photo_name: ''
+photo_name: "/img/nail-salon-stock.jpg"
 photo_alt: ''
 property_category:
 - Personal services
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
