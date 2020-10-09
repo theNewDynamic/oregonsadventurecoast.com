@@ -21,6 +21,5 @@ seo:
   description: Groceries, snacks, drinks open 24/7
   imgalt: ''
   image: ''
-draft: true
 
 ---

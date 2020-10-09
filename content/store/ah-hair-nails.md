@@ -21,6 +21,5 @@ seo:
   description: Full service hair & nails. Open Tues-Sat 9am-5:30pm
   imgalt: ''
   image: ''
-draft: true
 
 ---

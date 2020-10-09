@@ -25,6 +25,5 @@ seo:
     service.
   imgalt: ''
   image: ''
-draft: true
 
 ---
