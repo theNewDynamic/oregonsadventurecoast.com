@@ -18,8 +18,10 @@ coordinates:
   lat: '43.366532'
   lng: "-124.215054"
 seo:
-  title: ''
-  description: ''
+  title: 7 Devils Brewing Co.
+  description: Retail sales of craft brews in cans, bottles and growler fills, plus
+    branded merchandise. Open Wed-Mon 11am-9pm; Food Truck Tuesdays Noon-7pm beverage
+    service.
   imgalt: ''
   image: ''
 draft: true
