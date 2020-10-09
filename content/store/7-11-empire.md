@@ -1,7 +1,7 @@
 ---
 title: 7-11 Empire
 property_description: 24-hour convenient store
-photo_name: ''
+photo_name: "/img/7-11-630x366.jpg"
 photo_alt: ''
 property_category:
 - Groceries
