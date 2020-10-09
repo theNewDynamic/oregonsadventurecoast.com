@@ -1,8 +1,8 @@
 ---
 title: 7-11 North Bend
 property_description: 24-hour convenient store
-photo_name: ''
-photo_alt: ''
+photo_name: "/img/7-11-630x366.jpg"
+photo_alt: 7-11
 property_category:
 - Groceries
 address:
