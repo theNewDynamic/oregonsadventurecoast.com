@@ -11,12 +11,12 @@ address:
   street2: ''
   city: Coos Bay
   zip: '97420'
-phone_local: ''
+phone_local: "(541) 808-3738"
 phone_toll_free: ''
-website: ''
+website: https://www.7devilsbrewery.com
 coordinates:
-  lat: ''
-  lng: ''
+  lat: '43.366532'
+  lng: "-124.215054"
 seo:
   title: ''
   description: ''
