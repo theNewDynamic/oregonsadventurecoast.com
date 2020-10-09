@@ -2,7 +2,7 @@
 title: Bahama Buds
 property_description: Helpful and friendly staff to assist with all of your cannabis
   needs. Open daily 9am-9:30pm
-photo_name: ''
+photo_name: "/img/bahamabuds.jpg"
 photo_alt: ''
 property_category:
 - Herbals
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

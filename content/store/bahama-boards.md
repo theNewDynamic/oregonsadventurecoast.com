@@ -3,7 +3,7 @@ title: Bahama Boards
 property_description: Family owned surf, paddle board and skate shop. Great advice
   on where to surf, paddle and skate in the Coos Bay area - Open Tues-Sat 10am-5pm,
   Sundays by appointment.
-photo_name: ''
+photo_name: "/img/bahamaboards.jpg"
 photo_alt: ''
 property_category:
 - Sporting Goods
@@ -23,6 +23,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
