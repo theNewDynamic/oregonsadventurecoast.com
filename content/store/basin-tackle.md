@@ -3,7 +3,7 @@ title: Basin Tackle
 property_description: Locally owned bait and tackle shop with fishing, crabbing, clamming
   gear, outdoor and sporting goods, clothing, and great advice. Clamming classes offered.
   Open daily at 9am.
-photo_name: ''
+photo_name: "/img/basintackle.jpg"
 photo_alt: ''
 property_category:
 - Sporting Goods
@@ -23,6 +23,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
