@@ -2,7 +2,7 @@
 title: Books By The Bay
 property_description: Locally owned bookstore with a diverse selection of new and
   used books for all ages. Open Mon-Sat 9am-6pm.
-photo_name: ''
+photo_name: "/img/booksbythebay.jpg"
 photo_alt: ''
 property_category:
 - Bookstores
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

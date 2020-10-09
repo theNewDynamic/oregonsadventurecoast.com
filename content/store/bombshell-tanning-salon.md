@@ -2,7 +2,7 @@
 title: Bombshell Tanning Salon
 property_description: Tanning salon with four kinds of tanning beds, Pura spray tan,
   and Red light therapy bed. Open Mon-Fri 10am-7pm; Sat 10:30am-4pm.
-photo_name: ''
+photo_name: "/img/bombshelltan.jpg"
 photo_alt: ''
 property_category:
 - Personal services
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
