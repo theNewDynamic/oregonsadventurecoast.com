@@ -5,7 +5,8 @@ property_description: Retail sales of craft brews in cans, bottles and growler f
   service.
 photo_name: "/img/7devils2.jpg"
 photo_alt: 7 Devils Brewing Co.
-property_category: []
+property_category:
+- Liquor Stores/ Growler Fills
 address:
   street: 247 S 2nd Street
   street2: ''
