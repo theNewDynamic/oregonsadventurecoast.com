@@ -2,7 +2,7 @@
 title: Aspen Lace Boutique
 property_description: Sister-owned Boutique located in the Pony Village Mall carrying
   women's clothing, shoes, accessories and more! Open 11am-6pm Mon-Sat.
-photo_name: ''
+photo_name: "/img/aspen_lace_retailpg.jpg"
 photo_alt: ''
 property_category:
 - Clothing
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
