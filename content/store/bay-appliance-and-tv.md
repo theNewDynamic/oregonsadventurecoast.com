@@ -2,7 +2,7 @@
 title: Bay Appliance and TV
 property_description: Family owned and operated selling home appliances, TV's and
   mattresses. Open Mon-Sat 9am-5:30pm.
-photo_name: ''
+photo_name: "/img/bay-appliance-tv.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
