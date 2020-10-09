@@ -2,7 +2,7 @@
 title: Beauty & The Beast Antiques
 property_description: Locally owned shop filled with unique antiques and collectibles
   for over 30 years. Open Fri-Sat 11am-4pm
-photo_name: ''
+photo_name: "/img/beauty-beast-antiques.jpg"
 photo_alt: ''
 property_category:
 - Boutique
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
