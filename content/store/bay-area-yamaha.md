@@ -2,7 +2,7 @@
 title: Bay Area Yamaha
 property_description: The place to go for all of your Yamaha ATV and Motorcycle needs.
   Open Mon-Sat 9am-6pm.
-photo_name: ''
+photo_name: "/img/yamaha.jpg"
 photo_alt: ''
 property_category:
 - Sporting Goods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
