@@ -1,7 +1,7 @@
 ---
 title: Bayside Emporium Guns-Guitars-Jewelry
 property_description: Guns, Guitars and Jewelry. Open Tues-Sat 11am-5:30pm.
-photo_name: ''
+photo_name: "/img/baysideemporiumretailpg.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
