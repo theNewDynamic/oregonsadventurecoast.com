@@ -2,7 +2,7 @@
 title: Ashworth's Market
 property_description: Mini-mart, grocery, deli, hot food, hand scooped ice cream,
   growler fills and kegs. Open daily
-photo_name: ''
+photo_name: "/img/ashworth-market.jpg"
 photo_alt: ''
 property_category:
 - Groceries
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
