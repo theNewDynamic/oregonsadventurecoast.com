@@ -2,7 +2,7 @@
 title: BiMart North Bend
 property_description: Northwest Employee owned chain with pharmacy, garden center,
   housewares, sporting goods and more. Open daily.
-photo_name: ''
+photo_name: "/img/bimart.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
