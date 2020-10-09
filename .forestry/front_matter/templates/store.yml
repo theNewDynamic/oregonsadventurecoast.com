@@ -45,6 +45,7 @@ fields:
   label: Contact
   name: contact
 pages:
+- content/store/101-harley-davidson.md
 - content/store/7-11-coos-bay.md
 - content/store/7-11-empire.md
 - content/store/7-11-north-bend.md
