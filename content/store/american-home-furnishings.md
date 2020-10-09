@@ -1,7 +1,7 @@
 ---
 title: American Home Furnishings
 property_description: 'Mattresses, furniture and home decor. Open daily '
-photo_name: ''
+photo_name: "/img/american-home-furnishings.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
