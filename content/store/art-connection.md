@@ -4,7 +4,7 @@ property_description: Professional picture framing and artist materials on the O
   Coast for nearly 25 years. Additional departments for children's art supplies and
   art instruction books, sketchbooks and greeting cards. Business Hours are M-F 9:30
   a.m. to 5:30 p.m. and Saturday 10:00 a.m. to 5:00 p.m.
-photo_name: ''
+photo_name: "/img/artconnection.jpg"
 photo_alt: ''
 property_category:
 - Arts & Crafts
@@ -24,6 +24,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
