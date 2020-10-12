@@ -131,8 +131,8 @@ Charleston, OR 97420
 
 {{< spacer 60 >}}
 
-{{< youtube "[https://youtu.be/Aq8j5xAmltY](https://youtu.be/Aq8j5xAmltY "https://youtu.be/Aq8j5xAmltY")" >}}
+{{< youtube "Aq8j5xAmltY" >}}
 
 {{< spacer 60 >}}
 
-{{< youtube "[https://youtu.be/39gvsPCNXVg](https://youtu.be/39gvsPCNXVg "https://youtu.be/39gvsPCNXVg")" >}}
+{{< youtube "39gvsPCNXVg" >}}
