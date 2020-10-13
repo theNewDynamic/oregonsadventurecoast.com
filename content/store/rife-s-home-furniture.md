@@ -2,7 +2,7 @@
 title: Rife's Home Furniture
 property_description: Furniture, mattresses & home decor. Open Mon-Sat 10am-6pm; Sundays
   11am-5pm
-photo_name: ''
+photo_name: "/img/rifesretail.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
