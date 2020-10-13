@@ -2,7 +2,7 @@
 title: Stillwagon Distillery
 property_description: Locally crafted small batch Rum in a variety of flavors. Tours
   and tasting room. Mon-Sat 11am-4pm.
-photo_name: ''
+photo_name: "/img/stillwagon.jpg"
 photo_alt: ''
 property_category:
 - Liquor Stores/ Growler Fills
@@ -23,6 +23,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

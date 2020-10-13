@@ -1,7 +1,7 @@
 ---
 title: Studio Four Hair Design
 property_description: Full service hair & waxing. Open Tues-Sat call for appointment.
-photo_name: ''
+photo_name: "/img/studio4.jpg"
 photo_alt: ''
 property_category:
 - Personal services
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
