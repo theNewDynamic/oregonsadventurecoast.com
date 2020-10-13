@@ -2,7 +2,7 @@
 title: Hair Company Etc.
 property_description: Full Service Salon and Day Spa with boutique clothing & accessories;
   Open Mon-Sat 9am-6pm or by appointment.
-photo_name: ''
+photo_name: "/img/shopping-at-spa.jpg"
 photo_alt: ''
 property_category:
 - Personal services
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
