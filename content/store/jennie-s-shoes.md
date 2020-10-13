@@ -2,7 +2,7 @@
 title: Jennie's Shoes
 property_description: One of the last "real" shoe stores - carrying Dansko, Keen,
   Red Wing, Danner Boots, Clarks, SAS and many more. Open Mon-Sat.
-photo_name: ''
+photo_name: "/img/jennies_shoes_retailpg.jpg"
 photo_alt: ''
 property_category:
 - Shoes
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

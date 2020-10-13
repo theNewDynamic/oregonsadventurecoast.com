@@ -2,7 +2,7 @@
 title: Joann Fabric
 property_description: Fabric and craft store. Located in the Pony Village Mall. Open
   daily 10am-8pm.
-photo_name: ''
+photo_name: "/img/joann_fabric_retailpg.jpg"
 photo_alt: ''
 property_category:
 - Arts & Crafts
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
