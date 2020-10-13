@@ -2,7 +2,7 @@
 title: Sweet Street
 property_description: Handmade Candy, Hand-dipped Caramel Apples, Popcorn and so much
   more. Come find your Sweet Treat at Sweet Street, open at 11am Thurs-Sun.
-photo_name: ''
+photo_name: "/img/sweetstreetretail.jpg"
 photo_alt: ''
 property_category:
 - Specialty Foods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
