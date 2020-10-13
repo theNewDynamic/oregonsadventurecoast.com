@@ -2,7 +2,7 @@
 title: NEED COORDINATES - Fisherman's Seafood Market
 property_description: Floating fresh fish market & small restaurant/take out right
   on the Coos Bay Boardwalk downtown. Open Mon-Sat 11am-6pm.
-photo_name: ''
+photo_name: "/img/fishermanseafoodretail.jpg"
 photo_alt: ''
 property_category:
 - Specialty Foods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
