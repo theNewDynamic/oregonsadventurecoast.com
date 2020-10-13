@@ -2,7 +2,7 @@
 title: Engles Furniture
 property_description: Locally owned & operated Furniture & Home Decor. Open Mon-Sat
   9am-6pm; Sundays 11am-4pm
-photo_name: ''
+photo_name: "/img/englesretail.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

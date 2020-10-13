@@ -2,7 +2,7 @@
 title: Englund Marine Supply
 property_description: Everything for your fishing and outdoor needs. Open Mon-Fri
   7:30am-5:30pm; Sat 7:30am-4pm
-photo_name: ''
+photo_name: "/img/englundmarineretailpg.jpg"
 photo_alt: ''
 property_category:
 - Sporting Goods
@@ -23,6 +23,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
