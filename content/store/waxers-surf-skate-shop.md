@@ -1,7 +1,7 @@
 ---
 title: Waxers Surf & Skate Shop
 property_description: Waxers Surf & Skate Shop
-photo_name: ''
+photo_name: "/img/waxersretailpg.jpg"
 photo_alt: ''
 property_category:
 - Sporting Goods
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
