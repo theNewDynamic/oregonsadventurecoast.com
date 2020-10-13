@@ -2,7 +2,7 @@
 title: Gamestop
 property_description: New and used video games, consoles, controllers and other gear.
   Located in the Pony Village Mall. Open daily Noon-8pm.
-photo_name: ''
+photo_name: "/img/gamestop_logo.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

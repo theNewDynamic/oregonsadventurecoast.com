@@ -2,7 +2,7 @@
 title: Goodwill Industries
 property_description: Thrift Store filled with clothing, household goods, books and
   more. Open daily
-photo_name: ''
+photo_name: "/img/goodwill.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
