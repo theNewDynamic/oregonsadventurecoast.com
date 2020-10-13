@@ -1,7 +1,7 @@
 ---
 title: Coos Bay Liquor
 property_description: Liquor, beer, spirits, and more. Open daily.
-photo_name: ''
+photo_name: "/img/coos-bay-liquor-store.jpg"
 photo_alt: Coos Bay Liquor
 property_category:
 - Liquor Stores/ Growler Fills
@@ -17,10 +17,9 @@ coordinates:
   lat: '43.368057'
   lng: "-124.219939"
 seo:
-  title: ''
-  description: ''
+  title: Coos Bay Liquor
+  description: Liquor, beer, spirits, and more. Open daily.
   imgalt: ''
   image: ''
-draft: true
 
 ---
