@@ -2,7 +2,7 @@
 title: Maurices
 property_description: Women's fashion clothing, shoes, and accessories located in
   the Pony Village Mall. Open 10am-6pm daily.
-photo_name: ''
+photo_name: "/img/maurices_retailpg.jpg"
 photo_alt: ''
 property_category:
 - Clothing
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

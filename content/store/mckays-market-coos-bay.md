@@ -2,7 +2,7 @@
 title: Mckays Market Coos Bay
 property_description: Locally owned grocery chain with hot food, deli & butcher on
   site. Open daily.
-photo_name: ''
+photo_name: "/img/mckays.jpg"
 photo_alt: ''
 property_category:
 - Groceries
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
