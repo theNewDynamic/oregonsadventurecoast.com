@@ -2,7 +2,7 @@
 title: Ko-Kwel Gifts
 property_description: Featuring keepsakes made by Coquille Tribal members, including
   jewelry and art. There is something for everyone in this unique shop. Open daily.
-photo_name: ''
+photo_name: "/img/kokwelretailpg.jpg"
 photo_alt: ''
 property_category: []
 address:
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

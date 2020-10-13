@@ -2,7 +2,7 @@
 title: Kinnee's Gifts &  Shells
 property_description: Coastal gifts and shells including stuffed animals, t-shirts
   and jewelry. Open 10am-6pm daily.
-photo_name: ''
+photo_name: "/img/kinnees2.jpg"
 photo_alt: ''
 property_category:
 - Souvenirs
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
