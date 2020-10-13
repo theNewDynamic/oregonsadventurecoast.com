@@ -2,7 +2,7 @@
 title: Old World Antiques
 property_description: Large collection of antique jewelry, furniture, paintings and
   so much more. Open daily 10am-5pm
-photo_name: ''
+photo_name: "/img/oldqworldantiquesretail.jpg"
 photo_alt: ''
 property_category:
 - Antiques
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

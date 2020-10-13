@@ -2,7 +2,7 @@
 title: OrCoast Music
 property_description: New and Used Gear. Guitars (acoustic & electric), amps, percussion,
   keyboards, PA, books, accessories and more. Open Mon-Sat 10am-5pm.
-photo_name: ''
+photo_name: "/img/orcoastmusicretail.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

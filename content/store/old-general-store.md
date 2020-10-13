@@ -1,7 +1,7 @@
 ---
 title: Old General Store
 property_description: Mini-mart, grocery, cigarettes, beer and liquor. Open daily.
-photo_name: ''
+photo_name: "/img/old_general_store_retailpg.jpg"
 photo_alt: ''
 property_category:
 - Groceries
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
