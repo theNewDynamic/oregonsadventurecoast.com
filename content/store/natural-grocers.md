@@ -2,7 +2,7 @@
 title: Natural Grocers
 property_description: Chain natural grocery store providing organic produce, dietary
   vitamins and supplements, body care, and free nutrition education. Open daily.
-photo_name: ''
+photo_name: "/img/natgrocers.jpg"
 photo_alt: ''
 property_category:
 - Groceries
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
