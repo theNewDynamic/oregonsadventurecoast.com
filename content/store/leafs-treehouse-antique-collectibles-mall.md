@@ -2,7 +2,7 @@
 title: Leafs Treehouse Antique & Collectibles Mall
 property_description: Antiques, collectibles and distinctive refurbished furniture
   projects. Open 10am-5pm daily.
-photo_name: ''
+photo_name: "/img/leafstreehouse.jpg"
 photo_alt: ''
 property_category:
 - Antiques
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
