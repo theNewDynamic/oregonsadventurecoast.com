@@ -2,7 +2,7 @@
 title: Ocean Breeze Flowers & Gifts
 property_description: Locally owned & operated floral and gift shop. Open Mon-Fri
   8am-5pm; Sat 10am-2pm.
-photo_name: ''
+photo_name: "/img/oceanbreezeretailpg.jpg"
 photo_alt: ''
 property_category:
 - Souvenirs
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
