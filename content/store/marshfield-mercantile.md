@@ -2,7 +2,7 @@
 title: Marshfield Mercantile
 property_description: Furniture for every room in your home; antiques and vintage
   souvenirs. Open daily 10am-5pm.
-photo_name: ''
+photo_name: "/img/merchantile.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

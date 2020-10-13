@@ -1,7 +1,7 @@
 ---
 title: Lighthouse Market & Deli
 property_description: Neighborhood grocery & hot deli. Open daily
-photo_name: ''
+photo_name: "/img/lighthouse-market.jpg"
 photo_alt: ''
 property_category:
 - Groceries
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
