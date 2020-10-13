@@ -2,7 +2,7 @@
 title: Tarnished Threads
 property_description: Antique & Vintage mall located within Marshfield Mercantile.
   Open daily 10am-5pm
-photo_name: ''
+photo_name: "/img/tarnished-threads.jpg"
 photo_alt: ''
 property_category:
 - Arts & Crafts
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
