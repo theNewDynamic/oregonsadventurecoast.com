@@ -2,7 +2,7 @@
 title: Pottery By The Bay
 property_description: Unique & functional original pottery pieces and gifts. Open
   Tues-Sat.
-photo_name: ''
+photo_name: "/img/potterybythebay2.jpg"
 photo_alt: ''
 property_category:
 - Arts & Crafts
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

@@ -2,7 +2,7 @@
 title: Recycled Games
 property_description: Used Video Games offers a large selection of used and hard to
   find titles at great prices. Open Mon-sat 10am-8pm, Sun 11am-7pm.
-photo_name: ''
+photo_name: "/img/recycledgames2.jpg"
 photo_alt: ''
 property_category:
 - Resale
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
