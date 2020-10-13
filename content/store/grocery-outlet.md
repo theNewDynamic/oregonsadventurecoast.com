@@ -1,7 +1,7 @@
 ---
 title: Grocery Outlet
 property_description: Discount Grocery and Household goods. Open Daily
-photo_name: ''
+photo_name: "/img/grocery-outlet.jpg"
 photo_alt: ''
 property_category:
 - Groceries
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
