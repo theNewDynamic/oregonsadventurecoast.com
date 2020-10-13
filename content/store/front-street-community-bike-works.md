@@ -2,7 +2,7 @@
 title: Front Street Community Bike Works
 property_description: Low cost rebuilt bicycles and Do-It-Yourself workspace. Open
   Thurs 7pm-9pm, Sun 10am-2pm, or by appointment.
-photo_name: ''
+photo_name: "/img/frontstbikes.jpg"
 photo_alt: ''
 property_category:
 - Sporting Goods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

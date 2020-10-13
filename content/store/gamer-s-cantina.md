@@ -3,7 +3,7 @@ title: Gamer's Cantina
 property_description: Family owned hobby gaming store, featuring Warhammer, Magic
   (buy, sell, & trade), D&D; including regularly scheduled events/pre-release options.
   Open daily 10am-6pm.
-photo_name: ''
+photo_name: "/img/gamerscantinaretail.jpg"
 photo_alt: ''
 property_category:
 - Arts & Crafts
@@ -23,6 +23,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
