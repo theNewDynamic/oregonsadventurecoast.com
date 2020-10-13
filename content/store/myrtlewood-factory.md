@@ -3,7 +3,7 @@ title: Myrtlewood Factory
 property_description: Myrtlewood keepsakes and collectibles. Myrtlewood is a beautiful
   hardwood that only grows in the Pacific Northwest and the Holy Land. Open daily
   9am-5:30pm.
-photo_name: ''
+photo_name: "/img/myrtlewood2.jpg"
 photo_alt: ''
 property_category:
 - Souvenirs
@@ -23,6 +23,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

@@ -2,7 +2,7 @@
 title: My Yarn Shop
 property_description: Large variety of yarn and patterns. Open sporadically - so call
   ahead.
-photo_name: ''
+photo_name: "/img/myyarnshopretail.jpg"
 photo_alt: ''
 property_category:
 - Arts & Crafts
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
