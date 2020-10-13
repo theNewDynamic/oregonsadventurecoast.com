@@ -3,7 +3,7 @@ title: Moe's Bike Shop
 property_description: Largest Bike Shop on the Oregon Coast, carrying a full line
   of Mountain, Road & Touring Bikes, & accessories; also offering repairs, tune ups,
   & upgrades. Open Tues-Fri 9:30am-5:30pm; Sat 10am-4pm
-photo_name: ''
+photo_name: "/img/moes-bike-shop.jpg"
 photo_alt: ''
 property_category:
 - Sporting Goods
@@ -23,6 +23,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
