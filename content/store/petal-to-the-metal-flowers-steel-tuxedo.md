@@ -2,7 +2,7 @@
 title: Petal to the Metal Flowers & Steel Tuxedo
 property_description: Locally owned floral and gift shop with Tuxedo rentals. Open
   Mon-Fri 9am-5pm.
-photo_name: ''
+photo_name: "/img/petaltothemetalretail.jpg"
 photo_alt: ''
 property_category:
 - Florist
@@ -23,6 +23,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

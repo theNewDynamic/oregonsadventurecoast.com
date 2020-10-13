@@ -3,7 +3,7 @@ title: Oregon Wine Cellars Etc.
 property_description: Fine wines from around the world - Specializing in Oregon Wines,
   Microbrews, Glassware and Baltic Jewelry with custom gift baskets available. Open
   Tues-Sat 11am-6pm.
-photo_name: ''
+photo_name: "/img/or_wine_cellars_retailpg.jpg"
 photo_alt: ''
 property_category:
 - Liquor Stores/ Growler Fills
@@ -23,6 +23,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

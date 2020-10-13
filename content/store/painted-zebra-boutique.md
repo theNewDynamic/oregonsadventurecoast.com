@@ -2,7 +2,7 @@
 title: Painted Zebra Boutique
 property_description: Fun and affordable Boutique featuring women's fashion in sizes
   S-3X. Open Tuesday-Saturday 11am-5pm.
-photo_name: ''
+photo_name: "/img/painted-zebra.jpg"
 photo_alt: ''
 property_category:
 - Shoes
@@ -24,6 +24,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

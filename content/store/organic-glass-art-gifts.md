@@ -2,7 +2,7 @@
 title: Organic Glass Art & Gifts
 property_description: Huge selection of traditional crafts and contemporary art in
   a large comfortable space. Something for everyone and every budget. Open daily Noon-5pm.
-photo_name: ''
+photo_name: "/img/organic_glass_retailpg.jpg"
 photo_alt: ''
 property_category:
 - Arts & Crafts
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
