@@ -2,7 +2,7 @@
 title: Pony Village Mall
 property_description: Indoor style Mall with a variety of retail shops and salon services.
   Open daily 10am-7pm
-photo_name: ''
+photo_name: "/img/pvmall.jpg"
 photo_alt: ''
 property_category:
 - Personal services
