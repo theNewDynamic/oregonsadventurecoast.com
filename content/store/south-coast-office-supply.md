@@ -2,7 +2,7 @@
 title: South Coast Office Supply
 property_description: Everything you need from tape to custom furnishings. Open Mon-Fri
   8am-4pm.
-photo_name: ''
+photo_name: "/img/scoffice.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

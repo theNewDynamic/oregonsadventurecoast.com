@@ -2,7 +2,7 @@
 title: South Coast Hospice Thrift Store
 property_description: Large thrift store supporting South Coast Hospice Palliative
   Care filled with clothing, household goods, books and more.
-photo_name: ''
+photo_name: "/img/schospice.jpg"
 photo_alt: ''
 property_category:
 - Resale
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
