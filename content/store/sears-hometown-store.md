@@ -2,7 +2,7 @@
 title: Sears Hometown Store
 property_description: Large variety of home appliances. Financing available. Located
   in the Pony Village Mall. Open daily 9am-6pm.
-photo_name: ''
+photo_name: "/img/sears.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
