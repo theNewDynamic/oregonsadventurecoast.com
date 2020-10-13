@@ -2,7 +2,7 @@
 title: Threads That Bind
 property_description: Everything for your quilting needs; including classes. Open
   Mon-Sat 930am-5pm
-photo_name: ''
+photo_name: "/img/threads2.jpg"
 photo_alt: ''
 property_category:
 - Arts & Crafts
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

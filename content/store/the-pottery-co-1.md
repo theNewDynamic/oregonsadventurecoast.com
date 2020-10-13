@@ -2,7 +2,7 @@
 title: The Pottery Co.
 property_description: Paint Your Own Pottery store - large variety of pottery to choose
   from. Party room available. Open daily 10am-8pm.
-photo_name: ''
+photo_name: "/img/potteryco1.jpg"
 photo_alt: ''
 property_category:
 - Arts & Crafts
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
