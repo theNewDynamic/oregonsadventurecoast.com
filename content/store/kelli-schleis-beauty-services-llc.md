@@ -1,7 +1,7 @@
 ---
 title: Kelli Schleis Beauty Services LLC
 property_description: Nails, waxing & make-up. Call for an appointment.
-photo_name: ''
+photo_name: "/img/kellischleis.jpg"
 photo_alt: ''
 property_category:
 - Personal services
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

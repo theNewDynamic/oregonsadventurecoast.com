@@ -2,7 +2,7 @@
 title: Katrina Kathleen's Home Decor & Gifts
 property_description: Unique home decor, collectibles, clothing, jewelry & more. Located
   in downtown Coos Bay. 10:30am-5:30pm daily.
-photo_name: ''
+photo_name: "/img/katrina_kathleens_retailpg.jpg"
 photo_alt: ''
 property_category:
 - Boutique
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
