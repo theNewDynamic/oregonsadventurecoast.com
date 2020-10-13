@@ -2,7 +2,7 @@
 title: Time Bomb
 property_description: New and Used hip threads; Skate, Surf & Sandboards; Tattoo &
   Body Piercing. We Buy, Sell and Trade. Open Mon-Sat 11am-6pm.
-photo_name: ''
+photo_name: "/img/timebomb.jpg"
 photo_alt: ''
 property_category:
 - Clothing
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

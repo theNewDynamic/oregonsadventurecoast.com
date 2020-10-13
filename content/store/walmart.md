@@ -2,7 +2,7 @@
 title: WalMart
 property_description: Grocery, Garden Center, Housewares, Electronics, Tire Center.
   Open daily
-photo_name: ''
+photo_name: "/img/walmartlogo.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -25,6 +25,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

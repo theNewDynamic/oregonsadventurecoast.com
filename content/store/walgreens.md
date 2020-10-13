@@ -1,7 +1,7 @@
 ---
 title: Walgreens
 property_description: National drugstore chain. Open daily 9am-9pm
-photo_name: ''
+photo_name: "/img/walgreens-logo-jpg.jpg"
 photo_alt: ''
 property_category:
 - Pharmacy
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

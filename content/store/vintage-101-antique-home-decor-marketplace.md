@@ -2,7 +2,7 @@
 title: Vintage 101 - Antique & Home Decor Marketplace
 property_description: 20+ vendor marketplace featuring antique and vintage merchandise.
   Open Tues-Sat 11am-4pm
-photo_name: ''
+photo_name: "/img/vintage101retail.jpg"
 photo_alt: ''
 property_category: []
 address:
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
