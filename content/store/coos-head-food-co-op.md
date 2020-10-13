@@ -2,7 +2,7 @@
 title: Coos Head Food Co-op
 property_description: The oldest operating natural food store on the Southern Oregon
   Coast - open to everyone. Mon-Sat 9am-7pm; Sun 10am-6pm
-photo_name: ''
+photo_name: "/img/coosheadfood.jpg"
 photo_alt: ''
 property_category:
 - Groceries
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
