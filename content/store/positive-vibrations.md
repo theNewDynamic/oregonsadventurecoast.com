@@ -2,7 +2,7 @@
 title: Positive Vibrations
 property_description: Helpful staff to assist with your cannabis needs. Open Mon-Sat
   10am-8pm
-photo_name: ''
+photo_name: "/img/positivevibrations.jpg"
 photo_alt: ''
 property_category:
 - Herbals
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
