@@ -2,7 +2,7 @@
 title: The Making Place
 property_description: Pinterest inspired DIY craft projects. Due to COVID 19 projects
   are available for pick only; workshops will resume when restrictions are lifted.
-photo_name: ''
+photo_name: "/img/themakingplace.jpg"
 photo_alt: ''
 property_category:
 - Arts & Crafts
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
