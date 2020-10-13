@@ -1,7 +1,7 @@
 ---
 title: Dollar Tree - Coos Bay
 property_description: Eclectic mix of household items - all for $1. Open daily 8am-9pm.
-photo_name: ''
+photo_name: "/img/dollar-tree-logo-font.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

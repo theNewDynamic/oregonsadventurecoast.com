@@ -3,7 +3,7 @@ title: Cranberry Sweets
 property_description: Delicious candies, caramels and popcorn, handmade in small batches
   using only the finest natural ingredients. Watch the candy being made and sample
   while you shop. Shipping available. Open Mon-Sat 10am-5pm; Sun 11am-4pm.
-photo_name: ''
+photo_name: "/img/cranberry_sweets2_retailpg.jpg"
 photo_alt: ''
 property_category:
 - Specialty Foods
@@ -23,6 +23,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

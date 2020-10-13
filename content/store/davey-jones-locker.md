@@ -2,7 +2,7 @@
 title: Davey Jones Locker
 property_description: Neighborhood grocery with hot food deli, bait & tackle. Open
   daily.
-photo_name: ''
+photo_name: "/img/daveyjones.jpg"
 photo_alt: ''
 property_category:
 - Groceries
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
