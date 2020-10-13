@@ -2,7 +2,7 @@
 title: Safeway North Bend
 property_description: National Grocery chain with pharmacy, butcher, hot deli, bakery,
   floral. Open daily.
-photo_name: ''
+photo_name: "/img/safeway.jpg"
 photo_alt: ''
 property_category:
 - Groceries
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
