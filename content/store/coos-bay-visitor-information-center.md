@@ -2,7 +2,7 @@
 title: Coos Bay Visitor Information Center
 property_description: Souvenirs, maps & adventure information. Open Mon-Fri 9am-5pm,
   Sat-Sun 11am-3pm
-photo_name: ''
+photo_name: "/img/cbvic.jpg"
 photo_alt: ''
 property_category:
 - Souvenirs
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
