@@ -2,7 +2,7 @@
 title: Herbal Choices - Charleston
 property_description: Helpful staff to assist with your cannabis needs. Open daily
   8am-10pm
-photo_name: ''
+photo_name: "/img/herbal-choices.jpg"
 photo_alt: ''
 property_category:
 - Herbals
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
