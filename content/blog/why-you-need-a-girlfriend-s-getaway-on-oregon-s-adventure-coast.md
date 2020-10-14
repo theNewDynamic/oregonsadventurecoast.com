@@ -51,7 +51,7 @@ You can restore connections with yourself and your friends while bonding over ac
 
 {{< spacer 25 >}}
 
-{{< youtube "[https://youtu.be/Fagp6YxQUcE](https://youtu.be/Fagp6YxQUcE "https://youtu.be/Fagp6YxQUcE")" >}}
+{{< youtube "[Fagp6YxQUcE](https://youtu.be/Fagp6YxQUcE "https://youtu.be/Fagp6YxQUcE")" >}}
 
 {{< spacer 25 >}}
 
