@@ -49,7 +49,11 @@ Not only is an Oregon’s Adventure Coast Girlfriend’s Getaway a total blast, 
 
 You can restore connections with yourself and your friends while bonding over activities in nature like [Hiking](https://www.oregonsadventurecoast.com/hiking-walking), [crabbing](https://www.oregonsadventurecoast.com/crabbing-clamming) and [clamming](https://www.oregonsadventurecoast.com/clamming), [surfing](https://www.oregonsadventurecoast.com/water-recreation), [beach combing](https://www.oregonsadventurecoast.com/undeveloped-beaches), [ATV’ing](https://www.oregonsadventurecoast.com/atv-motorsports), [cycling](https://www.oregonsadventurecoast.com/cycling), [storm watching](https://www.oregonsadventurecoast.com/storm-watching), taking a [scenic drive](https://www.oregonsadventurecoast.com/scenic-drives), and more. If your squad isn’t up for the great outdoors, take advantage of the many indoor activities that are available like small business [shopping](https://www.oregonsadventurecoast.com/shopping), going to [museums](https://www.oregonsadventurecoast.com/art-history-culture), trying new [restaurants](https://www.oregonsadventurecoast.com/dining), [entertainment](https://www.oregonsadventurecoast.com/entertainment-and-nightlife), and of course- [casino-style gaming](https://www.oregonsadventurecoast.com/gaming)! Watch this video to get a preview of all of the fun you'll have. _Please note, this video was created prior to the COVID-19 crisis and the implementation of Oregon’s_ [_Safe+Strong guidelines_](https://govstatus.egov.com/reopening-oregon)_._
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EDLPieOcz2A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< spacer 25 >}}
+
+{{< youtube "[https://youtu.be/Fagp6YxQUcE](https://youtu.be/Fagp6YxQUcE "https://youtu.be/Fagp6YxQUcE")" >}}
+
+{{< spacer 25 >}}
 
 So ladies, if you’re feeling like your tank is running on empty, it might be time to call your girlfriends and arrange to get away from the stress for a few days. Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is an all-seasons getaway where you can catch up with friends and family while enjoying unique indoor and outdoor experiences you won’t find anywhere else.
 
