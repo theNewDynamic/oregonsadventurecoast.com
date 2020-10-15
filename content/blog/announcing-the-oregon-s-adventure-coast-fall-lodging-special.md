@@ -1,6 +1,6 @@
 ---
 title: 'Announcing the Oregon’s Adventure Coast Fall Lodging Special! '
-date: 2020-09-28T04:00:00+00:00
+date: 2020-09-28T04:00:00.000+00:00
 description: Spend a few days with us this fall and receive a 15% discount at participating
   lodging properties between October 1, 2020- November 30, 2020. Some restrictions
   apply and subject to change.
@@ -53,17 +53,22 @@ We could give you more ideas on ways to safely enjoy an Oregon Coast getaway thi
 
 You could go stand-up paddleboarding
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7kidwJG10vA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+{{< youtube "7kidwJG10vA" >}}
+
+{{< spacer 30 >}}
 
 And/or kayaking
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XM8iebLuClI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+{{< youtube "XM8iebLuClI" >}}
+
+{{< spacer 30 >}}
 
 And all of this!
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOregonsAdventureCoast%2Fvideos%2F759621364848606%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe><br>
+{{< youtube "IBkNO3WwACo" >}}
+
+{{< spacer 50 >}}
 
 [Click here to see more adventures](https://www.oregonsadventurecoast.com/adventures/) you can do this fall and plan your own itinerary!
 
-  
 You must take advantage of this 15% off lodging offer before November 30th, [click here to see details ](https://www.oregonsadventurecoast.com/fall15/)and a list of participating hotels. We look forward to welcoming you back to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston - all we ask is for you to follow Oregon’s [Safe+Strong guidelines](https://govstatus.egov.com/reopening-oregon) to keep our community safe and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). Please don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
