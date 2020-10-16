@@ -2,7 +2,7 @@
 title: Jurgens Jewelers
 property_description: Family owned and operated, fine jewelry and custom jewelry created
   and repaired on site. Open Mon-Fri 10am-5pm
-photo_name: ''
+photo_name: "/img/jewelry-stock-photo.jpg"
 photo_alt: Jeweler in North Bend, OR.
 property_category:
 - Boutique
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
