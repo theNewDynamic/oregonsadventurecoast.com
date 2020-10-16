@@ -1,7 +1,7 @@
 ---
 title: Cutting Edge Hair Design
 property_description: Full service salon. Open Tues-Sat by appointment.
-photo_name: ''
+photo_name: "/img/hair-salon-stock-photo.jpg"
 photo_alt: Full Service Salon in North Bend, Oregon
 property_category:
 - Personal services
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
