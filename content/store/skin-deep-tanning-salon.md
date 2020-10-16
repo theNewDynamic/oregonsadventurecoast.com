@@ -3,7 +3,7 @@ title: Skin Deep Tanning Salon
 property_description: Skin Deep Tanning has six high performance beds including facials,
   non facials, and stand up, plus a large selection of tanning lotions. Open 8am-8pm
   Daily
-photo_name: ''
+photo_name: "/img/tanning-salon.jpg"
 photo_alt: ''
 property_category:
 - Personal services
@@ -23,6 +23,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
