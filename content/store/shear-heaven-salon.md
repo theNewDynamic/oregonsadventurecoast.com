@@ -1,7 +1,7 @@
 ---
 title: Shear Heaven Salon
 property_description: Full Service Hair & Nail Salon. Call for an appointment.
-photo_name: ''
+photo_name: "/img/hair-salon-stock-cutting-hair.jpg"
 photo_alt: ''
 property_category:
 - Personal services
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
