@@ -1,7 +1,7 @@
 ---
 title: Nails 101
 property_description: Manicures & pedicures. Open Mon-Sat call for appointment
-photo_name: ''
+photo_name: "/img/nail-salon-stock.jpg"
 photo_alt: Nail Salon in North Bend, OR
 property_category:
 - Personal services
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

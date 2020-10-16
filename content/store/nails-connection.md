@@ -2,7 +2,7 @@
 title: Nails Connection
 property_description: Manicures & pedicures available up to 4 patrons at a time. Open
   Mon-Sat 10am-6pm appointments recommended.
-photo_name: ''
+photo_name: "/img/amy-nails.jpg"
 photo_alt: 'Nail Salon '
 property_category:
 - Personal services
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

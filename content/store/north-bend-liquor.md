@@ -1,7 +1,7 @@
 ---
 title: North Bend Liquor
 property_description: Liquor, beer, spirits, and more. Open daily
-photo_name: ''
+photo_name: "/img/coos-bay-liquor-store.jpg"
 photo_alt: North Bend Liquor
 property_category:
 - Liquor Stores/ Growler Fills
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
