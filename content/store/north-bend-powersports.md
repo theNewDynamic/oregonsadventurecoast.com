@@ -2,7 +2,7 @@
 title: North Bend Powersports
 property_description: Local Polaris dealership for all of your off-road needs. Open
   Mon-Sat 9am-6pm, Sun 9am-2pm.
-photo_name: ''
+photo_name: "/img/atv-cody-shot.jpg"
 photo_alt: ''
 property_category:
 - Sporting Goods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
