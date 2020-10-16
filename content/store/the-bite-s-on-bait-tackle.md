@@ -2,7 +2,7 @@
 title: The Bite's On Bait & Tackle
 property_description: Bait and tackle shop with knowledgable staff. These guys live
   and teach fishing! Open daily at 6:30am.
-photo_name: ''
+photo_name: "/img/fishing-poles-gear.jpg"
 photo_alt: ''
 property_category:
 - Sporting Goods
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

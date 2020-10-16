@@ -2,7 +2,7 @@
 title: The Studio LLC
 property_description: Full service salon, massage and cosmetic tattooing. Call for
   an appointment.
-photo_name: ''
+photo_name: "/img/hair-salon-stock-photo.jpg"
 photo_alt: ''
 property_category:
 - Personal services
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
