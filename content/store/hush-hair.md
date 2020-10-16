@@ -1,7 +1,7 @@
 ---
 title: Hush Hair
 property_description: Full service hair stylists. Call for appointment.
-photo_name: ''
+photo_name: "/img/hair-salon-stock-photo.jpg"
 photo_alt: Hush Hair Salon in Coos Bay.
 property_category:
 - Personal services
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

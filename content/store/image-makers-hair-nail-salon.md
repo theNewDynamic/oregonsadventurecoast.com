@@ -1,7 +1,7 @@
 ---
 title: Image Makers Hair & Nail Salon
 property_description: Full service hair & nails. Open Mon-Sat by appointment
-photo_name: ''
+photo_name: "/img/nail-salon-stock.jpg"
 photo_alt: Hair and Nails Salon in North Bend.
 property_category:
 - Personal services
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
