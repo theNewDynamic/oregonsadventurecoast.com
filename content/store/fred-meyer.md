@@ -2,7 +2,7 @@
 title: Fred Meyer
 property_description: Department Store with Grocery, Hot Deli, Pharmacy, Garden Center
   & Clothing. Open Daily.
-photo_name: ''
+photo_name: "/img/fredmeyer.jpg"
 photo_alt: ''
 property_category:
 - Vitamins
@@ -29,6 +29,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
