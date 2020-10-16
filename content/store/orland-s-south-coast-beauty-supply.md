@@ -2,7 +2,7 @@
 title: Orland's South Coast Beauty Supply
 property_description: Everything for your beauty needs, large selection of  wigs.
   Open Mon-Sat 10am-5:30pm.
-photo_name: ''
+photo_name: "/img/hair-salon-stock-photo.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
@@ -23,6 +23,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
