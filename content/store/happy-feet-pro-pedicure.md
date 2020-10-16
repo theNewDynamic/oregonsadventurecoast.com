@@ -1,7 +1,7 @@
 ---
 title: Happy Feet Pro Pedicure
 property_description: Pedicure salon. Open Tues-Fri 9am-5pm Appointments recommended.
-photo_name: ''
+photo_name: "/img/happy-feet-pedicure.jpg"
 photo_alt: Pedicure Salon in North Bend.
 property_category:
 - Personal services
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
