@@ -2,7 +2,7 @@
 title: King Kannabis
 property_description: Helpful staff to assist with your cannabis needs. Open daily
   10am-9pm
-photo_name: ''
+photo_name: "/img/cannibus.jpg"
 photo_alt: Cannabis shop in Coos Bay, Oregon
 property_category:
 - Herbals
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
