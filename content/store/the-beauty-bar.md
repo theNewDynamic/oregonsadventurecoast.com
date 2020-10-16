@@ -1,7 +1,7 @@
 ---
 title: The Beauty Bar
 property_description: hair, make-up, waxing, microblading & teeth whitening. By appointment
-photo_name: ''
+photo_name: "/img/hair-salon-stock-cutting-hair.jpg"
 photo_alt: ''
 property_category: []
 address:
@@ -20,6 +20,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
