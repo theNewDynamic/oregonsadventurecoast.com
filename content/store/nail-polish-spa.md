@@ -2,7 +2,7 @@
 title: Nail Polish Spa
 property_description: Manicures & pedicures. Open Mon-Sat 9:30am-7pm appointments
   recommended.
-photo_name: ''
+photo_name: "/img/amy-nails.jpg"
 photo_alt: Nail Polish Spa in Coos Bay, OR
 property_category:
 - Personal services
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
