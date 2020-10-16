@@ -2,7 +2,7 @@
 title: Harry Ritchies Jewelry
 property_description: Quality certified diamonds, engagements rings, bands and fine
   jewelry. Located in the Pony Village Mall. Open Noon-6pm daily.
-photo_name: ''
+photo_name: "/img/jewelry-stock-photo.jpg"
 photo_alt: Jeweler in North Bend.
 property_category:
 - Boutique
@@ -22,6 +22,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
