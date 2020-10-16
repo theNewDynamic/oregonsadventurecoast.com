@@ -1,7 +1,7 @@
 ---
 title: D's Scissors
 property_description: Hair, nails, waxing & massage. Call for appointment Mon-Sat.
-photo_name: ''
+photo_name: "/img/hair-salon-stock-photo.jpg"
 photo_alt: Coos Bay Salon
 property_category:
 - Personal services
@@ -21,6 +21,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
