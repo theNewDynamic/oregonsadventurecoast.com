@@ -32,6 +32,8 @@ fields:
     max: 
     source:
       type: simple
+    options:
+    - Test
   label: New Categories
   description: This is to add the New Categories which will soon replace the old one.
 - type: tag_list
