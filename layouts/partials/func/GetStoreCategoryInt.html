@@ -1,0 +1,64 @@
+{{/*
+  GetStoreCategoryInt
+  As Store categories are stored as strings (ex: Antiques) and the JS needs integer, this mapps them to a corresponding integer matching
+  the JS mapping in /src/js/store/store-categories.js
+
+  @author @regisphilibert
+
+  @context String (.)
+
+  @access private
+
+  @return Int
+
+  @example - Go Template
+    {{ $category_int := partialCached "func/GetStoreCategoryInt" "Antiques" "Antiques" }}
+*/}}
+{{ $return := 0 }}
+{{ $mapping := `
+- value: 1
+  label: Antiques
+- value: 3
+  label: Arts & Crafts
+- value: 4
+  label: Bookstores
+- value: 5
+  label: Boutique
+- value: 6
+  label: Clothing
+- value: 7
+  label: Florist
+- value: 8
+  label: Groceries
+- value: 9
+  label: Hardware
+- value: 10
+  label: Herbals
+- value: 11
+  label: Home Goods
+- value: 12
+  label: Personal services
+- value: 13
+  label: Pharmacy
+- value: 14
+  label: Resale
+- value: 15
+  label: Shoes
+- value: 16
+  label: Souvenirs
+- value: 17
+  label: Specialty Foods
+- value: 18
+  label: Sporting Goods
+- value: 19
+  label: Vitamins
+- value: 20
+  label: Liquor Stores/ Growler Fills
+` | transform.Unmarshal }}
+{{ range $mapping }}
+  {{ if eq .label $ }}
+    {{ $return = .value }}
+  {{ end }}
+{{ end }}
+
+{{ return $return }}

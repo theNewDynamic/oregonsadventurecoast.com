@@ -1,0 +1,21 @@
+export const StoreCategoryOptions = [
+  {value: 1, label: 'Antiques', class: ''},
+  {value: 3, label: 'Arts & Crafts', class: ''},
+  {value: 4, label: 'Bookstores', class: ''},
+  {value: 5, label: 'Boutique', class: ''},
+  {value: 6, label: 'Clothing', class: ''},
+  {value: 7, label: 'Florist', class: ''},
+  {value: 8, label: 'Groceries', class: ''},
+  {value: 9, label: 'Hardware', class: ''},
+  {value: 10, label: 'Herbals', class: ''},
+  {value: 11, label: 'Home Goods', class: ''},
+  {value: 12, label: 'Personal services', class: ''},
+  {value: 13, label: 'Pharmacy', class: ''},
+  {value: 14, label: 'Resale', class: ''},
+  {value: 15, label: 'Shoes', class: ''},
+  {value: 16, label: 'Souvenirs', class: ''},
+  {value: 17, label: 'Specialty Foods', class: ''},
+  {value: 18, label: 'Sporting Goods', class: ''},
+  {value: 19, label: 'Vitamins', class: ''},
+  {value: 20, label: 'Liquor Stores/ Growler Fills', class: ''}
+];
