@@ -24,6 +24,16 @@ fields:
   name: tags
   label: Tags
   description: Hit the TAB key after each Tag is entered.
+- name: new_categories
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: simple
+  label: New Categories
+  description: This is to add the New Categories which will soon replace the old one.
 - type: tag_list
   name: categories
   label: Categories
