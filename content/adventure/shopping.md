@@ -1,4 +1,5 @@
 ---
+layout: shoppingpage
 title: Shopping
 aliases:
 - "/activities/category/shopping"
