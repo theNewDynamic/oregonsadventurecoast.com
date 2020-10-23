@@ -14,9 +14,11 @@ import Dining from './dining/Dining';
 
 import {entryAmenityOptions as LodgingAmenityOptions} from './lodging/lodging-amenities';
 import {LodgingCategoryOptions} from './lodging/lodging-categories';
+import {ShoppingCategoryOptions} from './store/store-categories';
 
 import {DINING_FILTER_MATCH_BY} from './dining/dining-filter-match-by';
 import {LODGING_FILTER_MATCH_BY} from './lodging/lodging-filter-match-by';
+import {SHOPPING_FILTER_MATCH_BY} from './lodging/lodging-filter-match-by';
 
 let Entries = "";
 let entryAmenityOptions = "";
@@ -32,6 +34,11 @@ if (entriesType == "lodging") {
 else if (entriesType == "dining") {
     Entries = Dining;
     ENTRY_FILTER_MATCH_BY = DINING_FILTER_MATCH_BY;
+}
+else if (entriesType == "shopping") {
+    Entries = Lodging;
+    entryCategoryOptions = ShoppingCategoryOptions;
+    ENTRY_FILTER_MATCH_BY = SHOPPING_FILTER_MATCH_BY;
 }
 
 function buildEntries() {
@@ -110,6 +117,27 @@ function buildEntries() {
                 outputEntries(entryList);
                 buildFilterMenu('category', '#filter-by-category', fullEntriesList, true, 'All Categories');
                 buildFilterMenu('city', '#filter-by-city', fullEntriesList, false, 'All Cities');
+                console.log(JSON.stringify(entryList, null, 2));
+            })
+            .fail(function(jqXHR, status, error) {
+                console.log(status);
+            });
+        }
+        else if (entriesType == "shopping") {
+            $.ajax({
+                url: api_url + '/data-api/index.php?method=get&type=store',
+                dataType: 'jsonp',
+                contentType: 'application/json; charset=utf-8'
+            })
+    	    $.getJSON('/store/index.json', (data) => {
+                fullEntriesList = _.cloneDeep(data);
+                entryList = data;
+                entryList = sortMenu.sortAscending(entryList, 'property_name');
+                resetPagination(entryList);
+                outputEntries(entryList);
+                buildFilterMenu('property_category', '#filter-by-category', fullEntriesList, false, 'All Categories', entryCategoryOptions);
+                buildFilterMenu('city', '#filter-by-city', fullEntriesList, false, 'All Cities');
+                console.log(JSON.stringify(entryList, null, 2));
             })
             .fail(function(jqXHR, status, error) {
                 console.log(status);
