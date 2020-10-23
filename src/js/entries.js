@@ -14,7 +14,7 @@ import Dining from './dining/Dining';
 
 import {entryAmenityOptions as LodgingAmenityOptions} from './lodging/lodging-amenities';
 import {LodgingCategoryOptions} from './lodging/lodging-categories';
-import {ShoppingCategoryOptions} from './store/store-categories';
+import {StoreCategoryOptions} from './store/store-categories';
 
 import {DINING_FILTER_MATCH_BY} from './dining/dining-filter-match-by';
 import {LODGING_FILTER_MATCH_BY} from './lodging/lodging-filter-match-by';
@@ -37,7 +37,7 @@ else if (entriesType == "dining") {
 }
 else if (entriesType == "shopping") {
     Entries = Lodging;
-    entryCategoryOptions = ShoppingCategoryOptions;
+    entryCategoryOptions = StoreCategoryOptions;
     ENTRY_FILTER_MATCH_BY = SHOPPING_FILTER_MATCH_BY;
 }
 
