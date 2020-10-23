@@ -11,6 +11,7 @@ import Map from './maps/Map';
 
 import Lodging from './lodging/Lodging';
 import Dining from './dining/Dining';
+import Store from './store/Store';
 
 import {entryAmenityOptions as LodgingAmenityOptions} from './lodging/lodging-amenities';
 import {LodgingCategoryOptions} from './lodging/lodging-categories';
@@ -18,7 +19,7 @@ import {StoreCategoryOptions} from './store/store-categories';
 
 import {DINING_FILTER_MATCH_BY} from './dining/dining-filter-match-by';
 import {LODGING_FILTER_MATCH_BY} from './lodging/lodging-filter-match-by';
-import {SHOPPING_FILTER_MATCH_BY} from './lodging/lodging-filter-match-by';
+import {SHOPPING_FILTER_MATCH_BY} from './store/store-filter-match-by';
 
 let Entries = "";
 let entryAmenityOptions = "";
@@ -36,7 +37,7 @@ else if (entriesType == "dining") {
     ENTRY_FILTER_MATCH_BY = DINING_FILTER_MATCH_BY;
 }
 else if (entriesType == "shopping") {
-    Entries = Lodging;
+    Entries = Store;
     entryCategoryOptions = StoreCategoryOptions;
     ENTRY_FILTER_MATCH_BY = SHOPPING_FILTER_MATCH_BY;
 }
