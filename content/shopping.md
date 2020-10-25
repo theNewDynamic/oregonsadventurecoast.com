@@ -1,8 +1,7 @@
 ---
+layout: shoppingpage
 title: Shopping
-aliases:
-- "/activities/category/shopping"
-url: "/shopping"
+url: "/shoppingpage"
 photo: "/img/shopping-sub-header.jpg"
 seo:
   description: Discover one of the best things to do on your Oregon Coast trip - shopping!
