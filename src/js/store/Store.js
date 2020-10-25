@@ -11,32 +11,12 @@ export default class Store {
     }
 
     /**
-     * Handles sorting the list by Hotels/Motels (alpha), RV Parks (alpha), then Vacation Rentals (alpha)
-     * @param {array} list - list of lodging data
-     * @return {array} - sorted list of lodging data
-     */
-    sortByInitialPriority(list) {
-        let hotels = _.filter(list, {'property_category': '1'});
-        let bandb = _.filter(list, {'property_category': '3'});
-        let rvparks = _.filter(list, {'property_category': '2'});
-        let rentals = _.filter(list, {'property_category': '4'});
-
-        hotels = _.orderBy(hotels, ['title'], ['asc']);
-        bandb = _.orderBy(bandb, ['title'], ['asc']);
-        rvparks = _.orderBy(rvparks, ['title'], ['asc']);
-        rentals = _.orderBy(rentals, ['title'], ['asc']);
-
-        return hotels.concat(bandb, rvparks, rentals);
-    }
-
-    /**
      * Returns a template with lodging values filled in
      * @param {object} - one row from the lodging array of data
      * @return {string} - string of the template data
      */
     generateTemplate(val) {
         let category = this.generateCategoryTpl(val.property_category);
-        let units = this.generateUnitsTpl(val.units);
         let phoneDiv = this.generatePhoneDivTpl(val.phone_local, val.phone_toll_free);
         let street = this.generateStreetTpl(val.street, val.street2);
         let mapLink = this.googleMapLink.getLink(val.street, val.street2, val.city, val.state, val.zip, val.title);
