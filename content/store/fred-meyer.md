@@ -5,8 +5,8 @@ property_description: Department Store with Grocery, Hot Deli, Pharmacy, Garden 
 photo_name: "/img/fredmeyer.jpg"
 photo_alt: ''
 property_category:
-- Groceries
 - Vitamins
+- Groceries
 - Shoes
 - Pet Products
 - Pharmacy
