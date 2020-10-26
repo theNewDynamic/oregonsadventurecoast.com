@@ -9,7 +9,7 @@ property_category:
 address:
   street: 1611 Virginia Ave. Suite 156
   street2: ''
-  city: North Bends
+  city: North Bend
   zip: '97459'
 phone_local: "(541) 217-8931"
 phone_toll_free: ''
