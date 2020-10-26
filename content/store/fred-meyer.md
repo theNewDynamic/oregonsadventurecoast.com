@@ -5,6 +5,7 @@ property_description: Department Store with Grocery, Hot Deli, Pharmacy, Garden 
 photo_name: "/img/fredmeyer.jpg"
 photo_alt: ''
 property_category:
+- Groceries
 - Vitamins
 - Shoes
 - Pet Products
@@ -12,7 +13,6 @@ property_category:
 - Home Goods
 - Hardware
 - Clothing
-- Groceries
 address:
   street: 1020 S 1st Street
   street2: ''

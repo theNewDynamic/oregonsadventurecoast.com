@@ -3,7 +3,8 @@ title: The Beauty Bar
 property_description: hair, make-up, waxing, microblading & teeth whitening. By appointment
 photo_name: "/img/hair-salon-stock-cutting-hair.jpg"
 photo_alt: ''
-property_category: []
+property_category:
+- Personal services
 address:
   street: 1782 Virginia Ave
   street2: ''

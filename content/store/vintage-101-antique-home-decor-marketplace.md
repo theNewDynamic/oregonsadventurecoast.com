@@ -4,7 +4,8 @@ property_description: 20+ vendor marketplace featuring antique and vintage merch
   Open Tues-Sat 11am-4pm
 photo_name: "/img/vintage101retail.jpg"
 photo_alt: ''
-property_category: []
+property_category:
+- Antiques
 address:
   street: 270 S. Broadway
   street2: ''

@@ -4,7 +4,9 @@ property_description: Featuring keepsakes made by Coquille Tribal members, inclu
   jewelry and art. There is something for everyone in this unique shop. Open daily.
 photo_name: "/img/kokwelretailpg.jpg"
 photo_alt: ''
-property_category: []
+property_category:
+- Boutique
+- Souvenirs
 address:
   street: 3201 Tremont Street
   street2: ''
