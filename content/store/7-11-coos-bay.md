@@ -14,8 +14,8 @@ phone_local: "(541) 269-0884"
 phone_toll_free: ''
 website: https://www.7-eleven.com/
 coordinates:
-  lat: '43.21223'
-  lng: "-124.12208"
+  lat: '43.356188'
+  lng: "-124.205762"
 seo:
   title: Coos Bay 7-11
   description: Groceries, snacks, drinks open 24/7
