@@ -54,6 +54,8 @@
   label: Vitamins
 - value: 20
   label: Liquor Stores/ Growler Fills
+- value: 21
+  label: Pet Products
 ` | transform.Unmarshal }}
 {{ range $mapping }}
   {{ if eq .label $ }}

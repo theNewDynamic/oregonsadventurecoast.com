@@ -6,12 +6,14 @@
 {{ $s.SetInMap "item" "photo_name" .Params.photo_name }}
 {{ $s.SetInMap "item" "photo_alt" .Params.photo_alt }}
 {{ $s.SetInMap "item" "property_name" (default .Title .Params.property_name ) }}
+{{ $categories := slice }}
 {{ with .Params.property_category }}
-  {{ with index . 0 }}
+  {{ range . }}
     {{ with partialCached "func/GetStoreCategoryInt" . . }}
-      {{ $s.SetInMap "item" "property_category" . }}
+      {{ $categories = $categories | append . }}
     {{ end }}
   {{ end }}
+  {{ $s.SetInMap "item" "property_category" $categories }}
 {{ end }}
 
 {{ $s.SetInMap "item" "street" .Params.address.street }}

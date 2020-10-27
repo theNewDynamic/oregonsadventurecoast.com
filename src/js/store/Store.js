@@ -36,7 +36,7 @@ export default class Store {
                     <h2>${val.title}</h2>
                     <p class="address">
                         ${street}
-                        ${val.city}, ${val.state} ${val.zip}<br>
+                        ${val.city}, ${val.state || 'OR'} ${val.zip}<br>
                         ${val.phone_local} ${phoneDiv} ${val.phone_toll_free ? val.phone_toll_free : ''}
                     </p>
                 </div>

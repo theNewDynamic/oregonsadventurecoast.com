@@ -17,5 +17,6 @@ export const StoreCategoryOptions = [
   {value: 17, label: 'Specialty Foods', class: ''},
   {value: 18, label: 'Sporting Goods', class: ''},
   {value: 19, label: 'Vitamins', class: ''},
-  {value: 20, label: 'Liquor Stores/ Growler Fills', class: ''}
+  {value: 20, label: 'Liquor Stores/ Growler Fills', class: ''},
+  {value: 21, label: 'Pet Products', class: ''}
 ];
