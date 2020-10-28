@@ -16,7 +16,11 @@ export default class Store {
      * @return {string} - string of the template data
      */
     generateTemplate(val) {
-        let category = this.generateCategoryTpl(val.property_category);
+        let categories = this.generateCategoryTpl(val.property_category);
+        let categoryLabels = []
+        _.forEach(categories, function(value){
+            categoryLabels.push(value.label)
+        })
         let phoneDiv = this.generatePhoneDivTpl(val.phone_local, val.phone_toll_free);
         let street = this.generateStreetTpl(val.street, val.street2);
         let mapLink = this.googleMapLink.getLink(val.street, val.street2, val.city, val.state, val.zip, val.title);
@@ -29,7 +33,7 @@ export default class Store {
         
             <div class="content marker-content">
                 <div class="category">
-                    ${category.label}
+                    ${categoryLabels.join(' | ')}
                 </div>
         
                 <div class="location">
@@ -63,12 +67,16 @@ export default class Store {
      * @return {string} - category name
      */
     generateCategoryTpl(cat) {
-        let catTpl = this.findOptionData.find(entryCategoryOptions, cat);
-        
-        if (catTpl !== undefined) {
-            return catTpl;
+        if(typeof cat !== "undefined") {
+            let cats = []
+            cat.forEach(function(value){
+                const tpl = this.findOptionData.find(entryCategoryOptions, value)
+                if (tpl !== undefined) {
+                    cats.push(tpl)
+                }
+            }, this)
+            return cats
         }
-
         return {label: ''};
     }
 

@@ -135,7 +135,7 @@ function buildEntries() {
                 entryList = sortMenu.sortAscending(entryList, 'property_name');
                 resetPagination(entryList);
                 outputEntries(entryList);
-                buildFilterMenu('property_category', '#filter-by-category', fullEntriesList, false, 'All Categories', entryCategoryOptions);
+                buildFilterMenu('property_category', '#filter-by-category', fullEntriesList, true, 'All Categories', entryCategoryOptions);
                 buildFilterMenu('city', '#filter-by-city', fullEntriesList, false, 'All Cities');
             })
             .fail(function(jqXHR, status, error) {
@@ -208,10 +208,10 @@ function buildEntries() {
          */
         function findFilterMenuItems(key, list, arrayOfArrays, sort) {
             let menu = [];
-
             if (!arrayOfArrays) {
                 // loops through list looking for key
                 menu = _.uniq(_.map(list, key));
+    
             } else {
                 menu = _.uniq(_.flattenDeep(_.map(list, key)));
             }
@@ -250,7 +250,6 @@ function buildEntries() {
             }
 
             let menu = findFilterMenuItems(key, list, arrayOfArrays, sortMenu);
-
             // Setup select all option
             filterMenuHtml = filterMenuHtml + getFilterMenuTpl('SELECT_ALL', [{value: 'SELECT_ALL', label: selectAllLabel}]);
 
