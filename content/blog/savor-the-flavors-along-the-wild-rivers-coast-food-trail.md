@@ -1,6 +1,6 @@
 ---
 title: 'Savor the Flavors Along the Wild Rivers Coast Food Trail '
-date: 2020-09-25T04:00:00+00:00
+date: 2020-09-25T04:00:00.000+00:00
 description: This fall, treat yourself to a one-of-a-kind tasting adventure you can
   only find along the Wild Rivers Coast Food Trail, a collaborative effort to connect
   locals and visitors to the bounty available on Oregon’s South Coast.
@@ -32,6 +32,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+new_categories: []
 
 ---
 **_Get Your Local Food Fix and Let Your Taste Buds Run Wild This Fall_**
@@ -58,9 +59,9 @@ We are especially proud to have multiple businesses representing Oregon’s Adve
 >
 > **Tokyo Bistro**, with world-class sushi, fresh-caught seafood, local wine and sake, intimate dining, and a hip atmosphere. Reservations suggested. 525 Newmark Ave., Coos Bay 541.808.0808 • [tokyocoosbay.com](https://www.tokyocoosbay.com/)
 >
-> **Shark Bites Seafood Cafe**, known for its famous fish tacos, burgers, ocean fare, fish market, and happy hour. 240 South Broadway Ave., Coos Bay 541.269.7475 • sharkbites.cafe
+> **Shark Bites Seafood Cafe**, known for its famous fish tacos, burgers, ocean fare, fish market, and happy hour. 240 South Broadway Ave., Coos Bay 541.269.7475 • [sharkbites.cafe](http://www.sharkbites.cafe/)
 >
-> **Bayside Coffee & Tea**, offering organic fair trade coffee, house-roasted coffee beans, espresso, coffee, tea, snacks, fair trade gift 63340 Boat Basin Rd., Charleston 541.260.3742 • [baysidecoffeeshop.com](http://www.sharkbites.cafe/)
+> **Bayside Coffee & Tea**, offering organic fair trade coffee, house-roasted coffee beans, espresso, coffee, tea, snacks, fair trade gift 63340 Boat Basin Rd., Charleston 541.260.3742 • [baysidecoffeeshop.com](https://www.baysidecoffeeshop.com/)
 >
 > **7 Devils Brewing Co.** where you can indulge in local microbrews, cider, local food and music. Open patio, pet and family friendly! 247 S. Second St., Coos Bay 541.808.3738 • [7devilsbrewery.com](https://www.7devilsbrewery.com/#/)
 >
