@@ -52,11 +52,11 @@ The park is open every day from 8 a.m. to dusk. More Info: Shore Acres State Par
 
 **Simpson Beach (situated directly below Shore Acres)**
 
-A winding path takes you to this secluded ocean cove. You’ll find a small sandy beach bounded by high cliff walls, crashing waves, and views of seals and sea lions and other wildlife. Please do not bother the seal pups you may find on the beach. They are not lost, only waiting for mom to return. And that log that just moved, that’s actually a seal sunning himself, or herself, on this beautiful stretch of sand!
+A winding path takes you to this secluded ocean cove. You’ll find a small sandy beach bounded by high cliff walls, crashing waves, and views of seals and sea lions and other wildlife. Please do not bother the seal pups you may find on the beach. They are not lost, only waiting for mom to return. And that log that just moved, that’s actually a seal sunning himself, or herself, on this beautiful stretch of sand! _(Note: please do not disturb the seals or sea lions you find on the beach.)_
 
 **Shell Island**
 
-Part of the Oregon Islands National Wildlife Refuge, Shell Island and the surrounding reefs provide breeding and rest areas for sea birds and Marine mammals. Gray whales, Northern Elephant Seals, Harbor Seals, Sea Lions, Stellar Sea Lions, Black Oystercatchers, Great Blue Herons and Pelagic Cormorants can all be viewed at the Shell Island Interpretive Stop. There is no public access to the island itself, but viewing points can also be found here and at both Shore Acres State Park and Cape Arago State Park. 
+Part of the Oregon Islands National Wildlife Refuge, Shell Island and the surrounding reefs provide breeding and rest areas for sea birds and Marine mammals. Gray whales, Northern Elephant Seals, Harbor Seals, Sea Lions, Stellar Sea Lions, Black Oystercatchers, Great Blue Herons and Pelagic Cormorants can all be viewed at the Shell Island Interpretive Stop. There is no public access to the island itself, but viewing points can also be found here and at both Shore Acres State Park and Cape Arago State Park.
 
 **PRO Tip: Be sure to pack a pair of binoculars so you can view the playful sea lions, harbor seals, and occasional elephant seals from the viewing area overlooking Shell Island.**
 
@@ -66,7 +66,6 @@ From the overlook head south to the end of the roadway at [Cape Arago State Park
 
 After your morning adventures, break for some midday Fish ’n Chips at[ Miller’s at the Cove](https://www.millersatthecove.rocks/) or award-winning chowder at [High Tide Cafe](http://hightidecafeoregon.com/). You’ll also enjoy exploring what’s fresh in the retail fish market, [Chuck’s Seafood](https://www.chucksseafood.com/), or add to your adventure and buy directly off the boats in the marina. Chuck’s can ship fresh seafood or you can purchase the canned catches from Charleston. If there’s time, we recommend exploring the eclectic shops in Charleston, you never know what you’ll find! With it’s top-notch outdoor clothing and fishing gear, [Englund Marine](http://www.englundmarine.com/) is the place for outdoor enthusiasts. Don’t miss [Kinnee’s Gifts and Shells](http://www.yelp.com/biz/kinnees-giftsn-shells-coos-bay), featuring trinkets and other coastal items along with [Davey Jones Locker](https://www.facebook.com/Davey-Jones-Locker-275312836004/) on Cape Arago Highway (you can’t miss it), featuring an eclectic mix of merchandise.
 
-  
 After lunch, we recommend an afternoon walk on [Bastendorff Beach](http://www.co.coos.or.us/Departments/CoosCountyParks/Bastendorff.aspx), located 1⁄4 mile off the [Cape Arago State Highway](http://www.oregonsadventurecoast.com/trip-ideas/explore-the-cape-arago-beach-loop/), about two miles west of Charleston. This local gem is never crowded and is a favorite among surfers, kiters, campers, beachcombers and everyone in between.
 
 End the day with a stop at [Stillwagon Distillery](http://stillwagondistillery.com) (by appointment only), where you can taste handcrafted rum, vodka and whiskey before heading over to [The Cape Cafe ](https://theworldlink.com/cape-cafe-this-is-one-shipwreck-youll-want-to-try/article_86cd23be-c5a4-5245-9e61-a486c422e1ca.html)for the “Shipwreck Cheeseburger” or [The Portside Restaurant](http://www.portsidebythebay.com/) for a fresh seafood dinner overlooking the water.
@@ -75,7 +74,6 @@ End the day with a stop at [Stillwagon Distillery](http://stillwagondistillery.c
 
 Start your morning with a nice hearty breakfast at [Ocean Air Taqueria & Eatery](https://www.zmenu.com/ocean-air-taqueria-and-eatery-charleston-online-menu/) before taking a morning stroll along the [Charleston Marina Complex](http://www.portofcoosbay.com/marinahome/). This is one of our favorite spots to watch the busy commercial and recreational fleets come and go as the fishermen bring in the day’s catch. With nearly 200 commercial fishing boats and 250 or so recreational boats, the docks and boatyard are busy year-round.
 
-  
 ![](/img/charleston-oregon-travel-itinerary-blog-695x322-jpg-2.png)
 
 Your next stop will be the [South Slough National Estuarine Research Reserve](http://www.oregon.gov/dsl/SS/Pages/About.aspx) where you can explore miles of beautiful wooded trails, explore open water channels, tidal and freshwater wetlands, riparian areas, and forested uplands. Take a self-guided tour through this protected area of land and estuary and you’ll likely spot a variety of birds like Bald Eagles, Osprey, Great Blue Herons, Egrets and Belted Kingfishers.
@@ -91,7 +89,6 @@ When you’ve had your fill of nature, grab a quick bite at [Monkey Business Foo
 
 Our local crabbing experts are always happy to help point you in the right direction! Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores like [Basin Tackle Shop](https://www.facebook.com/basintacklecharleston/) and Davey Jones Locker. [Click here](https://www.oregonsadventurecoast.com/blog/2020-1-22-the-best-dungeness-crab-on-oregons-coast/) for more crabbing tips.
 
-  
 ![](/img/charleston-oregon-travel-itinerary-blog-695x322-jpg-3.png)
 
 If you need a break from all the hustle and bustle of the “real world” this fall, we’re here for you! There’s plenty of room for you to spread out and keep yourself and our community safe. For more travel inspiration, see our [Adventures page](https://www.oregonsadventurecoast.com/adventures) and our [Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast! Or [request a visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform). Please be sure to follow Oregon’s [Safe+Strong guidelines](https://govstatus.egov.com/reopening-oregon) and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). Do not hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
