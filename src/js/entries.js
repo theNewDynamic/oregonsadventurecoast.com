@@ -216,9 +216,12 @@ function buildEntries() {
                 menu = _.uniq(_.flattenDeep(_.map(list, key)));
             }
 
-            //if (sort === true) {
-                menu.sort(); // Forcing sort to always run.
-            //}
+            if (sort === true) {
+                menu.sort((a,b)=>a-b); // Numeric Sort
+            }
+            else {
+                menu.sort();
+            }
 
             // Getting rid of undefined in the list, somehow it got in.
             _.remove(menu, function(item){
@@ -243,13 +246,13 @@ function buildEntries() {
                 labels
             ) {
             let filterMenuHtml = '';
-            let sortMenu = false;
+            let sortMenuNumeric = false;
 
             if (labels !== undefined) {
-                sortMenu = true;
+                sortMenuNumeric = true;
             }
 
-            let menu = findFilterMenuItems(key, list, arrayOfArrays, sortMenu);
+            let menu = findFilterMenuItems(key, list, arrayOfArrays, sortMenuNumeric);
             // Setup select all option
             filterMenuHtml = filterMenuHtml + getFilterMenuTpl('SELECT_ALL', [{value: 'SELECT_ALL', label: selectAllLabel}]);
 
