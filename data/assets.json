@@ -8,8 +8,8 @@
     "jsIntegrity": "sha256-2u6zyqnTe4Gr9Niu0ZQIne14lcyn6nwKfRFYqtVCnEo="
   },
   "entries": {
-    "js": "/dist/entries.c35abd6ba090eaa0f47f.js",
-    "jsIntegrity": "sha256-764Vb/h3fSambRRu3fVcFHZ6mXvmK0RiInl/t+ouTIk="
+    "js": "/dist/entries.23bc594f3de3a40f3574.js",
+    "jsIntegrity": "sha256-nqrD8KqLIqwGFiT82ZhDhJjG3LS/BWx40JSiMOC2Ytg="
   },
   "equipment": {
     "js": "/dist/equipment.d066cb6bd7bf46b375ba.js",
