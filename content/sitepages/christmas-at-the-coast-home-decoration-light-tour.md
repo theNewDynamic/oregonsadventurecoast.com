@@ -13,7 +13,7 @@ accordion_sections: []
 boxes: []
 
 ---
-![](/img/catc-logos-final-09-20.jpg)
+![](/img/catc-form-header-695x322-v02-1.jpg)
 
 #### Online sign up to be on the map is now closed, but we invite you to still decorate your house or business and light up the Coast this Holiday Season.
 
