@@ -1,6 +1,6 @@
 ---
 title: Steve’s ATV Rental
-photo_name: "/img/store_000.jpg"
+photo_name: "/img/dunes-dune-buggy-riding.jpg"
 photo_alt: Steve's ATV Rental
 property_name: Steve’s ATV Rental
 equip_type:
