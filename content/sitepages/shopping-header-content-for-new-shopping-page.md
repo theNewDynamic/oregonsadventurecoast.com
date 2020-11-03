@@ -16,10 +16,4 @@ draft: true
 ---
 Not all adventures take place outside! Shopping is one adventure that takes you into some eclectic businesses, including antique and kitchy shops, all over the Coos Bay, North Bend & Charleston area.
 
-{{< floatimage src="/img/walking-map-icon.png" float="left" alt="Downtown Walking Map Icon" size="100" >}}
-
-#### Explore Our Downtown Walking Maps
-
-[Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.](https://app.forestry.io/sites/i-pbgsi-1h8yyg/body-media//img/walking-map-cbnb.pdf)  
-Find a mapped list of restaurants, public spaces, retail and entertainment,  
-in our walkable downtowns.
+[Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.](https://app.forestry.io/sites/i-pbgsi-1h8yyg/body-media//img/walking-map-cbnb.pdf) Find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns.
