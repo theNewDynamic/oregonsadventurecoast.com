@@ -16,6 +16,8 @@ draft: true
 ---
 Not all adventures take place outside! Shopping is one adventure that takes you into some eclectic businesses, including antique and kitchy shops, all over the Coos Bay, North Bend & Charleston area.
 
-Hunting for that special something or stumbling across a treasure you didn't even know you were looking for can make your next trip to Oregon's Adventure Coast, well, an Adventure you didn't expect!
+{{< floatimage src="/img/walking-map-icon.png" float="left" alt="Downtown Walking Map Icon" size="100" >}}
 
-<div class="margin-30px-top"></div>
+#### Explore Our Downtown Walking Maps
+
+[Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.](https://app.forestry.io/sites/i-pbgsi-1h8yyg/body-media//img/walking-map-cbnb.pdf)Find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns.
