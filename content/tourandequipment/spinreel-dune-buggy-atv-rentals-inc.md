@@ -1,6 +1,6 @@
 ---
 title: Spinreel Dune Buggy & ATV Rentals, Inc
-photo_name: "/img/spinreel.jpg"
+photo_name: "/img/spinreel-atv-rental.jpg"
 photo_alt: Spinreal Dune Buggy & ATV Rentals Girl on Buggy
 property_name: Spinreel Dune Buggy & ATV Rentals, Inc
 equip_type:
