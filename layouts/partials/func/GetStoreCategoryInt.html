@@ -37,25 +37,26 @@
 - value: 11
   label: Home Goods
 - value: 12
-  label: Personal services
-- value: 13
-  label: Pharmacy
-- value: 14
-  label: Resale
-- value: 15
-  label: Shoes
-- value: 16
-  label: Souvenirs
-- value: 17
-  label: Specialty Foods
-- value: 18
-  label: Sporting Goods
-- value: 19
-  label: Vitamins
-- value: 20
   label: Liquor Stores/ Growler Fills
-- value: 21
+- value: 13
+  label: Personal services
+- value: 14
   label: Pet Products
+- value: 15
+  label: Pharmacy
+- value: 16
+  label: Resale
+- value: 17
+  label: Shoes
+- value: 18
+  label: Souvenirs
+- value: 19
+  label: Specialty Foods
+- value: 20
+  label: Sporting Goods
+- value: 21
+  label: Vitamins
+
 ` | transform.Unmarshal }}
 {{ range $mapping }}
   {{ if eq .label $ }}
