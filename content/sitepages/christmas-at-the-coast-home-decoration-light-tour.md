@@ -1,7 +1,7 @@
 ---
 title: Christmas at the Coast Home Decoration Light Tour
 url: home-light-tour
-layout: headless
+layout: contact
 photo: ''
 seo:
   title: ''
