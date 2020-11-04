@@ -33,14 +33,13 @@ aliases: []
 ![](/img/catc-form-header-695x322-v02-1.jpg)
 
 #### Shore Acres will be dark this year, but residents and businesses all over Oregon's Adventure Coast will light up the night sky to show our holiday spirit!
-
+{{< spacer 20 >}}
 From **Thanksgiving night to New Year's Eve 2020**, neighborhoods and business districts will light up for the holidays. Pick up a map from the Coos Bay and North Bend Visitor Information Centers and delight to the sights of Christmas as you drive around our beautiful communities.
 
 When you visit and stay at one of our lodging properties, bring your receipt to either visitor center to receive a special commemorative, dated ornament!
 
 ### Schedule of Events for Christmas at the Coast 2020
-
-
+{{< spacer 20 >}}
 #### November 13-14<br>Downtown Coos Bay Holiday Open House
 Visit participating businesses in Downtown Coos Bay during the Holiday Open House and enter to win door prizes! Shop for the holidays and keep your receipts to receive a commemorative mug. *
 
@@ -66,6 +65,6 @@ The Empire District of Coos Bay will hold their annual Tree Lighting Virtually t
 
 {{< vimeo "473636830" >}}
 
-{{< spacer 100 >}}
+{{< spacer 50 >}}
 
 _*All participating businesses are following recommended COVID guidelines so be sure to wear your mask and practice social distancing._
