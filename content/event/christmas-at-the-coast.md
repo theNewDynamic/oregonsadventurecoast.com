@@ -56,10 +56,20 @@ Follow the map of locations all around Oregon's Adventure Coast, and some of our
 
 Santa is Coming to Coos Bay! Santa will be at 3rd & Central in Downtown Coos Bay from 1pm-5pm. Follow the signs that will direct you on a Drive By to see Santa. Kids, bring your letters to Santa filled with your Christmas wishes. Put your letter in Santa's mailbox and his elves will give you a candy cane! Santa will be escorted to the Coos Bay Visitor Center Parking Lot where he will light the Coos Bay Tree at 5:30pm. Parking will be limited, so the Tree Lighting will be Live Streamed on Facebook!
 
+##### December 5 - North Bend Annual Lighted Parade at Pony Village Mall
+
+The 2020 Christmas Light Parade will be a bit different from years past.There will still be all the fancy decorated Trucks - however, Parade vehicles will be parked and you will drive around them instead of watching them pass you by. Pony Village Mall has made space in their parking lot for this fun Holiday Tradition.
+
+{{< spacer 50 >}}
+
 #### More Event Details Coming Soon!!!
 
-_*All participating businesses are following recommended COVID guidelines so be sure to wear your mask and practice social distancing._
+{{< spacer 50 >}}
 
 **Still Missing Shore Acres Holiday Lights Display? We are too. But our friends at Shore Acres and Epuerto put together a wonderful Video as a Virtual Tour of Last Year's Lights. (click on the picture below)**
 
 ![](/img/holiday-lights-shore-acres-panoramic.jpg)
+
+{{< spacer 100 >}}
+
+_*All participating businesses are following recommended COVID guidelines so be sure to wear your mask and practice social distancing._
