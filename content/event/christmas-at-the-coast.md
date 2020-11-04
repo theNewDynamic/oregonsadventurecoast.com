@@ -50,7 +50,7 @@ Keep your receipts for all purchases made in Downtown Coos Bay between November 
 
 ##### November 27-December 31 - Christmas at the Coast Home/Business Driving Tour
 
-Follow the map of locations all around Oregon's Adventure Coast, and some of our neighboring communities too, to light displays at homes and businesses. 
+Follow the map of locations all around Oregon's Adventure Coast, and some of our neighboring communities too, to light displays at homes and businesses.
 
 ##### November 28 - Drive By Santa and Tree Lighting in Downtown Coos Bay
 
@@ -59,3 +59,7 @@ Santa is Coming to Coos Bay! Santa will be at 3rd & Central in Downtown Coos Bay
 #### More Event Details Coming Soon!!!
 
 _*All participating businesses are following recommended COVID guidelines so be sure to wear your mask and practice social distancing._
+
+**Still Missing Shore Acres Holiday Lights Display? We are too. But our friends at Shore Acres and Epuerto put together a wonderful Video as a Virtual Tour of Last Year's Lights. (click on the picture below)**
+
+![](/img/holiday-lights-shore-acres-panoramic.jpg)
