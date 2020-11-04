@@ -30,7 +30,7 @@ smallboxphoto: "/img/Tree-Lighting-coosbay-340x214.jpg"
 aliases: []
 
 ---
-![](/img/catc-logos-final-09-20.jpg)
+![](/img/catc-form-header-695x322-v02-1.jpg)
 
 #### Shore Acres will be dark this year, but residents and businesses all over Oregon's Adventure Coast will light up the night sky to show our holiday spirit!
 
@@ -38,4 +38,24 @@ From **Thanksgiving night to New Year's Eve 2020**, neighborhoods and business d
 
 When you visit and stay at one of our lodging properties, bring your receipt to either visitor center to receive a special commemorative, dated ornament!
 
-**More Information Coming Soon!**
+### Schedule of Events for Christmas at the Coast 2020
+
+##### November 13-14 - Downtown Coos Bay Holiday Open House
+
+Visit participating businesses in Downtown Coos Bay during the Holiday Open House and enter to win door prizes! Shop for the holidays and keep your receipts to receive a commemorative mug. *
+
+##### November 13-28 - Downtown Coos Bay Commemorative Mug and Shop Small Saturday
+
+Keep your receipts for all purchases made in Downtown Coos Bay between November 13 and November 28. Collect $100 in receipts, bring those receipts to Jennie's Shoes (262 Central Ave) and receive a commemorative mug! Shop Small Saturday encourages us to shop at small, local shops this holiday season. *
+
+##### November 27-December 31 - Christmas at the Coast Home/Business Driving Tour
+
+Follow the map of locations all around Oregon's Adventure Coast, and some of our neighboring communities too, to light displays at homes and businesses. 
+
+##### November 28 - Drive By Santa and Tree Lighting in Downtown Coos Bay
+
+Santa is Coming to Coos Bay! Santa will be at 3rd & Central in Downtown Coos Bay from 1pm-5pm. Follow the signs that will direct you on a Drive By to see Santa. Kids, bring your letters to Santa filled with your Christmas wishes. Put your letter in Santa's mailbox and his elves will give you a candy cane! Santa will be escorted to the Coos Bay Visitor Center Parking Lot where he will light the Coos Bay Tree at 5:30pm. Parking will be limited, so the Tree Lighting will be Live Streamed on Facebook!
+
+#### More Event Details Coming Soon!!!
+
+_*All participating businesses are following recommended COVID guidelines so be sure to wear your mask and practice social distancing._
