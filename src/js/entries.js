@@ -11,12 +11,15 @@ import Map from './maps/Map';
 
 import Lodging from './lodging/Lodging';
 import Dining from './dining/Dining';
+import Store from './store/Store';
 
 import {entryAmenityOptions as LodgingAmenityOptions} from './lodging/lodging-amenities';
 import {LodgingCategoryOptions} from './lodging/lodging-categories';
+import {StoreCategoryOptions} from './store/store-categories';
 
 import {DINING_FILTER_MATCH_BY} from './dining/dining-filter-match-by';
 import {LODGING_FILTER_MATCH_BY} from './lodging/lodging-filter-match-by';
+import {SHOPPING_FILTER_MATCH_BY} from './store/store-filter-match-by';
 
 let Entries = "";
 let entryAmenityOptions = "";
@@ -32,6 +35,11 @@ if (entriesType == "lodging") {
 else if (entriesType == "dining") {
     Entries = Dining;
     ENTRY_FILTER_MATCH_BY = DINING_FILTER_MATCH_BY;
+}
+else if (entriesType == "shopping") {
+    Entries = Store;
+    entryCategoryOptions = StoreCategoryOptions;
+    ENTRY_FILTER_MATCH_BY = SHOPPING_FILTER_MATCH_BY;
 }
 
 function buildEntries() {
@@ -115,6 +123,25 @@ function buildEntries() {
                 console.log(status);
             });
         }
+        else if (entriesType == "shopping") {
+            $.ajax({
+                url: api_url + '/data-api/index.php?method=get&type=store',
+                dataType: 'jsonp',
+                contentType: 'application/json; charset=utf-8'
+            })
+    	    $.getJSON('/store/index.json', (data) => {
+                fullEntriesList = _.cloneDeep(data);
+                entryList = data;
+                entryList = sortMenu.sortAscending(entryList, 'property_name');
+                resetPagination(entryList);
+                outputEntries(entryList);
+                buildFilterMenu('property_category', '#filter-by-category', fullEntriesList, true, 'All Categories', entryCategoryOptions);
+                buildFilterMenu('city', '#filter-by-city', fullEntriesList, false, 'All Cities');
+            })
+            .fail(function(jqXHR, status, error) {
+                console.log(status);
+            });
+        }
 
         /**
          * Setup Menu Sorting
@@ -181,17 +208,20 @@ function buildEntries() {
          */
         function findFilterMenuItems(key, list, arrayOfArrays, sort) {
             let menu = [];
-
             if (!arrayOfArrays) {
                 // loops through list looking for key
                 menu = _.uniq(_.map(list, key));
+    
             } else {
                 menu = _.uniq(_.flattenDeep(_.map(list, key)));
             }
 
-            //if (sort === true) {
-                menu.sort(); // Forcing sort to always run.
-            //}
+            if (sort === true) {
+                menu.sort((a,b)=>a-b); // Numeric Sort
+            }
+            else {
+                menu.sort();
+            }
 
             // Getting rid of undefined in the list, somehow it got in.
             _.remove(menu, function(item){
@@ -216,14 +246,13 @@ function buildEntries() {
                 labels
             ) {
             let filterMenuHtml = '';
-            let sortMenu = false;
+            let sortMenuNumeric = false;
 
             if (labels !== undefined) {
-                sortMenu = true;
+                sortMenuNumeric = true;
             }
 
-            let menu = findFilterMenuItems(key, list, arrayOfArrays, sortMenu);
-
+            let menu = findFilterMenuItems(key, list, arrayOfArrays, sortMenuNumeric);
             // Setup select all option
             filterMenuHtml = filterMenuHtml + getFilterMenuTpl('SELECT_ALL', [{value: 'SELECT_ALL', label: selectAllLabel}]);
 
@@ -355,20 +384,20 @@ function buildEntries() {
                     if (_.has(item, filterKey)) {
                         itemPassedFilterChecks[filterKey] = true;
                         _.forEach(filter, (filterValue) => {
-                            if (item[filterKey].indexOf(filterValue) === -1 
+                            if (item[filterKey].includes(filterValue) == false
                                     && getFilterMatchType.getType(ENTRY_FILTER_MATCH_BY, filterKey) === 'AND') {
                                 // We've found one of the values does not exist for an AND so we fail this filterKey and stop the loop.
                                 itemPassedFilterChecks[filterKey] = false;
                                 return false;
-                            } else if (item[filterKey].indexOf(filterValue) === -1 
+                            } else if (item[filterKey].includes(filterValue) == false
                                     && getFilterMatchType.getType(ENTRY_FILTER_MATCH_BY, filterKey) === 'OR') {
                                 // We've found one value does not exist, we'll set to false and keep checking since this is an OR.
                                 itemPassedFilterChecks[filterKey] = false;
-                            } else if (item[filterKey].indexOf(filterValue) !== -1
+                            } else if (item[filterKey].includes(filterValue) == true
                                     && getFilterMatchType.getType(ENTRY_FILTER_MATCH_BY, filterKey) === 'AND') {
                                 // We've found a filter value that exists for an AND so we'll set to true but keep checking.
                                 itemPassedFilterChecks[filterKey] = true;
-                            } else if (item[filterKey].indexOf(filterValue) !== -1
+                            } else if (item[filterKey].includes(filterValue) == true
                                     && getFilterMatchType.getType(ENTRY_FILTER_MATCH_BY, filterKey) === 'OR') {
                                 // We've found a filter value that exists for an OR so we'll set to true and exit the loop.
                                 itemPassedFilterChecks[filterKey] = true;

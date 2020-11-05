@@ -1,0 +1,5 @@
+{{- $entries := slice -}}
+{{- range .Data.Pages -}}
+{{- $entries = $entries | append (partial "transformers/store" .) -}}
+{{- end -}}
+{{ $entries | jsonify }}
