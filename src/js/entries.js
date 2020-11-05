@@ -384,24 +384,20 @@ function buildEntries() {
                     if (_.has(item, filterKey)) {
                         itemPassedFilterChecks[filterKey] = true;
                         _.forEach(filter, (filterValue) => {
-                            if (item[filterKey].includes(filterValue) == false) {
-                                itemPassedFilterChecks[filterKey] = false;
-                                return false;
-                            }
-                            if (item[filterKey].toString().indexOf(filterValue.toString()) === -1 
+                            if (item[filterKey].includes(filterValue) == false
                                     && getFilterMatchType.getType(ENTRY_FILTER_MATCH_BY, filterKey) === 'AND') {
                                 // We've found one of the values does not exist for an AND so we fail this filterKey and stop the loop.
                                 itemPassedFilterChecks[filterKey] = false;
                                 return false;
-                            } else if (item[filterKey].toString().indexOf(filterValue.toString()) === -1 
+                            } else if (item[filterKey].includes(filterValue) == false
                                     && getFilterMatchType.getType(ENTRY_FILTER_MATCH_BY, filterKey) === 'OR') {
                                 // We've found one value does not exist, we'll set to false and keep checking since this is an OR.
                                 itemPassedFilterChecks[filterKey] = false;
-                            } else if (item[filterKey].toString().indexOf(filterValue.toString()) !== -1
+                            } else if (item[filterKey].includes(filterValue) == true
                                     && getFilterMatchType.getType(ENTRY_FILTER_MATCH_BY, filterKey) === 'AND') {
                                 // We've found a filter value that exists for an AND so we'll set to true but keep checking.
                                 itemPassedFilterChecks[filterKey] = true;
-                            } else if (item[filterKey].toString().indexOf(filterValue.toString()) !== -1
+                            } else if (item[filterKey].includes(filterValue) == true
                                     && getFilterMatchType.getType(ENTRY_FILTER_MATCH_BY, filterKey) === 'OR') {
                                 // We've found a filter value that exists for an OR so we'll set to true and exit the loop.
                                 itemPassedFilterChecks[filterKey] = true;
@@ -418,24 +414,12 @@ function buildEntries() {
 
                 // Ensure that all filters have a valid match for the item.
                 _.forIn(itemPassedFilterChecks, (valid) => {
-                    // if(valid === true){
-                    //     console.log(valid);
-                    // }
                     if (valid === false) {
                         addItemToList = false;
                     }
                 });
                 return addItemToList;
             });
-
-            // for (var i = 0; i < filteredList.length; i++) {
-            //     for (var j = 0; j < filteredList[i].property_category.length; j++) {
-            //         if (filteredList[i].property_category[j] == 1) {
-            //             //console.log(JSON.stringify(filteredList[i], null, 2));
-            //             console.log("HERE");
-            //         }
-            //     }
-            // }
 
             // reset pagination
             resetPagination(filteredList);
