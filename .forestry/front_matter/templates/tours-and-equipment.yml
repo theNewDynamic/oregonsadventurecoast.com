@@ -34,5 +34,6 @@ fields:
   label: Contact
   name: contact
 pages:
+- content/tourandequipment/code-7-sportfishing-charters.md
 - content/tourandequipment/pacificpond-charters.md
 - content/tourandequipment/sun-buggy-atv-rental.md
