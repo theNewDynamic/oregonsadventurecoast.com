@@ -1,6 +1,6 @@
 ---
 title: Meet Mark Mattecheck, Owner of North Bend Lanes!
-date: 2020-06-10T04:00:00+00:00
+date: 2020-06-10T04:00:00.000+00:00
 description: This month, we are featuring North Bend Lanes owner, Mark Mattecheck.
   North Bend Lanes has been a beloved staple on Oregon’s Adventure Coast since 1957
   when Mark’s father and grandfather left the movie theatre business and opened the
@@ -29,6 +29,10 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+new_categories:
+- Local Spotlight
+warning: false
+warning_copy: ''
 
 ---
 As we navigate our way through Oregon’s reopening phases and transition into our new normal, we thought this would be a good time to spotlight some of our many local businesses and business people who make Oregon’s Adventure Coast such a special place.

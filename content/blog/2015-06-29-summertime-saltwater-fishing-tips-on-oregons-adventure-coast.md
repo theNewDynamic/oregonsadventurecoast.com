@@ -32,6 +32,8 @@ categories:
 - Crabbing & Clamming
 image: ''
 warning: true
+new_categories:
+- Fishing
 
 ---
 ## There are plenty of fish in the sea!
