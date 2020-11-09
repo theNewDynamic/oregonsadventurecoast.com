@@ -21,6 +21,9 @@ categories:
 - Historical
 image: "/img/North Bend Lanes Bowling blog-695x322.jpg"
 warning: true
+new_categories:
+- Shopping & Entertainment
+- Local Spotlight
 
 ---
 <div style="background-color: #ffff4c; padding: 7px; margin-bottom:30px;"><img src="/img/blog-warning-icon.png" alt="Warning old content on this post" style="float:left;width:75px;height:60px;"><strong>This post may contain information, event dates or times that have changed or passed since it was first published. Please <a href="/contact">contact us</a> for the most current and up-to-date details about businesses, events and adventures.</strong></div>
