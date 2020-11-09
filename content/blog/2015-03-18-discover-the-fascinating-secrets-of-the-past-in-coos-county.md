@@ -23,6 +23,8 @@ categories:
 - Fishing
 - Crabbing & Clamming
 image: ''
+new_categories:
+- Arts & Culture
 
 ---
 Wanna know a secret? The <a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=csr&CScnty=2210&CSsr=41&" target="_blank">historic cemeteries</a> located throughout Coos County tell the stories of the fascinating people and history of our region. With nearly 100 documented cemeteries in Coos County, there is no shortage of secrets from the past to be discovered by history buffs.

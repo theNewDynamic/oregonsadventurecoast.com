@@ -1,28 +1,30 @@
 ---
 title: It's Storm Watching  Season on Oregon's Adventure Coast!
-date: 2017-10-25T15:58:04.000Z
-description: >+
-  October is here and that means "storm watching season" is upon us!  The
-  massive waves (some reaching up to 120 feet high!) resulting from Pacific
-  storms that rage during the fall and winter months put on quite a show. One
-  could spend hours gazing at the Pacific Ocean’s majestic fury and it's
-  dramatic waves. It's a little-known secret that some of the best storm
-  watching spots on the Oregon Coast are right in our backyard!
-
+date: 2017-10-25T15:58:04.000+00:00
+description: "October is here and that means \"storm watching season\" is upon us!
+  \ The massive waves (some reaching up to 120 feet high!) resulting from Pacific
+  storms that rage during the fall and winter months put on quite a show. One could
+  spend hours gazing at the Pacific Ocean’s majestic fury and it's dramatic waves.
+  It's a little-known secret that some of the best storm watching spots on the Oregon
+  Coast are right in our backyard!\n\n"
 tags:
-  - Beaches
-  - Charleston
-  - Coast
-  - Coos Bay
-  - North Bend
-  - Oregon
-  - Oregon Coast Storm Watching
-  - recreation
-  - Shore Acres State Park
-  - storm watching
+- Beaches
+- Charleston
+- Coast
+- Coos Bay
+- North Bend
+- Oregon
+- Oregon Coast Storm Watching
+- recreation
+- Shore Acres State Park
+- storm watching
 categories:
-  - Miscellaneous
-image: /img/10-25-17-storm-watch-season.jpg
+- Miscellaneous
+image: "/img/10-25-17-storm-watch-season.jpg"
+new_categories:
+- Outdoor Adventures
+- Oregon's Adventure Coast News & Info
+
 ---
 October is here and that means "<a href="http://www.oregonsadventurecoast.com/featured-adventures/stormwatching/">storm watching </a>season" is upon us!  The massive waves (some reaching up to 120 feet high!) resulting from Pacific storms that rage during the fall and winter months put on quite a show. One could spend hours gazing at the Pacific Ocean’s majestic fury and it's dramatic waves. It's a little-known secret that some of the best storm watching spots on the Oregon Coast are right in our backyard!
 
