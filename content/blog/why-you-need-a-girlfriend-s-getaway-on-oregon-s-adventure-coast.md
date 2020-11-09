@@ -1,6 +1,6 @@
 ---
 title: Why You NEED a Girlfriend’s Getaway on Oregon’s Adventure Coast
-date: 2020-10-09T04:00:00+00:00
+date: 2020-10-09T04:00:00.000+00:00
 description: 'If ever there was a time when a Girlfriend’s Getaway was in order, it''s
   now. A Girlfriend’s Getaway on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston
   is the perfect antidote to the madness you’ve probably experienced in 2020. Once
@@ -33,6 +33,8 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+new_categories:
+- Oregon's Adventure Coast News & Info
 
 ---
 If ever there was a time when a [Girlfriend’s Getaway ](https://www.oregonsadventurecoast.com/tripideas/a-girlfriends-getaway-on-oregon-s-adventure-coast/)was in order, it's now. Women everywhere are exhausted from these stressful times that are only compounded by being isolated at home, balancing virtual working hours, school, virtual activities and much more.
