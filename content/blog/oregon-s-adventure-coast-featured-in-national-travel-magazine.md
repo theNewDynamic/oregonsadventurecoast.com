@@ -21,6 +21,8 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- Miscellaneous
 
 ---
 We were pleased to learn that Oregon Dunes National Recreation Area was featured in the newest issue of [_Courier_](https://www.ntacourier.com/node/995), the magazine of The National Tour Association (NTA). The article, [3 ways to experience the Oregon Dunes](https://www.ntacourier.com/node/995), highlights the variety of options and experiences visitors to the Oregon Dunes National Recreation Area can enjoy. You can [read the full article here.](https://www.ntacourier.com/node/995)

@@ -1,7 +1,7 @@
 ---
 title: Take Care Out There, Be Wave Safe and Enjoy Your Time on Oregon’s Adventure
   Coast
-date: 2020-03-12T04:00:00+00:00
+date: 2020-03-12T04:00:00.000+00:00
 description: 'Those seeking an escape from large crowds and the fast pace of life
   can always find refuge on our magical coast. However, it’s more important than ever
   to remind our visitors to avoid potential dangers by following some common-sense
@@ -34,6 +34,11 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
+new_categories:
+- Oregon's Adventure Coast News & Info
+accordion_sections: []
+warning: false
+warning_copy: ''
 
 ---
 There’s no place quite like Oregon’s Adventure Coast, it’s truly one of the most unique, inspiring destinations not just in the state of Oregon but in the world. Those seeking an escape from large crowds and the fast pace of life can always find refuge on our magical coast. There are countless ways to refresh and recharge here, whether you’re here to watch majestic Pacific Ocean waves crash into rugged cliffs, ride along awe-inspiring Oregon Dunes, take a peaceful walk along our undeveloped beaches, embark on an invigorating hike through miles of dense coastal forests or simply go fishing, crabbing or clamming. No wonder our official slogan is “Where the Soul Meets the Sea”!
