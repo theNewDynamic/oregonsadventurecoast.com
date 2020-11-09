@@ -21,6 +21,7 @@ categories:
 image: ''
 warning: true
 new_categories:
+- Fishing
 - Outdoor Adventures
 
 ---

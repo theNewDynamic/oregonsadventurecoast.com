@@ -22,6 +22,7 @@ tags:
 categories: []
 warning: true
 new_categories:
+- Oregon's Adventure Coast News & Info
 - Local Spotlight
 
 ---
