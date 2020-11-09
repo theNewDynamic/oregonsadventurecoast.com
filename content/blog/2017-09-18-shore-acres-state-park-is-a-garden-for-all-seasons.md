@@ -26,6 +26,8 @@ categories:
 - State Parks & National Lands
 image: "/img/09-18-18-shore-acres-garden-all-seasons.jpg"
 warning: true
+new_categories:
+- State Parks & National Lands
 
 ---
 It's well known fact that the state parks found along the the <a href="http://www.oregonsadventurecoast.com/trip-ideas/explore-the-cape-arago-beach-loop/" target="_blank" rel="noopener noreferrer">Cape Arago Beach Loop </a> are nothing short of grand, but if there is one destination along the way you cannot miss, it is the glorious gardens of <a href="http://shoreacres.net/" target="_blank" rel="noopener noreferrer">Shore Acres State Park</a> , a.k.a. "the jewel of the South Coast”.

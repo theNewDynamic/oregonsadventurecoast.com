@@ -21,6 +21,8 @@ seo:
   image: "/img/Live Music Coos Bay.jpg"
   imgalt: LIve Music in Coos Bay
 warning: true
+new_categories:
+- Shopping & Entertainment
 
 ---
 Oregon's Adventure Coast already has a thriving restaurant and arts scene, so it's no wonder that our music culture is also growing.

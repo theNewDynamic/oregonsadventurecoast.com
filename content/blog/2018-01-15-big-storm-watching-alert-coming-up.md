@@ -24,6 +24,8 @@ categories:
 - State Parks & National Lands
 image: "/img/01-15-18-storm-watch-alert.jpg"
 warning: true
+new_categories:
+- Oregon's Adventure Coast News & Info
 
 ---
 <em>Top Photo Courtesy of Melisa Smith</em>

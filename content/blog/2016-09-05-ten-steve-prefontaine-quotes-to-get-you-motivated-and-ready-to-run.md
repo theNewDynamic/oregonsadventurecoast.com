@@ -22,6 +22,8 @@ categories:
 - Miscellaneous
 image: ''
 warning: true
+new_categories:
+- Miscellaneous
 
 ---
 ## The Prefontaine Run along with the Bay Area Fun Festival & Cruz The Coos are coming in September!
