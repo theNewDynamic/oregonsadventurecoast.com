@@ -21,6 +21,8 @@ categories:
 - Miscellaneous
 image: "/img/08-20-17-north-bend-itinerary.jpg"
 warning: true
+new_categories:
+- Local Spotlight
 
 ---
 North Bend Oregon may very well be the best kept secret on the Oregon Coast. Situated on the north bend of the Coos Bay (hence its namesake) this gem of a community is home to beautiful beaches, eclectic stores, antique shops, music, theatre, friendly locals, nightlife, restaurants, majestic sand dunes, the historic McCullough Memorial Bridge and much much more.

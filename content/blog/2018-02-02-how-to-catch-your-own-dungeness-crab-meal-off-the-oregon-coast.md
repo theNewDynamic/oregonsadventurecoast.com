@@ -22,6 +22,8 @@ categories:
 - Miscellaneous
 image: "/img/02-02-18-catch-your-own-crab-mealoff.jpg"
 warning: true
+new_categories:
+- Crabbing
 
 ---
 It may be the middle of winter, but we don't mind. Whether you like to catch them yourself or just eat them, February is a perfect time to go crabbing on the Southern Oregon Coast! Now that commercial crab season is finally here, a fresh Dungeness crab meal is waiting for you! Why not be adventurous and catch this delicacy yourself in the waters of lower Coos Bay?
