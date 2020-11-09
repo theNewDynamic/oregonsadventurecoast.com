@@ -20,6 +20,9 @@ categories:
 - Crabbing & Clamming
 image: ''
 warning: true
+new_categories:
+- Outdoor Adventures
+- State Parks & National Lands
 
 ---
 <pre><em>Photographer: Chris Hyde</em></pre>
