@@ -15,6 +15,9 @@ tags:
 - freshest oysters
 categories: []
 warning: true
+new_categories:
+- Local Food & Drink
+- Local Spotlight
 
 ---
 The 14th Annual Charleston “Ahh Shucks!” Oyster Feed, our annual celebration of fresh oysters, is coming up April 27th which got us thinking about where to find the very best oysters in the Coos Bay/North Bend/Charleston area? We asked around and here’s what we found out.

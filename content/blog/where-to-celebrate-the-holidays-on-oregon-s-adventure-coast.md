@@ -1,6 +1,6 @@
 ---
 title: 'Where to Celebrate the Holidays on Oregon''s Adventure Coast '
-date: 2018-11-07T06:11:38-05:00
+date: 2018-11-07T06:11:38.000-05:00
 description: Wondering where you can find some holiday magic this year on Oregon’s
   South Coast? We’re so glad you asked!
 tags:
@@ -22,6 +22,7 @@ categories:
 - Events
 image: "/img/1b9f2543b912206e3fe9e6848e529693.jpg"
 warning: true
+draft: true
 
 ---
 Photo Source Cody Cha on [www.vimeo.com](https://vimeo.com/34231737)

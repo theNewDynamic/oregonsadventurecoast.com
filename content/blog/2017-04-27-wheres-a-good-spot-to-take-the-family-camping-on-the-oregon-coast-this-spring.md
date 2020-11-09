@@ -23,6 +23,8 @@ categories:
 - Walking & Hiking
 image: ''
 warning: true
+new_categories:
+- Outdoor Adventures
 
 ---
 > ### “Oregon State Parks often make great family beach trips easy, safe, and fun. Sunset Bay is no exception. The grounds are well-kept and the cove protects swimmers and beachgoers from wind and high waves. Great for picnics, playing on the beach, and wading in the water.” –[Recent Review on TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g28958-d255287-Reviews-or10-Sunset_Bay_State_Park-Oregon.html#REVIEWS)
