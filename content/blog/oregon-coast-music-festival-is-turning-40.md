@@ -18,6 +18,8 @@ tags:
 categories: []
 image: "/img/Oregon Coast Musical Festival Blog_695x322.jpg"
 warning: true
+new_categories:
+- Arts & Culture
 
 ---
 #### Featured Event: Oregon Coast Music Festival \~ July 13 to July 27, 2019
