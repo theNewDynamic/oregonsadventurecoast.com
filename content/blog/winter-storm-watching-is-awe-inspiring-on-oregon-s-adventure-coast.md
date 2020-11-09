@@ -1,6 +1,6 @@
 ---
 title: Winter Storm Watching Is Awe Inspiring on Oregon's Adventure Coast
-date: 2019-12-06T08:00:00+00:00
+date: 2019-12-06T08:00:00.000+00:00
 description: Witness the power and feel the thunder of mother nature with giant wave
   splashes that can top 300 feet in the air, pounding the rugged landscape of Oregon’s
   Adventure  Coast just 4 hours south of Portland.
@@ -18,6 +18,12 @@ seo:
     wave splashes up to 300 feet at Shore Acres!
   imgalt: Massive Wave Splashes on Oregon's Adventure Coast
   image: "/img/storm-watching-wave-crash.jpg"
+new_categories:
+- Outdoor Adventures
+aliases: []
+accordion_sections: []
+warning: false
+warning_copy: ''
 
 ---
 #### When the holidays are over, that means “[storm watching season](https://www.oregonsadventurecoast.com/storm-watching/)” is upon us!
