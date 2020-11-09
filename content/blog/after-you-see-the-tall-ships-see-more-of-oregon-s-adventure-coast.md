@@ -26,6 +26,8 @@ tags:
 - Charleston Marine Life Center
 categories: []
 warning: true
+new_categories:
+- Miscellaneous
 
 ---
 The historic tall ships, Lady Washington and the Hawaiian Chieftain, will soon set sail for the Coos Bay Boardwalk where they will dock May 1st- 6th! The Lady Washington is a full-scale reproduction of the original Lady Washington, the first American vessel to make landfall on the west coast of North America in 1788. The Hawaiian Chieftain is a replica of a typical early nineteenth-century European merchant ship. Her hull shape and rigging are similar to the ships used by Spanish explorers during the 18th-century expeditions of the Washington, Oregon, and California coasts.
