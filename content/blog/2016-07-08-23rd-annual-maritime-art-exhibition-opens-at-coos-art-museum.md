@@ -16,6 +16,8 @@ categories:
 - Culture & Museums
 image: ''
 warning: true
+new_categories:
+- Arts & Culture
 
 ---
 The Coos Art Museum will open its <a href="http://www.coosart.org/maritime-art-exhibit-2016-and-more/" target="_blank">23rd Annual Maritime Art Exhibition</a> in the first floor Maggie Karl Gallery this weekend! The juried exhibition displays maritime-themed artwork by major artists from across the United States. Seventy-six works by forty-four of the nation’s leading maritime artists are featured.

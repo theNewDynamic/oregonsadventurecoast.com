@@ -1,6 +1,6 @@
 ---
 title: Meet Janice Langlinais of Oregon’s Adventure Coast
-date: 2020-05-11T04:00:00+00:00
+date: 2020-05-11T04:00:00.000+00:00
 description: Meet our fearless leader, Janice Langlinais, who is approaching her 3rd
   year as the Director at Coos Bay - North Bend Visitor and Convention Bureau here
   on Oregon’s Adventure Coast!
@@ -19,6 +19,10 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+new_categories:
+- Local Spotlight
+warning: false
+warning_copy: ''
 
 ---
 <h3>Get to Know Local Places & Faces on Oregon’s Adventure Coast</h3>
