@@ -1,6 +1,6 @@
 ---
 title: See What’s Blooming This Fall at Shore Acres State Park
-date: 2020-09-09T04:00:00+00:00
+date: 2020-09-09T04:00:00.000+00:00
 description: 'Shore Acres is a “garden for all seasons’ meaning visitors can enjoy
   it any time of the year, but If you happen to be visiting this fall, bring your
   camera! Not only will you find the stunning dahlias in full bloom, but visitors
@@ -30,6 +30,8 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+new_categories:
+- State Parks & National Lands
 
 ---
 **There’s a Reason Shore Acres State Park is known as the “Jewel of the South Coast”**

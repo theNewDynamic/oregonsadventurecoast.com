@@ -1,6 +1,6 @@
 ---
 title: 'Relax & Recharge with a Safe Camping Getaway on Oregon’s Adventure Coast '
-date: 2020-08-26T04:00:00+00:00
+date: 2020-08-26T04:00:00.000+00:00
 description: 'There is no shortage of fabulous RV Parks & Campsites on Oregon’s Adventure
   Coast: Coos Bay, North Bend and Charleston and in this post, we are highlighting
   some uncrowded destinations where you can let go and let nature do its thing.'
@@ -32,6 +32,10 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+new_categories:
+- Outdoor Adventures
+warning: false
+warning_copy: ''
 
 ---
 If you’re feeling more stressed and anxious than normal, you are not alone. The past few months have been an extraordinarily trying time for most Americans. Many of us are experiencing [pandemic fatigue](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/how-to-deal-with-coronavirus-burnout-and-pandemic-fatigue) that is only exacerbated by tense social, economic and political tensions. One way to battle these tense emotions is to get back to nature.

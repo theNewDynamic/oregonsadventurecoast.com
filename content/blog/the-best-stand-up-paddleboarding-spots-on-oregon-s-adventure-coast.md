@@ -1,6 +1,6 @@
 ---
 title: 'The Best Stand-Up Paddleboarding Spots on Oregon''s Adventure Coast '
-date: 2020-09-04T04:00:00+00:00
+date: 2020-09-04T04:00:00.000+00:00
 description: 'Let us introduce you to stand-up paddleboarding, or SUP for short, and
   Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston has several great spots
   to choose from. You just have to know where to look. Here are some of the best local
@@ -33,6 +33,9 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+new_categories:
+- Outdoor Adventures
+- Oregon's Adventure Coast News & Info
 
 ---
 Everyone knows that getting out on the water is a great way to connect to nature, but what if we said you could also get in a full-body workout and improve your balance all while having fun out on the water? Let us introduce you to stand-up [paddleboarding, or SUP for short](https://www.oregonsadventurecoast.com/water-recreation/), and **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** has several great spots to choose from. You just have to know where to look. Here are some of the best local spots for stand-up paddleboarding (SUP).
