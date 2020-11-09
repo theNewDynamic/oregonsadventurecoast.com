@@ -30,6 +30,8 @@ categories:
 - Fishing
 - Crabbing & Clamming
 image: ''
+new_categories:
+- Clamming
 
 ---
 ## Mucky mucks

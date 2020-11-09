@@ -22,6 +22,8 @@ categories:
 - Crabbing & Clamming
 - Walking & Hiking
 image: ''
+new_categories:
+- Oregon's Adventure Coast News & Info
 
 ---
 ## Did you know that Fall is one of the BEST times to visit the Oregon Coast?
