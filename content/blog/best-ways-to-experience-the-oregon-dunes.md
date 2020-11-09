@@ -1,6 +1,6 @@
 ---
 title: 'Best Ways to Experience the Oregon Dunes '
-date: 2019-05-08T21:00:00-07:00
+date: 2019-05-08T21:00:00.000-07:00
 description: 'Whether you are seeking an off-roading adventure on a quad or ATV, a
   good hike, natural photo opportunities, camping, or simply seeking some peace and
   quiet- you will find it somewhere in the Oregon Dunes National Recreation Area. '
@@ -15,6 +15,8 @@ tags:
 - Oregon Dunes National Recreation Area
 categories:
 - Oregon Dunes
+new_categories:
+- Outdoor Adventures
 
 ---
 There's lots to love about Oregon's Adventure Coast, but some would say that the Oregon Dunes National Recreation Area, the largest expanse of coastal dunes in North America, is what truly sets us apart from other travel destinations.

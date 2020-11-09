@@ -1,6 +1,6 @@
 ---
 title: Five Hiking Destinations to Explore on Oregon's South Coast
-date: 2019-05-27T21:00:00-07:00
+date: 2019-05-27T21:00:00.000-07:00
 description: 'Some of the most stunning and diverse landscapes in the country are
   right here on Oregon''s South Coast. Grab your hiking boots and head this way for
   a beautiful adventure on these five hiking destinations on Oregon’s Adventure Coast. '
@@ -28,6 +28,8 @@ tags:
 - waterfalls
 categories:
 - 'Hiking '
+new_categories:
+- Outdoor Adventures
 
 ---
 Summer is here and we think it’s time for you to take a hike! Coos Bay, North Bend and Charleston, Oregon residents and visitors have access to some of the most stunning and diverse landscapes in the country; whether it’s climbing majestic sand dunes or biking through a rugged coastal forest or walking along paths overlooking the Pacific, and now is the time to grab your hiking boots and head this way for a beautiful adventure.

@@ -20,6 +20,9 @@ categories:
 - Lighthouses
 - Miscellaneous
 image: "/img/07-19-17-cape-arago-lighthouse-epic-view.jpg"
+new_categories:
+- Local Spotlight
+- Miscellaneous
 
 ---
 The Oregon Coast is known for its natural beauty and there is no greater way to experience the unique nature of the Pacific Coast than along the <a href="http://www.oregonsadventurecoast.com/trip-ideas/explore-the-cape-arago-beach-loop/" target="_blank" rel="noopener noreferrer">Cape Arago Beach Loop</a>. This short drive is the perfect way to have the quintessential Oregon Coast experience with stunning beaches, state parks, spectacular scenery along with the alluring sounds of waves crashing and sea lions barking.

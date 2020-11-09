@@ -25,6 +25,10 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+new_categories:
+- Oregon's Adventure Coast News & Info
+warning: false
+warning_copy: ''
 
 ---
 _Please Note: As of May 15th, Coos County area restaurants are allowed to re-open for dining as long as they can meet the new guidelines. This does not mean that all restaurants are open for dine-in service so be sure to call before you go. Many of our restaurants are still offering outstanding take-out and delivery services that we highly recommend._

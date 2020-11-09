@@ -13,6 +13,8 @@ description: These are just a few things travelers have said about their visit t
   Cape Arago State Park. While the Oregon Coast offers plenty of spectacular views
   of the Pacific Ocean, there is something very special about this scenic headland
   located at the end of Cape Arago Highway about 15 miles southwest of Coos Bay.
+new_categories:
+- State Parks & National Lands
 
 ---
 **“Favorite secret beach”.**
