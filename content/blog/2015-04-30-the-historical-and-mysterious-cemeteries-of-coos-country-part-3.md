@@ -16,6 +16,8 @@ tags:
 categories:
 - Historical
 image: ''
+new_categories:
+- Arts & Culture
 
 ---
 **For the full article along with impressive images,** [**visit the original blog post HERE**](https://pacificnorthwestadventures.weebly.com/blog/8-coos-county-cemeteries)**.**

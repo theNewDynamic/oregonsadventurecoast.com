@@ -30,6 +30,8 @@ categories:
 - Fishing
 - Crabbing & Clamming
 image: ''
+new_categories:
+- Local Food & Drink
 
 ---
 A fresh Dungeness crab meal is something every Oregon Coast visitor should experience during their stay. Many adventurous travelers enjoy catching their own Dungeness crab in the waters of lower Coos Bay for an unforgettable feast. We are following up on our <a href="/2014/12/when-where-and-how-to-find-the-best-dungeness-crab-on-oregons-coast/" target="_blank">local crabbing tips</a> with suggestions on how to enjoy your fresh catch!

@@ -16,6 +16,8 @@ tags:
 categories:
 - Miscellaneous
 image: ''
+new_categories:
+- Outdoor Adventures
 
 ---
 The fervor for sand riding is growing in popularity every year, with countless enthusiasts making the trek out to some of the world’s biggest dunes in search of adventure. The thing is, when talking about sand riding it’s possible to mean two very different activities: **sand duning** and **sand boarding.  **Though they may have their own take on what it means to ride down a sand dune, both are an undeniable blast.
