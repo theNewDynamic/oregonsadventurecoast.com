@@ -1,6 +1,6 @@
 ---
 title: 11 Amazing Sunset Images Taken on Oregon's Adventure Coast
-date: 2020-08-11T04:00:00+00:00
+date: 2020-08-11T04:00:00.000+00:00
 description: 'Every sunset is unique, but there is something especially remarkable
   about the sunsets here on Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston.
   Here''s a look at some of our favorite sunset images. '
@@ -23,6 +23,10 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+new_categories:
+- Miscellaneous
+warning: false
+warning_copy: ''
 
 ---
 Everyone loves a beautiful sunset, what’s not to love? There is something so humbling and inspiring about looking to the horizon and seeing the marvelous display of nature’s artwork with a variety of shades of pink, orange, blue, white and colors that don’t even have a name yet.

@@ -1,6 +1,6 @@
 ---
 title: '10 Awe-Inspiring Photos To Remind Us Why We Love Oregon''s Adventure Coast '
-date: 2020-03-21T04:00:00+00:00
+date: 2020-03-21T04:00:00.000+00:00
 description: Take a deep breath, and take a few minutes to get lost in these awe-inspiring
   photographs posted by some of our wonderful residents and visitors.
 image: "/img/blog-nature-695x322.png"
@@ -8,7 +8,7 @@ tags:
 - Instagram
 - Oregon Coast
 - Nature Photography
-- "travelcoosbay"
+- travelcoosbay
 - Oregon Coast Photography
 - Coos Bay
 - North Bend
@@ -20,6 +20,11 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
+new_categories:
+- Miscellaneous
+accordion_sections: []
+warning: false
+warning_copy: ''
 
 ---
 Let's face it, the past week hasn't exactly been the best for anybody living in the United States, or on earth for that matter. Nobody truly knows when our lives will fully return to normal, but we believe it's going to be ok. We're not going anywhere, and these beautiful destinations will still be here for you when you are ready to come back to see us
