@@ -1,6 +1,6 @@
 ---
 title: 'Local Spotlight: Linda Prefontaine of Tour de Pre'
-date: 2020-07-29T04:00:00+00:00
+date: 2020-07-29T04:00:00.000+00:00
 description: 'This month, we''re featuring Coos Bay resident and former Women''s Professional
   Racquetball player and coach, Linda Prefontaine. Linda is the sister of internationally
   acclaimed track star Steve Prefontaine who helped to inspire the American running
@@ -29,6 +29,10 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+new_categories:
+- Local Spotlight
+warning: false
+warning_copy: ''
 
 ---
 Coos Bay, North Bend and Charleston, a.k.a. Oregon's Adventure Coast, is filled with interesting and beautiful destinations that inspire visitors from all over the world. But did you know that the region is also full of fascinating people with amazing stories to tell? Our local residents are our best resource to share insider travel tips, local secrets and stories that cannot be found anywhere else. While our big annual events and festivals are on hiatus, we're spotlighting some of the folks who make Oregon’s Adventure Coast such a special place.
