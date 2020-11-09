@@ -18,6 +18,9 @@ tags:
 categories:
 - Uncategorized
 image: ''
+new_categories:
+- Oregon's Adventure Coast News & Info
+- Outdoor Adventures
 
 ---
 For many of us, pets are an important part of the family and often make great traveling companions, especially when you are heading to Oregon’s Adventure Coast!  That’s why we welcome travelers AND their furry friends.

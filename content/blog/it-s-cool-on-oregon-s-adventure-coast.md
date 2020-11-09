@@ -1,6 +1,6 @@
 ---
 title: It’s Cool on Oregon’s Adventure Coast!
-date: 2020-08-01T04:00:00+00:00
+date: 2020-08-01T04:00:00.000+00:00
 description: You can relax knowing that Coos Bay, North Bend & Charleston offers plenty
   of space to spread out and adventures to invigorate. Here are a few ideas on how
   to keep your cool AND stay safe this summer.
@@ -32,6 +32,10 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
+new_categories:
+- Miscellaneous
+warning: false
+warning_copy: ''
 
 ---
 ### Spread Out, Beat the Heat and Stay Cool on Oregon’s Adventure Coast

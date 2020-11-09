@@ -12,6 +12,8 @@ tags:
 categories:
 - Miscellaneous
 image: "/img/08-29-17-spotlight-brastendorff-beach.jpg"
+new_categories:
+- Local Spotlight
 
 ---
 One of the most common questions visitors ask is "Where's a great beach to just to hang out?" While there are several, we frequently direct our visitors to <a href="http://www.co.coos.or.us/Departments/CoosCountyParks/Bastendorff.aspx">Bastendorff Beach</a>, located 1/4 mile off the <a href="http://www.oregonsadventurecoast.com/trip-ideas/explore-the-cape-arago-beach-loop/">Cape Arago State Highway</a>, about two miles west of Charleston.
