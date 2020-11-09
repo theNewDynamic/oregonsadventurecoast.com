@@ -26,6 +26,8 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- Arts & Culture
 
 ---
 We know you’re missing the many interesting places and faces throughout Oregon’s Adventure Coast, so we thought we’d peek in at one of our favorite local destinations like the Charleston Marine Life Center, considered by many to be a [gem hidden in plain sight](https://www.oregonsadventurecoast.com/blog/charleston-marine-life-center-in-a-hidden-gem/). The center, part of the OIMB - The Oregon Institute of Marine Biology, has developed a loyal following among locals, visitors and educators throughout the region, but like many other public buildings and businesses throughout the country, they have temporarily closed their doors to help stop the spread of COVID-19.<p>
