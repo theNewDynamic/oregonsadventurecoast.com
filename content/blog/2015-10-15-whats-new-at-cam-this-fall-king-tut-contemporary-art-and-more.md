@@ -25,8 +25,9 @@ categories:
 - Culture & Museums
 image: ''
 warning: true
----
+draft: true
 
+---
 We believe that one of the best kept secrets on Oregon’s South Coast is the <a href="http://www.coosart.org/" target="_blank"><strong>Coos Art Museum (CAM)</strong></a>. Through collections, exhibitions and educational programs, CAM is building a robust arts and cultural scene in our community while promoting the appreciation, understanding and expression of visual arts.
 
 Here’s a tip: When you go, plan to stay a while. The museum contains over 5600 square feet of space and has multiple galleries including the famed Prefontaine Gallery on the 2nd floor.

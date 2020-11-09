@@ -20,6 +20,8 @@ categories:
 - Crabbing & Clamming
 image: ''
 warning: true
+new_categories:
+- Outdoor Adventures
 
 ---
 <pre><em>Photo Courtesy of <a href="https://www.instagram.com/portofcoosbay/?hl=en">Port of Coos Bay</a></em></pre>
