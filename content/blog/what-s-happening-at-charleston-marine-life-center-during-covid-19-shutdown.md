@@ -27,6 +27,7 @@ accordion_sections: []
 warning: true
 warning_copy: ''
 new_categories:
+- Local Spotlight
 - Arts & Culture
 
 ---

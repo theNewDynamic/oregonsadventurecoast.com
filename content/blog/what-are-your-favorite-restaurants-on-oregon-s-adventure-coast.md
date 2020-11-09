@@ -20,6 +20,8 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- Local Food & Drink
 
 ---
 > Aside from the natural beauty, one of the things that travelers say they love the most about visiting Oregon’s Adventure Coast is the food. Self-proclaimed “food-snobs” visiting from large cities all over the region have told us time and time again how impressed they are with the quality and the selection of the restaurants in our area. Hungry travelers can find world-class chowder, fresh local seafood, top-notch sushi, Thai, Italian, Mexican, and American comfort food within just a couple of miles of each other.
