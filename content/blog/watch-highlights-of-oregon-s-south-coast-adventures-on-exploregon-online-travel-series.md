@@ -21,6 +21,8 @@ tags:
 - Cape Arago
 categories: []
 warning: true
+new_categories:
+- Local Spotlight
 
 ---
 The Coos Bay-North Bend Visitor and Convention Bureau was proud to once again host local media personality and Oregon travel guru, Rick Dancer to explore some of our favorite places and spaces and talk to some of our favorite people on Oregon's South Coast!
