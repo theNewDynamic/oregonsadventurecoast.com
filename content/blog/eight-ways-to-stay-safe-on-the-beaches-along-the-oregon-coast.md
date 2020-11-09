@@ -1,24 +1,27 @@
 ---
 title: Eight Ways to Stay Safe on the Beaches Along the Oregon Coast
-date: '2018-10-23T11:00:58-04:00'
-description: >-
-  Now that “storm watching season” is upon us, it’s more important than ever to
-  avoid potential dangers by following these guidelines to keep you and your
-  family safe on Oregon’s Adventure Coast. Please be careful when visiting our
-  beaches and never turn your back on the ocean.
+date: 2018-10-23T11:00:58-04:00
+description: Now that “storm watching season” is upon us, it’s more important than
+  ever to avoid potential dangers by following these guidelines to keep you and your
+  family safe on Oregon’s Adventure Coast. Please be careful when visiting our beaches
+  and never turn your back on the ocean.
 tags:
-  - news
-  - Winter Storm Watching
-  - Coos Bay
-  - North Bend
-  - Charleston
-  - Oregon Coast Safety Tips
-  - Sneaker Waves
-  - Beaches
-  - ''
+- news
+- Winter Storm Watching
+- Coos Bay
+- North Bend
+- Charleston
+- Oregon Coast Safety Tips
+- Sneaker Waves
+- Beaches
+- ''
 categories:
-  - Beach
-image: /img/shore-acres-safe-beaches.jpg
+- Beach
+image: "/img/shore-acres-safe-beaches.jpg"
+new_categories:
+- Oregon's Adventure Coast News & Info
+- Local Spotlight
+
 ---
 ## Following these rules could possibly save your life (or someone else's). PLEASE read and follow these guidelines for your safety and the safety of those around you.
 
