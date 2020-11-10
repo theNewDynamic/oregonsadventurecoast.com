@@ -2,7 +2,7 @@
 title: Herbal Choices - North Bend
 property_description: Helpful staff to assist with your cannabis needs. Open daily
   10am-9pm
-photo_name: "/img/herbal-choices.jpg"
+photo_name: "/img/herbal-choices-cannabis-new.jpg"
 photo_alt: ''
 property_category:
 - Herbals
