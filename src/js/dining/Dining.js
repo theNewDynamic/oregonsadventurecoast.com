@@ -16,7 +16,7 @@ export default class Lodging {
      * @return {string} - string of the template data
      */
     generateTemplate(val) {
-        let category = this.generateCategoryTpl(val.property_category);
+        let category = this.generateCategoryTpl([val.category]);
         let phone = this.generatePhoneTpl(val.phone1, val.phone2);
         let address = this.generateAddressTpl({
             address1: val.address1,
@@ -37,7 +37,7 @@ export default class Lodging {
         
             <div class="content">
                 <div class="category">
-                    ${category.label}
+                    ${category.join(' | ')}
                 </div>
         
                 <div class="location">
@@ -69,12 +69,17 @@ export default class Lodging {
      * @return {string} - category name
      */
     generateCategoryTpl(cat) {
-        let catTpl = this.findOptionData.find(entryCategoryOptions, cat);
-        
-        if (catTpl !== undefined) {
-            return catTpl;
+        if(typeof cat !== "undefined") {
+            let cats = []
+            cat.forEach(function(value){
+                if (value !== undefined) {
+                    value.forEach(function(entry){
+                        cats.push(entry)
+                    }, this)
+                }
+            }, this)
+            return cats
         }
-
         return {label: ''};
     }
 
