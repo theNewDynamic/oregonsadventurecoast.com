@@ -2,7 +2,7 @@
 title: Farrs Hardware
 property_description: Locally owned and operated Hometown Hardware Store. Delivery
   available. Open Mon-Sat 8am-6pm; Sun 9am-5pm.
-photo_name: "/img/farrs2.jpg"
+photo_name: "/img/farrs-hardware-new.jpg"
 photo_alt: ''
 property_category:
 - Hardware
