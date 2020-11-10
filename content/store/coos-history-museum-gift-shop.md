@@ -2,7 +2,7 @@
 title: Coos History Museum Gift Shop
 property_description: Museum gift shop featuring local art and books by local authors,
   plus gift items and keepsakes. Open Tues-Sat 10am.
-photo_name: "/img/chmlogo.jpg"
+photo_name: "/img/coos-history-museum-new.jpg"
 photo_alt: ''
 property_category:
 - Souvenirs
