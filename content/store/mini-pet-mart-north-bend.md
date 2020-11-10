@@ -2,7 +2,7 @@
 title: Mini Pet Mart North Bend
 property_description: Top quality pet supplies from brands you trust. Open Mon-Sat
   9am-7pm, Sun 10am-6pm.
-photo_name: "/img/minipetmart.jpg"
+photo_name: "/img/mini-pet-mart-new.jpg"
 photo_alt: ''
 property_category:
 - Pet Products
