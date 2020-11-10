@@ -2,7 +2,7 @@
 title: Big Lots
 property_description: Housewares, grocery, furniture, seasonal items and more. Open
   daily 9am-9pm
-photo_name: "/img/big_lots_logo.jpg"
+photo_name: "/img/big-lots-new.jpg"
 photo_alt: ''
 property_category:
 - Groceries
