@@ -1,7 +1,7 @@
 ---
 title: Lillie Family Market
 property_description: Neighborhood grocery & hot deli. Open daily.
-photo_name: "/img/lilliemrkt.jpg"
+photo_name: "/img/lillie-family-market-new.jpg"
 photo_alt: ''
 property_category:
 - Groceries
