@@ -2,7 +2,7 @@
 title: Safeway Coos Bay
 property_description: National Grocery chain with pharmacy, butcher, hot deli, bakery,
   floral. Open daily.
-photo_name: "/img/safeway.jpg"
+photo_name: "/img/safeway-top-aligned.jpg"
 photo_alt: ''
 property_category:
 - Groceries
