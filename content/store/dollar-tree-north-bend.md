@@ -1,7 +1,7 @@
 ---
 title: Dollar Tree - North Bend
 property_description: Eclectic mix of household items - all for $1. Open daily 8am-9pm
-photo_name: "/img/dollar-tree-logo-font.jpg"
+photo_name: "/img/dollar-tree-new.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
