@@ -1,7 +1,7 @@
 ---
 title: America's Mattress
 property_description: Wide variety of mattress brands and types. Open daily 10am-6pm
-photo_name: "/img/americasmattress.jpg"
+photo_name: "/img/americasmattress-new.jpg"
 photo_alt: America's Mattress
 property_category:
 - Home Goods
