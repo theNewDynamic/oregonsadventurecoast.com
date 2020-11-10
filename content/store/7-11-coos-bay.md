@@ -1,7 +1,7 @@
 ---
 title: 7-11 Coos Bay
 property_description: 24-hour convenient store
-photo_name: "/img/7-11-630x366.jpg"
+photo_name: "/img/7-11-630x366-new.jpg"
 photo_alt: 7-11
 property_category:
 - Groceries
