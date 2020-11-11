@@ -1,7 +1,7 @@
 ---
 title: World Pawn Exchange LLC
 property_description: Buy, Sell and Trade. Open Mon-Sat 10am-5:30pm
-photo_name: "/img/worldpawn.jpg"
+photo_name: "/img/world-pawn-exchange-new.jpg"
 photo_alt: ''
 property_category:
 - Resale
