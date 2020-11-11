@@ -2,7 +2,7 @@
 title: Rooted Coast Cannabis
 property_description: Helpful staff to assist with your cannabis needs. Open daily
   8am-10pm.
-photo_name: "/img/rootedcoast.jpg"
+photo_name: "/img/rooted-coast-cannibas-new.jpg"
 photo_alt: ''
 property_category:
 - Herbals

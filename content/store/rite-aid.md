@@ -1,7 +1,7 @@
 ---
 title: Rite Aid
 property_description: National drugstore chain. Open daily 8am-9pm.
-photo_name: "/img/riteaid.jpg"
+photo_name: "/img/rite-aid-new.jpg"
 photo_alt: ''
 property_category:
 - Pharmacy
