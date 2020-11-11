@@ -1,7 +1,7 @@
 ---
 title: Spa Culture
 property_description: Full Service Salon & Day Spa. Open Mon-Sat appointments recommended.
-photo_name: "/img/spaculture2.jpg"
+photo_name: "/img/spa-culture-salon-new.jpg"
 photo_alt: ''
 property_category:
 - Personal services
