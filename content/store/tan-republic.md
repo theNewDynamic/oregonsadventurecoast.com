@@ -3,7 +3,7 @@ title: Tan Republic
 property_description: Tanning salon with four levels of tanning beds, Red light therapy
   bed, and sunless spray system. Open 10am-8:30pm Mon, Tues, Weds, Fri; 10am-6pm Thurs
   & Sat.
-photo_name: "/img/tanrepublic2.jpg"
+photo_name: "/img/tan-republic-new.jpg"
 photo_alt: ''
 property_category:
 - Personal services

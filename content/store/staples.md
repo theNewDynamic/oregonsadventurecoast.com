@@ -2,7 +2,7 @@
 title: Staples
 property_description: National chain for all your office & copy needs. UPS shipping
   service. Open Mon-Fri 8am-8pm; Sat 9am-6pm; Sun 10am-6pm.
-photo_name: "/img/staples-logo.jpg"
+photo_name: "/img/staples-new.jpg"
 photo_alt: ''
 property_category:
 - Home Goods
