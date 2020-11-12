@@ -17,7 +17,6 @@ tags:
 - Empire District Virtual Tree Lighting and Santa Parade
 new_categories:
 - Special Events & Holidays
-- Oregon's Adventure Coast News & Info
 categories: []
 seo:
   title: ''
@@ -36,16 +35,15 @@ The pandemic may have broken our hearts this year, but it didn’t break our spi
 
 Our innovative local holiday elves have found a way for us to be together, while maintaining a safe distance and health protocols as recommended by our public health organizations. From Thanksgiving night to New Year’s Eve 2020, neighborhoods and business districts throughout Coos Bay, North Bend and Charleston will light up for the holidays! You can pick up a map from the Coos Bay and North Bend Visitor Information Centers and delight in the sights of Christmas as you drive around our beautiful communities. If you are staying at one of our lodging properties during this time, bring your receipt to either visitor center to receive a special commemorative ornament!
 
-But that’s not all. Other holiday events for 2020 include: 
+But that’s not all. Other holiday events for 2020 include:
 
 **November 13th-14, 2020:** [Holiday Open House in downtown Coos Bay](https://www.facebook.com/events/710242702942595) (Save your shopping receipts from downtown Coos Bay businesses from November 13th through November 28th to receive a commemorative mug when you spend more than $100! [Click here for details](https://www.oregonsadventurecoast.com/event/christmas-at-the-coast/).
 
 **November 28, 2020:** Drive by Santa and Tree Lighting in Downtown Coos Bay
 
-  
 **December 4, 2020:** Empire District Virtual Tree Lighting and Santa Parade. See [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194) for more information.
 
-More to announce! Stay tuned. 
+**_More to announce! Stay tuned_**.
 
 ![](/img/holidays-oregon-s-adventure-coast-blog-695x322-jpg.png)
 
@@ -90,5 +88,11 @@ While you are here, be sure to check out our locally-owned shops throughout the 
 * [Books by the Bay](https://www.facebook.com/Books-By-The-Bay-232314893488700/) — Friendly, old-style bookstore featuring new and used books with plenty of room to relax, read, listen to author readings and get personal recommendations.
 * [Coos Bay Visitor Information Center](https://www.facebook.com/Coos-Bay-Visitor-Center-120976481286195) - Find a wide assortment of local books, photography, t-shirts, souvenirs and Myrtlewood items. In downtown Coos Bay.
 
-![](/img/wear-a-mask-oregon-s-adventure-coast.png)  
+**Need more ideas for gift giving this holiday season?** [**Check out the full list of shops**](https://www.oregonsadventurecoast.com/shopping/) **in the Coos Bay, North Bend & Charleston area!** 
+
+{{< spacer 25 >}}
+
+![](/img/wear-a-mask-oregon-s-adventure-coast.png)
+
+{{< spacer 25 >}}  
 We look forward to welcoming you back to **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. We ask that you to follow Oregon’s [Safe+Strong guidelines](https://govstatus.egov.com/reopening-oregon) to keep our community safe and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). Please don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
