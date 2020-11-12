@@ -23,6 +23,7 @@ categories:
 image: "/img/02-02-18-catch-your-own-crab-mealoff.jpg"
 warning: true
 new_categories:
+- Outdoor Adventures
 - Crabbing
 
 ---
