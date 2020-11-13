@@ -13,29 +13,25 @@ accordion_sections: []
 boxes: []
 
 ---
-_Updated at 10:00am, August 12, 2020_
+**_Updated November 13, 2020_**
 
 **As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors.**
 
-##### As of July 15, 2020, [face coverings are now mandatory](https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36869) for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.
+**On November 13, 2020, Governor Kate Brown called for a 2-week freeze, from November 18-December 2**, on social gatherings with more than 6 attendees. The freeze also closes gyms & fitness centers, indoor recreation facilities such as museums, limits the number of patrons that can be inside a retail establishment, and closes restaurants & bars to all but take-out. This is a statewide mandate. 
+
+{{< spacer 25>}}
+
+###### As of July 15, 2020, [face coverings are now mandatory](https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=36869) for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.
 
 ###### {{< spacer 25 >}}
 
-**On August 1st, 2020, the Coos History Museum will re-open under strict protocols. All guests are encouraged to pre-register for a tour appointment prior to their visit, and will be required to wear mandatory face coverings upon entry. To book an appointment,** [**click here**](https://cooshistory.org/visitor-appointments)**.**
-
-###### {{< spacer 25 >}}
-
-**The Marshfield Sun Printing Museum on Coos Bay’s historic waterfront will be open special hours August 1 - 29: Fridays and Saturdays, 1-4 p.m. (other times may be available by appointment; call 541-267-6152).**
-
-###### {{< spacer 25 >}}
-
-##### **Coos County has moved into Phase 2 Re-Opening as of June 6, 2020.** [Read More Here!](/blog/ready.set.adventure-what-travelers-can-expect-as-we-reopen-oregon-s-adventure-coast/)  And [Here!](/blog/how-hotels-on-oregon-s-adventure-coast-are-keeping-guests-safe/)
+###### **Coos County has moved into Phase 2 Re-Opening as of June 6, 2020.** [Read More Here!](/blog/ready.set.adventure-what-travelers-can-expect-as-we-reopen-oregon-s-adventure-coast/)  And [Here!](/blog/how-hotels-on-oregon-s-adventure-coast-are-keeping-guests-safe/)
 
 This means some restaurants are now open for dine-in with restrictions and retail businesses are now able to re-open with certain protocols. Please be mindful of others when out in public. We encourage you to wear a mask when in public and to keep a 6 foot distance from others whenever possible. **Please call ahead before going to a shop or restaurant to ensure the business is open!**
 
 **Visitor Information Centers in Coos Bay, North Bend & Charleston are all open to assist you when visiting our area. Please follow the protocols in place at each Center.**
 
-#### **_Governor Brown's latest Executive Order lifts some travel restrictions and allows visits to counties in Phase 2 Re-Opening._**
+###### **_Governor Brown's latest Executive Order lifts some travel restrictions and allows visits to counties in Phase 2 Re-Opening._**
 
 **If you are ready to travel, we are ready to welcome you back to Oregon's Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let's all do our part to stop the spread of COVID-19.**
 
