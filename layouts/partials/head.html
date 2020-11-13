@@ -7,11 +7,6 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="{{ .Params.seo.description }}">
-	{{if eq (getenv "HUGO_ENV") "production"}}
-  <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
-	{{else}}
-		<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-	{{end}}
 	<!-- Favicons -->
 	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png">
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png">
@@ -34,8 +29,8 @@
 	<meta name="msapplication-wide310x150logo" content="mstile-310x150.png">
 	<meta name="msapplication-square310x310logo" content="mstile-310x310.png">
 
-	{{ if templates.Exists "partials/tnd-seo/print.html" }}
-  	{{ partial "tnd-seo/print.html" . }}
+	{{ if templates.Exists "partials/tnd-seo/tags.html" }}
+		{{ partial "tnd-seo/tags.html" . }}
 	{{ end }}
 
 	{{ with .Params.forestry_instant_preview_id }}

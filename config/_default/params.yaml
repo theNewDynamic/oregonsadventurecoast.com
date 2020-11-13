@@ -1,0 +1,9 @@
+visitorGuideLink: /visitor-guide
+tnd_seo:
+  # Used for articles without images
+  default_image: "/uploads/default.jpg"
+  # if true will use the SEO data object to output an json+ld script tag.
+  jsonld: true
+  disable_title_tag: false
+  # if true module will handle follow/nofollow tags for pages depending on environment and Front Matter setting.
+  enable_follow: true
