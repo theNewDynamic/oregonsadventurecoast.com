@@ -1,5 +1,5 @@
 module github.com/theNewDynamic/oregonsadventurecoast.com
-replace github.com/theNewDynamic/hugo-module-tnd-seo => /Users/regisphilibert/Boulot/tnd/hugo-module-tnd-seo
+
 go 1.14
 
 require (
