@@ -77,6 +77,7 @@ function buildEntries() {
         let getFilterMatchType = new GetFilterMatchType();
         let sortMenu = new SortMenu();
         let sortAlpha = false;
+        let mapBoundsSet = false;
 
         /**
          * Call to get the entry data
@@ -190,7 +191,10 @@ function buildEntries() {
             }
 
             //set the initial map bounds
-            viewMap.fitBounds(bounds);
+            if (!mapBoundsSet){
+                viewMap.fitBounds(bounds);
+                mapBoundsSet = true;
+            }
 
             //hide the map if initial page load
             if(hideMap === false){
