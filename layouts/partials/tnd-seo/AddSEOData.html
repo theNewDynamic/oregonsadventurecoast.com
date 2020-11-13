@@ -1,0 +1,31 @@
+{{ $s := newScratch }}
+{{ $s.Set "seo" dict }}
+
+{{/* First condition makes sure a specifif SEO Image has not been set */}}
+{{ with .Page.Params.seo.image }}{{ else }}
+  {{ $image := false }}
+  {{/* Potential parameter to be used as seo image are:
+    1. .image */}}
+  {{ with .Page.Params.image }}
+    {{ $image = . }}
+  {{ else }}
+    {{/* .photo */}}
+    {{ with .Page.Params.photo }}
+      {{ $image = . }}
+    {{ else }}
+      {{ if eq .Type "event" }}}}
+        {{/* .mediumphotobox */}}
+        {{ with .Page.Params.mediumboxphoto }}
+          {{ $image = . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ with $image }}
+    {{- $s.SetInMap "seo" "image" (. | absURL ) -}}
+  {{ end }}
+{{ end }}
+
+{{/* Merge is important here as we want to overwrite the default data model with user's edits */}}
+{{ return merge .seo ($s.Get "seo") }}

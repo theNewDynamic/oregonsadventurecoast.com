@@ -1,12 +1,9 @@
 baseurl: 'https://www.oregonsadventurecoast.com'
 languageCode: en-us
-themesDir: components
 title: Oregon's Adventure Coast
 googleAnalytics: UA-4406033-1
 MetaDataFormat: yaml
 disableAliases: true
-params:
-  visitorGuideLink: /visitor-guide
 mediaTypes:
   text/netlify:
     delimiter: ''
@@ -40,5 +37,3 @@ permalinks:
   sitepages: ':slug/'
 blackfriday:
   hrefTargetBlank: false
-theme:
-  - tnd-seo

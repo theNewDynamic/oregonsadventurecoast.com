@@ -1,0 +1,4 @@
+github.com/theNewDynamic/hugo-module-tnd-seo v0.1.5 h1:0ZmdfWV5+mFqplCYyUsGyjPOTSNyxjXYsUmoa+H7ftc=
+github.com/theNewDynamic/hugo-module-tnd-seo v0.1.5/go.mod h1:VY3Qvzif9T0Z0rjR85ufUQE1wrS/M5VZC9Dx1V8Vo8Y=
+github.com/theNewDynamic/hugo-module-tnd-tags v0.0.0-20201111152026-a098d4a6d93e h1:IUPTrbo5IXe5+xeQiM8ivj8vZUaFhU3shwUx7gj7X24=
+github.com/theNewDynamic/hugo-module-tnd-tags v0.0.0-20201111152026-a098d4a6d93e/go.mod h1:fuXjv9Nbt2hi6oaOVAqhPRrS4hL9uYcwroo6V/Mw7Uk=
