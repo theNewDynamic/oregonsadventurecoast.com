@@ -18,7 +18,8 @@ categories:
 - Miscellaneous
 seo:
   title: ''
-  description: ''
+  description: 'Every sunset is unique, but there is something especially remarkable
+    about the sunsets here on Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston.'
   imgalt: ''
   image: ''
 aliases: []
