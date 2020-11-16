@@ -11,6 +11,7 @@ units: 1
 cost: 3 - $$$
 property_category: 4 - Vacation Rental Homes
 amenityList:
+- 7 - Kitchens Available
 - 6 - WiFi Available
 address:
   street: 90011 Cape Arago Highway
