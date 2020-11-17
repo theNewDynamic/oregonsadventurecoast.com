@@ -1,7 +1,19 @@
 .snipcart-modal__container{
   z-index: 1000 !important;
 }
-
+.tnd-snipcart-form{
+  display: flex;
+  align-items: flex-end;
+  label{
+    display:block;
+  }
+  button{
+    margin-right:0;
+  }
+}
+.tnd-snipcart-control{
+  margin-right: .5rem;
+}
 .store-heading{
   border-top: 1px solid black;
   border-bottom: 1px solid black;
