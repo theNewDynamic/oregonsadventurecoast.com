@@ -1,0 +1,4 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+{{ $s.SetInMap "data" "url" .Permalink }}
+{{ return $s.Get "data" }}
