@@ -1,0 +1,32 @@
+.snipcart-modal__container{
+  z-index: 1000 !important;
+}
+
+.store-heading{
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  display: flex;
+  padding: 0 0;
+  justify-content: space-between;
+  margin: 2rem auto;
+  h1{
+    font-size: 3rem;
+    margin-bottom: 0;
+  }
+  .cart{
+    display: flex;
+    align-items: center;
+    color: $red;
+    .snipcart-checkout{
+      cursor: pointer;
+    }
+    div{
+      margin-right: 1rem;
+    }
+  }
+}
+
+.product-photo{
+  height: auto;
+  padding-top:50%
+}

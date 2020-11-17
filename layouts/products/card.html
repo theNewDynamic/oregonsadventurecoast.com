@@ -1,0 +1,21 @@
+<div class="m-lodging-item">
+  <div class="photo product-photo"
+    {{ with .Params.image }}
+      style="background-image:url({{ . }})"
+    {{ end }}
+  ></div>
+  <div class="content">
+    <div class="location">
+      <h2>{{ .Title }}</h2>
+    </div>
+    {{ with .Params.product.description }}
+      <div class="description">
+        {{ . | markdownify }}
+      </div>
+    {{ end }}
+    {{ with .Params.product.price }}
+      <p style="margin-top: .7rem;">${{ lang.NumFmt 2 . " ." }}</p>
+    {{ end }}
+    {{ partial "tnd-snipcart/form" . }}
+  </div>
+</div>

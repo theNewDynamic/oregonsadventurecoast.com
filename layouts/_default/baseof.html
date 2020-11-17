@@ -3,6 +3,7 @@
   {{ partial "head" . }}
   <body>
     {{ partial "hd" . }}
+    {{ partialCached "tnd-snipcart/tags.html" . }}
     <div id="bd">{{ block "main" . }}{{ end }}</div>
     {{ partial "footer" . }}
     {{ block "footerJs" . }}{{ end }}

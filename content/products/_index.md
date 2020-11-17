@@ -1,0 +1,4 @@
+---
+title: Store
+url: /shop
+---

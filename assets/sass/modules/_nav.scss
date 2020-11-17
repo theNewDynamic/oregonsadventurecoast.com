@@ -79,7 +79,7 @@
         padding: 4px 15px;
     }
 }
-.m-nav a {
+.m-nav a, .m-nav .m-nav-item {
     display: block;
     padding: 20px 14px;
     @include medium {
