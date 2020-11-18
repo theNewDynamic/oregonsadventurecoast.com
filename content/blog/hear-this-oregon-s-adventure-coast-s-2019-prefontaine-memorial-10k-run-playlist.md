@@ -16,6 +16,8 @@ tags:
 - 'Steve Prefontaine '
 categories: []
 warning: true
+new_categories:
+- Miscellaneous
 
 ---
 #### “I run to see who has the most guts.” - Running phenom Steve Prefontaine

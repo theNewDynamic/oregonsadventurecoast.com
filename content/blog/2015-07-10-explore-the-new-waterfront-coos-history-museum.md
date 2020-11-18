@@ -21,6 +21,8 @@ categories:
 - Culture & Museums
 image: ''
 warning: true
+new_categories:
+- Arts & Culture
 
 ---
 > ### “The new Coos History Museum & Maritime Collection is designed to celebrate our unique regional identity and heritage. It ensures that today’s visitors, and future generations, will understand the story of the people, places, and events that make Oregon’s South Coast special.” – <a href="http://cooshistory.org/center_overview" target="_blank">Coos History Museum & Maritime Collections</a>
