@@ -26,6 +26,7 @@ seo:
 aliases: []
 accordion_sections: []
 new_categories:
+- Local Spotlight
 - Oregon's Adventure Coast News & Info
 warning: false
 warning_copy: ''
