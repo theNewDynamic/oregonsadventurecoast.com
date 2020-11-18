@@ -26,6 +26,8 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- Oregon's Adventure Coast News & Info
 
 ---
 We love our visitors, we really do! But for the time being, PLEASE STAY HOME and STAY HEALTHY. We look forward to welcoming you back when we can all safely travel again- and when that happens, there will be beautiful beaches, hiking trails and more waiting for you. In the meantime, we hope this post gives you some ideas and inspiration on ways to travel with your pet on Oregon's Adventure Coast.

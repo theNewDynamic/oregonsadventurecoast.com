@@ -15,6 +15,8 @@ categories:
 - Culture & Museums
 image: ''
 warning: true
+new_categories:
+- Arts & Culture
 
 ---
 <a href="http://www.coosart.org/" target="_blank">Coos Art Museum (CAM)</a> is one of our favorite local places to explore. It might surprise you, but   for the last 5 decades, CAM has been an important piece of our state’s cultural landscape providing countless opportunities for the extraordinary artists living in our region.
