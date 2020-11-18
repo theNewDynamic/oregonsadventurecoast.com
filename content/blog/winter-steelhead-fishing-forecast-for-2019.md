@@ -13,6 +13,8 @@ tags:
 - 'Oregon Coast fishing trip '
 categories: []
 warning: true
+new_categories:
+- Fishing
 
 ---
 _Winter steelhead fishing is one of our most popular outdoor recreational activities here in Coos Bay, North Bend and Charleston during the winter months. We recently asked one of our local fishing experts,_ **Gary Vonderohe** from the [Oregon Department of Fish & Wildlife](https://www.dfw.state.or.us/resources/fishing/), _to share some tips to help anglers get the most out of their winter steelhead fishing trip._

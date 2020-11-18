@@ -29,6 +29,8 @@ categories:
 - Miscellaneous
 image: "/img/capearago.jpg"
 warning: true
+new_categories:
+- Special Events & Holidays
 
 ---
 Do you remember the last time you had fun?</h2>
