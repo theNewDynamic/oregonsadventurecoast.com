@@ -19,6 +19,9 @@ categories:
 - Water Recreation
 - Kayaking
 warning: true
+new_categories:
+- Fishing
+- Outdoor Adventures
 
 ---
 Updated 8.28.2020

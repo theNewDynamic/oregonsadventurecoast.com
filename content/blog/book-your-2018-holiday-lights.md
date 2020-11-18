@@ -1,6 +1,6 @@
 ---
 title: Book Your Trip for the 2018 Shore Acres Holiday Lights!
-date: 2018-09-05T07:55:00-07:00
+date: 2018-09-05T07:55:00.000-07:00
 description: Volunteers at Shore Acres State Park will soon be hard at work preparing
   for the Annual Holiday Lights Display. This is certainly one of our favorite local
   holiday traditions and it has captured the attention of media, residents, and visitors
@@ -35,6 +35,8 @@ seo:
   description: ''
   image: ''
 warning: true
+new_categories:
+- Special Events & Holidays
 
 ---
 ```

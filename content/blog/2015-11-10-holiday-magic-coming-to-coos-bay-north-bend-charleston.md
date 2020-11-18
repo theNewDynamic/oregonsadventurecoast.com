@@ -20,6 +20,8 @@ categories:
 - Entertainment & Nightlife
 image: ''
 warning: true
+new_categories:
+- Special Events & Holidays
 
 ---
 # “It’s the most wonderful time of the year….”
