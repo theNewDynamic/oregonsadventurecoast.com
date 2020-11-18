@@ -12,9 +12,10 @@ categories:
 - Culture & museums
 image: "/img/southern-oregon-charm-trail.jpg"
 warning: true
+new_categories:
+- Oregon's Adventure Coast News & Info
 
 ---
-
 {{< floatimage src="/img/img_0350-1-.jpg" float="right" alt="Southern Oregon Charm Tral" size="40" >}}
 
 What's  this season's hottest accessory? The {{< link url="https://info4hr.com/charmtrail.html" >}}Southern Oregon Coast Charm Bracelet{{< /link >}}! Grab a friend or family member and head over to Oregon's South Coast for a "charming" adventure as you experience local culture and collect a special, one-of-a-kind souvenir.

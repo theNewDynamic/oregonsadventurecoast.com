@@ -1,6 +1,6 @@
 ---
 title: '"That Oregon Life- ExplOregon Series"  Coming to Coos Bay, North Bend & Charleston!'
-date: 2018-07-31T09:20:00-07:00
+date: 2018-07-31T09:20:00.000-07:00
 description: 'UPDATE as of August 1st: <em>As originally noted, the scheduled broadcast
   dates for the segments mentioned in this post are subject to change without notice.
   We''ll do our best to keep you updated. At this time, some of the segments scheduled
@@ -14,6 +14,8 @@ image: "/img/south-cove-cliffs-new.jpg"
 seo:
   image: "/img/south-cove-cliffs-new.jpg"
 warning: true
+new_categories:
+- Oregon's Adventure Coast News & Info
 
 ---
 <strong>UPDATE as of August 1st:</strong> <em>As originally noted, the scheduled broadcast dates for the segments mentioned in this post are subject to change without notice. We'll do our best to keep you updated. At this time, some of the segments scheduled to air today &amp; tomorrow will now be shared on Friday. Tune into the <a href="https://www.facebook.com/ThatOregonLife/">That Oregon Life Facebook Page</a>!</em>

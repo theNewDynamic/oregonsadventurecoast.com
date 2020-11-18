@@ -1,6 +1,6 @@
 ---
 title: Twelve Things You May Not Have Known About the Coos Art Museum
-date: 2020-04-20T13:58:55+00:00
+date: 2020-04-20T13:58:55.000+00:00
 description: "Without question, one of the best kept secrets on Oregon's South Coast
   is the Coos Art Museum (CAM). For nearly 50 years, CAM has been a vital part of
   the state’s cultural landscape providing countless opportunities for the many extraordinary
@@ -21,6 +21,8 @@ categories:
 - Culture & Museums
 image: ''
 warning: true
+new_categories:
+- Arts & Culture
 
 ---
 ### COVID-19 Response

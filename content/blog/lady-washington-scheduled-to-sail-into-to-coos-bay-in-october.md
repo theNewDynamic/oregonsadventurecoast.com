@@ -1,6 +1,6 @@
 ---
 title: Lady Washington Scheduled to Sail Into to Coos Bay in October!
-date: 2018-09-15T09:45:33-04:00
+date: 2018-09-15T09:45:33.000-04:00
 description: 'The historical tall ship Lady Washington will dock in Coos Bay,October
   3rd through 9th, 2018. The ship will be open to the public for vessel tours at the
   dock (for a suggested donation of $5 per person). Tickets are also available for
@@ -31,6 +31,8 @@ seo:
     ship sailing experience. '
   image: "/img/lady-washington-coming-to-coos-bay-october-2018-photo-grays-harbor-historical-seaport.jpg"
 warning: true
+new_categories:
+- Special Events & Holidays
 
 ---
 ## Lady Washington to Dock in Coos Bay, OR – October 3 to October 9, 2018
