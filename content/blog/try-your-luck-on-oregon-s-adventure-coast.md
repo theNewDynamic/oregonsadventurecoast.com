@@ -8,6 +8,8 @@ image: "/img/Oregon Coast Casinos.jpg"
 tags: []
 categories: []
 warning: true
+new_categories:
+- Shopping & Entertainment
 
 ---
 If the kayaking, golf, amazing wildlife, world-class fishing, breathtaking hikes and Instagram- worthy views don’t have you feeling like you’ve hit the jackpot on the Southern Oregon coast, maybe this will: an actual jackpot.

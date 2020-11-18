@@ -20,6 +20,8 @@ tags:
 categories:
 - Crabbing and Clamming
 warning: true
+new_categories:
+- Clamming
 
 ---
 Are you craving an Oregon Coast adventure? Whether you’ve been to our area before or you’re planning your first trip, we have an activity or two to add to your bucket list. Let’s talk Oregon Coast crabbing and clamming. No trip to Oregon’s Adventure Coast is complete without a fresh Dungeness crab or clam feast from the waters of lower Coos Bay.
