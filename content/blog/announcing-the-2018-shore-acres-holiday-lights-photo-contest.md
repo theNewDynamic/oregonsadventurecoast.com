@@ -16,6 +16,8 @@ categories:
 image: "/img/96336566-3350-49e0-8f45-055b330754ac.jpg"
 publish_date: ''
 warning: true
+new_categories:
+- Oregon's Adventure Coast News & Info
 
 ---
 ## Could Your Instagram Post Be Our "#coosholidaylights Photo-of-the-Week"?

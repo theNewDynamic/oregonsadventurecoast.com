@@ -19,6 +19,8 @@ categories:
 - Miscellaneous
 image: ''
 warning: true
+new_categories:
+- Special Events & Holidays
 
 ---
 Sailing fans of all ages are in for a treat!
