@@ -24,6 +24,8 @@ aliases:
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- Special Events & Holidays
 
 ---
 ### Plan Your Romantic, Adventurous Getaway to Oregon’s Adventure Coast!

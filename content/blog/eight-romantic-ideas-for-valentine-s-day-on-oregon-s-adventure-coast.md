@@ -17,6 +17,8 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- Special Events & Holidays
 
 ---
 ## MAKE OREGON’S ADVENTURE COAST YOUR DESTINATION FOR A ROMANTIC GETAWAY!

@@ -25,6 +25,8 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- Special Events & Holidays
 
 ---
 Exploring the unique and eclectic shops and businesses in Downtown Coos Bay and North Bend is an adventure upon itself, but add a glass or two of wine to benefit local non-profits, and you have an entirely different experience! Look out for these special events on Oregon’s Adventure Coast that celebrate community, wine and locally owned businesses while supporting special causes.
