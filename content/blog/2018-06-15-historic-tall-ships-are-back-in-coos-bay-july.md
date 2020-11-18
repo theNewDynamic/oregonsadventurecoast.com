@@ -32,6 +32,8 @@ categories:
 - Miscellaneous
 image: "/img/06-15-18-lady-washington-hawaiian-chieftan.jpg"
 warning: true
+new_categories:
+- Special Events & Holidays
 
 ---
 <h2>See the historic Lady Washington and Hawaiian Chieftain at the Coos Bay Boardwalk July 12th-24th</h2>

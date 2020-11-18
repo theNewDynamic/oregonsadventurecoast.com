@@ -24,6 +24,8 @@ categories:
 - Miscellaneous
 image: "/img/06-08-18-fireworks-at-the-mill.jpg"
 warning: true
+new_categories:
+- Special Events & Holidays
 
 ---
 Oregon's Adventure Coast will be bustling with events and activity this Independence Day. Plan your trip and join the fun at our 4th of July festivities, explore the <a href="/shopping/">unique shops</a> and <a href="/dining/">restaurants</a> in the towns of Coos Bay, North Bend and Charleston then visit the many <a href="/adventures/">beautiful natural attractions</a> unique to our area.
