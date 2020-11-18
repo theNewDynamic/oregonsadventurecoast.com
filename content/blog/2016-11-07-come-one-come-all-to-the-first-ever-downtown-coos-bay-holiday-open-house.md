@@ -24,6 +24,9 @@ categories:
 - Shopping
 image: ''
 warning: true
+new_categories:
+- Shopping & Entertainment
+- Special Events & Holidays
 
 ---
 <pre><em>Image Credit: <a href="https://www.facebook.com/115979621795980/photos/a.505449182849020.1073741825.115979621795980/626619490731988/?type=3&theater" target="_blank">Painted Zebra via Facebook</a></em>

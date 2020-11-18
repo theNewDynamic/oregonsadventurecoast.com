@@ -20,6 +20,8 @@ categories:
 - Miscellaneous
 image: "/img/05-22-18-nine-hot-festivals.jpg"
 warning: true
+new_categories:
+- Special Events & Holidays
 
 ---
 There are many reasons to visit Oregon's Adventure Coast each summer. Between the blissful escape from scorching hot temperatures in other parts of the region and the wide range of <a href="/adventures/" target="_blank" rel="noopener noreferrer">amenities and attractions</a> to choose from, what's not to love? Summer is also "Festival Season" here. The towns of Coos Bay, North Bend, and Charleston, OR are home to a number of unique outdoor festivals celebrating our local culture.

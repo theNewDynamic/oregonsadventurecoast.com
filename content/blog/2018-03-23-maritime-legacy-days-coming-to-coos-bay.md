@@ -23,6 +23,8 @@ categories:
 - Miscellaneous
 image: "/img/03-23-18-maritime-legacy-days.jpg"
 warning: true
+new_categories:
+- Special Events & Holidays
 
 ---
 #### <h4>UPDATE 4/13/18 Sorry everybody, we just got word.</h4>
