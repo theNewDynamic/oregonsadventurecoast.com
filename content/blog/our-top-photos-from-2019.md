@@ -22,6 +22,8 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- Miscellaneous
 
 ---
 We spend a lot of time talking about how Coos Bay-North Bend-Charleston is a fantastic destination to visit but sometime's it's better to simply show you. As we reflected on 2019, we thought it would be fun to share our most "liked" or commented on posts on[ Instagram](https://www.instagram.com/travelcoosbay/)- the ultimate visual storytelling platform. 

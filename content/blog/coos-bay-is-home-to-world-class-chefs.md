@@ -21,6 +21,8 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- Local Food & Drink
 
 ---
 Coos Bay, North Bend & Charleston may have that small-town charm and appeal, but it doesn't mean our restaurants are lacking in any way. You may be surprised to know that we have world-class chefs and chefs-in-training right here in our own back yard! The [Oregon Coast Culinary Institute](https://www.socc.edu/), one of Oregon's top culinary schools, features award-winning student teams. A meal prepared by [Black Market Gourmet](https://www.facebook.com/BlackMarketGourmet1998/) owner and man of many talents, [Chef Jardin Kazaar](https://theworldlink.com/lifestyles/go/chef-kazaar-shares-new-art-at-black-market-gourmet/article_1469f754-c6dc-537f-82e0-b2bfd668fd0e.html), is something everyone should experience. 

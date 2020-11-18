@@ -16,6 +16,8 @@ categories:
 - Entertainment & Nightlife
 image: ''
 warning: true
+new_categories:
+- Arts & Culture
 
 ---
 The streets of Coos Bay is about to be filled with music this summer. Not only do we have the <a href="/2016/06/12-things-you-need-to-know-about-the-2016-oregon-coast-music-festival/" target="_blank">Oregon Coast Music Festival</a> July 21st-30th, <a href="http://theworldlink.com/" target="_blank">The World Newspaper</a> and the <a href="http://coosbaydowntown.org/" target="_blank">Coos Bay Downtown Association</a> has announced that the popular lunchtime concert series, &#8220;<a href="http://theworldlink.com/lifestyles/go/music-will-return-to-the-corner/article_d0fbcd81-bc80-516f-ae7e-7f023c35ee40.html" target="_blank">Music on the Corner</a>&#8220;, will kick off again on July 8th at noon!
