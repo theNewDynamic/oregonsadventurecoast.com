@@ -22,6 +22,8 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- Oregon's Adventure Coast News & Info
 
 ---
 **What Travelers Can Expect As We Reopen Oregon’s Adventure Coast**  

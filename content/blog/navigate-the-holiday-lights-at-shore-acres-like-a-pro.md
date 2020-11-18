@@ -23,6 +23,8 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- Special Events & Holidays
 
 ---
 Each year,[ Shore Acres State Park](http://shoreacres.net/) is transformed into a glittering holiday wonderland that draws visitors from all over the United States and from around the world! What began as a modest holiday display organized by a handful of volunteers thirty-three years ago has grown into one of the most spectacular holiday light displays on the West Coast, and it keeps getting bigger and better year after year.

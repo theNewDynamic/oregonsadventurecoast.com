@@ -24,6 +24,9 @@ tags:
 - The Old Tower House Bed & Breakfast
 categories: []
 warning: true
+new_categories:
+- Oregon's Adventure Coast News & Info
+- Local Spotlight
 
 ---
 Five Fun and Funky Places to Stay on Oregon’s Adventure Coast
