@@ -15,6 +15,8 @@ categories:
 - Culture & Museums
 image: ''
 warning: true
+new_categories:
+- Arts & Culture
 
 ---
 # FREE Admission to Coos Art Museum on Saturday, November 28th!

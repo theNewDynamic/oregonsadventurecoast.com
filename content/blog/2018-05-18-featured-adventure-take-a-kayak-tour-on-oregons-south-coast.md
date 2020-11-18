@@ -21,6 +21,8 @@ categories:
 - Miscellaneous
 image: "/img/05-18-18-adventure-kayak-tour.jpg"
 warning: true
+new_categories:
+- Outdoor Adventures
 
 ---
 Fishing, wildlife viewing and exploring the peaceful waterways along Oregon's South Coast...these are a few of our favorite things. For the ultimate summertime adventure, it doesn't get much better than gliding along the water on a guided [kayak](/water-recreation) tour.
