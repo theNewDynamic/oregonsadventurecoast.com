@@ -22,6 +22,8 @@ categories:
 - Crabbing & Clamming
 image: ''
 warning: true
+new_categories:
+- Fishing
 
 ---
 With such of range of prime fishing spots, it’s no wonder Coos Bay, North Bend and Charleston area is an angler’s dream come true! Between the bay, ocean, and 30+ lakes and rivers, you’re all but guaranteed to enjoy a fishing trip worth bragging about this spring and summer. Here’s a step-by-step guide to help you plan the ultimate fishing adventure this spring!
