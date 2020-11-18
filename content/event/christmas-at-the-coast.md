@@ -65,6 +65,10 @@ Santa is Coming to Coos Bay! Santa will be at 3rd & Central in Downtown Coos Bay
 
 The Empire District of Coos Bay will hold their annual Tree Lighting Virtually this year on their [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194). After the lighting, Santa will be riding through the streets in the Empire District on top of the Empire fire engine
 
+#### December 4 - <br>North Bend Christmas Cruise
+
+North Bend invites you to a new, safe event this Christmas at the North Bend Community Center, 2222 Broadway Ave. Cruise through a lighted display, receive a goodie bag, a much more! 
+
 {{< spacer 50 >}}
 
 #### More Event Details Coming Soon!!!
