@@ -26,6 +26,8 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- Oregon's Adventure Coast News & Info
 
 ---
 Oregon’s South Coast is a runner’s haven. Not only is this the hometown of one of our country’s greatest running icons, the late [Steve Prefontaine](/steve-prefontaine-story), but the region is also filled with natural running trails, temperate weather and coastal beauty that can’t be found anywhere else in the country.
