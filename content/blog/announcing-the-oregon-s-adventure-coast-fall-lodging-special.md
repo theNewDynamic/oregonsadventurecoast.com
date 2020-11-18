@@ -27,6 +27,8 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+new_categories:
+- Oregon's Adventure Coast News & Info
 
 ---
 ## _Save 15% Off Participating Properties Between October 1, 2020 through November 30, 2020_

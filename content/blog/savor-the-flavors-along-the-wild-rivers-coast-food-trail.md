@@ -32,7 +32,8 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-new_categories: []
+new_categories:
+- Local Food & Drink
 
 ---
 **_Get Your Local Food Fix and Let Your Taste Buds Run Wild This Fall_**
