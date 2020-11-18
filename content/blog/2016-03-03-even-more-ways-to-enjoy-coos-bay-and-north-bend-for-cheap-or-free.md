@@ -23,6 +23,8 @@ categories:
 - Walking & Hiking
 image: ''
 warning: true
+new_categories:
+- Miscellaneous
 
 ---
 Let&#8217;s not mince words here. We&#8217;re big fans of cheap. Cheap is awesome, that&#8217;s just a proven fact. And even better than cheap is free!  Nothing beats spending an awesome day with friends without the unsettling feeling of &#8220;wallet fatigue.&#8221;
