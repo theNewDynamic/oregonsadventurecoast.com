@@ -21,6 +21,8 @@ categories:
 - Fairs & Festivals
 image: ''
 warning: true
+new_categories:
+- Special Events & Holidays
 
 ---
 ### _Summer Festival Round Up: Charleston Seafood Festival, Blackberry Arts Festival, Mill Luck Salmon Celebration, Bay Area Fun Festival and more!_

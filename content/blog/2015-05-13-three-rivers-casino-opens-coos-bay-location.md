@@ -18,6 +18,8 @@ categories:
 - Entertainment & Nightlife
 image: ''
 warning: true
+new_categories:
+- Shopping & Entertainment
 
 ---
 An eager crowd joined tribal members of the Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians, along with local business leaders last week to witness the ribbon cutting ceremony and grand opening of the new <a href="http://threeriverscasino.com/" target="_blank">Three Rivers Casino Coos Bay</a>. After months of construction, the casino features a 15,000 square foot casino floor with 250 new bingo-slots along with a full service restaurant and bar, <a href="http://threeriverscasino.com/page/coos-bay/cafe-1297" target="_blank">Cafe 1297</a>.
