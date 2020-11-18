@@ -12,6 +12,8 @@ image: "/img/Charleston Marine Life Center blog-695x322.jpg"
 tags: []
 categories: []
 warning: true
+new_categories:
+- Local Spotlight
 
 ---
 The Pacific Ocean is filled with a vibrant array of marine life and rich ecosystems. Those of us who live here or are visiting Oregon's South Coast are very fortunate to have such extraordinary access to these precious natural habitats and curiosities. It's no wonder this area is an epicenter for everyone from marine biologists to the naturally curious.
