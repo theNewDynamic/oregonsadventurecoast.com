@@ -25,6 +25,8 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- Special Events & Holidays
 
 ---
 ### Coos Bay Downtown Association Farmers Market Returns for 20th Season June 3, 2020
