@@ -17,6 +17,9 @@ tags:
 categories:
 - 'Travel Tips '
 warning: true
+new_categories:
+- Miscellaneous
+- Oregon's Adventure Coast News & Info
 
 ---
 Planning a trip to Oregon’s South Coast? Whether you’re spending two weeks or just a weekend, you likely want to make the most of your vacation. That’s where smart planning comes in. Taking the time to plan an itinerary and be mindful while exploring the area can help ensure you come away with memories that last a lifetime. Here are some top tips that will help you make the most of your trip.
