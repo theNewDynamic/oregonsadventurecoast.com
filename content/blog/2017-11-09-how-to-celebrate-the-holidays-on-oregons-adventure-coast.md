@@ -22,6 +22,8 @@ categories:
 - Events
 image: "/img/11-09-17-celibrate-the-hollidays.jpg"
 warning: true
+new_categories:
+- Special Events & Holidays
 
 ---
 <span style="font-weight: 400;">Wondering where you can find some holiday magic this year on Oregon's South Coast? We're so glad you asked!</span>
