@@ -26,6 +26,8 @@ categories:
 - Shopping
 image: ''
 warning: true
+new_categories:
+- Shopping & Entertainment
 
 ---
 ## A treasure trove of beautiful antiques and collectibles are waiting to be discovered on Oregon’s South Coast.

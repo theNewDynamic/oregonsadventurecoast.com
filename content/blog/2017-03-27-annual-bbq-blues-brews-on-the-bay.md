@@ -23,6 +23,8 @@ categories:
 - Miscellaneous
 image: ''
 warning: true
+new_categories:
+- Special Events & Holidays
 
 ---
 <h2 style="text-align: left;">
