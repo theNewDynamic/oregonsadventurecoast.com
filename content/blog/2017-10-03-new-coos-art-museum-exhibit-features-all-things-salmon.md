@@ -18,6 +18,8 @@ categories:
 - Miscellaneous
 image: "/img/10-03-17-coos-art-museum-all-things-salmon.jpg"
 warning: true
+new_categories:
+- Arts & Culture
 
 ---
 The<a href="https://www.coosart.org/"> Coos Art Museum</a> has announced their upcoming exhibition of contemporary art, <em>All Things Salmon</em>, will open October 13th. The exhibition highlights the significance and influence salmon has had on society and culture throughout history.

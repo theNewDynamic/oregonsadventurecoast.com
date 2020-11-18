@@ -30,6 +30,8 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- State Parks & National Lands
 
 ---
 [National Estuaries Week (NEW)](https://estuaries.org/get-involved/new/) is happening THIS WEEK (September 14th-21st) and we wanted to take the opportunity to help raise awareness for these precious water systems and spotlight our own local estuary and local gem, [The South Slough National Estuarine Research Reserve (South Slough NERR)](https://www.oregon.gov/dsl/SS/Pages/About.aspx)!
