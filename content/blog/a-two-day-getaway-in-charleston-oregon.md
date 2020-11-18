@@ -1,6 +1,6 @@
 ---
 title: 'A Two-Day Getaway in Charleston, Oregon '
-date: 2020-10-29T04:00:00+00:00
+date: 2020-10-29T04:00:00.000+00:00
 description: "Charleston, Oregon is known for its charming marina, endless fishing,
   friendly merchants, lush state parks, beautiful beaches and a distinctly charismatic
   local community. Since autumn is such a lovely time of year to visit this region,
@@ -21,7 +21,9 @@ tags:
 - Bastendorff Beach
 - 'South Slough National Estuarine Research Reserve '
 new_categories:
-- Local Spotlight
+- Local Food & Drink
+- State Parks & National Lands
+- Shopping & Entertainment
 categories: []
 seo:
   title: ''
