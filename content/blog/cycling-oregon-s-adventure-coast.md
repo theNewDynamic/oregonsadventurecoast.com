@@ -18,6 +18,8 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+new_categories:
+- Outdoor Adventures
 
 ---
 ### Grab your bikes and head to the Oregon Coast this fall!

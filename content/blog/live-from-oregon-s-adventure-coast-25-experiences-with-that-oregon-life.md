@@ -23,6 +23,8 @@ categories:
 - Walking & Hiking
 image: "/img/rick-dancer-header.jpg"
 warning: true
+new_categories:
+- Oregon's Adventure Coast News & Info
 
 ---
 In 2018, we welcomed Oregon guru and journalist Rick Dancer and his wife Kathy as they explored some of our favorite places and spaces and interviewed wonderful locals from Coos Bay, North Bend & Charleston.
