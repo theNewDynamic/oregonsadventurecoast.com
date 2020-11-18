@@ -30,6 +30,8 @@ categories:
 - Fairs & Festivals
 image: "/img/clambake-jazz-header-blog-695x322.jpg"
 warning: true
+new_categories:
+- Special Events & Holidays
 
 ---
 {{< floatimage src="img/SCCMusicFest_30thlogo-1.png" float="right" alt="South Coast Clambake Music Festival 30th Anniversary" size="100" >}}

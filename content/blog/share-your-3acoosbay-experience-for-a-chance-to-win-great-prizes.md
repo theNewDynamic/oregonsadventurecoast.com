@@ -20,6 +20,8 @@ categories:
 - Events
 image: "/img/3acoosbay.png"
 warning: true
+new_categories:
+- Oregon's Adventure Coast News & Info
 
 ---
 ## 3A OSAA Basketball Tournament Fans: Share Your Fun Photos on Twitter or Instagram with the #3ACoosBay Hashtag for a Chance to Win Some Outstanding Prizes
