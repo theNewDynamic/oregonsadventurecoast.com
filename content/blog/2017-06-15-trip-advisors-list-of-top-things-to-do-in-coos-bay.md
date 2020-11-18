@@ -17,6 +17,9 @@ categories:
 - State Parks & National Lands
 image: "/img/06-15-17-trip-advisor-s-coos-bay.jpg"
 warning: true
+new_categories:
+- Shopping & Entertainment
+- Local Food & Drink
 
 ---
 ### What Coos Bay Attractions Are The Most Popular Among TripAdvisor Users?

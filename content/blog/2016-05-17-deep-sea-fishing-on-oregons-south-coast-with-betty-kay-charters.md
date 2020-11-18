@@ -19,6 +19,8 @@ categories:
 - Crabbing & Clamming
 image: ''
 warning: true
+new_categories:
+- Fishing
 
 ---
 ## “Captain Bill was wonderful, going out of his way to find a good fishing spot and track down a whale for us.”
