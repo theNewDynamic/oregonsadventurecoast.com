@@ -1,6 +1,6 @@
 ---
 title: Christmas at the Coast
-startdate: '2020-11-26'
+startdate: '2020-11-13'
 enddate: '2020-12-31'
 address:
   street: ''
@@ -53,9 +53,9 @@ Visit participating businesses in Downtown Coos Bay during the Holiday Open Hous
 
 Keep your receipts for all purchases made in Downtown Coos Bay between November 13 and November 28. Collect $100 in receipts, bring those receipts to Jennie's Shoes (262 Central Ave) and receive a commemorative mug! Shop Small Saturday encourages us to shop at small, local shops this holiday season. *
 
-#### November 27-December 31 - <br>Christmas at the Coast Home/Business Driving Tour
+#### November 26-December 31 - <br>Christmas at the Coast Home/Business Driving Tour
 
-Follow the map of locations all around Oregon's Adventure Coast, and some of our neighboring communities too, to light displays at homes and businesses. Maps will be available at the Coos Bay Visitor Center beginning November 24th. 
+Follow the map of locations all around Oregon's Adventure Coast, and some of our neighboring communities too, to light displays at homes and businesses. Maps will be available at the Coos Bay Visitor Center beginning November 24th.
 
 #### November 28 - <br>Drive By Santa and Tree Lighting in Downtown Coos Bay
 
