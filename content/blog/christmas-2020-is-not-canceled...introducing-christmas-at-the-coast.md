@@ -1,6 +1,6 @@
 ---
 title: 'Christmas 2020 is NOT Canceled...Introducing Christmas at The Coast! '
-date: 2020-11-11T05:00:00+00:00
+date: 2020-11-11T05:00:00.000+00:00
 description: 'Our innovative local holiday elves have found a way for us to be together,
   while maintaining a safe distance and health protocols as recommended by our public
   health organizations. From Thanksgiving night to New Year’s Eve 2020, neighborhoods
@@ -42,6 +42,10 @@ But that’s not all. Other holiday events for 2020 include:
 **November 28, 2020:** Drive by Santa and Tree Lighting in Downtown Coos Bay
 
 **December 4, 2020:** Empire District Virtual Tree Lighting and Santa Parade. See [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194) for more information.
+
+**December 4, 2020:** City of North Bend Christmas Cruise. Visit [www.northbendoregon.us](https://www.northbendoregon.us/ "https://www.northbendoregon.us/") or email [nbinfo@northbendcity.org](mailto:nbinfo@northbendcity.org) for information. Judging for their inaugural [Christmas Spirit Awards](https://www.northbendoregon.us/infocenter/page/inaugural-christmas-spirit-awards) will be December 7th!  
+
+![](/img/draft-nb-christmas-cruise.png)
 
 **_More to announce! Stay tuned_**.
 
@@ -88,7 +92,7 @@ While you are here, be sure to check out our locally-owned shops throughout the 
 * [Books by the Bay](https://www.facebook.com/Books-By-The-Bay-232314893488700/) — Friendly, old-style bookstore featuring new and used books with plenty of room to relax, read, listen to author readings and get personal recommendations.
 * [Coos Bay Visitor Information Center](https://www.facebook.com/Coos-Bay-Visitor-Center-120976481286195) - Find a wide assortment of local books, photography, t-shirts, souvenirs and Myrtlewood items. In downtown Coos Bay.
 
-**Need more ideas for gift giving this holiday season?** [**Check out the full list of shops**](https://www.oregonsadventurecoast.com/shopping/) **in the Coos Bay, North Bend & Charleston area!** 
+**Need more ideas for gift giving this holiday season?** [**Check out the full list of shops**](https://www.oregonsadventurecoast.com/shopping/) **in the Coos Bay, North Bend & Charleston area!**
 
 {{< spacer 25 >}}
 
