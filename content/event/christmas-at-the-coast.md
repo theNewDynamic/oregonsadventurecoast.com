@@ -59,7 +59,7 @@ Follow the map of locations all around Oregon's Adventure Coast, and some of our
 
 #### November 28 - <br>Drive By Santa and Tree Lighting in Downtown Coos Bay
 
-Santa is Coming to Coos Bay! Santa will be at 3rd & Central in Downtown Coos Bay from 1pm-5pm. Follow the signs that will direct you on a Drive By to see Santa. Kids, bring your letters to Santa filled with your Christmas wishes. Put your letter in Santa's mailbox and his elves will give you a candy cane! Santa will be escorted to the Coos Bay Visitor Center Parking Lot where he will light the Coos Bay Tree at 5:30pm. Parking will be limited, so the Tree Lighting will be Live Streamed on Facebook!
+Santa is Coming to Coos Bay! Santa will be at 3rd & Central in Downtown Coos Bay from 1pm-5pm. Follow the signs that will direct you on a Drive By to see Santa. Kids, bring your letters to Santa filled with your Christmas wishes. Put your letter in Santa's mailbox and his elves will give you a candy cane! Santa will be escorted to the Coos Bay Visitor Center Parking Lot where he will light the Coos Bay Tree at 5:30pm. Parking will be limited, so the Tree Lighting will be Live Streamed on Facebook! [Click here](https://coosbaydowntown.org/holiday-events-in-downtown-2/) for more information.
 
 #### December 4 - <br>Empire District Virtual Tree Lighting and Santa Parade
 
