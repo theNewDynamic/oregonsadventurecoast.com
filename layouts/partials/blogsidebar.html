@@ -3,8 +3,8 @@
     
 <ul>
     <li><a href="/blog/">All Categories</a></li>
-    {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.categories }}
-    <li data-taxonomyname="{{ $taxonomyname }}"><a href="{{ "/categories/" | relLangURL}}{{ $taxonomyname | urlize }}">{{ humanize (replace $taxonomyname "--" " & ") }} ({{ $taxonomy.Count }})</a></li>
+    {{ range $taxonomyname, $taxonomy := site.Taxonomies.categories }}
+    <li data-taxonomyname="{{ $taxonomyname }}"><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} ({{ $taxonomy.Count }})</a></li>
     {{ end }}
 </ul>
 </div>

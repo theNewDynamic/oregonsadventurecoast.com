@@ -23,9 +23,8 @@ tags:
   - Salmon Festival
   - Southern Oregon Coast
   - The Mill Casino
-categories:
-  - Fairs & Festivals
 image: /img/05-22-18-nine-hot-festivals.jpg
+draft: true
 ---
 Much like the Salmon returns upstream, the <a href="http://www.themillcasino.com/entertainment" target="_blank" rel="noopener noreferrer">Mill-Luck Salmon Celebration</a> returns each year to the Mill Casino in North Bend the weekend of <strong>September 8th &amp; 9th, 2018. </strong>
 
