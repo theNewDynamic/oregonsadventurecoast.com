@@ -37,7 +37,7 @@ aliases: []
 {{< spacer 20 >}}
 From **Thanksgiving night to New Year's Eve 2020**, neighborhoods and business districts will light up for the holidays. Pick up a map from the Coos Bay and North Bend Visitor Information Centers and delight to the sights of Christmas as you drive around our beautiful communities. 
 
-#### [**Download PDF of Christmas Lights Map**](img/Christmas Coast Map-PRINT-11-20.pdf)
+#### [**Download PDF of Christmas Lights Map**](/img/Christmas Coast Map-PRINT-11-20.pdf)
 
 When you visit and stay at one of our lodging properties, bring your receipt to either visitor center to receive a special commemorative, dated ornament!
 
