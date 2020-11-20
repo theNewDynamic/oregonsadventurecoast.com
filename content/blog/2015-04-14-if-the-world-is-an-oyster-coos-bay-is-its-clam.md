@@ -26,11 +26,11 @@ tags:
 - Pacific Northwest Clams
 - shellfish
 - Tides
-categories:
+old_categories:
 - Fishing
 - Crabbing & Clamming
 image: ''
-new_categories:
+categories:
 - Clamming
 
 ---

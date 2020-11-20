@@ -13,9 +13,9 @@ tags:
 - Dunes
 - Spinreel
 - Oregon Dunes National Recreation Area
-categories:
+old_categories:
 - Oregon Dunes
-new_categories:
+categories:
 - Outdoor Adventures
 
 ---

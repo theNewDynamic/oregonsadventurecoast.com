@@ -7,7 +7,7 @@ description: 'There is a wide range of dining options in the cities of Coos Bay,
   what they said. '
 image: ''
 tags: []
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''

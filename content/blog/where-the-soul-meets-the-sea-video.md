@@ -13,10 +13,10 @@ tags:
 - oregon coast beaches
 - photography
 - mountain biking
-categories:
+old_categories:
 - General
 warning: true
-new_categories:
+categories:
 - Miscellaneous
 
 ---

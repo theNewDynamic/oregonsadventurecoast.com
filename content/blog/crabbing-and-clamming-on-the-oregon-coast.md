@@ -17,10 +17,10 @@ tags:
 - crabbing tips
 - clamming tips
 - oregon coast adventure
-categories:
+old_categories:
 - Crabbing and Clamming
 warning: true
-new_categories:
+categories:
 - Clamming
 
 ---

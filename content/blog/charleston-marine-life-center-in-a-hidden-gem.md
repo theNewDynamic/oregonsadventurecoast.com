@@ -10,9 +10,9 @@ description: 'One of our most prized hidden gems is the Charleston Marine Life C
 '
 image: "/img/Charleston Marine Life Center blog-695x322.jpg"
 tags: []
-categories: []
+old_categories: []
 warning: true
-new_categories:
+categories:
 - Local Spotlight
 
 ---

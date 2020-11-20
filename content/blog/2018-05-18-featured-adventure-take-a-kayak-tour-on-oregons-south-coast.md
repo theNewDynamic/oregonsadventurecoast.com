@@ -16,12 +16,12 @@ tags:
 - South Coast Tours
 - South Slough National Estuarine Research Reserve
 - Sunset Bay State Park
-categories:
+old_categories:
 - Kayaking
 - Miscellaneous
 image: "/img/05-18-18-adventure-kayak-tour.jpg"
 warning: true
-new_categories:
+categories:
 - Outdoor Adventures
 
 ---

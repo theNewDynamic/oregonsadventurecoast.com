@@ -12,7 +12,7 @@ tags:
 - CAM
 - Coos Art Museum
 - Oregon’s South Coast
-categories:
+old_categories:
 - Culture & Museums
 - Miscellaneous
 image: ''

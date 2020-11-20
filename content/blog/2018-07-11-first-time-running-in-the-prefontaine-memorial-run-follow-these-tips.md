@@ -12,11 +12,11 @@ tags:
 - Coos Bay
 - Oregon Coast
 - Running
-categories:
+old_categories:
 - Walking & Hiking
 image: "/img/07-11-17-new-race-in-town.jpg"
 warning: true
-new_categories:
+categories:
 - Outdoor Adventures
 
 ---

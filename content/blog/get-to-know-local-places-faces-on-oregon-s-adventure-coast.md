@@ -11,7 +11,7 @@ tags:
 - 'Coos Bay - North Bend Visitor and Convention Bureau '
 - Pacific Northwest
 - Travel Industry
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''
@@ -19,7 +19,7 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-new_categories:
+categories:
 - Local Spotlight
 warning: false
 warning_copy: ''

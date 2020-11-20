@@ -12,11 +12,11 @@ tags:
 - Lunchtime Concerts
 - Music
 - Music on the Corner
-categories:
+old_categories:
 - Entertainment & Nightlife
 image: ''
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

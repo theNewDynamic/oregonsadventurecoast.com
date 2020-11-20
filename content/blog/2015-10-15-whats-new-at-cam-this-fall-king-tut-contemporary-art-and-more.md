@@ -21,7 +21,7 @@ tags:
 - recreation
 - Textiles
 - visual arts
-categories:
+old_categories:
 - Culture & Museums
 image: ''
 warning: true

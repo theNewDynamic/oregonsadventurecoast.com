@@ -14,11 +14,11 @@ tags:
 - EGYPTIAN THEATRE COOS BAY
 - Entertainment
 - Movie Theatre
-categories:
+old_categories:
 - Entertainment & Nightlife
 image: "/img/Egyptian-theater-blog-695x322.jpg"
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

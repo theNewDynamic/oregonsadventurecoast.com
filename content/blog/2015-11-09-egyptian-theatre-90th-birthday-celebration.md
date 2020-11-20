@@ -7,11 +7,11 @@ description: |-
   Coos Bay- On Thursday, Nov. 12th, the Egyptian Theatre Preservation Association (ETPA) will present a "Great Gatsby Gala," to mark the beginning of four days of festivities marking the theatre's 90th birthday.
 tags:
 - Entertainment & Nightlife
-categories:
+old_categories:
 - Miscellaneous
 image: ''
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

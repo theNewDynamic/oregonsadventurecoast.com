@@ -24,12 +24,12 @@ tags:
 - Pacific Northwest Clams
 - Razor Clams
 - Steamed Clams
-categories:
+old_categories:
 - Fishing
 - Crabbing & Clamming
 image: "/img/03-02-18-claming-101.jpg"
 warning: true
-new_categories:
+categories:
 - Clamming
 
 ---

@@ -18,7 +18,7 @@ tags:
 - Restaurants
 - The Liberty Pub
 - Yeongs Place
-categories:
+old_categories:
 - Eat & Drink
 image: ''
 draft: true

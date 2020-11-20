@@ -20,7 +20,7 @@ tags:
 - Oyster Feed
 - recreation
 - Southern Oregon Coast
-categories:
+old_categories:
 - Fairs & Festivals
 image: "/img/03-13-18-ahh-schucks-oyster-week.jpg"
 draft: true

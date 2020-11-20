@@ -12,9 +12,9 @@ tags:
 - 'North Bend Oregon '
 - 'Charleston Oregon '
 - 'Fun things to do Charleston Oregon '
-categories: []
+old_categories: []
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

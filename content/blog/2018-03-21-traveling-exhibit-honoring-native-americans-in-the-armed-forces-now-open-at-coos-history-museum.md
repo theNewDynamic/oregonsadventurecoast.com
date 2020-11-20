@@ -14,11 +14,11 @@ tags:
 - Nati ve American
 - National Museum of the American Indian
 - Patriot Nations
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/03-21-18-native-american-armed-forces.jpg"
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

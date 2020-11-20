@@ -21,11 +21,11 @@ tags:
 - Tall Ships
 - Tours
 - Washington
-categories:
+old_categories:
 - Historical
 image: "/img/03-08-18-lady-washingyon-sets-sali.jpg"
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

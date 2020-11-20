@@ -20,7 +20,7 @@ tags:
 - Shore Acres
 - Shore Acres Holiday Lights
 - Shore Acres State Park
-categories:
+old_categories:
 - Parks
 - State Parks & National Lands
 image: "/img/holliday-lights-02-172.jpg"

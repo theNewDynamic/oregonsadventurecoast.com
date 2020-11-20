@@ -22,7 +22,7 @@ tags:
 - Whale Watch
 - Whale Watch Week 2014
 - Whale watchers
-categories:
+old_categories:
 - State Parks & National Lands
 image: ''
 draft: true

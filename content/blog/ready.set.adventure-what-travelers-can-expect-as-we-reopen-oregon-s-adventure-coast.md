@@ -18,7 +18,7 @@ tags:
 - What's open on Oregon's Adventure Coast
 - State Parks
 - Oregon Travel
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''
@@ -28,7 +28,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 
 ---

@@ -15,7 +15,7 @@ tags:
 - Instagram
 - North Bend
 - Twitter
-categories:
+old_categories:
 - Events
 image: "/img/sports-blog-post.jpg"
 draft: true

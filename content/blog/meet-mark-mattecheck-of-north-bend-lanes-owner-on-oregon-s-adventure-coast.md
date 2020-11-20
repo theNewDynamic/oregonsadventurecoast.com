@@ -19,7 +19,7 @@ tags:
 - Music
 - Outdoor Patio
 - Mark Mattecheck
-categories:
+old_categories:
 - Local Favorites
 - " Reopening Oregon's Adventure Coast "
 seo:
@@ -29,7 +29,7 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-new_categories:
+categories:
 - Local Spotlight
 warning: false
 warning_copy: ''

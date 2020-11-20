@@ -17,12 +17,12 @@ tags:
 - Marshfield High School
 - Prefontaine Run
 - Southern Oregon Coast
-categories:
+old_categories:
 - Fairs & Festivals
 - Miscellaneous
 image: ''
 warning: true
-new_categories:
+categories:
 - Miscellaneous
 
 ---

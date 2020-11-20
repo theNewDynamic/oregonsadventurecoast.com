@@ -18,11 +18,11 @@ tags:
 - photographers
 - Shore Acres
 - Shore Acres State Park
-categories:
+old_categories:
 - Walking & Hiking
 image: ''
 warning: true
-new_categories:
+categories:
 - Miscellaneous
 
 ---

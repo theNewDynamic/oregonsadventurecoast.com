@@ -16,7 +16,7 @@ tags:
 - Take Out and Delivery
 - Dining
 - Food and Drink
-categories:
+old_categories:
 - Eat Drink
 seo:
   title: ''
@@ -25,7 +25,7 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-new_categories:
+categories:
 - Local Spotlight
 - Oregon's Adventure Coast News & Info
 warning: false

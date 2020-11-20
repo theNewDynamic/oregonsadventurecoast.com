@@ -8,7 +8,7 @@ description: Whether you are a seasoned cyclist or a casual rider, we encourage 
   Coast!
 image: "/img/mountain-biking-handlebarrs-695x322.jpg"
 tags: []
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''
@@ -18,7 +18,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - Outdoor Adventures
 
 ---

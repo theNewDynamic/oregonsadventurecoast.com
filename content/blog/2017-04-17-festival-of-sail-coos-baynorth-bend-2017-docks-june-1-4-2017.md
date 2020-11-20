@@ -18,7 +18,7 @@ tags:
 - Oregon Coast
 - ships
 - World’s Largest Rubber Duck
-categories:
+old_categories:
 - Fairs & Festivals
 image: ''
 draft: true

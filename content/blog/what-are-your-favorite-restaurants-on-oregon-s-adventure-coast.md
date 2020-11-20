@@ -10,7 +10,7 @@ tags:
 - restaurants in north bend
 - restaurants in charleson oregon
 - best restaurants on Oregon's Adventure Coast
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''
@@ -20,7 +20,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - Local Food & Drink
 
 ---

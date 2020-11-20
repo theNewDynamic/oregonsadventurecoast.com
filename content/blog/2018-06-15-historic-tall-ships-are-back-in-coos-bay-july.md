@@ -28,11 +28,11 @@ tags:
 - The Confederated Tribes of Coos
 - Tours
 - Washington
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/06-15-18-lady-washington-hawaiian-chieftan.jpg"
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

@@ -19,7 +19,7 @@ tags:
 - 'Simpson Beach '
 - Japanese garden
 - Tripadvisor
-categories:
+old_categories:
 - 'State Parks & National Lands '
 seo:
   title: ''
@@ -30,7 +30,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-new_categories:
+categories:
 - State Parks & National Lands
 
 ---

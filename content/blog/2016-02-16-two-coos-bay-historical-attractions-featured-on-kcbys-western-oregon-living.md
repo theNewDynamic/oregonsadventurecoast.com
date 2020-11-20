@@ -12,11 +12,11 @@ tags:
 - KVAL
 - Sabrina Reese
 - Western Oregon Living
-categories:
+old_categories:
 - Culture & Museums
 image: ''
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

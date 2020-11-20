@@ -21,7 +21,7 @@ tags:
 - Shore Acres
 - Shore Acres Holiday Lights
 - Shore Acres State Park
-categories:
+old_categories:
 - Beach
 - Entertainment & Nightlife
 - Historical
@@ -35,7 +35,7 @@ seo:
   description: ''
   image: ''
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

@@ -14,7 +14,7 @@ tags:
 - Ocean
 - Sunsets
 - Photography
-categories:
+old_categories:
 - Miscellaneous
 seo:
   title: ''
@@ -24,7 +24,7 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-new_categories:
+categories:
 - Miscellaneous
 warning: false
 warning_copy: ''

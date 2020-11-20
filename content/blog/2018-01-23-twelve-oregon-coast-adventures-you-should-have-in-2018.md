@@ -18,12 +18,12 @@ tags:
 - Oregon Dunes National Recreation Area
 - Travel Coos Bay
 - Travel Oregon
-categories:
+old_categories:
 - Beach
 - Walking & Hiking
 image: "/img/01-23-18-sixteen-coast-adventures.jpg"
 warning: true
-new_categories:
+categories:
 - Miscellaneous
 
 ---

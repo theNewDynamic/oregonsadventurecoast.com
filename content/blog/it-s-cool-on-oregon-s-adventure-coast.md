@@ -23,7 +23,7 @@ tags:
 - 'Social Distancing '
 - 'Pet Friendly Hotels '
 - Oregon Coast Vacation
-categories:
+old_categories:
 - Road Trips
 seo:
   title: ''
@@ -32,7 +32,7 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-new_categories:
+categories:
 - Miscellaneous
 warning: false
 warning_copy: ''

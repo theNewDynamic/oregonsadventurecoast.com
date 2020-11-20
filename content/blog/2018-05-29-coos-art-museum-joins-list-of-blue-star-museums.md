@@ -11,11 +11,11 @@ tags:
 - Blue Star Museums
 - Coos Art Museum
 - Free Admission Military
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/05-29-18-coos-art-museum.jpg"
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

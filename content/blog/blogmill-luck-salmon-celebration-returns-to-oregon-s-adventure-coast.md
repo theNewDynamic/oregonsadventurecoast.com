@@ -23,7 +23,7 @@ tags:
   - Salmon Festival
   - Southern Oregon Coast
   - The Mill Casino
-categories:
+old_categories:
   - Fairs & Festivals
 image: /img/05-22-18-nine-hot-festivals.jpg
 draft: true

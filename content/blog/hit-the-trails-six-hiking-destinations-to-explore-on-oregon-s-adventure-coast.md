@@ -26,9 +26,9 @@ tags:
 - Oregon Hiking Destinations
 - " Oregon’s Adventure Coast"
 - waterfalls
-categories:
+old_categories:
 - 'Hiking '
-new_categories:
+categories:
 - Outdoor Adventures
 
 ---

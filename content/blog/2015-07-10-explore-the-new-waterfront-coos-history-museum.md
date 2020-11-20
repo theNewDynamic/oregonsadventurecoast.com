@@ -17,11 +17,11 @@ tags:
 - Front Street
 - Oregon Coast History Museum
 - South Coast Museum
-categories:
+old_categories:
 - Culture & Museums
 image: ''
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

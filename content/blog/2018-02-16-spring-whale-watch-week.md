@@ -21,11 +21,11 @@ tags:
 - Shore Acres State Park
 - Spring Whale Watch Week
 - the Oregon Coast
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/02-16-18-spring-whale-watch.jpg"
 warning: true
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 
 ---

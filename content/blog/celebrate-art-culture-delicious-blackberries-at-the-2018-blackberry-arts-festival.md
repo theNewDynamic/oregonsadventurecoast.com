@@ -19,7 +19,7 @@ tags:
   - K-DOCK 92.9
   - Oregon Coast Festival
   - Outdoor Market
-categories:
+old_categories:
   - Fairs & Festivals
 image: /img/blackberry-fest-blog-2018.jpg
 draft: true

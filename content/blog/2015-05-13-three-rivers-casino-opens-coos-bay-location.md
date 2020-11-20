@@ -14,11 +14,11 @@ tags:
 - gaming
 - Three Rivers
 - Three Rivers Casino
-categories:
+old_categories:
 - Entertainment & Nightlife
 image: ''
 warning: true
-new_categories:
+categories:
 - Shopping & Entertainment
 
 ---

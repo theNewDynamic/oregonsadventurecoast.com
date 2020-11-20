@@ -17,7 +17,7 @@ tags:
 - running trails
 - Salmon Run and Crab Walk
 - South Coast Running Club
-categories:
+old_categories:
 - Events
 - Miscellaneous
 - Walking & Hiking

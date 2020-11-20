@@ -25,12 +25,12 @@ tags:
 - South Coast Clambake Jazz Festival
 - The Mill Casino
 - the Oregon Coast
-categories:
+old_categories:
 - Entertainment & Nightlife
 - Fairs & Festivals
 image: "/img/clambake-jazz-header-blog-695x322.jpg"
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

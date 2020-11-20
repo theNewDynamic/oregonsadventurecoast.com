@@ -17,7 +17,7 @@ tags:
 - 'Coos Bay Hotels '
 - 'Oregon''s South Coast '
 - 'Hotel Savings '
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''
@@ -27,7 +27,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 
 ---

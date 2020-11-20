@@ -16,13 +16,13 @@ tags:
 - Pacific salmon fishing
 - recreation
 - Salmon Derby
-categories:
+old_categories:
 - Fairs & Festivals
 - Fishing
 - Crabbing & Clamming
 image: ''
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

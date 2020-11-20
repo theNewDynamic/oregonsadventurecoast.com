@@ -27,14 +27,14 @@ tags:
 - Outdoor Recreation
 - Winter Storm Watching
 - King Tides
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
 aliases: []
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 accordion_sections: []
 warning: false

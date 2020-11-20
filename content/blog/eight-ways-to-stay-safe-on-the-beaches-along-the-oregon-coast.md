@@ -15,10 +15,10 @@ tags:
 - Sneaker Waves
 - Beaches
 - ''
-categories:
+old_categories:
 - Beach
 image: "/img/shore-acres-safe-beaches.jpg"
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 - Local Spotlight
 

@@ -8,9 +8,9 @@ description: 'South Slough NERR is the ideal destination to find some peace and 
   and forested uplands. '
 image: "/img/south-slough-nerr-blog-695x322-jpg-1-1.png"
 tags: []
-new_categories:
+categories:
 - State Parks & National Lands
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''

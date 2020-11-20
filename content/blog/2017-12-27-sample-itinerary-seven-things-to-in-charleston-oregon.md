@@ -13,14 +13,14 @@ tags:
 - Port of Coos Bay
 - Sample Itinerary
 - Travel Itinerary
-categories:
+old_categories:
 - Parks
 - Scenic Drives
 - Shopping
 - State Parks & National Lands
 image: "/img/12-27-17-seven-things-in-charleston.jpg"
 warning: true
-new_categories:
+categories:
 - Local Spotlight
 
 ---

@@ -7,7 +7,7 @@ description: The longest running music festival on the Oregon Coast is turning 4
 tags:
 - Entertainment & Nightlife
 - Fairs & Festivals
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/04-12-18-or-coast-musfest.jpg"
 draft: true

@@ -21,7 +21,7 @@ tags:
 - Bayside Coffee & Tea
 - 7 Devils Brewing Co.
 - Stillwagon Distillery
-categories:
+old_categories:
 - 'Food & Drink '
 seo:
   title: ''
@@ -32,7 +32,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-new_categories:
+categories:
 - Local Food & Drink
 
 ---

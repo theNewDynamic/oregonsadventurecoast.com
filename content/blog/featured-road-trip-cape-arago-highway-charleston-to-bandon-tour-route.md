@@ -8,7 +8,7 @@ description: Looking for the ultimate Oregon Coast road trip experience? The Cap
   wonder and fun.
 tags:
 - news
-categories:
+old_categories:
 - ''
 image: "/img/beaches-sunset-bay.jpg"
 seo:
@@ -21,7 +21,7 @@ seo:
   image: "/img/beaches-sunset-bay.jpg"
   imgalt: Cape Arago Highway Loop and Charleston to Bandon Tour Route
 warning: true
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 - State Parks & National Lands
 

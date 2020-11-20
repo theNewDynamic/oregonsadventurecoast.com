@@ -20,11 +20,11 @@ tags:
 - Retailers
 - Small Business
 - South Coast
-categories:
+old_categories:
 - Shopping
 image: ''
 warning: true
-new_categories:
+categories:
 - Shopping & Entertainment
 - Special Events & Holidays
 

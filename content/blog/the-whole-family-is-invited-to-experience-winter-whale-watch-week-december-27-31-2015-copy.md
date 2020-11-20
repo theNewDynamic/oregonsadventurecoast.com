@@ -19,7 +19,7 @@ tags:
 - Whale Watch
 - Whale Watch Week 2014
 - Whale watchers
-categories:
+old_categories:
 - State Parks & National Lands
 image: "/img/Gray_whale_Merrill_Gosho_NOAA2_crop.jpg"
 draft: true

@@ -19,7 +19,7 @@ tags:
 - North Bend
 - Oregon
 - recreation
-categories:
+old_categories:
 - Eat & Drink
 - Fishing
 - Crabbing & Clamming

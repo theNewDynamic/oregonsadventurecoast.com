@@ -18,7 +18,7 @@ tags:
 - Watching Whales in Oregon
 - Whale Watching Spoken Here
 - Winter Whale Watch Week
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/12-17-17-anual-whale-watch.jpg"
 draft: true

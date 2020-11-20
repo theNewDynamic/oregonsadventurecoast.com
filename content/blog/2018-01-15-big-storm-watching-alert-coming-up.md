@@ -17,14 +17,14 @@ tags:
 - recreation
 - Shore Acres State Park
 - storm watching
-categories:
+old_categories:
 - Beach
 - Parks
 - Scenic Drives
 - State Parks & National Lands
 image: "/img/01-15-18-storm-watch-alert.jpg"
 warning: true
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 
 ---

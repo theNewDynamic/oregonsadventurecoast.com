@@ -16,7 +16,7 @@ tags:
 - Railroad museum
 - speeders
 - vintage rail cars
-categories:
+old_categories:
 - Culture & Museums
 image: ''
 warning: true

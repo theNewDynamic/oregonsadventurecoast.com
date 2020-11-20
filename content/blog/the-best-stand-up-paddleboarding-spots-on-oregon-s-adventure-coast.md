@@ -20,7 +20,7 @@ tags:
 - 'Sunset Bay State Park '
 - 'South Slough National Estuarine Research Reserve '
 - 'Tenmile Lake '
-categories: []
+old_categories: []
 seo:
   title: 'The Best Stand-Up Paddleboarding Spots on Oregon''s Adventure Coast '
   description: 'Let us introduce you to stand-up paddleboarding, or SUP for short,
@@ -33,7 +33,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-new_categories:
+categories:
 - Outdoor Adventures
 - Oregon's Adventure Coast News & Info
 

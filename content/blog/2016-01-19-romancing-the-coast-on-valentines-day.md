@@ -18,7 +18,7 @@ tags:
 - the Oregon Coast
 - Valentine Day
 - "Valentines Day\t —"
-categories:
+old_categories:
 - Beach
 - Eat & Drink
 - Entertainment & Nightlife

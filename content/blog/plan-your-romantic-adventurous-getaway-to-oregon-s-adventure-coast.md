@@ -8,7 +8,7 @@ tags:
 - Valentine's Day
 - Romantic Sunsets
 - Romantic getaways
-categories:
+old_categories:
 - adventures
 - beach
 - hiking
@@ -24,7 +24,7 @@ aliases:
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

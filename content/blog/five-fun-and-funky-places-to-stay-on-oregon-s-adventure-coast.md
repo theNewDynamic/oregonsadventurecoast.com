@@ -22,9 +22,9 @@ tags:
 - Historic hotels
 - oregon coast lodging
 - The Old Tower House Bed & Breakfast
-categories: []
+old_categories: []
 warning: true
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 - Local Spotlight
 

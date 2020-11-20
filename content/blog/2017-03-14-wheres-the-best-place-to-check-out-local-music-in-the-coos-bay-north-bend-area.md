@@ -14,14 +14,14 @@ tags:
 - local bands
 - Local Music
 - North Bend Music Venue
-categories:
+old_categories:
 - Entertainment & Nightlife
 image: "/img/Live Music Coos Bay.jpg"
 seo:
   image: "/img/Live Music Coos Bay.jpg"
   imgalt: LIve Music in Coos Bay
 warning: true
-new_categories:
+categories:
 - Shopping & Entertainment
 
 ---

@@ -16,7 +16,7 @@ tags:
 - Sunset Bay State Park
 - Kayak rentals
 - 'stand-up paddleboarding rentals '
-categories:
+old_categories:
 - Watersports
 draft: true
 

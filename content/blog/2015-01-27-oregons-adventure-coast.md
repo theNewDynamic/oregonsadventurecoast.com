@@ -15,7 +15,7 @@ tags:
 - Oregon Coast
 - Oregon Dunes National Recreation Area
 - "recreation\t —"
-categories:
+old_categories:
 - Beach
 - Culture & Museums
 - Dunes

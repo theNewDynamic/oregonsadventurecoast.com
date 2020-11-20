@@ -13,10 +13,10 @@ tags:
 - Places to Hike
 - Shore Acres State Park
 - South Slough National Estuarine Research Reserve
-categories:
+old_categories:
 - Walking & Hiking
 image: ''
-new_categories:
+categories:
 - Outdoor Adventures
 
 ---

@@ -18,12 +18,12 @@ tags:
 - recreation
 - Spring Break
 - Whale Watching
-categories:
+old_categories:
 - State Parks & National Lands
 - Walking & Hiking
 image: ''
 warning: true
-new_categories:
+categories:
 - Miscellaneous
 
 ---

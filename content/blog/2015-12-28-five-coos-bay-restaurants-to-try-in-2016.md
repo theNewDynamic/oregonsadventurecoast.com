@@ -19,7 +19,7 @@ tags:
 - Oregon Coast Travel Tips
 - Restaurants
 - Tokyo Bistro
-categories:
+old_categories:
 - Eat & Drink
 image: ''
 draft: true

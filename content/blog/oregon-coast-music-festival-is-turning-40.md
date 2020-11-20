@@ -15,10 +15,10 @@ tags:
 - Shore Acres State Park
 - 'Outdoor concerts '
 - 7 Devils Brewery
-categories: []
+old_categories: []
 image: "/img/Oregon Coast Musical Festival Blog_695x322.jpg"
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

@@ -13,14 +13,14 @@ tags:
 - Coos Bay
 - North Bend
 - Charleston Oregon
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
 aliases: []
-new_categories:
+categories:
 - Miscellaneous
 accordion_sections: []
 warning: false

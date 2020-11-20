@@ -16,11 +16,11 @@ tags:
 - Oregon Coast Beachcombing
 - picnic
 - tidepooling
-categories:
+old_categories:
 - Beach
 image: "/img/Oregon Coast Beaches blog 695 x 322.JPG"
 warning: true
-new_categories:
+categories:
 - Outdoor Adventures
 
 ---

@@ -11,7 +11,7 @@ tags:
 - Downtown Coos Bay
 - Exhibits
 - Fine Art Prints
-categories:
+old_categories:
 - Culture & Museums
 image: ''
 draft: true

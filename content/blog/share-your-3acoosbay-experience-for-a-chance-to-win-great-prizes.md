@@ -16,11 +16,11 @@ tags:
 - photo contest
 - Instagram
 - Twitter
-categories:
+old_categories:
 - Events
 image: "/img/3acoosbay.png"
 warning: true
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 
 ---

@@ -11,11 +11,11 @@ tags:
 - Holiday Events Coos Bay
 - Holidays
 - Small Business Saturday
-categories:
+old_categories:
 - Culture & Museums
 image: ''
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

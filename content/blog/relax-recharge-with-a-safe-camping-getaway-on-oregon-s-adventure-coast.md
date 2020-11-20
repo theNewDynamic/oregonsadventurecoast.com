@@ -23,7 +23,7 @@ tags:
 - Coos Bay
 - 'Charleston Oregon '
 - 'North Bend Oregon '
-categories:
+old_categories:
 - Outdoor Adventures
 seo:
   title: ''
@@ -32,7 +32,7 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-new_categories:
+categories:
 - Outdoor Adventures
 warning: false
 warning_copy: ''

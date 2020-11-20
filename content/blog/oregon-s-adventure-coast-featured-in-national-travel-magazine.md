@@ -11,7 +11,7 @@ tags:
 - Oregon Dunes
 - 'Oregon Dunes National Recreation Area '
 - Travel Magazine
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''
@@ -21,7 +21,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - Miscellaneous
 
 ---

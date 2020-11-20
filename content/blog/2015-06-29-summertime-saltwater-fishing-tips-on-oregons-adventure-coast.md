@@ -27,12 +27,12 @@ tags:
 - Rockfish
 - Salmon
 - Saltwater Fishing
-categories:
+old_categories:
 - Fishing
 - Crabbing & Clamming
 image: ''
 warning: true
-new_categories:
+categories:
 - Fishing
 
 ---

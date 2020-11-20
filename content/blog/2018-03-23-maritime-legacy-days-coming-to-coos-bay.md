@@ -19,11 +19,11 @@ tags:
 - Oregon Coast
 - Shipbuilding
 - Tall Ships
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/03-23-18-maritime-legacy-days.jpg"
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

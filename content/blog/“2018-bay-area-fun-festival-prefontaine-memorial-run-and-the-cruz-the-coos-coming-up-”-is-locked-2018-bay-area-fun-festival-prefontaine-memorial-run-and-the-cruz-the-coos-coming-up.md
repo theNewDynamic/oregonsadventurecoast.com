@@ -15,11 +15,11 @@ tags:
 - Oregon
 - recreation
 - Steve Prefontaine
-categories:
+old_categories:
 - Fairs & Festivals
 image: "/img/bay-area-fun-fest-parade.jpg"
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

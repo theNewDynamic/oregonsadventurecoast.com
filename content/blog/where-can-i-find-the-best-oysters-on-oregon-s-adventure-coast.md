@@ -13,9 +13,9 @@ tags:
 - Oregon Coast
 - Ah Shucks! 14th Annual Charleston Oyster Feed
 - freshest oysters
-categories: []
+old_categories: []
 warning: true
-new_categories:
+categories:
 - Local Food & Drink
 - Local Spotlight
 

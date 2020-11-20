@@ -18,12 +18,12 @@ tags:
 - Oregon Dungeness Crab
 - shellfish
 - Southern Oregon Coast
-categories:
+old_categories:
 - Fishing
 - Crabbing & Clamming
 image: "/img/Crabbing-On-Dock-Charleston.jpg"
 warning: true
-new_categories:
+categories:
 - Crabbing
 
 ---

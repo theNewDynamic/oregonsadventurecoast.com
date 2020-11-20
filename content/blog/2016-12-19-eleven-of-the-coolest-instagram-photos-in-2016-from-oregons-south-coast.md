@@ -20,14 +20,14 @@ tags:
 - photographers
 - Shore Acres State Park
 - Winter Storm Watching
-categories:
+old_categories:
 - Beach
 - Fishing
 - Crabbing & Clamming
 - Walking & Hiking
 image: ''
 warning: true
-new_categories:
+categories:
 - Miscellaneous
 
 ---

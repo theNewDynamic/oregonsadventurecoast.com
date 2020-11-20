@@ -17,11 +17,11 @@ tags:
 - Sample Itinerary
 - Sand Dunes
 - Travel Itinerary
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/08-20-17-north-bend-itinerary.jpg"
 warning: true
-new_categories:
+categories:
 - Local Spotlight
 
 ---

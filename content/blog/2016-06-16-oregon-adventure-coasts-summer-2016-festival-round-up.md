@@ -18,7 +18,7 @@ tags:
 - Music Festivals
 - North Bend
 - Oregon Coast
-categories:
+old_categories:
 - Fairs & Festivals
 image: ''
 draft: true

@@ -21,7 +21,7 @@ tags:
 - Prefontaine Memorial Run
 - 'Oregon''s Adventure Coast '
 - 'Oregon Coast '
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''
@@ -29,7 +29,7 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-new_categories:
+categories:
 - Local Spotlight
 warning: false
 warning_copy: ''

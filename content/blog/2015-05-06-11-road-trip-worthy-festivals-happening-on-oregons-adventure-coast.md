@@ -12,7 +12,7 @@ tags:
 - Parade
 - Road Trips
 - Summer Festivals
-categories:
+old_categories:
 - Fairs & Festivals
 - Miscellaneous
 image: ''

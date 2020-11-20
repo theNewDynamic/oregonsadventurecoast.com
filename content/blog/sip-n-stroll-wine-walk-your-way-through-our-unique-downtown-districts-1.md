@@ -15,7 +15,7 @@ tags:
 - Coos Bay
 - Downtown Coos Bay
 - Downtown Charleston
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''
@@ -25,7 +25,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

@@ -18,7 +18,7 @@ tags:
 - Retailers
 - Small Business
 - "South Coast\t 1 1 comment"
-categories:
+old_categories:
 - Shopping
 image: ''
 warning: true

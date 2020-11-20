@@ -13,10 +13,10 @@ tags:
 - Family Cemetery
 - Historical Cemeteries
 - Oregon Coast Cemetery
-categories:
+old_categories:
 - Historical
 image: ''
-new_categories:
+categories:
 - Arts & Culture
 
 ---
