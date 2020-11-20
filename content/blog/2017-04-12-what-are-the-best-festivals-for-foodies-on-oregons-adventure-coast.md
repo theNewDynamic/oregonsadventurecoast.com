@@ -13,7 +13,7 @@ tags:
 - foodie
 - North Bend
 - Oregon Coast
-categories:
+old_categories:
 - Eat & Drink
 - Fairs & Festivals
 - Fishing

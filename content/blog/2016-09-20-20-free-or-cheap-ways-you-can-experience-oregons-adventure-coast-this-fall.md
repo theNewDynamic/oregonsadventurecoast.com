@@ -23,7 +23,7 @@ tags:
 - Southern Oregon Coast
 - the Egyptian Theatre
 - The Mill Casino
-categories:
+old_categories:
 - Beach
 - Culture & Museums
 - Entertainment & Nightlife

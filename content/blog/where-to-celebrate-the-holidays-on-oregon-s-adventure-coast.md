@@ -18,7 +18,7 @@ tags:
 - Christmas 2008
 - Tree Lightings
 - ''
-categories:
+old_categories:
 - Events
 image: "/img/1b9f2543b912206e3fe9e6848e529693.jpg"
 warning: true

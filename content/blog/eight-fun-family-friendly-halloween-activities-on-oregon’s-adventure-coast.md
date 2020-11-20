@@ -20,7 +20,7 @@ tags:
 - North Bend Halloween Events
 - Safe Trick or Treating
 - Oregon Coast
-categories:
+old_categories:
 - Events
 image: "/img/safe-trick-or-treating-halloween-events-coos-bay-oregon.jpg"
 seo:
@@ -29,7 +29,7 @@ seo:
     day at a local pumpkin patch….there is something for everyone on Oregon’s Adventure
     Coast - Coos Bay, North Bend and Charleston!
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

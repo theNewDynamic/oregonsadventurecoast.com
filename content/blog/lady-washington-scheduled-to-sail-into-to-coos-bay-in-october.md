@@ -18,7 +18,7 @@ tags:
 - sailing
 - Coos Bay
 - ''
-categories:
+old_categories:
 - Historical
 - Events
 image: "/img/lady-washington-coming-to-coos-bay-october-2018.jpg"
@@ -31,7 +31,7 @@ seo:
     ship sailing experience. '
   image: "/img/lady-washington-coming-to-coos-bay-october-2018-photo-grays-harbor-historical-seaport.jpg"
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

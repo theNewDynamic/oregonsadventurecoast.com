@@ -14,9 +14,9 @@ tags:
 - Bay Area Fun Festival
 - Coos Bay
 - 'Steve Prefontaine '
-categories: []
+old_categories: []
 warning: true
-new_categories:
+categories:
 - Miscellaneous
 
 ---

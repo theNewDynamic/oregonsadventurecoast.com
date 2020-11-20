@@ -18,10 +18,10 @@ tags:
 - recreation
 - Shore Acres State Park
 - storm watching
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/10-25-17-storm-watch-season.jpg"
-new_categories:
+categories:
 - Outdoor Adventures
 - Oregon's Adventure Coast News & Info
 

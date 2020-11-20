@@ -10,13 +10,13 @@ tags:
 - charleston oregon
 - holiday lights
 - coosholidaylights
-categories:
+old_categories:
 - Shore Acres
 - Holidays
 image: "/img/96336566-3350-49e0-8f45-055b330754ac.jpg"
 publish_date: ''
 warning: true
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 
 ---

@@ -16,7 +16,7 @@ tags:
 - North Bend
 - Oregon
 - Oregon Coast
-categories:
+old_categories:
 - Eat & Drink
 - Fishing
 - Crabbing & Clamming

@@ -12,12 +12,12 @@ tags:
 - Reviews of Coos Bay
 - Things to do in Coos Bay
 - TripAdvisor
-categories:
+old_categories:
 - Miscellaneous
 - State Parks & National Lands
 image: "/img/06-15-17-trip-advisor-s-coos-bay.jpg"
 warning: true
-new_categories:
+categories:
 - Shopping & Entertainment
 - Local Food & Drink
 

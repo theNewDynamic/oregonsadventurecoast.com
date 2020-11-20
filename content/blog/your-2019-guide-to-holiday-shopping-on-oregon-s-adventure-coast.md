@@ -7,7 +7,7 @@ description: There is a bounty of holiday treasures waiting to be discovered rig
 image: "/img/Holiday-Shopping-Guide-2019-Coos-Bay-North-Bend-Charleston.jpg"
 tags:
 - Holiday Shopping
-categories:
+old_categories:
 - Shopping
 - Holidays
 seo:
@@ -20,7 +20,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - Special Events & Holidays
 - Shopping & Entertainment
 draft: true

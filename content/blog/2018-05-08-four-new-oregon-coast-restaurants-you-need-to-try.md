@@ -22,11 +22,11 @@ tags:
 - Restaurants
 - Seafood
 - Where to Eat
-categories:
+old_categories:
 - Eat & Drink
 image: "/img/05-08-18-new-or-coast-resteraunts.jpg"
 warning: true
-new_categories:
+categories:
 - Local Food & Drink
 
 ---

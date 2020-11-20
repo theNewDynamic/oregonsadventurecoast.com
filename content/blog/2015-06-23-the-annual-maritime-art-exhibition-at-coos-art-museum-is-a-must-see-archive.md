@@ -17,11 +17,11 @@ tags:
 - Oregon Coast Gallery
 - recreation
 - visual arts
-categories:
+old_categories:
 - Culture & Museums
 image: ''
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

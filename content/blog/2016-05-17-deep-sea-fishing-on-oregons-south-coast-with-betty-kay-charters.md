@@ -14,12 +14,12 @@ tags:
 - Fishing
 - Crabbing & Clamming
 - Oregon Coast
-categories:
+old_categories:
 - Fishing
 - Crabbing & Clamming
 image: ''
 warning: true
-new_categories:
+categories:
 - Fishing
 
 ---

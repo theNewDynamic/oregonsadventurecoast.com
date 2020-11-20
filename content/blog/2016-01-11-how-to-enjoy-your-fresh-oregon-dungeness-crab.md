@@ -25,12 +25,12 @@ tags:
 - Oregon Dungeness Crab
 - the Charleston boat
 - where to go crabbing
-categories:
+old_categories:
 - Eat & Drink
 - Fishing
 - Crabbing & Clamming
 image: ''
-new_categories:
+categories:
 - Local Food & Drink
 
 ---

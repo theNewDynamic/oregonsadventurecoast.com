@@ -7,7 +7,7 @@ description: 'There are few places more romantic than Oregon’s Adventure Coast
   stay- whether it’s for Valentine’s Day or any day of the year. '
 image: "/img/DSC_4334.jpeg"
 tags: []
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''
@@ -17,7 +17,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

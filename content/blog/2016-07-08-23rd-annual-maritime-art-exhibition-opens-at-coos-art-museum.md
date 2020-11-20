@@ -12,11 +12,11 @@ tags:
 - Exhibits
 - Fine Art Prints
 - Maritime
-categories:
+old_categories:
 - Culture & Museums
 image: ''
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

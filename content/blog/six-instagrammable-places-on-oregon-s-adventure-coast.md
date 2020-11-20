@@ -19,7 +19,7 @@ tags:
 - Oregon Coast Historic Railway Museum
 - The Oregon Dunes National Recreation Area
 - Fishermen’s Seafood Market
-categories: []
+old_categories: []
 draft: true
 
 ---

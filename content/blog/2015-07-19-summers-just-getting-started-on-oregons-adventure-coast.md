@@ -17,11 +17,11 @@ tags:
 - North Bend
 - Oregon Coast Festivals
 - Salmon BBQ
-categories:
+old_categories:
 - Fairs & Festivals
 image: ''
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

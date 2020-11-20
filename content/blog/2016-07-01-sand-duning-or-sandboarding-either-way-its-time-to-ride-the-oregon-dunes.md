@@ -13,10 +13,10 @@ tags:
 - Sand Dunes
 - sand duning
 - Sandboarding
-categories:
+old_categories:
 - Miscellaneous
 image: ''
-new_categories:
+categories:
 - Outdoor Adventures
 
 ---

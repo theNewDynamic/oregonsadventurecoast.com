@@ -12,7 +12,7 @@ tags:
 - New Years
 - North Bend
 - Oregon
-categories:
+old_categories:
 - Eat & Drink
 - Fairs & Festivals
 image: ''

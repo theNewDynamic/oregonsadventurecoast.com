@@ -20,7 +20,7 @@ tags:
 - South Slough
 - Golden & Silver Falls
 - safe travel
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''
@@ -30,7 +30,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - Outdoor Adventures
 - Oregon's Adventure Coast News & Info
 

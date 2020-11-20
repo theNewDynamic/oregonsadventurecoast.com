@@ -15,11 +15,11 @@ tags:
 - Sailing
 - Schooner
 - Tours
-categories:
+old_categories:
 - Miscellaneous
 image: ''
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

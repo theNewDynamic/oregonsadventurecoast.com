@@ -11,7 +11,7 @@ tags:
 - Hotel Guest Safety
 - 'Oregon Travel '
 - 'Phase Two Reopening '
-categories:
+old_categories:
 - Hotel
 seo:
   title: ''
@@ -22,7 +22,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 
 ---

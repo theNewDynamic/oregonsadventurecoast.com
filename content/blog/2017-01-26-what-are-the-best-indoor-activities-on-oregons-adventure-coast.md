@@ -14,14 +14,14 @@ tags:
 - North Bend Lanes
 - Southern Oregon Coast
 - Winter
-categories:
+old_categories:
 - Culture & Museums
 - Eat & Drink
 - Entertainment & Nightlife
 - Historical
 image: "/img/North Bend Lanes Bowling blog-695x322.jpg"
 warning: true
-new_categories:
+categories:
 - Shopping & Entertainment
 - Local Spotlight
 

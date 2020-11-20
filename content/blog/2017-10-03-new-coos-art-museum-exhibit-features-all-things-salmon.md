@@ -14,11 +14,11 @@ tags:
 - Front Street
 - Oregon Coast History Museum
 - South Coast Museum
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/10-03-17-coos-art-museum-all-things-salmon.jpg"
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

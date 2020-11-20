@@ -18,11 +18,11 @@ tags:
 - Oregon
 - Oregon Coast Events
 - Thanksgiving
-categories:
+old_categories:
 - Events
 image: "/img/11-09-17-celibrate-the-hollidays.jpg"
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

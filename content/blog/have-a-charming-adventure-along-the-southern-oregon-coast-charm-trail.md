@@ -8,11 +8,11 @@ tags:
 - news
 - Southern Oregon Coast Charm Trail
 - Southern Oregon Coast Charm Bracelet
-categories:
+old_categories:
 - Culture & museums
 image: "/img/southern-oregon-charm-trail.jpg"
 warning: true
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 
 ---

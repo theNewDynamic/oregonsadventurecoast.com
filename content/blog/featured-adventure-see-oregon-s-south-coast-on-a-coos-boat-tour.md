@@ -13,10 +13,10 @@ tags:
 - Coos Boat Tours
 - 'Coos Bay Boat tour '
 - scenic cruise
-categories:
+old_categories:
 - Boat Tours
 warning: true
-new_categories:
+categories:
 - Local Spotlight
 
 ---

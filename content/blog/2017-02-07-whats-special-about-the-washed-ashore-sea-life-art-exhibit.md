@@ -14,11 +14,11 @@ tags:
 - Oregon
 - Oregon Coast
 - washed ashore
-categories:
+old_categories:
 - Culture & Museums
 image: ''
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

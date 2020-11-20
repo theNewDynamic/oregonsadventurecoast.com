@@ -14,11 +14,11 @@ tags:
 - School Tours
 - The University of Oregon
 - UO’s Institute of Marine Biology
-categories:
+old_categories:
 - Culture & Museums
 image: ''
 warning: true
-new_categories:
+categories:
 - Local Spotlight
 
 ---

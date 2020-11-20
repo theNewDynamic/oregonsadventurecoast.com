@@ -15,12 +15,12 @@ tags:
 - Oregon
 - Oregon Coast
 - Sunset Bay State Park
-categories:
+old_categories:
 - Fishing
 - Crabbing & Clamming
 image: ''
 warning: true
-new_categories:
+categories:
 - Outdoor Adventures
 - State Parks & National Lands
 

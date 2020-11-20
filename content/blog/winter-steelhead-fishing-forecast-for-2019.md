@@ -11,9 +11,9 @@ tags:
 - best winter steelhead fishing
 - winter steelhead fishing trip
 - 'Oregon Coast fishing trip '
-categories: []
+old_categories: []
 warning: true
-new_categories:
+categories:
 - Fishing
 
 ---

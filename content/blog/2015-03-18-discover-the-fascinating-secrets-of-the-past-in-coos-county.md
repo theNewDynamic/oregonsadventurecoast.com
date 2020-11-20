@@ -19,11 +19,11 @@ tags:
 - Pacific Northwest Clamming
 - Pacific Northwest Clams
 - shellfish
-categories:
+old_categories:
 - Fishing
 - Crabbing & Clamming
 image: ''
-new_categories:
+categories:
 - Arts & Culture
 
 ---

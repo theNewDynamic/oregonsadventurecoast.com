@@ -14,10 +14,10 @@ tags:
 - North Bend Oregon
 - Charleston Oregon
 - Oregon Travel Trip
-categories:
+old_categories:
 - 'Travel Tips '
 warning: true
-new_categories:
+categories:
 - Miscellaneous
 - Oregon's Adventure Coast News & Info
 

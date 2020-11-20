@@ -16,7 +16,7 @@ tags:
 - Oregon Coast Holiday Lights
 - Shore Acres
 - Shore Acres Holiday Lights
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/holidaylights-aerial-177-new.jpg"
 draft: true

@@ -19,7 +19,7 @@ tags:
 - family destinations
 - Stand Up! For The Bay
 - " Coos Bay Surfriders"
-categories:
+old_categories:
 - National Lands
 seo:
   title: ''
@@ -30,7 +30,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - State Parks & National Lands
 
 ---

@@ -14,11 +14,11 @@ tags:
 - Cruz the Coos
 - Oregon
 - The Mill Casino
-categories:
+old_categories:
 - Fairs & Festivals
 image: ''
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

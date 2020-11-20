@@ -12,11 +12,11 @@ tags:
 - Mahaffy Ranch
 - Trick or Treat
 - U-Pick Pumpkin Patch
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/10-11-17-fun-and-spooky-coast.jpg"
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

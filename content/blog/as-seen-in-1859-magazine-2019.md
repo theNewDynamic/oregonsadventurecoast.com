@@ -15,9 +15,9 @@ tags:
 - Coos Bay
 - North Bend Oregon
 - Charleston Oregon
-categories: []
+old_categories: []
 warning: true
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 
 ---

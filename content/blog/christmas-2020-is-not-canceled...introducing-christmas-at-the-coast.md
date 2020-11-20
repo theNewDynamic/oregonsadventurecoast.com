@@ -15,9 +15,9 @@ tags:
 - 'Drive by Santa and Tree Lighting in Downtown Coos Bay '
 - Empire District Virtual Tree Lighting
 - Empire District Virtual Tree Lighting and Santa Parade
-new_categories:
+categories:
 - Special Events & Holidays
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''

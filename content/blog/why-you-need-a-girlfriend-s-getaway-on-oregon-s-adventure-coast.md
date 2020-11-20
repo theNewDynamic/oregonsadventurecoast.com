@@ -22,7 +22,7 @@ tags:
 - North Bend Oregon
 - Charleston Oregon
 - 'casino-style gaming '
-categories:
+old_categories:
 - 'Oregon''s Adventure Coast News & Info '
 seo:
   title: ''
@@ -33,7 +33,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 
 ---

@@ -25,11 +25,11 @@ tags:
 - recreation
 - September Events
 - Shore Acres
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/capearago.jpg"
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

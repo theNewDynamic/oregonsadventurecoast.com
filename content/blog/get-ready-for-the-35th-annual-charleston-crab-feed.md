@@ -6,7 +6,7 @@ description: Better bring your appetite to Oregon's Adventure Coast the weekend 
 date: 2019-01-30 21:00:00 -0800
 image: "/img/crab-feed-charleston-medium.jpg"
 tags: []
-categories: []
+old_categories: []
 draft: true
 
 ---

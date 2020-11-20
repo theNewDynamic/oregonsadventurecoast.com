@@ -30,7 +30,7 @@ tags:
 - Shore Acres State Park
 - South Slough National Estuarine Research Reserve
 - Southern Oregon Coast
-categories:
+old_categories:
 - Beach
 - Culture & Museums
 - Fairs & Festivals
@@ -38,7 +38,7 @@ categories:
 - Shopping
 - Walking & Hiking
 image: ''
-new_categories:
+categories:
 - Shopping & Entertainment
 
 ---

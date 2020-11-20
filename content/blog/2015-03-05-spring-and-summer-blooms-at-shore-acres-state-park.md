@@ -20,11 +20,11 @@ tags:
 - Spring Travel
 - State Parks
 - State Parks and National Lands
-categories:
+old_categories:
 - State Parks & National Lands
 image: "/img/shore-acres-spring-flowers-695x322.jpg"
 warning: true
-new_categories:
+categories:
 - State Parks & National Lands
 
 ---

@@ -20,11 +20,11 @@ tags:
 - Cape Arago State Highway
 - Bastendorff Beach
 - 'South Slough National Estuarine Research Reserve '
-new_categories:
+categories:
 - Local Food & Drink
 - State Parks & National Lands
 - Shopping & Entertainment
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''

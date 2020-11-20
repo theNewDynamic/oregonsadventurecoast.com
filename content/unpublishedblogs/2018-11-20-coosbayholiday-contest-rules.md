@@ -15,6 +15,7 @@ tags:
 categories:
   - Miscellaneous
 image: ''
+draft: true
 ---
 <h1><b>2018 PHOTO CONTEST RULES</b></h1>
 <b>NO PURCHASE NECESSARY. </b><span style="font-weight: 400;">The 2018 Holiday Lights at Shore Acres Photo Contest is sponsored by the Coos Bay – North Bend Visitor & Convention Bureau (VCB) 50 Central Ave, Coos Bay, OR 97420. <br><br>

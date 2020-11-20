@@ -9,7 +9,7 @@ tags:
 - indoor attractions oregon coast
 - top 5 attractions for kids of all ages
 - top 5 attractions for rainy days on Oregon's coast
-categories:
+old_categories:
 - culture museums
 - adventures
 - indoor adventures

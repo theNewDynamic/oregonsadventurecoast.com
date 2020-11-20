@@ -14,12 +14,12 @@ tags:
 - Kayak fishing oregon coast
 - 'Kayak rentals '
 - fishing equipment rentals
-categories:
+old_categories:
 - Fishing
 - Water Recreation
 - Kayaking
 warning: true
-new_categories:
+categories:
 - Fishing
 - Outdoor Adventures
 

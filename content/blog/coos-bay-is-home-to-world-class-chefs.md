@@ -10,7 +10,7 @@ tags:
 - Chef Eoghain O’Neill
 - Food Network
 - Coos Bay Restaurants
-categories:
+old_categories:
 - Eat Drink
 seo:
   title: ''
@@ -21,7 +21,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - Local Food & Drink
 
 ---

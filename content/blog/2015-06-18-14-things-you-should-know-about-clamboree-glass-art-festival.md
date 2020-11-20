@@ -23,7 +23,7 @@ tags:
 - recreation
 - The Empire District
 - West Coast Clams
-categories:
+old_categories:
 - Fairs & Festivals
 - Miscellaneous
 image: ''

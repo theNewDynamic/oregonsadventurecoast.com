@@ -8,7 +8,7 @@ image: "/img/oac-ocean-cliff-photo-blog-695x322.jpg"
 tags:
 - Closures
 - COVID-19
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''

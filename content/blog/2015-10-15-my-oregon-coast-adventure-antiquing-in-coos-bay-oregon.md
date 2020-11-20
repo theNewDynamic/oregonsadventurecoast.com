@@ -22,11 +22,11 @@ tags:
 - Oregon Coast
 - Oregon Coast Adventure
 - recreation
-categories:
+old_categories:
 - Shopping
 image: ''
 warning: true
-new_categories:
+categories:
 - Shopping & Entertainment
 
 ---

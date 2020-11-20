@@ -10,7 +10,7 @@ tags:
 - Downtown Coos Bay
 - Holiday Open House
 - Downtown Coos Bay Association
-categories:
+old_categories:
 - Holidays
 image: "/img/shopping-north-bend.jpg"
 draft: true

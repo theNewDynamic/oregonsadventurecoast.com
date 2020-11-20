@@ -12,13 +12,13 @@ tags:
 - Millicoma Marsh Trail
 - Paddle Boarding
 - South Slough National Estuarine Research Reserve
-categories:
+old_categories:
 - Birding
 - Kayaking
 - Miscellaneous
 image: "/img/09-21-17-moonlight-paddle.jpg"
 warning: true
-new_categories:
+categories:
 - Outdoor Adventures
 
 ---

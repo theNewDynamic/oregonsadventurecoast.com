@@ -24,9 +24,9 @@ tags:
 - Coos Bay Farmers Market
 - Golden and Silver Falls
 - Charleston Marine Life Center
-categories: []
+old_categories: []
 warning: true
-new_categories:
+categories:
 - Miscellaneous
 
 ---

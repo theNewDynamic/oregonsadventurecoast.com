@@ -14,11 +14,11 @@ tags:
 - North Bend
 - Oregon
 - recreation
-categories:
+old_categories:
 - Eat & Drink
 image: "/img/11-28-17-best-clam-chowder.jpg"
 warning: true
-new_categories:
+categories:
 - Local Food & Drink
 
 ---

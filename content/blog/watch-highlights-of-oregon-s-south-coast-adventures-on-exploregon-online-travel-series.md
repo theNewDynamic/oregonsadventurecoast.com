@@ -19,9 +19,9 @@ tags:
 - 7 Devils Brewery
 - Shore Acres State Park
 - Cape Arago
-categories: []
+old_categories: []
 warning: true
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 - Local Spotlight
 

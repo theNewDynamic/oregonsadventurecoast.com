@@ -21,12 +21,12 @@ tags:
 - Shore Acres State Park
 - State Parks
 - "State Parks & National Lands\t 0 No approved comments11 pending comment"
-categories:
+old_categories:
 - Miscellaneous
 - State Parks & National Lands
 image: "/img/09-18-18-shore-acres-garden-all-seasons.jpg"
 warning: true
-new_categories:
+categories:
 - State Parks & National Lands
 
 ---

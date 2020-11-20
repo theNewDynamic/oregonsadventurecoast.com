@@ -19,11 +19,11 @@ tags:
 - Sunset Bay State Park
 - Swimming
 - Tide Pools
-categories:
+old_categories:
 - Walking & Hiking
 image: ''
 warning: true
-new_categories:
+categories:
 - Outdoor Adventures
 
 ---

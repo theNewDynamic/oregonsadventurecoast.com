@@ -14,7 +14,7 @@ tags:
 - folk dance
 - South Coast Folk Society
 - South Coast Folk Week
-categories:
+old_categories:
 - Fairs & Festivals
 - Miscellaneous
 image: ''

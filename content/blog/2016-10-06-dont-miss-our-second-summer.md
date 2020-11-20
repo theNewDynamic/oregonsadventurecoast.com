@@ -15,14 +15,14 @@ tags:
 - outdoor adventures
 - Travel Season
 - Warm Weather
-categories:
+old_categories:
 - Beach
 - Culture & Museums
 - Fishing
 - Crabbing & Clamming
 - Walking & Hiking
 image: ''
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 
 ---

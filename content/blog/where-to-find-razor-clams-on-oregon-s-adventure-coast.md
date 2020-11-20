@@ -11,7 +11,7 @@ tags:
 - coos bay clamming
 - charleston clamming
 - north bend clamming
-categories:
+old_categories:
 - Crabbing & Clamming
 - fishing
 seo:
@@ -23,7 +23,7 @@ seo:
   image: "/img/razor-clam-695x322.jpg"
 aliases: []
 accordion_sections: []
-new_categories:
+categories:
 - Clamming
 warning: false
 warning_copy: ''

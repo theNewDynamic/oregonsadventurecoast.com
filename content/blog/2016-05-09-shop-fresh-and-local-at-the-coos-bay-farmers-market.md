@@ -19,7 +19,7 @@ tags:
 - Tourism
 - Travel Tips
 - Vendors
-categories:
+old_categories:
 - Eat & Drink
 - Miscellaneous
 image: ''

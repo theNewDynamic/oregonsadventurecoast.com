@@ -19,7 +19,7 @@ tags:
 - Oregon Coast Itinerary
 - 2-day Intinerary
 - 'Whale Watch Trip Itinerary '
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''
@@ -29,7 +29,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

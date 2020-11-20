@@ -13,11 +13,11 @@ tags:
 - Family Friendly
 - U.S. Coast Guard
 - 'U.S. Coast Guard: Through the Eye of the Artist'
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/07-11-18-coast-guard-exhibition.jpg"
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

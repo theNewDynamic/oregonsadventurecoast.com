@@ -10,11 +10,11 @@ tags:
 - Warm Winter
 - Weather
 - Winter on the Oregon Coast
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/Fun-Sway-Boat-Trip-On-Bay-cropped.jpg"
 warning: true
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 
 ---

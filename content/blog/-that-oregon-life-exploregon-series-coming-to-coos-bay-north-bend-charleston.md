@@ -8,13 +8,13 @@ description: 'UPDATE as of August 1st: <em>As originally noted, the scheduled br
   target="_blank">That Oregon Life Facebook Page</a>!</em>'
 tags:
 - news
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/south-cove-cliffs-new.jpg"
 seo:
   image: "/img/south-cove-cliffs-new.jpg"
 warning: true
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 
 ---

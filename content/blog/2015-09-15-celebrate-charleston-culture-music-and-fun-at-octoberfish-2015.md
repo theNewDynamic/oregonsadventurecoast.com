@@ -22,7 +22,7 @@ tags:
 - Octoberfish Gala
 - Tailigating
 - Tuna Guys
-categories:
+old_categories:
 - Fairs & Festivals
 image: ''
 draft: true

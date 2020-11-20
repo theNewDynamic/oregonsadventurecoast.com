@@ -23,7 +23,7 @@ tags:
 - the Oregon Coast
 - Travel Oregon
 - Travel to Coos Bay
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/07-24-17-end-of-summer-todo.jpg"
 draft: true

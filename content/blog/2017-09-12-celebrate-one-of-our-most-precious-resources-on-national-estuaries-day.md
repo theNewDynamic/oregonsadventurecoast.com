@@ -10,7 +10,7 @@ tags:
 - Charleston
 - National Estuaries Day
 - South Slough National Estuarine Research Reserve
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/09-12-18-national-estuaries-week.jpg"
 draft: true

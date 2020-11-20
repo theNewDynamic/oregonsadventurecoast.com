@@ -12,11 +12,11 @@ tags:
 - spring break
 - 'family friendly '
 - Charleston Marine Life Center
-categories:
+old_categories:
 - 'Shore Acres State Park '
 - Events
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

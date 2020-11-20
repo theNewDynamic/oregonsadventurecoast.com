@@ -9,10 +9,10 @@ tags:
 - Bastendorf Beach
 - Beaches
 - Surfing
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/08-29-17-spotlight-brastendorff-beach.jpg"
-new_categories:
+categories:
 - Local Spotlight
 
 ---

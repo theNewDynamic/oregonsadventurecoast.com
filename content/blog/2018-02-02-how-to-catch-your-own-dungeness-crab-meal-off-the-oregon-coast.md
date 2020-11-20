@@ -18,11 +18,11 @@ tags:
 - Oregon
 - Oregon Department of Fish and Wildlife
 - recreation
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/02-02-18-catch-your-own-crab-mealoff.jpg"
 warning: true
-new_categories:
+categories:
 - Outdoor Adventures
 - Crabbing
 

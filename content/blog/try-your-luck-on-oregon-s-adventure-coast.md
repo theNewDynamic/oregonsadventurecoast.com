@@ -6,9 +6,9 @@ description: Did you know that our little corner of the Pacific Northwest is hom
   to find round-the-clock adventure, fun, and (fingers crossed) millions right here.
 image: "/img/Oregon Coast Casinos.jpg"
 tags: []
-categories: []
+old_categories: []
 warning: true
-new_categories:
+categories:
 - Shopping & Entertainment
 
 ---

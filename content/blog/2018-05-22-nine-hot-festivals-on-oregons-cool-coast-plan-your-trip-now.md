@@ -16,11 +16,11 @@ tags:
 - Oregon Coast Festival
 - Oregon Coast Music Festival
 - Oregon Coast Road Trip
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/05-22-18-nine-hot-festivals.jpg"
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

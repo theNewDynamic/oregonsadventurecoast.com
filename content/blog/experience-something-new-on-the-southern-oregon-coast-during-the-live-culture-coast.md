@@ -23,7 +23,7 @@ tags:
 - South Slough Reserve
 - The Egyptian Theatre
 - The Biggest Little Farm
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''
@@ -33,7 +33,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - Arts & Culture
 
 ---

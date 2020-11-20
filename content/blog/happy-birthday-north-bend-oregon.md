@@ -23,7 +23,7 @@ tags:
 - Coquille point
 - Bastendorff Beach
 - Devil’s Kitchen
-categories:
+old_categories:
 - 'North Bend '
 seo:
   title: ''
@@ -34,7 +34,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 - Local Spotlight
 

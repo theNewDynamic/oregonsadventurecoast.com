@@ -20,11 +20,11 @@ tags:
 - Oregon
 - recreation
 - Southern Oregon Coast
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/06-08-18-fireworks-at-the-mill.jpg"
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

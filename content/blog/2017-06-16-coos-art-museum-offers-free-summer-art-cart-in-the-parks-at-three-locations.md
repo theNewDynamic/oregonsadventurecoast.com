@@ -13,11 +13,11 @@ tags:
 - Art
 - Coos Art Museum
 - Downtown Coos Bays
-categories:
+old_categories:
 - Culture & Museums
 image: "/img/06-16-17-summer-art-cart.jpg"
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

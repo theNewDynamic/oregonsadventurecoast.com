@@ -16,11 +16,11 @@ tags:
 - Santa
 - Shore Acres
 - Shore Acres State Park
-categories:
+old_categories:
 - Entertainment & Nightlife
 image: ''
 warning: true
-new_categories:
+categories:
 - Special Events & Holidays
 
 ---

@@ -16,9 +16,9 @@ tags:
 - Oregon's Adventure Coast
 - Wave Safe
 - Oregon Coast Safety
-new_categories:
-- Outdoor Adventures
 categories:
+- Outdoor Adventures
+old_categories:
 - 'Outdoor Adventures '
 seo:
   title: ''

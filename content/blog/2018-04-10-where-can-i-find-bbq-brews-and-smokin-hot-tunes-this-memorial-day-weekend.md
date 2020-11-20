@@ -20,7 +20,7 @@ tags:
 - 'Charleston Oregon '
 - Oregon Coast
 - Oregon's South Coast
-categories:
+old_categories:
 - Events
 image: "/img/BBQ Blues Mill Casino blog-695x322.jpg"
 draft: true

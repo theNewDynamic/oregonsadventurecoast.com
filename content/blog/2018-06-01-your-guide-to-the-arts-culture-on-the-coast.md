@@ -23,7 +23,7 @@ tags:
 - Oregon’s South Coast
 - The Liberty Theatre
 - Theatre
-categories:
+old_categories:
 - Culture & Museums
 - Events
 - Miscellaneous
@@ -31,7 +31,7 @@ image: "/img/06-01-18-guide-to-arts-and-culture.jpg"
 aliases:
 - "/blog/2015-06-23-the-annual-maritime-art-exhibition-at-coos-art-museum-is-a-must-see/"
 warning: true
-new_categories:
+categories:
 - Arts & Culture
 
 ---

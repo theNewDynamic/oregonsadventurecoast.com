@@ -21,7 +21,7 @@ tags:
 - Oregon Dunes National Recreation Area
 - recreation
 - Southern Oregon Coast
-categories:
+old_categories:
 - Dunes
 - Miscellaneous
 image: ''

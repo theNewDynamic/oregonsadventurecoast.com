@@ -7,7 +7,7 @@ description: Witness the power and feel the thunder of mother nature with giant 
 image: "/img/storm-watching-logo-695-x-322.jpg"
 tags:
 - storm watching
-categories:
+old_categories:
 - Storm Watching
 - Adventures
 - Shore Acres
@@ -18,7 +18,7 @@ seo:
     wave splashes up to 300 feet at Shore Acres!
   imgalt: Massive Wave Splashes on Oregon's Adventure Coast
   image: "/img/storm-watching-wave-crash.jpg"
-new_categories:
+categories:
 - Outdoor Adventures
 aliases: []
 accordion_sections: []

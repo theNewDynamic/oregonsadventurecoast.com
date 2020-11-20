@@ -15,10 +15,10 @@ tags:
 - pet sitting services
 - recreation
 - the Oregon Coast
-categories:
+old_categories:
 - Uncategorized
 image: ''
-new_categories:
+categories:
 - Oregon's Adventure Coast News & Info
 - Outdoor Adventures
 

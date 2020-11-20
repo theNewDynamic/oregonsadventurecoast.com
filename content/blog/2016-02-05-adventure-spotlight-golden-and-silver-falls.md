@@ -18,10 +18,10 @@ tags:
 - Oregon Coast Trails
 - Oregon Coast Waterfalls
 - waterfall
-categories:
+old_categories:
 - Walking & Hiking
 image: "/img/Golden and Silver Falls blog695x322.jpg"
-new_categories:
+categories:
 - Outdoor Adventures
 
 ---

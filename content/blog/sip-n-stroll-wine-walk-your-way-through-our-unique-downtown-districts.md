@@ -5,7 +5,7 @@ description: Look out for these special events on Oregon’s Adventure Coast tha
   community, wine and locally owned businesses while supporting special causes.
 image: ''
 tags: []
-categories: []
+old_categories: []
 seo:
   title: ''
   description: ''

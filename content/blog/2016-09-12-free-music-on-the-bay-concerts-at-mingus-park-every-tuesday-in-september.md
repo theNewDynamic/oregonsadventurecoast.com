@@ -19,7 +19,7 @@ tags:
 - Oregon
 - recreation
 - Southern Oregon Coast
-categories:
+old_categories:
 - Culture & Museums
 - Miscellaneous
 image: ''

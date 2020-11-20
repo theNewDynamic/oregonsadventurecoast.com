@@ -18,12 +18,12 @@ tags:
 - Steve Prefontaine
 - Steve Prefontaine Gallery
 - Steve Prefontaine Memorial
-categories:
+old_categories:
 - Culture & Museums
 - Miscellaneous
 image: ''
 warning: true
-new_categories:
+categories:
 - Local Spotlight
 
 ---

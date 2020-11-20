@@ -15,12 +15,12 @@ tags:
 - Lighthouse Photography
 - Oregon Coast Lighthouse
 - photography
-categories:
+old_categories:
 - Historical
 - Lighthouses
 - Miscellaneous
 image: "/img/07-19-17-cape-arago-lighthouse-epic-view.jpg"
-new_categories:
+categories:
 - Local Spotlight
 - Miscellaneous
 

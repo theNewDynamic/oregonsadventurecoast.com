@@ -9,7 +9,7 @@ tags:
 - Facebook Live
 - Rick Dancer
 - That Oregon Life
-categories:
+old_categories:
 - Beach
 - Culture & Museums
 - Eat & Drink
@@ -23,7 +23,7 @@ categories:
 - Walking & Hiking
 image: "/img/rick-dancer-header.jpg"
 warning: true
-new_categories:
+categories:
 - Miscellaneous
 
 ---

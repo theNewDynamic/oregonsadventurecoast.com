@@ -14,7 +14,7 @@ tags:
 - Local goods
 - local merchants
 - Local Produce
-categories:
+old_categories:
 - Miscellaneous
 image: "/img/04-25-18-coos-bay-farmers-market.jpg"
 draft: true
