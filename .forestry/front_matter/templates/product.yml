@@ -7,12 +7,6 @@ fields:
   config:
     required: false
   label: Title
-- name: id
-  type: text
-  config:
-    required: false
-  label: ID
-  description: The product ID as it will be used in your store backend.
 - name: image
   type: file
   config:
@@ -22,6 +16,12 @@ fields:
   type: field_group
   config: {}
   fields:
+  - name: id
+    type: text
+    config:
+      required: false
+    label: Product ID
+    description: The product ID as will be used in your shop back office.
   - name: price
     type: number
     label: Price
