@@ -1,0 +1,8 @@
+{{ with $field := . }}
+  <label for="{{ .id }}">{{ .label }}</label>
+  <select name="{{ .name }}" id="{{ .id }}">
+    {{ range seq .min .max }}
+      <option value="{{ . }}" {{ if eq . $field.min }}selected{{ end }}>{{ . }}</option>
+    {{ end }}
+  </select>
+{{ end }}

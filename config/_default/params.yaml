@@ -7,3 +7,19 @@ tnd_seo:
   disable_title_tag: false
   # if true module will handle follow/nofollow tags for pages depending on environment and Front Matter setting.
   enable_follow: true
+tnd_snipcart:
+  front_matter_key: product
+  api_key: YzIyNDVmNWItNDA4NS00ZGRkLThmNTctNDFlZDNiMWM0ODM4NjM3Mzk1ODk4MTcxNDQ2NTI4
+  forms:
+    _default:
+      buy_button_text: Add to Cart
+      buy_button_classes: ""
+      fields:
+        - id: quantity
+          name: Quantity
+        - id: size
+          name: Size
+    single:
+      buy_button_text: Add to Cart
+      buy_button_classes: ""
+      fields:

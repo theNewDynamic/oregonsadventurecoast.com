@@ -35,5 +35,6 @@ taxonomies:
 permalinks:
   adventure: ':slug/'
   sitepages: ':slug/'
+  products: '/shop/:slug'
 blackfriday:
   hrefTargetBlank: false
