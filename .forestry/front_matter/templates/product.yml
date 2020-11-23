@@ -54,3 +54,5 @@ fields:
       min: 
       max: 
   label: Product
+pages:
+- content/products/sticker-dark.md
