@@ -7,6 +7,12 @@ fields:
   config:
     required: false
   label: Title
+- name: id
+  type: text
+  config:
+    required: false
+  label: ID
+  description: The product ID as it will be used in your store backend.
 - name: image
   type: file
   config:
