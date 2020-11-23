@@ -87,6 +87,13 @@ sections:
 - type: document
   path: site/data/taxonomies.yaml
   label: Taxonomies
+- type: heading
+  label: WIP
+- type: directory
+  path: content/products
+  label: Products
+  create: documents
+  match: "**/*"
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
