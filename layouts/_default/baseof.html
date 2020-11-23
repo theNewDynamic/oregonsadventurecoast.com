@@ -3,7 +3,9 @@
   {{ partial "head" . }}
   <body>
     {{ partial "hd" . }}
-    {{ partialCached "tnd-snipcart/tags.html" . }}
+    {{ if eq $.Type "products" }}
+      {{ partialCached "tnd-snipcart/tags.html" . }}
+    {{ end }}
     <div id="bd">{{ block "main" . }}{{ end }}</div>
     {{ partial "footer" . }}
     {{ block "footerJs" . }}{{ end }}
