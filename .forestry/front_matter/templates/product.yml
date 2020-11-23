@@ -26,14 +26,16 @@ fields:
       min: 
       max: 
       step: 
-  - name: custom_fields
-    type: blocks
-    label: Custom Fields
-    template_types:
-    - product-field-size
+  - name: weight
+    type: number
+    label: Weight
+    description: The weight of the product in grams
+    default: 0
+    required: true
     config:
       min: 
       max: 
+      step: 
   - name: description
     type: textarea
     default: ''
@@ -43,4 +45,12 @@ fields:
       schema:
         format: markdown
     label: Description
+  - name: custom_fields
+    type: blocks
+    label: Custom Fields
+    template_types:
+    - product-field-size
+    config:
+      min: 
+      max: 
   label: Product
