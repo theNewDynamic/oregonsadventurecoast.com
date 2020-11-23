@@ -1,4 +1,24 @@
 ---
 label: Product Field Size
 hide_body: true
-fields: []
+fields:
+- name: id
+  type: text
+  config:
+    required: false
+  label: id
+  default: size
+  hidden: true
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+  default: Size
+- name: options
+  type: tag_list
+  default:
+  - S
+  - M
+  - L
+  label: Options
