@@ -94,6 +94,9 @@ sections:
   label: Products
   create: documents
   match: "**/*"
+  exclude: _index.md
+  templates:
+  - product
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
