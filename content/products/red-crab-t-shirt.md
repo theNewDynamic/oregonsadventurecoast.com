@@ -6,7 +6,8 @@ product:
   description: Dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi augue duis dolore te feugait.
   price: 25.00
   custom_fields:
-  - id: size
+  - template: product-field-size
+    id: size
     name: Size
     options:
       - S
