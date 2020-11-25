@@ -39,7 +39,15 @@ From **Thanksgiving night to New Year's Eve 2020**, neighborhoods and business d
 
 #### [Download PDF of Christmas Lights Map](/img/Christmas-Coast-Map-PRINT-11-20-revised.pdf)
 
-When you visit and stay at one of our lodging properties, bring your receipt to either visitor center to receive a special commemorative, dated ornament!
+{{< spacer 25 >}}
+
+{{< floatimage src="img/crabby-ornament-tree-web.jpg" float="left" alt="Crabby ornaments are here!" size="40" >}} **Limited Edition Dated Oregon’s Adventure Coast Ornament!**
+
+Stop in the Coos Bay Visitor Center and pick up your own Crabby 2020 Ornament! Or Stay overnight at any of our many wonderful lodging properties, bring in your printed receipt, and we’ll give you one as a **GIFT!**
+
+_Available While Supplies Last_
+
+{{< spacer 25 >}}
 
 ![](/img/catc-banner-10-20.jpg)
 
