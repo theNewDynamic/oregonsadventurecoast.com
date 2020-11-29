@@ -5,9 +5,6 @@ aliases:
 - "/activities/category/geocaching"
 - "/rob"
 slideshow:
-- photo: "/img/fall-15-off-lodging-special-09-20.jpg"
-  photo_mobile: "/img/fall-15-off-lodging-special-mobile.jpg"
-  url: "/fall15"
 - photo: "/img/christmas-at-the-coast-lights-tour-hm-02.jpg"
   photo_mobile: "/img/christmas-at-the-coast-lights-mobile-v02.jpg"
   url: "/event/christmas-at-the-coast"
