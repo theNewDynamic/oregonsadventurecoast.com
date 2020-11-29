@@ -25,4 +25,4 @@ To help you get started discovering our exciting and exhilarating adventures, we
 
 Contact Oregon’s Adventure Coast with any questions you may have about things to do on your vacation!
 
-[![](/img/fall-special-lodging-695-width.jpg)](/fall15)
+[![](/img/christmas-at-the-coast-695-banner.jpg)](/event/christmas-at-the-coast)
