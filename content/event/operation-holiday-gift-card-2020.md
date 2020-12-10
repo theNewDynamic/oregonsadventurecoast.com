@@ -60,13 +60,13 @@ Bayside Coffee
 
 Blue Heron Bistro
 
-Blue Moon Saloon & Café 
+Blue Moon Saloon & Café
 
 Buzz
 
 Café Mediterranean
 
-Cape Café 
+Cape Café
 
 Captain's Cabin
 
@@ -90,7 +90,7 @@ Dishner's Fine Foods
 
 El Coyote Mexican Restaurant
 
-El Guadalajara Mexican Restaurant 
+El Guadalajara Mexican Restaurant
 
 Elkhorn BBQ
 
@@ -122,11 +122,13 @@ Kaffe 101
 
 Kozy Kitchen
 
-Kum-Yon's
-\++++
+Kum-Yon's 
+
 La Herradura
 
 Liberty Pub
+
+\++++
 
 Little Italy
 
@@ -168,7 +170,7 @@ Portside Restaurant & Lounge
 
 Pueblo Nuevo
 
-Puerto Vallarta Restaurant 
+Puerto Vallarta Restaurant
 
 Restaurant O
 
@@ -178,11 +180,11 @@ Sea Basket
 
 Shake 'N Burger
 
-Shark Bites Seafood Café 
+Shark Bites Seafood Café
 
 So It Goes Coffeehouse
 
-Stockpot Restaurant 
+Stockpot Restaurant
 
 Sumin's Restaurant & Sushi Bar
 
@@ -194,7 +196,7 @@ The Grounds Café
 
 The Mill Casino * Hotel & RV Park
 
-The Tin Thistle Café 
+The Tin Thistle Café
 
 Tiny's Tavern
 
