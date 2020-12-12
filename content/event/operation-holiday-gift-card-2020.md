@@ -214,3 +214,9 @@ Yeong's Place
 {{< /columns >}}
 
 _This program is brought to you through the generous support of the **Southwestern Oregon Workforce Investment Board, the Wild Rivers Coast Alliance, the City of Coos Bay, the City of North Bend, Travel Southern Oregon Coast, the Coos Bay-North Bend Visitor & Convention Bureau (Oregon's Adventure Coast), and K-DOCK Radio**._
+
+![](/img/sowib-png.png)![](/img/wrca_clearbg.png)
+
+![](/img/city-cb-logo-color.gif)  ![](/img/city-of-north-bend-logo-color.jpg)
+
+![](/img/tsoc-logo.jpg)![](/img/kdock.png)
