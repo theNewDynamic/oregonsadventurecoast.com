@@ -213,4 +213,4 @@ Wildflour Café & Catering
 Yeong's Place
 {{< /columns >}}
 
-This program is brought to you through the generous support of the Southwestern Oregon Workforce Investment Board, the Wild Rivers Coast Alliance, the City of Coos Bay, the City of North Bend, Travel Southern Oregon Coast, the Coos Bay-North Bend Visitor & Convention Bureau (Oregon's Adventure Coast), and K-DOCK Radio.
+_This program is brought to you through the generous support of the **Southwestern Oregon Workforce Investment Board, the Wild Rivers Coast Alliance, the City of Coos Bay, the City of North Bend, Travel Southern Oregon Coast, the Coos Bay-North Bend Visitor & Convention Bureau (Oregon's Adventure Coast), and K-DOCK Radio**._
