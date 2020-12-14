@@ -2,7 +2,7 @@
 title: 15% OFF - Storm Watching Lodging Special
 url: "/storm15"
 layout: contact
-photo: ''
+photo: "/img/storm-watching-wave-crash.jpg"
 seo:
   title: ''
   description: ''
