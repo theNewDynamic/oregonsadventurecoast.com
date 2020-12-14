@@ -11,10 +11,9 @@ seo:
 aliases: []
 accordion_sections: []
 boxes: []
-draft: true
 
 ---
-![](/img/fall-15-off-header-695x322.jpg)
+![](/img/storm-15-off-695px-graphic.jpg)
 
 Spend this winter in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the following Lodging Properties and receive a special 15% discount.
 
@@ -22,4 +21,4 @@ Spend this winter in a destination that offers Space to Spread Out and Adventure
 
 {{< spacer 50 >}}
 
-_Check back soon for lodging properties and additional details._ 
+_Check back soon for lodging properties and additional details._
