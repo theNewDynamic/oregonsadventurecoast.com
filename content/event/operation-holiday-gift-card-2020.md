@@ -176,8 +176,6 @@ Restaurant O
 
 Scoops Handmade Ice Cream
 
-Sea Basket
-
 Shake 'N Burger
 
 Shark Bites Seafood Café
