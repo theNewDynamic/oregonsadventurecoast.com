@@ -76,6 +76,8 @@ Ciccarelli's Restaurant & Roastery
 
 City Subs
 
+Clausen's Oyster Cafe
+
 Coach House Restaurant & Lounge
 
 Coney Station
