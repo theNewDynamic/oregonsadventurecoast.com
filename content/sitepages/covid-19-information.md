@@ -13,11 +13,11 @@ accordion_sections: []
 boxes: []
 
 ---
-**_Updated November 13, 2020_**
+**_Updated December 17, 2020_**
 
-**As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors.**
+**As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors. Visit the state's** [**Safe+Strong Oregon**](https://www.safestrongoregon.org/) **page for more information.**
 
-**On November 13, 2020, Governor Kate Brown called for a 2-week freeze, from November 18-December 2**, on social gatherings with more than 6 attendees. The freeze also closes gyms & fitness centers, indoor recreation facilities such as museums, limits the number of patrons that can be inside a retail establishment, and closes restaurants & bars to all but take-out. This is a statewide mandate.
+**On December 18, 2020, Coos County will move into the Extreme Category.** This category limits social gatherings to no more than 6 attendees from up to 2 households. This category also closes gyms & fitness centers, indoor recreation facilities such as museums, limits the number of patrons that can be inside a retail establishments, and closes restaurants & bars to all but outdoor dining (limited seating) and take-out. 
 
 {{< spacer 25>}}
 
