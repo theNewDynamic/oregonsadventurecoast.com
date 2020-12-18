@@ -1,7 +1,7 @@
 visitorGuideLink: /visitor-guide
 tnd_seo:
   # Used for articles without images
-  default_image: "/uploads/default.jpg"
+  default_image: "/img/shore_acres_medium.jpg"
   # if true will use the SEO data object to output an json+ld script tag.
   jsonld: true
   disable_title_tag: false
