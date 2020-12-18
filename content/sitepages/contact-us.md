@@ -43,6 +43,8 @@ Coos Bay, OR 97420
 [Email Us](mailto:info@oregonsadventurecoast.com)  
 (541) 269-0215
 
+**NOTE: Temporary Winter Hours due to COVID - 10am-2pm Monday-Saturday**
+
 Find information, maps, and public restrooms. Open Mon – Fri, 9am-5pm, Sat 11am-3pm. Extended summer hours include Sun 11am-3pm (_Memorial Day – Labor Day_). Our visitor center staff are happy to [mail you visitor information](#contactform) or [relocation information](/relocation-info-request/#relocationform) upon request.
 \++++
 **North Bend Visitor Information Center**  
@@ -50,6 +52,8 @@ Find information, maps, and public restrooms. Open Mon – Fri, 9am-5pm, Sat 11a
 North Bend, OR 97459  
 [Email Us](mailto:nbinfo@northbendcity.org)  
 (541) 756-4613
+
+**Note: Due to COVID, the North Bend Visitor Center is Temporarily Closed.**
 
 Find information, maps, public restrooms and public computer. Located adjacent to Simpson Park. Open Tuesday-Sunday. Our visitor centers are happy to [mail you visitor information](https://www.oregonsadventurecoast.com/contact/#contactform) or [relocation information](https://www.oregonsadventurecoast.com/relocation-info-request/#relocationform) upon request.
 
