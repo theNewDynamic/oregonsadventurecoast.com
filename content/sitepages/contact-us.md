@@ -46,7 +46,7 @@ Coos Bay, OR 97420
 **NOTE: Temporary Winter Hours due to COVID - 10am-2pm Monday-Saturday**
 
 Find information, maps, and public restrooms. Open Mon – Fri, 9am-5pm, Sat 11am-3pm. Extended summer hours include Sun 11am-3pm (_Memorial Day – Labor Day_). Our visitor center staff are happy to [mail you visitor information](#contactform) or [relocation information](/relocation-info-request/#relocationform) upon request.
-\++++
+++++
 **North Bend Visitor Information Center**  
 1380 Sherman Ave  
 North Bend, OR 97459  
@@ -57,7 +57,7 @@ North Bend, OR 97459
 
 Find information, maps, public restrooms and public computer. Located adjacent to Simpson Park. Open Tuesday-Sunday. Our visitor centers are happy to [mail you visitor information](https://www.oregonsadventurecoast.com/contact/#contactform) or [relocation information](https://www.oregonsadventurecoast.com/relocation-info-request/#relocationform) upon request.
 
-\++++
+++++
 
 **Charleston Visitor Information Center**  
 91141 Cape Arago Hwy  
@@ -67,8 +67,6 @@ Charleston, OR 97429
 Open Seasonally: May 1st - September 30th
 
 {{< /columns >}}
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d46417.20329304691!2d-124.28108247456056!3d43.35453745830142!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c38681fb0c3923%3A0x56b689b37557b1ec!2sCoos+Bay+-+North+Bend+Visitor+and+Convention+Bureau!5e0!3m2!1sen!2sus!4v1533261555779" width="700" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <a name="contactform"></a>
 
