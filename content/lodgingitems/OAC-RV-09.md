@@ -18,7 +18,7 @@ property_description: On the waterfront in Coos Bay. 30/50 amps, city water, RV 
   Centrally located near shops & dining. Full Hookups, Recreation Area, Security,
   Dump Station, Handicap Accessible, Pets OK, WiFi available, Public Restrooms, Showers,
   Cable, Laundry.
-website: http://www.luckyloggerrv.com
+website: https://luckyloggersrvpark.com
 amenityList:
 - amenitySelect: 5
 - amenitySelect: 6
