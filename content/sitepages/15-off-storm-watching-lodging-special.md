@@ -17,7 +17,7 @@ boxes: []
 
 Spend this winter in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the following Lodging Properties and receive a special 15% discount.
 
-**_Discount valid January 1, 2021 through February 28, 2021. Some restrictions apply and subject to change._**
+**_Discount valid January 1, 2021 through March 31, 2021. Some restrictions apply and subject to change._**
 
 {{< spacer 50 >}}
 
