@@ -120,7 +120,7 @@ Charleston, OR 97420
 
 {{< spacer 60 >}}
 
-Here's a sample of what you might see:
+## Here's a sample of what you might see:
 
 {{< youtube "fKK3nZvM_go" >}}
 
