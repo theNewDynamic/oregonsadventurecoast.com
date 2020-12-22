@@ -13,7 +13,7 @@ accordion_sections: []
 boxes: []
 
 ---
-![](/img/storm-15-off-695px-graphic.jpg)
+![](/img/storm-15-off-695x322-final.jpg)
 
 Spend this winter in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the following Lodging Properties and receive a special 15% discount.
 
