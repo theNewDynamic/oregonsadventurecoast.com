@@ -31,7 +31,7 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-warning: false
+warning: true
 warning_copy: ''
 categories:
 - Oregon's Adventure Coast News & Info

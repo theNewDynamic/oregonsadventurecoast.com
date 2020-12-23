@@ -31,7 +31,7 @@ seo:
   image: "/img/paddleboarding-oregon-s-adventure-coast-blog-695x322-jpg.png"
 aliases: []
 accordion_sections: []
-warning: false
+warning: true
 warning_copy: ''
 categories:
 - Outdoor Adventures
