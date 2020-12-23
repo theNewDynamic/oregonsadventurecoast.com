@@ -34,7 +34,7 @@ aliases: []
 accordion_sections: []
 categories:
 - Outdoor Adventures
-warning: false
+warning: true
 warning_copy: ''
 
 ---
