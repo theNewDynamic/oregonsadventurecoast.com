@@ -25,7 +25,7 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-warning: false
+warning: true
 warning_copy: ''
 categories:
 - Oregon's Adventure Coast News & Info
@@ -73,4 +73,4 @@ And all of this!
 
 [Click here to see more adventures](https://www.oregonsadventurecoast.com/adventures/) you can do this fall and plan your own itinerary!
 
-You must take advantage of this 15% off lodging offer before November 30th, [click here to see details ](https://www.oregonsadventurecoast.com/fall15/)and a list of participating hotels. We look forward to welcoming you back to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston - all we ask is for you to follow Oregon’s [Safe+Strong guidelines](https://govstatus.egov.com/reopening-oregon) to keep our community safe and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). Please don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
+You must take advantage of this 15% off lodging offer before November 30th, [click here to see details ](https://www.oregonsadventurecoast.com/fall15/)and a list of participating hotels. We look forward to welcoming you back to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston - all we ask is for you to follow Oregon’s [Safe+Strong guidelines ](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you)to keep our community safe and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). Please don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
