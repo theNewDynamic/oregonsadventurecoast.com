@@ -1,6 +1,6 @@
 ---
 title: How To Stay Safe While Winter Storm Watching
-date: 2020-11-18T05:00:00+00:00
+date: 2020-11-18T05:00:00.000+00:00
 description: 'Even though a trip to Oregon’s Adventure Coast: Coos Bay, North Bend,
   Charleston might look and feel a little different this year, the safety guidelines
   for Winter Storm Watching are the same.  It’s exciting to get close to the action,
@@ -43,7 +43,7 @@ Even though a trip to Oregon’s Adventure Coast: Coos Bay, North Bend, Charlest
 
 ![](/img/winter-storm-watching-on-oregon-s-adventure-coast-1.png)
 
-\#3 Since there is still a pandemic to contend with, **please be sure to follow Oregon’s** [**Safe+Strong guidelines**](https://govstatus.egov.com/reopening-oregon) **and wear a face covering and stay at least 6 feet away from others.**
+\#3 Since there is still a pandemic to contend with, **please be sure to follow Oregon’s** [**Safe+Strong guidelines** ](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you)**and wear a face covering and stay at least 6 feet away from others.**
 
 ### PACKING LIST
 
@@ -69,4 +69,4 @@ If you are planning to stay overnight, be sure to pack the following to stay saf
 
 If you coming during one of [the King Tides](https://kcby.com/search?find=King%20Tides) (November 15-17, 2020, December 13-15, 2020, and January 11-13. 2021) the [Oregon King Tides Photo Project](https://kcby.com/search?find=Oregon%20King%20Tides%20Photo%20Project) and Oregon Shores CoastWatch invite you to help document the king tides as part of a project on rising ocean levels. You can find tips and suggestions online at [the Oregon King Tides website](https://www.oregonkingtides.net/).
 
-We will post High Surf Warnings on our[ Facebook Page](https://www.facebook.com/OregonsAdventureCoast/), too, so Follow Us! For more travel inspiration, see our [Adventures page](https://www.oregonsadventurecoast.com/adventures) and our [Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast! Or [request a visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform). Please be sure to follow Oregon’s [Safe+Strong guidelines](https://govstatus.egov.com/reopening-oregon) and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). Do not hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
+We will post High Surf Warnings on our[ Facebook Page](https://www.facebook.com/OregonsAdventureCoast/), too, so Follow Us! For more travel inspiration, see our [Adventures page](https://www.oregonsadventurecoast.com/adventures) and our [Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast! Or [request a visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform). Please be sure to follow Oregon’s [Safe+Strong guidelines](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you) and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). Do not hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
