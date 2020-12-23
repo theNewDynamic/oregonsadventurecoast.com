@@ -118,7 +118,7 @@ While these destinations can offer much-needed wellness benefits, it is importan
 
 * Closures or changes to available facilities can happen without notice due to public safety concerns. Have a backup plan in case your destination closes unexpectedly.
 * Find out the COVID-19 Impact on Oregon State Parks. Some parks are open for day-use and camping, with reduced services. Check the [Park Status Map](https://stateparks.oregon.gov/index.cfm?do=visit.status) and [FAQ](https://stateparks.oregon.gov/index.cfm?do=v.feature-article&articleId=272) for details. [Campfire restrictions](https://stateparks.oregon.gov/index.cfm?do=v.feature-article&articleId=285) may be in place due to high fire danger.
-* Face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). To protect our communities, we ask everyone to follow Oregon’s [Safe+Strong guidelines](https://govstatus.egov.com/reopening-oregon).
+* Face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). To protect our communities, we ask everyone to follow Oregon’s [Safe+Strong guidelines.](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you)
 * Stay home if you feel sick or have any flu-like symptoms (obviously).
 * Practice physical distancing. Stick with only members of your group and limit contact with non-household members.
 * Looking for some social distancing options in Coos Bay, North Bend and Charleston? [Here are some great ideas](https://www.oregonsadventurecoast.com/blog/five-fun-ways-to-social-distance-on-oregon-s-adventure-coast/)!
