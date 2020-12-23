@@ -1,6 +1,6 @@
 ---
 title: Unplug & Reconnect With Nature at the South Slough NERR
-date: 2020-10-24T04:00:00+00:00
+date: 2020-10-24T04:00:00.000+00:00
 description: 'South Slough NERR is the ideal destination to find some peace and reconnect
   with nature. Families, hikers, kayakers, wild-life watchers and everyone in between
   all seem to agree that this special destination is perfect for walking along wooded
@@ -44,4 +44,4 @@ Ready to visit? South Slough NERR is located at 61907 Seven Devils Road Charlest
 
 South Slough Estuarine Research Reserve trails and waterways are open. Restrooms are open on weekdays from 8 a.m. to 4 p.m. [Learn more](https://www.oregon.gov/dsl/News/Documents/NewsRelease_SouthSloughReopeningTrailsRestrooms.pdf). The Reserve Visitor Center remains closed until further notice. All South Slough Reserve programs, field trips, events, and meetings have been canceled until further notice. [Learn more.](https://www.oregon.gov/dsl/SS/Documents/SouthSloughVC_closure.pdf)
 
-We look forward to welcoming you back to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. For more travel inspiration, see our [Adventures page](https://www.oregonsadventurecoast.com/adventures) and our [Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast! Or [request a visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform). Please be sure to follow Oregon’s [Safe+Strong guidelines](https://govstatus.egov.com/reopening-oregon) when you visit to keep our community safe and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). Do not hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
+We look forward to welcoming you back to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. For more travel inspiration, see our [Adventures page](https://www.oregonsadventurecoast.com/adventures) and our [Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast! Or [request a visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform). Please be sure to follow Oregon’s [Safe+Strong guidelines ](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you)when you visit to keep our community safe and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). Do not hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.

@@ -43,7 +43,7 @@ But that’s not all. Other holiday events for 2020 include:
 
 **December 4, 2020:** Empire District Virtual Tree Lighting and Santa Parade. See [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194) for more information.
 
-**December 4, 2020:** City of North Bend Christmas Cruise. Visit [www.northbendoregon.us](https://www.northbendoregon.us/ "https://www.northbendoregon.us/") or email [nbinfo@northbendcity.org](mailto:nbinfo@northbendcity.org) for information. Judging for their inaugural [Christmas Spirit Awards](https://www.northbendoregon.us/infocenter/page/inaugural-christmas-spirit-awards) will be December 7th!  
+**December 4, 2020:** City of North Bend Christmas Cruise. Visit [www.northbendoregon.us](https://www.northbendoregon.us/ "https://www.northbendoregon.us/") or email [nbinfo@northbendcity.org](mailto:nbinfo@northbendcity.org) for information. Judging for their inaugural [Christmas Spirit Awards](https://www.northbendoregon.us/infocenter/page/inaugural-christmas-spirit-awards) will be December 7th!
 
 ![](/img/draft-nb-christmas-cruise.png)
 
@@ -99,4 +99,4 @@ While you are here, be sure to check out our locally-owned shops throughout the 
 ![](/img/wear-a-mask-oregon-s-adventure-coast.png)
 
 {{< spacer 25 >}}  
-We look forward to welcoming you back to **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. We ask that you to follow Oregon’s [Safe+Strong guidelines](https://govstatus.egov.com/reopening-oregon) to keep our community safe and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). Please don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
+We look forward to welcoming you back to **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. We ask that you to follow Oregon’s [Safe+Strong guidelines](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you) to keep our community safe and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). Please don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
