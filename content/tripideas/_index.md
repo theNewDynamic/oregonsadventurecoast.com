@@ -26,3 +26,9 @@ To help you get started discovering our exciting and exhilarating adventures, we
 Contact Oregon’s Adventure Coast with any questions you may have about things to do on your vacation!
 
 [![15% OFF Storm Watching Lodging Special](/img/storm-watching-695-banner-2021.jpg)](/storm15)
+
+{{< spacer 30 >}}
+
+{{< youtube "_bluUjFo0Kk" >}}
+
+{{< spacer 50 >}}
