@@ -22,6 +22,12 @@ As Oregon Coast experts, we can assure you that it doesn’t matter how many tim
 
 [![15% Off Storm Watching Lodging Special](/img/storm-watching-695-banner-2021.jpg)](/storm15)
 
+{{< spacer 30 >}}
+
+{{< youtube "_bluUjFo0Kk" >}}
+
+{{< spacer 50 >}}
+
 ![Storm Watching on Oregon's Adventure Coast at Shore Acres State Park](/img/storm-watch-collage-695x322.jpg)
 
 Stormwatching has more to do with the ocean conditions rather than the actual weather conditions.  When conditions in the ocean create large swells, they translate into amazing wave action. A 15 – 20 foot swell will turn into a wave over 100 feet high!
