@@ -1,8 +1,8 @@
 ---
 title: Storm Watching
 aliases:
-  - /featured-adventures/stormwatching
-  - /adventures/stormwatching
+- "/featured-adventures/stormwatching"
+- "/adventures/stormwatching"
 url: "/storm-watching"
 photo: "/img/travelers-information-header.jpg"
 seo:
@@ -19,6 +19,8 @@ seo:
 The Oregon Coast is famous for drama-the good kind!  Fall and winter is the best time to watch dramatic wave crashes reaching up to 300 feet high resulting from winter storms on the Pacific during the months of November through March.
 
 As Oregon Coast experts, we can assure you that it doesn’t matter how many times you have witnessed Mother Nature’s fury over the mighty Pacific, storm watchers have a different experience each and every time.
+
+[![15% Off Storm Watching Lodging Special](/img/storm-watching-695-banner-2021.jpg)](/storm15)
 
 ![Storm Watching on Oregon's Adventure Coast at Shore Acres State Park](/img/storm-watch-collage-695x322.jpg)
 
