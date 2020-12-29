@@ -19,4 +19,4 @@ You can pick accommodations on the Oregon Coast that will suit your needs and pr
 Look through these options and take the next step in planning your trip to the Oregon Coast!  
 **($ = Up to $65; $$ = $66-$99; $$$ = $100+)**
 
-<div style="width:100%"><img src="/img/storm-watching-15-off-special-2021.jpg" alt="15% Off Storm Watching Lodging Special in Coos Bay, North Bend, Charleston" style='height: 100%; width: 100%; object-fit: contain'/></div>
+<a href="/storm15"><div style="width:100%"><img src="/img/storm-watching-15-off-special-2021.jpg" alt="15% Off Storm Watching Lodging Special in Coos Bay, North Bend, Charleston" style='height: 100%; width: 100%; object-fit: contain'/></div></a>
