@@ -13,16 +13,6 @@ slideshow:
   video:
     cover: "/img/storm-watching-spec-mobile-hm-slider.jpg"
     source: "/img/storm-watching-960x540-12-2020.mp4"
-- photo: "/img/ready-set-advenutre-fishing-hm-slider.jpg"
-  photo_mobile: "/img/fishing-ready-set-now-open-mobile.jpg"
-- photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
-- title: Breathtaking Views
-  photo: "/img/shore-acres-slider.jpg"
-  url: "/hiking-walking"
-- title: Spectacular Sights
-  photo: "/img/lighthouse-hm-slider.jpg"
-- photo: "/img/sunset-bay-sunset-hm-slider.jpg"
-  title: Stunning Sunsets
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/hiking-shore-acres-desktop.jpg"
