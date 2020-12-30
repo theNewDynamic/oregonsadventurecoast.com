@@ -10,6 +10,8 @@ slideshow:
   url: "/storm15"
   title: 15% OFF Lodging Special!
   title_mobile: 15% OFF Lodging Special!
+  video:
+    cover: "/img/storm-watching-spec-mobile-hm-slider.jpg"
 - photo: "/img/ready-set-advenutre-fishing-hm-slider.jpg"
   photo_mobile: "/img/fishing-ready-set-now-open-mobile.jpg"
 - photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
