@@ -5,9 +5,11 @@ aliases:
 - "/activities/category/geocaching"
 - "/rob"
 slideshow:
-- photo: "/img/christmas-at-the-coast-lights-tour-hm-02.jpg"
-  photo_mobile: "/img/christmas-at-the-coast-lights-mobile-v02.jpg"
-  url: "/event/christmas-at-the-coast"
+- photo: "/img/best-storm-watching-15-offer-home-slider.jpg"
+  photo_mobile: "/img/storm-watching-spec-mobile-hm-slider.jpg"
+  url: "/storm15"
+  title: 15% OFF Lodging Special!
+  title_mobile: 15% OFF Lodging Special!
 - photo: "/img/ready-set-advenutre-fishing-hm-slider.jpg"
   photo_mobile: "/img/fishing-ready-set-now-open-mobile.jpg"
 - photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
