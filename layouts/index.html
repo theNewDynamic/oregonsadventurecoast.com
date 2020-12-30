@@ -43,18 +43,18 @@
                     {{ with $video.cover }}
                         {{ $cover = . }}
                     {{ end }}
-                    <video 
-                        class="carousel-video" 
-                        width="100%" 
-                        autoplay="true" 
-                        muted 
+                    <video
+                        class="carousel-video"
+                        width="100%"
+                        autoplay="true"
+                        muted
                         loop
                         {{ with $cover }}
                             poster="{{ . }}"
                         {{ end }}
                     >
                         <source src="{{ . | relURL }}" type="video/mp4">
-    
+
                         <!--[if gt IE 6]>
                             <object width="100%" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B"><!
                         [endif]-->
@@ -137,19 +137,10 @@
 </div>
 
 <div class="m-home-splash">
-    <a href="adventures">
-        <img src="/layout-images/breathtaking-shore-acres.jpg" alt="Breathtaking View at Shore Acres State Park">
+    <a href="storm-watching">
+        <img src="/layout-images/stormwatching-masonryheader.jpg" alt="The best storm watching on the Oregon coast">
     </a>
 </div>
-{{/* Temporary banner */}}
-{{ with "https://craterlakecountry.com/coos-bay/" }}
-    <div class="m-home-splash">
-        <a class="m-home-banner" target="_blank" href="{{ . }}">
-            <img src="/layout-images/win-500-cash.png" alt="Win $500 Cash">
-        </a>
-    </div>
-{{ end }}
-
 
 <div class="m-home-grid clearfix">
     <div class="home-grid-left">
@@ -159,15 +150,15 @@
 
 
             <form action="https://oregonsadventurecoast.us17.list-manage.com/subscribe/post?u=23d20aa9dd6b1cc84d8ba12c6&amp;id=2e9c9509c9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                
+
                 <input type="email" value="" name="EMAIL" class="text" id="mce-EMAIL" placeholder="Enter Email Address">
                 <input type="submit" value="&nbsp;" name="subscribe" id="mc-embedded-subscribe" class="btn">
 
                 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_23d20aa9dd6b1cc84d8ba12c6_2e9c9509c9" tabindex="-1" value=""></div>
             </form>
-            
+
         </div>
-    
+
         <a href="{{ .Params.masonry1.url }}">
             <div class="item -tiny" style="background-image: url({{ .Params.masonry1.desktopphoto }});">
                 <div class="description">
