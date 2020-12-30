@@ -57,7 +57,7 @@ Coos Bay, OR 97420
 
 ![](/img/Mill-hotelfront-cement-fixed.jpg)
 
-**Mill Casino • Hotel & RV Park**<br> 3201 Tremont Avenue  
+**The Mill Casino • Hotel & RV Park**<br> 3201 Tremont Avenue  
 North Bend, OR 97459  
 541-756-8800 | 800-953-4800
 
@@ -96,7 +96,7 @@ Coos Bay, OR 97420
 
 ![](/img/Mill-RV-overhead-1944.jpg)
 
-**Mill Casino ● Hotel & RV Park**<br> 3201 Tremont Avenue  
+**The Mill Casino ● Hotel & RV Park**<br> 3201 Tremont Avenue  
 North Bend, OR 97459  
 541-756-8800 | 800-953-4800
 
