@@ -6,12 +6,12 @@ aliases:
 - "/rob"
 slideshow:
 - photo: "/img/best-storm-watching-15-offer-home-slider.jpg"
-  photo_mobile: "/img/storm-watching-spec-mobile-hm-slider.jpg"
+  photo_mobile: "/img/storm-watching-special-mobile-hm-slider.jpg"
   url: "/storm15"
-  title: 15% OFF Lodging Special!
-  title_mobile: 15% OFF Lodging Special!
+  title: Oregon Best Storm Watching!
+  title_mobile: ''
   video:
-    cover: "/img/storm-watching-spec-mobile-hm-slider.jpg"
+    cover: "/img/storm-watching-special-mobile-hm-slider.jpg"
     source: "/img/storm-watching-960x540-12-2020.mp4"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
