@@ -55,6 +55,7 @@ fields:
       max: 
   label: Product
 pages:
+- content/products/2020-custom-myrtlewood-christmas-ornament.md
 - content/products/black-crab-t-shirt.md
 - content/products/branded-crab-measure-tool.md
 - content/products/custom-crab-face-mask.md
