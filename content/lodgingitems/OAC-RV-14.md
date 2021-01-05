@@ -11,12 +11,12 @@ address:
   zip: '97420'
 phone_toll_free: 888-717-7384
 phone_local: ''
-units: '71'
+units: 71
 cost: 1 - $
 property_description: Unwind in unique vintage trailers, cottages, tents, or your
   own RV. Enjoy the Oregon Coast with a variety of on-site amenities including a convenient
   crab shack and free WiFi. Use of crab traps & clam digging equipment. Beach access
-  & general store.
+  & general store. <b><a href="/storm15">Enjoy 15% OFF Storm Watching Lodging Special!</a></b>
 website: http://www.oceansidervresort.com
 amenityList:
 - 1 - Restaurant/Bar/Rm Service

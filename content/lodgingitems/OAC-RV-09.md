@@ -17,7 +17,7 @@ cost: 1 - $
 property_description: On the waterfront in Coos Bay. 30/50 amps, city water, RV supplies.
   Centrally located near shops & dining. Full Hookups, Recreation Area, Security,
   Dump Station, Handicap Accessible, Pets OK, WiFi available, Public Restrooms, Showers,
-  Cable, Laundry.
+  Cable, Laundry. <b><a href="/storm15">Enjoy 15% OFF Storm Watching Lodging Special!</a></b>
 website: https://luckyloggersrvpark.com
 amenityList:
 - amenitySelect: 5

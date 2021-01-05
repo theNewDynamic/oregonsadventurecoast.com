@@ -11,12 +11,13 @@ address:
   zip: '97420'
 phone_toll_free: 800-228-8655
 phone_local: 541-269-5111
-units: '83'
+units: 83
 cost: 3 - $$$
 property_description: Best Western Holiday Hotel offers a retreat for exploring the
   Oregon Coast, dunes, lighthouse, beaches, historic sites, and annual festivals &
   events. Located across the street from the Bay, within easy walking distance to
-  downtown shopping & dining.
+  downtown shopping & dining. <b><a href="/storm15">Enjoy 15% OFF Storm Watching Lodging
+  Special!</a></b>
 website: http://www.bestwestern.com
 amenityList:
 - 2 - Continental or Full Bkfst
