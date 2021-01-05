@@ -1,5 +1,5 @@
 ---
-title: Black Hat - Oregon's Adventure Coast
+title: Black Embroidered Hat
 image: "/img/black-hat.png"
 hover_image: "/img/black-hat.png"
 product:
