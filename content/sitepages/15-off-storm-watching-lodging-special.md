@@ -15,11 +15,9 @@ boxes: []
 ---
 ![](/img/storm-15-off-695x322-final.jpg)
 
-Spend this winter in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the Lodging Properties found at the bottom of this page, and receive a 15% discount through March, 2021.
+Spend this winter in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the Lodging Properties found at the bottom of this page, and receive a 15% discount through March 31, 2021. _Some restrictions apply and subject to change._
 
-**_Discount valid January 1, 2021 through March 31, 2021. Some restrictions apply and subject to change._**
-
-[For more information, check out our main Storm Watching page!](/storm-watching "Storm Watching on Oregon's Adventure Coast")
+**For more information, check out our main Storm Watching page.** [**Learn More About Storm Watching**](/storm-watching)
 
 {{< spacer 30 >}}
 
