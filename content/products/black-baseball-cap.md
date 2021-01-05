@@ -1,5 +1,5 @@
 ---
-title: Black Embroidered Hat
+title: Black Embroidered Baseball Cap
 image: "/img/black-hat.png"
 hover_image: "/img/black-hat.png"
 product:
