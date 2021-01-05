@@ -19,7 +19,7 @@ tags:
 old_categories: []
 seo:
   title: ''
-  description: ''
+  description: Pet friendly travel to Oregon's Adventure Coast
   imgalt: ''
   image: ''
 aliases: []
