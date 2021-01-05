@@ -1,10 +1,12 @@
 ---
 product:
-  price: 9.99
-  weight: 200
-  description: Great sticker!
+  price: 2.5
+  weight: 30
+  description: 4-1/4” x 2-3/4” custom die cut sticker. Thick, durable vinyl  with
+    a scuff resistant laminate which will protect your stickers from scratches, water
+    & sunlight. They are weatherproof and even dishwasher safe!
   custom_fields: []
-title: Sticker Dark
-image: "/img/sticker_dark.png"
+title: Sticker - Crab Oregon's Adventure Coast
+image: "/img/placeholder-image.jpg"
 
 ---
