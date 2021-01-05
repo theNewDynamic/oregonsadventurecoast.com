@@ -20,6 +20,12 @@ The Oregon Coast is famous for drama-the good kind!  Fall and winter is the best
 
 As Oregon Coast experts, we can assure you that it doesn’t matter how many times you have witnessed Mother Nature’s fury over the mighty Pacific, storm watchers have a different experience each and every time.
 
+## 2021 Storm Watching Season Lodging Special
+
+A select group of properties are offering a **15% discount for Storm Watchers**, through the end of March, 2021. Check out this exciting offer, and make plans to visit us so you can witness the power of winter storms as they pound against our rugged coastline.
+
+{{< spacer 30 >}}
+
 [![15% Off Storm Watching Lodging Special](/img/storm-watching-695-banner-2021.jpg)](/storm15)
 
 {{< spacer 30 >}}
