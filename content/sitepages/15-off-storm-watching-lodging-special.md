@@ -19,6 +19,8 @@ Spend this winter in a destination that offers Space to Spread Out and Adventure
 
 **_Discount valid January 1, 2021 through March 31, 2021. Some restrictions apply and subject to change._**
 
+[For more information, check out our main Storm Watching page!](/storm-watching "Storm Watching on Oregon's Adventure Coast")
+
 {{< spacer 30 >}}
 
 {{< youtube "_bluUjFo0Kk" >}}
