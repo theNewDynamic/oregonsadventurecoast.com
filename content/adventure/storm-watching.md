@@ -12,7 +12,7 @@ seo:
   title: 'Oregon Coast Things to Do - Storm Watching | Oregon''s Adventure Coast '
 
 ---
-![Best Storm Watching on the Oregon Coast, Shore Acres State Park](/img/storm-watching-logo-695-x-322.jpg)
+[![](/img/storm-watching-special-695x322.jpg)](/storm15)
 
 ## THE MAJESTY OF MOTHER NATURE
 
