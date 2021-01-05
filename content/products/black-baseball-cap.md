@@ -1,8 +1,13 @@
 ---
-title: Black Baseball Cap
-image: /img/black-hat.png
-hover_image: /img/black-hat.png
+title: Black Hat - Oregon's Adventure Coast
+image: "/img/black-hat.png"
+hover_image: "/img/black-hat.png"
 product:
-  description: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Donec ullamcorper nulla non metus auctor fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-  price: 20.00
+  description: This is a heavyweight, 100% brushed-cotton cap, featuring a pre-curved
+    visor with contrasting, white trim. Hand-sewn detail on the eyelets and button
+    matches the visor trim color. Durable six-panel construction and adjustable self-material
+    strap with hook-and-loop closure. Two color embroidering on the front of the hat.
+  price: 18
+  weight: 145
+
 ---
