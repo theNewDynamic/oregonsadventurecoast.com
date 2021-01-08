@@ -16,6 +16,12 @@ fields:
   type: field_group
   config: {}
   fields:
+  - name: id
+    type: text
+    config:
+      required: false
+    label: ID
+    description: Will be used as product ID in the store back office.
   - name: price
     type: number
     label: Price
