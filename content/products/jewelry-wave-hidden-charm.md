@@ -1,7 +1,7 @@
 ---
 product:
   price: 2.0
-  weight: 50
+  weight: 1.76
   description: Jewelry - Wave (Hidden) Charm
   custom_fields: []
 title: Jewelry - Wave (Hidden) Charm

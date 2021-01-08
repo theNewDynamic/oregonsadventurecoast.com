@@ -8,6 +8,6 @@ product:
     matches the visor trim color. Durable six-panel construction and adjustable self-material
     strap with hook-and-loop closure. Two color embroidering on the front of the hat.
   price: 18
-  weight: 145
+  weight: 5.1
 
 ---

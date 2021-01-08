@@ -1,5 +1,7 @@
 github.com/theNewDynamic/hugo-module-tnd-seo v0.1.5 h1:0ZmdfWV5+mFqplCYyUsGyjPOTSNyxjXYsUmoa+H7ftc=
 github.com/theNewDynamic/hugo-module-tnd-seo v0.1.5/go.mod h1:VY3Qvzif9T0Z0rjR85ufUQE1wrS/M5VZC9Dx1V8Vo8Y=
 github.com/theNewDynamic/hugo-module-tnd-snipcart v0.0.0-20201117213902-398d60d45642/go.mod h1:vs0svRvGf1ZZEL2S9hTQt/bAwkEAURGFk0hDMsg54A0=
+github.com/theNewDynamic/hugo-module-tnd-snipcart v0.0.0-20210108153238-b64a5aee28af h1:v3dwQjPvkxH28+xky3OqZJYhRHzAiu07PbBl90vMfak=
+github.com/theNewDynamic/hugo-module-tnd-snipcart v0.0.0-20210108153238-b64a5aee28af/go.mod h1:vs0svRvGf1ZZEL2S9hTQt/bAwkEAURGFk0hDMsg54A0=
 github.com/theNewDynamic/hugo-module-tnd-tags v0.0.0-20201111152026-a098d4a6d93e h1:IUPTrbo5IXe5+xeQiM8ivj8vZUaFhU3shwUx7gj7X24=
 github.com/theNewDynamic/hugo-module-tnd-tags v0.0.0-20201111152026-a098d4a6d93e/go.mod h1:fuXjv9Nbt2hi6oaOVAqhPRrS4hL9uYcwroo6V/Mw7Uk=

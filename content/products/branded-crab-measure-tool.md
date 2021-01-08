@@ -1,7 +1,7 @@
 ---
 product:
   price: 3.5
-  weight: 50
+  weight: 1.76
   description: |-
     Our branded plastic crab measure gauge is an essential part of any fishing equipment to check the scale of your catch before taking it with you.
     The gauge will help measure the size of crab caught during expeditions in a matter of seconds. It handles measurement of a crab measurement of 2 ¾”.
