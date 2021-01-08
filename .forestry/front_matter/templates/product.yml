@@ -35,7 +35,7 @@ fields:
   - name: weight
     type: number
     label: Weight
-    description: The weight of the product in grams
+    description: The weight of the product in ounces
     default: 0
     required: true
     config:
