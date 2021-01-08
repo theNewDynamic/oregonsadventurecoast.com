@@ -9,7 +9,7 @@ photo: "/img/meeting-planners.jpg"
 
 Here in the Coos Bay, North Bend, Charleston Area we love Sports. Maybe its because of our ties with legendary track athlete [Steve Prefontaine](/steve-prefontaine-story/), maybe its the small town atmosphere and local support, or maybe its just that we appreciate sportsmanship and competition. We’re home to many first class events including the Prefontaine Memorial Run, OSAA’s 3A Basketball Tournament, Track & Field Master’s Invitational and hopefully your next event.
 
-Let us know what we can do to help. Our facilities, our lodging properties and our community want you here! E-mail us today at [mailto:info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com). And take a look at the [Oregon Sports Planning Guide: Coos Bay/North Bend](https://sportsplanningguide.com/sand-seafood-and-surf-the-escapades-are-boundless-on-oregons-adventure-coast/) for more information on all facilities. 
+Let us know what we can do to help. Our facilities, our lodging properties and our community want you here! E-mail us today at [mailto:info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com). And take a look at the [Oregon Sports Planning Guide: Coos Bay/North Bend](https://sportsplanningguide.com/sand-seafood-and-surf-the-escapades-are-boundless-on-oregons-adventure-coast/) for more information on all facilities.
 
 * **Community Baseball & Soccer Fields**
 * **Marshfield High School –** Basketball, Baseball, Dance & Exercise, Soccer, Track & Field, Volleyball, Wrestling.
@@ -17,49 +17,6 @@ Let us know what we can do to help. Our facilities, our lodging properties and o
 * **Southwestern Oregon Boys & Girls Club –** Dance & Exercise, Gymnastics, Tennis
 * **Southwestern Oregon Community College Facilities –** Basketball, Baseball, Dance & Exercise, Racquetball, Rock Climbing, Rugby, Soccer, Track & Field, Volleyball, Wrestling,
 * **Swimming Pools**
-
-{{< spacer 50 >}}
-
-![City of North Bend Municipal Swimming Pool](/img/nbswimmingpool-695x322.jpg)
-
-## CITY OF NORTH BEND MUNICIPAL SWIMMING POOL
-
-North Bend Municipal Swimming Pool hosts many swim competitions throughout the year and uses state of the art equipment.
-
-2455 Pacific Avenue\\
-
-North Bend, OR 97459  
-{{< link url="http://www.northbendcity.org" >}}
-
-\**
-Contact:** KayLee Kocher  
-\[kkocher@northbendcity.org\](<mailto: kkocher@northbendcity.org>) | (
-541) 756-4915
-
-Sports appropriate to venue: Competitive Swimming, Recreational Swimming, Water Exercise
-Built in 1957, extensive remodeling 2005-2010
-“U” shaped pool with a graduated depth of 2.50 ft at its shallowest and 12 feet at it’s deepest. It has six 7ft x 25 yard lanes for competitive swimming and six 7ft x 25 meter for lap swimming. The concrete deck around the pool has ample space and limited weight equipment available for use.
-Additional amenties: slide, rope swing, inflatables, and toys that are available during recreational swims. Float belts, kick boards, swim fins, etc. are available for water exercise and/or lap swimming.
-
-An off deck room is available at reasonable rates for Birthday Parties, Pizza Parties, Meetings, etc.
-
-The water temperature is maintained at a constant 84 degrees and all swims are staffed with a lifeguard(s) for comfort and safety.
-
-* **Seating Capacity for Fans:** 150 – 200
-
-***
-
-Parking Capacity:** 100 spaces
-
-* **Locker Rooms on Site:** Yes with 2 additional family changing rooms.
-
-***
-
-Public Restrooms:** Yes
-
-***
-
-Additional Offerings:** Swimming lessons for all ages, competitive swim teams-South Coast Aquatic Team and North Bend High School, Lifeguard Training, and Water Aerobic Classes.
 
 {{< spacer 50 >}}
 
