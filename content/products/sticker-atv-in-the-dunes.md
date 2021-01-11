@@ -8,5 +8,6 @@ product:
     & sunlight. They are weatherproof and even dishwasher safe!
   price: 2.5
   weight: 1
+  id: ST-9550
 
 ---
