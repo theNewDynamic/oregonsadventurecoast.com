@@ -18,8 +18,8 @@
                 {{ .Params.address.street1 }}<br>
                 {{ .Params.address.street2 }}<br>
                 {{ .Params.address.city }}, {{ .Params.address.state }} {{ .Params.address.zip }}<br>
-                <a href="tel:{{ .Params.phone_local }}">{{ .Params.phone_local }}</a> |
-                <a href="tel:{{ .Params.phone_toll_free }}">{{ .Params.phone_toll_free }}</a>
+                {{ .Params.phone_local }} |
+                {{ .Params.phone_toll_free }}
             </p>
         </div>
 
