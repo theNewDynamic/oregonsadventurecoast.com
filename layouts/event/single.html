@@ -13,8 +13,8 @@
         </div>
 
         <div class="phone">
-            <a href="tel:{{ .Params.phone_local }}">{{ .Params.phone_local }}</a><br>
-            <a href="tel:{{ .Params.phone_local }}"></a>{{ .Params.phone_toll_free }}</a>
+            {{ .Params.phone_local }}<br>
+            {{ .Params.phone_toll_free }}
         </div>
 
         {{ with .Params.website }}
