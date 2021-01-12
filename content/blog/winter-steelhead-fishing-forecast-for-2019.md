@@ -1,5 +1,5 @@
 ---
-title: Oregon Coast Winter Steelhead Fishing Tips for 2021
+title: 'Your Guide to Winter Steelhead Fishing Tips on Oregon''s Adventure Coast '
 date: 2021-01-07T05:00:00+00:00
 description: 'Winter steelhead fishing is one of our most popular outdoor recreational
   activities here on Oregon''s Adventure Coast: Coos Bay, North Bend and Charleston
@@ -19,7 +19,7 @@ categories:
 ---
 _Winter steelhead fishing is one of our most popular outdoor recreational activities here on Oregon's Adventure Coast: Coos Bay, North Bend and Charleston during the winter months. Local fishing expert, Gary Vonderohe from the Oregon Department of Fish & Wildlife, shares some tips to help anglers get the most out of their winter steelhead fishing trip._
 
-More rain in the forecast means that winter steelhead have begun moving into the Coos and Coquille basins. Here's what anglers need to know for the 2021 season:
+More rain in the forecast means that winter steelhead have begun moving into the Coos and Coquille basins. Here's what anglers need to know this season:
 
 **Coos and Millicoma rivers.**
 
@@ -54,20 +54,18 @@ The West Fork Millicoma and North Fork Coquille rivers are the first rivers in t
 
 **Three adult fish per day.** From December 1 through April 30 each season, steelhead anglers in the Coos and Coquille basins are able to keep an additional fin-clipped steelhead per day for a total aggregate of 3 adult fish harvested per day.
 
-Tips from [Winter Steelhead Fishing in Oregon’s Umpqua, Coos and Coquille Rivers](https://www.bestfishinginamerica.com/OR-winter-steelhead-umpqua-coos.html)"
-
-> "On the South Coos, most marked steelhead will be caught in the first five river miles above tidewater (tide heads near the log yard), because hatchery smolts are acclimated to the river near the Fivemile Hole at Milepost 5 on South Coos River Road.
->
-> Above Milepost 6 on the South Coos, most steelhead will have intact adipose fins and must be released, but there is some good primarily catch-and-release angling upstream, with much smaller crowds.
->
-> The Millicoma River joins with the South Coos River just east of the bay, and it further divides into two main forks at Allegany. Both forks can have fair to very good winter fishing for steelhead. The West Fork Millicoma tends to have the higher catches of the two forks. The West Fork can be particularly good from public access at the Oregon Department of Forestry’s Millicoma Interpretive Center about nine miles up from Allegany."
-
 To learn more, be sure to check with the [Oregon Department of Fish & Wildlife](https://www.dfw.state.or.us/resources/fishing/) for the most up-to-date recreation report and visit [Oregon’s Adventure Coast](https://oregonsadventurecoast.com/equipment-rent-and-buy) for a list of local bait and tackle shops. Visit our website to learn about more [fresh water fishing options](https://oregonsadventurecoast.com/tripideas/fresh-water-fishing-options--by-body-of-water) in Coos Bay.
 
-You can also learn more by reading the following posts:
+You can also learn more by reading the following resources:
+
+[Fishing on Oregon's Adventure Coast: Coos Bay, North Bend, Charleston ](https://www.oregonsadventurecoast.com/fishing/)
+
+[Oregon's Advenuture Coast Fishing Guidelines ](https://www.oregonsadventurecoast.com/img/rackcard-fishing-03-18.pdf)
 
 [Winter Steelhead Fishing Trip Idea](https://www.oregonsadventurecoast.com/tripideas/winter-steelhead-fishing-trip-idea/)
 
 [Fishing Southwest Zone](https://myodfw.com/fishing/southwest-zone)
 
 [Winter Fun On Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/tripideas/winter-fun-in-oregons-adventure-coast/)
+
+[Winter Steelhead Fishing in Oregon’s Umpqua, Coos and Coquille Rivers](https://www.bestfishinginamerica.com/OR-winter-steelhead-umpqua-coos.html)
