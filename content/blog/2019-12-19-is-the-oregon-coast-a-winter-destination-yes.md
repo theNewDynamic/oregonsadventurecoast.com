@@ -14,7 +14,7 @@ tags:
 old_categories:
 - Miscellaneous
 image: "/img/winter-storm-watch-oregon-coast-blog-695x322-jpg.png"
-warning: true
+warning: false
 categories:
 - Oregon's Adventure Coast News & Info
 
