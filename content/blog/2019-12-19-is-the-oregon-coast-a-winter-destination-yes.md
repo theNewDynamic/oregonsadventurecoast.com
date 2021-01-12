@@ -47,6 +47,8 @@ Travelers can find some ideas and inspiration for their "winter-cation" in our T
 * [**Try your luck in one of our casinos**](https://www.oregonsadventurecoast.com/blog/try-your-luck-on-oregon-s-adventure-coast/)**.** Did you know that our little corner of the Pacific Northwest is home to two of the area’s best casinos? Whether its slots, cards, or games, you’re sure to find round-the-clock adventure, fun, and (fingers crossed) millions right here. Our two casinos are located within a ten-minute drive of each other, so play your cards right and visit both. [Learn more.](https://www.oregonsadventurecoast.com/blog/try-your-luck-on-oregon-s-adventure-coast)
 * [**Visit the Oregon Dunes**](https://www.oregonsadventurecoast.com/blog/best-ways-to-experience-the-oregon-dunes/)**.** The Oregon Dunes National Recreation Area is the largest expanse of coastal sand dunes in North America and it is like no place on earth. With more than 32,186 acres of dunes, forest, streams and lakes, there are plenty of opportunities for an amazing winter adventure.
 
+![](/img/winter-oregons-adventure-coast-blog-695x322-jpg.png)
+
 Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.
 
 Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.
