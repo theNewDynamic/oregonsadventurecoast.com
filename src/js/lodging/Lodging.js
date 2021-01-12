@@ -61,7 +61,7 @@ export default class Lodging {
                     <p class="address">
                         ${street}
                         ${val.city}, ${val.state} ${val.zip}<br>
-                        <a href="tel:${val.phone_local}">${val.phone_local}</a> ${phoneDiv} ${val.phone_toll_free ? '<a href="tel:' + val.phone_toll_free + '">' + val.phone_toll_free + '</a>' : ''}
+                        ${val.phone_local ? '<a href="tel:' + val.phone_local + '">' + val.phone_local + '</a>' : ''} ${phoneDiv} ${val.phone_toll_free ? '<a href="tel:' + val.phone_toll_free + '">' + val.phone_toll_free + '</a>' : ''}
                     </p>
                 </div>
 
