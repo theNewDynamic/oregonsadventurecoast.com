@@ -8,7 +8,7 @@ slideshow:
 - photo: "/img/best-storm-watching-15-offer-home-slider.jpg"
   photo_mobile: "/img/storm-watching-special-mobile-hm-slider.jpg"
   url: "/storm15"
-  title: Oregon's Best Storm Watching!
+  title: ''
   title_mobile: ''
   video:
     cover: "/img/storm-watching-special-mobile-hm-slider.jpg"
