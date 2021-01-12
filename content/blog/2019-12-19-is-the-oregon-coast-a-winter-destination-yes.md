@@ -17,7 +17,6 @@ image: "/img/winter-storm-watch-oregon-coast-blog-695x322-jpg.png"
 warning: true
 categories:
 - Oregon's Adventure Coast News & Info
-draft: true
 
 ---
 ## 
@@ -49,10 +48,12 @@ Travelers can find some ideas and inspiration for their "winter-cation" in our T
 
 ![](/img/winter-oregons-adventure-coast-blog-695x322-jpg.png)
 
+We will post High Surf Warnings on our[ Facebook Page](https://www.facebook.com/OregonsAdventureCoast/), so be sure to follow us. For more travel inspiration, see our [Adventures page](https://www.oregonsadventurecoast.com/adventures) and our [Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast! Or [request a visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform). Do not hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
+
 Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.
 
 Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.
 
 If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.
 
-Please visit [https://ecs.page.link/xhV4h](https://ecs.page.link/xhV4h "https://ecs.page.link/xhV4h") for more information.
+[Click here]( https://ecs.page.link/xhV4h ) for more information.
