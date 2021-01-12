@@ -19,9 +19,9 @@ categories:
 - Oregon's Adventure Coast News & Info
 
 ---
-## Take Advantage of the [Storm Watching Lodging Special](https://www.oregonsadventurecoast.com/storm15/) and save 15% on Lodging at Participating Properties Until March 31,2021!
+#### Take Advantage of the [Storm Watching Lodging Special](https://www.oregonsadventurecoast.com/storm15/) and save 15% on Lodging at Participating Properties Until March 31,2021!
 
-#### Winter on Oregon's Adventure Coast is sometimes warm, sometimes wet, but always wild & wonderful.
+_Winter on Oregon's Adventure Coast is sometimes warm, sometimes wet, but always wild & wonderful._
 
 "At first blush, a winter trip to the Oregon coast might not seem as alluring as a summer vacation but to ignore our scenic shoreline in the winter is to miss out on a huge part of what makes it so special in the first place." -From [_30 reasons to love the Oregon coast in the winter_](https://www.oregonlive.com/travel/2018/02/30_reasons_to_love_the_oregon.html)
 
