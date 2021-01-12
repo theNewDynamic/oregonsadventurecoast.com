@@ -13,8 +13,8 @@
         </div>
 
         <div class="phone">
-            {{ .Params.phone_local }}<br>
-            {{ .Params.phone_toll_free }}
+            <a href="tel:{{ .Params.phone_local }}">{{ .Params.phone_local }}</a><br>
+            <a href="tel:{{ .Params.phone_local }}"></a>{{ .Params.phone_toll_free }}</a>
         </div>
 
         {{ with .Params.website }}
@@ -43,14 +43,14 @@
                     {{ .Params.phone_local }} &bull;
                     {{ .Params.phone_toll_free }}
                 </div>
-        
+
                 {{ with .Params.website }}
                 <div class="website">
                     <a href="{{ . }}" target="_blank">Event Website</a>
                 </div>
                 {{ end }}
             </div>
-            
+
         </div>
 
         <div class="inner m-standard-content">
@@ -79,14 +79,14 @@
                     {{ .Params.phone_local }} &bull;
                     {{ .Params.phone_toll_free }}
                 </div>
-        
+
                 {{ with .Params.website }}
                 <div class="website">
                     <a href="{{ . }}" target="_blank">Event Website</a>
                 </div>
                 {{ end }}
             </div>
-            
+
         </div>
     </div>
 </div>

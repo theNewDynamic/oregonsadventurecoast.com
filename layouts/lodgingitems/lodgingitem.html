@@ -18,13 +18,13 @@
                 {{ .Params.address.street1 }}<br>
                 {{ .Params.address.street2 }}<br>
                 {{ .Params.address.city }}, {{ .Params.address.state }} {{ .Params.address.zip }}<br>
-                {{ .Params.phone_local }} | 
-                {{ .Params.phone_toll_free }}
+                <a href="tel:{{ .Params.phone_local }}">{{ .Params.phone_local }}</a> |
+                <a href="tel:{{ .Params.phone_toll_free }}">{{ .Params.phone_toll_free }}</a>
             </p>
         </div>
 
         <div class="description">
-            <strong> 
+            <strong>
             {{ partial "lodging/units.html" .Params.units }}
             {{ with .Params.cost }}
                 {{ with partial "func/GetLodgingCost" . }}
