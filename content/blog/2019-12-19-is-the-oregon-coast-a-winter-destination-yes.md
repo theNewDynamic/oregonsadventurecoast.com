@@ -20,6 +20,10 @@ categories:
 draft: true
 
 ---
+## 
+
+{{< youtube "PUT VIDEO ID HERE" >}}
+
 ## Take Advantage of the [Storm Watching Lodging Special](https://www.oregonsadventurecoast.com/storm15/) and save 15% on Lodging at Participating Properties Until March 31,2021!
 
 #### Winter on Oregon's Adventure Coast is sometimes warm, sometimes wet, but always wild & wonderful.
@@ -32,18 +36,14 @@ Despite what you may hear about cold and rainy Oregon winters, it’s not uncomm
 
 [Travel Oregon’s Emily Forsha](http://traveloregon.com/author/eforsha/) says winter is her favorite season on the Oregon Coast. “You might find yourself cozying up by a fireplace, watching angry waves crash during a spectacular storm; or you may find yourself on an uncrowded beach on a clear, sunny day that ends with a sunset over a beach bonfire,” she writes in her post, [_The Oregon Coast, A Winter Odyssey_](http://traveloregon.com/trip-ideas/oregon-stories/the-oregon-coast-a-winter-odyssey/%20).
 
+{{< youtube "vEcmD88vgtA" >}}
+
 Travelers can find some ideas and inspiration for their "winter-cation" in our Trip Ideas section, [Winter Fun On Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/tripideas/winter-fun-in-oregons-adventure-coast/). A few of the featured activities this winter include
 
 * **Go** [**Crabbing**](/crabbing-clamming) **and** [**Clamming**](/clamming)**.** January is a perfect time to go crabbing on the Southern Oregon Coast, whether you like to catch them yourself or just eat them. Any crabber will tell you the general rule of thumb if you wanna go crabbing is do it in a month with an ‘r’ (January, February, March, etc). [Click here](https://myodfw.com/articles/how-crab) to read some important crabbing tips from the Oregon Department of Fish and Wildlife.
-* **Go** [**Winter Storm Watching**](https://www.oregonsadventurecoast.com/blog/winter-storm-watching-is-awe-inspiring-on-oregon-s-adventure-coast/)**.** [The Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/) will take you to beaches and state parks where you can take in the breathtaking vantage points and see the famous seals and sea lions on the Oregon Coast. Be sure to [read this post ](https://www.oregonsadventurecoast.com/blog/how-to-stay-safe-while-winter-storm-watching/)on how to safely view and photograph the amazing show the Pacific ocean puts on thoughtout the winter months. 
-
-
-* [**FInd the best chowder on the Oregon Coast**](https://www.oregonsadventurecoast.com/blog/who-has-the-best-clam-chowder-on-oregon-s-adventure-coast/)**.** There is nothing like capping off a day spent social distancing in the great outdoors with a hot, delicious bowl of savory Oregon Clam Chowder, and our local restaurants serve the BEST! 
-
-
-* [**Unplug & Reconnect With Nature at the South Slough NERR**](https://www.oregonsadventurecoast.com/blog/unplug-reconnect-with-nature-at-the-south-slough-nerr/)**.** There is plenty of space to spread out and safety explore miles of beautiful hiking trails and waterways. 
-
-
+* **Go** [**Winter Storm Watching**](https://www.oregonsadventurecoast.com/blog/winter-storm-watching-is-awe-inspiring-on-oregon-s-adventure-coast/)**.** [The Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/) will take you to beaches and state parks where you can take in the breathtaking vantage points and see the famous seals and sea lions on the Oregon Coast. Be sure to [read this post ](https://www.oregonsadventurecoast.com/blog/how-to-stay-safe-while-winter-storm-watching/)on how to safely view and photograph the amazing show the Pacific ocean puts on throughout the winter months.
+* [**FInd the best chowder on the Oregon Coast**](https://www.oregonsadventurecoast.com/blog/who-has-the-best-clam-chowder-on-oregon-s-adventure-coast/)**.** There is nothing like capping off a day spent social distancing in the great outdoors with a hot, delicious bowl of savory Oregon Clam Chowder, and our local restaurants serve the BEST!
+* [**Unplug & Reconnect With Nature at the South Slough NERR**](https://www.oregonsadventurecoast.com/blog/unplug-reconnect-with-nature-at-the-south-slough-nerr/)**.** There is plenty of space to spread out and safety explore miles of beautiful hiking trails and waterways.
 * [**Try your luck in one of our casinos**](https://www.oregonsadventurecoast.com/blog/try-your-luck-on-oregon-s-adventure-coast/)**.** Did you know that our little corner of the Pacific Northwest is home to two of the area’s best casinos? Whether its slots, cards, or games, you’re sure to find round-the-clock adventure, fun, and (fingers crossed) millions right here. Our two casinos are located within a ten-minute drive of each other, so play your cards right and visit both. [Learn more.](https://www.oregonsadventurecoast.com/blog/try-your-luck-on-oregon-s-adventure-coast)
 * [**Visit the Oregon Dunes**](https://www.oregonsadventurecoast.com/blog/best-ways-to-experience-the-oregon-dunes/)**.** The Oregon Dunes National Recreation Area is the largest expanse of coastal sand dunes in North America and it is like no place on earth. With more than 32,186 acres of dunes, forest, streams and lakes, there are plenty of opportunities for an amazing winter adventure.
 
