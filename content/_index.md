@@ -12,7 +12,7 @@ slideshow:
   title_mobile: ''
   video:
     cover: "/img/storm-watching-special-mobile-hm-slider.jpg"
-    source: "/img/storm-watching-960x540-12-2020.mp4"
+    source: "/img/waves-web-slidertext2.mp4"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/hiking-shore-acres-desktop.jpg"
