@@ -19,10 +19,6 @@ categories:
 - Oregon's Adventure Coast News & Info
 
 ---
-## 
-
-{{< youtube "PUT VIDEO ID HERE" >}}
-
 ## Take Advantage of the [Storm Watching Lodging Special](https://www.oregonsadventurecoast.com/storm15/) and save 15% on Lodging at Participating Properties Until March 31,2021!
 
 #### Winter on Oregon's Adventure Coast is sometimes warm, sometimes wet, but always wild & wonderful.
@@ -56,4 +52,4 @@ Face coverings are mandatory for all when inside a public space AND outdoors whe
 
 If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.
 
-[Click here]( https://ecs.page.link/xhV4h ) for more information.
+[Click here](https://ecs.page.link/xhV4h ) for more information.

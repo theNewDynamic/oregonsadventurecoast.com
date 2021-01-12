@@ -5,7 +5,7 @@ aliases:
 - "/activities/category/geocaching"
 - "/rob"
 slideshow:
-- photo: "/img/best-storm-watching-15-offer-home-slider.jpg"
+- photo: "/img/wave-crash-for-video.jpg"
   photo_mobile: "/img/storm-watching-special-mobile-hm-slider.jpg"
   url: "/storm15"
   title: ''
