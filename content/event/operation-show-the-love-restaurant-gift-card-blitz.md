@@ -27,7 +27,6 @@ largeboxphoto: "/img/show-love-graphic-1024x395.jpg"
 mediumboxphoto: "/img/show-love-graphic-667x355.jpg"
 smallboxphoto: "/img/show-love-graphic-340x214.jpg"
 aliases: []
-draft: true
 
 ---
 ## Show the Love for our Restaurants!
