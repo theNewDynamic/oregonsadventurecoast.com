@@ -197,3 +197,5 @@ _This program is brought to you through the generous support of the **Southweste
 ![](/img/sowib-png.png)![](/img/wrca_clearbg.png)
 
 ![](/img/city-cb-logo-color.gif)![](/img/city-of-north-bend-logo-color.jpg)
+
+![](/img/tsoc-logo.jpg).          ![](/img/oac-logo-2018-sm.jpg)                     ![](/img/kdock.png)
