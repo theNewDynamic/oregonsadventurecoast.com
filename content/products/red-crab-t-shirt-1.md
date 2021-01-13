@@ -1,6 +1,6 @@
 ---
 product:
-  price: 18.0
+  price: 18
   weight: 10
   description: 'Hanes Beefy-T in Athletic Red: 6.1oz pre-shrunk 100% Cotton. Double-needle
     stitched lay flat collars, sleeves and bottom hem. One color printed on front.  Probably
@@ -15,7 +15,8 @@ product:
     - L
     - XL
     - 2XL
+  id: ''
 title: Red Crab T-Shirt
-image: "/img/placeholder-image.jpg"
+image: "/img/red-t-shirt-main.jpg"
 
 ---
