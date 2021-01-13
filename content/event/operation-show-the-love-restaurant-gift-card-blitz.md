@@ -30,11 +30,15 @@ aliases: []
 draft: true
 
 ---
-### Show the Love for our Restaurants!
+## Show the Love for our Restaurants!
 
-#### Round 2 of the Gift Card Program is here and we can all Show our Love for those restaurants that continue to be affected by dining room closures due to the COVID-19 situation.
+#### **Round 2 of the Gift Card Program is here and we can all Show our Love for those restaurants that continue to be affected by dining room closures due to the COVID-19 situation.**
+
+{{< spacer 10 >}}
 
 ![](/img/show-love-graphic-2048x530.jpg)
+
+{{< spacer 10 >}}
 
 ### $20 GIFT CARDS FOR $10!
 
@@ -44,7 +48,9 @@ We are concentrating this round on those restaurants with dining rooms that have
 
 {{< spacer 25 >}}
 
-###### _There is a limit of 1 gift card/certificate per restaurant per person and a limit of 5 total gift cards/certificates per person._
+###### _There is a limit of 1 gift card/certificate per restaurant per person and a limit of 5 total gift cards/certificates per person. This will allow more people to be able to purchase gift cards._
+
+{{< spacer 25 >}}
 
 #### PARTICIPATING RESTAURANTS:
 
@@ -192,10 +198,13 @@ Wildflour Café & Catering
 
 Yeong's Place {{< /columns >}}
 
+{{< spacer 25 >}}
+
 _This program is brought to you through the generous support of the **Southwestern Oregon Workforce Investment Board, the Wild Rivers Coast Alliance, the City of Coos Bay, the City of North Bend, Travel Southern Oregon Coast, the Coos Bay-North Bend Visitor & Convention Bureau (Oregon's Adventure Coast), and K-DOCK Radio**._
 
-![](/img/sowib-png.png)![](/img/wrca_clearbg.png)
+![](/img/sowib-png.png).        ![](/img/wrca_clearbg.png)
 
-![](/img/city-cb-logo-color.gif)![](/img/city-of-north-bend-logo-color.jpg)
+![](/img/city-cb-logo-color.gif).        ![](/img/city-of-north-bend-logo-color.jpg)
 
-![](/img/tsoc-logo.jpg).          ![](/img/oac-logo-2018-sm.jpg)                     ![](/img/kdock.png)
+        ![](/img/tsoc-logo.jpg).                       ![](/img/kdock.png)  
+![](/img/oac-logo-2018-sm.jpg)
