@@ -11,7 +11,7 @@ slideshow:
   title: ''
   title_mobile: ''
   video:
-    cover: "/img/storm-watching-special-mobile-hm-slider.jpg"
+    cover: "/img/wave-crash-for-video.jpg"
     source: "/img/waves-web-slidertext2.mp4"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
