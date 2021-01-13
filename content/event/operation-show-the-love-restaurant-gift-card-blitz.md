@@ -32,7 +32,7 @@ draft: true
 ---
 ## Show the Love for our Restaurants!
 
-#### **Round 2 of the Gift Card Program is here and we can all Show our Love for those restaurants that continue to be affected by dining room closures due to the COVID-19 situation.**
+**Round 2 of the Gift Card Program is here and we can all Show our Love for those restaurants that continue to be affected by dining room closures due to the COVID-19 situation.**
 
 {{< spacer 10 >}}
 
