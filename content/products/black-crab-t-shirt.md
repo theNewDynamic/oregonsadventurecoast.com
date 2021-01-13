@@ -1,6 +1,6 @@
 ---
 product:
-  price: 18.0
+  price: 18
   weight: 10
   description: 'Hanes Beefy-T in Black: 6.1oz pre-shrunk 100% Cotton. Double-needle
     stitched lay flat collars, sleeves and bottom hem. Two colors printed on front.  Probably
@@ -14,7 +14,8 @@ product:
     - M
     - L
     - XL
+  id: ''
 title: Black Crab T-Shirt
-image: "/img/placeholder-image.jpg"
+image: "/img/black-t-shirt-main.jpg"
 
 ---

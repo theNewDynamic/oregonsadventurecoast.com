@@ -1,6 +1,6 @@
 ---
 product:
-  price: 30.0
+  price: 30
   weight: 24
   description: Midweight Grey Heather hooded pullover sweatshirt is made with soft,
     fleece and generous fit for comfort. 75% Cotton/25% Polyester. Features a jersey
@@ -17,7 +17,8 @@ product:
     - XL
     - 2XL
     - 3XL
+  id: ''
 title: Grey Heather Crab Hoodie
-image: "/img/placeholder-image.jpg"
+image: "/img/grey-hoodie-main.jpg"
 
 ---
