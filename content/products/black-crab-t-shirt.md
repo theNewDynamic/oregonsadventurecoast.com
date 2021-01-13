@@ -16,6 +16,6 @@ product:
     - XL
   id: ''
 title: Black Crab T-Shirt
-image: "/img/black-t-shirt-main.jpg"
+image: "/img/black-t-shirt-main-02.jpg"
 
 ---
