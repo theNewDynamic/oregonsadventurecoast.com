@@ -4,12 +4,14 @@ import {entryCostOptions} from './lodging-cost';
 import {LodgingCategoryOptions as entryCategoryOptions} from './lodging-categories';
 import FindOptionData from '../common/find-option-data';
 import GoogleMapLink from '../maps/GoogleMapLink';
+import PhoneLink from '../common/phone-link';
 
 export default class Lodging {
 
     constructor() {
         this.findOptionData = new FindOptionData();
         this.googleMapLink = new GoogleMapLink();
+        this.phoneLink = new PhoneLink();
     }
 
     /**
@@ -43,6 +45,8 @@ export default class Lodging {
         let units = this.generateUnitsTpl(val.units);
         let phoneDiv = this.generatePhoneDivTpl(val.phone_local, val.phone_toll_free);
         let street = this.generateStreetTpl(val.street, val.street2);
+        let phoneLinkLocal = this.phoneLink.generatePhoneLinkLocal(val.phone_local);
+        let phoneLinkTollFree = this.phoneLink.generatePhoneLinkTollFree(val.phone_toll_free);
         let mapLink = this.googleMapLink.getLink(val.street, val.street2, val.city, val.state, val.zip, val.title);
 
         return `
@@ -61,7 +65,7 @@ export default class Lodging {
                     <p class="address">
                         ${street}
                         ${val.city}, ${val.state} ${val.zip}<br>
-                        ${val.phone_local ? '<a href="tel:' + val.phone_local + '">' + val.phone_local + '</a>' : ''} ${phoneDiv} ${val.phone_toll_free ? '<a href="tel:' + val.phone_toll_free + '">' + val.phone_toll_free + '</a>' : ''}
+                        ${phoneLinkLocal} ${phoneDiv} ${phoneLinkTollFree}
                     </p>
                 </div>
 
@@ -182,5 +186,4 @@ export default class Lodging {
             return '';
         }
     }
-
 }
