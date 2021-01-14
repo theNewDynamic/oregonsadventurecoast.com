@@ -4,12 +4,14 @@ import {entryCostOptions} from './lodging-cost';
 import {LodgingCategoryOptions as entryCategoryOptions} from './lodging-categories';
 import FindOptionData from '../common/find-option-data';
 import GoogleMapLink from '../maps/GoogleMapLink';
+import PhoneLink from '../common/phone-link';
 
 export default class Lodging {
 
     constructor() {
         this.findOptionData = new FindOptionData();
         this.googleMapLink = new GoogleMapLink();
+        this.phoneLink = new PhoneLink();
     }
 
     /**
@@ -43,6 +45,8 @@ export default class Lodging {
         let units = this.generateUnitsTpl(val.units);
         let phoneDiv = this.generatePhoneDivTpl(val.phone_local, val.phone_toll_free);
         let street = this.generateStreetTpl(val.street, val.street2);
+        let phoneLinkLocal = this.phoneLink.generatePhoneLink(val.phone_local);
+        let phoneLinkTollFree = this.phoneLink.generatePhoneLink(val.phone_toll_free);
         let mapLink = this.googleMapLink.getLink(val.street, val.street2, val.city, val.state, val.zip, val.title);
 
         return `
@@ -50,21 +54,21 @@ export default class Lodging {
             <div class="photo" style="background-image:url(${val.photo_name});" alt="${val.photo_alt}">
 
             </div>
-        
+
             <div class="content marker-content">
                 <div class="category">
                     ${category.label}
                 </div>
-        
+
                 <div class="location">
                     <h2>${val.title}</h2>
                     <p class="address">
                         ${street}
                         ${val.city}, ${val.state} ${val.zip}<br>
-                        ${val.phone_local} ${phoneDiv} ${val.phone_toll_free ? val.phone_toll_free : ''}
+                        ${phoneLinkLocal} ${phoneDiv} ${phoneLinkTollFree}
                     </p>
                 </div>
-        
+
                 <div class="description">
                     <strong>
                     ${units}
@@ -80,14 +84,14 @@ export default class Lodging {
                             </ul>
                         </div>
                     </div>
-            
+
                     <div class="links clearfix">
                         <span class="map"><a href="${mapLink}" target="_blank"><span class="icon"><i class="fas fa-map-marker-alt"></i></span> Map</a></span>
                         <span class="website ${val.website != '' ? '' : 'hidden'}"><a href="${val.website}" target="_blank"><span class="icon"><i class="fas fa-globe"></i></span> Website</a></span>
                     </div>
                 </div>
             </div>
-        
+
         </div>
         `;
     }
@@ -118,7 +122,7 @@ export default class Lodging {
      */
     generateCostTpl(cost) {
         let costTpl = this.findOptionData.find(entryCostOptions, cost);
-        
+
         if (costTpl !== undefined) {
             return costTpl;
         }
@@ -133,7 +137,7 @@ export default class Lodging {
      */
     generateCategoryTpl(cat) {
         let catTpl = this.findOptionData.find(entryCategoryOptions, cat);
-        
+
         if (catTpl !== undefined) {
             return catTpl;
         }
@@ -182,5 +186,4 @@ export default class Lodging {
             return '';
         }
     }
-
 }

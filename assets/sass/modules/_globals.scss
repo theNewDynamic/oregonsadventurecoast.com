@@ -32,3 +32,20 @@
 .g-capitalize {
     text-transform: capitalize;
 }
+
+a.phone-body {
+    text-decoration: none;
+    color: $darkGray;
+    &:hover {
+        cursor: unset;
+    }
+    @include small {
+        text-decoration: underline;
+        color: $red;
+        &:hover {
+            color: $darkGray;
+            cursor: pointer;
+        }
+    }
+
+}

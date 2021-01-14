@@ -2,12 +2,14 @@ import _ from 'lodash';
 import {StoreCategoryOptions as entryCategoryOptions} from './store-categories';
 import FindOptionData from '../common/find-option-data';
 import GoogleMapLink from '../maps/GoogleMapLink';
+import PhoneLink from '../common/phone-link';
 
 export default class Store {
 
     constructor() {
         this.findOptionData = new FindOptionData();
         this.googleMapLink = new GoogleMapLink();
+        this.phoneLink = new PhoneLink();
     }
 
     /**
@@ -22,6 +24,8 @@ export default class Store {
             categoryLabels.push(value.label)
         })
         let phoneDiv = this.generatePhoneDivTpl(val.phone_local, val.phone_toll_free);
+        let phoneLinkLocal = this.phoneLink.generatePhoneLink(val.phone_local);
+        let phoneLinkTollFree = this.phoneLink.generatePhoneLink(val.phone_toll_free);
         let street = this.generateStreetTpl(val.street, val.street2);
         let mapLink = this.googleMapLink.getLink(val.street, val.street2, val.city, val.state, val.zip, val.title);
 
@@ -30,33 +34,33 @@ export default class Store {
             <div class="photo" style="background-image:url(${val.photo_name});" alt="${val.photo_alt}">
 
             </div>
-        
+
             <div class="content marker-content">
                 <div class="category">
                     ${categoryLabels.join(' | ')}
                 </div>
-        
+
                 <div class="location">
                     <h2>${val.title}</h2>
                     <p class="address">
                         ${street}
                         ${val.city}, ${val.state || 'OR'} ${val.zip}<br>
-                        ${val.phone_local} ${phoneDiv} ${val.phone_toll_free ? val.phone_toll_free : ''}
+                        ${phoneLinkLocal} ${phoneDiv} ${phoneLinkTollFree}
                     </p>
                 </div>
-        
+
                 <div class="description">
                     ${val.property_description}
                 </div>
                 <div class="m-lodging-item__footer">
-            
+
                     <div class="links clearfix">
                         <span class="map"><a href="${mapLink}" target="_blank"><span class="icon"><i class="fas fa-map-marker-alt"></i></span> Map</a></span>
                         <span class="website ${val.website != '' ? '' : 'hidden'}"><a href="${val.website}" target="_blank"><span class="icon"><i class="fas fa-globe"></i></span> Website</a></span>
                     </div>
                 </div>
             </div>
-        
+
         </div>
         `;
     }

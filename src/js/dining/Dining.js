@@ -2,12 +2,14 @@ import _ from 'lodash';
 import {entryCategoryOptions} from './dining-categories';
 import FindOptionData from '../common/find-option-data';
 import GoogleMapLink from '../maps/GoogleMapLink';
+import PhoneLink from '../common/phone-link';
 
 export default class Lodging {
 
     constructor() {
         this.findOptionData = new FindOptionData();
         this.googleMapLink = new GoogleMapLink();
+        this.phoneLink = new PhoneLink();
     }
 
     /**
@@ -17,7 +19,6 @@ export default class Lodging {
      */
     generateTemplate(val) {
         let category = this.generateCategoryTpl([val.category]);
-        let phone = this.generatePhoneTpl(val.phone1, val.phone2);
         let address = this.generateAddressTpl({
             address1: val.address1,
             address2: '',
@@ -28,26 +29,29 @@ export default class Lodging {
         let website = this.generateWebsiteTpl(val.links);
         let photo = this.generateImageTpl(val.media);
         let photoURL = this.generateImageSRC(val.media);
+        let phoneDiv = this.generatePhoneDivTpl(val.phone1, val.phone2);
+        let phoneLinkLocal = this.phoneLink.generatePhoneLink(val.phone1);
+        let phoneLinkTollFree = this.phoneLink.generatePhoneLink(val.phone2);
         let mapLink = this.googleMapLink.getLink(val.address1, '', val.city, val.state, val.zipcode, val.name);
 
         return `
         <div class="m-lodging-item">
             <div class="photo" style="background-image:url(${photoURL});">
             </div>
-        
+
             <div class="content">
                 <div class="category">
                     ${category.join(' | ')}
                 </div>
-        
+
                 <div class="location">
                     <h2>${val.name}</h2>
                     <p class="address">
                         ${address}<br>
-                        ${phone}
+                        ${phoneLinkLocal} ${phoneDiv} ${phoneLinkTollFree}
                     </p>
                 </div>
-        
+
                 <div class="description">
                     ${val.description}
                 </div>
@@ -58,7 +62,7 @@ export default class Lodging {
                     </div>
                 </div>
             </div>
-        
+
         </div>
         `;
     }
@@ -84,15 +88,13 @@ export default class Lodging {
     }
 
     /**
-     * Generate phone template
-     * @param
-     * @return {string} - phone template string
+     * Returns the string for the phone values
+     * @param {number} units - units value
+     * @return {string} - category name
      */
-    generatePhoneTpl(phone1, phone2) {
-        if (phone2 !== undefined) {
-            return phone1 + ' | ' + phone2;
-        } else if (phone1 !== undefined) {
-            return phone1;
+    generatePhoneDivTpl(phone1, phone2) {
+        if (phone1 && phone2) {
+            return ' | ';
         } else {
             return '';
         }
@@ -144,7 +146,7 @@ export default class Lodging {
             _.forEach(links, (link, index) => {
                 if (link.network_type == "Website") {
                     website = link.url
-                }    
+                }
             });
         } else {
             website = links[0].url
@@ -154,7 +156,7 @@ export default class Lodging {
                 <span class="website"><a href="${website}" target="_blank"><span class="icon"><i class="fas fa-globe"></i></span> Website</a></span>
             `;
         }
-        
+
         return websiteTpl;
     }
 
