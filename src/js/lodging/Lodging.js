@@ -45,8 +45,8 @@ export default class Lodging {
         let units = this.generateUnitsTpl(val.units);
         let phoneDiv = this.generatePhoneDivTpl(val.phone_local, val.phone_toll_free);
         let street = this.generateStreetTpl(val.street, val.street2);
-        let phoneLinkLocal = this.phoneLink.generatePhoneLinkLocal(val.phone_local);
-        let phoneLinkTollFree = this.phoneLink.generatePhoneLinkTollFree(val.phone_toll_free);
+        let phoneLinkLocal = this.phoneLink.generatePhoneLink(val.phone_local);
+        let phoneLinkTollFree = this.phoneLink.generatePhoneLink(val.phone_toll_free);
         let mapLink = this.googleMapLink.getLink(val.street, val.street2, val.city, val.state, val.zip, val.title);
 
         return `

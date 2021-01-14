@@ -1,11 +1,13 @@
 import FindOptionData from '../common/find-option-data';
 import GoogleMapLink from '../maps/GoogleMapLink';
+import PhoneLink from '../common/phone-link';
 
 export default class TourAndEquipment {
 
     constructor() {
         this.findOptionData = new FindOptionData();
         this.googleMapLink = new GoogleMapLink();
+        this.phoneLink = new PhoneLink();
     }
 
     /**
@@ -16,6 +18,8 @@ export default class TourAndEquipment {
     generateTemplate(val) {
         let street = this.generateStreetTpl(val.street, val.street2);
         let phoneDiv = this.generatePhoneDivTpl(val.phone_local, val.phone_toll_free);
+        let phoneLinkLocal = this.phoneLink.generatePhoneLink(val.phone_local);
+        let phoneLinkTollFree = this.phoneLink.generatePhoneLink(val.phone_toll_free);
         let mapLink = this.googleMapLink.getLink(val.street, val.street2, val.city, val.state, val.zip, val.title);
 
         return `
@@ -23,18 +27,18 @@ export default class TourAndEquipment {
             <div class="photo">
                 <img src="${val.photo_name}" alt="${val.photo_alt}">
             </div>
-        
+
             <div class="content">
-        
+
                 <div class="location">
                     <h2>${val.title}</h2>
                     <p class="address">
                         ${street}
                         ${val.city}, ${val.state} ${val.zip}<br>
-                        ${val.phone_local} ${phoneDiv} ${val.phone_toll_free}
+                        ${phoneLinkLocal} ${phoneDiv} ${phoneLinkTollFree}
                     </p>
                 </div>
-        
+
                 <div class="description">
                     ${val.property_description}
                 </div>
@@ -45,7 +49,7 @@ export default class TourAndEquipment {
                     </div>
                 </div>
             </div>
-        
+
         </div>
         `;
     }

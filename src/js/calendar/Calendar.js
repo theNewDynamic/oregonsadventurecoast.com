@@ -1,11 +1,13 @@
 import _ from 'lodash';
 import Events from '../events/Events';
 import GoogleMapLink from '../maps/GoogleMapLink';
+import PhoneLink from '../common/phone-link';
 
 export default class Calendar {
 
     constructor() {
         this.googleMapLink = new GoogleMapLink();
+        this.phoneLink = new PhoneLink();
     }
 
     /**
@@ -19,7 +21,7 @@ export default class Calendar {
             today.setHours(0, 0, 0, 0);
             let yesterday = today.getTime() - (86400000 * 2);
             let enddate = new Date(event.enddate);
-            
+
             if (enddate.getTime() > yesterday) {
                 return true;
             } else {
@@ -45,7 +47,9 @@ export default class Calendar {
     generateTemplate(val) {
         let events = new Events();
         let date = events.getDateString(val.startdate, val.enddate, false);
-        let phone = this.generatePhoneTpl(val.phone1, val.phone2);
+        let phoneDiv = this.generatePhoneDivTpl(val.phone1, val.phone2);
+        let phoneLinkLocal = this.phoneLink.generatePhoneLink(val.phone1);
+        let phoneLinkTollFree = this.phoneLink.generatePhoneLink(val.phone2);
         let address = this.generateAddressTpl({
             address1: val.address1,
             address2: '',
@@ -62,20 +66,20 @@ export default class Calendar {
                 <div class="photo">
                     ${photo}
                 </div>
-            
+
                 <div class="content">
                     <h2>${val.name}</h2>
                     <p class="date"><span class="icon"><i class="fas fa-calendar-alt"></i></span> ${date}</p>
-                    
+
                     ${val.description}
-                    
+
                     <p class="address">
                         ${address}
                         <span class="map"><a href="${mapLink}" target="_blank">Map It</a></span>
                     </p>
 
                     <p class="phone">
-                        ${phone}
+                        ${phoneLinkLocal} ${phoneDiv} ${phoneLinkTollFree}
                         ${website.desktop}
                     </p>
 
@@ -86,15 +90,13 @@ export default class Calendar {
     }
 
     /**
-     * Generate phone template
-     * @param
-     * @return {string} - phone template string
+     * Returns the string for the phone values
+     * @param {number} units - units value
+     * @return {string} - category name
      */
-    generatePhoneTpl(phone1, phone2) {
-        if (phone2 !== undefined) {
-            return phone1 + ' &bull; ' + phone2;
-        } else if (phone1 !== undefined) {
-            return phone1;
+    generatePhoneDivTpl(phone1, phone2) {
+        if (phone1 && phone2) {
+            return ' | ';
         } else {
             return '';
         }
@@ -147,7 +149,7 @@ export default class Calendar {
             _.forEach(links, (link, index) => {
                 if (link.network_type == "Website") {
                     website = link.url
-                }    
+                }
             });
         } else {
             website = links[0].url
@@ -160,7 +162,7 @@ export default class Calendar {
                 <p class="website -mobile"><a href="${website}" target="_blank">Website</a></p>
             `;
         }
-        
+
         return websiteTpl;
     }
 
