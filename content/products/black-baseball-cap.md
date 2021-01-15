@@ -9,5 +9,6 @@ product:
     strap with hook-and-loop closure. Two color embroidering on the front of the hat.
   price: 18
   weight: 5.1
+  id: "200285"
 
 ---
