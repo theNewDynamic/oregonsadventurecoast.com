@@ -15,7 +15,7 @@ product:
     - L
     - XL
     - 2XL
-  id: ''
+  id: "200225"
 title: Red Crab T-Shirt
 image: "/img/red-t-shirt-main-02.jpg"
 
