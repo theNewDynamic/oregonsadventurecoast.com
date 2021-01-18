@@ -17,5 +17,6 @@ product:
   id: "200220"
 title: Black Crab T-Shirt
 image: "/img/black-t-shirt-main-02.jpg"
+hover_image: "/img/black-t-shirt-artwork-02.jpg"
 
 ---
