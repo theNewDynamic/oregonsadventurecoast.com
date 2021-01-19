@@ -9,5 +9,6 @@ product:
   id: "100101"
 title: Stickers - Storm Watching
 image: "/img/sticker-storm-watching-stack.jpg"
+hover_image: "/img/sticker-storm-watching-single.jpg"
 
 ---

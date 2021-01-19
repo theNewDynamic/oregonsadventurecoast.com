@@ -9,5 +9,6 @@ product:
   id: "100100"
 title: Sticker - Crab Oregon's Adventure Coast
 image: "/img/sticker-crab-stack.jpg"
+hover_image: "/img/sticker-crab-single.jpg"
 
 ---
