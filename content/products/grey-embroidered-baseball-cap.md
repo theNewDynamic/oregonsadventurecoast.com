@@ -8,6 +8,7 @@ product:
   custom_fields: []
   id: "200280"
 title: Silver Grey Embroidered Baseball Cap
-image: "/img/placeholder-image.jpg"
+image: "/img/grey-hat-main.jpg"
+hover_image: "/img/grey-hat-artwork.jpg"
 
 ---
