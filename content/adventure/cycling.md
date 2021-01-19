@@ -53,6 +53,8 @@ These professionally built trails are made to withstand the coast's weather, so 
 {{< accordions >}}
 
 <div class="margin-50px-top"></div>
+
+
 ![](/img/fat-tire-biking-695x322.jpg)
 
 ## Fat Tire Biking
