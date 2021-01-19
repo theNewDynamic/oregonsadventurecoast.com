@@ -9,6 +9,7 @@ product:
   custom_fields: []
   id: "200250"
 title: Custom Crab Face Mask
-image: "/img/placeholder-image.jpg"
+image: "/img/crab-mask-main-image.jpg"
+hover_image: "/img/crab-mask-detail.jpg"
 
 ---
