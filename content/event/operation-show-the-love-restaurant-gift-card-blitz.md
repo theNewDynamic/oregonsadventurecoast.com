@@ -41,6 +41,8 @@ aliases: []
 
 ### $20 GIFT CARDS FOR $10!
 
+[**Download the Order Form**](/img/Round_2_order_form.pdf) **and Select Your Favorites! Bring this form with you on Saturday, January 23rd. Copies will be available on site, too!**
+
 We are selling these **$20 gift cards/certificates for $10 each in a one day Blitz, SATURDAY, January 23rd, beginning at 9am** at the Coos Bay Visitor Information Center, 50 Central Avenue.
 
 We are concentrating this round on those restaurants with dining rooms that have had to close those dining rooms again and again over the past 9 months of COVID restrictions, especially as Coos County moves back into the Extreme Risk category on January 15th.
