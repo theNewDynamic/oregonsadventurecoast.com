@@ -113,8 +113,6 @@ High Tide Café
 
 Hilltop House Restaurant & Lounge
 
-Humboldt Club
-
 Kaffe 101
 
 Kozy Kitchen
@@ -138,8 +136,6 @@ Luigi's Italian Sandwiches
 Margarita's Mexican Grill
 
 Maria's Authentic Mexican Restaurant
-
-Miller's at the Cove
 
 Mom's Kitchen
 
