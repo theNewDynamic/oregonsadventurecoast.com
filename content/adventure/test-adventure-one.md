@@ -38,12 +38,6 @@ Zipping up and down the stunning Pacific Ocean beach dunes is a hair-raising goo
 
 ### ATV Equipment Rentals and Tours
 
-**Dune Bugs ATV Rentals**  
-68752 Hauser Depot Rd  
-North Bend, OR 97459  
-541-660-5300  
-[www.oregondunebugrentals.com](https://www.oregondunebugrentals.com/)
-
 **Spinreel Dune Buggy & ATV Rentals, Inc**  
 67045 Spinreel Rd  
 North Bend, OR 97459  
@@ -55,6 +49,14 @@ North Bend, OR 97459
 North Bend, OR 97459  
 (844) 278-3837  
 [www.stevesatvrentals.com](https://stevesatvrentals.com/oregon-dunes)
+
+**Sunbuggy Fun Rentals**  
+68860 Hauser Road  
+North Bend, OR 97459  
+(866) 728-4443  
+[https://www.sunbuggy.com/](https://www.sunbuggy.com/ "https://www.sunbuggy.com/")
+
+{{< spacer 25 >}}
 
 ### Explore Our Trip Ideas!
 
