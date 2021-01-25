@@ -6,6 +6,7 @@ product:
   custom_fields: []
   id: "400412"
 title: Myrtlewood Pen - Slimline
-image: "/img/placeholder-image.jpg"
+image: "/img/pens-slimline.jpg"
+hover_image: "/img/pens-all-three.jpg"
 
 ---
