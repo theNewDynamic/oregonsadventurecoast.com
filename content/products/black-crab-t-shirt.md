@@ -1,7 +1,7 @@
 ---
 product:
   price: 18
-  weight: 10
+  weight: 200
   description: 'Hanes Beefy-T in Black: 6.1oz pre-shrunk 100% Cotton. Double-needle
     stitched lay flat collars, sleeves and bottom hem. Two colors printed on front.  Probably
     need a more colorful description.'
