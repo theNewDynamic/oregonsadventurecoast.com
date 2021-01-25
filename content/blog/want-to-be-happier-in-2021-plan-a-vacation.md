@@ -1,10 +1,23 @@
 ---
 title: Want to Be Happier in 2021? Plan a Vacation!
 date: 2021-01-25T05:00:00+00:00
-description: ''
+description: 'If you want to be happier with your job, health and wellbeing, it’s
+  time to start dreaming and begin planning your next adventure. '
 image: "/img/national-plan-your-vacation-day-blog-695x322-jpg.png"
-tags: []
-categories: []
+tags:
+- National Plan a Vacation Day
+- U.S. Travel Association
+- Plan a vacation
+- oregon vacation
+- 'Oregon Coast '
+- 'Coos Bay '
+- 'North Bend '
+- Charleston
+- 'Vistor Center '
+- Travel Guide
+- 'Oregon Travel '
+categories:
+- Oregon's Adventure Coast News & Info
 seo:
   title: ''
   description: ''
