@@ -6,6 +6,7 @@ product:
   custom_fields: []
   id: "400450"
 title: Jewelry - Charm Bracelet
-image: "/img/placeholder-image.jpg"
+image: "/img/bracelet-whole-main.jpg"
+hover_image: "/img/bracelet-closeup.jpg"
 
 ---

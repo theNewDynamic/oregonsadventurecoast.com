@@ -9,6 +9,7 @@ product:
   custom_fields: []
   id: "400490"
 title: Branded Crab Measure Tool
-image: "/img/placeholder-image.jpg"
+image: "/img/ruler-for-crab-main.jpg"
+hover_image: "/img/crab-measuring-photo.jpg"
 
 ---
