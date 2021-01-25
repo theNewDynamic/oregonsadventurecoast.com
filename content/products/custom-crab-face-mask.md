@@ -1,7 +1,7 @@
 ---
 product:
   price: 8.5
-  weight: 1.94
+  weight: 20
   description: |-
     Our product
 
