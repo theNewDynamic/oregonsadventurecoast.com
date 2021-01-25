@@ -1,7 +1,7 @@
 ---
 product:
   price: 25
-  weight: 1.94
+  weight: 35
   description: Handcrafted out of local Myrtlewood.
   custom_fields: []
   id: "400410"

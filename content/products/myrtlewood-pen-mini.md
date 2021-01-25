@@ -1,7 +1,7 @@
 ---
 product:
   price: 14
-  weight: 1.76
+  weight: 30
   description: Small, 4" pen hand-carved from local Myrtlewood.
   custom_fields: []
   id: "400411"
