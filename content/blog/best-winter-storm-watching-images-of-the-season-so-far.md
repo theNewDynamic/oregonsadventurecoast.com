@@ -35,11 +35,13 @@ _Image below courtesy of Jeanie Duke_
 
 ![](/img/jeanie-dukejan9.jpg)
 
-Image below 
+_Image below courtesy of Imelda Ira Olegario_
 
 ![](/img/imelda-ira-olegario.jpg)
 
 Image below 
+
+![](/img/vernon-rehder.jpg)
 
 <div class="fb-post" data-href="https://www.facebook.com/OregonsAdventureCoast/posts/10159001997801692" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/OregonsAdventureCoast/posts/10159001997801692" class="fb-xfbml-parse-ignore"><p>This video was captured at Shore Acres State Park on Sunday, January 10th. Winter Storm Watching got a bit dangerous as...</p>Posted by <a href="https://www.facebook.com/OregonsAdventureCoast/">Oregon's Adventure Coast: Coos Bay, North Bend, Charleston</a> on <a href="https://www.facebook.com/OregonsAdventureCoast/posts/10159001997801692">Wednesday, January 13, 2021</a></blockquote></div>
 
