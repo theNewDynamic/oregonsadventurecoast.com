@@ -7,6 +7,7 @@ product:
   custom_fields: []
   id: "400480"
 title: 2020 Custom Myrtlewood Christmas Ornament
-image: "/img/placeholder-image.jpg"
+image: "/img/2020-ornament.jpg"
+hover_image: "/img/2020-ornament-large.jpg"
 
 ---
