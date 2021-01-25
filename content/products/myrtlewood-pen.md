@@ -6,6 +6,7 @@ product:
   custom_fields: []
   id: "400410"
 title: Myrtlewood Pen
-image: "/img/placeholder-image.jpg"
+image: "/img/pens-regular.jpg"
+hover_image: "/img/pens-all-three.jpg"
 
 ---
