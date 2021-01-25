@@ -7,7 +7,7 @@ product:
     a scuff resistant laminate which will protect your stickers from scratches, water
     & sunlight. They are weatherproof and even dishwasher safe!
   price: 2.5
-  weight: 1
+  weight: 5
   id: "100102"
 
 ---
