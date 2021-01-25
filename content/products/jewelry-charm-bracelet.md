@@ -1,7 +1,7 @@
 ---
 product:
   price: 5
-  weight: 1.76
+  weight: 20
   description: Jewelry - Charm Bracelet
   custom_fields: []
   id: "400450"
