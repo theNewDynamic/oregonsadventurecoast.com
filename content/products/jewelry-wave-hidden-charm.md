@@ -6,6 +6,7 @@ product:
   custom_fields: []
   id: "400455"
 title: Jewelry - Wave Charm
-image: "/img/placeholder-image.jpg"
+image: "/img/charm-wave.jpg"
+hover_image: "/img/charm-wave-attached.jpg"
 
 ---

@@ -6,6 +6,7 @@ product:
   custom_fields: []
   id: "400456"
 title: Jewelry - Crab Charm
-image: "/img/placeholder-image.jpg"
+image: "/img/charm-crab.jpg"
+hover_image: "/img/charm-crab-attached.jpg"
 
 ---
