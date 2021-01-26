@@ -97,6 +97,13 @@ sections:
   exclude: _index.md
   templates:
   - product
+- type: heading
+  label: Documentation
+- type: document
+  path: docs/api.md
+  label: API
+  match: "**/*"
+  read_only: true
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
