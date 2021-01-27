@@ -10,7 +10,6 @@ tnd_seo:
 tnd_snipcart:
   front_matter_key: product
   api_key: YzIyNDVmNWItNDA4NS00ZGRkLThmNTctNDFlZDNiMWM0ODM4NjM3Mzk1ODk4MTcxNDQ2NTI4
-  weight_unit: ounces
   global:
     modal-style: side
   forms:
