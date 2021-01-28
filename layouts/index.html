@@ -142,6 +142,15 @@
     </a>
 </div>
 
+{{/* Promotional banner */}}
+{{ with .Params.promotional_banner }}
+    <div class="m-home-splash">
+        <a class="m-home-banner" target="_blank" href="{{ . }}">
+            <img src="/layout-images/win-500-cash.png" alt="Win $500 Cash">
+        </a>
+    </div>
+{{ end }}
+
 <div class="m-home-grid clearfix">
     <div class="home-grid-left">
         <div class="newsletter">

@@ -4,6 +4,7 @@ aliases:
 - "/photo-gallery"
 - "/activities/category/geocaching"
 - "/rob"
+promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
 - photo: "/img/wave-crash-for-video.jpg"
   photo_mobile: "/img/storm-watching-special-mobile-hm-slider.jpg"
