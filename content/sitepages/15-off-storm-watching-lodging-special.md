@@ -8,7 +8,9 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-aliases: []
+aliases:
+- "/Fall15"
+- "/STORM15"
 accordion_sections: []
 boxes: []
 

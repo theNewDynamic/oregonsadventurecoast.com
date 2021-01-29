@@ -102,7 +102,6 @@ sections:
 - type: document
   path: docs/api.md
   label: API
-  match: "**/*"
   read_only: true
 upload_dir: static/img
 public_path: "/img"
