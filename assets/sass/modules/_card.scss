@@ -1,0 +1,58 @@
+.card{
+  border: 1px solid #d3d3d3;
+  border-radius: 6px;
+  position: relative;
+}
+.card__title{
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+.card__photo, .card__photo__hover{
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.card__photo{
+  padding-top: 100%;
+  position: relative;
+  .card__photo__hover{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  &:hover .card__photo__hover{
+    z-index: 1;
+  }
+}
+.card__body{
+  padding: 1rem;
+}
+.card__copy{
+  font-weight: 300;
+}
+.card__price{
+  font-weight: 500;
+  font-size: 1.5em;
+  margin-bottom: .5rem;
+}
+.card__pinned-bottom{
+  position: absolute;
+  bottom:1rem;
+  left: 1rem;
+  width: calc(100% - 2rem);
+}
+
+@media (max-width: 640px){
+  .card{
+    margin-bottom: 1rem;
+  }
+}
+
+.card--pinned{
+  padding-bottom: calc(86px + 2rem);
+}

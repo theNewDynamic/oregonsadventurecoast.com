@@ -16,7 +16,7 @@
   
   <div class="lodging-list">
     <div class="m-grid">
-      {{ range .Pages }}
+      {{ range .Pages.ByParam "product.id" }}
         {{ .Render "card" }}
       {{ end }}
     </div>

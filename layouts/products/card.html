@@ -1,21 +1,29 @@
-<div class="m-lodging-item">
-  <div class="photo product-photo"
+<div class="card card--pinned">
+  <div class="card__photo"
     {{ with .Params.image }}
       style="background-image:url({{ . }})"
     {{ end }}
-  ></div>
-  <div class="content">
-    <div class="location">
-      <h2>{{ .Title }}</h2>
+  >
+  {{ with .Params.hover_image }}
+    <div class="card__photo__hover" style="background-image:url({{ . }})">
+    </div>
+  {{ end }}
+  </div>
+  <div class="card__body">
+    <div class="card__title">
+      {{ .Title }}
     </div>
     {{ with .Params.product.description }}
-      <div class="description">
+      <div class="card__copy">
         {{ . | markdownify }}
       </div>
     {{ end }}
-    {{ with .Params.product.price }}
-      <p style="margin-top: .7rem;">${{ lang.NumFmt 2 . " ." }}</p>
-    {{ end }}
-    {{ partial "tnd-snipcart/form" . }}
+    <div class="card__pinned-bottom">
+      {{ with .Params.product.price }}
+        <div class="card__price">${{ lang.NumFmt 2 . " ." }}</div>
+      {{ end }}
+      {{ partial "tnd-snipcart/form" . }}
+    </div>
+
   </div>
 </div>
