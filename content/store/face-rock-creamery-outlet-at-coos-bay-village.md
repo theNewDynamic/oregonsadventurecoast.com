@@ -4,8 +4,8 @@ property_description: Face Rock Creamery's first satellite store with retail of 
   their great cheeses, local beer & wine, and wonderful gifts. Featuring delicious
   panini's, their signature mac & cheese, and soups; as well as giant ice cream cones!
   Open daily 10am-6pm
-photo_name: ''
-photo_alt: FRC CB2 OTIS Face Rock Creamery fromage and cheese curds cold case display
+photo_name: "/img/facerock-creamery.jpg"
+photo_alt: Face Rock Creamery fromage and cheese curds cold case display
 property_category:
 - Specialty Foods
 - Resale
@@ -25,6 +25,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
