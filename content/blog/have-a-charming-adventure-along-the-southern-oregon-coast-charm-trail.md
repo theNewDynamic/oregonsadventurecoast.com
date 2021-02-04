@@ -1,6 +1,6 @@
 ---
-title: Have a "Charming" Adventure Along the Southern Oregon Coast Charm Trail
-date: 2021-02-05T00:00:00+00:00
+title: Have a "Charming" Adventure Along the Southern Oregon Coast Charm Trail Updated
+date: 2021-02-04T23:00:00+00:00
 description: 'Grab a friend or family member and head over to Oregon''s South Coast
   for a "charming" adventure as you experience local culture and collect a special,
   one-of-a-kind souvenir. '
