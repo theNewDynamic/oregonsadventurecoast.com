@@ -6,7 +6,7 @@ product:
     a scuff resistant laminate which will protect your stickers from scratches, water
     & sunlight. They are weatherproof and even dishwasher safe!
   custom_fields: []
-  id: "100101"
+  id: "600101"
 title: Stickers - Storm Watching
 image: "/img/sticker-storm-watching-stack.jpg"
 hover_image: "/img/sticker-storm-watching-single.jpg"

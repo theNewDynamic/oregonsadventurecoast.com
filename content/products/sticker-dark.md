@@ -6,7 +6,7 @@ product:
     a scuff resistant laminate which will protect your stickers from scratches, water
     & sunlight. They are weatherproof and even dishwasher safe!
   custom_fields: []
-  id: "100100"
+  id: "600100"
 title: Sticker - Crab Oregon's Adventure Coast
 image: "/img/sticker-crab-stack.jpg"
 hover_image: "/img/sticker-crab-single.jpg"
