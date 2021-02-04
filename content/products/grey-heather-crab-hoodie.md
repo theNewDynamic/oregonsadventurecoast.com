@@ -4,8 +4,7 @@ product:
   weight: 600
   description: Midweight grey heather hooded pullover sweatshirt is made with soft,
     fleece and generous fit for comfort. 75% Cotton/25% Polyester. Features a jersey
-    lined hood, heavy gauge drawcord with metal eyelets and 1x1 ribbing at cuffs and
-    waistband. Two color silkscreened.
+    lined hood and ribbing at cuffs and waistband. Two colors printed on front.
   custom_fields:
   - template: product-field-size
     id: size
