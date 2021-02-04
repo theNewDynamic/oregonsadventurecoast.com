@@ -2,7 +2,8 @@
 product:
   price: 25
   weight: 35
-  description: Handcrafted out of local Myrtlewood.
+  description: Regular sized pen hand-carved by area craftsman from locally sourced
+    Myrtlewood.
   custom_fields: []
   id: "400410"
 title: Myrtlewood Pen

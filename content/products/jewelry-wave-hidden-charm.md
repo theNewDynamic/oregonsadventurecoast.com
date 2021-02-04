@@ -2,7 +2,7 @@
 product:
   price: 2
   weight: 20
-  description: Jewelry - Wave (Hidden) Charm
+  description: Jewelry - Wave Charm
   custom_fields: []
   id: "400455"
 title: Jewelry - Wave Charm
