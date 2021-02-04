@@ -2,7 +2,7 @@
 product:
   price: 22.5
   weight: 30
-  description: Slimline pen hand-carved from local Myrtlewood.
+  description: Slimline pen hand-carved by area craftsman from locally sourced Myrtlewood.
   custom_fields: []
   id: "400412"
 title: Myrtlewood Pen - Slimline
