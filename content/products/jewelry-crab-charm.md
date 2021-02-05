@@ -3,9 +3,8 @@ product:
   price: 2
   weight: 20
   description: Our mascot makes the perfect charm! Start collecting your charms on
-    the Southern Oregon Charm Trail before you arrive and follow the Map to collect
-    more charms. https://oregonsadventurecoast.com <a href="https://oregonsadventurecoast.com">Visit
-    map</a>
+    the Southern Oregon Charm Trail before you arrive and follow the <a href="https://www.oregonsadventurecoast.com/img/CharmTrailMap2019.pdf">Map</a>
+    to collect more charms.
   custom_fields: []
   id: "400456"
 title: Jewelry - Crab Charm
