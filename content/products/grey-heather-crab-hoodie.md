@@ -15,7 +15,6 @@ product:
     - L
     - XL
     - 2XL
-    - 3XL
   id: "200219"
 title: Grey Heather Crab Hoodie
 image: "/img/grey-hoodie-main-02.jpg"
