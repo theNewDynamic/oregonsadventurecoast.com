@@ -7,7 +7,7 @@ product:
     & sunlight. They are weatherproof and even dishwasher safe!
   custom_fields: []
   id: "600101"
-title: Stickers - Storm Watching
+title: Sticker - Storm Watching
 image: "/img/sticker-storm-watching-stack.jpg"
 hover_image: "/img/sticker-storm-watching-single.jpg"
 
