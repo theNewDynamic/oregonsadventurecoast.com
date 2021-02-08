@@ -10,4 +10,4 @@ seo:
 ---
 {{< spacer 100 >}}
 
-### Due to COVID-19 Most Events in 2020 have been cancelled. We will update this page as new information is provided.
+### While a majority of the events in 2020 were cancelled due to COVID-19, we anticipate that many of our events, especially those later in the year, will be held. We will update this page as events are announced.
