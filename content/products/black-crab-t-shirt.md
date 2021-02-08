@@ -13,6 +13,7 @@ product:
     - M
     - L
     - XL
+    - 2XL
   id: "200220"
 title: Black Crab T-Shirt
 image: "/img/black-t-shirt-main-02.jpg"
