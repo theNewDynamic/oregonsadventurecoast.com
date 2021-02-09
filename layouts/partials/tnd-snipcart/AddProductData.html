@@ -1,4 +1,7 @@
 {{ $s := newScratch }}
 {{ $s.Set "data" dict }}
 {{ $s.SetInMap "data" "url" .Permalink }}
+{{ with $.Params.image }}
+  {{ $s.SetInMap "data" "image" (. | absURL) }}
+{{ end }}
 {{ return $s.Get "data" }}
