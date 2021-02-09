@@ -21,6 +21,6 @@ Wherever you are on Oregon’s Adventure Coast: Coos Bay, North Bend & Charlesto
 
 If you want to get it to go, the **delis and grocery stores** throughout Coos Bay, North Bend, and Charleston will let you pick the ingredients for that picnic or camp out, or you can take them back to make a meal at your accommodations that feature kitchen amenities. Eat well, you’re going to need your energy.
 
-[Download our Restaurant Guide to carry with you on your vacation to the Oregon Coast!](/img/restaurants-guide-08012020.pdf)
+[Download our Restaurant Guide to carry with you on your vacation to the Oregon Coast!](/img/Restaurants-BOOKLET-01222021.pdf)
 
-[Download our Coffee Shops, Bakeries, & Specialty Shops Guide too!](/img/CoffeeShops-061820.pdf)
+[Download our Coffee Shops, Bakeries, & Specialty Shops Guide too!](/img/CoffeeShops-Bakery-01222021.pdf)
