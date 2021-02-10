@@ -8,5 +8,5 @@ product:
 title: Myrtlewood Pen - Slimline
 image: "/img/pens-slimline.jpg"
 hover_image: "/img/pens-all-three.jpg"
-
+description: Slimline pen hand-carved by area craftsman from locally sourced Myrtlewood.
 ---
