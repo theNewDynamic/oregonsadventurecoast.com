@@ -13,7 +13,15 @@
     <div class="card__title">
       {{ .Title }}
     </div>
-    {{ with .Params.product.description }}
+    {{ $description := "" }}
+    {{ with .Params.description }}
+      {{ $description = . }}
+    {{ else }}
+      {{ with .Params.product.description }}
+        {{ $description = . }}
+      {{ end }}
+    {{ end }}
+    {{ with $description }}
       <div class="card__copy">
         {{ . | markdownify }}
       </div>
