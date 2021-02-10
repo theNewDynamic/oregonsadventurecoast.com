@@ -16,8 +16,8 @@ cost: 3 - $$$
 property_description: Best Western Holiday Hotel offers a retreat for exploring the
   Oregon Coast, dunes, lighthouse, beaches, historic sites, and annual festivals &
   events. Located across the street from the Bay, within easy walking distance to
-  downtown shopping & dining. <b><a href="/storm15">Enjoy 15% OFF Storm Watching Lodging
-  Special!</a></b>
+  downtown shopping & dining. Comfortable, well-appointed rooms, some with in-room
+  hot tubs. <b><a href="/storm15">Enjoy 15% OFF Storm Watching Lodging Special!</a></b>
 website: http://www.bestwestern.com
 amenityList:
 - 2 - Continental or Full Bkfst
