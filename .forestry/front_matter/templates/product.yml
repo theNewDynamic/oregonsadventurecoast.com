@@ -17,6 +17,16 @@ fields:
   config:
     maxSize: 64
   label: Hover Image
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+  description: 'Description of the product to be displayed on the web site '
 - name: product
   type: field_group
   config: {}
