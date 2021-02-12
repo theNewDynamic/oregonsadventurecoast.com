@@ -1,12 +1,11 @@
 ---
 title: Lucky Me Charters
 property_description: Captain Roy leads fishing charters from Charleston Marina for
-  tuna, salmon, snapper, lingcod, halibut in a 2020 Hews 270 with twin 200hp. Captain
-  Roy uses all the latest electronics and fishing tackle and can accommodate up to
-  6 passengers. There are even separate restrooms for men and women! Captain Roy has
-  45 years fishing the Pacific coast, is Coast Guard licensed and insured. All day
-  or 1/2 day trips available. Come have a safe and fun trip. Whale watching trips
-  upon request.
+  tuna, salmon, snapper, lingcod, halibut and crab in a 2020 Hews 270 with twin 200hp.
+  Captain Roy uses all the latest electronics and fishing tackle and can accommodate
+  up to 6 passengers. A bathroom is available onboard. Captain Roy has 45 years fishing
+  the Pacific coast, is Coast Guard licensed and insured. Full day or 1/2 day trips
+  available. Come have a safe and fun trip. Whale watching trips upon request.
 property_name: Lucky Me Charters
 equip_type:
 - 1 - Tour
