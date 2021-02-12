@@ -13,9 +13,9 @@ equip_type:
 photo_name: "/img/lucky_me_craft.jpg"
 photo_alt: Take a fishing charter with Lucky Me Charters
 address:
-  street: ''
+  street: Charleston Marina
   street2: ''
-  city: ''
+  city: Charleston
   zip: ''
 phone_local: 541-948-3905
 phone_toll_free: ''
