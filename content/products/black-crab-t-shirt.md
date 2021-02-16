@@ -1,7 +1,7 @@
 ---
 product:
   price: 18
-  weight: 200
+  weight: 300
   description: Hanes Beefy-T in Black. Two colors printed on front.
   custom_fields:
   - template: product-field-size
