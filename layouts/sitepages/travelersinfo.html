@@ -7,14 +7,10 @@
         <h3>Resources</h3>
     
         <ul>
-            <li><a href="http://www.flyoth.com/" target="_blank">Airline Tickets and Travel</a></li>
-            <li><a href="/medical-urgent-dental">Medical, Urgent, Dental & Veterinary Services</a></li>
-            <li><a href="https://myodfw.com/" target="_blank">Recreation Report</a></li>
-            <li><a href="https://www.tripcheck.com/Pages/Road-Conditions?mainNav=RoadConditions&curRegion=4" target="_blank">Road & Travel Conditions</a></li>
-            <li><a href="/fishing-license-requirements">Fishing License Requirements</a></li>
-            <li><a href="https://tides4fishing.com/us/oregon/coos-bay" target="_blank">Tides4Fishing.com Tides & Solunar Charts</a></li>
-            <li><a href="https://www.tideschart.com/United-States/Oregon/Coos-Bay" target="_blank">TidesChart.com Tide Times & Tide Charts</a></li>
-            <li><a href="/social-media-disclaimer/">Social Media Disclaimer</a></li>
+            {{ range site.Menus.travelers }}
+                {{ $blank := in .URL "http" }}
+                <li><a href="{{ .URL }}" {{ if $blank }}target="_blank"{{ end }}>{{ .Name }}</a></li>
+            {{ end }}
         </ul>
     </div>
     

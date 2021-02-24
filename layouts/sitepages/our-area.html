@@ -7,14 +7,10 @@
         <h3>Our Area</h3>
     
         <ul>
-            <li><a href="/our-area">Our Area</a></li>
-            <li><a href="/our-area-coos-bay">Coos Bay</a></li>
-            <li><a href="/our-area-north-bend">North Bend</a></li>
-            <li><a href="/our-area-charleston">Charleston</a></li>
-            <li><a href="/tribal-heritage-coquilles">Tribal Heritage: Coquilles</a></li>
-            <li><a href="/steve-prefontaine-story">The Steve Prefontaine Story</a></li>
-            <li><a href="/bay-area-chamber">Bay Area Chamber</a></li>
-            <li><a href="/relocation-info-request">Relocation Info Request</a></li>
+            {{ range site.Menus.our_area }}
+                {{ $blank := in .URL "http" }}
+                <li><a href="{{ .URL }}" {{ if $blank }}target="_blank"{{ end }}>{{ .Name }}</a></li>
+            {{ end }}
         </ul>
     </div>
     
