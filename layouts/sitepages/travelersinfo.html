@@ -7,6 +7,9 @@
         <h3>Resources</h3>
     
         <ul>
+            {{ with site.GetPage "/covid-19-information" }}
+            <li><a href="{{ .RelPermalink }}">Coronavirus update</a></li>
+            {{ end }}
             <li><a href="http://www.flyoth.com/" target="_blank">Airline Tickets and Travel</a></li>
             <li><a href="/medical-urgent-dental">Medical, Urgent, Dental & Veterinary Services</a></li>
             <li><a href="https://myodfw.com/" target="_blank">Recreation Report</a></li>

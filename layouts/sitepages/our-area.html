@@ -15,6 +15,9 @@
             <li><a href="/steve-prefontaine-story">The Steve Prefontaine Story</a></li>
             <li><a href="/bay-area-chamber">Bay Area Chamber</a></li>
             <li><a href="/relocation-info-request">Relocation Info Request</a></li>
+            {{ with site.GetPage "/covid-19-information" }}
+            <li><a href="{{ .RelPermalink }}">Coronavirus update</a></li>
+            {{ end }}
         </ul>
     </div>
     
