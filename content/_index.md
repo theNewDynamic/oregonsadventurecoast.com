@@ -16,14 +16,13 @@ slideshow:
     source: "/img/waves-web-slidertext2.mp4"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
-  desktopphoto: "/img/hiking-shore-acres-desktop.jpg"
-  desktoptitle: Hiking
-  hoverdescription: We invite you to explore, to discover, to feel and to know . .
-    . at land's end, adventure begins
-  hovertitle: Happy Feet
-  mobilephoto: "/img/hm-mas-hiking-mobile.jpg"
-  mobiletitle: Hiking & Walking
-  url: "/hiking-walking/"
+  desktopphoto: "/img/store-image-desktop.jpg"
+  desktoptitle: Store
+  hoverdescription: Shop for Oregon's Adventure Coast gear!
+  hovertitle: Get Gear
+  mobilephoto: "/img/store-image-mobile.jpg"
+  mobiletitle: The Adventure Store
+  url: "/shop/"
 masonry2:
   desktopphoto: "/img/dunes-high-five-desktop.jpg"
   desktoptitle: High-fivin' in the Dunes

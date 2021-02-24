@@ -12,8 +12,10 @@
 			<div class="fade"></div>
 				<div class="m-social social">
 					<ul>
-						{{ with site.GetPage "/covid-19-information" }}
-						<li><a href="{{ .RelPermalink }}" class="emergency">Coronavirus update</a></li>
+						{{ if false }}
+							{{ with site.GetPage "/covid-19-information" }}
+							<li><a href="{{ .RelPermalink }}" class="emergency">Coronavirus update</a></li>
+							{{ end }}
 						{{ end }}
 						<li><a href="https://www.facebook.com/OregonsAdventureCoast" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
 						<li><a href="https://twitter.com/travelcoosbay" target="_blank"><i class="fab fa-twitter"></i></a></li>
@@ -24,6 +26,7 @@
 				</div>
 			
 				<ul class="util-nav">
+					<li><a href="/shop">Adventure Store</a></li>
 					<li><a href="/blog">Blog</a></li>
 					<li><a href="/contact">Contact Us</a></li>
 				</ul>

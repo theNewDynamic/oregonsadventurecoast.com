@@ -1,6 +1,6 @@
 ---
 title: Relocation Information
-layout: relocation-request
+layout: our-area
 url: "/relocation-info-request"
 photo: "/img/our-area-main.jpg"
 seo:
