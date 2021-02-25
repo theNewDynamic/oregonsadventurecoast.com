@@ -60,23 +60,23 @@ Tip: Always be sure to contact the hotel ahead of time to confirm that pet-frien
 Best Western Holiday Hotel offers a retreat for exploring the Oregon Coast, dunes, lighthouse, beaches, historic sites, and annual festivals & events. Located across the street from the Bay, within easy walking distance to downtown shopping & dining. 411 N. Bayshore Drive Coos Bay, OR 97420
 541-269-5111 | 800-228-8655
 
-**Captain John's Motel**
+[**Captain John's Motel**](https://capitanjohnsmotel.wixsite.com/captjohnsmotel)
 Located near the Charleston Marina, Captain John’s offers comfortable rooms with refrigerators and microwaves, free wi-fi, free boat parking, fish cleaning stations and is pet friendly. Weekly rates available. 63360 Kingfisher Drive Charleston, OR 97420
 541-888-4041
 
-**City Center Motel**
+[**City Center Motel**](https://citycentermotelnorthbend.wordpress.com/)
 Discover the center of comfort with modern amenities, luxurious accents, and generous hospitality. This is a hidden gem nestled in North Bend, close to Coos Bay and Oregon's beautiful beaches, hiking, dunes, outdoor adventures, shops & dining. 750 Connecticut Avenue North Bend, OR 97459
 541-808-3100
 
-**Edgewater Inn**
+[**Edgewater Inn**](https://edgewaterinns.com/edgewater-inn-coos-bay/)
 The perfect place to relax before setting off to explore the many recreational adventures close by. The Edgewater Inn offers comfortable rooms & suites with fridge, microwave, & free wifi. Fishing/observation deck offers beautiful views of the bay. 275 E. Johnson Avenue Coos Bay, OR 97420
 541-267-0423 | 800-233-0423
 
-**Mill Casino • Hotel & RV Park**
+[**Mill Casino • Hotel & RV Park**](https://www.themillcasino.com/)
 Experience over 200 well-appointed rooms and suites in our Tower and Lodge, Las Vegas-style gaming excitement, five excellent dining venues and live entertainment – all with a great view along scenic Coos Bay. Free WiFi, pool, hot tub & pets welcome. 3201 Tremont Avenue North Bend, OR 97459
 541-756-8800 | 800-953-4800
 
-**Motel 6**
+[**Motel 6**](https://www.motel6.com/content/g6/en/home/hotel-search.html)
 Located on Hwy 101 in Coos Bay, Motel 6 offers a variety of modern rooms with in-room spa tubs, kitchenettes, & free wifi. Within 5 miles of shopping, dining & entertainment in both Coos Bay and North Bend. 1445 N. Bayshore Drive Coos Bay, OR 97420
 541-267-7171 | 800-466-8356
 
