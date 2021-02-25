@@ -80,23 +80,23 @@ Experience over 200 well-appointed rooms and suites in our Tower and Lodge, Las 
 Located on Hwy 101 in Coos Bay, Motel 6 offers a variety of modern rooms with in-room spa tubs, kitchenettes, & free wifi. Within 5 miles of shopping, dining & entertainment in both Coos Bay and North Bend. 1445 N. Bayshore Drive Coos Bay, OR 97420
 541-267-7171 | 800-466-8356
 
-**Parkside Motel**
+[**Parkside Motel**](http://www.parkside-motel.com/)
 Just minutes away from shopping, casinos, dunes and the beautiful Oregon Coast, the Parkside Motel is the perfect place to stay for the budget-minded traveler. Clean, comfortable and homey rooms. Parkside Motel offers weekly rates for longer stays. 1480 Sherman Avenue North Bend, OR 97459
 541-751-9344
 
-**Plainview Motel & RV Park**
+[**Plainview Motel & RV Park**](https://www.plainviewmotel.com/)
 Sometimes referred to as the Mural Motel, Plainview Motel & RV Park is located along the beautiful Southern Oregon Coast near Charleston. Visitors have the option of basic motel type rooms, RV parking, or vacation type rentals located on Coos Bay. 91904 Cape Arago Hwy. Coos Bay, OR 97420
 541-888-5166
 
-**Quality Inn & Suites at Coos Bay**
+[**Quality Inn & Suites at Coos Bay**](https://www.coosbayinn.com/)
 Quality Inn & Suites Coos Bay is located 1 mile from SW Oregon Regional Airport. Nestled on Oregon's breathtaking coast, we are this hotel is minutes from incredible attractions & natural treasures. Enjoy shopping, museums, gaming, entertainment & dining close by. 1503 Virginia Avenue North Bend, OR 97459
 541-756-3191
 
-**Red Lion Hotel**
+[**Red Lion Hotel**](https://www.redlion.com/red-lion-hotels/or/coos-bay/red-lion-hotel-coos-bay)
 Experience Red Lion's signature blend of comfort and convenience mere blocks from the bay. Spread out in comfortable rooms that feature plush pillow-top beds, free Wi-Fi and HBO. Brickstone offers delicious dinners and Red Lion's Signature breakfast. 1313 N. Bayshore Drive Coos Bay, OR 97420
 541-267-4141
 
-**Super 8 by Wyndham**
+[**Super 8 by Wyndham**](https://www.wyndhamhotels.com/super-8/coos-bay-oregon/super-8-coos-bay-north-bend/overview?brand_id=SE&checkin_date=10/4/2018&checkout_date=10/5/2018&useWRPoints=false&children=0&adults=1&rooms=1&radius=25&brand_code=BH,DI,RA,BU,HJ,KG,MT,SE,TL,WG,WY,WT,WP,VO,DX,TM,CE,AA&PriceFilter=0-2147483647&latitude=43.3665007&longitude=-124.21789030000002&referring_&referring_brand=SE)
 Super 8 Coos Bay/North Bend by Wyndham is your gateway for exploring the Oregon coast. Quick access to Hwy 101 makes it easy to explore the Oregon Bay area. Well-appointed rooms include flat-screen TVs, free WiFi and complimentary breakfast. 1001 N. Bayshore Drive Coos Bay, OR 97420
 541-808-0700
 
