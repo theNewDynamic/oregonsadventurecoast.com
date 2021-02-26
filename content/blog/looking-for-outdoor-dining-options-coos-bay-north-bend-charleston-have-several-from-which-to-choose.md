@@ -66,7 +66,7 @@ The Boat – Covered outdoor dining, 11am-8pm daily
 
 Walt’s Pourhouse – Outdoor patio dining (covered & uncovered) open daily
 
-{{< spacer 25 >}}
+{{< spacer 50 >}}
 
 ![](/img/ciccarellis-2.jpg "Ciccarelli's Covered Outdoor Seating is a lovely setting for dessert & coffee.")
 
@@ -98,7 +98,7 @@ The Mill Casino Hotel-Restaurants – Plankhouse open for dine-in Weds-Sun, Ware
 
 Tin Thistle Café – patio seating available Tues-Sat 11am-4pm
 
-{{< spacer 25 >}}
+{{< spacer 50>}}
 
 ![](/img/high-tide.jpg "High Tide Cafe's Outdoor Seating Overlooks the Slough")
 
