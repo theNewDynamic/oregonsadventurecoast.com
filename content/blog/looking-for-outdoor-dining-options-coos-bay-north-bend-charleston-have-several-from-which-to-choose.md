@@ -68,6 +68,8 @@ Walt’s Pourhouse – Outdoor patio dining (covered & uncovered) open daily
 
 {{< spacer 25 >}}
 
+![](/img/ciccarellis-2.jpg "Ciccarelli's Covered Outdoor Seating is a lovely setting for dessert & coffee.")
+
 ### North Bend
 
 Back Alley Pub & Grill – Covered Patio seating with heat, 11am-11pm daily
@@ -97,6 +99,8 @@ The Mill Casino Hotel-Restaurants – Plankhouse open for dine-in Weds-Sun, Ware
 Tin Thistle Café – patio seating available Tues-Sat 11am-4pm
 
 {{< spacer 25 >}}
+
+![](/img/high-tide.jpg "High Tide Cafe's Outdoor Seating Overlooks the Slough")
 
 ### Charleston
 
