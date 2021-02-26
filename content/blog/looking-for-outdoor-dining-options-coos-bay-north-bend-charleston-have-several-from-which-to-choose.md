@@ -20,13 +20,13 @@ warning_copy: ''
 draft: true
 
 ---
-#### During this time of COVID, dining at our favorite restaurants has been noted as the “most missed activity” by our informal pole. We also see queries on social media, almost daily, for recommendations for local dining options that offer outside dining around Oregon’s Adventure Coast: Coos Bay, North Bend, & Charleston.
+##### During this time of COVID, dining at our favorite restaurants has been noted as the “most missed activity” by our informal pole. We also see queries on social media, almost daily, for recommendations for local dining options that offer outside dining around Oregon’s Adventure Coast: Coos Bay, North Bend, & Charleston.
 
 We have compiled a list of those restaurants that are offering outdoor dining now, and will add to it as more restaurants open outdoor spaces.
 
-_* We recommend calling the restaurant of your choice prior to visiting. Most are now taking reservations for their outdoor dining tables as space is limited and demand is high._
+_We recommend calling the restaurant of your choice prior to visiting. Most are now taking reservations for their outdoor dining tables as space is limited and demand is high._
 
-If you prefer to grab some take out and eat it while watching the sunset from Sunset Bay State Park, visit our Dining Page for the full list of restaurants in the area!
+If you prefer to grab some take-out and eat it while watching the sunset from Sunset Bay State Park or another wonderful vantage point along our rugged coastline, visit our [Dining Page](/dining/) for the full list of restaurants in the area!
 
 {{< spacer 25 >}}
 
