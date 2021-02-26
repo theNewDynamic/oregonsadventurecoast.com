@@ -116,9 +116,9 @@ Portside Restaurant & Lounge – Covered Outdoor dining with heat, 11am-10pm dai
 
 {{< spacer 10 >}}
 
-{{< spacer 25 >}}
+{{< spacer 50 >}}
 
-Editor’s Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html), [Oregon Health Authority](https://www.oregon.gov/oha/pages/index.aspx), and [Coos Health & Wellness](https://cooshealthandwellness.org/) to protect yourself, our community and our visitors. Visit the state’s [Safe+Strong Oregon](https://www.safestrongoregon.org/) page for more information.
+**Editor’s Note:** As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html), [Oregon Health Authority](https://www.oregon.gov/oha/pages/index.aspx), and [Coos Health & Wellness](https://cooshealthandwellness.org/) to protect yourself, our community and our visitors. Visit the state’s [Safe+Strong Oregon](https://www.safestrongoregon.org/) page for more information.
 
 On January 15, 2021, Coos County has moved back into the Extreme Category. This category limits social gatherings to no more than 6 attendees from up to 2 households. This category also closes gyms & fitness centers, indoor recreation facilities including museums, limits the number of patrons that can be inside retail establishments, and closes restaurants & bars to all but outdoor dining (limited seating) and take-out.
 
