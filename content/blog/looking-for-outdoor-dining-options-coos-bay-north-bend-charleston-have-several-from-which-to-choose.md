@@ -91,7 +91,7 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 
 {{< spacer 10 >}}
 
-[**Ciccarelli’s Restaurant & Roastery**](https://www.ciccarellis.net/) **– Covered patio dining for breakfast, lunch or dinner; Tues-Sat 9am-3pm & 4pm-8pm**  
+[**Ciccarelli’s Restaurant & Roastery**](https://www.ciccarellis.net/) **– Covered heated patio; restaurant open for dinner only 4pm-8pm; Roastery open 9am-8pm**  
 2076 Sherman Ave. North Bend OR, 97459  
 (541)751-1999
 
@@ -121,7 +121,7 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 
 {{< spacer 10 >}}
 
-[**Tin Thistle Café**](https://www.facebook.com/thetinthistlecafe/) **– patio seating available Tues-Sat 11am-4pm**  
+[**Tin Thistle Café**](https://www.facebook.com/thetinthistlecafe/) **– Garden seating available Tues-Sat 11am-2pm**  
 1972 Sherman Ave. North Bend OR, 97459  
 (541)267-0267
 
