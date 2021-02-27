@@ -75,7 +75,7 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 
 {{< spacer 10 >}}
 
-[**Walt’s Pourhouse**](https://www.waltspourhouse.com/) **– Outdoor patio dining (covered & uncovered), Mon-Fri 3pm-2am; Sat-Sun 9am-2am**  
+[**Walt’s Pourhouse**](https://www.waltspourhouse.com/) **– Outdoor patio dining (covered & uncovered), Mon-Fri 3pm-11pm; Sat-Sun 9am-11pm**  
 1880 N. 7th St. Coos Bay OR, 97420  
 (541)267-5588
 
