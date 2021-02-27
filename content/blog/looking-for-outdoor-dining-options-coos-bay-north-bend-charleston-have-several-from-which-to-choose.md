@@ -1,7 +1,7 @@
 ---
 title: Looking for Outdoor Dining Options? Coos Bay, North Bend & Charleston have
   Several from Which to Choose!
-date: 2021-02-27T00:00:00+00:00
+date: 2021-02-27T01:00:00+00:00
 description: A comprehensive list of outdoor dining venues on Oregon's Adventure Coast
 image: "/img/back-alley-outdoor.jpg"
 tags:
@@ -17,10 +17,9 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
-**During this time of COVID, dining at our favorite restaurants has been noted as the “most missed activity” by our informal pole. We also see queries on social media, almost daily, for recommendations for local dining options that offer outside dining around Oregon’s Adventure Coast: Coos Bay, North Bend, & Charleston.**
+**During this time of COVID, dining at our favorite restaurants has been noted as the “most missed activity” according to our informal pole. We also see queries on social media, almost daily, for recommendations for local dining options that offer outside dining around Oregon’s Adventure Coast: Coos Bay, North Bend, & Charleston.**
 
 We have compiled a list of those restaurants that are offering outdoor dining now, and will add to it as more restaurants open outdoor spaces. 
 
