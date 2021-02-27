@@ -76,39 +76,55 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 
 {{< spacer 10 >}}
 
-Walt’s Pourhouse – Outdoor patio dining (covered & uncovered) open daily
+[**Walt’s Pourhouse**](https://www.waltspourhouse.com/) **– Outdoor patio dining (covered & uncovered), Mon-Fri 3pm-2am; Sat-Sun 9am-2am**  
+1880 N. 7th St. Coos Bay OR, 97420  
+(541)267-5588
 
-{{< spacer 50 >}}
+{{< spacer 50 >}}{{< spacer 10 >}}{{< spacer 10 >}}{{< spacer 100 >}}{{< spacer 100 >}}
 
 ![](/img/ciccarellis-2.jpg "Ciccarelli's Covered Outdoor Seating is a lovely setting for dessert & coffee.")
 
 ### North Bend
 
-Back Alley Pub & Grill – Covered Patio seating with heat, 11am-11pm daily
+[**Back Alley Pub & Grill**](https://northbendlanes.com/bar-grill/) **– Covered Patio seating with heat, 11am-11pm daily**  
+1225 Virginia Ave. North Bend OR, 97459  
+(541)756-0571
 
 {{< spacer 10 >}}
 
-Ciccarelli’s Restaurant & Roastery – Covered patio dining for breakfast, lunch or dinner; Tues-Sat 9am-3pm & 4pm-8pm
+[**Ciccarelli’s Restaurant & Roastery**](https://www.ciccarellis.net/) **– Covered patio dining for breakfast, lunch or dinner; Tues-Sat 9am-3pm & 4pm-8pm**  
+2072 Sherman Ave. North Bend OR, 97459  
+(541)751-1999
 
 {{< spacer 10 >}}
 
-Clausen Oysters Bistro – Outdoor picnic style dining Weds –Sat 10am-4pm
+[**Clausen Oysters Bistro**](https://www.clausenoysters.com/restaurant/) **– Outdoor picnic style dining Weds –Sat 10am-4pm**  
+66234 North Bay Road North Bend OR, 97459  
+(541)756-3600
 
 {{< spacer 10 >}}
 
-El Coyote Mexican Restaurant – Covered outdoor seating with heat, Sun-Fri 11am-9pm
+[**El Coyote Mexican Restaurant**](https://www.facebook.com/El-Coyote-Mexican-Restaurant-104827981227108/) **– Covered outdoor seating with heaters, Sun-Fri 11am-9pm**  
+1930 Newmark St. North Bend OR  
+(541)808-0177
 
 {{< spacer 10 >}}
 
-La Herradura – Covered outdoor dining with heat, 11am-9pm daily
+[**La Herradura**](https://www.facebook.com/La-Herradura-Mexican-Restaurant-632773200099437/) **– Covered outdoor dining with heaters, 11am-9pm daily**  
+1430 Vermont St. North Bend OR, 97459  
+(541)756-0906
 
 {{< spacer 10 >}}
 
-The Mill Casino Hotel-Restaurants – Plankhouse open for dine-in Weds-Sun, Warehouse 101 open for dine-in daily; Timbers Café open for to-go daily. Covered outdoor dining along the boardwalk, bring your to-go from whatever venue you like. Plate LLC Food Truck on the boardwalk Friday, Saturday & Sunday.
+[**The Mill Casino Hotel-Restaurants**](https://www.themillcasino.com/dining-bars/) **– Covered outdoor dining along the boardwalk, bring your to-go from The Mill's Indoor Restaurants.** [**Plate LLC**](https://www.facebook.com/platefoodtruck) **Food Truck on the boardwalk Friday, Saturday & Sunday.**  
+3201 Tremont Ave. North Bend OR, 97459  
+(541)756-8800
 
 {{< spacer 10 >}}
 
-Tin Thistle Café – patio seating available Tues-Sat 11am-4pm
+[**Tin Thistle Café**](https://www.facebook.com/thetinthistlecafe/) **– patio seating available Tues-Sat 11am-4pm**  
+1972 Sherman Ave. North Bend OR, 97459  
+(541)267-0267
 
 {{< spacer 50>}}
 
