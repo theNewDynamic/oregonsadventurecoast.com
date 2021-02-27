@@ -40,27 +40,39 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 
 {{< spacer 10 >}}
 
-Captain’s Cabin – Covered patio seating in their new location 8am-10pm daily
+[**Captain’s Cabin**](https://www.facebook.com/Captains-Cabin-Bar-101307443269162) **– Covered patio seating in their new location 8am-10pm daily**  
+3290 Ocean Blvd. SE Coos Bay OR, 97420  
+(541)267-7772
 
 {{< spacer 10 >}}
 
-Coach House Restaurant & Lounge – Covered outdoor seating with heat, Mon-Sat11am-8pm, Sun 4pm-8pm
+[**Coach House Restaurant & Lounge**](https://www.thecoachhousecoosbayor.com/) **– Covered outdoor seating with heaters, Mon-Sat 11am-8pm, Sun 4pm-8pm**  
+604 6th Ave. Coos Bay OR, 97420  
+(541)267-5116
 
 {{< spacer 10 >}}
 
-Front Street Provisioners – Tues-Sat 11am-8pm; Sun 3pm-8pm
+[**Front Street Provisioners**](http://frontstreetprovisioners.com/) **– Outdoor Seating on new patio, Tues-Sat 11am-8pm; Sun 3pm-8pm**  
+737 N. Front St. Coos Bay OR, 97420  
+(541)808-3420
 
 {{< spacer 10 >}}
 
-Restaurant O – Limited outdoor dining with heat, Tues-Sun Noon-8pm, dependent on weather.
+[**Restaurant O**](http://restauranto.us/) **– Limited outdoor dining with heat, Tues-Sun Noon-8pm, weather permitting**  
+260 S. Broadway Coos Bay OR, 97420  
+(541)808-9300
 
 {{< spacer 10 >}}
 
-Stockpot Restaurant – covered outdoor dining with heat, 6am-2pm daily
+**Stockpot Restaurant – covered outdoor dining with heaters, 6am-2pm daily**  
+63097 Barry St. Coos Bay OR, 97420 (Corner of Hwy 101 South)  
+(541)266-7070
 
 {{< spacer 10 >}}
 
-The Boat – Covered outdoor dining, 11am-8pm daily
+[**The Boat**](https://www.facebook.com/The-Boat-1658642967582777/) **– Covered outdoor dining, 11am-8pm daily**  
+102 Hall Ave Coos Bay OR, 97420 (corner of Hwy 101 North)  
+(541)808-9500
 
 {{< spacer 10 >}}
 
