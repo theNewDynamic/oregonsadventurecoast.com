@@ -51,7 +51,7 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 
 {{< spacer 10 >}}
 
-[**Front Street Provisioners**](http://frontstreetprovisioners.com/) **– Outdoor Seating on new patio, Tues-Sat 11am-8pm; Sun 3pm-8pm**  
+[**Front Street Provisioners**](http://frontstreetprovisioners.com/) **– Outdoor Seating on new patio, Tues 1pm-9pm; Wed-Sat Noon-9pm; Sun 3pm-8pm**  
 737 N. Front St. Coos Bay OR, 97420  
 (541)808-3420
 
@@ -149,7 +149,7 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 
 {{< spacer 10 >}}
 
-[**Portside Restaurant & Lounge**](http://www.portsidebythebay.com/) **– Covered Outdoor dining with heaters, 11am-10pm daily**  
+[**Portside Restaurant & Lounge**](http://www.portsidebythebay.com/) **– Covered Outdoor dining with heaters, 11:30am-8:30pm daily**  
 63383 Kingfisher Rd. Charleston OR, 97420  
 (541)888-5544
 
