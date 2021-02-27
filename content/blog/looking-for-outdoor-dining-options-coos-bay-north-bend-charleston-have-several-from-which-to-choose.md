@@ -132,21 +132,27 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 
 ### Charleston
 
-Crabby Cakes Bakery – picnic style seating outside, Weds-Sun 9am-3pm
+[**Crabby Cakes Bakery**](https://www.facebook.com/Crabby-Cakes-Bakery-183368818480720/) **– picnic-style seating outside, Weds-Sun 9am-3pm**  
+63345 Boat Basin Rd. Charleston OR, 97420  
+(541)808-2388
 
 {{< spacer 10 >}}
 
-High Tide Café – Covered outdoor dining with heat; Weds-Sun 11am-8pm
+[**High Tide Café**](https://hightidecafeor.com/) **– Covered outdoor dining with heaters; Weds-Sun 11am-8pm**  
+1124 Cape Arago Hwy Charleston OR, 97420  
+(541)808-3128
 
 {{< spacer 10 >}}
 
-Monkey Business – Food Truck with picnic tables available on site, 10am-4pm daily
+[**Monkey Business**](https://monkey-business-food-to-go.business.site/) **– Food Truck with picnic tables available on site, 10am-4pm daily**  
+63534 Kingfisher Rd. Charleston OR  
+(541)260-4145
 
 {{< spacer 10 >}}
 
-Portside Restaurant & Lounge – Covered Outdoor dining with heat, 11am-10pm daily
-
-{{< spacer 10 >}}
+[**Portside Restaurant & Lounge**](http://www.portsidebythebay.com/) **– Covered Outdoor dining with heaters, 11am-10pm daily**  
+63383 Kingfisher Rd. Charleston OR, 97420  
+(541)888-5544
 
 {{< spacer 50 >}}
 
