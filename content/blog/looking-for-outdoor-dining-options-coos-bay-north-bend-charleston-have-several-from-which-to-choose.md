@@ -21,7 +21,7 @@ warning_copy: ''
 ---
 **During this time of COVID, dining at our favorite restaurants has been noted as the “most missed activity” according to our informal pole. We also see queries on social media, almost daily, for recommendations for local dining options that offer outside dining around Oregon’s Adventure Coast: Coos Bay, North Bend, & Charleston.**
 
-We have compiled a list of those restaurants that are offering outdoor dining now, and will add to it as more restaurants open outdoor spaces. 
+We have compiled a list of those restaurants that are offering outdoor dining now, and will add to it as more restaurants open outdoor spaces.
 
 _We recommend calling the restaurant of your choice prior to visiting. Most are now taking reservations for their outdoor dining tables as space is limited and demand is high_.
 
@@ -92,7 +92,7 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 {{< spacer 10 >}}
 
 [**Ciccarelli’s Restaurant & Roastery**](https://www.ciccarellis.net/) **– Covered patio dining for breakfast, lunch or dinner; Tues-Sat 9am-3pm & 4pm-8pm**  
-2072 Sherman Ave. North Bend OR, 97459  
+2076 Sherman Ave. North Bend OR, 97459  
 (541)751-1999
 
 {{< spacer 10 >}}

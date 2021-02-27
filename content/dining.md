@@ -24,3 +24,5 @@ If you want to get it to go, the **delis and grocery stores** throughout Coos Ba
 [Download our Restaurant Guide to carry with you on your vacation to the Oregon Coast!](/img/Restaurants-BOOKLET-01222021.pdf)
 
 [Download our Coffee Shops, Bakeries, & Specialty Shops Guide too!](/img/CoffeeShops-Bakery-01222021.pdf)
+
+**Looking for Outdoor Dining Options? Click Here!**
