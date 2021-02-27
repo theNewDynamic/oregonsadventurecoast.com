@@ -25,4 +25,4 @@ If you want to get it to go, the **delis and grocery stores** throughout Coos Ba
 
 [Download our Coffee Shops, Bakeries, & Specialty Shops Guide too!](/img/CoffeeShops-Bakery-01222021.pdf)
 
-**Looking for Outdoor Dining Options? Click Here!**
+[**Looking for Outdoor Dining Options? Click Here!**](/blog/looking-for-outdoor-dining-options-coos-bay-north-bend-charleston-have-several-from-which-to-choose/)
