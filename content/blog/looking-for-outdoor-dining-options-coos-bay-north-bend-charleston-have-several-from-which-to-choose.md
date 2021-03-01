@@ -125,6 +125,12 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 1972 Sherman Ave. North Bend OR, 97459  
 (541)267-0267
 
+{{< spacer 10 >}}
+
+[**Tiny's Tavern**](https://www.facebook.com/tinystavernofnorthbend) **- Covered outdoor dining with heaters, Noon-11pm daily**  
+1971 Union Ave. North Bend OR, 97459  
+(541)756-7675
+
 {{< spacer 50>}}
 
 ![](/img/high-tide.jpg "High Tide Cafe's Outdoor Seating Overlooks the Slough")
