@@ -12,13 +12,13 @@ address:
   zip: '97459'
 phone_toll_free: 
 phone_local: 541-808-3100
-units: '20'
+units: 20
 cost: 2 - $$
 property_description: Discover the center of comfort with modern amenities, luxurious
   accents, and generous hospitality. This is a hidden gem nestled in North Bend, close
   to Coos Bay and Oregon's beautiful beaches, hiking, dunes, outdoor adventures, shops
   & dining.
-website: http://www.citycentermotelnorthbend.com
+website: https://citycentermotelnorthbend.wordpress.com
 amenityList:
 - 1 - Restaurant/Bar/Rm Service
 - 2 - Continental or Full Bkfst
