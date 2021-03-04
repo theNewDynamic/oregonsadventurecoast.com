@@ -109,6 +109,12 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 
 {{< spacer 10 >}}
 
+[**El Guadalajara Mexican Restaurant**](https://www.facebook.com/El-Guadalajara-resturant-138025569587712) **- Covered outdoor seating, Sunday-Thursday, 11am-9pm, Friday, 11am-11pm, Saturday, 11am-10pm**  
+3491 Broadway Avenue North Bend OR, 97459   
+(541) 756-3030
+
+{{< spacer 10 >}}
+
 [**La Herradura**](https://www.facebook.com/La-Herradura-Mexican-Restaurant-632773200099437/) **– Covered outdoor dining with heaters, 11am-9pm daily**  
 1430 Vermont St. North Bend OR, 97459  
 (541)756-0906
