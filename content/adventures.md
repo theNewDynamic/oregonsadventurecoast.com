@@ -146,7 +146,7 @@ seo:
   title: Oregon Coast Trips Vacations - Things to Do | Oregon's Adventure Coast
 
 ---
-Take a vacation to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities with a variety of exciting things to do; like Oregon Coast crabbing, clamming, salmon fishing, sand dune hiking, and more! Choose a few activities that will match your appetite for adventure! 
+Take a vacation to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities with a variety of exciting things to do; like Oregon Coast crabbing, clamming, salmon fishing, sand dune hiking, and more! Choose a few activities that will match your appetite for adventure!
 
 <div style="width:100%"><a href="/storm15"><img src="/img/storm-watching-15-off-special-2021.jpg" alt="15% Off Storm Watching Lodging Special in Coos Bay, North Bend, Charleston" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
 
@@ -154,7 +154,7 @@ Take a vacation to Oregon’s Adventure Coast, where the land meets the bay and 
 
 <h2>Discover Outdoor Activities, Shopping, & Events on the Oregon Coast</h2>
 
-We invite you to explore, to discover, to feel, and to know the incredible adventures waiting for your when you choose to take a trip to the coast. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do, full of adventure, nature, wildlife, culture, arts, shopping, and athletics.
+We invite you to explore, to discover, to feel, and to know the incredible adventures waiting for you when you choose to take a trip to the coast. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do, full of adventure, nature, wildlife, culture, arts, shopping, and athletics.
 
 {{< spacer 30 >}}
 
