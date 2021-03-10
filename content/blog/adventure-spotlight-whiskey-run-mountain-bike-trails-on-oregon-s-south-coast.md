@@ -1,6 +1,6 @@
 ---
 title: 'Adventure Spotlight: Whiskey Run Mountain Bike Trails on Oregon’s South Coast'
-date: 2021-02-18T05:00:00+00:00
+date: 2021-02-18T05:00:00.000+00:00
 description: The Whiskey Run Mountain Biking Trail System, open year-round, flows
   and winds on cross-country style trails for more than 22 miles. Riders are treated
   to sweeping views of the Coos County Forest, tranquil streams, and fern covered
@@ -57,3 +57,12 @@ Other local destinations for avid mountain bikers to explore include-
 [EMPIRE LAKES](http://coosbay.org/uploads/PDF/Operations/Parks/John_Topits_Park/JOHN_TOPITS_PARK_TRAIL_MAP.pdf)
 
 [EUPHORIA RIDGE TRAILS](https://www.trailforks.com/trails/euphoria-ridge-middle/)
+
+\---------   
+Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.  
+  
+Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.   
+  
+If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.  
+   
+Please visit [https://ecs.page.link/xhV4h](https://ecs.page.link/xhV4h "https://ecs.page.link/xhV4h") for more information.

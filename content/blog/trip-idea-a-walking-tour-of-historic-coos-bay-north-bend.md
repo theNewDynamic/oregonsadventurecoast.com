@@ -1,6 +1,6 @@
 ---
 title: 'Trip Idea: A Walking Tour of Historic Coos Bay & North Bend'
-date: 2021-02-09T05:00:00+00:00
+date: 2021-02-09T05:00:00.000+00:00
 description: 'The past and present converge as you stroll through historic regions
   of Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. '
 image: "/img/coos-bay-north-bend-walking-tour-blog-695x322-jpg.png"
@@ -69,3 +69,12 @@ This bay front museum is operated by Oregon’s oldest historical society. It bo
 Fans of Steve Prefontaine will enjoy this one-of-a-kind experience led by his sister [Linda Prefontaine](https://www.oregonsadventurecoast.com/blog/local-spotlight-linda-prefontaine-of-tour-de-pre/). This personal tour takes you through the Coos Bay area and explores where Pre grew up as you hear personal stories and anecdotes that only Linda can offer. Please note: COVID-19 restrictions may have altered the hours or availability of this tour.
 
 You can also [explore additional Coos Bay & North Bend Downtown Walking Maps by clicking here](https://www.oregonsadventurecoast.com/img/walking-map-cbnb.pdf) where you will find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns. [Click here](https://www.oregonsadventurecoast.com/tripideas/) for more trip ideas and information.
+
+\---------   
+Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.  
+  
+Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.   
+  
+If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.  
+   
+Please visit [https://ecs.page.link/xhV4h](https://ecs.page.link/xhV4h "https://ecs.page.link/xhV4h") for more information.
