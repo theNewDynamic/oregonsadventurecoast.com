@@ -1,10 +1,27 @@
 ---
 title: Eight Things You Need to Know to Plan Your Oregon Coast Fishing Adventure
 date: 2021-03-10T05:00:00+00:00
-description: ''
+description: 'Whether you want to fish by boat, by foot, by kayak or by charter, there
+  is a fishing adventure that is waiting for you on Oregon’s Adventure Coast! Here
+  are eight things you need to know as you plan your trip. '
 image: "/img/oregon-coast-fishing-blog-695x322-jpg-6.png"
-tags: []
-categories: []
+tags:
+- 'fishing '
+- 'crabbing '
+- clamming
+- 'local fishing '
+- 'North Bend '
+- 'Coos Bay '
+- Charleston
+- " Oregon Coast"
+- 'Oregon Coast Hotels '
+- 'Fishing Trip '
+- 'Oregon Coast Fishing '
+- Best Oregon Coast Fishing
+categories:
+- Clamming
+- Crabbing
+- Fishing
 seo:
   title: ''
   description: ''
@@ -14,7 +31,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 Fishing, crabbing and clamming on [Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston](https://www.oregonsadventurecoast.com/adventures/) has long been a favorite pastime for locals and visitors of all generations. Now that the pandemic has altered how we travel and recreate, it’s enjoying a surge in popularity like never before. [Fishing, crabbing and clamming](https://www.oregonsadventurecoast.com/fishing/) are among the safest ways for beginner and seasoned anglers to enjoy the great outdoors and make memories that will last forever.
@@ -188,3 +204,12 @@ Kayak Fishing
 
 Winter Steelhead Fishing
 [Winter Steelhead Fishing Trip Idea](https://www.oregonsadventurecoast.com/blog/winter-steelhead-fishing-forecast-for-2019/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter)
+
+\---------   
+Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.  
+  
+Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.   
+  
+If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.  
+   
+Please visit [https://ecs.page.link/xhV4h](https://ecs.page.link/xhV4h "https://ecs.page.link/xhV4h") for more information.
