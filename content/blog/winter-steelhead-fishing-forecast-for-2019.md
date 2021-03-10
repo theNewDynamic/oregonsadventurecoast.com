@@ -1,6 +1,6 @@
 ---
 title: 'Your Guide to Winter Steelhead Fishing Tips on Oregon''s Adventure Coast '
-date: 2021-01-07T05:00:00+00:00
+date: 2021-01-07T05:00:00.000+00:00
 description: 'Winter steelhead fishing is one of our most popular outdoor recreational
   activities here on Oregon''s Adventure Coast: Coos Bay, North Bend and Charleston
   during the winter months. Local fishing expert, Gary Vonderohe from the Oregon Department
@@ -60,7 +60,7 @@ You can also learn more by reading the following resources:
 
 [Fishing on Oregon's Adventure Coast: Coos Bay, North Bend, Charleston ](https://www.oregonsadventurecoast.com/fishing/)
 
-[Oregon's Advenuture Coast Fishing Guidelines ](https://www.oregonsadventurecoast.com/img/rackcard-fishing-03-18.pdf)
+[Oregon's Adventure Coast Fishing Guidelines ](https://www.oregonsadventurecoast.com/img/rackcard-fishing-03-18.pdf)
 
 [Winter Steelhead Fishing Trip Idea](https://www.oregonsadventurecoast.com/tripideas/winter-steelhead-fishing-trip-idea/)
 
@@ -69,3 +69,12 @@ You can also learn more by reading the following resources:
 [Winter Fun On Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/tripideas/winter-fun-in-oregons-adventure-coast/)
 
 [Winter Steelhead Fishing in Oregon’s Umpqua, Coos and Coquille Rivers](https://www.bestfishinginamerica.com/OR-winter-steelhead-umpqua-coos.html)
+
+\---------   
+Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.  
+  
+Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.   
+  
+If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.  
+   
+Please visit [https://ecs.page.link/xhV4h](https://ecs.page.link/xhV4h "https://ecs.page.link/xhV4h") for more information.
