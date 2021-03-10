@@ -54,96 +54,62 @@ You’ll have your choice of prime fishing spots to select from with more than [
 ### IN COOS BAY
 
 **COOS BAY BOARDWALK**
-
 _Salmon_
-
 Relatively easy bank fishing for fall Chinook and coho salmon from the boardwalk in downtown Coos Bay. Located at the foot of Anderson St. and Central Ave.
-
 Amenities: picnic
 
-  
 **DORA’S PLACE BOAT RAMP**
-
 _Salmon, shad_
-
 Boat ramp on lower Millicoma River about 1/4 mi. upriver from its confluence with South Coos River. Take Coos River Hwy 241 east out of Coos Bay. About 3 miles out of town, cross the green Chandler Bridge and continue up Coos River about 4 miles to Dora’s Place.
-
 Amenities: boat launch or ramp
 
 **EMPIRE BOAT RAMP & PIER**
-
 _Surfperch, crab, salmon_
-
 Fishing and crabbing pier, boat ramp and fish cleaning station. Located at the west end of Newmark Ave. in Coos Bay’s Empire District.
-
 Amenities: boat launch or ramp; picnic; restrooms
 
 **EMPIRE LAKES**
-
 _Rainbow trout, bluegill, crappie, yellow perch, largemouth bass_
-
 Rainbow trout and warm water fishery in both Middle and Lower Empire lakes. The lakes are within John Topits City Park and have primitive gravel launches for canoes, kayaks and non-motorized boats. Paved trail system around the lakes. Two entrances off Newmark Ave. in Coos Bay near Southwestern Oregon Community College.
-
 Amenities: boat launch or ramp; picnic; restrooms
 
 **MYRTLE TREE BOAT RAMP**
-
 _Salmon, shad_
-
 Take Coos River Hwy 241 east out of Coos Bay. Turn left to pass under the green Chandler Bridge and continue up the Coos River Hwy about 4 miles.
-
 Amenities: picnic; restrooms; campground
 
 **ROOKE-HIGGINS BOAT RAMP**
-
 _Salmon, shad_
-
 Fall salmon and spring shad fishing in tidewater of Millicoma River. Take Coos River Hwy 241 east out of Coos Bay. Cross the green Chandler Bridge and continue up the Coos River and Millicoma River about 6 miles. Located next to Rooke-Higgins County Park.
-
 Amenities: boat launch or ramp; picnic; restrooms; campground
 
 ### IN NORTH BEND
 
 **BUTTERFIELD LAKE**
-
 _Rainbow trout, bass, warmouth_
-
 Butterfield is the only area lake known to have warmouth, a small but aggressive panfish. Primitive, gravel launch for non-motorized watercraft. From North Bend, take Hwy 101 about 6 miles north to Riley Ranch County Park/Campground.
-
 Amenities: restrooms; picnic; campground
 
 **HORSFALL BEACH**
-
 _Surfperch_
-
 Beach fishing for redtail surfperch. From North Bend, take Hwy 101 north across the McCullough Bridge. Turn left onto Trans-Pacific Parkway to Horsfall Rd. in Oregon Dunes National Recreation Area. Go 2 miles to parking area. Hike over dunes to beach.
-
 Amenities: picnic; restrooms; campground; day use, fee, or parking pass required
 
 **SAUNDERS LAKE**
-
 _Rainbow trout, bluegill, largemouth bass_
-
 Rainbow trout and warm water fishing. From North Bend, take Hwy 101 north about 7 miles to Jack Ripper County Park.
-
 Amenities: boat launch or ramp; picnic; restrooms
 
 ### **IN CHARLESTON**
 
 **BASTENDORFF BEACH/SOUTH JETTY**
-
 _Surfperch, rockfish, razor clams_
-
 From Charleston, travel south on Cape Arago Hwy about 0.5 miles and turn right onto Coos Head Rd. to the beach. Surfperch fishing and razor clams on the beach. Surfperch, rockfish, and other marine fish can be caught off Coos Bay’s South Jetty.
-
 Amenities: restrooms
 
 **CHARLESTON DOCKS**
-
 _Crab, baitfish, smelt, clamming_
-
 Recreational crabbing off docks in the Charleston Marina boat basin and docks just upstream and downstream of the Charleston Bridge. Jigging for baitfish and surf smelt available when these fish are “running.” Bay clam beds nearby.
-
 Amenities: boat launch or ramp; picnic; restrooms
 
 There are many other fishing destinations on this list, including several more in Coos County. [Click here](https://myodfw.com/articles/50-places-go-fishing-south-coast) to see the full list.
@@ -167,47 +133,37 @@ Look through these options and take the next step in planning your trip to the O
 ### IN COOS BAY
 
 **Edgewater Inn- 275 E. Johnson Avenue- 541-267-0423 | 800-233-0423**
-
 _Fishing/observation deck offers beautiful views of the bay._
 
 **Kelley’s RV Park- 555 S. Empire Boulevard- 541-888-6531**
-
 _Crab rings available for guests._
 
 **Plainview Motel & RV Park- 91904 Cape Arago Highway- 541-888-5166**
-
 _Ask about free use of crab rings and fishing poles!_
 
 ### IN NORTH BEND
 
 **Itty Bitty Inn- 1504 Sherman Avenue- 541-756-6398**
-
 _Guests can borrow crabbing gear and learn how to cook, clean & enjoy the catch._
 
 **Riley Ranch County Park- 93507 Riley Ranch Lane- 541-396-7755**
-
 _Offers lake fishing, & recreation opportunities. Butterfield Lake is open to boats but limits the size & restricts to electric trolling motors only._
 
 ### IN CHARLESTON
 
 **Captain John's Motel- 63360 Kingfisher Drive 541-888-404**1
-
 _Located near the Charleston Marina, offers fish cleaning stations._
 
 **Charleston Harbor Inn- 63361 Kingfisher Rd- 541-888-1178 | 877-888-1178**
-
 _Within walking distance of the Charleston Docks, boat parking available._
 
 **Bastendorff Beach County Park- 63379 Bastendorff Beach Road- 541-888-5353**
-
 _Overlooks Bastendorff Beach, has a fish cleaning area._
 
 **Oceanside RV Park Resort- 90281 Cape Arago Highway- 888-717-7384**
-
 _A variety of on-site amenities including a convenient crab shack and free WiFi. Use of crab traps & clam digging equipment. Beach access & general store._
 
 **Sunset Bay State Park Campground- 89814 Cape Arago Highway- 541-888-4902 | 800-452-5687**
-
 _Sunset Bay State Park features beautiful sandy beaches..beachcombing, fishing, swimming, boating._
 
 [Click here ](https://www.oregonsadventurecoast.com/lodging/)to see more lodging options including house rentals.
@@ -221,21 +177,14 @@ We can’t wait to welcome you back to Oregon’s Adventure Coast: Coos Bay, Nor
 ### **More Trip Ideas & Inspiration**
 
 Crabbing & Clamming
-
 [Crabbing and Clamming](https://www.oregonsadventurecoast.com/tripideas/crabbing-and-clamming/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter)
-
 [Clamming on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/clamming/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter)
-
 [Crabbing on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/crabbing-clamming/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter)
-
 [Equipment Rent & Buy](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter)
 
 Kayak Fishing
-
 [Kayak Fishing 101 on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/tags/kayak-fishing-oregon-coast/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter)
-
 [Kayak Fishing On The South Coast](https://www.oregonsadventurecoast.com/tripideas/kayak-fishing-on-the-south-coast/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter)
 
 Winter Steelhead Fishing
-
 [Winter Steelhead Fishing Trip Idea](https://www.oregonsadventurecoast.com/blog/winter-steelhead-fishing-forecast-for-2019/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter)
