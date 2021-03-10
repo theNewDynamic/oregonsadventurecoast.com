@@ -107,3 +107,12 @@ Located on the south side of Coos Bay, close to shopping, dining, and entertainm
 Visitors will also find multiple RV Parks and campgrounds by going to [oregonsadventurecoast.com/lodging](https://www.oregonsadventurecoast.com/lodging/). For the adventures that you can’t bring your pet along, we have plenty of pet sitting services who can help out! Visit our [Traveler’s Info Page](https://www.oregonsadventurecoast.com/travelers-info/) and scroll down for more details.
 
 Let us help you plan, get here, and enjoy your visit with your pet! We encourage you to Contact Us if you have any questions or stop in our visitor center to find out the inside track for the best food, events, and activities. Hope we see you soon!
+
+\---------   
+Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.  
+  
+Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.   
+  
+If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.  
+   
+Please visit [https://ecs.page.link/xhV4h](https://ecs.page.link/xhV4h "https://ecs.page.link/xhV4h") for more information.
