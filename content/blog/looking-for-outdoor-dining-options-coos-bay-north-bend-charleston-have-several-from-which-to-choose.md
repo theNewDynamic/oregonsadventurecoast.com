@@ -39,9 +39,15 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 
 {{< spacer 10 >}}
 
-[**Captain’s Cabin**](https://www.facebook.com/Captains-Cabin-Bar-101307443269162) **– Covered patio seating in their new location 8am-10pm daily**  
+[**Captain’s Cabin**](https://www.facebook.com/Captains-Cabin-Bar-101307443269162) **– Covered patio seating in their new location, 8am-10pm daily**  
 3290 Ocean Blvd. SE Coos Bay OR, 97420  
 (541)267-7772
+
+{{< spacer 10 >}}
+
+[**City Subs**](https://www.citysubs1.com/) **- Covered front area allows for a few tables for lunch dining, Mon-Sat 10am-4pm**  
+149 N 4th St. Coos Bay OR, 97420  
+(541)269-9000
 
 {{< spacer 10 >}}
 
@@ -110,7 +116,8 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 {{< spacer 10 >}}
 
 [**El Guadalajara Mexican Restaurant**](https://www.facebook.com/El-Guadalajara-resturant-138025569587712) **- Covered outdoor seating, Sunday-Thursday, 11am-9pm, Friday, 11am-11pm, Saturday, 11am-10pm**  
-3491 Broadway Avenue North Bend OR, 97459   
+3491 Broadway Avenue North Bend OR, 97459
+
 (541) 756-3030
 
 {{< spacer 10 >}}
