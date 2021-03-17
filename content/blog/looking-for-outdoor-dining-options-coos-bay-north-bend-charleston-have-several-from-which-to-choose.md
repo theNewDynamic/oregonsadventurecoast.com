@@ -33,7 +33,7 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 
 ### Coos Bay
 
-[**7 Devils Brewing Co.**](https://www.7devilsbrewery.com/#/) **– Covered outdoor seating with heat, Weds-Mon 11am-9pm**  
+[**7 Devils Brewing Co.**](https://www.7devilsbrewery.com/#/) **– Covered outdoor seating with heat, Wed-Mon 11am-9pm, open until 10pm on Friday & Saturday.**  
 247 S. 2nd St Coos Bay OR  
 (541)808-3738
 
