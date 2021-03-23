@@ -61,7 +61,7 @@ The tides and the weather will have a large impact on when and where to safely g
 
 There are fish for every season and an endless choice of prime fishing spots to select from. Follow our seasonal fishing guide below, or download this [Fishing Information Rack Card (PDF)](https://www.oregonsadventurecoast.com/img/rackcard-fishing-03-18.pdf) to keep track of what is in season.
 
-![](https://lh5.googleusercontent.com/ei9LgmQZ-l51iQujo1TOg2qDxgcOGpetlLryffjHqFUJdz_0x0G-GhZ1SkTibFQPunntrfUYxLFJQfCujCctVC5QSmzA9cKx6Qbsym0UQd8MFiXAqV5ReVeJMBsD7myRiTk_h5iZ =624x545)
+![](/img/fishing-months-01.jpg)
 
 ### **#5- Best Fishing Spots**
 
@@ -205,11 +205,11 @@ Kayak Fishing
 Winter Steelhead Fishing
 [Winter Steelhead Fishing Trip Idea](https://www.oregonsadventurecoast.com/blog/winter-steelhead-fishing-forecast-for-2019/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter)
 
-\---------   
-Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.  
-  
-Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.   
-  
-If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.  
-   
+\---------  
+Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.
+
+Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.
+
+If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.
+
 Please visit [https://ecs.page.link/xhV4h](https://ecs.page.link/xhV4h "https://ecs.page.link/xhV4h") for more information.
