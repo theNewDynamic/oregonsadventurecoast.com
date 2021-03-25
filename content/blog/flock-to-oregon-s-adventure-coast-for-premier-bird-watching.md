@@ -4,7 +4,7 @@ date: 2021-03-24T04:00:00+00:00
 description: 'You already know Oregon''s Adventure Coast is a haven for anyone looking
   to unplug and reconnect with nature, but you may not know it is a premier destination
   for both beginners and experienced birders alike! '
-image: "/img/oregon-coast-bird-blog-695x322-jpg.png"
+image: "/img/coos-bay-birding-blog-695x322-jpg.png"
 tags:
 - Oregon Coast
 - 'Bird watching '
@@ -30,17 +30,23 @@ warning: false
 warning_copy: ''
 
 ---
-_You already know Oregon's Adventure Coast is a haven for anyone looking to unplug and reconnect with nature, but you may not know it is a premier destination for both beginners and experienced birders alike!_
+_You already know Oregon's Adventure Coast is a haven for anyone looking to unplug and reconnect with nature, but you may not know it is a premier destination for both beginners and experienced birders alike._
 
 When the COVID-19 crisis began one year ago, our focus shifted quickly to promoting [family-friendly outdoor activities](https://www.oregonsadventurecoast.com/blog/five-fun-ways-to-social-distance-on-oregon-s-adventure-coast/) that any pandemic fatigued person can experience on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. In this post, we’re going to share some tips on another local favorite, [bird watching](https://www.oregonsadventurecoast.com/birding-and-wildlife/)! Whether you're a beginner looking for your first pair of binoculars or an experienced birder in search of identification tips, we have it all here for you.
+
+![](/img/coos-bay-birding-blog-695x322-jpg-1.png)
 
 **Why is it so popular?** There are many reasons people love birding. It’s a simple, meditative activity that supports our physical, mental, and emotional health. Birdwatching is a wonderful way to get some fresh air, explore new destinations and get moving! It requires little equipment, and it's a great way to make friends and/or bond with family members of any age.
 
 Birding also benefits your mental health by stimulating your brain and your senses as you are required to observe details you might have missed in nature. Birds are some of the best teachers from the natural world. There are roughly 10,000 species of birds spread across countless habitats. Their unique colors, voices and antics invite us to learn about them and the ecosystems they inhabit.
 
+![](/img/oregon-coast-bird-blog-695x322-jpg.png)
+
 **Where can you go birding in Coos Bay, North Bend & Charleston?** Birds are everywhere you look and it’s not uncommon to be surprised with an unexpected species hanging around our area. Having said this, there are several destinations that offer outstanding bird watching opportunities listed below in no particular order. Whichever trail you decide to follow, don’t forget your binoculars!
 
 _Source:_ [_www.oregoncoastbirding.com_](http://www.oregoncoastbirding.com/)
+
+![](/img/oregon-coast-bird-watching-blog-695x322-jpg.png)
 
 ### **#1-** [**The South Slough National Estuarine Research Reserve (South Slough NERR)**](https://www.oregon.gov/dsl/SS/Pages/About.aspx)
 
@@ -86,12 +92,10 @@ Please visit these other helpful resources to plan your birdwatching trip to Ore
 
 [www.oregonsadventurecoast.com/birding-and-wildlife/](https://www.oregonsadventurecoast.com/birding-and-wildlife/)
 
-#### **Be on the lookout for new information on the annual [Oregon Shorebird Festival](https://www.oregonshorebirdfestival.org/) in September. The 2020 event was canceled due to COVID-19, but we’re hoping to hear of new dates for upcoming festivals! **
+**Be on the lookout for new information on the annual [Oregon Shorebird Festival](https://www.oregonshorebirdfestival.org/) in September. The 2020 event was canceled due to COVID-19, but we’re hoping to hear of new dates for upcoming festivals! **
 
-  
 Be sure to read about other excellent outdoor activities like [paddle boarding](https://www.oregonsadventurecoast.com/blog/the-best-stand-up-paddleboarding-spots-on-oregon-s-adventure-coast/),[ kayaking](https://www.oregonsadventurecoast.com/water-recreation/), [hiking,](https://www.oregonsadventurecoast.com/hiking-walking/) [fishing](https://www.oregonsadventurecoast.com/blog/eight-things-you-need-to-know-to-plan-your-oregon-coast-fishing-adventure/), [clamming](https://www.oregonsadventurecoast.com/blog/where-to-find-razor-clams-on-oregon-s-adventure-coast/), [crabbing](https://www.oregonsadventurecoast.com/crabbing-clamming/), [outdoor dining](https://www.oregonsadventurecoast.com/blog/looking-for-outdoor-dining-options-coos-bay-north-bend-charleston-have-several-from-which-to-choose/), [mountain biking](https://www.oregonsadventurecoast.com/blog/adventure-spotlight-whiskey-run-mountain-bike-trails-on-oregon-s-south-coast/), [self-guided walking tours](https://www.oregonsadventurecoast.com/blog/trip-idea-a-walking-tour-of-historic-coos-bay-north-bend/), [camping](https://www.oregonsadventurecoast.com/blog/relax-recharge-with-a-safe-camping-getaway-on-oregon-s-adventure-coast/) and more.
 
-  
 Editor’s Note: _As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors._
 
 _Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained._
