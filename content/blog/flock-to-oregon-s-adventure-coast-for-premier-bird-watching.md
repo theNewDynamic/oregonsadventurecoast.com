@@ -92,7 +92,9 @@ Please visit these other helpful resources to plan your birdwatching trip to Ore
 
 [www.oregonsadventurecoast.com/birding-and-wildlife/](https://www.oregonsadventurecoast.com/birding-and-wildlife/)
 
-**Be on the lookout for new information on the annual [Oregon Shorebird Festival](https://www.oregonshorebirdfestival.org/) in September. The 2020 event was canceled due to COVID-19, but we’re hoping to hear of new dates for upcoming festivals! **
+****Be on the lookout for new information on the annual** [**Oregon Shorebird Festival__](https://www.oregonshorebirdfestival.org/) __in September. The 2020 event was canceled due to COVID-19, but we’re hoping to hear of new dates for upcoming festivals! **__
+
+![](/img/180711_coosbay1960-1.jpg)
 
 Be sure to read about other excellent outdoor activities like [paddle boarding](https://www.oregonsadventurecoast.com/blog/the-best-stand-up-paddleboarding-spots-on-oregon-s-adventure-coast/),[ kayaking](https://www.oregonsadventurecoast.com/water-recreation/), [hiking,](https://www.oregonsadventurecoast.com/hiking-walking/) [fishing](https://www.oregonsadventurecoast.com/blog/eight-things-you-need-to-know-to-plan-your-oregon-coast-fishing-adventure/), [clamming](https://www.oregonsadventurecoast.com/blog/where-to-find-razor-clams-on-oregon-s-adventure-coast/), [crabbing](https://www.oregonsadventurecoast.com/crabbing-clamming/), [outdoor dining](https://www.oregonsadventurecoast.com/blog/looking-for-outdoor-dining-options-coos-bay-north-bend-charleston-have-several-from-which-to-choose/), [mountain biking](https://www.oregonsadventurecoast.com/blog/adventure-spotlight-whiskey-run-mountain-bike-trails-on-oregon-s-south-coast/), [self-guided walking tours](https://www.oregonsadventurecoast.com/blog/trip-idea-a-walking-tour-of-historic-coos-bay-north-bend/), [camping](https://www.oregonsadventurecoast.com/blog/relax-recharge-with-a-safe-camping-getaway-on-oregon-s-adventure-coast/) and more.
 
