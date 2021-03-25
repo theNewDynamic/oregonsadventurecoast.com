@@ -34,13 +34,13 @@ _You already know Oregon's Adventure Coast is a haven for anyone looking to unpl
 
 When the COVID-19 crisis began one year ago, our focus shifted quickly to promoting [family-friendly outdoor activities](https://www.oregonsadventurecoast.com/blog/five-fun-ways-to-social-distance-on-oregon-s-adventure-coast/) that any pandemic fatigued person can experience on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. In this post, we’re going to share some tips on another local favorite, [bird watching](https://www.oregonsadventurecoast.com/birding-and-wildlife/)! Whether you're a beginner looking for your first pair of binoculars or an experienced birder in search of identification tips, we have it all here for you.
 
-![](/img/coos-bay-birding-blog-695x322-jpg-1.png)
+![](/img/oregon-coast-bird-blog-695x322-jpg.png)
 
 **Why is it so popular?** There are many reasons people love birding. It’s a simple, meditative activity that supports our physical, mental, and emotional health. Birdwatching is a wonderful way to get some fresh air, explore new destinations and get moving! It requires little equipment, and it's a great way to make friends and/or bond with family members of any age.
 
 Birding also benefits your mental health by stimulating your brain and your senses as you are required to observe details you might have missed in nature. Birds are some of the best teachers from the natural world. There are roughly 10,000 species of birds spread across countless habitats. Their unique colors, voices and antics invite us to learn about them and the ecosystems they inhabit.
 
-![](/img/oregon-coast-bird-blog-695x322-jpg.png)
+![](/img/coos-bay-birding-blog-695x322-jpg-1.png)
 
 **Where can you go birding in Coos Bay, North Bend & Charleston?** Birds are everywhere you look and it’s not uncommon to be surprised with an unexpected species hanging around our area. Having said this, there are several destinations that offer outstanding bird watching opportunities listed below in no particular order. Whichever trail you decide to follow, don’t forget your binoculars!
 
