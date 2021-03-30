@@ -12,7 +12,7 @@ seo:
   title: 'Oregon Coast Things to Do - Storm Watching | Oregon''s Adventure Coast '
 
 ---
-[![](/img/storm-watching-special-695x322.jpg)](/storm15)
+![](/img/storm-watching-logo-695-x-322.jpg)
 
 ## THE MAJESTY OF MOTHER NATURE
 
