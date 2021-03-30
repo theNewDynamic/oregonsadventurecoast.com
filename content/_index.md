@@ -4,7 +4,7 @@ aliases:
 - "/photo-gallery"
 - "/activities/category/geocaching"
 - "/rob"
-home_spashes:
+home_splashes:
   - img: /img/family-plan-your-getaway-03-21.jpg
     alt: Lodging
     url: /lodging
