@@ -6,14 +6,14 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- photo: "/img/fishing-ready-set-adventure-695x322.jpg"
+- photo: "/img/ready-set-advenutre-fishing-hm-slider.jpg"
   photo_mobile: "/img/fishing-ready-set-now-open-mobile.jpg"
-- title: Breathtaking Views
+- title: ''
   photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
-- title: Spectacular Sights
+- title: Breathtaking Views
   photo: "/img/shore-acres-slider.jpg"
   url: "/hiking-walking"
-- title: ''
+- title: Spectacular Sights
   photo: "/img/lighthouse-hm-slider.jpg"
 - title: Stunning Sunsets
   photo: "/img/sunset-bay-sunset-hm-slider.jpg"
