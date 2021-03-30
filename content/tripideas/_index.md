@@ -24,9 +24,3 @@ Oregon’s Adventure Coast invites you to explore all we have to offer! We know 
 To help you get started discovering our exciting and exhilarating adventures, we have put together a collection of half-day, full-day, and long weekend trip ideas. Find options that suit your family, your lifestyle, and the time of year you will be traveling.
 
 Contact Oregon’s Adventure Coast with any questions you may have about things to do on your vacation!
-
-{{< spacer 30 >}}
-
-{{< youtube "_bluUjFo0Kk" >}}
-
-{{< spacer 50 >}}
