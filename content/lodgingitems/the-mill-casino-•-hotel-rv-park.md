@@ -16,8 +16,7 @@ cost: 3 - $$$
 property_description: Experience over 200 well-appointed rooms and suites in our Tower
   and Lodge, some with in-room hot tubs, Las Vegas-style gaming excitement, five excellent
   dining venues and live entertainment – all with a great view along scenic Coos Bay.
-  Free WiFi, pool, hot tub & pets welcome. <b><a href="/storm15">Enjoy 15% OFF Storm
-  Watching Lodging Special!</a></b>
+  Free WiFi, pool, hot tub & pets welcome.
 website: http://www.themillcasino.com
 amenityList:
 - 1 - Restaurant/Bar/Rm Service
