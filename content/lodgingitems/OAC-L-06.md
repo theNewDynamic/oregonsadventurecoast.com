@@ -14,11 +14,10 @@ phone_toll_free: 800-233-0423
 phone_local: 541-267-0423
 units: 82
 cost: 3 - $$$
-property_description: The perfect place to relax before setting off to explore the
+property_description: 'The perfect place to relax before setting off to explore the
   many recreational adventures close by. The Edgewater Inn offers comfortable rooms
   & suites with fridge, microwave, & free wifi. Some rooms with in-room hot tubs.
-  Fishing/observation deck offers beautiful views of the bay. <b><a href="/storm15">Enjoy
-  15% OFF Storm Watching Lodging Special!</a></b>
+  Fishing/observation deck offers beautiful views of the bay. '
 website: http://edgewaterinns.com/edgewater-inn-coos-bay/
 amenityList:
 - 2 - Continental or Full Bkfst

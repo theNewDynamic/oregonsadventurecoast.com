@@ -17,7 +17,7 @@ cost: 1 - $
 property_description: With full service RV sites and yurts, we have it all to make
   your stay as comfortable as possible. Conveniently located by the marina, shops
   and dining. A perfect place to come back to after a full day of activities or relax
-  during the day. <b><a href="/storm15">Enjoy 15% OFF Storm Watching Lodging Special!</a></b>
+  during the day.
 website: http://www.portofcoosbay.com/rvpark
 amenityList:
 - 5 - Pet Friendly
