@@ -6,14 +6,17 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- photo: "/img/wave-crash-for-video.jpg"
-  photo_mobile: "/img/storm-watching-special-mobile-hm-slider.jpg"
-  url: "/storm15"
-  title: ''
-  title_mobile: ''
-  video:
-    cover: "/img/wave-crash-for-video.jpg"
-    source: "/img/waves-web-slidertext2.mp4"
+- photo: "/img/fishing-ready-set-adventure-695x322.jpg"
+  photo_mobile: "/img/fishing-ready-set-now-open-mobile.jpg"
+- title: Breathtaking Views
+  photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
+- title: Spectacular Sights
+  photo: "/img/shore-acres-slider.jpg"
+  url: "/hiking-walking"
+- title: Lighthouse
+  photo: "/img/lighthouse-hm-slider.jpg"
+- title: Stunning Sunsets
+  photo: "/img/sunset-bay-sunset-hm-slider.jpg"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
