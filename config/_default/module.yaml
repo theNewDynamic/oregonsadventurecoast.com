@@ -1,3 +1,4 @@
 imports:
   - path: github.com/theNewDynamic/hugo-module-tnd-seo
   - path: github.com/theNewDynamic/hugo-module-tnd-snipcart
+  - path: github.com/theNewDynamic/hugo-module-tnd-func

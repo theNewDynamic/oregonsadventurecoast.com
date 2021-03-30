@@ -135,20 +135,17 @@
         {{ .Content }}
     </div>
 </div>
-
-<div class="m-home-splash">
-    <a href="/storm-watching">
-        <img src="/layout-images/stormwatching-masonryheader.jpg" alt="The best storm watching on the Oregon coast">
-    </a>
-</div>
-
-{{/* Promotional banner */}}
-{{ with .Params.promotional_banner }}
-    <div class="m-home-splash">
-        <a class="m-home-banner" target="_blank" href="{{ . }}">
-            <img src="/layout-images/win-500-cash.png" alt="Win $500 Cash">
-        </a>
-    </div>
+{{ with .Params.home_spashes }}
+    {{ range $splash := . }}
+        {{ with .url }}
+            {{ $ext := partialCached "tnd-func/IsExternalURL" . . }}
+            <div class="m-home-splash">
+                <a href="{{ . }}" {{ if $ext }} target="_blank"{{ end }}>
+                    <img src="{{ $splash.img }}" {{ with $splash.alt }}alt="{{ . }}"{{ end }}>
+                </a>
+            </div>
+        {{ end }}
+    {{ end }}
 {{ end }}
 
 <div class="m-home-grid clearfix">

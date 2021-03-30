@@ -4,7 +4,13 @@ aliases:
 - "/photo-gallery"
 - "/activities/category/geocaching"
 - "/rob"
-promotional_banner: https://craterlakecountry.com/coos-bay/
+home_spashes:
+  - img: /img/family-plan-your-getaway-03-21.jpg
+    alt: Lodging
+    url: /lodging
+  - img: /img/win-500-cash.png
+    url: https://craterlakecountry.com/coos-bay/
+    alt: Win $500 Cash
 slideshow:
 - photo: "/img/ready-set-advenutre-fishing-hm-slider.jpg"
   photo_mobile: "/img/fishing-ready-set-now-open-mobile.jpg"
