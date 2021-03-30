@@ -37,8 +37,6 @@ Every year, thousands of curious storm watchers and photographers alike flock to
 
 Even though a trip to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston might look and feel a little different this year with the pandemic, the safety guidelines are the same. It’s exciting to get close to the action, but it can become extremely dangerous very quickly if you get too close or if you are not careful.
 
-[![15% OFF Storm Watching Lodging Special](/img/storm-watching-695-banner-2021.jpg)](/storm15)
-
 **#1 Never turn your back to the ocean and stay off of jetties, they can be extremely dangerous.** "Stay away from the surf zone and off of jetties," forecasters warn. "Area beaches may become hazardous due to dangerous surf conditions." Also, stay off the logs you may find on the beach. These can roll in high surf, causing injury or even death.
 
 **#2 Always watch from safe viewing areas.** There is a designated viewing area for storm watching at[ Shore Acres State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) ($5 to park) and while no viewing location is completely safe, this is considered one of the safest. Another great local storm watching spot is at the bluff overlooking[ Bastendorff Beach](https://www.oregonsadventurecoast.com/undeveloped-beaches/) and at[ Sunset Bay State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) along[ Cape Arago Highway](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/).
