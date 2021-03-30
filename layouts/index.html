@@ -135,7 +135,7 @@
         {{ .Content }}
     </div>
 </div>
-{{ with .Params.home_spashes }}
+{{ with .Params.home_splashes }}
     {{ range $splash := . }}
         {{ with .url }}
             {{ $ext := partialCached "tnd-func/IsExternalURL" . . }}
