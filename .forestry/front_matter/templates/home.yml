@@ -44,6 +44,29 @@ fields:
   name: welcomeheadline
   label: Welcome Headline
   description: Headline displayed below the slideshow
+- name: home_splashes
+  type: field_group_list
+  fields:
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+  - name: img
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  - name: alt
+    type: text
+    config:
+      required: false
+    label: ALT
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Splashes
 - type: field_group
   name: masonry1
   label: Masonry 1
@@ -71,29 +94,6 @@ fields:
   - type: text
     name: url
     label: URL
-- name: splashes
-  type: field_group_list
-  fields:
-  - name: url
-    type: text
-    config:
-      required: false
-    label: URL
-  - name: image
-    type: file
-    config:
-      maxSize: 64
-    label: Image
-  - name: alt
-    type: text
-    config:
-      required: false
-    label: ALT
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: Splashes
 - type: field_group
   name: masonry2
   label: Masonry 2
