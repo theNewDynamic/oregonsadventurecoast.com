@@ -13,7 +13,7 @@ slideshow:
 - title: Spectacular Sights
   photo: "/img/shore-acres-slider.jpg"
   url: "/hiking-walking"
-- title: Lighthouse
+- title: ''
   photo: "/img/lighthouse-hm-slider.jpg"
 - title: Stunning Sunsets
   photo: "/img/sunset-bay-sunset-hm-slider.jpg"
