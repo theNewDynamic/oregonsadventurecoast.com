@@ -18,8 +18,6 @@ Thank you for visiting our site! If you need help finding something wonderful to
 
 Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor activities, prime shopping, fine dining, special events, or an evening of entertainment, Oregon’s Adventure Coast has it all, and more! Learn more about vacation ideas on our site, or reach out to us for help planning your next trip or family getaway.
 
-[![15% OFF Storm Watching Lodging Special](/img/storm-watching-695-banner-2021.jpg)](/storm15)
-
 [ {{< floatimage src="/img/request-guide-red-button.png" float="right" alt="Click Here to Request a Visitor Guide / Packet" size="undefined" >}} ](#contactform)
 
 #### Coos Bay – North Bend
