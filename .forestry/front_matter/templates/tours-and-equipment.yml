@@ -34,6 +34,7 @@ fields:
   label: Contact
   name: contact
 pages:
+- content/tourandequipment/chinook-charters.md
 - content/tourandequipment/code-7-sportfishing-charters.md
 - content/tourandequipment/lucky-me-charters.md
 - content/tourandequipment/pacificpond-charters.md
