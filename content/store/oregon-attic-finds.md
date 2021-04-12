@@ -5,6 +5,9 @@ property_description: Specializing in household items and rare vintage finds. Ch
 photo_name: ''
 photo_alt: ''
 property_category:
+- Souvenirs
+- Resale
+- Antiques
 - Home Goods
 address:
   street: 164 Market Ave.
