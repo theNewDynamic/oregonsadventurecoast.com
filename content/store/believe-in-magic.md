@@ -10,7 +10,10 @@ property_description: Believe In Magic, a new and used children's retail and toy
   will show up every day! We are open Tuesday-Saturday 10AM-6:00PM.
 photo_name: ''
 photo_alt: ''
-property_category: []
+property_category:
+- Resale
+- Clothing
+- Boutique
 address:
   street: 147 S. Broadway
   street2: ''
