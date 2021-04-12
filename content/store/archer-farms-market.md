@@ -8,6 +8,7 @@ property_description: |-
 photo_name: ''
 photo_alt: ''
 property_category:
+- Specialty Foods
 - Home Goods
 address:
   street: 94753 Haynes Way Lane
