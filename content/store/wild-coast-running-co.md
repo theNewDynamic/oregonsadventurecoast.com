@@ -5,6 +5,8 @@ property_description: Local to the Southern Oregon Coast, we specialize in quali
 photo_name: ''
 photo_alt: Wild Coast Running Co. logo of an orange fox on a white background
 property_category:
+- Shoes
+- Clothing
 - Sporting Goods
 address:
   street: 145 S. Broadway

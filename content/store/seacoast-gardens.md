@@ -8,6 +8,7 @@ property_description: Carrying the full line of Seacoast Compost products. Along
 photo_name: ''
 photo_alt: ''
 property_category:
+- Home Goods
 - Florist
 address:
   street: 91152 Cape Arago Hwy.
