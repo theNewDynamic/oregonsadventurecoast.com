@@ -8,8 +8,8 @@ property_description: Believe In Magic, a new and used children's retail and toy
   all of Coos County! We hope to be doing parties soon! Come in and have your child
   take a picture with one of our characters for free! You never know what character
   will show up every day! We are open Tuesday-Saturday 10AM-6:00PM.
-photo_name: ''
-photo_alt: ''
+photo_name: "/img/believe-in-magic-store.jpg"
+photo_alt: Believe in Magic Shopping
 property_category:
 - Resale
 - Clothing
@@ -30,6 +30,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
