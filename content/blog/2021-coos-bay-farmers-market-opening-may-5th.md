@@ -40,8 +40,6 @@ _Please note this post contains photos taken prior to the COVID-19 crisis. Face 
 
 ![](/img/coos-bay-farmers-market.png)
 
-![](/img/coos-bay-farmers-market-4.png)
-
 ![](/img/coos-bay-farmers-market-3.png)
 
 Not only has the CBDA Farmers Market served as a wonderful destination to buy fresh local food, for many years it has served as a true community gathering place here on Oregon’s Adventure Coast. Last year, the market made some adaptations under the guidance of local and state health officials, CDC Guidelines, and the Oregon Farmers Market Association (OFMA) and will continue to comply with all state and local guidelines to halt community spread of the coronavirus.
