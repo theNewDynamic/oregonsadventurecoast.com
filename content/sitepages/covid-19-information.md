@@ -13,11 +13,11 @@ accordion_sections: []
 boxes: []
 
 ---
-**_Updated April 7, 2021_**
+**_Updated April 21, 2021_**
 
 **As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors. Visit the state's** [**Safe+Strong Oregon**](https://www.safestrongoregon.org/) **page for more information.**
 
-**On April 9, 2021, Coos County will move into the High Risk Category.** This category allows restaurants, indoor recreation and fitness establishments and indoor entertainment  
+**On April 9, 2021, Coos County moved into the High Risk Category.** This category allows restaurants, indoor recreation and fitness establishments and indoor entertainment  
 establishments to open to 25% capacity (or 50 people, whichever is smaller). It also allows outdoor dining (75 people maximum, including individual dining pods) and retail stores and shopping malls to open to a maximum of 50% occupancy.
 
 **Face coverings** are still mandatory for all when inside a public space and when outdoors when 6 feet distancing cannot be maintained.
