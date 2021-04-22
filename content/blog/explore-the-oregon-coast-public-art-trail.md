@@ -29,10 +29,9 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
-### The Oregon Coast Public Art Trail Features Many Gems Located Right in Our Own Backyard!
+**_The Oregon Coast Public Art Trail Features Many Gems Located Right in Our Own Backyard!_**
 
 The unique setting on **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston** has been a source of inspiration to artists and performers from all over the world so it didn’t surprise us when we saw that the [Oregon Coast Visitors Association](https://visittheoregoncoast.com/) decided to highlight public art on the Oregon Coast by creating a [Public Art Trail map](https://visittheoregoncoast.com/oregon-coast-public-art-trail/). People can easily access this map to take a self-guided tour along the entire coast, or sections of the coast, to learn about public art pieces along the way.
 
