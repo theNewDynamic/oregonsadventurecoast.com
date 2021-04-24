@@ -16,7 +16,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 Are you searching for a unique adventure to help you break out your rut this spring or summer? A paddling trip on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** just might do the trick. Paddling the waters of Coos Bay not only makes for a delightful outdoor vacation, but it is also a peaceful way to explore the area’s natural beauty and experience the Oregon Coast in a way you’ve never experienced it before.
@@ -70,7 +69,7 @@ We want you to stay safe and aware! Please always wear a PFD/ [life-jacket](http
 
 Whether it's a guided tour or a self-guided tour, a paddling adventure on Oregon's Adventure Coast is an unforgettable experience to add to your “bucket list”. [Contact us](https://oregonsadventurecoast.com/contact/) to get even more tips as well as the inside scoop for finding the best local food and activities any time of the year. Visit our [Adventure Page](https://www.oregonsadventurecoast.com/adventures/) for more cool ideas and inspiration.
 
-ADDITIONAL RESOURCES
+**ADDITIONAL RESOURCES**
 
 [Coos Bay Estuary Water Trails - State of Oregon](https://www.oregon.gov/dsl/SS/documents/CoosBayEstuary_waterTrails_brochure.pdf)
 
