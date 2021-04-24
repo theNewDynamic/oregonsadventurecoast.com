@@ -27,9 +27,9 @@ _**Please remember a PFD/_ [_life-jacket_](https://www.oregon.gov/osmb/boater-in
 
 Whether it’s [stand-up paddleboarding (SUP](https://www.oregonsadventurecoast.com/water-recreation/)) in Sunset Bay State Park, kayaking in the waters of Coos Bay (see videos below) or canoe/kayak fishing in one of the many freshwater lakes - there is a perfect paddling adventure for everyone.
 
-{{< youtube "7kidwJG10vA" >}}
+{{< youtube "7kidwJG10vA" >}}<br>
 
-{{< youtube "[XM8iebLuClI](https://www.youtube.com/watch?v=XM8iebLuClI)" >}}
+{{< youtube "XM8iebLuClI" >}}<br>
 
 Here are a few more local destinations where you can get your paddle on!
 
@@ -53,7 +53,6 @@ Head just 15 miles north of Coos Bay, you will find approximately 2,000 acres of
 
 The Umpqua, Coos or Coquille rivers are ideal destinations for a peaceful canoeing adventure and/or kayak fishing.
 
-  
 **WHERE TO RENT KAYAKS AND PADDLEBOARDS**
 
 * [Waxer's Surf Shop](http://www.surfwaxers.com/) offers rentals as well as surf, kayak and SUP lessons.
@@ -65,7 +64,7 @@ The Umpqua, Coos or Coquille rivers are ideal destinations for a peaceful canoei
 * [South Coast Tours ](https://www.southcoasttours.net/tours/south-slough-coos-bay/)offers a guided Wildlife Viewing Kayak Tour of South Slough that typically lasts about 2.5 hours.
 * [Wavecrest Discoveries](http://wavecrestdiscoveries.com/nature-explorations-habitat/) offers nature-based half-day paddling tours on the Coos Estuary, on the lower Coquille River or on Eel Lake.
 
-**WATER SAFETY** 
+**WATER SAFETY**
 
 We want you to stay safe and aware! Please always wear a PFD/ [life-jacket](https://www.oregon.gov/osmb/boater-info/pages/life-jackets.aspx) when you are out on the water and review all safety guidelines and [Oregon Kayaking Laws](https://paddlecamp.com/oregon-kayaking-laws/) that have been set and governed by the [Oregon State Marine Board](https://www.oregon.gov/OSMB/Pages/index.aspx). [Paddle Camp](https://paddlecamp.com/) is an excellent resource to help you navigate the world of kayaking, canoeing, stand up paddleboarding, and river rafting.**
 
@@ -93,10 +92,8 @@ ADDITIONAL RESOURCES
 
 [Paddle the Southern Oregon Coast - Travel Oregon](https://traveloregon.com/things-to-do/paddle-southern-oregon-coast/)
 
-  
 **An Oregon fishing license is required for those age 12 years or older. Daily licenses are available. Most fishing charters, bait shops and sporting goods stores can supply these for you.** [**Check out our fishing license requirement page for where to buy a license and bait.**](https://oregonsadventurecoast.com/fishing-license-requirements/) **You can also find a list of local businesses that can help by** [**clicking here.**](https://oregonsadventurecoast.com/equipment-rent-and-buy/)
 
-  
 _Editor’s Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors. Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained._
 
 _If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage you to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19._
