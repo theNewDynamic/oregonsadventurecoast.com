@@ -1,0 +1,19 @@
+{{/*
+  shortcodes/iframe
+  Retrieve an iframe as stored in partials/iframes/{{ arg }} based on the lone argument string
+
+  @author @regisphilibert
+
+  @context Shorcode (.)
+
+  @example - Markdown
+  {{< iframe "jotform" >}}
+
+*/}}
+{{ $partial := "" }}
+{{ with .Get 0 }}
+  {{ $partial = printf "iframes/%s.html" . }}
+  {{ if templates.Exists (printf "partials/%s" $partial) }}
+    {{ partialCached $partial $partial | safeHTML }}
+  {{ end }}
+{{ end }}

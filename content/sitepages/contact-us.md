@@ -65,13 +65,9 @@ Charleston, OR 97429
 Open Seasonally: May 1st - September 30th
 
 {{< /columns >}}
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d46417.20329304691!2d-124.28108247456056!3d43.35453745830142!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c38681fb0c3923%3A0x56b689b37557b1ec!2sCoos+Bay+-+North+Bend+Visitor+and+Convention+Bureau!5e0!3m2!1sen!2sus!4v1533261555779" width="700" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<a name="contactform"></a>
 
-<p> </p>
 
 ### Request a Visitor Guide / Packet
 
-
-<script type="text/javascript" src="https://form.jotform.com/jsform/83057765788172"></script>
+{{< iframe "jotform">}}
