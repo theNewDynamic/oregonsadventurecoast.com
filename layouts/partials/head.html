@@ -47,4 +47,7 @@
 	{{ partial "googletag" (dict "where" "top") }}
 	{{ template "_internal/google_analytics_async.html" . }}
 	{{ partial "fbpixel" }}
+	{{ if eq (getenv "HUGO_ENV") "production" }}
+	<meta name="facebook-domain-verification" content="d60r78hv13z9t4u6ynr4pq0bbt5gbz" />
+	{{ end }}
 </head>
