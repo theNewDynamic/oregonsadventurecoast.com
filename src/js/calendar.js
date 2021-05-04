@@ -4,8 +4,6 @@ import Calendar from './calendar/Calendar';
 import FilterToggles from './common/filter-toggles';
 import {PAGINATION_DEFAULTS, PAGINATION_ACTIONS, FILTER_OPTION} from './common/constants';
 
-const api_url = "https://api.oregonsadventurecoast.com";
-
 (function($) {
 
     new FilterToggles();
@@ -25,8 +23,8 @@ const api_url = "https://api.oregonsadventurecoast.com";
      * @return
      */
 	$.ajax({
-        url: api_url + '/data-api/index.php?method=get&type=calendar',
-        dataType: 'jsonp',
+        url: '/.netlify/functions/data-api/?method=get&type=calendar',
+        dataType: 'json',
         contentType: 'application/json; charset=utf-8'
     })
     .done((data) => {
