@@ -1,9 +1,9 @@
 const axios = require('axios');
 require('dotenv').config();
 
-const validatePayload = require('./internal/validator');
-const getCalendarData = require('./internal/calendar');
-const getDiningData = require('./internal/dining');
+const validatePayload = require('./validator');
+const getCalendarData = require('./calendar');
+const getDiningData = require('./dining');
 
 const { API_USERNAME, API_PASSWORD, API_AUTH_ENDPOINT } = process.env;
 
