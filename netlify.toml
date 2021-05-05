@@ -8,6 +8,7 @@ port=8585
 
 [build.environment]
   HUGO_VERSION = "0.64.0"
+  AWS_LAMBDA_JS_RUNTIME="nodejs12.x"
 
 [context.production.environment]
 # Uncomment the next line when moving site to production
