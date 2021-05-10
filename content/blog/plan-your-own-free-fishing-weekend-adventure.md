@@ -6,7 +6,28 @@ description: " In Oregon, a fishing license is typically required for those ages
   fish, crab or clam anywhere in Oregon the weekend of Saturday June 5 - Sunday June
   6, 2021."
 image: "/img/plan-your-own-free-fishing-weekend-adventure-blog-695x322-jpg.png"
-tags: []
+tags:
+- fishing
+- 'Oregon Coast Fishing '
+- Free Fishing Weekend Oregon
+- 'Fishing Trip '
+- Coos Bay
+- North Bend Oregon
+- Charleston Oregon
+- 'Oregon Coast '
+- 'Saltwater Fishing '
+- 'Oregon Department of Fish & Wildlife '
+- 'Surf Fishing '
+- 'Salmon Fishing '
+- 'Bottomfish '
+- 'Pacific Halibut '
+- 'Oregon''s South Coast '
+- 'Albacore Tuna Fishing '
+- 'Charter Boats '
+- 'Crabbing '
+- 'Clamming '
+- 'Deep Sea Fishing '
+- 'Visitor''s Center '
 categories: []
 seo:
   title: ''
@@ -17,7 +38,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 ## _Free Fishing Weekend & Summer Saltwater Fishing Tips on Oregon’s Adventure Coast_
