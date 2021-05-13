@@ -47,7 +47,7 @@ It’s all things Salmon the 2nd week in September! The Mill Luck Salmon celebra
 
 ### Bay Area Fun Festival September 19-20, 2015
 
-The 2015 Bay Area Fun Festival in Coos Bay is a weekend you won’t want to miss! Loads of entertainment booked, plenty of vendors scheduled to appear with unique wares, and even a parade scheduled to march through downtown Coos Bay! This event runs in conjunction with the <a href="https://prefontainerun.com/run-info.php" target="_blank" class="broken_link">Prefontaine Memorial Run </a>on September 19th. For more information, call 800-824-8486 or visit <a href="http://www.bayareafunfestival.com/" target="_blank">www.bayareafunfestival.com</a>
+The 2015 Bay Area Fun Festival in Coos Bay is a weekend you won’t want to miss! Loads of entertainment booked, plenty of vendors scheduled to appear with unique wares, and even a parade scheduled to march through downtown Coos Bay! This event runs in conjunction with the <a href="https://prefontainerun.com" target="_blank" class="broken_link">Prefontaine Memorial Run </a>on September 19th. For more information, call 800-824-8486 or visit <a href="http://www.bayareafunfestival.com/" target="_blank">www.bayareafunfestival.com</a>
 
 For a complete listing and details, be sure to check our **<a href="/events " target="_blank">events calendar</a>.**
 
