@@ -63,21 +63,21 @@ Fortunately, Spinreel makes the safety orientation easy, helpful AND fun! “The
 
 **Check out the** [**off-road vehicles**](https://www.ridetheoregondunes.com/offroad-rental/) **before you go.** The type of vehicle you rent depends on several factors so don’t be afraid to ask for recommendations or read reviews to determine what would be best for you. Here are some of the many vehicle recommendations we found from other users (please pardon any grammatical errors, these are unedited):
 
-“As a family who has never been to the dunes, renting the RZR was such a great idea!”
-
-“We are from Florida and had a blast shredding the dunes with the ATV's we rented. Wife and I rented two seater Razor and son used Quad. Definitely the highlight of our trip.”
-
-“Rented a 4 seater and 2 450’s. It was well worth the money and time spent!”
-
-“We rented a 4-seater for two hours, and we had plenty of time to ride along the coast and have fun on the dunes. Awesome experience.”
-
-“We had a 4 person ATV and Justin was great about getting us comfortable with the equipment and took us all over the dunes.”
-
-“4- seat razor was perfect for the adults (and younger children) while the junior 4- wheeler was perfect for our 13 year old. Highly recommend.”
-
-“Great outfit Brand new Polaris vehicle Highly recommend They made a beginner comfortable from start to finish.”
-
-“Bypass the ATVs and go for a Razr! Cough up the money for 2 one seaters rather than a two seater. What a rush!!!”
+> “As a family who has never been to the dunes, renting the RZR was such a great idea!”
+>
+> “We are from Florida and had a blast shredding the dunes with the ATV's we rented. Wife and I rented two seater Razor and son used Quad. Definitely the highlight of our trip.”
+>
+> “Rented a 4 seater and 2 450’s. It was well worth the money and time spent!”
+>
+> “We rented a 4-seater for two hours, and we had plenty of time to ride along the coast and have fun on the dunes. Awesome experience.”
+>
+> “We had a 4 person ATV and Justin was great about getting us comfortable with the equipment and took us all over the dunes.”
+>
+> “4- seat razor was perfect for the adults (and younger children) while the junior 4- wheeler was perfect for our 13 year old. Highly recommend.”
+>
+> “Great outfit Brand new Polaris vehicle Highly recommend They made a beginner comfortable from start to finish.”
+>
+> “Bypass the ATVs and go for a Razr! Cough up the money for 2 one seaters rather than a two seater. What a rush!!!”
 
 **Head for the beach!** If you opt to ride without a guide, we recommend heading towards [Horsfall Beach](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42617) for unsurpassed views, miles of open sand, and pure bliss. Riding on an nearly empty beach is one of the best parts of the whole experience. Starting from the south, you can gain access to the dunes by Box Car Hill, a notable landmark. This southern portion is called the Horsfall Dunes, which has a large open area to ride and access to Horsfall Beach, where you can ride along the shore during the day.
 
