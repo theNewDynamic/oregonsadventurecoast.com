@@ -66,15 +66,15 @@ Fortunately, Spinreel makes the safety orientation easy, helpful AND fun! “The
 
 **Do a guided tour.** We have heard countless first-time riders express how grateful they were to have booked one of Spinreel’s [Follow Me Tours](https://www.ridetheoregondunes.com/follow-me-tour/). On this tour, you follow one of their experienced guides (like Justin!) on a one-of-a-kind journey. You still have the thrill of driving one of their vehicles while taking in some of the amazing views that you might have missed on your own. TripAdvisor reviewers rave about their experience and have expressed it was worth splurging for!
 
-“Three of us did the guided tour on the Oregon Dunes with Justin. It was so worth having an expert show us what to do and where to go. It was well worth the extra expense of a tour. We were able in two hours to see a wide range of the part of the Park that is accessible to dune buggies. We also felt very safe following him. The whole experience was such fun and unique.”
-
-“Did a "We Drive You Follow" Tour with my family of 4 in a 4 seater. Justin was an awesome guide. Had 5 other quads in the tour, and he kept us all going. Was a good pace for new drivers of quads and at the end took us on some more challenging areas of the dunes. Whole family enjoyed the trip. Would definitely do it again.”
-
-“We would definitely do this again and would recommend Spinreel to others, especially the guided tour if you are new to an ATV/Dune Buggy adventure.
-
-“We had a blast on the two hour, Follow the Guide tour with Justin. we traversed all over the dunes - much more than we would have on our own. It was fantastic fun.”
-
-“Did the “Follow me tour” with Justin and had a great time. Varied terrain, varied speeds and never uncomfortable conditions. Have done UTV tours before and this one is up there with our best ones. Great for novices or those looking for new scenery.”
+> “Three of us did the guided tour on the Oregon Dunes with Justin. It was so worth having an expert show us what to do and where to go. It was well worth the extra expense of a tour. We were able in two hours to see a wide range of the part of the Park that is accessible to dune buggies. We also felt very safe following him. The whole experience was such fun and unique.”
+>
+> “Did a "We Drive You Follow" Tour with my family of 4 in a 4 seater. Justin was an awesome guide. Had 5 other quads in the tour, and he kept us all going. Was a good pace for new drivers of quads and at the end took us on some more challenging areas of the dunes. Whole family enjoyed the trip. Would definitely do it again.”
+>
+> “We would definitely do this again and would recommend Spinreel to others, especially the guided tour if you are new to an ATV/Dune Buggy adventure.
+>
+> “We had a blast on the two hour, Follow the Guide tour with Justin. we traversed all over the dunes - much more than we would have on our own. It was fantastic fun.”
+>
+> “Did the “Follow me tour” with Justin and had a great time. Varied terrain, varied speeds and never uncomfortable conditions. Have done UTV tours before and this one is up there with our best ones. Great for novices or those looking for new scenery.”
 
 **Check out the** [**off-road vehicles**](https://www.ridetheoregondunes.com/offroad-rental/) **before you go.** The type of vehicle you rent depends on several factors so don’t be afraid to ask for recommendations or read reviews to determine what would be best for you. Here are some of the many vehicle recommendations we found from other users (please pardon any grammatical errors, these are unedited):
 
