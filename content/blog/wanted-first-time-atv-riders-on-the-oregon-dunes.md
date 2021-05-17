@@ -1,10 +1,26 @@
 ---
 title: 'Wanted: First Time ATV Riders on the Oregon Dunes! '
 date: 2021-05-14T04:00:00+00:00
-description: ''
+description: The majestic dunes are known for their expansive hiking trails and surrounding
+  campgrounds, but the best way to fully experience the Oregon Dunes is a thrilling,
+  heart-pounding ride up and down the mighty hills in an All Terrain Vehicle (ATV)
+  or Off Highway Vehicle (OHV).
 image: "/img/oregon-dunes-blog-695x322-jpg.png"
-tags: []
-categories: []
+tags:
+- Oregon Dunes
+- ATVing
+- Spinreel
+- ATV Rentals
+- 'Oregon Coast '
+- Dune Buggy Ride
+- North Bend Oregon
+- Charleston Oregon
+- 'Coos Bay '
+- 'Oregon Travel '
+- 'Adventure Ride '
+- Sand Dunes
+categories:
+- Outdoor Adventures
 seo:
   title: ''
   description: ''
@@ -14,7 +30,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 There's A LOT to love on **Oregon's Adventure Coast: Coos Bay, North Bend Charleston**, but some would say that the [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/tripideas/oregon-dunes-national-recreation-area/) tops the list. With 32,186 acres of dunes, forest, streams and lakes, it is the largest expanse of coastal dunes in North America, and one of the many natural attractions that sets our region apart from other destinations. Multiple visitors have told us that visiting these mysterious, ancient sand dunes was not only the highlight of their trip, they felt like they had been transported to another world.
