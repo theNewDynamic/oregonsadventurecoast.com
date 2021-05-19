@@ -1,7 +1,7 @@
 ---
 title: 38th Annual Blackberry Arts Festival
-startdate: '2020-08-22'
-enddate: '2020-08-23'
+startdate: '2021-08-28'
+enddate: '2021-08-29'
 address:
   street: 200 Central Ave
   street2: ''
@@ -20,13 +20,12 @@ largeboxphoto: "/img/blackberry-event-large.jpg"
 mediumboxphoto: "/img/blackberry-event-medium.jpg"
 smallboxphoto: "/img/blackberry-event-small.jpg"
 date: '2019-02-10T22:01:16.000+00:00'
-draft: true
 
 ---
 ![](/img/blackberry-fest-blog-695-322.jpg)
 
-The annual **Blackberry Arts Festival** celebrates the delicious blackberry! Blackberry arts, food and drink are the fare at this popular event in downtown Coos Bay. Featuring live music with the Blackberry Jam all weekend long! Bring the whole family to downtown Coos Bay for the Blackberry Arts Festival, August 22 and 23, 2020.
+The annual **Blackberry Arts Festival** celebrates the delicious blackberry! Blackberry arts, food and drink are the fare at this popular event in downtown Coos Bay. Featuring live music with the Blackberry Jam all weekend long! Bring the whole family to downtown Coos Bay for the Blackberry Arts Festival, August 28 and 29, 2021.
 
-The fourth annual **“It’s All Berry Good” Blackberry Recipe Contest** will be held on Sunday. Recipes featuring blackberries will be accepted from 9am to 11am at the Coos Bay Elks #1160 located on Central Avenue. Judging will begin at noon and the winners will be announced at 2:30pm For more information call 541-266-9706.
+For more information call 541-266-9706.
 
 ### **Blackberry Jam Information Coming Soon**
