@@ -32,9 +32,10 @@ aliases: []
 ---
 ### IN A LANDSCAPE: Classical Music in the Wild™
 
-#### AT SHORE ACRES STATE PARK
+#### AT SHORE ACRES STATE PARK - August 10 and 11 at 6:00pm
 
-###### ![Hunter Noack, classical pianist plays concerts "in the wild". Photo credit: Ed Schmidt](/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg)  
+###### ![Hunter Noack, classical pianist plays concerts "in the wild". Photo credit: Ed Schmidt](/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg)
+
 _Photo courtesy of In A Landscape. Photo by Ed Schmidt_
 
 ###### {{< spacer 10 >}}
@@ -59,12 +60,13 @@ Get here early to explore trails beyond the garden that lead to a secluded ocean
 
 #### **TICKETS**
 
-###### ![Hunter Noack, classical pianist.](/img/hunter-zach-lewis-667x355.jpg)  
+###### ![Hunter Noack, classical pianist.](/img/hunter-zach-lewis-667x355.jpg)
+
 _Photo courtesy of In A Landscape. Photo by Zach Lewis_
 
-[**Purchase Tickets for Tuesday, 8/10/2021**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-tue-810-tickets-150380705739?aff=ebdsoporgprofile)
+[**Purchase Tickets for Tuesday, 8/10/2021**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-tue-810-tickets-150380705739?aff=ebdsoporgprofile) **- 6:00pm Concert**
 
-[**Purchase Tickets for Wednesday, 8/11/2021**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-wed-811-tickets-151145882403?aff=ebdsoporgprofile)
+[**Purchase Tickets for Wednesday, 8/11/2021**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-wed-811-tickets-151145882403?aff=ebdsoporgprofile) **- 6:00pm Concert**
 
 Tickets are required to join this event due to COVID-19 restrictions on capacity.
 
