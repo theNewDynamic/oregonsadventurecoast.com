@@ -21,29 +21,31 @@ seo:
 desktoptitle: In a Landscape Concert at Shore Acres State Park
 mobiletitle: In a Landscape Concert at Shore Acres
 hovertitle: Classical Music in the Wild
-hoverdescription: Join classical pianist Hunter Noak for a special 2 night concert
+hoverdescription: Join classical pianist Hunter Noack for a special 2 night concert
   series at Shore Acres!
 photo: "/img/ial-cameron-edens-2048x530.jpg"
 largeboxphoto: "/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg"
 mediumboxphoto: "/img/hunter-zach-lewis-667x355.jpg"
 smallboxphoto: "/img/ial-joey-hamilton-340x214.jpg"
 aliases: []
-draft: true
 
 ---
 ### IN A LANDSCAPE: Classical Music in the Wild™
 
 #### AT SHORE ACRES STATE PARK
 
-#### ![](/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg)
+###### ![Hunter Noack, classical pianist plays concerts "in the wild". Photo credit: Ed Schmidt](/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg)  
+_Photo courtesy of In A Landscape. Photo by Ed Schmidt_
 
-{{< spacer 10 >}}
+###### {{< spacer 10 >}}
 
 Founded in 2016 by classical pianist Hunter Noack, **IN A LANDSCAPE: Classical Music in the Wild** is an outdoor concert series where America’s most stunning landscapes replace the traditional concert hall. We bring a 9-foot Steinway grand piano on a flatbed trailer to National Parks, urban greenspaces, working ranches, farms, and historical sites for classical music concerts that connect people with each landscape.
 
 To meet the acoustical challenges of performing in the wild, music is transmitted to concert-goers via wireless headphones. No longer confined to seats, you can explore the landscape, wander through secret glens, lie in sunny meadows, and roam old-growth forests.
 
 #### **ABOUT THIS LANDSCAPE**
+
+![](/img/dahlias-shore-acres-state-park-blog-695x322-jpg.png)
 
 Perched on craggy sandstone cliffs high above the ocean, **Shore Acres State Park** celebrates two sorts of beauty: ruggedly organic and masterfully constructed.
 
@@ -56,6 +58,9 @@ Get here early to explore trails beyond the garden that lead to a secluded ocean
 {{< spacer 25>}}
 
 #### **TICKETS**
+
+###### ![Hunter Noack, classical pianist.](/img/hunter-zach-lewis-667x355.jpg)  
+_Photo courtesy of In A Landscape. Photo by Zach Lewis_
 
 [**Purchase Tickets for Tuesday, 8/10/2021**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-tue-810-tickets-150380705739?aff=ebdsoporgprofile)
 
