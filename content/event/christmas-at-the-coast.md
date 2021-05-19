@@ -28,6 +28,7 @@ largeboxphoto: "/img/tree-lighting-coosbay-1024x395.jpg"
 mediumboxphoto: "/img/tree-lighting-coosbay-667x355.jpg"
 smallboxphoto: "/img/Tree-Lighting-coosbay-340x214.jpg"
 aliases: []
+draft: true
 
 ---
 ![](/img/catc-form-header-695x322-v02-1.jpg)
