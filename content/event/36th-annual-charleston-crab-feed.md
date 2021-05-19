@@ -1,15 +1,15 @@
 ---
-title: 36th Annual Charleston Crab Feed
+title: Annual Charleston Crab Feed
 photo: "/img/crab-feed-feb-header.jpg"
 largeboxphoto: "/img/crab-feed-charleston-large.jpg"
 mediumboxphoto: "/img/crab-feed-charleston-medium.jpg"
 smallboxphoto: "/img/crab-feed-charleston-small.jpg"
-desktoptitle: 36th Annual Charleston Crab Feed
+desktoptitle: Annual Charleston Crab Feed
 mobiletitle: Charleston Crab Feed
-hovertitle: 36th Annual Charleston Crab Feed
+hovertitle: Annual Charleston Crab Feed
 hoverdescription: A delicious feast of Dungeness Crab.
-startdate: '2020-02-08'
-enddate: '2020-02-08'
+startdate: '2022-02-12'
+enddate: '2022-02-12'
 address:
   city: North Bend
   state: OR
@@ -20,13 +20,17 @@ phone_local: 541-297-2095
 website: ''
 
 ---
-Join your friends from Oregon's Adventure Coast for a feast of delicious Dungeness Crab! Fresh Dungeness crab dinners - whole or half crabs at market price - include side dishes, bread, beverage and cake. Area businesses provide items for the drawing. Projected prices are $20 for whole crab dinner and $16 for half crab dinner, but market dictates final price. Pricing may be updated as event approaches. For those who want to attend but don't want to eat crab, a gourmet hot dog lunch with sides will also be available for $10.
+Join your friends from **Oregon's Adventure Coast: Coos Bay, North Bend & Charleston** for a feast of delicious Dungeness Crab! 
+
+Fresh Dungeness crab dinners - whole or half crabs at market price - include side dishes, bread, beverage and cake. Area businesses provide items for the drawing. Pricing will be updated as event approaches. For those who want to attend but don't want to eat crab, a gourmet hot dog lunch with sides will also be available.
+
+{{< spacer 25>}}
 
 **This event runs from 11am to 3pm!  But, Local Tip! Get there early.**
 
 ![](/img/crabs-charters.jpg)
 
-**Truly a Community Affair!** The 1,000+ lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab.  North Bend High School Key Club and Football team help set up tables, and Marshfield High School Key Club helps server the meal. North Bend Lanes/Back Alley Pub will be on hand with wine and beer.
+**Truly a Community Affair!** The 1,000+ lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab.  North Bend High School Key Club and Football team help set up tables, and Marshfield High School Key Club helps server the meal. 
 
 And finish off your meal with delicious homemade pies and cakes provided by the Coos Head Garden Club for the dessert sale.
 

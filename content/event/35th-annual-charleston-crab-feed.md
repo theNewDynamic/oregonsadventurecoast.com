@@ -8,8 +8,8 @@ desktoptitle: 35th Annual Charleston Crab Feed
 mobiletitle: Charleston Crab Feed
 hovertitle: 35th Annual Charleston Crab Feed
 hoverdescription: A delicious feast of Dungeness Crab.
-startdate: 2019-02-09
-enddate: 2019-02-09
+startdate: '2019-02-09'
+enddate: '2019-02-09'
 address:
   city: North Bend
   state: OR
@@ -18,6 +18,7 @@ address:
 phone_toll_free: 800-824-8486
 phone_local: 541-269-0215
 website: http://www.OregonsAdventureCoast.com
+draft: true
 
 ---
 Join your friends from Oregon's Adventure Coast for a feast of delicious Dungeness Crab! Fresh Dungeness crab dinners - whole or half crabs at market price - include side dishes, bread, beverage and cake. Area businesses provide items for the raffle. Projected prices are $20 for whole crab dinner and $16 for half crab dinner, but market dictates final price. Pricing will be updated as event approaches.
