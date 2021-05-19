@@ -9,8 +9,8 @@ mobiletitle: OR Coast Music Fest
 hovertitle: 40th OR Coast Music Fest
 hoverdescription: Coos Bay is home to the longest running music festival on the Oregon
   Coast!
-startdate: 2018-07-24
-enddate: 2018-07-28
+startdate: '2018-07-24'
+enddate: '2018-07-28'
 address:
   city: Coos Bay
   state: OR
@@ -21,6 +21,7 @@ phone_local: 541-267-0938
 website: http://www.oregoncoastmusic.org/
 seo:
   imgalt: Oregon Coast Music Festival Symphony
+draft: true
 
 ---
 ![Symphony at Coast Music Festival](/img/music-festival-large.jpg)
