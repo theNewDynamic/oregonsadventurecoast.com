@@ -29,3 +29,5 @@ The annual **Blackberry Arts Festival** celebrates the delicious blackberry! Bla
 For more information call 541-266-9706.
 
 ### **Blackberry Jam Information Coming Soon**
+
+_Note: we are anticipating this event will happen in 2021. We will update this listing as more information becomes available._
