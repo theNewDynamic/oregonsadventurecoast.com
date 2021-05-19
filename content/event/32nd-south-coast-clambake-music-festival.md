@@ -28,6 +28,7 @@ seo:
     including swing, doo-wop, blues, big band and Zydeco! '
   imgalt: Rocking at the Clambake Music Festival
   image: "/img/clambake-music-fest-medium-03.jpg"
+draft: true
 
 ---
 {{< floatimage src="/img/southcoast-clambake-music-fest-logo.jpg" float="right" alt="Annual South Coast Clambake Music Festival" size="100" >}}
