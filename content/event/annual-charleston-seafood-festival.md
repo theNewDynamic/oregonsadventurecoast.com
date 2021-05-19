@@ -29,7 +29,7 @@ Join us for the Annual Charleston Seafood, Beer & Wine Festival located at the C
 
 Great music all weekend with the **K-DOCK 92.9 FM CLAM JAM** featuring live Rock and Roll, Blues, Oldies, and more!
 
-{{< spacer 10 >}
+{{< spacer 10 >}}
 
 ![](/img/kidsfunzone.png)
 
