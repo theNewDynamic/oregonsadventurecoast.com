@@ -31,10 +31,11 @@ aliases: []
 draft: true
 
 ---
-### IN A LANDSCAPE: Classical Music in the Wild™  
-AT SHORE ACRES STATE PARK
+### IN A LANDSCAPE: Classical Music in the Wild™
 
-![](/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg)
+#### AT SHORE ACRES STATE PARK
+
+#### ![](/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg)
 
 {{< spacer 10 >}}
 
@@ -44,15 +45,15 @@ To meet the acoustical challenges of performing in the wild, music is transmitte
 
 #### **ABOUT THIS LANDSCAPE**
 
-Perched on craggy sandstone cliffs high above the ocean, Shore Acres State Park celebrates two sorts of beauty: ruggedly organic and masterfully constructed.
+Perched on craggy sandstone cliffs high above the ocean, **Shore Acres State Park** celebrates two sorts of beauty: ruggedly organic and masterfully constructed.
 
-Once the grand estate of timber baron Louis J. Simpson, Shore Acres features a formal garden inspired by the original, with plants and flowers from all over the world. Visitors find a Japanese-style garden with lily pond and two carefully curated rose gardens that include All-American Rose Selections. For a schedule of what's in bloom, visit the Friends of Shore Acres website.
+Once the grand estate of timber baron Louis J. Simpson, Shore Acres features a formal garden inspired by the original, with plants and flowers from all over the world. Visitors find a Japanese-style garden with a lily pond and two carefully curated rose gardens that include All-American Rose Selections. For a schedule of what's in bloom, visit the Friends of Shore Acres website.
 
 Get here early to explore trails beyond the garden that lead to a secluded ocean cove at Simpson Beach. And on your way, stop at Sunset Bay State Park, just one mile north of Shore Acres. Sunset Bay offers overnight camping facilities and a sheltered beach. One mile to the south, Cape Arago State Park has hiking trails, picnic tables, and excellent opportunities for viewing tidepool life and the offshore colonies of seals and sea lions on Shell Island and Simpson Reef, part of Oregon Islands National Wildlife Refuge. All three parks are connected by a segment of the Oregon Coast Trail.
 
 **-Thanks to Oregon State Parks for sharing this information.**
 
-{{< spacer 10 >}}
+{{< spacer 25>}}
 
 #### **TICKETS**
 
@@ -69,7 +70,7 @@ Tickets are required to join this event due to COVID-19 restrictions on capacity
 
 If you need assistance in purchasing tickets, email our ticketing office at [tickets@inalandscape.org](mailto:tickets@inalandscape.org)
 
-{{< spacer 10 >}}
+{{< spacer 25 >}}
 
 #### **HEADPHONES**
 
@@ -78,7 +79,7 @@ With your ticket you have two audio options to enjoy the full IN A LANDSCAPE exp
 * Pick up your reserved, sterilized headset at check-in, or
 * Bring your own headphones. Scan QR code at check-in to listen via audio app download on a personal device. (available for iOS and Android)
 
-{{< spacer 10 >}}
+{{< spacer 25 >}}
 
 #### **SEATING**
 
