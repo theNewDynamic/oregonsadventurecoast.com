@@ -11,7 +11,6 @@ seo:
 aliases: []
 accordion_sections: []
 boxes: []
-draft: true
 
 ---
 We know you cannot wait to get here, and we cannot wait to host you!  But this has been a wild year, and we ask you to prepare differently for your 2021 visit than you probably have in years past.
