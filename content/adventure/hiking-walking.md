@@ -49,7 +49,7 @@ We have a whole system of hiking trails in the immediate and surrounding area, b
 
 ## Oregon Coast Trail _(Sunset Bay to Cape Arago)_
 
-Located off Cape Arago Highway through Charleston, you’ll find four miles of trails (one way) winding along one of the most spectacular coastlines in Oregon. From Sunset Bay, the trail winds around the coastal bluffs offering spectacular views of the rugged Oregon coastline, past Shore Acres Botanical Gardens and Simpson Reef viewing area to the captivating Cape Arago State Park. [Visit the Oregon Coast Trail website _(Sunset Bay to Cape Arago,_](https://www.oregon.gov/oprd/PARKS/Pages/OCT_main.aspx) _Segment 7_[_)_](https://www.oregon.gov/oprd/PARKS/Pages/OCT_main.aspx).  [Click here for a trail map]().
+Located off Cape Arago Highway through Charleston, you’ll find four miles of trails (one way) winding along one of the most spectacular coastlines in Oregon. From Sunset Bay, the trail winds around the coastal bluffs offering spectacular views of the rugged Oregon coastline, past Shore Acres Botanical Gardens and Simpson Reef viewing area to the captivating Cape Arago State Park. [Visit the Oregon Coast Trail website _(Sunset Bay to Cape Arago,_](https://www.oregon.gov/oprd/PARKS/Pages/OCT_main.aspx) _Segment 7_[_)_](https://www.oregon.gov/oprd/PARKS/Pages/OCT_main.aspx).  [Click here for a trail map](https://shoreacres.net/wp-content/uploads/2016/06/Trail-Map-Card-2016-web.pdf).
 
 <div class="margin-50px-top"></div>
 
@@ -57,7 +57,7 @@ Located off Cape Arago Highway through Charleston, you’ll find four miles of t
 
 ## Golden & Silver Falls State Natural Area
 
-Located almost an hour by car from Coos Bay at the end of Coos River Highway, Golden and Silver Falls is 24 miles off Highway 101. A hidden gem in the dense coastal forests of southwest Oregon, Golden and Silver Falls State Natural Area may be hard to find, but it's well worth the drive. A small parking and picnic area is located along the banks of Glenn and Silver Creeks, set in an old-growth forest of Douglas fir, Big Leaf Maple and Oregon myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls that plunge over sheer rock cliffs to moss covered boulders 100 feet below. Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the cascading waterfall and giant old-growth firs and cedars. [Visit the Golden & Silver Falls Page on the Oregon State Parks website.](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67)
+Located almost an hour by car from Coos Bay at the end of Coos River Highway, Golden and Silver Falls is 24 miles off Highway 101. A hidden gem in the dense coastal forests of southwest Oregon, Golden and Silver Falls State Natural Area may be hard to find, but it's well worth the drive. A small parking and picnic area is located along the banks of Glenn and Silver Creeks, set in an old-growth forest of Douglas fir, Big Leaf Maple and Oregon Myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls that plunge over sheer rock cliffs to moss covered boulders 100 feet below. Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the cascading waterfall and giant old-growth firs and cedars. [Visit the Golden & Silver Falls Page on the Oregon State Parks website.](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67)
 
 <div class="margin-50px-top"></div>
 
