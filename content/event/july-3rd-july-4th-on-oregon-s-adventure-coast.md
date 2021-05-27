@@ -31,7 +31,7 @@ Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [Th
 
 {{< spacer 25 >}}
 
-**The fireworks display will be moved to the entrance of the Marshfield Channel, in Coos Bay (across from the Coos History Museum) where the fireworks can be seen from the Coos Bay Boardwalk, all along Front Street and Highway 101 to the North Bend Boardwalk. Anywhere that you can see the Bay, you will be able to see the fireworks, including from the top of Telegraph Hill and the Eastside boat ramp!**
+**The fireworks display will be moved to the entrance of the Marshfield Channel, in Coos Bay (across from the Coos History Museum), where the fireworks can be seen from the Coos Bay Boardwalk, all along Front Street and Highway 101 to the North Bend Boardwalk. Anywhere that you can see the Bay, you will be able to see the fireworks, including from the top of Telegraph Hill and the Eastside boat ramp!**
 
 {{< spacer 25 >}}
 
