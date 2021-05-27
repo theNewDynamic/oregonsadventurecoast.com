@@ -1,17 +1,17 @@
 ---
-title: July 3rd & July 4th on Oregon's Adventure Coast
+title: Bay Area Fireworks Extravaganza on Oregon's Adventure Coast
 photo: "/img/fireworks-event-page-header.jpg"
 photo_alt: Fireworks over Coos Bay
 largeboxphoto: "/img/fireworks-event-large.jpg"
 mediumboxphoto: "/img/fireworks-event-medium.jpg"
 smallboxphoto: "/img/fireworks-event-small.jpg"
-desktoptitle: Celebrate Over Coos Bay
-mobiletitle: Celebrate Over Coos Bay
-hovertitle: Celebrate our Independence Over Coos Bay
+desktoptitle: Celebrate Independence Over Coos Bay
+mobiletitle: Celebrate Independence Over Coos Bay
+hovertitle: Celebrate our Independence with the Largest Fireworks Display on the Coast!
 hoverdescription: Don’t miss the Oregon Coast’s largest fireworks display on July
   3rd!
-startdate: '2020-07-03'
-enddate: '2020-07-04'
+startdate: '2021-07-03'
+enddate: '2021-07-03'
 address:
   street: ''
   street2: ''
@@ -23,29 +23,18 @@ website: http://www.oregonsadventurecoast.com
 draft: true
 
 ---
-![](/img/fireworks-event-blog-695x322.jpg)
+![](/img/stevenm-2016-103-3rjuly1.jpg)
 
-## July 3rd Fireworks at The Mill
+## The Largest Fireworks Display on the Coast over Coos Bay on July 3, 2021
 
-_July 3, 2020_
+Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [The Mill Casino](https://www.themillcasino.com/), in conjunction with the [City of Coos Bay](http://coosbay.org/) and the [City of North Bend](https://www.northbendoregon.us/), will light up the skies over the Bay with this year's waterfront fireworks display.
 
-Don’t miss the Oregon Coast’s largest fireworks display on July 3rd. The Mill Casino will light up the skies over North Bend and the Coos Bay shoreline with their annual waterfront fireworks display.
+**The fireworks display will be moved to the entrance of the Marshfield Channel, in Coos Bay (across from the Coos History Museum) where the fireworks can be seen from the Coos Bay Boardwalk, all along Front Street and Highway 101 to the North Bend Boardwalk. Anywhere that you can see the Bay, you will be able to see the fireworks, including from the top of Telegraph Hill and the Eastside boat ramp!**
 
-Guests are invited to enjoy the fireworks show and music for free in the non-reserved seating areas located along the boardwalk. An outdoor grill, beverage station and beer garden will be available from 7 p.m. to 10 p.m. while free non-stop shuttle service will be available from the south end of Pony Village Mall to the casino from 7 p.m. until midnight. This event is open to all ages. Fireworks begin at dusk (approximately 10 p.m.)
+This expanded viewing area will allow viewers to socially distance from others not in their group. We encourage residents and visitors alike to enjoy the fireworks while staying safe.
 
-The Mill Casino * Hotel & RV Park  
-3201 Tremont Ave, North Bend OR, 97459
+**The 20-minute fireworks show commences at 10pm** and will be synchronized to music on K-DOCK radio.  Tune in to [K-DOCK radio 92.9 fm](https://kdockfm.com/) for the live remote and firework display broadcast! 
 
-## 4th of July in Mingus Park & Coos Bay Boardwalk Fireworks
+K-DOCK 92.9 FM will present a pre-show at 9:00 pm featuring upbeat music to get you in the mood for the Fireworks Extravaganza around 10:00 pm.
 
-_July 4, 2019_
-
-This event features the Mayor's 5K run, fishing ponds, face painting, free swimming, family competitions, clowns, kids entertainment, horse viewing and petting, Boy Scouts and Furry Friends Therapy Dogs. Enjoy crafts and goodie bags, delicious food and much more. Fireworks by the City of Coos Bay.
-
-Day time activities take place at Mingus Park with evening activities on the Coos Bay Boardwalk starting at 8 p.m.
-
-Mingus Park  
-10th & Central, Coos Bay OR
-
-Coos Bay Boardwalk  
-Hwy 101 at Central Ave, Coos Bay, OR
+![](/img/Fireworks 667x355.jpg)
