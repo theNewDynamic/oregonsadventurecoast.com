@@ -34,7 +34,8 @@ aliases: []
 
 #### AT SHORE ACRES STATE PARK - August 10 and 11 at 6:00pm
 
-###### ![Hunter Noack, classical pianist plays concerts "in the wild". Photo credit: Ed Schmidt](/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg)  
+###### ![Hunter Noack, classical pianist plays concerts "in the wild". Photo credit: Ed Schmidt](/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg)
+
 _Photo courtesy of IN A LANDSCAPE. Photo by Ed Schmidt_
 
 ###### {{< spacer 10 >}}
@@ -57,11 +58,11 @@ Get here early to explore trails beyond the garden that lead to a secluded ocean
 
 {{< spacer 25>}}
 
-#### **TICKETS**
-
 ###### ![Hunter Noack, classical pianist.](/img/hunter-zach-lewis-667x355.jpg)
 
 _Photo courtesy of IN A LANDSCAPE. Photo by Zach Lewis_
+
+#### **TICKETS**
 
 [**Purchase Tickets for Tuesday, 8/10/2021**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-tue-810-tickets-150380705739?aff=ebdsoporgprofile) **- 6:00pm Concert**
 

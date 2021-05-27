@@ -22,10 +22,10 @@ desktoptitle: Juneteenth Celebration - Virtual and In-Person
 mobiletitle: Juneteenth Celebration
 hovertitle: ''
 hoverdescription: Join the Coos History Museum for this first Juneteenth Celebration.
-photo: ''
-largeboxphoto: ''
-mediumboxphoto: ''
-smallboxphoto: ''
+photo: "/img/coos-history-2048x530.jpg"
+largeboxphoto: "/img/juneteenth-flag-1024x395.jpg"
+mediumboxphoto: "/img/juneteenth-flag-667x355.jpg"
+smallboxphoto: "/img/juneteenth-flag-340x214.jpg"
 aliases: []
 
 ---
