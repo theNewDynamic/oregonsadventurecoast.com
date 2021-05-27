@@ -22,7 +22,6 @@ photo_alt: ''
 date: '2019-02-10T21:57:25.000+00:00'
 
 ---
-
 ![](/img/ocma-image.jpeg)
 
 #### **Oregon Coast Music Association Orchestra Concerts will not happen again in 2021, however, the following outdoor events are scheduled:**
@@ -37,13 +36,13 @@ date: '2019-02-10T21:57:25.000+00:00'
 
 **Saturday, July 17th - Noon - OCMA Presents Bay Area Concert Band and The Shaymus Hanlin Quartet at Mingus Park**
 
-The OCMA Festival partners with the Bay Area Concert Band to provide the traditional opening free concert double treat. Conductor Simpkins has selected several band classics to entertain audiences in the first set. A special treat includes Shaymus Hanlin singing Gershwin’s “But Not for Me” with the band. Following the BACB, the second set features the Shaymus Hanlin Quartet.
+The OCMA Festival partners with the Bay Area Concert Band to provide the traditional opening **free concert** double treat. Conductor Simpkins has selected several band classics to entertain audiences in the first set. A special treat includes Shaymus Hanlin singing Gershwin’s “But Not for Me” with the band. Following the BACB, the second set features the Shaymus Hanlin Quartet.
 
 {{< spacer 50 >}}
 
 **Sunday, July 18th - 2:00pm - OCMA Presents Rose Canyon Harmonie at the Coos History Museum South Plaza**
 
-A unique reed quintet, Rose Canyon Harmonie, features Thomas Schubert, bassoon; Mike Gaby, oboe; Mark Margolies, clarinet; Steve Shields, saxophone; and Robert Zelickman, bass clarinet. The quintet will provide a program with music from the baroque, classical and romantic eras as well as innovative contemporary pieces written specifically for the reed quintet.
+A unique reed quintet, Rose Canyon Harmonie, features Thomas Schubert, bassoon; Mike Gaby, oboe; Mark Margolies, clarinet; Steve Shields, saxophone; and Robert Zelickman, bass clarinet. The quintet will provide a program with music from the baroque, classical and romantic eras as well as innovative contemporary pieces written specifically for the reed quintet. Seating is extremely limited, tickets may be purchased through the OMCA by calling 541-267-0938. 
 
 {{< spacer 50 >}}
 
@@ -51,12 +50,10 @@ A unique reed quintet, Rose Canyon Harmonie, features Thomas Schubert, bassoon; 
 
 **Saturday, July 24th - 2:00pm - OCMA presents Pioneer Trombones at the Coos History Museum South Plaza**
 
-The Pioneer Trombones ensemble includes brass artists Andrew Harris, David Bryan, Phil Neuman, Gayle Neuman, with Dan Stueber on percussion. They will perform popular music of the Americas, with emphasis on South America’s contributions with music by Antonio Carlos Jobim and Astor Piazzola, arranged by Phil Neuman. The group will play works by jazz composers Kenny Dorham, Joe Zawinul and Chick Corea. Selections from ragtime and big band styles will round out an entertaining mix of trombone quartet “chamber music".
+The Pioneer Trombones ensemble includes brass artists Andrew Harris, David Bryan, Phil Neuman, Gayle Neuman, with Dan Stueber on percussion. They will perform popular music of the Americas, with emphasis on South America’s contributions with music by Antonio Carlos Jobim and Astor Piazzola, arranged by Phil Neuman. The group will play works by jazz composers Kenny Dorham, Joe Zawinul and Chick Corea. Selections from ragtime and big band styles will round out an entertaining mix of trombone quartet “chamber music". Seating is extremely limited, tickets may be purchased through the OMCA by calling 541-267-0938.
 
 {{< spacer 50 >}}
 
 **Sunday, July 25th - 2:00pm - OCMA presents Festival Viola Quartet and the Carlos Ensemble at Coos History Museum Plaza**
 
-The Festival Viola Quartet composed of Shelley Mathewson, Cynthia Scott, Brenda Liu, and Sharon Eng provide the first portion of this double concert opportunity. They perform a collection of classical and non-classical pieces, certain to delight the audience with the lovely timbres of the violas.
-
-The Carlos Ensemble with Stephen Chong, Anthony Dyer, Shelley Mathewson, and Dale Bradley provides the wrap up finale. They will perform a wonderful array of pop, Broadway and familiar tunes, bringing much joy to the community!
+The Festival Viola Quartet composed of Shelley Mathewson, Cynthia Scott, Brenda Liu, and Sharon Eng provide the first portion of this double concert opportunity. They perform a collection of classical and non-classical pieces, certain to delight the audience with the lovely timbres of the violas. The Carlos Ensemble with Stephen Chong, Anthony Dyer, Shelley Mathewson, and Dale Bradley provides the wrap up finale. They will perform a wonderful array of pop, Broadway and familiar tunes, bringing much joy to the community! Seating is extremely limited, tickets may be purchased through the OMCA by calling 541-267-0938.
