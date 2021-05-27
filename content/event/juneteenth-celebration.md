@@ -18,7 +18,7 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-desktoptitle: Juneteenth Celebration - Virtual and In-Person
+desktoptitle: Juneteenth Celebration
 mobiletitle: Juneteenth Celebration
 hovertitle: ''
 hoverdescription: Join the Coos History Museum for this first Juneteenth Celebration.
