@@ -18,7 +18,6 @@ address:
   zip: 97420
 phone_local: "(541) 888-3863"
 website: https://cruzthecoos.com/
-draft: true
 
 ---
 ![](/img/cruz-coos-768x512.jpeg)
