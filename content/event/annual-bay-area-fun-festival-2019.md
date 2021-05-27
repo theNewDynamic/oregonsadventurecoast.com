@@ -24,7 +24,7 @@ website: https://bayareafunfestival.com/
 draft: true
 
 ---
-{{< floatimage src="/img/bay-area-fun-fest-large.jpg" float="none" alt="People At Bay Area Fun Fest" size="68" >}}
+![](/img/baff-backgrounder.jpeg)
 
 Summer may be winding down, but the fun continues here on the South Coast! **The Bay Area Fun Festival**, also known as the greatest last party of the summer, happens here in Coos Bay and surrounding areas, the third weekend in September.
 
