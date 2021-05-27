@@ -23,7 +23,7 @@ website: http://www.oregonsadventurecoast.com
 draft: true
 
 ---
-![](/img/stevenm-2016-103-3rjuly1.jpg)
+![Fireworks light up the Bay!](/img/stevenm-2016-103-3rjuly1.jpg "Fireworks light up the Bay!")
 
 ## The Largest Fireworks Display on the Coast over Coos Bay on July 3, 2021
 
