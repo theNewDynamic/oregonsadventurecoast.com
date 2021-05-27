@@ -20,7 +20,6 @@ mediumboxphoto: "/img/ocma-image-667x355.jpg"
 smallboxphoto: "/img/ocma-image-340x214.jpg"
 photo_alt: ''
 date: '2019-02-10T21:57:25.000+00:00'
-draft: true
 
 ---
 
@@ -34,7 +33,7 @@ draft: true
 
 {{< spacer 50 >}}
 
-![](/img/shaymus.jpg)
+![](/img/shaymus-cropped.jpg)
 
 **Saturday, July 17th - Noon - OCMA Presents Bay Area Concert Band and The Shaymus Hanlin Quartet at Mingus Park**
 
@@ -47,6 +46,8 @@ The OCMA Festival partners with the Bay Area Concert Band to provide the traditi
 A unique reed quintet, Rose Canyon Harmonie, features Thomas Schubert, bassoon; Mike Gaby, oboe; Mark Margolies, clarinet; Steve Shields, saxophone; and Robert Zelickman, bass clarinet. The quintet will provide a program with music from the baroque, classical and romantic eras as well as innovative contemporary pieces written specifically for the reed quintet.
 
 {{< spacer 50 >}}
+
+![](/img/trombones-1.jpg)
 
 **Saturday, July 24th - 2:00pm - OCMA presents Pioneer Trombones at the Coos History Museum South Plaza**
 
