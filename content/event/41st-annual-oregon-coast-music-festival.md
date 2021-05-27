@@ -26,7 +26,7 @@ date: '2019-02-10T21:57:25.000+00:00'
 
 #### **Oregon Coast Music Association Orchestra Concerts will not happen again in 2021, however, the following outdoor events are scheduled:**
 
-{{< spacer 100 >}}
+{{< spacer 50 >}}
 
 #### **OCMA EVENTS 2021**
 
@@ -36,7 +36,7 @@ date: '2019-02-10T21:57:25.000+00:00'
 
 **Saturday, July 17th - Noon - OCMA Presents Bay Area Concert Band and The Shaymus Hanlin Quartet at Mingus Park**
 
-The OCMA Festival partners with the Bay Area Concert Band to provide the traditional opening **free concert** double treat. Conductor Simpkins has selected several band classics to entertain audiences in the first set. A special treat includes Shaymus Hanlin singing Gershwin’s “But Not for Me” with the band. Following the BACB, the second set features the Shaymus Hanlin Quartet.
+The OCMA Festival partners with the Bay Area Concert Band to provide the traditional opening **free concert** double treat. Conductor Simpkins has selected several band classics to entertain audiences in the first set. A special treat includes Shaymus Hanlin singing Gershwin’s “But Not for Me” with the band. Following the BACB, the second set features the Shaymus Hanlin Quartet. The concert will be held in the Amphitheatre of Mingus Park. Bring your own chair and a picnic lunch!
 
 {{< spacer 50 >}}
 
