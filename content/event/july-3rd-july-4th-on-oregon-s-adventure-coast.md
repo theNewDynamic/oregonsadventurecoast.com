@@ -41,12 +41,14 @@ This expanded viewing area will allow viewers to socially distance from others n
 
 K-DOCK 92.9 FM will present a pre-show at 9:00 pm featuring upbeat music to get you in the mood for the Fireworks Extravaganza around 10:00 pm.
 
-{{< spacer 50 >}}
+{{< spacer 25 >}}
 
 **It’s up to all of us to safely gather while watching the show – so please keep your distance and think of others’ safety during the event.** 
+
+{{< spacer 25 >}}
 
 _The Mill Casino and parking lots will be closed at 5pm for a private event with no public viewing available._
 
 {{< spacer 25 >}}
 
-![](/img/Fireworks 667x355.jpg)
+![](/img/06-08-18-fireworks-at-the-mill.jpg)
