@@ -20,11 +20,13 @@ boxes: []
 **On May 12, 2021, Coos County moved into the Moderate Risk Category.** This category allows restaurants, indoor recreation and fitness establishments and indoor entertainment  
 establishments to open to 50% capacity (or 100 people, whichever is smaller). It also allows outdoor dining (150 people maximum, including individual dining pods) and retail stores and shopping malls to open to a maximum of 75% occupancy.
 
-**Face coverings** are still mandatory for all when inside a public space but are no longer required outdoors unless 6 feet distancing cannot be maintained. Some businesses, faith organizations, and employers may waive the mask mandate for fully vaccinated visitors, however, this is up to each business and those businesses may require proof of vaccination.
+**Face coverings**:
+
+![](/img/covid-mask-052721.png)
 
 {{< spacer 25>}}
 
-**The Visitor Information Center in Coos Bay is open to assist you when visiting our area 9:00am-5:00pm Monday-Friday, and 10am-2pm Saturday & Sunday.** Please follow the protocols in place at the Center as masks are still required. **_Note: the Visitor Center in North Bend is closed at this time and the Visitor Center in Charleston is open Monday-Saturday._** 
+**The Visitor Information Center in Coos Bay is open to assist you when visiting our area 9:00am-5:00pm Monday-Friday, and 10am-2pm Saturday & Sunday.** Please follow the protocols in place at the Center as masks are still required. **_Note: the Visitor Center in North Bend is closed at this time and the Visitor Center in Charleston is open Monday-Saturday._**
 
 **If you are ready to travel, we are ready to welcome you back to Oregon's Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let's all do our part to stop the spread of COVID-19.**
 
