@@ -1,6 +1,6 @@
 ---
 title: Annual Cruz The Coos
-photo: "/img/events-runners-header.jpg"
+photo: "/img/cruz-coos-2048x530.jpg"
 largeboxphoto: "/img/cruz-the-coos-large.jpg"
 mediumboxphoto: "/img/cruz-the-coos-medium.jpg"
 smallboxphoto: "/img/cruz-the-coos-small.jpg"
@@ -9,8 +9,8 @@ mobiletitle: Cruz The Coos
 hovertitle: Cruz The Coos
 hoverdescription: One of the longest-running and largest classic car cruises on the
   Oregon Coast
-startdate: '2020-09-19'
-enddate: '2020-09-19'
+startdate: '2021-09-18'
+enddate: '2021-09-18'
 address:
   city: Coos Bay
   state: OR
@@ -21,11 +21,11 @@ website: https://cruzthecoos.com/
 draft: true
 
 ---
-{{< floatimage src="/img/cruz-the-coos-large.jpg" float="none" alt="32nd Annual Cruz the Coos" size="68" >}}
+![](/img/cruz-coos-768x512.jpeg)
 
-This event, spanning decades on Oregon’s Adventure Coast, is one of the longest-running and largest classic car cruises on the Oregon Coast featuring hundreds of rare and vintage automobiles. This family-friendly event include a Show ‘n Shine at The Mill Casino Hotel & RV Park and its marquee event, the annual “cruise” through the streets of downtown Coos Bay on Saturday .
+This event, spanning decades on Oregon’s Adventure Coast, is one of the longest-running and largest classic car cruises on the Oregon Coast featuring hundreds of rare and vintage automobiles. This family-friendly event include a Show ‘n Shine at The Mill Casino Hotel & RV Park and its marquee event, the annual “cruise” through the streets of downtown Coos Bay on Saturday, September 18.
 
-This event is part of the annual Bay Area Fun Festival!
+This event is part of the annual **Bay Area Fun Festival**!
 
 #### Here are the other exciting events happening this weekend!
 
