@@ -27,7 +27,6 @@ largeboxphoto: ''
 mediumboxphoto: ''
 smallboxphoto: ''
 aliases: []
-draft: true
 
 ---
 ![](/img/juneteenth-flag.jpeg)
@@ -43,7 +42,7 @@ The Coos History Museum and Alonzo Tucker Task Force Committee comprised of many
 #### **Events:**
 
 **June 15th, 6:30 PM – 8:00 PM  
-Learn:** A livestream webinar discussing the history, education, culture, and significance of Juneteenth featuring special guest panelists:
+Learn:** A **Special Tuesday Talk** livestream webinar will discuss the history, education, culture, and significance of Juneteenth featuring special guest panelists:
 
 * Dr. Carol Bunch Davis, Texas A&M University, Galveston
 * Heather Coleman-Cox, Juneteenth Oregon
