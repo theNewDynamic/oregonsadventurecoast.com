@@ -7,15 +7,15 @@ mediumboxphoto: "/img/fireworks-event-medium.jpg"
 smallboxphoto: "/img/fireworks-event-small.jpg"
 desktoptitle: Celebrate Independence Over Coos Bay
 mobiletitle: Celebrate Independence Over Coos Bay
-hovertitle: Celebrate our Independence with the Largest Fireworks Display on the Coast!
+hovertitle: Celebrate our Independence!
 hoverdescription: Don’t miss the Oregon Coast’s largest fireworks display on July
   3rd!
 startdate: '2021-07-03'
 enddate: '2021-07-03'
 address:
-  street: ''
+  street: Marshfield Channel
   street2: ''
-  city: ''
+  city: Coos Bay
   zip: ''
 phone_local: "(541) 269-0215"
 phone_toll_free: ''
