@@ -1,6 +1,6 @@
 ---
 title: Annual Charleston Seafood, Beer & Wine Festival
-photo: "/img/events-runners-header.jpg"
+photo: "/img/ch-seafood-fest2-2048x530.jpg"
 largeboxphoto: "/img/charleston-seafood-fest-large.jpg"
 mediumboxphoto: "/img/charleston-seafood-fest-medium.jpg"
 smallboxphoto: "/img/charleston-seafood-fest-small.jpg"
