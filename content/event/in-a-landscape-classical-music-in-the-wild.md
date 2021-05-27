@@ -23,9 +23,9 @@ mobiletitle: IN A LANDSCAPE Concert at Shore Acres
 hovertitle: Classical Music in the Wild
 hoverdescription: Join classical pianist Hunter Noack for a special 2 night concert
   series at Shore Acres!
-photo: "/img/ial-cameron-edens-2048x530.jpg"
+photo: "/img/inalandscape-2048x530.jpg"
 largeboxphoto: "/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg"
-mediumboxphoto: "/img/hunter-zach-lewis-667x355.jpg"
+mediumboxphoto: "/img/hunter-noak-at-sunset-667x355.jpg"
 smallboxphoto: "/img/ial-joey-hamilton-340x214.jpg"
 aliases: []
 
@@ -34,8 +34,7 @@ aliases: []
 
 #### AT SHORE ACRES STATE PARK - August 10 and 11 at 6:00pm
 
-###### ![Hunter Noack, classical pianist plays concerts "in the wild". Photo credit: Ed Schmidt](/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg)
-
+###### ![Hunter Noack, classical pianist plays concerts "in the wild". Photo credit: Ed Schmidt](/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg)  
 _Photo courtesy of IN A LANDSCAPE. Photo by Ed Schmidt_
 
 ###### {{< spacer 10 >}}

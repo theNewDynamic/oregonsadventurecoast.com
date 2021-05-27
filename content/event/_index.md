@@ -1,5 +1,7 @@
 ---
 title: Events
 outputs:
-  - JSON
+- JSON
+draft: true
+
 ---
