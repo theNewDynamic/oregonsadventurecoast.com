@@ -21,7 +21,6 @@ address:
 phone_toll_free: ''
 phone_local: "(541) 269-0215"
 website: https://bayareafunfestival.com/
-draft: true
 
 ---
 ![](/img/baff-backgrounder.jpeg)

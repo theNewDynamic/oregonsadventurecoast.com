@@ -8,22 +8,21 @@ desktoptitle: Annual Prefontaine Memorial Run
 mobiletitle: Prefontaine Run
 hovertitle: Prefontaine Run
 hoverdescription: Race honors one of America’s greatest distance runners, Steve Prefontaine.
-startdate: '2020-09-19'
-enddate: '2020-09-19'
+startdate: '2021-09-18'
+enddate: '2021-09-18'
 address:
   city: Coos Bay
   state: OR
   street: 235 Anderson Avenue
   zip: 97420
 website: http://www.prefontainerun.com
-draft: true
 
 ---
 {{< floatimage src="/img/prefontaine-run.large.jpg" float="none" alt="Prefontaine Runners" size="68" >}}
 
 A rolling and challenging course, this 10K road race honors one of America’s greatest distance runners, Steve Prefontaine. Event includes the 10K run and a 2M walk. Hilly, out and back.
 
-Part of the annual Bay Area Fun Fest, September 19-20, 2020.
+Part of the annual Bay Area Fun Fest, September 18-19, 2021.
 
 [Registration available online](http://www.prefontainerun.com/).
 
