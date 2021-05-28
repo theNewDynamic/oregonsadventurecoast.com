@@ -22,23 +22,15 @@ This beautiful undeveloped beach is never crowded makes you feel as if you've en
 
 We could say more, but this video by <a href="https://www.blm.gov/oregon-washington" target="_blank" rel="noopener noreferrer">The Bureau of Land Management</a> does an excellent job demonstrating why Bastendorff Beach is a must see for beach enthusiasts. <em>Note: Visitors going to the beach should be aware of <a href="http://www.oregon.gov/OPRD/PARKS/beach_tips.shtml">coastal safety hazards</a> with the potential danger of <a href="http://en.wikipedia.org/wiki/Undertow_(wave_action)">undertow</a><a href="http://en.wikipedia.org/wiki/Undertow_(wave_action)">s</a>, <a href="http://en.wikipedia.org/wiki/Sneaker_wave">sneaker waves</a> and <a href="http://www.co.coos.or.us/Portals/0/Parks/BriefParkRules.pdf" target="_blank" rel="noopener noreferrer">rolling logs</a>.</em>
 
-<iframe src="https://www.youtube.com/embed/SngRceWuWu4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 658px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-version="7">
-<div style="padding: 8px;">
-<div style="background: #F8F8F8; line-height: 0; margin-top: 40px; padding: 50.0% 0; text-align: center; width: 100%;"></div>
-<p style="margin: 8px 0 0 0; padding: 0 4px;"><a style="color: #000; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none; word-wrap: break-word;" href="https://www.instagram.com/p/BW8_YjwFefO/" target="_blank" rel="noopener noreferrer">I love my #pacificocean at #bastendorffbeach #oregon #oregoncoast #beach</a></p>
-<p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;">A post shared by Cassie McCutcheon (@kakki1923) on <time style="font-family: Arial,sans-serif; font-size: 14px; line-height: 17px;" datetime="2017-07-25T02:35:12+00:00">Jul 24, 2017 at 7:35pm PDT</time></p>
+<iframe src="https://www.youtube.com/embed/SngRceWuWu4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe> <blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 658px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-version="7">
 
-</div></blockquote>
-<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+{{< spacer 50 >}}
 
 Overlooking Bastendorff Beach is the spacious 89 acre <a href="http://www.oregonsadventurecoast.com/listings/bastendorff-beach-county-park/">Bastendorff County Park Site</a>, one of our most popular local campgrounds. Campers love the amenities, convenience, gorgeous view of the ocean and the fact that is family friendly. Surrounded by large trees and coastal foliage, campers have access to a fish cleaning area, picnic areas, tent sites, cabins, public phones, drinking water, a playground and more.
 
 If overnight camping isn't your thing,  you can still enjoy the park and it's day-use area that includes picnic sites with gazebo-like shelters (shelters can be reserved) equipped with charcoal grills, (must provide own charcoal) electric outlets, electric four-burner stovetops, and kitchen sinks with cold running water.  Day "campers" can also enjoy a game of softball and volleyball  in addition to a fire pit, barbecue, horseshoe court, basketball court, and much more.
 
 To give you more of a feel for this beach, check out some of these photos we found on Instagram!
-
- 
 
 </div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
