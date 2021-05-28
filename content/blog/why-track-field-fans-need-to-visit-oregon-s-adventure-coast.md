@@ -39,7 +39,7 @@ After a year of lock-downs, event cancellations, social distancing, travel bans 
 
 There are many reasons why runners and sports fans love to travel here. There is an abundance of natural running and hiking trails, temperate weather and coastal beauty that can’t be found anywhere else in the country. However, there is one primary reason Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is a popular destination with running fans. Visitors from all over the world have traveled to Oregon’s Adventure Coast to explore the hometown of internationally acclaimed track star[ Steve Prefontaine,](https://www.oregonsadventurecoast.com/steve-prefontaine-story/) who helped to inspire the American running craze that began in the mid-1970s.
 
-![](/img/prefontaine-tall-image.jpg)
+{{< floatimage src="img/prefontaine-tall-image.jpg" float="right" alt="Prefontaine thousand miler" size="100" >}}
 
 Steve Prefontaine, or “Pre”, as he was called, was born and raised in Coos Bay, Oregon, and graduated from [Marshfield High School](http://marshfield.cbd9.net/). Upon entering the [University of Oregon](http://www.goducks.com/ViewArticle.dbml?ATCLID=30594) in 1969, he was one of the most highly recruited high school track athletes ever, and went on to compete in international meets against the USSR, Germany, Great Britain and a combined European team. His life was tragically cut short in a car accident at the age of 24. At the time of his death, Pre held every American distance running record from 2-miles through 10,000 meters.
 
@@ -67,7 +67,7 @@ Here are some other suggestions to add to your travel itinerary.
 
 [Click here for directions](https://www.oregonsadventurecoast.com/travelers-info/) and other important travel tips. Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor activities, prime shopping, fine dining, special events, or an evening of entertainment, Oregon’s Adventure Coast has it all, and more! Learn more about vacation ideas on our site, or reach out to us for help planning your next trip or family getaway.
 
-[Click here](https://www.oregonsadventurecoast.com/contact/) to contact Oregon’s Adventure Coast and start planning your trip today! 
+[Click here](https://www.oregonsadventurecoast.com/contact/) to contact Oregon’s Adventure Coast and start planning your trip today!
 
 \---------
 
