@@ -29,7 +29,7 @@ smallboxphoto: "/img/juneteenth-flag-340x214.jpg"
 aliases: []
 
 ---
-![](/img/juneteenth-flag.jpeg)
+![](/img/juneteenth-logo-cropped-sm.jpg)
 
 ### 2021 JUNETEENTH CELEBRATION
 
@@ -38,6 +38,8 @@ The Coos History Museum and Alonzo Tucker Task Force Committee comprised of many
 **Juneteenth**, also known as Jubilee Day or Freedom Day, is the oldest national celebration marking the ending of slavery in the United States. Juneteenth has been commemorated since June 19, 1865 when the last slaves in Galveston, Texas finally learned they were free- over two years after the Emancipation Proclamation of January 1, 1863. Today the event is widely celebrated across the United States.
 
 {{< spacer 25 >}}
+
+![](/img/juneteenth-flag.jpeg)
 
 #### **Events:**
 
