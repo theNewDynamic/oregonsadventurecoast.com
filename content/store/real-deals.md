@@ -3,7 +3,7 @@ title: Real Deals
 property_description: Irresistible prices on home décor & the latest fashion & accessories.
   There's inspiration around every corner in our locally-owned shoppe! We hand-pick
   pieces for every personal style and season, with new items arriving daily.
-photo_name: ''
+photo_name: "/img/real-deals-630x366.jpg"
 photo_alt: bright red, white and green watermelon home decor items displayed on a
   shelf
 property_category:
@@ -27,6 +27,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
