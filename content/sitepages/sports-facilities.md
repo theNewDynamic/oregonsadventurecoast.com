@@ -30,8 +30,7 @@ Southwestern Oregon Community College is centrally located and offers a multitud
 
 Coos Bay, OR 97420
 
-\**
-Contact:** Kim Richards - [mailto:roomres@socc.edu](mailto:roomres@socc.edu)
+**Contact:** Kim Richards - [mailto:roomres@socc.edu](mailto:roomres@socc.edu)
 | (541) 888-7250
 
 #### Baseball Field
@@ -41,38 +40,18 @@ Contact:** Kim Richards - [mailto:roomres@socc.edu](mailto:roomres@socc.edu)
 * **Meets Regulations:** Yes
 * **Seating Capacity for Fans:** 1000
 * **Parking Capacity:** 3000
-
-***
-
-Locker Rooms on Site:** No _(short distance away)
-_
-
+* **Locker Rooms on Site:** No _(short distance away)_
 * **Public Restrooms:** Yes
 
 #### Prosper Hall / Speasl Court
 
 * **Built in 1965**
-
-***
-
-Hardwood Floors
-\**
-
+* **Hardwood Floors**
 * **Sports Appropriate to Venue:** Basketball, Volleyball, wrestling, Racquet Ball, Dance & Exercise, Rock Climbing
 * **Meets Regulations:** Yes
-
-***
-
-Seating Capacity for Fans:** 1000
-
-***
-
-Parking Capacity:** 3000
-
-***
-
-Locker Rooms on Site:** Yes
-
+* **Seating Capacity for Fans:** 1000
+* **Parking Capacity:** 3000
+* **Locker Rooms on Site:** Yes
 * **Public Restrooms:** Yes
 
 #### Recreation Center
@@ -82,47 +61,17 @@ Locker Rooms on Site:** Yes
 * **Features:**
   State of the art scoreboards, six automatic basketball hoops, rock climbing wall, full fitness room with cardiovascular machines, hammer strength and free weights, additional classrooms for meetings/videos
 * **Meets Regulations:** Yes
-
-***
-
-Seating Capacity for Fans:** Unknown
-
-***
-
-Parking Capacity:** 3000
-
-***
-
-Locker Rooms on Site:** Yes
-
-***
-
-Public Restrooms:** Yes
+* **Seating Capacity for Fans:** Unknown
+* **Parking Capacity:** 3000
+* **Locker Rooms on Site:** Yes
+* **Public Restrooms:** Yes
 
 #### Softball Field
 
 * **Built/Remodeled in 2007**
-
-***
-
-Natural Grass and Dirt**
-
-***
-
-Meets Regulations:** Yes
-
-***
-
-Seating Capacity for Fans:** 1000
-
-***
-
-Parking Capacity:** 3000
-
-***
-
-Locker Rooms on Site:** Yes
-
-***
-
-Public Restrooms:** Yes
+* **Natural Grass and Dirt**
+* **Meets Regulations:** Yes
+* **Seating Capacity for Fans:** 1000
+* **Parking Capacity:** 3000
+* **Locker Rooms on Site:** Yes
+* **Public Restrooms:** Yes
