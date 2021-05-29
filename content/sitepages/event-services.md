@@ -16,4 +16,4 @@ When you select Oregon’s Adventure Coast for your meeting, convention, group t
 * [Mileage Chart PDF](/img/mileage-chart.pdf)
 * [Transportation Options PDF](/img/Transportation-Options-08-2020-REV.pdf)
 
-If you’d like more personalized help, e-mail us today at [mailto:info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com).
+If you’d like more personalized help, e-mail us today at [info@oregonsadventurecoast.com](mailto: info@oregonsadventurecoast.com).
