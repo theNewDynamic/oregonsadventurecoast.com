@@ -30,29 +30,18 @@ accordion_sections:
       #### Do Not Remove Attached Animals
 
       Though the temptation may be to grab a critter you see, keep in mind that doing so can bring damage to the organism and even ecosystem as a whole.
-  - title: DELETE
-    content: |-
-      #### Watch Where You Step
 
-      This tip goes hand in hand with the previous one. When the tide goes out it’s likely to leave behind slick, **slick** seaweed. Stepping on it can result in a vicious fall and potential serious injury. Tread heavy and carefully.
-  - title: DELETE
-    content: |-
-      #### Do Not Remove Attached Animals
+      #### Don’t Leave Rocks Overturned
 
-      Though the temptation may be to grab a critter you see, keep in mind that doing so can bring damage to the organism and even ecosystem as a whole.
-  - title: Don’t Leave Rocks Overturned
-    content: Similarly, rocks provide a crucial part of the ecosystem of many of the
-      organisms you’ll see when tide-pooling. By leaving rocks overturned you can
-      negatively influence the ecosystem and disrupt different species.
-  - title: Leave it Better Than You Found it
-    content: This one is a good rule in general but goes double when you are visiting
-      the beaches. Bring a bag with you to pick up after your own trash and if you’re
-      so inclined to pick up any stray pieces of garbage you come across. Not only
-      are you doing your part to help the environment but you’re also beautifying
-      the area for other visitors.
-  - title: Bring a Camera
-    content: You’ll be seeing some beautiful sights along these beach spots, we strongly
-      recommend taking some pictures as you do so.
+      Similarly, rocks provide a crucial part of the ecosystem of many of the organisms you’ll see when tide-pooling. By leaving rocks overturned you can negatively influence the ecosystem and disrupt different species.
+
+      #### Leave it Better Than You Found it
+
+      This one is a good rule in general but goes double when you are visiting the beaches. Bring a bag with you to pick up after your own trash and if you’re so inclined to pick up any stray pieces of garbage you come across. Not only are you doing your part to help the environment but you’re also beautifying the area for other visitors.
+
+      #### Bring a Camera
+
+      You’ll be seeing some beautiful sights along these beach spots, we strongly recommend taking some pictures as you do so.
 
 ---
 ## BEAUTY AT LANDS END
