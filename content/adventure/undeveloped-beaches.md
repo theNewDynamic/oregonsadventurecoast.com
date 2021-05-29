@@ -11,13 +11,13 @@ seo:
     water adventures.
   title: Oregon Coast Vacations - Undeveloped Beaches | Oregon's Adventure Coast
 accordion_sections:
-- title: Beach-Combing & Tide-Pooling Tips
+- title: ''
   accordions:
-  - title: Check the Tides Charts
-    content: When beach-combing and tide-pooling it’s crucial to make sure the tide
-      is out during the time you’ll be on the beach. Visit [www.tides4fishing.com](https://tides4fishing.com/us/oregon/coos-bay%20and/)
-      and/or [www.tideschart.com](https://www.tideschart.com/United-States/Oregon/Coos-Bay)
-      for an easy-to-use tide chart for the Coos Bay area.
+  - title: Beach-Combing & Tide-Pooling Tips
+    content: |-
+      #### Check the Tides Charts
+
+      When beach-combing and tide-pooling it’s crucial to make sure the tide is out during the time you’ll be on the beach. Visit [www.tides4fishing.com](https://tides4fishing.com/us/oregon/coos-bay%20and/) and/or [www.tideschart.com](https://www.tideschart.com/United-States/Oregon/Coos-Bay) for an easy-to-use tide chart for the Coos Bay area.
   - title: Wear Shoes/Boots with Grip
     content: Just because it’s the beach does not mean there will be any shortage
       of sharp surfaces and potentially harmful objects. Bring shoes with grip to
