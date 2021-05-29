@@ -18,18 +18,28 @@ accordion_sections:
       #### Check the Tides Charts
 
       When beach-combing and tide-pooling it’s crucial to make sure the tide is out during the time you’ll be on the beach. Visit [www.tides4fishing.com](https://tides4fishing.com/us/oregon/coos-bay%20and/) and/or [www.tideschart.com](https://www.tideschart.com/United-States/Oregon/Coos-Bay) for an easy-to-use tide chart for the Coos Bay area.
-  - title: Wear Shoes/Boots with Grip
-    content: Just because it’s the beach does not mean there will be any shortage
-      of sharp surfaces and potentially harmful objects. Bring shoes with grip to
-      ensure you’ll keep your footing as you make your way down paths to the beach
-      and to keep your feet safe.
-  - title: Watch Where You Step
-    content: This tip goes hand in hand with the previous one. When the tide goes
-      out it’s likely to leave behind slick, **slick** seaweed. Stepping on it can
-      result in a vicious fall and potential serious injury. Tread heavy and carefully.
-  - title: Do Not Remove Attached Animals
-    content: Though the temptation may be to grab a critter you see, keep in mind
-      that doing so can bring damage to the organism and even ecosystem as a whole.
+
+      #### Wear Shoes/Boots with Grip
+
+      Just because it’s the beach does not mean there will be any shortage of sharp surfaces and potentially harmful objects. Bring shoes with grip to ensure you’ll keep your footing as you make your way down paths to the beach and to keep your feet safe.
+
+      #### Watch Where You Step
+
+      This tip goes hand in hand with the previous one. When the tide goes out it’s likely to leave behind slick, **slick** seaweed. Stepping on it can result in a vicious fall and potential serious injury. Tread heavy and carefully.
+
+      #### Do Not Remove Attached Animals
+
+      Though the temptation may be to grab a critter you see, keep in mind that doing so can bring damage to the organism and even ecosystem as a whole.
+  - title: DELETE
+    content: |-
+      #### Watch Where You Step
+
+      This tip goes hand in hand with the previous one. When the tide goes out it’s likely to leave behind slick, **slick** seaweed. Stepping on it can result in a vicious fall and potential serious injury. Tread heavy and carefully.
+  - title: DELETE
+    content: |-
+      #### Do Not Remove Attached Animals
+
+      Though the temptation may be to grab a critter you see, keep in mind that doing so can bring damage to the organism and even ecosystem as a whole.
   - title: Don’t Leave Rocks Overturned
     content: Similarly, rocks provide a crucial part of the ecosystem of many of the
       organisms you’ll see when tide-pooling. By leaving rocks overturned you can
