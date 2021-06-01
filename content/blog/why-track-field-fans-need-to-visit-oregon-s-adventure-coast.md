@@ -30,7 +30,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 ## _Traveling to Oregon to Watch the 2021 U.S. Olympic Team Trials - Track & Field Event? Take a Side Trip to Steve Prefontaine’s Hometown!_
