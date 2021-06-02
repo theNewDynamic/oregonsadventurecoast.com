@@ -17,3 +17,5 @@ When you select Oregon’s Adventure Coast for your meeting, convention, group t
 * [Transportation Options PDF](/img/Transportation-Options-08-2020-REV.pdf)
 
 If you’d like more personalized help, e-mail us today at [info@OregonsAdventureCaost.com](mailto:info@oregonsadventurecoast.com).
+
+[Catering Options PDF](/img/Catering-Options-2-20.pdf)
