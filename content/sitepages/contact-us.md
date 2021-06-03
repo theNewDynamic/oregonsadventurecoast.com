@@ -65,7 +65,9 @@ Charleston, OR 97429
 Open Seasonally: May 1st - September 30th
 
 {{< /columns >}}
-<a id="contactform"></a>
+
+<div id="contactform"></div>
+
 ### Request a Visitor Guide / Packet
   
 {{< iframe "jotform">}}

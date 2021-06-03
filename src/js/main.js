@@ -24,6 +24,7 @@
                 !href.includes('oregonsadventurecoast.com') &&
                 !href.includes('localhost') &&
                 href.charAt(0) !== '/' &&
+                href.charAt(0) !== '#' &&
                 !href.includes('mailto:')) {
             $(this).attr('target', '_blank');
         }

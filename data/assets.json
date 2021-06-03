@@ -24,8 +24,8 @@
     "jsIntegrity": "sha256-ks4SoK3xQGLpecfGJfn0uo9uiCLu4rnwBcmgI55aEcY="
   },
   "main": {
-    "js": "/dist/main.9e1f1ea244e81468bffb.js",
-    "jsIntegrity": "sha256-b606r4Szr2G3EYlX1GA9JKQ4zZcwzCQLqMlLs//S9Mc="
+    "js": "/dist/main.48e7a953c2bcdbd4acd8.js",
+    "jsIntegrity": "sha256-YCrO2ARH0YogMiv4HriqW7dbQ+ehmHAEFp2o+27CItM="
   },
   "search": {
     "js": "/dist/search.e4ef03cabaf493e80d5a.js",
