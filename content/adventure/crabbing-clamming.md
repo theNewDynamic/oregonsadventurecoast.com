@@ -39,7 +39,7 @@ Here are a few tips we want to share from the [Oregon Department of Fish and Wil
 
 The lower bay (from ocean entrance to the airport) is “marine dominated”, meaning there is little freshwater influence, and offers some of Oregon’s most productive shellfishing opportunities.
 
-<a href="/img/crabbingmap-lowercoosbay-07-20.pdf" class="learn-more-anywhere-btn">Download Map »</a> ++++
+<a href="/img/crabbingmap-lowercoosbay-07-20.pdf" class="learn-more-anywhere-btn">Download Map »</a> divider
 
 ![Charleston Crabbing Map](/img/charleston-crabbing-header.jpg)
 

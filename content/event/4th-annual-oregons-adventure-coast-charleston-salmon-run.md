@@ -43,7 +43,7 @@ _Noon to 8:00pm_
 **7 Devils Brewing Company**  
 247 S 2nd Street  
 Coos Bay, OR 97420
-\++++
+divider
 
 #### Saturday, Oct 3, 2020
 

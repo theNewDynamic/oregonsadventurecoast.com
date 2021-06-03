@@ -41,7 +41,7 @@ No appointment is necessary; just drop in and you’ll find:
 * Advanced diagnostic imaging technology (X-ray, MRI and CT)
 * Full Service Laboratory<br><br>
 
-\++++
+divider
 
 #### Nova Urgent Care
 
@@ -74,7 +74,7 @@ Coos Bay, Oregon 97420
 
 Bay Area Hospital is a 172-bed, publicly owned, acute care facility, and is the largest hospital on the Oregon Coast and serves as the South Coast’s regional referral center. As the medical center for Oregon’s South Coast, the hospital offers a comprehensive range of diagnostic & therapeutic services. Inpatient and outpatient services include the accredited Bay Area Cancer Center with medical and radiation oncology, the Prefontaine Cardiovascular Center with a full range of cardiology services, mental health, pediatric, obstetrical, surgical, wound care with a hyperbaric chamber and more. Physicians, nurses, & technologists are on duty 24 hours a day to meet the medical and emergency needs of the South Coast residents and visitors.
 
-\++++
+divider
 
 ![North Bend Medical Center in North Bend, Oregon](/img/north-bend-medical-center-1.jpg)
 
@@ -104,7 +104,7 @@ Bay Clinic offers quality care by a skilled staff of clinicians in internal medi
 
 The Bay Clinic Pediatrics specializes in pediatric and adolescent medicine. The extended hours for the Pediatrics practice at Bay Clinic are Monday-Thursday 5:30pm to 6:30pm.
 
-\++++
+divider
 
 ![](/img/19896_or_Waterfall_Clinic_Inc_vlb.jpg)
 
@@ -153,7 +153,7 @@ Monday-Friday 7:00-7:00
 Saturday 8:00-6:00  
 **No after hours emergency care available, but do offer extended regular hours of operation**
 
-\++++
+divider
 
 ![](/img/veternarians.jpg)
 

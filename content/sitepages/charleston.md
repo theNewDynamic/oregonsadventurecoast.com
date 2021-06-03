@@ -32,7 +32,7 @@ A stroll through Coos Bay shows the merging of past and present. Historic buildi
 
 <a href="/our-area-coos-bay" class="learn-more-anywhere-btn">Learn More »</a>
 
-++++
+divider
 
 ![McCullough Bridge in North Bend, Oregon](/img/col-our-area-north-bend.jpg)
 

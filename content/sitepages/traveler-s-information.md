@@ -68,7 +68,7 @@ Dunes City, OR\
 
 Pick up service at hotel or in town & short term care available for visitors; anywhere from a couple hours to long term stays. Pet sitting is in a nice home environment with fenced yeard, pets sleep indoors. Excellent references, credit cards accepted. Carol’s Pet Sitting is proud to be named a local’s favorite by reader’s of our local newspaper.
 
-++++
+divider
 
 ![Morgan Veterinary](/img/dog-02.jpg)
 
@@ -80,7 +80,7 @@ Coos Bay, OR\
 
 Boarding and Day Care available for dogs, cats and birds. Their kennel attendants feed, nurture and lavish attention when you can’t be there. They provide tender loving care (such as brushing and cuddling), and supervised outdoor playtime to keep your pet happy and active. Hours are Mon-Fri 8:30am-5:30pm,  weekend pick ups can be arranged.
 
-++++
+divider
 
 ![Riverview Kennels](/img/dog-03.jpg)
 
@@ -123,7 +123,7 @@ Coos Bay, OR 97420\
 (541) 269-8111\
 {{< link url="http://www.bayareahospital.org/Index.aspx" >}}BayAreaHospital.org {{< /link >}}
 
-++++
+divider
 
 ![North Bend Medical Center](/img/north-bend-medical-center.jpg)
 
@@ -133,7 +133,7 @@ Coos Bay, OR 97420\
 (541) 267-5151 \
 {{< link url="https://nbmcweb.com/" >}}NBMCWeb.com{{< /link >}}
 
-++++
+divider
 
 ![Immediate Care Clinic at North Bend Medical Center](/img/north-bend-medical-center.jpg)
 

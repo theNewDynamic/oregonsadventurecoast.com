@@ -43,7 +43,7 @@ For vendor information please contact (541) 267-5008 or (541) 267-0749.
 
 [![Annual Cruz the Coos](/img/cruz-the-coos-column.jpg)](/event/annual-cruz-the-coos/)
 
-\++++
+divider
 
 [![Annual Prefontaine Memorial Run](/img/prefontaine-run-column.jpg)](/event/annual-prefontaine-memorial-run/)
 

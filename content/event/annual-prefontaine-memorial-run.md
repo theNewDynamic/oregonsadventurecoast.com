@@ -34,7 +34,7 @@ Part of the annual Bay Area Fun Fest, September 18-19, 2021.
 
 [![Annual Bay Area Fun Festival](/img/bay-area-fun-festival-column.jpg)](/event/annual-bay-area-fun-festival-2020/)
 
-\++++
+divider
 
 [![Annual Cruz the Coos](/img/cruz-the-coos-column.jpg)](/event/annual-cruz-the-coos/)
 

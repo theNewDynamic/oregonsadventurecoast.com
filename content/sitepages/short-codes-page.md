@@ -9,7 +9,7 @@ url: /shortcodes
 
 {{< columns number="3" >}}
 Content
-++++
+divider
 Content
-++++
+divider
 {{< /columns >}}

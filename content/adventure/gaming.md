@@ -27,7 +27,7 @@ Gaming is just another example of how you can make your own adventure, here, at 
 
 You will find gaming, lodging, dining and entertainment in an exceptional casino environment. With over 700 slots, card and table games, plus the South Coast's Only Sports Betting, you will find your favorite game. The slots start out at 1 penny with chances to win millions. Table games include blackjack, Spanish 21 and craps & roulette (seasonally).
 
-\++++
+divider
 
 ![Three Rivers Casino - Coos Bay](/img/three-rivers-casino.jpg)
 

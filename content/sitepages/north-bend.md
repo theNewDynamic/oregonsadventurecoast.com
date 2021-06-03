@@ -33,7 +33,7 @@ A stroll through Coos Bay shows the merging of past and present. Historic buildi
 
 <a href="/our-area-coos-bay" class="learn-more-anywhere-btn">Learn More »</a>
 
-++++
+divider
 
 ![The Marina in Charleston, Oregon](/img/col-our-area-charleston.jpg)
 

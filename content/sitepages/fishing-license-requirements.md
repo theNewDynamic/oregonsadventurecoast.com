@@ -31,7 +31,7 @@ Coos Bay, OR 97420<br>
 
 Bi-Mart is your neighborhood store offering great value! Get your fishing license, gear and supplies all in one location.
 
-\++++
+divider
 
 ![](/img/big-5-fishing-license-pg.jpg)
 
@@ -53,7 +53,7 @@ Coos Bay, OR 97420<br>
 (541) 888-5488
 
 Wal-Mart sells fishing gear and fishing licenses for the sport fisherman, along with all the snacks, beverages, coolers, and accessories you might need for your next fishing excursion.
-\++++
+divider
 
 ![](/img/odfw-fishing-license-pg-02.jpg)
 
@@ -75,7 +75,7 @@ Charleston, OR 97420<br>
 (541) 888-FISH
 
 Basin Tackle is located in the Charleston Marina. With friendly, helpful, and somewhat quirky staff, Basin Tackle has become something of a local institution drawing people from near and far. Basin Tackle carries everything you need for salt and freshwater fishing, crabbing, or clamming and the instruction to go with it. M-Sat 8am-5pm, Sun 8am-Noon.  
-\++++
+divider
 
 ![](/img/bites-on-fishing-license-bait-pg.jpg)
 

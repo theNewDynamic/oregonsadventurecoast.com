@@ -35,7 +35,7 @@ On the “North Bend” of the bay, this town boasts great beaches, the Oregon C
 
 <a href="/our-area-north-bend" class="learn-more-anywhere-btn">Learn More »</a>
 
-++++
+divider
 
 ![The Marina in Charleston, Oregon](/img/col-our-area-charleston.jpg)
 
