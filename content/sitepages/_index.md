@@ -43,7 +43,7 @@ A stroll through Coos Bay shows the merging of past and present. Historic buildi
 
 <a href="/our-area-coos-bay" class="learn-more-anywhere-btn">Learn More »</a>
 
-++++
+divider
 
 ![McCullough Bridge in North Bend, Oregon](/img/col-our-area-north-bend.jpg)
 
@@ -53,7 +53,7 @@ On the “North Bend” of the bay, this town boasts great beaches, the Oregon C
 
 <a href="/our-area-north-bend" class="learn-more-anywhere-btn">Learn More »</a>
 
-++++
+divider
 
 ![The Marina in Charleston, Oregon](/img/col-our-area-charleston.jpg)
 

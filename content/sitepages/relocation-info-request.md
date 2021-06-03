@@ -30,7 +30,7 @@ Coos Bay, OR 97420
 (541) 266-0868  
 [timmslater@oregonsbayarea.org](mailto:timmslater@oregonsbayarea.org)
 
-\++++
+divider
 
 [**South Coast Development Council**](https://www.scdcinc.org)
 Regional Business Relocation and Expansion Services   
@@ -59,7 +59,7 @@ Contact: Holly Boardman, Executive Director
 (541)266-9706  
 [director@coosbaydowntown.org](mailto:director@coosbaydowntown.org)
 
-\++++
+divider
 
 [**Charleston Merchants Association**](https://charlestonoregonmerchants.com)  
 Contact: Tim Hyatt c/o Sunset Bay Golf Course  

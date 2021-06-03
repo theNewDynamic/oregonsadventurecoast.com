@@ -55,7 +55,7 @@ _(Waiting line of cars likely, especially on a dry night)_
 
 **There is less traffic on rainy nights and the lights are beautiful in the rain!**
 
-\++++
+divider
 
 #### Other Tips
 

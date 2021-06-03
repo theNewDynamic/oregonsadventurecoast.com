@@ -66,7 +66,7 @@ The low tides commonly found from Empire to Charleston make our region one of th
 
 The lower bay (from ocean entrance to the airport) is “marine dominated”, meaning there is little freshwater influence, and offers some of Oregon’s most productive shellfishing opportunities.
 
-<a href="/img/clamming-map-lower-coos-bay-06-20.pdf" class="learn-more-anywhere-btn">Download Map »</a> ++++
+<a href="/img/clamming-map-lower-coos-bay-06-20.pdf" class="learn-more-anywhere-btn">Download Map »</a> divider
 
 ![](/img/charleston-clamming-header.jpg)
 

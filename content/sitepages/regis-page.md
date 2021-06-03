@@ -15,11 +15,11 @@ draft: true
 ## This is my page. Regis.
 
 {{< columns >}} This is what I think  
-\++++ 
+divider 
 
 But I may be wrong
 
-\++++ 
+divider 
 
 We'll see {{< /columns >}}
 

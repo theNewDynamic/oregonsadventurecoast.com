@@ -34,7 +34,7 @@ This event is part of the annual **Bay Area Fun Festival**!
 
 [![Annual Bay Area Fun Festival](/img/bay-area-fun-festival-column.jpg)](/event/annual-bay-area-fun-festival-2020/)
 
-\++++
+divider
 
 [![Annual Prefontaine Memorial Run](/img/prefontaine-run-column.jpg)](/event/annual-prefontaine-memorial-run/)
 

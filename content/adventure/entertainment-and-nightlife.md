@@ -42,7 +42,7 @@ Coos Bay, OR 97420
 
 Located in downtown Coos Bay, this local brew pub has quickly become a favorite gathering place. It’s a great place to take in tunes from local bands like the Dale Inskeep Band, Che’s Lounge and even Portland-based music like Scratchdog String Band (Americana) and Cascade Crescendo (Bluegrass). Guests enjoy their seasonal menu selections and of course plenty of craft beer. If you stop in on a Monday night, stick around for Pub Trivia!
 
-++++
+divider
 
 ![Warehouse 101 inside The Mill Casino • Hotel & RV Park in North Bend, Oregon](/img/ent-warehouse-101.jpg)
 
@@ -68,7 +68,7 @@ North Bend, OR 97459
 
 The Back Alley is a great place to stop by and eat at anytime of day. The prices are the best in town and the food has been a favorite for over 50 years. Homemade soups, sandwiches and award winning chicken bacon salad make this a weekly stop for locals. Along with great burgers, homemade pizza, grilled subs, we have something to please everyone. Micro Brews, Blended Drinks, Video Lottery and KENO!
 
-++++
+divider
 
 ![Liberty Pub in North Bend, Oregon](/img/ent-liberty-pub.jpg)
 
@@ -94,7 +94,7 @@ Charleston, OR   97420
 
 Popular with locals and visitors alike. They offers a mix of great food (some say they serve the best Clam Chowder on Oregon’s South Coast), live music on Thursdays, great happy hour and dinner specials, a beautiful back deck and entertainment options ranging from board games to an eclectic art gallery.
 
-++++
+divider
 
 ![Gooney's Sports Bar in Coos Bay, Oregon](/img/ent-gooneys.jpg)
 
