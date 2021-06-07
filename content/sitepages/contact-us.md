@@ -66,7 +66,7 @@ Open Seasonally: May 1st - September 30th
 
 {{< /columns >}}
 
-<a name="contactform"></a>
+<a id="contactform"></a>
 
 ### Request a Visitor Guide / Packet
 
