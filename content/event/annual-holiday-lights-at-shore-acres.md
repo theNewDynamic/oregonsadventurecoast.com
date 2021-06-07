@@ -21,7 +21,6 @@ address:
 phone_toll_free: ''
 phone_local: 541-269-0215
 website: http://shoreacres.net/
-draft: true
 
 ---
 ![32nd Annual Holiday Lights at Shore Acres](/img/holiday-lights-695x322.jpg)
