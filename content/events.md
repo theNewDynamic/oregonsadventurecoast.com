@@ -10,4 +10,4 @@ seo:
 ---
 {{< spacer 100 >}}
 
-### While a majority of the events in early 2021were canceled, we are pleased to have a list of anticipated events for the remainder of 2021 and 2022! Details below...
+### 
