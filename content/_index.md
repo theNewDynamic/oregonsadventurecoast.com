@@ -8,6 +8,8 @@ promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
 - photo: "/img/home-page-slider-fishing-ready-set-06-21.jpg"
   photo_mobile: "/img/mobile-hm-pg-fishing-ready-set-06-21.jpg"
+- photo: "/img/prefontaine-tours-hm-page-slider.jpg"
+  url: http://prefontaineproductions.com
 - title: ''
   photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
 - title: Breathtaking Views
