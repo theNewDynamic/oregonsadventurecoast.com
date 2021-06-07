@@ -72,13 +72,23 @@ Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or
 
 {{< /columns >}}
 
-![Shore Acres Holiday Lights - Charleston, Oregon](/img/Shore-Acres-Holiday-Lights-Collage-2.jpg)
+{{< spacer 50 >}}
+
+### Win a Chance to Stay in the Park's Garden House on New Year's Eve!
+
+Stop in the Shore Acres Gift Shop during your visit and find exciting holiday gifts for that special someone in your life. And take a chance to win a stay in the Garden House! Purchase raffle tickets for the Ultimate Bed and Breakfast, available in the Shore Acres Gift Shop.  The Prize is an overnight stay for two adults in the Garden House on New Year's Eve with a special catered breakfast, provided by The Pancake Mill, the next morning.  Tickets are $10 each _(only 300 will be sold)_ with the drawing to be held at 4:00 PM on Christmas Day.  _Ticket holder does not need to be present to win._
+
+{{< spacer 25 >}}
+
+![](/img/11-20-17-coosbayholiday-contest-rules.jpg)
+
+{{< spacer 25 >}}
 
 ## **Here are some other things to see and do while in Charleston, Coos Bay & North Bend!**
 
-In **Charleston**, stop in at the [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/) and discover the marine life and coastal ecosystem just off Oregon's coast. Take a stroll along [Bastendorff Beach](https://oregonsadventurecoast.com/blog/2017-08-29-spotlight-on-bastendorff-beach/). You might even see a surfer taking on the waves. And if you have more time this visit, take a [fishing charter](https://oregonsadventurecoast.com/tour-guides-and-charters/) out of the Charleston Marina.
+In **Charleston**, stop in at the [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/) and discover the marine life and coastal ecosystem just off Oregon's coast _(subject to COVID opening)_. Take a stroll along [Bastendorff Beach](https://oregonsadventurecoast.com/blog/2017-08-29-spotlight-on-bastendorff-beach/). You might even see a surfer taking on the waves. And if you have more time this visit, take a [fishing charter](https://oregonsadventurecoast.com/tour-guides-and-charters/) out of the Charleston Marina.
 
-In **Coos Bay**, take a stroll along the boardwalk and visit the Coos Bay Visitor Information Center where you will see the 30' lighted tree! Visit the [Coos History Museum](https://cooshistory.org/) and explore our area's culture and history. A special exhibition now on, _Vet Ink: Tattoos Inspired by Military Service_, explores the reasons local veterans and active duty military men and women chose their tattoos. And [catch a bite to eat](https://oregonsadventurecoast.com/dining/) at one of our many casual restaurants and coffee shops.
+In **Coos Bay**, take a stroll along the boardwalk and visit the Coos Bay Visitor Information Center where you will see the 30' lighted tree! Visit the [Coos History Museum](https://cooshistory.org/) and explore our area's culture and history. Visit the [Coos Art Museum](https://www.coosart.org/) to see the latest exhibition, their permanent collection, and the Steve Prefontaine Gallery. And [catch a bite to eat](https://oregonsadventurecoast.com/dining/) at one of our many casual restaurants and coffee shops.
 
 In **North Bend**, take a stroll downtown and visit [quaint, one-of-a-kind shops](https://oregonsadventurecoast.com/shopping/) and cafes. Cross over the historic McCullough Bridge on your way to Horsfall Beach at the tip of the [Oregon Dunes National Recreation Area](https://oregonsadventurecoast.com/untamed-dunes/) and one of the many ATV rental locations in the area.
 
