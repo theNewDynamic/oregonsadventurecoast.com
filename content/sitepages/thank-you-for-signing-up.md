@@ -15,6 +15,4 @@ boxes: []
 ---
 ![](/img/check-icon.png)
 
-**That's it!**
-
-Thank you for signing up!
+**That's it!  Watch your inbox for the latest issue.**
