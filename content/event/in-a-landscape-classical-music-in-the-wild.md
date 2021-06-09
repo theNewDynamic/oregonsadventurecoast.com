@@ -71,9 +71,9 @@ _Photo courtesy of IN A LANDSCAPE. Photo by Zach Lewis_
 Tickets are required to join this event due to COVID-19 restrictions on capacity.
 
 * Regular tickets are $30
-* Limited number of FREE tickets available for Coos County residents
-* Limited number of FREE tickets available for Electronic Benefits Transfer (EBT) card holders
-* Limited number of FREE tickets available for ages 25 and under
+* Limited number of FREE tickets available for Coos County residents - SOLD OUT BOTH NIGHTS
+* Limited number of FREE tickets available for Electronic Benefits Transfer (EBT) card holders - SOLD OUT AUG 10
+* Limited number of FREE tickets available for ages 25 and under - SOLD OUT BOTH NIGHTS
 
 If you need assistance in purchasing tickets, email our ticketing office at [tickets@inalandscape.org](mailto:tickets@inalandscape.org)
 
