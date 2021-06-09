@@ -13,4 +13,4 @@ accordion_sections: []
 boxes: []
 
 ---
-![](/img/thankyou-page-graphic-695x300.png)
+![](/img/thankyou-page-graphic.png)
