@@ -13,6 +13,4 @@ accordion_sections: []
 boxes: []
 
 ---
-![](/img/check-icon.png)
-
-**That's it!  Watch your inbox for the latest issue.**
+![](/img/thankyou-page-graphic-695x300.png)
