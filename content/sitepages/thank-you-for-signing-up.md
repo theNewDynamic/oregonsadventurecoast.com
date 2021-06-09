@@ -1,7 +1,7 @@
 ---
 title: Thank You For Signing Up!
 url: newsletter-signup-thank-you
-layout: contact
+layout: our-area
 photo: ''
 seo:
   title: ''
