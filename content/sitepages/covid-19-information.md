@@ -13,16 +13,14 @@ accordion_sections: []
 boxes: []
 
 ---
-**_Updated May 2021_**
+**_Updated June 11, 2021_**
 
 **As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the** [**CDC**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)**,** [**Oregon Health Authority**](https://www.oregon.gov/oha/pages/index.aspx)**, and** [**Coos Health & Wellness**](https://cooshealthandwellness.org/) **to protect yourself, our community and our visitors. Visit the state's** [**Safe+Strong Oregon**](https://www.safestrongoregon.org/) **page for more information.**
 
-**On May 12, 2021, Coos County moved into the Moderate Risk Category.** This category allows restaurants, indoor recreation and fitness establishments and indoor entertainment  
-establishments to open to 50% capacity (or 100 people, whichever is smaller). It also allows outdoor dining (150 people maximum, including individual dining pods) and retail stores and shopping malls to open to a maximum of 75% occupancy.
+**On June 9, 2021, Coos County moved into the Low Risk Category.** This category allows restaurants, indoor recreation and fitness establishments and indoor entertainment  
+establishments to open to 50% capacity. It also allows outdoor dining (300 people maximum, including individual dining pods) and retail stores and shopping malls to open to a maximum of 75% occupancy. Masks are no longer necessary in outdoor situations. Marks are still necessary inside businesses that do not ask for vaccination status and inside public buildings.
 
-**Face coverings**:
-
-![](/img/covid-mask-052721.png)
+**Once Oregon hits the 70% vaccination rate target, all such restrictions will be lifted.**
 
 {{< spacer 25>}}
 
