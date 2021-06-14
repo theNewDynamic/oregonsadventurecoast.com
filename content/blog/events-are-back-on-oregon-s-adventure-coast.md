@@ -33,7 +33,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 Ready for good news? We are. As COVID-19 cases decline and vaccination rates increase, the County Risk Level of Coos County, home of **Oregon’s Adventure Coast: Coos Bay, North Bend and Charleston**, has been moved to the [“Lower Risk” Tier](https://nbc16.com/news/coos-county-oregon/as-coos-county-moves-to-low-risk-businesses-customers-sense-return-of-normalcy-06-09-2021)! That means things are going to start looking and feeling a lot more normal around here! It also means many of the beloved annual events that make our region such a special place, including the [Bay Area Fun Festival](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival-2019/) and [Holiday Lights at Shore Acres](https://www.oregonsadventurecoast.com/event/annual-holiday-lights-at-shore-acres/), will be BACK!
