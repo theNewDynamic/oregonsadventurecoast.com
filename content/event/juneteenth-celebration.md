@@ -56,7 +56,9 @@ Virtual event. [Click here to Register](https://cooshistory.org/events/special-e
 {{< spacer 25 >}}
 
 **June 19th, 10:00 AM – 11:00 AM:**  
-**Witness:** The unveiling of the Equal Justice Initiative Historical Marker acknowledging the lynching of Alonzo Tucker in Coos Bay, Oregon and lynchings throughout United States history. This portion of the event will be live-streamed. Please check the [museum's website ]()for updates regarding in-person attendance.
+**Witness:** The unveiling of the Equal Justice Initiative Historical Marker acknowledging the lynching of Alonzo Tucker in Coos Bay, Oregon and lynchings throughout United States history. The public is invited to attend this unveiling in person. This portion of the event will also be live-streamed. To watch the livestream:   
+**Zoom:** [https://pdx.zoom.us/j/83620196750](https://pdx.zoom.us/j/83620196750 "https://pdx.zoom.us/j/83620196750")  
+**Facebook:** [https://www.facebook.com/oregonremembranceproject](https://www.facebook.com/oregonremembranceproject "https://www.facebook.com/oregonremembranceproject")
 
 {{< spacer 25 >}}
 
