@@ -6,7 +6,7 @@ description: 'Folks, it’s time to log yourself out of Zoom, put your phone dow
   on Oregon’s Adventure Coast! In addition to the shopping, eating and exciting adventures
   at every turn, visitors are finally free to roam and enjoy several not-to-be-missed
   events and festivals happening this summer!  '
-image: "/img/Shore-Acres-Holiday-Lights-Collage-2.jpg"
+image: "/img/untitled-design-3.png"
 tags:
 - Events
 - Coos Bay
