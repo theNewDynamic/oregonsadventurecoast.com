@@ -1,5 +1,7 @@
 ---
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
+lang: es
+url: es/
 layout: home
 aliases:
 - "/photo-gallery"
@@ -9,18 +11,7 @@ promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
 - photo: "/img/home-page-slider-fishing-ready-set-06-21.jpg"
   photo_mobile: "/img/mobile-hm-pg-fishing-ready-set-06-21.jpg"
-- photo: "/img/prefontaine-tours-hm-page-slider.jpg"
-  url: http://prefontaineproductions.com
-- title: ''
-  photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
-- title: Breathtaking Views
-  photo: "/img/shore-acres-slider.jpg"
-  url: "/hiking-walking"
-- title: Spectacular Sights
-  photo: "/img/lighthouse-hm-slider.jpg"
-- title: Stunning Sunsets
-  photo: "/img/sunset-bay-sunset-hm-slider.jpg"
-welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
+welcomeheadline: 'Vacaciones en la costa de Oregón: la aventura es nuestro segundo nombre'
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
   desktoptitle: Store
@@ -93,8 +84,9 @@ home_splashes:
   alt: Win $500 Cash
 
 ---
-We welcome you to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities. We invite you to explore, to discover, to feel, to know…at land’s end, adventure begins. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do. Your vacation will be full of adventure, nature, wildlife, culture, arts and athletics.
+Le damos la bienvenida a Adventure Coast de Oregón, donde la tierra se encuentra con la bahía y el mar, lo que abre una gran cantidad de posibilidades. Te invitamos a explorar, descubrir, sentir, conocer ... al final de la tierra, comienza la aventura. En Adventure Coast de Oregón, encontrará no solo algo que hacer, sino algo que desea hacer. Tus vacaciones estarán llenas de aventura, naturaleza, vida salvaje, cultura, artes y atletismo.
 
-## Exciting Outdoor Activities on the Oregon Coast
 
-Water and outdoor activities abound on the Oregon Coast, from kayaking, scuba diving and surfing to world-class fishing, crabbing and clamming. Hit the sand in an ATV, hike winding trails, bike along the boardwalk, and run the same path as legend and local hero, Steve Prefontaine. Take a chance with Vegas-style gaming, catch a movie at the historic Egyptian Theatre, and make time to dine upon a hilltop. Your adventure awaits.
+## Emocionantes actividades al aire libre en la costa de Oregón
+
+Las actividades acuáticas y al aire libre abundan en la costa de Oregón, desde kayak, buceo y surf hasta pesca de clase mundial, pesca de cangrejos y almejas. Golpea la arena en un vehículo todo terreno, recorre senderos sinuosos, anda en bicicleta por el paseo marítimo y corre por el mismo camino que la leyenda y héroe local, Steve Prefontaine. Aproveche la oportunidad con los juegos al estilo de Las Vegas, vea una película en el histórico Teatro Egipcio y tómese el tiempo para cenar en la cima de una colina. Tu aventura te espera.

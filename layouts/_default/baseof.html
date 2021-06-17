@@ -1,5 +1,9 @@
 <!doctype html>
-<html lang="en">
+{{ $lang := "en" }}
+{{ with .Params.lang }}
+  {{ $lang = . }}
+{{ end }}
+<html lang="{{ $lang }}">
   {{ partial "head" . }}
   <body>
     {{ partial "hd" . }}

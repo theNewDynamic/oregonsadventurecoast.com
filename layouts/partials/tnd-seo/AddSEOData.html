@@ -27,5 +27,17 @@
   {{ end }}
 {{ end }}
 
+{{ if .Page.IsHome }}
+  {{ with site.GetPage "index-es" }}
+    {{ $s.SetInMap "seo" "translations" (slice (dict "code" "es" "permalink" .Permalink)) }}
+  {{ end }}
+{{ end }}
+
+{{ with .Page.Params.lang }}
+  {{ if eq . "es" }}
+  {{ $s.SetInMap "seo" "translations" (slice (dict "code" "en" "permalink" site.Home.Permalink)) }}
+  {{ end }}
+{{ end }}
+
 {{/* Merge is important here as we want to overwrite the default data model with user's edits */}}
 {{ return merge .seo ($s.Get "seo") }}

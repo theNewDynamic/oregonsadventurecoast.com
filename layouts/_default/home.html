@@ -1,5 +1,4 @@
 {{ define "main" }}
-
 <!-- flickity script -->
 {{ $style := resources.Get "js/flickity.pkgd.js" | resources.Minify }}
 <script src="{{ $style.Permalink }}"></script>
@@ -291,28 +290,28 @@
     </div>
     </a>
 </div>
+{{ if not (eq .Params.lang "es") }}
+    <div class="m-home-titlebar">
+        <h2>The Adventure Starts Here</h2>
+        <i class="titlebar-arrow"></i>
+    </div>
 
-<div class="m-home-titlebar">
-    <h2>The Adventure Starts Here</h2>
-    <i class="titlebar-arrow"></i>
-</div>
-
-<div class="m-home-blog clearfix">
-
-    {{ range first 3 (where site.RegularPages "Section" "blog") }}
-        <div class="post">
-            <div class="photo">
-                <a href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="{{ .Title }}"></a>
+    <div class="m-home-blog clearfix">
+        {{ range first 3 (where site.RegularPages "Section" "blog") }}
+            <div class="post">
+                <div class="photo">
+                    <a href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="{{ .Title }}"></a>
+                </div>
+                <div class="content">
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    <p>{{ .Description | safeHTML }}</p>
+                    <a href="{{ .Permalink }}" class="more-btn">Learn More &raquo;</a>
+                </div>
             </div>
-            <div class="content">
-                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                <p>{{ .Description | safeHTML }}</p>
-                <a href="{{ .Permalink }}" class="more-btn">Learn More &raquo;</a>
-            </div>
-        </div>
-    {{ end }}
+        {{ end }}
+    </div>
+{{ end }}
 
-</div>
 
 {{ end }}
 
