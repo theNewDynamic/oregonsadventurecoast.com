@@ -1,8 +1,10 @@
 ---
 title: Industry News
 layout: press-media-industry
-url: /industry-news
-photo: /img/our-area-coos-bay-header.jpg
+url: "/industry-news"
+photo: "/img/our-area-coos-bay-header.jpg"
+draft: true
+
 ---
 ![](/img/industry-update-header-sm.jpg)
 
