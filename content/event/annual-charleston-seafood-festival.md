@@ -21,6 +21,7 @@ phone_local: 541-888-2311
 website: https://charlestonseafoodfestival.com
 seo:
   imgalt: Charlesto Seafood Fest Music
+draft: true
 
 ---
 {{< floatimage src="/img/charleston-seafood-fest-large.jpg" float="none" alt="Stage At Charleston Seafood Fest" size="68" >}}
