@@ -55,3 +55,22 @@ travelers:
 - url: /social-media-disclaimer/
   name: Social Media Disclaimer
   weight: 90
+press_media:
+- url: /press-media-industry
+  name: Press & Media Industry
+  weight: 10
+- url: /staff-directory
+  name: Staff Directory
+  weight: 20
+- url: /local-industry-resources
+  name: Local Industry Resources
+  weight: 30
+- url: /gallery
+  name: Image Asset Gallery
+  weight: 40
+- url: /newsletter-archive
+  name: Newsletter Archive
+  weight: 50
+- url: mailto:info@oregonsadventurecoast.com
+  name: Email Us
+  weight: 60

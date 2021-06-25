@@ -8,13 +8,10 @@
         <h3>Press/Media</h3>
     
         <ul>
-            <li><a href="/press-media-industry">Press &amp; Media Industry</a></li>
-            <li><a href="/staff-directory">Staff Directory</a></li>
-            <li><a href="/local-industry-resources">Local Industry Resources</a></li>
-            <li><a href="/gallery">Image Asset Gallery</a></li>
-            <li><a href="/industry-news">Industry News</a></li>
-            <li><a href="/newsletter-archive">Newsletter Archive</a></li>
-            <li><a href="mailto:info@oregonsadventurecoast.com">Email Us</a></li>
+            {{ range site.Menus.press_media }}
+                {{ $blank := in .URL "http" }}
+                <li><a href="{{ .URL }}" {{ if $blank }}target="_blank"{{ end }}>{{ .Name }}</a></li>
+            {{ end }}
         </ul>
     </div>
     
