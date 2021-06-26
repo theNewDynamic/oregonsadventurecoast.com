@@ -109,7 +109,7 @@ gallery:
   image: "/img/lighthouse-3.jpg"
 - title: Charleston Marina
   image: "/img/charleston-marina-1.jpg"
-- title: Charleston Close Up
+- title: 7 Devils Devils Brewing, Co.
   image: "/img/180710_CoosBay1_028.jpg"
 - title: Shore Acres Viewing Flowers
   image: "/img/shore-acres-flower-viewing-1.jpg"
