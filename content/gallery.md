@@ -31,9 +31,9 @@ gallery:
   image: "/img/shopping-coos-bay-1.jpg"
 - title: Oregon's Adventure Coast Charleston Salmon Run
   image: "/img/charleston-salmon-run.jpg"
-- title: Annual Prefontaine Run - Start
+- title: Annual Prefontaine Run - Starting Line
   image: "/img/prefontaine-run.jpg"
-- title: Annual Prefontaine Run - Start 02
+- title: Annual Prefontaine Run - Crowd Running
   image: "/img/prefontaine-race-02.jpg"
 - title: Steve Prefontaine Mural at Night in Downtown Coos Bay
   image: "/img/IMG_0118.jpg"
