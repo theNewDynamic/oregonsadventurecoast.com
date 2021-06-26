@@ -11,7 +11,7 @@ gallery:
   image: "/img/Girlfriends-Dunes.jpg"
 - title: ATV'ing in the Dunes
   image: "/img/dunes-high-five-1.jpg"
-- title: ATV'ing in the Dunes
+- title: Friends Taking a Break - ATV'ing in the Dunes
   image: "/img/Tourism-'Ladies-Getaway'-17.jpg"
 - title: Tidepool Experience at the Charleston Marine Life Center
   image: "/img/180711_CoosBay1426-1.jpg"
