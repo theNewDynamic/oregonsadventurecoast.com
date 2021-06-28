@@ -9,8 +9,8 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- photo: "/img/home-page-slider-fishing-ready-set-06-21.jpg"
-  photo_mobile: "/img/mobile-hm-pg-fishing-ready-set-06-21.jpg"
+- photo: "/img/spanish-home-pg-desktop-slider.jpg"
+  photo_mobile: "/img/spanish-home-pg-mobile.jpg"
 welcomeheadline: 'Vacaciones en la costa de Oregón: la aventura es nuestro segundo nombre'
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
@@ -76,17 +76,35 @@ seo:
     nature, wildlife, shopping, arts, and more. Your adventure awaits!
   title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
 home_splashes:
-- img: "/img/family-plan-your-getaway-03-21.jpg"
-  alt: 'Plan your getaway '
+- img: "/img/plan-your-vacation-hero-es.jpg"
+  alt: 'Planifique sus vacaciones'
   url: "/lodging"
 - img: "/img/win-500-cash.png"
   url: https://craterlakecountry.com/coos-bay/
   alt: Win $500 Cash
 
 ---
-Le damos la bienvenida a Adventure Coast de Oregón, donde la tierra se encuentra con la bahía y el mar, lo que abre una gran cantidad de posibilidades. Te invitamos a explorar, descubrir, sentir, conocer ... al final de la tierra, comienza la aventura. En Adventure Coast de Oregón, encontrará no solo algo que hacer, sino algo que desea hacer. Tus vacaciones estarán llenas de aventura, naturaleza, vida salvaje, cultura, artes y atletismo.
+Le damos la bienvenida a las ciudades de Coos Bay, North Bend y Charleston, conocidas en conjunto como Oregon’s Adventure Coast. Aquí, el mar se encuentra con la tierra, permitiendo una variedad de experiencias. Lo invitamos a explorar, descubrir, sentir y experimentar. 
+
+En Oregon’s Adventure Coast, encontrará no solamente cosas que hacer, si no, sus actividades favoritas, con opciones de aventura, ecoturismo, exploración de fauna, cultura, arte y hasta actividades atléticas.
+
+Nuestras actividades acuáticas incluyen kayak, nado y surfeo, también pesca, incluidos cangrejos y almejas. Visite las dunas de arena en un ATV, escale por los caminos intrigantes de las montañas y corra los mismos caminos que la leyenda y héroe local, Steve Prefontaine. 
 
 
-## Emocionantes actividades al aire libre en la costa de Oregón
+## Admire la naturaleza y serenidad
+No podrá creer lo diverso que es nuestro paisaje. Por eones, el tiempo ha moldeado el paisaje aquí, donde las olas del océano crean hermosa neblina que cambia de forma. Usted puede realizar aventuras y meditar frente a la naturaleza.
 
-Las actividades acuáticas y al aire libre abundan en la costa de Oregón, desde kayak, buceo y surf hasta pesca de clase mundial, pesca de cangrejos y almejas. Golpea la arena en un vehículo todo terreno, recorre senderos sinuosos, anda en bicicleta por el paseo marítimo y corre por el mismo camino que la leyenda y héroe local, Steve Prefontaine. Aproveche la oportunidad con los juegos al estilo de Las Vegas, vea una película en el histórico Teatro Egipcio y tómese el tiempo para cenar en la cima de una colina. Tu aventura te espera.
+Pase tiempo admirando pozas de marea debajo de acantilados y piedras. Explore los estuarios activos. Nuestra área especial atrae a una amplia colección de pájaros y vida silvestre. Experimente la naturaleza a su propia velocidad, sin distracciones. En la tarde, relájese y recuerde su día, duerma viendo el bello atardecer.
+## Opciones Urbanas
+Si busca un descanso de la actividad afuera, Adventure Coast lo tiene cubierto. Hay cuatro museos fascinantes y muchos sitios históricos interesantes. 
+
+El histórico Egyptian Theatre con su bello estilo de decoración egipcio es algo que usted tiene que ver. Hay eventos, música en vivo y películas frecuentemente. La historia del edificio emana de las paredes y la pintura original del 1925 que las cubre. 
+
+Sin comparar con lo anterior, la locomotora de vapor Baldwin original del 1992, pieza central del Oregon Coast Historical Railway Museum es algo que tiene que visitar. Este mini-museo al aire libre tiene otro equipo único de trenes y tala de árboles – ¡Así que venga a explorar!
+
+Hay entretenimiento de sobra con música en vivo en muchos de los bares y restaurantes locales. Hay juegos de casino estilo Las Vegas las 24 horas del día, con juegos de mesa, blackjack, póker y cientos de slots en dos casinos locales.
+
+Nuestros sitios para comida están bajo constante evolución, muchos se concentran en el concepto de granja/océano hasta su mesa. Esto garantiza comida fresca y con ingredientes locales. Tenemos muchas cafeterías y tiendas de snacks, así como pastelerías y tiendas especializadas.
+ 
+## !Permítanos ayudarlo!
+Estamos aquí para ayudarlo a planear y disfrutar su visita. Use nuestra página de contacto para que podamos contestar sus preguntas, o puede llegar a uno de nuestros centros de visitante para averiguar más sobre los mejores restaurantes, eventos y actividades.
