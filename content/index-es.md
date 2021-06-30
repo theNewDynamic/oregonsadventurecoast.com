@@ -1,5 +1,7 @@
 ---
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
+lang: es
+url: es/
 layout: home
 aliases:
 - "/photo-gallery"
@@ -7,20 +9,9 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- photo: "/img/home-page-slider-fishing-ready-set-06-21.jpg"
-  photo_mobile: "/img/mobile-hm-pg-fishing-ready-set-06-21.jpg"
-- photo: "/img/prefontaine-tours-hm-page-slider.jpg"
-  url: http://prefontaineproductions.com
-- title: ''
-  photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
-- title: Breathtaking Views
-  photo: "/img/shore-acres-slider.jpg"
-  url: "/hiking-walking"
-- title: Spectacular Sights
-  photo: "/img/lighthouse-hm-slider.jpg"
-- title: Stunning Sunsets
-  photo: "/img/sunset-bay-sunset-hm-slider.jpg"
-welcomeheadline: ¡Bienvenidos a Oregon’s Adventure Coast!
+- photo: "/img/spanish-home-pg-desktop-slider.jpg"
+  photo_mobile: "/img/spanish-home-pg-mobile.jpg"
+welcomeheadline: 'Vacaciones en la costa de Oregón: la aventura es nuestro segundo nombre'
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
   desktoptitle: Store
@@ -83,10 +74,10 @@ masonry7:
 seo:
   description: Travel to the Oregon Coast to experience a vacation full of adventure,
     nature, wildlife, shopping, arts, and more. Your adventure awaits!
-  title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
+  title: Planifique sus vacaciones | En Oregon costa de aventuras
 home_splashes:
-- img: "/img/family-plan-your-getaway-03-21.jpg"
-  alt: 'Plan your getaway '
+- img: "/img/plan-your-vacation-hero-es.jpg"
+  alt: 'Planifique sus vacaciones'
   url: "/lodging"
 - img: "/img/win-500-cash.png"
   url: https://craterlakecountry.com/coos-bay/
