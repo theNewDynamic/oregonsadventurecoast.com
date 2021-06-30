@@ -74,7 +74,7 @@ masonry7:
 seo:
   description: Travel to the Oregon Coast to experience a vacation full of adventure,
     nature, wildlife, shopping, arts, and more. Your adventure awaits!
-  title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
+  title: Planifique sus vacaciones | En Oregon costa de aventuras
 home_splashes:
 - img: "/img/plan-your-vacation-hero-es.jpg"
   alt: 'Planifique sus vacaciones'
