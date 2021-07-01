@@ -53,4 +53,4 @@ In other musical performance news, we’re looking forward to In a Landscape: Cl
 
 If you need assistance with lodging and accommodations, please visit the [Oregon's Adventure Coast Lodging Page](https://www.oregonsadventurecoast.com/lodging/).
 
-Further information about concerts and how to reserve a seat is provided on the OCMA Web[ ](about:blank)[https://www.oregoncoastmusic.org,](https://www.oregoncoastmusic.org, "https://www.oregoncoastmusic.org,") including a preview of the programs as YouTube preview and Spotify podcast. Plan ahead and do not miss this wonderful opportunity.
+Further information about concerts and how to reserve a seat is provided on the [OCMA Webpage](https://www.oregoncoastmusic.org), including a preview of the programs as YouTube preview and Spotify podcast. Plan ahead and do not miss this wonderful opportunity.
