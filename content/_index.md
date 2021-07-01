@@ -20,7 +20,7 @@ slideshow:
   photo: "/img/lighthouse-hm-slider.jpg"
 - title: Stunning Sunsets
   photo: "/img/sunset-bay-sunset-hm-slider.jpg"
-welcomeheadline: ¡Bienvenidos a Oregon’s Adventure Coast!
+welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
   desktoptitle: Store
@@ -93,27 +93,8 @@ home_splashes:
   alt: Win $500 Cash
 
 ---
-Le damos la bienvenida a las ciudades de Coos Bay, North Bend y Charleston, conocidas en conjunto como Oregon’s Adventure Coast. Aquí, el mar se encuentra con la tierra, permitiendo una variedad de experiencias. Lo invitamos a explorar, descubrir, sentir y experimentar. 
+We welcome you to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities. We invite you to explore, to discover, to feel, to know…at land’s end, adventure begins. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do. Your vacation will be full of adventure, nature, wildlife, culture, arts and athletics.
 
-En Oregon’s Adventure Coast, encontrará no solamente cosas que hacer, si no, sus actividades favoritas, con opciones de aventura, ecoturismo, exploración de fauna, cultura, arte y hasta actividades atléticas.
+## Exciting Outdoor Activities on the Oregon Coast
 
-Nuestras actividades acuáticas incluyen kayak, nado y surfeo, también pesca, incluidos cangrejos y almejas. Visite las dunas de arena en un ATV, escale por los caminos intrigantes de las montañas y corra los mismos caminos que la leyenda y héroe local, Steve Prefontaine. 
-
-
-## Admire la naturaleza y serenidad
-No podrá creer lo diverso que es nuestro paisaje. Por eones, el tiempo ha moldeado el paisaje aquí, donde las olas del océano crean hermosa neblina que cambia de forma. Usted puede realizar aventuras y meditar frente a la naturaleza.
-
-Pase tiempo admirando pozas de marea debajo de acantilados y piedras. Explore los estuarios activos. Nuestra área especial atrae a una amplia colección de pájaros y vida silvestre. Experimente la naturaleza a su propia velocidad, sin distracciones. En la tarde, relájese y recuerde su día, duerma viendo el bello atardecer.
-## Opciones Urbanas
-Si busca un descanso de la actividad afuera, Adventure Coast lo tiene cubierto. Hay cuatro museos fascinantes y muchos sitios históricos interesantes. 
-
-El histórico Egyptian Theatre con su bello estilo de decoración egipcio es algo que usted tiene que ver. Hay eventos, música en vivo y películas frecuentemente. La historia del edificio emana de las paredes y la pintura original del 1925 que las cubre. 
-
-Sin comparar con lo anterior, la locomotora de vapor Baldwin original del 1992, pieza central del Oregon Coast Historical Railway Museum es algo que tiene que visitar. Este mini-museo al aire libre tiene otro equipo único de trenes y tala de árboles – ¡Así que venga a explorar!
-
-Hay entretenimiento de sobra con música en vivo en muchos de los bares y restaurantes locales. Hay juegos de casino estilo Las Vegas las 24 horas del día, con juegos de mesa, blackjack, póker y cientos de slots en dos casinos locales.
-
-Nuestros sitios para comida están bajo constante evolución, muchos se concentran en el concepto de granja/océano hasta su mesa. Esto garantiza comida fresca y con ingredientes locales. Tenemos muchas cafeterías y tiendas de snacks, así como pastelerías y tiendas especializadas.
- 
-## !Permítanos ayudarlo!
-Estamos aquí para ayudarlo a planear y disfrutar su visita. Use nuestra página de contacto para que podamos contestar sus preguntas, o puede llegar a uno de nuestros centros de visitante para averiguar más sobre los mejores restaurantes, eventos y actividades.
+Water and outdoor activities abound on the Oregon Coast, from kayaking, scuba diving and surfing to world-class fishing, crabbing and clamming. Hit the sand in an ATV, hike winding trails, bike along the boardwalk, and run the same path as legend and local hero, Steve Prefontaine. Take a chance with Vegas-style gaming, catch a movie at the historic Egyptian Theatre, and make time to dine upon a hilltop. Your adventure awaits.
