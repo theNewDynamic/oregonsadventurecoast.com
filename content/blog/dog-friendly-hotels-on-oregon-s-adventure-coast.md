@@ -30,8 +30,6 @@ categories:
 - Oregon's Adventure Coast News & Info
 
 ---
-We love our visitors, we really do! But for the time being, PLEASE STAY HOME and STAY HEALTHY. We look forward to welcoming you back when we can all safely travel again- and when that happens, there will be beautiful beaches, hiking trails and more waiting for you. In the meantime, we hope this post gives you some ideas and inspiration on ways to travel with your pet on Oregon's Adventure Coast.
-
 ### Where Can Pets Play & Stay in the Coos Bay \~ North Bend \~ Charleston area?
 
 _“Is Coos Bay a dog-friendly town?”_
@@ -108,11 +106,11 @@ Visitors will also find multiple RV Parks and campgrounds by going to [oregonsad
 
 Let us help you plan, get here, and enjoy your visit with your pet! We encourage you to Contact Us if you have any questions or stop in our visitor center to find out the inside track for the best food, events, and activities. Hope we see you soon!
 
-\---------   
-Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.  
-  
-Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.   
-  
-If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.  
-   
+\---------  
+Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.
+
+Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.
+
+If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.
+
 Please visit [https://ecs.page.link/xhV4h](https://ecs.page.link/xhV4h "https://ecs.page.link/xhV4h") for more information.
