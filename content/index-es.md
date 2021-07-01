@@ -2,16 +2,14 @@
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 lang: es
 url: es/
-layout: home
-aliases:
-- "/photo-gallery"
-- "/activities/category/geocaching"
-- "/rob"
+layout: ''
+aliases: []
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
 - photo: "/img/spanish-home-pg-desktop-slider.jpg"
   photo_mobile: "/img/spanish-home-pg-mobile.jpg"
-welcomeheadline: 'Vacaciones en la costa de Oregón: la aventura es nuestro segundo nombre'
+welcomeheadline: 'Vacaciones en la costa de Oregón: la aventura es nuestro segundo
+  nombre'
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
   desktoptitle: Store
@@ -77,7 +75,7 @@ seo:
   title: Planifique sus vacaciones | En Oregon costa de aventuras
 home_splashes:
 - img: "/img/plan-your-vacation-hero-es.jpg"
-  alt: 'Planifique sus vacaciones'
+  alt: Planifique sus vacaciones
   url: "/lodging"
 - img: "/img/win-500-cash.png"
   url: https://craterlakecountry.com/coos-bay/
