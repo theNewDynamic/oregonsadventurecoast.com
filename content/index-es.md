@@ -1,5 +1,5 @@
 ---
-title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
+title: En Oregon Costa de Aventuras - Coos Bay, North Bend y Charleston
 lang: es
 url: es/
 layout: ''
