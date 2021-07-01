@@ -35,6 +35,7 @@ fields:
     - diningpage
     - equipment
     - headless
+    - home
   label: Layout
   description: Choose Layout/Sidebar for Your Page
 - type: file
