@@ -2,7 +2,7 @@
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 lang: es
 url: es/
-layout: ''
+layout: 'home'
 aliases: []
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
