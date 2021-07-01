@@ -4,8 +4,16 @@ date: 2021-06-29T04:00:00.000+00:00
 description: 'Music to Our Ears: The Oregon Coast Music Association Announces a Return
   to Live music With OCMA Outdoors! '
 image: "/img/ocmf-2021-blog-695x322-jpg.png"
-tags: []
-categories: []
+tags:
+- Oregon Coast Music Association
+- outdoor musical festival events
+- OCMA
+- " Coos History Museum Plaza Stage"
+- Mingus Park
+- " Oregon Coast Music Festival (OCMF)"
+- 'Landscape: Classical Music in the Wild'
+categories:
+- Arts & Culture
 seo:
   title: ''
   description: ''
