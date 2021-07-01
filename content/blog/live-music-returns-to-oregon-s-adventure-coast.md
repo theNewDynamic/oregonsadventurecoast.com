@@ -23,7 +23,7 @@ It’s been a long, lonely, year without live performances, but thankfully organ
 
 The OCMA recently announced that orchestra members and community partners will present [outdoor musical festival events](https://www.oregoncoastmusic.org/2021-festival-details/) during the weekends of **July 17-18, 2021** and **July 24-25, 2021** (that is literally music to our ears)! Though this year’s events will be slightly different from the traditional performances associated with the Oregon Coast Music Festival (OCMF), the spirit of the festival will be as bright and beautiful as ever. In addition, the [Coos History Museum Plaza Stage](https://cooshistory.org/), a new venue, will be introduced to the community! Here’s a rundown of this year’s events:
 
-> **Saturday, July 17, 2021:**
+> ### Saturday, July 17, 2021:
 >
 > **_OCMA Presents The Bay Area Concert Band & The Shaymus Hanlin Quartet at Mingus Park._**
 >
@@ -31,17 +31,17 @@ The OCMA recently announced that orchestra members and community partners will p
 >
 > Also, featured with the band will be special guest Shaymus Hanlin singing Gershwin’s “But Not for Me.” The second set features the Shaymus Hanlin Quartet with Wes Georgiev, keyboard, Liam Hathaway, bass, and Michael Rodenkirch, percussion, and Hanlin on vocals performing selections from the great American Songbook. Bring a chair or blanket and enjoy that picnic afternoon concert. ***This performance begins at 12 p.m. Tickets are Free (Donations Accepted).**
 >
-> **Sunday, July 18, 2021:**
+> ### Sunday, July 18, 2021:
 >
 > **_OCMA Presents Rose Canyon Harmonie at the Coos History Museum Plaza Stage_**
 > Rose Canyon Harmonie performs on Sunday, July 18th at 2 p.m. This unique reed quintet features Thomas Schubert, bassoon; Mike Gaby, oboe; Mark Margolies, clarinet; Steve Shields, saxophone; and Robert Zelickman, bass clarinet. The quintet offers a program of music from the baroque, classical and romantic eras, as well as innovative contemporary pieces written specifically for the reed quintet. __*_This performance begins at 2 p.m. Tickets are $25 each and can be purchased in advance.___
 >
-> **Saturday, July 24, 2021:**
+> ### Saturday, July 24, 2021:
 >
 > **_OCMA Presents Pioneer Trombones at the Coos History Museum Plaza Stage_**
 > The trombone and percussion ensemble includes brass artists Andrew Harris, David Bryan, Phil Neuman, Gayle Neuman, and Dan Stueber on percussion. They will perform popular music of the Americas, with emphasis on South America’s contributions, with music by Antonio Carlos Jobim and Astor Piazzola, arranged by Phil Neuman. The group will play works by jazz composers Kenny Dorham, Joe Zawinul and Chick Corea. Selections from ragtime and big band styles round out this entertaining mix of trombone quartet “chamber music”. __*_This performance begins at 2 p.m. Tickets are $25 each and can be purchased in advance___.
 >
-> **Sunday, July 25, 2021:**
+> ### Sunday, July 25, 2021:
 >
 > **_OCMA Presents The Festival Viola Quartet and The Carlos Ensemble at the Coos History Museum Plaza Stage._**
 >
