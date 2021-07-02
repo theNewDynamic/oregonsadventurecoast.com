@@ -16,7 +16,7 @@ address:
   street: ''
   street2: ''
   city: North Bend
-  zip: ''
+  zip: '97459'
 phone_local: ''
 phone_toll_free: ''
 website: https://abnb.me/qjG1LODMj8
