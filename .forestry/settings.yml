@@ -21,7 +21,7 @@ sections:
   label: Main Pages
   create: all
   match: "*.md"
-  exclude: '{index-es.md,_index.md}'
+  exclude: "{index-es.md,_index.md}"
   templates:
   - regular-pages
 - type: directory

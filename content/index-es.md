@@ -71,7 +71,7 @@ masonry7:
 seo:
   description: Travel to the Oregon Coast to experience a vacation full of adventure,
     nature, wildlife, shopping, arts, and more. Your adventure awaits!
-  title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
+  title: Planifique sus vacaciones | En Oregon costa de aventuras
 home_splashes:
 - img: "/img/plan-your-vacation-hero-es.jpg"
   alt: Planifique sus vacaciones
@@ -79,6 +79,7 @@ home_splashes:
 - img: "/img/win-500-cash.png"
   url: https://craterlakecountry.com/coos-bay/
   alt: Win $500 Cash
+
 ---
 Le damos la bienvenida a las ciudades de Coos Bay, North Bend y Charleston, conocidas en conjunto como Oregon's Adventure Coast. Aquí, el mar se encuentra con la tierra, permitiendo una variedad de experiencias. Lo invitamos a explorar, descubrir, sentir y experimentar. 
 En Oregon's Adventure Coast, encontrará no solamente cosas que hacer, si no, sus actividades favoritas, con opciones de aventura, ecoturismo, exploración de fauna, cultura, arte y hasta actividades atléticas.
