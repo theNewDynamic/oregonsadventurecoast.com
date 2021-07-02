@@ -12,7 +12,7 @@ address:
   zip: '97420'
 phone_toll_free: 
 phone_local: 541-267-4141
-units: '144'
+units: 144
 cost: 3 - $$$
 property_description: Experience Red Lion's signature blend of comfort and convenience
   mere blocks from the bay. Spread out in comfortable rooms that feature plush pillow-top
@@ -20,12 +20,8 @@ property_description: Experience Red Lion's signature blend of comfort and conve
   breakfast.
 website: https://www.redlion.com/coos-bay
 amenityList:
-- 1 - Restaurant/Bar/Rm Service
-- 3 - Fitness Center
-- 4 - Pool/Hot Tub
 - 5 - Pet Friendly
 - 6 - WiFi Available
-- 8 - Meeting Facilities
 - 9 - Handicap Accessible
 coordinates:
   lat: '43.377889'
