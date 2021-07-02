@@ -11,12 +11,17 @@ sections:
   label: Home
   templates:
   - home
+- type: document
+  path: content/index-es.md
+  label: Home Spanish
+  templates:
+  - home
 - type: directory
   path: content
   label: Main Pages
   create: all
   match: "*.md"
-  exclude: _index.md
+  exclude: '{index-es.md,_index.md}'
   templates:
   - regular-pages
 - type: directory
