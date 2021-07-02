@@ -75,9 +75,6 @@ home_splashes:
 - img: "/img/plan-your-vacation-hero-es.jpg"
   alt: Planifique sus vacaciones
   url: "/lodging"
-- img: "/img/win-500-cash.png"
-  url: https://craterlakecountry.com/coos-bay/
-  alt: Win $500 Cash
 
 ---
 Le damos la bienvenida a las ciudades de Coos Bay, North Bend y Charleston, conocidas en conjunto como Oregon's Adventure Coast. Aquí, el mar se encuentra con la tierra, permitiendo una variedad de experiencias. Lo invitamos a explorar, descubrir, sentir y experimentar. 
