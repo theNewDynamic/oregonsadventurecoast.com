@@ -7,8 +7,7 @@ promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
 - photo: "/img/spanish-home-pg-desktop-slider.jpg"
   photo_mobile: "/img/spanish-home-pg-mobile.jpg"
-welcomeheadline: 'Vacaciones en la costa de Oregón: la aventura es nuestro segundo
-  nombre'
+welcomeheadline: "¡Bienvenidos a Oregon’s Adventure Coast!"
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
   desktoptitle: Store
