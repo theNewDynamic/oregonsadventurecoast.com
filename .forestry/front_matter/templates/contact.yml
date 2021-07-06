@@ -18,6 +18,12 @@ fields:
   - type: text
     name: zip
     label: ZIP Code
+  - name: state
+    type: text
+    config:
+      required: false
+    label: State
+    default: OR
 - type: text
   name: phone_local
   label: Phone Local
