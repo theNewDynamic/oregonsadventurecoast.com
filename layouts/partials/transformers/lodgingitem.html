@@ -10,7 +10,7 @@
 {{ $s.SetInMap "item" "street" .Params.address.street }}
 {{ $s.SetInMap "item" "street2" .Params.address.street2 }}
 {{ $s.SetInMap "item" "city" .Params.address.city }}
-{{ $s.SetInMap "item" "state" .Params.address.state }}
+{{ $s.SetInMap "item" "state" (.Params.address.state | default "OR") }}
 {{ $s.SetInMap "item" "zip" .Params.address.zip }}
 {{ $s.SetInMap "item" "phone_toll_free" .Params.phone_toll_free }}
 {{ $s.SetInMap "item" "phone_local" .Params.phone_local }}
