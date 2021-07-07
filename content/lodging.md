@@ -17,4 +17,4 @@ As you plan your vacation to the Oregon Coast, browse our list of places to stay
 
 You can pick accommodations on the Oregon Coast that will suit your needs and preferences, whether you need a place to stay that is pet-friendly, offers a fitness center, has a kitchen, and a variety of other additions.
 Look through these options and take the next step in planning your trip to the Oregon Coast!  
-**($ = Up to $65; $$ = $66-$99; $$$ = $100+)**
+**($ = Up to $99; $$ = $100-$199; $$$ = $200+)**
