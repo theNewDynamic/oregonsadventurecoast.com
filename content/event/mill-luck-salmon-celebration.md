@@ -1,6 +1,6 @@
 ---
 title: Mill-Luck Salmon Celebration
-photo: "/img/events-runners-header.jpg"
+photo: "/img/salmon-image-02.jpg"
 largeboxphoto: "/img/salmon-celebration-large.jpg"
 mediumboxphoto: "/img/salmon-celebration-medium.jpg"
 smallboxphoto: "/img/salmon-celebration-small.jpg"
@@ -20,7 +20,6 @@ address:
 phone_toll_free: 541-756-8800
 phone_local: 800-953-4800
 website: https://www.themillcasino.com
-draft: true
 
 ---
 ![Mill Luck Salmon Celebration Man With Salmon](/img/salmon-celebration-medium.jpg)
