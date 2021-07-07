@@ -9,8 +9,8 @@ mobiletitle: Salmon Celebration
 hovertitle: Salmon Celebration
 hoverdescription: Salmon Celebration is a celebration of Native American and Coquille
   Tribal culture.
-startdate: '2020-09-12'
-enddate: '2020-09-13'
+startdate: '2021-09-11'
+enddate: '2021-09-12'
 address:
   city: North Bend
   state: OR
@@ -25,13 +25,12 @@ draft: true
 ---
 ![Mill Luck Salmon Celebration Man With Salmon](/img/salmon-celebration-medium.jpg)
 
-The Mill-Luck Salmon Celebration is a celebration of Native American and Coquille Tribal culture. Enjoy a free outdoor festival including Native vendors, canoe races, canoe exhibition and rides, Native drummers and dancers and so much more.
-
-This fun-filled weekend is full of family events and entertainment.
+**The Mill-Luck Salmon Celebration** is a tribute to Native American and Coquille Tribal culture. Enjoy this free, fun-filled, outdoor festival including:
 
 * Tribal canoe races & rides
 * Outdoor tribal vendors and crafts (demonstrations and participation)
 * Traditional salmon bake meal
+* Traditional Fry Bread made by Tribal Elders
 * Live entertainment with authentic Native American dancing and drumming
 * Coos Bay Basin Salmon Derby awards ceremony
 
