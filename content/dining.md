@@ -23,6 +23,6 @@ If you want to get it to go, the **delis and grocery stores** throughout Coos Ba
 
 [Download our Restaurant Guide to carry with you on your vacation to the Oregon Coast!](/img/Restaurants-BOOKLET-FINAL-041221.pdf)
 
-[Download our Coffee Shops, Bakeries, & Specialty Shops Guide too!](/img/coffeeshops-bakery-03-25-21)
+[Download our Coffee Shops, Bakeries, & Specialty Shops Guide too!](/img/coffeeshops-bakery-03-25-21.pdf)
 
 [**Looking for Outdoor Dining Options? Click Here!**](/blog/looking-for-outdoor-dining-options-coos-bay-north-bend-charleston-have-several-from-which-to-choose/)
