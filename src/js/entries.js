@@ -107,8 +107,8 @@ function buildEntries() {
         }
         else if (entriesType == "dining") {
             $.ajax({
-                url: api_url + '/data-api/index.php?method=get&type=dining',
-                dataType: 'jsonp',
+                url: '/.netlify/functions/data-api/?method=get&type=dining',
+                dataType: 'json',
                 contentType: 'application/json; charset=utf-8'
             })
             .done((data) => {
