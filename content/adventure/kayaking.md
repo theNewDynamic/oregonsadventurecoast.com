@@ -71,14 +71,6 @@ Tenmile Lakes is made up of two lakes (North and South) connected by a channel. 
 
 <div class="margin-50px-top"></div>
 
-![Bay Tours to See the Scenic and Historic Area](/img/bay-boat-tours-695x322.jpg)
-
-## Bay Tours
-
-If you are seeking a way to get out on the water, but self-propelled sports are not your cup of tea, a scenic and historic tour of the Coos Bay aboard the O'Flynn may be just the perfect addition to your visit. [Coos Boat Tour](https://www.coosboattours.com/)'s Captain Brian navigates the Bay in this sturdy 21' tub boat with seating for six. The O’Flynn has a top speed of just 8 mph, as it was designed for scenic cruising.
-
-<div class="margin-50px-top"></div>
-
 ![Waxer's Surf Shop](/img/waxer-surf-shop.jpg)
 
 ## Equipment Rental
