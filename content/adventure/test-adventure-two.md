@@ -1,9 +1,9 @@
 ---
 title: Art, History & Culture
 aliases:
-  - /featured-adventures/history-culture
-  - /activities/category/culture-museums
-  - /activities/category/historical
+- "/featured-adventures/history-culture"
+- "/activities/category/culture-museums"
+- "/activities/category/historical"
 url: "/art-history-culture"
 photo: "/img/museum-cultural-sub-header.jpg"
 seo:
@@ -43,7 +43,7 @@ Step back in time and see the original equipment from The Sun Newspaper as it wa
 
 #### Oregon Coast Historic Railway Museum
 
-A must stop for railroad enthusiasts. Ring the bell of the signature 1922 Baldwin steam locomotive! This museum shows off railroad and logging equipment in an outdoor display area, and a mini-museum with photos and railroad memorabilia. Welcome aboard! Open Wednesdays & Saturdays. {{< link url="http://www.orcorail.org" >}}Visit The Oregon Coast Historic Railway Museum website for more information.{{< /link >}}
+A must stop for railroad enthusiasts. Ring the bell of the signature 1922 Baldwin steam locomotive! This museum shows off railroad and logging equipment in an outdoor display area, and a mini-museum with photos and railroad memorabilia. Welcome aboard! Open Wednesdays, Saturdays, and Sundays. {{< link url="http://www.orcorail.org" >}}Visit The Oregon Coast Historic Railway Museum website for more information.{{< /link >}}
 
 {{< spacer >}}
 
