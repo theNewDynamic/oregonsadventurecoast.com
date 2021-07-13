@@ -18,7 +18,7 @@ property_description: Best Western Holiday Hotel offers a retreat for exploring 
   events. Located across the street from the Bay, within easy walking distance to
   downtown shopping & dining. Comfortable, well-appointed rooms, some with in-room
   hot tubs.
-website: http://www.bestwestern.com
+website: https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html
 amenityList:
 - 2 - Continental or Full Bkfst
 - 3 - Fitness Center
