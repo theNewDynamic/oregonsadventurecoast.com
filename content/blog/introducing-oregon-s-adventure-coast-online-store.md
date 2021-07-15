@@ -35,7 +35,7 @@ Ever wish you had a special souvenir to remind you of the good times you had on 
 
 If you answered yes to any of these questions, we have some fantastic news for you! We recently launched a [NEW online store](https://www.oregonsadventurecoast.com/shop/?utm_source=adventure-march-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter) for your convenience! You can browse through our super cool selection of cool t-shirts, Myrtlewood pens, charm bracelets, hoodies, hats, and masks from anywhere, any time you want! Here are some of the features:
 
-Shop from the Southern Oregon Charm Trail collection. Commemorate your visit with an adorable charm bracelet and customized charms from the [Southern Oregon Charm Trail](/img/Charm Trail Map.pdf)!
+Shop from the Southern Oregon Charm Trail collection. Commemorate your visit with an adorable charm bracelet and customized charms from the [Southern Oregon Charm Trail](/img/Charm-Trail-Map.pdf)!
 
 ![](/img/bracelet-closeup.jpg)
 
