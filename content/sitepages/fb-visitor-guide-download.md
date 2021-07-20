@@ -1,6 +1,6 @@
 ---
 title: FB Visitor Guide Download
-url: newsletter-signup
+url: visitor-guide-download
 layout: headless
 photo: ''
 seo:
@@ -11,7 +11,6 @@ seo:
 aliases: []
 accordion_sections: []
 boxes: []
-draft: true
 
 ---
-<script type="text/javascript" src="https://form.jotform.com/jsform/211596451244152"></script>
+<script type="text/javascript" src="https://form.jotform.com/jsform/212006131788147"></script>
