@@ -10,20 +10,11 @@
 		<div class="inner">
 			<div class="inner-bg clearfix">
 			<div class="fade"></div>
-				<div class="m-social social">
-					<ul>
-						{{ if false }}
-							{{ with site.GetPage "/covid-19-information" }}
-							<li><a href="{{ .RelPermalink }}" class="emergency">Coronavirus update</a></li>
-							{{ end }}
-						{{ end }}
-						<li><a href="https://www.facebook.com/OregonsAdventureCoast" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-						<li><a href="https://twitter.com/travelcoosbay" target="_blank"><i class="fab fa-twitter"></i></a></li>
-						<li><a href="https://www.instagram.com/travelcoosbay/" target="_blank"><i class="fab fa-instagram"></i></a></li>
-						<li><a href="http://pinterest.com/travelcoosbay" target="_blank"><i class="fab fa-pinterest"></i></a></li>
-						<li><a href="http://www.youtube.com/user/CoosBayOregon" target="_blank"><i class="fab fa-youtube"></i></a></li>
-					</ul>
-				</div>
+			<div class="m-social social">
+				<ul>
+					{{ partialCached "socials" "socials" }}
+				</ul>
+			</div>
 			
 				<ul class="util-nav">
 					<li><a href="/shop">Adventure Store</a></li>
@@ -115,11 +106,7 @@
 			<div class="mobile-social">
 				<h5>Be Sociable</h5>
 				<ul>
-					<li><a href="https://www.facebook.com/OregonsAdventureCoast" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-					<li><a href="https://twitter.com/travelcoosbay" target="_blank"><i class="fab fa-twitter"></i></a></li>
-					<li><a href="https://www.instagram.com/travelcoosbay/" target="_blank"><i class="fab fa-instagram"></i></a></li>
-					<li><a href="http://pinterest.com/travelcoosbay" target="_blank"><i class="fab fa-pinterest"></i></a></li>
-					<li><a href="http://www.youtube.com/user/CoosBayOregon" target="_blank"><i class="fab fa-youtube"></i></a></li>
+					{{ partialCached "socials" "socials" }}
 				</ul>
 			</div>
 		</div>

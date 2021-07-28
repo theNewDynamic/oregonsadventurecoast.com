@@ -25,3 +25,18 @@ tnd_snipcart:
       buy_button_text: Add to Cart
       buy_button_classes: ""
       fields:
+tnd_socials:
+  services:
+  - name: facebook
+    handle: OregonsAdventureCoast
+  - name: twitter
+    handle: travelcoosbay
+  - name: instagram
+    handle: travelcoosbay
+  - name: pinterest
+    handle: travelcoosbay
+  - name: youtube
+    handle: CoosBayOregon
+  - name: tiktok
+    handle: oregonsadventurecoast
+    url: https://www.tiktok.com/@oregonsadventurecoast?lang=en

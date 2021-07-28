@@ -1,0 +1,9 @@
+{{ with partialCached "tnd-socials/GetSocials" "GetSocials" }}
+  {{ range . }}
+  {{ $icon := .Name | urlize }}
+  {{ if eq .Name "Facebook" }}
+    {{ $icon = "facebook-f" }}
+  {{ end }}
+  <li><a href="{{ .URL }}" target="_blank"><i class="fab fa-{{ $icon }}"></i></a></li>
+  {{ end }}
+{{ end }}

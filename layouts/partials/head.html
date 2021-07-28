@@ -41,10 +41,10 @@
 	<link rel="stylesheet" href="/vendors/lg/css/lightgallery.min.css">
 	{{ end }}
 
-	<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
-	<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/brands.js" integrity="sha384-G/XjSSGjG98ANkPn82CYar6ZFqo7iCeZwVZIbNWhAmvCF2l+9b5S21K4udM7TGNu" crossorigin="anonymous"></script>
-	<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+	<script src="https://kit.fontawesome.com/89e7208679.js" crossorigin="anonymous"></script>
+	{{ if not site.IsServer }}
 	{{ partial "googletag" (dict "where" "top") }}
+	{{ end }}
 	{{ template "_internal/google_analytics_async.html" . }}
 	{{ if eq (getenv "HUGO_ENV") "production" }}
 	<meta name="facebook-domain-verification" content="d60r78hv13z9t4u6ynr4pq0bbt5gbz" />
