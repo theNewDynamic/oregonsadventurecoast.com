@@ -55,7 +55,13 @@
 
 		<div class="clearfix m-copyright-footer">
 			<p class="locations"><a href="/our-area-coos-bay">Coos Bay</a> <span class="g-swoosh-bullet"></span> <a href="/our-area-north-bend">North Bend</a> <span class="g-swoosh-bullet"></span> <a href="/our-area-charleston">Charleston</a></p>
-			<p class="copyright">&copy; Oregon’s Adventure Coast, {{ dateFormat "2006" now }}. All rights reserved. <a href="/social-media-disclaimer/">Social Media Disclaimer.</a></p>
+			<p class="copyright">&copy; Oregon’s Adventure Coast, {{ dateFormat "2006" now }}. All rights reserved. 
+				{{ range slice "social-media-disclaimer" "privacy-policy" }}
+					{{ with site.GetPage (print "sitepages/" .) }}
+						<a href="{{ .RelPermalink }}">{{ .Title }}</a>.
+					{{ end }}
+				{{ end }}
+			</p>
 		</div>
 	</div>
 </div>
