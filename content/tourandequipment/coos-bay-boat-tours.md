@@ -17,5 +17,6 @@ address:
 phone_local: 541-999-6575
 phone_toll_free: ''
 website: https://www.coosboattours.com/
+draft: true
 
 ---
