@@ -19,7 +19,7 @@ boxes: []
 
 Spend this fall in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the following Lodging Properties and receive a special 15% discount.
 
-**_Discount valid October 1, 2020 through November 30, 2020. Some restrictions apply and subject to change._**
+**_Discount valid October 1, 2021 through November 30, 2020. Some restrictions apply and subject to change._**
 
 {{< spacer 50 >}}
 
