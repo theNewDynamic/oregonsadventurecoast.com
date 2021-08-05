@@ -35,7 +35,7 @@ warning: false
 warning_copy: ''
 
 ---
-### guide-”a person who advises or shows the way to others.”
+> **"Guide - noun. A person who advises or shows the way to others." -Merriam Webster Dictionary**
 
 One of the appeals of **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is the variety of adventures to choose from. There is something for everyone here, whether it’s a coastal hike, a kayak ride, a walk on the beach, 24-hour casino gaming, a ride on the dunes, trying new restaurants, and everything in between. We all enjoy creating our own adventures and going at our own pace, but there are times when a knowledgeable local guide can come in handy!
 
