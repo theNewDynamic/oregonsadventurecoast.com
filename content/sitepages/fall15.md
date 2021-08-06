@@ -15,6 +15,13 @@ accordion_sections: []
 boxes: []
 
 ---
+
+<style>
+  .fa-w-16{
+    width: 2em;
+  }
+</style>
+
 ![](/img/fall-15-off-header-695x322.jpg)
 
 Spend this fall in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the following Lodging Properties and receive a special 15% discount.
