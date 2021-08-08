@@ -32,4 +32,6 @@ For more information call 541-266-9706.
 
 _![](/img/blackberry-jam-image.jpeg)_
 
-### **Blackberry Jam Information Coming Soon**
+### **Blackberry Jam** 
+
+##### K-DOCK Radio brings us the Blackberry Jam Music Showcase! Two full days of great local live music on the sponsored stage. Featuring great bands like SITKA, TOYZ, TIMBERWOLF, and more!
