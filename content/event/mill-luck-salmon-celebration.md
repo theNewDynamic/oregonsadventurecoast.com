@@ -1,5 +1,5 @@
 ---
-title: Mill-Luck Salmon Celebration
+title: 17th Annual Mill-Luck Salmon Celebration
 photo: "/img/salmon-image-02.jpg"
 largeboxphoto: "/img/salmon-celebration-large.jpg"
 mediumboxphoto: "/img/salmon-celebration-medium.jpg"
