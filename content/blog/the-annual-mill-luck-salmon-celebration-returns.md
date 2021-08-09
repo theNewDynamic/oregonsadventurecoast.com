@@ -7,6 +7,19 @@ description: 'Much like the Salmon return upstream, the Mill-Luck Salmon Celebra
 image: "/img/mill-luck-salmon-celebration-returnsblog-695x322-jpg.png"
 tags:
 - Mill Casino
+- Coquille Indian Tribe
+- " Native American"
+- Festival
+- Oregon Coast
+- Coos Bay
+- North Bend Oregon
+- 'Charleston Oregon '
+- 'Mill-Luck Salmon Celebration '
+- Native Amercian Festival
+- Salmon Celebration
+- Salmon Bake Dinner
+- 'Salmon Bake '
+- 'Oregon''s Adventure Coast '
 categories:
 - Special Events & Holidays
 seo:
@@ -18,14 +31,13 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 ## Outdoor Festival Celebrating Native American and Coquille Tribal Culture to Take Place at The Mill Casino Hotel & RV Park September 11-12, 2021
 
 “Our ancestors flourished among the forests, rivers, meadows and beaches of southwestern Oregon. The land and water offered endless life-sustaining resources, and our people adapted ingeniously to this waterside paradise.” **- Coquille Indian Tribe**
 
-Much like the Salmon return upstream, the Mill-Luck Salmon Celebration returns to the Mill Casino in North Bend after a hiatus in 2020 due to the COVID shutdown.
+Much like the Salmon return upstream, the [Mill-Luck Salmon Celebration](https://www.themillcasino.com/entertainment/17th-annual-mill-luck-salmon-celebration/2021-09-12/) returns to the Mill Casino in North Bend after a hiatus in 2020 due to the COVID shutdown.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmillcasino%2Fposts%2F10165913457920294&show_text=true&width=500" width="500" height="403" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
