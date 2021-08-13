@@ -31,6 +31,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+draft: true
 
 ---
 ## Outdoor Festival Celebrating Native American and Coquille Tribal Culture to Take Place at The Mill Casino Hotel & RV Park September 11-12, 2021
