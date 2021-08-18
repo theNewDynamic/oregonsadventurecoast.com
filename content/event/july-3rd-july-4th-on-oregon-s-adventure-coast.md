@@ -20,6 +20,7 @@ address:
 phone_local: "(541) 269-0215"
 phone_toll_free: ''
 website: http://www.oregonsadventurecoast.com
+draft: true
 
 ---
 ![Fireworks light up the Bay!](/img/stevenm-2016-103-3rjuly1.jpg "Fireworks light up the Bay!")
