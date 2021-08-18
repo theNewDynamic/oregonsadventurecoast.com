@@ -4,9 +4,9 @@ photo: "/img/salmon-image-02.jpg"
 largeboxphoto: "/img/salmon-celebration-large.jpg"
 mediumboxphoto: "/img/salmon-celebration-medium.jpg"
 smallboxphoto: "/img/salmon-celebration-small.jpg"
-desktoptitle: Mill-Luck Salmon Celebration
-mobiletitle: Salmon Celebration
-hovertitle: Salmon Celebration
+desktoptitle: Mill-Luck Salmon Celebration - CANCELLED
+mobiletitle: Salmon Celebration - CANCELLED
+hovertitle: Salmon Celebration - CANCELLED
 hoverdescription: Salmon Celebration is a celebration of Native American and Coquille
   Tribal culture.
 startdate: '2021-09-11'

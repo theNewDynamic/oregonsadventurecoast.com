@@ -10,11 +10,10 @@ address:
 phone_local: "(541) 266-9706"
 phone_toll_free: ''
 website: https://blackberryartsfestival.com/
-desktoptitle: Celebrate the Blackberry!
-mobiletitle: Celebrate the Blackberry!
-hovertitle: Celebrate All Things Blackberry!
-hoverdescription: Joins us for the annual Blackberry Arts Festival, celebrating the
-  delicious blackberry!
+desktoptitle: Blackberry Arts Fest - CANCELLED
+mobiletitle: Blackberry Arts Fest - CANCELLED
+hovertitle: Blackberry Arts Fest - CANCELLED
+hoverdescription: ''
 photo: "/img/blackberry-event-page-header-1.jpg"
 largeboxphoto: "/img/blackberry-event-large.jpg"
 mediumboxphoto: "/img/blackberry-event-medium.jpg"
