@@ -27,6 +27,7 @@ largeboxphoto: "/img/juneteenth-flag-1024x395.jpg"
 mediumboxphoto: "/img/juneteenth-flag-667x355.jpg"
 smallboxphoto: "/img/juneteenth-flag-340x214.jpg"
 aliases: []
+draft: true
 
 ---
 ![](/img/juneteenth-logo-cropped-sm.jpg)
