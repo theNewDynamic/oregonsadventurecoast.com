@@ -13,13 +13,9 @@ accordion_sections: []
 boxes: []
 
 ---
-**_Updated June 30, 2021_**
+**_Updated August 18, 2021_**
 
-#### **On June 30, 2021, Governor Brown has lifted the state mask and 6 foot distancing mandates,** (with certain exceptions, including health care, public transit, and airports)**.** 
-
-Note that some businesses may require their employees to continue to wear masks.
-
-Bars may now stay open until 2pm if the establishment decides to do so. Businesses may also remove the plexiglass barriers put in place when distancing was not possible. 
+#### **On August 13, 2021, Governor Brown reinstated the state mask mandate, for both vaccinated and unvaccinated people, while indoors.**
 
 {{< spacer 25>}}
 
