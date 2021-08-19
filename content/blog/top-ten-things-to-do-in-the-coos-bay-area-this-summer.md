@@ -1,6 +1,6 @@
 ---
 title: Top Ten Things to Do in the Coos Bay Area This Summer
-date: 2021-07-15T04:00:00+00:00
+date: 2021-07-15T04:00:00.000+00:00
 description: 'Summer is one of our favorite seasons on Oregon’s Adventure Coast: Coos
   Bay, North Bend, Charleston. Whether you plan to stay for a day, a weekend, a week
   or longer, you will find plenty of wonderful adventures to enjoy: water activities,
@@ -62,20 +62,13 @@ For the ultimate south coast adventure, it doesn’t get much better than fishin
 
 **#7 Hike to Golden and Silver Falls State Natural Area.** For adventure lovers, Golden and Silver Falls State Natural Area (about 30 miles from Highway 101, on Highway 241) does not disappoint! This is a perfect place to enjoy nature and solitude as you hike through scenic canyons and lush coastal forests to two magnificent waterfalls. The drive to the falls is part of the adventure, with winding roads that narrow in places and can take almost an hour to traverse.[ Click here](https://oregonsadventurecoast.com/blog/2016-02-05-adventure-spotlight-golden-and-silver-falls/) for our tips and more info.
 
-**#8 Check out one of our local events!**
-We’re so glad to have[ in-person events back on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/blog/events-are-back-on-oregon-s-adventure-coast/)! [Live music](https://www.oregonsadventurecoast.com/blog/live-music-returns-to-oregon-s-adventure-coast/), [Blackberry Arts Festival](https://www.oregonsadventurecoast.com/event/annual-blackberry-arts-festival/), [Mill-Luck Salmon Celebration](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/), and the [Bay Area Fun Festival](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) are only a few events that locals and visitors can enjoy this summer. [Click here](https://www.oregonsadventurecoast.com/calendar/) to view our full event calendar.
-
-**Local Tip:** If you’re here mid-week, stop by the [Coos Bay Farmers Market](https://coosbaydowntown.org/farmers-market/)! The market operates every Wednesday from 9 am to 2 pm through October, and is located in the heart of the Coos Bay Downtown Historic District on Central Ave. The CBFM presents over 60 vendors who provide the community with fresh, locally grown produce, eggs, honey, meat, baked goods, roasted coffee, flowers, body care products, and handmade craft items.
+**#8 Visit the Coos Bay Farmers Market** 
+If you’re here mid-week, stop by the [Coos Bay Farmers Market](https://coosbaydowntown.org/farmers-market/)! The market operates every Wednesday from 9 am to 2 pm through October, and is located in the heart of the Coos Bay Downtown Historic District on Central Ave. The CBFM presents over 60 vendors who provide the community with fresh, locally grown produce, eggs, honey, meat, baked goods, roasted coffee, flowers, body care products, and handmade craft items.
 
 **#9 Visit South Slough National Estuarine Research Reserve.**
 We can’t get enough of beautiful outdoor destinations, like [The South Slough National Estuarine Research Reserve (South Slough NERR)](https://www.oregon.gov/dsl/SS/Pages/About.aspx), a 5,000-acre natural area located in the Coos estuary near Charleston. Not only are there miles of hiking trails and waterways to explore, but visitors can also enjoy an abundance of wildlife viewing. Take a self-guided tour through this protected area of land and estuary, and you’ll likely spot various birds like Bald Eagles, Osprey, Great Blue Herons, Egrets and Belted Kingfishers. Read more about [South Slough NERR](https://www.oregonsadventurecoast.com/blog/unplug-reconnect-with-nature-at-the-south-slough-nerr/).
 
 **#10 Grab A Bite Or A Drink At One Of Our Local Restaurants.**
 There are many local restaurants dishing out the freshest seafood and chowder you could hope for! [Download our Local Restaurant Guide](https://www.oregonsadventurecoast.com/img/Restaurants-BOOKLET.pdf) to carry with you, or visit [oregonsadventurecoast.com/dining](https://oregonsadventurecoast.com/dining/) to see all our local restaurants.
-
-**BONUS!**
-
-**#11 Visit the Charleston Marine Life Center (re-opening August, 11th).**
-It was a sad day last spring when the 6,000-square-foot [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/) temporarily closed due to the pandemic. Fortunately, this beloved educational facility announced they will be reopening on August 11, 2021! Come explore their permanent exhibits, including a Marine Ecosystem Gallery, an Underwater Oregon Gallery, and an Oregon Fisheries Gallery (an open-air deck where visitors can watch fishing vessels coming and going from the harbor). Visit [charlestonmarinelifecenter.com](http://www.charlestonmarinelifecenter.com) for more info.
 
 There is an adventure for everyone on Oregon’s Adventure Coast. Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor activities, prime shopping, fine dining, special events, or an evening of entertainment, you will find it here. For more information, please [contact the Coos Bay – North Bend Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/contact/).
