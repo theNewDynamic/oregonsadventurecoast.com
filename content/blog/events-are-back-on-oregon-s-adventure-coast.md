@@ -6,7 +6,7 @@ description: 'Folks, it’s time to log yourself out of Zoom, put your phone dow
   on Oregon’s Adventure Coast! In addition to the shopping, eating and exciting adventures
   at every turn, visitors are finally free to roam and enjoy several not-to-be-missed
   events and festivals happening this summer!  '
-image: "/img/untitled-design-3.png"
+image: "/img/untitled-design-7.png"
 tags:
 - Events
 - Coos Bay
@@ -52,7 +52,7 @@ Please note, this is only a partial list. Events are subject to change without n
 
 ### EVENTS IN JUNE 2021
 
-**June 19, 2021** - [Juneteenth Celebration](https://www.oregonsadventurecoast.com/event/juneteenth-celebration/) at Coos History Museum *Includes a [Special Tuesday Talk ](https://cooshistory.org/events/special-edition-tuesday-talk-juneteenth/)(virtual) on June 15th*
+**June 19, 2021** - [Juneteenth Celebration](https://www.oregonsadventurecoast.com/event/juneteenth-celebration/) at Coos History Museum _Includes a_ [_Special Tuesday Talk_](https://cooshistory.org/events/special-edition-tuesday-talk-juneteenth/) _(virtual) on June 15th_
 
 **June 19 - 27, 2021** - [Coos Bay Shakespeare in the Park](http://coosbayshakespeare.com/current/) presents _The Tempest_ at Mingus Park Amphitheater
 
@@ -60,17 +60,15 @@ Please note, this is only a partial list. Events are subject to change without n
 
 ### EVENTS IN JULY 2020
 
-**July 3, 2021** - [Bay Area Fireworks Extravaganza Over the Bay](https://www.oregonsadventurecoast.com/event/july-3rd-july-4th-on-oregon-s-adventure-coast/) _*NEW: This year, the fireworks can be seen from the Coos Bay Boardwalk, all along Front Street and Highway 101 to the North Bend Boardwalk.*_
+**July 3, 2021** - [Bay Area Fireworks Extravaganza Over the Bay](https://www.oregonsadventurecoast.com/event/july-3rd-july-4th-on-oregon-s-adventure-coast/) _NEW: This year, the fireworks can be seen from the Coos Bay Boardwalk, all along Front Street and Highway 101 to the North Bend Boardwalk._
 
-**July 17-25, 2021** - [Oregon Coast Music Festival Events](https://www.oregonsadventurecoast.com/event/41st-annual-oregon-coast-music-festival/) _*OCMA Orchestra Concerts will not happen again in 2021, however, multiple outdoor concert events are scheduled*_
+**July 17-25, 2021** - [Oregon Coast Music Festival Events](https://www.oregonsadventurecoast.com/event/41st-annual-oregon-coast-music-festival/) _OCMA Orchestra Concerts will not happen again in 2021, however, multiple outdoor concert events are scheduled_
 
 ### EVENTS IN AUGUST 2021
 
-**August 10 & 11, 2021** - [IN A LANDSCAPE: Classical Music in the Wild at Shore Acres](https://www.oregonsadventurecoast.com/event/in-a-landscape-classical-music-in-the-wild/) _*Tickets are limited!* A special concert with pianist Hunter Noack as he brings his 9’ Steinway to the gardens at Shore Acres._
+**August 10 & 11, 2021** - [IN A LANDSCAPE: Classical Music in the Wild at Shore Acres](https://www.oregonsadventurecoast.com/event/in-a-landscape-classical-music-in-the-wild/) _Tickets are limited!_ A special concert with pianist Hunter Noack as he brings his 9’ Steinway to the gardens at Shore Acres.
 
 **August 13-15, 2021** - [Charleston Seafood, Beer & Wine Festival](https://www.oregonsadventurecoast.com/event/annual-charleston-seafood-festival/) _in the Charleston Marina. Enjoy delicious Oregon seafood while listening to a variety of great bands._
-
-**August 28-29, 2021** - [Blackberry Arts Festival](https://www.oregonsadventurecoast.com/event/annual-blackberry-arts-festival/) _in Downtown Coos Bay, this juried arts festival presents the best of the Blackberry! In food items, art items and more._
 
 ### EVENTS IN SEPTEMBER 2021
 
@@ -105,7 +103,6 @@ If you are ready to travel, we are ready to welcome you back to **Oregon’s Adv
 
 Make the most of your trip by [downloading our visitor guide](https://www.oregonsadventurecoast.com/img/Oregon-Coast-Visitor-Guide.pdf) or [request to have one mailed to you](https://www.oregonsadventurecoast.com/contact/#contactform).
 
-  
 **More Resources**
 
 [Oregon’s Adventure Coast COVID-19 Information Page](https://www.oregonsadventurecoast.com/covid-19/)
