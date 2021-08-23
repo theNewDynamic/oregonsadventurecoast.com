@@ -12,9 +12,10 @@ address:
   street2: ''
   city: Coos Bay
   zip: '97420'
+  state: ''
 phone_local: "(541) 808-3535"
 phone_toll_free: ''
-website: www.bahamastyles.com
+website: https://bahamaboardz.com/coos-bay-shop/
 coordinates:
   lat: '43.378166'
   lng: "-124.217716"
