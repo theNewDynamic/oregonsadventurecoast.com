@@ -10,9 +10,10 @@ address:
   street2: ''
   city: Coos Bay
   zip: '97420'
+  state: ''
 phone_local: "(541) 266-9020"
 phone_toll_free: ''
-website: https://shopwaxers.com/
+website: https://waxerssurfandskate.com/
 coordinates:
   lat: '43.366630'
   lng: "-124.212905"
