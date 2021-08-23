@@ -15,7 +15,7 @@ address:
   zip: '97420'
 phone_local: 541-808-3535
 phone_toll_free: ''
-website: https://bahamastyles.com/coos-bay-rentals/
+website: https://bahamaboardz.com/coos-bay-shop/
 date: '2019-04-25T12:14:50-07:00'
 
 ---
