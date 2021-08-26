@@ -28,6 +28,7 @@ largeboxphoto: "/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg"
 mediumboxphoto: "/img/hunter-noak-at-sunset-667x355.jpg"
 smallboxphoto: "/img/ial-joey-hamilton-340x214.jpg"
 aliases: []
+draft: true
 
 ---
 ### IN A LANDSCAPE: Classical Music in the Wild™

@@ -1,12 +1,12 @@
 ---
-title: Annual Cruz The Coos
+title: Annual Cruz The Coos - CANCELLED
 photo: "/img/cruz-coos-2048x530.jpg"
 largeboxphoto: "/img/cruz-the-coos-large.jpg"
 mediumboxphoto: "/img/cruz-the-coos-medium.jpg"
 smallboxphoto: "/img/cruz-the-coos-small.jpg"
-desktoptitle: Annual Cruz The Coos
-mobiletitle: Cruz The Coos
-hovertitle: Cruz The Coos
+desktoptitle: Annual Cruz The Coos - CANCELLED
+mobiletitle: Cruz The Coos - CANCELLED
+hovertitle: Cruz The Coos - CANCELLED
 hoverdescription: One of the longest-running and largest classic car cruises on the
   Oregon Coast
 startdate: '2021-09-18'
@@ -22,11 +22,11 @@ website: https://cruzthecoos.com/
 ---
 ![](/img/cruz-coos-768x512.jpeg)
 
-This event, spanning decades on Oregon’s Adventure Coast, is one of the longest-running and largest classic car cruises on the Oregon Coast featuring hundreds of rare and vintage automobiles. This family-friendly event include a Show ‘n Shine at The Mill Casino Hotel & RV Park and its marquee event, the annual “cruise” through the streets of downtown Coos Bay on Saturday, September 18.
+**Due to the recent sharp increase in COVID-19 cases in the Coos Bay area, Rotary officials have cancelled this year's Cruz the Coos** event out of concern for the health and well-being of our residents and visitors.
 
-This event is part of the annual **Bay Area Fun Festival**!
+**We look forward to welcoming this event back in 2022!**
 
-#### Here are the other exciting events happening this weekend!
+#### 
 
 ***
 
