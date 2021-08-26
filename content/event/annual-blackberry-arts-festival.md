@@ -1,5 +1,5 @@
 ---
-title: 38th Annual Blackberry Arts Festival - CANCELLED
+title: 38th Annual Blackberry Arts Festival - CANCELED
 startdate: '2021-08-28'
 enddate: '2021-08-29'
 address:
@@ -10,9 +10,9 @@ address:
 phone_local: "(541) 266-9706"
 phone_toll_free: ''
 website: https://blackberryartsfestival.com/
-desktoptitle: Blackberry Arts Fest - CANCELLED
-mobiletitle: Blackberry Arts Fest - CANCELLED
-hovertitle: Blackberry Arts Fest - CANCELLED
+desktoptitle: Blackberry Arts Fest - CANCELED
+mobiletitle: Blackberry Arts Fest - CANCELED
+hovertitle: Blackberry Arts Fest - CANCELED
 hoverdescription: ''
 photo: "/img/blackberry-event-page-header-1.jpg"
 largeboxphoto: "/img/blackberry-event-large.jpg"
@@ -21,7 +21,7 @@ smallboxphoto: "/img/blackberry-event-small.jpg"
 date: '2019-02-10T22:01:16.000+00:00'
 
 ---
-**DUE TO THE RECENT OUTBREAK OF THE DELTA VARIANT, THE ANNUAL BLACKBERRY ARTS FESTIVAL HAS BEEN CANCELLED FOR 2021. WE APPRECIATE YOUR SUPPORT AND LOOK FORWARD TO SEEING EVERYONE FOR THE FESTIVAL IN 2022.**
+**DUE TO THE RECENT OUTBREAK OF THE DELTA VARIANT, THE ANNUAL BLACKBERRY ARTS FESTIVAL HAS BEEN CANCELED FOR 2021. WE APPRECIATE YOUR SUPPORT AND LOOK FORWARD TO SEEING EVERYONE FOR THE FESTIVAL IN 2022.**
 
 ![](/img/blackberry-fest-blog-695-322.jpg)
 

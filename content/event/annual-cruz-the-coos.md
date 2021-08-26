@@ -1,12 +1,12 @@
 ---
-title: Annual Cruz The Coos - CANCELLED
+title: Annual Cruz The Coos - CANCELED
 photo: "/img/cruz-coos-2048x530.jpg"
 largeboxphoto: "/img/cruz-the-coos-large.jpg"
 mediumboxphoto: "/img/cruz-the-coos-medium.jpg"
 smallboxphoto: "/img/cruz-the-coos-small.jpg"
-desktoptitle: Annual Cruz The Coos - CANCELLED
-mobiletitle: Cruz The Coos - CANCELLED
-hovertitle: Cruz The Coos - CANCELLED
+desktoptitle: Annual Cruz The Coos - CANCELED
+mobiletitle: Cruz The Coos - CANCELED
+hovertitle: Cruz The Coos - CANCELED
 hoverdescription: One of the longest-running and largest classic car cruises on the
   Oregon Coast
 startdate: '2021-09-18'
@@ -22,7 +22,7 @@ website: https://cruzthecoos.com/
 ---
 ![](/img/cruz-coos-768x512.jpeg)
 
-**Due to the recent sharp increase in COVID-19 cases in the Coos Bay area, Rotary officials have cancelled this year's Cruz the Coos** event out of concern for the health and well-being of our residents and visitors.
+**Due to the recent sharp increase in COVID-19 cases in the Coos Bay area, Rotary officials have canceled this year's Cruz the Coos** event out of concern for the health and well-being of our residents and visitors.
 
 **We look forward to welcoming this event back in 2022!**
 

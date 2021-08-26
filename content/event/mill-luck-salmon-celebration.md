@@ -1,12 +1,12 @@
 ---
-title: 17th Annual Mill-Luck Salmon Celebration - CANCELLED
+title: 17th Annual Mill-Luck Salmon Celebration - CANCELED
 photo: "/img/salmon-image-02.jpg"
 largeboxphoto: "/img/salmon-celebration-large.jpg"
 mediumboxphoto: "/img/salmon-celebration-medium.jpg"
 smallboxphoto: "/img/salmon-celebration-small.jpg"
-desktoptitle: Mill-Luck Salmon Celebration - CANCELLED
-mobiletitle: Salmon Celebration - CANCELLED
-hovertitle: Salmon Celebration - CANCELLED
+desktoptitle: Mill-Luck Salmon Celebration - CANCELED
+mobiletitle: Salmon Celebration - CANCELED
+hovertitle: Salmon Celebration - CANCELED
 hoverdescription: Salmon Celebration is a celebration of Native American and Coquille
   Tribal culture.
 startdate: '2021-09-11'
@@ -22,7 +22,7 @@ phone_local: 800-953-4800
 website: https://www.themillcasino.com
 
 ---
-**DUE TO THE RECENT DELTA VARIANT OUTBREAK, THE MILL CASINO * HOTEL & RV PARK AND THE COQUILLE INDIAN TRIBE HAVE CANCELLED THE ANNUAL SALMON CELEBRATION. WE APPRECIATE YOUR SUPPORT OF THIS EVENT AND LOOK FORWARD TO SEEING YOU FOR THE ANNUAL MILL-LUCK SALMON CELEBRATION IN 2022.**
+**DUE TO THE RECENT DELTA VARIANT OUTBREAK, THE MILL CASINO * HOTEL & RV PARK AND THE COQUILLE INDIAN TRIBE HAVE CANCELED THE ANNUAL SALMON CELEBRATION. WE APPRECIATE YOUR SUPPORT OF THIS EVENT AND LOOK FORWARD TO SEEING YOU FOR THE ANNUAL MILL-LUCK SALMON CELEBRATION IN 2022.**
 
 ![Mill Luck Salmon Celebration Man With Salmon](/img/salmon-celebration-medium.jpg)
 

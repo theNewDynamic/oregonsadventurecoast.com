@@ -1,14 +1,14 @@
 ---
-title: Annual Bay Area Fun Festival 2021 - CANCELLED
+title: Annual Bay Area Fun Festival 2021 - CANCELED
 aliases:
 - "/event/annual-bay-area-fun-festival-2020/*"
 photo: "/img/events-runners-header.jpg"
 largeboxphoto: "/img/bay-area-fun-fest-large.jpg"
 mediumboxphoto: "/img/bay-area-fun-fest-medium.jpg"
 smallboxphoto: "/img/bay-area-fun-fest-small.jpg"
-desktoptitle: Bay Area Fun Festival - CANCELLED
-mobiletitle: Bay Area Fun Festival - CANCELLED
-hovertitle: Annual Bay Fun Fun Festival - CANCELLED
+desktoptitle: Bay Area Fun Festival - CANCELED
+mobiletitle: Bay Area Fun Festival - CANCELED
+hovertitle: Annual Bay Fun Fun Festival - CANCELED
 hoverdescription: Famous Cruz the Coos vintage autos, Prefontaine Memorial Run, K-DOCK
   RockFest & Parade.
 startdate: '2021-09-18'
