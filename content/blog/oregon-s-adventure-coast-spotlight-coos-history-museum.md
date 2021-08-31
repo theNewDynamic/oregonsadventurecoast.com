@@ -39,7 +39,7 @@ Did you know there’s a special destination on **Oregon’s Adventure Coast: Co
 
 The museum opened a beautiful new waterfront facility on Coos Bay’s historic Front Street six years ago, ushering in a new era of cultural and tourism in our area. The newer, state-of-the-art museum features interactive exhibits and resources designed to preserve the rich maritime and cultural history in Coos County, while visitors enjoy beautiful views of the bay.
 
-{{< youtube "[O6Dlu17KXFg](https://youtu.be/O6Dlu17KXFg "https://youtu.be/O6Dlu17KXFg")" >}}
+{{< youtube "O6Dlu17KXFg" >}}
 
 Visitors are all but guaranteed to learn something new and leave with a better understanding of what life was like years ago on Oregon’s South Coast and how it relates to who we are today. They do this by collecting and preserving stories, artifacts, photographs, and documents, and by helping create opportunities for people to interpret them in meaningful, thought-provoking, and engaging ways.
 
