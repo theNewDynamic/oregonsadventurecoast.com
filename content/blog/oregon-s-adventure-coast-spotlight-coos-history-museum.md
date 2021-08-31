@@ -33,7 +33,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 Did you know there’s a special destination on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** dedicated to sharing the fascinating and compelling history of our region? The [Coos History Museum & Maritime Collections](https://cooshistory.org/), located on the waterfront in Coos Bay, is the premier history museum & maritime collection on Oregon’s South Coast and part of the 130 year old [Coos County Historical Society](https://cooshistory.org/our-history/). Formed in 1891, Coos County Historical Society is the region’s oldest community supported institutions dedicated to preserving the history of the South Coast!
