@@ -33,6 +33,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+draft: true
 
 ---
 Ready for good news? We are. As COVID-19 cases decline and vaccination rates increase, the County Risk Level of Coos County, home of **Oregon’s Adventure Coast: Coos Bay, North Bend and Charleston**, has been moved to the [“Lower Risk” Tier](https://nbc16.com/news/coos-county-oregon/as-coos-county-moves-to-low-risk-businesses-customers-sense-return-of-normalcy-06-09-2021)! That means things are going to start looking and feeling a lot more normal around here! It also means many of the beloved annual events that make our region such a special place, including the [Bay Area Fun Festival](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival-2019/) and [Holiday Lights at Shore Acres](https://www.oregonsadventurecoast.com/event/annual-holiday-lights-at-shore-acres/), will be BACK!
@@ -62,7 +63,7 @@ Please note, this is only a partial list. Events are subject to change without n
 
 **July 3, 2021** - [Bay Area Fireworks Extravaganza Over the Bay](https://www.oregonsadventurecoast.com/event/july-3rd-july-4th-on-oregon-s-adventure-coast/) _NEW: This year, the fireworks can be seen from the Coos Bay Boardwalk, all along Front Street and Highway 101 to the North Bend Boardwalk._
 
-**July 17-25, 2021** - [Oregon Coast Music Festival Events](https://www.oregonsadventurecoast.com/event/41st-annual-oregon-coast-music-festival/) _OCMA Orchestra Concerts will not happen again in 2021, however, multiple outdoor concert events are scheduled_
+**July 17-25, 2021** - [Oregon Coast Music Festival Events](https://www.oregonsadventurecoast.com/event/annual-oregon-coast-music-festival/) _OCMA Orchestra Concerts will not happen again in 2021, however, multiple outdoor concert events are scheduled_
 
 ### EVENTS IN AUGUST 2021
 
@@ -86,7 +87,7 @@ Local businesses are doing their best to adjust and reopen at a higher capacity 
 
 ### **Pack your masks and/or face coverings, even if you’re fully vaccinated.**
 
-Please be respectful if you’re asked to wear a face covering. Face coverings are [no longer required outdoors.](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf) However, some local businesses and attractions in our region may still require visitors to wear a face covering indoors regardless of vaccination status, while others do not. According to [Travel Oregon’s latest guidelines](https://traveloregon.com/things-to-do/what-to-expect-at-oregon-destinations-during-covid-19/), “Some businesses and attractions are instead allowing fully vaccinated visitors to forgo a face covering, though they may require verification of vaccination status.” ( Note this is not a HIPAA violation.) Bring proof of your vaccination status and always carry a face covering with you, especially if you’d rather not show your vaccine card.”
+Please be respectful if you’re asked to wear a face covering. Face coverings are required outdoors when social distancing is impossible to maintain. Oregon also now requires visitors to wear a face covering indoors regardless of vaccination status. According to [Travel Oregon’s latest guidelines](https://traveloregon.com/things-to-do/what-to-expect-at-oregon-destinations-during-covid-19/), “Some businesses and attractions are instead allowing fully vaccinated visitors to forgo a face covering, though they may require verification of vaccination status.” ( Note this is not a HIPAA violation.) Bring proof of your vaccination status and always carry a face covering with you, especially if you’d rather not show your vaccine card.”
 
 ### **Local restaurants and shops are open and ready for your business!**
 
