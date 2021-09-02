@@ -40,7 +40,7 @@ Whether you're in the mood for local fresh seafood, comfort food, burgers, sushi
 
 It's exciting to see new additions to our growing restaurant scene, so here are a few you'll enjoy checking out on your next visit.
 
-<a href="https://www.facebook.com/Friends-Cafe-530179044034503/" target="_blank" rel="noopener noreferrer"><h2>Friends Café</h2> ![Friends Cafe](/img/31779137_574170102968730_5601684965226971136_o-674x379.jpg) </a>
+<a href="https://www.facebook.com/Friends-Cafe-530179044034503/" target="_blank" rel="noopener noreferrer"><h2>Friends Café</h2>  -  PERMANENTLY CLOSED![Friends Cafe](/img/31779137_574170102968730_5601684965226971136_o-674x379.jpg) </a>
 
 As the name suggests, this community-oriented café offers friendly service along with classic American fare, burgers and sandwiches, salads, and wraps. “Come in as strangers and leave as friends. We want everybody who comes in here to have a great time, enjoy our food, and we welcome feedback,” says co-owner Debra Robertson in a<a href="http://theworldlink.com/news/local/business/friends-cafe-to-open-in-eastside-by-the-end-of/article_480369f0-211a-5df0-89fe-e9961fc3f69b.html" target="_blank" rel="noopener noreferrer"> recent World News article</a>. We've heard many positive reviews about this new spot from happy guests who recommend the fish and chips, Southfork Melt, homemade clam chowder and the Cross Road Chicken Sandwich.
 
@@ -64,4 +64,4 @@ For travelers with food sensitivities or just looking for wholesome, healthier o
 
 There is no need to travel to a large city for a fine dining experience. Perhaps one of the most exciting recent additions to the local restaurant scene is Restaurant O, led by Master <a href="http://restauranto.us/masterchef-o-neill" target="_blank" rel="noopener noreferrer">Chef Eoghain O’Neill</a>. Even though Restaurant O has only been open for a few months, Chef O'Neill's fresh new menu and attentive staff have already received widespread accolades from visitors and locals alike. Located in the space formerly occupied by Benetti's Italian Restaurant, Restaurant O is one of the first open concept kitchens in southern Oregon and features a tapas and cocktail bar, a brasserie main dining hall, and a tasting room on the upper level that overlooks the bay. Reservations are recommended.
 
-So when you visit our area this spring and summer, be sure to bring your appetite! To help you plan, download and print this [handy restaurant guide](/img/restaurant-brochure-04-19.pdf) to bring with you as you are out exploring. Bon Appétit!
+So when you visit our area this spring and summer, be sure to bring your appetite! To help you plan, download and print this [handy restaurant guide](/img/Restaurants-BOOKLET.pdf) to bring with you as you are out exploring. Bon Appétit!

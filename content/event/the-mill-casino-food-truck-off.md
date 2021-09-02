@@ -19,7 +19,6 @@ phone_local: "(541) 756-8800"
 website: https://www.themillcasino.com
 seo:
   imgalt: 'Mill Casino Food Truck Off '
-draft: true
 
 ---
 ![](/img/2008_Food_Truck_Off_FB-generalpublic.jpg)

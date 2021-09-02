@@ -25,7 +25,6 @@ largeboxphoto: "/img/nb-tree-lighting-trucks-large.jpg"
 mediumboxphoto: "/img/nb-tree-lighting-trucks-medium.jpg"
 smallboxphoto: "/img/nb-tree-lighting-trucks-small.jpg"
 aliases: []
-draft: true
 
 ---
 ![](/img/nb-tree-lighting-trucks-695x322-1.jpg)

@@ -15,7 +15,6 @@ address:
   state: Oregon
   street: Boat Basin Road
   zip: 97420
-draft: true
 
 ---
 ![Octoberfish - Official Afterparty for the Charleston Salmon Run](/img/octoberfish-695x322.jpg)

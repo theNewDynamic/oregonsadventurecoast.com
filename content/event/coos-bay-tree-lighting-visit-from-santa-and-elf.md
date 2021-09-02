@@ -25,7 +25,6 @@ largeboxphoto: "/img/tree-lighting-coosbay-1024x395.jpg"
 mediumboxphoto: "/img/tree-lighting-coosbay-667x355.jpg"
 smallboxphoto: "/img/Tree-Lighting-coosbay-340x214.jpg"
 aliases: []
-draft: true
 
 ---
 ### Coos Bay Welcomes Santa for a Tree Lighting and a Screening of the movie "Elf"at the Egyptian Theatre

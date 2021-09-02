@@ -26,7 +26,7 @@ categories:
 
 The [Coos Bay](/towns/coos-bay/), [North Bend](/towns/north-bend/) and [Charleston](/towns/charleston/) area is known as Oregon’s Adventure Coast for good reason!
 
-Each community has it’s own unique flavor and amenities with the Pacific Ocean and the Coos Bay waterways as its backdrop. When exploring Coos Bay, visitors are treated to fantastic local restaurants, gourmet coffee houses, museums, [antique shops](/my-oregon-coast-adventure-antiquing-in-coos-bay-oregon/), gift shops and much more.
+Each community has it’s own unique flavor and amenities with the Pacific Ocean and the Coos Bay waterways as its backdrop. When exploring Coos Bay, visitors are treated to fantastic local restaurants, gourmet coffee houses, museums, antique shops, gift shops and much more.
 
 There’s far too much to do in our area to list in just one blog post, but we would like to highlight a few of the local attractions that visitors to our area recommend the most on the popular travel site, [TripAdvisor](https://www.tripadvisor.com/Attractions-g51813-Activities-Coos_Bay_Oregon.html). Even though some  of the attractions listed are located in North Bend & Charleston, this list will give you an idea of the places and spaces that visitors seem to love the most in the Coos Bay area:
 

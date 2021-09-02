@@ -24,7 +24,6 @@ seo:
     and smokin’ hot tunes at the BBQ, Blues & Brews on the Bay, Memorial Day Weekend.
   imgalt: BBQ, Blues & Brews at The Mill
   image: "/img/bbq-blues-event-medium.jpg"
-draft: true
 
 ---
 **Get ready for 3 days of lip-smackin' BBQ, incredible brews and smokin' hot tunes. July 17-19, 2020. _Please note the new dates!_**

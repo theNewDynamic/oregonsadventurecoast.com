@@ -1,6 +1,6 @@
 ---
 title: How to Plan the Perfect Hiking Adventure on Oregon’s Adventure Coast
-date: 2021-06-22T04:00:00+00:00
+date: 2021-06-22T04:00:00.000+00:00
 description: "Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is a hiker’s
   paradise, and there is no time like summer to get outdoors and take on a rejuvenating
   hike! Whether it’s climbing majestic sand dunes, hiking through a rugged coastal
@@ -58,7 +58,7 @@ Our quiet, peaceful, [undeveloped beaches](https://oregonsadventurecoast.com/und
 
 **#5 FUEL UP BEFORE & AFTER YOUR DAY OF HIKING**
 
-Don’t go out on the trails on an empty stomach! There are many locally owned restaurants dishing out hearty breakfasts, satisfying lunches/dinners, and the freshest seafood you could hope for. [Download our Local Restaurant Guide](https://www.oregonsadventurecoast.com/img/Restaurants-BOOKLET-FINAL-041221.pdf) to keep with you, or visit [Oregonsadventurecoast.com/dining](https://oregonsadventurecoast.com/dining/) to see all our local restaurants.
+Don’t go out on the trails on an empty stomach! There are many locally owned restaurants dishing out hearty breakfasts, satisfying lunches/dinners, and the freshest seafood you could hope for. [Download our Local Restaurant Guide](/img/Restaurants-BOOKLET.pdf) to keep with you, or visit [Oregonsadventurecoast.com/dining](https://oregonsadventurecoast.com/dining/) to see all our local restaurants.
 
 **#6 LEAVE NO TRACE**
 
