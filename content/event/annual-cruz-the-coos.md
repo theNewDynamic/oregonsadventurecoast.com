@@ -9,7 +9,7 @@ mobiletitle: Cruz The Coos - CANCELED
 hovertitle: Cruz The Coos - CANCELED
 hoverdescription: One of the longest-running and largest classic car cruises on the
   Oregon Coast
-startdate: '2021-09-18'
+startdate: '2021-09-18T10:00:00.000+00:00'
 enddate: '2021-09-18'
 address:
   city: Coos Bay

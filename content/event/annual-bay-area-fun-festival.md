@@ -11,7 +11,7 @@ mobiletitle: Bay Area Fun Festival - CANCELED
 hovertitle: Annual Bay Fun Fun Festival - CANCELED
 hoverdescription: Famous Cruz the Coos vintage autos, Prefontaine Memorial Run, K-DOCK
   RockFest & Parade.
-startdate: '2021-09-18'
+startdate: '2021-09-18T10:00:00.000+00:00'
 enddate: '2021-09-19'
 address:
   city: Coos Bay
