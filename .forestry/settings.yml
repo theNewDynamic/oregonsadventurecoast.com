@@ -53,6 +53,7 @@ sections:
   label: Events
   create: all
   match: "**/*"
+  exclude: _index.md
   templates:
   - event
 - type: directory
