@@ -94,10 +94,6 @@ Quality Inn & Suites Coos Bay is located 1 mile from SW Oregon Regional Airport.
 Experience Red Lion's signature blend of comfort and convenience mere blocks from the bay. Spread out in comfortable rooms that feature plush pillow-top beds, free Wi-Fi and HBO. Brickstone offers delicious dinners and Red Lion's Signature breakfast. 1313 N. Bayshore Drive Coos Bay, OR 97420
 541-267-4141
 
-[**Super 8 by Wyndham**](https://www.wyndhamhotels.com/super-8/coos-bay-oregon/super-8-coos-bay-north-bend/overview?brand_id=SE&checkin_date=10/4/2018&checkout_date=10/5/2018&useWRPoints=false&children=0&adults=1&rooms=1&radius=25&brand_code=BH,DI,RA,BU,HJ,KG,MT,SE,TL,WG,WY,WT,WP,VO,DX,TM,CE,AA&PriceFilter=0-2147483647&latitude=43.3665007&longitude=-124.21789030000002&referring_&referring_brand=SE)
-Super 8 Coos Bay/North Bend by Wyndham is your gateway for exploring the Oregon coast. Quick access to Hwy 101 makes it easy to explore the Oregon Bay area. Well-appointed rooms include flat-screen TVs, free WiFi and complimentary breakfast. 1001 N. Bayshore Drive Coos Bay, OR 97420
-541-808-0700
-
 **Terrace Motel**
 Located on the south side of Coos Bay, close to shopping, dining, and entertainment, the Terrace Motel is newly renovated, is pet friendly, and offers rooms with kitchenettes. 1109 S. 1st Street Coos Bay, OR 97420
 541-808-3797
