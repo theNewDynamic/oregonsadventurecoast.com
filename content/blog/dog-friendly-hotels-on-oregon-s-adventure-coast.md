@@ -70,6 +70,10 @@ Discover the center of comfort with modern amenities, luxurious accents, and gen
 The perfect place to relax before setting off to explore the many recreational adventures close by. The Edgewater Inn offers comfortable rooms & suites with fridge, microwave, & free wifi. Fishing/observation deck offers beautiful views of the bay. 275 E. Johnson Avenue Coos Bay, OR 97420
 541-267-0423 | 800-233-0423
 
+**Global Inn**  
+Newly renovated and re-named, this small motel is ideally located on Hwy 101 in Coos Bay across from the Coos History Museum and Coos Bay Village with shops and restaurants. Each room includes free wifi, a flat-screen cable TV, a microwave, a refrigerator and tea & coffee-making facilities. 1001 N Bayshore Dr, Coos Bay, OR 97420  
+(541) 808-0700
+
 [**Mill Casino • Hotel & RV Park**](https://www.themillcasino.com/)
 Experience over 200 well-appointed rooms and suites in our Tower and Lodge, Las Vegas-style gaming excitement, five excellent dining venues and live entertainment – all with a great view along scenic Coos Bay. Free WiFi, pool, hot tub & pets welcome. 3201 Tremont Avenue North Bend, OR 97459
 541-756-8800 | 800-953-4800
@@ -77,10 +81,6 @@ Experience over 200 well-appointed rooms and suites in our Tower and Lodge, Las 
 [**Motel 6**](https://www.motel6.com/content/g6/en/home/hotel-search.html)
 Located on Hwy 101 in Coos Bay, Motel 6 offers a variety of modern rooms with in-room spa tubs, kitchenettes, & free wifi. Within 5 miles of shopping, dining & entertainment in both Coos Bay and North Bend. 1445 N. Bayshore Drive Coos Bay, OR 97420
 541-267-7171 | 800-466-8356
-
-[**Parkside Motel**](http://www.parkside-motel.com/)
-Just minutes away from shopping, casinos, dunes and the beautiful Oregon Coast, the Parkside Motel is the perfect place to stay for the budget-minded traveler. Clean, comfortable and homey rooms. Parkside Motel offers weekly rates for longer stays. 1480 Sherman Avenue North Bend, OR 97459
-541-751-9344
 
 [**Plainview Motel & RV Park**](https://www.plainviewmotel.com/)
 Sometimes referred to as the Mural Motel, Plainview Motel & RV Park is located along the beautiful Southern Oregon Coast near Charleston. Visitors have the option of basic motel type rooms, RV parking, or vacation type rentals located on Coos Bay. 91904 Cape Arago Hwy. Coos Bay, OR 97420
@@ -97,6 +97,8 @@ Experience Red Lion's signature blend of comfort and convenience mere blocks fro
 **Terrace Motel**
 Located on the south side of Coos Bay, close to shopping, dining, and entertainment, the Terrace Motel is newly renovated, is pet friendly, and offers rooms with kitchenettes. 1109 S. 1st Street Coos Bay, OR 97420
 541-808-3797
+
+{{< spacer 50 >}}
 
 Visitors will also find multiple RV Parks and campgrounds by going to [oregonsadventurecoast.com/lodging](https://www.oregonsadventurecoast.com/lodging/). For the adventures that you can’t bring your pet along, we have plenty of pet sitting services who can help out! Visit our [Traveler’s Info Page](https://www.oregonsadventurecoast.com/travelers-info/) and scroll down for more details.
 
