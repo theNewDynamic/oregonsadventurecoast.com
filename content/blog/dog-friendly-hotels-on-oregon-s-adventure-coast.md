@@ -54,6 +54,10 @@ If you’re looking for a beach to play on, Horsfall Beach in North Bend and Bas
 
 Tip: Always be sure to contact the hotel ahead of time to confirm that pet-friendly rooms are available.
 
+[**Bay Point Landing Modern Camping Resort**](https://baypointlanding.com/)
+A modern camp experience. Open year-round with RV sites, cabins and Airstream trailer rentals. Indoor swimming pool, fitness center, activity room and kids den as well as an event center and pavilion. Sandy beach, laundry, and Wi-Fi. Pets welcomed. 92443 Cape Arago Highway Coos Bay, OR 97420 |
+541-351-9160
+
 [**Best Western Holiday Hotel**](https://www.bestwestern.com/en_US/book/hotel-rooms.38071.html?iata=00171880&ssob=BLBWI0004G&cid=BLBWI0004G:google:gmb:38071)
 Best Western Holiday Hotel offers a retreat for exploring the Oregon Coast, dunes, lighthouse, beaches, historic sites, and annual festivals & events. Located across the street from the Bay, within easy walking distance to downtown shopping & dining. 411 N. Bayshore Drive Coos Bay, OR 97420
 541-269-5111 | 800-228-8655
