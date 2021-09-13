@@ -2,7 +2,7 @@
 title: 'Ten Things People Love About Slough National Estuarine Research Reserve '
 date: 2021-09-13T04:00:00+00:00
 description: ''
-image: "/img/south-slough-nerr-blog-695x322-jpg-1-1.png"
+image: "/img/south-slough-nerr-blog-695x322-jpg.png"
 tags:
 - South Slough
 - SSNERR
