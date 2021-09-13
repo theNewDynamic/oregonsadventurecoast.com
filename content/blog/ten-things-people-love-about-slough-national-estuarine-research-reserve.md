@@ -1,7 +1,10 @@
 ---
 title: 'Ten Things People Love About Slough National Estuarine Research Reserve '
 date: 2021-09-13T04:00:00+00:00
-description: ''
+description: 'There is much to love about Slough National Estuarine Research Reserve
+  (SSNERR), a natural gem located in the Coos estuary on the south coast of Oregon.
+  Read what Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston visitors love
+  the most.'
 image: "/img/south-slough-nerr-blog-695x322-jpg.png"
 tags:
 - South Slough
