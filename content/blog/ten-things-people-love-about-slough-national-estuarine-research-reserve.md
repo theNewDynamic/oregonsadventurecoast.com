@@ -130,6 +130,7 @@ Whether it’s for a few hours or a full day, South Slough NERR allows families,
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSouthSloughEstuary%2Fposts%2F2141230202685170&show_text=true&width=500" width="500" height="664" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+
 Hands down, South Slough NERR is one of the best destinations for children of all ages on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. Aside from the vast educational opportunities and fun activities, visitors agree that the SSNERR staff are exceptionally accommodating to families. Visitors say the Reserve is relatively easy to navigate and offers clean, accessible restrooms (an absolute must for families with small children). Well maintained trails and a boardwalk that winds through fresh and saltwater marshes make it ideal for nature walks any time of the year. “What an asset to this area! Beautiful trails, very friendly and helpful staff, great for all ages!!” - Heather R., Google Reviews
 
 If you haven’t had the opportunity to visit South Slough NERR, we urge you to do so! “A must place to visit.” says- James M on Google Reviews. “My favorite place ever! It's so beautiful” says Nicki C. “If you haven't been there it is a must that you do. Awesome nature and experience”. - writes Sif Gunnarsdottir-Locken.
