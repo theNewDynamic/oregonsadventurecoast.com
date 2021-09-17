@@ -45,7 +45,7 @@ This festive annual display debuts on Thanksgiving Day (Thursday, November 25th)
 
 ***
 
-**Fridays through Sundays are the busiest.**   
+**Fridays through Sundays are the busiest.**  
 _(Waiting line of cars likely, especially on a dry night)_
 
 **Traffic is heaviest between 5:30pm-8:00pm with waits to get into the park.**
@@ -70,6 +70,10 @@ Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or
 **Arrive Early -**  See the ocean waves, the park, and the lights' sparkling transition from daylight to dark!
 
 {{< /columns >}}
+
+{{< spacer 25 >}}
+
+_Note: this event may get cancelled due to COVID-19. Please check with us prior to booking your travel._
 
 {{< spacer 50 >}}
 
