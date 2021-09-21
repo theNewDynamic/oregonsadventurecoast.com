@@ -1,5 +1,5 @@
 ---
-title: 34th Holiday Lights at Shore Acres
+title: 34th Holiday Lights at Shore Acres - CANCELED
 aliases:
 - "/holidaylights"
 - "/HolidayLights"
@@ -7,10 +7,10 @@ photo: "/img/shore-acres-holiday-lights-header.jpg"
 largeboxphoto: "/img/holiday-lights-large.jpg"
 mediumboxphoto: "/img/holiday-lights-medium.jpg"
 smallboxphoto: "/img/holiday-lights-small.jpg"
-desktoptitle: 34th Holiday Lights at Shore Acres
-mobiletitle: Shore Acres Holiday Lights
-hovertitle: Bright & Beautiful Holiday Lights
-hoverdescription: Don't Miss 325,000 Holiday Lights at Shore Acres State Park
+desktoptitle: 34th Holiday Lights at Shore Acres - CANCELED
+mobiletitle: Shore Acres Holiday Lights - CANCELED
+hovertitle: Shore Acres Holiday Lights - CANCELED
+hoverdescription: Shore Acres Holiday Lights - CANCELED
 startdate: '2021-11-25'
 enddate: '2021-12-31'
 address:
@@ -27,7 +27,9 @@ website: http://shoreacres.net/
 
 {{< floatimage src="/img/Holiday-Lights-Logo-320px.png" float="right" alt="Annual Holiday Lights at Shore Acres State Park in Charleston, Oregon" size="100" >}}
 
-**The brightest and most beautiful place on the West Coast will shine brightly again in 2021.**
+### **The brightest and most beautiful place on the West Coast has been CANCELED for 2021 due to the uncertainty surrounding COVID-19. We look forward to welcoming this event back in 2022.**
+
+{{< spacer 100 >}}
 
 Famous for its beautiful 7-acre botanical gardens and Japanese lily pond, Shore Acres shines with over a 325,000 LED lights, animated displays, Santa, choirs, and more. _A holiday tradition for the whole family._
 
