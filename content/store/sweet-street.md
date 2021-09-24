@@ -11,9 +11,10 @@ address:
   street2: ''
   city: Coos Bay
   zip: '97420'
+  state: ''
 phone_local: "(541) 267-3334"
 phone_toll_free: ''
-website: https://www.sweetstreetoregon.com/
+website: https://www.facebook.com/sweetstreetcoosbay
 coordinates:
   lat: '43.367523'
   lng: "-124.212916"
