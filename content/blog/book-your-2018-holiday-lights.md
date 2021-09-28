@@ -37,6 +37,7 @@ seo:
 warning: true
 categories:
 - Special Events & Holidays
+draft: true
 
 ---
 ```

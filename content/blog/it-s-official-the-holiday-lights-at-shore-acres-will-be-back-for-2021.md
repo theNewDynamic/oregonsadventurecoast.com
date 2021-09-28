@@ -1,6 +1,6 @@
 ---
 title: 'It’s Official: The Holiday Lights at Shore Acres will Be Back for 2021! '
-date: 2021-07-07T04:00:00+00:00
+date: 2021-07-07T04:00:00.000+00:00
 description: 'Beloved Holiday Tradition is Coming Back to Oregon’s Adventure Coast:
   Coos Bay, North Bend, Charleston in 2021! '
 image: "/img/holiday-lights-at-shore-acres-2021-blog-695x322-jpg.png"
