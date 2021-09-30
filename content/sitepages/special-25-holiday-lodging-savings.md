@@ -23,7 +23,7 @@ width: 2em;
 
 ![](/img/holiday-25-page-head-695x322.jpg)
 
-Spend this December in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the following Lodging Properties and receive a special 25% discount.
+After the year we’ve had, you and your family deserve a little fun and adventure. That’s why we’ve asked our hotels to dig deep and offer something truly special. Join us at the coast this December, enjoy a 2 Night stay at any of the following Lodging Properties and receive a special 25% discount.
 
 **_Discount valid December 1, 2021 through December 31st, 2021. Some restrictions apply and subject to change._**
 
