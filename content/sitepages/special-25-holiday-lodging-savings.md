@@ -77,4 +77,6 @@ North Bend, OR 97459
 
 divider
 
+![](/img/check-back-for-specials.jpg)
+
 {{< /columns >}}
