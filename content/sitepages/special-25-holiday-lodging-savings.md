@@ -2,7 +2,7 @@
 title: Special 25% Holiday Lodging Savings!
 url: "/holiday25"
 layout: contact
-photo: "/img/fall-15-off-subpage-header.jpg"
+photo: "/img/holiday-25-sub-page-header.jpg"
 seo:
   title: ''
   description: ''
@@ -13,7 +13,6 @@ aliases:
 - Holiday25
 accordion_sections: []
 boxes: []
-draft: true
 
 ---
 <style>
@@ -22,7 +21,7 @@ width: 2em;
 }
 </style>
 
-![](/img/fall-15-off-header-695x322.jpg)
+![](/img/holiday-25-page-head-695x322.jpg)
 
 Spend this December in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the following Lodging Properties and receive a special 25% discount.
 
