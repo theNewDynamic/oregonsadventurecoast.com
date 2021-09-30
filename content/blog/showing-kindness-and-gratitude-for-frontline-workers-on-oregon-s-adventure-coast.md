@@ -2,16 +2,28 @@
 title: 'Showing Kindness and Gratitude for Frontline Workers on Oregon’s Adventure
   Coast '
 date: 2021-09-22T04:00:00+00:00
-description: 'Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is a marvelous
-  destination for anyone who wishes to escape the stress we’re all enduring. However,
-  we can’t forget about the wonderful people who make Oregon’s Adventure Coast such
-  a delightful place to live and visit — our hospitality workers.  Our frontline workers
-  are  going the extra mile to keep our visitors safe while operating their business
-  as normally as possible, it''s important to show them patience and kindness as we
-  continue to adjust to the pandemic. '
+description: Most of us can agree that the last 18+ months have been an emotional
+  roller coaster with plenty of frustration, anxiety, hope, disappointment and heartbreak.
+  And now that the mask mandates are back in place, frontline workers are once again
+  encountering frustration and hostility from visitors - not only on Oregon’s Adventure
+  Coast, but throughout the country. Our hospitality workers are eager to serve you
+  — but have a tough job ahead of them. So please keep them in mind, and include a
+  little extra gratitude with your gratuity.
 image: "/img/travel-oregon-kindness-project-blog-695x322.jpg"
-tags: []
-categories: []
+tags:
+- Oregon Coast
+- Restaurant Workers
+- Hotel Workers
+- Front Line Workers
+- 'Oregon''s Adventure Coast '
+- 'Coos Bay '
+- North Bend Oregon
+- " Charleston Oregon"
+- Travel Oregon
+- Oregon Coast Visitors Association
+- COVID-19
+categories:
+- Oregon's Adventure Coast News & Info
 seo:
   title: ''
   description: ''
@@ -21,7 +33,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 ## Kindness and Gratitude for Frontline Workers on Oregon’s Adventure Coast
