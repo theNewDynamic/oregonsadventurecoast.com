@@ -1,6 +1,5 @@
 ---
-title: 'Showing Kindness and Gratitude for Frontline Workers on Oregon’s Adventure
-  Coast '
+title: 'Kindness and Gratitude for Frontline Workers on Oregon’s Adventure Coast '
 date: 2021-09-22T04:00:00+00:00
 description: Most of us can agree that the last 18+ months have been an emotional
   roller coaster with plenty of frustration, anxiety, hope, disappointment and heartbreak.
@@ -35,13 +34,9 @@ warning: false
 warning_copy: ''
 
 ---
-## Kindness and Gratitude for Frontline Workers on Oregon’s Adventure Coast
-
-![](/img/tod_traveloregondomestic_hospitality_master_03social-post-frame-2.jpeg)
-
 **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is a marvelous destination for anyone who wishes to escape the stress we’re all enduring. However, we can’t forget about the wonderful people who make Oregon’s Adventure Coast such a delightful place to live and visit — our hospitality workers. We’re talking about the men and women who work in our [local restaurants](https://www.oregonsadventurecoast.com/dining/), [hotels, lodging properties](https://www.oregonsadventurecoast.com/lodging/), [entertainment centers](https://www.oregonsadventurecoast.com/entertainment-and-nightlife/) and [local stores](https://www.oregonsadventurecoast.com/shopping/). They are the ones who come to work every day, ready to greet and serve their customers with a smile, whether they are visiting from far away or live right around the corner.
 
-![](/img/ocva_summer2021_bekind_overview.jpg)
+![](/img/tod_traveloregondomestic_hospitality_master_03social-post-frame-2.jpeg)
 
 We believe that it IS possible to travel safely and responsibly on Oregon’s Adventure Coast. Our frontline workers are helping to make this possible by going the extra mile to keep our visitors safe while operating their business as normally as possible. Hospitality workers on Oregon’s Adventure Coast have endured furloughs, business closings, and the pandemic’s hardest stretches simply to serve our visitors. They have taken on extra work, and in some cases, less pay to stay open and serve locals and visitors. And now, they need your patience as they work through understaffing and long lines.
 
@@ -62,3 +57,5 @@ As the developments in Coronavirus (COVID-19) continue to unfold, please follow 
 Learn more by visiting [traveloregon.com](https://traveloregon.com/things-to-do/trip-ideas/kindness-to-all-celebrating-oregons-frontline-workers/?utm_source=Facebook&utm_campaign=General&utm_medium=social&utm_content=OrganicPost&utm_term=TravelOregon&fbclid=IwAR3Cn9RiTM6rxILavZCiQx-e0rv857fW4pElrFkZsB7Apuzb70hAZ0Utr18).
 
 A special thanks to [Oregon Coast Visitors Association](https://visittheoregoncoast.com/) for providing the resources and information for this post. We appreciate your business and flexibility. See you soon!
+
+![](/img/ocva_summer2021_bekind_overview.jpg)
