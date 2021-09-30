@@ -26,19 +26,19 @@ draft: true
 ---
 ## Kindness and Gratitude for Frontline Workers on Oregon’s Adventure Coast
 
-![](https://lh6.googleusercontent.com/kfpgGlebLtvcyc0rPIMaHHfXa5aidyDJI2HWmP7F4TkdHYGQauTvTaWE6aH63lQXSMEKrY9xOZZ2wSRrePbNEYEQh_jq3RuSq2O0kwLc0NkrfpfkoVTubCJ5UYhPzPuVjfT89GQQ=s0 =575x266)
+![](/img/tod_traveloregondomestic_hospitality_master_03social-post-frame-2.jpeg)
 
 **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is a marvelous destination for anyone who wishes to escape the stress we’re all enduring. However, we can’t forget about the wonderful people who make Oregon’s Adventure Coast such a delightful place to live and visit — our hospitality workers. We’re talking about the men and women who work in our [local restaurants](https://www.oregonsadventurecoast.com/dining/), [hotels, lodging properties](https://www.oregonsadventurecoast.com/lodging/), [entertainment centers](https://www.oregonsadventurecoast.com/entertainment-and-nightlife/) and [local stores](https://www.oregonsadventurecoast.com/shopping/). They are the ones who come to work every day, ready to greet and serve their customers with a smile, whether they are visiting from far away or live right around the corner.
 
-![](https://lh6.googleusercontent.com/AYvgkkmFc_mhOqyujR27D0WE33KguTEW3X7UyxLHdklANI2he5ghXo3J83xCqHiJ6zyWQ4LfuF_BjWMkvlFBZLOxGP_8x16YcUUOF271VPLiO9TlP826mngN3twcSR0Dt9ZFLJwi=s0 =494x494)
+![](/img/ocva_summer2021_bekind_overview.jpg)
 
 We believe that it IS possible to travel safely and responsibly on Oregon’s Adventure Coast. Our frontline workers are helping to make this possible by going the extra mile to keep our visitors safe while operating their business as normally as possible. Hospitality workers on Oregon’s Adventure Coast have endured furloughs, business closings, and the pandemic’s hardest stretches simply to serve our visitors. They have taken on extra work, and in some cases, less pay to stay open and serve locals and visitors. And now, they need your patience as they work through understaffing and long lines.
 
-![](https://lh6.googleusercontent.com/grNGqPtM2zbeAG_ihE6HNHIGmxeizV7z7P-PwfwZvvNMkFZJx5OCGw9ZCaxFVQ-kCroPm-ZIHxoSkLww1KdD0ld6TR-oKmjM4kDXnpFAoGg6tIgdxs67DaHI4w-ETgASlsJNBx9A=s0 =456x456)
+![](/img/ocva_summer2021_bekind_patience.jpg)
 
 So please be flexible with your plans, dine during non-traditional times if possible, or even consider a mid-week visit. **_Your business means everything to us, and so does your kindness._** Hospitality workers are not responsible for the reinstatement of the state mask mandate, for both vaccinated and unvaccinated people, while indoors. It is not their fault if a business closes due to COVID restrictions, changes its hours, has longer wait times or if events are cancelled. But, it is their job to keep businesses open while enforcing local laws and health ordinances.
 
-![](https://lh5.googleusercontent.com/KuDCO_NQRNCmgaLmyA4orlgrAHKmdl-6RXU2r59L_K45I6IcyLo8vY9_pno9kh18tshc1PaXZRUuCjIP7seQ1Q8IuFbqTuE8WSm18ivKL9LeLbkhf5CGlKhjtrNnwsUurIxFAIUD=s0 =446x792)
+![](/img/tod_traveloregondomestic_hospitality_master_03social-post-frame-3.jpeg)
 
 Most of us can agree that the last 18+ months have been an emotional roller coaster with plenty of frustration, anxiety, hope, disappointment and heartbreak. And now that the mask mandates are back in place, frontline workers are once again encountering frustration and hostility from visitors - not only on Oregon’s Adventure Coast, but throughout the country.
 
@@ -50,8 +50,4 @@ As the developments in Coronavirus (COVID-19) continue to unfold, please follow 
 
 Learn more by visiting [traveloregon.com](https://traveloregon.com/things-to-do/trip-ideas/kindness-to-all-celebrating-oregons-frontline-workers/?utm_source=Facebook&utm_campaign=General&utm_medium=social&utm_content=OrganicPost&utm_term=TravelOregon&fbclid=IwAR3Cn9RiTM6rxILavZCiQx-e0rv857fW4pElrFkZsB7Apuzb70hAZ0Utr18).
 
-A special thanks to [Oregon Coast Visitors Associatio](https://visittheoregoncoast.com/)n for providing the resources and information for this post.
-
-![](https://lh4.googleusercontent.com/hwqfMOctZ-8dMnU0Zn-2pFufNP_XwVLUXhhOhL_307heviMSUEgQw3lg97ALq3wxuspbTuT2XrpGof78HMLKi-iINneNMXAmZ8F7AyfJGo0QOgUca9a9jqJET1e35rbB_wRz153k=s0 =624x1108)
-
-We appreciate your business and flexibility. See you soon!
+A special thanks to [Oregon Coast Visitors Association](https://visittheoregoncoast.com/) for providing the resources and information for this post. We appreciate your business and flexibility. See you soon!
