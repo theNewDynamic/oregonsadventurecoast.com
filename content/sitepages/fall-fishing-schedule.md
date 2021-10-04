@@ -11,12 +11,11 @@ seo:
 aliases: []
 accordion_sections: []
 boxes: []
-draft: true
 
 ---
 <div style="padding:15px;">
 
-<h2 style="background:#d74029; color:#ffffff; margin-left:10px;">Thursday, October 14th</h2>
+<h2 style="background:#d74029; color:#ffffff;">Thursday, October 14th</h2>
 
 ### 1:00 PM Lobby of Mill Casino Hotel
 
