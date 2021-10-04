@@ -16,7 +16,7 @@ draft: true
 ---
 <div style="padding:15px;">
 
-<h2>Thursday, October 14th</h2>
+<h2 style="background:#d74029; color:#ffffff; padding-left: 10px;">Thursday, October 14th</h2>
 
 ### 1:00 PM Lobby of Mill Casino Hotel
 
