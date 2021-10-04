@@ -15,7 +15,8 @@ draft: true
 
 ---
 <div style="padding:15px;">
-## Thursday, October 14th
+
+##Thursday, October 14th
 
 ### 1:00 PM Lobby of Mill Casino Hotel
 
@@ -42,5 +43,5 @@ draft: true
 > **Activity:** Fishing from the Jetty  
 > **Wardrobe:** Outdoorsy Wear - Switch Up for This Shoot  
 > **Notes:** Similar clothes to first shoot, but we’ll change a little bit so it’s not exactly the same
-  
-  </div>
+
+</div>
