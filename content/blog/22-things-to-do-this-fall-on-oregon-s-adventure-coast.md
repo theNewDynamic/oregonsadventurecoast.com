@@ -5,7 +5,7 @@ description: Multiple properties on Oregon’s Adventure Coast are offering 15% 
   your hotel stay now through November 30, 2021, when you stay for 2 nights. Whether
   you plan to stay for a weekend, a week, or even longer, you will find plenty of
   wonderful adventures that you can’t find anywhere else
-image: "/img/Oregon Coast Hiking Trail blog-695x322.jpg"
+image: "/img/charleston-salmon-run-tips-blog-hdr-695x322.jpg"
 tags:
 - Coos Bay
 - " North Bend"
