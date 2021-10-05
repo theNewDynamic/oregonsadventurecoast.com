@@ -50,7 +50,7 @@ To sweeten the deal, multiple properties on Oregon’s Adventure Coast offer [15
  4. Watch the seal and sea lions on [Simpson Reef and Shell Island](https://www.shareoregon.com/things-to-do/en/listings/126105-simpson-reef-and-shell-island-oregon-islands-nwr), part of the [Oregon Islands National Wildlife Refuge](https://www.fws.gov/refuge/oregon_islands/).
  5. Learn something new and surprising at the [Coos History Museum.](https://www.oregonsadventurecoast.com/blog/oregon-s-adventure-coast-spotlight-coos-history-museum/)
  6. [Go tidepooling](https://www.oregonsadventurecoast.com/blog/where-how-to-explore-the-amazing-tide-pools-on-oregon-s-adventure-coast/) and discover a new species or natural treasure.
- 7. Take a thrilling ride up and down a towering sand dune in the [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/blog/wanted-first-time-atv-riders-on-the-oregon-dunes/). For guides, rentals and more,[ click here](https://oregonsadventurecoast.com/untamed-dunes/).
+ 7. Take a thrilling ride up and down a towering sand dune in the [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/blog/wanted-first-time-atv-riders-on-the-oregon-dunes/). 
  8. Fly a kite on [Bastendorff Beach](https://www.oregonsadventurecoast.com/undeveloped-beaches/).
  9. Explore a "secret beach" and a secluded ocean cove on Simpson Beach, just below [Shore Acres State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/).
 10. Go on a treasure hunt along the [Southern Oregon Coast Charm Trail](https://www.oregonsadventurecoast.com/blog/have-a-charming-adventure-along-the-southern-oregon-coast-charm-trail/)! [Download your map here](https://www.oregonsadventurecoast.com/img/Charm-Trail-Map.pdf).
@@ -69,5 +69,4 @@ To sweeten the deal, multiple properties on Oregon’s Adventure Coast offer [15
 
 There is an adventure for everyone on Oregon’s Adventure Coast. Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor activities, prime shopping, fine dining, special events, or an evening of entertainment, you will find it here. For more information, please contact the [Coos Bay – North Bend Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/). You must take advantage of this 15% off lodging offer before November 30th. [Click here to view details ](https://www.oregonsadventurecoast.com/fall15/)and a list of participating hotels.
 
-  
 We look forward to welcoming you back to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston - all we ask is for you to follow Oregon’s [Safe+Strong guidelines ](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you)to keep our community safe, and remember that face coverings are required in public spaces.
