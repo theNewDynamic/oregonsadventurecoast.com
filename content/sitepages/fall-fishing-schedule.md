@@ -15,7 +15,7 @@ boxes: []
 ---
 <div style="padding:15px;">
 
-<h2 style="background:#d74029; color:#ffffff;">Thursday, October 14th</h2>
+<h2 style="background:#d74029; color:#ffffff;"><span> </span>Thursday, October 14th</h2>
 
 ### **1:00 PM Lobby of Mill Casino Hotel**
 
