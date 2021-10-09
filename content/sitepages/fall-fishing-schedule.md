@@ -15,7 +15,7 @@ boxes: []
 ---
 <div style="padding:15px;">
 
-<h2 style="background:#d74029; color:#ffffff;"><span> </span>Thursday, October 14th</h2>
+<h2 style="background:#d74029; color:#ffffff;"><span>&nbsp;</span>Thursday, October 14th</h2>
 
 ### **1:00 PM Lobby of Mill Casino Hotel**
 
@@ -43,7 +43,9 @@ boxes: []
 > **Wardrobe:** Outdoorsy Wear - Switch Up for This Shoot  
 > **Notes:** Similar clothes to first shoot, but we’ll change a little bit so it’s not exactly the same
 
-<h2 style="background:#d74029; color:#ffffff;">Friday, October 15th</h2>
+<p></p>
+
+<h2 style="background:#d74029; color:#ffffff;"><span>&nbsp;</span>Friday, October 15th</h2>
 
 ### **6:00 AM Breakfast Provided at Hotel**
 
@@ -75,7 +77,9 @@ boxes: []
 > **Wardrobe:** Outdoorsy wear - Jackets/Vests/Flannel/Sweatshirts - Hats/Sunglasses/Accesories  
 > **Notes:** This will be mostly kayaking with gear - no actual fishing.
 
-<h2 style="background:#d74029; color:#ffffff;">Saturday, October 16th</h2>
+<p></p>
+
+<h2 style="background:#d74029; color:#ffffff;"><span>&nbsp;</span>Saturday, October 16th</h2>
 
 ### **8:00 AM Breakfast**
 
