@@ -75,4 +75,44 @@ boxes: []
 > **Wardrobe:** Outdoorsy wear - Jackets/Vests/Flannel/Sweatshirts - Hats/Sunglasses/Accesories  
 > **Notes:** This will be mostly kayaking with gear - no actual fishing.
 
+<h2 style="background:#d74029; color:#ffffff;">Saturday, October 16th</h2>
+
+### **8:00 AM Breakfast**
+
+> **Address:** Pancake Mill - 2390 Tremont Ave, North Bend OR 97459
+>
+> **Activity:** Breakfast - We will leave at about 9:00 am for Coos Bay Photos
+
+### **9:30 am Photos at Coos Bay Boardwalk and Mingus Park**
+
+> **Address:** Coos Bay Board Walk
+>
+> **Activity:** We will be shooting photos at the Coos Bay Boardwalk and maybe at Mingus Park. **Models will be free after this, until the 5:00 PM call time for the Grilling Shoot at Sunset Bay.** Lunch on your own. You can eat at the Mill Casino and charge it to your room if you like.
+
+### **2:00 PM Fresh Water Fishing**
+
+> **Address:** Ten Mile Lake
+>
+> **Activity:** Freshwater Fishing in Lake
+>
+> **Wardrobe:** Family Outfitted for Fishing
+>
+> **Notes:** Rob’s Family - Shooting from Dock and in Boat
+
+### **5:00 PM Meet Up Time to Leave for Dinner on Beach**
+
+> **Address:** 3201 Tremont Ave, North Bend OR 97459
+>
+> **Activity:** Meet Up to travel to Sunset Bay for Dinner
+
+### **5:30 PM Grilling Fish on Beach/Dinner with Locals**
+
+> **Address:** Sunset Bay
+>
+> **Activity:** Grilling Fish on Beach / Dinner with Locals Included
+>
+> **Wardrobe:** Outdoorsy wear - More Summery Wear - Hats/Sunglasses/Acces.
+>
+> **Notes:** We will switch up the clothing to more summery looking clothing and hope to include some locals with the models. Models released after this shoot.
+
 </div>
