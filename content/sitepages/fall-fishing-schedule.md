@@ -43,7 +43,7 @@ boxes: []
 > **Wardrobe:** Outdoorsy Wear - Switch Up for This Shoot  
 > **Notes:** Similar clothes to first shoot, but we’ll change a little bit so it’s not exactly the same
 
-<p></p>
+<span>&nbsp;<br></span>
 
 <h2 style="background:#d74029; color:#ffffff;"><span>&nbsp;</span>Friday, October 15th</h2>
 
@@ -77,7 +77,7 @@ boxes: []
 > **Wardrobe:** Outdoorsy wear - Jackets/Vests/Flannel/Sweatshirts - Hats/Sunglasses/Accesories  
 > **Notes:** This will be mostly kayaking with gear - no actual fishing.
 
-<p></p>
+<span>&nbsp;<br></span>
 
 <h2 style="background:#d74029; color:#ffffff;"><span>&nbsp;</span>Saturday, October 16th</h2>
 
