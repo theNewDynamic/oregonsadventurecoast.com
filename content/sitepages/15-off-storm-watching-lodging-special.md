@@ -13,6 +13,7 @@ aliases:
 - "/STORM15"
 accordion_sections: []
 boxes: []
+draft: true
 
 ---
 <style>   
@@ -21,7 +22,7 @@ boxes: []
 
 ![](/img/storm-15-off-695x322-final.jpg)
 
-Spend this winter in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the Lodging Properties found at the bottom of this page, and receive a 15% discount through March 31, 2021. _Some restrictions apply and subject to change._
+Spend this winter in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the Lodging Properties found at the bottom of this page, and receive a 15% discount through February 28, 2022. _Some restrictions apply and subject to change._
 
 **For more information, check out our main Storm Watching page.** [**Learn More About Storm Watching**](/storm-watching)
 
