@@ -86,6 +86,8 @@ seo:
     nature, wildlife, shopping, arts, and more. Your adventure awaits!
   title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
 home_splashes:
+- url: "/fall15"
+  img: "/img/fall-special-banner-lodging-pg-2048x269.jpg"
 - img: "/img/family-plan-your-getaway-03-21.jpg"
   alt: 'Plan your getaway '
   url: "/lodging"
