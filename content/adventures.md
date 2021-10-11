@@ -154,6 +154,8 @@ Take a vacation to Oregon’s Adventure Coast, where the land meets the bay and 
 
 We invite you to explore, to discover, to feel, and to know the incredible adventures waiting for you when you choose to take a trip to the coast. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do, full of adventure, nature, wildlife, culture, arts, shopping, and athletics.
 
+<div style="width:100%"><a href="/fall15"><img src="/img/fall-special-banner-lodging-pg-2048x269.jpg" alt="15% Off Fall Lodging Special in Coos Bay, North Bend, Charleston" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
+
 {{< spacer 30 >}}
 
 {{< youtube "lqZ8lTjprxg" >}}
