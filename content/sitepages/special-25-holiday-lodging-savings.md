@@ -90,10 +90,6 @@ North Bend, OR 97459
 
 {{< /columns >}}
 
-{{< columns number="2" >}}
+{{< spacer 60 >}}
 
-![](/img/check-back-for-specials.jpg)
-
-divider
-
-{{< /columns >}}
+![](/img/check-back-for-specials-695px.jpg)
