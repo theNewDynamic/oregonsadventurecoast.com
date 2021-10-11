@@ -15,6 +15,10 @@ accordion_sections: []
 boxes: []
 
 ---
+<style>   
+.fa-w-16{ width: 2em; }  
+</style>
+
 ![](/img/storm-15-off-695x322-final.jpg)
 
 Spend this winter in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the Lodging Properties found at the bottom of this page, and receive a 15% discount through March 31, 2021. _Some restrictions apply and subject to change._
