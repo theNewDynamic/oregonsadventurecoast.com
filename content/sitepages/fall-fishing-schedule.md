@@ -15,7 +15,7 @@ boxes: []
 ---
 <div style="padding:15px;">
 
-<h2 style="background:#d74029; color:#ffffff;"><span>&nbsp;</span>Thursday, October 14th</h2>
+<h2 style="background:#d74029; color:#ffffff;"><span> </span>Thursday, October 14th</h2>
 
 ### **1:00 PM Lobby of Mill Casino Hotel**
 
@@ -29,9 +29,10 @@ boxes: []
 > **Wardrobe:** Outdoorsy wear - Jackets/Vests/Flannel/Sweatshirts - Hats/Sunglasses/Accesories  
 > **Notes:** We will be surf fishing on the beach.
 
-### **4:00 PM Liberty Pub - Shoot and Early Dinner**
+### **4:00 PM - 7 Devils Brewing Co - Shoot and Early Dinner**
 
-> **Address:** 2047 Sherman Ave, North Bend, OR 97459  
+> **<span style="color:#d74029">NOTE THIS IS A CHANGE.</span>  
+> Address:** 247 S 2nd St, Coos Bay, OR 97420  
 > **Activity:** Drinks After a Day of Adventure/Fishing  
 > **Wardrobe:** Sweaters/Flannel/Sweatshirts - Hats/Accessories  
 > **Notes:** Please bring any grooming kits you might need.
@@ -43,9 +44,9 @@ boxes: []
 > **Wardrobe:** Outdoorsy Wear - Switch Up for This Shoot  
 > **Notes:** Similar clothes to first shoot, but we’ll change a little bit so it’s not exactly the same
 
-<span>&nbsp;<br></span>
+<span> <br></span>
 
-<h2 style="background:#d74029; color:#ffffff;"><span>&nbsp;</span>Friday, October 15th</h2>
+<h2 style="background:#d74029; color:#ffffff;"><span> </span>Friday, October 15th</h2>
 
 ### **6:00 AM Breakfast Provided at Hotel**
 
@@ -77,9 +78,9 @@ boxes: []
 > **Wardrobe:** Outdoorsy wear - Jackets/Vests/Flannel/Sweatshirts - Hats/Sunglasses/Accesories  
 > **Notes:** This will be mostly kayaking with gear - no actual fishing.
 
-<span>&nbsp;<br></span>
+<span> <br></span>
 
-<h2 style="background:#d74029; color:#ffffff;"><span>&nbsp;</span>Saturday, October 16th</h2>
+<h2 style="background:#d74029; color:#ffffff;"><span> </span>Saturday, October 16th</h2>
 
 ### **8:00 AM Breakfast**
 
