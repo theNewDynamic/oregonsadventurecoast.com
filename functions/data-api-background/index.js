@@ -1,4 +1,5 @@
 const axios = require('axios');
+const saveFile = require('./save.js')
 require('dotenv').config();
 
 const validatePayload = require('./validator');
@@ -26,17 +27,11 @@ const handler = async (event) => {
     res = await getAuthToken();
     // setting token for future requests
     axios.defaults.headers.common.Authorization = `Token ${res.data.key}`;
-    res = await getCalendarData();
-    switch (event.queryStringParameters.type) {
-      case 'calendar':
-        res = await getCalendarData();
-        break;
-      case 'dining':
-        res = await getDiningData();
-        break;
-      default:
-        break;
-    }
+    
+    const calendar = await getCalendarData();
+    await saveFile('calendar.json', JSON.stringify(calendar))
+    const dining = await getDiningData()
+    await saveFile('dining.json', JSON.stringify(dining))
   } catch (error) {
     console.error(error);
     return {
@@ -44,17 +39,15 @@ const handler = async (event) => {
       body: error.message,
     };
   }
+
   return {
     statusCode: 200,
-    body: JSON.stringify(res),
+    body: JSON.stringify({
+      "message": `We have ${res.length} entries`
+    }),
     // max age is 12 hours, generated header with https://cache-control.sdgluck.vercel.app/
     headers:
-      event.queryStringParameters.method === 'get'
-        ? {
-            'cache-control':
-              'public, max-age 43200, stale-while-revalidate 86400',
-          }
-        : { 'cache-control': 'no-cache,no-store' },
+        { 'cache-control': 'no-cache,no-store' },
   };
 };
 

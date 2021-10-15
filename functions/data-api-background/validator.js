@@ -6,13 +6,12 @@ const validatePayload = (body) => {
   const schema = {
     type: 'object',
     properties: {
-      method: { type: 'string', enum: ['get', 'cache'] },
       type: {
         type: 'string',
         enum: ['calendar', 'lodging', 'dining', 'store'],
       },
     },
-    required: ['method', 'type'],
+    //required: ['type'],
     additionalProperties: false,
   };
 

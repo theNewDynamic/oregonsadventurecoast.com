@@ -25,7 +25,7 @@ let Entries = "";
 let entryAmenityOptions = "";
 let entryCategoryOptions = "";
 let ENTRY_FILTER_MATCH_BY = "";
-
+console.log(typeof process.env.API_USERNAME)
 if (entriesType == "lodging") {
     Entries = Lodging;
     entryAmenityOptions = LodgingAmenityOptions;
@@ -85,11 +85,6 @@ function buildEntries() {
          * @return
          */
         if (entriesType == "lodging") {
-            $.ajax({
-                url: api_url + '/data-api/index.php?method=get&type=lodging',
-                dataType: 'jsonp',
-                contentType: 'application/json; charset=utf-8'
-            })
     	    $.getJSON('/lodgingitems/index.json', (data) => {
                 fullEntriesList = _.cloneDeep(data);
                 entryList = data;
@@ -107,7 +102,7 @@ function buildEntries() {
         }
         else if (entriesType == "dining") {
             $.ajax({
-                url: '/.netlify/functions/data-api/?method=get&type=dining',
+                url: `https://oregonsadventurecoast-tnd.s3.us-west-2.amazonaws.com/public/dining.json`,
                 dataType: 'json',
                 contentType: 'application/json; charset=utf-8'
             })
@@ -125,11 +120,6 @@ function buildEntries() {
             });
         }
         else if (entriesType == "shopping") {
-            $.ajax({
-                url: api_url + '/data-api/index.php?method=get&type=store',
-                dataType: 'jsonp',
-                contentType: 'application/json; charset=utf-8'
-            })
     	    $.getJSON('/store/index.json', (data) => {
                 fullEntriesList = _.cloneDeep(data);
                 entryList = data;

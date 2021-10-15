@@ -4,7 +4,18 @@ command = "hugo --gc"
 functions="functions/"
 
 [dev]
-port=8585
+  functions = "functions"
+  publish = "public"
+  framework = "#custom"
+  command = "npm run start"
+  port = 8888
+  targetPort = 1313
+
+[[redirect]]
+  from = "/api/*"
+  to = "https://oregonsadventurecoast-tnd.s3.us-west-2.amazonaws.com/public/:splat"
+  status = 200
+  force = true
 
 [build.environment]
   HUGO_VERSION = "0.64.0"
