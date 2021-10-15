@@ -23,7 +23,7 @@ import {PAGINATION_DEFAULTS, PAGINATION_ACTIONS, FILTER_OPTION} from './common/c
      * @return
      */
 	$.ajax({
-        url: `https://oregonsadventurecoast-tnd.s3.us-west-2.amazonaws.com/public/calendar.js`,
+        url: `https://oregonsadventurecoast-tnd.s3.us-west-2.amazonaws.com/public/calendar.json`,
         dataType: 'json',
         contentType: 'application/json; charset=utf-8'
     })

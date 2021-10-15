@@ -4,8 +4,8 @@
     "jsIntegrity": "sha256-4Lm95OGjhM7etl0B72SRfK91UGHWeibafS4uP3PvWVI="
   },
   "calendar": {
-    "js": "/dist/calendar.59de59da7b3971d102e2.js",
-    "jsIntegrity": "sha256-nn7RkL479amDAUG77Btzt7jiOyDpneDYozlK31ik5yw="
+    "js": "/dist/calendar.ba93b5044dc979508b3f.js",
+    "jsIntegrity": "sha256-/mAVemvrVMe1jiHD+FjP9qLpiKYNCxmDxrPn9e6AIlo="
   },
   "entries": {
     "js": "/dist/entries.b2959d6dad43a00df69d.js",
