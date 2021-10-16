@@ -37,6 +37,8 @@ boxes: []
 
 <img src="/img/senior.jpg" alt="" style='height: 100%; width: 100%; object-fit: contain'/>
 
+  <img src="/img/text.jpg" alt="" style='height: 100%; width: 100%; object-fit: contain'/>
+
 </div>
 
 </div>
