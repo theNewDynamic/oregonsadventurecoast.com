@@ -29,9 +29,6 @@ boxes: []
 
 <img src="/img/selfie.jpg" alt="" style='height: 100%; width: 100%; object-fit: contain'/>
 
-<img src="/img/walking-holding-hands.jpg" alt="" style='height: 100%; width: 100%; object-fit: contain'/>
-
 <div>
 
 </div>
-
