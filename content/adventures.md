@@ -146,7 +146,7 @@ seo:
   title: Oregon Coast Trips Vacations - Things to Do | Oregon's Adventure Coast
 
 ---
-Take a vacation to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities with a variety of exciting things to do; like Oregon Coast crabbing, clamming, salmon fishing, sand dune hiking, and more! Choose a few activities that will match your appetite for adventure!
+Take a vacation to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities with a variety of exciting things to do like Oregon Coast crabbing, clamming, salmon fishing, sand dune hiking, and more! Choose a few activities that will match your appetite for adventure!
 
 {{< spacer 50 >}}
 
