@@ -13,7 +13,6 @@ aliases:
 - "/STORM15"
 accordion_sections: []
 boxes: []
-draft: true
 
 ---
 <style>  
