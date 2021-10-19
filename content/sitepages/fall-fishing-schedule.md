@@ -11,6 +11,7 @@ seo:
 aliases: []
 accordion_sections: []
 boxes: []
+draft: true
 
 ---
 <div style="padding:15px;">
