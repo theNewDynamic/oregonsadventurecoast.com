@@ -95,7 +95,7 @@ North Bend, OR 97459
 
 {{< spacer 60 >}}
 
-![](/img/check-back-for-specials-695px-v02.jpg)
+![](/img/check-back-for-storm-specials-695px.jpg)
 
 {{< spacer 60 >}}
 
