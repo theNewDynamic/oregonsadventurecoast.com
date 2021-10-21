@@ -20,7 +20,7 @@ Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor acti
 
 <a href="#contactform">{{< floatimage src="/img/request-guide-red-button.png" float="right" alt="Click Here to Request a Visitor Guide / Packet" size="undefined" >}}</a>
 
-#### Coos Bay – North Bend Test
+#### Coos Bay – North Bend
 
 #### Visitor & Convention Bureau
 
