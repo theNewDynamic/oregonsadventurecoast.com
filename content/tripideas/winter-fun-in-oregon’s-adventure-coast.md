@@ -1,33 +1,33 @@
 ---
 title: Winter Fun On Oregon’s Adventure Coast
 aliases:
-  - /trip-ideas/winter-fun-in-oregons-adventure-coast
-description: >-
-  Winter steelhead fishing and clamming are popular winter activities on the
-  Oregon Coast, but it doesn’t end there. Watch waves crashing at Shore Acres,
-  visit museums or catch a show at a local theater, tackle the Oregon Dunes or
-  roll the dice at The Mill Casino. Here are some ideas to start planning your
-  wintercation in Oregon’s Adventure Coast:
+- "/trip-ideas/winter-fun-in-oregons-adventure-coast"
+description: 'Winter steelhead fishing and clamming are popular winter activities
+  on the Oregon Coast, but it doesn’t end there. Watch waves crashing at Shore Acres,
+  visit museums or catch a show at a local theater, tackle the Oregon Dunes or roll
+  the dice at The Mill Casino. Here are some ideas to start planning your wintercation
+  in Oregon’s Adventure Coast:'
 durations:
-  - long-weekend
+- long-weekend
 towns:
-  - coos-bay
-  - north-bend
-  - charleston
+- coos-bay
+- north-bend
+- charleston
 tripadventures:
-  - beach
-  - culture-museums
-  - dunes
-  - eat-drink
-  - fishing-crabbing-clamming
-  - state-parks-national-lands
-image: /img/winter-fun.jpg
+- beach
+- culture-museums
+- dunes
+- eat-drink
+- fishing-crabbing-clamming
+- state-parks-national-lands
+image: "/img/winter-fun.jpg"
+
 ---
-Winter steelhead fishing and clamming are popular winter activities on the Oregon Coast, but it doesn’t end there. Watch waves crashing at Shore Acres, visit museums or catch a show at a local theater, tackle the Oregon Dunes or roll the dice at The Mill Casino. Here are some ideas to start planning your wintercation in Oregon’s Adventure Coast:
+Winter steelhead fishing and clamming are popular winter activities on the Oregon Coast, but it doesn’t end there. Watch waves crashing at Shore Acres, visit museums or catch a show at a local theater, tackle the Oregon Dunes or roll the dice at The Mill Casino or Three Rivers Casino. Here are some ideas to start planning your wintercation in Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston!
 
 ### Fishing and Crabbing
 
-In the Coos Bay, North Bend and Charleston area, there’s a fish for every season and a seemingly endless choice of prime [fishing](/fishing) spots. Steelhead, crabbing and clamming are the superstars in the winter months, while spring is all about salmon, surf perch and bass. Come year-round by boat, by foot, by kayak or by charters and guides.
+In the Coos Bay, North Bend and Charleston area, there’s a fish for every season and a seemingly endless choice of prime [fishing](/fishing) spots. Steelhead, crabbing and clamming are the superstars in the winter months, while spring is all about salmon, surf perch, and bass. Come year-round by boat, by foot, by kayak, or by charters and guides.
 
 ### Storm Watching
 
