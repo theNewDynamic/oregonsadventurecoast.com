@@ -26,6 +26,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+draft: true
 
 ---
 **_Beloved Holiday Tradition is Coming Back to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston in 2021!_**

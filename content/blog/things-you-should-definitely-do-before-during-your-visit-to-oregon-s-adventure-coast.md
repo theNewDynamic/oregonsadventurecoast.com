@@ -42,6 +42,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+draft: true
 
 ---
 **_Special 15% Fall Lodging Savings!_** _Multiple properties on Oregon’s Adventure Coast are offering 15% off your hotel stay now through November 30, 2021, when you stay for 2 nights._ [_Click here_](https://www.oregonsadventurecoast.com/fall15/) _to learn more about this special offer._
