@@ -1,15 +1,16 @@
 ---
-title: Christmas at the Coast
-startdate: '2020-11-13'
-enddate: '2020-12-31'
+title: Holiday Happenings on Oregon's Adventure Coast!
+startdate: '2021-11-12'
+enddate: '2021-12-31'
 address:
   street: ''
   street2: ''
   city: ''
   zip: ''
+  state: ''
 phone_local: ''
 phone_toll_free: ''
-website: https://www.facebook.com/ChristmasattheCoast
+website: ''
 coordinates:
   lat: ''
   lng: ''
@@ -18,11 +19,11 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-desktoptitle: Christmas at the Coast
-mobiletitle: Christmas at the Coast
-hovertitle: Christmas at the Coast
-hoverdescription: Residents and Businesses all over Oregon's Adventure Coast are lighting
-  up for the holidays!
+desktoptitle: Holiday Happenings!
+mobiletitle: Holiday Happenings
+hovertitle: Holiday Happenings
+hoverdescription: Don't miss all these fun holiday happenings on Oregon's Adventure
+  Coast!
 photo: "/img/tree-lighting-2048x530.jpg"
 largeboxphoto: "/img/tree-lighting-coosbay-1024x395.jpg"
 mediumboxphoto: "/img/tree-lighting-coosbay-667x355.jpg"
@@ -30,56 +31,40 @@ smallboxphoto: "/img/Tree-Lighting-coosbay-340x214.jpg"
 aliases: []
 
 ---
-![](/img/catc-form-header-695x322-v02-1.jpg)
 
-#### Shore Acres will be dark this year, but residents and businesses all over Oregon's Adventure Coast will light up the night sky to show our holiday spirit!
+#### Shore Acres will be dark again this year, but there are a whole host of Holiday Happenings on Oregon's Adventure Coast!
 
 {{< spacer 20 >}}
-From **Thanksgiving night to New Year's Eve 2020**, neighborhoods and business districts will light up for the holidays. Pick up a map from the Coos Bay and North Bend Visitor Information Centers and delight to the sights of Christmas as you drive around our beautiful communities.
-
-#### [Download PDF of Christmas Lights Map](/img/Christmas-Coast-Map-PRINT-11-20-revised.pdf)
-
-{{< spacer 25 >}}
-
-{{< floatimage src="img/crabby-ornament-tree-web.jpg" float="left" alt="Crabby ornaments are here!" size="40" >}} **Limited Edition Dated Oregon’s Adventure Coast Ornament!**
-
-Stop in the Coos Bay Visitor Center and pick up your own Crabby 2020 Ornament! Or Stay overnight at any of our many wonderful lodging properties, bring in your printed receipt, and we’ll give you one as a **GIFT!**
-
-_Available While Supplies Last_
-
-{{< spacer 25 >}}
-
-![](/img/catc-banner-10-20.jpg)
 
 ### Schedule of Events for Christmas at the Coast 2020
 
 {{< spacer 20 >}}
 
-#### November 13-14 - <br>Downtown Coos Bay Holiday Open House
+#### November 12-13 - <br>[Downtown Coos Bay Holiday Open House](https://coosbaydowntown.org/holiday-events-in-downtown-2/)
 
-Visit participating businesses in Downtown Coos Bay during the Holiday Open House and enter to win door prizes! Shop for the holidays and keep your receipts to receive a commemorative mug. *
+Visit participating businesses in Downtown Coos Bay during the Holiday Open House and enter to win door prizes! Shop for the holidays and keep your receipts to receive a commemorative mug on Shop Small Saturday (see below for more). *
 
-#### November 13-28 - <br>Downtown Coos Bay Commemorative Mug and Shop Small Saturday
+#### November 12-27 - <br>[Downtown Coos Bay Commemorative Mug and Shop Small Saturday](https://coosbaydowntown.org/holiday-events-in-downtown-2/)
 
-Keep your receipts for all purchases made in Downtown Coos Bay between November 13 and November 28. Collect $100 in receipts, bring those receipts to Jennie's Shoes (262 Central Ave) and receive a commemorative mug! Shop Small Saturday encourages us to shop at small, local shops this holiday season. *
+Keep your receipts for all purchases made in Downtown Coos Bay between November 12 and November 27. Collect $100 in receipts, bring those receipts to Jennie's Shoes (262 Central Ave) and receive a commemorative mug! Shop Small Saturday encourages us to shop at small, local shops this holiday season. *
 
-#### November 26-December 31 - <br>Christmas at the Coast Home/Business Driving Tour
+#### November 27 - <br>Drive By Santa and Tree Lighting at the  Coos Bay Visitor Center
 
-Follow the map of locations all around Oregon's Adventure Coast, and some of our neighboring communities too, to light displays at homes and businesses. Maps will be available at the Coos Bay Visitor Center beginning November 24th.
+Santa is Coming to Coos Bay! Santa will be at the Coos Bay Visitor Center from 1pm-5pm. The Coos Bay Visitor Center is located on Hwy 101 at Central Avenue (address 50 Central Ave). Kids, bring your letters to Santa filled with your Christmas wishes. Put your letter in Santa's mailbox and his elves will give you a candy cane! Santa will also light the Coos Bay Tree at 5:30pm at the Coos Bay Visitor Center. Parking will be limited, so the Tree Lighting will be Live Streamed on Facebook! [Click here](https://coosbaydowntown.org/holiday-events-in-downtown-2/) for more information.
 
-#### November 28 - <br>Drive By Santa and Tree Lighting in Downtown Coos Bay
+#### December 3 - <br>Empire District Virtual Tree Lighting and Santa Parade
 
-Santa is Coming to Coos Bay! Santa will be at 3rd & Central in Downtown Coos Bay from 1pm-5pm. Follow the signs that will direct you on a Drive By to see Santa. Kids, bring your letters to Santa filled with your Christmas wishes. Put your letter in Santa's mailbox and his elves will give you a candy cane! Santa will be escorted to the Coos Bay Visitor Center Parking Lot where he will light the Coos Bay Tree at 5:30pm. Parking will be limited, so the Tree Lighting will be Live Streamed on Facebook! [Click here](https://coosbaydowntown.org/holiday-events-in-downtown-2/) for more information.
+The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, and will also live stream it on their [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194). Before the lighting, Santa will be riding through the streets in the Empire District - from 3-5pm - on top of the Empire fire engine.
 
-#### December 4 - <br>Empire District Virtual Tree Lighting and Santa Parade
+#### December 3 - <br>North Bend Christmas Cruise
 
-The Empire District of Coos Bay will hold their annual Tree Lighting Virtually, at 6pm, this year on their [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194). Before the lighting, Santa will be riding through the streets in the Empire District - from 3-5pm - on top of the Empire fire engine
-
-#### December 4 - <br>North Bend Christmas Cruise
-
-North Bend invites you to a new, safe event this Christmas at the North Bend Community Center, 2222 Broadway Ave, from 5-8pm. Cruise through a lighted display, receive a goodie bag, a much more!
+After Santa has lit the Empire tree, he'll head to North Bend for their new annual Tradition! The Christmas Cruise at the North Bend Community Center, 2222 Broadway Ave, from 6pm-8pm. Cruise through a lighted display and get into the holiday spirit!
 
 {{< spacer 50 >}}
+
+#### December 4 - <br>North Bend Lighted Truck Parade and Food Drive
+
+loum impsom......
 
 #### More Event Details Coming Soon!!!
 
