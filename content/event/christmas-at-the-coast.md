@@ -31,7 +31,6 @@ smallboxphoto: "/img/Tree-Lighting-coosbay-340x214.jpg"
 aliases: []
 
 ---
-
 #### Shore Acres will be dark again this year, but there are a whole host of Holiday Happenings on Oregon's Adventure Coast!
 
 {{< spacer 20 >}}
@@ -64,7 +63,7 @@ After Santa has lit the Empire tree, he'll head to North Bend for their new annu
 
 #### December 4 - <br>North Bend Lighted Truck Parade and Food Drive
 
-loum impsom......
+Details coming soon.
 
 #### More Event Details Coming Soon!!!
 
