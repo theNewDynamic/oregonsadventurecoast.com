@@ -7,7 +7,7 @@ description: 'Thinking about getting away from it all this fall or winter on Ore
   the weekend or a week or two, the key to enjoying your adventure is to pack smart
   and plan ahead. Here are some tips to help you get the most out of your Oregon Coast
   vacation!'
-image: "/img/travel-tips-oregon-s-south-coast-blog-695x322-jpg.png"
+image: "/img/coos-bay-road-trip-checklist-blog-695x322-jpg.png"
 tags:
 - Oregon Coast
 - Oregon's South Coast
@@ -96,6 +96,8 @@ Thinking about getting away from it all this fall or winter on [Oregon’s Adven
 ❐ **Last but definitely not least, learn these potentially lifesaving safety guidelines** to keep you, your family and/or pets safe while you’re near the water. Our quiet, peaceful, [undeveloped beaches](https://www.oregonsadventurecoast.com/undeveloped-beaches) are ideal for training runs, long walks, hiking, photography, picnicking, and tide-pooling. If you ignore [these guidelines](https://www.oregonsadventurecoast.com/blog/eight-ways-to-stay-safe-on-the-beaches-along-the-oregon-coast), what should be a beautiful day by the Pacific Ocean could suddenly become unsafe without warning. Check the tide times at [tides-forecast.com](https://www.tide-forecast.com/regions/Oregon). Read [Safe Ways to Explore the Beach](https://oregonstateparks.org/index.cfm?do=v.page&id=96) for more information.
 
 ## WHAT TO DO ONCE YOU HAVE ARRIVED ON OREGON’S ADVENTURE COAST
+
+![](/img/travel-tips-oregon-s-south-coast-blog-695x322-jpg.png)
 
 ❐ **Visit the** [**Coos Bay Visitor Information Center**](https://www.oregonsadventurecoast.com/contact/). Once you’ve checked into your hotel or campsite, put the following address into your GPS and head straight here: 50 Central Avenue Coos Bay, OR 97420. Our friendly staff and volunteers are eager to help you with any questions you might have, along with insider information that only the locals would know. Hours of operation **Monday-Friday 9am-5pm & Sat 10am-2pm.**
 
