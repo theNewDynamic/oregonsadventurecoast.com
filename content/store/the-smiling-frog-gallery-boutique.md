@@ -9,7 +9,7 @@ title: The Smiling Frog Gallery & Boutique
 property_description: The Smiling Frog Gallery & Boutique is a brick and mortar &
   5-star online store located on the Oregon Coast. We offer fine art originals, art
   prints, local artisan products, luxury items, antiques, & vintage to new rarities.
-photo_name: ''
+photo_name: "/img/smiling-frog-store-630x366.jpg"
 photo_alt: ''
 property_category:
 - Souvenirs
@@ -25,6 +25,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
