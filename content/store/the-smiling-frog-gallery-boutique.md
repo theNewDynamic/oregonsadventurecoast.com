@@ -1,9 +1,9 @@
 ---
 address:
   state: OR
-  street: ''
+  street: 1810 Virginia Ave
   street2: ''
-  city: ''
+  city: North Bend
   zip: ''
 title: The Smiling Frog Gallery & Boutique
 property_description: The Smiling Frog Gallery & Boutique is a brick and mortar &
