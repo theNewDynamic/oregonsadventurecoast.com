@@ -43,7 +43,7 @@ _Follow_ [_Oregon’s Adventure Coast Facebook_](https://www.facebook.com/Oregon
 
 It's time to jumpstart this holiday season on **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston**! Join us for the most wonderful time of the year, and you are all but guaranteed to find some Christmas cheer and a unique gift for everyone on your holiday nice list (including yourself!). Here’s a rundown of where to find the best holiday gifts, deals, local tree lightings and more this holiday season:
 
-**JUST ANNOUNCED: Save 25% On Your Hotel Stay in December!** Go someplace new this holiday season and make new memories! Several hotels on **Oregon’s Adventure Coast: Coos Bay, North Bend and Charleston** are offering something truly special this holiday season. [Click here](https://www.oregonsadventurecoast.com/holiday25/) to learn how you can receive a special 25% discount when you stay for 2 nights at any participating lodging property! _**Please call property directly with code “HOLIDAY 25 SPECIAL” to take advantage of this offer. Discount valid December 1, 2021 through December 31st, 2021. Some restrictions apply and are subject to change.**_
+**JUST ANNOUNCED: Save 25% On Your Hotel Stay in December!** Go someplace new this holiday season and make new memories! Several hotels on **Oregon’s Adventure Coast: Coos Bay, North Bend and Charleston** are offering something truly special this holiday season. [Click here](https://www.oregonsadventurecoast.com/holiday25/) to learn how you can receive a special 25% discount when you stay for 2 nights at any participating lodging property! **_Please call property directly with code “HOLIDAY 25 SPECIAL” to take advantage of this offer. Discount valid December 1, 2021 through December 31st, 2021. Some restrictions apply and are subject to change._**
 
 **WHERE TO FIND HOLIDAY SHOPPING TREASURES**
 
@@ -89,15 +89,15 @@ In Charleston, find the perfect gift for outdoor and fishing enthusiasts at [Eng
 
 **Shop Small Saturday -** The [Coos Bay Downtown Association](https://coosbaydowntown.org/holiday-events-in-downtown-2/) encourages shoppers to support our local businesses while holiday shopping on Saturday, November 27, 2021. There will be door prizes and other surprises at participating downtown businesses.
 
-**Reindeer Roundup - “**Ruckus, the Reindeer” will be hiding in downtown businesses November 29, 2021- December 21, 2021. Find the reindeer in participating businesses, take a picture, and then fill out an entry form to be entered to win a grand prize. (Business hours vary).
+\**Reindeer Roundup - “**Ruckus, the Reindeer” will be hiding in downtown businesses November 29, 2021- December 21, 2021. Find the reindeer in participating businesses, take a picture, and then fill out an entry form to be entered to win a grand prize. (Business hours vary).
 
 **Get a Special, One-of-a-Kind Holiday Mug -** Keep your receipts for all purchases made in Downtown Coos Bay between now and November 27, 2021! If you collect more than $100 in receipts from businesses in Downtown Coos Bay, bring them to Jennie’s Shoes (262 Central Ave), where you can receive a special one-of-a-kind commemorative Marshfield District holiday mug! Mugs are also available for purchase for $10. A limited supply of the collectible mugs will be available, so do not miss out!
 
-![](https://lh5.googleusercontent.com/sAGDK8ImJ7bm8g5EqY4lw2uEQQ86ELPjJ0G2Hbrx5rcE6Jv5nitSJ7oINJqcO7zTzuppPaCCFopmJA3QpSPAt9pVXd40DpF86pIkbV7PLd6x1wiVF4GdkKiKjkqPVK2MGHNzcVwy =423x328)
+![](/img/mug-inside-logo.jpg)
 
 **TREE LIGHTINGS**
 
-**November 27, 2021 - Walk by Santa and Tree Lighting at the Coos Bay Visitor Center.** Santa himself will be at the Coos Bay Visitor Center from 1 p.m.- 5 p.m. on Saturday, November 27, 2021 *also Shop Small Saturday*. Children can leave letters filled with their Christmas wishes in Santa’s mailbox during that time. The jolly old man will also light the Coos Bay Tree at 5:30 p.m. at the Coos Bay Visitor Center. Parking will be limited, so the Tree Lighting will be Live Streamed on Facebook! [Click here](https://coosbaydowntown.org/holiday-events-in-downtown-2/) for more information.
+**November 27, 2021 - Walk by Santa and Tree Lighting at the Coos Bay Visitor Center.** Santa himself will be at the Coos Bay Visitor Center from 1 p.m.- 5 p.m. on Saturday, November 27, 2021 _also Shop Small Saturday_. Children can leave letters filled with their Christmas wishes in Santa’s mailbox during that time. The jolly old man will also light the Coos Bay Tree at 5:30 p.m. at the Coos Bay Visitor Center. Parking will be limited, so the Tree Lighting will be Live Streamed on Facebook! [Click here](https://coosbaydowntown.org/holiday-events-in-downtown-2/) for more information.
 
 **December 1, 2021 - North Bend Virtual Tree Lighting.** Watch the City of North Bend light their wonderful holiday tree on [Live on Facebook](https://www.facebook.com/NorthBendOregon).
 
