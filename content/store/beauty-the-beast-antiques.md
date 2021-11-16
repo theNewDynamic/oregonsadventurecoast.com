@@ -11,9 +11,10 @@ address:
   street2: ''
   city: North Bend
   zip: '97459'
+  state: ''
 phone_local: "(541) 756-3670"
 phone_toll_free: ''
-website: facebook.com/Beauty-The-Beast-Antiques-134064549978037/
+website: https://www.facebook.com/people/Beauty-The-Beast-Antiques/100057326325886/
 coordinates:
   lat: '43.406417'
   lng: "-124.223345"
