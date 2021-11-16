@@ -11,9 +11,10 @@ address:
   street2: ''
   city: North Bend
   zip: '97459'
+  state: ''
 phone_local: "(541) 756-1215"
 phone_toll_free: ''
-website: facebook.com/Books-By-The-Bay-232314893488700/
+website: https://www.facebook.com/Books-By-The-Bay-232314893488700/
 coordinates:
   lat: '43.408335'
   lng: "-124.223611"

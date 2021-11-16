@@ -11,9 +11,10 @@ address:
   street2: ''
   city: North Bend
   zip: '97459'
+  state: ''
 phone_local: 541-756-5751
 phone_toll_free: ''
-website: ''
+website: https://fat-cat-antiques.business.site/?utm_source=gmb&utm_medium=referral
 coordinates:
   lat: '43.406384'
   lng: "-124.223722"
