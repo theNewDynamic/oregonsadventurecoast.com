@@ -11,9 +11,10 @@ address:
   street2: ''
   city: Coos Bay
   zip: '97420'
+  state: ''
 phone_local: "(541) 269-1900"
 phone_toll_free: ''
-website: http://timebombexchange.com/
+website: https://www.facebook.com/timebombclothingexchange/
 coordinates:
   lat: '43.367516'
   lng: "-124.215265"
