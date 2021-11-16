@@ -12,9 +12,10 @@ address:
   street2: ''
   city: Charleston
   zip: '97420'
+  state: ''
 phone_local: "(541) 888-5525"
 phone_toll_free: ''
-website: www.chucksseafood.com
+website: https://www.chucksseafood.com/
 coordinates:
   lat: '43.339701'
   lng: "-124.324992"
