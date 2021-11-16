@@ -12,9 +12,10 @@ address:
   street2: ''
   city: Coos Bay
   zip: '97420'
+  state: ''
 phone_local: "(541) 888-9824"
 phone_toll_free: ''
-website: www.cranberrysweets.com
+website: https://cranberrysweets.com/
 coordinates:
   lat: '43.39147'
   lng: "-124.269692"

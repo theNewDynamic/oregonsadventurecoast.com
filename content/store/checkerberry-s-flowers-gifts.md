@@ -12,9 +12,10 @@ address:
   street2: Coos Bay
   city: ''
   zip: '97420'
+  state: ''
 phone_local: "(541) 269-5312"
 phone_toll_free: ''
-website: www.checkerberrys.com
+website: https://checkerberrys.com/
 coordinates:
   lat: '43.368395'
   lng: "-124.214293"
