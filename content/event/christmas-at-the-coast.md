@@ -35,7 +35,7 @@ aliases: []
 
 {{< spacer 20 >}}
 
-### Schedule of Events for Christmas at the Coast 2020
+### Schedule of Events for Christmas at the Coast 2021
 
 {{< spacer 20 >}}
 
@@ -57,9 +57,9 @@ Santa is Coming to Coos Bay on Small Business Saturday! Santa will be at the Coo
 
 {{< spacer 20 >}}
 
-#### November 29-December 21<br>[**Raindeer Roundup**]()
+#### November 29-December 21<br>[**Reindeer Roundup**]()
 
-Ruckus, the Raindeer, has convinced Santa’s reindeer to explore downtown instead of going back to the north pole following Santa’s visit. The reindeer will be hiding in businesses downtown. Find the reindeer in participating businesses, take a picture and then fill out an entry form to be entered to win a grand prize. (Business hours vary) The event will end on December 21st when the reindeer will return to the north pole to help Santa deliver toys to children around the world.
+Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown instead of going back to the north pole following Santa’s visit. The reindeer will be hiding in businesses downtown. Find the reindeer in participating businesses, take a picture and then fill out an entry form to be entered to win a grand prize. (Business hours vary) The event will end on December 21st when the reindeer will return to the north pole to help Santa deliver toys to children around the world.
 
 {{< spacer 20 >}}
 
