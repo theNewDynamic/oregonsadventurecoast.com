@@ -13,9 +13,10 @@ address:
   street2: ''
   city: Coos Bay
   zip: '97420'
+  state: ''
 phone_local: 541-267-0186
 phone_toll_free: ''
-website: www.coosartconnection.com
+website: https://coosartconnection.wordpress.com/
 coordinates:
   lat: '43.367034'
   lng: "-124.216357"
