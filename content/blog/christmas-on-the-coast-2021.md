@@ -45,6 +45,14 @@ It's time to jumpstart this holiday season on **Oregon's Adventure Coast: Coos B
 
 **JUST ANNOUNCED: Save 25% On Your Hotel Stay in December!** Go someplace new this holiday season and make new memories! Several hotels on **Oregon’s Adventure Coast: Coos Bay, North Bend and Charleston** are offering something truly special this holiday season. [Click here](https://www.oregonsadventurecoast.com/holiday25/) to learn how you can receive a special 25% discount when you stay for 2 nights at any participating lodging property! **_Please call property directly with code “HOLIDAY 25 SPECIAL” to take advantage of this offer. Discount valid December 1, 2021 through December 31st, 2021. Some restrictions apply and are subject to change._**
 
+{{< spacer 25 >}}
+
+![](/img/screen-shot-2021-11-17-at-10-37-36-am.png)
+
+_Fun holiday decor at Real Deal in Coos Bay!_
+
+{{< spacer 25>}}
+
 **WHERE TO FIND HOLIDAY SHOPPING TREASURES**
 
 _Shop our_ [_Online Adventure Store_](https://www.oregonsadventurecoast.com/shop/) _to find unique gifts like Myrtlewood pens, charm bracelets, cool t-shirts, hoodies, hats, and masks and collectible charms from the Southern Oregon Charm Trail!_
@@ -83,7 +91,9 @@ North Bend’s lovely downtown area offers shoppers a blend of gift, antique and
 [Ocean Breeze Flowers & Gifts](https://oceanbreezeflowers.net/)
 [Recycled Games](https://www.facebook.com/Recyclevideogames/)
 
-In Charleston, find the perfect gift for outdoor and fishing enthusiasts at [Englund Marine Supply.](https://www.englundmarine.com/pages/home-page.html) & [Basin Tackle](https://www.facebook.com/basintacklecharleston/). You will find something special at [Stillwagon Distillery,](https://stillwagondistillery.com/) and [Chuck's Seafood](https://www.chucksseafood.com/) might have the perfect gift for the seafood lover with its premiere selection of locally caught and canned, smoked seafood. Don’t miss [Pottery By The Bay](https://www.facebook.com/Pottery-By-The-Bay-335327369836510/), [Thrifty Sisters,](https://www.facebook.com/ThriftySisters2/) and [Kinnee's Gifts & Shells](https://www.yelp.com/biz/kinnees-giftsn-shells-coos-bay), featuring trinkets and other coastal items.
+In Charleston, find the perfect gift for outdoor and fishing enthusiasts at [Englund Marine Supply.](https://www.englundmarine.com/pages/home-page.html) & [Basin Tackle](https://www.facebook.com/basintacklecharleston/). You will find something special at [Stillwagon Distillery,](https://stillwagondistillery.com/) and [Chuck's Seafood](https://www.chucksseafood.com/) might have the perfect gift for the seafood lover with its premiere selection of locally caught and canned, smoked seafood. Don’t miss [Pottery By The Bay](https://www.facebook.com/Pottery-By-The-Bay-335327369836510/), [Thrifty Sisters,](https://www.facebook.com/ThriftySisters2/)  [Puna's Hoodies & Jewelry](https://www.facebook.com/jewmoan/?ref=page_internal), and [Kinnee's Gifts & Shells](https://www.yelp.com/biz/kinnees-giftsn-shells-coos-bay), featuring trinkets and other coastal items.
+
+{{< spacer 25 >}}
 
 **HOLIDAY SHOPPING PROMOTION**S
 
@@ -91,9 +101,13 @@ In Charleston, find the perfect gift for outdoor and fishing enthusiasts at [Eng
 
 \**Reindeer Roundup - “**Ruckus, the Reindeer” will be hiding in downtown businesses November 29, 2021- December 21, 2021. Find the reindeer in participating businesses, take a picture, and then fill out an entry form to be entered to win a grand prize. (Business hours vary).
 
+![](/img/mug-inside-logo.jpg)
+
 **Get a Special, One-of-a-Kind Holiday Mug -** Keep your receipts for all purchases made in Downtown Coos Bay between now and November 27, 2021! If you collect more than $100 in receipts from businesses in Downtown Coos Bay, bring them to Jennie’s Shoes (262 Central Ave), where you can receive a special one-of-a-kind commemorative Marshfield District holiday mug! Mugs are also available for purchase for $10. A limited supply of the collectible mugs will be available, so do not miss out!
 
-![](/img/mug-inside-logo.jpg)
+{{< spacer 25 >}}
+
+![](/img/cbtreelighting-35-web-only.jpg)
 
 **TREE LIGHTINGS**
 
