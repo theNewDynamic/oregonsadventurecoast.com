@@ -71,7 +71,7 @@ Watch [Live on Facebook](https://www.facebook.com/NorthBendOregon) as the City o
 
 #### December 3 <br>Empire District Virtual Tree Lighting and Santa Parade
 
-The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, and will also live stream it on their [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194). Before the lighting, Santa will be riding through the streets in the Empire District - from 3-5pm - on top of the Empire fire engine.
+The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, and will also live stream it on their [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194). Before the lighting, Santa will be riding through the streets in the Empire District - from 3:30-5:30pm - on top of the Empire fire engine as his elves hand out goodies to all the good little children in Empire. [Click here](https://www.facebook.com/110984147408194/photos/a.199923765180898/475045997668672/) for the parade route!
 
 {{< spacer 20 >}}
 
