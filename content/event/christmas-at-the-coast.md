@@ -65,7 +65,7 @@ Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown inste
 
 #### December 1 <br>[**North Bend Virtual Tree Lighting**]()
 
-Watch [Live on Facebook](https://www.facebook.com/NorthBendOregon) as the City of North Bend lights their wonderful Tree! This event ushers in the weekend events planned on December 3rd and 4th. Details below.
+Watch [Live on Facebook](https://www.facebook.com/NorthBendOregon) as the City of North Bend lights their wonderful Tree at 5:00pm at the North Bend Community Center! This event ushers in the weekend events planned on December 3rd and 4th. Details below.
 
 {{< spacer 20 >}}
 
@@ -77,15 +77,13 @@ The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, 
 
 #### December 3 <br>2nd Annual North Bend Christmas Cruise
 
-After Santa has lit the Empire tree, he'll head to North Bend for their new annual Tradition! The Christmas Cruise at the North Bend Community Center, 2222 Broadway Ave, from 6pm-9pm. Cruise through a lighted display and get into the holiday spirit! Enter through the designated "Santa Lanes"!
+After Santa has lit the Empire tree, he'll head to North Bend for their new annual Tradition! The Christmas Cruise at the North Bend Community Center, 2222 Broadway Ave, from 6pm-9pm. Cruise through a lighted display and get into the holiday spirit! Drop off your "Santa Letters" Too!!  Enter through the designated "Santa Lanes"!
 
 {{< spacer 20 >}}
 
-#### December 4 <br>North Bend Lighted Truck Parade and Food Drive
+#### December 4 <br>[**North Bend Lighted Truck Parade**]()
 
-Details coming soon.
-
-#### More Event Details Coming Soon!!!
+Visit Pony Village Mall to watch big Trucks being decorated for the annual Lighted Truck Parade. Decorating begins at Noon and the Parade Starts at 5:30 pm. Children of all ages are invited to the back parking lot of Pony Village Mall (by former Macy’s building) from 4:30 pm onward where toys, food, and cash donations are being accepted for the 20th Annual Bus Jam. **Parade Route:** Rear of Pony Village Mall onto 12th Street, onto Marion Street, onto 16th Street, onto Broadway Street, onto 11th Street, onto Marion Street, and finishing back at the mall.
 
 {{< spacer 50 >}}
 
