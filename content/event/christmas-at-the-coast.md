@@ -57,7 +57,7 @@ The Charleston Fishing Families celebrate the season every year with a color, li
 
 {{< spacer 20 >}}
 
-#### November 27 <br>Drive By Santa and Tree Lighting at the Coos Bay Visitor Center
+#### {{< floatimage src="img/cbtreelighting-35-web-only.jpg" float="right" alt="Your Alt Text goes here" size="40" >}}November 27 <br>Drive By Santa and Tree Lighting at the Coos Bay Visitor Center
 
 Santa is Coming to Coos Bay on Small Business Saturday! Santa will be at the Coos Bay Visitor Center from 1pm-5pm. The Coos Bay Visitor Center is located on Hwy 101 at Central Avenue (address 50 Central Ave). Kids, bring your letters to Santa filled with your Christmas wishes. Put your letter in Santa's mailbox and his elves will give you a candy cane! Santa will also light the Coos Bay Tree at 5:30pm at the Coos Bay Visitor Center. Parking will be limited, so the Tree Lighting will be Live Streamed on Facebook! [Click here](https://coosbaydowntown.org/holiday-events-in-downtown-2/) for more information.
 
