@@ -51,11 +51,11 @@ Keep your receipts for all purchases made in Downtown Coos Bay between November 
 
 {{< spacer 20 >}}
 
-#### {{< floatimage src="img/CH-Crabpot-Tree-small.jpg" float="left" alt="Charleston Crab Pot Tree" size="40" >}}November 22-December 31<br>Charleston Crab Pot Tree
+#### {{< floatimage src="img/ch-crabpot-tree-small.jpg" float="left" alt="Charleston Crab Pot Tree" size="40" >}}November 22-December 31<br>Charleston Crab Pot Tree
 
 The Charleston Fishing Families celebrate the season every year with a color, lighted Crab Pot Tree in the parking lot of Fisherman's Grotto restaurant!  Lights from the tree can be seen from Cape Arago Highway and across to the Charleston Marina!
 
-{{< spacer 20 >}}
+{{< spacer 100>}}
 
 #### {{< floatimage src="img/cbtreelighting-35-web-only.jpg" float="right" alt="Your Alt Text goes here" size="40" >}}November 27 <br>Drive By Santa and Tree Lighting at the Coos Bay Visitor Center
 
@@ -87,7 +87,7 @@ After Santa has lit the Empire tree, he'll head to North Bend for their new annu
 
 {{< spacer 20 >}}
 
-#### December 4 <br>[**North Bend Lighted Truck Parade**]()
+#### {{< floatimage src="img/nb-tree-lighting-trucks-small.jpg" float="left" alt="Your Alt Text goes here" size="40" >}}December 4 <br>[**North Bend Lighted Truck Parade**]()
 
 Visit Pony Village Mall to watch big Trucks being decorated for the annual Lighted Truck Parade. Decorating begins at Noon and the Parade Starts at 5:30 pm. Children of all ages are invited to the back parking lot of Pony Village Mall (by former Macy’s building) from 4:30 pm onward where toys, food, and cash donations are being accepted for the 20th Annual Bus Jam. **Parade Route:** Rear of Pony Village Mall onto 12th Street, onto Marion Street, onto 16th Street, onto Broadway Street, onto 11th Street, onto Marion Street, and finishing back at the mall.
 
