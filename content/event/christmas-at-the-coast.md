@@ -35,6 +35,10 @@ aliases: []
 
 {{< spacer 20 >}}
 
+![](/img/tree-lighting-coosbay-667x355.jpg)
+
+{{< spacer 20 >}}
+
 ### Schedule of Events for Christmas at the Coast 2021
 
 {{< spacer 20 >}}
