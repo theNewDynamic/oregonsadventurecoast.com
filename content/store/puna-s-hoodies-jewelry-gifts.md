@@ -8,7 +8,7 @@ address:
 title: Puna's Hoodies, Jewelry & Gifts
 property_description: 'Souvenirs, Wild & Funny Hoodies, Beautiful Jewelry - both handmade
   and costume (all lead and nickel free). Winter hours: 10am - 5pm Daily.'
-photo_name: ''
+photo_name: "/img/punas-630x366.jpg"
 photo_alt: Store logo, Puna's with hawaiian flowers
 property_category:
 - Souvenirs
@@ -25,6 +25,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
