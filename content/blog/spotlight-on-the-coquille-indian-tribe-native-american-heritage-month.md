@@ -42,7 +42,7 @@ In 1989, Congress passed the Coquille Restoration Act, and the Tribe was once ag
 
 {{< spacer 25>}}
 
-![](/img/coquille-sign-04.jpg)
+![](/img/kilkich-cropped.jpg)
 
 {{< spacer 25 >}}
 
