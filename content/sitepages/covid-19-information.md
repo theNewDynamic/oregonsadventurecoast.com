@@ -13,15 +13,19 @@ accordion_sections: []
 boxes: []
 
 ---
-**_Updated August 18, 2021_**
+**_Updated November 24, 2021_**
 
 #### **On August 13, 2021, Governor Brown reinstated the state mask mandate, for both vaccinated and unvaccinated people, while indoors.**
 
 {{< spacer 25>}}
 
-**The Visitor Information Center in Coos Bay is open to assist you when visiting our area 9:00am-5:00pm Monday-Friday, and 10am-2pm Saturday & Sunday.** **_Note: the Visitor Center in North Bend is closed at this time and the Visitor Center in Charleston is open Monday-Saturday 10am-2pm._**
+**The Visitor Information Center in Coos Bay is open to assist you when visiting our area 9:00am-5:00pm Monday-Friday, and 10am-2pm Saturday (Closed Sundays).** **_Note: the Visitor Centers in Charleston and North Bend are closed at this time._**
 
 **If you are ready to travel, we are ready to welcome you back to Oregon's Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage you to stay home and stay healthy. Let's all do our part to stop the spread of COVID-19.**
+
+{{< spacer 25 >}}
+
+For locations where you can get a COVID test in the Coos Bay-North Bend Area, visit our [Medical & Urgent Care page](/medical-urgent-dental/).
 
 {{< spacer 25>}}
 
