@@ -24,15 +24,27 @@ warning_copy: ''
 
 [Native American Heritage Month](https://www.coquilletribe.org/wp-content/uploads/2021/10/Native-American-Heritage-Month.pdf) is this month, and we’d be remiss if we did not celebrate our own rich Native American history and recognize the significant contributions made by indigenous people of the southern Oregon coast. [Chief Jason Younker](https://www.kezi.com/content/news/Tribal-members--575685981.html) of the Coquille Indian Tribe says Native American Heritage Month is about acknowledging the tragic parts of Native American history and how that history impacts their lives today. We honor the heritage and culture of the [Confederated Tribes of the Coos, Siuslaw and Lower Umpqua Indians](https://ctclusi.org/), and in this post, we spotlight the [Coquille Indian Tribe](https://www.oregonsadventurecoast.com/tribal-heritage-coquilles/) (pronounced “ko-kwel”), their past, present and the many contributions they have made to this region throughout history.
 
+{{< spacer 25 >}}
+
+![](/img/our-area-coquilles.jpg)
+
+{{< spacer 25 >}}
+
 ## Coquille Past
 
 > _“Our ancestors were here when Rome rose and fell. They were here when Stonehenge and the pyramids were built, and when the last mammoths and saber-toothed cats walked the earth.”_
 
 It would be impossible for us to accurately portray the long, rich history of the Coquille Indian Tribe in one post, but it’s important to remember that their ancestors lived and thrived in the fertile landscape on the Southern Oregon Coast for thousands of years, long before Euro-American settlers would arrive. The temperate climate, along with ample access to food and lush coastal forests, allowed the Coquille Indian Tribe to prosper.
 
-Ancestors of the Coquille Indian Tribe spoke multiple languages - those living near Bandon and along Coos Bay’s South Slough spoke[ Miluk](https://en.wikipedia.org/wiki/Miluk_language), while those farther south and east spoke an[ Athabaskan dialect](https://en.wikipedia.org/wiki/Athabaskan_languages#:\~:text=Athabaskan%20(also%20spelled%20Athabascan%2C%20Athapaskan,and%20Southern%20(or%20Apachean).). Tragically, these languages and culture were all but lost after the Euro-American settlers arrived and destroyed their way of life. The U.S. government terminated federal recognition of the Coquille Tribe, as well as scores of other Western Oregon tribes and bands in 1954.
+Ancestors of the Coquille Indian Tribe spoke multiple languages - those living near Bandon and along Coos Bay’s South Slough spoke[ Miluk](https://en.wikipedia.org/wiki/Miluk_language), while those farther south and east spoke an\[ Athabaskan dialect\](https://en.wikipedia.org/wiki/Athabaskan_languages#:\~:text=Athabaskan%20(also%20spelled%20Athabascan%2C%20Athapaskan,and%20Southern%20(or%20Apachean).). Tragically, these languages and culture were all but lost after the Euro-American settlers arrived and destroyed their way of life. The U.S. government terminated federal recognition of the Coquille Tribe, as well as scores of other Western Oregon tribes and bands in 1954.
 
 In 1989, Congress passed the Coquille Restoration Act, and the Tribe was once again recognized as a sovereign nation of Indian people. “The Coquille people persevered through decades of devastation,” states the tribe on their [website](https://www.coquilletribe.org/). “After much personal dedication and sacrifice, we regained our federal recognition on June 28, 1989. It was a day that changed the future of our people – a day we will celebrate forever.” In 1996, the Coquille Tribe resumed stewardship of 5,410 acres, a fraction of their ancestral homeland.
+
+{{< spacer 25>}}
+
+![](/img/coquille-sign-04.jpg)
+
+{{< spacer 25 >}}
 
 ## Coquille Present
 
@@ -60,7 +72,6 @@ Read More
 
 For more travel inspiration, visit our [Adventures page](https://www.oregonsadventurecoast.com/adventures) and our [Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to discover all there is to do on Oregon’s Adventure Coast, or [request a visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform)! You may also follow the [Oregon’s Adventure Coast Facebook Page](https://www.facebook.com/OregonsAdventureCoast/), and/or [@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/?hl=en) & [Twitter](https://twitter.com/travelcoosbay?lang=en) for inspiration. [Subscribe to our e-newsletter](http://eepurl.com/dhUxmX) to have more travel ideas and specials delivered right to your inbox!
 
-  
 _Editor’s Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction of our public health authorities, including the CDC, Oregon Health Authority, and Coos Health & Wellness, to protect yourself, our community and our visitors._
 
 _If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage you to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19._ [_Click here_](https://www.oregonsadventurecoast.com/covid-19/) _for more information._
