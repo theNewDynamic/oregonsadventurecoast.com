@@ -23,7 +23,13 @@ width: 2em;
 
 ![](/img/holiday-25-page-head-695x322.jpg)
 
-After the year we’ve had, you and your family deserve a little fun and adventure. That’s why we’ve asked our hotels to dig deep and offer something truly special. Join us at the coast this December, enjoy a 2 Night stay at any of the following Lodging Properties and receive a special 25% discount.
+**A December to Remember – and 25% off lodging!**
+
+Oregon winter is upon us, and though some folks may see only chilly rain and gray skies, here in Coos Bay, North Bend and Charleston we see an exciting season of opportunities. Storm watching with epic crashing waves? Check. Festive holiday shopping? We’ve got tons. Outdoor adventures that capture the majesty of Oregon? Look no further than Oregon’s Adventure Coast.
+
+What’s more, visiting Oregon’s Adventure Coast this December is doubly enticing, thanks to a holiday gift from some area hotels: Stay for two nights in December at any of the following Lodging Properties and you’ll get **25% off your lodging**.
+
+So, what’s there to do on Oregon’s Adventure Coast in December? Let’s just say you might need more than a two-night stay to fit it all in.
 
 **_Discount valid December 1, 2021 through December 31st, 2021. Some restrictions apply and subject to change._**
 
