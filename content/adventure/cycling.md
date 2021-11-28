@@ -32,7 +32,7 @@ accordion_sections:
 
 Whether you take to the road, fat bike on the beach, or careen around single-track trails, you will find heart pumping options on Oregon's Adventure Coast. Our friends at the Front Street Community Bike Works have put together a wonderful resource of cycling trail maps from no hills to dare devil! [Click here for the City Bike Riding Trails Map (PDF). ](/img/FSCBW-BIKE-TRAIL-MAPS.pdf)
 
-<div class="margin-50px-top"></div>
+{{< spacer 50 >}}
 
 ![](/img/road-cycling-695x322.jpg)
 
@@ -40,7 +40,7 @@ Whether you take to the road, fat bike on the beach, or careen around single-tra
 
 [Check out The Oregon Coast Bike Route (PDF).](https://www.oregon.gov/ODOT/Programs/TDD%20Documents/oregon-coast-bike-route-map.pdf) Oregon has been supporting bicycling since 1971 by developing bikeways throughout the state. Thousands of bicyclists enjoy the natural beauty of the Oregon Coast Bike Route annually. For the most part, it follows US Highway 101 as a shoulder bikeway. In several areas, the route departs from the main highway and follows county roads and city streets. These sections are closer to the ocean, are more scenic, and have lower traffic volumes and slower traffic speeds. Coos Bay, North Bend, Charleston is one of the areas where cyclists depart from the main highway and takes a scenic detour along the rugged coastline on Cape Arago Loop and 7 Devils Road. [Click here for the North Bend to Bandon Oregon Coast Trail Map.](https://oregonstateparks.org/index.cfm?do=main.loadFile&load=_siteFiles%2Fpublications%2Fnorth-bend-bandon021214.pdf)
 
-<div class="margin-50px-top"></div>
+{{< spacer 50 >}}
 
 ![](/img/mountain-biking-whiskey-run-turn-blog-695x322.jpg)
 
@@ -52,13 +52,19 @@ Located in an active logging forest, Whiskey Run gives visitors a view of the Co
 
 These professionally built trails are made to withstand the coast's weather, so when the weather is unfavorable in the Cascades and you want to ride some loam and clay, come on down to the coast. However, please don't ride if the trails are muddy. Check trail reports or call the local shops or guide services. _Note: 22 of the 30 miles are complete with Phase III construction set to begin soon._
 
+{{< spacer 25 >}}
+
+{{< youtube "Z-83k7KWCEM" >}}
+
+{{< spacer 25 >}}
+
 {{< youtube "YA0X_rpH930" >}}
 
-<div class="margin-50px-top"></div>
+{{< spacer 50 >}}
 
 {{< accordions >}}
 
-<div class="margin-50px-top"></div>
+{{< spacer 50 >}}
 
 ![](/img/fat-tire-biking-695x322.jpg)
 
