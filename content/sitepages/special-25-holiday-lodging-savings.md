@@ -29,6 +29,10 @@ After the year we’ve had, you and your family deserve a little fun and adventu
 
 {{< spacer 50 >}}
 
+{{< youtube "993U2ieuI4A" >}}
+
+{{< spacer 50 >}}
+
 {{< columns number="2" >}}
 ![](/img/New-Best-Western-exterior.jpg)
 
