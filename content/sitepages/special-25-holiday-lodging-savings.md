@@ -21,9 +21,9 @@ width: 2em;
 }
 </style>
 
-![](/img/holiday-25-page-head-695x322.jpg)
+![Save 25% Off December Lodging in Coos Bay North Bend Charleston](/img/holiday25-page-hero-695-wide.jpg)
 
-**A December to Remember – and 25% off lodging!**
+### A December to Remember – and 25% off lodging!
 
 Oregon winter is upon us, and though some folks may see only chilly rain and gray skies, here in Coos Bay, North Bend and Charleston we see an exciting season of opportunities. Storm watching with epic crashing waves? Check. Festive holiday shopping? We’ve got tons. Outdoor adventures that capture the majesty of Oregon? Look no further than Oregon’s Adventure Coast.
 
