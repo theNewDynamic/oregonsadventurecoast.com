@@ -25,5 +25,4 @@ To help you get started discovering our exciting and exhilarating adventures, we
 
 Contact Oregon’s Adventure Coast with any questions you may have about things to do on your vacation!
 
-
-[![15% OFF Fall Lodging Special](/img/fall-special-lodging-695-width.jpg)](/fall15)
+[![25% OFF December Lodging Special](/img/holiday25-special-lodging-695-wide.jpg)](/holiday25)
