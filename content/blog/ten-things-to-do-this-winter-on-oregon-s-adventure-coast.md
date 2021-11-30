@@ -50,7 +50,7 @@ _The towns of_ [_Coos Bay, North Bend, and Charleston_](https://www.oregonsadven
 
 We’re going to let you in on a little secret: **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is a beautiful destination ANY time of the year - winter, spring, summer and fall! In fact, you might be surprised to learn that winter on the Oregon Coast can be quite delightful - sometimes warm, sometimes wet, but always wild & wonderful! Not to mention, there is plenty of space to spread out, and it’s currently “off-season”, so you’ll practically have the place to yourself!
 
-***For a limited time, multiple properties on Oregon’s Adventure Coast are offering [25% off](https://www.oregonsadventurecoast.com/holiday25/) your hotel stay now through December 31, 2021, when you stay for 2 nights. Hurry, this offer is for December 2021 only!***
+**_For a limited time, multiple properties on Oregon’s Adventure Coast are offering_** [**_25% off_**](https://www.oregonsadventurecoast.com/holiday25/) **_your hotel stay now through December 31, 2021, when you stay for 2 nights. Hurry, this offer is for December 2021 only!_**
 
 {{< youtube "993U2ieuI4A" >}}
 
@@ -63,9 +63,11 @@ The [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.co
 {{< youtube "x6Qro7ktN-w" >}}
 <br>
 
+{{< spacer 50 >}}
+
 **#2 Hunt for Treasures.**
 
-Coos Bay, North Bend and Charleston are chock-full of eclectic retail businesses, including antique and kitschy [shops,](https://www.oregonsadventurecoast.com/shopping/?utm_source=adventure-december-2021&utm_medium=mailchimp&utm_campaign=holiday-25) with an abundance of terrific deals and unique merchandise. Experience local culture and collect special, one-of-a-kind souvenirs with a treasure hunt along the[ Southern Oregon Coast Charm Trail](https://www.oregonsadventurecoast.com/blog/have-a-charming-adventure-along-the-southern-oregon-coast-charm-trail/).  [Download your map here.](https://www.oregonsadventurecoast.com/img/Charm-Trail-Map.pdf) 
+Coos Bay, North Bend and Charleston are chock-full of eclectic retail businesses, including antique and kitschy [shops,](https://www.oregonsadventurecoast.com/shopping/?utm_source=adventure-december-2021&utm_medium=mailchimp&utm_campaign=holiday-25) with an abundance of terrific deals and unique merchandise. Experience local culture and collect special, one-of-a-kind souvenirs with a treasure hunt along the[ Southern Oregon Coast Charm Trail](https://www.oregonsadventurecoast.com/blog/have-a-charming-adventure-along-the-southern-oregon-coast-charm-trail/).  [Download your map here.](https://www.oregonsadventurecoast.com/img/Charm-Trail-Map.pdf)
 
 **#3 Explore the State Parks Along the Cape Arago Highway.**
 
