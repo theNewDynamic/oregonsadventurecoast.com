@@ -63,7 +63,7 @@ The [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.co
 {{< youtube "x6Qro7ktN-w" >}}
 <br>
 
-{{< spacer 50 >}}
+{{< spacer 25 >}}
 
 **#2 Hunt for Treasures.**
 
