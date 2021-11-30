@@ -50,7 +50,7 @@ _The towns of_ [_Coos Bay, North Bend, and Charleston_](https://www.oregonsadven
 
 We’re going to let you in on a little secret: **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is a beautiful destination ANY time of the year - winter, spring, summer and fall! In fact, you might be surprised to learn that winter on the Oregon Coast can be quite delightful - sometimes warm, sometimes wet, but always wild & wonderful! Not to mention, there is plenty of space to spread out, and it’s currently “off-season”, so you’ll practically have the place to yourself!
 
-\****For a limited time, multiple properties on Oregon’s Adventure Coast are offering** [25% off](https://www.oregonsadventurecoast.com/holiday25/) __your hotel stay now through December 31, 2021, when you stay for 2 nights. Hurry, this offer is for December 2021 only!**__
+***For a limited time, multiple properties on Oregon’s Adventure Coast are offering [25% off](https://www.oregonsadventurecoast.com/holiday25/) your hotel stay now through December 31, 2021, when you stay for 2 nights. Hurry, this offer is for December 2021 only!***
 
 {{< youtube "993U2ieuI4A" >}}
 
@@ -58,13 +58,14 @@ Here are ten ideas that will help you plan your travel itinerary and experience 
 
 **#1 Explore the Largest Expansion of Coastal Sand Dunes in North America.**
 
-The [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/tripideas/oregon-dunes-national-recreation-area/) is like no place on earth. It’s also one of our favorite attractions on Oregon’s Adventure Coast, because there are plenty of opportunities to find relaxation and adventure. Take a thrilling ride up and down a towering sand dune or hike along the miles and miles of trails. With more than 32,186 acres of dunes, forest, streams and lakes, there are plenty of opportunities for an amazing winter adventure. 
+The [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/tripideas/oregon-dunes-national-recreation-area/) is like no place on earth. It’s also one of our favorite attractions on Oregon’s Adventure Coast, because there are plenty of opportunities to find relaxation and adventure. Take a thrilling ride up and down a towering sand dune or hike along the miles and miles of trails. With more than 32,186 acres of dunes, forest, streams and lakes, there are plenty of opportunities for an amazing winter adventure.
 
 {{< youtube "x6Qro7ktN-w" >}}
 
+
 **#2 Hunt for Treasures.**
 
-Coos Bay, North Bend and Charleston are chock-full of eclectic retail businesses, including antique and kitschy [shops,](https://www.oregonsadventurecoast.com/shopping/?utm_source=adventure-december-2021&utm_medium=mailchimp&utm_campaign=holiday-25) with an abundance of terrific deals and unique merchandise. Experience local culture and collect special, one-of-a-kind souvenirs with a treasure hunt along the[ Southern Oregon Coast Charm Trail](https://www.oregonsadventurecoast.com/blog/have-a-charming-adventure-along-the-southern-oregon-coast-charm-trail/)![ Download your map here](https://www.oregonsadventurecoast.com/img/Charm-Trail-Map.pdf).
+Coos Bay, North Bend and Charleston are chock-full of eclectic retail businesses, including antique and kitschy [shops,](https://www.oregonsadventurecoast.com/shopping/?utm_source=adventure-december-2021&utm_medium=mailchimp&utm_campaign=holiday-25) with an abundance of terrific deals and unique merchandise. Experience local culture and collect special, one-of-a-kind souvenirs with a treasure hunt along the[ Southern Oregon Coast Charm Trail](https://www.oregonsadventurecoast.com/blog/have-a-charming-adventure-along-the-southern-oregon-coast-charm-trail/).  [Download your map here.](https://www.oregonsadventurecoast.com/img/Charm-Trail-Map.pdf) 
 
 **#3 Explore the State Parks Along the Cape Arago Highway.**
 
