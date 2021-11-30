@@ -61,7 +61,7 @@ Here are ten ideas that will help you plan your travel itinerary and experience 
 The [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/tripideas/oregon-dunes-national-recreation-area/) is like no place on earth. It’s also one of our favorite attractions on Oregon’s Adventure Coast, because there are plenty of opportunities to find relaxation and adventure. Take a thrilling ride up and down a towering sand dune or hike along the miles and miles of trails. With more than 32,186 acres of dunes, forest, streams and lakes, there are plenty of opportunities for an amazing winter adventure.
 
 {{< youtube "x6Qro7ktN-w" >}}
-
+<br>
 
 **#2 Hunt for Treasures.**
 
