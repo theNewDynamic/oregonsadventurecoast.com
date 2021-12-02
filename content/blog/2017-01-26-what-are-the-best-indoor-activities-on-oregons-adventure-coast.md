@@ -64,7 +64,7 @@ Spend an afternoon at the <a href="http://www.cooshistory.org/" target="_blank">
 
 ### #8- Experience UO’s NEW Charleston Marine Life Center
 
-The 6,000-square-foot <a href="http://oimb.uoregon.edu/cmlc/" target="_blank">Charleston Marine Life Center</a> is the one of the newest destination on Oregon’s South Coast. The new museum features five different exhibits that include an aquarium gallery filled with aquatic life from the surrounding area, an open-air deck where visitors can look and see fishing vessels coming and going from the harbor, interactive display panels and a Marine Mammal Gallery. Admission is just $5 for adults, $4 for seniors, and free for children and students of the University of Oregon.
+The 6,000-square-foot [Charleston Marine Life Center](https://cmlc.uoregon.edu/) is the one of the newest destination on Oregon’s South Coast. The new museum features five different exhibits that include an aquarium gallery filled with aquatic life from the surrounding area, an open-air deck where visitors can look and see fishing vessels coming and going from the harbor, interactive display panels and a Marine Mammal Gallery. Admission is just $5 for adults, $4 for seniors, and free for children and students of the University of Oregon.
 
 ### #9- Get Your Game On at Joey’s Arcade & Soda Bar
 
