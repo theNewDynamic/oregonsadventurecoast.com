@@ -11,8 +11,6 @@ seo:
   title: Oregon Coast Vacations - Ocean Life | Oregon's Adventure Coast
 
 ---
-## WHERE THE SOUL MEETS THE SEA
-
 You’ll find diverse marine habitats on the Southern Oregon Coast.  This is because OAC includes rocky and sandy shores, bays and estuaries, isolated coves, sea caves, extensive sand dunes and the open Pacific. And what makes Land’s End here even more awe-inspiring is that the entire ecosystem is framed by picturesque coniferous forest.
 
 <div class="margin-20px-top"></div>
@@ -27,7 +25,7 @@ Located on the edge of the harbor in Charleston, OR, the Oregon Institute of Mar
 63466 Boat Basin Road  
 Charleston, OR 97420  
 (541) 888-2581  
-{{< link url="http://www.charlestonmarinelifecenter.com" >}}www.charlestonmarinelifecenter.com{{< /link >}}
+[https://cmlc.uoregon.edu/](https://cmlc.uoregon.edu/ "https://cmlc.uoregon.edu/")
 
 <div class="margin-50px-top"></div>
 
