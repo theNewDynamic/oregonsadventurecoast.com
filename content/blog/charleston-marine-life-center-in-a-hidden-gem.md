@@ -49,3 +49,5 @@ The Marine Life Center features different exhibits that include:
 * The Marine Mammal Gallery, home to the complete skeletons of a 23-foot long orca and a 35-foot long California grey whale, as well as skulls and bones of smaller whales, sea otters, and seals. Furthermore, visitors can look out through the large windows to harbor seals and sea lions.
 
 Ready to plan your visit? The Charleston Marine Life Center is open Wednesday - Saturday from 11 am – 5 pm and located at 63466 Boat Basin Rd. Charleston, OR 97420. For more information, call 541-888-2581 or visit [their website](https://cmlc.uoregon.edu/).
+
+Note: Due to the COVID Pandemic, hours of operation may be different. Please check the [Charleston Marine Life Center's website](https://cmlc.uoregon.edu/) for the most current visitor information.
