@@ -24,7 +24,7 @@ categories:
 ---
 It’s here! After months of anticipation and nine years of development, The University of Oregon has opened a brand new public museum and aquarium for visitors of all ages in Charleston!
 
-The 6,000-square-foot <a href="[https://cmlc.uoregon.edu/](https://cmlc.uoregon.edu/ "https://cmlc.uoregon.edu/")" target="_blank">Charleston Marine Life Center</a>, located on the campus of <a href="http://oimb.uoregon.edu/" target="_blank">UO’s Institute of Marine Biology</a>, is the newest destination on Oregon’s South Coast. Just watch their new video and you’ll see the UO’s Marine Life Center was worth the wait!
+The 6,000-square-foot [Charleston Marine Life Center](https://cmlc.uoregon.edu/), located on the campus of <a href="http://oimb.uoregon.edu/" target="_blank">UO’s Institute of Marine Biology</a>, is the newest destination on Oregon’s South Coast. Just watch their new video and you’ll see the UO’s Marine Life Center was worth the wait!
 
 The new museum features five different exhibits that include
 
@@ -34,4 +34,4 @@ The new museum features five different exhibits that include
 * The **Oregon Fisheries Gallery** is an open-air deck where visitors can look and see fishing vessels coming and going from the harbor, as well as unloading their latest catch. The real star of the Oregon Fisheries Gallery are the interactive display panels that will inform visitors of fishing equipment, commercially important species of fish, and the role marine life has played with ancient cultures.  See the Oregon coast in a way that you’ve never seen it before.
 * The **Marine Mammal Gallery** is home to the complete skeletons of a 23 foot long orca and a 35 foot long California grey whale, as well as skulls and bones of smaller whales, sea otters, and seals. Furthermore, visitors can look out through the large windows to harbor seals and sea lions.
 
-So add this your Oregon Coast bucket list this summer! The museum’s admission is $5 for adults, $4 for seniors, and free for children and students of the University of Oregon. The museum is open 11 a.m. – 5 p.m. on Wednesday through Saturday. Visit <a href="[https://cmlc.uoregon.edu/](https://cmlc.uoregon.edu/ "https://cmlc.uoregon.edu/")" target="_blank">oimb.uoregon.edu</a> for more info.
+So add this your Oregon Coast bucket list this summer! The museum’s admission is $5 for adults, $4 for seniors, and free for children and students of the University of Oregon. The museum is open 11 a.m. – 5 p.m. on Wednesday through Saturday. Visit [their website](https://cmlc.uoregon.edu/) for more info.
