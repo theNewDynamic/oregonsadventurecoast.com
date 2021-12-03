@@ -15,13 +15,7 @@ accordion_sections: []
 boxes: []
 
 ---
-<style>
-.fa-w-16{
-width: 2em;
-}
-</style>
-
-**Sorry this offer is no longer available. But, it's not too late - we have other great opportunities for lodging savings this month! Check out our Holiday 25% offer!**
+**Sorry, this offer is no longer available. But, it's not too late - we have other great opportunities for lodging savings this month! Check out our Holiday 25% offer!**
 
 [![15% OFF Storm Watching Lodging Special](/img/holiday25-special-lodging-695-wide.jpg)](/holiday25)
 
