@@ -13,6 +13,7 @@ aliases:
 - FALL15
 accordion_sections: []
 boxes: []
+draft: true
 
 ---
 <style>
