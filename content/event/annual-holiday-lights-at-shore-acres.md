@@ -30,6 +30,8 @@ website: http://shoreacres.net/
 ### **The brightest and most beautiful place on the West Coast has been CANCELED for 2021 due to the uncertainty surrounding COVID-19. We look forward to welcoming this event back in 2022.**
 
 {{< spacer 100 >}}
+## No Holiday Lights This Year, But Still Plenty of Adventures!
+[![15% OFF Storm Watching Lodging Special](/img/holiday25-special-lodging-695-wide.jpg)](/holiday25)
 
 Famous for its beautiful 7-acre botanical gardens and Japanese lily pond, Shore Acres shines with over a 325,000 LED lights, animated displays, Santa, choirs, and more. _A holiday tradition for the whole family._
 
