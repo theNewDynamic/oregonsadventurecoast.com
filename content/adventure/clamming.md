@@ -9,9 +9,9 @@ seo:
   title: Clamming on the Oregon Coast | Oregon’s Adventure Coast
 
 ---
-[![15% OFF Storm Watching Lodging Special](/img/holiday25-special-lodging-695-wide.jpg)](/holiday25)
-
 ### Clamming on Oregon's Adventure Coast
+
+{{< spacer 20 >}}
 
 {{< floatimage src="/img/crabbing-and-clamming.jpg" float="right" alt="Girl Clamming in " size="50" >}}
 
@@ -19,7 +19,7 @@ If you’ve been anywhere along the Oregon Coast, you’ve probably heard a lot 
 
 The low tides commonly found from Empire to Charleston make our region one of the top destinations for clam digging. Local bait & tackle shops are usually the best resource for first (and second, third, fourth) time clammers and can usually advise on conditions, regulations, equipment, etc. Some businesses, like [Basin Tackle](http://www.basintackle.com) on Kingfisher Rd in Charleston, even offer classes on how to use a clam pump and clean the clams (they even share secret recipes)!
 
-{{< spacer 40 >}}
+[![15% OFF Storm Watching Lodging Special](/img/holiday25-special-lodging-695-wide.jpg)](/holiday25)
 
 ![](/img/clamming-collage.jpg)
 
