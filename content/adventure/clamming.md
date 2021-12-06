@@ -9,6 +9,8 @@ seo:
   title: Clamming on the Oregon Coast | Oregon’s Adventure Coast
 
 ---
+[![15% OFF Storm Watching Lodging Special](/img/holiday25-special-lodging-695-wide.jpg)](/holiday25)
+
 ### Clamming on Oregon's Adventure Coast
 
 {{< floatimage src="/img/crabbing-and-clamming.jpg" float="right" alt="Girl Clamming in " size="50" >}}
