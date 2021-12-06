@@ -6,19 +6,21 @@ property_description: For nearly 40 years this locally owned shop has been takin
 photo_name: "/img/checkerberrys2.jpg"
 photo_alt: ''
 property_category:
+- Clothing
+- Boutique
 - Florist
 address:
-  street: 169 N. 2nd Street
-  street2: Coos Bay
-  city: ''
+  street: 1290 N. Bayshore Dr.
+  street2: Coos Bay Village
+  city: Coos Bay
   zip: '97420'
-  state: ''
+  state: OR
 phone_local: "(541) 269-5312"
 phone_toll_free: ''
 website: https://checkerberrys.com/
 coordinates:
-  lat: '43.368395'
-  lng: "-124.214293"
+  lat: '43.376908'
+  lng: "-124.214504"
 seo:
   title: ''
   description: ''
