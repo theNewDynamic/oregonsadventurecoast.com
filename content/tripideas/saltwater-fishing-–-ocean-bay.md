@@ -1,24 +1,23 @@
 ---
 title: Saltwater Fishing – Ocean & Bay
 aliases:
-  - /trip-ideas/saltwater-fishing-ocean-bay
-description: >-
-  Variety is the name of the game when it comes to fishing on Oregon’s Adventure
-  Coast! The fun and sport of fishing builds memories of a lifetime. While here,
-  it is worth exploring the different types of fishing, from shore, charter
-  boat, bridge, and even kayak. Here are a few tips for your next fishing
-  excursion.
+- "/trip-ideas/saltwater-fishing-ocean-bay"
+description: Variety is the name of the game when it comes to fishing on Oregon’s
+  Adventure Coast! The fun and sport of fishing builds memories of a lifetime. While
+  here, it is worth exploring the different types of fishing, from shore, charter
+  boat, bridge, and even kayak. Here are a few tips for your next fishing excursion.
 durations:
-  - full-day
-  - half-day
-  - long-weekend
+- full-day
+- half-day
+- long-weekend
 towns:
-  - coos-bay
-  - north-bend
-  - charleston
+- coos-bay
+- north-bend
+- charleston
 tripadventures:
-  - fishing
-image: /img/saltwater-fishing-alt.jpg
+- fishing
+image: "/img/saltwater-fishing-alt.jpg"
+
 ---
 Variety is the name of the game when it comes to fishing on Oregon’s Adventure Coast! The fun and sport of fishing builds memories of a lifetime. While here, it is worth exploring the different types of fishing, from shore, charter boat, bridge, and even kayak. Here are a few tips for your next fishing excursion.
 
@@ -28,25 +27,38 @@ Halibut is a spring and early summer fishery, while Albacore Tuna tend to be off
 
 Oregon’s Adventure Coast also offers several unique fisheries; <a href="https://myodfw.com/articles/how-fish-surfperch" target="_blank">surf fishing</a> from [local beaches](/undeveloped-beaches) for striped bass and surf perch and in-bay fishing for White sturgeon. Popular locations for surf fishing include [Horsfall Beach, Bastendorff Beach and Cape Arago State Park](/undeveloped-beaches). The best information about these fishing opportunities is available from local tackle shops.
 
-_**Please note, whenever surf fishing, consult tidal charts, weather conditions and beware that sneaker waves occur on the Oregon Coast. Never turn your back on the ocean.**_
+**_Please note, whenever surf fishing, consult tidal charts, weather conditions and beware that sneaker waves occur on the Oregon Coast. Never turn your back on the ocean._**
 
 ### **Charter Boat Companies**
 
-**Betty Kay Charters**\
-90389 Albacore Ave\
-Charleston, OR\
-(541) 888-9021\
-<a href="http://www.bettykaycharters.com" target="_blank">www.BettyKayCharters.com</a>
+**Betty Kay Charters**  
+90389 Albacore Ave  
+Charleston, OR  
+(541) 888-9021  
+[Website](http://www.bettykaycharters.com)
 
-**Pacific Charter Services**\
-Ocean & Bay fishing and crabbing trips\
-63480 Crossline Road\
-Charleston, OR  97420\
-(541) 378-3040\
-<a href="http://www.pacificcharterservices.com" target="_blank">www.PacificCharterServices.com</a>
+**Chinook Charters**  
+93762 Raymond Lane  
+North Bend, 97459  
+541-662-0964  
+[Website](https://chinookcharters.webs.com/)
 
-**Sharkys Charters**\
-6440 Bruce Road\
-Charleston, OR  97420\
-(541) 260-9110\
-<a href="http://www.SharkysCharterFfishing.com" target="_blank">www.sharkyscharterfishing.com</a>
+**Pacific Charter Services**  
+Ocean & Bay fishing and crabbing trips  
+63480 Crossline Road  
+Charleston, OR  97420  
+(541) 378-3040  
+[Website](http://www.pacificcharterservices.com)
+
+**PacificPond Charters**  
+Charleston, OR 97420  
+(541) 294-5252  
+[Website](https://www.facebook.com/PacificPondCharters)
+
+**Sharkys Charters**  
+6440 Bruce Road  
+Charleston, OR  97420  
+(541) 260-9110  
+[Website](http://www.SharkysCharterFfishing.com)
+
+[More Charters and Guides](/tour-guides-and-charters/)
