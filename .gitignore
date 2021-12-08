@@ -8,3 +8,4 @@ yarn-error.log
 .vs
 public
 data/env.yaml
+.netlify/state.json

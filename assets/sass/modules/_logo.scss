@@ -1,5 +1,5 @@
 .m-logo {
-    background: url('/layout-images/logo.png') no-repeat 0 0;
+    background: url('/layout-images/oregons-adventure-coast-header-logo.svg') no-repeat 0 0;
     width: 257px;
     height: 141px;
     background-size: contain;
@@ -9,7 +9,7 @@
         position: absolute;
     }
     @include smallPlus {
-        background: url('/layout-images/logo-ft.png') no-repeat 0 0;
+        background: url('/layout-images/oregons-adventure-coast-footer-logo.svg') no-repeat 0 0;
         background-size: contain;
         width: 100px;
         height: 32px;
