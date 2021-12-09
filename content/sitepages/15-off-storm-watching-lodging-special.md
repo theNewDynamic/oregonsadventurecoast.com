@@ -21,7 +21,7 @@ boxes: []
 
 ![](/img/storm-15-off-695x322-final.jpg)
 
-Spend this winter in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the Lodging Properties found at the bottom of this page, and receive a 15% discount January 1st, 2022 through February 28, 2022. _Some restrictions apply and subject to change._
+Spend this winter in a destination that offers Space to Spread Out and Adventures to Invigorate! Enjoy a 2 Night stay at any of the Lodging Properties found at the bottom of this page, and receive a 15% discount from January 1st, 2022 through February 28, 2022. _Some restrictions apply and subject to change._
 
 **For more information, check out our main Storm Watching page.** [**Learn More About Storm Watching**](/storm-watching)
 
