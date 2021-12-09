@@ -26,13 +26,6 @@ Charleston, OR 97420
 <a href="https://www.basintackle.com" target="_blank">www.BasinTackle.com</a>  
 Crab ring rentals, bait, tackle, information and advice. Call for updated conditions.
 
-**Crab Shack**  
-63840 Crossline Road  
-Charleston, OR 97420  
-(541) 888-3433  
-Open daily from 8am-6pm  
-Crab ring rentals, bait, and cooking and cleaning available.
-
 **Davey Jones Locker**  
 Cape Arago Highway & Boat Basin Road  
 Charleston, OR 97420  
