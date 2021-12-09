@@ -20,9 +20,13 @@ phone_local: 541-297-2095
 website: ''
 
 ---
-Join your friends from **Oregon's Adventure Coast: Coos Bay, North Bend & Charleston** for a feast of delicious Dungeness Crab! 
+Join your friends from **Oregon's Adventure Coast: Coos Bay, North Bend & Charleston** for a feast of delicious Dungeness Crab!
 
-Fresh Dungeness crab dinners - whole or half crabs at market price - include side dishes, bread, beverage and cake. Area businesses provide items for the drawing. Pricing will be updated as event approaches. For those who want to attend but don't want to eat crab, a gourmet hot dog lunch with sides will also be available.
+More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or half crabs at market price - include side dishes, bread, beverage and cake. Area businesses provide items for raffle drawings. For those who want to attend but don't want to eat crab, a gourmet hot dog lunch with sides will also be available.
+
+{{< spacer 25 >}}
+
+**Prices based on Market Price and are expected to be $25 for a whole crab dinner and $20 for a half crab dinner.**
 
 {{< spacer 25>}}
 
@@ -30,9 +34,9 @@ Fresh Dungeness crab dinners - whole or half crabs at market price - include sid
 
 ![](/img/crabs-charters.jpg)
 
-**Truly a Community Affair!** The 1,000+ lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab.  North Bend High School Key Club and Football team help set up tables, and Marshfield High School Key Club helps server the meal. 
+**Truly a Community Affair!** The 900+ lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab.  North Bend High School Key Club and Football team help set up tables, and Marshfield High School Key Club helps server the meal.
 
-And finish off your meal with delicious homemade pies and cakes provided by the Coos Head Garden Club for the dessert sale.
+Finish off your meal with delicious homemade pies and cakes provided by the Coos Head Garden Club for the dessert sale.
 
 Businesses from Charleston, Coos Bay and North Bend support this event with donations. Make sure to get your raffle tickets when you arrive for a chance at a number of great prizes!
 
