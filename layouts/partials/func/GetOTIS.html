@@ -1,0 +1,42 @@
+{{ $args_auth := dict
+  "method" "post"
+  "body" (printf `{"username": "%s", "password": "%s"}` (getenv "API_USERNAME") (getenv "API_PASSWORD"))
+  "headers" (dict
+    "content-type" "application/json"
+  )
+ }}
+{{ if true }}
+{{ with resources.Get (getenv "API_AUTH_ENDPOINT")
+  $args_auth }}
+  {{ with .Err }}
+    {{ warnf "Error %#v and %s" . (getenv "API_AUTH_ENDPOINT") }}
+  {{ else }}
+    {{ with .Content | unmarshal }}
+      {{ with .key }}
+        {{ warnf "%#v" (print "Token " .) }}
+        {{ $args := dict
+          "method" "get"
+          "headers" (dict
+            "Authorization" (print "Token " .)
+          )
+        }}
+        {{ with resources.Get 
+          "https://otis.traveloregon.com/api/v4/listings/?city=Coos Bay|North Bend|Charleston&type=Events|Farmers Markets" 
+          $args 
+        }}
+          {{ with .Err }}
+            {{ warnf "Error %#v" . }}
+          {{ else }}
+            {{ with .Content | unmarshal }}
+              {{ with .results }}
+                {{/* Process Results... :tada emoji */}}
+                {{ warnf "%#v" (len .) }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ end }}
