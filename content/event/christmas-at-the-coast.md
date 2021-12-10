@@ -99,7 +99,7 @@ Visit Pony Village Mall to watch big Trucks being decorated for the annual Light
 
 #### December 5-31 <br>[**2nd Annual Christmas at the Coast Holiday Lights Driving Tour**]()
 
-Residences and businesses all over Coos Bay and North Bend have lit up the night with Christmas displays to bring cheer and joy to all who view them. [Click here for a list of addresses](img/Christmas-at-the-Coast-Address-List.pdf). These addresses are hyperlinked to maps for ease in finding these festival displays.
+Residences and businesses all over Coos Bay and North Bend have lit up the night with Christmas displays to bring cheer and joy to all who view them. [Click here for a list of addresses](/img/Christmas-at-the-Coast-Address-List.pdf). These addresses are hyperlinked to maps for ease in finding these festival displays.
 
 {{< spacer 50 >}}
 
