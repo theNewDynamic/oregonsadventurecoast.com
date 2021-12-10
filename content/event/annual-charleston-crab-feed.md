@@ -26,7 +26,7 @@ More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or 
 
 {{< spacer 25 >}}
 
-**Prices based on Market Price and are expected to be $25 for a whole crab dinner and $20 for a half crab dinner.**
+**Prices based on Market Price.**
 
 {{< spacer 25>}}
 
