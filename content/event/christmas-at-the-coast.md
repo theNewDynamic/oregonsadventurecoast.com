@@ -43,6 +43,20 @@ aliases: []
 
 {{< spacer 20 >}}
 
+#### December 5-31 <br>**2nd Annual Christmas at the Coast Holiday Lights Driving Tour**
+
+Residences and businesses all over Coos Bay and North Bend have lit up the night with Christmas displays to bring cheer and joy to all who view them. [Click here for a list of addresses](https://app.forestry.io/sites/i-pbgsi-1h8yyg/body-media//img/Christmas-at-the-Coast-Address-List.pdf). These addresses are hyperlinked to maps for ease in finding these festival displays. Visit the events [Facebook Page](https://www.facebook.com/ChristmasattheCoast) for more information.
+
+{{< spacer 50 >}}
+
+**Still Missing Shore Acres Holiday Lights Display? We are too. But our friends at Shore Acres and Epuerto put together a wonderful Video as a Virtual Tour of Last Year's Lights.**
+
+{{< vimeo "473636830" >}}
+
+{{< spacer 50 >}}
+
+#### COMPLETED EVENTS FOR 2021!
+
 #### November 12-13 <br>[Downtown Coos Bay Holiday Open House](https://coosbaydowntown.org/holiday-events-in-downtown-2/)
 
 Visit participating businesses in Downtown Coos Bay during the Holiday Open House and enter to win door prizes! Shop for the holidays and keep your receipts to receive a commemorative mug on Shop Small Saturday (see below for more). *
@@ -94,12 +108,6 @@ After Santa has lit the Empire tree, he'll head to North Bend for their new annu
 #### {{< floatimage src="img/nb-tree-lighting-trucks-small.jpg" float="left" alt="Your Alt Text goes here" size="40" >}}December 4 <br>[**North Bend Lighted Truck Parade**]()
 
 Visit Pony Village Mall to watch big Trucks being decorated for the annual Lighted Truck Parade. Decorating begins at Noon and the Parade Starts at 5:30 pm. Children of all ages are invited to the back parking lot of Pony Village Mall (by former Macy’s building) from 4:30 pm onward where toys, food, and cash donations are being accepted for the 20th Annual Bus Jam. **Parade Route:** Rear of Pony Village Mall onto 12th Street, onto Marion Street, onto 16th Street, onto Broadway Street, onto 11th Street, onto Marion Street, and finishing back at the mall.
-
-{{< spacer 20 >}}
-
-#### December 5-31 <br>**2nd Annual Christmas at the Coast Holiday Lights Driving Tour**
-
-Residences and businesses all over Coos Bay and North Bend have lit up the night with Christmas displays to bring cheer and joy to all who view them. [Click here for a list of addresses](/img/Christmas-at-the-Coast-Address-List.pdf). These addresses are hyperlinked to maps for ease in finding these festival displays. Visit the events [Facebook Page](https://www.facebook.com/ChristmasattheCoast) for more information.
 
 {{< spacer 50 >}}
 
