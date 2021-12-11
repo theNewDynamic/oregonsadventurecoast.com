@@ -95,7 +95,7 @@ After Santa has lit the Empire tree, he'll head to North Bend for their new annu
 
 Visit Pony Village Mall to watch big Trucks being decorated for the annual Lighted Truck Parade. Decorating begins at Noon and the Parade Starts at 5:30 pm. Children of all ages are invited to the back parking lot of Pony Village Mall (by former Macy’s building) from 4:30 pm onward where toys, food, and cash donations are being accepted for the 20th Annual Bus Jam. **Parade Route:** Rear of Pony Village Mall onto 12th Street, onto Marion Street, onto 16th Street, onto Broadway Street, onto 11th Street, onto Marion Street, and finishing back at the mall.
 
-{{< spacer 50 >}}
+{{< spacer 20 >}}
 
 #### December 5-31 <br>**2nd Annual Christmas at the Coast Holiday Lights Driving Tour**
 
