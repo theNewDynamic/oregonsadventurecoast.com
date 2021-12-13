@@ -7,7 +7,7 @@
   "author": "budparr <budparr@thenewdynamic.com>",
   "license": "MIT",
   "hugo": {
-    "version": "0.64.0",
+    "version": "0.90.1",
     "extended": true
   },
   "scripts": {
@@ -18,7 +18,7 @@
     "dev": "run-p dev:webpack dev:hugo",
     "dev:hugo": "NODE_ENV=development bin/hugo* server --gc --navigateToChanged --noHTTPCache",
     "dev:webpack": "NODE_ENV=development webpack --mode=development --progress --colors --watch",
-    "build:hugo": "NODE_ENV=production bin/hugo* --gc --minify",
+    "build:hugo": "NODE_ENV=production bin/hugo* -e skip-json --gc --minify",
     "build:assets": "NODE_ENV=development webpack --mode=development",
     "deploy:assets": "NODE_ENV=production webpack --mode=production",
     "index": "node tools/lunr-run.js",

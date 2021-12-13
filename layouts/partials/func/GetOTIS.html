@@ -1,3 +1,14 @@
+{{ $results := slice }}
+{{ $endpoint := "" }}
+{{ $endpoints := dict
+  "base" (getenv "BASE_URL")
+  "calendar" "listings/?city=Coos Bay|North Bend|Charleston&type=Events|Farmers Markets"
+  "dining" "listings/?city=Coos Bay|North Bend|Charleston&type=Restaurants"
+}}
+{{ with index $endpoints . }}
+  {{ $endpoint = print $endpoints.base . }}
+{{ end }}
+
 {{ $args_auth := dict
   "method" "post"
   "body" (printf `{"username": "%s", "password": "%s"}` (getenv "API_USERNAME") (getenv "API_PASSWORD"))
@@ -21,7 +32,7 @@
           )
         }}
         {{ with resources.Get 
-          "https://otis.traveloregon.com/api/v4/listings/?city=Coos Bay|North Bend|Charleston&type=Events|Farmers Markets" 
+          $endpoint
           $args 
         }}
           {{ with .Err }}
@@ -30,7 +41,7 @@
             {{ with .Content | unmarshal }}
               {{ with .results }}
                 {{/* Process Results... :tada emoji */}}
-                {{ warnf "%#v" (len .) }}
+                {{ $results = $results | append . }}
               {{ end }}
             {{ end }}
           {{ end }}
@@ -40,3 +51,5 @@
   {{ end }}
 {{ end }}
 {{ end }}
+
+{{ return $results }}
