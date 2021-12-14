@@ -95,7 +95,7 @@ import {PAGINATION_DEFAULTS, PAGINATION_ACTIONS, FILTER_OPTION} from './common/c
         }
 
         if (filters.month !== 'all') {
-            searchBy.month = filters.month.toString();
+            searchBy.month = filters.month;
         }
 
         if (filters.city !== 'all') {
