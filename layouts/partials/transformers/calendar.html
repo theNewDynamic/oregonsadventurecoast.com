@@ -1,0 +1,76 @@
+{{ $s := newScratch }}
+
+{{ range $key := slice
+  "start_date"
+  "end_date"
+  "address1"
+  "state"
+  "zip_code"
+  "phone1"
+  "phone2"
+}}
+  {{ with $.attributes }}
+    {{ range $attr := . }}
+      {{ with .schema }}
+        {{ with .name }}
+          {{ if eq . $key }}
+            {{ $value := $attr.value }}
+            {{ if eq $key "start_date" "end_date" "zip_code" }}
+              {{ if eq $key "start_date" }}
+                {{ with time $value }}
+                  {{ with .Month }}
+                    {{ $s.SetInMap "data" "month" . }}
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+              {{ $s.SetInMap "data" (replace $key "_" "") $value }}
+            {{ else }}
+              {{ $s.SetInMap "data" $key $value }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+{{ end }}
+
+{{ range $key := slice 
+  "name"
+  "description"
+  "latitude"
+  "longitude"
+  "uuid"
+}}
+  {{ with index $ $key }}
+    {{ $s.SetInMap "data" $key . }}
+  {{ end }}
+{{ end }}
+
+{{ with .media }}
+  {{ with .photos }}
+    {{ with index . 0 }}
+      {{ $s.SetInMap "data" "media" . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $s.SetInMap "data" "links" slice }}
+{{ with .links }}
+  {{ $s.SetInMap "data" "links" . }}
+  {{ with where . "network_type" "==" "Website" }}
+    {{ with index . 0 }}
+      {{ $s.SetInMap "data" "website" .url }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ with .relations }}
+  {{ with where . "type" "==" "Cities" }}
+    {{ with index . 0 }}
+      {{ $s.SetInMap "data" "city" .name }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ return $s.Get "data" }}
