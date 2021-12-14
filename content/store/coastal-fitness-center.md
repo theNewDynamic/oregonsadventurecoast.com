@@ -8,7 +8,7 @@ address:
 title: Coastal Fitness Center
 property_description: Full facility fitness center. 24-hour memberships available.
   Open Mon-Fri 4:30am-9pm and Sat. 7am-5pm
-photo_name: ''
+photo_name: "/img/coastal-fitness.jpg"
 photo_alt: Coastal Fitness Center logo
 property_category:
 - Fitness
@@ -23,6 +23,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---

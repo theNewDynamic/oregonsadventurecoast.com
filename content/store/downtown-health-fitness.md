@@ -9,7 +9,7 @@ title: Downtown Health & Fitness
 property_description: Full service gym offering personal training, group fitness classes,
   free weights, cardio, showers & locker rooms, and much more. Open Mon-Fri 7am-7pm,
   Sat 8am-4pm; or 24-hour access membership.
-photo_name: ''
+photo_name: "/img/downtown-fitness.jpg"
 photo_alt: welcoming front desk at downtown health & fitness
 property_category:
 - Fitness
@@ -24,6 +24,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
