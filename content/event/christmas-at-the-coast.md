@@ -45,7 +45,7 @@ aliases: []
 
 #### December 5-31 <br>**2nd Annual Christmas at the Coast Holiday Lights Driving Tour**
 
-Residences and businesses all over Coos Bay and North Bend have lit up the night with Christmas displays to bring cheer and joy to all who view them. [Click here for a list of addresses](https://app.forestry.io/sites/i-pbgsi-1h8yyg/body-media//img/Christmas-at-the-Coast-Address-List.pdf). These addresses are hyperlinked to maps for ease in finding these festival displays. Visit the events [Facebook Page](https://www.facebook.com/ChristmasattheCoast) for more information.
+Residences and businesses all over Coos Bay and North Bend have lit up the night with Christmas displays to bring cheer and joy to all who view them. [Click here for a list of addresses](/img/Christmas-at-the-Coast-Address-List.pdf). These addresses are hyperlinked to maps for ease in finding these festival displays. Or click on this [Google Map](https://www.google.com/maps/d/u/0/viewer?mid=1oZOmoNCJIjGL1HaraR40xVPfGB6iqkkN&fbclid=IwAR0gJxgwwIekoBKDa7qIHbFAjM0qsMZ8k3r9ioexXTvJ1-MltRQnGXSsbiU&ll=43.373946357492336%2C-124.26038000000001&z=13)! Visit the events [Facebook Page](https://www.facebook.com/ChristmasattheCoast) for more information.
 
 {{< spacer 50 >}}
 
