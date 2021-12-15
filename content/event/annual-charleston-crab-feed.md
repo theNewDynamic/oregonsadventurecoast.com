@@ -20,23 +20,25 @@ phone_local: 541-297-2095
 website: ''
 
 ---
-Join your friends from **Oregon's Adventure Coast: Coos Bay, North Bend & Charleston** for a feast of delicious Dungeness Crab!
+Join your friends from **Oregon's Adventure Coast: Coos Bay, North Bend & Charleston** for a feast of delicious Dungeness Crab at the **37th Annual Charleston Crab Feed**!
 
 More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or half crabs at market price - include side dishes, bread, beverage and cake. Area businesses provide items for raffle drawings. For those who want to attend but don't want to eat crab, a gourmet hot dog lunch with sides will also be available.
 
 {{< spacer 25 >}}
 
-**Prices based on Market Price.**
+**Prices are based on Market Rate and will be $25 for a Whole Crab Meal and $20 for a Half Crab Meal. Hot dog meals are $12 and add a dessert for $5!!**
 
 {{< spacer 25>}}
 
-**This event runs from 11am to 3pm!  But, Local Tip! Get there early.**
+**This event runs from 11am to 3pm!  But, Local Tip! Get there early.** 
+
+**And** [**Buy Your Ticket TODAY**](https://www.eventbrite.com/e/37th-annual-charleston-crab-feed-tickets-228598854327)**!** Select a **Dine-In** or **Take-Out** Meal, Whole or Half Crab. Add a dessert or choose the Hot Dog option for those who don't like crab!!!
 
 ![](/img/crabs-charters.jpg)
 
 **Truly a Community Affair!** The 900+ lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab.  North Bend High School Key Club and Football team help set up tables, and Marshfield High School Key Club helps server the meal.
 
-Finish off your meal with delicious homemade pies and cakes provided by the Coos Head Garden Club for the dessert sale.
+Finish off your meal with a delicious dessert for $5!
 
 Businesses from Charleston, Coos Bay and North Bend support this event with donations. Make sure to get your raffle tickets when you arrive for a chance at a number of great prizes!
 
