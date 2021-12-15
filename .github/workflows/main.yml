@@ -2,7 +2,7 @@ name: Trigger API Calls
 on:
   schedule:
     # Run every day at midnight
-    - cron: '0 0 * * *'
+    - cron: '0 1,13 * * *'
 jobs:
   build:
     name: Trigger Production Build
