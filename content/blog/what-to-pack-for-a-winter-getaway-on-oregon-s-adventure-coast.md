@@ -8,6 +8,17 @@ description: 'If you’re thinking about a winter getaway on Oregon’s Adventur
 image: "/img/what-to-pack-oregon-coastblog-695x322.jpg"
 tags:
 - 'Oregon''s Adventure Coast '
+- Oregon Coast
+- Coos Bay
+- North Bend
+- 'Charleston Oregon '
+- Oregon's South Coast
+- Packing List
+- What to Pack Oregon Coast
+- 'winter getaway '
+- 'Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston'
+- Lodging Specials
+- Oregon Coast Hotel Discount
 categories:
 - Miscellaneous
 seo:
@@ -19,12 +30,11 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 _Heading to the Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston this Winter? Here’s a List of Travel Essentials You’ll Want to Pack._
 
-If you’re thinking about a [winter getaway](https://www.oregonsadventurecoast.com/blog/ten-things-to-do-this-winter-on-oregon-s-adventure-coast/) on[ Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston](https://www.oregonsadventurecoast.com/adventures/), you’re not alone. Winter is a beautiful season to travel to the Oregon Coast, so much so that we’re offering visitors [15% off lodging at participating properties](https://www.oregonsadventurecoast.com/storm15/) from January 1st, 2022 through February 28, 2022!
+If you’re thinking about a [winter getaway](https://www.oregonsadventurecoast.com/blog/ten-things-to-do-this-winter-on-oregon-s-adventure-coast/) on[ Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston](https://www.oregonsadventurecoast.com/adventures/), you’re not alone. Winter is a beautiful season to travel to the Oregon Coast, so much s**o that we’re offering visitors** [**15% off lodging at participating properties**](https://www.oregonsadventurecoast.com/storm15/) **from January 1st, 2022 through February 28, 2022**!
 
 [Travel Oregon’s Emily Forsha](http://traveloregon.com/author/eforsha/) says winter is her favorite season on the Oregon Coast. “You might find yourself cozying up by a fireplace, watching angry waves crash during a spectacular storm; or you may find yourself on an uncrowded beach on a clear, sunny day that ends with a sunset over a beach bonfire,” she writes in her post,[ _The Oregon Coast, A Winter Odyssey_](http://traveloregon.com/trip-ideas/oregon-stories/the-oregon-coast-a-winter-odyssey/%20).
 
@@ -68,5 +78,4 @@ Got questions? [Contact us](https://www.oregonsadventurecoast.com/contact/) dire
 
 _Editor’s Note: As the developments with COVID-19 continue to unfold, please follow the direction of our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors. Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained. If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage you to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19._
 
-  
 _Visit the state’s_ [_**Safe+Strong Oregon **_](https://www.safestrongoregon.org/)_page for more information._
