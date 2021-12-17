@@ -41,9 +41,7 @@ Coos Bay, OR 97420
 [Email Us](mailto:info@oregonsadventurecoast.com)  
 (541) 269-0215
 
-**NOTE: Temporary Winter Hours due to COVID - 10am-2pm Monday-Saturday**
-
-Find information, maps, and public restrooms. Open Mon – Fri, 9am-5pm, Sat 11am-3pm. Extended summer hours include Sun 11am-3pm (_Memorial Day – Labor Day_). Our visitor center staff are happy to [mail you visitor information](#contactform) or [relocation information](/relocation-info-request/#relocationform) upon request.
+Find information, maps, and public restrooms. Open Mon – Fri, 9am-5pm, Sat 11am-3pm. Extended summer hours include Sun 10am-2pm (_Memorial Day – Labor Day_). Our visitor center staff are happy to [mail you visitor information](#contactform) or [relocation information](/relocation-info-request/#relocationform) upon request.
 divider
 **North Bend Visitor Information Center**  
 1380 Sherman Ave  
