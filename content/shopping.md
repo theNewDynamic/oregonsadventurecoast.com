@@ -1,5 +1,5 @@
 ---
-layout: shoppingpage
+layout: ''
 title: Shopping
 url: "/shoppingpage"
 photo: "/img/shopping-sub-header.jpg"
@@ -12,7 +12,7 @@ seo:
 ---
 **_With COVID-19 Phased Reopening happening now, many of our shops have reopened with protocols. Please check with the shop or shops you wish to visit for their specific protocols, which could include requiring patrons wear face coverings and maintaining social distancing._**
 
-Not all adventures take place outside! Shopping is one adventure that takes you into some eclectic businesses, including antique and kitchy shops, all over the Coos Bay, North Bend & Charleston area.
+Not all adventures take place outside! Shopping is one adventure that takes you into some eclectic businesses, including antique and kitschy shops, all over the Coos Bay, North Bend & Charleston area.
 
 Hunting for that special something or stumbling across a treasure you didn't even know you were looking for can make your next trip to Oregon's Adventure Coast, well, an Adventure you didn't expect!
 
