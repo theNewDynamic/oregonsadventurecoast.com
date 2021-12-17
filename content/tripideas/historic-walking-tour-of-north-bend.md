@@ -34,20 +34,20 @@ Listed below are just a few of our many points of interest.
 
 **ECKHOFF BUILDING** site (pre-1900) Town pioneer did combination home and commercial building in “San Francisco’s Victorian style,” reflecting California’s influence on many early structures. (Now car sales lot.)
 
-**HOTEL NORTH BEND** (1922) Designed by J.E. Tour- tellotte, was grandest building in city, concrete lessened fire danger, provided 68 rooms, most modern conveniences, dining facility. Vern Gorst met here with national air line executives in 1930, suggested and helped form United Air Lines. First National Bank of North Bend (Sherman/Virginia) closed temporarily 1933-34, city minted myrtlewood money during crisis. (After remodeling, reopened 2009 as housing com- plex with two storefronts.)
+**HOTEL NORTH BEND** (1922) Designed by J.E. Tourtellotte, was the grandest building in the city. The concrete construction lessened fire danger. The Hotel provided 68 rooms, most modern conveniences, and a dining facility. Vern Gorst met here with national airline executives in 1930, suggested and helped form United Air Lines. When the First National Bank of North Bend (Sherman/Virginia) closed temporarily from 1933-34, the city minted Myrtlewood money during the crisis. (After remodeling, the building was reopened in 2009 as a housing complex with two storefronts.)
 
-**WHOLESALE GROCERY WAREHOUSE** (1906) Only remaining building of early bustling waterfront, wooden structure on pilings. Many uses – fish cannery, building supply area, ticket office for Breakwater, steamer that sailed Portland – San Francisco route. (Now Kyle Building.)
+**WHOLESALE GROCERY WAREHOUSE** (1906) Only remaining building of the early bustling waterfront, is a wooden structure on pilings. Its many uses include a fish cannery, a building supply area, and a ticket office for Breakwater, a steamer that sailed Portland – San Francisco route. It is now known as the Kyle Building.
 
-**WATERFRONT** (early 1900’s) Boardwalk gives view of area once busy industrial hub of city with shipping, fishing, and passenger ship activity, also mills, factories, shipyards, related ventures. Pilings for city dock still visible. Gorst flew passengers in hydroplane to Marsh- field (Coos Bay) starting 1913, could have been America’s first actual air route, but no written schedule printed.
+**WATERFRONT** (early 1900’s) The North Bend Boardwalk gives a view of a once busy industrial hub of the city with shipping, fishing, and passenger ship activity, as well as mills, factories, shipyards, and related ventures. Pilings for the city dock are still visible. Gorst flew passengers in hydroplane to Marshfield (Coos Bay) starting 1913, which could have been America’s first actual air route but had no written schedule.
 
-**SOUTHERN PACIFIC TRAIN DEPOT** site (1916) After railway bridge over Coos Bay, passenger service began to Willamette Valley and beyond, typical wooden terminal, separate waiting rooms for men and women. Rail service ended 1953, building demolished 1962. (Now State offices)
+**SOUTHERN PACIFIC TRAIN DEPOT** site (1916) After the railway bridge over Coos Bay was constructed, passenger service began to the Willamette Valley and beyond. This was a typical wooden terminal with separate waiting rooms for men and women. Rail service ended in 1953, and the building was demolished in 1962. This is now the site of State offices.
 
-**WINSOR BUILDING** (c. 1903) Often called Castle building because of grandeur and Castle Restaurant in first floor corner. Third floor and penthouse, now removed, housed the Commer-cial Club, early civic booster association. (Now storefronts and apartments.)
+**WINSOR BUILDING** (c. 1903) Often called Castle building because of grandeur and Castle Restaurant in first-floor corner. The third floor and penthouse, now removed, housed the Commercial Club, an early civic booster association. This site is now storefronts and apartments.
 
-**LIBERTY THEATER** (1924) Originally silent movie palace, today home of The Little Theatre on the Bay (LTOB), Oregon’s second oldest amateur theater company. Presents wide range of programs, including famed Little Ole Opry featuring country music in July.
+**LIBERTY THEATER** (1924) Originally a silent movie palace, is today home of The Little Theatre on the Bay (LTOB), Oregon’s second oldest amateur theater company. LTOB presents a wide range of programs, including the famed Little Ole Opry featuring country music in July.
 
-**HOLLISTER HOUSE** (1913) Billiards room in home of prominent local attorney, played important role in cultural development of city. Mrs. Hollister offered it as first public library. (Now North Bend Chapel.)
+**HOLLISTER HOUSE** (1913) Billiards room in the home of a prominent local attorney, played an important role in the cultural development of the city. Mrs. Hollister offered it as the first public library. This building is now the North Bend Chapel.
 
-**KEIZER BROS. HOSPITAL** (1923) Drs. Phil and Russell Keizer built the city’s second hospital
+**KEIZER BROS. HOSPITAL** (1923) Drs. Phil and Russell Keizer built the city’s second hospital.
 
-**BANK OF OREGON** (1903-04) Originally on corner of Sherman and Virginia, building moved one block west, turned one quarter to accommodate construction of North Bend Hotel 1921. One of city’s oldest structures, closely linked with Louis J. Simpson, founder and first mayor of North Bend, principal member of bank’s Board of Directors. (Now storefronts and living quarters.)
+**BANK OF OREGON** (1903-04) Originally on the corner of Sherman and Virginia, the building moved one block west, turned one quarter to accommodate the construction of the North Bend Hotel in 1921. One of the city’s oldest structures, closely linked with Louis J. Simpson, founder and first mayor of North Bend, principal member of bank’s Board of Directors. This building now houses storefronts and living quarters.
