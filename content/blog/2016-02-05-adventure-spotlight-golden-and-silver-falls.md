@@ -31,6 +31,12 @@ Even as Summer comes to an end, the need for fresh-aired exploration is too grea
 
 “Hard to find, but worth the effort,” posted this <a href="https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=golden%20and%20silver%20falls&lrd=0x54c3f3a384e2d9e9:0x525b0ff0af984bd8,1,," target="_blank" rel="noopener noreferrer">recent visitor</a>. “The falls were absolutely gorgeous. If I had not been on a time schedule, I would have stayed so much longer simply to watch them. It is a relatively short hike to each of the waterfalls- Golden Falls to the right side of the park, and Silver Falls to the left,” [posted another](http://www.tripadvisor.com/ShowUserReviews-g29988-d6434056-r327001855-Golden_and_Silver_Falls-Allegany_Oregon.html#).
 
+{{< spacer 20 >}}
+
+![](/img/golden-silver-falls-map.jpg)
+
+{{< spacer 20 >}}
+
 Yes hikers, trekkers, and all-around nature lovers, <a href="http://alltrails.com/trail/us/oregon/golden-and-silver-falls" target="_blank" rel="noopener noreferrer">Golden and Silver Falls</a> is a <a href="http://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67" target="_blank" rel="noopener noreferrer">Coos County State Natural Area</a> and the ideal place to unwind and reconnect with nature for a day. It’s about a 30-minute ride from Coos Bay and worth the trip.
 
 Parking and picnic areas await you at the bottom of the hiking trails, and after you get your grub on you can spend the day trekking up Golden and Silver Falls’ scenic routes. And for those of you that may need a little extra convincing, did we mention there are waterfalls?! That’s right, a relatively short hike leads to breathtaking waterfalls shooting out onto boulders a hundred feet below. We could tell you more, but why not show you?
@@ -72,3 +78,5 @@ This tip also extends to leaving nature as you found it; so don’t pick flowe
 But really,  the most important thing is to be safe and have a great time! With Golden and Silver Falls you’re guaranteed an extraordinary day away from the noise of the city and the complexities of modern life.
 
 A note about the drive up Hwy 241. Please be aware that the road leading up to the parking area for Golden & Silver Falls is, at times, only one lane and more dirt than pavement. Take the drive slowly to avoid any potentially dangerous situations, including meeting other vehicles traveling in the opposite direction and rough traveling conditions. Believe us when we say, the drive up is part of the adventure! And well worth the effort.
+
+[**Download This Document**](/img/Golden-Silver-Falls-Directions.pdf) **for information and directions to the Golden & Silver Falls State Park!**
