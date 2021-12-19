@@ -22,7 +22,7 @@ website: ''
 ---
 Join your friends from **Oregon's Adventure Coast: Coos Bay, North Bend & Charleston** for a feast of delicious Dungeness Crab at the **37th Annual Charleston Crab Feed**!
 
-More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or half crabs at market price - include side dishes, bread, beverage and cake. Area businesses provide items for raffle drawings. For those who want to attend but don't want to eat crab, a gourmet hot dog lunch with sides will also be available.
+More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or half crabs at market price - include side dishes and a roll. Add a dessert for the perfect Oregon Coast meal. Area businesses provide items for raffle drawings. For those who want to attend but don't want to eat crab, a gourmet hot dog lunch with sides will also be available.
 
 {{< spacer 25 >}}
 
@@ -30,7 +30,7 @@ More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or 
 
 {{< spacer 25>}}
 
-**This event runs from 11am to 3pm!  But, Local Tip! Get there early.** 
+**This event runs from 11am to 3pm!  But, Local Tip! Get there early.**
 
 **And** [**Buy Your Ticket TODAY**](https://www.eventbrite.com/e/37th-annual-charleston-crab-feed-tickets-228598854327)**!** Select a **Dine-In** or **Take-Out** Meal, Whole or Half Crab. Add a dessert or choose the Hot Dog option for those who don't like crab!!!
 
