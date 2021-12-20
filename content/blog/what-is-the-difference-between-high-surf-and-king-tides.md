@@ -1,9 +1,9 @@
 ---
 title: 'What is the Difference Between High Surf and King Tides? '
-date: 2021-12-20T05:00:00+00:00
+date: 2021-12-20T05:00:00.000+00:00
 description: 'What are King Tides and do they cause High Surf conditions? Answers
   to these and many other common questions visitors have. '
-image: "/img/difference-between-high-surf-and-king-tidesblog-695x322.jpg"
+image: "/img/king-tide-2-nov-2021-695x322-lprefontaine.jpg"
 tags:
 - King Tides
 - High Surf
@@ -29,6 +29,8 @@ warning: false
 warning_copy: ''
 
 ---
+_Photo courtesy of Linda Prefontaine, 2021_
+
 We recently published answers to [Our Most Frequently Asked Questions About Winter Storm Watching](https://www.oregonsadventurecoast.com/blog/answers-to-our-most-frequently-asked-questions-about-winter-storm-watching/), but we thought we’d dive in a little deeper to explain the difference between High Surf and King Tides (this is understandably a confusing issue).
 
 **What are King Tides?** The King Tides are winter’s highest tide sequences on the Oregon Coast, and they occur when the Earth, moon, and sun are aligned to produce the greatest tidal effects of the year. The next round of dates for this year’s King Tides are January 1-3, 2022.
