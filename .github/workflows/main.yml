@@ -5,8 +5,8 @@ on:
     - cron: '0 1,13 * * *'
 jobs:
   build:
-    name: Trigger Production Build
+    name: Trigger Production Build (clear cache)
     runs-on: ubuntu-latest
     steps:
       - name: Curl request
-        run: curl -X GET -d {} ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
+        run: 'curl -H "Accept: application/json" -H "Authorization: Bearer ${{ secrets.NETLIFY_TOKEN }}" -d {clear_cache: true} "https://api.netlify.com/api/v1/sites/${{ secrets.NETLIFY_SITE_ID }}/builds"'
