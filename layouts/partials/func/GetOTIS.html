@@ -1,7 +1,13 @@
 {{ $results := slice }}
 {{ $endpoint := "" }}
+
+{{ $base_url := getenv "BASE_URL" | default site.Data.env.BASE_URL }}
+{{ $api_auth_endpoint := getenv "API_AUTH_ENDPOINT" | default site.Data.env.API_AUTH_ENDPOINT }}
+{{ $api_username := getenv "API_USERNAME" | default site.Data.env.API_USERNAME }}
+{{ $api_password := getenv "API_PASSWORD" | default site.Data.env.API_PASSWORD }}
+
 {{ $endpoints := dict
-  "base" (getenv "BASE_URL")
+  "base" $base_url
   "calendar" "listings/?city=Coos Bay|North Bend|Charleston&type=Events|Farmers Markets"
   "dining" "listings/?city=Coos Bay|North Bend|Charleston&type=Restaurants"
 }}
@@ -11,32 +17,31 @@
 
 {{ $args_auth := dict
   "method" "post"
-  "body" (printf `{"username": "%s", "password": "%s"}` (getenv "API_USERNAME") (getenv "API_PASSWORD"))
+  "body" (printf `{"username": "%s", "password": "%s"}` $api_username $api_password)
   "headers" (dict
     "content-type" "application/json"
   )
  }}
-{{ if true }}
-{{ with resources.Get (getenv "API_AUTH_ENDPOINT")
+
+{{ with resources.GetRemote $api_auth_endpoint
   $args_auth }}
   {{ with .Err }}
-    {{ warnf "Error %#v and %s" . (getenv "API_AUTH_ENDPOINT") }}
+    {{ warnf "%#v and %s" . $api_auth_endpoint }}
   {{ else }}
     {{ with .Content | unmarshal }}
       {{ with .key }}
-        {{ warnf "%#v" (print "Token " .) }}
         {{ $args := dict
           "method" "get"
           "headers" (dict
             "Authorization" (print "Token " .)
           )
         }}
-        {{ with resources.Get 
+        {{ with resources.GetRemote
           $endpoint
           $args 
         }}
           {{ with .Err }}
-            {{ warnf "Error %#v" . }}
+            {{ warnf "%#v" . }}
           {{ else }}
             {{ with .Content | unmarshal }}
               {{ with .results }}
@@ -49,7 +54,6 @@
       {{ end }}
     {{ end }}
   {{ end }}
-{{ end }}
 {{ end }}
 
 {{ return $results }}
