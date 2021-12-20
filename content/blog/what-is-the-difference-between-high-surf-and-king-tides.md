@@ -45,6 +45,8 @@ Some visitors come to the coast during King Tides in hopes of seeing a spectacul
 
 You can find tips and suggestions online at [the Oregon King Tides website](https://www.oregonkingtides.net/). To learn more about King Tides, [click here.](https://www.epa.gov/sites/default/files/2014-04/documents/king_tides_factsheet.pdf) **Remember, never turn your back to the ocean and stay away from surf zones and jetties, as these can be especially dangerous during a winter storm.** Beaches may become hazardous due to dangerous surf conditions.
 
+![](/img/storm-watching-695-banner-2021.jpg)
+
 **Don’t forget, we’re offering visitors** [**15% off lodging at participating properties**](https://www.oregonsadventurecoast.com/storm15/) **from January 1st, 2022 through February 28, 2022 for Storm Watching Season!**
 
 Here are some additional resources to help you plan your next adventure on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, Oregon.
