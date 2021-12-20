@@ -32,7 +32,8 @@ More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or 
 
 **This event runs from 11am to 3pm!  But, Local Tip! Get there early.**
 
-**And** [**Buy Your Ticket TODAY**](https://www.eventbrite.com/e/37th-annual-charleston-crab-feed-tickets-228598854327)**!** Select a **Dine-In** or **Take-Out** Meal, Whole or Half Crab. Add a dessert or choose the Hot Dog option for those who don't like crab!!!
+[**Buy Your Ticket TODAY**](https://www.eventbrite.com/e/37th-annual-charleston-crab-feed-tickets-228598854327)   
+Select a **Dine-In** or **Take-Out** Meal, Whole or Half Crab. Add a dessert or choose the Hot Dog option for those who don't like crab!!!
 
 ![](/img/crabs-charters.jpg)
 
