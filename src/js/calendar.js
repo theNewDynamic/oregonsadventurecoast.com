@@ -4,8 +4,6 @@ import Calendar from './calendar/Calendar';
 import FilterToggles from './common/filter-toggles';
 import {PAGINATION_DEFAULTS, PAGINATION_ACTIONS, FILTER_OPTION} from './common/constants';
 
-const api_url = "https://api.oregonsadventurecoast.com";
-
 (function($) {
 
     new FilterToggles();
@@ -24,12 +22,7 @@ const api_url = "https://api.oregonsadventurecoast.com";
      * @param
      * @return
      */
-	$.ajax({
-        url: api_url + '/data-api/index.php?method=get&type=calendar',
-        dataType: 'jsonp',
-        contentType: 'application/json; charset=utf-8'
-    })
-    .done((data) => {
+	 $.getJSON('/calendar/index.json', (data) => {
         fullCalendarList = _.cloneDeep(data);
         fullCalendarList = calendar.filterOldEvents(fullCalendarList);
         fullCalendarList = calendar.sortByStartDate(fullCalendarList);
@@ -39,7 +32,7 @@ const api_url = "https://api.oregonsadventurecoast.com";
         checkForResults(fullCalendarList);
     })
     .fail(function(jqXHR, status, error) {
-        console.log(status);
+        console.log(error);
     });
 
     /**
@@ -102,7 +95,7 @@ const api_url = "https://api.oregonsadventurecoast.com";
         }
 
         if (filters.month !== 'all') {
-            searchBy.month = filters.month.toString();
+            searchBy.month = filters.month;
         }
 
         if (filters.city !== 'all') {

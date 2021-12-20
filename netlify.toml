@@ -3,7 +3,8 @@ publish = "public"
 command = "hugo --gc"
 
 [build.environment]
-  HUGO_VERSION = "0.64.0"
+  HUGO_VERSION = "0.91.0"
+  GO_VERSION = "1.16.5"
 
 [context.production.environment]
 # Uncomment the next line when moving site to production
@@ -16,3 +17,11 @@ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
 command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+[dev]
+  functions = "functions"
+  publish = "public"
+  framework = "#custom"
+  command = "npm run start"
+  port = 8888
+  targetPort = 1313

@@ -38,3 +38,6 @@ permalinks:
   products: '/shop/:slug'
 blackfriday:
   hrefTargetBlank: false
+caches:
+  getresource:
+    maxAge: 12h

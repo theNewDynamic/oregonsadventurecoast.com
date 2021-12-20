@@ -172,9 +172,9 @@ export default class Calendar {
      * @return {string} - media template for images
      */
     generateImageTpl(media) {
-        if (media.photos.length > 0) {
+        if (typeof media !== "undefined") {
             return `
-                <img src="${media.photos[0].image}" alt="${media.photos[0].caption}">
+                <img src="${media.image}" alt="${media.caption}">
             `;
         } else {
             return '';

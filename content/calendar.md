@@ -1,5 +1,8 @@
 ---
 layout: calendarpage
+outputs:
+- html
+- json
 aliases:
 - "/activities/category/events"
 - "/listings/polar-bear-plunge-2"

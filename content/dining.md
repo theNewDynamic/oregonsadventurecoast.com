@@ -11,7 +11,9 @@ seo:
   title: Oregon Coast Trips Vacations - Dining | Oregon's Adventure Coast
   image: "/img/dining-header.jpg"
   imgalt: Seafood dining on oregon's adventure coast
-
+outputs:
+- html
+- json
 ---
 Wherever you are on Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston, you will have a wide variety of dining and meal options. We have several family-style eateries, as well as ethnic, chain, seafood and fine dining restaurants. [Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.](/img/walking-map-cbnb.pdf)Find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns.
 

@@ -85,11 +85,6 @@ function buildEntries() {
          * @return
          */
         if (entriesType == "lodging") {
-            $.ajax({
-                url: api_url + '/data-api/index.php?method=get&type=lodging',
-                dataType: 'jsonp',
-                contentType: 'application/json; charset=utf-8'
-            })
     	    $.getJSON('/lodgingitems/index.json', (data) => {
                 fullEntriesList = _.cloneDeep(data);
                 entryList = data;
@@ -106,12 +101,7 @@ function buildEntries() {
             });
         }
         else if (entriesType == "dining") {
-            $.ajax({
-                url: api_url + '/data-api/index.php?method=get&type=dining',
-                dataType: 'jsonp',
-                contentType: 'application/json; charset=utf-8'
-            })
-            .done((data) => {
+            $.getJSON('/dining/index.json', (data) => {
                 fullEntriesList = _.cloneDeep(data);
                 entryList = data;
                 entryList = sortMenu.sortAscending(entryList, 'property_name');
@@ -125,11 +115,6 @@ function buildEntries() {
             });
         }
         else if (entriesType == "shopping") {
-            $.ajax({
-                url: api_url + '/data-api/index.php?method=get&type=store',
-                dataType: 'jsonp',
-                contentType: 'application/json; charset=utf-8'
-            })
     	    $.getJSON('/store/index.json', (data) => {
                 fullEntriesList = _.cloneDeep(data);
                 entryList = data;

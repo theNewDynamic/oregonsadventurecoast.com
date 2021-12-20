@@ -1,0 +1,59 @@
+{{ $results := slice }}
+{{ $endpoint := "" }}
+
+{{ $base_url := getenv "BASE_URL" | default site.Data.env.BASE_URL }}
+{{ $api_auth_endpoint := getenv "API_AUTH_ENDPOINT" | default site.Data.env.API_AUTH_ENDPOINT }}
+{{ $api_username := getenv "API_USERNAME" | default site.Data.env.API_USERNAME }}
+{{ $api_password := getenv "API_PASSWORD" | default site.Data.env.API_PASSWORD }}
+
+{{ $endpoints := dict
+  "base" $base_url
+  "calendar" "listings/?city=Coos Bay|North Bend|Charleston&type=Events|Farmers Markets"
+  "dining" "listings/?city=Coos Bay|North Bend|Charleston&type=Restaurants"
+}}
+{{ with index $endpoints . }}
+  {{ $endpoint = print $endpoints.base . }}
+{{ end }}
+
+{{ $args_auth := dict
+  "method" "post"
+  "body" (printf `{"username": "%s", "password": "%s"}` $api_username $api_password)
+  "headers" (dict
+    "content-type" "application/json"
+  )
+ }}
+
+{{ with resources.GetRemote $api_auth_endpoint
+  $args_auth }}
+  {{ with .Err }}
+    {{ warnf "%#v and %s" . $api_auth_endpoint }}
+  {{ else }}
+    {{ with .Content | unmarshal }}
+      {{ with .key }}
+        {{ $args := dict
+          "method" "get"
+          "headers" (dict
+            "Authorization" (print "Token " .)
+          )
+        }}
+        {{ with resources.GetRemote
+          $endpoint
+          $args 
+        }}
+          {{ with .Err }}
+            {{ warnf "%#v" . }}
+          {{ else }}
+            {{ with .Content | unmarshal }}
+              {{ with .results }}
+                {{/* Process Results... :tada emoji */}}
+                {{ $results = $results | append . }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ return $results }}

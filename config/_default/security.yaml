@@ -1,0 +1,5 @@
+funcs:
+  getenv:
+  - ^HUGO_
+  - GOOGLE_MAP_API
+  - '.'

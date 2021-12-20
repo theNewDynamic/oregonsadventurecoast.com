@@ -1,0 +1,7 @@
+{{- if ne hugo.Environment "skip-json" -}}
+{{- $entries := slice -}}
+{{- range partialCached "func/GetOTIS" "dining" "dining" -}}
+{{- $entries = $entries | append (partial "transformers/dining" .) -}}
+{{- end -}}
+{{ $entries | jsonify }}
+{{- end -}}
