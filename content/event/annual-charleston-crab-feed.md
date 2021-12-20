@@ -32,10 +32,11 @@ More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or 
 
 **This event runs from 11am to 3pm!  But, Local Tip! Get there early.**
 
-![Eventbrite - buy your tickets today for the February 12, 2022 Charleston Crab Feed](/img/eventbrite-button-crab-feed.jpg)  
+[![Eventbrite - buy your tickets today for the February 12, 2022 Charleston Crab Feed](/img/eventbrite-button-crab-feed.jpg)](https://www.eventbrite.com/e/37th-annual-charleston-crab-feed-tickets-228598854327)
+
 Select a **Dine-In** or **Take-Out** Meal, Whole or Half Crab. Add a dessert or choose the Hot Dog option for those who don't like crab!!!
 
-![](/img/crabs-charters.jpg)
+![](/img/crab-feed-collage.jpg)
 
 **Truly a Community Affair!** The 900+ lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab.  North Bend High School Key Club and Football team help set up tables, and Marshfield High School Key Club helps server the meal.
 
