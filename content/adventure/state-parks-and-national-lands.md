@@ -34,7 +34,9 @@ In the landscaped area you'll discover a formal garden, a Japanese-style garden 
 
 After seeing the garden, you can stroll down a trail to a secluded ocean cove at Simpson Beach or skirt the cliff's edge to see spectacular ocean vistas which often include towering waves crashing against the shoreline after a storm and migrating grey whales. On the site of Simpson's vanished mansion, a fully enclosed observation building will allow you to view the ocean and protect you from the weather. The observation building has interpretive panels describing the history of the Simpson estate.
 
-<div class="margin-50px-top"></div>
+{{< spacer 50 >}}
+
+<div id="sunset-bay"></div>
 
 ![Sunset Bay State Park on Oregon's Adventure Coast](/img/Sunset-Bay-State-Park-v02-695x125.jpg)
 
@@ -42,7 +44,9 @@ Situated in one of the most scenic areas on the Oregon coast, [**Sunset Bay Stat
 
 A network of hiking trails connects Sunset Bay with nearby Shore Acres and Cape Arago State Parks. Hiking these trails will give you a chance to experience pristine coastal forests, seasonal wildflowers and spectacular ocean vistas from atop the rugged cliffs and headlands. From points along the trail, you'll be treated to views of Gregory Point and the Cape Arago lighthouse.
 
-<div class="margin-50px-top"></div>
+{{< spacer 50 >}}
+
+<div id="cape-arago"></div>
 
 ![Cape Arago State Park on Oregon's Adventure Coast](/img/Cape-Arago-State-Park-695x125.jpg)
 
@@ -52,7 +56,9 @@ Located at the end of Cape Arago Highway about 15 miles southwest of Coos Bay, C
 
 The south cove trail leads down to a sandy beach and superior tidepools where you can visit intertidal plants and animals (but please enjoy them with your eyes only). The north cove trail provides access for fishing, beachcombing, and viewing the off-shore colonies of seals and sea lions at Shell Island -- a designated National Wildlife Refuge. The trail is closed March 1- June 30 to protect seal pups. Picnic tables, restrooms and a gazebo shelter are available for daytime use.
 
-<div class="margin-50px-top"></div>
+{{< spacer 50 >}}
+
+<div id="golden-silver-falls"></div>
 
 ![](/img/golden-silver-falls-state-park-695x125.jpg)
 
@@ -62,7 +68,9 @@ Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the casc
 
 <div class="margin-50px-top"></div>
 
-### Take a Virtual Tour of Shore Acres State Park!<br><br>
+### Take a Virtual Tour of Shore Acres State Park!
+
+{{< spacer 25 >}}
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772859196145840%2F&show_text=0&width=695" width="695" height="454" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
@@ -76,15 +84,17 @@ Shore Acres State Park is often lauded as the best storm watching spot on the en
 
 {{< youtube "yTeho70rQFo" >}}
 
-<div class="margin-50px-top"></div>
+{{< spacer 500 >}}
 
-## National Lands For Recreation<br><br>
+## National Lands For Recreation
+
+{{< spacer 25 >}
 
 ![](/img/OR-Dunes-Ntl-Rec-Area-695x125.jpg)
 
 The [**Oregon Dunes National Recreation Area**](https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42465) is the largest expanse of coastal sand dunes in North America and it is like no place on earth. The majestic dunes are one of our favorite attractions on the Southern Oregon Coast because they give visitors plenty of opportunities to find relaxation and adventure. Click here for tips on exploring the [**Untamed Dunes**](/untamed-dunes/).
 
-<div class="margin-50px-top"></div>
+{{< spacer 50 >}}
 
 ## Explore Our Trip Ideas!
 
