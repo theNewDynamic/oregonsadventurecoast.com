@@ -23,8 +23,8 @@ The scenery that makes up the unique setting on Oregon’s Adventure Coast is sp
 
 On the Oregon Coast, many of the beaches are state parks and our area is no exception. Along the 8 mile [Cape Arago Loop](https://app.forestry.io/sites/i-pbgsi-1h8yyg/body-media//img/cape-arago-loop-itinerary-2018.pdf) in Charleston you’ll find a trifecta of State Parks.
 
-<div class="margin-50px-top" id="shore-acres"></div>
-
+{{< spacer 50 >}}
+<div id="shore-acres"></div>
 
 ![](/img/ShoreAcres-State-Park-v02-695x125.jpg)
 
