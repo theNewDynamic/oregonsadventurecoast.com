@@ -23,8 +23,7 @@ The scenery that makes up the unique setting on Oregon’s Adventure Coast is sp
 
 On the Oregon Coast, many of the beaches are state parks and our area is no exception. Along the 8 mile [Cape Arago Loop](https://app.forestry.io/sites/i-pbgsi-1h8yyg/body-media//img/cape-arago-loop-itinerary-2018.pdf) in Charleston you’ll find a trifecta of State Parks.
 
-<div class="margin-50px-top"></div>
-
+<div class="margin-50px-top" id="shore-acres"></div>
 ![](/img/ShoreAcres-State-Park-v02-695x125.jpg)
 
 [**Shore Acres State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68), the Oregon Coast’s crown jewel, was once the private estate of lumber baron, Louis Simpson, founder of the community of North Bend. Perched on rugged sandstone cliffs high above the ocean, Shore Acres State Park is an exciting and unexpected combination of beautiful natural and constructed features, including lushly planted gardens with plants and flowers from all over the world. Something is in bloom almost every day of the year.
