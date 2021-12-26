@@ -24,7 +24,6 @@ The scenery that makes up the unique setting on Oregon’s Adventure Coast is sp
 On the Oregon Coast, many of the beaches are state parks and our area is no exception. Along the 8 mile [Cape Arago Loop](https://app.forestry.io/sites/i-pbgsi-1h8yyg/body-media//img/cape-arago-loop-itinerary-2018.pdf) in Charleston you’ll find a trifecta of State Parks.
 
 {{< spacer 50 >}}
-<div id="shore-acres"></div>
 
 ![](/img/ShoreAcres-State-Park-v02-695x125.jpg)
 
@@ -36,8 +35,6 @@ After seeing the garden, you can stroll down a trail to a secluded ocean cove at
 
 {{< spacer 50 >}}
 
-<div id="sunset-bay"></div>
-
 ![Sunset Bay State Park on Oregon's Adventure Coast](/img/Sunset-Bay-State-Park-v02-695x125.jpg)
 
 Situated in one of the most scenic areas on the Oregon coast, [**Sunset Bay State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70) features beautiful sandy beaches protected by towering sea cliffs. Only a short walk from the beach, the campground has sites for tent camping and RV's, as well as cozy and comfortable yurts. Day-use and picnic facilities are located along the bay to allow easy access for beachcombing, fishing, swimming, and boating.
@@ -45,8 +42,6 @@ Situated in one of the most scenic areas on the Oregon coast, [**Sunset Bay Stat
 A network of hiking trails connects Sunset Bay with nearby Shore Acres and Cape Arago State Parks. Hiking these trails will give you a chance to experience pristine coastal forests, seasonal wildflowers and spectacular ocean vistas from atop the rugged cliffs and headlands. From points along the trail, you'll be treated to views of Gregory Point and the Cape Arago lighthouse.
 
 {{< spacer 50 >}}
-
-<div id="cape-arago"></div>
 
 ![Cape Arago State Park on Oregon's Adventure Coast](/img/Cape-Arago-State-Park-695x125.jpg)
 
@@ -57,8 +52,6 @@ Located at the end of Cape Arago Highway about 15 miles southwest of Coos Bay, C
 The south cove trail leads down to a sandy beach and superior tidepools where you can visit intertidal plants and animals (but please enjoy them with your eyes only). The north cove trail provides access for fishing, beachcombing, and viewing the off-shore colonies of seals and sea lions at Shell Island -- a designated National Wildlife Refuge. The trail is closed March 1- June 30 to protect seal pups. Picnic tables, restrooms and a gazebo shelter are available for daytime use.
 
 {{< spacer 50 >}}
-
-<div id="golden-silver-falls"></div>
 
 ![](/img/golden-silver-falls-state-park-695x125.jpg)
 
@@ -84,7 +77,7 @@ Shore Acres State Park is often lauded as the best storm watching spot on the en
 
 {{< youtube "yTeho70rQFo" >}}
 
-{{< spacer 500 >}}
+{{< spacer 50 >}}
 
 ## National Lands For Recreation
 
