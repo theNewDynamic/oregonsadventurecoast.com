@@ -78,14 +78,11 @@ seo:
     nature, wildlife, shopping, arts, and more. Your adventure awaits!
   title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
 home_splashes:
-- url: "/holiday25"
-  img: "/img/holiday25-special-banner-2048x269.jpg"
+- url: "/storm15"
+  img: "/img/storm-watching-15-off-special-2021.jpg"
 - img: "/img/family-plan-your-getaway-03-21.jpg"
   alt: 'Plan your getaway '
   url: "/lodging"
-- img: "/img/win-500-cash.png"
-  url: https://craterlakecountry.com/coos-bay/
-  alt: Win $500 Cash
 
 ---
 We welcome you to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities. We invite you to explore, to discover, to feel, to know…at land’s end, adventure begins. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do. Your vacation will be full of adventure, nature, wildlife, culture, arts and athletics.
