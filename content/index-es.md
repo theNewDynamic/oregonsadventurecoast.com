@@ -76,9 +76,9 @@ seo:
     nature, wildlife, shopping, arts, and more. Your adventure awaits!
   title: Planifique sus vacaciones | En Oregon costa de aventuras
 home_splashes:
-- img: "/img/plan-your-vacation-hero-es.jpg"
+- img: "/img/stormwatching-masonryheader-spainish.jpg"
   alt: Planifique sus vacaciones
-  url: "/lodging"
+  url: "/storm-watching"
 
 ---
 Le damos la bienvenida a las ciudades de Coos Bay, North Bend y Charleston, conocidas en conjunto como Oregon's Adventure Coast. Aquí, el mar se encuentra con la tierra, permitiendo una variedad de experiencias. Lo invitamos a explorar, descubrir, sentir y experimentar. 
