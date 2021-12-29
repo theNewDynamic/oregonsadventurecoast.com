@@ -80,6 +80,7 @@ seo:
 home_splashes:
 - url: "/storm15"
   img: "/img/storm-watching-15-off-special-2021.jpg"
+  alt: 15% Off Storm Watching Lodging Special Jan 1, 2022 through Feb 28, 2022
 - img: "/img/family-plan-your-getaway-03-21.jpg"
   alt: 'Plan your getaway '
   url: "/lodging"
