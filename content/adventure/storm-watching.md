@@ -13,6 +13,7 @@ seo:
 
 ---
 ![](/img/storm-watching-logo-695-x-322.jpg)
+[![15% OFF Storm Watching Lodging Special](/img/storm-watching-695-banner-2021.jpg)](/storm15)
 
 ## THE MAJESTY OF MOTHER NATURE
 
@@ -34,14 +35,14 @@ The best viewing times tend to be November through March.
 
 {{< youtube "fKK3nZvM_go" >}}
 
-<br>
+{{< spacer 25 >}}
 
 {{< youtube "jdnrfyh4gRc" >}}
 
-<br>
+{{< spacer 25 >}}
 
 {{< youtube "yTeho70rQFo" >}}
 
-<br>
+{{< spacer 25 >}}
 
 {{< youtube "vEcmD88vgtA" >}}
