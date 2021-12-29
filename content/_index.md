@@ -81,9 +81,9 @@ home_splashes:
 - url: "/storm15"
   img: "/img/storm-watching-15-off-special-2021.jpg"
   alt: 15% Off Storm Watching Lodging Special Jan 1, 2022 through Feb 28, 2022
-- img: "/img/family-plan-your-getaway-03-21.jpg"
+- img: "/img/stormwatching-masonryheader.jpg"
   alt: 'Plan your getaway '
-  url: "/lodging"
+  url: "/storm-watching"
 
 ---
 We welcome you to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities. We invite you to explore, to discover, to feel, to know…at land’s end, adventure begins. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do. Your vacation will be full of adventure, nature, wildlife, culture, arts and athletics.
