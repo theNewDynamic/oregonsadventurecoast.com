@@ -13,6 +13,9 @@ seo:
 
 ---
 ![](/img/storm-watching-logo-695-x-322.jpg)
+
+{{< spacer 25 >}}
+
 [![15% OFF Storm Watching Lodging Special](/img/storm-watching-695-banner-2021.jpg)](/storm15)
 
 ## THE MAJESTY OF MOTHER NATURE
