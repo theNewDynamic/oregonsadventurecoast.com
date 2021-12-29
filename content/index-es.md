@@ -5,9 +5,9 @@ lang: es
 url: es/
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- photo: "/img/holiday-25-hm-spanish-slider.jpg"
-  photo_mobile: "/img/holiday-25-hm-slider-spanish-mobile.jpg"
-  url: "/holiday25"
+- url: "/storm15"
+  video:
+    source: "/img/waves-web-960x540-spanish.mp4"
 welcomeheadline: "¡Bienvenidos a Oregon’s Adventure Coast!"
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
