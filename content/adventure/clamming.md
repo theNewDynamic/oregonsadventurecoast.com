@@ -35,17 +35,21 @@ Ready to give it a shot? Here are some more tips for first-time clammers:
 
 <p class="bullet-para-indent">Clams can be harvested all year on our coast, but ODFW does require a license. <a href="https://myodfw.com/crabbing-clamming/licensing-info">Click here to get your license.</a> </p>
 
+**2. Make sure it's safe.**
+
+<p class="bullet-para-indent">Occasionally, clamming on the Oregon Coast is closed due to a temporary rise in biotoxins in ocean water. Check the <a href="https://www.oregon.gov/oda/programs/foodsafety/shellfish/pages/shellfishclosures.aspx">Oregon Health Authority website</a> or call the hotline at 1-800-448-2474 to find out about any shellfish closures.</p>
+
 **2. Wear waterproof boots (trust us).**
 
-<p class="bullet-para-indent">Just take a look at the photos and you will see the necessity of waterproof boots. Otherwise, you may loose or ruin your shoes!</p>
+<p class="bullet-para-indent">Just take a look at the photos and you will see the necessity of waterproof boots. Otherwise, you may lose or ruin your shoes!</p>
 
 **3. Dress in layers!**
 
-<p class="bullet-para-indent">Doesn’t matter what season it is, it can get chilly out there! Dress in layers that can get dirty.</p>
+<p class="bullet-para-indent">It doesn’t matter what season it is, it can get chilly out there! Dress in layers that can get dirty.</p>
 
 **4. Go to a bait and tackle shop before you head out.**
 
-<p class="bullet-para-indent">Some of the best advice you will receive will probably come from one of the fishing experts at one of our [local bait and tackle stores](/equipment-rent-and-buy/). They can tell you when the best time of day to dig would be based on the tides. They can also help you make sure you have the right equipment- a bucket, a shovel (can be rented or borrowed) and/or a tube a.k.a. a “clam gun”.</p>
+<p class="bullet-para-indent">Some of the best advice you will receive will probably come from one of the fishing experts at one of our <a href="https://www.oregonsadventurecoast.com/equipment-rent-and-buy">local bait and tackle stores</a>. They can tell you when the best time of day to dig would be based on the tides. They can also help you make sure you have the right equipment, including a bucket, a shovel (can be rented or borrowed) and/or a tube a.k.a. a "clam gun."</p>
 
 **5. Keep track of how many clams you dig.**
 
