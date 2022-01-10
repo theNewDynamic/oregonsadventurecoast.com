@@ -39,25 +39,25 @@ Ready to give it a shot? Here are some more tips for first-time clammers:
 
 <p class="bullet-para-indent">Occasionally, clamming on the Oregon Coast is closed due to a temporary rise in biotoxins in ocean water. Check the <a href="https://www.oregon.gov/oda/programs/foodsafety/shellfish/pages/shellfishclosures.aspx">Oregon Health Authority website</a> or call the hotline at 1-800-448-2474 to find out about any shellfish closures.</p>
 
-**2. Wear waterproof boots (trust us).**
+**3. Wear waterproof boots (trust us).**
 
 <p class="bullet-para-indent">Just take a look at the photos and you will see the necessity of waterproof boots. Otherwise, you may lose or ruin your shoes!</p>
 
-**3. Dress in layers!**
+**4. Dress in layers!**
 
 <p class="bullet-para-indent">It doesn’t matter what season it is, it can get chilly out there! Dress in layers that can get dirty.</p>
 
-**4. Go to a bait and tackle shop before you head out.**
+**5. Go to a bait and tackle shop before you head out.**
 
 <p class="bullet-para-indent">Some of the best advice you will receive will probably come from one of the fishing experts at one of our <a href="https://www.oregonsadventurecoast.com/equipment-rent-and-buy">local bait and tackle stores</a>. They can tell you when the best time of day to dig would be based on the tides. They can also help you make sure you have the right equipment, including a bucket, a shovel (can be rented or borrowed) and/or a tube a.k.a. a "clam gun."</p>
 
-**5. Keep track of how many clams you dig.**
+**6. Keep track of how many clams you dig.**
 
-<p class="bullet-para-indent">You are allowed 20 bay clams per day in the aggregate, however, only 12 of which may be Gaper or Empire clams; again this is something someone at a local bait and tackle shop can help you with. <a href="https://www.dfw.state.or.us/mrp/shellfish/regulations.asp">Click here for ODFW's Regulations Summary for Marine Shellfish.</a></p>
+<p class="bullet-para-indent">You are allowed 20 bay clams per day in the aggregate, only 12 of which may be Gaper or Empire clams. <a href="https://myodfw.com/articles/oregon-shellfish-regulations">Click here for ODFW's Regulations Summary for Marine Shellfish.</a></p>
 
-**6. Watch this tutorial and learn from the pros!**
+**7. Watch this tutorial and learn from the pros!**
 
-<p class="bullet-para-indent">Watch this video to learn the basics of digging:</p>
+<p class="bullet-para-indent">Watch this informational video to learn the basics:</p>
 
 {{< youtube "tO9nP3CcAoI" >}}
 
@@ -73,7 +73,7 @@ Ready to give it a shot? Here are some more tips for first-time clammers:
 
 **Lower Coos Bay - Map & Species**
 
-The lower bay (from ocean entrance to the airport) is “marine dominated”, meaning there is little freshwater influence, and offers some of Oregon’s most productive shellfishing opportunities.
+The lower bay (from ocean entrance to the airport) is “marine dominated,” meaning there is little freshwater influence, which makes for some of Oregon’s most productive shellfishing opportunities.
 
 <a href="/img/clamming-map-lower-coos-bay-06-20.pdf" class="learn-more-anywhere-btn">Download Map »</a> divider
 
@@ -81,7 +81,7 @@ The lower bay (from ocean entrance to the airport) is “marine dominated”, me
 
 **Charleston Area - Map & Species**
 
-Clamming in Charleston is excellent throughout and access is easy. Rental shops are close by to help those new to clamming, gather the right gear and find the best spots.
+Clamming in Charleston is excellent throughout and access is easy. Rental shops are close by to help those new to clamming gather the right gear and find the best spots.
 
 <a href="/img/clamming-map-charleston-06-20.pdf" class="learn-more-anywhere-btn">Download Map »</a>
 
