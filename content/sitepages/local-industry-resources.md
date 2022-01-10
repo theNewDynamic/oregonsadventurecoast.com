@@ -15,7 +15,7 @@ boxes: []
 ---
 ## Local Industry Resources
 
-The **Coos Bay-North Bend Visitor & Convention Bureau (VCB)** and the Coos Bay Visitor Information Center provide the following documents to our local industry partners to assist in planning and requests.
+The **Coos Bay-North Bend Visitor & Convention Bureau (VCB)** and the Coos Bay Visitor Information Center provide the following information and documents to our local industry partners to assist in planning and requests.
 
 **Regular Monthly Meeting of the VCB Board of Directors**  
 The 2nd Thursday of every month is slated for the regular meeting of the Board of Directors of the Coos Bay-North Bend Visitor & Convention. To receive an agenda, RSVP to attend in person and/or receive the Zoom link to attend virtually, please contact Janice Langlinais at [janice@oregonsadventurecoast.com](mail:janice@oregonsadventurecoast.com). 
