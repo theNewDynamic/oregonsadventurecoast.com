@@ -1,8 +1,6 @@
 ---
-title: Fishing Styles
-aliases:
-- "/featured-adventures/fishing-crabbing-clamming"
-- "/activities/category/fishing"
+title: Fishing By Style on Oregon's Adventure Coast
+aliases: []
 url: "/fishing-by-style"
 photo: "/img/fishing-page-sub-header.jpg"
 seo:
@@ -18,4 +16,8 @@ On Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, the styles of f
 
 **Jetty –** For an adventurous style of fishing, jetty fishing on Oregon’s Adventure Coast is hard to beat. The south and north jetties – accessed from Bastendorff Beach and the North Spit, respectively – jut out into the ocean near Charleston, giving anglers [a prime location](mailto:https://www.oregonsadventurecoast.com/blog/eight-things-you-need-to-know-to-plan-your-oregon-coast-fishing-adventure/) for casting lines for rockfish, surfperch and other marine fish. A standard rod and reel and your bait of choice is really all you need for this kind of ocean fishing. Simply amble out onto the jetty – carefully and not during high surf advisories – find a good spot and start fishing.
 
-### Fishing License Requirements
+**Kayaking –** Oregon’s Adventure Coast is home to [more than 30 lakes and rivers](https://www.oregonsadventurecoast.com/tripideas/fresh-water-fishing-options-by-body-of-water) for freshwater sportfishing. And there’s no better way to get after those fish than from inside a kayak. Rent a kayak from [a local retailer](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/), grab your fishing rod and paddle the shoreline of [Empire Lakes](https://www.oregonsadventurecoast.com/blog/eight-things-you-need-to-know-to-plan-your-oregon-coast-fishing-adventure/) in Coos Bay for rainbow trout, bluegill, crappie, yellow perch, largemouth bass and rainbow trout. [Butterfield Lake](https://www.oregonsadventurecoast.com/blog/eight-things-you-need-to-know-to-plan-your-oregon-coast-fishing-adventure/) in North Bend is also a fine spot for rainbow trout, bass and the small but aggressive warmouth.
+
+**Charter –** Looking for a deep-sea fishing adventure? Then charter boat fishing is your best bet. Several [charter boat fishing companies](https://www.oregonsadventurecoast.com/tour-guides-and-charters/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter) offer amazing trips for everything from sturgeon and salmon to tuna, rockfish, ling cod and more. And while many charters head out into the Pacific, there are plenty of guide services that will take you around the Coos, Coquille, Umpqua, Elk and Sixes River systems. Most trips include all the gear and bait you’ll need for a day on the water, but not fishing licenses. Be sure to [get one](https://www.oregonsadventurecoast.com/fishing-license-requirements/) and bring it with you.
+
+**Crabbing and Clamming –** Among the easiest and most rewarding fishing on Oregon’s Adventure Coast, [crabbing](https://www.oregonsadventurecoast.com/crabbing-clamming/) and [clamming](https://www.oregonsadventurecoast.com/clamming/) make for a fun experience all year long. You can rent crab rings and pots or clam guns or shovels from [local bait and tackle shops](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/). For crabbers, you’ll be hunting for the prized Dungeness crab, but there’s also red rock and European green crabs to look for. Crab from the commercial docks in Charleston or the area known as Empire. Clammers can dig to their hearts’ content for bay clams, which includes gaper clams, butter clams, cockles and native littlenecks, on the tidal mud flats along Lower Coos Bay. You’re also likely to have good luck raking the beaches for cockles at [Point Adams and Charleston Flat](https://myodfw.com/articles/where-crab-clam-coos-bay).
