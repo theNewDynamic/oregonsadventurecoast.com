@@ -1,5 +1,5 @@
 ---
-title: Fishing By Style
+title: Fishing by Style
 aliases: []
 url: "/fishing-by-style"
 photo: "/img/fishing-page-sub-header.jpg"
