@@ -10,11 +10,11 @@ seo:
   image: "/img/saltwater-fishing-alt.jpg"
 
 ---
-An Oregon fishing license is required for those age 12 years or older (except during one “free fishing weekend” in June when licenses or tags are NOT required). Daily licenses available. Most fishing charters, bait shops and sporting goods stores can supply these for you.
+According to Oregon fishing regulations, an Oregon fishing license is required for everyone 12 years or older except during the state’s free fishing weekends when licenses or tags are NOT required. (The Oregon Department of Fish & Wildlife holds multiple free fishing weekends each year. Check [the ODFW site](https://myodfw.com/fishing) for information.) Daily, multi-day and annual licenses are available at sporting goods stores and other local retailers. Find a list of vendors [here](https://myodfw.com/articles/where-find-odfw-license-agentsvendors) or [purchase online](https://odfw.huntfishoregon.com/login) from ODFW.
 
 ### PURCHASE FISHING LICENSES
 
-<div style="margin-top:15px;"></div>
+{{< spacer 15 >}}
 
 [{{< floatimage src="/img/odfw-logo.png" float="left" alt="Purchase a Fishing License Online from the ODFW" size="100" >}}Purchase a Fishing License or Tag Online from the Oregon Department of Fish & Wildlife.](https://myodfw.com/articles/how-buy-license-or-tag) <div style="clear:both; margin-top:15px;"></div> {{< columns number="2" >}}
 
