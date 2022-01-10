@@ -15,11 +15,15 @@ seo:
 
 {{< floatimage src="/img/crabbing-and-clamming.jpg" float="right" alt="Girl Clamming in " size="50" >}}
 
-If you’ve been anywhere along the Oregon Coast, you’ve probably heard a lot about clamming; but you might be wondering why it’s so popular among natives and visitors. Clamming is appealing to many Oregonians and visitors because it is relatively easy and the reward is a tasty treat best served in chowder, steamed or fried. There are no special skills required, no expensive equipment, and beginners can usually pick it up quite easily.
+If you’ve been anywhere along the Oregon Coast, you’ve probably heard a lot about clamming. But you might be wondering why it’s so popular among natives and visitors. Clamming is appealing to many Oregonians and visitors because it is relatively easy and the reward is a tasty treat best served in chowder, steamed or fried. There are no special skills required, no expensive equipment, and beginners can usually pick it up quite easily.
 
-The low tides commonly found from Empire to Charleston make our region one of the top destinations for clam digging. Local bait & tackle shops are usually the best resource for first (and second, third, fourth) time clammers and can usually advise on conditions, regulations, equipment, etc. Some businesses, like [Basin Tackle](http://www.basintackle.com) on Kingfisher Rd in Charleston, even offer classes on how to use a clam pump and clean the clams (they even share secret recipes)!
+The low tides commonly found from Empire to Charleston make our region one of the top destinations for clam digging. Around here, the most popular clams are bay clams, which include gaper clams, butter clams, cockles and littleneck clams.
 
-[![15% OFF Storm Watching Lodging Special](/img/storm-watching-695-banner-2021.jpg)](/storm15)
+Local bait and tackle shops are usually the best resource for first (and second, third, fourth) time clammers and can usually advise on conditions, regulations, equipment, etc. Some businesses, like [Basin Tackle](http://www.basintackle.com/) on Kingfisher Road in Charleston, even offer classes on how to use a clam pump and clean the clams. (They’ll even share secret recipes!)
+
+Ready to give it a shot? Here are some more tips for first-time clammers:
+
+{{< spacer 20 >}}
 
 ![](/img/clamming-collage.jpg)
 
@@ -29,8 +33,7 @@ The low tides commonly found from Empire to Charleston make our region one of th
 
 **1. Get your shellfish license.**
 
-<p class="bullet-para-indent">Clams can be harvested all year on our coast, but ODFW does require a license. <a href="https://myodfw.com/crabbing-clamming/licensing-info">Click here to get your license.</a>
-</p>
+<p class="bullet-para-indent">Clams can be harvested all year on our coast, but ODFW does require a license. <a href="https://myodfw.com/crabbing-clamming/licensing-info">Click here to get your license.</a> </p>
 
 **2. Wear waterproof boots (trust us).**
 
