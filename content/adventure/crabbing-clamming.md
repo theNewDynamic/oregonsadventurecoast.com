@@ -18,7 +18,11 @@ No trip to **Oregon’s Adventure Coast** is complete without Dungeness crab, an
 
 While Oregon’s best-known crab is the Dungeness, there are other species along the coast, including the native red rock crab and the invasive European green crab. Both of these species, like the Dungeness, are fun to catch and tasty to eat.
 
-Here are a few key crabbing tips from the [Oregon Department of Fish and Wildlife](https://myodfw.com/articles/how-crab). Be sure to read their [instructional flyer "How to Crab"](https://www.dfw.state.or.us/resources/fishing/docs/CrabbingFlyer.pdf) for important details.![](/img/Girlfriends-Crabbing-in-Charleston-695x322.jpg)
+Here are a few key crabbing tips from the [Oregon Department of Fish and Wildlife](https://myodfw.com/articles/how-crab). Be sure to read their [instructional flyer "How to Crab"](https://www.dfw.state.or.us/resources/fishing/docs/CrabbingFlyer.pdf) for important details.
+
+{{< spacer 20 >}}
+
+![](/img/Girlfriends-Crabbing-in-Charleston-695x322.jpg)
 
 * Make sure you have your shellfish license (14 and older requires a shellfish license), crab measuring tool, pots or rings, cooler, gloves, bait holders and bait supply. Three-day licenses are available at local ODFW offices and at many [sporting goods or hardware stores](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/).
 * Slack water (the time around high or low tide) is the best time to crab. During slack water, crabs are generally walking around and foraging since they are not getting pushed around by tidal exchange.
@@ -37,7 +41,7 @@ Here are a few key crabbing tips from the [Oregon Department of Fish and Wildlif
 
 **Lower Coos Bay - Map**
 
-The lower bay (from ocean entrance to the airport) is “marine dominated”, meaning there is little freshwater influence, and offers some of Oregon’s most productive shellfishing opportunities.
+The lower bay (from ocean entrance to the airport) is "marine dominated," meaning there is little freshwater influence, which makes for some of Oregon’s most productive shellfishing opportunities.
 
 <a href="/img/crabbingmap-lowercoosbay-07-20.pdf" class="learn-more-anywhere-btn">Download Map »</a> divider
 
