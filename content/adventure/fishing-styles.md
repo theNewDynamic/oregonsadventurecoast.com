@@ -1,5 +1,5 @@
 ---
-title: Fishing By Style on Oregon's Adventure Coast
+title: Fishing By Style
 aliases: []
 url: "/fishing-by-style"
 photo: "/img/fishing-page-sub-header.jpg"
