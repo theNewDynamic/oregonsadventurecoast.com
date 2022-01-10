@@ -14,17 +14,17 @@ seo:
 
 {{< floatimage src="/img/kids-crabbing-141.jpg" float="right" alt="Family Crabbing at the Charleston Marina" size="100" >}}
 
-No trip to the Adventure Coast is complete without Dungeness crab, and the best crab are always the ones you bring up yourself from the waters of lower Coos Bay. Rent or buy a crab ring and try your luck; the payoff will be a fresh crab feast you’ll always remember. And you’ll keep coming back for more.
+No trip to **Oregon’s Adventure Coast** is complete without Dungeness crab, and the best crab are always the ones you bring up yourself from the waters of lower Coos Bay. Rent or buy a crab ring and try your luck; the payoff will be a fresh crab feast you’ll always remember. And you’ll keep coming back for more!
 
-Here are a few tips we want to share from the [Oregon Department of Fish and Wildlife](https://myodfw.com/articles/how-crab). Be sure to read their [instructional flyer How to Crab](https://www.dfw.state.or.us/resources/fishing/docs/CrabbingFlyer.pdf) for important details.
+While Oregon’s best-known crab is the Dungeness, there are other species along the coast, including the native red rock crab and the invasive European green crab. Both of these species, like the Dungeness, are fun to catch and tasty to eat.
 
-![](/img/Girlfriends-Crabbing-in-Charleston-695x322.jpg)
+Here are a few key crabbing tips from the [Oregon Department of Fish and Wildlife](https://myodfw.com/articles/how-crab). Be sure to read their [instructional flyer "How to Crab"](https://www.dfw.state.or.us/resources/fishing/docs/CrabbingFlyer.pdf) for important details.![](/img/Girlfriends-Crabbing-in-Charleston-695x322.jpg)
 
-* Make sure you have your shellfish license (14 and older requires a shellfish license), crab measuring tool, pots or rings, cooler, gloves, bait holders and bait supply. 3-day licenses are available at local ODFW offices and at many sporting goods or hardware stores.
-* Slack water (the time around high or low tide) are the best times to crab. During slack water, crabs are generally walking around and foraging since they are not getting pushed around by tidal exchange.
+* Make sure you have your shellfish license (14 and older requires a shellfish license), crab measuring tool, pots or rings, cooler, gloves, bait holders and bait supply. Three-day licenses are available at local ODFW offices and at many [sporting goods or hardware stores](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/).
+* Slack water (the time around high or low tide) is the best time to crab. During slack water, crabs are generally walking around and foraging since they are not getting pushed around by tidal exchange.
 * Check all lines on crab pots or rings for kinks or knots to ensure they are durable and will allow gear to work correctly.
-* Fresh bait is best. Many different types of bait are used for crabbing: turkey, chicken, mink, fish carcass, shad, herring, clams, etc.
-* Tie the end of your crab line to the dock or pier from where you are crabbing. Throw your crab pot or ring in the water and start crabbing.
+* Fresh bait is best. Many different types of bait are used for crabbing, including turkey, chicken, mink, fish carcass, shad, herring, clams, etc . . .
+* Tie the end of your crab line to the dock or pier from where you are crabbing. Drop your crab pot or ring in the water gently – so you don’t draw attention from hungry seals and sea lions ­– and start crabbing.
 * Check with the [Oregon Department of Fish and Wildlife](https://myodfw.com/crabbing-clamming) website for the most current shellfish regulations and harvest notices.
 
 ### Best Locations for Crabbing on Oregon's Adventure Coast
