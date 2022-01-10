@@ -1,8 +1,8 @@
 ---
 title: Fishing
 aliases:
-  - /featured-adventures/fishing-crabbing-clamming
-  - /activities/category/fishing
+- "/featured-adventures/fishing-crabbing-clamming"
+- "/activities/category/fishing"
 url: "/fishing"
 photo: "/img/fishing-page-sub-header.jpg"
 seo:
@@ -17,11 +17,11 @@ seo:
 <img src="/img/wayne_middle_fork_drift_wide.jpg" alt="Fishing in a boat on the ocean" width="100%"></p>
 </div>
 
-Fishing opportunities are in no short supply here on Oregon's Adventure Coast! There are fish for every season and an endless choice of prime fishing spots to select from.
+When it comes to fishing in Oregon, opportunities are in no short supply – especially here on Oregon’s Adventure Coast! There are fish for every season and an endless choice of prime fishing spots to select from.
 
-There are more than [30 lakes and rivers](/tripideas/fresh-water-fishing-options-by-body-of-water) to choose from in Coos County, and [bay and ocean fishing](/tripideas/saltwater-fishing-ocean-bay). Come by boat, by foot, by kayak or by charter, the fish are biting.
+There are more than [30 freshwater lakes and rivers](https://www.oregonsadventurecoast.com/tripideas/fresh-water-fishing-options-by-body-of-water) to choose from in Coos County, as well as fantastic [bay and ocean fishing](https://www.oregonsadventurecoast.com/tripideas/saltwater-fishing-ocean-bay). And just as there are a wide variety of fish and fishing spots, so too are there lots of different ways to fish for them. Looking to paddle your kayak around a quiet fish-filled lake? We’ve got that. Want to cast a line for surfperch right off one of our beautiful beaches? No problem. Throw in a [crab pot](https://www.oregonsadventurecoast.com/crabbing-clamming/) or [dig for clams](https://www.oregonsadventurecoast.com/clamming/)? You got it. Thinking [charter boat fishing](https://www.oregonsadventurecoast.com/tripideas/saltwater-fishing-ocean-bay/) for tuna, rockfish, halibut or salmon? You’ll find that on Oregon’s Adventure Coast too.
 
-We’ve put together a [list of resources](/img/rackcard-fishing-03-18.pdf) that will be helpful in planning your trip. Be sure to visit one of our [bait shops](/equipment-rent-and-buy) while in the area, they’re always willing to share pointers with visiting anglers.
+We’ve also put together a [list of resources](https://www.oregonsadventurecoast.com/img/rackcard-fishing-03-18.pdf) that will be helpful in planning your trip. Be sure to visit one of our [bait shops](https://www.oregonsadventurecoast.com/equipment-rent-and-buy) while in the area; they’re always willing to share pointers with visiting anglers.
 
 ### Fishing License Requirements
 
