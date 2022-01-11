@@ -2,7 +2,7 @@
 title: Fishing by Style
 aliases: []
 url: "/fishing-by-style"
-photo: "/img/fishing-page-sub-header.jpg"
+photo: "/img/fishing-by-style-page-header.jpg"
 seo:
   description: 'On Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, the
     styles of fishing available are almost as varied as the fish and sea creatures
