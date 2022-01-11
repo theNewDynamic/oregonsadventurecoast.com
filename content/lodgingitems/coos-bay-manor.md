@@ -23,5 +23,6 @@ amenityList:
 coordinates:
   lat: '43.358852'
   lng: "-124.217908"
+draft: true
 
 ---
