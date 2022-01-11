@@ -118,10 +118,6 @@ build:
   preview_env:
   - HUGO_ENV=staging
   - HUGO_VERSION=0.91.2
-  - API_AUTH_ENDPOINT=https://otis.traveloregon.com/rest-auth/login/
-  - API_PASSWORD=OTISechoAPI
-  - API_USERNAME=API_OAC_EchoCreative
-  - BASE_URL=https://otis.traveloregon.com/api/v4/
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:node12
   mount_path: "/srv"
