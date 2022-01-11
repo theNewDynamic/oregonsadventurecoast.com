@@ -117,7 +117,7 @@ file_template: ":filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
-  - HUGO_VERSION=0.91.0
+  - HUGO_VERSION=0.91.2
   - GO_VERSION=1.16.5
   - HUGO_SECURITY_EXEC_OSENV=.*=
   preview_output_directory: public
