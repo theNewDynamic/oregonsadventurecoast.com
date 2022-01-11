@@ -119,6 +119,7 @@ build:
   - HUGO_ENV=staging
   - HUGO_VERSION=0.91.0
   - GO_VERSION=1.16.5
+  - HUGO_SECURITY_EXEC_OSENV=.*=
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:node12
   mount_path: "/srv"
