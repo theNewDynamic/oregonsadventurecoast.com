@@ -64,7 +64,7 @@ Open Seasonally: May 1st - September 30th
 
 {{< /columns >}}
 
-**_Note: please do not use this form for general inquiries or solicitations. Send those inquires to_** [**_info@oregonsadventurecoast.com_**](mail:info@oregonsadventurecoast.com)**_._**
+**_Note: please do not use this form for general inquiries or solicitations. Send those inquires to_** [**_info@oregonsadventurecoast.com_**](mailto:info@oregonsadventurecoast.com)**_._**
 
 <a name="contactform"></a>
 
