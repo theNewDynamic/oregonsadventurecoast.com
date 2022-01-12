@@ -27,10 +27,9 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
-## _Don’t Risk Missing Out on the Ultimate Oregon Coast Crab Experience! Get Your Tickets for the Charleston Crab Feed NOW!_
+**_Don’t Risk Missing Out on the Ultimate Oregon Coast Crab Experience! Get Your Tickets for the Charleston Crab Feed NOW!_**
 
 **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is known for scenic beauty and fantastic adventures, but did you know that February is one of the best months to get your fresh Oregon Dungeness crab fix?
 
@@ -95,5 +94,4 @@ You can also follow [Oregon’s Adventure Coast Facebook](https://www.facebook.c
 
 _As the developments with COVID-19 continue to unfold, please follow the direction of our public health authorities, including the CDC, Oregon Health Authority, and Coos Health & Wellness, to protect yourself, our community and our visitors. Face coverings are mandatory for all when inside a public space, AND outdoors when 6 ft distancing cannot be maintained. If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage you to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19._
 
-  
 _Visit the state’s_ [_**Safe+Strong Oregon **_](https://www.safestrongoregon.org/) _page for more information._
