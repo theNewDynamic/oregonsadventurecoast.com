@@ -56,20 +56,19 @@ masonry5:
   mobiletitle: Fishing
   url: "/fishing"
 masonry6:
-  desktopphoto: "/img/couple-shopping-desktop.jpg"
-  desktoptitle: Shopping
-  hoverdescription: Wander through our many shops and markets to buy gifts for your
-    friends.
-  hovertitle: Get Your Shopping On
-  mobilephoto: "/img/hm-mas-shopping-mobile.jpg"
-  mobiletitle: Shopping
-  url: "/shopping/"
+  desktopphoto: "/img/dunes-medium-masonry-desktop.jpg"
+  desktoptitle: Untamed Dunes
+  hoverdescription: OAC has the largest expanse of coastal sand dunes in North America.
+  hovertitle: Pulse-Pounding Adventure
+  mobilephoto: "/img/dunes-masonry-mobile-new.jpg"
+  mobiletitle: Untamed Dunes
+  url: "/atv-motorsports/"
 masonry7:
-  desktopphoto: "/img/crab-pot-toss-desktop-02.jpg"
+  desktopphoto: "/img/crabbing-desktop-masonry-v02.jpg"
   desktoptitle: Crabbing
   hoverdescription: 'Grab Your Gear! The year-round crabbing here is second to none.  '
   hovertitle: " Catch Your Fresh Dinner"
-  mobilephoto: "/img/hm-mas-crabbing-mobile.jpg"
+  mobilephoto: "/img/crabbing-mobile-masonry.jpg"
   mobiletitle: Crabbing
   url: "/crabbing-clamming/"
 seo:
