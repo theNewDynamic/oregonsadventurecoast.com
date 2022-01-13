@@ -16,7 +16,7 @@ tags:
 - 'Vistor Center '
 - Travel Guide
 - 'Oregon Travel '
-- "#PlanForVacation"
+- "PlanForVacation"
 categories:
 - Oregon's Adventure Coast News & Info
 seo:
