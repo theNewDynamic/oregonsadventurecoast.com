@@ -8,7 +8,7 @@ slideshow:
 - url: "/storm15"
   video:
     source: "/img/waves-web-960x540-spanish.mp4"
-    cover: "/img/storm-watching-spanish-hm-slider.jpg"
+    cover: "/img/storm-watching-home-video-placeholder.jpg"
   photo_mobile: "/img/storm-watching-mobile-spanish.jpg"
   photo: "/img/storm-watching-spanish-hm-slider.jpg"
 welcomeheadline: "¡Bienvenidos a Oregon’s Adventure Coast!"

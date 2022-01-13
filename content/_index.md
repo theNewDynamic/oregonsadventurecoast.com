@@ -12,7 +12,7 @@ slideshow:
   url: "/storm15"
   video:
     source: "/img/waves-web-slidertext2.mp4"
-    cover: "/img/best-storm-watching-15-offer-home-slider.jpg"
+    cover: "/img/storm-watching-home-video-placeholder.jpg"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
