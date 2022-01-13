@@ -25,9 +25,10 @@ masonry1:
 masonry2:
   desktopphoto: "/img/mtn-biking-masonry-large-desktop.jpg"
   desktoptitle: Year-Round Mountain Biking
-  hoverdescription: Whiskey Run Mountain Bike Trail is a heart-pounding mountain biking
-    adventure and a one-of-a-kind trail system on the Southern Oregon Coast.
-  hovertitle: Make Some Tracks
+  hoverdescription: A heart-pounding mountain biking adventure - choose your challenge
+    from nine, professionally planned and built, trail options for beginners, intermediates
+    and advanced riders.
+  hovertitle: Discover Whiskey Run
   mobilephoto: "/img/mtn-biking-masonry-mobile.jpg"
   mobiletitle: Year-Round Mtn Biking
   url: "/cycling/"
