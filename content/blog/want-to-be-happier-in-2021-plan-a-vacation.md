@@ -3,7 +3,7 @@ title: Want to Be Happier This Year? Plan Your Vacation Time Now!
 date: 2022-01-10T05:00:00+00:00
 description: 'If you want to be happier with your job, health and wellbeing, it’s
   time to start planning your next adventure. '
-image: "/img/plan-for-a-vacation-day-blog-695x322-jpg.png"
+image: "/img/happier-blog-post-header.jpg"
 tags:
 - National Plan a Vacation Day
 - U.S. Travel Association
