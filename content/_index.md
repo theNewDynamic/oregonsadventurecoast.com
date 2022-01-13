@@ -66,7 +66,7 @@ masonry6:
   mobiletitle: Shopping
   url: "/shopping/"
 masonry7:
-  desktopphoto: "/img/crabbing-desktop-masonry.jpg"
+  desktopphoto: "/img/crabbing-desktop-masonry-v02.jpg"
   desktoptitle: Crabbing
   hoverdescription: 'Grab Your Gear! The year-round crabbing here is second to none.  '
   hovertitle: " Catch Your Fresh Dinner"
