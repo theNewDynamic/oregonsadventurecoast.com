@@ -21,14 +21,15 @@ masonry1:
   mobiletitle: The Adventure Store
   url: "/shop/"
 masonry2:
-  desktopphoto: "/img/dunes-high-five-desktop.jpg"
-  desktoptitle: High-fivin' in the Dunes
-  hoverdescription: OAC has the largest expanse of coastal sand dunes in North America.
-    There are 40 miles of dunes, some tower over 500 feet above sea level.
-  hovertitle: Pulse-Pounding Adventure
-  mobilephoto: "/img/hm-mas-atving-mobile.jpg"
-  mobiletitle: High-fivin' in the Dunes
-  url: "/atv-motorsports/"
+  desktopphoto: "/img/mtn-biking-masonry-large-desktop.jpg"
+  desktoptitle: Year-Round Mountain Biking
+  hoverdescription: A heart-pounding mountain biking adventure - choose your challenge
+    from nine, professionally planned and built, trail options for beginners, intermediates
+    and advanced riders.
+  hovertitle: Discover Whiskey Run
+  mobilephoto: "/img/mtn-biking-masonry-mobile.jpg"
+  mobiletitle: Year-Round Mtn Biking
+  url: "/cycling/"
 masonry3:
   desktopphoto: "/img/kayaking-3-desktop.jpg"
   desktoptitle: Water Recreation
