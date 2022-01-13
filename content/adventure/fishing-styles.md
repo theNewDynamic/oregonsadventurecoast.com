@@ -14,7 +14,7 @@ On Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, the styles of f
 
 {{< spacer 25 >}}
 
-![Surf Fishing on Oregon's Adventure Coast](/img/fbs-surf-fishing-695-125.jpg)
+![Surf Fishing on Oregon's Adventure Coast](/img/fbs-surf-v02-695x125.jpg)
 
 **Surf –** Surf fishing is exactly what it sounds like – you’re casting a line into the surf and hoping for a bite. The most popular fish are surfperch, slim swimmers that usually hang out about 30 feet offshore. You can fish for them year-round, but spring and early summer about an hour or two before high tide is best. Surfperch fishing takes a sturdier setup, including a 9- to 11-foot rod that can handle a 2- to 6-ounce weight. Many local bait and tackle shops rent this gear. All kinds of bait works, but anglers have lots of luck with mole crabs, marine worms, sand shrimp and mussels. [Horsfall Beach](mailto:https://www.oregonsadventurecoast.com/undeveloped-beaches/), just outside North Bend, offers great spots for surfperch fishing, as does Bastendorff Beach in Charleston.
 
