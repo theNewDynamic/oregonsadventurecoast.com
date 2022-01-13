@@ -66,11 +66,11 @@ masonry6:
   mobiletitle: Shopping
   url: "/shopping/"
 masonry7:
-  desktopphoto: "/img/crab-pot-toss-desktop-02.jpg"
+  desktopphoto: "/img/crabbing-desktop-masonry.jpg"
   desktoptitle: Crabbing
   hoverdescription: 'Grab Your Gear! The year-round crabbing here is second to none.  '
   hovertitle: " Catch Your Fresh Dinner"
-  mobilephoto: "/img/hm-mas-crabbing-mobile.jpg"
+  mobilephoto: "/img/crabbing-mobile-masonry.jpg"
   mobiletitle: Crabbing
   url: "/crabbing-clamming/"
 seo:
