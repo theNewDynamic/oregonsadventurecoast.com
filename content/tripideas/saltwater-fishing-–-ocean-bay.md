@@ -19,7 +19,7 @@ tripadventures:
 image: "/img/saltwater-fishing-alt.jpg"
 
 ---
-Variety is the name of the game when it comes to fishing on Oregon’s Adventure Coast! The fun and sport of fishing builds memories of a lifetime. While here, it is worth exploring the different types of fishing, from shore, jetty and charter boat fishing to bridge and even kayak. Here are a few tips for your next fishing excursion.
+Variety is the name of the game when it comes to fishing on Oregon’s Adventure Coast! The fun and sport of fishing builds memories of a lifetime. While here, it is worth exploring the [different types of fishing](/fishing-by-style/), from shore, jetty and charter boat fishing to bridge and even kayak. Here are a few tips for your next fishing excursion.
 
 Most Pacific salmon fishing occurs April through November, and sportfishing seasons are regulated for Coho and Chinook salmon by state and federal agencies. Check with the Oregon Department of Fish & Wildlife for the most up to date [recreation report](https://myodfw.com/recreation-report). Local [tackle and bait shops](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/) are also great for local information about specific seasons, catch limits and conditions.
 
