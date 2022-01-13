@@ -33,13 +33,13 @@ masonry2:
   mobiletitle: Year-Round Mtn Biking
   url: "/cycling/"
 masonry3:
-  desktopphoto: "/img/kayaking-3-desktop.jpg"
-  desktoptitle: Water Recreation
-  hoverdescription: The best way to enjoy the area's beauty is on the water.
-  hovertitle: See Shore
-  mobilephoto: "/img/hm-mas-kayaking-mobile.jpg"
-  mobiletitle: Water Recreation
-  url: "/water-recreation/"
+  desktopphoto: "/img/hiking-desktop-masonry-01-22.jpg"
+  desktoptitle: Hiking
+  hoverdescription: The best way to enjoy the area's beauty is on foot.
+  hovertitle: Making Tracks
+  mobilephoto: "/img/hiking-mobile-masonry-01-22.jpg"
+  mobiletitle: Hiking
+  url: "/hiking-walking/"
 masonry4:
   desktopphoto: "/img/mother-child-museum-desktop.jpg"
   desktoptitle: Museums & History
