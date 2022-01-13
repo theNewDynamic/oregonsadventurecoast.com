@@ -23,14 +23,14 @@ masonry1:
   mobiletitle: The Adventure Store
   url: "/shop/"
 masonry2:
-  desktopphoto: "/img/dunes-high-five-desktop.jpg"
-  desktoptitle: High-fivin' in the Dunes
-  hoverdescription: OAC has the largest expanse of coastal sand dunes in North America.
-    There are 40 miles of dunes, some tower over 500 feet above sea level.
-  hovertitle: Pulse-Pounding Adventure
-  mobilephoto: "/img/hm-mas-atving-mobile.jpg"
-  mobiletitle: High-fivin' in the Dunes
-  url: "/atv-motorsports/"
+  desktopphoto: "/img/mtn-biking-masonry-large-desktop.jpg"
+  desktoptitle: Year-Round Mountain Biking
+  hoverdescription: Whiskey Run Mountain Bike Trail is a heart-pounding mountain biking
+    adventure and a one-of-a-kind trail system on the Southern Oregon Coast.
+  hovertitle: Make Some Tracks
+  mobilephoto: "/img/mtn-biking-masonry-mobile.jpg"
+  mobiletitle: Year-Round Mtn Biking
+  url: "/cycling/"
 masonry3:
   desktopphoto: "/img/kayaking-3-desktop.jpg"
   desktoptitle: Water Recreation
@@ -57,14 +57,13 @@ masonry5:
   mobiletitle: Fishing
   url: "/fishing"
 masonry6:
-  desktopphoto: "/img/couple-shopping-desktop.jpg"
-  desktoptitle: Shopping
-  hoverdescription: Wander through our many shops and markets to buy gifts for your
-    friends.
-  hovertitle: Get Your Shopping On
-  mobilephoto: "/img/hm-mas-shopping-mobile.jpg"
-  mobiletitle: Shopping
-  url: "/shopping/"
+  desktopphoto: "/img/dunes-medium-masonry-desktop.jpg"
+  desktoptitle: Untamed Dunes
+  hoverdescription: OAC has the largest expanse of coastal sand dunes in North America.
+  hovertitle: Pulse-Pounding Adventure
+  mobilephoto: "/img/dunes-masonry-mobile-new.jpg"
+  mobiletitle: Untamed Dunes
+  url: "/atv-motorsports/"
 masonry7:
   desktopphoto: "/img/crabbing-desktop-masonry-v02.jpg"
   desktoptitle: Crabbing
