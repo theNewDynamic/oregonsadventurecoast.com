@@ -49,4 +49,8 @@
 	{{ if eq (getenv "HUGO_ENV") "production" }}
 	<meta name="facebook-domain-verification" content="d60r78hv13z9t4u6ynr4pq0bbt5gbz" />
 	{{ end }}
+	{{ partial "script" "entries" }}
+	{{ with .Params.instantsearch }}
+		{{ partial "tnd-search/instantsearch/tags" (slice .) }}
+	{{ end }}
 </head>

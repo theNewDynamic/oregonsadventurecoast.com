@@ -40,3 +40,108 @@ tnd_socials:
   - name: tiktok
     handle: oregonsadventurecoast
     url: https://www.tiktok.com/@oregonsadventurecoast?lang=en
+tnd_search:
+  template_storage: 
+    templates_menu_item: &templates_menu_item
+      | 
+      <a href="{{url}}" class="refinement-item" style="{{#isRefined}}font-weight: bold{{/isRefined}}">
+        {{#lodging}}<span class="icon-lodging {{id}}"></span>{{/lodging}}<span>{{label}} ({{count}})</span>
+      </a>
+
+  service: meili
+  instantsearch:
+  - name: lodging
+    indexName: lodging
+    appId: https://ms-f3fd9122c128-118.saas-nyc.meili.dev
+    apiKey: ec82d24790da484ef22f185eac5f04c22016f58bf4857afcec6c88d8363e72d2
+    hitsPerPage: 1000
+    widgets:
+    - name: clearRefinements
+      container: '#clear'
+      classes:
+        button: clear-button
+      includeAttributes: ['category', 'city', 'amenities']
+    - name: refinementList
+      container: '#menu-city'
+      attribute: city
+      js: js_menu
+      classes:
+        list: reset-list
+      templates:
+        item: *templates_menu_item
+    - name: refinementList
+      container: '#menu-category'
+      attribute: category
+      js: js_menu
+      classes:
+        list: reset-list
+      templates:
+        item: *templates_menu_item
+    - name: menu
+      container: '#menu-amenities'
+      attribute: amenities
+      js: js_amenities
+      classes:
+        list: reset-list
+      templates:
+        item: *templates_menu_item
+    #- name: pagination
+    #  scrollTo: false
+    #  classes:
+    #    root: grid-pagination
+    - name: hits
+      js: hits
+      classes:
+        root: 'lodging-list'
+        list: 'm-grid'
+        item: 'm-lodging-item'
+      templates:
+        item: |
+          <div class="photo" style="background-image:url({{image}});" alt="{{title}}">
+          </div>
+
+          <div class="content marker-content">
+            <div class="category">
+              {{category}}
+            </div>
+            <div class="location">
+              <h2>{{title}}</h2>
+              <p class="address">
+                {{street}}<br>
+                {{city}}, {{state}} {{zip}}<br>
+                {{#phone_links}}
+                {{{.}}}
+                {{/phone_links}}
+              </p>
+            </div>
+            <div class="description">
+                <strong>
+                Units: {{units}} • {{cost}}: 
+                </strong>
+                {{description}}
+            </div>
+            <div class="m-lodging-item__footer">
+              <div class="amenities">
+                <div class="amenity-list clearfix">
+                  <ul>
+                  {{#amenities}}
+                    <li class="icon-lodging {{.}}"></li>
+                  {{/amenities}}
+                  </ul>
+                </div>
+              </div>
+              <div class="links clearfix">
+                {{#map_link}}
+                <span class="map"><a href="{{map_link}}" target="_blank"><span class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></span> Map</a></span>
+                {{/map_link}}
+                {{#website}}
+                <span class="website "><a href="{{website}}" target="_blank"><span class="icon"><i class="fas fa-globe" aria-hidden="true"></i></span> Website</a></span>
+                {{/website}}
+              </div>
+            </div>
+          </div>
+    - name: geoSearch
+      js: map
+      classes:
+        redo: hidden
+      container: '#map'

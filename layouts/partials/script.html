@@ -4,18 +4,7 @@
 {{ $style := resources.Get "js/initMap.js" | resources.Minify }}
 <script src="{{ $style.Permalink }}"></script>
 {{ end }}
-{{ with partialCached "func/GetAssetSRC" . . }}
-  <script 
-    type="text/javascript" src="{{ .js }}"
-    defer
-    crossorigin="anonymous"
-    {{ with .jsIntegrity }}
-    integrity="{{ . }}"
-    {{ end }}
-  ></script>
-{{ else }}
-  <script type="text/javascript" src="{{ . }}" ></script>
-{{ end }}
+
 {{ if eq "entries" . }}
 {{ $mapKey := "" }}
 {{ with getenv "GOOGLE_MAP_API" }}
@@ -25,6 +14,6 @@
     {{ $mapKey = . }}
   {{ end }}
 {{ end }}
-<script async defer src="https://maps.googleapis.com/maps/api/js?key={{ $mapKey }}&callback=initMap"
+<script src="https://maps.googleapis.com/maps/api/js?=js?v=quarterly&key={{ $mapKey }}"
 type="text/javascript"></script>
 {{ end }}

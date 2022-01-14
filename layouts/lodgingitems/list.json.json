@@ -1,5 +1,5 @@
-{{- $entries := slice -}}
-{{- range .Data.Pages -}}
-{{- $entries = $entries | append (partial "transformers/lodgingitem" .) -}}
+{{- with apply .Data.Pages "partial" "transformers/lodgingitem" "." -}}
+{{- with where . "_geo" "!=" nil -}}
+{{- . | jsonify -}}
 {{- end -}}
-{{ $entries | jsonify }}
+{{- end -}}

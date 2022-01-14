@@ -3,3 +3,4 @@ imports:
   - path: github.com/theNewDynamic/hugo-module-tnd-snipcart
   - path: github.com/theNewDynamic/hugo-module-tnd-func
   - path: github.com/theNewDynamic/hugo-module-tnd-socials
+  - path: github.com/theNewDynamic/hugo-module-tnd-search

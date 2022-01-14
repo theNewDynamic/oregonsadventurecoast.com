@@ -11,7 +11,13 @@
     {{ partial "func/GetLodgingAmenity" . }}
 */}}
 {{ $return := false }}
-{{ $amenityString := . }}
+{{ $amenityString := $ }}
+{{ if reflect.IsMap $ }}
+    {{ $amenityString = "" }}
+    {{ with .amenitySelect }}
+        {{ $amenityString = string . }}
+    {{ end }}
+{{ end }}
 {{ with $amenityString }}
     {{ if eq (substr . 0 1) "1"}}
         {{ $return = "restaurant" }}

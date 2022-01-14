@@ -1,15 +1,19 @@
 
+.m-grid{
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
 .lodging-list:not(.-view-as-list) .m-grid, 
 .equipment .m-grid,
 .tourcharters .m-grid{
     @media (min-width:$small){
         display:grid;
         grid-template-columns:repeat(2, 1fr);
-        grid-gap:20px;
+        grid-gap:1rem;
     }
     @media (min-width:$medium){
         grid-template-columns:repeat(3, 1fr);
-        grid-gap:40px;
     }
 }
 
@@ -17,7 +21,6 @@
     border: 1px solid #d3d3d3;
     overflow: hidden;
     border-radius: 6px;
-    margin-bottom:20px;
     position: relative;
     padding-bottom:50px;
     #lodging-output & {
@@ -158,36 +161,7 @@
     height: 20px;
     margin-right: 5px;
 }
-.m-lodging-item .amenity-list .restaurant {
-    background-image: url('/layout-images/amenity-key-icons/icon-restaurant.png');
-}
-.m-lodging-item .amenity-list .fitness {
-    background-image: url('/layout-images/amenity-key-icons/icon-fitness.png');
-}
-.m-lodging-item .amenity-list .pet {
-    background-image: url('/layout-images/amenity-key-icons/icon-pet.png');
-}
-.m-lodging-item .amenity-list .kitchens {
-    background-image: url('/layout-images/amenity-key-icons/icon-kitchens.png');
-}
-.m-lodging-item .amenity-list .handicap {
-    background-image: url('/layout-images/amenity-key-icons/icon-handicap.png');
-}
-.m-lodging-item .amenity-list .breakfast {
-    background-image: url('/layout-images/amenity-key-icons/icon-breakfast.png');
-}
-.m-lodging-item .amenity-list .pool {
-    background-image: url('/layout-images/amenity-key-icons/icon-pool.png');
-}
-.m-lodging-item .amenity-list .wifi {
-    background-image: url('/layout-images/amenity-key-icons/icon-wifi.png');
-}
-.m-lodging-item .amenity-list .meeting {
-    background-image: url('/layout-images/amenity-key-icons/icon-meeting.png');
-}
-.m-lodging-item .amenity-list .chamber {
-    background-image: url('/layout-images/amenity-key-icons/icon-chamber.png');
-}
+
 
 /* Links */
 .m-lodging-item .links {

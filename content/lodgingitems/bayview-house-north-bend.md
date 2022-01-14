@@ -20,9 +20,6 @@ address:
 phone_local: ''
 phone_toll_free: ''
 website: https://abnb.me/qjG1LODMj8
-coordinates:
-  lat: ''
-  lng: ''
 seo:
   title: Bayview House with stunning views
   description: Bayview House offers stunning views of Coos Bay.
