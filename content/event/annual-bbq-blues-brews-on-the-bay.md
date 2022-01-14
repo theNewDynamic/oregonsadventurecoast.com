@@ -26,6 +26,8 @@ seo:
   image: "/img/bbq-blues-event-medium.jpg"
 
 ---
+![](/img/2022-bbq-blues-logo-horizontal-long-no-date.jpg)
+
 **Get ready for the return of lip-smackin' BBQ, incredible brews, and smokin' hot tunes. Memorial Weekend 2022, May 28-29.**
 
 The Mill's BBQ, Blues & Brews on the Bay has grown into one of The Mill's most attended events. Finger-lickin' good barbecue, hand-crafted beers, and smokin’ hot tunes at the BBQ, Blues & Brews on the Bay, Memorial Day Weekend. Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, May 28-29, 2022 at The Mill Casino • Hotel & RV Park.
