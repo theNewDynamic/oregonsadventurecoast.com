@@ -4,8 +4,25 @@ date: 2022-01-15T05:00:00+00:00
 description: Gear Up for Year-Round Mountain Biking on the Whiskey Run Mountain Bike
   Trails!
 image: "/img/mountain-biking-blog-695x322-jpg.png"
-tags: []
-categories: []
+tags:
+- Mountain Biking
+- Oregon Coast Mountain Biking
+- Whiskey Run Mountain Bike Trails
+- Year Round Mountain Biking
+- Pacific Northwest
+- 'Oregon Coast '
+- 'Oregon''s Adventure Coast '
+- Coos Bay
+- North Bend
+- Charleston Oregon
+- Tourism
+- Oregon Travel
+- Travel Oregon
+- 'Oregon''s Southern Coast '
+- 'Oregon''s South Coast '
+- Outdoor Adventures
+categories:
+- Outdoor Adventures
 seo:
   title: ''
   description: ''
