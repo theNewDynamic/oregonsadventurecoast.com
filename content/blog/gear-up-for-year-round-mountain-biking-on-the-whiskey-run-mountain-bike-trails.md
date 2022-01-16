@@ -38,11 +38,15 @@ Has winter snow and rain dampened your mountain biking prospects? Many mountain 
 
 Our temperate coastal weather brings mountain bikers from all over the Pacific Northwest to ride [Whiskey Run Mountain Bike Trails](https://www.trailforks.com/region/whiskey-run-trails-21273/?activitytype=1&z=12.4&lat=43.21305&lon=-124.36649) on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. It’s not only one of the most prized biking trails in our region, it's one of the few in the state of Oregon that are open year-round!
 
-{{< youtube "[Z-83k7KWCEM](https://www.youtube.com/watch?v=Z-83k7KWCEM "https://www.youtube.com/watch?v=Z-83k7KWCEM")" >}}
+![](/img/mikah-meyer-mountain-biking.png)
 
 Returning to nature and outdoor activities is one of the best ways to stay grounded and healthy. This beautifully maintained, one-of-a-kind trail system is the perfect way to get outside and get moving. [Whiskey Run Mountain Bike Trails](https://www.trailforks.com/region/whiskey-run-trails-21273/?activitytype=1&z=12.4&lat=43.21305&lon=-124.36649) are known among mountain biking enthusiasts as top-notch trails full of moderate climbs and fun descents which can be ridden all year long due to the area's loamy soil composition. Riders are treated to sweeping views of the coastal forest, tranquil streams, and fern covered floors that can only be experienced on Oregon’s South Coast.
 
 The trail system flows and winds seamlessly through the misty Coos County forest on cross-country style trails for more than 30. Whiskey Run is also one of the best mountain biking trail systems in the state for beginner, intermediate, and advanced riders, with nine professional planned and built options to choose from.
+
+We could say more, or you can watch our new video: 
+
+ {{< youtube "[Z-83k7KWCEM](https://www.youtube.com/watch?v=Z-83k7KWCEM "https://www.youtube.com/watch?v=Z-83k7KWCEM")" >}}
 
 The Whiskey Run Mountain Bike Trail system is located about 10 minutes south of Coos Bay off Highway 101. Though the professionally built trails are made to withstand the coast’s weather, it is not recommended that you ride if trails are muddy. Check trail reports or call local shops or guide services for current conditions.
 
