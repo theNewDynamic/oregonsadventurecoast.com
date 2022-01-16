@@ -45,10 +45,6 @@ Returning to nature and outdoor activities is one of the best ways to stay groun
 
 The trail system flows and winds seamlessly through the misty Coos County forest on cross-country style trails for more than 30. Whiskey Run is also one of the best mountain biking trail systems in the state for beginner, intermediate, and advanced riders, with nine professional planned and built options to choose from.
 
-We could say more, or you can watch our new video:
-
-{{< youtube "[Z-83k7KWCEM](https://www.youtube.com/watch?v=Z-83k7KWCEM "https://www.youtube.com/watch?v=Z-83k7KWCEM")" >}}
-
 The Whiskey Run Mountain Bike Trail system is located about 10 minutes south of Coos Bay off Highway 101. Though the professionally built trails are made to withstand the coast’s weather, it is not recommended that you ride if trails are muddy. Check trail reports or call local shops or guide services for current conditions.
 
 You can read more about the Whiskey Run Mountain Biking Trails on [Northwest Travel & Life](https://nwtravelmag.com/hit-the-whiskey-run-mountain-biking-trails-near-coos-bay-oregon/). Other local destinations for avid mountain bikers to explore include-
