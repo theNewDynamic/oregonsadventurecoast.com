@@ -15,7 +15,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 Has winter snow and rain dampened your mountain biking prospects? Many mountain biking trails in Oregon are forced to close each winter due to snow, rain, ice and other elements - but not all. If you think you have to hang up your mountain bike for the winter, think again!
@@ -23,8 +22,6 @@ Has winter snow and rain dampened your mountain biking prospects? Many mountain 
 Our temperate coastal weather brings mountain bikers from all over the Pacific Northwest to ride [Whiskey Run Mountain Bike Trails](https://www.trailforks.com/region/whiskey-run-trails-21273/?activitytype=1&z=12.4&lat=43.21305&lon=-124.36649) on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. It’s not only one of the most prized biking trails in our region, it's one of the few in the state of Oregon that are open year-round!
 
 {{< youtube "[Z-83k7KWCEM](https://www.youtube.com/watch?v=Z-83k7KWCEM "https://www.youtube.com/watch?v=Z-83k7KWCEM")" >}}
-
-EMBED VIDEO [https://www.youtube.com/watch?v=Z-83k7KWCEM](https://www.youtube.com/watch?v=Z-83k7KWCEM "https://www.youtube.com/watch?v=Z-83k7KWCEM")
 
 Returning to nature and outdoor activities is one of the best ways to stay grounded and healthy. This beautifully maintained, one-of-a-kind trail system is the perfect way to get outside and get moving. [Whiskey Run Mountain Bike Trails](https://www.trailforks.com/region/whiskey-run-trails-21273/?activitytype=1&z=12.4&lat=43.21305&lon=-124.36649) are known among mountain biking enthusiasts as top-notch trails full of moderate climbs and fun descents which can be ridden all year long due to the area's loamy soil composition. Riders are treated to sweeping views of the coastal forest, tranquil streams, and fern covered floors that can only be experienced on Oregon’s South Coast.
 
