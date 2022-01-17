@@ -18,7 +18,7 @@ property_description: Experience Red Lion's signature blend of comfort and conve
   mere blocks from the bay. Spread out in comfortable rooms that feature plush pillow-top
   beds, free Wi-Fi and HBO. Brickstone offers delicious dinners and Red Lion's Signature
   breakfast.
-website: https://www.redlion.com/coos-bay
+website: https://www.redlion.com/red-lion-hotels/or/coos-bay/red-lion-hotel-coos-bay
 amenityList:
 - 5 - Pet Friendly
 - 6 - WiFi Available
