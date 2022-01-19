@@ -6,8 +6,11 @@ seo:
   description: Find special events throughout the Oregon Coast during your trip! From
     seasonal and holiday events to live music and more, the fun is infectious!
   title: Oregon Coast Trips - Events | Oregon's Adventure Coast
+aliases:
+- "/Event"
+- "/event"
 
 ---
 {{< spacer 100 >}}
 
-### 
+###
