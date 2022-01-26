@@ -7,12 +7,12 @@ property_category: 4 - Vacation Rental Homes
 address:
   street: 
   street2: 
-  city: Coos Bay
+  city: Allegany
   state: OR
   zip: '97420'
 phone_toll_free: 
 phone_local: 
-units: '1'
+units: 1
 cost: 3 - $$$
 property_description: Relax and revive in this artistic 'cabin' with wonderful views
   of historic Glenn Creek from every room. Nestled amongst towering fir and cedar
