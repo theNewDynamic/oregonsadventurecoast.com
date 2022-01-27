@@ -23,7 +23,7 @@ amenityList:
 - 6 - WiFi Available
 - 7 - Kitchens Available
 coordinates:
-  lat: '43.464979'
-  lng: "-123.946061"
+  lat: '43.425954'
+  lng: "-124.032326"
 
 ---
