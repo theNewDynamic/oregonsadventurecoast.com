@@ -1,7 +1,7 @@
 ---
 title: Board of Directors
 url: board-of-directors
-layout: press-media-industry
+layout: open-meetings
 photo: "/img/undeveloped-beaches-sub-header.jpg"
 seo:
   description: ''
