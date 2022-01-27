@@ -7,7 +7,7 @@ property_category: 4 - Vacation Rental Homes
 address:
   street: 
   street2: 
-  city: Alleghany
+  city: Allegany
   state: OR
   zip: 97407
 phone_toll_free: 
@@ -20,8 +20,11 @@ property_description: Hideout in a coastal forest. Built in the 60's as a fishin
   Close to Coos Bay.
 website: https://www.airbnb.com/rooms/6306066
 amenityList:
-- amenitySelect: 5
-- amenitySelect: 6
-- amenitySelect: 7
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 7 - Kitchens Available
+coordinates:
+  lat: '43.379822'
+  lng: "-124.125839"
 
 ---
