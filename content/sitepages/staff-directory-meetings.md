@@ -1,7 +1,7 @@
 ---
 title: Staff Directory Meetings
 url: staff-directory-meetings
-layout: press-media-industry
+layout: open-meetings
 photo: "/img/undeveloped-beaches-sub-header.jpg"
 seo:
   description: ''
