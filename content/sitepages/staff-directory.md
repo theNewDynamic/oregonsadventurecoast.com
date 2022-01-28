@@ -29,4 +29,4 @@ Marketing Admin
 [allison@oregonsadventurecoast.com](mailto:allison@oregonsadventurecoast.com)
 
 ![](/img/staff-masks.jpg)  
-_VCB Staff modeling our new crab mascot masks. From Left to Right, Cheryl Crockett, Allison Richards, Janice Langlinais_
+_VCB Staff modeling our crab mascot masks. From Left to Right, Cheryl Crockett, Allison Richards, Janice Langlinais_
