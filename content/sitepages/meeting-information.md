@@ -1,6 +1,6 @@
 ---
 title: Meeting Information
-url: board-of-directors
+url: meeting-information
 layout: open-meetings
 photo: "/img/undeveloped-beaches-sub-header.jpg"
 seo:
@@ -12,4 +12,4 @@ date: '2019-02-18T19:35:33.000+00:00'
 draft: true
 
 ---
-#### **Coos Bay-North Bend Visitor & Convention Bureau Board of Directors**
+#### **Meeting Information: Coos Bay-North Bend Visitor & Convention Bureau**
