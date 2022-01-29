@@ -12,11 +12,9 @@ date: '2019-02-18T19:35:33.000+00:00'
 draft: true
 
 ---
-#### **About The Coos Bay-North Bend Visitor & Convention Bureau**
+#### **The Coos Bay-North Bend Visitor & Convention Bureau (VCB)** 
 
-{{< spacer 50 >}}
-
-**The Coos Bay-North Bend Visitor & Convention Bureau (VCB)** was created through an Intergovernmental Agreement (IGA) between the City of Coos Bay, the City of North Bend, and the Coquille Indian Tribe. The IGA is the Governing Document of the VCB. A Board of Directors oversees the Policies and Activities of the VCB.
+was created through an Intergovernmental Agreement (IGA) between the City of Coos Bay, the City of North Bend, and the Coquille Indian Tribe. The IGA is the Governing Document of the VCB. A Board of Directors oversees the Policies and Activities of the VCB.
 
 The VCB’s primary mission is to promote the Coos Bay, North Bend & Charleston areas as **_Oregon’s Adventure Coast_** to encourage tourism to the area, and, therefore, economic vitality from tourism.
 
