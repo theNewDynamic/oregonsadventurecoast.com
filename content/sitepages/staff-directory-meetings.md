@@ -1,5 +1,5 @@
 ---
-title: Staff Directory Meetings
+title: Staff Directory
 url: staff-directory-meetings
 layout: open-meetings
 photo: "/img/undeveloped-beaches-sub-header.jpg"
@@ -12,7 +12,6 @@ date: '2019-02-18T19:35:33.000+00:00'
 draft: true
 
 ---
-#### **Coos Bay-North Bend Visitor & Convention Bureau Staff Directory**
 
 **Janice Langlinais**  
 Executive Director  
