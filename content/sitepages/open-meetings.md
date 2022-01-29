@@ -32,4 +32,8 @@ On occasion, changes are made to this schedule. To be informed of meeting times/
 
 {{< spacer 50 >}}
 
-We no longer print board packets, though agendas will be available for those who attend in person. Board Packets for those wishing to attend the meeting will be available in a special [**Google Drive Folder**](https://drive.google.com/drive/folders/1OZvnu7mJjgkQspZnEG-Ab3wPahsx0O-Q?usp=sharing)**.** These packets are generally available within two business days of the meeting. Previous monthly packets are available in this folder beginning with January 2022.
+#### Board Packets
+
+We no longer print board packets. Agendas will be available for those who attend meetings in person. 
+
+**Board Packets** will be available in a special [**Google Drive Folder**](https://drive.google.com/drive/folders/1OZvnu7mJjgkQspZnEG-Ab3wPahsx0O-Q?usp=sharing)**.** These packets are generally available within two business days of the meeting. Previous monthly packets are available in this folder beginning with January 2022.
