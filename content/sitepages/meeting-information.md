@@ -1,5 +1,5 @@
 ---
-title: Meeting Information
+title: About the VCB
 url: meeting-information
 layout: open-meetings
 photo: "/img/undeveloped-beaches-sub-header.jpg"
@@ -12,16 +12,73 @@ date: '2019-02-18T19:35:33.000+00:00'
 draft: true
 
 ---
-#### **Meeting Information: Coos Bay-North Bend Visitor & Convention Bureau**
+#### **About The Coos Bay-North Bend Visitor & Convention Bureau**
 
-As alictem peliberspis min erorro te officilic to volut quo omnihit atinus, aboresequi res velibus eicae. Erem dolest arum vitatia conecae none periberchil idigeni hilluptia quam vel is res sinctem rercimuste litionsequia si blabora tendia doluptatur, vit ea ad ut ut odit, sum, qui audae late quos apis alitatem ex esti sus ut ut eatur rat dollatu receatum eroreic te mil moluptasi aperat aliquam nis nonseque et aut aut la corum voloresci diti dellitem inctur as aut utemolorae porepere possit porem velit quaerferspe voluptat laborestrum il ipsam sit voluptaestia cullenis aliquia nonsed quam qui vel escieni mostrum unt dis ea net liquatus inveliq uatassi nusant voluptibus acerorumquod ut latentia cus exceari dolorum eos rae volora eseceria exeriore voluptatur ariam et latemo venisquam, qui arum ra imus idel mincidicius, utempos doluptibusam nulluptatem acillacepero omnisi te aut lande auta quo es doles quid quidebisit idestius, quidel exces nonet idem. Nem asperrovit harchic te doluptatur? Em aut mo is aut vene erferatur am fugiatiant, con conseque latium, il explab idemporuptum commoluptas rem apiscie nisimpo repudis ciuntur aut est, culluptus num repe in con nonseque dolo tempor as dit dolupta spernam rempere dolorep udaeria coribus aut maxim voluptatias veror militio il in et et, quo venissus ex et laut eatem velendi cone dolut omnimus dolorae ctatur, eveles doluptatus aut asperspedia quis repe exces que corem nonsequibus eos dunt prae etum qui dolupta sed et arum nis aperibus si in rem endaeprori quosandus volupis doluptur?
+**The Coos Bay-North Bend Visitor & Convention Bureau (VCB)** was created through an Intergovernmental Agreement (IGA) between the City of Coos Bay, the City of North Bend, and the Coquille Indian Tribe. The IGA is the Governing Document of the VCB. A Board of Directors oversees the Policies and Activities of the VCB.
 
-Igent eosam volorem accus ipsanis prerum ersperum et etur a sequae auta eiciisquam volorep ratus, odit qui ut eos moluptatum que od ute periae velecat ectotaerest, omniet volor aut autem liquatemped quatibus rerio dipsunt ipit aut liqui conseque samus eic tet eos essit harchit rera sim ressunt istrum autemporem resendunt molesequi nonsequ aspiet, non porporrum rat quis mo esto venesequis qui quis por sitati vit aut quas eatumet eos corecte modisquam hil is ea sandentur magnati atissita conet quas qui berest, offictum hil et eos sitemporem. Ut et quissus qui dolo que cus, aut maio. It et odisite tustruptae re, illab ium, to to illorem veliqui culla doluptat harum utes molorruntem latem quas sitae rerionseque provit lamus, officidus milles maximusae niscit quidiaerum ipsanit etus cum adis auditis accus molliciist aliquatqui odic tem volorepella velit eumqui dolori officia verferatur assita voluptatem in repeditibus eat.
+The VCB’s primary mission is to promote the Coos Bay, North Bend & Charleston areas as **_Oregon’s Adventure Coast_** to encourage tourism to the area, and, therefore, economic vitality from tourism.
 
-Me occum fuga. Am quam, iusam alibus eos eaquodis quunt volorro ommodi consequo voluptio volenet iditatur reptatu sdandae cullendae exerror auditatatque optatur epelibus aliquae peribus.
+As per the IGA, the Board of Directors of the VCB is made up of one (1) representative from each of the IGA Partners, plus one (1) Chamber of Commerce representative and one (1) Lodging Industry representative. **Click here for more information about the VCB Board.**
 
-Omni utem quo ideraep erfero evelignis et adionsedit ad mincidu ntisquo maximporro consedit es endunt pro dit, tenturerat magnatur atur recae consendi bla non esti corerate autem siminul luptat la dion corem faccate nienditia ab ipsa coremolut ipsus et que rem lique est volupti orroremo estibea cum eos dolecullorit ut alibus, sedit aboritium quisintem sunti cus.
+**THE VCB:**
 
-Accus veliquam quiatia sinvent ate excesentis re cume sequosam, que moluptatur?
+* **IS SOLELY FUNDED THROUGH LODGING TAXES COLLECTED BY THE CITY OF COOS BAY, THE CITY OF NORTH BEND, AND THE COQUILLE INDIAN TRIBE AT 9.5% OF ROOM RATE**
 
-Ihictinis alis di omnimendis alibus modiciendit volecese ommolum volupti atiuntiur aut milicil magnamet liquod que nos qui intius, que necerat ionsedi gnaturi busapiendis et qui vellatur? Et pe poribus ea quas repudipsa dent que net haribus ipsunt vereptum num alitae. Ucipsum res nobis es ad minti ommolorit isquis volupta epudit dolorrum nis eveliquam hilibere estrum nobis prera vendellaccus doluptaquod ma ipsus nia nihicit iorepedis dis dolore enitas et laces exceaquas vel illenim agnam, optatiisi tempos quis dolorrum
+
+* **Receives a portion of the lodging tax funds collected by the three IGA partners, equating to approximately 39% of all lodging taxes collected, to accomplish its goals. The three taxing entities retain the remaining lodging taxes**
+
+
+* **Is restricted on what projects/expenditures it can spend this lodging tax funding by State of Oregon Law**
+
+
+* Allowed expenditures from Lodging Tax funding by VCB:
+
+1. Tourism Promotion and Marketing to encourage visitors to the destination and the administrative costs to accomplish this.
+
+
+1. Tourism Facilities, such as a Visitor Information Center or Conference Center
+
+**THE VCB’S TOURISM PROMOTION BUDGET IS SPLIT BETWEEN PROMOTION AND ADMINISTRATION**
+
+* **BUDGETED EXPENDITURES FOR PROMOTION FOR FISCAL YEAR 2022, INCLUDING THE SUPPLEMENTAL BUDGET APPROVED IN DECEMBER 2022, INCLUDE:**
+
+
+* Advertising = $552,000 *
+* Local Advertising = $47,000 *
+* Media Familiarization Trips to the Area = $8,000
+* Trade Shows and Conventions = $29,000
+* Printing and Postage of materials = $34,000
+* Other Projects = $52,000 **
+* Website = $25,000
+
+
+* **TOTAL PROMOTIONAL & MARKETING EXPENDITURES = $747,000 or approximately 80% of our budget**
+
+_* Note: all advertising must be outside the 50-mile radius of the destination as per state law. Local Advertising is dedicated to advertising local events such as the Crab Feed and Holiday Lights to those outside the 50-mile radius. This shows our dedication to supporting the events held in our communities._
+
+_** The VCB offers small grants to new endeavors and new events with a high propensity to bring Visitors to the area. Contact the VCB for more information._
+
+* **BUDGETED EXPENDITURES FOR ADMINISTRATION INCLUDE:**
+
+
+* Staff and Contractors = $199,000
+* Memberships = $4,000
+* Telephone, Internet, Audit, Insurance, Office Supplies etc = $17,500
+
+
+* **TOTAL ADMINISTRATIVE EXPENDITURES = $220,500 or approximately 20%**
+
+**THE VCB’S BUDGET FOR TOURISM FACILITIES CURRENTLY COVERS THE COST OF MANAGING THE COOS BAY VISITOR INFORMATION CENTER. THE CITY OF COOS BAY REMITS ADDITIONAL FUNDING TO THE VCB TO COVER THESE COSTS:**
+
+* **BUDGETED EXPENDITURES FOR THE COOS BAY VISITOR INFORMATION CENTER INCLUDE:**
+
+
+* Staff = $51,000
+* Merchandise plus Sales Fees = $23,500
+* Facilities Cost (utilities, janitorial supplies, etc) = $12,000
+* Training, Insurance, Volunteer Expenses, Office Supplies etc = $12,600
+
+
+* **TOTAL ADMINISTRATIVE EXPENDITURES = $99,100**
+
+**The VCB’s Budget for Fiscal Year 2022 is $1,247,000 for all the above expenditures.** Some funding is set aside for Contingency (approximately $118,000), as well.
