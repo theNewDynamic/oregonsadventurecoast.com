@@ -20,13 +20,13 @@ website: http://www.prefontainerun.com
 ---
 {{< floatimage src="/img/prefontaine-run.large.jpg" float="none" alt="Prefontaine Runners" size="68" >}}
 
-**We anticipate the Prefontaine Memorial Run will be held in September 2022.**
+**We anticipate the Prefontaine Memorial Run will be held in September 2022. CONFIRMATION COMING SOON!!**
 
 A rolling and challenging course, this 10K road race honors one of America’s greatest distance runners, Steve Prefontaine. Event includes the 10K run and a 2M walk. Hilly, out and back.
 
 Part of the annual Bay Area Fun Fest, September 17-18, 2022.
 
-[Registration available online](http://www.prefontainerun.com/).
+Registration available online. (COMING SOON)
 
 #### Here are the other exciting events happening this weekend!
 
