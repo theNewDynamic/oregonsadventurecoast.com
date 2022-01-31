@@ -1,16 +1,16 @@
 ---
-title: Annual Cruz The Coos - CANCELED
+title: Annual Cruz The Coos
 photo: "/img/cruz-coos-2048x530.jpg"
 largeboxphoto: "/img/cruz-the-coos-large.jpg"
 mediumboxphoto: "/img/cruz-the-coos-medium.jpg"
 smallboxphoto: "/img/cruz-the-coos-small.jpg"
-desktoptitle: Annual Cruz The Coos - CANCELED
-mobiletitle: Cruz The Coos - CANCELED
-hovertitle: Cruz The Coos - CANCELED
+desktoptitle: Annual Cruz The Coos
+mobiletitle: Cruz The Coos
+hovertitle: 'Cruz The Coos '
 hoverdescription: One of the longest-running and largest classic car cruises on the
   Oregon Coast
-startdate: '2021-09-18T10:00:00.000+00:00'
-enddate: '2021-09-18'
+startdate: '2022-09-16'
+enddate: '2022-09-17'
 address:
   city: Coos Bay
   state: OR
@@ -22,9 +22,15 @@ website: https://cruzthecoos.com/
 ---
 ![](/img/cruz-coos-768x512.jpeg)
 
-**Due to the recent sharp increase in COVID-19 cases in the Coos Bay area, Rotary officials have canceled this year's Cruz the Coos** event out of concern for the health and well-being of our residents and visitors.
+**The Coos Bay-North Bend Rotary Club is proud to present the Annual Cruz the Coos and Show ‘n Shine as part of the Bay Area Fun Festival.** 
 
-**We look forward to welcoming this event back in 2022!**
+Cruz the Coos is one of the **longest-running and largest classic car cruises** on the Oregon Coast. It runs through the streets of downtown Coos Bay and is enjoyed by thousands of spectators. 
+
+**The Show ‘n Shine** is an opportunity to see vintage cars and trucks that have been beautifully restored. Talk with the owners and visit restaurants and amenities offered at The Mill Casino Hotel and RV Park. 
+
+**Proceeds generated from entry fees are put to use by the Rotary club to fund projects throughout the area including scholarships, humanitarian efforts, and other non-profit organizations in the community.** 
+
+While you’re in the area, enjoy the **Bay Area Fun Festival**, one of the largest festivals on the Oregon Coast. The festival not only features the Cruz and Show ‘n Shine but the **Prefontaine Memorial 10K Run**, Street Vendors, a parade, and much more.
 
 #### 
 
