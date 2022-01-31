@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+{{ partial "featurePhoto" (dict "photo" .Params.photo) }}
+
+<div class="g-wrap clearfix">
+    <div class="m-standard-nav">
+        <h3>Open Meetings</h3>
+    
+        <ul>
+            {{ range site.Menus.open_meetings }}
+                {{ $blank := in .URL "http" }}
+                <li><a href="{{ .URL }}" {{ if $blank }}target="_blank"{{ end }}>{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+    </div>
+    
+    <div class="m-standard-content">
+        <h1>{{ .Title }}</h1>
+    
+        <div class="introtext clearfix">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
+{{ end }}
