@@ -1,7 +1,7 @@
 ---
 product:
   price: 8
-  weight: 17
+  weight: 30
   id: "600202"
   description: 2-1/2” x 2-1/2” custom enamel magnet.
   custom_fields: []
