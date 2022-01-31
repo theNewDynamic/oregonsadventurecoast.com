@@ -10,5 +10,6 @@ image: "/img/2020-ornament.jpg"
 hover_image: "/img/2020-ornament-large.jpg"
 description: 'This 2020 Myrtlewood Christmas Ornament was custom designed and cut
   out with a laser. '
+draft: true
 
 ---
