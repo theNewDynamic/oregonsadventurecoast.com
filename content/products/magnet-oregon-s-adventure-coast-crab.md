@@ -1,6 +1,6 @@
 ---
 product:
-  price: 8
+  price: 7.95
   weight: 17
   id: "600201"
   description: 2-1/2” x 1-5/8” custom enamel magnet.
