@@ -11,4 +11,6 @@ image: "/img/pens-regular.jpg"
 hover_image: "/img/pens-all-three.jpg"
 description: Regular sized pen hand-carved by area craftsman from locally sourced
   Myrtlewood.
+draft: true
+
 ---
