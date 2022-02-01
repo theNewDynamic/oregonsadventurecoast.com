@@ -29,7 +29,6 @@ largeboxphoto: "/img/dunes-event-large.jpg"
 mediumboxphoto: "/img/dunes-event-medium.jpg"
 smallboxphoto: "/img/dunes-event-small.jpg"
 aliases: []
-draft: true
 
 ---
 **Every year, thousands of UTV enthusiasts from around the country participate in the largest community riding events of the year starting in Coos Bay/North Bend. This year's events are scheduled for June 22-26, 2022.** 
