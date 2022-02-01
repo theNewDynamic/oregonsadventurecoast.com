@@ -4,7 +4,7 @@ description: Follow the adventures of our author and his beautiful family as the
   discover the variety of fishing, crabbing and clamming options in Coos Bay, North
   Bend & Charleston!
 photo: "/img/fishing-by-style-page-header.jpg"
-image: ''
+image: "/img/jon-bell-family-trip-idea-fishing.jpg"
 towns:
 - charleston
 - north-bend
@@ -16,7 +16,6 @@ tripadventures:
 durations:
 - long-weekend
 aliases: []
-draft: true
 
 ---
 _By Jon Bell_
