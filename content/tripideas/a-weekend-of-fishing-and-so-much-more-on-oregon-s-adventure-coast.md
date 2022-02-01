@@ -3,7 +3,7 @@ title: 'A Weekend of Fishing – and so much more – on Oregon’s Adventure Co
 description: Follow the adventures of our author and his beautiful family as they
   discover the variety of fishing, crabbing and clamming options in Coos Bay, North
   Bend & Charleston!
-photo: ''
+photo: "/img/fishing-by-style-page-header.jpg"
 image: ''
 towns:
 - charleston
