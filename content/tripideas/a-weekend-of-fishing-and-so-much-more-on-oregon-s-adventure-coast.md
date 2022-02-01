@@ -24,6 +24,8 @@ It started on a breezy, sunny afternoon on the docks of the **Charleston Marina*
 
 Add in a few gray whales, a bold bald eagle, some of the best clam chowder on the Oregon Coast, and a glimpse of jaw-dropping coastline that hides just off the beaten path, and you’ve got everything that made for an unforgettable family excursion to “Oregon’s Adventure Coast” – North Bend, Coos Bay, and Charleston – earlier this spring.
 
+![Trip Idea Fishing, Crabbing & Clamming on Oregon's Adventure Coast](/img/fishing-tripideas-collage.jpg)
+
 #### **Full of Fish**
 
 The plan was to explore the region and the fishing opportunities that abound in the area year-round. And there are many.
@@ -45,3 +47,5 @@ That afternoon, Gensorek and I piled into his kayaks and glided around Lower Emp
 To cap off our fishing weekend, Gensorek and his significant other, Kayla, walked us over to the muddy tidal flats of the South Slough in Charleston. Our mission: to find the telltale holes in the sand that indicate [a gaper clam](https://www.oregonsadventurecoast.com/clamming/) is buried below. We used clam guns, which work like siphons to pump water into the muddy sand so it clears away and exposes the clam. It’s rewarding, fun, and scenic – made more so when a giant bald eagle swooped in for a peek at what’s going on.
 
 Full from a late lunch from [Vinny’s Smokin’ Good Burgers & Sandwiches](https://www.vinnyssmokinburgers.com/), we chilled at our hotel for a bit before that late-night pint at 7 Devils. We all slept soundly that night, fading off with the thoughts of all we’d done on Oregon’s Adventure Coast in just a short weekend getaway.
+
+![Kayak Fishing on Oregon's Adventure Coast coos bay, north bend, charleston](/img/jon-bell-kayak-fishing.jpg)
