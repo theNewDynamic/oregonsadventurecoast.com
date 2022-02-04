@@ -37,11 +37,11 @@ So without further adieu, here are the winners of our “Very Unscientific and U
 
 This take-out establishment located in the **Charleston Marina** is a relative newcomer to our local dining scene, but they have made quite a splash and earned rave reviews from patrons. “Absolutely the best clam chowder I've ever had,” writes a visitor from San Francisco on [Yelp](https://www.yelp.com/biz/monkey-business-food-to-go-coos-bay-2). “I've lived in various seaside towns for over 15 years and I promise you this spot is well worth the detour. I drove an hour out of the way and am so happy I did.”
 
-### FIRST PLACE - COOS BAY: [**Shark Bites**]()
+### FIRST PLACE - COOS BAY: **Shark Bites Cafe**
 
 ![](/img/shark-bites-chowder-cropped.jpg)
 
-**Shark Bites** in downtown **Coos Bay** offers some of the best seafood dishes on the entire coast, and their clam chowder is no exception. Creamy and gluten-free, this chowder is packed with clams, fingerling potatoes, hard salami, fresh herbs, and tender sea clams. "Best clam chowder on the whole Oregon Coast! 7 friends and I spent a month sampling the Oregon Coast’s clam chowder. 12 stops and lots of bowls later, the consensus was clear! Shark Bites was the very best!" said [TripAdvisor](https://www.tripadvisor.com/Restaurant_Review-g51813-d1208886-Reviews-Sharkbites-Coos_Bay_Oregon.html) reviewer Chatsmere50
+[**Shark Bites**](http://www.sharkbites.cafe/) in downtown **Coos Bay** offers some of the best seafood dishes on the entire coast, and their clam chowder is no exception. Creamy and gluten-free, this chowder is packed with clams, fingerling potatoes, hard salami, fresh herbs, and tender sea clams. "Best clam chowder on the whole Oregon Coast! 7 friends and I spent a month sampling the Oregon Coast’s clam chowder. 12 stops and lots of bowls later, the consensus was clear! Shark Bites was the very best!" said [TripAdvisor](https://www.tripadvisor.com/Restaurant_Review-g51813-d1208886-Reviews-Sharkbites-Coos_Bay_Oregon.html) reviewer Chatsmere50
 
 ### HONORABLE MENTIONS
 
