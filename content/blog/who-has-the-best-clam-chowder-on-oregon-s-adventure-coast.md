@@ -21,6 +21,8 @@ warning: false
 warning_copy: ''
 
 ---
+_Updated 2/4/2022_
+
 Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is truly a destination for all seasons and winter is no exception. Visitors can find refuge here during the week and on weekends by exploring our glorious state parks, the Oregon Dunes, undeveloped beaches, and more. Whether it’s fishing, hiking, crabbing, clamming or all of the above - there’s nothing like capping off a day spent social distancing in the great outdoors with a hot, delicious bowl of savory Oregon Clam Chowder.
 
 So who has the BEST Clam Chowder on Oregon's Adventure Coast: Coos Bay, North Bend, Charleston? It’s a question we often hear at the [Coos Bay – North Bend Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/). We’re awfully proud of our chowder so we conducted [a very unscientific and unofficial poll](https://www.facebook.com/OregonsAdventureCoast/photos/a.207518371691/10158851577771692/) on our [Facebook page](https://www.facebook.com/OregonsAdventureCoast). Many of you weighed in with a very interesting range of suggestions in a variety of locations, but we’re looking for the best spots right here in Coos Bay/North Bend/Charleston.
