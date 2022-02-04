@@ -39,7 +39,7 @@ So without further adieu, here are the winners of our “Very Unscientific and U
 
 This take-out establishment located in the **Charleston Marina** is a relative newcomer to our local dining scene, but they have made quite a splash and earned rave reviews from patrons. “Absolutely the best clam chowder I've ever had,” writes a visitor from San Francisco on [Yelp](https://www.yelp.com/biz/monkey-business-food-to-go-coos-bay-2). “I've lived in various seaside towns for over 15 years and I promise you this spot is well worth the detour. I drove an hour out of the way and am so happy I did.”
 
-### FIRST PLACE - COOS BAY: **Shark Bites Cafe**
+### FIRST PLACE - COOS BAY: [**Shark Bites Cafe**](http://www.sharkbites.cafe/)
 
 ![](/img/shark-bites-chowder-cropped.jpg)
 
