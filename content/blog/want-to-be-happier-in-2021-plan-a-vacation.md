@@ -1,6 +1,6 @@
 ---
 title: Want to Be Happier This Year? Plan Your Vacation Time Now!
-date: 2022-01-10T05:00:00+00:00
+date: 2022-01-10T05:00:00.000+00:00
 description: 'If you want to be happier with your job, health and wellbeing, it’s
   time to start planning your next adventure. '
 image: "/img/happier-blog-post-header.jpg"
@@ -16,7 +16,7 @@ tags:
 - 'Vistor Center '
 - Travel Guide
 - 'Oregon Travel '
-- "PlanForVacation"
+- PlanForVacation
 categories:
 - Oregon's Adventure Coast News & Info
 seo:
@@ -27,7 +27,9 @@ seo:
 aliases: []
 accordion_sections: []
 warning: true
-warning_copy: ''
+warning_copy: This post may contain information, event dates or times that have changed
+  or passed since it was first published. Please [contact us](https://www.oregonsadventurecoast.com/contact)
+  for the most current and up-to-date details about businesses, events and adventures.
 
 ---
 Need a vacation? You are not alone! After two years of living through the COVID-19 pandemic, Americans are feeling burned out and ready for a change of scenery. However, Americans are still not using all of their vacation days. American workers left an average of more than four days or 29% of their paid time off on the table last year, but the majority of Americans (64%) say they desperately need a vacation.

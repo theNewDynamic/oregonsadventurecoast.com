@@ -1,6 +1,6 @@
 ---
 title: 'Heading to the 2022 Charleston Crab Feed? Follow These Tips & Trip Ideas! '
-date: 2022-01-05T05:00:00+00:00
+date: 2022-01-05T05:00:00.000+00:00
 description: 'Don’t Risk Missing Out on the Ultimate Oregon Coast Crab Experience!
   Get Your Tickets for the Charleston Crab Feed NOW! '
 image: "/img/charleston-oregon-crab-feed-2022-blog-695x322-jpg.png"
@@ -25,8 +25,10 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-warning: false
-warning_copy: ''
+warning: true
+warning_copy: This post may contain information, event dates or times that have changed
+  or passed since it was first published. Please [contact us](https://www.oregonsadventurecoast.com/contact)
+  for the most current and up-to-date details about businesses, events and adventures.
 
 ---
 **_Don’t Risk Missing Out on the Ultimate Oregon Coast Crab Experience! Get Your Tickets for the Charleston Crab Feed NOW!_**
