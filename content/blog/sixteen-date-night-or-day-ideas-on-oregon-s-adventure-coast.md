@@ -24,7 +24,7 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-warning: true
+warning: false
 warning_copy: ''
 
 ---
