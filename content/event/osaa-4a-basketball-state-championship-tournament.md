@@ -32,7 +32,9 @@ aliases: []
 draft: true
 
 ---
-#### **Marshfield High and North Bend High Schools** will be the site of this year's [**OSAA 4A State Basketball Championship Tournaments**](https://www.osaa.org/)**,** both boys and girls.
+#### **Marshfield High School and North Bend High School** will be the site of this year's [**OSAA 4A State Basketball Championship Tournaments**](https://www.osaa.org/)**,** both boys and girls.
+
+We are excited to welcome the talented young athletes participating in the **OSAA 4A Basketball State Tournament**, along with school faculty members and families here to watch!
 
 Tournament action begins on Thursday afternoon, March 10th and concludes with the championship game on Saturday afternoon, March 12th.
 
