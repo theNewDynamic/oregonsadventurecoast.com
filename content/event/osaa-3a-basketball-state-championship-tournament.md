@@ -4,7 +4,7 @@ address:
   street: ''
   street2: ''
   city: ''
-  zip: ''
+  zip: '97420'
 title: OSAA 3A Basketball State Championship Tournament
 startdate: '2022-03-03'
 enddate: '2022-03-05'
