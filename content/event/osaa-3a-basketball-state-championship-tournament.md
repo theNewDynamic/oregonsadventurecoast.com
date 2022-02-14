@@ -25,8 +25,8 @@ hovertitle: State Basketball Championships
 hoverdescription: Join our friends at Marshfield High and North Bend High as they
   host the 3A State Basketball Championship Tournament
 photo: ''
-largeboxphoto: ''
-mediumboxphoto: ''
+largeboxphoto: "/img/mhs-3a-court.jpg"
+mediumboxphoto: "/img/winning-emotion-667x355.jpg"
 smallboxphoto: "/img/claskanie-tiger-340x214.jpg"
 aliases: []
 draft: true
