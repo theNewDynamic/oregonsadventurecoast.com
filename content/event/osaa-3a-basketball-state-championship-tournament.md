@@ -34,9 +34,15 @@ draft: true
 ---
 #### **Marshfield High School and North Bend High School** will be the site of this year's [**OSAA 3A State Basketball Championship Tournaments**](https://www.osaa.org/)**,** both boys and girls.
 
-![](/img/3a-graphic.jpg)
+{{< spacer 50 >}}
 
 After a hiatus due to COVID-19, we’re thrilled to welcome back the talented young athletes participating in the **OSAA 3A Basketball State Tournament**, along with school faculty members and families here to watch!
+
+{{< spacer 50 >}}
+
+![](/img/3a-graphic.jpg)
+
+{{< spacer 50 >}}
 
 Tournament action begins on Thursday afternoon, March 3rd and concludes with the championship game on Saturday afternoon, March 5th.
 
@@ -47,6 +53,8 @@ Keep up with the teams by following the Rankings and Brackets!
 
 [3A Girls Rankings](https://www.osaa.org/activities/gbx/rankings)  
 [3A Girls Tournament Brackets](https://www.osaa.org/activities/gbx/brackets?div=3A)
+
+{{< spacer 50 >}}
 
 #### Coming to watch the teams play? [Book your room now!](https://www.oregonsadventurecoast.com/lodging/)
 
