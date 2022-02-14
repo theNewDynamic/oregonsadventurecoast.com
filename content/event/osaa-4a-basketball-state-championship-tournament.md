@@ -38,11 +38,11 @@ Tournament action begins on Thursday afternoon, March 10th and concludes with th
 
 Keep up with the teams by following the Rankings and Brackets!
 
-4A Boys Rankings  
-4A Boys Tournament Brackets
+[4A Boys Rankings](https://www.osaa.org/activities/bbx/rankings)  
+[4A Boys Tournament Brackets](https://www.osaa.org/activities/bbx/rankings)
 
-4A Girls Rankings  
-4A Girls Tournament Brackets
+[4A Girls Rankings](https://www.osaa.org/activities/gbx/rankings)  
+[4A Girls Tournament Brackets](https://www.osaa.org/activities/gbx/brackets?div=4A)
 
 #### Coming to watch the teams play? [Book your room now!](https://www.oregonsadventurecoast.com/lodging/)
 
