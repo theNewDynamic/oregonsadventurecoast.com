@@ -26,7 +26,7 @@ hoverdescription: Join our friends at Marshfield High and North Bend High as the
   host the 4A State Basketball Championship Tournament
 photo: ''
 largeboxphoto: "/img/mhs-3a-court.jpg"
-mediumboxphoto: ''
+mediumboxphoto: "/img/mhs-action-667x355.jpg"
 smallboxphoto: "/img/mhsbball340x214.jpg"
 aliases: []
 draft: true
