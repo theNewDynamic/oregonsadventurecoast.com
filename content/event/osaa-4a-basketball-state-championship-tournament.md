@@ -38,11 +38,11 @@ Tournament action begins on Thursday afternoon, March 10th and concludes with th
 
 Keep up with the teams by following the Rankings and Brackets!
 
-4A Boys Basketball Rankings  
-4A Boys Basketball Brackets
+4A Boys Rankings  
+4A Boys Tournament Brackets
 
-4A Girls Basketball Rankings  
-4A Girls Basketball Brackets
+4A Girls Rankings  
+4A Girls Tournament Brackets
 
 #### Coming to watch the teams play? [Book your room now!](https://www.oregonsadventurecoast.com/lodging/)
 
