@@ -27,7 +27,7 @@ hoverdescription: Join our friends at Marshfield High and North Bend High as the
 photo: ''
 largeboxphoto: "/img/mhs-3a-court.jpg"
 mediumboxphoto: ''
-smallboxphoto: ''
+smallboxphoto: "/img/mhsbball340x214.jpg"
 aliases: []
 draft: true
 
