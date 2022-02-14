@@ -36,6 +36,8 @@ draft: true
 
 We are excited to welcome the talented young athletes participating in the **OSAA 4A Basketball State Tournament**, along with school faculty members and families here to watch!
 
+![](/img/4a-graphic.jpg)
+
 Tournament action begins on Thursday afternoon, March 10th and concludes with the championship game on Saturday afternoon, March 12th.
 
 Keep up with the teams by following the Rankings and Brackets!
