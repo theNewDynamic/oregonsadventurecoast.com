@@ -1,4 +1,3 @@
-
 /**
      * Get a google map link given various address information.
      * @param
@@ -42,18 +41,64 @@ const getPhoneLinks = function(item) {
   return phone_links
 }
 let lastInfoWindow = false;
-const menu_strings = [
-  {value: 1, label: 'Restaurant/Bar/Rm Service', id: 'restaurant'},
-  {value: 2, label: 'Continental or Full Bkfst', id: 'breakfast'},
-  {value: 3, label: 'Fitness Center', id: 'fitness'},
-  {value: 4, label: 'Pool/Hot Tub', id: 'pool'},
-  {value: 5, label: 'Pet Friendly', id: 'pet'},
-  {value: 6, label: 'WiFi Available', id: 'wifi'},
-  {value: 7, label: 'Kitchens Available', id: 'kitchens'},
-  {value: 8, label: 'Meeting Facilities', id: 'meeting'},
-  {value: 9, label: 'Handicap Accessible', id: 'handicap'},
-  {value: 10, label: 'Chamber Member', id: 'chamber'}
-]
+
+const facets = {
+  'cities': [
+    {
+      id: 'Charleston',
+      label: 'Charleston'
+    },
+    {
+      id: 'Coos Bay',
+      label: 'Coos Bay'
+    },
+    {
+      id: 'North Bend',
+      label: 'North Bend'
+    }
+  ],
+  'categories': [
+    {
+      id: 'Vacation Rental Homes',
+      label: 'Vacation Rental Homes'
+    },
+    {
+      id: 'RV Parks & Camping',
+      label: 'RV Parks & Camping'
+    },
+    {
+      id: 'Hotels, Motels & Inns',
+      label: 'Hotels, Motels & Inns'
+    }
+  ],
+  'amenities': [
+    {label: 'Restaurant/Bar/Rm Service', id: 'restaurant'},
+    {label: 'Continental or Full Bkfst', id: 'breakfast'},
+    {label: 'Fitness Center', id: 'fitness'},
+    {label: 'Pool/Hot Tub', id: 'pool'},
+    {label: 'Pet Friendly', id: 'pet'},
+    {label: 'WiFi Available', id: 'wifi'},
+    {label: 'Kitchens Available', id: 'kitchens'},
+    {label: 'Meeting Facilities', id: 'meeting'},
+    {label: 'Handicap Accessible', id: 'handicap'},
+    {label: 'Chamber Member', id: 'chamber'}
+  ]
+}
+
+const getStaticValues = function(facet, items) {
+  const staticValues = facets[facet]
+  return staticValues.map(static_item => {
+    const item = items.find(item => item.label === static_item.id);
+    return item || {
+      label: static_item.label,
+      disabled: true,
+      value: static_item.id,
+      count: 0,
+      isRefined: false,
+      highlighted: static_item.id,
+    };
+  });
+}
 
 export let tndWidgets = {
   map: {
@@ -99,17 +144,24 @@ export let tndWidgets = {
       }));
     },
   },
-  js_menu: {
+  js_cities: {
     sortBy: ['name:asc'],
+    transformItems(items) {
+      return getStaticValues('cities', items)
+    }
+  },
+  js_categories: {
+    sortBy: ['label:asc'],
+    transformItems(items) {
+      return getStaticValues('categories', items)
+    }
   },
   js_amenities: {
     sortBy: ['name:asc'],
     transformItems(items) {
-      return items.map(item => ({
+      return getStaticValues('amenities', items).map(item => ({
         ...item,
-        lodging: true,
-        id: item.label,
-        label: menu_strings.find(string => string.id == item.label).label,
+        label: facets['amenities'].find(string => string.id == item.value).label,
       }));
     },
   }

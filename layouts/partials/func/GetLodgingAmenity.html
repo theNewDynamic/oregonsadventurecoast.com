@@ -1,53 +1,42 @@
 {{/*
   GetLodgingAmenity
-  This function returns the class name corresponding to the passed amenity string.
+  This function returns the item name corresponding to the passed amenity string.
   False is returned if the passed string is invalid.
 
-  @author @mountainbug95
+  @author @regisphilibert
 
-  @context string (.)
+  @context String (.)
+
+  @access private
+
+  @returns Map
+    Int (.number)
+    String (.id)
+    String (.label)
+
+  @uses
+     - partial
 
   @example - Go Template
-    {{ partial "func/GetLodgingAmenity" . }}
+    {{ with partialCached "  GetLodgingAmenity
+  This function returns the class name corresponding to the passed amenity string.
+  False is returned if the passed string is invalid." context context }}
+      {{ something = . }}
+    {{ end }}
 */}}
 {{ $return := false }}
 {{ $amenityString := $ }}
 {{ if reflect.IsMap $ }}
-    {{ $amenityString = "" }}
-    {{ with .amenitySelect }}
-        {{ $amenityString = string . }}
-    {{ end }}
+  {{ $amenityString = "" }}
+  {{ with .amenitySelect }}
+    {{ $amenityString = string . }}
+  {{ end }}
 {{ end }}
-{{ with $amenityString }}
-    {{ if eq (substr . 0 1) "1"}}
-        {{ $return = "restaurant" }}
-    {{ end }}
-    {{ if eq (substr . 0 1) "2"}}
-        {{ $return = "breakfast" }}
-    {{ end }}
-    {{ if eq (substr . 0 1) "3"}}
-        {{ $return = "fitness" }}
-    {{ end }}
-    {{ if eq (substr . 0 1) "4"}}
-        {{ $return = "pool" }}
-    {{ end }}
-    {{ if eq (substr . 0 1) "5"}}
-        {{ $return = "pet" }}
-    {{ end }}
-    {{ if eq (substr . 0 1) "6"}}
-        {{ $return = "wifi" }}
-    {{ end }}
-    {{ if eq (substr . 0 1) "7"}}
-        {{ $return = "kitchens" }}
-    {{ end }}
-    {{ if eq (substr . 0 1) "8"}}
-        {{ $return = "meeting" }}
-    {{ end }}
-    {{ if eq (substr . 0 1) "9"}}
-        {{ $return = "handicap" }}
-    {{ end }}
-    {{ if eq (substr . 0 1) "10"}}
-        {{ $return = "chamber" }}
-    {{ end }}
+
+{{ range partialCached "func/GetLodgingAmenities" "GetLodgingAmenities" }}
+  {{ if  in $amenityString .number }}
+    {{ $return = .id }}
+  {{ end }}
 {{ end }}
+
 {{ return $return }}

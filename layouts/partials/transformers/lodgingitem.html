@@ -21,11 +21,11 @@
     {{ $amenities = . }}
   {{ end }}
 {{ end }}
-{{ with index $amenities 0 }}
-  {{ with . }}
-    {{ $s.SetInMap "data" "amenities" $amenities }}
-  {{ end }}
+
+{{ with $amenities }}
+  {{ $s.SetInMap "data" "amenities" . }}
 {{ end }}
+
 {{ with .Params.property_category }}
   {{ $s.SetInMap "data" "category" (partialCached "func/StripForestryNumber" . .) }}
 {{ end }}

@@ -7,15 +7,40 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
   </div>
-  <div class="landing-layout">
+  <div class="amenity-list amenity-list--grid">
+    {{ range partialCached "func/GetLodgingAmenities" "GetLodgingAmenities" }}
+      <div class="amenity-list__item">
+        <span class="icon-lodging {{ .id }}"></span> {{ .label }}
+      </div>
+    {{ end }}
+  </div>
+  <div x-data="alpineData()" class="landing-layout">
     <div class="landing-layout__sidebar">
       <div class="sticky">
         <div id="clear"></div>
       <h3 class="refinement-title">Views</h3>
       <ul class="layout-togglers reset-list">
-        <li id="view-toggle-grid" onclick="showGrid()" class="layout-toggler active grid-view"><i class="fas fa-th-large"></i> Grid View</li>
-        <li id="view-toggle-list" onclick="showList()" class="layout-toggler list-view"><i class="fas fa-bars"></i> List View</li>
-        <li id="view-toggle-map" onclick="showMap()" class="layout-toggler map-view"><i class="fas fa-map-marker-alt"></i> Map View</li>
+        {{ range slice
+          (dict 
+            "id" "grid"
+            "label" "Grid View"
+            "icon" "fas fa-th-large"
+          )
+          (dict 
+            "id" "list"
+            "label" "List View"
+            "icon" "fas fa-bars"
+          )
+          (dict 
+            "id" "map"
+            "label" "Map View"
+            "icon" "fas fa-map-marker-alt"
+          )
+        }}
+          <li id="view-toggle-{{ .id }}" @click="toggle('{{ .id }}')" class="layout-toggler" :class="active == '{{ .id }}' ? 'active' : ''">
+            <i class="{{ .icon }}"></i> {{ .label }} <span x-show="active == '{{ .id }}'"><</span>
+          </li>
+        {{ end }}
       </ul>
       <h3 class="refinement-title">Towns</h3>
       <div id="menu-city"></div>
@@ -35,19 +60,25 @@
   </div>
 </div>
 <script>
-  function showList() {
-    const layoutContainer = document.querySelector('.landing-layout')
-    layoutContainer.classList.remove('map-on')
-    document.querySelector('.lodging-list').classList.add('-view-as-list')
-  }
-  function showGrid() {
-    const layoutContainer = document.querySelector('.landing-layout')
-    layoutContainer.classList.remove('map-on')
-    document.querySelector('.lodging-list').classList.remove('-view-as-list')
-  }
-  function showMap() {
-    const layoutContainer = document.querySelector('.landing-layout')
-    layoutContainer.classList.add('map-on')
+  const alpineData = function() {
+    return {
+      active: 'grid',
+      toggle(item) {
+        this.active = item
+        if(item === 'list') {
+          const layoutContainer = document.querySelector('.landing-layout')
+          layoutContainer.classList.remove('map-on')
+          document.querySelector('.lodging-list').classList.add('-view-as-list')
+        } else if (item === 'grid') {
+          const layoutContainer = document.querySelector('.landing-layout')
+          layoutContainer.classList.remove('map-on')
+          document.querySelector('.lodging-list').classList.remove('-view-as-list')
+        } else if (item === 'map') {
+          const layoutContainer = document.querySelector('.landing-layout')
+          layoutContainer.classList.add('map-on')
+        }
+      }
+    }
   }
 </script>
 {{ end }}

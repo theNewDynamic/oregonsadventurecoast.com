@@ -134,6 +134,9 @@
 }
 .marker-content{
     padding-bottom: 50px !important;
+    .-view-as-list & {
+        padding-bottom: 0 !important;
+    }
 }
 .m-lodging-item__footer{
     position: absolute;
