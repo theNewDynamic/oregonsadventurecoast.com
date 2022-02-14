@@ -27,12 +27,14 @@ hoverdescription: Join our friends at Marshfield High and North Bend High as the
 photo: ''
 largeboxphoto: ''
 mediumboxphoto: ''
-smallboxphoto: ''
+smallboxphoto: "/img/claskanie-tiger-340x214.jpg"
 aliases: []
 draft: true
 
 ---
 #### **Marshfield High School and North Bend High School** will be the site of this year's [**OSAA 3A State Basketball Championship Tournaments**](https://www.osaa.org/)**,** both boys and girls.
+
+![](/img/3a-graphic.jpg)
 
 After a hiatus due to COVID-19, we’re thrilled to welcome back the talented young athletes participating in the **OSAA 3A Basketball State Tournament**, along with school faculty members and families here to watch!
 
