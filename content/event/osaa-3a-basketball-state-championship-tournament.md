@@ -39,7 +39,7 @@ After a hiatus due to COVID-19, we’re thrilled to welcome back the talented yo
 
 {{< spacer 50 >}}
 
-![](/img/3a-graphic.jpg)
+![](/img/basketball-3a-header-695x322.jpg)
 
 {{< spacer 50 >}}
 
