@@ -24,8 +24,8 @@
 .landing-layout{
   display: grid;
   gap: 1rem;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-areas: "sidebar main main main"
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-areas: "sidebar main main main main"
 }
 
 .landing-layout__sidebar{
@@ -117,6 +117,7 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
   display: flex;
   padding: .5rem 1rem;
   font-size: 1.1em;
+  background-color: white;
   align-items: center;
   cursor: pointer;
   color: $red;

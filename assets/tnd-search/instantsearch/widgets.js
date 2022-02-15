@@ -45,6 +45,10 @@ let lastInfoWindow = false;
 const facets = {
   'cities': [
     {
+      id: 'Alegany',
+      label: 'Alegany'
+    },
+    {
       id: 'Charleston',
       label: 'Charleston'
     },
@@ -59,17 +63,18 @@ const facets = {
   ],
   'categories': [
     {
-      id: 'Vacation Rental Homes',
-      label: 'Vacation Rental Homes'
+      id: 'Hotels, Motels & Inns',
+      label: 'Hotels, Motels & Inns'
     },
     {
       id: 'RV Parks & Camping',
       label: 'RV Parks & Camping'
     },
     {
-      id: 'Hotels, Motels & Inns',
-      label: 'Hotels, Motels & Inns'
-    }
+      id: 'Vacation Rental Homes',
+      label: 'Vacation Rental Homes'
+    },
+
   ],
   'amenities': [
     {label: 'Restaurant/Bar/Rm Service', id: 'restaurant'},
@@ -87,10 +92,20 @@ const facets = {
 
 const getStaticValues = function(facet, items) {
   const staticValues = facets[facet]
+  items.forEach(item => {
+    console.log(item)
+  });
   return staticValues.map(static_item => {
-    const item = items.find(item => item.label === static_item.id);
-    return item || {
+    let found_item = items.find(item => item.label === static_item.id);
+    if(found_item) {
+      found_item = {
+        ...found_item,
+        name: found_item.label
+      }
+    }
+    return found_item || {
       label: static_item.label,
+      name: static_item.label,
       disabled: true,
       value: static_item.id,
       count: 0,
@@ -145,19 +160,16 @@ export let tndWidgets = {
     },
   },
   js_cities: {
-    sortBy: ['name:asc'],
     transformItems(items) {
       return getStaticValues('cities', items)
     }
   },
   js_categories: {
-    sortBy: ['label:asc'],
     transformItems(items) {
       return getStaticValues('categories', items)
     }
   },
   js_amenities: {
-    sortBy: ['name:asc'],
     transformItems(items) {
       return getStaticValues('amenities', items).map(item => ({
         ...item,

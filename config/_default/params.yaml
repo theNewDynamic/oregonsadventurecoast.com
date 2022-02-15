@@ -81,6 +81,9 @@ tnd_search:
       container: '#menu-category'
       attribute: category
       js: js_categories
+      sortBy:
+      - 'name:asc'
+      - 'count:asc'
       classes:
         list: reset-list
         count: hidden
@@ -90,6 +93,7 @@ tnd_search:
     - name: refinementList
       container: '#menu-amenities'
       attribute: amenities
+      operator: and
       js: js_amenities
       templates:
         item: *templates_menu_item
