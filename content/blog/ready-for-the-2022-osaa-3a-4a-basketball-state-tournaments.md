@@ -1,10 +1,25 @@
 ---
 title: 'Ready for the 2022 OSAA 3A & 4A Basketball State Tournaments! '
 date: 2022-02-15T05:00:00+00:00
-description: ''
+description: 'We are looking forward to pulling out all the stops and welcoming the
+  OSAA 3A Basketball State Tournament AND the Class 4A Basketball State Tournament
+  event next month! '
 image: "/img/osaa-3a-4a-basketball-state-tournament-blog-695x322-jpg.png"
-tags: []
-categories: []
+tags:
+- OSAA Basketball State Tournaments
+- OSAA 3A Basketball State Tournament
+- 'Class 4A Basketball State Tournament '
+- Coos Bay
+- North Bend Oregon
+- Charleston Oregon
+- Oregon Coast
+- Basketball Tournament
+- High School Basketball
+- Marshfield High School
+- North Bend High School
+- 'Oregon''s Adventure Coast '
+categories:
+- Oregon's Adventure Coast News & Info
 seo:
   title: ''
   description: ''
@@ -14,7 +29,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 _Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston was selected to host back-to-back OSAA Basketball State Tournaments in March 2022!_
@@ -35,21 +49,13 @@ The OSAA [3A Girls Basketball State Championship](https://www.osaa.org/activitie
 
 ### **3A Headquarter Hotel**
 
-[Red Lion - Coos Bay](https://www.redlion.com/red-lion-hotels/or/coos-bay/red-lion-hotel-coos-bay)
-
-1313 N Bayshore Drive., Coos Bay OR 97420
-
-Phone: 541.267.4141
+[Red Lion - Coos Bay](https://www.redlion.com/red-lion-hotels/or/coos-bay/red-lion-hotel-coos-bay)1313 N Bayshore Drive., Coos Bay OR 97420   Phone: 541.267.4141
 
 [Coos Bay-North Bend Visitor & Convention Bureau Team Lodging](https://www.osaa.org/docs/bbx/3alodging.pdf)
 
-**4A Headquarter Hotel**
+### **4A Headquarter Hotel**
 
-[Red Lion - Coos Bay](https://www.redlion.com/red-lion-hotels/or/coos-bay/red-lion-hotel-coos-bay)
-
-1313 N Bayshore Drive., Coos Bay OR 97420
-
-Phone: 541.267.4141
+[Red Lion - Coos Bay](https://www.redlion.com/red-lion-hotels/or/coos-bay/red-lion-hotel-coos-bay): 1313 N Bayshore Drive., Coos Bay OR 97420   Phone: 541.267.4141
 
 [Coos Bay-North Bend Visitor & Convention Bureau Team Lodging](https://www.osaa.org/docs/bbx/3alodging.pdf)
 
