@@ -19,17 +19,16 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-desktoptitle: State Basketball Championships
-mobiletitle: State Basketball Championships
-hovertitle: State Basketball Championships
+desktoptitle: 4A State Basketball Championships
+mobiletitle: 4A State Basketball Championships
+hovertitle: 4A State Basketball Championships
 hoverdescription: Join our friends at Marshfield High and North Bend High as they
   host the 4A State Basketball Championship Tournament
-photo: ''
+photo: "/img/basketball-hero-header-2048x530.jpg"
 largeboxphoto: "/img/mhs-3a-court.jpg"
 mediumboxphoto: "/img/mhs-action-667x355.jpg"
 smallboxphoto: "/img/mhsbball340x214.jpg"
 aliases: []
-draft: true
 
 ---
 #### **Marshfield High School and North Bend High School** will be the site of this year's [**OSAA 4A State Basketball Championship Tournaments**](https://www.osaa.org/)**,** both boys and girls.
@@ -40,7 +39,7 @@ We are excited to welcome the talented young athletes participating in the **OSA
 
 {{< spacer 50 >}}
 
-![](/img/4a-graphic.jpg)
+![](/img/basketball-4a-header-695x322.jpg)
 
 {{< spacer 50 >}}
 
