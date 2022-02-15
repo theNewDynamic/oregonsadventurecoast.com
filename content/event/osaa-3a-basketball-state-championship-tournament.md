@@ -19,9 +19,9 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-desktoptitle: State Basketball Championships
-mobiletitle: State Basketball Championships
-hovertitle: State Basketball Championships
+desktoptitle: 3A State Basketball Championships
+mobiletitle: 3A State Basketball Championships
+hovertitle: 3A State Basketball Championships
 hoverdescription: Join our friends at Marshfield High and North Bend High as they
   host the 3A State Basketball Championship Tournament
 photo: "/img/basketball-hero-header-2048x530.jpg"
