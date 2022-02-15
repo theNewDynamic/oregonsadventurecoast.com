@@ -57,4 +57,4 @@ Keep up with the teams by following the Rankings and Brackets!
 
 #### Coming to watch the teams play? [Book your room now!](https://www.oregonsadventurecoast.com/lodging/)
 
-_Overflow lodging may be available in_ [_Bandon_](img/Bandon-lodging-BBTournaments-2022.pdf)_, Lakeside or Reedsport._
+_Overflow lodging may be available in_ [_Bandon_](https://www.oregonsadventurecoast.com/img/Bandon-lodging-BBTournaments-2022.pdf)_, Lakeside or Reedsport._
