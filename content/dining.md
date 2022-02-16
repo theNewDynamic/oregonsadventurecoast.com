@@ -14,10 +14,11 @@ seo:
 outputs:
 - html
 - json
+
 ---
 Wherever you are on Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston, you will have a wide variety of dining and meal options. We have several family-style eateries, as well as ethnic, chain, seafood and fine dining restaurants. [Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.](/img/walking-map-cbnb.pdf)Find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns.
 
-**_*Note: due to COVID-19 some restaurants are currently only doing TakeOut. We recommend contacting the restaurants of your choice prior to visiting the establishment for protocol information._**
+**_*Note: due to the popularity of some restaurants and/or staffing issues, we recommend contacting the restaurant of your choice prior to visiting the establishment for reservations or seating information._**
 
 ## Dining for Your Oregon Coast Vacation
 
