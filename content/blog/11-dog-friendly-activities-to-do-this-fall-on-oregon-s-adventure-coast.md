@@ -1,6 +1,7 @@
 ---
-title: 11 Dog-Friendly Activities to Do this Fall on Oregon’s Adventure Coast
-date: 2021-09-09T04:00:00+00:00
+title: '11 Dog-Friendly Activities on Oregon’s Adventure Coast: Coos Bay, North Bend,
+  Charleston'
+date: 2021-09-09T04:00:00.000+00:00
 description: Oregon’s Adventure Coast is a year-round destination, and autumn is one
   of our favorite seasons. If you want to plan an extra special adventure, bring a
   furry family member or two along for the trip! We not only welcome dogs on Oregon’s
@@ -46,13 +47,9 @@ warning_copy: ''
 ---
 **Come on Down for a Doggone Good Time on Oregon’s Adventure Coast!**
 
-_Spend a few days with us this fall and receive a_ [_15% discount at participating lodging properties_](https://www.oregonsadventurecoast.com/fall15/) _between October 1, 2021- November 30, 2021. Some restrictions apply and are subject to change._
+Oregon’s Adventure Coast is a year-round destination, and if you want to plan an extra special adventure, bring a furry family member or two along for the trip! We not only welcome dogs on Oregon’s Adventure Coast, we encourage them! Visitors will find many [pet friendly](https://www.oregonsadventurecoast.com/blog/dog-friendly-hotels-on-oregon-s-adventure-coast/) lodging options, services, and play areas in the Coos Bay/North Bend/Charleston area. Guess you could say the “paw-sibbilites” are endless!
 
-Another Labor Day has come and gone on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**, and you may think to yourself, “Doggonit, summer is nearly over! What am I supposed to do now?”.
-
-Well, friends, don’t fret! The fun is only beginning, as Oregon’s Adventure Coast is a year-round destination, and autumn is one of our favorite seasons! If you want to plan an extra special adventure, bring a furry family member or two along for the trip! We not only welcome dogs on Oregon’s Adventure Coast, we encourage them! Visitors will find many [pet friendly](https://www.oregonsadventurecoast.com/blog/dog-friendly-hotels-on-oregon-s-adventure-coast/) lodging options, services, and play areas in the Coos Bay/North Bend/Charleston area. Guess you could say the “paw-sibbilites” are endless!
-
-Here are eleven ways to enjoy Oregon’s Adventure Coast with your pet this fall (listed in no particular order). **Unless otherwise specified, please keep your pet on a leash in all public areas.**
+Here are eleven ways to enjoy Oregon’s Adventure Coast with your pet (listed in no particular order). **Unless otherwise specified, please keep your pet on a leash in all public areas.**
 
 ![](/img/oregon-coast-dog-friendly-beaches-3.png)
 
