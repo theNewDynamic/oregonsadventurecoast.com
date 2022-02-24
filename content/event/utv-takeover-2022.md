@@ -35,7 +35,7 @@ aliases: []
 
 ![](/img/dunes-event-utv-logo-695.jpg)
 
-With 40 miles of dunes and an accessible coastline, the [**Oregon Dunes National Recreation Area**](/untamed-dunes/) is an amazing experience to ride and camp! [**Boxcar Hill Campground**](https://boxcarhilloregon.com/) hosts this amazing event and is the gateway to some of the most approachable dune riding for any skill level. Surrounding campgrounds and VIP sand camping make this an all-around unforgettable experience!
+The [**Oregon Dunes National Recreation Area**](/untamed-dunes/)**,** which terminates in North Bend, is an amazing experience to ride and camp! [**Boxcar Hill Campground**](https://boxcarhilloregon.com/) hosts this amazing event and is the gateway to some of the most approachable dune riding for any skill level. Surrounding campgrounds and VIP sand camping make this an all-around unforgettable experience!
 
 UTV Takeover provides attendees an experience like no other event. With more than 30 family-friendly activities to participate in, Takeover is about bringing the community together. Each of the planned events’ unique scenic backdrop makes these events a memorable experience whether you’re participating or taking pictures!
 
