@@ -57,4 +57,6 @@ Keep up with the teams by following the Rankings and Brackets!
 
 #### Coming to watch the teams play? [Book your room now!](https://www.oregonsadventurecoast.com/lodging/)
 
+**Buy your** [**Digital Ticket from OSAA**](https://www.osaa.org/shop/tickets)**, available the week of tournament play.**
+
 _Overflow lodging may be available in_ [_Bandon_](https://www.oregonsadventurecoast.com/img/Bandon-lodging-BBTournaments-2022.pdf)_, Lakeside or Reedsport._
