@@ -46,7 +46,7 @@ You just never know what wonderful treasures you will find here, which makes Coo
 
 270 S Broadway, Coos Bay, OR 97420
 
-One of the most popular antique shops among locals and travelers is <a href="[https://www.facebook.com/Vintage101CoosBay](https://www.facebook.com/Vintage101CoosBay "https://www.facebook.com/Vintage101CoosBay")" target="_blank" rel="noopener noreferrer">Vintage 101</a> – (located in the same building where Black Cat Antique Mall used to be). It is a consortium of individual dealers with a wide range of unique pieces. Whether you are searching for vintage furniture, housewares, jewelry, collectibles and other wonderful treasures- this is the place to go.
+One of the most popular antique shops among locals and travelers is [Vintage 101](https://www.facebook.com/Vintage101CoosBay) (located in the same building where Black Cat Antique Mall used to be). It is a consortium of individual dealers with a wide range of unique pieces. Whether you are searching for vintage furniture, housewares, jewelry, collectibles and other wonderful treasures- this is the place to go.
 
 ### Leafs Treehouse Antiques & Collectibles
 
