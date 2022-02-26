@@ -91,9 +91,9 @@ home_splashes:
 - url: "/girlfriends"
   img: "/img/gfg-2048x190-banner-02-22.jpg"
   alt: Enjoy a Girlfriends Getaway this Spring on Oregon's Adventure Coast
-- img: "/img/stormwatching-masonryheader.jpg"
+- img: "/img/spring-getaway-girl-clamming-hero-22.jpg"
   alt: 'Plan your getaway '
-  url: "/storm-watching"
+  url: "/clamming"
 
 ---
 We welcome you to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities. We invite you to explore, to discover, to feel, to know…at land’s end, adventure begins. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do. Your vacation will be full of adventure, nature, wildlife, culture, arts and athletics.
