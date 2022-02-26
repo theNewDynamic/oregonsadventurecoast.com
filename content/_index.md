@@ -78,9 +78,9 @@ seo:
     nature, wildlife, shopping, arts, and more. Your adventure awaits!
   title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
 home_splashes:
-- url: "/storm15"
-  img: "/img/storm-watching-15-off-special-2021.jpg"
-  alt: 15% Off Storm Watching Lodging Special Jan 1, 2022 through Feb 28, 2022
+- url: "/girlfriends"
+  img: "/img/gfg-2048x190-banner-02-22.jpg"
+  alt: Enjoy a Girlfriends Getaway this Spring on Oregon's Adventure Coast
 - img: "/img/stormwatching-masonryheader.jpg"
   alt: 'Plan your getaway '
   url: "/storm-watching"
