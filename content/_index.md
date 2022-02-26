@@ -15,6 +15,14 @@ slideshow:
     cover: ''
 - photo: "/img/home-page-slider-fishing-ready-set-06-21.jpg"
   url: "/fishing"
+- photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
+  url: "/water-recreation"
+- title: Breathtaking Views
+  photo: "/img/shore-acres-slider.jpg"
+- title: Spectacular Sights
+  photo: "/img/lighthouse-hm-slider.jpg"
+- title: Stunning Sunsets
+  photo: "/img/sunset-bay-sunset-hm-slider.jpg"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
