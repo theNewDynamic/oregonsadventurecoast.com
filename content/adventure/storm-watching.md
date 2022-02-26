@@ -16,8 +16,6 @@ seo:
 
 {{< spacer 25 >}}
 
-[![15% OFF Storm Watching Lodging Special](/img/storm-watching-695-banner-2021.jpg)](/storm15)
-
 ## THE MAJESTY OF MOTHER NATURE
 
 The Oregon Coast is famous for drama-the good kind!  Fall and winter is the best time to watch dramatic wave crashes reaching up to 300 feet high resulting from winter storms on the Pacific during the months of November through March.
