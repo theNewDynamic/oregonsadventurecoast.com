@@ -18,4 +18,4 @@ As you plan your vacation to the Oregon Coast, browse our list of places to stay
 You can pick accommodations on the Oregon Coast that will suit your needs and preferences, whether you need a place to stay that is pet-friendly, offers a fitness center, has a kitchen, and a variety of other additions.
 Look through these options and take the next step in planning your trip to the Oregon Coast!  
 **($ = Up to $99; $$ = $100-$199; $$$ = $200+)**
-<div style="width:100%"><a href="/storm15"><img src="/img/storm-watching-15-off-special-2021.jpg" alt="15% Off Storm Watching Lodging Special in Coos Bay, North Bend, Charleston" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
+<div style="width:100%"><a href="/girlfriends"><img src="/img/gfg-2048x190-banner-02-22.jpg" alt="Enjoy a Girlfriends Getaway in Coos Bay, North Bend, Charleston" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
