@@ -7,14 +7,14 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- photo: "/img/home-page-slider-fishing-ready-set-06-21.jpg"
-  url: "/fishing"
 - photo: "/img/gfg-hm-page-slider-2048x850-v02.jpg"
   photo_mobile: "/img/gfg-hm-page-slider-mobile.jpg"
   url: "/girlfriends"
   video:
     source: ''
     cover: ''
+- photo: "/img/home-page-slider-fishing-ready-set-06-21.jpg"
+  url: "/fishing"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
