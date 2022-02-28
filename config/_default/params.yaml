@@ -94,6 +94,7 @@ tnd_search:
       container: '#menu-amenities'
       attribute: amenities
       operator: and
+      limit: 15
       js: js_amenities
       templates:
         item: *templates_menu_item
@@ -143,7 +144,7 @@ tnd_search:
                 <div class="amenity-list clearfix">
                   <ul>
                   {{#amenities}}
-                    <li class="icon-lodging {{.}}"></li>
+                    <li class="icon-lodging {{.}}" title="{{.}}"></li>
                   {{/amenities}}
                   </ul>
                 </div>

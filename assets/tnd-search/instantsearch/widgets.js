@@ -45,8 +45,8 @@ let lastInfoWindow = false;
 const facets = {
   'cities': [
     {
-      id: 'Alegany',
-      label: 'Alegany'
+      id: 'Allegany',
+      label: 'Allegany'
     },
     {
       id: 'Charleston',
