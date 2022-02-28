@@ -20,10 +20,11 @@ property_description: '20-30-50 amp. Power, water, sewer, clubhouse. Paved level
   Laundry Facilities.'
 website: http://alderacres.com
 amenityList:
-- amenitySelect: 5
-- amenitySelect: 6
-- amenitySelect: 9
-- amenitySelect: 10
+- 1 - Restaurant/Bar/Rm Service
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 9 - Handicap Accessible
+- 10 - Chamber Member
 coordinates:
   lat: '43.382267'
   lng: "-124.2492887"
