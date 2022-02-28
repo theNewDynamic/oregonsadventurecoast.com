@@ -16,7 +16,7 @@ property_description: Global Inn is your gateway for exploring the Oregon coast.
   access to Hwy 101 makes it easy to explore the Oregon Bay area. Well-appointed rooms
   include flat-screen TVs, free WiFi, complimentary breakfast. On-site restaurant,
   Himalayan Restaurant and Bar.
-website: ''
+website: https://www.globalinnhotelcoosbay.com/
 amenityList:
 - 2 - Continental or Full Bkfst
 - 5 - Pet Friendly
