@@ -37,6 +37,12 @@ aliases: []
 
 The [**Oregon Dunes National Recreation Area**](/untamed-dunes/)**,** which terminates in North Bend, is an amazing experience to ride and camp! [**Boxcar Hill Campground**](https://boxcarhilloregon.com/) hosts this amazing event and is the gateway to some of the most approachable dune riding for any skill level. Surrounding campgrounds and VIP sand camping make this an all-around unforgettable experience!
 
+{{< spacer 50 >}}
+
+![](/img/crushing-it-utv-cb.jpeg) ![](/img/digger-utv-cb.jpeg)
+
+{{< spacer 50 >}}
+
 UTV Takeover provides attendees an experience like no other event. With more than 30 family-friendly activities to participate in, Takeover is about bringing the community together. Each of the planned events’ unique scenic backdrop makes these events a memorable experience whether you’re participating or taking pictures!
 
 **Discover more at** [**https://www.utvtakeover.com/coos-bay-or/**](https://www.utvtakeover.com/coos-bay-or/ "https://www.utvtakeover.com/coos-bay-or/")
