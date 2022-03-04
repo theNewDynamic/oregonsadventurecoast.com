@@ -11,7 +11,6 @@ seo:
     Coos Bay, North Bend, & Charleston offer amazing museums, galleries, and live
     performances.
   title: Oregon Coast Trips - Art/History/Culture | Oregon's Adventure Coast
-draft: true
 
 ---
 **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston** has an amazing network of museums, galleries, and live performances.  Browse your way through our site or take advantage of some of our hand-picked adventures in art.
@@ -48,7 +47,7 @@ A must-stop for railroad enthusiasts. Ring the bell of the signature 1922 Baldwi
 
 {{< spacer >}}
 
-{{< floatimage src="/img/railroad-museum.jpg" float="left" alt="The Charleston Marine Life Center" size="40" >}}
+{{< floatimage src="/img/CH-Marine-life-400x300.jpg" float="left" alt="The Charleston Marine Life Center" size="40" >}}
 
 #### Charleston Marine Life Center
 
