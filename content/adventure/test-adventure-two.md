@@ -47,11 +47,13 @@ A must-stop for railroad enthusiasts. Ring the bell of the signature 1922 Baldwi
 
 {{< spacer >}}
 
-{{< floatimage src="/img/CH-Marine-life-400x300.jpg" float="left" alt="The Charleston Marine Life Center" size="40" >}}
+{{< floatimage src="/img/ch-marine-life-400x300.jpg" float="left" alt="The Charleston Marine Life Center" size="40" >}}
 
 #### Charleston Marine Life Center
 
-Located on the edge of the harbor in Charleston, OR, the Oregon Institute of Marine Biology’s Charleston Marine Life Center is an exciting place for discovery. Aquaria highlighting different coastal ecosystems, a tidepool touch tank, whale and sea lion skeletons, underwater video from deep reefs and undersea volcanoes, and a variety of specimens reveal the hidden and remarkable diversity of life off Oregon, from the coast to the deep sea. And that’s all indoors.
+Located on the edge of the harbor in Charleston, OR, the Oregon Institute of Marine Biology’s Charleston Marine Life Center is an exciting place for discovery. Aquaria highlighting different coastal ecosystems, a tidepool touch tank, whale and sea lion skeletons, underwater video from deep reefs and undersea volcanoes, and a variety of specimens reveal the hidden and remarkable diversity of life off Oregon, from the coast to the deep sea. And that’s all indoors. [Visit the Charleston Marine Life Center website for more information](https://cmlc.uoregon.edu/).
+
+{{< spacer >}}
 
 {{< floatimage src="/img/liberty-theater.jpg" float="left" alt="The Liberty Theatre on Oregon's Adventure Coast" size="40" >}}
 
