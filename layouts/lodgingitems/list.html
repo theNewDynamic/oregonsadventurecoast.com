@@ -24,21 +24,21 @@
           (dict 
             "id" "grid"
             "label" "Grid View"
-            "icon" "fas fa-th-large"
+            "icon" "grid-icon"
           )
           (dict 
             "id" "list"
             "label" "List View"
-            "icon" "fas fa-bars"
+            "icon" "list-view-icon"
           )
           (dict 
             "id" "map"
             "label" "Map View"
-            "icon" "fas fa-map-marker-alt"
+            "icon" "map-view-icon"
           )
         }}
           <li id="view-toggle-{{ .id }}" @click="toggle('{{ .id }}')" class="layout-toggler" :class="active == '{{ .id }}' ? 'active' : ''">
-            <i class="{{ .icon }}"></i> {{ .label }} <span x-show="active == '{{ .id }}'"><</span>
+            <span class="icon">{{ partial (printf "svg/%s.svg" .icon) .icon }}</span> {{ .label }} <span x-show="active == '{{ .id }}'" class="icon">{{ partial "svg/active-view-arrow-icon.svg" "arrow" }}</span>
           </li>
         {{ end }}
       </ul>

@@ -45,21 +45,21 @@ let lastInfoWindow = false;
 const facets = {
   'cities': [
     {
-      id: 'Allegany',
-      label: 'Allegany'
-    },
-    {
-      id: 'Charleston',
-      label: 'Charleston'
-    },
-    {
       id: 'Coos Bay',
       label: 'Coos Bay'
     },
     {
       id: 'North Bend',
       label: 'North Bend'
-    }
+    },
+    {
+      id: 'Charleston',
+      label: 'Charleston'
+    },
+    {
+      id: 'Allegany',
+      label: 'Allegany'
+    },
   ],
   'categories': [
     {
@@ -92,9 +92,6 @@ const facets = {
 
 const getStaticValues = function(facet, items) {
   const staticValues = facets[facet]
-  items.forEach(item => {
-    console.log(item)
-  });
   return staticValues.map(static_item => {
     let found_item = items.find(item => item.label === static_item.id);
     if(found_item) {

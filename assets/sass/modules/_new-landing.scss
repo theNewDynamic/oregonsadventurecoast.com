@@ -106,13 +106,19 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
 
 .layout-toggler{
   transition: all .25s;
-  font-size: 18px;
   color: #d74029;
+  cursor: pointer;
+  margin-bottom: .2rem;
+  .icon{
+    display: inline-block;
+    width: 1rem;
+    margin-right: .2rem;
+  }
   &.active{
-    font-weight: bold;
     text-decoration:  none;
   }
 }
+
 .clear-button{
   display: flex;
   padding: .5rem 1rem;
@@ -170,3 +176,4 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
     background-color: $red;
   } 
 }
+
