@@ -11,6 +11,7 @@ seo:
     Coos Bay, North Bend, & Charleston offer amazing museums, galleries, and live
     performances.
   title: Oregon Coast Trips - Art/History/Culture | Oregon's Adventure Coast
+draft: true
 
 ---
 **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston** has an amazing network of museums, galleries, and live performances.  Browse your way through our site or take advantage of some of our hand-picked adventures in art.
@@ -46,6 +47,12 @@ Step back in time and see the original equipment from The Sun Newspaper as it wa
 A must-stop for railroad enthusiasts. Ring the bell of the signature 1922 Baldwin steam locomotive! This museum showcases railroad and logging equipment in an outdoor display area, as well as photos and railroad memorabilia in an indoor mini-museum. Welcome aboard! Open Wednesdays, Saturdays, and Sundays. {{< link url="http://www.orcorail.org" >}}Visit The Oregon Coast Historic Railway Museum website for more information.{{< /link >}}
 
 {{< spacer >}}
+
+{{< floatimage src="/img/railroad-museum.jpg" float="left" alt="The Charleston Marine Life Center" size="40" >}}
+
+#### Charleston Marine Life Center
+
+Located on the edge of the harbor in Charleston, OR, the Oregon Institute of Marine Biology’s Charleston Marine Life Center is an exciting place for discovery. Aquaria highlighting different coastal ecosystems, a tidepool touch tank, whale and sea lion skeletons, underwater video from deep reefs and undersea volcanoes, and a variety of specimens reveal the hidden and remarkable diversity of life off Oregon, from the coast to the deep sea. And that’s all indoors.
 
 {{< floatimage src="/img/liberty-theater.jpg" float="left" alt="The Liberty Theatre on Oregon's Adventure Coast" size="40" >}}
 
