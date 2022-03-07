@@ -108,17 +108,21 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
   transition: all .25s;
   color: #d74029;
   cursor: pointer;
+  display: flex;
+  align-items: center;
   margin-bottom: .2rem;
   .icon{
     display: inline-block;
-    width: 1rem;
+    width: .8rem;
     margin-right: .2rem;
   }
   &.active{
     text-decoration:  none;
   }
 }
-
+.layout-toggler__label{
+  margin: .18rem .4rem 0 .2rem;
+}
 .clear-button{
   display: flex;
   padding: .5rem 1rem;
