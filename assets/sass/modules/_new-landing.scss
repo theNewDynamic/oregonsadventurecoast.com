@@ -21,20 +21,7 @@
     display: none;
   }
 }
-.landing-layout{
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: repeat(5, 1fr);
-  grid-template-areas: "sidebar main main main main"
-}
 
-.landing-layout__sidebar{
-  grid-area: sidebar;
-}
-.landing-layout__main{
-  grid-area: main;
-  position: relative;
-}
 
 $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, meeting, chamber;
 
@@ -53,6 +40,57 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
   }
 }
 
+@media (max-width: 699px) {
+  .filters{
+    display: none;
+    position: fixed;
+    left:0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+  
+    background-color: white;
+    z-index: 10;
+    padding: 1rem;
+  }
+  .filters__actions{
+    display: flex;
+    font-size: .8em;
+    align-items: center;
+    justify-content: space-between;
+    > * + div {
+      margin-left: .5rem;
+    }
+  }
+  .filters--active{
+    display: block;
+  }
+}
+@media (min-width: 700px) {
+  .filters__actions{
+    .landing-button, #stats{
+      display: none;
+    }
+    > #clear{
+      display: block;
+    }
+  }
+  .landing-layout{
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-areas: "sidebar main main main main"
+  }
+  
+  .landing-layout__sidebar{
+    grid-area: sidebar;
+  }
+  .landing-layout__main{
+    grid-area: main;
+    position: relative;
+  }
+}
+
 .m-card{
   display: flex;
   flex-direction: row;
@@ -67,14 +105,20 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
   margin: 2rem 0;
   font-size: .8em;
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
 }
 .amenity-list__item{
   display: flex;
   align-items: center;
   .icon-lodging{
+    flex-shrink: 0;
     margin-right: .5rem;
+  }
+}
+@media (min-width: 700px) {
+  .amenity-list--grid{
+    grid-template-columns: repeat(5, 1fr);
   }
 }
 .reset-list{
@@ -123,10 +167,10 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
 .layout-toggler__label{
   margin: .18rem .4rem 0 .2rem;
 }
-.clear-button{
+.landing-button{
   display: flex;
   padding: .5rem 1rem;
-  font-size: 1.1em;
+
   background-color: white;
   align-items: center;
   cursor: pointer;
@@ -136,7 +180,6 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
   border: 1px solid $red;
   border-radius: 2rem;
   //width: 100%;
-  margin-bottom: 1.7rem;
   transition: all 300ms;
   svg{
     width: 1rem;

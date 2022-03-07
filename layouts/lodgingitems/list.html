@@ -15,9 +15,14 @@
     {{ end }}
   </div>
   <div x-data="alpineData()" class="landing-layout">
-    <div class="landing-layout__sidebar">
+    <div class="landing-button my-4" @click="displayFilters = true">Filters</div>
+    <div class="landing-layout__sidebar filters" :class="displayFilters ? 'filters--active' : ''">
       <div class="sticky">
-        <div id="clear"></div>
+        <div class="filters__actions">
+          <div class="landing-button" @click="displayFilters = false">Show results</div>
+          <div id="stats"></div>
+        </div>
+        <div id="clear" class="my-4"></div>
       <h3 class="refinement-title">Views</h3>
       <ul class="layout-togglers reset-list">
         {{ range slice
@@ -63,6 +68,7 @@
   const alpineData = function() {
     return {
       active: 'grid',
+      displayFilters: false,
       toggle(item) {
         this.active = item
         if(item === 'list') {
