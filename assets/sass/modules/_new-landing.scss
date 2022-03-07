@@ -48,9 +48,9 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
     right: 0;
     bottom: 0;
     top: 0;
-  
+    overflow: scroll;
     background-color: white;
-    z-index: 10;
+    z-index: 700;
     padding: 1rem;
   }
   .filters__actions{
