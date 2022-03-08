@@ -21,6 +21,7 @@ mediumboxphoto: "/img/tall-ships-event-medium.jpg"
 smallboxphoto: "/img/tall-ships-event-small.jpg"
 photo_alt: Tall Ships return to Coos Bay, May 1-5
 date: '2019-02-20T21:32:52.000+00:00'
+draft: true
 
 ---
 ![](/img/tall-ships-blog-header-695x322.jpg)
