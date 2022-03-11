@@ -42,7 +42,7 @@ Cape Arago State Park: Located at the end of Cape Arago Highway, you’ll find r
 
 From Hwy 101, head west on Newmark Avenue (just south of The Mill Casino). Follow the road until you reach the Stop sign at the End, follow the signs and turn left onto Cape Arago Hwy. Follow this road, once you cross the bridge into Charleston, the road will fork; veer to the right to head for the docks, or veer to the left to follow the Cape Arago Beach Loop. This road will eventually loop back around. Enjoy the views and pull over often!
 
-For Complete Details, [Download our PDF Guide](img/Cape-Arago-Loop-Itinerary.pdf) for the Cape Arago Beach Loop
+For Complete Details, [Download our PDF Guide](/img/cape-arago-loop-itinerary.pdf) for the Cape Arago Beach Loop
 
 Bonus! While you are on your adventure, be sure to stop and visit some of the local stores and markets you will find along the way.  Here are some of our top picks:
 
