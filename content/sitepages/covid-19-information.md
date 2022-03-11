@@ -13,9 +13,11 @@ accordion_sections: []
 boxes: []
 
 ---
-**_Updated November 24, 2021_**
+**_Updated March 11, 2022_**
 
-#### **On August 13, 2021, Governor Brown reinstated the state mask mandate, for both vaccinated and unvaccinated people, while indoors.**
+#### **After nearly two years, masks will no longer be required for indoor public spaces in Oregon starting at Midnight on Saturday, March 12, 2022.** 
+
+#### Businesses and private workplaces will be free to set their own policies around masking for customers and employees. Please follow the policies at any business or workplace you visit.
 
 {{< spacer 25>}}
 
