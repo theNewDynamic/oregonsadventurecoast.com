@@ -42,7 +42,7 @@ Visitors can view and photograph the Cape Arago Lighthouse from a number of vist
 * Is fog getting in the way? Don’t worry, it usually will burn off once the sun comes out.
 * Wear hiking shoes if you plan to get an even better view.
 * If you plan to take pictures, bring a high-powered lens to get close-ups and/or binoculars.
-* Download our **<a href="http://www.oregonsadventurecoast.com/wp-content/uploads/2011/05/Cape-Arago-Loop_09_sm.pdf" target="_blank" rel="noopener noreferrer">PDF Guide for the Cape Arago Beach Loop</a>**
+* Download our [**PDF Guide for the Cape Arago Beach Loop**](/img/cape-arago-loop-itinerary.pdf)
 
 Have fun exploring! Other local lighthouses to look for on your trip include Umpqua River Lighthouse, Coquille River Light, Cape Blanco Lighthouse.
 
