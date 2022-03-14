@@ -34,7 +34,7 @@ After two years of living through what can only be described as unprecedented ti
 
 ### Girlfriend’s Getaway Itinerary Day One
 
-**LATE MORNING: OREGON DUNES NATIONAL RECREATION AREA THEN LUNCH**
+**LATE MORNING: OREGON DUNES NATIONAL RECREATION AREA & LUNCH**
 
 ![](/img/Girlfriends-Dunes.jpg)
 
