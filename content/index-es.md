@@ -9,7 +9,7 @@ slideshow:
   video:
     source: ''
     cover: ''
-  photo_mobile: "/img/gfg-hm-page-slider-mobile-spanish.jpg"
+  photo_mobile: "/img/girlfriends-getaway-mobile-spanish.jpg"
   photo: "/img/gfg-hm-page-slider-2048x850-spanish.jpg"
 welcomeheadline: "¡Bienvenidos a Oregon’s Adventure Coast!"
 masonry1:

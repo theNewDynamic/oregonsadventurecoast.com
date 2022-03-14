@@ -8,7 +8,7 @@ aliases:
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
 - photo: "/img/gfg-hm-page-slider-2048x850-v02.jpg"
-  photo_mobile: "/img/gfg-hm-page-slider-mobile.jpg"
+  photo_mobile: "/img/girlfriends-getaway-mobile-02.jpg"
   url: "/girlfriends"
   video:
     source: ''
