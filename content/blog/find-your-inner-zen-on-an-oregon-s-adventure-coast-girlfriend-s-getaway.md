@@ -96,7 +96,7 @@ Wind down and enjoy a slightly more upscale restaurant experience at the [Hillto
 
 **MORNING: BREAKFAST & GOLDEN AND SILVER FALLS**
 
-![](/img/Golden and Silver State Park Waterfalls_blog-695x322.jpg)
+![](/img/golden-and-silver-state-park-waterfalls-03-22.jpg)
 
 It’s your final day on Oregon’s Adventure Coast, so make it count! Before heading home, grab a fresh, hot cup of coffee and a delicious pastry at a local coffee shop like[ Bayside Coffee & Tea](http://baysidecoffeeshop.com/) ([download our Coffee Shops, Bakeries, & Specialty Shops Guide ](https://www.oregonsadventurecoast.com/img/CoffeeShops-Bakery.pdf)for other ideas) and drive to the [Golden & Silver Falls State Natural Area](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67) where you and your girlfriends will embark on a blissful hike through scenic canyons and lush coastal forests to two magnificent waterfalls. The drive to the falls is part of the adventure (about an hour off Highway 101, on Highway 241), with winding roads that narrow in places - but it’s 100% worth it!
 
