@@ -36,7 +36,7 @@ After two years of living through what can only be described as unprecedented ti
 
 **LATE MORNING: OREGON DUNES NATIONAL RECREATION AREA & LUNCH**
 
-![](/img/Girlfriends-Dunes.jpg)
+![](/img/girlfriends-getaway-hdr-695x322.jpg)
 
 After a beautiful, relaxing drive (or flight) to Oregon’s South Coast, your first stop is the [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/tripideas/oregon-dunes-national-recreation-area/), the largest expansion of coastal sand dunes in North America. It is here where you will jump start your getaway and experience the joy that can only come with an exhilarating ATV ride up and down towering sand dunes. With more than 32,186 acres of dunes, forest, streams and lakes, there are plenty of opportunities for adventure. We recommend booking your Oregon Dunes ride in advance, and read [Wanted: First Time ATV Riders on the Oregon Dunes](https://www.oregonsadventurecoast.com/blog/wanted-first-time-atv-riders-on-the-oregon-dunes/) to learn how to get started!
 
