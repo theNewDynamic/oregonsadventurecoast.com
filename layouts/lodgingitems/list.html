@@ -15,13 +15,15 @@
     {{ end }}
   </div>
   <div x-data="alpineData()" class="landing-layout">
-    <div class="landing-button my-4" @click="displayFilters = true">{{ partial "svg/filter-icon.svg" . }}Filters</div>
+    <div class="landing-button landing-button--red my-4" @click="displayFilters = true">{{ partial "svg/filter-icon.svg" . }}Filters</div>
     <div class="landing-layout__sidebar filters" :class="displayFilters ? 'filters--active' : ''">
       <div class="sticky">
 
         <div class="filters__actions">
           <div id="clear" class="my-4"></div>
-          <div class="landing-button" @click="displayFilters = false">{{ partial "svg/circle-check-solid.svg" . }}Apply Filters</div>
+          <div class="sm:hidden">
+            <div class="landing-button landing-button--red" @click="displayFilters = false">{{ partial "svg/circle-check-solid.svg" . }}Apply Filters</div>
+          </div>
         </div>
         
         <h3 class="refinement-title">Views</h3>
@@ -54,8 +56,8 @@
         <div id="menu-category"></div>
         <h3 class="refinement-title">Amenities</h3>
         <div id="menu-amenities"></div>
-        <div class="mt-4 md:hidden">
-          <div class="landing-button" @click="displayFilters = false">{{ partial "svg/circle-check-solid.svg" . }}Apply Filters</div>
+        <div class="mt-4 sm:hidden">
+          <div class="landing-button landing-button--red" @click="displayFilters = false">{{ partial "svg/circle-check-solid.svg" . }}Apply Filters</div>
         </div>
       </div>
     </div>

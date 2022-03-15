@@ -40,7 +40,7 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
   }
 }
 
-@media (max-width: 699px) {
+@include smallPlus {
   .filters{
     display: none;
     position: fixed;
@@ -65,15 +65,13 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
   .filters--active{
     display: block;
   }
+  .landing-button{
+    font-size: 1.1em;
+  }
 }
-@media (min-width: 700px) {
+@include smallPlusUp {
   .filters__actions{
-    .landing-button, #stats{
-      display: none;
-    }
-    > #clear{
-      display: block;
-    }
+    
   }
   .landing-layout{
     display: grid;
@@ -116,7 +114,8 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
     margin-right: .5rem;
   }
 }
-@media (min-width: 700px) {
+
+@include smallPlusUp {
   .amenity-list--grid{
     grid-template-columns: repeat(5, 1fr);
   }
@@ -159,6 +158,7 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
     display: inline-block;
     width: .8rem;
     margin-right: .2rem;
+    fill: currentColor;
   }
   &.active{
     text-decoration:  none;
@@ -189,6 +189,13 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
   &:hover{
     background-color: $red;
     color: white !important;
+  }
+}
+.landing-button--red{
+  background-color: $red;
+  color: white;
+  svg{
+    fill: white;
   }
 }
 .grid-pagination{
