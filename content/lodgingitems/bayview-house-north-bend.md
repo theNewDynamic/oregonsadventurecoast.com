@@ -17,12 +17,13 @@ address:
   street2: ''
   city: North Bend
   zip: '97459'
+  state: ''
 phone_local: ''
 phone_toll_free: ''
 website: https://abnb.me/qjG1LODMj8
 coordinates:
-  lat: ''
-  lng: ''
+  lat: '43.41602625148186'
+  lng: "-124.2231107288363"
 seo:
   title: Bayview House with stunning views
   description: Bayview House offers stunning views of Coos Bay.
