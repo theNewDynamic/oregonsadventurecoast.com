@@ -12,7 +12,7 @@ address:
   zip: '97420'
 phone_toll_free: 
 phone_local: 541-888-5544
-units: '1'
+units: 1
 cost: 3 - $$$
 property_description: A seven bedroom house in the Charleston Marina with a large
   deck and Bay views. Adjacent to restaurants and within minutes of the state parks
@@ -20,5 +20,8 @@ property_description: A seven bedroom house in the Charleston Marina with a larg
 website: http://www.portsidebythebay.com/The_Portside_Vacation_Rentals_Rates.htm
 amenityList:
 - 7 - Kitchens Available
+coordinates:
+  lat: '43.342888671764925'
+  lng: "-124.32554155092741"
 
 ---
