@@ -20,7 +20,6 @@ property_description: This vacation home features spectacular Bay View, sleeps 8
   on OR’s South coast.
 website: https://www.scod.com/baybreeze/baybreeze.html
 amenityList:
-- 6 - WiFi Available
 - 7 - Kitchens Available
 coordinates:
   lat: '43.34085953352117'
