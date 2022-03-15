@@ -1,9 +1,9 @@
 ---
 title: Bayview House - North Bend
-property_description: Bayview House, in a quiet historic neighborhood in North Bend,
+property_description: 'Bayview House, in a quiet historic neighborhood in North Bend,
   is a great place to unwind and relax. Enjoy beautiful sunrises, storm watch, barbecues
   on the deck or hang out by the fire. Easy access to several state parks, golf and
-  the Dunes.
+  the Dunes. NOTE: Exact location will be provided after booking. '
 photo_name: "/img/nb_vacay_rental2.jpg"
 photo_alt: Bayview House offers stunning views.
 units: 1
