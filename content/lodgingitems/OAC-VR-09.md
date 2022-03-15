@@ -19,8 +19,11 @@ property_description: 'This large beautiful 3-bedroom home has a spectacular vie
   cities on the Oregon coast. Close to recreation, marina and bay activities. '
 website: https://www.vrbo.com/285013ha?noDates=true&oc=9EOgRGQdchwVce8CHW9Dh&unitId=3068649&utm_campaign=earned%3Avrbo%3Asharecopylink%3AUSA&utm_content=285013ha&utm_medium=social&utm_source=direct
 amenityList:
-- amenitySelect: 5
-- amenitySelect: 6
-- amenitySelect: 7
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 7 - Kitchens Available
+coordinates:
+  lat: '43.34098437987616'
+  lng: "-124.32998785396425"
 
 ---

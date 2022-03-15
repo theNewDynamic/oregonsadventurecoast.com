@@ -20,7 +20,10 @@ property_description: 'We offer two Oceanfront vacation rentals: the "Lighthouse
   binoculars.'
 website: https://www.vacationhome.rent/property/loft-by-the-lighthouse-suite/AB-6656504?medium=dynamic_campaign_feed&gclid=CjwKCAjwg-DpBRBbEiwAEV1_-L86x7Wj3OFsuCfpZp5_Y-rCiI0Q5CnmPXXXm8IucYz6F0lgiNn3TBoCTcMQAvD_BwE
 amenityList:
-- amenitySelect: 6
-- amenitySelect: 7
+- 6 - WiFi Available
+- 7 - Kitchens Available
+coordinates:
+  lat: '43.33981067158403'
+  lng: "-124.36650699999997"
 
 ---
