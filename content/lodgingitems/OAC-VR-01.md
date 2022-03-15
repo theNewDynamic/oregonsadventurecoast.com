@@ -12,7 +12,7 @@ address:
   zip: '97420'
 phone_toll_free: 
 phone_local: 805-720-3493
-units: '1'
+units: 1
 cost: 3 - $$$
 property_description: Vacation rental in close proximity to The Port of Charleston,
   Shore Acres State Park & Botanical Gardens, Sunset Bay and Bastendorff beaches,
@@ -23,5 +23,8 @@ website: https://www.vrbo.com/4886447ha
 amenityList:
 - 6 - WiFi Available
 - 7 - Kitchens Available
+coordinates:
+  lat: '43.3406410517822'
+  lng: "-124.33037409205866"
 
 ---
