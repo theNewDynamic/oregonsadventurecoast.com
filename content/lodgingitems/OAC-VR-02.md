@@ -12,12 +12,12 @@ address:
   zip: '97420'
 phone_toll_free: 
 phone_local: 
-units: '1'
+units: 1
 cost: 3 - $$$
-property_description: This 1908 Cottage is a cozy, quiet getaway nestled in an authentic
+property_description: 'This 1908 Cottage is a cozy, quiet getaway nestled in an authentic
   community built originally by loggers and fishermen. It is the perfect destination
   for relaxing after long walks on the beach, a day of riding the dunes, or day wandering
-  the shops.
+  the shops. NOTE: Exact location will be provided after booking. '
 website: http://www.anniescottage.org
 amenityList:
 - 6 - WiFi Available
