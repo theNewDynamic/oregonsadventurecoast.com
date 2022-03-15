@@ -17,7 +17,7 @@ cost: 3 - $$$
 property_description: 'We offer two Oceanfront vacation rentals: the "Lighthouse Suite"
   and "The Loft", both with up close views of Cape Arago Lighthouse. Private steps
   lead to a pristine beach, so bring your kayak, surfboard, fishing pole, camera and
-  binoculars.'
+  binoculars. NOTE: Exact location will be provided after booking. '
 website: https://www.vacationhome.rent/property/loft-by-the-lighthouse-suite/AB-6656504?medium=dynamic_campaign_feed&gclid=CjwKCAjwg-DpBRBbEiwAEV1_-L86x7Wj3OFsuCfpZp5_Y-rCiI0Q5CnmPXXXm8IucYz6F0lgiNn3TBoCTcMQAvD_BwE
 amenityList:
 - 6 - WiFi Available
