@@ -3,7 +3,7 @@ photo_name: "/img/baybreezenewview.jpg"
 photo_alt: Bay Breeze Vacation Home on Coos Bay, OR
 title: Bay Breeze Vacation Home
 property_name: Bay Breeze Vacation Home
-property_category: ''
+property_category: 4 - Vacation Rental Homes
 address:
   street: 
   street2: 
