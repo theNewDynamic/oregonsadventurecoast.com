@@ -14,10 +14,10 @@ phone_toll_free:
 phone_local: 
 units: 1
 cost: 3 - $$$
-property_description: Fisherman's paradise w/spacious yard, views of nature & crabbing
+property_description: 'Fisherman''s paradise w/spacious yard, views of nature & crabbing
   gear! Ocean meets peaceful tranquility in Charleston. This 3-bedroom home offers
   both, within walking distance to Bastendorff Beach while still being just off the
-  beaten path.
+  beaten path. NOTE: Exact location will be provided after booking. '
 website: https://www.vrbo.com/306282
 amenityList:
 - 6 - WiFi Available
