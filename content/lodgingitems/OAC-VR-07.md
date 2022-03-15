@@ -21,5 +21,8 @@ property_description: Dune Haven offers a unique setting with unobstructed lake 
 website: https://www.airbnb.com/rooms/45080408?check_in=2021-10-09&check_out=2021-10-11&translate_ugc=false&federated_search_id=89bc2949-c979-4ba6-ac8d-8ee1cca1c869&source_impression_id=p3_1626197191_aaLADs1xm3h2yqrI&guests=1&adults=1
 amenityList:
 - 7 - Kitchens Available
+coordinates:
+  lat: '43.4079535304468'
+  lng: "-124.22416975090186"
 
 ---
