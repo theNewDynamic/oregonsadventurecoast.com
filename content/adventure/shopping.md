@@ -1,5 +1,6 @@
 ---
 title: Shopping
+instantsearch: shopping
 layout: shoppingpage
 aliases:
 - "/activities/category/shopping"

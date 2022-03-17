@@ -1,31 +1,51 @@
 {{ $s := newScratch }}
-{{ $s.Set "item" dict }}
-{{ $s.SetInMap "item" "title" .Title }}
-{{ $s.SetInMap "item" "latitude" .Params.coordinates.lat }}
-{{ $s.SetInMap "item" "longitude" .Params.coordinates.lng }}
-{{ $s.SetInMap "item" "photo_name" .Params.photo_name }}
-{{ $s.SetInMap "item" "photo_alt" .Params.photo_alt }}
-{{ $s.SetInMap "item" "property_name" (default .Title .Params.property_name ) }}
-{{ $categories := slice }}
-{{ with .Params.property_category }}
-  {{ range . }}
-    {{ with partialCached "func/GetStoreCategoryInt" . . }}
-      {{ $categories = $categories | append . }}
+{{ $s.Set "data" dict }}
+{{ $id := .RelPermalink | md5 }}
+{{ with .File.UniqueID }}
+  {{ $id = . }}
+{{ end }}
+{{ $s.SetInMap "data" "id" $id }}
+{{ $s.SetInMap "data" "title" (.Params.property_name | default .Title) }}
+{{ with .Params.property_description }}
+  {{ $s.SetInMap "data" "description" . }}
+{{ end }}
+{{ with .Params.coordinates }}
+  {{ $coord := dict }}
+  {{ range $index, $value := . }}
+    {{ with $value }}
+      {{ $coord = merge $coord (dict $index (float .)) }}
     {{ end }}
   {{ end }}
-  {{ $s.SetInMap "item" "property_category" $categories }}
+  {{ $s.SetInMap "data" "_geo" $coord }}
+{{ end }}
+{{ with .Params.photo_name }}
+  {{ $s.SetInMap "data" "image" . }}
+{{ end }}
+{{ with .Params.photo_alt }}
+  {{ $s.SetInMap "data" "image_alt" . }}
 {{ end }}
 
-{{ $s.SetInMap "item" "street" .Params.address.street }}
-{{ $s.SetInMap "item" "street2" .Params.address.street2 }}
-{{ $s.SetInMap "item" "city" .Params.address.city }}
-{{ with .Params.address.state }}
-  {{ $s.SetInMap "item" "state" . }}
+{{ with .Params.property_category }}
+  {{ $s.SetInMap "data" "categories" . }}
 {{ end }}
-{{ $s.SetInMap "item" "zip" .Params.address.zip }}
-{{ $s.SetInMap "item" "phone_toll_free" .Params.phone_toll_free }}
-{{ $s.SetInMap "item" "phone_local" .Params.phone_local }}
-{{ $s.SetInMap "item" "property_description" .Params.property_description }}
-{{ $s.SetInMap "item" "website" .Params.website }}
 
-{{ return $s.Get "item" }}
+{{ with .Params.address }}
+  {{ range $key, $value := .}}
+    {{ with . }}
+      {{ $s.SetInMap "data" $key . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $phones := slice }}
+{{ with .Params.phone_toll_free }}
+  {{ $phones = $phones | append . }}
+{{ end }}
+{{ with .Params.phone_local }}
+  {{ $phones = $phones | append . }}
+{{ end }}
+
+{{ with .Params.website }}
+  {{ $s.SetInMap "data" "website" . }}
+{{ end }}
+
+{{ return $s.Get "data" }}

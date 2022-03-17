@@ -166,12 +166,6 @@ tnd_search:
     apiKey: *apiKey
     hitsPerPage: 1000
     widgets:
-    - name: stats
-      templates:
-        text: |
-          {{#hasNoResults}}0 results{{/hasNoResults}}
-          {{#hasOneResult}}1 result{{/hasOneResult}}
-          {{#hasManyResults}}{{#helpers.formatNumber}}{{nbHits}}{{/helpers.formatNumber}} results{{/hasManyResults}}
     - <<: *widget_clear
       includeAttributes: ['category', 'city', 'amenities']
     - <<: *widget_refinement_cities
@@ -201,5 +195,32 @@ tnd_search:
         list: reset-list
         count: hidden
         item: refinement-item
+    - <<: *widget_hits
+    - <<: *widget_map
+  - name: shopping
+    indexName: shopping
+    appId: *appId
+    apiKey: *apiKey
+    hitsPerPage: 1000
+    widgets:
+    - <<: *widget_clear
+      includeAttributes: ['category', 'city', 'amenities']
+    - <<: *widget_refinement_cities
+      #js: js_cities_lodging
+    - name: refinementList
+      container: '#menu-category'
+      attribute: categories
+      operator: and
+      limit: 50
+      js: js_categories_shopping
+      sortBy:
+      - 'name:asc'
+      - 'count:asc'
+      classes:
+        list: reset-list
+        count: hidden
+        item: refinement-item
+      templates:
+        item: *templates_menu_item
     - <<: *widget_hits
     - <<: *widget_map

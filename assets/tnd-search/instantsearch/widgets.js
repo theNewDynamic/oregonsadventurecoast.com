@@ -116,6 +116,31 @@ const facets = {
     id:item, 
     label:item
   })),
+  'categories_shopping': [
+    'Antiques',
+    'Arts & Crafts',
+    'Bookstores',
+    'Boutique',
+    'Clothing',
+    'Florist',
+    'Groceries',
+    'Hardware',
+    'Herbals',
+    'Home Goods',
+    'Liquor Stores/ Growler Fills',
+    'Personal services',
+    'Pet Products',
+    'Pharmacy',
+    'Resale',
+    'Shoes',
+    'Souvenirs',
+    'Specialty Foods',
+    'Sporting Goods',
+    'Vitamins',
+  ].map(item=>({
+    id:item, 
+    label:item
+  })),
   'amenities': [
     {label: 'Restaurant/Bar/Rm Service', id: 'restaurant'},
     {label: 'Continental or Full Bkfst', id: 'breakfast'},
@@ -228,6 +253,15 @@ export let tndWidgets = {
       return getStaticValues('categories_dining', items).map(item => ({
         ...item,
         label: facets['categories_dining'].find(string => string.id == item.value).label,
+      }));
+    },
+  },
+  js_categories_shopping: {
+    transformItems(items) {
+      console.log('trans cat dining')
+      return getStaticValues('categories_shopping', items).map(item => ({
+        ...item,
+        label: facets['categories_shopping'].find(string => string.id == item.value).label,
       }));
     },
   },

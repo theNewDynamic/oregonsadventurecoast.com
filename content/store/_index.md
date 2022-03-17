@@ -1,5 +1,6 @@
 ---
 title: Shopping
+instantsearch: shopping
 _build:
   render: true
   list: false
