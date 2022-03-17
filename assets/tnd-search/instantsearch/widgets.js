@@ -35,12 +35,15 @@ const getPhoneLinks = function(item) {
   let phone_links = []
   if(typeof item.phones !== "undefined") {
     phone_links = item.phones.map(phone => (
-      `<a class="phone-body" href="tel:${phone}">${phone}</a>`
+      `<a class="phone-body" href="tel:${phone}</a>`
     ))
   }
   return phone_links
 }
 let lastInfoWindow = false;
+
+// We need to enforce a hardcoded lists of elements to overwrite InstantSearch behaviour which
+// hides disabled elements rather than graying them out.
 
 const facets = {
   'cities': [
@@ -61,7 +64,7 @@ const facets = {
       label: 'Allegany'
     },
   ],
-  'categories': [
+  'categories_lodging': [
     {
       id: 'Hotels, Motels & Inns',
       label: 'Hotels, Motels & Inns'
@@ -76,6 +79,43 @@ const facets = {
     },
 
   ],
+  'categories_dining': [
+    'American',
+    'Asian',
+    'BBQ',
+    'Bakery',
+    'Bar Food',
+    'Breakfast / Brunch',
+    'Burgers',
+    'Cafe',
+    'Chinese',
+    'Deli',
+    'Dessert',
+    'Dinner & Entertainment',
+    'European',
+    'Fast Food',
+    'German',
+    'Indian',
+    'International',
+    'Italian',
+    'Japanese',
+    'Mediterranean',
+    'Mexican',
+    'Middle Eastern',
+    'Pacific Northwest',
+    'Pizza',
+    'Sandwiches',
+    'Seafood',
+    'Soup',
+    'Steakhouse',
+    'Sushi',
+    'Thai',
+    'Vegan',
+    'Vegetarian',
+  ].map(item=>({
+    id:item, 
+    label:item
+  })),
   'amenities': [
     {label: 'Restaurant/Bar/Rm Service', id: 'restaurant'},
     {label: 'Continental or Full Bkfst', id: 'breakfast'},
@@ -91,7 +131,11 @@ const facets = {
 }
 
 const getStaticValues = function(facet, items) {
-  const staticValues = facets[facet]
+  let staticValues = facets[facet]
+  if(facet == 'cities_dining') {
+    staticValues = facets['cities'].slice(0,-1)
+    console.log(staticValues)
+  }
   return staticValues.map(static_item => {
     let found_item = items.find(item => item.label === static_item.id);
     if(found_item) {
@@ -149,22 +193,43 @@ export let tndWidgets = {
   },
   hits: {
     transformItems(items) {
-      return items.map(item => ({
-        ...item,
-        map_link: getLink(item),
-        phone_links: getPhoneLinks(item)
-      }));
+      return items.map(item => {
+        let categories_string = ''
+        if(item.categories) {
+          categories_string = item.categories.sort().join(' | ')
+        }
+        return {
+          ...item,
+          categories_string,
+          map_link: getLink(item),
+          phone_links: getPhoneLinks(item)
+        }
+      });
     },
   },
-  js_cities: {
+  js_cities_dining: {
+    transformItems(items) {
+      return getStaticValues('cities_dining', items)
+    }
+  },
+  js_cities_lodging: {
     transformItems(items) {
       return getStaticValues('cities', items)
     }
   },
-  js_categories: {
+  js_categories_lodging: {
     transformItems(items) {
-      return getStaticValues('categories', items)
+      return getStaticValues('categories_lodging', items)
     }
+  },
+  js_categories_dining: {
+    transformItems(items) {
+      console.log('trans cat dining')
+      return getStaticValues('categories_dining', items).map(item => ({
+        ...item,
+        label: facets['categories_dining'].find(string => string.id == item.value).label,
+      }));
+    },
   },
   js_amenities: {
     transformItems(items) {

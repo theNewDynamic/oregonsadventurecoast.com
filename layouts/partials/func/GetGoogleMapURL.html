@@ -1,0 +1,56 @@
+{{/*
+  GetGoogleMapURL
+  Description
+
+  @author @regisphilibert
+
+  @context Map (.name)
+    String (.title)
+    String (.street1)
+    String (.street2)
+    String (.city)
+    String (.zip)
+
+
+  @access private
+
+  @returns String 
+
+*/}}
+
+{{ $address := slice }}
+
+{{ with .title }}
+  {{ $address = $address | append (print . ",") }}
+{{ end }}
+
+{{ with .street }}
+  {{ $address = $address | append . }}
+{{ end }}
+
+{{ with .street1 }}
+  {{ $address = $address | append . }}
+{{ end }}
+{{ with .street2 }}
+  {{ $address = $address | append . }}
+{{ end }}
+
+{{ with .city }}
+  {{ $address = $address | append (print . ",") }}
+{{ end }}
+
+{{ with .state }}
+  {{ $address = $address | append . }}
+{{ end }}
+
+{{ with .zip }}
+  {{ $address = $address | append . }}
+{{ end }}
+
+{{ return print
+  "https://www.google.com/maps/search/?"
+  (querify 
+    "api" 1
+    "query" (delimit $address " ") 
+  )
+}}

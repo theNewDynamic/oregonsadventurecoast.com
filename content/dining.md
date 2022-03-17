@@ -1,6 +1,7 @@
 ---
 layout: diningpage
 title: Oregon Coast Trips - Dining Options During Your Stay
+instantsearch: dining
 aliases:
 - "/eat-drink"
 - "/activities/category/eat-drink-activities"
