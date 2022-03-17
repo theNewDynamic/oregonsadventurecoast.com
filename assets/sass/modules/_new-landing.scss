@@ -81,7 +81,12 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
   }
   
   .landing-layout__sidebar{
+    //overflow: scroll;
     grid-area: sidebar;
+    .sticky{
+      overflow: scroll;
+      max-height: 100vh;
+    }
   }
   .landing-layout__main{
     grid-area: main;

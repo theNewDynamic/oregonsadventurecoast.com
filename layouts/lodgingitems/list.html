@@ -15,14 +15,17 @@
     {{ end }}
   </div>
   <div x-data="alpineData()" class="landing-layout">
-    <div class="landing-button landing-button--red my-4" @click="displayFilters = true">{{ partial "svg/filter-icon.svg" . }}Filters</div>
+    <div class="sm:hidden">
+      <div class="landing-button landing-button--red my-4" @click="displayFilters = true">{{ partial "svg/filter-icon.svg" . }}Filters</div>
+    </div>
+
     <div class="landing-layout__sidebar filters" :class="displayFilters ? 'filters--active' : ''">
       <div class="sticky">
 
         <div class="filters__actions">
           <div id="clear" class="my-4"></div>
           <div class="sm:hidden">
-            <div class="landing-button landing-button--red" @click="displayFilters = false">{{ partial "svg/circle-check-solid.svg" . }}Apply Filters</div>
+            <div class="landing-button" @click="displayFilters = false">{{ partial "svg/circle-check-solid.svg" . }}Apply Filters</div>
           </div>
         </div>
         
