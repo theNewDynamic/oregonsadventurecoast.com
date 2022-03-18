@@ -46,11 +46,11 @@ Whether you take to the road, fat bike on the beach, or careen around single-tra
 
 ## Whiskey Run Mountain Biking Trail
 
-[Check out the Whiskey Run Mountain Biking Trails here.](https://www.mtbproject.com/directory/8019222/whiskey-run-trails) The Whiskey Run Mountain Bike Trails is a brand new, one-of-a-kind trail system on the Southern Oregon Coast. Ribbons of clay dirt flow and wind through the Coos County Forest in these cross-country-style trails. Moderate climbing and fun descending make this system worth the drive to the gorgeous Southern Oregon Coast. The trail system is located about 10 minutes from Bandon or Coos Bay off Highway 101, in the mists of the coastal forest.
+[Check out the Whiskey Run Mountain Biking Trails here.](https://www.mtbproject.com/directory/8019222/whiskey-run-trails) The Whiskey Run Mountain Bike Trails is a brand new, one-of-a-kind trail system on the Southern Oregon Coast. Ribbons of clay dirt flow and wind through the Coos County Forest in these cross-country style trails. Moderate climbing and fun descending make this system worth the drive to the gorgeous Southern Oregon Coast. **The 30-mile trail system** **is located about 10 minutes south of Coos Bay off Highway 101, in the mists of the coastal forest.**
 
 Located in an active logging forest, Whiskey Run gives visitors a view of the Coos County Forest most do not get to see - harvesting in this coastal forest while enjoying sweeping views, tranquil streams, and fern-covered forest floors. The trails are a blend between flow and cross country style, and are great for all levels of riders with open sightlines, easy climbs, and chances to catch some air if you want. You'll dip and wind through the forest in this unique South Coast environment.
 
-These professionally built trails are made to withstand the coast's weather, so when the weather is unfavorable in the Cascades and you want to ride some loam and clay, come on down to the coast. However, please don't ride if the trails are muddy. Check trail reports or call the local shops or guide services. _Note: 22 of the 30 miles are complete with Phase III construction set to begin soon._
+These professionally built trails are made to withstand the coast's weather, so when the weather is unfavorable in the Cascades and you want to ride some loam and clay, come on down to the coast. However, please don't ride if the trails are muddy. Check trail reports or call the local shops or guide services. 
 
 {{< spacer 25 >}}
 
