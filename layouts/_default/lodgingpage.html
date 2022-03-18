@@ -2,31 +2,35 @@
 
 {{ partial "featurePhoto" (dict "photo" .Params.photo) }}
 
-<div class="g-wrap gwrap--lg clearfix m-lodging">
-
-    <div class="lodging-intro clearfix">
-        <h1>{{ .Title }}</h1>
-
-        {{ .Content }}
-    </div>
-
-    <div class="amenity-key clearfix">
-        <ul>
-            <li class="restaurant">Restaurant/Bar/Rm Svc</li>
-            <li class="fitness">Fitness Center</li>
-            <li class="pet">Pet Friendly</li>
-            <li class="kitchens">Kitchens Available</li>
-            <li class="handicap">Handicap Accessible</li>
-            <li class="breakfast">Continental or Full Bkfst</li>
-            <li class="pool">Pool/Hot Tub</li>
-            <li class="wifi">WiFi Available</li>
-            <li class="meeting">Meeting Facilities</li>
-            <li class="chamber">Chamber Member</li>
-        </ul>
-    </div>
-
-    {{ partial "entry-tiles-with-map" "lodging" }}
-    
+<div class="g-wrap--lg clearfix m-lodging">
+  <div class="lodging-intro clearfix">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </div>
+  <div class="amenity-list amenity-list--grid">
+    {{ range partialCached "func/GetLodgingAmenities" "GetLodgingAmenities" }}
+      <div class="amenity-list__item">
+        <span class="icon-lodging {{ .id }}"></span> {{ .label }}
+      </div>
+    {{ end }}
+  </div>
+  {{ $refinements := slice
+    (dict  
+      "id" "menu-city"
+      "label" "Towns"
+    )
+    (dict  
+      "id" "menu-category"
+      "label" "Categories"
+    )
+    (dict  
+      "id" "menu-amenities"
+      "label" "Amenities"
+    )
+  }}
+  {{ partial "instantsearch-landing" (dict
+    "refinements" $refinements
+  ) }}
 </div>
 
 {{ end }}

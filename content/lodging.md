@@ -1,5 +1,6 @@
 ---
 title: Places to Stay on the Oregon Coast
+layout: lodgingpage
 photo: "/img/lodging-header.jpg"
 url: /lodging
 instantsearch: lodging
