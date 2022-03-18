@@ -5,8 +5,6 @@ description: 'It was non-stop basketball action on Oregon’s Adventure Coast: C
   Bay, North Bend, Charleston with back-to-back OSAA State Championships! '
 image: "/img/coos-bay-basketball-blog-695x322.jpg"
 tags:
-- "#3ACoosBay"
-- "#4ACoosBay"
 - OSAA
 - Basketball
 - OSAA Basketball Championship
@@ -18,6 +16,7 @@ tags:
 - Oregon Coast
 - The People's Coast
 - 'Oregon''s Adventure Coast '
+- 3ACoosBay
 categories:
 - Miscellaneous
 seo:
