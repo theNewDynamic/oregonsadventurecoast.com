@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: adventures
 title: Shopping
 url: "/shoppingpage"
 photo: "/img/shopping-sub-header.jpg"
