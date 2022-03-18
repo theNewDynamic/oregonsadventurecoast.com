@@ -21,8 +21,6 @@ outputs:
     - RSS
     - REDIR
     - JSON
-  page:
-    - HTML
   section:
     - HTML
     - RSS

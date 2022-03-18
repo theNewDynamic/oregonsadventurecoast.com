@@ -2,7 +2,6 @@
 title: Places to Stay on the Oregon Coast
 layout: lodgingpage
 photo: "/img/lodging-header.jpg"
-url: /lodging
 instantsearch: lodging
 seo:
   description: Find quality, affordable accomodations for your trip to the Oregon
@@ -12,8 +11,8 @@ seo:
 aliases:
 - "/deals"
 outputs:
-- HTML
-- JSON
+- html
+- json
 ---
 As you plan your vacation to the Oregon Coast, browse our list of places to stay located throughout Coos Bay, North Bend, and Charleston. Choose the one close to all the activities and events you are planning during your trip!
 

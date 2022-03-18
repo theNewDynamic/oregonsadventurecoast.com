@@ -1,5 +1,0 @@
-{{- with apply .Data.Pages "partial" "transformers/lodgingitem" "." -}}
-{{- with where . "_geo" "!=" nil -}}
-{{- . | jsonify -}}
-{{- end -}}
-{{- end -}}
