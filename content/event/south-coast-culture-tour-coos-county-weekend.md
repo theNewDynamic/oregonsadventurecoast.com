@@ -3,7 +3,7 @@ address:
   state: OR
   street: ''
   street2: ''
-  city: ''
+  city: Coos Bay, North Bend, Charleston
   zip: ''
 title: South Coast Culture Tour - Coos County Weekend
 startdate: '2022-05-06'
@@ -104,3 +104,7 @@ A showcase of the very best paddling films at the historic Egyptian Theatre in C
 {{< spacer 50 >}}
 
 [Click here for more Exploring Options!](https://www.southcoastculturetour.com/explore/)
+
+{{< spacer 100 >}}
+
+**The first weekend of this event is in Curry County and includes some wonderful experiences as well! More information can be found at the** [**Event's Website**](https://www.southcoastculturetour.com/)**!**
