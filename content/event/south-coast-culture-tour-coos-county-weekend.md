@@ -45,8 +45,7 @@ aliases: []
 
 #### TASTE
 
-\**Digging Your Dinner
-
+**Digging Your Dinner   
 Sunday, May 8th 11am – 4pm**
 
 Spend the morning on the Bay with expert guidance & instruction on digging your shellfish sustainably.  Participants will collect enough items for their meal and then head to Oregon Coast Culinary Institute @ Southwestern Oregon Community College \~ 1988 Newmark Ave., Coos Bay.
