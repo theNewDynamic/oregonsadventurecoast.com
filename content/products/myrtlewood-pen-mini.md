@@ -9,4 +9,6 @@ title: Myrtlewood Pen - Mini
 image: "/img/pens-mini.jpg"
 hover_image: "/img/pens-all-three.jpg"
 description: Small, 4" pen hand-carved by area craftsman from locally sourced Myrtlewood.
+draft: true
+
 ---

@@ -14,10 +14,10 @@ phone_toll_free:
 phone_local: 
 units: 1
 cost: 1 - $
-property_description: Hideout in a coastal forest. Built in the 60's as a fishing
+property_description: 'Hideout in a coastal forest. Built in the 60''s as a fishing
   retreat, this cozy cabin is right on the river & in the heart of old logging history.
   Completely remodeled. It provides a perfect excuse to hike, bike, fish & explore.
-  Close to Coos Bay.
+  Close to Coos Bay. NOTE: Exact location will be provided after booking. '
 website: https://www.airbnb.com/rooms/6306066
 amenityList:
 - 5 - Pet Friendly

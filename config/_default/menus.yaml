@@ -74,3 +74,13 @@ press_media:
 - url: mailto:info@oregonsadventurecoast.com
   name: Email Us
   weight: 60
+open_meetings:
+- url: /open-meetings
+  name: Open Meetings
+  weight: 10
+- url: /staff-directory-meetings
+  name: Staff
+  weight: 20
+- url: /board-of-directors
+  name: Board Of Directors
+  weight: 30

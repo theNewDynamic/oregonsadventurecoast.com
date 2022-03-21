@@ -1,5 +1,5 @@
 ---
-title: Sportsman Show Contest Entry 2020
+title: Sportsman Show Contest Entry 2022
 url: sportsman-show-contest
 layout: headless
 photo: ''
@@ -9,7 +9,9 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
+accordion_sections: []
+boxes: []
 draft: true
 
 ---
-<script type="text/javascript" src="https://form.jotform.com/jsform/200144740948151"></script>
+<script type="text/javascript" src="https://form.jotform.com/jsform/220314999463160"></script>

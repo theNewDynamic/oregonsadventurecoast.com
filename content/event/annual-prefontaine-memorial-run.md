@@ -1,15 +1,15 @@
 ---
-title: Annual Prefontaine Memorial Run - CANCELED
+title: Annual Prefontaine Memorial Run
 photo: "/img/events-runners-header.jpg"
 largeboxphoto: "/img/prefontaine-run.large.jpg"
 mediumboxphoto: "/img/prefontaine-run-medium.jpg"
 smallboxphoto: "/img/prefontaine-run-small.jpg"
-desktoptitle: Annual Prefontaine Memorial Run - CANCELED
-mobiletitle: Prefontaine Run - CANCELED
-hovertitle: Prefontaine Run - CANCELED
+desktoptitle: Annual Prefontaine Memorial Run
+mobiletitle: Prefontaine Run
+hovertitle: Prefontaine Run
 hoverdescription: Race honors one of America’s greatest distance runners, Steve Prefontaine.
-startdate: '2021-09-18'
-enddate: '2021-09-18'
+startdate: '2022-09-17'
+enddate: '2022-09-17'
 address:
   city: Coos Bay
   state: OR
@@ -18,15 +18,15 @@ address:
 website: http://www.prefontainerun.com
 
 ---
-**DUE TO THE INCREASED CASES OF COVID IN THE AREA, THE PREFONTAINE MEMORIAL COMMITTEE HAS MADE THE DIFFICULT DECISION TO CANCEL THIS YEAR'S PREFONTAINE MEMORIAL RUN. WE LOOK FORWARD TO THIS EVENT IN 2022.**
-
 {{< floatimage src="/img/prefontaine-run.large.jpg" float="none" alt="Prefontaine Runners" size="68" >}}
+
+**We anticipate the Prefontaine Memorial Run will be held in September 2022. CONFIRMATION COMING SOON!!**
 
 A rolling and challenging course, this 10K road race honors one of America’s greatest distance runners, Steve Prefontaine. Event includes the 10K run and a 2M walk. Hilly, out and back.
 
-Part of the annual Bay Area Fun Fest, September 18-19, 2021.
+Part of the annual Bay Area Fun Fest, September 17-18, 2022.
 
-[Registration available online](http://www.prefontainerun.com/).
+Registration available online. (COMING SOON)
 
 #### Here are the other exciting events happening this weekend!
 

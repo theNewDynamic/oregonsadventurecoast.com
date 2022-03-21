@@ -17,9 +17,9 @@ image: "/img/winter-steelhead.jpg"
 ---
 _Of the many outdoor recreational activities here on Oregon’s Adventure Coast, winter steelhead fishing is undoubtedly a favorite among sportsmen!  Coos Bay, North Bend and Charleston have a bounty of incredible fishing options, so we asked a local expert where fishermen can go to find the best winter steelhead fishing._
 
-We checked with **Gary Vonderohe**, a Fish Biologist with the <a href="https://www.dfw.state.or.us/resources/fishing/" target="_blank">Oregon Department of Fish & Wildlife</a> in Charleston, who shares his tips and recommendations below to help you plan your winter steelhead fishing trip to Coos Bay!
+We checked with **Gary Vonderohe**, a Fish Biologist with the [Oregon Department of Fish & Wildlife](https://www.dfw.state.or.us/resources/fishing/) in Charleston, who shares his tips and recommendations below to help you plan your winter steelhead fishing trip to Coos Bay!
 
-To learn more, you can always check with the <a href="https://www.dfw.state.or.us/resources/fishing/" target="_blank">Oregon Department of Fish & Wildlife</a> for the most up to date recreation report and visit [Oregon’s Adventure Coast](/equipment-rent-and-buy) for a list of local bait and tackle shops.  Visit our website to learn about more [fresh water fishing options](/tripideas/fresh-water-fishing-options-by-body-of-water) in Coos Bay.
+To learn more, you can always check with the [Oregon Department of Fish & Wildlife](https://www.dfw.state.or.us/resources/fishing/) for the most up to date recreation report and visit [Oregon’s Adventure Coast](/equipment-rent-and-buy) for a list of local bait and tackle shops.  Visit our website to learn about more [fresh water fishing options](/tripideas/fresh-water-fishing-options-by-body-of-water) in Coos Bay.
 
 ### TOP PICKS FOR STEELHEAD RIVERS ON THE SOUTH COAST
 

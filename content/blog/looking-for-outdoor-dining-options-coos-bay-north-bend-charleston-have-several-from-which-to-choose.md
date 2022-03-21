@@ -40,14 +40,14 @@ If you prefer to grab some take-out and eat it while watching the sunset from Su
 {{< spacer 10 >}}
 
 [**Blue Heron**](http://www.blueheronbistro.net/) **- Covered patio seating with heat, Mon-Sat 4pm-8pm, Sun 10a-2pm, 4pm-7pm.**  
-100 W. Commercial Ave.   
+100 W. Commercial Ave.  
 Coos Bay OR, 97420  
 (541) 267-3933
 
 {{< spacer 10 >}}
 
 [**Captain’s Cabin**](https://www.facebook.com/Captains-Cabin-Bar-101307443269162) **– Covered patio seating in their new location, 8am-10pm daily**  
-3290 Ocean Blvd. SE Coos Bay OR, 97420  
+3290 Ocean Blvd. SE Coos Bay OR, 97420 ([website](https://restaurantji.com/or/coos-bay/captains-cabin-llc-/))  
 (541)267-7772
 
 {{< spacer 10 >}}

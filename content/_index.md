@@ -7,12 +7,22 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- photo: "/img/best-storm-watching-15-offer-home-slider.jpg"
-  photo_mobile: "/img/storm-watching-special-mobile-hm-slider.jpg"
-  url: "/storm15"
+- photo: "/img/gfg-hm-page-slider-2048x850-v02.jpg"
+  photo_mobile: "/img/girlfriends-getaway-mobile-02.jpg"
+  url: "/girlfriends"
   video:
-    source: "/img/waves-web-slidertext2.mp4"
-    cover: "/img/best-storm-watching-15-offer-home-slider.jpg"
+    source: ''
+    cover: ''
+- photo: "/img/home-page-slider-fishing-ready-set-06-21.jpg"
+  url: "/fishing"
+- photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
+  url: "/water-recreation"
+- title: Breathtaking Views
+  photo: "/img/shore-acres-slider.jpg"
+- title: Spectacular Sights
+  photo: "/img/lighthouse-hm-slider.jpg"
+- title: Stunning Sunsets
+  photo: "/img/sunset-bay-sunset-hm-slider.jpg"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
@@ -23,22 +33,23 @@ masonry1:
   mobiletitle: The Adventure Store
   url: "/shop/"
 masonry2:
-  desktopphoto: "/img/dunes-high-five-desktop.jpg"
-  desktoptitle: High-fivin' in the Dunes
-  hoverdescription: OAC has the largest expanse of coastal sand dunes in North America.
-    There are 40 miles of dunes, some tower over 500 feet above sea level.
-  hovertitle: Pulse-Pounding Adventure
-  mobilephoto: "/img/hm-mas-atving-mobile.jpg"
-  mobiletitle: High-fivin' in the Dunes
-  url: "/atv-motorsports/"
+  desktopphoto: "/img/mtn-biking-masonry-large-desktop.jpg"
+  desktoptitle: Year-Round Mountain Biking
+  hoverdescription: A heart-pounding mountain biking adventure - choose your challenge
+    from nine, professionally planned and built, trail options for beginners, intermediates
+    and advanced riders.
+  hovertitle: Discover Whiskey Run
+  mobilephoto: "/img/mtn-biking-masonry-mobile.jpg"
+  mobiletitle: Year-Round Mtn Biking
+  url: "/cycling/"
 masonry3:
-  desktopphoto: "/img/kayaking-3-desktop.jpg"
-  desktoptitle: Water Recreation
-  hoverdescription: The best way to enjoy the area's beauty is on the water.
-  hovertitle: See Shore
-  mobilephoto: "/img/hm-mas-kayaking-mobile.jpg"
-  mobiletitle: Water Recreation
-  url: "/water-recreation/"
+  desktopphoto: "/img/hiking-desktop-masonry-01-22.jpg"
+  desktoptitle: Hiking
+  hoverdescription: The best way to enjoy the area's beauty is on foot.
+  hovertitle: Making Tracks
+  mobilephoto: "/img/hiking-mobile-masonry-01-22.jpg"
+  mobiletitle: Hiking
+  url: "/hiking-walking/"
 masonry4:
   desktopphoto: "/img/mother-child-museum-desktop.jpg"
   desktoptitle: Museums & History
@@ -57,20 +68,19 @@ masonry5:
   mobiletitle: Fishing
   url: "/fishing"
 masonry6:
-  desktopphoto: "/img/couple-shopping-desktop.jpg"
-  desktoptitle: Shopping
-  hoverdescription: Wander through our many shops and markets to buy gifts for your
-    friends.
-  hovertitle: Get Your Shopping On
-  mobilephoto: "/img/hm-mas-shopping-mobile.jpg"
-  mobiletitle: Shopping
-  url: "/shopping/"
+  desktopphoto: "/img/dunes-medium-masonry-desktop.jpg"
+  desktoptitle: Untamed Dunes
+  hoverdescription: OAC has the largest expanse of coastal sand dunes in North America.
+  hovertitle: Pulse-Pounding Adventure
+  mobilephoto: "/img/dunes-masonry-mobile-new.jpg"
+  mobiletitle: Untamed Dunes
+  url: "/atv-motorsports/"
 masonry7:
-  desktopphoto: "/img/crab-pot-toss-desktop-02.jpg"
+  desktopphoto: "/img/crabbing-desktop-masonry-v02.jpg"
   desktoptitle: Crabbing
   hoverdescription: 'Grab Your Gear! The year-round crabbing here is second to none.  '
   hovertitle: " Catch Your Fresh Dinner"
-  mobilephoto: "/img/hm-mas-crabbing-mobile.jpg"
+  mobilephoto: "/img/crabbing-mobile-masonry.jpg"
   mobiletitle: Crabbing
   url: "/crabbing-clamming/"
 seo:
@@ -78,12 +88,12 @@ seo:
     nature, wildlife, shopping, arts, and more. Your adventure awaits!
   title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
 home_splashes:
-- url: "/storm15"
-  img: "/img/storm-watching-15-off-special-2021.jpg"
-  alt: 15% Off Storm Watching Lodging Special Jan 1, 2022 through Feb 28, 2022
-- img: "/img/stormwatching-masonryheader.jpg"
+- url: "/girlfriends"
+  img: "/img/gfg-2048x190-banner-02-22.jpg"
+  alt: Enjoy a Girlfriends Getaway this Spring on Oregon's Adventure Coast
+- img: "/img/spring-getaway-girl-clamming-hero-22.jpg"
   alt: 'Plan your getaway '
-  url: "/storm-watching"
+  url: "/clamming"
 
 ---
 We welcome you to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities. We invite you to explore, to discover, to feel, to know…at land’s end, adventure begins. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do. Your vacation will be full of adventure, nature, wildlife, culture, arts and athletics.

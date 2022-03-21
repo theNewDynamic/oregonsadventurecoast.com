@@ -10,3 +10,4 @@ public
 data/env.yaml
 .netlify/state.json
 .github/workflows/README.md
+.hugo_build.lock

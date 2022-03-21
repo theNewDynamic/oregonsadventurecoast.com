@@ -14,10 +14,10 @@ phone_toll_free:
 phone_local: 
 units: 1
 cost: 3 - $$$
-property_description: Relax and revive in this artistic 'cabin' with wonderful views
-  of historic Glenn Creek from every room. Nestled amongst towering fir and cedar
-  trees, with windows everywhere, you'll feel and see nature's presence. View wildlife
-  from the deck.
+property_description: 'Relax and revive in this artistic ''cabin'' with wonderful
+  views of historic Glenn Creek from every room. Nestled amongst towering fir and
+  cedar trees, with windows everywhere, you''ll feel and see nature''s presence. View
+  wildlife from the deck. NOTE: Exact location will be provided after booking. '
 website: http://www.belowthefallslodge.com
 amenityList:
 - 6 - WiFi Available

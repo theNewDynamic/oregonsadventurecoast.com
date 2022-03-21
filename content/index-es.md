@@ -5,12 +5,12 @@ lang: es
 url: es/
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- url: "/storm15"
+- url: "/girlfriends"
   video:
-    source: "/img/waves-web-960x540-spanish.mp4"
-    cover: "/img/storm-watching-spanish-hm-slider.jpg"
-  photo_mobile: "/img/storm-watching-mobile-spanish.jpg"
-  photo: "/img/storm-watching-spanish-hm-slider.jpg"
+    source: ''
+    cover: ''
+  photo_mobile: "/img/girlfriends-getaway-mobile-spanish.jpg"
+  photo: "/img/gfg-hm-page-slider-2048x850-spanish.jpg"
 welcomeheadline: "¡Bienvenidos a Oregon’s Adventure Coast!"
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
@@ -21,22 +21,23 @@ masonry1:
   mobiletitle: The Adventure Store
   url: "/shop/"
 masonry2:
-  desktopphoto: "/img/dunes-high-five-desktop.jpg"
-  desktoptitle: High-fivin' in the Dunes
-  hoverdescription: OAC has the largest expanse of coastal sand dunes in North America.
-    There are 40 miles of dunes, some tower over 500 feet above sea level.
-  hovertitle: Pulse-Pounding Adventure
-  mobilephoto: "/img/hm-mas-atving-mobile.jpg"
-  mobiletitle: High-fivin' in the Dunes
-  url: "/atv-motorsports/"
+  desktopphoto: "/img/mtn-biking-masonry-large-desktop.jpg"
+  desktoptitle: Year-Round Mountain Biking
+  hoverdescription: A heart-pounding mountain biking adventure - choose your challenge
+    from nine, professionally planned and built, trail options for beginners, intermediates
+    and advanced riders.
+  hovertitle: Discover Whiskey Run
+  mobilephoto: "/img/mtn-biking-masonry-mobile.jpg"
+  mobiletitle: Year-Round Mtn Biking
+  url: "/cycling/"
 masonry3:
-  desktopphoto: "/img/kayaking-3-desktop.jpg"
-  desktoptitle: Water Recreation
-  hoverdescription: The best way to enjoy the area's beauty is on the water.
-  hovertitle: See Shore
-  mobilephoto: "/img/hm-mas-kayaking-mobile.jpg"
-  mobiletitle: Water Recreation
-  url: "/water-recreation/"
+  desktopphoto: "/img/hiking-desktop-masonry-01-22.jpg"
+  desktoptitle: Hiking
+  hoverdescription: The best way to enjoy the area's beauty is on foot.
+  hovertitle: Make Tracks
+  mobilephoto: "/img/hiking-mobile-masonry-01-22.jpg"
+  mobiletitle: Hiking
+  url: "/hiking-walking/"
 masonry4:
   desktopphoto: "/img/mother-child-museum-desktop.jpg"
   desktoptitle: Museums & History
@@ -55,20 +56,19 @@ masonry5:
   mobiletitle: Fishing
   url: "/fishing"
 masonry6:
-  desktopphoto: "/img/couple-shopping-desktop.jpg"
-  desktoptitle: Shopping
-  hoverdescription: Wander through our many shops and markets to buy gifts for your
-    friends.
-  hovertitle: Get Your Shopping On
-  mobilephoto: "/img/hm-mas-shopping-mobile.jpg"
-  mobiletitle: Shopping
-  url: "/shopping/"
+  desktopphoto: "/img/dunes-medium-masonry-desktop.jpg"
+  desktoptitle: Untamed Dunes
+  hoverdescription: OAC has the largest expanse of coastal sand dunes in North America.
+  hovertitle: Pulse-Pounding Adventure
+  mobilephoto: "/img/dunes-masonry-mobile-new.jpg"
+  mobiletitle: Untamed Dunes
+  url: "/atv-motorsports/"
 masonry7:
-  desktopphoto: "/img/crab-pot-toss-desktop-02.jpg"
+  desktopphoto: "/img/crabbing-desktop-masonry-v02.jpg"
   desktoptitle: Crabbing
   hoverdescription: 'Grab Your Gear! The year-round crabbing here is second to none.  '
   hovertitle: " Catch Your Fresh Dinner"
-  mobilephoto: "/img/hm-mas-crabbing-mobile.jpg"
+  mobilephoto: "/img/crabbing-mobile-masonry.jpg"
   mobiletitle: Crabbing
   url: "/crabbing-clamming/"
 seo:
@@ -76,9 +76,9 @@ seo:
     nature, wildlife, shopping, arts, and more. Your adventure awaits!
   title: Planifique sus vacaciones | En Oregon costa de aventuras
 home_splashes:
-- img: "/img/stormwatching-masonryheader-spainish.jpg"
-  alt: Planifique sus vacaciones
-  url: "/storm-watching"
+- img: "/img/clamming-girl-hero-image-spanish.jpg"
+  alt: Vacaciones De Primavera - Descubra Nuevos Lugares
+  url: "/clamming"
 
 ---
 Le damos la bienvenida a las ciudades de Coos Bay, North Bend y Charleston, conocidas en conjunto como Oregon's Adventure Coast. Aquí, el mar se encuentra con la tierra, permitiendo una variedad de experiencias. Lo invitamos a explorar, descubrir, sentir y experimentar. 

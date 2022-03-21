@@ -16,11 +16,15 @@ units: 1
 cost: 3 - $$$
 property_description: 'This large beautiful 3-bedroom home has a spectacular view
   of the Bay. Enjoy the relaxing atmosphere of one of Oregon’s most diverse and largest
-  cities on the Oregon coast. Close to recreation, marina and bay activities. '
+  cities on the Oregon coast. Close to recreation, marina and bay activities. NOTE:
+  Exact location will be provided after booking. '
 website: https://www.vrbo.com/285013ha?noDates=true&oc=9EOgRGQdchwVce8CHW9Dh&unitId=3068649&utm_campaign=earned%3Avrbo%3Asharecopylink%3AUSA&utm_content=285013ha&utm_medium=social&utm_source=direct
 amenityList:
-- amenitySelect: 5
-- amenitySelect: 6
-- amenitySelect: 7
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 7 - Kitchens Available
+coordinates:
+  lat: '43.34098437987616'
+  lng: "-124.32998785396425"
 
 ---
