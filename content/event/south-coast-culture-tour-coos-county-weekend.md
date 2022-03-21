@@ -29,7 +29,6 @@ largeboxphoto: "/img/scct-1024x395.jpg"
 mediumboxphoto: "/img/scct-667x355.jpg"
 smallboxphoto: "/img/scct-340x214.jpg"
 aliases: []
-draft: true
 
 ---
 ![](/img/scct-horizontal-logo-color-100.jpeg)
@@ -38,11 +37,16 @@ draft: true
 
 {{< spacer 50 >}}
 
+![](/img/scct-2022.jpg)
+
+{{< spacer 50 >}}
+
 #### Experiences include:
 
 #### TASTE
 
-**Digging Your Dinner   
+\**Digging Your Dinner
+
 Sunday, May 8th 11am – 4pm**
 
 Spend the morning on the Bay with expert guidance & instruction on digging your shellfish sustainably.  Participants will collect enough items for their meal and then head to Oregon Coast Culinary Institute @ Southwestern Oregon Community College \~ 1988 Newmark Ave., Coos Bay.
@@ -51,7 +55,7 @@ The Afternoon will be spent in the professional kitchen of the Oregon Coast Culi
 
 {{< spacer 50 >}}
 
-**Handcrafted Cocktail Making & Tapas Tasting   
+**Handcrafted Cocktail Making & Tapas Tasting  
 Saturday, 5/7 4 – 5:30pm**
 
 Join Stillwagon Distillery & Wildflour Public House for a taste explosion!  Learn to craft your own cocktails made with the finest real ingredients and enjoy delicious farm to table tapas.  Must be 21 & over to attend.  A fun interactive experience made with local ingredients. Wildflour Public House: 1989 Sherman Ave North Bend, Oregon
@@ -64,7 +68,7 @@ Join Stillwagon Distillery & Wildflour Public House for a taste explosion!  Lear
 
 #### CREATE
 
-**Guided Paint Event   
+**Guided Paint Event  
 Friday, May 6 \~ 4-7pm**
 
 Join us for this guided paint event of Facerock.  Learn to paint this iconic Bandon scene! I will provide the supplies and instruction, you bring any snacks, beverages and your bravery! This event is great for older teens and adults.
@@ -73,8 +77,8 @@ josiesARTLAB, 999 N Front St  Coos Bay OR 97420
 
 {{< spacer 50 >}}
 
-**Washed Ashore – Volunteer Workshop Experience   
-Friday, May 6th & Saturday, May 7th 10 am-12 pm** 
+**Washed Ashore – Volunteer Workshop Experience  
+Friday, May 6th & Saturday, May 7th 10 am-12 pm**
 
 Private tour of exhibit & gallery followed by Volunteer Workshop hands-on experience to help create pieces that will go on next sculpture. Open to all ages. Free Experience \~ donations are gladly accepted. 325 2nd St SE, Bandon, OR 97411
 
@@ -93,7 +97,7 @@ Join the Wild Rivers Coast Mountain Bicycling Association to “Voluntour” you
 
 {{< spacer 50 >}}
 
-**World Tour Paddling Film Festival   
+**World Tour Paddling Film Festival  
 Saturday, 5/7 Doors Open 6pm Film Festival 7pm-9pm**
 
 A showcase of the very best paddling films at the historic Egyptian Theatre in Coos Bay.  Enjoy delicious food from Elkhorn BBQ & Food Truck, beverages from 7 Devils Brewing, information on local Surfrider events & prizes.  A benefit for Surfrider Foundation, Coos Bay. Egyptian Theatre, 229 S Broadway, Coos Bay, OR 97420
