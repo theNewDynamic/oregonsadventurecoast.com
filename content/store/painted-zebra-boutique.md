@@ -18,7 +18,7 @@ phone_toll_free: ''
 website: https://www.facebook.com/paintedzebraboutique
 coordinates:
   lat: '43.406768'
-  lng: "--124.223873"
+  lng: "-124.223873"
 seo:
   title: ''
   description: ''

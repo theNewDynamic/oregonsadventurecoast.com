@@ -2,20 +2,23 @@
 
 {{ partial "featurePhoto" (dict "photo" .Params.photo) }}
 
-<div class="g-wrap clearfix m-lodging">
-
-    <div class="lodging-intro clearfix">
-        <h1>{{ .Title }}</h1>
-
-        {{ .Content }}
-    </div>
-
-    {{ partial "entry-tiles-with-map" "dining" }}
-    
+<div class="g-wrap--lg clearfix m-lodging">
+  <div class="lodging-intro clearfix">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </div>
+  {{ $refinements := slice
+    (dict  
+      "id" "menu-city"
+      "label" "Towns"
+    )
+    (dict  
+      "id" "menu-category"
+      "label" "Categories"
+    )
+  }}
+  {{ partial "instantsearch-landing" (dict
+    "refinements" $refinements
+  ) }}
 </div>
-
-{{ end }}
-
-{{ define "footerJs" }}
-{{ partial "script" "entries" }}
 {{ end }}

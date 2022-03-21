@@ -4,6 +4,8 @@
 {{ $style := resources.Get "js/initMap.js" | resources.Minify }}
 <script src="{{ $style.Permalink }}"></script>
 {{ end }}
+
+
 {{ with partialCached "func/GetAssetSRC" . . }}
   <script 
     type="text/javascript" src="{{ .js }}"
@@ -25,6 +27,7 @@
     {{ $mapKey = . }}
   {{ end }}
 {{ end }}
-<script async defer src="https://maps.googleapis.com/maps/api/js?key={{ $mapKey }}&callback=initMap"
+<script defer src="https://unpkg.com/alpinejs@3.9.0/dist/cdn.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?=js?v=quarterly&key={{ $mapKey }}"
 type="text/javascript"></script>
 {{ end }}

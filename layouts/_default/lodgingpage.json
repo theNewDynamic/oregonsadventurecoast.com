@@ -1,0 +1,5 @@
+{{- with apply (where site.RegularPages "Type" "lodgingitems") "partial" "transformers/lodgingitem" "." -}}
+{{- with where . "_geo" "!=" nil -}}
+{{- . | jsonify -}}
+{{- end -}}
+{{- end -}}

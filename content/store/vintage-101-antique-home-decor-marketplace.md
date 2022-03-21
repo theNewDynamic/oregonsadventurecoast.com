@@ -18,7 +18,7 @@ phone_local: "(541) 808-0980"
 phone_toll_free: ''
 website: https://www.facebook.com/Vintage101CoosBay/
 coordinates:
-  lat: '43.366199 '
+  lat: '43.366199'
   lng: "-124.213044"
 seo:
   title: ''

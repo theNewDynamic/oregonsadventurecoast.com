@@ -1,40 +1,61 @@
 {{ $s := newScratch }}
-{{ $s.Set "item" dict }}
-{{ $s.SetInMap "item" "title" .Title }}
-{{ $s.SetInMap "item" "latitude" .Params.coordinates.lat }}
-{{ $s.SetInMap "item" "longitude" .Params.coordinates.lng }}
-{{ $s.SetInMap "item" "photo_name" .Params.photo_name }}
-{{ $s.SetInMap "item" "photo_alt" .Params.photo_alt }}
-{{ $s.SetInMap "item" "property_name" (default .Title .Params.property_name ) }}
-{{ $s.SetInMap "item" "property_category" (substr .Params.property_category 0 1) }}
-{{ $s.SetInMap "item" "street" .Params.address.street }}
-{{ $s.SetInMap "item" "street2" .Params.address.street2 }}
-{{ $s.SetInMap "item" "city" .Params.address.city }}
-{{ $s.SetInMap "item" "state" (.Params.address.state | default "OR") }}
-{{ $s.SetInMap "item" "zip" .Params.address.zip }}
-{{ $s.SetInMap "item" "phone_toll_free" .Params.phone_toll_free }}
-{{ $s.SetInMap "item" "phone_local" .Params.phone_local }}
-{{ $s.SetInMap "item" "units" .Params.units }}
-{{ $s.SetInMap "item" "cost" (substr .Params.cost 0 1) }}
-{{ $s.SetInMap "item" "property_description" .Params.property_description }}
-{{ $s.SetInMap "item" "website" .Params.website }}
-
-{{ with .Params.amenityList }}
-  {{ $amenities := slice }}
-  {{ range $amenityIndex, $amenity := . }}
-    {{ $entry := "" }}
-    {{ if eq (printf "%T" $amenity) "string" }}
-        {{ $entry = index (split $amenity " - ") 0 }}
-    {{ else }}
-        {{ $entry = substr $amenity.amenitySelect 0 1 }}
-    {{ end }}
-    {{ with $entry }}
-    {{ $amenities = $amenities | append (int .) }}
+{{ $s.Set "data" dict }}
+{{ $id := .RelPermalink | md5 }}
+{{ with .File.UniqueID }}
+  {{ $id = . }}
+{{ end }}
+{{ $s.SetInMap "data" "id" $id }}
+{{ $s.SetInMap "data" "title" .Title }}
+{{ with .Params.coordinates }}
+  {{ $coord := dict }}
+  {{ range $index, $value := . }}
+    {{ with $value }}
+      {{ $coord = merge $coord (dict $index (float .)) }}
     {{ end }}
   {{ end }}
-  {{ with $amenities }}
-    {{ $s.SetInMap "item" "amenityList" . }}
+  {{ $s.SetInMap "data" "_geo" $coord }}
+{{ end }}
+{{ $amenities := slice }}
+{{ with .Params.amenityList }}
+  {{ with apply . "partial" "func/GetLodgingAmenity" "."}}
+    {{ $amenities = . }}
   {{ end }}
 {{ end }}
 
-{{ return $s.Get "item" }}
+{{ with $amenities }}
+  {{ $s.SetInMap "data" "amenities" . }}
+{{ end }}
+
+{{ with .Params.property_category }}
+  {{ $s.SetInMap "data" "category" (partialCached "func/StripForestryNumber" . .) }}
+{{ end }}
+{{ with .Params.units }}
+  {{ $s.SetInMap "data" "units" . }}
+{{ end }}
+{{ with .Params.cost }}
+  {{ $s.SetInMap "data" "cost" (partialCached "func/StripForestryNumber" . .) }}
+{{ end }}
+{{ $s.SetInMap "data" "description" .Params.property_description }}
+{{ $s.SetInMap "data" "website" .Params.website }}
+{{ with .Params.photo_name }}
+  {{ $s.SetInMap "data" "image" . }}
+{{ end }}
+
+{{ with .Params.address }}
+  {{ range $key, $value := .}}
+    {{ with . }}
+      {{ $s.SetInMap "data" $key . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $phones := slice }}
+{{ range slice "phone_toll_free" "phone_local" }}
+  {{ with index $.Params . }}
+    {{ $phones = $phones | append . }}
+  {{ end }}
+{{ end }}
+{{ with $phones }}
+  {{ $s.SetInMap "data" "phones" (slice .) }}
+{{ end }}
+
+{{ return $s.Get "data" }}

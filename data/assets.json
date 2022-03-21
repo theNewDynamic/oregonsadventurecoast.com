@@ -1,38 +1,34 @@
 {
   "app": {
-    "js": "/dist/app.cd5e1b9ba86d89a4f12f.js",
-    "jsIntegrity": "sha256-KcW0dju5Jc3dlN9yXpzRd1wvaqiDEQE/zdxOl7gElhg="
+    "js": "/dist/app.48507a614095a4113d46.js",
+    "jsIntegrity": "sha256-/wRvPmWrKw/ztx5FmiF/GR31/QIVTyox1dJxBgf5RtU="
   },
   "calendar": {
-    "js": "/dist/calendar.4fd053de10cd0422b462.js",
-    "jsIntegrity": "sha256-AtdB5UIfGuIxJL5OCQfS7X9k2BcIwh4hXriWijVUF44="
-  },
-  "entries": {
-    "js": "/dist/entries.7714d8f2b0af6a11e5a1.js",
-    "jsIntegrity": "sha256-sIxyftym++/wIPYPbL/H6XMb2TimJYD1IFJlEChUxIg="
+    "js": "/dist/calendar.332a2a740b012c4131ff.js",
+    "jsIntegrity": "sha256-UNzdyEpd6q0iZsh4vdDYDnQ4NNpLtKAWzmLQZ+AwQ30="
   },
   "equipment": {
-    "js": "/dist/equipment.67d87dfcdcd3adb1ab8a.js",
-    "jsIntegrity": "sha256-V0Q5FW8cWmttMER3XWZqZdKH/tB+Ulj6iKhRgQlia8Q="
+    "js": "/dist/equipment.2b6e0e7f34c8e3a68f37.js",
+    "jsIntegrity": "sha256-PY9e52B4+lbP36sZctNyLa1vC9mOXSoWTNOHP4FVaWs="
   },
   "events": {
-    "js": "/dist/events.0920059403f86d281f62.js",
-    "jsIntegrity": "sha256-0+S7Hjr8EnCczyH9XoKpq8cZ5y/QNFSOT1418fiXKj0="
+    "js": "/dist/events.eb38f669f075b2e4d1b9.js",
+    "jsIntegrity": "sha256-mAxknB7mWBQVPV+5g1xDxA8jrxNanixrVH+VttmPfxw="
   },
   "instagram": {
-    "js": "/dist/instagram.9a9ae40bc4c7ab61fd1f.js",
-    "jsIntegrity": "sha256-7p6W5gbB+eQYOVmkSUtJJlOu75rZ88OFvZVrOMXPn6Q="
+    "js": "/dist/instagram.cca5e1be31f2182cb90f.js",
+    "jsIntegrity": "sha256-V9Ezh2XXBEZd67PtAmzLSAjQDSiO4D3JhoQEoR2DmEU="
   },
   "main": {
-    "js": "/dist/main.8e2d205cb5fe1ba7e27c.js",
-    "jsIntegrity": "sha256-YCrO2ARH0YogMiv4HriqW7dbQ+ehmHAEFp2o+27CItM="
+    "js": "/dist/main.66eaf5682a401a2d1f2d.js",
+    "jsIntegrity": "sha256-X4ljzyhjvWCQNaIm+HMvU5nXOzHRfPVtV2MCH1+JYGQ="
   },
   "search": {
-    "js": "/dist/search.cda7bde5ef51761ab3c2.js",
-    "jsIntegrity": "sha256-476WlXqu246e2YcUdXJTZA1km34SKqRTORXmduMfJgQ="
+    "js": "/dist/search.e7edbbff8087cc703d85.js",
+    "jsIntegrity": "sha256-rhdixc98uRGdFshItMIWZ/I0XO7w5Ya+hXZ2JcVDyaE="
   },
   "tourcharters": {
-    "js": "/dist/tourcharters.772be3fa77bc6b3114c5.js",
-    "jsIntegrity": "sha256-aWyZlFvo3qhFO/WFpviOIeUrJaCIFh2ot2TXJDAyybA="
+    "js": "/dist/tourcharters.4d529e1a876f8dc72284.js",
+    "jsIntegrity": "sha256-j9Rh3ZUcpwtTuJNbWRvgnBi2rz3J2Hzl+OiHAPS9FBw="
   }
 }

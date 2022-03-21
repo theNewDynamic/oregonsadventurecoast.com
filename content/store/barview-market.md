@@ -14,8 +14,8 @@ phone_local: "(541) 888-2322"
 phone_toll_free: ''
 website: https://www.facebook.com/pages/category/Grocery-Store/Barview-Market-111669605554151/
 coordinates:
-  lat: "(541) 888-2322"
-  lng: "-124.31174"
+  lat: '43.3544684'
+  lng: "-124.311709"
 seo:
   title: ''
   description: ''

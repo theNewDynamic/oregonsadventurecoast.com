@@ -9,3 +9,13 @@
 .clearfix:after { clear: both; }
 .clearfix { *zoom: 1; }
 .clear { clear: both; }
+
+$unit: .25rem;
+$scale: 1, 2, 4, 8;
+
+@each $var in $scale {
+  .my-#{$var} {
+      margin-top: $var * $unit;
+      margin-bottom: $var * $unit
+  }
+}

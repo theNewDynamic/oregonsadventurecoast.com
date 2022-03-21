@@ -1,0 +1,238 @@
+#map{
+  width: 100%;
+  visibility: hidden;
+  position: absolute;
+}
+.sticky{
+  position: sticky;
+  top:1rem
+}
+.ais-GeoSearch-map{
+  height: 600px;
+  margin-bottom: 1rem;
+}
+
+.landing-layout.map-on{
+  #map{
+    visibility: visible;
+    position: relative;
+  }
+  .entries{
+    display: none;
+  }
+}
+
+
+$icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, meeting, chamber;
+
+.icon-lodging{
+  display: inline-block;
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: 20px 20px;
+  width: 20px;
+  height: 20px;
+}
+@each $icon in $icons {
+  .icon-lodging.#{$icon} {
+    background-image: url('/layout-images/amenity-key-icons/#{$icon}.svg');
+  }
+}
+
+@include smallPlus {
+  .filters{
+    display: none;
+    position: fixed;
+    left:0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    overflow: scroll;
+    background-color: white;
+    z-index: 700;
+    padding: 1rem;
+  }
+  .filters__actions{
+    display: flex;
+    font-size: .8em;
+    align-items: center;
+    justify-content: space-between;
+    > * + div {
+      margin-left: .5rem;
+    }
+  }
+  .filters--active{
+    display: block;
+  }
+  .landing-button{
+    font-size: 1.1em;
+  }
+}
+@include smallPlusUp {
+  .filters__actions{
+    
+  }
+  .landing-layout{
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-areas: "sidebar main main main main"
+  }
+  
+  .landing-layout__sidebar{
+    //overflow: scroll;
+    grid-area: sidebar;
+    .sticky{
+      overflow: scroll;
+      max-height: 100vh;
+    }
+  }
+  .landing-layout__main{
+    grid-area: main;
+    position: relative;
+  }
+}
+
+.m-card{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 1px solid #d3d3d3;
+  overflow: hidden;
+  border-radius: 6px;
+  position: relative;
+}
+
+.amenity-list--grid{
+  margin: 2rem 0;
+  font-size: .8em;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+.amenity-list__item{
+  display: flex;
+  align-items: center;
+  .icon-lodging{
+    flex-shrink: 0;
+    margin-right: .5rem;
+  }
+}
+
+@include smallPlusUp {
+  .amenity-list--grid{
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+.reset-list{
+  padding: 0;
+  list-style-type:none;
+}
+
+.refinement-item{
+  display: flex;
+  align-items: center;
+  color: $red;
+  margin-bottom: .4rem;
+  label.disabled{
+    opacity: .5;
+  }
+}
+
+.refinement-title{
+  font-family: fjalla one,sans-serif;
+  font-size: 28px;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #d74029;
+  padding: 15px 15px 0 0;
+  line-height: .7em;
+  margin: 0 0 20px 0;
+  font-weight: 400;
+}
+
+.layout-toggler{
+  transition: all .25s;
+  color: #d74029;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin-bottom: .2rem;
+  .icon{
+    display: inline-block;
+    width: .8rem;
+    margin-right: .2rem;
+    fill: currentColor;
+  }
+  &.active{
+    text-decoration:  none;
+  }
+}
+.layout-toggler__label{
+  margin: .18rem .4rem 0 .2rem;
+}
+.landing-button{
+  display: flex;
+  padding: .5rem 1rem;
+
+  background-color: white;
+  align-items: center;
+  cursor: pointer;
+  color: $red;
+  box-shadow: none;
+  text-shadow: none;
+  border: 1px solid $red;
+  border-radius: 2rem;
+  //width: 100%;
+  transition: all 300ms;
+  svg{
+    width: 1rem;
+    margin-right: .4rem;
+    fill: currentColor
+  }
+  &:hover{
+    background-color: $red;
+    color: white !important;
+  }
+}
+.landing-button--red{
+  background-color: $red;
+  color: white;
+  svg{
+    fill: white;
+  }
+}
+.grid-pagination{
+  ul{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: end;
+
+  }
+  .ais-Pagination-link{
+    display: flex;
+    align-items: center;
+    padding: 4px 10px;
+
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+
+    color: currentColor;
+  }
+  .ais-Pagination-item{
+    background-color: rgba(96,96,96,.37);
+    color: #fff;
+    border-radius: 4px;
+    -webkit-transition: all .25s;
+    -moz-transition: all .25s;
+    transition: all .25s;
+    margin: 0 .25rem;
+  }
+  .ais-Pagination-item--selected{
+    background-color: $red;
+  } 
+}
+

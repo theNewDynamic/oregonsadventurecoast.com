@@ -1,57 +1,42 @@
 {{ $s := newScratch }}
 
-{{ range $key := slice
-  "address1"
-  "state"
-  "zip_code"
-  "phone1"
-  "phone2"
-  "phone"
-  "restaurants_category"
-}}
-  {{ with $.attributes }}
-    {{ range $attr := . }}
-      {{ with .schema }}
-        {{ with .name }}
-          {{ if eq . $key }}
-            {{ $value := $attr.value }}
-            {{ if eq $key "restaurants_category" }}
-              {{ $value = split $value "| " }}
-              {{ $s.SetInMap "data" "category" $value }}
-            {{ else if eq $key "zip_code" }}
-              {{ $s.SetInMap "data" "zipcode" $value }}
-            {{ else }}
-              {{ $s.SetInMap "data" $key $value }}
-            {{ end }}
+{{ $s.Set "data" dict }}
 
-          {{ end }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
+{{ $s.SetInMap "data" "id" .id }}
+{{ $s.SetInMap "data" "title" .name }}
 
+{{ if and $.latitude $.longitude }}
+  {{ $s.SetInMap "data" "_geo" (dict 
+    "lat" (float $.latitude)
+    "lng" (float $.longitude)
+  ) }}
 {{ end }}
 
 {{ range $key := slice 
-  "name"
   "description"
-  "media"
-  "latitude"
-  "longitude"
-  "uuid"
 }}
   {{ with index $ $key }}
     {{ $s.SetInMap "data" $key . }}
   {{ end }}
 {{ end }}
 
-{{ $s.SetInMap "data" "links" slice }}
+{{ with $.media.photos }}
+  {{ with index . 0 }}
+    {{ with .image }}
+      {{ $s.SetInMap "data" "image" . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
 {{ with .links }}
-  {{ $s.SetInMap "data" "links" . }}
   {{ with where . "network_type" "==" "Website" }}
     {{ with index . 0 }}
       {{ $s.SetInMap "data" "website" .url }}
     {{ end }}
+  {{ else }}
+     {{ with index . 0 }}
+      {{ $s.SetInMap "data" "website" .url }}
+     {{ end }}
   {{ end }}
 {{ end }}
 
@@ -60,6 +45,29 @@
     {{ with index . 0 }}
       {{ $s.SetInMap "data" "city" .name }}
     {{ end }}
+  {{ end }}
+{{ end }}
+
+
+{{ with $.attributes }}
+  {{ $phones := slice }}
+  {{ range $object := . }}
+    {{ with .schema }}
+      {{ if eq .name "address1" }}
+        {{ $s.SetInMap "data" "street" $object.value }}
+      {{ else if eq .name "state" }}
+        {{ $s.SetInMap "data" "state" $object.value }}
+      {{ else if eq .name "zip_code" }}
+        {{ $s.SetInMap "data" "zip" $object.value }}
+      {{ else if eq .name "restaurants_category" }}
+        {{ $s.SetInMap "data" "categories" (split $object.value "| ") }}
+      {{ else if eq .name "phone" "phone1" "phone2" }}
+        {{ $phones = $phones | append $object.value }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ with $phones }}
+    {{ $s.SetInMap "data" "phones" . }}
   {{ end }}
 {{ end }}
 

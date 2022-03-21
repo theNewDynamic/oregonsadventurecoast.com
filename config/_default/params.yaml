@@ -40,3 +40,187 @@ tnd_socials:
   - name: tiktok
     handle: oregonsadventurecoast
     url: https://www.tiktok.com/@oregonsadventurecoast?lang=en
+tnd_search:
+  template_storage: 
+    templates_menu_item: &templates_menu_item
+      | 
+      <label class="{{cssClasses.label }} {{#disabled}}disabled{{/disabled}}">
+        <input type="checkbox" class="ais-refinement-list–checkbox" value="{{label}}" {{#isRefined}}checked="true"{{/isRefined}} {{#disabled}}disabled{{/disabled}}>
+        {{label}}
+      </label>
+
+  service: meili
+  instantsearch:
+  - name: dining
+    indexName: dining
+    appId: &appId https://ms-f3fd9122c128-118.saas-nyc.meili.dev
+    apiKey: &apiKey ec82d24790da484ef22f185eac5f04c22016f58bf4857afcec6c88d8363e72d2
+    hitsPerPage: 1000
+    widgets:
+    - &widget_clear
+      name: clearRefinements
+      container: '#clear'
+      classes:
+        button: landing-button
+      templates:
+        resetLabel: |-
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM175 208.1L222.1 255.1L175 303C165.7 312.4 165.7 327.6 175 336.1C184.4 346.3 199.6 346.3 208.1 336.1L255.1 289.9L303 336.1C312.4 346.3 327.6 346.3 336.1 336.1C346.3 327.6 346.3 312.4 336.1 303L289.9 255.1L336.1 208.1C346.3 199.6 346.3 184.4 336.1 175C327.6 165.7 312.4 165.7 303 175L255.1 222.1L208.1 175C199.6 165.7 184.4 165.7 175 175C165.7 184.4 165.7 199.6 175 208.1V208.1z"/></svg>
+          Clear All Filters
+      includeAttributes: ['categories', 'city']
+    - &widget_refinement_cities
+      name: refinementList
+      container: '#menu-city'
+      attribute: city
+      js: js_cities_dining
+      classes:
+        list: reset-list
+        count: hidden
+        item: refinement-item
+      templates:
+        item: *templates_menu_item
+    - name: refinementList
+      container: '#menu-category'
+      attribute: categories
+      js: js_categories_dining
+      operator: and
+      limit: 100
+      sortBy:
+      - 'name:asc'
+      - 'count:asc'
+      classes:
+        list: reset-list
+        count: hidden
+        item: refinement-item
+      templates:
+        item: *templates_menu_item
+    - &widget_hits 
+      name: hits
+      js: hits
+      classes:
+        root: 'lodging-list'
+        list: 'm-grid'
+        item: 'm-lodging-item'
+      templates:
+        item: | 
+          <div class="photo" style="background-image:url({{image}});" alt="{{title}}">
+          </div>
+
+          <div class="content marker-content">
+            <div class="category">
+              {{#category}}
+                {{category}}
+              {{/category}}
+              {{#categories_string}}
+                {{categories_string}}
+              {{/categories_string}}
+            </div>
+            <div class="location">
+              <h2>{{title}}</h2>
+              <p class="address">
+                {{street}}<br>
+                {{city}}, {{state}} {{zip}}<br>
+                {{#phones_links}}
+                {{{.}}}
+                {{/phones_links}}
+              </p>
+            </div>
+            <div class="description">
+              {{#units}}
+                <strong>
+                Units: {{units}} • {{cost}}: 
+                </strong>
+              {{/units}}
+              {{{description}}}
+            </div>
+            <div class="m-lodging-item__footer">
+              {{#amenities.length}}
+              <div class="amenities">
+                <div class="amenity-list clearfix">
+                  <ul>
+                  {{#amenities}}
+                    <li class="icon-lodging {{.}}" title="{{.}}"></li>
+                  {{/amenities}}
+                  </ul>
+                </div>
+              </div>
+              {{/amenities.length}}
+              <div class="links clearfix">
+                {{#map_link}}
+                <span class="map"><a href="{{map_link}}" target="_blank"><span class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></span> Map</a></span>
+                {{/map_link}}
+                {{#website}}
+                <span class="website "><a href="{{website}}" target="_blank"><span class="icon"><i class="fas fa-globe" aria-hidden="true"></i></span> Website</a></span>
+                {{/website}}
+              </div>
+            </div>
+          </div>
+    - &widget_map
+      name: geoSearch
+      js: map
+      classes:
+        redo: hidden
+      container: '#map'
+  - name: lodging
+    indexName: lodging
+    appId: *appId
+    apiKey: *apiKey
+    hitsPerPage: 1000
+    widgets:
+    - <<: *widget_clear
+      includeAttributes: ['category', 'city', 'amenities']
+    - <<: *widget_refinement_cities
+      js: js_cities_lodging
+    - name: refinementList
+      container: '#menu-category'
+      attribute: category
+      js: js_categories_lodging
+      sortBy:
+      - 'name:asc'
+      - 'count:asc'
+      classes:
+        list: reset-list
+        count: hidden
+        item: refinement-item
+      templates:
+        item: *templates_menu_item
+    - name: refinementList
+      container: '#menu-amenities'
+      attribute: amenities
+      operator: and
+      limit: 15
+      js: js_amenities
+      templates:
+        item: *templates_menu_item
+      classes:
+        list: reset-list
+        count: hidden
+        item: refinement-item
+    - <<: *widget_hits
+    - <<: *widget_map
+  - name: shopping
+    indexName: shopping
+    appId: *appId
+    apiKey: *apiKey
+    hitsPerPage: 1000
+    widgets:
+    - <<: *widget_clear
+      includeAttributes: ['category', 'city', 'amenities']
+    - <<: *widget_refinement_cities
+      #js: js_cities_lodging
+    - name: refinementList
+      container: '#menu-category'
+      attribute: categories
+      operator: and
+      limit: 50
+      js: js_categories_shopping
+      sortBy:
+      - 'name:asc'
+      - 'count:asc'
+      classes:
+        list: reset-list
+        count: hidden
+        item: refinement-item
+      templates:
+        item: *templates_menu_item
+    - <<: *widget_hits
+    - <<: *widget_map

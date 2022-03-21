@@ -1,0 +1,46 @@
+item: |
+  <div class="m-lodging-item">
+    <div class="photo" style="background-image:url({{image}});" alt="{{title}}">
+    </div>
+
+    <div class="content marker-content">
+      <div class="category">
+        {{category}}
+      </div>
+      <div class="location">
+        <h2>{{title}}</h2>
+        <p class="address">
+          {{street}}<br>
+          {{city}}, {{state}} {{zip}}<br>
+          {{#phones}}
+          <a class="phone-body" href="tel:{{.}}">{{.}}</a>
+          {{/phones}}
+        </p>
+      </div>
+
+      #<div class="description">
+      #    <strong>
+      #    Units: 16 • 
+      #   $$:
+      #   </strong>
+      #   The Bay Bridge Motel, located in North Bend on the north side of the historic McCullough bridge, offers views of the ocean, free WiFi access, and flat screen TVs with cable channels. Kitchenettes available in select rooms. 
+      #</div>
+      <div class="m-lodging-item__footer">
+        <div class="amenities">
+          <div class="amenity-list clearfix">
+            <ul>
+            {{#amenities}}
+              <li class="{{.}}"></li>
+            {{/amenities}}
+            </ul>
+          </div>
+        </div>
+        <div class="links clearfix">
+          #<span class="map"><a href="https://www.google.com/maps/search/?api=1&amp;query=Bay%20Bridge%20Motel,%2066304%20Hwy%20101%20null,%20North%20Bend,%20OR%2097459" target="_blank"><span class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></span> Map</a></span>
+          {{#website}}
+          <span class="website "><a href="{{website}}" target="_blank"><span class="icon"><i class="fas fa-globe" aria-hidden="true"></i></span> Website</a></span>
+          {{/website}}
+        </div>
+      </div>
+    </div>
+  </div>

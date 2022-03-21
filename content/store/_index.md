@@ -1,12 +1,10 @@
 ---
-title: Shopping
+title: Shopping Items all
 _build:
-  render: true
-  list: false
+  render: never
+  list: never
 cascade:
   _build:
-    render: false
+    render: never
     list: true
-outputs:
-  - JSON
 ---

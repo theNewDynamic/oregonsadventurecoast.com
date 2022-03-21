@@ -69,7 +69,25 @@
 .u-hidden{
     display:none;
 }
+.overflow-hidden{
+    overflow: hidden;
+}
+.font-bold{
+    font-weight: bold;
+}
+.hidden {
+    display: none;
+}
+.block {
+    display: block;
+}
 @include smallPlusUp{
+    .sm\:block{
+        display: block;
+    }
+    .sm\:hidden{
+        display: none;
+    }
     .sm\:block{
         display: block;
     }
