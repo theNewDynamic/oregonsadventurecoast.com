@@ -28,7 +28,7 @@ There is much to love about visiting Oregon's Adventure Coast, but the miles and
 
 If beach-combing, tide-pooling, picnicking, whale watching, surfing and clamming or other popular pastimes are on your Oregon Coast wish list, look no further than our very own beaches and be sure to follow these tips to stay safe & protect our natural habitat. Visitors going to the beach should be aware of coastal safety hazards with the potential danger of undertows, sneaker waves and rolling logs. [Click here for Beach Safety Tips](https://oregonsadventurecoast.com/blog/eight-ways-to-stay-safe-on-the-beaches-along-the-oregon-coast/).
 
-![](/img/Coos Bay Beaches blog 695x322.jpg)
+![](/img/beach-coming.jpg)
 
 ### **Beach-Combing & Tide-Pooling Tips**
 
