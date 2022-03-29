@@ -2,7 +2,10 @@
 title: Taste, Create and Explore Your Way Through Oregon’s Adventure Coast May 6 –
   8, 2022
 date: 2022-03-29T04:00:00+00:00
-description: ''
+description: The South Coast Culture Tour is a series of curated experiences designed
+  to take you on a journey to taste, create, & explore Oregon’s South Coast. Here
+  are some highlights of the South Coast Culture Tour in happening in Coos County
+  May 6 – 8, 2022.
 image: "/img/south-coast-culture-tour-blog-695x322-jpg.png"
 tags:
 - South Coast Culture Tour
@@ -21,7 +24,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 ### Experience the South Coast Culture Tour on **Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston**
