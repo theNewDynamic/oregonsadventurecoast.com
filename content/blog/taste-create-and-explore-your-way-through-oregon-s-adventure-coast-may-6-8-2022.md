@@ -46,12 +46,14 @@ This one-of-a-kind event, [happening in Coos County May 6 – 8, 2022](https://w
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsouthcoastculturetour%2Fposts%2F147189831104702&show_text=true&width=500" width="500" height="693" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+{{< spacer 50 >}}
+
 The South Coast Culture Tour has also joined forces with the [Surfrider Foundation](https://coosbay.surfrider.org/), Coos Bay for a day of paddling events, volunteerism, and a special Film Festival at the Egyptian Theater that you won’t want to miss. Other not-to-be-missed experiences include the [South Coast Classic \~ Disc Golf Tournament](https://www.discgolfscene.com/tournaments/South_Coast_Classic_2022) in Bandon City Park Disc Golf Course & John Topits Park, Empire Lakes (Coos Bay) and…
 
-* Digging Your Dinner, a special outing digging for shellfish, followed by a lesson on how to prepare a delicious meal with your catch at Oregon Coast Culinary Institute! Sunday, May 8th 11am – 4pm
-* Handcrafted Cocktail Making & Tapas Tasting led by Stillwagon Distillery & Wildflour Public House. Saturday, 5/7 4 – 5:30pm
-* Guided Paint Event Friday, May 6 \~ 4-7pm
-* Washed Ashore – Volunteer Workshop Experience Friday, May 6th & Saturday, May 7th 10 am-12 pm
+* Digging Your Dinner, a special outing digging for shellfish, followed by a lesson on how to prepare a delicious meal with your catch at Oregon Coast Culinary Institute! Sunday, May 8th \~ 11am – 4pm
+* Handcrafted Cocktail Making & Tapas Tasting led by Stillwagon Distillery & Wildflour Public House. Saturday, May 7th \~ 4 – 5:30pm
+* Guided Paint Event Friday, May 6th \~ 4-7pm
+* Washed Ashore – Volunteer Workshop Experience Friday, May 6th & Saturday, May 7th \~ 10 am-12 pm
 * Whiskey Run Trail party – Ride & “Voluntourism” opportunity Sunday, 5/8/21
 
 …and so much more! Trust us, you don’t want to miss these hands-on experiences celebrating the unique art, culture, food, and people and places you won’t find anywhere else.The first weekend of this event is in Curry County, and includes some wonderful experiences on that part of the South Coast! More information can be found at [southcoastculturetour.com](https://www.southcoastculturetour.com/).
