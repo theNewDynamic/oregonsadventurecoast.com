@@ -50,8 +50,8 @@ This one-of-a-kind event, [happening in Coos County May 6 – 8, 2022](https://w
 
 The South Coast Culture Tour has also joined forces with the [Surfrider Foundation](https://coosbay.surfrider.org/), Coos Bay for a day of paddling events, volunteerism, and a special Film Festival at the Egyptian Theater that you won’t want to miss. Other not-to-be-missed experiences include the [South Coast Classic \~ Disc Golf Tournament](https://www.discgolfscene.com/tournaments/South_Coast_Classic_2022) in Bandon City Park Disc Golf Course & John Topits Park, Empire Lakes (Coos Bay) and…
 
-* Digging Your Dinner, a special outing digging for shellfish, followed by a lesson on how to prepare a delicious meal with your catch at Oregon Coast Culinary Institute! Sunday, May 8th \~ 11am – 4pm
-* Handcrafted Cocktail Making & Tapas Tasting led by Stillwagon Distillery & Wildflour Public House. Saturday, May 7th \~ 4 – 5:30pm
+* Digging Your Dinner, a special outing digging for shellfish, followed by a lesson on how to prepare a delicious meal with your catch at Oregon Coast Culinary Institute! Sunday, May 8th \~ 11am-4pm
+* Handcrafted Cocktail Making & Tapas Tasting led by Stillwagon Distillery & Wildflour Public House. Saturday, May 7th \~ 4-5:30pm
 * Guided Paint Event Friday, May 6th \~ 4-7pm
 * Washed Ashore – Volunteer Workshop Experience Friday, May 6th & Saturday, May 7th \~ 10 am-12 pm
 * Whiskey Run Trail party – Ride & “Voluntourism” opportunity Sunday, 5/8/21
