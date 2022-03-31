@@ -31,6 +31,10 @@ categories:
 - Arts & Culture
 
 ---
+**_NOTE: As of April 1, 2022, THE CHARLESTON MARINE LIFE CENTER has reopened with limited hours - Thursday-Saturday 11am-5pm. Please contact the_** [**_Marine Life Center_**](https://cmlc.uoregon.edu/) **_to ensure there have been no other changes._** 
+
+{{< spacer 50 >}}
+
 We know you’re missing the many interesting places and faces throughout Oregon’s Adventure Coast, so we thought we’d peek in at one of our favorite local destinations like the Charleston Marine Life Center, considered by many to be a [gem hidden in plain sight](https://www.oregonsadventurecoast.com/blog/charleston-marine-life-center-in-a-hidden-gem/). The center, part of the OIMB - The Oregon Institute of Marine Biology, has developed a loyal following among locals, visitors and educators throughout the region, but like many other public buildings and businesses throughout the country, they have temporarily closed their doors to help stop the spread of COVID-19.<p>
 Many of our followers have asked how the marine-life are being cared for and how they are passing the time during the shut-down. You will be happy to know the animals are doing just fine and being cared for by a small, dedicated crew of CMLC staff and OIMB graduate students that are feeding the marine-life regularly and maintaining the tanks. Even though these amazing creatures miss their public visitors and school groups, they’ve still managed to have some fun- take a look at what they’ve been up to these past few weeks.
 
