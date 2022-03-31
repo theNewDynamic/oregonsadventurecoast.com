@@ -35,7 +35,7 @@ aliases: []
 
 ![](/img/dunes-event-utv-logo-695.jpg)
 
-The [**Oregon Dunes National Recreation Area**](/untamed-dunes/)**,** which terminates in North Bend, is an amazing experience to ride and camp! [**Boxcar Hill Campground**](https://boxcarhilloregon.com/) hosts this amazing event and is the gateway to some of the most approachable dune riding for any skill level. Surrounding campgrounds and VIP sand camping make this an all-around unforgettable experience!
+The [**Oregon Dunes National Recreation Area**](/untamed-dunes/)**,** which terminates in North Bend, is an amazing experience to ride and camp! [**Boxcar Hill Campground**](https://boxcarhilloregon.com/) hosts this thrilling event and is the gateway to some of the most approachable dune riding for any skill level. Surrounding campgrounds and VIP sand camping make this an all-around unforgettable experience!
 
 {{< spacer 50 >}}
 
