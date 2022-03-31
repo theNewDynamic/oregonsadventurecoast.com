@@ -19,11 +19,9 @@ warning: true
 warning_copy: ''
 
 ---
-**During this time of COVID, dining at our favorite restaurants has been noted as the “most missed activity” according to our informal pole. We also see queries on social media, almost daily, for recommendations for local dining options that offer outside dining around Oregon’s Adventure Coast: Coos Bay, North Bend, & Charleston.**
+We have compiled a list of those restaurants that are offering outdoor dining and will add to it as more restaurants open outdoor spaces.
 
-We have compiled a list of those restaurants that are offering outdoor dining now, and will add to it as more restaurants open outdoor spaces.
-
-_We recommend calling the restaurant of your choice prior to visiting. Most are now taking reservations for their outdoor dining tables as space is limited and demand is high_.
+**_We recommend calling the restaurant of your choice prior to visiting._** _Most are now taking reservations for their outdoor dining tables as space is limited and demand is high_.
 
 If you prefer to grab some take-out and eat it while watching the sunset from Sunset Bay State Park or another wonderful vantage point along our rugged coastline, visit our [Dining Page](/dining/) for the full list of restaurants in the area!
 
@@ -67,12 +65,6 @@ Coos Bay OR, 97420
 [**Front Street Provisioners**](http://frontstreetprovisioners.com/) **– Outdoor Seating on new patio, Tues 1pm-9pm; Wed-Sat Noon-9pm; Sun 3pm-8pm**  
 737 N. Front St. Coos Bay OR, 97420  
 (541)808-3420
-
-{{< spacer 10 >}}
-
-[**Restaurant O**](http://restauranto.us/) **– Limited outdoor dining with heat, Tues-Sun Noon-8pm, weather permitting**  
-260 S. Broadway Coos Bay OR, 97420  
-(541)808-9300
 
 {{< spacer 10 >}}
 
@@ -123,8 +115,7 @@ Coos Bay OR, 97420
 {{< spacer 10 >}}
 
 [**El Guadalajara Mexican Restaurant**](https://www.facebook.com/El-Guadalajara-resturant-138025569587712) **- Covered outdoor seating, Sunday-Thursday, 11am-9pm, Friday, 11am-11pm, Saturday, 11am-10pm**  
-3491 Broadway Avenue North Bend OR, 97459
-
+3491 Broadway Avenue North Bend OR, 97459  
 (541) 756-3030
 
 {{< spacer 10 >}}
@@ -153,19 +144,13 @@ Coos Bay OR, 97420
 
 {{< spacer 50>}}
 
-![](/img/high-tide.jpg "High Tide Cafe's Outdoor Seating Overlooks the Slough")
+![](/img/monkey-business-charlestonor-clam-chowder-blog-695x322-jpg.png "Monkey Business Food Truck with Picnic Tables")
 
 ### Charleston
 
 [**Crabby Cakes Bakery**](https://www.facebook.com/Crabby-Cakes-Bakery-183368818480720/) **– picnic-style seating outside, Weds-Sun 9am-3pm**  
 63345 Boat Basin Rd. Charleston OR, 97420  
 (541)808-2388
-
-{{< spacer 10 >}}
-
-[**High Tide Café**](https://hightidecafeor.com/) **– Covered outdoor dining with heaters; Weds-Sun 11am-8pm**  
-1124 Cape Arago Hwy Charleston OR, 97420  
-(541)808-3128
 
 {{< spacer 10 >}}
 
@@ -178,11 +163,3 @@ Coos Bay OR, 97420
 [**Portside Restaurant & Lounge**](http://www.portsidebythebay.com/) **– Covered Outdoor dining with heaters, 11:30am-8:30pm daily**  
 63383 Kingfisher Rd. Charleston OR, 97420  
 (541)888-5544
-
-{{< spacer 50 >}}
-
-**Editor’s Note:** As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html), [Oregon Health Authority](https://www.oregon.gov/oha/pages/index.aspx), and [Coos Health & Wellness](https://cooshealthandwellness.org/) to protect yourself, our community and our visitors. Visit the state’s [Safe+Strong Oregon](https://www.safestrongoregon.org/) page for more information.
-
-On January 15, 2021, Coos County has moved back into the Extreme Category. This category limits social gatherings to no more than 6 attendees from up to 2 households. This category also closes gyms & fitness centers, indoor recreation facilities including museums, limits the number of patrons that can be inside retail establishments, and closes restaurants & bars to all but outdoor dining (limited seating) and take-out.
-
-Face coverings are still mandatory for all when inside a public space and when outdoors when 6 feet distancing cannot be maintained.
