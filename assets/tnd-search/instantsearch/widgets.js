@@ -33,9 +33,10 @@ const getLink = function(item) {
 
 const getPhoneLinks = function(item) {
   let phone_links = []
+  console.log(item.title, item.phones)
   if(typeof item.phones !== "undefined") {
     phone_links = item.phones.map(phone => (
-      `<a class="phone-body" href="tel:${phone}</a>`
+      `<a class="phone-body" href="tel:${phone}">${phone}</a>`
     ))
   }
   return phone_links

@@ -55,7 +55,7 @@
   {{ end }}
 {{ end }}
 {{ with $phones }}
-  {{ $s.SetInMap "data" "phones" (slice .) }}
+  {{ $s.SetInMap "data" "phones" . }}
 {{ end }}
 
 {{ return $s.Get "data" }}
