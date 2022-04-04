@@ -120,7 +120,7 @@ tnd_search:
                 {{street}}<br>
                 {{city}}, {{state}} {{zip}}<br>
                 {{#phone_links}}
-                {{{.}}}
+                {{{phone_links}}}
                 {{/phone_links}}
               </p>
             </div>

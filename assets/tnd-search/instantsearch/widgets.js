@@ -32,12 +32,14 @@ const getLink = function(item) {
 }
 
 const getPhoneLinks = function(item) {
-  let phone_links = []
-  console.log(item.title, item.phones)
+  let phone_links = ''
   if(typeof item.phones !== "undefined") {
-    phone_links = item.phones.map(phone => (
-      `<a class="phone-body" href="tel:${phone}">${phone}</a>`
-    ))
+    item.phones.forEach((phone, index) => {
+      if(index){
+        phone_links = phone_links + ' | '
+      }
+      phone_links = phone_links + `<a class="phone-body" href="tel:${phone}">${phone}</a>`
+    })
   }
   return phone_links
 }
