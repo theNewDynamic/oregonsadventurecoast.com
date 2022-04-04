@@ -55,9 +55,9 @@ To meet the acoustical challenges of performing in the wild, **music is transmit
 
 Perched on craggy sandstone cliffs high above the ocean, **Shore Acres State Park** celebrates two sorts of beauty: ruggedly organic and masterfully constructed.
 
-Once the grand estate of timber baron Louis J. Simpson, Shore Acres features a **formal garden inspired by the original, with plants and flowers from all over the world**. Visitors find a Japanese-style garden with a lily pond and two carefully curated rose gardens that include All-American Rose Selections. 
+Once the grand estate of timber baron Louis J. Simpson, Shore Acres features a **formal garden inspired by the original, with plants and flowers from all over the world**. Visitors find a Japanese-style garden with a lily pond and two carefully curated rose gardens that include All-American Rose Selections.
 
-**Get here early to explore trails beyond the garden** that lead to a secluded ocean cove at Simpson Beach. 
+**Get here early to explore trails beyond the garden** that lead to a secluded ocean cove at Simpson Beach.
 
 {{< spacer 25>}}
 
@@ -110,32 +110,22 @@ Shore Acres State Park** sits high on the cliffs overlooking the Pacific Ocean, 
 
 **_$5.00 per day parking fee at Shore Acres State Park. Cash only, credit and debit cards not accepted. A valid annual State Park Pass or Oregon Coastal Pass will be accepted for parking._**
 
-**ARRIVAL  
-**We suggest arriving up to 45 minutes prior to concert time in order to park, reach the site, check-in, get your headphones and get cozy before the concert starts.
+**ARRIVAL**  - We suggest arriving up to 45 minutes prior to concert time in order to park, reach the site, check-in, get your headphones and get cozy before the concert starts.
 
-**PETS  
-**No animals are permitted in the formal gardens, except for service animals. You are responsible for picking up after your pet.
+**PETS**  - No animals are permitted in the formal gardens, except for service animals. You are responsible for picking up after your pet.
 
-**FOOD & DRINK  
-**Outside food/drink is permitted. Bring a picnic and enjoy the beautiful setting while you dine!
+**FOOD & DRINK** - Outside food/drink is permitted. Bring a picnic and enjoy the beautiful setting while you dine!
 
-**RESTROOMS  
-**Restrooms will be available on site.
+**RESTROOMS** - Restrooms will be available on site.
 
-**SMOKING  
-**Smoking is prohibited at all times. **FIRE DANGER IS VERY REAL**, and we acknowledge this with the utmost seriousness. Help us keep the area safe!
+**SMOKING**  - Smoking is prohibited at all times. **FIRE DANGER IS VERY REAL**, and we acknowledge this with the utmost seriousness. Help us keep the area safe!
 
-**ACCESSIBILITY|  
-**There is a paved path from the parking lot to the concert site.
+**ACCESSIBILITY** - There is a paved path from the parking lot to the concert site.
 
-**CELL COVERAGE  
-**Cell coverage on Oregon's rural roads and in remote concert locations is unpredictable. Please be aware that you may not have a signal in all locations. Please print or download directions before you leave.
+**CELL COVERAGE** - Cell coverage on Oregon's rural roads and in remote concert locations is unpredictable. Please be aware that you may not have a signal in all locations. Please print or download directions before you leave.
 
-**EXTREME WEATHER /CANCELLATION  
-**This is a rain or shine event. We encourage guests to bring rain protection as needed. In the case of extreme weather or severe smoke, IAL will cancel by 9am the day of the performance and notify all ticketed patrons.
+**EXTREME WEATHER /CANCELLATION**  - This is a rain or shine event. We encourage guests to bring rain protection as needed. In the case of extreme weather or severe smoke, IAL will cancel by 9am the day of the performance and notify all ticketed patrons.
 
-**COVID SAFETY  
-**IN A LANDSCAPE will follow all current local, county, and state protocols.
+**COVID SAFETY**  - IN A LANDSCAPE will follow all current local, county, and state protocols.
 
-**MERCHANDISE  
-**We will have new merchandise available at our concerts this year, where permitted. And while we do not want to spoil all the surprise, we can tell you that Hunter Noack’s latest album “In A Landscape” will be available in CD, MP3, or for Vinyl (preorder) at our summer concert series. Preorders available now with your ticket purchase.
+**MERCHANDISE** - We will have new merchandise available at our concerts this year, where permitted. And while we do not want to spoil all the surprise, we can tell you that Hunter Noack’s latest album “In A Landscape” will be available in CD, MP3, or for Vinyl (preorder) at our summer concert series. Preorders available now with your ticket purchase.
