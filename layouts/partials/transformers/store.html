@@ -43,7 +43,9 @@
 {{ with .Params.phone_local }}
   {{ $phones = $phones | append . }}
 {{ end }}
-
+{{ with $phones }}
+  {{ $s.SetInMap "data" "phones" . }}
+{{ end }}
 {{ with .Params.website }}
   {{ $s.SetInMap "data" "website" . }}
 {{ end }}
