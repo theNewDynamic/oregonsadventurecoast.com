@@ -43,10 +43,25 @@ const getPhoneLinks = function(item) {
   }
   return phone_links
 }
+
 let lastInfoWindow = false;
 
 // We need to enforce a hardcoded lists of elements to overwrite InstantSearch behaviour which
 // hides disabled elements rather than graying them out.
+
+const labelizeFacet = function(item) {
+  if(typeof item == "object"){
+    return {
+      id: item.id,
+      label: item.label
+    }
+  } else {
+    return {
+      id: item,
+      label: item
+    }
+  }
+}
 
 const facets = {
   'cities': [
@@ -80,7 +95,6 @@ const facets = {
       id: 'Vacation Rental Homes',
       label: 'Vacation Rental Homes'
     },
-
   ],
   'categories_dining': [
     'American',
@@ -90,7 +104,10 @@ const facets = {
     'Bar Food',
     'Breakfast / Brunch',
     'Burgers',
-    'Cafe',
+    {
+      id: 'Cafe',
+      label: 'Cafe/Coffee'
+    },
     'Chinese',
     'Deli',
     'Dessert',
@@ -115,10 +132,7 @@ const facets = {
     'Thai',
     'Vegan',
     'Vegetarian',
-  ].map(item=>({
-    id:item, 
-    label:item
-  })),
+  ].map(labelizeFacet),
   'categories_shopping': [
     'Antiques',
     'Arts & Crafts',
@@ -140,10 +154,7 @@ const facets = {
     'Specialty Foods',
     'Sporting Goods',
     'Vitamins',
-  ].map(item=>({
-    id:item, 
-    label:item
-  })),
+  ].map(labelizeFacet),
   'amenities': [
     {label: 'Restaurant/Bar/Rm Service', id: 'restaurant'},
     {label: 'Continental or Full Bkfst', id: 'breakfast'},
@@ -162,7 +173,6 @@ const getStaticValues = function(facet, items) {
   let staticValues = facets[facet]
   if(facet == 'cities_dining') {
     staticValues = facets['cities'].slice(0,-1)
-    console.log(staticValues)
   }
   return staticValues.map(static_item => {
     let found_item = items.find(item => item.label === static_item.id);
@@ -224,7 +234,16 @@ export let tndWidgets = {
       return items.map(item => {
         let categories_string = ''
         if(item.categories) {
-          categories_string = item.categories.sort().join(' | ')
+          const categories_array = item.categories.map(item_cat => {
+            const all_cats = [].concat(facets['categories_dining'], facets['categories_lodging'], facets['categories_shopping']);
+            const find_cat = all_cats.find(cat => cat.id == item_cat)
+            if(find_cat){
+              return find_cat.label
+            } else {
+              return item_cat
+            }
+          });
+          categories_string = categories_array.sort().join(' | ')
         }
         return {
           ...item,
@@ -252,7 +271,6 @@ export let tndWidgets = {
   },
   js_categories_dining: {
     transformItems(items) {
-      console.log('trans cat dining')
       return getStaticValues('categories_dining', items).map(item => ({
         ...item,
         label: facets['categories_dining'].find(string => string.id == item.value).label,
@@ -261,7 +279,6 @@ export let tndWidgets = {
   },
   js_categories_shopping: {
     transformItems(items) {
-      console.log('trans cat dining')
       return getStaticValues('categories_shopping', items).map(item => ({
         ...item,
         label: facets['categories_shopping'].find(string => string.id == item.value).label,
