@@ -1,12 +1,13 @@
 ---
 title: 'IN A LANDSCAPE: Classical Music in the Wild'
-startdate: '2021-08-10'
-enddate: '2021-08-11'
+startdate: '2022-08-23'
+enddate: '2022-08-25'
 address:
   street: 'Shore Acres State Park '
   street2: 89039 Cape Arago Hwy
   city: Charleston
   zip: '97420'
+  state: OR
 phone_local: 541-269-0215
 phone_toll_free: ''
 website: https://www.inalandscape.org/
@@ -18,10 +19,10 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-desktoptitle: IN A LANDSCAPE Concert at Shore Acres State Park
-mobiletitle: IN A LANDSCAPE Concert at Shore Acres
+desktoptitle: Classical Music in the Wild at Shore Acres State Park
+mobiletitle: Classical Music in the Wild
 hovertitle: Classical Music in the Wild
-hoverdescription: Join classical pianist Hunter Noack for a special 2 night concert
+hoverdescription: Join classical pianist Hunter Noack for a special 3 night concert
   series at Shore Acres!
 photo: "/img/inalandscape-2048x530.jpg"
 largeboxphoto: "/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg"
@@ -32,65 +33,69 @@ aliases: []
 ---
 ### IN A LANDSCAPE: Classical Music in the Wild™
 
-#### AT SHORE ACRES STATE PARK - August 10 and 11 at 6:00pm
+#### AT SHORE ACRES STATE PARK - August 23, 24, 25 at 6:00pm
 
-###### ![Hunter Noack, classical pianist plays concerts "in the wild". Photo credit: Ed Schmidt](/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg)
+###### ![Hunter Noack, classical pianist plays concerts "in the wild". Photo credit: Ed Schmidt](/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg "Photo courtesy of IN A LANDSCAPE. Photo by Ed Schmidt")
 
-_Photo courtesy of IN A LANDSCAPE. Photo by Ed Schmidt_
-
-###### {{< spacer 10 >}}
+###### {{< spacer 25 >}}
 
 Founded in 2016 by classical pianist Hunter Noack, **IN A LANDSCAPE: Classical Music in the Wild** is an outdoor concert series where America’s most stunning landscapes replace the traditional concert hall. We bring a 9-foot Steinway grand piano on a flatbed trailer to National Parks, urban greenspaces, working ranches, farms, and historical sites for classical music concerts that connect people with each landscape.
 
-To meet the acoustical challenges of performing in the wild, music is transmitted to concert-goers via wireless headphones. No longer confined to seats, you can explore the landscape, wander through secret glens, lie in sunny meadows, and roam old-growth forests.
+To meet the acoustical challenges of performing in the wild, **music is transmitted to concert-goers via wireless headphones**. No longer confined to seats, you can explore the landscape, wander through the Shore Acres garden, lie in sunny meadows, and roam along the rugged cliffs.
+
+###### {{< spacer 25 >}}
+
+**IN A LANDSCAPE: Classical Music in the Wild™ concerts are brought to you in partnership with the Oregon Parks and Recreation Department and Sponsors** [**Wild Rivers Coast Alliance**](https://wildriverscoastalliance.com/)**,** [**Travel Southern Oregon Coast**](https://www.oscrtn.com/tsoc.html)**, and** [**Oregon's Adventure Coast: Coos Bay, North Bend, Charleston**](https://www.oregonsadventurecoast.com/)**.**
+
+###### {{< spacer 25 >}}
 
 #### **ABOUT THIS LANDSCAPE**
 
-![](/img/dahlias-shore-acres-state-park-blog-695x322-jpg.png)
+![](/img/dahlias-shore-acres-state-park-blog-695x322-jpg.png "There is always something blooming in the gardens at Shore Acres State Park!")
 
 Perched on craggy sandstone cliffs high above the ocean, **Shore Acres State Park** celebrates two sorts of beauty: ruggedly organic and masterfully constructed.
 
-Once the grand estate of timber baron Louis J. Simpson, Shore Acres features a formal garden inspired by the original, with plants and flowers from all over the world. Visitors find a Japanese-style garden with a lily pond and two carefully curated rose gardens that include All-American Rose Selections. For a schedule of what's in bloom, visit the Friends of Shore Acres website.
+Once the grand estate of timber baron Louis J. Simpson, Shore Acres features a **formal garden inspired by the original, with plants and flowers from all over the world**. Visitors find a Japanese-style garden with a lily pond and two carefully curated rose gardens that include All-American Rose Selections. 
 
-Get here early to explore trails beyond the garden that lead to a secluded ocean cove at Simpson Beach. And on your way, stop at Sunset Bay State Park, just one mile north of Shore Acres. Sunset Bay offers overnight camping facilities and a sheltered beach. One mile to the south, Cape Arago State Park has hiking trails, picnic tables, and excellent opportunities for viewing tidepool life and the offshore colonies of seals and sea lions on Shell Island and Simpson Reef, part of Oregon Islands National Wildlife Refuge. All three parks are connected by a segment of the Oregon Coast Trail.
-
-**-Thanks to Oregon State Parks for sharing this information.**
+**Get here early to explore trails beyond the garden** that lead to a secluded ocean cove at Simpson Beach. 
 
 {{< spacer 25>}}
 
-###### ![Hunter Noack, classical pianist.](/img/hunter-zach-lewis-667x355.jpg)
+###### ![Hunter Noack, classical pianist.](/img/hunter-zach-lewis-667x355.jpg "Photo courtesy of IN A LANDSCAPE. Photo by Zach Lewis")
 
-_Photo courtesy of IN A LANDSCAPE. Photo by Zach Lewis_
+{{< spacer 25>}}
 
-#### **TICKETS**
+#### TICKET PRICES:
 
-[**Purchase Tickets for Tuesday, 8/10/2021**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-tue-810-tickets-150380705739?aff=ebdsoporgprofile) **- 6:00pm Concert**
+**General Admission Tickets: $35**
 
-[**Purchase Tickets for Wednesday, 8/11/2021**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-wed-811-tickets-151145882403?aff=ebdsoporgprofile) **- 6:00pm Concert**
+__Good Neighbor Tickets: Free **__
 
-Tickets are required to join this event due to COVID-19 restrictions on capacity.
+_** Thanks to the sponsorship of Oregon Parks & Recreation Department's Park Explorer program, a number of FREE tickets are available at this concert through IN A LANDSCAPE'S Good Neighbor Program*._ [_To see if you qualify, click here._](https://docs.google.com/forms/d/e/1FAIpQLSd0B9Atay9bgSwMOVlcUCNjNVL50_If3mzO9D83GdTTV62IWQ/viewform) _One free Good Neighbor Ticket per order. ID and/or EBT card required at check-in with all Good Neighbor tickets. Click on “Tickets” above for more details._
 
-* Regular tickets are $30
-* Limited number of FREE tickets available for Coos County residents - SOLD OUT BOTH NIGHTS
-* Limited number of FREE tickets available for Electronic Benefits Transfer (EBT) card holders - SOLD OUT AUG 10
-* Limited number of FREE tickets available for ages 25 and under - SOLD OUT BOTH NIGHTS
+#### CLICK THE LINKS BELOW TO PURCHASE TICKETS FOR THE SHORE ACRES CONCERTS - _Tickets On Sale beginning April 6th_
+
+[**Tue, Aug 23, 6:00 PM**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-tue-823-tickets-311629140147?aff=ebdsoporgprofile)
+
+[**Wed, Aug 24, 6:00 PM**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-wed-824-tickets-311631266507?aff=ebdsoporgprofile)
+
+[**Thu, Aug 25, 6:00 PM**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-thu-825-tickets-311632600497?aff=ebdsoporgprofile)
 
 If you need assistance in purchasing tickets, email our ticketing office at [tickets@inalandscape.org](mailto:tickets@inalandscape.org)
 
 {{< spacer 25 >}}
 
+![](/img/in-a-landscape-shore-acres-1024x395.jpg "Hunter's piano awaits his concerts at Shore Acres in August 2021.")
+
 #### **HEADPHONES**
 
-With your ticket you have two audio options to enjoy the full IN A LANDSCAPE experience:
-
-* Pick up your reserved, sterilized headset at check-in, or
-* Bring your own headphones. Scan QR code at check-in to listen via audio app download on a personal device. (available for iOS and Android)
+The use of our custom **IN A LANDSCAPE headphones** is included in your ticket price. Pick up your reserved set at our registration desk and enjoy this unique audio experience.
 
 {{< spacer 25 >}}
 
 #### **SEATING**
 
-No chairs will be provided. Please bring low-back chairs. (maximum measurements: 33" from top of chair to ground, 8" from seat of chair to ground.). Those with high-back chairs will be asked to sit on the outer edges to avoid blocking the view of those behind you. Please see COVID SAFETY section below for distancing requirements.
+No chairs will be provided. We recommend bringing low-back chairs, in consideration of your neighbor’s view.
 
 {{< spacer 25 >}}
 
@@ -100,48 +105,37 @@ No chairs will be provided. Please bring low-back chairs. (maximum measurements:
 
 #### MORE INFORMATION
 
-**DIRECTIONS/PARKING**
-
-Shore Acres State Park sits high on the cliffs overlooking the Pacific Ocean, 13 miles southwest of Coos Bay/North Bend and US Highway 101. Take Cape Arago Highway from Coos Bay, the park is located about 4 miles west of the small fishing village of Charleston.
+**DIRECTIONS/PARKING  
+Shore Acres State Park** sits high on the cliffs overlooking the Pacific Ocean, 13 miles southwest of Coos Bay/North Bend and US Highway 101. Take Cape Arago Highway from Coos Bay, the park is located about 4 miles west of the small fishing village of Charleston.
 
 **_$5.00 per day parking fee at Shore Acres State Park. Cash only, credit and debit cards not accepted. A valid annual State Park Pass or Oregon Coastal Pass will be accepted for parking._**
 
-**ARRIVAL**
+**ARRIVAL  
+**We suggest arriving up to 45 minutes prior to concert time in order to park, reach the site, check-in, get your headphones and get cozy before the concert starts.
 
-Please arrive 30-60 minutes prior to concert time in order to reach the site, check in, and get your headphones prior to start time.
+**PETS  
+**No animals are permitted in the formal gardens, except for service animals. You are responsible for picking up after your pet.
 
-**PETS**
+**FOOD & DRINK  
+**Outside food/drink is permitted. Bring a picnic and enjoy the beautiful setting while you dine!
 
-No animals are permitted in the formal gardens, except for service animals. You are responsible for picking up after your pet.
+**RESTROOMS  
+**Restrooms will be available on site.
 
-**FOOD & DRINK**
+**SMOKING  
+**Smoking is prohibited at all times. **FIRE DANGER IS VERY REAL**, and we acknowledge this with the utmost seriousness. Help us keep the area safe!
 
-Outside food/drink is permitted.
+**ACCESSIBILITY|  
+**There is a paved path from the parking lot to the concert site.
 
-**RESTROOMS**
+**CELL COVERAGE  
+**Cell coverage on Oregon's rural roads and in remote concert locations is unpredictable. Please be aware that you may not have a signal in all locations. Please print or download directions before you leave.
 
-Restrooms will be available on site.
+**EXTREME WEATHER /CANCELLATION  
+**This is a rain or shine event. We encourage guests to bring rain protection as needed. In the case of extreme weather or severe smoke, IAL will cancel by 9am the day of the performance and notify all ticketed patrons.
 
-**SMOKING**
+**COVID SAFETY  
+**IN A LANDSCAPE will follow all current local, county, and state protocols.
 
-Smoking is prohibited at all times. **FIRE DANGER IS VERY REAL**, and we acknowledge this with the utmost seriousness. Help us keep the area safe!
-
-**ACCESSIBILITY**
-
-There is a paved path from the parking lot to the concert site.
-
-**CELL COVERAGE**
-
-Cell coverage on Oregon's rural roads and in remote concert locations is unpredictable. Please be aware that you may not have a signal in all locations. Please print or download directions before you leave.
-
-**EXTREME WEATHER /CANCELLATION**
-
-This is a rain or shine event. We encourage guests to bring rain protection as needed. In the case of extreme weather or severe smoke, IAL will cancel by 9am the day of the performance and notify all ticketed patrons.
-
-**COVID SAFETY**
-
-Safety is our primary concern. Face masks will be required for admittance and must be worn at all times, except when seated in your personal area. Please allow for 6’ of spacing between your group and the closest neighboring group, including staff, volunteers, and artists. IN A LANDSCAPE monitors will be roaming on-site to assist you. Please see note in “SEATING” for chair placement. COVID-19 resources for Oregon
-
-**COVID-19 REFUND POLICY**
-
-IN A LANDSCAPE will adhere to restrictions put in place by the local State and County. If the concert is canceled due to updated COVID-19 restrictions, all guests will receive a full refund.
+**MERCHANDISE  
+**We will have new merchandise available at our concerts this year, where permitted. And while we do not want to spoil all the surprise, we can tell you that Hunter Noack’s latest album “In A Landscape” will be available in CD, MP3, or for Vinyl (preorder) at our summer concert series. Preorders available now with your ticket purchase.
