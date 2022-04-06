@@ -48,7 +48,7 @@ Mingus Park Stage, Coos Bay
 OIMB Boat House Auditorium, Charleston  
 **Darrell Grant Piano Jazz** - **_tickets $50_**
 
-{{< spacer 150 >}}
+{{< spacer 250 >}}
 
 **Saturday, July 23 @ noon**  
 Shore Acres State Park Gardens, Charleston  
