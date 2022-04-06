@@ -54,7 +54,9 @@ For the 9th Year, The Mill brings you **finger-lickin' good barbeque** for a Kan
 
 {{< spacer 50>}}
 
-#### {{< floatimage src="img/1705_bbq_stevenmichael_ue_4901.jpg" float="_right" alt="Your Alt Text goes here" size="40" >}}BREWS!
+{{< floatimage src="img/1705_bbq_stevenmichael_rogue_4901.jpg" float="left" alt="Grab a brew!" size="40" >}}
+
+#### BREWS!
 
 **New and improved** beer samplings in 2022! Enjoy samples for over 20 breweries as you wander through the event. You can also vote for the People’s Choice Best Brew! 
 
