@@ -41,12 +41,14 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 {{< spacer 50 >}}  
 **Saturday, July 16th @ noon**  
-Mingus Park Stage, Coos Bay **  
-Bay Area Concert Band Traditional Festival Kickoff** - **_Free_**
+Mingus Park Stage, Coos Bay  
+**Bay Area Concert Band Traditional Festival Kickoff** - **_Free_**
 
 {{< floatimage src="img/darrell-grant.jpg" float="left" alt="Darrell Grant, Jazz Pianist" size="40" >}}**Sunday, July 17th @ 2 pm**  
 OIMB Boat House Auditorium, Charleston  
 **Darrell Grant Piano Jazz** - **_tickets $50_**
+
+{{< spacer 150 >}}
 
 **Saturday, July 23 @ noon**  
 Shore Acres State Park Gardens, Charleston  
