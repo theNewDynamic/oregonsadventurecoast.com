@@ -44,9 +44,13 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 Mingus Park Stage, Coos Bay  
 **Bay Area Concert Band Traditional Festival Kickoff** - **_Free_**
 
+{{< spacer 25 >}}
+
 {{< floatimage src="img/darrell-grant.jpg" float="left" alt="Darrell Grant, Jazz Pianist" size="40" >}}**Sunday, July 17th @ 2 pm**  
 OIMB Boat House Auditorium, Charleston  
 **Darrell Grant Piano Jazz** - **_tickets $50_**
+
+_Darrell Grant has risen from the pianist in vocalist Betty Carter’s trio to an internationally-recognized performer, composer, and educator who channels the power of music to foster community, sustainability, and social justice. Having performed with jazz luminaries including Frank Morgan, Tony Williams, Brian Blade, Esperanza Spalding, and Nicholas Payton, he followed his 1994New York TimesTop 10 JazzAlbumBlack Art with seven albums receiving critical acclaim fromThe Village VoiceandDownBeat Magazine._
 
 {{< spacer 250 >}}
 
@@ -54,20 +58,30 @@ OIMB Boat House Auditorium, Charleston
 Shore Acres State Park Gardens, Charleston  
 **Brass, Reeds, Strings and Song** - **_Free_**
 
+{{< spacer 25 >}}
+
 **July 25, 27th & 29th @ noon**  
 Coos Bay Library, Coos Bay  
 **Lunch, Listen and Learn** - **_Free_**
+
+{{< spacer 25 >}}
 
 **Tuesday, July 26 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
 **OCMA Festival Orchestra Concert I** - **_Tickets $25_**
 
+{{< spacer 25 >}}
+
 **Thursday, July 28 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
 **OCMA Festival Orchestra Pops** - **_Tickets $25_**
 
+{{< spacer 25 >}}
+
 **Saturday, July 30 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
 **OCMA Festival Orchestra Concert II**  - **_Tickets $25_**
+
+{{< spacer 25 >}}
 
 _Additional events to be added._
