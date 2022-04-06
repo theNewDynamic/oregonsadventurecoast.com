@@ -1,7 +1,7 @@
 ---
-title: Oregon Coast Music Festival Events 2021
-startdate: '2021-07-17'
-enddate: '2021-07-25'
+title: Annual Oregon Coast Music Festival
+startdate: '2022-07-16'
+enddate: '2022-07-30'
 address:
   street: ''
   street2: ''
@@ -10,10 +10,11 @@ address:
 phone_local: 541-267-0938
 phone_toll_free: ''
 website: http://www.oregoncoastmusic.org/
-desktoptitle: Oregon Coast Music Events
+desktoptitle: Oregon Coast Music Festival
 mobiletitle: OR Coast Music Fest
 hovertitle: Oregon Coast Music Festival Outdoor Events
-hoverdescription: Enjoy smaller concerts during this years OCMA Festival weeks.
+hoverdescription: 'A heady mix of classical and jazz art forms, taking place at venues
+  around the Coos Bay area. '
 photo: "/img/ocma-image-2048x530.jpg"
 largeboxphoto: "/img/ocma-image-1024x395.jpg"
 mediumboxphoto: "/img/ocma-image-667x355.jpg"
@@ -24,36 +25,47 @@ date: '2019-02-10T21:57:25.000+00:00'
 ---
 ![](/img/ocma-image.jpeg)
 
-#### **Oregon Coast Music Association Orchestra Concerts will not happen again in 2021, however, the following outdoor events are scheduled:**
+#### **The 44th Oregon Coast Music Festival is BACK in 2022 and better than ever!**
 
 {{< spacer 50 >}}
 
-#### **OCMA EVENTS 2021**
+You'll find a heady mix of classical and jazz art forms, taking place at venues around the Coos Bay area such as Shore Acres State Park Garden, the OIMB Boat House, stunning Mingus Park, and a host of seminars at the library. Enjoy two full weeks of outstanding music culminating with the Festival Orchestra performing three concerts in Marshfield High's Auditorium. The festival features music director James Paul at the helm and jazzer, Darrell Grant, as one of the special guest.
 
 {{< spacer 50 >}}
 
-![](/img/shaymus-cropped.jpg)
+![](/img/concert-2_2019_07-27-2019_038_-1.jpg)
 
-**Saturday, July 17th - Noon - OCMA Presents Bay Area Concert Band and The Shaymus Hanlin Quartet at Mingus Park**
+#### 44th Oregon Coast Music Festival July 2022
 
-The OCMA Festival partners with the Bay Area Concert Band to provide the traditional opening **free concert** double treat. Conductor Simpkins has selected several band classics to entertain audiences in the first set. A special treat includes Shaymus Hanlin singing Gershwin’s “But Not for Me” with the band. Following the BACB, the second set features the Shaymus Hanlin Quartet. The concert will be held in the Amphitheatre of Mingus Park. Bring your own chair and a picnic lunch!
+**_Tickets Available Soon_**
 
-{{< spacer 50 >}}
+{{< spacer 50 >}}  
+**Saturday, July 16th @ noon**   
+Mingus Park Stage, Coos Bay **  
+Bay Area Concert Band Traditional Festival Kickoff** - **_Free_**
 
-**Sunday, July 18th - 2:00pm - OCMA Presents Rose Canyon Harmonie at the Coos History Museum South Plaza**
+{{< floatimage src="img/Darrell+Grant.jpg" float="right" alt="Darrell Grant, Jazz Pianist" size="40" >}}**Sunday, July 17th @ 2 pm**  
+OIMB Boat House Auditorium, Charleston   
+**Darrell Grant Piano Jazz** - **_tickets $50_**
 
-A unique reed quintet, Rose Canyon Harmonie, features Thomas Schubert, bassoon; Mike Gaby, oboe; Mark Margolies, clarinet; Steve Shields, saxophone; and Robert Zelickman, bass clarinet. The quintet will provide a program with music from the baroque, classical and romantic eras as well as innovative contemporary pieces written specifically for the reed quintet. Seating is extremely limited, tickets may be purchased through the OMCA by calling 541-267-0938. 
+**Saturday, July 23 @ noon**   
+Shore Acres State Park Gardens, Charleston   
+**Brass, Reeds, Strings and Song** - **_Free_**
 
-{{< spacer 50 >}}
+**July 25, 27th & 29th @ noon**   
+Coos Bay Library, Coos Bay   
+**Lunch, Listen and Learn** - **_Free_**
 
-![](/img/trombones-1.jpg)
+**Tuesday, July 26 @ 7:30**   
+Marshfield High School Auditorium, Coos Bay   
+**OCMA Festival Orchestra Concert I** - **_Tickets $25_**
 
-**Saturday, July 24th - 2:00pm - OCMA presents Pioneer Trombones at the Coos History Museum South Plaza**
+**Thursday, July 28 @ 7:30**   
+Marshfield High School Auditorium, Coos Bay   
+**OCMA Festival Orchestra Pops** - **_Tickets $25_**
 
-The Pioneer Trombones ensemble includes brass artists Andrew Harris, David Bryan, Phil Neuman, Gayle Neuman, with Dan Stueber on percussion. They will perform popular music of the Americas, with emphasis on South America’s contributions with music by Antonio Carlos Jobim and Astor Piazzola, arranged by Phil Neuman. The group will play works by jazz composers Kenny Dorham, Joe Zawinul and Chick Corea. Selections from ragtime and big band styles will round out an entertaining mix of trombone quartet “chamber music". Seating is extremely limited, tickets may be purchased through the OMCA by calling 541-267-0938.
+**Saturday, July 30 @ 7:30**   
+Marshfield High School Auditorium, Coos Bay   
+**OCMA Festival Orchestra Concert II**  - **_Tickets $25_**
 
-{{< spacer 50 >}}
-
-**Sunday, July 25th - 2:00pm - OCMA presents Festival Viola Quartet and the Carlos Ensemble at Coos History Museum Plaza**
-
-The Festival Viola Quartet composed of Shelley Mathewson, Cynthia Scott, Brenda Liu, and Sharon Eng provide the first portion of this double concert opportunity. They perform a collection of classical and non-classical pieces, certain to delight the audience with the lovely timbres of the violas. The Carlos Ensemble with Stephen Chong, Anthony Dyer, Shelley Mathewson, and Dale Bradley provides the wrap up finale. They will perform a wonderful array of pop, Broadway and familiar tunes, bringing much joy to the community! Seating is extremely limited, tickets may be purchased through the OMCA by calling 541-267-0938.
+_Additional events to be added._
