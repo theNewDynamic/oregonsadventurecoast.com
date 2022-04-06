@@ -52,7 +52,7 @@ OIMB Boat House Auditorium, Charleston
 
 _Darrell Grant has risen from the pianist in vocalist Betty Carter’s trio to an internationally-recognized performer, composer, and educator who channels the power of music to foster community, sustainability, and social justice. Having performed with jazz luminaries including Frank Morgan, Tony Williams, Brian Blade, Esperanza Spalding, and Nicholas Payton, he followed his 1994New York TimesTop 10 JazzAlbumBlack Art with seven albums receiving critical acclaim fromThe Village VoiceandDownBeat Magazine._
 
-{{< spacer 250 >}}
+{{< spacer 25 >}}
 
 **Saturday, July 23 @ noon**  
 Shore Acres State Park Gardens, Charleston  
