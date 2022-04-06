@@ -7,7 +7,7 @@ smallboxphoto: "/img/bbq-blues-event-small.jpg"
 desktoptitle: BBQ, Blues & Brews Festival
 mobiletitle: BBQ, Blues & Brews
 hovertitle: BBQ, Blues & Brews
-hoverdescription: KCBS Sanctioned BBQ Event on the Bay!
+hoverdescription: KCBS Sanctioned BBQ Event at The Mill Casino * Hotel!
 startdate: '2022-05-28'
 enddate: '2022-05-29'
 address:
@@ -30,24 +30,66 @@ seo:
 
 **Get ready for the return of lip-smackin' BBQ, incredible brews, and smokin' hot tunes. Memorial Weekend 2022, May 28-29.**
 
-The Mill's BBQ, Blues & Brews on the Bay has grown into one of The Mill's most attended events. Finger-lickin' good barbecue, hand-crafted beers, and smokin’ hot tunes at the BBQ, Blues & Brews on the Bay, Memorial Day Weekend. Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, May 28-29, 2022 at The Mill Casino • Hotel & RV Park.
+**The Mill Casino * Hotel's Annual BBQ, Blues & Brews on the Bay** has grown into one of The Mill's most attended events. Finger-lickin' good barbecue, hand-crafted beers, and smokin’ hot tunes at the BBQ, Blues & Brews on the Bay, Memorial Day Weekend. 
+
+Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, May 28-29, 2022 at [**The Mill Casino • Hotel & RV Park**](https://www.themillcasino.com/).
 
 [Book your room now!](https://oregonsadventurecoast.com/lodging/ "Lodging on Oregon's Adventure Coast!")
 
-### Schedule - Full Schedule Coming Soon
+{{< spacer 50>}}
 
-**Saturday, May 28, 2022**
+![](/img/bbq-blue-subpage-header.jpg)
 
-\*NOON TO 6:00PM! Sample BBQ from the competitors.
-Enjoy food vendors, beer garden and live entertainment. Sample 30+ craft brews in the beer garden.
+{{< spacer 25>}}
 
-**Sunday, May 29, 2022**  
-\*NOON TO 4:00PM! Sample BBQ from the competitors.
+#### BBQ!
 
-_NOTE: BBQ competitors will be in competition mode, new items are typically released every half hour. Be sure to check back often!_
+For the 9th Year, The Mill brings you finger-lickin' good barbeque for a Kansas City Barbecue Society Sanctioned Event, bringing the best grill masters and teams together,  vying for the title of **Grand Champion!** See the schedule below for tasting times!
 
-Noon – BBQ Judging begins Noon – 4:00 pm –  Enjoy food vendors, beer garden and live entertainment. Sample 30+ craft brews in the beer garden.
+{{< spacer 50>}}
 
-4:00 pm – Awards Ceremony. Prize money will be awarded to BBQ competitors! Best brew winners will be announced!
+#### BLUES!
+
+Smokin’ hot tunes from some of the best blues musicians throughout both days. After grabbing some BBQ and a Brew, stop in the music tent to hear such greats as Inner Limits and Lloyd Tolbert Band!
+
+{{< spacer 50>}}
+
+#### {{< floatimage src="img/1705_bbq_stevenmichael_ue_4901.jpg" float="_right" alt="Your Alt Text goes here" size="40" >}}BREWS!
+
+**New and improved** beer samplings in 2022! Enjoy samples for over 20 breweries as you wander through the event. You can also vote for the People’s Choice Best Brew! 
+
+When guests enter the event, they will be able to buy a commemorative logo’d glass for $15. The glass comes with 10 tokens for samples of the 30+ flavors of beers at the 4 beer stations throughout the event. Each token is valid for one 2 oz sample. 
+
+Guests can purchase more tokens for $1 each. Full-size domestic beers and a selection of wine will also be available for purchase with cash or card. 
+
+{{< spacer 50>}}
+
+### Schedule of Events
+
+{{< spacer 25>}}
+
+#### Saturday, May 28 
+
+**12:00 PM – 6:00 PM** – Enjoy Vendors, Live Entertainment, Craft Brews, and sample BBQ & Mac ‘N Cheese from competitors
+
+**12:00 PM – 3:00 PM** – Live Entertainment: Inner Limits 
+
+**3:00 PM – 6:00 PM** – Live Entertainment: Lloyd Tolbert Band
+
+{{< spacer 50>}}
+
+#### Sunday , May 29
+
+**12:00 PM – 4:00 PM** – Enjoy Vendors, Live Entertainment, Craft Brews, and sample BBQ & Mac ‘N Cheese from competitors 
+
+**12:00 PM – 2:00 PM** – Live Entertainment: Lloyd Tolbert Band 
+
+**2:00 PM – 4:00 PM** – Live Entertainment: Inner Limits
+
+ **2:00 PM** – Jim Monihan Mac ‘N Cheese Challenge 
+
+**4:00 PM** – Awards Ceremony – $13,500 in prize money will be awarded to KCBS BBQ competitors, Mac ‘N Cheese winners will be announced!
+
+{{< spacer 50>}}
 
 \***ALL SAMPLES AVAILABLE AT THE FESTIVAL ARE WHILE SUPPLIES LAST. GET YOUR BBQ BUCKS AT THE INFORMATION TABLES.**
