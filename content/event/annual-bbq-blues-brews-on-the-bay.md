@@ -44,13 +44,13 @@ Whether you’re a grill master or just love to eat great barbecue, this event i
 
 #### BBQ!
 
-For the 9th Year, The Mill brings you finger-lickin' good barbeque for a Kansas City Barbecue Society Sanctioned Event, bringing the best grill masters and teams together,  vying for the title of **Grand Champion!** See the schedule below for tasting times!
+For the 9th Year, The Mill brings you **finger-lickin' good barbeque** for a Kansas City Barbecue Society Sanctioned Event, bringing the best grill masters and teams together,  vying for the title of **Grand Champion!** See the schedule below for tasting times!
 
 {{< spacer 50>}}
 
 #### BLUES!
 
-Smokin’ hot tunes from some of the best blues musicians throughout both days. After grabbing some BBQ and a Brew, stop in the music tent to hear such greats as Inner Limits and Lloyd Tolbert Band!
+**Smokin’ hot tunes** from some of the best blues musicians throughout both days. After grabbing some BBQ and a Brew, stop in the music tent to hear such greats as Inner Limits and Lloyd Tolbert Band!
 
 {{< spacer 50>}}
 
@@ -63,6 +63,8 @@ When guests enter the event, they will be able to buy a commemorative logo’d g
 Guests can purchase more tokens for $1 each. Full-size domestic beers and a selection of wine will also be available for purchase with cash or card. 
 
 {{< spacer 50>}}
+
+![](/img/1705_bbq_stevenmichael_img_4873.jpg)
 
 ### Schedule of Events
 
