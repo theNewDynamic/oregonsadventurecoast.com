@@ -40,32 +40,32 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 **_Tickets Available Soon_**
 
 {{< spacer 50 >}}  
-**Saturday, July 16th @ noon**   
+**Saturday, July 16th @ noon**  
 Mingus Park Stage, Coos Bay **  
 Bay Area Concert Band Traditional Festival Kickoff** - **_Free_**
 
-{{< floatimage src="img/Darrell+Grant.jpg" float="right" alt="Darrell Grant, Jazz Pianist" size="40" >}}**Sunday, July 17th @ 2 pm**  
-OIMB Boat House Auditorium, Charleston   
+{{< floatimage src="img/darrell-grant.jpg" float="left" alt="Darrell Grant, Jazz Pianist" size="40" >}}**Sunday, July 17th @ 2 pm**  
+OIMB Boat House Auditorium, Charleston  
 **Darrell Grant Piano Jazz** - **_tickets $50_**
 
-**Saturday, July 23 @ noon**   
-Shore Acres State Park Gardens, Charleston   
+**Saturday, July 23 @ noon**  
+Shore Acres State Park Gardens, Charleston  
 **Brass, Reeds, Strings and Song** - **_Free_**
 
-**July 25, 27th & 29th @ noon**   
-Coos Bay Library, Coos Bay   
+**July 25, 27th & 29th @ noon**  
+Coos Bay Library, Coos Bay  
 **Lunch, Listen and Learn** - **_Free_**
 
-**Tuesday, July 26 @ 7:30**   
-Marshfield High School Auditorium, Coos Bay   
+**Tuesday, July 26 @ 7:30**  
+Marshfield High School Auditorium, Coos Bay  
 **OCMA Festival Orchestra Concert I** - **_Tickets $25_**
 
-**Thursday, July 28 @ 7:30**   
-Marshfield High School Auditorium, Coos Bay   
+**Thursday, July 28 @ 7:30**  
+Marshfield High School Auditorium, Coos Bay  
 **OCMA Festival Orchestra Pops** - **_Tickets $25_**
 
-**Saturday, July 30 @ 7:30**   
-Marshfield High School Auditorium, Coos Bay   
+**Saturday, July 30 @ 7:30**  
+Marshfield High School Auditorium, Coos Bay  
 **OCMA Festival Orchestra Concert II**  - **_Tickets $25_**
 
 _Additional events to be added._
