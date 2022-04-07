@@ -21,15 +21,15 @@ Wherever you are on Oregon’s Adventure Coast: Coos Bay, North Bend & Charlesto
 
 **_*Note: due to the popularity of some restaurants and/or staffing issues, we recommend contacting the restaurant of your choice prior to visiting the establishment for reservations or seating information._**
 
-{{< columns >}}
+{{< columns number="3" >}}
 
-[Explore Our Coos Bay - North Bend Walking Map](/img/walking-map-cbnb.pdf) 
+[Explore Our Coos Bay - North Bend Walking Map](/img/walking-map-cbnb.pdf)
 
-\++++ 
+divider
 
 [Download our Restaurant Guide to carry with you on your vacation to the Oregon Coast!](/img/Restaurants-BOOKLET.pdf)
 
-\++++ 
+divider
 
 [Download our Coffee Shops, Bakeries, & Specialty Shops Guide too!](/img/CoffeeShops-Bakery.pdf)
 
