@@ -35,4 +35,6 @@ divider
 
 {{< /columns >}}
 
-[**Looking for Outdoor Dining Options? Click Here!**](/blog/looking-for-outdoor-dining-options-coos-bay-north-bend-charleston-have-several-from-which-to-choose/)
+{{< spacer 50 >}}
+
+[**View Our Updated Outdoor Dining Options Page**](/blog/looking-for-outdoor-dining-options-coos-bay-north-bend-charleston-have-several-from-which-to-choose/)
