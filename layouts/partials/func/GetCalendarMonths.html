@@ -1,0 +1,14 @@
+{{ $months := slice }}
+{{ $calendar_entries := partialCached "func/GetCalendarEntries" "GetCalendarEntries" }}
+{{ range $month := partial "func/GetYearMonths" }}
+  {{ $has_events := false }}
+  {{ with where $calendar_entries "month" .num }}
+    {{ $has_events = true }}
+  {{ end }}
+  {{ $months = $months | append (dict
+    "label" $month.label
+    "num" $month.num
+    "disable" (not $has_events)
+  ) }}
+{{ end }}
+{{ return $months }}

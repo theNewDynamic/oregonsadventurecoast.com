@@ -1,0 +1,141 @@
+{{/*
+  calendar-landing
+  This is using Apline.js to render the same ux as other page's InstantSearch counterpart.
+
+  @author @regisphilibert
+
+  @context Page (.)
+
+  @uses
+     - func/GetCalendarEntries
+     - func/GetCalendarCities
+
+  @example - Go Template
+    {{ with partialCached "calendar-landing" context context }}
+      {{ somet
+    {{ end }}
+*/}}
+<div class="landing-layout" x-data="Calendar()" x-init="$watch('currentMonth', value => console.log(typeof value))">
+  <div class="sm:hidden">
+    <div class="landing-button landing-button--red my-4" @click="displayFilters = true">{{ partial "svg/filter-icon.svg" . }}Filters</div>
+  </div>
+
+  <div class="landing-layout__sidebar filters" :class="displayFilters ? 'filters--active' : ''">
+    <div class="sticky">
+
+      <div class="filters__actions">
+        <div id="clear" class="my-4"></div>
+        <div class="sm:hidden">
+          <div class="landing-button" @click="displayFilters = false">{{ partial "svg/circle-check-solid.svg" . }}Apply Filters</div>
+        </div>
+      </div>
+      
+
+        <h3 class="refinement-title">Months</h3>
+        <ul class="reset-list">
+          <li class="refinement-item">
+            <label for="current-month-0">
+              <input id="current-month-0" type="radio" x-model="currentMonth" value="">
+              All months</label>
+          </li>
+          {{ range $index, $v := partial "func/GetCalendarMonths" }}
+            <li class="refinement-item">
+              <label 
+              for="current-month-{{ add $index 1 }}"
+              {{ if .disable }}
+                disabled
+              {{ end }}
+              >
+                <input 
+                  id="current-month-{{ add $index 1 }}" 
+                  type="radio" x-model="currentMonth" 
+                  value="{{ .num }}"
+                  {{ if .disable }}
+                    disabled
+                  {{ end }}
+                >
+                {{ .label }}</label>
+            </li>
+          {{ end }}
+        </ul>
+        <h3 class="refinement-title">Towns</h3>
+        <ul class="reset-list">
+          {{ range partialCached "func/GetCalendarCities" "GetCalendarCities" }}
+            <li class="refinement-item">
+              <label for="current-city-{{ urlize . }}">
+                <input 
+                  id="current-city-{{ urlize . }}" 
+                  type="checkbox" x-model="currentCities" 
+                  value="{{ . }}"
+                >
+                {{ . }}</label>
+            </li>
+          {{ end }}
+        </ul>
+      <div class="mt-4 sm:hidden">
+        <div class="landing-button landing-button--red" @click="displayFilters = false">{{ partial "svg/circle-check-solid.svg" . }}Apply Filters</div>
+      </div>
+    </div>
+  </div>
+  <div class="landing-layout__main">
+    <div class="m-calendar-list clearfix">
+    {{ range $entry := partialCached "func/GetCalendarEntries" "GetCalendarEntries" }}
+      <div x-show="isCurrentMonth('{{ printf "%#v" .month }}') && isCurrentCity('{{ .address.city }}')" x-transition class="m-calendar-item clearfix">
+        {{ with .media }}
+        <div class="photo">
+            <img src="{{ .image }}" alt="{{ .alt_text }}">
+        </div>
+        {{ end }}
+
+
+        <div class="content">
+          <h2>{{ .name }}</h2>
+          <p class="date"><span class="icon"><i class="fas fa-calendar-alt"></i></span> {{ .date }}</p>
+
+          {{ with .description }}
+            {{ . | safeHTML }}
+          {{ end }}
+          {{ with partial "func/GetAddressString" $entry.address }}
+            <p class="address">
+              {{ . }}
+              {{ with partialCached "func/GetGoogleMapURL" $entry.address $entry.address }}
+                <span class="map"><a href="{{ . }}" target="_blank">Map It</a></span>
+              {{ end }}
+            </p>
+          {{ end }}
+          {{ with .phones }}
+            {{ with apply . "partial" "func/GetPhoneLink" "." }}
+              {{ delimit . " | " }}
+            {{ end }}
+          {{ end }}
+          {{ with .website }}
+            <span class="website"><a href="{{ . }}" target="_blank"><span class="icon"><i class="fas fa-globe" aria-hidden="true"></i></span> Website</a></span>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+    </div>
+  </div>
+</div>
+<script>
+  const Calendar = function() {
+    return {
+      currentMonth: '',
+      currentCities: [],
+      isCurrentMonth: function(month) {
+        let output = false
+        if(!this.currentMonth || this.currentMonth == month) {
+          output = true
+        }
+        return output
+      },
+      isCurrentCity: function(city) {
+        let output = false
+        if(!this.currentCities.length || this.currentCities.indexOf(city) !== -1) {
+          output = true
+        }
+        return output
+      }
+    }
+  }
+</script>
