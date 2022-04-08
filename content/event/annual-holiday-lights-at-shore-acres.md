@@ -1,5 +1,5 @@
 ---
-title: 34th Holiday Lights at Shore Acres - CANCELED
+title: Annual Holiday Lights at Shore Acres
 aliases:
 - "/holidaylights"
 - "/HolidayLights"
@@ -7,12 +7,12 @@ photo: "/img/shore-acres-holiday-lights-header.jpg"
 largeboxphoto: "/img/holiday-lights-large.jpg"
 mediumboxphoto: "/img/holiday-lights-medium.jpg"
 smallboxphoto: "/img/holiday-lights-small.jpg"
-desktoptitle: 34th Holiday Lights at Shore Acres - CANCELED
-mobiletitle: Shore Acres Holiday Lights - CANCELED
-hovertitle: Shore Acres Holiday Lights - CANCELED
-hoverdescription: Shore Acres Holiday Lights - CANCELED
-startdate: '2021-11-25'
-enddate: '2021-12-31'
+desktoptitle: Annual Holiday Lights at Shore Acres  - BACK IN 2022!
+mobiletitle: Shore Acres Holiday Lights -  BACK IN 2022!
+hovertitle: Shore Acres Holiday Lights -  BACK IN 2022!
+hoverdescription: Shore Acres Holiday Lights -  BACK IN 2022 and Better than Ever!
+startdate: '2022-11-22'
+enddate: '2022-12-31'
 address:
   city: Charleston
   state: OR
@@ -27,22 +27,26 @@ website: http://shoreacres.net/
 
 {{< floatimage src="/img/Holiday-Lights-Logo-320px.png" float="right" alt="Annual Holiday Lights at Shore Acres State Park in Charleston, Oregon" size="100" >}}
 
-### **The brightest and most beautiful place on the West Coast has been CANCELED for 2021 due to the uncertainty surrounding COVID-19. We look forward to welcoming this event back in 2022.**
+### **The brightest and most beautiful place on the West Coast is BACK in 2022 and Better than Ever.**
 
 {{< spacer 35 >}}
 
-## No Holiday Lights This Year, But Still Plenty of Adventures!
+Famous for its beautiful 7-acre botanical gardens and Japanese lily pond, Shore Acres State Park shines with over 325,000 LED lights, animated displays, Santa, choirs, and more. _A holiday tradition for the whole family._
 
-[![15% OFF Storm Watching Lodging Special](/img/holiday25-special-lodging-695-wide.jpg)](/holiday25)
+This festive annual display debuts on Thanksgiving Day (Thursday, November 24th) and will light up Shore Acres State Park from 4 p.m.-9:30 p.m. each night (including December 24th & 25th) thru December 31st.
 
-Famous for its beautiful 7-acre botanical gardens and Japanese lily pond, Shore Acres shines with over a 325,000 LED lights, animated displays, Santa, choirs, and more. _A holiday tradition for the whole family._
+{{< spacer 25 >}}
 
-This festive annual display debuts on Thanksgiving Day (Thursday, November 25th) and will light up Shore Acres State Park from 4 p.m.-9:30 p.m. each night (including December 24th & 25th) thru December 31st.
+#### NEW THIS YEAR - TIMED ENTRY - MORE DETAILS SOON
+
+This year, **Holiday Lights visitation will be through a timed reservation system**, which will be available to visitors later this year. In an effort to decrease long wait times and backed up traffic conditions, Friends of Shore Acres is partnering with OPRD to streamline the process of entering Shore Acres State Park for the extremely popular Holiday Lights event. 
+
+{{< spacer 50 >}}
 
 {{< youtube "oMwQeDRya7o" >}}
 <br>
 
-## Tips to make your Shore Acres visit more enjoyable
+### Tips to make your Shore Acres visit more enjoyable
 
 <br>
 {{< columns number="2" >}}
@@ -51,10 +55,9 @@ This festive annual display debuts on Thanksgiving Day (Thursday, November 25th)
 
 ***
 
-**Fridays through Sundays are the busiest.**  
-_(Waiting line of cars likely, especially on a dry night)_
+**MAKE SURE YOU HAVE YOUR TIMED ENTRY TICKET BEFORE YOU HEAD TO THE PARK!**
 
-**Traffic is heaviest between 5:30pm-8:00pm with waits to get into the park.**
+**Fridays through Sundays are the busiest.**
 
 **Mondays through Thursdays are less busy.**
 
@@ -71,29 +74,19 @@ Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or
 
 **Animals** - Dogs and other animals are not allowed outside vehicles at Shore Acres. _Exception: Service Animals_
 
-**Wheelchairs** - the park has a few wheelchairs available to those who may need them. These are available on a first come basis.
+**Wheelchairs** - the park has a few wheelchairs available to those who may need them. These are available on a first-come basis.
 
-**Arrive Early -**  See the ocean waves, the park, and the lights' sparkling transition from daylight to dark!
+**Arrive Early -**  Book an early time slot for the lights and see the ocean waves, the park, and the lights' sparkling transition from daylight to dark!
 
 {{< /columns >}}
 
-{{< spacer 25 >}}
-
-_Note: this event may get cancelled due to COVID-19. Please check with us prior to booking your travel._
-
 {{< spacer 50 >}}
-
-### Win a Chance to Stay in the Park's Garden House on New Year's Eve!
-
-Stop in the Shore Acres Gift Shop during your visit and find exciting holiday gifts for that special someone in your life. And take a chance to win a stay in the Garden House! Purchase raffle tickets for the Ultimate Bed and Breakfast, available in the Shore Acres Gift Shop.  The Prize is an overnight stay for two adults in the Garden House on New Year's Eve with a special catered breakfast, provided by The Pancake Mill, the next morning.  Tickets are $10 each _(only 300 will be sold)_ with the drawing to be held at 4:00 PM on Christmas Day.  _Ticket holder does not need to be present to win._
-
-{{< spacer 25 >}}
 
 ![](/img/11-20-17-coosbayholiday-contest-rules.jpg)
 
 {{< spacer 25 >}}
 
-## **Here are some other things to see and do while in Charleston, Coos Bay & North Bend!**
+### **Here are some other things to see and do while in Charleston, Coos Bay & North Bend!**
 
 In **Charleston**, stop in at the [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/) and discover the marine life and coastal ecosystem just off Oregon's coast _(subject to COVID opening)_. Take a stroll along [Bastendorff Beach](https://oregonsadventurecoast.com/blog/2017-08-29-spotlight-on-bastendorff-beach/). You might even see a surfer taking on the waves. And if you have more time this visit, take a [fishing charter](https://oregonsadventurecoast.com/tour-guides-and-charters/) out of the Charleston Marina.
 
