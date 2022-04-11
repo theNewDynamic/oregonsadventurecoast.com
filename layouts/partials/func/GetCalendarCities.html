@@ -21,4 +21,4 @@
     {{ end }}
   {{ end }}
 {{ end }}
-{{ return uniq $cities }}
+{{ return (sort $cities | uniq) }}
