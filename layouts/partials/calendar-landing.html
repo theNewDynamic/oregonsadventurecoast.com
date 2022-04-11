@@ -24,15 +24,22 @@
     <div class="sticky">
 
       <div class="filters__actions">
-        <div id="clear" class="my-4"></div>
+        <div class="my-4">
+          <button class="landing-button" @click="clearFilters">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256zM175 208.1L222.1 255.1L175 303C165.7 312.4 165.7 327.6 175 336.1C184.4 346.3 199.6 346.3 208.1 336.1L255.1 289.9L303 336.1C312.4 346.3 327.6 346.3 336.1 336.1C346.3 327.6 346.3 312.4 336.1 303L289.9 255.1L336.1 208.1C346.3 199.6 346.3 184.4 336.1 175C327.6 165.7 312.4 165.7 303 175L255.1 222.1L208.1 175C199.6 165.7 184.4 165.7 175 175C165.7 184.4 165.7 199.6 175 208.1V208.1z"></path></svg>
+            Clear All Filters
+          </button>
+          </div>
         <div class="sm:hidden">
           <div class="landing-button" @click="displayFilters = false">{{ partial "svg/circle-check-solid.svg" . }}Apply Filters</div>
         </div>
       </div>
       
-
-        <h3 class="refinement-title">Months</h3>
-        <ul class="reset-list">
+      {{ if false }}
+      {{/* We'll temporarily disable, as we need to fix the filtering for events
+      rollong on several months */}}
+      <h3 class="refinement-title">Months</h3>
+      <ul class="reset-list">
           <li class="refinement-item">
             <label for="current-month-0">
               <input id="current-month-0" type="radio" x-model="currentMonth" value="">
@@ -58,6 +65,7 @@
             </li>
           {{ end }}
         </ul>
+        {{ end }}
         <h3 class="refinement-title">Towns</h3>
         <ul class="reset-list">
           {{ range partialCached "func/GetCalendarCities" "GetCalendarCities" }}
@@ -122,6 +130,10 @@
     return {
       currentMonth: '',
       currentCities: [],
+      clearFilters: function() {
+        this.currentMonth = ''
+        this.currentCities = []
+      },
       isCurrentMonth: function(month) {
         let output = false
         if(!this.currentMonth || this.currentMonth == month) {
