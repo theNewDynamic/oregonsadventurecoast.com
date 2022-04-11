@@ -14,7 +14,6 @@ module.exports = {
     main: ["./src/js/main"],
     tourcharters: ["./src/js/tourcharters"],
     equipment: ["./src/js/equipment"],
-    events: ["./src/js/events"],
     instagram: ["./src/js/instagram"],
     search: ["./src/js/search"],
 	},

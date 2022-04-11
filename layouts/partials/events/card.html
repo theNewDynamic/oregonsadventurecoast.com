@@ -1,0 +1,35 @@
+{{ $page := .Page }}
+{{ $size := .size | default "medium" }}
+
+<div class="item-wrap -{{ $size }} clearfix">
+  <div class="util-bar clearfix">
+      <p class="date">{{ partial "func/FormatStartEndDate" $page }}</p>
+
+      <div class="share" x-data="{showShare: false}">
+          <span class="share-bar-label" @click="showShare = !showShare">
+            <span class="hide-mobile hide-on-small">Share</span>
+            <span class="icon"><i class="fas fa-share-square"></i></span>
+          </span>
+          <div x-show="showShare">
+            {{ partial "share" (dict "title" .Title "url" .Permalink) }}
+          </div>
+      </div>
+  </div>
+  <a href="{{ .Page.RelPermalink }}">
+      <div class="item"
+      {{ with index $.Page.Params (printf "%sboxphoto" $size) }}
+      style="background-image: url({{ . }}"
+      {{ end }}
+        
+      >
+          <div class="description">
+              <h3>{{ $.Page.Params.hovertitle }}</h3>
+              <p>{{ $.Page.Params.hoverdescription }}</p>
+              <span class="more">Learn More</span>
+          </div>
+          <div class="label">{{ $.Page.Params.desktoptitle }}</div>
+          <div class="mobile-label">{{ $.Page.Params.mobiletitle }}</div>
+          <div class="overlay"></div>
+      </div>
+  </a>
+</div>

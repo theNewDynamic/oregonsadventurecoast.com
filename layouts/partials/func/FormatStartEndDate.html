@@ -1,0 +1,26 @@
+{{/*
+  FormatStartEndDate
+  This format a string according to a page's startdate and enddate Params
+
+  @author @regisphilibert
+
+  @context Page (.)
+
+  @access private
+
+  @returns String
+*/}}
+{{ $date := "" }}
+{{ $time_format := "Jan 2, 2006" }}
+{{ $start_date := .Page.Params.startdate | default false }}
+{{ $end_date := .Page.Params.enddate | default false }}
+{{ with $start_date }}
+  {{ $date = time.Format $time_format $start_date }}
+  {{ if and $start_date $end_date }}
+    {{ if ne $start_date $end_date }}
+      {{ $date = print (time.Format "Jan 2" $start_date) " - " (time.Format $time_format $end_date) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ return $date }}
