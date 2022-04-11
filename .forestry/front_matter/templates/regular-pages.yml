@@ -43,6 +43,11 @@ fields:
   name: photo
   label: Header Photo
   description: Choose a header image - size to 2048px by 530px.
+- name: cta
+  type: include
+  config: {}
+  template: partial-ctas
+  label: CTAs
 - name: seo_template
   type: include
   config: {}

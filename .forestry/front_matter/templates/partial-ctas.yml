@@ -1,0 +1,35 @@
+---
+label: Partial CTAs
+hide_body: true
+fields:
+- name: ctas
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+    description: The text on the button
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+  - name: action
+    type: text
+    config:
+      required: false
+    label: Action Text
+    description: The copy of the link
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  config:
+    min: 
+    max: 
+    labelField: title
+  label: CTAs
+  description: Add CTAs to be invoked with the 'ctas' shortcode or else.

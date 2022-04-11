@@ -1,0 +1,12 @@
+{{ with .Page.Params.ctas }}
+  {{ range . }}
+    {{ $action := .action | default "Click here" }}
+    <div>
+      {{ with .image }}
+        <img src="{{ . }}" alt="">
+      {{ end }}
+      <strong>{{ .title }}</strong>
+      <a href="{{ .url }}">{{ $action }}</a>
+    </div>
+  {{ end }}
+{{ end }}
