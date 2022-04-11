@@ -1,0 +1,46 @@
+{{/*
+  GetAddressString
+  Takes a map of address values and turn it into a human readable string
+
+  @author @regisphilibert
+
+  @context Map 
+    String (.name)
+    String (.title)
+    String (.street1)
+    String (.street2)
+    String (.city)
+    String (.zip)
+
+  @access private
+
+  @returns String 
+
+*/}}
+
+{{ $address := slice }}
+
+{{ with .street }}
+  {{ $address = $address | append . }}
+{{ end }}
+
+{{ with .street1 }}
+  {{ $address = $address | append . }}
+{{ end }}
+{{ with .street2 }}
+  {{ $address = $address | append . }}
+{{ end }}
+
+{{ with .city }}
+  {{ $address = $address | append (print . ",") }}
+{{ end }}
+
+{{ with .state }}
+  {{ $address = $address | append . }}
+{{ end }}
+
+{{ with .zip }}
+  {{ $address = $address | append . }}
+{{ end }}
+
+{{ return delimit $address " "}}

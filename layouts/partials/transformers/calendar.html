@@ -1,6 +1,50 @@
+{{/*
+  transformers/calendar
+
+
+  @author @regisphilibert
+
+  @context Type (.name)
+
+  @access private
+
+  @returns Map
+    String (.uuid)
+    String (.title)
+    String (.date)
+    String (.end_date)
+    String (.start_date)
+    String (.latitude)
+    String (.longitude)
+    Int (.month)
+    StringHTML (.description)
+    Map (.media)
+      String(.alt)
+      String(.caption)
+      String(.image)
+    Map (.address)
+      String (.city)
+      String (.state)
+      String (.street)
+      String (.zip)
+    Slice of strings (.phones)
+    String (.website)
+
+  @uses
+     - partial
+
+  @example - Go Template
+    {{ with partialCached "transformers/calendar" context context }}
+      {{ something = . }}
+    {{ end }}
+*/}}
 {{ $s := newScratch }}
 
-{{ range $key := slice
+{{ $phones := slice }}
+{{ $start_date := "" }}
+{{ $end_date := "" }}
+{{ $s.Set "address" dict }}
+{{/* 
   "start_date"
   "end_date"
   "address1"
@@ -8,32 +52,53 @@
   "zip_code"
   "phone1"
   "phone2"
-}}
-  {{ with $.attributes }}
-    {{ range $attr := . }}
-      {{ with .schema }}
-        {{ with .name }}
-          {{ if eq . $key }}
-            {{ $value := $attr.value }}
-            {{ if eq $key "start_date" "end_date" "zip_code" }}
-              {{ if eq $key "start_date" }}
-                {{ with time $value }}
-                  {{ with .Month }}
-                    {{ $s.SetInMap "data" "month" . }}
-                  {{ end }}
-                {{ end }}
-              {{ end }}
-              {{ $s.SetInMap "data" (replace $key "_" "") $value }}
-            {{ else }}
-              {{ $s.SetInMap "data" $key $value }}
+   */}}
+{{ with $.attributes }}
+  {{ range $attr := . }}
+    {{ with .schema }}
+      {{ with $key := .name }}
+        {{ $value := $attr.value }}
+        {{ if eq $key "start_date" }}
+          {{ with time $attr.value }}
+            {{ with .Month }}
+              {{ $s.SetInMap "data" "month" . }}
             {{ end }}
+            {{ $start_date = $value }}
+            {{ $s.SetInMap "data" "start_date" $value }}
           {{ end }}
+        {{ else if eq $key "end_date" }}
+          {{ $end_date = $value }}
+          {{ $s.SetInMap "data" "end_date" $value }}
+        {{ else if eq $key "zip_code" }}
+          {{ $s.SetInMap "address" "zip" $value }}
+        {{ else if eq $key "address1" }}
+          {{ $s.SetInMap "address" "street" $value }}
+        {{ else if eq $key "phone1" "phone2" }}
+          {{ $phones = $phones | append $value }}
+        {{ else if eq $key "state"}}
+          {{ $s.SetInMap "address" "state" $value }}
         {{ end }}
       {{ end }}
     {{ end }}
   {{ end }}
-
 {{ end }}
+
+{{ with $phones }}
+  {{ $s.SetInMap "data" "phones" . }}
+{{ end }}
+
+{{ $time_format := "January 2, 2006" }}
+{{ with $start_date }}
+{{ $date := time.Format $time_format $start_date }}
+{{ if and $start_date $end_date }}
+  {{ if ne $start_date $end_date }}
+    {{ $date = print (time.Format "January 2" $start_date) " - " (time.Format $time_format $end_date) }}
+  {{ end }}
+{{ end }}
+{{ $s.SetInMap "data" "date" $date }}
+{{ end }}
+
+
 
 {{ range $key := slice 
   "name"
@@ -43,14 +108,23 @@
   "uuid"
 }}
   {{ with index $ $key }}
-    {{ $s.SetInMap "data" $key . }}
+    {{ if eq $key "name" }}
+      {{ $s.SetInMap "data" "title" . }}
+    {{ else }}
+      {{ $s.SetInMap "data" $key . }}
+    {{ end }}
   {{ end }}
 {{ end }}
 
 {{ with .media }}
   {{ with .photos }}
     {{ with index . 0 }}
-      {{ $s.SetInMap "data" "media" . }}
+      {{ $media := dict
+        "alt" .alt_text
+        "caption" .caption
+        "image" .image
+      }}
+      {{ $s.SetInMap "data" "media" $media }}
     {{ end }}
   {{ end }}
 {{ end }}
@@ -68,9 +142,11 @@
 {{ with .relations }}
   {{ with where . "type" "==" "Cities" }}
     {{ with index . 0 }}
-      {{ $s.SetInMap "data" "city" .name }}
+      {{ $s.SetInMap "address" "city" .name }}
     {{ end }}
   {{ end }}
 {{ end }}
+
+{{ $s.SetInMap "data" "address" ($s.Get "address") }}
 
 {{ return $s.Get "data" }}

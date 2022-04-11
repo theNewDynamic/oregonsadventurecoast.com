@@ -1,0 +1,24 @@
+{{/*
+  GetCalendarCities
+  Retrieves all available cities from the calendar entries
+
+  @author @regisphilibert
+
+  @context Any
+
+  @access private
+
+  @returns Slice of strings
+
+  @uses
+     - func/GetCalendarEntries
+*/}}
+{{ $cities := slice }}
+{{ with partialCached "func/GetCalendarEntries" "GetCalendarEntries" }}
+  {{ range . }}
+    {{ with .address.city }}
+      {{ $cities = $cities | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return (sort $cities | uniq) }}
