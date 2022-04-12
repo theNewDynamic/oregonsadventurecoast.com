@@ -4,27 +4,23 @@
     "jsIntegrity": "sha256-DKJ43AbtDyJuzN1ygCmUT5wPFTBBNZ3PidhSdXvEIi0="
   },
   "equipment": {
-    "js": "/dist/equipment.911d6dad0ff001d385d6.js",
-    "jsIntegrity": "sha256-5jZXJg6AZvBwLtBmqxgn254Gwk/kIA2vw0+PXMazbA8="
-  },
-  "events": {
-    "js": "/dist/events.d1cf8b96dd21fa0a8a2c.js",
-    "jsIntegrity": "sha256-2UCfl4ZbpEdMnoK0mAnTVqYHARDxKizmeQuXLHG3B48="
+    "js": "/dist/equipment.21c5041d4e1d145225a1.js",
+    "jsIntegrity": "sha256-C66EBGvjnJdLY7asNc+bUn3IQCDXNsECIrS4uSlKtmg="
   },
   "instagram": {
-    "js": "/dist/instagram.fab2f8462b80c8057249.js",
-    "jsIntegrity": "sha256-QLwYEZBZlfG83RLkjAUFWv2Vl4A6zd66Gn8yf58NDI4="
+    "js": "/dist/instagram.c6ae0f0eebc8a14a8ec9.js",
+    "jsIntegrity": "sha256-v2T+nTh36kSFw6oUet/uEn0Lhw8pWSBs+AVRjpnn5Bs="
   },
   "main": {
-    "js": "/dist/main.039626d6d927ad7b7b5a.js",
+    "js": "/dist/main.03d60249a38856ca963f.js",
     "jsIntegrity": "sha256-2fEEKV1t1yl7Jg2PsigInRQIeM6auqY2PCR5+bL6IAE="
   },
   "search": {
-    "js": "/dist/search.0ecfb104cace32745bdf.js",
-    "jsIntegrity": "sha256-8zMGoRIG8RkiNlEX2ITcttJG73qiJ6IhoZyNtHTPO/U="
+    "js": "/dist/search.bd64f18665407bcc23d6.js",
+    "jsIntegrity": "sha256-68/THLOi03Z/W6lwoWrezxA8H/AZHw9AbqVDGpJsfcA="
   },
   "tourcharters": {
-    "js": "/dist/tourcharters.0666c751410e95874d95.js",
-    "jsIntegrity": "sha256-HKbVBIkrEUwITKpnU7UcxoHrBwtBUT2eSf8wfvrrq0M="
+    "js": "/dist/tourcharters.04529101b60ed635d42e.js",
+    "jsIntegrity": "sha256-kO36zsRCVAEpsc+WKYlCmjsUPEFgO10/JO3yh2eLsY4="
   }
 }

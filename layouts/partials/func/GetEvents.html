@@ -1,0 +1,24 @@
+{{/*
+  GetEvents
+  Retrieve the envents whose end date is posterior to yesterday and order them by startdate
+
+  @author @regisphilibert
+
+  @context Any (.)
+
+
+  @returns Collection of Pages
+
+*/}}
+{{ $events := slice }}
+{{ with where site.RegularPages "Type" "event" }}
+  {{ with .ByParam "startdate" }}
+   {{ range . }}
+    {{ if gt (time .Params.enddate) (now.AddDate 0 0 -1) }}
+      {{ $events = $events | append . }}
+    {{ end }}
+   {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ return $events }}
