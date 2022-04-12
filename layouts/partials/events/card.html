@@ -1,9 +1,8 @@
-{{ $page := .Page }}
 {{ $size := .size | default "medium" }}
-
+{{ with $page := .Page }}
 <div class="item-wrap -{{ $size }} clearfix">
   <div class="util-bar clearfix">
-      <p class="date">{{ partial "func/FormatStartEndDate" $page }}</p>
+      <p class="date">{{ partial "func/FormatStartEndDate" . }}</p>
 
       <div class="share" x-data="{showShare: false}">
           <span class="share-bar-label" @click="showShare = !showShare">
@@ -15,21 +14,22 @@
           </div>
       </div>
   </div>
-  <a href="{{ .Page.RelPermalink }}">
+  <a href="{{ .RelPermalink }}">
       <div class="item"
-      {{ with index $.Page.Params (printf "%sboxphoto" $size) }}
+      {{ with index .Params (printf "%sboxphoto" $size) }}
         style="background-image: url({{ . }})"
       {{ end }}
         
       >
           <div class="description">
-              <h3>{{ $.Page.Params.hovertitle }}</h3>
-              <p>{{ $.Page.Params.hoverdescription }}</p>
+              <h3>{{ .Params.hovertitle }}</h3>
+              <p>{{ .Params.hoverdescription }}</p>
               <span class="more">Learn More</span>
           </div>
-          <div class="label">{{ $.Page.Params.desktoptitle }}</div>
-          <div class="mobile-label">{{ $.Page.Params.mobiletitle }}</div>
+          <div class="label">{{ .Params.desktoptitle }}</div>
+          <div class="mobile-label">{{ .Params.mobiletitle }}</div>
           <div class="overlay"></div>
       </div>
   </a>
 </div>
+{{ end }}
