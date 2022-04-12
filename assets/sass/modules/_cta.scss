@@ -1,0 +1,49 @@
+.cta-wrap {
+  padding: 0 10px;
+  margin-bottom: 20px;
+  @include smallPlusUp {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .cta {
+    display: flex;
+    box-sizing: border-box;
+    text-align: left;
+    padding: 15px;
+    text-decoration: none;
+    @include smallPlusUp {
+      width: 33.333%;
+    }
+    .title {
+      font-size: 18px;
+      font-weight: bold;
+      color: #626262;
+      border-bottom: 1px solid #ededed;
+      padding-bottom: 5px;
+      margin-bottom: 5px;
+      line-height: 1.25;
+    }
+    .action {
+      font-size: 14px;
+      font-weight: bold;
+      color: #d74029;
+    }
+    img {
+      width: 66px;
+      align-self: flex-start;
+      box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+    }
+    .text {
+      flex: 1;
+      padding-left: 20px;
+    }
+    &:hover {
+      .title,
+      .action {
+        color: #d74029;
+      }
+    }
+  }
+}

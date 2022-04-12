@@ -3,7 +3,7 @@
   "baseUrl": ".",
   "paths": {
    "*": [
-    "../../../../../../var/folders/t7/9pbqz9_17llf0v0x7k3nxnkm0000gn/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/the!new!dynamic/hugo-module-tnd-search@v0.2.4/assets/*"
+    "../../../../../../var/folders/bn/8xmbq6cd3tv99c4b9gj1wnxh0000gn/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/the!new!dynamic/hugo-module-tnd-search@v0.2.4/assets/*"
    ]
   }
  }

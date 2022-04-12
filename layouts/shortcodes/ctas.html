@@ -1,12 +1,16 @@
 {{ with .Page.Params.ctas }}
+<div class="cta-wrap">
   {{ range . }}
     {{ $action := .action | default "Click here" }}
-    <div>
+    <a href="{{ .url }}" class="cta">
       {{ with .image }}
         <img src="{{ . }}" alt="">
       {{ end }}
-      <strong>{{ .title }}</strong>
-      <a href="{{ .url }}">{{ $action }}</a>
-    </div>
+      <div class="text">
+        <div class="title">{{ .title }}</div>
+        <div class="action">{{ $action }}</div>
+      </div>
+    </a>
   {{ end }}
+</div>
 {{ end }}

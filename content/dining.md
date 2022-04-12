@@ -15,16 +15,20 @@ seo:
 ctas:
 - title: Coos Bay – North Bend Downtown Walking Maps
   url: /img/walking-map-cbnb.pdf
+  image: /img/brochure-cover-walking-map.jpg
   action: Download (PDF)
 - title: Local Restaurant & Dining Guide
-  url: img/Restaurants-BOOKLET.pdf
+  url: /img/restaurants-booklet.pdf
+  image: /img/brochure-cover-dining-guide.jpg
   action: Download (PDF)
 - title: Coffee Shops, Bakeries & More Guide
-  url: /img/CoffeeShops-Bakery.pdf
+  url: /img/coffeeshops-bakery.pdf
+  image: /img/brochure-cover-bakery-guide.jpg
   action: Download (PDF)
 - title: Test
   url: /img/CoffeeShops-Bakery.pdf
   image: /img/tidepooling-careful-icon.png
+  action: Download (PDF)
 outputs:
 - html
 - json
