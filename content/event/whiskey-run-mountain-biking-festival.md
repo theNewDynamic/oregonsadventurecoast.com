@@ -58,14 +58,14 @@ _Limited camping is available on a first-come, first-served basis and must be bo
 
 ### **Schedule of Events**
 
-{{< spacer 50 >}}
+{{< spacer 30 >}}
 
 #### **Friday, June 3, 2022 - 5:00-7:00pm**
 
 **5:00-7:00 PM - Packet Pick Up**   
 South Coast Bicycles 805 2nd St. SE, Bandon, OR, 97411
 
-{{< spacer 50>}}
+{{< spacer 30>}}
 
 #### Saturday, June 4, 2022 - 8:30am-4:00pm
 
@@ -76,7 +76,7 @@ South Coast Bicycles 805 2nd St. SE, Bandon, OR, 97411
 **2:00 - 4:00 PM** - **Trail celebration** \~ Music, food & beverage garden open for purchase.  
 **4:00 PM** - End of Day
 
-{{< spacer 50>}}
+{{< spacer 30>}}
 
 #### Sunday, June 5, 2022 - 7:30am-3:00pm
 
@@ -142,31 +142,26 @@ On Sunday, June 5th we will have the **_“Flow Duro Challenge”_**. A fun, fas
 * **Cat 2 (Sport) Men & Women** - 19-44, 45+, Junior 10-13, 14-18
 * **Cat 3 (Beginner) Men & Women** - 19-44, 45+, Junior 10-13, 14-18
 
-{{< spacer 100 >}}
+{{< spacer 50 >}}
 
 ### EVENT FAQ’s:
 
-{{< spacer 50 >}}
+{{< spacer 30 >}}
 
 #### **WHEN IS PACKET PICK UP?** 
 
 We will have several options for packet pick-up and registration.
 
-**Friday, June 3, 2022** 
+* **Friday, June 3, 2022  - 5-7 PM - Packet pick up at South Coast Bicycles** 805 2nd St. SE, Bandon, OR 97411| Stop in to the local bike shop, have a beverage, pick up your packet, register for event, and pick up last minute items needed for weekend.
 
-**5-7 PM - Packet pick up at South Coast Bicycles** 805 2nd St. SE, Bandon, OR 97411|  
-Stop in to the local bike shop, have a beverage, pick up your packet, register for event, and pick up last minute items needed for weekend.
 
-**Saturday, June 4, 2022**
+* **Saturday, June 4, 2022 - 8:30 AM - Check in & Registration at Whiskey Run Trails Parking** **Area**  (under event tent).
 
-**8:30 AM - Check in & Registration at Whiskey Run Trails Parking** **Area**   
-(under event tent).
 
-**1:00-1:45 PM - Packet pick up & Registration for the Flow Duro Challenge** at Whiskey Run Trails Parking area (under event tent).
+* **Saturday, June 4, 2022 - 1:00-1:45 PM - Packet pick up & Registration for the Flow Duro Challenge** at Whiskey Run Trails Parking area (under event tent).
 
-**Sunday, June 5, 2022**
 
-**7:30-8:30 AM - Check in & day of registration for Flow Duro Challenge** at Whiskey Run Trails Parking area (under event tent).
+* **Sunday, June 5, 2022 - 7:30-8:30 AM - Check in & day of registration for Flow Duro Challenge** at Whiskey Run Trails Parking area (under event tent).
 
 {{< spacer 30 >}}
 
