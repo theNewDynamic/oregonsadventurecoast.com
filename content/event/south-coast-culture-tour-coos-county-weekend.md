@@ -19,11 +19,11 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-desktoptitle: Taste - Create - Explore
-mobiletitle: Taste - Create - Explore
-hovertitle: Taste - Create - Explore
-hoverdescription: Experience the Southern Oregon Coast through a variety of events
-  around food, culture and adventure.
+desktoptitle: South Coast Culture Tour
+mobiletitle: South Coast Culture Tour
+hovertitle: South Coast Culture Tour
+hoverdescription: Taste - Create - Explore - Experience the Southern Oregon Coast
+  through a variety of events around food, culture and adventure.
 photo: "/img/scct-2048x530.jpg"
 largeboxphoto: "/img/scct-1024x395.jpg"
 mediumboxphoto: "/img/scct-667x355.jpg"
