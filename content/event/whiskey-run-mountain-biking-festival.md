@@ -29,7 +29,6 @@ largeboxphoto: "/img/whiskeyrun8-1024x395.jpg"
 mediumboxphoto: "/img/whiskeyrun14-667x355.jpg"
 smallboxphoto: "/img/cycling-at-whiskey-run-340x214.jpg"
 aliases: []
-draft: true
 
 ---
 ![](/img/whiskeyrun8-1024x395.jpg)
@@ -214,7 +213,7 @@ On Saturday, the road will be closed for our event. Please show your ticket to t
 
 #### WILL THERE BE FOOD OR DRINKS AVAILABLE?
 
-We will have extra water available for riders at the trailhead. Come prepared with your own water, power bars, snacks, etc. We will have a food cart on-site from 11am-4pm on Saturday and 11am-3pm on Sunday for you to purchase food on your own. We will have 7 Devils beer on tap for purchase as well.
+There will be extra water available for riders at the trailhead. Come prepared with your own water, power bars, snacks, etc. There will be a food cart on-site from 11am-4pm on Saturday and 11am-3pm on Sunday for you to purchase food on your own.  7 Devils beer will also be on tap for purchase.
 
 {{< spacer 30 >}}
 
@@ -224,7 +223,7 @@ Our Saturday event is perfect for beginner riders. If you have been interested i
 
 Our Sunday event is for riders who have some technical skills as the course is a black diamond (Advanced) trail.
 
-{{< spacer 100 >}}
+{{< spacer 50 >}}
 
 ### ABOUT Whiskey Run Trails:
 
