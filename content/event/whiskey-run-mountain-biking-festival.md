@@ -58,12 +58,14 @@ _Limited camping is available on a first-come, first-served basis and must be bo
 
 ### **Schedule of Events**
 
+{{< spacer 50 >}}
+
 #### **Friday, June 3, 2022 - 5:00-7:00pm**
 
 **5:00-7:00 PM - Packet Pick Up**   
 South Coast Bicycles 805 2nd St. SE, Bandon, OR, 97411
 
-{{< spacer 25>}}
+{{< spacer 50>}}
 
 #### Saturday, June 4, 2022 - 8:30am-4:00pm
 
@@ -74,7 +76,7 @@ South Coast Bicycles 805 2nd St. SE, Bandon, OR, 97411
 **2:00 - 4:00 PM** - **Trail celebration** \~ Music, food & beverage garden open for purchase.  
 **4:00 PM** - End of Day
 
-{{< spacer 25>}}
+{{< spacer 50>}}
 
 #### Sunday, June 5, 2022 - 7:30am-3:00pm
 
@@ -85,9 +87,11 @@ South Coast Bicycles 805 2nd St. SE, Bandon, OR, 97411
 **1:30-2:00 PM** - Awards Ceremony  
 **3:00 PM** - End of Day
 
-{{< spacer 50>}}
+{{< spacer 100>}}
 
 #### **SATURDAY RIDE OPTIONS:**
+
+{{< spacer 50 >}}
 
 **Advanced Enduro Style Ride** - Full Flight Enduro: (\~20 miles). Ready to really take flight? Exceptional guided ride for those looking for both miles and hang time, while lapping all the fun downhill-only trails. Take a tour with our local shredders around black and double black jump trails with blue and green climbing in between. This ride is great for those more experienced riders looking to hit the jumps, gaps, and techy fall-line trails all around Whiskey Run. Get your climbing legs ready for this up and down enduro-style ride. Options for pre-ride, re-ride and rip on more challenging features. Bring your hydration and fuel for this longer ride.
 
@@ -138,7 +142,11 @@ On Sunday, June 5th we will have the **_“Flow Duro Challenge”_**. A fun, fas
 * **Cat 2 (Sport) Men & Women** - 19-44, 45+, Junior 10-13, 14-18
 * **Cat 3 (Beginner) Men & Women** - 19-44, 45+, Junior 10-13, 14-18
 
+{{< spacer 100 >}}
+
 ### EVENT FAQ’s:
+
+{{< spacer 50 >}}
 
 #### **WHEN IS PACKET PICK UP?** 
 
@@ -160,57 +168,60 @@ Stop in to the local bike shop, have a beverage, pick up your packet, register f
 
 **7:30-8:30 AM - Check in & day of registration for Flow Duro Challenge** at Whiskey Run Trails Parking area (under event tent).
 
-{{< spacer 20 >}}
+{{< spacer 30 >}}
 
 #### **CAN I REGISTER ON RACE DAY?**
 
 Yes, please see the above schedule for packet pick up.
 
-{{< spacer 20 >}}
+{{< spacer 30 >}}
 
 #### ARE HELMETS REQUIRED?
 
 Yes, helmets will be required for both events.
 
-{{< spacer 20 >}}
+{{< spacer 30 >}}
 
 #### WILL THERE BE A PRE-RIDE OF FLOW-DURO COURSE?
 
 Yes, there will be a Pre-Ride of the course on Saturday @ 2 PM.
 
-{{< spacer 20 >}}
+{{< spacer 30 >}}
 
 #### HOW DO I GET TO THE TRAILS?
 
 Whiskey Run Trails, Coos County, OR  
 Map to trails: [https://goo.gl/maps/5JLMCCiKdUiHz2EH9](https://goo.gl/maps/5JLMCCiKdUiHz2EH9 "https://goo.gl/maps/5JLMCCiKdUiHz2EH9")
 
-{{< spacer 20 >}}
+{{< spacer 30 >}}
 
 #### WHERE DO I PARK AT THE TRAILS?
 
 On Saturday, the road will be closed for our event. Please show your ticket to the volunteers and/or let them know you are doing a day of registration for the event. You will be parking along the road and in the limited gravel parking areas. On Sunday, road will not be closed. Park along side of road and limited parking in gravel parking areas.
 
-{{< spacer 20 >}}
+{{< spacer 30 >}}
 
 #### WHERE DO WE STAY?
 
-**Book your lodging in Coos Bay, North Bend or Charleston!** [Visit our lodging page](/lodging/) for options.
+* **Book your lodging in Coos Bay, North Bend or Charleston!** [Visit our lodging page](/lodging/) for options.
 
-**Book your lodging in Bandon!** Visit [https://bandon.com/lodging/](https://bandon.com/lodging/ "https://bandon.com/lodging/")
 
-**Camping Location:** [https://goo.gl/maps/uCbSmVrxswpg9HT88](https://goo.gl/maps/uCbSmVrxswpg9HT88 "https://goo.gl/maps/uCbSmVrxswpg9HT88")  
-We have made arrangements for limited FREE camping at Bandon City Park/Community Center. **You will need to be a paid registrant for the event and then register to camp as well.** There is a limited # of tents and RV spots and will be first-come, first-served on our registration page. RVś, Sprinter vans, under 25 feet allowed to park in Bandon Community Center Parking lot. **_Limited to 20 total vehicles._** This is dry camping and no hookups. There is a public restroom across the street at the Disc Golf Course that will be open. **_NO Showers. NO Fires are allowed._**
+* **Book your lodging in Bandon!** Visit [https://bandon.com/lodging/](https://bandon.com/lodging/ "https://bandon.com/lodging/")
 
-**Tent Camping** - 30 tent spots will be allowed to set up in the grass area next to Community Center Parking lot. Limited to 4 people and 1 vehicle for each tent spot. There is a public restroom across the street at the Disc Golf Course that will be open. NO Showers. NO Fires are allowed. You will need to display your registration paperwork in vehicle to show you have a reserved spot.
 
-{{< spacer 20 >}}
+* **Camping Location:** [https://goo.gl/maps/uCbSmVrxswpg9HT88](https://goo.gl/maps/uCbSmVrxswpg9HT88 "https://goo.gl/maps/uCbSmVrxswpg9HT88")  
+  We have made arrangements for limited FREE camping at Bandon City Park/Community Center. **You will need to be a paid registrant for the event and then register to camp as well.** There is a limited # of tents and RV spots and will be first-come, first-served on our registration page. RVś, Sprinter vans, under 25 feet allowed to park in Bandon Community Center Parking lot. **_Limited to 20 total vehicles._** This is dry camping and no hookups. There is a public restroom across the street at the Disc Golf Course that will be open. **_NO Showers. NO Fires are allowed._**
+
+
+* **Tent Camping** - 30 tent spots will be allowed to set up in the grass area next to Community Center Parking lot. Limited to 4 people and 1 vehicle for each tent spot. There is a public restroom across the street at the Disc Golf Course that will be open. NO Showers. NO Fires are allowed. You will need to display your registration paperwork in vehicle to show you have a reserved spot.
+
+{{< spacer 30 >}}
 
 #### WILL THERE BE FOOD OR DRINKS AVAILABLE?
 
 We will have extra water available for riders at the trailhead. Come prepared with your own water, power bars, snacks, etc. We will have a food cart on-site from 11am-4pm on Saturday and 11am-3pm on Sunday for you to purchase food on your own. We will have 7 Devils beer on tap for purchase as well.
 
-{{< spacer 20 >}}
+{{< spacer 30 >}}
 
 #### I AM A BEGINNER RIDER, WHAT SHOULD I SIGN UP FOR?
 
@@ -218,13 +229,15 @@ Our Saturday event is perfect for beginner riders. If you have been interested i
 
 Our Sunday event is for riders who have some technical skills as the course is a black diamond (Advanced) trail.
 
-{{< spacer 50 >}}
+{{< spacer 100 >}}
 
 ### ABOUT Whiskey Run Trails:
 
 Purpose-built mountain biking trail system in the Coos County Forest. Trails for all levels of riders from family-friendly/beginner areas advanced jump lines and Double Black diamond trails. The trail system is located about 23 min (17.9 mi) via US-101 S  from Coos Bay ([map](https://www.google.com/maps/dir/Coos+Bay,+Oregon/Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411/@43.301189,-124.3471598,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54c3842b1c6c04e1:0x67d7f4c7ddc01229!2m2!1d-124.2178903!2d43.3665007!1m5!1m1!1s0x54c4818dc596de61:0xe64719ece591060f!2m2!1d-124.3422167!2d43.2189727!3e0)); about 13 min (11.8 mi) via US-101 N and Seven Devils Rd. from Bandon ([map](https://www.google.com/maps/dir/Bandon,+Oregon+97411/Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411/@43.170805,-124.3924026,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54c49b0942eede61:0xea92e84253429f02!2m2!1d-124.408448!2d43.1189978!1m5!1m1!1s0x54c4818dc596de61:0xe64719ece591060f!2m2!1d-124.3422167!2d43.2189727!3e0)); and about 14 min (11.5 mi) via Seven Devils Rd from Charleston ([map](https://www.google.com/maps/dir/Charleston,+Oregon+97420/Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411/@43.2769513,-124.4272229,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54c3823ae8c840bd:0xbb2903fdf3101a26!2m2!1d-124.3301166!2d43.340111!1m5!1m1!1s0x54c4818dc596de61:0xe64719ece591060f!2m2!1d-124.3422167!2d43.2189727!3e0)) to Whiskey Run. 
 
 Here is link to Trail forks maps for more information & videos of trail: [https://www.trailforks.com/region/whiskey-run-trails-21273/](https://www.trailforks.com/region/whiskey-run-trails-21273/ "https://www.trailforks.com/region/whiskey-run-trails-21273/")
+
+{{< spacer 50 >}}
 
 #### SPONSORS:
 
@@ -235,6 +248,8 @@ Travel Southern Oregon Coast
 Wild Rivers Coast Alliance  
 Oregon Adventure Coast: Coos Bay, North Bend, Charleston  
 South Coast Bicycles
+
+{{< spacer 50 >}}
 
 #### CONTACT:
 
