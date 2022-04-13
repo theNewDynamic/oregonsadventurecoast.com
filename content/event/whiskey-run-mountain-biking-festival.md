@@ -204,6 +204,20 @@ We have made arrangements for limited FREE camping at Bandon City Park/Community
 
 **Tent Camping** - 30 tent spots will be allowed to set up in the grass area next to Community Center Parking lot. Limited to 4 people and 1 vehicle for each tent spot. There is a public restroom across the street at the Disc Golf Course that will be open. NO Showers. NO Fires are allowed. You will need to display your registration paperwork in vehicle to show you have a reserved spot.
 
+{{< spacer 20 >}}
+
+#### WILL THERE BE FOOD OR DRINKS AVAILABLE?
+
+We will have extra water available for riders at the trailhead. Come prepared with your own water, power bars, snacks, etc. We will have a food cart on-site from 11am-4pm on Saturday and 11am-3pm on Sunday for you to purchase food on your own. We will have 7 Devils beer on tap for purchase as well.
+
+{{< spacer 20 >}}
+
+#### I AM A BEGINNER RIDER, WHAT SHOULD I SIGN UP FOR?
+
+Our Saturday event is perfect for beginner riders. If you have been interested in coming to check out the trails but weren't sure where to ride, this is the perfect event to have a fun & supportive ¨Guide¨ show you the trails. _(see above for Saturday Beginner & Family ride options)_
+
+Our Sunday event is for riders who have some technical skills as the course is a black diamond (Advanced) trail.
+
 {{< spacer 50 >}}
 
 ### ABOUT Whiskey Run Trails:
@@ -224,10 +238,7 @@ South Coast Bicycles
 
 #### CONTACT:
 
-Daniella Crowder, Director  
 Oregon Rides & Events  
 Email: [Director@OregonRides.com](mailto:Director@OregonRides.com)
 
 ![This is an OBRA sanctioned event.](/img/obra-logo.jpg "This is an OBRA sanctioned event.")
-
-Map to trails: [https://goo.gl/maps/5JLMCCiKdUiHz2EH9](https://goo.gl/maps/5JLMCCiKdUiHz2EH9 "https://goo.gl/maps/5JLMCCiKdUiHz2EH9")
