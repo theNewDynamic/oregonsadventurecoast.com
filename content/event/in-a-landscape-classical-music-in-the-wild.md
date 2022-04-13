@@ -19,7 +19,7 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-desktoptitle: Classical Music in the Wild at Shore Acres State Park
+desktoptitle: Classical Music in the Wild
 mobiletitle: Classical Music in the Wild
 hovertitle: Classical Music in the Wild
 hoverdescription: Join classical pianist Hunter Noack for a special 3 night concert

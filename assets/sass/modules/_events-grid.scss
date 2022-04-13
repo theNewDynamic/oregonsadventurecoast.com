@@ -63,6 +63,9 @@ Modifier Classes for .items:
     background-repeat: no-repeat;
     background-size: cover;
 }
+.m-events-grid .item-wrap.-small .hide-on-small{
+    display: none;
+}
 .m-events-grid .item-wrap {
     margin-bottom: $homeGridMargin;
 }
@@ -313,7 +316,6 @@ Modifier Classes for .items:
     width: 165px;
     z-index: 200;
     box-shadow: 0 0 12px $gray;
-    display: none;
 }
 .m-events-grid .share .m-share .share-label {
     display: block;

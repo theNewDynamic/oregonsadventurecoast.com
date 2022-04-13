@@ -1,5 +1,5 @@
 {{ define "main" }}
-
+{{ $events := partialCached "func/GetEvents" "GetEvents" }}
 {{ partial "featurePhoto" (dict "photo" .Params.photo) }}
 
 <div class="g-wrap clearfix">
@@ -12,19 +12,48 @@
         
     </div>
 </div>
-
+{{ with $events }}
 <div class="m-events-grid clearfix">
-    <div id="event-large"></div>
-    <div class="events-grid-left" id="event-left"></div>
-    <div class="events-grid-right" id="event-right"></div>
+    <div id="event-large">
+        {{ with index $events 0 }}
+            {{ partial "events/card" (dict "Page" . "size" "large") }}
+        {{ end }}
+    </div>
+    <div class="events-grid-left" id="event-left">
+        {{ range slice (index $events 1) (index $events 2) }}
+        {{ partial "events/card" (dict "Page" . "size" "medium") }}
+        {{ end }}
+    </div>
+    <div class="events-grid-right" id="event-right">
+        {{ range slice (index $events 3) (index $events 4) (index $events 5) }}
+        {{ partial "events/card" (dict "Page" . "size" "small") }}
+        {{ end }}
+    </div>
 </div>
+{{ end }}
+
 
 <div class="m-events-list" id="more-events">
-    
+    {{ range ((complement (first 5 $events) ($events)).GroupByParamDate "enddate" "January 2006").Reverse }}
+        <div>
+            <div class="month-wrap">
+                <h2 class="month">{{ .Key }}</h2>
+            </div>
+            {{ range .Pages.Reverse }}
+            <div class="event">
+                <a href="{{ .RelPermalink }}">
+                    <span class="date">{{ partial "func/FormatStartEndDate" . }}</span>
+                    <span class="title">{{ .Title }}</span>
+                </a>
+            </div>
+            {{ end }}
+
+        </div>
+    {{ end }}
 </div>
 
 {{ end }}
 
 {{ define "footerJs" }}
-{{ partial "script" "events" }}
+
 {{ end }}

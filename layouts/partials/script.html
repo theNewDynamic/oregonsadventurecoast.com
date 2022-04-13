@@ -16,18 +16,19 @@
     {{ end }}
   ></script>
 {{ else }}
-  <script type="text/javascript" src="{{ . }}" ></script>
-{{ end }}
-{{ if eq "entries" . }}
-{{ $mapKey := "" }}
-{{ with getenv "GOOGLE_MAP_API" }}
-  {{ $mapKey = . }}
-{{ else }}
-  {{ with site.Data.env.GOOGLE_MAP_API }}
-    {{ $mapKey = . }}
+  {{ if eq "entries" . }}
+    {{ $mapKey := "" }}
+    {{ with getenv "GOOGLE_MAP_API" }}
+      {{ $mapKey = . }}
+    {{ else }}
+      {{ with site.Data.env.GOOGLE_MAP_API }}
+        {{ $mapKey = . }}
+      {{ end }}
+    {{ end }}
+    <script defer src="https://unpkg.com/alpinejs@3.9.0/dist/cdn.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?=js?v=quarterly&key={{ $mapKey }}"
+    type="text/javascript"></script>
+  {{ else }}
+    <script type="text/javascript" src="{{ . }}" ></script>
   {{ end }}
-{{ end }}
-<script defer src="https://unpkg.com/alpinejs@3.9.0/dist/cdn.min.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?=js?v=quarterly&key={{ $mapKey }}"
-type="text/javascript"></script>
 {{ end }}
