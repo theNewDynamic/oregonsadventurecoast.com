@@ -19,9 +19,9 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-desktoptitle: The Biggest UTV Event Happens in Coos Bay/North Bend!
-mobiletitle: Biggest UTV Event Happens in Coos Bay/North Bend!
-hovertitle: Biggest UTV Event Happens in Coos Bay/North Bend!
+desktoptitle: UTV Takeover Coos Bay
+mobiletitle: UTV Takeover Coos Bay
+hovertitle: UTV Takeover Coos Bay
 hoverdescription: Dune riding on the southern-most part of the OR Dunes Recreation
   Area!
 photo: "/img/event-dunes-pg-header.jpg"

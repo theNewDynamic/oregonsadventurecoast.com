@@ -4,7 +4,7 @@ photo: "/img/ch-seafood-fest2-2048x530.jpg"
 largeboxphoto: "/img/charleston-seafood-fest-large.jpg"
 mediumboxphoto: "/img/charleston-seafood-fest-medium.jpg"
 smallboxphoto: "/img/charleston-seafood-fest-small.jpg"
-desktoptitle: Charleston Seafood, Beer & Wine Festival
+desktoptitle: Charleston Seafood Festival
 mobiletitle: Seafood Fest
 hovertitle: " Seafood Fest"
 hoverdescription: 'Charleston''s Seafood Beer & Wine Festival celebrates Seafood at
