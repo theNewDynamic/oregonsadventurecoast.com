@@ -195,81 +195,38 @@ On Saturday, the road will be closed for our event. Please show your ticket to t
 
 #### WHERE DO WE STAY?
 
-Book your lodging in Coos Bay, North Bend or Charleston! [Visit our lodging page](/lodging/) for options.
+**Book your lodging in Coos Bay, North Bend or Charleston!** [Visit our lodging page](/lodging/) for options.
 
-Book your lodging in Bandon! Visit [https://bandon.com/lodging/](https://bandon.com/lodging/ "https://bandon.com/lodging/")
+**Book your lodging in Bandon!** Visit [https://bandon.com/lodging/](https://bandon.com/lodging/ "https://bandon.com/lodging/")
 
-{{< spacer 20 >}}
+**Camping Location:** [https://goo.gl/maps/uCbSmVrxswpg9HT88](https://goo.gl/maps/uCbSmVrxswpg9HT88 "https://goo.gl/maps/uCbSmVrxswpg9HT88")  
+We have made arrangements for limited FREE camping at Bandon City Park/Community Center. **You will need to be a paid registrant for the event and then register to camp as well.** There is a limited # of tents and RV spots and will be first-come, first-served on our registration page. RVś, Sprinter vans, under 25 feet allowed to park in Bandon Community Center Parking lot. **_Limited to 20 total vehicles._** This is dry camping and no hookups. There is a public restroom across the street at the Disc Golf Course that will be open. **_NO Showers. NO Fires are allowed._**
 
-CAMPING:
+**Tent Camping** - 30 tent spots will be allowed to set up in the grass area next to Community Center Parking lot. Limited to 4 people and 1 vehicle for each tent spot. There is a public restroom across the street at the Disc Golf Course that will be open. NO Showers. NO Fires are allowed. You will need to display your registration paperwork in vehicle to show you have a reserved spot.
 
-Camping Location: [https://goo.gl/maps/uCbSmVrxswpg9HT88](https://goo.gl/maps/uCbSmVrxswpg9HT88 "https://goo.gl/maps/uCbSmVrxswpg9HT88")
+{{< spacer 50 >}}
 
-We have made arrangements for limited FREE camping at Bandon City Park/Community
+### ABOUT Whiskey Run Trails:
 
-Center. You will need to be a paid registrant for the event and then register to camp as well.
+Purpose-built mountain biking trail system in the Coos County Forest. Trails for all levels of riders from family-friendly/beginner areas advanced jump lines and Double Black diamond trails. The trail system is located about 23 min (17.9 mi) via US-101 S  from Coos Bay ([map](https://www.google.com/maps/dir/Coos+Bay,+Oregon/Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411/@43.301189,-124.3471598,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54c3842b1c6c04e1:0x67d7f4c7ddc01229!2m2!1d-124.2178903!2d43.3665007!1m5!1m1!1s0x54c4818dc596de61:0xe64719ece591060f!2m2!1d-124.3422167!2d43.2189727!3e0)); about 13 min (11.8 mi) via US-101 N and Seven Devils Rd. from Bandon ([map](https://www.google.com/maps/dir/Bandon,+Oregon+97411/Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411/@43.170805,-124.3924026,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54c49b0942eede61:0xea92e84253429f02!2m2!1d-124.408448!2d43.1189978!1m5!1m1!1s0x54c4818dc596de61:0xe64719ece591060f!2m2!1d-124.3422167!2d43.2189727!3e0)); and about 14 min (11.5 mi) via Seven Devils Rd from Charleston ([map](https://www.google.com/maps/dir/Charleston,+Oregon+97420/Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411/@43.2769513,-124.4272229,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54c3823ae8c840bd:0xbb2903fdf3101a26!2m2!1d-124.3301166!2d43.340111!1m5!1m1!1s0x54c4818dc596de61:0xe64719ece591060f!2m2!1d-124.3422167!2d43.2189727!3e0)) to Whiskey Run. 
 
-There is a limited # of tents and RV spots and will be first come, first served on our registration
+Here is link to Trail forks maps for more information & videos of trail: [https://www.trailforks.com/region/whiskey-run-trails-21273/](https://www.trailforks.com/region/whiskey-run-trails-21273/ "https://www.trailforks.com/region/whiskey-run-trails-21273/")
 
-page.
+#### SPONSORS:
 
-RVś, Sprinter vans, under 25 feet allowed to park in Bandon Community Center Parking lot.
-
-Limited to 20 total vehicles. This is dry camping and no hookups. There is a public restroom
-
-across the street at the Disc Golf Course that will be open. NO Showers. NO Fires are allowed.
-
-Tent Camping - 30 tent spots will be allowed to set up in the grass area next to Community
-
-Center Parking lot. Limited to 4 people and 1 vehicle for each tent spot. There is a public
-
-restroom across the street at the Disc Golf Course that will be open. NO Showers. NO Fires
-
-are allowed.
-
-You will need to display your registration paperwork in vehicle to show you have a reserved
-
-spot.
-
-Here is link to Trail forks maps for more information & videos of trail:
-
-[https://www.trailforks.com/region/whiskey-run-trails-21273/](https://www.trailforks.com/region/whiskey-run-trails-21273/ "https://www.trailforks.com/region/whiskey-run-trails-21273/")
-
-ABOUT Whiskey Run Trails:
-
-Purpose built mountain biking trail system in the Coos County Forest. Trails for all levels
-
-of riders from family friendly/beginner areas advanced jump lines and Double Black
-
-diamond trails. The trail system is located about 12 min (8.4 mi) via US-101 N and
-
-Seven Devils Rd. from Bandon, OR & 23 min (17.9 mi) via US-101 S Coos Bay to
-
-Whiskey Run. Map to trails: [https://goo.gl/maps/5JLMCCiKdUiHz2EH9](https://goo.gl/maps/5JLMCCiKdUiHz2EH9 "https://goo.gl/maps/5JLMCCiKdUiHz2EH9")
-
-SPONSORS:
-
-Bandon Chamber of Commerce
-
-Oregon Coast Visitors Association (OCVA)
-
-Wild Rivers Coast Mountain Bicycling Association
-
-Travel Southern Oregon Coast
-
-Wild Rivers Coast Alliance
-
-Oregon Adventure Coast
-
+Bandon Chamber of Commerce||  
+Oregon Coast Visitors Association (OCVA)  
+Wild Rivers Coast Mountain Bicycling Association  
+Travel Southern Oregon Coast  
+Wild Rivers Coast Alliance  
+Oregon Adventure Coast: Coos Bay, North Bend, Charleston  
 South Coast Bicycles
 
-CONTACT:
+#### CONTACT:
 
-Daniella Crowder, Director
-
-Oregon Rides & Events
-
-Email: Director@OregonRides.com
+Daniella Crowder, Director  
+Oregon Rides & Events  
+Email: [Director@OregonRides.com](mailto:Director@OregonRides.com)
 
 ![This is an OBRA sanctioned event.](/img/obra-logo.jpg "This is an OBRA sanctioned event.")
 
