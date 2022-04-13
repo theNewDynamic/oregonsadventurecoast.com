@@ -37,7 +37,7 @@ aliases: []
 
 {{< spacer 50 >}}
 
-**The Whiskey Run Mountain Bike Festival** will showcase this awesome trail system by offering guided group rides led by the people and club who helped build them. Each ride will be led by members of the [Wild Rivers Coast Mountain Bicycling Association](http://wrcmba.com/) & local riders. 
+**The Whiskey Run Mountain Bike Festival** will showcase this awesome trail system by offering guided group rides led by the people and club who helped build them. Each ride will be led by members of the [Wild Rivers Coast Mountain Bicycling Association](http://wrcmba.com/) & local riders.
 
 Something for everyone at the trails with a family ride, beginner ride, intermediate, and advanced ride options. This is a great opportunity to come out and get to know the trails in a fun and supportive environment.
 
@@ -61,7 +61,7 @@ _Limited camping is available on a first-come, first-served basis and must be bo
 
 #### **Friday, June 3, 2022 - 5:00-7:00pm**
 
-**5:00-7:00 PM - Packet Pick Up**   
+**5:00-7:00 PM - Packet Pick Up**  
 South Coast Bicycles 805 2nd St. SE, Bandon, OR, 97411
 
 {{< spacer 30>}}
@@ -86,7 +86,11 @@ South Coast Bicycles 805 2nd St. SE, Bandon, OR, 97411
 **1:30-2:00 PM** - Awards Ceremony  
 **3:00 PM** - End of Day
 
-{{< spacer 100>}}
+{{< spacer 20>}}
+
+![](/img/mountain-biking-whiskey-run-turn-blog-695x322.jpg)
+
+{{< spacer 20>}}
 
 #### **SATURDAY RIDE OPTIONS:**
 
@@ -129,7 +133,7 @@ South Coast Bicycles 805 2nd St. SE, Bandon, OR, 97411
 
 #### **SUNDAY FLOW DURO CHALLENGE**
 
-On Sunday, June 5th we will have the **_“Flow Duro Challenge”_**. A fun, fast pace, timed competition down a flowy black diamond trail. Racers will be placed in divisions by age and class and have two timed runs on trail. 
+On Sunday, June 5th we will have the **_“Flow Duro Challenge”_**. A fun, fast pace, timed competition down a flowy black diamond trail. Racers will be placed in divisions by age and class and have two timed runs on trail.
 
 **The Flow Duro Challenge** takes place on Gnome Wrecker + Gnome Wrecker Extension,  winner will be best of 2 laps. This trail is fast, flows well, and will keep you on your toes. There is a mix of traditional loam tread, mixed flowing contour and steeper grades. Look for drops, roots, & steep fadeaways. This is a ¾ mile trail, with 378 ft. descent, and the average time is approx. 4:00 minutes.
 
@@ -147,19 +151,13 @@ On Sunday, June 5th we will have the **_“Flow Duro Challenge”_**. A fun, fas
 
 {{< spacer 30 >}}
 
-#### **WHEN IS PACKET PICK UP?** 
+#### **WHEN IS PACKET PICK UP?**
 
 We will have several options for packet pick-up and registration.
 
 * **Friday, June 3, 2022  - 5-7 PM - Packet pick up at South Coast Bicycles** 805 2nd St. SE, Bandon, OR 97411| Stop in to the local bike shop, have a beverage, pick up your packet, register for event, and pick up last minute items needed for weekend.
-
-
 * **Saturday, June 4, 2022 - 8:30 AM - Check in & Registration at Whiskey Run Trails Parking** **Area**  (under event tent).
-
-
 * **Saturday, June 4, 2022 - 1:00-1:45 PM - Packet pick up & Registration for the Flow Duro Challenge** at Whiskey Run Trails Parking area (under event tent).
-
-
 * **Sunday, June 5, 2022 - 7:30-8:30 AM - Check in & day of registration for Flow Duro Challenge** at Whiskey Run Trails Parking area (under event tent).
 
 {{< spacer 30 >}}
@@ -198,15 +196,9 @@ On Saturday, the road will be closed for our event. Please show your ticket to t
 #### WHERE DO WE STAY?
 
 * **Book your lodging in Coos Bay, North Bend or Charleston!** [Visit our lodging page](/lodging/) for options.
-
-
 * **Book your lodging in Bandon!** Visit [https://bandon.com/lodging/](https://bandon.com/lodging/ "https://bandon.com/lodging/")
-
-
 * **Camping Location:** [https://goo.gl/maps/uCbSmVrxswpg9HT88](https://goo.gl/maps/uCbSmVrxswpg9HT88 "https://goo.gl/maps/uCbSmVrxswpg9HT88")  
   We have made arrangements for limited FREE camping at Bandon City Park/Community Center. **You will need to be a paid registrant for the event and then register to camp as well.** There is a limited # of tents and RV spots and will be first-come, first-served on our registration page. RVś, Sprinter vans, under 25 feet allowed to park in Bandon Community Center Parking lot. **_Limited to 20 total vehicles._** This is dry camping and no hookups. There is a public restroom across the street at the Disc Golf Course that will be open. **_NO Showers. NO Fires are allowed._**
-
-
 * **Tent Camping** - 30 tent spots will be allowed to set up in the grass area next to Community Center Parking lot. Limited to 4 people and 1 vehicle for each tent spot. There is a public restroom across the street at the Disc Golf Course that will be open. NO Showers. NO Fires are allowed. You will need to display your registration paperwork in vehicle to show you have a reserved spot.
 
 {{< spacer 30 >}}
@@ -227,7 +219,7 @@ Our Sunday event is for riders who have some technical skills as the course is a
 
 ### ABOUT Whiskey Run Trails:
 
-Purpose-built mountain biking trail system in the Coos County Forest. Trails for all levels of riders from family-friendly/beginner areas advanced jump lines and Double Black diamond trails. The trail system is located about 23 min (17.9 mi) via US-101 S  from Coos Bay ([map](https://www.google.com/maps/dir/Coos+Bay,+Oregon/Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411/@43.301189,-124.3471598,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54c3842b1c6c04e1:0x67d7f4c7ddc01229!2m2!1d-124.2178903!2d43.3665007!1m5!1m1!1s0x54c4818dc596de61:0xe64719ece591060f!2m2!1d-124.3422167!2d43.2189727!3e0)); about 13 min (11.8 mi) via US-101 N and Seven Devils Rd. from Bandon ([map](https://www.google.com/maps/dir/Bandon,+Oregon+97411/Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411/@43.170805,-124.3924026,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54c49b0942eede61:0xea92e84253429f02!2m2!1d-124.408448!2d43.1189978!1m5!1m1!1s0x54c4818dc596de61:0xe64719ece591060f!2m2!1d-124.3422167!2d43.2189727!3e0)); and about 14 min (11.5 mi) via Seven Devils Rd from Charleston ([map](https://www.google.com/maps/dir/Charleston,+Oregon+97420/Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411/@43.2769513,-124.4272229,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54c3823ae8c840bd:0xbb2903fdf3101a26!2m2!1d-124.3301166!2d43.340111!1m5!1m1!1s0x54c4818dc596de61:0xe64719ece591060f!2m2!1d-124.3422167!2d43.2189727!3e0)) to Whiskey Run. 
+Purpose-built mountain biking trail system in the Coos County Forest. Trails for all levels of riders from family-friendly/beginner areas advanced jump lines and Double Black diamond trails. The trail system is located about 23 min (17.9 mi) via US-101 S  from Coos Bay ([map](https://www.google.com/maps/dir/Coos+Bay,+Oregon/Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411/@43.301189,-124.3471598,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54c3842b1c6c04e1:0x67d7f4c7ddc01229!2m2!1d-124.2178903!2d43.3665007!1m5!1m1!1s0x54c4818dc596de61:0xe64719ece591060f!2m2!1d-124.3422167!2d43.2189727!3e0)); about 13 min (11.8 mi) via US-101 N and Seven Devils Rd. from Bandon ([map](https://www.google.com/maps/dir/Bandon,+Oregon+97411/Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411/@43.170805,-124.3924026,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54c49b0942eede61:0xea92e84253429f02!2m2!1d-124.408448!2d43.1189978!1m5!1m1!1s0x54c4818dc596de61:0xe64719ece591060f!2m2!1d-124.3422167!2d43.2189727!3e0)); and about 14 min (11.5 mi) via Seven Devils Rd from Charleston ([map](https://www.google.com/maps/dir/Charleston,+Oregon+97420/Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411/@43.2769513,-124.4272229,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54c3823ae8c840bd:0xbb2903fdf3101a26!2m2!1d-124.3301166!2d43.340111!1m5!1m1!1s0x54c4818dc596de61:0xe64719ece591060f!2m2!1d-124.3422167!2d43.2189727!3e0)) to Whiskey Run.
 
 Here is link to Trail forks maps for more information & videos of trail: [https://www.trailforks.com/region/whiskey-run-trails-21273/](https://www.trailforks.com/region/whiskey-run-trails-21273/ "https://www.trailforks.com/region/whiskey-run-trails-21273/")
 
