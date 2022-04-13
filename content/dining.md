@@ -25,10 +25,6 @@ ctas:
   url: /img/coffeeshops-bakery.pdf
   image: /img/brochure-cover-bakery-guide.jpg
   action: Download (PDF)
-- title: Test
-  url: /img/CoffeeShops-Bakery.pdf
-  image: /img/tidepooling-careful-icon.png
-  action: Download (PDF)
 outputs:
 - html
 - json
