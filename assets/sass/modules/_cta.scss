@@ -1,6 +1,8 @@
 .cta-wrap {
   padding: 0 10px;
   margin-bottom: 20px;
+  max-width: 900px;
+  margin: 0 auto;
   @include smallPlusUp {
     display: flex;
     flex-wrap: wrap;
@@ -20,7 +22,7 @@
       font-size: 18px;
       font-weight: bold;
       color: #626262;
-      border-bottom: 1px solid #ededed;
+      border-bottom: 1px solid #d3d3d3;
       padding-bottom: 5px;
       margin-bottom: 5px;
       line-height: 1.25;
