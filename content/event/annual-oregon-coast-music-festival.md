@@ -29,17 +29,17 @@ date: '2019-02-10T21:57:25.000+00:00'
 
 {{< spacer 50 >}}
 
-You'll find a heady mix of classical and jazz art forms, taking place at venues around the Coos Bay area such as Shore Acres State Park Garden, the OIMB Boat House, stunning Mingus Park, and a host of seminars at the library. Enjoy two full weeks of outstanding music culminating with the Festival Orchestra performing three concerts in Marshfield High's Auditorium. The festival features music director James Paul at the helm and jazzer, Darrell Grant, as one of the special guest.
+You'll find a heady mix of classical and jazz art forms, taking place at venues around the Coos Bay area such as Shore Acres State Park Garden, the OIMB Boat House, stunning Mingus Park, and a host of seminars at the library. Enjoy two full weeks of outstanding music culminating with the Festival Orchestra performing three concerts in Marshfield High's Auditorium. The festival features music director James Paul at the helm and jazzer, Darrell Grant, as one of the special guests.
 
 {{< spacer 50 >}}
 
-![](/img/concert-2_2019_07-27-2019_038_-1.jpg)
+![Music Director James Paul leads the Festival Orchestra](/img/concert-2_2019_07-27-2019_038_-1.jpg "Music Director James Paul leads the Festival Orchestra")
 
 #### 44th Oregon Coast Music Festival July 2022
 
 **_Tickets Available Soon_**
 
-{{< spacer 50 >}}  
+{{< spacer 25>}}  
 **Saturday, July 16th @ noon**  
 Mingus Park Stage, Coos Bay  
 **Bay Area Concert Band Traditional Festival Kickoff** - **_Free_**
