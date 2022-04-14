@@ -10,22 +10,7 @@ seo:
     Coast. '
   title: Cycling | Oregon's Adventure Coast
 accordion_sections:
-- accordions:
-  - title: Other Mountain Biking Trails
-    content: "[**BLUE RIDGE LOOP**](https://www.mtbproject.com/trail/7028954/blue-ridge-loop)
-      - is a multi-use trail system that gets some motorcycle traffic. It is a scenic
-      area to ride, though despite it's elevation, views of lower areas are limited
-      to non-existent. Given the different roads throughout the area, there are multiple
-      ride options.\n\n[**WINCHESTER NORTH**](https://www.mtbproject.com/trail/7032115/winchester-north)
-      - are used primarily by mountain bikers and motorcycles. The trails challenge
-      even the best of riders. There are lots of ruts, roots, steep terrain, and other
-      obstacles on the 17 miles of winding single track.\n\n[**EMPIRE LAKES**](http://coosbay.org/uploads/PDF/Operations/Parks/John_Topits_Park/JOHN_TOPITS_PARK_TRAIL_MAP.pdf) -
-      provides a more leisurely trail for biking but it is no less scenic. The trail
-      system, 4 miles paved and 1.5 miles dirt track, is in John Topits Park, centered
-      on the natural beauty of two lakes and stabilized dunes within the park.\n\n**EUPHORIA
-      RIDGE TRAILS** - this 10 mile track begins on dirt road and quickly moves to
-      single-track trails, through meadows, forest land, and tribal lands. [Euphoria
-      Ridge Middle Trail]() and [Euphoria Ridge Upper Trail]() "
+- {}
 
 ---
 ## Make Some Tracks!
@@ -46,11 +31,11 @@ Whether you take to the road, fat bike on the beach, or careen around single-tra
 
 ## Whiskey Run Mountain Biking Trail
 
-[Check out the Whiskey Run Mountain Biking Trails here.](https://www.mtbproject.com/directory/8019222/whiskey-run-trails) The Whiskey Run Mountain Bike Trails is a brand new, one-of-a-kind trail system on the Southern Oregon Coast. Ribbons of clay dirt flow and wind through the Coos County Forest in these cross-country style trails. Moderate climbing and fun descending make this system worth the drive to the gorgeous Southern Oregon Coast. **The 30-mile trail system** **is located about 10 minutes south of Coos Bay off Highway 101, in the mists of the coastal forest.**
+[Check out the Whiskey Run Mountain Biking Trails here.](https://www.mtbproject.com/directory/8019222/whiskey-run-trails) The Whiskey Run Mountain Bike Trails is a one-of-a-kind trail system on the Southern Oregon Coast, located between Coos Bay and Bandon. Ribbons of clay dirt flow and wind through the Coos County Forest in these cross-country style trails. Moderate climbing and fun descending make this system worth the drive to the gorgeous Southern Oregon Coast. **The 30-mile trail system** **is located about 15 minutes south of Coos Bay off Highway 101, in the mists of the coastal forest.**
 
-Located in an active logging forest, Whiskey Run gives visitors a view of the Coos County Forest most do not get to see - harvesting in this coastal forest while enjoying sweeping views, tranquil streams, and fern-covered forest floors. The trails are a blend between flow and cross country style, and are great for all levels of riders with open sightlines, easy climbs, and chances to catch some air if you want. You'll dip and wind through the forest in this unique South Coast environment.
+Located in an active logging forest, Whiskey Run gives visitors a view of the Coos County Forest most do not get to see - seeing harvesting in this coastal forest while they are enjoying sweeping views, tranquil streams, and fern-covered forest floors. The trails are a blend of flow and cross country style, and are great for all levels of riders with open sightlines, easy climbs, and chances to catch some air if you want. You'll dip and wind through the forest in this unique South Coast environment.
 
-These professionally built trails are made to withstand the coast's weather, so when the weather is unfavorable in the Cascades and you want to ride some loam and clay, come on down to the coast. However, please don't ride if the trails are muddy. Check trail reports or call the local shops or guide services. 
+These professionally built trails are made to withstand the coast's weather, so when the weather is unfavorable in the Cascades and you want to ride some loam and clay, come on down to the coast. However, please don't ride if the trails are muddy. Check trail reports or call the local shops or guide services.
 
 {{< spacer 25 >}}
 
