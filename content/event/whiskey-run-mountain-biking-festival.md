@@ -25,13 +25,13 @@ hovertitle: Whiskey Run Festival
 hoverdescription: Grab your mountain bike and join us for the first annual Whiskey
   Run Mountain Bike Festival!
 photo: "/img/whiskeyrun13-2048x530.jpg"
-largeboxphoto: "/img/whiskeyrun8-1024x395.jpg"
-mediumboxphoto: "/img/whiskeyrun14-667x355.jpg"
-smallboxphoto: "/img/cycling-at-whiskey-run-340x214.jpg"
+largeboxphoto: "/img/whiskey-run-event-large.jpg"
+mediumboxphoto: "/img/whiskey-run-event-medium.jpg"
+smallboxphoto: "/img/whiskey-run-event-small.jpg"
 aliases: []
 
 ---
-![](/img/whiskeyrun8-1024x395.jpg)
+![](/img/whiskey-run-event-695x322.jpg)
 
 ### Two days of fun biking events on the Southern Oregon Coast!
 
