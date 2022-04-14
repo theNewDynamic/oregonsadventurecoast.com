@@ -20,18 +20,36 @@ address:
 phone_local: "(541) 269-0215"
 phone_toll_free: ''
 website: http://www.oregonsadventurecoast.com
-draft: true
 
 ---
 ![](/img/4th-of-july-fireworks-coos-bay-674x447.jpg)
 
-## 4th of July Fireworks Over The Bay
+## 3rd & 4th of July Fireworks Over The Bay
 
-T
+{{< spacer 50 >}}
 
-Due to COVID-19, the events that are usually planned for July 4th in Mingus Park have been cancelled this year.
+#### The Largest Fireworks Display on the Coast happens over Coos Bay on July 3, 2021
 
-Fireworks Over the Bay will begin at 8:00pm from the Coos Bay Boardwalk. Social Distancing measures will be in place.
+Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [The Mill Casino ](https://www.themillcasino.com/)will light up the skies over the Bay with this year's waterfront fireworks display. 
 
-Coos Bay Boardwalk  
-Hwy 101 at Central Ave, Coos Bay, OR
+**The fireworks display will be located in front of The Mill Casino, but can be seen from just about anywhere along the Bay!**
+
+**The 20-minute fireworks show commences at 10pm** and will be synchronized to music on K-DOCK radio.  Tune in to [K-DOCK radio 92.9 fm](https://kdockfm.com/) for the live remote and firework display broadcast!
+
+K-DOCK 92.9 FM will present a pre-show at 9:00 pm featuring upbeat music to get you in the mood for the Fireworks Extravaganza around 10:00 pm.
+
+{{< spacer 50 >}}
+
+#### Fireworks Over Coos Bay on July 4, 2021
+
+{{< spacer 25 >}}
+
+**Stick around for a 2nd night of Fireworks with the City of Coos Bay's Fireworks display over Coos Bay by the Coos Bay Boardwalk.** 
+
+Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen from most places along the Bay from The Coos History Museum to Eastside!
+
+**More information coming soon on other July 4th Activities to be held in Mingus Park.**
+
+{{< spacer 25 >}}
+
+![](/img/06-08-18-fireworks-at-the-mill.jpg)
