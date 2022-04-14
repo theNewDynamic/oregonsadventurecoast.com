@@ -12,7 +12,7 @@ phone_toll_free: ''
 website: http://www.oregoncoastmusic.org/
 desktoptitle: Oregon Coast Music Festival
 mobiletitle: OR Coast Music Fest
-hovertitle: Oregon Coast Music Festival Outdoor Events
+hovertitle: Oregon Coast Music Festival
 hoverdescription: 'A heady mix of classical and jazz art forms, taking place at venues
   around the Coos Bay area. '
 photo: "/img/ocma-image-2048x530.jpg"
