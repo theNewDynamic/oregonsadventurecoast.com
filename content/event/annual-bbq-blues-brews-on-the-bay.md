@@ -26,11 +26,11 @@ seo:
   image: "/img/bbq-blues-event-medium.jpg"
 
 ---
-![](/img/2022-bbq-blues-logo-horizontal-long-no-date.jpg)
+![](/img/bbq-blues-brews-logo-695px.jpg)
 
 **Get ready for the return of lip-smackin' BBQ, incredible brews, and smokin' hot tunes. Memorial Weekend 2022, May 28-29.**
 
-**The Mill Casino * Hotel's Annual BBQ, Blues & Brews on the Bay** has grown into one of The Mill's most attended events. Finger-lickin' good barbecue, hand-crafted beers, and smokin’ hot tunes at the BBQ, Blues & Brews on the Bay, Memorial Day Weekend. 
+**The Mill Casino * Hotel's Annual BBQ, Blues & Brews on the Bay** has grown into one of The Mill's most attended events. Finger-lickin' good barbecue, hand-crafted beers, and smokin’ hot tunes at the BBQ, Blues & Brews on the Bay, Memorial Day Weekend.
 
 Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, May 28-29, 2022 at [**The Mill Casino • Hotel & RV Park**](https://www.themillcasino.com/).
 
@@ -58,11 +58,11 @@ For the 9th Year, The Mill brings you **finger-lickin' good barbeque** for a Kan
 
 #### BREWS!
 
-**New and improved** beer samplings in 2022! Enjoy samples for over 20 breweries as you wander through the event. You can also vote for the People’s Choice Best Brew! 
+**New and improved** beer samplings in 2022! Enjoy samples for over 20 breweries as you wander through the event. You can also vote for the People’s Choice Best Brew!
 
-When guests enter the event, they will be able to buy a commemorative logo’d glass for $15. The glass comes with 10 tokens for samples of the 30+ flavors of beers at the 4 beer stations throughout the event. Each token is valid for one 2 oz sample. 
+When guests enter the event, they will be able to buy a commemorative logo’d glass for $15. The glass comes with 10 tokens for samples of the 30+ flavors of beers at the 4 beer stations throughout the event. Each token is valid for one 2 oz sample.
 
-Guests can purchase more tokens for $1 each. Full-size domestic beers and a selection of wine will also be available for purchase with cash or card. 
+Guests can purchase more tokens for $1 each. Full-size domestic beers and a selection of wine will also be available for purchase with cash or card.
 
 {{< spacer 50>}}
 
@@ -72,25 +72,27 @@ Guests can purchase more tokens for $1 each. Full-size domestic beers and a sele
 
 {{< spacer 25>}}
 
-#### Saturday, May 28 
+#### Saturday, May 28
 
 **12:00 PM – 6:00 PM** – Enjoy Vendors, Live Entertainment, Craft Brews, and sample BBQ & Mac ‘N Cheese from competitors
 
-**12:00 PM – 3:00 PM** – Live Entertainment: Inner Limits 
+**12:00 PM – 3:00 PM** – Live Entertainment: Inner Limits
 
 **3:00 PM – 6:00 PM** – Live Entertainment: Lloyd Tolbert Band
 
 {{< spacer 50>}}
 
-#### Sunday , May 29
+#### Sunday
 
-**12:00 PM – 4:00 PM** – Enjoy Vendors, Live Entertainment, Craft Brews, and sample BBQ & Mac ‘N Cheese from competitors 
+, May 29
 
-**12:00 PM – 2:00 PM** – Live Entertainment: Lloyd Tolbert Band 
+**12:00 PM – 4:00 PM** – Enjoy Vendors, Live Entertainment, Craft Brews, and sample BBQ & Mac ‘N Cheese from competitors
+
+**12:00 PM – 2:00 PM** – Live Entertainment: Lloyd Tolbert Band
 
 **2:00 PM – 4:00 PM** – Live Entertainment: Inner Limits
 
- **2:00 PM** – Jim Monihan Mac ‘N Cheese Challenge 
+**2:00 PM** – Jim Monihan Mac ‘N Cheese Challenge
 
 **4:00 PM** – Awards Ceremony – $13,500 in prize money will be awarded to KCBS BBQ competitors, Mac ‘N Cheese winners will be announced!
 
