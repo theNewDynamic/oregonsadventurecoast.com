@@ -66,7 +66,7 @@ Guests can purchase more tokens for $1 each. Full-size domestic beers and a sele
 
 {{< spacer 50>}}
 
-![](/img/1705_bbq_stevenmichael_img_4873.jpg)
+![](/img/bbq-blues-brews-competition-vendor.jpg)
 
 ### Schedule of Events
 
