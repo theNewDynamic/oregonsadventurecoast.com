@@ -99,3 +99,45 @@ Guests can purchase more tokens for $1 each. Full-size domestic beers and a sele
 {{< spacer 50>}}
 
 \***ALL SAMPLES AVAILABLE AT THE FESTIVAL ARE WHILE SUPPLIES LAST. GET YOUR BBQ BUCKS AT THE INFORMATION TABLES.**
+
+{{< spacer 50>}}
+
+#### **COMPETING TEAMS FOR 2022** 
+
+_(as of December 31, 2021)_
+
+1\.  Booties BBQ
+
+2\.  Bearded Boar BBQ
+
+3\.  Fat Dads Barbeque
+
+4\.  The California Grill Billies
+
+5\.  Son of Smoke
+
+6\.  Dances with Smoke Barbeque
+
+7\.  Prison Break BBQ
+
+8\.  Jerimiah Johnson Mountain Man BBQ
+
+9\.  BBQ BROS
+
+10\. Smokin' Timbers Northwest
+
+11\. Big Bite BBQ
+
+12\. RJ's Smokehouse
+
+13\. 503 Backyard BBQ
+
+14\. Newts BBQ
+
+15\. Small Axe BBQ
+
+16\. Old Dirty Basters
+
+17\. J&C BBQ
+
+18\. Greenhorn Smokehouse
