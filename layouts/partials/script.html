@@ -1,10 +1,7 @@
-{{ $resource := resources.Get "js/accordions.js" | resources.Minify }}
-<script src="{{ $resource.Permalink }}"></script>
 {{ if eq "entries" . }}
 {{ $style := resources.Get "js/initMap.js" | resources.Minify }}
 <script src="{{ $style.Permalink }}"></script>
 {{ end }}
-
 
 {{ with partialCached "func/GetAssetSRC" . . }}
   <script 
