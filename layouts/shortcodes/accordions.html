@@ -1,7 +1,7 @@
 {{ with $.Page.Params.accordion_sections }}
 
 {{ range . }}
-    <div class="accordion-section">
+    <div x-data="{ accordionActive: false}" class="accordion-section">
         {{ with .title }}
             <h2 class="section-heading">{{ . }}</h2>
         {{ end }}
@@ -10,9 +10,9 @@
             {{ range $accordion := . }}
                 {{ with .title }}
                     <div class="accordion">
-                        <div class="heading collapsed"><span>{{ $accordion.title }}</span></div>
+                        <div class="heading" :class="accordionActive ? 'expanded' : ''" @click="accordionActive = !accordionActive "><span>{{ $accordion.title }}</span></div>
                         {{ with $accordion.content }}
-                            <div class="accordion-content hidden">
+                            <div class="accordion-content" x-show="accordionActive">
                                 {{ . | markdownify }}
                             </div>
                         {{ end }}
