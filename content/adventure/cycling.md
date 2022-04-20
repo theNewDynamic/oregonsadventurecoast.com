@@ -10,7 +10,17 @@ seo:
     Coast. '
   title: Cycling | Oregon's Adventure Coast
 accordion_sections:
-- {}
+- title: Other Mountain Biking Trails
+  accordions:
+  - title: Other Mountain Biking Trails
+    content: |-
+      [BLUE RIDGE LOOP](http://web.archive.org/web/20211102110306/https://www.mtbproject.com/trail/7028954/blue-ridge-loop) - is a multi-use trail system that gets some motorcycle traffic. It is a scenic area to ride, though despite it’s elevation, views of lower areas are limited to non-existent. Given the different roads throughout the area, there are multiple ride options.
+
+      [WINCHESTER NORTH](http://web.archive.org/web/20211102110306/https://www.mtbproject.com/trail/7032115/winchester-north) - are used primarily by mountain bikers and motorcycles. The trails challenge even the best of riders. There are lots of ruts, roots, steep terrain, and other obstacles on the 17 miles of winding single track.
+
+      [EMPIRE LAKES](http://web.archive.org/web/20211102110306/http://coosbay.org/uploads/PDF/Operations/Parks/John_Topits_Park/JOHN_TOPITS_PARK_TRAIL_MAP.pdf) - provides a more leisurely trail for biking but it is no less scenic. The trail system, 4 miles paved and 1.5 miles dirt track, is in John Topits Park, centered on the natural beauty of two lakes and stabilized dunes within the park.
+
+      EUPHORIA RIDGE TRAILS - this 10 mile track begins on dirt road and quickly moves to single-track trails, through meadows, forest land, and tribal lands. [Euphoria Ridge Middle Trail](http://web.archive.org/web/20211102110306/https://www.oregonsadventurecoast.com/cycling) and [Euphoria Ridge Upper Trail](http://web.archive.org/web/20211102110306/https://www.oregonsadventurecoast.com/cycling)
 
 ---
 ## Make Some Tracks!
