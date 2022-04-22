@@ -28,7 +28,6 @@ warning_copy: ''
 ---
 **_“Nature is painting for us, day after day, pictures of infinite beauty.” - John Ruskin_**
 
-  
 Earth Day is this week (April 22nd), so we thought this would be a good time to reflect on the abundance of beauty and natural resources that can be found right here on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. In honor of Earth Day, we’ve put together a list of some of our favorite ways to celebrate the earth and its many treasures on Oregon’s Adventure Coast.
 
 ![](/img/oregon-s-adventure-coast.jpg)
@@ -60,7 +59,7 @@ We all want to be good stewards of the ocean and waterways, the forests, and the
 
 ![](/img/oregon-s-adventure-coast-coos-bay-north-bend-charleston-3.jpg)
 
-![](/img/Kayak Tour Coos Bayblog-695x322’.jpg)
+![](/img/kayaking-blog-post.jpg)
 
 Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is full of treasured natural destinations to enjoy, and it is up to us to care for the land and preserve it for future generations.
 
