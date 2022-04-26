@@ -1,6 +1,6 @@
 ---
 title: Why Track & Field Fans Need to Visit Oregon’s Adventure Coast
-date: 2021-05-27T04:00:00.000+00:00
+date: 2022-04-26T04:00:00+00:00
 description: 'Visitors from all over the world have traveled to Oregon’s Adventure
   Coast: Coos Bay, North Bend, Charleston to explore the hometown of internationally
   acclaimed track star Steve Prefontaine. If you are traveling to Oregon to attend
@@ -32,17 +32,17 @@ warning: true
 warning_copy: ''
 
 ---
-## _Traveling to Oregon to Watch the 2021 U.S. Olympic Team Trials - Track & Field Event? Take a Side Trip to Steve Prefontaine’s Hometown!_
+## **_Traveling to Oregon to Watch the 2022 World Athletics Championships? Take a Side Trip to Steve Prefontaine’s Hometown!_**
 
-After a year of lock-downs, event cancellations, social distancing, travel bans and masking - we are finally recognizing signs that life may soon return to normal! The [2021 U.S. Olympic Team Trials - Track & Field](https://www.usatf.org/events/2021/2020-u-s-olympic-team-trials-track-field) happening in Eugene, Oregon June 18 - 27, 2021 is most certainly a sign of big and exciting things ahead! It’s hard to compete with the energy and excitement of an Olympic Team Trials event at Hayward Field, but fans may want to venture out and explore other wonderful destinations Oregon offers like **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**.
+The [2022 World Athletics Championships](https://worldathletics.org/competitions/world-athletics-championships/oregon22/event-info) is coming to Oregon July 15–24, 2022! Nearly 2,000 of the world’s greatest athletes representing more than 200 nations will travel to Eugene, Oregon this summer to compete in this unprecedented event happening at Hayward Field at the University of Oregon. This will mark the first time the U.S. will host this elite, global sporting event.
 
-There are many reasons why runners and sports fans love to travel here. There is an abundance of natural running and hiking trails, temperate weather and coastal beauty that can’t be found anywhere else in the country. However, there is one primary reason Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is a popular destination with running fans. Visitors from all over the world have traveled to Oregon’s Adventure Coast to explore the hometown of internationally acclaimed track star[ Steve Prefontaine,](https://www.oregonsadventurecoast.com/steve-prefontaine-story/) who helped to inspire the American running craze that began in the mid-1970s.
+Visitors and event spectators will want to venture out and explore the many other wonderful destinations in Oregon like Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. There are many reasons why runners and sports fans love to travel here. There is an abundance of natural running and hiking trails, temperate weather and coastal beauty that can’t be found anywhere else in the country. However, there is one primary reason Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is a popular destination with running fans. Visitors from all over the world have traveled to Oregon’s Adventure Coast to explore the hometown of internationally acclaimed track star[ Steve Prefontaine,](https://www.oregonsadventurecoast.com/steve-prefontaine-story/) who helped to inspire the American running craze that began in the mid-1970s.
 
 {{< floatimage src="img/prefontaine-tall-image.jpg" float="right" alt="Prefontaine thousand miler" size="100" >}}
 
 Steve Prefontaine, or “Pre”, as he was called, was born and raised in Coos Bay, Oregon, and graduated from [Marshfield High School](http://marshfield.cbd9.net/). Upon entering the [University of Oregon](http://www.goducks.com/ViewArticle.dbml?ATCLID=30594) in 1969, he was one of the most highly recruited high school track athletes ever, and went on to compete in international meets against the USSR, Germany, Great Britain and a combined European team. His life was tragically cut short in a car accident at the age of 24. At the time of his death, Pre held every American distance running record from 2-miles through 10,000 meters.
 
-With the exception of 2020, runners from all over the world have traveled here on an annual basis to compete in the [Prefontaine Memorial Run](http://prefontainerun.com/run-info.php), a challenging 10K road race across one of his former training courses, with its finish line at the high school track where he first competed. This event is sanctioned by the [Road Runners Club of America](http://www.rrca.org/). The 2021 Annual Prefontaine Memorial Race is currently scheduled for September 18th, 2021.
+Runners from all over the world travel here each year to compete in the[ Prefontaine Memorial Run](http://prefontainerun.com/run-info.php), a challenging 10K road race across one of his former training courses, with its finish line at the high school track where he first competed. This event is sanctioned by the[ Road Runners Club of America](http://www.rrca.org/). The [41st Annual Prefontaine Memorial Run is currently slated to take place September 17th, 2022](https://prefontainerun.com/run-information.html).
 
 “At no place is the celebration of Steve Prefontaine and his story more personal than in Coos Bay, Oregon, where he was born in 1951 and discovered his gift for running fast and far as a student at Marshfield High School,” event organizers posted on the event website. “Here, he developed his hunger to be the best in the field, and more, to do it with style—to create beauty when he ran, to show people something they had never seen before.”
 
@@ -67,9 +67,3 @@ Here are some other suggestions to add to your travel itinerary.
 [Click here for directions](https://www.oregonsadventurecoast.com/travelers-info/) and other important travel tips. Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor activities, prime shopping, fine dining, special events, or an evening of entertainment, Oregon’s Adventure Coast has it all, and more! Learn more about vacation ideas on our site, or reach out to us for help planning your next trip or family getaway.
 
 [Click here](https://www.oregonsadventurecoast.com/contact/) to contact Oregon’s Adventure Coast and start planning your trip today!
-
-\---------
-
-Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.
-
-If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage you to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19. [Click here](https://www.oregonsadventurecoast.com/covid-19/) for more information.
