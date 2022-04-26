@@ -1,11 +1,10 @@
 ---
-title: Why Track & Field Fans Need to Visit Oregon’s Adventure Coast
+title: Fans of the World Athletics Championships Need to Visit Oregon’s Adventure
+  Coast!
 date: 2022-04-26T04:00:00+00:00
 description: 'Visitors from all over the world have traveled to Oregon’s Adventure
-  Coast: Coos Bay, North Bend, Charleston to explore the hometown of internationally
-  acclaimed track star Steve Prefontaine. If you are traveling to Oregon to attend
-  the 2021 U.S. Olympic Team Trials - Track & Field in Eugene this summer, plan to
-  come on down for a day or two! '
+  Coast to explore the hometown of internationally acclaimed track star Steve Prefontaine,
+  who helped to inspire the American running craze that began in the mid-1970s. '
 image: "/img/steve-prefontaine-mural-coos-bay-1.jpg"
 tags:
 - Steve Prefontaine
