@@ -31,7 +31,7 @@ categories:
 - Arts & Culture
 
 ---
-**_NOTE: As of April 1, 2022, THE CHARLESTON MARINE LIFE CENTER has reopened with limited hours - Thursday-Saturday 11am-5pm. Please contact the_** [**_Marine Life Center_**](https://cmlc.uoregon.edu/) **_to ensure there have been no other changes._** 
+**_NOTE: As of April 26, 2022, THE CHARLESTON MARINE LIFE CENTER has reopened at their normal hours - Wednesday-Saturday 11am-5pm. Please contact the_** [**_Marine Life Center_**](https://cmlc.uoregon.edu/) **_to ensure there have been no other changes._**
 
 {{< spacer 50 >}}
 
