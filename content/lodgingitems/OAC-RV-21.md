@@ -12,7 +12,7 @@ address:
   zip: '97459'
 phone_toll_free: 877-444-6777
 phone_local: 
-units: '12'
+units: 12
 cost: 1 - $
 property_description: Horse campers come here to explore the Wild Mare Horse Trail
   and take in captivating views of Oregon's Pacific Coast, just a half mile from the
@@ -23,5 +23,10 @@ amenityList:
 coordinates:
   lat: '43.4419247'
   lng: "-124.2478294"
+seo:
+  title: Wild Mare Horse Camp - Coos Bay, Oregon
+  imgalt: Photo of Coos Bay, Oregon Wile Mare Horse Camp
+  description: Wild Mare Horse Camp for Friends and Family. Located near Coos Bay,
+    Oregon.
 
 ---
