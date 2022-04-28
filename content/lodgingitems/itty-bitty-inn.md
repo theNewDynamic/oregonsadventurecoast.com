@@ -28,5 +28,9 @@ amenityList:
 coordinates:
   lat: '43.412963'
   lng: "-124.224281"
+seo:
+  title: Itty Bitty Inn in Coos Bay, Oregon
+  description: Cute hotel with all of your needs. Located in Coos Bay, Oregon
+  imgalt: Photo of Itty Bitty Inn entrance.
 
 ---

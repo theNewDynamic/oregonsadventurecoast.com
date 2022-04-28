@@ -12,7 +12,7 @@ address:
   zip: '97420'
 phone_toll_free: 
 phone_local: 
-units: '1'
+units: 1
 cost: 3 - $$$
 property_description: Escape to the breathtakingly beautiful S Oregon Coast at this
   oceanfront home with furnished patio, yard, private beach access, and jaw-dropping
@@ -26,5 +26,10 @@ amenityList:
 coordinates:
   lat: '43.338219'
   lng: "-124.368342"
+seo:
+  title: Vacation Home at Lighthouse Beach
+  imgalt: Photo of vacation home with view of beach. Coos Bay, Oregon
+  description: Lighthouse beach vacation home for rent. Explore the area of Coos Bay,
+    Oregon.
 
 ---
