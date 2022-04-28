@@ -28,5 +28,9 @@ amenityList:
 coordinates:
   lat: '43.382267'
   lng: "-124.2492887"
+seo:
+  title: Alder Acres RV Park in Coos Bay, OR
+  imgalt: Photo of Alder Acres RV Park in Coos Bay, OR
+  description: Stay at Alder Acres RV Park. Accepting RVs and Trailers.
 
 ---

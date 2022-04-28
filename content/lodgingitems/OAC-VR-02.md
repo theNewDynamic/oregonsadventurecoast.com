@@ -25,5 +25,9 @@ amenityList:
 coordinates:
   lat: '43.388120'
   lng: "-124.279169"
+seo:
+  title: Vacation Rental - Annie's Cottage
+  description: Stay in this 1908 Cottage in Coos Bay, Oregon.
+  imgalt: Photo of cottage rental in Coos Bay, Oregon
 
 ---
