@@ -12,7 +12,7 @@ address:
   zip: '97420'
 phone_toll_free: 
 phone_local: 541-888-5353
-units: '74'
+units: 74
 cost: 1 - $
 property_description: 'Perched on the hill overlooking Bastendorff Beach is the 89
   acre County Park open year-round for RV or tent camping. Amenities: RV’s up to 45
@@ -26,5 +26,10 @@ amenityList:
 coordinates:
   lat: '43.341395'
   lng: "-124.349922"
+seo:
+  description: 'Camp at Bastendorff Beach County Park. Spaces available for RV or
+    tent camping. '
+  title: Camp at Bastendorff Beach County Park
+  imgalt: Tents camped at Bastendorff Beach County Park.
 
 ---

@@ -24,5 +24,10 @@ amenityList:
 coordinates:
   lat: '43.34085953352117'
   lng: "-124.33011659999998"
+seo:
+  description: 'Have a bay view in this enormous rental. Close to activities on Oregon’s
+    South coast. '
+  title: Bay Breeze Vacation Home near Coos Bay, Oregon
+  imgalt: Photo of Bay Breeze Vacation Home near Coos Bay, Oregon
 
 ---
