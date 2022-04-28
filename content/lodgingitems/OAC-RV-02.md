@@ -26,5 +26,10 @@ amenityList:
 coordinates:
   lat: '43.380957'
   lng: "-124.244104"
+seo:
+  title: Arbe's RV Park in Coos Bay, Oregon
+  description: Offering monthly/weekly rates. Fifty Amp Full Hookups, Laundry Facilities,
+    Pets OK, Showers, Public Restrooms, Cable, and Internet at Arbe's RV Park.
+  imgalt: Photo of RV Park.
 
 ---
