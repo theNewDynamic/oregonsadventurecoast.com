@@ -12,7 +12,7 @@ address:
   zip: '97459'
 phone_toll_free: 
 phone_local: 541-756-3151
-units: '16'
+units: 16
 cost: 2 - $$
 property_description: 'The Bay Bridge Motel, located in North Bend on the north side
   of the historic McCullough bridge, offers views of the ocean, free WiFi access,
@@ -24,5 +24,10 @@ amenityList:
 coordinates:
   lat: '43.436001'
   lng: "-124.220865"
+seo:
+  description: 'Get views of the ocean, a kitchenette, WiFi access, and flat screen
+    TVs with cable channels. '
+  title: The Bay Bridge Motel in North Bend
+  imgalt: The Bay Bridge Motel in North Bend
 
 ---
