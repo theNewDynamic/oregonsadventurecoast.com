@@ -20,6 +20,9 @@ If you’ve been anywhere along the Oregon Coast, you’ve probably heard a lot 
 The low tides commonly found from Empire to Charleston make our region one of the top destinations for clam digging. Around here, the most popular clams are bay clams, which include gaper clams, butter clams, cockles and littleneck clams.
 
 Local bait and tackle shops are usually the best resource for first (and second, third, fourth) time clammers and can usually advise on conditions, regulations, equipment, etc. Some businesses, like [Basin Tackle](http://www.basintackle.net/) on Kingfisher Road in Charleston, even offer classes on how to use a clam pump and clean the clams. (They’ll even share secret recipes!)
+{{< spacer 20 >}}
+
+[![Join Us this Memorial Day Weekend for the BBQ, Blues and Brews in Coos Bay, North Bend, Charleston](/img/bbq-blues-brews-695x86-04-22.jpg)](/event/annual-bbq-blues-brews-on-the-bay)
 
 {{< spacer 20 >}}
 
