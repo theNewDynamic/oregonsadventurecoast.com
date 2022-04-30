@@ -5,12 +5,12 @@ lang: es
 url: es/
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- url: "/girlfriends"
+- url: "/event/annual-bbq-blues-brews-on-the-bay"
   video:
     source: ''
     cover: ''
-  photo_mobile: "/img/girlfriends-getaway-mobile-spanish.jpg"
-  photo: "/img/gfg-hm-page-slider-2048x850-spanish.jpg"
+  photo_mobile: "/img/mobile-bbq-home-slider-spanish.jpg"
+  photo: "/img/bbq-home-slider-spanish.jpg"
 welcomeheadline: "¡Bienvenidos a Oregon’s Adventure Coast!"
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"

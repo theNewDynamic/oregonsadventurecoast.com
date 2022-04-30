@@ -7,9 +7,9 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- photo: "/img/gfg-hm-page-slider-2048x850-v02.jpg"
-  photo_mobile: "/img/girlfriends-getaway-mobile-02.jpg"
-  url: "/girlfriends"
+- photo: "/img/bbq-home-slider-english.jpg"
+  photo_mobile: "/img/mobile-bbq-home-slider-english.jpg"
+  url: "/event/annual-bbq-blues-brews-on-the-bay"
   video:
     source: ''
     cover: ''
