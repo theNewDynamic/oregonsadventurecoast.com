@@ -25,4 +25,4 @@ To help you get started discovering our exciting and exhilarating adventures, we
 
 Contact Oregon’s Adventure Coast with any questions you may have about things to do on your vacation!
 
-[![Enjoy a Girlfriends Getaway this Spring in Coos Bay, North Bend, Charleston](/img/gfg-695x86-banner-02-22.jpg)](/girlfriends)
+[![Join Us this Memorial Day Weekend for the BBQ, Blues and Brews in Coos Bay, North Bend, Charleston](/img/bbq-blues-brews-695x86-04-22.jpg)](/event/annual-bbq-blues-brews-on-the-bay)
