@@ -13,6 +13,7 @@ aliases:
 outputs:
 - html
 - json
+
 ---
 As you plan your vacation to the Oregon Coast, browse our list of places to stay located throughout Coos Bay, North Bend, and Charleston. Choose the one close to all the activities and events you are planning during your trip!
 
@@ -20,5 +21,6 @@ As you plan your vacation to the Oregon Coast, browse our list of places to stay
 
 You can pick accommodations on the Oregon Coast that will suit your needs and preferences, whether you need a place to stay that is pet-friendly, offers a fitness center, has a kitchen, and a variety of other additions.
 Look through these options and take the next step in planning your trip to the Oregon Coast!  
-**($ = Up to $99; $$ = $100-$199; $$$ = $200+)**
-<div style="width:100%"><a href="/girlfriends"><img src="/img/gfg-2048x190-banner-02-22.jpg" alt="Enjoy a Girlfriends Getaway in Coos Bay, North Bend, Charleston" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
+**($ = Up to $99; $$ = $100-$199; $$$ = $200+)** 
+
+<div style="width:100%"><a href="/event/annual-bbq-blues-brews-on-the-bay"><img src="/img/bbq-blues-brews-2048x190-04-22.jpg" alt="Join us this memorial day weekend for the BBQ, Blues and Brews in Coos Bay, North Bend, Charleston" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
