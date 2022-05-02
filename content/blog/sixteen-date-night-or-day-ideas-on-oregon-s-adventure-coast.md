@@ -1,6 +1,6 @@
 ---
 title: Sixteen Date Night (or Day) Ideas on Oregon’s Adventure Coast
-date: 2022-02-04T05:00:00+00:00
+date: 2022-02-04T05:00:00.000+00:00
 description: 'Here are 16 ideas on how to impress your significant other on Oregon’s
   Adventure Coast: Coos Bay, North Bend, Charleson. '
 image: "/img/oregon-coast-date-ideas-blog-695x322-jpg.png"
@@ -46,7 +46,7 @@ There’s just something about **Oregon’s Adventure Coast: Coos Bay, North Ben
 
 \#6-If weather allows, go on a romantic picnic on the beach at [Sunset Bay State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) to watch the sun set over wine and cheese.
 
-\#7- Go on an adventurous drive and spend the day exploring the beaches and state parks along the Cape Arago Highway. Watch the seal and sea lions on[ Simpson Reef and Shell Island](https://www.shareoregon.com/things-to-do/en/listings/126105-simpson-reef-and-shell-island-oregon-islands-nwr), part of the[ Oregon Islands National Wildlife Refuge](https://www.fws.gov/refuge/oregon_islands/). [Download this guide](https://oregonsadventurecoast.com/img/cape-arago-loop-itinerary-2018.pdf) to help you on your route and choose your own experience.
+\#7- Go on an adventurous drive and spend the day exploring the beaches and state parks along the Cape Arago Highway. Watch the seals and sea lions on[ Simpson Reef and Shell Island](https://www.shareoregon.com/things-to-do/en/listings/126105-simpson-reef-and-shell-island-oregon-islands-nwr), part of the[ Oregon Islands National Wildlife Refuge](https://www.fws.gov/refuge/oregon_islands/). [Download this guide](https://oregonsadventurecoast.com/img/cape-arago-loop-itinerary-2018.pdf) to help you on your route and choose your own experience.
 
 \#8-Treat yourselves to a one-of-a-kind tasting adventure you can only find along the[ Wild Rivers Coast Food Trail](https://www.oregonsadventurecoast.com/blog/savor-the-flavors-along-the-wild-rivers-coast-food-trail/).
 
@@ -64,7 +64,7 @@ There’s just something about **Oregon’s Adventure Coast: Coos Bay, North Ben
 
 \#15 Spend the night gaming in one of [our casinos](https://oregonsadventurecoast.netlify.app/blog/try-your-luck-on-oregon-s-adventure-coast/)! Whether it's slots, cards, or games, you'll find plenty of round-the-clock adventure, fun, and (fingers crossed) good luck!
 
-\#16 Enjoy a super-fun night of [Cosmic Bowling](https://northbendlanes.com/cosmic-bowling/) at North Bend Lanes, or grab a pint at [7 Devils Brewing Co](https://www.7devilsbrewery.com). or one of our other local pubs!
+\#16 Enjoy a super-fun night of [Cosmic Bowling](https://northbendlanes.com/Bowling/Cosmic-Bowling) at North Bend Lanes, or grab a pint at [7 Devils Brewing Co](https://www.7devilsbrewery.com). or one of our other local pubs!
 
 Want more inspiration? Visit our featured [adventures page](https://www.oregonsadventurecoast.com/adventures) and our [trip ideas page](https://www.oregonsadventurecoast.com/tripideas) to find more travel ideas and inspiration, and/or contact the [Coos Bay – North Bend Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/contact/).
 
