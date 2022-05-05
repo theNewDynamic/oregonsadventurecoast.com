@@ -19,7 +19,7 @@ address:
   state: OR
 phone_local: 541-404-2308
 phone_toll_free: ''
-website: https://www.facebook.com/apothecarybyAF/about
+website: https://www.facebook.com/TheApothecaryLLC
 coordinates:
   lat: '43.40609'
   lng: "-124.22434"
