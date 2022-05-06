@@ -6,7 +6,7 @@ property_description: Offers guided fishing trips for salmon, steelhead, shad, s
   Elk, & Sixes River systems.  Bottom fishing & crabbing are also available off of
   the Coos Bay coast.
 equip_type:
-- 1 - Tour
+- Tour
 photo_name: "/img/indigenous-adventures-tours.jpg"
 photo_alt: ''
 address:

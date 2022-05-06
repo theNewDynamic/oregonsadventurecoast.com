@@ -4,7 +4,7 @@ photo_name: /img/odfw-charters.jpg
 photo_alt: ODFW Field Work
 property_name: ODFW Charleston Office
 equip_type:
-  - typeSelect: '2'
+  - Equipment
 address:
   city: Charleston
   state: OR

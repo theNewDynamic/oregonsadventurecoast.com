@@ -5,7 +5,7 @@ property_description: PacificPond Charters is small boat sport fishing guide in 
   size fish in the waters off the Oregon Coast.
 property_name: PacificPond Charters
 equip_type:
-- 1 - Tour
+- Tour
 photo_name: "/img/ppond-ch.jpg"
 photo_alt: PacificPond Charters helps you catch the big ones
 address:

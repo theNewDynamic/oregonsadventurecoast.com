@@ -4,7 +4,7 @@ photo_name: "/img/waxers-surf-shop-charters.jpg"
 photo_alt: Waxer's Young Surf Couple
 property_name: Waxer’s Surf Shop
 equip_type:
-- typeSelect: '2'
+- Equipment
 address:
   city: Coos Bay
   state: OR

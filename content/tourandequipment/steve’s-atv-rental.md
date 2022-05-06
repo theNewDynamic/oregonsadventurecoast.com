@@ -4,7 +4,7 @@ photo_name: "/img/dunes-dune-buggy-riding.jpg"
 photo_alt: Steve's ATV Rental
 property_name: Steve’s ATV Rental
 equip_type:
-- typeSelect: '2'
+- Equipment
 address:
   city: North Bend
   state: OR

@@ -5,7 +5,7 @@ property_description: Rent kayaks, boogie boards, surfboards, stand up paddleboa
   Street. Open Tues-Sat 10am-6pm, Sun by Appt.
 property_name: Bahama Boards
 equip_type:
-- 2 - Equipement
+- Equipment
 photo_name: "/img/bahama-boards-coos-bay.jpg"
 photo_alt: ''
 address:

@@ -1,0 +1,7 @@
+{{ $equipments := slice }}
+{{ with where site.RegularPages "Type" "tourandequipment" }}
+    {{ with where . "Params.equip_type" "intersect" (slice "Tour") }}
+      {{ $equipments = . }}
+    {{ end }}
+{{ end }}
+{{ return $equipments }}

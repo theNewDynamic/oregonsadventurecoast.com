@@ -4,7 +4,7 @@ photo_name: "/img/basin-tackle-rentals-harters.jpg"
 photo_alt: Basin Tackle Tuna Catch
 property_name: Basin Tackle Charleston
 equip_type:
-- typeSelect: 2
+- Equipment
 address:
   city: Charleston
   state: OR

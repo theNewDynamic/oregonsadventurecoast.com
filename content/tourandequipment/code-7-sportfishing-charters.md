@@ -7,7 +7,7 @@ property_description: Code 7 Sportfishing Charters provides fully outfitted, ful
   loaded Rogue Jet Chinook, or a 20 foot Willie Drift boat.
 property_name: Code 7 Sportfishing Charters
 equip_type:
-- 1 - Tour
+- Tour
 photo_name: "/img/code-7-sportfishing.jpg"
 photo_alt: ''
 address:

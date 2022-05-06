@@ -4,7 +4,7 @@ photo_name: /img/enlund-marine-charters.jpg
 photo_alt: Englund Marine Crabing
 property_name: Englund Marine
 equip_type:
-  - typeSelect: '2'
+  - Equipment
 address:
   city: Charleston
   state: OR

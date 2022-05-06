@@ -4,7 +4,7 @@ photo_name: /img/big-5-sporting-goods.jpg
 photo_alt: Big 5 Logo
 property_name: Big 5 Sporting Goods
 equip_type:
-  - typeSelect: '2'
+  - Equipment
 address:
   city: 'North Bend '
   state: OR

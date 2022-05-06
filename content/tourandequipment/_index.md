@@ -1,5 +1,5 @@
 ---
-outputs:
-  - HTML
-  - JSON
+cascade:
+  _build:
+    render: never
 ---

@@ -3,7 +3,7 @@ title: Sharky’s Charters
 photo_name: "/img/sharky-s-charters.jpg"
 property_name: Sharky’s Charters
 equip_type:
-- typeSelect: '1'
+- Tour
 address:
   city: Charleston
   state: OR

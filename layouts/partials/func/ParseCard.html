@@ -1,0 +1,39 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+
+{{ $address := "" }}
+{{ with .Params.address }}
+  {{ $s.SetInMap "data" "address" . }}
+  {{ with partialCached "func/GetAddressString" . . }}
+    {{ $s.SetInMap "data" "address_string" . }}
+  {{ end }}
+  {{ with partial "func/GetGoogleMapURL" (merge . (dict "title" $.Title)) }}
+    {{ $s.SetInMap "data" "map_link" . }}
+  {{ end }}
+{{ end }}
+
+{{ $phones := slice }}
+{{ $phone_links := slice }}
+{{ with .Params.phone_local }}
+  {{ $phones = $phones | append . }}
+{{ end }}
+{{ with .Params.phone_toll_free }}
+  {{ $phones = $phones | append . }}
+{{ end }}
+{{ with $phones }}
+  {{ $s.SetInMap "data" "phones" . }}
+  {{ $s.SetInMap "data" "phone_links" (apply . "partial" "func/GetPhoneLink" ".") }}
+{{ end }}
+
+{{ with .Params.property_description }}
+  {{ $s.SetInMap "data" "description" . }}
+{{ end }}
+{{ with .Params.website }}
+  {{ $s.SetInMap "data" "website" . }}
+{{ end }}
+
+{{ with .Params.photo_name }}
+  {{ $s.SetInMap "data" "image" . }}
+{{ end }}
+
+{{ return $s.Get "data" }}

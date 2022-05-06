@@ -3,7 +3,7 @@ title: Betty Kay Charters
 photo_name: /img/betty-kay-charters.jpg
 property_name: Betty Kay Charters
 equip_type:
-  - typeSelect: '1'
+  - Tour
 address:
   city: Charleston
   state: OR

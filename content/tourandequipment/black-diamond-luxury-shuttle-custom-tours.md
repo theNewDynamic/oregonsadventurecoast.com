@@ -12,7 +12,7 @@ property_description: Bring your ideas, we'll create the perfect tour! Travel in
   weddings! These are just a few ideas.
 property_name: Black Diamond Luxury Shuttle & Custom Tours
 equip_type:
-- 1 - Tour
+- Tour
 photo_name: "/img/blkdiamondluxshuttle-cropped.jpg"
 photo_alt: ''
 phone_local: 541-217-0610

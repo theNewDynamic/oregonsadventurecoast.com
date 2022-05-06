@@ -8,7 +8,7 @@ property_description: Captain Roy leads fishing charters from Charleston Marina 
   available. Come have a safe and fun trip. Whale watching trips upon request.
 property_name: Lucky Me Charters
 equip_type:
-- 1 - Tour
+- Tour
 photo_name: "/img/lucky_me_craft.jpg"
 photo_alt: Take a fishing charter with Lucky Me Charters
 address:

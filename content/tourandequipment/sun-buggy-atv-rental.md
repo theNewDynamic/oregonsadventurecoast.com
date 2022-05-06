@@ -5,7 +5,7 @@ property_description: 'The people at SunBuggy are here because they LOVE THE DUN
   with visitors to the Oregon Dunes. Rent ATVs and more on your next trip to the dunes. '
 property_name: 'SunBuggy & ATV Rental '
 equip_type:
-- 2 - Equipement
+- Equipment
 photo_name: "/img/kids-dunes.jpg"
 photo_alt: Riding Dune Buggies on Oregon's Dunes
 address:

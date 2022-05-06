@@ -3,7 +3,7 @@ title: Randy's Guide Service
 photo_name: /img/randys-guide.jpg
 property_name: Randy's Guide Service
 equip_type:
-  - typeSelect: '1'
+  - Tour
 address:
   city: Charleston
   state: OR

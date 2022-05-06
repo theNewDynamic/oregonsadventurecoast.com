@@ -3,7 +3,7 @@ title: Fishin' Trips Charters
 photo_name: /img/fishin-trip-charters.jpg
 property_name: Fishing' Trips Charters
 equip_type:
-  - typeSelect: '1'
+  - Tour
 address:
   city: Coos Bay
   state: OR

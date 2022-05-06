@@ -4,7 +4,7 @@ photo_name: "/img/steve-prefontaine-mural-coos-bay.jpg"
 photo_alt: Steve Prefontaine Mural in Downtown Coos Bay, Oregon
 property_name: Tour de Pre
 equip_type:
-- typeSelect: '1'
+- Tour
 address:
   city: Coos Bay
   state: OR

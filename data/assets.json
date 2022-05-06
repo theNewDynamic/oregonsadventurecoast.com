@@ -1,26 +1,18 @@
 {
   "app": {
-    "js": "/dist/app.f9538fc352ffdc7b2f9d.js",
-    "jsIntegrity": "sha256-DKJ43AbtDyJuzN1ygCmUT5wPFTBBNZ3PidhSdXvEIi0="
-  },
-  "equipment": {
-    "js": "/dist/equipment.21c5041d4e1d145225a1.js",
-    "jsIntegrity": "sha256-C66EBGvjnJdLY7asNc+bUn3IQCDXNsECIrS4uSlKtmg="
+    "js": "/dist/app.34e53548e8a46f076851.js",
+    "jsIntegrity": "sha256-2ejVBkcmQyIsqH97ENzRVSUnjdvSGZS1Xa+4DNqREi0="
   },
   "instagram": {
-    "js": "/dist/instagram.c6ae0f0eebc8a14a8ec9.js",
-    "jsIntegrity": "sha256-v2T+nTh36kSFw6oUet/uEn0Lhw8pWSBs+AVRjpnn5Bs="
+    "js": "/dist/instagram.8c4138beca5ec146033d.js",
+    "jsIntegrity": "sha256-I/NZMRpYKLC8CX1NIN9K2eDePENikvPyUsl6VrEt1QQ="
   },
   "main": {
-    "js": "/dist/main.03d60249a38856ca963f.js",
-    "jsIntegrity": "sha256-2fEEKV1t1yl7Jg2PsigInRQIeM6auqY2PCR5+bL6IAE="
+    "js": "/dist/main.08c0ca1cd19d9c4f0fab.js",
+    "jsIntegrity": "sha256-cY1+Ekq5itnHcpbrsCzzLnjnZgYcAk1mUPk/cc0FKlY="
   },
   "search": {
-    "js": "/dist/search.bd64f18665407bcc23d6.js",
-    "jsIntegrity": "sha256-68/THLOi03Z/W6lwoWrezxA8H/AZHw9AbqVDGpJsfcA="
-  },
-  "tourcharters": {
-    "js": "/dist/tourcharters.04529101b60ed635d42e.js",
-    "jsIntegrity": "sha256-kO36zsRCVAEpsc+WKYlCmjsUPEFgO10/JO3yh2eLsY4="
+    "js": "/dist/search.1b7e0898715861d62536.js",
+    "jsIntegrity": "sha256-Jol2Fxw6M+069+sEILQOgLWgnu0J8n43ERhWH/mCbTk="
   }
 }
