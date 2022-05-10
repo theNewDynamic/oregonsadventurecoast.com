@@ -28,7 +28,11 @@ website: http://www.oregonsadventurecoast.com
 
 {{< spacer 50 >}}
 
-#### The Largest Fireworks Display on the Coast happens over Coos Bay on July 3, 2021
+### July 3rd
+
+{{< spacer 15 >}}
+
+#### The Largest Fireworks Display on the Coast happens over Coos Bay
 
 {{< spacer 15 >}}
 
@@ -42,6 +46,10 @@ K-DOCK 92.9 FM will present a pre-show at 9:00 pm featuring upbeat music to get 
 
 {{< spacer 50 >}}
 
+### July 4th
+
+{{< spacer 15 >}}
+
 #### Fireworks Over Coos Bay on July 4, 2021
 
 {{< spacer 15 >}}
@@ -50,7 +58,9 @@ K-DOCK 92.9 FM will present a pre-show at 9:00 pm featuring upbeat music to get 
 
 Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen from most places along the Bay from The Coos History Museum to Eastside!
 
-{{< spacer 25 >}}
+{{< spacer 15 >}}
+
+{{< spacer 25 >}}{{< spacer 15 >}}{{< spacer 15 >}}{{< spacer 15 >}}
 
 ![](/img/firecrackerlotsrunners-600x398.jpeg)
 
