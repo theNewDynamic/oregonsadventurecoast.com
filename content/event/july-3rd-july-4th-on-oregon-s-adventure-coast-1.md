@@ -62,7 +62,7 @@ Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen 
 
 {{< spacer 25 >}}{{< spacer 15 >}}{{< spacer 15 >}}{{< spacer 15 >}}
 
-![](/img/firecrackerlotsrunners-600x398.jpeg)
+![](/img/firecrackerlotsrunners-600x398.jpeg "Photo by Tom Hutton, courtesy SCRC")
 
 #### Firecracker Run - 1/2 mile kid’s run and 4K run/walk
 
