@@ -52,6 +52,8 @@ Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen 
 
 {{< spacer 25 >}}
 
+![](/img/firecrackerlotsrunners-600x398.jpeg)
+
 #### Firecracker Run - 1/2 mile kid’s run and 4K run/walk
 
 {{< spacer 15 >}}
@@ -60,9 +62,9 @@ Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen 
 
 **10:00am** – 1/2 mile kid’s run – Free!
 
-**10:20am** (or whenever the kid’s run is over) – 4K Grown-up Run/Walk 
+**10:20am** (or whenever the kid’s run is over) – 4K Grown-up Run/Walk
 
-* **Free** for South Coast Running Club members, but please [sign up online ](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark)to help make race morning less crazy! 
+* **Free** for South Coast Running Club members, but please [sign up online ](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark)to help make race morning less crazy!
 * **$10** for non-members. [Register online](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark).  [Become a member and race for free!](https://runsignup.com/Club/OR/CoosBay/SouthCoastRunningClub2)
 
 {{< spacer 15 >}}
