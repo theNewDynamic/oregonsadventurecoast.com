@@ -30,7 +30,9 @@ website: http://www.oregonsadventurecoast.com
 
 #### The Largest Fireworks Display on the Coast happens over Coos Bay on July 3, 2021
 
-Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [The Mill Casino ](https://www.themillcasino.com/)will light up the skies over the Bay with this year's waterfront fireworks display. 
+{{< spacer 15 >}}
+
+Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [The Mill Casino ](https://www.themillcasino.com/)will light up the skies over the Bay with this year's waterfront fireworks display.
 
 **The fireworks display will be located in front of The Mill Casino, but can be seen from just about anywhere along the Bay!**
 
@@ -42,11 +44,32 @@ K-DOCK 92.9 FM will present a pre-show at 9:00 pm featuring upbeat music to get 
 
 #### Fireworks Over Coos Bay on July 4, 2021
 
-{{< spacer 25 >}}
+{{< spacer 15 >}}
 
-**Stick around for a 2nd night of Fireworks with the City of Coos Bay's Fireworks display over Coos Bay by the Coos Bay Boardwalk.** 
+**Stick around for a 2nd night of Fireworks with the City of Coos Bay's Fireworks display over Coos Bay by the Coos Bay Boardwalk.**
 
 Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen from most places along the Bay from The Coos History Museum to Eastside!
+
+{{< spacer 25 >}}
+
+#### Firecracker Run - 1/2 mile kid’s run and 4K run/walk
+
+{{< spacer 15 >}}
+
+1/2-mile kid’s run and a 4K for grown-ups.  Kid’s run is 1.5 times around the lake.  4K is 3 times around the lake followed by a HUGE hill in beautiful Mingus Park.  You will then run on city streets, down another Mingus Park dirt trail, and finish on the paved path by the lake.
+
+**10:00am** – 1/2 mile kid’s run – Free!
+
+**10:20am** (or whenever the kid’s run is over) – 4K Grown-up Run/Walk 
+
+* **Free** for South Coast Running Club members, but please [sign up online ](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark)to help make race morning less crazy! 
+* **$10** for non-members. [Register online](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark).  [Become a member and race for free!](https://runsignup.com/Club/OR/CoosBay/SouthCoastRunningClub2)
+
+{{< spacer 15 >}}
+
+[A map of the course can be viewed here](https://www.mapmyrun.com/routes/view/2565252721).
+
+{{< spacer 25 >}}
 
 **More information coming soon on other July 4th Activities to be held in Mingus Park.**
 
