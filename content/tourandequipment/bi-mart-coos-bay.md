@@ -4,7 +4,7 @@ photo_name: /img/bimart-sporting-goods-charters.jpg
 photo_alt: Bi-Mart Sporting Goos Department
 property_name: BI-MART Coos Bay
 equip_type:
-  - typeSelect: '2'
+  - Equipment
 address:
   city: Coos Bay
   state: OR

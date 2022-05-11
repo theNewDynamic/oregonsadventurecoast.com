@@ -4,7 +4,7 @@ photo_name: "/img/pacific-charter-charters.jpg"
 photo_alt: Pacific Charter Services Boat
 property_name: Pacific Charter Services
 equip_type:
-- typeSelect: '1'
+- Tour
 address:
   city: Charleston
   state: OR

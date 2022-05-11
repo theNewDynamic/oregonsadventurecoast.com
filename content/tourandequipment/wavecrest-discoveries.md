@@ -4,7 +4,7 @@ photo_name: /img/bandon_oystercatcher_005.tif.jpg
 photo_alt: 'Wavecrest Discoveries '
 property_name: Wavecrest Discoveries Oyster Catcher
 equip_type:
-  - typeSelect: '1'
+  - Tour
 address:
   city: Coos Bay
   state: OR

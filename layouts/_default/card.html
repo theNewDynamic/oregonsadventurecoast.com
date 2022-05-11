@@ -1,0 +1,44 @@
+{{ with $card := partialCached "func/ParseCard" $ $ }}
+<div class="m-lodging-item">
+  {{ with .image }}
+  <div class="photo">
+    <img src="{{ . }}" alt="">
+  </div>
+  {{ end }}
+
+
+  <div class="content">
+      <div class="location">
+          <h2>{{ $.Title }}</h2>
+          {{ with .address }}
+            <p class="address">
+              {{ .street }}<br>
+              {{ .city }}, {{ .zip }}<br>
+            {{ with $card.phone_links }}
+              {{ range . }}
+                {{ . | safeHTML }}<br>
+              {{ end }}
+            {{ end }}
+            </p>
+          {{ end }}
+      </div>
+      {{ with .description }}
+      <div class="description">
+        {{ . | markdownify }}
+      </div>
+      {{ end }}
+
+      <div class="m-lodging-item__footer">
+          <div class="links clearfix">
+              {{ with .map_link }}
+              <span class="map"><a href="{{ . }}" target="_blank"><span class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></span> Map</a></span>
+              {{ end }}
+              {{ with .website }}
+              <span class="website"><a href="{{ . }}" target="_blank"><span class="icon"><i class="fas fa-globe" aria-hidden="true"></i></span> Website</a></span>
+              {{ end }}
+          </div>
+      </div>
+  </div>
+
+</div>
+{{ end }}

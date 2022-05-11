@@ -6,7 +6,7 @@ property_description: Go out on the Fun Sway for a 2-hour scenic and historic to
   rich history along the waters of Coos Bay.
 property_name: Coos Boat Tours
 equip_type:
-- 1 - Tour
+- Tour
 photo_name: "/img/Screenshot 2019-05-11 at 5.23.19 PM.png"
 photo_alt: Captain Brian Kraynik welcomes you aboard the Fun Sway.
 address:

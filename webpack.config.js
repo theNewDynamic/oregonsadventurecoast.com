@@ -12,8 +12,6 @@ module.exports = {
     //MAY NEED VENDOR
     app: ["./src/js/app"],
     main: ["./src/js/main"],
-    tourcharters: ["./src/js/tourcharters"],
-    equipment: ["./src/js/equipment"],
     instagram: ["./src/js/instagram"],
     search: ["./src/js/search"],
 	},

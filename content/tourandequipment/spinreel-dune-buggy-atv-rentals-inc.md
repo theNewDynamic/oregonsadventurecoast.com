@@ -4,8 +4,8 @@ photo_name: "/img/spinreel-atv-rental.jpg"
 photo_alt: Spinreal Dune Buggy & ATV Rentals Girl on Buggy
 property_name: Spinreel Dune Buggy & ATV Rentals, Inc
 equip_type:
-- typeSelect: '2'
-- typeSelect: '1'
+- Equipment
+- Tour
 address:
   city: North Bend
   state: OR

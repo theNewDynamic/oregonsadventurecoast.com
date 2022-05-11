@@ -4,7 +4,7 @@ photo_name: "/img/davy-jones-locker-charters.jpg"
 photo_alt: DAvey Jones Locker Store
 property_name: 'Davey Jones Locker '
 equip_type:
-- typeSelect: '2'
+- Equipment
 address:
   city: Charleston
   state: OR

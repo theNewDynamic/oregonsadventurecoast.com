@@ -4,7 +4,7 @@ property_description: Chinook Charters offers guided trips for ocean crabbing an
   rockfish, lingcod, halibut and tuna.
 property_name: Chinook Charters
 equip_type:
-- 1 - Tour
+- Tour
 photo_name: "/img/chinook.jpg"
 photo_alt: Chinook Charters out of Charleston
 address:

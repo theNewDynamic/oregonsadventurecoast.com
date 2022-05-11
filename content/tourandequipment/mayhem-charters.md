@@ -12,7 +12,7 @@ property_description: 'Join Mayhem Charters for a family-friendly fishing charte
   everything you need, just bring your license, enjoy and catch the big ones! '
 property_name: Mayhem Charters
 equip_type:
-- 1 - Tour
+- Tour
 photo_name: "/img/mayhem-charters.jpg"
 photo_alt: Mayhem Charters helps you catch the Big one!
 phone_local: "(541) 944-0420"

@@ -4,7 +4,7 @@ photo_name: /img/bimart-sporting-goods-charters.jpg
 photo_alt: 'Bi-Mart in North Bend, OR'
 property_name: BI-MART North Bend
 equip_type:
-  - typeSelect: '2'
+  - Equipment
 address:
   city: North Bend
   state: OR

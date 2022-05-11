@@ -4,7 +4,7 @@ photo_name: "/img/kayakers-charters.jpg"
 photo_alt: South Coast Tours Couple Kayaking
 property_name: South Coast Tours
 equip_type:
-- typeSelect: '1'
+- Tour
 address:
   city: Gold Beach
   state: OR

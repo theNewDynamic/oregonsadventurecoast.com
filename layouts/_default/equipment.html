@@ -14,14 +14,12 @@
 
 <div class="g-wrap clearfix">
     <div class="equipment">
-        <div id="equipment-output" class="m-grid"></div>
+        <div id="equipment-output" class="m-grid">
+            {{ range partialCached "func/GetEquipments" "GetEquipments" }}
+                {{ .Render "card" }}
+            {{ end }}
+        </div>
     </div>
-
-    {{ partial "pagination" . }}
 </div>
 
-{{ end }}
-
-{{ define "footerJs" }}
-{{ partial "script" "equipment" }}
 {{ end }}

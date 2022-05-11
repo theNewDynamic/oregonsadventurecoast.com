@@ -5,7 +5,7 @@ property_description: 'Rent kayaks, stand up paddleboards and beach chairs at Su
   lot! Open daily 10-4 June through October. '
 property_name: South Coast Tours, LLC
 equip_type:
-- 2 - Equipement
+- Equipment
 photo_name: "/img/S Coast Tours Sunset Bay-1.jpg"
 photo_alt: Rent kayaks and stand up paddleboards at Sunset Bay State Park
 address:

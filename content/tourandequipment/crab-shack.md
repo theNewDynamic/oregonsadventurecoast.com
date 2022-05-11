@@ -4,7 +4,7 @@ photo_name: "/img/crabs-charters.jpg"
 photo_alt: Crab Shack Two Crabs
 property_name: Crab Shack
 equip_type:
-- typeSelect: '2'
+- Equipment
 address:
   city: Charleston
   state: OR

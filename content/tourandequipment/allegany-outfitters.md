@@ -3,7 +3,7 @@ title: Allegany Outfitters
 photo_name: "/img/flyfishing.alt.jpg"
 property_name: Allegany Outfitters
 equip_type:
-- typeSelect: '1'
+- Tour
 address:
   city: Coos Bay
   state: OR

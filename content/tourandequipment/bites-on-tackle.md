@@ -4,7 +4,7 @@ photo_name: /img/bites-on-tackle-charters-117.jpg
 photo_alt: Bites on Tackle Father and Son Fishing
 property_name: Bites On Tackle
 equip_type:
-  - typeSelect: '2'
+  - Equipment
 address:
   city: Coos Bay
   state: OR

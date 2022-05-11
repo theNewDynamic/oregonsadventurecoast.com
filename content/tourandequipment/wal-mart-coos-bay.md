@@ -4,7 +4,7 @@ photo_name: /img/wall-mart.jpg
 photo_alt: Wall Mart Logo
 property_name: Wal-Mart Coos Bay
 equip_type:
-  - typeSelect: '2'
+  - Equipment
 address:
   city: 'Coos Bay '
   state: OR

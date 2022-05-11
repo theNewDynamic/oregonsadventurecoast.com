@@ -22,8 +22,8 @@ fields:
     source:
       type: simple
     options:
-    - 1 - Tour
-    - 2 - Equipement
+    - Tour
+    - Equipment
   description: Please select if this entry provides Tours, Equipments or both.
 - type: include
   template: image-alt
