@@ -56,7 +56,7 @@ Find information, maps, public restrooms and public computer. Located adjacent t
 divider
 
 **Charleston Visitor Information Center**  
-91141 Cape Arago Hwy  
+91143 Cape Arago Hwy  
 Charleston, OR 97429  
 (541) 888-2311
 
