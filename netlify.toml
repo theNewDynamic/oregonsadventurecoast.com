@@ -1,3 +1,6 @@
+[functions]
+  directory = "functions"
+  
 [build]
 publish = "public"
 command = "hugo --gc"
