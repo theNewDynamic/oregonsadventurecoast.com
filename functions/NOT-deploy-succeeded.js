@@ -21,15 +21,15 @@ exports.handler = async function(event, context) {
 
   const apps = [
     {
-      id: 'dining',
+      id: 'dining_229',
       endpoint: '/dining/index.json'
     },
     {
-      id: 'lodging',
+      id: 'lodging_229',
       endpoint: '/lodging/index.json'
     },
     {
-      id: 'shopping',
+      id: 'shopping_229',
       endpoint: '/shopping/index.json'
     }
   ]
@@ -45,16 +45,38 @@ exports.handler = async function(event, context) {
         return response.json()
       }
     })
-  
+    const deleteResponse = await index.deleteAllDocuments()
+    deleteOuput = {
+      type: 'delete',
+      response: deleteResponse,
+      index: app.id,
+    }
+    successes.push(deleteOuput)
     // If the index 'movies' does not exist, MeiliSearch creates it when you first add the documents.
+
     let response = await index.addDocuments(documents)
     output = {
+      type: 'add',
       response,
       index: app.id,
       documents: documents.length
     }
     successes.push(output)
     console.log(output)
+    let responseCheck = await index.getDocuments({
+      limit: 1000,
+      attributesToRetrieve: ['title']
+    })
+    const retrievedDocuments = responseCheck
+    const pass = retrievedDocuments.length === documents.length
+    checkOutput = {
+      type: 'get',
+      response: pass ? 'bravo' : `${retrievedDocuments.length} found on Meili but ${documents.length} found on the site.`,
+      index: app.id,
+      documents: documents.length
+    }
+    successes.push(checkOutput)
+    console.log(checkOutput)
   }
 
   return {
