@@ -3,10 +3,13 @@
 {{ partial "featurePhoto" (dict "photo" .Params.photo) }}
 
 <div class="g-wrap clearfix">
-    <div class="m-standard-nav">
-        <h3>Adventures</h3>
-    
-        <ul>
+    <div class="m-standard-nav"
+    x-data="{
+	    showInnerNav: false,
+    }"
+    >
+        <h3 @click="showInnerNav = !showInnerNav">Adventures <span class="sm:hidden menu-link g-menu-x " :class="showInnerNav ? '-active' : ''"><i class="bar bar-top"></i><i class="bar bar-mid"></i><i class="bar bar-btm"></i></span></h3>
+        <ul :class="showInnerNav ? 'show' : ''">
         {{ $pageUrl := .RelPermalink }}
         {{ range where .Site.Pages "Section" "adventure" }}
             {{ if ne .URL "/adventure/" }}

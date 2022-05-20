@@ -26,12 +26,16 @@
 		</div>
 	</div>
 
-	<nav class="m-nav">
+	<nav class="m-nav" x-data="{ openNav: false }">
 		<div class="mobile-menu clearfix">
 			<!-- <span class="search"><i class="fas fa-search"></i></span> -->
-			<span class="menu-toggle"><span class="menu-link g-menu-x"><i class="bar bar-top"></i><i class="bar bar-mid"></i><i class="bar bar-btm"></i></span> <span class="menu-text">MENU</span></span>
+			<span class="menu-toggle" @click="openNav = !openNav"><span class="menu-link g-menu-x"><i class="bar bar-top"></i><i class="bar bar-mid"></i><i class="bar bar-btm"></i></span> <span class="menu-text">MENU</span></span>
 		</div>
-		<div class="inner clearfix" id="main-nav">
+		<div class="inner clearfix" id="main-nav" 
+		x-cloak
+		x-show="openNav"
+		x-transition.origin.top.left
+		>
 			<div class="mobile-search-form">
 				<form action="/search/" method="GET">
 					<input type="text" class="search" placeholder="SEARCH SITE" name="search">

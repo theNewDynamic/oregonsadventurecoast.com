@@ -1,13 +1,13 @@
 (function($) {
-    // Main nav toggle
-    $('.menu-toggle').click(function(){
+    // [x] Main nav toggle
+    $('.menu-togglex').click(function(){
         $(this).find('.g-menu-x').toggleClass('-active');
         $('#main-nav').slideToggle('fast');
     });
 
-    // Sidebar nav toggle for mobile
-    $('.m-standard-nav').find('h3').append('<span class="menu-link g-menu-x"><i class="bar bar-top"></i><i class="bar bar-mid"></i><i class="bar bar-btm"></i></span>');
-    $('.m-standard-nav').find('h3').click(function(){
+    // [x] Sidebar nav toggle for mobile
+    $('.m-standard-navX').find('h3').append('<span class="menu-link g-menu-x"><i class="bar bar-top"></i><i class="bar bar-mid"></i><i class="bar bar-btm"></i></span>');
+    $('.m-standard-navX').find('h3').click(function(){
         $(this).find('.g-menu-x').toggleClass('-active');
         $(this).next('ul').slideToggle();
         $(this).next('.nav-group-display').slideToggle();
