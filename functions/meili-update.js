@@ -47,7 +47,7 @@ exports.handler = async function(event, context) {
     })
     const deleteResponse = await index.deleteAllDocuments()
     deleteOuput = {
-      type: 'delete',
+      type: 'deleteAllDocuments',
       response: deleteResponse,
       index: app.id,
     }
@@ -56,27 +56,13 @@ exports.handler = async function(event, context) {
 
     let response = await index.addDocuments(documents)
     output = {
-      type: 'add',
+      type: 'addDocuments',
       response,
       index: app.id,
       documents: documents.length
     }
     successes.push(output)
     console.log(output)
-    let responseCheck = await index.getDocuments({
-      limit: 1000,
-      attributesToRetrieve: ['title']
-    })
-    const retrievedDocuments = responseCheck
-    const pass = retrievedDocuments.length === documents.length
-    checkOutput = {
-      type: 'get',
-      response: pass ? 'bravo' : `${retrievedDocuments.length} found on Meili but ${documents.length} found on the site.`,
-      index: app.id,
-      documents: documents.length
-    }
-    successes.push(checkOutput)
-    console.log(checkOutput)
   }
 
   return {
