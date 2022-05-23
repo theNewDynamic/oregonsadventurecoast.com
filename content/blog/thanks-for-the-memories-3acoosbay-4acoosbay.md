@@ -1,6 +1,6 @@
 ---
 title: 'Thanks for the Memories #3ACoosBay & #4ACoosBay! '
-date: 2022-03-17T04:00:00+00:00
+date: 2022-03-17T04:00:00.000+00:00
 description: 'It was non-stop basketball action on Oregon’s Adventure Coast: Coos
   Bay, North Bend, Charleston with back-to-back OSAA State Championships! '
 image: "/img/3a-4a-basketball-header.jpg"
@@ -26,7 +26,7 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-warning: false
+warning: true
 warning_copy: ''
 
 ---
