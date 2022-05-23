@@ -31,7 +31,7 @@ warning: true
 warning_copy: ''
 
 ---
-You’ve heard it before, but it’s worth repeating: Shore Acres State Park IS the Crown Jewel of the Oregon State Park System! The [745-acre park](https://www.orparksforever.org/2019/05/15/my-favorite-state-parks/), located just 13 miles southwest of Coos Bay, offers visitors both unsurpassed views of the Pacific Ocean, along with an immaculate “garden for all seasons.” 
+You’ve heard it before, but it’s worth repeating: Shore Acres State Park IS the Crown Jewel of the Oregon State Park System! The [745-acre park](https://www.orparksforever.org/2019/05/15/my-favorite-state-parks/), located just 13 miles southwest of Coos Bay, offers visitors both unsurpassed views of the Pacific Ocean, along with an immaculate “garden for all seasons.”
 
 ![](/img/shore-acres-garden-couple-blog-695x322-jpg.jpg)
 
@@ -47,13 +47,13 @@ No matter what season you visit Shore Acres State Park, visitors will have a dif
 
 Thanks to the help of an army of Friends of Shore Acres volunteers, there is literally something blooming in Shore Acres State Park every day of the year. The garden is beautiful any time of the year (especially when the Holiday Lights are on in November & December), but the glorious spring and summer blooms put on a dazzling show of their own. Hundreds of [rhododendrons](https://shoreacres.net/wp-content/uploads/2019/04/Rhodie-2019-fnl-web.pdf), azaleas, daffodils, along with thousands of tulips, bloomed in the early to late spring. May through September boasts lush summer foliage with over 5,000 flowering annuals and perennials from all over the world, along with gorgeous rose bushes and dahlias in the late summer/early fall.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fkaren.s.kunkle%2Fposts%2F10159747463174210&show_text=true&width=500" width="500" height="601" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fkaren.s.kunkle%2Fposts%2F10159747463174210&show_text=true&width=500" width="500" height="601" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe><br>
 
 **Here come the roses!** Beginning in June, blooming [roses](https://shoreacres.net/wp-content/uploads/2016/11/RoseCard-2016-4x9-2-fold-Fnl-2-web.pdf) will put on a gorgeous display all summer. In late summer, visitors will be treated to stunning Dahlias that bloom readily in the Pacific Northwest. Evergreen shrubs and trees from around the world, like the Monterey Pine, round out the gardens and bloom year round.
 
 For a schedule of what's in bloom, download this [Garden Map – Best Times at Shore Acres](https://shoreacres.net/wp-content/uploads/2015/07/Garden-Map-Card-web.pdf).
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D5747927145223961%26id%3D206248449391886&show_text=true&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D5747927145223961%26id%3D206248449391886&show_text=true&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>br>
 
 **EVENTS**
 
