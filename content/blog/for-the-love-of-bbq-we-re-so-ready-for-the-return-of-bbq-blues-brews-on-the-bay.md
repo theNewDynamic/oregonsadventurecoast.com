@@ -1,7 +1,7 @@
 ---
 title: 'For the Love of BBQ! We’re So Ready for the Return of BBQ, Blues & Brews on
   the Bay '
-date: 2022-04-14T04:00:00+00:00
+date: 2022-04-14T04:00:00.000+00:00
 description: 'BBQ, Blues & Brews on the Bay at The Mill Casino • Hotel & RV Park will
   be back May 28-29, 2022! That’s right, 2 days of non-stop fun, music, craft brews
   and of course, delicious finger-lickin’-lip-smackin’ BBQ are just weeks away! After
@@ -27,7 +27,7 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-warning: false
+warning: true
 warning_copy: ''
 
 ---
