@@ -43,7 +43,7 @@ Something for everyone at the trails with a family ride, beginner ride, intermed
 
 Our celebration of the trails includes food, music & beverages on site. Food carts and beer from [7 Devils Brewery](https://www.7devilsbrewery.com/#/) will be available for purchase.
 
-_Limited camping is available on a first-come, first-served basis and must be booked on the_ [_registration site_](www.GetMeRegistered.com/WhiskeyRunFestival)_. See below for other lodging options._
+_Limited camping is available on a first-come, first-served basis and must be booked on the_ [_registration site_](https://secure.getmeregistered.com/get_information.php?event_id=136994)_. See below for other lodging options._
 
 {{< spacer 50 >}}
 
