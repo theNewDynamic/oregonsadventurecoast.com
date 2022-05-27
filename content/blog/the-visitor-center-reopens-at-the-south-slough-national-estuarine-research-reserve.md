@@ -5,7 +5,26 @@ date: 2022-05-25T04:00:00+00:00
 description: South Slough National Estuarine Research Reserve (SSNERR) Welcomes Back
   Visitors with Regular Hours, a New Exhibit, and a Calendar of Community Programs!
 image: "/img/South Slough Hike blog-695x322.jpg"
-tags: []
+tags:
+- South Slough National Estuarine Research Reserve (SSNERR)
+- SSNERR
+- hiking
+- Visitor Center
+- South Slough NERR
+- Coos Bay
+- North Bend Oregon
+- Charleston Oregon
+- Oregon's Adventure Coast
+- Oregon Travel
+- Travel Oregon
+- South Coast
+- The People's Coast
+- Oregon Coast Vacation
+- Travel Ideas
+- Birdwatching
+- Hiking
+- Kayaking
+- Guided Tours Oregon Coast
 categories:
 - Oregon's Adventure Coast News & Info
 seo:
@@ -17,7 +36,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 ### _South Slough National Estuarine Research Reserve (SSNERR) Welcomes Back Visitors with Regular Hours, a New Exhibit, and a Calendar of Community Programs!_
