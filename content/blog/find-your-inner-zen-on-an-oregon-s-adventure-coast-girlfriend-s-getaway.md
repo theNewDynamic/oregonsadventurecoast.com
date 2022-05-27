@@ -1,6 +1,6 @@
 ---
 title: 'Find Your Inner Zen on an Oregon’s Adventure Coast Girlfriend’s Getaway '
-date: 2022-03-10T05:00:00+00:00
+date: 2022-03-10T05:00:00.000+00:00
 description: 'Gather Your Girlfriends for Three Days of Adventure & Zen on Oregon’s
   Adventure Coast: Coos Bay, North Bend, Charleston'
 image: "/img/girlfriends-getaway-blog-695x322-jpg-1.png"
@@ -24,7 +24,7 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-warning: false
+warning: true
 warning_copy: ''
 
 ---
