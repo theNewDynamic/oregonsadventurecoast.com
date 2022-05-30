@@ -1,4 +1,10 @@
+mounts:
+  - source: assets
+    target: assets
+  - source: _huge
+    target: assets/_huge
 imports:
+  - path: github.com/theNewDynamic/huge
   - path: github.com/theNewDynamic/hugo-module-tnd-seo
   - path: github.com/theNewDynamic/hugo-module-tnd-snipcart
   - path: github.com/theNewDynamic/hugo-module-tnd-func

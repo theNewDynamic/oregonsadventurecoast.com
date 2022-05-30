@@ -1,6 +1,0 @@
-{{ $manifest := site.Data.assets }}
-{{ $return := false }}
-{{ with index $manifest . }}
-  {{ $return = . }}
-{{ end }}
-{{ return $return }}

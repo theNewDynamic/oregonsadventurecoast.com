@@ -11,21 +11,10 @@
     "extended": true
   },
   "scripts": {
-    "functions": "hugo & npm run serve:functions",
-    "serve:functions": "netlify-lambda serve src/functions",
-    "build:functions": "netlify-lambda build src/functions",
-    "production": "bin/hugo* --gc --minify & npm run build:functions",
-    "dev": "run-p dev:webpack dev:hugo",
-    "dev:hugo": "NODE_ENV=development bin/hugo* server --gc --navigateToChanged --noHTTPCache",
-    "dev:webpack": "NODE_ENV=development webpack --mode=development --progress --colors --watch",
-    "build:hugo": "NODE_ENV=production bin/hugo* -e skip-json --gc --minify",
-    "build:assets": "NODE_ENV=development webpack --mode=development",
-    "deploy:assets": "NODE_ENV=production webpack --mode=production",
     "index": "node tools/lunr-run.js",
-    "clean": "rm -rf public/ static/dist resources",
     "build": "run-s deploy:assets build:hugo",
-    "deploy": "run-s clean build",
-    "start": "run-s build:assets dev"
+    "deploy": "HUGO_ENV=production bin/hugo* -e skip-json -F --gc --minify --cleanDestinationDir",
+    "start": "HUGO_ENV=development bin/hugo* server -F -D --navigateToChanged --noHTTPCache"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",

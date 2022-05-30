@@ -1,0 +1,3 @@
+styles:
+- name: main
+  path: sass/main.scss

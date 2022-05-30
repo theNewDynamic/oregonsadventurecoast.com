@@ -1,0 +1,5 @@
+scripts:
+- name: main
+  path: js/main.js
+- name: search
+  path: js/search.js

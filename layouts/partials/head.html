@@ -1,56 +1,63 @@
-<head>
+<link href="https://fonts.googleapis.com/css?family=Calligraffitti|Fjalla+One|Roboto:100,300,400,500" rel="stylesheet">
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{ .Params.seo.description }}">
+<!-- Favicons -->
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-128x128.png" sizes="128x128">
+<meta name="application-name" content="OR Adventure Coast">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="mstile-150x150.png">
+<meta name="msapplication-wide310x150logo" content="mstile-310x150.png">
+<meta name="msapplication-square310x310logo" content="mstile-310x310.png">
+{{ if templates.Exists "partials/tnd-seo/tags.html" }}
+	{{ partial "tnd-seo/tags.html" . }}
+{{ end }}
 
-	<link href="https://fonts.googleapis.com/css?family=Calligraffitti|Fjalla+One|Roboto:100,300,400,500" rel="stylesheet">
-	{{/*  <link rel="stylesheet" href="/css/main.css" />  */}}
-	{{ partial "_head/assets.html" . }}
-	<meta charset="utf-8">
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="{{ .Params.seo.description }}">
-	<!-- Favicons -->
-	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png">
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png">
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png">
-	<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png">
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png">
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png">
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png">
-	<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
-	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-	<link rel="icon" type="image/png" href="/favicon-128x128.png" sizes="128x128">
-	<meta name="application-name" content="OR Adventure Coast">
-	<meta name="msapplication-TileColor" content="#FFFFFF">
-	<meta name="msapplication-TileImage" content="mstile-144x144.png">
-	<meta name="msapplication-square70x70logo" content="mstile-70x70.png">
-	<meta name="msapplication-square150x150logo" content="mstile-150x150.png">
-	<meta name="msapplication-wide310x150logo" content="mstile-310x150.png">
-	<meta name="msapplication-square310x310logo" content="mstile-310x310.png">
+{{ with .Params.forestry_instant_preview_id }}
+<meta name="forestry:prevID" value="{{ . }}">
+{{ end }}
 
-	{{ if templates.Exists "partials/tnd-seo/tags.html" }}
-		{{ partial "tnd-seo/tags.html" . }}
-	{{ end }}
+{{ if eq .Layout "gallery" }}
+<link rel="stylesheet" href="/vendors/lg/css/lightgallery.min.css">
+{{ end }}
 
-	{{ with .Params.forestry_instant_preview_id }}
-	<meta name="forestry:prevID" value="{{ . }}">
-	{{ end }}
+<script src="https://kit.fontawesome.com/89e7208679.js" crossorigin="anonymous"></script>
 
-	{{ if eq .Layout "gallery" }}
-	<link rel="stylesheet" href="/vendors/lg/css/lightgallery.min.css">
-	{{ end }}
 
-	<script src="https://kit.fontawesome.com/89e7208679.js" crossorigin="anonymous"></script>
-	{{ if not site.IsServer }}
+{{ if partialCached "huge/env/IsProduction" "IsProduction" }}
 	{{ partial "googletag" (dict "where" "top") }}
-	{{ end }}
-	{{ template "_internal/google_analytics_async.html" . }}
-	{{ if eq (getenv "HUGO_ENV") "production" }}
+	<meta name="google-site-verification" content="D-34ESaUbJz4EnuuYMOxylRvTeEZ34S4WN6Q1Vezzaw" />
 	<meta name="facebook-domain-verification" content="d60r78hv13z9t4u6ynr4pq0bbt5gbz" />
+	{{ template "_internal/google_analytics_async.html" . }}
+{{ end }}
+
+{{ partialCached "huge/styles/tags" (slice "main") "main" }}
+<script defer src="https://unpkg.com/alpinejs@3.9.0/dist/cdn.min.js"></script>
+{{ partialCached "huge/scripts/tags" (slice "main") "main" }}
+{{ with .Params.instantsearch }}
+	{{ $mapKey := "" }}
+	{{ with getenv "GOOGLE_MAP_API" }}
+		{{ $mapKey = . }}
+	{{ else }}
+		{{ with site.Data.env.GOOGLE_MAP_API }}
+			{{ $mapKey = . }}
+		{{ end }}
 	{{ end }}
-	{{ partial "script" "entries" }}
-	{{ with .Params.instantsearch }}
-		{{ partial "tnd-search/instantsearch/tags" (slice .) }}
-	{{ end }}
-</head>
+	<script src="https://maps.googleapis.com/maps/api/js?=js?v=quarterly&key={{ $mapKey }}" type="text/javascript"></script>
+	{{ partial "tnd-search/instantsearch/tags" (slice .) }}
+{{ end }}

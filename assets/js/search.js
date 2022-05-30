@@ -3,7 +3,7 @@ import _ from 'lodash';
 import UrlParams from './common/url-params';
 import Search from './search/Search';
 
-(function($){
+const doSearch = async function() {
     let urlParams = new UrlParams;
     let searchTerm = decodeURIComponent(urlParams.getAllUrlParams().search);
     let resultsOutput = '';
@@ -11,8 +11,9 @@ import Search from './search/Search';
 
     if (searchTerm !== '' && searchTerm !== undefined) {
         // Setup Lunr Search
-        $.getJSON('/index.json', (data) => {
-            let siteIndex = data;
+        fetch('/index.json')
+        .then(response => response.json())
+        .then(data => {
             let idx = lunr(function () {
                 this.ref('uri');
                 this.field('title');
@@ -22,16 +23,16 @@ import Search from './search/Search';
                     this.add(doc)
                 }, this);
             });
-
+    
             let results = idx.search(searchTerm);
-
+    
             results.forEach((result) => {
-                resultsOutput = resultsOutput + search.getSearchResultsTpl(_.find(siteIndex, {'uri': result.ref}));
+                resultsOutput = resultsOutput + search.getSearchResultsTpl(_.find(data, {'uri': result.ref}));
             });
-
-            $('#search-results-output').html(resultsOutput);
-            $('#search-results-count').html(search.getSearchResultCountTpl(results.length, searchTerm));
+            document.getElementById('search-results-output').innerHTML = resultsOutput
+            document.getElementById('search-results-count').innerHTML = search.getSearchResultCountTpl(results.length, searchTerm)
         });
     }
-    
-})(jQuery);
+}
+
+doSearch()

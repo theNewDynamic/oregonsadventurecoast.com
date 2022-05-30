@@ -42,3 +42,7 @@
     color: $white;
     text-decoration: none;
 }
+
+.m-blog-post .share-trigger + .m-share.show{
+    display: block;
+}
