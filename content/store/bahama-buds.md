@@ -1,5 +1,6 @@
 ---
 title: Bahama Buds
+draft: true
 property_description: Helpful and friendly staff to assist with all of your cannabis
   needs. Open daily 9am-9:30pm
 photo_name: "/img/bahama-buds-new.jpg"

@@ -7,9 +7,9 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- photo: "/img/bbq-home-slider-english.jpg"
-  photo_mobile: "/img/mobile-bbq-home-slider-english.jpg"
-  url: "/event/annual-bbq-blues-brews-on-the-bay"
+- photo: "/img/summer-someplace-new-2022.jpg"
+  photo_mobile: "/img/summer-someplace-new-mobile-2022.jpg"
+  url: "/undeveloped-beaches"
   video:
     source: ''
     cover: ''
@@ -88,13 +88,9 @@ seo:
     nature, wildlife, shopping, arts, and more. Your adventure awaits!
   title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
 home_splashes:
-- url: "/event/annual-bbq-blues-brews-on-the-bay"
-  img: "/img/bbq-blues-brews-2048x190-04-22.jpg"
-  alt: Join Us for the BBQ, Blues & Brews this memorial day weekend on Oregon's Adventure
-    Coast
-- img: "/img/spring-getaway-girl-clamming-hero-22.jpg"
+- img: "/img/summer-2022-splash.jpg"
   alt: 'Plan your getaway '
-  url: "/clamming"
+  url: "/adventures"
 
 ---
 We welcome you to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities. We invite you to explore, to discover, to feel, to know…at land’s end, adventure begins. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do. Your vacation will be full of adventure, nature, wildlife, culture, arts and athletics.

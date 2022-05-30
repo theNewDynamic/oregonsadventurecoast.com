@@ -1,6 +1,6 @@
 ---
 title: 'Ready for the 2022 OSAA 3A & 4A Basketball State Tournaments! '
-date: 2022-02-15T05:00:00+00:00
+date: 2022-02-15T05:00:00.000+00:00
 description: 'We are looking forward to pulling out all the stops and welcoming the
   OSAA 3A Basketball State Tournament AND the Class 4A Basketball State Tournament
   event next month! '
@@ -27,7 +27,7 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-warning: false
+warning: true
 warning_copy: ''
 
 ---

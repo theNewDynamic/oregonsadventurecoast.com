@@ -5,12 +5,12 @@ lang: es
 url: es/
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- url: "/event/annual-bbq-blues-brews-on-the-bay"
+- url: ''
   video:
     source: ''
     cover: ''
-  photo_mobile: "/img/mobile-bbq-home-slider-spanish.jpg"
-  photo: "/img/bbq-home-slider-spanish.jpg"
+  photo_mobile: "/img/summer-spanish-hm-mobile-slider-lg-1.jpg"
+  photo: "/img/summer-spanish-hm-slider-lg.jpg"
 welcomeheadline: "¡Bienvenidos a Oregon’s Adventure Coast!"
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
@@ -76,9 +76,9 @@ seo:
     nature, wildlife, shopping, arts, and more. Your adventure awaits!
   title: Planifique sus vacaciones | En Oregon costa de aventuras
 home_splashes:
-- img: "/img/clamming-girl-hero-image-spanish.jpg"
-  alt: Vacaciones De Primavera - Descubra Nuevos Lugares
-  url: "/clamming"
+- img: "/img/summer-2022-splash-spanish.jpg"
+  alt: Descubra Nuevos Lugares
+  url: "/adventures"
 
 ---
 Le damos la bienvenida a las ciudades de Coos Bay, North Bend y Charleston, conocidas en conjunto como Oregon's Adventure Coast. Aquí, el mar se encuentra con la tierra, permitiendo una variedad de experiencias. Lo invitamos a explorar, descubrir, sentir y experimentar. 

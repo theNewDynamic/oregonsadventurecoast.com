@@ -1,3 +1,6 @@
+[functions]
+  directory = "functions"
+  
 [build]
 publish = "public"
 command = "hugo --gc"
@@ -19,7 +22,7 @@ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [dev]
-  functions = "netlify/functions"
+  functions = "functions"
   publish = "public"
   framework = "#custom"
   command = "npm run start"
