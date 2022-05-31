@@ -1,7 +1,7 @@
 ---
 title: 'The Visitor Center Reopens at The South Slough National Estuarine Research
   Reserve! '
-date: 2022-05-25T04:00:00+00:00
+date: 2022-05-25T04:00:00.000+00:00
 description: South Slough National Estuarine Research Reserve (SSNERR) Welcomes Back
   Visitors with Regular Hours, a New Exhibit, and a Calendar of Community Programs!
 image: "/img/South Slough Hike blog-695x322.jpg"
@@ -46,7 +46,9 @@ SSNERR is a natural area and center for coastal education, research, stewardship
 
 ![](/img/south-slough-nerr-blog-695x322-jpg.png)
 
-The Visitor Center, which has interpretive exhibits on coastal ecosystems, plants and animals, cultural history, science, is now open to the public every Tuesday through Saturday, from 10 a.m. to 4 p.m. Restrooms for trail users, interpretive program attendees, and other visitors are open Monday through Saturday, from 8 a.m. to 4 p.m.
+**The Visitor Center, which has interpretive exhibits on coastal ecosystems, plants and animals, cultural history, science, is now open to the public every Tuesday through Saturday, from 10 a.m. to 4 p.m.** Restrooms for trail users, interpretive program attendees, and other visitors are open Monday through Saturday, from 8 a.m. to 4 p.m.
+
+{{< spacer 50 >}}
 
 ### **A New Exhibit!**
 
@@ -55,6 +57,8 @@ As part of a partnership with local Tribes, South Slough NERR is also displaying
 If you haven’t had the opportunity to visit South Slough NERR, we urge you to do so! In addition to exploring the Visitor Center and various hiking trails around South Slough Reserve, adults and children can also take part in [multiple events and classes ](https://www.oregon.gov/dsl/SS/Pages/CommunityClassReg.aspx)scheduled in the coming months. [Guided hikes](https://www.oregon.gov/dsl/SS/Documents/south_slough_brochure_0415.pdf), kayak and canoe trips, birding and other community classes are now open for registration. Many of these events are free. Learn more and register on the South Slough Reserve website.
 
 South Slough NERR is located at 61907 Seven Devils Road Charleston, OR 97420. Go to[ www.oregon.gov](http://www.oregon.gov/dsl/SSNERR/Pages/index.aspx) or call (541) 888-5558 for info.
+
+{{< spacer 50 >}}
 
 ### **More Information**
 
@@ -70,6 +74,8 @@ South Slough NERR is located at 61907 Seven Devils Road Charleston, OR 97420. Go
 
 [South Slough Paddle Map](https://www.oregon.gov/dsl/SS/Documents/PaddleMap_NorthSouth.pdf)
 
+{{< spacer 50 >}}
+
 ### **Related Posts**
 
 [Ten Things People Love About South Slough National Estuarine Research Reserve](https://www.oregonsadventurecoast.com/blog/ten-things-people-love-about-slough-national-estuarine-research-reserve/)
@@ -79,5 +85,7 @@ South Slough NERR is located at 61907 Seven Devils Road Charleston, OR 97420. Go
 [Fourteen Ways to Celebrate Our Beautiful Planet on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/blog/fourteen-ways-to-celebrate-our-beautiful-planet-on-oregon-s-adventure-coast/)
 
 [Find Your Inner Zen on an Oregon’s Adventure Coast Girlfriend’s Getaway](https://www.oregonsadventurecoast.com/blog/find-your-inner-zen-on-an-oregon-s-adventure-coast-girlfriend-s-getaway/)
+
+{{< spacer 100 >}}
 
 There is an adventure for everyone on [Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston](https://oregonsadventurecoast.netlify.com/adventures/). Be sure to book your accommodations in Coos Bay, North Bend, Charleston early by [clicking here](https://www.oregonsadventurecoast.com/lodging/?utm_source=events-march-2022&utm_medium=mailchimp&utm_campaign=+cbnb-newsletter). Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor activities, prime shopping, fine dining, special events, or an evening of entertainment, you will find it here. For more information, please contact the [Coos Bay – North Bend Visitor & Convention Bureau](https://oregonsadventurecoast.netlify.com/contact/).
