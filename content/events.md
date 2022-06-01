@@ -11,6 +11,8 @@ aliases:
 - "/event"
 
 ---
-{{< spacer 100 >}}
+{{< spacer 50 >}}
 
-###
+[Visit our Calendar page](/calendar), for more events happening in Coos Bay, North Bend & Charleston!
+
+{{< spacer 100 >}}
