@@ -7,8 +7,29 @@ description: 'Our State Parks are a wonderful way to experience the best of the 
   to experience pristine coastal forests, seasonal wildflowers, and spectacular ocean
   vistas from atop the rugged cliffs and headlands. '
 image: "/img/oregon-state-parks-celebration-day-blog-695x322-jpg-1.jpg"
-tags: []
-categories: []
+tags:
+- Oregon State Parks
+- " Oregon State Parks Day"
+- State Parks
+- Oregon State Parks Centennial
+- " Free Fishing Weekend"
+- Shore Acres State Park
+- Cape Arago State Park
+- Sunset Bay State Park
+- Oregon Parks and Recreation Department
+- Coos Bay
+- North Bend
+- Charleston Oregon
+- 'Oregon''s Adventure Coast '
+- Travel Coos Bay
+- Travel Oregon
+- Southern Oregon Coast
+- The People's Coast
+- Oregon Coast
+- Oregon Coast Vacation
+- Oregon Coast State Parks
+categories:
+- State Parks & National Lands
 seo:
   title: ''
   description: ''
@@ -18,7 +39,6 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-draft: true
 
 ---
 ### _Oregon State Parks Centennial on State Parks Day Offers Free Parking, Camping (and Fishing) on June 4, 2022!_
@@ -27,6 +47,8 @@ Oregonians are known for our strong opinions, but there IS one thing we all seem
 
 Our State Parks are a wonderful way to experience the best of the outdoors, especially on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston.** We are fortunate to have THREE glorious state parks that offer our visitors the opportunity to experience pristine coastal forests, seasonal wildflowers, and spectacular ocean vistas from atop the rugged cliffs and headlands.
 
+![](/img/state-parks-oregon-coast-1.jpg)
+
 **State Parks Day and the Oregon State Parks Centennial**
 Oregonians (as well as Oregon visitors) love our state parks so much that we’ve designated an entire day to celebrate them! State Parks Day will be celebrated this year on June 4, 2022, with multiple events and service projects throughout the state of Oregon. This year’s celebration is particularly special, as it is the **100 year anniversary of Oregon State Parks!** “State parks are here because Oregonians know our state parks are special. You’ve invested in them, helped care for them and kept them open to all. Thank you,” said OPRD Director Lisa Sumption. “This year’s State Parks Day is even more meaningful in light of our centennial. We hope you will come out and wish Happy 100th Birthday to Oregon State Parks.”
 
@@ -34,13 +56,15 @@ June 4, 2022 will be a celebration of the places Oregonians hold dear: the viewp
 
 And if that's not enough, the ODFW designated the weekend of June 4-5, 2022 as a [Free Fishing Weekend](https://myodfw.com/articles/2022-free-fishing-days-and-events#:\~:text=The%20first%20weekend%20in%20June,Take%20the%20family%20fishing%20page.). That means you won’t need a license to fish, crab or clam anywhere in Oregon!
 
+![](/img/river-fishing-21.jpg)
+
 **State Parks on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**
-We are fortunate to have THREE glorious State Parks on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. No trip to Oregon's Adventure Coast is complete without a visit (or two) to the State Parks (Sunset Bay State Park, Shore Acres State Park, and Cape Arago State Park) along the Cape Arago Highway Loop. With beautiful coastal forests, unique hiking trails, dramatic ocean cliffs, pristine beaches and one-of-a-kind experiences, it’s no wonder that our State Parks are at the top of our visitors’ “Must See” lists.
+We are fortunate to have THREE glorious State Parks on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. No trip to Oregon's Adventure Coast is complete without a visit (or two) to the State Parks (Sunset Bay State Park, Shore Acres State Park, and Cape Arago State Park) along the Cape Arago Highway Loop. With beautiful coastal forests, unique hiking trails, dramatic ocean cliffs, pristine beaches and one-of-a-kind experiences, it’s no wonder that our State Parks are at the top of our visitors’ “Must See” lists.<br>
 
 * **Shore Acres State Park**
-  We’ll begin with the crown jewel of Oregon's South Coast, [Shore Acres State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68). Situated on rugged sandstone cliffs high above the ocean, Shore Acres offers visitors a delightful combination of beautiful natural and man-made features. Grab your binoculars and take in spectacular ocean views, watch one-of-a-kind crashing waves, view migrating whales, as well as seals, sea lions and other wildlife that can be viewed from Simpson Beach, a secluded cove directly beneath Shore Acres. Stroll through lushly planted gardens featuring plants and flowers from all over the world, an Asian inspired pond and two rose gardens. From Thanksgiving through New Year’s Eve, the gardens alight with thousands of colored lights and holiday decorations. To learn more, visit [stateparks.oregon.gov](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=68). Please note, with the exception of service animals, all pets must be kept inside your vehicle when you visit.
+  We’ll begin with the crown jewel of Oregon's South Coast, [Shore Acres State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68). Situated on rugged sandstone cliffs high above the ocean, Shore Acres offers visitors a delightful combination of beautiful natural and man-made features. Grab your binoculars and take in spectacular ocean views, watch one-of-a-kind crashing waves, view migrating whales, as well as seals, sea lions and other wildlife that can be viewed from Simpson Beach, a secluded cove directly beneath Shore Acres. Stroll through lushly planted gardens featuring plants and flowers from all over the world, an Asian inspired pond and two rose gardens. From Thanksgiving through New Year’s Eve, the gardens alight with thousands of colored lights and holiday decorations. To learn more, visit [stateparks.oregon.gov](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=68). Please note, with the exception of service animals, all pets must be kept inside your vehicle when you visit.<br>
 * **Cape Arago State Park**
-  Positioned at the end of Cape Arago Highway (about 15 miles southwest of Coos Bay), [Cape Arago State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=66) is a scenic destination where visitors can scan the horizon for migrating whales and other marine mammals, as well as fishing boats and ships entering and leaving nearby Coos Bay. The south cove trail leads to a sandy beach and beautiful tide pools abundant with intertidal plants and marine life (please enjoy them with your eyes only). The north cove trail provides access to fishing, beachcombing, and viewing the off-shore colonies of seals and sea lions at Shell Island -- a designated National Wildlife Refuge. The trail is closed March 1- June 30 to protect seal pups. Picnic tables, restrooms and gazebo shelter are available for daytime use.
+  Positioned at the end of Cape Arago Highway (about 15 miles southwest of Coos Bay), [Cape Arago State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=66) is a scenic destination where visitors can scan the horizon for migrating whales and other marine mammals, as well as fishing boats and ships entering and leaving nearby Coos Bay. The south cove trail leads to a sandy beach and beautiful tide pools abundant with intertidal plants and marine life (please enjoy them with your eyes only). The north cove trail provides access to fishing, beachcombing, and viewing the off-shore colonies of seals and sea lions at Shell Island -- a designated National Wildlife Refuge. The trail is closed March 1- June 30 to protect seal pups. Picnic tables, restrooms and gazebo shelter are available for daytime use.<br>
 * **Sunset Bay State Park**
   Located in most scenic areas on the Oregon coast, [Sunset Bay State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70) is protected by towering sea cliffs and features beautiful sandy beaches, amazing tide pools, picnic facilities, restrooms, and campgrounds. Sunset Bay is a favorite among locals and visitors alike for water recreation, camping, hiking trails, peaceful beach walks, stunning vistas. At low tide, 1200–year-old remnants of ancient coastal forests become visible in the sandy bottom of Sunset Bay. For [Explore the Cape Arago Beach Loop | Oregon's Adventure Coast](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop) camping details, call 541.888.4902 or 1.800.551.694 or visit [stateparks.oregon.gov](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=70) for more information.
 
