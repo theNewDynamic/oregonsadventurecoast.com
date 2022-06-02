@@ -88,13 +88,17 @@ const facets = {
       label: 'Hotels, Motels & Inns'
     },
     {
+      id: 'Bed & Breakfasts',
+      label: 'Bed & Breakfasts'
+    },
+    {
       id: 'RV Parks & Camping',
       label: 'RV Parks & Camping'
     },
     {
       id: 'Vacation Rental Homes',
       label: 'Vacation Rental Homes'
-    },
+    }
   ],
   'categories_dining': [
     'American',
