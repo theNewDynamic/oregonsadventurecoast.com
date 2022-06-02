@@ -24,9 +24,7 @@
 <meta name="msapplication-square150x150logo" content="mstile-150x150.png">
 <meta name="msapplication-wide310x150logo" content="mstile-310x150.png">
 <meta name="msapplication-square310x310logo" content="mstile-310x310.png">
-{{ if templates.Exists "partials/tnd-seo/tags.html" }}
-	{{ partial "tnd-seo/tags.html" . }}
-{{ end }}
+{{ partialCached "huge/seo/tags" . }}
 
 {{ with .Params.forestry_instant_preview_id }}
 <meta name="forestry:prevID" value="{{ . }}">
