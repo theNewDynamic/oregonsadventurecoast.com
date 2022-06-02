@@ -1,9 +1,15 @@
+github.com/theNewDynamic/huge v0.1.5 h1:lcEW40qYaSxmYZpAa+2nCOLnz/kerCiR0NoIw3j+Mpc=
+github.com/theNewDynamic/huge v0.1.5/go.mod h1:wZCHbuGglX7Iwa2xbJ/FcDIUzUsMGW6CyLboOp5iKR8=
 github.com/theNewDynamic/hugo-module-tnd-env v0.0.0-20210512181247-90dd1a287016 h1:XyiWr6/Maqb64OoEnnZlOVebbJnzGdE9XXuhDgvchBY=
 github.com/theNewDynamic/hugo-module-tnd-env v0.0.0-20210512181247-90dd1a287016/go.mod h1:IKV0f84Fz5bzRjWzq8vlwO3EdDe0yog//Fqx1QnddZU=
 github.com/theNewDynamic/hugo-module-tnd-func v0.0.0-20210316194241-a6d99cfae5a6 h1:ml2d8bfTjJP9+XkNUwuayb6b461nmJOOcBIiE7/+RRU=
 github.com/theNewDynamic/hugo-module-tnd-func v0.0.0-20210316194241-a6d99cfae5a6/go.mod h1:Fdh6YRjGcYtxRneIRINEtlRbjPv7B8rqVRo6Ug+ynwA=
 github.com/theNewDynamic/hugo-module-tnd-icons v0.1.7 h1:1zV9krMjEOnEUB1iPpHnZ/Rk+FBPd79cWUdd/0abJrs=
 github.com/theNewDynamic/hugo-module-tnd-icons v0.1.7/go.mod h1:5P8x9n4dAq+JChj5o0nUsF5G3ucNQglFoeAn5c1Me9A=
+github.com/theNewDynamic/hugo-module-tnd-imgix v0.2.2 h1:QyvV5FgRFNX6ZbMkB9uE2b5lnoCzVWlWSfM+ic1fYGc=
+github.com/theNewDynamic/hugo-module-tnd-imgix v0.2.2/go.mod h1:6P3SwYL7H/KccxwrB7BDl+wJW2qzaLTnVDf9m+Uj/Uo=
+github.com/theNewDynamic/hugo-module-tnd-media v0.0.0-20220330175441-4aeb80c7e616 h1:GpFzF5XI8aiC3Wce6rhIcV8/XFI8qmJ1v49TyewkeOI=
+github.com/theNewDynamic/hugo-module-tnd-media v0.0.0-20220330175441-4aeb80c7e616/go.mod h1:5kGUg8NNAfXvsiXl2y910hJEjMkfQbmO1m1vXcehZiA=
 github.com/theNewDynamic/hugo-module-tnd-search v0.2.4 h1:fNqsTx5zHkKH07joemmjkkN2mNitHV2k2gPoTVj/IZs=
 github.com/theNewDynamic/hugo-module-tnd-search v0.2.4/go.mod h1:ALY3j5/mYy5M/cXzQrbOVpAP4CiSO4L4AHc6rORONkk=
 github.com/theNewDynamic/hugo-module-tnd-seo v0.1.6/go.mod h1:VY3Qvzif9T0Z0rjR85ufUQE1wrS/M5VZC9Dx1V8Vo8Y=

@@ -21,7 +21,6 @@
     margin-left: auto;
     margin-right: auto;
     @include medium {
-        display: none;
         width: 50%;
         background-color: #f0f0f0;
         max-width: 50%;
@@ -300,3 +299,10 @@ a.emergency{
     text-transform: uppercase;
     text-decoration: none;
 }
+
+@media (min-width: $medium) {
+    #main-nav[style]{
+        display: block !important;
+    }
+}
+[x-cloak] { display: none !important; }

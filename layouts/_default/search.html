@@ -16,6 +16,6 @@
 
 {{ end }}
 
-{{ define "footerJs" }}
-{{ partial "script" "search" }}
+{{ define "head-additions" }}
+{{ partialCached "huge/scripts/tags" (slice "search") "search" }}
 {{ end }}

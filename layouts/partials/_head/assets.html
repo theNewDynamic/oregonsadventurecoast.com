@@ -1,4 +1,0 @@
-{{ $sass := resources.Get "sass/main.scss" }}
-{{ $style := $sass | toCSS | minify | fingerprint}}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}">
-<meta name="google-site-verification" content="D-34ESaUbJz4EnuuYMOxylRvTeEZ34S4WN6Q1Vezzaw" />

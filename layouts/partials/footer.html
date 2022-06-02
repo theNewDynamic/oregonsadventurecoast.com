@@ -65,9 +65,3 @@
 		</div>
 	</div>
 </div>
-
-<!-- optimize these -->
-{{ range slice "app" "/vendors/jquery.min.js" "main" }}
-	{{ partial "script" . }}
-{{ end }}
-

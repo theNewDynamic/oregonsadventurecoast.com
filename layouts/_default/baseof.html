@@ -4,7 +4,10 @@
   {{ $lang = . }}
 {{ end }}
 <html lang="{{ $lang }}">
+  <head>
   {{ partial "head" . }}
+  {{ block "head-additions" . }}{{ end }}
+  </head>
   <body x-data="{ displayFilters: false }" :class="displayFilters ? 'overflow-hidden' : ''">
     {{ partial "hd" . }}
     {{ if eq $.Type "products" }}

@@ -5,10 +5,10 @@
 
 {{ with partialCached "func/GetAssetSRC" . . }}
   <script 
-    type="text/javascript" src="{{ .js }}"
+    type="text/javascript" src="{{ .RelPermalink }}"
     defer
     crossorigin="anonymous"
-    {{ with .jsIntegrity }}
+    {{ with .Data.Integrity }}
     integrity="{{ . }}"
     {{ end }}
   ></script>
@@ -23,8 +23,7 @@
       {{ end }}
     {{ end }}
     <script defer src="https://unpkg.com/alpinejs@3.9.0/dist/cdn.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?=js?v=quarterly&key={{ $mapKey }}"
-    type="text/javascript"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?=js?v=quarterly&key={{ $mapKey }}" type="text/javascript"></script>
   {{ else }}
     <script type="text/javascript" src="{{ . }}" ></script>
   {{ end }}

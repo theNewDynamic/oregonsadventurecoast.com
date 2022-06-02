@@ -1,0 +1,43 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+
+{{/* First condition makes sure a specifif SEO Image has not been set */}}
+{{ with .Page.Params.seo.image }}{{ else }}
+  {{ $image := false }}
+  {{/* Potential parameter to be used as seo image are:
+    1. .image */}}
+  {{ with .Page.Params.image }}
+    {{ $image = . }}
+  {{ else }}
+    {{/* .photo */}}
+    {{ with .Page.Params.photo }}
+      {{ $image = . }}
+    {{ else }}
+      {{ if eq .Type "event" }}}}
+        {{/* .mediumphotobox */}}
+        {{ with .Page.Params.mediumboxphoto }}
+          {{ $image = . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ with $image }}
+    {{- $s.SetInMap "data" "image" (. | absURL ) -}}
+  {{ end }}
+{{ end }}
+
+{{ if .Page.IsHome }}
+  {{ with site.GetPage "index-es" }}
+    {{ $s.SetInMap "data" "translations" (slice (dict "code" "es" "permalink" .Permalink)) }}
+  {{ end }}
+{{ end }}
+
+{{ with .Page.Params.lang }}
+  {{ if eq . "es" }}
+  {{ $s.SetInMap "data" "translations" (slice (dict "code" "en" "permalink" site.Home.Permalink)) }}
+  {{ end }}
+{{ end }}
+
+{{/* Merge is important here as we want to overwrite the default data model with user's edits */}}
+{{ return $s.Get "data" }}
