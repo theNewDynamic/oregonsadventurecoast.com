@@ -12,7 +12,6 @@
   },
   "scripts": {
     "index": "node tools/lunr-run.js",
-    "build": "run-s deploy:assets build:hugo",
     "deploy": "HUGO_ENV=production bin/hugo* -e skip-json -F --gc --minify --cleanDestinationDir",
     "start": "HUGO_ENV=development bin/hugo* server -F -D --navigateToChanged --noHTTPCache"
   },

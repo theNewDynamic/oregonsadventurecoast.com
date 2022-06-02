@@ -1,4 +1,3 @@
-console.log("have js")
 menu_items = document.querySelectorAll(".m-standard-nav li").forEach(item => {
   if (window.location.href.indexOf(item.getAttribute('data-taxonomyname')) !== -1) {
     item.classList.add('active')
