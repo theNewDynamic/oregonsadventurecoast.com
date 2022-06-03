@@ -58,7 +58,7 @@ Join the Coos History Museum for music, food, dancing, drumming, arts, crafts, a
 Visit the site of the new Beaver Hill Mine Historical Marker in Coquille, OR and learn about the unique historic nature of coal mining in Oregon and the diversity of miners at the site.
 
 **Guinean Dance Master Class** - 11am-12:30pm - at the Pacific School of Dance  
-Learn from instructor Alseny Yansane about traditional Guidean dance. Registration required. More info coming soon.
+Learn from instructor Alseny Yansane about traditional Guidean dance. [Registration required](https://cooshistory.org/events/guinean-dance-master-class/). (registration form on left side of this page)
 
 **Juneteenth Food Demonstration** - 11am-1pm  
 Watch, taste, and learn about the delicious foods prepared by Jamar Ruff from Coos Head Co-Op and Chef Jardin Kazaar from Black Market Gourmet featuring traditional Juneteenth dishes.
