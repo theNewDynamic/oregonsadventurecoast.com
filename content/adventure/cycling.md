@@ -39,7 +39,7 @@ Whether you take to the road, fat bike on the beach, or careen around single-tra
 
 ![](/img/mountain-biking-whiskey-run-turn-blog-695x322.jpg)
 
-{{< spacer 30 >}} [![Trail Map for Whiskey Run Mountain Biking Trail](/img/whiskeyrun-map-button-695x125.jpg)](/img/whiskey-run-pocket-map-06-22-final.pdf)
+{{< spacer 20 >}} [![Trail Map for Whiskey Run Mountain Biking Trail](/img/whiskeyrun-map-button-695x125.jpg)](/img/whiskey-run-pocket-map-06-22-final.pdf)
 
 ## Whiskey Run Mountain Biking Trail
 
