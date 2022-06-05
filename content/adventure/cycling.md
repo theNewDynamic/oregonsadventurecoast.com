@@ -49,7 +49,7 @@ These professionally built trails are made to withstand the coast's weather, so 
 
 Need to rent a mountain bike or want a guided tour of the trails? Check out [Whiskey Run Rentals](https://www.whiskeyrunrentals.com/)!
 
-[![Trail Map for Whiskey Run Mountain Biking Trail](/img/whiskeyrun-map-button-695x125.jpg)](/img/whiskey-run-pocket-map-06-22-final.pdf)
+[![Trail Map for Whiskey Run Mountain Biking Trail](/img/whiskeyrun-map-button-695x125.jpg)](https://oregonsadventurecoast.com/img/whiskey-run-pocket-map-06-22-final.pdf)
 {{< spacer 25 >}}
 
 {{< youtube "Z-83k7KWCEM" >}}
