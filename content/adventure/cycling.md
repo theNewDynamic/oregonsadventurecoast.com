@@ -38,7 +38,8 @@ Whether you take to the road, fat bike on the beach, or careen around single-tra
 {{< spacer 50 >}}
 
 ![](/img/mountain-biking-whiskey-run-turn-blog-695x322.jpg)
-[![Trail Map for Whiskey Run Mountain Biking Trail](/img/whiskeyrun-map-button-695x125.jpg)](/img/whiskey-run-pocket-map-06-22-final.pdf)
+
+{{< spacer 30 >}} [![Trail Map for Whiskey Run Mountain Biking Trail](/img/whiskeyrun-map-button-695x125.jpg)](/img/whiskey-run-pocket-map-06-22-final.pdf)
 
 ## Whiskey Run Mountain Biking Trail
 
@@ -49,7 +50,6 @@ Located in an active logging forest, Whiskey Run gives visitors a view of the Co
 These professionally built trails are made to withstand the coast's weather, so when the weather is unfavorable in the Cascades and you want to ride some loam and clay, come on down to the coast. However, please don't ride if the trails are muddy. Check trail reports or call the local shops or guide services.
 
 Need to rent a mountain bike or want a guided tour of the trails? Check out [Whiskey Run Rentals](https://www.whiskeyrunrentals.com/)!
-
 
 {{< spacer 25 >}}
 
