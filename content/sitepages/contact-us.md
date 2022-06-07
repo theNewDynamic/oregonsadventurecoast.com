@@ -30,9 +30,11 @@ Coos Bay, OR 97420
 
 [info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com)
 
-<p> </p>
+{{< spacer 25 >}}
 
 [**FULL STAFF LIST**](https://www.oregonsadventurecoast.com/staff-directory/)
+
+<p> </p>
 
 {{< columns number="3" >}}
 
