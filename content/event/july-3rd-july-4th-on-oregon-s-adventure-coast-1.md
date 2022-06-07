@@ -64,7 +64,7 @@ Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen 
 
 ![](/img/firecrackerlotsrunners-600x398.jpeg "Photo by Tom Hutton, courtesy SCRC")
 
-#### Firecracker Run - 1/2 mile kid’s run and 4K run/walk
+#### Firecracker Run - 1/2 mile kid’s run and 4K run/walk - July 4th 
 
 {{< spacer 15 >}}
 
@@ -83,7 +83,16 @@ Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen 
 
 {{< spacer 25 >}}
 
-**More information coming soon on other July 4th Activities to be held in Mingus Park.**
+#### **Mingus Park Fun - July 4th**
+
+Organizers are planning several fun events throughout the day in Mingus Park. Here are just a few of the great events planned:
+
+* Boy Scouts Fundraiser Hamburger Stand
+* Coos County Posse and their horses
+* Coos County Forest Protective Services with Smokey the Bear!
+* ODFW Fishing
+* Front Street Community Bike Works
+* And many more!
 
 {{< spacer 25 >}}
 
