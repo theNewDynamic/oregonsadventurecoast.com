@@ -22,8 +22,8 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 **Currently, the VCB Board of Directors are:**
 
-* **Mark Mattecheck**, North Bend Lanes and Chamber Representative, Chair
-* **Lucinda DiNovo**, The Mill Casino and Coquille Indian Tribe Representative, Vice Chair
-* **Rodger Craddock**, Coos Bay City Manager, The City of Coos Bay Representative
+* **Lucinda DiNovo**, The Mill Casino and Coquille Indian Tribe Representative, Chair
+* **Rodger Craddock**, Coos Bay City Manager, The City of Coos Bay Representative, Vice Chair
 * **Larry Garboden**, North Bend City Councilor, The City of North Bend Representative
-* **Joseph Monahan**, Best Western Holiday Hotel and Lodging Industry Representative
+* **Mark Mattecheck**, North Bend Lanes, Bay Area Chamber Representative
+* **Joseph Monahan**, Best Western Holiday Hotel, Lodging Industry Representative
