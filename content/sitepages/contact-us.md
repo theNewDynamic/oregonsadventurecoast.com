@@ -32,6 +32,8 @@ Coos Bay, OR 97420
 
 <p> </p>
 
+[**FULL STAFF LIST**](https://www.oregonsadventurecoast.com/staff-directory/)
+
 {{< columns number="3" >}}
 
 **Coos Bay Visitor**  
@@ -49,9 +51,7 @@ North Bend, OR 97459
 [Email Us](mailto:nbinfo@northbendcity.org)  
 (541) 756-4613
 
-**Note: Due to COVID, the North Bend Visitor Center is Temporarily Closed.**
-
-Find information, maps, public restrooms and public computer. Located adjacent to Simpson Park. Open Tuesday-Sunday. Our visitor centers are happy to [mail you visitor information](https://www.oregonsadventurecoast.com/contact/#contactform) or [relocation information](https://www.oregonsadventurecoast.com/relocation-info-request/#relocationform) upon request.
+Find information, maps, public restrooms and public computer. Located adjacent to Simpson Park. Our visitor centers are happy to [mail you visitor information](https://www.oregonsadventurecoast.com/contact/#contactform) or [relocation information](https://www.oregonsadventurecoast.com/relocation-info-request/#relocationform) upon request.
 
 divider
 
