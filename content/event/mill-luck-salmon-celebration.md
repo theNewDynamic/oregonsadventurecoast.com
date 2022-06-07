@@ -56,7 +56,7 @@ The Festival is located in the south parking lot outside **The Mill Casino • H
 
 **FRIDAY, SEPTEMBER 9**
 
- 7:30 PM  - Fire Lighting Ceremony With Coquille Tribal Chief Dr. Jason Younker (Fire Pit – South End of the Hotel)
+**7:30 PM**  - Fire Lighting Ceremony With Coquille Tribal Chief Dr. Jason Younker (Fire Pit – South End of the Hotel)
 
 {{< spacer 25 >}}
 
@@ -64,7 +64,7 @@ The Festival is located in the south parking lot outside **The Mill Casino • H
 
 **11:00 AM – 5:00 PM** - Traditional Salmon Bake Meal (Salmon Pit)  - South End of the Hotel
 
- **10:00 AM – 12:00 PM**  - CANOE RACES
+**10:00 AM – 12:00 PM** - CANOE RACES
 
 * Opening Prayer 
 * Traditional Dugout Canoes
@@ -74,7 +74,7 @@ The Festival is located in the south parking lot outside **The Mill Casino • H
 * Men’s Division 
 * Mixed Division (Adults and Youth Mixed)
 
-**10:00 AM – 5:00 PM** - NATIVE VENDORS, ARTISANS & DEMONSTRATIONS  – South End of the Hotel 
+**10:00 AM – 5:00 PM** - NATIVE VENDORS, ARTISANS & DEMONSTRATIONS  - South End of the Hotel  
 
 * Demonstrations
 *  Tribal Elders Frybread Booth 
