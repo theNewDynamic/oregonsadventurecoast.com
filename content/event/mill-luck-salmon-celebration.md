@@ -56,61 +56,61 @@ The Festival is located in the south parking lot outside **The Mill Casino • H
 
 **FRIDAY, SEPTEMBER 9**
 
-**7:30 PM**  - Fire Lighting Ceremony With Coquille Tribal Chief Dr. Jason Younker (Fire Pit – South End of the Hotel)
+**7:30 PM** - Fire Lighting Ceremony With Coquille Tribal Chief Dr. Jason Younker (Fire Pit – South End of the Hotel)
 
 {{< spacer 25 >}}
 
-**SATURDAY, SEPTEMBER 10** 
+**SATURDAY, SEPTEMBER 10**
 
-**11:00 AM – 5:00 PM** - Traditional Salmon Bake Meal (Salmon Pit)  - South End of the Hotel
+**11:00 AM – 5:00 PM** - Traditional Salmon Bake Meal (Salmon Pit) - South End of the Hotel
 
 **10:00 AM – 12:00 PM** - CANOE RACES
 
-* Opening Prayer 
+* Opening Prayer
 * Traditional Dugout Canoes
-*  Journey Canoes 
+* Journey Canoes
 * Youth Division
-*  Women’s Division 
-* Men’s Division 
+* Women’s Division
+* Men’s Division
 * Mixed Division (Adults and Youth Mixed)
 
-**10:00 AM – 5:00 PM** - NATIVE VENDORS, ARTISANS & DEMONSTRATIONS  - South End of the Hotel  
+**10:00 AM – 5:00 PM** - NATIVE VENDORS, ARTISANS & DEMONSTRATIONS - South End of the Hotel 
 
 * Demonstrations
-*  Tribal Elders Frybread Booth 
-* Flint Knapping Demonstration and Participation 
-* Weaving Demonstration and Participation 
-* Beading Demonstration and Participation 
+* Tribal Elders Frybread Booth
+* Flint Knapping Demonstration and Participation
+* Weaving Demonstration and Participation
+* Beading Demonstration and Participation
 * ODFW Live Salmon Display
-*  Children’s Activities
+* Children’s Activities
 
 {{< spacer 25 >}}
 
-**ENTERTAINMENT TENT** 
+**ENTERTAINMENT TENT**
 
 * **10:00 AM** Native American Dancing & Drum Groups
-*  **12:00 PM** Native Flute 
-* **1:00 PM** Canoe Race Awards 
-* **1:30 PM** Native American Dancing & Drum Groups 
-* **2:30 PM** Native Flute 
+* **12:00 PM** Native Flute
+* **1:00 PM** Canoe Race Awards
+* **1:30 PM** Native American Dancing & Drum Groups
+* **2:30 PM** Native Flute
 * **3:30 PM** Native American Dancing & Drum Groups
 
 {{< spacer 50 >}}
 
-**SUNDAY, SEPTEMBER 11** 
+**SUNDAY, SEPTEMBER 11**
 
-**11:00 AM – 4:00 PM** - Traditional Salmon Bake Meal (Salmon Pit)  - South End of the Hotel
+**11:00 AM – 4:00 PM** - Traditional Salmon Bake Meal (Salmon Pit) - South End of the Hotel
 
-**11:00 AM**   - CANOE EXHIBITION 
+**11:00 AM** - CANOE EXHIBITION
 
-**11:00 AM – 4:00 PM** - NATIVE VENDORS, ARTISANS & DEMONSTRATIONS  – South End of the Hotel
+**11:00 AM – 4:00 PM** - NATIVE VENDORS, ARTISANS & DEMONSTRATIONS – South End of the Hotel
 
 {{< spacer 25 >}}
 
-**ENTERTAINMENT TENT** 
+**ENTERTAINMENT TENT**
 
-* **11:00 AM** Native Flute 
+* **11:00 AM** Native Flute
 * **12:00 PM** Native American Dancing & Drum Groups
-*  **1:30 PM** Native Flute 
-* **2:00 PM** Native American Dancing & Drum Groups 
+* **1:30 PM** Native Flute
+* **2:00 PM** Native American Dancing & Drum Groups
 * **2:30 PM** Release the Salmon into the Bay – ODFW (Beach Area)
