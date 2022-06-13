@@ -11,6 +11,7 @@ seo:
 aliases: []
 accordion_sections: []
 boxes: []
+ctas: []
 
 ---
 ## {{% colortext color="e10000" %}}Dial 911{{% /colortext %}} If this is an emergency
@@ -43,24 +44,22 @@ No appointment is necessary; just drop in and you’ll find:
 
 divider
 
-#### Nova Urgent Care
+#### BestMed Urgent & Primary Care
 
 1226 Virginia Ave  
 North Bend, OR, 97459  
 541-305-4224  
-[https://www.novahealth.com/locations/nova-health-north-bend/](https://www.novahealth.com/locations/nova-health-north-bend/ "www.novahealth.com/locations/nova-health-north-bend/")
+[https://www.bestmedclinics.com/oregon/find-a-clinic/north-bend/](https://www.bestmedclinics.com/oregon/find-a-clinic/north-bend/ "https://www.bestmedclinics.com/oregon/find-a-clinic/north-bend/")
 
-**Nova Urgent Care** is a comprehensive provider of quality urgent care, primary care, physical therapy, and musculoskeletal services. 
+**BestMed Urgent Care** is a comprehensive provider of quality urgent care, primary care, physical therapy, and musculoskeletal services.
 
 **Hours:**  
-8 am to 7 pm Monday – Friday  
-9 am to 5 pm Saturday
+8 am to 8 pm Daily
 
-All **Nova Urgent Care** locations accept walk-ins, including for COVID-19 testing. No appointment or referral required.
+All **BestMed Urgent Care** locations accept walk-ins, including for COVID-19 testing. No appointment or referral required.
 
 {{< /columns >}}
 
-  
 {{< columns number="2" >}}
 
 ![](/img/bay-area-hospital.jpg)
