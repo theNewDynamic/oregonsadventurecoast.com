@@ -22,7 +22,7 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 {{< spacer 25 >}}
 
 * **THE VCB IS SOLELY FUNDED THROUGH LODGING TAXES COLLECTED BY COMMERCIAL LODGING PROPERTIES WITHIN THE CITY LIMITS OF COOS BAY AND NORTH BEND, AND AT THE COQUILLE INDIAN TRIBE PROPERTIES.** _The lodging tax rate is 9.5%_
-* **The VCB receives a portion of the lodging tax funds collected by the three IGA partners, equating to approximately 39% of all lodging taxes collected, to accomplish its goals. The three taxing entities retain the remaining lodging taxes**
+* **The VCB receives a portion of the lodging tax funds collected by the three IGA partners, equating to approximately 39% of all lodging taxes collected, to accomplish its goals.** The three taxing entities retain the remaining lodging taxes.
 * **The VCB is restricted on what projects/expenditures it can spend this lodging tax funding by State of Oregon Law**
 
 {{< spacer 25 >}}
@@ -32,7 +32,7 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 1. Tourism Promotion and Marketing to encourage visitors to the destination and the administrative costs to accomplish this.
 2. Tourism Facilities, such as a Visitor Information Center (VIC) or Conference Center, and the associated costs to manage such facilities.
 
-{{< spacer 25 >}}
+{{< spacer 50 >}}
 
 **THE VCB’s OVERALL BUDGET IS SPLIT BETWEEN TWO DEPARTMENTS: THE VCB (PROMOTIONS) AND THE VIC (TOURISM FACILITIES).**
 
