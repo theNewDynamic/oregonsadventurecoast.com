@@ -17,7 +17,7 @@ was created through an Intergovernmental Agreement (IGA) between the City of Coo
 
 The VCB’s primary mission is to promote the Coos Bay, North Bend & Charleston areas as **_Oregon’s Adventure Coast_** to encourage tourism to the area, and, therefore, economic vitality from tourism.
 
-As per the IGA, the Board of Directors of the VCB is made up of one (1) representative from each of the IGA Partners, plus one (1) Chamber of Commerce representative and one (1) Lodging Industry representative. **Click here for more information about the VCB Board.**
+As per the IGA, the Board of Directors of the VCB is made up of one (1) representative from each of the IGA Partners, plus one (1) Chamber of Commerce representative and one (1) Lodging Industry representative. [**Click here for more information about the VCB Board**]()**.**
 
 {{< spacer 25 >}}
 
@@ -34,16 +34,12 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 {{< spacer 25 >}}
 
-**THE VCB’s OVERALL BUDGET IS SPLIT BETWEEN TWO DEPARTMENTS: THE VCB (PROMOTIONS) AND THE VIC (TOURISM FACILITIES).** 
+**THE VCB’s OVERALL BUDGET IS SPLIT BETWEEN TWO DEPARTMENTS: THE VCB (PROMOTIONS) AND THE VIC (TOURISM FACILITIES).**
 
 **THE VCB's TOURISM PROMOTION BUDGET IS SPLIT BETWEEN PROMOTION AND ADMINISTRATION:**
 
 * BUDGETED EXPENDITURES FOR PROMOTION/MARKETING/ADVERTISING FOR FISCAL YEAR 2023 TOTALS $771,000 or approximately 76% of our budget
-
-
 * BUDGETED EXPENDITURES FOR ADMINISTRATION TOTALS $251,100 or approximately 24%
-
-
 * TOTAL BUDGET FOR THE VCB DEPARTMENT = $1,022,100
 
 {{< spacer 50 >}}
@@ -54,6 +50,6 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 {{< spacer 50>}}
 
-**THE VCB’s TOTAL BUDGET FOR FISCAL YEAR 2023 IS $1,226,200** 
+**THE VCB’s TOTAL BUDGET FOR FISCAL YEAR 2023 IS $1,226,200**
 
 Some funding is set aside for Contingency (approximately $100,000), as well.
