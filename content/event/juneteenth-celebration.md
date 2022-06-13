@@ -86,7 +86,7 @@ Join the Coos History Museum for music, food, dancing, drumming, arts, crafts, a
 Listen to the acoustic jazzy and soulful duo of Allison Scull and Victor Martin, featuring guitar, saxophone, and vocals, in a fusion of jazz, folk, blues, and a little funk.
 
 **A Snippet of the Story Art Class** - 1pm-4pm  
-Create artwork alongside Josie Keating from Josie's Art Lab with a class inspired by African American artist Kara Walker. In the Sprague Gallery. Registration required. More info coming soon.
+Create artwork alongside Josie Keating from Josie's Art Lab with a class inspired by African American artist Kara Walker. In the Sprague Gallery. [Registration required](https://cooshistory.org/events/snippet-of-the-story-art-class/). (registration form on left side of this page)
 
 **"The Visit" on the Plaza** - 2pm-4pm  
 Enjoy an interactive performance called "The Visit" provided by local artists Madi Christina Barrena and Michael Somers featuring piano and double bass, focused on music and composers who influenced jazz and American popular music. Selections from Scott Joplin, George Gershwin, Cole Porter and Duke Ellington.
