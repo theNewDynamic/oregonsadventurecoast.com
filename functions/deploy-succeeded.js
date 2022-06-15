@@ -45,13 +45,16 @@ exports.handler = async function(event, context) {
         return response.json()
       }
     })
-    const deleteResponse = await index.deleteAllDocuments()
-    deleteOuput = {
-      type: 'deleteAllDocuments',
-      response: deleteResponse,
-      index: app.id,
+    if(false) {
+      // Removing this for now...
+      const deleteResponse = await index.deleteAllDocuments()
+      deleteOuput = {
+        type: 'deleteAllDocuments',
+        response: deleteResponse,
+        index: app.id,
+      }
+      successes.push(deleteOuput)
     }
-    successes.push(deleteOuput)
     // If the index 'movies' does not exist, MeiliSearch creates it when you first add the documents.
 
     let response = await index.addDocuments(documents)
