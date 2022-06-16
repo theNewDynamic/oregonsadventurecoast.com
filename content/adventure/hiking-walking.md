@@ -38,8 +38,12 @@ accordion_sections:
 
       1 mile loops in North Bend city park with disk golf, playground and other amenities.
 
+      #### [**Sawmill & Tribal Trail**](img/SawmillTribalTrail_BROCHURE-sm.pdf)
+
+      The Sawmill & Tribal Trail can be accessed from many points around town, so check out as much of it as you have time and energy for. We hope you will enjoy learning more about the colorful past of the Coos Bay and North Bend area.
+
 ---
-## TAKE A HIKE! LITERALLY!
+#### TAKE A HIKE! LITERALLY!
 
 Coos Bay, North Bend and Charleston in Coos County are an adventure waiting to happen. Grab your hiking boots and take in nature. There are many levels of difficulty, so whatever your skill level, we think you’ll find a way to breathe in the fresh air and explore.
 
