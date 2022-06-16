@@ -53,7 +53,7 @@ North Bend, OR 97459
 [Email Us](mailto:nbinfo@northbendcity.org)  
 (541) 756-4613
 
-Find information, maps, public restrooms and public computer. Located adjacent to Simpson Park. Our visitor centers are happy to [mail you visitor information](https://www.oregonsadventurecoast.com/contact/#contactform) or [relocation information](https://www.oregonsadventurecoast.com/relocation-info-request/#relocationform) upon request.
+Find information, maps, public restrooms and public computer. Located adjacent to Simpson Park. Hours vary. 
 
 divider
 
