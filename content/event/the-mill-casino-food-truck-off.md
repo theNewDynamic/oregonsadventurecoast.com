@@ -21,7 +21,8 @@ seo:
   imgalt: 'Mill Casino Food Truck Off '
 
 ---
-{{< floatimage src="img/filename.jpg" float="right" alt="Your Alt Text goes here" size="40" >}}![](/img/food_truck_off_fb-hat.jpg)
+  
+![](/img/food_truck_off_fb-hat.jpg)
 
 #### **Enjoy a 3-day event featuring food trucks, live music and more.**
 
