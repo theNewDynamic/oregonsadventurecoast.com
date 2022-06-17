@@ -82,32 +82,6 @@ This North Bend local favorite offers patrons a great selection of beers, fish a
 
 {{< /columns >}}
 
-{{< columns number="2" >}}
-
-![High Tide Cafe in Charleston, Oregon](/img/ent-high-tide-cafe.jpg)
-
-**High Tide Café**  
-91124 Cape Arago Highway  
-Charleston, OR   97420  
-(541) 888-3664  
-[www.hightidecafeoregon.com](http://hightidecafeoregon.com)
-
-Popular with locals and visitors alike. They offers a mix of great food (some say they serve the best Clam Chowder on Oregon’s South Coast), live music on Thursdays, great happy hour and dinner specials, a beautiful back deck and entertainment options ranging from board games to an eclectic art gallery.
-
-divider
-
-![Gooney's Sports Bar in Coos Bay, Oregon](/img/ent-gooneys.jpg)
-
-**Gooney’s Sports Bar**  
-3290 Ocean Blvd SE  
-Coos Bay, OR 97420  
-(541) 266-8815  
-[www.gooneyssportsbar.com](https://www.gooneyssportsbar.com/)
-
-This Coos Bay bar and restaurant is best known for its friendly and welcoming atmosphere along with great entertainment to go along with its selection of cocktails, beers, burgers, sandwiches, salads, and pizza and more. There is live music every Saturday evening in addition to Karoke throughout the week. By the way, Wednesday Geezer Jam Night is not to be missed!
-
-{{< /columns >}}
-
 <br>
 
 ![](/img/Collage-Two-Images-Bowling.jpg)
