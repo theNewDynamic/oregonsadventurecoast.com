@@ -19,7 +19,6 @@ phone_local: "(541) 756-8800"
 website: https://www.themillcasino.com
 seo:
   imgalt: 'Mill Casino Food Truck Off '
-draft: true
 
 ---
 {{< floatimage src="img/filename.jpg" float="right" alt="Your Alt Text goes here" size="40" >}}![](/img/food_truck_off_fb-hat.jpg)
@@ -28,7 +27,25 @@ draft: true
 
 Bring the whole family to enjoy this great outdoor event. Feast yourself on the goods while the trucks compete in a cook-off for the best in several categories.
 
-#### **More information coming soon!**
+This three-day event will feature up to **20 food trucks from the Pacific Northwest**. Feast yourself on the goods while the trucks compete for the Judges Choice Award. Cast your vote to see which truck will win the People’s Choice Award! All trucks will have at least one $3 sample item available for purchase and will also serve from the entire regular menu.
+
+**Friday, August 5, 2022 - 4 PM – 8 PM**
+
+ **Saturday, August 6, 2022 - 11 AM – 6 PM** 
+
+**Sunday, August 7, 2022 - 12 PM – 4 PM**
+
+Tickets on sale July 15, 2022 in Ko-Kwel Gifts   
+**$5 general admission per day** _(a portion of the entry fee will benefit the Boys & Girls Club of Southwestern Oregon)  
+_Kids 5 and under are Free!
+
+{{< spacer 50 >}}
+
+[Book your stay now!]()
+
+{{< spacer 50 >}}
+
+Interested in Competing?  Email The Mill's [Sales Department](mailto:salesdept@themillcasino.com) for more information
 
 {{< spacer 50 >}}
 
