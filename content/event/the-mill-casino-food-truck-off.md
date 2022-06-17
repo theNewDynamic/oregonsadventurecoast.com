@@ -50,7 +50,7 @@ Kids 5 and under are Free!
 
 {{< spacer 50 >}}
 
-[Book your stay now!]()
+[Book your stay now!](/lodging/)
 
 {{< spacer 50 >}}
 
