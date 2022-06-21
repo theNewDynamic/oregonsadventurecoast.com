@@ -22,7 +22,7 @@ Visitor Services Manager
 [cheryl@oregonsadventurecoast.com](mailto:cheryl@oregonsadventurecoast.com)
 
 **Allison Richards**  
-Marketing Admin  
+Marketing Projects Manager  
 541-269-1181 ext 2304  
 [allison@oregonsadventurecoast.com](mailto:allison@oregonsadventurecoast.com)
 
