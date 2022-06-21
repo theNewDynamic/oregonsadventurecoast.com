@@ -20,11 +20,11 @@ aliases:
 
 **The Board of Directors of the Coos Bay-North Bend Visitor & Convention Bureau meets monthly to discuss VCB projects, set policy, and plan for the future.**
 
-_These meetings are open to the public and are available for attendance in person or for viewing online via Zoom._
+_These meetings are open to the public and are available for attendance in person or for viewing online via Zoom. To attend in person, RSVP is REQUIRED._ 
 
-Board Meetings are generally held in the meeting rooms of [**The Mill Casino * Hotel**](https://www.themillcasino.com/) in the 2nd floor meeting rooms of the hotel property.
+Board Meetings are generally held at  [**The Mill Casino * Hotel**](https://www.themillcasino.com/) in the 2nd floor meeting rooms of the hotel property.
 
-Board Meetings are held on the **2nd Thursday of the month from 8:30 am to approximately 9:45 am**.
+Board Meetings are usually held on the **2nd Thursday of the month from 8:30 am to approximately 9:45 am**.
 
 _On occasion, changes are made to this schedule. To be informed of meeting times/locations,_ [_please ask to be added_](mailto: janice@oregonsadventurecoast.com) _to the **Public Notice** email which goes out the Monday prior to the meeting._
 
@@ -41,4 +41,4 @@ _On occasion, changes are made to this schedule. To be informed of meeting times
 
 We no longer print board packets. However, agendas will be available for those who attend meetings in person.
 
-**Board Packets** will be available in a special [**Google Drive Folder**](https://drive.google.com/drive/folders/1OZvnu7mJjgkQspZnEG-Ab3wPahsx0O-Q?usp=sharing)**.** These packets are generally available within two business days of the meeting. Previous monthly packets are available in this folder beginning with January 2022.
+**Board Packets** are available to the public in a special [**Google Drive Folder**](https://drive.google.com/drive/folders/1OZvnu7mJjgkQspZnEG-Ab3wPahsx0O-Q?usp=sharing)**.** These packets are generally available within two business days of the meeting. Previous monthly packets are available in this folder beginning with January 2022.
