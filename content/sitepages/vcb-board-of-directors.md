@@ -1,6 +1,6 @@
 ---
 title: VCB Board of Directors
-url: staff-directory
+url: board-directory
 layout: press-media-industry
 photo: "/img/undeveloped-beaches-sub-header.jpg"
 seo:
