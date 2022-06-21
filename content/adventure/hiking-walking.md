@@ -38,7 +38,7 @@ accordion_sections:
 
       1 mile loops in North Bend city park with disk golf, playground and other amenities.
 
-      #### [**Sawmill & Tribal Trail**](img/SawmillTribalTrail_BROCHURE-sm.pdf)
+      #### [**Sawmill & Tribal Trail**](/img/SawmillTribalTrail_BROCHURE-sm.pdf)
 
       The Sawmill & Tribal Trail can be accessed from many points around town, so check out as much of it as you have time and energy for. We hope you will enjoy learning more about the colorful past of the Coos Bay and North Bend area.
 

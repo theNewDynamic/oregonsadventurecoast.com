@@ -24,7 +24,7 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 #### HOW THE VCB IS FUNDED
 
 * **THE VCB IS SOLELY FUNDED THROUGH LODGING TAXES COLLECTED BY COMMERCIAL LODGING PROPERTIES WITHIN THE CITY LIMITS OF COOS BAY AND NORTH BEND, AND AT THE COQUILLE INDIAN TRIBE PROPERTIES.** _The lodging tax rate is 9.5%._
-* _Residents in Coos County voted in May, 2022 to add a lodging tax in the unincorporated areas of Charleston. Those funds are not yet calculated into the VCB's budget._ [_Click here to see the area included in this taxing district_](img/CH-TLT-map.jpg)_._
+* _Residents in Coos County voted in May, 2022 to add a lodging tax in the unincorporated areas of Charleston. Those funds are not yet calculated into the VCB's budget._ [_Click here to see the area included in this taxing district_](/img/CH-TLT-map.jpg)_._
 * **The VCB receives a portion of the lodging tax funds collected by the three IGA partners, equating to approximately 39% of all lodging taxes collected, to accomplish its goals.** The three taxing entities retain the remaining lodging taxes.
 * **The VCB is restricted on what projects/expenditures it can spend this lodging tax funding by State of Oregon Law**
 
@@ -39,7 +39,7 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 #### FY23 ADOPTED BUDGET
 
-[Click here to see the FY23 Adopted Budget](img/CBNBVCB-FY23-Adopted-budget.pdf)
+[Click here to see the FY23 Adopted Budget](/img/CBNBVCB-FY23-Adopted-budget.pdf)
 
 **THE VCB’s OVERALL BUDGET IS SPLIT BETWEEN TWO DEPARTMENTS: THE VCB (PROMOTIONS) AND THE COOS BAY VIC (TOURISM FACILITIES).**
 
