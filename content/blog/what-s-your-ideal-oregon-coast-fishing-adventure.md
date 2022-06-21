@@ -40,6 +40,8 @@ warning: false
 warning_copy: ''
 
 ---
+_PacificPond Charters and Captain Jeff, pictured here, were great assistance to use on this shoot._
+
 ### _There are plenty of fish in the sea on Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston, and plenty of ways to catch them!_
 
 Fishing is much more than just a sport or a pass time on **Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston**. It’s a way of life. Our communities have a long history of welcoming anglers of all backgrounds and skill levels who have traveled here for world class fishing that can’t be experienced anywhere else. With the bay, ocean, and 30+ freshwater lakes and rivers, our area is a prime destination for all sorts of fishing adventures - whether it’s from the shore, charter boat, jetty, bridge, and even by kayak.
@@ -47,6 +49,12 @@ Fishing is much more than just a sport or a pass time on **Oregon’s Adventure 
 The question is, what’s your [fishing style](https://www.oregonsadventurecoast.com/fishing-by-style/)? Do you prefer [saltwater fishing](http://www.oregonsadventurecoast.com/trip-ideas/saltwater-fishing-ocean-bay/) or [freshwater fishing](http://www.oregonsadventurecoast.com/trip-ideas/fresh-water-fishing-options-by-body-of-water/)? [Crabbing](https://www.oregonsadventurecoast.com/crabbing-clamming/) & [Clamming](https://www.oregonsadventurecoast.com/clamming/)? What about [kayak fishing](https://www.oregonsadventurecoast.com/tripideas/kayak-fishing-on-the-south-coast/)? To help you discover our exhilarating adventures, we have put together a list of different ways to embark on an epic fishing adventure to suit your family, your lifestyle, and the time of year you will be traveling.
 
 _**Unless it is a_ [_Free Fishing Weekend_](https://myodfw.com/articles/2022-free-fishing-days-and-events)_, a fishing license (or a shellfish license for clamming) is required for those aged 12 years or older. Daily licenses are available. Most fishing charters, bait shops and sporting goods stores can supply these for you. You can purchase a shellfish or a fishing license locally in stores like Bi-Mart, Big 5 Sporting Goods, Fred Myer, the ODFW Office (licenses only) in Charleston and Walmart._ [_Click here_](https://www.oregonsadventurecoast.com/fishing-license-requirements/) _to see the fishing license requirement and/or_ [_information about a shellfish license._](https://www.oregon.gov/oda/programs/foodsafety/shellfish/pages/clamsmussels.aspx)_**_
+
+{{< spacer 40 >}}
+
+![](/img/horsefall-37-1024.jpg)
+
+{{< spacer 40 >}}
 
 ### What’s Your Ideal Fishing Adventure?
 
@@ -62,7 +70,13 @@ Deciding on the type of fish you want to catch will play a huge role in where yo
 
 After answering some key questions (like what kind of fish you’re after) and doing a bit of research, you’ll have a good idea of where you want to go.
 
-KAYAK FISHING
+{{< spacer 40 >}}
+
+![](/img/sunsetbay-5-cropped.jpg)
+
+{{< spacer 40 >}}
+
+**KAYAK FISHING**
 
 Kayak fishing offers unsurpassed views of natural habitats and scenery that can only be found deep in the lakes, rivers and open water along the Pacific coastline. Many will say they are drawn to this watersport for its ease and simplicity. Kayak fishing is accessible to all skill levels and does not require expensive equipment. Renting a kayak on Oregon’s Adventure Coast can be done by visiting one or more of these local businesses:
 
@@ -72,11 +86,19 @@ Kayak fishing offers unsurpassed views of natural habitats and scenery that can 
 
 If you are looking for the best spot for kayak fishing, look no further than [Sunset Bay State Park](https://oregonsadventurecoast.com/adventure/state-parks-and-national-lands)! Known for its calm waters and easy access to the beach, Sunset Bay State Park is an ideal location for kayak anglers who want to head offshore into the ocean in search of cabezon, lingcod, and halibut. Other ideal destinations for kayak fishing include Empire Lakes in Coos Bay, Siltcoos or Ten Mile lakes (great for bass, trout and perch); and the Umpqua, Coos or Coquille rivers are perfect detinations for kayakers searching for chinook salmon.
 
-SURF FISHING
+{{< spacer 40 >}}
+
+![](/img/horsefall-4-1024.jpg)
+
+{{< spacer 40 >}}
+
+**SURF FISHING**
 
 If casting your line from shore sounds appealing, you can choose from many locations for [surf fishing,](https://myodfw.com/articles/how-fish-surfperch) including Horsfall Beach, Bastendorff Beach and Cape Arago State Park, where anglers can find striped bass and surf perch. Please note, whenever surf fishing, consult tidal charts, weather conditions, and beware that sneaker waves occur on the Oregon Coast. **REMEMBER TO NEVER TURN YOUR BACK ON THE OCEAN.**
 
-CHARTER BOAT FISHING
+{{< spacer 40 >}}
+
+**CHARTER BOAT FISHING**
 
 Thanks to the many charter boat companies in this area, fishermen of all levels can venture offshore for salmon, halibut, Albacore tuna and various bottom fish – from lingcod, to rockfish, to flatfish. [Charter boat operators](https://www.oregonsadventurecoast.com/tour-guides-and-charters/) can help plan half-day and full-day trips for any size group. Always check the weather before heading out, and familiarize yourself with the tides by checking the following sites:
 
@@ -92,9 +114,13 @@ Here is a list of some of our local companies to get you started:
 * **PacificPond Charters, Charleston, OR.** PacificPond Charters is a small boat sport fishing guide in Charleston, Oregon, led by Captain Jeff, whose mission is to provide a safe and fun environment while targeting trophy size fish in the waters off the Oregon Coast. 541-294-5252 [www.facebook.com/PacificPondCharters](https://www.facebook.com/PacificPondCharters)
 * **Sharky’s Charters, Charleston, OR.** Captain John operates one of the fastest boats in Charleston, a 2016 26 foot North River “Seahawk” outfitted with the latest in electronics and fishing tackle. With over 30 years experience fishing the Pacific coast, you will have a safe, fun, and fact-filled adventure. Currently offering fishing, crab, salmon, and tuna. Sharky’s Charters specializes in small groups and can take up to six people fishing. (541) 260-9110 [https://sharkyscharterfishing.com/](https://sharkyscharterfishing.com/ "https://sharkyscharterfishing.com/")
 
+{{< spacer 40 >}}
+
 Now that you’re in the know, let’s help you plan your next fishing trip to **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**! [Contact us](https://oregonsadventurecoast.com/contact/) to get even more tips, as well as the inside scoop, for finding the best local food and activities any time of the year, and visit our [Adventure Page](https://www.oregonsadventurecoast.com/adventures/) for more ideas and inspiration. [Download our Visitor Guide (PDF)](https://www.oregonsadventurecoast.com/img/Oregon-Coast-Visitor-Guide.pdf)
 
-MORE FISHING RESOURCES ON OREGON’S ADVENTURE COAST
+{{< spacer 40 >}}
+
+**MORE FISHING RESOURCES ON OREGON’S ADVENTURE COAST**
 
 * [Trip Idea: A weekend of fishing and so much more on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/tripideas/a-weekend-of-fishing-and-so-much-more-on-oregon-s-adventure-coast/)
 * [Fishing By Style](https://www.oregonsadventurecoast.com/fishing-by-style/)
