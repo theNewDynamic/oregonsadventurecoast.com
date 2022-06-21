@@ -21,6 +21,8 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 {{< spacer 25 >}}
 
+#### HOW THE VCB IS FUNDED
+
 * **THE VCB IS SOLELY FUNDED THROUGH LODGING TAXES COLLECTED BY COMMERCIAL LODGING PROPERTIES WITHIN THE CITY LIMITS OF COOS BAY AND NORTH BEND, AND AT THE COQUILLE INDIAN TRIBE PROPERTIES.** _The lodging tax rate is 9.5%_
 * **The VCB receives a portion of the lodging tax funds collected by the three IGA partners, equating to approximately 39% of all lodging taxes collected, to accomplish its goals.** The three taxing entities retain the remaining lodging taxes.
 * **The VCB is restricted on what projects/expenditures it can spend this lodging tax funding by State of Oregon Law**
@@ -34,7 +36,11 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 {{< spacer 50 >}}
 
-**THE VCB’s OVERALL BUDGET IS SPLIT BETWEEN TWO DEPARTMENTS: THE VCB (PROMOTIONS) AND THE VIC (TOURISM FACILITIES).**
+#### FY23 ADOPTED BUDGET
+
+[Click here to see the FY23 Adopted Budget](img/CBNBVCB-FY23-Adopted-budget.pdf)
+
+**THE VCB’s OVERALL BUDGET IS SPLIT BETWEEN TWO DEPARTMENTS: THE VCB (PROMOTIONS) AND THE COOS BAY VIC (TOURISM FACILITIES).**
 
 **THE VCB's TOURISM PROMOTION BUDGET IS SPLIT BETWEEN PROMOTION AND ADMINISTRATION:**
 
@@ -42,7 +48,7 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 * BUDGETED EXPENDITURES FOR ADMINISTRATION TOTALS $251,100 or approximately 24%
 * TOTAL BUDGET FOR THE VCB DEPARTMENT = $1,022,100
 
-{{< spacer 50 >}}
+{{< spacer 25 >}}
 
 **THE VCB’S BUDGET FOR TOURISM FACILITIES CURRENTLY COVERS THE COST OF MANAGING THE COOS BAY VISITOR INFORMATION CENTER (VIC).** _The City of Coos Bay remits additional funding to the VCB to cover these costs_.
 
