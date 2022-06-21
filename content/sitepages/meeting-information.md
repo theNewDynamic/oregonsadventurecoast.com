@@ -17,7 +17,7 @@ was created through an Intergovernmental Agreement (IGA) between the City of Coo
 
 The VCB’s primary mission is to promote the Coos Bay, North Bend & Charleston areas as **_Oregon’s Adventure Coast_** to encourage tourism to the area, and, therefore, economic vitality from tourism.
 
-As per the IGA, the Board of Directors of the VCB is made up of one (1) representative from each of the IGA Partners, plus one (1) Chamber of Commerce representative and one (1) Lodging Industry representative. [**Click here for more information about the VCB Board**]()**.**
+As per the IGA, the Board of Directors of the VCB is made up of one (1) representative from each of the IGA Partners, plus one (1) Chamber of Commerce representative and one (1) Lodging Industry representative. [**Click here for more information about the VCB Board**](/board-of-directors/)**.**
 
 {{< spacer 25 >}}
 
