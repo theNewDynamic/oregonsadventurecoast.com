@@ -759,15 +759,17 @@ a.phone-body {
           order: 4; }
         .m-ft .m-ft-links .sections .traveler {
           order: 5; }
-        .m-ft .m-ft-links .sections .guide {
+        .m-ft .m-ft-links .sections .open-meetings {
           order: 6; }
-        .m-ft .m-ft-links .sections .newsletter {
+        .m-ft .m-ft-links .sections .guide {
           order: 7; }
-        .m-ft .m-ft-links .sections .brochure {
+        .m-ft .m-ft-links .sections .newsletter {
           order: 8; }
+        .m-ft .m-ft-links .sections .brochure {
+          order: 9; }
         .m-ft .m-ft-links .sections .social {
           position: relative;
-          order: 9;
+          order: 10;
           max-width: 50%;
           margin: 0;
           padding: 0; }
@@ -1911,6 +1913,9 @@ a.emergency {
   background-image: url("/layout-images/icon-newsletter.png"); }
 
 .m-ft-links .sections .meetings {
+  background-image: url("/layout-images/icon-meetings.png"); }
+
+.m-ft-links .sections .open-meetings {
   background-image: url("/layout-images/icon-meetings.png"); }
 
 .m-ft-links .sections .press {

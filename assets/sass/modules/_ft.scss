@@ -50,18 +50,21 @@
 				.traveler{
 					order:5;
 				}
-				.guide{
-					order:6;
+				.open-meetings{
+					order: 6
 				}
-				.newsletter{
+				.guide{
 					order:7;
 				}
-				.brochure{
+				.newsletter{
 					order:8;
+				}
+				.brochure{
+					order:9;
 				}
 				.social{
 					position: relative;
-					order: 9;
+					order: 10;
 					max-width: 50%;
 					margin: 0;
 					padding: 0;

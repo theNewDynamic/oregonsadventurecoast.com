@@ -84,6 +84,6 @@ open_meetings:
 - url: /board-of-directors
   name: Board Of Directors
   weight: 30
-- url: /meeting-information
+- url: /about-the-vcb
   name: About the VCB
   weight: 40
