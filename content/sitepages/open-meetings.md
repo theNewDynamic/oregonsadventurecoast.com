@@ -26,7 +26,7 @@ Board Meetings are generally held at  [**The Mill Casino * Hotel**](https://www.
 
 Board Meetings are usually held on the **2nd Thursday of the month from 8:30 am to approximately 9:45 am**.
 
-_On occasion, changes are made to this schedule. To be informed of meeting times/locations, [please ask to be added](mailto:janice@oregonsadventurecoast.com) to the **Public Notice** email which goes out the Monday prior to the meeting._
+_On occasion, changes are made to this schedule. To be informed of meeting times/locations,_ [_please ask to be added_](mailto:janice@oregonsadventurecoast.com) _to the **Public Notice** email which goes out the Monday prior to the meeting._
 
 * **Those who wish to attend in person must RSVP** to the [Executive Director](mailto:janice@oregonsadventurecoast.com) to ensure adequate seating and spacing in the meeting room.
 * **Those who wish to attend via Zoom**, are able to do so by clicking on the link in the Agenda for the meeting or by [clicking this link](https://us02web.zoom.us/j/81105093209?pwd=ZTFobnJYWFV0UWdvaXJETktBSmNyZz09). Agendas are posted the week of the meeting on the [**Bay Area Chamber's Calendar of Events**](https://coosbaynorthbendcharlestonchamber.com/events/) and sent with the **Public Notice Announcement**.
