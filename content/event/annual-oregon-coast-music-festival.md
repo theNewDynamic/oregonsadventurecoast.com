@@ -101,9 +101,11 @@ Marshfield High School Auditorium, Coos Bay
 
 {{< spacer 50 >}}
 
+![](/img/or-coast-concert-direction.jpg)
+
 **Saturday, July 30 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
-**OCMA Festival Orchestra Concert II**  - **_Tickets $25 -_** [**_BUY TICKETS_**](https://checkout.square.site/buy/UPPN65MFJZTTXTVALA4LDXME)
+**OCMA Festival Finale Festival Orchestra Concert II**  - **_Tickets $25 -_** [**_BUY TICKETS_**](https://checkout.square.site/buy/UPPN65MFJZTTXTVALA4LDXME)
 
 The concert program includes:
 
