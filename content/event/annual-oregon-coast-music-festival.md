@@ -74,11 +74,13 @@ The Festival returns to the beautiful gardens of Shore Acres State Park, hosted 
 
 {{< spacer 50 >}}
 
-{{< floatimage src="img/AdamStern.jpg" float="left" alt="Adam Stern, Conductor" size="40" >}}**July 25, 27th & 29th @ noon**  
+{{< floatimage src="img/AdamStern.jpeg" float="left" alt="Adam Stern, Conductor" size="40" >}}**July 25, 27th & 29th @ noon**  
 Coos Bay Library, Coos Bay  
 **Lunch, Listen and Learn with Adam Stern** - **_Free_**
 
 {{< spacer 50 >}}
+
+![](/img/or-coast-music-fest-sepia.jpg)
 
 **Tuesday, July 26 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
@@ -93,7 +95,7 @@ The concert program includes:
 
 {{< spacer 50 >}}
 
-{{< floatimage src="img/buetti.jpg" float="left" alt="Nicole Buetti, Bassoon and Contrabassoon" size="40" >}}**Thursday, July 28 @ 7:30**  
+{{< floatimage src="img/buetti.jpeg" float="left" alt="Nicole Buetti, Bassoon and Contrabassoon" size="40" >}}**Thursday, July 28 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
 **OCMA Festival Orchestra Pops** - **_Tickets $25 -_** [**_BUY TICKETS_**](https://checkout.square.site/buy/SCLZCAQ67O2FSPOIODEJDW6G)
 
