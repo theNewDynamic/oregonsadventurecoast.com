@@ -74,7 +74,7 @@ The Festival returns to the beautiful gardens of Shore Acres State Park, hosted 
 
 {{< spacer 50 >}}
 
-**July 25, 27th & 29th @ noon**  
+{{< floatimage src="img/AdamStern.jpg" float="left" alt="Adam Stern, Conductor" size="40" >}}**July 25, 27th & 29th @ noon**  
 Coos Bay Library, Coos Bay  
 **Lunch, Listen and Learn with Adam Stern** - **_Free_**
 
