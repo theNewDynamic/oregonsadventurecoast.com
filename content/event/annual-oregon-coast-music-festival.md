@@ -50,8 +50,8 @@ Mingus Park Stage, Coos Bay
 
 **![](/img/slocan.jpeg)**
 
-**Tuesday, July 19th @ 7pm  
-**7 Devils Taproom, Coos Bay  
+**Tuesday, July 19th @ 7pm**  
+7 Devils Taproom, Coos Bay  
 **Special Concert Alert: The Slocan Ramblers! - _Tickets $20 -_** [**_BUY TICKETS_**](https://www.7devilsbrewery.com/store/p147/SlocanRamblers.html#/)
 
 The Slocan Ramblers (2020 IBMA Momentum Band of the Year Award Winner & 2019 Juno Award Nominee) are Canada’s bluegrass band to watch. Rooted in tradition, fearlessly creative and possessing a bold, dynamic sound, The Slocans have become a leading light of today’s acoustic music scene. With a reputation for energetic live shows, impeccable musicianship and an uncanny ability to convert anyone within earshot into a lifelong fan. [Tickets are available now for $20.](https://www.7devilsbrewery.com/store/p147/SlocanRamblers.html#/) Seating is open. Doors will open at 5:30pm and the show will start at 7pm. A small but delicious food menu will be available along with our full drink menu.
@@ -84,7 +84,7 @@ Coos Bay Library, Coos Bay
 Marshfield High School Auditorium, Coos Bay  
 **OCMA Festival Orchestra Concert I** - **_Tickets $25 -_** [**_BUY TICKETS_**](https://checkout.square.site/buy/645R7MXRLINQS3FHOQW7TGPU)
 
-The concert program includes: 
+The concert program includes:
 
 * Rossini: La Gazza Ladra Overture
 * Bizet: Suite from Carmen
@@ -93,7 +93,7 @@ The concert program includes:
 
 {{< spacer 50 >}}
 
-**Thursday, July 28 @ 7:30**  
+{{< floatimage src="img/buetti.jpg" float="left" alt="Nicole Buetti, Bassoon and Contrabassoon" size="40" >}}**Thursday, July 28 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
 **OCMA Festival Orchestra Pops** - **_Tickets $25 -_** [**_BUY TICKETS_**](https://checkout.square.site/buy/SCLZCAQ67O2FSPOIODEJDW6G)
 
@@ -103,8 +103,13 @@ Marshfield High School Auditorium, Coos Bay
 
 **Saturday, July 30 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
-**OCMA Festival Orchestra Concert II**  - **_Tickets $25_**
+**OCMA Festival Orchestra Concert II**  - **_Tickets $25 -_** [**_BUY TICKETS_**](https://checkout.square.site/buy/UPPN65MFJZTTXTVALA4LDXME)
+
+The concert program includes:
+
+* Lilburn: Aotearoa "Land of the Long White Cloud"
+* Sibelius: Symphony No.6
+* Ravel: Pavan for a dead princess
+* Hindemith: Symphonic Metamorphoses
 
 {{< spacer 25 >}}
-
-_Additional events to be added._
