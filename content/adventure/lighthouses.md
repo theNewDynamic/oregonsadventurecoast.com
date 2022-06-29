@@ -27,7 +27,7 @@ A whopping five of Oregon’s nine lighthouses are within one hour of the Coos B
 
 **Cape Arago Lighthouse**  
 _12 miles southwest of North Bend in Charleston_  
-This 44-foot-high tower was first illuminated in 1934. Earlier structures were built on this site in 1866 and 1908.
+This 44-foot-high tower was first illuminated in 1934. Earlier structures were built on this site in 1866 and 1908. There is no public access but there are great views from Bastendorff Beach County Park, the Oregon Coast Trail and the viewpoint on Cape Arago Hwy.
 
 **Coquille River Lighthouse Interpretive Center**  
 _Two miles north of Bandon_  
