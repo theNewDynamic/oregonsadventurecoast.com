@@ -1,5 +1,5 @@
 ---
-title: 27 Budget-Friendly Experiences to do on Oregon’s Adventure This Summer
+title: 27 Budget-Friendly Experiences to do on Oregon’s Adventure Coast This Summer
 date: 2022-06-29T04:00:00+00:00
 description: 'From free festivals and outdoor activities to free admission to local
   museums, there is a budget-friendly activity for everyone to enjoy on Oregon’s Adventure
