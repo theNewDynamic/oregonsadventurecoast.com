@@ -70,13 +70,15 @@ _Darrell Grant has risen from the pianist in vocalist Betty Carter’s trio to a
 Shore Acres State Park Gardens, Charleston  
 **Brass, Reeds, Strings and Song** - **_Free_**
 
-The Festival returns to the beautiful gardens of Shore Acres State Park, hosted by the Friends of Shore Acres. Bring a picnic and enjoy an array of musical performances by some of our locally inspired musicians.
+The Festival returns to the beautiful gardens of Shore Acres State Park, hosted by the Friends of Shore Acres. Bring a picnic and enjoy an array of musical performances by some of our locally inspired musicians. The event theme: _“Aaron Johnson meets the Shaymus Hanlin Quartet”_ provides the first-ever play together of two of our favorite Bay Area artists.
 
 {{< spacer 50 >}}
 
 {{< floatimage src="img/AdamStern.jpeg" float="left" alt="Adam Stern, Conductor" size="40" >}}**July 25, 27th & 29th @ noon**  
 Coos Bay Library, Coos Bay  
 **Lunch, Listen and Learn with Adam Stern** - **_Free_**
+
+Associate Conductor Adam Stern brings fresh and entertaining insight to the music and composers featured in the three orchestra programs. These noontime events provide an opportunity for interactive discussions that help everyone learn about the artists, the musical world and other related topics. Adam Stern returns to the Bay Area to continue his creative ideas for the Pops concerts, and support for outreach to everyone in his lectures and workshops. Stern has been leading the Seattle Philharmonic since 2003 and is noted for selecting compositions that have been underappreciated, recently highlighting  women composers.
 
 {{< spacer 50 >}}
 
