@@ -8,8 +8,8 @@ address:
   state: Oregon
   street: 955 S. 5th St.
   zip: '97420'
-phone_toll_free: 800-269-1224
-phone_local: 541-269-1224
+phone_toll_free: ''
+phone_local: 541-808-0009
 units: 4
 cost: 2 - $$
 property_description: |-
