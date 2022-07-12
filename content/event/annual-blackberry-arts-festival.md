@@ -19,12 +19,12 @@ photo: "/img/blackberry-event-page-header-1.jpg"
 largeboxphoto: "/img/blackberry-event-large.jpg"
 mediumboxphoto: "/img/blackberry-event-medium.jpg"
 smallboxphoto: "/img/blackberry-event-small.jpg"
-date: 2019-02-10T22:01:16.000+00:00
+date: '2019-02-10T22:01:16.000+00:00'
 
 ---
 ![](/img/blackberry-fest-blog-695-322.jpg)
 
-The annual **Blackberry Arts Festival** celebrates the delicious blackberry! Blackberry arts, food, and drink are the fare at this popular event in downtown Coos Bay. Featuring live music with the **Blackberry Jam** all weekend long! 
+The annual **Blackberry Arts Festival** celebrates the delicious blackberry! Blackberry arts, food, and drink are the fare at this popular event in downtown Coos Bay. Featuring live music with the **Blackberry Jam** all weekend long!
 
 The **Blackberry Arts Festival** is a juried arts and craft festival that has been happening for 37 years. It was started to highlight the works of local artists and crafters during the annual harvest of the blackberry. It features an impressive array of metalwork, jewelry, quilts, candles, hand-painted clothing, wine, carved wood, and much more available for purchase. The festival also includes food vendors.
 
@@ -38,4 +38,18 @@ _![](/img/blackberry-jam-image.jpeg)_
 
 ### **Blackberry Jam**
 
-##### List of bands coming soon!
+##### Saturday, August 27th 
+
+Border Patrol 11:00 AM - 12:30 PM
+
+Rockipedia 1:30 PM - 3:00 PM
+
+Toyz 4:00 PM - 6:00 PM
+
+ 
+
+##### **Sunday, August 28th**
+
+Timberwolf 11:00 AM - 12:30 PM
+
+Throttles 2:00 PM - 4:00 PM
