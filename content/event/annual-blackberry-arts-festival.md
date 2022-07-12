@@ -40,16 +40,13 @@ _![](/img/blackberry-jam-image.jpeg)_
 
 ##### Saturday, August 27th 
 
-Border Patrol 11:00 AM - 12:30 PM
-
-Rockipedia 1:30 PM - 3:00 PM
-
-Toyz 4:00 PM - 6:00 PM
+* **Border Patrol** 11:00 AM - 12:30 PM
+* **Rockipedia** 1:30 PM - 3:00 PM
+* **Toyz** 4:00 PM - 6:00 PM
 
  
 
 ##### **Sunday, August 28th**
 
-Timberwolf 11:00 AM - 12:30 PM
-
-Throttles 2:00 PM - 4:00 PM
+* **Timberwolf** 11:00 AM - 12:30 PM
+* **Throttles** 2:00 PM - 4:00 PM
