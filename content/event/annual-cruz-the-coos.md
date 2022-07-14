@@ -22,15 +22,17 @@ website: https://cruzthecoos.com/
 ---
 ![](/img/cruz-coos-768x512.jpeg)
 
-**The Coos Bay-North Bend Rotary Club is proud to present the Annual Cruz the Coos and Show ‘n Shine as part of the Bay Area Fun Festival.** 
+**The Coos Bay-North Bend Rotary Club is proud to present the Annual Cruz the Coos and Show ‘n Shine as part of the Bay Area Fun Festival.**
 
-Cruz the Coos is one of the **longest-running and largest classic car cruises** on the Oregon Coast. It runs through the streets of downtown Coos Bay and is enjoyed by thousands of spectators. 
+Cruz the Coos is one of the **longest-running and largest classic car cruises** on the Oregon Coast. It runs through the streets of downtown Coos Bay and is enjoyed by thousands of spectators.
 
-**The Show ‘n Shine** is an opportunity to see vintage cars and trucks that have been beautifully restored. Talk with the owners and visit restaurants and amenities offered at The Mill Casino Hotel and RV Park. 
+**The Show ‘n Shine** is an opportunity to see vintage cars and trucks that have been beautifully restored. Talk with the owners and visit restaurants and amenities offered at The Mill Casino Hotel and RV Park.
 
-**Proceeds generated from entry fees are put to use by the Rotary club to fund projects throughout the area including scholarships, humanitarian efforts, and other non-profit organizations in the community.** 
+**Proceeds generated from entry fees are put to use by the Rotary club to fund projects throughout the area including scholarships, humanitarian efforts, and other non-profit organizations in the community.**
 
 While you’re in the area, enjoy the **Bay Area Fun Festival**, one of the largest festivals on the Oregon Coast. The festival not only features the Cruz and Show ‘n Shine but the **Prefontaine Memorial 10K Run**, Street Vendors, a parade, and much more.
+
+![](/img/register-early-banner-07-22.jpg)
 
 #### 
 
