@@ -31,8 +31,10 @@ Cruz the Coos is one of the **longest-running and largest classic car cruises** 
 **Proceeds generated from entry fees are put to use by the Rotary club to fund projects throughout the area including scholarships, humanitarian efforts, and other non-profit organizations in the community.**
 
 While you’re in the area, enjoy the **Bay Area Fun Festival**, one of the largest festivals on the Oregon Coast. The festival not only features the Cruz and Show ‘n Shine but the **Prefontaine Memorial 10K Run**, Street Vendors, a parade, and much more.
-[![Register Early for Cruz the Coos this year](/img/register-early-banner-07-22.jpg)](https://cruzthecoos.com/registration)
 
+{{< spacer 15 >}}
+
+[![Register Early for Cruz the Coos this year](/img/register-early-banner-07-22-v02.jpg)](https://cruzthecoos.com/registration)
 
 #### 
 
