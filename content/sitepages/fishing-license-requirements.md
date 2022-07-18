@@ -10,7 +10,7 @@ seo:
   image: "/img/saltwater-fishing-alt.jpg"
 
 ---
-According to Oregon fishing regulations, an Oregon fishing license is required for everyone 12 years or older except during the state’s free fishing weekends when licenses or tags are NOT required. (The Oregon Department of Fish & Wildlife holds multiple free fishing weekends each year. Check [the ODFW site](https://myodfw.com/fishing) for information.) Daily, multi-day and annual licenses are available at sporting goods stores and other local retailers. Find a list of vendors [here](https://myodfw.com/articles/where-find-odfw-license-agentsvendors) or [purchase online](https://odfw.huntfishoregon.com/login) from ODFW.
+According to Oregon fishing regulations, an Oregon fishing license is required for everyone 12 years or older except during the state’s free fishing weekends when licenses or tags are NOT required. (The Oregon Department of Fish & Wildlife holds multiple free fishing weekends each year. Check [the ODFW site](https://myodfw.com/fishing) for information.) Daily, multi-day and annual licenses are available at sporting goods stores and other local retailers. **Find a list of vendors** [**here**](https://myodfw.com/articles/where-find-odfw-license-agentsvendors) **or** [**purchase online**](https://odfw.huntfishoregon.com/login) **from ODFW.**
 
 ### PURCHASE FISHING LICENSES
 
@@ -45,7 +45,19 @@ Get your fishing license and gear at Big 5 Sporting Goods in North Bend!
 {{< /columns >}}
 
 {{< columns number="2" >}}
-![](/img/walmart-fishing-license-pg.jpg)
+
+![](/img/fred-meyer.jpeg)
+
+**Fred Meyer**<br>  
+1020 S 1st St<br>  
+Coos Bay, OR 97420<br>  
+(541) 269-4000
+
+Fred Meyer sells fishing gear and fishing licenses for the sport fisherman, along with all the snacks, beverages, coolers, and accessories you might need for your next fishing excursion. 
+
+divider
+
+ ![](/img/walmart-fishing-license-pg.jpg)
 
 **Wal-Mart**<br>
 2051 Newmark Avenue<br>
@@ -53,13 +65,15 @@ Coos Bay, OR 97420<br>
 (541) 888-5488
 
 Wal-Mart sells fishing gear and fishing licenses for the sport fisherman, along with all the snacks, beverages, coolers, and accessories you might need for your next fishing excursion.
-divider
+
+{{< /columns >}}
+
+{{< columns number="3" >}}
 
 ![](/img/odfw-fishing-license-pg-02.jpg)
 
-**ODFW Charleston Office**<br>
-63538 Boat Basin Drive<br>
-Charleston, OR 97420<br>
-(541) 888-5515
+**ODFW Charleston Office**<br> 63538 Boat Basin Drive<br> Charleston, OR 97420<br> (541) 888-5515
 
-_(Licenses Only)_ ODFW's Charleston office only sells fishing licenses for those last minute visitors who wish to go fishing while in the Charleston Marina but don't have a license. {{< /columns >}}
+_(Licenses Only)_ ODFW's Charleston office only sells fishing licenses for those last-minute visitors who wish to go fishing while in the Charleston Marina but don't have a license. 
+
+{{< /columns >}}
