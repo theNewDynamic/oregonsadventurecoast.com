@@ -63,27 +63,3 @@ Charleston, OR 97420<br>
 (541) 888-5515
 
 _(Licenses Only)_ ODFW's Charleston office only sells fishing licenses for those last minute visitors who wish to go fishing while in the Charleston Marina but don't have a license. {{< /columns >}}
-
-### BAIT SHOPS
-
-{{< columns number="2" >}}
-![](/img/basin-tackle-fishing-license-bait.jpg)
-
-**Basin Tackle Shop**<br>
-63510 Kingfisher Road<br>
-Charleston, OR 97420<br>
-(541) 888-FISH
-
-Basin Tackle is located in the Charleston Marina. With friendly, helpful, and somewhat quirky staff, Basin Tackle has become something of a local institution drawing people from near and far. Basin Tackle carries everything you need for salt and freshwater fishing, crabbing, or clamming and the instruction to go with it. M-Sat 8am-5pm, Sun 8am-Noon.  
-divider
-
-![](/img/bites-on-fishing-license-bait-pg.jpg)
-
-**Bites On Tackle**<br>
-750 Newmark Aveunue<br>
-Coos Bay, OR 97420<br>
-(541) 888-4015
-
-Specializing in your sportsfishing needs, Bites On Tackle provides the sport fisherman with all the equipment, bait and advice you need for a day of fishing on the Southern Oregon Coast.
-
-{{< /columns >}}
