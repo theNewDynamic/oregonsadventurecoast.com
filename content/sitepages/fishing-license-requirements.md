@@ -48,9 +48,9 @@ Get your fishing license and gear at Big 5 Sporting Goods in North Bend!
 
 ![](/img/fred-meyer.jpeg)
 
-**Fred Meyer**<br>  
-1020 S 1st St<br>  
-Coos Bay, OR 97420<br>  
+**Fred Meyer**  
+1020 S 1st St  
+Coos Bay, OR 97420  
 (541) 269-4000
 
 Fred Meyer sells fishing gear and fishing licenses for the sport fisherman, along with all the snacks, beverages, coolers, and accessories you might need for your next fishing excursion. 
