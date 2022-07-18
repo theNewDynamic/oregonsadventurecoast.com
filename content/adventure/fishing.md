@@ -35,7 +35,7 @@ According to Oregon fishing regulations, an Oregon fishing license is required f
 
 [Download our  
 Fishing Information  
-Rack Card here (PDF).](/img/rackcard-fishing-03-18.pdf)
+Rack Card here (PDF).](/img/fishing-rackcard.pdf)
 
 {{< spacer >}}
 
