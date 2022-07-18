@@ -13,9 +13,11 @@ seo:
 ---
 ## TRY YOUR HAND AT EXCITEMENT
 
-You'll find 24/7 casino excitement on Oregon's Adventure Coast: Coos Bay, North Bend, Charleston. In fact, there are two casinos to choose from! **The Mill Casino** and **Three Rivers Casino - Coos Bay** offer some of the most fun-filled, Vegas-style and casino-gaming in the Pacific Northwest.
+You'll find 24/7 casino excitement on Oregon's Adventure Coast: Coos Bay, North Bend, Charleston. In fact, there are **two casinos to choose from!** 
 
-Coos Bay and North Bend are home to two federally recognized native tribes, the [**Coquille Indian Tribe**](/tribal-heritage-coquilles/) and the **Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians**.
+**The Mill Casino** and **Three Rivers Casino - Coos Bay** offer some of the most fun-filled, Vegas-style and casino-gaming in the Pacific Northwest.
+
+**_Did you know?_** _Coos Bay and North Bend are home to two federally recognized native tribes, the_ [**_Coquille Indian Tribe_**](/tribal-heritage-coquilles/) _and the **Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians**._
 
 Come and test your luck with more than 1,000 slots featuring old favorites and the newest electronic games out there. Take lessons on how to play table games or check out slot tournaments held regularly. There are opportunities for high rollers, medium stakes players, and those who choose to chat with friends - new and old - while playing penny slots - all with the chance to win.
 
