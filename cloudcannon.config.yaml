@@ -1,0 +1,132 @@
+%YAML 1.1
+---
+
+paths:
+  uploads: img
+  static: static
+
+_enabled_editors:
+  - content
+
+##########
+# SIDEBAR
+#########
+collection_groups:
+  - heading: Pages
+    collections:
+      - posts
+####################
+#### COLLETIONS ####
+###################
+x-schema-base: &schema-base
+  hide_extra_inputs: true
+  remove_empty_inputs: true
+  remove_extra_inputs: false
+x-collection-base: &state-collection-base
+  icon: article
+  disable_add_folder: true
+  sort_options:
+  - key: date
+    order: desc
+  - key: date
+    order: asc
+  - key: title
+    order: asc
+
+collections_config_override: true
+collections_config:
+  posts:
+    <<: *collection-base
+    path: content/blog
+    name: Blog Posts
+    icon: article
+    schemas:
+      default:
+        <<: *schema-base
+        path: .cloudcannon/posts/default.md
+####################
+#### STRUCTURES ####
+###################
+
+_structures:
+  seo:
+    values:
+      _inputs:
+        title:
+          comment: SEO Title
+      value:
+        title:
+        description:
+        imgalt:
+        image:
+  accordion_sections:
+    values:
+      value:
+        title:
+        accordions:
+  accordions:
+    values:
+      _inputs:
+        content:
+          label: Accordion Content
+      value:
+        title:
+        content:
+####################
+#### INPUTS ####
+###################
+
+x-input-markdown: &input-markdown
+  type: markdown
+x-input-hidden: &input-hidden
+  hidden: true
+
+_inputs:
+  copy: *input-markdown
+  content: *input-markdown
+  description: *input-markdown
+  template: *input-hidden
+  aliases:
+    type: array
+  warning:
+    type: switch
+    comment: Should the post display the Blog's warning? 
+  warning_copy:
+    type: markdown
+    hidden: warning
+
+_select_data:
+  layouts:
+  - contact
+  - adventures
+  - calendarpage
+  - eventspage
+  - gallery
+  - search
+  - meeting-planners
+  - meeting-planners-sub
+  - our-area
+  - press-media-industry
+  - open-meetings
+  - relocation-request
+  - thank-you
+  - travelersinfo
+  - lodgingpage
+  - diningpage
+  - equipment
+  - headless
+  - home
+  categories:
+  - Arts & Culture
+  - Clamming
+  - Crabbing
+  - Fishing
+  - Itineraries
+  - Local Food & Drink
+  - Local Spotlight
+  - Miscellaneous
+  - Oregon's Adventure Coast News & Info
+  - Outdoor Adventures
+  - Shopping & Entertainment
+  - Special Events & Holidays
+  - State Parks & National Lands
