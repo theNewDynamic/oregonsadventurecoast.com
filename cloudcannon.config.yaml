@@ -66,6 +66,8 @@ collections_config:
       default:
         <<: *schema-base
         path: .cloudcannon/schemas/store.md
+    _endabled_editors:
+      - data
   trip_ideas:
     <<: *collection-base
     path: content/tripideas
@@ -118,16 +120,6 @@ collections_config:
 ###################
 
 _structures:
-  seo:
-    values:
-      _inputs:
-        title:
-          comment: SEO Title
-      value:
-        title:
-        description:
-        imgalt:
-        image:
   accordion_sections:
     values:
       value:
@@ -144,7 +136,14 @@ _structures:
 ####################
 #### INPUTS ####
 ###################
-
+x-minimal-markdown: &input-minimal-markdown
+  type: markdown
+  options:
+    bold: true
+    italic: true
+    undo: true
+    redo: true
+    link: false
 x-input-markdown: &input-markdown
   type: markdown
 x-input-hidden: &input-hidden
@@ -215,6 +214,21 @@ _inputs:
     type: textarea
     label: Box Animation Description
     comment: Description displayed on Event Box animation
+  seo:
+    type: object
+    options:
+      structures:
+        values:
+          _inputs:
+            imgalt:
+              label: Image Alternative Text
+            description: *input-minimal-markdown
+          value:
+            title:
+            description:
+            imgalt:
+            image:
+
   address:
     type: object
     options:
@@ -229,6 +243,11 @@ _inputs:
     options:
       structures:
         values:
+          _inputs:
+            lat:
+              label: Latitude
+            lng:
+              label: Longitude
           value:
             lat:
             lng:
