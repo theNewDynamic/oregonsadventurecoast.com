@@ -15,6 +15,8 @@ collection_groups:
   - heading: Pages
     collections:
       - posts
+      - adventures
+      - events
 ####################
 #### COLLETIONS ####
 ###################
@@ -44,6 +46,26 @@ collections_config:
       default:
         <<: *schema-base
         path: .cloudcannon/schemas/post.md
+  adventures:
+    <<: *collection-base
+    path: content/adventure
+    name: Adventures
+    icon: hiking
+    schemas:
+      default:
+        <<: *schema-base
+        path: .cloudcannon/schemas/adventure.md
+  events:
+    <<: *collection-base
+    path: content/event
+    name: Events
+    icon: calendar_month
+    filter:
+      exclude: _index.md
+    schemas:
+      default:
+        <<: *schema-base
+        path: .cloudcannon/schemas/adventure.md
 ####################
 #### STRUCTURES ####
 ###################
@@ -96,7 +118,65 @@ _inputs:
   warning_copy:
     type: markdown
     hidden: warning
-
+  url:
+    type: text
+  startdate: &textdate
+    type: text
+    label: Start Date
+    comment: 'IMPORTANT: Date must be entered YYYY-MM-DD (NO Time)'
+  enddate:
+    <<: *textdate
+    label: End Date
+  website:
+    type: link
+    comment: Website's URL. Must include protocole (https://)
+  desktoptitle: &responsive_title
+    type: text
+    comment: Title displayed on desktop
+  mobiletitle:
+    <<: *responsive_title
+    comment: Title displayed on mobile
+  hovertitle:
+    <<: *responsive_title
+    label: Box Animation Title
+    comment: Title displayed on Event box animation
+  photo:
+    type: image
+    label: Page Hero Image
+    comment: Image Size 2048px x 530px
+  largeboxphoto:
+    type: image
+    label: Large
+    comment: Image Size 1024px x 395px
+  mediumboxphoto:
+    type: image
+    label: Medium
+    comment: Image Size 667px x 355px
+  smallboxphoto:
+    type: image
+    label: Small
+    comment: Image Size 340px x 214px
+  hoverdescription:
+    type: textarea
+    label: Box Animation Description
+    comment: Description displayed on Event Box animation
+  address:
+    type: object
+    options:
+      structures:
+        values:
+          value:
+            street:
+            city:
+            zip:
+  coordinates:
+    type: object
+    options:
+      structures:
+        values:
+          value:
+            lat:
+            lng:
 _select_data:
   layouts:
   - contact
