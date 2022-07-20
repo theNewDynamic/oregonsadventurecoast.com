@@ -5,7 +5,7 @@ address:
   street2: ''
   city: Coos County
   zip: ''
-title: Whiskey Run Mountain Biking Festival
+title: Whiskey Run Mountain Bike Festival
 startdate: '2022-06-04'
 enddate: '2022-06-05'
 phone_local: ''
