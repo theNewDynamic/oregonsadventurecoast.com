@@ -43,7 +43,7 @@ collections_config:
     schemas:
       default:
         <<: *schema-base
-        path: .cloudcannon/post.md
+        path: .cloudcannon/schemas/post.md
 ####################
 #### STRUCTURES ####
 ###################
