@@ -2,7 +2,7 @@
 title:
 draft:
 property_description:
-image:
+photo_name:
 photo_alt:
 property_category:
 address:
