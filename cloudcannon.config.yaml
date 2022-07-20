@@ -17,6 +17,7 @@ collection_groups:
       - posts
       - adventures
       - events
+      - trip_ideas
 ####################
 #### COLLETIONS ####
 ###################
@@ -55,6 +56,21 @@ collections_config:
       default:
         <<: *schema-base
         path: .cloudcannon/schemas/adventure.md
+  trip_ideas:
+    <<: *collection-base
+    path: content/tripideas
+    name: Trip Ideas
+    icon: tips_and_updates
+    filter:
+      exclude: _index.md
+    schemas:
+      default:
+        <<: *schema-base
+        path: .cloudcannon/schemas/trip_idea.md
+    _inputs:
+      photo:
+        label: Header Photo
+        comment: Choose a header image - size to 2048px by 530px
   events:
     <<: *collection-base
     path: content/event
@@ -72,7 +88,7 @@ collections_config:
       label: Start Date
     - key: startdate
       order: asc
-      label: Start Date
+      label: Start Date (Desc)
     - key: title
       order: asc
 ####################
@@ -137,7 +153,7 @@ _inputs:
     <<: *textdate
     label: End Date
   website:
-    type: link
+    type: url
     comment: Website's URL. Must include protocole (https://)
   desktoptitle: &responsive_title
     type: text
@@ -221,4 +237,25 @@ _select_data:
   - Shopping & Entertainment
   - Special Events & Holidays
   - State Parks & National Lands
-  
+  towns:
+  - charleston
+  - coos-bay
+  - north-bend
+  adventures:
+  - atving-motorsports
+  - beach
+  - crabbing-clamming
+  - culture-museums
+  - dunes
+  - eat-drink
+  - fishing
+  - fishing-crabbing-clamming
+  - historical
+  - lighthouses
+  - scenic-drives
+  - shopping
+  - state-parks-national-lands
+  durations:
+  - full-day
+  - half-day
+  - long-weekend
