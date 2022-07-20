@@ -4,11 +4,11 @@ draft: false
 date:
 description:
 image:
-tags:
+tags: []
 categories:
 seo:
 aliases:
-accordions_sections:
+accordion_sections:
 warning: false
 warning_copy:
 ---
