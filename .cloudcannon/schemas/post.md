@@ -7,7 +7,7 @@ image:
 tags: []
 categories:
 seo:
-aliases:
+aliases: []
 accordion_sections:
 warning: false
 warning_copy:

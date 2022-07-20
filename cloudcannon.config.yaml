@@ -86,6 +86,8 @@ _inputs:
   content: *input-markdown
   description: *input-markdown
   template: *input-hidden
+  tags:
+    type: array
   aliases:
     type: array
   warning:
