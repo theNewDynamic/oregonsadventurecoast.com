@@ -65,7 +65,16 @@ collections_config:
     schemas:
       default:
         <<: *schema-base
-        path: .cloudcannon/schemas/adventure.md
+        path: .cloudcannon/schemas/event.md
+    sort_options:
+    - key: startdate
+      order: desc
+      label: Start Date
+    - key: startdate
+      order: asc
+      label: Start Date
+    - key: title
+      order: asc
 ####################
 #### STRUCTURES ####
 ###################

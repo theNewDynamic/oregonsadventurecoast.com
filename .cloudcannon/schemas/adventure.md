@@ -1,7 +1,7 @@
 ---
 title:
 url:
-image:
+photo:
 seo:
 aliases:
 accordion_sections:
