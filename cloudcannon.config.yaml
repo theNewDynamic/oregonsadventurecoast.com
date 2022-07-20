@@ -168,29 +168,29 @@ collections_config:
           - 8 - Meeting Facilities
           - 9 - Handicap Accessible
           - 10 - Chamber Member
-tour_equipments:
-  <<: *collection-base
-  path: content/tourandequipment
-  name: Tour & Equipments
-  icon: festival
-  _enabled_editors:
-  - data
-  filter:
-    exclude: _index.md
-  schemas:
-    default:
-      <<: *schema-base
-      path: .cloudcannon/schemas/tour_equipment.md
-  _inputs:
-    property_name:
-      label: Business Name for Sorting
-    equip_type:
-      type: multiselect
-      label: Type
-      options:
-        values:
-        - Tour
-        - Equipment
+  tour_equipments:
+    <<: *collection-base
+    path: content/tourandequipment
+    name: Tour & Equipments
+    icon: festival
+    _enabled_editors:
+    - data
+    filter:
+      exclude: _index.md
+    schemas:
+      default:
+        <<: *schema-base
+        path: .cloudcannon/schemas/tour_equipment.md
+    _inputs:
+      property_name:
+        label: Business Name for Sorting
+      equip_type:
+        type: multiselect
+        label: Type
+        options:
+          values:
+          - Tour
+          - Equipment
   events:
     <<: *collection-base
     path: content/event
