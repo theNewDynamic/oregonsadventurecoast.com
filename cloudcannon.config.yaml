@@ -46,6 +46,7 @@ collection_groups:
       - trip_ideas
       - stores
       - lodgings
+      - tour_equipments
 ####################
 #### COLLETIONS ####
 ###################
@@ -94,7 +95,7 @@ collections_config:
         <<: *schema-base
         path: .cloudcannon/schemas/store.md
     _enabled_editors:
-      - content
+      - data
   trip_ideas:
     <<: *collection-base
     path: content/tripideas
@@ -127,6 +128,8 @@ collections_config:
     path: content/lodgingitems
     name: Lodging
     icon: hotel
+    _enabled_editors:
+      - data
     filter:
       exclude: _index.md
     schemas:
@@ -165,6 +168,29 @@ collections_config:
           - 8 - Meeting Facilities
           - 9 - Handicap Accessible
           - 10 - Chamber Member
+tour_equipments:
+  <<: *collection-base
+  path: content/tourandequipment
+  name: Tour & Equipments
+  icon: festival
+  _enabled_editors:
+  - data
+  filter:
+    exclude: _index.md
+  schemas:
+    default:
+      <<: *schema-base
+      path: .cloudcannon/schemas/tour_equipment.md
+  _inputs:
+    property_name:
+      label: Business Name for Sorting
+    equip_type:
+      type: multiselect
+      label: Type
+      options:
+        values:
+        - Tour
+        - Equipment
   events:
     <<: *collection-base
     path: content/event
