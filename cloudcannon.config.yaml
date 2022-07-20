@@ -8,6 +8,32 @@ paths:
 _enabled_editors:
   - content
 
+_editables:
+  content:
+    image_size_attributes: false
+    blockquote: true
+    link: true
+    bold: true
+    format: p h1 h2 h3
+    italic: true
+    strike: false
+    subscript: false
+    superscript: false
+    underline: true
+    bulletedlist: true
+    indent: false
+    numberedlist: true
+    outdent: false
+    code: false
+    embed: true
+    horizontalrule: false
+    image: true
+    table: true
+    undo: true
+    redo: true
+    removeformat: true
+    copyformatting: true
+
 ##########
 # SIDEBAR
 #########
@@ -19,6 +45,7 @@ collection_groups:
       - events
       - trip_ideas
       - stores
+      - lodgings
 ####################
 #### COLLETIONS ####
 ###################
@@ -66,8 +93,8 @@ collections_config:
       default:
         <<: *schema-base
         path: .cloudcannon/schemas/store.md
-    _endabled_editors:
-      - data
+    _enabled_editors:
+      - content
   trip_ideas:
     <<: *collection-base
     path: content/tripideas
@@ -95,6 +122,49 @@ collections_config:
         type: multiselect
         options:
           values: _select_data.durations
+  lodgings:
+    <<: *collection-base
+    path: content/lodgingitems
+    name: Lodging
+    icon: hotel
+    filter:
+      exclude: _index.md
+    schemas:
+      default:
+        <<: *schema-base
+        path: .cloudcannon/schemas/lodging.md
+    _inputs:
+      cost:
+        type: select
+        options:
+          values:
+          - 1 - $
+          - 2 - $$
+          - 3 - $$$
+      property_category:
+        type: select
+        label: Category
+        options:
+          values:
+          - 1 - Hotels, Motels & Inns
+          - 2 - RV Parks & Camping
+          - 3 - Bed & Breakfasts
+          - 4 - Vacation Rental Homes
+      amenityList:
+        type: select
+        label: Amenities
+        options:
+          values:
+          - 1 - Restaurant/Bar/Rm Service
+          - 2 - Continental or Full Bkfst
+          - 3 - Fitness Center
+          - 4 - Pool/Hot Tub
+          - 5 - Pet Friendly
+          - 6 - WiFi Available
+          - 7 - Kitchens Available
+          - 8 - Meeting Facilities
+          - 9 - Handicap Accessible
+          - 10 - Chamber Member
   events:
     <<: *collection-base
     path: content/event
@@ -154,6 +224,10 @@ _inputs:
   content: *input-markdown
   description: *input-markdown
   template: *input-hidden
+  draft:
+    type: switch
+  units:
+    type: number
   tags:
     type: array
   aliases:
@@ -195,6 +269,7 @@ _inputs:
     label: Page Hero Image
     comment: Image Size 2048px x 530px
   photo_name:
+    type: image
     label: Image
   photo_alt:
     label: Image Alternate Attribute
