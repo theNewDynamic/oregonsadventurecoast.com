@@ -22,7 +22,7 @@ x-schema-base: &schema-base
   hide_extra_inputs: true
   remove_empty_inputs: true
   remove_extra_inputs: false
-x-collection-base: &state-collection-base
+x-collection-base: &collection-base
   icon: article
   disable_add_folder: true
   sort_options:
