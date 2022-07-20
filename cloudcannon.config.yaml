@@ -43,7 +43,7 @@ collections_config:
     schemas:
       default:
         <<: *schema-base
-        path: .cloudcannon/posts/default.md
+        path: .cloudcannon/post.md
 ####################
 #### STRUCTURES ####
 ###################
@@ -130,3 +130,4 @@ _select_data:
   - Shopping & Entertainment
   - Special Events & Holidays
   - State Parks & National Lands
+  
