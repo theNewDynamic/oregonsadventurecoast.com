@@ -1,0 +1,14 @@
+---
+title:
+draft:
+property_description:
+image:
+photo_alt:
+property_category:
+address:
+phone_local:
+phone_toll_free:
+website:
+coordinates:
+seo:
+---
