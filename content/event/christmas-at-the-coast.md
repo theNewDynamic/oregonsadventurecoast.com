@@ -1,5 +1,5 @@
 ---
-title: Holiday Happenings on Oregon's Adventure Coast!
+title: Holiday Happenings & Tree Lightings on Oregon's Adventure Coast!
 startdate: '2022-11-25'
 enddate: '2022-12-31'
 address:
