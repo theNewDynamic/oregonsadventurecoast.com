@@ -82,7 +82,7 @@ collections_config:
         <<: *schema-base
         path: .cloudcannon/schemas/regular-page.md
     filter:
-      base: strict
+      base: none
       include:
       - adventures.md
       - calendar.md
