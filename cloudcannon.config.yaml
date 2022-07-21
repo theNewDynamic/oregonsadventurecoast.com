@@ -40,6 +40,7 @@ _editables:
 collection_groups:
   - heading: Pages
     collections:
+      - home_pages
       - main_pages
       - adventures
       - posts
@@ -61,12 +62,29 @@ x-collection-base: &collection-base
   sort_options:
   - key: title
     order: asc
-    label: Title
   - key: title
     order: desc
-    label: Title (Z-A)
 collections_config_override: true
 collections_config:
+  home_pages:
+    <<: *collection-base
+    path: content
+    name: Home Pages
+    icon: house
+    description: This lists the two hompages (English and Spanish)
+    schemas:
+      default:
+        <<: *schema-base
+        path: .cloudcannon/schemas/home.md
+    filter:
+      base: none
+      include:
+      - _index.md
+      - index-es.md
+    _inputs:
+      welcomeheadline:
+        label: Welcome Headline
+        comment: Headline displayed below the slideshow
   main_pages:
     <<: *collection-base
     path: content
@@ -85,7 +103,6 @@ collections_config:
       - equipment-rent-and-buy.md
       - events.md
       - gallery.md
-      - index-es.md
       - lodging.md
       - search.md
       - tour-guides-and-charters.md
@@ -103,15 +120,6 @@ collections_config:
     path: content/adventure
     name: Adventures
     icon: hiking
-    sort_options:
-    - key: date
-      order: desc
-    - key: date
-      order: asc
-    - key: title
-      order: asc
-    - key: title
-      order: desc
     schemas:
       default:
         <<: *schema-base
@@ -121,6 +129,8 @@ collections_config:
     path: content/store
     name: Shopping
     icon: store
+    image_key: photo_name
+    subtext_key: property_description
     schemas:
       default:
         <<: *schema-base
@@ -159,6 +169,8 @@ collections_config:
     path: content/lodgingitems
     name: Lodging
     icon: hotel
+    image_key: photo
+    subtext_key: property_description
     _enabled_editors:
       - data
     filter:
@@ -227,6 +239,7 @@ collections_config:
     path: content/event
     name: Events
     icon: calendar_month
+    subtext_key: startdate
     filter:
       exclude: _index.md
     schemas:
@@ -268,14 +281,58 @@ _structures:
         url:
         action:
         image:
-  boxes:
+  masonry: &structure-masonry
     values:
+      text_key: desktoptitle
       value:
-        desktopphoto:
         desktoptitle:
-        mobiletitle:
+        desktopphoto:
         hovertitle:
+        hoverdescription:
+        mobiletitle:
         url:
+  boxes: *structure-masonry
+  home_splashes:
+    values:
+      _inputs:
+        img:
+          type: image
+      value:
+        url:
+        img:
+        alt:
+  slideshow:
+    values:
+      _inputs:
+        title:
+          comment: The title of the slide
+        photo:
+          comment: The image of the slide
+        title_mobile:
+          comment: The text to be displayed on mobile
+        photo_mobile:
+          comment: The image used on mobile
+        url:
+          comment: The URL of the page opened when tthe slide is clicked
+        video:
+          type: object
+          options:
+            structures: _structures.videos
+      value:
+        title:
+        photo:
+        title_mobile:
+        photo_mobile:
+        url:
+        video:
+  videos:
+    values:
+      _inputs:
+        cover:
+          type: file
+      value:
+        cover:
+        source:
 ####################
 #### INPUTS ####
 ###################
@@ -338,10 +395,10 @@ _inputs:
     label: Masonry Items
   desktoptitle: &responsive_title
     type: text
-    comment: Title displayed on desktop
+    label: Title for Desktop
   mobiletitle:
     <<: *responsive_title
-    comment: Title displayed on mobile
+    label: Title for Mobile
   hovertitle:
     <<: *responsive_title
     label: Box Animation Title
@@ -371,6 +428,24 @@ _inputs:
     type: textarea
     label: Box Animation Description
     comment: Description displayed on Event Box animation
+  slideshow:
+    type: array
+    options:
+      structures: _structures.slideshow
+  home_slashes:
+    type: array
+    options:
+      structures: _structures.home_slashes
+  masonry1: &input-masonry
+    type: object
+    options:
+      structures: _structures.masonry
+  masonry2: *input-masonry
+  masonry3: *input-masonry
+  masonry4: *input-masonry
+  masonry5: *input-masonry
+  masonry6: *input-masonry
+  masonry7: *input-masonry
   seo:
     type: object
     options:

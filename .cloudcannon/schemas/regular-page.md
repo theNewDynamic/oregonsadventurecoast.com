@@ -7,5 +7,6 @@ photo:
 ctas:
 seo:
 aliases:
+accordions_sections:
 boxes:
 ---
