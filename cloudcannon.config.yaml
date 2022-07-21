@@ -431,6 +431,7 @@ _inputs:
   slideshow:
     type: array
     options:
+      image_key: photo
       structures: _structures.slideshow
   home_slashes:
     type: array
@@ -438,6 +439,7 @@ _inputs:
       structures: _structures.home_slashes
   masonry1: &input-masonry
     type: object
+    text_key: desktoptitle
     options:
       structures: _structures.masonry
   masonry2: *input-masonry
