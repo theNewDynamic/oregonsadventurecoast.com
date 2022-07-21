@@ -79,7 +79,7 @@ collections_config:
       default:
         <<: *schema-base
         path: .cloudcannon/schemas/home.md
-    parse_branch_index: false
+    parse_branch_index: true
     filter:
       base: none
       include:
