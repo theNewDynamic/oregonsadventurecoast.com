@@ -50,7 +50,22 @@ Kids 5 and under are Free!
 
 {{< spacer 50 >}}
 
-[Book your stay now!](/lodging/)
+#### ENTERTAINMENT:
+
+**Friday, August 5, 2022**    
+4:00 PM - 8:00 PM: Rekless Kompany
+
+**Saturday, August 6, 2022**    
+11:00 AM - 2:30 PM: Adam Gabriel & the Cavaliers  
+2:45 PM - 6:00 PM: The KOZ
+
+**Sunday, August 7, 2022**    
+12:00 PM - 2:00 PM: The KOZ  
+2:00 PM - 4:00 PM: CRBQ
+
+{{< spacer 50 >}}
+
+#### [Book your stay now!](/lodging/)
 
 {{< spacer 50 >}}
 
