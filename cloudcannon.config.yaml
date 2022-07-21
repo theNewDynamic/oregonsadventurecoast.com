@@ -38,11 +38,13 @@ _editables:
 # SIDEBAR
 #########
 collection_groups:
-  - heading: Pages
+  - heading: Landing Pages
     collections:
       - home_pages
       - main_pages
       - regular_pages
+  - heading: Other
+    collections:
       - adventures
       - posts
       - events
@@ -77,6 +79,7 @@ collections_config:
       default:
         <<: *schema-base
         path: .cloudcannon/schemas/home.md
+    parse_branch_index: false
     filter:
       base: none
       include:
