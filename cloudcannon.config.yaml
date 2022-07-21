@@ -62,6 +62,8 @@ x-schema-base: &schema-base
 x-collection-base: &collection-base
   icon: article
   disable_add_folder: true
+  filter:
+    base: strict
   sort_options:
   - key: title
     order: asc
@@ -79,7 +81,6 @@ collections_config:
       default:
         <<: *schema-base
         path: .cloudcannon/schemas/home.md
-    parse_branch_index: true
     filter:
       base: none
       include:
@@ -156,6 +157,7 @@ collections_config:
     name: Trip Ideas
     icon: tips_and_updates
     filter:
+      base: strict
       exclude: _index.md
     schemas:
       default:
@@ -187,6 +189,7 @@ collections_config:
     _enabled_editors:
       - data
     filter:
+      base: strict
       exclude: _index.md
     schemas:
       default:
