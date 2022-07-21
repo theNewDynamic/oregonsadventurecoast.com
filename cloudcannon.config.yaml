@@ -72,25 +72,6 @@ x-collection-base: &collection-base
     order: desc
 collections_config_override: true
 collections_config:
-  home_pages:
-    <<: *collection-base
-    path: content
-    name: Home Pages
-    icon: house
-    description: This lists the two hompages (English and Spanish)
-    schemas:
-      default:
-        <<: *schema-base
-        path: .cloudcannon/schemas/home.md
-    filter:
-      base: none
-      include:
-      - _index.md
-      - index-es.md
-    _inputs:
-      welcomeheadline:
-        label: Welcome Headline
-        comment: Headline displayed below the slideshow
   main_pages:
     <<: *collection-base
     path: content
@@ -112,6 +93,25 @@ collections_config:
       - lodging.md
       - search.md
       - tour-guides-and-charters.md
+  home_pages:
+    <<: *collection-base
+    path: content
+    name: Home Pages
+    icon: house
+    description: This lists the two hompages (English and Spanish)
+    schemas:
+      default:
+        <<: *schema-base
+        path: .cloudcannon/schemas/home.md
+    filter:
+      base: strict
+      include:
+      - _index.md
+      - index-es.md
+    _inputs:
+      welcomeheadline:
+        label: Welcome Headline
+        comment: Headline displayed below the slideshow
   regular_pages:
     <<: *collection-base
     path: content/sitepages
