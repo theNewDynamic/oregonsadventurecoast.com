@@ -148,6 +148,9 @@ collections_config:
       default:
         <<: *schema-base
         path: .cloudcannon/schemas/product.md
+    filter:
+      exclude:
+        - _index.md
     _inputs:
       description:
         comment: Description of the product to be displayed on the web site
