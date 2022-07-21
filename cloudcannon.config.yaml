@@ -42,6 +42,7 @@ collection_groups:
     collections:
       - home_pages
       - main_pages
+      - regular_pages
       - adventures
       - posts
       - events
@@ -106,6 +107,15 @@ collections_config:
       - lodging.md
       - search.md
       - tour-guides-and-charters.md
+  regular_pages:
+    <<: *collection-base
+    path: content/sitepages
+    name: Regular Pages
+    icon: tour
+    schemas:
+      default:
+        <<: *schema-base
+        path: .cloudcannon/schemas/regular-page.md
   posts:
     <<: *collection-base
     path: content/blog
