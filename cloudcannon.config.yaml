@@ -82,7 +82,7 @@ collections_config:
         <<: *schema-base
         path: .cloudcannon/schemas/home.md
     filter:
-      base: strict
+      base: none
       include:
       - _index.md
       - index-es.md
