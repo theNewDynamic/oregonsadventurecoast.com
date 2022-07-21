@@ -52,6 +52,7 @@ collection_groups:
       - stores
       - lodgings
       - tour_equipments
+      - products
 ####################
 #### COLLETIONS ####
 ###################
@@ -138,6 +139,22 @@ collections_config:
       default:
         <<: *schema-base
         path: .cloudcannon/schemas/adventure.md
+  products:
+    <<: *collection-base
+    path: content/products
+    name: Products
+    icon: local_offer
+    schemas:
+      default:
+        <<: *schema-base
+        path: .cloudcannon/schemas/product.md
+    _inputs:
+      description:
+        comment: Description of the product to be displayed on the web site
+      product:
+        type: object
+        options:
+          structures: _structures.products
   stores:
     <<: *collection-base
     path: content/store
@@ -349,6 +366,42 @@ _structures:
       value:
         cover:
         source:
+  custom_fields:
+    style: modal
+    id_key: id
+    values:
+    - label: Product Field Size
+      _inputs:
+        id:
+          hidden: true
+        options:
+          type: array
+      value:
+        id: size
+        name: Size
+        options:
+        - S
+        - M
+        - L
+  products:
+    values:
+      _inputs:
+        id: 
+          comment: Will be used as product ID in the store back office
+        price:
+          type: number
+        weight:
+          type: number
+          comment: The weight of the product in ounces
+        description:
+          comment: ''
+      value:
+        id:
+        price:
+        weight:
+        description:
+        custom_fields:
+
 ####################
 #### INPUTS ####
 ###################
