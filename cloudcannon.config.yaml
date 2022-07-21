@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
-
+# - [ ] Gallery Template (Main Pages)
 paths:
   uploads: img
   static: static
@@ -40,8 +40,9 @@ _editables:
 collection_groups:
   - heading: Pages
     collections:
-      - posts
+      - main_pages
       - adventures
+      - posts
       - events
       - trip_ideas
       - stores
@@ -58,15 +59,36 @@ x-collection-base: &collection-base
   icon: article
   disable_add_folder: true
   sort_options:
-  - key: date
-    order: desc
-  - key: date
-    order: asc
   - key: title
     order: asc
-
+    label: Title
+  - key: title
+    order: desc
+    label: Title (Z-A)
 collections_config_override: true
 collections_config:
+  main_pages:
+    <<: *collection-base
+    path: content
+    name: Main Pages
+    icon: assignment_late
+    schemas:
+      default:
+        <<: *schema-base
+        path: .cloudcannon/schemas/regular-page.md
+    filter:
+      base: none
+      include:
+      - adventures.md
+      - calendar.md
+      - dining.md
+      - equipment-rent-and-buy.md
+      - events.md
+      - gallery.md
+      - index-es.md
+      - lodging.md
+      - search.md
+      - tour-guides-and-charters.md
   posts:
     <<: *collection-base
     path: content/blog
@@ -81,6 +103,15 @@ collections_config:
     path: content/adventure
     name: Adventures
     icon: hiking
+    sort_options:
+    - key: date
+      order: desc
+    - key: date
+      order: asc
+    - key: title
+      order: asc
+    - key: title
+      order: desc
     schemas:
       default:
         <<: *schema-base
@@ -205,16 +236,15 @@ collections_config:
     sort_options:
     - key: startdate
       order: desc
-      label: Start Date
+      label: Start Date (Newest First)
     - key: startdate
       order: asc
-      label: Start Date (Desc)
+      label: Start Date
     - key: title
       order: asc
 ####################
 #### STRUCTURES ####
 ###################
-
 _structures:
   accordion_sections:
     values:
@@ -229,6 +259,23 @@ _structures:
       value:
         title:
         content:
+  ctas:
+    values:
+      _inputs:
+        title: The text on the button
+      value:
+        title:
+        url:
+        action:
+        image:
+  boxes:
+    values:
+      value:
+        desktopphoto:
+        desktoptitle:
+        mobiletitle:
+        hovertitle:
+        url:
 ####################
 #### INPUTS ####
 ###################
@@ -266,6 +313,9 @@ _inputs:
     hidden: warning
   url:
     type: text
+  layout:
+    label: Layout
+    comment: Choose Layout/Sidebar for Your Page
   startdate: &textdate
     type: text
     label: Start Date
@@ -273,6 +323,10 @@ _inputs:
   enddate:
     <<: *textdate
     label: End Date
+  ctas:
+    type: array
+    label: CTAs
+    comment: Add CTAs to be invoked with the 'ctas' shortcode or else.
   property_category:
     type: multiselect
     options:
@@ -280,6 +334,8 @@ _inputs:
   website:
     type: url
     comment: Website's URL. Must include protocole (https://)
+  boxes:
+    label: Masonry Items
   desktoptitle: &responsive_title
     type: text
     comment: Title displayed on desktop
