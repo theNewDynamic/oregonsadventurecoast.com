@@ -25,13 +25,41 @@ seo:
 ---
 {{< floatimage src="/img/charleston-seafood-fest-large.jpg" float="none" alt="Stage At Charleston Seafood Fest" size="68" >}}
 
-Join us for the **Annual Charleston Seafood, Beer & Wine Festival** located at the Charleston Marina on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. 
+Join us for the **Annual Charleston Seafood, Beer & Wine Festival** located at the Charleston Marina on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**.
 
 Come on out for food, fun, music, and crafts. The Charleston Volunteer Firefighter’s invite you to celebrate the harvest from the sea.  With more than 50 vendors selling food, craft beer, regional wines, arts & crafts, shirts, trinkets, and lots more.
 
+{{< spacer 25 >}}
+
+![](/img/clam-jam.jpeg)
+
 Great music all weekend with the **K-DOCK 92.9 FM CLAM JAM** featuring live Rock and Roll, Blues, Oldies, and more!
 
-{{< spacer 10 >}}
+**This year we have lined up a great set of bands to entertain you!**
+
+**Friday, August 12th**
+
+1:00 p.m. – The Endeavors 
+
+3:00 p.m. – In Session 
+
+5:30 p.m. – TOYZ
+
+**Saturday, August 13th** 
+
+12:00 p.m. – Horst Hartung 
+
+2:30 p.m. – Generation Band 
+
+5:00 p.m. – TOYZ
+
+**Sunday, August 14th** 
+
+12:00 p.m. – South Fork Four
+
+ 2:00 p.m. – Timberwolf
+
+{{< spacer 25 >}}
 
 ![](/img/kidsfunzone.png)
 
