@@ -14,8 +14,8 @@ property_description: 'As a 50 year veteran commercial fisherman participating i
 property_name: Coos Bay Charters
 equip_type:
 - Tour
-photo_name: ''
-photo_alt: ''
+photo_name: "/img/coos-bay-charters.jpg"
+photo_alt: Captain John guides you to the best the Pacific has to offer!
 phone_local: 831-428-2181
 phone_toll_free: ''
 website: https://coosbaycharters.com/
@@ -27,6 +27,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
