@@ -6,12 +6,12 @@ address:
   city: North Bend
   zip: '97459'
 title: Myrtlewood Factory RV Park
-property_description: 'If you''re looking for RV Parking that is next to the Oregon
-  Sand Dunes, you''ve come to the right place.   At the Myrtlewood Factory & RV Park
-  we offer 86 paved campsites with excellent Dune Access. We are located just 2/10
-  of a mile from the riding area. Myrtlewood Factory & RV Park is centrally located
-  at the Hauser Staging area just off Hwy 101 in North Bend.  Our rates are competitive,
-  with no hidden fees. '
+property_description: If you're looking for RV Parking that is next to the Oregon
+  Sand Dunes, you've come to the right place. The Myrtlewood Factory & RV Park offers
+  86 paved campsites with excellent Dune Access. The RV Park is located just 2/10
+  of a mile from the riding area and is centrally located at the Hauser Staging area
+  just off Hwy 101 in North Bend.  Rates are competitive, with no hidden fees. This
+  is a dry camp with no hook-ups or water. Portable restrooms on site.
 photo_name: "/img/myrtlewood.jpg"
 photo_alt: RV Parking next to the Dunes
 units: 86
