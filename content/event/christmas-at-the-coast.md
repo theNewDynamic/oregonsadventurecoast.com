@@ -69,9 +69,9 @@ Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown inste
 
 {{< spacer 20 >}}
 
-#### December 2 <br>Empire District Virtual Tree Lighting and Santa Parade
+#### December 2 <br>Empire District Tree Lighting and Santa Parade
 
-The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, and will also live stream it on their [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194). Before the lighting, Santa will be riding through the streets in the Empire District - from 3:30-5:30pm - on top of the Empire fire engine as his elves hand out goodies to all the good little children in Empire. 
+The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, and will also live stream it on their [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194). Before the lighting, Santa will be riding through the streets in the Empire District - from 3:30-5:30pm - on top of the Empire fire engine as his elves hand out goodies to all the good little children in Empire. After the tree lighting, Star of Hope will once again be opening their doors for families to come in, have refreshments, visit personally with Santa, and vote in the gingerbread house competition. Each Star of Hope team will design and build a gingerbread house entry and the most votes will determine this year's winner.
 
 {{< spacer 20 >}}
 
