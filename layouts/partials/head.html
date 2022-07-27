@@ -54,6 +54,7 @@
 <script defer src="https://unpkg.com/alpinejs@3.9.0/dist/cdn.min.js"></script>
 
 {{ with .Params.instantsearch }}
+	{{ if partialCached "huge/env/IsNot" "skip-json" "skip-json" }}
 	{{ $mapKey := "" }}
 	{{ with getenv "GOOGLE_MAP_API" }}
 		{{ $mapKey = . }}
@@ -64,4 +65,6 @@
 	{{ end }}
 	<script src="https://maps.googleapis.com/maps/api/js?=js?v=quarterly&key={{ $mapKey }}" type="text/javascript"></script>
 	{{ partial "tnd-search/instantsearch/tags" (slice .) }}
+	{{ end }}
+
 {{ end }}

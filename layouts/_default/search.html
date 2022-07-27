@@ -17,5 +17,7 @@
 {{ end }}
 
 {{ define "head-additions" }}
+{{ if partialCached "huge/env/IsNot" "skip-json" "skip-json" }}
 {{ partialCached "huge/scripts/tags" (slice "search") "search" }}
+{{ end }}
 {{ end }}
