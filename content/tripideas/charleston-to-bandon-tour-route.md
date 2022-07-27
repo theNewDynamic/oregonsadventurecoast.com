@@ -1,32 +1,35 @@
 ---
+_schema: default
 title: Charleston to Bandon Tour Route
+draft: false
+description: >-
+  A short spur off the Pacific Coast Scenic Byway, this Route showcases a
+  glorious stretch of coastline that includes six state parks, two National
+  Wildlife Refuges and America’s first National Estuarine Research Reserve.
+image: /img/wave-crash-charleston-bandon-tour.jpg
+towns:
+  - charleston
+durations:
+  - full-day
+  - half-day
 aliases:
   - /trip-ideas/charleston-to-bandon-tour-route
-description: A short spur off the Pacific Coast Scenic Byway, this Route showcases
-  a glorious stretch of coastline that includes six state parks, two National Wildlife
-  Refuges and America’s first National Estuarine Research Reserve.
-durations:
-- full-day
-- half-day
-towns:
-- charleston
 tripadventures:
-- beach
-- lighthouses
-- scenic-drives
-- state-parks-national-lands
-image: "/img/wave-crash-charleston-bandon-tour.jpg"
-
+  - beach
+  - lighthouses
+  - scenic-drives
+  - state-parks-national-lands
 ---
-{{< floatimage src="/img/charleston-to-bandon-cover-icon.png" float="right" alt="Charleston to Bandon Scenic Tour Driving Map" size="20" >}} 
+
+{{< floatimage src="/img/charleston-to-bandon-cover-icon.png" float="right" alt="Charleston to Bandon Scenic Tour Driving Map" size="20" >}}
 
 A short spur off the Pacific Coast Scenic Byway, this Route showcases a glorious stretch of coastline that includes six state parks, two National Wildlife Refuges and America’s first National Estuarine Research Reserve.
 
 [Download our Charleston to Bandon Scenic Tour Driving Map.](/img/charleston-to-bandon-map.pdf "charleston-to-bandon-map.pdf")
 
-<div class="clearfix"></div>
+<div class="clearfix">&nbsp;</div>
 
-## To Coos Head
+## To Coos Head ytes
 
 From North Bend, take Cape Arago Highway to Charleston, a working fishing port and a great point of departure for a charter fishing trip. Soon you’ll pass the Oregon Institute of Marine Biology, a teaching and research extension of the University of Oregon, and Coos Head, which offers a fascinating look at the mouth of this dynamic estuary. Driving south, you’ll reach Bastendorff Beach County Park, a popular surfing spot.
 
@@ -40,4 +43,4 @@ Driving south, you’ll come to the South Slough National Estuarine Research Res
 
 ### Want more details?
 
-Order a free <a href="https://traveloregon.com/travel-guides/" target="_blank"> Oregon Scenic Byways</a> guide, or view a map of the <a href="http://www.journalgraphicsdigitalpublications.com/epubs/MEDIAMERICA/ScenicByWaysGuide2016/viewer/desktop/#page/58" target="_blank">Charleston to Bandon Tour Route</a> online. _Sourced from <a href="https://traveloregon.com/things-to-do/trip-ideas/scenic-drives/charleston-to-bandon-tour-route/" target="_blank">TravelOregon.com</a>_
+Order a free <a target="_blank" href="https://traveloregon.com/travel-guides/"> Oregon Scenic Byways</a> guide, or view a map of the <a target="_blank" href="http://www.journalgraphicsdigitalpublications.com/epubs/MEDIAMERICA/ScenicByWaysGuide2016/viewer/desktop/#page/58">Charleston to Bandon Tour Route</a> online. *Sourced from <a target="_blank" href="https://traveloregon.com/things-to-do/trip-ideas/scenic-drives/charleston-to-bandon-tour-route/">TravelOregon.com</a>*
