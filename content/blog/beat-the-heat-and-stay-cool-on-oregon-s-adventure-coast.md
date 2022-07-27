@@ -85,4 +85,4 @@ It’s easy! Watch and imagine yourself here. When you are ready to return, this
 
 So beat the heat and get your road trip on for a much-needed, low-key, easy-breezy getaway. When you are ready to visit, we will be here to help you plan your trip.
 
-Please don’t hesitate to [**contact us**](/contact/) with any questions. And be sure to visit our [**Lodging Page**](/lodging/) to see our many lodging options. Just FYI, we’re also cool with four-legged friends and have plenty of [**Pet-Friendly hotels **](/blog/dog-friendly-hotels-on-oregon-s-adventure-coast/)to choose from!
+Please don’t hesitate to [**contact us**](/contact/) with any questions. And be sure to visit our [**Lodging Page**](/lodging/) to see our many lodging options. Just FYI, we’re also cool with four-legged friends and have plenty of [**Pet-Friendly lodging**](/blog/dog-friendly-hotels-on-oregon-s-adventure-coast/) to choose from!
