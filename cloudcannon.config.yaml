@@ -76,6 +76,7 @@ collections_config:
     path: content
     name: Main Pages
     icon: assignment_late
+    description: This is where site's main pages go. Sections and homepages.
     schemas:
       default:
         <<: *schema-base
@@ -199,7 +200,6 @@ collections_config:
     _enabled_editors:
       - data
     filter:
-      base: strict
       exclude: _index.md
     schemas:
       default:
