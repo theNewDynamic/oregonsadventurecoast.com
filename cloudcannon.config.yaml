@@ -108,6 +108,9 @@ collections_config:
     path: content/sitepages
     name: Regular Pages
     icon: tour
+    filter:
+      exclude:
+      - _index.md
     schemas:
       default:
         <<: *schema-base
@@ -461,6 +464,7 @@ _inputs:
     comment: Website's URL. Must include protocole (https://)
   boxes:
     label: Masonry Items
+    type: array
   desktoptitle: &responsive_title
     type: text
     label: Title for Desktop
