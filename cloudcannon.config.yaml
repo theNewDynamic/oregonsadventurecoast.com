@@ -40,7 +40,6 @@ _editables:
 collection_groups:
   - heading: Landing Pages
     collections:
-      - home_pages
       - main_pages
       - regular_pages
   - heading: Other
@@ -72,25 +71,6 @@ x-collection-base: &collection-base
     order: desc
 collections_config_override: true
 collections_config:
-  home_pages:
-    <<: *collection-base
-    path: content
-    name: Home Pages
-    icon: house
-    description: This lists the two hompages (English and Spanish)
-    schemas:
-      default:
-        <<: *schema-base
-        path: .cloudcannon/schemas/home.md
-    filter:
-      base: none
-      include:
-      - _index.md
-      - index-es.md
-    _inputs:
-      welcomeheadline:
-        label: Welcome Headline
-        comment: Headline displayed below the slideshow
   main_pages:
     <<: *collection-base
     path: content
@@ -100,9 +80,19 @@ collections_config:
       default:
         <<: *schema-base
         path: .cloudcannon/schemas/regular-page.md
+      home:
+        <<: *schema-base
+        icon: house
+        path: .cloudcannon/schemas/home.md
+    _inputs:
+      welcomeheadline:
+        label: Welcome Headline
+        comment: Headline displayed below the slideshow
     filter:
       base: none
       include:
+      - _index.md
+      - index-es.md
       - adventures.md
       - calendar.md
       - dining.md
