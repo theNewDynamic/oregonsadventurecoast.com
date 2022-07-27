@@ -27,6 +27,10 @@ website: http://shoreacres.net/
 
 {{< floatimage src="/img/Holiday-Lights-Logo-320px.png" float="right" alt="Annual Holiday Lights at Shore Acres State Park in Charleston, Oregon" size="100" >}}
 
+### NEW! This Year, Everyone must have a timed entry ticket to get in to see the lights! It's easy to secure your time. See below for more information!!
+
+{{< spacer 50 >}}
+
 ### **The brightest and most beautiful place on the West Coast is BACK in 2022 and Better than Ever.**
 
 {{< spacer 35 >}}
@@ -37,9 +41,18 @@ This festive annual display debuts on Thanksgiving Day (Thursday, November 24th)
 
 {{< spacer 25 >}}
 
-#### NEW THIS YEAR - TIMED ENTRY - MORE DETAILS SOON
+#### NEW THIS YEAR - TIMED ENTRY 
 
-This year, **Holiday Lights visitation will be through a timed reservation system**, which will be available to visitors later this year. In an effort to decrease long wait times and backed up traffic conditions, Friends of Shore Acres is partnering with OPRD to streamline the process of entering Shore Acres State Park for the extremely popular Holiday Lights event. 
+This year, [**Holiday Lights visitation will be through a timed reservation system**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381). In an effort to decrease long wait times and backed-up traffic conditions, Friends of Shore Acres is partnering with OPRD to streamline the process of entering Shore Acres State Park for the extremely popular Holiday Lights event. **Entry into the lights is Free, but you must pay the $5 parking fee to park at Shore Acres for the Event.**
+
+**Here's how to do it!**
+
+1. **Pick your day/time to visit** - note that half of the parking tickets will be sold in advance with the rest available within 7 days of entry - for those last-minute planners!!
+2. [**Visit the OPRD website**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381) **to book**
+3. **Pay the $5 fee** per vehicle
+4. **Print your pass**. You must bring the pass with you to enter the park.
+5. _NOTE: you will NOT be able to purchase entry tickets at the gate this year. You must do this in advance_.
+6. _Also note:_ if you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Pass, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $5 will be waived. **_You still have to book ONLINE!!_** **_You will need to present your event parking pass AND your special pass at the gate._**
 
 {{< spacer 50 >}}
 
