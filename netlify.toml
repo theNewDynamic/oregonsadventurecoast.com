@@ -25,6 +25,12 @@ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 [context.branch-deploy.environment]
 HUGO_ENV = "staging"
 
+[[headers]]
+  # Define which paths this specific [[headers]] block will cover.
+  for = "/"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
+
 [dev]
   functions = "functions"
   publish = "public"
