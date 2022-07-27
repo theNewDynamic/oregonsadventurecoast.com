@@ -3,3 +3,7 @@ scripts:
   path: js/main.js
 - name: search
   path: js/search.js
+- name: cms_assets
+  path: js/cms_assets.js
+  internal: true
+  format: cjs

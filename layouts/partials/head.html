@@ -44,9 +44,15 @@
 	{{ template "_internal/google_analytics_async.html" . }}
 {{ end }}
 
-{{ partialCached "huge/styles/tags" (slice "main") "main" }}
+{{ if partialCached "huge/env/Is" "skip-json" "skip-json" }}
+	{{ partialCached "huge/scripts/tags" (slice "cms_assets") "cms_assets" }}
+{{ else }}
+	{{ partialCached "huge/styles/tags" (slice "main") "main" }}
+	{{ partialCached "huge/scripts/tags" (slice "main") "main" }}
+{{ end }}
+
 <script defer src="https://unpkg.com/alpinejs@3.9.0/dist/cdn.min.js"></script>
-{{ partialCached "huge/scripts/tags" (slice "main") "main" }}
+
 {{ with .Params.instantsearch }}
 	{{ $mapKey := "" }}
 	{{ with getenv "GOOGLE_MAP_API" }}
