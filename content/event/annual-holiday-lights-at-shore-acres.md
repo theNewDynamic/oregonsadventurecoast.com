@@ -82,8 +82,8 @@ divider
 
 ***
 
-**$5 parking fee** - **_Cash or Check Only_**  
-Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or current Campground Receipt.
+**$5 parking fee** - **_MUST BOOK ONLINE AS NOTED ABOVE_**  
+Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or current Campground Receipt. See information above on how to book your time.
 
 **Animals** - Dogs and other animals are not allowed outside vehicles at Shore Acres. _Exception: Service Animals_
 
