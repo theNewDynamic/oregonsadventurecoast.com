@@ -27,7 +27,7 @@ website: http://shoreacres.net/
 
 {{< floatimage src="/img/Holiday-Lights-Logo-320px.png" float="right" alt="Annual Holiday Lights at Shore Acres State Park in Charleston, Oregon" size="100" >}}
 
-### NEW! This Year, Everyone must have a timed entry ticket to get in to see the lights! It's easy to secure your time. See below for more information!!
+### [**NEW! This Year, Everyone must have a timed entry ticket to get in to see the lights! It's easy to secure your time. See below for more information!!**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381)
 
 {{< spacer 50 >}}
 
