@@ -1,4 +1,5 @@
 let domain = "https://www.oregonsadventurecoast.com"
+let local_domain = window.location.origin
 fetch(domain)
   .then(response => response.text())
   .then(html => {
@@ -9,8 +10,9 @@ fetch(domain)
       if (tag.rel == "stylesheet" && !tag.media) {
         const link = document.createElement('link');
         var tag_href = tag.href
-        if(tag_href.indexOf("http://localhost:1313") != -1){
-          tag_href = tag_href.replace("http://localhost:1313", domain)
+        if(tag_href.indexOf(local_domain) != -1){
+          tag_href = tag_href.replace(local_domain, domain)
+          console.log(tag_href)
         }
         link.href = tag_href;
         link.rel = tag.rel;
@@ -21,8 +23,8 @@ fetch(domain)
     Array.from(f.getElementsByTagName("script")).forEach(tag => {
       const script = document.createElement('script');
       var tag_href = tag.src
-      if(tag_href.indexOf("http://localhost:1313") != -1){
-        tag_href = tag_href.replace("http://localhost:1313", domain)
+      if(tag_href.indexOf(local_domain) != -1){
+        tag_href = tag_href.replace(local_domain, domain)
       }
       script.src = tag_href;
       script.defer = true
