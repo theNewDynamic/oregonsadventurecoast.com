@@ -66,15 +66,12 @@ Bandon, a classic beach town, is known for an active art scene, unique stores an
 
 To learn more and plan your own adventure, order a free {{< link url="https://traveloregon.com/travel-guides" >}}Oregon Scenic Byways guide{{< /link >}}, or visit our [Cape Arago Highway Loop](https://oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/) and[ Charleson to Bandon Tour Route](https://oregonsadventurecoast.com/tripideas/charleston-to-bandon-tour-route/) itinerary pages.
 
-Additional Resources:
+**Additional Resources:**
 
-{{< link url="https://traveloregon.com/things-to-do/trip-ideas/scenic-drives/charleston-to-bandon-tour-route" >}}Travel Oregon: Charleston to Bandon Tour Route{{< /link >}}  
-\\
+{{< link url="https://traveloregon.com/things-to-do/trip-ideas/scenic-drives/charleston-to-bandon-tour-route" >}}Travel Oregon: Charleston to Bandon Tour Route{{< /link >}}
 
-{{< link url="http://coastexplorermagazine.com/features/best-side-trips-off-oregon-coast-highway-101-page-5" >}}Coast Explorer Magazine: Best Side Trips Off Oregon Coast Highway 101{{< /link >}}  
-\\
+{{< link url="http://coastexplorermagazine.com/features/best-side-trips-off-oregon-coast-highway-101-page-5" >}}Coast Explorer Magazine: Best Side Trips Off Oregon Coast Highway 101{{< /link >}}
 
-{{< link url="https://visittheoregoncoast.com/2018/05/ultimate-south-coast-road-trip" >}}Visit the Oregon Coast: Ultimate South Coast Road Trip{{< /link >}}  
-\\
+{{< link url="https://visittheoregoncoast.com/2018/05/ultimate-south-coast-road-trip" >}}Visit the Oregon Coast: Ultimate South Coast Road Trip{{< /link >}}
 
 {{< link url="https://traveloregon.com/things-to-do/eat-drink/family-weekend-in-bandon-and-coos-bay" >}}Travel Oregon: Family Weekend in Bandon and Coos Bay{{< /link >}}
