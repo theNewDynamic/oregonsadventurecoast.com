@@ -43,18 +43,12 @@
 	<meta name="facebook-domain-verification" content="d60r78hv13z9t4u6ynr4pq0bbt5gbz" />
 	{{ template "_internal/google_analytics_async.html" . }}
 {{ end }}
-
-{{ if partialCached "huge/env/Is" "skip-json" "skip-json" }}
-	{{ partialCached "huge/scripts/tags" (slice "cms_assets") "cms_assets" }}
-{{ else }}
 	{{ partialCached "huge/styles/tags" (slice "main") "main" }}
 	{{ partialCached "huge/scripts/tags" (slice "main") "main" }}
-{{ end }}
 
 <script defer src="https://unpkg.com/alpinejs@3.9.0/dist/cdn.min.js"></script>
 
 {{ with .Params.instantsearch }}
-	{{ if partialCached "huge/env/IsNot" "skip-json" "skip-json" }}
 	{{ $mapKey := "" }}
 	{{ with getenv "GOOGLE_MAP_API" }}
 		{{ $mapKey = . }}
@@ -65,6 +59,4 @@
 	{{ end }}
 	<script src="https://maps.googleapis.com/maps/api/js?=js?v=quarterly&key={{ $mapKey }}" type="text/javascript"></script>
 	{{ partial "tnd-search/instantsearch/tags" (slice .) }}
-	{{ end }}
-
 {{ end }}
