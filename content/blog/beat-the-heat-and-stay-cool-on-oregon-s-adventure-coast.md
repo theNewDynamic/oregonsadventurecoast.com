@@ -29,8 +29,6 @@ draft: true
 ---
 ### BEAT THE HEAT AND STAY COOL ON OREGON’S ADVENTURE COAST
 
-{{< spacer 50 >}}
-
 When the mercury starts to rise, land-locked Oregonians’ thoughts turn to the coast, where the Pacific Ocean (aka, “Nature’s Air Conditioner”) serves up plenty of cool breezes and fresh air. **Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston** is known for being cool, literally. Yes, there are scores of “cool” [activities](/adventures/) the whole family can enjoy, but with an average summertime temperature of mid-high 60s, our region offers a blissful escape from scorching hot temperatures you might be experiencing in other parts of the state this time of year.
 
 If you’re planning your next “beat the heat” trip to the coast, **Oregon’s Adventure Coast** is just a couple hours from Eugene, through the beautiful Coast Range, and offers those cooler temps you crave and something else too — space to spread out. With miles of undeveloped beaches, the longest stretch of coastal dunes in North America, and some of the Oregon Coast’s most jaw-droppingly beautiful hikes, there’s just more room to explore here.
