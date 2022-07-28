@@ -1,9 +1,9 @@
 ---
 title: Beat The Heat and Stay Cool On Oregon’s Adventure Coast!
-date: 2022-07-27T22:00:00+00:00
+date: 2022-07-27T22:00:00.000+00:00
 description: Is the weather where you are just too hot to handle? Beat the heat and
   stay Cool on the Coast in Coos Bay, North Bend & Charleston!
-image: ''
+image: "/img/cool-at-coast-695-x-322.jpg"
 tags:
 - Beat the heat
 - Cool at the Coast
@@ -72,8 +72,6 @@ There’s a reason why surfers love Oregon’s Adventure Coast! We could explain
 <iframe src="[https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=1&width=560](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=1&width=560 "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=1&width=560")" width="560" height="468" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
 #### **SOCIAL DISTANCE AT SIMPSON BEACH**
-
-It’s easy! Watch and imagine yourself here. When you are ready to return, this beauty will be waiting for you.
 
 <iframe src="[https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOregonsAdventureCoast%2Fvideos%2F501046370589317%2F&show_text=1&width=560](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=1&width=560 "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=1&width=560")" width="560" height="474" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
