@@ -1,4 +1,5 @@
 ---
+_schema: home
 title: En Oregon Costa de Aventuras - Coos Bay, North Bend y Charleston
 layout: home
 lang: es
