@@ -1,0 +1,15 @@
+---
+title:
+draft:
+property_description:
+property_name:
+equip_type:
+photo_name:
+photo_alt:
+address:
+phone_local:
+phone_toll_free:
+website:
+coordinates:
+seo:
+---

@@ -1,0 +1,15 @@
+---
+title:
+slideshow:
+welcomeheadline:
+home_splashes:
+masonry1:
+masonry2:
+masonry3:
+masonry4:
+masonry5:
+masonry6:
+masonry7:
+seo:
+aliases:
+---

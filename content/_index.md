@@ -1,4 +1,5 @@
 ---
+_schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 layout: home
 aliases:
