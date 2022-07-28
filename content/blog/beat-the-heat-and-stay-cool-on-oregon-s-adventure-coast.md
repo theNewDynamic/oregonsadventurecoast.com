@@ -35,6 +35,8 @@ When the mercury starts to rise, land-locked Oregonians’ thoughts turn to the 
 
 If you’re planning your next “beat the heat” trip to the coast, **Oregon’s Adventure Coast** is just a couple hours from Eugene, through the beautiful Coast Range, and offers those cooler temps you crave and something else too — space to spread out. With miles of undeveloped beaches, the longest stretch of coastal dunes in North America, and some of the Oregon Coast’s most jaw-droppingly beautiful hikes, there’s just more room to explore here.
 
+![cool at the coast with stand up paddle boarding, hiking by waterfalls and freshwater fishing](/img/cool-at-coast-collage-v01-395x322.jpg)
+
 {{< spacer 50 >}}
 
 #### A Summer Getaway You Won’t Soon Forget
@@ -45,6 +47,8 @@ Book an adrenaline-charged [ATV or dune buggy trip](/atv-motorsports/) in the Or
 
 **Oregon’s Adventure Coast** also offers a wealth of options for [fishing](/fishing/), [crabbing](/crabbing-clamming/), [clamming](/clamming/), [mountain biking](/cycling/), and [birding](/birding-and-wildlife/). Guided [kayaking, ATVing and fishing tours](/blog/where-to-find-local-tour-guides-charters-on-oregon-s-adventure-coast/) are available to help the whole family enjoy the area to its fullest.
 
+![sunsets over the pacific ocean - beachside lunch and toasting beer at 7 Devils](/img/cool-at-coast-collage-v02-395x322.jpg)
+
 {{< spacer 50 >}}
 
 #### Urban Adventures Abound Too
@@ -52,6 +56,8 @@ Book an adrenaline-charged [ATV or dune buggy trip](/atv-motorsports/) in the Or
 At the heart of this recreational Eden is the greater Coos Bay, North Bend, Charleston area. It’s the perfect launching point for your outdoor adventures and a great place to take in cool Pacific breezes while you enjoy its abundant [shopping](/shopping/), [dining](/dining/), [gaming](/gaming/), and [nightlife](/entertainment-and-nightlife/) options.
 
 Oregon's Adventure Coast’s late-summer calendar is packed with fun-filled events, including [The Mill Casino's Food Truck Off](/event/the-mill-casino-food-truck-off/) (Aug. 5-7, 2022), the [Annual Blackberry Arts Festival](/event/annual-blackberry-arts-festival/) (Aug. 27-28, 2022), the [Mill-Luck Salmon Celebration](/event/mill-luck-salmon-celebration/) (Sept. 10-11, 2022) and the [Bay Area Fun Festival](/event/annual-bay-area-fun-festival/) (Sept. 17-18, 2022).
+
+![bay area fun festival - cruz the coos cars - and prefontaine run](/img/cool-at-coast-collage-v03-395x322.jpg)
 
 {{< spacer 50 >}}
 
