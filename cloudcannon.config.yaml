@@ -85,6 +85,10 @@ collections_config:
         <<: *schema-base
         icon: house
         path: .cloudcannon/schemas/home.md
+      gallery:
+        <<: *schema-base
+        icon: collections
+        path: .cloudcannon/schemas/gallery.md
     _inputs:
       welcomeheadline:
         label: Welcome Headline
@@ -520,6 +524,14 @@ _inputs:
   masonry5: *input-masonry
   masonry6: *input-masonry
   masonry7: *input-masonry
+  gallery:
+    type: array
+    options:
+      structures:
+        values:
+          value:
+            title:
+            image:
   seo:
     type: object
     options:
