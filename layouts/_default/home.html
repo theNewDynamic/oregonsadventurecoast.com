@@ -78,7 +78,7 @@
                     </video>
                 {{ else }}
                     {{ with .photo }}
-                        <img src="{{ . }}" alt="{{ $slide.title }}">
+                        <img src="{{ . }}" alt="{{ $slide.title }}" />
                     {{ end }}
                 {{ end }}
                 <div class="title">{{ .title }}</div>
@@ -137,7 +137,11 @@
             {{ $ext := partialCached "tnd-func/IsExternalURL" . . }}
             <div class="m-home-splash">
                 <a href="{{ . }}" {{ if $ext }} target="_blank"{{ end }}>
-                    <img src="{{ $splash.img }}" {{ with $splash.alt }}alt="{{ . }}"{{ end }}>
+                    {{ $alt_image := "" }}
+                    {{ with $splash.alt  }}
+                        {{ $alt_image = . }}
+                    {{ end }}
+                    <img src="{{ $splash.img }}" alt="{{ $alt_image }}" />
                 </a>
             </div>
         {{ end }}

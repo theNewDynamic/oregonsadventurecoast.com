@@ -6,7 +6,7 @@ publish = "public"
 command = "hugo --gc"
 
 [build.environment]
-  HUGO_VERSION = "0.91.0"
+  HUGO_VERSION = "0.91.2"
   GO_VERSION = "1.16.5"
 
 [context.production.environment]
