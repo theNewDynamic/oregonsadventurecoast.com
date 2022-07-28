@@ -61,29 +61,25 @@ Oregon's Adventure Coast’s late-summer calendar is packed with fun-filled even
 
 ### While on Oregon’s Adventure Coast, check out these other “cool” things to do!!
 
-#### [**COMBINE THE CAPE ARAGO HIGHWAY LOOP & CHARLESTON TO BANDON TOUR ROUTE FOR THE ULTIMATE OREGON COAST ROAD TRIP**]()
+#### [**Combine the Cape Arago Hwy Loop & Charleston to Bandon Tour for the Ultimate Oregon Coast Road Trip**](/blog/featured-road-trip-cape-arago-highway-charleston-to-bandon-tour-route/)
 
 This 41-mile route features everything you could hope to see along the Oregon Coast — iconic views of the Pacific ocean, marine life, sea lions and seabirds, untouched beaches, secret coves, six state parks, two National Wildlife Refuges and America’s first National Estuarine Research Reserve.
 
-#### [**GET “BEACHY” AT BASTENDORFF BEACH**]()
+#### [**Get "Beachy" at Bastendorff Beach**](/blog/2017-08-29-spotlight-on-bastendorff-beach/)
 
 We love all of our beautiful, undeveloped beaches here on Oregon’s Adventure Coast. But [Bastendorff Beach](/undeveloped-beaches/), about two miles west of Charleston, seems to be a fan favorite. It’s never overly crowded and makes you feel as if you’ve entered a different world, even though you’re only minutes from town. The beach is ideal for picnicking, walking/jogging, or just spending a relaxing day perched on a beach chair gazing at the sea. It’s a favorite among surfers, kiters, campers, beachcombers, and locals and tourists alike. Visitors going to the beach should be aware of [coastal safety hazards](/blog/eight-ways-to-stay-safe-on-the-beaches-along-the-oregon-coast/) with the potential danger of undertows, sneaker waves, and rolling logs.
 
-#### [**SURF ON!**](/water-recreation/)
+#### [**Surf On!**](/water-recreation/)
 
 There’s a reason why surfers love Oregon’s Adventure Coast! We could explain, but we’d rather show you in this video our friend Rick Dancer shared when he experienced Surfing Oregon’s Adventure Coast style!
 
 <iframe src="[https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=1&width=560](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=1&width=560 "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=1&width=560")" width="560" height="468" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
-#### **SOCIAL DISTANCE AT SIMPSON BEACH**
-
-<iframe src="[https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOregonsAdventureCoast%2Fvideos%2F501046370589317%2F&show_text=1&width=560](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=1&width=560 "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=1&width=560")" width="560" height="474" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
-
 {{< spacer 50 >}}
 
 **But that’s not all! Visit our** [**Adventure Page**](/adventures/) **for more cool ideas and inspiration!**
 
-{{< spacer 50 >}}
+{{< spacer 25 >}}
 
 So beat the heat and get your road trip on for a much-needed, low-key, easy-breezy getaway. When you are ready to visit, we will be here to help you plan your trip.
 
