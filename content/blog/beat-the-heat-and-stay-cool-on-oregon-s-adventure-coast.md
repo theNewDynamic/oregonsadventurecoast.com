@@ -80,7 +80,7 @@ We love all of our beautiful, undeveloped beaches here on Oregon’s Adventure C
 
 There’s a reason why surfers love Oregon’s Adventure Coast! We could explain, but we’d rather show you in this video our friend Rick Dancer shared when he experienced Surfing Oregon’s Adventure Coast style!
 
-<iframe src="[https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=1&width=560](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=1&width=560 "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=1&width=560")" width="560" height="468" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<iframe src="[https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=0&width=560](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=0&width=560 "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=0&width=560")" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 {{< spacer 50 >}}
 
