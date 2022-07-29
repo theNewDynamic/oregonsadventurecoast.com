@@ -75,7 +75,7 @@ _** Thanks to the sponsorship of Oregon Parks & Recreation Department's Park Exp
 
 #### CLICK THE LINKS BELOW TO PURCHASE TICKETS FOR THE SHORE ACRES CONCERTS - _Tickets On Sale beginning April 6th_
 
-[**Tue, Aug 23, 6:00 PM**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-tue-823-tickets-311629140147?aff=ebdsoporgprofile)
+[**Tue, Aug 23, 6:00 PM**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-tue-823-tickets-311629140147?aff=ebdsoporgprofile) **(Sold Out)**
 
 [**Wed, Aug 24, 6:00 PM**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-wed-824-tickets-311631266507?aff=ebdsoporgprofile)
 
