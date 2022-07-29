@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
-# - [ ] Gallery Template (Main Pages)
+# - [ ] lodgingitems: units (must be int or string, not both as current)
 paths:
   uploads: img
   static: static
@@ -145,6 +145,7 @@ collections_config:
     path: content/products
     name: Products
     icon: local_offer
+    image_key: image
     schemas:
       default:
         <<: *schema-base
@@ -152,6 +153,8 @@ collections_config:
     filter:
       exclude:
         - _index.md
+    _enabled_editors:
+      - data
     _inputs:
       description:
         comment: Description of the product to be displayed on the web site
@@ -208,7 +211,7 @@ collections_config:
     path: content/lodgingitems
     name: Lodging
     icon: hotel
-    image_key: photo
+    image_key: photo_name
     subtext_key: property_description
     _enabled_editors:
       - data
