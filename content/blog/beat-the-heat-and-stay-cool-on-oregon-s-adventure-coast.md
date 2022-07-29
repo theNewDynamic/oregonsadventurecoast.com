@@ -2,7 +2,9 @@
 title: Beat The Heat and Stay Cool On Oregon’s Adventure Coast!
 date: 2022-07-27T22:00:00.000+00:00
 description: Is the weather where you are just too hot to handle? Beat the heat and
-  stay Cool on the Coast in Coos Bay, North Bend & Charleston!
+  stay Cool on the Coast in Coos Bay, North Bend & Charleston! From exhilarating adventures
+  to fun events, there are "cool" things to experience in a day, a weekend, or a weeklong
+  visit.
 image: "/img/cool-at-coast-695-x-322.jpg"
 tags:
 - Beat the heat
