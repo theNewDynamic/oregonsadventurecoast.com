@@ -9,7 +9,7 @@ aliases:
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
 - photo: "/img/cool-at-the-coast-slider-hmpg-2022.jpg"
-  photo_mobile: "/img/cool-at-the-coast-mobile-2022.jpg"
+  photo_mobile: "/img/cool-at-the-coast-mobile-2022-v02.jpg"
   url: "/blog/beat-the-heat-and-stay-cool-on-oregon-s-adventure-coast"
   video:
     source: ''
