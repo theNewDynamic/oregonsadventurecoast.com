@@ -172,6 +172,9 @@ collections_config:
         path: .cloudcannon/schemas/store.md
     _enabled_editors:
       - data
+    filter:
+      exclude:
+        - _index.md
   trip_ideas:
     <<: *collection-base
     path: content/tripideas
