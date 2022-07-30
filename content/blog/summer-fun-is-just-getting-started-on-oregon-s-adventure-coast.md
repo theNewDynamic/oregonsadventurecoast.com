@@ -38,41 +38,41 @@ Whether you are here to explore the great outdoors, shopping, history, food, dri
 
 Here’s a round up of a few of our fun summer events in the coming weeks.
 
-### [**The Mill Casino Food Truck Off**](https://www.oregonsadventurecoast.com/event/the-mill-casino-food-truck-off/) **August 5-7, 2022**
+### [**The Mill Casino Food Truck Off**](https://www.oregonsadventurecoast.com/event/the-mill-casino-food-truck-off/) **August 5-7, 2022**<br>
 
 ![](/img/mill-casino-food-truck-off-oregon-coast-2022-blog-695x322-jpg.jpg)  
 For just $5 per person (FREE for kids 5 and under), you can experience great music and a feast of an event featuring up to 20 food trucks from the Pacific Northwest! All trucks will have at least one $3 sample item available for purchase, and will also serve from the entire regular menu. A portion of the entry fee will benefit the Boys & Girls Club of Southwestern Oregon.
 
-### [**Charleston Seafood, Beer & Wine Festival**](https://charlestonseafoodfestival.com/?fbclid=IwAR3YJMmRH_PcKLbihljbiproYCpggIxcuG5PGUY24aYH32n5Q-84zzX_auk) **August 12-14, 2022**
+### [**Charleston Seafood, Beer & Wine Festival**](https://charlestonseafoodfestival.com/?fbclid=IwAR3YJMmRH_PcKLbihljbiproYCpggIxcuG5PGUY24aYH32n5Q-84zzX_auk) **August 12-14, 2022**<br>
 
 ![](/img/blackberry-arts-festival-oregon-coast-2022-blog-695x322-jpg-1.jpg)
 
 This annual weekend festival is dedicated to celebrating delicious fresh seafood in Charleston, Oregon. Come out and enjoy three days of music, seafood, and fun. Along with the freshest crab and fish you’ll ever eat along with other delicious food and drink options, enjoy fun family activities, crab races, games, and the now famous [Clam Jam](http://charlestonseafoodfestival.com/k-dock-92-9-clam-jam/)– live music presented by K-DOCK 92.9 FM. For information or visit [charlestonseafoodfestival.com](http://charlestonseafoodfestival.com/).
 
-### [**Blackberry Arts Festival**](https://www.oregonsadventurecoast.com/event/annual-blackberry-arts-festival/) **August 27-28, 2022**
+### [**Blackberry Arts Festival**](https://www.oregonsadventurecoast.com/event/annual-blackberry-arts-festival/) **August 27-28, 2022**<br>
 
 ![](/img/blackberry-arts-festival-oregon-coast-2022-blog-695x322-jpg.jpg)
 
 Celebrate all things blackberry in downtown Coos Bay this summer at this beloved annual juried art and craft festival featuring delicious food and drink along with handcrafted metalwork, jewelry, quilts, candles, clothing, wine, carved wood, and much more. With so many beautiful paintings, breathtaking photography shots, and even phenomenal woodworking pieces, you’ll get lost in the beauty of the art while also enjoying some of the live entertainment and blackberry treats offered at the festival!
 
-### [**Annual Mill-Luck Salmon Celebration**](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/) **September 10-11, 2022**
+### [**Annual Mill-Luck Salmon Celebration**](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/) **September 10-11, 2022**<br>
 
 ![](/img/salmon-celebration-large.jpg)
 
 The Mill Luck Salmon celebration is a popular family-friendly celebration of Native American traditions and culture. The annual celebration is a tribute to Native American and Coquille Tribal culture and features plenty of activities and exhibitions for the whole family to enjoy. Admission is free, tickets to the Traditional Salmon Bake Meal will be available in Ko-Kwel Gifts August 23, 2022 and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event.
 
-### [**Annual Bay Area Fun Festival**](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) **September 17-18, 2022**
+### [**Annual Bay Area Fun Festival**](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) **September 17-18, 2022**<br>
 
 ![](/img/bay-area-fun-festival-oregon-coast-2022-blog-695x322-jpg.jpg)  
 The 2022 Bay Area Fun Festival (a.k.a. the last big party of the summer) in Coos Bay is a weekend you won’t want to miss! Highlights include live entertainment, K-DOCK RockFest, street vendors, unique wares, delicious food and drink, and a parade through downtown Coos Bay! This event runs in conjunction with the [Annual Cruz the Coos and Show ‘n Shine](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/) (9/17-9/18) and [Prefontaine Memorial Run ](https://prefontainerun.com/)(9/18). For more information, [click here](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) or visit [www.bayareafunfestival.com](http://www.bayareafunfestival.com/).
 
-### [**Annual Cruz The Coos**](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/) **September 16-17, 2022**
+### [**Annual Cruz The Coos**](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/) **September 16-17, 2022**<br>
 
 ![](/img/cruz-the-coos-bay-area-fun-festival-oregon-coast-2022-blog-695x322-jpg.jpg)
 
 The longest-running and largest classic car cruise on the Oregon Coast will once again grace the streets of downtown Coos Bay and will be enjoyed by thousands of spectators the weekend of September 16-17, 2022! The Annual Cruz the Coos and Show ‘n Shine is proudly presented by The Coos Bay-North Bend Rotary Club as part of the Bay Area Fun Festival. While you’re in the area, enjoy the Bay Area Fun Festival, one of the largest festivals on the Oregon Coast. The festival not only features the Cruz and Show ‘n Shine but the Prefontaine Memorial 10K Run, Street Vendors, a parade, and much more.
 
-### [**Annual Prefontaine Memorial Run**](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/) **September 17, 2022**
+### [**Annual Prefontaine Memorial Run**](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/) **September 17, 2022**<br>
 
 ![](/img/prefontaine-run-bay-area-fun-festival-oregon-coast-2022-blog-695x322-jpg.jpg)
 
@@ -80,7 +80,7 @@ For the first time in more than 2 years, runners from all over the country will 
 
 #### **Want more Summer Adventures? Here are some ideas!**
 
-{{< youtube "2nriDrDqNg0" >}}
+{{< youtube "2nriDrDqNg0" >}}<br>
 
 * Explore [Undeveloped Beaches](https://www.oregonsadventurecoast.com/undeveloped-beaches) while searching for [Ocean Life & Tidepooling](https://www.oregonsadventurecoast.com/ocean-life-and-tidepooling)
 * Take a relaxing [Scenic Drive](https://www.oregonsadventurecoast.com/scenic-drives) and/or an adrenaline pumping [ATV & Motorsports](https://www.oregonsadventurecoast.com/atv-motorsports) adventure on [Untamed Dunes](https://www.oregonsadventurecoast.com/untamed-dunes)!
