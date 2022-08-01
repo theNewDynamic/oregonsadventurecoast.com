@@ -441,6 +441,7 @@ _inputs:
     type: number
   tags:
     type: multiselect
+    comment: Options are suggestions only, to add a tag, simply type it in the field.
     options:
       values: _select_data.tags
       allow_create: true
