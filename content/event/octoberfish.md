@@ -21,8 +21,10 @@ address:
 
 #### **Enjoy food, spirits, art and lots of MUSIC.**
 
-Come join us for another year in celebration of Coos Culture, games and activities for the kids, great music for the adults, yoga & movement workshops, local art and a tuna cookout. 7 Devils Brewing Company will be serving their craft beer. 
+Come join us for another year in celebration of Coos Culture, games and activities for the kids, great music for the adults, yoga & movement workshops, local art and a tuna cookout. 7 Devils Brewing Company will be serving their craft beer.
 
 ![](/img/octoberfish-crafts-667x355.jpg)
 
 **Always the first Saturday in October, and always Free to attend!!**
+
+**Proceeds from Octoberfish support the Charleston Food Bank.**
