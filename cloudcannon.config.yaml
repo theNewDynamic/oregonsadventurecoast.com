@@ -440,7 +440,10 @@ _inputs:
   units:
     type: number
   tags:
-    type: array
+    type: multiselect
+    options:
+      values: _select_data.tags
+      allow_create: true
   aliases:
     type: array
   warning:
@@ -654,3 +657,6 @@ _select_data:
   - full-day
   - half-day
   - long-weekend
+  tags:
+  - something
+  - other
