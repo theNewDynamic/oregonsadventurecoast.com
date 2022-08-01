@@ -4,7 +4,7 @@ date: 2022-07-26T04:00:00+00:00
 description: 'It’s nearly August, but the summer fun is just getting started here
   on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston! Here’s Our Annual
   Summer Fun Festival Round Up on Oregon’s Adventure Coast! '
-image: "/img/summer-fun-oregon-coast-2022-blog-695x322-jpg-1.jpg"
+image: "/img/blackberry-fest-blog-2018.jpg"
 tags:
 - Coos Bay
 - North Bend Oregon
