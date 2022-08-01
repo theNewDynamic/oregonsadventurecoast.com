@@ -446,7 +446,11 @@ _inputs:
       values: _select_data.tags
       allow_create: true
   aliases:
-    type: array
+    type: multiselect
+    options:
+      values:
+      - /blog/a-well-formated-url-example
+      allow_create: true
   warning:
     type: switch
     comment: Should the post display the Blog's warning? 
