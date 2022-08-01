@@ -440,9 +440,17 @@ _inputs:
   units:
     type: number
   tags:
-    type: array
+    type: multiselect
+    comment: Options are suggestions only, to add a tag, simply type it in the field.
+    options:
+      values: _select_data.tags
+      allow_create: true
   aliases:
-    type: array
+    type: multiselect
+    options:
+      values:
+      - /blog/a-well-formated-url-example
+      allow_create: true
   warning:
     type: switch
     comment: Should the post display the Blog's warning? 
@@ -654,3 +662,6 @@ _select_data:
   - full-day
   - half-day
   - long-weekend
+  tags:
+  - something
+  - other
