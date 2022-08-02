@@ -12,7 +12,7 @@ address:
   zip: '97420'
 phone_toll_free: 
 phone_local: 541-808-3797
-units: '16'
+units: 16
 cost: 1 - $
 property_description: Located on the south side of Coos Bay, close to shopping, dining,
   and entertainment, the Terrace Motel is newly renovated, is pet friendly, and offers
@@ -24,5 +24,6 @@ amenityList:
 coordinates:
   lat: '43.3561305'
   lng: "-124.2146658"
+draft: true
 
 ---
