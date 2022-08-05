@@ -19,7 +19,7 @@ address:
   street: 50 Central Ave.
   zip: 97420
 phone_toll_free: ''
-phone_local: "(541) 269-0215"
+phone_local: "(541) 266-9706"
 website: https://bayareafunfestival.com/
 
 ---
