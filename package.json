@@ -37,7 +37,8 @@
   "dependencies": {
     "hugo-lunr": "0.0.4",
     "instafeed.js": "^1.4.1",
-    "lunr": "^2.3.0"
+    "lunr": "^2.3.0",
+    "meilisearch": "^0.18.2"
   },
   "browserslist": "> 2.25%, not dead"
 }
