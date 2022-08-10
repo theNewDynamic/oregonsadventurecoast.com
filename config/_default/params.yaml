@@ -105,7 +105,7 @@ tnd_search:
           <div class="photo" style="background-image:url({{image}});" alt="{{title}}">
           </div>
 
-          <div class="content marker-content">
+          <div class="content marker-content" data-id="{{id}}">
             <div class="category">
               {{#category}}
                 {{category}}
