@@ -1,10 +1,12 @@
 ---
 title: Tribal Heritage - The Coquilles
 aliases:
-  - /about/tribal-heritage
+- "/about/tribal-heritage"
 layout: our-area
-url: /tribal-heritage-coquilles
-photo: /img/media-industry.jpg
+url: "/tribal-heritage-coquilles"
+photo: "/img/media-industry.jpg"
+ctas: []
+
 ---
 ## The Coquilles
 
