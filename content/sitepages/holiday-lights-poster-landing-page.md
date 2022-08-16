@@ -1,5 +1,5 @@
 ---
-title: Holiday Lights Poster Landing Page
+title: Holiday Lights Poster QR Landing Page
 url: holiday-lights-timed-entry-tickets
 layout: headless
 photo: ''
