@@ -33,6 +33,6 @@ This year, [**Holiday Lights visitation will be through a timed reservation syst
 
 {{< spacer 25 >}}
 
-**_NOTE: you will NOT be able to purchase entry tickets at the gate this year._** _You must do this in advance_.
+**_NOTE: You will NOT be able to purchase entry tickets at the gate this year._** _You must do this in advance_.
 
-**_Also Note:_** if you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $5 will be waived. **_You still have to book ONLINE!!_** **_You will need to present your event parking pass AND your special pass at the gate._**
+**_ALSO NOTE:_** _If you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $5 will be waived. **You still have to book ONLINE!! You will need to present your event parking pass AND your special pass at the gate.**_
