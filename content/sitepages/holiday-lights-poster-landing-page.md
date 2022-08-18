@@ -2,7 +2,7 @@
 title: Holiday Lights at Shore Acres State Park
 url: holiday-lights-timed-entry-tickets
 layout: thank-you
-photo: "/img/holiday-lights-house-sub-pg-header.jpg"
+photo: "/img/holiday-lights-house-sub-pg-header-02.jpg"
 ctas: []
 seo:
   title: ''
