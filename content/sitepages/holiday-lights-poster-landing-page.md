@@ -14,15 +14,17 @@ accordion_sections: []
 boxes: []
 
 ---
-## New Ticketed Timed Entry This Year!
+## New This Year - Read On!
 
 {{< spacer 15 >}}
 
 This year, [**Holiday Lights visitation will be through a timed reservation system**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381). This is an effort to decrease long wait times and backed-up traffic conditions.
 
+![New this year, no more long lines, timed ticketed entry into Holiday Lights at Shore Acres](/img/no-more-lines-graphic.png)
+
 **Entry into the lights is Free, but you must pay the $5 parking fee per vehicle to park at Shore Acres for the Event - in advance this year.**
 
-**Here’s how to do it!**
+#### Here’s how to do it!
 
 1. **Pick your day/time to visit** - note that half of the parking tickets will be sold in advance with the rest available within 7 days of entry
 2. [**Visit the OPRD website**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381) **or click the Book Now Button below to book your time**
