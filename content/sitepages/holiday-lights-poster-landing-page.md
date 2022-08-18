@@ -1,7 +1,7 @@
 ---
-title: Holiday Lights Poster QR Landing Page
+title: Holiday Lights at Shore Acres State Park
 url: holiday-lights-timed-entry-tickets
-layout: gallery
+layout: thank-you
 photo: "/img/holiday-lights-at-shore-acres-2021-blog-695x322-jpg.png"
 ctas: []
 seo:
@@ -14,7 +14,7 @@ accordion_sections: []
 boxes: []
 
 ---
-## Holiday Lights at Shore Acres State Park
+# Holiday Lights at Shore Acres State Park
 
 This year, [**Holiday Lights visitation will be through a timed reservation system**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381). This is an effort to decrease long wait times and backed-up traffic conditions.
 
@@ -23,7 +23,7 @@ This year, [**Holiday Lights visitation will be through a timed reservation syst
 **Here’s how to do it!**
 
 1. **Pick your day/time to visit** - note that half of the parking tickets will be sold in advance with the rest available within 7 days of entry
-2. [**Visit the OPRD website**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381) **or click the Book Now Button below to book your time** 
+2. [**Visit the OPRD website**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381) **or click the Book Now Button below to book your time**
 3. **Pay the $5 fee** per vehicle
 4. **Print your pass** - you must bring the pass with you to enter the park
 
