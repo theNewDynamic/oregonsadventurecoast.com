@@ -13,7 +13,7 @@ seo:
 ---
 ## TRY YOUR HAND AT EXCITEMENT
 
-You'll find 24/7 casino excitement on Oregon's Adventure Coast: Coos Bay, North Bend, Charleston. In fact, there are **two casinos to choose from!** 
+You'll find 24/7 casino excitement on Oregon's Adventure Coast: Coos Bay, North Bend, Charleston. In fact, there are **two casinos to choose from!**
 
 **The Mill Casino** and **Three Rivers Casino - Coos Bay** offer some of the most fun-filled, Vegas-style and casino-gaming in the Pacific Northwest.
 
@@ -44,3 +44,7 @@ divider
 Three Rivers Casino features the newest Electronic Gaming Machines. They offer EGM tournaments and special events just about every night of the week. Check out their website to find out the latest [monthly promotions](https://www.threeriverscasino.com/coos-bay-promotions)!
 
 {{< /columns >}}
+
+{{< spacer 20 >}}
+
+ [![Travel oregon link to Oregon Tribal Nations Page](/img/traveloregon-indianbutton-695x125.jpg)](https://traveloregon.com/places-to-go/tribal-nations)
