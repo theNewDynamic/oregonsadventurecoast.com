@@ -20,9 +20,9 @@ Unlike many Indian tribes, we do not use the income from our tribal enterprises 
 
 We proudly uphold the “potlatch” tradition of sharing with the community around us. The Mill Casino-Hotel and our other enterprises contribute more than $20 million a year in local salaries and benefits, and we purchase more than $25 million a year in local goods and services. Our Coquille Tribal Community Fund has distributed millions of dollars to the area’s non-profit organizations.
 
-![Travel Oregon link to the Oregon Tribal Nations Page](/img/traveloregon-indianbutton-695x125.jpg)
+{{< spacer 25 >}}
 
-[https://traveloregon.com/places-to-go/tribal-nations/](https://traveloregon.com/places-to-go/tribal-nations/ "https://traveloregon.com/places-to-go/tribal-nations/")
+[![Travel oregon link to Oregon Tribal Nations Page](/img/traveloregon-indianbutton-695x125.jpg)](https://traveloregon.com/places-to-go/tribal-nations)
 
 ### Our Name
 
