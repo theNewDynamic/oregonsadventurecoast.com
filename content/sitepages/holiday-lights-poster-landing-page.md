@@ -14,7 +14,7 @@ accordion_sections: []
 boxes: []
 
 ---
-# Holiday Lights at Shore Acres State Park
+## New Ticketed Timed Entry This Year!
 
 This year, [**Holiday Lights visitation will be through a timed reservation system**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381). This is an effort to decrease long wait times and backed-up traffic conditions.
 
