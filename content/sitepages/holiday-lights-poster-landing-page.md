@@ -1,7 +1,7 @@
 ---
 title: Holiday Lights Poster QR Landing Page
 url: holiday-lights-timed-entry-tickets
-layout: thank-you
+layout: gallery
 photo: "/img/holiday-lights-at-shore-acres-2021-blog-695x322-jpg.png"
 ctas: []
 seo:
