@@ -1,5 +1,5 @@
 ---
-title: Holiday Lights at Shore Acres State Park
+title: Holiday Lights at Shore Acres State Park is Back!
 url: holiday-lights-timed-entry-tickets
 layout: thank-you
 photo: "/img/holiday-lights-house-sub-pg-header-02.jpg"
@@ -16,6 +16,8 @@ boxes: []
 ---
 ## New Ticketed Timed Entry This Year!
 
+{{< spacer 15 >}}
+
 This year, [**Holiday Lights visitation will be through a timed reservation system**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381). This is an effort to decrease long wait times and backed-up traffic conditions.
 
 **Entry into the lights is Free, but you must pay the $5 parking fee per vehicle to park at Shore Acres for the Event - in advance this year.**
@@ -29,7 +31,7 @@ This year, [**Holiday Lights visitation will be through a timed reservation syst
 
 {{< spacer 25 >}}
 
-<a href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381" class="learn-more-anywhere-btn">BOOK NOW</a>
+### <a href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381" class="learn-more-anywhere-btn">BOOK NOW</a>
 
 {{< spacer 25 >}}
 
