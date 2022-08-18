@@ -14,10 +14,6 @@ accordion_sections: []
 boxes: []
 
 ---
-## New This Year - Read On!
-
-{{< spacer 15 >}}
-
 This year, [**Holiday Lights visitation will be through a timed reservation system**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381). This is an effort to decrease long wait times and backed-up traffic conditions.
 
 ![New this year, no more long lines, timed ticketed entry into Holiday Lights at Shore Acres](/img/no-more-lines-graphic.png)
