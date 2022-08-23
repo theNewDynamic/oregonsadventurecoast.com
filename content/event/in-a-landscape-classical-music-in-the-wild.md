@@ -77,7 +77,7 @@ _** Thanks to the sponsorship of Oregon Parks & Recreation Department's Park Exp
 
 [**Tue, Aug 23, 6:00 PM**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-tue-823-tickets-311629140147?aff=ebdsoporgprofile) **(Sold Out)**
 
-[**Wed, Aug 24, 6:00 PM**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-wed-824-tickets-311631266507?aff=ebdsoporgprofile)
+[**Wed, Aug 24, 6:00 PM**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-wed-824-tickets-311631266507?aff=ebdsoporgprofile) **(Sold Out)**
 
 [**Thu, Aug 25, 6:00 PM**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-thu-825-tickets-311632600497?aff=ebdsoporgprofile)
 
