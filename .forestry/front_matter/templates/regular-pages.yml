@@ -37,6 +37,7 @@ fields:
     - equipment
     - headless
     - home
+    - nosidebar
   label: Layout
   description: Choose Layout/Sidebar for Your Page
 - type: file

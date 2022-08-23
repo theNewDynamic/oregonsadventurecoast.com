@@ -604,6 +604,7 @@ _select_data:
   - equipment
   - headless
   - home
+  - nosidebar
   categories:
   - Arts & Culture
   - Clamming
