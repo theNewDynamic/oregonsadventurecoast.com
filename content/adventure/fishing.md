@@ -21,6 +21,8 @@ When it comes to fishing in Oregon, opportunities are in no short supply – esp
 
 There are more than [30 freshwater lakes and rivers](https://www.oregonsadventurecoast.com/tripideas/fresh-water-fishing-options-by-body-of-water) to choose from in Coos County, as well as fantastic [bay and ocean fishing](https://www.oregonsadventurecoast.com/tripideas/saltwater-fishing-ocean-bay). And just as there are a wide variety of fish and fishing spots, so too are there lots of different ways to fish for them. Looking to paddle your kayak around a quiet fish-filled lake? We’ve got that. Want to cast a line for surfperch right off one of our beautiful beaches? No problem. Throw in a [crab pot](https://www.oregonsadventurecoast.com/crabbing-clamming/) or [dig for clams](https://www.oregonsadventurecoast.com/clamming/)? You got it. Thinking [charter boat fishing](https://www.oregonsadventurecoast.com/tripideas/saltwater-fishing-ocean-bay/) for tuna, rockfish, halibut or salmon? You’ll find that on Oregon’s Adventure Coast too.
 
+{{< youtube "mF-TeunOhms" >}}
+
 {{< floatimage src="img/varieties-fish-icon.png" float="left" alt="Different Varieties of Fish in Our Area" size="100" >}}[Click here for a look at all the different varieties of fishing available in our area.](/fishing-by-style)
 
 We’ve also put together a [list of resources](https://www.oregonsadventurecoast.com/img/rackcard-fishing-03-18.pdf) that will be helpful in planning your trip. Be sure to visit one of our [bait shops](https://www.oregonsadventurecoast.com/equipment-rent-and-buy) while in the area; they’re always willing to share pointers with visiting anglers.
