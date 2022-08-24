@@ -23,6 +23,8 @@ There are more than [30 freshwater lakes and rivers](https://www.oregonsadventur
 
 {{< youtube "mF-TeunOhms" >}}
 
+{{< spacer 20 >}}
+
 {{< floatimage src="img/varieties-fish-icon.png" float="left" alt="Different Varieties of Fish in Our Area" size="100" >}}[Click here for a look at all the different varieties of fishing available in our area.](/fishing-by-style)
 
 We’ve also put together a [list of resources](https://www.oregonsadventurecoast.com/img/rackcard-fishing-03-18.pdf) that will be helpful in planning your trip. Be sure to visit one of our [bait shops](https://www.oregonsadventurecoast.com/equipment-rent-and-buy) while in the area; they’re always willing to share pointers with visiting anglers.
