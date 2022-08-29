@@ -14,7 +14,7 @@ date: '2019-02-18T19:35:33.000+00:00'
 ---
 #### **The Coos Bay-North Bend Visitor & Convention Bureau (VCB)**
 
-was created through an Intergovernmental Agreement (IGA) between the City of Coos Bay, the City of North Bend, and the Coquille Indian Tribe. The IGA is the Governing Document of the VCB. A Board of Directors oversees the Policies and Activities of the VCB.
+was created through an Intergovernmental Agreement (IGA) between the City of Coos Bay, the City of North Bend, and the Coquille Indian Tribe. The IGA is the Governing Document of the VCB. A Board of Directors oversees the Policies and Activities of the VCB. and VCB
 
 ![](/img/009-16-17721.jpg)
 
