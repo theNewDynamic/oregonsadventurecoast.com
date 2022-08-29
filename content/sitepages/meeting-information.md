@@ -10,6 +10,9 @@ seo:
   title:
   imgalt:
   image:
+accordion_sections:
+  - title:
+    accordions:
 date: '2019-02-18T19:35:33.000+00:00'
 ---
 #### **The Coos Bay-North Bend Visitor & Convention Bureau (VCB)**
