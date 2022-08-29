@@ -2,7 +2,7 @@
 _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
-  - photo: /img/cool-at-the-coast-slider-hmpg-2022.jpg
+  - photo: /img/summer-someplace-new-2022.jpg
     photo_mobile: /img/summer-someplace-new-mobile-2022.jpg
     url: /undeveloped-beaches
     video:
@@ -87,7 +87,7 @@ masonry7:
 seo:
   description: >-
     Travel to the Oregon Coast to experience a vacation full of adventure,
-    nature, wildlife, shopping, arts, and more. Your adventure awaits!
+    nature, wildlife, shopping, arts, and more. Your adventure awaits\!
   title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
 aliases:
   - /photo-gallery
@@ -96,9 +96,16 @@ aliases:
 layout: home
 promotional_banner: https://craterlakecountry.com/coos-bay/
 ---
-
 We welcome you to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities. We invite you to explore, to discover, to feel, to know…at land’s end, adventure begins. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do. Your vacation will be full of adventure, nature, wildlife, culture, arts and athletics.
 
 ## Exciting Outdoor Activities on the Oregon Coast
 
 Water and outdoor activities abound on the Oregon Coast, from kayaking, scuba diving and surfing to world-class fishing, crabbing and clamming. Hit the sand in an ATV, hike winding trails, bike along the boardwalk, and run the same path as legend and local hero, Steve Prefontaine. Take a chance with Vegas-style gaming, catch a movie at the historic Egyptian Theatre, and make time to dine upon a hilltop. Your adventure awaits.
+
+&nbsp;
+
+[Butter](/event/annual-holiday-lights-at-shore-acres/)
+
+&nbsp;
+
+[![](/img/009-16-17721.jpg)](/calendar/)
