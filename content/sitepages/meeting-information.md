@@ -1,21 +1,24 @@
 ---
+_schema: default
 title: About the VCB
+draft: false
 url: about-the-vcb
 layout: open-meetings
-photo: "/img/undeveloped-beaches-sub-header.jpg"
+photo: /img/undeveloped-beaches-sub-header.jpg
 seo:
-  description: ''
-  title: ''
-  imgalt: ''
-  image: ''
+  description:
+  title:
+  imgalt:
+  image:
 date: '2019-02-18T19:35:33.000+00:00'
-
 ---
 #### **The Coos Bay-North Bend Visitor & Convention Bureau (VCB)**
 
 was created through an Intergovernmental Agreement (IGA) between the City of Coos Bay, the City of North Bend, and the Coquille Indian Tribe. The IGA is the Governing Document of the VCB. A Board of Directors oversees the Policies and Activities of the VCB.
 
-The VCB’s primary mission is to promote the Coos Bay, North Bend & Charleston areas as **_Oregon’s Adventure Coast_** to encourage tourism to the area, and, therefore, economic vitality from tourism.
+![](/img/009-16-17721.jpg)
+
+The VCB’s primary mission is to promote the Coos Bay, North Bend & Charleston areas as ***Oregon’s Adventure Coast*** to encourage tourism to the area, and, therefore, economic vitality from tourism.
 
 As per the IGA, the Board of Directors of the VCB is made up of one (1) representative from each of the IGA Partners, plus one (1) Chamber of Commerce representative and one (1) Lodging Industry representative. [**Click here for more information about the VCB Board**](/board-of-directors/)**.**
 
@@ -23,8 +26,8 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 #### HOW THE VCB IS FUNDED
 
-* **THE VCB IS SOLELY FUNDED THROUGH LODGING TAXES COLLECTED BY COMMERCIAL LODGING PROPERTIES WITHIN THE CITY LIMITS OF COOS BAY AND NORTH BEND, AND AT THE COQUILLE INDIAN TRIBE PROPERTIES.** _The lodging tax rate is 9.5%._
-* _Residents in Coos County voted in May, 2022 to add a lodging tax in the unincorporated areas of Charleston. Those funds are not yet calculated into the VCB's budget._ [_Click here to see the area included in this taxing district_](/img/CH-TLT-map.jpg)_._
+* **THE VCB IS SOLELY FUNDED THROUGH LODGING TAXES COLLECTED BY COMMERCIAL LODGING PROPERTIES WITHIN THE CITY LIMITS OF COOS BAY AND NORTH BEND, AND AT THE COQUILLE INDIAN TRIBE PROPERTIES.** *The lodging tax rate is 9.5%.*
+* *Residents in Coos County voted in May, 2022 to add a lodging tax in the unincorporated areas of Charleston. Those funds are not yet calculated into the VCB's budget.* [*Click here to see the area included in this taxing district*](/img/CH-TLT-map.jpg)*.*
 * **The VCB receives a portion of the lodging tax funds collected by the three IGA partners, equating to approximately 39% of all lodging taxes collected, to accomplish its goals.** The three taxing entities retain the remaining lodging taxes.
 * **The VCB is restricted on what projects/expenditures it can spend this lodging tax funding by State of Oregon Law**
 
@@ -51,7 +54,7 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 {{< spacer 25 >}}
 
-**THE VCB’S BUDGET FOR TOURISM FACILITIES CURRENTLY COVERS THE COST OF MANAGING THE COOS BAY VISITOR INFORMATION CENTER (VIC).** _The City of Coos Bay remits additional funding to the VCB to cover these costs_.
+**THE VCB’S BUDGET FOR TOURISM FACILITIES CURRENTLY COVERS THE COST OF MANAGING THE COOS BAY VISITOR INFORMATION CENTER (VIC).** *The City of Coos Bay remits additional funding to the VCB to cover these costs*.
 
 * BUDGETED EXPENDITURES FOR THE MANAGEMENT OF THE COOS BAY VISITOR INFORMATION CENTER FOR FISCAL YEAR 2023 TOTAL $104,100
 
