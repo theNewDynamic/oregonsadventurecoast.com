@@ -432,7 +432,7 @@ x-input-markdown: &input-markdown
 x-input-hidden: &input-hidden
   hidden: true
 x-input-image: &input-image
-
+  type: image
 _inputs:
   copy: *input-markdown
   content: *input-markdown
