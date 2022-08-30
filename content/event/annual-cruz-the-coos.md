@@ -9,14 +9,14 @@ mobiletitle: Cruz The Coos
 hovertitle: 'Cruz The Coos '
 hoverdescription: One of the longest-running and largest classic car cruises on the
   Oregon Coast
-startdate: '2022-09-16'
+startdate: '2022-09-17'
 enddate: '2022-09-17'
 address:
   city: Coos Bay
   state: OR
   street: 50 Central Avenue
   zip: 97420
-phone_local: "(541) 888-3863"
+phone_local: "(541) 267-4441"
 website: https://cruzthecoos.com/
 
 ---
@@ -27,6 +27,23 @@ website: https://cruzthecoos.com/
 Cruz the Coos is one of the **longest-running and largest classic car cruises** on the Oregon Coast. It runs through the streets of downtown Coos Bay and is enjoyed by thousands of spectators.
 
 **The Show ‘n Shine** is an opportunity to see vintage cars and trucks that have been beautifully restored. Talk with the owners and visit restaurants and amenities offered at The Mill Casino Hotel and RV Park.
+
+{{< spacer 25 >}}
+
+#### Saturday, September 17 Schedule
+
+**9am - 2pm - Show 'n Shine**   
+The Mill Casino Parking Lot  
+_Can Still sign up that morning between 7:30am-9am_
+
+**Between 2pm & 3pm - Awards Presentation**
+
+**5:00pm - Cars line up for Cruz**
+
+**6:00pm - Cruz the Coos  
+Through downtown Coos Bay!**
+
+{{< spacer 25 >}}
 
 **Proceeds generated from entry fees are put to use by the Rotary club to fund projects throughout the area including scholarships, humanitarian efforts, and other non-profit organizations in the community.**
 

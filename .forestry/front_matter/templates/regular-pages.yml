@@ -37,6 +37,7 @@ fields:
     - equipment
     - headless
     - home
+    - nosidebar
   label: Layout
   description: Choose Layout/Sidebar for Your Page
 - type: file
@@ -88,6 +89,7 @@ pages:
 - content/sitepages/fb-newsletter-sign-up.md
 - content/sitepages/fb-visitor-guide-download.md
 - content/sitepages/ground-transportation-options.md
+- content/sitepages/holiday-lights-poster-landing-page.md
 - content/sitepages/local-industry-resources.md
 - content/sitepages/medical-urgent-dental-services.md
 - content/sitepages/newsletter-archive.md

@@ -17,7 +17,7 @@ cost: 2 - $$
 property_description: 'The Bay Bridge Motel, located in North Bend on the north side
   of the historic McCullough bridge, offers views of the ocean, free WiFi access,
   and flat screen TVs with cable channels. Kitchenettes available in select rooms. '
-website: http://www.baybridgemotel.com
+website: https://baybridgemoteloregon.com/
 amenityList:
 - amenitySelect: 6 - WiFi Available
 - amenitySelect: 7 - Kitchens Available

@@ -52,9 +52,9 @@ tnd_search:
   service: meili
   instantsearch:
   - name: dining
-    indexName: dining
-    appId: &appId https://ms-f3fd9122c128-118.saas-nyc.meili.dev
-    apiKey: &apiKey ec82d24790da484ef22f185eac5f04c22016f58bf4857afcec6c88d8363e72d2
+    indexName: oac-dining
+    appId: &appId https://search.thenewdynamic.dev
+    apiKey: &apiKey aa6b2b0314a213142e2c59b041211bb588b58a6b4b1ad6482097e723e656502d
     hitsPerPage: 1000
     widgets:
     - &widget_clear
@@ -105,7 +105,7 @@ tnd_search:
           <div class="photo" style="background-image:url({{image}});" alt="{{title}}">
           </div>
 
-          <div class="content marker-content">
+          <div class="content marker-content" data-id="{{id}}">
             <div class="category">
               {{#category}}
                 {{category}}
@@ -161,7 +161,7 @@ tnd_search:
         redo: hidden
       container: '#map'
   - name: lodging
-    indexName: lodging
+    indexName: oac-lodging
     appId: *appId
     apiKey: *apiKey
     hitsPerPage: 1000
@@ -198,7 +198,7 @@ tnd_search:
     - <<: *widget_hits
     - <<: *widget_map
   - name: shopping
-    indexName: shopping
+    indexName: oac-shopping
     appId: *appId
     apiKey: *apiKey
     hitsPerPage: 1000

@@ -13,7 +13,7 @@ address:
 phone_toll_free: 
 phone_local: 541-756-3191
 units: 96
-cost: 3 - $$$
+cost: 2 - $$
 property_description: Quality Inn & Suites Coos Bay is located 1 mile from SW Oregon
   Regional Airport. Nestled on Oregon's breathtaking coast, we are minutes from incredible
   attractions & natural treasures. Enjoy shopping, museums, gaming, entertainment

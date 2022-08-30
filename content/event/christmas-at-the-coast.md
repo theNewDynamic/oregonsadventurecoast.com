@@ -59,7 +59,13 @@ The Charleston Fishing Families celebrate the season every year with a colorful,
 
 #### {{< floatimage src="img/cbtreelighting-35-web-only.jpg" float="right" alt="Your Alt Text goes here" size="40" >}}November 25 <br>Tree Lighting at the Coos Bay Visitor Center with Santa, Plus ELF! at The Egyptian
 
-Join Santa at the Coos Bay Visitor Center at 5pm for the Coos Bay Tree Lighting! Kids, bring your letters to Santa filled with your Christmas wishes. Put your letter in Santa's mailbox and his elves will give you a candy cane! Following the tree lighting, follow Santa and the parade of revelers to The Egyptian Theatre as we return to the tradition of watching Elf after the tree lighting!
+Join Santa at the Coos Bay Visitor Center for the Coos Bay Tree Lighting! The evening begins with cookies and cider in the Visitor Center at 4:30pm. Santa and the Mayor of Coos Bay will light the tree at 5:30pm. Following the tree lighting, follow Santa and the parade of revelers to The Egyptian Theatre as we return to the tradition of watching **Elf** after the tree lighting! Santa will sit on stage and listen to the wishes of the boys and girls. Elf will begin at about 7pm. Don't forget your balled up white socks for the snowball fight!!!
+
+{{< spacer 20 >}}
+
+#### November 26 <br>ELF! at The Egyptian
+
+Two showings of **Elf** are planned, including a matinee with Santa once again available to hear all those wish lists! An evening showing at 7pm will not include Santa.
 
 {{< spacer 20 >}}
 
