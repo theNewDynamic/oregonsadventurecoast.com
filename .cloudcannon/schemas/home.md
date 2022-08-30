@@ -11,5 +11,9 @@ masonry5:
 masonry6:
 masonry7:
 seo:
+  title:
+  description:
+  imgalt:
+  image:
 aliases:
 ---

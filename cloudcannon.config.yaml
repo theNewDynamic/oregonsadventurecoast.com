@@ -358,7 +358,7 @@ _structures:
         photo_mobile:
           comment: The image used on mobile
         url:
-          comment: The URL of the page opened when tthe slide is clicked
+          comment: The URL of the page opened when the slide is clicked
         video:
           type: object
           options:
@@ -374,6 +374,8 @@ _structures:
     values:
       _inputs:
         cover:
+          type: file
+        source:
           type: file
       value:
         cover:
@@ -429,6 +431,7 @@ x-input-markdown: &input-markdown
   type: markdown
 x-input-hidden: &input-hidden
   hidden: true
+x-input-image: &input-image
 
 _inputs:
   copy: *input-markdown
@@ -497,6 +500,13 @@ _inputs:
     type: image
     label: Page Hero Image
     comment: Image Size 2048px x 530px
+  photo_mobile: *input-image
+  mobilephoto:
+    <<: *input-image
+    label: Mobile Photo
+  desktopphoto: 
+    <<: *input-image
+    label: Desktop Photo
   photo_name:
     type: image
     label: Image
