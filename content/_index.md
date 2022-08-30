@@ -112,4 +112,4 @@ Water and outdoor activities abound on the Oregon Coast, from kayaking, scuba di
 
 &nbsp;
 
-[![](/img/009-16-17721.jpg)](/calendar/)
+[![Test for this](/img/009-16-17721.jpg)](/calendar/)
