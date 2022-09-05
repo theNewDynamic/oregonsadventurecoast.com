@@ -35,6 +35,16 @@ Sunday, Sept 11 | 11:00 AM – 4:00 PM**
 
 Presale tickets will go on sale August 23, 2022. Tickets will be available in Ko-Kwel Gifts and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event.
 
+#### **Meal Prices:**
+
+**In Advance at Ko-Kwel Gifts (with T-shirt while supplies last)**  
+$35 adult/$30 child
+
+**At Event Tent (T-shirt not included)**  
+$27 adult/$20 child
+
+The meal includes Salmon, brown rice with cranberries, and traditional Fry Bread with Huckleberry butter.
+
 {{< spacer 25 >}}
 
 **This fun-filled weekend is full of family events and entertainment.**
@@ -74,7 +84,7 @@ The Festival is located in the south parking lot outside **The Mill Casino • H
 * Men’s Division
 * Mixed Division (Adults and Youth Mixed)
 
-**10:00 AM – 5:00 PM** - NATIVE VENDORS, ARTISANS & DEMONSTRATIONS - South End of the Hotel 
+**10:00 AM – 5:00 PM** - NATIVE VENDORS, ARTISANS & DEMONSTRATIONS - South End of the Hotel
 
 * Demonstrations
 * Tribal Elders Frybread Booth
