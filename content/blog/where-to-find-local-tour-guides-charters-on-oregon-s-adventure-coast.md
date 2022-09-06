@@ -29,7 +29,8 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-aliases: []
+aliases:
+- "/guides"
 accordion_sections: []
 warning: false
 warning_copy: ''

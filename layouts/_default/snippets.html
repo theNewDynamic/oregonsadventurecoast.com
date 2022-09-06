@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<div class="g-wrap--lg clearfix m-lodging" style="padding-top: 14rem;">
+  <div class="m-standard-content">
+    <h1>{{ .Title }}</h1>
+    <div class="user-content">
+      {{ range .Resources }}
+        <h3>{{ .Name }}</h3>
+        {{ with .Content -}}
+  <pre><code>
+{{- . | safeHTML -}}
+</code></pre>
+        {{- end }}
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ end }}
