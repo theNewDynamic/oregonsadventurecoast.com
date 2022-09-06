@@ -1,0 +1,11 @@
+pre code {
+  display: block;
+  background: none;
+  white-space: pre;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: scroll;
+  max-width: 100%;
+  min-width: 100px;
+  background: rgb(218, 215, 215);
+  padding: 1rem;
+}
