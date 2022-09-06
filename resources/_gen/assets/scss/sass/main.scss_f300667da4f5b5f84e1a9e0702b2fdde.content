@@ -4888,3 +4888,14 @@ p.bullet-para-indent {
 
 .grid-pagination .ais-Pagination-item--selected {
   background-color: #d74029; }
+
+pre code {
+  display: block;
+  background: none;
+  white-space: pre;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: scroll;
+  max-width: 100%;
+  min-width: 100px;
+  background: #dad7d7;
+  padding: 1rem; }
