@@ -1,6 +1,6 @@
 ---
 title: 'Celebrate Tribal Culture at the Mill-Luck Salmon Celebration! '
-date: 2022-08-30T04:00:00+00:00
+date: 2022-08-30T04:00:00.000+00:00
 description: 'Annual outdoor festival celebrating the culture and traditions of the
   Coquille Indian Tribe and other Pacific Northwest Tribes, will be back on Oregon’s
   Adventure Coast: Coos Bay, North Bend, Charleston September 10-11, 2022'
@@ -35,7 +35,7 @@ warning: false
 warning_copy: ''
 
 ---
-**Annual outdoor festival celebrating the culture and traditions of the Coquille Indian Tribe and other Pacific Northwest Tribes, will be back on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston September 10-11, 2022**
+**_Annual outdoor festival celebrating the culture and traditions of the Coquille Indian Tribe and other Pacific Northwest Tribes, will be back on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston September 10-11, 2022_**
 
 ![](/img/our-area-coquilles.jpg)
 
