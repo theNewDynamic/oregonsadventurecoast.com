@@ -33,7 +33,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 #### Annual outdoor festival celebrating the culture and traditions of the Coquille Indian Tribe and other Pacific Northwest Tribes, will be back on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston September 10-11, 2022
