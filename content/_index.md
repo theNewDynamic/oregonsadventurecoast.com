@@ -8,7 +8,7 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- photo: "/img/bay-area-fun-fest-2022.jpg"
+- photo: "/img/bay-area-fun-fest-2022-v02.jpg"
   photo_mobile: "/img/mobile-bay-area-fun-fest-2022.jpg"
   url: "/event/annual-bay-area-fun-festival/"
   video:
