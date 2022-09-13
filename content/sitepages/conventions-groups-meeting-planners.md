@@ -1,12 +1,12 @@
 ---
-title: Conventions, Groups & Meeting Planners
+title: Meetings, Conventions, Group Tour Planners
 aliases:
-  - group-travel
-  - /group-travel/meeting-convention-info-request 
-  - /group-travel/sports-facilities
-  - /group-travel/sports-facilities/city-of-north-bend-municipal-swimming-pool
-  - /group-travel/sports-facilities/southwestern-oregon-community-college
-  - /groups
+- group-travel
+- "/group-travel/meeting-convention-info-request"
+- "/group-travel/sports-facilities"
+- "/group-travel/sports-facilities/city-of-north-bend-municipal-swimming-pool"
+- "/group-travel/sports-facilities/southwestern-oregon-community-college"
+- "/groups"
 layout: meeting-planners
 url: "/meeting-planners"
 photo: "/img/meeting-planners.jpg"
@@ -14,7 +14,6 @@ seo:
   description: Oregon’s Adventure Coast has the ability to host small and large gatherings.
     Learn about rooms, rates & availability. Request information.
   title: Conventions, Groups & Meeting Planners | Oregon's Adventure Coast
-  
 
 ---
 ![The Salmon Room at The Mill Casino • Hotel & RV Park](/img/salmonroom-mill-casino.jpg)
