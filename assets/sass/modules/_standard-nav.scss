@@ -73,9 +73,15 @@
     font-weight: normal;
     @include medium {
         margin: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
         font-size: 25px;
         padding: 10px 15px 10px 10px;
         line-height: 1em;
+        &::after{
+            content: "☰";
+        }
     }
 }
 .m-standard-nav ul,
