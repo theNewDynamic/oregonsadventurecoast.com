@@ -3,7 +3,7 @@
 {{ partial "featurePhoto" (dict "photo" .Params.photo) }}
 
 <div class="g-wrap clearfix">
-    <div class="m-standard-nav -hide-mobile">
+    <div class="m-standard-nav">
         {{ partial "blogsidebar" . }}
     </div>
     
@@ -60,10 +60,6 @@
         {{ end }}
 
         {{ partial "hugoPaginator" . }}
-    </div>
-
-    <div class="m-standard-nav -bottom-mobile -two-wide clearfix">
-        {{ partial "blogsidebar" . }}
     </div>
 </div>
 

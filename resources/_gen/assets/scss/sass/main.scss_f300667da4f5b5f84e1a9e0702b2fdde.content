@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
@@ -2641,9 +2642,14 @@ Modifier Classes for .items:
   @media only screen and (max-width: 1025px) {
     .m-standard-nav h3 {
       margin: 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
       font-size: 25px;
       padding: 10px 15px 10px 10px;
-      line-height: 1em; } }
+      line-height: 1em; }
+      .m-standard-nav h3::after {
+        content: "☰"; } }
 .m-standard-nav ul,
 .m-standard-nav li {
   list-style: none;
