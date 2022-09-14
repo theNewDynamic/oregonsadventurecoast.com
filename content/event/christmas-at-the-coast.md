@@ -5,10 +5,10 @@ enddate: '2022-12-31'
 address:
   street: ''
   street2: ''
-  city: ''
+  city: Coos Bay, North Bend, Empire, Charleston
   zip: ''
   state: ''
-phone_local: ''
+phone_local: 541-269-0215
 phone_toll_free: ''
 website: ''
 coordinates:
