@@ -5,8 +5,6 @@ menu_items = document.querySelectorAll(".m-standard-nav li").forEach(item => {
 });
 document.querySelectorAll(".share-trigger").forEach(item => {
   item.addEventListener("click", function() {
-    console.log("click")
-    console.log(item)
     const sibling = item.nextElementSibling
     sibling.classList.toggle('show')
   })
