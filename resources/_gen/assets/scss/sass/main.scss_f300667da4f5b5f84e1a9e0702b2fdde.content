@@ -2650,6 +2650,10 @@ Modifier Classes for .items:
       line-height: 1em; }
       .m-standard-nav h3::after {
         content: "☰"; } }
+@media only screen and (max-width: 1025px) {
+  .m-standard-nav h3.hide-after::after {
+    display: none; } }
+
 .m-standard-nav ul,
 .m-standard-nav li {
   list-style: none;

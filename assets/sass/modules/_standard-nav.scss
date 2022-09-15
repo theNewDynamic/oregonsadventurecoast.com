@@ -84,6 +84,13 @@
         }
     }
 }
+.m-standard-nav h3.hide-after{
+    @include medium {
+        &::after{
+            display: none;
+        }
+    }
+}
 .m-standard-nav ul,
 .m-standard-nav li {
     list-style: none;
