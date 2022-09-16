@@ -26,6 +26,16 @@ Our Ancestral homelands extend from the forested slopes of Oregon’s coastal mo
 
 {{< spacer 25 >}}
 
+### Abundance
+
+A vision of abundance is built through commitment to continue our traditional practices and care for our homelands supported by the perseverance and spirit of our Ancestors. 
+
+Abundance is a collection of our story over time. Our story begins with creation of the world and provides a way of understanding how things came to be and become familiar with our world. It is important that our world was created with good intentions, in other words a good heart. 
+
+Tribes and other groups identify their own version or unique story of the creation of their land, people and animals. These stories are very old and have been passed down for generations, some millennia.
+
+{{< spacer 25 >}}
+
 ![The traditional Salmon cooking over campfire on cedar stakes](/img/ctclusi-salmon-on-pit.jpg "Salmon cooking over campfire on cedar stakes; Photographer Jesse Beers")
 
 ### When the tide is low, the table is set!
@@ -100,16 +110,6 @@ We honor the traditional connection all Tribal communities have to the water thr
 ![The CTCLUSI Tribe in traditional canoe.](/img/ctclusi-canoe.jpg "Tribal Canoe Journey - Photographer Margaret Corvi. ")
 
 {{< spacer 50 >}}
-
-### Abundance
-
-A vision of abundance is built through commitment to continue our traditional practices and care for our homelands supported by the perseverance and spirit of our Ancestors. We hope to share this vision with you.
-
-Abundance is about creating a place that can sustain all of us. A place where we can all share our culture and connection.  Abundance is about creating an understanding of the rich history here and strengthening relationships with partners for a better life on the coast.  
-
-Abundance is a collection of our story over time. Our story begins with creation of the world and provides a way of understanding how things came to be and become familiar with our world. It is important that our world was created with good intentions, in other words a good heart. 
-
-Tribes and other groups identify their own version or unique story of the creation of their land, people and animals. These stories are very old and have been passed down for generations, some millennia.
 
 ### Contact Us
 
