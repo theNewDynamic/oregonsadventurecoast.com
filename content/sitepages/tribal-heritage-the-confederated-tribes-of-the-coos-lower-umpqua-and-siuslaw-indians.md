@@ -122,6 +122,8 @@ The Tribal government works to ensure sovereignty – sovereignty describes the 
 
 {{< spacer 25 >}}
 
+![Hands holding reeds for basket weaving with shell necklaces.](/img/ctclusi-regalia.jpg "Traditional dentalium shell necklaces and basket making.")
+
 ### Promoting Culture and Sovereignty
 
 Our Tribal government embraces our Tribe’s lessons and lifeways to protect, inform, and enhance the lives of our people, the health of our environment and the sustainability of our community.
