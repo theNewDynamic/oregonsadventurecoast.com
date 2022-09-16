@@ -65,7 +65,7 @@ Ceremonial Hat, made from dentalium shells, abalone shells, seed beads, leather,
 
 Our Ancestors were keen observers of the life around them. For hundreds of generations, our understanding of seasonal fluctuations, the best practices to gather essential, nourishing foods and the interplay between the two, has been incredibly valuable, detailed and nuanced. 
 
-On the landscape, we can see the evidence of past stewardship and practice if we look in the forests, along the shorelines and in the estuaries. 
+On the landscape, we can see the evidence of past stewardship and practice if we look in the forests, along the shorelines, and in the estuaries. 
 
 Traditional knowledge was used to implement stewardship practices that supported an abundance of resources. Today, we draw on the traditional knowledge passed down to us, as well as methods of western science to monitor our important places and track the changes happening in our homelands and waters due to climate change. 
 
@@ -75,9 +75,9 @@ We work with our neighbors and a variety of other organizations to monitor the h
 
 ### Ecosystem Health
 
-The Tribe works every day to care for the ecosystems within our Ancestral boundaries, shorelines, and beyond.  This work includes collaborations with our watershed partners to restore salmon and lamprey habitats as well as improving water quality and use of native plants that have cultural significance.
+The Tribe works every day to care for the ecosystems within our Ancestral boundaries, shorelines, and beyond. This work includes collaborations with our watershed partners to restore salmon and lamprey habitats as well as improving water quality and use of native plants that have cultural significance.
 
-{{< spacer 25 >}}
+{{< spacer 50 >}}
 
 ![Photograph of hands holding huckleberries over a sandy area.](/img/ctclusi-berries.jpg 'Huckleberries are cherished as "relatives" of the Tribe.')
 
@@ -97,7 +97,9 @@ Today, throughout the year, but mainly in the spring and summer and fall, Tribal
 
 We honor the traditional connection all Tribal communities have to the water through canoeing. Each year, we gather for Canoe Journey, a special event that is helping revitalize culture and restore our connections to each other and the lands and waters of our home.
 
-{{< spacer 25 >}}
+![The CTCLUSI Tribe in traditional canoe.](/img/ctclusi-canoe.jpg "Tribal Canoe Journey - Photographer Margaret Corvi. ")
+
+{{< spacer 50 >}}
 
 ### Abundance
 
