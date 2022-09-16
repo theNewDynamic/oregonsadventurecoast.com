@@ -35,12 +35,16 @@ Thousands of locals and visitors from afar come to enjoy the sights, sounds, and
 
 {{< spacer 50 >}}
 
+#### [**CLICK HERE for the Full Schedule of Events**]()
+
+{{< spacer 50 >}}
+
 #### For the kiddos, Sunday offers a special additional event!
 
-[**2022 PRE RUN FOR KIDS**](https://www.great-futures.org/pre-for-kids)**  
+[**2022 PRE RUN FOR KIDS__](https://www.great-futures.org/pre-for-kids)**  
 Sunday, September 18th, 1:30pm Start**
 
-Girls and Boys in grades 1st through 8th are encouraged to participate in this 3 mile fun run. 
+Girls and Boys in grades 1st through 8th are encouraged to participate in this 3 mile fun run.
 
 The Start of the race is on 2nd Street, Coos Bay (behind Coos Art Museum)
 
