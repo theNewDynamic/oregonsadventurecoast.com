@@ -35,14 +35,14 @@ Thousands of locals and visitors from afar come to enjoy the sights, sounds, and
 
 {{< spacer 50 >}}
 
-#### [**CLICK HERE for the Full Schedule of Events**]()
+#### [**CLICK HERE for the Full Schedule of Events**](https://bayareafunfestival.com/schedule/)
 
 {{< spacer 50 >}}
 
 #### For the kiddos, Sunday offers a special additional event!
 
-[**2022 PRE RUN FOR KIDS__](https://www.great-futures.org/pre-for-kids)**  
-Sunday, September 18th, 1:30pm Start**
+[**2022 PRE RUN FOR KIDS](https://www.great-futures.org/pre-for-kids)  
+Sunday, September 18th, 1:30pm Start
 
 Girls and Boys in grades 1st through 8th are encouraged to participate in this 3 mile fun run.
 
