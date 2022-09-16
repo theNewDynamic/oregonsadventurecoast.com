@@ -4,23 +4,21 @@ title: Tribal Heritage - The Confederated Tribes of the Coos, Lower Umpqua and S
 aliases:
 - "/about/tribal-heritage"
 layout: our-area
-url: "/tribal-heritage-coquilles"
+url: "/tribal-heritage-confederated"
 photo: "/img/media-industry.jpg"
 ctas: []
 draft: true
 
 ---
-## The Coquilles
+## The Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians
 
-{{< floatimage src="/img/rowing-boat-01.jpg" float="right" alt="The Coquilles Rowing on Bay" size="100" >}}
+### _A good place to live, everything we need._
 
-The Coquille Indian Tribe flourished in Oregon’s southwestern corner for thousands of years, cherishing the bountiful forests, rivers and beaches of a homeland encompassing more than 1 million acres.
+Since Time Immemorial, we have centered our lives around water. Our rivers streams and springs have and continue to provide an abundance of fresh water and food, access to materials for traditional culture, canoeing routes and ceremonial practice needs. Water inspires our stories and songs.  
 
-Today we number about 1,100 members, and we control about 10,000 acres of our ancestral homeland. We proudly manage the bulk of those lands as sustainable forest.
+Our Ancestors lived in large and small villages as well as seasonal camps where they returned year after year. The rivers guided the locations of villages and homes as well as gathering grounds. Before the impacts of disease and forced removal, thousands of our Ancestors lived on the Siuslaw, Umpqua and Coos rivers respectively. Most people lived near or along the river mouths, where the diversity of resources is especially dense. The coast range and inland streams were valued for hunting, gathering, fish camps and trade routes with inland Tribes.
 
-Unlike many Indian tribes, we do not use the income from our tribal enterprises to make “per capita” payments to our members. Instead, we focus our efforts on strengthening our membership and building our people’s future – with education assistance, health care and elder services.
-
-We proudly uphold the “potlatch” tradition of sharing with the community around us. The Mill Casino-Hotel and our other enterprises contribute more than $20 million a year in local salaries and benefits, and we purchase more than $25 million a year in local goods and services. Our Coquille Tribal Community Fund has distributed millions of dollars to the area’s non-profit organizations.
+Our Ancestral homelands extend from the forested slopes of Oregon’s coastal mountain range in the East to the dunal and rocky shorelines of the Pacific Ocean in the west, a vast region of  almost two million acres. It includes the Siuslaw, and western Umpqua, as well as the Coos watersheds and numerous coastal lakes.
 
 {{< spacer 25 >}}
 
