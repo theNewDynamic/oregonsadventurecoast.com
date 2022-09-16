@@ -14,7 +14,7 @@ draft: true
 
 ### _A good place to live, everything we need._
 
-Since Time Immemorial, we have centered our lives around water. Our rivers streams and springs have and continue to provide an abundance of fresh water and food, access to materials for traditional culture, canoeing routes and ceremonial practice needs. Water inspires our stories and songs.  
+Since Time Immemorial, we have centered our lives around water. Our rivers streams and springs have and continue to provide an abundance of fresh water and food, access to materials for traditional culture, canoeing routes and ceremonial practice needs. Water inspires our stories and songs.
 
 Our Ancestors lived in large and small villages as well as seasonal camps where they returned year after year. The rivers guided the locations of villages and homes as well as gathering grounds. Before the impacts of disease and forced removal, thousands of our Ancestors lived on the Siuslaw, Umpqua and Coos rivers respectively. Most people lived near or along the river mouths, where the diversity of resources is especially dense. The coast range and inland streams were valued for hunting, gathering, fish camps and trade routes with inland Tribes.
 
@@ -24,68 +24,96 @@ Our Ancestral homelands extend from the forested slopes of Oregon’s coastal mo
 
 [![Travel oregon link to Oregon Tribal Nations Page](/img/traveloregon-indianbutton-695x125.jpg)](https://traveloregon.com/places-to-go/tribal-nations)
 
-### Our Name
+{{< spacer 25 >}}
 
-Visitors sometimes wonder about the pronunciation of our name. The southwestern Oregon town of Coquille and the nearby Coquille River are both pronounced “ko-keel.”  So why does the tribe pronounce its name “ko-kwel”?
+![The traditional Salmon cooking over campfire on cedar stakes](/img/ctclusi-salmon-on-pit.jpg "Salmon cooking over campfire on cedar stakes; Photographer Jesse Beers")
 
-The simplest explanation is that the name “Coquille” derives from “scoquel,” a word for the eel-like lamprey that our people harvested for food.  When fur traders and settlers began arriving, the river and our people became known as “Coquell” or “Coquelle.”
+### When the tide is low, the table is set!
 
-Although the spelling eventually evolved into “Coquille,” our tribe prefers the more traditional pronunciation.
+The abundant streams, rivers, lakes and estuaries are the centerpiece of all life for our communities. Here we fish, gather shellfish, hunt ducks, elk and deer, and harvest native plants for food, shelter, medicine and basket materials. The protection of our water is critical as it supports brought an abundance of fresh, nutritious food and materials and a diverse ecology here.
 
-### Our Way of Life
+{{< spacer 25 >}}
 
-{{< floatimage src="/img/rocks-waves-02.jpg" float="right" alt="Face Rock on the Oregon Coast" size="100" >}}
+![Black & White photo of the CTCLUSI Tribal Hall](/img/ctclusi-tribal-hall.png "CTCLUSI Tribal Hall; Photographs from CTCLUSI")
 
-Our ancestors flourished among the forests, rivers, meadows and beaches of southwestern Oregon. The land and water offered an endless variety of life-sustaining resources, and our people adapted ingeniously to this waterside paradise.
+### Here, forever
 
-Berries, nuts, edible roots, fish, shellfish, and sea and land mammals all were abundant. The yew tree supplied raw material for bows. Arrows were made from hazel or ocean spray. Many plants provided materials for basketry: hazel, bear grass, ferns, cattails and others.
+The lands and waters of our Ancestors were not “untouched” or “unoccupied” as many history books, museums and some textbooks suggest. We have always been here as evidenced extensively in the historic record and as seen in our landscapes if you are looking. For example, Tribes have always managed their important resources like plants used for weaving, medicines, tools or first foods. 
 
-Among all plants, none was more important to our ancestors than cedar. These versatile trees provided logs for houses and canoes, and their bark could be fashioned into rainproof garments. Other cedar products included roofing, blankets, clothing and nets. Our ancestors even used cedar in their ceremonies, burning it for smoky “smudge.”
+Additionally, stewardship and management is embedded in our language, stories and ceremonies. We actively work to steward our resources through environmental and cultural programming.
 
-In these ways and others, the forests and waterways provided for all our ancestors’ needs.
+{{< spacer 25 >}}
 
-### Our Languages
+![The Tribes Traditional Plankhouse on Reservation Lands](/img/ctclusi-plankhouse.jpg "The Tribes Traditional Plankhouse; Photographs from CTCLUSI")
 
-Our tribe’s ancestors spoke two distinct languages. Those living near Bandon and along Coos Bay’s South Slough spoke Miluk, a dialect of the Penutian language family. Those farther south and east spoke an Athabaskan dialect, similar to tongues spoken in Alaska and the American Southwest. Many of our ancestors could speak more than one language – especially the women, who commonly married outside their home villages.
+### Promoting Culture and Sovereignty
 
-Sadly, the arrival of Euro-American culture quickly overwhelmed the native languages of the Oregon Coast. By the 20th century, the remaining Indian people primarily spoke English and the regional trade jargon known as “Chinuk Wawa.” Today’s Coquille Tribe is working to reconnect our people with our ancestors’ languages.
+Our Tribal government embraces our Tribe’s lessons and lifeways to protect, inform, and enhance the lives of our people, the health of our environment and the sustainability of our community.
 
-### Our Restoration
+The work of our Tribal government is vital to ensure future generations are able to practice their culture and continue to call the coast our home. 
 
-The U.S. government “terminated” the Coquille Tribe in 1954, denying our status as Indian people.  We joyfully regained federal recognition on June 28, 1989, when Congress passed the Coquille Restoration Act. We once again were recognized as a sovereign nation of Indian people.
+ “As a sovereign nation, we honor and look to our ancestors thousands of years of experience on the land, as we guide the Tribes forward for the next seven generations; promoting health and successful families; affirming and nurturing our culture and acknowledging our responsibility to the land and the Tribal community.”  _-CTCLUSI mission statement circa 2009._
 
-In the 21st century, some of us are scattered throughout America and even around the world.  But many of us still live in places where our ancestors made their homes: Powers, Myrtle Point, Coquille, Bandon, the South Slough, Empire and others. Our eternal bond to this landscape is inseparable from our identity.
+{{< spacer 25 >}}
 
-### Our Heritage
+###### ![Photograph of Tribal Elder Anna Campbell, Quuiich (Lower Umpqua) - Photographer Morgan Gaines. ](/img/ctclusi-anna-campbell.jpg "Tribal Elder Anna Campbell, Quuiich (Lower Umpqua) - Photographer Morgan Gaines ")  
+Ceremonial Hat, made from dentalium shells, abalone shells, seed beads, leather, and eagle feather made by Sue Olson, Quuiich (Lower Umqpua). - _Photographer Morgan Gaines._
 
-{{< floatimage src="/img/arch-dig-3.jpg" float="right" alt="Our Heritage" size="100" >}}
+{{< spacer 25 >}}
 
-Southwestern Oregon has always been a wonderful place to live. Wherever you go in the region, you’re probably walking where our ancestors lived their lives, gathered their food, and buried the remains of their loved ones.
+### Traditional Knowledge
 
-Our tribe works closely with anthropologists and archeologists to research the ancestral past. Major archaeological projects have been conducted along the Coquille River and on the bluffs and shorelines of Oregon’s South Coast. This research shows that humans have used and occupied the lands and resources of the coastal region for thousands of years.
+Our Ancestors were keen observers of the life around them. For hundreds of generations, our understanding of seasonal fluctuations, the best practices to gather essential, nourishing foods and the interplay between the two, has been incredibly valuable, detailed and nuanced. 
 
-Physical evidence of our ancestors’ presence is rarely obvious, but artifacts and graves lie beneath many well-used local places. Just like anyone else, we feel heartsick when our ancestors’ resting places are violated.
+On the landscape, we can see the evidence of past stewardship and practice if we look in the forests, along the shorelines and in the estuaries. 
 
-Oregon law prohibits vandalizing or excavating cultural resource sites and removing artifacts, whether you’re on public or private land. Please, give our deceased family members the same respect you would give your own.
+Traditional knowledge was used to implement stewardship practices that supported an abundance of resources. Today, we draw on the traditional knowledge passed down to us, as well as methods of western science to monitor our important places and track the changes happening in our homelands and waters due to climate change. 
 
-### Our Lands
+We work with our neighbors and a variety of other organizations to monitor the health of ocean waters, track the spread of invasive species and restore the nearshore environments and inland streams that sustained our people since Time Immemorial, rich with runs of salmon, lamprey, flounder, herring and healthy populations of crabs, crawfish and more.
 
-<div class="float-right-400px">
-<p><img src="/img/coquille-sign-04.jpg" alt="The Coquilles Land" width="100%">
-</p><p>
-<img src="/img/coquille-forest-05.jpg" alt="The Tribal Heritage - The Coquilles Forest" width="100%"></p>
-</div>
+{{< spacer 25 >}}
 
-Under a 1996 law, the Coquille Tribe resumed stewardship of 5,410 acres of our ancestral homeland. The Coquille Tribal Forest comprises 14 parcels of timber land in eastern Coos County. The tribe acquired the 3,200-acre Sek-wet-se Forest in Curry County in 2015.
+### Ecosystem Health
 
-Forest revenue is a crucial element of the tribe’s annual budget, supporting health care, education and elder services. Our timber harvest generates approximately 200 jobs for the local community, and up to 3.6 million board feet of timber each year for local mills. The tribe uses innovative forestry management to operate in compliance with the Forest Stewardship Council’s stringent certification requirements.
+The Tribe works every day to care for the ecosystems within our Ancestral boundaries, shorelines, and beyond.  This work includes collaborations with our watershed partners to restore salmon and lamprey habitats as well as improving water quality and use of native plants that have cultural significance.
 
-Another 1,100-acre parcel near Empire is home to Kilkich, a community recognized as a model for attractive, livable reservation housing. The same parcel includes the Empire Forest, home to Fourth Creek and Tarheel Reservoirs. The tribe also owns commercial property in North Bend and Medford.
+{{< spacer 25 >}}
+
+![Photograph of hands holding huckleberries over a sandy area.](/img/ctclusi-berries.jpg 'Huckleberries are cherished as "relatives" of the Tribe.')
+
+### Hiis haiyach, _with a good heart_
+
+For hundreds of generations, we have lived in balance with, and as part of, the natural world around us. We call salmon, huckleberry or cedar our “relatives” because, just as we cherish and rely on our human family members for survival and friendship, we are deeply interconnected with all forms of life that surround us.
+
+{{< spacer 25 >}}
+
+![A canoe is paddled by tribal members under the North Bend Bridge.](/img/ctclusi-canoe-pull-under-north-bend-bridge-photo-by-john-schaefer-scaled.jpeg "Canoe pull under the North Bend Bridge, Kukwis  or Kuukuus / Coos Bay, Oregon - Photographer John Schaefer.")
+
+### Canoe People
+
+A canoe is an excellent way to get to your destination if you live on a river! Canoes are used to visit family or friends, attend a ceremony, head to a gathering spot or make your way to the ocean for a larger expedition. 
+
+Today, throughout the year, but mainly in the spring and summer and fall, Tribal people get their canoe, paddles and gear ready and take to the rivers. We join in local races, train for the annual Canoe Journey, or visit old natural or cultural landmarks or village sites.
+
+We honor the traditional connection all Tribal communities have to the water through canoeing. Each year, we gather for Canoe Journey, a special event that is helping revitalize culture and restore our connections to each other and the lands and waters of our home.
+
+{{< spacer 25 >}}
+
+### Abundance
+
+A vision of abundance is built through commitment to continue our traditional practices and care for our homelands supported by the perseverance and spirit of our Ancestors. We hope to share this vision with you.
+
+Abundance is about creating a place that can sustain all of us. A place where we can all share our culture and connection.  Abundance is about creating an understanding of the rich history here and strengthening relationships with partners for a better life on the coast.  
+
+Abundance is a collection of our story over time. Our story begins with creation of the world and provides a way of understanding how things came to be and become familiar with our world. It is important that our world was created with good intentions, in other words a good heart. 
+
+Tribes and other groups identify their own version or unique story of the creation of their land, people and animals. These stories are very old and have been passed down for generations, some millennia.
 
 ### Contact Us
 
-**Coquille Indian Tribe**  
-3050 Tremont Ave, North Bend, Oregon, 97459  
-(541) 756-0904
+**Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians**  
+1245 Fulton Avenue  
+Coos Bay, OR 97420 Phone   
+(541) 888-9577
 
-Further details are at <a href="http://www.coquilletribe.org" target="_blank">www.coquilletribe.org</a>.
+Further details are at  [https://ctclusi.org/](https://ctclusi.org/ "https://ctclusi.org/").
