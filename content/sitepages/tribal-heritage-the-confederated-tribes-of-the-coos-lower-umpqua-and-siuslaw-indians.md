@@ -7,7 +7,6 @@ layout: our-area
 url: "/tribal-heritage-confederated"
 photo: "/img/media-industry.jpg"
 ctas: []
-draft: true
 
 ---
 ## The Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians
@@ -110,6 +109,24 @@ We honor the traditional connection all Tribal communities have to the water thr
 ![The CTCLUSI Tribe in traditional canoe.](/img/ctclusi-canoe.jpg "Tribal Canoe Journey - Photographer Margaret Corvi. ")
 
 {{< spacer 50 >}}
+
+### Community and Leadership
+
+Today, our Tribe is guided by a Chief and Tribal Council, who work together to ensure the well-being, strength, and prosperity of our people and to ensure that the cultural abundance shared by storytellers, artists, and leaders of the past is accessible to future generations. 
+
+Our modern-day government structure resembles federal or state governments with citizens electing leadership. Leadership, the Tribal Council, oversees the administration and departments that promote a core mission. There are some differences. These include roles, such as Chief, and responsibilities such as promoting cultural beliefs.  
+
+After restoration in 1984, a [constitution](https://ctclusi.org/wp-content/uploads/2020/06/Constitution-CTCLUSI.pdf) was drafted and adopted by our member citizens and is our foundational governing document. The core elements to this constitution include promoting and protecting our culture and unique identity.
+
+The Tribal government works to ensure sovereignty – sovereignty describes the inherent right of Native American Nations to exercise self-governance. Tribal sovereignty predates the existence of the U.S. government and the state of Oregon. Tribal governments are separate and unique sovereign nations with powers to protect the health, safety and welfare of their citizens and to govern their lands, air and waters for the benefit future generations.
+
+{{< spacer 25 >}}
+
+### Promoting Culture and Sovereignty
+
+Our Tribal government embraces our Tribe’s lessons and lifeways to protect, inform, and enhance the lives of our people, the health of our environment and the sustainability of our community.
+
+{{< spacer 25 >}}
 
 ### Contact Us
 
