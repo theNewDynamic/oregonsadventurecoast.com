@@ -16,7 +16,7 @@ draft: true
 
 Since Time Immemorial, we have centered our lives around water. Our rivers streams and springs have and continue to provide an abundance of fresh water and food, access to materials for traditional culture, canoeing routes and ceremonial practice needs. Water inspires our stories and songs.
 
-Our Ancestors lived in large and small villages as well as seasonal camps where they returned year after year. The rivers guided the locations of villages and homes as well as gathering grounds. Before the impacts of disease and forced removal, thousands of our Ancestors lived on the Siuslaw, Umpqua and Coos rivers respectively. Most people lived near or along the river mouths, where the diversity of resources is especially dense. The coast range and inland streams were valued for hunting, gathering, fish camps and trade routes with inland Tribes.
+Our Ancestors lived in large and small villages as well as seasonal camps where they returned year after year. The rivers guided the locations of villages and homes as well as gathering grounds. Before the impacts of disease and forced removal, thousands of our Ancestors lived on the Siuslaw, Umpqua and Coos rivers. Most people lived near or along the river mouths, where the diversity of resources is especially dense. The coast range and inland streams were valued for hunting, gathering, fish camps and trade routes with inland Tribes.
 
 Our Ancestral homelands extend from the forested slopes of Oregon’s coastal mountain range in the East to the dunal and rocky shorelines of the Pacific Ocean in the west, a vast region of  almost two million acres. It includes the Siuslaw, and western Umpqua, as well as the Coos watersheds and numerous coastal lakes.
 
