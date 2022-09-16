@@ -30,7 +30,7 @@ Our Ancestral homelands extend from the forested slopes of Oregon’s coastal mo
 
 ### When the tide is low, the table is set!
 
-The abundant streams, rivers, lakes and estuaries are the centerpiece of all life for our communities. Here we fish, gather shellfish, hunt ducks, elk and deer, and harvest native plants for food, shelter, medicine and basket materials. The protection of our water is critical as it supports brought an abundance of fresh, nutritious food and materials and a diverse ecology here.
+The abundant streams, rivers, lakes and estuaries are the centerpiece of all life for our communities. Here we fish, gather shellfish, hunt ducks, elk and deer, and harvest native plants for food, shelter, medicine and basket materials. The protection of our water is critical as it brought an abundance of fresh, nutritious food and materials and a diverse ecology here.
 
 {{< spacer 25 >}}
 
@@ -52,7 +52,7 @@ Our Tribal government embraces our Tribe’s lessons and lifeways to protect, in
 
 The work of our Tribal government is vital to ensure future generations are able to practice their culture and continue to call the coast our home. 
 
- “As a sovereign nation, we honor and look to our ancestors thousands of years of experience on the land, as we guide the Tribes forward for the next seven generations; promoting health and successful families; affirming and nurturing our culture and acknowledging our responsibility to the land and the Tribal community.”  _-CTCLUSI mission statement circa 2009._
+ “As a sovereign nation, we honor and look to our ancestors' thousands of years of experience on the land, as we guide the Tribes forward for the next seven generations; promoting health and successful families; affirming and nurturing our culture and acknowledging our responsibility to the land and the Tribal community.”  _-CTCLUSI mission statement circa 2009._
 
 {{< spacer 25 >}}
 
