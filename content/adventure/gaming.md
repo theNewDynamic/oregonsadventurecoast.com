@@ -35,7 +35,7 @@ You will find gaming, lodging, dining, and entertainment in an exceptional casin
 
 divider
 
-![Three Rivers Casino - Coos Bay](/img/three-rivers-casino.jpg)
+![Three Rivers Casino Gaming floor in Coos Bay, Oregon](/img/three-rivers-casino-column-header.jpg)
 
 **Three Rivers Casino – Coos Bay**  
 1297 Ocean Blvd, Coos Bay, OR  
