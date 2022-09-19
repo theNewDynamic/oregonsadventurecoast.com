@@ -22,15 +22,15 @@ exports.handler = async function(event, context) {
   const apps = [
     {
       id: 'dining',
-      endpoint: '/dining/index.json'
+      endpoint: '/oac-dining/index.json'
     },
     {
       id: 'lodging',
-      endpoint: '/lodging/index.json'
+      endpoint: '/oac-lodging/index.json'
     },
     {
       id: 'shopping',
-      endpoint: '/shopping/index.json'
+      endpoint: '/oac-shopping/index.json'
     }
   ]
 
