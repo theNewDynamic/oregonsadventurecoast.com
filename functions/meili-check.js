@@ -48,7 +48,7 @@ exports.handler = async function(event, context) {
     
     let responseCheck = await index.getDocuments({
       limit: 1000,
-      attributesToRetrieve: ['title']
+      fields: ['title']
     })
     const retrievedDocuments = responseCheck
     const pass = retrievedDocuments.length === documents.length
