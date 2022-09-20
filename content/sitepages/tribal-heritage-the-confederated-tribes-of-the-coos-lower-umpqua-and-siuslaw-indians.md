@@ -87,7 +87,7 @@ The Tribe works every day to care for the ecosystems within our Ancestral bounda
 
 {{< spacer 50 >}}
 
-![Photograph of hands holding huckleberries over a sandy area.](/img/ctclusi-berries.jpg 'Huckleberries are cherished as "relatives" of the Tribe.')
+![Photograph of hands holding huckleberries over a sandy area.](/img/hands-holding-seeds-plants.jpg)
 
 ### Hiis haiyach, _with a good heart_
 
