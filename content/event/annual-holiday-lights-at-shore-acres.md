@@ -56,7 +56,7 @@ This year, [**Holiday Lights visitation will be through a timed reservation syst
 
 {{< spacer 25 >}}
 
-### [**BOOK NOW**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381)
+<a href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381" class="learn-more-anywhere-btn">BOOK YOUR HOLIDAY LIGHTS VISIT NOW »</a>
 
 {{< spacer 25 >}}
 
