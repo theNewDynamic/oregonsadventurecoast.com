@@ -29,13 +29,13 @@ Our Ancestral homelands extend from the forested slopes of Oregon’s coastal mo
 
 A vision of abundance is built through commitment to continue our traditional practices and care for our homelands supported by the perseverance and spirit of our Ancestors.
 
+{{< floatimage src="/img/ctclusi-salmon-on-pit.jpg" float="right" alt="Salmon cooking over campfire on cedar stakes - photographer Jesse Beers" size="100" >}}
+
 Abundance is a collection of our story over time. Our story begins with creation of the world and provides a way of understanding how things came to be and become familiar with our world. It is important that our world was created with good intentions, in other words a good heart.
 
 Tribes and other groups identify their own version or unique story of the creation of their land, people and animals. These stories are very old and have been passed down for generations, some millennia.
 
 {{< spacer 25 >}}
-
-{{< floatimage src="/img/ctclusi-salmon-on-pit.jpg" float="right" alt="Salmon cooking over campfire on cedar stakes - photographer Jesse Beers" size="100" >}}
 
 ### When the tide is low, the table is set!
 
@@ -43,7 +43,7 @@ The abundant streams, rivers, lakes and estuaries are the centerpiece of all lif
 
 {{< spacer 25 >}}
 
-![Black & White photo of the CTCLUSI Tribal Hall](/img/ctclusi-tribal-hall.png "CTCLUSI Tribal Hall; Photographs from CTCLUSI")
+![The Tribes Traditional Plankhouse on Reservation Lands](/img/newplankhouse.jpg)
 
 ### Here, forever
 
@@ -53,7 +53,7 @@ Additionally, stewardship and management is embedded in our language, stories an
 
 {{< spacer 25 >}}
 
-![The Tribes Traditional Plankhouse on Reservation Lands](/img/ctclusi-plankhouse.jpg "The Tribes Traditional Plankhouse; Photographs from CTCLUSI")
+![The Tribes Traditional Plankhouse on Reservation Lands](/img/tribe-plankhouse.jpg)
 
 ### Promoting Culture and Sovereignty
 
