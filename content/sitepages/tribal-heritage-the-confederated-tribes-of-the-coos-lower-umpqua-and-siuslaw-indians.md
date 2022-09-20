@@ -111,6 +111,8 @@ We honor the traditional connection all Tribal communities have to the water thr
 
 ### Community and Leadership
 
+{{< floatimage src="/img/ctclusi-regalia.jpg" float="right" alt="Hands holding reeds for basket weaving with shell necklaces." size="100" >}}
+
 Today, our Tribe is guided by a Chief and Tribal Council, who work together to ensure the well-being, strength, and prosperity of our people and to ensure that the cultural abundance shared by storytellers, artists, and leaders of the past is accessible to future generations.
 
 Our modern-day government structure resembles federal or state governments with citizens electing leadership. Leadership, the Tribal Council, oversees the administration and departments that promote a core mission. There are some differences. These include roles, such as Chief, and responsibilities such as promoting cultural beliefs.
@@ -120,8 +122,6 @@ After restoration in 1984, a [constitution](https://ctclusi.org/wp-content/uploa
 The Tribal government works to ensure sovereignty – sovereignty describes the inherent right of Native American Nations to exercise self-governance. Tribal sovereignty predates the existence of the U.S. government and the state of Oregon. Tribal governments are separate and unique sovereign nations with powers to protect the health, safety and welfare of their citizens and to govern their lands, air and waters for the benefit future generations.
 
 {{< spacer 25 >}}
-
-![Hands holding reeds for basket weaving with shell necklaces.](/img/ctclusi-regalia.jpg "Traditional dentalium shell necklaces and basket making.")
 
 ### Promoting Culture and Sovereignty
 
