@@ -56,7 +56,7 @@ Additionally, stewardship and management is embedded in our language, stories an
 ![The Tribes Traditional Plankhouse on Reservation Lands](/img/tribe-plankhouse.jpg)
 
 ### Promoting Culture and Sovereignty
-
+{{< spacer 25 >}}
 {{< floatimage src="/img/ctclusi-anna-campbell.jpg" float="right" alt="Photograph of Tribal Elder Anna Campbell, Quuiich (Lower Umpqua) - Photographer Morgan Gaines" size="100" >}}
 
 **Photo:** _Ceremonial Hat, made from dentalium shells, abalone shells, seed beads, leather, and eagle feather made by Sue Olson, Quuiich (Lower Umqpua). - Photographer Morgan Gaines._
