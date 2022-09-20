@@ -8,8 +8,9 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- photo: "/img/home-page-slider-fishing-ready-set-06-21.jpg"
+- photo: "/img/fall-fishing-hm-slider-desktop.jpg"
   url: "/fishing"
+  photo_mobile: "/img/fall-fishing-hm-slider-mobile.jpg"
 - photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
   url: "/water-recreation"
 - title: Breathtaking Views
