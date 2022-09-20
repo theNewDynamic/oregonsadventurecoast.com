@@ -27,15 +27,15 @@ Our Ancestral homelands extend from the forested slopes of Oregon’s coastal mo
 
 ### Abundance
 
-A vision of abundance is built through commitment to continue our traditional practices and care for our homelands supported by the perseverance and spirit of our Ancestors. 
+A vision of abundance is built through commitment to continue our traditional practices and care for our homelands supported by the perseverance and spirit of our Ancestors.
 
-Abundance is a collection of our story over time. Our story begins with creation of the world and provides a way of understanding how things came to be and become familiar with our world. It is important that our world was created with good intentions, in other words a good heart. 
+Abundance is a collection of our story over time. Our story begins with creation of the world and provides a way of understanding how things came to be and become familiar with our world. It is important that our world was created with good intentions, in other words a good heart.
 
 Tribes and other groups identify their own version or unique story of the creation of their land, people and animals. These stories are very old and have been passed down for generations, some millennia.
 
 {{< spacer 25 >}}
 
-![The traditional Salmon cooking over campfire on cedar stakes](/img/ctclusi-salmon-on-pit.jpg "Salmon cooking over campfire on cedar stakes; Photographer Jesse Beers")
+{{< floatimage src="/img/ctclusi-salmon-on-pit.jpg" float="right" alt="Salmon cooking over campfire on cedar stakes - photographer Jesse Beers" size="100" >}}
 
 ### When the tide is low, the table is set!
 
@@ -47,7 +47,7 @@ The abundant streams, rivers, lakes and estuaries are the centerpiece of all lif
 
 ### Here, forever
 
-The lands and waters of our Ancestors were not “untouched” or “unoccupied” as many history books, museums and some textbooks suggest. We have always been here as evidenced extensively in the historic record and as seen in our landscapes if you are looking. For example, Tribes have always managed their important resources like plants used for weaving, medicines, tools or first foods. 
+The lands and waters of our Ancestors were not “untouched” or “unoccupied” as many history books, museums and some textbooks suggest. We have always been here as evidenced extensively in the historic record and as seen in our landscapes if you are looking. For example, Tribes have always managed their important resources like plants used for weaving, medicines, tools or first foods.
 
 Additionally, stewardship and management is embedded in our language, stories and ceremonies. We actively work to steward our resources through environmental and cultural programming.
 
@@ -59,24 +59,25 @@ Additionally, stewardship and management is embedded in our language, stories an
 
 Our Tribal government embraces our Tribe’s lessons and lifeways to protect, inform, and enhance the lives of our people, the health of our environment and the sustainability of our community.
 
-The work of our Tribal government is vital to ensure future generations are able to practice their culture and continue to call the coast our home. 
+The work of our Tribal government is vital to ensure future generations are able to practice their culture and continue to call the coast our home.
 
- “As a sovereign nation, we honor and look to our ancestors' thousands of years of experience on the land, as we guide the Tribes forward for the next seven generations; promoting health and successful families; affirming and nurturing our culture and acknowledging our responsibility to the land and the Tribal community.”  _-CTCLUSI mission statement circa 2009._
+“As a sovereign nation, we honor and look to our ancestors' thousands of years of experience on the land, as we guide the Tribes forward for the next seven generations; promoting health and successful families; affirming and nurturing our culture and acknowledging our responsibility to the land and the Tribal community.”  _-CTCLUSI mission statement circa 2009._
 
 {{< spacer 25 >}}
 
-###### ![Photograph of Tribal Elder Anna Campbell, Quuiich (Lower Umpqua) - Photographer Morgan Gaines. ](/img/ctclusi-anna-campbell.jpg "Tribal Elder Anna Campbell, Quuiich (Lower Umpqua) - Photographer Morgan Gaines ")  
+###### ![Photograph of Tribal Elder Anna Campbell, Quuiich (Lower Umpqua) - Photographer Morgan Gaines. ](/img/ctclusi-anna-campbell.jpg "Tribal Elder Anna Campbell, Quuiich (Lower Umpqua) - Photographer Morgan Gaines ")
+
 Ceremonial Hat, made from dentalium shells, abalone shells, seed beads, leather, and eagle feather made by Sue Olson, Quuiich (Lower Umqpua). - _Photographer Morgan Gaines._
 
 {{< spacer 25 >}}
 
 ### Traditional Knowledge
 
-Our Ancestors were keen observers of the life around them. For hundreds of generations, our understanding of seasonal fluctuations, the best practices to gather essential, nourishing foods and the interplay between the two, has been incredibly valuable, detailed and nuanced. 
+Our Ancestors were keen observers of the life around them. For hundreds of generations, our understanding of seasonal fluctuations, the best practices to gather essential, nourishing foods and the interplay between the two, has been incredibly valuable, detailed and nuanced.
 
-On the landscape, we can see the evidence of past stewardship and practice if we look in the forests, along the shorelines, and in the estuaries. 
+On the landscape, we can see the evidence of past stewardship and practice if we look in the forests, along the shorelines, and in the estuaries.
 
-Traditional knowledge was used to implement stewardship practices that supported an abundance of resources. Today, we draw on the traditional knowledge passed down to us, as well as methods of western science to monitor our important places and track the changes happening in our homelands and waters due to climate change. 
+Traditional knowledge was used to implement stewardship practices that supported an abundance of resources. Today, we draw on the traditional knowledge passed down to us, as well as methods of western science to monitor our important places and track the changes happening in our homelands and waters due to climate change.
 
 We work with our neighbors and a variety of other organizations to monitor the health of ocean waters, track the spread of invasive species and restore the nearshore environments and inland streams that sustained our people since Time Immemorial, rich with runs of salmon, lamprey, flounder, herring and healthy populations of crabs, crawfish and more.
 
@@ -100,7 +101,7 @@ For hundreds of generations, we have lived in balance with, and as part of, the 
 
 ### Canoe People
 
-A canoe is an excellent way to get to your destination if you live on a river! Canoes are used to visit family or friends, attend a ceremony, head to a gathering spot or make your way to the ocean for a larger expedition. 
+A canoe is an excellent way to get to your destination if you live on a river! Canoes are used to visit family or friends, attend a ceremony, head to a gathering spot or make your way to the ocean for a larger expedition.
 
 Today, throughout the year, but mainly in the spring and summer and fall, Tribal people get their canoe, paddles and gear ready and take to the rivers. We join in local races, train for the annual Canoe Journey, or visit old natural or cultural landmarks or village sites.
 
@@ -112,9 +113,9 @@ We honor the traditional connection all Tribal communities have to the water thr
 
 ### Community and Leadership
 
-Today, our Tribe is guided by a Chief and Tribal Council, who work together to ensure the well-being, strength, and prosperity of our people and to ensure that the cultural abundance shared by storytellers, artists, and leaders of the past is accessible to future generations. 
+Today, our Tribe is guided by a Chief and Tribal Council, who work together to ensure the well-being, strength, and prosperity of our people and to ensure that the cultural abundance shared by storytellers, artists, and leaders of the past is accessible to future generations.
 
-Our modern-day government structure resembles federal or state governments with citizens electing leadership. Leadership, the Tribal Council, oversees the administration and departments that promote a core mission. There are some differences. These include roles, such as Chief, and responsibilities such as promoting cultural beliefs.  
+Our modern-day government structure resembles federal or state governments with citizens electing leadership. Leadership, the Tribal Council, oversees the administration and departments that promote a core mission. There are some differences. These include roles, such as Chief, and responsibilities such as promoting cultural beliefs.
 
 After restoration in 1984, a [constitution](https://ctclusi.org/wp-content/uploads/2020/06/Constitution-CTCLUSI.pdf) was drafted and adopted by our member citizens and is our foundational governing document. The core elements to this constitution include promoting and protecting our culture and unique identity.
 
@@ -134,7 +135,7 @@ Our Tribal government embraces our Tribe’s lessons and lifeways to protect, in
 
 **Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians**  
 1245 Fulton Avenue  
-Coos Bay, OR 97420 Phone   
+Coos Bay, OR 97420 Phone  
 (541) 888-9577
 
 Further details are at  [https://ctclusi.org/](https://ctclusi.org/ "https://ctclusi.org/").
