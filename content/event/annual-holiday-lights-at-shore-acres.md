@@ -56,13 +56,7 @@ This year, [**Holiday Lights visitation will be through a timed reservation syst
 
 {{< spacer 25 >}}
 
-{{< columns number="2" >}}
-
-<a href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381" class="learn-more-anywhere-btn">BOOK NOW</a>
-
-divider
-
-{{< /columns >}}
+### <a href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381" class="learn-more-anywhere-btn">BOOK NOW</a>
 
 {{< spacer 25 >}}
 
