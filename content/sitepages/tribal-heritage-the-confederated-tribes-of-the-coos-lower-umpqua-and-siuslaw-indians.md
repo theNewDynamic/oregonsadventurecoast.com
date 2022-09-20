@@ -57,17 +57,15 @@ Additionally, stewardship and management is embedded in our language, stories an
 
 ### Promoting Culture and Sovereignty
 
+{{< floatimage src="/img/ctclusi-anna-campbell.jpg" float="right" alt="Photograph of Tribal Elder Anna Campbell, Quuiich (Lower Umpqua) - Photographer Morgan Gaines" size="100" >}}
+
+**Photo:** _Ceremonial Hat, made from dentalium shells, abalone shells, seed beads, leather, and eagle feather made by Sue Olson, Quuiich (Lower Umqpua). - Photographer Morgan Gaines._
+
 Our Tribal government embraces our Tribe’s lessons and lifeways to protect, inform, and enhance the lives of our people, the health of our environment and the sustainability of our community.
 
 The work of our Tribal government is vital to ensure future generations are able to practice their culture and continue to call the coast our home.
 
 “As a sovereign nation, we honor and look to our ancestors' thousands of years of experience on the land, as we guide the Tribes forward for the next seven generations; promoting health and successful families; affirming and nurturing our culture and acknowledging our responsibility to the land and the Tribal community.”  _-CTCLUSI mission statement circa 2009._
-
-{{< spacer 25 >}}
-
-###### ![Photograph of Tribal Elder Anna Campbell, Quuiich (Lower Umpqua) - Photographer Morgan Gaines. ](/img/ctclusi-anna-campbell.jpg "Tribal Elder Anna Campbell, Quuiich (Lower Umpqua) - Photographer Morgan Gaines ")
-
-Ceremonial Hat, made from dentalium shells, abalone shells, seed beads, leather, and eagle feather made by Sue Olson, Quuiich (Lower Umqpua). - _Photographer Morgan Gaines._
 
 {{< spacer 25 >}}
 
