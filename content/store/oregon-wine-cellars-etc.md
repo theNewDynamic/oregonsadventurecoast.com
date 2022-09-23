@@ -12,6 +12,7 @@ address:
   street2: ''
   city: Coos Bay
   zip: '97420'
+  state: ''
 phone_local: "(541) 267-0300"
 phone_toll_free: ''
 website: https://www.facebook.com/oregon-wine-cellar-etc-119185758137856/
@@ -23,5 +24,6 @@ seo:
   description: ''
   imgalt: ''
   image: ''
+draft: true
 
 ---
