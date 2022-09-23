@@ -4,9 +4,22 @@ title: Everything You Need to Know About the 2022 Holiday Lights at Shore Acres 
 date: 2022-09-22T04:00:00+00:00
 description: We Have Answers to the Most Frequently Asked Questions About the NEW
   Timed Entry System for the 2022 Holiday Lights Display at Shore Acres State Park!
-image: ''
-tags: []
-categories: []
+image: "/img/holiday-lights-shore-acres-panoramic.jpg"
+tags:
+- 'Shore Acres State Park '
+- Shore Acres Holiday Lights
+- Holiday Lights Coos Bay
+- Holiday Lights at Shore Acres
+- Friends of Shore Acres
+- Holiday Lights Time Entry System
+- Oregon Coast
+- Christmas
+- Holidays
+- Coos Bay
+- North Bend Oregon
+- Charleston Oregon
+categories:
+- Special Events & Holidays
 seo:
   title: ''
   description: ''
@@ -16,16 +29,19 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 _We Have Answers to the Most Frequently Asked Questions About the NEW Timed Entry System for the 2022 Holiday Lights Display at Shore Acres State Park!_
+
+![](/img/Shore-Acres-Holiday-Lights-Collage-3.jpg)
 
 Autumn officially begins this week, which means [Holiday Lights at Shore Acres State Park](https://www.oregonsadventurecoast.com/event/annual-holiday-lights-at-shore-acres/) is just around the corner! This will be the first time since 2019 the beautiful holiday lights will sparkle and dazzle on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** - and the anticipation could not be greater!
 
 To prevent extreme traffic and maintain visitor’s safety on Cape Arago Highway, [Oregon State Parks](https://stateparks.oregon.gov/) has implemented [a new timed entry system](https://oregonstateparks.reserveamerica.com/tourList.do?parkId=402381&contractCode=OR) that all park visitors, regardless of residency, must sign up for **_in advance_**, or else be turned away. For those of us who have attended year after year, this might take a little getting used to! But don’t worry, we have it on good authority that the holiday lights will be brighter and better than ever! An army of volunteers from Friends of Shore Acres (that’s right- volunteers) are hard at work to ensure our visitors have as smooth and easy experiences as possible.
 
 We want to do our part to communicate these changes with the public, please read the following CAREFULLY to ensure your visit is a joyful experience!
+
+![](/img/Shore-Acres-Holiday-Lights-Collage.jpg)
 
 **When will the Shore Acres State Park Holiday Lights Display be open to the public?**
 Holiday Lights display will be open daily from 4 p.m. - 9:30 p.m. Thanksgiving Day (Nov. 24, 2022) and will twinkle for all to enjoy through Dec. 31, 2022, even on Christmas Eve and Christmas Day.
