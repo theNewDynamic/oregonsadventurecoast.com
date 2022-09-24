@@ -24,6 +24,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
