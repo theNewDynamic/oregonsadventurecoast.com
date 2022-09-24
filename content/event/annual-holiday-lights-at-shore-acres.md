@@ -35,7 +35,7 @@ website: http://shoreacres.net/
 
 {{< spacer 35 >}}
 
-Famous for its beautiful 7-acre botanical gardens and Japanese lily pond, Shore Acres State Park shines with over 325,000 LED lights, animated displays, Santa, choirs, and more. _A holiday tradition for the whole family._
+Famous for its beautiful 7-acre botanical gardens and Japanese lily pond, Shore Acres State Park shines with over 325,000 LED lights, animated displays, Santa, choirs, and more. _A holiday tradition for the whole family ._
 
 This festive annual display debuts on Thanksgiving Day (Thursday, November 24th) and will light up Shore Acres State Park from 4 p.m.-9:30 p.m. each night (including December 24th & 25th) thru December 31st.
 
