@@ -81,18 +81,18 @@ The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, 
 
 {{< spacer 20 >}}
 
-#### December TBD <br>North Bend Tree Lighting
+#### December 3rd <br>North Bend Tree Lighting
 
 Details coming soon
 
 {{< spacer 20 >}}
 
-#### December TBD <br>Annual North Bend Christmas Cruise
+#### December 3rd <br>Annual North Bend Christmas Cruise
 
 Details Coming Soon
 
 {{< spacer 20 >}}
 
-#### {{< floatimage src="img/nb-tree-lighting-trucks-small.jpg" float="left" alt="Your Alt Text goes here" size="40" >}}December TBD <br>North Bend Lighted Truck Parade
+#### {{< floatimage src="img/nb-tree-lighting-trucks-small.jpg" float="left" alt="Your Alt Text goes here" size="40" >}}December 3rd <br>North Bend Lighted Truck Parade
 
 Details Coming Soon
