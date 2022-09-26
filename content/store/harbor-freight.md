@@ -16,12 +16,12 @@ photo_alt: Harbor Freight Logo, saw blade, drill bits, work glove, pliers electr
   drill and wrench on a wood bench with company name over top
 property_category:
 - Hardware
-phone_local: ''
+phone_local: 541-668-8384
 phone_toll_free: ''
-website: ''
+website: https://go.harborfreight.com/store/harbor-freight-tools-in-north-bend-or-97459/
 coordinates:
-  lat: ''
-  lng: ''
+  lat: '43.40535'
+  lng: "-124.23335"
 seo:
   title: ''
   description: ''
