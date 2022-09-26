@@ -11,7 +11,7 @@ property_description: The 36,000-square-foot Harbor Freight store in North Bend 
   air and power tools, storage, outdoor power equipment, generators, welding supplies,
   shop equipment, hand tools, and more. Harbor Freight’s hand tools come with a lifetime
   warranty. Open Mon-Sat 8am-8pm & Sun 9am-6pm
-photo_name: ''
+photo_name: "/img/harbor-freight-logopic.jpg"
 photo_alt: Harbor Freight Logo, saw blade, drill bits, work glove, pliers electric
   drill and wrench on a wood bench with company name over top
 property_category:
