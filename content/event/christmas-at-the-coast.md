@@ -51,13 +51,13 @@ The Charleston Fishing Families celebrate the season every year with a colorful,
 
 {{< spacer 100>}}
 
-#### {{< floatimage src="img/HolidayLights-Bushes-176.jpg" float="left" alt="Holiday Lights" size="40" >}}November 24-December 31 <br>Holiday Lights at Shore Acres State Park
+#### {{< floatimage src="img/HolidayLights-Bushes-176.jpg" float="right" alt="Holiday Lights" size="40" >}}November 24-December 31 <br>Holiday Lights at Shore Acres State Park
 
 More info on this very special holiday event, brought to us by the Friends of Shore Acres since 1987, and the New Timed Entry System, [click here](/event/annual-holiday-lights-at-shore-acres/)!
 
 {{< spacer 100>}}
 
-#### {{< floatimage src="img/cbtreelighting-35-web-only.jpg" float="right" alt="Your Alt Text goes here" size="40" >}}November 25th <br>Tree Lighting at the Coos Bay Visitor Center with Santa, Plus ELF! at The Egyptian
+#### {{< floatimage src="img/cbtreelighting-35-web-only.jpg" float="left" alt="Coos Bay's Lighted Tree" size="40" >}}November 25th <br>Tree Lighting at the Coos Bay Visitor Center with Santa, Plus ELF! at The Egyptian
 
 Join Santa at the Coos Bay Visitor Center for the Coos Bay Tree Lighting! The evening begins with cookies and cider in the Visitor Center at 4:30pm. Santa and the Mayor of Coos Bay will light the tree at 5:30pm. Following the tree lighting, follow Santa and the parade of revelers to The Egyptian Theatre as we return to the tradition of watching **Elf** after the tree lighting! Santa will sit on stage and listen to the wishes of the boys and girls. Elf will begin at about 7pm. Don't forget your balled up white socks for the snowball fight!!!
 
