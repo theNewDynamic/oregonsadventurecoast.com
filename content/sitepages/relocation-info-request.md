@@ -33,18 +33,22 @@ Coos Bay, OR 97420
 divider
 
 [**South Coast Development Council**](https://www.scdcinc.org)
-Regional Business Relocation and Expansion Services   
-Executive Director: Shaun Gibbs   
-2110 Newmark Ave   
-Coos Bay, OR 97420  
- (541) 808-7774  
+Regional Business Relocation and Expansion Services
+
+Executive Director: Shaun Gibbs
+
+2110 Newmark Ave
+
+Coos Bay, OR 97420
+
+(541) 808-7774  
 [Shaun@scdcinc.org](mailto:Shaun@scdcinc.org)
 
 {{< /columns >}}
 
 ### Professional Development/Employee Training Services
 
-The [Southwestern Oregon Community College](https://www.socc.edu) (SWOCC) Small Business Development Center provides practical business information including confidential advising services, referrals to business assistance programs, affordable business training and a multitude of business resources for business success.  We focus on the retention and expansion of established businesses, as well as helping businesses get started.  Advising services are free and include: marketing, financing sources, growth, cash flow, record keeping, technology, customer service, business planning, strategic planning, export/import, human resources, sales skills, budgeting, market research, lender relations and much more.  Upcoming training programs are listed on the [SWOCC website](https://www.socc.edu) or at [www.BizCenter.org](https://bizcenter.org).  A free, confidential business advising session or registration for a low cost training can be scheduled by calling 541-756-6866 or emailing Mary Loiselle at [mloiselle@socc.edu](mailto:mloiselle@socc.edu).
+The [Southwestern Oregon Community College](https://www.socc.edu) (SWOCC) [Small Business Development Center](https://oregonsbdc.org/centers/southwestern-sbdc/) provides practical business information including confidential advising services, referrals to business assistance programs, affordable business training and a multitude of business resources for business success.  We focus on the retention and expansion of established businesses, as well as helping businesses get started.  Advising services are free and include: marketing, financing sources, growth, cash flow, record keeping, technology, customer service, business planning, strategic planning, export/import, human resources, sales skills, budgeting, market research, lender relations and much more.  Upcoming training programs are listed on the [SWOCC website](https://www.socc.edu) or [Small Business Development Center website](https://oregonsbdc.org/centers/southwestern-sbdc/).  A free, confidential business advising session or registration for a low cost training can be scheduled by calling 541-888-7182.
 
 ### Workforce Development
 
