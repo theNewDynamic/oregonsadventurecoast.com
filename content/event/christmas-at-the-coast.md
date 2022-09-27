@@ -29,6 +29,7 @@ largeboxphoto: "/img/tree-lighting-coosbay-1024x395.jpg"
 mediumboxphoto: "/img/tree-lighting-coosbay-667x355.jpg"
 smallboxphoto: "/img/Tree-Lighting-coosbay-340x214.jpg"
 aliases: []
+draft: true
 
 ---
 ### Join us for these additional Holiday Happenings in November & December! Then visit [**Holiday Lights at Shore Acres**](https://www.oregonsadventurecoast.com/event/annual-holiday-lights-at-shore-acres/)**.**
@@ -48,6 +49,12 @@ Visit participating businesses in Downtown Coos Bay during the Holiday Open Hous
 #### {{< floatimage src="img/ch-crabpot-tree-small.jpg" float="left" alt="Charleston Crab Pot Tree" size="40" >}}November 22nd - December 31st<br>Charleston Crab Pot Tree
 
 The Charleston Fishing Families celebrate the season every year with a colorful, lighted Crab Pot Tree in the parking lot of Fisherman's Grotto restaurant!  Lights from the tree can be seen from Cape Arago Highway and across to the Charleston Marina!
+
+{{< spacer 100>}}
+
+#### {{< floatimage src="img/ch-crabpot-tree-small.jpg" float="left" alt="Charleston Crab Pot Tree" size="40" >}}November 24-December 31 <br>Holiday Lights at Shore Acres State Park
+
+More info on this very special holiday event, brought to us by the Friends of Shore Acres since 1987, and the New Timed Entry System, [click here](/event/annual-holiday-lights-at-shore-acres/)!
 
 {{< spacer 100>}}
 
