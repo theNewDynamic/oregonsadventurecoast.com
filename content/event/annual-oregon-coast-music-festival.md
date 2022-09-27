@@ -37,8 +37,6 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 #### 44th Oregon Coast Music Festival July 2022
 
-[**_Tickets Available NOW_**](https://www.oregoncoastmusic.org/#)
-
 {{< spacer 25>}}  
 **Saturday, July 16th @ noon**  
 Mingus Park Stage, Coos Bay  
@@ -52,7 +50,7 @@ Mingus Park Stage, Coos Bay
 
 **Tuesday, July 19th @ 7pm**  
 7 Devils Taproom, Coos Bay  
-**Special Concert Alert: The Slocan Ramblers! - _Tickets $20 -_** [**_BUY TICKETS_**](https://www.7devilsbrewery.com/store/p147/SlocanRamblers.html#/)
+**Special Concert Alert: The Slocan Ramblers! - _Tickets $20_**
 
 The Slocan Ramblers (2020 IBMA Momentum Band of the Year Award Winner & 2019 Juno Award Nominee) are Canada’s bluegrass band to watch. Rooted in tradition, fearlessly creative and possessing a bold, dynamic sound, The Slocans have become a leading light of today’s acoustic music scene. With a reputation for energetic live shows, impeccable musicianship and an uncanny ability to convert anyone within earshot into a lifelong fan. [Tickets are available now for $20.](https://www.7devilsbrewery.com/store/p147/SlocanRamblers.html#/) Seating is open. Doors will open at 5:30pm and the show will start at 7pm. A small but delicious food menu will be available along with our full drink menu.
 
@@ -60,7 +58,7 @@ The Slocan Ramblers (2020 IBMA Momentum Band of the Year Award Winner & 2019 Jun
 
 {{< floatimage src="img/darrell-grant.jpg" float="left" alt="Darrell Grant, Jazz Pianist" size="40" >}}**Sunday, July 17th @ 2 pm**  
 OIMB Boat House Auditorium, Charleston  
-**Darrell Grant Piano Jazz** - **_Tickets $50 -_** [**_BUY TICKETS_**](https://checkout.square.site/buy/TUOL3UDPOPSUYBAGOXBNRDM3)
+**Darrell Grant Piano Jazz** - **_Tickets $50_**
 
 _Darrell Grant has risen from the pianist in vocalist Betty Carter’s trio to an internationally-recognized performer, composer, and educator who channels the power of music to foster community, sustainability, and social justice. Having performed with jazz luminaries including Frank Morgan, Tony Williams, Brian Blade, Esperanza Spalding, and Nicholas Payton, he followed his 1994New York TimesTop 10 JazzAlbumBlack Art with seven albums receiving critical acclaim from The Village Voice and Down Beat Magazine._
 
@@ -86,7 +84,7 @@ Associate Conductor Adam Stern brings fresh and entertaining insight to the musi
 
 **Tuesday, July 26 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
-**OCMA Festival Orchestra Concert I** - **_Tickets $25 -_** [**_BUY TICKETS_**](https://checkout.square.site/buy/645R7MXRLINQS3FHOQW7TGPU)
+**OCMA Festival Orchestra Concert I** - **_Tickets $25_**
 
 The concert program includes:
 
@@ -99,7 +97,7 @@ The concert program includes:
 
 {{< floatimage src="img/buetti.jpeg" float="left" alt="Nicole Buetti, Bassoon and Contrabassoon" size="40" >}}**Thursday, July 28 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
-**OCMA Festival Orchestra Pops** - **_Tickets $25 -_** [**_BUY TICKETS_**](https://checkout.square.site/buy/SCLZCAQ67O2FSPOIODEJDW6G)
+**OCMA Festival Orchestra Pops** - **_Tickets $25_** 
 
 **Music from Horror and Science Fiction Films** is the theme for this year's Pops concert performance! Performance will feature OCMA composer/musician **Nicole Buetti**, Bassoon and Contrabassoon. _She is a member of Portland Columbia Symphony, the Vancouver Symphony, Oregon East Symphony, The Portland Choir Orchestra, and the Oregon Coast Music Festival. She composes for film and television, and has been honored for her film score work at the Wild Rose International Film Fest, Dodge Grant Association, and Telly Awards Association._
 
@@ -109,7 +107,7 @@ Marshfield High School Auditorium, Coos Bay
 
 **Saturday, July 30 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
-**OCMA _Festival Finale_ Festival Orchestra Concert II**  - **_Tickets $25 -_** [**_BUY TICKETS_**](https://checkout.square.site/buy/UPPN65MFJZTTXTVALA4LDXME)
+**OCMA _Festival Finale_ Festival Orchestra Concert II**  - **_Tickets $25_** 
 
 The concert program includes:
 
