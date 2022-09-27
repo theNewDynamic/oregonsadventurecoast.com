@@ -53,7 +53,7 @@ The Charleston Fishing Families celebrate the season every year with a colorful,
 
 #### {{< floatimage src="img/HolidayLights-Bushes-176.jpg" float="right" alt="Holiday Lights" size="40" >}}November 24-December 31 <br>Holiday Lights at Shore Acres State Park
 
-More info on this very special holiday event, brought to us by the Friends of Shore Acres since 1987, and the New Timed Entry System, [click here](/event/annual-holiday-lights-at-shore-acres/)!
+More info on this very special holiday event, brought to us by the [**Friends of Shore Acres**](https://shoreacres.net/about-us/about-friends-of-shore-acres-inc/) since 1986, and the New Timed Entry System, [**click here**](/event/annual-holiday-lights-at-shore-acres/)!
 
 {{< spacer 50>}}
 
