@@ -31,7 +31,7 @@ We arrived midday on a Thursday and our first stop – the [Oregon Dunes Nationa
 
 ![ATV'ing in the Oregon Dunes National Recreational Area](/img/dunes-three-images.jpg)
 
-Then it was time to check in to our hotel, get cleaned up and head out for a wonderful dinner at [Front Street Provisioners](http://frontstreetprovisioners.com/), one of Coos Bay’s newest dining options. There is a [whole list of restaurants](/dining/) to choose from and we tried several during our long weekend. This was just the first and we enjoyed the celebratory atmosphere with wine pairings and gourmet wood-fired pizza.
+Then it was time to check in to our hotel, get cleaned up and head out for a wonderful dinner at [Front Street Provisioners](https://frontstreetprovisionersmenu.square.site/), one of Coos Bay’s newest dining options. There is a [whole list of restaurants](/dining/) to choose from and we tried several during our long weekend. This was just the first and we enjoyed the celebratory atmosphere with wine pairings and gourmet wood-fired pizza.
 
 ![](/img/dinner-two-images.jpg)
 
