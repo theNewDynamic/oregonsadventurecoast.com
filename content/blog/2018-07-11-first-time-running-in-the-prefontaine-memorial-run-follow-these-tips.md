@@ -44,7 +44,7 @@ Better get moving if you're planning to run this race! The Annual <a href="http:
 
 <b>October 6th, 2018</b>
 
-This unique race offers something for everyone from seasoned marathon runners to self-proclaimed "couch potatoes"! Runners can choose from a 26.2 mile Full Marathon, 13.1 mile 1/2 Marathon, 10K or the Crab Walk -1M. <a href="https://www.active.com/coos-bay-or/running/distance-running-races/charleston-salmon-run-and-crab-walk-sponsored-by-advanced-health-2018">Register Here</a>.
+This unique race offers something for everyone from seasoned marathon runners to self-proclaimed "couch potatoes"! Runners can choose from a 26.2 mile Full Marathon, 13.1 mile 1/2 Marathon, 10K or the Crab Walk -1M. 
 
 <h2>Training Tips</h2>
 
@@ -56,7 +56,7 @@ Failing to prepare is preparing to fail!  It takes time to get into running sha
 
 <h3>#2 Book Your Accommodations Early</h3>
 
-To run a good race, you must get a good night's sleep the night before and a place to rest and recover post-race. With just a couple of months to go until the <a href="http://prefontainerun.com/" target="_blank" rel="noopener noreferrer">Prefontaine Memorial Run</a> and <a href="https://www.charlestonsalmonrun.com/">Charleston Salmon Run</a>, we strongly advise that you visit our <a href="/lodging/" rel="noopener noreferrer">Lodging Page</a> and book your accommodations asap!
+To run a good race, you must get a good night's sleep the night before and a place to rest and recover post-race. With just a couple of months to go until the <a href="http://prefontainerun.com/" target="_blank" rel="noopener noreferrer">Prefontaine Memorial Run</a> and we strongly advise that you visit our <a href="/lodging/" rel="noopener noreferrer">Lodging Page</a> and book your accommodations asap!
 
 <h3>#3 Invest in the Right Running Attire</h3>
 
@@ -64,7 +64,7 @@ The wrong socks, shoes and running attire will result in more blisters and chafi
 
 <h3>#4 Learn The Route</h3>
 
-If possible, preview the route where the run will take place. Familiarity will help you avoid any surprises come race time and allow your body to adjust to the course. If you can't train in person at the location, study it online to get a good feeling for what type of race it will be. Runners can preview the <a href="http://prefontainerun.com/run-info/course-map.php" target="_blank" rel="noopener noreferrer">course map for the Prefontaine Memorial Run</a> in addition to the <a href="https://www.active.com/coos-bay-or/running/distance-running-races/charleston-salmon-run-and-crab-walk-sponsored-by-advanced-health-2018#js-map" target="_blank" rel="noopener noreferrer">Charleston Salmon Run course</a>. You can also get a sense of the Charleston Salmon Run course watching the video below!
+If possible, preview the route where the run will take place. Familiarity will help you avoid any surprises come race time and allow your body to adjust to the course. If you can't train in person at the location, study it online to get a good feeling for what type of race it will be. Runners can preview the <a href="http://prefontainerun.com" target="_blank" rel="noopener noreferrer">course map for the Prefontaine Memorial Run.</a>
 
 <iframe src="https://www.youtube.com/embed/qPbz-D2Dr-0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
