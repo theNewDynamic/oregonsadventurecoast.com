@@ -70,7 +70,7 @@ After your morning adventures, break for some midday Fish ’n Chips at[ Miller�
 
 After lunch, we recommend an afternoon walk on [Bastendorff Beach](http://www.co.coos.or.us/Departments/CoosCountyParks/Bastendorff.aspx), located 1⁄4 mile off the [Cape Arago State Highway](http://www.oregonsadventurecoast.com/trip-ideas/explore-the-cape-arago-beach-loop/), about two miles west of Charleston. This local gem is never crowded and is a favorite among surfers, kiters, campers, beachcombers and everyone in between.
 
-End the day with a stop at [Stillwagon Distillery](http://stillwagondistillery.com) (by appointment only), where you can taste handcrafted rum, vodka, and whiskey before heading over to [Fishermen's Grotto](https://www.fishermansgrottoinc.com/) or [The Portside Restaurant](http://www.portsidebythebay.com/) for a fresh seafood dinner overlooking the water.
+End the day with a stop at [Stillwagon Distillery](http://stillwagondistillery.com) (by appointment only), where you can taste handcrafted rum, vodka, and whiskey.
 
 **DAY TWO**
 
