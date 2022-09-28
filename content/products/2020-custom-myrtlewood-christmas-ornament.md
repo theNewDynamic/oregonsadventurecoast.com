@@ -10,6 +10,5 @@ image: "/img/ornament-withhat.jpg"
 hover_image: "/img/ornament-withhat-large.jpg"
 description: 'This Myrtlewood Christmas Ornament was custom designed and cut out with
   a laser. '
-draft: true
 
 ---
