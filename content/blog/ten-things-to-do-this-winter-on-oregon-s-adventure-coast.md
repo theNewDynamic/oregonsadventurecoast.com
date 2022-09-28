@@ -1,6 +1,6 @@
 ---
 title: Ten Things to Do This Winter on Oregon’s Adventure Coast
-date: 2021-11-30T05:00:00+00:00
+date: 2021-11-30T05:00:00.000+00:00
 description: 'We’re going to let you in on a little secret: Oregon’s Adventure Coast:
   Coos Bay, North Bend, Charleston is a beautiful destination ANY time of the year
   - winter, spring, summer and fall! In fact, you might be surprised to learn that
@@ -91,7 +91,7 @@ Speaking of appetites, dining on fresh seafood you caught yourself from the bay 
 
 **#8- Enjoy a Night Out!**
 
-Did you know that our little corner of the Pacific Northwest is home to two of the area’s best casinos? Whether it's slots, cards, or games, you'll find round-the-clock adventure, fun, and (fingers crossed) millions right here. [Our two casinos](https://oregonsadventurecoast.netlify.app/blog/try-your-luck-on-oregon-s-adventure-coast/) are located within a ten-minute drive of each other, so play your cards right and visit both. You can also enjoy [Cosmic Bowling](https://northbendlanes.com/cosmic-bowling/) at North Bend Lanes for a super-fun, cosmic night out, or grab a pint at 7 Devils Brewing Co. or one of our other local pubs!
+Did you know that our little corner of the Pacific Northwest is home to two of the area’s best casinos? Whether it's slots, cards, or games, you'll find round-the-clock adventure, fun, and (fingers crossed) millions right here. [Our two casinos](https://oregonsadventurecoast.netlify.app/blog/try-your-luck-on-oregon-s-adventure-coast/) are located within a ten-minute drive of each other, so play your cards right and visit both. You can also enjoy [Cosmic Bowling](https://northbendlanes.com/Bowling/Cosmic-Bowling) at North Bend Lanes for a super-fun, cosmic night out, or grab a pint at 7 Devils Brewing Co. or one of our other local pubs!
 
 **#9 Unplug & Reconnect With Nature at the South Slough NERR.**
 
