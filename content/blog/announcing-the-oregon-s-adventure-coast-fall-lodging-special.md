@@ -49,7 +49,7 @@ There are plenty of ways for you to relax and recharge while you are here
 * Explore the unique shops, restaurants and landmarks in downtown Coos Bay, North Bend and Charleston. [Download our map](https://oregonsadventurecoast.netlify.com/img/walking-map-cbnb.pdf).
 * Go [crabbing & clamming](https://oregonsadventurecoast.netlify.app/crabbing-clamming/) or [fishing](https://oregonsadventurecoast.netlify.com/fishing/) in the bay or one of the 30+ local lakes and rivers in the area.
 * [Try your luck](https://oregonsadventurecoast.netlify.com/blog/try-your-luck-on-oregon-s-adventure-coast/) in one of our casinos.
-* Spend a day hiking or kayaking at the [South Slough National Estuarine Research Reserve](https://www.oregon.gov/oprd/NATRES/pages/rs_faqcoastal.aspx#What_is_a_Research_Reserve_).
+* Spend a day hiking or kayaking at the [South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/ss/pages/about.aspx).
 
 We could give you more ideas on ways to safely enjoy an Oregon Coast getaway this fall, but we’d rather show you.
 
@@ -73,4 +73,4 @@ And all of this!
 
 [Click here to see more adventures](https://www.oregonsadventurecoast.com/adventures/) you can do this fall and plan your own itinerary!
 
-You must take advantage of this 15% off lodging offer before November 30th, [click here to see details ](https://www.oregonsadventurecoast.com/fall15/)and a list of participating hotels. We look forward to welcoming you back to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston - all we ask is for you to follow Oregon’s [Safe+Strong guidelines ](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you)to keep our community safe and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). Please don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
+You must take advantage of this 15% off lodging offer before November 30th, [click here to see details ](https://www.oregonsadventurecoast.com/fall15/)and a list of participating hotels. We look forward to welcoming you back to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston - all we ask is for you to follow Oregon’s [Safe+Strong guidelines ](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you)to keep our community safe and remember that face coverings are required in public spaces. Please don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
