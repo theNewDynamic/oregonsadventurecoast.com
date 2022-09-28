@@ -26,7 +26,7 @@ categories:
 - Special Events & Holidays
 
 ---
-Much like the Salmon returns upstream, the <a href="http://www.themillcasino.com/entertainment/salmon.cfm" target="_blank" class="broken_link">Mill-Luck Salmon Celebration</a> returns each year to the Mill Casino in North Bend on **Friday, September 10th__ to **Sunday, September 11th, 2016. **
+Much like the Salmon returns upstream, the _Mill-Luck Salmon Celebration returns each year to the Mill Casino in North Bend on **Friday, September 10th__ to **Sunday, September 11th, 2016. **
 
 The annual Salmon Bake Dinner (ticketed event) is among the highlights of this celebration of Native American and <a href="http://www.coquilletribe.org/AboutUs.htm" target="_blank">Coquille Tribal culture</a>. The family-friendly event also offers visitors free daily performances by Native American storytellers, drummers, flutists and dancers, a marketplace offering traditional wares and foods, a bay-front canoe exhibit and races, traditional games and activities for children, plus a variety of cultural demonstrations and educational exhibits.
 
@@ -34,6 +34,6 @@ The celebration began as a means of sharing the heritage, culture and traditions
 
 Learn more about the festivities and traditions below.
 
-Please visit [www.themillcasino.com](http://www.themillcasino.com/entertainment/salmon.cfm){.broken_link} for schedule and Salmon Bake Dinner ticket information.
+Please visit [www.themillcasino.com](http://www.themillcasino.com/entertainment/salmon.cfm) for schedule and Salmon Bake Dinner ticket information.
 
 September’s a busy time in Coos Bay so we recommend booking accommodations before it’s too late! Visit our <a href="/lodging/" target="_blank">lodgings page </a>to search through great options of hotels and inns in the Coos Bay area.
