@@ -37,7 +37,7 @@ warning_copy: ''
 ---
 As we navigate our way through Oregon’s reopening phases and transition into our new normal, we thought this would be a good time to spotlight some of our many local businesses and business people who make Oregon’s Adventure Coast such a special place.
 
-This month, we are featuring [North Bend Lanes](https://northbendlanes.com/) owner, Mark Mattecheck. North Bend Lanes has been a beloved staple on Oregon’s Adventure Coast since 1957 when Mark’s father and grandfather left the movie theatre business and opened the bowling alley. “We really want to be a place where people can go into town and have some fun,” said Mattecheck in this 2017 article published in [The World](https://theworldlink.com/news/local/business/north-bend-lanes-offers-outdoor-space-for-folks-to-come-together/article_fc08221a-d504-54ad-a58e-21f8634a88b9.html). “We’ve always been a family operation and we’ll always keep families in mind.”
+This month, we are featuring [North Bend Lanes](https://northbendlanes.com/) owner, Mark Mattecheck. North Bend Lanes has been a beloved staple on Oregon’s Adventure Coast since 1957 when Mark’s father and grandfather left the movie theatre business and opened the bowling alley. “We really want to be a place where people can go into town and have some fun,” said Mattecheck in this 2017 article published in The World. “We’ve always been a family operation and we’ll always keep families in mind.”
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Foregonsmallbusinessassociation%2Fposts%2F120128486363302&width=500" width="500" height="735" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
