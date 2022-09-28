@@ -1,6 +1,6 @@
 ---
 title: '22 Things to Do this Fall on Oregon’s Adventure Coast! '
-date: 2021-10-05T04:00:00+00:00
+date: 2021-10-05T04:00:00.000+00:00
 description: Multiple properties on Oregon’s Adventure Coast are offering 15% off
   your hotel stay now through November 30, 2021, when you stay for 2 nights. Whether
   you plan to stay for a weekend, a week, or even longer, you will find plenty of
@@ -66,7 +66,7 @@ To sweeten the deal, multiple properties on Oregon’s Adventure Coast offer [15
 20. [Try your luck](https://oregonsadventurecoast.netlify.com/blog/try-your-luck-on-oregon-s-adventure-coast/) in one of our casinos.
 21. Try a new restaurant in Coos Bay, North Bend or Charleston. [Download our Local Restaurant Guide](https://www.oregonsadventurecoast.com/img/Restaurants-BOOKLET.pdf) to carry with you, or visit [oregonsadventurecoast.com/dining](https://oregonsadventurecoast.com/dining/) to see all our local restaurants. [Click here ](https://www.oregonsadventurecoast.com/blog/looking-for-outdoor-dining-options-coos-bay-north-bend-charleston-have-several-from-which-to-choose/)to view outdoor dining options.
 22. Spend a day hiking, kayaking, or birdwatching at the [South Slough National Estuarine Research Reserve](https://www.oregonsadventurecoast.com/blog/ten-things-people-love-about-slough-national-estuarine-research-reserve/).
-23. BONUS!! Go [Cosmic Bowling](https://northbendlanes.com/cosmic-bowling/) at North Bend Lanes for a super-fun, cosmic night out! 
+23. BONUS!! Go [Bowling](https://northbendlanes.com/) at North Bend Lanes for a super-fun night out!
 
 There is an adventure for everyone on Oregon’s Adventure Coast. Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor activities, prime shopping, fine dining, special events, or an evening of entertainment, you will find it here. For more information, please contact the [Coos Bay – North Bend Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/). You must take advantage of this 15% off lodging offer before November 30th. [Click here to view details ](https://www.oregonsadventurecoast.com/fall15/)and a list of participating hotels.
 
