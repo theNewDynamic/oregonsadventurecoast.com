@@ -1,6 +1,6 @@
 ---
 title: 'Paddle Your Way Through Beauty and Adventure on Oregon’s Adventure Coast '
-date: 2021-04-28T04:00:00+00:00
+date: 2021-04-28T04:00:00.000+00:00
 description: 'Paddling the waters of Coos Bay not only makes for a delightful outdoor
   vacation, but it is also a peaceful way to explore the area’s natural beauty and
   experience the Oregon Coast in a way you’ve never experienced it before. '
@@ -46,7 +46,7 @@ Sunset Bay State Park is situated in one of the most scenic areas on the Oregon 
 
 **LOCAL FRESHWATER LAKES**
 
-Head just 15 miles north of Coos Bay, you will find approximately 2,000 acres of calm, picturesque water surrounded by mountains and lush natural beauty. [Tenmile Lakes](http://www.co.coos.or.us/departments/cooscountyparks/tenmile.aspx) in Lakeside together are the 4th largest lake in the state of Oregon and offer the setting for a paddling adventure. In addition to a swimming and wading area, the lakes have multiple boat ramps, a fishing dock, ample parking, picnic tables, and more. [Click here](https://www.oregonsadventurecoast.com/tripideas/fresh-water-fishing-options-by-body-of-water/) to view other freshwater lakes near Coos Bay.
+Head just 15 miles north of Coos Bay, you will find approximately 2,000 acres of calm, picturesque water surrounded by mountains and lush natural beauty. Tenmile Lakes in Lakeside together are the 4th largest lake in the state of Oregon and offer the setting for a paddling adventure. In addition to a swimming and wading area, the lakes have multiple boat ramps, a fishing dock, ample parking, picnic tables, and more. [Click here](https://www.oregonsadventurecoast.com/tripideas/fresh-water-fishing-options-by-body-of-water/) to view other freshwater lakes near Coos Bay.
 
 **LOCAL RIVERS**
 
@@ -55,7 +55,7 @@ The Umpqua, Coos or Coquille rivers are ideal destinations for a peaceful canoei
 **WHERE TO RENT KAYAKS AND PADDLEBOARDS**
 
 * [Waxer's Surf Shop](http://www.surfwaxers.com/) offers rentals as well as surf, kayak and SUP lessons.
-* [Bahama Boards in Coos Bay ](https://bahamastyles.com/coos-bay-shop/)is a fantastic place to purchase or [rent kayaks and paddle boards](http://www.surfwaxers.com/rentals-1/) in addition to gear, clothing, and accessories you may need as you explore the Pacific ocean waters, lakes and rivers!
+* [Bahama Boards in Coos Bay ](https://bahamastyles.com/coos-bay-shop/)is a fantastic place to purchase or rent kayaks and paddle boards in addition to gear, clothing, and accessories you may need as you explore the Pacific ocean waters, lakes and rivers!
 * [Canoas Bay Bridge Rentals ](https://canoasport.wixsite.com/baybridgerentals)in North Bend also offers kayak rentals and other fishing necessities. For added convenience, you can also book a room at their Bay Bridge Motel!
 
 **GUIDED PADDLING TOURS**
