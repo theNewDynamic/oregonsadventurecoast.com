@@ -64,7 +64,7 @@ Frugal moviegoers can expect to pay anywhere from $2- $5 to enjoy a night out at
 
 ### Comedy Night at Warehouse 101 inside The Mill Casino every Wednesday
 
-In the mood to laugh out loud? Come to Warehouse 101, inside the Mill Casino Hotel for Comedy Night every Wednesday! The Mill Casino features new comedians who are sure to make you laugh in addition to serving great food and drinks. Two FREE hilarious shows start at 6pm and 8pm every Wednesday evening. <a href="http://www.themillcasino.com/entertainment/warehouse101.cfm" target="_blank" class="broken_link">www.themillcasino.com</a>
+In the mood to laugh out loud? Come to Warehouse 101, inside the Mill Casino Hotel for Comedy Night every Wednesday! The Mill Casino features new comedians who are sure to make you laugh in addition to serving great food and drinks. Two FREE hilarious shows start at 6pm and 8pm every Wednesday evening. 
 
 ### Music on the Bay Every Tuesday August 18th-September 15th
 
