@@ -8,7 +8,7 @@ product:
 title: Custom Myrtlewood Christmas Ornament
 image: "/img/ornament-withhat.jpg"
 hover_image: "/img/ornament-withhat-large.jpg"
-description: 'This Myrtlewood Christmas Ornament was custom designed and cut out with
-  a laser. '
+description: 'This Myrtlewood Christmas Ornament was custom designed, hand painted
+  and cut out with a laser. '
 
 ---
