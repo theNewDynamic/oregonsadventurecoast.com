@@ -27,7 +27,7 @@ categories:
 ---
 Oregon's Adventure Coast already has a thriving restaurant and arts scene, so it's no wonder that our music culture is also growing.
 
-The Coos Bay\~North Bend\~Charleston area already hosts a fantastic selection of fantastic annual festivals featuring a range of musical genres like the [South Coast Clambake Music Festival ](https://www.oregonsadventurecoast.com/event/32nd-south-coast-clambake-music-festival/) (coming up March 13th, 2020!), the [Oregon Coast Music Festival](https://www.oregoncoastmusic.org/calendar-events/) (July), [BBQ, Blues and Brews by the Bay](https://www.themillcasino.com/event/bbq-blues-brews/) (Memorial Weekend) and a series of free concerts that take places throughout the summer in various destinations.
+The Coos Bay\~North Bend\~Charleston area already hosts a fantastic selection of fantastic annual festivals featuring a range of musical genres like the [South Coast Clambake Music Festival ](https://www.oregonsadventurecoast.com/event/32nd-south-coast-clambake-music-festival/) (coming up March 13th, 2020!), the [Oregon Coast Music Festival](https://www.oregoncoastmusic.org/calendar-events/) (July), and a series of free concerts that take places throughout the summer in various destinations.
 
 Our area also boasts multiple entertainment venues like [The Liberty Theatre ](http://thelibertytheatre.org/)(home of Little Theatre by the Bay), the beautifully restored historic [Egyptian Theatre ](https://egyptiantheatreoregon.com/)where visitors can frequently find great local music and entertainment options.
 
@@ -37,7 +37,7 @@ But it's inside our rustic beloved local pub where one can find a treasure trove
 
 ## [Coney Station](https://coneystation.business.site/)
 
-Located in the heart of downtown Coos Bay, Coney Station is a local favorite that offers everything from Live Music, Karaoke, DJ Trivia, Texas Hold Em' Poker and more!  [Click here](https://www.facebook.com/ConeyStation/) to follow their updates and entertainment schedule! 
+Located in the heart of downtown Coos Bay, Coney Station is a local favorite that offers everything from Live Music, Karaoke, DJ Trivia, Texas Hold Em' Poker and more!  [Click here](https://www.facebook.com/ConeyStation/) to follow their updates and entertainment schedule!
 
 ## [7 Devils Brewery](https://www.7devilsbrewery.com/events.html)
 
@@ -53,7 +53,7 @@ The Blue Moon has it all. Their convenient and central location in Coos Bay, Ore
 
 ## [Warehouse 101](https://www.themillcasino.com/dining/warehouse-101/)
 
-This well known North Bend establishment is part nightclub, part sports bar. Located inside [The Mill Casino](https://www.themillcasino.com/), _Warehouse 101_ is a great place to catch live bands every Friday and Saturday night. Their massive widescreen TVs and vast selection of craft beer and wings also make it a fun place to catch the game (Tip- The Mill Casino now offers Sports Betting right outside Warehouse 101). And if that’s not enough, they offer Trivia Night every Tuesday evening, and hilarious stand-up comedy each Wednesday night! [Learn more here](https://www.themillcasino.com/entertainment/sports-betting-is-here/2019-12-21/).
+This well known North Bend establishment is part nightclub, part sports bar. Located inside [The Mill Casino](https://www.themillcasino.com/), _Warehouse 101_ is a great place to catch live bands every Friday and Saturday night. Their massive widescreen TVs and vast selection of craft beer and wings also make it a fun place to catch the game (Tip- The Mill Casino now offers Sports Betting right outside Warehouse 101). And if that’s not enough, they offer Trivia Night every Tuesday evening, and hilarious stand-up comedy each Wednesday night!
 
 ## [Liberty Pub](https://www.facebook.com/TheLibertyPub/)
 
