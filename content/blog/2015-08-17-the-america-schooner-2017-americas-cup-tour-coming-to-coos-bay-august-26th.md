@@ -29,8 +29,6 @@ The 1851 replica schooner, America, will be visiting <a href="http://portofcoosb
 
 Events will take place Wednesday, August 26th, 2015 at the Port of Coos Bay – City Dock on 200 S. Bayshore Drive and will include dockside walk aboard tours of America from 12 p.m.-2 p.m., sails aboard America from 4:30 p.m.-6:30 p.m. (tickets Available Online or at the boat if not sold out) and a multimedia presentation on the America’s Cup at the Egyptian Theatre at 7 p.m.
 
-Events are free (with the exception of the sails aboard America) and open to the public.  <a href="https://www.zerve.com/NxtLevelSail/ACTourG" target="_blank" class="broken_link">Click here</a> for ticket information for the sails aboard America.
-
 **IN THE BEGINNING**
 
 In 1851 a radical looking schooner ghosted out of the afternoon mist and swiftly sailed past the Royal Yacht stationed in the Solent, between the Isle of Wight and the south coast of England, on an afternoon when Queen Victoria was watching a sailing race.
