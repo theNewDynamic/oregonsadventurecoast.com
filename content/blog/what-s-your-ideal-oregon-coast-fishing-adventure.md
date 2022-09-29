@@ -1,6 +1,6 @@
 ---
 title: What’s Your Ideal Oregon Coast Fishing Adventure?
-date: 2022-06-20T04:00:00+00:00
+date: 2022-06-20T04:00:00.000+00:00
 description: 'There are plenty of fish in the sea on Oregon’s Adventure Coast: Coos
   Bay, North Bend & Charleston, and plenty of ways to catch them!'
 image: "/img/river-fishing-21.jpg"
@@ -66,7 +66,7 @@ Deciding on the type of fish you want to catch will play a huge role in where yo
 * BOTTOMFISH. Bottomfish are available year round – weather permitting – and a charter trip usually ends with an ice chest full of fish. We recommend checking with the Oregon Department of Fish & Wildlife for the most up-to-date recreation report for bottom fish catch limits. More information can be found on the [sport bottom fish seasons page](https://myodfw.com/sport-bottomfish-seasons).
 * RAINBOW TROUT. [Rainbow trout](https://www.dfw.state.or.us/resources/fishing/docs/odfwoutdoorstroutfishing.pdf) are stocked into the lakes, and the lakes are open all year. Bluebill Lake, Bradley Lake, Butterfield Lake, Eel Lake, Empire Lakes, Sru Lake, Powers Park Pond, Saunders Lake, Tenmile Lakes.
 * CRABBING. [Crabbing on Oregon’s Adventure Coast ](https://www.oregonsadventurecoast.com/crabbing-clamming/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter)can be done year-round off the docks, and anyone can easily rent or buy the necessary [equipment](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter). Here are a few tips we want to share from the [Oregon Department of Fish and Wildlife](https://myodfw.com/articles/how-crab). Be sure to read their [instructional flier How to Crab](https://www.dfw.state.or.us/resources/fishing/docs/CrabbingFlyer.pdf) for important details.
-* CLAMMING. Home to numerous bays, Coos Bay is an ideal destination for clamming. We expect tides to be ideal for clamming well into summer and even fall! [Click here for ODFW's Regulations Summary for Marine Shellfish,](https://www.dfw.state.or.us/mrp/shellfish/regulations.asp) and read [Clamming on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/clamming/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter) for more information.
+* CLAMMING. Home to numerous bays, Coos Bay is an ideal destination for clamming. We expect tides to be ideal for clamming well into summer and even fall! [Click here for ODFW's Regulations Summary for Marine Shellfish,](https://myodfw.com/articles/oregon-shellfish-regulations) and read [Clamming on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/clamming/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter) for more information.
 
 After answering some key questions (like what kind of fish you’re after) and doing a bit of research, you’ll have a good idea of where you want to go.
 
