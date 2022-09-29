@@ -40,7 +40,7 @@ This race is a hilly, scenic trail along the scenic Oregon Coast. It's a challen
 
 Better get moving if you're planning to run this race! The Annual <a href="http://www.prefontainerun.com/" target="_blank" rel="noopener noreferrer">Prefontaine Memorial Run</a>, a challenging 10K road race across one of Steve Prefontaine's training courses, happens just 2 months from now in conjunction with the annual<a href="https://bayareafunfestival.com/" target="_blank" rel="noopener noreferrer"> Bay Area Fun Festival</a>.  <strong><a href="https://www.prefontainerun.com/run-information/application.html" target="_blank" rel="noopener noreferrer">Register online</a> to guarantee your spot in the race!</strong>
 
-<h3><a href="https://www.charlestonsalmonrun.com/">Charleston Salmon Run and Crab Walk</a></h3>
+<h3><a href="[https://www.raceentry.com/charleston-salmon-run-charleston/race-information](https://www.raceentry.com/charleston-salmon-run-charleston/race-information "https://www.raceentry.com/charleston-salmon-run-charleston/race-information")">Charleston Salmon Run and Crab Walk</a></h3>
 
 <b>October 6th, 2018</b>
 
