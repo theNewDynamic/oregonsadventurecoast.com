@@ -11,17 +11,6 @@ slideshow:
 - url: "/fishing"
   video:
     source: "/img/fishing-slider-2.mp4"
-- photo: "/img/fall-fishing-hm-slider-desktop.jpg"
-  url: "/fishing"
-  photo_mobile: "/img/fall-fishing-hm-slider-mobile.jpg"
-- photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
-  url: "/water-recreation"
-- title: Breathtaking Views
-  photo: "/img/shore-acres-slider.jpg"
-- title: Spectacular Sights
-  photo: "/img/lighthouse-hm-slider.jpg"
-- title: Stunning Sunsets
-  photo: "/img/sunset-bay-sunset-hm-slider.jpg"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
