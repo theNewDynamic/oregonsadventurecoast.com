@@ -10,7 +10,9 @@ promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
 - url: "/fishing"
   video:
-    source: "/img/fishing-slider-2.mp4"
+    source: "/img/fishing-slider.mp4"
+    cover: "/img/fall-fishing-hm-slider-desktop.jpg"
+  photo_mobile: "/img/fall-fishing-hm-slider-mobile.jpg"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
