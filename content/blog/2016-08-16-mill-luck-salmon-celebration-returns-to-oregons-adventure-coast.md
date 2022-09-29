@@ -32,8 +32,4 @@ The annual Salmon Bake Dinner (ticketed event) is among the highlights of this c
 
 The celebration began as a means of sharing the heritage, culture and traditions of the [**Coquille Indian Tribe**](http://www.coquilletribe.org/) and other Pacific Northwest Tribes with residents and visitors to Oregon’s South Coast. Nowadays, the event attracts Native American artisans and musicians from throughout the Western United States and Canada.
 
-Learn more about the festivities and traditions below.
-
-Please visit [www.themillcasino.com](http://www.themillcasino.com/entertainment/salmon.cfm) for schedule and Salmon Bake Dinner ticket information.
-
 September’s a busy time in Coos Bay so we recommend booking accommodations before it’s too late! Visit our <a href="/lodging/" target="_blank">lodgings page </a>to search through great options of hotels and inns in the Coos Bay area.
