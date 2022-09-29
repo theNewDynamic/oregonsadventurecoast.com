@@ -51,7 +51,7 @@ exports.handler = async function(event, context) {
       fields: ['title']
     })
     const retrievedDocuments = responseCheck
-    const pass = retrievedDocuments.length === documents.length
+    const pass = retrievedDocuments.total === documents.length
     checkOutput = {
       type: 'get',
       response: pass ? 'bravo' : `${retrievedDocuments.length} found on Meili but ${documents.length} found on the site.`,
