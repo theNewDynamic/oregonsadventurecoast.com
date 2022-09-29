@@ -1,6 +1,6 @@
 ---
 title: What’s Next on Oregon’s Adventure Coast? Looking Ahead to June 2022
-date: 2022-05-11T04:00:00+00:00
+date: 2022-05-11T04:00:00.000+00:00
 description: Things are beginning to look a lot more “normal” around here, and many
   event organizers have decided that it’s time to gather once more. You can always
   go to our Events Page & Calendar to get the latest information, but we’ve compiled
@@ -45,7 +45,6 @@ warning: true
 warning_copy: ''
 
 ---
-
 Is your soul craving a summer road trip? There’s always something happening on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, but summer is always our most active season! Summer brings lots of sunshine and temperate weather to our region, making it an ideal time to experience the natural beauty and coastal views that can’t be found anywhere else in the country.
 
 As an added bonus, things are beginning to look a lot more “normal” around here, and many event organizers have decided that it’s time to gather once more. You can always go to our [Events Page ](https://www.oregonsadventurecoast.com/events/)& [Calendar](https://www.oregonsadventurecoast.com/calendar/) to get the latest information, but we’ve compiled some highlights happening next month on Oregon’s Adventure Coast to help you plan your ideal adventure. So book your hotel, pack your bags and get ready for a Summer Adventure you’ll always treasure!
@@ -100,8 +99,8 @@ Free Day at [Coos History Museum & Maritime Collection](https://cooshistory.org/
 * [Follow Me Tour at Spinreel](https://www.ridetheoregondunes.com/follow-me-tour/) - In case you needed another reason to come to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston this summer- Spinreel’s ever-popular “Follow Me Tour” is up and running again!
 * [Vegas-Style Casino Gaming](https://www.oregonsadventurecoast.com/gaming/). Did you know that our little corner of the Pacific Northwest is home to two of the area’s best casinos? Whether it's slots, cards, or games, you'll find round-the-clock adventure, fun, and (fingers crossed) millions right here. Our two casinos are located within a ten-minute drive, so play your cards right and visit both. You won’t regret it. [Learn more](https://oregonsadventurecoast.netlify.com/blog/try-your-luck-on-oregon-s-adventure-coast/).
 * [Fish on](https://www.oregonsadventurecoast.com/tripideas/a-weekend-of-fishing-and-so-much-more-on-oregon-s-adventure-coast/)! - Looking for a “fin-tastic” fishing adventure? Look no further! Fishing opportunities abound year-round on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston!
-* [Cosmic Bowling](https://northbendlanes.com/cosmic-bowling/) - Looking for an “out-of-this-world” outing for the whole family? Take on cosmic bowling at North Bend Lanes! Bowling lanes transform with blacklight, lasers, fog machines, glow-in-the-dark lanes, and heart pounding music each Friday and Saturday night!
-* [South Slough National Estuarine Research Reserve Interpretive Center](https://www.oregon.gov/oprd/NATRES/pages/rs_faqcoastal.aspx#What_is_a_Research_Reserve_) - After two years of limited operations, South Slough National Estuarine Research Reserve is re-opening the doors of its Visitor Center – and displaying a new exhibit in partnership with local Tribes .The Visitor Center, which has interpretive exhibits on coastal ecosystems, plants and animals, cultural history, and science, is now open to the public every Tuesday through Saturday, from 10 a.m. to 4 p.m. There are miles of beautiful hiking trails and waterways to explore in addition to classes/workshops for all ages.
+* [Cosmic Bowling](https://northbendlanes.com/Bowling/Cosmic-Bowling) - Looking for an “out-of-this-world” outing for the whole family? Take on cosmic bowling at North Bend Lanes! Bowling lanes transform with blacklight, lasers, fog machines, glow-in-the-dark lanes, and heart pounding music each Friday and Saturday night!
+* [South Slough National Estuarine Research Reserve Interpretive Center](https://www.oregon.gov/dsl/ss/pages/about.aspx) - After two years of limited operations, South Slough National Estuarine Research Reserve is re-opening the doors of its Visitor Center – and displaying a new exhibit in partnership with local Tribes .The Visitor Center, which has interpretive exhibits on coastal ecosystems, plants and animals, cultural history, and science, is now open to the public every Tuesday through Saturday, from 10 a.m. to 4 p.m. There are miles of beautiful hiking trails and waterways to explore in addition to classes/workshops for all ages.
 
 We’re just getting started! Visit our [Adventures page](https://www.oregonsadventurecoast.com/adventures) and our[ Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast,
 
