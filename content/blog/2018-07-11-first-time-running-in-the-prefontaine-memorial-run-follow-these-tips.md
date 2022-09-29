@@ -22,7 +22,7 @@ categories:
 ---
 There's a reason why runners love to travel to Oregon's South Coast. Not only is this home to one of Oregon’s greatest sports legends, the late <a href="/steve-prefontaine-story/" rel="noopener noreferrer"> Steve Prefontaine</a>, our region is filled with natural amenities ideal for training including challenging hills, trails, temperate weather and coastal beauty that can't be found anywhere else in the country.
 
-Whether you're planning to join the thousands of runners from all over the country for the <a href="http://prefontainerun.com/" target="_blank" rel="noopener noreferrer">Annual Prefontaine 10K Run</a> in September or the <a href="https://www.charlestonsalmonrun.com/" target="_blank" rel="noopener noreferrer">Charleston Salmon Run</a> marathon, 1/2 marathon and 10K in October, or one of many annual running events organized by the <a href="http://www.southcoastrunningclub.org/">South Coast Running Club</a> there is a race or walk for runners at every level.
+Whether you're planning to join the thousands of runners from all over the country for the <a href="http://prefontainerun.com/" target="_blank" rel="noopener noreferrer">Annual Prefontaine 10K Run</a> in September or the Charleston Salmon Run marathon, 1/2 marathon and 10K in October, or one of many annual running events organized by the <a href="http://www.southcoastrunningclub.org/">South Coast Running Club</a> there is a race or walk for runners at every level.
 
 ![Running on the Oregon Coast](/img/0823466cf736f6dd8b30f6a4c72fb01c-674x448.jpg)
 
@@ -44,7 +44,7 @@ Better get moving if you're planning to run this race! The Annual <a href="http:
 
 <b>October 6th, 2018</b>
 
-This unique race offers something for everyone from seasoned marathon runners to self-proclaimed "couch potatoes"! Runners can choose from a 26.2 mile Full Marathon, 13.1 mile 1/2 Marathon, 10K or the Crab Walk -1M. 
+This unique race offers something for everyone from seasoned marathon runners to self-proclaimed "couch potatoes"! Runners can choose from a 26.2 mile Full Marathon, 13.1 mile 1/2 Marathon, 10K or the Crab Walk -1M.
 
 <h2>Training Tips</h2>
 

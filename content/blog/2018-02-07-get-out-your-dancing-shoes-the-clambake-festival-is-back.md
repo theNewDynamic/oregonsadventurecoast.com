@@ -36,7 +36,7 @@ categories:
 ---
 {{< floatimage src="img/SCCMusicFest_30thlogo-1.png" float="right" alt="South Coast Clambake Music Festival 30th Anniversary" size="100" >}}
 
-Break out those dancin’ shoes! The annual <a href="https://clambakejazz.com/" target="_blank" rel="noopener noreferrer">South Coast Clambake Music Festival </a>  is coming back to rock and roll Oregon's South Coast <strong>March 8th-10th, 2019</strong> at The Mill Casino • Hotel in North Bend!
+Break out those dancin’ shoes! The annual South Coast Clambake Music Festival is coming back to rock and roll Oregon's South Coast <strong>March 8th-10th, 2019</strong> at The Mill Casino • Hotel in North Bend!
 
 Now in its 30th year, the South Coast Clambake Music Festival has entertained thousands of music lovers in our region. This year's exciting musical extravaganza brings another fabulous lineup of incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco all under one roof! [Click here to see the list of bands and musicians](https://clambakejazz.com/our-bands/) performing at the 2019 festival.
 
