@@ -42,7 +42,7 @@ Thanks to the dedicated and knowledgeable volunteers from the [Whale Watching Sp
 ### WINTER WHALE WATCHING TRIP DAY ONE
 
 **MORNING**  
-Start the day by sipping on a cup of fair trade, organic, house-roasted coffee from [Bayside Coffee](http://www.baysidecoffeeshop.com) on Boat Basin Road in Charleston, a favorite among locals and visitors alike. Chat with locals or the owners in this family-friendly, casual establishment. _Tip- try the Blackberry Mocha_!
+Start the day by sipping on a cup of fair trade, organic, house-roasted coffee from [Bayside Coffee](https://www.facebook.com/coos.baysidecoffee) on Boat Basin Road in Charleston, a favorite among locals and visitors alike. Chat with locals or the owners in this family-friendly, casual establishment. _Tip- try the Blackberry Mocha_!
 
 Afterward, go for a stroll along the [Charleston Marina Complex](https://www.portofcoosbay.com/marinahome), about a half-mile down the road to check out the fishing vessels and local wildlife. Sometimes, you can even catch a few of our local resident sea lions relaxing on the docks or going for a morning swim. Next, head to [Shore Acres State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68) from 10 am – 1 pm. Here you will find [Whale Watching Spoken Here®](https://oregonstateparks.org/index.cfm?do=thingstodo.dsp_whalewatching) volunteers to help you spot and learn more about the migrating gray whales heading south. Be sure to explore the beautiful gardens and natural scenery all around you, the views of the Pacific Ocean can’t be beat! Parking at Shore Acres is $5 (cash) or a current State Park Pass, Coastal Pass or current Campground Receipt.
 
