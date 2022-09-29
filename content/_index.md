@@ -8,6 +8,9 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
+- url: "/fishing"
+  video:
+    source: "/img/fishing-slider-2.mp4"
 - photo: "/img/fall-fishing-hm-slider-desktop.jpg"
   url: "/fishing"
   photo_mobile: "/img/fall-fishing-hm-slider-mobile.jpg"
