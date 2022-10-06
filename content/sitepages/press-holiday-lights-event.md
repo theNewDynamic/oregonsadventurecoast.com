@@ -14,6 +14,8 @@ accordion_sections: []
 boxes: []
 
 ---
+![](/img/Shore-Acres-Holiday-Lights-Collage-2.jpg)
+
 Ulluptia nduciat optatemporum enis rerovit iuntur a doluptat. Uptatin ctibus, odita as duntin et eos sequi as nempos sequat quam re vel in nihil eum volume porrum ilibusanti rat eum fugiatis et aut et dolo milluptiatia dolorum recest aut eos. 
 
 ### Bold Sub-Headline Here
