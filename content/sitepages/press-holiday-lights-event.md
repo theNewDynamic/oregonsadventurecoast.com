@@ -31,7 +31,7 @@ Ulluptia nduciat optatemporum enis rerovit iuntur a doluptat. Uptatin ctibus, od
 * Fourth best bullet about event bullet about event bullet about event. Bullet about event. 
 
 {{< spacer 25 >}}
-<div style="background-color:#d74029; color:#ffffff;">
-### Sign Up For This Press Only Event</div>
+<div style="background-color:#d74029; color:#ffffff; font-weight:bold;padding:5px 5px 10px 10px">
+SIGN UP FOR THIS PRESS ONLY EVENT</div>
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/222785805493163"></script>
