@@ -12,6 +12,5 @@ seo:
 aliases: []
 accordion_sections: []
 boxes: []
-draft: true
 
 ---
