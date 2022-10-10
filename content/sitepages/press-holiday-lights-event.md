@@ -16,19 +16,21 @@ boxes: []
 ---
 ![](/img/Shore-Acres-Holiday-Lights-Collage-2.jpg)
 
-Ulluptia nduciat optatemporum enis rerovit iuntur a doluptat. Uptatin ctibus, odita as duntin et eos sequi as nempos sequat quam re vel in nihil eum volume porrum ilibusanti rat eum fugiatis et aut et dolo milluptiatia dolorum recest aut eos. 
+Ulluptia nduciat optatemporum enis rerovit iuntur a doluptat. Uptatin ctibus, odita as duntin et eos sequi as nempos sequat quam re vel in nihil eum volume porrum ilibusanti rat eum fugiatis et aut et dolo milluptiatia dolorum recest aut eos.
 
 ### Bold Sub-Headline Here
 
 Ulluptia nduciat optatemporum enis rerovit iuntur a doluptat. Uptatin ctibus, odita as duntin et eos sequi as nempos sequat quam re vel in nihil eum volume porrum ilibusanti rat eum fugiatis et aut et dolo milluptiatia dolorum recest aut eos estiunt aut laut quia sequam, odis ulparum sitaturi cullent.
 
+{{< youtube "oMwQeDRya7o" >}}
+
 ### Bold Sub-Headline Here
 
 * Ulluptia nduciat optatemporum enis rerovit iuntur a doluptat. Uptatin ctibus, odita as duntin et eos sequi as nempos sequat quam re vel in nihil eum volume porrum ilibusanti rat eum fugiatis et aut et dolo milluptiatia dolorum recest aut eos estiunt aut laut quia sequam, odis ulparum sitaturi cullent.
-* Bullet about event bullet about event bullet about event. Bullet about event. 
-* Second of the best bullets about event bullet about event bullet about event. Bullet about event. 
-* Third even better bullet in and about event bullet about event bullet about event. Bullet about event. 
-* Fourth best bullet about event bullet about event bullet about event. Bullet about event. 
+* Bullet about event bullet about event bullet about event. Bullet about event.
+* Second of the best bullets about event bullet about event bullet about event. Bullet about event.
+* Third even better bullet in and about event bullet about event bullet about event. Bullet about event.
+* Fourth best bullet about event bullet about event bullet about event. Bullet about event.
 
 {{< spacer 25 >}}
 <div style="background-color:#d74029; color:#ffffff; font-weight:bold;padding:5px 3px 10px 10px">
