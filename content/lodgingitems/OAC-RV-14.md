@@ -1,7 +1,7 @@
 ---
-title: Oceanside RV Park Resort
+title: Sun Outdoors Coos Bay
 photo_name: "/img/Oceanside-RV-camp.jpg"
-photo_alt: Oceanside Beach Tent Camping in Charleston, OR
+photo_alt: Beach Tent Camping at Sun Outdoor Coos Bay in Charleston, OR
 property_name: Oceanside RV Park Resort
 property_category: 2 - RV Parks & Camping
 address:
@@ -17,7 +17,7 @@ property_description: Unwind in unique vintage trailers, cottages, tents, or you
   own RV. Enjoy the Oregon Coast with a variety of on-site amenities including a convenient
   crab shack and free WiFi. Use of crab traps & clam digging equipment. Beach access
   & general store.
-website: http://www.oceansidervresort.com
+website: https://www.sunoutdoors.com/oregon/sun-outdoors-coos-bay
 amenityList:
 - 1 - Restaurant/Bar/Rm Service
 - 5 - Pet Friendly
