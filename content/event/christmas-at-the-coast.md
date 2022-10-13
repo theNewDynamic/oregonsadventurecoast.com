@@ -41,7 +41,7 @@ aliases: []
 
 #### November 11th & 12th <br>[Downtown Coos Bay Holiday Open House](https://coosbaydowntown.org/holiday-events-in-downtown-2/)
 
-Visit participating businesses in Downtown Coos Bay during the Holiday Open House and enter to win door prizes! Shop for the holidays and keep your receipts to receive a commemorative mug on Shop Small Saturday (see below for more). *
+Visit participating businesses in Downtown Coos Bay during the Holiday Open House and enter to win door prizes! Shop for the holidays and keep your receipts to receive a commemorative mug on Shop Small Saturday (see below for more). Start your shopping journey at Katrina Kathleen’s Home Décor – 191 S Broadway or Checkerberry’s Flowers & Gifts – 1290 N. Bayshore Drive (Coos Bay Village) and pick up your Downtown Open House map to more shops all waiting to show you their latest for the gift-giving season. Friday, November 11th from 9am to 5pm and Saturday, November 12th from 10am to 4pm
 
 {{< spacer 20 >}}
 
@@ -71,7 +71,7 @@ Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa o
 
 #### November 26th <br>[Downtown Coos Bay Commemorative Mug and Shop Small Saturday](https://coosbaydowntown.org/holiday-events-in-downtown-2/)
 
-Keep your receipts for all purchases made in Downtown Coos Bay between November 12 and November 27. Collect $100 in receipts, bring those receipts to Jennie's Shoes (262 Central Ave) and receive a commemorative mug! Shop Small Saturday encourages us to shop at small, local shops this holiday season. *
+Keep your receipts for all purchases made in Downtown Coos Bay between November 11 and November 26. Collect $100 in receipts, bring those receipts to Jennie's Shoes (262 Central Ave) and receive a commemorative mug! Shop Small Saturday encourages us to shop at small, local shops this holiday season.
 
 {{< spacer 50 >}}
 
