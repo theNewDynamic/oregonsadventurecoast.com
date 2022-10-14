@@ -32,20 +32,23 @@ warning_copy: ''
 
 [Whiskey Run Mountain Bike Trails](https://www.oregonsadventurecoast.com/img/whiskey-run-pocket-map-06-22-final.pdf), a one-of-a-kind trail system winding through the misty Coos County Forest, is renowned for its moderate climbing and fun descending. It’s not only one of the most prized biking trails in our region, it is one of the few in the state of Oregon that are open year-round! Unlike other biking systems in Oregon, its 32 miles of single-track trails are ideal for beginner, intermediate, and advanced riders. Riders are treated to sweeping views, tranquil streams, and fern covered forest floors that can only be experienced on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. Take a look!
 
+{{< spacer 20 >}}
+
 {{< youtube "Z-83k7KWCEM" >}}
 
+{{< spacer 30 >}}
+
 {{< youtube "uPKLrPJCx8E" >}}
+
+{{< spacer 20 >}}
 
 **ENTER TO WIN WHISKEY RUN WEEKEND**
 
 Oregon’s Adventure Coast is thrilled to partner with [Travel Southern Oregon Coast](https://travelsouthernoregoncoast.com/) to give away a Whiskey Run Weekend for two!! The lucky winner will receive:
 
 * Two-night stay at [Bay Point Landing](https://baypointlanding.com/), a modern camping destination surrounded by the beauty of Oregon's wildest coast.
-
 * Sample hand-crafted Northwest style ales at [7 Devils Brewing Co](http://www.7devilsbrewery.com/pub-menu.html)
-
 * Dinner at [Wildflour Public House](https://m.facebook.com/3504856526258248), a highly rated eatery in North Bend featuring dishes made with fresh, local ingredients.
-
 * Expert tour by [Whiskey Run Rentals](https://www.whiskeyrunrentals.com/) through 32 miles of single-track trails with epic views of the Southern Oregon Coast. Or, if you don’t have your own bikes, bike rental for two.
 
 [CLICK HERE TO ENTER THIS AMAZING ADVENTURE](https://travelsouthernoregoncoast.com/win-whiskey-run-weekend/)
