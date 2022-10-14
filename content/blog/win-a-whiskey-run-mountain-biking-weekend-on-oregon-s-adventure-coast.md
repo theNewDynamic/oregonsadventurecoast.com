@@ -42,7 +42,7 @@ warning_copy: ''
 
 {{< spacer 20 >}}
 
-**ENTER TO WIN WHISKEY RUN WEEKEND**
+### ENTER TO WIN WHISKEY RUN WEEKEND
 
 Oregon’s Adventure Coast is thrilled to partner with [Travel Southern Oregon Coast](https://travelsouthernoregoncoast.com/) to give away a Whiskey Run Weekend for two!! The lucky winner will receive:
 
@@ -51,7 +51,7 @@ Oregon’s Adventure Coast is thrilled to partner with [Travel Southern Oregon C
 * Dinner at [Wildflour Public House](https://m.facebook.com/3504856526258248), a highly rated eatery in North Bend featuring dishes made with fresh, local ingredients.
 * Expert tour by [Whiskey Run Rentals](https://www.whiskeyrunrentals.com/) through 32 miles of single-track trails with epic views of the Southern Oregon Coast. Or, if you don’t have your own bikes, bike rental for two.
 
-[CLICK HERE TO ENTER THIS AMAZING ADVENTURE](https://travelsouthernoregoncoast.com/win-whiskey-run-weekend/)
+### [CLICK HERE TO ENTER THIS AMAZING ADVENTURE](https://travelsouthernoregoncoast.com/win-whiskey-run-weekend/)
 
 While you’re here, try out some of these other EPIC Coos Bay, North Bend & Charleston Experiences. _Please note, these experiences are recommendations and not included in the prize package._
 
@@ -66,7 +66,7 @@ The Whiskey Run Mountain Bike Trail system is located about 10 minutes from Band
 
 ![](/img/tsoc_whiskey_run_trail_map_front.jpg)
 
-Here are some additional resources to learn more>
+### Here are some additional resources to learn more:
 
 [Southern Oregon Coast: Whiskey Run Mountain Biking](https://travelsouthernoregoncoast.com/mountain-biking-the-oregon-coast/)
 
