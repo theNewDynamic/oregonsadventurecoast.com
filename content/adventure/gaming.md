@@ -17,7 +17,7 @@ You'll find 24/7 casino excitement on Oregon's Adventure Coast: Coos Bay, North 
 
 **The Mill Casino** and **Three Rivers Casino - Coos Bay** offer some of the most fun-filled, Vegas-style and casino-gaming in the Pacific Northwest.
 
-**_Did you know?_** _Coos Bay and North Bend are home to two federally recognized native tribes, the_ [**_Coquille Indian Tribe_**](/tribal-heritage-coquilles/) _and the **Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians**._
+**_Did you know?_** _Coos Bay and North Bend are home to two federally recognized native tribes, the_ [**_Coquille Indian Tribe_**](/tribal-heritage-coquilles/) _and the_ [**_Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians_**](/tribal-heritage-confederated/)_._
 
 Come and test your luck with more than 1,000 slots featuring old favorites and the newest electronic games out there. Take lessons on how to play table games or check out slot tournaments held regularly. There are opportunities for high rollers, medium stakes players, and those who choose to chat with friends - new and old - while playing penny slots - all with the chance to win.
 
