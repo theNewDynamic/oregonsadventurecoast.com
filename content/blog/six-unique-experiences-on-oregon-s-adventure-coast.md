@@ -53,14 +53,12 @@ Perhaps it's our rich [history & culture](https://www.oregonsadventurecoast.com/
 
 [Lighthouses](https://www.oregonsadventurecoast.com/lighthouses) have a long, fascinating history on the Oregon Coast, but there is something especially unique and mysterious about [Southern Oregon Coast Lighthouses](https://www.oregonsadventurecoast.com/tripideas/southern-oregon-coast-lighthouses/). The Cape Arago Lighthouse in Charleston is perhaps our best known of these rare coastal treasures, but there are four others (out of Oregon’s 11 lighthouses) within a short driving distance to explore!
 
-###   
-\#2 Learn About our Tribal Heritage
+### #2 Learn About our Tribal Heritage
 
 ![](/img/celebrate-tribal-culture-at-the-mill-luck-salmon-celebration-blog-695x322-jpg.jpg)  
 Indigenous people have lived and thrived on the Oregon Coast for thousands of years, long before Euro-American settlers would arrive. Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is home to two of the nine federally recognized Native American Tribes in our state. The rich and diverse cultures of the [Coquille Indian Tribe](https://www.oregonsadventurecoast.com/tribal-heritage-coquilles/) (pronounced “ko-kwel”) and [Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians](https://ctclusi.org/) are intricately woven into our history. Travel Oregon recently took the important step of publishing a new [Guide to Tribal Nations](https://traveloregon.com/places-to-go/tribal-nations/) (copies are available at the Coos Bay Visitor Center).
 
-###   
-\#3 Experience Oregon Coast Art, History & Culture
+### #3 Experience Oregon Coast Art, History & Culture
 
 ![](/img/history-museum-mother-child.jpg)
 
