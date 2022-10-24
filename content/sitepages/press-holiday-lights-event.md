@@ -14,9 +14,9 @@ accordion_sections: []
 boxes: []
 
 ---
-![](/img/Shore-Acres-Holiday-Lights-Collage-2.jpg)
+![Private Press Event for Holiday Lights at Shore Acres](/img/hero-holiday-lights-header.jpg)
 
-Ulluptia nduciat optatemporum enis rerovit iuntur a doluptat. Uptatin ctibus, odita as duntin et eos sequi as nempos sequat quam re vel in nihil eum volume porrum ilibusanti rat eum fugiatis et aut et dolo milluptiatia dolorum recest aut eos.
+![](/img/youre-invited-text.png)You are cordially invited to come to Coos Bay, North Bend, Charleston, Oregon, for an exclusive, behind the scenes press event.
 
 ### Bold Sub-Headline Here
 
