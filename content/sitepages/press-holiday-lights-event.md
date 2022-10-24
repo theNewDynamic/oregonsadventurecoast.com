@@ -16,7 +16,8 @@ boxes: []
 ---
 ![Private Press Event for Holiday Lights at Shore Acres](/img/hero-holiday-lights-header.jpg)
 
-![](/img/youre-invited-text.png)You are cordially invited to come to Coos Bay, North Bend, Charleston, Oregon, for an exclusive, behind the scenes press event.
+{{< floatimage src="/img/youre-invited-text.png" float="right" alt="You're Invited to the Press Event for Holiday Lights at Shore Acres State Park in Charleston, Oregon" size="100" >}}
+You are cordially invited to come to Coos Bay, North Bend, Charleston, Oregon, for an exclusive, behind the scenes press event.
 
 ### Bold Sub-Headline Here
 
