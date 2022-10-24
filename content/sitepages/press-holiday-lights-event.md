@@ -1,7 +1,7 @@
 ---
 title: Special Holiday Lights Private Access Press Event
 url: press-holiday-lights
-layout: nosidebar
+layout: our-area
 photo: "/img/holiday-lights-house-sub-pg-header-03.jpg"
 ctas: []
 seo:
