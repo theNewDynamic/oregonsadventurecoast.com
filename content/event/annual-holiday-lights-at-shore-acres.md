@@ -53,6 +53,7 @@ This year, [**Holiday Lights visitation will be through a timed reservation syst
 2. [**Visit the OPRD website**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381) **or click the Book Now Button below to book your time**
 3. **Pay the $5 fee** per vehicle
 4. **Print your pass** - you must bring the pass with you to enter the park
+5. Have more questions? **Call 541-888-3778**, the local State Parks office.
 
 {{< spacer 25 >}}
 
