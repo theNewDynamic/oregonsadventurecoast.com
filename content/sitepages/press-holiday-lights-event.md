@@ -42,6 +42,6 @@ These dazzling lights have illuminated the night each holiday season for decades
 
 Please join us to photograph and video the amazing scenes, and talk with representatives from the Coos Bay, North Bend, Charleston Visitor & Convention Bureau, Friends of Shore Acres, and the park service. Light food and drink will be served.
 
-{{< spacer 25 >}} <div style="background-color:#d74029; color:#ffffff; font-size: 1.4em; font-weight:bold;padding:5px 5px 5px 10px"> SIGN UP FOR THIS PRESS ONLY EVENT</div>
+{{< spacer 45 >}} <div style="background-color:#d74029; color:#ffffff; font-size: 1.4em; font-weight:bold;padding:5px 5px 5px 10px"> SIGN UP FOR THIS PRESS ONLY EVENT</div>
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/222785805493163"></script>
