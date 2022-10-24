@@ -1,5 +1,5 @@
 ---
-title: Special Holiday Lights Private Access Press Event
+title: Exclusive Private Press Preview of Holiday Lights
 url: press-holiday-lights
 layout: our-area
 photo: "/img/holiday-lights-house-sub-pg-header-03.jpg"
@@ -19,19 +19,28 @@ boxes: []
 {{< floatimage src="/img/youre-invited-text.png" float="right" alt="You're Invited to the Press Event for Holiday Lights at Shore Acres State Park in Charleston, Oregon" size="100" >}}
 You are cordially invited to come to Coos Bay, North Bend, Charleston, Oregon, for an exclusive, behind the scenes press event.
 
-### Bold Sub-Headline Here
+### Dates & Details
 
-Ulluptia nduciat optatemporum enis rerovit iuntur a doluptat. Uptatin ctibus, odita as duntin et eos sequi as nempos sequat quam re vel in nihil eum volume porrum ilibusanti rat eum fugiatis et aut et dolo milluptiatia dolorum recest aut eos estiunt aut laut quia sequam, odis ulparum sitaturi cullent.
+Wednesday, November 9, 2022, from 4:00 pm to 6:30 pm  
+Shore Acres State Park - 89039 Cape Arago Hwy, Charleston, Oregon
+
+**FREE OVERNIGHT STAY!**  
+We are able to offer lodging at one of our local hotels, for you or editorial/reporter from your organization, for November 9, 2022. (1 room per organization)
+
+**ADDITIONAL FEATURE**  
+Shore Acres State Park is regularly identified as THE BEST location for Pacific storm watching on the entire Oregon coast. You'll have an opportunity to see the best viewing spots in advance of the January - March storm watching season.
+
+{{< spacer 30 >}}
 
 {{< youtube "oMwQeDRya7o" >}}
 
-### Bold Sub-Headline Here
+### Background of the Lights
 
-* Ulluptia nduciat optatemporum enis rerovit iuntur a doluptat. Uptatin ctibus, odita as duntin et eos sequi as nempos sequat quam re vel in nihil eum volume porrum ilibusanti rat eum fugiatis et aut et dolo milluptiatia dolorum recest aut eos estiunt aut laut quia sequam, odis ulparum sitaturi cullent.
-* Bullet about event bullet about event bullet about event. Bullet about event.
-* Second of the best bullets about event bullet about event bullet about event. Bullet about event.
-* Third even better bullet in and about event bullet about event bullet about event. Bullet about event.
-* Fourth best bullet about event bullet about event bullet about event. Bullet about event.
+Holiday Lights at Shore Acres State Park, has been a staple with an average yearly attendance of over 50,000 guests from six continents.
+
+These dazzling lights have illuminated the night each holiday season for decades, every day from Thanksgiving through New Year’s Eve except for 2020 and 2021 due to COVID. We want to make sure your audience knows this tradition is back, and just as stunning as ever. That’s why we are holding this press day, prior to opening to the public.
+
+Please join us to photograph and video the amazing scenes, and talk with representatives from the Coos Bay, North Bend, Charleston Visitor & Convention Bureau, Friends of Shore Acres, and the park service. Light food and drink will be served.
 
 {{< spacer 25 >}} <div style="background-color:#d74029; color:#ffffff; font-size: 1.4em; font-weight:bold;padding:5px 5px 5px 10px"> SIGN UP FOR THIS PRESS ONLY EVENT</div>
 
