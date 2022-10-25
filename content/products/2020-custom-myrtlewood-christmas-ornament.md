@@ -1,6 +1,6 @@
 ---
 product:
-  price: 10
+  price: 8
   weight: 8
   description: Myrtlewood Christmas laser-cut ornament.
   custom_fields: []
