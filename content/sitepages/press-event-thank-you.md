@@ -14,4 +14,4 @@ accordion_sections: []
 boxes: []
 
 ---
-![Thank you for signing up we will be back in touch shortly](/img/thankyou-graphic-text.jpg)
+![Thank you for signing up we will be back in touch shortly](/img/thankyou-graphic-text02.jpg)
