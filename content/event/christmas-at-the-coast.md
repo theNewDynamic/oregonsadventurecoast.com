@@ -47,9 +47,9 @@ Visit participating businesses in Downtown Coos Bay during the Holiday Open Hous
 
 #### {{< floatimage src="img/ch-crabpot-tree-small.jpg" float="left" alt="Charleston Crab Pot Tree" size="40" >}}November 22nd - December 31st<br>Charleston Crab Pot Tree
 
-The Charleston Fishing Families celebrate the season every year with a colorful, lighted Crab Pot Tree in the parking lot of Fisherman's Grotto restaurant!  Lights from the tree can be seen from Cape Arago Highway and across to the Charleston Marina!
+The Charleston Fishing Families celebrate the season every year with a colorful, lighted Crab Pot Tree in the parking lot of Fisherman's Grotto restaurant!  Lights from the tree can be seen from Cape Arago Highway and across to the Charleston Marina! _Photo courtesy of Chris at Off the Edge Photography._
 
-{{< spacer 50>}}
+{{< spacer 100>}}
 
 #### {{< floatimage src="img/HolidayLights-Bushes-176.jpg" float="right" alt="Holiday Lights" size="40" >}}November 24-December 31 <br>Holiday Lights at Shore Acres State Park
 
