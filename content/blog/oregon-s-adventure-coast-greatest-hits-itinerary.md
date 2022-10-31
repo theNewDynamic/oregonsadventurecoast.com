@@ -4,9 +4,39 @@ date: 2022-10-31T04:00:00+00:00
 description: Keep reading for an itinerary featuring some of our “Greatest Hits” on
   Oregon’s Adventure Coast that every first-time (or second, third, fourth time) visitor
   should experience!
-image: ''
-tags: []
-categories: []
+image: "/img/Oregon Dunes ATV OVA blog-695x322.jpg"
+tags:
+- Oregon Dunes
+- 'Oregon Dunes National Recreation Area '
+- Itinerary
+- First Time Oregon Coast Visitor
+- Oregon
+- Oregon's Adventure Coast
+- Coos Bay
+- North Bend Oregon
+- Charleston Oregon
+- Clausen Oysters
+- Coos Bay Visitor Information Center
+- Mill Casino Hotel & RV Park
+- Oregon Coast Casino
+- Three Rivers Casino
+- Cape Arago Hwy Loop
+- Charleston Marine Life Center,
+- Fishing
+- Oregon Coast Fishing
+- Crabbing
+- Oregon Coast Crabbing
+- Clamming
+- Oregon Coast Clamming
+- 'Sunset Bay State Park '
+- 'Shore Acres State Park '
+- Cape Arago State Park
+- Davey Jones' Locker
+- " charter fishing "
+- Coos History Museum
+- " 7 Devils Brewery"
+categories:
+- Itineraries
 seo:
   title: ''
   description: ''
@@ -16,7 +46,6 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
-draft: true
 
 ---
 When [Everyday Northwest](https://www.facebook.com/everydaynorthwest/?__tn__=-UC) recently featured some of the fantastic adventures waiting for travelers on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, this got us thinking about an itinerary for first-time visitors!
@@ -55,7 +84,7 @@ On your way back to Coos Bay/North Bend, be sure to stop by [Cranberry Sweets](h
 
 After a satisfying morning of adventure and wildlife viewing, grab a quick and delicious bite at one of the local seafood restaurants in Charleston, before an afternoon visit to the [Charleston Marine Life Center](https://cmlc.uoregon.edu/), located on the edge of the harbor in Charleston. Curious minds can discover various coastal ecosystems and experience a tide pool touch tank, whale and sea lion skeletons, underwater video from deep reefs and undersea volcanoes, and various specimens reveal the hidden and remarkable diversity of life off Oregon, from the coast to the deep sea. Open Wednesday through Saturday 11am-5pm.
 
-Next up, head to [Davey Jones' Locker](https://www.facebook.com/Davey-Jones-Locker-275312836004/) to gear up for an afternoon of [fishing](https://oregonsadventurecoast.netlify.app/fishing/), [crabbing](https://oregonsadventurecoast.netlify.app/crabbing-clamming/) or [clamming](https://oregonsadventurecoast.netlify.app/clamming/). Our local bait and tackle stores are a local treasure trove of fishing, clamming and crabbing tips and a great place to rent a crab ring. If [charter fishing](https://www.oregonsadventurecoast.com/tour-guides-and-charters/) is more your speed, there are several who are more than willing to help you make the most of your Oregon’s Adventure Coast experience!
+Next up, head to [Davey Jones' Locker](https://www.facebook.com/Davey-Jones-Locker-275312836004/) to gear up for an afternoon of [fishing](https://oregonsadventurecoast.netlify.app/fishing/), [crabbing](https://oregonsadventurecoast.netlify.app/crabbing-clamming/) or [clamming](https://oregonsadventurecoast.netlify.app/clamming/). Our local bait and tackle stores are a local treasure trove of fishing, clamming and crabbing tips and a great place to rent a crab ring. If [charter fishing](https://www.oregonsadventurecoast.com/tour-guides-and-charters/) is more your speed, there are several businesses more than willing to help you make the most of your Oregon’s Adventure Coast experience!
 
 After a fun day along our beautiful, rugged coast, head out for a relaxing, delicious meal from one of our [local restaurants](http://oregonsadventurecoast.com/dining) (too many to list). There are many establishments that have stood the test of time, like [Shark Bites in Coos Bay](http://www.sharkbites.cafe/home), [Hilltop House Restaurant and Lounge](https://hilltophouserestaurant.com/), [Blue Heron Bistro](http://www.blueheronbistro.net/),[ Captain’s Choice Family Fish House ](http://www.captainschoicefishhouse.com/)and many more. After dinner, head out for a beer and fun night of bowling at [The Back Alley Pub & Grill](https://northbendlanes.com/Back-Alley-Pub-Grill) at [North Bend Lanes,](https://northbendlanes.com/) or live music at [Liberty Pub](https://www.thelibpub.com/) (on select nights only). A trip to [7 Devils Brewing Co](http://www.7devilsbrewery.com/#/) in Coos Bay, recently featured in [Everyday Northwest](https://www.facebook.com/everydaynorthwest/?__tn__=-UC-R), will not disappoint! See video below
 
