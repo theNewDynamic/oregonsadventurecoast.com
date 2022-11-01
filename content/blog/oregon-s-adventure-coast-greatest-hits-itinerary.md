@@ -50,13 +50,19 @@ warning_copy: ''
 ---
 When [Everyday Northwest](https://www.facebook.com/everydaynorthwest/?__tn__=-UC) recently featured some of the fantastic adventures waiting for travelers on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, this got us thinking about an itinerary for first-time visitors!
 
+{{< spacer 50 >}}
+
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Feverydaynorthwest%2Fvideos%2F799309454623086%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+{{< spacer 50 >}}
 
 Keep reading for an itinerary featuring some of our “Greatest Hits” on Oregon’s Adventure Coast that every first-time (or second, third, fourth time) visitor should experience...but first, here are some rules to keep in mind:
 
 * Please do not touch or bother any wildlife or seal pups you may find on beaches. We promise, they are not lost, only waiting for mom to return.
 * Plan ahead and make restaurant reservations ahead of time, or be prepared to wait. Download and print our newest [Dining Guide](https://oregonsadventurecoast.netlify.app/img/restaurants-booklet.pdf) to take with you.
 * Stay safe when you are near the water, and NEVER TURN YOUR BACK TO THE OCEAN! Read [Eight Ways To Stay Safe On The Beaches Along The Oregon Coast.](https://oregonsadventurecoast.com/blog/eight-ways-to-stay-safe-on-the-beaches-along-the-oregon-coast/)
+
+{{< spacer 50 >}}
 
 ## Day One: Ride the Oregon Dunes, Taste the World’s Most Delicious Oysters, and Win Big at the Casino!
 
@@ -65,6 +71,8 @@ Day one is full of adventure – outdoor and indoor! The first item on your big 
 After exploring the largest expanse of coastal dunes in North America, it’s time to grab a late lunch or early dinner at [Clausen Oysters](http://www.clausenoysters.com/restaurant/), where you will taste some of the best oysters on the planet. Locals consistently recommend Clausens for their fresh and shucked oysters, as well as smoked oysters, BBQ Garlic-Parmesan Butter Oysters and other delicious selections. You cannot miss their signs when you are driving North or South on Highway 101, North of North Bend and North of McCullough Bridge.
 
 Before checking into your hotel, be sure to stop in the [Coos Bay Visitor Information Center](https://oregonsadventurecoast.netlify.app/contact/), where you will be welcomed with a smile and an abundance of information about Oregon’s South Coast (not to mention clean restrooms). Once you’ve had some time to rest and freshen up at your hotel or lodging property, head to the [Mill Casino Hotel & RV Park](https://www.themillcasino.com/) for a night of fun-filled [Vegas-style gaming](http://www.oregonsadventurecoast.com/gamin)! Whether it's slots, cards, or games, you'll find round-the-clock adventure, fun, and (fingers crossed) maybe even a jack-pot prize! If you play your cards right, you can also hit [Three Rivers Casino – Coos Bay,](https://www.threeriverscasino.com/coos-bay-casino) just ten minutes away! That’s right, in the Coos Bay area, we have two casinos to choose from!
+
+{{< spacer 50 >}}
 
 ## Day Two: Cape Arago Hwy Loop, Charleston Marine Life Center, Fishing/Crabbing or Clamming, and a Night Out
 
@@ -78,6 +86,8 @@ Along the 8 mile drive, you’ll find a trifecta of State Parks, including [Shor
 * Visit the secluded ocean cove at Simpson Beach, located directly below Shore Acres. A winding path takes you to this treasured “secret” beach, where you will find crashing waves and views of seals, sea lions, and other wildlife.
 * Grab some binoculars and explore the Simpson Reef and nearby Shell Island, part of the Oregon Islands National Wildlife Refuge, to view the hundreds of seals and sea lions who call Shell Island home. There is no public access to the island itself, but viewing points can be found here, at Shore Acres State Park, and from the north trail of Cape Arago State Park.
 
+{{< spacer 50 >}}
+
 For Complete Details, download our [PDF Guide for the Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/img/cape-arago-loop-itinerary.pdf).
 
 On your way back to Coos Bay/North Bend, be sure to stop by [Cranberry Sweets](https://cranberrysweets.com/) for a sweet treat made from Oregon cranberries and other delectable flavors. You can watch candy being made most weekdays, while also sampling your heart out. We also recommend exploring the marina and boatyard in Charleston. With nearly 200 commercial fishing boats and 250 or so recreational boats, the docks and boatyard are busy year-round.
@@ -88,7 +98,11 @@ Next up, head to [Davey Jones' Locker](https://www.facebook.com/Davey-Jones-Lock
 
 After a fun day along our beautiful, rugged coast, head out for a relaxing, delicious meal from one of our [local restaurants](http://oregonsadventurecoast.com/dining) (too many to list). There are many establishments that have stood the test of time, like [Shark Bites in Coos Bay](http://www.sharkbites.cafe/home), [Hilltop House Restaurant and Lounge](https://hilltophouserestaurant.com/), [Blue Heron Bistro](http://www.blueheronbistro.net/),[ Captain’s Choice Family Fish House ](http://www.captainschoicefishhouse.com/)and many more. After dinner, head out for a beer and fun night of bowling at [The Back Alley Pub & Grill](https://northbendlanes.com/Back-Alley-Pub-Grill) at [North Bend Lanes,](https://northbendlanes.com/) or live music at [Liberty Pub](https://www.thelibpub.com/) (on select nights only). A trip to [7 Devils Brewing Co](http://www.7devilsbrewery.com/#/) in Coos Bay, recently featured in [Everyday Northwest](https://www.facebook.com/everydaynorthwest/?__tn__=-UC-R), will not disappoint! See video below
 
+{{< spacer 50 >}}
+
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Feverydaynorthwest%2Fvideos%2F481300347110316%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+{{< spacer 50 >}}
 
 ## Day Three: Shopping, Coos History Museum and Goodbye!
 
