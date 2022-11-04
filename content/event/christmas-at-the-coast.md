@@ -81,24 +81,22 @@ Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown inste
 
 {{< spacer 50 >}}
 
-#### {{< floatimage src="img/Tree-Lighting-coosbay-340x214.jpg.jpg" float="left" alt="Lighted Tree" size="40" >}} December 2nd <br>Empire District Tree Lighting and Santa Parade
+#### {{< floatimage src="img/Tree-Lighting-coosbay-340x214.jpg" float="left" alt="Lighted Tree" size="40" >}} December 2nd <br>Empire District Tree Lighting and Santa Parade
 
 The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, and will also live stream it on their [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194). Before the lighting, Santa will be riding through the streets in the Empire District - from 3:30-5:30pm - on top of the Empire fire engine as his elves hand out goodies to all the good little children in Empire. After the tree lighting, Star of Hope will once again be opening their doors for families to come in, have refreshments, visit personally with Santa, and vote in the gingerbread house competition. Each Star of Hope team will design and build a gingerbread house entry and the most votes will determine this year's winner.
 
 {{< spacer 50 >}}
 
-#### December 3rd <br>North Bend Tree Lighting
+#### {{< floatimage src="img/nb-tree-lighting-trucks-small.jpg" float="right" alt="Trucks of all sizes cruise through North Bend for the holidays!" size="40" >}}December 3rd <br>North Bend Tree Lighting, Festival on Main & Lighted Truck Parade!
 
-Details coming soon
+Downtown North Bend will be the place to be on Saturday, December 3rd to get fully into the Holiday Spirit! Events begin at 9am and go all the way until 7pm! There is something for everyone throughout the day.
 
-{{< spacer 50 >}}
+* 9:00am-11:00am - **Waffles with Santa!** at the North Bend Fire Station
+* 10:00am - Noon - **Storytime with Mrs. Clause** at the North Bend Public Library
+* 1:00pm-3:00pm - **Christmas on Main Street** in downtown North Bend
+* 3:00pm-5:00pm - **Holiday Block Party** in the Festival Tent near City Hall
+* 5:00pm - **Annual North Bend Tree Lighting** in Grants Circle Roundabout outside City Hall _(Note: new location this year in downtown North Bend)_
+* 5:30pm-6:30pm - **Meet Santa!** in the Festival Tent near City Hall
+* 6:30pm-7:00pm - **Lighted Truck Parade** cruises through downtown and midtown North Bend. _(Note: new route for parade follows the July Jubilee parade route)_
 
-#### December 3rd <br>Annual North Bend Christmas Cruise
-
-Details Coming Soon
-
-{{< spacer 50 >}}
-
-#### {{< floatimage src="img/nb-tree-lighting-trucks-small.jpg" float="left" alt="Your Alt Text goes here" size="40" >}}December 3rd <br>North Bend Lighted Truck Parade
-
-Details Coming Soon
+**More Details on all of these amazing events Coming Soon!**
