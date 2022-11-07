@@ -81,6 +81,22 @@ Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown inste
 
 {{< spacer 50 >}}
 
+#### {{< floatimage src="img/christmas-opry.jpeg" float="right" alt="Christmas Opry" size="40" >}} December 2nd-4th <br>Christmas Opry Returns in December!
+
+Christmas “Little Ole Opry on the Bay” returns to the Liberty Theatre just in time to celebrate the holiday season. This family-friendly show offers a diverse song list including both traditional and contemporary music, with Hannah Kahler singing “Away in a Manger” to Clint Guevara singing “All I Want For Christmas Is You.”
+
+**Liberty Theatre, Home of Little Theatre on the Bay**  
+2100 Sherman Ave, North Bend, OR 97420
+
+**Show dates & times:**    
+Friday, Dec 2 at 7 PM  
+Saturday, Dec 3 at 2 PM & 7 PM  
+Sunday, Dec 4 at 2 PM
+
+Tickets on-sale now at the box office and online at [www.thelibertytheatre.org](). Box office hours are 11-1 PM every Tuesday or call 541-756-4336.
+
+{{< spacer 50 >}}
+
 #### {{< floatimage src="img/Tree-Lighting-coosbay-340x214.jpg" float="left" alt="Lighted Tree" size="40" >}} December 2nd <br>Empire District Tree Lighting and Santa Parade
 
 The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, and will also live stream it on their [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194). Before the lighting, Santa will be riding through the streets in the Empire District - from 3:30-5:30pm - on top of the Empire fire engine as his elves hand out goodies to all the good little children in Empire. After the tree lighting, Star of Hope will once again be opening their doors for families to come in, have refreshments, visit personally with Santa, and vote in the gingerbread house competition. Each Star of Hope team will design and build a gingerbread house entry and the most votes will determine this year's winner.
