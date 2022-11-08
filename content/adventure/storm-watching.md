@@ -1,6 +1,7 @@
 ---
 title: Storm Watching
 aliases:
+- "/storm"
 - "/featured-adventures/stormwatching"
 - "/adventures/stormwatching"
 url: "/storm-watching"
