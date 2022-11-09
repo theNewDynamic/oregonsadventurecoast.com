@@ -11,7 +11,7 @@ desktoptitle: Annual Holiday Lights at Shore Acres  - BACK IN 2022!
 mobiletitle: Shore Acres Holiday Lights -  BACK IN 2022!
 hovertitle: Shore Acres Holiday Lights -  BACK IN 2022!
 hoverdescription: Shore Acres Holiday Lights -  BACK IN 2022 and Better than Ever!
-startdate: '2022-11-22'
+startdate: 2022-11-224
 enddate: '2022-12-31'
 address:
   city: Charleston
