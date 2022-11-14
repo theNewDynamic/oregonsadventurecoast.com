@@ -35,7 +35,7 @@ The safest areas to view winter storms are at the storm watching hut at Shore Ac
 
 The best viewing times tend to be November through March.
 
-{{< youtube "-nS4AtvJu88" >}}
+{{< youtube "bHCIae--his" >}}
 
 {{< spacer 25 >}}
 
