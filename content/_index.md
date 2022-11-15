@@ -8,7 +8,7 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- url: "/storm-watching"
+- url: "/event/annual-holiday-lights-at-shore-acres"
   video:
     source: "/img/lights-slider.mov"
     cover: "/img/holiday-lights-hm-slide-cover-2022.jpg"
