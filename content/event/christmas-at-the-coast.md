@@ -113,6 +113,6 @@ Downtown North Bend will be the place to be on Saturday, December 3rd to get ful
 * 3:00pm-5:00pm - **Holiday Block Party** in the Festival Tent near City Hall
 * 5:00pm - **Annual North Bend Tree Lighting** in Grants Circle Roundabout outside City Hall _(Note: new location this year in downtown North Bend)_
 * 5:30pm-6:30pm - **Meet Santa!** in the Festival Tent near City Hall
-* 6:30pm-7:00pm - **Lighted Truck Parade** cruises through downtown and midtown North Bend. _(Note: new route for parade follows the July Jubilee parade route)_
+* 6:30pm-7:00pm - **Lighted Truck Parade** cruises through downtown and midtown North Bend. _(Note:_ [_Click here_](/img/NBLightedTruckRoute.pdf) _to see the new route for parade, which follows the July Jubilee parade route)_
 
 **More Details on all of these amazing events Coming Soon!**
