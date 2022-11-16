@@ -19,7 +19,7 @@ address:
   zip: 97459
 phone_toll_free: ''
 phone_local: 541-267-7665
-website: https://clambakejazz.com
+website: https://clambakemusic.com/
 seo:
   title: Clambake Music Festival
   description: 'Polish up those dancin’ shoes and get ready for the exciting musical
