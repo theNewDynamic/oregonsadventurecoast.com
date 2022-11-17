@@ -56,16 +56,15 @@ DOWNTOWn COOS BAY HOLIDAY OPEN HOUSE: NOVEMBER 11-12, 2022
 
 The [Coos Bay Downtown Association](https://coosbaydowntown.org/events/) invites you to knock out your holiday shopping and explore the many local businesses that make Downtown Coos Bay a unique destination during the weekend of November 11-12, 2022 during its [Annual Downtown Holiday Open House.](https://coosbaydowntown.org/holiday-events-in-downtown-2/) Enter to win door prizes when you visit participating businesses in Downtown Coos Bay and be sure to keep your receipts to receive a commemorative mug on Shop Small Saturday (see below for more). [Click here to learn more.](https://coosbaydowntown.org/holiday-events-in-downtown-2/)
 
-\**Keep your receipts for all purchases made in Downtown Coos Bay between November 11 and November 26. Collect $100 in receipts, bring those receipts to Jennie’s Shoes (262 Central Ave) and receive a commemorative mug!**
+\*_Keep your receipts for all purchases made in Downtown Coos Bay between November 11 and November 26. Collect $100 in receipts, bring those receipts to Jennie’s Shoes (262 Central Ave) and receive a commemorative mug!_*
 
-  
 CHARLESTON CRAB POT TREE NOVEMBER 22- DECEMBER 31, 2022
 
 ![](/img/ch-crabpot-tree-small.jpg)
 
 _Photo @ Chris at Off the Edge Photography_
 
-Each year, visitors and locals marvel at the beautiful, festive holiday Crab Pot Tree in the parking lot of Fisherman’s Grotto restaurant! The twinkling lights can be seen as you’re driving down Cape Arago Highway and across to the Charleston Marina! 
+Each year, visitors and locals marvel at the beautiful, festive holiday Crab Pot Tree in the parking lot of Fisherman’s Grotto restaurant! The twinkling lights can be seen as you’re driving down Cape Arago Highway and across to the Charleston Marina!
 
 HOLIDAY LIGHTS AT SHORE ACRES STATE PARK: NOVEMBER 24-DECEMBER 31, 2022
 
@@ -73,7 +72,7 @@ HOLIDAY LIGHTS AT SHORE ACRES STATE PARK: NOVEMBER 24-DECEMBER 31, 2022
 
 The dazzling [Holiday Lights at Shore Acres State Park](https://www.oregonsadventurecoast.com/event/annual-holiday-lights-at-shore-acres/) will light up Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston for the first time since 2019! This festive holiday event, brought to us by the [Friends of Shore Acres](https://shoreacres.net/about-us/about-friends-of-shore-acres-inc/), kicks off on Thursday, November 24, 2022 (Thanksgiving Day) and will be on display from 4:00 p.m.-9:00 p.m. each night (including December 24th & 25th) thru December 31, 2022.
 
-\**IMPORTANT: [Oregon State Parks](https://stateparks.oregon.gov/) has implemented [a new timed entry system](https://oregonstateparks.reserveamerica.com/tourList.do?parkId=402381&contractCode=OR) that all park visitors, regardless of residency, must sign up for, **in advance**, or else be turned away. The purpose of the timed entry system is to prevent extreme traffic and maintain visitor’s safety on Cape Arago Highway. [Click here](https://www.oregonsadventurecoast.com/blog/shore-acres-state-park-holiday-lights-has-new-timed-entry-system-for-2022/) to learn more.**
+\*_IMPORTANT:_ [_Oregon State Parks_](https://stateparks.oregon.gov/) _has implemented_ [_a new timed entry system_](https://oregonstateparks.reserveamerica.com/tourList.do?parkId=402381&contractCode=OR) _that all park visitors, regardless of residency, must sign up for, **in advance**, or else be turned away. The purpose of the timed entry system is to prevent extreme traffic and maintain visitor’s safety on Cape Arago Highway._ [_Click here_](https://www.oregonsadventurecoast.com/blog/shore-acres-state-park-holiday-lights-has-new-timed-entry-system-for-2022/) _to learn more._*
 
 TREE LIGHTING AT THE COOS BAY VISITOR CENTER WITH SANTA, PLUS ELF! AT THE EGYPTIAN: NOVEMBER 25, 2022
 
@@ -83,20 +82,17 @@ Santa is coming! Don’t miss our annual tree lighting event November 25, 2022 (
 
 Can’t make it that day? No problem! The EgyptianTheatre will have two screenings of Elf the following day, Saturday, November 26, 2022 at 2pm (featuring a planned appearance from Santa) and again at 7pm. Please note, the 7 pm showing will not include a Santa appearance.
 
-  
 SHOP SMALL SATURDAY - NOVEMBER 26TH
 
 ![](/img/shopping-at-spa.jpg)  
 The [Coos Bay Downtown Association](https://coosbaydowntown.org/holiday-events-in-downtown-2/) encourages shoppers to support our local businesses while holiday shopping on Saturday, November 26, 2022. There will be door prizes and other surprises at participating downtown businesses. Keep your receipts for all purchases made in Downtown Coos Bay between November 11 and November 26, 2022. Collect $100 in receipts, bring those receipts to Jennie’s Shoes (262 Central Ave) and receive a commemorative mug! Shop Small Saturday encourages us to shop at small, local shops this holiday season.
 
-  
 REINDEER ROUNDUP - NOVEMBER 28TH TO DECEMBER 21ST
 
 ![](/img/rukus-the-reindeer-coos-bay.jpg)
 
 Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown instead of going back to the north pole following Santa’s visit. The reindeer will be hiding in businesses downtown. Find the reindeer in participating businesses, take a picture and then fill out an entry form to be entered to win a grand prize. (Business hours vary) The event will end on December 21st when the reindeer will return to the north pole to help Santa deliver toys to children around the world.
 
-  
 EMPIRE DISTRICT TREE LIGHTING AND SANTA PARADE - DECEMBER 2, 2022
 
 ![](/img/empire-tree-lighting-coos-bay.png)  
@@ -104,6 +100,18 @@ The Empire District of Coos Bay will host their own Tree Lighting on December 2,
 
 _*The Empire District borders the bayfront adjacent to Empire Blvd from Wisconsin Avenue north to the shoreline in Coos Bay. At the intersection of Empire Blvd and Newmark Avenue, east on either side of Newmark Avenue to the intersection with Ocean Blvd, east to the property line between Norman Avenue and LaClair Street._
 
-Details Coming Soon for the North Bend Tree Lighting, Annual North Bend Christmas Cruise and the North Bend Lighted Truck Parade. [Please click here](https://www.oregonsadventurecoast.com/event/christmas-at-the-coast/) for the most current information.
+NORTH BEND TREE LIGHTING, FESTIVAL ON MAIN & LIGHTED TRUCK PARADE!
+
+Downtown North Bend will be the place to be on Saturday, December 3rd to get fully into the Holiday Spirit! Events begin at 9am and go all the way until 7pm! There is something for everyone throughout the day.
+
+* 9:00am-11:00am - **Waffles with Santa!** at the North Bend Fire Station
+* 10:00am - Noon - **Storytime with Mrs. Clause** at the North Bend Public Library
+* 1:00pm-3:00pm - **Christmas on Main Street** in downtown North Bend
+* 3:00pm-5:00pm - **Holiday Block Party** in the Festival Tent near City Hall
+* 5:00pm - **Annual North Bend Tree Lighting** in Grants Circle Roundabout outside City Hall _(Note: new location this year in downtown North Bend)_
+* 5:30pm-6:30pm - **Meet Santa!** in the Festival Tent near City Hall
+* 6:30pm-7:00pm - **Lighted Truck Parade** cruises through downtown and midtown North Bend. _(Note:_ [_Click here_](https://www.oregonsadventurecoast.com/img/NBLightedTruckRoute.pdf) _to see the new route for parade, which follows the July Jubilee parade route)_
+
+ [Please click here](https://www.oregonsadventurecoast.com/event/christmas-at-the-coast/) for the most current information.
 
 Want more inspiration? Visit our [Adventure Page](https://www.oregonsadventurecoast.com/adventures/) for more resources to plan the perfect Oregon Coast getaway! [Click here for directions](https://www.oregonsadventurecoast.com/travelers-info/) and other important travel tips, or [contact ](https://www.oregonsadventurecoast.com/contact/)one of our friendly volunteers at the Coos Bay Visitor Information Center on Oregon’s Adventure Coast and start planning your trip today!
