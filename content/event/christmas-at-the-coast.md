@@ -57,6 +57,12 @@ More info on this very special holiday event, brought to us by the [**Friends of
 
 {{< spacer 50>}}
 
+#### {{< floatimage src="img/Historic-Railway-Museum-Train-Lights.jpg" float="left" alt="Historic Railway Lights" size="40" >}}November 24-January 1 <br>Oregon Coast Historic Railway Museum Lights
+
+Right in downtown Coos Bay is another spectacular holiday lights display - vintage railroad engines, cabooses and other equipment festooned in 100,000 lights and ornaments! You cannot miss this beautiful display as you travel along Hwy 101 through Coos Bay! View the lights from your vehicle or from the sidewalk in front of the museum. The display is always FREE! Youngsters will love spying the stuffed animals inside the windows of the train! The lights are illuminated from dusk until 11pm every night through New Year's Day.
+
+{{< spacer 50>}}
+
 #### {{< floatimage src="img/cbtreelighting-35-web-only.jpg" float="left" alt="Coos Bay's Lighted Tree" size="40" >}}November 25th <br>Tree Lighting at the Coos Bay Visitor Center with Santa, Plus ELF! at The Egyptian
 
 Join Santa at the Coos Bay Visitor Center for the Coos Bay Tree Lighting! The evening begins with cookies and cider in the Visitor Center at 4:30pm. Santa and the Mayor of Coos Bay will light the tree at 5:30pm. Following the tree lighting, follow Santa and the parade of revelers to The Egyptian Theatre as we return to the tradition of watching **Elf** after the tree lighting! Santa will sit on stage and listen to the wishes of the boys and girls. Elf will begin at about 7pm. Don't forget your balled up white socks for the snowball fight!!!
@@ -107,7 +113,7 @@ The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, 
 
 Downtown North Bend will be the place to be on Saturday, December 3rd to get fully into the Holiday Spirit! Events begin at 9am and go all the way until 7pm! There is something for everyone throughout the day.
 
-* 9:00am-11:00am - **Waffles with Santa!** at the North Bend Fire Station - [Reserve Your Time](https://www.eventbrite.com/e/waffles-with-santa-tickets-464666488977) - this event is FREE but only 50 children (with guardians) can attend per time slot. Time slots are 9:00am, 9:30am, 10:00am and 10:30am. 
+* 9:00am-11:00am - **Waffles with Santa!** at the North Bend Fire Station - [Reserve Your Time](https://www.eventbrite.com/e/waffles-with-santa-tickets-464666488977) - this event is FREE but only 50 children (with guardians) can attend per time slot. Time slots are 9:00am, 9:30am, 10:00am and 10:30am.
 * 10:00am - Noon - **Storytime with Mrs. Claus** at the North Bend Public Library - Mrs. Claus will conduct two identical storytimes at 10am and 11am! After Storytime, children can write letters to Santa and make "magic" reindeer food! The event is FREE and has a capacity of 100 per session.
 * 1:00pm-3:00pm - **Christmas on Main Street** in downtown North Bend
 * 3:00pm-5:00pm - **Holiday Block Party** in the Festival Tent near City Hall
