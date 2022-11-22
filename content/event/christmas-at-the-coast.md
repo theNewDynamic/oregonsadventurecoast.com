@@ -57,13 +57,13 @@ More info on this very special holiday event, brought to us by the [**Friends of
 
 {{< spacer 50>}}
 
-#### {{< floatimage src="img/Historic-Railway-Museum-Train-Lights.jpg" float="left" alt="Historic Railway Lights" size="40" >}}November 24-January 1 <br>Oregon Coast Historic Railway Museum Lights
+#### {{< floatimage src="img/historic-railway-museum-train-lights-web.jpg" float="left" alt="Historic Railway Lights" size="40" >}}November 24-January 1 <br>Oregon Coast Historic Railway Museum Lights
 
 Right in downtown Coos Bay is another spectacular holiday lights display - vintage railroad engines, cabooses and other equipment festooned in 100,000 lights and ornaments! You cannot miss this beautiful display as you travel along Hwy 101 through Coos Bay! View the lights from your vehicle or from the sidewalk in front of the museum. The display is always FREE! Youngsters will love spying the stuffed animals inside the windows of the train! The lights are illuminated from dusk until 11pm every night through New Year's Day.
 
 {{< spacer 50>}}
 
-#### {{< floatimage src="img/cbtreelighting-35-web-only.jpg" float="left" alt="Coos Bay's Lighted Tree" size="40" >}}November 25th <br>Tree Lighting at the Coos Bay Visitor Center with Santa, Plus ELF! at The Egyptian
+#### {{< floatimage src="img/cbtreelighting-35-web-only.jpg" float="right" alt="Coos Bay's Lighted Tree" size="40" >}}November 25th <br>Tree Lighting at the Coos Bay Visitor Center with Santa, Plus ELF! at The Egyptian
 
 Join Santa at the Coos Bay Visitor Center for the Coos Bay Tree Lighting! The evening begins with cookies and cider in the Visitor Center at 4:30pm. Santa and the Mayor of Coos Bay will light the tree at 5:30pm. Following the tree lighting, follow Santa and the parade of revelers to The Egyptian Theatre as we return to the tradition of watching **Elf** after the tree lighting! Santa will sit on stage and listen to the wishes of the boys and girls. Elf will begin at about 7pm. Don't forget your balled up white socks for the snowball fight!!!
 
