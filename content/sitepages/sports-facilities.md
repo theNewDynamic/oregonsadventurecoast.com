@@ -12,8 +12,8 @@ Here in the Coos Bay, North Bend, Charleston Area we love Sports. Maybe its beca
 Let us know what we can do to help. Our facilities, our lodging properties and our community want you here! E-mail us today at [mailto:info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com). And take a look at the [Oregon Sports Planning Guide: Coos Bay/North Bend](https://sportsplanningguide.com/sand-seafood-and-surf-the-escapades-are-boundless-on-oregons-adventure-coast/) for more information on all facilities.
 
 * **Community Baseball & Soccer Fields**
-* **Marshfield High School –** Basketball, Baseball, Dance & Exercise, Soccer, Track & Field, Volleyball, Wrestling.
-* **North Bend High School –** Basketball, Baseball, Dance & Exercise, Soccer, Track & Field, Volleyball, Wrestling.
+* **Marshfield High School –** Basketball, Baseball, Football, Dance & Exercise, Soccer, Track & Field, Volleyball, Wrestling.
+* **North Bend High School –** Basketball, Baseball, Football, Dance & Exercise, Soccer, Track & Field, Volleyball, Wrestling.
 * **Southwestern Oregon Boys & Girls Club –** Dance & Exercise, Gymnastics, Tennis
 * **Southwestern Oregon Community College Facilities –** Basketball, Baseball, Dance & Exercise, Racquetball, Rock Climbing, Rugby, Soccer, Track & Field, Volleyball, Wrestling,
 * **Swimming Pools**
