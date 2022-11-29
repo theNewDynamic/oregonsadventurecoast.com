@@ -22,13 +22,19 @@ We often get questions about the importance of tourism to our local economy. We 
 
 **Q: What is Tourism and Why is it So Important to our Communities?**
 
-A: **Travel and Tourism bring outside money into our economy** when visitors from more than 50 miles away come to our communities for recreation, overnight stays, to visit friends and family, and to conduct business. This outside money adds to the economic vitality of our communities. See our latest Economic Impact Statement.
+A: **Travel and Tourism bring outside money into our economy** when visitors from more than 50 miles away come to our communities for recreation, overnight stays, to visit friends and family, and to conduct business. This outside money adds to the economic vitality of our communities. See our latest [Economic Impact Statement](/img/eof-one-sheet.pdf).
 
 {{< spacer 50 >}}
 
 {{< floatimage src="img/travel-spend-flow-copy.png" float="left" alt="This is how Travel Spending impacts our Community" size="40" >}}**Q: How does this Outside Money add to our economic vitality?**
 
 A: These monies are spent on lodging, dining, attractions, shopping and more. Proprietors of these businesses then spend those funds on payroll, buying goods and services, paying rent and other such expenses. [See this Chart](/img/travel-spend-flow-copy.png) for more on how tourist dollars are spread out around our communities.
+
+{{< spacer 50 >}}
+
+**Q: How much money are we talking about?**
+
+A: In real dollars, the Tourism sector is our third largest industry in Coos County. In 2019, **visitors to Coos County spent more than $277 Million** on accommodations, dining & groceries, arts, recreation, entertainment, shopping and more. During the pandemic, this spending dropped by almost $100 Million, primarily in our retail and restaurant sectors, but also in our arts, recreation, and entertainment sector. Post-pandemic, in 2021, we saw a recovery of more than half the amount we lost, or $58 Million in visitor spending, and expect that in 2022 we will see our visitor spending close to the high we saw in 2019.
 
 {{< spacer 50 >}}
 
@@ -62,4 +68,4 @@ A: Oregon's Adventure Coast is the **Brand** we use to market the Coos Bay, Nort
 
 {{< spacer 100 >}}
 
-**Do you have more questions that were not addressed here? Please email Janice Langlinais, Executive Director of the VCB, at** [**janice@VisitOAC.com**](mailto:janice@VisitOAC.com)**.** 
+**Do you have more questions that were not addressed here? Please email Janice Langlinais, Executive Director of the VCB, at** [**janice@VisitOAC.com**](mailto:janice@VisitOAC.com)**.**
