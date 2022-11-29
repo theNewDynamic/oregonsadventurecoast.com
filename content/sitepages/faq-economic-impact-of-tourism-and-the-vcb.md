@@ -47,10 +47,16 @@ A: Contrary to popular belief, visitors don't just show up in a destination! Not
 
 **Q: When was the VCB created and how is it Funded?**
 
-A: The VCB was created through an **Intergovernmental Agreement** between the cities of Coos Bay & North Bend in the late 1990s. In 2010, the Coquille Indian Tribe was added to the agreement and in 2022, Coos County was added when Coos County voters approved lodging tax in a prescribed area around Charleston. The Lodging Tax rate for our area is 9.5%. This is collected for overnight stays at lodging properties in the Coos Bay, North Bend, and Charleton area, as well as at the Coquille Indian Tribe properties of The Mill Casino * Hotel & RV Park. The VCB receives approximately 39% of all lodging taxes collected by our four funding partners. 
+A: The VCB was created through an **Intergovernmental Agreement** between the cities of Coos Bay & North Bend in the late 1990s. In 2010, the Coquille Indian Tribe was added to the agreement and in 2022, Coos County was added when Coos County voters approved lodging tax in a prescribed area around Charleston. The Lodging Tax rate for our area is 9.5%. This is collected for overnight stays at lodging properties in the Coos Bay, North Bend, and Charleton area, as well as at the Coquille Indian Tribe properties of The Mill Casino * Hotel & RV Park. **The VCB receives approximately 39% of all lodging taxes collected by our four funding partners** to conduct our programs.
 
 {{< spacer 50 >}}
 
-**Q: So, then what is Oregon's Adventure Coast? And how is that related to the VCB?**
+**Q: How does the Coos Bay Visitor Information Center fit into all of this?**
+
+A: In 2019, the City of Coos Bay approached the VCB to bring Visitor Services under the umbrella of the VCB. As Visitor Services are an integral part of any destination marketing effort, bring the Visitor Center under the VCB made organizational sense. The Visitor Center is managed by a staff member of the VCB and manned by a cadre of volunteers.
+
+{{< spacer 50 >}}
+
+{{< floatimage src="img/oac-logo-2018-sm.jpg" float="left" alt="Oregon's Adventure Coast" size="40" >}}**Q: So, then what is Oregon's Adventure Coast? And how is that related to the VCB?**
 
 A: Oregon's Adventure Coast is the Brand we use to market the Coos Bay, North Bend, and Charleston area. It speaks to the abundance of adventures to be found along our part of the Oregon Coast. Recently we added our community names to our brand to ensure visitors know we are promoting this specific part of the coast!
