@@ -28,13 +28,13 @@ A: **Travel and Tourism bring outside money into our economy** when visitors fro
 
 {{< floatimage src="img/travel-spend-flow-copy.png" float="left" alt="This is how Travel Spending impacts our Community" size="40" >}}**Q: How does this Outside Money add to our economic vitality?**
 
-A: These monies are spent on lodging, dining, attractions, shopping and more. Proprietors of these businesses then spend those funds on payroll, buying goods and services, paying rent and other such expenses. [See this Chart](/img/travel-spend-flow-copy.png) for more on how tourist dollars are spread out around our communities.
+A: These monies are spent on lodging, dining, attractions, shopping and more. Proprietors of these businesses then spend those funds on payroll, buying goods and services, paying rent, and other such expenses. [See this Chart](/img/travel-spend-flow-copy.png) for more on how tourist dollars are spread out around our communities.
 
 {{< spacer 50 >}}
 
 **Q: How much money are we talking about?**
 
-A: In real dollars, the Tourism sector is our third largest industry in Coos County. In 2019, **visitors to Coos County spent more than $277 Million** on accommodations, dining & groceries, arts, recreation, entertainment, shopping and more. During the pandemic, this spending dropped by almost $100 Million, primarily in our retail and restaurant sectors, but also in our arts, recreation, and entertainment sector. Post-pandemic, in 2021, we saw a recovery of more than half the amount we lost, or $58 Million in visitor spending, and expect that in 2022 we will see our visitor spending close to the high we saw in 2019.
+A: In real dollars, the Tourism sector is our third largest industry in Coos County. In 2019, **visitors to Coos County spent more than $277 Million** on accommodations, dining & groceries, arts, recreation, entertainment, shopping, and more. During the pandemic, this spending dropped by almost $100 Million, primarily in our retail and restaurant sectors, but also in our arts, recreation, and entertainment sector. Post-pandemic, in 2021, we saw a recovery of more than half the amount we lost, or $58 Million in visitor spending, and expect that in 2022 we will see our visitor spending close to the high we saw in 2019.
 
 {{< spacer 50 >}}
 
@@ -58,7 +58,7 @@ A: The VCB was created through an **Intergovernmental Agreement** between the ci
 
 **Q: How does the Coos Bay Visitor Information Center fit into all of this?**
 
-A: In 2019, the City of Coos Bay approached the VCB to bring Visitor Services under the umbrella of the VCB. As Visitor Services are an integral part of any destination marketing effort, bring the Visitor Center under the VCB made organizational sense. The Visitor Center is managed by a staff member of the VCB and manned by a cadre of volunteers.
+A: In 2018, the City of Coos Bay approached the VCB to bring Visitor Services under the umbrella of the VCB. As Visitor Services are an integral part of any destination marketing effort, bringing the Visitor Center under the VCB made organizational sense. The Visitor Center is managed by a staff member of the VCB and manned by a cadre of volunteers.
 
 {{< spacer 50 >}}
 
