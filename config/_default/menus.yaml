@@ -90,3 +90,6 @@ open_meetings:
 - url: /about-the-vcb
   name: About the VCB
   weight: 40
+- url: /faq
+  name: FAQ
+  weight: 50
