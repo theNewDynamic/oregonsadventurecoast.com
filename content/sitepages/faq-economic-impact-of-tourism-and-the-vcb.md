@@ -12,7 +12,6 @@ seo:
 aliases: []
 accordion_sections: []
 boxes: []
-draft: true
 
 ---
 ### FREQUENTLY ASKED QUESTIONS
@@ -59,4 +58,8 @@ A: In 2019, the City of Coos Bay approached the VCB to bring Visitor Services un
 
 {{< floatimage src="img/oac-logo-2018-sm.jpg" float="left" alt="Oregon's Adventure Coast" size="40" >}}**Q: So, then what is Oregon's Adventure Coast? And how is that related to the VCB?**
 
-A: Oregon's Adventure Coast is the Brand we use to market the Coos Bay, North Bend, and Charleston area. It speaks to the abundance of adventures to be found along our part of the Oregon Coast. Recently we added our community names to our brand to ensure visitors know we are promoting this specific part of the coast!
+A: Oregon's Adventure Coast is the **Brand** we use to market the Coos Bay, North Bend, and Charleston area. It speaks to the abundance of adventures to be found along our part of the Oregon Coast. Recently we added our community names to our brand to ensure visitors know we are promoting this specific part of the coast!
+
+{{< spacer 100 >}}
+
+**Do you have more questions that were not addressed here? Please email Janice Langlinais, Executive Director of the VCB, at** [**janice@VisitOAC.com**](mailto:janice@VisitOAC.com)**.** 
