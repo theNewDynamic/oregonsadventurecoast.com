@@ -1,6 +1,6 @@
 ---
 title: A Two-Day Oregon Coast Whale Watching Trip Itinerary-(copy)
-date: 2019-11-26T05:00:00.000+00:00
+date: 2022-12-07T05:00:00+00:00
 description: 'Visitors will have an amazing opportunity to see some of the thousands
   of Gray whales migrating south in the Pacific Ocean during Winter Whale Watch Week:
   Friday, December 27th through Tuesday, December 31st. To help you plan your trip,
