@@ -21,13 +21,6 @@ Throughout the year, low tides provide access to a bountiful resource here: clam
 
 And no trip to **Oregon’s Adventure Coast** is complete without Dungeness crab, and the best crab are always the ones you bring up yourself from the waters of lower Coos Bay. Rent or buy a crab ring and try your luck; the payoff will be a fresh crab feast you’ll always remember. And you’ll keep coming back for more! Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores often rent and sell rings. Here’s a short list of some locations:
 
-**Basin Tackle Shop**  
-63510 Kingfisher Road  
-Charleston, OR 97420  
-(541) 888-FISH  
-[www.BasinTackle.com](http://www.basintackle.net/)  
-Crab ring rentals, bait, tackle, information and advice. Call for updated conditions.
-
 **Davey Jones Locker**  
 Cape Arago Highway & Boat Basin Road  
 Charleston, OR 97420  
