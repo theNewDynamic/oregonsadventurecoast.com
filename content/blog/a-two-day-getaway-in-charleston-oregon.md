@@ -89,7 +89,7 @@ When you’ve had your fill of nature, grab a quick bite at [Monkey Business Foo
 * Gloves
 * Bait holders and bait supply
 
-Our local crabbing experts are always happy to help point you in the right direction! Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores like [Basin Tackle Shop](https://www.facebook.com/basintacklecharleston/) and Davey Jones Locker. [Click here](https://www.oregonsadventurecoast.com/blog/2020-1-22-the-best-dungeness-crab-on-oregons-coast/) for more crabbing tips.
+Our local crabbing experts are always happy to help point you in the right direction! Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores like Davey Jones Locker. [Click here](https://www.oregonsadventurecoast.com/blog/2020-1-22-the-best-dungeness-crab-on-oregons-coast/) for more crabbing tips.
 
 ![](/img/charleston-oregon-travel-itinerary-blog-695x322-jpg-3.png)
 

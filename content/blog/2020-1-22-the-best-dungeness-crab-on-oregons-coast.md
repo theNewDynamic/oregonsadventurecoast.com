@@ -55,12 +55,6 @@ Make sure you have the following supplies before you head out along with the oth
 
 Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores. Here’s a short list of some locations:
 
-**Basin Tackle Shop**  
-63510 Kingfisher Road, Charleston, OR 97420  
-(541) 888-FISH  
-Open Mon-Sat 8am-5pm; Sun 8am-Noon  
-[www.basintackle.com](http://www.basintackle.com/)
-
 **Davey Jones Locker**  
 Cape Arago Highway & Boat Basin Road  
 Charleston, OR 97420  
