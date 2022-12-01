@@ -19,7 +19,7 @@ If you’ve been anywhere along the Oregon Coast, you’ve probably heard a lot 
 
 The low tides commonly found from Empire to Charleston make our region one of the top destinations for clam digging. Around here, the most popular clams are bay clams, which include gaper clams, butter clams, cockles and littleneck clams.
 
-Local bait and tackle shops are usually the best resource for first (and second, third, fourth) time clammers and can usually advise on conditions, regulations, equipment, etc. 
+Local bait and tackle shops are usually the best resource for first (and second, third, fourth) time clammers and can usually advise on conditions, regulations, equipment, etc.  If you are staying at [Bay Point Landing](https://baypointlanding.com/), check out their clamming equipment and clam right along the bay in front of the property.
 
 {{< spacer 20 >}}
 
