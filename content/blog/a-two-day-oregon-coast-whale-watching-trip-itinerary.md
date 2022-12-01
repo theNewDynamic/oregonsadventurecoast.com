@@ -50,7 +50,7 @@ Afterward, go for a stroll along the [Charleston Marina Complex](https://www.por
 After your big morning of adventure, head to one of the popular Charleston, Oregon lunch spots like [High Tide Café](http://hightidecafeoregon.com/) (order the clam chowder!) or [Millers at the Cove](https://www.millersatthecove.rocks/) (order the fish & chips!).
 
 **AFTERNOON**  
-After a delicious lunch, head to the [Charleston Marine Life Center.](http://www.charlestonmarinelifecenter.com/) This kid-friendly destination will entertain and educate kids of all ages for the afternoon. Attractions include an aquarium highlighting different coastal ecosystems, a tide pool touch tank, whale and sea lion skeletons, and underwater video from deep reefs and undersea volcanoes -OR- if you’re feeling adventurous and want a “true” Oregon Coast experience later in the day, be sure to stop by [Basin Tackle Shop](http://www.basintackle.net/) to find out how you can catch your own fresh Dungeness crab for dinner (ask for Rob!).
+After a delicious lunch, head to the [Charleston Marine Life Center.](http://www.charlestonmarinelifecenter.com/) This kid-friendly destination will entertain and educate kids of all ages for the afternoon. Attractions include an aquarium highlighting different coastal ecosystems, a tide pool touch tank, whale and sea lion skeletons, and underwater video from deep reefs and undersea volcanoes.
 
 **LATE AFTERNOON/EARLY EVENING**  
 If possible, go see Shore Acres Holiday Lights before you head for dinner (it will be less crowded earlier in the day). The whimsical display features 325,000 LED lights, garden landscape lighting, holiday trees, and dozens of lighted sculptures including life-size whales, animated sea lions, an undersea garden, Koi underwater in the pond, a leaping frog in the pond, leaping dolphins and more. We recommend beating the crowds and arriving early so you can enjoy the beautiful view at the sea wall, browse through the Information & Gift Center (opens at 3:30 p.m.) and see the spectacular gardens before it gets dark. Besides, you will want to experience the magical transformation of the lights at dusk. The display runs until December 31, 2019, admission is free but parking is $5 (bring cash). A current State Park Pass, Coastal Pass or current Campground Receipt will also get you in the park!
@@ -61,7 +61,6 @@ Wrap up a big day of adventure with a delicious dinner at one of our local estab
 * [Shark Bites Seafood Cafe ](https://www.facebook.com/sharkbitesseafoodcafe/)– Famous for fish tacos, located in the heart of downtown Coos Bay.
 * [Coney Station](https://www.facebook.com/ConeyStation/) – A popular sports bar and pub with great food and live music and karaoke at night. In Coos Bay.
 * [Liberty Pub ](https://www.facebook.com/TheLibertyPub/)– A relaxed and comfortable place to enjoy great pizza and beer. In downtown North Bend.
-* [Zen Authentic Thai & Sushi Bar ](https://zenthaisushi.com/)– Everything you’d want – authentic Thai and fresh, unique sushi. In North Bend.
 * [7 Devils Brewing Co](https://www.7devilsbrewery.com/) – A popular local hang out with live music, great beer, and amazing food. You can also pick up some of their tasty ale to take home or gift. In Coos Bay
 
 ### WINTER WHALE WATCHING TRIP DAY TWO
@@ -78,10 +77,9 @@ On your way back to Coos Bay, make sure to stop by [Cranberry Sweets Factory Sto
 **LUNCH**  
 Some of our favorite lunch spots for Day #2 include:
 
-* [Wildflour Cafe](https://www.wildflour-catering.com/) - Specializes in sandwiches, salads, comfort foods, pastries and vegetarian dishes made with fresh, locally sourced ingredients. Open Monday through Friday. In downtown North Bend.
 * [Tin Thistle](https://www.facebook.com/thetinthistlecafe/)- A Celtic themed whole foods vegan café featuring pasties, village bowls, vegetarian burgers, soup, pies, and smoothies. In downtown North Bend.
 * [Fishermen’s Seafood Market](https://fishermensseafoodmarket.com/) – The “official home of West Coast Clams” - a fresh seafood market with a select menu that includes amazing fish tacos, fish & chips, clam chowder, and fresh crab. Located on the docks at the Coos Bay Boardwalk directly across from the Coos Bay Visitor Center. Delicious.
-* [Bayside Bakery Grill](https://www.baysidebakerygrill.com/) – A family-run, independent bakery, grill & cafe offering high-quality fresh-baked pastries, 100% Arabica coffee from around the world, as well as hot grilled Italian Panini sandwiches, & gourmet burgers. In the Pony Village Mall where you might find some great after Christmas sales.
+* OR try another wonderful [local restaurant](https://www.oregonsadventurecoast.com/dining/) in Coos Bay, North Bend or Charleston
 
 **AFTERNOON**  
 Get a sense of Coos Bay’s history and culture with a visit to the [Coos History Museum](https://cooshistory.org/). Exhibits will give visitors a glimpse into what life was like on Oregon’s South Coast in years past and our important connection with Native Americans and various industries like logging, fishing, and manufacturing. Don’t miss the gift shop – it’s a great place to find some hidden treasures and fun souvenirs.
