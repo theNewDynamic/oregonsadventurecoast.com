@@ -1,6 +1,6 @@
 ---
 title: Coos Bay, Oregon Named Among 50 Best Places to Travel in 2023
-date: 2022-11-17T05:00:00+00:00
+date: 2022-11-17T05:00:00.000+00:00
 description: "Online guide Travel Lemming names Coos Bay, Oregon to position #40 on
   its annual list of the world’s 50 best travel destinations.\n\n"
 image: "/img/oac-ocean-cliff-photo-blog-695x322.jpg"
@@ -33,7 +33,7 @@ warning_copy: ''
 ---
 Online guide [Travel Lemming](https://travellemming.com/) names Coos Bay, Oregon to position #40 on its annual list of the world’s 50 best travel destinations.
 
-Coos Bay, Oregon wa named one of the 50 best places to travel in the world in 2023 by [Travel Lemming](https://travellemming.com/) , a US-based online travel guide read by more than 6 million travelers.
+Coos Bay, Oregon was named one of the 50 best places to travel in the world in 2023 by [Travel Lemming](https://travellemming.com/) , a US-based online travel guide read by more than 6 million travelers.
 
 The annual [list of 50 best places to travel](https://travellemming.com/best-places-to-travel-2023/) highlights emerging destinations and hidden gems around the world.
 
