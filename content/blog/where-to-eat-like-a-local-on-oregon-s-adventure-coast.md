@@ -163,7 +163,7 @@ _63534 Kingfisher Road Charleston, OR 541-260-4145_ [_monkey-business-food-to-go
 
 LeeAnn S. recommends “Fish & Chowder from Captain's Choice in North Bend. You can have the fish a variety of ways. Not only fried!! Fresh fish. Your choice!! Delicious!!” Seafood and chowder, and of course fish 'n chips! Open daily at 11:30am.
 
-_1210 Virginia Avenue North Bend, OR 97459 (541)756-0125_ [_www.captainschoicefishhouse.com_](www.captainschoicefishhouse.com)
+_1210 Virginia Avenue North Bend, OR 97459 (541)756-0125_ [_www.captainschoicefishhouse.com_](http://www.captainschoicefishhouse.com/)
 
 {{< spacer 50 >}}
 
