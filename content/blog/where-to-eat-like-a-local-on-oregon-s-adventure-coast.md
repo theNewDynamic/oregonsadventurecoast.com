@@ -67,7 +67,7 @@ _63383 Kingfisher Rd. Charleston, OR 97420 541-888-5544_ [_www.portsiderestauran
 
 ### Clausen Oyster Deli
 
-Dawn E. also says “Oh and don't forget Clausen Oysters in North Bend![😋](https://lh4.googleusercontent.com/mH3AjA7UwuxbK-IVVXDcFcwJVBTG7qxFFvnHCGsxLfmE8RPFWLdK4h3X5LR1gnQzQV-9ovvS8t-BKEHdGefpPHNHk9xq26MlY6wpVJIm66NKX0zWZ-hA9NnFpHHhVCGIMEvSMd0IXvlFjXG02uf4zmDbwxs0icm3G9oP1ilmc0xHDgz5QibEDMiTtOT-4Q =16x16) the best!” Oyster Farm & Bayside Restaurant/Deli offers Craft Beer, Select Wines, and Lunch Menu with patio seating. WINTER HOURS: Weds - Sun 10am-4pm, Closed Mon & Tues. Located north of the McCullough Bridge.
+Dawn E. also says “Oh and don't forget Clausen Oysters in North Bend the best!” Oyster Farm & Bayside Restaurant/Deli offers Craft Beer, Select Wines, and Lunch Menu with patio seating. WINTER HOURS: Weds - Sun 10am-4pm, Closed Mon & Tues. Located north of the McCullough Bridge.
 
 _66234 North Bay Road North Bend, OR 97459 (541)756-3600_ [_www.clausenoysters.com/restaurant_](https://www.clausenoysters.com/restaurant/)
 
@@ -159,7 +159,7 @@ _1210 Virginia Avenue North Bend, OR 97459 (541)756-0125 www.captainschoicefishh
 
 ## Got a hankering for German food? Try Blue Heron Bistro in Coos Bay!
 
-###### ![](/img/oregon-s-adventure-coast-dining-options-blue-heron-bistro-german-food.jpg)_Photo @Blue Heron Bistro_ 
+###### ![](/img/oregon-s-adventure-coast-dining-options-blue-heron-bistro-german-food.jpg)_Photo @Blue Heron Bistro_
 
 Dion R. is a fan of The Oktoberfest at Blue Heron Bistro, while Stefani Ann E. recommends their Jagerschnitzel. Blue Heron is located in downtown Coos Bay and serves German specialties along with amazing seafood, and, of course, a secret recipe chowder. Choose from 18 micro brews and imported beers on draft. The outdoor patio is open in the summer. Open Tues-Sat 4pm-8pm, Sunday 10am-2pm for brunch & 4pm-7pm for dinner.
 
