@@ -35,6 +35,8 @@ It's a little known secret that **Oregon’s Adventure Coast: Coos Bay, North Be
 
 If you're looking for an experience that is distinctly Oregonian in nature, try something different and experience our restaurant scene like a local. Be sure to [download our local restaurant guide](https://www.oregonsadventurecoast.com/img/Restaurants-BOOKLET.pdf) to carry with you, or visit[ oregonsadventurecoast.com/dining](https://oregonsadventurecoast.com/dining/) to learn more about dining options. When hunger strikes, here are some delicious dishes (listed in no particular order) recommended by locals and experienced visitors:
 
+{{< spacer 50 >}}
+
 ## Looking for fresh seafood? Locals recommend these options:
 
 ![](/img/oregon-s-adventure-coast-dining-options-crab-cakes-shark-bites.jpg)
@@ -85,6 +87,8 @@ Jennifer Ivie W. is a fan of “Fried Albacore Tuna with a side of poutine at 7 
 
 _247 S. 2nd St Coos Bay, OR (541)808-3738_ [_www.7devilsbrewery.com_](https://www.7devilsbrewery.com/)
 
+{{< spacer 50 >}}
+
 ## Looking for a great breakfast spot? We’ve got you covered. Locals recommend:
 
 ![](/img/oregon-s-adventure-coast-dining-options-breakfast.jpg)
@@ -113,6 +117,8 @@ Jae S. recommends their Cinnamon Roll Pancakes. This 24 hour family restaurant s
 
 _2265 Newmark North Bend, OR 97459 541-756-1214_ [_www.kozykitchenrestaurants.com_](https://www.kozykitchenrestaurants.com/)
 
+{{< spacer 50 >}}
+
 ## In the mood for Fish Tacos? Locals recommend:
 
 ![](/img/oregon-s-adventure-coast-dining-options-fish-tacos.jpg)
@@ -135,6 +141,8 @@ Heidi E. and Stefani Ann E. both recommend the delicious Fish Tacos at Miller’
 
 _63346 Boat Basin Rd. Charleston, OR 97420 541-808-2404_ [_millersatthecove.rocks_](https://millersatthecove.rocks/)
 
+{{< spacer 50 >}}
+
 ## In the mood for a heaping bowl of Clam Chowder? Try these local establishments:
 
 ![](/img/oregon-s-adventure-coast-dining-options-clam-chowder.jpg)
@@ -155,7 +163,9 @@ _63534 Kingfisher Road Charleston, OR 541-260-4145_ [_monkey-business-food-to-go
 
 LeeAnn S. recommends “Fish & Chowder from Captain's Choice in North Bend. You can have the fish a variety of ways. Not only fried!! Fresh fish. Your choice!! Delicious!!” Seafood and chowder, and of course fish 'n chips! Open daily at 11:30am.
 
-_1210 Virginia Avenue North Bend, OR 97459 (541)756-0125 www.captainschoicefishhouse.com_
+_1210 Virginia Avenue North Bend, OR 97459 (541)756-0125_ [_www.captainschoicefishhouse.com_](www.captainschoicefishhouse.com)
+
+{{< spacer 50 >}}
 
 ## Got a hankering for German food? Try Blue Heron Bistro in Coos Bay!
 
@@ -165,17 +175,23 @@ Dion R. is a fan of The Oktoberfest at Blue Heron Bistro, while Stefani Ann E. r
 
 _100 W Commercial Avenue Coos Bay, OR 97420 541-267-3933_ [_www.facebook.com/Blueheronbistro_](https://www.facebook.com/Blueheronbistro)
 
+{{< spacer 50 >}}
+
 ## Craving Pizza? Give Front Street Provisioners in Coos Bay a try!
 
 ![](/img/oregon-s-adventure-coast-dining-options-pizza.jpg)April B. recommends their pizza and loves their gluten free crust! Front Street Provisioners is a wood-fired Neapolitan-style pizzeria and cafe, wine/retail shop and an event hall on Coos Bay’s historic waterfront. This women-owned and operated establishment has a passion for creating community and enhancing regional identity. During summer months, guests may enjoy dining on the outdoor patio. Open Thursday - Monday, 11:30am-10pm.
 
 _737 N. Front St. Coos Bay, OR 97420 541-808-3420_ [_frontstreetprovisionersmenu.square.site_](https://frontstreetprovisionersmenu.square.site/)
 
-## Want Sushi? Sumin's Restaurant & Sushi Bar in Coos Bay is a good bet!
+{{< spacer 50 >}}
+
+## How about some Sushi? Sumin's Restaurant & Sushi Bar in Coos Bay is a good bet!
 
 ![](/img/oregon-s-adventure-coast-dining-options-sushi.jpg)Lisa S. recommends their OMG Roll. A great blend of Korean, Japanese and Chinese favorites. Open daily.
 
 298 South Broadway Coos Bay, OR 541-267-0119 [www.facebook.com/SuminsRestaurantCoosBay](https://www.facebook.com/SuminsRestaurantCoosBay)
+
+{{< spacer 50 >}}
 
 ## Got a hankering for a tasty Burger or Sandwich?
 
@@ -199,6 +215,8 @@ Tiffini C. says she’s a fan of the “Garbage Grinder Luigi’s Italian Sandwi
 
 _Newmark Ave. Coos Bay, OR 97420 (541) 888-9407_ [_www.facebook.com/Luigis-Italian-Sandwiches_](https://www.facebook.com/Luigis-Italian-Sandwiches-140543963550/)
 
+{{< spacer 50 >}}
+
 ## Celebrating a Special Occasion?
 
 ![](/img/oregon-s-adventure-coast-dining-options-restaurant-o-fine-dining.jpg)
@@ -215,6 +233,8 @@ Master Blaster of Coos Bay recommends “Steak Frites Wildflour Public House!!! 
 
 _1987 Sherman Ave. North Bend, OR 97459 541-808-3633_ [_www.wildflourpub.com/home_](http://www.wildflourpub.com/home)
 
+{{< spacer 50 >}}
+
 ## More Ideas
 
 “Steak salad from Coach House in Coos Bay!” - Macie
@@ -227,9 +247,13 @@ _1987 Sherman Ave. North Bend, OR 97459 541-808-3633_ [_www.wildflourpub.com/hom
 
 “Buttered Chicken from the Himalayan” - Don H.
 
-![](/img/oregon-s-adventure-coast-dining-options.jpg)For the ultimate foodie experience, treat yourself to a one-of-a-kind tasting adventure you can only find along the [Wild Rivers Coast Food Trail](https://www.wrcfoodtrail.com/), and mark your calendars for the [Annual Charleston Crab Feed February 11, 2023](https://www.oregonsadventurecoast.com/event/annual-charleston-crab-feed/).
+![](/img/oregon-s-adventure-coast-dining-options.jpg)
+
+For the ultimate foodie experience, treat yourself to a one-of-a-kind tasting adventure you can only find along the [Wild Rivers Coast Food Trail](https://www.wrcfoodtrail.com/), and mark your calendars for the [Annual Charleston Crab Feed February 11, 2023](https://www.oregonsadventurecoast.com/event/annual-charleston-crab-feed/).
 
 As you can see, Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston boasts a wide variety of terrific dining and meal options to explore. We encourage you to try these and other fabulous restaurants on your next visit, and let us know what you think! No matter what brings you here, we are here to make your stay as seamless as possible.
+
+{{< spacer 50 >}}
 
 ## Related Content
 
