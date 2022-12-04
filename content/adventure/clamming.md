@@ -23,7 +23,7 @@ Local bait and tackle shops are usually the best resource for first (and second,
 
 {{< spacer 20 >}}
 
-![](/img/clamming-collage.jpg)
+![Variety of clams from Oregon's Adventure Coast](/img/clamming-collage-new.jpg)
 
 {{< spacer 40 >}}
 
