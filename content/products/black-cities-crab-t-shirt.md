@@ -17,8 +17,9 @@ product:
 title: Black Cities & Crab T-Shirt
 image: "/img/black-reaching-crab-t-shirt.jpg"
 hover_image: "/img/black-reaching-crab-t-shirt-artwork.jpg"
-description: 'Hanes Beefy-T in Black: 6.1oz pre-shrunk 100% Cotton. Double-needle
-  stitched lay flat collars, sleeves and bottom hem. Two colors printed on front.'
+description: |-
+  Next Level - 4.3oz 60/40 Cotton/Poly Unisex Premium Fitted Crew T-shirt.
+  Two colors printed on front.
 draft: true
 
 ---
