@@ -19,5 +19,6 @@ image: "/img/black-t-shirt-main-02.jpg"
 hover_image: "/img/black-t-shirt-artwork-02.jpg"
 description: 'Hanes Beefy-T in Black: 6.1oz pre-shrunk 100% Cotton. Double-needle
   stitched lay flat collars, sleeves and bottom hem. Two colors printed on front.'
+draft: true
 
 ---
