@@ -1,6 +1,6 @@
 ---
 product:
-  price: 20
+  price: 17
   weight: 200
   description: Canvas Kid's T-Shirt in Black. Two colors printed on front.
   custom_fields:
