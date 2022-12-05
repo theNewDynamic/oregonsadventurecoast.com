@@ -1,0 +1,25 @@
+.back_top{
+  position: sticky;
+  text-align: right;
+  padding: 1rem;
+  
+}
+.back_top__button{
+  position: absolute;
+  display: flex;
+  align-items: center;
+  right: 1rem;
+  bottom: 1rem;
+  background: $red;
+  border-radius: .4rem;
+  padding: .6rem 1rem;
+  color: white !important;
+  text-align: center;
+  text-decoration: none;
+  svg{
+    width: 1rem;
+    display: inline-block;
+    fill: currentColor;
+    margin-right: .5rem;
+  }
+}
