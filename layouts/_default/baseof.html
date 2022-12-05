@@ -14,8 +14,11 @@
       {{ partialCached "tnd-snipcart/tags.html" . }}
     {{ end }}
     <div id="top"></div>
-    <div id="bd">{{ block "main" . }}{{ end }}</div>
-    {{ partial "top" . }}
+    <div id="bd">
+      {{ block "main" . }}{{ end }}
+      {{ partial "top" . }}
+    </div>
+
     {{ partial "footer" . }}
     {{ block "footerJs" . }}{{ end }}
  	  {{ partial "googletag" (dict "where" "bottom") }}
