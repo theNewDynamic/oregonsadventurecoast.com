@@ -1,8 +1,8 @@
 ---
 product:
   price: 20
-  weight: 300
-  description: Hanes Beefy-T in Black. Two colors printed on front.
+  weight: 200
+  description: Next Level T-Shirt in Black. Two colors printed on front.
   custom_fields:
   - template: product-field-size
     id: size
