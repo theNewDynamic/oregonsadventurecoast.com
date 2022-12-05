@@ -19,6 +19,5 @@ image: "/img/red-sea-collage-t-shirt-02.jpg"
 hover_image: "/img/red-sea-collage-t-shirt-artwork.jpg"
 description: Next Level 4.3oz 60/40 Cotton/Poly Unisex Premium Fitted Crew T-Shirt
   in Red. Two colors printed on front.
-draft: true
 
 ---

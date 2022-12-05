@@ -2,7 +2,7 @@
 product:
   price: 20
   weight: 200
-  description: Next Level T-Shirt in Red. Two colors printed on front.
+  description: Bella Women's Relaxed V-Neck in Red. Two colors printed on front.
   custom_fields:
   - template: product-field-size
     id: size
@@ -13,12 +13,11 @@ product:
     - L
     - XL
     - 2XL
-  id: "200226"
+  id: "200227"
 title: Red Sea Collage Women's V-Neck
-image: "/img/red-sea-collage-t-shirt-02.jpg"
+image: "/img/red-sea-collage-v-neck.jpg"
 hover_image: "/img/red-sea-collage-t-shirt-artwork.jpg"
-description: Next Level 4.3oz 60/40 Cotton/Poly Unisex Premium Fitted Crew T-Shirt
-  in Red. Two colors printed on front.
-draft: true
+description: Bella  - 4.2 oz., 100% combed cotton, Women's Relaxed Jersey V-Neck in
+  Red. Two colors printed on front.
 
 ---

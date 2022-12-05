@@ -20,6 +20,5 @@ hover_image: "/img/black-reaching-crab-t-shirt-artwork.jpg"
 description: |-
   Next Level - 4.3oz 60/40 Cotton/Poly Unisex Premium Fitted Crew T-shirt.
   Two colors printed on front.
-draft: true
 
 ---
