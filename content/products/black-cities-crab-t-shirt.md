@@ -15,7 +15,7 @@ product:
     - 2XL
   id: "200221"
 title: Black Cities & Crab T-Shirt
-image: "/img/black-reaching-crab-t-shirt.jpg"
+image: "/img/black-reaching-crab-t-shirt-02.jpg"
 hover_image: "/img/black-reaching-crab-t-shirt-artwork.jpg"
 description: |-
   Next Level - 4.3oz 60/40 Cotton/Poly Unisex Premium Fitted Crew T-shirt.
