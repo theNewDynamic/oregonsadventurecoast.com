@@ -1,8 +1,8 @@
 ---
 product:
-  price: 18
+  price: 20
   weight: 200
-  description: Hanes Beefy-T in Athletic Red. One color printed on front.
+  description: Next Level T-Shirt in Red. Two colors printed on front.
   custom_fields:
   - template: product-field-size
     id: size
@@ -13,12 +13,12 @@ product:
     - L
     - XL
     - 2XL
-  id: "200225"
+  id: "200226"
 title: Red Sea Collage T-Shirt
-image: "/img/red-t-shirt-main-02.jpg"
-hover_image: "/img/red-t-shirt-artwork-02.jpg"
-description: 'Hanes Beefy-T in Athletic Red: 6.1oz pre-shrunk 100% Cotton. Double-needle
-  stitched lay flat collars, sleeves and bottom hem. One color printed on front.'
+image: "/img/red-sea-collage-t-shirt.jpg"
+hover_image: "/img/red-sea-collage-t-shirt-artwork.jpg"
+description: Next Level 4.3oz 60/40 Cotton/Poly Unisex Premium Fitted Crew T-Shirt
+  in Red. Two colors printed on front.
 draft: true
 
 ---
