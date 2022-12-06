@@ -1,4 +1,57 @@
 module.exports = {
+  floatimage: {
+    template:  "hugo_shortcode_named_args",
+    definitions: {
+      shortcode_name: "floatimage",
+      named_args: [
+        {
+          editor_key: "image",
+          source_key: "src",
+          type: "string"
+        },
+        {
+          editor_key: "float",
+          type: "string"
+        },
+        {
+          editor_key: "copy",
+          source_key: "alt",
+          type: "string"
+        },
+        {
+          editor_key: "size",
+          type: "string"
+        },
+      ]
+    },
+    preview: {
+      text: "Float Image",
+      icon: "art_track",
+      image: [
+        { key: "image" }
+      ],
+      subtext: [
+        { key: "alt"},
+        "Adds a floating image"
+      ]
+    },
+    picker_preview: {
+      image: false,
+    },
+    _inputs: {
+      float: {
+        type: "select",
+        comment: "On which side of the text, should the image float",
+        options: [
+          "left",
+          "right"
+        ]
+      },
+      size: {
+        type: "number"
+      }
+    }
+  },
   spacer: {
     template: "hugo_shortcode_positional_args",
     definitions: {
