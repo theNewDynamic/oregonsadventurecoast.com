@@ -4914,17 +4914,17 @@ pre code {
 .back_top {
   position: sticky;
   bottom: 0;
-  text-align: right;
-  padding: 1rem; }
+  text-align: right; }
 
 .back_top__button {
   position: absolute;
   display: flex;
   align-items: center;
-  right: 1rem;
+  right: 0;
   bottom: 1rem;
   background: #d74029;
-  border-radius: .4rem;
+  border-top-left-radius: .4rem;
+  border-bottom-left-radius: .4rem;
   padding: .6rem 1rem;
   color: white !important;
   text-align: center;
