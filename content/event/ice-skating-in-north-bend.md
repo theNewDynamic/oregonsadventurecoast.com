@@ -58,11 +58,11 @@ Ice Skating Waiver required. [Download it here](/img/iceskatingwaiverform2013215
 
 #### Code of Conduct:
 
-Please read this code of conduct document before visiting the rink.
+Please read this [Skater's Code of Conduct](/img/skaterscodeofconduct2013242120622am.pdf) document before visiting the rink.
 
-#### 
+{{< spacer 25>}}
 
-FAQ
+#### FAQ:
 
 **What is the capacity of the rink?** The rink is maxed at 70 people.
 
@@ -82,4 +82,4 @@ Contact [nbinfo@northbendcity.org](mailto:nbinfo@northbendcity.org) for private 
 
 Stay tuned for special themed nights, including Disco Ice Skating Nights, Movie Ice Skating Nights, Costume Ice Skating Nights, Karaoke Ice Skating Nights, and much more!
 
-Dates and times subject to change.
+_Dates and times subject to change._
