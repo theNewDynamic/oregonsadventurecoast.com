@@ -1,6 +1,5 @@
 ---
 title: Bahama Buds
-draft: true
 property_description: Helpful and friendly staff to assist with all of your cannabis
   needs. Open daily 9am-9:30pm
 photo_name: "/img/bahama-buds-new.jpg"
@@ -12,6 +11,7 @@ address:
   street2: ''
   city: Coos Bay
   zip: '97420'
+  state: ''
 phone_local: 541) 808-9420
 phone_toll_free: ''
 website: https://bahamabuds.com/

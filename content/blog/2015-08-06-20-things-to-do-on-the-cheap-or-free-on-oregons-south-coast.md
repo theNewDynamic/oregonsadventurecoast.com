@@ -64,7 +64,7 @@ Frugal moviegoers can expect to pay anywhere from $2- $5 to enjoy a night out at
 
 ### Comedy Night at Warehouse 101 inside The Mill Casino every Wednesday
 
-In the mood to laugh out loud? Come to Warehouse 101, inside the Mill Casino Hotel for Comedy Night every Wednesday! The Mill Casino features new comedians who are sure to make you laugh in addition to serving great food and drinks. Two FREE hilarious shows start at 6pm and 8pm every Wednesday evening. <a href="http://www.themillcasino.com/entertainment/warehouse101.cfm" target="_blank" class="broken_link">www.themillcasino.com</a>
+In the mood to laugh out loud? Come to Warehouse 101, inside the Mill Casino Hotel for Comedy Night every Wednesday! The Mill Casino features new comedians who are sure to make you laugh in addition to serving great food and drinks. Two FREE hilarious shows start at 6pm and 8pm every Wednesday evening. 
 
 ### Music on the Bay Every Tuesday August 18th-September 15th
 
@@ -72,7 +72,7 @@ Come to Mingus Park every Tuesday evening through September 15th for a free outd
 
 ### Live Music at Warehouse 101 inside The Mill Casino Mill Fridays & Saturday Nights
 
-Warehouse 101 goes live every Friday and Saturday night starting at 9pm! Dance the night away and rock out with some of our favorite regional bands while enjoying some great food and drinks! Shows 9pm-1am. <a href="http://www.themillcasino.com/entertainment/warehouse101.cfm" target="_blank" class="broken_link">www.themillcasino.com</a>
+Warehouse 101 goes live every Friday and Saturday night starting at 9pm! Dance the night away and rock out with some of our favorite regional bands while enjoying some great food and drinks! target="_blank" class="broken_link">www.themillcasino.com</a>
 
 ### First Friday Wine Walk in Downtown Coos Bay
 
@@ -128,7 +128,7 @@ The Mill Luck Salmon celebration is a popular celebration of Native American tra
 
 **Bay Area Fun Festival September 19-20, 2015**
 
-The 2015 Bay Area Fun Festival in Coos Bay is a weekend you won’t want to miss! Loads of entertainment booked, plenty of vendors scheduled to appear with unique wares, and even a parade scheduled to march through downtown Coos Bay! This event runs in conjunction with the <a href="https://prefontainerun.com/run-info.php" target="_blank" class="broken_link">Prefontaine Memorial Run </a>on September 19th. For more information, call 800-824-8486 or visit <a href="http://www.bayareafunfestival.com/" target="_blank">www.bayareafunfestival.com</a>
+The 2015 Bay Area Fun Festival in Coos Bay is a weekend you won’t want to miss! Loads of entertainment booked, plenty of vendors scheduled to appear with unique wares, and even a parade scheduled to march through downtown Coos Bay! This event runs in conjunction with the <a href="https://prefontainerun.com" target="_blank" class="broken_link">Prefontaine Memorial Run </a>on September 19th. For more information, call 800-824-8486 or visit <a href="http://www.bayareafunfestival.com/" target="_blank">www.bayareafunfestival.com</a>
 
 **Octoberfish October 2nd-4th**
 

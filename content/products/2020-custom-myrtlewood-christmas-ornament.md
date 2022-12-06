@@ -1,15 +1,14 @@
 ---
 product:
-  price: 10
+  price: 8
   weight: 8
-  description: 2020 Myrtlewood Christmas laser-cut ornament.
+  description: Myrtlewood Christmas laser-cut ornament.
   custom_fields: []
   id: "600480"
-title: 2020 Custom Myrtlewood Christmas Ornament
-image: "/img/2020-ornament.jpg"
-hover_image: "/img/2020-ornament-large.jpg"
-description: 'This 2020 Myrtlewood Christmas Ornament was custom designed and cut
-  out with a laser. '
-draft: true
+title: Custom Myrtlewood Christmas Ornament
+image: "/img/ornament-withhat.jpg"
+hover_image: "/img/ornament-withhat-large.jpg"
+description: 'This Myrtlewood Christmas Ornament was custom designed, hand painted
+  and cut out with a laser. '
 
 ---

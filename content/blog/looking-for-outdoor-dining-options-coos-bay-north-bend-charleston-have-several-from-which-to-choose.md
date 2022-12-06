@@ -62,7 +62,7 @@ Coos Bay OR, 97420
 
 {{< spacer 10 >}}
 
-[**Front Street Provisioners**](http://frontstreetprovisioners.com/) **– Outdoor Seating on new patio, Tues 1pm-9pm; Wed-Sat Noon-9pm; Sun 3pm-8pm**  
+[**Front Street Provisioners**](https://frontstreetprovisionersmenu.square.site/) **– Outdoor Seating on new patio, Tues 1pm-9pm; Wed-Sat Noon-9pm; Sun 3pm-8pm**  
 737 N. Front St. Coos Bay OR, 97420  
 (541)808-3420
 
@@ -90,7 +90,7 @@ Coos Bay OR, 97420
 
 ### North Bend
 
-[**Back Alley Pub & Grill**](https://northbendlanes.com/bar-grill/) **– Covered Patio seating with heat, 11am-11pm daily**  
+[**Back Alley Pub & Grill**](https://northbendlanes.com/Back-Alley-Pub-Grill) **– Covered Patio seating with heat, 11am-11pm daily**  
 1225 Virginia Ave. North Bend OR, 97459  
 (541)756-0571
 
@@ -160,6 +160,6 @@ Coos Bay OR, 97420
 
 {{< spacer 10 >}}
 
-[**Portside Restaurant & Lounge**](http://www.portsidebythebay.com/) **– Covered Outdoor dining with heaters, 11:30am-8:30pm daily**  
+[**Portside Restaurant & Lounge**](https://www.facebook.com/PortsideRestaurant/) **– Covered Outdoor dining with heaters, 11:30am-8:30pm daily**  
 63383 Kingfisher Rd. Charleston OR, 97420  
 (541)888-5544

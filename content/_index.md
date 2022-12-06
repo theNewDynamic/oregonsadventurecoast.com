@@ -2,22 +2,11 @@
 _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
-- photo: "/img/summer-someplace-new-2022.jpg"
-  photo_mobile: "/img/summer-someplace-new-mobile-2022.jpg"
-  url: "/undeveloped-beaches"
+- url: "/event/annual-holiday-lights-at-shore-acres"
   video:
-    source: ''
-    cover: ''
-- photo: "/img/home-page-slider-fishing-ready-set-06-21.jpg"
-  url: "/fishing"
-- photo: "/img/kayaker-adventure-invigorate-hm-slider.jpg"
-  url: "/water-recreation"
-- title: Breathtaking Views
-  photo: "/img/shore-acres-slider.jpg"
-- title: Spectacular Sights
-  photo: "/img/lighthouse-hm-slider.jpg"
-- title: Stunning Sunsets
-  photo: "/img/sunset-bay-sunset-hm-slider.jpg"
+    source: "/img/lights-slider.mov"
+    cover: "/img/holiday-lights-hm-slide-cover-2022.jpg"
+  photo_mobile: "/img/holiday-lights-mobile-slider-2022.jpg"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - img: /img/summer-2022-splash.jpg

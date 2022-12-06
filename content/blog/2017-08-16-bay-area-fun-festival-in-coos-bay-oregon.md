@@ -48,7 +48,7 @@ If you love Salmon as much as we do, now is a great time to travel to Oregon's S
 
 /em>\[/caption\]
 
-The Annual Coos Basin Salmon Derby will also take place the weekend of September 9th-10th. Visit <a href="http://oregonsadventurecoast.com/listings/18th-annual-coos-basin-salmon-derby/" target="_blank" rel="noopener noreferrer">www.oregonsadventurecoast.com</a> for schedule and ticket info or contact the ODFW office at 541-888-5515. <h2>A Weekend of Non-Stop Fun Sept 15th​-17th, 2017</h2>_ 
+The Annual Coos Basin Salmon Derby will also take place the weekend of September 9th-10th. Visit <a href="http://oregonsadventurecoast.com/listings/18th-annual-coos-basin-salmon-derby/" target="_blank" rel="noopener noreferrer">www.oregonsadventurecoast.com</a> for schedule and ticket info or contact the ODFW office at 541-888-5515. <h2>A Weekend of Non-Stop Fun Sept 15th​-17th, 2017</h2>_
 
 _<h3>The Bay Area Fun Festival September​ ​15th​-17th,2017 Downtown Coos Bay</h3>_
 
@@ -56,7 +56,7 @@ Beautiful Downtown Coos Bay comes alive with vendors, art, food, beer, wine and 
 
 <h3>31st Annual Cruz the Coos September​ ​15th​-17th, 2017</h3>
 
-The Coos Bay-North Bend Rotary Club is proud to continue this tradition spanning decades on Oregon's Adventure Coast.<a href="https://cruzthecoos.com/" target="_blank" rel="noopener noreferrer"> Cruz the Coos</a> is one of the longest-running and largest classic car cruises on the Oregon Coast and features hundreds of rare and vintage cars. These family friendly events include a Show 'n Shine at the Mill Casino on Friday and it's marquee event, the annual "cruise" through the streets of downtown Coos Bay on Saturday. Visit <a href="https://cruzthecoos.com/event-information/" target="_blank" rel="noopener noreferrer">www.cruzthecoos.com</a> for event and schedule info. <iframe src="https://www.youtube.com/embed/Ri7jZ8RAdPI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe> <h3>38th Annual Prefontaine Memorial Run September​ ​16th​, 2017 
+The Coos Bay-North Bend Rotary Club is proud to continue this tradition spanning decades on Oregon's Adventure Coast.<a href="https://cruzthecoos.com/" target="_blank" rel="noopener noreferrer"> Cruz the Coos</a> is one of the longest-running and largest classic car cruises on the Oregon Coast and features hundreds of rare and vintage cars. These family friendly events include a Show 'n Shine at the Mill Casino on Friday and it's marquee event, the annual "cruise" through the streets of downtown Coos Bay on Saturday. Visit <a href="https://cruzthecoos.com/" target="_blank" rel="noopener noreferrer">www.cruzthecoos.com</a> for event and schedule info. <iframe src="https://www.youtube.com/embed/Ri7jZ8RAdPI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe> <h3>38th Annual Prefontaine Memorial Run September​ ​16th​, 2017
 
 </h3> The annual <a href="http://bayareafunfestival.com/prefontaine-run/" target="_blank" rel="noopener noreferrer">Prefontaine Memorial Run</a> is a 10,000 meter road race honoring one of America's Greatest Distance Runners. Choose from the 10km, or 2M walk. For more information contact the Prefontaine Memorial Committee, Bob Huggins. Registration available online.
 

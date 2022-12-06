@@ -14,6 +14,9 @@ our_area:
 - url: /tribal-heritage-coquilles
   name: 'Tribal Heritage: Coquilles'
   weight: 50
+- url: /tribal-heritage-confederated
+  name: 'Tribal Heritage: The Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians'
+  weight: 52
 - url: /steve-prefontaine-story
   name: The Steve Prefontaine Story
   weight: 60
@@ -87,3 +90,6 @@ open_meetings:
 - url: /about-the-vcb
   name: About the VCB
   weight: 40
+- url: /faq
+  name: FAQ
+  weight: 50

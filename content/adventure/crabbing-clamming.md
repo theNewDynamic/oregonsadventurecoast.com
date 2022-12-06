@@ -6,7 +6,7 @@ seo:
   description: 'No vacation to the Oregon Coast is complete without Crabbing! Rent
     crab rings and learn our tips and tricks!
 
-'
+    '
   title: Crabbing on the Oregon Coast | Oregon’s Adventure Coast
 
 ---
@@ -60,12 +60,6 @@ Dock crabbing is available throughout the commercial docks in Charleston. Additi
 ### Equipment Rental and Advice
 
 Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores often rent and sell rings. Here’s a short list of some locations:
-
-**Basin Tackle Shop**  
-63510 Kingfisher Road, Charleston, OR 97420  
-(541) 888-FISH  
-Open Mon-Sat 8am-5pm; Sun 8am-Noon  
-[www.basintackle.com](http://www.basintackle.com)
 
 **Davey Jones Locker**  
 Cape Arago Highway & Boat Basin Road  

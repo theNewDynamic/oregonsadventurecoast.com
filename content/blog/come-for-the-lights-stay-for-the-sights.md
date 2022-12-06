@@ -28,7 +28,7 @@ If you’re among those traveling from out-of-town to see the holiday lights thi
 
 The 6,000-square-foot [Charleston Marine Life Center](https://cmlc.uoregon.edu/), located on the campus of [ UO’s Institute of Marine Biology](https://oimb.uoregon.edu/) features permanent exhibits including a Marine Ecosystem Gallery, an Underwater Oregon Gallery (where after just a few minutes exploring, you’re likely to see a multitude of marine life you may have never known existed) and an Oregon Fisheries Gallery (an open-air deck where visitors can see fishing vessels coming and going from the harbor). Visit [https://cmlc.uoregon.edu/](https://cmlc.uoregon.edu/) for more info.
 
-We also recommend spending a day at the [South Slough National Estuarine Research Reserve Interpretive Center](https://www.oregon.gov/oprd/NATRES/pages/rs_faqcoastal.aspx#What_is_a_Research_Reserve_) learning about our local culture, history and natural resources. There are miles of beautiful hiking trails and waterways to explore in addition to classes/workshops for all ages.
+We also recommend spending a day at the [South Slough National Estuarine Research Reserve Interpretive Center](https://www.oregon.gov/dsl/ss/pages/about.aspx) learning about our local culture, history and natural resources. There are miles of beautiful hiking trails and waterways to explore in addition to classes/workshops for all ages.
 
 #### #2 Fuel up on Delicious Food & Drink!
 

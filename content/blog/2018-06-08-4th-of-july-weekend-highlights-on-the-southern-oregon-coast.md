@@ -48,9 +48,9 @@ Don't miss Oregon's Largest Fireworks Display on July 3rd. The Mill Casino will 
 
 Kick off Independence Day Wednesday, July 4th, 2018 with a fun 1-mile kid's run and a 4K for grown-ups @ 10 a.m. The grown-up race begins as soon as the kids are done, approximately 10:15. The race is on city park sidewalks, trails, and includes one HUGE hill in beautiful Mingus Park. <a href="https://www.facebook.com/events/106079593347649/" target="_blank" rel="noopener noreferrer">Click here</a> for more info.
 
-<h2>4th of July in Mingus Park &amp; Coos Bay Boardwalk 2018</h2>
+<h2>4th of July in Mingus Park & Coos Bay Boardwalk 2018</h2>
 
-Fishing ponds, face painting, FREE swimming, family competitions, clowns, kids entertainment, horse viewing &amp; petting, Boy Scouts, Furry Friends Therapy Dogs. Crafts and goodie bags, food available, and much more. Fireworks by the City of Coos Bay. Day time activities at Mingus Park, Evening activities on the Coos Bay Boardwalk starting at 8pm. <a href="https://www.facebook.com/events/1697770890526920/" target="_blank" rel="noopener noreferrer">Click here </a>for more info.
+Fishing ponds, face painting, FREE swimming, family competitions, clowns, kids entertainment, horse viewing & petting, Boy Scouts, Furry Friends Therapy Dogs. Crafts and goodie bags, food available, and much more. Fireworks by the City of Coos Bay. Day time activities at Mingus Park, Evening activities on the Coos Bay Boardwalk starting at 8pm. <a href="https://www.facebook.com/events/1697770890526920/" target="_blank" rel="noopener noreferrer">Click here </a>for more info.
 
 Later in the week...
 
@@ -60,11 +60,11 @@ Visit various downtown businesses to wine taste and shop on Friday, July 6th, 20
 
 <h2>Little Ole Opry on the Bay</h2>
 
-The Liberty Theatre – Home of Little Theatre on the Bay presents Little Ole Opry on the Bay July 7th – 29th, 2018. The popular Country Western Musical Variety show is patterned after "The Grand Old Opry" in Nashville and features a different show every weekend. Choose from 50's &amp; 60's Hit Parade, Country Roots, Director's Choice and more! Opry has been thrilling Bay Area audiences with music, comedy, and dance since 1982. Visit <a href="http://www.thelibertytheatre.org/" target="_blank" rel="noopener noreferrer">www.thelibertytheatre.org</a> for show and ticket info.
+The Liberty Theatre – Home of Little Theatre on the Bay presents Little Ole Opry on the Bay July 7th – 29th, 2018. The popular Country Western Musical Variety show is patterned after "The Grand Old Opry" in Nashville and features a different show every weekend. Choose from 50's & 60's Hit Parade, Country Roots, Director's Choice and more! Opry has been thrilling Bay Area audiences with music, comedy, and dance since 1982. Visit <a href="http://www.thelibertytheatre.org/" target="_blank" rel="noopener noreferrer">www.thelibertytheatre.org</a> for show and ticket info.
 
 <h2>Music on the Corner</h2>
 
-The Coos Bay Downtown Association and The World will present the fourth annual Music on the Corner featuring some of the area's most talented musicians, every Friday at noon, starting July 13. This series of free one hour concerts will be held in the vacant lot at Fourth and Anderson downtown Coos Bay every Friday through Aug. 31. Bring a chair, bring a lunch and bring a friend! Fridays @ 12 p.m. July 13th-August 31st, 2018. Here's the current lineup: 
+The Coos Bay Downtown Association and The World will present the fourth annual Music on the Corner featuring some of the area's most talented musicians, every Friday at noon, starting July 13. This series of free one hour concerts will be held in the vacant lot at Fourth and Anderson downtown Coos Bay every Friday through Aug. 31. Bring a chair, bring a lunch and bring a friend! Fridays @ 12 p.m. July 13th-August 31st, 2018. Here's the current lineup:
 
 July 13th, Happy Five
 
@@ -80,8 +80,6 @@ Aug. 17th, Al Giardinelli
 
 Aug. 24th, Dale Inskeep
 
-Aug. 31st, Coos Rhythm & Blues Quintet 
+Aug. 31st, Coos Rhythm & Blues Quintet
 
-<a href="https://theworldlink.com/lifestyles/go/music-on-the-corner-returns-to-coos-bay-on-july/article_b722c2b8-b1fd-5203-9c72-03a98f77b9a3.html" target="_blank" rel="noopener noreferrer">Click here</a> for more information. 
-
-But wait, there's more! Here are <a href="/blog/2018-05-22-nine-hot-festivals-on-oregons-cool-coast-plan-your-trip-now/" target="_blank" rel="noopener noreferrer">Nine Hot Festivals on Oregon's Cool Coast</a> and Your Guide to the Arts &amp; Culture on the Coast you don't want to miss. There is still time to plan a summer road trip to Oregon's South Coast. We can't wait to see you here!
+But wait, there's more! Here are <a href="/blog/2018-05-22-nine-hot-festivals-on-oregons-cool-coast-plan-your-trip-now/" target="_blank" rel="noopener noreferrer">Nine Hot Festivals on Oregon's Cool Coast</a> and Your Guide to the Arts & Culture on the Coast you don't want to miss. There is still time to plan a summer road trip to Oregon's South Coast. We can't wait to see you here!

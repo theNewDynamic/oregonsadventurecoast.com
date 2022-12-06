@@ -42,7 +42,7 @@ There’s an old saying that goes “Expect the Unexpected”. Who would have ex
 
 **What About Breakfast?** The hotel breakfast experience that some travelers have become accustomed to are also likely to be modified in some way to comply with guidance provided by the Centers for Disease Control and Prevention and the National Restaurant Association. Like local restaurants, breakfast rooms will have more space between tables, hand sanitizing stations, and more stringent disinfecting practices will be put into place to keep guests safe. Hotels may offer more “grab & go” breakfast options or provide limited table service for breakfast items.
 
-**What about hotel amenities like pools and workout rooms?** Hotels that choose to open on-site pools and gyms to their guests will likely limit the number of people using it to half capacity and reservations may be required. Contact your hotel to find out more details about safety measures they have adopted to stop the spread of COVID-19. 
+**What about hotel amenities like pools and workout rooms?** Hotels that choose to open on-site pools and gyms to their guests will likely limit the number of people using it to half capacity and reservations may be required. Contact your hotel to find out more details about safety measures they have adopted to stop the spread of COVID-19.
 
 Here are some links to COVID-19 responses and guidelines from some of our local hotels. _Please contact your individual hotel for more details._
 
@@ -51,8 +51,6 @@ Here are some links to COVID-19 responses and guidelines from some of our local 
 If your [lodging option](https://www.oregonsadventurecoast.com/lodging/) is not on the above list, please contact the business directly for COVID-19 updates. Additional information about [RV Parks and Camping Sites on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/lodging/) can be found on our website.
 
 The following resources outline new hotel and restaurant guidelines and travel under Oregon’s Phase Two Reopening:
-
-[Oregon Restaurant & Lodging Association (ORLA)](https://www.oregonrla.org/blog/orla-ceo-update-for-oregons-hospitality-industry)
 
 [Oregon Public Broadcasting FAQ: What To Expect For Phase 2 Of Oregon’s Reopening Plan](https://www.opb.org/news/article/oregon-reopen-phase-2-faq/)
 

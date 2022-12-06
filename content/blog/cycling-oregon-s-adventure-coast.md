@@ -45,7 +45,7 @@ This local gem of a trail system flows and winds through the misty Coos County F
 **FUN OPTIONS FOR ROAD CYCLISTS**
 
 [The Oregon Coast Bike Route (PDF).](https://www.oregon.gov/ODOT/Programs/TDD%20Documents/oregon-coast-bike-route-map.pdf)  
-Following along US Highway 101, the Oregon Coast Bike Route attracts thousands of bicyclists. Coos Bay, North Bend, Charleston is one of the areas where cyclists depart from the main highway and take a scenic detour along the rugged coastline on Cape Arago Loop and 7 Devils Road. [Click here for the North Bend to Bandon Oregon Coast Trail Map.](https://www.oregon.gov/oprd/PARKS/docs/OCT_g.pdf)
+Following along US Highway 101, the Oregon Coast Bike Route attracts thousands of bicyclists. Coos Bay, North Bend, Charleston is one of the areas where cyclists depart from the main highway and take a scenic detour along the rugged coastline on Cape Arago Loop and 7 Devils Road. 
 
 [City Bike Riding Trails Map (PDF).](https://www.oregonsadventurecoast.com/img/FSCBW-BIKE-TRAIL-MAPS.pdf)  
 Our friends at the Front Street Community Bike Works have put together a wonderful resource of cycling trail maps from no hills to daredevil!

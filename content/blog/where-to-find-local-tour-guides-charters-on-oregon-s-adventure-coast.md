@@ -98,6 +98,6 @@ Here are some local Fishing Guide Services and Boat Charters to check out:
 
 **PacificPond Charters** - PacificPond Charters is a small boat sport fishing guide in Charleston, whose mission is to provide a safe and fun environment while targeting trophy size fish in the waters off the Oregon Coast. _Charleston, 541-294-5252_
 
-See [Tour Guides & Charters](https://www.oregonsadventurecoast.com/tour-guides-and-charters/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter) for more information.
+**See** [**Tour Guides & Charters**](https://www.oregonsadventurecoast.com/tour-guides-and-charters/?utm_source=adventure-february-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter) **for more fishing guides. We update this list often.**
 
 Come explore and discover incredible outdoor adventures waiting for you on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston! Explore more [Oregon Coast Adventures](https://www.oregonsadventurecoast.com/adventures/) and [Trip Ideas](https://www.oregonsadventurecoast.com/tripideas/)![ Don’t hesitate to contact us](https://www.oregonsadventurecoast.com/contact/) with any questions you may have about things to do on your vacation, and be sure to [download our Visitor Guide (PDF)](https://www.oregonsadventurecoast.com/img/Oregon-Coast-Visitor-Guide.pdf).

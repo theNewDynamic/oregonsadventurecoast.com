@@ -1,6 +1,6 @@
 ---
 title: 'Christmas on the Coast 2021 '
-date: 2021-11-15T05:00:00+00:00
+date: 2021-11-15T05:00:00.000+00:00
 description: 'It''s time to jumpstart this holiday season on Oregon''s Adventure Coast:
   Coos Bay, North Bend, Charleston! Join us for the most wonderful time of the year,
   and you are all but guaranteed to find some Christmas cheer and a unique gift for
@@ -91,7 +91,7 @@ North Bend’s lovely downtown area offers shoppers a blend of gift, antique and
 [Ocean Breeze Flowers & Gifts](https://oceanbreezeflowers.net/)
 [Recycled Games](https://www.facebook.com/Recyclevideogames/)
 
-In Charleston, find the perfect gift for outdoor and fishing enthusiasts at [Englund Marine Supply.](https://www.englundmarine.com/pages/home-page.html) & [Basin Tackle](https://www.facebook.com/basintacklecharleston/). You will find something special at [Stillwagon Distillery,](https://stillwagondistillery.com/) and [Chuck's Seafood](https://www.chucksseafood.com/) might have the perfect gift for the seafood lover with its premiere selection of locally caught and canned, smoked seafood. Don’t miss [Pottery By The Bay](https://www.facebook.com/Pottery-By-The-Bay-335327369836510/), [Thrifty Sisters,](https://www.facebook.com/ThriftySisters2/)  [Puna's Hoodies & Jewelry](https://www.facebook.com/jewmoan/?ref=page_internal), and [Kinnee's Gifts & Shells](https://www.yelp.com/biz/kinnees-giftsn-shells-coos-bay), featuring trinkets and other coastal items.
+In Charleston, find the perfect gift for outdoor and fishing enthusiasts at [Englund Marine Supply](https://www.englundmarine.com/pages/home-page.html). You will find something special at [Stillwagon Distillery,](https://stillwagondistillery.com/) and [Chuck's Seafood](https://www.chucksseafood.com/) might have the perfect gift for the seafood lover with its premiere selection of locally caught and canned, smoked seafood. Don’t miss [Pottery By The Bay](https://www.facebook.com/Pottery-By-The-Bay-335327369836510/), [Thrifty Sisters,](https://www.facebook.com/ThriftySisters2/)  [Puna's Hoodies & Jewelry](https://www.facebook.com/jewmoan/?ref=page_internal), and [Kinnee's Gifts & Shells](https://www.yelp.com/biz/kinnees-giftsn-shells-coos-bay), featuring trinkets and other coastal items.
 
 {{< spacer 25 >}}
 

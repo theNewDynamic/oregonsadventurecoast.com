@@ -43,8 +43,6 @@ categories:
 
 <h2 style="text-align: left;">2018 Music on the Corner</h2>
 
-<a href="https://theworldlink.com/lifestyles/go/music-on-the-corner-returns-to-coos-bay-on-july/article_b722c2b8-b1fd-5203-9c72-03a98f77b9a3.html">
-
 ![Music on the corner returns to Coos Bay in July](/img/5b0d7b5e31ef9.image_-674x410.jpg)
 
 </a>

@@ -36,7 +36,7 @@ We love this time of year, and think that you will too. Be a part of our family 
 
 ## Festival of Trees at the Mill Casino
 
-**November 24th – December 2nd.** Enjoy beautifully decorated tree and wreath displays inside the Mill Casino lobby anytime November 24th – December 2nd. Businesses and individuals throughout the community create this annual holiday charity extravaganza! The annual Gala Auction will happen December 3rd. All proceeds benefit local charities. [www.themillcasino.com](http://www.themillcasino.com/entertainment/specialevents.cfm){.broken_link}
+**November 24th – December 2nd.** Enjoy beautifully decorated tree and wreath displays inside the Mill Casino lobby anytime November 24th – December 2nd. Businesses and individuals throughout the community create this annual holiday charity extravaganza! The annual Gala Auction will happen December 3rd. All proceeds benefit local charities. [www.themillcasino.com](http://www.themillcasino.com/)
 
 ## Annual Holiday Lights at Shore Acres
 

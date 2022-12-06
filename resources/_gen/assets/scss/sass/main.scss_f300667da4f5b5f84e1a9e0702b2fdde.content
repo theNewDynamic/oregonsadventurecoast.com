@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
@@ -2641,9 +2642,18 @@ Modifier Classes for .items:
   @media only screen and (max-width: 1025px) {
     .m-standard-nav h3 {
       margin: 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
       font-size: 25px;
       padding: 10px 15px 10px 10px;
-      line-height: 1em; } }
+      line-height: 1em; }
+      .m-standard-nav h3::after {
+        content: "☰"; } }
+@media only screen and (max-width: 1025px) {
+  .m-standard-nav h3.hide-after::after {
+    display: none; } }
+
 .m-standard-nav ul,
 .m-standard-nav li {
   list-style: none;
@@ -4888,3 +4898,14 @@ p.bullet-para-indent {
 
 .grid-pagination .ais-Pagination-item--selected {
   background-color: #d74029; }
+
+pre code {
+  display: block;
+  background: none;
+  white-space: pre;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: scroll;
+  max-width: 100%;
+  min-width: 100px;
+  background: #dad7d7;
+  padding: 1rem; }

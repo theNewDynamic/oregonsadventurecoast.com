@@ -37,52 +37,7 @@ If you’re new to deep sea fishing, the Betty Kay Charters crew will assist you
 
 Now is the time to book your summer 2016 deep sea fishing trip! The summer season is underway and the crew is looking forward to great salmon trips, halibut fishing and the thrills of off shore tuna fishing. “We will be ready for great catches of the albacore tuna and high adventure for you ocean fishers!”
 
-To learn more, please visit <a href="http://www.bettykaycharters.com/" target="_blank">www.bettykaycharters.com</a>. Tickets can be bought on <a href="https://www.zerve.com/FishBettyKay" target="_blank">Zerve</a>, with the prices for the different excursions being:
-
-<table border="0" width="251" cellspacing="0" cellpadding="2">
-<tr>
-<td width="129">
-<a href="http://www.zerve.com/FishBettyKay/RockFish" target="_blank">5 Hours Rock Fish</a>
-</td>
-
-    <td width="86">
-      $75.00
-    </td>
-
-</tr>
-
-<tr>
-<td>
-<a href="http://www.zerve.com/FishBettyKay/Salmon" target="_blank">7 Hours Salmon</a>
-</td>
-
-    <td>
-      $140.00
-    </td>
-
-</tr>
-
-<tr>
-<td>
-<a href="http://www.zerve.com/FishBettyKay/TunaFish" target="_blank">12 hours Tuna</a>
-</td>
-
-    <td>
-      $200.00
-    </td>
-
-</tr>
-
-<tr>
-<td>
-<a href="http://www.zerve.com/FishBettyKay/Halibut" target="_blank">12 hours Halibut</a>
-</td>
-
-    <td>
-      $185.00
-    </td>
-
-</tr>
+To learn more, please visit <a href="http://www.bettykaycharters.com/" target="_blank">www.bettykaycharters.com</a>. 
 </table>
 
 Looking for more <a href="/adventures/" target="_blank">activities</a> to take part in this summer?_

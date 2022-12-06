@@ -5,12 +5,16 @@ menu_items = document.querySelectorAll(".m-standard-nav li").forEach(item => {
 });
 document.querySelectorAll(".share-trigger").forEach(item => {
   item.addEventListener("click", function() {
-    console.log("click")
-    console.log(item)
     const sibling = item.nextElementSibling
     sibling.classList.toggle('show')
   })
 });
+document.querySelectorAll(".m-standard-nav h3").forEach(item => {
+  item.addEventListener("click", function(){
+    const sibling = item.nextElementSibling
+    sibling.classList.toggle('show')
+  })
+})
 
 /* Adding caption to images in news pages */
 var richTextImages = document.querySelectorAll(".user-content img");

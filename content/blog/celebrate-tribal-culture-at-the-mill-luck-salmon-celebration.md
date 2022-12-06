@@ -1,6 +1,6 @@
 ---
 title: 'Celebrate Tribal Culture at the Mill-Luck Salmon Celebration! '
-date: 2022-08-30T04:00:00+00:00
+date: 2022-08-30T04:00:00.000+00:00
 description: 'Annual outdoor festival celebrating the culture and traditions of the
   Coquille Indian Tribe and other Pacific Northwest Tribes, will be back on Oregon’s
   Adventure Coast: Coos Bay, North Bend, Charleston September 10-11, 2022'
@@ -31,17 +31,17 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-warning: false
+warning: true
 warning_copy: ''
 
 ---
-**Annual outdoor festival celebrating the culture and traditions of the Coquille Indian Tribe and other Pacific Northwest Tribes, will be back on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston September 10-11, 2022**
+**_Annual outdoor festival celebrating the culture and traditions of the Coquille Indian Tribe and other Pacific Northwest Tribes, will be back on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston September 10-11, 2022_**
 
 ![](/img/our-area-coquilles.jpg)
 
 Indigenous people have lived and thrived in the fertile landscape on the Southern Oregon Coast for thousands of years, long before Euro-American settlers would arrive. **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is home to two of the nine federally recognized Native American Tribes in the state of Oregon. The rich and diverse cultures of the [Coquille Indian Tribe](https://www.oregonsadventurecoast.com/tribal-heritage-coquilles/) (pronounced “ko-kwel”) and [Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians](https://ctclusi.org/) are intricately woven into our history.
 
-Travel Oregon recently took the important step of publishing a[ new guide to Tribal Nations](https://issuu.com/traveloregon2019/docs/travelguidetooregonindiancountry) (copies are available at the Coos Bay Visitor Center). And with the annual [Mill-Luck Salmon Celebration](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/) just around the corner (September 10-11, 2022), we decided this would be the perfect time to share some interesting facts and highlight some of the many contributions made by indigenous people on Oregon’s South Coast.
+Travel Oregon recently took the important step of publishing a new guide to Tribal Nations (copies are available at the Coos Bay Visitor Center). And with the annual [Mill-Luck Salmon Celebration](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/) just around the corner (September 10-11, 2022), we decided this would be the perfect time to share some interesting facts and highlight some of the many contributions made by indigenous people on Oregon’s South Coast.
 
 #### **About the Coquille Indian Tribe**
 

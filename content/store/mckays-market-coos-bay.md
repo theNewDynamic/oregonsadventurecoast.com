@@ -1,5 +1,5 @@
 ---
-title: Mckays Market Coos Bay
+title: McKays Market Coos Bay
 property_description: Locally owned grocery chain with hot food, deli & butcher on
   site. Open daily.
 photo_name: "/img/mckays.jpg"
@@ -11,6 +11,7 @@ address:
   street2: ''
   city: Coos Bay
   zip: '97420'
+  state: ''
 phone_local: "(541) 267-3811"
 phone_toll_free: ''
 website: https://www.mckaysmarket.com/

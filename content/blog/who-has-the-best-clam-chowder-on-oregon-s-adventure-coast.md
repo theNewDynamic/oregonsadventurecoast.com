@@ -57,9 +57,9 @@ This take-out establishment located in the **Charleston Marina** is a relative n
 
 [Fisherman's Grotto](https://www.fishermansgrottoinc.com/) in Charleston
 
-[Back Alley Pub & Grill](https://northbendlanes.com/bar-grill/) in North Bend
+[Back Alley Pub & Grill](https://northbendlanes.com/Back-Alley-Pub-Grill) in North Bend
 
-[The Portside Restaurant - Charleston, Oregon Seafood](http://www.portsidebythebay.com/)
+[The Portside Restaurant - Charleston, Oregon Seafood](https://www.facebook.com/PortsideRestaurant/)
 
 [Davey Jones' Locker ](https://www.facebook.com/Davey-Jones-Locker-275312836004/)- Charleston
 

@@ -44,7 +44,7 @@ warning_copy: ''
 
 ![](/img/charleston-oregon-travel-itinerary-blog-695x322-jpg.png)
 
-Begin the day by fueling up with a fresh, hot cup of coffee and a delicious homemade pastry at [Bayside Coffee & Tea](http://baysidecoffeeshop.com). This community staple offers organic fair-trade coffee, house-roasted coffee beans, espresso, coffee, tea, snacks, and fair trade gifts. Once you’ve had your coffee fix, it’s time to hop in the car and explore the beaches and state parks along the [Cape Arago Highway ](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/)for the next few hours. Here are some points of interest you’ll want to hit along the way:
+Begin the day by fueling up with a fresh, hot cup of coffee and a delicious homemade pastry at [Bayside Coffee & Tea](https://www.facebook.com/coos.baysidecoffee/). This community staple offers organic fair-trade coffee, house-roasted coffee beans, espresso, coffee, tea, snacks, and fair trade gifts. Once you’ve had your coffee fix, it’s time to hop in the car and explore the beaches and state parks along the [Cape Arago Highway ](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/)for the next few hours. Here are some points of interest you’ll want to hit along the way:
 
 [**Shore Acres State Park**](http://shoreacres.net/) **, a.k.a. “the jewel of the South Coast”**
 
@@ -70,7 +70,7 @@ After your morning adventures, break for some midday Fish ’n Chips at[ Miller�
 
 After lunch, we recommend an afternoon walk on [Bastendorff Beach](http://www.co.coos.or.us/Departments/CoosCountyParks/Bastendorff.aspx), located 1⁄4 mile off the [Cape Arago State Highway](http://www.oregonsadventurecoast.com/trip-ideas/explore-the-cape-arago-beach-loop/), about two miles west of Charleston. This local gem is never crowded and is a favorite among surfers, kiters, campers, beachcombers and everyone in between.
 
-End the day with a stop at [Stillwagon Distillery](http://stillwagondistillery.com) (by appointment only), where you can taste handcrafted rum, vodka, and whiskey before heading over to [Fishermen's Grotto](https://www.fishermansgrottoinc.com/) or [The Portside Restaurant](http://www.portsidebythebay.com/) for a fresh seafood dinner overlooking the water.
+End the day with a stop at [Stillwagon Distillery](http://stillwagondistillery.com) (by appointment only), where you can taste handcrafted rum, vodka, and whiskey.
 
 **DAY TWO**
 
@@ -89,8 +89,8 @@ When you’ve had your fill of nature, grab a quick bite at [Monkey Business Foo
 * Gloves
 * Bait holders and bait supply
 
-Our local crabbing experts are always happy to help point you in the right direction! Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores like [Basin Tackle Shop](https://www.facebook.com/basintacklecharleston/) and Davey Jones Locker. [Click here](https://www.oregonsadventurecoast.com/blog/2020-1-22-the-best-dungeness-crab-on-oregons-coast/) for more crabbing tips.
+Our local crabbing experts are always happy to help point you in the right direction! Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores like Davey Jones Locker. [Click here](https://www.oregonsadventurecoast.com/blog/2020-1-22-the-best-dungeness-crab-on-oregons-coast/) for more crabbing tips.
 
 ![](/img/charleston-oregon-travel-itinerary-blog-695x322-jpg-3.png)
 
-If you need a break from all the hustle and bustle of the “real world” this fall, we’re here for you! There’s plenty of room for you to spread out and keep yourself and our community safe. For more travel inspiration, see our [Adventures page](https://www.oregonsadventurecoast.com/adventures) and our [Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast! Or [request a visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform). Please be sure to follow Oregon’s [Safe+Strong guidelines](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you) and remember that face coverings are required in [public spaces](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2288K.pdf). Do not hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
+If you need a break from all the hustle and bustle of the “real world” this fall, we’re here for you! There’s plenty of room for you to spread out and keep yourself and our community safe. For more travel inspiration, see our [Adventures page](https://www.oregonsadventurecoast.com/adventures) and our [Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast! Or [request a visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform). Please be sure to follow Oregon’s [Safe+Strong guidelines](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you) and remember that face coverings are required in public spaces. Do not hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.

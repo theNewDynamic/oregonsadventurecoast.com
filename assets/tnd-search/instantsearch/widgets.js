@@ -123,7 +123,7 @@ const facets = {
     'International',
     'Italian',
     'Japanese',
-    'Mediterranean',
+    //'Mediterranean',
     'Mexican',
     'Middle Eastern',
     'Pacific Northwest',

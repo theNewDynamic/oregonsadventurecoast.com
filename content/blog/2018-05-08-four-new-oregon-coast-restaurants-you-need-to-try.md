@@ -40,9 +40,9 @@ Whether you're in the mood for local fresh seafood, comfort food, burgers, sushi
 
 It's exciting to see new additions to our growing restaurant scene, so here are a few you'll enjoy checking out on your next visit.
 
-<a href="https://www.facebook.com/Friends-Cafe-530179044034503/" target="_blank" rel="noopener noreferrer"><h2>Friends Café</h2>  -  PERMANENTLY CLOSED![Friends Cafe](/img/31779137_574170102968730_5601684965226971136_o-674x379.jpg) </a>
+ -  PERMANENTLY CLOSED![Friends Cafe](/img/31779137_574170102968730_5601684965226971136_o-674x379.jpg) </a>
 
-As the name suggests, this community-oriented café offers friendly service along with classic American fare, burgers and sandwiches, salads, and wraps. “Come in as strangers and leave as friends. We want everybody who comes in here to have a great time, enjoy our food, and we welcome feedback,” says co-owner Debra Robertson in a<a href="http://theworldlink.com/news/local/business/friends-cafe-to-open-in-eastside-by-the-end-of/article_480369f0-211a-5df0-89fe-e9961fc3f69b.html" target="_blank" rel="noopener noreferrer"> recent World News article</a>. We've heard many positive reviews about this new spot from happy guests who recommend the fish and chips, Southfork Melt, homemade clam chowder and the Cross Road Chicken Sandwich.
+As the name suggests, this community-oriented café offers friendly service along with classic American fare, burgers and sandwiches, salads, and wraps. “Come in as strangers and leave as friends. We want everybody who comes in here to have a great time, enjoy our food, and we welcome feedback,” says co-owner Debra Robertson in a recent World News article. We've heard many positive reviews about this new spot from happy guests who recommend the fish and chips, Southfork Melt, homemade clam chowder and the Cross Road Chicken Sandwich.
 
 <a href="https://www.facebook.com/The-Boat-1658642967582777/" target="_blank" rel="noopener noreferrer"><h2>The Boat</h2> ![The Boat Restaurant](/img/stop-in-for-the-southern-flavors-of-catfish-with-a-cajun-aioli-french-fries-coleslaw-or-rice-pilaf-and-a-pudding-pie-674x899.jpg) </a>
 

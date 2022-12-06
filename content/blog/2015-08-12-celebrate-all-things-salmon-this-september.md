@@ -30,15 +30,13 @@ If you love Salmon as much as we do, September is a great time to travel to Oreg
 
 “For me, one of the surest signs of transition from summer to fall is the many places you might cast a lure or drift bait for salmon along coastal Oregon,” says Travel Oregon’s Grant McOmie in <a href="http://www.oregonsadventurecoast.com/trip-ideas/downtown-coos-bay-salmon/" target="_blank" class="broken_link">this post</a>.
 
-Hundreds of visitors are expected to turn out for the very popular <a style="font-weight: bold;" href="http://www.themillcasino.com/entertainment/salmon.cfm" target="_blank" class="broken_link"> 12th Annual Mill-Luck Salmon Celebration</a> and the <a style="font-weight: bold;" href="http://www.oregonsadventurecoast.com/listings/14th-annual-coos-basin-amateur-salmon-derby/" target="_blank">Annual Coos Basin Amateur Salmon Derby</a> September 12th-13th, 2015.
-
 ### The Mill-Luck Salmon Celebration
 
 The Mill-Luck Salmon Celebration offers visitors the opportunity to experience Native American culture, art, food and music. It features free daily performances by Native American storytellers, drummers, flutists and dancers, a marketplace offering traditional wares and foods, a bay-front canoe exhibit and races, traditional games and activities for children, plus a variety of cultural demonstrations and educational exhibits.
 
 The celebration is perhaps best known for it’s traditional salmon bake dinner where fresh salmon is prepared in the time-honored Coquille open-pit manner.
 
-To learn more, visit <a href="http://www.themillcasino.com/entertainment/salmon.cfm" target="_blank" class="broken_link">www.themillcasino.com</a> for schedule and Salmon Bake Dinner ticket information. <a href="http://www.themillcasino.com/auxsite/info/1509_salmoncelebration_flyer_web.pdf" target="_blank" class="broken_link">Click here</a> to download the PDF.
+To learn more, visit <a href="[https://www.themillcasino.com/entertainment/17th-annual-mill-luck-salmon-celebration/all/](https://www.themillcasino.com/entertainment/17th-annual-mill-luck-salmon-celebration/all/ "https://www.themillcasino.com/entertainment/17th-annual-mill-luck-salmon-celebration/all/")" >
 
 ### Coos Basin Salmon Derby
 

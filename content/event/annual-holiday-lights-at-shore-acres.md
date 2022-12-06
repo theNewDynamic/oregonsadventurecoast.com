@@ -11,7 +11,7 @@ desktoptitle: Annual Holiday Lights at Shore Acres  - BACK IN 2022!
 mobiletitle: Shore Acres Holiday Lights -  BACK IN 2022!
 hovertitle: Shore Acres Holiday Lights -  BACK IN 2022!
 hoverdescription: Shore Acres Holiday Lights -  BACK IN 2022 and Better than Ever!
-startdate: '2022-11-22'
+startdate: '2022-11-24'
 enddate: '2022-12-31'
 address:
   city: Charleston
@@ -35,9 +35,9 @@ website: http://shoreacres.net/
 
 {{< spacer 35 >}}
 
-Famous for its beautiful 7-acre botanical gardens and Japanese lily pond, Shore Acres State Park shines with over 325,000 LED lights, animated displays, Santa, choirs, and more. _A holiday tradition for the whole family._
+Famous for its beautiful 7-acre botanical gardens and Japanese lily pond, Shore Acres State Park shines with over 325,000 LED lights, whimsical animated displays, and more. _A holiday tradition for the whole family ._
 
-This festive annual display debuts on Thanksgiving Day (Thursday, November 24th) and will light up Shore Acres State Park from 4 p.m.-9:30 p.m. each night (including December 24th & 25th) thru December 31st.
+This festive annual display debuts on Thanksgiving Day (Thursday, November 24th) and will light up Shore Acres State Park from 4:00 pm - 9:00 pm each night (including December 24th & 25th) thru December 31st.
 
 {{< spacer 25 >}}
 
@@ -53,10 +53,11 @@ This year, [**Holiday Lights visitation will be through a timed reservation syst
 2. [**Visit the OPRD website**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381) **or click the Book Now Button below to book your time**
 3. **Pay the $5 fee** per vehicle
 4. **Print your pass** - you must bring the pass with you to enter the park
+5. Have more questions? **Call 541-888-3778**, the local State Parks office.
 
 {{< spacer 25 >}}
 
-### [**BOOK NOW**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381)
+### <a href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381" class="learn-more-anywhere-btn">BOOK NOW</a>
 
 {{< spacer 25 >}}
 

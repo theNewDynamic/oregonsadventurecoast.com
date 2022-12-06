@@ -91,7 +91,7 @@
       <div x-show="isCurrentMonth('{{ printf "%#v" .month }}') && isCurrentCity('{{ .address.city }}')" x-transition class="m-calendar-item clearfix">
         {{ with .media }}
         <div class="photo">
-            <img src="{{ .image }}" alt="{{ .alt_text }}">
+            <img src="{{ .image }}" alt="{{ .alt }}">
         </div>
         {{ end }}
 

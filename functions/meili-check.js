@@ -21,15 +21,15 @@ exports.handler = async function(event, context) {
 
   const apps = [
     {
-      id: 'dining',
+      id: 'oac-dining',
       endpoint: '/dining/index.json'
     },
     {
-      id: 'lodging',
+      id: 'oac-lodging',
       endpoint: '/lodging/index.json'
     },
     {
-      id: 'shopping',
+      id: 'oac-shopping',
       endpoint: '/shopping/index.json'
     }
   ]
@@ -48,10 +48,10 @@ exports.handler = async function(event, context) {
     
     let responseCheck = await index.getDocuments({
       limit: 1000,
-      attributesToRetrieve: ['title']
+      fields: ['title']
     })
     const retrievedDocuments = responseCheck
-    const pass = retrievedDocuments.length === documents.length
+    const pass = retrievedDocuments.total === documents.length
     checkOutput = {
       type: 'get',
       response: pass ? 'bravo' : `${retrievedDocuments.length} found on Meili but ${documents.length} found on the site.`,

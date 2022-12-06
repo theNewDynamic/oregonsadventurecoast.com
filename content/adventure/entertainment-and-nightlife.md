@@ -17,7 +17,7 @@ seo:
 
 The Coos Bay-North Bend region already hosts a fantastic selection of annual festivals highlighting a range of musical genres (i.e. Oregon Coast Music Festival, Music on the Bay, BBQ, Blues and Brews by the Bay and many more). So it follows that our local music scene continues to grow at bars, restaurants and other venues.
 
-Our area features some fabulous entertainment venues like [The Liberty Theatre](http://thelibertytheatre.org) (home of Little Theatre by the Bay) and the beautifully restored historic [Egyptian Theatre](http://egyptiantheatreoregon.com/) where visitors can frequently find great local music and entertainment options. [The Back Alley Pub & Grill](https://northbendlanes.com/bar-grill/) at [North Bend Lanes](https://northbendlanes.com/) on Virginia Avenue is another popular spot for casual dining, microbrews, a full bar and cosmic bowling!
+Our area features some fabulous entertainment venues like [The Liberty Theatre](http://thelibertytheatre.org) (home of Little Theatre by the Bay) and the beautifully restored historic [Egyptian Theatre](http://egyptiantheatreoregon.com/) where visitors can frequently find great local music and entertainment options. [The Back Alley Pub & Grill](https://northbendlanes.com/Back-Alley-Pub-Grill) at [North Bend Lanes](https://northbendlanes.com/) on Virginia Avenue is another popular spot for casual dining, microbrews, a full bar and cosmic bowling!
 
 But it’s inside our rustic beloved local pubs where one can find real  hidden musical gems! Our authentic, down-to-earth, Oregon Coast vibe promises an evening you won’t find anywhere else.
 
@@ -64,7 +64,7 @@ This well-known North Bend establishment is part nightclub, part sports bar. Loc
 1225 Virginia Ave  
 North Bend, OR 97459  
 (541) 756-0572  
-[www.northbendlanes.com](https://northbendlanes.com/bar-grill/)
+[www.northbendlanes.com](https://northbendlanes.com/Back-Alley-Pub-Grill)
 
 The Back Alley is a great place to stop by and eat at anytime of day. The prices are the best in town and the food has been a favorite for over 50 years. Homemade soups, sandwiches and award winning chicken bacon salad make this a weekly stop for locals. Along with great burgers, homemade pizza, grilled subs, we have something to please everyone. Micro Brews, Blended Drinks, Video Lottery and KENO!
 
@@ -88,6 +88,6 @@ This North Bend local favorite offers patrons a great selection of beers, fish a
 
 ### Cosmic Bowling at North Bend Lanes
 
-**For an indoor adventure like no other, look no further than North Bend Lanes Cosmic Bowling!** Laser Lights, Disco Lights, Black Lights, and Runway Lights. Haze machines pumping out fog. LOUD heart pounding music. The bowling lanes even glow in the dark during Cosmic Events! For a schedule of Cosmic Bowling times, visit [North Bend Lanes website](https://northbendlanes.com/cosmic-bowling/).
+**For an indoor adventure like no other, look no further than North Bend Lanes Cosmic Bowling!** Laser Lights, Disco Lights, Black Lights, and Runway Lights. Haze machines pumping out fog. LOUD heart pounding music. The bowling lanes even glow in the dark during Cosmic Events! For a schedule of Cosmic Bowling times, visit [North Bend Lanes website](https://northbendlanes.com/Bowling/Cosmic-Bowling).
 
 North Bend Lanes also hosts league and public bowling opportunities, live music, Red Neck Wine Tasting events and more.

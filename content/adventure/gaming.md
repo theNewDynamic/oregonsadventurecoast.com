@@ -17,7 +17,7 @@ You'll find 24/7 casino excitement on Oregon's Adventure Coast: Coos Bay, North 
 
 **The Mill Casino** and **Three Rivers Casino - Coos Bay** offer some of the most fun-filled, Vegas-style and casino-gaming in the Pacific Northwest.
 
-**_Did you know?_** _Coos Bay and North Bend are home to two federally recognized native tribes, the_ [**_Coquille Indian Tribe_**](/tribal-heritage-coquilles/) _and the **Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians**._
+**_Did you know?_** _Coos Bay and North Bend are home to two federally recognized native tribes, the_ [**_Coquille Indian Tribe_**](/tribal-heritage-coquilles/) _and the_ [**_Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians_**](/tribal-heritage-confederated/)_._
 
 Come and test your luck with more than 1,000 slots featuring old favorites and the newest electronic games out there. Take lessons on how to play table games or check out slot tournaments held regularly. There are opportunities for high rollers, medium stakes players, and those who choose to chat with friends - new and old - while playing penny slots - all with the chance to win.
 
@@ -31,20 +31,20 @@ Come and test your luck with more than 1,000 slots featuring old favorites and t
 3201 Tremont St, North Bend, OR  
 (800) 953-4800 | {{< link url="http://www.TheMillCasino.com" >}}TheMillCasino.com{{< /link >}}
 
-You will find gaming, lodging, dining and entertainment in an exceptional casino environment. With over 700 slots, card and table games, plus Sports Betting and special tournament events, you will find your favorite game at The Mill. The slots start out at 1 penny with chances to win millions. Table games include blackjack, Spanish 21, and craps & roulette (seasonally).
+You will find gaming, lodging, dining, and entertainment in an exceptional casino environment. With over 700 slots, card and table games, plus Sports Betting and special tournament events, you will find your favorite game at The Mill. The slots start out at 1 penny with chances to win millions and include a great mix of the latest games and your favorite classics. Table games include blackjack, Spanish 21, and craps & roulette (seasonally).
 
 divider
 
-![Three Rivers Casino - Coos Bay](/img/three-rivers-casino.jpg)
+![Three Rivers Casino Gaming floor in Coos Bay, Oregon](/img/three-rivers-casino-column-header.jpg)
 
 **Three Rivers Casino – Coos Bay**  
 1297 Ocean Blvd, Coos Bay, OR  
 (877) 374-8377 | {{< link url="https://www.threeriverscasino.com/coos-bay" >}}threeriverscasino.com{{< /link >}}
 
-Three Rivers Casino features the newest Electronic Gaming Machines. They offer EGM tournaments and special events just about every night of the week. Check out their website to find out the latest [monthly promotions](https://www.threeriverscasino.com/coos-bay-promotions)!
+Three Rivers Casino Coos Bay location opened in May 2015. The Casino offers a 15,000-square-foot gaming floor that boasts 250+ games. With daily promotions, your chances to win are endless. If you get hungry, check out Cafe 1297, our full-service restaurant & bar. Strolling along the casino floor, you can feel the place hum with excitement. From the latest gaming machines, to the sirens sounding for a big winner, you won't have to look any further than Three Rivers Casino for gaming fun.
 
 {{< /columns >}}
 
 {{< spacer 20 >}}
 
- [![Travel oregon link to Oregon Tribal Nations Page](/img/traveloregon-indianbutton-695x125.jpg)](https://traveloregon.com/places-to-go/tribal-nations)
+[![Travel oregon link to Oregon Tribal Nations Page](/img/traveloregon-indianbutton-695x125.jpg)](https://traveloregon.com/places-to-go/tribal-nations)

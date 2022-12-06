@@ -49,4 +49,4 @@ Celebrate Coos Bay’s rich history and the 2019 parade theme, “Our Great Outd
 
 ![Steve Prefontaine Annual Run](/img/steve-prefontaine-outdoor-mural.jpg)The ever-popular Prefontaine Memorial Run follows the training route of Coos Bay native and running phenom, Steve Prefontaine. After the run, runners and their guests are encouraged to view the Prefontaine Memorial Gallery at [Coos Art Museum](https://www.coosart.org/). This exhibit is a permanent collection of Steve’s awards and memorabilia, as well as numerous photographs highlighting his illustrious running career. The three-panel mural, pictured above, can be viewed on a building facing Hwy 101 between Anderson and Curtis! [Register Online for the Prefontaine Run. ](https://www.prefontainerun.com/run-information/application.html)
 
-[Click here](https://bayareafunfestival.com/2016-schedule/) to see the full schedule of events. See you in September!
+[Click here](https://bayareafunfestival.com/) to see the full schedule of events. See you in September!

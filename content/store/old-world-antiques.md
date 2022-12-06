@@ -7,14 +7,14 @@ photo_alt: ''
 property_category:
 - Antiques
 address:
-  street: 1866 Sherman Ave
+  street: 285 S Broadway
   street2: ''
-  city: North Bend
-  zip: '97459'
+  city: Coos Bay
+  zip: '97420'
   state: ''
 phone_local: "(541) 267-6742"
 phone_toll_free: ''
-website: https://www.facebook.com/worldantiques/
+website: ''
 coordinates:
   lat: '43.366096'
   lng: "-124.213328"
