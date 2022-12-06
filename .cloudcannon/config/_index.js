@@ -20,10 +20,11 @@ module.exports = {
   data_config: {
     states: true
   },
-  _inputs: require('./inputs.js'),
-  _structures: require('./structures.js'),
-  _select_data: require('./select.js'),
-  _editables: require('./editables.js'),
+  _inputs: require('./inputs'),
+  _structures: require('./structures'),
+  _select_data: require('./select'),
+  _editables: require('./editables'),
+  _snipets: require('./snippets'),
   _snippets_imports: {
     hugo: {
       include: [
