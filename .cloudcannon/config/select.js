@@ -1,0 +1,91 @@
+module.exports = {
+  layouts: [
+    "contact",
+    "adventures",
+    "calendarpage",
+    "eventspage",
+    "gallery",
+    "search",
+    "meeting-planners",
+    "meeting-planners-sub",
+    "our-area",
+    "press-media-industry",
+    "open-meetings",
+    "relocation-request",
+    "thank-you",
+    "travelersinfo",
+    "lodgingpage",
+    "diningpage",
+    "equipment",
+    "headless",
+    "home",
+    "nosidebar"
+  ],
+  categories: [
+    "Arts & Culture",
+    "Clamming",
+    "Crabbing",
+    "Fishing",
+    "Itineraries",
+    "Local Food & Drink",
+    "Local Spotlight",
+    "Miscellaneous",
+    "Oregon's Adventure Coast News & Info",
+    "Outdoor Adventures",
+    "Shopping & Entertainment",
+    "Special Events & Holidays",
+    "State Parks & National Lands"
+  ],
+  property_categories: [
+    "Antiques",
+    "Arts & Crafts",
+    "Bookstores",
+    "Boutique",
+    "Clothing",
+    "Fitness",
+    "Florist",
+    "Groceries",
+    "Hardware",
+    "Herbals",
+    "Home Goods",
+    "Personal services",
+    "Pet Products",
+    "Pharmacy",
+    "Resale",
+    "Shoes",
+    "Souvenirs",
+    "Specialty Foods",
+    "Sporting Goods",
+    "Vitamins",
+    "Liquor Stores/ Growler Fills"
+  ],
+  towns: [
+    "charleston",
+    "coos-bay",
+    "north-bend"
+  ],
+  adventures: [
+    "atving-motorsports",
+    "beach",
+    "crabbing-clamming",
+    "culture-museums",
+    "dunes",
+    "eat-drink",
+    "fishing",
+    "fishing-crabbing-clamming",
+    "historical",
+    "lighthouses",
+    "scenic-drives",
+    "shopping",
+    "state-parks-national-lands"
+  ],
+  durations: [
+    "full-day",
+    "half-day",
+    "long-weekend"
+  ],
+  tags: [
+    "something",
+    "other"
+  ]
+}

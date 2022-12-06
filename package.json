@@ -13,7 +13,9 @@
   "scripts": {
     "index": "node tools/lunr-run.js",
     "deploy": "HUGO_ENV=production bin/hugo* -e skip-json -F --gc --minify --cleanDestinationDir",
-    "start": "HUGO_ENV=development bin/hugo* server -F -D --navigateToChanged --noHTTPCache"
+    "start": "HUGO_ENV=development bin/hugo* server -F -D --navigateToChanged --noHTTPCache",
+    "cms_test": "node .cloudcannon/config/debug.js",
+    "cms_print": "node .cloudcannon/config/debug.js print"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
