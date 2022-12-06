@@ -90,10 +90,6 @@ module.exports = {
           editor_key: "number",
           type: "string"
         },
-        {
-          editor_key: "copy",
-          type: "string"
-        }
       ]
     },
   }
