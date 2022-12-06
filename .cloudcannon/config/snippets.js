@@ -13,7 +13,7 @@ module.exports = {
     preview: {
       text: "Spacer",
       icon: "vertical_align_center",
-      sub_text: [
+      subtext: [
         { key: "spacer_size"},
         "Create vertical space"
       ]
