@@ -14,8 +14,7 @@ module.exports = {
           type: "string"
         },
         {
-          editor_key: "copy",
-          source_key: "alt",
+          editor_key: "alt",
           type: "string"
         },
         {
@@ -31,7 +30,7 @@ module.exports = {
         { key: "image" }
       ],
       subtext: [
-        { key: "copy"},
+        { key: "alt"},
         "Adds a floating image"
       ]
     },
@@ -80,5 +79,22 @@ module.exports = {
         }
       }
     }
+  },
+  columns: {
+    template: "hugo_paired_shortcode_named_args",
+    content_key: copy,
+    definitions: {
+      shortcode_name: "columns",
+      names_args: [
+        {
+          editor_key: "number",
+          type: "string"
+        },
+        {
+          editor_key: "copy",
+          type: "string"
+        }
+      ]
+    },
   }
 }
