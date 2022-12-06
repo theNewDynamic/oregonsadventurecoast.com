@@ -31,7 +31,7 @@ module.exports = {
         { key: "image" }
       ],
       subtext: [
-        { key: "alt"},
+        { key: "copy"},
         "Adds a floating image"
       ]
     },
