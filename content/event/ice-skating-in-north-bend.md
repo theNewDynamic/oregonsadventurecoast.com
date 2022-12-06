@@ -50,7 +50,18 @@ Saturdays: Noon - 4 pm**
 
 {{< spacer 25>}}
 
-####   
+#### Waiver:
+
+Ice Skating Waiver required. [Download it here](/img/iceskatingwaiverform2013215120622am.pdf).
+
+{{< spacer 25>}}
+
+#### Code of Conduct:
+
+Please read this code of conduct document before visiting the rink.
+
+#### 
+
 FAQ
 
 **What is the capacity of the rink?** The rink is maxed at 70 people.
@@ -66,3 +77,9 @@ FAQ
 **Just want to watch others wobble along on thin-bladed skates?** You can do that too. There is seating under the tent!
 
 #### 
+
+Contact [nbinfo@northbendcity.org](mailto:nbinfo@northbendcity.org) for private rentals, group reservations, and sponsorship opportunities.
+
+Stay tuned for special themed nights, including Disco Ice Skating Nights, Movie Ice Skating Nights, Costume Ice Skating Nights, Karaoke Ice Skating Nights, and much more!
+
+Dates and times subject to change.
