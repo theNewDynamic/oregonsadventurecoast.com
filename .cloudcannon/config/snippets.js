@@ -85,7 +85,7 @@ module.exports = {
     definitions: {
       content_key: "copy",
       shortcode_name: "columns",
-      names_args: [
+      named_args: [
         {
           editor_key: "number_columns",
           source_key: "number",
