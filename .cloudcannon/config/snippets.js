@@ -57,7 +57,7 @@ module.exports = {
       positional_args: [
         {
           editor_key: "spacer_size",
-          type: "number"
+          type: "string"
         }
       ]
     },
@@ -71,7 +71,7 @@ module.exports = {
     },
     _inputs: {
       spacer_size: {
-        type: "number",
+        type: "text",
         comment: "Only multiples of 5",
         options: {
           step: 5,
