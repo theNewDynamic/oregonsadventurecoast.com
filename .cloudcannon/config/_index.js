@@ -11,6 +11,7 @@ module.exports = {
   collections_config_override: true,
   timezone: "America/New_York",
   _enabled_editors: [
+    "content",
     "data"
   ],
   paths: {
