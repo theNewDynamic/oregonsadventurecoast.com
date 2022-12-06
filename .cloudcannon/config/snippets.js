@@ -87,7 +87,8 @@ module.exports = {
       shortcode_name: "columns",
       names_args: [
         {
-          editor_key: "number",
+          editor_key: "number_columns",
+          source_key: "number",
           type: "string"
         },
       ]
