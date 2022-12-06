@@ -1,5 +1,8 @@
 const dev_only = (name) => ({
   template: "hugo_shortcode_positional_args",
+  definitions: {
+    shortcode_name: name
+  },
   preview: {
     icon: "do_not_disturb_alt",
     text: name,
