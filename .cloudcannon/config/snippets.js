@@ -42,10 +42,12 @@ module.exports = {
       float: {
         type: "select",
         comment: "On which side of the text, should the image float",
-        options: [
-          "left",
-          "right"
-        ]
+        options: {
+          values: [
+            "left",
+            "right"
+          ]
+        }
       }
     }
   },
