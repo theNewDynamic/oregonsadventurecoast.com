@@ -1,7 +1,8 @@
-const dev_only = (name) => ({
+const dev_only = (name, args = []) => ({
   template: "hugo_shortcode_positional_args",
   definitions: {
-    shortcode_name: name
+    shortcode_name: name,
+    positional_args: args
   },
   preview: {
     icon: "do_not_disturb_alt",
@@ -11,7 +12,12 @@ const dev_only = (name) => ({
 })
 
 module.exports = {
-  iframe: dev_only("iframe"),
+  iframe: dev_only("iframe", [
+    { 
+      editor_key: "name",
+      type: "string"
+    }
+  ]),
   floatimage: {
     template:  "hugo_shortcode_named_args",
     definitions: {
