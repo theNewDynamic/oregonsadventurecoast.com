@@ -82,7 +82,7 @@ module.exports = {
   },
   columns: {
     template: "hugo_paired_shortcode_named_args",
-    content_key: copy,
+    content_key: "copy",
     definitions: {
       shortcode_name: "columns",
       names_args: [
