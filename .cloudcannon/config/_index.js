@@ -25,7 +25,7 @@ module.exports = {
   _structures: require('./structures'),
   _select_data: require('./select'),
   _editables: require('./editables'),
-  _snipets: require('./snippets'),
+  _snippets: require('./snippets'),
   _snippets_imports: {
     hugo: {
       include: [
