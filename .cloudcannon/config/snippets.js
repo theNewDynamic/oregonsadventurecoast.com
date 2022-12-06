@@ -46,9 +46,6 @@ module.exports = {
           "left",
           "right"
         ]
-      },
-      size: {
-        type: "number"
       }
     }
   },
