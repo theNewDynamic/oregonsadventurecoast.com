@@ -93,5 +93,24 @@ module.exports = {
         },
       ]
     },
+    preview: {
+      text: "Columns",
+      subtext: [
+        { key: "copy" },
+        "Split copy into columns using the `divider` keyword"
+      ]
+    },
+    _inputs: {
+      number_columns: {
+        type: "select",
+        options: {
+          values: [
+            "1",
+            "2",
+            "3"
+          ]
+        }
+      }
+    }
   }
 }
