@@ -23,6 +23,7 @@ module.exports = {
     inline: true,
     definitions: {
       shortcode_name: "colortext",
+      content_key: "copy",
       named_args: [
         {
           editor_key: "color",
@@ -34,9 +35,20 @@ module.exports = {
       icon: "format_color_text",
       text: "Color Text",
       subtext: [
-        { key: "color" },
+        { key: "copy" },
         "Colorize text"
-    ]
+      ],
+      metadata: [
+        {
+          icon: "palette",
+          text: [
+            { key: "color" }
+          ]
+        }
+      ]
+    },
+    picker_preview: {
+      metadata: false
     }
   },
   accordions: {
