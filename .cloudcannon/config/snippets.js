@@ -29,6 +29,14 @@ module.exports = {
           type: "string",
         }
       ]
+    },
+    preview: {
+      icon: "format_color_text",
+      text: "Color Text",
+      subtext: [
+        { key: "color" },
+        "Colorize text"
+    ]
     }
   },
   accordions: {
