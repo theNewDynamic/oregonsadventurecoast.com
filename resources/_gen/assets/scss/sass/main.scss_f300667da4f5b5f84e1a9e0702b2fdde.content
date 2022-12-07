@@ -470,7 +470,8 @@ b, strong {
 /* Media Queries */
 /* HTML/Body */
 html {
-  background-color: #fff; }
+  background-color: #fff;
+  scroll-behavior: smooth; }
 
 body {
   font-family: "Roboto", sans-serif;
@@ -4909,3 +4910,27 @@ pre code {
   min-width: 100px;
   background: #dad7d7;
   padding: 1rem; }
+
+.back_top {
+  position: sticky;
+  bottom: 0;
+  text-align: right; }
+
+.back_top__button {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  right: 0;
+  bottom: 1rem;
+  background: #d74029;
+  border-top-left-radius: .4rem;
+  border-bottom-left-radius: .4rem;
+  padding: .6rem 1rem;
+  color: white !important;
+  text-align: center;
+  text-decoration: none; }
+  .back_top__button svg {
+    width: 1rem;
+    display: inline-block;
+    fill: currentColor;
+    margin-right: .5rem; }

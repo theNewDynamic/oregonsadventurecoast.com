@@ -1,1 +1,5 @@
-<span style="color: #{{ .Get "color" }}">{{ .Inner | markdownify }}</span>
+{{- $color := .Get "color" -}}
+{{- if not (in $color "#") -}}
+  {{- $color = print "#" $color -}}
+{{- end -}}
+<span style="color: {{ $color }}">{{ .Inner | markdownify }}</span>
