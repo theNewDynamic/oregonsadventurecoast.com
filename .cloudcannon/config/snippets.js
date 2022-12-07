@@ -18,6 +18,19 @@ module.exports = {
       type: "string"
     }
   ]),
+  colortext: {
+    template: "hugo_paired_markdown_shortcode_named_args",
+    inline: true,
+    definitions: {
+      shortcode_name: "colortext",
+      named_args: [
+        {
+          editor_key: "color",
+          type: "string",
+        }
+      ]
+    }
+  },
   accordions: {
     template: "hugo_shortcode_positional_args",
     definitions: {
