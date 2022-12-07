@@ -49,6 +49,13 @@ module.exports = {
     },
     picker_preview: {
       metadata: false
+    },
+    _inputs: {
+      copy: {
+        options: {
+          height: 135
+        }
+      }
     }
   },
   accordions: {
