@@ -18,6 +18,17 @@ module.exports = {
       type: "string"
     }
   ]),
+  accordions: {
+    template: "hugo_shortcode_positional_args",
+    definitions: {
+      shortcode_name: "accordions"
+    },
+    preview: {
+      icon: "expand_circle_down",
+      text: "Accordions",
+      subtext: "Display the accordions if any defined in the page's Accordion Sections"
+    }
+  },
   floatimage: {
     template:  "hugo_shortcode_named_args",
     definitions: {
