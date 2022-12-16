@@ -24,6 +24,7 @@ image: ''
 warning: true
 categories:
 - Special Events & Holidays
+draft: true
 
 ---
 If you love Salmon as much as we do, September is a great time to travel to Oregon’s South Coast! Not only is <a href="http://www.oregonsadventurecoast.com/featured-adventures/fishing-crabbing-clamming/" target="_blank">Chinook Salmon season</a> at it’s peak, there will be 2 events celebrating salmon the 2nd weekend in September.

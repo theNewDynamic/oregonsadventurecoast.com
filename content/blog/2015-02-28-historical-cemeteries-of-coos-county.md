@@ -21,6 +21,7 @@ old_categories:
 image: ''
 categories:
 - Arts & Culture
+draft: true
 
 ---
 To understand and appreciate the present, we sometimes need to explore the past. From the first settlement established at Empire City in 1853 to the bustling heart of a water-dependent community (then called Marshfield), Coos County is rich with fascinating people and history. With spring weather approaching, our <a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=csr&CScnty=2210&CSsr=41&" target="_blank">historic cemeteries</a> are excellent destinations to discover the stories of the past.

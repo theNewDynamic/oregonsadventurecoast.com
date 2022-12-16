@@ -19,6 +19,7 @@ image: "/img/07-11-18-coast-guard-exhibition.jpg"
 warning: true
 categories:
 - Arts & Culture
+draft: true
 
 ---
 <h2>Coos History Museum Invites Public to Free, Family-Friendly Event July 19th to Celebrate Opening of "U.S. Coast Guard: Through the Eye of the Artist” Exhibition</h2>

@@ -25,6 +25,7 @@ old_categories:
 image: ''
 categories:
 - Clamming
+draft: true
 
 ---
 Thanks to Daylight Savings Time, Oregon Coast residents and visitors get an extra hour of low tides during daylight which is great for clamming! The South Oregon coast, home to numerous bays, is the ideal destination for recreational diggers and we expect tides to be ideal for clamming well into spring, summer and even fall!

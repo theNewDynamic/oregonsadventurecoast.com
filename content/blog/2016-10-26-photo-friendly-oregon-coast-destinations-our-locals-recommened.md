@@ -24,6 +24,7 @@ image: ''
 warning: true
 categories:
 - Miscellaneous
+draft: true
 
 ---
 ### Photo opps can be found everywhere in our area, you just have to keep your eyes open.

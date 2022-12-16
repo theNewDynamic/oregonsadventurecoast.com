@@ -18,6 +18,7 @@ image: ''
 warning: true
 categories:
 - Arts & Culture
+draft: true
 
 ---
 The streets of Coos Bay is about to be filled with music this summer. Not only do we have the Oregon Coast Music Festival July 21st-30th, _Coos Bay Downtown Association has announced that the popular lunchtime concert series_ will kick off again on July 8th at noon!

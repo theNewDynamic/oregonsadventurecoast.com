@@ -28,6 +28,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+draft: true
 
 ---
 **Coos Bay Downtown Association and the Coos Bay Farmers Market announced their 2021 Farmers Market Season will open Wednesday, May 5, 2021, and continue every Wednesday through October 27, 2021, 9:00 a.m. - 2:00 p.m.**

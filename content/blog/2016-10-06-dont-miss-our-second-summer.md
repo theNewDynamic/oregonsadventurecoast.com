@@ -24,6 +24,7 @@ old_categories:
 image: ''
 categories:
 - Oregon's Adventure Coast News & Info
+draft: true
 
 ---
 ## Did you know that Fall is one of the BEST times to visit the Oregon Coast?

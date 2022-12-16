@@ -20,6 +20,7 @@ image: ''
 warning: true
 categories:
 - Local Spotlight
+draft: true
 
 ---
 It’s here! After months of anticipation and nine years of development, The University of Oregon has opened a brand new public museum and aquarium for visitors of all ages in Charleston!

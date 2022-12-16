@@ -20,6 +20,7 @@ image: "/img/Egyptian-theater-blog-695x322.jpg"
 warning: true
 categories:
 - Arts & Culture
+draft: true
 
 ---
 While we're in "shut-down" mode from the COVID-19 pandemic, we're taking a closer look at some of our historical gems right here in the Coos Bay area. In this post, we're highlighting one of our most treasured sites, the [Egyptian Theatre](http://egyptiantheatreoregon.com), a cultural icon of the area since its doors first opened in 1925. That's right, you don’t need to travel across the world to visit a historical Egyptian landmark, there’s one right downtown!

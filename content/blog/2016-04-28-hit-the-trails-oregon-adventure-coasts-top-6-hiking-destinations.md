@@ -18,6 +18,7 @@ old_categories:
 image: ''
 categories:
 - Outdoor Adventures
+draft: true
 
 ---
 There is no time like spring and summer on the Oregon Coast!  The warmer, mild weather makes it an ideal time to pack your bag, pop on your hiking boots, and hit the trail! If nature and great exercise are what you’re after, then look no further. Here are **6 Great Hiking Destinations in Coos Bay, North Bend, and Charleston.**

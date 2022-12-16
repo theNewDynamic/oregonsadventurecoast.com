@@ -20,6 +20,7 @@ image: "/img/09-21-17-moonlight-paddle.jpg"
 warning: true
 categories:
 - Outdoor Adventures
+draft: true
 
 ---
 The South Slough National Estuarine Research Reserve (South Slough NERR) in Charleston Oregon, is one of our most valuable natural attractions here on Oregon's South Coast. This 5,000 acre natural area is a place like no other. It encompasses a mixture of open water channels, tidal and freshwater wetlands, riparian areas, forested uplands and open water habitats.

@@ -20,6 +20,7 @@ image: ''
 warning: true
 categories:
 - Arts & Culture
+draft: true
 
 ---
 Did you know that one of the most powerful and captivating community-driven art projects in our region is just a short day trip away in nearby Bandon, Oregon? The <a href="http://washedashore.org/" target="_blank">Washed Ashore: Art to Save the Sea</a>, led by artist Angela Haseltine Pozzi, raises awareness about the problem of plastic pollution in Earth’s oceans.

@@ -25,6 +25,7 @@ image: ''
 warning: true
 categories:
 - Special Events & Holidays
+draft: true
 
 ---
 <h2 style="text-align: left;">

@@ -27,6 +27,7 @@ image: "/img/02-16-18-spring-whale-watch.jpg"
 warning: true
 categories:
 - Oregon's Adventure Coast News & Info
+draft: true
 
 ---
 In just a few weeks, an estimated 18,000 migrating gray whales will begin their northbound journey to Alaska and visitors will have the chance see them as they pass the Oregon Coast. As they make their way back to the feeding grounds off the shores of Alaska, the whales tend to travel to stay closer to shore—within a half mile is not unusual. The peak travel time is in March, but migrating whales can be spotted off our coast well into the summer months.

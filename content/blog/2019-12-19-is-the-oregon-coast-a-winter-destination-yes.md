@@ -17,6 +17,7 @@ image: "/img/winter-storm-watch-oregon-coast-blog-695x322-jpg.png"
 warning: true
 categories:
 - Oregon's Adventure Coast News & Info
+draft: true
 
 ---
 #### Take Advantage of the [Storm Watching Lodging Special](https://www.oregonsadventurecoast.com/storm15/) and save 15% on Lodging at Participating Properties Until March 31,2021!

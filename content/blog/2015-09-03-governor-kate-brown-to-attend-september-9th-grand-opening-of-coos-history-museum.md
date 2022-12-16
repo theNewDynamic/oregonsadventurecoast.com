@@ -26,6 +26,7 @@ image: ''
 warning: true
 categories:
 - Arts & Culture
+draft: true
 
 ---
 Though the beautiful new <a href="http://www.cooshistory.org/" target="_blank">Coos History Museum</a> has technically been open for several months, the museum is inviting the public to help celebrate it’s official grand opening and a new era of cultural and tourism for Coos Bay’s historic Front Street on Wednesday, September 9, 2015 from 10 a.m. to 10 p.m. Admission will be free all day. A commemoration will officially open the building at noon and Oregon Governor Kate Brown is scheduled to appear at the museum from 1 p.m. to 2 p.m.

@@ -20,6 +20,7 @@ image: "/img/holidaylights-176.jpg"
 warning: true
 categories:
 - Special Events & Holidays
+draft: true
 
 ---
 <h2><strong>Coos Bay-North Bend Visitor and Convention Bureau to host Twitter and Instagram photo contest!</strong></h2>

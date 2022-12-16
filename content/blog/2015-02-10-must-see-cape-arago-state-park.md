@@ -15,6 +15,7 @@ description: These are just a few things travelers have said about their visit t
   located at the end of Cape Arago Highway about 15 miles southwest of Coos Bay.
 categories:
 - State Parks & National Lands
+draft: true
 
 ---
 **“Favorite secret beach”.**

@@ -32,6 +32,7 @@ old_categories:
 image: ''
 categories:
 - Clamming
+draft: true
 
 ---
 ## Mucky mucks

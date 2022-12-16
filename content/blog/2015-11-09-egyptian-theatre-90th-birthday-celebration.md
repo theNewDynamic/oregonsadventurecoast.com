@@ -13,6 +13,7 @@ image: ''
 warning: true
 categories:
 - Arts & Culture
+draft: true
 
 ---
 <pre>Photos via <a href="https://www.facebook.com/EGYPTIAN-THEATRE-COOS-BAY-233578989050/?fref=photo" target="_blank">Egyptian Theatre Facebook</a></pre>

@@ -20,6 +20,7 @@ image: "/img/03-21-18-native-american-armed-forces.jpg"
 warning: true
 categories:
 - Arts & Culture
+draft: true
 
 ---
 <pre><em>Photo Courtesy of <a href="http://nmai.si.edu/explore/exhibitions/item/?id=958" target="_blank" rel="noopener noreferrer">National Museum of the American Indian</a> and Coos History Museum.</em></pre>

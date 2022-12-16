@@ -25,6 +25,7 @@ image: ''
 warning: true
 categories:
 - Miscellaneous
+draft: true
 
 ---
 Let’s not mince words here. We’re big fans of cheap. Cheap is awesome, that’s just a proven fact. And even better than cheap is free!  Nothing beats spending an awesome day with friends without the unsettling feeling of “wallet fatigue.”

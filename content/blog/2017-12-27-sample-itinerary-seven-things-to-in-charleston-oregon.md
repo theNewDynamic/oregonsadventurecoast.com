@@ -22,6 +22,7 @@ image: "/img/12-27-17-seven-things-in-charleston.jpg"
 warning: true
 categories:
 - Local Spotlight
+draft: true
 
 ---
 Oregon's Adventure Coast features a relaxed and rustic atmosphere ideal for anyone seeking refuge from the hustle and bustle of the "real world". Charleston is known for its charming marina, fishing, friendly merchants, beautiful beaches and a distinctly charismatic local community.

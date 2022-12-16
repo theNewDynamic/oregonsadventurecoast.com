@@ -24,6 +24,7 @@ image: "/img/10-25-17-storm-watch-season.jpg"
 categories:
 - Outdoor Adventures
 - Oregon's Adventure Coast News & Info
+draft: true
 
 ---
 October is here and that means "<a href="http://www.oregonsadventurecoast.com/featured-adventures/stormwatching/">storm watching </a>season" is upon us!  The massive waves (some reaching up to 120 feet high!) resulting from Pacific storms that rage during the fall and winter months put on quite a show. One could spend hours gazing at the Pacific Ocean’s majestic fury and it's dramatic waves. It's a little-known secret that some of the best storm watching spots on the Oregon Coast are right in our backyard!

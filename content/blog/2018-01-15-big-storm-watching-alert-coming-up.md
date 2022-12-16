@@ -26,6 +26,7 @@ image: "/img/01-15-18-storm-watch-alert.jpg"
 warning: true
 categories:
 - Oregon's Adventure Coast News & Info
+draft: true
 
 ---
 <em>Top Photo Courtesy of Melisa Smith</em>

@@ -33,6 +33,7 @@ aliases:
 warning: true
 categories:
 - Arts & Culture
+draft: true
 
 ---
 <p style="text-align: left;">Our unique setting on Oregon's South Coast has been a source of inspiration to artists and performers from all over the world. Not only are we home to the Coos Art Museum, a cultural haven since 1966, the towns of Coos Bay, North Bend & Charleston are home to renowned festivals, events and spaces that celebrate the arts, theatre and music.</p>

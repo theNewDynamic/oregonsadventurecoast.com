@@ -20,6 +20,7 @@ warning: true
 categories:
 - Shopping & Entertainment
 - Local Food & Drink
+draft: true
 
 ---
 ### What Coos Bay Attractions Are The Most Popular Among TripAdvisor Users?

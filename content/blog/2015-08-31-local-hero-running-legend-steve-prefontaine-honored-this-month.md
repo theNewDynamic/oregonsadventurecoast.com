@@ -25,6 +25,7 @@ image: ''
 warning: true
 categories:
 - Local Spotlight
+draft: true
 
 ---
 **_“A race is a work of art that people can look at and be affected in as many ways as they’re capable of understanding.”- Steve Prefontaine_**

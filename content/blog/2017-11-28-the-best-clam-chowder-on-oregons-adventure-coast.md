@@ -20,6 +20,7 @@ image: "/img/11-28-17-best-clam-chowder.jpg"
 warning: true
 categories:
 - Local Food & Drink
+draft: true
 
 ---
 There is nothing like a heaping bowl of hot Clam Chowder to warm you up after a day of fishing, shopping, <a href="http://oregonsadventurecoast.com/listings/whale-watching-week-at-cape-arago/" target="_blank" rel="noopener noreferrer">Whale Watching</a>, checking out Holiday Lights at <a href="http://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=68" target="_blank" rel="noopener noreferrer">Shore Acres State Park </a>or any of our other attractions.

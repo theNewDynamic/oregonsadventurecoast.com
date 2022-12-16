@@ -18,6 +18,7 @@ image: ''
 warning: true
 categories:
 - Arts & Culture
+draft: true
 
 ---
 Two of Coos Bay&#8217;s most treasured landmarks were featured recently on [KCBY&#8217;](http://kcby.com/)s <a href="http://kcby.com/features/western-oregon-living" target="_blank">Western Oregon Living</a> hosted by <a href="https://twitter.com/sabrinahost" target="_blank">Sabrina Reese</a>!

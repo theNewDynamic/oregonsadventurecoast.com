@@ -40,6 +40,7 @@ old_categories:
 image: ''
 categories:
 - Shopping & Entertainment
+draft: true
 
 ---
 You’ve heard that old saying, “The best things in life are free…” and it’s true!  Some of our favorite attractions and most treasured resources here on Oregon’s South Coast are completely free of charge or very inexpensive to enjoy.  From free festivals and outdoor concerts to movies and screenings, there is something for everyone.

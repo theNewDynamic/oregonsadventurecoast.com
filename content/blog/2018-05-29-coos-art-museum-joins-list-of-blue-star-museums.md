@@ -17,6 +17,7 @@ image: "/img/05-29-18-coos-art-museum.jpg"
 warning: true
 categories:
 - Arts & Culture
+draft: true
 
 ---
 Coos Art Museum is one of more than 2,000 museums across America to offer free admission to military personnel and their families this summer in collaboration with the National Endowment for the Arts, Blue Star Families, and the Department of Defense.

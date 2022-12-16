@@ -18,6 +18,7 @@ image: "/img/07-11-17-new-race-in-town.jpg"
 warning: true
 categories:
 - Outdoor Adventures
+draft: true
 
 ---
 There's a reason why runners love to travel to Oregon's South Coast. Not only is this home to one of Oregon’s greatest sports legends, the late <a href="/steve-prefontaine-story/" rel="noopener noreferrer"> Steve Prefontaine</a>, our region is filled with natural amenities ideal for training including challenging hills, trails, temperate weather and coastal beauty that can't be found anywhere else in the country.

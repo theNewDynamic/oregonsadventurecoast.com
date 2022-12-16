@@ -19,6 +19,7 @@ image: "/img/06-16-17-summer-art-cart.jpg"
 warning: true
 categories:
 - Arts & Culture
+draft: true
 
 ---
 <a href="https://www.coosart.org/" target="_blank">Coos Art Museum</a> is preparing to present its free summer arts program at three locations. The mobile arts activity “Art Cart in the Parks” is designed to augment, enhance and expand the current Free Summer Lunch Program for children at Millicoma School, Boynton Park and John Topits Park. Programs will begin June 19th and run through August 18th. Scheduled times and days are Mondays 11:15 am at Millicoma School, Wednesdays 12:30 pm at Boynton Park and Fridays 11:45 am at John Topits Park. Each program is designed to run for one hour and is completely free to all participants.

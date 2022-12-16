@@ -23,6 +23,7 @@ warning: true
 categories:
 - Outdoor Adventures
 - State Parks & National Lands
+draft: true
 
 ---
 <pre><em>Photographer: Chris Hyde</em></pre>

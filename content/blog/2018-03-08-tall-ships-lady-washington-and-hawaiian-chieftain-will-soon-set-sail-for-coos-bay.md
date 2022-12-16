@@ -27,6 +27,7 @@ image: "/img/03-08-18-lady-washingyon-sets-sali.jpg"
 warning: true
 categories:
 - Special Events & Holidays
+draft: true
 
 ---
 We are thrilled to announce the<strong> <a href="http://www.historicalseaport.org/ships/lady-washington/">Lady Washington</a> will return to Coos Bay April 11th – 17th, 2018</strong>! Locals and visitors will have the rare opportunity to tour this majestic <a href="http://historicalseaport.org/about-us/our-vessels/lady-washington/" target="_blank" rel="noopener noreferrer">tall ship</a> and meet her crew throughout the week. The dockside vessel walk-on tours will be open to the public for a suggested donation of $5 per person.

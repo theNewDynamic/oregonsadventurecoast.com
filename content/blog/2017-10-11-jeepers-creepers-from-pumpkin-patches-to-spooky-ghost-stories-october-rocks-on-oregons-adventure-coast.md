@@ -18,6 +18,7 @@ image: "/img/10-11-17-fun-and-spooky-coast.jpg"
 warning: true
 categories:
 - Special Events & Holidays
+draft: true
 
 ---
 Whether it's trick or treating, scary movies or just an old-fashioned day at a local pumpkin patch....there is something for everyone on Oregon's Adventure Coast - Coos Bay, North Bend and Charleston!

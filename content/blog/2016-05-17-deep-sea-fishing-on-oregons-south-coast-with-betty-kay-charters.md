@@ -21,6 +21,7 @@ image: ''
 warning: true
 categories:
 - Fishing
+draft: true
 
 ---
 ## “Captain Bill was wonderful, going out of his way to find a good fishing spot and track down a whale for us.”

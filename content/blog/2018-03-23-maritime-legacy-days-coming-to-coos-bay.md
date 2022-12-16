@@ -25,6 +25,7 @@ image: "/img/03-23-18-maritime-legacy-days.jpg"
 warning: true
 categories:
 - Special Events & Holidays
+draft: true
 
 ---
 #### <h4>UPDATE 4/13/18 Sorry everybody, we just got word.</h4>
