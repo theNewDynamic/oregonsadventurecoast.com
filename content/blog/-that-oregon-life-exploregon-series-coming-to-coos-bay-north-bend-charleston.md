@@ -16,6 +16,7 @@ seo:
 warning: true
 categories:
 - Oregon's Adventure Coast News & Info
+draft: true
 
 ---
 <strong>UPDATE as of August 1st:</strong> <em>As originally noted, the scheduled broadcast dates for the segments mentioned in this post are subject to change without notice. We'll do our best to keep you updated. At this time, some of the segments scheduled to air today &amp; tomorrow will now be shared on Friday. Tune into the <a href="https://www.facebook.com/ThatOregonLife/">That Oregon Life Facebook Page</a>!</em>
