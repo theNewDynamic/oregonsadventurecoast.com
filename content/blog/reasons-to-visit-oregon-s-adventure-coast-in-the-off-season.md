@@ -4,7 +4,7 @@ date: 2022-12-19T05:00:00+00:00
 description: 'If you have never visited Oregon''s Adventure Coast: Coos Bay, North
   Bend, and Charleston during our “off-season”, you are missing out! Here are some
   of the many reasons to visit Oregon’s Adventure Coast this winter.'
-image: "/img/storm-watching-people-695x322.jpg"
+image: "/img/winter-storm-blog-695x322-jpg.png"
 tags:
 - Coos Bay
 - North Bend
