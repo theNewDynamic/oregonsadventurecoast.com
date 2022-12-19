@@ -1,6 +1,6 @@
 ---
 title: Follow Our Summer Fishing Tips on Oregon's Adventure Coast
-date: 2022-07-19T04:00:00+00:00
+date: 2022-07-19T04:00:00.000+00:00
 description: Last month, we highlighted a variety of fishing styles to suit your preferences,
   lifestyle, skill level and time of the year you will be traveling. We’re following
   up on that piece with some smart and practical fishing tips to get the most out
@@ -52,7 +52,7 @@ Last month, we [highlighted a variety of fishing styles](https://www.oregonsadve
 
 **#4 CHECK TIDES & LOCAL FORECASTS BEFORE YOU GO**. We don't have to tell you how important it is to pay attention to the weather forecast when you are planning an outdoor recreational activity on Oregon's Adventure Coast. Local news stations like [KCBY](https://kcby.com/), [The World Newspaper](https://theworldlink.com/news/local/), and [K-DOCK 92.9 FM](https://kdockfm.com/) are just a few of the local media organizations you can turn to for up-to-date reports. Check the tide times at [tides-forecast.com](https://www.tide-forecast.com/locations/Coos-Bay-Oregon/tides/latest).
 
-**#5 DON'T BE AFRAID TO ASK FOR ADVICE.** The local bait and tackle shops offer all the gear, plus pro tips for both novice and experienced anglers. Visitors will also find excellent tips and recommendations by calling local businesses like [Basin Tackle Shop](https://www.facebook.com/basintacklecharleston/) and [Bite’s On Bait & Tackle](https://www.yelp.com/biz/bites-on-bait-and-tackle-coos-bay). Here’s a list of other local[ businesses](https://oregonsadventurecoast.com/equipment-rent-and-buy/) that may be a valuable resource to you.
+**#5 DON'T BE AFRAID TO ASK FOR ADVICE.** The local bait and tackle shops offer all the gear, plus pro tips for both novice and experienced anglers. Visitors will also find excellent tips and recommendations by calling local businesses like [Bite’s On Bait & Tackle](https://www.yelp.com/biz/bites-on-bait-and-tackle-coos-bay). Here’s a list of other local[ businesses](https://oregonsadventurecoast.com/equipment-rent-and-buy/) that may be a valuable resource to you.
 
 **#6 BE SMART & STAY SAFE.** Our quiet, peaceful, [undeveloped beaches](https://www.oregonsadventurecoast.com/undeveloped-beaches) are ideal for recreational fishing, but if you ignore [these potentially lifesaving safety guidelines](https://www.oregonsadventurecoast.com/blog/eight-ways-to-stay-safe-on-the-beaches-along-the-oregon-coast), a relaxing fishing excursion could suddenly become unsafe without warning. Read [Safe Ways to Explore the Beach](https://oregonstateparks.org/index.cfm?do=v.page&id=96) for more information.
 
@@ -86,7 +86,6 @@ Last month, we [highlighted a variety of fishing styles](https://www.oregonsadve
 
 **_✔ Cooler._** _If you’re bringing drinks or snacks with you, a cooler will be invaluable. Fill it with some ice and you’re good to go!_
 
-  
 **#10 VISIT THE** [**COOS BAY VISITOR INFORMATION CENTER**](https://www.oregonsadventurecoast.com/contact/)**.** Once you’ve checked into your hotel or campsite, put the following address into your GPS and head straight here: 50 Central Avenue Coos Bay, OR 97420. Our friendly staff and volunteers are eager to help you with any questions you might have, along with insider information that only the locals would know. Hours of operation Monday-Friday 9am-5pm & Sat 10am-2pm, Sun 10am-2pm Memorial Day to Mid-October.
 
 _Be sure to visit the_ [_Oregon Department of Fish & Wildlife_](https://myodfw.com/recreation-report/fishing-report/marine-zone) _for the latest recreation reports and regulation updates for our region._
