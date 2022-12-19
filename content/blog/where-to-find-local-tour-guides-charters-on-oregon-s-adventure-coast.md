@@ -82,8 +82,6 @@ Here are some local Fishing Guide Services and Boat Charters to check out:
 
 **Allegany Outfitters -** A family owned and operated guide service located about 15 miles east of Coos Bay, Oregon, offering fishing trips. _Coos Bay, 541-269-5259_
 
-**Basin Tackle Charleston** - Located in the Charleston Marina, this local institution carries everything you would ever need for salt and freshwater fishing, crabbing, or clamming. Their friendly, helpful, and somewhat quirky staff is also available to give instruction and classes. _Charleston, 541-888-3474_
-
 **Betty Kay Charters -** Captain Kurt and Captain Alan are ready to give you a memorable, fun fishing trip. They will go all out to find and get you fish, and will give you helpful tips and assist you. Your safety and fun is their focus. You will see the beautiful Oregon coastline while fishing near-shore in 60′ to 200′ of water. Frequently caught fish are: rock fish, cabazone, quill back, tiger rock, vermilion, & ling cod. _Charleston, 800-752-6303_
 
 **Chinook Charters -** Chinook Charters offers guided trips for ocean crabbing, rockfish, lingcod, halibut and tuna. _North Bend, 541-662-0964_
