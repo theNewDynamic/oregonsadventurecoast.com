@@ -1,6 +1,6 @@
 ---
 title: Coos Bay Manor Bed & Breakfast
-photo_name: "/img/coos-bay-manor.jpg"
+photo_name: "/img/coos-bay-manor.jpeg"
 property_name: Coos Bay Manor
 property_category: 3 - Bed & Breakfasts
 address:
