@@ -36,7 +36,7 @@ The three-city stretch is also ripe with opportunities for [charter boat fishing
 
 #### Crab All You Want
 
-As a family – my wife, Amy, and kids Madeline and Spencer – we have done our fair share of crabbing along the Oregon Coast, but this was our first time getting some rings in the water in Charleston. Our first afternoon in town, we met up with Rob Gensorek, owner of [Basin Tackle Charleston](https://www.basintackle.net/), who set the kids up with a baited crab ring. They knew just what to do, tossing it into the water, patiently waiting for 10 minutes or so, and then pulling up fast. No Dungeness keepers, but they did nab a rotund red rock crab – a first for us – that Gensorek christened Steve. We sampled him later. Delicious.
+As a family – my wife, Amy, and kids Madeline and Spencer – we have done our fair share of crabbing along the Oregon Coast, but this was our first time getting some rings in the water in Charleston. Our first afternoon in town, we met up with Rob Gensorek, former owner of [Basin Tackle Charleston](https://www.basintackle.net/), who set the kids up with a baited crab ring. They knew just what to do, tossing it into the water, patiently waiting for 10 minutes or so, and then pulling up fast. No Dungeness keepers, but they did nab a rotund red rock crab – a first for us – that Gensorek christened Steve. We sampled him later. Delicious.
 
 The next day, we started out with some surfperch fishing right off the beach at Horsefall, an amazing beach just north of Coos Bay in North Bend. The fish weren’t biting, but the sun was out and the ocean was beautiful, so there was nothing to complain about. At all.
 
