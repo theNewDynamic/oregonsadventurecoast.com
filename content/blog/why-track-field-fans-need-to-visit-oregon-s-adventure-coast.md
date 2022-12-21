@@ -1,7 +1,7 @@
 ---
 title: Fans of the World Athletics Championships Need to Visit Oregon’s Adventure
   Coast!
-date: 2022-04-26T04:00:00+00:00
+date: 2022-04-26T04:00:00.000+00:00
 description: 'Visitors from all over the world have traveled to Oregon’s Adventure
   Coast to explore the hometown of internationally acclaimed track star Steve Prefontaine,
   who helped to inspire the American running craze that began in the mid-1970s. '
@@ -29,6 +29,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+draft: true
 
 ---
 ## **_Traveling to Oregon to Watch the 2022 World Athletics Championships? Take a Side Trip to Steve Prefontaine’s Hometown!_**
