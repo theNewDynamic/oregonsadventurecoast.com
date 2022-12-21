@@ -44,6 +44,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+draft: true
 
 ---
 _The towns of_ [_Coos Bay, North Bend, and Charleston_](https://www.oregonsadventurecoast.com/our-area/?utm_source=adventure-december-2021&utm_medium=mailchimp&utm_campaign=holiday-25) _are year-round destinations offering a calendar full of spirit and adventure._

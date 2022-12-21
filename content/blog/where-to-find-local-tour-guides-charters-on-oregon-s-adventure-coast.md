@@ -34,6 +34,7 @@ aliases:
 accordion_sections: []
 warning: false
 warning_copy: ''
+draft: true
 
 ---
 > **"Guide - noun. A person who advises or shows the way to others." -Merriam Webster Dictionary**

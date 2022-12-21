@@ -1,6 +1,6 @@
 ---
 title: Plan an Oregon Coast Winter Storm Watching Adventure in 2022!
-date: 2021-12-28T05:00:00+00:00
+date: 2021-12-28T05:00:00.000+00:00
 description: 'Watching waves during a winter storm at Shore Acres State Park is awe-inspiring,
   so it’s no wonder why photographers and visitors come out in droves for Winter storm
   watching.  Check out some of these winter storm photographs taken on Oregon''s Adventure
@@ -30,6 +30,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+draft: true
 
 ---
 Watching waves during a winter storm at Shore Acres State Park is awe-inspiring, so it’s no wonder why photographers and visitors come out in droves for [Winter storm watching](https://www.oregonsadventurecoast.com/storm-watching/). If you are among the visitors who plan to visit **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** between January 1st, 2022 through February 28, 2022, you can receive [15% off lodging at participating properties](https://www.oregonsadventurecoast.com/storm15/)! _Please note that terms and conditions apply._
