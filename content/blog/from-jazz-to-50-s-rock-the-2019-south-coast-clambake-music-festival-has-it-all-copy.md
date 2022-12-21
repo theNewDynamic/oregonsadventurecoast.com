@@ -1,9 +1,9 @@
 ---
-title: From Jazz to 50’s Rock, the 2019 South Coast Clambake Music Festival Has It
+title: From Jazz to 50’s Rock, the 2023 South Coast Clambake Music Festival Has It
   All!-(copy)
-date: 2019-02-12T15:46:00.000+00:00
-description: "Break out those dancin’ shoes! The annual South Coast Clambake Music
-  Festival is coming back to rock and roll Oregon's South Coast March 8th-10th, 2019!\n\n"
+date: 2023-01-10T15:46:00+00:00
+description: "At Last! The South Coast Clambake Music Festival is BACK to rock and
+  roll Oregon's South Coast March 10 -12, 2023\n\n"
 tags:
 - Beaches
 - best western
@@ -35,16 +35,72 @@ categories:
 draft: true
 
 ---
-{{< floatimage src="img/SCCMusicFest_30thlogo-1.png" float="right" alt="South Coast Clambake Music Festival 30th Anniversary" size="100" >}}
+South Coast Clambake Music Festival Returns in March of 2023
 
-Break out those dancin’ shoes! The annual South Coast Clambake Music Festival is coming back to rock and roll Oregon's South Coast <strong>March 8th-10th, 2019</strong> at The Mill Casino • Hotel in North Bend!
+It’s been a long three years, but at last - the annual [South Coast Clambake Music Festival](https://www.oregonsadventurecoast.com/event/south-coast-clambake-music-festival/) is coming BACK to rock and roll Oregon's Adventure Coast: Coos Bay, North Bend, Charleston March 10-12, 2023!
 
-Now in its 30th year, the South Coast Clambake Music Festival has entertained thousands of music lovers in our region. This year's exciting musical extravaganza brings another fabulous lineup of incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco all under one roof!
+It’s been a while since this popular music festival has happened on Oregon’s South Coast, so we wanted to provides some answers to some of the questions you might have.
 
-![](/img/DSC_3224.jpeg)
+**_Question: What is a clambake? Is this like a food festival with clams?_**
 
-What originally began as the Dixieland Jazz Festival 30 years ago has evolved into one of the biggest annual music festivals on the Oregon Coast and offers a wide range of musical styles that will have you up on your feet.
+**Answer:** No, the South Coast Clambake Music Festival is about the music, not food. “Clambake” is actually an old-time musical term for a “jam session”. But don't worry, there are plenty of spots around town serving fresh seafood- including some of the best clam dishes you can imagine! You can even dig your own!
 
-If this is your first Clambake Music Festival, don't let “Clambake” in the title throw you off! “Clambake” is actually an old-time musical term for a “jam session”. The festival is a celebration of music and attracts music enthusiasts and dance lovers from up and down the West Coast. But don't worry, there are plenty of spots around town serving fresh clams and you can even dig your own!
+**_Question: Where is it taking place?_**
 
-The South Coast Clambake Music Festival is one of the biggest musical events of the year, so be sure to make your reservations as soon as you can! <a href="http://oregonsadventurecoast.com/lodging/" target="_blank" rel="noopener noreferrer"><strong>Click here</strong> </a>to see our list of hotel, motel and bed & breakfast properties throughout the area.
+**Answer:** The South Coast Clambake Music Festival takes place in four different venues located in the [The Mill Casino • Hotel & RV Park](https://www.themillcasino.com/entertainment/2023-south-coast-clambake-music-festival/2023-03-10/) in North Bend. Each venue has a top of the line sound system, dance floor and bar.
+
+**_Question: What kind of music can we expect?_**
+
+**Answer:** The Clambake Music Festival features everything from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco!
+
+**Question: Where do we stay? Are there any discounts?**
+
+For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks! Visit their [lodging page](https://clambakemusic.com/lodging/) for details.
+
+**_Question: Who’s playing?_**
+
+**Answer:** The South Coast Clambake Music Festival features bands across the country. A few of the bands that have been announced are Alpha Rhythm Kings, Dave Bennett, Gino & the Lone Gunmen, and The Throttles. For more information, visit [clambakemusic.com](https://clambakemusic.com/). Festival organizers have not made a formal announcement, but the list of bands is coming soon! Visit [clambakemusic.com](https://clambakemusic.com/) for details.
+
+**Question: How long has it been around?**
+
+**Answer:** What originally began as the Dixieland Jazz Festival more than 30 years ago has evolved into one of the biggest annual music festivals on the Oregon Coast and offers a wide range of musical styles that will have you up on your feet.
+
+**Question: Who is this for?**
+
+**Answer:** Everyone! The Clambake Music Festival is one of the top annual music festivals on the Oregon Coast and brings music fans of all ages from all over the region together for one weekend of music, dancing and fun.
+
+**Question: How much is it??**
+
+**Answer:** Tickets range from $15 to attend the Thursday Warm-Up Party to $105 for a full weekend pass (plus fees).
+
+**Question: Do I have to buy a weekend pass?**
+
+**Answer:** At $105.00 (+$8.03 fee), the All Event Multi-Day pass is the best deal and gives you unlimited access to all the events throughout the weekend - including the Thursday, March 9th Warm-Up Party. However, if you’re short on time and wish to attend only some of the events, here are some options (please note, price does not include ticketing fees)
+
+Thursday March 9 Warm-Up Party only- $15.00
+
+Friday March 10th Pass - $35.00
+
+Saturday March 11th ALL DAY Pass - $60.00
+
+Saturday March 11th 10AM to 5PM ONLY- $30.00
+
+Saturday Evening March 11th 5PM to MIDNIGHT ONLY $40.00
+
+Sunday All Day March 12th $30.00
+
+**Question: Do kids have to pay to get in?**
+
+**Answer:** C hildren 12 and under are free with a Paid Adult. You can purchase a Youth All Event 3 Day Badge for $20.00- _Must have a Student ID. Ages 13 to 20 years old._
+
+**Question: How do I get tickets?**
+
+**Answer:** Badges are on sale in [Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts/) now through noon on Friday, March 10. Patrons can also access [ticketing info here](https://www.eventbrite.com/e/the-south-coast-clambake-music-festival-tickets-466424106057?aff=erelexpmlt).
+
+**Question: Who benefits from this?**
+
+**Answer:** The South Coast Clambake Music Festival aims to improve the economic, cultural and educational development of our community by promoting and preserving America’s original music.
+
+**Question: When should I get tickets and book my hotel?**
+
+**Answer:** The South Coast Clambake Music Festival is one of the biggest musical events of the year, so be sure to make your reservations as soon as you can! Click here to see our list of hotel, motel and bed & breakfast properties throughout the area.
