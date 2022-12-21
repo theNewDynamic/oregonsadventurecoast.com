@@ -36,6 +36,7 @@ categories:
 - Miscellaneous
 warning: false
 warning_copy: ''
+draft: true
 
 ---
 ### Spread Out, Beat the Heat and Stay Cool on Oregon’s Adventure Coast

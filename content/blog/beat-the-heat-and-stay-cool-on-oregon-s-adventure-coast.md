@@ -26,6 +26,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+draft: true
 
 ---
 ### BEAT THE HEAT AND STAY COOL ON OREGON’S ADVENTURE COAST
