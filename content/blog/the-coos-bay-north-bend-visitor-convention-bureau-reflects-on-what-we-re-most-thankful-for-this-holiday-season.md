@@ -1,7 +1,7 @@
 ---
 title: The Coos Bay-North Bend Visitor & Convention Bureau Reflects on What We’re
   Most Thankful For this Holiday Season
-date: 2020-11-24T05:00:00+00:00
+date: 2020-11-24T05:00:00.000+00:00
 description: "In a year when so much bad has happened, we still have much to be thankful
   for. In honor of the holiday season, here are just a few things that we’re most
   grateful for on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. \n"
@@ -24,6 +24,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+draft: true
 
 ---
 In a year when so much bad has happened, we still have much to be thankful for. In honor of the holiday season, here are just a few things that we’re most grateful for on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston.

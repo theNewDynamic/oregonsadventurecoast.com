@@ -33,6 +33,7 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+draft: true
 
 ---
 # Christmas on the Coast 2021

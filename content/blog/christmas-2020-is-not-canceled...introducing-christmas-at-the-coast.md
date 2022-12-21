@@ -27,6 +27,7 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
+draft: true
 
 ---
 ## Come Spend a Safe [Christmas at the Coast](https://www.oregonsadventurecoast.com/event/christmas-at-the-coast/) this Holiday Season!
