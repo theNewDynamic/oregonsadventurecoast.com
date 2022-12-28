@@ -8,11 +8,11 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- url: "/event/annual-holiday-lights-at-shore-acres"
+- url: "/storm-watching"
   video:
-    source: "/img/lights-slider.mov"
-    cover: "/img/holiday-lights-hm-slide-cover-2022.jpg"
-  photo_mobile: "/img/holiday-lights-mobile-slider-2022.jpg"
+    source: "/img/waves-web-slider-2023-sd-480p.mov"
+    cover: "/img/storm-watching-home-slider-placeholder.jpg"
+  photo_mobile: "/img/mobile-hm-slider-storm-watching-2023.jpg"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
   desktopphoto: "/img/store-image-desktop.jpg"
