@@ -1,7 +1,7 @@
 ---
 title: Things You Should Definitely Do Before & During Your Visit to Oregon's Adventure
   Coast!
-date: 2021-10-21T04:00:00+00:00
+date: 2021-10-21T04:00:00.000+00:00
 description: 'Thinking about getting away from it all this fall or winter on Oregon’s
   Adventure Coast: Coos Bay, North Bend, Charleston? Do it! Whether you’re here for
   the weekend or a week or two, the key to enjoying your adventure is to pack smart
@@ -42,10 +42,9 @@ aliases: []
 accordion_sections: []
 warning: false
 warning_copy: ''
+draft: true
 
 ---
-**_Special 15% Fall Lodging Savings!_** _Multiple properties on Oregon’s Adventure Coast are offering 15% off your hotel stay now through November 30, 2021, when you stay for 2 nights._ [_Click here_](https://www.oregonsadventurecoast.com/fall15/) _to learn more about this special offer._
-
 Thinking about getting away from it all this fall or winter on [Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston](https://www.oregonsadventurecoast.com/adventures/)? Do it! No matter what season, studies have shown that taking a vacation has many positive benefits for mental health and productivity. Whether you’re here for the weekend or a week or two, the key to enjoying your adventure is to pack smart and plan ahead. Here are some tips to help you get the most out of your Oregon Coast vacation!
 
 ## WHAT TO DO BEFORE YOU ARRIVE
