@@ -1,9 +1,10 @@
 ---
-title: From Jazz to 50’s Rock, the 2023 South Coast Clambake Music Festival Has It
-  All!-(copy)
+title: South Coast Clambake Music Festival Returns in March of 2023
 date: 2023-01-04T15:46:00+00:00
-description: "At Last! The South Coast Clambake Music Festival is BACK to rock and
-  roll Oregon's South Coast March 10 -12, 2023\n\n"
+description: 'At Last! The South Coast Clambake Music Festival is BACK to rock and
+  roll Oregon''s South Coast March 10 -12, 2023.
+
+  '
 tags:
 - Beaches
 - best western
@@ -34,7 +35,7 @@ categories:
 - Special Events & Holidays
 
 ---
-South Coast Clambake Music Festival Returns in March of 2023
+## From Jazz to 50’s Rock, the 2023 South Coast Clambake Music Festival Has It All!
 
 It’s been a long three years, but at last - the annual [South Coast Clambake Music Festival](https://www.oregonsadventurecoast.com/event/south-coast-clambake-music-festival/) is coming BACK to rock and roll Oregon's Adventure Coast: Coos Bay, North Bend, Charleston March 10-12, 2023!
 
