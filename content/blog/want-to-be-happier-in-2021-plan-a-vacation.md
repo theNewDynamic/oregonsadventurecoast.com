@@ -30,6 +30,7 @@ warning: true
 warning_copy: This post may contain information, event dates or times that have changed
   or passed since it was first published. Please [contact us](https://www.oregonsadventurecoast.com/contact)
   for the most current and up-to-date details about businesses, events and adventures.
+draft: true
 
 ---
 Need a vacation? You are not alone! After two years of living through the COVID-19 pandemic, Americans are feeling burned out and ready for a change of scenery. However, Americans are still not using all of their vacation days. American workers left an average of more than four days or 29% of their paid time off on the table last year, but the majority of Americans (64%) say they desperately need a vacation.
