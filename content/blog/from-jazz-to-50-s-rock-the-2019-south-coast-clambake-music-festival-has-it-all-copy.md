@@ -1,7 +1,7 @@
 ---
 title: From Jazz to 50’s Rock, the 2023 South Coast Clambake Music Festival Has It
   All!-(copy)
-date: 2023-01-10T15:46:00+00:00
+date: 2023-01-04T15:46:00+00:00
 description: "At Last! The South Coast Clambake Music Festival is BACK to rock and
   roll Oregon's South Coast March 10 -12, 2023\n\n"
 tags:
@@ -28,11 +28,10 @@ tags:
 old_categories:
 - Entertainment & Nightlife
 - Fairs & Festivals
-image: "/img/clambake-jazz-header-blog-695x322.jpg"
+image: "/img/clambake-music-v01-695x322.jpg"
 warning: true
 categories:
 - Special Events & Holidays
-draft: true
 
 ---
 South Coast Clambake Music Festival Returns in March of 2023
