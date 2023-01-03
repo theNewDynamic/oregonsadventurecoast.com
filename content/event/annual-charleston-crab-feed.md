@@ -33,9 +33,11 @@ More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or 
 
 #### [**BUY YOUR TICKETS NOW!!!**](https://www.eventbrite.com/e/38th-annual-charleston-crab-feed-tickets-489128946847)
 
+**_Tickets will be available at the door as well!_**
+
 {{< spacer 25>}}
 
-Select a **Dine-In** or **Take-Out** Meal, Whole or Half Crab. Add a dessert or choose the Hot Dog option for those who don't like crab!!! 
+Select a **Dine-In** or **Take-Out** Meal, Whole or Half Crab. Add a dessert or choose the Hot Dog option for those who don't like crab!!!
 
 **Prices are based on Market Value - _Whole Crab Meal $35, Half Crab Meal $22, Hot Dog Meal $14_**
 
@@ -43,6 +45,6 @@ Desserts & Cash Bar - additional cost at venue.
 
 ![](/img/crab-feed-collage.jpg)
 
-**Truly a Community Affair!** The 900+ lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab.  Charleston Fishing Families is serving dessert. South Slough Estuary and the Oregon Crab Commission will also be on hand with information. 
+**Truly a Community Affair!** The 900+ lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab.  Charleston Fishing Families is serving dessert. South Slough Estuary and the Oregon Crab Commission will also be on hand with information.
 
 Businesses from Charleston, Coos Bay and North Bend support this event with donations. Make sure to get your raffle tickets when you arrive for a chance at a number of great prizes!
