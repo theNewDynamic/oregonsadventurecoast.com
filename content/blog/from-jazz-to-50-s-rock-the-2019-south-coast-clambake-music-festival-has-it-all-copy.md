@@ -39,7 +39,7 @@ categories:
 
 It’s been a long three years, but at last - the annual [South Coast Clambake Music Festival](https://www.oregonsadventurecoast.com/event/south-coast-clambake-music-festival/) is coming BACK to rock and roll Oregon's Adventure Coast: Coos Bay, North Bend, Charleston March 10-12, 2023!
 
-It’s been a while since this popular music festival has happened on Oregon’s South Coast, so we wanted to provides some answers to some of the questions you might have.
+It’s been a while since this popular music festival has happened on Oregon’s South Coast, so we wanted to provide some answers to some of the questions you might have.
 
 **_Question: What is a clambake? Is this like a food festival with clams?_**
 
@@ -59,7 +59,7 @@ For Clambake Music Fans there are discounts from several Hotels, Motels and RV P
 
 **_Question: Who’s playing?_**
 
-**Answer:** The South Coast Clambake Music Festival features bands across the country. A few of the bands that have been announced are Alpha Rhythm Kings, Dave Bennett, Gino & the Lone Gunmen, and The Throttles. For more information, visit [clambakemusic.com](https://clambakemusic.com/). Festival organizers have not made a formal announcement, but the list of bands is coming soon! Visit [clambakemusic.com](https://clambakemusic.com/) for details.
+**Answer:** The South Coast Clambake Music Festival features bands across the country. A few of the bands that have been announced are Shaymus Hanlin Quartet, Alpha Rhythm Kings, Dave Bennett, Gino & the Lone Gunmen, and The Throttles. For more information, visit [clambakemusic.com](https://clambakemusic.com/). Festival organizers have not made a formal announcement, but the list of bands is coming soon! Visit [clambakemusic.com](https://clambakemusic.com/) for details.
 
 **Question: How long has it been around?**
 
@@ -96,10 +96,6 @@ Sunday All Day March 12th $30.00
 **Question: How do I get tickets?**
 
 **Answer:** Badges are on sale in [Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts/) now through noon on Friday, March 10. Patrons can also access [ticketing info here](https://www.eventbrite.com/e/the-south-coast-clambake-music-festival-tickets-466424106057?aff=erelexpmlt).
-
-**Question: Who benefits from this?**
-
-**Answer:** The South Coast Clambake Music Festival aims to improve the economic, cultural and educational development of our community by promoting and preserving America’s original music.
 
 **Question: When should I get tickets and book my hotel?**
 
