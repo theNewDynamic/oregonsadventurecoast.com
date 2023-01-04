@@ -42,7 +42,15 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 
 ### Featuring the music of bands all across these United States!
 
-LIST OF BANDS COMING SOON!
+* [Alpha Rythm Kings](https://clambakemusic.com/alpha-rhythm-kings/)
+* [Dave Bennett Quartet](https://clambakemusic.com/the-dave-bennett-quartet/)
+* [Good Co.](https://clambakemusic.com/good-co/)
+* [Gator Nation](https://clambakemusic.com/gator-nation/)
+* [Gino & The Lone Gunmen](https://clambakemusic.com/gino-the-lone-gunmen/)
+* [Lisa Mann](https://clambakemusic.com/lisa-mann/)
+* [Shaymus Hanlin Quartet](https://clambakemusic.com/shaymus-hanlin-quartet/)
+* [Stumptown Swing](https://clambakemusic.com/stumptown-swing/)
+* [The Throttles](https://clambakemusic.com/the-throttles/)
 
 For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks! Visit the [website](https://clambakemusic.com/) for details.
 
