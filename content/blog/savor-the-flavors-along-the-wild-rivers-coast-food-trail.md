@@ -62,7 +62,7 @@ We are especially proud to have multiple businesses representing **Oregon’s Ad
 >
 > {{< spacer 20 >}}
 >
-> **Wildflour Cafe & Catering,** serving breakfast and lunch, house-made bread and pastries, organic food, beer and wine, espresso. Note: Wildflour Cafe is temporarily closed due to COVID-19. 1989 Sherman Ave., North Bend 541.808.3633 • [wildflour-catering.com](https://www.wildflour-catering.com/)
+> **Wildflour Public House,** serving dinner, house-made bread, locally-sourced organic food, beer and wine, espresso. 1987 Sherman Ave., North Bend 541.808.3633 • [wildflourpub.com](https://www.wildflourpub.com/home)
 >
 > {{< spacer 20 >}}
 >
@@ -71,10 +71,6 @@ We are especially proud to have multiple businesses representing **Oregon’s Ad
 > {{< spacer 20 >}}
 >
 > **Shark Bites Seafood Cafe**, known for its famous fish tacos, burgers, ocean fare, fish market, and happy hour. 240 South Broadway Ave., Coos Bay 541.269.7475 • [sharkbites.cafe](http://www.sharkbites.cafe/)
->
-> {{< spacer 20 >}}
->
-> **Bayside Coffee & Tea**, offering organic fair trade coffee, house-roasted coffee beans, espresso, coffee, tea, snacks, fair trade gift 63340 Boat Basin Rd., Charleston 541.260.3742 • [baysidecoffeeshop.com](https://www.baysidecoffeeshop.com/)
 >
 > {{< spacer 20 >}}
 >
