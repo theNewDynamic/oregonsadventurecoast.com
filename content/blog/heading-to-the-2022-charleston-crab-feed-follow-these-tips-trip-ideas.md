@@ -1,6 +1,6 @@
 ---
 title: 'Heading to the 2023 Charleston Crab Feed? Follow These Tips & Trip Ideas! '
-date: 2023-01-11T05:00:00+00:00
+date: 2023-01-02T05:00:00+00:00
 description: 'Don’t Risk Missing Out on the Ultimate Oregon Coast Crab Experience!
   Get Your Tickets for the Charleston Crab Feed NOW! '
 image: "/img/crabbing-clamming-alt.jpg"
