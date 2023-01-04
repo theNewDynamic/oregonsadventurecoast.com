@@ -37,8 +37,8 @@ The [Annual Charleston Crab Feed](https://www.eventbrite.com/e/38th-annual-charl
 
 Now in its 38th year, [tickets for this heavenly feast](https://www.eventbrite.com/e/38th-annual-charleston-crab-feed-tickets-489128946847) are available now, and going fast! The crab feed is one of our favorite annual affairs, because it brings the community together. The event features
 
-* Whole or half crab dinners (dine-in and take-out options are available) at market price with side dishes and a roll.
-* Add a dessert or choose the Hot Dog option for those who don’t like crab!!!
+* Whole or half crab dinners (dine-in and take-out options are available) at market price with side dishes and a roll. Whole Crab Meal $35, Half Crab Meal $22
+* Add a dessert or choose the Hot Dog option for those who don’t like crab!!! Hot Dog Meal $14
 * Raffle drawings provided by local businesses.
 
 All proceeds help support the Charleston Visitor Center.
@@ -59,10 +59,9 @@ Crab feasts and community events have a long rich history here on Oregon’s Adv
 
 * Look for the [Best Clam Chowder on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/blog/who-has-the-best-clam-chowder-on-oregon-s-adventure-coast/).
 * Explore the best of Charleston by following [this 2-day itinerary](https://www.oregonsadventurecoast.com/blog/a-two-day-getaway-in-charleston-oregon/)
-* Taste your way through Oregon's Adventure Coast with the [Day By Day, Like Travel Writer, Nancy Brown](https://www.oregonsadventurecoast.com/tripideas/day-by-day-like-travel-writer-nancy-brown/) itinerary. 
 * [Savor the Flavors Along the Wild Rivers Coast Food Trail](https://www.oregonsadventurecoast.com/blog/savor-the-flavors-along-the-wild-rivers-coast-food-trail/).
 
-**There’s plenty of outdoor adventures to enjoy!** 
+**There’s plenty of outdoor adventures to enjoy!**
 
 * Look for [Winter Storm Watching ](https://www.oregonsadventurecoast.com/storm-watching/)opportunities!
 * Go [Crabbing](https://www.oregonsadventurecoast.com/crabbing-clamming/), [Clamming](https://www.oregonsadventurecoast.com/clamming/) or [Fishing](https://www.oregonsadventurecoast.com/fishing/)! For the most current regulations and harvest notices, check with the [Oregon Department of Fish and Wildlife,](https://myodfw.com/articles/how-crab) and read their [instructional flier “How to Crab”](https://www.dfw.state.or.us/resources/fishing/docs/CrabbingFlyer.pdf) for important details.
@@ -72,7 +71,7 @@ Crab feasts and community events have a long rich history here on Oregon’s Adv
 **You can explore the “Great Indoors” on Oregon’s Adventure Coast:**
 
 * Try something new at a local [restaurant on Oregon's Adventure Coast](https://www.oregonsadventurecoast.com/dining/).
-* Try your luck in [one of our local casinos](https://www.oregonsadventurecoast.com/gaming/).
+* Try your luck in [one of our local casinos](https://www.oregonsadventurecoast.com/gaming/). We have two!!
 * Get inspired with new art exhibits and the Steve Prefontaine memorabilia at the [Coos Art Museum](https://www.coosart.org/).
 * Throw a strike at [North Bend Lanes](http://northbendlanes.com/).
 * Learn more about the fascinating history of this region at the [Coos History Museum and Maritime Collection](http://www.cooshistory.org/).
