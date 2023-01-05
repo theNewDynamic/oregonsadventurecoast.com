@@ -30,7 +30,7 @@ old_categories:
 - Entertainment & Nightlife
 - Fairs & Festivals
 image: "/img/clambake-music-v01-695x322.jpg"
-warning: true
+warning: false
 categories:
 - Special Events & Holidays
 
