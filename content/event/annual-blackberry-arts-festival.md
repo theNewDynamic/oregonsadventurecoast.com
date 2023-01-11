@@ -1,7 +1,7 @@
 ---
 title: Annual Blackberry Arts Festival
-startdate: '2022-08-27'
-enddate: '2022-08-28'
+startdate: '2023-08-26'
+enddate: '2023-08-27'
 address:
   street: 200 Central Ave
   street2: ''
@@ -15,34 +15,40 @@ mobiletitle: Blackberry Arts Fest
 hovertitle: Blackberry Arts Fest
 hoverdescription: Celebrate the delicious blackberry with a festival, arts & crafts,
   and live music!
-photo: "/img/blackberry-event-page-header-1.jpg"
-largeboxphoto: "/img/blackberry-event-large.jpg"
-mediumboxphoto: "/img/blackberry-event-medium.jpg"
-smallboxphoto: "/img/blackberry-event-small.jpg"
+photo: "/img/blackberry-hero-2048x530.jpg"
+largeboxphoto: "/img/blackberry-icecream-1024x395.jpg"
+mediumboxphoto: "/img/blackberry-art-667x355.jpg"
+smallboxphoto: "/img/blackberry-ice-cream-340x214.jpg"
 date: '2019-02-10T22:01:16.000+00:00'
 
 ---
-![](/img/blackberry-fest-blog-695-322.jpg)
 
-The annual **Blackberry Arts Festival** celebrates the delicious blackberry! Blackberry arts, food, and drink are the fare at this popular event in downtown Coos Bay. Featuring live music with the **Blackberry Jam** all weekend long!
+![Nothing is more refreshing than ice cream and this blackberry ice cream is the best at the Blackberry Arts Festival!](/img/blackberry-ice-cream-medium.jpg "Blackberry Ice Cream! Yum!")
 
-The **Blackberry Arts Festival** is a juried arts and craft festival that has been happening for 38 years. It was started to highlight the works of local artists and crafters during the annual harvest of the blackberry. It features an impressive array of metalwork, jewelry, quilts, candles, hand-painted clothing, wine, carved wood, and much more available for purchase. The festival also includes food vendors.
+#### The annual **Blackberry Arts Festival** celebrates the delicious blackberry! 
+
+Blackberry arts, food, and drink are the fare at this popular event in downtown Coos Bay. Featuring live music with the **Blackberry Jam** all weekend long!
+
+{{< spacer 50 >}}
+
+![An artist shares her wares at the Blackberry Arts Festival in Coos Bay.](/img/blackberry-arts-painting-medium.jpg "Arts & Crafts at Blackberry Arts Fest")
+
+{{< spacer 50 >}}
+
+The **Blackberry Arts Festival** is a juried arts and craft festival that has been happening for 39 years. It was started to highlight the works of local artists and crafters during the annual harvest of the blackberry. It features an impressive array of metalwork, jewelry, quilts, candles, hand-painted clothing, wine, carved wood, and much more available for purchase. The festival also includes food vendors.
+
+{{< spacer 50 >}}
+
+![Bring the kids, the parents, and the dogs! Blackberry Arts Festival is for everyone! And its FREE!](/img/blackberry-facepaint-medium.jpg "Blackberry Arts Festival for All Ages")
+
+{{< spacer 50 >}}
 
 This is a free event with activities centered on Central Avenue in downtown Coos Bay. The festival is scheduled for August 27th and 28th this year.
 
 {{< spacer 100 >}}
 
-_![](/img/blackberry-jam-image.jpeg)_
+_![Come listen to great music at the Blackberry Arts Festival!](/img/blackberry-jam-image.jpeg "K-DOCK Radio Blackberry Jam")_
 
 ### [**K-DOCK Blackberry Jam**]()
 
-##### Saturday, August 27th
-
-* **Border Patrol** 11:00 AM - 12:30 PM
-* **Rockipedia** 1:30 PM - 3:00 PM
-* **Toyz** 4:00 PM - 6:00 PM
-
-##### **Sunday, August 28th**
-
-* **Timberwolf** 11:00 AM - 12:30 PM
-* **Throttles** 2:00 PM - 4:00 PM
+##### Info coming soon!
