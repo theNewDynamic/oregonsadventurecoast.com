@@ -43,9 +43,9 @@ The **Blackberry Arts Festival** is a juried arts and craft festival that has be
 
 {{< spacer 50 >}}
 
-This is a FREE event with activities centered on Central Avenue in downtown Coos Bay. The festival is scheduled for August 26th and 27th this year.
+**This is a FREE event with activities centered on Central Avenue in downtown Coos Bay.** The festival is scheduled for August 26th and 27th this year.
 
-{{< spacer 100 >}}
+{{< spacer 50 >}}
 
 _![Come listen to great music at the Blackberry Arts Festival!](/img/blackberry-jam-image.jpeg "K-DOCK Radio Blackberry Jam")_
 
