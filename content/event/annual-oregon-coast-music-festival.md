@@ -48,7 +48,7 @@ Mingus Park Stage, Coos Bay
 
 **Sunday, July 16th @ 2 pm**  
 OIMB Boat House Auditorium, Charleston  
-**Jazz at The Boat House** 
+**Jazz at The Boat House**
 
 _Details coming soon!_
 
@@ -86,9 +86,17 @@ The concert program TBA
 
 {{< floatimage src="img/Elizabeth-Galafay-PhotoCarleyJayne.jpeg" float="left" alt="Elizabeth Galafa Ylaya, Soprano" size="40" >}}**Thursday, July 27 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
-**OCMA Festival Orchestra Pops** 
+**OCMA Festival Orchestra Pops**
 
 Guest soloist Elizabeth Galafa Ylaya, Soprano, joins the Festival Orchestra for a celebration of Latin American and Hispanic musical influences.
+
+{{< spacer 50 >}}
+
+**Friday, July 28 @ 7:00**  
+First Presbyterian Church, North Bend  
+**Redfish Music String Quartet**
+
+Concert program coming soon.
 
 {{< spacer 50 >}}
 
