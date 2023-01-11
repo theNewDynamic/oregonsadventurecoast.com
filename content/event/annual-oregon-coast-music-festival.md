@@ -48,7 +48,7 @@ Mingus Park Stage, Coos Bay
 
 **Sunday, July 16th @ 2 pm**  
 OIMB Boat House Auditorium, Charleston  
-**Jazz at The Boat House** - **_Tickets $50_**
+**Jazz at The Boat House** 
 
 _Details coming soon!_
 
@@ -63,28 +63,32 @@ _Details coming soon!_
 {{< spacer 50 >}}
 
 {{< floatimage src="img/AdamStern.jpeg" float="left" alt="Adam Stern, Conductor" size="40" >}}**July 24th, 26th & 28th @ noon**  
-Coos History Museum, Coos Bay  
+Location TBD, Coos Bay  
 **Lunch, Listen and Learn with Adam Stern** - **_Free_**
 
-Associate Conductor Adam Stern brings fresh and entertaining insight to the music and composers featured in the three orchestra programs. These noontime events provide an opportunity for interactive discussions that help everyone learn about the artists, the musical world and other related topics. Adam Stern returns to the Bay Area to continue his creative ideas for the Pops concerts, and support for outreach to everyone in his lectures and workshops. Stern has been leading the Seattle Philharmonic since 2003 and is noted for selecting compositions that have been underappreciated, recently highlighting  women composers.
+July 24th - Steven Moeckel joins Adam Stern to preview Orchestra Concert I  
+July 26th - Elizabeth Galafa Ylaya joins Adam Stern to preview the Latin American/Hispanic Music Pops Concert  
+July 28th - Adam Stern will preview Orchestra Concert II
+
+Associate Conductor Adam Stern brings fresh and entertaining insight to the music and composers featured in the three orchestra programs. These noontime events provide an opportunity for interactive discussions that help everyone learn about the artists, the musical world and other related topics. Adam Stern returns to the Bay Area to continue his creative ideas for the Pops concerts, and support for outreach to everyone in his lectures and workshops. Stern has been leading the Seattle Philharmonic since 2003.
 
 {{< spacer 50 >}}
 
-![The glittering, brilliant sounds of the Harp enhance every movement played by the Orchestra during the OR Coast Music Festival in Coos Bay.](/img/ocma-harpist-frankprice-web.jpg "The Orchestra features the glittering sounds of the harp - Photo by Frank Price") 
+![The glittering, brilliant sounds of the Harp enhance every movement played by the Orchestra during the OR Coast Music Festival in Coos Bay.](/img/ocma-harpist-frankprice-web.jpg "The Orchestra features the glittering sounds of the harp - Photo by Frank Price")
 
 **Tuesday, July 25 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
-**OCMA Festival Orchestra Concert I**
+**OCMA Festival Orchestra Concert I with Guest Soloist Steven Moeckel**
 
 The concert program TBA
 
 {{< spacer 50 >}}
 
-**Thursday, July 27 @ 7:30**  
+{{< floatimage src="img/Elizabeth-Galafay-PhotoCarleyJayne.jpeg" float="left" alt="Elizabeth Galafa Ylaya, Soprano" size="40" >}}**Thursday, July 27 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
-**OCMA Festival Orchestra Pops**
+**OCMA Festival Orchestra Pops** 
 
-_Details coming soon!_
+Guest soloist Elizabeth Galafa Ylaya, Soprano, joins the Festival Orchestra for a celebration of Latin American and Hispanic musical influences.
 
 {{< spacer 50 >}}
 
