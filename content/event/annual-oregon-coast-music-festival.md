@@ -15,7 +15,7 @@ mobiletitle: OR Coast Music Fest
 hovertitle: Oregon Coast Music Festival
 hoverdescription: 'A heady mix of classical and jazz art forms, taking place at venues
   around the Coos Bay area. '
-photo: "/img/ocma-image-2048x530.jpg"
+photo: "/img/ocma-full-orchestra-frankprice-hero.jpg"
 largeboxphoto: "/img/ocma-image-1024x395.jpg"
 mediumboxphoto: "/img/ocma-image-667x355.jpg"
 smallboxphoto: "/img/ocma-image-340x214.jpg"
@@ -23,7 +23,7 @@ photo_alt: ''
 date: '2019-02-10T21:57:25.000+00:00'
 
 ---
-![](/img/ocma-image.jpeg)
+![The 80 Member Festival Orchestra fills Marshfield High with souring sounds.](/img/ocma-pops-concert-frankprice-web.jpg "The Annual Oregon Coast Music Festival in Coos Bay - Photo by Frank Price")
 
 #### **The 45th Oregon Coast Music Festival is Coming Soon!**
 
@@ -33,7 +33,7 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 {{< spacer 50 >}}
 
-![Music Director James Paul leads the Festival Orchestra](/img/concert-2_2019_07-27-2019_038_-1.jpg "Music Director James Paul leads the Festival Orchestra")
+![The Festival Orchestra Concerts are a must attend each summer in Coos Bay.](/img/ocma-orchestra-frankprice-web.jpg "The Oregon Coast Music Festival Orchestra - Photo by Frank Price")
 
 #### 45th Oregon Coast Music Festival July 2023
 
@@ -70,11 +70,11 @@ Associate Conductor Adam Stern brings fresh and entertaining insight to the musi
 
 {{< spacer 50 >}}
 
-![](/img/or-coast-music-fest-sepia.jpg)
+![The glittering, brilliant sounds of the Harp enhance every movement played by the Orchestra during the OR Coast Music Festival in Coos Bay.](/img/ocma-harpist-frankprice-web.jpg "The Orchestra features the glittering sounds of the harp - Photo by Frank Price") 
 
 **Tuesday, July 25 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
-**OCMA Festival Orchestra Concert I** 
+**OCMA Festival Orchestra Concert I**
 
 The concert program TBA
 
@@ -82,17 +82,17 @@ The concert program TBA
 
 **Thursday, July 27 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
-**OCMA Festival Orchestra Pops** 
+**OCMA Festival Orchestra Pops**
 
 _Details coming soon!_
 
 {{< spacer 50 >}}
 
-![](/img/or-coast-concert-direction.jpg)
+![The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July](/img/ocma-cellist-frankprice-web.jpg "The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July - Photo by Frank Price")
 
 **Saturday, July 29 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
-**OCMA _Festival Finale_ Festival Orchestra Concert II**  
+**OCMA _Festival Finale_ Festival Orchestra Concert II**
 
 The concert program TBA
 
