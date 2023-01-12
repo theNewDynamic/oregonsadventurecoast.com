@@ -21,6 +21,7 @@ image: "/img/bay-area-fun-fest-parade.jpg"
 warning: true
 categories:
 - Special Events & Holidays
+draft: true
 
 ---
 The end of summer is approaching, but that means the Bay Area Fun Festival is happening very soon! Visitors from all over the region come out to celebrate with us and take in the sights, sounds and tastes of beautiful downtown Coos Bay and surrounding areas for this popular annual festival.
