@@ -31,7 +31,7 @@ Come and test your luck with more than 1,000 slots featuring old favorites and t
 3201 Tremont St, North Bend, OR  
 (800) 953-4800 | {{< link url="http://www.TheMillCasino.com" >}}TheMillCasino.com{{< /link >}}
 
-You will find gaming, lodging, dining, and entertainment in an exceptional casino environment. With over 700 slots, card and table games, plus Sports Betting and special tournament events, you will find your favorite game at The Mill. The slots start out at 1 penny with chances to win millions and include a great mix of the latest games and your favorite classics. Table games include blackjack, Spanish 21, and craps & roulette (seasonally).
+At The Mill Casino you’ll start with our luxurious bay view before you enter our casino with over 600 slots, sports betting, and table games including classics like blackjack, Spanish 21, craps, and roulette. Grab a brew, take a seat with your friends and catch the game in Warehouse 101, dine bayside at Plank House Restaurant and for a quick bite, Timbers Café is sure to please. You’ll be sure to find a favorite at The Mill.
 
 divider
 
