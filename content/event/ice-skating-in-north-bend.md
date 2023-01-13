@@ -7,7 +7,7 @@ address:
   zip: '97459'
 title: Ice Skating in North Bend!
 startdate: '2022-12-03'
-enddate: '2023-02-14'
+enddate: '2023-02-18'
 phone_local: 541-756-8536
 phone_toll_free: ''
 website: https://www.northbendoregon.us/IceSkatingRink
@@ -32,6 +32,8 @@ aliases: []
 ---
 ![](/img/skating-rink-1024x395.jpg)  
 _(All photos courtesy of Xtraice, manufacturer of North Bend's Ice Skating Rink)_
+
+### EXTENDED THROUGH FEBRUARY 18TH!!!
 
 #### Bring your friends, bring your family and enjoy North Bend's Newest Attraction - Ice Skating! From early December through Valentine's Day, lace up a pair of skates and take to the ice. This is the only Ice Skating Rink on the Oregon Coast!
 
