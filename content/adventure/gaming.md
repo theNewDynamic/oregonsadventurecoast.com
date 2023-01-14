@@ -25,7 +25,7 @@ Come and test your luck with more than 1,000 slots featuring old favorites and t
 
 {{< columns number="2" >}}
 
-![The Mill Casino • Hotel & RV Park](/img/slots_foursome.jpg)
+![Try your luck at The Mill Casino in North Bend, OR!](/img/mill-casino-web.jpeg)
 
 **The Mill Casino • Hotel & RV Park**  
 3201 Tremont St, North Bend, OR  
