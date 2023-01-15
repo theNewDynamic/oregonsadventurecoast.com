@@ -23,7 +23,6 @@ old_categories:
 image: "/img/Golden and Silver Falls blog695x322.jpg"
 categories:
 - Outdoor Adventures
-draft: true
 
 ---
 _Updated September 2020_

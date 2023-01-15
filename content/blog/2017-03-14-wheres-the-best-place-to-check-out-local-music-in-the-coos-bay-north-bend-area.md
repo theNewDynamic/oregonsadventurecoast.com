@@ -23,7 +23,6 @@ seo:
 warning: true
 categories:
 - Shopping & Entertainment
-draft: true
 
 ---
 Oregon's Adventure Coast already has a thriving restaurant and arts scene, so it's no wonder that our music culture is also growing.
