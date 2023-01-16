@@ -1,6 +1,6 @@
 ---
 title: Annual Charleston Crab Feed
-photo: "/img/crab-feed-feb-header.jpg"
+photo: "/img/crab-feed-sub-page-header.jpg"
 largeboxphoto: "/img/crab-feed-charleston-large.jpg"
 mediumboxphoto: "/img/crab-feed-charleston-medium.jpg"
 smallboxphoto: "/img/crab-feed-charleston-small.jpg"
@@ -21,6 +21,8 @@ phone_local: 541-297-2015
 website: ''
 
 ---
+![Annual Charleston Crab Feed Logo](/img/crab-feed-logo.jpg)
+
 Join your friends from **Oregon's Adventure Coast: Coos Bay, North Bend & Charleston** for a feast of delicious Dungeness Crab at the **38th Annual Charleston Crab Feed**!
 
 **NOW BACK IN CHARLESTON!! At the Oregon Institute of Marine Biology (OIMB) on Boat Basin Road.**
