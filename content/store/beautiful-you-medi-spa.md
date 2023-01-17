@@ -1,8 +1,8 @@
 ---
 title: Beautiful You Medi Spa
-property_description: Botox, fillers, PDO threads, customized facials, chemical peels,
-  microdermabrasion, waxing, spray tanning, teeth whitening & massage therapy. Open
-  Daily - Call for appointment.
+property_description: Offering Botox, fillers, PDO threads, customized facials, chemical
+  peels, microdermabrasion, waxing, laser hair removal, manicures & pedicures, & massage
+  therapy. Open Tuesday-Saturday - Call for appointment.
 photo_name: "/img/beautiful-you.jpg"
 photo_alt: ''
 property_category:
