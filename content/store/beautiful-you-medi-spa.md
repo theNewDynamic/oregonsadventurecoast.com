@@ -8,13 +8,14 @@ photo_alt: ''
 property_category:
 - Personal services
 address:
-  street: 1611 Virginia Ave suite#117
+  street: 1280 N Bayshore Dr Suite 101
   street2: ''
-  city: North Bend
-  zip: '97459'
+  city: Coos Bay
+  zip: '97420'
+  state: ''
 phone_local: "(541) 297-7546"
 phone_toll_free: ''
-website: https://www.facebook.com/beautiful.you.97459/
+website: https://www.beautifulyou-pnw.com/
 coordinates:
   lat: '43.405486'
   lng: "-124.233347"
