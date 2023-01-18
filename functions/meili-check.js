@@ -48,16 +48,26 @@ exports.handler = async function(event, context) {
     
     let responseCheck = await index.getDocuments({
       limit: 1000,
-      fields: ['title']
+      fields: ['title', 'id']
     })
     const retrievedDocuments = responseCheck
     const pass = retrievedDocuments.total === documents.length
+    let toDelete = []
+    if(!pass) {
+      toDelete = retrievedDocuments.results.filter(doc => {
+        return !documents.find(siteDoc => siteDoc.id == doc.id)
+      }).map(doc => doc.id)
+    }
     checkOutput = {
       type: 'get',
       response: pass ? 'bravo' : `${retrievedDocuments.total} found on Meili but ${documents.length} found on the site.`,
       index: app.id,
       documents: documents.length
     }
+    if(toDelete.length) {
+      checkOutput.to_delete = toDelete
+    }
+    
     successes.push(checkOutput)
     console.log(checkOutput)
   }
