@@ -1,6 +1,6 @@
 ---
 title: Reasons to Visit Oregon’s Adventure Coast in the Off-Season
-date: 2022-12-19T05:00:00+00:00
+date: 2022-12-19T05:00:00.000+00:00
 description: 'If you have never visited Oregon''s Adventure Coast: Coos Bay, North
   Bend, and Charleston during our “off-season”, you are missing out! Here are some
   of the many reasons to visit Oregon’s Adventure Coast this winter.'
@@ -46,7 +46,12 @@ Whales can sometimes be spotted off the shores of Oregon's Adventure Coast throu
 
 ![](/img/ice-skating-rink-north-bend.jpeg)
 
-Have you heard about our newest winter attraction? The [North Bend Ice Skating Rink](https://www.northbendoregon.us/newsview.aspx?nid=7394) opened in December and will remain open Wednesday through Saturday until Valentine’s Day! Not to mention, you won’t have to break the bank to enjoy this wonderful winter-time activity since there is no fee to enter and ice skates are only $5 an hour! The ice skating rink is open from 4 to 8 p.m. Wednesdays through Friday and noon to 4 p.m. Saturdays.
+Have you heard about our newest winter attraction? The [North Bend Ice Skating Rink](https://www.northbendoregon.us/newsview.aspx?nid=7394) opened in December and will remain open Wednesday through Saturday until February 19, 2023! Not to mention, you won’t have to break the bank to enjoy this wonderful winter-time activity since there is no fee to enter and ice skates are only $5 an hour! **Here are the new public hours for the ice skating rink (updated 1.19.23):**
+
+Fridays 4 p.m. - 8 p.m.  
+Saturdays 11 a.m. - 3 p.m. AND 5 p.m. - 9 p.m.  
+Sundays 2 p.m. - 6 p.m.  
+Private parties offered during the week. _Hours are subject to change, please check with the ice skating rink to confirm hours._ 
 
 ### Winter Steelhead Fishing
 
