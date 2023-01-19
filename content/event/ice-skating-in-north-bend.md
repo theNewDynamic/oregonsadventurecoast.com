@@ -39,10 +39,13 @@ _(All photos courtesy of Xtraice, manufacturer of North Bend's Ice Skating Rink)
 
 {{< spacer 25>}}
 
-#### Hours:
+#### Hours: UPDATED 1/18/23
 
-**Wednesday, Thursday and Friday: 4 - 8 pm  
-Saturdays: Noon - 4 pm**
+**Fridays** 4pm-8pm  
+**Saturdays** 11am-3pm and 5pm-9pm  
+**Sundays** 2pm-6pm
+
+Private parties offered during the week
 
 #### {{< spacer 25>}}
 
