@@ -1,6 +1,6 @@
 ---
 title: How to Plan a Getaway on Oregon’s Adventure Coast in 2023
-date: 2023-01-12T05:00:00+00:00
+date: 2023-01-12T05:00:00.000+00:00
 description: 'Planning to Travel to Oregon’s Adventure Coast: Coos Bay, North Bend
   & Charleston in 2023? Start Planning Your Time Off TODAY! '
 image: "/img/jumping-girls-3a.jpg"
@@ -49,7 +49,7 @@ The best time of year to visit could depend on specific [events on Oregon’s Ad
 
 Here are some [annual events](https://www.oregonsadventurecoast.com/events/) expected to happen in 2023. Events are added to this calendar throughout the year, so check back often. _Please note that due to circumstances beyond our control, some of these events may change without notice. You should always call in advance to confirm whether the event is still happening._
 
-* **January -** [Ice Skating in North Bend](https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/) (goes through February 14, 2023)
+* **January -** [Ice Skating in North Bend](https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/) (goes through February 19, 2023)
 * **February-** [Annual Charleston Crab Feed](https://www.oregonsadventurecoast.com/event/annual-charleston-crab-feed/) February 11, 2023
 * **March-** [South Coast Clambake Music Festival](https://www.oregonsadventurecoast.com/event/south-coast-clambake-music-festival/) March 10-12, 2023
 * **May-** [BBQ Blues & Brews on the Bay](https://www.facebook.com/BbqBluesBrewsOnTheBay/) - May 27-29, 2023 (Memorial Day Weekend)
@@ -69,7 +69,7 @@ When you come depends on what you’d like to experience on Oregon’s Adventure
 **Year-Round Adventures on Oregon’s Adventure Coast**
 
 * Traversing through coastal forests and sweeping vantage points found in a vast network of [hiking trails](https://www.oregonsadventurecoast.com/hiking-walking), [state parks and national lands](https://www.oregonsadventurecoast.com/state-parks-and-national-lands).
-* Taking a thrilling [ATV or Dune Buggy](https://www.oregonsadventurecoast.com/atv-motorsports) ride along the [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/untamed-dunes), largest expanse of coastal sand dunes in North America. 
+* Taking a thrilling [ATV or Dune Buggy](https://www.oregonsadventurecoast.com/atv-motorsports) ride along the [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/untamed-dunes), largest expanse of coastal sand dunes in North America.
 * Exploring entire [ecosystems](https://www.oregonsadventurecoast.com/ocean-life-and-tidepooling) in the[ Charleston Marine Life Center](https://cmlc.uoregon.edu/) and mysterious tide pools located near the ocean, bays, estuaries, isolated coves, sea caves, and sand dunes.
 * [Cycling](https://www.oregonsadventurecoast.com/cycling) and mountain biking on the [Whiskey Run Mountain Bike Trail](https://www.oregonsadventurecoast.com/img/whiskey-run-pocket-map-06-22-final.pdf), designed for year-round mountain biking (it is, after all, one of the ONLY systems in Oregon open year-round).
 * Learning about marine habitats and[ wildlife](https://www.oregonsadventurecoast.com/birding-and-wildlife) along the Simpson Reef Interpretive Stop, Shell Island and Simpson Beach.
@@ -101,4 +101,4 @@ Be sure to read [Oregon's Adventure Coast Traveler's Information](https://www.or
 
 Visit our featured [adventures page](https://www.oregonsadventurecoast.com/adventures) and our [trip ideas page](https://www.oregonsadventurecoast.com/tripideas) to find more travel ideas and inspiration, and/or contact the [Coos Bay – North Bend Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/contact/) .
 
-You can also follow [Oregon’s Adventure Coast Facebook](https://www.facebook.com/OregonsAdventureCoast/) , [@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/) , [Twitter](https://twitter.com/travelcoosbay?lang=en) and [TikTok](https://www.tiktok.com/@oregonsadventurecoast?lang=en) to find inspiration on the best spots to visit, eat, stay and explore any time of the year. [Request your FREE visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform) 
+You can also follow [Oregon’s Adventure Coast Facebook](https://www.facebook.com/OregonsAdventureCoast/) , [@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/) , [Twitter](https://twitter.com/travelcoosbay?lang=en) and [TikTok](https://www.tiktok.com/@oregonsadventurecoast?lang=en) to find inspiration on the best spots to visit, eat, stay and explore any time of the year. [Request your FREE visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform)
