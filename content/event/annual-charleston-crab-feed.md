@@ -17,7 +17,7 @@ address:
   zip: '97420'
   street2: 63466 Boat Basin Road
 phone_toll_free: ''
-phone_local: 541-297-2015
+phone_local: 541-982-9345
 website: ''
 
 ---
