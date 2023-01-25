@@ -1,8 +1,8 @@
 ---
 title: Sportsman's Show Contest
 aliases:
-  - /sportsman-qr
-date: 2019-01-21 00:53:11 +0000
+- "/sportsman-qr"
+date: '2019-01-21T00:53:11.000+00:00'
 url: sportsman-show-giveaway
 layout: contact
 photo: "/img/marina-subpage-header.jpg"
