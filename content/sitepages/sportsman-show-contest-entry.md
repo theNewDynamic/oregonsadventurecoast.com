@@ -1,5 +1,5 @@
 ---
-title: Sportsman Show Contest Entry 2022
+title: Sportsman Show Contest Entry 2023
 url: sportsman-show-contest
 layout: headless
 photo: ''
@@ -14,4 +14,4 @@ boxes: []
 ctas: []
 
 ---
-<script type="text/javascript" src="https://form.jotform.com/jsform/220314999463160"></script>
+<script type="text/javascript" src="https://form.jotform.com/jsform/230247266970156"></script>
