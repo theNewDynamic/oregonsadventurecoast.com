@@ -30,21 +30,21 @@ Coos Bay is a wonderful place for forest bathing, offering opportunities for bot
 
 {{< columns number="2" >}}
 
-![7 Devils Brewery](/img/ent-seven-devils.jpg)
+![Mossy Lotus Yoga & Forest Bathing](/img/mossy-lotus-345x220.jpg)
 
-**7 Devils Brewery**  
-247 S 2nd St.  
+**Mossy Lotus**  
+158 Market Avenue  
 Coos Bay, OR 97420  
-(541) 808-3738  
-[www.7devilsbrewery.com](http://www.7devilsbrewery.com)
+(541) 217-0400  
+[mossylotus.com](https://mossylotus.com/ "https://mossylotus.com/")
 
-Located in downtown Coos Bay, this local brew pub has quickly become a favorite gathering place. It’s a great place to take in tunes from local bands like the Dale Inskeep Band, Che’s Lounge and even Portland-based music like Scratchdog String Band (Americana) and Cascade Crescendo (Bluegrass). Guests enjoy their seasonal menu selections and of course plenty of craft beer. If you stop in on a Monday night, stick around for Pub Trivia!
+With over 20 years of combined experience as field biologists and 30+ practicing yoga, we have both spent thousands of hours in heartfelt connection with Mother Nature and learning and teaching the full practices of yoga to all levels of students. This land, this rugged, wild earth is our inspiration. It is our passion for living in balance with nature that drives us.
 
 divider
 
-![Warehouse 101 inside The Mill Casino • Hotel & RV Park in North Bend, Oregon](/img/ent-warehouse-101.jpg)
+![House of Asana - Yoga & Classes](/img/house-of-asana-345x220.jpg)
 
-**Warehouse 101** _(Inside The Mill Casino)_  
+**House of Asana**  
 3201 Tremont Street  
 North Bend, OR  97459  
 (541) 756-8800  
