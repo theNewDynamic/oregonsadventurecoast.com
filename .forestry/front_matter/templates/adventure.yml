@@ -30,3 +30,5 @@ fields:
   config: {}
   template: accordions-sections-partial
   label: Accordions Section
+pages:
+- content/adventure/forest-bathing.md
