@@ -20,6 +20,8 @@ Coos Bay, North Bend & Charleston, on the Southern Oregon coast, offers a variet
 
 Some popular places for forest bathing in the Coos Bay area include the coastal forest trail along the cliffs between Sunset Bay State Park and Cape Arago State Park, the cliffside at Shore Acres State Park, Yokam Point Horsfall Beach adjacent to the Oregon Dunes National Recreation Area, Golden & Silver Falls State Natural area, Mingus Park and Simpson Park.
 
+![](/img/forest-bathing-collage-695x322.jpg)
+
 Walking mindfully in these natural areas can help reduce stress, improve mood, and boost the immune system. Research has shown that spending time in nature can lower levels of cortisol, a hormone associated with stress, and increase levels of serotonin, a hormone associated with happiness and well-being.
 
 In the Coos Bay area, you can engage in various activities that enhance your forest bathing experience, including hiking, yoga, and birdwatching. You can also simply spend time sitting or lying down in a quiet spot, taking in the sounds and smells of the forest. It is recommended to turn off your phone and leave other distractions behind to fully immerse yourself in the experience.
@@ -44,6 +46,8 @@ Bring a picnic lunch or have a healthy dinner at one of our Farm to Table eateri
 * Back Alley Pub
 * Himalayan Restaurant and Bar
 * (more to be added)
+
+{{< spacer 20 >}}
 
 {{< columns number="2" >}}
 
