@@ -18,8 +18,10 @@ And they do a run on Whiskey Run Mtn Bike Trail. [https://southcoastrunningclub.
 
 ![](/img/circle-the-bay-695x125.jpg)
 
-### Circle the Bay 30K (18 Mile) 3-Person Relay or 1-Person Run
+### Circle the Bay 30K 3-Person Relay or 1-Person Run
 
-**August 12, 2023 |** [**Sign Up Here**](https://runsignup.com/Race/OR/NorthBend/CircletheBayNorthBend)
+**DATE: August 12, 2023**
 
 Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque naturion nis natus enem voluptat. Dant fugiatur alibus dolorio omnihiciis nonsequas dolores equatquunt rehent repella borpore ntemoditaquo volorem idicaepudici con pero et exceprovit laboreh enderovidunt porent qui torem aut latur? Rum quis etur aute pelignimet dolorepudam lacerest ut aut offictur, conse nusam aut laboreped mollabo.
+
+[Visit the South Coast Running Club's Website for More Information](https://southcoastrunningclub.org/circle-the-bay/)
