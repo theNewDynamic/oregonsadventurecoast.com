@@ -29,8 +29,6 @@ tnd_socials:
   services:
   - name: facebook
     handle: OregonsAdventureCoast
-  - name: twitter
-    handle: travelcoosbay
   - name: instagram
     handle: travelcoosbay
   - name: pinterest
