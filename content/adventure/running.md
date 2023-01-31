@@ -59,3 +59,33 @@ Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque n
 **October 7, 2023 | 1.5 Mile, 5 Mile or 10 Mile Trail Run**
 
 Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque naturion nis natus enem voluptat. Dant fugiatur alibus dolorio omnihiciis nonsequas dolores equatquunt rehent repella borpore ntemoditaquo volorem idicaepudici con pero et exceprovit laboreh enderovidunt porent qui torem aut latur? Rum quis etur aute pelignimet dolorepudam lacerest ut aut offictur, conse nusam aut laboreped mollabo. [Visit the South Coast Running Club's Website for More Information.](https://southcoastrunningclub.org/run-whiskey-run/)
+
+{{< spacer 40 >}}
+
+### BELOW - JUST FOR PLACEMENT FOR BUSINESS LISTINGS
+
+{{< columns number="2" >}}
+
+![Mossy Lotus Yoga & Forest Bathing](/img/mossy-lotus-345x220.jpg)
+
+**Mossy Lotus**  
+158 Market Avenue  
+Coos Bay, OR 97420  
+(541) 217-0400  
+[mossylotus.com](https://mossylotus.com/ "https://mossylotus.com/")
+
+With over 20 years of combined experience as field biologists and 30+ practicing yoga, we have both spent thousands of hours in heartfelt connection with Mother Nature and learning and teaching the full practices of yoga to all levels of students. This land, this rugged, wild earth is our inspiration. It is our passion for living in balance with nature that drives us.
+
+divider
+
+![House of Asana - Yoga & Classes](/img/house-of-asana-345x220.jpg)
+
+**House of Asana**  
+180 Central Avenue  
+Coos Bay, OR 97420  
+(541) 252-2434  
+[www.houseofasana.com](https://www.houseofasana.com/ "https://www.houseofasana.com/")
+
+Asana (a·sa·na) defined simply as a pose or position in yoga. House of Asana is home of the rebel yogi and fitness lover. We provide a range of classes from slow restorative yoga to fast paced power yoga classes. We also offer workshops, private sessions, and events! Most of our classes are heated with infrared lights. We offer an unpretentious and results-oriented community that’s invested in your goals and success. Our core values are grit, authenticity, community, and compassion.
+
+{{< /columns >}}
