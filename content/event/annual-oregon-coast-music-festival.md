@@ -29,7 +29,7 @@ date: '2019-02-10T21:57:25.000+00:00'
 
 {{< spacer 50 >}}
 
-You'll find a heady mix of classical and jazz art forms, taking place at venues around the Coos Bay area such as Shore Acres State Park Garden, the OIMB Boat House, stunning Mingus Park, plus a host of free seminars at the Coos History Museum. Enjoy two full weeks of outstanding music culminating with the Festival Orchestra performing three concerts in Marshfield High's Auditorium. The festival features music director James Paul at the helm and Adam Stern featured at the seminars.
+You'll find a heady mix of classical and jazz art forms, taking place at venues around the Coos Bay area such as Shore Acres State Park Garden, the OIMB Boat House, stunning Mingus Park, plus a host of free seminars at the Southwest Oregon Community College. Enjoy two full weeks of outstanding music culminating with the Festival Orchestra performing three concerts in Marshfield High's Auditorium. The festival features music director James Paul at the helm and Adam Stern featured at the seminars.
 
 {{< spacer 50 >}}
 
