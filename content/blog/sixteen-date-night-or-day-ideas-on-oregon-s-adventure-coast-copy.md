@@ -32,14 +32,16 @@ warning_copy: ''
 There’s just something about **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** that folks love unconditionally! Guess you could say that “love is in the air” around here! With Valentine’s Day just around the corner, we thought this would be a great time to share some ideas on how to impress your significant other on Oregon’s Adventure Coast.
 
 \#1- If you’re going to be in town the weekend of February 11, 2023- you’re going to want to experience the [Annual Charleston Crab Feed](https://www.oregonsadventurecoast.com/event/annual-charleston-crab-feed/) happening that Saturday from 11am-3pm at the North Bend Community Center. [Get tickets now ](https://www.eventbrite.com/e/38th-annual-charleston-crab-feed-tickets-489128946847)before it sells out!
+![](/img/_crab-feed-oregon-coast-blog-695x322-jpg.jpg)
 
-![](/img/_crab-feed-oregon-coast-blog-695x322-jpg.jpg)#2- Rent an ATV and take an epic ride on the wild side along the [Oregon Dunes National Recreation Area](https://www.stateparks.com/oregon_dunes.html), the largest expanse of coastal sand dunes in North America.
+#2- Rent an ATV and take an epic ride on the wild side along the [Oregon Dunes National Recreation Area](https://www.stateparks.com/oregon_dunes.html), the largest expanse of coastal sand dunes in North America.
+![](/img/Oregon Dunes ATV OVA blog-695x322-jpg.jpg)
 
-![](/img/Oregon Dunes ATV OVA blog-695x322.jpg)#3- Enjoy a romantic dinner at a local restaurant with ambiance or beautiful views like[7 Devils Waterfront Alehouse](https://7devilsbrewery.com/waterfront-ale-house/), [Hilltop House](https://hilltophouserestaurant.com/), [The Portside Restaurant](https://www.facebook.com/PortsideRestaurant/), [The Plank House](https://www.themillcasino.com/dining/plank-house/) and [Restaurant O](http://restauranto.us/) (we recommend reservations). [Download our Local Restaurant Guide](https://www.oregonsadventurecoast.com/img/Restaurants-BOOKLET.pdf) guide to help you choose the right spot!
+\#3- Enjoy a romantic dinner at a local restaurant with ambiance or beautiful views like[7 Devils Waterfront Alehouse](https://7devilsbrewery.com/waterfront-ale-house/), [Hilltop House](https://hilltophouserestaurant.com/), [The Portside Restaurant](https://www.facebook.com/PortsideRestaurant/), [The Plank House](https://www.themillcasino.com/dining/plank-house/) and [Restaurant O](http://restauranto.us/) (we recommend reservations). [Download our Local Restaurant Guide](https://www.oregonsadventurecoast.com/img/Restaurants-BOOKLET.pdf) guide to help you choose the right spot!
 
-![](/img/oregon-coast-date-ideas-blog-695x322-jpg.png)#4 - Go ice skating at the [North Bend Ice Skating Rink](https://www.facebook.com/NorthBendIceSkatingRink), open through February 19, 2023! 
+![](/img/oregon-coast-date-ideas-blog-695x322-jpg.png)#4 - Go ice skating at the [North Bend Ice Skating Rink](https://www.facebook.com/NorthBendIceSkatingRink), open through February 19, 2023!
 
-![](/img/ice-skating-oregon-coast-695x322-jpg.jpg)#5- Book a [Valentine’s Day Package](https://www.themillcasino.com/accommodations/packages/) at [The Mill Casino * Hotel & RV Park](https://www.themillcasino.com/) between Friday, February 10 – Tuesday, February 14, 2023 and receive a $50 Dining voucher, two $10 Free Slot Play vouchers, a custom chocolate treat and rose petals and sweetheart swans on the bed! [Click here](https://www.oregonsadventurecoast.com/lodging/) to see all other lodging options. 
+![](/img/ice-skating-oregon-coast-695x322-jpg.jpg)#5- Book a [Valentine’s Day Package](https://www.themillcasino.com/accommodations/packages/) at [The Mill Casino * Hotel & RV Park](https://www.themillcasino.com/) between Friday, February 10 – Tuesday, February 14, 2023 and receive a $50 Dining voucher, two $10 Free Slot Play vouchers, a custom chocolate treat and rose petals and sweetheart swans on the bed! [Click here](https://www.oregonsadventurecoast.com/lodging/) to see all other lodging options.
 
 ![](/img/_mill-casino-valentines-blog-695x322-jpg.jpg)#6- Enjoy a stroll through the gardens and amazing views of the ocean at [Shore Acres State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68), the crown jewel of the Oregon Coast.
 
@@ -47,11 +49,11 @@ There’s just something about **Oregon’s Adventure Coast: Coos Bay, North Ben
 
 ![](/img/whiskey-tasting-distillery-blog-695x322-jpg.jpg)#8-If weather allows, go on a romantic picnic on the beach at [Sunset Bay State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) to watch the sun set over wine and cheese.
 
-![](/img/earth-day-sunset-beach-blog-695x322-jpg.jpg)#9 Book a relaxing massage overlooking the bay.  [Beautiful You](https://www.beautifulyou-pnw.com/) , a Medi Spa in Coos Bay, has a new location in Coos Bay Village where couples can unwind and take in gorgeous views of the bay. 
+![](/img/earth-day-sunset-beach-blog-695x322-jpg.jpg)#9 Book a relaxing massage overlooking the bay.  [Beautiful You](https://www.beautifulyou-pnw.com/) , a Medi Spa in Coos Bay, has a new location in Coos Bay Village where couples can unwind and take in gorgeous views of the bay.
 
 ![](/img/spa-coos-bay-blog-695x322-jpg.jpg)#10- Go on an adventurous drive and spend the day exploring the beaches and state parks along the Cape Arago Highway. Watch the seals and sea lions on[ Simpson Reef and Shell Island](https://www.shareoregon.com/things-to-do/en/listings/126105-simpson-reef-and-shell-island-oregon-islands-nwr), part of the[ Oregon Islands National Wildlife Refuge](https://www.fws.gov/refuge/oregon_islands/).
 
-![](/img/shell-island-wildlife-oregon-coast-blog-695x322-jpg.jpg)#11- Take a self-guided public art tour with this [Public Art Trail map](https://visittheoregoncoast.com/oregon-coast-public-art-trail/) (courtesy of the [Oregon Coast Visitors Association](https://visittheoregoncoast.com/)) and be on the lookout for other whimsical displays throughout downtown Coos Bay, North Bend and Charleston. 
+![](/img/shell-island-wildlife-oregon-coast-blog-695x322-jpg.jpg)#11- Take a self-guided public art tour with this [Public Art Trail map](https://visittheoregoncoast.com/oregon-coast-public-art-trail/) (courtesy of the [Oregon Coast Visitors Association](https://visittheoregoncoast.com/)) and be on the lookout for other whimsical displays throughout downtown Coos Bay, North Bend and Charleston.
 
 ![](/img/washed-ashore-art-coos-bay-blog-695x322-jpg.jpg)#12- [Go shopping](https://www.oregonsadventurecoast.com/shopping/) and hunt for treasures in one of our local antique shops. The towns of Coos Bay, North Bend and Charleston have a rich and unique history, making this region a treasure trove for collectors.
 
