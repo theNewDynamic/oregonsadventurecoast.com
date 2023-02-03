@@ -1,9 +1,9 @@
 ---
-title: Sixteen Date Night (or Day) Ideas on Oregon’s Adventure Coast-(copy)
-date: 2022-02-04T05:00:00.000+00:00
-description: 'Here are 16 ideas on how to impress your significant other on Oregon’s
+title: Nineteen Romantic Date Ideas on Oregon’s Adventure Coast
+date: 2023-02-03T05:00:00+00:00
+description: 'Here are 19 ideas on how to impress your significant other on Oregon’s
   Adventure Coast: Coos Bay, North Bend, Charleson. '
-image: "/img/oregon-coast-date-ideas-blog-695x322-jpg.png"
+image: "/img/national-plan-your-vacation-day-blog-695x322-jpg.png"
 tags:
 - Date Night
 - Valentine's Day
@@ -16,6 +16,7 @@ tags:
 - Sunset Bay State Park
 - 'Cape Arago Highway '
 categories:
+- Local Spotlight
 - Itineraries
 seo:
   title: ''
@@ -26,51 +27,48 @@ aliases: []
 accordion_sections: []
 warning: true
 warning_copy: ''
-draft: true
 
 ---
-_There’s still time to get 15% OFF hotel lodging at participating properties with our_ [_Storm Watching Lodging Special_](https://www.oregonsadventurecoast.com/storm15/) _through February 28, 2022!_
-
 There’s just something about **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** that folks love unconditionally! Guess you could say that “love is in the air” around here! With Valentine’s Day just around the corner, we thought this would be a great time to share some ideas on how to impress your significant other on Oregon’s Adventure Coast.
 
-![](/img/oregon-coast-date-ideas-blog-695x322-jpg-1.png)
+\#1- If you’re going to be in town the weekend of February 11, 2023- you’re going to want to experience the [Annual Charleston Crab Feed](https://www.oregonsadventurecoast.com/event/annual-charleston-crab-feed/) happening that Saturday from 11am-3pm at the North Bend Community Center. [Get tickets now ](https://www.eventbrite.com/e/38th-annual-charleston-crab-feed-tickets-489128946847)before it sells out!
 
-\#1- If you’re going to be in town the weekend of February 12, 2022- you’re going to want to experience the [Annual Charleston Crab Feed](https://www.oregonsadventurecoast.com/blog/heading-to-the-2022-charleston-crab-feed-follow-these-tips-trip-ideas/) happening that Saturday from 11am-3pm at the North Bend Community Center. [Get tickets now ](https://www.eventbrite.com/e/37th-annual-charleston-crab-feed-tickets-228598854327)before it sells out!
+![](/img/_crab-feed-oregon-coast-blog-695x322-jpg.jpg)#2- Rent an ATV and take an epic ride on the wild side along the [Oregon Dunes National Recreation Area](https://www.stateparks.com/oregon_dunes.html), the largest expanse of coastal sand dunes in North America.
 
-\#2- Enjoy a romantic dinner at a local restaurant with ambiance or beautiful views like [7 Devils Waterfront Alehouse](https://www.7devilsbrewery.com/waterfront-alehouse.html#/), [Hilltop House](https://hilltophouserestaurant.com/), [The Portside Restaurant](https://www.facebook.com/PortsideRestaurant/), [The Plank House](https://www.themillcasino.com/dining/plank-house/) and [Restaurant O](http://restauranto.us/) (we recommend reservations). [Download our Local Restaurant Guide](https://www.oregonsadventurecoast.com/img/Restaurants-BOOKLET.pdf) guide to help you choose the right spot!
+![](/img/Oregon Dunes ATV OVA blog-695x322.jpg)#3- Enjoy a romantic dinner at a local restaurant with ambiance or beautiful views like[7 Devils Waterfront Alehouse](https://7devilsbrewery.com/waterfront-ale-house/), [Hilltop House](https://hilltophouserestaurant.com/), [The Portside Restaurant](https://www.facebook.com/PortsideRestaurant/), [The Plank House](https://www.themillcasino.com/dining/plank-house/) and [Restaurant O](http://restauranto.us/) (we recommend reservations). [Download our Local Restaurant Guide](https://www.oregonsadventurecoast.com/img/Restaurants-BOOKLET.pdf) guide to help you choose the right spot!
 
-\#3- Relax while soaking in a luxurious jetted hot tub in your [private suite](https://www.themillcasino.com/hotel-room/tower-balcony-suite/) overlooking the bay at [The Mill Casino * Hotel & RV Park](https://www.themillcasino.com/).
+![](/img/oregon-coast-date-ideas-blog-695x322-jpg.png)#4 - Go ice skating at the [North Bend Ice Skating Rink](https://www.facebook.com/NorthBendIceSkatingRink), open through February 19, 2023! 
 
-\#4- Enjoy a stroll through the gardens and amazing views of the ocean at [Shore Acres State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68), the crown jewel of the Oregon Coast.
+![](/img/ice-skating-oregon-coast-695x322-jpg.jpg)#5- Book a [Valentine’s Day Package](https://www.themillcasino.com/accommodations/packages/) at [The Mill Casino * Hotel & RV Park](https://www.themillcasino.com/) between Friday, February 10 – Tuesday, February 14, 2023 and receive a $50 Dining voucher, two $10 Free Slot Play vouchers, a custom chocolate treat and rose petals and sweetheart swans on the bed! [Click here](https://www.oregonsadventurecoast.com/lodging/) to see all other lodging options. 
 
-\#5- Taste handcrafted rum, vodka, and whiskey at [Stillwagon Distillery](http://stillwagondistillery.com/) (by appointment only).
+![](/img/_mill-casino-valentines-blog-695x322-jpg.jpg)#6- Enjoy a stroll through the gardens and amazing views of the ocean at [Shore Acres State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68), the crown jewel of the Oregon Coast.
 
-\#6-If weather allows, go on a romantic picnic on the beach at [Sunset Bay State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) to watch the sun set over wine and cheese.
+![](/img/shore-acres-blog-695x322-jpg.jpg)#7- Taste handcrafted rum, vodka, and whiskey at [Stillwagon Distillery](http://stillwagondistillery.com/) (by appointment only).
 
-\#7- Go on an adventurous drive and spend the day exploring the beaches and state parks along the Cape Arago Highway. Watch the seals and sea lions on[ Simpson Reef and Shell Island](https://www.shareoregon.com/things-to-do/en/listings/126105-simpson-reef-and-shell-island-oregon-islands-nwr), part of the[ Oregon Islands National Wildlife Refuge](https://www.fws.gov/refuge/oregon_islands/). [Download this guide](https://oregonsadventurecoast.com/img/cape-arago-loop-itinerary-2018.pdf) to help you on your route and choose your own experience.
+![](/img/whiskey-tasting-distillery-blog-695x322-jpg.jpg)#8-If weather allows, go on a romantic picnic on the beach at [Sunset Bay State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) to watch the sun set over wine and cheese.
 
-\#8-Treat yourselves to a one-of-a-kind tasting adventure you can only find along the[ Wild Rivers Coast Food Trail](https://www.oregonsadventurecoast.com/blog/savor-the-flavors-along-the-wild-rivers-coast-food-trail/).
+![](/img/earth-day-sunset-beach-blog-695x322-jpg.jpg)#9 Book a relaxing massage overlooking the bay.  [Beautiful You](https://www.beautifulyou-pnw.com/) , a Medi Spa in Coos Bay, has a new location in Coos Bay Village where couples can unwind and take in gorgeous views of the bay. 
 
-\#9- Hunt for treasures in one of our local antique shops. The towns of Coos Bay, North Bend and Charleston have a rich and unique history, making this region a treasure trove for collectors.
+![](/img/spa-coos-bay-blog-695x322-jpg.jpg)#10- Go on an adventurous drive and spend the day exploring the beaches and state parks along the Cape Arago Highway. Watch the seals and sea lions on[ Simpson Reef and Shell Island](https://www.shareoregon.com/things-to-do/en/listings/126105-simpson-reef-and-shell-island-oregon-islands-nwr), part of the[ Oregon Islands National Wildlife Refuge](https://www.fws.gov/refuge/oregon_islands/).
 
-\#10- Experience nature at it’s best on a romantic daytime hike through lush coastal forests to [Golden and Silver Falls State Natural Area](https://www.oregonsadventurecoast.com/blog/2016-02-05-adventure-spotlight-golden-and-silver-falls/), two magnificent waterfalls here on Oregon’s Adventure Coast.
+![](/img/shell-island-wildlife-oregon-coast-blog-695x322-jpg.jpg)#11- Take a self-guided public art tour with this [Public Art Trail map](https://visittheoregoncoast.com/oregon-coast-public-art-trail/) (courtesy of the [Oregon Coast Visitors Association](https://visittheoregoncoast.com/)) and be on the lookout for other whimsical displays throughout downtown Coos Bay, North Bend and Charleston. 
 
-\#11- Learn something new together as you explore art, history and culture in some of our museums and galleries like the [Coos History Museum](https://www.oregonsadventurecoast.com/blog/oregon-s-adventure-coast-spotlight-coos-history-museum/), [Coos Art Museum](https://www.coosart.org/), and the [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/) (currently operating with limited hours). [Click here](https://oregonsadventurecoast.com/art-history-culture/) for more info about local museums and galleries we recommend visiting.
+![](/img/washed-ashore-art-coos-bay-blog-695x322-jpg.jpg)#12- [Go shopping](https://www.oregonsadventurecoast.com/shopping/) and hunt for treasures in one of our local antique shops. The towns of Coos Bay, North Bend and Charleston have a rich and unique history, making this region a treasure trove for collectors.
 
-\#12- Enjoy a fresh, hot cup of coffee and a delicious pastry at a local coffee shop like [Bayside Coffee & Tea](https://www.facebook.com/coos.baysidecoffee), [So It Goes Coffeehouse](https://www.soitgoescoffee.com/), [The Grounds Cafe](https://www.groundsinyourcup.com/) (located inside the [Books by the Bay Bookstore](https://www.facebook.com/Books-By-The-Bay-232314893488700/)) and more.
+![](/img/shopping-blog-695x322-jpg.jpg)#13- Experience nature at it’s best on a romantic daytime hike through lush coastal forests to [Golden and Silver Falls State Natural Area](https://www.oregonsadventurecoast.com/blog/2016-02-05-adventure-spotlight-golden-and-silver-falls/), two magnificent waterfalls here on Oregon’s Adventure Coast.
 
-\#13 Explore the mysterious history of our region on a [self-guided walking tour ](https://www.oregonsadventurecoast.com/blog/trip-idea-a-walking-tour-of-historic-coos-bay-north-bend/)of Historic Coos Bay & North Bend.
+![](/img/golden-silver-falls-695x322-jpg.jpg)#14- Learn something new together as you explore history and culture in some of our museums and galleries like the [Coos History Museum](https://www.oregonsadventurecoast.com/blog/oregon-s-adventure-coast-spotlight-coos-history-museum/), [Coos Art Museum](https://www.coosart.org/), and the [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/). [Click here](https://oregonsadventurecoast.com/art-history-culture/) for more info about local museums and galleries we recommend visiting.
 
-\#14 Take a romantic walk along a [beautiful, pristine beach](https://www.oregonsadventurecoast.com/undeveloped-beaches/). Watch the surfers on Bastendorff Beach, or search for natural treasures in tide pools in the protected beach in Sunset Bay State Park._Visitors going to the beach should be aware of coastal safety hazards with the potential danger of undertows, sneaker waves, and rolling logs._ [_Click here for Beach Safety Tips_](https://oregonsadventurecoast.com/blog/eight-ways-to-stay-safe-on-the-beaches-along-the-oregon-coast/)_._
+![](/img/coos-history-museum-blog-695x322-jpg.png)#15- Enjoy a fresh, hot cup of coffee and a delicious pastry at a local coffee shop or bakery. Download our [Coffee Shops, Bakeries & More Guide](https://www.oregonsadventurecoast.com/img/coffeeshops-bakery.pdf).
 
-\#15 Spend the night gaming in one of [our casinos](https://oregonsadventurecoast.netlify.app/blog/try-your-luck-on-oregon-s-adventure-coast/)! Whether it's slots, cards, or games, you'll find plenty of round-the-clock adventure, fun, and (fingers crossed) good luck!
+![](/img/coffee-oregon-coast-695x322-jpg.jpg)#16 Explore the mysterious history of our region on a [self-guided walking tour ](https://www.oregonsadventurecoast.com/blog/trip-idea-a-walking-tour-of-historic-coos-bay-north-bend/)of Historic Coos Bay & North Bend.
 
-\#16 Enjoy a super-fun night of [Cosmic Bowling](https://northbendlanes.com/Bowling/Cosmic-Bowling) at North Bend Lanes, or grab a pint at [7 Devils Brewing Co](https://www.7devilsbrewery.com). or one of our other local pubs!
+![](/img/coos-bay-road-trip-checklist-blog-695x322-jpg.png)#17 Take a romantic walk along a [beautiful, pristine beach](https://www.oregonsadventurecoast.com/undeveloped-beaches/). Watch the surfers on Bastendorff Beach, or search for natural treasures in tide pools in the protected beach in Sunset Bay State Park._Visitors going to the beach should be aware of coastal safety hazards with the potential danger of undertows, sneaker waves, and rolling logs._ [_Click here for Beach Safety Tips_](https://oregonsadventurecoast.com/blog/eight-ways-to-stay-safe-on-the-beaches-along-the-oregon-coast/)_._
+
+![](/img/_romantic-ideas-oregon-coast-blog-695x322-jpg.png)#18 Spend the night gaming in one of [our casinos](https://oregonsadventurecoast.netlify.app/blog/try-your-luck-on-oregon-s-adventure-coast/)! Whether it's slots, cards, or games, you'll find plenty of round-the-clock adventure, fun, and (fingers crossed) good luck!
+
+![](/img/casino-date-oregon-coast-695x322-jpg.jpg)#19 Enjoy a super-fun night of [Cosmic Bowling](https://northbendlanes.com/Bowling/Cosmic-Bowling) at North Bend Lanes, or grab a pint at [7 Devils Brewing Co](https://www.7devilsbrewery.com). or one of our other local pubs!
 
 Want more inspiration? Visit our featured [adventures page](https://www.oregonsadventurecoast.com/adventures) and our [trip ideas page](https://www.oregonsadventurecoast.com/tripideas) to find more travel ideas and inspiration, and/or contact the [Coos Bay – North Bend Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/contact/).
 
 You can also follow [Oregon’s Adventure Coast Facebook](https://www.facebook.com/OregonsAdventureCoast/), [@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/), [Twitter](https://twitter.com/travelcoosbay?lang=en) and [TikTok](https://www.tiktok.com/@oregonsadventurecoast?lang=en) to find inspiration on the best spots to visit, eat, stay and explore any time of the year. [Request your FREE visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform)!
-
-_As the developments with COVID-19 continue to unfold, please follow the direction of our public health authorities, including the CDC, Oregon Health Authority, and Coos Health & Wellness, to protect yourself, our community and our visitors. Face coverings are mandatory for all when inside a public space, AND outdoors when 6 ft distancing cannot be maintained. If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage you to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19._
-
-_Visit the state’s_ [_**Safe+Strong Oregon **_](https://www.safestrongoregon.org/)_page for more information._
