@@ -32,9 +32,10 @@ warning_copy: ''
 There’s just something about **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** that folks love unconditionally! Guess you could say that “love is in the air” around here! With Valentine’s Day just around the corner, we thought this would be a great time to share some ideas on how to impress your significant other on Oregon’s Adventure Coast.
 
 **#1- Charleston Crab Feed.** If you’re going to be in town the weekend of February 11, 2023- you’re going to want to experience the [Annual Charleston Crab Feed](https://www.oregonsadventurecoast.com/event/annual-charleston-crab-feed/) happening that Saturday from 11am-3pm at the North Bend Community Center. [Get tickets now ](https://www.eventbrite.com/e/38th-annual-charleston-crab-feed-tickets-489128946847)before it sells out!
-![](/img/_crab-feed-oregon-coast-blog-695x322-jpg.jpg)
+![man holding dungeness crab ](/img/_crab-feed-oregon-coast-blog-695x322-jpg.jpg)
 
-**#2- Go ATVing!** Rent an ATV and take an epic ride on the wild side along the [Oregon Dunes National Recreation Area](https://www.stateparks.com/oregon_dunes.html), the largest expanse of coastal sand dunes in North America. ![](/img/Oregon Dunes ATV OVA blog-695x322.jpg)
+**#2- Go ATVing!** Rent an ATV and take an epic ride on the wild side along the [Oregon Dunes National Recreation Area](https://www.stateparks.com/oregon_dunes.html), the largest expanse of coastal sand dunes in North America. 
+![](/img/Oregon Dunes ATV OVA blog-695x322.jpg)
 
 **#3- Wine & Dine in a locally owned restaurant.** Enjoy a romantic dinner at a local restaurant with ambiance or beautiful views like[7 Devils Waterfront Alehouse](https://7devilsbrewery.com/waterfront-ale-house/), [Hilltop House](https://hilltophouserestaurant.com/), [The Portside Restaurant](https://www.facebook.com/PortsideRestaurant/), [The Plank House](https://www.themillcasino.com/dining/plank-house/) and [Restaurant O](http://restauranto.us/) (we recommend reservations). [Download our Local Restaurant Guide](https://www.oregonsadventurecoast.com/img/Restaurants-BOOKLET.pdf) guide to help you choose the right spot!
 ![](/img/oregon-coast-date-ideas-blog-695x322-jpg.png)
