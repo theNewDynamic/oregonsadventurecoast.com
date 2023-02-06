@@ -31,11 +31,10 @@ warning_copy: ''
 ---
 There’s just something about **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** that folks love unconditionally! Guess you could say that “love is in the air” around here! With Valentine’s Day just around the corner, we thought this would be a great time to share some ideas on how to impress your significant other on Oregon’s Adventure Coast.
 
-**#1- Charleston Crab Feed.** If you’re going to be in town the weekend of February 11, 2023- you’re going to want to experience the [Annual Charleston Crab Feed](https://www.oregonsadventurecoast.com/event/annual-charleston-crab-feed/) happening that Saturday from 11am-3pm at the North Bend Community Center. [Get tickets now ](https://www.eventbrite.com/e/38th-annual-charleston-crab-feed-tickets-489128946847)before it sells out!
+**#1- Charleston Crab Feed.** If you’re going to be in town the weekend of February 11, 2023- you’re going to want to experience the [Annual Charleston Crab Feed](https://www.oregonsadventurecoast.com/event/annual-charleston-crab-feed/) happening that Saturday from 11am-3pm at the Oregon Institute of Marine Biology (OIMB). [Get tickets now ](https://www.eventbrite.com/e/38th-annual-charleston-crab-feed-tickets-489128946847)before it sells out!
 ![man holding dungeness crab ](/img/_crab-feed-oregon-coast-blog-695x322-jpg.jpg)
 
 **#2- Go ATVing!** Rent an ATV and take an epic ride on the wild side along the [Oregon Dunes National Recreation Area](https://www.stateparks.com/oregon_dunes.html), the largest expanse of coastal sand dunes in North America.
-
 
 ![](/img/oregon-dunes-atv-ova-blog-695x322-1.jpg)
 
