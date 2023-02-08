@@ -78,9 +78,10 @@ seo:
     nature, wildlife, shopping, arts, and more. Your adventure awaits!
   title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
 home_splashes:
-- img: "/img/summer-2022-splash.jpg"
-  alt: 'Plan your getaway '
-  url: "/adventures"
+- img: "/img/winter-2023-splash-hero-image.jpg"
+  alt: Adventure photos including mountain biking, atv riding in the dunes and lighthouse
+    sightseeing
+  url: "/cycling"
 
 ---
 We welcome you to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities. We invite you to explore, to discover, to feel, to know…at land’s end, adventure begins. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do. Your vacation will be full of adventure, nature, wildlife, culture, arts and athletics.
