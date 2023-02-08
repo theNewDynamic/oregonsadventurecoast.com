@@ -50,11 +50,11 @@ masonry4:
   mobiletitle: Museums & History
   url: "/art-history-culture/"
 masonry5:
-  desktopphoto: "/img/fishing-masonry-right.jpg"
+  desktopphoto: "/img/fishing-masonry-2023-340x255.jpg"
   desktoptitle: Fishing
   hoverdescription: Fresh water and deep sea fishing opportunities year 'round.
   hovertitle: What Lies Beneath
-  mobilephoto: "/img/fishing-masonry-mobile-345x160-1.jpg"
+  mobilephoto: "/img/fishing-masonry-mobile-2023.jpg"
   mobiletitle: Fishing
   url: "/fishing"
 masonry6:
