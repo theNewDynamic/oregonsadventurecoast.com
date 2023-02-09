@@ -33,11 +33,11 @@ masonry2:
   mobiletitle: Year-Round Mtn Biking
   url: "/cycling/"
 masonry3:
-  desktopphoto: "/img/hiking-desktop-masonry-01-22.jpg"
+  desktopphoto: "/img/hiking-2023-230x185.jpg"
   desktoptitle: Hiking
   hoverdescription: The best way to enjoy the area's beauty is on foot.
   hovertitle: Making Tracks
-  mobilephoto: "/img/hiking-mobile-masonry-01-22.jpg"
+  mobilephoto: "/img/hiking-2023-mobile-345x160.jpg"
   mobiletitle: Hiking
   url: "/hiking-walking/"
 masonry4:
