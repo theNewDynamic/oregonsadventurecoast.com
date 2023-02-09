@@ -58,11 +58,11 @@ masonry5:
   mobiletitle: Fishing
   url: "/fishing"
 masonry6:
-  desktopphoto: "/img/dunes-medium-masonry-desktop.jpg"
+  desktopphoto: "/img/dunes-atv-masonry-340x255.jpg"
   desktoptitle: Untamed Dunes
   hoverdescription: OAC has the largest expanse of coastal sand dunes in North America.
   hovertitle: Pulse-Pounding Adventure
-  mobilephoto: "/img/dunes-masonry-mobile-new.jpg"
+  mobilephoto: "/img/dunes-atv-masonry-345x160.jpg"
   mobiletitle: Untamed Dunes
   url: "/atv-motorsports/"
 masonry7:
