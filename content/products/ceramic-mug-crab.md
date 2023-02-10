@@ -1,7 +1,7 @@
 ---
 product:
   price: 15.95
-  weight: 19
+  weight: 566
   id: "300100"
   description: 15oz white ceramic mug with full color Oregon's Adventure Coast crab
     artwork.
