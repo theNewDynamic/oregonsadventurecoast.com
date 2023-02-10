@@ -11,6 +11,5 @@ image: "/img/mug-fishing-actual.jpg"
 hover_image: "/img/mug-fishing-art.jpg"
 description: '15oz white ceramic mug with full color Oregon''s Adventure Coast fishing
   artwork. '
-draft: true
 
 ---

@@ -11,6 +11,5 @@ image: "/img/mug-dunes-acutal.jpg"
 hover_image: "/img/mug-dunes-art.jpg"
 description: '15oz white ceramic mug with full color Oregon''s Adventure Coast dunes/ATV
   artwork. '
-draft: true
 
 ---

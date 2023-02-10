@@ -11,6 +11,5 @@ image: "/img/mug-whiskey-run-actual.jpg"
 hover_image: "/img/mug-whiskey-run-art.jpg"
 description: '15oz white ceramic mug with full color Oregon''s Adventure Coast Whiskey
   Run artwork. '
-draft: true
 
 ---
