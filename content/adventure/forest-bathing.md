@@ -12,7 +12,7 @@ accordion_sections: []
 draft: true
 
 ---
-![](/img/forest-bathing-header-695x322.jpg)
+![two people in forest holding arms up celebrating the sun and nature](/img/forest-bathing-hero-main-image.jpg)
 
 Forest bathing, also known as Shinrin-yoku, is the practice of immersing oneself in nature to improve physical and mental health. It involves spending time in forests, parks, or other natural environments and using all five senses to connect with nature. The idea is to slow down, relax, and be mindful of the present moment.
 
