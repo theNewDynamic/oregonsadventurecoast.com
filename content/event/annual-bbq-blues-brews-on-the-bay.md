@@ -8,8 +8,8 @@ desktoptitle: BBQ, Blues & Brews Festival
 mobiletitle: BBQ, Blues & Brews
 hovertitle: BBQ, Blues & Brews
 hoverdescription: KCBS Sanctioned BBQ Event at The Mill Casino * Hotel!
-startdate: '2022-05-28'
-enddate: '2022-05-29'
+startdate: '2023-05-27'
+enddate: '2023-05-28'
 address:
   street: 3201 Tremont St
   city: North Bend
@@ -28,11 +28,11 @@ seo:
 ---
 ![](/img/bbq-blues-brews-logo-695px.jpg)
 
-**Get ready for the return of lip-smackin' BBQ, incredible brews, and smokin' hot tunes. Memorial Weekend 2022, May 28-29.**
+**Get ready for the return of lip-smackin' BBQ, incredible brews, and smokin' hot tunes. Memorial Weekend 2023, May 27-28.**
 
 **The Mill Casino * Hotel's Annual BBQ, Blues & Brews on the Bay** has grown into one of The Mill's most attended events. Finger-lickin' good barbecue, hand-crafted beers, and smokin’ hot tunes at the BBQ, Blues & Brews on the Bay, Memorial Day Weekend.
 
-Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, May 28-29, 2022 at [**The Mill Casino • Hotel & RV Park**](https://www.themillcasino.com/).
+Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, May 27-28, 2022 at [**The Mill Casino • Hotel & RV Park**](https://www.themillcasino.com/).
 
 [Book your room now!](https://oregonsadventurecoast.com/lodging/ "Lodging on Oregon's Adventure Coast!")
 
@@ -44,13 +44,13 @@ Whether you’re a grill master or just love to eat great barbecue, this event i
 
 #### BBQ!
 
-For the 9th Year, The Mill brings you **finger-lickin' good barbeque** for a Kansas City Barbecue Society Sanctioned Event, bringing the best grill masters and teams together,  vying for the title of **Grand Champion!** See the schedule below for tasting times!
+For the 10th Year, The Mill brings you **finger-lickin' good barbeque** for a Kansas City Barbecue Society Sanctioned Event, bringing the best grill masters and teams together,  vying for the title of **Grand Champion!** See the schedule below for tasting times!
 
 {{< spacer 50>}}
 
 #### BLUES!
 
-**Smokin’ hot tunes** from some of the best blues musicians throughout both days. After grabbing some BBQ and a Brew, stop in the music tent to hear such greats as Inner Limits and Lloyd Tolbert Band!
+**Smokin’ hot tunes** from some of the best blues musicians throughout both days. After grabbing some BBQ and a Brew, stop in the music tent to hear these great bands!
 
 {{< spacer 50>}}
 
@@ -58,11 +58,11 @@ For the 9th Year, The Mill brings you **finger-lickin' good barbeque** for a Kan
 
 #### BREWS!
 
-**New and improved** beer samplings in 2022! Enjoy samples for over 20 breweries as you wander through the event. You can also vote for the People’s Choice Best Brew!
+**New and improved**! Enjoy samples from over 20 breweries as you wander through the event. You can also vote for the People’s Choice Best Brew!
 
 When guests enter the event, they will be able to buy a commemorative logo’d glass for $15. The glass comes with 10 tokens for samples of the 30+ flavors of beers at the 4 beer stations throughout the event. Each token is valid for one 2 oz sample.
 
-Guests can purchase more tokens for $1 each. Full-size domestic beers and a selection of wine will also be available for purchase with cash or card.
+Guests can also purchase tokens for $1 each. Full-size domestic beers and a selection of wine will also be available for purchase with cash or card.
 
 {{< spacer 50>}}
 
@@ -72,29 +72,27 @@ Guests can purchase more tokens for $1 each. Full-size domestic beers and a sele
 
 {{< spacer 25>}}
 
-#### Saturday, May 28
+#### Saturday, May 27
 
 **12:00 PM – 6:00 PM** – Enjoy Vendors, Live Entertainment, Craft Brews, and sample BBQ & Mac ‘N Cheese from competitors
 
-**12:00 PM – 3:00 PM** – Live Entertainment: Inner Limits
+**12:00 PM – 3:00 PM** – Live Entertainment
 
-**3:00 PM – 6:00 PM** – Live Entertainment: Lloyd Tolbert Band
+**3:00 PM – 6:00 PM** – Live Entertainment
 
 {{< spacer 50>}}
 
-#### Sunday
-
-, May 29
+#### Sunday, May 28
 
 **12:00 PM – 4:00 PM** – Enjoy Vendors, Live Entertainment, Craft Brews, and sample BBQ & Mac ‘N Cheese from competitors
 
-**12:00 PM – 2:00 PM** – Live Entertainment: Lloyd Tolbert Band
+**12:00 PM – 2:00 PM** – Live Entertainment
 
-**2:00 PM – 4:00 PM** – Live Entertainment: Inner Limits
+**2:00 PM – 4:00 PM** – Live Entertainment
 
 **2:00 PM** – Jim Monihan Mac ‘N Cheese Challenge
 
-**4:00 PM** – Awards Ceremony – $13,500 in prize money will be awarded to KCBS BBQ competitors, Mac ‘N Cheese winners will be announced!
+**4:00 PM** – Awards Ceremony – $15,00 in prize money will be awarded to KCBS BBQ competitors, Mac ‘N Cheese winners will be announced!
 
 {{< spacer 50>}}
 
@@ -102,42 +100,4 @@ Guests can purchase more tokens for $1 each. Full-size domestic beers and a sele
 
 {{< spacer 50>}}
 
-#### **COMPETING TEAMS FOR 2022** 
-
-_(as of December 31, 2021)_
-
-1\.  Booties BBQ
-
-2\.  Bearded Boar BBQ
-
-3\.  Fat Dads Barbeque
-
-4\.  The California Grill Billies
-
-5\.  Son of Smoke
-
-6\.  Dances with Smoke Barbeque
-
-7\.  Prison Break BBQ
-
-8\.  Jerimiah Johnson Mountain Man BBQ
-
-9\.  BBQ BROS
-
-10\. Smokin' Timbers Northwest
-
-11\. Big Bite BBQ
-
-12\. RJ's Smokehouse
-
-13\. 503 Backyard BBQ
-
-14\. Newts BBQ
-
-15\. Small Axe BBQ
-
-16\. Old Dirty Basters
-
-17\. J&C BBQ
-
-18\. Greenhorn Smokehouse
+#### **COMPETING TEAMS FOR 2023 - COMING SOON**
