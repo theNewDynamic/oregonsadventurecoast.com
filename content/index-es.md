@@ -6,10 +6,6 @@ lang: es
 url: es/
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- photo: "/img/spring-brk-hiking-hm-slider.jpg"
-- photo: "/img/spring-brk-fishing-hm-slider.jpg"
-- photo: "/img/spring-brk-biking-hm-slider.jpg"
-- photo: "/img/spring-brk-dunes-hm-slider.jpg"
 - url: ''
   video:
     source: ''
