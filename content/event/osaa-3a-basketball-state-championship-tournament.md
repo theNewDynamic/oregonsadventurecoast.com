@@ -6,8 +6,8 @@ address:
   city: ''
   zip: '97420'
 title: OSAA 3A Basketball State Championship Tournament
-startdate: '2022-03-03'
-enddate: '2022-03-05'
+startdate: '2023-03-02'
+enddate: '2023-03-04'
 phone_local: '5412690215'
 phone_toll_free: ''
 website: https://www.osaa.org/
@@ -35,7 +35,7 @@ aliases: []
 
 {{< spacer 50 >}}
 
-After a hiatus due to COVID-19, we’re thrilled to welcome back the talented young athletes participating in the **OSAA 3A Basketball State Tournament**, along with school faculty members and families here to watch!
+We’re thrilled to welcome back the talented young athletes participating in the **OSAA 3A Basketball State Tournament**, along with school faculty members and families here to watch!
 
 {{< spacer 50 >}}
 
@@ -43,7 +43,7 @@ After a hiatus due to COVID-19, we’re thrilled to welcome back the talented yo
 
 {{< spacer 50 >}}
 
-Tournament action begins on Thursday afternoon, March 3rd and concludes with the championship game on Saturday afternoon, March 5th.
+Tournament action begins on Thursday afternoon, March 2nd and concludes with the championship game on Saturday, March 4th.
 
 Keep up with the teams by following the Rankings and Brackets!
 
@@ -56,7 +56,5 @@ Keep up with the teams by following the Rankings and Brackets!
 {{< spacer 50 >}}
 
 #### Coming to watch the teams play? [Book your room now!](https://www.oregonsadventurecoast.com/lodging/)
-
-**Buy your** [**Digital Ticket from OSAA**](https://www.osaa.org/shop/tickets)**, available the week of tournament play. (Link is also available from the Tournament Brackets page.)**
 
 _Overflow lodging may be available in_ [_Bandon_](https://www.oregonsadventurecoast.com/img/Bandon-lodging-BBTournaments-2022.pdf)_, Lakeside or Reedsport._
