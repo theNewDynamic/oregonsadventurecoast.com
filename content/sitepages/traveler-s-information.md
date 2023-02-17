@@ -46,7 +46,7 @@ There’s a few things you need to know about driving in Oregon:
 
 Oregon’s Adventure Coast is a fairly casual area, so unless you are attending a specific formal event, casual dress will be welcomed most anywhere. While jeans are not always appropriate, khakis or Dockers fill the void. Pack smart and you won’t have any trouble at all.
 
-### LIVE CAMS (temp)
+### LIVE CAMS
 
 {{< columns >}}
 [![California Street Boat Ramp](/img/nb_cam_california_street.jpg)](https://www.northbendoregon.us/pview.aspx?id=55013)
