@@ -47,6 +47,14 @@ A must-stop for railroad enthusiasts. Ring the bell of the signature 1922 Baldwi
 
 {{< spacer >}}
 
+{{< floatimage src="/img/sms-pioneer-cemetery-400x300.jpeg" float="left" alt="The Marshfield Pioneer Cemetery" size="40" >}}
+
+#### Marshfield Pioneer Cemetery
+
+Located adjacent to Marshfield High School, the Marshfield Pioneer Cemetery encompasses four acres of greenspace with more than 2,000 gravesites dating to pre-Civil War times. Explore the cemetery with a self-guided brochure and learn about shipwrecks, the Civil War prison escapees, and many of the immigrants who made this region home. The cemetery is on the National Register of Historic Places. [Learn more about the Marshfield Pioneer Cemetery.](https://sites.google.com/site/cbcemetery/)
+
+{{< spacer >}}
+
 {{< floatimage src="/img/ch-marine-life-400x300.jpg" float="left" alt="The Charleston Marine Life Center" size="40" >}}
 
 #### Charleston Marine Life Center
