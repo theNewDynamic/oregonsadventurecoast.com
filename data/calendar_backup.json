@@ -1,0 +1,1810 @@
+[
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "1210 N. Front Street",
+      "zip": "97420"
+    },
+    "date": "March 7, 2023",
+    "description": "<p>Everything Looks different from the Air with Barbara Drake</p>\n<p>The First Tuesday Talks Lecture Series features speakers from various backgrounds, locations, and topics with a focus on Southern Oregon Coast history. This monthly program takes place from February through June and August through December, with no talk in January or July.&nbsp;</p>\n<p>Doors open at 5:30 pm and each lecture will begin at 6:00 pm.&nbsp;</p>\n<p>The museum, galleries, and store will be open for extended hours during the event. Admission is free for museum members.&nbsp;</p>\n<p>Admission for non-members in person is $7.00 and admission for non-members online is $5. Please note: From time to time the lectures may be ONLINE ONLY.&nbsp;</p>",
+    "end_date": "2023-03-07",
+    "latitude": "43.375640",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://cooshistory.org/1st-tuesdays/"
+      }
+    ],
+    "longitude": "-124.212478",
+    "media": {
+      "alt": "photo of Barbara Drake and wording on sage colored background",
+      "caption": "First Tuesday Talks - Everything Looks Different from the Air",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0b6892257ff4341b9cada2ad6b10838d_CHMTuesMAR23.jpeg"
+    },
+    "month": 3,
+    "phones": [
+      "541-756-6320"
+    ],
+    "start_date": "2023-03-07",
+    "title": "1st Tuesday Talks at Coos History Museum - March",
+    "uuid": "e83aa2c7-f834-4b94-a73c-3a27c4e80167",
+    "website": "https://cooshistory.org/1st-tuesdays/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "999 N. Front Street",
+      "zip": "97420"
+    },
+    "date": "February 22, 2023",
+    "description": "<p>Every <strong>Wednesday</strong> from 10am-2pm</p>\n<p><strong><em>November 2nd - April 26th.</em></strong></p>\n<p><strong>999 Front Street Buliding </strong>- just a block South of the Coos History Museum</p>\n<p>Vendors wishing to sign up can contact the market manager at lex@bridgeviewcoffee.com for an information pack.</p>",
+    "end_date": "2023-02-22",
+    "latitude": "43.373699",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+      }
+    ],
+    "longitude": "-124.211548",
+    "media": {
+      "alt": "Winter Market logo",
+      "caption": "Bay Area Farmers & Artisans Market",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/8d03a827b09a6f7dce33f4f6a50be2b2_WinterMarket20212022.jpeg"
+    },
+    "month": 2,
+    "start_date": "2023-02-22",
+    "title": "Bay Area Farmers & Artisans Market",
+    "uuid": "ab0f6828-d3c6-4c3d-802d-6236b6314aba",
+    "website": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "999 N. Front Street",
+      "zip": "97420"
+    },
+    "date": "March 1, 2023",
+    "description": "<p>Every <strong>Wednesday</strong> from 10am-2pm</p>\n<p><strong><em>November 2nd - April 26th.</em></strong></p>\n<p><strong>999 Front Street Buliding </strong>- just a block South of the Coos History Museum</p>\n<p>Vendors wishing to sign up can contact the market manager at lex@bridgeviewcoffee.com for an information pack.</p>",
+    "end_date": "2023-03-01",
+    "latitude": "43.373699",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+      }
+    ],
+    "longitude": "-124.211548",
+    "media": {
+      "alt": "Winter Market logo",
+      "caption": "Bay Area Farmers & Artisans Market",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/8d03a827b09a6f7dce33f4f6a50be2b2_WinterMarket20212022.jpeg"
+    },
+    "month": 3,
+    "start_date": "2023-03-01",
+    "title": "Bay Area Farmers & Artisans Market",
+    "uuid": "05fb0d33-ea05-4660-8ece-db2060e07a0f",
+    "website": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "999 N. Front Street",
+      "zip": "97420"
+    },
+    "date": "March 8, 2023",
+    "description": "<p>Every <strong>Wednesday</strong> from 10am-2pm</p>\n<p><strong><em>November 2nd - April 26th.</em></strong></p>\n<p><strong>999 Front Street Buliding </strong>- just a block South of the Coos History Museum</p>\n<p>Vendors wishing to sign up can contact the market manager at lex@bridgeviewcoffee.com for an information pack.</p>",
+    "end_date": "2023-03-08",
+    "latitude": "43.373699",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+      }
+    ],
+    "longitude": "-124.211548",
+    "media": {
+      "alt": "Winter Market logo",
+      "caption": "Bay Area Farmers & Artisans Market",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/8d03a827b09a6f7dce33f4f6a50be2b2_WinterMarket20212022.jpeg"
+    },
+    "month": 3,
+    "start_date": "2023-03-08",
+    "title": "Bay Area Farmers & Artisans Market",
+    "uuid": "46a18836-3f81-4147-8316-cb9501c826c4",
+    "website": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "999 N. Front Street",
+      "zip": "97420"
+    },
+    "date": "March 15, 2023",
+    "description": "<p>Every <strong>Wednesday</strong> from 10am-2pm</p>\n<p><strong><em>November 2nd - April 26th.</em></strong></p>\n<p><strong>999 Front Street Buliding </strong>- just a block South of the Coos History Museum</p>\n<p>Vendors wishing to sign up can contact the market manager at lex@bridgeviewcoffee.com for an information pack.</p>",
+    "end_date": "2023-03-15",
+    "latitude": "43.373699",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+      }
+    ],
+    "longitude": "-124.211548",
+    "media": {
+      "alt": "Winter Market logo",
+      "caption": "Bay Area Farmers & Artisans Market",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/8d03a827b09a6f7dce33f4f6a50be2b2_WinterMarket20212022.jpeg"
+    },
+    "month": 3,
+    "start_date": "2023-03-15",
+    "title": "Bay Area Farmers & Artisans Market",
+    "uuid": "1c64331e-5180-4a59-9d82-3010c9d37457",
+    "website": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "999 N. Front Street",
+      "zip": "97420"
+    },
+    "date": "March 22, 2023",
+    "description": "<p>Every <strong>Wednesday</strong> from 10am-2pm</p>\n<p><strong><em>November 2nd - April 26th.</em></strong></p>\n<p><strong>999 Front Street Buliding </strong>- just a block South of the Coos History Museum</p>\n<p>Vendors wishing to sign up can contact the market manager at lex@bridgeviewcoffee.com for an information pack.</p>",
+    "end_date": "2023-03-22",
+    "latitude": "43.373699",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+      }
+    ],
+    "longitude": "-124.211548",
+    "media": {
+      "alt": "Winter Market logo",
+      "caption": "Bay Area Farmers & Artisans Market",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/8d03a827b09a6f7dce33f4f6a50be2b2_WinterMarket20212022.jpeg"
+    },
+    "month": 3,
+    "start_date": "2023-03-22",
+    "title": "Bay Area Farmers & Artisans Market",
+    "uuid": "a6f66c17-e700-4ee6-83b7-ce409734def6",
+    "website": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "999 N. Front Street",
+      "zip": "97420"
+    },
+    "date": "March 29, 2023",
+    "description": "<p>Every <strong>Wednesday</strong> from 10am-2pm</p>\n<p><strong><em>November 2nd - April 26th.</em></strong></p>\n<p><strong>999 Front Street Buliding </strong>- just a block South of the Coos History Museum</p>\n<p>Vendors wishing to sign up can contact the market manager at lex@bridgeviewcoffee.com for an information pack.</p>",
+    "end_date": "2023-03-29",
+    "latitude": "43.373699",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+      }
+    ],
+    "longitude": "-124.211548",
+    "media": {
+      "alt": "Winter Market logo",
+      "caption": "Bay Area Farmers & Artisans Market",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/8d03a827b09a6f7dce33f4f6a50be2b2_WinterMarket20212022.jpeg"
+    },
+    "month": 3,
+    "start_date": "2023-03-29",
+    "title": "Bay Area Farmers & Artisans Market",
+    "uuid": "e21bc20a-aed3-4519-9613-f2a01581b024",
+    "website": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "999 N. Front Street",
+      "zip": "97420"
+    },
+    "date": "April 5, 2023",
+    "description": "<p>Every <strong>Wednesday</strong> from 10am-2pm</p>\n<p><strong><em>November 2nd - April 26th.</em></strong></p>\n<p><strong>999 Front Street Buliding </strong>- just a block South of the Coos History Museum</p>\n<p>Vendors wishing to sign up can contact the market manager at lex@bridgeviewcoffee.com for an information pack.</p>",
+    "end_date": "2023-04-05",
+    "latitude": "43.373699",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+      }
+    ],
+    "longitude": "-124.211548",
+    "media": {
+      "alt": "Winter Market logo",
+      "caption": "Bay Area Farmers & Artisans Market",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/8d03a827b09a6f7dce33f4f6a50be2b2_WinterMarket20212022.jpeg"
+    },
+    "month": 4,
+    "start_date": "2023-04-05",
+    "title": "Bay Area Farmers & Artisans Market",
+    "uuid": "ae65394b-a0f3-47fa-9de8-702fcc1d5480",
+    "website": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "999 N. Front Street",
+      "zip": "97420"
+    },
+    "date": "April 12, 2023",
+    "description": "<p>Every <strong>Wednesday</strong> from 10am-2pm</p>\n<p><strong><em>November 2nd - April 26th.</em></strong></p>\n<p><strong>999 Front Street Buliding </strong>- just a block South of the Coos History Museum</p>\n<p>Vendors wishing to sign up can contact the market manager at lex@bridgeviewcoffee.com for an information pack.</p>",
+    "end_date": "2023-04-12",
+    "latitude": "43.373699",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+      }
+    ],
+    "longitude": "-124.211548",
+    "media": {
+      "alt": "Winter Market logo",
+      "caption": "Bay Area Farmers & Artisans Market",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/8d03a827b09a6f7dce33f4f6a50be2b2_WinterMarket20212022.jpeg"
+    },
+    "month": 4,
+    "start_date": "2023-04-12",
+    "title": "Bay Area Farmers & Artisans Market",
+    "uuid": "d2e6a360-b70b-4d9b-8d29-a6e8cfb36f63",
+    "website": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "999 N. Front Street",
+      "zip": "97420"
+    },
+    "date": "April 19, 2023",
+    "description": "<p>Every <strong>Wednesday</strong> from 10am-2pm</p>\n<p><strong><em>November 2nd - April 26th.</em></strong></p>\n<p><strong>999 Front Street Buliding </strong>- just a block South of the Coos History Museum</p>\n<p>Vendors wishing to sign up can contact the market manager at lex@bridgeviewcoffee.com for an information pack.</p>",
+    "end_date": "2023-04-19",
+    "latitude": "43.373699",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+      }
+    ],
+    "longitude": "-124.211548",
+    "media": {
+      "alt": "Winter Market logo",
+      "caption": "Bay Area Farmers & Artisans Market",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/8d03a827b09a6f7dce33f4f6a50be2b2_WinterMarket20212022.jpeg"
+    },
+    "month": 4,
+    "start_date": "2023-04-19",
+    "title": "Bay Area Farmers & Artisans Market",
+    "uuid": "496171cf-ec64-4b36-bebd-4003e4650692",
+    "website": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "999 N. Front Street",
+      "zip": "97420"
+    },
+    "date": "April 26, 2023",
+    "description": "<p>Every <strong>Wednesday</strong> from 10am-2pm</p>\n<p><strong><em>November 2nd - April 26th.</em></strong></p>\n<p><strong>999 Front Street Buliding </strong>- just a block South of the Coos History Museum</p>\n<p>Vendors wishing to sign up can contact the market manager at lex@bridgeviewcoffee.com for an information pack.</p>",
+    "end_date": "2023-04-26",
+    "latitude": "43.373699",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+      }
+    ],
+    "longitude": "-124.211548",
+    "media": {
+      "alt": "Winter Market logo",
+      "caption": "Bay Area Farmers & Artisans Market",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/8d03a827b09a6f7dce33f4f6a50be2b2_WinterMarket20212022.jpeg"
+    },
+    "month": 4,
+    "start_date": "2023-04-26",
+    "title": "Bay Area Farmers & Artisans Market",
+    "uuid": "a6dfde67-7e0d-4678-9181-3dcf8068fc41",
+    "website": "https://www.facebook.com/PonyVillageMallFarmersMarket"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "999 N. Front Street, Suite 117",
+      "zip": "97420"
+    },
+    "date": "March 19, 2023",
+    "description": "<p>It’s Cherry Blossom Season!&nbsp;</p>\n<p>Josie's Art Lab - 3/19/2023 - 11am-2pm</p>\n<p>All the supplies and step-by-step instructions are included with <a href=\"https://www.josiesartlab.com/paint-events/cherry-blossoms-paint-event-sun-march-19-11-2-pm\" target=\"_blank\">$45 ticket purchase. </a>&nbsp;</p>\n<p>You are welcome to bring snacks/food/beverages (yes, including beer/wine) This one is great for older teens and adults.&nbsp;</p>",
+    "end_date": "2023-03-19",
+    "latitude": "43.373699",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.josiesartlab.com/paint-events/cherry-blossoms-paint-event-sun-march-19-11-2-pm"
+      }
+    ],
+    "longitude": "-124.211548",
+    "media": {
+      "alt": "painting example of pink and white cherry blossoms on a teal background",
+      "caption": "Cherry Blossom Paint Event - Josie's Art Lab",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/86fe4ffe3b409029c44965f96a84fd5f_josiecherryblossomsframed.jpeg"
+    },
+    "month": 3,
+    "phones": [
+      "541-217-0830"
+    ],
+    "start_date": "2023-03-19",
+    "title": "Cherry Blossoms Paint Event",
+    "uuid": "91c6c869-9ab1-401f-ba0e-ac24b62ff489",
+    "website": "https://www.josiesartlab.com/paint-events/cherry-blossoms-paint-event-sun-march-19-11-2-pm"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "999 N. Front Street, Suite 117",
+      "zip": "97420"
+    },
+    "date": "March 24, 2023",
+    "description": "<p>It’s Cherry Blossom Season!&nbsp;</p>\n<p>Josie's Art Lab - 3/24/2023 - 6-9pm</p>\n<p>All the supplies and step-by-step instructions are included with<a href=\"https://www.josiesartlab.com/paint-events/cherry-blossoms-paint-event-fri-march-24-6-9-pm\" target=\"_blank\"> $45 ticket purchase.  </a>&nbsp;</p>\n<p>You are welcome to bring snacks/food/beverages (yes, including beer/wine) This one is great for older teens and adults.&nbsp;</p>",
+    "end_date": "2023-03-24",
+    "latitude": "43.373699",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.josiesartlab.com/paint-events/cherry-blossoms-paint-event-fri-march-24-6-9-pm"
+      }
+    ],
+    "longitude": "-124.211548",
+    "media": {
+      "alt": "painting example of pink and white cherry blossoms on a teal background",
+      "caption": "Cherry Blossom Paint Event - Josie's Art Lab",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/86fe4ffe3b409029c44965f96a84fd5f_josiecherryblossomsframed.jpeg"
+    },
+    "month": 3,
+    "phones": [
+      "541-217-0830"
+    ],
+    "start_date": "2023-03-24",
+    "title": "Cherry Blossoms Paint Event II",
+    "uuid": "ce109547-d340-44b2-a69f-d80840bed9c3",
+    "website": "https://www.josiesartlab.com/paint-events/cherry-blossoms-paint-event-fri-march-24-6-9-pm"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "50 Central Ave"
+    },
+    "description": "<p><span style=\"color: rgba(0,0,0,0.87);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, Helvetica, Arial, sans-serif;\">Shop for the freshest fruits, vegetables, meats, and dairy products, plus unique arts and crafts from nearly 90 vendors.</span></p>\n<p>The CBDA Farmers Market is located on Central Avenue between Highway 101 South and 4th Street in downtown Coos Bay. It will be open every Wednesday from the first Wednesday in May through the last Wednesday in October from 9 a.m. until 2 p.m. </p>\n<p>&nbsp;<a href=\"https://www.facebook.com/pg/CoosBayFarmersMarket\" target=\"_self\"><span style=\"color: rgba(0,0,0,0.87);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, Helvetica, Arial, sans-serif;\">https://www.facebook.com/pg/CoosBayFarmersMarket</span></a>&nbsp;</p>",
+    "latitude": "43.367935",
+    "links": [
+      {
+        "network_type": "Facebook",
+        "url": "https://www.facebook.com/CoosBayFarmersMarket"
+      }
+    ],
+    "longitude": "-124.212782",
+    "media": {
+      "alt": "Coos Bay Farmer's Market Produce Oregon",
+      "caption": "Coos Bay Farmer's Market Produce",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/623/af8a6dac4926d60b64d483556c21d238_iJhbDGxqX2.jpg"
+    },
+    "phones": [
+      "541-269-0215"
+    ],
+    "title": "Coos Bay Downtown Farmers Market",
+    "uuid": "0aecb08f-64fb-45d8-bc4e-b430c54f7c6c"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "50 Central Ave.",
+      "zip": "97420"
+    },
+    "date": "March 3, 2023",
+    "description": "<p><span style=\"color: rgb(5,5,5);background-color: rgb(255,255,255);font-size: 15px;\">Visit participating businesses in downtown Coos Bay for the monthly Wine Walk adventure on the First Friday of Each Month. The fun starts at the Coos Bay Visitor Center, 50 Central Avenue, Coos Bay OR 97420. Make a $10 donation and get a commemorative wine glass(while supplies last) and the map of participating businesses. Proceeds will benefit a different charity each month. This event is sponsored by the Coos Bay - North Bend Rotary Club.</span></p>",
+    "end_date": "2023-03-03",
+    "latitude": "43.368025",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.facebook.com/cbnbrotary/?ref=page_internal"
+      }
+    ],
+    "longitude": "-124.212848",
+    "media": {
+      "alt": "Coos Bay Wine Walk",
+      "caption": "Coos Bay Downtown Wine Walk starts at the Coos Bay Visitor Center",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/295/06dd987d852020f4d864bd348271b7c5_winewalklogo.jpg"
+    },
+    "month": 3,
+    "start_date": "2023-03-03",
+    "title": "Downtown Coos Bay Wine Walk",
+    "uuid": "19a5dd27-6e33-4778-ae28-1c9cf83bfd9f",
+    "website": "https://www.facebook.com/cbnbrotary/?ref=page_internal"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "50 Central Ave.",
+      "zip": "97420"
+    },
+    "date": "April 7, 2023",
+    "description": "<p><span style=\"color: rgb(5,5,5);background-color: rgb(255,255,255);font-size: 15px;\">Visit participating businesses in downtown Coos Bay for the monthly Wine Walk adventure on the First Friday of Each Month. The fun starts at the Coos Bay Visitor Center, 50 Central Avenue, Coos Bay OR 97420. Make a $10 donation and get a commemorative wine glass(while supplies last) and the map of participating businesses. Proceeds will benefit a different charity each month. This event is sponsored by the Coos Bay - North Bend Rotary Club.</span></p>",
+    "end_date": "2023-04-07",
+    "latitude": "43.368025",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.facebook.com/cbnbrotary/?ref=page_internal"
+      }
+    ],
+    "longitude": "-124.212848",
+    "media": {
+      "alt": "Coos Bay Wine Walk",
+      "caption": "Coos Bay Downtown Wine Walk starts at the Coos Bay Visitor Center",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/295/06dd987d852020f4d864bd348271b7c5_winewalklogo.jpg"
+    },
+    "month": 4,
+    "start_date": "2023-04-07",
+    "title": "Downtown Coos Bay Wine Walk",
+    "uuid": "3dcb346a-8281-47f2-85e6-b379b38204ac",
+    "website": "https://www.facebook.com/cbnbrotary/?ref=page_internal"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "50 Central Ave.",
+      "zip": "97420"
+    },
+    "date": "May 5, 2023",
+    "description": "<p><span style=\"color: rgb(5,5,5);background-color: rgb(255,255,255);font-size: 15px;\">Visit participating businesses in downtown Coos Bay for the monthly Wine Walk adventure on the First Friday of Each Month. The fun starts at the Coos Bay Visitor Center, 50 Central Avenue, Coos Bay OR 97420. Make a $10 donation and get a commemorative wine glass(while supplies last) and the map of participating businesses. Proceeds will benefit a different charity each month. This event is sponsored by the Coos Bay - North Bend Rotary Club.</span></p>",
+    "end_date": "2023-05-05",
+    "latitude": "43.368025",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.facebook.com/cbnbrotary/?ref=page_internal"
+      }
+    ],
+    "longitude": "-124.212848",
+    "media": {
+      "alt": "Coos Bay Wine Walk",
+      "caption": "Coos Bay Downtown Wine Walk starts at the Coos Bay Visitor Center",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/295/06dd987d852020f4d864bd348271b7c5_winewalklogo.jpg"
+    },
+    "month": 5,
+    "start_date": "2023-05-05",
+    "title": "Downtown Coos Bay Wine Walk",
+    "uuid": "56211363-2521-46e0-b7ee-ab31957134e5",
+    "website": "https://www.facebook.com/cbnbrotary/?ref=page_internal"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "999 N. Front Street, Suite 117",
+      "zip": "97420"
+    },
+    "date": "March 12, 2023",
+    "description": "<p>I can’t think of s single person who WOULDN’T want this hanging on their walls!!</p>\n<p>Josie’s Art Lab, 3/12/2023 Noon-3pm</p>\n<p>All the supplies and step-by-step instructions are included with your <a href=\"https://www.josiesartlab.com/paint-events/handsome-rooster-paint-event-sun-march-12-12-3-pm\" target=\"_blank\">$45 ticket purchase</a> .&nbsp;</p>\n<p>You are welcome to bring snacks/food/beverages (yes beer and wine) with you. This event is for older teens and adults.&nbsp;</p>",
+    "end_date": "2023-03-12",
+    "latitude": "43.373699",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.josiesartlab.com/paint-events/handsome-rooster-paint-event-sun-march-12-12-3-pm"
+      }
+    ],
+    "longitude": "-124.211548",
+    "media": {
+      "alt": "example painting rooster head in cream shades on a brown background",
+      "caption": "Handsome Rooster Paint Event - Josie's Art Lab",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/3e34c71412c36a18c353188e1eb7b1d7_josiesrooster2.jpeg"
+    },
+    "month": 3,
+    "phones": [
+      "541-217-0830"
+    ],
+    "start_date": "2023-03-12",
+    "title": "Handsome Rooster Paint Event",
+    "uuid": "4b594ad0-0f9a-422e-8532-479269055aff",
+    "website": "https://www.josiesartlab.com/paint-events/handsome-rooster-paint-event-sun-march-12-12-3-pm"
+  },
+  {
+    "address": {
+      "city": "North Bend",
+      "state": "OR",
+      "street": "3201 Tremont Avenue",
+      "zip": "97459"
+    },
+    "date": "April 28 - April 30, 2023",
+    "description": "<p>Welcome to the first annual High Tide Tattoo &amp; Art Festival at the beautiful Mill Casino*Hotel &amp; RV Park.&nbsp;</p>\n<p>This three-day event will feature top artists from all around the country and the best of local talent. Tattooists of all different backgrounds will be tattooing on-site. If you are into traditional, black and grey, or color, we have the artist for you. Drop by and see local artists featuring art from all different mediums and backgrounds including artists from the hit TV show Inkmaster.</p>\n<p>For tickets and up-to-date artist info visit The Mill Casino Hotel &amp; RV Park website. <a href=\"http://themillcasino.com/?fbclid=IwAR2uMfkIPXCTZECOrNVga0TrZ6kkXNS1JdpCJg_TAXoQOFRi4jmNiRK2p_w\" target=\"_self\">themillcasino.com</a>!</p>\n<p>Brought to you by Ragemore Events and 11:11 Tattoo!</p>\n<p>For booth info click <a href=\"https://ragemore.regfox.com/high-tide-tattoo-and-art-festival?fbclid=IwAR0tSg05BbMRFj7DPCbsI4MdpdXEjiDWQ6egWhgVhvi9d9Ug1xQF_f-E3HM\" target=\"_blank\">HERE</a>&nbsp;</p>",
+    "end_date": "2023-04-30",
+    "latitude": "43.392948",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://ragemore.regfox.com/high-tide-tattoo-and-art-festival"
+      },
+      {
+        "network_type": "Facebook",
+        "url": "https://www.facebook.com/events/906059327088412/"
+      }
+    ],
+    "longitude": "-124.219666",
+    "media": {
+      "alt": "drawn caricature of red octopus tentacles against waves and a sunset",
+      "caption": "High Tide Tattoo & Art Festival",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/ae2787b7ff3e1eaee6004e023d5b4eda_hightidetattoo.jpeg"
+    },
+    "month": 4,
+    "phones": [
+      "541-756-8800"
+    ],
+    "start_date": "2023-04-28",
+    "title": "High Tide Tattoo & Arts Festival",
+    "uuid": "b9121174-9279-43ea-8d07-443f331d7bf0",
+    "website": "https://ragemore.regfox.com/high-tide-tattoo-and-art-festival"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "Mingus Park - N. 10th Street",
+      "zip": "97420"
+    },
+    "date": "March 11, 2023",
+    "description": "<p>This was the South Coast Running Club'club's original race, and one of Pre's favorites.  That's right, you can run in Prefontaine's footsteps!  And what did Pre love?  Hills!  This is a very hilly and challenging course that hits both Coos Bay and North Bend.  Please note that while the course is designed to minimize street crossings, there are a few and the course is open to traffic.  Please run safely!</p>\n<p>Note: Registration is in the shelter beside Mingus Park to provide a better registration experience and also so that we can do a kid's run around Mingus Park.  Park by the softball field and cross 10th street to register.&nbsp;</p>\n<p>Overall and age group winners (1st -3rd) get ribbons and bragging rights.  Everyone gets post-race snacks.&nbsp;</p>",
+    "end_date": "2023-03-11",
+    "latitude": "43.369696",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://runsignup.com/Race/OR/CoosBay/Runof2Cities"
+      }
+    ],
+    "longitude": "-124.222873",
+    "media": {
+      "alt": "black and white photo of 10th street by mingus, run of 2 cities poster",
+      "caption": "Run of Two Cities - March 12th",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/fe907a060cef265d76143162779c8e55_SCrunning2cities.jpeg"
+    },
+    "month": 3,
+    "phones": [
+      "541-260-3298"
+    ],
+    "start_date": "2023-03-11",
+    "title": "Run of Two Cities",
+    "uuid": "af92e60f-6143-4da8-8a02-e110d1b001f4",
+    "website": "https://runsignup.com/Race/OR/CoosBay/Runof2Cities"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "Corner of 2nd & Hemlock - Powers, OR",
+      "zip": "97420"
+    },
+    "date": "April 1, 2023",
+    "description": "<p><a href=\"https://runsignup.com/Race/OR/Powers/PowersSalmonCreekRun\" target=\"_blank\"><strong>REGISTER HERE!</strong></a><strong> </strong></p>\n<p><strong>Place:</strong></p>\n<p>Corner of 2nd and Hemlock</p>\n<p>Powers, OR US 97466</p>\n<p><strong>Race Description:</strong></p>\n<p>5K &amp; 10K, Rolling, paved and gravel road.   This race is free, but we take donations!  All donations go towards the Powers Track and Cross Country Teams.  Registration from 9:00-9:45 on race day.   &nbsp;</p>",
+    "end_date": "2023-04-01",
+    "latitude": "42.879361",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://runsignup.com/Race/OR/Powers/PowersSalmonCreekRun"
+      }
+    ],
+    "longitude": "-124.071651",
+    "media": {
+      "alt": "runners posing at the starting point - Salmon Creek Run",
+      "caption": "Salmon Creek Run - Powers, Oregon",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/e1f33a9a302fd8f490a8cac48aea2d2a_SalmonCreekRun.jpeg"
+    },
+    "month": 4,
+    "phones": [
+      "541-260-3298"
+    ],
+    "start_date": "2023-04-01",
+    "title": "Salmon Creek Run",
+    "uuid": "a98cb0f2-ffa0-426b-88bb-0ade535c42a7",
+    "website": "https://runsignup.com/Race/OR/Powers/PowersSalmonCreekRun"
+  },
+  {
+    "address": {
+      "city": "North Bend",
+      "state": "OR",
+      "street": "3201 Tremont Avenue",
+      "zip": "97459"
+    },
+    "date": "March 10 - March 12, 2023",
+    "description": "<p>Polish up those dancin’ shoes and get ready for the exciting musical extravaganza known as the South Coast Clambake Music Festival!&nbsp;</p>\n<p>The Clambake Music Festival features incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco! Dancers and music enthusiasts from up and down the West Coast, visit each year, as the Clambake Music Festival has developed a reputation as a favorite.&nbsp;</p>\n<p>For more information go to <a href=\"https://www.oregonsadventurecoast.com/event/south-coast-clambake-music-festival/\" target=\"_blank\">Oregon's Adventure Coast</a> website or Get your tickets <a href=\"https://www.eventbrite.com/e/the-south-coast-clambake-music-festival-tickets-466424106057?aff=erelexpmlt\" target=\"_blank\">ONLINE</a> now!</p>",
+    "end_date": "2023-03-12",
+    "latitude": "43.392948",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://clambakemusic.com/"
+      },
+      {
+        "network_type": "Facebook",
+        "url": "https://www.facebook.com/clambakemusicfestival/"
+      },
+      {
+        "network_type": "Instagram",
+        "url": "https://www.instagram.com/clambakephotos/"
+      }
+    ],
+    "longitude": "-124.219666",
+    "media": {
+      "alt": "",
+      "caption": "Great music from 50s to Zydeco at the 30th Clambake Music Fest!",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/295/98194ceaa0390ccba995948f5f5688b1_Clambake1.jpg"
+    },
+    "month": 3,
+    "phones": [
+      "541-267-7665"
+    ],
+    "start_date": "2023-03-10",
+    "title": "South Coast Clambake Music Festival",
+    "uuid": "1ba4fcd0-b09e-4672-bfcc-333bd38fe075",
+    "website": "https://clambakemusic.com/"
+  },
+  {
+    "address": {
+      "city": "North Bend",
+      "state": "OR",
+      "street": "2238 Pony Creek Road",
+      "zip": "97459"
+    },
+    "date": "March 30, 2023",
+    "description": "<p><strong><em>“Spring into Summer” with the Bay Area Concert Band!  </em></strong>The concert is FREE although donations are gratefully accepted.</p>\n<p><strong><em>Thurs. March 23rd, 7:30pm at the First Presbyterian Church</em></strong>, 2238 Pony Creek Road, North Bend, OR 97459.</p>\n<p><em>The Bay Area Concert Band serves Coos Bay, North Bend, and the surrounding communities. It consists of approximately 35-40 musicians from in and around the Bay Area, including Myrtle Point, Coquille, and Bandon. They perform under the direction of Steve Simpkins. </em></p>",
+    "end_date": "2023-03-30",
+    "latitude": "43.404310",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.bayareaconcertband.org/"
+      }
+    ],
+    "longitude": "-124.230341",
+    "media": {
+      "alt": "orchestra musicians sitting ready to play, Bay Area Concert Band",
+      "caption": "Spring into Summer with the Bay Area Concert Band",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/71e8cb274257154ecb6a3917ddb7f9f3_BACBphotoEDIT.jpeg"
+    },
+    "month": 3,
+    "phones": [
+      "208-420-8636"
+    ],
+    "start_date": "2023-03-30",
+    "title": "Spring into Summer Concert",
+    "uuid": "fe525ae5-cd3a-4361-b70f-85ebafb21e9d",
+    "website": "https://www.bayareaconcertband.org/"
+  },
+  {
+    "address": {
+      "city": "North Bend",
+      "state": "OR",
+      "street": "2100 Sherman Ave.",
+      "zip": "97459"
+    },
+    "date": "February 21, 2023",
+    "description": "<p style=\"text-align:start;\"><span style=\"color: rgb(5,5,5);background-color: rgb(255,255,255);font-size: 15px;\"><strong>Music On the Bay</strong> and the <strong>7 Devils Brewing Co.</strong> present <strong><em>The Jacob Jolliff Band </em></strong><em>as part of the Seagrass Music Festival</em>.</span></p>\n<p style=\"text-align:start;\"><span style=\"color: rgb(5,5,5);background-color: rgb(255,255,255);font-size: 15px;\">Liberty Theatre, Feb. 21st at 7 p.m.</span></p>\n<p><span style=\"color: rgb(5,5,5);background-color: rgb(255,255,255);font-size: 15px;\">Tickets are $20 and are available at:</span> <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fthelibertytheatre.org%2F%3Ffbclid%3DIwAR2tGV475bf3y0PE-19dYj6H91zKK2sqMKkDd5TcbS9bYfykwPE0G88v-WE&h=AT2PTibfbZAntwodEOhvpLTLTrP_bucjOUeWB9MCXJ7HKQV-kkiFWAeWdIIGIZHA6xs2joHQ9Wnz7giMrTZBx9phF-v8KFrIXgFp8MDBgKG2ZyRX-KHPG-g3QHZqABo4o24eWlTBZg&__tn__=q&c[0]=AT0kMRWoUVmfHVIl0XnI4-Kn5K9GC--D0GQDI06TAHcWvf2gpn95ETmNOrwu56XrJTJl6-HJ5hrjA6rxkB9Lm3ECnIJq93AdC2s0kzIRIlSw-y0OHz55Z34hzmP6B_HcHeuPr4rA3Z7ZW1-Y09Q-KbcuMAh5\" target=\"_blank\"><span style=\"color: var(--blue-link);background-color: transparent;font-size: 15px;font-family: inherit;\">thelibertytheatre.org</span></a> <span style=\"color: rgb(5,5,5);background-color: rgb(255,255,255);font-size: 15px;\">or at the box office.</span></p>\n<p style=\"text-align:start;\"><span style=\"color: rgb(5,5,5);background-color: rgb(255,255,255);font-size: 15px;\">You can see a short video here: </span><a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F_KbO9latWEU%3Ffbclid%3DIwAR2dm6EXZCMwAJWcKFcUlZz4_M3N1TGUD2eAxKcNA3JE0xx3BQCZRY-6rc8&h=AT3i8V3p16YLk3nTP4jc4-opTCBKQpe3ey0n8QW8CPWpqKMLaVqmHW5MtOnteEIPw1L28Ud8FNLYQf6SQu01cJk8FEmWHVMbUqFHviKdxsINSzDCx4KTRfIvZK91mipbAOY-G0PmUA&__tn__=q&c[0]=AT0kMRWoUVmfHVIl0XnI4-Kn5K9GC--D0GQDI06TAHcWvf2gpn95ETmNOrwu56XrJTJl6-HJ5hrjA6rxkB9Lm3ECnIJq93AdC2s0kzIRIlSw-y0OHz55Z34hzmP6B_HcHeuPr4rA3Z7ZW1-Y09Q-KbcuMAh5\" target=\"_blank\"><span style=\"color: var(--blue-link);background-color: transparent;font-size: 15px;font-family: inherit;\">https://youtu.be/_KbO9latWEU</span></a>&nbsp;</p>",
+    "end_date": "2023-02-21",
+    "latitude": "43.405172",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.facebook.com/events/501631838719789/?ref=newsfeed"
+      }
+    ],
+    "longitude": "-124.224182",
+    "media": {
+      "alt": "four men playing string intruments outiside",
+      "caption": "The Jacob Jolliff Band-Seagrass Music Festival",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/452f2d06ae4c84f61662ebe17ca4b594_MOBFeb212023.jpeg"
+    },
+    "month": 2,
+    "start_date": "2023-02-21",
+    "title": "The Jacob Jolliff Band-Seagrass Music Festival",
+    "uuid": "ef6e3ce3-80fb-478e-bcc4-0469bf11c6fa",
+    "website": "https://www.facebook.com/events/501631838719789/?ref=newsfeed"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "February 22, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-02-22",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 2,
+    "start_date": "2023-02-22",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "2ae7a40d-839e-4403-8232-cbded4a0a5be",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "March 1, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-03-01",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 3,
+    "start_date": "2023-03-01",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "1182089c-545e-436d-989e-d0af73cd6b68",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "March 8, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-03-08",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 3,
+    "start_date": "2023-03-08",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "da71a3b8-7188-4705-8c6e-e012b59308d6",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "March 15, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-03-15",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 3,
+    "start_date": "2023-03-15",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "ff6d3113-0dad-43a1-ae99-7258047e2e05",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "March 22, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-03-22",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 3,
+    "start_date": "2023-03-22",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "ec0a6605-6edb-423d-8c61-d5b45ed57412",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "March 29, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-03-29",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 3,
+    "start_date": "2023-03-29",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "13932b7e-b77e-428a-84bc-8730a125b0de",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "April 5, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-04-05",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 4,
+    "start_date": "2023-04-05",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "54947cf2-def3-436a-8630-a2cce906eef1",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "April 12, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-04-12",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 4,
+    "start_date": "2023-04-12",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "e47cf73d-9125-4a30-b9d5-2c89ba7bdef7",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "April 19, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-04-19",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 4,
+    "start_date": "2023-04-19",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "b615081e-f92b-413c-a505-936127dd0a8e",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "April 26, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-04-26",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 4,
+    "start_date": "2023-04-26",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "fb9432d3-f075-4d6c-9b63-1e86e907b25c",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "May 3, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-05-03",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 5,
+    "start_date": "2023-05-03",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "d4c0e662-47a6-41da-96c6-6fda0eba2580",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "May 10, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-05-10",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 5,
+    "start_date": "2023-05-10",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "ccdf24ff-0031-4a6f-8d51-44a6b2e53a19",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "May 17, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-05-17",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 5,
+    "start_date": "2023-05-17",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "23a6ddb4-4334-460e-99cb-ebbcc182562e",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "May 24, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-05-24",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 5,
+    "start_date": "2023-05-24",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "273ae6d8-3fa2-4090-bfc7-0632c35ec698",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "May 31, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-05-31",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 5,
+    "start_date": "2023-05-31",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "5cc5325d-b87d-4d92-8894-c56bcd46cd52",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "June 7, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-06-07",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 6,
+    "start_date": "2023-06-07",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "f14dac79-bb5c-492f-a58a-9f7d3e8232b7",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "June 14, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-06-14",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 6,
+    "start_date": "2023-06-14",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "75af4ea9-8c5a-4cb8-b2ad-2a2d828e1dda",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "June 21, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-06-21",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 6,
+    "start_date": "2023-06-21",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "45808d1e-4a6d-4fa8-8121-f75b577eb254",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "June 28, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-06-28",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 6,
+    "start_date": "2023-06-28",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "dfaa9cfb-8fe0-4491-973f-47b9f9f81b8c",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "July 5, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-07-05",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 7,
+    "start_date": "2023-07-05",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "faf8a10e-ca73-45ca-a894-c398118c4f83",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "July 12, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-07-12",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 7,
+    "start_date": "2023-07-12",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "1cd45a1b-38cf-4df7-a50d-81554af186ad",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "July 19, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-07-19",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 7,
+    "start_date": "2023-07-19",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "54b86c2a-e540-443e-b553-a4acf5231fb7",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "July 26, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-07-26",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 7,
+    "start_date": "2023-07-26",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "bafd101d-db1a-41e9-abe9-15c0f9e2af5b",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "August 2, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-08-02",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 8,
+    "start_date": "2023-08-02",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "1f09102c-5d47-4c52-9615-e11fd7d44573",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "August 9, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-08-09",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 8,
+    "start_date": "2023-08-09",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "110b3496-3dfc-4bd3-bf3e-f26d75e313ec",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "August 16, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-08-16",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 8,
+    "start_date": "2023-08-16",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "bf7eb1cc-c282-4272-92ab-52a98545cb45",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "August 23, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-08-23",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 8,
+    "start_date": "2023-08-23",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "3b23b24a-88b5-47a5-ab65-1f8db127a2ae",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "August 30, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-08-30",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 8,
+    "start_date": "2023-08-30",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "0baffb53-6274-46fe-8083-0e72db791cf6",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "September 6, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-09-06",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 9,
+    "start_date": "2023-09-06",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "c30e5a9e-2f9c-4fba-8757-4675d2e08474",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "September 13, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-09-13",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 9,
+    "start_date": "2023-09-13",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "09a9e9bc-7d0c-4ad0-9690-c3f0e3e7ffae",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "September 20, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-09-20",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 9,
+    "start_date": "2023-09-20",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "e109db99-8c40-4fe1-b13b-d62ef5764d2b",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "September 27, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-09-27",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 9,
+    "start_date": "2023-09-27",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "c1560897-2ccf-4fbb-aaa2-b3c81045966a",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "October 4, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-10-04",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 10,
+    "start_date": "2023-10-04",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "4390b81d-eeb7-4f53-a375-c4f4a44aec37",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "October 11, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-10-11",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 10,
+    "start_date": "2023-10-11",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "ee841c39-7993-4df5-b7ed-e31492b2a6df",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "October 18, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-10-18",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 10,
+    "start_date": "2023-10-18",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "5cc482c4-adcb-48f4-ae7d-85669a6cfd15",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "270 S. 2nd Street",
+      "zip": "97420"
+    },
+    "date": "October 25, 2023",
+    "description": "<p>Join us EVERY Wednesday!</p>\n<p>We gather every Wednesday between 6 and 6:15 pm in the public parking lot behind the Pre Murals. We begin our run at 6:17 pm. Routes are approximately 6 miles but they can be adapted for personal preference.</p>\n<p>We've got a fun-loving, social group, which makes it a great opportunity to meet new running friends and training partners. All paces are welcome. Come as you are.&nbsp;</p>",
+    "end_date": "2023-10-25",
+    "latitude": "43.366140",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://southcoastrunningclub.org/"
+      }
+    ],
+    "longitude": "-124.214301",
+    "media": {
+      "alt": "group photo of runners in the Pre-Way downtown Coos Bay",
+      "caption": "Wednesday Group Run",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/0df828275b81c97d08de0a100789e404_SCRunningClubWedsRun.jpeg"
+    },
+    "month": 10,
+    "start_date": "2023-10-25",
+    "title": "Wednesday Group Run - South Coast Running Club",
+    "uuid": "426907b0-408a-4638-9e55-4ffe7a9b73f2",
+    "website": "https://southcoastrunningclub.org/"
+  },
+  {
+    "address": {
+      "city": "Coos Bay",
+      "state": "OR",
+      "street": "999 N. Front Street, Suite 117",
+      "zip": "97420"
+    },
+    "date": "March 17, 2023",
+    "description": "<p>A fun painting for those who enjoy repetitive mark-making.&nbsp;</p>\n<p>Josie's Art Lab, 3/17/2023  6-9pm</p>\n<p>All the supplies and step-by-step directions are included with <a href=\"https://www.josiesartlab.com/paint-events/weeping-willow-paint-event-fri-march-17-6-9-pm\" target=\"_blank\">$45 ticket purchase</a> . This one is great for teens and adults.</p>\n<p>Feel free to bring food/snacks/beverages to enjoy while you paint (beer and wine are welcome).&nbsp;</p>",
+    "end_date": "2023-03-17",
+    "latitude": "43.373699",
+    "links": [
+      {
+        "network_type": "Website",
+        "url": "https://www.josiesartlab.com/paint-events/weeping-willow-paint-event-fri-march-17-6-9-pm"
+      }
+    ],
+    "longitude": "-124.211548",
+    "media": {
+      "alt": "painting example weeping willow tree in shades of green against yellow skies",
+      "caption": "Weeping Willow Paint Event - Josie's Art Lab",
+      "image": "https://d3uw6f38ocgirn.cloudfront.net/media/up/471/ca20ab1f3f8b7465800dbb12f4af41fd_josieweepingwillow.jpeg"
+    },
+    "month": 3,
+    "phones": [
+      "541-217-0830"
+    ],
+    "start_date": "2023-03-17",
+    "title": "Weeping Willow Paint Event",
+    "uuid": "a69cdb67-b2c9-43fd-a390-8e4db5181795",
+    "website": "https://www.josiesartlab.com/paint-events/weeping-willow-paint-event-fri-march-17-6-9-pm"
+  }
+]
