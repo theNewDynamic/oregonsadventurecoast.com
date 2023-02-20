@@ -11,10 +11,14 @@
   "calendar" "listings/?city=Coos Bay|North Bend|Charleston&type=Events|Farmers Markets"
   "dining" "listings/?city=Coos Bay|North Bend|Charleston&type=Restaurants"
 }}
+
 {{ with index $endpoints . }}
   {{ $endpoint = print $endpoints.base . }}
+  {{/* Temporarily use v5 only for calendar */}}
+  {{ if eq $ "calendar" }}
+    {{ $endpoint = replace $endpoint "v4" "v5" }}
+  {{ end }}
 {{ end }}
-
 {{ $args_auth := dict
   "method" "post"
   "body" (printf `{"username": "%s", "password": "%s"}` $api_username $api_password)
