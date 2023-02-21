@@ -76,7 +76,7 @@ Coos Bay, OR 97420
 
 Downtown Health and Fitness aims to provide a clean, safe, and helpful environment. Offering a variety of group fitness classes, including yoga, chair yoga and gentle yoga, these classes are designed to accommodate all ages and fitness levels. Our facility includes dressing rooms with lockers and showers. All areas are handicap accessible.
 
-{{< /columns >}} 
+{{< /columns >}}
 
 {{< spacer 20 >}}
 
@@ -108,13 +108,15 @@ With over 20 years of combined experience as field biologists and 30+ years prac
 
 {{< spacer 40 >}}
 
-[day spas sub header](/img/day-spas-subheader-695x125.jpg)
+![day spa header](/img/day-spas-subheader-695x125.jpg)
+
+{{< spacer 20 >}}
 
 {{< columns number="2" >}}
 
 ![Beautiful You - Medical Spa](/img/beautiful-you-spa.jpg)
 
-**Beautiful You**  
+**Beautiful You - Medical Spa**  
 1280 N Bayshore Dr. Suite 101  
 Coos Bay, OR, 97420  
 (541) 297-7546  
@@ -123,5 +125,14 @@ Coos Bay, OR, 97420
 Beautiful You is a Medi Spa, which is a combination of an aesthetic medical center and a day spa that provides nonsurgical aesthetic medical services under the supervision of a licensed physician.
 
 divider
+
+![](/img/hair-company-etc-spa.jpg)
+
+**Hair Co. Etc. - Salon & Day Spa**  
+275 Golden Avenue  
+Coos Bay, OR 97420  
+(541) 269-5223
+
+Hair Co. Etc Salon & Day Spa offers Hair Treatments, Nail Treatments, Massage and Body Treatments in downtown Coos Bay on the beautiful Southern Oregon Coast.
 
 {{< /columns >}}
