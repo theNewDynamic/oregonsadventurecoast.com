@@ -23,15 +23,15 @@ masonry1:
   mobiletitle: The Adventure Store
   url: "/shop/"
 masonry2:
-  desktopphoto: "/img/mtn-biking-masonry-large-desktop.jpg"
-  desktoptitle: Year-Round Mountain Biking
-  hoverdescription: A heart-pounding mountain biking adventure - choose your challenge
-    from nine, professionally planned and built, trail options for beginners, intermediates
-    and advanced riders.
-  hovertitle: Discover Whiskey Run
-  mobilephoto: "/img/mtn-biking-masonry-mobile.jpg"
-  mobiletitle: Year-Round Mtn Biking
-  url: "/cycling/"
+  desktopphoto: "/img/forest-bathing-masonry-desktop.jpg"
+  desktoptitle: Forest Bathing & Mindfulness
+  hoverdescription: Spend time in forests, parks, or other natural environments and
+    use all five senses to connect with nature. Slow down, relax, and be mindful of
+    the present moment.
+  hovertitle: Earth - Wind - Inspire
+  mobilephoto: "/img/forest-bathing-masonry-345x160.jpg"
+  mobiletitle: Forest Bathing & Mindfulness
+  url: "/forest-bathing"
 masonry3:
   desktopphoto: "/img/hiking-2023-230x185.jpg"
   desktoptitle: Hiking
