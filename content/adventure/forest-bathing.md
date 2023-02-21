@@ -46,9 +46,9 @@ Bring a picnic lunch or have a healthy dinner at one of our Farm to Table eateri
 * [Back Alley Pub](https://northbendlanes.com/Back-Alley-Pub-Grill)
 * [Himalayan Restaurant and Bar](https://www.talech.com/biz/ordering/514286/HIMALAYAN-RESTAURANT-BAR-COOS-BAY-OR?fbclid=IwAR2u8k6ZC5rgumnIOPUAcOytdMDRpfG6ziARbt3Rc2TTPMipzfL_71KX4_g#/menu)
 
-{{< spacer 20 >}}
+{{< spacer 40 >}}
 
-#### YOGA STUDIOS
+![yoga studios header](/img/yoga-studios-subheader-695x125.jpg)
 
 {{< columns number="2" >}}
 
