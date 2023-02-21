@@ -9,7 +9,6 @@ seo:
   image: ''
 aliases: []
 accordion_sections: []
-draft: true
 
 ---
 ![two people in forest holding arms up celebrating the sun and nature](/img/forest-bathing-hero-main-image.jpg)
