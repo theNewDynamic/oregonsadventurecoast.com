@@ -76,7 +76,7 @@ Asana (a·sa·na) defined simply as a pose or position in yoga. House of Asana i
 
 {{< /columns >}}
 
-![Charlo Mindfullness Center in Coos Bay](/img/charlo.jpeg)
+![](/img/charlo-mindfulness-center.jpg)
 
 **Charlo Mindfulness Center**  
 1260 N. Bayshore Drive, Suite 204  
