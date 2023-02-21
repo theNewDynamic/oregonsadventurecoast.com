@@ -32,7 +32,7 @@ Additionally, the scenic beauty of our area offers a chance to practice mindfuln
 
 ## Massage, Yoga and More
 
-Add to your experience when you go Forest Bathing with Mossy Lotus Yoga Studio for an immersion into the quiet contemplation of the forest. Take a yoga class at one of our many yoga studios. Get a massage, infusion, or other relaxing service at one of our two Day Spas – Beautiful You Med Spa and Hair Co. Etc.
+Add to your experience when you go Forest Bathing with [Mossy Lotus Yoga Studio](https://mossylotus.com/) for an immersion into the quiet contemplation of the forest. Take a yoga class at one of our many yoga studios. Get a massage, infusion, or other relaxing service at one of our two Day Spas – [Beautiful You Medi Spa](https://www.beautifulyou-pnw.com/) and [Hair Co. Etc - Salon & Day Spa](https://haircoetc.net/).
 
 ## Healthy Eats
 
@@ -49,6 +49,8 @@ Bring a picnic lunch or have a healthy dinner at one of our Farm to Table eateri
 {{< spacer 40 >}}
 
 ![yoga studios header](/img/yoga-studios-subheader-695x125.jpg)
+
+{{< spacer 20 >}}
 
 {{< columns number="2" >}}
 
@@ -74,7 +76,8 @@ Coos Bay, OR 97420
 
 Downtown Health and Fitness aims to provide a clean, safe, and helpful environment. Offering a variety of group fitness classes, including yoga, chair yoga and gentle yoga, these classes are designed to accommodate all ages and fitness levels. Our facility includes dressing rooms with lockers and showers. All areas are handicap accessible.
 
-{{< /columns >}}
+{{< /columns >}} 
+
 {{< spacer 20 >}}
 
 {{< columns number="2" >}}
@@ -105,7 +108,7 @@ With over 20 years of combined experience as field biologists and 30+ years prac
 
 {{< spacer 40 >}}
 
-#### ![day spas sub header](/img/day-spas-subheader-695x125.jpg)
+[day spas sub header](/img/day-spas-subheader-695x125.jpg)
 
 {{< columns number="2" >}}
 
