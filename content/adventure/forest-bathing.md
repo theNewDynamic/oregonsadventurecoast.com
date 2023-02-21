@@ -38,13 +38,13 @@ Add to your experience when you go Forest Bathing with Mossy Lotus Yoga Studio f
 
 Bring a picnic lunch or have a healthy dinner at one of our Farm to Table eateries:
 
-* 7 Devils Taproom or 7 Devils Waterfront Alehouse
-* Wildflour Public House
-* The Tin Thistle
-* So It Goes Coffeehouse
-* Fisherman’s Market on the Boardwalk
-* Back Alley Pub
-* Himalayan Restaurant and Bar
+* [7 Devils Taproom or 7 Devils Waterfront Alehouse](https://7devilsbrewery.com/)
+* [Wildflour Public House](https://www.wildflourpub.com/home)
+* [The Tin Thistle](https://www.facebook.com/thetinthistlecafe/)
+* [So It Goes Coffeehouse](https://www.soitgoescoffee.com/)
+* [Fisherman’s Market on the Boardwalk](https://www.facebook.com/fishermensseafoodmarket/)
+* [Back Alley Pub](https://northbendlanes.com/Back-Alley-Pub-Grill)
+* [Himalayan Restaurant and Bar](https://www.talech.com/biz/ordering/514286/HIMALAYAN-RESTAURANT-BAR-COOS-BAY-OR?fbclid=IwAR2u8k6ZC5rgumnIOPUAcOytdMDRpfG6ziARbt3Rc2TTPMipzfL_71KX4_g#/menu)
 
 {{< spacer 20 >}}
 
