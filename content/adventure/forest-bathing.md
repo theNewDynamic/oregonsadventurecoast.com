@@ -67,9 +67,11 @@ divider
 ![downtown health & fitness in coos bay, oregon](/img/downtown-fitness-center.jpg)
 
 **Downtown Health & Fitness**  
-440 Central Avenue  
- Coos Bay, OR 97420  
- (541) 267-3948  
+440 Central Avenue
+
+Coos Bay, OR 97420
+
+(541) 267-3948  
 [www.dhfitness.net](https://www.dhfitness.net/ "https://www.dhfitness.net/")
 
 Downtown Health and Fitness aims to provide a clean, safe, and helpful environment. Offering a variety of group fitness classes, including yoga, chair yoga and gentle yoga, these classes are designed to accommodate all ages and fitness levels. Our facility includes dressing rooms with lockers and showers. All areas are handicap accessible.
@@ -106,4 +108,16 @@ With over 20 years of combined experience as field biologists and 30+ years prac
 
 {{< columns number="2" >}}
 
-Beautiful You
+![Beautiful You - Medical Spa](/img/beautiful-you-spa.jpg)
+
+**Beautiful You**  
+1280 N Bayshore Dr. Suite 101  
+Coos Bay, OR, 97420  
+(541) 297-7546  
+[www.beautifulyou-pnw.com](https://www.beautifulyou-pnw.com/)
+
+Beautiful You is a Medi Spa, which is a combination of an aesthetic medical center and a day spa that provides nonsurgical aesthetic medical services under the supervision of a licensed physician.
+
+divider
+
+{{< /columns >}}
