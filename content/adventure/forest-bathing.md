@@ -52,30 +52,6 @@ Bring a picnic lunch or have a healthy dinner at one of our Farm to Table eateri
 
 {{< columns number="2" >}}
 
-![Mossy Lotus Yoga & Forest Bathing](/img/mossy-lotus-345x220.jpg)
-
-**Mossy Lotus**  
-158 Market Avenue  
-Coos Bay, OR 97420  
-(541) 217-0400  
-[mossylotus.com](https://mossylotus.com/ "https://mossylotus.com/")
-
-With over 20 years of combined experience as field biologists and 30+ years practicing yoga, Daniel and Sailee have both spent thousands of hours in heartfelt connection with Mother Nature and learning and teaching the full practices of yoga to all levels of students. This land, this rugged, wild earth is their inspiration. It is their passion for living in balance with nature that drives them.
-
-divider
-
-![House of Asana - Yoga & Classes](/img/house-of-asana-345x220.jpg)
-
-**House of Asana**  
-180 Central Avenue  
-Coos Bay, OR 97420  
-(541) 252-2434  
-[www.houseofasana.com](https://www.houseofasana.com/ "https://www.houseofasana.com/")
-
-Asana (a·sa·na) defined simply as a pose or position in yoga. House of Asana is home of a rebel yogi and fitness lover. They provide a range of classes from slow restorative yoga to fast-paced power yoga classes. House of Asana also offers workshops, private sessions, and events. Most of the classes are heated with infrared lights. They offer an unpretentious and results-oriented community that’s invested in your goals and success. Their core values are grit, authenticity, community, and compassion.
-
-{{< /columns >}}
-
 ![](/img/charlo-mindfulness-center.jpg)
 
 **Charlo Mindfulness Center**  
@@ -87,6 +63,42 @@ Coos Bay, OR 97420
 The Center provides Vinyasa yoga classes, mindfulness courses, personalized coaching, and creative writing workshops in addition to special events that celebrate the pursuit of creative and mindful connections. All classes are developed to meet the needs of the students present in the class. You do not need any experience or prior classes in order to participate.
 
 divider
+
+![downtown health & fitness in coos bay, oregon](/img/downtown-fitness-center.jpg)
+
+**Downtown Health & Fitness**  
+440 Central Avenue  
+ Coos Bay, OR 97420  
+ (541) 267-3948  
+[www.dhfitness.net](https://www.dhfitness.net/ "https://www.dhfitness.net/")
+
+Downtown Health and Fitness aims to provide a clean, safe, and helpful environment. Offering a variety of group fitness classes, including yoga, chair yoga and gentle yoga, these classes are designed to accommodate all ages and fitness levels. Our facility includes dressing rooms with lockers and showers. All areas are handicap accessible.
+
+{{< columns number="2" >}}
+
+![House of Asana - Yoga & Classes](/img/house-of-asana-345x220.jpg)
+
+**House of Asana**  
+180 Central Avenue  
+Coos Bay, OR 97420  
+(541) 252-2434  
+[www.houseofasana.com](https://www.houseofasana.com/ "https://www.houseofasana.com/")
+
+House of Asana is home of a rebel yogi and fitness lover. They provide a range of classes from slow restorative yoga to fast-paced power yoga classes. Most of the classes are heated with infrared lights. They offer an unpretentious and results-oriented community that’s invested in your goals and success. Their core values are grit, authenticity, community, and compassion.
+
+divider
+
+![Mossy Lotus Yoga & Forest Bathing](/img/mossy-lotus-345x220.jpg)
+
+**Mossy Lotus**  
+158 Market Avenue  
+Coos Bay, OR 97420  
+(541) 217-0400  
+[mossylotus.com](https://mossylotus.com/ "https://mossylotus.com/")
+
+With over 20 years of combined experience as field biologists and 30+ years practicing yoga, Daniel and Sailee have both spent thousands of hours in heartfelt connection with Mother Nature and learning and teaching the full practices of yoga to all levels of students. This land, this rugged, wild earth is their inspiration. It is their passion for living in balance with nature that drives them.
+
+{{< /columns >}}
 
 {{< spacer 20 >}}
 
