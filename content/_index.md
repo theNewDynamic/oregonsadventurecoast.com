@@ -41,14 +41,13 @@ masonry3:
   mobiletitle: Hiking
   url: "/hiking-walking/"
 masonry4:
-  desktopphoto: "/img/mother-child-museum-desktop.jpg"
-  desktoptitle: Museums & History
-  hoverdescription: 'Oregon''s Adventure Coast has several fascinating museums and
-    historical sites! '
-  hovertitle: Oregon's Largest Coastal Urban Center
-  mobilephoto: "/img/hm-mas-museum-mobile.jpg"
-  mobiletitle: Museums & History
-  url: "/art-history-culture/"
+  desktopphoto: "/img/mtn-biking-masonry-medium-desktop.jpg"
+  desktoptitle: Year-Round Mtn Biking
+  hoverdescription: A heart-pounding mountain biking adventure - choose your challenge!
+  hovertitle: Discover Whiskey Run
+  mobilephoto: "/img/mtn-biking-masonry-mobile.jpg"
+  mobiletitle: Year-Round Mtn Biking
+  url: "/cycling"
 masonry5:
   desktopphoto: "/img/fishing-masonry-2023-340x255.jpg"
   desktoptitle: Fishing
