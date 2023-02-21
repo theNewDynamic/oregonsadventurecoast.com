@@ -18,7 +18,7 @@ draft: true
 
 **Coos Bay, North Bend & Charleston**, on the Southern Oregon coast, offers a variety of natural landscapes for forest bathing, including dunes, wetlands, and forests. The surrounding areas are rich in flora and fauna, providing ample opportunities to connect with nature and practice forest bathing.
 
-Some popular places for forest bathing on **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston** include the coastal forest trail along the cliffs between Sunset Bay State Park and Cape Arago State Park, the cliffside at Shore Acres State Park, Yoakam Point, Horsfall Beach adjacent to the Oregon Dunes National Recreation Area, Golden & Silver Falls State Natural area, Mingus Park and Simpson Park.
+Some popular places for forest bathing on **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston** include the coastal forest trail along the cliffs between [Sunset Bay State Park](/state-parks-and-national-lands/) and [Cape Arago State Park](/state-parks-and-national-lands/), the cliffside at [Shore Acres State Park](/state-parks-and-national-lands/), Yoakam Point, [Horsfall Beach](/undeveloped-beaches) adjacent to the [Oregon Dunes National Recreation Area](/state-parks-and-national-lands/), [Golden & Silver Falls State Natural area](/state-parks-and-national-lands/), Mingus Park and Simpson Park.
 
 ![](/img/forest-bathing-collage-695x322.jpg)
 
