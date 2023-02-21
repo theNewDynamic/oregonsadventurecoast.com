@@ -131,7 +131,8 @@ divider
 **Hair Co. Etc. - Salon & Day Spa**  
 275 Golden Avenue  
 Coos Bay, OR 97420  
-(541) 269-5223
+(541) 269-5223  
+[haircoetc.net](https://haircoetc.net/ "https://haircoetc.net/")
 
 Hair Co. Etc Salon & Day Spa offers Hair Treatments, Nail Treatments, Massage and Body Treatments in downtown Coos Bay on the beautiful Southern Oregon Coast.
 
