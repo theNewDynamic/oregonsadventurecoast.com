@@ -68,13 +68,14 @@ divider
 
 **Downtown Health & Fitness**  
 440 Central Avenue
-
 Coos Bay, OR 97420
-
 (541) 267-3948  
 [www.dhfitness.net](https://www.dhfitness.net/ "https://www.dhfitness.net/")
 
 Downtown Health and Fitness aims to provide a clean, safe, and helpful environment. Offering a variety of group fitness classes, including yoga, chair yoga and gentle yoga, these classes are designed to accommodate all ages and fitness levels. Our facility includes dressing rooms with lockers and showers. All areas are handicap accessible.
+
+{{< /columns >}}
+{{< spacer 20 >}}
 
 {{< columns number="2" >}}
 
