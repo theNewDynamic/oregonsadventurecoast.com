@@ -25,9 +25,9 @@ masonry1:
 masonry2:
   desktopphoto: "/img/forest-bathing-masonry-desktop.jpg"
   desktoptitle: Forest Bathing & Mindfulness
-  hoverdescription: Spend time in forests, parks, or other natural environments and
-    use all five senses to connect with nature. Slow down, relax, and be mindful of
-    the present moment.
+  hoverdescription: Spend time in our beautiful forests and other natural environments
+    and use all five senses to connect with nature. Slow down, relax, and be mindful
+    of the present moment. Join us for a tour or class!
   hovertitle: Earth - Wind - Inspire
   mobilephoto: "/img/forest-bathing-masonry-345x160.jpg"
   mobiletitle: Forest Bathing & Mindfulness
