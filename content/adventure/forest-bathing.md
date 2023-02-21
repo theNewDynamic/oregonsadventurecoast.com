@@ -67,8 +67,8 @@ divider
 ![downtown health & fitness in coos bay, oregon](/img/downtown-fitness-center.jpg)
 
 **Downtown Health & Fitness**  
-440 Central Avenue
-Coos Bay, OR 97420
+440 Central Avenue  
+Coos Bay, OR 97420  
 (541) 267-3948  
 [www.dhfitness.net](https://www.dhfitness.net/ "https://www.dhfitness.net/")
 
