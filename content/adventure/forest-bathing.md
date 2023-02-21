@@ -103,9 +103,9 @@ With over 20 years of combined experience as field biologists and 30+ years prac
 
 {{< /columns >}}
 
-{{< spacer 20 >}}
+{{< spacer 40 >}}
 
-#### DAY SPAS
+#### ![day spas sub header](/img/day-spas-subheader-695x125.jpg)
 
 {{< columns number="2" >}}
 
