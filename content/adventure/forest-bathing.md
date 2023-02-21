@@ -48,6 +48,8 @@ Bring a picnic lunch or have a healthy dinner at one of our Farm to Table eateri
 
 {{< spacer 20 >}}
 
+#### YOGA STUDIOS
+
 {{< columns number="2" >}}
 
 ![Mossy Lotus Yoga & Forest Bathing](/img/mossy-lotus-345x220.jpg)
@@ -74,6 +76,8 @@ Asana (a·sa·na) defined simply as a pose or position in yoga. House of Asana i
 
 {{< /columns >}}
 
+![Charlo Mindfullness Center in Coos Bay](/img/charlo.jpeg)
+
 **Charlo Mindfulness Center**  
 1260 N. Bayshore Drive, Suite 204  
 Coos Bay, OR 97420  
@@ -81,3 +85,13 @@ Coos Bay, OR 97420
 [charlomindfulness.com](http://charlomindfulness.com/)
 
 The Center provides Vinyasa yoga classes, mindfulness courses, personalized coaching, and creative writing workshops in addition to special events that celebrate the pursuit of creative and mindful connections. All classes are developed to meet the needs of the students present in the class. You do not need any experience or prior classes in order to participate.
+
+divider
+
+{{< spacer 20 >}}
+
+#### DAY SPAS
+
+{{< columns number="2" >}}
+
+Beautiful You
