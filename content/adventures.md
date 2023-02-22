@@ -5,11 +5,6 @@ aliases:
 - "/featured-adventures"
 photo: "/img/adventures-atv-motorsports.jpg"
 boxes:
-- desktopphoto: "/img/forest-bathing-adventure-pg.jpg"
-  desktoptitle: Forest Bathing & Mindfulness
-  mobiletitle: Forest Bathing & Mindfulness
-  hovertitle: Earth - Wind - Inspire!
-  url: "/forest-bathing"
 - desktopphoto: "/img/undeveloped-beaches.jpg"
   desktoptitle: Undeveloped Beaches
   hoverdescription: So many different settings at one amazing destination!
@@ -30,6 +25,11 @@ boxes:
   hovertitle: Now This is a Beach
   mobiletitle: Untamed Dunes
   url: "/untamed-dunes"
+- desktopphoto: "/img/forest-bathing-adventure-pg.jpg"
+  desktoptitle: Forest Bathing & Mindfulness
+  mobiletitle: Forest Bathing & Mindfulness
+  hovertitle: Earth - Wind - Inspire!
+  url: "/forest-bathing"
 - desktopphoto: "/img/gaming-slots.jpg"
   desktoptitle: Gaming
   hoverdescription: We have full casino-style gaming and over 700 slots right in town.
