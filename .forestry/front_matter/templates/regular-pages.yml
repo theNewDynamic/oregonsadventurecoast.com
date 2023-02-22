@@ -77,7 +77,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: desktoptitle
   label: Masonry Items
 pages:
 - content/sitepages/15-off-storm-watching-lodging-special.md
