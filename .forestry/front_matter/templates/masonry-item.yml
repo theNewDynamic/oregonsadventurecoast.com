@@ -15,6 +15,9 @@ fields:
 - type: text
   name: hovertitle
   label: Title on hover
+- type: textarea
+  name: hoverdescription
+  label: Description on hover
 - type: text
   name: url
   label: URL
