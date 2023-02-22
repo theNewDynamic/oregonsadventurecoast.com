@@ -35,7 +35,7 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 ![The Festival Orchestra Concerts are a must attend each summer in Coos Bay.](/img/ocma-orchestra-frankprice-web.jpg "The Oregon Coast Music Festival Orchestra - Photo by Frank Price")
 
-#### 45th Oregon Coast Music Festival July 2023
+### 45th Oregon Coast Music Festival Special Events - July 2023
 
 {{< spacer 25>}}  
 **Saturday, July 15th @ noon**  
@@ -70,7 +70,7 @@ _Hidden Voices: Highlighting Diverse American Women Composers features Steven Mo
 
 {{< spacer 50 >}}
 
-{{< floatimage src="img/gothardsisters340x214.jpg" float="left" alt="The Gothard Sisters" size="40" >}}**Saturday, July 22 @ noon**  
+{{< floatimage src="/img/gothardsisters340x214.jpg" float="left" alt="The Gothard Sisters" size="40" >}}**Saturday, July 22 @ noon**  
 Shore Acres State Park Gardens, Charleston  
 **The Gothard Sisters: Celtic music and dance in the gardens** - **_Free_**
 
@@ -78,7 +78,7 @@ _Details coming soon!_
 
 {{< spacer 50 >}}
 
-{{< floatimage src="img/AdamStern.jpg" float="left" alt="Adam Stern, Conductor" size="40" >}}**July 24th, 26th & 28th @ noon**  
+{{< floatimage src="/img/adamstern.jpeg" float="left" alt="Adam Stern, Conductor" size="40" >}}**July 24th, 26th & 28th @ noon**  
 SWOCC Campus, , Coos Bay  
 **Lunch, Listen and Learn with Adam Stern** - **_Free_**
 
@@ -90,13 +90,15 @@ Associate Conductor Adam Stern brings fresh and entertaining insight to the musi
 
 {{< spacer 50 >}}
 
+### ORCHESTRA CONCERTS
+
 ![The glittering, brilliant sounds of the Harp enhance every movement played by the Orchestra during the OR Coast Music Festival in Coos Bay.](/img/ocma-harpist-frankprice-web.jpg "The Orchestra features the glittering sounds of the harp - Photo by Frank Price")
 
 **Tuesday, July 25 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
 **OCMA Festival Orchestra Concert I with Guest Soloist Steven Moeckel**
 
-The concert program TBA
+The concert program features Berlioz - Benvenuto Cellini Overture; Schubert - Symphony No.8 "Unfinished”; Tchaikovsky Violin Concerto with Steven Moeckel, violin.
 
 {{< spacer 50 >}}
 
