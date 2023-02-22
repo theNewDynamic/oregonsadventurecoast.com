@@ -125,7 +125,7 @@ Beautiful You is a Medi Spa, which is a combination of an aesthetic medical cent
 
 divider
 
-![](/img/hair-company-etc-spa.jpg)
+![Hair Co. Etc. Salon & Day Spa woman getting massage](/img/hair-inc-etc-345x220.jpg)
 
 **Hair Co. Etc. - Salon & Day Spa**  
 275 Golden Avenue  
