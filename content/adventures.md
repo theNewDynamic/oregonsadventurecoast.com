@@ -5,6 +5,11 @@ aliases:
 - "/featured-adventures"
 photo: "/img/adventures-atv-motorsports.jpg"
 boxes:
+- desktopphoto: "/img/forest-bathing-adventure-pg.jpg"
+  desktoptitle: Forest Bathing & Mindfulness
+  mobiletitle: Forest Bathing & Mindfulness
+  hovertitle: Earth - Wind - Inspire!
+  url: "/forest-bathing"
 - desktopphoto: "/img/undeveloped-beaches.jpg"
   desktoptitle: Undeveloped Beaches
   hoverdescription: So many different settings at one amazing destination!
