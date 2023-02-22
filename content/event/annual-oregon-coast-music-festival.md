@@ -48,27 +48,43 @@ Mingus Park Stage, Coos Bay
 
 **Sunday, July 16th @ 2 pm**  
 OIMB Boat House Auditorium, Charleston  
-**Jazz at The Boat House**
+**Jazz at The Boat House with Black Market Gourmet Reception**
 
 _Details coming soon!_
 
 {{< spacer 50 >}}
 
-**Saturday, July 22 @ noon**  
+**Wednesday, July 19 @ 7:30 pm**  
+7 Devils Tap Room and Brewery, Coos Bay  
+**Dear Darling: string and vocal trio**
+
+_Details coming soon!_
+
+{{< spacer 50 >}}
+
+**Thursday, July 20 @ 7:00 pm**  
+Hales Center on the SWOCC Campus, Coos Bay  
+**Hidden Voices: Highlighting Diverse American Women Composers**
+
+_Hidden Voices: Highlighting Diverse American Women Composers features Steven Moeckel, violin, & Joanna Goldstein, piano. More Details Coming Soon._
+
+{{< spacer 50 >}}
+
+{{< floatimage src="img/gothardsisters340x214.jpg" float="left" alt="The Gothard Sisters" size="40" >}}**Saturday, July 22 @ noon**  
 Shore Acres State Park Gardens, Charleston  
-**Concert TBA** - **_Free_**
+**The Gothard Sisters: Celtic music and dance in the gardens** - **_Free_**
 
 _Details coming soon!_
 
 {{< spacer 50 >}}
 
-{{< floatimage src="img/AdamStern.jpeg" float="left" alt="Adam Stern, Conductor" size="40" >}}**July 24th, 26th & 28th @ noon**  
-Location TBD, Coos Bay  
+{{< floatimage src="img/AdamStern.jpg" float="left" alt="Adam Stern, Conductor" size="40" >}}**July 24th, 26th & 28th @ noon**  
+SWOCC Campus, , Coos Bay  
 **Lunch, Listen and Learn with Adam Stern** - **_Free_**
 
-July 24th - Steven Moeckel joins Adam Stern to preview Orchestra Concert I  
-July 26th - Elizabeth Galafa Ylaya joins Adam Stern to preview the Latin American/Hispanic Music Pops Concert  
-July 28th - Adam Stern will preview Orchestra Concert II
+**July 24th** - Steven Moeckel joins Adam Stern to preview Orchestra Concert I  
+**July 26th** - Elizabeth Galafa Ylaya joins Adam Stern to preview the Latin American/Hispanic Music Pops Concert  
+**July 28th** - Adam Stern will preview Orchestra Concert II
 
 Associate Conductor Adam Stern brings fresh and entertaining insight to the music and composers featured in the three orchestra programs. These noontime events provide an opportunity for interactive discussions that help everyone learn about the artists, the musical world and other related topics. Adam Stern returns to the Bay Area to continue his creative ideas for the Pops concerts, and support for outreach to everyone in his lectures and workshops. Stern has been leading the Seattle Philharmonic since 2003.
 
