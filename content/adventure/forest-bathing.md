@@ -1,6 +1,6 @@
 ---
 title: Forest Bathing & Mindfulness
-url: forest-bathing
+url: "/forest-bathing"
 photo: "/img/forest-bathing-page-header.jpg"
 seo:
   title: ''
