@@ -30,6 +30,8 @@ boxes:
   mobiletitle: Forest Bathing & Mindfulness
   hovertitle: Earth - Wind - Inspire!
   url: "/forest-bathing"
+  hoverdescription: Spend time in our beautiful forests and other natural environments
+    and use all five senses to connect with Mother Nature.
 - desktopphoto: "/img/gaming-slots.jpg"
   desktoptitle: Gaming
   hoverdescription: We have full casino-style gaming and over 700 slots right in town.
