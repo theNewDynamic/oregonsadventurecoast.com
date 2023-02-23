@@ -19,7 +19,7 @@ accordion_sections: []
 
 Some popular places for forest bathing on **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston** include the coastal forest trail along the cliffs between [Sunset Bay State Park](/state-parks-and-national-lands/) and [Cape Arago State Park](/state-parks-and-national-lands/), the cliffside at [Shore Acres State Park](/state-parks-and-national-lands/), Yoakam Point, [Horsfall Beach](/undeveloped-beaches) adjacent to the [Oregon Dunes National Recreation Area](/state-parks-and-national-lands/), [Golden & Silver Falls State Natural area](/state-parks-and-national-lands/), Mingus Park and Simpson Park.
 
-![](/img/forest-bathing-collage-695x322.jpg)
+![forest bathing, hands on tree bark and sitting arms stretched at ocean](/img/forest-bathing-collage-695x322-v02.jpg)
 
 Walking mindfully in these natural areas can help reduce stress, improve mood, and boost the immune system. **Research has shown that spending time in nature can lower levels of cortisol, a hormone associated with stress, and increase levels of serotonin, a hormone associated with happiness and well-being.**
 
