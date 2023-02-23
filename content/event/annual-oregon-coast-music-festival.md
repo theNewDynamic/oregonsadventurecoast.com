@@ -74,7 +74,7 @@ _Hidden Voices: Highlighting Diverse American Women Composers features Steven Mo
 Shore Acres State Park Gardens, Charleston  
 **The Gothard Sisters: Celtic music and dance in the gardens** - **_Free_**
 
-_Details coming soon!_
+_The sisters perform new and traditional music steeped in Celtic folk roots. Performing, touring and writing together for over 13 years, the trio continues to bring a refreshing perspective to the time-honored tradition of Celtic folk music, bridging the gap between classical, folk, Celtic, world, and roots influences with a sunny, optimistic style._
 
 {{< spacer 50 >}}
 
@@ -90,6 +90,14 @@ Associate Conductor Adam Stern brings fresh and entertaining insight to the musi
 
 {{< spacer 50 >}}
 
+**Friday, July 28 @ 7:00**  
+First Presbyterian Church, North Bend  
+**Redfish Music String Quartet**
+
+Concert program coming soon.
+
+{{< spacer 50 >}}
+
 ### ORCHESTRA CONCERTS
 
 ![The glittering, brilliant sounds of the Harp enhance every movement played by the Orchestra during the OR Coast Music Festival in Coos Bay.](/img/ocma-harpist-frankprice-web.jpg "The Orchestra features the glittering sounds of the harp - Photo by Frank Price")
@@ -98,7 +106,7 @@ Associate Conductor Adam Stern brings fresh and entertaining insight to the musi
 Marshfield High School Auditorium, Coos Bay  
 **OCMA Festival Orchestra Concert I with Guest Soloist Steven Moeckel**
 
-The concert program features Berlioz - Benvenuto Cellini Overture; Schubert - Symphony No.8 "Unfinished”; Tchaikovsky Violin Concerto with Steven Moeckel, violin.
+The concert features Berlioz - Benvenuto Cellini Overture; Schubert - Symphony No.8 "Unfinished”; Tchaikovsky Violin Concerto with Steven Moeckel, violin.
 
 {{< spacer 50 >}}
 
@@ -110,20 +118,12 @@ Guest soloist Elizabeth Galafa Ylaya, Soprano, joins the Festival Orchestra for 
 
 {{< spacer 50 >}}
 
-**Friday, July 28 @ 7:00**  
-First Presbyterian Church, North Bend  
-**Redfish Music String Quartet**
-
-Concert program coming soon.
-
-{{< spacer 50 >}}
-
 ![The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July](/img/ocma-cellist-frankprice-web.jpg "The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July - Photo by Frank Price")
 
 **Saturday, July 29 @ 7:30**  
 Marshfield High School Auditorium, Coos Bay  
 **OCMA _Festival Finale_ Festival Orchestra Concert II**
 
-The concert program TBA
+The concert features Wagner - Parsifal Prelude; Holst - The Perfect Fool Ballet Suite; Brahms - Symphony No.1.
 
 {{< spacer 25 >}}
