@@ -10,22 +10,7 @@ seo:
   imgalt: ''
   image: ''
 aliases: []
-accordion_sections:
-- title: Details and Rules
-  accordions:
-  - content: 'We can add accordian sections with all the rules if we like. We can
-      add accordian sections with all the rules if we like. We can add accordian sections
-      with all the rules if we like. We can add accordian sections with all the rules
-      if we like. We can add accordian sections with all the rules if we like. We
-      can add accordian sections with all the rules if we like. We can add accordian
-      sections with all the rules if we like. We can add accordian sections with all
-      the rules if we like. '
-    title: Rules & Regulations
-  - title: Another section about Stuff
-    content: 'If we want to have a couple accordian sections. If we want to have a
-      couple accordian sections. If we want to have a couple accordian sections. If
-      we want to have a couple accordian sections. If we want to have a couple accordian
-      sections. If we want to have a couple accordian sections. '
+accordion_sections: []
 boxes: []
 
 ---
