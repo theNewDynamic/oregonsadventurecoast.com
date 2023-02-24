@@ -2,7 +2,7 @@
 title: Claw-some Crab Cake Bake-Off
 url: crab-cake-bake-off
 layout: contact
-photo: ''
+photo: "/img/crab-cake-bake-off-subpage-header.jpg"
 ctas: []
 seo:
   title: ''
@@ -12,7 +12,6 @@ seo:
 aliases: []
 accordion_sections: []
 boxes: []
-draft: true
 
 ---
 Claw-some Crab Cake Bake-Off Text and information. Paragraphs and text here. 
