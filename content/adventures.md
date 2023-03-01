@@ -160,6 +160,8 @@ Take a vacation to Oregon’s Adventure Coast, where the land meets the bay and 
 <h2>Discover Outdoor Activities, Shopping, & Events on the Oregon Coast</h2>
 
 We invite you to explore, to discover, to feel, and to know the incredible adventures waiting for you when you choose to take a trip to the coast. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do, full of adventure, nature, wildlife, culture, arts, shopping, and athletics.
+{{< spacer 20 >}}
+<div style="width:100%"><a href="/atv-motorsports"><img src="/img/atv-motorsports-spring-break-2048x190-03-23.jpg" alt="Spring break atv and motorsports adventures in Coos Bay, North Bend, Charleston" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
 
 {{< spacer 30 >}}
 
