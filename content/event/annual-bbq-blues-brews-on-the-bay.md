@@ -100,4 +100,38 @@ Guests can also purchase tokens for $1 each. Full-size domestic beers and a sele
 
 {{< spacer 50>}}
 
-#### **COMPETING TEAMS FOR 2023 - COMING SOON**
+#### **COMPETING TEAMS FOR 2023** 
+
+1\.   Good’Woods Bar-B-Que - CA.  
+
+2\.   Jerimiah Johnson Mountain Man BBQ - WA
+
+3\.   Prison Break BBQ - CA.  
+
+4\.   Bearded Boar BBQ - ID
+
+5\.   Son of Smoke BBQ - CA
+
+6\.   Fat Dad's Barbeque - OR   
+
+7\.   Big Bite BBQ - OR   
+
+8\.   Dirty Old Basters - OR
+
+9\.   Smokin' Timbers Northwest - OR   
+
+10\.  Small Axe BBQ - OR
+
+11\.  J & C BBQ - OR   
+
+12\.  Vitamin Q BBQ - WA  
+
+13\.  Rob's Smoking and Grilling - WA  
+
+14\.  Smokin AXE BBQ - CA
+
+15\.  BBQ Bros - OR
+
+16\. Newt's BBQ - WA 
+
+17\. 503 Backyard BBQ - OR 
