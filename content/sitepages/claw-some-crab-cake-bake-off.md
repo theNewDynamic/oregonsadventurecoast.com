@@ -17,5 +17,3 @@ boxes: []
 Claw-some Crab Cake Bake-Off Text and information. Paragraphs and text here.
 
 ### <a href="crab-cake-bake-off-form" class="learn-more-anywhere-btn">ENTER CONTEST</a>
-
-<script type="text/javascript" src="https://form.jotform.com/jsform/230595150201040"></script>
