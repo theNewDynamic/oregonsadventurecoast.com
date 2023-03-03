@@ -14,6 +14,8 @@ accordion_sections: []
 boxes: []
 
 ---
+![crab cake bake-off full crab cake](/img/crab-cake-bake-three-images.jpg)
+
 Claw-some Crab Cake Bake-Off Text and information. Paragraphs and text here.
 
 ### <a href="/crab-cake-bake-off-form" class="learn-more-anywhere-btn">ENTER CONTEST</a>

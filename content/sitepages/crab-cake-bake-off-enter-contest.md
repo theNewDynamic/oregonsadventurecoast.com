@@ -14,6 +14,8 @@ accordion_sections: []
 boxes: []
 
 ---
+![crab cake bake off piece of cake and baking utensils](/img/crab-cake-bake-collages.jpg)
+
 Claw-some Crab Cake Bake-Off Text and information. Paragrap
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/230595150201040"></script>
