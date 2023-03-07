@@ -1,4 +1,5 @@
-baseurl: 'https://www.oregonsadventurecoast.com'
+---
+baseurl: https://www.oregonsadventurecoast.com
 languageCode: en-us
 title: Oregon's Adventure Coast
 googleAnalytics: UA-4406033-1
@@ -17,13 +18,13 @@ outputFormats:
     notAlternative: true
 outputs:
   home:
-    - HTML
-    - RSS
-    - REDIR
-    - JSON
+  - HTML
+  - RSS
+  - REDIR
+  - JSON
   section:
-    - HTML
-    - RSS
+  - HTML
+  - RSS
 taxonomies:
   category: categories
   tag: tags
@@ -31,9 +32,9 @@ taxonomies:
   town: towns
   tripadventure: tripadventures
 permalinks:
-  adventure: ':slug/'
-  sitepages: ':slug/'
-  products: '/shop/:slug'
+  adventure: ":slug/"
+  sitepages: ":slug/"
+  products: "/shop/:slug"
 blackfriday:
   hrefTargetBlank: false
 caches:

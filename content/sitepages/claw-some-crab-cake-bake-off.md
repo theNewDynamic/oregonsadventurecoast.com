@@ -18,6 +18,6 @@ boxes: []
 
 Claw-some Crab Cake Bake-Off Text and information. Paragraphs and text here.
 
-![](/img/crab-cake-bake-collages.jpg)
+![](/img/crab-cake-bake-collage-02.jpg)
 
 ### <a href="/crab-cake-bake-off-form" class="learn-more-anywhere-btn">ENTER CONTEST</a>
