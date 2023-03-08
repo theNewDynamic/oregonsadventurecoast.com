@@ -1,8 +1,8 @@
 ---
 title: Traveler's Information
 aliases:
-  - /about/relocation-information
-  - /travelers-guide
+- "/about/relocation-information"
+- "/travelers-guide"
 layout: travelersinfo
 url: "/travelers-info"
 photo: "/img/travelers-information-header.jpg"
@@ -59,6 +59,18 @@ divider
 **North Bend Boardwalk**
 {{< /columns >}}
 
+{{< columns >}}
+
+[![](/img/kezi-9-north-bend.jpg)](https://www.kezi.com/weather/weathercam9/north-bend)
+
+KEZI 9 - North Bend View
+
+divider
+
+divider
+
+{{< /columns >}}
+
 ### TRAVELING WITH PETS
 
 Of course you want to bring your best, four legged friend on your trip. After all, they are part of the family.
@@ -73,10 +85,10 @@ And for the adventures that you can’t bring your pet along, we have plenty of 
 
 ![Carol's Pet Sitting](/img/dog-01.jpg)
 
-**Carol’s Pet Sitting**\
-Coos Bay and\
-Dunes City, OR\
-(541) 297-6039\
+**Carol’s Pet Sitting**  
+Coos Bay and  
+Dunes City, OR  
+(541) 297-6039  
 {{< link url="https://www.facebook.com/Carols-Pet-Sitting-301592177499/" >}}Carol's Pet Sitting{{< /link >}}
 
 Pick up service at hotel or in town & short term care available for visitors; anywhere from a couple hours to long term stays. Pet sitting is in a nice home environment with fenced yeard, pets sleep indoors. Excellent references, credit cards accepted. Carol’s Pet Sitting is proud to be named a local’s favorite by reader’s of our local newspaper.
@@ -85,10 +97,10 @@ divider
 
 ![Morgan Veterinary](/img/dog-02.jpg)
 
-**Morgan Veterinary**\
-230 Market Ave\
-Coos Bay, OR\
-(541) 269-5846\
+**Morgan Veterinary**  
+230 Market Ave  
+Coos Bay, OR  
+(541) 269-5846  
 {{< link url="https://www.facebook.com/MorganVet/" >}}Morgan Veterinary{{< /link >}}
 
 Boarding and Day Care available for dogs, cats and birds. Their kennel attendants feed, nurture and lavish attention when you can’t be there. They provide tender loving care (such as brushing and cuddling), and supervised outdoor playtime to keep your pet happy and active. Hours are Mon-Fri 8:30am-5:30pm,  weekend pick ups can be arranged.
@@ -97,10 +109,10 @@ divider
 
 ![Riverview Kennels](/img/dog-03.jpg)
 
-**Riverview Kennels**\
-83737 North Bank Ln\
-Bandon, OR\
-(541) 347-4689\
+**Riverview Kennels**  
+83737 North Bank Ln  
+Bandon, OR  
+(541) 347-4689  
 {{< link url="http://riverviewkennels.com" >}}RiverviewKennels.com{{< /link >}}
 
 Riverview Kennels would be pleased to host your family pet member at our highly rated boarding facility. Dogs must have proof of rabies, dhlpp, and bordetella vaccinations. Cats must have proof of rabies and feline vaccinations. Special amenities include forest walks and playtimes. Check the website for rates.
@@ -130,30 +142,30 @@ We have the largest hospital on the Oregon Coast. While we hope you will not nee
 
 ![Bay Area Hospital](/img/hospital-01.jpg)
 
-**Bay Area Hospital**\
-1775 Thompson Road\
-Coos Bay, OR 97420\
-(541) 269-8111\
+**Bay Area Hospital**  
+1775 Thompson Road  
+Coos Bay, OR 97420  
+(541) 269-8111  
 {{< link url="http://www.bayareahospital.org/Index.aspx" >}}BayAreaHospital.org {{< /link >}}
 
 divider
 
 ![North Bend Medical Center](/img/north-bend-medical-center.jpg)
 
-**North Bend Medical Center**\
-1900 Woodland Drive\
-Coos Bay, OR 97420\
-(541) 267-5151 \
+**North Bend Medical Center**  
+1900 Woodland Drive  
+Coos Bay, OR 97420  
+(541) 267-5151   
 {{< link url="https://nbmcweb.com/" >}}NBMCWeb.com{{< /link >}}
 
 divider
 
 ![Immediate Care Clinic at North Bend Medical Center](/img/north-bend-medical-center.jpg)
 
-**Immediate Care Clinic@NBMC**\
-1900 Woodland Drive\
-Coos Bay, OR 97420\
-(541) 266-1789\
+**Immediate Care Clinic@NBMC**  
+1900 Woodland Drive  
+Coos Bay, OR 97420  
+(541) 266-1789  
 {{< link url="http://nbmcweb.com/immediate-care-clinic/" >}}NBMCWeb.com{{< /link >}}
 
 {{< /columns >}}
