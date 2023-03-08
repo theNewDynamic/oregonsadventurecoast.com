@@ -59,11 +59,13 @@ divider
 **North Bend Boardwalk**
 {{< /columns >}}
 
+{{< spacer 50 >}}
+
 {{< columns >}}
 
 [![](/img/kezi-9-north-bend.jpg)](https://www.kezi.com/weather/weathercam9/north-bend)
 
-KEZI 9 - North Bend View
+**KEZI 9 - North Bend View**
 
 divider
 
