@@ -63,7 +63,7 @@ divider
 
 {{< columns >}}
 
-[![](/img/kezi-9-north-bend.jpg)](https://www.kezi.com/weather/weathercam9/north-bend)
+[![](/img/kezi-9-north-bend-02.jpg)](https://www.kezi.com/weather/weathercam9/north-bend)
 
 **KEZI 9 - North Bend View**
 
@@ -157,7 +157,7 @@ divider
 **North Bend Medical Center**  
 1900 Woodland Drive  
 Coos Bay, OR 97420  
-(541) 267-5151   
+(541) 267-5151  
 {{< link url="https://nbmcweb.com/" >}}NBMCWeb.com{{< /link >}}
 
 divider
