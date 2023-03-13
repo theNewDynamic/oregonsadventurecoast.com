@@ -2,7 +2,7 @@
 _schema: default
 title: About the VCB
 draft: false
-url: about-the-vcb
+url: /about-the-vcb
 layout: open-meetings
 photo: /img/undeveloped-beaches-sub-header.jpg
 seo:
@@ -61,7 +61,7 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 * BUDGETED EXPENDITURES FOR THE MANAGEMENT OF THE COOS BAY VISITOR INFORMATION CENTER FOR FISCAL YEAR 2023 TOTAL $104,100
 
-{{< spacer 50>}}
+{{< spacer 50 >}}
 
 **THE VCB’s TOTAL BUDGET FOR FISCAL YEAR 2023 IS $1,226,200**
 
