@@ -21,31 +21,31 @@ seo:
 
 Founded by local artists in 1966, the Coos Art Museum is the third oldest art museum in Oregon and the only one on its coast. Housed in a 1936 art deco building it features seven galleries with up to 24 changing exhibitions annually and a Steve Prefontaine Memorial Room. The Museum’s permanent collection highlights contemporary fine art printmaking and artworks in all media by Pacific Northwest artists. [Visit the Coos Art Museum website for more information.](http://www.coosart.org)
 
-{{< spacer >}}
+{{< spacer 50 >}}
 
 {{< floatimage src="/img/history-museum-mother-child.jpg" float="left" alt="Coos History Museum in Coos Bay, Oregon" size="40" >}}
 
 #### Coos History Museum
 
-Oregon’s oldest continuously operated historical society boasts more than 250,000 historic photographs. With ever-changing exhibits, event and rental space, a unique museum shop, and a developing bayfront plaza, this community-built facility opened in its current location in 2015. Gain a historic overview of the Coos and Coquille Indian tribes, as well as the coal miners, loggers, and shipbuilders who helped to shape the area. Local shipwrecks are chronicled, along with frequently changed exhibits on a wide variety of topics from pre-history to the present. {{< link url="https://cooshistory.org" >}}Visit the Coos History Museum website for more information.{{< /link >}}
+Oregon’s oldest continuously operated historical society boasts more than 250,000 historic photographs. With ever-changing exhibits, event and rental space, a unique museum shop, and a developing bayfront plaza, this community-built facility opened in its current location in 2015. Gain a historic overview of the Coos and Coquille Indian tribes, as well as the coal miners, loggers, and shipbuilders who helped to shape the area. Local shipwrecks are chronicled, along with frequently changed exhibits on a wide variety of topics from pre-history to the present. [Visit the Coos History Museum website for more information.](https://cooshistory.org)
 
-{{< spacer >}}
+{{< spacer 50 >}}
 
 {{< floatimage src="/img/marshfield-printing-museum.jpg" float="left" alt="The Marshfield Sun Printing Museum" size="40" >}}
 
 #### Marshfield Sun Printing Museum
 
-Step back in time and see the original equipment from The Sun Newspaper as it was left in 1944. Open from Memorial Day to Labor Day, Tues-Sat 1pm – 4pm. For group tours or other times of the year call 541-266-0901 or 541-267-3762. {{< link url="https://www.marshfieldsunprintingmuseum.org" >}}Visit the Marshfield Sun Printing Museum website for more information.{{< /link >}}
+Step back in time and see the original equipment from The Sun Newspaper as it was left in 1944. Open from Memorial Day to Labor Day, Tues-Sat 1pm – 4pm. For group tours or other times of the year call 541-266-0901 or 541-267-3762. [Visit the Marshfield Sun Printing Museum website for more information.](https://www.marshfieldsunprintingmuseum.org)
 
-{{< spacer >}}
+{{< spacer 50 >}}
 
 {{< floatimage src="/img/railroad-museum.jpg" float="left" alt="The Oregon Coast Historic Railway Museum" size="40" >}}
 
 #### Oregon Coast Historic Railway Museum
 
-A must-stop for railroad enthusiasts. Ring the bell of the signature 1922 Baldwin steam locomotive! This museum showcases railroad and logging equipment in an outdoor display area, as well as photos and railroad memorabilia in an indoor mini-museum. Welcome aboard! Open Wednesdays, Saturdays, and Sundays. {{< link url="http://www.orcorail.org" >}}Visit The Oregon Coast Historic Railway Museum website for more information.{{< /link >}}
+A must-stop for railroad enthusiasts. Ring the bell of the signature 1922 Baldwin steam locomotive! This museum showcases railroad and logging equipment in an outdoor display area, as well as photos and railroad memorabilia in an indoor mini-museum. Welcome aboard! Open Wednesdays, Saturdays, and Sundays. [Visit The Oregon Coast Historic Railway Museum website for more information.](http://www.orcorail.org)
 
-{{< spacer >}}
+{{< spacer  50>}}
 
 {{< floatimage src="/img/sms-pioneer-cemetery-400x300.jpeg" float="left" alt="The Marshfield Pioneer Cemetery" size="40" >}}
 
@@ -53,7 +53,7 @@ A must-stop for railroad enthusiasts. Ring the bell of the signature 1922 Baldwi
 
 Located adjacent to Marshfield High School, the Marshfield Pioneer Cemetery encompasses four acres of greenspace with more than 2,000 gravesites dating to pre-Civil War times. Explore the cemetery with a self-guided brochure and learn about shipwrecks, the Civil War prison escapees, and many of the immigrants who made this region home. The cemetery is on the National Register of Historic Places. [Learn more about the Marshfield Pioneer Cemetery.](https://sites.google.com/site/cbcemetery/)
 
-{{< spacer >}}
+{{< spacer 50 >}}
 
 {{< floatimage src="/img/ch-marine-life-400x300.jpg" float="left" alt="The Charleston Marine Life Center" size="40" >}}
 
@@ -61,21 +61,21 @@ Located adjacent to Marshfield High School, the Marshfield Pioneer Cemetery enco
 
 Located on the edge of the harbor in Charleston, OR, the Oregon Institute of Marine Biology’s Charleston Marine Life Center is an exciting place for discovery. Aquaria highlighting different coastal ecosystems, a tidepool touch tank, whale and sea lion skeletons, underwater video from deep reefs and undersea volcanoes, and a variety of specimens reveal the hidden and remarkable diversity of life off Oregon, from the coast to the deep sea. And that’s all indoors. [Visit the Charleston Marine Life Center website for more information](https://cmlc.uoregon.edu/).
 
-{{< spacer >}}
+{{< spacer 50>}}
 
 {{< floatimage src="/img/liberty-theater.jpg" float="left" alt="The Liberty Theatre on Oregon's Adventure Coast" size="40" >}}
 
 #### Liberty Theatre
 
-Home of the Little Theatre on the Bay – Famed for their little Ole Opry performances,  you won’t want to miss any of the musicals at this charming, renovated 1939 theatre. {{< link url="http://thelibertytheatre.org" >}}Visit The Liberty Theatre website for productions, showtimes, and ticket information.{{< /link >}}
+Home of the Little Theatre on the Bay – Famed for their little Ole Opry performances,  you won’t want to miss any of the musicals at this charming, renovated 1939 theatre. [Visit The Liberty Theatre website for productions, showtimes, and ticket information.](http://thelibertytheatre.org)
 
-{{< spacer >}}
+{{< spacer 50>}}
 
 {{< floatimage src="/img/egyptian-theatre-museums.jpg" float="left" alt="The Egyptian Theatre in Coos Bay, Oregon" size="40" >}}
 
 #### The Egyptian Theatre
 
-Constructed in 1925, The Egyptian Theatre is a center for community events. The theatre is listed on the National Register of Historic Places and boasts one of the only remaining operable Wurlitzer Organs in the state. Movie events and fundraisers are the weekly fare, but the theatre is also available for private events and screenings. Live music is featured on occasion, as well as beer and movie nights. With a new 4K projection system and top-notch surround sound, you can experience a theatre with 90 years of memories with modern amenities! {{< link url="http://egyptiantheatreoregon.com" >}}Visit The Egyptian Theatre website for more information.{{< /link >}}
+Constructed in 1925, The Egyptian Theatre is a center for community events. The theatre is listed on the National Register of Historic Places and boasts one of the only remaining operable Wurlitzer Organs in the state. Movie events and fundraisers are the weekly fare, but the theatre is also available for private events and screenings. Live music is featured on occasion, as well as beer and movie nights. With a new 4K projection system and top-notch surround sound, you can experience a theatre with 90 years of memories with modern amenities! [Visit The Egyptian Theatre website for more information.](http://egyptiantheatreoregon.com)
 
 <div class="clearfix"></div>
 
