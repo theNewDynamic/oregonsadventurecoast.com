@@ -19,7 +19,7 @@ seo:
 
 #### Coos Art Museum
 
-Founded by local artists in 1966, the Coos Art Museum is the third oldest art museum in Oregon and the only one on its coast. Housed in a 1936 art deco building it features seven galleries with up to 24 changing exhibitions annually and a Steve Prefontaine Memorial Room. The Museum’s permanent collection highlights contemporary fine art printmaking and artworks in all media by Pacific Northwest artists. {{< link url="http://www.coosart.org" >}}Visit the Coos Art Museum website for more information.{{< /link >}}
+Founded by local artists in 1966, the Coos Art Museum is the third oldest art museum in Oregon and the only one on its coast. Housed in a 1936 art deco building it features seven galleries with up to 24 changing exhibitions annually and a Steve Prefontaine Memorial Room. The Museum’s permanent collection highlights contemporary fine art printmaking and artworks in all media by Pacific Northwest artists. [Visit the Coos Art Museum website for more information.](http://www.coosart.org)
 
 {{< spacer >}}
 
