@@ -2,11 +2,19 @@
 _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
-- url: "/event/annual-holiday-lights-at-shore-acres"
-  video:
-    source: "/img/lights-slider.mov"
-    cover: "/img/holiday-lights-hm-slide-cover-2022.jpg"
-  photo_mobile: "/img/holiday-lights-mobile-slider-2022.jpg"
+  - url: /event/annual-holiday-lights-at-shore-acres
+    video:
+      source: /img/lights-slider.mov
+      cover: /img/holiday-lights-hm-slide-cover-2022.jpg
+    photo_mobile: /img/holiday-lights-mobile-slider-2022.jpg
+  - title:
+    photo: /img/fall-fishing-hm-slider-desktop.jpg
+    title_mobile:
+    photo_mobile:
+    url:
+    video:
+      cover:
+      source:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - img: /img/summer-2022-splash.jpg
@@ -78,6 +86,8 @@ seo:
     Travel to the Oregon Coast to experience a vacation full of adventure,
     nature, wildlife, shopping, arts, and more. Your adventure awaits\!
   title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
+  imgalt:
+  image:
 aliases:
   - /photo-gallery
   - /activities/category/geocaching
@@ -95,10 +105,6 @@ We welcome you to Oregon’s Adventure Coast, where the land meets the bay and t
 
 Water and outdoor activities abound on the Oregon Coast, from kayaking, scuba diving and surfing to world-class fishing, crabbing and clamming. Hit the sand in an ATV, hike winding trails, bike along the boardwalk, and run the same path as legend and local hero, Steve Prefontaine. Take a chance with Vegas-style gaming, catch a movie at the historic Egyptian Theatre, and make time to dine upon a hilltop. Your adventure awaits.
 
-&nbsp;
-
 [Butter](/event/annual-holiday-lights-at-shore-acres/)
-
-&nbsp;
 
 [![Test for this](/img/009-16-17721.jpg)](/calendar/)
