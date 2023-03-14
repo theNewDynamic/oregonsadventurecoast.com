@@ -10,11 +10,12 @@ property_description: Coastal rents recreational kayaks and stand up paddleboard
   in the Coos Bay area - see the full list of recommended waterways on their website!
   Single, tandem and fishing kayaks, SUPs, plus lifejackets and paddles. They will
   deliver and pick up equipment for an extra fee. They offer tours for groups as well.
+  All equipment is cleaned and sanitized between rentals.
 property_name: Coastal Kayak and SUP Rentals
 equip_type:
 - Equipment
-photo_name: ''
-photo_alt: ''
+photo_name: "/img/coastal-kayak.jpeg"
+photo_alt: Coastal Kayaks and SUP Rentals for waterways around Coos Bay!
 phone_local: 541-252-9201
 phone_toll_free: ''
 website: https://coastalkayakandsuprentalsllc.com/
@@ -26,6 +27,5 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-draft: true
 
 ---
