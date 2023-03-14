@@ -71,8 +71,8 @@ Tenmile Lakes is made up of two lakes (North and South) connected by a channel. 
 
 <div class="margin-50px-top"></div>
 
-![Waxer's Surf Shop](/img/waxer-surf-shop.jpg)
+![Rent kayaks and SUPs in Coos Bay!](/img/water-sport-equipment.jpeg)
 
 ## Equipment Rental
 
-Don't have your own kayak, paddleboard or surfboard? You can rent one and get some sage advice from our friends at [Waxer's Surf Shop](https://waxerssurfandskate.com/ "Waxer's Surf Shop") in downtown Coos Bay; [Bahama Boards ](https://bahamaboardz.com/ "Bahama Boards")in Coos Bay; and [South Coast Tours](https://www.facebook.com/southcoasttours/), renting on location at Sunset Bay State Park.
+Don't have your own kayak, paddleboard or surfboard? You can rent one and get some sage advice from our friends at [Waxer's Surf Shop](https://waxerssurfandskate.com/ "Waxer's Surf Shop") in downtown Coos Bay; [Bahama Boards ](https://bahamaboardz.com/ "Bahama Boards")in Coos Bay; and [Coastal Kayak & SUP Rentals](https://coastalkayakandsuprentalsllc.com/) in the Empire District of Coos Bay.
