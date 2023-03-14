@@ -1,33 +1,35 @@
 ---
+_schema: default
 title: A Girlfriends Getaway on Oregon's Adventure Coast!
-description: Take a long weekend & discover Oregon's Adventure Coast with your best
+draft: false
+description: >-
+  Take a long weekend & discover Oregon's Adventure Coast with your best
   friends.
-image: "/img/girlfriends-getaway-hdr-695x322.jpg"
+photo: /img/girlfriend-getaway-sub-pg-header.jpg
+image: /img/girlfriends-getaway-hdr-695x322.jpg
 towns:
-- coos-bay
-- north-bend
-- charleston
-tripadventures:
-- atving-motorsports
-- beach
-- culture-museums
-- eat-drink
-- scenic-drives
-- shopping
-- state-park-national-lands
+  - coos-bay
+  - north-bend
+  - charleston
 durations:
-- long-weekend
-photo: "/img/girlfriend-getaway-sub-pg-header.jpg"
+  - long-weekend
 aliases: []
-
+tripadventures:
+  - atving-motorsports
+  - beach
+  - culture-museums
+  - eat-drink
+  - scenic-drives
+  - shopping
+  - state-park-national-lands
 ---
-_A girlfriend’s getaway on Oregon’s Adventure Coast? Totally! One text to my girls and we were all in! We had such a great time exploring all Coos Bay, North Bend and Charleston had to offer…together._
+*A girlfriend’s getaway on Oregon’s Adventure Coast? Totally! One text to my girls and we were all in! We had such a great time exploring all Coos Bay, North Bend and Charleston had to offer…together.*
 
-{{< youtube "UGOlB26cMl8" >}}<br>
+{{< youtube id="UGOlB26cMl8" >}}
 
 #### And here’s the great trip we took
 
-We arrived midday on a Thursday and our first stop – the [Oregon Dunes National Recreation Area](/tripideas/oregon-dunes-national-recreation-area/).  We took a wild ride through the almost 500 foot tall sand dunes at the southern portion of the more than 40 miles of dunes that stretch from North Bend to Florence on Oregon’s beautiful south coast. With a choice of an experienced Tour Guide and driving ourselves, we decided to test our metal against the dunes. It was exhilarating to careen over hills of sand and we even got to ride along the ocean. Such a rush!
+We arrived midday on a Thursday and our first stop – the [Oregon Dunes National Recreation Area](/tripideas/oregon-dunes-national-recreation-area/). We took a wild ride through the almost 500 foot tall sand dunes at the southern portion of the more than 40 miles of dunes that stretch from North Bend to Florence on Oregon’s beautiful south coast. With a choice of an experienced Tour Guide and driving ourselves, we decided to test our metal against the dunes. It was exhilarating to careen over hills of sand and we even got to ride along the ocean. Such a rush!
 
 ![ATV'ing in the Oregon Dunes National Recreational Area](/img/dunes-three-images.jpg)
 
@@ -43,7 +45,7 @@ Friday dawned with gorgeous sunshine and a morning boat tour of the Bay with [Co
 
 ![Woodland yoga pose in Shore Acres State Park](/img/woodland-yoga-695w.jpg)
 
-We visited [Sunset Bay State Park](/state-parks-and-national-lands/) where we kayaked in the protected cove under a cloudless blue sky. Next we hiked through [Shore Acres State Park](/state-parks-and-national-lands/) along the amazing cliffs and into the surprising botanical gardens. As we trekked through the coastal forest, we discovered a zen-like area where we just had to stop and do a few yoga poses. It was so peaceful and quiet – until the sea lions and seals started barking! We couldn’t see them yet, but we could definitely hear them. We spied the Cape Arago Lighthouse _(unfortunately closed to the public now)_ and took some great, iconic photos to take home as a memory.
+We visited [Sunset Bay State Park](/state-parks-and-national-lands/) where we kayaked in the protected cove under a cloudless blue sky. Next we hiked through [Shore Acres State Park](/state-parks-and-national-lands/) along the amazing cliffs and into the surprising botanical gardens. As we trekked through the coastal forest, we discovered a zen-like area where we just had to stop and do a few yoga poses. It was so peaceful and quiet – until the sea lions and seals started barking! We couldn’t see them yet, but we could definitely hear them. We spied the Cape Arago Lighthouse *(unfortunately closed to the public now)* and took some great, iconic photos to take home as a memory.
 
 A quick drive along Cape Arago Loop took us to Simpson Reef Overlook where, with the aid of binoculars, we were finally able to see the colony of seals and sea lions and see what all the noise was about. We were surprised to find half the colony asleep while the other half put up such a cacophony we wondered how the sleepers could actually sleep!
 
@@ -59,7 +61,7 @@ Saturday we took time for ourselves. Having pastries and coffee for breakfast wa
 
 ![](/img/shopping-girlfriends-north-bend.jpg)
 
-Then it was shopping time! North Bend and Coos Bay have some [eclectic shops ](/shopping/)to choose from. There are few strip malls or big box stores here and we were happy to see that shops here are locally owned and carry a wide array of unique merchandise. Plus Antiques! There are quite a few interesting antique shops along Hwy 101 in both North Bend and Coos Bay. We found many great treasures to take home.
+Then it was shopping time! North Bend and Coos Bay have some [eclectic shops](/shopping/)to choose from. There are few strip malls or big box stores here and we were happy to see that shops here are locally owned and carry a wide array of unique merchandise. Plus Antiques! There are quite a few interesting antique shops along Hwy 101 in both North Bend and Coos Bay. We found many great treasures to take home.
 
 ![The Mill Casino resort hotel playing slots](/img/casino-slotmachine-03.jpg)
 

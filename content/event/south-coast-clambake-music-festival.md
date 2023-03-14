@@ -1,14 +1,6 @@
 ---
+_schema: default
 title: South Coast Clambake Music Festival  - BACK IN 2023!
-photo: "/img/clambake-music-fest-header-03.jpg"
-largeboxphoto: "/img/clambake-music-fest-large.jpg"
-mediumboxphoto: "/img/clambake-music-fest-medium-03.jpg"
-smallboxphoto: "/img/clambake-music-fest-small-02.jpg"
-desktoptitle: South Coast Clambake Music Fest - BACK IN 2023!
-mobiletitle: Clambake Music Fest - BACK IN 2023!
-hovertitle: Clambake Music Festival - BACK IN 2023!
-hoverdescription: The Clambake Music Festival features incredible music that ranges
-  from traditional jazz to 50’s rock!
 startdate: '2023-03-10'
 enddate: '2023-03-12'
 address:
@@ -17,18 +9,30 @@ address:
   street: The Mill Casino • Hotel & RV Park
   street2: 3201 Tremont Avenue
   zip: 97459
-phone_toll_free: ''
 phone_local: 541-267-7665
 website: https://clambakemusic.com/
+coordinates:
+  lat:
+  lng:
 seo:
   title: Clambake Music Festival
-  description: 'Polish up those dancin’ shoes and get ready for the exciting musical
-    extravaganza known as the South Coast Clambake Music Festival! The Clambake Music
-    Festival features incredible music that ranges from traditional jazz to 50’s rock,
-    including swing, doo-wop, blues, big band and Zydeco! '
+  description: >-
+    Polish up those dancin’ shoes and get ready for the exciting musical
+    extravaganza known as the South Coast Clambake Music Festival! The Clambake
+    Music Festival features incredible music that ranges from traditional jazz
+    to 50’s rock, including swing, doo-wop, blues, big band and Zydeco!
   imgalt: Rocking at the Clambake Music Festival
-  image: "/img/clambake-music-fest-medium-03.jpg"
-
+  image: /img/clambake-music-fest-medium-03.jpg
+desktoptitle: South Coast Clambake Music Fest - BACK IN 2023!
+mobiletitle: Clambake Music Fest - BACK IN 2023!
+hovertitle: Clambake Music Festival - BACK IN 2023!
+photo: /img/clambake-music-fest-header-03.jpg
+largeboxphoto: /img/clambake-music-fest-large.jpg
+mediumboxphoto: /img/clambake-music-fest-medium-03.jpg
+smallboxphoto: /img/clambake-music-fest-small-02.jpg
+hoverdescription: >-
+  The Clambake Music Festival features incredible music that ranges from
+  traditional jazz to 50’s rock!
 ---
 {{< floatimage src="/img/southcoast-clambake-music-fest-logo.jpg" float="right" alt="Annual South Coast Clambake Music Festival" size="100" >}}
 
