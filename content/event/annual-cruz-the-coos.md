@@ -1,16 +1,16 @@
 ---
 title: Annual Cruz The Coos
 photo: "/img/cruz-coos-2048x530.jpg"
-largeboxphoto: "/img/cruz-the-coos-large.jpg"
-mediumboxphoto: "/img/cruz-the-coos-medium.jpg"
-smallboxphoto: "/img/cruz-the-coos-small.jpg"
+largeboxphoto: "/img/cruz-1024x395.jpg"
+mediumboxphoto: "/img/cruz-667x355.jpg"
+smallboxphoto: "/img/cruz-340x214.jpg"
 desktoptitle: Annual Cruz The Coos
 mobiletitle: Cruz The Coos
 hovertitle: 'Cruz The Coos '
 hoverdescription: One of the longest-running and largest classic car cruises on the
   Oregon Coast
-startdate: '2022-09-17'
-enddate: '2022-09-17'
+startdate: '2023-09-16'
+enddate: '2023-09-16'
 address:
   city: Coos Bay
   state: OR
@@ -30,9 +30,9 @@ Cruz the Coos is one of the **longest-running and largest classic car cruises** 
 
 {{< spacer 25 >}}
 
-#### Saturday, September 17 Schedule
+#### Saturday, September 16 Schedule
 
-**9am - 2pm - Show 'n Shine**   
+**9am - 2pm - Show 'n Shine**  
 The Mill Casino Parking Lot  
 _Can Still sign up that morning between 7:30am-9am_
 
