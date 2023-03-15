@@ -5,9 +5,9 @@ address:
   street2: 92799 Trans Pacific Parkway
   city: North Bend
   zip: '97459'
-title: UTV TakeOver 2022
-startdate: '2022-06-22'
-enddate: '2022-06-26'
+title: UTV TakeOver 2023
+startdate: '2023-06-21'
+enddate: '2023-06-25'
 phone_local: ''
 phone_toll_free: ''
 website: https://www.utvtakeover.com/coos-bay-or/
@@ -31,9 +31,9 @@ smallboxphoto: "/img/dunes-event-small.jpg"
 aliases: []
 
 ---
-**Every year, thousands of UTV enthusiasts from around the country participate in the largest community riding event of the year in Coos Bay/North Bend. This year's events are scheduled for June 22-26, 2022.**
+**Every year, thousands of UTV enthusiasts from around the country participate in the largest community riding event of the year in Coos Bay/North Bend. This year's events are scheduled for June 21-25, 2023.**
 
-![](/img/dunes-event-utv-logo-695.jpg)
+![](/img/utv-takeover-2023-tour-logo-500px.png)
 
 The [**Oregon Dunes National Recreation Area**](/untamed-dunes/)**,** which terminates in North Bend, is an amazing experience to ride and camp! [**Boxcar Hill Campground**](https://boxcarhilloregon.com/) hosts this thrilling event and is the gateway to some of the most approachable dune riding for any skill level. Surrounding campgrounds and VIP sand camping make this an all-around unforgettable experience!
 
