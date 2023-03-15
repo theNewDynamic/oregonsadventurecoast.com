@@ -15,7 +15,7 @@ accordion_sections: []
 
 **Forest bathing, also known as Shinrin-yoku, is the practice of immersing oneself in nature to improve physical and mental health.** It involves spending time in forests, parks, or other natural environments and using all five senses to connect with nature. The idea is to slow down, relax, and be mindful of the present moment.
 
-**Coos Bay, North Bend & Charleston**, on the Southern Oregon coast, offers a variety of natural landscapes for forest bathing, including dunes, wetlands, and forests. The surrounding areas are rich in flora and fauna, providing ample opportunities to connect with nature and practice forest bathing.
+**Coos Bay, North Bend & Charleston**, on the Southern Oregon coast, offers a variety of natural landscapes for forest bathing, or forest therapy as it is also known, including dunes, wetlands, and forests. The surrounding areas are rich in flora and fauna, providing ample opportunities to connect with nature and practice forest bathing.
 
 Some popular places for forest bathing on **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston** include the coastal forest trail along the cliffs between [Sunset Bay State Park](/state-parks-and-national-lands/) and [Cape Arago State Park](/state-parks-and-national-lands/), the cliffside at [Shore Acres State Park](/state-parks-and-national-lands/), Yoakam Point, [Horsfall Beach](/undeveloped-beaches) adjacent to the [Oregon Dunes National Recreation Area](/state-parks-and-national-lands/), [Golden & Silver Falls State Natural area](/state-parks-and-national-lands/), Mingus Park and Simpson Park.
 
@@ -31,7 +31,7 @@ Additionally, the scenic beauty of our area offers a chance to practice mindfuln
 
 ## Massage, Yoga and More
 
-Add to your experience when you go Forest Bathing with [Mossy Lotus Yoga Studio](https://mossylotus.com/) for an immersion into the quiet contemplation of the forest. Take a yoga class at one of our many yoga studios. Get a massage, infusion, or other relaxing service at one of our two Day Spas – [Beautiful You Medi Spa](https://www.beautifulyou-pnw.com/) and [Hair Co. Etc - Salon & Day Spa](https://haircoetc.net/).
+Add to your experience when you go Forest Bathing with [Mossy Lotus Yoga Studio](https://mossyyoga.com/) for an immersion into the quiet contemplation of the forest. Take a yoga class at one of our many yoga studios. Get a massage, infusion, or other relaxing service at one of our two Day Spas – [Beautiful You Medi Spa](https://www.beautifulyou-pnw.com/) and [Hair Co. Etc - Salon & Day Spa](https://haircoetc.net/).
 
 ## Healthy Eats
 
@@ -99,7 +99,7 @@ divider
 158 Market Avenue  
 Coos Bay, OR 97420  
 (541) 217-0400  
-[mossylotus.com](https://mossylotus.com/ "https://mossylotus.com/")
+[www.mossyyoga.com](https://mossyyoga.com/)
 
 With over 20 years of combined experience as field biologists and 30+ years practicing yoga, Daniel and Sailee have both spent thousands of hours in heartfelt connection with Mother Nature and learning and teaching the full practices of yoga to all levels of students. This land, this rugged, wild earth is their inspiration. It is their passion for living in balance with nature that drives them.
 
