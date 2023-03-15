@@ -1,7 +1,7 @@
 ---
 title: 'IN A LANDSCAPE: Classical Music in the Wild'
-startdate: '2022-08-23'
-enddate: '2022-08-25'
+startdate: '2023-09-07'
+enddate: '2023-09-08'
 address:
   street: 'Shore Acres State Park '
   street2: 89039 Cape Arago Hwy
@@ -25,21 +25,21 @@ hovertitle: Classical Music in the Wild
 hoverdescription: Join classical pianist Hunter Noack for a special 3 night concert
   series at Shore Acres!
 photo: "/img/inalandscape-2048x530.jpg"
-largeboxphoto: "/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg"
-mediumboxphoto: "/img/hunter-noak-at-sunset-667x355.jpg"
+largeboxphoto: "/img/landscape1024x395.jpg"
+mediumboxphoto: "/img/landscape-667x395.jpg"
 smallboxphoto: "/img/ial-joey-hamilton-340x214.jpg"
 aliases: []
 
 ---
 ### IN A LANDSCAPE: Classical Music in the Wild™
 
-#### AT SHORE ACRES STATE PARK - August 23, 24, 25 at 6:00pm
+#### AT SHORE ACRES STATE PARK - September 7 & 8 at 6:00pm
 
-###### ![Hunter Noack, classical pianist plays concerts "in the wild". Photo credit: Ed Schmidt](/img/ial-at-playa-ed-schmidt-1024x395-copy.jpg "Photo courtesy of IN A LANDSCAPE. Photo by Ed Schmidt")
+###### ![](/img/p1320602.jpg)
 
 ###### {{< spacer 25 >}}
 
-Founded in 2016 by classical pianist Hunter Noack, **IN A LANDSCAPE: Classical Music in the Wild** is an outdoor concert series where America’s most stunning landscapes replace the traditional concert hall. We bring a 9-foot Steinway grand piano on a flatbed trailer to National Parks, urban greenspaces, working ranches, farms, and historical sites for classical music concerts that connect people with each landscape.
+Founded in 2016 by classical pianist Hunter Noack, [**IN A LANDSCAPE: Classical Music in the Wild**](https://www.inalandscape.org/) is an outdoor concert series where America’s most stunning landscapes replace the traditional concert hall. In a Landscape brings a 9-foot Steinway grand piano on a flatbed trailer to National Parks, urban greenspaces, working ranches, farms, and historical sites for classical music concerts that connect people with each landscape.
 
 To meet the acoustical challenges of performing in the wild, **music is transmitted to concert-goers via wireless headphones**. No longer confined to seats, you can explore the landscape, wander through the Shore Acres garden, lie in sunny meadows, and roam along the rugged cliffs.
 
@@ -73,13 +73,11 @@ __Good Neighbor Tickets: Free **__
 
 _** Thanks to the sponsorship of Oregon Parks & Recreation Department's Park Explorer program, a number of FREE tickets are available at this concert through IN A LANDSCAPE'S Good Neighbor Program*._ [_To see if you qualify, click here._](https://docs.google.com/forms/d/e/1FAIpQLSd0B9Atay9bgSwMOVlcUCNjNVL50_If3mzO9D83GdTTV62IWQ/viewform) _One free Good Neighbor Ticket per order. ID and/or EBT card required at check-in with all Good Neighbor tickets. Click on “Tickets” above for more details._
 
-#### CLICK THE LINKS BELOW TO PURCHASE TICKETS FOR THE SHORE ACRES CONCERTS - _Tickets On Sale beginning April 6th_
+#### CLICK THE LINKS BELOW TO PURCHASE TICKETS FOR THE SHORE ACRES CONCERTS - _Tickets On Sale beginning March 30th!_
 
-[**Tue, Aug 23, 6:00 PM**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-tue-823-tickets-311629140147?aff=ebdsoporgprofile) **(Sold Out)**
+Thursday, September 7th (ticket link coming soon)
 
-[**Wed, Aug 24, 6:00 PM**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-wed-824-tickets-311631266507?aff=ebdsoporgprofile) **(Sold Out)**
-
-[**Thu, Aug 25, 6:00 PM**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-600pm-thu-825-tickets-311632600497?aff=ebdsoporgprofile)
+Friday, September 8th (ticket link coming soon)
 
 If you need assistance in purchasing tickets, email our ticketing office at [tickets@inalandscape.org](mailto:tickets@inalandscape.org)
 
@@ -89,7 +87,7 @@ If you need assistance in purchasing tickets, email our ticketing office at [tic
 
 #### **HEADPHONES**
 
-The use of our custom **IN A LANDSCAPE headphones** is included in your ticket price. Pick up your reserved set at our registration desk and enjoy this unique audio experience.
+The use of the custom **IN A LANDSCAPE headphones** is included in your ticket price. Pick up your reserved set at the registration desk and enjoy this unique audio experience.
 
 {{< spacer 25 >}}
 
@@ -99,7 +97,7 @@ No chairs will be provided. We recommend bringing low-back chairs, in considerat
 
 {{< spacer 25 >}}
 
-**_Photography used in this Event Listing are Courtesty of IN A LANDSCAPE and Credited to: Zach Lewis, Cameron Edens, Ed Schmidt, and Joey Hamilton._**
+**_Some photography used in this Event Listing are Courtesty of IN A LANDSCAPE and Credited to: Zach Lewis, Cameron Edens, Ed Schmidt, and Joey Hamilton._**
 
 {{< spacer 50 >}}
 
@@ -112,11 +110,11 @@ Shore Acres State Park** sits high on the cliffs overlooking the Pacific Ocean, 
 
 **ARRIVAL -** We suggest arriving up to 45 minutes prior to concert time in order to park, reach the site, check-in, get your headphones and get cozy before the concert starts.
 
-**PETS -** No animals are permitted in the formal gardens, except for service animals. You are responsible for picking up after your pet.
+**PETS -** No animals are permitted in Shore Acres, except for service animals. 
 
 **FOOD & DRINK** - Outside food/drink is permitted. Bring a picnic and enjoy the beautiful setting while you dine!
 
-**RESTROOMS** - Restrooms will be available on site.
+**RESTROOMS** - Restrooms are available on site.
 
 **SMOKING -** Smoking is prohibited at all times. **FIRE DANGER IS VERY REAL**, and we acknowledge this with the utmost seriousness. Help us keep the area safe!
 
@@ -128,4 +126,4 @@ Shore Acres State Park** sits high on the cliffs overlooking the Pacific Ocean, 
 
 **COVID SAFETY -** IN A LANDSCAPE will follow all current local, county, and state protocols.
 
-**MERCHANDISE** - We will have new merchandise available at our concerts this year, where permitted. And while we do not want to spoil all the surprise, we can tell you that Hunter Noack’s latest album “In A Landscape” will be available in CD, MP3, or for Vinyl (preorder) at our summer concert series. Preorders available now with your ticket purchase.
+**MERCHANDISE** - We will have new merchandise available at our concerts this year, where permitted. 
