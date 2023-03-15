@@ -67,7 +67,7 @@ Once the grand estate of timber baron Louis J. Simpson, Shore Acres features a *
 
 #### TICKET PRICES:
 
-**General Admission Tickets: $35**
+**General Admission Tickets: $40**
 
 __Good Neighbor Tickets: Free **__
 
@@ -110,7 +110,7 @@ Shore Acres State Park** sits high on the cliffs overlooking the Pacific Ocean, 
 
 **ARRIVAL -** We suggest arriving up to 45 minutes prior to concert time in order to park, reach the site, check-in, get your headphones and get cozy before the concert starts.
 
-**PETS -** No animals are permitted in Shore Acres, except for service animals. 
+**PETS -** No animals are permitted in Shore Acres, except for service animals.
 
 **FOOD & DRINK** - Outside food/drink is permitted. Bring a picnic and enjoy the beautiful setting while you dine!
 
@@ -126,4 +126,4 @@ Shore Acres State Park** sits high on the cliffs overlooking the Pacific Ocean, 
 
 **COVID SAFETY -** IN A LANDSCAPE will follow all current local, county, and state protocols.
 
-**MERCHANDISE** - We will have new merchandise available at our concerts this year, where permitted. 
+**MERCHANDISE** - We will have new merchandise available at our concerts this year, where permitted.
