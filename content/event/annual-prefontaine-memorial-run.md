@@ -50,6 +50,8 @@ The corner of 4th & Anderson in downtown Coos Bay
 
 Part of the annual Bay Area Fun Fest, September 16-178, 2023.
 
+{{< spacer 50 >}}
+
 #### Here are the other exciting events happening this weekend!
 
 ***

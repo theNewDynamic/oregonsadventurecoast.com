@@ -57,6 +57,8 @@ While you’re in the area, enjoy the **Bay Area Fun Festival**, one of the larg
 
 #### HERE ARE THE OTHER EXCITING EVENTS HAPPENING THIS WEEKEND!
 
+***
+
 {{< columns number="2" >}}
 
 [![Annual Bay Area Fun Festival](/img/bay-area-fun-fest-column-01.jpg)](/event/annual-bay-area-fun-festival)
