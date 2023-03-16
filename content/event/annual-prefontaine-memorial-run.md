@@ -56,7 +56,7 @@ Part of the annual Bay Area Fun Fest, September 16-178, 2023.
 
 {{< columns number="2" >}}
 
-[![Annual Bay Area Fun Festival](/img/bay-area-fun-fest-column-01.jpg)](/event/annual-bay-area-fun-festival-2020/)
+[![Annual Bay Area Fun Festival](/img/bay-area-fun-fest-column-01.jpg)](/event/annual-bay-area-fun-festival)
 
 divider
 
