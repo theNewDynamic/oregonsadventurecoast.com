@@ -39,6 +39,7 @@ fields:
     - Sporting Goods
     - Vitamins
     - Liquor Stores/ Growler Fills
+    - Wellness
   label: Category
   name: property_category
 - type: include

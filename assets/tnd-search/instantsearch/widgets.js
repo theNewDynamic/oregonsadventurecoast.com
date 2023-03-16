@@ -158,6 +158,7 @@ const facets = {
     'Specialty Foods',
     'Sporting Goods',
     'Vitamins',
+    'Wellness',
   ].map(labelizeFacet),
   'amenities': [
     {label: 'Restaurant/Bar/Rm Service', id: 'restaurant'},
