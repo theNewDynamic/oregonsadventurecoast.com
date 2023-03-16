@@ -59,10 +59,10 @@ While you’re in the area, enjoy the **Bay Area Fun Festival**, one of the larg
 
 {{< columns number="2" >}}
 
-[![Annual Bay Area Fun Festival](/img/bay-area-fun-festival-column.jpg)](/event/annual-bay-area-fun-festival-2020/)
+[![Annual Bay Area Fun Festival](/img/bay-area-fun-fest-column-01.jpg)](/event/annual-bay-area-fun-festival)
 
 divider
 
-[![Annual Prefontaine Memorial Run](/img/prefontaine-run-column.jpg)](/event/annual-prefontaine-memorial-run/)
+[![Annual Cruz the Coos](/img/prefontaine-run-columns-03.jpg)](/event/annual-prefontaine-memorial-run/)
 
 {{< /columns >}}
