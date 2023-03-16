@@ -56,6 +56,10 @@ Top boy and girl finishers will be recognized. Medals will be awarded to the top
 
 [Download Registration Form](https://www.great-futures.org/_files/ugd/30afe1_e54aaa1432e447cb868e3a49eaabb820.pdf)
 
+{{< spacer 50 >}}
+
+#### HERE ARE THE OTHER EXCITING EVENTS HAPPENING THIS WEEKEND!
+
 ***
 
 {{< columns number="2" >}}
@@ -64,4 +68,3 @@ Top boy and girl finishers will be recognized. Medals will be awarded to the top
 divider
 [![Prefontaine Memorial Run](/img/prefontaine-run-columns-03.jpg)](/event/annual-prefontaine-memorial-run/)
 {{< /columns >}}
-

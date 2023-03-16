@@ -53,9 +53,9 @@ While you’re in the area, enjoy the **Bay Area Fun Festival**, one of the larg
 
 [![Register Early for Cruz the Coos this year](/img/register-early-banner-07-22-v02.jpg)](https://cruzthecoos.com/registration)
 
-#### 
+{{< spacer 50 >}}
 
-***
+#### HERE ARE THE OTHER EXCITING EVENTS HAPPENING THIS WEEKEND!
 
 {{< columns number="2" >}}
 
