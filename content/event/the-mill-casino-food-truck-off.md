@@ -8,8 +8,8 @@ desktoptitle: Mill Casino Food Truck Off
 mobiletitle: Mill Food Trucks
 hovertitle: Mill Food Trucks
 hoverdescription: Food trucks, live music and more!
-startdate: '2022-08-05'
-enddate: '2022-08-07'
+startdate: '2023-08-04'
+enddate: '2023-08-06'
 address:
   city: North Bend
   state: OR
@@ -33,37 +33,17 @@ This three-day event will feature up to **20 food trucks from the Pacific Northw
 
 {{< spacer 50 >}}
 
-#### SCHEDULE:
+#### SCHEDULE: 
 
-**Friday, August 5, 2022 - 4 PM – 8 PM  
-Saturday, August 6, 2022 - 11 AM – 6 PM  
-Sunday, August 7, 2022 - 12 PM – 4 PM**
-
-{{< spacer 50 >}}
-
-#### ENTRANCE FEES:
-
-Tickets on sale July 15, 2022 in Ko-Kwel Gifts and will be available at the Gate
-
-**$5 general admission per day** (a portion of the entry fee will benefit the Boys & Girls Club of Southwestern Oregon)  
-Kids 5 and under are Free!
+**Friday, August 4, 2023 - 4 PM – 8 PM  
+Saturday, August 5, 2023 - 11 AM – 6 PM  
+Sunday, August 6, 2023 - 12 PM – 4 PM**
 
 {{< spacer 50 >}}
 
-#### ENTERTAINMENT:
+#### MORE INFORMATION COMING SOON!
 
-**Friday, August 5, 2022**    
-4:00 PM - 8:00 PM: Rekless Kompany
-
-**Saturday, August 6, 2022**    
-11:00 AM - 2:30 PM: Adam Gabriel & the Cavaliers  
-2:45 PM - 6:00 PM: The KOZ
-
-**Sunday, August 7, 2022**    
-12:00 PM - 2:00 PM: The KOZ  
-2:00 PM - 4:00 PM: CRBQ
-
-{{< spacer 50 >}}
+#### {{< spacer 50 >}}
 
 #### [Book your stay now!](/lodging/)
 
