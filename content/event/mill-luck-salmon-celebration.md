@@ -9,7 +9,7 @@ mobiletitle: Salmon Celebration
 hovertitle: Salmon Celebration
 hoverdescription: Salmon Celebration is a celebration of Native American and Coquille
   Tribal culture.
-startdate: '2023-09-9'
+startdate: '2023-09-09'
 enddate: '2023-09-10'
 address:
   city: North Bend
