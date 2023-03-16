@@ -56,10 +56,10 @@ Part of the annual Bay Area Fun Fest, September 16-178, 2023.
 
 {{< columns number="2" >}}
 
-[![Annual Bay Area Fun Festival](/img/bay-area-fun-festival-column.jpg)](/event/annual-bay-area-fun-festival-2020/)
+[![Annual Bay Area Fun Festival](/img/bay-area-fun-fest-column-01.jpg)](/event/annual-bay-area-fun-festival-2020/)
 
 divider
 
-[![Annual Cruz the Coos](/img/cruz-the-coos-column.jpg)](/event/annual-cruz-the-coos/)
+[![Annual Cruz the Coos](/img/cruz-the-coos-columns-02.jpg)](/event/annual-cruz-the-coos/)
 
 {{< /columns >}}
