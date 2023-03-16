@@ -63,6 +63,6 @@ While you’re in the area, enjoy the **Bay Area Fun Festival**, one of the larg
 
 divider
 
-[![Annual Cruz the Coos](/img/prefontaine-run-columns-03.jpg)](/event/annual-prefontaine-memorial-run/)
+[![Prefontaine Memorial Run](/img/prefontaine-run-columns-03.jpg)](/event/annual-prefontaine-memorial-run/)
 
 {{< /columns >}}

@@ -60,10 +60,8 @@ Top boy and girl finishers will be recognized. Medals will be awarded to the top
 
 {{< columns number="2" >}}
 
-[![Annual Cruz the Coos](/img/cruz-the-coos-column.jpg)](/event/annual-cruz-the-coos/)
-
+[![Annual Cruz the Coos](/img/cruz-the-coos-columns-02.jpg)](/event/annual-cruz-the-coos/)
 divider
-
-[![Annual Prefontaine Memorial Run](/img/prefontaine-run-column.jpg)](/event/annual-prefontaine-memorial-run/)
-
+[![Prefontaine Memorial Run](/img/prefontaine-run-columns-03.jpg)](/event/annual-prefontaine-memorial-run/)
 {{< /columns >}}
+
