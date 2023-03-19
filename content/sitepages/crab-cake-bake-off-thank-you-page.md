@@ -1,6 +1,6 @@
 ---
-title: Crab Cake Bake-Off Thank You Page
-url: crab-cake-bake-off-form
+title: Thank You for Entering Our Contest!
+url: crab-cake-thank-you
 layout: contact
 photo: "/img/crab-cake-subpage-header-02.jpg"
 ctas: []
@@ -12,11 +12,6 @@ seo:
 aliases: []
 accordion_sections: []
 boxes: []
-draft: true
 
 ---
-![crab cake bake off piece of cake and baking utensils](/img/crab-cake-bake-collage-02.jpg)
-
-Claw-some Crab Cake Bake-Off Text and information. Paragrap
-
-<script type="text/javascript" src="https://form.jotform.com/jsform/230595150201040"></script>
+Winners will be announced in June 2023 and prizes will be distributed shortly thereafter. First Prize Winners have one year in which to take their trip to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. Good luck!!
