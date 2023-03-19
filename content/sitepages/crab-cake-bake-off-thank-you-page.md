@@ -16,4 +16,4 @@ boxes: []
 ---
 ![](/img/thankyou-graphic-icon.png)
 
-Winners will be announced in June 2023 and prizes will be distributed shortly thereafter. First Prize Winners have one year in which to take their trip to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. Good luck!!
+Winners will be announced in June 2023 and prizes will be distributed shortly thereafter. First Prize Winners have one year in which to take their trip to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. **_Good luck!!_**
