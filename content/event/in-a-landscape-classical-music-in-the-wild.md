@@ -35,6 +35,8 @@ aliases: []
 
 #### AT SHORE ACRES STATE PARK - September 7 & 8 at 6:00pm
 
+**_Tickets on sale now - See links below!_**
+
 ###### ![](/img/p1320602.jpg)
 
 ###### {{< spacer 25 >}}
@@ -73,11 +75,11 @@ __Good Neighbor Tickets: Free **__
 
 _** Thanks to the sponsorship of Oregon Parks & Recreation Department's Park Explorer program, a number of FREE tickets are available at this concert through IN A LANDSCAPE'S Good Neighbor Program*._ [_To see if you qualify, click here._](https://docs.google.com/forms/d/e/1FAIpQLSd0B9Atay9bgSwMOVlcUCNjNVL50_If3mzO9D83GdTTV62IWQ/viewform) _One free Good Neighbor Ticket per order. ID and/or EBT card required at check-in with all Good Neighbor tickets. Click on “Tickets” above for more details._
 
-#### CLICK THE LINKS BELOW TO PURCHASE TICKETS FOR THE SHORE ACRES CONCERTS - _Tickets On Sale beginning March 30th!_
+#### CLICK THE LINKS BELOW TO PURCHASE TICKETS FOR THE SHORE ACRES CONCERTS - _Tickets On Sale NOW!_
 
-Thursday, September 7th (ticket link coming soon)
+[**Thursday, September 7th**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-tickets-558063572167?aff=ebdsoporgprofile)
 
-Friday, September 8th (ticket link coming soon)
+[**Friday, September 8th**]() 
 
 If you need assistance in purchasing tickets, email our ticketing office at [tickets@inalandscape.org](mailto:tickets@inalandscape.org)
 
