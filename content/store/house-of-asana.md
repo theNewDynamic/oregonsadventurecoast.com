@@ -13,9 +13,10 @@ property_description: "Coos Bay's premier yoga and fitness studio. Here you will
 photo_name: ''
 photo_alt: photo of class in yoga pose
 property_category:
+- Wellness
 - Personal services
 - Fitness
-phone_local: 541-8085-2911
+phone_local: 541-808-2911
 phone_toll_free: ''
 website: https://www.houseofasana.com/
 coordinates:

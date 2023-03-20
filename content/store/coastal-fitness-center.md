@@ -11,6 +11,7 @@ property_description: Full facility fitness center. 24-hour memberships availabl
 photo_name: "/img/coastal-fitness.jpg"
 photo_alt: Coastal Fitness Center logo
 property_category:
+- Wellness
 - Fitness
 phone_local: 541-267-3363
 phone_toll_free: ''
