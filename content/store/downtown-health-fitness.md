@@ -12,6 +12,7 @@ property_description: Full service gym offering personal training, group fitness
 photo_name: "/img/downtown-fitness.jpg"
 photo_alt: welcoming front desk at downtown health & fitness
 property_category:
+- Wellness
 - Fitness
 phone_local: 541-267-3948
 phone_toll_free: ''
