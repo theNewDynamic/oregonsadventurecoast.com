@@ -26,6 +26,10 @@ A rolling and challenging course, this 10K road race honors one of America’s g
 
 {{< spacer 25 >}}
 
+#### [**REGISTRATION NOW AVAILABLE**](https://prefontainerun.net/race-details/)
+
+{{< spacer 25 >}}
+
 #### Starting Line:
 
 The corner of 4th & Anderson in downtown Coos Bay
@@ -46,9 +50,9 @@ The corner of 4th & Anderson in downtown Coos Bay
 * The Coos Art Museum, Prefontaine Gallery holds the permanent collection of Steve’s awards and memorabilia, as well as numerous photographs highlighting his illustrious running career. The Gallery also features a bronze sculpture of Pre that was gifted to the Prefontaine Foundation by Bonnye Keller Hall, former wife of the late Eugene, OR mayor Gus Keller. The sculpture was commissioned by the City of Eugene as a gift to outgoing mayor Gus Keller in recognition of his eight years of service as mayor.
 * The Pre Mural in downtown Coos Bay across from Restaurant O, depicts three significant stages of Pre’s illustrious running career: as a national record-setting Marshfield High School runner, his ascent as a collegiate athlete at the University of Oregon, and his post-collegiate years highlighted by his scintillating performance in the 1972 Olympics in Munich, Germany.
 
-#### [Registration Now Available]()
+{{< spacer 25 >}}
 
-Part of the annual Bay Area Fun Fest, September 16-178, 2023.
+**Part of the annual Bay Area Fun Fest, September 16-178, 2023.**
 
 {{< spacer 50 >}}
 
