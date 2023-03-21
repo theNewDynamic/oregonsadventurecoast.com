@@ -15,7 +15,7 @@ address:
   state: OR
   street: 235 Anderson Avenue
   zip: 97420
-website: http://www.prefontainerun.com
+website: https://prefontainerun.net/
 
 ---
 ![](/img/prerun-legs-1024x395.jpg)
@@ -46,7 +46,7 @@ The corner of 4th & Anderson in downtown Coos Bay
 * The Coos Art Museum, Prefontaine Gallery holds the permanent collection of Steve’s awards and memorabilia, as well as numerous photographs highlighting his illustrious running career. The Gallery also features a bronze sculpture of Pre that was gifted to the Prefontaine Foundation by Bonnye Keller Hall, former wife of the late Eugene, OR mayor Gus Keller. The sculpture was commissioned by the City of Eugene as a gift to outgoing mayor Gus Keller in recognition of his eight years of service as mayor.
 * The Pre Mural in downtown Coos Bay across from Restaurant O, depicts three significant stages of Pre’s illustrious running career: as a national record-setting Marshfield High School runner, his ascent as a collegiate athlete at the University of Oregon, and his post-collegiate years highlighted by his scintillating performance in the 1972 Olympics in Munich, Germany.
 
-#### Registration Available Soon
+#### [Registration Now Available]()
 
 Part of the annual Bay Area Fun Fest, September 16-178, 2023.
 
