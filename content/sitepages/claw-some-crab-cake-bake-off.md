@@ -14,9 +14,9 @@ accordion_sections: []
 boxes: []
 
 ---
-![Claw-some Crab Cake Bake-Off](/img/logo-crab-cake-one.jpg)
+![](/img/crab-cake-bake-collage-02.jpg)
 
-### GENERAL INFORMATION
+### {{< floatimage src="img/crab-cake-logo-400px.jpg" float="right" alt="Claw-some Crab Cake Bake-Off Logo" size="100" >}}GENERAL INFORMATION
 
 This is a cake baking contest. A Cake is an item made with flour, eggs, flavorings and topped with an icing of some sort. These could be cupcakes as well as any size cake. This is not a CRAB dish but a bakery item.
 
@@ -27,8 +27,6 @@ Any and all people are welcome to enter the bake off! Kids and Adults of any age
 Contestants may work individually or with a team. _(Prizes will be awarded to 1 member per team only, NOT each individual.)_
 
 ### <a href="/crab-cake-bake-off-form" class="learn-more-anywhere-btn">ENTER CONTEST</a>
-
-![](/img/crab-cake-bake-collage-02.jpg)
 
 ### WHAT ARE THE CATEGORIES?
 
@@ -42,7 +40,7 @@ Contestants may work individually or with a team. _(Prizes will be awarded to 1 
 * In Training (such as culinary schools)
 * On the Job _(those working professionally in a bakery, restaurant, school or other facility)_
 
-JUDGING CRITERIA
+### JUDGING CRITERIA
 
 We will be looking for the most creative interpretation of incorporating crab imagery, coastal style, and overall creativity in use of theme.
 
