@@ -14,7 +14,7 @@ accordion_sections: []
 boxes: []
 
 ---
-![crab cake bake off piece of cake and baking utensils](/img/crab-cake-bake-collage-02.jpg)
+![](/img/gwen-cake-cut.jpg)
 
 Claw-some Crab Cake Bake-Off Text and information. Paragrap
 
