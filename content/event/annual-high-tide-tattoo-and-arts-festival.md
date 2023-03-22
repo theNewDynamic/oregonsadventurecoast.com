@@ -72,10 +72,10 @@ For tickets and up-to-date artist info visit: [themillcasino.com/tattoo](http://
 
 **_INCLUDING SOME OF THE TOP TATTOO ARTISTS AROUND_**
 
-[Mat Valles](https://www.instagram.com/vallestattoo) _(Former Ink Master contender)  
-_[Brandon Davenport](https://www.facebook.com/brandon.davenport.902) _(Multi award-winning artist)  
-_[Bony Tony](https://www.instagram.com/bonytony666) _(Multi award-winning artist)  
-_[Ricky Perez](https://www.instagram.com/tattzbyrick817/) _(Multi award-winning artist)_
+[Mat Valles](https://www.instagram.com/vallestattoo) _(Former Ink Master contender)_  
+[Brandon Davenport](https://www.facebook.com/brandon.davenport.902) _(Multi award-winning artist)_  
+[Bony Tony](https://www.instagram.com/bonytony666) _(Multi award-winning artist)_  
+[Ricky Perez](https://www.instagram.com/tattzbyrick817/) _(Multi award-winning artist)_
 
 Carlos Lemon, Dustin Mathis, A.J. Jamrose, James Mullin, Chad Hayden, Jamy Carlton, Thomas Sweet, Oregon City Tattoos, Legacy Ink, 11:11 Tattoo, Old School Tattoo
 
