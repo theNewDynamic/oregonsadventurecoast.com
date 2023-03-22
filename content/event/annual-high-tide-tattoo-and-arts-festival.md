@@ -19,9 +19,9 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-desktoptitle: High Tide Tattoo and Arts Festival
+desktoptitle: High Tide Tattoo & Arts Festival
 mobiletitle: Tattoo and Arts Festival
-hovertitle: Tattoo and Arts Festival
+hovertitle: High Tide Tattoo & Arts Festival
 hoverdescription: Bringing you the top tattoo artists from around the country for
   a weekend of great art!
 photo: "/img/tattoo-event-page-header-2048x530.jpg"
