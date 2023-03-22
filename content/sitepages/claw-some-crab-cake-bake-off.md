@@ -14,7 +14,7 @@ accordion_sections: []
 boxes: []
 
 ---
-![Crab Cake Bake-Off Sample Cake](/img/gwen-cake-two-version-01.jpg)
+![Crab Cake Bake-Off Sample Cake showing undersea creatures](/img/gwen-cake-two-version-01.jpg)
 
 ### {{< floatimage src="img/crab-cake-logo-400px.jpg" float="right" alt="Claw-some Crab Cake Bake-Off Logo" size="100" >}}GENERAL INFORMATION
 
@@ -28,7 +28,7 @@ Contestants may work individually or with a team. _(Prizes will be awarded to 1 
 
 ### <a href="/crab-cake-bake-off-form" class="learn-more-anywhere-btn">ENTER CONTEST</a>
 
-![](/img/crab-cake-cheryle-photos-02.jpg)
+![Under sea theme of crab cake showing crabs on ocean floor](/img/crab-cake-cheryle-photos-02.jpg)
 
 ### WHAT ARE THE CATEGORIES?
 
@@ -63,7 +63,7 @@ Appearance and creativity are paramount, but understanding the ingredients used 
 
 **Second & Third Place** winners in each category will receive a goodie basket of Oregon’s Adventure Coast products.
 
-![](/img/crab-cake-bake-collage-02.jpg)
+![Claw-some Crab Cake Bake-Off Example cake in the shape of a red cartoon crab](/img/crab-cake-bake-collage-02.jpg)
 
 ### WHEN WILL WINNERS BE ANNOUNCED
 
