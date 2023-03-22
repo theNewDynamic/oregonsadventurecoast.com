@@ -25,7 +25,7 @@ hovertitle: Tattoo and Arts Festival on the Oregon Coast!
 hoverdescription: Tattoo and Arts Festival on the Oregon Coast!
 photo: "/img/tattoo-event-page-header-2048x530.jpg"
 largeboxphoto: "/img/tattoo-event-header-larger.jpg"
-mediumboxphoto: "/img/highide-tattoo-667x328.jpg"
+mediumboxphoto: "/img/tattoo-event-header-medium.jpg"
 smallboxphoto: "/img/tattoo-event-header-small.jpg"
 aliases: []
 
