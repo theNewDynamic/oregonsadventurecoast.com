@@ -23,10 +23,10 @@ desktoptitle: Tattoo and Arts Festival on the Oregon Coast!
 mobiletitle: Tattoo and Arts Festival on the Oregon Coast!
 hovertitle: Tattoo and Arts Festival on the Oregon Coast!
 hoverdescription: Tattoo and Arts Festival on the Oregon Coast!
-photo: "/img/tattoo-artist-2048x530.jpg"
-largeboxphoto: "/img/highide-tattoo-1024x395.jpg"
+photo: "/img/tattoo-event-page-header-2048x530.jpg"
+largeboxphoto: "/img/tattoo-event-header-larger.jpg"
 mediumboxphoto: "/img/highide-tattoo-667x328.jpg"
-smallboxphoto: "/img/tattoo-artist-340x214.jpg"
+smallboxphoto: "/img/tattoo-event-header-small.jpg"
 aliases: []
 
 ---
@@ -58,9 +58,9 @@ _All ages; 17 and under must be accompanied by an adult_
 **SUNDAY, APRIL 30**  
 12 PM – 10 PM
 
-**  
+\**  
 TICKETS  
-**ON SALE APRIL 7, 2023 in **Ko-Kwel Gifts at The Mill Casino * Hotel**  
+\**ON SALE APRIL 7, 2023 in **Ko-Kwel Gifts at The Mill Casino * Hotel**  
 **$10 per day**  
 _12 and under – free admission_
 
@@ -68,7 +68,8 @@ For tickets and up-to-date artist info visit: [themillcasino.com/tattoo](http://
 
 {{< spacer 30 >}}
 
-#### **_MORE THAN 25 TATTOO ARTISTS_**_  
+#### **_MORE THAN 25 TATTOO ARTISTS_**_
+
 _**INCLUDING SOME OF THE TOP TATTOO ARTISTS AROUND**
 
 [Mat Valles](https://www.instagram.com/vallestattoo) _(Former Ink Master contender)  
