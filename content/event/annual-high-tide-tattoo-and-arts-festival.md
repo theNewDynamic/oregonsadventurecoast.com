@@ -30,7 +30,7 @@ smallboxphoto: "/img/tattoo-event-header-small.jpg"
 aliases: []
 
 ---
-![](/img/tattoo-artistmed.jpg)
+![](/img/tattoo-artist-header-695x322.jpg)
 
 #### The 1st Annual High Tide Tattoo and Arts Festival will be held on the beautiful Oregon Coast!
 
@@ -42,7 +42,7 @@ Guests will have the rare opportunity to work with these artists directly to pla
 
 {{< spacer 30 >}}
 
-![](/img/highide-tattoo-667x328.jpg)
+![](/img/high-tide-tatto-event-logo-695.jpg)
 
 #### SCHEDULE OF EVENTS
 
@@ -58,9 +58,9 @@ _All ages; 17 and under must be accompanied by an adult_
 **SUNDAY, APRIL 30**  
 12 PM – 10 PM
 
-\**  
-TICKETS  
-\**ON SALE APRIL 7, 2023 in **Ko-Kwel Gifts at The Mill Casino * Hotel**  
+#### TICKETS
+
+ON SALE APRIL 7, 2023 in **Ko-Kwel Gifts at The Mill Casino * Hotel**  
 **$10 per day**  
 _12 and under – free admission_
 
@@ -68,9 +68,9 @@ For tickets and up-to-date artist info visit: [themillcasino.com/tattoo](http://
 
 {{< spacer 30 >}}
 
-#### **_MORE THAN 25 TATTOO ARTISTS_**_
+#### **MORE THAN 25 TATTOO ARTISTS**
 
-_**INCLUDING SOME OF THE TOP TATTOO ARTISTS AROUND**
+**_INCLUDING SOME OF THE TOP TATTOO ARTISTS AROUND_**
 
 [Mat Valles](https://www.instagram.com/vallestattoo) _(Former Ink Master contender)  
 _[Brandon Davenport](https://www.facebook.com/brandon.davenport.902) _(Multi award-winning artist)  
