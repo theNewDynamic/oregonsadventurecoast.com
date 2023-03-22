@@ -19,12 +19,13 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-desktoptitle: Tattoo and Arts Festival on the Oregon Coast!
-mobiletitle: Tattoo and Arts Festival on the Oregon Coast!
-hovertitle: Tattoo and Arts Festival on the Oregon Coast!
-hoverdescription: Tattoo and Arts Festival on the Oregon Coast!
+desktoptitle: High Tide Tattoo and Arts Festival
+mobiletitle: Tattoo and Arts Festival
+hovertitle: Tattoo and Arts Festival
+hoverdescription: Bringing you the top tattoo artists from around the country for
+  a weekend of great art!
 photo: "/img/tattoo-event-page-header-2048x530.jpg"
-largeboxphoto: "/img/tattoo-event-header-larger.jpg"
+largeboxphoto: "/img/tattoo-event-header-large.jpg"
 mediumboxphoto: "/img/tattoo-event-header-medium.jpg"
 smallboxphoto: "/img/tattoo-event-header-small.jpg"
 aliases: []
