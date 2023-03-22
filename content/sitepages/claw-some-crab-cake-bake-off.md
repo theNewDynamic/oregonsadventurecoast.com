@@ -14,7 +14,7 @@ accordion_sections: []
 boxes: []
 
 ---
-![](/img/crab-cake-bake-collage-02.jpg)
+![Crab Cake Bake-Off Sample Cake](/img/gwen-cake-two-version-01.jpg)
 
 ### {{< floatimage src="img/crab-cake-logo-400px.jpg" float="right" alt="Claw-some Crab Cake Bake-Off Logo" size="100" >}}GENERAL INFORMATION
 
@@ -27,6 +27,8 @@ Any and all people are welcome to enter the bake off! Kids and Adults of any age
 Contestants may work individually or with a team. _(Prizes will be awarded to 1 member per team only, NOT each individual.)_
 
 ### <a href="/crab-cake-bake-off-form" class="learn-more-anywhere-btn">ENTER CONTEST</a>
+
+![](/img/crab-cake-cheryle-photos-02.jpg)
 
 ### WHAT ARE THE CATEGORIES?
 
@@ -55,11 +57,13 @@ Appearance and creativity are paramount, but understanding the ingredients used 
 
 ### PRIZES
 
-**First Place** prizes will be awarded in both the Amateur and Professional categories. 
+**First Place** prizes will be awarded in both the Amateur and Professional categories.
 
 > _Each First Place Winner will receive a trip for 2 to Oregon’s Adventure Coast, including a 2-night stay, meal vouchers, and Oregon’s Adventure Coast goodies. **(details to be filled in)**_
 
 **Second & Third Place** winners in each category will receive a goodie basket of Oregon’s Adventure Coast products.
+
+![](/img/crab-cake-bake-collage-02.jpg)
 
 ### WHEN WILL WINNERS BE ANNOUNCED
 
