@@ -67,11 +67,11 @@ Appearance and creativity are paramount, but understanding the ingredients used 
 
 ### WHEN WILL WINNERS BE ANNOUNCED
 
-Winners will be announced in June 2023 and prizes will be distributed shortly thereafter. First Prize Winners have one year in which to take their trip to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston.
+Winners will be announced in July 2023 and prizes will be distributed shortly thereafter. First Prize Winners have one year in which to take their trip to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston.
 
 ### HOW TO ENTER
 
-Click the link below to enter the contest, submit your photos/videos and recipes to Oregon's Adventure Coast no later than **May 31, 2023**.
+Click the link below to enter the contest, submit your photos/videos and recipes to Oregon's Adventure Coast no later than **June 30, 2023**.
 
 Judges will review all entry photographs, videos and ingredients list and will judge on creativity in use of theme and expected taste of the item based on those ingredients.
 
