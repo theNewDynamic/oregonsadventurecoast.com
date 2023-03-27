@@ -1,10 +1,10 @@
 ---
 address:
   state: OR
-  street: ''
+  street: 496 Park Ave
   street2: ''
-  city: ''
-  zip: ''
+  city: North Bend
+  zip: '97459'
 title: Circle the Bay 30K
 startdate: '2023-08-12'
 enddate: '2023-08-12'
