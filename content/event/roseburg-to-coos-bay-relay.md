@@ -1,10 +1,10 @@
 ---
 address:
   state: OR
-  street: ''
+  street: 1210 N. Front
   street2: ''
-  city: ''
-  zip: ''
+  city: Coos Bay
+  zip: '97420'
 title: Roseburg To Coos Bay Relay
 startdate: '2023-04-22'
 enddate: '2023-04-22'
@@ -30,11 +30,13 @@ smallboxphoto: "/img/prerun-340x214.jpg"
 aliases: []
 
 ---
+![](/img/roseburg-coos-waterfall.jpg)
+
 ### Bring Your Friends and Take On The Roseburg to Coos Bay Relay!
 
-The beautiful course on quiet country roads along a river features waterfalls, big trees, and serious hills. **This is a 68-mile, 5 person running team or 24-mile, 4 person walking team.** 
+The beautiful course on quiet country roads along a river features waterfalls, big trees, and serious hills. **This is a 68-mile, 5 person running team or 24-mile, 4 person walking team.**
 
-Race begins with a staggered start depending on predicted finishing time. The slowest running teams (or those who want to get more value for money) will start at 6AM. 
+Race begins with a staggered start depending on predicted finishing time. The slowest running teams (or those who want to get more value for money) will start at 6AM.
 
 {{< spacer 50 >}}
 
