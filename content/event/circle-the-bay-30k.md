@@ -23,12 +23,11 @@ desktoptitle: Circle the Bay 30K!
 mobiletitle: Circle the Bay 30K!
 hovertitle: Circle the Bay 30K!
 hoverdescription: Take a challenging run around the Coos Bay!
-photo: ''
-largeboxphoto: ''
-mediumboxphoto: ''
-smallboxphoto: ''
+photo: "/img/circlebay-2048x530.jpg"
+largeboxphoto: "/img/circlebay-1024x395.jpg"
+mediumboxphoto: "/img/circlebay-667x355.jpg"
+smallboxphoto: "/img/circlebay-340x214.jpg"
 aliases: []
-draft: true
 
 ---
 ### 30K (18 mile) 3-person relay or 1-person 30K run
