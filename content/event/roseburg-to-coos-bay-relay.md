@@ -19,7 +19,7 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-desktoptitle: Run 68 Miles of Gorgeous Countryside with your Best Running Buddies!
+desktoptitle: Run 68 Miles of Gorgeous Countryside!
 mobiletitle: 68 Miles of Gorgeous Countryside!
 hovertitle: 68 Miles of Gorgeous Countryside!
 hoverdescription: Run 68 Miles of Gorgeous Countryside with your Best Running Buddies!
