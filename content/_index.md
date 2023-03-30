@@ -8,14 +8,14 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
-- photo: "/img/spring-brk-biking-hm-slider.jpg"
-  photo_mobile: "/img/spring-break-mobile-slider-hm.jpg"
+- photo: "/img/spring-adv-biking-hm-slider.jpg"
+  photo_mobile: "/img/spring-adv-mobile-slider-hm.jpg"
   url: "/cycling"
-- photo: "/img/spring-brk-dunes-hm-slider.jpg"
+- photo: "/img/spring-adv-dunes-hm-slider.jpg"
   url: "/atv-motorsports"
-- photo: "/img/spring-brk-hiking-hm-slider.jpg"
+- photo: "/img/spring-adv-hiking-hm-slider.jpg"
   url: "/hiking-walking"
-- photo: "/img/spring-brk-fishing-hm-slider.jpg"
+- photo: "/img/spring-adv-fishing-hm-slider.jpg"
   url: "/fishing"
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 masonry1:
