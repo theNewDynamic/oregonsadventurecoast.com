@@ -81,6 +81,9 @@ open_meetings:
 - url: /open-meetings
   name: Open Meetings
   weight: 10
+- url: /stratplan
+  name: Strategic Plan
+  weight: 15
 - url: /staff-directory-meetings
   name: Staff
   weight: 20
