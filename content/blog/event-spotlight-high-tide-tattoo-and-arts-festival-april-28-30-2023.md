@@ -1,6 +1,6 @@
 ---
 title: 'Event Spotlight: High Tide Tattoo and Arts Festival April 28-30, 2023'
-date: 2023-03-23T04:00:00+00:00
+date: 2023-03-23T04:00:00.000+00:00
 description: 'Three-day event features live tattoo demonstrations, art exhibits, vendors,
   and live music at Mill Casino Hotel & RV Park in North Bend, Oregon '
 image: "/img/high-tide-tattoo-art-festival-blog-695x322-jpg.jpg"
@@ -33,9 +33,11 @@ warning_copy: ''
 ---
 # **Event Spotlight: High Tide Tattoo and Arts Festival April 28-30, 2023**
 
-_Three-day event features live tattoo demonstrations, art exhibits, vendors, and live music at Mill Casino Hotel & RV Park in North Bend, Oregon_
+_This three-day event features live tattoo demonstrations, art exhibits, vendors, and live music at Mill Casino Hotel & RV Park in North Bend, Oregon_
 
-Are you a fan of tattoos and art? Then you going to love the newest festival on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**! The Annual High Tide Tattoo and Arts Festival, brought to you by Ragemore Events and 11:11 Tattoo, is making its regional debut at [The Mill Casino Hotel & RV Park](https://www.themillcasino.com/entertainment/high-tide-tattoo-arts-festival/2023-04-28/) the weekend of April 28-30, 2023. This three-day event is the ultimate celebration of creativity and self-expression, featuring some of the most talented tattoo artists and artisans from across the country. Whether you're a hard core tattoo enthusiast looking for inspiration, or you’re simply “tattoo curious” and want to soak up the creative atmosphere, this festival is the perfect destination for anyone who appreciates ink and art. So make your reservations (the earlier the better), pack your bags and prepare for a weekend of unforgettable experiences at this must-attend event.
+#### **Want to get a tattoo during the festival? BOOK AHEAD!!! See below for more information.**
+
+Are you a fan of tattoos and art? Then you're going to love the newest festival on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**! The Annual High Tide Tattoo and Arts Festival, brought to you by Ragemore Events and 11:11 Tattoo, is making its regional debut at [The Mill Casino Hotel & RV Park](https://www.themillcasino.com/entertainment/high-tide-tattoo-arts-festival/2023-04-28/) the weekend of April 28-30, 2023. This three-day event is the ultimate celebration of creativity and self-expression, featuring some of the most talented tattoo artists and artisans from across the country. Whether you're a hard core tattoo enthusiast looking for inspiration, or you’re simply “tattoo curious” and want to soak up the creative atmosphere, this festival is the perfect destination for anyone who appreciates ink and art. So make your reservations (the earlier the better), pack your bags and prepare for a weekend of unforgettable experiences at this must-attend event.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Finklifetour%2Fposts%2Fpfbid02Q4HkiYcUB2S9JwjuCXphDdTpUxhYLENz4CUB5PQ5Vu29HfevP1TgWbmv2qA55GWRl&show_text=true&width=500" width="500" height="498" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
