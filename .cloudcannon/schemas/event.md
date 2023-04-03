@@ -15,4 +15,5 @@ photo:
 largeboxphoto:
 mediumboxphoto:
 smallboxphoto:
+aliases:
 ---

@@ -16,6 +16,20 @@ module.exports = {
       path: ".cloudcannon/schemas/event.md"
     }
   },
+  _inputs: {
+    desktoptitle: {
+      title: 'Desktop Title',
+      comment: 'Title displayed on desktop'
+    },
+    mobiletitle: {
+      title: 'Mobile Title',
+      comment: 'Title displayed on mobile',
+    },
+    hoverdescription: {
+      title: 'Box Animation Description',
+      comment: 'Description displays on Event Box animation.'
+    }
+  },
   sort_options: [
     {
       key: "startdate",

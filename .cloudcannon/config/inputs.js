@@ -20,13 +20,10 @@ module.exports = {
     }
   },
   aliases: {
-    type: "multiselect",
-    options: {
-      values: [
-        "/blog/a-well-formated-url-example"
-      ],
-      allow_create: true
-    }
+    type: "array",
+  },
+  'aliases[*]': {
+    type: 'string'
   },
   warning: {
     type: "switch",
@@ -64,6 +61,12 @@ module.exports = {
       values: "_select_data.property_categories"
     }
   },
+  cost: {
+    type: "multiselect",
+    options: {
+      values: "_select_data.cost"
+    }
+  }
   website: {
     type: "url",
     comment: "Website's URL. Must include protocole (https://)"
