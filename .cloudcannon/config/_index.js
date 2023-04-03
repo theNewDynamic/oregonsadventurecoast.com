@@ -9,7 +9,7 @@ const collections_config = (keys) => {
 
 module.exports = {
   collections_config_override: true,
-  timezone: "America/New_York",
+  timezone: "America/Los_Angeles",
   _enabled_editors: [
     "content",
     "data"
@@ -53,6 +53,12 @@ module.exports = {
         "lodgings",
         "tour_equipments",
         "products"
+      ],
+    },
+    {
+      heading: "General",
+      collections: [
+        "general"
       ]
     }
   ],
@@ -66,6 +72,7 @@ module.exports = {
     "stores",
     "lodgings",
     "tour_equipments",
-    "products"]
-  )
+    "products",
+    "general"
+  ])
 }

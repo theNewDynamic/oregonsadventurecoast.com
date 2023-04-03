@@ -10,6 +10,18 @@ module.exports = {
       "_index.md"
     ]
   },
+  _inputs: {
+    title: {
+      label: 'Publish Date',
+      comment: 'Date this post should be public.'
+    },
+    description: {
+      comment: 'Text introducing the post on list pages.'
+    },
+    image: {
+      comment: 'Blog photo header - size and scale to 695px by 322px.'
+    }
+  },
   schemas: {
     default: {
       ...options.base_schema,
