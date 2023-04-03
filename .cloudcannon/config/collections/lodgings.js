@@ -56,7 +56,7 @@ module.exports = {
       }
     },
     amenityList: {
-      type: "select",
+      type: "multiselect",
       label: "Amenities",
       options: {
         values: [
