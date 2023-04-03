@@ -44,6 +44,17 @@ module.exports = {
         ]
       }
     },
+    cost: {
+      type: "select",
+      label: "Cost",
+      options: {
+        values: [
+          "1 - $",
+          "2 - $$",
+          "3 - $$$"
+        ]
+      }
+    },
     amenityList: {
       type: "select",
       label: "Amenities",

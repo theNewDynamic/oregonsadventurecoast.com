@@ -55,18 +55,6 @@ module.exports = {
     label: "CTAs",
     comment: "Add CTAs to be invoked with the 'ctas' shortcode or else."
   },
-  property_category: {
-    type: "multiselect",
-    options: {
-      values: "_select_data.property_categories"
-    }
-  },
-  cost: {
-    type: "multiselect",
-    options: {
-      values: "_select_data.cost"
-    }
-  }
   website: {
     type: "url",
     comment: "Website's URL. Must include protocole (https://)"

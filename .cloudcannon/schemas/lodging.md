@@ -6,6 +6,8 @@ photo_name:
 photo_alt:
 units:
 property_category:
+cost:
+amenityList:
 address:
 phone_local:
 phone_toll_free:
