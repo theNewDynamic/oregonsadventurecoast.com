@@ -23,7 +23,7 @@ module.exports = {
     type: "array",
   },
   'aliases[*]': {
-    type: 'string'
+    type: 'text'
   },
   warning: {
     type: "switch",

@@ -13,7 +13,7 @@ module.exports = {
     },
     home: {
       ...options.base_schema,
-      icon: "house",
+      icon: "home",
       path: ".cloudcannon/schemas/home.md"
     },
     gallery: {

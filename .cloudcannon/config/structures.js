@@ -151,7 +151,7 @@ module.exports = {
         },
         weight: {
           type: "number",
-          comment: "The weight of the product in ounces"
+          comment: "The weight of the product in grams"
         },
         description: {
           comment: ""

@@ -21,11 +21,16 @@ module.exports = {
   },
   _inputs: {
     property_name: {
-      label: "Business Name for Sorting"
+      label: "Business Name for Sorting",
+      comment: "This text will determine the alpha sort."
+    },
+    property_description: {
+      title: 'Description'
     },
     equip_type: {
       type: "multiselect",
       label: "Type",
+      comment: "Please select if this entry provides Tours, Equipment or both.",
       options: {
         values: [
           "Tour",
