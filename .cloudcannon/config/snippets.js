@@ -69,6 +69,17 @@ module.exports = {
       subtext: "Display the accordions if any defined in the page's Accordion Sections"
     }
   },
+  ctas: {
+    template: 'hugo_shortcode_positional_args',
+    definitions: {
+      shortcode_name: 'ctas'
+    },
+    preview: {
+      icon: "smart_button",
+      text: "CTAs",
+      subtext: "Display the CTAs from the Front Matter"
+    }
+  },
   floatimage: {
     template:  "hugo_shortcode_named_args",
     definitions: {
