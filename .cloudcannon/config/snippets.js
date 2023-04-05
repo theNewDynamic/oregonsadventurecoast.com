@@ -19,7 +19,7 @@ module.exports = {
     }
   ]),
   link: {
-    template: "hugo_paired_markdown_shortcode_named_args",
+    template: "hugo_paired_shortcode_named_args",
     inline: true,
     definitions: {
       shortcode_name: "link",
@@ -49,7 +49,7 @@ module.exports = {
     }
   },
   colortext: {
-    template: "hugo_paired_shortcode_named_args",
+    template: "hugo_paired_markdown_shortcode_named_args",
     inline: true,
     definitions: {
       shortcode_name: "colortext",
