@@ -78,6 +78,7 @@ module.exports = {
           comment: "The text to be displayed on mobile"
         },
         photo_mobile: {
+          type: "image",
           label: "Image on mobile",
           comment: "The image used on mobile"
         },

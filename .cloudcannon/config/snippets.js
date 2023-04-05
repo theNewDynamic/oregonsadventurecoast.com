@@ -18,6 +18,36 @@ module.exports = {
       type: "string"
     }
   ]),
+  link: {
+    template: "hugo_paired_markdown_shortcode_named_args",
+    inline: true,
+    definitions: {
+      shortcode_name: "link",
+      content_key: "copy",
+      named_args: [
+        {
+          editor_key: "url",
+          type: "string",
+        }
+      ]
+    },
+    preview: {
+      icon: "link",
+      text: "Link",
+      subtext: [
+        {key: 'copy'},
+        "Link copy"
+      ],
+      metadata: [
+        {
+          icon: "link",
+          text: [
+            { key: "url" }
+          ]
+        }
+      ]
+    }
+  },
   colortext: {
     template: "hugo_paired_markdown_shortcode_named_args",
     inline: true,
@@ -31,6 +61,7 @@ module.exports = {
         }
       ]
     },
+
     preview: {
       icon: "format_color_text",
       text: "Color Text",
