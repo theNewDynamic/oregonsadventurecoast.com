@@ -18,11 +18,9 @@ For such a small community, the Coos Bay area boasts some amazingly talented per
 
 #### Liberty Theatre
 
-Home of the Little Theatre on the Bay – Famed for their little Ole Opry performances, you won’t want to miss any of the musicals at this charming, renovated 1939 theatre. {{< link url="http://thelibertytheatre.org" >}}Visit the Liberty Theatre website for current productions, showtimes, and ticket information.{{< /link >}}
+Home of the Little Theatre on the Bay – Famed for their little Ole Opry performances, you won’t want to miss any of the musicals at this charming, renovated 1939 theatre.
 
-<div class="clearfix"> </div>
-
-{{< floatimage src="/img/egyptian-interior.jpg" float="left" alt="Egyptian Theater Interior" size="40" >}}
+<div class="clearfix">{{% link url="https://google.com" %}}Hello there{{% /link %}}</div>
 
 #### The Egyptian Theatre
 
