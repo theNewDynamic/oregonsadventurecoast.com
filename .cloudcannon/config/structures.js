@@ -70,19 +70,24 @@ module.exports = {
           comment: "The title of the slide"
         },
         photo: {
+          label: "Image",
           comment: "The image of the slide"
         },
         title_mobile: {
+          label: "Title on mobile",
           comment: "The text to be displayed on mobile"
         },
         photo_mobile: {
+          label: "Image on mobile",
           comment: "The image used on mobile"
         },
         url: {
+          label: "URL",
           comment: "The URL of the page opened when the slide is clicked"
         },
         video: {
           type: "object",
+          comment: "The video displayed in the carousel slid, Instead of a photo",
           options: {
             structures: "_structures.videos"
           }
