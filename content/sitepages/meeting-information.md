@@ -27,6 +27,14 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 {{< spacer 25 >}}
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">25</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Cliquer et glisser pour déplacer" height="15" role="presentation" draggable="true" />
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">25</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Cliquer et glisser pour déplacer" height="15" role="presentation" draggable="true" />
+
 #### HOW THE VCB IS FUNDED
 
 * **THE VCB IS SOLELY FUNDED THROUGH LODGING TAXES COLLECTED BY COMMERCIAL LODGING PROPERTIES WITHIN THE CITY LIMITS OF COOS BAY AND NORTH BEND, AND AT THE COQUILLE INDIAN TRIBE PROPERTIES.** *The lodging tax rate is 9.5%.*
@@ -36,6 +44,16 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 {{< spacer 25 >}}
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">25</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Cliquer et glisser pour déplacer" height="15" role="presentation" draggable="true" />
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">25</p></div></div></div></div>
+
+### Hello there
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Cliquer et glisser pour déplacer" height="15" role="presentation" draggable="true" />
+
 **Allowed expenditures from Lodging Tax funding by VCB:**
 
 1. Tourism Promotion and Marketing to encourage visitors to the destination and the administrative costs to accomplish this.
@@ -43,7 +61,19 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 {{< spacer 50 >}}
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Cliquer et glisser pour déplacer" height="15" role="presentation" draggable="true" />
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Cliquer et glisser pour déplacer" height="15" role="presentation" draggable="true" />
+
 #### FY23 ADOPTED BUDGET
+
+####
+
+####
 
 [Click here to see the FY23 Adopted Budget](/img/CBNBVCB-FY23-Adopted-budget.pdf)
 
@@ -57,11 +87,27 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 {{< spacer 25 >}}
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">25</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Cliquer et glisser pour déplacer" height="15" role="presentation" draggable="true" />
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">25</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Cliquer et glisser pour déplacer" height="15" role="presentation" draggable="true" />
+
 **THE VCB’S BUDGET FOR TOURISM FACILITIES CURRENTLY COVERS THE COST OF MANAGING THE COOS BAY VISITOR INFORMATION CENTER (VIC).** *The City of Coos Bay remits additional funding to the VCB to cover these costs*.
 
 * BUDGETED EXPENDITURES FOR THE MANAGEMENT OF THE COOS BAY VISITOR INFORMATION CENTER FOR FISCAL YEAR 2023 TOTAL $104,100
 
 {{< spacer 50 >}}
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Cliquer et glisser pour déplacer" height="15" role="presentation" draggable="true" />
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Cliquer et glisser pour déplacer" height="15" role="presentation" draggable="true" />
 
 **THE VCB’s TOTAL BUDGET FOR FISCAL YEAR 2023 IS $1,226,200**
 
