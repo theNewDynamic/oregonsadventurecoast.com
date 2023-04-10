@@ -159,16 +159,26 @@ Take a vacation to Oregon’s Adventure Coast, where the land meets the bay and 
 
 {{< spacer 50 >}}
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
 ## Discover Outdoor Activities, Shopping, & Events on the Oregon Coast
 
 We invite you to explore, to discover, to feel, and to know the incredible adventures waiting for you when you choose to take a trip to the coast. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do, full of adventure, nature, wildlife, culture, arts, shopping, and athletics.
 
 {{< spacer 20 >}}
 
-[![](/uploads/atv-motorsports-spring-break-2048x190-03-23.jpg)](/fishing)
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">20</p></div></div></div></div>
 
-&lt;div style="width:100%"&gt;&lt;a href="/atv-motorsports"&gt;&lt;img src="/img/atv-motorsports-spring-break-2048x190-03-23.jpg" alt="Spring break atv and motorsports adventures in Coos Bay, North Bend, Charleston" style='height: 100%; width: 100%; object-fit: contain'/&gt;&lt;/a&gt;&lt;/div&gt;
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+​​​​​​[![](/uploads/atv-motorsports-spring-break-2048x190-03-23.jpg)](/fishing)
 
 {{< youtube id="lqZ8lTjprxg" >}}
 
 {{< spacer 50 >}}
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />

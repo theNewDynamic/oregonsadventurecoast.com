@@ -1,20 +1,22 @@
 ---
+_schema: default
 title: Charleston
+draft: false
+url: /our-area-charleston
+layout: our-area
+photo: /img/our-area-charleston-header.jpg
+seo:
+  description: >-
+    Charleston is located eight miles from Coos Bay and North Bend and is just
+    inside the entrance to the bay. Learn more about our history and things to
+    do.
+  title: Charleston | Oregon's Adventure Coast
 aliases:
   - /trip-ideas/town/charleston
-layout: our-area
-url: "/our-area-charleston"
-photo: "/img/our-area-charleston-header.jpg"
-seo:
-  description: Charleston is located eight miles from Coos Bay and North Bend and
-    is just inside the entrance to the bay. Learn more about our history and things
-    to do.
-  title: Charleston | Oregon's Adventure Coast
-
 ---
-Charleston is located just eight miles from Coos Bay and North Bend and is just inside the entrance to the bay. It is a distinctive fishing village located near some of the finest recreation and most beautiful scenery in the Northwest. 
+Charleston is located just eight miles from Coos Bay and North Bend and is just inside the entrance to the bay. It is a distinctive fishing village located near some of the finest recreation and most beautiful scenery in the Northwest.
 
-The harbor is the heart of this community and serves as a home <a href="https://www.portofcoosbay.com" target="_blank">port</a> to a large commercial fishing fleet. You’ll find a bustling marina serving charter boat operators, sport fishermen, crabbers and recreational boaters. The harbor area includes restaurants as well as tackle, seafood, and unique gift shops.
+The harbor is the heart of this community and serves as a home <a target="_blank" href="https://www.portofcoosbay.com">port</a> to a large commercial fishing fleet. You’ll find a bustling marina serving charter boat operators, sport fishermen, crabbers and recreational boaters. The harbor area includes restaurants as well as tackle, seafood, and unique gift shops.
 
 Charleston is Oregon’s Adventure Coast’s gateway to outstanding ocean beaches, state parks, and stunning untouched scenery. Follow Cape Arago Highway and you’ll hit a trifecta of beauty in Sunset Bay State Park, Shore Acres State Park and Cape Arago State Park. You’ll find world-class surfing and scuba diving opportunities along with hiking and biking trails suited to all levels.
 
