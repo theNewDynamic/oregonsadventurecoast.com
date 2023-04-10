@@ -95,10 +95,6 @@ aliases:
 layout: home
 promotional_banner: https://craterlakecountry.com/coos-bay/
 ---
-<div class="cms-embed" data-cms-embed="aHR0cHM6Ly95b3V0dS5iZS9Cc2NsSnFWbkVqUQ==">https://youtu.be/BsclJqVnEjQ</div>
-
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9Cc2NsSnFWbkVqUSIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="560" height="315" src="https://www.youtube.com/embed/BsclJqVnEjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
 We welcome you to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities. We invite you to explore, to discover, to feel, to know…at land’s end, adventure begins. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do. Your vacation will be full of adventure, nature, wildlife, culture, arts and athletics.
 
 ## Exciting Outdoor Activities on the Oregon Coast
