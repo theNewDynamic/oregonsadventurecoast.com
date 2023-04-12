@@ -10,8 +10,8 @@ mobiletitle: July 3rd & 4th Celebrations
 hovertitle: July 3rd & 4th Celebrations
 hoverdescription: Celebrate our Nation's Independence with TWO Fireworks displays!
   Plus other July 4th Activities
-startdate: '2022-07-03'
-enddate: '2022-07-04'
+startdate: '2023-07-03'
+enddate: '2023-07-04'
 address:
   street: ''
   street2: ''
@@ -40,9 +40,15 @@ Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [Th
 
 **The fireworks display will be located in front of The Mill Casino, but can be seen from just about anywhere along the Bay!**
 
-**The 20-minute fireworks show commences at 10pm** and will be synchronized to music on K-DOCK radio.  Tune in to [K-DOCK radio 92.9 fm](https://kdockfm.com/) for the live remote and firework display broadcast!
+**The 20-minute fireworks show commences at 10pm** but, before the fireworks, there is a whole festival event happening!!
 
-K-DOCK 92.9 FM will present a pre-show at 9:00 pm featuring upbeat music to get you in the mood for the Fireworks Extravaganza around 10:00 pm.
+{{< spacer 15 >}}
+
+#### **5:00  PM – 10:00  PM Enjoy Music and Food!**
+
+Local Food Trucks - **Muncheria & West Coast Bitez** - will be on hand serving up the very best from their menus for this amazing event.
+
+From 6:00 PM – 8:00 PM and 8:00 PM – 10 PM, **The Koz & Code Red** will entertain the crowds
 
 {{< spacer 50 >}}
 
@@ -50,7 +56,7 @@ K-DOCK 92.9 FM will present a pre-show at 9:00 pm featuring upbeat music to get 
 
 {{< spacer 15 >}}
 
-#### Fireworks Over Coos Bay on July 4, 2023
+#### More Fireworks Over Coos Bay
 
 {{< spacer 15 >}}
 
@@ -60,22 +66,24 @@ Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen 
 
 {{< spacer 15 >}}
 
-{{< spacer 25 >}}{{< spacer 15 >}}{{< spacer 15 >}}{{< spacer 15 >}}
+#### Daytime Events Abound!
+
+{{< spacer 25 >}}
 
 ![](/img/firecracker-run.jpeg)
 
-#### Firecracker Run - 1/2 mile kid’s run and 4K run/walk - July 4th
+#### Firecracker Run - 1/2 mile kid’s run and 4K run/walk
 
 {{< spacer 15 >}}
 
-1/2-mile kid’s run and a 4K for grown-ups.  Kid’s run is 1.5 times around the lake.  4K is 3 times around the lake followed by a HUGE hill in beautiful Mingus Park.  You will then run on city streets, down another Mingus Park dirt trail, and finish on the paved path by the lake.
+Join fellow runners and walkers for the 1/2-mile kid’s run and the 4K for grown-ups.  Kid’s run is 1.5 times around the lake.  4K is 3 times around the lake followed by a HUGE hill in beautiful Mingus Park.  You will then run on city streets, down another Mingus Park dirt trail, and finish on the paved path by the lake.
 
-**10:00am** – 1/2 mile kid’s run – Free!
+**10:00am** – 1/2 mile kid’s run – **Free!**
 
 **10:20am** (or whenever the kid’s run is over) – 4K Grown-up Run/Walk
 
-* **Free** for South Coast Running Club members, but please [sign up online ](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark)to help make race morning less crazy!
-* **$10** for non-members. [Register online](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark).  [Become a member and race for free!](https://runsignup.com/Club/OR/CoosBay/SouthCoastRunningClub2)
+* **Free** for South Coast Running Club members, but please [sign up online](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark)[ ](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark)to help make race morning less crazy!
+* **$10** for non-members. [Register online](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark).  [Become a member and race for free!](https://southcoastrunningclub.org/membership/)
 
 {{< spacer 15 >}}
 
@@ -85,14 +93,9 @@ Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen 
 
 #### **Mingus Park Fun - July 4th**
 
-Organizers are planning several fun events throughout the day in Mingus Park. Here are just a few of the great events planned:
+Organizers are planning several fun events throughout the day in Mingus Park. 
 
-* Boy Scouts Fundraiser Hamburger Stand
-* Coos County Posse and their horses
-* Coos County Forest Protective Services with Smokey the Bear!
-* ODFW Fishing
-* Front Street Community Bike Works
-* And many more!
+**More info coming soon!**
 
 {{< spacer 25 >}}
 
