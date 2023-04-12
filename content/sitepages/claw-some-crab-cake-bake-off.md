@@ -16,7 +16,19 @@ boxes: []
 ---
 ![Crab Cake Bake-Off Sample Cake showing undersea creatures](/img/gwen-cake-two-version-01.jpg)
 
-### {{< floatimage src="img/crab-cake-logo-400px.jpg" float="right" alt="Claw-some Crab Cake Bake-Off Logo" size="100" >}}GENERAL INFORMATION
+### {{< floatimage src="img/crab-cake-logo-400px.jpg" float="right" alt="Claw-some Crab Cake Bake-Off Logo" size="100" >}}Attention all baking enthusiasts!
+
+Are you ready for a crustacean-inspired baking challenge that could win you a free vacation? Introducing the "Claw-some Crab Cake Bake-Off" where creativity reins supreme!
+
+Here's how it works: Show off your baking skills by creating a crab-themed cake. let your imagination run wild and bring those wild ideas to life in your culinary masterpiece! Remember, this contest is free to participate in, and can be done from your home or work kitchen. So, whether you're a baking aficionado, a home cook, or just someone who loves experimenting in the kitchen, you're all invited to join in the fun.
+
+### How to Enter
+
+To enter, simply submit a couple photos and a short video of your crab-inspired baked creation along with a brief description of your ingredients and inspiration. Don't forget to give your creation a catchy name that reflects its crabby charm!
+
+The lucky winner will be rewarded with a fabulous prize - a free two night stay with lodging, activities and some delicious dining options at Oregon’s Adventure Coast. So, get your apron on, preheat your oven, and let your creativity flag fly in the "Crab-tastic Baking Contest." It's time to bake, have fun, and show off your culinary skills with a crabby twist.
+
+### GENERAL INFORMATION
 
 This is a cake baking contest. A Cake is an item made with flour, eggs, flavorings and topped with an icing of some sort. These could be cupcakes as well as any size cake. This is not a CRAB dish but a bakery item.
 
