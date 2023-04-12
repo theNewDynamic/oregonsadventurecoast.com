@@ -50,11 +50,11 @@ K-DOCK 92.9 FM will present a pre-show at 9:00 pm featuring upbeat music to get 
 
 {{< spacer 15 >}}
 
-#### Fireworks Over Coos Bay on July 4, 2021
+#### Fireworks Over Coos Bay on July 4, 2023
 
 {{< spacer 15 >}}
 
-**Stick around for a 2nd night of Fireworks with the City of Coos Bay's Fireworks display over Coos Bay by the Coos Bay Boardwalk.**
+**Stick around for a 2nd night of Fireworks with the City of Coos Bay's Fireworks display over the Bay. The best viewing spot is from the Coos Bay Boardwalk!**
 
 Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen from most places along the Bay from The Coos History Museum to Eastside!
 
