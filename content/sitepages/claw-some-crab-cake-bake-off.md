@@ -26,7 +26,7 @@ Here's how it works: Show off your baking skills by creating a crab-themed cake.
 
 To enter, simply submit a couple photos and a short video of your crab-inspired baked creation along with a brief description of your ingredients and inspiration. Don't forget to give your creation a catchy name that reflects its crabby charm!
 
-The lucky winner will be rewarded with a fabulous prize - a free two night stay with lodging, activities and some delicious dining options at Oregon’s Adventure Coast. So, get your apron on, preheat your oven, and let your creativity flag fly in the "Crab-tastic Baking Contest." It's time to bake, have fun, and show off your culinary skills with a crabby twist.
+The lucky winner will be rewarded with a fabulous prize - **a Free Two Night Stay with lodging, activities and some delicious dining options at Oregon’s Adventure Coast**. So, get your apron on, preheat your oven, and let your creativity flag fly in the "Claw-some Crab Cake Bake-Off." It's time to bake, have fun, and show off your culinary skills with a crabby twist.
 
 ### GENERAL INFORMATION
 
