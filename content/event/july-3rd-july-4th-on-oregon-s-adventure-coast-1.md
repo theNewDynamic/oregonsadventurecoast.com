@@ -60,7 +60,7 @@ From 6:00 PM – 8:00 PM and 8:00 PM – 10 PM, **The Koz & Code Red** will ente
 
 {{< spacer 15 >}}
 
-**Stick around for a 2nd night of Fireworks with the City of Coos Bay's Fireworks display over the Bay. The best viewing spot is from the Coos Bay Boardwalk!**
+**Stick around for a 2nd night of Fireworks with the City of Coos Bay's Fireworks display over the Bay. The fireworks begin at dusk or approximately 9pm. The best viewing spot is from the Coos Bay Boardwalk!**
 
 Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen from most places along the Bay from The Coos History Museum to Eastside!
 
@@ -82,7 +82,7 @@ Join fellow runners and walkers for the 1/2-mile kid’s run and the 4K for grow
 
 **10:20am** (or whenever the kid’s run is over) – 4K Grown-up Run/Walk
 
-* **Free** for South Coast Running Club members, but please [sign up online](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark)[ ](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark)to help make race morning less crazy!
+* **Free** for South Coast Running Club members, but please [sign up online ](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark)to help make race morning less crazy!
 * **$10** for non-members. [Register online](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark).  [Become a member and race for free!](https://southcoastrunningclub.org/membership/)
 
 {{< spacer 15 >}}
@@ -93,7 +93,7 @@ Join fellow runners and walkers for the 1/2-mile kid’s run and the 4K for grow
 
 #### **Mingus Park Fun - July 4th**
 
-Organizers are planning several fun events throughout the day in Mingus Park. 
+Organizers are planning several fun events throughout the day in Mingus Park.
 
 **More info coming soon!**
 
