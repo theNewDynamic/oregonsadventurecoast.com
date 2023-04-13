@@ -9,16 +9,17 @@ photo_alt: Coos Bay's newest antique shop dressed for the holidays!
 property_category:
 - Antiques
 address:
-  street: 247 North Broadway
+  street: 281 South Broadway
   street2: ''
   city: Coos Bay
   zip: '97420'
+  state: ''
 phone_local: "(541) 808-9553"
 phone_toll_free: ''
 website: https://www.facebook.com/Past-to-Present-Emporium-LLC-105514104657347
 coordinates:
-  lat: '43.369001'
-  lng: "-124.213244"
+  lat: '43.366148'
+  lng: "-124.213328"
 seo:
   title: ''
   description: ''
