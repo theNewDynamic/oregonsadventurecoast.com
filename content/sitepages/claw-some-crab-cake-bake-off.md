@@ -20,17 +20,23 @@ boxes: []
 
 Are you ready for a crustacean-inspired baking challenge that could win you a free vacation? Introducing the "Claw-some Crab Cake Bake-Off" where creativity reins supreme!
 
-Here's how it works: Show off your baking skills by creating a crab-themed cake. let your imagination run wild and bring those wild ideas to life in your culinary masterpiece! Remember, this contest is free to participate in, and can be done from your home or work kitchen. So, whether you're a baking aficionado, a home cook, or just someone who loves experimenting in the kitchen, you're all invited to join in the fun.
+Here's how it works: Show off your baking skills by creating a crab-themed cake. Let your imagination run wild and bring those wild ideas to life in your culinary masterpiece! Remember, this contest is free to participate in, and can be done from your home or work kitchen. So, whether you're a baking aficionado, a home cook, or just someone who loves experimenting in the kitchen, you're all invited to join in the fun.
+
+{{< spacer 25 >}}
 
 ### How to Enter
 
 To enter, simply submit a couple photos and a short video of your crab-inspired baked creation along with a brief description of your ingredients and inspiration. Don't forget to give your creation a catchy name that reflects its crabby charm!
 
-The lucky winner will be rewarded with a fabulous prize - **a Free Two Night Stay with lodging, activities and some delicious dining options at Oregon’s Adventure Coast**. So, get your apron on, preheat your oven, and let your creativity flag fly in the "Claw-some Crab Cake Bake-Off." It's time to bake, have fun, and show off your culinary skills with a crabby twist.
+The lucky winner will be rewarded with a fabulous prize - **a Free Two Night Stay with lodging, activities and some delicious dining options on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. So, get your apron on, preheat your oven, and let your creativity flag fly in the "Claw-some Crab Cake Bake-Off." It's time to bake, have fun, and show off your culinary skills with a crabby twist.
+
+{{< spacer 25 >}}
 
 ### GENERAL INFORMATION
 
-This is a cake baking contest. A cake is an item made with flour, eggs, flavorings and topped with an icing of some sort. These could be cupcakes as well as any size cake. This is not a CRAB dish but a bakery item.
+This is a cake baking contest. A cake is an item made with flour, eggs, flavorings and topped with an icing of some sort. These could be cupcakes as well as any size cake. This is **not a CRAB dish** but a bakery item.
+
+{{< spacer 25 >}}
 
 ### WHO CAN ENTER?
 
@@ -41,6 +47,8 @@ Contestants may work individually or with a team. _(Prizes will be awarded to 1 
 ### <a href="/crab-cake-bake-off-form" class="learn-more-anywhere-btn">ENTER CONTEST</a>
 
 ![Under sea theme of crab cake showing crabs on ocean floor](/img/crab-cake-cheryle-photos-02.jpg)
+
+{{< spacer 25 >}}
 
 ### WHAT ARE THE CATEGORIES?
 
@@ -54,18 +62,22 @@ Contestants may work individually or with a team. _(Prizes will be awarded to 1 
 * In Training (such as culinary schools)
 * On the Job _(those working professionally in a bakery, restaurant, school or other facility)_
 
+{{< spacer 25 >}}
+
 ### JUDGING CRITERIA
 
 We will be looking for the most creative interpretation of incorporating crab imagery, coastal style, and overall creativity in use of theme.
 
-* Physical cakes will not be submitted for this contest
+* **Physical cakes will not be submitted for this contest**
 * Photographs and videos of the process and final cake item are the submission items
-* Entries should include a video of someone taking a bite of the cake to ensure it is an edible item
-* A list of ingredients used, must also be submitted
+* Entries must include a video of someone cutting and taking a bite of the cake to ensure it is an edible item
+* A list of ingredients used must also be submitted
 
 Appearance and creativity are paramount, but understanding the ingredients used will also be considered.
 
 **_NOTE:_** _Any and all photographs and video submitted for judging could be used in future promotion of the contest and Oregon’s Adventure Coast. By submitting photos and videos, you consent to the unlimited usage of such photos and videos by Oregon’s Adventure Coast._
+
+{{< spacer 25 >}}
 
 ### PRIZES
 
@@ -75,15 +87,19 @@ Appearance and creativity are paramount, but understanding the ingredients used 
 
 **Second & Third Place** winners in each category will receive a goodie basket of Oregon’s Adventure Coast products.
 
+{{< spacer 25 >}}
+
 ![Claw-some Crab Cake Bake-Off Example cake in the shape of a red cartoon crab](/img/crab-cake-bake-collage-02.jpg)
 
 ### WHEN WILL WINNERS BE ANNOUNCED
 
 Winners will be announced in July 2023 and prizes will be distributed shortly thereafter. First Prize Winners have one year in which to take their trip to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston.
 
+{{< spacer 25 >}}
+
 ### HOW TO ENTER
 
-Click the link below to enter the contest, submit your photos/videos and recipes to Oregon's Adventure Coast no later than **June 30, 2023**.
+Click the link below to enter the contest, submit your photos/videos and ingredients list to Oregon's Adventure Coast no later than **June 30, 2023**.
 
 Judges will review all entry photographs, videos and ingredients list and will judge on creativity in use of theme and expected taste of the item based on those ingredients.
 
