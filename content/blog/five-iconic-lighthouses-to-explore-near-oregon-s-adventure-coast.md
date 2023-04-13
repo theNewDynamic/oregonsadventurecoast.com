@@ -99,7 +99,7 @@ The Umpqua River Lighthouse is located 19 miles north of North Bend on Hwy 101 a
 
 Located just 59 miles north of Coos Bay, a visit to The Heceta Head Lighthouse is a fun day-trip the whole family can enjoy. Named for its crowning feature, this iconic lighthouse also offers access to a sheltered beach and a scenic hike along the Oregon Coast Trail. The lighthouse was initially lit in 1894, and can be viewed from a distance of 21 miles, making it the most potent light on the Oregon Coast. During the summer and winter, visitors can participate in a guided tour of the lighthouse from 11 a.m. to 3 p.m. and 11 a.m. to 2 p.m., respectively, depending on the weather and staff availability.
 
-**How to Get There.** From Hwy 101, travel 12 miles north of Florence. Just north of Cape Creek Tunnel, turn right and the road curves around under Hwy 101 to the parking lot.
+**How to Get There.** Traveling Hwy 101 North, go 12 miles north of Florence. Just north of Cape Creek Tunnel, look for the large sign for the lighthouse on the right side of the road, turn right and the road curves around under Hwy 101 to the parking lot.
 
 **More Information**
 
