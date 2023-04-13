@@ -41,6 +41,8 @@ _Lighthouse hunting on Oregon’s Adventure Coast is an exciting and historic ac
 
 It's worth noting that **FIVE** out of the nine lighthouses in the state are within an hour's drive of Coos Bay, North Bend, and Charleston. In this post, we’re going to highlight these maritime wonders and we recommend you plan a road trip to visit all five in person!
 
+{{< spacer 25 >}}
+
 ## **#1 Cape Arago Lighthouse - Charleston, Oregon**
 
 ![](/img/cape-arago-lighthouse2-blog-695x322-jpg.jpg)
@@ -57,6 +59,8 @@ Though images of the lighthouse are posted everywhere, the lighthouse itself rem
 * [How to Find an Epic View of the Cape Arago Lighthouse](https://www.oregonsadventurecoast.com/blog/2017-07-19-how-to-find-an-epic-view-of-the-cape-arago-lighthouse/)
 * [Cape Arago Lighthouse - Oregon Coast Visitors Association](https://visittheoregoncoast.com/cities/charleston/activities/cape-arago-lighthouse/)
 
+{{< spacer 25 >}}
+
 ## **#2 The Coquille River Lighthouse Interpretive Center - Bandon**
 
 ![](/img/coquille-river-lighthouse-blog-695x322-jpg.jpg)
@@ -71,6 +75,8 @@ Located in Bandon, the Coquille River Lighthouse Interpretive Center can be foun
 * [Coquille River Lighthouse - Travel Oregon](https://traveloregon.com/things-to-do/culture-history/lighthouses/coquille-river-lighthouse/)
 * [Southern Oregon Coast Lighthouse Tour](https://bandon.com/lighthouse-tour/)
 
+{{< spacer 25 >}}
+
 ## #3- Umpqua River Lighthouse - Winchester Bay
 
 ![](/img/umpqua-river-lighthouse-blog-1080x1080.jpg)
@@ -84,6 +90,8 @@ The Umpqua River Lighthouse is located 19 miles north of North Bend on Hwy 101 a
 * [Umpqua Valley Museums](https://umpquavalleymuseums.org/museums/umpqua-river-lighthouse/)
 * [Umpqua Lighthouse State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=83)
 * [Umpqua River Lighthouse, Oregon at Lighthousefriends.com](https://www.lighthousefriends.com/light.asp?ID=130)
+
+{{< spacer 25 >}}
 
 ## #4- Heceta Head Lighthouse- Florence
 
@@ -100,6 +108,8 @@ Located just 59 miles north of Coos Bay, a visit to The Heceta Head Lighthouse i
 * [Heceta Head Lighthouse, Oregon at Lighthousefriends.com](https://www.lighthousefriends.com/light.asp?ID=131)
 * [Heceta Head Lighthouse State Scenic Viewpoint](https://visittheoregoncoast.com/cities/florence/activities/heceta-head-lighthouse-state-scenic-viewpoint/)
 
+{{< spacer 25 >}}
+
 ## #5- Cape Blanco Lighthouse - Port Orford
 
 ![](/img/cape-blanco-lighthouse-blog-695x322-jpg.jpg)
@@ -115,12 +125,16 @@ Just 48 miles south of Coos Bay, the Cape Blanco Lighthouse is the oldest standi
 * [Cape Blanco Lighthouse, Oregon at Lighthousefriends.com](https://lighthousefriends.com/light.asp?ID=125)
 * [Cape Blanco State Park - Oregon State Parks](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=44)
 
+{{< spacer 25 >}}
+
 ## Lighthouse Hunting Tips
 
 * Dress in layers and bring warm clothing, even in summer and fall. The Oregon Coast temperature is known to fluctuate.
 * Check the weather before you go. You will obviously get a much better view if you are going on a clear, sunny day. Is fog getting in the way? Don’t worry, it usually burns off once the sun comes out.
 * Wear hiking shoes if you plan to get an even better view.
 * If you plan to take pictures, bring a high-powered lens to get close-ups and/or binoculars.
+
+{{< spacer 25 >}}
 
 ## Additional Resources
 
@@ -130,6 +144,8 @@ Just 48 miles south of Coos Bay, the Cape Blanco Lighthouse is the oldest standi
 * [Oregon Coast Lighthouses Tour: Map and Itinerary](https://www.travelinusa.us/oregon-coast-lighthouses/)
 * [See all 11 lighthouses of the Oregon coast](https://www.oregonlive.com/travel/2017/02/take_a_lighthouse_road_trip_do.html)
 * [A Guide to Exploring Oregon's Lighthouses](https://www.outdoorproject.com/travel/guide-exploring-oregons-lighthouses)
+
+{{< spacer 25 >}}
 
 Click here for[ local lodging options,](https://www.oregonsadventurecoast.com/lodging/) and be sure to contact the[ Coos Bay – North Bend Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/contact/) and [request your FREE visitor’s packet](https://www.oregonsadventurecoast.com/contact/#contactform)! **Here are some other adventures and trip ideas to consider during your visit to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston.**
 
