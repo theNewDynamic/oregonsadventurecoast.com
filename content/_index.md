@@ -8,6 +8,8 @@ aliases:
 - "/rob"
 promotional_banner: https://craterlakecountry.com/coos-bay/
 slideshow:
+- photo: "/img/crab-cake-bake-off-hm-slider.jpg"
+  url: "/crab-cake-bake-off"
 - photo: "/img/spring-adv-biking-hm-slider.jpg"
   photo_mobile: "/img/spring-adv-mobile-slider-hm.jpg"
   url: "/cycling"
