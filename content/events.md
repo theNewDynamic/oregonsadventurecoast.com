@@ -15,6 +15,6 @@ aliases:
 
 {{< spacer 50 >}}
 
-<div style="width:100%"><a href="/crab-cake-bake-off"><img src="/img/crab-cake-bake-off-2048x190-04-23.jpg" alt="crab bake bake off contest enter to win a trip for two to Oregon's adventure coast" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
+<div style="width:100%"><a href="/crab-cake-bake-off"><img src="/img/crab-cake-bake-off-2048x190-04-23.jpg" alt="crab bake bake off contest enter to win a trip for two to Oregon's adventure coast" style='height: 80%; width: 80%; object-fit: contain'/></a></div>
 
 {{< spacer 50 >}}
