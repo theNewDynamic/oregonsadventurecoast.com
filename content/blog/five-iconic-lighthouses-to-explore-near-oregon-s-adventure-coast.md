@@ -73,7 +73,7 @@ Located in Bandon, the Coquille River Lighthouse Interpretive Center can be foun
 
 ## #3- Umpqua River Lighthouse - Winchester Bay
 
-![](/img/umpqua-river-lighthouse-blog-1080x1080.jpg)
+![](/img/umpqua-river-lighthouse.jpg)
 
 The Umpqua River Lighthouse is located 19 miles north of North Bend on Hwy 101 and stands 65-feet tall. Its original purpose was to signal the entrance to the Umpqua River. It was constructed in 1857, making it the first lighthouse on the Oregon Coast. Unfortunately, it collapsed during a storm, but was rebuilt in 1894. Today, this historic lighthouse is managed by Umpqua Valley Museums and is open for tours from May through September. Visitors can climb to the top of the lighthouse, but this is only possible with guided tours. The Lighthouse Visitor Center is located next door, and it is recommended to visit the museums adjacent to the Visitor Center to learn about the lighthouse's history, the surrounding area, and the US Coast Guard's presence on the Oregon Coast.
 
