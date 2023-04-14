@@ -23,4 +23,5 @@ You can pick accommodations on the Oregon Coast that will suit your needs and pr
 Look through these options and take the next step in planning your trip to the Oregon Coast!  
 **($ = Up to $99; $$ = $100-$199; $$$ = $200+)**
 
-<div style="width:100%"><a href="/adventures"><img src="/img/springadv-2048x190-03-23.jpg" alt="spring adventure hikers at waterfall and three men with salmon fishing" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
+<div style="width:100%"><a href="/crab-cake-bake-off"><img src="/img/crab-cake-bake-off-2048x190-04-23.jpg" alt="crab bake bake off contest enter to win a trip for two to Oregon's adventure coast" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
+
