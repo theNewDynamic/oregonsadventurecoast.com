@@ -82,7 +82,7 @@ seo:
   title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
 home_splashes:
 - url: "/crab-cake-bake-off"
-  img: "/img/crab-cake-bake-off-splash.jpg"
+  img: "/img/crab-cake-bake-off-splash-v02.jpg"
   alt: Crab Cake Bake-Off Contest - Enter to Win a trip for two to oregon's adventure
     coast
 
