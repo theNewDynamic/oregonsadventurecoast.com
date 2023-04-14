@@ -25,6 +25,6 @@ To help you get started discovering our exciting and exhilarating adventures, we
 
 Contact Oregon’s Adventure Coast with any questions you may have about things to do on your vacation!!
 
-[![spring break mountain biking on whiskey run trails in coos bay, north bend, charleston oregon](/img/springadv-695x86-03-23.jpg)](/cycling)
+[![crab cake bake-off enter to win a trip for two to oregon's adventure coast](/img/crab-cake-bake-off-695wide-04-23.jpg)](/crab-cake-bake-off)
 
 {{< spacer 50 >}}
