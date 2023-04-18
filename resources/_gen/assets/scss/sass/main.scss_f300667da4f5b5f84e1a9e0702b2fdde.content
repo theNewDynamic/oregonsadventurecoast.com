@@ -2915,7 +2915,7 @@ Modifier Classes for .items:
     .m-adventures li {
       font-size: 13px;
       line-height: 1.3125em; } }
-.introtext iframe {
+.introtext iframe, .introtext img {
   max-width: 100%; }
 
 .m-adventure-grid {
