@@ -1,0 +1,9 @@
+{
+  "ssg": "hugo",
+  "build_configuration": {
+    "environment_variables": [
+      { "key": "HUGO_ENV", "value": "staging" },
+      { "key": "CLOUDCANNON_CONFIG_PATH", "value": ".cloudcannon/config/_index.js" }
+    ]
+  }
+}
