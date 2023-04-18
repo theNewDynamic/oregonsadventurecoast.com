@@ -171,8 +171,9 @@ Take a vacation to Oregon’s Adventure Coast, where the land meets the bay and 
 
 We invite you to explore, to discover, to feel, and to know the incredible adventures waiting for you when you choose to take a trip to the coast. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do, full of adventure, nature, wildlife, culture, arts, shopping, and athletics. {{< spacer 20 >}}
 
-
 {{< spacer 30 >}}
+
+<a target="_blank" rel="noopener" href="/crab-cake-bake-off"><img src="/img/crab-cake-bake-off-2048x190-04-23.jpg" /></a>
 
 {{< youtube id="lqZ8lTjprxg" >}}
 
