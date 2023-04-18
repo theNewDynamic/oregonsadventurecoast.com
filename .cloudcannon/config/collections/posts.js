@@ -11,7 +11,7 @@ module.exports = {
     ]
   },
   _inputs: {
-    title: {
+    date: {
       label: 'Publish Date',
       comment: 'Date this post should be public.'
     },

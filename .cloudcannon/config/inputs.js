@@ -79,8 +79,13 @@ module.exports = {
   },
   hovertitle: {
     ...inputs.responsive_title,
-    label: "Box Animation Title",
-    comment: "Title displayed on Event box animation"
+    label: "Hover Title",
+    comment: "The title displayed on mouse hover"
+  },
+  hoverdescription: {
+    type: "textarea",
+    label: "Hover Description",
+    comment: "The text displayed on mouse hover"
   },
   photo: {
     type: "image",
@@ -90,11 +95,11 @@ module.exports = {
   photo_mobile: "input-image",
   mobilephoto: {
     ...inputs.image,
-    label: "Mobile Photo"
+    label: "Image for Mobile"
   },
   desktopphoto: {
     ...inputs.image,
-    label: "Desktop Photo"
+    label: "Image for Desktop"
   },
   photo_name: {
     ...inputs.image,
@@ -117,11 +122,6 @@ module.exports = {
     ...inputs.image,
     label: "Small",
     comment: "Image Size 340px x 214px"
-  },
-  hoverdescription: {
-    type: "textarea",
-    label: "Box Animation Description",
-    comment: "Description displayed on Event Box animation"
   },
   slideshow: {
     type: "array",
@@ -182,9 +182,16 @@ module.exports = {
     options: {
       structures: {
         values: {
+          _input: {
+            street2: {
+              label: "Street 2"
+            }
+          },
           value: {
-            street: null,
             city: null,
+            state: null,
+            street: null,
+            street2: null,
             zip: null
           }
         }

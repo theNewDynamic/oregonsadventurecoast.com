@@ -25,6 +25,11 @@ module.exports = {
       title: 'Mobile Title',
       comment: 'Title displayed on mobile',
     },
+    hovertitle: {
+      type: "text",
+      label: "Box Animation Title",
+      comment: "Title displayed on Event box animation"
+    },
     hoverdescription: {
       title: 'Box Animation Description',
       comment: 'Description displays on Event Box animation.'

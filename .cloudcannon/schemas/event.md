@@ -11,6 +11,7 @@ seo:
 desktoptitle:
 mobiletitle:
 hovertitle:
+hoverdescription:
 photo:
 largeboxphoto:
 mediumboxphoto:

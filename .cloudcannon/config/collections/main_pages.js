@@ -3,7 +3,7 @@ const { inputs, options } = require('../commons.js')
 module.exports = {
   path: "content",
   name: "Main Pages",
-  icon: "assignment_late",
+  icon: "sim_card",
   description: "This is where site's main pages go. Sections and homepages.",
   sort_options: options.sort_options,
   schemas: {
@@ -26,7 +26,7 @@ module.exports = {
     welcomeheadline: {
       label: "Welcome Headline",
       comment: "Headline displayed below the slideshow"
-    }
+    },
   },
   filter: {
     base: "none",

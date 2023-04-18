@@ -25,7 +25,7 @@ module.exports = {
       comment: "This text will determine the alpha sort."
     },
     property_description: {
-      title: 'Description'
+      label: 'Description'
     },
     equip_type: {
       type: "multiselect",

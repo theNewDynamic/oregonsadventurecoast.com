@@ -12,7 +12,8 @@ module.exports = {
   timezone: "America/Los_Angeles",
   _enabled_editors: [
     "content",
-    "data"
+    "data",
+    "source",
   ],
   paths: {
     data: "data",
