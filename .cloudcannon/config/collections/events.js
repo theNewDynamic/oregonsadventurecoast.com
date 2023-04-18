@@ -18,11 +18,11 @@ module.exports = {
   },
   _inputs: {
     desktoptitle: {
-      title: 'Desktop Title',
+      label: 'Desktop Title',
       comment: 'Title displayed on desktop'
     },
     mobiletitle: {
-      title: 'Mobile Title',
+      label: 'Mobile Title',
       comment: 'Title displayed on mobile',
     },
     hovertitle: {
@@ -31,7 +31,7 @@ module.exports = {
       comment: "Title displayed on Event box animation"
     },
     hoverdescription: {
-      title: 'Box Animation Description',
+      label: 'Box Animation Description',
       comment: 'Description displays on Event Box animation.'
     }
   },
