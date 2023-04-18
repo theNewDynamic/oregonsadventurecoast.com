@@ -1,3 +1,9 @@
 styles:
 - name: main
   path: sass/main.scss
+  fingerprint: 
+    - production
+    - staging
+  minify:
+    - production
+    - staging
