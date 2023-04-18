@@ -105,4 +105,4 @@ Water and outdoor activities abound on the Oregon Coast, from kayaking, scuba di
 
 ![](/img/02-16-18-spring-whale-watch.jpg)
 
-![](/img/05-18-18-adventure-kayak-tour.jpg)
+![Here we go](/img/05-18-18-adventure-kayak-tour.jpg "Something")
