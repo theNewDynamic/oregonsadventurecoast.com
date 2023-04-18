@@ -103,4 +103,4 @@ Water and outdoor activities abound on the Oregon Coast, from kayaking, scuba di
 
 [Butter](/event/annual-holiday-lights-at-shore-acres/)
 
-[![Test for this](/img/009-16-17721.jpg)](/calendar/)
+![](/img/02-16-18-spring-whale-watch.jpg)
