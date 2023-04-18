@@ -61,6 +61,9 @@ module.exports = {
       values: "_select_data.property_categories"
     }
   },
+  street2: {
+    label: "Street 2"
+  },
   website: {
     type: "url",
     comment: "Website's URL. Must include protocole (https://)"
@@ -182,11 +185,6 @@ module.exports = {
     options: {
       structures: {
         values: {
-          _input: {
-            street2: {
-              label: "Street 2"
-            }
-          },
           value: {
             city: null,
             state: null,
