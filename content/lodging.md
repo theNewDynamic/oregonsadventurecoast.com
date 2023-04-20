@@ -1,27 +1,26 @@
 ---
+_schema: default
 title: Places to Stay on the Oregon Coast
+draft: false
 layout: lodgingpage
-photo: "/img/lodging-header.jpg"
-instantsearch: lodging
+photo: /img/lodging-header.jpg
 seo:
-  description: Find quality, affordable accomodations for your trip to the Oregon
-    Coast!  Comfortable places to stay with various amenities in Coos Bay, North Bend,
-    & Charleston.
+  description: >-
+    Find quality, affordable accomodations for your trip to the Oregon Coast! 
+    Comfortable places to stay with various amenities in Coos Bay, North Bend, &
+    Charleston.
   title: Oregon Coast Trips Vacations - Places to Stay | Oregon's Adventure Coast
 aliases:
-- "/deals"
+  - /deals
+instantsearch: lodging
 outputs:
-- html
-- json
-
+  - html
+  - json
 ---
 As you plan your vacation to the Oregon Coast, browse our list of places to stay located throughout Coos Bay, North Bend, and Charleston. Choose the one close to all the activities and events you are planning during your trip!
 
 ## Choose Quality Lodging During Your Stay on the Oregon Coast
 
-You can pick accommodations on the Oregon Coast that will suit your needs and preferences, whether you need a place to stay that is pet-friendly, offers a fitness center, has a kitchen, and a variety of other additions.
-Look through these options and take the next step in planning your trip to the Oregon Coast!  
-**($ = Up to $99; $$ = $100-$199; $$$ = $200+)**
+You can pick accommodations on the Oregon Coast that will suit your needs and preferences, whether you need a place to stay that is pet-friendly, offers a fitness center, has a kitchen, and a variety of other additions. Look through these options and take the next step in planning your trip to the Oregon Coast!<br>**($ = Up to $99; $$ = $100-$199; $$$ = $200+)**
 
-<div style="width:100%"><a href="/crab-cake-bake-off"><img src="/img/crab-cake-bake-off-2048x190-04-23.jpg" alt="crab bake bake off contest enter to win a trip for two to Oregon's adventure coast" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
-
+<div style="width:100%"><a href="/crab-cake-bake-off"><img alt="crab bake bake off contest enter to win a trip for two to Oregon's adventure coast" style="height: 100%; width: 100%; object-fit: contain" src="/uploads/crab-cake-bake-off-2048x190-04-23-v02-1.jpg" /></a></div>
