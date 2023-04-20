@@ -4,11 +4,6 @@ module.exports = {
   path: "content/tripideas",
   name: "Trip Ideas",
   icon: "tips_and_updates",
-  filter: {
-    exclude: [
-      "_index.md"
-    ]
-  },
   schemas: {
     default: {
       ...options.base_schema,
