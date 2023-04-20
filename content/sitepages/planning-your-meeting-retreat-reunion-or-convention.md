@@ -13,7 +13,7 @@ Hosting a meeting, retreat, reunion, or convention takes some effort but we’re
 To start, we’ve created some planning tools to help you get organized and host a meeting that will keep people talking about you and all that the Coos Bay, North Bend, and Charleston area have to offer your guests.
 
 * [Things to consider when planning a Meeting or Convention](/img/things-to-consider.pdf)
-* [Conventions Checklist](/uploads/Small-Gathering-Checklist-04-23.pdf)
-* [Small Gatherings](/img/small-gathering-checklist.pdf) Checklist *(Retreats & Family Reunions)*
+* [Conventions Checklist](/uploads/Convention-Checklist-04-23.pdf)
+* [Small Gatherings](/uploads/Small-Gathering-Checklist-04-23.pdf) Checklist *(Retreats & Family Reunions)*
 
 If you’d like more personalized help, e-mail us today at [info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com).
