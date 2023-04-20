@@ -1,18 +1,22 @@
 ---
+_schema: default
 title: Claw-some Crab Cake Bake-Off
+draft: false
 url: crab-cake-bake-off
 layout: contact
-photo: "/img/crab-cake-subpage-header-02.jpg"
+photo: /img/crab-cake-subpage-header-02.jpg
 ctas: []
 seo:
   title: ''
-  description: ''
+  description: >-
+    baking contest, cake decorating contest, cake contest, bake off, cake
+    decorating, cake design, deco cake, caking competition, junior bake off,
+    baking competition near me, cake competition, baking contest near me
   imgalt: ''
   image: ''
 aliases: []
 accordion_sections: []
 boxes: []
-
 ---
 ![Crab Cake Bake-Off Sample Cake showing undersea creatures](/img/gwen-cake-two-version-01.jpg)
 
@@ -42,9 +46,9 @@ This is a cake baking contest. A cake is an item made with flour, eggs, flavorin
 
 Any and all people are welcome to enter the bake-off! Kids and Adults of any age are welcome to participate. Both inexperienced and experienced bakers are eligible to enter. There is an amateur and a professional category.
 
-Contestants may work individually or with a team. _(Prizes will be awarded to 1 member per team only, NOT each individual.)_
+Contestants may work individually or with a team. *(Prizes will be awarded to 1 member per team only, NOT each individual.)*
 
-### <a href="/crab-cake-bake-off-form" class="learn-more-anywhere-btn">ENTER CONTEST</a>
+### <a class="learn-more-anywhere-btn" href="/crab-cake-bake-off-form">ENTER CONTEST</a>
 
 ![Under sea theme of crab cake showing crabs on ocean floor](/img/crab-cake-cheryle-photos-02.jpg)
 
@@ -60,7 +64,7 @@ Contestants may work individually or with a team. _(Prizes will be awarded to 1 
 **Professional**
 
 * In Training (such as culinary schools)
-* On the Job _(those working professionally in a bakery, restaurant, school or other facility)_
+* On the Job *(those working professionally in a bakery, restaurant, school or other facility)*
 
 {{< spacer 25 >}}
 
@@ -75,7 +79,7 @@ We will be looking for the most creative interpretation of incorporating crab im
 
 Appearance and creativity are paramount, but understanding the ingredients used will also be considered.
 
-**_NOTE:_** _Any and all photographs and video submitted for judging could be used in future promotion of the contest and Oregon’s Adventure Coast. By submitting photos and videos, you consent to the unlimited usage of such photos and videos by Oregon’s Adventure Coast._
+***NOTE:*** *Any and all photographs and video submitted for judging could be used in future promotion of the contest and Oregon’s Adventure Coast. By submitting photos and videos, you consent to the unlimited usage of such photos and videos by Oregon’s Adventure Coast.*
 
 {{< spacer 25 >}}
 
@@ -83,7 +87,7 @@ Appearance and creativity are paramount, but understanding the ingredients used 
 
 **First Place** prizes will be awarded in both the Amateur and Professional categories.
 
-> _Each First Place Winner will receive a trip for two to Oregon’s Adventure Coast, including a 2-night stay, meal vouchers, and Oregon’s Adventure Coast goodies._
+> *Each First Place Winner will receive a trip for two to Oregon’s Adventure Coast, including a 2-night stay, meal vouchers, and Oregon’s Adventure Coast goodies.*
 
 **Second & Third Place** winners in each category will receive a goodie basket of Oregon’s Adventure Coast products.
 
@@ -103,4 +107,4 @@ Click the link below to enter the contest, submit your photos/videos and ingredi
 
 Judges will review all entry photographs, videos and ingredients list and will judge on creativity in use of theme and expected taste of the item based on those ingredients.
 
-### <a href="/crab-cake-bake-off-form" class="learn-more-anywhere-btn">ENTER CONTEST</a>
+### <a class="learn-more-anywhere-btn" href="/crab-cake-bake-off-form">ENTER CONTEST</a>
