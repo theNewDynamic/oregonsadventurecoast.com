@@ -2,6 +2,10 @@ const { inputs, options } = require ('./commons.js')
 
 module.exports = {
   copy: inputs.markdown,
+  copy_full_editor: {
+    ...inputs.markdown,
+    options: options.editable_base,
+  },
   content: inputs.markdown,
   description: inputs.markdown,
   template: inputs.hidden,

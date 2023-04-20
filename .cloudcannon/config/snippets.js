@@ -195,7 +195,7 @@ module.exports = {
   columns: {
     template: "hugo_paired_shortcode_named_args",
     definitions: {
-      content_key: "copy",
+      content_key: "copy_full_editor",
       shortcode_name: "columns",
       named_args: [
         {
