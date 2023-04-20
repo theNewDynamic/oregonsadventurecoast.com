@@ -8,7 +8,7 @@ photo: /img/meeting-planners.jpg
 aliases:
   - /group-travel/bring-it-home-planning-your-meeting
 ---
-Hosting a meeting, retreat, reunion, or convention takes some effort but we’re here to make things easy for you. We will help you identify sites, hotels and activities and get you connected with the resources you’ll need. Our local hotels and convention sites are also a tremendous asset and can relieve much of the planning burden for you.
+Hosting a convention, meeting, retreat, reunion, or convention takes some effort but we’re here to make things easy for you. We will help you identify sites, hotels and activities and get you connected with the resources you’ll need. Our local hotels and convention sites are also a tremendous asset and can relieve much of the planning burden for you.
 
 To start, we’ve created some planning tools to help you get organized and host a meeting that will keep people talking about you and all that the Coos Bay, North Bend, and Charleston area have to offer your guests.
 
