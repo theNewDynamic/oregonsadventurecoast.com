@@ -5,11 +5,6 @@ module.exports = {
   name: "Regular Pages",
   icon: "tour",
   sort_options: options.sort_options,
-  filter: {
-    exclude: [
-      "_index.md"
-    ]
-  },
   schemas: {
     default: {
       ...options.base_schema,
