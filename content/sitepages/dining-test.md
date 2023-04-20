@@ -12,6 +12,6 @@ ctas:
 ---
 dining test
 
-[Dining Guide](/img/restaurants-booklet.pdf)
+[Dining Guide](/img/small-gathering-checklist.pdf)
 
-https://flowing-gum.cloudvent.net/static/img/small-gathering-checklist.pdf
+[https://flowing-gum.cloudvent.net/static/img/small-gathering-checklist.pdf](https://flowing-gum.cloudvent.net/static/img/small-gathering-checklist.pdf)
