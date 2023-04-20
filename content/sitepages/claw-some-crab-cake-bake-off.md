@@ -74,7 +74,7 @@ We will be looking for the most creative interpretation of incorporating crab im
 
 * **Physical cakes will not be submitted for this contest**
 * Photographs and videos of the process and final cake item are the submission items
-* Entries must include a video of someone cutting and taking a bite of the cake to ensure it is an edible item
+* **<u>Entries must include a video</u> of someone cutting and taking a bite of the cake to ensure it is an edible item**
 * A list of ingredients used must also be submitted
 
 Appearance and creativity are paramount, but understanding the ingredients used will also be considered.
