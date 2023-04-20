@@ -30,6 +30,7 @@ seo:
 aliases: []
 accordion_sections: []
 warning: true
+warning_copy: Details in this post may be out of date.
 old_categories:
   - Miscellaneous
 ---
