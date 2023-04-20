@@ -10,11 +10,6 @@ module.exports = {
   _enabled_editors: [
     "data"
   ],
-  filter: {
-    exclude: [
-      "_index.md"
-    ]
-  },
   schemas: {
     default: {
       ...options.base_schema,

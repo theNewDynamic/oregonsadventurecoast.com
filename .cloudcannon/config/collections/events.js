@@ -5,11 +5,7 @@ module.exports = {
   name: "Events",
   icon: "calendar_month",
   subtext_key: "startdate",
-  filter: {
-    exclude: [
-      "_index.md"
-    ]
-  },
+
   schemas: {
     default: {
       ...options.base_schema,
