@@ -1,5 +1,0 @@
----
-title: Event
-outputs:
-- json
----
