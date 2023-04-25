@@ -24,7 +24,7 @@ module.exports = {
       key: "title",
       order: "desc"
     }
-  ]
+  ],
   filter: {
     exclude: [
       "_index.md"
