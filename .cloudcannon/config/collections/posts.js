@@ -4,7 +4,27 @@ module.exports = {
   path: "content/blog",
   name: "Blog Post",
   icon: "article",
-  sort_options: options.sort_options,
+  // sort_options: options.sort_options,
+  sort_options: [
+    {
+      key: "date",
+      order: "desc",
+      label: "Date (Newest First)"
+    },
+    {
+      key: "date",
+      order: "asc",
+      label: "Date (Oldest First)"
+    },
+    {
+      key: "title",
+      order: "asc"
+    },
+    {
+      key: "title",
+      order: "desc"
+    }
+  ]
   filter: {
     exclude: [
       "_index.md"
