@@ -2,7 +2,7 @@
 <div class="cta-wrap">
   {{ range . }}
     {{ $action := .action | default "Click here" }}
-    <a href="{{ .url }}" class="cta">
+    <a href="{{ .url }}" class="cta" target="_blank">
       {{ with .image }}
         <img src="{{ . }}" alt="">
       {{ end }}
