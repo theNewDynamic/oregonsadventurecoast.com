@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Claw Your Way to Victory in our "Claw-some" Crab Cake Bake-Off!
-draft: true
+draft: false
 date: 2023-04-28T00:00:00-07:00
 description: >-
   *Enter our Innaugural Crab Cake Baking Competition for a Chance to Win an Epic
