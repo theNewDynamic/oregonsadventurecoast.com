@@ -23,6 +23,11 @@ module.exports = {
     {
       key: "title",
       order: "desc"
+    },
+    {
+      label: "Drafted",
+      key: "draft",
+      order: "asc"
     }
   ],
   filter: {

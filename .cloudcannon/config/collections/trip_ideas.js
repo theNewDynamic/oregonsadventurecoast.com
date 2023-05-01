@@ -4,6 +4,7 @@ module.exports = {
   path: "content/tripideas",
   name: "Trip Ideas",
   icon: "tips_and_updates",
+  parse_branch_index: true,
   schemas: {
     default: {
       ...options.base_schema,
