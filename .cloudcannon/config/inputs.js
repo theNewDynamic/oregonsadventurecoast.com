@@ -26,6 +26,7 @@ module.exports = {
     type: 'text'
   },
   warning: {
+    hidden: true,
     type: "switch",
     comment: "Should the post display the Blog's warning?"
   },

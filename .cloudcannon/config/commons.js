@@ -130,7 +130,7 @@ module.exports ={
       blockquote: true,
       link: true,
       bold: true,
-      format: "p h1 h2 h3",
+      format: "p h1 h2 h3 h4 h5 h6",
       italic: true,
       strike: false,
       subscript: false,
