@@ -17,7 +17,7 @@ module.exports = {
   ],
   paths: {
     data: "data",
-    uploads: 'img'
+    uploads: 'static/img'
     //dam_uploads: '[filename]'
   },
   data_config: {
