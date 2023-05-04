@@ -44,7 +44,7 @@ This is a cake baking contest. A cake is an item made with flour, eggs, flavorin
 
 ### WHO CAN ENTER?
 
-Any and all people are welcome to enter the bake-off! Kids and Adults of any age are welcome to participate. Both inexperienced and experienced bakers are eligible to enter. There is an amateur and a professional category.
+Any and all people are welcome to enter the bake-off! Kids 10-17 and Adults of any age are welcome to participate. Both inexperienced and experienced bakers are eligible to enter. There is an amateur and a professional category.
 
 Contestants may work individually or with a team. *(Prizes will be awarded to 1 member per team only, NOT each individual.)*
 
