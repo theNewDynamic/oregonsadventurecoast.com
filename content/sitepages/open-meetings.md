@@ -1,41 +1,52 @@
 ---
+_schema: default
 title: Open Meetings
+draft: false
 url: open-meetings
 layout: open-meetings
-photo: "/img/undeveloped-beaches-sub-header.jpg"
+photo: /img/undeveloped-beaches-sub-header.jpg
 seo:
   description: ''
   title: ''
   imgalt: ''
   image: ''
-date: '2019-02-18T19:35:33.000+00:00'
 aliases:
-- "/aboutthevcb"
-- "/AboutTheVCB"
-
+  - /aboutthevcb
+  - /AboutTheVCB
+date: '2019-02-18T19:35:33.000+00:00'
 ---
 #### **Monthly Board Meetings: Coos Bay-North Bend-Charleston Visitor & Convention Bureau**
 
-{{< spacer 50 >}}
+**{{< spacer "25" >}}**
 
 **The Board of Directors of the Coos Bay-North Bend-Charleston Visitor & Convention Bureau meets monthly to discuss VCB projects, set policy, and plan for the future.**
 
-_These meetings are open to the public and are available for attendance in person or for viewing online via Zoom. To attend in person, RSVP is REQUIRED._
+*These meetings are open to the public and are available for attendance in person or for viewing online via Zoom. To attend in person, RSVP is REQUIRED.*
 
-Board Meetings are generally held at  [**The Mill Casino * Hotel**](https://www.themillcasino.com/) in the 2nd floor meeting rooms of the hotel property.
+Board Meetings are generally held at [**The Mill Casino \* Hotel**](https://www.themillcasino.com/) in the 2nd floor meeting rooms of the hotel property.
 
 Board Meetings are usually held on the **2nd Thursday of the month from 8:30 am to approximately 9:45 am**.
 
-_On occasion, changes are made to this schedule. To be informed of meeting times/locations,_ [_please ask to be added_](mailto:janice@oregonsadventurecoast.com) _to the **Public Notice** email which goes out the Monday prior to the meeting._
+*On occasion, changes are made to this schedule. To be informed of meeting times/locations,* [*please ask to be added*](mailto:janice@oregonsadventurecoast.com) *to the **Public Notice** email which goes out the Monday prior to the meeting.*
 
 * **Those who wish to attend in person must RSVP** to the [Executive Director](mailto:janice@oregonsadventurecoast.com) to ensure adequate seating and spacing in the meeting room.
 * **Those who wish to attend via Zoom**, are able to do so by clicking on the link in the Agenda for the meeting or by [clicking this link](https://us02web.zoom.us/j/81105093209?pwd=ZTFobnJYWFV0UWdvaXJETktBSmNyZz09). Agendas are sent with the **Public Notice Announcement**.
 
-{{< spacer 50 >}}
+{{< spacer 25 >}}
+
+About Public Meetings
+
+A "Public Meeting" is a convening of a quorum of the governing body of public body for the purpose of deciding or deliberating upon issues. Without a quorum, the meeting is not a public meeting and the open meetings law does not apply.
+
+Public Meetings Law is not a "public participation law." The right of the public to attend meetings does not include the right to participate by giving testimony or comment.
+
+The presiding office has the inherent authority to keep order and impost reasonable restrictions necessary for the orderly and efficient conduct of the meeting. Unless the board decides otherwise, the presiding officer may regulate or disallow public input, may limit public input to relevant points, and may establish time limits for such input.
+
+{{< spacer "50" >}}
 
 #### [**Ask to be added to the Public Notice Announcement!**](mailto:janice@oregonsadventurecoast.com "Add me to the Public Notice Announcement")
 
-{{< spacer 50 >}}
+{{< spacer 50 >}}<img width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" style="color: var(--color-carbon); font-family: var(--font-family); letter-spacing: 0.01rem;" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" /><img width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" style="color: var(--color-carbon); font-family: var(--font-family); letter-spacing: 0.01rem;" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
 
 #### Board Packets
 
