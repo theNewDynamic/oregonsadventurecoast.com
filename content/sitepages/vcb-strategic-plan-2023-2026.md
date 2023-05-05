@@ -1,8 +1,10 @@
 ---
+_schema: default
 title: VCB Strategic Plan - 2023-2026
-url: "/stratplan"
+draft: false
+url: /stratplan
 layout: open-meetings
-photo: "/img/charleston-marina-2048x530.jpg"
+photo: /img/charleston-marina-2048x530.jpg
 ctas: []
 seo:
   title: ''
@@ -12,19 +14,18 @@ seo:
 aliases: []
 accordion_sections: []
 boxes: []
-
 ---
 In 2022, the **Coos Bay-North Bend-Charleston Visitor & Convention Bureau (VCB)** undertook a Strategic Planning Process to guide the next three years of destination and organizational development. View the documents listed below for more information on the process and Official Strategic Plan.
 
 {{< spacer 50 >}}
 
-#### [**VCB Strategic Plan**](/img/vcb-strategicplan-23-26.pdf) 
+#### [**VCB Strategic Plan**](/img/VCB-StrategicPlan-23-26.pdf)
 
 This document is a full discussion of the process, the why, and the outcomes.
 
 {{< spacer 25 >}}
 
-#### [**One-Page Strategic Plan**](/img/cbnbcvcb-final-strategic-plan-23-26.pdf) 
+#### [**One-Page Strategic Plan**](/img/cbnbcvcb-final-strategic-plan-23-26.pdf)
 
 This document culls down the process to the main elements of Vision, Mission, Values and Objectives.
 
