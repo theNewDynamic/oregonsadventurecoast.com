@@ -26,4 +26,4 @@ The **Coos Bay-North Bend Visitor & Convention Bureau (VCB)** and the Coos Bay V
 
 **Sign Up for Our Local Industry Communication Newsletter**<br>Stay up to date with the latest goings-on with community leaders and local partnerships! We, of course, promise not to inundate your inbox.&nbsp;
 
-XXX
+<script type="text/javascript" src="https://form.jotform.com/jsform/231117507748154"></script>
