@@ -24,4 +24,6 @@ The **Coos Bay-North Bend Visitor & Convention Bureau (VCB)** and the Coos Bay V
 
 **Requests for VCB Grant Funds**<br>The VCB has very limited funds available for first time events and initial costs of a new project or program. These funds are based on the available budget the VCB is allotted based on Lodging Tax collections. A maximum of $3,000 can be awarded and an application process is required. Grant application: [Tourism Grant Program - CBNB PDF](/img/tourism-grant-program-cbnb.pdf).
 
-**Sign Up for Our Local Industry Communication Newsletter**<br>Stay up to date with the latest goings-on with community leaders and local partnerships! We, of course, promise not to inundate your inbox.&nbsp;
+**Sign Up for Our Local Industry Communication Newsletter**<br>Stay up to date with the latest goings-on with community leaders and local partnerships! We, of course, promise not to inundate your inbox.
+
+<script type="text/javascript" src="https://form.jotform.com/jsform/231117507748154"></script>
