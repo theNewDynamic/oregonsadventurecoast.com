@@ -1,16 +1,18 @@
 ---
+_schema: default
 title: Unplug & Reconnect With Nature at the South Slough NERR
-date: 2020-10-24T04:00:00.000+00:00
-description: 'South Slough NERR is the ideal destination to find some peace and reconnect
-  with nature. Families, hikers, kayakers, wild-life watchers and everyone in between
-  all seem to agree that this special destination is perfect for walking along wooded
-  trails, exploring open water channels, tidal and freshwater wetlands, riparian areas,
-  and forested uplands. '
-image: "/img/south-slough-nerr-blog-695x322-jpg-1-1.png"
+draft: false
+date: 2020-10-23T21:00:00-07:00
+description: >-
+  South Slough NERR is the ideal destination to find some peace and reconnect
+  with nature. Families, hikers, kayakers, wild-life watchers and everyone in
+  between all seem to agree that this special destination is perfect for walking
+  along wooded trails, exploring open water channels, tidal and freshwater
+  wetlands, riparian areas, and forested uplands.
+image: /img/south-slough-nerr-blog-695x322-jpg-1-1.png
 tags: []
 categories:
-- State Parks & National Lands
-old_categories: []
+  - State Parks & National Lands
 seo:
   title: ''
   description: ''
@@ -19,8 +21,7 @@ seo:
 aliases: []
 accordion_sections: []
 warning: true
-warning_copy: ''
-
+old_categories: []
 ---
 In case you haven’t heard, there’s an abundance of wide, open spaces in Coos Bay, North Bend & Charleston for visitors to safely explore while following Oregon’s Safe+Strong guidelines. We are, after all, known as “Oregon’s Adventure Coast”! For those of us fortunate enough to reside here, we can’t get enough of beautiful outdoor destinations like [The South Slough National Estuarine Research Reserve (South Slough NERR)](https://www.oregon.gov/dsl/SS/Pages/About.aspx), 5,000-acre natural area located in the Coos estuary.
 
@@ -38,10 +39,8 @@ Others wrote:
 >
 > “What an asset to this area! Beautiful trails, very friendly and helpful staff, great for all ages!!” - Heather R.
 
-Ready to visit? South Slough NERR is located at 61907 Seven Devils Road Charleston, OR 97420. For more information, go to[ www.oregon.gov](http://www.oregon.gov/dsl/SSNERR/Pages/index.aspx) or call (541) 888-5558 for info.
+Ready to visit? South Slough NERR is located at 61907 Seven Devils Road Charleston, OR 97420. For more information, go to[www.oregon.gov](http://www.oregon.gov/dsl/SSNERR/Pages/index.aspx) or call (541) 888-5558 for info.
 
-**COVID UPDATE (As of 10/22/2020)**
+{{< spacer "25" >}}
 
-South Slough Estuarine Research Reserve trails and waterways are open. Restrooms are open on weekdays from 8 a.m. to 4 p.m. [Learn more](https://www.oregon.gov/dsl/News/Documents/NewsRelease_SouthSloughReopeningTrailsRestrooms.pdf). The Reserve Visitor Center remains closed until further notice. All South Slough Reserve programs, field trips, events, and meetings have been canceled until further notice.
-
-We look forward to welcoming you back to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. For more travel inspiration, see our [Adventures page](https://www.oregonsadventurecoast.com/adventures) and our [Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast! Or [request a visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform). Please be sure to follow Oregon’s [Safe+Strong guidelines ](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you)when you visit to keep our community safe and remember that face coverings are required in public spaces. Do not hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
+For more travel inspiration, see our [Adventures page](https://www.oregonsadventurecoast.com/adventures) and our [Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast! Or [request a visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform). Do not hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
