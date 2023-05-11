@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: "Seven Reasons to Visit the Coos Bay-North Bend-Charleston Area This Summer\_"
-draft: false
+draft: true
 date: 2023-05-11T00:00:00-07:00
 description: >-
   There Are Many Reasons to Join Us for an Epic Adventure this Summer, Here are
