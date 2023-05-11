@@ -108,36 +108,28 @@ On Sunday from 1:30 pm – 4:00 pm guests will also have a chance to sample the 
 
 #### **COMPETING TEAMS FOR 2023**
 
-1\. Good’Woods Bar-B-Que - CA.
-
-2\. Jerimiah Johnson Mountain Man BBQ - WA
-
-3\. Prison Break BBQ - CA.
-
-4\. Bearded Boar BBQ - ID
-
-5\. Son of Smoke BBQ - CA
-
-6\. Fat Dad's Barbeque - OR
-
-7\. Big Bite BBQ - OR
-
-8\. Dirty Old Basters - OR
-
-9\. Smokin' Timbers Northwest - OR
-
-10\. Small Axe BBQ - OR
-
-11\. J & C BBQ - OR
-
-12\. Vitamin Q BBQ - WA
-
-13\. Rob's Smoking and Grilling - WA
-
-14\. Smokin AXE BBQ - CA
-
-15\. BBQ Bros - OR
-
-16\. Newt's BBQ - WA
-
-17\. 503 Backyard BBQ - OR
+1. Good 'Woods Bar-B-Que
+2. Bearded Boar BBQ
+3. Jerimiah Johnson Mountain Man BBQ
+4. Son of Smoke
+5. Prison Break BBQ
+6. Old Dirty Basters
+7. Fat Dad's Barbeque
+8. Big Bite BBQ
+9. Smokin' Timbers Northwest
+10. Small Axe BBQ
+11. 503 Backyard BBQ
+12. Robs Smokin and Grillin BBQ
+13. Vitamin Q BBQ LLC
+14. Newt's Barbeque
+15. J&C BBQ
+16. Smokin' Axe BBQ
+17. PNR BBQ
+18. Slo-mo-que
+19. RJ's Smokehouse
+20. Smoke324
+21. Warpig Smokehouse
+22. Rolling Smoke BBQ & Co
+23. Hogger Q
+24. NW BBQ Co
+25. Crooked Pigs
