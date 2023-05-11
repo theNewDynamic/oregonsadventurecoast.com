@@ -3,5 +3,8 @@ _schema: default
 title: Thank You For Your Industry Newsletter Sign Up!
 draft: false
 url: /thank-you-industry
-layout: thank-you
+layout: press-media-industry
 ---
+![](/img/thankyou-page-graphic.png)
+
+[Back to the Local Industry Page &gt;&gt;](/local-industry-resources)
