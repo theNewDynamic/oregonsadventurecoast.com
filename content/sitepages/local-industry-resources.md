@@ -12,16 +12,18 @@ seo:
   image: ''
 aliases: []
 accordion_sections:
-  - title: Economic Impact Presentations - 2023 National Tourism Week Luncheon
+  - title:
     accordions:
-      - title: Travel Oregon Tourism Week Presentation
+      - title: Economic Impact Presentations - 2023 Ntl Tourism Week Luncheon
         content: >-
-          [Travel Oregon Tourism Week
-          Presentation](/img/BayAreaChamber_May-2023.pdf)
-      - title: 'CBNBC VCB Coos County Economic Impact Presentation '
-        content: >-
-          [CBNBC VCB Coos County Economic Impact
-          Presentation](/img/NTTW-COOS-PRESENTATION.pdf)
+          <a target="_blank" rel="noopener"
+          href="/img/BayAreaChamber_May-2023.pdf">Travel Oregon Tourism Week
+          Presentation</a>
+
+
+          <a target="_blank" rel="noopener"
+          href="/img/NTTW-COOS-PRESENTATION.pdf">CBNBC VCB Coos County Economic
+          Impact Presentation</a>
 boxes: []
 ---
 ## Local Industry Resources
@@ -34,6 +36,6 @@ The **Coos Bay-North Bend Visitor & Convention Bureau (VCB)** and the Coos Bay V
 
 **Requests for VCB Grant Funds**<br>The VCB has very limited funds available for first time events and initial costs of a new project or program. These funds are based on the available budget the VCB is allotted based on Lodging Tax collections. A maximum of $3,000 can be awarded and an application process is required. Grant application: [Tourism Grant Program - CBNB PDF](/img/tourism-grant-program-cbnb.pdf).
 
-**Sign Up for Our Local Industry Communication Newsletter**<br>Stay up to date with the latest goings-on with community leaders and local partnerships! We promise not to inundate your inbox.
+{{< accordions >}}
 
-<script type="text/javascript" src="https://form.jotform.com/jsform/231117507748154"></script>
+**Sign Up for Our Local Industry Communication Newsletter**<br>Stay up to date with the latest goings-on with community leaders and local partnerships! We promise not to inundate your inbox.
