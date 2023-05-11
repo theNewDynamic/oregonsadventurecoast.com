@@ -14,7 +14,7 @@ aliases: []
 accordion_sections:
   - title:
     accordions:
-      - title: Economic Impact Presentations - 2023 National Tourism Week Luncheon
+      - title: Economic Impact Presentations - 2023 Ntl Tourism Week Luncheon
         content: >-
           <a target="_blank" rel="noopener"
           href="/img/BayAreaChamber_May-2023.pdf">Travel Oregon Tourism Week
