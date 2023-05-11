@@ -12,16 +12,18 @@ seo:
   image: ''
 aliases: []
 accordion_sections:
-  - title: Economic Impact Presentations - 2023 National Tourism Week Luncheon
+  - title:
     accordions:
-      - title: Travel Oregon Tourism Week Presentation
+      - title: Economic Impact Presentations - 2023 National Tourism Week Luncheon
         content: >-
-          [Travel Oregon Tourism Week
-          Presentation](/img/BayAreaChamber_May-2023.pdf)
-      - title: 'CBNBC VCB Coos County Economic Impact Presentation '
-        content: >-
-          [CBNBC VCB Coos County Economic Impact
-          Presentation](/img/NTTW-COOS-PRESENTATION.pdf)
+          <a target="_blank" rel="noopener"
+          href="/img/BayAreaChamber_May-2023.pdf">Travel Oregon Tourism Week
+          Presentation</a>
+
+
+          <a target="_blank" rel="noopener"
+          href="/img/NTTW-COOS-PRESENTATION.pdf">CBNBC VCB Coos County Economic
+          Impact Presentation</a>
 boxes: []
 ---
 ## Local Industry Resources
