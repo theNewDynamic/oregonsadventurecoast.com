@@ -52,7 +52,9 @@ For the 10th Year, The Mill brings you **finger-lickin' good barbeque** for a Ka
 
 #### BLUES!
 
-**Smokin’ hot tunes** from some of the best blues musicians throughout both days. After grabbing some BBQ and a Brew, stop in the music tent to hear these great bands!
+**Smokin’ hot tunes** from some of the best blues musicians - Ben Rice Band and Lisa Mann -&nbsp;throughout both days. After grabbing some BBQ and a Brew, stop in the music tent to hear these great bands!
+
+Live Entertainment kicks off on Friday, May 26th with Whiskey Banditos in Salmon Room East from 8:00pm –11:00pm!
 
 {{< spacer 50 >}}
 
@@ -60,11 +62,9 @@ For the 10th Year, The Mill brings you **finger-lickin' good barbeque** for a Ka
 
 #### BREWS!
 
-**New and improved**! Enjoy samples from over 20 breweries as you wander through the event. You can also vote for the People’s Choice Best Brew!
+**New and improved**!&nbsp; At each of the three beer stations guests will be able to buy a commemorative logo’d pint cup for $10, or $15 for a cup and a 16oz beer pour of their choice.
 
-When guests enter the event, they will be able to buy a commemorative logo’d glass for $15. The glass comes with 10 tokens for samples of the 30+ flavors of beers at the 4 beer stations throughout the event. Each token is valid for one 2 oz sample.
-
-Guests can also purchase tokens for $1 each. Full-size domestic beers and a selection of wine will also be available for purchase with cash or card.
+Full-size 16oz beers on tap are $7 and sample size 5oz beers are $4. A selection of wine will also be available for purchase with cash or card. Upon exiting, guests will be able to vote for the People’s Choice Best Brew. Guests can use cash or card for all cup and beer purchases.
 
 {{< spacer 50 >}}
 
@@ -78,9 +78,11 @@ Guests can also purchase tokens for $1 each. Full-size domestic beers and a sele
 
 **12:00 PM – 6:00 PM** – Enjoy Vendors, Live Entertainment, Craft Brews, and sample BBQ & Mac ‘N Cheese from competitors
 
-**12:00 PM – 3:00 PM** – Live Entertainment
+**\*Samples:** On Saturday from 12:00 pm – 6:00 pm and Sunday from 12:00pm – 4:00pm, (While Supplies Last!) guests will be able to purchase 2oz samples from the participating competitors using cash or card. Samples will be sold for $2-$5 each.&nbsp;
 
-**3:00 PM – 6:00 PM** – Live Entertainment
+**12:00 PM – 3:00 PM** – Lisa Mann in the Event Tent
+
+**3:00 PM – 6:00 PM** – Ben Rice Band in the Event Tent
 
 {{< spacer 50 >}}
 
@@ -88,9 +90,11 @@ Guests can also purchase tokens for $1 each. Full-size domestic beers and a sele
 
 **12:00 PM – 4:00 PM** – Enjoy Vendors, Live Entertainment, Craft Brews, and sample BBQ & Mac ‘N Cheese from competitors
 
-**12:00 PM – 2:00 PM** – Live Entertainment
+**\*Samples:** On Saturday from 12:00 pm – 6:00 pm and Sunday from 12:00pm – 4:00pm, (While Supplies Last!) guests will be able to purchase 2oz samples from the participating competitors using cash or card. Samples will be sold for $2-$5 each.&nbsp;
 
-**2:00 PM – 4:00 PM** – Live Entertainment
+On Sunday from 1:30 pm – 4:00 pm guests will also have a chance to sample the competitors Mac N’ Cheese creations (While Supplies Last) and remaining BBQ samples from the judging process from the participating competitors.&nbsp;
+
+**12:00 PM – 4:00 PM** – Lisa Mann and Ben Rice Band Together! in the Event Tent
 
 **2:00 PM** – Jim Monihan Mac ‘N Cheese Challenge
 
@@ -98,42 +102,34 @@ Guests can also purchase tokens for $1 each. Full-size domestic beers and a sele
 
 {{< spacer 50 >}}
 
-\***ALL SAMPLES AVAILABLE AT THE FESTIVAL ARE WHILE SUPPLIES LAST. GET YOUR BBQ BUCKS AT THE INFORMATION TABLES.**
+\***ALL SAMPLES AVAILABLE AT THE FESTIVAL ARE WHILE SUPPLIES LAST. Note:&nbsp;** In addition to the **25** competing teams that will be here, The Mill’s Grab N’ Go will be serving full meals.&nbsp;
 
 {{< spacer 50 >}}
 
 #### **COMPETING TEAMS FOR 2023**
 
-1\. Good’Woods Bar-B-Que - CA.
-
-2\. Jerimiah Johnson Mountain Man BBQ - WA
-
-3\. Prison Break BBQ - CA.
-
-4\. Bearded Boar BBQ - ID
-
-5\. Son of Smoke BBQ - CA
-
-6\. Fat Dad's Barbeque - OR
-
-7\. Big Bite BBQ - OR
-
-8\. Dirty Old Basters - OR
-
-9\. Smokin' Timbers Northwest - OR
-
-10\. Small Axe BBQ - OR
-
-11\. J & C BBQ - OR
-
-12\. Vitamin Q BBQ - WA
-
-13\. Rob's Smoking and Grilling - WA
-
-14\. Smokin AXE BBQ - CA
-
-15\. BBQ Bros - OR
-
-16\. Newt's BBQ - WA
-
-17\. 503 Backyard BBQ - OR
+1. Good 'Woods Bar-B-Que
+2. Bearded Boar BBQ
+3. Jerimiah Johnson Mountain Man BBQ
+4. Son of Smoke
+5. Prison Break BBQ
+6. Old Dirty Basters
+7. Fat Dad's Barbeque
+8. Big Bite BBQ
+9. Smokin' Timbers Northwest
+10. Small Axe BBQ
+11. 503 Backyard BBQ
+12. Robs Smokin and Grillin BBQ
+13. Vitamin Q BBQ LLC
+14. Newt's Barbeque
+15. J&C BBQ
+16. Smokin' Axe BBQ
+17. PNR BBQ
+18. Slo-mo-que
+19. RJ's Smokehouse
+20. Smoke324
+21. Warpig Smokehouse
+22. Rolling Smoke BBQ & Co
+23. Hogger Q
+24. NW BBQ Co
+25. Crooked Pigs
