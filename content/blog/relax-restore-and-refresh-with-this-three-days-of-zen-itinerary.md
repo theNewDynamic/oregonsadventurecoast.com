@@ -7,7 +7,22 @@ description: >-
   *Oregon’s Adventure Coast is a wonderful place to restore physical and mental
   wellness. Whether you prefer hiking, yoga, or simply sitting in a quiet spot,
   there is something for everyone here.&nbsp;*
-tags: []
+image: /img/three-days-of-zen-itinerary-blog-695x322-jpg.jpg
+tags:
+  - Oregon Coast
+  - Oregon's Adventure Coast
+  - Coos Bay
+  - North Bend
+  - Charleston
+  - Itinerary
+  - Yoga
+  - Forest Bathing
+  - Hiking
+  - Golden and Silver Falls
+  - Cape Arago Beach Loop
+  - Simpson Reef and Shell Island
+categories:
+  - Itineraries
 aliases: []
 warning: false
 ---
@@ -25,9 +40,9 @@ After making the beautiful drive to **Oregon’s Adventure Coast: Coos Bay, Nort
 
 If you don’t own a paddleboard, do not worry! You can rent them at various businesses in the Coos Bay, North Bend, Charleston area. Here are three to consider contacting:&nbsp;
 
-* [**<u>Bahama Boards</u>**](https://bahamaboardz.com/coos-bay-shop/) ** ** 650 Ivy Street ● Coos Bay ● 541-808-3535. Rent kayaks, boogie boards, surfboards, stand up paddleboards, sand boards, PFDs, wetsuits, supplies and more. At the corner of Hwy 101 and Ivy Street. Open Tues-Sat 10am-6pm, Sun by Appt.
+* [**<u>Bahama Boards</u>**](https://bahamaboardz.com/coos-bay-shop/) \*\* \*\* 650 Ivy Street ● Coos Bay ● 541-808-3535. Rent kayaks, boogie boards, surfboards, stand up paddleboards, sand boards, PFDs, wetsuits, supplies and more. At the corner of Hwy 101 and Ivy Street. Open Tues-Sat 10am-6pm, Sun by Appt.
 
-* [**<u>Coastal Kayak and SUP Rentals</u>**](https://coastalkayakandsuprentalsllc.com/) ** ** 319 North Wall Street ● Coos Bay ● 541-252-9201. Coastal rents recreational kayaks and stand up paddleboards in the Coos Bay area - see the full list of recommended waterways on their website! Single, tandem and fishing kayaks, SUPs, plus life-jackets and paddles. They will deliver and pick up equipment for an extra fee. They also offer tours for groups. All equipment is cleaned and sanitized between rentals.
+* [**<u>Coastal Kayak and SUP Rentals</u>**](https://coastalkayakandsuprentalsllc.com/) \*\* \*\* 319 North Wall Street ● Coos Bay ● 541-252-9201. Coastal rents recreational kayaks and stand up paddleboards in the Coos Bay area - see the full list of recommended waterways on their website! Single, tandem and fishing kayaks, SUPs, plus life-jackets and paddles. They will deliver and pick up equipment for an extra fee. They also offer tours for groups. All equipment is cleaned and sanitized between rentals.
 
 * **Waxer’s Surf Shop** 242 S. Broadway ● Coos Bay ● 541-266-9020. Rentals & Sales of Surfboards, Longboards, Skimboards, Paddleboards, Hobie Kayaks, Sandboards, Skateboards, Wetsuits, and accessories. Open Monday-Saturday. Paddleboarding Lesson Packages available.
 
@@ -107,7 +122,7 @@ A morning drive along the [<u>Cape Arago Beach Loop</u>](https://www.oregonsadve
 
 While driving along the Cape Arago Beach Loop, visitors will have access to beaches and state parks that offer breathtaking vantage points along with views of the famous Oregon Coast seals and sea lions. To get there, hop on Hwy 101 and head west on Newmark Avenue (just south of The Mill Casino). Follow the road until you reach the big curve to the left, taking you onto Cape Arago Hwy. Follow this road into Charleston, once you cross the bridge into Charleston, the road will fork; veer to the right to head for the docks, or veer to the left to follow the Cape Arago Beach Loop. This road will eventually loop back around.&nbsp;
 
-[<u>Shore Acres State Park</u>](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/), with its amazing cliffs and gorgeous botanical gardens, is one of our favorite spots for forest bathing, but visitors can also find peace and mindfulness on the coastal forest trail along the cliffs between [<u>Sunset Bay State Park</u>](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) and [<u>Cape Arago State Park</u>](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/), [<u>Bastendorff Beach</u>](https://www.co.coos.or.us/parksrec/page/bastendorff), and [<u>Yoakam Point</u>](https://stateparks.com/yoakam_point_state_natural_site_in_oregon.html). While you are taking in the amazing natural beauty throughout Shore Acres State Park, be sure to explore [<u>Simpson Reef and Shell Island</u>](https://shoreacres.net/about-us/simpson-reef-and-shell-island/)
+[<u>Shore Acres State Park</u>](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/), with its amazing cliffs and gorgeous botanical gardens, is one of our favorite spots for forest bathing, but visitors can also find peace and mindfulness on the coastal forest trail along the cliffs between [<u>Sunset Bay State Park</u>](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) and [<u>Cape Arago State Park</u>](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/), [<u>Bastendorff Beach</u>](https://www.co.coos.or.us/parksrec/page/bastendorff), and [<u>Yoakam Point</u>](https://stateparks.com/yoakam_point_state_natural_site_in_oregon.html). While you are taking in the amazing natural beauty throughout Shore Acres State Park, be sure to explore [<u>Simpson Reef and Shell Island</u>](https://shoreacres.net/about-us/simpson-reef-and-shell-island/).
 
 where you will find crashing waves, migrating whales, and views of hundreds of seals, sea lions, seabirds and other marine wildlife. Bring your binoculars for the best viewing. For complete details, [<u>Download our PDF Guide</u>](https://www.oregonsadventurecoast.com/img/cape-arago-loop-itinerary.pdf) for the Cape Arago Beach Loop
 
