@@ -2,12 +2,6 @@
 _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
-  - title:
-    photo: /img/bbq-home-slider-2023.jpg
-    title_mobile:
-    photo_mobile: /img/mobile-bbq-home-slider-english.jpg
-    url: /event/annual-bbq-blues-brews-on-the-bay/
-    video:
   - photo: /img/summer-getaway-beach-home-slider.jpg
     photo_mobile: ''
     url: /undeveloped-beaches
@@ -87,10 +81,10 @@ masonry7:
   mobiletitle: Crabbing
   url: /crabbing-clamming/
 seo:
+  title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
   description: >-
     Travel to the Oregon Coast to experience a vacation full of adventure,
     nature, wildlife, shopping, arts, and more. Your adventure awaits!
-  title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
   imgalt:
   image:
 aliases:
