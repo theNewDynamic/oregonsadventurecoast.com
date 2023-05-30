@@ -42,19 +42,19 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 {{< spacer 50 >}}
 
-**Sunday, July 16th @ 2 pm**<br>OIMB Boat House Auditorium, Charleston<br>**Aaron Johnson Trio: Blues, Ballads and the American Songbook - <a target="_blank" rel="noopener" href="https://checkout.square.site/buy/FF4ZH5VNWKXF3K4PGZUI7ILZ">BUY TICKETS</a>**
+**Sunday, July 16th @ 2 pm**<br>OIMB Boat House Auditorium, Charleston<br>**Aaron Johnson Trio: Blues, Ballads and the American Songbook - <a target="_blank" href="https://checkout.square.site/buy/FF4ZH5VNWKXF3K4PGZUI7ILZ">BUY TICKETS</a>**
 
 *Aaron Johnson provides an afternoon of Blues, Ballads, and the American Songbook overlooking Coos Bay in Charleston. Black Market Gourmet provides a reception at intermission. Seating is limited. Tickets are available at the office and online.*
 
 {{< spacer 50 >}}
 
-**Wednesday, July 19 @ 7:00 pm**<br>Hales Center on the SWOCC Campus, Coos Bay<br>**Madi Barrena and Michael Somers: Jazz Roots - <a target="_blank" rel="noopener" href="https://checkout.square.site/buy/MYE3RPUCJK3ZPBZ3ASHKBEVX">BUY TICKETS</a>**
+**Wednesday, July 19 @ 7:00 pm**<br>Hales Center on the SWOCC Campus, Coos Bay<br>**Madi Barrena and Michael Somers: Jazz Roots - <a target="_blank" href="https://checkout.square.site/buy/MYE3RPUCJK3ZPBZ3ASHKBEVX">BUY TICKETS</a>**
 
 *Madi Barrena, and Michael Somers provide an interactive discussion and performance highlighting significant African American Jazz composers and performers and their stories.*
 
 {{< spacer 50 >}}
 
-**Thursday, July 20 @ 7:00 pm**<br>Hales Center on the SWOCC Campus, Coos Bay<br>**Hidden Voices: Highlighting Diverse American Women Composers - <a target="_blank" rel="noopener" href="https://checkout.square.site/buy/XLQYZ5U62FKQGS7QQG6QEU2J">BUY TICKETS</a>**
+**Thursday, July 20 @ 7:00 pm**<br>Hales Center on the SWOCC Campus, Coos Bay<br>**Hidden Voices: Highlighting Diverse American Women Composers - <a target="_blank" href="https://checkout.square.site/buy/XLQYZ5U62FKQGS7QQG6QEU2J">BUY TICKETS</a>**
 
 *Hidden Voices: Highlighting Diverse American Women Composers features Steven Moeckel, violin, & Joanna Goldstein, piano. They highlight women composers from the early 1900s to contemporary composers.*
 
@@ -76,11 +76,11 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 **July 24th** - Steven Moeckel joins Adam Stern to preview Orchestra Concert I<br>**July 26th** - Elizabeth Galafa Ylaya joins Adam Stern to preview the Latin American/Hispanic Music Pops Concert<br>**July 28th** - Adam Stern will preview Orchestra Concert II
 
-Associate Conductor Adam Stern brings fresh and entertaining insight to the music and composers featured in the three orchestra programs. These noontime events provide an opportunity for interactive discussions that help everyone learn about the artists, the musical world and other related topics. Adam Stern returns to the Bay Area to continue his creative ideas for the Pops concerts, and support for outreach to everyone in his lectures and workshops. Stern has been leading the Seattle Philharmonic since 2003.
+*Associate Conductor Adam Stern brings fresh and entertaining insight to the music and composers featured in the three orchestra programs. These noontime events provide an opportunity for interactive discussions that help everyone learn about the artists, the musical world and other related topics. Adam Stern returns to the Bay Area to continue his creative ideas for the Pops concerts, and support for outreach to everyone in his lectures and workshops. Stern has been leading the Seattle Philharmonic since 2003.*
 
 {{< spacer 50 >}}
 
-**Friday, July 28 @ 7:00 pm**<br>First Presbyterian Church, North Bend<br>**Redfish Music String Quartet performs Classical Chamber Music - <a target="_blank" rel="noopener" href="https://www.eventbrite.com/e/classical-chamber-music-performed-by-the-redfish-faculty-quartet-tickets-612292662837">BUY TICKETS</a>**
+**Friday, July 28 @ 7:00 pm**<br>First Presbyterian Church, North Bend<br>**Redfish Music String Quartet performs Classical Chamber Music - <a target="_blank" href="https://www.eventbrite.com/e/classical-chamber-music-performed-by-the-redfish-faculty-quartet-tickets-612292662837">BUY TICKETS</a>**
 
 *The Redfish Music Faculty join forces for an exciting concert in an intimate venue. Violinists Fritz Gearhart and Miya Saito-Beckman, violist Jason Bonham and cellist Andrew Smith have traveled around the world performing for audiences, but now come together to perform for you in this special event on the Oregon coast!&nbsp;*
 
@@ -90,22 +90,22 @@ Associate Conductor Adam Stern brings fresh and entertaining insight to the musi
 
 ![The glittering, brilliant sounds of the Harp enhance every movement played by the Orchestra during the OR Coast Music Festival in Coos Bay.](/img/ocma-harpist-frankprice-web.jpg "The Orchestra features the glittering sounds of the harp - Photo by Frank Price")
 
-**Tuesday, July 25 @ 7:30**<br>Marshfield High School Auditorium, Coos Bay<br>**OCMA Festival Orchestra Concert I with Guest Soloist Steven Moeckel - <a target="_blank" rel="noopener" href="https://checkout.square.site/buy/645R7MXRLINQS3FHOQW7TGPU">BUY TICKETS</a>**
+**Tuesday, July 25 @ 7:30**<br>Marshfield High School Auditorium, Coos Bay<br>**OCMA Festival Orchestra Concert I with Guest Soloist Steven Moeckel - <a target="_blank" href="https://checkout.square.site/buy/645R7MXRLINQS3FHOQW7TGPU">BUY TICKETS</a>**
 
-The concert features Berlioz - Benvenuto Cellini Overture; Schubert - Symphony No.8 "Unfinished”; Tchaikovsky Violin Concerto with Steven Moeckel, violin.
+*The concert features Berlioz - Benvenuto Cellini Overture; Schubert - Symphony No.8 "Unfinished”; Tchaikovsky Violin Concerto with Steven Moeckel, violin.*
 
 {{< spacer 50 >}}
 
-{{< floatimage src="img/Elizabeth-Galafay-PhotoCarleyJayne.jpeg" float="left" alt="Elizabeth Galafa Ylaya, Soprano" size="40" >}}**Thursday, July 27 @ 7:30**<br>Marshfield High School Auditorium, Coos Bay<br>**OCMA Festival Orchestra Pops - <a target="_blank" rel="noopener" href="https://checkout.square.site/buy/SCLZCAQ67O2FSPOIODEJDW6G">BUY TICKETS</a>**
+{{< floatimage src="img/Elizabeth-Galafay-PhotoCarleyJayne.jpeg" float="left" alt="Elizabeth Galafa Ylaya, Soprano" size="40" >}}**Thursday, July 27 @ 7:30**<br>Marshfield High School Auditorium, Coos Bay<br>**OCMA Festival Orchestra Pops - <a target="_blank" href="https://checkout.square.site/buy/SCLZCAQ67O2FSPOIODEJDW6G">BUY TICKETS</a>**
 
-Guest soloist Elizabeth Galafa Ylaya, Soprano, joins the Festival Orchestra for a celebration of Latin American and Hispanic musical influences.
+*Guest soloist Elizabeth Galafa Ylaya, Soprano, joins the Festival Orchestra for a celebration of Latin American and Hispanic musical influences.*
 
 {{< spacer 50 >}}
 
 ![The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July](/img/ocma-cellist-frankprice-web.jpg "The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July - Photo by Frank Price")
 
-**Saturday, July 29 @ 7:30**<br>Marshfield High School Auditorium, Coos Bay<br>**OCMA *Festival Finale* Festival Orchestra Concert II - <a target="_blank" rel="noopener" href="https://checkout.square.site/buy/UPPN65MFJZTTXTVALA4LDXME">BUY TICKETS</a>**
+**Saturday, July 29 @ 7:30**<br>Marshfield High School Auditorium, Coos Bay<br>**OCMA *Festival Finale* Festival Orchestra Concert II - <a target="_blank" href="https://checkout.square.site/buy/UPPN65MFJZTTXTVALA4LDXME">BUY TICKETS</a>**
 
-The concert features Wagner - Parsifal Prelude; Holst - The Perfect Fool Ballet Suite; Brahms - Symphony No.1.
+*The concert features Wagner - Parsifal Prelude; Holst - The Perfect Fool Ballet Suite; Brahms - Symphony No.1.*
 
 {{< spacer 25 >}}
