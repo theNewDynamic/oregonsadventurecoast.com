@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Annual Charleston Seafood Festival
+title: Annual Charleston Seafood Festival - CANCELLED
 startdate: '2023-08-11'
 enddate: '2023-08-13'
 address:
