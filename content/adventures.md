@@ -173,7 +173,7 @@ We invite you to explore, to discover, to feel, and to know the incredible adven
 
 {{< spacer 30 >}}
 
-<a target="_blank" rel="noopener" href="/crab-cake-bake-off"><img src="/uploads/crab-cake-bake-off-2048x190-04-23-v02-1.jpg" /></a>
+<a target="_blank" href="/crab-cake-bake-off"><img src="/uploads/crab-cake-bake-off-2048x190-04-23-v02-1.jpg" /></a>
 
 {{< youtube id="lqZ8lTjprxg" >}}
 
