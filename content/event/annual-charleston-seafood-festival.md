@@ -25,8 +25,6 @@ smallboxphoto: /img/charleston-seafood-fest-small.jpg
 
 **The 2023 Charleston Seafood Festival has been CANCELLED!**
 
-
-
-
+**We hope to see you next year.**
 
 ####
