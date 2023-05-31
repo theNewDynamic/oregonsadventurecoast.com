@@ -66,7 +66,7 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 {{< spacer "50" >}}
 
-**Sunday, July 23 @ 7:00 pm**<br>7 Devils Brewing Co., Coos Bay<br>**Dear Darling: 'believe' Tour**
+**Sunday, July 23 @ 7:00 pm**<br>7 Devils Brewing Co., Coos Bay<br>**Dear Darling: 'believe' Tour - *Free***
 
 *Dear Darling is the nom de plume of the Sacramento-based trio of Natalie Hagwood (cello and voice), Casey Lipka (bass and voice), and Hannah Jane Kile (guitar and voice). Together, their joyous meld of jazz, folk, classical, and pop delivers a fresh new sound that is being recognized both locally and nationally.*
 
