@@ -26,7 +26,7 @@ aliases:
 
 {{< floatimage src="/img/Holiday-Lights-Logo-320px.png" float="right" alt="Annual Holiday Lights at Shore Acres State Park in Charleston, Oregon" size="100" >}}
 
-### **Book your Parking Pass beginning June 1st, 2023! More info coming soon.**
+### **Book your Parking Pass - Coming Soon! More info coming soon.**
 
 ### {{< spacer 50 >}}
 
@@ -40,7 +40,7 @@ This festive annual display debuts on Thanksgiving Day (Thursday, November 23rd)
 
 {{< spacer 25 >}}
 
-#### BOOK YOUR TIMED ENTRY PARKING PASS!
+#### BOOK YOUR TIMED ENTRY <u>PARKING PASS</u>!
 
 [**Holiday Lights visitation will be through a timed reservation system**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381). **PASSES ARE PER VEHICLE, NOT PER PERSON!** This is an effort to decrease long wait times and backed-up traffic conditions.
 
@@ -67,8 +67,6 @@ This festive annual display debuts on Thanksgiving Day (Thursday, November 23rd)
 {{< spacer 50 >}}
 
 {{< youtube id="oMwQeDRya7o" >}}
-
-
 
 ### Tips to make your Shore Acres visit more enjoyable
 
@@ -102,8 +100,6 @@ Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or
 **Arrive Early -**  Book an early time slot for the lights and see the ocean waves, the park, and the lights' sparkling transition from daylight to dark!
 
 {{< /columns >}}
-
-
 
 {{< spacer 50 >}}
 
