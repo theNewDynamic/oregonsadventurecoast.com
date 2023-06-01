@@ -1,13 +1,13 @@
 ---
 _schema: default
 title: Oregon’s Adventure Coast Comes Alive With the Sound of Music!
-draft: true
+draft: false
 date: 2023-05-31T00:00:00-07:00
 description: >-
   Annual [Oregon Coast Music
-  Festival](https://www.oregonsadventurecoast.com/event/annual-oregon-coast-music-festival/)&nbsp;fills
-  the Coos Bay, North Bend, Charleston Region with amazing music July 15-29,
-  2023!
+  Festival](https://www.oregonsadventurecoast.com/event/annual-oregon-coast-music-festival/)
+  fills the Coos Bay, North Bend, Charleston Region with amazing music July
+  15-29, 2023!
 image: /img/oregon-coast-music-festival-2023-blog-695x322-jpg.jpg
 tags:
   - Oregon Coast Music Festival
