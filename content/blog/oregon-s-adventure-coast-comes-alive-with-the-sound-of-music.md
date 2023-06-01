@@ -46,7 +46,7 @@ The following events are free of charge. *Please note there is a $5 parking fee 
 
 ## [<u>Dear Darling</u>](https://www.facebook.com/events/6231932010216359)&nbsp;
 
-**Sunday, July 23rd @ 7 p.m. 7 Devils Brewing Co.&nbsp;**Dear Darling is the nom de plume of the Sacramento-based trio of Natalie Hagwood (cello and voice), Casey Lipka (bass and voice) and Hannah Jane Kile (guitar and voice). Together, their joyous meld of jazz, folk, classical and pop delivers a fresh new sound that is being recognized both locally and nationally.
+**Sunday, July 23rd @ 7 p.m. 7 Devils Brewing Co.**&nbsp; Dear Darling is the nom de plume of the Sacramento-based trio of Natalie Hagwood (cello and voice), Casey Lipka (bass and voice) and Hannah Jane Kile (guitar and voice). Together, their joyous meld of jazz, folk, classical and pop delivers a fresh new sound that is being recognized both locally and nationally.
 
 ## \*[<u>Lunch, Listen &amp; Learn: Adam Stern and Steven Moeckel preview Orchestra Concert I</u>](https://www.facebook.com/events/215531627953296) (Free Workshop)&nbsp;
 
