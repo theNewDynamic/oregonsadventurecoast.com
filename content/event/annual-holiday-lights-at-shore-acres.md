@@ -1,16 +1,6 @@
 ---
+_schema: default
 title: Annual Holiday Lights at Shore Acres
-aliases:
-- "/holidaylights"
-- "/HolidayLights"
-photo: "/img/shore-acres-holiday-lights-header.jpg"
-largeboxphoto: "/img/holiday-lights-large.jpg"
-mediumboxphoto: "/img/holiday-lights-medium.jpg"
-smallboxphoto: "/img/holiday-lights-small.jpg"
-desktoptitle: Annual Holiday Lights at Shore Acres - Brightest Event on the Coast!
-mobiletitle: Shore Acres Holiday Lights - Brightest Event on the Coast!
-hovertitle: Shore Acres Holiday Lights - Brightest Event on the Coast!
-hoverdescription: Shore Acres Holiday Lights - Brightest Event on the Coast!
 startdate: '2023-11-23'
 enddate: '2023-12-31'
 address:
@@ -18,16 +8,25 @@ address:
   state: OR
   street: 89039 Cape Arago Hwy.
   zip: '97420'
-phone_toll_free: ''
 phone_local: 541-269-0215
 website: http://shoreacres.net/
-
+desktoptitle: Annual Holiday Lights at Shore Acres - Brightest Event on the Coast!
+mobiletitle: Shore Acres Holiday Lights - Brightest Event on the Coast!
+hovertitle: Shore Acres Holiday Lights - Brightest Event on the Coast!
+hoverdescription: Shore Acres Holiday Lights - Brightest Event on the Coast!
+photo: /img/shore-acres-holiday-lights-header.jpg
+largeboxphoto: /img/holiday-lights-large.jpg
+mediumboxphoto: /img/holiday-lights-medium.jpg
+smallboxphoto: /img/holiday-lights-small.jpg
+aliases:
+  - /holidaylights
+  - /HolidayLights
 ---
 ![32nd Annual Holiday Lights at Shore Acres](/img/holiday-lights-695x322.jpg)
 
 {{< floatimage src="/img/Holiday-Lights-Logo-320px.png" float="right" alt="Annual Holiday Lights at Shore Acres State Park in Charleston, Oregon" size="100" >}}
 
-### **Book your Parking Pass beginning June 1st, 2023! More info coming soon.** 
+### **Book your Parking Pass - Coming Soon! More info coming soon.**
 
 ### {{< spacer 50 >}}
 
@@ -35,45 +34,43 @@ website: http://shoreacres.net/
 
 {{< spacer 35 >}}
 
-Famous for its beautiful 7-acre botanical gardens and Japanese lily pond, Shore Acres State Park shines with more than 325,000 LED lights, whimsical animated displays, and more. _A holiday tradition for the whole family._
+Famous for its beautiful 7-acre botanical gardens and Japanese lily pond, Shore Acres State Park shines with more than 325,000 LED lights, whimsical animated displays, and more. *A holiday tradition for the whole family.*
 
 This festive annual display debuts on Thanksgiving Day (Thursday, November 23rd) and will light up Shore Acres State Park from 4:30 pm - 9:00 pm each night (including December 24th & 25th) thru December 31st.
 
 {{< spacer 25 >}}
 
-#### BOOK YOUR TIMED ENTRY PARKING PASS!
+#### BOOK YOUR TIMED ENTRY <u>PARKING PASS</u>!
 
-[**Holiday Lights visitation will be through a timed reservation system**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381). **PASSES ARE PER VEHICLE, NOT PER PERSON!** This is an effort to decrease long wait times and backed-up traffic conditions.
+[**Holiday Lights visitation will be through a timed reservation system**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381). **PASSES ARE PER VEHICLE, NOT PER PERSON!** This is an effort to decrease long wait times and backed-up traffic conditions.
 
-**Entry into the lights is Free, but you must pay the _$5 parking fee per vehicle_ to park at Shore Acres for the Event - in advance this year.**
+**Entry into the lights is Free, but you must pay the *$5 parking fee per vehicle* to park at Shore Acres for the Event - in advance this year.**
 
 **Here’s how to do it!**
 
 1. **Pick your day/time to visit** - note that half of the parking tickets will be sold in advance with the rest available within 7 days of entry
-2. [**Visit the OPRD website**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381) **or click the Book Now Button below to book your time**
+2. [**Visit the OPRD website**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381) **or click the Book Now Button below to book your time**
 3. **Pay the $5 fee** per vehicle
 4. **Print your pass** - you must bring the pass with you to enter the park
 5. Have more questions? **Call 541-888-3778**, the local State Parks office.
 
 {{< spacer 25 >}}
 
-### <a href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381" class="learn-more-anywhere-btn">BOOK NOW</a>
+### <a class="learn-more-anywhere-btn" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">BOOK NOW</a>
 
 {{< spacer 25 >}}
 
-**_NOTE: you will NOT be able to purchase entry tickets at the gate this year._** _You must do this in advance_.
+***NOTE: you will NOT be able to purchase entry tickets at the gate this year.*** *You must do this in advance*.
 
-**_Also Note:_** if you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $5 will be waived. **_You still have to book ONLINE!!_** **_You will need to present your event parking pass AND your special pass at the gate._**
+***Also Note:*** if you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $5 will be waived. ***You still have to book ONLINE!!*** ***You will need to present your event parking pass AND your special pass at the gate.***
 
 {{< spacer 50 >}}
 
-{{< youtube "oMwQeDRya7o" >}}
-<br>
+{{< youtube id="oMwQeDRya7o" >}}
 
 ### Tips to make your Shore Acres visit more enjoyable
 
-<br>
-{{< columns number="2" >}}
+<br>{{< columns number="2" >}}
 
 #### Viewing Tips
 
@@ -93,7 +90,7 @@ divider
 
 ***
 
-**$5 parking fee** - **_MUST BOOK ONLINE AS NOTED ABOVE_**  
+**$5 parking fee** - **_MUST BOOK ONLINE AS NOTED ABOVE_**
 Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or current Campground Receipt. See information above on how to book your time.
 
 **Animals** - Dogs and other animals are not allowed outside vehicles at Shore Acres. _Exception: Service Animals_
