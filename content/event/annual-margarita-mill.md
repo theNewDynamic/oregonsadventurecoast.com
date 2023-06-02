@@ -27,6 +27,8 @@ Don't miss this three-day outdoor event featuring taco trucks and restauranteurs
 
 Each vendor will have a full menu to serve to the public as well a sample item for purchase.
 
+![](/img/grupo-masato.jpeg)
+
 The event will include **live music** from&nbsp;<a target="_blank" href="https://www.facebook.com/grupomasato/?locale=es_LA">Grupo Masato</a>&nbsp;and Latin dance music by DJ Darryl.
 
 ***Join us as we celebrate Latin culture at The Mill Casino!***
