@@ -16,6 +16,10 @@ desktoptitle: It's a Fiesta at The Mill!
 mobiletitle: It's a Fiesta at The Mill!
 hovertitle: It's a Fiesta at The Mill!
 hoverdescription: Celebrate Latin Culture at The Mill's Annual Margarita-Mill Event!
+photo: /img/margarita-2048x530.jpg
+largeboxphoto: /img/margarita-1024x395.jpg
+mediumboxphoto: /img/margarita-667x355.jpg
+smallboxphoto: /img/margarita-340x214.jpg
 ---
 ![](/img/margarita-mill-logo-temp-1.jpg)
 
