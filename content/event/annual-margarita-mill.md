@@ -12,10 +12,10 @@ address:
 phone_local: 541.756.8800
 phone_toll_free: 800.953.4800
 website: https://www.themillcasino.com/entertainment/margarita-mill/2023-07-14/
-desktoptitle: It's a Fiesta at The Mill!
-mobiletitle: It's a Fiesta at The Mill!
-hovertitle: It's a Fiesta at The Mill!
-hoverdescription: Celebrate Latin Culture at The Mill's Annual Margarita-Mill Event!
+desktoptitle: Margarita-Mill Festival
+mobiletitle: Margarita-Mill Festival
+hovertitle: Margarita-Mill Festival
+hoverdescription: It's a Fiesta at The Mill!
 photo: /img/margarita-2048x530.jpg
 largeboxphoto: /img/margarita-1024x395.jpg
 mediumboxphoto: /img/margarita-667x355.jpg
