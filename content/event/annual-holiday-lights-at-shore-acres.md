@@ -26,7 +26,9 @@ aliases:
 
 {{< floatimage src="/img/Holiday-Lights-Logo-320px.png" float="right" alt="Annual Holiday Lights at Shore Acres State Park in Charleston, Oregon" size="100" >}}
 
-### **Book your Parking Pass - Coming Soon! More info coming soon.**
+## **Book your <u>Parking Pass</u>&nbsp;Now - <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">Click Here</a>.**
+
+**Reminder! You are booking a <u>PARKING PASS</u> not Individual Tickets. ONE PARKING PASS NEEDED NO MATTER HOW MANY PEOPLE ARE IN THE VEHICLE!!!**
 
 ### {{< spacer 50 >}}
 
@@ -56,7 +58,7 @@ This festive annual display debuts on Thanksgiving Day (Thursday, November 23rd)
 
 {{< spacer 25 >}}
 
-### <a class="learn-more-anywhere-btn" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">BOOK NOW</a>
+### <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">BOOK NOW</a>
 
 {{< spacer 25 >}}
 
