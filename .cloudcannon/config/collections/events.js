@@ -35,12 +35,12 @@ module.exports = {
     {
       key: "startdate",
       order: "desc",
-      label: "Start Date (Newest First)"
+      label: "Most Future Start Date"
     },
     {
       key: "startdate",
       order: "asc",
-      label: "Start Date"
+      label: "Oldest Start Date"
     },
     {
       key: "title",
