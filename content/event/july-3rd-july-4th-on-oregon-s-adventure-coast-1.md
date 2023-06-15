@@ -1,15 +1,6 @@
 ---
+_schema: default
 title: July 3rd & 4th Fireworks Over The Bay
-photo: "/img/fireworks-event-page-header.jpg"
-photo_alt: Fireworks over Coos Bay
-largeboxphoto: "/img/fireworks-event-large.jpg"
-mediumboxphoto: "/img/Fireworks 667x355.jpg"
-smallboxphoto: "/img/Fireworks 340x214.jpg"
-desktoptitle: July 3rd & 4th Celebrations
-mobiletitle: July 3rd & 4th Celebrations
-hovertitle: July 3rd & 4th Celebrations
-hoverdescription: Celebrate our Nation's Independence with TWO Fireworks displays!
-  Plus other July 4th Activities
 startdate: '2023-07-03'
 enddate: '2023-07-04'
 address:
@@ -17,10 +8,19 @@ address:
   street2: ''
   city: ''
   zip: ''
-phone_local: "(541) 269-0215"
-phone_toll_free: ''
+phone_local: (541) 269-0215
 website: http://www.oregonsadventurecoast.com
-
+desktoptitle: July 3rd & 4th Celebrations
+mobiletitle: July 3rd & 4th Celebrations
+hovertitle: July 3rd & 4th Celebrations
+hoverdescription: >-
+  Celebrate our Nation's Independence with TWO Fireworks displays! Plus other
+  July 4th Activities
+photo: /img/fireworks-event-page-header.jpg
+largeboxphoto: /img/fireworks-event-large.jpg
+mediumboxphoto: /img/Fireworks 667x355.jpg
+smallboxphoto: /img/Fireworks 340x214.jpg
+photo_alt: Fireworks over Coos Bay
 ---
 ![](/img/4th-of-july-fireworks-coos-bay-674x447.jpg)
 
@@ -36,7 +36,7 @@ website: http://www.oregonsadventurecoast.com
 
 {{< spacer 15 >}}
 
-Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [The Mill Casino ](https://www.themillcasino.com/)will light up the skies over the Bay with this year's waterfront fireworks display.
+Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [The Mill Casino](https://www.themillcasino.com/)will light up the skies over the Bay with this year's waterfront fireworks display.
 
 **The fireworks display will be located in front of The Mill Casino, but can be seen from just about anywhere along the Bay!**
 
@@ -44,7 +44,7 @@ Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [Th
 
 {{< spacer 15 >}}
 
-#### **5:00  PM – 10:00  PM Enjoy Music and Food!**
+#### **5:00 &nbsp;PM – 10:00 &nbsp;PM Enjoy Music and Food!**
 
 Local Food Trucks - **Muncheria & West Coast Bitez** - will be on hand serving up the very best from their menus for this amazing event.
 
@@ -76,14 +76,14 @@ Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen 
 
 {{< spacer 15 >}}
 
-Join fellow runners and walkers for the 1/2-mile kid’s run and the 4K for grown-ups.  Kid’s run is 1.5 times around the lake.  4K is 3 times around the lake followed by a HUGE hill in beautiful Mingus Park.  You will then run on city streets, down another Mingus Park dirt trail, and finish on the paved path by the lake.
+Join fellow runners and walkers for the 1/2-mile kid’s run and the 4K for grown-ups. Kid’s run is 1.5 times around the lake. 4K is 3 times around the lake followed by a HUGE hill in beautiful Mingus Park. You will then run on city streets, down another Mingus Park dirt trail, and finish on the paved path by the lake.
 
 **10:00am** – 1/2 mile kid’s run – **Free!**
 
 **10:20am** (or whenever the kid’s run is over) – 4K Grown-up Run/Walk
 
-* **Free** for South Coast Running Club members, but please [sign up online ](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark)to help make race morning less crazy!
-* **$10** for non-members. [Register online](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark).  [Become a member and race for free!](https://southcoastrunningclub.org/membership/)
+* **Free** for South Coast Running Club members, but please [sign up online](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark)to help make race morning less crazy!
+* **$10** for non-members. [Register online](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark). [Become a member and race for free!](https://southcoastrunningclub.org/membership/)
 
 {{< spacer 15 >}}
 
@@ -93,9 +93,7 @@ Join fellow runners and walkers for the 1/2-mile kid’s run and the 4K for grow
 
 #### **Mingus Park Fun - July 4th**
 
-Organizers are planning several fun events throughout the day in Mingus Park.
-
-**More info coming soon!**
+Spend the day with family and friends in Coos Bay's beautiful Mingus Park with these great family friendly events - Boy Scouts’ fundraiser hamburger stand, Coos County Posse and their horses, Coos Forest Protective Association with Smokey the Bear, ODF&W fishing, Front Street Community Bike Works, and many others. Mingus Park Pool will have free swimming from 2-4pm. And to finish the day, Coos Bay Fire Department will be shooting off fireworks of the bay at dusk. For more information, please call 541-269-1101 x 3631.&nbsp;
 
 {{< spacer 25 >}}
 
