@@ -2,9 +2,9 @@
 _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
-  - photo: /img/utv-home-pg-slider-lg-v02-850x2048.jpg
-    url: /event/utv-takeover
-    photo_mobile: /img/utv-home-pg-slider-mobile-23-320x512.jpg
+  - photo: /img/4th-of-july-home-slider-2048x850.jpg
+    url: /event/july-3rd-july-4th-on-oregon-s-adventure-coast-1
+    photo_mobile: /img/4th-of-july-mobile-slider-512x320.jpg
   - photo: /img/summer-getaway-beach-home-slider.jpg
     photo_mobile: ''
     url: /undeveloped-beaches
