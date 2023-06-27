@@ -5,7 +5,7 @@ draft: false
 date: 2023-04-24T00:00:00-07:00
 description: >-
   *Popular Farmers Market Returns to **Oregon’s Adventure Coast: Coos Bay, North
-  Bend, Charleston** for 2023!&nbsp;*
+  Bend, Charleston** for 2023!*
 image: /uploads/cbda-coos-bay-farmers-market-blog-695x322-jpg.jpg
 tags:
   - Coos Bay Downtown Association
@@ -23,11 +23,13 @@ warning: false
 ---
 *Popular Farmers Market Returns to **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** for 2023!&nbsp;*
 
+*![](/img/coos-bay-farmers-market-blog-695x322.jpg)*
+
 The Coos Bay Downtown Association’s (CBDA) [<u>Coos Bay Farmers Market</u>](https://www.facebook.com/CoosBayFarmersMarket) will again gather local farmers, artisans, and food vendors to sell their goods to the public every Wednesday during the months of May through October, 2023! The market’s new season kicks off on Wednesday, May 3rd, with a live radio broadcast with market sponsor, KShore, Bicoastal Media.&nbsp;
 
 The beloved event and community staple will offer various goods and activities to residents and visitors on Oregon’s Adventure Coast, including an abundance of food, music, entertainment, samples, demonstrations, artistic treasures, children’s programs, food accessibility programs, and fresh locally grown produce. Visitors can interact with vendors, learn about their products, and support their businesses.
 
-![](/uploads/cbda-coos-bay-farmers-market-blog-940-x-788.jpg)
+
 
 The market has a rich history and has been a fixture of the downtown Coos Bay community for years. What began as a small group of farmers and artisans who wanted to sell their products directly to the public in 1973, has grown into one of the most popular outdoor farmers markets on the Oregon Coast, offering fresh produce, baked goods, locally sourced seafood/meat, homemade crafts, jams/jellies and so much more!&nbsp; It has also become a popular tourist attraction, drawing visitors from all over the region who are interested in experiencing the local culture and cuisine.
 
