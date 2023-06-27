@@ -4,9 +4,8 @@ title: Countdown to the 2023 Annular Solar Eclipse!
 draft: false
 date: 2023-06-26T00:00:00-07:00
 description: >-
-  Sky-watchers from all over the region can experience the [<u>annular solar
-  eclipse</u>](https://solarsystem.nasa.gov/eclipses/2023/oct-14-annular/where-when/#:~:text=The%20Saturday%2C%20Oct.%2014%2C,at%2012%3A03%20p.m.%20CDT)&nbsp;(a.k.a.
-  “Ring of Fire” event) on Oregon’s Adventure Coast at 9:18 a.m. Pacific
+  Sky-watchers from all over the region can experience the annular solar eclipse
+  (a.k.a. “Ring of Fire” event) on Oregon’s Adventure Coast at 9:18 a.m. Pacific
   Standard Time on Saturday, October 14, 2023. Here's what you need to
   know.&nbsp;
 image: /img/2023-annular-solar-eclipse-blog-695x322-jpg.jpg
