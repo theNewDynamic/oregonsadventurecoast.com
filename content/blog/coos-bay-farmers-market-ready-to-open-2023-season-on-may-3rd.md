@@ -29,8 +29,6 @@ The Coos Bay Downtown Association’s (CBDA) [<u>Coos Bay Farmers Market</u>](ht
 
 The beloved event and community staple will offer various goods and activities to residents and visitors on Oregon’s Adventure Coast, including an abundance of food, music, entertainment, samples, demonstrations, artistic treasures, children’s programs, food accessibility programs, and fresh locally grown produce. Visitors can interact with vendors, learn about their products, and support their businesses.
 
-
-
 The market has a rich history and has been a fixture of the downtown Coos Bay community for years. What began as a small group of farmers and artisans who wanted to sell their products directly to the public in 1973, has grown into one of the most popular outdoor farmers markets on the Oregon Coast, offering fresh produce, baked goods, locally sourced seafood/meat, homemade crafts, jams/jellies and so much more!&nbsp; It has also become a popular tourist attraction, drawing visitors from all over the region who are interested in experiencing the local culture and cuisine.
 
 ## What to Expect at the Coos Bay Farmers Market 2023 Season
@@ -51,7 +49,7 @@ The CBDA Coos Bay Farmers Market 2023 season promises to be an exciting event fo
 
 * The market is easily accessible by car, bike, or on foot, and there is plenty of parking available nearby.
 
-Benefits of Shopping at the Coos Bay Farmers Market![](/uploads/cbda-coos-bay-farmers-market-blog2-940-x-788.jpg)
+### **Benefits of Shopping at the Coos Bay Farmers Market**
 
 When you shop at the CBDA Coos Bay Farmers Market, you directly support local businesses and farmers, which in turn helps strengthen the local economy.&nbsp; Here are some other benefits:&nbsp;
 
