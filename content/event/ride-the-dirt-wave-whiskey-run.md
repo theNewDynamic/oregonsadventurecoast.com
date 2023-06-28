@@ -50,19 +50,7 @@ Don't Miss these two days of fun biking events on the Southern Oregon Coast!
 
 **Sunday, July 23, 2023**<br>7:00AM - Check-in & day of registration<br>8:15AM - Check-in Closes<br>9:00AM - Race begins<br>9:00AM-1:00PM - Flow Duro Challenge – 2x’s down the race course<br>11:00AM-2:30PM - Food & beverage garden open for purchase<br>\*1:30-2:30PM - Awards Ceremony \*or within 45 minutes of the race finish<br>2:30PM - End of Day at trails
 
-{{< spacer "25" >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">25</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
-
-
-
-
-
-
-<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
+{{< spacer "25" >}}<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
 
 ### EVENTS & COSTS:
 
