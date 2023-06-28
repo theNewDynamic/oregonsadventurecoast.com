@@ -38,13 +38,13 @@ Don't Miss these two days of fun biking events on the Southern Oregon Coast!
 
 **<a target="_blank" href="https://www.thedirtwave.com/whiskey-run/">VISIT THE WEBSITE FOR REGISTRATION AND MORE INFORMATION!!</a>**
 
-> {{< spacer "25" >}}
->
-> <div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text">Spacer</p><p class="c-card__subtext">25</p></div></div></div></div>
->
-> <img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
 
-### SCHEDULE:
+
+>
+
+### {{< spacer "25" >}}
+
+### SCHEDULE
 
 **Saturday, July 22, 2023**<br>9:00AM - Check-in & day of registration<br>10:30AM - Rides start<br>10:30AM-1PM - Rides led by bike club (see below for options).<br>11:00AM-3:00PM - Food & beverage garden open for purchase<br>12:00-12:45PM - Packet pick up & Registration for the Flow Duro Challenge<br>1:00 PM - Pre-Ride of Flow Duro Challenge Course<br>1:00–3:00PM - Trail celebration ~ Music, food & beverage garden<br>3:00PM - End of Day at trails
 
@@ -52,7 +52,15 @@ Don't Miss these two days of fun biking events on the Southern Oregon Coast!
 
 {{< spacer "25" >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text">Spacer</p><p class="c-card__subtext">25</p></div></div></div></div>
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">25</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
+
+
+
+
 
 <img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
 
@@ -83,6 +91,12 @@ Here is the link to Trail Forks maps for more information & videos of trail:<br>
 *For this first year, e-bikes will be in their own class. You can choose Expert or Sport. Class will not be split by age or gender.*
 
 *{{< spacer "40" >}}*
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><em>No preview available</em></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></div><div class="c-card__heading-content"><p class="c-card__text "><em>Spacer</em></p><p class="c-card__subtext"><em>40 </em></p></div></div></div></div>
+
+*<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />*
+
+
 
 **EVENT BROUGHT TO YOU BY:**<br>Oregon Coast Visitors Association<br>Bandon Chamber of Commerce<br>Oregon Rides & Events
 
