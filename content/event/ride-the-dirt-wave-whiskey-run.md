@@ -78,13 +78,7 @@ Here is the link to Trail Forks maps for more information & videos of trail:<br>
 
 *For this first year, e-bikes will be in their own class. You can choose Expert or Sport. Class will not be split by age or gender.*
 
-*{{< spacer "40" >}}*
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><em>No preview available</em></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></div><div class="c-card__heading-content"><p class="c-card__text "><em>Spacer</em></p><p class="c-card__subtext"><em>40 </em></p></div></div></div></div>
-
-*<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />*
-
-
+{{< spacer "40" >}}
 
 **EVENT BROUGHT TO YOU BY:**<br>Oregon Coast Visitors Association<br>Bandon Chamber of Commerce<br>Oregon Rides & Events
 
