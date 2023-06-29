@@ -5,9 +5,9 @@ startdate: '2023-07-22'
 enddate: '2023-07-23'
 address:
   city:
-  state:
-  street:
-  street2:
+  state: Oregon
+  street: Whiskey Run Road
+  street2: At 7 Devils Road
   zip:
 website: https://www.thedirtwave.com/whiskey-run/
 coordinates:
@@ -38,37 +38,25 @@ Don't Miss these two days of fun biking events on the Southern Oregon Coast!
 
 **<a target="_blank" href="https://www.thedirtwave.com/whiskey-run/">VISIT THE WEBSITE FOR REGISTRATION AND MORE INFORMATION!!</a>**
 
-> {{< spacer "25" >}}
->
-> <div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text">Spacer</p><p class="c-card__subtext">25</p></div></div></div></div>
->
-> <img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" />
->
+
+
 >
 
-### SCHEDULE:
+### {{< spacer "25" >}}
+
+### SCHEDULE
 
 **Saturday, July 22, 2023**<br>9:00AM - Check-in & day of registration<br>10:30AM - Rides start<br>10:30AM-1PM - Rides led by bike club (see below for options).<br>11:00AM-3:00PM - Food & beverage garden open for purchase<br>12:00-12:45PM - Packet pick up & Registration for the Flow Duro Challenge<br>1:00 PM - Pre-Ride of Flow Duro Challenge Course<br>1:00–3:00PM - Trail celebration ~ Music, food & beverage garden<br>3:00PM - End of Day at trails
 
 **Sunday, July 23, 2023**<br>7:00AM - Check-in & day of registration<br>8:15AM - Check-in Closes<br>9:00AM - Race begins<br>9:00AM-1:00PM - Flow Duro Challenge – 2x’s down the race course<br>11:00AM-2:30PM - Food & beverage garden open for purchase<br>\*1:30-2:30PM - Awards Ceremony \*or within 45 minutes of the race finish<br>2:30PM - End of Day at trails
 
-{{< spacer "25" >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text">Spacer</p><p class="c-card__subtext">25</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" />
-
-
-
-
-
-
+{{< spacer "25" >}}<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
 
 ### EVENTS & COSTS:
 
 #### **SATURDAY RIDE OPTIONS:**
 
-<br>**$20 + $2 OBRA fee (if not a member)**<br>Map to trails: <a href="https://goo.gl/maps/5JLMCCiKdUiHz2EH9" target="_blank">https://goo.gl/maps/5JLMCCiKdUiHz2EH9</a>
+<br>**$20 + $2 OBRA fee (if not a member)**<br>Map to trails: <a target="_blank" href="https://goo.gl/maps/5JLMCCiKdUiHz2EH9">https://goo.gl/maps/5JLMCCiKdUiHz2EH9</a>
 
 **Advanced Ride**<br>10:30AM - Advanced Cross Country Ride<br>Full Flight: 20+/- miles, Longer, faster-paced no-drop ride for advanced riders. Are you looking to push your mileage at a good pace with fellow stoked riders? The “advanced ride” is for those who want to keep their wheels (mostly) on the ground and are comfortable on a longer ride at a faster pace. We definitely won’t be racing, but this ride is for those that are confident enough to keep up and enjoy the best of the trail system on all level trails from Green to Black. Guided by Whiskey Run gurus, you will ride in and out of the trees, up and down the slopes, and really get a good taste of what Whiskey has to offer!
 
@@ -84,13 +72,13 @@ A **fun, fast pace, timed competition down a flowy black diamond trail**. Racers
 
 **We will have packet pick up and registration on Saturday, July 22nd from 12-12:45 PM for the Flow Duro Challenge**. There will be a Pre-Ride of the course on Saturday @ 1 PM.
 
-Here is the link to Trail Forks maps for more information & videos of trail:<br><a href="https://www.trailforks.com/region/whiskey-run-trails-21273/" target="_blank">https://www.trailforks.com/region/whiskey-run-trails-21273/</a>
+Here is the link to Trail Forks maps for more information & videos of trail:<br><a target="_blank" href="https://www.trailforks.com/region/whiskey-run-trails-21273/">https://www.trailforks.com/region/whiskey-run-trails-21273/</a>
 
 **Categories:**<br>Expert: Men & Women: 19-31, 32-44, 45+ & Junior 9-13 & 14-18<br>Sport: Men & Women: 19-31, 32-44, 45+ & Junior 9-13 & 14-18<br>E-Bikes: Class 1, pedal assist, no throttles allowed.
 
 *For this first year, e-bikes will be in their own class. You can choose Expert or Sport. Class will not be split by age or gender.*
 
-*{{< spacer "40" >}}*
+{{< spacer "40" >}}
 
 **EVENT BROUGHT TO YOU BY:**<br>Oregon Coast Visitors Association<br>Bandon Chamber of Commerce<br>Oregon Rides & Events
 
