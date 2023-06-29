@@ -38,10 +38,6 @@ Don't Miss these two days of fun biking events on the Southern Oregon Coast!
 
 **<a target="_blank" href="https://www.thedirtwave.com/whiskey-run/">VISIT THE WEBSITE FOR REGISTRATION AND MORE INFORMATION!!</a>**
 
-
-
->
-
 ### {{< spacer "25" >}}
 
 ### SCHEDULE
