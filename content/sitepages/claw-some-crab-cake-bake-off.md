@@ -5,7 +5,6 @@ draft: false
 url: crab-cake-bake-off
 layout: contact
 photo: /img/crab-cake-subpage-header-02.jpg
-ctas: []
 seo:
   title: ''
   description: >-
@@ -14,9 +13,6 @@ seo:
     baking competition near me, cake competition, baking contest near me
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
-boxes: []
 ---
 ![Crab Cake Bake-Off Sample Cake showing undersea creatures](/img/gwen-cake-two-version-01.jpg)
 
@@ -87,9 +83,9 @@ Appearance and creativity are paramount, but understanding the ingredients used 
 
 **First Place** prizes will be awarded in both the Amateur and Professional categories.
 
-> *Each First Place Winner will receive a trip for two to Oregon’s Adventure Coast, including a 2-night stay, meal vouchers, and Oregon’s Adventure Coast goodies.*
+> *Each First Place Winner will receive a trip for two to Oregon’s Adventure Coast, including a 2-night stay at our official Bake Off Hotel the <a target="_blank" rel="noopener" href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html">Best Western Holiday Hotel Coos Bay</a>, meal vouchers, and Oregon’s Adventure Coast goodies.*
 
-**Second & Third Place** winners in each category will receive a goodie basket of Oregon’s Adventure Coast products.
+**All Non-Winning Entries**&nbsp;will receive a goodie bag of Oregon’s Adventure Coast products.
 
 {{< spacer 25 >}}
 
