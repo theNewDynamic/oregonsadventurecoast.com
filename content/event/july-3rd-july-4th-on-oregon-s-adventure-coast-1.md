@@ -44,11 +44,9 @@ Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [Th
 
 {{< spacer 15 >}}
 
-#### **5:00 &nbsp;PM – 10:00 &nbsp;PM Enjoy Music and Food!**
+#### **5:00 &nbsp;PM – 10:00 &nbsp;PM Enjoy Music and Food! North Parking Lot**
 
-Local Food Trucks - **Muncheria & West Coast Bitez** - will be on hand serving up the very best from their menus for this amazing event.
-
-From 6:00 PM – 8:00 PM and 8:00 PM – 10 PM, **The Koz & Code Red** will entertain the crowds
+5 PM – 10 PM – Food Trucks,&nbsp;**Mill Grill, Muncheria, West Coast Bitez**, plus Beer & Wine also available<br>6 PM – 8 PM – LIVE MUSIC With **The KOZ**<br>8 PM – 10 PM – LIVE MUSIC With **Code Red**<br>10 PM – BLAST BY THE BAY - **Fireworks Extravaganza**
 
 {{< spacer 50 >}}
 
