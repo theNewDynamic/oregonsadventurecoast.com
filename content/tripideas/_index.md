@@ -27,6 +27,6 @@ To help you get started discovering our exciting and exhilarating adventures, we
 
 Contact Oregon’s Adventure Coast with any questions you may have about things to do on your vacation!!
 
-[![crab cake bake-off enter to win a trip for two to oregon's adventure coast](/uploads/crab-cake-bake-off-695wide-04-23-v02.jpg)](/crab-cake-bake-off)
+
 
 {{< spacer 50 >}}
