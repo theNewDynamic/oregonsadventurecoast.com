@@ -16,7 +16,9 @@ seo:
 ---
 ![Crab Cake Bake-Off Sample Cake showing undersea creatures](/img/gwen-cake-two-version-01.jpg)
 
-### {{< floatimage src="img/crab-cake-logo-400px.jpg" float="right" alt="Claw-some Crab Cake Bake-Off Logo" size="100" >}}
+![](/img/horizontal-crab-cake-logo.jpg)
+
+###
 
 ### The 2023 Claw-some Crab Cake Bake-Off contest has now closed.&nbsp;
 
