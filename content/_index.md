@@ -16,12 +16,6 @@ slideshow:
   - photo: /img/summer-getaway-biker-home-slider.jpg
     url: /cycling
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
-home_splashes:
-  - url: /crab-cake-bake-off
-    img: /uploads/crab-cake-bake-off-splash-v03.jpg
-    alt: >-
-      Crab Cake Bake-Off Contest - Enter to Win a trip for two to oregon's
-      adventure coast
 masonry1:
   desktopphoto: /img/store-image-desktop.jpg
   desktoptitle: Store
