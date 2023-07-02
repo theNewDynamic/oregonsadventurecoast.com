@@ -1,18 +1,15 @@
 ---
+_schema: default
 title: Thank You for Entering Our Contest!
+draft: true
 url: crab-cake-thank-you
 layout: contact
-photo: "/img/crab-cake-subpage-header-02.jpg"
-ctas: []
+photo: /img/crab-cake-subpage-header-02.jpg
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
-boxes: []
-
 ---
 ![](/img/thank-you-page-logo-text-cake.jpg)
 
