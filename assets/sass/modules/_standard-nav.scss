@@ -189,3 +189,8 @@
         margin-bottom: 0;
     }
 }
+.m-standard-nav .nav-group-display.show {
+    @include medium {
+        display: block;
+    }
+}

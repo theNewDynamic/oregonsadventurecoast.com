@@ -2742,6 +2742,10 @@ Modifier Classes for .items:
       background-color: #e0e0e0;
       padding: 10px;
       margin-bottom: 0; } }
+@media only screen and (max-width: 1025px) {
+  .m-standard-nav .nav-group-display.show {
+    display: block; } }
+
 .m-standard-content {
   width: 695px;
   float: right;
