@@ -5,9 +5,6 @@ slideshow:
   - photo: /img/summer-getaway-beach-home-slider.jpg
     photo_mobile: ''
     url: /undeveloped-beaches
-  - photo: /img/crab-cake-bake-off-hm-slider.jpg
-    url: /crab-cake-bake-off
-    photo_mobile: /img/crab-cake-bake-off-mobile-hm-slider.jpg
   - photo: /img/summer-getaway-2023-home-slider.jpg
     url: /hiking-walking
   - photo: /img/summer-getaway-biker-home-slider.jpg
