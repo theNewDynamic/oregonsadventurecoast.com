@@ -2,11 +2,10 @@
 _schema: default
 title: Pedal the Rails!
 property_description: >-
-  For a unique experience, pedal the Coos Historic Railway on an open
+  For a unique experience, pedal the Coos Historic Railway on an open-air
   four-seater quadricycle! The 12-mile round trip starts and ends in Coquille,
-  just 17 miles inland from Coos Bay, heading toward Coos Bay. The attraction is
-  open May to early October. Book your ride now and help save the historic
-  railway.
+  just 17 miles inland from Coos Bay. The attraction is open May to early
+  October. Book your ride now and help save the historic railway.
 property_name: Oregon Coast Railriders
 equip_type:
   - Tour
