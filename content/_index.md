@@ -7,6 +7,8 @@ slideshow:
     url: /undeveloped-beaches
   - photo: /img/summer-getaway-2023-home-slider.jpg
     url: /hiking-walking
+  - photo: /img/summer-getaway-dunes-home-slider.jpg
+    url: /atv-motorsports
   - photo: /img/summer-getaway-biker-home-slider.jpg
     url: /cycling
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
