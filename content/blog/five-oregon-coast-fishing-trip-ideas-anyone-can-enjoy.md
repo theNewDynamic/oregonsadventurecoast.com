@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Five Oregon Coast Fishing Trip Ideas Anyone Can Enjoy
+title: Five Oregon's Adventure Coast Fishing Trip Ideas Anyone Can Enjoy
 draft: false
 date: 2023-06-30T00:00:00-07:00
 description: >-
@@ -25,7 +25,6 @@ tags:
   - Freshwater Fishing
   - Winter Steelhead Fishing
   - Oregon Department of Fish & Wildlife
-aliases: []
 warning: false
 ---
 We’ve said it before, but we’ll say it again. Fishing is more than just a way to pass the time on&nbsp; **Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston**…it’s deeply ingrained into our collective culture and history. For thousands of years, an abundance of freshwater lakes and rivers, along with the bay and ocean, has sustained the way of life for residents on Oregon’s Adventure Coast, dating back to the [<u>Coquille Indian Tribe</u>](https://www.oregonsadventurecoast.com/tribal-heritage-coquilles/) and [<u>Confederated Tribes of the Coos, Siuslaw and Lower Umpqua Indians</u>](https://www.oregonsadventurecoast.com/tribal-heritage-confederated/), long before the first European settlers ever arrived in the region. Centuries later, our area is still a prime destination for all sorts of fishing adventures - whether it’s from the shore, charter boat, jetty, dock, and even by kayak.&nbsp;
@@ -35,8 +34,6 @@ Whether you’re looking for a fishing adventure for the very first time or the 
 **Trip Idea \#1: Kayak Fishing On Oregon’s Adventure Coast**
 
 **![](/img/oregon-coast-fishing-trip-ideas-blog-695x322-jpg-2.jpg)**
-
-
 
 Kayak fishing in Oregon is enjoying a surge in popularity. Beginners and families can find a friendly learning curve with a slow troll for trout or casting for bass on one of Oregon’s scenic lakes.
 
