@@ -2,9 +2,12 @@
 _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
-  - photo: /img/summer-getaway-beach-home-slider.jpg
-    photo_mobile: ''
+  - title:
+    photo: /img/cool-at-the-coast-home-slider-2048x850.jpg
+    title_mobile:
+    photo_mobile: /img/cool-at-the-coast-mobile-512x320.jpg
     url: /undeveloped-beaches
+    video:
   - photo: /img/summer-getaway-2023-home-slider.jpg
     url: /hiking-walking
   - photo: /img/summer-getaway-dunes-home-slider.jpg
