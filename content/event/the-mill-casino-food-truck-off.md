@@ -21,7 +21,7 @@ largeboxphoto: /img/truck-off-event-large.jpg
 mediumboxphoto: /img/truck-off-event-medium.jpg
 smallboxphoto: /img/truck-off-event-small.jpg
 ---
-![](/img/food_truck_off_fb-hat.jpg)
+![](/img/2308-food-truck-off-667x355.jpg)
 
 #### **Enjoy a 3-day event featuring food trucks, live music and more.**
 
@@ -50,5 +50,3 @@ This three-day event will feature up to **20 food trucks from the Pacific Northw
 Interested in Competing? Email The Mill's [Sales Department](mailto:salesdept@themillcasino.com)&nbsp;for more information
 
 {{< spacer 50 >}}
-
-![](/img/1708_food_truck_off_web850.jpg)
