@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 2023 Annular Solar Eclipse
-startdate: '2022-10-14'
+startdate: '2023-10-14'
 address:
   city:
   state:
