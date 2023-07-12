@@ -12,4 +12,5 @@ desktoptitle: 2023 Annular Solar Eclipse First Landfall
 mobiletitle: 2023 Annular Solar Eclipse
 hovertitle: Rare ‘Ring of Fire’ Eclipse
 hoverdescription: We will be among the first in the U.S. to see it!
+photo: /img/solar-eclipse-header-2048x530.jpg
 ---
