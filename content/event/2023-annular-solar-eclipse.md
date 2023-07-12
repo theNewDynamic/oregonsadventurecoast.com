@@ -38,3 +38,5 @@ If you’re planning to visit Oregon’s Adventure Coast: Coos Bay, North Bend, 
 According to [<u>the website, Great American Eclipse</u>](https://www.greatamericaneclipse.com), “an annular solar eclipse promises a spectacular vision featuring the striking sight of the Sun as a ring.” Those inside the path of the 2023 Annular Solar Eclipse will see the sun appear as a bright ring-shaped halo around the edges of the moon for a full 4 minutes before it continues southeast. Daylight will be noticeably dimmer, but viewers will not experience complete darkness like a total solar eclipse.
 
 **What Causes the Dramatic Ring of Fire?**
+
+**![](/img/2023-annular-solar-eclipse-blog-695x322-jpg-2.jpg)**
