@@ -29,7 +29,7 @@ smallboxphoto: /img/solar-eclipse-event-small.jpg
 ---
 ### Rare ‘Ring of Fire’ Eclipse: First Landfall on Our Beaches!
 
-If you’re planning to visit Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston the 2nd weekend in October, you’re in for a special treat! If you haven’t heard, parts of the Western United States will experience an annular solar eclipse &nbsp;this fall (a.k.a. “Ring of Fire” event)! Sky-watchers from all over the region can experience the big show on Oregon’s Adventure Coast at 9:18 a.m. Pacific Standard Time on Saturday, October 14, 2023. In fact, we will be among the first in the U.S. to see it before it continues to move southeast towards Texas, Central America and South America.
+If you’re planning to visit Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston the 2nd weekend in October, you’re in for a special treat! If you haven’t heard, parts of the Western United States will experience an annular solar eclipse &nbsp;this fall (a.k.a. “Ring of Fire” event)! Sky-watchers from all over the region can experience the big show on **Oregon’s Adventure Coast at 9:18 a.m. Pacific Standard Time on Saturday, October 14, 2023**. In fact, we will be among the first in the U.S. to see it before it continues to move southeast towards Texas, Central America and South America.
 
 ![](/img/heroimage-page-header.jpg)
 
