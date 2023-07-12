@@ -13,12 +13,10 @@ phone_local: (541) 269-0215
 coordinates:
   lat: '43.45411456809241'
   lng: '-124.27619981612831'
-desktoptitle: 2023 Annular Solar Eclipse First Landfall
+desktoptitle: 2023 Annular Solar Eclipse
 mobiletitle: 2023 Annular Solar Eclipse
-hovertitle: Rare ‘Ring of Fire’ Eclipse First Landfall
-hoverdescription: >-
-  Oregon's Adventure Coast will be among the first in the U.S. to see it! Grab
-  your glasses and join us.
+hovertitle: Rare ‘Ring of Fire’ Eclipse
+hoverdescription: 'First Landfall: We will be among the first in the U.S. to see it!'
 photo: /img/solar-eclipse-header-2048x530.jpg
 largeboxphoto: /img/solar-eclipse-event-large.jpg
 mediumboxphoto: /img/solar-eclipse-event-medium.jpg
