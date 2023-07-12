@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: 2023 Annular Solar Eclipse
-startdate: '2023-07-12'
-enddate: '2023-07-12'
+startdate: '2023-10-14'
+enddate: '2023-10-14'
 address:
   city: North Bend
   state: Oregon
