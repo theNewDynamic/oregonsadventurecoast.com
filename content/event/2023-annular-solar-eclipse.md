@@ -13,6 +13,11 @@ phone_local: (541) 269-0215
 coordinates:
   lat: '43.45411456809241'
   lng: '-124.27619981612831'
+seo:
+  title: First Landfall for 2023 Annular Solar Eclipse
+  description: Solar Eclipse 2023
+  imgalt:
+  image:
 desktoptitle: 2023 Annular Solar Eclipse
 mobiletitle: 2023 Annular Solar Eclipse
 hovertitle: Rare ‘Ring of Fire’ Eclipse
