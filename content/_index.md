@@ -20,7 +20,7 @@ masonry1:
   desktoptitle: Store
   hoverdescription: Shop for Oregon's Adventure Coast gear!
   hovertitle: Get Gear
-  mobilephoto: /img/store-image-mobile.jpg
+  mobilephoto: /img/store-image-shirts-mobile.jpg
   mobiletitle: The Adventure Store
   url: /shop/
 masonry2:
