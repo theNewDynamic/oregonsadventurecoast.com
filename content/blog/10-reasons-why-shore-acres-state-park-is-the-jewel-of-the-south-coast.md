@@ -26,7 +26,7 @@ tags:
   - Louis J. Simpson
 warning: false
 ---
-The Oregon Coast is known for its outstanding selection of [<u>state parks</u>](https://stateparks.oregon.gov/), but there is one park that stands out from the rest. Shore Acres State Park, just 13 miles southwest of Coos Bay, is considered among the best of coastal state parks by many visitors. The 745-acre park is often called the “jewel of the South Coast” and has unique features visitors will not see anywhere else: a spectacular botanical garden with year-round displays of flora, multiple hiking trails linking to other state parks, rare plants and trees, a “secret beach”, majestic views of the Pacific Ocean, and yes, the annual [<u>Holiday Lights at Shore Acres</u>](https://www.oregonsadventurecoast.com/event/annual-holiday-lights-at-shore-acres/) each night from Thanksgiving through New Year’s Ev
+The Oregon Coast is known for its outstanding selection of [<u>state parks</u>](https://stateparks.oregon.gov/), but there is one park that stands out from the rest. Shore Acres State Park, just 13 miles southwest of Coos Bay, is considered among the best of coastal state parks by many visitors. The 745-acre park is often called the “jewel of the South Coast” and has unique features visitors will not see anywhere else: a spectacular botanical garden with year-round displays of flora, multiple hiking trails linking to other state parks, rare plants and trees, a “secret beach”, majestic views of the Pacific Ocean, and yes, the annual [<u>Holiday Lights at Shore Acres</u>](https://www.oregonsadventurecoast.com/event/annual-holiday-lights-at-shore-acres/) each night from Thanksgiving through New Year’s Eve.
 
 {{< vimeo id="715000168" >}}
 
@@ -97,18 +97,18 @@ Shore Acres State Park is located on the Cape Arago Highway, 13 miles southwest 
 From Thanksgiving through New Year’s Eve (Nov. 23-Dec. 31, 2023), Shore Acres State Park sparkles with 325,000 LED lights and seasonal holiday displays. Dubbed “a holiday tradition for the whole family”, the [<u>Annual Holiday Lights at Shore Acres</u>](https://www.oregonsadventurecoast.com/event/annual-holiday-lights-at-shore-acres/) event has attracted hundreds of thousands of visitors from all over the world for the last 36 years. To see the holiday lights, visitors will need to reserve a Parking Pass for their perferred date and time in advance. Here’s how to do it!
 
 1. Pick your day/time to visit - note that half of the parking tickets will be sold in advance with the rest available within 7 days of entry.
-2. [<u>Visit the OPRD website</u>](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381) or click the Book Now Button below to book your time
+2. <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381"><u>Visit the OPRD website</u></a> or click the Book Now Button below to book your time
 3. Pay the $5 fee **per vehicle (Remember you are only booking a** **<u>parking spot</u>****, not getting tickets for everyone in your party! If you all fit in one vehicle, you only need one pass.)**
 4. Print your pass - you must bring the pass with you to enter the park
 5. Have more questions? Call 541-888-3778, the local State Parks office.
 
-Visit [<u>Timed Entry Reservations – 2023 Information</u>](https://stateparks.oregon.gov/index.cfm?do=v.feature-article&amp;articleId=300) to learn more and make your reservations today.&nbsp;
+Visit <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381"><u>Timed Entry Reservations – 2023 Information</u></a> to learn more and make your reservations today.&nbsp;
 
 **Other Things You Should Know**
 
 * Shore Acres State Park is open every day from 8 a.m. to dusk. Please check posted times at the park entrance for exact closing times.&nbsp;
 
-* The park charges a $5 parking fee. There are no additional fees to visit the garden, beach or hiking trails. You can also purchase your day pass online in advance. Entrance to Shore Acres State Park is also covered by the annual [<u>Oregon State Parks Pass</u>](https://oregonstateparks.reserveamerica.com/posProductDetails.do?id=43358&amp;contractCode=OR). Your camping receipt from Sunset Bay State Park or any other state park campground is accepted as a daily permit for those days registered. Display the receipt on the driver side of your dashboard when visiting Shore Acres State Park. If you are coming for the holiday lights display, you will need to reserve your **vehicle parking pass** by [<u>visiting the OPRD website</u>](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381).&nbsp;
+* The park charges a $5 parking fee. There are no additional fees to visit the garden, beach or hiking trails. You can also purchase your day pass online in advance. Entrance to Shore Acres State Park is also covered by the annual [<u>Oregon State Parks Pass</u>](https://oregonstateparks.reserveamerica.com/posProductDetails.do?id=43358&amp;contractCode=OR). Your camping receipt from Sunset Bay State Park or any other state park campground is accepted as a daily permit for those days registered. Display the receipt on the driver side of your dashboard when visiting Shore Acres State Park. If you are coming for the holiday lights display, you will need to reserve your **vehicle parking pass** by <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381"><u>visiting the OPRD website</u></a>.&nbsp;
 
 * Some wheelchairs are available, on a first come basis.
 
