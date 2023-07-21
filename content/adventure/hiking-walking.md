@@ -86,7 +86,7 @@ We have a whole system of hiking trails in the immediate and surrounding area, b
 
 ![Oregon Coast Trail - Hikers near Shore Acres State Park](/img/hiking-shore-acres-kids.jpg)
 
-<div class="cms-embed" data-cms-embed="aHR0cHM6Ly95b3V0dS5iZS80SFBBREZJWHNObw==">https://youtu.be/4HPADFIXsNo</div>
+{{< youtube id="4HPADFIXsNo" title="Explore Oregon's Adventure Coast - Hiking" >}}
 
 ## Oregon Coast Trail *(Sunset Bay to Cape Arago)*
 
