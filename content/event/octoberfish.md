@@ -6,7 +6,7 @@ enddate: '2023-10-07'
 address:
   city: Charleston
   state: Oregon
-  street: Boat Basin Road
+  street: 63466 Boat Basin Road
   zip: 97420
 desktoptitle: Octoberfish
 mobiletitle: Octoberfish
