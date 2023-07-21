@@ -23,6 +23,8 @@ smallboxphoto: /img/octoberfish-sign-340x214.jpg
 
 Come join us for another year in celebration of Coos Culture, games and activities for the kids, great music for the adults, yoga & movement workshops, local art and a tuna cookout. 7 Devils Brewing Company will be serving their craft beer.
 
+**Saturday October 7th from 10am to 4pm! Don't Miss the Fun but bring your lawn chair!**
+
 ![](/img/octoberfish-crafts-667x355.jpg)
 
 **Always the first Saturday in October, and always Free to attend!!**
