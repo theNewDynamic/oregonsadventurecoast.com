@@ -1,4 +1,5 @@
 ---
+_schema: default
 title: Annual Blackberry Arts Festival
 startdate: '2023-08-26'
 enddate: '2023-08-27'
@@ -7,31 +8,29 @@ address:
   street2: ''
   city: Coos Bay
   zip: '97420'
-phone_local: "(541) 266-9706"
-phone_toll_free: ''
-website: https://blackberryartsfestival.com/
+phone_local: (541) 266-9706
+website: https://coosbaydowntown.com/blackberry-arts-festival/
 desktoptitle: Blackberry Arts Fest
 mobiletitle: Blackberry Arts Fest
 hovertitle: Blackberry Arts Fest
-hoverdescription: Celebrate the delicious blackberry with a festival, arts & crafts,
-  and live music!
-photo: "/img/blackberry-hero-2048x530.jpg"
-largeboxphoto: "/img/blackberry-icecream-1024x395.jpg"
-mediumboxphoto: "/img/blackberry-art-667x355.jpg"
-smallboxphoto: "/img/blackberry-ice-cream-340x214.jpg"
+hoverdescription: >-
+  Celebrate the delicious blackberry with a festival, arts & crafts, and live
+  music!
+photo: /img/blackberry-hero-2048x530.jpg
+largeboxphoto: /img/blackberry-icecream-1024x395.jpg
+mediumboxphoto: /img/blackberry-art-667x355.jpg
+smallboxphoto: /img/blackberry-ice-cream-340x214.jpg
 date: '2019-02-10T22:01:16.000+00:00'
-
 ---
-
 ![Nothing is more refreshing than ice cream and this blackberry ice cream is the best at the Blackberry Arts Festival!](/img/blackberry-ice-cream-medium.jpg "Blackberry Ice Cream! Yum!")
 
-#### The annual **Blackberry Arts Festival** celebrates the delicious blackberry! 
+#### The annual **Blackberry Arts Festival** celebrates the delicious blackberry!
 
 Blackberry arts, food, and drink are the fare at this popular event in downtown Coos Bay. Featuring live music with the **Blackberry Jam** all weekend long!
 
 {{< spacer 50 >}}
 
-![An artist shares her wares at the Blackberry Arts Festival in Coos Bay.](/img/blackberry-arts-painting-medium.jpg "Arts & Crafts at Blackberry Arts Fest")
+![An artist shares her wares at the Blackberry Arts Festival in Coos Bay.](/img/blackberry-arts-painting-medium.jpg "Arts &amp; Crafts at Blackberry Arts Fest")
 
 {{< spacer 50 >}}
 
@@ -47,8 +46,16 @@ The **Blackberry Arts Festival** is a juried arts and craft festival that has be
 
 {{< spacer 50 >}}
 
-_![Come listen to great music at the Blackberry Arts Festival!](/img/blackberry-jam-image.jpeg "K-DOCK Radio Blackberry Jam")_
+*![Come listen to great music at the Blackberry Arts Festival!](/img/blackberry-jam-image.jpeg "K-DOCK Radio Blackberry Jam")*
 
-### [**K-DOCK Blackberry Jam**]()
+### Blackberry Jam!
 
-##### Info coming soon!
+#####
+
+Featuring great music from some of our festival favorites! Stage is located at Central and 3rd Avenue.
+
+**Saturday, August 26th**<br>12:00 PM – Jeff Torrence<br>2:00 PM – Trent Beaver<br>4:00 PM – Terry Rob
+
+**Saturday, August 27th**<br>12:00 PM – Chris Coach<br>2:00 PM – Ben Rice
+
+*The Blackberry Jam is brought to you by: Coos Bay Toyota and Pacific Properties*<br>
