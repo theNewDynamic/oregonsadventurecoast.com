@@ -84,9 +84,11 @@ Coos Bay, North Bend and Charleston in Coos County are an adventure waiting to h
 
 We have a whole system of hiking trails in the immediate and surrounding area, but listed below are some of our favorites:
 
-![Oregon Coast Trail - Hikers near Shore Acres State Park](/img/hiking-shore-acres-kids.jpg)
+{{< spacer "50" >}}
 
 {{< youtube id="4HPADFIXsNo" title="Explore Oregon's Adventure Coast - Hiking" >}}
+
+## {{< spacer "50" >}}
 
 ## Oregon Coast Trail *(Sunset Bay to Cape Arago)*
 
