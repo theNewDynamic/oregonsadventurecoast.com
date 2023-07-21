@@ -1,16 +1,6 @@
 ---
+_schema: default
 title: Annual Bay Area Fun Festival 2023
-aliases:
-- "/event/annual-bay-area-fun-festival-2020/*"
-photo: "/img/funfest-2048x530.jpg"
-largeboxphoto: "/img/funfest-1024x395.jpg"
-mediumboxphoto: "/img/funfest-667x355.jpg"
-smallboxphoto: "/img/funfest-340x214.jpg"
-desktoptitle: Bay Area Fun Festival
-mobiletitle: Bay Area Fun Festival
-hovertitle: Annual Bay Fun Fun Festival
-hoverdescription: Famous Cruz the Coos vintage autos, Prefontaine Memorial Run, K-DOCK
-  RockFest & Parade.
 startdate: '2023-09-16'
 enddate: '2023-09-17'
 address:
@@ -18,10 +8,20 @@ address:
   state: Oregon
   street: 50 Central Ave.
   zip: 97420
-phone_toll_free: ''
-phone_local: "(541) 266-9706"
+phone_local: (541) 266-9706
 website: https://bayareafunfestival.com/
-
+desktoptitle: Bay Area Fun Festival
+mobiletitle: Bay Area Fun Festival
+hovertitle: Annual Bay Fun Fun Festival
+hoverdescription: >-
+  Famous Cruz the Coos vintage autos, Prefontaine Memorial Run, K-DOCK RockFest
+  & Parade.
+photo: /img/funfest-2048x530.jpg
+largeboxphoto: /img/funfest-1024x395.jpg
+mediumboxphoto: /img/funfest-667x355.jpg
+smallboxphoto: /img/funfest-340x214.jpg
+aliases:
+  - /event/annual-bay-area-fun-festival-2020/*
 ---
 ![](/img/baff-backgrounder.jpeg)
 
@@ -39,16 +39,15 @@ Thousands of locals and visitors from afar come to enjoy the sights, sounds, and
 
 #### For the kiddos, Sunday offers a special additional event!
 
-[**2022 PRE RUN FOR KIDS](https://www.great-futures.org/pre-for-kids)  
-Sunday, September 17th, 1:30pm Start
+[\*\*2022 PRE RUN FOR KIDS](https://www.great-futures.org/pre-for-kids)<br>Sunday, September 17th, 1:30pm Start
 
 Girls and Boys in grades 1st through 8th are encouraged to participate in this 3-mile fun run.
 
 The Start of the race is on 2nd Street, Coos Bay (behind Coos Art Museum)
 
-**Check-in Time: Begins at 12:00pm**
+**Check-in Time: Begins at 12:00pm**
 
-**Registration Fee: FREE! Pre-Registration Encouraged**
+**Registration Fee: FREE! Pre-Registration Encouraged**
 
 **SHIRTS AVAILABLE WHILE SUPPLIES LAST**
 
@@ -60,7 +59,7 @@ Top boy and girl finishers will be recognized. Medals will be awarded to the top
 
 #### HERE ARE THE OTHER EXCITING EVENTS HAPPENING THIS WEEKEND!
 
-***
+---
 
 {{< columns number="2" >}}
 

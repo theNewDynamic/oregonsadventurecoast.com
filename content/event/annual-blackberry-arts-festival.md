@@ -46,7 +46,7 @@ The **Blackberry Arts Festival** is a juried arts and craft festival that has be
 
 {{< spacer 50 >}}
 
-*![Come listen to great music at the Blackberry Arts Festival!](/img/bba-jam.jpg "K-DOCK Radio Blackberry Jam")*
+*![Come listen to great music at the Blackberry Arts Festival!](/img/bba-jam.jpg "Blackberry Jam")*
 
 ### Blackberry Jam!
 
@@ -58,4 +58,4 @@ Featuring great music from some of our festival favorites! Stage is located at C
 
 **Saturday, August 27th**<br>12:00 PM – Chris Coach<br>2:00 PM – Ben Rice
 
-*The Blackberry Jam is brought to you by: Coos Bay Toyota and Pacific Properties*<br>
+*The Blackberry Jam is brought to you by: Coos Bay Toyota and Pacific Properties*
