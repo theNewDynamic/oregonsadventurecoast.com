@@ -46,7 +46,7 @@ The **Blackberry Arts Festival** is a juried arts and craft festival that has be
 
 {{< spacer 50 >}}
 
-*![Come listen to great music at the Blackberry Arts Festival!](/img/blackberry-jam-image.jpeg "K-DOCK Radio Blackberry Jam")*
+*![Come listen to great music at the Blackberry Arts Festival!](/img/bba-jam.jpg "K-DOCK Radio Blackberry Jam")*
 
 ### Blackberry Jam!
 
