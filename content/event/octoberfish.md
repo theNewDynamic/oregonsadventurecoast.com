@@ -1,21 +1,21 @@
 ---
+_schema: default
 title: Octoberfish
-photo: "/img/charleston-marina-2048x530.jpg"
-largeboxphoto: "/img/octoberfish-gathering-1024x395.jpg"
-mediumboxphoto: "/img/octoberfish-667x395.jpg"
-smallboxphoto: "/img/octoberfish-sign-340x214.jpg"
-desktoptitle: Octoberfish
-mobiletitle: Octoberfish
-hovertitle: Fall Family Celebration
-hoverdescription: Fall Family Celebration
-startdate: '2022-10-01'
-enddate: '2022-10-01'
+startdate: '2023-10-07'
+enddate: '2023-10-07'
 address:
   city: Charleston
   state: Oregon
   street: Boat Basin Road
   zip: 97420
-
+desktoptitle: Octoberfish
+mobiletitle: Octoberfish
+hovertitle: Fall Family Celebration
+hoverdescription: Fall Family Celebration
+photo: /img/charleston-marina-2048x530.jpg
+largeboxphoto: /img/octoberfish-gathering-1024x395.jpg
+mediumboxphoto: /img/octoberfish-667x395.jpg
+smallboxphoto: /img/octoberfish-sign-340x214.jpg
 ---
 ![](/img/octoberfish-gathering-1024x395.jpg)
 
