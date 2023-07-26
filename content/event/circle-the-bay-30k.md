@@ -42,7 +42,7 @@ _Note: prices listed are for the entire team.  The team captain signs up and the
 
 {{< spacer 50 >}}
 
-### [REGISTER HERE!](https://runsignup.com/Race/OR/NorthBend/CircletheBayNorthBend)
+### <a class="learn-more-anywhere-btn" href="https://runsignup.com/Race/OR/NorthBend/CircletheBayNorthBend">REGISTER HERE</a>
 
 {{< spacer 50 >}}
 
