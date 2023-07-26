@@ -8,6 +8,18 @@ slideshow:
     photo_mobile: /img/cool-at-the-coast-mobile-512x320.jpg
     url: /undeveloped-beaches
     video:
+  - title:
+    photo: /img/circle-the-bay-home-slider-2048x850.jpg
+    title_mobile:
+    photo_mobile:
+    url: /event/circle-the-bay-30k
+    video:
+  - title:
+    photo: /img/blackberry-artsfest-home-slider-2048x850.jpg
+    title_mobile:
+    photo_mobile:
+    url: /event/annual-blackberry-arts-festival
+    video:
   - photo: /img/summer-getaway-2023-home-slider.jpg
     url: /hiking-walking
   - photo: /img/summer-getaway-dunes-home-slider.jpg
