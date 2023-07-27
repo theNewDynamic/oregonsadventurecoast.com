@@ -6,12 +6,10 @@ date: 2023-07-25T12:00:00-07:00
 description: >-
   We are looking forward to welcoming hundreds of runners (and their cheering
   squads) from all over the region the weekend of August 12, 2023, who are
-  competing in the [Circle the Bay
-  30K](https://www.oregonsadventurecoast.com/event/circle-the-bay-30k/). Once
-  the run is over, stick around and experience more of what Oregon’s Adventure
-  Coast has to offer! Here are some “do’s and don'ts” to help you enjoy the best
-  of Coos Bay, North Bend and Charleston, Oregon - whether it's your 1st visit
-  to our area or the 100th.
+  competing in the Circle the Bay 30K. Once the run is over, stick around and
+  experience more of what Oregon’s Adventure Coast has to offer! Here are some
+  “do’s and don'ts” to help you enjoy the best of Coos Bay, North Bend and
+  Charleston, Oregon - whether it's your 1st visit to our area or the 100th.
 image: /img/circle-the-bay-30k-blog-695x322-jpg.jpg
 tags:
   - Circle the Bay 30K
