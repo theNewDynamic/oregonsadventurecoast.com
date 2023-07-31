@@ -11,4 +11,6 @@ seo:
   imgalt: ''
   image: ''
 ---
-<p class="text-center">​​​​<img src="/img/thankyou-graphic-text-red.jpg" /></p>
+<p class="text-center">​​​​<img src="/img/thankyou-graphic-text-red.jpg" /><img src="/img/thankyou-graphic-text-red.jpg" /></p>
+
+<p class="text-center">Visit our home page and explore all the adventures in our area!</p>
