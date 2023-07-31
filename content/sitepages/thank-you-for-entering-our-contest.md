@@ -3,7 +3,7 @@ _schema: default
 title: Thank You for Entering Our Contest!
 draft: false
 url: catc-contest-thank-you
-layout: headless
+layout: contact
 photo: /img/beach-undeveloped-pg-header.jpg
 seo:
   title: ''
@@ -11,6 +11,6 @@ seo:
   imgalt: ''
   image: ''
 ---
-<p class="text-center"><img alt="" src="/img/thankyou-graphic-text-red.jpg" /></p>
+![](/img/thankyou-graphic-text-red.jpg)
 
-<h3 class="text-center"><a href="/">Visit our home page for all the adventures our area has to offer!</a></h3>
+### [Visit our home page for all the adventures our area has to offer!](/)
