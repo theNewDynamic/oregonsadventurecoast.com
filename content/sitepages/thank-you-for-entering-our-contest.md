@@ -11,3 +11,6 @@ seo:
   imgalt: ''
   image: ''
 ---
+![](/img/thankyou-graphic-text-red.jpg)
+
+[Visit our home page for all the adventures our area has to offer!](/)
