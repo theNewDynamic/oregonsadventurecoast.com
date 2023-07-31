@@ -13,7 +13,7 @@ seo:
 ---
 ![](/img/thankyou-graphic-text-red.jpg)
 
-### [Visit our home page!](/)
+### [Visit our home page](/)
 
 Explore all the adventures our area has to offer!
 
