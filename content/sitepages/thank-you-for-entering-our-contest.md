@@ -11,6 +11,6 @@ seo:
   imgalt: ''
   image: ''
 ---
-![](/img/thankyou-graphic-text-red.jpg)
+<p class="text-center"><img alt="" src="/img/thankyou-graphic-text-red.jpg" /></p>
 
-### [Visit our home page for all the adventures our area has to offer!](/)
+<h3 class="text-center"><a href="/">Visit our home page for all the adventures our area has to offer!</a></h3>
