@@ -13,4 +13,6 @@ seo:
 ---
 ![](/img/thankyou-graphic-text-red.jpg)
 
-### [Visit our home page for all the adventures our area has to offer!](/)
+### [Visit our home page](/) to explore all the adventures our area has to offer!
+
+{{< spacer "100" >}}
