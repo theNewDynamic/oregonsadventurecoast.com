@@ -11,8 +11,4 @@ seo:
   imgalt: ''
   image: ''
 ---
-![](/img/gwen-cake-cut.jpg)
-
-### Cool at the Coast Getaway Contest
-
-By entering you agree to allowing use of your name and image in promotion. &nbsp;No Cash value exchange is available.&nbsp; OAC does not trade or sell our list to anyone. You can unsubscribe at any time. (Form)All entries must be completed in full and only one submission per person. Open to all legal U.S. residents, 18 years or olde4. &nbsp;All prizes are subject to change and no transportation to or from Oregon’s Adventure Coast is provided. &nbsp;
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly9mb3JtLmpvdGZvcm0uY29tL2pzZm9ybS8yMzIwNzU4OTI3OTMwNjQiPjwvc2NyaXB0Pg=="><script type="text/javascript" src="https://form.jotform.com/jsform/232075892793064"></script></div>
