@@ -4,7 +4,7 @@ title: WW Cool at the Coast Giveaway
 draft: false
 url: cool-at-coast-giveaway
 layout: contact
-photo: /img/crab-cake-subpage-header-02.jpg
+photo: /img/beach-undeveloped-pg-header.jpg
 seo:
   title: ''
   description: ''
