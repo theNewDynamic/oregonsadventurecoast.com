@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: WW Cool at the Coast Giveaway
-draft: true
-url: ww-cool-at-coast-giveaway
+draft: false
+url: cool-at-coast-giveaway
 layout: contact
 photo: /img/crab-cake-subpage-header-02.jpg
 seo:
@@ -13,8 +13,6 @@ seo:
 ---
 ![](/img/gwen-cake-cut.jpg)
 
-### Crab Cake Enthusiasts!
+### Cool at the Coast Getaway Contest
 
-We are thrilled to have you participate in our Claw-some Crab Cake Bake-Off contest! Your talent and passion for baking are what make this competition so exciting, and we appreciate you taking the time to share your skills with us. We want to extend a warm welcome and thank you for entering the contest. Your entries are sure to make this a truly memorable experience. We wish you all the best of luck and can't wait to see what you create!
-
-<script type="text/javascript" src="https://form.jotform.com/jsform/230595150201040"></script>
+By entering you agree to allowing use of your name and image in promotion. &nbsp;No Cash value exchange is available.&nbsp; OAC does not trade or sell our list to anyone. You can unsubscribe at any time. (Form)All entries must be completed in full and only one submission per person. Open to all legal U.S. residents, 18 years or olde4. &nbsp;All prizes are subject to change and no transportation to or from Oregon’s Adventure Coast is provided. &nbsp;
