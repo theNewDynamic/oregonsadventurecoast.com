@@ -3,7 +3,7 @@ _schema: default
 title: WW Cool at the Coast Giveaway
 draft: false
 url: cool-at-coast-giveaway
-layout: contact
+layout: nosidebar
 photo: /img/beach-undeveloped-pg-header.jpg
 seo:
   title: ''
