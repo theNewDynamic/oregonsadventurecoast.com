@@ -26,7 +26,7 @@ date: '2019-02-10T22:01:16.000+00:00'
 
 #### The annual **Blackberry Arts Festival** celebrates the delicious blackberry!
 
-Blackberry arts, food, and drink are the fare at this popular event in downtown Coos Bay. Featuring live music with the **Blackberry Jam** all weekend long!
+Blackberry arts, food, and drink are the fare at this popular event in downtown Coos Bay. Featuring live music with the **Blackberry Jam** all weekend long! New this year, **[The Blackberry Bar](https://www.facebook.com/events/3372985676284897)** at 7 Devils Brewery!
 
 {{< spacer 50 >}}
 
@@ -45,6 +45,14 @@ The **Blackberry Arts Festival** is a juried arts and craft festival that has be
 **This is a FREE event with activities centered on Central Avenue in downtown Coos Bay.** The festival is scheduled for August 26th and 27th this year.
 
 {{< spacer 50 >}}
+
+![](/img/blackberry-bar.jpeg)
+
+[7 Devils Brewing Co](https://www.facebook.com/7DevilsBrewingCo) is the unofficial beer garden of **The Blackberry Arts Festival**! They will have live music and BBQ in the evenings, and Blackberry drink and dessert specials all weekend!
+
+Concerts:<br>FRI @ 7pm: The Brothers Reed<br>SAT @ 7pm: Ocean Blvd.<br>​​​​
+
+{{< spacer "25" >}}
 
 *![Come listen to great music at the Blackberry Arts Festival!](/img/bba-jam.jpg "Blackberry Jam")*
 
