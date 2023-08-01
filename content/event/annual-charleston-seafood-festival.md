@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: Annual Charleston Seafood Festival - CANCELLED
-startdate: '2023-08-11'
-enddate: '2023-08-13'
+title: 'Annual Charleston Seafood Festival '
+startdate: '2022-08-11'
+enddate: '2022-08-13'
 address:
   city: Charleston
   state: OR
