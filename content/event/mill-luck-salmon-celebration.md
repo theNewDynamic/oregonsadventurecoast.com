@@ -1,14 +1,6 @@
 ---
+_schema: default
 title: Annual Mill-Luck Salmon Celebration
-photo: "/img/salmon-image-02.jpg"
-largeboxphoto: "/img/salmon-celebration-large.jpg"
-mediumboxphoto: "/img/salmon-celebration-medium.jpg"
-smallboxphoto: "/img/salmon-celebration-small.jpg"
-desktoptitle: Mill-Luck Salmon Celebration
-mobiletitle: Salmon Celebration
-hovertitle: Salmon Celebration
-hoverdescription: Salmon Celebration is a celebration of Native American and Coquille
-  Tribal culture.
 startdate: '2023-09-09'
 enddate: '2023-09-10'
 address:
@@ -17,10 +9,19 @@ address:
   street: 3201 Tremont Ave.
   street2: ''
   zip: 97459
-phone_toll_free: 541-756-8800
 phone_local: 800-953-4800
-website: https://www.themillcasino.com/
-
+phone_toll_free: 541-756-8800
+website: https://www.themillcasino.com/event/18th-annual-mill-luck-salmon-celebration/
+desktoptitle: Mill-Luck Salmon Celebration
+mobiletitle: Salmon Celebration
+hovertitle: Salmon Celebration
+hoverdescription: >-
+  Salmon Celebration is a celebration of Native American and Coquille Tribal
+  culture.
+photo: /img/salmon-image-02.jpg
+largeboxphoto: /img/salmon-celebration-large.jpg
+mediumboxphoto: /img/salmon-celebration-medium.jpg
+smallboxphoto: /img/salmon-celebration-small.jpg
 ---
 ![Mill Luck Salmon Celebration Man With Salmon](/img/salmon-celebration-medium.jpg)
 
@@ -30,22 +31,30 @@ website: https://www.themillcasino.com/
 
 #### **The Traditional Salmon Bake meal will be served**
 
-**Saturday, Sept 9 | 11:00 AM – 5:00 PM  
-Sunday, Sept 10 | 11:00 AM – 4:00 PM**
+**Saturday, Sept 9 \| 11:00 AM – 5:00 PM<br>Sunday, Sept 10 \| 11:00 AM – 4:00 PM**
 
 Presale tickets will go on sale in August. Tickets will be available in Ko-Kwel Gifts and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event.
 
-#### **Meal Prices: Coming Soon**
+#### **Meal Prices:&nbsp;**
 
-The meal includes Salmon, brown rice with cranberries, and traditional Fry Bread with Huckleberry butter.
+**Pricing:**<br>**Pre-sale meal tickets are $35 for adults and $30 for children ages 12 and under**. Tickets are available in Ko-Kwel Gifts beginning August 25 and include a commemorative Salmon Celebration tee shirt (while supplies last).
+
+**Guests may also purchase their meal at the meal tent.** The price for the meal without the T-shirt is $27.00 for adults and $20.00 for children
+
+**Menu:**<br>Traditional Pit Salmon<br>Brown Rice Prepared with Cranberries and Grilled Hazelnuts<br>Traditional Fry Bread served with Huckleberry Jam & Butter<br>Assorted Sodas & Freshly Brewed Coffee
+
+*\*Elders of the Coquille Tribe will also have a booth selling fry bread for $5 and fry bread tacos for $10 to raise money for their Elders programs\**
 
 {{< spacer 25 >}}
 
 **This fun-filled weekend is full of family events and entertainment.**
 
 * Tribal canoe races
+
 * Outdoor tribal vendors and crafts (demonstrations and hands-on participation)
+
 * Traditional salmon bake meal
+
 * Live entertainment with authentic Native American dancing, drumming & flute playing
 
   {{< spacer 25 >}}
@@ -54,4 +63,6 @@ The Festival is located in the south parking lot outside **The Mill Casino • H
 
 {{< spacer 25 >}}
 
-#### **EVENT SCHEDULE: Coming Soon**
+#### **EVENT SCHEDULE:**
+
+**Saturday, September 9, 2023**\: <br>The Salmon Bake Meal will be served from 11:00 AM – 5:00 PM <br>Vendor Booths, free entertainment and hands-on cultural demonstrations will be open from 10:00 AM – 5:00 PM<br><br>**Sunday, September 10, 2023**\: <br>The Salmon Bake Meal will be served from 11:00 AM – 4:00 PM <br>Vendor Booths, free entertainment and hands-on cultural demonstrations will be open from 11:00 AM – 4:00 PM<br>
