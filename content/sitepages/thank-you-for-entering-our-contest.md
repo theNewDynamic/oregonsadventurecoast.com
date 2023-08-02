@@ -17,10 +17,22 @@ seo:
 
 Ebis dolupta temost veritiissint quis ius essinto rporiam endipsam, sunt estrum inulpa quam, vid eium animperro volestor rem aut ernatur ibuscimodit dolesed moluptat eos si te nessi nonsectes quodiate qui dolorehent et volenda ercidion pore res ulparum sitaspis et ulparciment doluptatque disit quidis eratus as saperum eos etur aut officiate volecati dolorunt, solluptatum quas cus.
 
-### Hiking, ATV'ing & Fishing Adventures\\
+### Hiking, ATV'ing & Fishing Adventures
 
 {{< spacer "50" >}}
 
 {{< youtube id="4HPADFIXsNo" >}}
 
 {{< spacer "50" >}}
+
+{{< youtube id="x6Qro7ktN-w" >}}
+
+{{< spacer "50" >}}
+
+{{< youtube id="aZcOWSDfTQY" >}}
+
+### Don't Miss our Other Amazing ???XXXXX
+
+{{< spacer "50" >}}
+
+{{< youtube id="yOppGamqU4Q" >}}
