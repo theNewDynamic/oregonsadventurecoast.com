@@ -25,7 +25,7 @@ smallboxphoto: /img/salmon-celebration-small.jpg
 ---
 ![Mill Luck Salmon Celebration Man With Salmon](/img/salmon-celebration-medium.jpg)
 
-**The Annual Mill-Luck Salmon Celebration** is a tribute to Native American and Coquille Tribal culture. Don't miss this OUTDOOR FESTIVAL celebrating Native American and Coquille Tribal Culture.
+**The Annual Mill-Luck Salmon Celebration** is a tribute to Native American and Coquille Tribal culture. Don't miss this FREE OUTDOOR FESTIVAL celebrating Native American and Coquille Tribal Culture.
 
 {{< spacer 25 >}}
 
@@ -65,4 +65,4 @@ The Festival is located in the south parking lot outside **The Mill Casino • H
 
 #### **EVENT SCHEDULE:**
 
-**Saturday, September 9, 2023**\: <br>The Salmon Bake Meal will be served from 11:00 AM – 5:00 PM <br>Vendor Booths, free entertainment and hands-on cultural demonstrations will be open from 10:00 AM – 5:00 PM<br><br>**Sunday, September 10, 2023**\: <br>The Salmon Bake Meal will be served from 11:00 AM – 4:00 PM <br>Vendor Booths, free entertainment and hands-on cultural demonstrations will be open from 11:00 AM – 4:00 PM<br>
+**Saturday, September 9, 2023**\:<br>The Salmon Bake Meal will be served from 11:00 AM – 5:00 PM<br>Vendor Booths, free entertainment and hands-on cultural demonstrations will be open from 10:00 AM – 5:00 PM<br><br>**Sunday, September 10, 2023**\:<br>The Salmon Bake Meal will be served from 11:00 AM – 4:00 PM<br>Vendor Booths, free entertainment and hands-on cultural demonstrations will be open from 11:00 AM – 4:00 PM
