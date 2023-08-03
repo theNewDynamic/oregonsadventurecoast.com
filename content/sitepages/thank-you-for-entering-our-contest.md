@@ -19,37 +19,23 @@ Ebis dolupta temost veritiissint quis ius essinto rporiam endipsam, sunt estrum 
 
 ### Hiking, ATV'ing, Fishing & Mountain Biking Adventures
 
-{{< spacer "30" >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">30</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
-
+{{< spacer "30" >}}<img width="15" title="Click and drag to move" height="15" style="color: var(--color-carbon); font-family: var(--font-family); letter-spacing: 0.01rem;" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
 
 {{< youtube id="4HPADFIXsNo" >}}
 
 {{< spacer "50" >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
 
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
-
+<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
 
 {{< youtube id="x6Qro7ktN-w" >}}
 
-{{< spacer "50" >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
-
+{{< spacer "50" >}}<img width="15" title="Click and drag to move" height="15" style="color: var(--color-carbon); font-family: var(--font-family); letter-spacing: 0.01rem;" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
 
 {{< youtube id="aZcOWSDfTQY" >}}
 
-{{< spacer "50" >}}&nbsp;
+{{< spacer "50" >}}
 
 {{< youtube id="Z-83k7KWCEM" >}}
 
@@ -57,12 +43,10 @@ Ebis dolupta temost veritiissint quis ius essinto rporiam endipsam, sunt estrum 
 
 {{< spacer "50" >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
 
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
-
+<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
 
 {{< youtube id="yOppGamqU4Q" >}}
 
-{{< spacer "50" >}}&nbsp;
+{{< spacer "50" >}}
