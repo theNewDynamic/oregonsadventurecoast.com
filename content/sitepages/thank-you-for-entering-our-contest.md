@@ -15,7 +15,7 @@ seo:
 
 ### Now Check Out Oregon's Adventure Coast in Detail!
 
-While you’re here, we invite you to explore our website. You will find many things to do and see in our magical part of the southern Oregon coast. With our year-round temperate climate and diverse terrain every season brings adventures like no other destination. From the largest coastal sand dunes, to fresh, brackish and deep-sea fishing, a world-recognized storm watching location, and miles of hiking, mountain biking and running, we have it all. Start on our Home Page or Adventures page (ADD LINK) and explore from there.
+While you’re here, we invite you to explore our website. You will find many things to do and see in our magical part of the southern Oregon coast. With our year-round temperate climate and diverse terrain every season brings adventures like no other destination. From the largest coastal sand dunes, to fresh, brackish and deep-sea fishing, a world-recognized storm watching location, and miles of hiking, mountain biking and running, we have it all. Start on our [Home page](/) or [Adventures page](/adventures) and explore from there.
 
 ### Here are some of our videos to really get familiar with Oregon's Adventure Coast
 
