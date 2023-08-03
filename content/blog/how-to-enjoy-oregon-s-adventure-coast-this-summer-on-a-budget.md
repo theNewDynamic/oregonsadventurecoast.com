@@ -31,6 +31,13 @@ tags:
 categories:
   - Itineraries
 warning: false
+warning_copy: >-
+  *\*\*Please note: all scheduled events mentioned in this blog post are subject
+  to change without notice. Please call ahead or visit our* [*<u>Events
+  Page</u>*](https://www.oregonsadventurecoast.com/events/?utm_source=events-march-2022&amp;utm_medium=mailchimp&amp;utm_campaign=+cbnb-newsletter)
+  *and*
+  [*<u>Calendar</u>*](https://www.oregonsadventurecoast.com/calendar/?utm_source=events-march-2022&amp;utm_medium=mailchimp&amp;utm_campaign=+cbnb-newsletter)
+  *for the full list\*\**
 ---
 Even though we’re technically more than halfway through the summer season, there is still much to experience this summer on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. The best part is you won’t need a lot of money to enjoy many of these experiences - in fact, there’s a lot of fun, free stuff to do in our region! From free festivals and outdoor activities to free admission to local museums, there is a budget-friendly activity for everyone to enjoy on Oregon’s Adventure Coast. Here are tips to get the most out of the Oregon Coast this summer without breaking the bank:&nbsp;
 
