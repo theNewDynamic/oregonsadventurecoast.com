@@ -11,10 +11,28 @@ seo:
   imgalt: ''
   image: ''
 ---
-![](/img/thankyou-graphic-text-red.jpg)
+![](/img/ww-catc-giveaway-thankyou-subheader-695x322.jpg)
 
-### [Visit our home page](/)
+### While you're here - take a look around to see all there is to do in our area!
 
-Explore all the adventures our area has to offer!
+Ebis dolupta temost veritiissint quis ius essinto rporiam endipsam, sunt estrum inulpa quam, vid eium animperro volestor rem aut ernatur ibuscimodit dolesed moluptat eos si te nessi nonsectes quodiate qui dolorehent et volenda ercidion pore res ulparum sitaspis et ulparciment doluptatque disit quidis eratus as saperum eos etur aut officiate volecati dolorunt, solluptatum quas cus.
 
-{{< spacer "100" >}}
+### Hiking, ATV'ing & Fishing Adventures
+
+{{< spacer "50" >}}
+
+{{< youtube id="4HPADFIXsNo" >}}
+
+{{< spacer "50" >}}
+
+{{< youtube id="x6Qro7ktN-w" >}}
+
+{{< spacer "50" >}}
+
+{{< youtube id="aZcOWSDfTQY" >}}
+
+### Don't Miss our Other Amazing ???XXXXX
+
+{{< spacer "50" >}}
+
+{{< youtube id="yOppGamqU4Q" >}}
