@@ -22,7 +22,7 @@ largeboxphoto: /img/runninginforest-1024x395.jpg
 mediumboxphoto: /img/runninginforest-667x355.jpg
 smallboxphoto: /img/runninginforest-340x214.jpg
 ---
-![](/img/runninginforest-667x355.jpg)
+![](/img/runninginforest-667x355.jpg)![Take a run through the coastal forest of Whiskey Run](/img/runninginforest-667x355-1.jpg "Take a run through the coastal forest of Whiskey Run")
 
 ### RUN WHISKEY RUN!!
 
@@ -52,27 +52,17 @@ Our chosen section of Whiskey Run is shaded and sheltered, which means these tra
 
 ***{{< spacer "25" >}}***
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong><em>No preview available</em></strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong><em>Spacer</em></strong></p><p class="c-card__subtext"><strong><em>25 </em></strong></p></div></div></div></div>
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong><em>No preview available</em></strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong><em>Spacer</em></strong></p><p class="c-card__subtext"><strong><em>25 </em></strong></p></div></div></div></div>
 
-***<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />***
+***<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />***
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong><em>No preview available</em></strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong><em>Spacer</em></strong></p><p class="c-card__subtext"><strong><em>25 </em></strong></p></div></div></div></div>
 
+***<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />***
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong><em>No preview available</em></strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong><em>Spacer</em></strong></p><p class="c-card__subtext"><strong><em>25 </em></strong></p></div></div></div></div>
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong><em>No preview available</em></strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong><em>Spacer</em></strong></p><p class="c-card__subtext"><strong><em>25 </em></strong></p></div></div></div></div>
 
-***<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />***
-
-
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong><em>No preview available</em></strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong><em>Spacer</em></strong></p><p class="c-card__subtext"><strong><em>25 </em></strong></p></div></div></div></div>
-
-***<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />***
-
-
-
-
-
-
+***<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />***
 
 #### PRICES
 
@@ -84,6 +74,38 @@ Students: $5.00. &nbsp;*Use the code Student2022 to register. &nbsp;To avoid cre
 
 #### <a target="_blank" rel="noopener" href="https://runsignup.com/Race/OR/Bandon/RunWhiskeyRun">SIGN UP HERE!!!</a>
 
-{{< spacer "25" >}}<br>START TIMES<br>
+{{< spacer "25" >}}
 
-9am (10 Mile Double Shot)<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;9:30am (5 Mile Whiskey Ginger)<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;9:45 (1.5 Mile Shirley Temple)<br>Course support ends at 12 PM.<br>Day of race registration and packet pick up begins at 8:00 at Whiskey Run Trailhead Directions to Trailhead &nbsp;&nbsp;<br>Runners should assemble at the starting line no later than 10 minutes before start time for instructions from the race director.&nbsp;<br>Come dressed to run, there are no changing areas. &nbsp;There are two fine vault toilets available.<br>INFORMATION ABOUT THE AREA<br>Whiskey Run is located on Oregon’s Adventure Coast. Our costal community offers endless opportunities for beach combing, fishing, crabbing, paddling, hiking, and golfing. And don’t forget about the mountain biking… bring your bike and explore the 30+ miles of premier single track at Whiskey Run.<br>Come see what attracts so many runners to Oregon’s Adventure Coast.
+#### START TIMES
+
+* 9am (10 Mile Double Shot)
+* 9:30am (5 Mile Whiskey Ginger)
+* 9:45 (1.5 Mile Shirley Temple)
+
+***Course support ends at 12 PM.***
+
+**Day of race registration and packet pick up begins at 8:00 at Whiskey Run Trailhead**
+
+**<a target="_blank" rel="noopener" href="https://www.google.com/maps/place/Whiskey+Run+Mountain+Biking+Trail+Parking/@43.2189727,-124.3422167,17z/data=!3m1!4b1!4m6!3m5!1s0x54c4818dc596de61:0xe64719ece591060f!8m2!3d43.2189727!4d-124.3422167!16s%2Fg%2F11f57g_cf4?hl=en-US&amp;entry=ttu">Directions to Trailhead</a> &nbsp;&nbsp;**
+
+**IMPORTANT INFO:**
+
+* Runners should assemble at the starting line no later than 10 minutes before start time for instructions from the race director.
+* Come dressed to run, there are no changing areas. &nbsp;
+* There are two fine vault toilets available.
+
+{{< spacer "15" >}}
+
+#### POST RUN PARTY AT OCTOBERFISH!
+
+Join the fun at **Charleston's Annual <a target="_blank" rel="noopener" href="https://www.oregonsadventurecoast.com/event/octoberfish/">OCTOBERFISH</a>,** the official after race event location in the quaint fishing village of Charleston, OR!
+
+{{< spacer "25" >}}
+
+#### TRASH RUN, Sunday, October 8th
+
+Stay overnight and join the **Clean Up Fun Run** through the forested areas and beaches of Charleston! This 3-5 mile fun run begins at the <a target="_blank" rel="noopener" href="https://cmlc.uoregon.edu/">Charleston Marine Life Center</a> in Charleston at 10am.&nbsp;
+
+{{< spacer "25" >}}
+
+**INFORMATION ABOUT THE AREA**<br>Whiskey Run is located on Oregon’s Adventure Coast. Our costal community offers endless opportunities for beach combing, fishing, crabbing, paddling, hiking, and golfing. Check out our many <a target="_blank" rel="noopener" href="https://www.oregonsadventurecoast.com/adventures/">Adventures</a>! And don’t forget about the mountain biking… bring your bike and explore the 30+ miles of premier single track at Whiskey Run. Come see what attracts so many runners to Oregon’s Adventure Coast.
