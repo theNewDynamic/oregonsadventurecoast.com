@@ -52,18 +52,6 @@ Our chosen section of Whiskey Run is shaded and sheltered, which means these tra
 
 ***{{< spacer "25" >}}***
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong><em>No preview available</em></strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong><em>Spacer</em></strong></p><p class="c-card__subtext"><strong><em>25 </em></strong></p></div></div></div></div>
-
-***<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />***
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong><em>No preview available</em></strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong><em>Spacer</em></strong></p><p class="c-card__subtext"><strong><em>25 </em></strong></p></div></div></div></div>
-
-***<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />***
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong><em>No preview available</em></strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong><em>Spacer</em></strong></p><p class="c-card__subtext"><strong><em>25 </em></strong></p></div></div></div></div>
-
-***<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />***
-
 #### PRICES
 
 **<a target="_blank" rel="noopener" href="https://runsignup.com/Race/OR/Bandon/RunWhiskeyRun">Online</a>**<br>$15 Club member (your discount will appear at check-out), Non-member $25. &nbsp; &nbsp;
