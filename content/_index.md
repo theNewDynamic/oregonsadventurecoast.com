@@ -27,6 +27,12 @@ slideshow:
   - photo: /img/summer-getaway-biker-home-slider.jpg
     url: /cycling
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
+home_splashes:
+  - url: /event/2023-annular-solar-eclipse
+    img: /img/eclipse-splash-08-2023.jpg
+    alt: >-
+      2023 Annular Solar Eclipse First Landfall on the Beaches of Oregon's
+      Adventure Coast
 masonry1:
   desktopphoto: /img/store-image-desktop.jpg
   desktoptitle: Store
