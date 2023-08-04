@@ -50,19 +50,7 @@ Our chosen section of Whiskey Run is shaded and sheltered, which means these tra
 
 *Please note that all courses are 100% trail, so not stroller friendly. &nbsp;These are single-track trails and a dog can take you out. &nbsp;We love dogs, but please leave your dog at home!*
 
-***{{< spacer "25" >}}***
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong><em>No preview available</em></strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong><em>Spacer</em></strong></p><p class="c-card__subtext"><strong><em>25 </em></strong></p></div></div></div></div>
-
-***<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />***
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong><em>No preview available</em></strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong><em>Spacer</em></strong></p><p class="c-card__subtext"><strong><em>25 </em></strong></p></div></div></div></div>
-
-***<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />***
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong><em>No preview available</em></strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><strong><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></strong></div><div class="c-card__heading-content"><p class="c-card__text"><strong><em>Spacer</em></strong></p><p class="c-card__subtext"><strong><em>25 </em></strong></p></div></div></div></div>
-
-***<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />***
+{{< spacer "25" >}}
 
 #### PRICES
 
