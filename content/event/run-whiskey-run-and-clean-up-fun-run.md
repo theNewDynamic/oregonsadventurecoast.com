@@ -22,7 +22,7 @@ largeboxphoto: /img/runninginforest-1024x395.jpg
 mediumboxphoto: /img/runninginforest-667x355.jpg
 smallboxphoto: /img/runninginforest-340x214.jpg
 ---
-![](/img/runninginforest-667x355.jpg)![Take a run through the coastal forest of Whiskey Run](/img/runninginforest-667x355-1.jpg "Take a run through the coastal forest of Whiskey Run")
+![](/img/runninginforest-667x355.jpg)
 
 ### RUN WHISKEY RUN!!
 
