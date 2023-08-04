@@ -50,7 +50,7 @@ Our chosen section of Whiskey Run is shaded and sheltered, which means these tra
 
 *Please note that all courses are 100% trail, so not stroller friendly. &nbsp;These are single-track trails and a dog can take you out. &nbsp;We love dogs, but please leave your dog at home!*
 
-***{{< spacer "25" >}}***
+{{< spacer "25" >}}
 
 #### PRICES
 
