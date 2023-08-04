@@ -42,9 +42,9 @@ Even though we’re technically more than halfway through the summer season, the
 
 *\*\*Please note: all scheduled events mentioned in this blog post are subject to change without notice. Please call ahead or visit our* [*<u>Events Page</u>*](https://www.oregonsadventurecoast.com/events/?utm_source=events-march-2022&amp;utm_medium=mailchimp&amp;utm_campaign=+cbnb-newsletter) *and* [*<u>Calendar</u>*](https://www.oregonsadventurecoast.com/calendar/?utm_source=events-march-2022&amp;utm_medium=mailchimp&amp;utm_campaign=+cbnb-newsletter) *for the full list\*\**
 
-*![](/img/oregon-s-adventure-coast-on-a-budget-695-x-322-blog.jpg)*
-
 ## \#1- Take Advantage of FREE Concerts
+
+![](/img/oregon-coast-free-concerts-blog0695x322.jpg)
 
 The sound of music is alive and well on Oregon’s Adventure Coast, and live music abounds all summer long! Here’s a quick round-up of just some of the FREE concerts to be on the lookout for this summer:
 
@@ -69,21 +69,31 @@ The sound of music is alive and well on Oregon’s Adventure Coast, and live mus
 
 ## \#2- Go on a Downtown Coos Bay Wine Walk (First Friday of Each Month)
 
+![](/img/wine-walk-blog-695x322.jpeg)
+
 Did you know you can taste wine and explore various downtown businesses on the first Friday of each month (except for January) for $10? Join the [<u>Coos Bay - North Bend Rotary</u>](https://www.facebook.com/cbnbrotary?__cft__%5B0%5D=AZVI_bu8espawVbtAs_qW3xHXN0bjF7hbgL4esqsQ2b9e8ft0jksxihlF9ZIDWC2wn7NGCb90rmCbGSpCa-LRKJwvf9nVVETl6QxkrNv7pUs6Hv6k4TVVBLIOu6UF4Y-YaRDDDFfUNTgBZ1M3ybbDI_PQQ-Ah1AjnZeFVpFdUJ0hs5nzOhSq2cd7F6MvOFNkzkM&amp;__tn__=-%5DK-R) for the monthly [<u>Coos Bay Downtown Wine Walk</u>](https://www.facebook.com/CoosBayWineWalk/)! The fun begins at 5:00 p.m. at either the [<u>Coos Bay Visitor Center</u>](https://www.google.com/maps/dir/43.3680649,-124.2127962/coos+bay+visitor+center/@43.36798,-124.2151243,17z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x54c38681fcb00001:0xb05d0a4fb88fd58!2m2!1d-124.212966!2d43.3680266?entry=ttu) or [<u>Checkerberry’s Flowers,</u>](https://www.google.com/maps/dir/43.3680649,-124.2127962/Checkerberry's+Flowers+%26+Gifts,+North+Bayshore+Drive,+Coos+Bay,+OR/@43.3720212,-124.2186594,16z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x54c3842a02efe5e9:0xefe68b94853711f1!2m2!1d-124.2148846!2d43.3768481?entry=ttu) where participants will pick up a map & wine glass with a $10 donation (goes towards a different local non-profit each month)! The next Downtown Wine Walk will take place on Friday, August 4, 2023, and again on September 1, 2023.&nbsp;
 
 ## \#3- Explore South Slough National Estuarine Research Reserve (South Slough NERR)
+
+![](/img/South Slough Hike blog-695x322.jpg)
 
 There is no charge to explore the [<u>South Slough NERR</u>](https://coast.noaa.gov/nerrs/reserves/south-slough.html), a beautiful 5,000 acre natural area located in the Coos estuary on the south coast of Oregon. The center encompasses open water channels, tidal and freshwater wetlands, riparian areas, and forested uplands. The Interpretive Center is open Tuesday through Saturday from 10 am until 4:30 pm (closed on State holidays). Trails are open daily from dawn to dusk. Many of their educational and outdoor programs are free or offered at a low cost to cover materials. South Slough NERR is located 4 miles south of Charleston on Seven Devils Road.
 
 ## \#4- Try $5 Yoga at the Coos Art Museum
 
+![](/img/oregon-coast-yoga-blog0695x322.jpg)
+
 Pack your yoga mat and head to a $5 yoga class every Wednesday from 9:30am-10:30am at the [<u>Coos Art Museum</u>](https://www.coosart.org/) (CAM), the cornerstone of visual arts on Oregon's Southern Coast! For an additional admission fee of $5 or less, visitors can explore [<u>current exhibits</u>](https://www.coosart.org/exhibitions-events/) and a [<u>rare Steve Prefontaine collection</u>](https://www.coosart.org/prefontaine-gallery/) (just $2 for students or seniors). Admission is always free to Members of CAM. FREE - Second Sunday Group tours are available on request.&nbsp;
 
 ## \#5- Visit the Coos Bay Downtown Farmers Market
 
+![](/img/farmers-mkt-695x322.jpg)
+
 It’s completely FREE to browse the Coos Bay Farmers Market every Wednesday in Downtown Coos Bay from 9:00 a.m. - 2:00 p.m. You'll also find fresh, locally grown produce, eggs, honey, meat, baked goods, soaps, candles, homemade jams and jellies, and unique creations handcrafted by local artisans from nearly 90 vendors for a reasonable price. The CBDA Farmers Market is located on Central Avenue between Highway 101 South and 4th Street in downtown Coos Bay through October from 9 a.m. until 2 p.m. Visit the market's [<u>Facebook page</u>](https://www.facebook.com/pg/CoosBayFarmersMarket) for more information.
 
 ## \#6- Attend a FREE Outdoor Summer Festival
+
+![](/img/oregon-s-adventure-coast-on-a-budget-695-x-322-blog.jpg)
 
 Some of our favorite annual summer festivals are just around the corner! There is no cost to attend these (visitors will have to pay for food, beverages and merchandise) and they frequently feature free demonstrations and live entertainment. Here’s a list of some of the festivals coming up!&nbsp;
 
@@ -95,21 +105,27 @@ Some of our favorite annual summer festivals are just around the corner! There i
 
 ## \#7- Explore Charleston
 
+![](/img/12-27-17-seven-things-in-charleston.jpg)
+
 It won’t cost a dime to explore the scenery, boats, unique merchants, fishing markets located in the [<u>Charleston Marina</u>](https://www.portofcoosbay.com/marinahome/). The friendly residents and merchants in this distinctive fishing village will do everything possible to make your visit memorable and fun! Sometimes, you can even catch a few of our local resident sea lions relaxing on the docks or going for a morning swim. While you’re there, visit the [<u>Charleston Marine Life Center,</u>](https://cmlc.uoregon.edu/) part of the [<u>OIMB - The Oregon Institute of Marine Biology</u>](https://oimb.uoregon.edu/), located in the marina, overlooking the water. Attractions include an aquarium highlighting different coastal ecosystems, a tide pool touch tank, whale and sea lion skeletons, and underwater video from deep reefs and undersea volcanoes. Admission is FREE for Children/Students, $5 for Adults, and $4 for Seniors/AAA.&nbsp;
 
 ## \#8 - Learn About Local Culture & History at Coos History Museum&nbsp;
+
+![](/img/Coos History - Mom Daughter 695x322.jpg)
 
 The[<u> Coos History Museum</u>](https://cooshistory.org/), located on the waterfront, offers Free Family Activities on the Second Saturday of every month! Join the CHM Explorer’s Club with children’s activities in the Sprague Gallery from 11 am to 2 pm. Regular museum admission ranges from just $3-$7, and it is always free to members, active-duty service, and children under five. &nbsp;&nbsp;
 
 ## \#9- Take the Family Bowling
 
+![](/img/Collage-Two-Images-Bowling.jpg)
+
 Did you know that you can bowl for 1/2 price every Sunday from 8:30 PM - 10 PM at [<u>North Bend Lanes</u>](https://northbendlanes.com/)? With prices like that, you can afford to treat the whole family to dinner too!&nbsp;
 
 ## \#10 - Visit a State Park&nbsp;
 
-For just $5 per car, you can explore [<u>Shore Acres State Park</u>](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/), the crown jewel of the Oregon Coast. Enjoy a stroll through the gardens and amazing views of the ocean, and explore a “secret beach” and a secluded ocean cove on Simpson Beach, just below Shore Acres State Park. Watching the seals and sea lions bark and bask in the sun on [<u>Simpson Reef and Shell Island</u>](https://shoreacres.net/about-us/simpson-reef-and-shell-island/), located just a couple of miles south of Shore Acres State Park, is considered by many to be the greatest show on earth - and they won’t charge you a dime!&nbsp; You can also check out [<u>Cape Arago State Park </u>](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=66)and [<u>Sunset Bay State Park</u>](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=70). [<u>Download our Charleston to Bandon Scenic Tour Driving Map</u>](https://www.oregonsadventurecoast.com/img/charleston-to-bandon-map.pdf) to help you on your route and choose your own experience. You may also [<u>download our PDF Guide</u>](https://www.oregonsadventurecoast.com/img/cape-arago-loop-itinerary.pdf) for the Cape Arago Beach Loop.&nbsp;
+![](/img/capearago.jpg)
 
-![](/img/oregon-s-adventure-coast-on-a-budget-695-x-322-blog-1.jpg)
+For just $5 per car, you can explore [<u>Shore Acres State Park</u>](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/), the crown jewel of the Oregon Coast. Enjoy a stroll through the gardens and amazing views of the ocean, and explore a “secret beach” and a secluded ocean cove on Simpson Beach, just below Shore Acres State Park. Watching the seals and sea lions bark and bask in the sun on [<u>Simpson Reef and Shell Island</u>](https://shoreacres.net/about-us/simpson-reef-and-shell-island/), located just a couple of miles south of Shore Acres State Park, is considered by many to be the greatest show on earth - and they won’t charge you a dime!&nbsp; You can also check out [<u>Cape Arago State Park </u>](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=66)and [<u>Sunset Bay State Park</u>](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=70). [<u>Download our Charleston to Bandon Scenic Tour Driving Map</u>](https://www.oregonsadventurecoast.com/img/charleston-to-bandon-map.pdf) to help you on your route and choose your own experience. You may also [<u>download our PDF Guide</u>](https://www.oregonsadventurecoast.com/img/cape-arago-loop-itinerary.pdf) for the Cape Arago Beach Loop.&nbsp;
 
 ## Other Budget-Friendly Trip Ideas on Oregon’s Adventure Coast:&nbsp;
 
