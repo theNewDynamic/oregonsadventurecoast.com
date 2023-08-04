@@ -50,9 +50,9 @@ The sound of music is alive and well on Oregon’s Adventure Coast, and live mus
 
 **Rock the Dock Summer Concert Series 2023 (August 4-25, 2023)**\-The Mill Casino • Hotel & RV Park invites you to “Rock the Dock” with them each Friday night in August! This FREE concert series features some of the top tribute bands from all over the Pacific Northwest. More information: [<u>www.themillcasino.com/entertainment</u>](https://www.themillcasino.com/entertainment/rock-the-dock-free-summer-concert-series/2023-08-04/)**&nbsp;**
 
-<p class="text-right"><strong>Concert Lineup:</strong>&nbsp;</p>
+<p class="text-center"><strong>Concert Lineup:</strong>&nbsp;</p>
 
-<ul><li class="text-right">August 4, 2023 – <a href="https://invincibleseattle.com/?fbclid=IwAR2IPZSA2nXa9SDmJPKlJOzNJ_ZlaQL1hf9C102omAYGbx4_vCObfaVbkmI"><u>Invincible | a Pat Benatar Tribute</u></a></li><li class="text-right">August 11, 2023 – <a href="https://www.pettyfever.com/?fbclid=IwAR3CVgQElcONWF6YTZHJj8KJNqSTDrna7k69tu2UZJuMIuEY8tEd480lgrU"><u>Petty Fever | a Tom Petty Tribute</u></a></li><li class="text-right">August 18, 2023 – <a href="https://www.kisstributealmosthuman.com/?fbclid=IwAR2PDliA00e-gVkWMEHVB7bCO82GaQL5pc4sHXLY_mVMUYU4wR-ziFW3T5k"><u>Almost Human | a KISS Tribute</u></a></li><li class="text-right">August 25, 2023 – <a href="https://fanhalen.com/?fbclid=IwAR3KyZwm2utuSnhqVYnIALoNQFlXA5H1NGBgfXH87TRICtzR_mJ90LHWN6E"><u>Fan Halen | a Van Halen Tribute</u></a></li></ul>
+<ul><li class="text-center">August 4, 2023 – <a href="https://invincibleseattle.com/?fbclid=IwAR2IPZSA2nXa9SDmJPKlJOzNJ_ZlaQL1hf9C102omAYGbx4_vCObfaVbkmI"><u>Invincible | a Pat Benatar Tribute</u></a></li><li class="text-center">August 11, 2023 – <a href="https://www.pettyfever.com/?fbclid=IwAR3CVgQElcONWF6YTZHJj8KJNqSTDrna7k69tu2UZJuMIuEY8tEd480lgrU"><u>Petty Fever | a Tom Petty Tribute</u></a></li><li class="text-center">August 18, 2023 – <a href="https://www.kisstributealmosthuman.com/?fbclid=IwAR2PDliA00e-gVkWMEHVB7bCO82GaQL5pc4sHXLY_mVMUYU4wR-ziFW3T5k"><u>Almost Human | a KISS Tribute</u></a></li><li class="text-center">August 25, 2023 – <a href="https://fanhalen.com/?fbclid=IwAR3KyZwm2utuSnhqVYnIALoNQFlXA5H1NGBgfXH87TRICtzR_mJ90LHWN6E"><u>Fan Halen | a Van Halen Tribute</u></a></li></ul>
 
 **Music On The Bay - FREE Concert Series (August 10 - September 14, 2023)** \- Enjoy Music On the Bay at Mingus Park Amphitheater. Bring a picnic, dance, and enjoy the music every Thursday evening from August 10 to September 14 at 7 p.m.
 
@@ -65,7 +65,7 @@ The sound of music is alive and well on Oregon’s Adventure Coast, and live mus
 * September 7, 2023 – Chris Pierce Band
 * September 14, 2023 – Never Come Down
 
-\*\*Live Music Wednesdays at Wildflour Public House - \*\*Enjoy live music as you dine and/or enjoy a drink at the Wildflour Public House in North Bend every Wednesday from 6-8pm. Wildflour Public House offers a menu filled with farm-to-fork and ocean-to-table delicacies. During the summer months, the large front window is open for indoor/outdoor dining options. Visit their Facebook page for the schedule of Wednesday night performers: [<u>www.facebook.com/wildflour.pub/</u>](https://www.facebook.com/wildflour.pub/)&nbsp;
+**Live Music Wednesdays at Wildflour Public House** - Enjoy live music as you dine and/or enjoy a drink at the Wildflour Public House in North Bend every Wednesday from 6-8pm. Wildflour Public House offers a menu filled with farm-to-fork and ocean-to-table delicacies. During the summer months, the large front window is open for indoor/outdoor dining options. Visit their Facebook page for the schedule of Wednesday night performers: [<u>www.facebook.com/wildflour.pub/</u>](https://www.facebook.com/wildflour.pub/)&nbsp;
 
 ## \#2- Go on a Downtown Coos Bay Wine Walk (First Friday of Each Month)
 
