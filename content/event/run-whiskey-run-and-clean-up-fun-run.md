@@ -60,7 +60,7 @@ Our chosen section of Whiskey Run is shaded and sheltered, which means these tra
 
 Students: $5.00. &nbsp;*Use the code Student2022 to register. &nbsp;To avoid credit card charges, students will not be charged at on-line registration. &nbsp;Please bring $5 (exact change appreciated) to registration!*&nbsp;
 
-#### <a target="_blank" rel="noopener" href="https://runsignup.com/Race/OR/Bandon/RunWhiskeyRun">SIGN UP HERE!!!</a>
+#### <a class="learn-more-anywhere-btn" target="_blank" rel="noopener" href="https://runsignup.com/Race/OR/Bandon/RunWhiskeyRun">SIGN UP HERE!!!</a>
 
 {{< spacer "25" >}}
 
