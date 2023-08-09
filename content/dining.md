@@ -14,7 +14,7 @@ ctas:
     image: /img/brochure-cover-dining-guide.jpg
     action: Download (PDF)
   - title: Coffee Shops, Bakeries & More Guide
-    url: /img/coffeeshops-bakery-03-23.pdf
+    url: /img/coffeeshops-bakery-08-23.pdf
     image: /img/brochure-cover-bakery-guide.jpg
     action: Download (PDF)
 seo:
