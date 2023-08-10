@@ -23,7 +23,7 @@ warning: false
 
 You might have heard our announcement last spring about **Oregon's Adventure Coast**’s first-ever [<u>"Claw-some" Crab Cake Bake-Off</u>](https://www.oregonsadventurecoast.com/crab-cake-bake-off/). The inaugural cake-baking competition invited amateur and professional bakers to create a crab-inspired cake (bakery cakes, NOT actual crab dishes) for a chance to win a complimentary two-night stay on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, with lodging, activities and some delicious dining options. Not to mention, bragging rights as
 
-Oregon's Adventure Coast's best crab cake baker! Each baker was asked to craft a crab-themed cake to represent \*\*Oregon’s Adventure \*\***Coast: Coos Bay, North Bend, Charleston**, and document the process and the finished product.&nbsp;
+Oregon's Adventure Coast's best crab cake baker! Each baker was asked to craft a crab-themed cake to represent **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston,** and document the process and the finished product.&nbsp;
 
 The response was overwhelming! After dozens of entries featuring incredible and creative cakes, six judges had the nearly impossible task of selecting the winners in three categories: Professional, Amateur Adults, Amateur Kids. Each cake was judged for its creativity, ability to incorporate the theme, crab imagery and coastal style.&nbsp;
 
@@ -55,9 +55,9 @@ Without further adieu, the winning bakers and the names of their crustacean crea
 
 ### **1st Place Winner Amateur Category: Stacey Tigner- *Loy The Crab Feed Cake***
 
-![](/img/first-place-amatuer-cake-bake.jpg)
-
 Stacey shared her experiences with us that inspired this amazing cake: *I'm originally from Eugene and ever since I can remember I would go crabbing with my grandparents up and down the Oregon Coast. I've had crab from all over and you still can't beat the dungeness and this is the best way to enjoy them and what inspired my cake.&nbsp; Newspaper laid out on the table with clarified butter and all you need to do is start cracking!&nbsp; I added the chowder and slaw to round out the coastal meal experience.*
+
+![](/img/first-place-amatuer-cake-bake.jpg)
 
 ### **2nd Place Winner Amateur Category: Jamie Butcher - *Tide Pool Explorers***
 
@@ -75,9 +75,9 @@ Stacey shared her experiences with us that inspired this amazing cake: *I'm orig
 
 ### 1st Place Winner Kids Category: Catherine Reynolds - *Seaside Beach*
 
-![](/img/first-place-amateurs-kids.jpg)
-
 Catherine’s Mom was our 3rd Place Winner in the Professional category! We are pretty sure she will be following in her Mom’s footsteps.
+
+![](/img/first-place-amateurs-kids.jpg)
 
 ### 2nd Place Winner Kids Category: Alyssa Guido - *“C is for Crab”*
 
