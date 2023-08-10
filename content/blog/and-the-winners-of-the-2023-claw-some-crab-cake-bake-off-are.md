@@ -5,7 +5,7 @@ draft: true
 date: 2023-08-09T00:00:00-07:00
 description: >-
   Announcing the Results of the Oregon’s Adventure Coast: Coos Bay, North Bend,
-  Charleston Innaugural Crab Cake Baking Competition!&nbsp;
+  Charleston Innaugural Crab Cake Baking Competition!
 image: /img/crab-cake-bake-off-winner-blog-695x322-jpg.jpg
 tags:
   - '"Claw-some" Crab Cake Bake-Off'
@@ -35,19 +35,17 @@ Without further adieu, the winning bakers and the names of their crustacean crea
 
 \*Amy shared with us the meaning of her cake: *'What the Crab?!' is my quirky interpretation of a crab-themed cake, where a wizened old octopus finds that his dinner, a Dungeness Oregon Coast Crab, has escaped him.* All the elements of this amazing cake were edible.
 
-![](/img/first-place-professionals.jpg)
+![](/img/first-place-professionals-02.jpg)
+
+
 
 ### **2nd Place Winner Professional Bakers Category: Sasha Sterner - *Invasion of the Crabs***
 
 ***![](/img/second-place-professional.jpg)***
 
-
-
 ### **3rd Place Winner Professional Bakers Category: Kaitlyn Barnette - *Long Time, No Sea***
 
 ***![](/img/third-place-professional.jpg)***
-
-
 
 ## {{< spacer "50" >}}
 
@@ -67,8 +65,6 @@ Stacey shared her experiences with us that inspired this amazing cake: *I'm orig
 
 ***![](/img/third-place-amatuer-cake-bake.jpg)***
 
-
-
 ## {{< spacer "50" >}}
 
 ## ![Amateur Bakers Category Kids Header](/img/amateur-header-kids.jpg)
@@ -77,7 +73,9 @@ Stacey shared her experiences with us that inspired this amazing cake: *I'm orig
 
 Catherine’s Mom was our 3rd Place Winner in the Professional category! We are pretty sure she will be following in her Mom’s footsteps.
 
-![](/img/first-place-amateurs-kids.jpg)
+![](/img/first-place-amateurs-kids-02.jpg)
+
+
 
 ### 2nd Place Winner Kids Category: Alyssa Guido - *“C is for Crab”*
 
