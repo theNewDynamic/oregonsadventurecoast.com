@@ -1,4 +1,5 @@
 ---
+_schema: default
 title: 'IN A LANDSCAPE: Classical Music in the Wild'
 startdate: '2023-09-07'
 enddate: '2023-09-08'
@@ -9,7 +10,6 @@ address:
   zip: '97420'
   state: OR
 phone_local: 541-269-0215
-phone_toll_free: ''
 website: https://www.inalandscape.org/
 coordinates:
   lat: ''
@@ -22,20 +22,19 @@ seo:
 desktoptitle: Classical Music in the Wild
 mobiletitle: Classical Music in the Wild
 hovertitle: Classical Music in the Wild
-hoverdescription: Join classical pianist Hunter Noack for a special 3 night concert
-  series at Shore Acres!
-photo: "/img/inalandscape-2048x530.jpg"
-largeboxphoto: "/img/landscape1024x395.jpg"
-mediumboxphoto: "/img/landscape-667x395.jpg"
-smallboxphoto: "/img/ial-joey-hamilton-340x214.jpg"
-aliases: []
-
+hoverdescription: >-
+  Join classical pianist Hunter Noack for a special 3 night concert series at
+  Shore Acres!
+photo: /img/inalandscape-2048x530.jpg
+largeboxphoto: /img/landscape1024x395.jpg
+mediumboxphoto: /img/landscape-667x395.jpg
+smallboxphoto: /img/ial-joey-hamilton-340x214.jpg
 ---
 ### IN A LANDSCAPE: Classical Music in the Wild™
 
 #### AT SHORE ACRES STATE PARK - September 7 & 8 at 6:00pm
 
-**_Tickets on sale now - See links below!_**
+***SOLD OUT***
 
 ###### ![](/img/p1320602.jpg)
 
@@ -61,25 +60,21 @@ Once the grand estate of timber baron Louis J. Simpson, Shore Acres features a *
 
 **Get here early to explore trails beyond the garden** that lead to a secluded ocean cove at Simpson Beach.
 
-{{< spacer 25>}}
+{{< spacer 25 >}}
 
 ###### ![Hunter Noack, classical pianist.](/img/hunter-zach-lewis-667x355.jpg "Photo courtesy of IN A LANDSCAPE. Photo by Zach Lewis")
 
-{{< spacer 25>}}
+{{< spacer 25 >}}
 
 #### TICKET PRICES:
 
 **General Admission Tickets: $40**
 
-__Good Neighbor Tickets: Free **__
+**Good Neighbor Tickets: Free \*\***
 
-_** Thanks to the sponsorship of Oregon Parks & Recreation Department's Park Explorer program, a number of FREE tickets are available at this concert through IN A LANDSCAPE'S Good Neighbor Program*._ [_To see if you qualify, click here._](https://docs.google.com/forms/d/e/1FAIpQLSd0B9Atay9bgSwMOVlcUCNjNVL50_If3mzO9D83GdTTV62IWQ/viewform) _One free Good Neighbor Ticket per order. ID and/or EBT card required at check-in with all Good Neighbor tickets. Click on “Tickets” above for more details._
+*\*\* Thanks to the sponsorship of Oregon Parks & Recreation Department's Park Explorer program, a number of FREE tickets are available at this concert through IN A LANDSCAPE'S Good Neighbor Program\*.* [*To see if you qualify, click here.*](https://docs.google.com/forms/d/e/1FAIpQLSd0B9Atay9bgSwMOVlcUCNjNVL50_If3mzO9D83GdTTV62IWQ/viewform) *One free Good Neighbor Ticket per order. ID and/or EBT card required at check-in with all Good Neighbor tickets. Click on “Tickets” above for more details.*
 
-#### CLICK THE LINKS BELOW TO PURCHASE TICKETS FOR THE SHORE ACRES CONCERTS - _Tickets On Sale NOW!_
-
-[**Thursday, September 7th**](https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-tickets-558063572167?aff=ebdsoporgprofile)
-
-[**Friday, September 8th**]() 
+#### CLICK THE LINKS BELOW TO PURCHASE TICKETS FOR THE SHORE ACRES CONCERTS - *SOLD OUT*
 
 If you need assistance in purchasing tickets, email our ticketing office at [tickets@inalandscape.org](mailto:tickets@inalandscape.org)
 
@@ -99,16 +94,15 @@ No chairs will be provided. We recommend bringing low-back chairs, in considerat
 
 {{< spacer 25 >}}
 
-**_Some photography used in this Event Listing are Courtesty of IN A LANDSCAPE and Credited to: Zach Lewis, Cameron Edens, Ed Schmidt, and Joey Hamilton._**
+***Some photography used in this Event Listing are Courtesty of IN A LANDSCAPE and Credited to: Zach Lewis, Cameron Edens, Ed Schmidt, and Joey Hamilton.***
 
 {{< spacer 50 >}}
 
 #### MORE INFORMATION
 
-**DIRECTIONS/PARKING  
-Shore Acres State Park** sits high on the cliffs overlooking the Pacific Ocean, 13 miles southwest of Coos Bay/North Bend and US Highway 101. Take Cape Arago Highway from Coos Bay, the park is located about 4 miles west of the small fishing village of Charleston.
+**DIRECTIONS/PARKING<br>Shore Acres State Park** sits high on the cliffs overlooking the Pacific Ocean, 13 miles southwest of Coos Bay/North Bend and US Highway 101. Take Cape Arago Highway from Coos Bay, the park is located about 4 miles west of the small fishing village of Charleston.
 
-**_$5.00 per day parking fee at Shore Acres State Park. Cash only, credit and debit cards not accepted. A valid annual State Park Pass or Oregon Coastal Pass will be accepted for parking._**
+***$5.00 per day parking fee at Shore Acres State Park. Cash only, credit and debit cards not accepted. A valid annual State Park Pass or Oregon Coastal Pass will be accepted for parking.***
 
 **ARRIVAL -** We suggest arriving up to 45 minutes prior to concert time in order to park, reach the site, check-in, get your headphones and get cozy before the concert starts.
 
@@ -124,7 +118,7 @@ Shore Acres State Park** sits high on the cliffs overlooking the Pacific Ocean, 
 
 **CELL COVERAGE** - Cell coverage on Oregon's rural roads and in remote concert locations is unpredictable. Please be aware that you may not have a signal in all locations. Please print or download directions before you leave.
 
-**EXTREME WEATHER /CANCELLATION -** This is a rain or shine event. We encourage guests to bring rain protection as needed. In the case of extreme weather or severe smoke, IAL will cancel by 9am the day of the performance and notify all ticketed patrons.
+**EXTREME WEATHER /CANCELLATION -** This is a rain or shine event. We encourage guests to bring rain protection as needed. In the case of extreme weather or severe smoke, IAL will cancel by 9am the day of the performance and notify all ticketed patrons.
 
 **COVID SAFETY -** IN A LANDSCAPE will follow all current local, county, and state protocols.
 
