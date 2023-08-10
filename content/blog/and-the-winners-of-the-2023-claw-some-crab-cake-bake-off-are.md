@@ -21,11 +21,7 @@ warning: false
 ---
 ***Announcing the Results of the Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston Inaugural Crab Cake Baking Competition!***
 
-You might have heard our announcement last spring about **Oregon's Adventure Coast**’s first-ever [<u>"Claw-some" Crab Cake Bake-Off</u>](https://www.oregonsadventurecoast.com/crab-cake-bake-off/). The inaugural cake-baking competition invited amateur and professional bakers to create a crab-inspired cake (bakery cakes, NOT actual crab dishes) for a chance to win a complimentary two-night stay on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, with lodging, activities and some delicious dining options. Not to mention, bragging rights as
-
-Oregon's Adventure Coast's best crab cake baker! Each baker was asked to craft a crab-themed cake to represent **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston,** and document the process and the finished product.&nbsp;
-
-
+You might have heard our announcement last spring about **Oregon's Adventure Coast**’s first-ever [<u>"Claw-some" Crab Cake Bake-Off</u>](https://www.oregonsadventurecoast.com/crab-cake-bake-off/). The inaugural cake-baking competition invited amateur and professional bakers to create a crab-inspired cake (bakery cakes, NOT actual crab dishes) for a chance to win a complimentary two-night stay on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, with lodging, activities and some delicious dining options. Not to mention, bragging rights as Oregon's Adventure Coast's best crab cake baker! Each baker was asked to craft a crab-themed cake to represent **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston,** and document the process and the finished product.&nbsp;
 
 The response was overwhelming! After dozens of entries featuring incredible and creative cakes, six judges had the nearly impossible task of selecting the winners in three categories: Professional, Amateur Adults, Amateur Kids. Each cake was judged for its creativity, ability to incorporate the theme, crab imagery and coastal style.&nbsp;
 
@@ -89,7 +85,7 @@ Second & Third Place winners in each category received a goodie basket of Oregon
 
 We want to thank everyone who entered our first annual **"Claw-some" Crab Cake Bake-Off** - the creativity and the craftsmanship we saw from these bakers truly inspired us. If you were unable to enter this year’s contest, do not worry! The response was so positive, we’re confident the Claw-Some Crab Cake Bake-Off will be back and even better next year! Be sure to follow us on social media and keep an eye on our blog for announcements!&nbsp;
 
-### **Lorem Ipsum Dolor Sit Amet Morey!**
+### **Get a load of some of the other incredible entries!**
 
 **![](/img/extra-entries-amateurs-01.jpg)**
 
