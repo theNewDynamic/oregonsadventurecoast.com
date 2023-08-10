@@ -33,15 +33,23 @@ Without further adieu, the winning bakers and the names of their crustacean crea
 
 ### **1st Place Winner Professional Bakers Category: Amy Bennette - *What the Crab?!***
 
-![](/img/amy-bennette-what-the-crab.jpg)\*Amy shared with us the meaning of her cake: *'What the Crab?!' is my quirky interpretation of a crab-themed cake, where a wizened old octopus finds that his dinner, a Dungeness Oregon Coast Crab, has escaped him.* All the elements of this amazing cake were edible.
+\*Amy shared with us the meaning of her cake: *'What the Crab?!' is my quirky interpretation of a crab-themed cake, where a wizened old octopus finds that his dinner, a Dungeness Oregon Coast Crab, has escaped him.* All the elements of this amazing cake were edible.
+
+![](/img/first-place-professionals.jpg)
 
 ### **2nd Place Winner Professional Bakers Category: Sasha Sterner - *Invasion of the Crabs***
 
-***![](/img/2nd-place-winner-sasha-sterner-invasion-of-the-crabs.jpg)***
+***![](/img/second-place-professional.jpg)***
+
+
 
 ### **3rd Place Winner Professional Bakers Category: Kaitlyn Barnette - *Long Time, No Sea***
 
-***![](/img/3rd-place-winner-kaitlyn-barnette-long-time-no-sea.jpg)***
+***![](/img/third-place-professional.jpg)***
+
+
+
+## {{< spacer "50" >}}
 
 ## ![Amateur Bakers Category Adults Header](/img/amateur-header-adults.jpg)
 
