@@ -91,6 +91,12 @@ Second & Third Place winners in each category received a goodie basket of Oregon
 
 We want to thank everyone who entered our first annual **"Claw-some" Crab Cake Bake-Off** - the creativity and the craftsmanship we saw from these bakers truly inspired us. If you were unable to enter this year’s contest, do not worry! The response was so positive, we’re confident the Claw-Some Crab Cake Bake-Off will be back and even better next year! Be sure to follow us on social media and keep an eye on our blog for announcements!&nbsp;
 
+### **Lorem Ipsum Dolor Sit Amet Morey!**
+
+**![](/img/extra-entries-amateurs-01.jpg)**
+
+**![](/img/extra-entries-amateurs-02.jpg)**
+
 Let us help you plan your next adventure on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** today! Visit our featured [<u>adventures page</u>](https://www.oregonsadventurecoast.com/adventures) and our [<u>trip ideas page</u>](https://www.oregonsadventurecoast.com/tripideas) to find more travel ideas and inspiration, and/or contact the [<u>Coos Bay – North Bend Visitor &amp; Convention Bureau.</u>](https://www.oregonsadventurecoast.com/contact/)
 
 You can also follow [<u>Oregon’s Adventure Coast Facebook,</u>](https://www.facebook.com/OregonsAdventureCoast/) [<u>@travelcoosbay on Instagram</u>](https://www.instagram.com/travelcoosbay/), and [<u>TikTok</u>](https://www.tiktok.com/@oregonsadventurecoast?lang=en) to find inspiration on the best spots to visit, eat, stay and explore any time of the year. [<u>Request your FREE visitor’s packet today</u>](https://www.oregonsadventurecoast.com/contact/#contactform)!
