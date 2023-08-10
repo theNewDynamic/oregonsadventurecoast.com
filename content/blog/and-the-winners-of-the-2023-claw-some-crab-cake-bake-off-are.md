@@ -25,6 +25,8 @@ You might have heard our announcement last spring about **Oregon's Adventure Coa
 
 Oregon's Adventure Coast's best crab cake baker! Each baker was asked to craft a crab-themed cake to represent **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston,** and document the process and the finished product.&nbsp;
 
+
+
 The response was overwhelming! After dozens of entries featuring incredible and creative cakes, six judges had the nearly impossible task of selecting the winners in three categories: Professional, Amateur Adults, Amateur Kids. Each cake was judged for its creativity, ability to incorporate the theme, crab imagery and coastal style.&nbsp;
 
 Without further adieu, the winning bakers and the names of their crustacean creations are as follows:&nbsp;
@@ -36,8 +38,6 @@ Without further adieu, the winning bakers and the names of their crustacean crea
 \*Amy shared with us the meaning of her cake: *'What the Crab?!' is my quirky interpretation of a crab-themed cake, where a wizened old octopus finds that his dinner, a Dungeness Oregon Coast Crab, has escaped him.* All the elements of this amazing cake were edible.
 
 ![](/img/first-place-professionals-02.jpg)
-
-
 
 ### **2nd Place Winner Professional Bakers Category: Sasha Sterner - *Invasion of the Crabs***
 
@@ -75,8 +75,6 @@ Catherine’s Mom was our 3rd Place Winner in the Professional category! We are 
 
 ![](/img/first-place-amateurs-kids-02.jpg)
 
-
-
 ### 2nd Place Winner Kids Category: Alyssa Guido - *“C is for Crab”*
 
 ![](/img/second-place-amatuer-kids.jpg)
@@ -96,6 +94,8 @@ We want to thank everyone who entered our first annual **"Claw-some" Crab Cake B
 **![](/img/extra-entries-amateurs-01.jpg)**
 
 **![](/img/extra-entries-amateurs-02.jpg)**
+
+**![](/img/professional-photos-rest.jpg)**
 
 Let us help you plan your next adventure on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** today! Visit our featured [<u>adventures page</u>](https://www.oregonsadventurecoast.com/adventures) and our [<u>trip ideas page</u>](https://www.oregonsadventurecoast.com/tripideas) to find more travel ideas and inspiration, and/or contact the [<u>Coos Bay – North Bend Visitor &amp; Convention Bureau.</u>](https://www.oregonsadventurecoast.com/contact/)
 
