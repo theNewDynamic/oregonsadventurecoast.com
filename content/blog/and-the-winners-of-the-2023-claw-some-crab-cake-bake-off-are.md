@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: And the Winners of the 2023 "Claw-some" Crab Cake Bake-Off Are.....
-draft: true
+draft: false
 date: 2023-08-09T00:00:00-07:00
 description: >-
   Announcing the Results of the Oregon’s Adventure Coast: Coos Bay, North Bend,
