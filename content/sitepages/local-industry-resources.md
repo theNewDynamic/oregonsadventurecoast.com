@@ -10,7 +10,6 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-aliases: []
 accordion_sections:
   - title:
     accordions:
@@ -24,7 +23,10 @@ accordion_sections:
           <a target="_blank" rel="noopener"
           href="/img/NTTW-COOS-PRESENTATION.pdf">CBNBC VCB Coos County Economic
           Impact Presentation</a>
-boxes: []
+
+
+          [Semi-Annual Report - August
+          2023](/img/VCB---Semi-Annual-Report-to-Coos-Cty---AUG23.pdf)
 ---
 ## Local Industry Resources
 
