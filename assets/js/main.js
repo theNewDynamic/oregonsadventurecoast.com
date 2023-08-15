@@ -10,6 +10,9 @@ document.querySelectorAll(".share-trigger").forEach(item => {
   })
 });
 document.querySelectorAll(".m-standard-nav h3").forEach(item => {
+  if(item.classList.contains('no-js')){
+    return
+  }
   item.addEventListener("click", function(){
     const sibling = item.nextElementSibling
     sibling.classList.toggle('show')

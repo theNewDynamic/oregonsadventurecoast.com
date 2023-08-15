@@ -8,7 +8,7 @@
 	    showInnerNav: false,
     }"
     >
-        <h3 @click="showInnerNav = !showInnerNav" class="hide-after">Adventures <span class="sm:hidden menu-link g-menu-x " :class="showInnerNav ? '-active' : ''"><i class="bar bar-top"></i><i class="bar bar-mid"></i><i class="bar bar-btm"></i></span></h3>
+        <h3 @click.stop="showInnerNav = !showInnerNav" class="hide-after no-js">Adventures <span class="sm:hidden menu-link g-menu-x " :class="showInnerNav ? '-active' : ''"><i class="bar bar-top"></i><i class="bar bar-mid"></i><i class="bar bar-btm"></i></span></h3>
         <ul :class="showInnerNav ? 'show' : ''">
         {{ $pageUrl := .RelPermalink }}
         {{ range where .Site.Pages "Section" "adventure" }}
