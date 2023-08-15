@@ -9,12 +9,6 @@ slideshow:
     url: /undeveloped-beaches
     video:
   - title:
-    photo: /img/circle-the-bay-home-slider-2048x850.jpg
-    title_mobile:
-    photo_mobile:
-    url: /event/circle-the-bay-30k
-    video:
-  - title:
     photo: /img/blackberry-artsfest-home-slider-2048x850.jpg
     title_mobile:
     photo_mobile:
