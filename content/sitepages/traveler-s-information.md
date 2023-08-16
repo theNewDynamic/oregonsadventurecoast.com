@@ -47,7 +47,7 @@ Oregon’s Adventure Coast is a fairly casual area, so unless you are attending 
 
 ### LIVE CAMS
 
-{{< columns >}}
+{{< columns number="3" >}}
 [![California Street Boat Ramp](/img/nb_cam_california_street.jpg)](https://www.northbendoregon.us/pview.aspx?id=55013)
 **California Street Boat Ramp**
 divider
@@ -60,7 +60,7 @@ divider
 
 {{< spacer 50 >}}
 
-{{< columns >}}
+{{< columns number="3" >}}
 
 [![](/img/kezi-9-north-bend-02.jpg)](https://www.kezi.com/weather/weathercam9/north-bend)
 
