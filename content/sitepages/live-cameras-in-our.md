@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Live Cameras of Our Area
-draft: true
-url: /live-cam
+draft: false
+url: live-cam
 layout: our-area
 photo: /img/north-spit-panoramic-pg-header.jpg
 ---
