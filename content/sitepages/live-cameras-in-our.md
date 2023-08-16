@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Live Cameras of Our Area
-draft: false
+draft: true
 url: /live-cam
 layout: our-area
 ---
