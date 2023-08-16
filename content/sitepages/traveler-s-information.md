@@ -60,17 +60,13 @@ divider
 
 {{< spacer 50 >}}
 
-{{< columns number="3" >}}
-
-[![](/img/kezi-9-north-bend-02.jpg)](https://www.kezi.com/weather/weathercam9/north-bend)
+{{< columns number="3" >}}[![](/img/kezi-9-north-bend-02.jpg)](https://www.kezi.com/weather/weathercam9/north-bend)
 
 **KEZI 9 - North Bend View**
 
 divider
 
-divider
-
-{{< /columns >}}
+divider{{< /columns >}}
 
 ### TRAVELING WITH PETS
 
