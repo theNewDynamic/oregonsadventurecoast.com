@@ -11,7 +11,7 @@ ctas:
     action: Download (PDF)
   - title: Local Restaurant & Dining Guide
     url: /img/restaurants-booklet-web-08-23.pdf
-    image: /img/brochure-cover-dining-guide.jpg
+    image: /img/brochure-cover-dining-guide-23.jpg
     action: Download (PDF)
   - title: Coffee Shops, Bakeries & More Guide
     url: /img/coffeeshops-bakery-08-23.pdf
