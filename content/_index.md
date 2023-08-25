@@ -27,6 +27,9 @@ home_splashes:
     alt: >-
       2023 Annular Solar Eclipse First Landfall on the Beaches of Oregon's
       Adventure Coast
+  - url: /live-cam
+    img: /img/live-cam-home-pg-button.png
+    alt: live weather camera button - click to see our area views
 masonry1:
   desktopphoto: /img/store-image-desktop.jpg
   desktoptitle: Store
