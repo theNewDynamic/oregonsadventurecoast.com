@@ -22,6 +22,9 @@ slideshow:
     url: /cycling
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
+  - url: /live-cam
+    img: /img/live-cam-home-pg-button.png
+    alt: live weather camera button - click to see our area views
   - url: /event/2023-annular-solar-eclipse
     img: /img/eclipse-splash-08-2023.jpg
     alt: >-
