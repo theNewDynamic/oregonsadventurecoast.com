@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Live Cameras of Our Area
+title: Live Weather Cams of Our Area
 draft: false
 url: live-cam
 layout: our-area
