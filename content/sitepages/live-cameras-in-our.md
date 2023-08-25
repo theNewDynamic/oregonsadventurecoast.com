@@ -16,7 +16,7 @@ divider
 **McCullough Bridge | Airport Tower**
 {{< /columns >}}
 
-{{< spacer 50 >}}
+{{< spacer 30 >}}
 
 {{< columns number="2" >}}
 [![North Bend Boardwalk](/img/nb_cam_boardwalk.jpg)](https://www.northbendoregon.us/pview.aspx?id=55012&catid=0)
@@ -28,7 +28,7 @@ divider
 **KEZI 9 - North Bend View**
 {{< /columns >}}
 
-{{< spacer 50 >}}
+{{< spacer 30 >}}
 
 {{< columns number="2" >}}
 [![Coos History Museum View 1](/img/museum-view-1.jpg)](http://50.126.89.203:32771/playersite_56765a1c-97f4-4ba7-a544-880f465729c8.html)
