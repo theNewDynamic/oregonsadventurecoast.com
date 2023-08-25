@@ -20,7 +20,7 @@ photo: /img/blackberry-hero-2048x530.jpg
 largeboxphoto: /img/blackberry-icecream-1024x395.jpg
 mediumboxphoto: /img/blackberry-art-667x355.jpg
 smallboxphoto: /img/blackberry-ice-cream-340x214.jpg
-date: '2019-02-10T22:01:16.000+00:00'
+date: 2019-02-10T14:01:16-08:00
 ---
 ![Nothing is more refreshing than ice cream and this blackberry ice cream is the best at the Blackberry Arts Festival!](/img/blackberry-ice-cream-medium.jpg "Blackberry Ice Cream! Yum!")
 
@@ -34,7 +34,7 @@ Blackberry arts, food, and drink are the fare at this popular event in downtown 
 
 {{< spacer 50 >}}
 
-The **Blackberry Arts Festival** is a juried arts and craft festival that has been happening for 39 years. It was started to highlight the works of local artists and crafters during the annual harvest of the blackberry. It features an impressive array of metalwork, jewelry, quilts, candles, hand-painted clothing, wine, carved wood, and much more available for purchase. The festival also includes food vendors.
+The **Blackberry Arts Festival** is a juried arts and craft festival that has been happening for 39 years. It was started to highlight the works of local artists and crafters during the annual harvest of the blackberry. It features an impressive array of metalwork, jewelry, quilts, candles, hand-painted clothing, wine, carved wood, and much more available for purchase. The festival also includes food vendors. The Street Fair and Vendors will be open on Central Ave.&nbsp;***SAT. 9am-6pm and SUN. 10am-4pm***.
 
 {{< spacer 50 >}}
 
