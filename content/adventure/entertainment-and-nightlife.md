@@ -22,7 +22,7 @@ Our area features some fabulous entertainment venues like [The Liberty Theatre](
 
 But it’s inside our rustic beloved local pubs where one can find real hidden musical gems! Our authentic, down-to-earth, Oregon Coast vibe promises an evening you won’t find anywhere else.
 
-Here are some of the best local places that support up and coming bands and musicians. If you plan to visit any of these, it’s best to call ahead to confirm their schedule.
+Here are some of the best local places that support up and coming bands and musicians or catch your favorite game on screen. If you plan to visit any of these, it’s best to call ahead to confirm their schedule.&nbsp;
 
 {{< floatimage src="/img/walking-map-icon.png" float="left" alt="Downtown Walking Map Icon" size="100" >}}
 
