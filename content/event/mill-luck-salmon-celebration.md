@@ -25,21 +25,25 @@ smallboxphoto: /img/salmon-celebration-small.jpg
 ---
 ![Mill Luck Salmon Celebration Man With Salmon](/img/salmon-celebration-medium.jpg)
 
-**The Annual Mill-Luck Salmon Celebration** is a tribute to Native American and Coquille Tribal culture. Don't miss this FREE OUTDOOR FESTIVAL celebrating Native American and Coquille Tribal Culture.
+**The Annual Mill-Luck Salmon Celebration** is a tribute to Native American and Coquille Tribal culture. Don't miss this **FREE OUTDOOR FESTIVAL** celebrating Native American and Coquille Tribal Culture.
 
 {{< spacer 25 >}}
 
+#### Hours:
+
+Vendor booths, canoe races, demonstrations and other events:<br>**Saturday, Sept 9 \| 10:00 AM – 5:00 PM<br>Sunday, Sept 10 \| 11:00 AM – 4:00 PM**
+
 #### **The Traditional Salmon Bake meal will be served**
 
-**Saturday, Sept 9 \| 10:00 AM – 5:00 PM<br>Sunday, Sept 10 \| 11:00 AM – 4:00 PM**
+**Saturday, Sept 9 \| 11:00 AM – 5:00 PM<br>Sunday, Sept 10 \| 11:00 AM – 4:00 PM**
 
-Presale tickets will go on sale in August. Tickets will be available in Ko-Kwel Gifts and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event.
+Pre-sale tickets will go on sale in August. Tickets will be available in Ko-Kwel Gifts in The Mill Casino \* Hotel and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event.
 
 #### **Meal Prices:&nbsp;**
 
 **Pricing:**<br>**Pre-sale meal tickets are $35 for adults and $30 for children ages 12 and under**. Tickets are available in Ko-Kwel Gifts beginning August 25 and include a commemorative Salmon Celebration tee shirt (while supplies last).
 
-**Guests may also purchase their meal at the meal tent.** The price for the meal without the T-shirt is $27.00 for adults and $20.00 for children
+**Guests may also purchase their meal at the meal tent. The price for the meal <u>without the T-shirt</u> is $27.00 for adults and $20.00 for children**
 
 **Menu:**<br>Traditional Pit Salmon<br>Brown Rice Prepared with Cranberries and Grilled Hazelnuts<br>Traditional Fry Bread served with Huckleberry Jam & Butter<br>Assorted Sodas & Freshly Brewed Coffee
 
