@@ -31,7 +31,7 @@ smallboxphoto: /img/salmon-celebration-small.jpg
 
 #### **The Traditional Salmon Bake meal will be served**
 
-**Saturday, Sept 9 \| 11:00 AM – 5:00 PM<br>Sunday, Sept 10 \| 11:00 AM – 4:00 PM**
+**Saturday, Sept 9 \| 10:00 AM – 5:00 PM<br>Sunday, Sept 10 \| 11:00 AM – 4:00 PM**
 
 Presale tickets will go on sale in August. Tickets will be available in Ko-Kwel Gifts and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event.
 
