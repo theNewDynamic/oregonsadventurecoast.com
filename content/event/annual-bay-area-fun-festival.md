@@ -29,7 +29,7 @@ aliases:
 
 As Summer winds down, the fun is just beginning here on the South Coast! [**The Bay Area Fun Festival**](https://bayareafunfestival.com/), also known as the greatest last party of the summer, happens here in Coos Bay and surrounding areas on the third weekend in September!
 
-Thousands of locals and visitors from afar come to enjoy the sights, sounds, and tastes of beautiful downtown Coos Bay and surrounding areas for this popular festival. Highlights include live entertainment, the famous **Cruz the Coos** featuring nearly 500 vintage automobiles, the **Prefontaine Memorial Run**, **K-DOCK RockFest**, the BAFF parade, and much more!
+Thousands of locals and visitors from afar come to enjoy the sights, sounds, and tastes of beautiful downtown Coos Bay and surrounding areas for this popular festival. Highlights include live entertainment, the famous **Cruz the Coos** featuring nearly 500 vintage automobiles, the **Prefontaine Memorial Run**, **Live Music**, the BAFF parade, and much more!
 
 ![](/img/funfest-mosiac1.jpg) ![](/img/funfest-mosiac2.jpg) ![](/img/funfest-mosiac3.jpg) ![](/img/funfest-mosiac4.jpg) ![](/img/funfest-mosiac5.jpg) ![](/img/funfest-mosiac6.jpg) ![](/img/funfest-mosiac7.jpg) ![](/img/funfest-mosiac8.jpg) ![](/img/funfest-mosiac9.jpg) ![](/img/funfest-mosiac10.jpg)
 
