@@ -8,8 +8,8 @@ slideshow:
     photo_mobile: /img/salmon-celebration-mobile-hm-slider-2023.jpg
     url: /events
     video:
-  - photo: /img/summer-getaway-2023-home-slider.jpg
-    url: /hiking-walking
+  - photo: /img/fall-fishing-hm-slider-desktop.jpg
+    url: /fishing
   - photo: /img/summer-getaway-dunes-home-slider.jpg
     url: /atv-motorsports
   - photo: /img/summer-getaway-biker-home-slider.jpg
