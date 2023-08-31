@@ -8,8 +8,8 @@ description: >-
   During the autumn months, visitors often experience gorgeous weather (many
   locals refer to fall as the Oregon Coast’s “Second Summer”), smaller crowds,
   wide open beaches, and amazing fall festivals! Here are some fall festivals
-  and events happening on **Oregon’s Adventure Coast: Coos Bay, North Bend,
-  Charleston** to look out for this season!&nbsp;
+  and events happening on Oregon’s Adventure Coast: Coos Bay, North Bend,
+  Charleston to look out for this season!&nbsp;
 image: /img/fall-festivals-oregon-coast-blog-695x322-jpg.jpg
 tags:
   - Coos Bay
