@@ -10,9 +10,9 @@ slideshow:
     video:
   - photo: /img/fall-fishing-hm-slider-desktop.jpg
     url: /fishing
-  - photo: /img/summer-spanish-hm-slider-lg.jpg
+  - photo: /img/shore-acres-cliffs-hm-slider-2084x850.jpg
     url: /tripideas
-  - photo: /img/hiking-waterfalls-hm-slider-2084x850.jpg
+  - photo: /img/fall-hiking-falls-hm-slider-2084x850.jpg
     url: /hiking-walking
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
