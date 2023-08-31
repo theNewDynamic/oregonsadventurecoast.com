@@ -8,12 +8,12 @@ slideshow:
     photo_mobile: /img/salmon-celebration-mobile-hm-slider-2023.jpg
     url: /events
     video:
-  - photo: /img/summer-getaway-2023-home-slider.jpg
+  - photo: /img/fall-fishing-hm-slider-desktop.jpg
+    url: /fishing
+  - photo: /img/summer-spanish-hm-slider-lg.jpg
+    url: /tripideas
+  - photo: /img/hiking-waterfalls-hm-slider-2084x850.jpg
     url: /hiking-walking
-  - photo: /img/summer-getaway-dunes-home-slider.jpg
-    url: /atv-motorsports
-  - photo: /img/summer-getaway-biker-home-slider.jpg
-    url: /cycling
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /live-cam
