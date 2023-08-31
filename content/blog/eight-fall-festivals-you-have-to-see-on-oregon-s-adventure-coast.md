@@ -8,8 +8,8 @@ description: >-
   During the autumn months, visitors often experience gorgeous weather (many
   locals refer to fall as the Oregon Coast’s “Second Summer”), smaller crowds,
   wide open beaches, and amazing fall festivals! Here are some fall festivals
-  and events happening on Oregon’s Adventure Coast: Coos Bay, North Bend,
-  Charleston to look out for this season!&nbsp;
+  and events happening on **Oregon’s Adventure Coast: Coos Bay, North Bend,
+  Charleston** to look out for this season!&nbsp;
 image: /img/fall-festivals-oregon-coast-blog-695x322-jpg.jpg
 tags:
   - Coos Bay
@@ -33,7 +33,7 @@ categories:
   - Oregon's Adventure Coast News & Info
 warning: false
 ---
-Those of us who spend a lot of time at the [**<u>Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston</u>**](https://www.oregonsadventurecoast.com/contact/) Visitor Center in downtown Coos Bay often hear what visitors have to say about our region. \*\* \*\* Many have told us that autumn is their favorite time to visit Oregon’s South Coast, and we tend to agree! Yes, we all love summer, but fall is also an optimal time to plan a getaway. During the autumn months, visitors often experience gorgeous weather (many locals refer to fall as the Oregon Coast’s “Second Summer”), smaller crowds, wide open beaches, and amazing fall festivals! Here are some fall festivals and events happening on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** to look out for this season!&nbsp;
+Those of us who spend a lot of time at the [**<u>Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston</u>**](https://www.oregonsadventurecoast.com/contact/) Visitor Center in downtown Coos Bay often hear what visitors have to say about our region. Many have told us that autumn is their favorite time to visit Oregon’s South Coast, and we tend to agree! Yes, we all love summer, but fall is also an optimal time to plan a getaway. During the autumn months, visitors often experience gorgeous weather (many locals refer to fall as the Oregon Coast’s “Second Summer”), smaller crowds, wide open beaches, and amazing fall festivals! Here are some fall festivals and events happening on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** to look out for this season!&nbsp;
 
 ## Events That Are Ongoing or Happening Now&nbsp;
 
@@ -58,13 +58,13 @@ Choose from some of our most popular annual fall festivals and experience someth
 
 **![](/img/bay-area-fun-festival-blog-695x322-jpg.png)**
 
-\*\*September 16-17, 2023. \*\*The third weekend of September is always fun here on Oregon’s Adventure Coast! The [<u>Annual Bay Area Fun Festival</u>](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) (September 16-17, 2023) features live music, street vendors, unique wares, delicious food and drink, and a parade through downtown Coos Bay! This event is held in conjunction with the [<u>Annual Cruz the Coos and Show ‘n Shine</u>](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/) and [<u>Prefontaine Memorial Run</u>](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/). **[<u>Learn more</u>](https://coosbaydowntown.com/bay-area-fun-festival/).&nbsp;**
+**September 16-17, 2023.** The third weekend of September is always fun here on Oregon’s Adventure Coast! The [<u>Annual Bay Area Fun Festival</u>](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) (September 16-17, 2023) features live music, street vendors, unique wares, delicious food and drink, and a parade through downtown Coos Bay! This event is held in conjunction with the [<u>Annual Cruz the Coos and Show ‘n Shine</u>](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/) and [<u>Prefontaine Memorial Run</u>](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/). **[<u>Learn more</u>](https://coosbaydowntown.com/bay-area-fun-festival/).&nbsp;**
 
 ## **\#3 Annual Cruz the Coos and Show ‘n Shine**
 
 **![](/img/cruz-the-coos-blog-695x322-jpg.jpg)**
 
-**September 16, 2023.&nbsp;**One of the longest-running and largest classic car cruises on the Oregon Coast will be back again Saturday, September 16, 2023! The Cruz the Coos and Show ‘n Shine, presented by the [<u>Coos Bay-North Bend Rotary Club</u>](https://coosbaynorthbendrotary.org/), is not to be missed! \*\*\*\*[**<u>Learn more</u>**](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/)**.**&nbsp;
+**September 16, 2023.**&nbsp;One of the longest-running and largest classic car cruises on the Oregon Coast will be back again Saturday, September 16, 2023! The Cruz the Coos and Show ‘n Shine, presented by the [<u>Coos Bay-North Bend Rotary Club</u>](https://coosbaynorthbendrotary.org/), is not to be missed! **[<u>Learn more</u>](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/).**
 
 ## **\#4 Annual Prefontaine Memorial Run**
 
@@ -94,7 +94,7 @@ Choose from some of our most popular annual fall festivals and experience someth
 
 **![](/img/2023-annular-solar-eclipse-blog-695x322-jpg.jpg)**
 
-**October 14, 2023&nbsp;**​​​​​​.**** Be among the first in the U.S. to experience the 2023 annular solar eclipse (a.k.a. “Ring of Fire” event) on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston the morning of Saturday, October 14, 2023! &nbsp;Eclipse glasses are currently available at the Coos Bay Visitor Center for $1 each (while supplies last). Several local businesses and community organizations are planning events to honor the occasion, like the North Bend Ring of Fire Revelry Block Party<u> </u>(we’ll add more events to our calendar closer to the date). \*\*\*\*[**<u>Learn more</u>**](https://www.oregonsadventurecoast.com/event/2023-annular-solar-eclipse/)**.**&nbsp;&nbsp;
+**October 14, 2023&nbsp;**​​​​​​.**** Be among the first in the U.S. to experience the 2023 annular solar eclipse (a.k.a. “Ring of Fire” event) on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston the morning of Saturday, October 14, 2023! &nbsp;Eclipse glasses are currently available at the Coos Bay Visitor Center for $1 each (while supplies last). Several local businesses and community organizations are planning events to honor the occasion, like the North Bend Ring of Fire Revelry Block Party<u> </u>(we’ll add more events to our calendar closer to the date). [**<u>Learn more</u>**](https://www.oregonsadventurecoast.com/event/2023-annular-solar-eclipse/)**.**&nbsp;&nbsp;
 
 ## Planning Ahead?
 
