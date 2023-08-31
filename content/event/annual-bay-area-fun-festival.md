@@ -23,7 +23,7 @@ smallboxphoto: /img/funfest-340x214.jpg
 aliases:
   - /event/annual-bay-area-fun-festival-2020/*
 ---
-![](/img/baff-backgrounder.jpeg)
+![](/img/baff.jpeg)
 
 #### **The Bay Area Fun Festival - the last big party of the summer - will happen September 16-17, 2023!**
 
@@ -39,7 +39,7 @@ Thousands of locals and visitors from afar come to enjoy the sights, sounds, and
 
 #### For the kiddos, Sunday offers a special additional event!
 
-[\*\*2022 PRE RUN FOR KIDS](https://www.great-futures.org/pre-for-kids)<br>Sunday, September 17th, 1:30pm Start
+**[2022 PRE RUN FOR KIDS](https://www.great-futures.org/pre-for-kids)**<br>Sunday, September 17th, 1:30pm Start
 
 Girls and Boys in grades 1st through 8th are encouraged to participate in this 3-mile fun run.
 
@@ -56,6 +56,12 @@ Top boy and girl finishers will be recognized. Medals will be awarded to the top
 [Download Registration Form](https://www.great-futures.org/_files/ugd/30afe1_e54aaa1432e447cb868e3a49eaabb820.pdf)
 
 {{< spacer 50 >}}
+
+#### BAFF MUSIC STAGE
+
+Live music brought to you by <a target="_blank" rel="noopener" href="https://www.facebook.com/musiconthebay">Music on the Bay</a> at the Live Music State, 4th and Central Ave.
+
+{{< spacer "25" >}}
 
 #### HERE ARE THE OTHER EXCITING EVENTS HAPPENING THIS WEEKEND!
 
