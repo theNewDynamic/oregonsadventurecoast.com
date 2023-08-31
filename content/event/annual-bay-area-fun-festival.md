@@ -57,9 +57,13 @@ Top boy and girl finishers will be recognized. Medals will be awarded to the top
 
 {{< spacer 50 >}}
 
-#### BAFF MUSIC STAGE
+#### BAFF ROCK FEST MUSIC STAGE
 
-Live music brought to you by <a target="_blank" rel="noopener" href="https://www.facebook.com/musiconthebay">Music on the Bay</a> at the Live Music State, 4th and Central Ave.
+Live music brought to you by Ziply Fiber & Pacific Properties at the Live Music Stage, 4th and Central Ave.
+
+**Saturday**<br>Ocean Boulevard - 11am-1pm<br>Jeff Torrence - 3pm-6pm
+
+**Sunday**<br>Border Patrol - Noon-2pm Sunday<br>The Throttles - 2:30pm-4pm Sunday
 
 {{< spacer "25" >}}
 
