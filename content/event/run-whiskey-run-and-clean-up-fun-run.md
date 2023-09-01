@@ -4,7 +4,7 @@ title: Run Whiskey Run and Clean Up Fun Run
 startdate: '2023-10-07'
 enddate: '2023-10-08'
 address:
-  city: Charlesont
+  city: Charleson
   state:
   street: Whiskey Run Mountain Bike Trail and Charleston Area
   street2:
@@ -22,7 +22,7 @@ largeboxphoto: /img/runninginforest-1024x395.jpg
 mediumboxphoto: /img/runninginforest-667x355.jpg
 smallboxphoto: /img/runninginforest-340x214.jpg
 ---
-![](/img/runninginforest-667x355.jpg)
+![](/img/run-whiskey-run-header-695x322.jpg)
 
 ### RUN WHISKEY RUN!!
 
