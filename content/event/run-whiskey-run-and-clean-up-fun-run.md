@@ -28,7 +28,7 @@ smallboxphoto: /img/runninginforest-340x214.jpg
 
 If you have ever wanted to take to the trails at Whiskey Run, but not on a mountain bike, this is your chance!
 
-The **<a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/">South Coast Running Club</a>** invites runners for this one-of-a-kind run through our now famous, single-track, top-rated, mountain biking trail system - cardoned off specifically for runners for this race.
+The **<a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/">South Coast Running Club</a>** invites runners for this one-of-a-kind run through our now famous, single-track, top-rated, mountain biking trail system - cordoned off specifically for runners for this race.
 
 The run will start and finish at the main **Whiskey Run Trailhead**. &nbsp;<a target="_blank" rel="noopener" href="https://www.google.com/maps?q=Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411&amp;ftid=0x54c4818dc596de61:0xe64719ece591060f&amp;hl=en-US&amp;gl=us&amp;entry=gps&amp;g_ep=CAIYAQ%3D%3D&amp;shorturl=1">Trailhead location&nbsp;</a>&nbsp;
 
