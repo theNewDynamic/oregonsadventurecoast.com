@@ -32,7 +32,7 @@ smallboxphoto: /img/ial-joey-hamilton-340x214.jpg
 ---
 ### IN A LANDSCAPE: Classical Music in the Wild™
 
-#### AT SHORE ACRES STATE PARK - September 7 & 8 at 6:00pm
+#### AT SHORE ACRES STATE PARK - September 7 & 8 at 5:00pm (NOTE TIME CHANGE)
 
 ***SOLD OUT***
 
