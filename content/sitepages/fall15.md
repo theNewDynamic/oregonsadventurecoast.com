@@ -20,33 +20,20 @@ aliases:
 
 ![](/img/fall-15-2023-header-695x322.jpg)
 
-### Embrace the Beauty of Fall with Our Exclusive
-
-### 15% Lodging Special!
-
+### Embrace the Beauty of Fall with Our Exclusive 15% Lodging Special!
 
 
 Discover the magic of fall in a destination that promises adventures to invigorate and recharge your soul. Book a delightful 2-night getaway at any of our unique lodging properties and unlock our Fall 15% Lodging Special. Please contact the property directly to make your reservations and get your savings.
 
 
 
-*Discount&nbsp; is valid October 1, 2023 through November 30, 2023. Some restrictions apply and subject to change.*
+*Discount is valid October 1, 2023 through November 30, 2023. Some restrictions apply and subject to change.*
 
-*![](/img/New-Best-Western-exterior.jpg)*
 
-![](/img/coos-bay-manor.jpeg)
+{{< columns number="2" >}}
+![](/img/New-Best-Western-exterior.jpg)
 
-![](/img/Itty-Bitty.jpg)
-
-![](/img/Mill-hotelfront-cement-fixed.jpg)
-
-![](/img/Motel-6-CB.jpg)
-
-![](/img/bay-point-landing-resort.jpg)
-
-![](/img/Mill-RV-overhead-1944.jpg)
-
-{{< columns number="2" >}}**Best Western Holiday Hotel**<br>411 N. Bayshore Drive<br>Coos Bay, OR 97420<br>800-228-8655 \| 541-269-5111
+**Best Western Holiday Hotel**<br>411 N. Bayshore Drive<br>Coos Bay, OR 97420<br>800-228-8655 \| 541-269-5111
 
 **{{% colortext color="#d74029" %}}**Note: Please Call Property Directly with Code "FALL 15 SPECIAL" to Take Advantage of this Offer.**{{% /colortext %}}**
 
@@ -61,6 +48,7 @@ Discover the magic of fall in a destination that promises adventures to invigora
 
 
 divider
+![](/img/coos-bay-manor.jpeg)
 
 **Coos Bay Manor Bed & Breakfast**<br>955 S. 5th Street<br>Coos Bay, OR 97420<br>541-808-0009
 
@@ -75,6 +63,9 @@ divider
 <a target="_blank" href="https://www.facebook.com/CoosBayManor">&lt;!-- --&gt; Visit Our Website</a>{{< /columns >}}
 
 {{< columns number="2" >}}
+
+![](/img/Itty-Bitty.jpg)
+
 **Itty Bitty Inn**<br>1504 Sherman Avenue<br>North Bend, OR 97459<br>541-756-6398
 
 **{{% colortext color="#d74029" %}}**Note: Please Call Property Directly with Code "FALL 15 SPECIAL" to Take Advantage of this Offer.**{{% /colortext %}}**
@@ -84,6 +75,8 @@ divider
 <p class="website"><a href="https://www.ittybittyinn.com" target="_blank" style="text-decoration:none;"><span class="icon"><svg class="svg-inline--fa fa-globe fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="globe" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z"></path></svg><!-- <i class="fas fa-globe"></i> --></span> Visit Our Website</a></p>
 
 divider
+
+![](/img/Mill-hotelfront-cement-fixed.jpg)
 
 **Mill Casino • Hotel & RV Park**<br>3201 Tremont Avenue<br>North Bend, OR 97459<br>800-953-4800 | 541-756-8800
 
@@ -97,6 +90,8 @@ divider
 
 {{< columns number="2" >}}
 
+![](/img/Motel-6-CB.jpg)
+
 **Motel 6**<br>1445 N. Bayshore Drive<br>Coos Bay, OR 97420<br>800-466-8356 | 541-267-7171
 
 **{{% colortext color="#d74029" %}}**Note: Please Call Property Directly with Code "FALL 15 SPECIAL" to Take Advantage of this Offer.**{{% /colortext %}}**
@@ -106,6 +101,8 @@ divider
 <p class="website"><a href="https://www.motel6.com/en/home.html"_blank" style="text-decoration:none;"><span class="icon"><svg class="svg-inline--fa fa-globe fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="globe" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z"></path></svg><!-- <i class="fas fa-globe"></i> --></span> Visit Our Website</a></p>
 
 divider
+
+![](/img/bay-point-landing-resort.jpg)
 
 **Bay Point Landing Modern Camping Resort**<br>92443 Cape Arago Highway<br>Coos Bay, OR 97420<br>541-351-9160
 
@@ -119,6 +116,8 @@ divider
 {{< /columns >}}
 
 {{< columns number="2" >}}
+
+![](/img/Mill-RV-overhead-1944.jpg)
 
 **Mill Casino ● Hotel & RV Park**<br>3201 Tremont Avenue<br>North Bend, OR 97459<br>800-953-4800 | 541-756-8800
 
