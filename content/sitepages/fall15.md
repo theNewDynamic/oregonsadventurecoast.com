@@ -15,7 +15,7 @@ aliases:
   - FALL15
 ---
 <style>
-.fa-w-16{ width: 1.5em;}
+.fa-w-16{ width: 1em;}
 </style>
 
 ![](/img/fall-15-2023-header-695x322.jpg)
