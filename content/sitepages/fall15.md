@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Special 15% Fall Lodging Savings!
-draft: true
+draft: false
 url: /fall15
 layout: contact
 photo: /img/fall-15-off-subpage-header.jpg
