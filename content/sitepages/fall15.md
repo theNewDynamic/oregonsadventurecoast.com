@@ -17,8 +17,8 @@ aliases:
 <style>
 .fa-w-16{ width: 2em;}
 </style>
-
-### ![](/img/fall-15-2023-header-695x322.jpg)
+{{< columns number="2" >}}
+![](/img/fall-15-2023-header-695x322.jpg)
 
 ### Embrace the Beauty of Fall with Our Exclusive 15% Lodging Special!
 
@@ -36,7 +36,7 @@ Units: 83 • $$$: Best Western Holiday Hotel offers a retreat for exploring the
 
 [Visit Our Website](https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html)
 
-
+divider
 
 ![](/img/Mill-hotelfront-cement-fixed.jpg)
 
@@ -46,4 +46,5 @@ Units: 83 • $$$: Best Western Holiday Hotel offers a retreat for exploring the
 
 **Units: 204 • $$$:**&nbsp;Experience over 200 well-appointed rooms and suites in our Tower and Lodge, some with in-room hot tubs, Las Vegas-style gaming excitement, five excellent dining venues and live entertainment – all with a great view along scenic Coos Bay. Free WiFi, pool, hot tub & pets welcome.
 
-<a target="_blank" rel="noopener" href="https://www.themillcasino.com/">Visit Our Website</a><br>
+<a target="_blank" rel="noopener" href="https://www.themillcasino.com/">Visit Our Website</a>
+{{< /columns >}}
