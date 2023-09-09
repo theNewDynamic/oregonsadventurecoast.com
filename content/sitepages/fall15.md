@@ -26,6 +26,8 @@ Discover the magic of fall in a destination that promises adventures to invigora
 
 *Discount is valid October 1, 2023 through November 30, 2023. Some restrictions apply and subject to change.*
 
+*{{< spacer "50" >}}*
+
 {{< columns number="2" >}}
 ![](/img/New-Best-Western-exterior.jpg)
 
