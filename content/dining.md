@@ -10,7 +10,7 @@ ctas:
     image: /img/brochure-cover-walking-map.jpg
     action: Download (PDF)
   - title: Local Restaurant & Dining Guide
-    url: restaurants-booklet-web-09-23.pdf
+    url: /img/restaurants-booklet-web-09-23.pdf
     image: /img/brochure-cover-dining-guide-23.jpg
     action: Download (PDF)
   - title: Coffee Shops, Bakeries & More Guide
