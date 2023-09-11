@@ -33,6 +33,12 @@ If you’re planning to visit Oregon’s Adventure Coast: Coos Bay, North Bend, 
 
 ![](/img/heroimage-page-header.jpg)
 
+#### BIG EVENTS PLANNED ON OREGON'S ADVENTURE COAST!
+
+Watch the Ring of Fire Eclipse from the cliffs of the jewel of the Oregon Coast, **Shore Acres State Park!&nbsp;**Rangers and astronomy educators from around the state will have telescopes set up to look at the sun and sunspots. These telescopes use specialized filters so we can look at the sun safely – remember,&nbsp;**never&nbsp;**look directly at the sun.<br>**Time:** 8am (Eclipse begins at 8:04, is at it's peak at 9:18, ends at 10:38)<br>**Parking:**&nbsp;$5 parking fee (or annual State Park Pass or Coastal Passport)<br>**Event Cost:** Free!
+
+Gather in **downtown North Bend for an Eclipse Viewing Block Party**! Complete with food trucks, craft vendors, music and Eclipse glasses.<br>*More details coming soon!*
+
 **What is it like Inside the Path of an Annular Solar Eclipse?**
 
 According to [<u>the website, Great American Eclipse</u>](https://www.greatamericaneclipse.com), “an annular solar eclipse promises a spectacular vision featuring the striking sight of the Sun as a ring.” Those inside the path of the 2023 Annular Solar Eclipse will see the sun appear as a bright ring-shaped halo around the edges of the moon for a full 4 minutes before it continues southeast. Daylight will be noticeably dimmer, but viewers will not experience complete darkness like a total solar eclipse.
