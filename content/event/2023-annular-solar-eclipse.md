@@ -51,7 +51,7 @@ The 2023 annular solar eclipse will be visible along a narrow path that crosses 
 
 {{< spacer "25" >}}
 
-### THE SCIENCE BEHIND AN ANNUAL ECLIPSE
+### THE SCIENCE BEHIND AN ANNULAR ECLIPSE
 
 **What is it like Inside the Path of an Annular Solar Eclipse?**
 
