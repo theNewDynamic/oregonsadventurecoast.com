@@ -38,6 +38,7 @@ Located in downtown Coos Bay, this local brew pub has quickly become a favorite 
 
 divider
 ![](/img/coney-station-entertainment.jpg)
+
 **Coney Station**<br>295 South Broadway<br>Coos Bay, OR 97420<br>(541)269-6948<br>[www.facebook.com/ConeyStation](https://www.facebook.com/ConeyStation)
 
 Coney Station offers a little something for everybody! From Dj Trivia, Live Music, NFL Picks, Texas Hold Em' poker, Happy Hour, Karaoke, and more their is always something going on. Located in the heart of downtown Coney Station strives to be the best place ever. Come aboard the Coney Station today!
@@ -74,6 +75,7 @@ This North Bend local favorite offers patrons a great selection of beers, fish a
 
 divider
 ![](/img/wildflour-entertainment-page.jpg)
+
 **Wildflour Public House**<br>1987 Sherman Avenue<br>North Bend, OR 97459<br>(541) 808-3633<br>[www.wildflourpub.com](https://www.wildflourpub.com/home)
 
 We have live music every Wednesday night from 6-8pm. Celebrate the end of the week with us, join us for Fiesta Friday where we have margarita flights and weekly food specials. Craft Beer, Beer Flights, (and yes we will be BREWING our own! Our restaurant welcomes all ages, we have a wonderful kids menu, with crayons and butcher paper to color on.
