@@ -33,11 +33,25 @@ If you’re planning to visit Oregon’s Adventure Coast: Coos Bay, North Bend, 
 
 ![](/img/heroimage-page-header.jpg)
 
-#### BIG EVENTS PLANNED ON OREGON'S ADVENTURE COAST!
+### BIG EVENTS PLANNED ON OREGON'S ADVENTURE COAST!
 
 Watch the Ring of Fire Eclipse from the cliffs of the jewel of the Oregon Coast, **Shore Acres State Park!&nbsp;**Rangers and astronomy educators from around the state will have telescopes set up to look at the sun and sunspots. These telescopes use specialized filters so we can look at the sun safely – remember,&nbsp;**never&nbsp;**look directly at the sun.<br>**Time:** 8am (Eclipse begins at 8:04, is at it's peak at 9:18, ends at 10:38)<br>**Parking:**&nbsp;$5 parking fee (or annual State Park Pass or Coastal Passport)<br>**Event Cost:** Free!
 
 Gather in **downtown North Bend for an Eclipse Viewing Block Party**! Complete with food trucks, craft vendors, music and Eclipse glasses.<br>*More details coming soon!*
+
+*{{< spacer "25" >}}*
+
+
+
+### WHERE ELSE CAN I WATCH?&nbsp;
+
+The 2023 annular solar eclipse will be visible along a narrow path that crosses from Oregon to Texas on October 14, 2023. The eclipse will make landfall along parts of the Central and Southern Oregon Coast (including Coos Bay, North Bend, and Charleston) shortly after 8 a.m., before reaching “annularity” at 9:18 a.m. This [<u>interactive map</u>](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fus-east-2.protection.sophos.com%2F%3Fd%3Dtimeanddate.com%26u%3DaHR0cHM6Ly93d3cudGltZWFuZGRhdGUuY29tL2VjbGlwc2UvbWFwLzIwMjMtb2N0b2Jlci0xNA%3D%3D%26i%3DNWI3NzU3NzIyZDVlNDYxNmIxMjU4YjVj%26t%3DaytYYkY5MU1ld1ppZGltR0U2MWhVby9YMW82QWF6MlJXS0MxbGxGM0hqYz0%3D%26h%3D2bbd296149c04753a5a9dc5be4662556%26s%3DAVNPUEhUT0NFTkNSWVBUSVbPX-uU98nQR2lE289CZwwlqk5pAbBE3mTYqUSxae74SQ&amp;data=05%7C01%7Cjena%40traveloregon.com%7Cc512e8ab10b04307447f08db4c447876%7C9359fab874c448a0869e7adf662e4a78%7C0%7C0%7C638187629229918024%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=obNtwWjLrhBVjUOab0eiNE90CAayca4SqKOcwNhtWtE%3D&amp;reserved=0) from the Oregon Museum of Science and Industry (OMSI) will help pinpoint locations to see the eclipse.
+
+[<u>Oregon Dunes National Recreation Area</u>](/untamed-dunes/), [<u>Horsfall Beach</u>](https://www.recreation.gov/camping/campgrounds/234267), [<u>Bastendorff Beach</u>](https://www.co.coos.or.us/parksrec/page/bastendorff), [<u>Sunset Bay State Park</u>](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=70), [<u>Cape Arago State Park</u>](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=66), [<u>South Slough National Estuarine Research Reserve</u>](https://www.oregon.gov/dsl/SS/Pages/About.aspx) are just a few destinations on Oregon’s Adventure Coast where this astronomical event can be viewed. *If you plan to view the eclipse close to water, learn how to keep yourself, your family and pets* [*<u>Wave Safe</u>*](/blog/take-care-out-there-be-wave-safe-and-enjoy-your-time-on-oregon-s-adventure-coast/)*. Be aware of dangerous “sneaker waves” and never turn your back to the ocean.*
+
+{{< spacer "25" >}}
+
+### THE SCIENCE BEHIND AN ANNUAL ECLIPSE
 
 **What is it like Inside the Path of an Annular Solar Eclipse?**
 
@@ -49,17 +63,13 @@ According to [<u>the website, Great American Eclipse</u>](https://www.greatameri
 
 An annular solar eclipse can only occur when the moon is at its furthest point from the Earth and passes between our planet and the sun. Because the moon is too far away to completely block out the sun, it creates a brilliant ring of light around it.&nbsp;
 
-### When and Where Can I Watch?&nbsp;
+### {{< spacer "25" >}}
 
-The 2023 annular solar eclipse will be visible along a narrow path that crosses from Oregon to Texas on October 14, 2023. The eclipse will make landfall along parts of the Central and Southern Oregon Coast (including Coos Bay, North Bend, and Charleston) shortly after 8 a.m., before reaching “annularity” at 9:18 a.m. This [<u>interactive map</u>](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fus-east-2.protection.sophos.com%2F%3Fd%3Dtimeanddate.com%26u%3DaHR0cHM6Ly93d3cudGltZWFuZGRhdGUuY29tL2VjbGlwc2UvbWFwLzIwMjMtb2N0b2Jlci0xNA%3D%3D%26i%3DNWI3NzU3NzIyZDVlNDYxNmIxMjU4YjVj%26t%3DaytYYkY5MU1ld1ppZGltR0U2MWhVby9YMW82QWF6MlJXS0MxbGxGM0hqYz0%3D%26h%3D2bbd296149c04753a5a9dc5be4662556%26s%3DAVNPUEhUT0NFTkNSWVBUSVbPX-uU98nQR2lE289CZwwlqk5pAbBE3mTYqUSxae74SQ&amp;data=05%7C01%7Cjena%40traveloregon.com%7Cc512e8ab10b04307447f08db4c447876%7C9359fab874c448a0869e7adf662e4a78%7C0%7C0%7C638187629229918024%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=obNtwWjLrhBVjUOab0eiNE90CAayca4SqKOcwNhtWtE%3D&amp;reserved=0) from the Oregon Museum of Science and Industry (OMSI) will help pinpoint locations to see the eclipse.
-
-[<u>Oregon Dunes National Recreation Area</u>](/untamed-dunes/), [<u>Horsfall Beach</u>](https://www.recreation.gov/camping/campgrounds/234267), [<u>Bastendorff Beach</u>](https://www.co.coos.or.us/parksrec/page/bastendorff), [<u>Sunset Bay State Park</u>](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=70), [<u>Cape Arago State Park</u>](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=66), [<u>Shore Acres State Park</u>](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=68),, [<u>South Slough National Estuarine Research Reserve</u>](https://www.oregon.gov/dsl/SS/Pages/About.aspx) are just a few destinations on Oregon’s Adventure Coast where this astronomical event can be viewed. *If you plan to view the eclipse close to water, learn how to keep yourself, your family and pets* [*<u>Wave Safe</u>*](/blog/take-care-out-there-be-wave-safe-and-enjoy-your-time-on-oregon-s-adventure-coast/)*. Be aware of dangerous “sneaker waves” and never turn your back to the ocean.*
-
-### How Can I View the Eclipse Safely?
+### HOW CAN I VIEW THE ECLIPSE SAFELY?
 
 **You might have heard it 100 times before, but it cannot be stressed enough:** **<u>Never Look Directly at the Sun</u>\*\*\*\*.** Even if you wear sunglasses, looking directly at the sun without a protective filter could cause serious damage to your eyes, including blindness. “During a partial or annular (ring) solar eclipse, such as the one on October 14, 2023, there is no time when it is safe to look directly at the Sun without using a special-purpose solar filter that complies with the transmittance requirements of the [<u>ISO 12312-2 international standard</u>](https://eclipse.aas.org/eye-safety/iso12312-2)”, says the [<u>American Astronomical Society</u>](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fus-east-2.protection.sophos.com%2F%3Fd%3Daas.org%26u%3DaHR0cHM6Ly9lY2xpcHNlLmFhcy5vcmcvZXllLXNhZmV0eQ%3D%3D%26i%3DNWI3NzU3NzIyZDVlNDYxNmIxMjU4YjVj%26t%3DeFVOSWRLUTBBRTFEM1dEdEIzeWpxZFBJQzZlbmJKcjBUYitnN09DdDZLWT0%3D%26h%3D2bbd296149c04753a5a9dc5be4662556%26s%3DAVNPUEhUT0NFTkNSWVBUSVbPX-uU98nQR2lE289CZwwlqk5pAbBE3mTYqUSxae74SQ&amp;data=05%7C01%7Cjena%40traveloregon.com%7Cc512e8ab10b04307447f08db4c447876%7C9359fab874c448a0869e7adf662e4a78%7C0%7C0%7C638187629229918024%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=cS2gMQ5eIp0CyOw95sG2h326cqJBA7Bl5fKEPArBwSc%3D&amp;reserved=0) in its recommendations on how to view a solar eclipse safely.&nbsp;
 
-**The only safe option to view the eclipse is with an approved solar filter that blocks dangerous ultraviolet and infrared radiation, like** [**<u>eclipse glasses</u>**](https://www.greatamericaneclipse.com/eclipse-viewing) **or** [**<u>solar binoculars</u>**](https://www.greatamericaneclipse.com/eclipse-viewing/sunoculars)**.**&nbsp;***Get your Eclipse Glasses at the Coos Bay Visitor Center while supplies last!***
+**The only safe option to view the eclipse is with an approved solar filter that blocks dangerous ultraviolet and infrared radiation, like** [**<u>eclipse glasses</u>**](https://www.greatamericaneclipse.com/eclipse-viewing) **or** [**<u>solar binoculars</u>**](https://www.greatamericaneclipse.com/eclipse-viewing/sunoculars)**.**&nbsp;***Get your Eclipse Glasses at the Coos Bay Visitor Center while supplies last! The City of North Bend will also have Eclipse Glasses, while supplies last, at the North Bend Eclipse Block Party on Oct 14th.***
 
 *We said it earlier in this post, but it’s worth repeating to keep yourself “*[*<u>Wave Safe</u>*](/blog/take-care-out-there-be-wave-safe-and-enjoy-your-time-on-oregon-s-adventure-coast/)*” and never turn your back to the ocean!*
 
