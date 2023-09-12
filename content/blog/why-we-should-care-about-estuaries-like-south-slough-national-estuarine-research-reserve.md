@@ -44,7 +44,7 @@ In general, many people do not know the impact that estuaries have on our ecosys
 
 In honor of <a target="_blank" rel="noopener" href="https://estuaries.org/get-involved/national-estuaries-week/">National Estuaries Week</a> (September 16-23, 2023), **here are some fun facts about estuaries and South Slough National Estuarine Research Reserve (SSNERR).**&nbsp;
 
-**\#1-**Much of the South Slough Reserve’s 5,900-acres is forested but it also encompasses a healthy variety of protected wetlands, riparian areas, and open water habitats.&nbsp;
+**\#1-** Much of the South Slough Reserve’s 5,900-acres is forested but it also encompasses a healthy variety of protected wetlands, riparian areas, and open water habitats.&nbsp;
 
 **\#2-** South Slough has a rich history of habitation dating back thousands of years when the Miluk people established their presence in the region. Echoes of their civilization, such as fishing traps, still endure, serving as reminders of their legacy. Notably, tribal members maintain an ongoing connection and involvement with the reserve, preserving the enduring bond between their community and this cherished land.
 
