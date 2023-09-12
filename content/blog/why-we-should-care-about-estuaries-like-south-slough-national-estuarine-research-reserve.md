@@ -42,6 +42,8 @@ In general, many people do not know the impact that estuaries have on our ecosys
 
 * They are nurturing grounds for a diverse array of species, including various fish, shellfish, and invertebrates. Basically, South Slough is a nursery for our dungeness crab, salmon, herring, oystersand other fish species!
 
+![Kayaking in the South Slough on a sunny day.](/img/kayaking-on-a-sunny-day.jpg "Kayaking in the South Slough on a sunny day.")
+
 In honor of <a target="_blank" rel="noopener" href="https://estuaries.org/get-involved/national-estuaries-week/">National Estuaries Week</a> (September 16-23, 2023), **here are some fun facts about estuaries and South Slough National Estuarine Research Reserve (SSNERR).**&nbsp;
 
 **\#1-** Much of the South Slough Reserve’s 5,900-acres is forested but it also encompasses a healthy variety of protected wetlands, riparian areas, and open water habitats.&nbsp;
@@ -67,6 +69,8 @@ In honor of <a target="_blank" rel="noopener" href="https://estuaries.org/get-in
 **\#11-** The reserve includes open water channels, tidal and freshwater wetlands that visitors may access by kayak and canoe. Water Trails Kayaks and canoes can be launched at Hinch Bridge or in Charleston. A paddler’s brochure is available at the Interpretive Center. [<u>Click here </u>](http://www.oregon.gov/dsl/SS/Pages/CommunityClassReg.aspx)for a schedule of their guided tours and other programs.&nbsp;
 
 **\#12-** The reserve is free for the public to visit; however, there are fees associated with some classes and activities.&nbsp;
+
+![A wooden boardwalk takes hikers through the lower slough.](/img/south-slough-walkway.jpg "A wooden boardwalk takes hikers through the lower slough")
 
 South Slough NERR is more than a beautiful destination to hike and unwind; it is a living, breathing natural resource dedicated to sustaining the environment and coastal way of life.&nbsp; The reserve is located at 61907 Seven Devils Road Charleston, OR 97420.&nbsp; For more information, visit [<u>www.oregon.gov</u>](http://www.oregon.gov/dsl/SSNERR/Pages/index.aspx) or call (541) 888-5558 for info.
 
