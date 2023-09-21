@@ -9,7 +9,7 @@ description: >-
   *In honor of National Estuaries Week (September 16-23, 2023), here are some
   interesting facts about South Slough National Estuarine Research Reserve
   (SSNERR) you might not know about.*
-image: /img/south-slough-nerr-blog-695x322-jpg-1-1.png
+image: /img/south-slough-blog-695x322-jpg.png
 tags:
   - National Estuaries Week
   - Estuaries
