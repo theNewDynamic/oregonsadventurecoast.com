@@ -10,10 +10,10 @@ address:
   zip: '97420'
 phone_local: 541-269-0215
 website: http://shoreacres.net/
-desktoptitle: Annual Holiday Lights at Shore Acres - Brightest Event on the Coast!
-mobiletitle: Shore Acres Holiday Lights - Brightest Event on the Coast!
-hovertitle: Shore Acres Holiday Lights - Brightest Event on the Coast!
-hoverdescription: Shore Acres Holiday Lights - Brightest Event on the Coast!
+desktoptitle: Holiday Lights at Shore Acres
+mobiletitle: Shore Acres Holiday Lights
+hovertitle: Shore Acres Holiday Lights
+hoverdescription: It's the Brightest Event on the Oregon Coast!
 photo: /img/shore-acres-holiday-lights-header.jpg
 largeboxphoto: /img/holiday-lights-large.jpg
 mediumboxphoto: /img/holiday-lights-medium.jpg
