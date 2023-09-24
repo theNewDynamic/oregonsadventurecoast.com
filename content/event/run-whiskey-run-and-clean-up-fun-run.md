@@ -74,7 +74,7 @@ Students: $5.00. &nbsp;*Use the code Student2022 to register. &nbsp;To avoid cre
 
 **Day of race registration and packet pick up begins at 8:00 at Whiskey Run Trailhead**
 
-**<a target="_blank" rel="noopener" href="https://www.google.com/maps/place/Whiskey+Run+Mountain+Biking+Trail+Parking/@43.2189727,-124.3422167,17z/data=!3m1!4b1!4m6!3m5!1s0x54c4818dc596de61:0xe64719ece591060f!8m2!3d43.2189727!4d-124.3422167!16s%2Fg%2F11f57g_cf4?hl=en-US&amp;entry=ttu">Directions to Trailhead</a> &nbsp;&nbsp;**
+**<a target="_blank" rel="noopener" href="https://www.google.com/maps/place/Whiskey+Run+Mountain+Biking+Trail+Parking/@43.2189727,-124.3422167,17z/data=!3m1!4b1!4m6!3m5!1s0x54c4818dc596de61:0xe64719ece591060f!8m2!3d43.2189727!4d-124.3422167!16s%2Fg%2F11f57g_cf4?hl=en-US&amp;entry=ttu">Directions to Trailhead</a>** &nbsp;&nbsp;
 
 **IMPORTANT INFO:**
 
