@@ -9,7 +9,7 @@ description: >-
   locals refer to fall as the Oregon Coast’s “Second Summer”), smaller crowds,
   wide open beaches, and amazing fall festivals! Here are some fall festivals
   and events happening on Oregon’s Adventure Coast: Coos Bay, North Bend,
-  Charleston to look out for this season!&nbsp;
+  Charleston to look out for this season!
 image: /img/fall-festivals-oregon-coast-blog-695x322-jpg.jpg
 tags:
   - Coos Bay
@@ -40,7 +40,7 @@ Those of us who spend a lot of time at the [**<u>Oregon’s Adventure Coast: Coo
 **![](/img/coos-bay-farmers-market-blog-695x322-jpg-1.png)**
 
 * **Coos Bay Downtown Farmers Market - Every Wednesday now through October 25, 2023​**​​​​​. The[<u> CBDA Farmers Market</u>](https://www.facebook.com/CoosBayFarmersMarket/), a popular open-air Farmers Market hosted by [<u>Coos Bay Downtown Association</u>](https://coosbaydowntown.com/coos-bay-farmers-market/), happens each Wednesday from 9am-2pm in the heart of downtown Coos Bay. This popular market has nearly 90 vendors throughout the season. It features fresh, locally grown produce, eggs, honey, meat, baked goods, soaps, candles, homemade jams, jellies, and unique creations handcrafted by local artisans. [**<u>Learn More.</u>**](https://coosbaydowntown.com/coos-bay-farmers-market/)
-* **Music On The Bay - FREE Concert Series Every Thursday now through Sept. 14, 2023**. Bring a picnic, dance, and enjoy [<u>Music On the Bay</u>](https://musiconthebayoregon.com/) at Mingus Park Amphitheater every Thursday evening through September 14, 2023 at 7 p.m. [**<u>Learn more</u>**](https://www.facebook.com/musiconthebay/?ref=embed_page)**.&nbsp;**
+* **Music On The Bay - FREE Concert Series Every Thursday now through Sept. 14, 2023**. Bring a picnic, dance, and enjoy [<u>Music On the Bay</u>](https://musiconthebayoregon.com/) at Mingus Park Amphitheater every Thursday evening through September 14, 2023 at 7 p.m. [**<u>Learn more</u>**](https://www.facebook.com/musiconthebay/?ref=embed_page)**.**&nbsp;
 * **Coastal Farmers Market - Every Sunday**. Be sure to stop by the NEW Coastal Farmers Market with local food and local farmers located in the Historic Flora Building (999 N. Front Street in Coos Bay) on Sundays from 12-4! [**<u>Learn more.&nbsp;</u>**](https://www.facebook.com/groups/962985981473005/media/photos)
 * **Downtown Coos Bay Wine Walk - First Friday of the month (except January)**. Join the [<u>Coos Bay - North Bend Rotary</u>](https://www.facebook.com/cbnbrotary?__cft__%5B0%5D=AZVI_bu8espawVbtAs_qW3xHXN0bjF7hbgL4esqsQ2b9e8ft0jksxihlF9ZIDWC2wn7NGCb90rmCbGSpCa-LRKJwvf9nVVETl6QxkrNv7pUs6Hv6k4TVVBLIOu6UF4Y-YaRDDDFfUNTgBZ1M3ybbDI_PQQ-Ah1AjnZeFVpFdUJ0hs5nzOhSq2cd7F6MvOFNkzkM&amp;__tn__=-%5DK-R) on the first Friday of each month (except January) for the Downtown Coos Bay Wine Walk! Now with two starting locations: [<u>Coos Bay Visitor Center</u>](https://www.google.com/maps/dir/43.3680649,-124.2127962/coos+bay+visitor+center/@43.36798,-124.2151243,17z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x54c38681fcb00001:0xb05d0a4fb88fd58!2m2!1d-124.212966!2d43.3680266?entry=ttu) or [<u>Checkerberry’s Flowers</u>](https://www.google.com/maps/dir/43.3680649,-124.2127962/Checkerberry's+Flowers+%26+Gifts,+North+Bayshore+Drive,+Coos+Bay,+OR/@43.3720212,-124.2186594,16z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x54c3842a02efe5e9:0xefe68b94853711f1!2m2!1d-124.2148846!2d43.3768481?entry=ttu) to pick up your map & wine glass with a $10 Donation. All proceeds go to a different nonprofit organization each month. [**<u>Learn more</u>**](https://www.facebook.com/CoosBayWineWalk).&nbsp;
 
@@ -54,11 +54,11 @@ Choose from some of our most popular annual fall festivals and experience someth
 
 **September 9-10, 2023.**&nbsp;Don’t miss this annual outdoor festival celebrating the heritage, culture and traditions of the [<u>Coquille Indian Tribe</u>](https://www.coquilletribe.org/) and other Pacific Northwest Tribes at The Mill Casino Hotel & RV Park! Throughout the weekend, festival attendees can enjoy free daily performances by Native American storytellers, drummers, flutists and dancers, a marketplace offering traditional wares and foods, a bay-front canoe exhibit and races, traditional games and activities for children, plus various cultural demonstrations and educational exhibits for the whole family. The traditional salmon bake meal, a ticketed event, will be served from 11 AM – 5 PM Saturday and 11 AM – 4 PM Sunday. Tickets for the Salmon Bake Meal are available in [<u>Ko-Kwel Gifts</u>](https://www.themillcasino.com/accommodations/ko-kwel-gifts/) and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event. **[<u>Learn more</u>](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/).**
 
-## **\#2 Annual Bay Area Fun Festival&nbsp;**
+## **\#2 Annual Bay Area Fun Festival**&nbsp;
 
 **![](/img/bay-area-fun-festival-blog-695x322-jpg.png)**
 
-**September 16-17, 2023.** The third weekend of September is always fun here on Oregon’s Adventure Coast! The [<u>Annual Bay Area Fun Festival</u>](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) (September 16-17, 2023) features live music, street vendors, unique wares, delicious food and drink, and a parade through downtown Coos Bay! This event is held in conjunction with the [<u>Annual Cruz the Coos and Show ‘n Shine</u>](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/) and [<u>Prefontaine Memorial Run</u>](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/). **[<u>Learn more</u>](https://coosbaydowntown.com/bay-area-fun-festival/).&nbsp;**
+**September 16-17, 2023.** The third weekend of September is always fun here on Oregon’s Adventure Coast! The [<u>Annual Bay Area Fun Festival</u>](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) (September 16-17, 2023) features live music, street vendors, unique wares, delicious food and drink, and a parade through downtown Coos Bay! This event is held in conjunction with the [<u>Annual Cruz the Coos and Show ‘n Shine</u>](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/) and [<u>Prefontaine Memorial Run</u>](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/). **[<u>Learn more</u>](https://coosbaydowntown.com/bay-area-fun-festival/).**&nbsp;
 
 ## **\#3 Annual Cruz the Coos and Show ‘n Shine**
 
@@ -72,11 +72,11 @@ Choose from some of our most popular annual fall festivals and experience someth
 
 **September 16, 2023.** A rolling and challenging course, this 10K road race honors one of America’s greatest distance runners, Steve Prefontaine. Event includes the 10K run and a 2M walk. [**<u>Learn more</u>**](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/).&nbsp;
 
-## **\#5 Annual Mahaffy Ranch Harvest Festival&nbsp;**
+## **\#5 Annual Mahaffy Ranch Harvest Festival**&nbsp;
 
 ![](/img/pumpkin-patch-blog-695x322-jpg.png)
 
-**September 29-October 31, 2023.&nbsp;**[<u>Mahaffy Ranch</u>](http://mahaffyranch.com/), a local “U-Pick” Pumpkin Patch, is once again offering visitors plenty of fun, fall-themed activities for all ages! 2023 activities will include Hay Rides, a Corn Maze, Corn Cannon, Farm Animals and so much more! [**<u>Learn more</u>**](https://fb.me/e/3L9ZzqGQB)**.**&nbsp;
+**September 29-October 31, 2023.**&nbsp;[<u>Mahaffy Ranch</u>](http://mahaffyranch.com/), a local “U-Pick” Pumpkin Patch, is once again offering visitors plenty of fun, fall-themed activities for all ages! 2023 activities will include Hay Rides, a Corn Maze, Corn Cannon, Farm Animals and so much more! [**<u>Learn more</u>**](https://fb.me/e/3L9ZzqGQB)**.**&nbsp;
 
 ## **\#6 Octoberfish**
 
