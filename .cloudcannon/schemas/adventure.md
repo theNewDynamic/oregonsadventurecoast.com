@@ -1,5 +1,6 @@
 ---
 title:
+draft:
 url:
 photo:
 seo:
