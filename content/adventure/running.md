@@ -2,7 +2,7 @@
 _schema: default
 title: Running
 draft: true
-url: running
+url: /running
 photo: /img/running-page-large-header.jpg
 seo:
   title: ''
