@@ -10,7 +10,7 @@ seo:
   imgalt: ''
   image: ''
 ---
-![](/img/running-header-695x322.jpg)
+![](/img/running-subpage-header-695x322.jpg)
 
 Run away on Oregon’s Adventure Coast – the perfect place to lace up your shoes and hit the pavement, trail or sand.
 
@@ -22,26 +22,23 @@ Oregon’s Adventure Coast is also home to unparalleled terrain for running – 
 
 Oregon’s Adventure Coast is a fantastic place to get your running miles in. You can hit the pavement in downtown Coos Bay, tread the trails from Sunset Bay to Cape Arago, jog lightly around the peaceful shores of Lower Empire Lake or jump into any number of annual organized runs. Some favorite routes, runs and groups include:
 
-#### Sunset Bay
+#### Favorite Runs Mapped Out&nbsp;
 
-**Distance:** 3.8 miles<br>**Elevation gain:** 262 feet<br>**Summary:** It’s hard to imagine a more scenic run than, this nearly 4-miler, which cruises through some of the crown jewels of Oregon’s Adventure Coast, including Sunset Bay State Park and Shore Acres State Park.&nbsp;
+We have collected some of our favorite runs to share with you -&nbsp; different lengths and terrain to choose from. We have saved them to Map My Run so you can view and download them. [Visit Running Maps page.](/running-maps)&nbsp;
 
 #### South Coast Running Club
 
-**Overview:** This friendly running club hosts weekly group runs on Wednesday evenings and Thursday mornings in Coos Bay. They also put on runs throughout the year, including the Firecracker Run on July Fourth, Circle the Bay in August and a Turkey Trot at Thanksgiving. <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">Visit their calendar for all the details.</a>
-
-
-
-#### Roseburg to Coos Bay Relay
-
-A 68-mile fun relay between Roseburg and Coos Bay, this run, also hosted by the South Coast Running Club, started more than 40 years ago and is still going strong.&nbsp;
+This friendly running club hosts weekly group runs on Wednesday evenings and Thursday mornings in Coos Bay. They also put on runs throughout the year, including the Firecracker Run on July Fourth, Circle the Bay in August and a Turkey Trot at Thanksgiving. <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">Visit their calendar for all the details.</a>
 
 #### Running with Pre
 
 Fans of renowned Coos Bay long distance runner [Steve Prefontain](/steve-prefontaine-story)e can check out a few attractions in the area related to him, including a bronze likeness of Pre at the Coos Bay Visitor Information Center, the Prefontaine Gallery at the Coos Art Museum, which showcases his awards and memorabilia, and the stunning Pre Mural in downtown Coos Bay.
 
-{{< spacer 40 >}}
+#### Short List of Races
 
+Oregon's Adventure Coast offers an exhilarating experience for avid runners and outdoor enthusiasts. The rugged coastline, lush forests, and diverse terrain provide the perfect backdrop for challenging and scenic races. Participants can test their endurance on winding trails that meander through towering trees and embrace the refreshing coastal air.
+
+{{< spacer 40 >}}
 
 ![Circle the Bay Run](/img/circle-the-bay-695x125.jpg)
 
@@ -53,7 +50,6 @@ Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's
 
 {{< spacer 40 >}}
 
-
 ![Sunset Bay Trail Run](/img/sunset-trail-run-695x125.jpg)
 
 ### Sunset Bay Trail Run
@@ -63,9 +59,6 @@ Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's
 This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A very challenging course for the longer distances and the views will take what breath you have left away. &nbsp;Seriously, this race has it all, killer hills through the woods, an amazing mostly flat cliff section where you’ll see sea lions, ocean rocks, the deep blue sea, and if you’re very lucky, a passing whale.​
 
 {{< spacer 40 >}}
-
-
-
 
 ![Annual Prefontaine Memorial Run](/img/pre-memorial-run-695x125.jpg)
 
@@ -77,21 +70,13 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 
 {{< spacer 40 >}}
 
-
-
-
 ![Run Whiskey Run](/img/run-whiskey-run-695x125.jpg)
 
 ### Run Whiskey Run
 
 **October \| 1.5 Mile, 5 Mile or 10 Mile Trail Run**
 
-
-
 {{< spacer 40 >}}
-
-
-
 
 ### BELOW - JUST FOR PLACEMENT FOR BUSINESS LISTINGS
 
@@ -120,4 +105,3 @@ Coos Bay, OR 97420
 Asana (a·sa·na) defined simply as a pose or position in yoga. House of Asana is home of the rebel yogi and fitness lover. We provide a range of classes from slow restorative yoga to fast paced power yoga classes. We also offer workshops, private sessions, and events! Most of our classes are heated with infrared lights. We offer an unpretentious and results-oriented community that’s invested in your goals and success. Our core values are grit, authenticity, community, and compassion.
 
 {{< /columns >}}
-
