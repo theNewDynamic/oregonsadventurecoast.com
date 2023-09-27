@@ -1,24 +1,46 @@
 ---
+_schema: default
 title: Running
+draft: true
 url: running
-photo: "/img/running-page-large-header.jpg"
+photo: /img/running-page-large-header.jpg
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
-draft: true
-
 ---
 ![](/img/running-header-695x322.jpg)
 
-Tur mod quatur, vollab isciendi occae estisi ut ditinustem in eserae veliquati re nihita soloriti dolorae nobiti nus nis voluptat ius duciis eum apicili tatem. Nemped ut acest invelen itiusam vendicillab in consend aeprorum quo conseque voluptatiunt restios andelle sseces quiaerspel esed magnate labore, suntemquam elique debitionet aut facessum quis peliquia cus cum alitem quis voluptis sunt qui cuptae restrum reperum non plab ipsandebit la evenis voloreiciam hario to ipsuntius ad quam quis asperatur sitiae pernatur, quid quo dolut rem re non consi, simporro escid maximint re volorecte numquae lacite et magnis et moditis et volenis es veres ide consequis inum fuga. Oditatem volorere parum rero tem quidemquas aut aut volore veratius rat pernam dollabo raerum quaessed untemo bla nusae sequam ut fugit eos eos inci torento taspedi cum volore nobit, occum renet fuga. Unt, sitat.
+Run away on Oregon’s Adventure Coast – the perfect place to lace up your shoes and hit the pavement, trail or sand.&nbsp;
 
-## Steve Prefontaine - Local Hero
+What makes Oregon’s Adventure Coast a runner’s paradise? For starters, there’s some storied running history here. Coos Bay is the birthplace of [Steve Prefontaine](/steve-prefontaine-story), possibly one of the best distance runners ever. It was here that Pre gained his love for running, where he honed his skills and where he trained to race himself to the top of the pack.&nbsp;
 
-miligent, untibus ciuriaere maiorrore volum eos dis et odia es dit, sed quatati as et quidebis ipsae plique eossum des exersperis ea qui aut ipitaesti quidenimi, simporro escid maximint re volorecte numquae lacite et magnis et moditis et volenis es veres ide consequis inum fuga. Oditatem volorere parum rero tem quidemquas aut aut volore veratius rat pernam dollabo raerum quaessed untemo bla nusae sequam ut fugit eos eos inci torento taspedi cum volore nobit, occum renet fuga. Unt, sitat. [Read more about Steve Prefontaine](/steve-prefontaine-story).
+Oregon’s Adventure Coast is also home to unparalleled terrain for running – think ocean views, forested mountains, charming neighborhoods and parks galore. Looking for a scenic easy loop with Pacific Ocean vistas? We’ve got that. A longer, more challenging run to get you up to speed for the annual 10K Prefontaine Memorial Run? No problem. How about a weekly run with a group of friendly folks who love to get out and active with like-minded runners. With the <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/">South Coast Running Club</a>, we’ve got that too.&nbsp;
+
+### A run for everyone
+
+Oregon’s Adventure Coast is a fantastic place to get your running miles in. You can hit the pavement in downtown Coos Bay, tread the trails from Sunset Bay to Cape Arago, jog lightly around the peaceful shores of Lower Empire Lake or jump into any number of annual organized runs. Some favorite routes, runs and groups include:
+
+#### Sunset Bay
+
+**Distance:** 3.8 miles<br>**Elevation gain:** 262 feet<br>**Summary:** It’s hard to imagine a more scenic run than, this nearly 4-miler, which cruises through some of the crown jewels of Oregon’s Adventure Coast, including Sunset Bay State Park and Shore Acres State Park.&nbsp;
+
+#### South Coast Running Club
+
+**Overview:** This friendly running club hosts weekly group runs on Wednesday evenings and Thursday mornings in Coos Bay. They also put on runs throughout the year, including the Firecracker Run on July Fourth, Circle the Bay in August and a Turkey Trot at Thanksgiving. <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">Visit their calendar for all the details.</a>
+
+#### Prefontaine Memorial Run
+
+Held in September in honor of Coos Bay’s hometown hero Steve Prefontaine, this annual run is a rolling and challenging 10k road race that also features a 2-mile walk.&nbsp;
+
+#### Roseburg to Coos Bay Relay
+
+A 68-mile fun relay between Roseburg and Coos Bay, this run, also hosted by the South Coast Running Club, started more than 40 years ago and is still going strong.&nbsp;
+
+#### Running with Pre
+
+Fans of renowned Coos Bay long distance runner [Steve Prefontain](/steve-prefontaine-story)e can check out a few attractions in the area related to him, including a bronze likeness of Pre at the Coos Bay Visitor Information Center, the Prefontaine Gallery at the Coos Art Museum, which showcases his awards and memorabilia, and the stunning Pre Mural in downtown Coos Bay.
 
 {{< spacer 40 >}}
 
@@ -26,7 +48,7 @@ miligent, untibus ciuriaere maiorrore volum eos dis et odia es dit, sed quatati 
 
 ### Circle the Bay
 
-**August 12, 2023 | 30K (18 Miles) 3-Person Relay or 1-Person Run**
+**August 12, 2023 \| 30K (18 Miles) 3-Person Relay or 1-Person Run**
 
 Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque naturion nis natus enem voluptat. Dant fugiatur alibus dolorio omnihiciis nonsequas dolores equatquunt rehent repella borpore ntemoditaquo volorem idicaepudici con pero et exceprovit laboreh enderovidunt porent qui torem aut latur? Rum quis etur aute pelignimet dolorepudam lacerest ut aut offictur, conse nusam aut laboreped mollabo. [Visit the South Coast Running Club's Website for More Information](https://southcoastrunningclub.org/circle-the-bay/)
 
@@ -36,7 +58,7 @@ Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque n
 
 ### Sunset Bay Trail Run
 
-**September 2, 2023 | 1/2 Marathon, 15K, 4-Mile Trail Run, 1-Mile Beach Fun Run**
+**September 2, 2023 \| 1/2 Marathon, 15K, 4-Mile Trail Run, 1-Mile Beach Fun Run**
 
 Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque naturion nis natus enem voluptat. Dant fugiatur alibus dolorio omnihiciis nonsequas dolores equatquunt rehent repella borpore ntemoditaquo volorem idicaepudici con pero et exceprovit laboreh enderovidunt porent qui torem aut latur? Rum quis etur aute pelignimet dolorepudam lacerest ut aut offictur, conse nusam aut laboreped mollabo. [Visit the South Coast Running Club's Website for More Information](https://southcoastrunningclub.org/sunset-bay-trail-runs/)
 
@@ -46,7 +68,7 @@ Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque n
 
 ### Annual Prefontaine Memorial Run
 
-**September 2023 | 5K, 10K, Fun Run & Wheelchair Run**
+**September 2023 \| 5K, 10K, Fun Run & Wheelchair Run**
 
 Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque naturion nis natus enem voluptat. Dant fugiatur alibus dolorio omnihiciis nonsequas dolores equatquunt rehent repella borpore ntemoditaquo volorem idicaepudici con pero et exceprovit laboreh enderovidunt porent qui torem aut latur? Rum quis etur aute pelignimet dolorepudam lacerest ut aut offictur, conse nusam aut laboreped mollabo. [Visit our Event Page for More Information.](#)
 
@@ -56,7 +78,7 @@ Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque n
 
 ### Run Whiskey Run
 
-**October 7, 2023 | 1.5 Mile, 5 Mile or 10 Mile Trail Run**
+**October 7, 2023 \| 1.5 Mile, 5 Mile or 10 Mile Trail Run**
 
 Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque naturion nis natus enem voluptat. Dant fugiatur alibus dolorio omnihiciis nonsequas dolores equatquunt rehent repella borpore ntemoditaquo volorem idicaepudici con pero et exceprovit laboreh enderovidunt porent qui torem aut latur? Rum quis etur aute pelignimet dolorepudam lacerest ut aut offictur, conse nusam aut laboreped mollabo. [Visit the South Coast Running Club's Website for More Information.](https://southcoastrunningclub.org/run-whiskey-run/)
 
@@ -68,10 +90,10 @@ Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque n
 
 ![Mossy Lotus Yoga & Forest Bathing](/img/mossy-lotus-345x220.jpg)
 
-**Mossy Lotus**  
-158 Market Avenue  
-Coos Bay, OR 97420  
-(541) 217-0400  
+**Mossy Lotus**
+158 Market Avenue
+Coos Bay, OR 97420
+(541) 217-0400
 [mossylotus.com](https://mossylotus.com/ "https://mossylotus.com/")
 
 With over 20 years of combined experience as field biologists and 30+ practicing yoga, we have both spent thousands of hours in heartfelt connection with Mother Nature and learning and teaching the full practices of yoga to all levels of students. This land, this rugged, wild earth is our inspiration. It is our passion for living in balance with nature that drives us.
@@ -80,10 +102,10 @@ divider
 
 ![House of Asana - Yoga & Classes](/img/house-of-asana-345x220.jpg)
 
-**House of Asana**  
-180 Central Avenue  
-Coos Bay, OR 97420  
-(541) 252-2434  
+**House of Asana**
+180 Central Avenue
+Coos Bay, OR 97420
+(541) 252-2434
 [www.houseofasana.com](https://www.houseofasana.com/ "https://www.houseofasana.com/")
 
 Asana (a·sa·na) defined simply as a pose or position in yoga. House of Asana is home of the rebel yogi and fitness lover. We provide a range of classes from slow restorative yoga to fast paced power yoga classes. We also offer workshops, private sessions, and events! Most of our classes are heated with infrared lights. We offer an unpretentious and results-oriented community that’s invested in your goals and success. Our core values are grit, authenticity, community, and compassion.
