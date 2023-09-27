@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: >-
-  Five Fantastical Fall Adventures sto Enjoy on Oregon’s Adventure Coast (While
+  Five Fantastical Fall Adventures to Enjoy on Oregon’s Adventure Coast (While
   Saving 15% on Lodging)!
 draft: false
 date: 2023-09-22T00:00:00-07:00
@@ -10,7 +10,7 @@ description: >-
   Adventure Coast promises unique experiences, awaiting your discovery. So,
   throw on a comfy jacket, pack some cozy sweaters, step into your beloved
   walking shoes, and gear up for a delightful autumn retreat in Coos Bay, North
-  Bend, Charleston!*&nbsp;
+  Bend, Charleston!*
 image: /img/fall-oregon-coast-adventures-blog-695x322.jpg
 tags:
   - Coos Bay

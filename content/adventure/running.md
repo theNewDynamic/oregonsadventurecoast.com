@@ -12,11 +12,9 @@ seo:
 ---
 ![](/img/running-header-695x322.jpg)
 
-Run away on Oregon’s Adventure Coast – the perfect place to lace up your shoes and hit the pavement, trail or sand.&nbsp;
+Run away on Oregon’s Adventure Coast – the perfect place to lace up your shoes and hit the pavement, trail or sand.
 
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSBpZD0ibWFwbXlmaXRuZXNzX3JvdXRlIiBzcmM9Imh0dHBzOi8vd3d3Lm1hcG15cnVuLmNvbS9yb3V0ZXMvdmlldy9lbWJlZGRlZC81NzUyMDY4NjEwP3dpZHRoPTYwMCZoZWlnaHQ9NDAxJnVuZGVmaW5lZCZsaW5lX2NvbG9yPUU2MTkwMERDJnJnYmhleD1EQzAwMTkmZGlzdGFuY2VfbWFya2Vycz0wJnVuaXRfdHlwZT1pbXBlcmlhbCZtYXBfbW9kZT1ST0FETUFQJnNob3dfbWFya2VyX2V2ZXJ5PTEmbGFzdF91cGRhdGVkPTIwMjMtMDktMjdUMDI6MzQ6NTErMDA6MDAiIGhlaWdodD0iNDAxcHgiIHdpZHRoPSIxMDAlIiBmcmFtZWJvcmRlcj0iMCIgLz4="><iframe id="mapmyfitness_route" src="https://www.mapmyrun.com/routes/view/embedded/5752068610?width=600&amp;height=401&amp;undefined&amp;line_color=E61900DC&amp;rgbhex=DC0019&amp;distance_markers=0&amp;unit_type=imperial&amp;map_mode=ROADMAP&amp;show_marker_every=1&amp;last_updated=2023-09-27T02:34:51+00:00" height="401px" width="100%" frameborder="0"></iframe></div>
-
-What makes Oregon’s Adventure Coast a runner’s paradise? For starters, there’s some storied running history here. Coos Bay is the birthplace of [Steve Prefontaine](/steve-prefontaine-story), possibly one of the best distance runners ever. It was here that Pre gained his love for running, where he honed his skills and where he trained to race himself to the top of the pack.​​​
+What makes Oregon’s Adventure Coast a runner’s paradise? For starters, there’s some storied running history here. Coos Bay is the birthplace of [Steve Prefontaine](/steve-prefontaine-story), possibly one of the best distance runners ever. It was here that Pre gained his love for running, where he honed his skills and where he trained to race himself to the top of the pack.
 
 Oregon’s Adventure Coast is also home to unparalleled terrain for running – think ocean views, forested mountains, charming neighborhoods and parks galore. Looking for a scenic easy loop with Pacific Ocean vistas? We’ve got that. A longer, more challenging run to get you up to speed for the annual 10K Prefontaine Memorial Run? No problem. How about a weekly run with a group of friendly folks who love to get out and active with like-minded runners. With the <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/">South Coast Running Club</a>, we’ve got that too.&nbsp;
 
@@ -32,9 +30,7 @@ Oregon’s Adventure Coast is a fantastic place to get your running miles in. Yo
 
 **Overview:** This friendly running club hosts weekly group runs on Wednesday evenings and Thursday mornings in Coos Bay. They also put on runs throughout the year, including the Firecracker Run on July Fourth, Circle the Bay in August and a Turkey Trot at Thanksgiving. <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">Visit their calendar for all the details.</a>
 
-#### Prefontaine Memorial Run
 
-Held in September in honor of Coos Bay’s hometown hero Steve Prefontaine, this annual run is a rolling and challenging 10k road race that also features a 2-mile walk.&nbsp;
 
 #### Roseburg to Coos Bay Relay
 
@@ -46,15 +42,17 @@ Fans of renowned Coos Bay long distance runner [Steve Prefontain](/steve-prefont
 
 {{< spacer 40 >}}
 
+
 ![Circle the Bay Run](/img/circle-the-bay-695x125.jpg)
 
 ### Circle the Bay
 
 **August \| 30K (18 Miles) 3-Person Relay or 1-Person Run**
 
-Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque naturion nis natus enem voluptat. Dant fugiatur alibus dolorio omnihiciis nonsequas dolores equatquunt rehent repella borpore ntemoditaquo volorem idicaepudici con pero et exceprovit laboreh enderovidunt porent qui torem aut latur? Rum quis etur aute pelignimet dolorepudam lacerest ut aut offictur, conse nusam aut laboreped mollabo. [Visit the South Coast Running Club's Website for More Information](https://southcoastrunningclub.org/circle-the-bay/)
+Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's Adventure Coast. Gather your running buddies and take on a scenic journey around the bay, passing the baton in this relay race of camaraderie and breathtaking views. From the crisp sea air to the coastal landscapes, this event encapsulates the essence of coastal Oregon's natural beauty, making it a must-run race for both locals and visitors.
 
 {{< spacer 40 >}}
+
 
 ![Sunset Bay Trail Run](/img/sunset-trail-run-695x125.jpg)
 
@@ -62,9 +60,12 @@ Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque n
 
 **September \| 1/2 Marathon, 15K, 4-Mile Trail Run, 1-Mile Beach Fun Run**
 
-Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque naturion nis natus enem voluptat. Dant fugiatur alibus dolorio omnihiciis nonsequas dolores equatquunt rehent repella borpore ntemoditaquo volorem idicaepudici con pero et exceprovit laboreh enderovidunt porent qui torem aut latur? Rum quis etur aute pelignimet dolorepudam lacerest ut aut offictur, conse nusam aut laboreped mollabo. [Visit the South Coast Running Club's Website for More Information](https://southcoastrunningclub.org/sunset-bay-trail-runs/)
+This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A very challenging course for the longer distances and the views will take what breath you have left away. &nbsp;Seriously, this race has it all, killer hills through the woods, an amazing mostly flat cliff section where you’ll see sea lions, ocean rocks, the deep blue sea, and if you’re very lucky, a passing whale.​
 
 {{< spacer 40 >}}
+
+
+
 
 ![Annual Prefontaine Memorial Run](/img/pre-memorial-run-695x125.jpg)
 
@@ -72,9 +73,12 @@ Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque n
 
 **September \| 5K, 10K, Fun Run & Wheelchair Run**
 
-Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque naturion nis natus enem voluptat. Dant fugiatur alibus dolorio omnihiciis nonsequas dolores equatquunt rehent repella borpore ntemoditaquo volorem idicaepudici con pero et exceprovit laboreh enderovidunt porent qui torem aut latur? Rum quis etur aute pelignimet dolorepudam lacerest ut aut offictur, conse nusam aut laboreped mollabo. [Visit our Event Page for More Information.](#)
+Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a race that pays homage to the legendary Steve Prefontaine. Held in the beautiful landscape of Oregon's Adventure Coast, this event invites athletes to honor Prefontaine's spirit and determination by pushing their own limits. Whether you're a seasoned runner or a novice, this race is an opportunity to channel your inner Prefontaine and embrace the passion for running that he inspired in so many. Join us in remembering a true icon of the sport and experience the thrill of running in his footsteps.
 
 {{< spacer 40 >}}
+
+
+
 
 ![Run Whiskey Run](/img/run-whiskey-run-695x125.jpg)
 
@@ -82,9 +86,12 @@ Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque n
 
 **October \| 1.5 Mile, 5 Mile or 10 Mile Trail Run**
 
-Taturiore volor ape cus, cus et moluptia cus maio. Nam, simoluptas doloreseque naturion nis natus enem voluptat. Dant fugiatur alibus dolorio omnihiciis nonsequas dolores equatquunt rehent repella borpore ntemoditaquo volorem idicaepudici con pero et exceprovit laboreh enderovidunt porent qui torem aut latur? Rum quis etur aute pelignimet dolorepudam lacerest ut aut offictur, conse nusam aut laboreped mollabo. [Visit the South Coast Running Club's Website for More Information.](https://southcoastrunningclub.org/run-whiskey-run/)
+
 
 {{< spacer 40 >}}
+
+
+
 
 ### BELOW - JUST FOR PLACEMENT FOR BUSINESS LISTINGS
 
@@ -113,3 +120,4 @@ Coos Bay, OR 97420
 Asana (a·sa·na) defined simply as a pose or position in yoga. House of Asana is home of the rebel yogi and fitness lover. We provide a range of classes from slow restorative yoga to fast paced power yoga classes. We also offer workshops, private sessions, and events! Most of our classes are heated with infrared lights. We offer an unpretentious and results-oriented community that’s invested in your goals and success. Our core values are grit, authenticity, community, and compassion.
 
 {{< /columns >}}
+
