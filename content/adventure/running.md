@@ -38,6 +38,16 @@ Fans of renowned Coos Bay long distance runner [Steve Prefontain](/steve-prefont
 
 Oregon's Adventure Coast offers an exhilarating experience for avid runners and outdoor enthusiasts. The rugged coastline, lush forests, and diverse terrain provide the perfect backdrop for challenging and scenic races. Participants can test their endurance on winding trails that meander through towering trees and embrace the refreshing coastal air.
 
+{{< spacer "40" >}}
+
+![](/img/roseburg-to-coos-bay-relay-695x125.jpg)
+
+### Roseburg to Coos Bay Relay
+
+**April \| 68 Mile Run or 24 Mile Walk**
+
+This is a beautiful course on quiet country roads along a river featuring waterfalls, big trees, and serious hills.&nbsp; This is a 68-mile, 5 person running team or 24-mile, 4 person walking team. Staggered start depending on predicted finishing time. &nbsp;The slowest running teams (or those who want to get more value for money) will start at 6AM. &nbsp;Runners start at KPIC-TV parking lot in Roseburg, walkers start in Laverne Park, Coquille. The race will finish at the Coos Bay History Museum.
+
 {{< spacer 40 >}}
 
 ![Circle the Bay Run](/img/circle-the-bay-695x125.jpg)
