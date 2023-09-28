@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Running on Oregon's Adventure Coast
-draft: true
+draft: false
 url: /running
 photo: /img/running-page-large-header.jpg
 seo:
