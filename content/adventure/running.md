@@ -34,7 +34,7 @@ This friendly running club hosts weekly group runs on Wednesday evenings and Thu
 
 Fans of renowned Coos Bay long distance runner [Steve Prefontain](/steve-prefontaine-story)e can check out a few attractions in the area related to him, including a bronze likeness of Pre at the Coos Bay Visitor Information Center, the Prefontaine Gallery at the Coos Art Museum, which showcases his awards and memorabilia, and the stunning Pre Mural in downtown Coos Bay.
 
-#### Short List of Races
+### Short List of Races
 
 Oregon's Adventure Coast offers an exhilarating experience for avid runners and outdoor enthusiasts. The rugged coastline, lush forests, and diverse terrain provide the perfect backdrop for challenging and scenic races. Participants can test their endurance on winding trails that meander through towering trees and embrace the refreshing coastal air.
 
@@ -52,11 +52,11 @@ Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's
 
 ![Sunset Bay Trail Run](/img/sunset-trail-run-695x125.jpg)
 
-### Sunset Bay Trail Run
+### Sunset Trail Run
 
 **September \| 1/2 Marathon, 15K, 4-Mile Trail Run, 1-Mile Beach Fun Run**
 
-This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A very challenging course for the longer distances and the views will take what breath you have left away. &nbsp;Seriously, this race has it all, killer hills through the woods, an amazing mostly flat cliff section where you’ll see sea lions, ocean rocks, the deep blue sea, and if you’re very lucky, a passing whale.​
+This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A very challenging course for the longer distances and the views will take what breath you have left away. &nbsp;Seriously, this race has it all, killer hills through the woods, an amazing mostly flat cliff section where you’ll see sea lions, ocean rocks, the deep blue sea, and if you’re very lucky, a passing whale.
 
 {{< spacer 40 >}}
 
@@ -80,7 +80,7 @@ If you have ever wanted to take to the trails at Whiskey Run, but not on a mount
 
 {{< spacer 40 >}}
 
-###Stride & Supply: Lace Up with Our Running Club and Gear Shop
+### Stride & Supply: Lace Up with Our Running Club and Gear Shop
 
 {{< columns number="2" >}}
 
