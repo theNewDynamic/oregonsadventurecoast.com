@@ -34,9 +34,19 @@ This friendly running club hosts weekly group runs on Wednesday evenings and Thu
 
 Fans of renowned Coos Bay long distance runner [Steve Prefontain](/steve-prefontaine-story)e can check out a few attractions in the area related to him, including a bronze likeness of Pre at the Coos Bay Visitor Information Center, the Prefontaine Gallery at the Coos Art Museum, which showcases his awards and memorabilia, and the stunning Pre Mural in downtown Coos Bay.
 
-#### Short List of Races
+### Short List of Races
 
 Oregon's Adventure Coast offers an exhilarating experience for avid runners and outdoor enthusiasts. The rugged coastline, lush forests, and diverse terrain provide the perfect backdrop for challenging and scenic races. Participants can test their endurance on winding trails that meander through towering trees and embrace the refreshing coastal air.
+
+{{< spacer "40" >}}
+
+![](/img/roseburg-to-coos-bay-relay-695x125.jpg)
+
+### Roseburg to Coos Bay Relay
+
+**April \| 68 Mile Run or 24 Mile Walk**
+
+This is a beautiful course on quiet country roads along a river featuring waterfalls, big trees, and serious hills.&nbsp; This is a 68-mile, 5 person running team or 24-mile, 4 person walking team. Staggered start depending on predicted finishing time. &nbsp;The slowest running teams (or those who want to get more value for money) will start at 6AM. &nbsp;Runners start at KPIC-TV parking lot in Roseburg, walkers start in Laverne Park, Coquille. The race will finish at the Coos Bay History Museum.
 
 {{< spacer 40 >}}
 
@@ -52,11 +62,11 @@ Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's
 
 ![Sunset Bay Trail Run](/img/sunset-trail-run-695x125.jpg)
 
-### Sunset Bay Trail Run
+### Sunset Trail Run
 
 **September \| 1/2 Marathon, 15K, 4-Mile Trail Run, 1-Mile Beach Fun Run**
 
-This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A very challenging course for the longer distances and the views will take what breath you have left away. &nbsp;Seriously, this race has it all, killer hills through the woods, an amazing mostly flat cliff section where you’ll see sea lions, ocean rocks, the deep blue sea, and if you’re very lucky, a passing whale.​
+This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A very challenging course for the longer distances and the views will take what breath you have left away. &nbsp;Seriously, this race has it all, killer hills through the woods, an amazing mostly flat cliff section where you’ll see sea lions, ocean rocks, the deep blue sea, and if you’re very lucky, a passing whale.
 
 {{< spacer 40 >}}
 
@@ -76,32 +86,35 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 
 **October \| 1.5 Mile, 5 Mile or 10 Mile Trail Run**
 
+If you have ever wanted to take to the trails at Whiskey Run, but not on a mountain bike, this is your chance! The South Coast Running Club invites runners for this one-of-a-kind run through our now famous, world-class, single-track mountain biking trail system - cordoned off specifically for runners for this race. Run this World-Class Single-Track Mountain Biking Trail - Rolling, Smooth, and Oh So Loamy!
+
 {{< spacer 40 >}}
 
-### BELOW - JUST FOR PLACEMENT FOR BUSINESS LISTINGS
+### Stride & Supply: Lace Up with Our Running Club and Gear Shop
 
 {{< columns number="2" >}}
 
-![Mossy Lotus Yoga & Forest Bathing](/img/mossy-lotus-345x220.jpg)
+![south coast running club logo](/img/southcoast-running-club-logo.jpg)
 
-**Mossy Lotus**
-158 Market Avenue
-Coos Bay, OR 97420
-(541) 217-0400
-[mossylotus.com](https://mossylotus.com/ "https://mossylotus.com/")
+**South Coast Running Club**
+PO Box 1001
+Coos Bay, OR US 97420
+Phone: 541-260-3298
+[southcoastrunningclub.org](https://southcoastrunningclub.org "https://southcoastrunningclub.org")
 
-With over 20 years of combined experience as field biologists and 30+ practicing yoga, we have both spent thousands of hours in heartfelt connection with Mother Nature and learning and teaching the full practices of yoga to all levels of students. This land, this rugged, wild earth is our inspiration. It is our passion for living in balance with nature that drives us.
+Founded in the early 1970’s, we are a volunteer based, non-profit  club. We are a member of the Road Runners Clubs of America, as well as an active participant in our local community. We organize 10-12 annual low cost events with attendance of 50-500 people, and pride ourselves with welcoming all to participate. We maintain an annual memorial scholarship to the high-school and college youth in our community and many of our events support a local charity.
 
 divider
 
-![House of Asana - Yoga & Classes](/img/house-of-asana-345x220.jpg)
+![Wild Coast Running Co.](/img/wild-coast-running.jpg)
 
-**House of Asana**
-180 Central Avenue
-Coos Bay, OR 97420
-(541) 252-2434
-[www.houseofasana.com](https://www.houseofasana.com/ "https://www.houseofasana.com/")
+**Wild Coast Running Co.**
+145 S. Broadway
+Coos Bay, 97420
+(541) 808-9700
+[wildcoastrunning.com](https://www.wildcoastrunning.com "https://www.wildcoastrunning.com")
 
-Asana (a·sa·na) defined simply as a pose or position in yoga. House of Asana is home of the rebel yogi and fitness lover. We provide a range of classes from slow restorative yoga to fast paced power yoga classes. We also offer workshops, private sessions, and events! Most of our classes are heated with infrared lights. We offer an unpretentious and results-oriented community that’s invested in your goals and success. Our core values are grit, authenticity, community, and compassion.
+Established in 2020, Wild Coast Running Company is local to the Southern Oregon Coast, specializing in providing quality athletic/running shoes, apparel, and accessories. Not a runner, not a problem.  We serve those who stand on concrete all day, have mobility issues, or enjoy activities such as cross-training, walking or hiking. We also are avid community members, coaches, volunteers, and runners. We enjoy serving you wherever you are in your fitness journey.
+
 
 {{< /columns >}}
