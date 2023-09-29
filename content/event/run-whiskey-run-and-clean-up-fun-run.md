@@ -2,7 +2,7 @@
 _schema: default
 title: Run Whiskey Run and Clean Up Fun Run
 startdate: '2023-10-07'
-enddate: '2023-10-08'
+enddate: '2023-10-07'
 address:
   city: Charleson
   state:
