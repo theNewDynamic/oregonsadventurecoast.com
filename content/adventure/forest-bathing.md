@@ -1,15 +1,13 @@
 ---
+_schema: default
 title: Forest Bathing & Mindfulness
-url: "/forest-bathing"
-photo: "/img/forest-bathing-page-header.jpg"
+url: /forest-bathing
+photo: /img/forest-bathing-page-header.jpg
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
-
 ---
 ![two people in forest holding arms up celebrating the sun and nature](/img/forest-bathing-hero-main-image.jpg)
 
@@ -55,10 +53,10 @@ Bring a picnic lunch or have a healthy dinner at one of our Farm to Table eateri
 
 ![](/img/charlo-mindfulness-center.jpg)
 
-**Charlo Mindfulness Center**  
-1260 N. Bayshore Drive, Suite 204  
-Coos Bay, OR 97420  
-(541) 808-2008  
+**Charlo Mindfulness Center**
+1260 N. Bayshore Drive, Suite 204
+Coos Bay, OR 97420
+(541) 808-2008
 [charlomindfulness.com](http://charlomindfulness.com/)
 
 The Center provides Vinyasa yoga classes, mindfulness courses, personalized coaching, and creative writing workshops in addition to special events that celebrate the pursuit of creative and mindful connections. All classes are developed to meet the needs of the students present in the class. You do not need any experience or prior classes in order to participate.
@@ -67,10 +65,10 @@ divider
 
 ![downtown health & fitness in coos bay, oregon](/img/downtown-fitness-center.jpg)
 
-**Downtown Health & Fitness**  
-440 Central Avenue  
-Coos Bay, OR 97420  
-(541) 267-3948  
+**Downtown Health & Fitness**
+440 Central Avenue
+Coos Bay, OR 97420
+(541) 267-3948
 [www.dhfitness.net](https://www.dhfitness.net/ "https://www.dhfitness.net/")
 
 Downtown Health and Fitness aims to provide a clean, safe, and helpful environment. Offering a variety of group fitness classes, including yoga, chair yoga and gentle yoga, these classes are designed to accommodate all ages and fitness levels. The facility includes dressing rooms with lockers and showers. All areas are handicap accessible.
@@ -79,31 +77,19 @@ Downtown Health and Fitness aims to provide a clean, safe, and helpful environme
 
 {{< spacer 20 >}}
 
-{{< columns number="2" >}}
+{{< columns number="2" >}}![House of Asana - Yoga &amp; Classes](/img/house-of-asana-345x220.jpg)
 
-![House of Asana - Yoga & Classes](/img/house-of-asana-345x220.jpg)
-
-**House of Asana**  
-180 Central Avenue  
-Coos Bay, OR 97420  
-(541) 252-2434  
-[www.houseofasana.com](https://www.houseofasana.com/ "https://www.houseofasana.com/")
+**House of Asana**<br>180 Central Avenue<br>Coos Bay, OR 97420<br>(541) 252-2434<br>[www.houseofasana.com](https://www.houseofasana.com/ "https://www.houseofasana.com/")
 
 House of Asana is home of a rebel yogi and fitness lover. They provide a range of classes from slow restorative yoga to fast-paced power yoga classes. Most of the classes are heated with infrared lights. They offer an unpretentious and results-oriented community that’s invested in your goals and success. Their core values are grit, authenticity, community, and compassion.
 
 divider
 
-![Mossy Lotus Yoga & Forest Bathing](/img/mossy-lotus-345x220.jpg)
+![Mossy Lotus Yoga &amp; Forest Bathing](/img/mossy-lotus-345x220.jpg)
 
-**Mossy Lotus**  
-158 Market Avenue  
-Coos Bay, OR 97420  
-(541) 217-0400  
-[www.mossyyoga.com](https://mossyyoga.com/)
+**Mossy Lotus**<br>Coos Bay, OR 97420<br>(541) 217-0400<br>[www.mossyyoga.com](https://mossyyoga.com/)
 
-With over 20 years of combined experience as field biologists and 30+ years practicing yoga, Daniel and Sailee have both spent thousands of hours in heartfelt connection with Mother Nature and learning and teaching the full practices of yoga to all levels of students. This land, this rugged, wild earth is their inspiration. It is their passion for living in balance with nature that drives them.
-
-{{< /columns >}}
+With over 20 years of combined experience as field biologists and 30+ years practicing yoga, Daniel and Sailee have both spent thousands of hours in heartfelt connection with Mother Nature and learning and teaching the full practices of yoga to all levels of students. This land, this rugged, wild earth is their inspiration. It is their passion for living in balance with nature that drives them.{{< /columns >}}
 
 {{< spacer 40 >}}
 
@@ -115,10 +101,10 @@ With over 20 years of combined experience as field biologists and 30+ years prac
 
 ![Beautiful You - Medical Spa](/img/beautiful-you-spa.jpg)
 
-**Beautiful You - Medical Spa**  
-1280 N Bayshore Dr. Suite 101  
-Coos Bay, OR, 97420  
-(541) 297-7546  
+**Beautiful You - Medical Spa**
+1280 N Bayshore Dr. Suite 101
+Coos Bay, OR, 97420
+(541) 297-7546
 [www.beautifulyou-pnw.com](https://www.beautifulyou-pnw.com/)
 
 Beautiful You is a Medi Spa, which is a combination of an aesthetic medical center and a day spa that provides nonsurgical aesthetic medical services under the supervision of a licensed physician.
@@ -127,10 +113,10 @@ divider
 
 ![Hair Co. Etc. Salon & Day Spa woman getting massage](/img/hair-inc-etc-345x220.jpg)
 
-**Hair Co. Etc. - Salon & Day Spa**  
-275 Golden Avenue  
-Coos Bay, OR 97420  
-(541) 269-5223  
+**Hair Co. Etc. - Salon & Day Spa**
+275 Golden Avenue
+Coos Bay, OR 97420
+(541) 269-5223
 [haircoetc.net](https://haircoetc.net/ "https://haircoetc.net/")
 
 Hair Co. Etc Salon & Day Spa offers Hair Treatments, Nail Treatments, Massage and Body Treatments in downtown Coos Bay on the beautiful Southern Oregon Coast.
