@@ -35,9 +35,11 @@ If you’re planning to visit Oregon’s Adventure Coast: Coos Bay, North Bend, 
 
 ### BIG EVENTS PLANNED ON OREGON'S ADVENTURE COAST!
 
-Watch the Ring of Fire Eclipse from the cliffs of the jewel of the Oregon Coast, **Shore Acres State Park**! Rangers and astronomy educators from around the state will have telescopes set up to look at the sun and sunspots. These telescopes use specialized filters so we can look at the sun safely – remember, \*\*never \*\*look directly at the sun.<br>**Time:** 8am (Eclipse begins at 8:04, is at it's peak at 9:18, ends at 10:38)<br>**Parking:**&nbsp;$5 parking fee (or annual State Park Pass or Coastal Passport)<br>**Event Cost:** Free!
+Watch the Ring of Fire Eclipse from the cliffs of the jewel of the Oregon Coast, **Shore Acres State Park**! Rangers and astronomy educators from around the state will have telescopes set up to look at the sun and sunspots. These telescopes use specialized filters so we can look at the sun safely – remember, **never look directly at the sun**.<br>**Time:** 8am (Eclipse begins at 8:04, is at it's peak at 9:18, ends at 10:38)<br>**Parking:**&nbsp;$5 parking fee (or annual State Park Pass or Coastal Passport)<br>**Event Cost:** Free!
 
-Gather in **downtown North Bend for an Eclipse Viewing Block Party**! Complete with food trucks, craft vendors, music and Eclipse glasses. <a target="_blank" rel="noopener" href="https://www.facebook.com/events/s/-north-bend-ring-of-fire-revel/210623472015685/?mibextid=RQdjqZ">Check this link for Block Party location and details!</a>
+Gather in **downtown North Bend for an Eclipse Viewing Block Party**! From 8am to 4pm, enjoy continuous live music, face painting, chainsaw carving, dancing and more! Complete with food trucks, craft vendors, music, and Eclipse glasses. <a target="_blank" rel="noopener" href="https://www.northbendoregon.us//newsview.aspx?nid=7642">Check this link for Block Party location and details!</a>
+
+The **Coos History Museum** is hosting a Watch Party from 7:30am to 5pm with STEM activities planned throughout the day! Refreshments and the Museums exclusive Apollo 14 collection will be highlights of the day. Regular admission to enter the museum, with Free access to the viewing party and explorer's club.
 
 *{{< spacer "25" >}}*
 
