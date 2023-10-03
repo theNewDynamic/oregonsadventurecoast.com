@@ -112,7 +112,7 @@ Downtown North Bend will be the place to be on Saturday, December 2nd to get ful
 * 11:00am-3:00pm - **Ice Skating** on North Bend's Famous Ice Skating Rink! FREE
 * 1:00pm-3:00pm - **Christmas on Main Street** in downtown North Bend - look for the mischievous Elf on the Shelf in participating businesses and enter to win Free Tickets to the Ice Skating Rink, North Bend's Winter Attraction!
 * 3:00pm-5:00pm - **Holiday Block Party** in the Festival Tent near City Hall
-* 5:00pm - **Annual North Bend Tree Lighting** in Grants Circle Roundabout outside City Hall *(Note: new location this year in downtown North Bend)*
+* 5:00pm - **Annual North Bend Tree Lighting** in Grants Circle Roundabout outside City Hall&nbsp;
 * 5:30pm-6:30pm - **Meet Santa!** in the Festival Tent near City Hall
 * 6:30pm-7:00pm - **Lighted Truck Parade** cruises through downtown and midtown North Bend. *(Note:* [*Click here*](/img/NBLightedTruckRoute.pdf) *to see the new route for parade, which follows the July Jubilee parade route)*
 
