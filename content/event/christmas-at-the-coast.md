@@ -105,7 +105,7 @@ The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, 
 
 #### Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade!
 
-Downtown North Bend will be the place to be on Saturday, December 3rd to get fully into the Holiday Spirit! Events begin at 9am and go all the way until 7pm! There is something for everyone throughout the day.
+Downtown North Bend will be the place to be on Saturday, December 2nd to get fully into the Holiday Spirit! Events begin at 9am and go all the way until 7pm! There is something for everyone throughout the day.
 
 * 9:00am-11:00am - **Waffles with Santa!** at the North Bend Fire Station - [Reserve Your Time](https://www.eventbrite.com/e/waffles-with-santa-tickets-464666488977) - this event is FREE but only 50 children (with guardians) can attend per time slot. Time slots are 9:00am, 9:30am, 10:00am and 10:30am.
 * 10:00am - Noon - **Storytime with Mrs. Claus** at the North Bend Public Library - Mrs. Claus will conduct two identical storytimes at 10am and 11am! After Storytime, children can write letters to Santa and make "magic" reindeer food! The event is FREE and has a capacity of 100 per session.
