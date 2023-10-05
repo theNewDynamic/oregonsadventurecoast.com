@@ -169,11 +169,11 @@ Take a vacation to Oregon’s Adventure Coast, where the land meets the bay and 
 
 ## Discover Outdoor Activities, Shopping, & Events on the Oregon Coast
 
-We invite you to explore, to discover, to feel, and to know the incredible adventures waiting for you when you choose to take a trip to the coast. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do, full of adventure, nature, wildlife, culture, arts, shopping, and athletics. {{< spacer 20 >}}
+We invite you to explore, to discover, to feel, and to know the incredible adventures waiting for you when you choose to take a trip to the coast. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do, full of adventure, nature, wildlife, culture, arts, shopping, and athletics.
 
 {{< spacer 30 >}}
 
-
+## Discover
 
 {{< spacer 30 >}}
 
