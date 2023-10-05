@@ -25,4 +25,4 @@ You can pick accommodations on the Oregon Coast that will suit your needs and pr
 
 **{{< spacer "30" >}}**
 
-[![](/img/fall-15-special-2048x190-10-23-1.jpg)](/fall15)
+<div style="width:100%"><a href="/fall15"><img src="/img/fall-15-special-2048x190-10-23-1.jpg" alt="15% Off Fall Lodging Special in Coos Bay, North Bend, Charleston" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
