@@ -25,4 +25,4 @@ You can pick accommodations on the Oregon Coast that will suit your needs and pr
 
 **{{< spacer "30" >}}**
 
-<div> </div>
+[![](/img/fall-15-special-2048x190-10-23-1.jpg)](/fall15)
