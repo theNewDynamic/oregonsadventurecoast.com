@@ -27,6 +27,8 @@ To help you get started discovering our exciting and exhilarating adventures, we
 
 Contact Oregon’s Adventure Coast with any questions you may have about things to do on your vacation!!
 
+{{< spacer "30" >}}
 
+[![](/img/fall-15-special-695x120-10-23.jpg)](/fall15)
 
 {{< spacer 50 >}}
