@@ -173,7 +173,7 @@ We invite you to explore, to discover, to feel, and to know the incredible adven
 
 {{< spacer 30 >}}
 
-## Discover
+## [![](/img/fall-15-special-2048x190-10-23.jpg)](/fall15)
 
 {{< spacer 30 >}}
 
