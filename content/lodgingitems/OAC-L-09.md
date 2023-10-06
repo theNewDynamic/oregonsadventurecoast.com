@@ -2,10 +2,10 @@
 _schema: default
 title: Motel 6
 property_description: >-
-  Located on Hwy 101 in Coos Bay, Motel 6 offers a variety of modern rooms with
-  in-room spa tubs, kitchenettes, & free wifi. Within 5 miles of shopping,
-  dining & entertainment in both Coos Bay and North Bend. Motel 6: Save more for
-  what you travel for®
+  Located on Hwy 101 in Coos Bay, Motel 6 offers a variety of modern rooms, some
+  with in-room spa tubs. Free Wi-Fi is available in all of their smoke-free
+  guest rooms. Within 2 miles of shopping, dining & entertainment in both Coos
+  Bay and North Bend. Motel 6: Save more for what you travel for®
 photo_name: /img/Motel-6-CB.jpg
 photo_alt: Motel 6 in Coos Bay, OR
 units: '94'
