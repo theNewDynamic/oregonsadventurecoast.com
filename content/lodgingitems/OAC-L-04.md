@@ -24,6 +24,7 @@ address:
   zip: '97420'
 phone_local: 541-888-1178
 phone_toll_free: 877-888-1178
+website: https://www.facebook.com/charlestonharborinnkeeperin
 coordinates:
   lat: '43.342368'
   lng: '-124.326470'
