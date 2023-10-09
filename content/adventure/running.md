@@ -30,6 +30,8 @@ We have collected some of our favorite runs to share with you - different length
 
 Fans of renowned Coos Bay long distance runner [Steve Prefontaine](/steve-prefontaine-story)&nbsp;can check out a few attractions in the area related to him, including a bronze likeness of Pre at the Coos Bay Visitor Information Center, the Prefontaine Gallery at the Coos Art Museum, which showcases his awards and memorabilia, and the stunning Pre Mural in downtown Coos Bay.
 
+![Steve Prefontaine Murals in downtown coos bay, oregon](/img/prefontaine-mural-downtown-coos-bay.jpg)
+
 ### Short List of Races
 
 Oregon's Adventure Coast offers an exhilarating experience for avid runners and outdoor enthusiasts. The rugged coastline, lush forests, and diverse terrain provide the perfect backdrop for challenging and scenic races. Participants can test their endurance on winding trails that meander through towering trees and embrace the refreshing coastal air.
@@ -78,6 +80,8 @@ This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A ver
 
 Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a race that pays homage to the legendary Steve Prefontaine. Held in the beautiful landscape of Oregon's Adventure Coast, this event invites athletes to honor Prefontaine's spirit and determination by pushing their own limits. Whether you're a seasoned runner or a novice, this race is an opportunity to channel your inner Prefontaine and embrace the passion for running that he inspired in so many. Join us in remembering a true icon of the sport and experience the thrill of running in his footsteps.
 
+![Prefontaine Memorial Run Every September in Coos Bay, Oregon](/img/prefontaine-memorial-run.jpg)
+
 {{< spacer 40 >}}
 
 ![Run Whiskey Run](/img/run-whiskey-run-695x125.jpg)
@@ -88,6 +92,8 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 
 If you have ever wanted to take to the trails at Whiskey Run, but not on a mountain bike, this is your chance! The South Coast Running Club invites runners for this one-of-a-kind run through our now famous, world-class, single-track mountain biking trail system - cordoned off specifically for runners for this race. Run this World-Class Single-Track Mountain Biking Trail - Rolling, Smooth, and Oh So Loamy!
 
+![Run Whiskey Run on the famous Mountain Biking Trails every Fall](/img/run-whiskey-run-background-logo.jpg)
+
 {{< spacer 40 >}}
 
 ### Stride & Supply: Lace Up with Our Running Club and Gear Shop
@@ -96,7 +102,7 @@ If you have ever wanted to take to the trails at Whiskey Run, but not on a mount
 
 **South Coast Running Club**<br>PO Box 1001<br>Coos Bay, OR US 97420<br>Phone: 541-260-3298<br>[southcoastrunningclub.org](https://southcoastrunningclub.org "https://southcoastrunningclub.org")
 
-Founded in the early 1970’s, we are a volunteer based, non-profit&nbsp; club. We are a member of the Road Runners Clubs of America, as well as an active participant in our local community. We organize 10-12 annual low cost events with attendance of 50-500 people, and pride ourselves with welcoming all to participate. We maintain an annual memorial scholarship to the high-school and college youth in our community and many of our events support a local charity.&nbsp;<a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">Visit their calendar for all the details.</a>
+Founded in the early 1970’s, SCRC is a volunteer based, non-profit club. They are a member of the Road Runners Clubs of America, as well as an active participant in their local community. They organize 10-12 annual low cost events with attendance of 50-500 people, and pride themselves with welcoming all to participate. They maintain an annual memorial scholarship to the high-school and college youth in our community and many of their events support a local charity.&nbsp;<a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">Visit their calendar for all the details.</a>
 
 divider
 
@@ -104,4 +110,4 @@ divider
 
 **Wild Coast Running Co.**<br>145 S. Broadway<br>Coos Bay, 97420<br>(541) 808-9700<br>[wildcoastrunning.com](https://www.wildcoastrunning.com "https://www.wildcoastrunning.com")
 
-Established in 2020, Wild Coast Running Company is local to the Southern Oregon Coast, specializing in providing quality athletic/running shoes, apparel, and accessories. Not a runner, not a problem.&nbsp; We serve those who stand on concrete all day, have mobility issues, or enjoy activities such as cross-training, walking or hiking. We also are avid community members, coaches, volunteers, and runners. We enjoy serving you wherever you are in your fitness journey.{{< /columns >}}
+Established in 2020, Wild Coast Running Company is local to the Southern Oregon Coast, specializing in providing quality athletic/running shoes, apparel, and accessories. Not a runner, not a problem. They serve those who stand on concrete all day, have mobility issues, or enjoy activities such as cross-training, walking or hiking. They also are avid community members, coaches, volunteers, and runners. They enjoy serving you wherever you are in your fitness journey.{{< /columns >}}
