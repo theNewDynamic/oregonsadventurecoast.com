@@ -20,7 +20,7 @@ Oregon’s Adventure Coast is also home to unparalleled terrain for running – 
 
 ### A run for everyone
 
-Oregon’s Adventure Coast is a fantastic place to get your running miles in. You can hit the pavement in downtown Coos Bay, tread the trails from Sunset Bay to Cape Arago, jog lightly around the peaceful shores of Lower Empire Lake or jump into any number of annual organized runs. Some favorite routes, runs and groups include:
+Oregon’s Adventure Coast is a fantastic place to get your running miles in. You can hit the pavement in downtown Coos Bay, tread the trails from Sunset Bay to Cape Arago jog lightly around the peaceful shores of Lower Empire Lake or jump into any number of annual organized runs. Some favorite routes, runs and groups include:
 
 #### Favorite Runs Mapped Out&nbsp;
 
@@ -30,13 +30,14 @@ We have collected some of our favorite runs to share with you - different length
 
 Fans of renowned Coos Bay long distance runner [Steve Prefontaine](/steve-prefontaine-story)&nbsp;can check out a few attractions in the area related to him, including a bronze likeness of Pre at the Coos Bay Visitor Information Center, the Prefontaine Gallery at the Coos Art Museum, which showcases his awards and memorabilia, and the stunning Pre Mural in downtown Coos Bay.
 
-![Steve Prefontaine Murals in downtown coos bay, oregon](/img/prefontaine-mural-downtown-coos-bay.jpg)
+![Steve Prefontaine Murals in downtown coos bay, oregon](blob:https://app.cloudcannon.com/54413442-d6c5-4929-8e92-4c5204d5f3c9)
 
 ### Short List of Races
 
 Oregon's Adventure Coast offers an exhilarating experience for avid runners and outdoor enthusiasts. The rugged coastline, lush forests, and diverse terrain provide the perfect backdrop for challenging and scenic races. Participants can test their endurance on winding trails that meander through towering trees and embrace the refreshing coastal air.
 
-{{< spacer "40" >}}
+{{< spacer "60" >}}
+
 
 ![](/img/roseburg-to-coos-bay-relay-695x125.jpg)
 
@@ -46,9 +47,10 @@ Oregon's Adventure Coast offers an exhilarating experience for avid runners and 
 
 This is a beautiful course on quiet country roads along a river featuring waterfalls, big trees, and serious hills.&nbsp; This is a 68-mile, 5 person running team or 24-mile, 4 person walking team. Staggered start depending on predicted finishing time. &nbsp;The slowest running teams (or those who want to get more value for money) will start at 6AM. &nbsp;Runners start at KPIC-TV parking lot in Roseburg, walkers start in Laverne Park, Coquille. The race will finish at the Coos Bay History Museum.
 
-{{< spacer 40 >}}
+{{< spacer 60 >}}
 
-![Circle the Bay Run](/img/circle-the-bay-695x125.jpg)
+
+![Circle the Bay Relay or Individual 30K](/img/circle-the-bay-header.jpg)
 
 ### Circle the Bay
 
@@ -58,11 +60,14 @@ Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's
 
 {{< spacer "30" >}}
 
+
 {{< youtube id="40ZZUerWZbk?si=ikC57lLjDUbZzo16" title="Circle the Bay 30K Team or Individual Run" >}}
 
-{{< spacer 40 >}}
+{{< spacer 60 >}}
 
-![Sunset Bay Trail Run](/img/sunset-trail-run-695x125.jpg)
+
+
+![](/img/sunset-trail-run-header.jpg)
 
 ### Sunset Trail Run
 
@@ -70,9 +75,11 @@ Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's
 
 This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A very challenging course for the longer distances and the views will take what breath you have left away. &nbsp;Seriously, this race has it all, killer hills through the woods, an amazing mostly flat cliff section where you’ll see sea lions, ocean rocks, the deep blue sea, and if you’re very lucky, a passing whale.
 
-{{< spacer 40 >}}
+{{< spacer 60 >}}
 
-![Annual Prefontaine Memorial Run](/img/pre-memorial-run-695x125.jpg)
+
+
+![Prefontaine Memorial Run Every September in Coos Bay, Oregon](/img/pre-memorial-run-header.jpg)
 
 ### Annual Prefontaine Memorial Run
 
@@ -80,11 +87,13 @@ This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A ver
 
 Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a race that pays homage to the legendary Steve Prefontaine. Held in the beautiful landscape of Oregon's Adventure Coast, this event invites athletes to honor Prefontaine's spirit and determination by pushing their own limits. Whether you're a seasoned runner or a novice, this race is an opportunity to channel your inner Prefontaine and embrace the passion for running that he inspired in so many. Join us in remembering a true icon of the sport and experience the thrill of running in his footsteps.
 
-![Prefontaine Memorial Run Every September in Coos Bay, Oregon](/img/prefontaine-memorial-run.jpg)
 
-{{< spacer 40 >}}
 
-![Run Whiskey Run](/img/run-whiskey-run-695x125.jpg)
+{{< spacer 60 >}}
+
+
+
+![Run Whiskey Run on the famous Mountain Biking Trails every Fall](/img/run-whiskey-run-header.jpg)
 
 ### Run Whiskey Run
 
@@ -92,9 +101,9 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 
 If you have ever wanted to take to the trails at Whiskey Run, but not on a mountain bike, this is your chance! The South Coast Running Club invites runners for this one-of-a-kind run through our now famous, world-class, single-track mountain biking trail system - cordoned off specifically for runners for this race. Run this World-Class Single-Track Mountain Biking Trail - Rolling, Smooth, and Oh So Loamy!
 
-![Run Whiskey Run on the famous Mountain Biking Trails every Fall](/img/run-whiskey-run-background-logo.jpg)
+{{< spacer 60 >}}
 
-{{< spacer 40 >}}
+
 
 ### Stride & Supply: Lace Up with Our Running Club and Gear Shop
 
