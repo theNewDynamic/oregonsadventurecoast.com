@@ -10,9 +10,7 @@ seo:
   imgalt: ''
   image: ''
 ---
-![](/img/running-subpage-header-695x322.jpg)
-
-Run away on Oregon’s Adventure Coast – the perfect place to lace up your shoes and hit the pavement, trail or sand.
+![](/img/running-subpage-header-695x322.jpg)Run away on Oregon’s Adventure Coast – the perfect place to lace up your shoes and hit the pavement, trail or sand.
 
 What makes Oregon’s Adventure Coast a runner’s paradise? For starters, there’s some storied running history here. Coos Bay is the birthplace of [Steve Prefontaine](/steve-prefontaine-story), possibly one of the best distance runners ever. It was here that Pre gained his love for running, where he honed his skills and where he trained to race himself to the top of the pack.
 
@@ -30,7 +28,7 @@ We have collected some of our favorite runs to share with you - different length
 
 Fans of renowned Coos Bay long distance runner [Steve Prefontaine](/steve-prefontaine-story)&nbsp;can check out a few attractions in the area related to him, including a bronze likeness of Pre at the Coos Bay Visitor Information Center, the Prefontaine Gallery at the Coos Art Museum, which showcases his awards and memorabilia, and the stunning Pre Mural in downtown Coos Bay.
 
-![Steve Prefontaine Murals in downtown coos bay, oregon](blob:https://app.cloudcannon.com/54413442-d6c5-4929-8e92-4c5204d5f3c9)
+![](/img/prefontaine-mural-downtown-coos-bay-1.jpg)
 
 ### Short List of Races
 
@@ -38,7 +36,7 @@ Oregon's Adventure Coast offers an exhilarating experience for avid runners and 
 
 {{< spacer "60" >}}
 
-![](/img/roseburg-to-coosbay-run-header.jpg)
+![](blob:https://app.cloudcannon.com/877bfca5-f670-49ef-a0c0-0cbccbc33d90)
 
 ### Roseburg to Coos Bay Relay
 
@@ -48,7 +46,7 @@ This is a beautiful course on quiet country roads along a river featuring waterf
 
 {{< spacer 60 >}}
 
-### ![](/img/circle-the-bay-header-1.jpg)
+### ![](blob:https://app.cloudcannon.com/b26f1559-0364-4f09-8e88-5c7f8fd03b0b)
 
 ### Circle the Bay
 
@@ -62,7 +60,7 @@ Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's
 
 {{< spacer 60 >}}
 
-![](/img/sunset-trail-run-header-1.jpg)![](/img/sunset-trail-run-header.jpg)
+![](blob:https://app.cloudcannon.com/81561eee-e34c-4348-9fb0-464764880743)![](/img/sunset-trail-run-header.jpg)
 
 ### Sunset Trail Run
 
@@ -72,7 +70,7 @@ This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A ver
 
 {{< spacer 60 >}}
 
-![](/img/pre-memorial-run-header-1.jpg)
+![](blob:https://app.cloudcannon.com/4f407264-0398-45c1-a754-29e4fc07da3f)
 
 ### Annual Prefontaine Memorial Run
 
@@ -82,7 +80,7 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 
 {{< spacer 60 >}}
 
-![](/img/run-whiskey-run-header-1.jpg)
+![](blob:https://app.cloudcannon.com/e5d3b239-7814-4d9d-854f-f37fd76377fd)
 
 ### Run Whiskey Run
 
