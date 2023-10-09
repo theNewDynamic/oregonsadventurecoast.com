@@ -28,7 +28,7 @@ We have collected some of our favorite runs to share with you - different length
 
 #### South Coast Running Club
 
-This friendly running club hosts weekly group runs on Wednesday evenings and Thursday mornings in Coos Bay. They also put on runs throughout the year, including the Firecracker Run on July Fourth, Circle the Bay in August and a Turkey Trot at Thanksgiving. <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">Visit their calendar for all the details.</a>
+This friendly running club hosts weekly group runs on Wednesday evenings and Thursday mornings in Coos Bay. They also put on runs throughout the year, including the Firecracker Run on July Fourth, Circle the Bay in August and a Turkey Trot at Thanksgiving.
 
 #### Running with Pre
 
@@ -92,29 +92,16 @@ If you have ever wanted to take to the trails at Whiskey Run, but not on a mount
 
 ### Stride & Supply: Lace Up with Our Running Club and Gear Shop
 
-{{< columns number="2" >}}
+{{< columns number="2" >}}![south coast running club logo](/img/southcoast-running-club-logo.jpg)
 
-![south coast running club logo](/img/southcoast-running-club-logo.jpg)
+**South Coast Running Club**<br>PO Box 1001<br>Coos Bay, OR US 97420<br>Phone: 541-260-3298<br>[southcoastrunningclub.org](https://southcoastrunningclub.org "https://southcoastrunningclub.org")
 
-**South Coast Running Club**<br>
-PO Box 1001<br>
-Coos Bay, OR US 97420<br>
-Phone: 541-260-3298<br>
-[southcoastrunningclub.org](https://southcoastrunningclub.org "https://southcoastrunningclub.org")
-
-Founded in the early 1970’s, we are a volunteer based, non-profit  club. We are a member of the Road Runners Clubs of America, as well as an active participant in our local community. We organize 10-12 annual low cost events with attendance of 50-500 people, and pride ourselves with welcoming all to participate. We maintain an annual memorial scholarship to the high-school and college youth in our community and many of our events support a local charity.
+Founded in the early 1970’s, we are a volunteer based, non-profit&nbsp; club. We are a member of the Road Runners Clubs of America, as well as an active participant in our local community. We organize 10-12 annual low cost events with attendance of 50-500 people, and pride ourselves with welcoming all to participate. We maintain an annual memorial scholarship to the high-school and college youth in our community and many of our events support a local charity.&nbsp;<a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">Visit their calendar for all the details.</a>
 
 divider
 
 ![Wild Coast Running Co.](/img/wild-coast-running.jpg)
 
-**Wild Coast Running Co.**<br>
-145 S. Broadway<br>
-Coos Bay, 97420<br>
-(541) 808-9700<br>
-[wildcoastrunning.com](https://www.wildcoastrunning.com "https://www.wildcoastrunning.com")
+**Wild Coast Running Co.**<br>145 S. Broadway<br>Coos Bay, 97420<br>(541) 808-9700<br>[wildcoastrunning.com](https://www.wildcoastrunning.com "https://www.wildcoastrunning.com")
 
-Established in 2020, Wild Coast Running Company is local to the Southern Oregon Coast, specializing in providing quality athletic/running shoes, apparel, and accessories. Not a runner, not a problem.  We serve those who stand on concrete all day, have mobility issues, or enjoy activities such as cross-training, walking or hiking. We also are avid community members, coaches, volunteers, and runners. We enjoy serving you wherever you are in your fitness journey.
-
-
-{{< /columns >}}
+Established in 2020, Wild Coast Running Company is local to the Southern Oregon Coast, specializing in providing quality athletic/running shoes, apparel, and accessories. Not a runner, not a problem.&nbsp; We serve those who stand on concrete all day, have mobility issues, or enjoy activities such as cross-training, walking or hiking. We also are avid community members, coaches, volunteers, and runners. We enjoy serving you wherever you are in your fitness journey.{{< /columns >}}
