@@ -30,6 +30,8 @@ We have collected some of our favorite runs to share with you - different length
 
 Fans of renowned Coos Bay long distance runner [Steve Prefontaine](/steve-prefontaine-story)&nbsp;can check out a few attractions in the area related to him, including a bronze likeness of Pre at the Coos Bay Visitor Information Center, the Prefontaine Gallery at the Coos Art Museum, which showcases his awards and memorabilia, and the stunning Pre Mural in downtown Coos Bay.
 
+![Steve Prefontaine Murals in downtown coos bay, oregon](/img/prefontaine-mural-downtown-coos-bay.jpg)
+
 ### Short List of Races
 
 Oregon's Adventure Coast offers an exhilarating experience for avid runners and outdoor enthusiasts. The rugged coastline, lush forests, and diverse terrain provide the perfect backdrop for challenging and scenic races. Participants can test their endurance on winding trails that meander through towering trees and embrace the refreshing coastal air.
