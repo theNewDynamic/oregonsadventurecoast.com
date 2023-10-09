@@ -80,6 +80,8 @@ This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A ver
 
 Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a race that pays homage to the legendary Steve Prefontaine. Held in the beautiful landscape of Oregon's Adventure Coast, this event invites athletes to honor Prefontaine's spirit and determination by pushing their own limits. Whether you're a seasoned runner or a novice, this race is an opportunity to channel your inner Prefontaine and embrace the passion for running that he inspired in so many. Join us in remembering a true icon of the sport and experience the thrill of running in his footsteps.
 
+![Prefontaine Memorial Run Every September in Coos Bay, Oregon](/img/prefontaine-memorial-run.jpg)
+
 {{< spacer 40 >}}
 
 ![Run Whiskey Run](/img/run-whiskey-run-695x125.jpg)
@@ -89,6 +91,8 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 **October \| 1.5 Mile, 5 Mile or 10 Mile Trail Run**
 
 If you have ever wanted to take to the trails at Whiskey Run, but not on a mountain bike, this is your chance! The South Coast Running Club invites runners for this one-of-a-kind run through our now famous, world-class, single-track mountain biking trail system - cordoned off specifically for runners for this race. Run this World-Class Single-Track Mountain Biking Trail - Rolling, Smooth, and Oh So Loamy!
+
+![Run Whiskey Run on the famous Mountain Biking Trails every Fall](/img/run-whiskey-run-background-logo.jpg)
 
 {{< spacer 40 >}}
 
