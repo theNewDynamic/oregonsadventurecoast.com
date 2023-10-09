@@ -36,7 +36,7 @@ Fans of renowned Coos Bay long distance runner [Steve Prefontaine](/steve-prefon
 
 Oregon's Adventure Coast offers an exhilarating experience for avid runners and outdoor enthusiasts. The rugged coastline, lush forests, and diverse terrain provide the perfect backdrop for challenging and scenic races. Participants can test their endurance on winding trails that meander through towering trees and embrace the refreshing coastal air.
 
-{{< spacer "40" >}}
+{{< spacer "60" >}}
 
 ![](/img/roseburg-to-coos-bay-relay-695x125.jpg)
 
@@ -46,7 +46,7 @@ Oregon's Adventure Coast offers an exhilarating experience for avid runners and 
 
 This is a beautiful course on quiet country roads along a river featuring waterfalls, big trees, and serious hills.&nbsp; This is a 68-mile, 5 person running team or 24-mile, 4 person walking team. Staggered start depending on predicted finishing time. &nbsp;The slowest running teams (or those who want to get more value for money) will start at 6AM. &nbsp;Runners start at KPIC-TV parking lot in Roseburg, walkers start in Laverne Park, Coquille. The race will finish at the Coos Bay History Museum.
 
-{{< spacer 40 >}}
+{{< spacer 60 >}}
 
 ![Circle the Bay Run](/img/circle-the-bay-695x125.jpg)
 
@@ -60,7 +60,7 @@ Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's
 
 {{< youtube id="40ZZUerWZbk?si=ikC57lLjDUbZzo16" title="Circle the Bay 30K Team or Individual Run" >}}
 
-{{< spacer 40 >}}
+{{< spacer 60 >}}
 
 ![Sunset Bay Trail Run](/img/sunset-trail-run-695x125.jpg)
 
@@ -70,7 +70,7 @@ Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's
 
 This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A very challenging course for the longer distances and the views will take what breath you have left away. &nbsp;Seriously, this race has it all, killer hills through the woods, an amazing mostly flat cliff section where you’ll see sea lions, ocean rocks, the deep blue sea, and if you’re very lucky, a passing whale.
 
-{{< spacer 40 >}}
+{{< spacer 60 >}}
 
 ![Annual Prefontaine Memorial Run](/img/pre-memorial-run-695x125.jpg)
 
@@ -82,7 +82,7 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 
 ![Prefontaine Memorial Run Every September in Coos Bay, Oregon](blob:https://app.cloudcannon.com/ac26d247-5e26-4fcc-92c0-4761f02d1823)
 
-{{< spacer 40 >}}
+{{< spacer 60 >}}
 
 ![Run Whiskey Run](/img/run-whiskey-run-695x125.jpg)
 
@@ -94,7 +94,7 @@ If you have ever wanted to take to the trails at Whiskey Run, but not on a mount
 
 ![Run Whiskey Run on the famous Mountain Biking Trails every Fall](blob:https://app.cloudcannon.com/ac831ceb-df8d-41da-9f36-6adbf3ea9813)
 
-{{< spacer 40 >}}
+{{< spacer 60 >}}
 
 ### Stride & Supply: Lace Up with Our Running Club and Gear Shop
 
