@@ -38,11 +38,6 @@ Oregon's Adventure Coast offers an exhilarating experience for avid runners and 
 
 {{< spacer "60" >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">60</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
-
 
 ![](/img/roseburg-to-coos-bay-relay-695x125.jpg)
 
@@ -53,11 +48,6 @@ Oregon's Adventure Coast offers an exhilarating experience for avid runners and 
 This is a beautiful course on quiet country roads along a river featuring waterfalls, big trees, and serious hills.&nbsp; This is a 68-mile, 5 person running team or 24-mile, 4 person walking team. Staggered start depending on predicted finishing time. &nbsp;The slowest running teams (or those who want to get more value for money) will start at 6AM. &nbsp;Runners start at KPIC-TV parking lot in Roseburg, walkers start in Laverne Park, Coquille. The race will finish at the Coos Bay History Museum.
 
 {{< spacer 60 >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">60</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
 
 
 ![Circle the Bay Relay or Individual 30K](/img/circle-the-bay-header.jpg)
@@ -70,19 +60,10 @@ Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's
 
 {{< spacer "30" >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">30</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
-
 
 {{< youtube id="40ZZUerWZbk?si=ikC57lLjDUbZzo16" title="Circle the Bay 30K Team or Individual Run" >}}
 
 {{< spacer 60 >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">60</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
 
 
 
@@ -95,10 +76,6 @@ Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's
 This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A very challenging course for the longer distances and the views will take what breath you have left away. &nbsp;Seriously, this race has it all, killer hills through the woods, an amazing mostly flat cliff section where you’ll see sea lions, ocean rocks, the deep blue sea, and if you’re very lucky, a passing whale.
 
 {{< spacer 60 >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">60</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
 
 
 
@@ -114,10 +91,6 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 
 {{< spacer 60 >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">60</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
 
 
 ![Run Whiskey Run on the famous Mountain Biking Trails every Fall](/img/run-whiskey-run-header.jpg)
@@ -129,10 +102,6 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 If you have ever wanted to take to the trails at Whiskey Run, but not on a mountain bike, this is your chance! The South Coast Running Club invites runners for this one-of-a-kind run through our now famous, world-class, single-track mountain biking trail system - cordoned off specifically for runners for this race. Run this World-Class Single-Track Mountain Biking Trail - Rolling, Smooth, and Oh So Loamy!
 
 {{< spacer 60 >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">60</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
 
 
 
@@ -151,7 +120,3 @@ divider
 **Wild Coast Running Co.**<br>145 S. Broadway<br>Coos Bay, 97420<br>(541) 808-9700<br>[wildcoastrunning.com](https://www.wildcoastrunning.com "https://www.wildcoastrunning.com")
 
 Established in 2020, Wild Coast Running Company is local to the Southern Oregon Coast, specializing in providing quality athletic/running shoes, apparel, and accessories. Not a runner, not a problem. They serve those who stand on concrete all day, have mobility issues, or enjoy activities such as cross-training, walking or hiking. They also are avid community members, coaches, volunteers, and runners. They enjoy serving you wherever you are in your fitness journey.{{< /columns >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:text_snippet" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Columns</p><p class="c-card__subtext">South Coast Running ClubPO Box 1001Coos Bay, OR US 97420Phone: 541-260-3298southcoastrunningclub.org Founded in the early 1970’s, SCRC is a volunteer based, non-profit club. They are a member of the Road Runners Clubs of America, as well as an active participant in their local community. They organize 10-12 annual low cost events with attendance of 50-500 people, and pride themselves with welcoming all to participate. They maintain an annual memorial scholarship to the high-school and college youth in our community and many of their events support a local charity. Visit their calendar for all the details. divider Wild Coast Running Co.145 S. BroadwayCoos Bay, 97420(541) 808-9700wildcoastrunning.com Established in 2020, Wild Coast Running Company is local to the Southern Oregon Coast, specializing in providing quality athletic/running shoes, apparel, and accessories. Not a runner, not a problem. They serve those who stand on concrete all day, have mobility issues, or enjoy activities such as cross-training, walking or hiking. They also are avid community members, coaches, volunteers, and runners. They enjoy serving you wherever you are in your fitness journey.</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
