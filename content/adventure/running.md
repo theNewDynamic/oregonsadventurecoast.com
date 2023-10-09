@@ -38,7 +38,6 @@ Oregon's Adventure Coast offers an exhilarating experience for avid runners and 
 
 {{< spacer "60" >}}
 
-
 ![](/img/roseburg-to-coos-bay-relay-695x125.jpg)
 
 ### Roseburg to Coos Bay Relay
@@ -49,8 +48,7 @@ This is a beautiful course on quiet country roads along a river featuring waterf
 
 {{< spacer 60 >}}
 
-
-![Circle the Bay Relay or Individual 30K](/img/circle-the-bay-header.jpg)
+### ![](/img/circle-the-bay-header-1.jpg)
 
 ### Circle the Bay
 
@@ -60,14 +58,11 @@ Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's
 
 {{< spacer "30" >}}
 
-
 {{< youtube id="40ZZUerWZbk?si=ikC57lLjDUbZzo16" title="Circle the Bay 30K Team or Individual Run" >}}
 
 {{< spacer 60 >}}
 
-
-
-![](/img/sunset-trail-run-header.jpg)
+![](/img/sunset-trail-run-header-1.jpg)![](/img/sunset-trail-run-header.jpg)
 
 ### Sunset Trail Run
 
@@ -77,9 +72,7 @@ This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A ver
 
 {{< spacer 60 >}}
 
-
-
-![Prefontaine Memorial Run Every September in Coos Bay, Oregon](/img/pre-memorial-run-header.jpg)
+![](/img/pre-memorial-run-header-1.jpg)
 
 ### Annual Prefontaine Memorial Run
 
@@ -87,13 +80,9 @@ This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A ver
 
 Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a race that pays homage to the legendary Steve Prefontaine. Held in the beautiful landscape of Oregon's Adventure Coast, this event invites athletes to honor Prefontaine's spirit and determination by pushing their own limits. Whether you're a seasoned runner or a novice, this race is an opportunity to channel your inner Prefontaine and embrace the passion for running that he inspired in so many. Join us in remembering a true icon of the sport and experience the thrill of running in his footsteps.
 
-
-
 {{< spacer 60 >}}
 
-
-
-![Run Whiskey Run on the famous Mountain Biking Trails every Fall](/img/run-whiskey-run-header.jpg)
+![](/img/run-whiskey-run-header-1.jpg)
 
 ### Run Whiskey Run
 
@@ -102,8 +91,6 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 If you have ever wanted to take to the trails at Whiskey Run, but not on a mountain bike, this is your chance! The South Coast Running Club invites runners for this one-of-a-kind run through our now famous, world-class, single-track mountain biking trail system - cordoned off specifically for runners for this race. Run this World-Class Single-Track Mountain Biking Trail - Rolling, Smooth, and Oh So Loamy!
 
 {{< spacer 60 >}}
-
-
 
 ### Stride & Supply: Lace Up with Our Running Club and Gear Shop
 
