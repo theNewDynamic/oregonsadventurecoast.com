@@ -26,13 +26,9 @@ Oregon’s Adventure Coast is a fantastic place to get your running miles in. Yo
 
 We have collected some of our favorite runs to share with you - different lengths and terrain to choose from. We have saved them to Map My Run so you can view and download them. [Visit Running Maps page.](/running-maps)
 
-#### South Coast Running Club
-
-This friendly running club hosts weekly group runs on Wednesday evenings and Thursday mornings in Coos Bay. They also put on runs throughout the year, including the Firecracker Run on July Fourth, Circle the Bay in August and a Turkey Trot at Thanksgiving.
-
 #### Running with Pre
 
-Fans of renowned Coos Bay long distance runner [Steve Prefontain](/steve-prefontaine-story)e can check out a few attractions in the area related to him, including a bronze likeness of Pre at the Coos Bay Visitor Information Center, the Prefontaine Gallery at the Coos Art Museum, which showcases his awards and memorabilia, and the stunning Pre Mural in downtown Coos Bay.
+Fans of renowned Coos Bay long distance runner [Steve Prefontaine](/steve-prefontaine-story)&nbsp;can check out a few attractions in the area related to him, including a bronze likeness of Pre at the Coos Bay Visitor Information Center, the Prefontaine Gallery at the Coos Art Museum, which showcases his awards and memorabilia, and the stunning Pre Mural in downtown Coos Bay.
 
 ### Short List of Races
 
@@ -56,7 +52,11 @@ This is a beautiful course on quiet country roads along a river featuring waterf
 
 **August \| 30K (18 Miles) 3-Person Relay or 1-Person Run**
 
-Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's Adventure Coast. Gather your running buddies and take on a scenic journey around the bay, passing the baton in this relay race of camaraderie and breathtaking views. From the crisp sea air to the coastal landscapes, this event encapsulates the essence of coastal Oregon's natural beauty, making it a must-run race for both locals and visitors.
+Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's Experience the ultimate individual or team challenge at the "Circle the Bay" on Oregon's Adventure Coast. This race is a 30K (18 mile) that can be run as a 3-person relay or 1-person 30K run. For the team challenge, gather your running buddies and take on a scenic journey around the bay, passing the baton in this relay race of camaraderie and breathtaking views. From the crisp sea air to the coastal landscapes, this event encapsulates the essence of coastal Oregon's natural beauty, making it a must-run race for both locals and visitors.
+
+{{< spacer "30" >}}
+
+{{< youtube id="40ZZUerWZbk?si=ikC57lLjDUbZzo16" title="Circle the Bay 30K Team or Individual Run" >}}
 
 {{< spacer 40 >}}
 
