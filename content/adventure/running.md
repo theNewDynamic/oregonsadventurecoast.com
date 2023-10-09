@@ -30,7 +30,7 @@ We have collected some of our favorite runs to share with you - different length
 
 Fans of renowned Coos Bay long distance runner [Steve Prefontaine](/steve-prefontaine-story)&nbsp;can check out a few attractions in the area related to him, including a bronze likeness of Pre at the Coos Bay Visitor Information Center, the Prefontaine Gallery at the Coos Art Museum, which showcases his awards and memorabilia, and the stunning Pre Mural in downtown Coos Bay.
 
-![Steve Prefontaine Murals in downtown coos bay, oregon](/img/prefontaine-mural-downtown-coos-bay.jpg)
+![Steve Prefontaine Murals in downtown coos bay, oregon](blob:https://app.cloudcannon.com/54413442-d6c5-4929-8e92-4c5204d5f3c9)
 
 ### Short List of Races
 
@@ -80,7 +80,7 @@ This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A ver
 
 Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a race that pays homage to the legendary Steve Prefontaine. Held in the beautiful landscape of Oregon's Adventure Coast, this event invites athletes to honor Prefontaine's spirit and determination by pushing their own limits. Whether you're a seasoned runner or a novice, this race is an opportunity to channel your inner Prefontaine and embrace the passion for running that he inspired in so many. Join us in remembering a true icon of the sport and experience the thrill of running in his footsteps.
 
-![Prefontaine Memorial Run Every September in Coos Bay, Oregon](/img/prefontaine-memorial-run.jpg)
+![Prefontaine Memorial Run Every September in Coos Bay, Oregon](blob:https://app.cloudcannon.com/ac26d247-5e26-4fcc-92c0-4761f02d1823)
 
 {{< spacer 40 >}}
 
@@ -92,7 +92,7 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 
 If you have ever wanted to take to the trails at Whiskey Run, but not on a mountain bike, this is your chance! The South Coast Running Club invites runners for this one-of-a-kind run through our now famous, world-class, single-track mountain biking trail system - cordoned off specifically for runners for this race. Run this World-Class Single-Track Mountain Biking Trail - Rolling, Smooth, and Oh So Loamy!
 
-![Run Whiskey Run on the famous Mountain Biking Trails every Fall](/img/run-whiskey-run-background-logo.jpg)
+![Run Whiskey Run on the famous Mountain Biking Trails every Fall](blob:https://app.cloudcannon.com/ac831ceb-df8d-41da-9f36-6adbf3ea9813)
 
 {{< spacer 40 >}}
 
