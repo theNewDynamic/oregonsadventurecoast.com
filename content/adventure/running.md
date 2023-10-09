@@ -38,7 +38,7 @@ Oregon's Adventure Coast offers an exhilarating experience for avid runners and 
 
 {{< spacer "60" >}}
 
-![](/img/roseburg-to-coos-bay-relay-695x125.jpg)
+![](/img/roseburg-to-coosbay-run-header.jpg)
 
 ### Roseburg to Coos Bay Relay
 
