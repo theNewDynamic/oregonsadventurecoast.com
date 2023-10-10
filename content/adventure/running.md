@@ -22,9 +22,7 @@ Oregon’s Adventure Coast is a fantastic place to get your running miles in. Yo
 
 #### Running with the Locals&nbsp;
 
-When visiting the Coos Bay, North Bend, and Charleston area, adventure-seeking travelers have the opportunity to connect with the pulse of the community through an exciting activity: **Running with the Locals!**&nbsp;Each week, there's a chance to join the locals for a midweek "<a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/wednesday/">Hump Day Runs</a>" on Wednesday evenings or an invigorating <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/thursday/">Thursday morning run</a>. It's a fantastic way to lace up your running shoes, hit the road, and discover the heart and soul of the destination. So, when planning your vacation, make sure to mark this experience on your itinerary—it's a run you won't want to miss!
-
-
+When visiting the Coos Bay, North Bend, and Charleston area, adventure-seeking travelers have the opportunity to connect with the pulse of the community through an exciting activity: **Running with the Locals!**&nbsp;Each week, there's a chance to join the locals for a midweek <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/wednesday/">Hump Day Run</a>&nbsp;on Wednesday evenings or an invigorating <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/thursday/">Thursday morning run</a>. It's a fantastic way to lace up your running shoes, hit the road, and discover the heart and soul of the destination. So, when planning your vacation, make sure to mark this experience on your itinerary—it's a run you won't want to miss!
 
 #### Running with Pre
 
