@@ -30,13 +30,17 @@ Fans of renowned Coos Bay long distance runner [Steve Prefontaine](/steve-prefon
 
 **Tour De Pre:** Learn more about Steve’s early years, see where he trained, and follow his footsteps on a Tour of the Coos Bay area conducted by his sister, Linda. The <a target="_blank" rel="noopener" href="https://prefontaineproductions.com/">Tour de Pre</a> is for small groups and is booked directly with Linda Prefontaine.
 
+{{< spacer "30" >}}
+
 ![](/img/prefontaine-mural-downtown-coos-bay-1.jpg)
+
+### {{< spacer "60" >}}
 
 ### Short List of Races
 
 Oregon's Adventure Coast offers an exhilarating experience for avid runners and outdoor enthusiasts. The rugged coastline, lush forests, and diverse terrain provide the perfect backdrop for challenging and scenic races. Participants can test their endurance on winding trails that meander through towering trees and embrace the refreshing coastal air.
 
-{{< spacer "60" >}}
+{{< spacer "30" >}}
 
 ![](blob:https://app.cloudcannon.com/877bfca5-f670-49ef-a0c0-0cbccbc33d90)![Roseburg to Coos Bay Run](/img/roseburg-to-coosbay-run-header.jpg)
 
