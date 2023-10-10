@@ -20,13 +20,17 @@ Oregon’s Adventure Coast is also home to unparalleled terrain for running – 
 
 Oregon’s Adventure Coast is a fantastic place to get your running miles in. You can hit the pavement in downtown Coos Bay, tread the trails from Sunset Bay to Cape Arago jog lightly around the peaceful shores of Lower Empire Lake or jump into any number of annual organized runs. Some favorite routes, runs and groups include:
 
-#### Favorite Runs Mapped Out&nbsp;
+#### Running with the Locals&nbsp;
 
-We have collected some of our favorite runs to share with you - different lengths and terrain to choose from. We have saved them to Map My Run so you can view and download them. [Visit Running Maps page.](/running-maps)
+When visiting the Coos Bay, North Bend, and Charleston area, adventure-seeking travelers have the opportunity to connect with the pulse of the community through an exciting activity: **Running with the Locals!**&nbsp;Each week, there's a chance to join the locals for a midweek "<a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/wednesday/">Hump Day Runs</a>" on Wednesday evenings or an invigorating <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/thursday/">Thursday morning run</a>. It's a fantastic way to lace up your running shoes, hit the road, and discover the heart and soul of the destination. So, when planning your vacation, make sure to mark this experience on your itinerary—it's a run you won't want to miss!
+
+
 
 #### Running with Pre
 
 Fans of renowned Coos Bay long distance runner [Steve Prefontaine](/steve-prefontaine-story)&nbsp;can check out a few attractions in the area related to him, including a bronze likeness of Pre at the Coos Bay Visitor Information Center, the Prefontaine Gallery at the Coos Art Museum, which showcases his awards and memorabilia, and the stunning Pre Mural in downtown Coos Bay.
+
+**Tour De Pre:** Learn more about Steve’s early years, see where he trained, and follow his footsteps on a Tour of the Coos Bay area conducted by his sister, Linda. The <a target="_blank" rel="noopener" href="https://prefontaineproductions.com/">Tour de Pre</a> is for small groups and is booked directly with Linda Prefontaine.
 
 ![](/img/prefontaine-mural-downtown-coos-bay-1.jpg)
 
@@ -52,7 +56,7 @@ This is a beautiful course on quiet country roads along a river featuring waterf
 
 **August \| 30K (18 Miles) 3-Person Relay or 1-Person Run**
 
-Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's Experience the ultimate individual or team challenge at the "Circle the Bay" on Oregon's Adventure Coast. This race is a 30K (18 mile) that can be run as a 3-person relay or 1-person 30K run. For the team challenge, gather your running buddies and take on a scenic journey around the bay, passing the baton in this relay race of camaraderie and breathtaking views. From the crisp sea air to the coastal landscapes, this event encapsulates the essence of coastal Oregon's natural beauty, making it a must-run race for both locals and visitors.
+Experience the ultimate individual or team challenge at the "Circle the Bay" on Oregon's Adventure Coast. This race is a 30K (18 mile) that can be run as a 3-person relay or 1-person 30K run. For the team challenge, gather your running buddies and take on a scenic journey around the bay, passing the baton in this relay race of camaraderie and breathtaking views. From the crisp sea air to the coastal landscapes, this event encapsulates the essence of coastal Oregon's natural beauty, making it a must-run race for both locals and visitors.
 
 {{< spacer "30" >}}
 
