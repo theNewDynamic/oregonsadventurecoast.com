@@ -16,6 +16,8 @@ What makes Oregon’s Adventure Coast a runner’s paradise? For starters, there
 
 Oregon’s Adventure Coast is also home to unparalleled terrain for running – think ocean views, forested mountains, charming neighborhoods and parks galore. Looking for a scenic easy loop with Pacific Ocean vistas? We’ve got that. A longer, more challenging run to get you up to speed for the annual 10K Prefontaine Memorial Run? No problem. How about a weekly run with a group of friendly folks who love to get out and active with like-minded runners. With the <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/">South Coast Running Club</a>, we’ve got that too.&nbsp;
 
+![Running in Coos Bay, North Bend &amp; Charleston](/img/tying-shoe-and-running-boy.jpg)
+
 ### A run for everyone
 
 Oregon’s Adventure Coast is a fantastic place to get your running miles in. You can hit the pavement in downtown Coos Bay, tread the trails from Sunset Bay to Cape Arago jog lightly around the peaceful shores of Lower Empire Lake or jump into any number of annual organized runs. Some favorite routes, runs and groups include:
