@@ -20,13 +20,17 @@ Oregon’s Adventure Coast is also home to unparalleled terrain for running – 
 
 Oregon’s Adventure Coast is a fantastic place to get your running miles in. You can hit the pavement in downtown Coos Bay, tread the trails from Sunset Bay to Cape Arago jog lightly around the peaceful shores of Lower Empire Lake or jump into any number of annual organized runs. Some favorite routes, runs and groups include:
 
-#### Favorite Runs Mapped Out&nbsp;
+#### Running with the Locals&nbsp;
 
-We have collected some of our favorite runs to share with you - different lengths and terrain to choose from. We have saved them to Map My Run so you can view and download them. [Visit Running Maps page.](/running-maps)
+When visiting the Coos Bay, North Bend, and Charleston area, adventure-seeking travelers have the opportunity to connect with the pulse of the community through an exciting activity: **Running with the Locals!**&nbsp;Each week, there's a chance to join the locals for a midweek "<a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/wednesday/">Hump Day Runs</a>" on Wednesday evenings or an invigorating <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/thursday/">Thursday morning run</a>. It's a fantastic way to lace up your running shoes, hit the road, and discover the heart and soul of the destination. So, when planning your vacation, make sure to mark this experience on your itinerary—it's a run you won't want to miss!
+
+
 
 #### Running with Pre
 
 Fans of renowned Coos Bay long distance runner [Steve Prefontaine](/steve-prefontaine-story)&nbsp;can check out a few attractions in the area related to him, including a bronze likeness of Pre at the Coos Bay Visitor Information Center, the Prefontaine Gallery at the Coos Art Museum, which showcases his awards and memorabilia, and the stunning Pre Mural in downtown Coos Bay.
+
+**Tour De Pre:** Learn more about Steve’s early years, see where he trained, and follow his footsteps on a Tour of the Coos Bay area conducted by his sister, Linda. The <a target="_blank" rel="noopener" href="https://prefontaineproductions.com/">Tour de Pre</a> is for small groups and is booked directly with Linda Prefontaine.
 
 ![](/img/prefontaine-mural-downtown-coos-bay-1.jpg)
 
@@ -36,7 +40,7 @@ Oregon's Adventure Coast offers an exhilarating experience for avid runners and 
 
 {{< spacer "60" >}}
 
-![](blob:https://app.cloudcannon.com/877bfca5-f670-49ef-a0c0-0cbccbc33d90)
+![](blob:https://app.cloudcannon.com/877bfca5-f670-49ef-a0c0-0cbccbc33d90)![Roseburg to Coos Bay Run](/img/roseburg-to-coosbay-run-header.jpg)
 
 ### Roseburg to Coos Bay Relay
 
@@ -46,13 +50,13 @@ This is a beautiful course on quiet country roads along a river featuring waterf
 
 {{< spacer 60 >}}
 
-### ![](blob:https://app.cloudcannon.com/b26f1559-0364-4f09-8e88-5c7f8fd03b0b)
+### ![](blob:https://app.cloudcannon.com/b26f1559-0364-4f09-8e88-5c7f8fd03b0b)![Circle the Bay Relay or Individual 30K](/img/circle-the-bay-header-1.jpg)
 
 ### Circle the Bay
 
 **August \| 30K (18 Miles) 3-Person Relay or 1-Person Run**
 
-Experience the ultimate team challenge at the "Circle the Bay Relay" on Oregon's Experience the ultimate individual or team challenge at the "Circle the Bay" on Oregon's Adventure Coast. This race is a 30K (18 mile) that can be run as a 3-person relay or 1-person 30K run. For the team challenge, gather your running buddies and take on a scenic journey around the bay, passing the baton in this relay race of camaraderie and breathtaking views. From the crisp sea air to the coastal landscapes, this event encapsulates the essence of coastal Oregon's natural beauty, making it a must-run race for both locals and visitors.
+Experience the ultimate individual or team challenge at the "Circle the Bay" on Oregon's Adventure Coast. This race is a 30K (18 mile) that can be run as a 3-person relay or 1-person 30K run. For the team challenge, gather your running buddies and take on a scenic journey around the bay, passing the baton in this relay race of camaraderie and breathtaking views. From the crisp sea air to the coastal landscapes, this event encapsulates the essence of coastal Oregon's natural beauty, making it a must-run race for both locals and visitors.
 
 {{< spacer "30" >}}
 
@@ -70,7 +74,7 @@ This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A ver
 
 {{< spacer 60 >}}
 
-![](blob:https://app.cloudcannon.com/4f407264-0398-45c1-a754-29e4fc07da3f)
+![](blob:https://app.cloudcannon.com/4f407264-0398-45c1-a754-29e4fc07da3f)![Prefontaine Memorial Run Every September in Coos Bay, Oregon](/img/pre-memorial-run-header-1.jpg)
 
 ### Annual Prefontaine Memorial Run
 
@@ -80,7 +84,7 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 
 {{< spacer 60 >}}
 
-![](blob:https://app.cloudcannon.com/e5d3b239-7814-4d9d-854f-f37fd76377fd)
+![](blob:https://app.cloudcannon.com/e5d3b239-7814-4d9d-854f-f37fd76377fd)![Run Whiskey Run on the famous Mountain Biking Trails every Fall](/img/run-whiskey-run-header-1.jpg)
 
 ### Run Whiskey Run
 
@@ -88,7 +92,11 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 
 If you have ever wanted to take to the trails at Whiskey Run, but not on a mountain bike, this is your chance! The South Coast Running Club invites runners for this one-of-a-kind run through our now famous, world-class, single-track mountain biking trail system - cordoned off specifically for runners for this race. Run this World-Class Single-Track Mountain Biking Trail - Rolling, Smooth, and Oh So Loamy!
 
-{{< spacer 60 >}}
+{{< spacer 40 >}}
+
+If you're curious about other races happening in our area, the <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">South Coast Running Club's calendar</a> is your go-to resource. It's packed with exciting events that'll keep you on your toes and connected with fellow running enthusiasts!
+
+{{< spacer "60" >}}
 
 ### Stride & Supply: Lace Up with Our Running Club and Gear Shop
 
