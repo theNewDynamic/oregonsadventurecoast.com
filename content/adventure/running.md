@@ -36,7 +36,7 @@ Oregon's Adventure Coast offers an exhilarating experience for avid runners and 
 
 {{< spacer "60" >}}
 
-![](blob:https://app.cloudcannon.com/877bfca5-f670-49ef-a0c0-0cbccbc33d90)
+![](blob:https://app.cloudcannon.com/877bfca5-f670-49ef-a0c0-0cbccbc33d90)![Roseburg to Coos Bay Run](/img/roseburg-to-coosbay-run-header.jpg)
 
 ### Roseburg to Coos Bay Relay
 
@@ -46,7 +46,7 @@ This is a beautiful course on quiet country roads along a river featuring waterf
 
 {{< spacer 60 >}}
 
-### ![](blob:https://app.cloudcannon.com/b26f1559-0364-4f09-8e88-5c7f8fd03b0b)
+### ![](blob:https://app.cloudcannon.com/b26f1559-0364-4f09-8e88-5c7f8fd03b0b)![Circle the Bay Relay or Individual 30K](/img/circle-the-bay-header-1.jpg)
 
 ### Circle the Bay
 
@@ -70,7 +70,7 @@ This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A ver
 
 {{< spacer 60 >}}
 
-![](blob:https://app.cloudcannon.com/4f407264-0398-45c1-a754-29e4fc07da3f)
+![](blob:https://app.cloudcannon.com/4f407264-0398-45c1-a754-29e4fc07da3f)![Prefontaine Memorial Run Every September in Coos Bay, Oregon](/img/pre-memorial-run-header-1.jpg)
 
 ### Annual Prefontaine Memorial Run
 
@@ -80,7 +80,7 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 
 {{< spacer 60 >}}
 
-![](blob:https://app.cloudcannon.com/e5d3b239-7814-4d9d-854f-f37fd76377fd)
+![](blob:https://app.cloudcannon.com/e5d3b239-7814-4d9d-854f-f37fd76377fd)![Run Whiskey Run on the famous Mountain Biking Trails every Fall](/img/run-whiskey-run-header-1.jpg)
 
 ### Run Whiskey Run
 
@@ -89,6 +89,8 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 If you have ever wanted to take to the trails at Whiskey Run, but not on a mountain bike, this is your chance! The South Coast Running Club invites runners for this one-of-a-kind run through our now famous, world-class, single-track mountain biking trail system - cordoned off specifically for runners for this race. Run this World-Class Single-Track Mountain Biking Trail - Rolling, Smooth, and Oh So Loamy!
 
 {{< spacer 60 >}}
+
+If you're curious about other races happening in our area, the <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">South Coast Running Club's calendar</a> is your go-to resource. It's packed with exciting events that'll keep you on your toes and connected with fellow running enthusiasts!
 
 ### Stride & Supply: Lace Up with Our Running Club and Gear Shop
 
