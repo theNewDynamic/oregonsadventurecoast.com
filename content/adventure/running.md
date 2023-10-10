@@ -88,9 +88,11 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 
 If you have ever wanted to take to the trails at Whiskey Run, but not on a mountain bike, this is your chance! The South Coast Running Club invites runners for this one-of-a-kind run through our now famous, world-class, single-track mountain biking trail system - cordoned off specifically for runners for this race. Run this World-Class Single-Track Mountain Biking Trail - Rolling, Smooth, and Oh So Loamy!
 
-{{< spacer 60 >}}
+{{< spacer 40 >}}
 
 If you're curious about other races happening in our area, the <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">South Coast Running Club's calendar</a> is your go-to resource. It's packed with exciting events that'll keep you on your toes and connected with fellow running enthusiasts!
+
+{{< spacer "60" >}}
 
 ### Stride & Supply: Lace Up with Our Running Club and Gear Shop
 
