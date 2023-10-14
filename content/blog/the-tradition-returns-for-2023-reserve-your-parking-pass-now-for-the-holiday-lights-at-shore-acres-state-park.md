@@ -43,7 +43,7 @@ Here’s some information on how you and your family can enjoy this magical wond
 
 This festive annual display debuts on Thanksgiving Day (Thursday, November 23rd) and will light up Shore Acres State Park from 4:30 pm - 9:00 pm each night (including December 24th & 25th) thru December 31st. When making your plans, remember that Fridays through Sundays are the busiest, so we recommend coming Monday through Thursday if possible. We also recommend booking an earlier time slot for the lights so you can enjoy the ocean views, the park, and the lights' sparkling transition from daylight to dark. If you are concerned about rain, keep in mind there is less traffic on rainy nights, and the lights are especially beautiful in the rain!
 
-![](/img/teaser-coming-soon-information-on-shuttle-service-from-charleston-marina-to-holiday-lights-on-select-nights.png)
+![](blob:https://app.cloudcannon.com/e327b8a5-512f-4418-ad56-8d145dd51e3a)
 
 ## **ABOUT THE** **<u>TIMED PARKING PASS</u>** **SYSTEM**&nbsp;
 
@@ -80,9 +80,7 @@ Visitors will not have the option of purchasing a parking permit on-site to park
 
 **\#9 You can visit the lights for as long as you need.** On average, visitors typically stay for about an hour. Please be considerate to visitors who have reserved parking later on the date you're there.
 
-
-
-Ready to book? Here’s how to do it!
+## **Ready to book? Here’s how to do it!**
 
 1. Pick your day/time to visit - note half of the parking tickets will be sold in advance, with the rest available within 7 days of entry.
 2. BOOK YOUR PARKING PASS NOW - [<u>CLICK HERE</u>](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381).&nbsp; Reservations can also be made by calling 800-452-5687. Remember, visitors do not have the option to purchase a parking permit onsite at Shore Acres. A credit card is required to book your parking pass. Passes are available now online at [<u>https://bit.ly/2023holidaylights</u>](https://bit.ly/2023holidaylights) or call 800-452-5687, Monday-Friday, 8 a.m.-5 p.m.
