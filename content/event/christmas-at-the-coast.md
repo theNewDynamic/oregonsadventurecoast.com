@@ -138,7 +138,7 @@ Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive dee
 
 #### {{< floatimage src="/img/christmas-pottery-owned-630x366.jpg" float="left" alt="Visit the Coos History Museum for your holiday shopping!" size="" >}}
 
-####
+#### ![winter faire at Coos history museum](/img/ceramic-bells-sub-section-hdr.jpg)
 
 #### December 15-16, 2023<br>Winter Faire at Coos History Museum
 
