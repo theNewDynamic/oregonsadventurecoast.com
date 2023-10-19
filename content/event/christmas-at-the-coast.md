@@ -27,9 +27,9 @@ largeboxphoto: /img/holiday-happenings-event-large.jpg
 mediumboxphoto: /img/tree-lighting-coosbay-667x355.jpg
 smallboxphoto: /img/Tree-Lighting-coosbay-340x214.jpg
 ---
-### ![](/img/holiday-happenings-header-695x322.jpg)
+### ![](blob:https://app.cloudcannon.com/21c87957-bc81-4b27-b3a6-babfbef8b5ee)
 
-### Join us for these Holiday Happenings in November & December! Then visit [**Holiday Lights at Shore Acres**](https://www.oregonsadventurecoast.com/event/annual-holiday-lights-at-shore-acres/)**.**
+#### Join us for these Holiday Happenings in November & December!
 
 {{< spacer 20 >}}
 
