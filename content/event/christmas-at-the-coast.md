@@ -149,3 +149,11 @@ Join local artisans, food vendors, and more for your annual Holiday Shopping at 
 #### December 16, 2023<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
 
 The Egyptian Theatre is hosting this Holiday Classic Movie plus an Ugly Sweater Contest just in time for the Holidays! The Movie starts as 7:00pm, Doors open at 6:15pm. Adults $5, Seniors $4, Children $3
+
+{{< spacer "50" >}}
+
+![polar bear plunge into the pacific ocean on New Year's Day](/img/polar-bear-plunge-sub-section-hdr.jpg)
+
+#### January 1, 2024<br>Polar Bear Plunge
+
+Details coming soon! Check back.
