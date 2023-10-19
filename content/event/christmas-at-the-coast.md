@@ -75,7 +75,9 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 <img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
 
-#### {{< floatimage src="img/cbtreelighting-35-web-only.jpg" float="right" alt="Coos Bay's Lighted Tree" size="40" >}}November 24th<br>Tree Lighting at the Coos Bay Visitor Center with Santa, Plus ELF! at The Egyptian
+#### ![Coos Bay Tree lighting with Santa dn the movie Elf!](/img/coos-bay-tree-lighting-sub-sect-hdr.jpg)
+
+#### November 24th<br>Tree Lighting at the Coos Bay Visitor Center with Santa, Plus ELF! at The Egyptian
 
 Join Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! The evening begins with cookies and cider in the Visitor Center at 4:30pm. Santa and the Mayor of Coos Bay will light the tree at 5:30pm. Following the tree lighting, follow Santa and the parade of revelers to The Egyptian Theatre for the traditional showing of&nbsp;**Elf** after the tree lighting! Santa will sit on stage and listen to the wishes of the boys and girls. Elf will begin at about 7pm. Don't forget your **balled up white socks** for the snowball fight!!!
 
