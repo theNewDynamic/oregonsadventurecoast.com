@@ -91,7 +91,7 @@ Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa o
 
 {{< spacer 50 >}}
 
-#### ![](blob:https://app.cloudcannon.com/27de559c-a3c2-4d7c-9a9d-0f066950ac81)
+#### ![reindeer Roundup](/img/rukas-reindeer-sub-section-hdr-1.jpg)![](blob:https://app.cloudcannon.com/27de559c-a3c2-4d7c-9a9d-0f066950ac81)
 
 #### November 28 - December 20, 2023<br>Reindeer Roundup
 
@@ -113,7 +113,9 @@ Tickets on-sale now at the box office and online at&nbsp;[www.thelibertytheatre.
 
 {{< spacer 50 >}}
 
-{{< floatimage src="img/Tree-Lighting-coosbay-340x214.jpg" float="left" alt="Lighted Tree" size="40" >}} December 1st<br>Empire District Tree Lighting and Santa Parade
+![](/img/empire-treelighting-sub-section-hdr.jpg)
+
+#### December 1, 2023<br>Empire District Tree Lighting and Santa Parade
 
 The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, and will also live stream it on their [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194). Before the lighting, Santa will be riding through the streets in the Empire District - from 3:00-5:30pm - on top of the Empire fire engine as his elves hand out goodies to all the good little children in Empire. After the tree lighting, Star of Hope will once again be opening their doors for families to come in, have refreshments, visit personally with Santa, and vote in the gingerbread house competition. Each Star of Hope team will design and build a gingerbread house entry and the most votes will determine this year's winner.
 
