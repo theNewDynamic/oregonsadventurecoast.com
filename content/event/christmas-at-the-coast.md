@@ -67,15 +67,7 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 {{< spacer 50 >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
-
-#### ![Coos Bay Tree lighting with Santa dn the movie Elf!](/img/coos-bay-tree-lighting-sub-sect-hdr.jpg)
+![Coos Bay Tree lighting with Santa dn the movie Elf!](/img/coos-bay-tree-lighting-sub-sect-hdr.jpg)
 
 #### November 24, 2023<br>Tree Lighting at the Coos Bay Visitor Center with Santa, Plus ELF! at The Egyptian
 
@@ -83,7 +75,7 @@ Join Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! Th
 
 {{< spacer 50 >}}
 
-#### ![See the movie ELF! at the Egyptian Theater in Coos Bay Oregon](/img/elf-movie-sub-section-hdr.jpg)
+![See the movie ELF! at the Egyptian Theater in Coos Bay Oregon](/img/elf-movie-sub-section-hdr.jpg)
 
 #### November 25, 2023<br>ELF! at The Egyptian
 
@@ -91,15 +83,15 @@ Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa o
 
 {{< spacer 50 >}}
 
-#### ![Small Business Saturday Shopping on Oregon's Adventure Coast](/img/small-business-shopping-sub-section-hdr.jpg)
+![Small Business Saturday Shopping on Oregon's Adventure Coast](/img/small-business-shopping-sub-section-hdr.jpg)
 
 #### November 25, 2023<br>Shop Small Saturday and Downtown Coos Bay Commemorative Mug
 
-**Shop Small Saturday encourages us to shop at small, local shops this holiday season.**&nbsp;Also, keep your receipts for all purchases made in Downtown Coos Bay between November 10 and November 25. Collect $100 in receipts, bring those receipts to Jennie's Shoes (262 Central Ave) and receive a commemorative mug!
+**Shop Small Saturday encourages us to shop at small, local shops this holiday season.** Also, keep your receipts for all purchases made in Downtown Coos Bay between November 10 and November 25. Collect $100 in receipts, bring those receipts to Jennie's Shoes (262 Central Ave) and receive a commemorative mug!
 
 {{< spacer 50 >}}
 
-#### November 28th to December 20th<br>**Reindeer Roundup**
+#### November 28 - December 20, 2023<br>Reindeer Roundup
 
 Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown instead of going back to the north pole following Santa’s visit. The reindeer will be hiding in businesses downtown. Find the reindeer in participating businesses, take a picture and then fill out an entry form to be entered to win a grand prize. (Business hours vary) The event will end on December 20th when the reindeer will return to the north pole to help Santa deliver toys to children around the world.
 
@@ -119,7 +111,7 @@ Tickets on-sale now at the box office and online at&nbsp;[www.thelibertytheatre.
 
 {{< spacer 50 >}}
 
-<br>
+
 
 {{< floatimage src="img/Tree-Lighting-coosbay-340x214.jpg" float="left" alt="Lighted Tree" size="40" >}} December 1st<br>Empire District Tree Lighting and Santa Parade
 
@@ -127,15 +119,8 @@ The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, 
 
 {{< spacer 50 >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
 
-<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
-
-#### {{< floatimage src="img/nb-tree-lighting-trucks-small.jpg" float="right" alt="Trucks of all sizes cruise through North Bend for the holidays!" size="40" >}}December 2nd
+{{< floatimage src="img/nb-tree-lighting-trucks-small.jpg" float="right" alt="Trucks of all sizes cruise through North Bend for the holidays!" size="40" >}}December 2nd
 
 #### Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade!
 
@@ -152,13 +137,6 @@ Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive dee
 
 {{< spacer 50 >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
 
 #### {{< floatimage src="/img/christmas-pottery-owned-630x366.jpg" float="left" alt="Visit the Coos History Museum for your holiday shopping!" size="" >}}December 15-16<br>Winter Faire at Coos History Museum
 
@@ -166,13 +144,6 @@ Join local artisans, food vendors, and more for your annual Holiday Shopping at 
 
 {{< spacer "50" >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon"><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
 
 #### {{< floatimage src="/img/christmas-vacation-wide.jpg" float="right" alt="The classic Christmas Vacation at The Historic Egyptian Theatre" size="" >}}December 16th<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
 
