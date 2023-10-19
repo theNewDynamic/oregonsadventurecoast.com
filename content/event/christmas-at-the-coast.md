@@ -91,7 +91,7 @@ Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa o
 
 {{< spacer 50 >}}
 
-#### ![](/img/rukas-reindeer-sub-section-hdr.jpg)
+#### ![](blob:https://app.cloudcannon.com/27de559c-a3c2-4d7c-9a9d-0f066950ac81)
 
 #### November 28 - December 20, 2023<br>Reindeer Roundup
 
@@ -119,7 +119,7 @@ The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, 
 
 {{< spacer 50 >}}
 
-#### ![North Bend Lighted Truck Parade, Tree lighting festival and ice skating](/img/north-bend-firetruck-sub-section-hdr.jpg)
+#### ![North Bend Lighted Truck Parade, Tree lighting festival and ice skating](blob:https://app.cloudcannon.com/33cae2c1-dc0d-460c-9adb-695b03f723e3)
 
 #### December 2, 2023<br>Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade!
 
@@ -136,12 +136,12 @@ Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive dee
 
 {{< spacer 50 >}}
 
-#### {{< floatimage src="/img/christmas-pottery-owned-630x366.jpg" float="left" alt="Visit the Coos History Museum for your holiday shopping!" size="" >}}December 15-16<br>Winter Faire at Coos History Museum
+#### {{< floatimage src="/img/christmas-pottery-owned-630x366.jpg" float="left" alt="Visit the Coos History Museum for your holiday shopping!" size="" >}}December 15-16, 2023<br>Winter Faire at Coos History Museum
 
 Join local artisans, food vendors, and more for your annual Holiday Shopping at the Coos History Museum from 11am-4pm on December 15th and 16th. Entry to the Faire is Free!
 
 {{< spacer "50" >}}
 
-#### {{< floatimage src="/img/christmas-vacation-wide.jpg" float="right" alt="The classic Christmas Vacation at The Historic Egyptian Theatre" size="" >}}December 16th<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
+#### {{< floatimage src="/img/christmas-vacation-wide.jpg" float="right" alt="The classic Christmas Vacation at The Historic Egyptian Theatre" size="" >}}December 16, 2023<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
 
 The Egyptian Theatre is hosting this Holiday Classic Movie plus an Ugly Sweater Contest just in time for the Holidays! The Movie starts as 7:00pm, Doors open at 6:15pm. Adults $5, Seniors $4, Children $3
