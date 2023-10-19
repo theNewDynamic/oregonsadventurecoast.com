@@ -29,17 +29,27 @@ smallboxphoto: /img/Tree-Lighting-coosbay-340x214.jpg
 ---
 ### ![Holiday Happenings in Coos Bay North Bend Charleston two toy snowmen](/img/holiday-happenings-header-695x322-1.jpg)
 
-#### Join us for these Holiday Happenings in November & December!
+### {{< spacer "30" >}}
 
-{{< spacer 20 >}}
+### Join us for these Holiday Happenings in November & December! Scroll for the full schedule of events.
 
-### SCHEDULE OF EVENTS
+{{< spacer "40" >}}
 
-####
+
 
 #### ![](/img/shopping-sub-header-695x200.jpg)
 
 **{{% colortext color="#9c1c07" %}}November 10 & 11{{% /colortext %}}**
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><strong>No preview available</strong></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><strong><cc-icon name="mdi:format_color_text" class="u-hide-when-loaded"></cc-icon> </strong></div><div class="c-card__heading-content"><p class="c-card__text "><strong>Color Text</strong></p><p class="c-card__subtext"><strong>November 10 &amp; 11 </strong></p></div></div><div class="c-card__metadatum"><div class="c-card__metadatum__icon"><strong><cc-icon name="mdi:palette" class="u-hide-when-loaded"></cc-icon> </strong></div><p class="c-card__metadatum__text"><strong>#9c1c07 </strong></p></div><ol class="c-card__metadata"></ol></div></div>
+
+**<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />**
+
+
+
+
+
+
 
 #### Downtown Coos Bay Holiday Open House
 
@@ -47,11 +57,23 @@ Visit participating businesses in Downtown Coos Bay during the Holiday Open Hous
 
 {{< spacer 20 >}}
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">20</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
+
 #### {{< floatimage src="img/ch-crabpot-tree-small.jpg" float="left" alt="Charleston Crab Pot Tree" size="40" >}}November TBD - December 31st<br>Charleston Crab Pot Tree
 
 The Charleston Fishing Families celebrate the season every year with a colorful, lighted Crab Pot Tree in the parking lot of Fisherman's Grotto restaurant! Lights from the tree can be seen from Cape Arago Highway and across to the Charleston Marina! *Photo courtesy of Chris at Off the Edge Photography.*
 
 {{< spacer 100 >}}
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">100</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
 
 #### {{< floatimage src="img/HolidayLights-Bushes-176.jpg" float="right" alt="Holiday Lights" size="40" >}}November 23-December 31<br>Holiday Lights at Shore Acres State Park
 
@@ -59,11 +81,23 @@ More info on this very special holiday event, brought to us by the [**Friends of
 
 {{< spacer 50 >}}
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
+
 #### {{< floatimage src="img/historic-railway-museum-train-lights-web.jpg" float="left" alt="Historic Railway Lights" size="40" >}}November 23-January 1<br>Oregon Coast Historic Railway Museum Lights
 
 Right in downtown Coos Bay is another spectacular holiday lights display - vintage railroad engines, cabooses and other equipment festooned in 100,000 lights and ornaments! You cannot miss this beautiful display as you travel along Hwy 101 through Coos Bay! View the lights from your vehicle or from the sidewalk in front of the museum. The display is always FREE! Youngsters will love spying the stuffed animals inside the windows of the train! The lights are illuminated from dusk until 11pm every night through New Year's Day.
 
 {{< spacer 50 >}}
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
 
 #### {{< floatimage src="img/cbtreelighting-35-web-only.jpg" float="right" alt="Coos Bay's Lighted Tree" size="40" >}}November 24th<br>Tree Lighting at the Coos Bay Visitor Center with Santa, Plus ELF! at The Egyptian
 
@@ -71,11 +105,23 @@ Join Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! Th
 
 {{< spacer 50 >}}
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
+
 #### November 25th<br>ELF! at The Egyptian
 
 Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa once again available to hear all those wish lists! The evening showing at 7pm will not include Santa.
 
 {{< spacer 50 >}}
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
 
 #### {{< floatimage src="/img/small-biz-sat.jpeg" float="left" alt="Small Business Saturday" size="40" >}}November 25th<br>Shop Small Saturday and Downtown Coos Bay Commemorative Mug
 
@@ -83,11 +129,23 @@ Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa o
 
 {{< spacer 50 >}}
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
+
 #### November 28th to December 20th<br>[**Reindeer Roundup**]()
 
 Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown instead of going back to the north pole following Santa’s visit. The reindeer will be hiding in businesses downtown. Find the reindeer in participating businesses, take a picture and then fill out an entry form to be entered to win a grand prize. (Business hours vary) The event will end on December 20th when the reindeer will return to the north pole to help Santa deliver toys to children around the world.
 
 {{< spacer 50 >}}
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
 
 #### {{< floatimage src="img/christmas-opry.jpeg" float="right" alt="Christmas Opry" size="40" >}} December 1st-3rd<br>Christmas Opry Returns in December!
 
@@ -101,11 +159,23 @@ Tickets on-sale now at the box office and online at&nbsp;[www.thelibertytheatre.
 
 {{< spacer 50 >}}
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
+
 #### {{< floatimage src="img/Tree-Lighting-coosbay-340x214.jpg" float="left" alt="Lighted Tree" size="40" >}} December 1st<br>Empire District Tree Lighting and Santa Parade
 
 The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, and will also live stream it on their [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194). Before the lighting, Santa will be riding through the streets in the Empire District - from 3:00-5:30pm - on top of the Empire fire engine as his elves hand out goodies to all the good little children in Empire. After the tree lighting, Star of Hope will once again be opening their doors for families to come in, have refreshments, visit personally with Santa, and vote in the gingerbread house competition. Each Star of Hope team will design and build a gingerbread house entry and the most votes will determine this year's winner.
 
 {{< spacer 50 >}}
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
 
 #### {{< floatimage src="img/nb-tree-lighting-trucks-small.jpg" float="right" alt="Trucks of all sizes cruise through North Bend for the holidays!" size="40" >}}December 2nd
 
@@ -124,11 +194,23 @@ Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive dee
 
 {{< spacer 50 >}}
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
+
 #### {{< floatimage src="/img/christmas-pottery-owned-630x366.jpg" float="left" alt="Visit the Coos History Museum for your holiday shopping!" size="" >}}December 15-16<br>Winter Faire at Coos History Museum
 
 Join local artisans, food vendors, and more for your annual Holiday Shopping at the Coos History Museum from 11am-4pm on December 15th and 16th. Entry to the Faire is Free!
 
 {{< spacer "50" >}}
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
 
 #### {{< floatimage src="/img/christmas-vacation-wide.jpg" float="right" alt="The classic Christmas Vacation at The Historic Egyptian Theatre" size="" >}}December 16th<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
 
