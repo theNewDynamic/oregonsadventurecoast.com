@@ -136,8 +136,6 @@ Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive dee
 
 {{< spacer 50 >}}
 
-#### {{< floatimage src="/img/christmas-pottery-owned-630x366.jpg" float="left" alt="Visit the Coos History Museum for your holiday shopping!" size="" >}}
-
 #### ![winter faire at Coos history museum](/img/ceramic-bells-sub-section-hdr.jpg)
 
 #### December 15-16, 2023<br>Winter Faire at Coos History Museum
@@ -146,6 +144,8 @@ Join local artisans, food vendors, and more for your annual Holiday Shopping at 
 
 {{< spacer "50" >}}
 
-#### {{< floatimage src="/img/christmas-vacation-wide.jpg" float="right" alt="The classic Christmas Vacation at The Historic Egyptian Theatre" size="" >}}December 16, 2023<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
+####
+
+#### December 16, 2023<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
 
 The Egyptian Theatre is hosting this Holiday Classic Movie plus an Ugly Sweater Contest just in time for the Holidays! The Movie starts as 7:00pm, Doors open at 6:15pm. Adults $5, Seniors $4, Children $3
