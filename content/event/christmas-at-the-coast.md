@@ -119,26 +119,28 @@ Tickets on-sale now at the box office and online at&nbsp;[www.thelibertytheatre.
 
 The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, and will also live stream it on their [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194). Before the lighting, Santa will be riding through the streets in the Empire District - from 3:00-5:30pm - on top of the Empire fire engine as his elves hand out goodies to all the good little children in Empire. After the tree lighting, Star of Hope will once again be opening their doors for families to come in, have refreshments, visit personally with Santa, and vote in the gingerbread house competition. Each Star of Hope team will design and build a gingerbread house entry and the most votes will determine this year's winner.
 
-{{< spacer 50 >}}
-
-#### ![North Bend Lighted Truck Parade, Tree lighting festival and ice skating](blob:https://app.cloudcannon.com/33cae2c1-dc0d-460c-9adb-695b03f723e3)
+#### ![North Bend Tree lighting festival, lighted truck parade and Ice skating](/img/north-bend-firetruck-sub-section-hdr-1.jpg)
 
 #### December 2, 2023<br>Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade!
 
 Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive deep into the holiday spirit from 9am-7:30pm.
 
-* 9:00am-11:00am - **Waffles with Santa!** at the North Bend Fire Station - Reserve Your Time (coming soon)
-* 10:00am - Noon - **Storytime with Mrs. Claus** at the North Bend Public Library - Mrs. Claus will conduct two identical storytimes at 10am and 11am! After Storytime, children can write letters to Santa and make "magic" reindeer food! The event is FREE and has a capacity of 100 per session.
-* 11:00am-3:00pm - **Ice Skating** on North Bend's Famous Ice Skating Rink! FREE
-* 1:00pm-3:00pm - **Christmas on Main Street** in downtown North Bend - look for the mischievous Elf on the Shelf in participating businesses and enter to win Free Tickets to the Ice Skating Rink, North Bend's Winter Attraction!
-* 3:00pm-5:00pm - **Holiday Block Party** in the Festival Tent near City Hall
-* 5:00pm - **Annual North Bend Tree Lighting** in Grants Circle Roundabout outside City Hall&nbsp;
-* 5:30pm-6:30pm - **Meet Santa!** in the Festival Tent near City Hall
-* 6:30pm-7:00pm - **Lighted Truck Parade** cruises through downtown and midtown North Bend. *(Note:*&nbsp;*Parade Route follows the July Jubilee parade route)*
+* **9:00am-11:00am - Waffles with Santa!** at the North Bend Fire Station - Reserve Your Time (coming soon)
+* **10:00am - Noon - Storytime with Mrs. Claus** at the North Bend Public Library - Mrs. Claus will conduct two identical storytimes at 10am and 11am! After Storytime, children can write letters to Santa and make "magic" reindeer food! The event is FREE and has a capacity of 100 per session.
+* **11:00am-3:00pm - Ice Skating** on North Bend's Famous Ice Skating Rink! FREE
+* **1:00pm-3:00pm - Christmas on Main Street** in downtown North Bend - look for the mischievous Elf on the Shelf in participating businesses and enter to win Free Tickets to the Ice Skating Rink, North Bend's Winter Attraction!
+* **3:00pm-5:00pm - Holiday Block Party** in the Festival Tent near City Hall
+* **5:00pm - Annual North Bend Tree Lighting** in Grants Circle Roundabout outside City Hall&nbsp;
+* **5:30pm-6:30pm - Meet Santa!** in the Festival Tent near City Hall
+* **6:30pm-7:00pm - Lighted Truck Parade** cruises through downtown and midtown North Bend. *(Note:*&nbsp;*Parade Route follows the July Jubilee parade route)*
 
 {{< spacer 50 >}}
 
-#### {{< floatimage src="/img/christmas-pottery-owned-630x366.jpg" float="left" alt="Visit the Coos History Museum for your holiday shopping!" size="" >}}December 15-16, 2023<br>Winter Faire at Coos History Museum
+#### {{< floatimage src="/img/christmas-pottery-owned-630x366.jpg" float="left" alt="Visit the Coos History Museum for your holiday shopping!" size="" >}}
+
+####
+
+#### December 15-16, 2023<br>Winter Faire at Coos History Museum
 
 Join local artisans, food vendors, and more for your annual Holiday Shopping at the Coos History Museum from 11am-4pm on December 15th and 16th. Entry to the Faire is Free!
 
