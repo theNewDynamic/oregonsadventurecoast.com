@@ -91,6 +91,8 @@ Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa o
 
 {{< spacer 50 >}}
 
+#### ![](/img/rukas-reindeer-sub-section-hdr.jpg)
+
 #### November 28 - December 20, 2023<br>Reindeer Roundup
 
 Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown instead of going back to the north pole following Santa’s visit. The reindeer will be hiding in businesses downtown. Find the reindeer in participating businesses, take a picture and then fill out an entry form to be entered to win a grand prize. (Business hours vary) The event will end on December 20th when the reindeer will return to the north pole to help Santa deliver toys to children around the world.
@@ -111,18 +113,15 @@ Tickets on-sale now at the box office and online at&nbsp;[www.thelibertytheatre.
 
 {{< spacer 50 >}}
 
-
-
 {{< floatimage src="img/Tree-Lighting-coosbay-340x214.jpg" float="left" alt="Lighted Tree" size="40" >}} December 1st<br>Empire District Tree Lighting and Santa Parade
 
 The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, and will also live stream it on their [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194). Before the lighting, Santa will be riding through the streets in the Empire District - from 3:00-5:30pm - on top of the Empire fire engine as his elves hand out goodies to all the good little children in Empire. After the tree lighting, Star of Hope will once again be opening their doors for families to come in, have refreshments, visit personally with Santa, and vote in the gingerbread house competition. Each Star of Hope team will design and build a gingerbread house entry and the most votes will determine this year's winner.
 
 {{< spacer 50 >}}
 
+#### ![North Bend Lighted Truck Parade, Tree lighting festival and ice skating](/img/north-bend-firetruck-sub-section-hdr.jpg)
 
-{{< floatimage src="img/nb-tree-lighting-trucks-small.jpg" float="right" alt="Trucks of all sizes cruise through North Bend for the holidays!" size="40" >}}December 2nd
-
-#### Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade!
+#### December 2, 2023<br>Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade!
 
 Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive deep into the holiday spirit from 9am-7:30pm.
 
@@ -137,13 +136,11 @@ Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive dee
 
 {{< spacer 50 >}}
 
-
 #### {{< floatimage src="/img/christmas-pottery-owned-630x366.jpg" float="left" alt="Visit the Coos History Museum for your holiday shopping!" size="" >}}December 15-16<br>Winter Faire at Coos History Museum
 
 Join local artisans, food vendors, and more for your annual Holiday Shopping at the Coos History Museum from 11am-4pm on December 15th and 16th. Entry to the Faire is Free!
 
 {{< spacer "50" >}}
-
 
 #### {{< floatimage src="/img/christmas-vacation-wide.jpg" float="right" alt="The classic Christmas Vacation at The Historic Egyptian Theatre" size="" >}}December 16th<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
 
