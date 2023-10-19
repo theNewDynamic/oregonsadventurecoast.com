@@ -144,7 +144,7 @@ Join local artisans, food vendors, and more for your annual Holiday Shopping at 
 
 {{< spacer "50" >}}
 
-####
+#### ![watch Christmas Vacation and enter to win the ugly sweater competition at the Egyptian Theater in Coos Bay](/img/vacation-movie-sweater-sub-section-hdr.jpg)
 
 #### December 16, 2023<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
 
