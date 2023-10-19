@@ -33,9 +33,15 @@ smallboxphoto: /img/Tree-Lighting-coosbay-340x214.jpg
 
 {{< spacer 20 >}}
 
-#### SCHEDULE OF EVENTS
+### SCHEDULE OF EVENTS
 
-#### November 10th & 11th<br>Downtown Coos Bay Holiday Open House
+####
+
+#### ![](/img/shopping-sub-header-695x200.jpg)
+
+**November 10th & 11th**
+
+#### Downtown Coos Bay Holiday Open House
 
 Visit participating businesses in Downtown Coos Bay during the Holiday Open House and enter to win door prizes! Shop for the holidays and keep your receipts to receive a commemorative mug on Shop Small Saturday (see below for more). Start your shopping journey at Katrina Kathleen’s Home Décor – 191 S Broadway or Checkerberry’s Flowers & Gifts – 1290 N. Bayshore Drive (Coos Bay Village) and pick up your Downtown Open House map to more shops all waiting to show you their latest for the gift-giving season. Friday, November 10th from 9am to 5pm and Saturday, November 11th from 10am to 4pm
 
