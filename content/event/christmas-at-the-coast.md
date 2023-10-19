@@ -4,11 +4,11 @@ title: Holiday Happenings & Tree Lightings on Oregon's Adventure Coast!
 startdate: '2023-11-10'
 enddate: '2023-12-31'
 address:
+  city: Coos Bay, North Bend, Empire, Charleston
+  state: ''
   street: ''
   street2: ''
-  city: Coos Bay, North Bend, Empire, Charleston
   zip: ''
-  state: ''
 phone_local: 541-269-0215
 coordinates:
   lat: ''
@@ -22,8 +22,8 @@ desktoptitle: Holiday Happenings!
 mobiletitle: Holiday Happenings
 hovertitle: Holiday Happenings
 hoverdescription: Don't miss all these fun holiday happenings on Oregon's Adventure Coast!
-photo: /img/tree-lighting-2048x530.jpg
-largeboxphoto: /img/tree-lighting-coosbay-1024x395.jpg
+photo: /img/holiday-events-2048x530.jpg
+largeboxphoto: /img/holiday-happenings-event-large.jpg
 mediumboxphoto: /img/tree-lighting-coosbay-667x355.jpg
 smallboxphoto: /img/Tree-Lighting-coosbay-340x214.jpg
 ---
