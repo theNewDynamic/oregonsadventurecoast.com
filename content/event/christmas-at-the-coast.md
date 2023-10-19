@@ -39,7 +39,7 @@ smallboxphoto: /img/Tree-Lighting-coosbay-340x214.jpg
 
 #### ![](/img/shopping-sub-header-695x200.jpg)
 
-**November 10th & 11th**
+**{{% colortext color="#9c1c07" %}}November 10 & 11{{% /colortext %}}**
 
 #### Downtown Coos Bay Holiday Open House
 
