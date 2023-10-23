@@ -156,4 +156,4 @@ The Egyptian Theatre is hosting this Holiday Classic Movie plus an Ugly Sweater 
 
 #### January 1, 2024<br>Plunge into 2024 at the Polar Bear Plunge
 
-Got New Year's plans? You do now! Come on down for the New Year’s Eve Weekend festivities like the New Year's Eve Party at <a target="_blank" rel="noopener" href="https://themillcasino.com">The Mill Casino</a>, then kick off 2024 with the Polar Bear Plunge at 9:00am, January 1st at Sunset Bay State Park!
+Got New Year's plans? You do now! Kick off 2024 with the Polar Bear Plunge at 9:00am, January 1st at Sunset Bay State Park!
