@@ -132,7 +132,7 @@ Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive dee
 * **3:00pm-5:00pm - Holiday Block Party** in the Festival Tent near City Hall
 * **5:00pm - Annual North Bend Tree Lighting** in Grants Circle Roundabout outside City Hall&nbsp;
 * **5:30pm-6:30pm - Meet Santa!** in the Festival Tent near City Hall
-* **6:30pm-7:00pm - Lighted Truck Parade** cruises through downtown and midtown North Bend. *(Note:*&nbsp;*Parade Route follows the July Jubilee parade route)*
+* **7:00pm-7:30pm - Lighted Truck Parade** cruises through downtown and midtown North Bend. *(Note:*&nbsp;*Parade Route follows the July Jubilee parade route)*
 
 {{< spacer 50 >}}
 
