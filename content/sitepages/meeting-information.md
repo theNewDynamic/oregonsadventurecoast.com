@@ -1,15 +1,16 @@
 ---
+_schema: default
 title: About the VCB
+draft: false
 url: about-the-vcb
 layout: open-meetings
-photo: "/img/undeveloped-beaches-sub-header.jpg"
+photo: /img/undeveloped-beaches-sub-header.jpg
 seo:
-  description: ''
   title: ''
+  description: ''
   imgalt: ''
   image: ''
-date: '2019-02-18T19:35:33.000+00:00'
-
+date: 2019-02-18T11:35:33-08:00
 ---
 #### **The Coos Bay-North Bend Visitor & Convention Bureau (VCB)**
 
