@@ -132,7 +132,7 @@ Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive dee
 * **3:00pm-5:00pm - Holiday Block Party** in the Festival Tent near City Hall
 * **5:00pm - Annual North Bend Tree Lighting** in Grants Circle Roundabout outside City Hall&nbsp;
 * **5:30pm-6:30pm - Meet Santa!** in the Festival Tent near City Hall
-* **6:30pm-7:00pm - Lighted Truck Parade** cruises through downtown and midtown North Bend. *(Note:*&nbsp;*Parade Route follows the July Jubilee parade route)*
+* **7:00pm-7:30pm - Lighted Truck Parade** cruises through downtown and midtown North Bend. *(Note:*&nbsp;*Parade Route follows the July Jubilee parade route)*
 
 {{< spacer 50 >}}
 
@@ -156,4 +156,4 @@ The Egyptian Theatre is hosting this Holiday Classic Movie plus an Ugly Sweater 
 
 #### January 1, 2024<br>Plunge into 2024 at the Polar Bear Plunge
 
-Got New Year's plans? You do now! Come on down for the New Year’s Eve Weekend festivities like the New Year's Eve Party at <a target="_blank" rel="noopener" href="https://themillcasino.com">The Mill Casino</a>, then kick off 2024 with the Polar Bear Plunge at 9:00am, January 1st at Sunset Bay State Park!
+Got New Year's plans? You do now! Kick off 2024 with the Polar Bear Plunge at 9:00am, January 1st at Sunset Bay State Park!
