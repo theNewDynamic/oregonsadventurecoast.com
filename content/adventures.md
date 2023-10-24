@@ -84,6 +84,14 @@ boxes:
     hoverdescription: There's no better way to get up close to our world famous scenery.
     mobiletitle: Hiking / Walking
     url: /hiking-walking
+  - desktoptitle: Running
+    desktopphoto: /img/running-adventure-box.jpg
+    hovertitle: Go ahead - Run Wild!
+    hoverdescription: >-
+      Scenic trails, epic races and the home of  renowned long distance runner,
+      Steve Prefontaine.
+    mobiletitle: Running
+    url: /running
   - desktoptitle: Cycling
     desktopphoto: /img/coast-cycling.jpg
     hovertitle: Pedal Power Rules
@@ -162,14 +170,6 @@ boxes:
     hoverdescription: Coastal birds, migrating whales, playful seals and sea lions abound.
     mobiletitle: Birding & Wildlife
     url: /birding-and-wildlife
-  - desktoptitle: Running
-    desktopphoto: /img/running-adventure-box.jpg
-    hovertitle: Go ahead - Run Wild!
-    hoverdescription: >-
-      Scenic trails, epic races and the home of  renowned long distance runner,
-      Steve Prefontaine.
-    mobiletitle: Running
-    url: /running
 ---
 Take a vacation to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities with a variety of exciting things to do like Oregon Coast crabbing, clamming, salmon fishing, sand dune hiking, and more! Choose a few activities that will match your appetite for adventure!
 
