@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Running on Oregon's Adventure Coast
+title: Running
 draft: false
 url: /running
 photo: /img/running-page-large-header.jpg
@@ -38,8 +38,6 @@ Fans of renowned Coos Bay long distance runner [Steve Prefontaine](/steve-prefon
 
 {{< spacer "30" >}}
 
-
-
 ![](/img/prefontaine-mural-downtown-coos-bay-1.jpg)
 
 ### {{< spacer "60" >}}
@@ -50,7 +48,6 @@ Oregon's Adventure Coast offers an exhilarating experience for avid runners and 
 
 {{< spacer "30" >}}
 
-
 ![](blob:https://app.cloudcannon.com/877bfca5-f670-49ef-a0c0-0cbccbc33d90)![Roseburg to Coos Bay Run](/img/roseburg-to-coosbay-run-header.jpg)
 
 ### Roseburg to Coos Bay Relay
@@ -60,7 +57,6 @@ Oregon's Adventure Coast offers an exhilarating experience for avid runners and 
 This is a beautiful course on quiet country roads along a river featuring waterfalls, big trees, and serious hills.&nbsp; This is a 68-mile, 5 person running team or 24-mile, 4 person walking team. Staggered start depending on predicted finishing time. &nbsp;The slowest running teams (or those who want to get more value for money) will start at 6AM. &nbsp;Runners start at KPIC-TV parking lot in Roseburg, walkers start in Laverne Park, Coquille. The race will finish at the Coos Bay History Museum. <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/roseburg-to-coos-bay-relay/">Click here for race information.</a>
 
 {{< spacer 60 >}}
-
 
 ### ![](blob:https://app.cloudcannon.com/b26f1559-0364-4f09-8e88-5c7f8fd03b0b)![Circle the Bay Relay or Individual 30K](/img/circle-the-bay-header-1.jpg)
 
@@ -76,7 +72,6 @@ Experience the ultimate individual or team challenge at the "Circle the Bay" on 
 
 {{< spacer 60 >}}
 
-
 ![](blob:https://app.cloudcannon.com/81561eee-e34c-4348-9fb0-464764880743)![](/img/sunset-trail-run-header.jpg)
 
 ### Sunset Trail Run
@@ -86,7 +81,6 @@ Experience the ultimate individual or team challenge at the "Circle the Bay" on 
 This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A very challenging course for the longer distances and the views will take what breath you have left away. &nbsp;Seriously, this race has it all, killer hills through the woods, an amazing mostly flat cliff section where you’ll see sea lions, ocean rocks, the deep blue sea, and if you’re very lucky, a passing whale. <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/sunset-bay-trail-runs/">Click here for race information.</a>
 
 {{< spacer 60 >}}
-
 
 ![](blob:https://app.cloudcannon.com/4f407264-0398-45c1-a754-29e4fc07da3f)![Prefontaine Memorial Run Every September in Coos Bay, Oregon](/img/pre-memorial-run-header-1.jpg)
 
@@ -98,7 +92,6 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 
 {{< spacer 60 >}}
 
-
 ![](blob:https://app.cloudcannon.com/e5d3b239-7814-4d9d-854f-f37fd76377fd)![Run Whiskey Run on the famous Mountain Biking Trails every Fall](/img/run-whiskey-run-header-1.jpg)
 
 ### Run Whiskey Run
@@ -109,11 +102,9 @@ If you have ever wanted to take to the trails at Whiskey Run, but not on a mount
 
 {{< spacer 40 >}}
 
-
 If you're curious about other races happening in our area, the <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">South Coast Running Club's calendar</a> is your go-to resource. It's packed with exciting events that'll keep you on your toes and connected with fellow running enthusiasts!
 
 {{< spacer "60" >}}
-
 
 ### Stride & Supply: Lace Up with Our Running Club and Gear Shop
 
