@@ -1,15 +1,15 @@
 ---
+_schema: default
+title: Ice Skating in North Bend!
+startdate: '2023-12-02'
+enddate: '2024-02-14'
 address:
+  city: North Bend
   state: OR
   street: 2040 Union Avenue
   street2: ''
-  city: North Bend
   zip: '97459'
-title: Ice Skating in North Bend!
-startdate: '2022-12-03'
-enddate: '2023-02-19'
 phone_local: 541-756-8536
-phone_toll_free: ''
 website: https://www.northbendoregon.us/IceSkatingRink
 coordinates:
   lat: ''
@@ -23,49 +23,40 @@ desktoptitle: Ice Skating in North Bend, OR!!
 mobiletitle: Ice Skating in North Bend, OR!!
 hovertitle: Ice Skating in North Bend, OR!!
 hoverdescription: Lace up you ice skates and enjoy the only Ice Skating on the Coast!
-photo: "/img/skating-rink-hero.jpg"
-largeboxphoto: "/img/skating-rink-1024x395.jpg"
-mediumboxphoto: "/img/skating-rink-667x355.jpg"
-smallboxphoto: "/img/skating-rink-340x214.jpg"
-aliases: []
-
+photo: /img/skating-rink-hero.jpg
+largeboxphoto: /img/skating-rink-1024x395.jpg
+mediumboxphoto: /img/skating-rink-667x355.jpg
+smallboxphoto: /img/skating-rink-340x214.jpg
 ---
-![](/img/skating-rink-1024x395.jpg)  
-_(All photos courtesy of Xtraice, manufacturer of North Bend's Ice Skating Rink)_
+![](/img/skating-rink-1024x395.jpg)<br>*(All photos courtesy of Xtraice, manufacturer of North Bend's Ice Skating Rink)*
 
-### EXTENDED THROUGH FEBRUARY 19TH!!!
+#### Bring your friends, bring your family and enjoy the Only Ice Skating Rink on the Oregon Coast! From early December through Valentine's Day, lace up a pair of skates and take to the ice.&nbsp;
 
-#### Bring your friends, bring your family and enjoy North Bend's Newest Attraction - Ice Skating! From early December through Valentine's Day, lace up a pair of skates and take to the ice. This is the only Ice Skating Rink on the Oregon Coast!
+{{< spacer 25 >}}
 
-{{< spacer 25>}}
+#### Hours: Coming Soon!
 
-#### Hours: UPDATED 1/18/23
 
-**Fridays** 4pm-8pm  
-**Saturdays** 11am-3pm and 5pm-9pm  
-**Sundays** 2pm-6pm
 
-Private parties offered during the week
-
-#### {{< spacer 25>}}
+#### {{< spacer 25 >}}
 
 #### Cost:
 
 **$5.00 per hour Skate Rental Fee**
 
-{{< spacer 25>}}
+{{< spacer 25 >}}
 
 #### Waiver:
 
 Ice Skating Waiver required. [Download it here](/img/iceskatingwaiverform2013215120622am.pdf).
 
-{{< spacer 25>}}
+{{< spacer 25 >}}
 
 #### Code of Conduct:
 
 Please read this [Skater's Code of Conduct](/img/skaterscodeofconduct2013242120622am.pdf) document before visiting the rink.
 
-{{< spacer 25>}}
+{{< spacer 25 >}}
 
 #### FAQ:
 
@@ -81,10 +72,10 @@ Please read this [Skater's Code of Conduct](/img/skaterscodeofconduct20132421206
 
 **Just want to watch others wobble along on thin-bladed skates?** You can do that too. There is seating under the tent!
 
-#### 
+####
 
 Contact [nbinfo@northbendcity.org](mailto:nbinfo@northbendcity.org) for private rentals, group reservations, and sponsorship opportunities.
 
 Stay tuned for special themed nights, including Disco Ice Skating Nights, Movie Ice Skating Nights, Costume Ice Skating Nights, Karaoke Ice Skating Nights, and much more!
 
-_Dates and times subject to change._
+*Dates and times subject to change.*

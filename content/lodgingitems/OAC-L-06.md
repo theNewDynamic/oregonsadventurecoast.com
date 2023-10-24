@@ -22,13 +22,12 @@ amenityList:
   - 9 - Handicap Accessible
   - 10 - Chamber Member
 address:
-  street: 275 E. Johnson Avenue
-  street2:
   city: Coos Bay
   state: OR
+  street: 275 E. Johnson Avenue
+  street2:
   zip: '97420'
 phone_local: 541-267-0423
-phone_toll_free: 800-233-0423
 website: https://www.choicehotels.com/en-ca/oregon/coos-bay/choice-hotels/or339
 coordinates:
   lat: '43.359212'
