@@ -36,7 +36,7 @@ Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this s
 
 Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring over 325,000 holiday lights (nearly all of them LED), 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished community tradition is made possible by the dedicated efforts of over 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in thousands of visitors from all over the world!&nbsp;
 
-<br>​​​​Only access to the inside of the Garden home. Treats,&nbsp;<br>
+​​​​Only access to the inside of the Garden home. Treats,&nbsp;<br>
 
 {{< spacer 25 >}}
 
