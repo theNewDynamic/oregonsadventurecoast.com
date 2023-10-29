@@ -30,23 +30,13 @@ aliases:
 
 ### **The brightest and most beautiful place on the Oregon Coast Shines**
 
-Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve – including Christmas Eve and Christmas Day.&nbsp;
+Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family.
 
 
 
-Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring a staggering 325,000 holiday lights (nearly all of them LED), 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished "community tradition" is made possible by the dedicated efforts of over 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in approximately 50,000 visitors who come to bask in its radiance.
+Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring over 325,000 holiday lights (nearly all of them LED), 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished community tradition is made possible by the dedicated efforts of over 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in thousands of visitors from all over the world!&nbsp;
 
-<br>​​​​Only access to the inside of the Garden home. Treats,&nbsp;
-
-Stroll through world-renowned Holiday Lights&nbsp;
-
-Starting in October, hundreds of volunteers begin setting up more than 325,000 LED lights, whimsical animated displays, elaborately decorated trees, . *A holiday tradition for the whole family.*
-
-
-
-This festive annual display debuts on Thanksgiving Day (Thursday, November 23rd) and will light up Shore Acres State Park from 4:30 pm - 9:00 pm each night (including December 24th & 25th) thru December 31st.
-
-<br>This festive annual display debuts on Thanksgiving Day (Thursday, November 23th) and will light up Shore Acres State Park from 4:30pm - 9pm each night (including December 24th & 25th) thru December 31st.<br>The Friends of Shore Acres launched the Holiday Lights show in 1987 and it continues to delight visitors all these years later.<br>
+<br>​​​​Only access to the inside of the Garden home. Treats,&nbsp;<br>
 
 {{< spacer 25 >}}
 
