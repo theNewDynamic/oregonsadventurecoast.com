@@ -22,23 +22,29 @@ aliases:
   - /holidaylights
   - /HolidayLights
 ---
-![32nd Annual Holiday Lights at Shore Acres](/img/holiday-lights-695x322.jpg)
+![Holiday Lights at Shore Acres State Park - Logo](/img/holidaylights-logo-header.jpg)
 
-{{< floatimage src="/img/Holiday-Lights-Logo-320px.png" float="right" alt="Annual Holiday Lights at Shore Acres State Park in Charleston, Oregon" size="100" >}}
 
-## **Book your <u>Parking Pass</u>&nbsp;Now - <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">Click Here</a>.**
 
-**Reminder! You are booking a <u>PARKING PASS</u> not Individual Tickets. ONE PARKING PASS NEEDED NO MATTER HOW MANY PEOPLE ARE IN THE VEHICLE!!!**
+###
 
-### {{< spacer 50 >}}
+### **The brightest and most beautiful place on the Oregon Coast Shines**
 
-### **The brightest and most beautiful place on the West Coast Shines from Thanksgiving to New Year's Eve.**
 
-{{< spacer 35 >}}
 
-Famous for its beautiful 7-acre botanical gardens and Japanese lily pond, Shore Acres State Park shines with more than 325,000 LED lights, whimsical animated displays, and more. *A holiday tradition for the whole family.*
+Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season from Thanksgiving to New Year's Eve at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Starting in October, hundreds of volunteers set up more than shines with more than 325,000 LED lights, whimsical animated displays, and more. *A holiday tradition for the whole family.*
+
+
+
+Stroll through world-renowned Holiday Lights&nbsp;
+
+
+
+
 
 This festive annual display debuts on Thanksgiving Day (Thursday, November 23rd) and will light up Shore Acres State Park from 4:30 pm - 9:00 pm each night (including December 24th & 25th) thru December 31st.
+
+<br>This festive annual display debuts on Thanksgiving Day (Thursday, November 23th) and will light up Shore Acres State Park from 4:30pm - 9pm each night (including December 24th & 25th) thru December 31st.<br>The Friends of Shore Acres launched the Holiday Lights show in 1987 and it continues to delight visitors all these years later.<br>
 
 {{< spacer 25 >}}
 
