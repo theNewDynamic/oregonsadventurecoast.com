@@ -36,15 +36,21 @@ Earlier this spring, **Oregon’s Adventure Coast: Coos Bay, North Bend, Charles
 
 It was an honor to have Chef Vinny DiCostanzo and his crew visit our area and experience some of the best food and adventures on Oregon's Adventure Coast: Coos Bay, North Bend, Charleston. In Season 3, Episode 2- DiCostanzo stops by [<u>Vinny's Smokin' Good Burgers &amp; Sandwiches</u>](https://www.vinnyssmokinburgers.com/) in North Bend, where owner Vinny Catanzaro (yes, similar name, different person) treated host Vinny DiCostanzo to “Loaded Mac-N-Cheese” along with their popular dish, "The Godfather" - a decadent beast of a burger with a double beef patty burger topped with sauteed mushrooms, onions, cheese, pulled pork and all kinds of smokin' good flavors.&nbsp;
 
+{{< spacer "30" >}}
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fvinnyssmokinburgers%2Fposts%2Fpfbid02DZMCS2TSAtQj1w1HCkjDuZb7vQQMmUqFVgrSLgLbKFha6xYoSgFazaw8VAGjc5vJl&show_text=true&width=500" width="500" height="529" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+{{< spacer "30" >}}
 
 Later in the day, DiCostanzo heads to [<u>Box Car Hill Campground | Atv Rental Services</u>](https://boxcarhilloregon.com/) in North Bend to chat with owner Todd Goergen after embarking on a thrilling sand rail ride (at speeds up to 75 mph!) in the [<u>Oregon Dunes National Recreation Area</u>](https://www.oregonsadventurecoast.com/untamed-dunes/) with professional Sand Rail Driver, Richard Emery. He later heads to Coos Bay to visit our friends at the [<u>Coos History Museum</u>](https://cooshistory.org/). Executive Director Heather Christenbury and Board Member, historian Steven Greif, share a wealth of knowledge about the richly diverse culture in Coos County as they guide DiCostanzo on an unforgettable tour. The host was genuinely impressed with the museum’s unique features and exhibits that demonstrate the significant impact our community has had on the Pacific Northwest throughout history.&nbsp;&nbsp;
 
 Before packing up and heading home, DiCostanzo gets one last call from Vinny Catanzaro who insists on sending him home with a massive burrito from his other restaurant, [<u>Yaya's Burrito &amp; Bowls</u>](https://www.facebook.com/YayasNorthBend/). You can’t let a fellow restaurateur leave hungry! We’re so happy to see these visitors enjoy their time in Coos Bay, North Bend, Charleston, and look forward to seeing them again soon! To see their full experience, we highly recommend watching the full episode.&nbsp;
 
-**(AMY’S NOTE EMBED** [**<u>VIDEO</u>**](https://www.pbs.org/video/coos-bay-north-bend-charleston-oregon-bfiq8g/)**)**
+{{< spacer "30" >}}
 
-<div class="pbs-viral-player-wrapper" style="position: relative; padding-top: calc(56.25% + 43px);"><iframe src="https://player.pbs.org/viralplayer/3084793672/" allowfullscreen allow="encrypted-media" style="position: absolute; top: 0; width: 100%; height: 100%; border: 0;"></iframe></div>
+<div class="pbs-viral-player-wrapper"><iframe src="https://player.pbs.org/viralplayer/3084793672/" allowfullscreen allow="encrypted-media" style="position: absolute; top: 0; width: 100%; height: 100%; border: 0;"></iframe></div>
+
+{{< spacer "50" >}}
 
 You can also watch Vinny’s [<u>NEW follow-up episode of All Across Oregon</u>](https://www.youtube.com/watch?v=XHpnVRpY8ro) where he visits the famous [<u>Pancake Mill Restaurant and Pie Shoppe</u>](https://pancakemill.com/) in North Bend, goes fishing for lingcod with [<u>Betty Kay Charters</u>](https://bettykaycharters.com/), enjoys a decadent sweet treat at [<u>Scoops Handmade Ice Cream</u>](https://scoops.life/) in North Bend, and samples some of the best fish-in-chips in town at [<u>Blue Heron Bistro</u>](http://www.blueheronbistro.net/) (also specializes in German cuisine).
 
