@@ -24,15 +24,11 @@ aliases:
 ---
 ![Holiday Lights at Shore Acres State Park - Logo](/img/holidaylights-logo-header.jpg)
 
-
-
 ###
 
 ### **The brightest and most beautiful place on the Oregon Coast Shines**
 
 Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. Admission is always free!
-
-
 
 Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring over 325,000 holiday lights (nearly all of them LED), 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished community tradition is made possible by the dedicated efforts of over 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in thousands of visitors from all over the world!&nbsp;
 
@@ -56,7 +52,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 4. Print your pass. You must bring the pass with you to enter the park.
 5. Have more questions? **Call 541-888-3778**, the local State Parks office.
 
-
+### &lt;a class="learn-more-anywhere-btn" href=“https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381” target="\_blank"&gt;BOOK PARKING PASS
 
 {{< spacer 25 >}}
 
