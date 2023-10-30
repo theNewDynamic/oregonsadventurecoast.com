@@ -36,6 +36,7 @@ Take a break in the garden house to cozy up and savor some cookies along with a 
 
 {{< spacer 50 >}}
 
+
 #### ![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle.png)
 
 #### {{< spacer "50" >}}
@@ -60,27 +61,31 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 {{< spacer 25 >}}
 
+
 ***Important Park Pass Information:** If you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $5 will be waived. **You still have to book online.**&nbsp;**You will need to present your event parking pass AND your special pass at the gate.***
 
 *{{< spacer 50 >}}*
 
-*![Holiday Lights Shuttle Bus Details header](/img/shuttle-bus-info-hdr.jpg)*
 
-#### {{< spacer "30" >}}
+![Holiday Lights Shuttle Bus Details header](/img/shuttle-bus-info-hdr.jpg)
+
+{{< spacer "30" >}}
 
 #### Shuttle Bus From The Charleston Marina
 
 This year brings a new way to beat the traffic and parking - a **FREE Shuttle Bus!**&nbsp;The shuttle will run between the Charleston Marina and Shore Acres State Park Thursdays, Fridays, and Saturdays throughout the six weeks starting from Thanksgiving and leading up to New Year's Eve. It's the perfect way to enjoy the enchanting lights display at Shore Acres, even running on Christmas Eve and Christmas Day. Notably, this service is wheelchair-accessible and can transport around 100 people per hour. Make the most of the season and take a ride on our shuttle to experience the magic of Shore Acres State Park's holiday lights show!&nbsp;*Funded in part by the Ford Family Foundation and the Coos Bay - North Bend - Charleston Visitor and Convention Bureau.*
 
-*{{< spacer "50" >}}*
+{{< spacer "50" >}}
+
+
 
 {{< youtube id="jHnNm_Gy7CA" >}}
 
-### {{< spacer "50" >}}
+{{< spacer "50" >}}
 
 ### Tips to make your Shore Acres visit more enjoyable
 
-<br>{{< columns number="2" >}}#### Viewing Tips
+{{< columns number="2" >}}#### Viewing Tips
 
 ---
 
@@ -102,22 +107,29 @@ divider
 
 **Arrive Early -** Book an early time slot for the lights and see the ocean waves, the park, and the lights' sparkling transition from daylight to dark!{{< /columns >}}
 
+
+
 {{< spacer 50 >}}
+
+
 
 ![](/img/little-girl-frog-collage-695x322.jpg)
 
 {{< spacer 25 >}}
 
-### **Here are some other things to see and do while in Charleston, Coos Bay & North Bend!**
 
-**Check out our [Holiday Happenings](/event/christmas-at-the-coast)&nbsp;page for all there is to do during the holiday season this year!**
+
+![](/img/holiday-happenings-button.jpg)
+
+{{< spacer "30" >}}
+
+### **Here are some other things to see and do while in Charleston, Coos Bay & North Bend!**
 
 In **Charleston**, stop in at the [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/) and discover the marine life and coastal ecosystem just off Oregon's coast. Take a stroll along [Bastendorff Beach](https://oregonsadventurecoast.com/blog/2017-08-29-spotlight-on-bastendorff-beach/). You might even see a surfer taking on the waves. And if you have more time this visit, take a [fishing charter](https://oregonsadventurecoast.com/tour-guides-and-charters/) out of the Charleston Marina.
 
 In **Coos Bay**, take a stroll along the boardwalk and visit the Coos Bay Visitor Information Center where you will see the 30' lighted tree! Visit the [Coos History Museum](https://cooshistory.org/) and explore our area's culture and history. Visit the [Coos Art Museum](https://www.coosart.org/) to see the latest exhibition, their permanent collection, and the Steve Prefontaine Gallery. And [catch a bite to eat](https://oregonsadventurecoast.com/dining/) at one of our many casual restaurants and coffee shops.
 
 In **North Bend**, take a stroll downtown and visit [quaint, one-of-a-kind shops](https://oregonsadventurecoast.com/shopping/) and cafes. Take to the ice at the only Ice Skating Rink on the Oregon Coast! (Thanksgiving to Valentine's Day) Cross over the historic McCullough Bridge on your way to Horsfall Beach at the tip of the [Oregon Dunes National Recreation Area](https://oregonsadventurecoast.com/untamed-dunes/) and one of the many ATV rental locations in the area.
-
 
 
 ![Shore Acres Holiday Lights - Charleston, Oregon](/img/holiday-lights-shore-acres-panoramic.jpg)
