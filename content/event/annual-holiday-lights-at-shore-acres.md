@@ -86,7 +86,7 @@ This year brings a new way to beat the traffic and parking - a **FREE Shuttle Bu
 
 **MAKE SURE YOU HAVE YOUR TIMED ENTRY PARKING PASS BEFORE YOU HEAD TO THE PARK!**
 
-**Fridays through Sundays are the busiest and Mondays through Thursdays are less busy.**
+**The peak traffic days are Fridays through Sundays, while Mondays through Thursdays are typically quieter.**
 
 **There is less traffic on rainy nights and the lights are beautiful in the rain!**
 
