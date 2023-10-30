@@ -38,12 +38,7 @@ It was an honor to have Chef Vinny DiCostanzo and his crew visit our area and ex
 
 **(AMY’S NOTE EMBED THIS** [**<u>FB POST</u>**](https://www.facebook.com/vinnyssmokinburgers/posts/1396066970505808/)**)**
 
-**&lt;iframe src="[https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fvinnyssmokinburgers%2Fposts%2Fpfbid02DZMCS2TSAtQj1w1HCkjDuZb7vQQMmUqFVgrSLgLbKFha6xYoSgFazaw8VAGjc5vJl&show\_text=true&width=500](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fvinnyssmokinburgers%2Fposts%2Fpfbid02DZMCS2TSAtQj1w1HCkjDuZb7vQQMmUqFVgrSLgLbKFha6xYoSgFazaw8VAGjc5vJl&amp;show_text=true&amp;width=500)" width="500" height="529" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"&gt;&lt;/iframe&gt;**
-
-{{< iframe "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fvinnyssmokinburgers%2Fposts%2Fpfbid02DZMCS2TSAtQj1w1HCkjDuZb7vQQMmUqFVgrSLgLbKFha6xYoSgFazaw8VAGjc5vJl&show_text=true&width=500" >}}
-
-{{< iframe "https://www.facebook.com/vinnyssmokinburgers/posts/1396066970505808" >}}
-
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fvinnyssmokinburgers%2Fposts%2Fpfbid02DZMCS2TSAtQj1w1HCkjDuZb7vQQMmUqFVgrSLgLbKFha6xYoSgFazaw8VAGjc5vJl&show_text=true&width=500" width="500" height="529" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 Later in the day, DiCostanzo heads to [<u>Box Car Hill Campground | Atv Rental Services</u>](https://boxcarhilloregon.com/) in North Bend to chat with owner Todd Goergen after embarking on a thrilling sand rail ride (at speeds up to 75 mph!) in the [<u>Oregon Dunes National Recreation Area</u>](https://www.oregonsadventurecoast.com/untamed-dunes/) with professional Sand Rail Driver, Richard Emery. He later heads to Coos Bay to visit our friends at the [<u>Coos History Museum</u>](https://cooshistory.org/). Executive Director Heather Christenbury and Board Member, historian Steven Greif, share a wealth of knowledge about the richly diverse culture in Coos County as they guide DiCostanzo on an unforgettable tour. The host was genuinely impressed with the museum’s unique features and exhibits that demonstrate the significant impact our community has had on the Pacific Northwest throughout history.&nbsp;&nbsp;
 
