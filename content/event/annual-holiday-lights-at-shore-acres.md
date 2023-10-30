@@ -22,7 +22,7 @@ aliases:
   - /holidaylights
   - /HolidayLights
 ---
-![Holiday Lights at Shore Acres State Park - Logo](/img/holidaylights-logo-header.jpg)
+![Holiday Lights at Shore Acres State Park - Logo](/img/holidaylights-logo-header-1.jpg)
 
 ### **The brightest and most beautiful place on the Oregon Coast Shines**
 
@@ -36,7 +36,7 @@ Take a break in the garden house to cozy up and savor some cookies along with a 
 
 {{< spacer 50 >}}
 
-#### ![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle.png)
+#### ![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle-1.png)
 
 #### {{< spacer "50" >}}
 
@@ -102,7 +102,7 @@ divider
 
 {{< spacer 25 >}}
 
-![](/img/holiday-happenings-button.jpg)[![](/img/holiday-happenings-button-1.jpg)](/event/christmas-at-the-coast)
+![](/img/holiday-happenings-button.jpg)
 
 {{< spacer "30" >}}
 
