@@ -102,7 +102,7 @@ divider
 
 {{< spacer 25 >}}
 
-![](/img/holiday-happenings-button.jpg)
+[![](/img/holiday-happenings-button.jpg)](/event/christmas-at-the-coast)
 
 {{< spacer "30" >}}
 
