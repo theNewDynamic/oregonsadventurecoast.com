@@ -26,7 +26,9 @@ aliases:
 
 ###
 
-### **The brightest and most beautiful place on the Oregon Coast Shines**
+### **The brightest and most beautiful place on the**
+
+### **Oregon Coast Shines**
 
 Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. Admission is always free!
 
@@ -36,9 +38,17 @@ Take a break in the garden house to cozy up and savor some cookies along with a 
 
 {{< spacer 50 >}}
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
+
 #### ![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle.png)
 
 #### {{< spacer "30" >}}
+
+#### ![Holiday Lights Parking Pass Header](/img/parking-pass-details-header.jpg)
 
 #### **Time-Specific Parking Pass**
 
@@ -56,11 +66,29 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 {{< spacer 25 >}}
 
-***NOTE: you will NOT be able to purchase entry tickets at the gate this year.*** *You must do this in advance*.
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">25</p></div></div></div></div>
 
-***Also Note:*** if you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $5 will be waived. ***You still have to book ONLINE!!*** ***You will need to present your event parking pass AND your special pass at the gate.***
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
 
-{{< spacer 50 >}}
+
+
+***NOTE: You will NOT be able to purchase entry tickets at the gate this year.*** *Parking Passes must be purchased in advance.*&nbsp;
+
+***ALSO NOTE:** If you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $5 will be waived. **You still have to book online.**&nbsp;**You will need to present your event parking pass AND your special pass at the gate.***
+
+*{{< spacer 50 >}}*
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded"><em>No preview available</em></p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><em><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon> </em></div><div class="c-card__heading-content"><p class="c-card__text "><em>Spacer</em></p><p class="c-card__subtext"><em>50 </em></p></div></div></div></div>
+
+*<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />*
+
+
+
+*![Holiday Lights Shuttle Bus Details header](/img/shuttle-bus-info-hdr.jpg)*
+
+#### Shuttle Bus From The Charleston Marina
+
+This year brings a new way to beat the traffic and parking - a **FREE Shuttle Bus!**&nbsp;The shuttle will run between the Charleston Marina and Shore Acres State Park Thursdays, Fridays, and Saturdays throughout the six weeks starting from Thanksgiving and leading up to New Year's Eve. It's the perfect way to enjoy the enchanting lights display at Shore Acres, even running on Christmas Eve and Christmas Day. Notably, this service is wheelchair-accessible and can transport around 100 people per hour. Make the most of the season and take a ride on our shuttle to experience the magic of Shore Acres State Park's holiday lights show!&nbsp;*Funded in part by the Ford Family Foundation and the Coos Bay - North Bend - Charleston Visitor and Convention Bureau.*
 
 {{< youtube id="oMwQeDRya7o" >}}
 
@@ -97,11 +125,29 @@ Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or
 
 {{< /columns >}}
 
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:text_snippet" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Columns</p><p class="c-card__subtext">#### Viewing Tips *** MAKE SURE YOU HAVE YOUR TIMED ENTRY PARKING PASS BEFORE YOU HEAD TO THE PARK! Fridays through Sundays are the busiest. Mondays through Thursdays are less busy. There is less traffic on rainy nights and the lights are beautiful in the rain! divider #### Other Tips *** $5 parking fee - MUST BOOK ONLINE AS NOTED ABOVE Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or current Campground Receipt. See information above on how to book your time. Animals - Dogs and other animals are not allowed outside vehicles at Shore Acres. Exception: Service Animals Wheelchairs - the park has a few wheelchairs available to those who may need them. These are available on a first-come basis. Arrive Early - Book an early time slot for the lights and see the ocean waves, the park, and the lights' sparkling transition from daylight to dark!</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
+
 {{< spacer 50 >}}
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
 
 ![](/img/11-20-17-coosbayholiday-contest-rules.jpg)
 
 {{< spacer 25 >}}
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">25</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
+
+
 
 ### **Here are some other things to see and do while in Charleston, Coos Bay & North Bend!**
 
