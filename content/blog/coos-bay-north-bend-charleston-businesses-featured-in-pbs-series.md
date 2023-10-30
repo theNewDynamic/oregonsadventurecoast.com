@@ -25,6 +25,11 @@ tags:
   - Scoops Handmade Ice Cream
   - Blue Heron Bistro
   - Fall 15% Lodging Special
+categories:
+  - Local Food & Drink
+  - Fishing
+  - Arts & Culture
+  - Outdoor Adventures
 warning: false
 ---
 Earlier this spring, **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** joined a growing list of Oregon communities with the distinct honor of being featured on [<u>All Across Oregon</u>](https://www.pbs.org/show/all-across-oregon/), a unique food and travel series featured on PBS. The series follows the adventures of New York native and owner of Vinny’s Italian Kitchen in Medford, [<u>Chef Vinny DiCostanzo</u>](https://www.wweek.com/arts/television/2022/03/08/chef-vinny-dicostanzo-showcases-oregons-restaurateurs-and-entrepreneurs-on-opbs-all-across-oregon/). In the series, now in its 3rd season, DiCostanzo highlights the interesting people, the stories, the delicious food, and the unique experiences that one can only encounter in Oregon.&nbsp;
