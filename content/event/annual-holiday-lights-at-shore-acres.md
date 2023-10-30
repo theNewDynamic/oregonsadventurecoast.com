@@ -30,28 +30,34 @@ aliases:
 
 ### **The brightest and most beautiful place on the Oregon Coast Shines**
 
-Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family.
+Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. Admission is always free!
 
 
 
 Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring over 325,000 holiday lights (nearly all of them LED), 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished community tradition is made possible by the dedicated efforts of over 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in thousands of visitors from all over the world!&nbsp;
 
-​​​​Only access to the inside of the Garden home. Treats,&nbsp;<br>
+Take a break in the garden house to cozy up and savor some cookies along with a steaming cup of apple cider. Delve into the opulently adorned house and catch a glimpse of Santa "soaking" in the bathtub.
 
-{{< spacer 25 >}}
+{{< spacer 50 >}}
 
-#### BOOK YOUR TIMED ENTRY <u>PARKING PASS</u>!
+#### ![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle.png)
 
-[**Holiday Lights visitation will be through a timed reservation system**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381). **PASSES ARE PER VEHICLE, NOT PER PERSON!** This is an effort to decrease long wait times and backed-up traffic conditions.
+#### {{< spacer "30" >}}
 
-**Entry into the lights is Free, but you must pay the *$5 parking fee per vehicle* to park at Shore Acres for the Event - in advance this year.**
+{{< columns number="2" >}}**Time-Specific Parking Pass**
 
-**Here’s how to do it!**
+If you're planning to drive, you will need a parking pass at Shore Acres State Park.&nbsp;{{< /columns >}}
 
-1. **Pick your day/time to visit** - note that half of the parking tickets will be sold in advance with the rest available within 7 days of entry
-2. [**Visit the OPRD website**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381) **or click the Book Now Button below to book your time**
-3. **Pay the $5 fee** per vehicle
-4. **Print your pass** - you must bring the pass with you to enter the park
+#### **Time-Specific Parking Pass**
+
+If you're planning to drive, you will need a special **Time-Specific Parking Pass**&nbsp;in advance at Shore Acres State Park, this year. In an effort to reduce wait times and backed up traffic conditions, you'll be required to make a&nbsp;**Parking Pass reservation** to visit. These Parking Pass reservations are per vehicle, not per person. The passes are only $5 per vehicle, unless you already have an annual park pass *(see annual park pass details below)*&nbsp; Either way, an advance online reservation is still required. Parking Passes are managed by the <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">Oregon State Parks</a>.
+
+**Here’s how to get your Parking Pass:**
+
+1. Click the **Book Now** button below.
+2. Pick your day/time to visit. Note: Half of the parking tickets will be sold in advance with the rest available within 7 days of entry.
+3. Pay the $5 fee per vehicle.
+4. Print your pass. You must bring the pass with you to enter the park.
 5. Have more questions? **Call 541-888-3778**, the local State Parks office.
 
 {{< spacer 25 >}}
