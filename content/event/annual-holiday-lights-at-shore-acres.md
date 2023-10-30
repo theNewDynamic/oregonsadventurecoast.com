@@ -22,7 +22,7 @@ aliases:
   - /holidaylights
   - /HolidayLights
 ---
-![Holiday Lights at Shore Acres State Park - Logo](/img/holidaylights-logo-header.jpg)\+
+![Holiday Lights at Shore Acres State Park - Logo](/img/holidaylights-logo-header.jpg)
 
 ### **The brightest and most beautiful place on the**
 
@@ -108,7 +108,7 @@ divider
 
 {{< spacer 50 >}}
 
-![](/img/11-20-17-coosbayholiday-contest-rules.jpg)
+![](/img/little-girl-frog-collage-695x322.jpg)
 
 {{< spacer 25 >}}
 
@@ -122,6 +122,6 @@ In **Coos Bay**, take a stroll along the boardwalk and visit the Coos Bay Visito
 
 In **North Bend**, take a stroll downtown and visit [quaint, one-of-a-kind shops](https://oregonsadventurecoast.com/shopping/) and cafes. Take to the ice at the only Ice Skating Rink on the Oregon Coast! (Thanksgiving to Valentine's Day) Cross over the historic McCullough Bridge on your way to Horsfall Beach at the tip of the [Oregon Dunes National Recreation Area](https://oregonsadventurecoast.com/untamed-dunes/) and one of the many ATV rental locations in the area.
 
-![Shore Acres Holiday Lights - Charleston, Oregon](/img/Shore-Acres-Holiday-Lights-Collage-3.jpg)
+
 
 ![Shore Acres Holiday Lights - Charleston, Oregon](/img/holiday-lights-shore-acres-panoramic.jpg)
