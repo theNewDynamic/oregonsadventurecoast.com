@@ -1,14 +1,6 @@
 ---
+_schema: default
 title: Annual Cruz The Coos
-photo: "/img/cruz-coos-2048x530.jpg"
-largeboxphoto: "/img/cruz-1024x395.jpg"
-mediumboxphoto: "/img/cruz-667x355.jpg"
-smallboxphoto: "/img/cruz-340x214.jpg"
-desktoptitle: Annual Cruz The Coos
-mobiletitle: Cruz The Coos
-hovertitle: 'Cruz The Coos '
-hoverdescription: One of the longest-running and largest classic car cruises on the
-  Oregon Coast
 startdate: '2023-09-16'
 enddate: '2023-09-16'
 address:
@@ -16,9 +8,16 @@ address:
   state: OR
   street: 50 Central Avenue
   zip: 97420
-phone_local: "(541) 267-4441"
+phone_local: (541) 267-4441
 website: https://cruzthecoos.com/
-
+desktoptitle: Annual Cruz The Coos
+mobiletitle: Cruz The Coos
+hovertitle: 'Cruz The Coos '
+hoverdescription: One of the longest-running and largest classic car cruises on the Oregon Coast
+photo: /img/cruz-coos-2048x530.jpg
+largeboxphoto: /img/cruz-1024x395.jpg
+mediumboxphoto: /img/cruz-667x355.jpg
+smallboxphoto: /img/cruz-340x214.jpg
 ---
 ![](/img/cruz-coos-768x512.jpeg)
 
@@ -32,16 +31,13 @@ Cruz the Coos is one of the **longest-running and largest classic car cruises** 
 
 #### Saturday, September 16 Schedule
 
-**11am - 2pm - Show 'n Shine**  
-The Mill Casino Parking Lot  
-_Can Still sign up that morning between 7:30am-9am_
+**11am - 2pm - Show 'n Shine**<br>The Mill Casino Parking Lot<br>*Can Still sign up that morning between 7:30am-9am*
 
 **Between 2pm & 3pm - Awards Presentation**
 
 **5:00pm - Cars line up for Cruz**
 
-**6:00pm-7:30pm - Cruz the Coos  
-Through downtown Coos Bay!**
+**6:00pm-7:30pm - Cruz the Coos<br>Through downtown Coos Bay!**
 
 {{< spacer 25 >}}
 
@@ -59,7 +55,7 @@ While you’re in the area, enjoy the **Bay Area Fun Festival**, one of the larg
 
 #### HERE ARE THE OTHER EXCITING EVENTS HAPPENING THIS WEEKEND!
 
-***
+---
 
 {{< columns number="2" >}}
 
