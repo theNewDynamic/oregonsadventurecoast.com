@@ -44,7 +44,7 @@ Before packing up and heading home, DiCostanzo gets one last call from Vinny Cat
 
 **(AMY’S NOTE EMBED** [**<u>VIDEO</u>**](https://www.pbs.org/video/coos-bay-north-bend-charleston-oregon-bfiq8g/)**)**
 
-<iframe width="512" height="332" src="[https://player.pbs.org/viralplayer/3084793672/](https://player.pbs.org/viralplayer/3084793672/)" allowfullscreen allow="encrypted-media" style="border: 0;"></iframe>
+<div class="pbs-viral-player-wrapper" style="position: relative; padding-top: calc(56.25% + 43px);"><iframe src="https://player.pbs.org/viralplayer/3084793672/" allowfullscreen allow="encrypted-media" style="position: absolute; top: 0; width: 100%; height: 100%; border: 0;"></iframe></div>
 
 You can also watch Vinny’s [<u>NEW follow-up episode of All Across Oregon</u>](https://www.youtube.com/watch?v=XHpnVRpY8ro) where he visits the famous [<u>Pancake Mill Restaurant and Pie Shoppe</u>](https://pancakemill.com/) in North Bend, goes fishing for lingcod with [<u>Betty Kay Charters</u>](https://bettykaycharters.com/), enjoys a decadent sweet treat at [<u>Scoops Handmade Ice Cream</u>](https://scoops.life/) in North Bend, and samples some of the best fish-in-chips in town at [<u>Blue Heron Bistro</u>](http://www.blueheronbistro.net/) (also specializes in German cuisine).
 
