@@ -34,6 +34,8 @@ Since its inception in 1987, the annual Holiday Lights celebration has seen a re
 
 Take a break in the garden house to cozy up and savor some cookies along with a steaming cup of apple cider. Delve into the opulently adorned house and catch a glimpse of Santa "soaking" in the bathtub.
 
+**[Check out all the Holiday Happenings while you're here!](/event/christmas-at-the-coast)**
+
 {{< spacer 50 >}}
 
 #### ![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle.png)
@@ -74,7 +76,11 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 This year brings a new way to beat the traffic and parking - a **FREE Shuttle Bus!**&nbsp;The shuttle will run between the Charleston Marina and Shore Acres State Park Thursdays, Fridays, and Saturdays throughout the six weeks starting from Thanksgiving and leading up to New Year's Eve. It's the perfect way to enjoy the enchanting lights display at Shore Acres, even running on Christmas Eve and Christmas Day. Notably, this service is wheelchair-accessible and can transport around 100 people per hour. Make the most of the season and take a ride on our shuttle to experience the magic of Shore Acres State Park's holiday lights show!&nbsp;*Funded in part by the Ford Family Foundation and the Coos Bay - North Bend - Charleston Visitor and Convention Bureau.*
 
+*{{< spacer "50" >}}*
+
 {{< youtube id="jHnNm_Gy7CA" >}}
+
+### {{< spacer "50" >}}
 
 ### Tips to make your Shore Acres visit more enjoyable
 
@@ -107,6 +113,8 @@ divider
 {{< spacer 25 >}}
 
 ### **Here are some other things to see and do while in Charleston, Coos Bay & North Bend!**
+
+**Check out our [Holiday Happenings](/event/christmas-at-the-coast)&nbsp;page for all there is to do during the holiday season this year!**
 
 In **Charleston**, stop in at the [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/) and discover the marine life and coastal ecosystem just off Oregon's coast. Take a stroll along [Bastendorff Beach](https://oregonsadventurecoast.com/blog/2017-08-29-spotlight-on-bastendorff-beach/). You might even see a surfer taking on the waves. And if you have more time this visit, take a [fishing charter](https://oregonsadventurecoast.com/tour-guides-and-charters/) out of the Charleston Marina.
 
