@@ -52,7 +52,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 4. Print your pass. You must bring the pass with you to enter the park.
 5. Have more questions? **Call 541-888-3778**, the local State Parks office.
 
-&lt;a class="learn-more-anywhere-btn" href=“https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381” target="\_blank"&gt;BOOK PARKING PASS&lt;/a&gt;
+
 
 {{< spacer 25 >}}
 
