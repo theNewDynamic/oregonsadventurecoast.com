@@ -24,9 +24,7 @@ aliases:
 ---
 ![Holiday Lights at Shore Acres State Park - Logo](/img/holidaylights-logo-header.jpg)
 
-### **The brightest and most beautiful place on the**
-
-### **Oregon Coast Shines**
+### **The brightest and most beautiful place on the Oregon Coast Shines**
 
 Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. Admission is always free!
 
@@ -48,7 +46,7 @@ Take a break in the garden house to cozy up and savor some cookies along with a 
 
 #### **Time-Specific Parking Pass**
 
-If you're planning to drive, you will need a special **Time-Specific Parking Pass**&nbsp;in advance at Shore Acres State Park, this year. In an effort to reduce wait times and backed up traffic conditions, you'll be required to make a **Parking Pass reservation** to visit. These Parking Passes are per vehicle, not per person. The passes are only $5 per vehicle, unless you already have an annual park pass *(see park pass details below)*. ***Either way, advance online reservation is required.*** Parking Passes are managed by the <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">Oregon State Parks</a>.
+If you're planning to drive, you will need a special **Time-Specific Parking Pass**&nbsp;in advance at Shore Acres State Park, this year. In an effort to reduce wait times and backed up traffic conditions, you'll be required to make a **Parking Pass reservation** to visit. These Parking Passes are per vehicle, not per person. The passes are only $5 per vehicle, unless you already have an annual park pass *(see Important Park Pass Information below)*. ***Either way, advance online reservation is required.*** Parking Passes are managed by the **<a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">Oregon State Parks</a>**.
 
 **Make your time-specific parking reservation here:**
 
@@ -62,9 +60,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 {{< spacer 25 >}}
 
-***NOTE: You will NOT be able to purchase entry tickets at the gate this year.*** *Parking Passes must be purchased in advance.*&nbsp;
-
-***ALSO NOTE:** If you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $5 will be waived. **You still have to book online.**&nbsp;**You will need to present your event parking pass AND your special pass at the gate.***
+***Important Park Pass Information:** If you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $5 will be waived. **You still have to book online.**&nbsp;**You will need to present your event parking pass AND your special pass at the gate.***
 
 *{{< spacer 50 >}}*
 
