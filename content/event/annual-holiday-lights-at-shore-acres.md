@@ -46,17 +46,17 @@ Take a break in the garden house to cozy up and savor some cookies along with a 
 
 #### **Time-Specific Parking Pass**
 
-If you're planning to drive, you will need a special **Time-Specific Parking Pass**&nbsp;in advance at Shore Acres State Park, this year. In an effort to reduce wait times and backed up traffic conditions, you'll be required to make a&nbsp;**Parking Pass reservation** to visit. These Parking Pass reservations are per vehicle, not per person. The passes are only $5 per vehicle, unless you already have an annual park pass *(see annual park pass details below)*&nbsp; Either way, an advance online reservation is still required. Parking Passes are managed by the <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">Oregon State Parks</a>.
+If you're planning to drive, you will need a special **Time-Specific Parking Pass**&nbsp;in advance at Shore Acres State Park, this year. In an effort to reduce wait times and backed up traffic conditions, you'll be required to make a&nbsp;**Parking Pass reservation** to visit. These Parking Passes are per vehicle, not per person. The passes are only $5 per vehicle, unless you already have an annual park pass *(see park pass details below)*. ***Either way, advance online reservation is required.*** Parking Passes are managed by the <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">Oregon State Parks</a>.
 
 **Here’s how to get your Parking Pass:**
 
-1. Click the **Book Now** button below.
+1. Click the <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381"><strong>Book Now</strong></a> button below.
 2. Pick your day/time to visit. Note: Half of the parking tickets will be sold in advance with the rest available within 7 days of entry.
 3. Pay the $5 fee per vehicle.
 4. Print your pass. You must bring the pass with you to enter the park.
 5. Have more questions? **Call 541-888-3778**, the local State Parks office.
 
-{{< spacer 25 >}}
+
 
 {{< spacer 25 >}}
 
