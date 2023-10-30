@@ -22,9 +22,7 @@ aliases:
   - /holidaylights
   - /HolidayLights
 ---
-![Holiday Lights at Shore Acres State Park - Logo](/img/holidaylights-logo-header.jpg)
-
-###
+![Holiday Lights at Shore Acres State Park - Logo](/img/holidaylights-logo-header.jpg)\+
 
 ### **The brightest and most beautiful place on the**
 
@@ -40,9 +38,11 @@ Take a break in the garden house to cozy up and savor some cookies along with a 
 
 #### ![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle.png)
 
-#### {{< spacer "30" >}}
+#### {{< spacer "50" >}}
 
 #### ![Holiday Lights Parking Pass Header](/img/parking-pass-details-header.jpg)
+
+#### {{< spacer "30" >}}
 
 #### **Time-Specific Parking Pass**
 
@@ -54,7 +54,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 2. Pick your day/time to visit. Note: Half of the parking tickets will be sold in advance with the rest available within 7 days of entry.
 3. Pay the $5 fee per vehicle.
 4. Print your pass. You must bring the pass with you to enter the park.
-5. Have more questions? **Call 541-888-3778**, the local State Parks office.
+5. Have more questions? Call 541-888-3778, the local State Parks office.
 
 ### <a class="learn-more-anywhere-btn" target="_blank" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">BOOK NOW</a>
 
@@ -68,25 +68,23 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 *![Holiday Lights Shuttle Bus Details header](/img/shuttle-bus-info-hdr.jpg)*
 
+#### {{< spacer "30" >}}
+
 #### Shuttle Bus From The Charleston Marina
 
 This year brings a new way to beat the traffic and parking - a **FREE Shuttle Bus!**&nbsp;The shuttle will run between the Charleston Marina and Shore Acres State Park Thursdays, Fridays, and Saturdays throughout the six weeks starting from Thanksgiving and leading up to New Year's Eve. It's the perfect way to enjoy the enchanting lights display at Shore Acres, even running on Christmas Eve and Christmas Day. Notably, this service is wheelchair-accessible and can transport around 100 people per hour. Make the most of the season and take a ride on our shuttle to experience the magic of Shore Acres State Park's holiday lights show!&nbsp;*Funded in part by the Ford Family Foundation and the Coos Bay - North Bend - Charleston Visitor and Convention Bureau.*
 
-{{< youtube id="oMwQeDRya7o" >}}
+{{< youtube id="jHnNm_Gy7CA" >}}
 
 ### Tips to make your Shore Acres visit more enjoyable
 
-<br>{{< columns number="2" >}}
+<br>{{< columns number="2" >}}#### Viewing Tips
 
-#### Viewing Tips
-
-***
+---
 
 **MAKE SURE YOU HAVE YOUR TIMED ENTRY PARKING PASS BEFORE YOU HEAD TO THE PARK!**
 
-**Fridays through Sundays are the busiest.**
-
-**Mondays through Thursdays are less busy.**
+**Fridays through Sundays are the busiest and Mondays through Thursdays are less busy.**
 
 **There is less traffic on rainy nights and the lights are beautiful in the rain!**
 
@@ -94,18 +92,13 @@ divider
 
 #### Other Tips
 
-***
+---
 
-**$5 parking fee** - **_MUST BOOK ONLINE AS NOTED ABOVE_**
-Parking is free with current OPRD Annual Parking Permit, or Coastal Passport, or current Campground Receipt. See information above on how to book your time.
-
-**Animals** - Dogs and other animals are not allowed outside vehicles at Shore Acres. _Exception: Service Animals_
+**Animals** - Dogs and other animals are not allowed outside vehicles at Shore Acres. *Exception: Service Animals*
 
 **Wheelchairs** - the park has a few wheelchairs available to those who may need them. These are available on a first-come basis.
 
-**Arrive Early -**  Book an early time slot for the lights and see the ocean waves, the park, and the lights' sparkling transition from daylight to dark!
-
-{{< /columns >}}
+**Arrive Early -** Book an early time slot for the lights and see the ocean waves, the park, and the lights' sparkling transition from daylight to dark!{{< /columns >}}
 
 {{< spacer 50 >}}
 
