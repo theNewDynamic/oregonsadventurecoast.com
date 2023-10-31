@@ -19,12 +19,8 @@ If you’re planning to drive, you will need a special&nbsp;**<a target="_blank"
 
 {{< spacer 25 >}}
 
-
-
 ## <a class="learn-more-anywhere-btn" target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">BOOK&nbsp; PARKING PASS NOW</a>
 
 {{< spacer 25 >}}
 
-
-
-**Important Park Pass Information:** If you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $5 will be waived. **You still have to book online. You will need to present your event parking pass AND your special pass at the gate.**
+***Important Park Pass Information:** If you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $5 will be waived. **You still have to book online. You will need to present your event parking pass AND your special pass at the gate.***
