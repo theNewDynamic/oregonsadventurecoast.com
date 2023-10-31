@@ -193,7 +193,7 @@ The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, 
 
 #### December 2, 2023<br>Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade!
 
-Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive deep into the holiday spirit from 9am-7:30pm.
+<a target="_blank" rel="noopener" href="northbendoregon.us/christmas">Downtown North Bend</a> transforms into a **Winter Wonderland** on Dec 2nd! Dive deep into the holiday spirit from 9am-7:30pm.
 
 * **9:00am-11:00am - Waffles with Santa!** at the North Bend Fire Station - Reserve Your Time (coming soon)
 * **10:00am - Noon - Storytime with Mrs. Claus** at the North Bend Public Library - Mrs. Claus will conduct two identical storytimes at 10am and 11am! After Storytime, children can write letters to Santa and make "magic" reindeer food! The event is FREE and has a capacity of 100 per session.
@@ -203,6 +203,7 @@ Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive dee
 * **5:00pm - Annual North Bend Tree Lighting** in Grants Circle Roundabout outside City Hall&nbsp;
 * **5:30pm-6:30pm - Meet Santa!** in the Festival Tent near City Hall
 * **7:00pm-7:30pm - Lighted Truck Parade** cruises through downtown and midtown North Bend. *(Note:*&nbsp;*Parade Route follows the July Jubilee parade route)*
+* *More information at*&nbsp;<a target="_blank" href="http://northbendoregon.us/christmas">northbendoregon.us/christmas</a>
 
 {{< spacer 50 >}}
 
