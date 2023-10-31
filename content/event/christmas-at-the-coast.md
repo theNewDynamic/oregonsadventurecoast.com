@@ -203,7 +203,7 @@ The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, 
 * **5:00pm - Annual North Bend Tree Lighting** in Grants Circle Roundabout outside City Hall&nbsp;
 * **5:30pm-6:30pm - Meet Santa!** in the Festival Tent near City Hall
 * **7:00pm-7:30pm - Lighted Truck Parade** cruises through downtown and midtown North Bend. *(Note:*&nbsp;*Parade Route follows the July Jubilee parade route)*
-* *More information at*&nbsp;<a target="_blank" href="http://northbendoregon.us/christmas">northbendoregon.us/christmas</a>
+* *More information at&nbsp;<a target="_blank" href="http://northbendoregon.us/christmas">northbendoregon.us/christmas</a>*
 
 {{< spacer 50 >}}
 
