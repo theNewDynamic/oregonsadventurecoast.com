@@ -38,9 +38,9 @@ smallboxphoto: /img/skating-rink-340x214.jpg
 
 **11:00am-3:00pm** - Glide on North Bend's Ice Rink - it's a **FREE** skate rental day!
 
-#### {{< spacer 25 >}}
+#### {{< spacer 50 >}}
 
-#### Cost:
+#### Cost (other than Dec 2nd):
 
 **$5.00 per hour Skate Rental Fee**
 
