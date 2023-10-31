@@ -34,9 +34,9 @@ smallboxphoto: /img/skating-rink-340x214.jpg
 
 {{< spacer 25 >}}
 
-#### Hours: Coming Soon!
+#### SPECIAL OPENING DAY EVENT! SATURDAY, DECEMBER 2ND
 
-
+**11:00am-3:00pm** - Glide on North Bend's Ice Rink - it's a **FREE** skate rental day!
 
 #### {{< spacer 25 >}}
 
