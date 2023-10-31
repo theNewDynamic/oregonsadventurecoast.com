@@ -46,9 +46,11 @@ Later in the day, DiCostanzo heads to [<u>Box Car Hill Campground | Atv Rental S
 
 Before packing up and heading home, DiCostanzo gets one last call from Vinny Catanzaro who insists on sending him home with a massive burrito from his other restaurant, [<u>Yaya's Burrito &amp; Bowls</u>](https://www.facebook.com/YayasNorthBend/). You can’t let a fellow restaurateur leave hungry! We’re so happy to see these visitors enjoy their time in Coos Bay, North Bend, Charleston, and look forward to seeing them again soon! To see their full experience, we highly recommend watching the full episode.
 
+{{< spacer "30" >}}
 
-<div class="pbs-viral-player-wrapper"><iframe src="https://player.pbs.org/viralplayer/3084793672/" allowfullscreen allow="encrypted-media" style="position: absolute; top: 0; width: 100%; height: 100%; border: 0;"></iframe></div>
+<div class="pbs-viral-player-wrapper" style="position: relative; padding-top: calc(56.25% + 43px);"><iframe src="https://player.pbs.org/viralplayer/3084793672/" allowfullscreen allow="encrypted-media" style="position: absolute; top: 0; width: 100%; height: 100%; border: 0;"></iframe></div>
 
+{{< spacer "50" >}}
 
 You can also watch Vinny’s [<u>NEW follow-up episode of All Across Oregon</u>](https://www.youtube.com/watch?v=XHpnVRpY8ro) where he visits the famous [<u>Pancake Mill Restaurant and Pie Shoppe</u>](https://pancakemill.com/) in North Bend, goes fishing for lingcod with [<u>Betty Kay Charters</u>](https://bettykaycharters.com/), enjoys a decadent sweet treat at [<u>Scoops Handmade Ice Cream</u>](https://scoops.life/) in North Bend, and samples some of the best fish-in-chips in town at [<u>Blue Heron Bistro</u>](http://www.blueheronbistro.net/) (also specializes in German cuisine).
 
