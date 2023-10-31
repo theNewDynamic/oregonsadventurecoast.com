@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Coos Bay, North Bend, Charleston Businesses Featured in PBS Series! '
-draft: true
+draft: false
 date: 2023-10-30T00:00:00-07:00
 description: >-
   *Chef Vinny DiCostanzo shared his experience with four local businesses in his
