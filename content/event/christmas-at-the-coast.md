@@ -35,11 +35,6 @@ smallboxphoto: /img/Tree-Lighting-coosbay-340x214.jpg
 
 {{< spacer "40" >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">40</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
-
 
 #### ![](/img/shopping-sub-header-695x200.jpg)
 
@@ -48,11 +43,6 @@ smallboxphoto: /img/Tree-Lighting-coosbay-340x214.jpg
 Visit participating businesses in Downtown Coos Bay during the Holiday Open House and enter to win door prizes! Shop for the holidays and keep your receipts to receive a commemorative mug on Shop Small Saturday (see below for more). Start your shopping journey at Katrina Kathleen’s Home Décor – 191 S Broadway or Checkerberry’s Flowers & Gifts – 1290 N. Bayshore Drive (Coos Bay Village) and pick up your Downtown Open House map to more shops all waiting to show you their latest for the gift-giving season. Friday, November 10th from 9am to 5pm and Saturday, November 11th from 10am to 4pm
 
 {{< spacer 50 >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
 
 
 #### ![Crab Pot Christmas Tree in Charleston Oregon](/img/crab-pot-sub-section-hdr.jpg)
@@ -63,11 +53,6 @@ The Charleston Fishing Families celebrate the season every year with a colorful,
 
 {{< spacer 50 >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
-
 
 #### ![Holiday Lights at Shore Acres State Park in Charleston Oregon](/img/holiday-lights-sub-section-hdr.jpg)
 
@@ -76,11 +61,6 @@ The Charleston Fishing Families celebrate the season every year with a colorful,
 More info on this very special holiday event, brought to us by the [**Friends of Shore Acres**](https://shoreacres.net/about-us/about-friends-of-shore-acres-inc/) since 1986, and the Timed Parking System, [**click here**](/event/annual-holiday-lights-at-shore-acres/)!
 
 {{< spacer 50 >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
 
 
 #### ![](/img/holiday-railroad-train-sub-section-hdr.jpg)
@@ -91,11 +71,6 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 {{< spacer 50 >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
-
 
 ![Coos Bay Tree lighting with Santa dn the movie Elf!](/img/coos-bay-tree-lighting-sub-sect-hdr.jpg)
 
@@ -105,11 +80,6 @@ Join Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! Th
 
 {{< spacer 50 >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
-
 
 ![See the movie ELF! at the Egyptian Theater in Coos Bay Oregon](/img/elf-movie-sub-section-hdr.jpg)
 
@@ -118,11 +88,6 @@ Join Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! Th
 Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa once again available to hear all those wish lists! The evening showing at 7pm will not include Santa.
 
 {{< spacer 50 >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
 
 
 ![Small Business Saturday Shopping on Oregon's Adventure Coast](/img/small-business-shopping-sub-section-hdr.jpg)
@@ -134,11 +99,6 @@ Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa o
 Coos Bay participating businesses are offering specials and door prizes all day. Also, keep your receipts for all purchases made in Downtown Coos Bay between November 10 and November 25. Collect $100 in receipts, bring those receipts to Jennie's Shoes (262 Central Ave) and receive a commemorative mug!
 
 {{< spacer 50 >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
 
 
 ![](/img/fest-of-trees.jpeg)
@@ -157,11 +117,6 @@ Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown inste
 
 {{< spacer 50 >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
-
 
 #### ![Christmas Opry at Liberty Theatre in North Bend Oregon](/img/holiday-opry-sub-section-hdr.jpg)
 
@@ -177,11 +132,6 @@ Tickets on-sale now at the box office and online at&nbsp;[www.thelibertytheatre.
 
 {{< spacer 50 >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
-
 
 ![](/img/empire-treelighting-sub-section-hdr.jpg)
 
@@ -193,24 +143,18 @@ The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, 
 
 #### December 2, 2023<br>Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade!
 
-<a target="_blank" rel="noopener" href="northbendoregon.us/christmas">Downtown North Bend</a> transforms into a **Winter Wonderland** on Dec 2nd! Dive deep into the holiday spirit from 9am-7:30pm.
+Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive deep into the holiday spirit from 9am-7:30pm.
 
 * **9:00am-11:00am - Waffles with Santa!** at the North Bend Fire Station - Reserve Your Time (coming soon)
 * **10:00am - Noon - Storytime with Mrs. Claus** at the North Bend Public Library - Mrs. Claus will conduct two identical storytimes at 10am and 11am! After Storytime, children can write letters to Santa and make "magic" reindeer food! The event is FREE and has a capacity of 100 per session.
-* **11:00am-3:00pm - Ice Skating** on North Bend's Famous Ice Skating Rink! ***FREE***
+* **11:00am-3:00pm - Ice Skating** on North Bend's Famous Ice Skating Rink! FREE
 * **1:00pm-3:00pm - Christmas on Main Street** in downtown North Bend - look for the mischievous Elf on the Shelf in participating businesses and enter to win Free Tickets to the Ice Skating Rink, North Bend's Winter Attraction!
 * **3:00pm-5:00pm - Holiday Block Party** in the Festival Tent near City Hall
 * **5:00pm - Annual North Bend Tree Lighting** in Grants Circle Roundabout outside City Hall&nbsp;
 * **5:30pm-6:30pm - Meet Santa!** in the Festival Tent near City Hall
 * **7:00pm-7:30pm - Lighted Truck Parade** cruises through downtown and midtown North Bend. *(Note:*&nbsp;*Parade Route follows the July Jubilee parade route)*
-* *More information at&nbsp;<a target="_blank" href="http://northbendoregon.us/christmas">northbendoregon.us/christmas</a>*
 
 {{< spacer 50 >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
 
 
 #### ![winter faire at Coos history museum](/img/ceramic-bells-sub-section-hdr.jpg)
@@ -221,11 +165,6 @@ Join local artisans, food vendors, and more for your annual Holiday Shopping at 
 
 {{< spacer "50" >}}
 
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
-
 
 #### ![watch Christmas Vacation and enter to win the ugly sweater competition at the Egyptian Theater in Coos Bay](/img/vacation-movie-sweater-sub-section-hdr.jpg)
 
@@ -234,11 +173,6 @@ Join local artisans, food vendors, and more for your annual Holiday Shopping at 
 The Egyptian Theatre is hosting this Holiday Classic Movie plus an Ugly Sweater Contest just in time for the Holidays! The Movie starts as 7:00pm, Doors open at 6:15pm. Adults $5, Seniors $4, Children $3
 
 {{< spacer "50" >}}
-
-<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:vertical_align_center" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Spacer</p><p class="c-card__subtext">50</p></div></div></div></div>
-
-<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" />
-
 
 
 ![polar bear plunge into the pacific ocean on New Year's Day](/img/polar-bear-plunge-sub-section-hdr.jpg)
