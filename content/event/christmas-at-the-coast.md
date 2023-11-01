@@ -85,13 +85,19 @@ Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa o
 
 ![Small Business Saturday Shopping on Oregon's Adventure Coast](/img/small-business-shopping-sub-section-hdr.jpg)
 
-#### November 25, 2023<br>Shop Small Saturday in Coos Bay, North Bend & Charleston and Downtown Coos Bay Commemorative Mug
+#### November 25, 2023<br>Shop Small Saturday and Downtown Coos Bay Commemorative Mug
 
-**Shop Small Saturday encourages us to shop at small, local shops this holiday season!**
-
-Coos Bay participating businesses are offering specials and door prizes all day. Also, keep your receipts for all purchases made in Downtown Coos Bay between November 10 and November 25. Collect $100 in receipts, bring those receipts to Jennie's Shoes (262 Central Ave) and receive a commemorative mug!
+**Shop Small Saturday encourages us to shop at small, local shops this holiday season!**&nbsp;Coos Bay participating businesses are offering specials and door prizes all day. Also, keep your receipts for all purchases made in Downtown Coos Bay between November 10 and November 25. Collect $100 in receipts, bring those receipts to Jennie's Shoes (262 Central Ave) and receive a commemorative mug!
 
 {{< spacer 50 >}}
+
+![](/img/elfonshelfnb.jpg)
+
+#### November 25, 2023<br>Elf on the Shelf Makes Mischief in North Bend!
+
+Find the Mischievous Elf on the Shelf at participating businesses in North Bend! More information coming soon!
+
+{{< spacer "50" >}}
 
 ![](/img/fest-of-trees.jpeg)
 
