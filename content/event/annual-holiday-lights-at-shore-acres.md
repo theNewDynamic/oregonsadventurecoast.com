@@ -26,7 +26,7 @@ aliases:
 
 ### **The brightest and most beautiful place on the Oregon Coast Shines**
 
-Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. **Admission is always free! However, parking at Shore Acres any time of the year is $5.**
+Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition **every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve** – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. **Admission is always free! However, parking at Shore Acres any time of the year is $5.**
 
 Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring more than 325,000 holiday lights (nearly all of them LED), 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished community tradition is made possible by the <a target="_blank" rel="noopener" href="https://shoreacres.net/">Friends of Shore Acres</a>, the dedicated efforts of more than 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in thousands of visitors from all over the world!&nbsp;
 
@@ -46,7 +46,7 @@ Take a break in the garden house to cozy up and savor some cookies along with a 
 
 #### **Time-Specific Parking Pass**
 
-If you're planning to drive, you will need a special **Time-Specific Parking Pass**&nbsp;in advance again this year. In an effort to reduce wait times and backed up traffic conditions, you'll be required to make a **Parking Pass reservation** to visit. These Parking Passes are **per vehicle, not per person**. The passes are only $5 per vehicle, unless you already have an annual park pass *(see Important Park Pass Information below)*. ***Either way, advance online reservation is required.*** Parking Passes are managed by the **<a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">Oregon State Parks</a>**.
+If you're planning to drive, you will need a special **Time-Specific Parking Pass**&nbsp;in advance again this year. In an effort to reduce wait times and backed up traffic conditions, you'll be required to make a **Parking Pass reservation** to visit. These Parking Passes are **per vehicle, not per person**. The passes are only $5 per vehicle, unless you already have an annual park pass *(see Important Park Pass Information below)*. ***Either way, an advance online reservation is required.*** Parking Passes are managed by the **<a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">Oregon State Parks</a>**.
 
 **Click the "Book Parking Pass Now" button below to secure your time-specific parking reservation. Don't forget to print your pass or catch a screen shot of your pass. You will need the printed or screen shot pass to enter the park. Have questions? Call (541) 888-3778, the local State Parks office.**
 
@@ -62,9 +62,11 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 {{< spacer "30" >}}
 
-#### Shuttle Bus From The Charleston Marina
+#### FREE Santa's Sleigh Shuttle Bus From The Charleston Marina
 
-This year brings a new way to beat the traffic and parking - a **FREE Shuttle Bus!**&nbsp;The shuttle will run between the Charleston Marina and Shore Acres State Park **Thursdays, Fridays, and Saturdays** throughout the six weeks starting from Thanksgiving and leading up to New Year's Eve. It's the perfect way to enjoy the enchanting lights display at Shore Acres, even running on Christmas Eve, Christmas Day and New Year's Eve. Notably, this service is wheelchair-accessible and can transport around 80 people per hour. Make the most of the season and take a ride on our shuttle to experience the magic of Shore Acres State Park's holiday lights show!&nbsp;*Funded in part by The Ford Family Foundation and the Coos Bay - North Bend - Charleston Visitor and Convention Bureau.*
+This year brings a new way to beat the traffic and parking - a **FREE Shuttle Bus!**&nbsp;The Santa's Sleigh shuttle will run between the Charleston Marina and Shore Acres State Park **Thursdays, Fridays, and Saturdays, plus Christmas Eve, Christmas Day, and New Year's Eve,**&nbsp;throughout the six weeks starting from Thanksgiving and leading up to New Year's Eve. These wheelchair-accessible shuttles will depart from the marina every 20 minutes **between 4:20pm and 8:00pm**. *Last shuttle will leave the marina at 8:00pm to give folks enough time to enjoy the lights before the park closes at 9pm.*
+
+It's the perfect way to enjoy the enchanting lights display at Shore Acres. Notably, this service is wheelchair-accessible and can transport around 80-100 people per hour. Make the most of the season and take a ride on our Santa's Sleigh shuttle to experience the magic of Shore Acres State Park's holiday lights show!&nbsp;*Funded in part by The Ford Family Foundation and the Coos Bay - North Bend - Charleston Visitor and Convention Bureau. Thanks to First Student Buses for their assistance with this project.*
 
 {{< spacer "50" >}}
 

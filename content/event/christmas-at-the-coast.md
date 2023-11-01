@@ -35,7 +35,6 @@ smallboxphoto: /img/Tree-Lighting-coosbay-340x214.jpg
 
 {{< spacer "40" >}}
 
-
 #### ![](/img/shopping-sub-header-695x200.jpg)
 
 #### November 10 & 11, 2023<br>Downtown Coos Bay Holiday Open House
@@ -43,7 +42,6 @@ smallboxphoto: /img/Tree-Lighting-coosbay-340x214.jpg
 Visit participating businesses in Downtown Coos Bay during the Holiday Open House and enter to win door prizes! Shop for the holidays and keep your receipts to receive a commemorative mug on Shop Small Saturday (see below for more). Start your shopping journey at Katrina Kathleen’s Home Décor – 191 S Broadway or Checkerberry’s Flowers & Gifts – 1290 N. Bayshore Drive (Coos Bay Village) and pick up your Downtown Open House map to more shops all waiting to show you their latest for the gift-giving season. Friday, November 10th from 9am to 5pm and Saturday, November 11th from 10am to 4pm
 
 {{< spacer 50 >}}
-
 
 #### ![Crab Pot Christmas Tree in Charleston Oregon](/img/crab-pot-sub-section-hdr.jpg)
 
@@ -53,7 +51,6 @@ The Charleston Fishing Families celebrate the season every year with a colorful,
 
 {{< spacer 50 >}}
 
-
 #### ![Holiday Lights at Shore Acres State Park in Charleston Oregon](/img/holiday-lights-sub-section-hdr.jpg)
 
 #### November 23-December 31, 2023<br>Holiday Lights at Shore Acres State Park
@@ -61,7 +58,6 @@ The Charleston Fishing Families celebrate the season every year with a colorful,
 More info on this very special holiday event, brought to us by the [**Friends of Shore Acres**](https://shoreacres.net/about-us/about-friends-of-shore-acres-inc/) since 1986, and the Timed Parking System, [**click here**](/event/annual-holiday-lights-at-shore-acres/)!
 
 {{< spacer 50 >}}
-
 
 #### ![](/img/holiday-railroad-train-sub-section-hdr.jpg)
 
@@ -71,7 +67,6 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 {{< spacer 50 >}}
 
-
 ![Coos Bay Tree lighting with Santa dn the movie Elf!](/img/coos-bay-tree-lighting-sub-sect-hdr.jpg)
 
 #### November 24, 2023<br>Tree Lighting at the Coos Bay Visitor Center with Santa, Plus ELF! at The Egyptian
@@ -80,7 +75,6 @@ Join Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! Th
 
 {{< spacer 50 >}}
 
-
 ![See the movie ELF! at the Egyptian Theater in Coos Bay Oregon](/img/elf-movie-sub-section-hdr.jpg)
 
 #### November 25, 2023<br>ELF! at The Egyptian
@@ -88,7 +82,6 @@ Join Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! Th
 Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa once again available to hear all those wish lists! The evening showing at 7pm will not include Santa.
 
 {{< spacer 50 >}}
-
 
 ![Small Business Saturday Shopping on Oregon's Adventure Coast](/img/small-business-shopping-sub-section-hdr.jpg)
 
@@ -99,7 +92,6 @@ Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa o
 Coos Bay participating businesses are offering specials and door prizes all day. Also, keep your receipts for all purchases made in Downtown Coos Bay between November 10 and November 25. Collect $100 in receipts, bring those receipts to Jennie's Shoes (262 Central Ave) and receive a commemorative mug!
 
 {{< spacer 50 >}}
-
 
 ![](/img/fest-of-trees.jpeg)
 
@@ -117,7 +109,6 @@ Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown inste
 
 {{< spacer 50 >}}
 
-
 #### ![Christmas Opry at Liberty Theatre in North Bend Oregon](/img/holiday-opry-sub-section-hdr.jpg)
 
 #### December 1 - 3, 2023<br>Christmas Opry Returns in December!
@@ -131,7 +122,6 @@ Tickets on-sale now at the box office and online at&nbsp;[www.thelibertytheatre.
 **Show dates & times:**&nbsp;&nbsp;<br>Friday, Dec 1 -&nbsp; 7:00pm<br>Saturday, Dec 2 - 2:00pm & 7:00pm<br>Sunday, Dec 3 - 2:00pm
 
 {{< spacer 50 >}}
-
 
 ![](/img/empire-treelighting-sub-section-hdr.jpg)
 
@@ -156,7 +146,6 @@ Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive dee
 
 {{< spacer 50 >}}
 
-
 #### ![winter faire at Coos history museum](/img/ceramic-bells-sub-section-hdr.jpg)
 
 #### December 15-16, 2023<br>Winter Faire at Coos History Museum
@@ -165,7 +154,6 @@ Join local artisans, food vendors, and more for your annual Holiday Shopping at 
 
 {{< spacer "50" >}}
 
-
 #### ![watch Christmas Vacation and enter to win the ugly sweater competition at the Egyptian Theater in Coos Bay](/img/vacation-movie-sweater-sub-section-hdr.jpg)
 
 #### December 16, 2023<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
@@ -173,7 +161,6 @@ Join local artisans, food vendors, and more for your annual Holiday Shopping at 
 The Egyptian Theatre is hosting this Holiday Classic Movie plus an Ugly Sweater Contest just in time for the Holidays! The Movie starts as 7:00pm, Doors open at 6:15pm. Adults $5, Seniors $4, Children $3
 
 {{< spacer "50" >}}
-
 
 ![polar bear plunge into the pacific ocean on New Year's Day](/img/polar-bear-plunge-sub-section-hdr.jpg)
 
