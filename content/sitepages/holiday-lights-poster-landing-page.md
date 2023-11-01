@@ -29,4 +29,6 @@ If you’re planning to drive, you will need a special&nbsp;**<a target="_blank"
 
 ### **Leave the Driving to Us!**
 
-Take the **FREE Santa Sleigh Shuttle** from the Charleston Marina to Shore Acres State Park on **Thurdays, Fridays and Saturdays from Thanksgiving to New Year's Eve, plus Christmas Eve, Christmas Day, and New Year's Eve**. These wheelchair-accessible shuttles will depart from the marina every 20 minutes **between 4:20pm and 8:00pm**. *Last shuttle will leave the marina at 8:00pm to give folks enough time to enjoy the lights.*
+Take the **FREE Santa's Sleigh Shuttle** from the Charleston Marina to Shore Acres State Park on **Thurdays, Fridays and Saturdays from Thanksgiving to New Year's Eve, plus Christmas Eve, Christmas Day, and New Year's Eve**. These wheelchair-accessible shuttles will depart from the marina every 20 minutes **between 4:20pm and 8:00pm**. *Last shuttle will leave the marina at 8:00pm to give folks enough time to enjoy the lights.*
+
+*Funded in part by The Ford Family Foundation and the Coos Bay - North Bend - Charleston Visitor and Convention Bureau. Thanks to First Student Buses for their assistance with this project.*
