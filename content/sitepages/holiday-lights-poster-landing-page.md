@@ -24,3 +24,9 @@ If you’re planning to drive, you will need a special&nbsp;**<a target="_blank"
 {{< spacer 25 >}}
 
 ***Important Park Pass Information:** If you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $5 will be waived. **You still have to book online. You will need to present your event parking pass AND your special pass at the gate.***
+
+#### {{< spacer "25" >}}
+
+### **Leave the Driving to Us!**
+
+Take the **FREE Santa Sleigh Shuttle** from the Charleston Marina to Shore Acres State Park on **Thurdays, Fridays and Saturdays from Thanksgiving to New Year's Eve, plus Christmas Eve, Christmas Day, and New Year's Eve**. These wheelchair-accessible shuttles will depart from the marina every 20 minutes **between 4:20pm and 8:00pm**. *Last shuttle will leave the marina at 8:00pm to give folks enough time to enjoy the lights.*
