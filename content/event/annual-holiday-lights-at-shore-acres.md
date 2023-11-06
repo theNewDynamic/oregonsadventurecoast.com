@@ -68,7 +68,14 @@ This year brings a new way to beat the traffic and parking - a **FREE Shuttle Bu
 
 **A Few More Details:**
 
-It's the perfect way to enjoy the enchanting lights display at Shore Acres. Notably, this service is wheelchair-accessible and can transport around 80-100 people per hour. Make the most of the season and take a ride on our Santa's Sleigh shuttle to experience the magic of Shore Acres State Park's holiday lights show!&nbsp;*Funded in part by The Ford Family Foundation and the Coos Bay - North Bend - Charleston Visitor and Convention Bureau. Thanks to First Student Buses for their assistance with this project.*
+* There is no need to make a reservation for the shuttle. It will run on a first come, first served basis.
+* The shuttle will run every 20 minutes or so (based on traffic conditions) from the marina to the park from 4:15pm to 8pm
+* The last shuttle to the park will be at 8pm since the park closes at 9pm and we want everyone to have enough time to enjoy the lights before they have to return to the Marina.
+* All guests to the park must depart the park by 9pm, though shuttles may have to run a bit longer to get all passengers back to the Marina
+* Two shuttles will run - a 20-passenger and a 44-passenger, both are wheelchair-accessible
+* The shuttle is FREE of charge thanks to a grant from The Ford Family Foundation and the Visitor & Convention Bureau
+
+It's the perfect way to enjoy the enchanting lights display at Shore Acres.&nbsp; **Make the most of the season and take a ride on our Santa's Shuttle** to experience the magic of Shore Acres State Park's holiday lights show!&nbsp;*Funded in part by The Ford Family Foundation and the Coos Bay - North Bend - Charleston Visitor and Convention Bureau. Thanks to First Student Buses for their assistance with this project.*
 
 {{< spacer "50" >}}
 
