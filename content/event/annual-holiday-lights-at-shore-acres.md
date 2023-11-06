@@ -62,7 +62,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 {{< spacer "30" >}}
 
-#### FREE Santa's Shuttle Bus From The Charleston Marina
+#### FREE Santa's Shuttle From The Charleston Marina
 
 This year brings a new way to beat the traffic and parking - a **FREE Shuttle Bus!**&nbsp; Santa's Shuttle will run between the Charleston Marina and Shore Acres State Park **Thursdays, Fridays, and Saturdays, plus Christmas Eve, Christmas Day, and New Year's Eve,**&nbsp;throughout the six weeks starting from Thanksgiving and leading up to New Year's Eve. These wheelchair-accessible shuttles will depart from the marina every 20 minutes **between 4:15pm and 8:00pm**. *Last shuttle will leave the marina at 8:00pm to give folks enough time to enjoy the lights before the park closes at 9pm.*
 
