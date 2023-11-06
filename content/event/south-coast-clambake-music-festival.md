@@ -2,7 +2,7 @@
 _schema: default
 title: 'South Coast Clambake Music Festival '
 startdate: '2024-03-08'
-enddate: '2023-03-10'
+enddate: '2024-03-10'
 address:
   city: North Bend
   state: Oregon
