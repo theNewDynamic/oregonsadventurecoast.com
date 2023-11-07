@@ -93,9 +93,9 @@ Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa o
 
 ![](/img/elfonshelfnb.jpg)
 
-#### November 25, 2023<br>Elf on the Shelf Makes Mischief in North Bend!
+#### November 25, 2023 - December 2, 2023<br>Elf on the Shelf Makes Mischief in North Bend!
 
-Find the Mischievous Elf on the Shelf at participating businesses in North Bend! More information coming soon!
+Find the Mischievous Elf on the Shelf at participating businesses in North Bend! Each participating business will have its own mischievous Elf that moves within the business daily! Find the Elf and enter for a chance to win a wonderful gift. You can enter to win at each location. There will be one winner per business, but winners can only win from one business.&nbsp;
 
 {{< spacer "50" >}}
 
