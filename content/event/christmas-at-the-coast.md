@@ -137,7 +137,7 @@ The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, 
 
 #### ![North Bend Tree lighting festival, lighted truck parade and Ice skating](/img/north-bend-firetruck-sub-section-hdr-1.jpg)
 
-#### December 2, 2023<br>Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade!
+#### December 2, 2023<br>Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade in Downtown North Bend!
 
 Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive deep into the holiday spirit from 9am-7:30pm.
 
