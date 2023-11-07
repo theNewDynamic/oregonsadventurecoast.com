@@ -93,9 +93,9 @@ Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa o
 
 ![](/img/elfonshelfnb.jpg)
 
-#### November 25, 2023<br>Elf on the Shelf Makes Mischief in North Bend!
+#### November 25, 2023 - December 2, 2023<br>Elf on the Shelf Makes Mischief in North Bend!
 
-Find the Mischievous Elf on the Shelf at participating businesses in North Bend! More information coming soon!
+Find the Mischievous Elf on the Shelf at participating businesses in North Bend! Each participating business will have its own mischievous Elf that moves within the business daily! Find the Elf and enter for a chance to win a wonderful gift. You can enter to win at each location. There will be one winner per business, but winners can only win from one business.&nbsp;
 
 {{< spacer "50" >}}
 
@@ -137,11 +137,11 @@ The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, 
 
 #### ![North Bend Tree lighting festival, lighted truck parade and Ice skating](/img/north-bend-firetruck-sub-section-hdr-1.jpg)
 
-#### December 2, 2023<br>Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade!
+#### December 2, 2023<br>Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade in Downtown North Bend!
 
 Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive deep into the holiday spirit from 9am-7:30pm.
 
-* **9:00am-11:00am - Waffles with Santa!** at the North Bend Fire Station - Reserve Your Time (coming soon)
+* **9:00am-11:00am - Waffles with Santa!** at the North Bend Fire Station - **<a target="_blank" rel="noopener" href="https://www.eventbrite.com/e/waffles-with-santa-tickets-749228210747?aff=oddtdtcreator">Reserve Your Time</a>**
 * **10:00am - Noon - Storytime with Mrs. Claus** at the North Bend Public Library - Mrs. Claus will conduct two identical storytimes at 10am and 11am! After Storytime, children can write letters to Santa and make "magic" reindeer food! The event is FREE and has a capacity of 100 per session.
 * **11:00am-3:00pm - Ice Skating** on North Bend's Famous Ice Skating Rink! FREE
 * **1:00pm-3:00pm - Christmas on Main Street** in downtown North Bend - look for the mischievous Elf on the Shelf in participating businesses and enter to win Free Tickets to the Ice Skating Rink, North Bend's Winter Attraction!
