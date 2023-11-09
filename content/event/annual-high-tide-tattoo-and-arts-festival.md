@@ -2,7 +2,7 @@
 _schema: default
 title: Annual High Tide Tattoo and Arts Festival
 startdate: '2024-04-25'
-enddate: '2023-04-29'
+enddate: '2024-04-29'
 address:
   city: North Bend
   state: OR
