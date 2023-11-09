@@ -21,7 +21,7 @@ seo:
   image: ''
 desktoptitle: Roseburg to Coos Bay Relay
 mobiletitle: Roseburg to Coos Bay Relay
-hovertitle: 68 Miles of Gorgeous Countryside!
+hovertitle: Roseburg to Coos Bay Relay
 hoverdescription: Run 68 Miles of Gorgeous Countryside with your Best Running Buddies!
 photo: /img/prerun-hero-2048x530.jpg
 largeboxphoto: /img/prerun-legs-1024x395.jpg
