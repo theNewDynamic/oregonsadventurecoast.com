@@ -131,9 +131,9 @@ Tickets on-sale now at the box office and online at&nbsp;[www.thelibertytheatre.
 
 ![](/img/empire-treelighting-sub-section-hdr.jpg)
 
-#### December 1, 2023<br>Empire District Tree Lighting and Santa Parade
+#### December 1, 2023<br>Empire District Tree Lighting and Santa Visit
 
-The Empire District of Coos Bay will hold their annual Tree Lighting at 5:30pm, and will also live stream it on their [Facebook page](https://www.facebook.com/Community-Coalition-of-Empire-CCE-110984147408194). Before the lighting, Santa will be riding through the streets in the Empire District - from 3:00-5:30pm - on top of the Empire fire engine as his elves hand out goodies to all the good little children in Empire. After the tree lighting, Star of Hope will once again be opening their doors for families to come in, have refreshments, visit personally with Santa, and vote in the gingerbread house competition. Each Star of Hope team will design and build a gingerbread house entry and the most votes will determine this year's winner.
+The Empire District of Coos Bay will hold their annual Tree Lighting and Visits with Santa from 5pm to 7pm. Take photos with Santa and enjoy cookies, cider, caroling and more!
 
 #### ![North Bend Tree lighting festival, lighted truck parade and Ice skating](/img/north-bend-firetruck-sub-section-hdr-1.jpg)
 
