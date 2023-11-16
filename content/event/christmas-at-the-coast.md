@@ -79,7 +79,7 @@ Join Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! Th
 
 #### November 25, 2023<br>ELF! at The Egyptian
 
-Two showings of **Elf** are planned, 2pm & 7pm, including a matinee with Santa once again available to hear all those wish lists! The evening showing at 7pm will not include Santa.
+A second showing of **Elf** is planned for 2pm on Saturday, September 25th. Beginning at 12:30pm Santa will once again be available to hear all those wish lists!&nbsp;
 
 {{< spacer 50 >}}
 

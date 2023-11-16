@@ -45,13 +45,13 @@ This festive annual display debuts on Thanksgiving Day (Thursday, November 23rd)
 
 ![](blob:https://app.cloudcannon.com/e327b8a5-512f-4418-ad56-8d145dd51e3a)
 
-## **ABOUT THE** **<u>TIMED PARKING PASS</u>** **SYSTEM**&nbsp;
+## **ABOUT THE** <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381"><strong><u>TIMED PARKING PASS</u></strong></a> **SYSTEM**&nbsp;
 
 After years of popular growth and attracting large crowds, the Oregon State Parks implemented a **timed parking pass system** in 2022 to decrease long wait times, backed-up traffic conditions and safety concerns on the Cape Arago Highway. Most considered the new system to be a great success and it will remain in place for 2023. “The new entry system launched last year with the support of the Friends of Shore Acres,” says Lee Ricci, park manager for the Sunset Bay Management Unit. “Visitor feedback was overwhelmingly positive, and we’ve worked with the Friends to continue the system this year. Visitors said they appreciated the quick entry into the parking area without waiting in long lines on the road. Plus, the system improved safety for everyone traveling on the Cape Arago Highway, and smoothed out the process overall.”&nbsp;&nbsp;
 
 ## **HOW TO RESERVE YOUR** **<u>TIMED PARKING PASS</u>**
 
-Visitors will not have the option of purchasing a parking permit on-site to park and attend. **Those wishing to visit the park during Holiday Lights must** [**<u>make a reservation through the online system</u>**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381). ***Remember, this is reserving a*** ***<u>Timed Parking Pass</u>******, not entry per person attending.*** The event runs Nov. 23-Dec. 31 (including Christmas Day & Christmas Eve), and parking time slots are available for 4:30 p.m., 5:30 p.m., 6:30 p.m. and 7:30 p.m. daily. There are many permits for every hour. We strongly recommend reserving your parking pass to enter the Holiday Lights at Shore Acres State Park as soon as possible, as permits are going fast for holiday time periods.&nbsp;
+Visitors will not have the option of purchasing a parking permit on-site to park and attend. **Those wishing to visit the park during Holiday Lights must** <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381"><strong><u>make a reservation through the online system</u></strong></a>. ***Remember, this is reserving a*** ***<u>Timed Parking Pass</u>******, not entry per person attending.*** The event runs Nov. 23-Dec. 31 (including Christmas Day & Christmas Eve), and parking time slots are available for 4:30 p.m., 5:30 p.m., 6:30 p.m. and 7:30 p.m. daily. There are many permits for every hour. We strongly recommend reserving your parking pass to enter the Holiday Lights at Shore Acres State Park as soon as possible, as permits are going fast for holiday time periods.&nbsp;
 
 *Note that only half the available parking spots are open for booking now. The rest of the spots will be available on a Rolling Seven Day system with pass for Thanksgiving night available for booking on Thursday, November 16th and so on.*
 
@@ -59,7 +59,7 @@ Visitors will not have the option of purchasing a parking permit on-site to park
 
 **\#1- You only need to book a <u>PARKING PASS</u>**, not Individual Tickets. The event does not require or sell individual tickets to the event. You will only need ONE parking pass per vehicle to enter, and it includes entry for everyone inside the vehicle.&nbsp;
 
-**\#2- The event parking fee is $5** (the same as the normal day-use parking permit price for the park), but instead of paying at the entrance booth, people must reserve it, in advance [<u>HERE</u>](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381), for a specific time period to enter.&nbsp;
+**\#2- The event parking fee is $5** (the same as the normal day-use parking permit price for the park), but instead of paying at the entrance booth, people must reserve it, in advance <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381"><u>HERE</u></a>, for a specific time period to enter.&nbsp;
 
 \#3- The $5 fee for parking when booking your timed parking pass **may be waived if the person making the reservation has one of the following** and selects the option during the reservation process:
 
@@ -83,5 +83,5 @@ Visitors will not have the option of purchasing a parking permit on-site to park
 ## **Ready to book? Here’s how to do it!**
 
 1. Pick your day/time to visit - note half of the parking tickets will be sold in advance, with the rest available within 7 days of entry.
-2. BOOK YOUR PARKING PASS NOW - [<u>CLICK HERE</u>](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381).&nbsp; Reservations can also be made by calling 800-452-5687. Remember, visitors do not have the option to purchase a parking permit onsite at Shore Acres. A credit card is required to book your parking pass. Passes are available now online at [<u>https://bit.ly/2023holidaylights</u>](https://bit.ly/2023holidaylights) or call 800-452-5687, Monday-Friday, 8 a.m.-5 p.m.
+2. BOOK YOUR PARKING PASS NOW - <a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381"><u>CLICK HERE</u></a>.&nbsp; Reservations can also be made by calling 800-452-5687. Remember, visitors do not have the option to purchase a parking permit onsite at Shore Acres. A credit card is required to book your parking pass. Passes are available now online at [<u>https://bit.ly/2023holidaylights</u>](https://bit.ly/2023holidaylights) or call 800-452-5687, Monday-Friday, 8 a.m.-5 p.m.
 3. Pay the $5 fee per vehicle - remember, this includes entry for everyone in your vehicle. A valid credit card is required to book your parking pass.
