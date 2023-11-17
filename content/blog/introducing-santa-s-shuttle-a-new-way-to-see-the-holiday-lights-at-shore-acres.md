@@ -39,7 +39,7 @@ Yes, you read that correctly. This **is a FREE Shuttle Bus** that will serve as 
 
 * These shuttles will depart from the [<u>Charleston Marina</u>](http://www.portofcoosbay.com/marinahome/) every 20 minutes between 4:15 pm and 8:00 pm, and are expected to transport between 80 and 100 guests per hour to the lights.
 
-* The last Shuttle will leave the marina at 8:00pm to give folks enough time to enjoy the lights before the park closes at 9pm.
+* **The last Shuttle will leave the marina at 8:00pm** to give folks enough time to enjoy the lights before the park closes at 9pm.
 
 * There is no need to make a reservation for the shuttle. It will run on a first come, first served basis, so get there early!&nbsp;
 
