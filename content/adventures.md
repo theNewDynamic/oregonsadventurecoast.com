@@ -181,7 +181,7 @@ We invite you to explore, to discover, to feel, and to know the incredible adven
 
 {{< spacer 30 >}}
 
-## [![](/img/fall-15-special-2048x190-10-23.jpg)](/fall15)
+## [![](/img/HolidayLights-2048x190-11-23.jpg)](/event/annual-holiday-lights-at-shore-acres)
 
 {{< spacer 30 >}}
 
