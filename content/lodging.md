@@ -25,4 +25,4 @@ You can pick accommodations on the Oregon Coast that will suit your needs and pr
 
 **{{< spacer "30" >}}**
 
-<div><a href="/event/annual-holiday-lights-at-shore-acres/"><img src="/img/holidaylights-2048x190-11-23.jpg" /></a></div>
+<div style="width:100%"><a href="/event/annual-holiday-lights-at-shore-acres/" alt="Holiday Lights at Shore Acres State Park><img src="/img/holidaylights-2048x190-11-23.jpg" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
