@@ -6,7 +6,7 @@ slideshow:
     photo: ''
     title_mobile:
     photo_mobile: /img/holiday-lights-mobile-slider-2022.jpg
-    url: /annual-holiday-lights-at-shore-acres
+    url: /events/annual-holiday-lights-at-shore-acres
     video:
       cover: /img/holiday-lights-hm-slide-cover-2022.jpg
       source: /img/holiday_lights_2019_854.mp4
