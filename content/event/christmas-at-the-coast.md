@@ -115,6 +115,14 @@ Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown inste
 
 {{< spacer 50 >}}
 
+#### ![](/img/concertband.jpg)
+
+#### November 30 and December 3, 2023<br>Bay Area Concert Band Fall into Winter Concert Series
+
+The North Bend Presbyterian Church will be filled with the sounds of winter this year as the Bay Area Concert Band performs two concerts. The 40-plus-year-old concert band will perform selections from Tchaikovsky's *The Nutcracker*, Tim Burton's *A Nightmare Before Christmas*, and several holiday classics. Concerts are Thursday, November 30th at 7:30 pm and Sunday, December 3rd at 2:00 pm. These concerts are Free but Donations are Welcome!
+
+{{< spacer "50" >}}
+
 #### ![Christmas Opry at Liberty Theatre in North Bend Oregon](/img/holiday-opry-sub-section-hdr.jpg)
 
 #### December 1 - 3, 2023<br>Christmas Opry Returns in December!
