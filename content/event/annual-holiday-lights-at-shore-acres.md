@@ -28,11 +28,27 @@ aliases:
 
 Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition **every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve** – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. **Admission is always free! However, parking at Shore Acres any time of the year is $5.**
 
-Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring more than 325,000 holiday lights (nearly all of them LED), 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished community tradition is made possible by the <a target="_blank" rel="noopener" href="https://shoreacres.net/">Friends of Shore Acres</a>, the dedicated efforts of more than 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in thousands of visitors from all over the world!&nbsp;
+{{< spacer "30" >}}
+
+{{< youtube id="jHnNm_Gy7CA" >}}
+
+{{< spacer "30" >}}
+
+Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring more than 325,000 holiday lights (nearly all of them LED), 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished community tradition is made possible by the <a target="_blank" rel="noopener" href="https://shoreacres.net/">Friends of Shore Acres</a>, the dedicated efforts of more than 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in thousands of visitors from all over the world!
+
+{{< spacer 30 >}}
+
+![](/img/little-girl-frog-collage-695x322.jpg)
+
+{{< spacer 30 >}}
 
 Take a break in the garden house to cozy up and savor some cookies along with a steaming cup of apple cider or coffee. Delve into the opulently adorned house and catch a glimpse of Santa "soaking" in the bathtub.
 
 **[Check out all the Holiday Happenings while you're here!](/event/christmas-at-the-coast)**
+
+{{< spacer 30 >}}
+
+![Shore Acres Holiday Lights - Charleston, Oregon](/img/holiday-lights-shore-acres-panoramic.jpg)
 
 {{< spacer 50 >}}
 
@@ -77,9 +93,9 @@ This year brings a new way to beat the traffic and parking - a **FREE Shuttle Bu
 
 It's the perfect way to enjoy the enchanting lights display at Shore Acres.&nbsp; **Make the most of the season and take a ride on our Santa's Shuttle** to experience the magic of Shore Acres State Park's holiday lights show! *This project has been funded in part by&nbsp; a grant from Travel Oregon, a grant from The Ford Family Foundation and the Coos Bay - North Bend - Charleston Visitor and Convention Bureau. Thanks to First Student Buses for their assistance with this project.*
 
-{{< spacer "50" >}}
+{{< spacer "30" >}}
 
-{{< youtube id="jHnNm_Gy7CA" >}}
+### ![](/img/garden-house-holiday-lights-695x322.jpg)
 
 {{< spacer "50" >}}
 
@@ -107,10 +123,6 @@ divider
 
 **Arrive Early -** Book an early time slot for the lights and see the ocean waves, the park, and the lights' sparkling transition from daylight to dark!{{< /columns >}}
 
-{{< spacer 50 >}}
-
-![](/img/little-girl-frog-collage-695x322.jpg)
-
 {{< spacer 25 >}}
 
 [![](/img/holiday-happenings-button.jpg)](/event/christmas-at-the-coast)
@@ -124,5 +136,3 @@ In **Charleston**, stop in at the [Charleston Marine Life Center](http://www.cha
 In **Coos Bay**, take a stroll along the boardwalk and visit the Coos Bay Visitor Information Center where you will see the 30' lighted tree! Visit the [Coos History Museum](https://cooshistory.org/) and explore our area's culture and history. Visit the [Coos Art Museum](https://www.coosart.org/) to see the latest exhibition, their permanent collection, and the Steve Prefontaine Gallery. And [catch a bite to eat](https://oregonsadventurecoast.com/dining/) at one of our many casual restaurants and coffee shops.
 
 In **North Bend**, take a stroll downtown and visit [quaint, one-of-a-kind shops](https://oregonsadventurecoast.com/shopping/) and cafes. Take to the ice at the only <a target="_blank" rel="noopener" href="https://www.facebook.com/NorthBendIceSkatingRink">Ice Skating Rink</a> on the Oregon Coast! (December 2nd to Valentine's Day) Cross over the historic McCullough Bridge on your way to Horsfall Beach at the tip of the [Oregon Dunes National Recreation Area](https://oregonsadventurecoast.com/untamed-dunes/) and one of the many ATV rental locations in the area.
-
-![Shore Acres Holiday Lights - Charleston, Oregon](/img/holiday-lights-shore-acres-panoramic.jpg)
