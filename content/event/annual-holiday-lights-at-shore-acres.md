@@ -46,7 +46,7 @@ Take a break in the garden house to cozy up and savor some cookies along with a 
 
 **[Check out all the Holiday Happenings while you're here!](/event/christmas-at-the-coast)**
 
-{{< spacer 50 >}}
+{{< spacer 30 >}}
 
 ![Shore Acres Holiday Lights - Charleston, Oregon](/img/holiday-lights-shore-acres-panoramic.jpg)
 
