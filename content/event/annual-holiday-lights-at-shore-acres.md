@@ -93,6 +93,9 @@ This year brings a new way to beat the traffic and parking - a **FREE Shuttle Bu
 
 It's the perfect way to enjoy the enchanting lights display at Shore Acres.&nbsp; **Make the most of the season and take a ride on our Santa's Shuttle** to experience the magic of Shore Acres State Park's holiday lights show! *This project has been funded in part by&nbsp; a grant from Travel Oregon, a grant from The Ford Family Foundation and the Coos Bay - North Bend - Charleston Visitor and Convention Bureau. Thanks to First Student Buses for their assistance with this project.*
 
+{{< spacer "30" >}}
+
+### ![](/img/garden-house-holiday-lights-695x322.jpg)
 
 {{< spacer "50" >}}
 
@@ -119,7 +122,6 @@ divider
 **Wheelchairs** - the park has a few wheelchairs available to those who may need them. These are available on a first-come basis.
 
 **Arrive Early -** Book an early time slot for the lights and see the ocean waves, the park, and the lights' sparkling transition from daylight to dark!{{< /columns >}}
-
 
 {{< spacer 25 >}}
 
