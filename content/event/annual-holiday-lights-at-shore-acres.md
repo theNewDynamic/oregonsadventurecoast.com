@@ -28,6 +28,12 @@ aliases:
 
 Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition **every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve** – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. **Admission is always free! However, parking at Shore Acres any time of the year is $5.**
 
+{{< spacer "30" >}}
+
+{{< youtube id="jHnNm_Gy7CA" >}}
+
+{{< spacer "30" >}}
+
 Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring more than 325,000 holiday lights (nearly all of them LED), 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished community tradition is made possible by the <a target="_blank" rel="noopener" href="https://shoreacres.net/">Friends of Shore Acres</a>, the dedicated efforts of more than 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in thousands of visitors from all over the world!&nbsp;
 
 Take a break in the garden house to cozy up and savor some cookies along with a steaming cup of apple cider or coffee. Delve into the opulently adorned house and catch a glimpse of Santa "soaking" in the bathtub.
@@ -77,9 +83,6 @@ This year brings a new way to beat the traffic and parking - a **FREE Shuttle Bu
 
 It's the perfect way to enjoy the enchanting lights display at Shore Acres.&nbsp; **Make the most of the season and take a ride on our Santa's Shuttle** to experience the magic of Shore Acres State Park's holiday lights show! *This project has been funded in part by&nbsp; a grant from Travel Oregon, a grant from The Ford Family Foundation and the Coos Bay - North Bend - Charleston Visitor and Convention Bureau. Thanks to First Student Buses for their assistance with this project.*
 
-{{< spacer "50" >}}
-
-{{< youtube id="jHnNm_Gy7CA" >}}
 
 {{< spacer "50" >}}
 
