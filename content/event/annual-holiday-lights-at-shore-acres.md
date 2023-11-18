@@ -34,7 +34,13 @@ Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this s
 
 {{< spacer "30" >}}
 
-Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring more than 325,000 holiday lights (nearly all of them LED), 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished community tradition is made possible by the <a target="_blank" rel="noopener" href="https://shoreacres.net/">Friends of Shore Acres</a>, the dedicated efforts of more than 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in thousands of visitors from all over the world!&nbsp;
+Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring more than 325,000 holiday lights (nearly all of them LED), 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished community tradition is made possible by the <a target="_blank" rel="noopener" href="https://shoreacres.net/">Friends of Shore Acres</a>, the dedicated efforts of more than 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in thousands of visitors from all over the world!
+
+{{< spacer 30 >}}
+
+![](/img/little-girl-frog-collage-695x322.jpg)
+
+{{< spacer 30 >}}
 
 Take a break in the garden house to cozy up and savor some cookies along with a steaming cup of apple cider or coffee. Delve into the opulently adorned house and catch a glimpse of Santa "soaking" in the bathtub.
 
@@ -114,9 +120,6 @@ divider
 
 **Arrive Early -** Book an early time slot for the lights and see the ocean waves, the park, and the lights' sparkling transition from daylight to dark!{{< /columns >}}
 
-{{< spacer 50 >}}
-
-![](/img/little-girl-frog-collage-695x322.jpg)
 
 {{< spacer 25 >}}
 
