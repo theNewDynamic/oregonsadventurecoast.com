@@ -30,7 +30,7 @@ smallboxphoto: /img/skating-rink-340x214.jpg
 ---
 ![](/img/skating-rink-1024x395.jpg)<br>*(All photos courtesy of Xtraice, manufacturer of North Bend's Ice Skating Rink)*
 
-##### Bring your friends, bring your family and enjoy the Only Ice Skating Rink on the Oregon Coast! From early December through Valentine's Day, lace up a pair of skates and take to the ice.&nbsp;
+#### Bring your friends, bring your family and enjoy the Only Ice Skating Rink on the Oregon Coast! From early December through Valentine's Day, lace up a pair of skates and take to the ice.&nbsp;
 
 {{< spacer 25 >}}
 
@@ -76,7 +76,7 @@ Please read this [Skater's Code of Conduct](/img/skaterscodeofconduct20132421206
 
 **Worried about the weather?** No need! The rink is under a huge tent and shielded from the wind on both the north and south sides by existing buildings!
 
-**Just want to watch others wobble along on thin-bladed skates?** You can do that too. There is seating under the tent!&nbsp;Spectators are encouraged to dress in layers as the rink is very cold.
+**Just want to watch others wobble along on thin-bladed skates?** You can do that too. There is seating under the tent! Spectators are encouraged to dress in layers as the rink is very cold.
 
 **About the Rink:** This is a 3,250 sq. ft. synthetic ice skating rink enclosed in a 5,000 sq. ft. event tent. Traditional ice rinks are rare due to the high maintenance cost. Xtraice synthetic ice has been used, which is no ordinary ice. Xtraice uses cutting-edge technology and the highest quality materials with the most significant molecular density in the market. The goal of any synthetic ice is to have the lowest friction coefficient, or “gliding degree,” and good grip. The grip is vital for many ice skating and hockey maneuvers. We offer four polar bears to push around to help with balance to assist young, less skilled skaters.
 
