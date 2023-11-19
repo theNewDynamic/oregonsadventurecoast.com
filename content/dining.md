@@ -7,24 +7,24 @@ photo: /img/dining-header.jpg
 ctas:
   - title: Coos Bay – North Bend Downtown Walking Maps
     url: /img/walking-map-cbnb.pdf
+    action: Download (PDF)
     image: /img/brochure-cover-walking-map.jpg
-    action: Download (PDF)
   - title: Local Restaurant & Dining Guide
-    url: /img/restaurants-booklet-web-09-23.pdf
+    url: /img/restaurants-booklet-web-11-23.pdf
+    action: Download (PDF)
     image: /img/brochure-cover-dining-guide-23.jpg
-    action: Download (PDF)
   - title: Coffee Shops, Bakeries & More Guide
-    url: /img/coffeeshops-bakery-08-23.pdf
-    image: /img/brochure-cover-bakery-guide.jpg
+    url: /img/coffeeshops-bakery-11-23.pdf
     action: Download (PDF)
+    image: /img/brochure-cover-bakery-guide.jpg
 seo:
+  title: Oregon Coast Trips Vacations - Dining | Oregon's Adventure Coast
   description: >-
     Choose from a variety of dining options during your Oregon Coast trip!
     Offering family style eateries, ethnic, chain, seafood, and fine dining
     restaurants.
-  title: Oregon Coast Trips Vacations - Dining | Oregon's Adventure Coast
-  image: /img/dining-header.jpg
   imgalt: Seafood dining on oregon's adventure coast
+  image: /img/dining-header.jpg
 aliases:
   - /eat-drink
   - /activities/category/eat-drink-activities
