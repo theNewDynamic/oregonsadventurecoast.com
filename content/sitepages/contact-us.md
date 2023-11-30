@@ -4,7 +4,7 @@ title: Contact Us for Oregon Coast Trip Ideas
 draft: false
 url: /contact
 layout: contact
-photo: /img/contact-page-header.jpg
+photo: /img/north-spit-panoramic-pg-header.jpg
 seo:
   title: Contact Us for Oregon Coast Trip Ideas | Oregon's Adventure Coast
   description: >-
