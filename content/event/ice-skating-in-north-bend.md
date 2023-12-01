@@ -48,6 +48,8 @@ smallboxphoto: /img/skating-rink-340x214.jpg
 
 #### Special Events at the Ice Rink!
 
+![](/img/december-ice-rink-schedule.png)
+
 Visit the <a target="_blank" rel="noopener" href="https://www.facebook.com/NorthBendIceSkatingRink">Ice Rink's Facebook page</a> for information on special themed nights, including Disco Ice Skating Nights, Movie Ice Skating Nights, Costume Ice Skating Nights, Karaoke Ice Skating Nights, and much more!
 
 {{< spacer 25 >}}
