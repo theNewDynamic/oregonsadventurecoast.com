@@ -43,13 +43,11 @@ But what does one do on those days when the weather isn’t cooperating and the 
 
 ### Go Ice Skating (through Feb 14, 2024)
 
-![](/img/ice-skating-oregon-coast-695x322-jpg.jpg)
-Last year, the City of North Bend implemented a special winter tradition when it opened the [<u>North Bend Ice Skating Rink</u>](https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/)! The 3,250 sq. ft. synthetic ice skating rink, housed in a 60-foot by 83-foot event tent, is sure to keep spirits bright during the holiday season and beyond - even if it’s raining outside! There is no fee to enter, but ice skate rental is $5 per hour. Anyone with their own ice skates can skate for free.
+![](/img/ice-skating-oregon-coast-695x322-jpg.jpg) Last year, the City of North Bend implemented a special winter tradition when it opened the [<u>North Bend Ice Skating Rink</u>](https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/)! The 3,250 sq. ft. synthetic ice skating rink, housed in a 60-foot by 83-foot event tent, is sure to keep spirits bright during the holiday season and beyond - even if it’s raining outside! There is no fee to enter, but ice skate rental is $5 per hour. Anyone with their own ice skates can skate for free.
 
 ### **Catch a Movie at The Egyptian Theatre**
 
-![](/img/Egyptian-theater-blog-695x322.jpg)
-The beautifully restored and historic Egyptian Theatre features classic movies and live entertainment throughout the year. Located in the heart of downtown Coos Bay, this destination is fun for the whole family. You don’t need to travel across the world to visit an historical Egyptian landmark, there’s one on Oregon’s Adventure Coast! The[<u> Egyptian Theatre,</u>](http://egyptiantheatreoregon.com/) a historic 1925 movie theater and performance venue, is located in the heart of downtown Coos Bay. The beautifully restored and historic entertainment venue features classic movies, live entertainment and, of course, the famous Wurlitzer Organ throughout the year - a fun destination for the whole family!
+![](/img/Egyptian-theater-blog-695x322.jpg) The beautifully restored and historic Egyptian Theatre features classic movies and live entertainment throughout the year. Located in the heart of downtown Coos Bay, this destination is fun for the whole family. You don’t need to travel across the world to visit an historical Egyptian landmark, there’s one on Oregon’s Adventure Coast! The[<u> Egyptian Theatre,</u>](http://egyptiantheatreoregon.com/) a historic 1925 movie theater and performance venue, is located in the heart of downtown Coos Bay. The beautifully restored and historic entertainment venue features classic movies, live entertainment and, of course, the famous Wurlitzer Organ throughout the year - a fun destination for the whole family!
 
 ***Hot Tip!*** Depending on the timing of your trip, you just might be able to catch a live performance by talented actors and musicians at one of our [<u>local theatres,</u>](https://www.oregonsadventurecoast.com/theatres) like [<u>The Liberty Theatre</u>](http://thelibertytheatre.org/) and [<u>The Dolphin Playhouse</u>](https://thedolphinplayhouse.com/). Visit their websites for current productions, showtimes, and ticket information.
 
@@ -65,8 +63,7 @@ The beautifully restored and historic Egyptian Theatre features classic movies a
 
 ### **Spend the Day (or Evening) Gaming**
 
-![](/img/casino-slotmachine-03.jpg)
-Whether it’s slots, cards, or games, visitors will find round-the-clock adventure and indoor fun at one of our two[<u> casinos</u>](https://oregonsadventurecoast.netlify.app/blog/try-your-luck-on-oregon-s-adventure-coast/)! [<u>The Mill Casino * Hotel &amp; RV Park</u>](https://www.themillcasino.com/) features Vegas-style table games, more than 600 slots, the only Sports Betting Casino on Oregon’s South Coast and more! If you play your cards right, you can also hit [<u>Three Rivers Casino – Coos Bay,</u>](https://www.threeriverscasino.com/coos-bay-casino) just ten minutes away!
+![](/img/casino-slotmachine-03.jpg) Whether it’s slots, cards, or games, visitors will find round-the-clock adventure and indoor fun at one of our two[<u> casinos</u>](https://oregonsadventurecoast.netlify.app/blog/try-your-luck-on-oregon-s-adventure-coast/)! [<u>The Mill Casino * Hotel &amp; RV Park</u>](https://www.themillcasino.com/) features Vegas-style table games, more than 600 slots, the only Sports Betting Casino on Oregon’s South Coast and more! If you play your cards right, you can also hit [<u>Three Rivers Casino – Coos Bay,</u>](https://www.threeriverscasino.com/coos-bay-casino) just ten minutes away!
 
 ### **Get Inspired at a Local Museum**
 
@@ -74,14 +71,11 @@ Whether it’s slots, cards, or games, visitors will find round-the-clock advent
 
 ### **Satisfy Your Sweet Tooth**
 
-![](/img/Cranberry%20Sweets%20blog-695x322.jpg)
-While visiting the Coos Bay, North Bend, and Charleston area, be sure to stop by [<u>Cranberry Sweets</u>](https://cranberrysweets.com/) for a sweet treat made from Oregon cranberries and other delectable flavors. You can watch candy being made most weekdays, while also sampling your heart out.&nbsp; In downtown North Bend, [<u>Sweet Street’s</u>](https://www.sweetstreetcandyshop.com/) hand-crafted chocolates, fudge, ice cream, and Boba Tea are sure to please.
+![](/img/Cranberry%20Sweets%20blog-695x322.jpg) While visiting the Coos Bay, North Bend, and Charleston area, be sure to stop by [<u>Cranberry Sweets</u>](https://cranberrysweets.com/) for a sweet treat made from Oregon cranberries and other delectable flavors. You can watch candy being made most weekdays, while also sampling your heart out.&nbsp; In downtown North Bend, [<u>Sweet Street’s</u>](https://www.sweetstreetcandyshop.com/) hand-crafted chocolates, fudge, ice cream, and Boba Tea are sure to please.
 
 ### **Indulge in Fresh Seafood (like Clam Chowder)**
 
-
-![](/img/shark-bites-chowder-cropped.jpg)
-When it comes to fresh seafood on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, there is no shortage of options - too many, in fact, to list in one place! We recommend bookmarking the [<u>Oregon’s Adventure Coast Dining Page</u>](https://www.oregonsadventurecoast.com/dining/) to help you choose the right spot! Whether you’re craving a hot bowl of clam chowder that rivals chowder from the top restaurants in New England, fish tacos, crab cakes, fried oysters, and everything in between - we’ve got you covered!&nbsp;&nbsp;
+![](/img/shark-bites-chowder-cropped.jpg) When it comes to fresh seafood on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, there is no shortage of options - too many, in fact, to list in one place! We recommend bookmarking the [<u>Oregon’s Adventure Coast Dining Page</u>](https://www.oregonsadventurecoast.com/dining/) to help you choose the right spot! Whether you’re craving a hot bowl of clam chowder that rivals chowder from the top restaurants in New England, fish tacos, crab cakes, fried oysters, and everything in between - we’ve got you covered!&nbsp;&nbsp;
 
 ### **Treat yourself to a spa experience**
 
