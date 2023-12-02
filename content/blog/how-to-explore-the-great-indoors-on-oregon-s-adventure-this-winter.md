@@ -37,13 +37,14 @@ That’s not to say outdoor adventures are off limits during the winter months! 
 
 But what does one do on those days when the weather isn’t cooperating and the outdoors don’t seem as appealing? Not to worry, here are ideas to have a great time while staying out of the cold:
 
-### **Dive Into the The Charleston Marine Life Center**
+### Dive Into the The Charleston Marine Life Center
 
 ![](/img/charleston-marine-life-blog-695x322-jpg.jpg)We can all but guarantee that everyone who enters this oasis of marine knowledge will leave having learned something new. The University of Oregon's [<u>Charleston Marine Life Center</u>](https://cmlc.uoregon.edu/), located on the harbor’s edge in Charleston, offers an engaging year-round destination for all ages. Come explore the center’s touch tide pool, fossil displays, and live sea creature tanks as you view the fishing boats unloading their catch from across the dock.&nbsp;
 
-### **Go Ice Skating (through Feb 14, 2024)**
+### Go Ice Skating (through Feb 14, 2024)
 
-![](/img/ice-skating-oregon-coast-695x322-jpg.jpg)Last year, the City of North Bend implemented a special winter tradition when it opened the [<u>North Bend Ice Skating Rink</u>](https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/)! The 3,250 sq. ft. synthetic ice skating rink, housed in a 60-foot by 83-foot event tent, is sure to keep spirits bright during the holiday season and beyond - even if it’s raining outside! There is no fee to enter, but ice skate rental is $5 per hour. Anyone with their own ice skates can skate for free.
+![](/img/ice-skating-oregon-coast-695x322-jpg.jpg)
+Last year, the City of North Bend implemented a special winter tradition when it opened the [<u>North Bend Ice Skating Rink</u>](https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/)! The 3,250 sq. ft. synthetic ice skating rink, housed in a 60-foot by 83-foot event tent, is sure to keep spirits bright during the holiday season and beyond - even if it’s raining outside! There is no fee to enter, but ice skate rental is $5 per hour. Anyone with their own ice skates can skate for free.
 
 ### **Catch a Movie at The Egyptian Theatre**
 
