@@ -4,7 +4,7 @@ title: "How to Explore the “Great Indoors” on Oregon’s Adventure this Wint
 draft: false
 date: 2023-11-30T00:00:00-08:00
 description: >-
-  **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is known its
+  Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is known its
   outdoor adventures, but it’s a little known fact that there are plenty of
   fantastic INDOOR adventures to enjoy. Here are ideas to have a great time
   while staying out of the cold!
