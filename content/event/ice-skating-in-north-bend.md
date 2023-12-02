@@ -38,6 +38,10 @@ smallboxphoto: /img/skating-rink-340x214.jpg
 
 **11:00am-3:00pm** - Glide on North Bend's Ice Rink - it's a **FREE** skate rental day!
 
+Below is the schedule for December Skating Activities. Several Theme Nights and Special events are planned!
+
+![](/img/december-ice-rink-schedule.png)
+
 #### {{< spacer 50 >}}
 
 #### Cost (other than Dec 2nd):
@@ -47,8 +51,6 @@ smallboxphoto: /img/skating-rink-340x214.jpg
 **{{< spacer "25" >}}**
 
 #### Special Events at the Ice Rink!
-
-![](/img/december-ice-rink-schedule.png)
 
 Visit the <a target="_blank" rel="noopener" href="https://www.facebook.com/NorthBendIceSkatingRink">Ice Rink's Facebook page</a> for information on special themed nights, including Disco Ice Skating Nights, Movie Ice Skating Nights, Costume Ice Skating Nights, Karaoke Ice Skating Nights, and much more!
 
