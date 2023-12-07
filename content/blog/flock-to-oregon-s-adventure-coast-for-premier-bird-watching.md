@@ -1,34 +1,33 @@
 ---
+_schema: default
 title: 'Flock to Oregon’s Adventure Coast for Premier Bird Watching! '
-date: 2021-03-24T04:00:00+00:00
-description: 'You already know Oregon''s Adventure Coast is a haven for anyone looking
-  to unplug and reconnect with nature, but you may not know it is a premier destination
-  for both beginners and experienced birders alike! '
-image: "/img/coos-bay-birding-blog-695x322-jpg.png"
+draft: false
+date: 2021-03-24T04:00:00Z
+description: >-
+  You already know Oregon's Adventure Coast is a haven for anyone looking to
+  unplug and reconnect with nature, but you may not know it is a premier
+  destination for both beginners and experienced birders alike!
+image: /img/coos-bay-birding-blog-695x322-jpg.png
 tags:
-- Oregon Coast
-- 'Bird watching '
-- birding
-- Oregon Coast Birds
-- 'Oregon''s Adventure Coast '
-- Coos Bay
-- North Bend
-- Charleston
-- Oregon State Parks
-- 'Cape Arago '
-- 'Oregon Shorebird Festival '
+  - Oregon Coast
+  - 'Bird watching '
+  - birding
+  - Oregon Coast Birds
+  - 'Oregon''s Adventure Coast '
+  - Coos Bay
+  - North Bend
+  - Charleston
+  - Oregon State Parks
+  - 'Cape Arago '
+  - 'Oregon Shorebird Festival '
 categories:
-- Outdoor Adventures
+  - Outdoor Adventures
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
 _You already know Oregon's Adventure Coast is a haven for anyone looking to unplug and reconnect with nature, but you may not know it is a premier destination for both beginners and experienced birders alike._
 
