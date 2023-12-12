@@ -6,11 +6,11 @@ url: /travelers-info
 layout: travelersinfo
 photo: /img/travelers-information-header.jpg
 seo:
+  title: Traveler's Information | Oregon's Adventure Coast
   description: >-
     We’re here to make your trip to Oregon’s Adventure Coast as easy as
     possible. Here are our tips for what to pack, what to wear, and need to know
     before you head out.
-  title: Traveler's Information | Oregon's Adventure Coast
 aliases:
   - /about/relocation-information
   - /travelers-guide
@@ -84,15 +84,9 @@ There are a few things to keep in mind when bringing Fido along. Make sure you a
 
 And for the adventures that you can’t bring your pet along, we have plenty of pet sitting services who can help out! Please keep in mind you should check in advance with care providers to see what pet records are required.
 
-{{< columns number="3" >}}
+{{< columns number="3" >}}![Carol's Pet Sitting](/img/dog-01.jpg)
 
-![Carol's Pet Sitting](/img/dog-01.jpg)
-
-**Carol’s Pet Sitting**
-Coos Bay and
-Dunes City, OR
-(541) 297-6039
-{{< link url="https://www.facebook.com/Carols-Pet-Sitting-301592177499/" >}}Carol's Pet Sitting{{< /link >}}
+**Carol’s Pet Sitting** Coos Bay and Dunes City, OR (541) 297-6039 {{< link url="https://www.facebook.com/Carols-Pet-Sitting-301592177499/" >}}Carol's Pet Sitting{{< /link >}}
 
 Pick up service at hotel or in town & short term care available for visitors; anywhere from a couple hours to long term stays. Pet sitting is in a nice home environment with fenced yeard, pets sleep indoors. Excellent references, credit cards accepted. Carol’s Pet Sitting is proud to be named a local’s favorite by reader’s of our local newspaper.
 
@@ -100,27 +94,17 @@ divider
 
 ![Morgan Veterinary](/img/dog-02.jpg)
 
-**Morgan Veterinary**
-230 Market Ave
-Coos Bay, OR
-(541) 269-5846
-{{< link url="https://www.facebook.com/MorganVet/" >}}Morgan Veterinary{{< /link >}}
+**Morgan Veterinary** 625 N Broadway, Coos Bay, OR (541) 269-5846 {{< link url="https://www.facebook.com/MorganVet/" >}}Morgan Veterinary{{< /link >}}
 
-Boarding and Day Care available for dogs, cats and birds. Their kennel attendants feed, nurture and lavish attention when you can’t be there. They provide tender loving care (such as brushing and cuddling), and supervised outdoor playtime to keep your pet happy and active. Hours are Mon-Fri 8:30am-5:30pm,  weekend pick ups can be arranged.
+Boarding and Day Care available for dogs, cats and birds. Their kennel attendants feed, nurture and lavish attention when you can’t be there. They provide tender loving care (such as brushing and cuddling), and supervised outdoor playtime to keep your pet happy and active. Hours are Mon-Fri 8:30am-5:30pm, weekend pick ups can be arranged.
 
 divider
 
 ![Riverview Kennels](/img/dog-03.jpg)
 
-**Riverview Kennels**
-83737 North Bank Ln
-Bandon, OR
-(541) 347-4689
-{{< link url="http://riverviewkennels.com" >}}RiverviewKennels.com{{< /link >}}
+**Riverview Kennels** 83737 North Bank Ln Bandon, OR (541) 347-4689 {{< link url="http://riverviewkennels.com" >}}RiverviewKennels.com{{< /link >}}
 
-Riverview Kennels would be pleased to host your family pet member at our highly rated boarding facility. Dogs must have proof of rabies, dhlpp, and bordetella vaccinations. Cats must have proof of rabies and feline vaccinations. Special amenities include forest walks and playtimes. Check the website for rates.
-
-{{< /columns >}}
+Riverview Kennels would be pleased to host your family pet member at our highly rated boarding facility. Dogs must have proof of rabies, dhlpp, and bordetella vaccinations. Cats must have proof of rabies and feline vaccinations. Special amenities include forest walks and playtimes. Check the website for rates.{{< /columns >}}
 
 ### SAFETY
 
