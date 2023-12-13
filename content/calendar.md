@@ -1,18 +1,21 @@
 ---
-layout: calendarpage
-outputs:
-- html
-- json
-aliases:
-- "/activities/category/events"
-- "/listings/polar-bear-plunge-2"
+_schema: default
 title: Oregon Coast Trips - Calendar of Activities
-photo: "/img/calendar-pie-sub-pg-header.jpg"
+draft: false
+layout: calendarpage
+photo: /img/runninginforest-2048x530.jpg
 seo:
-  description: View a calendar of events for your trip to the Oregon Coast! Coos Bay,
-    North Bend, and Charleston offer activities & festivals full of spirit and adventure.
   title: Oregon Coast Trips - Calendar of Events | Oregon's Adventure Coast
-
+  description: >-
+    View a calendar of events for your trip to the Oregon Coast! Coos Bay, North
+    Bend, and Charleston offer activities & festivals full of spirit and
+    adventure.
+aliases:
+  - /activities/category/events
+  - /listings/polar-bear-plunge-2
+outputs:
+  - html
+  - json
 ---
 There’s something special about Oregon’s Adventure Coast that you won’t find anywhere else. We are a community with unique character tied together by a beautiful bay; Coos Bay. Coos Bay, North Bend and Charleston offer a calendar full of spirit and adventure.
 
