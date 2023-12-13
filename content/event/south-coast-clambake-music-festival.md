@@ -41,7 +41,9 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 
 {{< spacer 50 >}}
 
-### TICKETS ON SALE SOON!
+### TICKETS ON SALE SOON! But, in the meantime, Learn How to Dance!! Here's the Schedule:
+
+![](/img/clambake-dance-lessons.jpeg)
 
 {{< spacer 50 >}}
 
