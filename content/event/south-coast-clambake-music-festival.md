@@ -41,14 +41,30 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 
 {{< spacer 50 >}}
 
-### TICKETS ON SALE SOON!
+### <a target="_blank" rel="noopener" href="https://www.eventbrite.com/e/south-coast-clambake-music-festival-tickets-754414623447?aff=ebdsoporgprofile">TICKETS ON SALE NOW!</a>
+
+{{< spacer "25" >}}
+
+#### And, in the meantime, Learn How to Dance!! Here's the Schedule:
+
+![](/img/clambake-dance-lessons.jpeg)
 
 {{< spacer 50 >}}
 
 ![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-music-v01-695x322.jpg)
 
-### Featuring the music of bands all across these United States! More Information Coming Soon!
+### Featuring the music of bands all across these United States!
 
-For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks! Visit the [website](https://clambakemusic.com/) for details.
+#### 2024 Bands Include:
+
+* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3782">Alpha Rhythm Kings</a>
+* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=2250">Dave Bennett Quartet</a>
+* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3442">Good Co.</a>
+* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3449">Gino &amp; The Lone Gunmen</a>
+* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3069">Lisa Mann</a>
+* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4055">Shaymus Hanlin Quartet</a>
+* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4091">The Trottles</a>
+
+**For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks**! Visit the [website](https://clambakemusic.com/) for details.
 
 ![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-music-v02-695x322.jpg)
