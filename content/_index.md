@@ -90,6 +90,10 @@ promotional_banner: https://craterlakecountry.com/coos-bay/
 ---
 We welcome you to Oregon’s Adventure Coast, where the land meets the bay and the sea, opening up an abundance of possibilities. We invite you to explore, to discover, to feel, to know…at land’s end, adventure begins. On Oregon’s Adventure Coast, you will find not just something to do, but something you want to do. Your vacation will be full of adventure, nature, wildlife, culture, arts and athletics.
 
+erlerter
+
 ## Exciting Outdoor Activities on the Oregon Coast
 
 Water and outdoor activities abound on the Oregon Coast, from kayaking, scuba diving and surfing to world-class fishing, crabbing and clamming. Hit the sand in an ATV, hike winding trails, bike along the boardwalk, and run the same path as legend and local hero, Steve Prefontaine. Take a chance with Vegas-style gaming, catch a movie at the historic Egyptian Theatre, and make time to dine upon a hilltop. Your adventure awaits.
+
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).

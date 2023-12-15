@@ -4,11 +4,11 @@ title: Cycling
 url: /cycling
 photo: /img/adventures-biking-header.jpg
 seo:
+  title: Cycling | Oregon's Adventure Coast
   description: >-
     Whether you take to the road, fat bike on the beach, or careen around
     single-track trails, you will find heart pumping biking routes on Oregon’s
     Adventure Coast. 
-  title: Cycling | Oregon's Adventure Coast
 aliases:
   - /activities/category/cycling
 accordion_sections:
@@ -68,6 +68,8 @@ Whether you take to the road, fat bike on the beach, or careen around single-tra
 
 [Check out the MTB Project's online Whiskey Run Mountain Biking Trail map here.](https://www.mtbproject.com/directory/8019222/whiskey-run-trails) The Whiskey Run Mountain Bike Trails is a one-of-a-kind trail system on the Southern Oregon Coast, located between Coos Bay and Bandon. Ribbons of clay dirt flow and wind through the Coos County Forest in these cross-country style trails. Moderate climbing and fun descending make this system worth the drive to the gorgeous Southern Oregon Coast. **The 30-mile trail system** **is located about 15 minutes south of Coos Bay off Highway 101, in the mists of the coastal forest.**
 
+![](/img/capture-d-ecran-le-2023-12-15-a-09-48-37.png)
+
 Located in an active logging forest, Whiskey Run gives visitors a view of the Coos County Forest most do not get to see - seeing harvesting in this coastal forest while they are enjoying sweeping views, tranquil streams, and fern-covered forest floors. The trails are a blend of flow and cross country style, and are great for all levels of riders with open sightlines, easy climbs, and chances to catch some air if you want. You'll dip and wind through the forest in this unique South Coast environment.
 
 These professionally built trails are made to withstand the coast's weather, so when the weather is unfavorable in the Cascades and you want to ride some loam and clay, come on down to the coast. However, please don't ride if the trails are muddy. Check trail reports or call the local shops or guide services.
@@ -102,7 +104,7 @@ Wherever you go fat tire biking on Oregon's Adventure Coast, [check the tides](h
 
 ## Pedal the Rails!
 
-For something completely different, take to the rails with the <a target="_blank" rel="noopener" href="https://ocrailriders.com/">Oregon Coast Railriders</a>. Pedal along the beautiful Coquille River towards Coos Bay on a four seater quardricycle on the scenic Coos Bay Historic Railway for six miles. The trip begins in the community of Coquille just 17 miles inland from Coos Bay. Rail trips are available May through October.
+For something completely different, take to the rails with the <a href="https://ocrailriders.com/" target="_blank" rel="noopener">Oregon Coast Railriders</a>. Pedal along the beautiful Coquille River towards Coos Bay on a four seater quardricycle on the scenic Coos Bay Historic Railway for six miles. The trip begins in the community of Coquille just 17 miles inland from Coos Bay. Rail trips are available May through October.
 
 You will pedal &nbsp;round trip for about twelve miles on unused track. Staff will turn your four seated railrider around as you take a break.
 
