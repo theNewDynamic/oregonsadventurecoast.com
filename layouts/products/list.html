@@ -8,10 +8,7 @@
     <h1>
       The Adventure Store
     </h1>
-    <div class="cart">
-      <div class="snipcart-checkout"><i class="fas fa-shopping-cart"></i></div>
-      <span class="snipcart-total-price">$</span>
-    </div>
+
   </div>
   
   <div class="lodging-list">
@@ -22,25 +19,4 @@
     </div>
   </div>
 </div>
-{{ end }}
-
-{{ define "footerJs" }}
-<script>
-  let quantiyInputs = document.querySelectorAll('[name="quantity"]');
-  let sizeInputs = document.querySelectorAll('[name="size"]');
-
-  quantiyInputs.forEach(function(elem) {
-      elem.addEventListener("change", function(event) {
-        button = document.getElementById(event.target.getAttribute('data-product'))
-        button.setAttribute('data-item-quantity', event.target.value)
-      });
-  });
-
-  sizeInputs.forEach(function(elem) {
-    elem.addEventListener("change", function(event) {
-      button = document.getElementById(event.target.getAttribute('data-product'))
-      button.setAttribute('data-item-custom1-value', event.target.value)
-    });
-});
-</script>
 {{ end }}

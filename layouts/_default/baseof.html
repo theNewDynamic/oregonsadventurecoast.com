@@ -10,9 +10,6 @@
   </head>
   <body x-data="{ displayFilters: false }" :class="displayFilters ? 'overflow-hidden' : ''">
     {{ partial "hd" . }}
-    {{ if eq $.Type "products" }}
-      {{ partialCached "tnd-snipcart/tags.html" . }}
-    {{ end }}
     <div id="top"></div>
     <div id="bd">
       {{ block "main" . }}{{ end }}
