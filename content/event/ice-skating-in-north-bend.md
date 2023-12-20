@@ -28,7 +28,7 @@ largeboxphoto: /img/skating-rink-1024x395.jpg
 mediumboxphoto: /img/skating-rink-667x355.jpg
 smallboxphoto: /img/skating-rink-340x214.jpg
 ---
-![](/img/skating-rink-1024x395.jpg)<br>*(All photos courtesy of Xtraice, manufacturer of North Bend's Ice Skating Rink)*
+![](/img/icerink-festive-med.jpg)
 
 #### Bring your friends, bring your family and enjoy the Only Ice Skating Rink on the Oregon Coast! From early December through Valentine's Day, lace up a pair of skates and take to the ice.&nbsp;
 
