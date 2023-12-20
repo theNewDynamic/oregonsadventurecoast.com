@@ -1,42 +1,43 @@
 ---
+_schema: default
 title: 'Adventure Spotlight: Whiskey Run Mountain Bike Trails on Oregon’s South Coast'
-date: 2021-02-18T05:00:00.000+00:00
-description: The Whiskey Run Mountain Biking Trail System, open year-round, flows
-  and winds on cross-country style trails for more than 22 miles. Riders are treated
-  to sweeping views of the Coos County Forest, tranquil streams, and fern covered
+draft: false
+date: 2021-02-18T05:00:00Z
+description: >-
+  The Whiskey Run Mountain Biking Trail System, open year-round, flows and winds
+  on cross-country style trails for more than 22 miles. Riders are treated to
+  sweeping views of the Coos County Forest, tranquil streams, and fern covered
   forest floors that can only be experienced on Oregon’s South Coast.
-image: "/img/cycling-at-whiskey-run-blog-695x322-jpg.png"
+image: /img/cycling-at-whiskey-run-blog-695x322-jpg.png
 tags:
-- 'Whiskey Run Trail system '
-- Whiskey Run Mountain Biking Trail System
-- 'Mountain Biking '
-- Coos County Forest
-- Coos Bay
-- North Bend
-- Charleston
-- 'Oregon Travel '
-- Oregon's Adventure Coast
-- Oregon Coast
-- Biking
-- 'Oregon Coast Mountain Biking '
+  - 'Whiskey Run Trail system '
+  - Whiskey Run Mountain Biking Trail System
+  - 'Mountain Biking '
+  - Coos County Forest
+  - Coos Bay
+  - North Bend
+  - Charleston
+  - 'Oregon Travel '
+  - Oregon's Adventure Coast
+  - Oregon Coast
+  - Biking
+  - 'Oregon Coast Mountain Biking '
 categories:
-- Outdoor Adventures
+  - Outdoor Adventures
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
-As the COVID-19 pandemic continues to make headlines and keep folks stuck at home, many are turning to nature and outdoor activities to stay grounded and healthy during this challenging time. We recently received a letter from a group visiting from Medford, Oregon praising [Whiskey Run Mountain Bike Trails](https://www.trailforks.com/region/whiskey-run-trails-21273/?activitytype=1&z=12.4&lat=43.21305&lon=-124.36649), one of the prized biking trails in our region, so we thought this would be the perfect opportunity to spotlight this beloved destination.
+Updated December 20, 2023
 
-This one-of-a-kind trail system flows and winds through the misty Coos County Forest on cross-country style trails for more than **22 miles**. _Editor's Note: Phase III construction is expected to gets underway in the near future which will extend the length of this trail system to 30 miles!_
+In recent years, many have learned that turning to nature is a wonderful way to stay grounded and healthy during challenging times. Some time ago, we received a letter from a group visiting from Medford, Oregon praising [Whiskey Run Mountain Bike Trails](https://www.trailforks.com/region/whiskey-run-trails-21273/?activitytype=1&amp;z=12.4&amp;lat=43.21305&amp;lon=-124.36649), one of the prized biking trails in our region, so we thought this would be the perfect opportunity to spotlight this beloved destination.
 
-{{< youtube "YA0X_rpH930" >}}
+This one-of-a-kind trail system flows and winds through the misty Coos County Forest on cross-country style trails for more than 30 miles.
+
+{{< youtube id="YA0X_rpH930" >}}
 
 The letter was written by Pastor Jim Wright from the Mountain Church in Medford, Oregon. Paster Wright leads an annual “Warriors” program, a group of adventure seekers that embark on various outdoor excursions in the Rogue Valley. The group embraces these adventures as an opportunity for growth and personal enrichment. Riding the Whiskey Run Mountain Bike Trails in the Coos County Forest was high on their list of adrenaline sports.
 
@@ -46,7 +47,7 @@ Whiskey Run is known among mountain biking enthusiasts for it’s moderate climb
 
 The trail system is located about 10 minutes from Bandon or Coos Bay off Highway 101. Though the professionally built trails are made to withstand the coast’s weather, it is not recommended you ride if trails are muddy. Check trail reports or call the local shops or guide services for current conditions.
 
-[Read more about the Whiskey Run Mountain Biking Trails here](https://www.mtbproject.com/directory/8019222/whiskey-run-trails) and [Cycling on Oregon’s ](https://www.oregonsadventurecoast.com/cycling/)[Whiskey Run MTB System](https://traveloregon.com/things-to-do/outdoor-recreation/bicycling/whiskey-run-mtb-system/)[dventure Coast](https://www.oregonsadventurecoast.com/cycling/).
+[Read more about the Whiskey Run Mountain Biking Trails here](https://www.mtbproject.com/directory/8019222/whiskey-run-trails) and [Cycling on Oregon’s](https://www.oregonsadventurecoast.com/cycling/)[Whiskey Run MTB System](https://traveloregon.com/things-to-do/outdoor-recreation/bicycling/whiskey-run-mtb-system/)[dventure Coast](https://www.oregonsadventurecoast.com/cycling/).
 
 Other local destinations for avid mountain bikers to explore include-
 
@@ -57,12 +58,3 @@ Other local destinations for avid mountain bikers to explore include-
 [EMPIRE LAKES](http://coosbay.org/uploads/PDF/Operations/Parks/John_Topits_Park/JOHN_TOPITS_PARK_TRAIL_MAP.pdf)
 
 [EUPHORIA RIDGE TRAILS](https://www.trailforks.com/trails/euphoria-ridge-middle/)
-
-\---------   
-Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.  
-  
-Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.   
-  
-If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.  
-   
-Please visit [https://ecs.page.link/xhV4h](https://ecs.page.link/xhV4h "https://ecs.page.link/xhV4h") for more information.
