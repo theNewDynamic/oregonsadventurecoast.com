@@ -18,15 +18,13 @@
 {{ $entries := slice -}}
 {{ if ne hugo.Environment "skip-json" -}}
   {{ with partialCached "func/GetOTIS" "calendar" "calendar" }}
-    {{ range . }}
-      {{ $entries = $entries | append (partial "transformers/calendar" .) }}
-    {{ end }}
+    {{ $entries = . }}
   {{ else }}
     {{ with site.Data.calendar_backup }}
       {{ $entries = . }}
     {{ end }}
   {{ end }}
 {{ end }}
-
-{{ $entries := where $entries "start_date" "!=" nil }}
+{{ $entries = apply $entries "partial" "transformers/calendar" "." }}
+{{ $entries = where $entries "start_date" "!=" nil }}
 {{ return sort $entries "start_date" "asc" }}
