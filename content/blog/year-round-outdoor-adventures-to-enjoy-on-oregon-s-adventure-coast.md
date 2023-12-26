@@ -2,7 +2,7 @@
 _schema: default
 title: Year-Round Outdoor Adventures to Enjoy on Oregon’s Adventure Coast
 draft: false
-date: 2023-12-27T08:20:00-08:00
+date: 2023-12-26T08:20:00-08:00
 description: >-
   Whether it's winter, spring, summer, or fall, the towns of [Coos Bay, North
   Bend, and
