@@ -22,7 +22,11 @@ Last month, we published a post about the top [<u>“Indoor Adventures”</u>](/
 
 **![](/img/oregon-dunes-winter-oregons-adventure-coast-blog-695x322-jpg.jpg)**
 
+**{{< spacer "30" >}}**
+
 {{< youtube id="x6Qro7ktN-w?si=t7wex5kiLs29XYBL" >}}
+
+{{< spacer "30" >}}
 
 The [<u>Oregon Dunes National Recreation Area</u>](/tripideas/oregon-dunes-national-recreation-area/) is like no place on earth. It’s also one of our favorite attractions on Oregon’s Adventure Coast, because there are plenty of opportunities to find relaxation and adventure. Take a thrilling ride up and down a towering sand dune, or hike along the miles and miles of trails. With more than 32,186 acres of dunes, forest, streams and lakes, there are plenty of opportunities for an amazing winter adventure.&nbsp;
 
