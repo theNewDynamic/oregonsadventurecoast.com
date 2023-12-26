@@ -6,11 +6,11 @@ date: 2023-12-26T08:20:00-08:00
 description: >-
   Whether it's winter, spring, summer, or fall, the towns of Coos Bay, North
   Bend, and Charleston - a.k.a. Oregon’s Adventure Coast - are beautiful
-  destinations to explore any time of the year.&nbsp; Our beautiful undeveloped
+  destinations to explore any time of the year. Our beautiful undeveloped
   beaches, untamed dunes, and the popular Whiskey Run Mountain Biking Trail
   System are just some of the outdoor attractions accessible year round. Even in
   the winter months, visitors can experience delightful moments with occasional
-  warmth, some rain, but always a touch of wild and wonderful charm!&nbsp;
+  warmth, some rain, but always a touch of wild and wonderful charm!
 image: /img/cape-arago-highway-winter-oregons-adventure-coast-blog-695x322-jpg.jpg
 warning: false
 ---
