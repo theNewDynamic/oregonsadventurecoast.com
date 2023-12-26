@@ -8,16 +8,14 @@
 
 {{ $endpoints := dict
   "base" $base_url
-  "calendar" "listings/?city=Coos Bay|North Bend|Charleston&type=Events|Farmers Markets"
-  "dining" "listings/?city=Coos Bay|North Bend|Charleston&type=Restaurants"
+  "calendar" "listings/?city=Coos+Bay,North+Bend,Charleston&type=events&app-nocache=true"
+  "dining" "listings/?city=Coos+Bay,North+Bend,Charleston&type=Restaurants&app-nocache=true"
 }}
 
 {{ with index $endpoints . }}
   {{ $endpoint = print $endpoints.base . }}
   {{/* Temporarily use v5 only for calendar */}}
-  {{ if eq $ "calendar" }}
-    {{ $endpoint = replace $endpoint "v4" "v5" }}
-  {{ end }}
+  {{ $endpoint = replace $endpoint "v4" "v5" }}
 {{ end }}
 {{ $args_auth := dict
   "method" "post"
@@ -45,10 +43,11 @@
           $args 
         }}
           {{ with .Err }}
-            {{ warnf "%#v" . }}
+            {{ warnf "%#v %#v" $endpoint . }}
           {{ else }}
             {{ with .Content | unmarshal }}
               {{ with .results }}
+              {{ warnf "%#v %#v" $endpoint (len .) }}
                 {{/* Process Results... :tada emoji */}}
                 {{ $results = $results | append . }}
               {{ end }}
