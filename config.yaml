@@ -39,4 +39,4 @@ blackfriday:
   hrefTargetBlank: false
 caches:
   getresource:
-    maxAge: 0
+    maxAge: 12h
