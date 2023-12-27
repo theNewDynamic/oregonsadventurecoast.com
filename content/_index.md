@@ -5,11 +5,11 @@ slideshow:
   - title:
     photo: ''
     title_mobile:
-    photo_mobile: /img/holiday-lights-mobile-slider-2022.jpg
-    url: /event/annual-holiday-lights-at-shore-acres
+    photo_mobile: /img/mobile-hm-slider-storm-watching-2023.jpg
+    url: /storm-watching
     video:
-      cover: /img/holiday-lights-hm-slide-cover-2022.jpg
-      source: /img/holiday_lights_2019_854.mp4
+      cover: /img/storm-watching-home-video-placeholder.jpg
+      source: /img/waves-web-slider-2023-sd-480p.mov
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /live-cam
