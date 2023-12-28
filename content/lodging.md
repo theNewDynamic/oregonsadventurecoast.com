@@ -25,4 +25,4 @@ You can pick accommodations on the Oregon Coast that will suit your needs and pr
 
 **{{< spacer "30" >}}**
 
-<div style="width:100%"><a href="/storm-watching"><img alt="The Best storm watching on the oregon coast in Coos Bay, North Bend, Charleston" src="/img/StormWatching-2024-Banner-2048x190.jpg" /></a></div>
+<div style="width:100%"><a href="/storm-watching"><img src="/img/StormWatching-2024-Banner-2048x190.jpg" alt="The Best storm watching on the oregon coast in Coos Bay, North Bend, Charleston" style='height: 100%; width: 100%; object-fit: contain' /></a></div>
