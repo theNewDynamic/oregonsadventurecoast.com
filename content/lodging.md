@@ -25,4 +25,4 @@ You can pick accommodations on the Oregon Coast that will suit your needs and pr
 
 **{{< spacer "30" >}}**
 
-<div style="width:100%"><a href="/event/annual-holiday-lights-at-shore-acres"><img src="/img/HolidayLights-2048x190-11-23.jpg" alt="Holiday Lights at Shore Acres State Park in Coos Bay, North Bend, Charleston" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
+<div><a href="/storm-watching"><img alt="The Best storm watching on the oregon coast in Coos Bay, North Bend, Charleston" src="/img/StormWatching-2024-Banner-2048x190.jpg" /></a></div>
