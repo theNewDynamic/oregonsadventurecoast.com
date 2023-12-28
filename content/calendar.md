@@ -13,9 +13,6 @@ seo:
 aliases:
   - /activities/category/events
   - /listings/polar-bear-plunge-2
-outputs:
-  - html
-  - json
 ---
 There’s something special about Oregon’s Adventure Coast that you won’t find anywhere else. We are a community with unique character tied together by a beautiful bay; Coos Bay. Coos Bay, North Bend and Charleston offer a calendar full of spirit and adventure.
 

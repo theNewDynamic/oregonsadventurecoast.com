@@ -12,11 +12,11 @@
         <ul :class="showInnerNav ? 'show' : ''">
         {{ $pageUrl := .RelPermalink }}
         {{ range where .Site.Pages "Section" "adventure" }}
-            {{ if ne .URL "/adventure/" }}
+            {{ if ne .RelPermalink "/adventure/" }}
                 {{ if eq $pageUrl .RelPermalink }}
-                <li class="active"><a href="{{ .URL }}">{{ .Title }}</a></li>
+                <li class="active"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
                 {{ else }}
-                <li><a href="{{ .URL }}">{{ .Title }}</a></li>
+                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
                 {{ end }}
             {{ end }}
         {{ end }}
