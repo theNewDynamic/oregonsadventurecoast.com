@@ -29,6 +29,6 @@ Contact Oregon’s Adventure Coast with any questions you may have about things 
 
 {{< spacer "30" >}}
 
-[![](/img/HolidayLights-2048x190-11-23.jpg)](/event/annual-holiday-lights-at-shore-acres)
+[![](/img/HolidayLights-2048x190-11-23.jpg)](/storm-watching)
 
 {{< spacer 50 >}}
