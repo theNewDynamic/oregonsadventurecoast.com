@@ -31,15 +31,15 @@ More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or 
 
 {{< spacer 25 >}}
 
-### TICKETS GO ON SALE DECEMBER 31ST
+### <a target="_blank" rel="noopener" href="https://www.eventbrite.com/e/39th-annual-charleston-crab-feed-tickets-738239272537?aff=oddtdtcreator">TICKETS ON SALE NOW!</a>
 
 ***Tickets will be available at the door as well!***
 
 {{< spacer 25 >}}
 
-Select a **Dine-In** or **Take-Out** Meal, Whole or Half Crab. Add a dessert or choose the Hot Dog option for those who don't like crab!!!
+Fresh Crab Meals, Whole or Half Crab; or choose the Hot Dog option for those who don't like crab!!!&nbsp;
 
-**Prices are based on Market Value - *PRICES TBD***
+**Prices are based on Market Value -**&nbsp;*Whole Crab Meal $35, Half Crab Meal $22, HotDog Meal $14*
 
 Desserts & Cash Bar - additional cost at venue. Sales of these items benefit a local charity.
 
