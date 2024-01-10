@@ -1040,7 +1040,7 @@ a.phone-body {
     padding: .25em .6em;
     border-radius: 4px; }
 
-.card .tnd-snipcart-button {
+.card .tnd-snipcart-button, .card .store-button {
   flex-shrink: 0;
   background-color: #d74029;
   border: 0;

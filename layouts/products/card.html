@@ -30,7 +30,7 @@
       {{ with .Params.product.price }}
         <div class="card__price">${{ lang.NumFmt 2 . " ." }}</div>
       {{ end }}
-      {{ partial "tnd-snipcart/form" . }}
+      {{ .Render "buy" }}
     </div>
 
   </div>
