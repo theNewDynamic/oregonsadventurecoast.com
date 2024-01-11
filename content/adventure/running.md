@@ -10,7 +10,7 @@ seo:
   imgalt: ''
   image: ''
 ---
-![](/img/running-subpage-header-695x322.jpg)
+![woman running on road on a sunny day in coos bay](/img/running-subpage-header-695x322.jpg)
 
 Run away on Oregon’s Adventure Coast – the perfect place to lace up your shoes and hit the pavement, trail or sand.
 
@@ -18,7 +18,7 @@ What makes Oregon’s Adventure Coast a runner’s paradise? For starters, there
 
 Oregon’s Adventure Coast is also home to unparalleled terrain for running – think ocean views, forested mountains, charming neighborhoods and parks galore. Looking for a scenic easy loop with Pacific Ocean vistas? We’ve got that. A longer, more challenging run to get you up to speed for the annual 10K Prefontaine Memorial Run? No problem. How about a weekly run with a group of friendly folks who love to get out and active with like-minded runners. With the <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/">South Coast Running Club</a>, we’ve got that too.&nbsp;
 
-![Running in Coos Bay, North Bend &amp; Charleston](/img/tying-shoe-and-running-boy.jpg)
+![tying running shoe and boy in red shirt running in the sun on a bridge in Coos Bay](/img/tying-shoe-and-running-boy.jpg)
 
 ### {{< spacer "40" >}}
 
@@ -38,7 +38,7 @@ Fans of renowned Coos Bay long distance runner [Steve Prefontaine](/steve-prefon
 
 {{< spacer "30" >}}
 
-![](/img/prefontaine-mural-downtown-coos-bay-1.jpg)
+![Steve Prefontaine murals in downtown coos bay, oregon at night](/img/prefontaine-mural-downtown-coos-bay-1.jpg)
 
 ### {{< spacer "60" >}}
 
@@ -48,7 +48,7 @@ Oregon's Adventure Coast offers an exhilarating experience for avid runners and 
 
 {{< spacer "30" >}}
 
-![](blob:https://app.cloudcannon.com/877bfca5-f670-49ef-a0c0-0cbccbc33d90)![Roseburg to Coos Bay Run](/img/roseburg-to-coosbay-run-header.jpg)
+![](blob:https://app.cloudcannon.com/877bfca5-f670-49ef-a0c0-0cbccbc33d90)![Roseburg to Coos Bay Run photo header](/img/roseburg-to-coosbay-run-header.jpg)
 
 ### Roseburg to Coos Bay Relay
 
@@ -58,7 +58,7 @@ This is a beautiful course on quiet country roads along a river featuring waterf
 
 {{< spacer 60 >}}
 
-### ![](blob:https://app.cloudcannon.com/b26f1559-0364-4f09-8e88-5c7f8fd03b0b)![Circle the Bay Relay or Individual 30K](/img/circle-the-bay-header-1.jpg)
+### ![](blob:https://app.cloudcannon.com/b26f1559-0364-4f09-8e88-5c7f8fd03b0b)![Circle the Bay Relay or Individual 30K  photo header](/img/circle-the-bay-header-1.jpg)
 
 ### Circle the Bay
 
@@ -72,7 +72,7 @@ Experience the ultimate individual or team challenge at the "Circle the Bay" on 
 
 {{< spacer 60 >}}
 
-![](blob:https://app.cloudcannon.com/81561eee-e34c-4348-9fb0-464764880743)![](/img/sunset-trail-run-header.jpg)
+![](blob:https://app.cloudcannon.com/81561eee-e34c-4348-9fb0-464764880743)![Sunset Trail run photo header](/img/sunset-trail-run-header.jpg)
 
 ### Sunset Trail Run
 
@@ -82,7 +82,7 @@ This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A ver
 
 {{< spacer 60 >}}
 
-![](blob:https://app.cloudcannon.com/4f407264-0398-45c1-a754-29e4fc07da3f)![Prefontaine Memorial Run Every September in Coos Bay, Oregon](/img/pre-memorial-run-header-1.jpg)
+![](blob:https://app.cloudcannon.com/4f407264-0398-45c1-a754-29e4fc07da3f)![Prefontaine Memorial Run Every September in Coos Bay, Oregon photo header](/img/pre-memorial-run-header-1.jpg)
 
 ### Annual Prefontaine Memorial Run
 
@@ -92,7 +92,7 @@ Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a ra
 
 {{< spacer 60 >}}
 
-![](blob:https://app.cloudcannon.com/e5d3b239-7814-4d9d-854f-f37fd76377fd)![Run Whiskey Run on the famous Mountain Biking Trails every Fall](/img/run-whiskey-run-header-1.jpg)
+![](blob:https://app.cloudcannon.com/e5d3b239-7814-4d9d-854f-f37fd76377fd)![Run Whiskey Run on the famous Mountain Biking Trails every Fall Photo header](/img/run-whiskey-run-header-1.jpg)
 
 ### Run Whiskey Run
 
