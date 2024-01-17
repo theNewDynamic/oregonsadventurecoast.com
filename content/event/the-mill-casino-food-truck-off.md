@@ -21,7 +21,7 @@ largeboxphoto: /img/truck-off-event-large.jpg
 mediumboxphoto: /img/truck-off-event-medium.jpg
 smallboxphoto: /img/truck-off-event-small.jpg
 ---
-![](/img/1708_food_truck_off_web850.jpg)
+![](/img/2408-food-truck-off-save-the-date-header.jpg)
 
 #### **Enjoy a 3-day event featuring food trucks, live music and more.**
 
