@@ -21,7 +21,7 @@ largeboxphoto: /img/margarita-1024x395.jpg
 mediumboxphoto: /img/margarita-667x355.jpg
 smallboxphoto: /img/margarita-340x214.jpg
 ---
-![](/img/margarita-mill-logo-temp-1.jpg)
+![](/img/2407-margarita-mill-save-the-date-header.jpg)
 
 **Let’s&nbsp;*taco bout*&nbsp;Margarita-Mill! The Mill Casino \* Hotel & RV Park is hosting the 2nd Annual Taco and Margarita Festival.**
 
