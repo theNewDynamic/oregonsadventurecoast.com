@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual Margarita-Mill
-startdate: '2023-07-14'
-enddate: '2023-07-16'
+startdate: '2024-07-12'
+enddate: '2024-07-13'
 address:
   city: North Bend
   state: OR
@@ -11,7 +11,7 @@ address:
   zip: '97459'
 phone_local: 541.756.8800
 phone_toll_free: 800.953.4800
-website: https://www.themillcasino.com/entertainment/margarita-mill/2023-07-14/
+website: https://www.themillcasino.com
 desktoptitle: Margarita-Mill Festival
 mobiletitle: Margarita-Mill Festival
 hovertitle: Margarita-Mill Festival
@@ -23,17 +23,15 @@ smallboxphoto: /img/margarita-340x214.jpg
 ---
 ![](/img/margarita-mill-logo-temp-1.jpg)
 
-**Let’s&nbsp;*taco bout*&nbsp;Margarita-Mill! The Mill Casino \* Hotel & RV Park is hosting the first Annual Taco and Margarita Festival.**
+**Let’s&nbsp;*taco bout*&nbsp;Margarita-Mill! The Mill Casino \* Hotel & RV Park is hosting the 2nd Annual Taco and Margarita Festival.**
 
 **Margaritas - Delicious Latin Flavors - Latin Dance! What could be better on a warm summer weekend?!**
 
-Don't miss this three-day outdoor event featuring taco trucks and restauranteurs from around the state competing for the title of&nbsp; **People’s Choice** and&nbsp;**Judge’s Choice** Best Taco, Best Plate, and Best Booth Décor.
+Don't miss this two-day outdoor event featuring taco trucks and restauranteurs from around the state competing for the title of&nbsp; **People’s Choice** and&nbsp;**Judge’s Choice** Best Taco, Best Plate, and Best Booth Décor.
 
-Each vendor will have a full menu to serve to the public as well a sample item for purchase.
+Each vendor will have a full menu to serve to the public, as well a sample item, for purchase.
 
-![](/img/grupo-masato.jpeg)
-
-The event will include **live music** from&nbsp;<a target="_blank" href="https://www.facebook.com/grupomasato/?locale=es_LA">Grupo Masato</a>&nbsp;and Latin dance music by DJ Darryl.
+**MORE DETAILS COMING SOON!**
 
 ***Join us as we celebrate Latin culture at The Mill Casino!***
 
@@ -41,12 +39,8 @@ The event will include **live music** from&nbsp;<a target="_blank" href="https:/
 
 ### EVENT SCHEDULE
 
-Friday, July 14, 2023 - 4 PM – 8 PM
-
-Saturday, July 15, 2023 - 11 AM – 6 PM
-
-Sunday, July 16, 2023 - 12 PM – 4 PM
+Coming Soon
 
 {{< spacer "25" >}}
 
-**Tickets On sale June 28, 2023** in Ko-Kwel Gifts and at the Gate<br>$5 per day
+**Tickets Info Coming Soon!**
