@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: WW Cool at the Coast Giveaway
-draft: true
+draft: false
 url: cool-at-coast-giveaway
 layout: headless
 photo: /img/beach-undeveloped-pg-header.jpg
