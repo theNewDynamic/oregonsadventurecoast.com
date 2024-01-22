@@ -1,15 +1,14 @@
 ---
+_schema: default
+title: UTV TakeOver 2024
+startdate: '2024-06-25'
+enddate: '2024-06-30'
 address:
+  city: North Bend
   state: OR
   street: 'Boxcar Hill Campground '
   street2: 92799 Trans Pacific Parkway
-  city: North Bend
   zip: '97459'
-title: UTV TakeOver 2023
-startdate: '2023-06-21'
-enddate: '2023-06-25'
-phone_local: ''
-phone_toll_free: ''
 website: https://www.utvtakeover.com/coos-bay-or/
 coordinates:
   lat: ''
@@ -22,16 +21,13 @@ seo:
 desktoptitle: UTV Takeover Coos Bay
 mobiletitle: UTV Takeover Coos Bay
 hovertitle: UTV Takeover Coos Bay
-hoverdescription: Dune riding on the southern-most part of the OR Dunes Recreation
-  Area!
-photo: "/img/event-dunes-pg-header.jpg"
-largeboxphoto: "/img/dunes-event-large.jpg"
-mediumboxphoto: "/img/dunes-event-medium.jpg"
-smallboxphoto: "/img/dunes-event-small.jpg"
-aliases: []
-
+hoverdescription: Dune riding on the southern-most part of the OR Dunes Recreation Area!
+photo: /img/event-dunes-pg-header.jpg
+largeboxphoto: /img/dunes-event-large.jpg
+mediumboxphoto: /img/dunes-event-medium.jpg
+smallboxphoto: /img/dunes-event-small.jpg
 ---
-**Every year, thousands of UTV enthusiasts from around the country participate in the largest community riding event of the year in Coos Bay/North Bend. This year's events are scheduled for June 21-25, 2023.**
+**Every year, thousands of UTV enthusiasts from around the country participate in the largest community riding event of the year in Coos Bay/North Bend. This year's events are scheduled for June 25-30, 2024.**
 
 ![](/img/utv-takeover-2023-tour-logo-500px.png)
 
