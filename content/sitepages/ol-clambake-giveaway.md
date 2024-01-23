@@ -32,6 +32,8 @@ divider
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4091">The Trottles</a>
 {{< /columns >}}
 
+### Enter to Win All Access Event Tickets, Lodging & Meals!
+
 Sign up and enter to win two All Access Event Passes to the 2024 South Coast Clambake Music Festival in North Bend, Oregon, overnight accomodations and gift certificates for some delicious meals while you're here. If you are selected as the winner, you'll agree to allow us to use your name and image in promotional content. No Cash value exchange is available.
 
 **The prize includes:**
