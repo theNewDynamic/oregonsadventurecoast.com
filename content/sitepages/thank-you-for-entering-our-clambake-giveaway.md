@@ -4,7 +4,7 @@ title: Thanks for Entering Our Clambake Music Festival Giveaway!
 draft: false
 url: clambake-oregonlive-contest-thank-you
 layout: contact
-photo: /img/beach-undeveloped-pg-header.jpg
+photo: /img/clambake-music-fest-header-04.jpg
 seo:
   title: ''
   description: ''
