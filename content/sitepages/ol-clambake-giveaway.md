@@ -21,10 +21,11 @@ The South Coast Clambake Music Festival is held at The Mill Casino • Hotel & R
 
 ### FEATURING THE MUSIC OF BANDS ALL ACROSS THESE UNITED STATES!
 
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3782">Alpha Rhythm Kings</a>
+{{< columns number="2" >}}* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3782">Alpha Rhythm Kings</a>
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=2250">Dave Bennett Quartet</a>
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3442">Good Co.</a>
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3449">Gino &amp; The Lone Gunmen</a>
+* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3449">Gino &amp; The Lone Gunmen</a>{{< /columns >}}
+
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3069">Lisa Mann</a>
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4055">Shaymus Hanlin Quartet</a>
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4091">The Trottles</a>
