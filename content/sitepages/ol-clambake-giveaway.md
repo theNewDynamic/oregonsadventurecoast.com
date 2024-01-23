@@ -17,6 +17,8 @@ seo:
 
 Polish up those dancin’ shoes and get ready for the exciting musical extravaganza known as the&nbsp;**South Coast Clambake Music Festival**! The Clambake Music Festival features incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco! Dancers and music enthusiasts from up and down the West Coast, visit each year, as the Clambake Music Festival has developed a reputation as a favorite.
 
+![south coast clambake music festival bands playing music](/img/clambake-giveaway-collage.jpg)
+
 The South Coast Clambake Music Festival is held at The Mill Casino • Hotel & RV Park in North Bend on Oregon’s Adventure Coast! The Mill hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar!
 
 ### FEATURING THE MUSIC OF BANDS ALL ACROSS THESE UNITED STATES!
