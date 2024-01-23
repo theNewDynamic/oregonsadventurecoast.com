@@ -3,7 +3,7 @@ _schema: default
 title: OL Clambake Giveaway
 draft: false
 url: oregon-live-clambake-giveaway
-layout: headless
+layout: contact
 photo: /img/beach-undeveloped-pg-header.jpg
 seo:
   title: ''
