@@ -11,7 +11,7 @@ seo:
   imgalt: ''
   image: ''
 ---
-![](/img/ww-catc-giveaway-thankyou-subheader-695x322.jpg)
+### ![](/img/thankyou-page-graphic-clambake.jpg)
 
 ### Now Check Out Oregon's Adventure Coast in Detail!
 
@@ -47,4 +47,4 @@ While you’re here, we invite you to explore our website. You will find many th
 
 {{< youtube id="bHCIae--his" >}}
 
-{{< spacer "50" >}}&nbsp;
+{{< spacer "50" >}}
