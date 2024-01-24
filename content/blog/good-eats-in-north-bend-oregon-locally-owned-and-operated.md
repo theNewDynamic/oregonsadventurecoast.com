@@ -67,7 +67,7 @@ No trip to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is compl
 
 **Captain's Choice Fish House - 1210 Virginia Ave**. This beloved North Bend restaurant has a distinct coastal town vibe and is known locally for its crave-worthy clam chowder, crab melt, and fish and chips! Add friendly service to the mix, and it’s no wonder Captain's Choice Fish House is an Oregon’s Adventure Coast favorite! [<u>www.captainschoicefishhouse.com</u>](https://www.captainschoicefishhouse.com/)
 
-**Clausen Oyster Deli- 66234 North Bay Road**. For a unique and authentic Oregon Coast dining experience, we recommend a visit to Clausen Oyster Farm & Bayside Restaurant/Deli! One diner summed it up perfectly on [<u>TripAdvisor</u>](https://www.tripadvisor.com/Restaurant_Review-g51993-d12234099-Reviews-Clausen_Oysters-North_Bend_Oregon.html): “*This place is well worth the trip. Any kind of oysters you want, and done to perfection.”* Hours vary according to season. Check the website for details: <a href="https://www.clausenoysters.com/" target="_blank" rel="noopener">www.clausenoysters.com</a>.
+**Clausen Oyster Deli- 66234 North Bay Road**. For a unique and authentic Oregon Coast dining experience, we recommend a visit to Clausen Oyster Farm & Bayside Restaurant/Deli! One diner summed it up perfectly on [<u>TripAdvisor</u>](https://www.tripadvisor.com/Restaurant_Review-g51993-d12234099-Reviews-Clausen_Oysters-North_Bend_Oregon.html): “*This place is well worth the trip. Any kind of oysters you want, and done to perfection.”* Hours vary according to season. Check the website for details: <a target="_blank" rel="noopener" href="https://www.clausenoysters.com/">www.clausenoysters.com</a>.
 
 **Hilltop House- 93405 Willsey Ln.**
 
