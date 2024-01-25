@@ -15,6 +15,8 @@ seo:
 
 ## South Coast Clambake Music Festival - March 7-10, 2024
 
+### Jump Back Cool Cats!
+
 Polish up those dancin’ shoes and get ready for the exciting musical extravaganza known as the&nbsp;**South Coast Clambake Music Festival**! The Clambake Music Festival features incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco! Dancers and music enthusiasts from up and down the West Coast, visit each year, as the Clambake Music Festival has developed a reputation as a favorite.
 
 ![south coast clambake music festival bands playing music](/img/clambake-giveaway-collage.jpg)
@@ -46,7 +48,7 @@ Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Musi
 
 * Three-Night Stay at The Mill Casino • Hotel & RV Park for Two in Double Room&nbsp;*(Value $900. Some restrictions may apply)*
 
-* Grab a Bite at the Back Alley Pub & Grill and the Blue Heron Bistro with Gift Certificates&nbsp;*(Value $40. Some restrictions may apply)*
+* Grab a Bite at the <a target="_blank" rel="noopener" href="http://www.thebackalleyonline.com/">Back Alley Pub &amp; Grill</a> and the <a target="_blank" rel="noopener" href="https://www.blueheronbistro.net/">Blue Heron Bistro</a> with Gift Certificates&nbsp;*(Value $90. Some restrictions may apply)*
 
 * **Total value of this prize package is $1,140!**
 
