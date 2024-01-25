@@ -44,9 +44,9 @@ Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Musi
 
 * Two All Access Passes to the 2024 South Coast Clambake Music Festival in North Bend, Oregon *(Value $200)*
 
-* Three-Night Stay at The Mill Casino • Hotel & RV Park *(Value $900. Some restrictions may apply)*
+* Three-Night Stay at The Mill Casino • Hotel & RV Park for Two in Double Room&nbsp;*(Value $900. Some restrictions may apply)*
 
-* Gift Certificate to Back Alley Pub & Grill *(Value $40. Some restrictions may apply)*
+* Grab a Bite at the Back Alley Pub & Grill and the Blue Heron Bistro&nbsp;*(Value $????. Some restrictions may apply)*
 
 * **Total value of this prize package is $1,140!**
 
