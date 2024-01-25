@@ -48,8 +48,8 @@ Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Musi
 
 * Three-Night Stay at <a target="_blank" rel="noopener" href="https://www.themillcasino.com/">The Mill Casino • Hotel &amp; RV Park</a> for Two in Double Room&nbsp;*(Value $900. Some restrictions may apply)*
 
-* Grab a Bite at the <a target="_blank" rel="noopener" href="http://www.thebackalleyonline.com/">Back Alley Pub &amp; Grill</a> and the <a target="_blank" rel="noopener" href="https://www.blueheronbistro.net/">Blue Heron Bistro</a> with Gift Certificates&nbsp;*(Value $90. Some restrictions may apply)*
+* Grab a Bite At:<br>\-&nbsp;<a target="_blank" rel="noopener" href="http://www.thebackalleyonline.com/">Back Alley Pub &amp; Grill</a>&nbsp;*(Value $40. Some restrictions may apply)*<br>\-&nbsp;<a target="_blank" rel="noopener" href="https://www.blueheronbistro.net/">Blue Heron Bistro</a> *(Value $50. Some restrictions may apply)*
 
-* **Total value of this prize package is $1,140!**
+* **Total value of this prize package is over $1,100!**
 
 <div class="cms-embed" data-cms-embed="PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly9mb3JtLmpvdGZvcm0uY29tL2pzZm9ybS8yNDAxNTc4MDAxMzMxNDIiPjwvc2NyaXB0Pg=="><script type="text/javascript" src="https://form.jotform.com/jsform/240157800133142"></script></div>
