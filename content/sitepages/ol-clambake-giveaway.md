@@ -34,12 +34,11 @@ divider
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4091">The Trottles</a>
 {{< /columns >}}
 
-
 ### ![](/img/sub-page-entertowin-clambake-695x125.jpg)
 
 ### Two All Access Event Passes, Lodging & Meal
 
-Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Music Festival in North Bend, Oregon – PLUS a 3-Night Stay and gift certificate for a delicious meal** while you are here. If you are selected as the winner, you agree to allow us to use your name and image in promotional content. Prize package is specific to the weekend of March 7-10, 2024. No Cash Value. Certificates will not be replaced if lost, stolen or left behind. Certificates must be presented at time of use to hotel and/or restaurant. Transportation to/from Oregon’s Adventure Coast is not provided.&nbsp;**Contest ends February 19th, 2024.**
+Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Music Festival in North Bend, Oregon – PLUS a 3-Night Stay and gift certificate for a delicious meal** while you are here. If you are selected as the winner, you agree to allow us to use your name and image in promotional content. Prize package is specific to the weekend of March 7-10, 2024. No Cash Value. Certificates will not be replaced if lost, stolen or left behind. Certificates must be presented at time of use to hotel and/or restaurant. Transportation to/from Oregon’s Adventure Coast is not provided.&nbsp;**Contest ends February 19th, 2024**&nbsp;so we have time to pick our winner and you have time to pack and get ready for an amazing weekend!
 
 ### The prize giveaway includes:
 
@@ -49,6 +48,6 @@ Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Musi
 
 * Gift Certificate to Back Alley Pub & Grill *(Value $40. Some restrictions may apply)*
 
-* Total value of this prize package is $1,140
+* **Total value of this prize package is $1,140!**
 
 <div class="cms-embed" data-cms-embed="PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly9mb3JtLmpvdGZvcm0uY29tL2pzZm9ybS8yNDAxNTc4MDAxMzMxNDIiPjwvc2NyaXB0Pg=="><script type="text/javascript" src="https://form.jotform.com/jsform/240157800133142"></script></div>
