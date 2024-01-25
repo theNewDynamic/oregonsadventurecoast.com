@@ -46,7 +46,7 @@ Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Musi
 
 * Three-Night Stay at The Mill Casino • Hotel & RV Park for Two in Double Room&nbsp;*(Value $900. Some restrictions may apply)*
 
-* Grab a Bite at the Back Alley Pub & Grill and the Blue Heron Bistro&nbsp;*(Value $????. Some restrictions may apply)*
+* Grab a Bite at the Back Alley Pub & Grill and the Blue Heron Bistro with Gift Certificates&nbsp;*(Value $????. Some restrictions may apply)*
 
 * **Total value of this prize package is $1,140!**
 
