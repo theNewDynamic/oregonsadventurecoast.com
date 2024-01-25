@@ -45,6 +45,8 @@ Desserts & Cash Bar - additional cost at venue. Sales of these items benefit a l
 
 ![](/img/crab-feed-collage.jpg)
 
-**Truly a Community Affair!** The 900+ lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab. A local charity is serving dessert. South Slough Estuary and the Oregon Crab Commission will also be on hand with information. The Charleston Marine Life Center will be open all day!
+**Truly a Community Affair!** The 900+ lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab. The Charleston Fishing Families is serving dessert, and all proceeds from the desserts benefits that organization. South Slough Estuary and the Oregon Crab Commission will also be on hand with information. The Charleston Marine Life Center will be open all day!
+
+This is the Main Fundraiser for the Charleston Visitors Center, but also provides assistance to other needs in the Charleston Community.
 
 Businesses from Charleston, Coos Bay and North Bend support this event with donations. Make sure to get your raffle tickets when you arrive for a chance at a number of great prizes!
