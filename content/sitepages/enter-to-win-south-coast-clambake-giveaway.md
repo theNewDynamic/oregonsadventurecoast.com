@@ -40,7 +40,7 @@ divider
 
 ### Two All Access Event Passes, Lodging & Meals
 
-Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Music Festival in North Bend, Oregon – PLUS a 3-Night Stay and gift certificate for a delicious meal** while you are here. If you are selected as the winner, you agree to allow us to use your name and image in promotional content. Prize package is specific to the weekend of March 7-10, 2024. No Cash Value. Certificates will not be replaced if lost, stolen or left behind. Certificates must be presented at time of use to hotel and/or restaurant. Transportation to/from Oregon’s Adventure Coast is not provided.&nbsp;**Contest ends February 23rd, 2024**&nbsp;so we have time to pick our winner and you have time to pack and get ready for an amazing weekend!
+Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Music Festival in North Bend, Oregon – PLUS a 3-Night Stay and a bite at a couple of local favorite, eateries**&nbsp;while you are here. If you are selected as the winner, you agree to allow us to use your name and image in promotional content. Prize package is specific to the weekend of March 7-10, 2024. No Cash Value. Certificates will not be replaced if lost, stolen or left behind. Certificates must be presented at time of use to festival entry, hotel and/or restaurant. Transportation to/from Oregon’s Adventure Coast is not provided.&nbsp;**Contest ends February 23rd, 2024**&nbsp;so we have time to pick our winner and you have time to pack and get ready for an amazing weekend!
 
 ### The prize giveaway includes:
 
