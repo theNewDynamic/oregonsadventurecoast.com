@@ -38,15 +38,15 @@ divider
 
 ### ![](/img/sub-page-entertowin-clambake-695x125.jpg)
 
-### Two All Access Event Passes, Lodging & Meal
+### Two All Access Event Passes, Lodging & Meals
 
-Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Music Festival in North Bend, Oregon – PLUS a 3-Night Stay and gift certificate for a delicious meal** while you are here. If you are selected as the winner, you agree to allow us to use your name and image in promotional content. Prize package is specific to the weekend of March 7-10, 2024. No Cash Value. Certificates will not be replaced if lost, stolen or left behind. Certificates must be presented at time of use to hotel and/or restaurant. Transportation to/from Oregon’s Adventure Coast is not provided.&nbsp;**Contest ends February 19th, 2024**&nbsp;so we have time to pick our winner and you have time to pack and get ready for an amazing weekend!
+Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Music Festival in North Bend, Oregon – PLUS a 3-Night Stay and a bite at a couple of local favorite, eateries**&nbsp;while you are here. If you are selected as the winner, you agree to allow us to use your name and image in promotional content. Prize package is specific to the weekend of March 7-10, 2024. No Cash Value. Certificates will not be replaced if lost, stolen or left behind. Certificates must be presented at time of use to festival entry, hotel and/or restaurant. Transportation to/from Oregon’s Adventure Coast is not provided.&nbsp;**Contest ends February 19th, 2024**&nbsp;so we have time to pick our winner and you have time to pack and get ready for an amazing weekend!
 
 ### The prize giveaway includes:
 
 * Two All Access Passes to the 2024 South Coast Clambake Music Festival in North Bend, Oregon *(Value $200)*
 
-* Three-Night Stay at The Mill Casino • Hotel & RV Park for Two in Double Room&nbsp;*(Value $900. Some restrictions may apply)*
+* Three-Night Stay at <a target="_blank" rel="noopener" href="https://www.themillcasino.com/">The Mill Casino • Hotel &amp; RV Park</a> for Two in Double Room&nbsp;*(Value $900. Some restrictions may apply)*
 
 * Grab a Bite at the <a target="_blank" rel="noopener" href="http://www.thebackalleyonline.com/">Back Alley Pub &amp; Grill</a> and the <a target="_blank" rel="noopener" href="https://www.blueheronbistro.net/">Blue Heron Bistro</a> with Gift Certificates&nbsp;*(Value $90. Some restrictions may apply)*
 
