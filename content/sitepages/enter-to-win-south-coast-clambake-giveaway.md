@@ -38,7 +38,7 @@ divider
 
 ### ![](/img/sub-page-entertowin-clambake-695x125.jpg)
 
-### Two All Access Event Passes, Lodging & Meal
+### Two All Access Event Passes, Lodging & Meals
 
 Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Music Festival in North Bend, Oregon – PLUS a 3-Night Stay and gift certificate for a delicious meal** while you are here. If you are selected as the winner, you agree to allow us to use your name and image in promotional content. Prize package is specific to the weekend of March 7-10, 2024. No Cash Value. Certificates will not be replaced if lost, stolen or left behind. Certificates must be presented at time of use to hotel and/or restaurant. Transportation to/from Oregon’s Adventure Coast is not provided.&nbsp;**Contest ends February 23rd, 2024**&nbsp;so we have time to pick our winner and you have time to pack and get ready for an amazing weekend!
 
@@ -48,8 +48,8 @@ Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Musi
 
 * Three-Night Stay at <a target="_blank" rel="noopener" href="https://www.themillcasino.com/">The Mill Casino • Hotel &amp; RV Park</a> for Two in Double Room&nbsp;*(Value $900. Some restrictions may apply)*
 
-* Grab a Bite at the <a target="_blank" rel="noopener" href="http://www.thebackalleyonline.com/">Back Alley Pub &amp; Grill</a> and the <a target="_blank" rel="noopener" href="https://www.blueheronbistro.net/">Blue Heron Bistro</a> with Gift Certificates&nbsp;*(Value $90. Some restrictions may apply)*
+* Grab a Bite At:<br>\-&nbsp;<a target="_blank" rel="noopener" href="http://www.thebackalleyonline.com/">Back Alley Pub &amp; Grill</a>&nbsp;*(Value $40. Some restrictions may apply)*<br>\-&nbsp;<a target="_blank" rel="noopener" href="https://www.blueheronbistro.net/">Blue Heron Bistro</a> *(Value $50. Some restrictions may apply)*
 
-* **Total value of this prize package is $1,140!**
+* **Total value of this prize package is over $1,100!**
 
 <div class="cms-embed" data-cms-embed="PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly9mb3JtLmpvdGZvcm0uY29tL2pzZm9ybS8yNDAyNDYxMzYwMzExNDAiPjwvc2NyaXB0Pg=="><script type="text/javascript" src="https://form.jotform.com/jsform/240246136031140"></script></div>
