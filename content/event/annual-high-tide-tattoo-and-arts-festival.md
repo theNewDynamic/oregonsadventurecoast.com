@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual High Tide Tattoo and Arts Festival
-startdate: '2024-04-25'
-enddate: '2024-04-29'
+startdate: '2024-04-26'
+enddate: '2024-04-28'
 address:
   city: North Bend
   state: OR
@@ -36,13 +36,13 @@ smallboxphoto: /img/tattoo-event-header-small.jpg
 
 The Mill Casino \* Hotel & RV Park along with Ragemore Events and 11:11 Tattoo Studio in North Bend bring you top tattoo artists from around the country for a weekend of great art.
 
-This event will feature top artists from all around the country and the best of local talent. Tattooists of all different backgrounds will be tattooing on-site. If you are into traditional, black and grey or color, we have the artist for you. Drop by and see local artists featuring art from all different mediums and backgrounds.
+This event will showcase top artists from across the country, alongside outstanding local talent. Whether you prefer traditional, black and grey, or color tattoos, we have the perfect artist for you. Experience live tattooing by a diverse range of talented artists, and explore the work of local artists spanning various mediums and backgrounds, including featured artists from the popular TV show Ink Master.
 
 **More Information Coming Soon!**
 
 {{< spacer 30 >}}
 
-![](/img/high-tide-tatto-event-logo-695.jpg)
+![](/img/high-tide-logo.jpeg)
 
 #### SCHEDULE OF EVENTS
 
