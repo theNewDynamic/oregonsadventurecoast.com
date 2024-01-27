@@ -31,7 +31,7 @@ More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or 
 
 {{< spacer 25 >}}
 
-### <a target="_blank" rel="noopener" href="https://www.eventbrite.com/e/39th-annual-charleston-crab-feed-tickets-738239272537?aff=oddtdtcreator">TICKETS ON SALE NOW!</a>
+### <a target="_blank" rel="noopener" class="learn-more-anywhere-btn" href="https://www.eventbrite.com/e/39th-annual-charleston-crab-feed-tickets-738239272537?aff=oddtdtcreator">TICKETS ON SALE NOW!</a>
 
 ***Tickets will be available at the door as well!***
 
