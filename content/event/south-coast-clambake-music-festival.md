@@ -35,13 +35,13 @@ smallboxphoto: /img/clambake-music-fest-small-02.jpg
 
 Polish up those dancin’ shoes and get ready for the exciting musical extravaganza known as the **South Coast Clambake Music Festival**! The Clambake Music Festival features incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco! Dancers and music enthusiasts from up and down the West Coast, visit each year, as the Clambake Music Festival has developed a reputation as a favorite.
 
-![Annual South Coast Clambake Music Festival](/img/clambake-music-v03-695x322.jpg)
+![south coast clambake music festival bands playing music](/img/clambake-giveaway-collage.jpg)
 
 The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hotel in North Bend on Oregon's Adventure Coast! The Mill hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar.
 
 {{< spacer 50 >}}
 
-### <a target="_blank" rel="noopener" href="https://www.eventbrite.com/e/south-coast-clambake-music-festival-tickets-754414623447?aff=ebdsoporgprofile">TICKETS ON SALE NOW!</a>
+### <a target="_blank" rel="noopener" class="learn-more-anywhere-btn" href="https://www.eventbrite.com/e/south-coast-clambake-music-festival-tickets-754414623447?aff=ebdsoporgprofile">TICKETS ON SALE NOW!</a>
 
 {{< spacer "25" >}}
 
@@ -61,7 +61,6 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=2250">Dave Bennett Quartet</a>
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3442">Good Co.</a>
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3449">Gino &amp; The Lone Gunmen</a>
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3069">Lisa Mann</a>
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4055">Shaymus Hanlin Quartet</a>
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4091">The Trottles</a>
 
