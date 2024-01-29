@@ -4,11 +4,11 @@ title: Cycling
 url: /cycling
 photo: /img/adventures-biking-header.jpg
 seo:
+  title: Cycling | Oregon's Adventure Coast
   description: >-
     Whether you take to the road, fat bike on the beach, or careen around
     single-track trails, you will find heart pumping biking routes on Oregon’s
     Adventure Coast. 
-  title: Cycling | Oregon's Adventure Coast
 aliases:
   - /activities/category/cycling
 accordion_sections:
@@ -71,8 +71,6 @@ Whether you take to the road, fat bike on the beach, or careen around single-tra
 Located in an active logging forest, Whiskey Run gives visitors a view of the Coos County Forest most do not get to see - seeing harvesting in this coastal forest while they are enjoying sweeping views, tranquil streams, and fern-covered forest floors. The trails are a blend of flow and cross country style, and are great for all levels of riders with open sightlines, easy climbs, and chances to catch some air if you want. You'll dip and wind through the forest in this unique South Coast environment.
 
 These professionally built trails are made to withstand the coast's weather, so when the weather is unfavorable in the Cascades and you want to ride some loam and clay, come on down to the coast. However, please don't ride if the trails are muddy. Check trail reports or call the local shops or guide services.
-
-Need to rent a mountain bike or want a guided tour of the trails? Check out [Whiskey Run Rentals](https://www.whiskeyrunrentals.com/)!
 
 {{< spacer 25 >}}
 
