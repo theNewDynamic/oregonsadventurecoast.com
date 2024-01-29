@@ -45,8 +45,6 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 
 {{< spacer "25" >}}
 
-#### And, in the meantime, Learn How to Dance!! Here's the Schedule:
-
 ![](/img/clambake-dance-lessons.jpeg)
 
 {{< spacer 50 >}}
@@ -58,10 +56,16 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 #### 2024 Bands Include:
 
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3782">Alpha Rhythm Kings</a>
+* <a target="_blank" rel="noopener" href="https://benricehustle.com/home">Ben Rice &amp; The PDX Hustle</a>
+* Dannielle Kelly
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=2250">Dave Bennett Quartet</a>
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3442">Good Co.</a>
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3449">Gino &amp; The Lone Gunmen</a>
+* <a target="_blank" rel="noopener" href="https://www.facebook.com/JasonThomasBand/">Jason Thomas Band</a>
+* <a target="_blank" rel="noopener" href="https://www.facebook.com/p/Ocean-Blvd-100077473511119/">Ocean Blvd</a>
+* Pony Creek (Thursday only)
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4055">Shaymus Hanlin Quartet</a>
+* Swinging in the Rain
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4091">The Trottles</a>
 
 **For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks**! Visit the [website](https://clambakemusic.com/) for details.
