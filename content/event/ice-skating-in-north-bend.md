@@ -30,6 +30,8 @@ smallboxphoto: /img/skating-rink-340x214.jpg
 ---
 ![](/img/icerink-festive-med.jpg)
 
+#### EXTENDED! THROUGH FEBRUARY 18, 2024!!!!
+
 #### Bring your friends, bring your family and enjoy the Only Ice Skating Rink on the Oregon Coast! From early December through Valentine's Day, lace up a pair of skates and take to the ice.&nbsp;
 
 {{< spacer 25 >}}
@@ -40,11 +42,11 @@ smallboxphoto: /img/skating-rink-340x214.jpg
 
 Below is the schedule for December Skating Activities. Several Theme Nights and Special events are planned!
 
-![](/img/jan-ice-rink.png)
+![](/img/ice-rink-feb.jpeg)
 
 #### {{< spacer 50 >}}
 
-#### Cost (other than Dec 2nd):
+#### Cost:
 
 **$5 per for rental skates or free with your own ice skates** (cash, credit card, or check payable to City of North Bend)
 
