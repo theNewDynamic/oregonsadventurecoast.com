@@ -4,10 +4,10 @@ title: Hiking & Walking
 url: /hiking-walking
 photo: /img/adventures-main-and-hiking.jpg
 seo:
+  title: Oregon Coast Outdoor Activities - Hiking/Biking | Oregon's Adventure Coast
   description: >-
     The Oregon Coast offers a variety of outdoor activities including an entire
     system of hiking and biking trails in the immediate and surrounding area. 
-  title: Oregon Coast Outdoor Activities - Hiking/Biking | Oregon's Adventure Coast
 aliases:
   - /featured-adventures/walking-hiking
   - /activities/category/hiking
@@ -100,7 +100,7 @@ Take Cape Arago Highway west from Charleston and you’ll find four miles of tra
 
 ## Golden & Silver Falls State Natural Area
 
-Located almost an hour by car from Coos Bay at the end of Coos River Highway, Golden and Silver Falls is 24 miles off Highway 101 ([Directions Here!](/img/Golden-Silver-Falls-Directions.pdf)). A hidden gem in the dense coastal forests of southwest Oregon, Golden and Silver Falls State Natural Area may be hard to find, but it's well worth the drive. A small parking and picnic area is located along the banks of Glenn and Silver Creeks, set in an old-growth forest of Douglas fir, Big Leaf Maple and Oregon Myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls, which plunge over sheer rock cliffs to moss-covered boulders 100 feet below. Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the cascading waterfall and giant old-growth firs and cedars. [Visit the Golden & Silver Falls Page on the Oregon State Parks website.](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=67)
+Located almost an hour by car from Coos Bay at the end of Coos River Highway, Golden and Silver Falls is 24 miles off Highway 101 ([Directions Here!](/img/Golden-Silver-Falls-Directions.pdf)). A hidden gem in the dense coastal forests of southwest Oregon, Golden and Silver Falls State Natural Area may be hard to find, but it's well worth the drive. A small parking and picnic area is located along the banks of Glenn and Silver Creeks, set in an old-growth forest of Douglas fir, Big Leaf Maple and Oregon Myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls, which plunge over sheer rock cliffs to moss-covered boulders 100 feet below. Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the cascading waterfall and giant old-growth firs and cedars. [Visit the Golden & Silver Falls Page on the Oregon State Parks website.](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=67)
 
 <div class="margin-50px-top"> </div>
 
