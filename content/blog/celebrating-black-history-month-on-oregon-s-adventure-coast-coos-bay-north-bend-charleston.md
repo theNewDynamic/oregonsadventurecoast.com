@@ -6,9 +6,9 @@ title: >-
 draft: false
 date: 2024-01-30T00:00:00-08:00
 description: >-
-  &nbsp;Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston may be known
-  for its rugged beauty and pristine landscapes, but its history is also marked
-  by people of African descent who have left a notable mark on our
+  Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston may be known for
+  its rugged beauty and pristine landscapes, but its history is also marked by
+  people of African descent who have left a notable mark on our
   communities.&nbsp;
 image: /img/black-history-month-oregon-s-adventure-coast-blog.jpg
 tags:
