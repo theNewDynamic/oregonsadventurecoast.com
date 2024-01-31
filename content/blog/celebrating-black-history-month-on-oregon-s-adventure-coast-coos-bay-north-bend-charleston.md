@@ -6,9 +6,9 @@ title: >-
 draft: false
 date: 2024-01-30T00:00:00-08:00
 description: >-
-  &nbsp;Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston may be known
-  for its rugged beauty and pristine landscapes, but its history is also marked
-  by people of African descent who have left a notable mark on our
+  Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston may be known for
+  its rugged beauty and pristine landscapes, but its history is also marked by
+  people of African descent who have left a notable mark on our
   communities.&nbsp;
 image: /img/black-history-month-oregon-s-adventure-coast-blog.jpg
 tags:
@@ -30,7 +30,9 @@ categories:
   - Special Events & Holidays
 warning: false
 ---
-As February approaches, so does Black History Month, a time dedicated to commemorating the invaluable contributions of Black Americans throughout history. While the Oregon Coast may not be the first place that comes to mind when discussing Black history, it has its own rich tapestry of stories and legacies that deserve recognition. Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston may be known for its rugged beauty and pristine landscapes, but its history is also marked by people of African descent who have left a notable mark on our communities. In 2021, our friends at the [<u>Oregon Coast Visitors Association</u>](https://visittheoregoncoast.com/) (OCVA) had the opportunity to work with Zachary Stocks, Executive Director of the [<u>Oregon Black </u>](https://oregonblackpioneers.org/)[<u>Pioneers,</u>](https://oregonblackpioneers.org/) to collect stories about the Oregon Coast’s earliest Black residents and the challenges they overcame to create a life for themselves and their families. OCVA also published a [<u>5-stop road trip for Black history seekers traveling the Oregon Coast</u>](https://visittheoregoncoast.com/travel-guides/5-stops-on-your-oregon-coast-black-history-road-trip/) written by Mr. Stocks, which includes these two stops in Coos County:&nbsp;
+As February approaches, so does Black History Month, a time dedicated to commemorating the invaluable contributions of Black Americans throughout history. While the Oregon Coast may not be the first place that comes to mind when discussing Black history, it has its own rich tapestry of stories and legacies that deserve recognition. Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston may be known for its rugged beauty and pristine landscapes, but its history is also marked by people of African descent who have left a notable mark on our communities.
+
+In 2021, our friends at the [<u>Oregon Coast Visitors Association</u>](https://visittheoregoncoast.com/) (OCVA) had the opportunity to work with Zachary Stocks, Executive Director of the [<u>Oregon Black </u>](https://oregonblackpioneers.org/)[<u>Pioneers,</u>](https://oregonblackpioneers.org/) to collect stories about the Oregon Coast’s earliest Black residents and the challenges they overcame to create a life for themselves and their families. OCVA also published a [<u>5-stop road trip for Black history seekers traveling the Oregon Coast</u>](https://visittheoregoncoast.com/travel-guides/5-stops-on-your-oregon-coast-black-history-road-trip/) written by Mr. Stocks, which includes these two stops in Coos County:&nbsp;
 
 ## Coos History Museum&nbsp;
 
