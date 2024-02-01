@@ -2,7 +2,7 @@
 _schema: default
 title: Ice Skating in North Bend!
 startdate: '2023-12-02'
-enddate: '2024-02-14'
+enddate: '2024-02-18'
 address:
   city: North Bend
   state: OR
@@ -31,6 +31,8 @@ smallboxphoto: /img/skating-rink-340x214.jpg
 ![](/img/icerink-festive-med.jpg)
 
 #### EXTENDED! THROUGH FEBRUARY 18, 2024!!!!
+
+{{< spacer "15" >}}
 
 #### Bring your friends, bring your family and enjoy the Only Ice Skating Rink on the Oregon Coast! From early December through Valentine's Day, lace up a pair of skates and take to the ice.&nbsp;
 
