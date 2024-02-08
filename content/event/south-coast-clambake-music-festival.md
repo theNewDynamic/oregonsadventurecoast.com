@@ -9,7 +9,6 @@ address:
   street: The Mill Casino • Hotel & RV Park
   street2: 3201 Tremont Avenue
   zip: 97459
-phone_local: 541-267-7665
 website: https://clambakemusic.com/
 seo:
   title: Clambake Music Festival
