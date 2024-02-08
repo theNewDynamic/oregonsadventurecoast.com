@@ -44,7 +44,7 @@ smallboxphoto: /img/skating-rink-340x214.jpg
 
 Below is the schedule for December Skating Activities. Several Theme Nights and Special events are planned!
 
-![](/img/ice-rink-feb.jpeg)
+![](/img/ice-rink-february-rev.png)
 
 #### {{< spacer 50 >}}
 
