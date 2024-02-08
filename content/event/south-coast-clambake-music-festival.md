@@ -9,7 +9,6 @@ address:
   street: The Mill Casino • Hotel & RV Park
   street2: 3201 Tremont Avenue
   zip: 97459
-phone_local: 541-267-7665
 website: https://clambakemusic.com/
 seo:
   title: Clambake Music Festival
@@ -68,7 +67,7 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 * Pony Creek (Thursday only)
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4055">Shaymus Hanlin Quartet</a>
 * Swinging in the Rain
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4091">The Trottles</a>
+* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4091">The Throttles</a>
 
 **For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks**! Visit the [website](https://clambakemusic.com/) for details.
 
