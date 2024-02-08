@@ -68,7 +68,7 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 * Pony Creek (Thursday only)
 * <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4055">Shaymus Hanlin Quartet</a>
 * Swinging in the Rain
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4091">The Trottles</a>
+* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4091">The Throttles</a>
 
 **For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks**! Visit the [website](https://clambakemusic.com/) for details.
 
