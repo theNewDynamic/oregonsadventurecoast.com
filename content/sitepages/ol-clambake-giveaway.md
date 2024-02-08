@@ -29,7 +29,9 @@ Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Musi
 
 <div class="cms-embed" data-cms-embed="PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly9mb3JtLmpvdGZvcm0uY29tL2pzZm9ybS8yNDAxNTc4MDAxMzMxNDIiPjwvc2NyaXB0Pg=="><script type="text/javascript" src="https://form.jotform.com/jsform/240157800133142"></script></div>
 
-## South Coast Clambake Music Festival - March 7-10, 2024
+##
+
+# South Coast Clambake Music Festival - March 7-10, 2024
 
 ### Jump Back Cool Cats!
 
