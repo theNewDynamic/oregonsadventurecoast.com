@@ -94,6 +94,12 @@ We have a whole system of hiking trails in the immediate and surrounding area, b
 
 Take Cape Arago Highway west from Charleston and you’ll find four miles of trails (one way) that trace a path along one of Oregon’s most spectacular stretches of coastline. From Sunset Bay, the trail winds around the coastal bluffs, offering spectacular views of the rugged, cliff-lined Pacific Ocean. It then runs past Shore Acres Botanical Gardens and the Simpson Reef viewing area before ending at the captivating Cape Arago State Park. [Visit the Oregon Coast Trail website *(Sunset Bay to Cape Arago,*](https://www.oregon.gov/oprd/PARKS/Pages/OCT_main.aspx) *Segment 7*[*)*](https://www.oregon.gov/oprd/PARKS/Pages/OCT_main.aspx). [Click here for a trail map](https://shoreacres.net/wp-content/uploads/2016/06/Trail-Map-Card-2016-web.pdf).
 
+### Know Before You Go
+
+* No animals permitted outside of vehicles in Shore Acres State Park and formal gardens, with the exception of service animals.
+* Hikers, with dogs, already on the Oregon Coast Trail (the section of the trail that goes from Sunset Bay State Park to Cape Arago State Park, though Shore Acres State Park) may continue along the trail through Shore Acres State Park but dogs must stay on the trail and/or parking lot area only. The trail does not include the area around the Observation Building or bathroom areas and definitely does not include the gardens.
+* Hikers cannot drive into Shore Acres and park their car to start on the trail with their dogs. There are plenty of areas to get on the trail along Cape Arago Highway including Sunset Bay State Park, Cape Arago State Park, the Lighthouse Overlook, and Simpson Reef/Shell Island Overlook.
+
 <div class="margin-50px-top"> </div>
 
 ![Golden &amp; Silver Falls State Natural Area on Oregon's Adventure Coast](/img/hiking-falls-woman-dog.jpg)
