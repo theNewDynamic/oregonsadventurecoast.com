@@ -35,7 +35,7 @@ Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Musi
 
 ### Jump Back Cool Cats!
 
-Polish up those dancin’ shoes and get ready for the exciting musical extravaganza known as the&nbsp;**South Coast Clambake Music Festival**! The Clambake Music Festival features incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and Zydeco! Dancers and music enthusiasts from up and down the West Coast visit each year as the Clambake Music Festival has developed a reputation as a favorite. Interesting fact, a 'clambake' is a old musical term for a jam session.
+Polish up those dancin’ shoes and get ready for the exciting musical extravaganza known as the&nbsp;**South Coast Clambake Music Festival**! The Clambake Music Festival features incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, and big band! Dancers and music enthusiasts from up and down the West Coast visit each year as the Clambake Music Festival has developed a reputation as a favorite. Interesting fact, a 'clambake' is a old musical term for a jam session.
 
 ![south coast clambake music festival bands playing music](/img/clambake-giveaway-collage.jpg)
 
