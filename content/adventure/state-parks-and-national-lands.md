@@ -34,8 +34,8 @@ After seeing the garden, you can stroll down a trail to a secluded ocean cove at
 
 ### Know Before You Go
 
-* No animals permitted outside of vehicles in the park and formal gardens, with the exception of service animals.
-* Hikers with dogs already on the Oregon Coast Trail (the section of the trail that goes from Sunset Bay State Park to Cape Arago State Park, though Shore Acres State Park) may continue along the trail through Shore Acres State Park but dogs must stay on the trail and/or parking lot area only. The trail does not include the area around the Observation Building or bathroom areas and definitely does not include the gardens.
+* No animals permitted outside of vehicles in Shore Acres State Park and formal gardens, with the exception of service animals.
+* Hikers, with dogs, already on the Oregon Coast Trail (the section of the trail that goes from Sunset Bay State Park to Cape Arago State Park, though Shore Acres State Park) may continue along the trail through Shore Acres State Park but dogs must stay on the trail and/or parking lot area only. The trail does not include the area around the Observation Building or bathroom areas and definitely does not include the gardens.
 * Hikers cannot drive into Shore Acres and park their car to start on the trail with their dogs. There are plenty of areas to get on the trail along Cape Arago Highway including Sunset Bay State Park, Cape Arago State Park, the Lighthouse Overlook, and Simpson Reef/Shell Island Overlook.
 
 {{< spacer 50 >}}
