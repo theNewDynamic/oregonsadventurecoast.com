@@ -26,8 +26,6 @@ On the Oregon Coast, many of the beaches are state parks and our area is no exce
 
 ![](/img/ShoreAcres-State-Park-v02-695x125.jpg)
 
-
-
 [**Shore Acres State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=68), the Oregon Coast’s crown jewel, was once the private estate of lumber baron, Louis Simpson, founder of the community of North Bend. Perched on rugged sandstone cliffs high above the ocean, Shore Acres State Park is an exciting and unexpected combination of beautiful natural and constructed features, including lushly planted gardens with plants and flowers from all over the world. Something is in bloom almost every day of the year.
 
 In the landscaped area you'll discover a formal garden, a Japanese-style garden with a lily pond, and two rose gardens which include All American Rose Selections. From Thanksgiving through New Year's Eve, the gardens are ablaze with thousands of colored lights and holiday decorations put up by community volunteers and The Friends of Shore Acres in cooperation with the Oregon Parks and Recreation Department. [Click here](https://shoreacres.net/) for more information on Holiday Lights.
@@ -37,6 +35,8 @@ After seeing the garden, you can stroll down a trail to a secluded ocean cove at
 ### Know Before You Go
 
 * No animals permitted outside of vehicles in the park and formal gardens, with the exception of service animals.
+* Hikers with dogs already on the Oregon Coast Trail (the section of the trail that goes from Sunset Bay State Park to Cape Arago State Park, though Shore Acres State Park) may continue along the trail through Shore Acres State Park but dogs must stay on the trail and/or parking lot area only. The trail does not include the area around the Observation Building or bathroom areas and definitely does not include the gardens.
+* Hikers cannot drive into Shore Acres and park their car to start on the trail with their dogs. There are plenty of areas to get on the trail along Cape Arago Highway including Sunset Bay State Park, Cape Arago State Park, the Lighthouse Overlook, and Simpson Reef/Shell Island Overlook.
 
 {{< spacer 50 >}}
 
