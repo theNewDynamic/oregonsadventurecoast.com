@@ -100,7 +100,7 @@ Wherever you go fat tire biking on Oregon's Adventure Coast, [check the tides](h
 
 ## Pedal the Rails! (Seasonal Activity)
 
-For something completely different, take to the rails with the <a target="_blank" rel="noopener" href="https://ocrailriders.com/">Oregon Coast Railriders</a>. Pedal along the beautiful Coquille River towards Coos Bay on a four seater quardricycle on the scenic Coos Bay Historic Railway for six miles. The trip begins in the community of Coquille just 17 miles inland from Coos Bay. Rail trips are available May through October.
+For something completely different, take to the rails with the <a target="_blank" rel="noopener" href="https://ocrailriders.com/home/">Oregon Coast Railriders</a>. Pedal along the beautiful Coquille River towards Coos Bay on a four seater quardricycle on the scenic Coos Bay Historic Railway for six miles. The trip begins in the community of Coquille just 17 miles inland from Coos Bay. Rail trips are available May through October.
 
 You will pedal &nbsp;round trip for about twelve miles on unused track. Staff will turn your four seated railrider around as you take a break.
 
