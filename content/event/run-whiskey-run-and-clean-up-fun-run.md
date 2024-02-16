@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: Run Whiskey Run and Clean Up Fun Run
-startdate: '2023-10-07'
-enddate: '2023-10-07'
+title: Run Whiskey Run
+startdate: '2024-10-12'
+enddate: '2024-10-12'
 address:
   city: Charleson
   state:
@@ -84,16 +84,6 @@ Students: $5.00. &nbsp;*Use the code Student2022 to register. &nbsp;To avoid cre
 
 {{< spacer "15" >}}
 
-#### POST RUN PARTY AT OCTOBERFISH!
-
-Join the fun at **Charleston's Annual <a target="_blank" rel="noopener" href="https://www.oregonsadventurecoast.com/event/octoberfish/">OCTOBERFISH</a>,** the official after race event location in the quaint fishing village of Charleston, OR!
-
-{{< spacer "25" >}}
-
-#### TRASH RUN, Sunday, October 8th
-
-Stay overnight and join the **Clean Up Fun Run** through the forested areas and beaches of Charleston! This 3-5 mile fun run begins at the <a target="_blank" rel="noopener" href="https://cmlc.uoregon.edu/">Charleston Marine Life Center</a> in Charleston at 10am.&nbsp;
-
-{{< spacer "25" >}}
+####
 
 **INFORMATION ABOUT THE AREA**<br>Whiskey Run is located on Oregon’s Adventure Coast. Our costal community offers endless opportunities for beach combing, fishing, crabbing, paddling, hiking, and golfing. Check out our many <a target="_blank" rel="noopener" href="https://www.oregonsadventurecoast.com/adventures/">Adventures</a>! And don’t forget about the mountain biking… bring your bike and explore the 30+ miles of premier single track at Whiskey Run. Come see what attracts so many runners to Oregon’s Adventure Coast.
