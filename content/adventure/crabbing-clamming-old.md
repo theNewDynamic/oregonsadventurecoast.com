@@ -1,14 +1,16 @@
 ---
+_schema: default
 title: Crabbing & Clamming
-url: "/crabbing-clamming-old"
-photo: "/img/adventures-crabbing.jpg"
-seo:
-  description: No vacation to the Oregon Coast is complete without outdoor activities
-    like crabbing and clamming! Rent crab rings and learn our tips and tricks!
-  title: Oregon Coast Outdoor Activities - Crabbing/Clamming | Oregon's Adventure
-    Coast
 draft: true
-
+url: /crabbing-clamming-old
+photo: /img/adventures-crabbing.jpg
+seo:
+  title: >-
+    Oregon Coast Outdoor Activities - Crabbing/Clamming | Oregon's Adventure
+    Coast
+  description: >-
+    No vacation to the Oregon Coast is complete without outdoor activities like
+    crabbing and clamming! Rent crab rings and learn our tips and tricks!
 ---
 ## Crabbing on Oregon's Adventure Coast
 
@@ -27,16 +29,9 @@ Here are a few tips we want to share from the {{< link url="https://myodfw.com/a
 
 Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores often rent and sell rings. Here’s a short list of some locations:
 
-**Basin Tackle Shop**  
-63510 Kingfisher Road, Charleston, OR 97420  
-(541) 888-FISH  
-Open Mon-Sat 8am-5pm; Sun 8am-Noon  
-{{< link url="http://www.basintackle.com" >}}www.basintackle.com{{< /link >}}
+**Basin Tackle Shop**<br>63510 Kingfisher Road, Charleston, OR 97420<br>(541) 888-FISH<br>Open Mon-Sat 8am-5pm; Sun 8am-Noon<br>{{< link url="http://www.basintackle.com" >}}www.basintackle.com{{< /link >}}
 
-**Davey Jones Locker**  
-Cape Arago Highway & Boat Basin Road  
-Charleston, OR 97420  
-(541) 888-3941
+**Davey Jones Locker**<br>Cape Arago Highway & Boat Basin Road<br>Charleston, OR 97420<br>(541) 888-3941
 
 ### Clamming on Oregon's Adventure Coast
 
@@ -46,32 +41,36 @@ If you’ve been anywhere along the Oregon Coast, you’ve probably heard a lot 
 
 The low tides commonly found from Empire to Charleston make our region one of the top destinations for clam digging. Local bait & tackle shops are usually the best resource for first (and second, third, fourth) time clammers and can usually advise on conditions, regulations, equipment, etc. Some businesses, like {{< link url="http://www.basintackle.com" >}}Basin Tackle{{< /link >}} on Kingfisher Rd in Charleston, even offer classes on how to use a clam pump and clean the clams (they even share secret recipes!
 
-**Ready to give it a shot?**  Here are some more tips for first-time clammers:
+**Ready to give it a shot?** Here are some more tips for first-time clammers:
 
-**1. Get your shellfish license.**
+**1\. Get your shellfish license.**
 
-<p class="bullet-para-indent">Clams can be harvested all year on our coast, but ODFW does require a license.  {{< link url="https://myodfw.com/crabbing-clamming/licensing-info" >}}Click here to get your license{{< /link >}}.</p>
+<p class="bullet-para-indent">Clams can be harvested all year on our coast, but ODFW does require a license. {{< link url="https://myodfw.com/crabbing-clamming/licensing-info" >}}Click here to get your license{{< /link >}}.</p>
 
-**2. Wear waterproof boots (trust us).**
+**2\. Wear waterproof boots (trust us).**
 
 <p class="bullet-para-indent">Just take a look at the photos and you will see the necessity of waterproof boots. Otherwise, you may loose or ruin your shoes!</p>
 
-**3. Dress in layers!**
+**3\. Dress in layers!**
 
 <p class="bullet-para-indent">Doesn’t matter what season it is, it can get chilly out there! Dress in layers that can get dirty.</p>
 
-**4. Go to a bait and tackle shop before you head out.**
+**4\. Go to a bait and tackle shop before you head out.**
 
 <p class="bullet-para-indent">Some of the best advice you will receive will probably come from one of the fishing experts at one of our\[ local bait and tackle stores\](/equipment-rent-and-buy). They can tell you when the best time of day to dig would be based on the tides. They can also help you make sure you have the right equipment- a bucket, a shovel (can be rented or borrowed) and/or a tube a.k.a. a “clam gun”.</p>
 
-**5. Keep track of how many clams you dig.**
+**5\. Keep track of how many clams you dig.**
 
 <p class="bullet-para-indent">You are allowed 20 bay clams per day in the aggregate, however, only 12 of which may be Gaper or Empire clams; again this is something someone at a local bait and tackle shop can help you with. Click here for {{< link url="https://www.dfw.state.or.us/mrp/shellfish/regulations.asp" >}}ODFW's Regulations Summary for Marine Shellfish{{< /link >}}.</p>
 
-**6. Watch these tutorials and learn from the pros!**
+**6\. Watch these tutorials and learn from the pros!**
 
 <p class="bullet-para-indent">Watch this video to learn the basics of digging:</p>
-<p>
-<iframe width="695" height="403" src="https://www.youtube.com/embed/caRg6WqgrcI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+
+
+
+<iframe width="695" height="403" src="https://www.youtube.com/embed/caRg6WqgrcI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 
 #### Visit our [**Fishing page**](/fishing/) for information on charters and more!
