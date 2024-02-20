@@ -1,14 +1,13 @@
 ---
+_schema: default
 title: Crabbing
-url: "/crabbing-clamming"
-photo: "/img/adventures-crabbing.jpg"
+url: /crabbing-clamming
+photo: /img/adventures-crabbing.jpg
 seo:
-  description: 'No vacation to the Oregon Coast is complete without Crabbing! Rent
-    crab rings and learn our tips and tricks!
-
-    '
   title: Crabbing on the Oregon Coast | Oregon’s Adventure Coast
-
+  description: >
+    No vacation to the Oregon Coast is complete without Crabbing! Rent crab
+    rings and learn our tips and tricks!
 ---
 ## Crabbing on Oregon's Adventure Coast
 
@@ -61,25 +60,22 @@ Dock crabbing is available throughout the commercial docks in Charleston. Additi
 
 Rental crab rings are available at many RV parks and other lodging facilities, and tackle and marine supply stores often rent and sell rings. Here’s a short list of some locations:
 
-**Davey Jones Locker**  
-Cape Arago Highway & Boat Basin Road  
-Charleston, OR 97420  
-(541) 888-3941
+**Davey Jones Locker**<br>Cape Arago Highway & Boat Basin Road<br>Charleston, OR 97420<br>(541) 888-3941
+
+**Monkey Business Market**<br>Charleston Marina<br>Charleston, OR 97420<br>(541) 778-3650
 
 {{< spacer 50 >}}
 
-### Explore Clamming & Fishing!<br>
+### Explore Clamming & Fishing!
 
-<div class="trip-idea-thumbnail"> <img src="/img/thumbnail-clamming-4px-line.jpg" alt="Clamming on the Oregon's Adventure Coast"></div>
+<div class="trip-idea-thumbnail"><img alt="Clamming on the Oregon's Adventure Coast" src="/img/thumbnail-clamming-4px-line.jpg" /></div>
 
-[**Clamming**](/clamming)  
-Oregon's Adventure Coast is not just known for great crabbing, but excellent clamming and fishing as well. It's relatively easy and the reward is a tasty treat best served in chowder, steamed or fried. [Learn more about Clamming on Oregon’s Adventure Coast >>](/clamming)
+[**Clamming**](/clamming)<br>Oregon's Adventure Coast is not just known for great crabbing, but excellent clamming and fishing as well. It's relatively easy and the reward is a tasty treat best served in chowder, steamed or fried. [Learn more about Clamming on Oregon’s Adventure Coast &gt;&gt;](/clamming)
 
-<div class="clearfix"></div>
+<div class="clearfix"> </div>
 
 {{< spacer 10 >}}
 
-<div class="trip-idea-thumbnail"> <img src="/img/thumbnail-fishing-4px-line.jpg" alt="World-Class Fishing on the Oregon's Adventure Coast"></div>
+<div class="trip-idea-thumbnail"><img alt="World-Class Fishing on the Oregon's Adventure Coast" src="/img/thumbnail-fishing-4px-line.jpg" /></div>
 
-[**World-Class Fishing**](/fishing)  
-Fishing opportunities are in no short supply here. There are fish for every season and an endless choice of prime fishing spots to select from.[Visit our Fishing page for information on charters and more! >>](/fishing)
+[**World-Class Fishing**](/fishing)<br>Fishing opportunities are in no short supply here. There are fish for every season and an endless choice of prime fishing spots to select from.[Visit our Fishing page for information on charters and more! &gt;&gt;](/fishing)
