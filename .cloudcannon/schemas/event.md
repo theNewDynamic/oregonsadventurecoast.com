@@ -16,5 +16,5 @@ photo:
 largeboxphoto:
 mediumboxphoto:
 smallboxphoto:
-aliases:
+aliases: []
 ---
