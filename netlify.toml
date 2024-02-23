@@ -1,6 +1,6 @@
 [functions]
   directory = "functions"
-  
+
 [build]
 publish = "public"
 command = "hugo --gc"
@@ -8,6 +8,7 @@ command = "hugo --gc"
 [build.environment]
   HUGO_VERSION = "0.91.2"
   GO_VERSION = "1.16.5"
+  NODE_VERSION = "16.16.0"
 
 [context.production.environment]
 # Uncomment the next line when moving site to production
