@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Octoberfish
-startdate: '2023-10-07'
-enddate: '2023-10-07'
+startdate: '2024-10-05'
+enddate: '2024-10-05'
 address:
   city: Charleston
   state: Oregon
@@ -23,7 +23,7 @@ smallboxphoto: /img/octoberfish-sign-340x214.jpg
 
 Come join us for another year in celebration of Coos Culture, games and activities for the kids, great music for the adults, yoga & movement workshops, local art and a tuna cookout. 7 Devils Brewing Company will be serving their craft beer.
 
-**Saturday October 7th from 10am to 4pm! Don't Miss the Fun but bring your lawn chair!**
+**Saturday October 5th from 10am to 4pm! Don't Miss the Fun but bring your lawn chair!**
 
 ![](/img/octoberfish-crafts-667x355.jpg)
 
