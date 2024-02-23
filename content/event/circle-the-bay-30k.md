@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Circle the Bay 30K
-startdate: 08-10
-enddate: 08-10
+startdate: '2024-08-10'
+enddate: '2024-08-10'
 address:
   city: North Bend
   state: OR
