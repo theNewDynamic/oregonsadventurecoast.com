@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual Bay Area Fun Festival 2023
-startdate: '2023-09-16'
-enddate: '2023-09-17'
+startdate: '2024-09-21'
+enddate: '2024-09-22'
 address:
   city: Coos Bay
   state: Oregon
@@ -23,9 +23,9 @@ smallboxphoto: /img/funfest-340x214.jpg
 aliases:
   - /event/annual-bay-area-fun-festival-2020/*
 ---
-![](/img/baff.jpeg)
+![](/img/bay-area-fun-fest-hder.jpg)
 
-#### **The Bay Area Fun Festival - the last big party of the summer - will happen September 16-17, 2023!**
+#### **The Bay Area Fun Festival - the last big party of the summer - will happen September 21-22, 2024!**
 
 As Summer winds down, the fun is just beginning here on the South Coast! [**The Bay Area Fun Festival**](https://bayareafunfestival.com/), also known as the greatest last party of the summer, happens here in Coos Bay and surrounding areas on the third weekend in September!
 
@@ -37,33 +37,11 @@ Thousands of locals and visitors from afar come to enjoy the sights, sounds, and
 
 {{< spacer 50 >}}
 
-#### For the kiddos, Sunday offers a special additional event!
-
-**[2022 PRE RUN FOR KIDS](https://www.great-futures.org/pre-for-kids)**<br>Sunday, September 17th, 1:30pm Start
-
-Girls and Boys in grades 1st through 8th are encouraged to participate in this 3-mile fun run.
-
-The Start of the race is on 2nd Street, Coos Bay (behind Coos Art Museum)
-
-**Check-in Time: Begins at 12:00pm**
-
-**Registration Fee: FREE! Pre-Registration Encouraged**
-
-**SHIRTS AVAILABLE WHILE SUPPLIES LAST**
-
-Top boy and girl finishers will be recognized. Medals will be awarded to the top 3 finishers in each boys and girls grade divisions. All finishers will be given a Certificate of Participation which will be delivered to the runner's school.
-
-[Download Registration Form](https://www.great-futures.org/_files/ugd/30afe1_e54aaa1432e447cb868e3a49eaabb820.pdf)
-
-{{< spacer 50 >}}
+####
 
 #### BAFF ROCK FEST MUSIC STAGE
 
-Live music brought to you by Ziply Fiber & Pacific Properties at the Live Music Stage, 4th and Central Ave.
-
-**Saturday**<br>Ocean Boulevard - 11am-1pm<br>Jeff Torrence - 3pm-6pm
-
-**Sunday**<br>Border Patrol - Noon-2pm Sunday<br>The Throttles - 2:30pm-4pm Sunday
+**MORE INFORMATION COMING SOON!**
 
 {{< spacer "25" >}}
 
