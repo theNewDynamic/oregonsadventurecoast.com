@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual Cruz The Coos
-startdate: '2023-09-16'
-enddate: '2023-09-16'
+startdate: '2024-09-21'
+enddate: '2024-09-21'
 address:
   city: Coos Bay
   state: OR
@@ -29,7 +29,7 @@ Cruz the Coos is one of the **longest-running and largest classic car cruises** 
 
 {{< spacer 25 >}}
 
-#### Saturday, September 16 Schedule
+#### Saturday, September 21 Schedule
 
 **11am - 2pm - Show 'n Shine**<br>The Mill Casino Parking Lot<br>*Can Still sign up that morning between 7:30am-9am*
 
@@ -41,7 +41,7 @@ Cruz the Coos is one of the **longest-running and largest classic car cruises** 
 
 {{< spacer 25 >}}
 
-**Proceeds generated from entry fees are put to use by the Rotary club to fund projects throughout the area including scholarships, humanitarian efforts, and other non-profit organizations in the community.**
+**Proceeds generated from entry fees are put to use by the Rotary Club to fund projects throughout the area including scholarships, humanitarian efforts, and other non-profit organizations in the community.**
 
 While you’re in the area, enjoy the **Bay Area Fun Festival**, one of the largest festivals on the Oregon Coast. The festival not only features the Cruz and Show ‘n Shine but the **Prefontaine Memorial 10K Run**, Street Vendors, a parade, and much more.
 
