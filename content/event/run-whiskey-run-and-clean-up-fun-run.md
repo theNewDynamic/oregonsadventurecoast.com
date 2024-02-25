@@ -88,6 +88,8 @@ Students: $5.00. &nbsp;*Use the code Student2022 to register. &nbsp;To avoid cre
 
 **INFORMATION ABOUT THE AREA**<br>Whiskey Run is located on Oregon’s Adventure Coast. Our costal community offers endless opportunities for beach combing, fishing, crabbing, paddling, hiking, and golfing. Check out our many <a target="_blank" rel="noopener" href="https://www.oregonsadventurecoast.com/adventures/">Adventures</a>! And don’t forget about the mountain biking… bring your bike and explore the 30+ miles of premier single track at Whiskey Run. Come see what attracts so many runners to Oregon’s Adventure Coast.
 
-![](/img/event-running-hdrs-695x125.jpg)
+{{< spacer "20" >}}
 
-**Find Out More About Local Runs & Races**<br>Run away on Oregon’s Adventure Coast – the perfect place to lace up your shoes and hit the pavement, trail or sand. Visit our [Running page here](/running).
+![Running in Our Area Header](/img/event-running-hdrs-695x125-v02.jpg)
+
+**Find Out More About Local Runs & Races**<br>Run away on Oregon’s Adventure Coast – the perfect place to lace up your shoes and hit the pavement, trail or sand. [Visit our Running page here.](/running)
