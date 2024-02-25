@@ -85,3 +85,9 @@ divider
 [![Annual Cruz the Coos](/img/cruz-the-coos-columns-02.jpg)](/event/annual-cruz-the-coos/)
 
 {{< /columns >}}
+
+{{< spacer "20" >}}
+
+![Running in Our Area header](/img/event-running-hdrs-695x125-v02.jpg)
+
+**Find Out More About Local Runs & Races**<br>Run away on Oregon’s Adventure Coast – the perfect place to lace up your shoes and hit the pavement, trail or sand. [Visit our Running page here.](/running)
