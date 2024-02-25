@@ -48,7 +48,6 @@ The race will finish at the Coos Bay History Museum (1210 N. Front Street, Coos 
 
 #### <a class="learn-more-anywhere-btn" target="_blank" rel="noopener" href="https://runsignup.com/Race/OR/Roseburg/TheRoseburgtoCoosBayRelay">REGISTER ONLINE NOW</a>
 
-
 {{< spacer 50 >}}
 
 #### **IMPORTANT INFORMATION FOR&nbsp; RACERS**
