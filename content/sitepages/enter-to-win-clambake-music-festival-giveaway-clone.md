@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Enter to Win Clambake Music Festival Giveaway CLONE
-draft: false
+draft: true
 url: oregon-live-clambake-giveaway-clone
 layout: contact
 photo: /img/clambake-music-fest-header-04.jpg
