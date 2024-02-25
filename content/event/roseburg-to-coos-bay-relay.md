@@ -65,3 +65,9 @@ The race will finish at the Coos Bay History Museum (1210 N. Front Street, Coos 
 6\. &nbsp;Remember this course is not supported. You are responsible for ensuring your team makes it to the finish line safely. Bring lots of water and snacks. The roads are open to traffic and locals drive fast and furious.&nbsp; Please be aware at all times and wear bright colors.
 
 [**CHECK THE RACE WEBSITE FOR MORE INFORMATION!**](https://southcoastrunningclub.org/roseburg-to-coos-bay-relay/)
+
+**{{< spacer "20" >}}**
+
+![Running in Our Area header](/img/event-running-hdrs-695x125-v02.jpg)
+
+**Find Out More About Local Runs & Races**<br>Run away on Oregon’s Adventure Coast – the perfect place to lace up your shoes and hit the pavement, trail or sand. [Visit our Running page here.](/running)

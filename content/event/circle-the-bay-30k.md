@@ -81,3 +81,9 @@ Individual 30K and Relay team \#1 runners start at 8 AM. Walkers start at 6:30 A
 * Water will be available at the exchanges, approximately every 6 miles.
 
 [CHECK THE RACE WEBSITE FOR MORE INFORMATION!](https://southcoastrunningclub.org/circle-the-bay/)
+
+{{< spacer "20" >}}
+
+![Running in Our Area header](/img/event-running-hdrs-695x125-v02.jpg)
+
+**Find Out More About Local Runs & Races**<br>Run away on Oregon’s Adventure Coast – the perfect place to lace up your shoes and hit the pavement, trail or sand. [Visit our Running page here.](/running)
