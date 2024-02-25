@@ -46,9 +46,8 @@ Runners start at KPIC-TV parking lot in Roseburg, walkers start in Laverne Park,
 
 The race will finish at the Coos Bay History Museum (1210 N. Front Street, Coos Bay). There will be free dinner and a 7-Devils beer (thanks 7-Devils!) for all participants.
 
-####
+#### <a class="learn-more-anywhere-btn" target="_blank" rel="noopener" href="https://runsignup.com/Race/OR/Roseburg/TheRoseburgtoCoosBayRelay">REGISTER ONLINE NOW</a>
 
-### [**REGISTER ONLINE NOW!!**](https://runsignup.com/Race/OR/Roseburg/TheRoseburgtoCoosBayRelay)
 
 {{< spacer 50 >}}
 
