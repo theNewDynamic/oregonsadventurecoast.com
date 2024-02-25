@@ -13,6 +13,6 @@ seo:
 ---
 ![](/img/clambake-giveaway-header-695x322.jpg)
 
-### Our Contest has Closed! Good luck and don't forget, there is still time to get tickets!
+### Our Contest has Closed
 
-[Visit the Event Page here for more information.](/event/south-coast-clambake-music-festival/)&nbsp;
+Thanks for all who have participated. Don't forget, there is still time to get your tickets!&nbsp;[Visit the Event Page here for more information.](/event/south-coast-clambake-music-festival/)&nbsp;
