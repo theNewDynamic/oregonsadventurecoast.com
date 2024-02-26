@@ -62,15 +62,15 @@ Once the grand estate of timber baron Louis J. Simpson, Shore Acres features a *
 
 {{< spacer 25 >}}
 
-#### TICKET PRICES:
+#### TICKET
 
-**General Admission Tickets: $40**
+**MORE INFORMATION AND LINK COMING SOON!**
+
+**General Admission Tickets: TBA**
 
 **Good Neighbor Tickets: Free \*\***
 
 *\*\* Thanks to the sponsorship of Oregon Parks & Recreation Department's Park Explorer program, a number of FREE tickets are available at this concert through IN A LANDSCAPE'S Good Neighbor Program\*.* [*To see if you qualify, click here.*](https://docs.google.com/forms/d/e/1FAIpQLSd0B9Atay9bgSwMOVlcUCNjNVL50_If3mzO9D83GdTTV62IWQ/viewform) *One free Good Neighbor Ticket per order. ID and/or EBT card required at check-in with all Good Neighbor tickets. Click on “Tickets” above for more details.*
-
-#### CLICK THE LINKS BELOW TO PURCHASE TICKETS FOR THE SHORE ACRES CONCERTS - *SOLD OUT*
 
 If you need assistance in purchasing tickets, email our ticketing office at [tickets@inalandscape.org](mailto:tickets@inalandscape.org)
 
@@ -115,7 +115,5 @@ No chairs will be provided. We recommend bringing low-back chairs, in considerat
 **CELL COVERAGE** - Cell coverage on Oregon's rural roads and in remote concert locations is unpredictable. Please be aware that you may not have a signal in all locations. Please print or download directions before you leave.
 
 **EXTREME WEATHER /CANCELLATION -** This is a rain or shine event. We encourage guests to bring rain protection as needed. In the case of extreme weather or severe smoke, IAL will cancel by 9am the day of the performance and notify all ticketed patrons.
-
-**COVID SAFETY -** IN A LANDSCAPE will follow all current local, county, and state protocols.
 
 **MERCHANDISE** - We will have new merchandise available at our concerts this year, where permitted.
