@@ -1,14 +1,14 @@
 ---
 _schema: default
 title: 'IN A LANDSCAPE: Classical Music in the Wild'
-startdate: '2023-09-07'
-enddate: '2023-09-08'
+startdate: '2024-09-04'
+enddate: '2024-09-05'
 address:
+  city: Charleston
+  state: OR
   street: 'Shore Acres State Park '
   street2: 89039 Cape Arago Hwy
-  city: Charleston
   zip: '97420'
-  state: OR
 phone_local: 541-269-0215
 website: https://www.inalandscape.org/
 coordinates:
@@ -23,7 +23,7 @@ desktoptitle: Classical Music in the Wild
 mobiletitle: Classical Music in the Wild
 hovertitle: Classical Music in the Wild
 hoverdescription: >-
-  Join classical pianist Hunter Noack for a special 3 night concert series at
+  Join classical pianist Hunter Noack for a special 2-night concert series at
   Shore Acres!
 photo: /img/inalandscape-2048x530.jpg
 largeboxphoto: /img/landscape1024x395.jpg
@@ -32,27 +32,23 @@ smallboxphoto: /img/ial-joey-hamilton-340x214.jpg
 ---
 ### IN A LANDSCAPE: Classical Music in the Wild™
 
-#### AT SHORE ACRES STATE PARK - September 7 & 8 at 5:00pm (NOTE TIME CHANGE)
-
-***SOLD OUT***
+#### AT SHORE ACRES STATE PARK - September 4 & 5
 
 ###### ![](/img/p1320602.jpg)
 
 ###### {{< spacer 25 >}}
 
-Founded in 2016 by classical pianist Hunter Noack, [**IN A LANDSCAPE: Classical Music in the Wild**](https://www.inalandscape.org/) is an outdoor concert series where America’s most stunning landscapes replace the traditional concert hall. In a Landscape brings a 9-foot Steinway grand piano on a flatbed trailer to National Parks, urban greenspaces, working ranches, farms, and historical sites for classical music concerts that connect people with each landscape.
+Founded in 2016 by classical pianist Hunter Noack, [**IN A LANDSCAPE: Classical Music in the Wild**](https://www.inalandscape.org/) is an outdoor concert series where America’s most stunning landscapes replace the traditional concert hall. In a Landscape brings a 9-foot Steinway grand piano on a flatbed trailer to National & State Parks, urban greenspaces, working ranches, farms, and historical sites for classical music concerts that connect people with each landscape.
 
-To meet the acoustical challenges of performing in the wild, **music is transmitted to concert-goers via wireless headphones**. No longer confined to seats, you can explore the landscape, wander through the Shore Acres garden, lie in sunny meadows, and roam along the rugged cliffs.
+To meet the acoustical challenges of performing in the wild, **music is transmitted to concert-goers via wireless headphones**. No longer confined to seats, concert goers can explore the landscape, wander through the Shore Acres garden, lie in sunny meadows, and roam along the rugged cliffs.
 
 ###### {{< spacer 25 >}}
 
-**IN A LANDSCAPE: Classical Music in the Wild™ concerts are brought to you in partnership with the Oregon Parks and Recreation Department and Sponsors** [**Wild Rivers Coast Alliance**](https://wildriverscoastalliance.com/)**,** [**Travel Southern Oregon Coast**](https://www.oscrtn.com/tsoc.html)**, and** [**Oregon's Adventure Coast: Coos Bay, North Bend, Charleston**](https://www.oregonsadventurecoast.com/)**.**
+**IN A LANDSCAPE: Classical Music in the Wild™ concerts are brought to you in partnership with the Oregon Parks and Recreation Department and Sponsors** [**Wild Rivers Coast Alliance**](https://wildriverscoastalliance.com/)**,** [**Travel Southern Oregon Coast**](https://www.oscrtn.com/tsoc.html)**, and** [**Oregon's Adventure Coast: Coos Bay, North Bend, Charleston**](https://www.oregonsadventurecoast.com/)**. This year's recipient of the donations will be Friends of Shore Acres!**
 
 ###### {{< spacer 25 >}}
 
 #### **ABOUT THIS LANDSCAPE**
-
-![](/img/dahlias-shore-acres-state-park-blog-695x322-jpg.png "There is always something blooming in the gardens at Shore Acres State Park!")
 
 Perched on craggy sandstone cliffs high above the ocean, **Shore Acres State Park** celebrates two sorts of beauty: ruggedly organic and masterfully constructed.
 
