@@ -15,6 +15,8 @@ seo:
   image: ''
 aliases:
   - /cake
+  - /bake
+  - /bake-off
 ---
 ![Crab Cake Bake-Off Sample Cake showing undersea creatures](/img/gwen-cake-two-version-01.jpg)
 
