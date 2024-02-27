@@ -13,6 +13,8 @@ seo:
     baking competition near me, cake competition, baking contest near me
   imgalt: ''
   image: ''
+aliases:
+  - /cake
 ---
 ![Crab Cake Bake-Off Sample Cake showing undersea creatures](/img/gwen-cake-two-version-01.jpg)
 
