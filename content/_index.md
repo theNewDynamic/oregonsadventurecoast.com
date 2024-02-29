@@ -3,13 +3,29 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
-    photo: ''
+    photo: /img/spring-adv-biking-hm-slider.jpg
     title_mobile:
-    photo_mobile: /img/mobile-hm-slider-storm-watching-2023.jpg
-    url: /storm-watching
+    photo_mobile: /img/spring-adv-mobile-slider-hm.jpg
+    url: /cycling
     video:
-      cover: /img/storm-watching-home-video-placeholder.jpg
-      source: /img/waves-web-slider-2023-sd-480p.mov
+  - title:
+    photo: /img/spring-adv-dunes-hm-slider.jpg
+    title_mobile:
+    photo_mobile:
+    url: /atv-motorsports
+    video:
+  - title:
+    photo: /img/spring-adv-hiking-hm-slider.jpg
+    title_mobile:
+    photo_mobile:
+    url: /hiking-walking
+    video:
+  - title:
+    photo: /img/spring-adv-fishing-hm-slider.jpg
+    title_mobile:
+    photo_mobile:
+    url: /fishing
+    video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /live-cam
