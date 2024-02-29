@@ -20,11 +20,11 @@ aliases:
 ---
 ![Crab Cake Bake-Off Sample Cake showing undersea creatures](/img/gwen-cake-two-version-01.jpg)
 
-![](/img/horizontal-crab-cake-logo.jpg)
+![](/img/crab-cake-bake-off-2nd-annual-log.jpg)
 
 ###
 
-### The 2023 Claw-some Crab Cake Bake-Off contest has now closed.&nbsp;
+### The 2024 Claw-some Crab Cake Bake-Off contest has now closed.&nbsp;
 
 Thank you all for your interest and amazing entries. Please come back later in July, after our judges have had a chance to determine and notify the winners. It's going to be a tough job for our judges because the entries were all so CLAW-SOME!
 
