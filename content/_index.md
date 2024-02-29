@@ -31,6 +31,9 @@ home_splashes:
   - url: /live-cam
     img: /img/live-cam-home-pg-button.png
     alt: live weather camera button - click to see our area views
+  - url: /bake
+    img: /img/crab-cake-bake-off-splash-v02-1.jpg
+    alt: Claw-some Crab Cake Bake-Off Contest
 masonry1:
   desktopphoto: /img/store-image-desktop.jpg
   desktoptitle: Store
