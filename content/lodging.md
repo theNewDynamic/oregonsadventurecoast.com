@@ -25,4 +25,5 @@ You can pick accommodations on the Oregon Coast that will suit your needs and pr
 
 **{{< spacer "30" >}}**
 
-<div style="width:100%"><a href="/storm-watching"><img src="/img/StormWatching-2024-Banner-2048x190.jpg" alt="The Best storm watching on the oregon coast in Coos Bay, North Bend, Charleston" style='height: 100%; width: 100%; object-fit: contain' /></a></div>
+<div><a href="/bake"><img alt="Enter to win our claw-some crab cake bake-off and win a vacation to Oregon's Adventure Coast" src="/img/crab-cake-bake-off-2048x190-2ndannual-03-24.jpg"/></a></div>
+
