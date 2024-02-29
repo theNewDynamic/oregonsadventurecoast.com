@@ -2,7 +2,7 @@
 _schema: default
 title: Claw-some Crab Cake Bake-Off
 draft: false
-url: crab-cake-bake-off
+url: /crab-cake-bake-off
 layout: contact
 photo: /img/crab-cake-subpage-header-02.jpg
 seo:
