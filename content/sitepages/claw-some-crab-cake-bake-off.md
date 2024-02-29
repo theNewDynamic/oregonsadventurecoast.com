@@ -87,7 +87,7 @@ Appearance and creativity are paramount, but understanding the ingredients used 
 
 **First Place** prizes will be awarded in both the Amateur and Professional categories.
 
-> *Each First Place Winner will receive a trip for two on Oregon’s Adventure Coast, including a 2-night stay at our official Bake Off Hotel the <a target="_blank" href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html">Best Western Holiday Hotel Coos Bay</a>, meal vouchers, and Oregon’s Adventure Coast goodies. Travel to and from Oregon’s Adventure Coast is not included.*
+> *Each First Place Winner will receive a vacation for two on Oregon’s Adventure Coast, including a 2-night stay at our official Bake Off Hotel the <a target="_blank" href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html">Best Western Holiday Hotel Coos Bay</a>, meal vouchers, and Oregon’s Adventure Coast goodies. Travel to and from Oregon’s Adventure Coast is not included.*
 
 **All Non-Winning Entries**&nbsp;will receive a goodie bag of Oregon’s Adventure Coast products.
 
