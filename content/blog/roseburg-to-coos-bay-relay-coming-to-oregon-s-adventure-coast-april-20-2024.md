@@ -51,6 +51,4 @@ Here are some other races coming up in 2024 you don’t want to miss!&nbsp;
 
 ![](/img/south-coast-running-club-2024.png)
 
-
-
 **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** offers an exhilarating experience for avid runners and outdoor enthusiasts. For even more travel inspiration, visit our[<u> Adventures page</u>](https://www.oregonsadventurecoast.com/adventures) and our[<u> Trip Ideas page</u>](https://www.oregonsadventurecoast.com/tripideas) to discover all there is to do on Oregon’s Adventure Coast. Please[<u> contact us</u>](https://www.oregonsadventurecoast.com/contact/) with any questions.
