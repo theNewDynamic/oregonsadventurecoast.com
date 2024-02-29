@@ -28,6 +28,9 @@ slideshow:
     video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
+  - url: /bake
+    img: /img/crab-cake-bake-off-splash-v02-1.jpg
+    alt: Claw-some Crab Cake Bake-Off Contest
   - url: /live-cam
     img: /img/live-cam-home-pg-button.png
     alt: live weather camera button - click to see our area views
