@@ -29,6 +29,8 @@ Contact Oregon’s Adventure Coast with any questions you may have about things 
 
 {{< spacer "30" >}}
 
-[![](/img/storm-watching-2024-banner-695x86.jpg)](/storm-watching)
+
+
+[![](/img/crab-cake-bake-off-695wide-2ndannual-03-24.jpg)](/bake)
 
 {{< spacer 50 >}}
