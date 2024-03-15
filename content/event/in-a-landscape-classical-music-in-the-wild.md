@@ -34,6 +34,8 @@ smallboxphoto: /img/ial-joey-hamilton-340x214.jpg
 
 #### AT SHORE ACRES STATE PARK - September 4 & 5
 
+***Doors open at 4:30pm, Concert begins at 5:00pm***
+
 ###### ![](/img/p1320602.jpg)
 
 ###### {{< spacer 25 >}}
@@ -64,7 +66,9 @@ Once the grand estate of timber baron Louis J. Simpson, Shore Acres features a *
 
 #### TICKET
 
-**MORE INFORMATION AND LINK COMING SOON!**
+**Shore Acres Concert - Wednesday, September 4th -** <a href="https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-tickets-793568483697?aff=ebdsoporgprofile" target="_blank" rel="noopener"><strong>BUY TICKETS</strong></a>
+
+**Shore Acres Concert - Thursday, September 5th -** <a href="https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-tickets-793567701357?aff=ebdsoporgprofile" target="_blank" rel="noopener"><strong>BUY TICKETS</strong></a>
 
 **General Admission Tickets: TBA**
 
