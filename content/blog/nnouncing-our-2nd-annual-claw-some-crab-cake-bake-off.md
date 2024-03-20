@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'nnouncing Our 2nd Annual "Claw-some" Crab Cake Bake-Off! '
+title: 'Announcing Our 2nd Annual "Claw-some" Crab Cake Bake-Off! '
 draft: false
 date: 2024-03-19T00:00:00-07:00
 description: >-
