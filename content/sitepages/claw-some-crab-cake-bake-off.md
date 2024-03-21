@@ -18,7 +18,7 @@ aliases:
   - /cake
   - /bake-off
 ---
-![Crab Cake Bake-Off Sample Cake showing undersea creatures](/img/gwen-cake-two-version-01.jpg)
+![Claw-Some Crab Cake Bake-Off entries from 2023](/img/octopus-lighthouse-2024.jpg)
 
 ### {{< floatimage src="/img/crab-cake-logo-tall-2nd-annual.jpg" float="right" alt="Claw-some Crab Cake Bake-Off Logo" size="100" >}}Attention all baking enthusiasts!
 
@@ -50,7 +50,7 @@ Contestants may work individually or with a team. *(Prizes will be awarded to 1 
 
 ### <a class="learn-more-anywhere-btn" href="/crab-cake-bake-off-form">ENTER CONTEST</a>
 
-![Under sea theme of crab cake showing crabs on ocean floor](/img/crab-cake-cheryle-photos-02.jpg)
+![Crab Cake Bake-Off entries from 2023 baking contest](/img/crab-dinner-crab-on-wood.jpg)
 
 {{< spacer 25 >}}
 
@@ -87,13 +87,15 @@ Appearance and creativity are paramount, but understanding the ingredients used 
 
 **First Place** prizes will be awarded in both the Amateur and Professional categories.
 
-> *Each First Place Winner will receive a vacation for two on Oregon’s Adventure Coast, including a 2-night stay at our official Bake Off Hotel the* <a href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html" target="_blank" rel="noopener"><em>Best Western Holiday Hotel Coos Bay</em></a>*, meal vouchers, and Oregon’s Adventure Coast goodies. Travel to and from Oregon’s Adventure Coast is not included.* Certificates provided as part of the prize package cannot be replaced if lost, stolen or left home.
+> *Each First Place Winner will receive a vacation for two on Oregon’s Adventure Coast, including a 2-night stay at our official Bake Off Hotel the* <a href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html" target="_blank" rel="noopener"><em>Best Western Holiday Hotel Coos Bay</em></a>*, meal vouchers, and Oregon’s Adventure Coast goodies. Travel to and from Oregon’s Adventure Coast is not included.* Certificates provided as part of the prize package cannot be replaced if lost, stolen or&nbsp;left&nbsp;home.
 
-**All Non-Winning Entries** will receive a goodie bag of Oregon’s Adventure Coast products.
+**All Non-Winning Entries**&nbsp;will receive a goodie bag of Oregon’s Adventure Coast products.
 
 {{< spacer 25 >}}
 
-![Claw-some Crab Cake Bake-Off Example cake in the shape of a red cartoon crab](/img/crab-cake-bake-collage-02.jpg)
+![Claw-some Crab Cake Bake-Off Example cake in the shape of a red cartoon crab](/img/gwen-cakes-side-by-side-695x322.jpg)
+
+![Claw-some Crab Cake Bake-Off entries from our 2023 contest](/img/three-entries-2023.jpg)
 
 ### WHEN WILL WINNERS BE ANNOUNCED
 
@@ -107,4 +109,8 @@ Click the link below to enter the contest, submit your photos/videos and ingredi
 
 Judges will review all entry photographs, videos and ingredients list and will judge on creativity in use of theme and expected taste of the item based on those ingredients.
 
-### <a class="learn-more-anywhere-btn" href="/crab-cake-bake-off-form">ENTER CONTEST</a>
+### <a class="learn-more-anywhere-btn" href="/crab-cake-bake-off-form">ENTER CONTEST</a>{{< spacer "25" >}}Our Generous Partners
+
+![Our Generous Partners for the Crab Cake Bake-Off Contest](/img/partners-logos-v01.jpg)
+
+&nbsp;
