@@ -52,6 +52,8 @@ Contestants may work individually or with a team. *(Prizes will be awarded to 1 
 
 ![Crab Cake Bake-Off entries from 2023 baking contest](/img/crab-dinner-crab-on-wood.jpg)
 
+![Claw-some Crab Cake Bake-Off waves and beach contest entry](/img/waves-seascape-2023.jpg)
+
 {{< spacer 25 >}}
 
 ### WHAT ARE THE CATEGORIES?
