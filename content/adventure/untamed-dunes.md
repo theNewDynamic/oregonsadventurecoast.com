@@ -1,18 +1,19 @@
 ---
+_schema: default
 title: Untamed Dunes
-aliases:
-  - /featured-adventures/undeveloped-beaches
-  - /featured-adventures/the-dunes
-  - /activities/category/dunes
 url: /untamed-dunes
-photo: /img/untamed-dunes-sub-header.jpg
+photo: /img/dunes-subpage-hdr-2048x530.jpg
 seo:
+  title: Oregon Coast Outdoor Activities - Untamed Dunes | Oregon's Adventure Coast
   description: >-
     If you’re looking for a really unique experience during your Oregon Coast
     vacation, make sure you check out our outdoor activities - try untamed beach
     dunes - perfect for adventure seekers!
   image: ''
-  title: Oregon Coast Outdoor Activities - Untamed Dunes | Oregon's Adventure Coast
+aliases:
+  - /featured-adventures/undeveloped-beaches
+  - /featured-adventures/the-dunes
+  - /activities/category/dunes
 ---
 ![Oregon's Adventure Coast Dunes Selfie Photo](/img/dunes-selfie-stick.jpg)
 
@@ -22,7 +23,7 @@ If you're looking for a really unique experience during your coastal vacation, m
 
 ![Dune Buggy Excitement in the Oregon Dunes](/img/dunes-dune-buggy-riding.jpg)
 
-Adventure seekers can go off-road ATVing, hiking, horseback riding and camping. With the Pacific Ocean, lakes, ponds, and streams, you can even be an amphibious adventurer! 
+Adventure seekers can go off-road ATVing, hiking, horseback riding and camping. With the Pacific Ocean, lakes, ponds, and streams, you can even be an amphibious adventurer!
 
 You'll find the largest riding area at the Oregon Dunes between Spinreel Campground and Horsfall Road, just a few miles north of North Bend and Coos Bay. Forest Service Campgrounds with sand access to the Dunes include Spinreel, Riley Ranch, Horsfall and Horsfall Beach.
 
