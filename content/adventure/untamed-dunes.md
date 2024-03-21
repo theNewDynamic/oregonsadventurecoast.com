@@ -27,7 +27,9 @@ If you're looking for a really unique experience during your coastal vacation, m
 
 Adventure seekers can go off-road ATVing, hiking, horseback riding and camping. With the Pacific Ocean, lakes, ponds, and streams, you can even be an amphibious adventurer!
 
-You'll find the largest riding area at the Oregon Dunes between Spinreel Campground and Horsfall Road, just a few miles north of North Bend and Coos Bay. Forest Service Campgrounds with sand access to the Dunes include Spinreel, Riley Ranch, Horsfall and Horsfall Beach. Check out our [Equipment Rent & Buy](/equipment-rent-and-buy) page to find Dune Buggies and ATV's for rent.
+You'll find the largest riding area at the Oregon Dunes between Spinreel Campground and Horsfall Road, just a few miles north of North Bend and Coos Bay. Forest Service Campgrounds with sand access to the Dunes include Spinreel, Riley Ranch, Horsfall and Horsfall Beach.
+
+Discover the thrill of exploring the great outdoors with our diverse range of [Dune Buggies and ATV's available for rent](/equipment-rent-and-buy)! And for more details visit our dedicated [ATV & Motorsports adventure page](/atv-motorsports). Unleash your inner explorer today!
 
 ![Sandboarding on the Oregon Coastal Dunes](/img/sandboarding-695x322.jpg)
 
