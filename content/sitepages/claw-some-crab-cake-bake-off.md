@@ -48,7 +48,7 @@ Any and all people are welcome to enter the bake-off! Kids 10-17 and Adults of a
 
 Contestants may work individually or with a team. *(Prizes will be awarded to 1 member per team only, NOT each individual.)*
 
-### <a class="learn-more-anywhere-btn" href="/crab-cake-bake-off-form">ENTER CONTEST</a>
+### <a class="learn-more-anywhere-btn" href="/crab-cake-bake-off-form">ENTER CONTEST</a>{{< spacer "50" >}}
 
 ![Crab Cake Bake-Off entries from 2023 baking contest](/img/crab-dinner-crab-on-wood.jpg)
 
@@ -109,7 +109,7 @@ Click the link below to enter the contest, submit your photos/videos and ingredi
 
 Judges will review all entry photographs, videos and ingredients list and will judge on creativity in use of theme and expected taste of the item based on those ingredients.
 
-### <a class="learn-more-anywhere-btn" href="/crab-cake-bake-off-form">ENTER CONTEST</a>{{< spacer "25" >}}Our Generous Partners
+### <a class="learn-more-anywhere-btn" href="/crab-cake-bake-off-form">ENTER CONTEST</a>{{< spacer "50" >}}Our Generous Partners
 
 ![Our Generous Partners for the Crab Cake Bake-Off Contest](/img/partners-logos-v01.jpg)
 
