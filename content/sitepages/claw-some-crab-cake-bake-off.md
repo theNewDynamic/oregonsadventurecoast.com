@@ -87,11 +87,11 @@ Appearance and creativity are paramount, but understanding the ingredients used 
 
 **First Place** prizes will be awarded in both the Amateur and Professional categories.
 
-> *Each First Place Winner will receive a vacation for two on Oregon’s Adventure Coast, including a 2-night stay at our official Bake Off Hotel the* <a href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html" target="_blank" rel="noopener"><em>Best Western Holiday Hotel Coos Bay</em></a>*, meal vouchers, and Oregon’s Adventure Coast goodies. Travel to and from Oregon’s Adventure Coast is not included.* Certificates provided as part of the prize package cannot be replaced if lost, stolen or left home.
+> *Each First Place Winner will receive a vacation for two on Oregon’s Adventure Coast, including a 2-night stay at our official Bake Off Hotel the* <a href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html" target="_blank" rel="noopener"><em>Best Western Holiday Hotel Coos Bay</em></a>*, meal vouchers, and Oregon’s Adventure Coast goodies. Travel to and from Oregon’s Adventure Coast is not included.* Certificates provided as part of the prize package cannot be replaced if lost, stolen or&nbsp;left&nbsp;home.
 
-**All Non-Winning Entries** will receive a goodie bag of Oregon’s Adventure Coast products.
+**All Non-Winning Entries**&nbsp;will receive a goodie bag of Oregon’s Adventure Coast products.
 
-{{< spacer 25 >}}
+{{< spacer 25 >}}{{< spacer "" >}}
 
 ![Claw-some Crab Cake Bake-Off Example cake in the shape of a red cartoon crab](/img/crab-cake-bake-collage-02.jpg)
 
@@ -107,4 +107,8 @@ Click the link below to enter the contest, submit your photos/videos and ingredi
 
 Judges will review all entry photographs, videos and ingredients list and will judge on creativity in use of theme and expected taste of the item based on those ingredients.
 
-### <a class="learn-more-anywhere-btn" href="/crab-cake-bake-off-form">ENTER CONTEST</a>
+### <a class="learn-more-anywhere-btn" href="/crab-cake-bake-off-form">ENTER CONTEST</a>{{< spacer "25" >}}Our Generous Partners
+
+![Our Generous Partners for the Crab Cake Bake-Off Contest](/img/partners-logos-v01.jpg)
+
+&nbsp;
