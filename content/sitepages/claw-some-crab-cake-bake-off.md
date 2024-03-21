@@ -18,7 +18,7 @@ aliases:
   - /cake
   - /bake-off
 ---
-![Crab Cake Bake-Off Sample Cake showing undersea creatures](/img/gwen-cake-two-version-01.jpg)
+![Claw-Some Crab Cake Bake-Off entries from 2023](/img/octopus-lighthouse-2024.jpg)
 
 ### {{< floatimage src="/img/crab-cake-logo-tall-2nd-annual.jpg" float="right" alt="Claw-some Crab Cake Bake-Off Logo" size="100" >}}Attention all baking enthusiasts!
 
@@ -50,7 +50,7 @@ Contestants may work individually or with a team. *(Prizes will be awarded to 1 
 
 ### <a class="learn-more-anywhere-btn" href="/crab-cake-bake-off-form">ENTER CONTEST</a>
 
-![Under sea theme of crab cake showing crabs on ocean floor](/img/crab-cake-cheryle-photos-02.jpg)
+![Crab Cake Bake-Off entries from 2023 baking contest](/img/crab-dinner-crab-on-wood.jpg)
 
 {{< spacer 25 >}}
 
@@ -91,9 +91,11 @@ Appearance and creativity are paramount, but understanding the ingredients used 
 
 **All Non-Winning Entries**&nbsp;will receive a goodie bag of Oregon’s Adventure Coast products.
 
-{{< spacer 25 >}}{{< spacer "" >}}
+{{< spacer 25 >}}
 
-![Claw-some Crab Cake Bake-Off Example cake in the shape of a red cartoon crab](/img/crab-cake-bake-collage-02.jpg)
+![Claw-some Crab Cake Bake-Off Example cake in the shape of a red cartoon crab](/img/gwen-cakes-side-by-side-695x322.jpg)
+
+![Claw-some Crab Cake Bake-Off entries from our 2023 contest](/img/three-entries-2023.jpg)
 
 ### WHEN WILL WINNERS BE ANNOUNCED
 
