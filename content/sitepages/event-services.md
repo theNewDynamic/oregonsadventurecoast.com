@@ -12,9 +12,9 @@ When you select Oregon’s Adventure Coast for your meeting, convention, group t
 
 * <a href="/img/Catering-Options-3-24.pdf" target="_blank" rel="noopener">Catering Options PDF</a>
 * [Event & Wedding Services PDF](/img/event-wedding-services.pdf)
-* [Group Friendly Attractions PDF](/img/group-attractions.pdf)
-* [Group-Friendly Lodging Properties PDF](/img/Group-Friendly-Properties-12-18.pdf)
+* <a href="/img/Group-Attractions-10-2023.pdf" target="_blank" rel="noopener">Group Friendly Attractions PDF</a>
+* <a href="/img/Group-Friendly-Properties-10-23.pdf" target="_blank" rel="noopener">Group-Friendly Lodging Properties PDF</a>
 * [Mileage Chart PDF](/img/mileage-chart.pdf)
-* [Transportation Options PDF](/img/Transportation-Options-08-2020-REV.pdf)
+* <a href="/img/Transportation-Options-3-24.pdf" target="_blank" rel="noopener">Transportation Options PDF</a>
 
 If you’d like more personalized help, e-mail us today at [info@OregonsAdventureCaost.com](mailto:info@oregonsadventurecoast.com).
