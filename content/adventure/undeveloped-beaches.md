@@ -48,4 +48,8 @@ Below are some of our favorite spots for beachcombing, picnicking, and tide-pool
 
 **Simpson Beach** - Situated directly below Shore Acres State Park. A winding path takes you to a secluded ocean cove where you’ll find crashing waves, migrating whales, and views of hundreds of seals and sea lions, and other wildlife. Please do not bother the seal pups you may find on the beach. They are not lost, only waiting for mom to return. [Learn more](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=68). 89814 Cape Arago Hwy Charleston, OR 97420
 
+{{< youtube id="U3lLh7iPHIg" >}}
+
+{{< spacer "20" >}}
+
 {{< accordions >}}
