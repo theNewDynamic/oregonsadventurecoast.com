@@ -2,7 +2,7 @@
 _schema: default
 title: Undeveloped Beaches
 url: /undeveloped-beaches
-photo: /img/undeveloped-beaches-sub-header.jpg
+photo: /img/beach-undeveloped-pg-header.jpg
 seo:
   title: Oregon Coast Vacations - Undeveloped Beaches | Oregon's Adventure Coast
   description: >-
