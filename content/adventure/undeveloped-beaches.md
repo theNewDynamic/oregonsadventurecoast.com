@@ -34,7 +34,7 @@ If beachcombing, tide-pooling, picnicking, whale watching, surfing and clamming 
 
 &nbsp;
 
-{{< spacer "30" >}}
+{{< spacer "20" >}}
 
 ![Aerial shot of Horsfall Beach on Oregon's Adventure Coast](/img/horsfall-beach-pristine-695x380.jpg "Pristine &amp; Uncrowded Horsfall Beach")
 
