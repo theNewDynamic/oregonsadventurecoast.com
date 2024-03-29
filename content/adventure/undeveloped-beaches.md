@@ -32,6 +32,10 @@ If beachcombing, tide-pooling, picnicking, whale watching, surfing and clamming 
 
 {{< youtube id="U3lLh7iPHIg" >}}
 
+&nbsp;
+
+{{< spacer "30" >}}
+
 ![Aerial shot of Horsfall Beach on Oregon's Adventure Coast](/img/horsfall-beach-pristine-695x380.jpg "Pristine &amp; Uncrowded Horsfall Beach")
 
 #### **Best Places for Beach-combing and Tide-pooling**
