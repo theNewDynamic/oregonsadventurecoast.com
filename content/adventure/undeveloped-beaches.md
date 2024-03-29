@@ -2,7 +2,7 @@
 _schema: default
 title: Undeveloped Beaches
 url: /undeveloped-beaches
-photo: /img/undeveloped-beaches-sub-header.jpg
+photo: /img/beach-undeveloped-pg-header.jpg
 seo:
   title: Oregon Coast Vacations - Undeveloped Beaches | Oregon's Adventure Coast
   description: >-
@@ -30,6 +30,12 @@ Our pristine Pacific coastline offers so many different options. Visitors seekin
 
 If beachcombing, tide-pooling, picnicking, whale watching, surfing and clamming or other popular pastimes are on your Oregon Coast wish list, look no further than our very own beaches and be sure to follow these tips to stay safe and protect our natural habitat. Visitors going to the beach should be aware of coastal safety hazards with the potential danger of undertows, sneaker waves, and rolling logs. [Click here for Beach Safety Tips](https://oregonsadventurecoast.com/blog/eight-ways-to-stay-safe-on-the-beaches-along-the-oregon-coast/).
 
+{{< youtube id="U3lLh7iPHIg" >}}
+
+&nbsp;
+
+{{< spacer "20" >}}
+
 ![Aerial shot of Horsfall Beach on Oregon's Adventure Coast](/img/horsfall-beach-pristine-695x380.jpg "Pristine &amp; Uncrowded Horsfall Beach")
 
 #### **Best Places for Beach-combing and Tide-pooling**
@@ -47,5 +53,7 @@ Below are some of our favorite spots for beachcombing, picnicking, and tide-pool
 **Horsfall Beach** - Beautiful secluded beach located within the Oregon Dunes National Recreation Area. A great place for beachcombing with plenty of parking, lots of uninterrupted beach, and a variety of other natural amenities. Perfect for pets and kids. Horsefall Beach Rd, North Bend, OR 97459
 
 **Simpson Beach** - Situated directly below Shore Acres State Park. A winding path takes you to a secluded ocean cove where you’ll find crashing waves, migrating whales, and views of hundreds of seals and sea lions, and other wildlife. Please do not bother the seal pups you may find on the beach. They are not lost, only waiting for mom to return. [Learn more](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=68). 89814 Cape Arago Hwy Charleston, OR 97420
+
+{{< spacer "20" >}}
 
 {{< accordions >}}
