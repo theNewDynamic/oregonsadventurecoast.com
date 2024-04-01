@@ -30,7 +30,7 @@ smallboxphoto: /img/prerun-340x214.jpg
 ---
 ![](/img/roseburg-coos-waterfall.jpg)
 
-### Bring Your Friends and Take On The Roseburg to Coos Bay Relay!
+### Bring Your Friends and Take On The Roseburg to Coos Bay Relay! *DEADLINE TO REGISTER, APRIL 1st.*
 
 The beautiful course on quiet country roads along a river features waterfalls, big trees, and serious hills. **This is a 68-mile, 5 person running team or 24-mile, 4 person walking team.**
 
