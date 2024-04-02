@@ -34,17 +34,7 @@ Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor acti
 
 [**FULL STAFF LIST**](https://www.oregonsadventurecoast.com/staff-directory/)
 
-{{< columns number="3" >}}**Coos Bay Visitor** **Information Center** 50 Central Ave Coos Bay, OR 97420 [Email Us](mailto:info@oregonsadventurecoast.com) (541) 269-0215
-
-Find information, maps, and public restrooms. Open Mon – Fri, 9am-5pm, Sat 10am-2pm. Extended summer hours include Sun 10am-2pm (*Memorial Day – Mid-October*). Our visitor center staff are happy to [mail you visitor information](#contactform) or [relocation information](/relocation-info-request/#relocationform) upon request. divider **North Bend Visitor Information Center** 1380 Sherman Ave North Bend, OR 97459 [Email Us](mailto:nbinfo@northbendcity.org) (541) 756-4613
-
-Find information, maps, public restrooms and public computer. Located adjacent to Simpson Park. Hours vary.
-
-divider
-
-**Charleston Visitor Information Center** 91143 Cape Arago Hwy Charleston, OR 97429 (541) 888-2311
-
-Open Seasonally: May 1st - September 30th{{< /columns >}}
+{{< columns number="3" >}}**Coos Bay Visitor** **Information Center** 50 Central Ave Coos Bay, OR 97420 [Email Us](mailto:info@oregonsadventurecoast.com) (541) 269-0215Find information, maps, and public restrooms. Open Mon – Fri, 9am-5pm, Sat 10am-2pm. Extended summer hours include Sun 10am-2pm (*Memorial Day – Mid-October*). Our visitor center staff are happy to [mail you visitor information](#contactform) or [relocation information](/relocation-info-request/#relocationform) upon request. divider **North Bend Visitor Information Center** 1380 Sherman Ave North Bend, OR 97459 [Email Us](mailto:nbinfo@northbendcity.org) (541) 756-4613Find information, maps, public restrooms and public computer. Located adjacent to Simpson Park. Hours vary.divider**Charleston Visitor Information Center** 91143 Cape Arago Hwy Charleston, OR 97429 (541) 888-2311Open Seasonally: May 1st - September, 10am-2pm Daily{{< /columns >}}
 
 ***Note: please do not use this form for general inquiries or solicitations. Send those inquires to*** [***info@oregonsadventurecoast.com***](mailto:info@oregonsadventurecoast.com)***.***
 
