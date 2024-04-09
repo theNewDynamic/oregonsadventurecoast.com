@@ -1,13 +1,15 @@
 ---
+_schema: default
 title: Relocation Information
+draft: false
+url: /relocation-info-request
 layout: our-area
-url: "/relocation-info-request"
-photo: "/img/our-area-main.jpg"
+photo: /img/our-area-main.jpg
 seo:
-  description: Thinking of moving here? We love when people want to join our community.
-    Request a relocation packet and let us help get you started.
   title: Relocation Information | Oregon's Adventure Coast
-
+  description: >-
+    Thinking of moving here? We love when people want to join our community.
+    Request a relocation packet and let us help get you started.
 ---
 **Oregon’s Adventure Coast**, consisting of Coos Bay, North Bend and Charleston, is truly unique. Our business and professional people accentuate individuality and character. Our retailers strike a balance between distinctively-local shops and nationally-known chains.
 
@@ -21,30 +23,7 @@ We love when people want to join our community. Request a relocation packet and 
 
 We have many entities who are at your service for all your business needs and want to help make you successful.
 
-{{< columns number="2" >}}
-
-[**Bay Area Chamber of Commerce**](http://coosbaynorthbendcharlestonchamber.com)  
-Executive Director: Timm Slater  
-145 Central Ave  
-Coos Bay, OR 97420  
-(541) 266-0868  
-[timmslater@oregonsbayarea.org](mailto:timmslater@oregonsbayarea.org)
-
-divider
-
-[**South Coast Development Council**](https://www.scdcinc.org)
-Regional Business Relocation and Expansion Services
-
-Executive Director: Shaun Gibbs
-
-2110 Newmark Ave
-
-Coos Bay, OR 97420
-
-(541) 808-7774  
-[Shaun@scdcinc.org](mailto:Shaun@scdcinc.org)
-
-{{< /columns >}}
+{{< columns number="2" >}}[**Bay Area Chamber of Commerce**](http://coosbaynorthbendcharlestonchamber.com)  Executive Director: Rosey Thomas 145 Central Ave  Coos Bay, OR 97420  (541) 266-0868  [rosey@oregonsbayarea.org](mailto:rosey@oregonsbayarea.org)divider[**South Coast Development Council**](https://www.scdcinc.org)Regional Business Relocation and Expansion Services Executive Director: Lexie Woodward PO Box 3623  Coos Bay, OR 97420(541) 808-7774  [Lexie@scdcinc.org](mailto:Lexie@scdcinc.org){{< /columns >}}
 
 ### Professional Development/Employee Training Services
 
@@ -58,21 +37,21 @@ The [Southwestern Oregon Community College](https://www.socc.edu) (SWOCC) [Small
 
 {{< columns number="2" >}}
 
-[**Coos Bay Downtown Association**](http://coosbaydowntown.org)  
-Contact: Holly Boardman, Executive Director  
-(541)266-9706  
+[**Coos Bay Downtown Association**](http://coosbaydowntown.org)
+Contact: Holly Boardman, Executive Director
+(541)266-9706
 [director@coosbaydowntown.org](mailto:director@coosbaydowntown.org)
 
 divider
 
-[**Charleston Merchants Association**](https://charlestonoregonmerchants.com)  
-Contact: Tim Hyatt c/o Sunset Bay Golf Course  
+[**Charleston Merchants Association**](https://charlestonoregonmerchants.com)
+Contact: Tim Hyatt c/o Sunset Bay Golf Course
 (541) 888-9301
 
 {{< /columns >}}
 
-<a name="relocationform"></a>
+&nbsp;
 
 ### Relocation Information Request
 
-<script type="text/javascript" src="https://form.jotform.com/jsform/83167269356164"></script>
+&nbsp;
