@@ -23,7 +23,10 @@ We love when people want to join our community. Request a relocation packet and 
 
 We have many entities who are at your service for all your business needs and want to help make you successful.
 
-{{< columns number="2" >}}[**Bay Area Chamber of Commerce**](http://coosbaynorthbendcharlestonchamber.com)  Executive Director: Rosey Thomas 145 Central Ave  Coos Bay, OR 97420  (541) 266-0868  [rosey@oregonsbayarea.org](mailto:rosey@oregonsbayarea.org)divider[**South Coast Development Council**](https://www.scdcinc.org)Regional Business Relocation and Expansion Services Executive Director: Lexie Woodward PO Box 3623  Coos Bay, OR 97420(541) 808-7774  [Lexie@scdcinc.org](mailto:Lexie@scdcinc.org){{< /columns >}}
+{{< columns number="2" >}}
+[**Bay Area Chamber of Commerce**](http://coosbaynorthbendcharlestonchamber.com)<br>Executive Director: Rosey Thomas<br>145 Central Ave<br>Coos Bay, OR 97420<br>(541) 266-0868<br>[rosey@oregonsbayarea.org](mailto:rosey@oregonsbayarea.org)
+divider
+[**South Coast Development Council**](https://www.scdcinc.org)Regional Business Relocation and Expansion Services Executive Director: Lexie Woodward PO Box 3623  Coos Bay, OR 97420(541) 808-7774  [Lexie@scdcinc.org](mailto:Lexie@scdcinc.org){{< /columns >}}
 
 ### Professional Development/Employee Training Services
 
