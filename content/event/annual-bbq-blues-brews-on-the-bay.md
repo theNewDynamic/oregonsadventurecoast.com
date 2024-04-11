@@ -36,7 +36,7 @@ smallboxphoto: /img/bbq-blues-event-small.jpg
 
 Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, May 25-26, 2024 at [**The Mill Casino • Hotel & RV Park**](https://www.themillcasino.com/).
 
-**[Book your room now!](https://oregonsadventurecoast.com/lodging/ "Lodging on Oregon's Adventure Coast!")**
+[**Book your room now!**](https://oregonsadventurecoast.com/lodging/ "Lodging on Oregon's Adventure Coast!")
 
 {{< spacer 50 >}}
 
@@ -72,8 +72,8 @@ NEW AND IMPROVED! At each of the three beer stations guests will be able to buy 
 
 **11th Annual BBQ, Blues & Brews <br>Saturday & Sunday, May 26 – 25, 2024**
 
-**Saturday** <br>12:00 PM – 6:00 PM – Enjoy Vendors, Live Entertainment, Craft Brews, and sample BBQ from competitors\* <br>12:00 PM – 3:00 PM – Live Entertainment: Lisa Mann <br>3:00 PM – 6:00 PM – Live Entertainment: Ben Rice <br>8:00 PM – 11:00 PM – Live Entertainment: 1967 *(Note: Live music moves to Salmon Room East)*
+**Saturday <br>**12:00 PM – 6:00 PM – Enjoy vendors, live entertainment, craft brews and sample BBQ from competitors\* <br>12:00 PM – 3:00 PM – Live entertainment: Gabriel Cox Band <br>3:00 PM – 6:00 PM – Live entertainment: Ms. Vee and Badass Band
 
-**Sunday** <br>12:00 PM – 4:00 PM – Enjoy Vendors, Live Entertainment, Craft Brews, and sample BBQ & Mac ‘N Cheese from competitors <br>12:00 PM – 4:00 PM – Live Entertainment: Ben Rice & Lisa Mann <br>2:00 PM – Jim Monihan Mac ‘N Cheese Challenge <br>4:00 PM – Awards Ceremony – $15,00 in prize money will be awarded to KCBS BBQ competitors, Mac ‘N Cheese winners will be announced!
+**Sunday <br>**12:00 PM – 4:00 PM – Enjoy vendors, live entertainment, craft brews, and sample BBQ & mac ‘n cheese from competitors <br>12:00 PM – 2:00 PM – Live entertainment: Ms. Vee and Badass Band <br>2:00 PM – Jim Monihan Mac ‘N Cheese Challenge <br>2:00 PM – 4:00 PM – Live entertainment: Gabriel Cox Band <br>4:00 PM – Awards ceremony – $15,00 in prize money will be awarded to KCBS BBQ competitors, Mac ‘N Cheese winners will be announced!
 
 *\*ALL SAMPLES AVAILABLE AT FESTIVAL ARE WHILE SUPPLIES LAST*
