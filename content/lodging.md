@@ -25,5 +25,4 @@ You can pick accommodations on the Oregon Coast that will suit your needs and pr
 
 **{{< spacer "30" >}}**
 
-<div><a href="/bake"><img alt="Enter to win our claw-some crab cake bake-off and win a vacation to Oregon's Adventure Coast" src="/img/crab-cake-bake-off-2048x190-2ndannual-03-24.jpg"/></a></div>
-
+<div style="width:100%"><a href="/bake"><img alt="Enter to win our claw-some crab cake bake-off and win a vacation to Oregon's Adventure Coast" src="/img/crab-cake-bake-off-2048x190-2ndannual-03-24.jpg" style='height: 100%; width: 100%; object-fit: contain'/></a></div>
