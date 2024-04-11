@@ -72,8 +72,12 @@ NEW AND IMPROVED! At each of the three beer stations guests will be able to buy 
 
 **11th Annual BBQ, Blues & Brews <br>Saturday & Sunday, May 26 – 25, 2024**
 
-**Saturday <br>**12:00 PM – 6:00 PM – Enjoy vendors, live entertainment, craft brews and sample BBQ from competitors\* <br>12:00 PM – 3:00 PM – Live entertainment: Gabriel Cox Band <br>3:00 PM – 6:00 PM – Live entertainment: Ms. Vee and Badass Band
+**Saturday**
 
-**Sunday <br>**12:00 PM – 4:00 PM – Enjoy vendors, live entertainment, craft brews, and sample BBQ & mac ‘n cheese from competitors <br>12:00 PM – 2:00 PM – Live entertainment: Ms. Vee and Badass Band <br>2:00 PM – Jim Monihan Mac ‘N Cheese Challenge <br>2:00 PM – 4:00 PM – Live entertainment: Gabriel Cox Band <br>4:00 PM – Awards ceremony – $15,00 in prize money will be awarded to KCBS BBQ competitors, Mac ‘N Cheese winners will be announced!
+12:00 PM – 6:00 PM – Enjoy vendors, live entertainment, craft brews and sample BBQ from competitors\* <br>12:00 PM – 3:00 PM – Live entertainment: Gabriel Cox Band <br>3:00 PM – 6:00 PM – Live entertainment: Ms. Vee and Badass Band
+
+**Sunday**
+
+12:00 PM – 4:00 PM – Enjoy vendors, live entertainment, craft brews, and sample BBQ & mac ‘n cheese from competitors <br>12:00 PM – 2:00 PM – Live entertainment: Ms. Vee and Badass Band <br>2:00 PM – Jim Monihan Mac ‘N Cheese Challenge <br>2:00 PM – 4:00 PM – Live entertainment: Gabriel Cox Band <br>4:00 PM – Awards ceremony – $15,00 in prize money will be awarded to KCBS BBQ competitors, Mac ‘N Cheese winners will be announced!
 
 *\*ALL SAMPLES AVAILABLE AT FESTIVAL ARE WHILE SUPPLIES LAST*
