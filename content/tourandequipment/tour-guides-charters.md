@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Tour Guides & Charters
-draft: true
+title: Lucky Landings Guide Service
+draft: false
 property_description: >-
   Offering customized fishing tours that cater to your preferences and
   requirements. Whether you're a beginner or an experienced angler, they have
@@ -10,6 +10,7 @@ property_description: >-
 property_name: Lucky Landings Guide Service
 equip_type:
   - Tour
+  - Equipment
 photo_name: /img/lucky-landing33-listingsize.jpg
 photo_alt: >-
   man wearing sunglasses and yellow sweatshirt holding up a giant halibut while
