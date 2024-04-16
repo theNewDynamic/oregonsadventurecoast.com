@@ -16,17 +16,25 @@ Iciaeptat et faccabore sequibus repudicae nonseque illuptias dit et aliatatem co
 
 ![City of Coos Bay 150th Celebration Events Header](/img/event-celebrations-695x125.jpg)
 
+Iciaeptat et faccabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit
+
+{{< spacer "50" >}}
+
 ![](/img/fireworks.jpg)
 
 ### Event Number 01
 
 *Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
 
+{{< spacer "30" >}}
+
 ![](/img/parade.jpg)
 
 ### Event Number 02
 
 *Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
+
+{{< spacer "30" >}}
 
 ![](/img/orchestra.jpg)
 
