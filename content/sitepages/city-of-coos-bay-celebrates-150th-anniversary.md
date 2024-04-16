@@ -10,37 +10,57 @@ photo: /img/coos-bay-celebration-150th-2048x530.jpg
 
 {{< spacer "50" >}}
 
-## Title Here for the Upcoming Events
+## A Summer of Celebration for the City's 150th Birthday!
 
-Nonse evene quatessintia neces que quas ut et aut quunt, cusdaessin ra voluptatur sum evendae volecea solupti dolorem pellest ruptati orporit utem ipitiis mi, volor maioreperum quam namet que re voluptature voluptatia iusandust, sit ut aut vit, sitasped mint velesti squatem olupta velecerciet re consequ ationes sumquod ignisciendam que res rem quid ut quis sequi cus eaquae delest et repelles ex eveles maio vollat.
-
-Iciaeptat et faccabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nos quam rest laborer ferrorio cum aut omnis rentur acest, cusam dolorum vellacepe verum verem quame aut volorit et et, to de as acea ipsandis volor as et aliciis esciden derumqui arcitas persped utat quo in re debit quam nimolor eriaera vent, officietusa venecto tatemque dolorrume et ulparum iditati busdamus.
+**The City of Coos Bay turns 150 this year.** The official term for this is Sesquicentennial but we're just calling it a Big Party - all summer long! From May to October, events happening all over the city will be part of the big birthday celebration. And it all culminates with a **Block Party Bash** the weekend of the City's official birthday, **Saturday, October 26th**. More info on that below!
 
 {{< spacer "30" >}}
 
 ![City of Coos Bay 150th Celebration Events Header](/img/event-celebrations-695x125.jpg)
 
-Iciaeptat et faccabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit
+The Events below are all proudly part of the **City's Summer of Celebration**. We hope you will attend some, or all, of these great events! And don't miss the **Block Party on October 26th**.
 
 {{< spacer "50" >}}
 
 ![](/img/fireworks.jpg)
 
-### Event Number 01
+### July 4th Celebration and Fireworks
 
-*Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
+*July 4th \| All Day & Evening \| Mingus Park and Boardwalk*<br>*More Details coming soon.* Full day of events in Mingus Park including fishing, a fun run, family fun events and more. Annual Fireworks Display over the Bay begins at dark.
 
 {{< spacer "30" >}}
 
 ![](/img/parade.jpg)
 
-### Event Number 02
+### July Fun Events
 
-*Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
+*July 5 \| 5:00pm-7:00pm \| Downtown and Coos Bay Village*<br>The **July Wine Walk** features a special 150th Birthday etched wine glass, while supplies last! Begin at the Coos Bay Visitor Center or Checkerberries. For a $10 donation, receive a glass, a map and a wristband.
+
+*July 6 \| TBD \| Downtown Coos Bay*<br>New this year, the Coos Bay Downtown Association brings you a **Bloody Mary Walk**! Visit local businesses to pick up each ingredient for a great Bloody Mary. More information coming soon!
+
+*July 6 \| TBD \| Egyptian Theatre*<br>Join our friends at The Historic Egyptian Theatre and the Coos Bay Downtown Association for a special **Film Presentation of Historic Coos Bay**. More details coming soon.
+
+*July 13-27 \| Various \| Various*<br>The **Oregon Coast Music Festival** is proud to be part of the 150th Birthday Celebration! This annual event features a variety of concerts at venues all over Coos Bay and Charleston. Visit the [OCMF Event Page](https://www.oregonsadventurecoast.com/event/annual-oregon-coast-music-festival/) for Details!
 
 {{< spacer "30" >}}
 
 ![](/img/orchestra.jpg)
+
+### August Fun Events
+
+*August  \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
+
+*Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et
+
+*Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et
+
+*Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et
+
+### Blackberry Arts Festival
+
+*Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
+
+&nbsp;
 
 ### Event Number 03
 

@@ -1,15 +1,14 @@
 ---
 _schema: default
 title: July 3rd & 4th Fireworks Over The Bay
-startdate: '2023-07-03'
-enddate: '2023-07-04'
+startdate: '2024-07-03'
+enddate: '2024-07-04'
 address:
+  city: ''
   street: ''
   street2: ''
-  city: ''
   zip: ''
 phone_local: (541) 269-0215
-website: http://www.oregonsadventurecoast.com
 desktoptitle: July 3rd & 4th Celebrations
 mobiletitle: July 3rd & 4th Celebrations
 hovertitle: July 3rd & 4th Celebrations
@@ -36,17 +35,17 @@ photo_alt: Fireworks over Coos Bay
 
 {{< spacer 15 >}}
 
-Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [The Mill Casino](https://www.themillcasino.com/)will light up the skies over the Bay with this year's waterfront fireworks display.
+Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [The Mill Casino](https://www.themillcasino.com/) will light up the skies over the Bay with this year's waterfront fireworks display.
 
 **The fireworks display will be located in front of The Mill Casino, but can be seen from just about anywhere along the Bay!**
 
-**The 20-minute fireworks show commences at 10pm** but, before the fireworks, there is a whole festival event happening!!
+**The 20-minute fireworks show commences at 10pm** but, before the fireworks, there is more to enjoy!!
 
 {{< spacer 15 >}}
 
-#### **5:00 &nbsp;PM – 10:00 &nbsp;PM Enjoy Music and Food! North Parking Lot**
+#### **6:00 &nbsp;PM – 10:00 &nbsp;PM Food & Beer Garden! North Parking Lot**
 
-5 PM – 10 PM – Food Trucks,&nbsp;**Mill Grill, Muncheria, West Coast Bitez**, plus Beer & Wine also available<br>6 PM – 8 PM – LIVE MUSIC With **The KOZ**<br>8 PM – 10 PM – LIVE MUSIC With **Code Red**<br>10 PM – BLAST BY THE BAY - **Fireworks Extravaganza**
+6 PM – 10 PM – Enjoy a la carte food and beer offerings in the North Parking Lot of The Mill<br>10 PM – BLAST BY THE BAY - **Fireworks Extravaganza**
 
 {{< spacer 50 >}}
 
@@ -78,9 +77,9 @@ Join fellow runners and walkers for the 1/2-mile kid’s run and the 4K for grow
 
 **10:00am** – 1/2 mile kid’s run – **Free!**
 
-**10:20am** (or whenever the kid’s run is over) – 4K Grown-up Run/Walk
+**10:15am** (or whenever the kid’s run is over) – 4K Grown-up Run/Walk
 
-* **Free** for South Coast Running Club members, but please [sign up online](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark)to help make race morning less crazy!
+* **Free** for South Coast Running Club members, but please [sign up online](https://southcoastrunningclub.org/mayors-firecracker-run/)to help make race morning less crazy!
 * **$10** for non-members. [Register online](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark). [Become a member and race for free!](https://southcoastrunningclub.org/membership/)
 
 {{< spacer 15 >}}
@@ -91,7 +90,7 @@ Join fellow runners and walkers for the 1/2-mile kid’s run and the 4K for grow
 
 #### **Mingus Park Fun - July 4th**
 
-Spend the day with family and friends in Coos Bay's beautiful Mingus Park with these great family friendly events - Boy Scouts’ fundraiser hamburger stand, Coos County Posse and their horses, Coos Forest Protective Association with Smokey the Bear, ODF&W fishing, Front Street Community Bike Works, and many others. Mingus Park Pool will have free swimming from 2-4pm. And to finish the day, Coos Bay Fire Department will be shooting off fireworks of the bay at dusk. For more information, please call 541-269-1101 x 3631.&nbsp;
+Spend the day with family and friends in Coos Bay's beautiful Mingus Park. More information coming soon!&nbsp;
 
 {{< spacer 25 >}}
 
