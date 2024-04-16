@@ -46,13 +46,17 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 ![](/img/orchestra.jpg)
 
-### Event Number 03
+### August Fun Events
 
-*Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
+*August  \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
 
-&nbsp;
+*Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et
 
-### Event Number 03
+*Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et
+
+*Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et
+
+### Blackberry Arts Festival
 
 *Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
 
