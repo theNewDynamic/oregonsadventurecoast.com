@@ -76,14 +76,20 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 Thousands of locals and visitors from afar come to enjoy the sights, sounds, and tastes of beautiful downtown Coos Bay and surrounding areas for this popular festival. Highlights include live entertainment, the famous [Cruz the Coos](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/) featuring nearly 500 vintage automobiles, the [Prefontaine Memorial Run](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/), Live Music, the BAFF parade, and much more!
 
+{{< spacer "30" >}}
+
+### October Fun Events
+
+*October 17 \| 6-7pm \| Coos History Museum*<br>Coos History Museum brings us a **Special Thursday Speaker Series** for the 150th Birthday! The October program features **Tribal History**.
+
+{{< spacer "30" >}}
+
+### 150th Birthday BLOCK PARTY!
+
+*October 26 \| Time TBD \| Coos Bay Village, Coos History Museum and Front Street*<br>Join us for a blowout **Birthday Party to celebrate Coos Bay's Sesquicentennial**. There will be music, activities for the whole family, and of course, birthday cupcakes! More details coming soon.
+
 &nbsp;
 
-### Event Number 03
-
-*Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
-
 &nbsp;
 
-### Event Number 03
-
-*Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
+###
