@@ -36,9 +36,9 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *July 5 \| 5:00pm-7:00pm \| Downtown and Coos Bay Village*<br>The **July Wine Walk** features a special 150th Birthday etched wine glass, while supplies last! Begin at the Coos Bay Visitor Center or Checkerberries. For a $10 donation, receive a glass, a map and a wristband.
 
-*July 6 \| TBD \| Downtown Coos Bay*<br>New this year, the Coos Bay Downtown Association brings you a **Bloody Mary Walk**! Visit local businesses to pick up each ingredient for a great Bloody Mary. More information coming soon!
+*July 6 \| TBD \| Downtown Coos Bay*<br>New this year, the **Coos Bay Downtown Association** brings you a **Bloody Mary Walk**! Visit local businesses to pick up each ingredient for a great Bloody Mary. More information coming soon!
 
-*July 6 \| TBD \| Egyptian Theatre*<br>Join our friends at The Historic Egyptian Theatre and the Coos Bay Downtown Association for a special **Film Presentation of Historic Coos Bay**. More details coming soon.
+*July 6 \| TBD \| Egyptian Theatre*<br>Join our friends at **The Historic Egyptian Theatre and the Coos Bay Downtown Association** for a special **Film Presentation of Historic Coos Bay**. More details coming soon.
 
 *July 13-27 \| Various \| Various*<br>The **Oregon Coast Music Festival** is proud to be part of the 150th Birthday Celebration! This annual event features a variety of concerts at venues all over Coos Bay and Charleston. Visit the [OCMF Event Page](https://www.oregonsadventurecoast.com/event/annual-oregon-coast-music-festival/) for Details!
 
@@ -52,9 +52,9 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *August  6 \| 6-9pm \| Ed Lund Park in Empire and Location TBD in Eastside*<br>**National Night Out** is an annual community-building campaign that promotes police-community partnerships and neighborhood camaraderie to make our neighborhoods safer, more caring places to live. Furthermore, it provides a great opportunity to bring police and neighbors together under positive circumstances. Events are scheduled for both Empire and Eastside this year.
 
-*August 11 \| Time TBD \| Coos Art Museum*<br>The Coos Art Museum proudly celebrates its **40th Anniversary** in the repurposed Art Deco post office located at 235 Anderson Ave, downtown Coos Bay. After its founding in the 1950s, CAM opened its doors at this location in 1984. Join us on August 11 for our special **Second Sunday Program**, featuring birthday cake and a host of art activities suitable for the whole family. This celebration, like all CAM Second Sunday events, is free and open to all.
+*August 11 \| 11am-5pm \| Coos Art Museum*<br>The **Coos Art Museum** proudly celebrates its **40th Anniversary** in the repurposed Art Deco post office located at 235 Anderson Ave, downtown Coos Bay. Viewable all day will be a Museum History poster exhibit and a Maritime Art History exhibit. Take a polaroid picture for the community wall and make CAM buttons throughout the day. From 1pm-4pm is the official Birthday Party Open House. At 1:30pm will be a cake cutting and at 2pm will be a Memories of the Museum talk.
 
-*August 15 \| 6-7pm \| Coos History Museum*<br>Coos History Museum brings us a **Special Thursday Speaker Series** for the 150th Birthday! The August program features **Steve Greif on the Development of Marshfield**.
+*August 15 \| 6-7pm \| Coos History Museum*<br>**Coos History Museum** brings us a **Special Thursday Speaker Series** for the 150th Birthday! The August program features **Steve Greif on the Development of Marshfield**.
 
 {{< spacer "30" >}}
 
