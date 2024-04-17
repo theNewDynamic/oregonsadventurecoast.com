@@ -9,7 +9,7 @@ address:
   street: 50 Central Ave.
   zip: 97420
 phone_local: (541) 266-9706
-website: https://bayareafunfestival.com/
+website: https://coosbaydowntown.com/bay-area-fun-festival/
 desktoptitle: Bay Area Fun Festival
 mobiletitle: Bay Area Fun Festival
 hovertitle: Annual Bay Fun Fun Festival
