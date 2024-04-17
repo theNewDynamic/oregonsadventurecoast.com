@@ -6,8 +6,8 @@ title: >-
 draft: false
 date: 2024-04-09T12:00:00-07:00
 description: >-
-  *Annual “finger-lickin’ good” food festival at The Mill Casino features music,
-  fun, brews, and plenty of delicious BBQ May 25-26, 2024!*
+  Annual “finger-lickin’ good” food festival at The Mill Casino features music,
+  fun, brews, and plenty of delicious BBQ May 25-26, 2024!
 
 
   <br>
