@@ -36,9 +36,9 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *July 5 \| 5:00pm-7:00pm \| Downtown and Coos Bay Village*<br>The **July Wine Walk** features a special 150th Birthday etched wine glass, while supplies last! Begin at the Coos Bay Visitor Center or Checkerberries. For a $10 donation, receive a glass, a map and a wristband.
 
-*July 6 \| TBD \| Downtown Coos Bay*<br>New this year, the Coos Bay Downtown Association brings you a **Bloody Mary Walk**! Visit local businesses to pick up each ingredient for a great Bloody Mary. More information coming soon!
+*July 6 \| TBD \| Downtown Coos Bay*<br>New this year, the **Coos Bay Downtown Association** brings you a **Bloody Mary Walk**! Visit local businesses to pick up each ingredient for a great Bloody Mary. More information coming soon!
 
-*July 6 \| TBD \| Egyptian Theatre*<br>Join our friends at The Historic Egyptian Theatre and the Coos Bay Downtown Association for a special **Film Presentation of Historic Coos Bay**. More details coming soon.
+*July 6 \| TBD \| Egyptian Theatre*<br>Join our friends at **The Historic Egyptian Theatre and the Coos Bay Downtown Association** for a special **Film Presentation of Historic Coos Bay**. More details coming soon.
 
 *July 13-27 \| Various \| Various*<br>The **Oregon Coast Music Festival** is proud to be part of the 150th Birthday Celebration! This annual event features a variety of concerts at venues all over Coos Bay and Charleston. Visit the [OCMF Event Page](https://www.oregonsadventurecoast.com/event/annual-oregon-coast-music-festival/) for Details!
 
@@ -52,9 +52,9 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *August  6 \| 6-9pm \| Ed Lund Park in Empire and Location TBD in Eastside*<br>**National Night Out** is an annual community-building campaign that promotes police-community partnerships and neighborhood camaraderie to make our neighborhoods safer, more caring places to live. Furthermore, it provides a great opportunity to bring police and neighbors together under positive circumstances. Events are scheduled for both Empire and Eastside this year.
 
-*August 11 \| Time TBD \| Coos Art Museum*<br>The Coos Art Museum proudly celebrates its **40th Anniversary** in the repurposed Art Deco post office located at 235 Anderson Ave, downtown Coos Bay. After its founding in the 1950s, CAM opened its doors at this location in 1984. Join us on August 11 for our special **Second Sunday Program**, featuring birthday cake and a host of art activities suitable for the whole family. This celebration, like all CAM Second Sunday events, is free and open to all.
+*August 11 \| 11am-5pm \| Coos Art Museum*<br>The **Coos Art Museum** proudly celebrates its **40th Anniversary** in the repurposed Art Deco post office located at 235 Anderson Ave, downtown Coos Bay. Viewable all day will be a Museum History poster exhibit and a Maritime Art History exhibit. Take a polaroid picture for the community wall and make CAM buttons throughout the day. From 1pm-4pm is the official Birthday Party Open House. At 1:30pm will be a cake cutting and at 2pm will be a Memories of the Museum talk.
 
-*August 15 \| 6-7pm \| Coos History Museum*<br>Coos History Museum brings us a **Special Thursday Speaker Series** for the 150th Birthday! The August program features **Steve Greif on the Development of Marshfield**.
+*August 15 \| 6-7pm \| Coos History Museum*<br>**Coos History Museum** brings us a **Special Thursday Speaker Series** for the 150th Birthday! The August program features **Steve Greif on the Development of Marshfield**.
 
 {{< spacer "30" >}}
 
@@ -72,16 +72,24 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 ### Bay Area Fun Festival
 
-*September 21-22 \| Time \| Downtown Coos Bay*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
+*September 21-22 \| Time \| Downtown Coos Bay*<br>What began as the celebration of Coos Bay's 100th Birthday, has now become the Last Great Party of the Summer! The [**Bay Area Fun Festival**](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) happens in Downtown Coos Bay and surrounding areas on the third weekend in September!
+
+Thousands of locals and visitors from afar come to enjoy the sights, sounds, and tastes of beautiful downtown Coos Bay and surrounding areas for this popular festival. Highlights include live entertainment, the famous [Cruz the Coos](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/) featuring nearly 500 vintage automobiles, the [Prefontaine Memorial Run](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/), Live Music, the BAFF parade, and much more!
+
+{{< spacer "30" >}}
+
+### October Fun Events
+
+*October 17 \| 6-7pm \| Coos History Museum*<br>Coos History Museum brings us a **Special Thursday Speaker Series** for the 150th Birthday! The October program features **Tribal History**.
+
+{{< spacer "30" >}}
+
+### 150th Birthday BLOCK PARTY!
+
+*October 26 \| Time TBD \| Coos Bay Village, Coos History Museum and Front Street*<br>Join us for a blowout **Birthday Party to celebrate Coos Bay's Sesquicentennial**. There will be music, activities for the whole family, and of course, birthday cupcakes! More details coming soon.
 
 &nbsp;
 
-### Event Number 03
-
-*Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
-
 &nbsp;
 
-### Event Number 03
-
-*Date \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
+###
