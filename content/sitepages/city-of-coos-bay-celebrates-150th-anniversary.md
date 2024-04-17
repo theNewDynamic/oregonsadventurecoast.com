@@ -42,7 +42,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *July 13-27 \| Various \| Various*<br>The **Oregon Coast Music Festival** is proud to be part of the 150th Birthday Celebration! This annual event features a variety of concerts at venues all over Coos Bay and Charleston. Visit the [OCMF Event Page](https://www.oregonsadventurecoast.com/event/annual-oregon-coast-music-festival/) for Details!
 
-*July 12,13,14 and 19,20,21 \| 7pm \| The Dolphin Playhouse*<br>The [Dolphin Playhouse](https://thedolphinplayhouse.com/) presents ***"The Hollering Place Radio Show- Celebrating the 150 Year History of Coos Bay"*** for six performances. This original script will be performed by local talent.
+*July 12,13,14 and 19,20,21 \| Friday-Saturday 7pm, Sunday 2pm \| The Dolphin Playhouse*<br>The [Dolphin Playhouse](https://thedolphinplayhouse.com/) presents ***"The Hollering Place Radio Show- Celebrating the 150 Year History of Coos Bay"*** for six performances. This original script will be performed by local talent.
 
 {{< spacer "30" >}}
 
