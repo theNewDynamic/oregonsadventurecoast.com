@@ -72,7 +72,9 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 ### Bay Area Fun Festival
 
-*September 21-22 \| Time \| Downtown Coos Bay*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
+*September 21-22 \| Time \| Downtown Coos Bay*<br>What began as the celebration of Coos Bay's 100th Birthday, has now become the Last Great Party of the Summer! The [**Bay Area Fun Festival**](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) happens in Downtown Coos Bay and surrounding areas on the third weekend in September!
+
+Thousands of locals and visitors from afar come to enjoy the sights, sounds, and tastes of beautiful downtown Coos Bay and surrounding areas for this popular festival. Highlights include live entertainment, the famous [Cruz the Coos](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/) featuring nearly 500 vintage automobiles, the [Prefontaine Memorial Run](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/), Live Music, the BAFF parade, and much more!
 
 &nbsp;
 
