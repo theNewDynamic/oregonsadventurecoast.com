@@ -68,13 +68,11 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *September 19 \| 6-7pm \| Coos History Museum*<br>Coos History Museum brings us a **Special Thursday Speaker Series** for the 150th Birthday! The September program features **The Story of Eastside and Empire**
 
-*September 28 \| Time TBD\| Coos History Museum*<br>Our friends at the **South Slough National Estuarine Research Center** celebrate their **50th Anniversary** with a celebration at the Coos History Museum. More details coming soon.
-
 {{< spacer "30" >}}
 
 ### Bay Area Fun Festival
 
-*September 21-22 \| Time \| Location*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
+*September 21-22 \| Time \| Downtown Coos Bay*<br>abore sequibus repudicae nonseque illuptias dit et aliatatem conse nus recto omnihic temquat dolligenim cuptae sitibus dantiun temquia enimi, simaiossimus et et es et quidero rehenes earcid que sit, il maximin verrovidis qui beribus dolorio ma nosabore sequibus repudicae nonseque illuptias dit et aliatatem conse nus.
 
 &nbsp;
 

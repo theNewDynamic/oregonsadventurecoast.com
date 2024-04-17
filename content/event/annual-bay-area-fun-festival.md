@@ -27,7 +27,7 @@ aliases:
 
 #### **The Bay Area Fun Festival - the last big party of the summer - will happen September 21-22, 2024!**
 
-As Summer winds down, the fun is just beginning here on the South Coast! [**The Bay Area Fun Festival**](https://bayareafunfestival.com/), also known as the greatest last party of the summer, happens here in Coos Bay and surrounding areas on the third weekend in September!
+As Summer winds down, the fun is just beginning here on the South Coast! [**The Bay Area Fun Festival**](https://coosbaydowntown.com/bay-area-fun-festival/), also known as the greatest last party of the summer, happens here in Coos Bay and surrounding areas on the third weekend in September!
 
 Thousands of locals and visitors from afar come to enjoy the sights, sounds, and tastes of beautiful downtown Coos Bay and surrounding areas for this popular festival. Highlights include live entertainment, the famous **Cruz the Coos** featuring nearly 500 vintage automobiles, the **Prefontaine Memorial Run**, **Live Music**, the BAFF parade, and much more!
 
