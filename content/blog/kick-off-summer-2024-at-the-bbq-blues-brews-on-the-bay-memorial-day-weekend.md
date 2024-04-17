@@ -8,9 +8,6 @@ date: 2024-04-09T12:00:00-07:00
 description: >-
   Annual “finger-lickin’ good” food festival at The Mill Casino features music,
   fun, brews, and plenty of delicious BBQ May 25-26, 2024!
-
-
-  <br>
 image: >-
   /img/kick-off-summer-2024-at-the-bbq-blues-brews-on-the-bay-blog-695x322-jpg-1.jpg
 tags:
@@ -28,8 +25,6 @@ categories:
   - Local Food & Drink
 warning: false
 ---
-&nbsp;
-
 *Annual “finger-lickin’ good” food festival at The Mill Casino features music, fun, brews, and plenty of delicious BBQ May 25-26, 2024!*
 
 Pack your bags and [book your stay](https://www.oregonsadventurecoast.com/lodging/), because you'll want to head to **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston** this Memorial Day Weekend! For the 11th year, food lovers from around the region are invited to come celebrate the start of summer with music, craft brews, and of course, delicious BBQ at the annual [BBQ, Blues & Brews on the Bay](https://www.oregonsadventurecoast.com/event/annual-bbq-blues-brews-on-the-bay/)!
