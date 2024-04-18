@@ -78,6 +78,16 @@ Home of the Little Theatre on the Bay – Famed for their little Ole Opry perfor
 
 Constructed in 1925, The Egyptian Theatre is a center for community events. The theatre is listed on the National Register of Historic Places and boasts one of the only remaining operable Wurlitzer Organs in the state. Movie events and fundraisers are the weekly fare, but the theatre is also available for private events and screenings. Live music is featured on occasion, as well as beer and movie nights. With a new 4K projection system and top-notch surround sound, you can experience a theatre with 90 years of memories with modern amenities! [Visit The Egyptian Theatre website for more information.](http://egyptiantheatreoregon.com)
 
+{{< spacer "50" >}}
+
+{{< floatimage src="/img/dolphin-cropped.jpg" float="left" alt="The Dolphin Playhouse cast on stage." size="40" >}}
+
+#### **The Dolphin Playhouse**
+
+The Dolphin Playhouse is home of the Dolphin Players who produce six to seven full productions every year in an intimate setting. The theatre also offers classes and provides meeting space in the Empire District of Coos Bay. <a href="https://thedolphinplayhouse.com/" target="_blank" rel="noopener">Visit the Dolphin Playhouse website for more information</a>.
+
+&nbsp;
+
 <div class="clearfix"></div>
 
 ### Explore our Trip Ideas!
