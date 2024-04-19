@@ -72,6 +72,8 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 ### September Fun Events
 
+*September 6 \| TBD \| Dolphin Playhouse Parking Lot*<br>Join area non-profit organizations for a special fundraiser, the **Non-Profit Parking Lot Sale** held each year in the parking lot of The Dolphin Playhouse in Empire.
+
 *September 19 \| 6-7pm \| Coos History Museum*<br>Coos History Museum brings us a **Special Thursday Speaker Series** for the 150th Birthday! The September program features **The Story of Eastside and Empire**
 
 {{< spacer "30" >}}
