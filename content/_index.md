@@ -9,10 +9,16 @@ slideshow:
     url: /event/annual-bbq-blues-brews-on-the-bay/
     video:
   - title:
-    photo: /img/summer-getaway-dunes-home-slider.jpg
+    photo: /img/summer-getaway-beach-home-slider.jpg
     title_mobile:
     photo_mobile:
-    url: /atv-motorsports
+    url: /undeveloped-beaches
+    video:
+  - title:
+    photo: /img/summer-getaway-2023-home-slider.jpg
+    title_mobile:
+    photo_mobile:
+    url: /events
     video:
   - title:
     photo: /img/summer-getaway-biker-home-slider.jpg
@@ -21,10 +27,10 @@ slideshow:
     url: /cycling
     video:
   - title:
-    photo: /img/spring-adv-fishing-hm-slider.jpg
+    photo: /img/summer-getaway-dunes-home-slider.jpg
     title_mobile:
     photo_mobile:
-    url: /fishing
+    url: /atv-motorsports
     video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
