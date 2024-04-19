@@ -9,7 +9,7 @@ slideshow:
     url: /event/annual-bbq-blues-brews-on-the-bay/
     video:
   - title:
-    photo: /img/spring-adv-dunes-hm-slider.jpg
+    photo: /img/summer-getaway-dunes-home-slider.jpg
     title_mobile:
     photo_mobile:
     url: /atv-motorsports
