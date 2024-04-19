@@ -3,10 +3,10 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
-    photo: /img/spring-adv-biking-hm-slider.jpg
+    photo: /img/bbq-blues-brews-hm-slider-2048x850.jpg
     title_mobile:
-    photo_mobile: /img/spring-adv-mobile-slider-hm.jpg
-    url: /cycling
+    photo_mobile: /img/bbq-blues-brews-mobile-hm-512x320.jpg
+    url: /event/annual-bbq-blues-brews-on-the-bay/
     video:
   - title:
     photo: /img/spring-adv-dunes-hm-slider.jpg
