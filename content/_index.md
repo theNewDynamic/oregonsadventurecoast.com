@@ -15,10 +15,10 @@ slideshow:
     url: /atv-motorsports
     video:
   - title:
-    photo: /img/spring-adv-hiking-hm-slider.jpg
+    photo: /img/summer-getaway-biker-home-slider.jpg
     title_mobile:
     photo_mobile:
-    url: /hiking-walking
+    url: /cycling
     video:
   - title:
     photo: /img/spring-adv-fishing-hm-slider.jpg
