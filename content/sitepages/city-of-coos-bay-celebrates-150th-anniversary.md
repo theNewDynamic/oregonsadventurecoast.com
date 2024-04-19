@@ -22,6 +22,12 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 {{< spacer "50" >}}
 
+### Mayfly Festival
+
+*May 18 \| 11am-3pm \| Mingus Park*<br>The **Mayfly Festival** is designed to shed light on the connections between community, the environment, and water. This is a free, all-ages, hands-on celebration of watershed ecology and inter-connectedness through activities, games, live music, science, and art! At the Mayfly Festival, you can dance to some good music, make a costume, join a parade around the pond, dip a net into the Mingus Pond to see what lives there, and learn about fish, insects, plants, compost, marine debris, gardening, the connections between human health and environmental health, and so much more! The Mayfly Festival is a [Coos Watershed Association](https://www.facebook.com/cooswa) annual event.
+
+{{< spacer "30" >}}
+
 ![](/img/fireworks.jpg)
 
 ### July 4th Celebration and Fireworks
@@ -42,7 +48,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *July 13-27 \| Various \| Various*<br>The **Oregon Coast Music Festival** is proud to be part of the 150th Birthday Celebration! This annual event features a variety of concerts at venues all over Coos Bay and Charleston. Visit the [OCMF Event Page](https://www.oregonsadventurecoast.com/event/annual-oregon-coast-music-festival/) for Details!
 
-*July 12,13,14 and 19,20,21 \| Friday-Saturday 7pm, Sunday 2pm \| The Dolphin Playhouse*<br>The [Dolphin Playhouse](https://thedolphinplayhouse.com/) presents ***"The Hollering Place Radio Show- Celebrating the 150 Year History of Coos Bay"*** for six performances. This original script will be performed by local talent.
+*July 12,13,14 and 19,20,21 \| Friday-Saturday 7pm, Sunday 2pm \| The Dolphin Playhouse*<br>The [Dolphin Playhouse](https://thedolphinplayhouse.com/) presents ***"The Hollering Place Radio Show- Celebrating the 150 Year History of Coos Bay"***  for six performances. This original script will be performed by local talent.
 
 {{< spacer "30" >}}
 
@@ -50,7 +56,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 ### August Fun Events
 
-*August  6 \| 6-9pm \| Ed Lund Park in Empire and Location TBD in Eastside*<br>**National Night Out** is an annual community-building campaign that promotes police-community partnerships and neighborhood camaraderie to make our neighborhoods safer, more caring places to live. Furthermore, it provides a great opportunity to bring police and neighbors together under positive circumstances. Events are scheduled for both Empire and Eastside this year.
+*August  6 \| 6-9pm \| Ed Lund Park in Empire and Eastside Park in Eastside*<br>**National Night Out** is an annual community-building campaign that promotes police-community partnerships and neighborhood camaraderie to make our neighborhoods safer, more caring places to live. Furthermore, it provides a great opportunity to bring police and neighbors together under positive circumstances. Events are scheduled for both Empire and Eastside this year.
 
 *August 11 \| 11am-5pm \| Coos Art Museum*<br>The **Coos Art Museum** proudly celebrates its **40th Anniversary** in the repurposed Art Deco post office located at 235 Anderson Ave, downtown Coos Bay. Viewable all day will be a Museum History poster exhibit and a Maritime Art History exhibit. Take a polaroid picture for the community wall and make CAM buttons throughout the day. From 1pm-4pm is the official Birthday Party Open House. At 1:30pm will be a cake cutting and at 2pm will be a Memories of the Museum talk.
 
@@ -86,7 +92,7 @@ Thousands of locals and visitors from afar come to enjoy the sights, sounds, and
 
 ### 150th Birthday BLOCK PARTY!
 
-*October 26 \| Time TBD \| Coos Bay Village, Coos History Museum and Front Street*<br>Join us for a blowout **Birthday Party to celebrate Coos Bay's Sesquicentennial**. There will be music, activities for the whole family, and of course, birthday cupcakes! More details coming soon.
+*October 26 \| Time TBD \| Coos Bay Village, Coos History Museum and Front Street*<br>Join us for a blowout **Birthday Party to celebrate Coos Bay's Sesquicentennial**. There will be music, activities for the whole family, and of course, birthday cupcakes! *More details coming soon.*
 
 &nbsp;
 
