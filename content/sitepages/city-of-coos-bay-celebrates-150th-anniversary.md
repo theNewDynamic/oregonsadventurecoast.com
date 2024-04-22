@@ -28,7 +28,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *May 18 \| 11am-3pm \| Mingus Park*<br>The **Mayfly Festival** is designed to shed light on the connections between community, the environment, and water. This is a free, all-ages, hands-on celebration of watershed ecology and inter-connectedness through activities, games, live music, science, and art! At the Mayfly Festival, you can dance to some good music, make a costume, join a parade around the pond, dip a net into the Mingus Pond to see what lives there, and learn about fish, insects, plants, compost, marine debris, gardening, the connections between human health and environmental health, and so much more! The Mayfly Festival is a [Coos Watershed Association](https://www.facebook.com/cooswa) annual event.
 
-{{< spacer "30" >}}
+{{< spacer "50" >}}
 
 ![fireworks for july 4th celebration](/img/fireworks-01-695x125.jpg)
 
@@ -36,7 +36,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *July 4th \| All Day & Evening \| Mingus Park and Boardwalk*<br>*More Details coming soon.* Full day of events in Mingus Park including fishing, a fun run, family fun events and more. Annual Fireworks Display over the Bay begins at dark.
 
-{{< spacer "30" >}}
+{{< spacer "50" >}}
 
 ![Couple holding wine glasses for wine walk and orchestra playing at the Oregon Coast Music Festival](/img/wine-walk-and-orchestra-695x125.jpg)
 
@@ -52,7 +52,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *July 12,13,14 and 19,20,21 \| Friday-Saturday 7pm, Sunday 2pm \| The Dolphin Playhouse*<br>The [Dolphin Playhouse](https://thedolphinplayhouse.com/) presents ***"The Hollering Place Radio Show- Celebrating the 150 Year History of Coos Bay"***  for six performances. This original script will be performed by local talent.
 
-{{< spacer "30" >}}
+{{< spacer "50" >}}
 
 ![painting artwork coos art museum](/img/paint-swatches-695x125.jpg)
 
@@ -64,7 +64,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *August 15 \| 6-7pm \| Coos History Museum*<br>**Coos History Museum** brings us a **Special Thursday Speaker Series** for the 150th Birthday! The August program features **Steve Greif on the Development of Marshfield**.
 
-{{< spacer "30" >}}
+{{< spacer "50" >}}
 
 ![boy eating ice cream at the blackberry arts festival in Coos Bay, Oregon](/img/bbaf-boy-ice-cream-695x125.jpg)
 
@@ -72,7 +72,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *August 24-25 \| SAT. 9am-6pm and SUN. 10am-4pm\| Downtown Coos Bay*<br>The **Annual Blackberry Arts Festival Celebrates** the Delicious Blackberry and Art! Blackberry arts, food, and drink are the fare at this popular event in downtown Coos Bay.  Featuring live music with the Blackberry Jam all weekend long! Visit the [Blackberry Arts page](https://www.oregonsadventurecoast.com/event/annual-blackberry-arts-festival/) for more information!
 
-{{< spacer "30" >}}
+{{< spacer "50" >}}
 
 ![september leaves background](/img/september-leaves-695x125.jpg)
 
@@ -82,7 +82,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *September 19 \| 6-7pm \| Coos History Museum*<br>Coos History Museum brings us a **Special Thursday Speaker Series** for the 150th Birthday! The September program features **The Story of Eastside and Empire**
 
-{{< spacer "30" >}}
+{{< spacer "50" >}}
 
 ![bay area fun festival photos - parade, pretontaine run and cruz the coos red car](/img/sub-page-hdr-funfestival-695x125.jpg)
 
@@ -92,7 +92,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 Thousands of locals and visitors from afar come to enjoy the sights, sounds, and tastes of beautiful downtown Coos Bay and surrounding areas for this popular festival. Highlights include live entertainment, the famous [Cruz the Coos](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/) featuring nearly 500 vintage automobiles, the [Prefontaine Memorial Run](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/), Live Music, the BAFF parade, and much more!
 
-{{< spacer "30" >}}
+{{< spacer "50" >}}
 
 ![coos history museum building signage](/img/coos-history-museum-695x125.jpg)
 
@@ -100,7 +100,7 @@ Thousands of locals and visitors from afar come to enjoy the sights, sounds, and
 
 *October 17 \| 6-7pm \| Coos History Museum*<br>Coos History Museum brings us a **Special Thursday Speaker Series** for the 150th Birthday! The October program features **Tribal History**.
 
-{{< spacer "30" >}}
+{{< spacer "50" >}}
 
 ![city of coos bay 150th anniversary logo and balloons](/img/150th-party-695x125.jpg)
 
