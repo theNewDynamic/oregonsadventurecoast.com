@@ -22,13 +22,15 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 {{< spacer "50" >}}
 
+![child's hand on ferns in woods for Mayfly Festival](/img/mayfly-festival.jpg)
+
 ### Mayfly Festival
 
 *May 18 \| 11am-3pm \| Mingus Park*<br>The **Mayfly Festival** is designed to shed light on the connections between community, the environment, and water. This is a free, all-ages, hands-on celebration of watershed ecology and inter-connectedness through activities, games, live music, science, and art! At the Mayfly Festival, you can dance to some good music, make a costume, join a parade around the pond, dip a net into the Mingus Pond to see what lives there, and learn about fish, insects, plants, compost, marine debris, gardening, the connections between human health and environmental health, and so much more! The Mayfly Festival is a [Coos Watershed Association](https://www.facebook.com/cooswa) annual event.
 
 {{< spacer "30" >}}
 
-![](/img/fireworks.jpg)
+![fireworks for july 4th celebration](/img/fireworks-01-695x125.jpg)
 
 ### July 4th Celebration and Fireworks
 
@@ -36,7 +38,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 {{< spacer "30" >}}
 
-![](/img/parade.jpg)
+![Couple holding wine glasses for wine walk and orchestra playing at the Oregon Coast Music Festival](/img/wine-walk-and-orchestra-695x125.jpg)
 
 ### July Fun Events
 
@@ -52,7 +54,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 {{< spacer "30" >}}
 
-![](/img/orchestra.jpg)
+![painting artwork coos art museum](/img/paint-swatches-695x125.jpg)
 
 ### August Fun Events
 
@@ -64,11 +66,15 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 {{< spacer "30" >}}
 
+![boy eating ice cream at the blackberry arts festival in Coos Bay, Oregon](/img/bbaf-boy-ice-cream-695x125.jpg)
+
 ### Blackberry Arts Festival
 
 *August 24-25 \| SAT. 9am-6pm and SUN. 10am-4pm\| Downtown Coos Bay*<br>The **Annual Blackberry Arts Festival Celebrates** the Delicious Blackberry and Art! Blackberry arts, food, and drink are the fare at this popular event in downtown Coos Bay.  Featuring live music with the Blackberry Jam all weekend long! Visit the [Blackberry Arts page](https://www.oregonsadventurecoast.com/event/annual-blackberry-arts-festival/) for more information!
 
 {{< spacer "30" >}}
+
+![september leaves background](/img/september-leaves-695x125.jpg)
 
 ### September Fun Events
 
@@ -78,6 +84,8 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 {{< spacer "30" >}}
 
+![bay area fun festival photos - parade, pretontaine run and cruz the coos red car](/img/sub-page-hdr-funfestival-695x125.jpg)
+
 ### Bay Area Fun Festival
 
 *September 21-22 \| Time \| Downtown Coos Bay*<br>What began as the celebration of Coos Bay's 100th Birthday, has now become the Last Great Party of the Summer! The [**Bay Area Fun Festival**](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) happens in Downtown Coos Bay and surrounding areas on the third weekend in September!
@@ -86,11 +94,15 @@ Thousands of locals and visitors from afar come to enjoy the sights, sounds, and
 
 {{< spacer "30" >}}
 
+![coos history museum building signage](/img/coos-history-museum-695x125.jpg)
+
 ### October Fun Events
 
 *October 17 \| 6-7pm \| Coos History Museum*<br>Coos History Museum brings us a **Special Thursday Speaker Series** for the 150th Birthday! The October program features **Tribal History**.
 
 {{< spacer "30" >}}
+
+![city of coos bay 150th anniversary logo and balloons](/img/150th-party-695x125.jpg)
 
 ### 150th Birthday BLOCK PARTY!
 
