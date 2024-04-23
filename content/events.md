@@ -17,5 +17,5 @@ aliases:
 
 {{< spacer 20 >}}
 
-<div style="width:100%"><a href="/coos-bay-150"><img alt="City of Coos Bay Celebrating 150 Years logo and banner" src="/img/city-of-coos-bay-150th-2048x190-04-22.jpg" style="height: 100%; width: 100%; object-fit: contain" /></a></div>
+<div style="width:89.82%"><a href="/coos-bay-150"><img alt="City of Coos Bay Celebrating 150 Years logo and banner" src="/img/city-of-coos-bay-150th-2048x190-04-22.jpg" style="height: 100%; width: 100%; object-fit: contain" /></a></div>
 {{< spacer 50 >}}
