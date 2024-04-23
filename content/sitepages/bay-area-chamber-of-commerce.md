@@ -1,14 +1,16 @@
 ---
+_schema: default
 title: Bay Area Chamber of Commerce
+draft: false
+url: /bay-area-chamber
+layout: our-area
+photo: /img/our-area-bay-area-chamber.jpg
 aliases:
   - /about/chamber-of-commerce/
-layout: our-area
-url: /bay-area-chamber
-photo: /img/our-area-bay-area-chamber.jpg
 ---
 {{< floatimage src="/img/bay-area-chamber-logo.jpg" float="right" alt="The Bay Area Chamber of Commerce Logo" >}}
 
-Our business community accentuates individuality and character while our retailers strike a balance between distincively local shops and nationally known chains. The **Bay Area Chamber of Commerce** serves the business community and is committed to the following priorities
+Our business community accentuates individuality and character while our retailers strike a balance between distinctively local shops and nationally known chains. The **Bay Area Chamber of Commerce** serves the business community and is committed to the following priorities
 
 * Create a Strong Local Economy
 * Promote the Community
@@ -16,8 +18,4 @@ Our business community accentuates individuality and character while our retaile
 
 **For more information:**
 
-**<a href="http://coosbaynorthbendcharlestonchamber.com" target="_blank">Bay Area Chamber of Commerce</a>**\
-Executive Director: Timm Slater\
-145 Central Ave, Coos Bay, OR 97420\
-(541) 266-0868\
-<mailto:info@oregonsbayarea.org>
+<a href="http://coosbaynorthbendcharlestonchamber.com" target="_blank" rel="noopener"><strong>Bay Area Chamber of Commerce</strong></a><br> Executive Director: Rosey Thomas<br> 145 Central Ave, Coos Bay, OR 97420<br> (541) 266-0868<br> [mailto:info@oregonsbayarea.org](mailto:info@oregonsbayarea.org)
