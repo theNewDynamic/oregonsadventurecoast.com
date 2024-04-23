@@ -38,7 +38,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 {{< spacer "50" >}}
 
-![Couple holding wine glasses for wine walk and orchestra playing at the Oregon Coast Music Festival](/img/wine-walk-and-orchestra-695x125.jpg)
+![Couple holding wine glasses for wine walk and orchestra playing at the Oregon Coast Music Festival](/img/july-sub-head-695x125.jpg)
 
 ### July Fun Events
 
