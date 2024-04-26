@@ -14,6 +14,8 @@ photo: /img/coos-bay-celebration-150th-2048x530.jpg
 
 **The City of Coos Bay turns 150 this year.** The official term for this is Sesquicentennial but we're just calling it a Big Party - all summer long! From May to October, events happening all over the city will be part of the big birthday celebration. And it all culminates with a **Block Party Bash** the weekend of the City's official birthday, **Saturday, October 26th**. More info on that below!
 
+Did you know that Coos Bay and the city's Empire District are filled with Historic Homes? **Take a** [**Self-Guided Driving Tour of the Historic Homes**](https://www.oregonsadventurecoast.com/img/Historic-Homes-WEB-Version.pdf) **of Coos Bay and Empire as you help us celebrate Coos Bay's 150th Birthday!**
+
 {{< spacer "30" >}}
 
 ![City of Coos Bay 150th Celebration Events Header](/img/event-celebrations-695x125.jpg)
@@ -58,7 +60,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 ### August Fun Events
 
-*August  6 \| 6-9pm \| Ed Lund Park in Empire and Eastside Park in Eastside*<br>**National Night Out** is an annual community-building campaign that promotes police-community partnerships and neighborhood camaraderie to make our neighborhoods safer, more caring places to live. Furthermore, it provides a great opportunity to bring police and neighbors together under positive circumstances. Events are scheduled for both Empire and Eastside this year.
+*August  6 \| 6-9pm \| Ed Lund Park in Empire and Eastside Park in Eastside*<br>**National Night Out** is an annual community-building campaign that promotes police-community partnerships and neighborhood camaraderie to make our neighborhoods safer, more caring places to live. Furthermore, it provides a great opportunity to bring police and neighbors together under positive circumstances. Events are scheduled for both Empire and Eastside this year. Empire's event will include hot dogs, ukulele music and dancing, the movie "*The Sandlot*" at the Dolphin Playhouse, and more. Brought to you by the Community Coalition of Empire, AYA, and Star of Hope.
 
 *August 11 \| 11am-5pm \| Coos Art Museum*<br>The **Coos Art Museum** proudly celebrates its **40th Anniversary** in the repurposed Art Deco post office located at 235 Anderson Ave, downtown Coos Bay. Viewable all day will be a Museum History poster exhibit and a Maritime Art History exhibit. Take a polaroid picture for the community wall and make CAM buttons throughout the day. From 1pm-4pm is the official Birthday Party Open House. At 1:30pm will be a cake cutting and at 2pm will be a Memories of the Museum talk.
 
