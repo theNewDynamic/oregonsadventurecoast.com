@@ -14,6 +14,8 @@ photo: /img/coos-bay-celebration-150th-2048x530.jpg
 
 **The City of Coos Bay turns 150 this year.** The official term for this is Sesquicentennial but we're just calling it a Big Party - all summer long! From May to October, events happening all over the city will be part of the big birthday celebration. And it all culminates with a **Block Party Bash** the weekend of the City's official birthday, **Saturday, October 26th**. More info on that below!
 
+Did you know that Coos Bay and the city's Empire District are filled with Historic Homes? Take a [Self-Guided Driving Tour of the Historic Homes](https://www.oregonsadventurecoast.com/img/Historic-Homes-WEB-Version.pdf) of Coos Bay and Empire as you help us celebrate Coos Bay's 150th Birthday!
+
 {{< spacer "30" >}}
 
 ![City of Coos Bay 150th Celebration Events Header](/img/event-celebrations-695x125.jpg)
