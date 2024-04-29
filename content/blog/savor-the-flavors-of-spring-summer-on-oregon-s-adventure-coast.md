@@ -47,7 +47,7 @@ In this post, we’ve rounded up some of our favorite local destinations for sea
 
 ### [**Bay Area Farmers & Artisans Market**](https://www.facebook.com/profile.php?id=61552343943251)
 
-**Schedule:** Wednesdays through April 24, 2024 - 10 a.m. -2 p.m.
+**Schedule:** Wednesdays November through April - 10 a.m. -2 p.m.
 
 **Location:** 999 N Front St., Coos Bay
 
@@ -55,15 +55,15 @@ In this post, we’ve rounded up some of our favorite local destinations for sea
 
 **Facebook:** [https://www.facebook.com/profile.php?id=61552343943251](https://www.facebook.com/profile.php?id=61552343943251)
 
-### **The Coastal Market**
+### <a href="https://www.facebook.com/profile.php?id=61556024665461" target="_blank" rel="noopener"><strong>South Coast Market</strong></a>
 
 **Schedule:** Saturdays, May 4-Sept 28, 2024 9am -4pm
 
-**Location:** Pony Village Mall, North Bend
+**Location:** Pony Village Mall Parking Lot, North Bend
 
 **Description:** This NEW community driven market was recently launched by the owners of Get Yappy dog treats. See below for details.
 
-![](/img/April-2024-Market-Post.jpg)
+&nbsp;
 
 ### [**Coos Head Food Co-Op**](https://coosheadfood.coop/)
 
@@ -141,4 +141,4 @@ When you are exploring a new destination, finding the right spot to eat can some
 
 * [Annual Bay Area Fun Festival](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) - September 21-22 2024. What began as a birthday celebration for Coos Bay’s 100th Birthday 50 years ago, has grown into the greatest end-of-summer celebration on the South Coast! This year, we’ll be celebrating Coos Bay’s 150th Birthday. Thousands of locals and visitors from afar come to enjoy the sights, sounds, and tastes of beautiful downtown Coos Bay and surrounding areas for this popular festival. Highlights include live entertainment, the famous Cruz the Coos featuring nearly 500 vintage automobiles, the Prefontaine Memorial Run, the BAFF parade, and much more!
 
-Got questions? Contact the[Coos Bay – North Bend Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/contact/). You can also follow[Oregon’s Adventure Coast Facebook](https://www.facebook.com/OregonsAdventureCoast/),[@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/),[](https://twitter.com/travelcoosbay?lang=en)and[TikTok](https://www.tiktok.com/@oregonsadventurecoast?lang=en) to find inspiration on the best spots to visit, eat, stay and explore any time of the year.[Request your FREE visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform)!
+Got questions? Contact the[Coos Bay – North Bend Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/contact/). You can also follow[Oregon’s Adventure Coast Facebook](https://www.facebook.com/OregonsAdventureCoast/),[@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/),and[TikTok](https://www.tiktok.com/@oregonsadventurecoast?lang=en) to find inspiration on the best spots to visit, eat, stay and explore any time of the year.[Request your FREE visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform)!
