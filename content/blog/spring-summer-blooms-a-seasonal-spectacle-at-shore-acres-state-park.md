@@ -61,21 +61,9 @@ In addition to the spring and summer blooms, the warmer weather brings a number 
 **More Info**
 
 * Shore Acres State Park is located on the Cape Arago Highway, 13 miles southwest of Coos Bay/North Bend and U. S. Highway 101.
-
-  &nbsp;
-
 * Shore Acres State Park is open every day from 8 a.m. to dusk. Please check posted times at the park entrance for exact closing times.
-
-  &nbsp;
-
 * The park charges a $5 parking fee. There are no additional fees to visit the garden, beach or hiking trails. You can also purchase your day pass online in advance. Entrance to Shore Acres State Park is also covered by the annual [Oregon State Parks Pass](https://oregonstateparks.reserveamerica.com/posProductDetails.do?id=43358&amp;contractCode=OR) and the [Oregon Coast Passport](https://www.fs.usda.gov/detail/r6/passes-permits/recreation/?cid=fsbdev7_007224). Your camping receipt from Sunset Bay State Park or any other state park campground is accepted as a daily permit for those days registered. Display the receipt on the driver's side of your dashboard when visiting Shore Acres State Park.
-
-  &nbsp;
-
 * There are clean restrooms available near the gardens.
-
-  &nbsp;
-
 * **Pets are not permitted anywhere in Shore Acres State Park**, but service animals are welcome in the park and formal gardens. All other animals must remain in vehicles or, better yet, do not bring them with you when visiting Shore Acres. Even in our temperate climate, it can get too hot inside a vehicle for your pets.
 
 **Additional Reading**
