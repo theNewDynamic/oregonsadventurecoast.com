@@ -29,6 +29,8 @@ Attention all, foodies and locavores: If you are craving fresh, local fare in **
 
 In this post, we’ve rounded up some of our favorite local destinations for seasonal offerings. So grab your tote bags and embark on a flavorful adventure on Oregon’s Adventure Coast!
 
+{{< spacer "20" >}}
+
 ## Local Markets
 
 ## [**CBDA Farmers Market**](https://coosbaydowntown.com/coos-bay-farmers-market/)
@@ -43,7 +45,17 @@ In this post, we’ve rounded up some of our favorite local destinations for sea
 
 **Facebook:** [facebook.com/CoosBayFarmersMarket/](https://www.facebook.com/CoosBayFarmersMarket/)
 
-&nbsp;
+{{< spacer "15" >}}
+
+### <a href="https://www.facebook.com/profile.php?id=61556024665461" target="_blank" rel="noopener"><strong>South Coast Market</strong></a>
+
+**Schedule:** Saturdays, May 4-Sept 28, 2024 9am -4pm
+
+**Location:** Pony Village Mall Parking Lot, North Bend
+
+**Description:** This NEW community driven market is filled with fun activities, delicious food, and entertainment.
+
+{{< spacer "15" >}}
 
 ### [**Bay Area Farmers & Artisans Market**](https://www.facebook.com/profile.php?id=61552343943251)
 
@@ -55,15 +67,7 @@ In this post, we’ve rounded up some of our favorite local destinations for sea
 
 **Facebook:** [https://www.facebook.com/profile.php?id=61552343943251](https://www.facebook.com/profile.php?id=61552343943251)
 
-### <a href="https://www.facebook.com/profile.php?id=61556024665461" target="_blank" rel="noopener"><strong>South Coast Market</strong></a>
-
-**Schedule:** Saturdays, May 4-Sept 28, 2024 9am -4pm
-
-**Location:** Pony Village Mall Parking Lot, North Bend
-
-**Description:** This NEW community driven market was recently launched by the owners of Get Yappy dog treats. See below for details.
-
-&nbsp;
+### {{< spacer "15" >}}
 
 ### [**Coos Head Food Co-Op**](https://coosheadfood.coop/)
 
@@ -77,6 +81,8 @@ In this post, we’ve rounded up some of our favorite local destinations for sea
 
 **Facebook:** [www.facebook.com/coosheadfoodcoop/](https://www.facebook.com/coosheadfoodcoop/)
 
+{{< spacer "15" >}}
+
 ### [**Natural Grocers**](https://www.naturalgrocers.com/grab-and-go)
 
 **Schedule:** Open 7 days a week year-round, see store website for current hours of operation.
@@ -88,6 +94,8 @@ In this post, we’ve rounded up some of our favorite local destinations for sea
 **Website:** [https://www.naturalgrocers.com/grab-and-go](https://www.naturalgrocers.com/grab-and-go)
 
 **Facebook:** [https://www.facebook.com/NaturalGrocersCoosBay](https://www.facebook.com/NaturalGrocersCoosBay)
+
+{{< spacer "25" >}}
 
 ### Local Restaurants
 
@@ -103,9 +111,13 @@ When you are exploring a new destination, finding the right spot to eat can some
 
 \*Note: we recommend contacting the restaurant of your choice prior to visiting the establishment for reservations or seating information.
 
+{{< spacer "15" >}}
+
 ### Food Trucks
 
 [Front Street Food Trucks](https://www.facebook.com/frontstreetfoodtrucks) is a family-friendly Food Truck Court/Pod with a full-service bar! This foodie destination is the perfect place for families and/or groups of friends to enjoy some delicious food and drinks. From Mexican fare to gourmet waffles to BBQ, there’s something for every taste and craving! Be sure to follow them on [Facebook](https://www.facebook.com/frontstreetfoodtrucks)for a current listing of food trucks & hours.
+
+{{< spacer "25" >}}
 
 ### Wild Rivers Coast Food Trail
 
@@ -116,6 +128,8 @@ When you are exploring a new destination, finding the right spot to eat can some
 **Description:** Treat yourself to a one-of-a-kind tasting adventure you can only find along the [Wild Rivers Coast Food Trail](https://www.wrcfoodtrail.com/), a collaborative effort to connect locals and visitors to the bounty available on Oregon’s South Coast. Over forty businesses in categories ranging from farms, farm-to-table, seafood producers, local markets, craft brews & spirits, and artisan products are taking part. Food must be sourced within 150 miles of their respective locations. We are especially proud to have multiple businesses representing **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**! Based on your taste and the season, you can plan your own itinerary, or you can choose from one of theirs: [https://www.wrcfoodtrail.com/itineraries](https://www.wrcfoodtrail.com/itineraries). The *Timeless Beauty from Reedsport to Brookings* itinerary features multiple stops on Oregon’s Adventure Coast.
 
 **Website:** [www.wrcfoodtrail.com](https://www.wrcfoodtrail.com/)
+
+{{< spacer "25" >}}
 
 ### Festivals
 
