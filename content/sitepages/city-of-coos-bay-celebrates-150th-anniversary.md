@@ -32,6 +32,14 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 {{< spacer "50" >}}
 
+![Outdoor theatre graphic](/img/theatre-695x125.jpg)
+
+### June Fun Events
+
+*June 22, 23, 29, 30 \| 3:00pm \| Mingus Park*<br>Beware the Ides of March! Coos Bay's own **Shakespeare in the Park** brings us ***Julius Caesar***! Performed in the outdoor amphitheater of Mingus Park, the production features a brilliant cast of one of Shakespeare's most revered plays. Shows will be held on Saturdays and Sundays, June 22 & 23 and June 29 & 30 at 3:00pm. Green Show begins at 2:30. Bring a chair or a blanket to sit on the amphitheater's hillside overlooking the stage.
+
+{{< spacer "50" >}}
+
 ![fireworks for july 4th celebration](/img/fireworks-01-695x125.jpg)
 
 ### July 4th Celebration and Fireworks
