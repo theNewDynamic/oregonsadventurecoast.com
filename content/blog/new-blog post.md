@@ -34,13 +34,23 @@ Join us this year as we celebrate these organizations and institutions that make
 
 **May - October 2024 - City of Coos Bay celebrates its 150th Birthday!** A stroll through Coos Bay shows the merging of past and present. Historic buildings dot the landscape along with a wide array of restaurants, unique shops, museums and more. It just so happens that 2024 marks the 150th Birthday of Coos Bay. Multiple events are being planned for this sesquicentennial celebration, along with a huge blowout block party on October 26th. [Learn more about Coos Bay’s History.](https://www.coosbayor.gov/Home/Components/News/News/923/16)For the list of all the events scheduled to celebrate Coos Bay’s birthday, [click here](https://www.oregonsadventurecoast.com/coos-bay-150).
 
+![](/img/coos-bay-oregon.jpg)
+
 **July 13, 2024 - Celebrating of the 75th Anniversary of the Oregon Merci Boxcar.** The Merci Train was a train of 49 French railroad box cars filled with tens of thousands of gifts of gratitude from French citizens in appreciation for U.S. aid after WWII. It arrived in New York Harbor on February 2nd, 1949, and each of the 48 American states received one of the gift-laden box cars. Oregon’s rail car came to North Bend in 2006 and was restored by the American Legion’s “Forty & Eight” Society. There is a celebration planned for Saturday, July 13, 2024 at 1 p.m. For more information, please visit [http://mercitrain.org/Oregon/](http://mercitrain.org/Oregon/)
+
+![](/img/oregon-merci-boxcar.jpg)
 
 **August 23-24, 2024 - Oregon Marine Biology Institute (OIMB) celebrates its 100th!** The positive impact made by the Oregon Marine Biology Institute in this region cannot be overstated, so we’re thrilled to share the news about their 100th Anniversary Celebration! What began as a tent encampment in 1924 is now the third oldest marine laboratory on the Pacific coast. The organization is planning a celebration August 23 - 25, 2024, featuring various activities. [Learn more](https://www.uoalumni.com/s/1540/21/interior.aspx?sid=1540&amp;gid=3&amp;pgid=13110&amp;cid=34348&amp;ecid=34348&amp;crid=0&amp;calpgid=10043&amp;calcid=24275).
 
+![](/img/oimb.jpg)
+
 **August & September 2024 - South Slough Reserve 50th Anniversary Celebration.** South Slough National Estuarine Research Reserve, the first such estuary in the country, is celebrating its 50th Birthday. South Slough is a protected estuary and natural area located on state-owned land in the Coos estuary on Oregon’s southern coast. It is managed in partnership with the Oregon Department of State Lands and the National Oceanic and Atmospheric Administration. The Reserve manages and studies nearly 7,000 acres of natural area, including open water channels, tidal and freshwater wetlands, riparian areas, and forested lands. [Click here to learn more](https://www.oregon.gov/DSL/SS/Pages/About.aspx)and stay tuned for updates on the 50th Anniversary Celebration! [Oregon Department of State Lands : About South Slough Reserve](https://www.oregon.gov/DSL/SS/Pages/About.aspx)
 
+![](/img/south-slough-reserve.jpg)
+
 **September 21-22, 2024 - 50th Anniversary of the Bay Area Fun Festival.** Join us the third weekend of September for the [Bay Area Fun Festival](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/)! This annual event is always a good time, but this year will be extra special! What began as a celebration of Coos Bay's 100th Birthday 50 years ago has become one of the biggest annual events on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston featuring a parade, vendors, live entertainment, the annual [Cruz the Coos](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/) featuring hundreds of vintage automobiles, the [Prefontaine Memorial Run](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/), and much more. [Learn More](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/).
+
+![](/img/bay-area-fun-festival-1.jpg)
 
 Oregon’s Adventure Coast is the perfect destination for visitors hoping to rediscover their adventurous side as they explore nature, wildlife, food, and culture. Did you know that there are multiple [museums and experiences for art and culture lovers](https://oregonsadventurecoast.com/art-history-culture/) to explore? Here are just a few to add to your itinerary:
 
