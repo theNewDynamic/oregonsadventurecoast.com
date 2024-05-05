@@ -20,7 +20,9 @@ aliases:
 ---
 ![Claw-Some Crab Cake Bake-Off entries from 2023](/img/octopus-lighthouse-2024.jpg)
 
-### {{< floatimage src="/img/crab-cake-logo-tall-2nd-annual.jpg" float="right" alt="Claw-some Crab Cake Bake-Off Logo" size="100" >}}Attention all baking enthusiasts!
+![2nd Annual Claw-some Crab Cake Bake-Off Logo](/img/crab-cake-bake-off-2nd-695x320.jpg)
+
+### Attention all baking enthusiasts!
 
 Are you ready for a crustacean-inspired baking challenge that could win you a free vacation? Introducing the "Claw-some Crab Cake Bake-Off" where creativity reigns supreme!
 
