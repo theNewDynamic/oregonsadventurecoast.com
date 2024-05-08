@@ -34,7 +34,6 @@
           <div class="landing-button" @click="displayFilters = false">{{ partial "svg/circle-check-solid.svg" . }}Apply Filters</div>
         </div>
       </div>
-      
       {{ if false }}
       {{/* We'll temporarily disable, as we need to fix the filtering for events
       rollong on several months */}}
@@ -47,15 +46,15 @@
           </li>
           {{ range $index, $v := partial "func/GetCalendarMonths" }}
             <li class="refinement-item">
-              <label 
+              <label
               for="current-month-{{ add $index 1 }}"
               {{ if .disable }}
                 disabled
               {{ end }}
               >
-                <input 
-                  id="current-month-{{ add $index 1 }}" 
-                  type="radio" x-model="currentMonth" 
+                <input
+                  id="current-month-{{ add $index 1 }}"
+                  type="radio" x-model="currentMonth"
                   value="{{ .num }}"
                   {{ if .disable }}
                     disabled
@@ -71,18 +70,25 @@
           {{ range partialCached "func/GetCalendarCities" "GetCalendarCities" }}
             <li class="refinement-item">
               <label for="current-city-{{ urlize . }}">
-                <input 
-                  id="current-city-{{ urlize . }}" 
-                  type="checkbox" x-model="currentCities" 
+                <input
+                  id="current-city-{{ urlize . }}"
+                  type="checkbox" x-model="currentCities"
                   value="{{ . }}"
                 >
                 {{ . }}</label>
             </li>
           {{ end }}
         </ul>
-      <div class="mt-4 sm:hidden">
-        <div class="landing-button landing-button--red" @click="displayFilters = false">{{ partial "svg/circle-check-solid.svg" . }}Apply Filters</div>
-      </div>
+        <div class="u-hidden sm:block">
+          <h3 class="refinement-title">Share Event</h3>
+          <a target="_blank" href="https://form.jotform.com/241066022852146" class="block" style="font-weight: bold; text-align: center; padding: 0 2rem;">
+            <img class="block" style="margin: 0 auto 1rem auto; width: 75px;" src="/layout-images/share-calendar-icon.svg" alt="">
+            Click to Share Your Local Event or Festival With Us
+          </a>
+        </div>
+        <div class="mt-4 sm:hidden">
+          <div class="landing-button landing-button--red" @click="displayFilters = false">{{ partial "svg/circle-check-solid.svg" . }}Apply Filters</div>
+        </div>
     </div>
   </div>
   <div class="landing-layout__main">
