@@ -44,7 +44,7 @@ Step back in time and see the original equipment from The Sun Newspaper as it wa
 
 #### Oregon Coast Historic Railway Museum
 
-A must-stop for railroad enthusiasts. Ring the bell of the signature 1922 Baldwin steam locomotive! This museum showcases railroad and logging equipment in an outdoor display area, as well as photos and railroad memorabilia in an indoor mini-museum. Welcome aboard! Open Wednesdays, Saturdays, and Sundays. [Visit The Oregon Coast Historic Railway Museum website for more information.](http://www.orcorail.org)
+A must-stop for railroad enthusiasts. Ring the bell of the signature 1922 Baldwin steam locomotive! This museum showcases railroad and logging equipment in an outdoor display area, as well as photos and railroad memorabilia in an indoor mini-museum. Welcome aboard! Open Wednesdays and Saturdays, 11am to 4pm. [Visit The Oregon Coast Historic Railway Museum website for more information.](http://www.orcorail.org)
 
 {{< spacer 50 >}}
 
