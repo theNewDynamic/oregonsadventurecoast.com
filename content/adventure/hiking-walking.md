@@ -100,7 +100,7 @@ Take Cape Arago Highway west from Charleston and you’ll find four miles of tra
 * Hikers, with dogs, already on the Oregon Coast Trail (the section of the trail that goes from Sunset Bay State Park to Cape Arago State Park, through Shore Acres State Park) may continue along the trail through Shore Acres State Park but dogs must stay on the trail and/or parking lot area only. The trail does not include the area around the Observation Building or bathroom areas and definitely does not include the gardens.
 * Hikers cannot drive into Shore Acres and park their car to start on the trail with their dogs. There are plenty of areas to get on the trail along Cape Arago Highway including Sunset Bay State Park, Cape Arago State Park, the Lighthouse Overlook, and Simpson Reef/Shell Island Overlook.
 
-<div class="margin-50px-top"> </div>
+<div class="margin-50px-top">&nbsp;</div>
 
 ![Golden &amp; Silver Falls State Natural Area on Oregon's Adventure Coast](/img/hiking-falls-woman-dog.jpg)
 
@@ -108,7 +108,7 @@ Take Cape Arago Highway west from Charleston and you’ll find four miles of tra
 
 Located almost an hour by car from Coos Bay at the end of Coos River Highway, Golden and Silver Falls is 24 miles off Highway 101 ([Directions Here!](/img/Golden-Silver-Falls-Directions.pdf)). A hidden gem in the dense coastal forests of southwest Oregon, Golden and Silver Falls State Natural Area may be hard to find, but it's well worth the drive. A small parking and picnic area is located along the banks of Glenn and Silver Creeks, set in an old-growth forest of Douglas fir, Big Leaf Maple and Oregon Myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls, which plunge over sheer rock cliffs to moss-covered boulders 100 feet below. Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the cascading waterfall and giant old-growth firs and cedars. [Visit the Golden & Silver Falls Page on the Oregon State Parks website.](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=67)
 
-<div class="margin-50px-top"> </div>
+<div class="margin-50px-top">&nbsp;</div>
 
 ![Bluebill Trail in the Oregon National Recreation Area](/img/hiking-bluebill-trail.jpg)
 
@@ -116,21 +116,21 @@ Located almost an hour by car from Coos Bay at the end of Coos River Highway, Go
 
 Located off Horsfall Road in the Oregon National Dunes Recreation Area just out of North Bend, this trail loops around a seasonal lake which is home to different species of birds and aquatic animals. At times, it looks like a grassy meadow and at other times, lake waters lap at the boardwalks. The eastern portion of the trail provides views of Bluebill Lake as it winds through Western hemlock trees and huckleberry and salal bushes. At the southern end of the lake, an extensive boardwalk protects the wetlands while allowing you to look closely for tadpoles and aquatic insects. The western part of the trail divides, giving you a choice of following the edge of the lake for a look at marsh plants and animal tracks, or following a parallel trail through open shorepine forest. Either route has good birding opportunities. Bring your camera and binoculars to view the sights. [Visit the USDA Forest Service website for Bluebill Trail information.](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42649)
 
-<div class="margin-50px-top"> </div>
+<div class="margin-50px-top">&nbsp;</div>
 
 ![South Slough Reserve Trails](/img/hiking-boardwalk-field.jpg)
 
 ## Estuary Study Trails
 
-South Slough National Estuarine Research Reserve is located off Cape Arago Highway south of Charleston along Seven Devils Road. The Reserve covers 19,000 acres and offers hiking trails for all ability levels. Beginning in the uplands, this trail system follows Hidden Creek down the valley to the slough. After crossing the creek a few times the trail turns into a boardwalk that winds through fresh and saltwater marshes, including a portion called the skunk cabbage walk. Vegetation includes salmonberry, thimbleberry, Lyngby’s Sedge, and eelgrass. The “Saltwater Overlook” and “Lookout” offer views of mudflats and an open-water channel, and are ideal for wildlife observation. On the edge of the estuary are several trails that lead to the shoreline including Rhodes Dike, Sloughside Pilings and the Marsh trail. Heading back towards the interpretive center is the Big Cedar trail which has remnants of the former train trestle. [Visit the South Slough Reserve webpage for more information.](https://www.oregon.gov/DSL/SS/Pages/About.aspx) [Click here for the Estuary Study Trails map (pdf).](https://www.oregon.gov/dsl/SS/Documents/south_slough_brochure_0415.pdf)
+South Slough National Estuarine Research Reserve is located off Cape Arago Highway south of Charleston along Seven Devils Road. The Reserve covers 19,000 acres and offers hiking trails for all ability levels. Beginning in the uplands, this trail system follows Hidden Creek down the valley to the slough. After crossing the creek a few times the trail turns into a boardwalk that winds through fresh and saltwater marshes, including a portion called the skunk cabbage walk. Vegetation includes salmonberry, thimbleberry, Lyngby’s Sedge, and eelgrass. The “Saltwater Overlook” and “Lookout” offer views of mudflats and an open-water channel, and are ideal for wildlife observation. On the edge of the estuary are several trails that lead to the shoreline including Rhodes Dike, Sloughside Pilings and the Marsh trail. Heading back towards the interpretive center is the Big Cedar trail which has remnants of the former train trestle. <a href="https://www.oregon.gov/dsl/ss/pages/default.aspx" target="_blank" rel="noopener">Visit the South Slough Reserve webpage for more information.</a> <a href="https://www.oregon.gov/dsl/ss/Documents/SSNERR_TrailMap.png" target="_blank" rel="noopener">Click here for the Estuary Study Trails map (pdf).</a>
 
-<div class="margin-50px-top"> </div>
+<div class="margin-50px-top">&nbsp;</div>
 
 #### Take a Virtual Tour of the South Slough Estuary Trails with Rick Dancer
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772887646142995%2F&show_text=0&width=695" width="695" height="391" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
 
-<div class="margin-50px-top"> </div>
+<div class="margin-50px-top">&nbsp;</div>
 
 {{< accordions >}}
 
