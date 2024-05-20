@@ -1,8 +1,6 @@
 ---
 _schema: default
-title: >-
-  16 Kid-Friendly Activities to Try this Summer on Enjoy Oregon’s Adventure
-  Coast 
+title: '16 Kid-Friendly Activities to Enjoy this Summer on  Oregon’s Adventure Coast '
 draft: false
 date: 2024-05-17T13:00:00-07:00
 description: >-
