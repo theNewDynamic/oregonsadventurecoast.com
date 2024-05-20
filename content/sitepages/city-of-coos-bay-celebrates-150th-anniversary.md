@@ -36,6 +36,8 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 ### June Fun Events
 
+*June 18, 19, 21 \| Various Times \| Various Locations*<br>The South Coast Equity Coalition invites you to celebrate [**Juneteenth 2024**](https://southcoastequity.org/) with the following great activities in the Coos Bay Area:<br>*June 18, 2:00pm, Umpqua Hall at SWOCC - A Special Presentation by Taylor Stewart of the Oregon Remembrance Project.<br>June 19, 5:00pm-7:30pm, Black Market Gourmet - African Drumming with Gansango Music and Dance Company followed by the Annual Family Reunion Reception and an Essay honoring Mr. Alonzo Tucker, and more.<br>June 21, 7:00pm-9:30pm, The Egyptian Theatre - Free screening of Black Panther.*
+
 *June 22, 23, 29, 30 \| 3:00pm \| Mingus Park*<br>Beware the Ides of March! Coos Bay's own **Shakespeare in the Park** brings us ***Julius Caesar***! Performed in the outdoor amphitheater of Mingus Park, the production features a brilliant cast of one of Shakespeare's most revered plays. Shows will be held on Saturdays and Sundays, June 22 & 23 and June 29 & 30 at 3:00pm. Green Show begins at 2:30. Bring a chair or a blanket to sit on the amphitheater's hillside overlooking the stage.
 
 {{< spacer "50" >}}
