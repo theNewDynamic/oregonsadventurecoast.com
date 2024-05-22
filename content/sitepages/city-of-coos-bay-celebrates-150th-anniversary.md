@@ -56,8 +56,6 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *July 5 \| 5:00pm-7:00pm \| Downtown and Coos Bay Village*<br>The **July Wine Walk** features a special 150th Birthday etched wine glass, while supplies last! Begin at the Coos Bay Visitor Center or Checkerberries. For a $10 donation, receive a glass, a map and a wristband.
 
-*July 6 \| TBD \| Downtown Coos Bay*<br>New this year, the **Coos Bay Downtown Association** brings you a **Bloody Mary Walk**! Visit local businesses to pick up each ingredient for a great Bloody Mary. More information coming soon!
-
 *July 6 \| TBD \| Egyptian Theatre*<br>Join our friends at **The Historic Egyptian Theatre and the Coos Bay Downtown Association** for a special **Film Presentation of Historic Coos Bay**. More details coming soon.
 
 *July 13-27 \| Various \| Various*<br>The **Oregon Coast Music Festival** is proud to be part of the 150th Birthday Celebration! This annual event features a variety of concerts at venues all over Coos Bay and Charleston. Visit the [OCMF Event Page](https://www.oregonsadventurecoast.com/event/annual-oregon-coast-music-festival/) for Details!
