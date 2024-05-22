@@ -114,6 +114,8 @@ Thousands of locals and visitors from afar come to enjoy the sights, sounds, and
 
 *October 17 \| 6-7pm \| Coos History Museum*<br>Coos History Museum brings us a **Special Thursday Speaker Series** for the 150th Birthday! The October program features **Tribal History**.
 
+*October 23 \| TBD \| Downtown Coos Bay*<br>Coos Bay Downtown Association announces a **Pumpkin Carving Contest** to coincide with the October 23rd **Farmer's Market**. More details coming soon!
+
 {{< spacer "50" >}}
 
 ![city of coos bay 150th anniversary logo and balloons](/img/150th-party-695x125.jpg)
