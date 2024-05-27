@@ -57,5 +57,7 @@
 		{{ end }}
 	{{ end }}
 	<script src="https://maps.googleapis.com/maps/api/js?=js?v=quarterly&key={{ $mapKey }}" type="text/javascript"></script>
+	{{ $style := resources.Get "js/initMap.js" | resources.Minify }}
+	<script src="{{ $style.Permalink }}"></script>
 	{{ partial "tnd-search/instantsearch/tags" (slice .) }}
 {{ end }}
