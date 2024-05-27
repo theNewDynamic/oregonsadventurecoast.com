@@ -36,7 +36,7 @@ Oregon’s oldest continuously operated historical society boasts more than 250,
 
 #### Marshfield Sun Printing Museum
 
-Step back in time and see the original equipment from The Sun Newspaper as it was left in 1944. Open from Memorial Day to Labor Day, Tues-Sat 1pm – 4pm. For group tours or other times of the year call 541-266-0901 or 541-267-3762. <a href="https://www.facebook.com/p/Marshfield-Sun-Printing-Museum-100071574391773/" target="_blank" rel="noopener">Visit the Marshfield Sun Printing Museum website for more information.</a>
+Step back in time and see the original equipment from The Sun Newspaper as it was left in 1944. Open from Memorial Day to Labor Day, Thur-Sat 1pm – 4pm. For group tours or other times of the year call 541-266-0901 or 541-267-3762. <a href="https://www.facebook.com/p/Marshfield-Sun-Printing-Museum-100071574391773/" target="_blank" rel="noopener">Visit the Marshfield Sun Printing Museum website for more information.</a>
 
 {{< spacer 50 >}}
 
