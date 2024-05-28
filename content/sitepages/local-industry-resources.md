@@ -28,8 +28,6 @@ accordion_sections:
           [Semi-Annual Report - August
           2023](/img/VCB---Semi-Annual-Report-to-Coos-Cty---AUG23.pdf)
 ---
-![RSVP for the Tourism Week Luncheon](/img/banner-lunch-invite-2024.jpg)
-
 ## Local Industry Resources
 
 The **Coos Bay-North Bend-Charleston Visitor & Convention Bureau (VCB)** and the Coos Bay Visitor Information Center provide the following information and documents to our local industry partners to assist in planning and requests.
