@@ -35,9 +35,13 @@ This three-day event will feature up to **20 food trucks from the Pacific Northw
 
 #### SCHEDULE:
 
-**Details Coming Soon!**
+**Friday – August 2, 2024: 4:00 PM – 8:00 PM**
 
-**LIVE MUSIC!<br>Details Coming Soon!**
+**Saturday – August 3, 2024: 11:00 AM – 6:00 PM**
+
+**Sunday – August 4, 2024: 12:00 PM – 4:00 PM**
+
+**LIVE MUSIC!<br>**There will be live music at the outdoor event on the Chuck Bracelin stage.
 
 {{< spacer 50 >}}
 
