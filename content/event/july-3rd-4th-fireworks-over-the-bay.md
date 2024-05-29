@@ -35,7 +35,7 @@ photo_alt: Fireworks over Coos Bay
 
 {{< spacer 15 >}}
 
-Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [The Mill Casino](https://www.themillcasino.com/) will light up the skies over the Bay with this year's waterfront fireworks display.
+Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [The Mill Casino](https://www.themillcasino.com/entertainment/july-3rd-fireworks-blast-by-the-bay/) will light up the skies over the Bay with this year's waterfront fireworks display.
 
 **The fireworks display will be located in front of The Mill Casino, but can be seen from just about anywhere along the Bay!**
 
@@ -90,7 +90,9 @@ Join fellow runners and walkers for the 1/2-mile kid’s run and the 4K for grow
 
 #### **Mingus Park Fun - July 4th**
 
-Spend the day with family and friends in Coos Bay's beautiful Mingus Park. More information coming soon!&nbsp;
+Spend the day with family and friends in Coos Bay's beautiful Mingus Park. Booths and fishing are set up from 11am to 2pm.
+
+Plus, Free Swim at Mingus Park Pool!
 
 {{< spacer 25 >}}
 
