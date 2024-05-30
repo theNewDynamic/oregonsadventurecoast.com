@@ -11,7 +11,7 @@ seo:
     It wouldn't be a visit to the Oregon's Adventure Coast without exploring
     Coos Bay. Learn more about the history and things to do. 
 ---
-**Coos Bay** was established in the 1850’s as Marshfield, but changed its name to Coos Bay in 1944. Year’s later, the cities’ of Empire and Eastside merged with Coos Bay making Coos Bay the largest city on the Oregon Coast with a current population of 16,292. Coos Bay is also the birthplace of legendary runner, [Steve Prefontaine](/steve-prefontaine-story).
+**Coos Bay** was established in the 1850’s as Marshfield, but changed its name to Coos Bay in 1944. Year’s later, the cities’ of Empire and Eastside merged with Coos Bay making Coos Bay the largest city on the Oregon Coast with a current population of 15,840. Coos Bay is also the birthplace of legendary runner, [Steve Prefontaine](/steve-prefontaine-story).
 
 The name Coos Bay is derived from the area’s Indigenous Tribes' word for "South" (Kuukuus or Kuukwis) in the Hanis and Milluk languages. Several Tribes called the Coos Bay region their ancestral homeland including the Coquille Indian Tribe and the Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians. For more information on this topic, [read this great blog](https://shichils.wordpress.com/2015/09/07/place-of-pines-a-case-of-mistaken-identity/?) from Milluk Language expert, Patty Phillips.
 
