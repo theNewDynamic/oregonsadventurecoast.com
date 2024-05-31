@@ -17,6 +17,7 @@ amenityList:
   - 6 - WiFi Available
   - 9 - Handicap Accessible
   - 4 - Pool/Hot Tub
+  - 11 - EV Charging
 address:
   city: North Bend
   state: OR
