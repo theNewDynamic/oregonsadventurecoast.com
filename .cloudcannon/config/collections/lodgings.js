@@ -64,7 +64,8 @@ module.exports = {
           "7 - Kitchens Available",
           "8 - Meeting Facilities",
           "9 - Handicap Accessible",
-          "10 - Chamber Member"
+          "10 - Chamber Member",
+          "11 - EV Charging",
         ]
       }
     }

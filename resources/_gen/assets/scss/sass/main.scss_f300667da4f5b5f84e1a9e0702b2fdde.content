@@ -4744,6 +4744,9 @@ p.bullet-para-indent {
 .icon-lodging.chamber {
   background-image: url("/layout-images/amenity-key-icons/chamber.svg"); }
 
+.icon-lodging.ev_charging {
+  background-image: url("/layout-images/amenity-key-icons/ev_charging.svg"); }
+
 @media only screen and (max-width: 767px) {
   .filters {
     display: none;
