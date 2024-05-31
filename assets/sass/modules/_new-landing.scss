@@ -23,7 +23,7 @@
 }
 
 
-$icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, meeting, chamber;
+$icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, meeting, chamber, ev_charging;
 
 .icon-lodging{
   display: inline-block;
@@ -71,7 +71,7 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
 }
 @include smallPlusUp {
   .filters__actions{
-    
+
   }
   .landing-layout{
     display: grid;
@@ -79,7 +79,7 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
     grid-template-columns: repeat(5, 1fr);
     grid-template-areas: "sidebar main main main main"
   }
-  
+
   .landing-layout__sidebar{
     //overflow: scroll;
     grid-area: sidebar;
@@ -233,6 +233,6 @@ $icons: restaurant, fitness, pet, kitchens, handicap, breakfast, pool, wifi, mee
   }
   .ais-Pagination-item--selected{
     background-color: $red;
-  } 
+  }
 }
 
