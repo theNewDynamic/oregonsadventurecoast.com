@@ -60,6 +60,8 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *July 12,13,14 and 19,20,21 \| Friday-Saturday 7pm, Sunday 2pm \| The Dolphin Playhouse*<br>The [Dolphin Playhouse](https://thedolphinplayhouse.com/) presents ***"The Hollering Place Radio Show- Celebrating the 150 Year History of Coos Bay"***  for six performances. This original script will be performed by local talent.
 
+*July 17 \| Noon-3:00pm \| Downtown Coos Bay*<br>Join the [Coos Art Museum](https://www.coosart.org/) for an **Historic Sketching Walking Tour** of downtown Coos Bay. Walk will begin at the Coos Art Museum, 235 Anderson, and will visit such interesting historic spots as the Egyptian Theatre, the Tioga Building, Carnegie Library, Old City Hall, and the Buggee Bank Building.
+
 {{< spacer "50" >}}
 
 ![painting artwork coos art museum](/img/paint-swatches-695x125.jpg)
