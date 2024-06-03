@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual Holiday Lights at Shore Acres
-startdate: '2023-11-23'
-enddate: '2023-12-31'
+startdate: '2024-11-28'
+enddate: '2024-12-31'
 address:
   city: Charleston
   state: OR
@@ -28,13 +28,15 @@ aliases:
 
 Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition **every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve** – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. **Admission is always free! However, parking at Shore Acres any time of the year is $5.**
 
+[**Book your Parking Space Now!**](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381)
+
 {{< spacer "30" >}}
 
 {{< youtube id="jHnNm_Gy7CA" >}}
 
 {{< spacer "30" >}}
 
-Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring more than 325,000 holiday lights (nearly all of them LED), 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished community tradition is made possible by the <a target="_blank" rel="noopener" href="https://shoreacres.net/">Friends of Shore Acres</a>, the dedicated efforts of more than 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in thousands of visitors from all over the world!
+Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring more than 325,000 holiday lights (nearly all of them LED), 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished community tradition is made possible by the <a href="https://shoreacres.net/" target="_blank" rel="noopener">Friends of Shore Acres</a>, the dedicated efforts of more than 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in thousands of visitors from all over the world!
 
 {{< spacer 30 >}}
 
@@ -44,7 +46,7 @@ Since its inception in 1987, the annual Holiday Lights celebration has seen a re
 
 Take a break in the garden house to cozy up and savor some cookies along with a steaming cup of apple cider or coffee. Delve into the opulently adorned house and catch a glimpse of Santa "soaking" in the bathtub.
 
-**[Check out all the Holiday Happenings while you're here!](/event/christmas-at-the-coast)**
+**Check out all the Holiday Happenings while you're here!**
 
 {{< spacer 30 >}}
 
@@ -52,7 +54,7 @@ Take a break in the garden house to cozy up and savor some cookies along with a 
 
 {{< spacer 50 >}}
 
-#### ![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle-1.png)
+#### [![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle-1.png)](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381)
 
 #### {{< spacer "50" >}}
 
@@ -62,7 +64,7 @@ Take a break in the garden house to cozy up and savor some cookies along with a 
 
 #### **Time-Specific Parking Pass**
 
-If you're planning to drive, you will need a special **Time-Specific Parking Pass**&nbsp;in advance again this year. In an effort to reduce wait times and backed up traffic conditions, you'll be required to make a **Parking Pass reservation** to visit. These Parking Passes are **per vehicle, not per person**. The passes are only $5 per vehicle, unless you already have an annual park pass *(see Important Park Pass Information below)*. ***Either way, an advance online reservation is required.*** Parking Passes are managed by the **<a target="_blank" rel="noopener" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">Oregon State Parks</a>**.
+If you're planning to drive, you will need a special **Time-Specific Parking Pass**&nbsp;in advance again this year. In an effort to reduce wait times and backed up traffic conditions, you'll be required to make a **Parking Pass reservation** to visit. These Parking Passes are **per vehicle, not per person**. The passes are only $5 per vehicle, unless you already have an annual park pass *(see Important Park Pass Information below)*. ***Either way, an advance online reservation is required.*** Parking Passes are managed by the <a href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381" target="_blank" rel="noopener"><strong>Oregon State Parks</strong></a>.
 
 **Click the "Book Parking Pass Now" button below to secure your time-specific parking reservation. Don't forget to print your pass or catch a screen shot of your pass. You will need the printed or screen shot pass to enter the park. Have questions? Call (541) 888-3778, the local State Parks office.**
 
@@ -78,23 +80,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 {{< spacer "30" >}}
 
-#### FREE Santa's Shuttle From The Charleston Marina
-
-This year brings a new way to beat the traffic and parking - a **FREE Shuttle Bus!**&nbsp; Santa's Shuttle will run between the Charleston Marina and Shore Acres State Park **Thursdays, Fridays, and Saturdays, plus Christmas Eve, Christmas Day, and New Year's Eve,**&nbsp;throughout the six weeks starting from Thanksgiving and leading up to New Year's Eve. These wheelchair-accessible shuttles will depart from the marina every 20 minutes **between 4:15pm and 8:00pm**. *Last shuttle will leave the marina at 8:00pm to give folks enough time to enjoy the lights before the park closes at 9pm.*
-
-**A Few More Details:**
-
-* There is no need to make a reservation for the shuttle. It will run on a first come, first served basis.
-* The shuttle will run every 20 minutes or so (based on traffic conditions) from the marina to the park from 4:15pm to 8pm
-* The last shuttle to the park will be at 8pm since the park closes at 9pm and we want everyone to have enough time to enjoy the lights before they have to return to the Marina.
-* All guests to the park must depart the park by 9pm, though shuttles may have to run a bit longer to get all passengers back to the Marina
-* Two shuttles will run - a 20-passenger and a 44-passenger, both are wheelchair-accessible
-* The shuttle is FREE of charge thanks to a grant from <a target="_blank" rel="noopener" href="https://www.tfff.org/">The Ford Family Foundation</a>, a grant from <a target="_blank" rel="noopener" href="https://traveloregon.com/">Travel Oregon</a>, and the Visitor & Convention Bureau
-* The parking lot is off Guano Rock Lane. Follow the signs!
-
-![](/img/shuttlestop.jpg)
-
-It's the perfect way to enjoy the enchanting lights display at Shore Acres.&nbsp; **Make the most of the season and take a ride on our Santa's Shuttle** to experience the magic of Shore Acres State Park's holiday lights show! *This project has been funded in part by&nbsp; a grant from Travel Oregon, a grant from The Ford Family Foundation and the Coos Bay - North Bend - Charleston Visitor and Convention Bureau. Thanks to First Student Buses for their assistance with this project.*
+#### DETAILS COMING SOON!
 
 {{< spacer "30" >}}
 
@@ -128,7 +114,7 @@ divider
 
 {{< spacer 25 >}}
 
-[![](/img/holiday-happenings-button.jpg)](/event/christmas-at-the-coast)
+![](/img/holiday-happenings-button.jpg)
 
 {{< spacer "30" >}}
 
@@ -138,4 +124,4 @@ In **Charleston**, stop in at the [Charleston Marine Life Center](http://www.cha
 
 In **Coos Bay**, take a stroll along the boardwalk and visit the Coos Bay Visitor Information Center where you will see the 30' lighted tree! Visit the [Coos History Museum](https://cooshistory.org/) and explore our area's culture and history. Visit the [Coos Art Museum](https://www.coosart.org/) to see the latest exhibition, their permanent collection, and the Steve Prefontaine Gallery. And [catch a bite to eat](https://oregonsadventurecoast.com/dining/) at one of our many casual restaurants and coffee shops.
 
-In **North Bend**, take a stroll downtown and visit [quaint, one-of-a-kind shops](https://oregonsadventurecoast.com/shopping/) and cafes. Take to the ice at the only <a target="_blank" rel="noopener" href="https://www.facebook.com/NorthBendIceSkatingRink">Ice Skating Rink</a> on the Oregon Coast! (December 2nd to Valentine's Day) Cross over the historic McCullough Bridge on your way to Horsfall Beach at the tip of the [Oregon Dunes National Recreation Area](https://oregonsadventurecoast.com/untamed-dunes/) and one of the many ATV rental locations in the area.
+In **North Bend**, take a stroll downtown and visit [quaint, one-of-a-kind shops](https://oregonsadventurecoast.com/shopping/) and cafes. Take to the ice at the only <a href="https://www.facebook.com/NorthBendIceSkatingRink" target="_blank" rel="noopener">Ice Skating Rink</a> on the Oregon Coast! (December 2nd to Valentine's Day) Cross over the historic McCullough Bridge on your way to Horsfall Beach at the tip of the [Oregon Dunes National Recreation Area](https://oregonsadventurecoast.com/untamed-dunes/) and one of the many ATV rental locations in the area.
