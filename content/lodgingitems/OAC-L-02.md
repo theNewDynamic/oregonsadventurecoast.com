@@ -21,7 +21,6 @@ amenityList:
   - 7 - Kitchens Available
   - 9 - Handicap Accessible
   - 10 - Chamber Member
-  - 11 - EV Charging
 address:
   city: Coos Bay
   state: OR
