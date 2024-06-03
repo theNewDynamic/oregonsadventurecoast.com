@@ -12,7 +12,7 @@ const getLink = function(item) {
   if (item.street2 !== undefined && item.street2 !== '') {
       address = address + " " + item.street2;
   }
-  
+
   address = address + ",";
 
   if (item.city !== undefined && item.city !== '') {
@@ -167,6 +167,7 @@ const facets = {
     {label: 'Pool/Hot Tub', id: 'pool'},
     {label: 'Pet Friendly', id: 'pet'},
     {label: 'WiFi Available', id: 'wifi'},
+    {label: 'EV Charging', id: 'ev_charging'},
     {label: 'Kitchens Available', id: 'kitchens'},
     {label: 'Meeting Facilities', id: 'meeting'},
     {label: 'Handicap Accessible', id: 'handicap'},
