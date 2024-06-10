@@ -56,6 +56,8 @@ Contestants may work individually or with a team. *(Prizes will be awarded to 1 
 
 {{< youtube id="zRZE_2eDPSU?si=RGZeiFwpo024aBVW" >}}
 
+{{< spacer "30" >}}
+
 ![Claw-some Crab Cake Bake-Off waves and beach contest entry](/img/waves-seascape-2023.jpg)
 
 {{< spacer 25 >}}
