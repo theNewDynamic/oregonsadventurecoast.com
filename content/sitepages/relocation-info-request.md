@@ -39,23 +39,14 @@ The [Southwestern Oregon Community College](https://www.socc.edu) (SWOCC) [Small
 
 ### Downtown/Merchants Associations
 
-{{< columns number="2" >}}
-
-[**Coos Bay Downtown Association**](http://coosbaydowntown.org)
-Contact: Holly Boardman, Executive Director
-(541)266-9706
-[director@coosbaydowntown.org](mailto:director@coosbaydowntown.org)
+{{< columns number="2" >}}[**Coos Bay Downtown Association**](http://coosbaydowntown.org) Contact: Harv Schubothe, Main Street Manager (541)266-9706 <br>[mainstreetmanager@coosbaydowntown.com]()
 
 divider
 
-[**Charleston Merchants Association**](https://charlestonoregonmerchants.com)
-Contact: Tim Hyatt c/o Sunset Bay Golf Course
-(541) 888-9301
-
-{{< /columns >}}
+[**Charleston Merchants Association**](https://charlestonoregonmerchants.com) Contact: Tim Hyatt c/o Sunset Bay Golf Course (541) 888-9301{{< /columns >}}
 
 &nbsp;
 
 ### Relocation Information Request
 
-<script type="text/javascript" src="https://form.jotform.com/jsform/83167269356164"></script>
+&nbsp;
