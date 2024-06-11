@@ -3,8 +3,7 @@ _schema: default
 title: Tru Furniture Co.
 property_description: >-
   New & refurbished furniture, handmade furniture & home decor. Also carries
-  souvenirs, t-shirts and more. Open Mon-Fri 11am-6pm; Sat 10am-6pm; Sun
-  11am-5pm.
+  souvenirs, t-shirts and more. 
 photo_name: /img/tru2retail.jpg
 property_category:
   - Resale
