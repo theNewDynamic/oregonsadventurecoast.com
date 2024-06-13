@@ -36,11 +36,35 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 ![The Festival Orchestra Concerts are a must attend each summer in Coos Bay.](/img/ocma-orchestra-frankprice-web.jpg "The Oregon Coast Music Festival Orchestra - Photo by Frank Price")
 
-### 46th Oregon Coast Music Festival Special Events - July 2023 - Information coming soon!
+### 46th Oregon Coast Music Festival Special Events and Concerts - July 13-26 2023
+
+**Saturday, July 13, Noon @ Mingus Park - FREE<br>**Festival Opening Concert with Bay Area Concert Band
+
+**Sunday, July  14, 2pm @ OIMB Boathouse - $50**<br>Boathouse Jazz with Aaron Johnson, Wilbur Jensen, Ilya Lushtak, Dave Captein, & Greg Chen -&nbsp;Reception by Black Market Gourmet. *Please call the office to make a ticket purchase, 541-267-0938*
+
+**Tuesday, July 16, 2-4pm @ Coos History Museum - FREE**<br>Community and Visiting Bands: A Century Plus of History
+
+**Wednesday, July 17, 7pm @ Hales Center for the Performing Arts - $15**<br>Voices of the Community Second Wind, Vocals; Dance Sultanov, Cello; Swingin' in the Rain, Big Band. [Tickets](https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/EIWVWQBJYWQUZNGYFURES7UF)
+
+**Friday, July 19,  3pm @ Umpqua Hall 184, SWOCC - FREE with Advanced Registration**<br>Marimba Workshop: Bahuru and Baduku Marimba Bands. Meet the musicians and learn about the music. *Please call the office to register, 541-267-0938*
+
+Sat. 20: Dance in the Park: Bahuru and Baduku Marimba Bands noon @ Shore Acres State Park Gardens
+
+Sun. 21: Mipso at the Boathouse&nbsp;2pm @ OIMB, Charleston
+
+Mon. 22: Adam Stern & Steven Moeckel Preview Concert I&nbsp;noon @ Umpqua Hall 109, SWOCC
+
+Wed. 24: Adam Stern & Aaron Johnson Preview the Pops&nbsp;noon @ Umpqua Hall 109, SWOCC
+
+Wed. 24: “The Empire Builders” Oregon Army National Guard Band:&nbsp;7pm @Hales Center SWOCC
+
+Thur. 25: “No Brass No Ammo” Army National Guard Brass Street Band:&nbsp;noon @ Coos Bay Waterfront
+
+Fri. 26: Adam Stern & Martin Majkut Preview Orchestra Concert II&nbsp;noon @ Umpqua Hall 109, SWOCC
+
+Fri. 26: Redfish Music Quartet/Quintet: 7pm @ First Presbyterian Church, North Bend
 
 {{< spacer 25 >}}
-
-
 
 ### ORCHESTRA CONCERTS
 
@@ -56,6 +80,6 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 ![The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July](/img/ocma-cellist-frankprice-web.jpg "The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July - Photo by Frank Price")
 
-**Saturday, July 29 @ 7:30**<br>Marshfield High School Auditorium, Coos Bay<br>**OCMA *Festival Finale* Festival Orchestra Concert II**&nbsp;
+**Saturday, July 27 @ 7:30**<br>Marshfield High School Auditorium, Coos Bay<br>**OCMA** ***Festival Finale*** **Festival Orchestra Concert II**&nbsp;
 
 {{< spacer 25 >}}
