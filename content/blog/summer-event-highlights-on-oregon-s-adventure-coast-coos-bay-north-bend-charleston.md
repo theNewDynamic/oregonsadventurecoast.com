@@ -40,7 +40,9 @@ categories:
   - Arts & Culture
 warning: false
 ---
-### *Got summer plans? You will after reading what’s in store this summer on Oregon’s Adventure Coast!*
+*Got summer plans? You will after reading what’s in store this summer on Oregon’s Adventure Coast!*
+
+&nbsp;
 
 Summer is finally here, school is out, and the sun is casting longer, warmer days here on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. It’s the perfect time to hit the road in search of new adventures and create memories that will last a lifetime. Oregon’s Adventure Coast comes alive each summer and fall with [outdoor events and festivals](https://www.oregonsadventurecoast.com/events/) for all ages to enjoy. If you didn’t already have a road trip planned this summer, you will after reading this.
 
@@ -82,9 +84,13 @@ Here’s a quick round-up of some of the family-friendly events happening in Coo
 
   ![](/img/ocmf-blog-695x322-jpg.jpg)
 
+  &nbsp;
+
 * **Mill Casino Food Truck Off (North Bend) - August 2-4, 2024.** The whole family will enjoy this tasty outdoor event featuring some of the best food trucks from around the region as they compete in a cook-off for the best in several categories. The Food Truck Off is a great way to sample a variety of dishes and enjoy a lively, family-friendly atmosphere. Satisfy your cravings while listening to live music and participating in fun activities. [**<u>Click here to learn more.</u>**](https://www.oregonsadventurecoast.com/event/the-mill-casino-food-truck-off/)
 
   ![](/img/mill-casino-truck-off-blog-695x322-jpg.jpg)
+
+  &nbsp;
 
 * **Circle the Bay 30K (Coos Bay, North Bend)** - **August 10, 2024.** Embrace the ultimate test of endurance and teamwork at "Circle the Bay" on Oregon's Adventure Coast. This event offers a challenging 30K (18-mile) race that can be tackled individually or as a 3-person relay team. For those opting for the team challenge, gather your fellow runners and embark on a captivating journey around the bay. Pass the baton in a race that combines camaraderie with awe-inspiring vistas. With the invigorating sea breeze and the scenic coastal landscapes, this race perfectly encapsulates the natural splendor of coastal Oregon, making it an essential experience for both residents and visitors alike. [Click here to learn more.](https://www.oregonsadventurecoast.com/event/circle-the-bay-30k/)
 
