@@ -48,9 +48,9 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 **Friday, July 19,  3pm @ Umpqua Hall 184, SWOCC - FREE with Advanced Registration**<br>Marimba Workshop: Bahuru and Baduku Marimba Bands. Meet the musicians and learn about the music. *Please call the office to register, 541-267-0938*
 
-Sat. 20: Dance in the Park: Bahuru and Baduku Marimba Bands noon @ Shore Acres State Park Gardens
+**Saturday, July 20, Noon @ Shore Acres State Park Gardens - FREE ($5 parking fee at Shore Acres)**<br>Dance in the Park: Bahuru and Baduku Marimba Bands
 
-Sun. 21: Mipso at the Boathouse&nbsp;2pm @ OIMB, Charleston
+**Sunday, July 21, 2pm @ OIMB, Charleston**<br>Mipso at the Boathouse&nbsp;Presented by 7 Devils Brewing Co. Tickets at 7 Devils
 
 Mon. 22: Adam Stern & Steven Moeckel Preview Concert I&nbsp;noon @ Umpqua Hall 109, SWOCC
 
