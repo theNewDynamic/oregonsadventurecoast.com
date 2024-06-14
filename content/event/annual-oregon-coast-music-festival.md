@@ -38,7 +38,7 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 ### 46th Oregon Coast Music Festival Special Events and Concerts - July 13-26 2023
 
-**Saturday, July 13, Noon @ Mingus Park - FREE<br>**Festival Opening Concert with Bay Area Concert Band
+**Saturday, July 13, Noon @ Mingus Park - FREE**<br>Festival Opening Concert with Bay Area Concert Band
 
 **Sunday, July  14, 2pm @ OIMB Boathouse - $50**<br>Boathouse Jazz with Aaron Johnson, Wilbur Jensen, Ilya Lushtak, Dave Captein, & Greg Chen -&nbsp;Reception by Black Market Gourmet. *Please call the office to make a ticket purchase, 541-267-0938*
 
