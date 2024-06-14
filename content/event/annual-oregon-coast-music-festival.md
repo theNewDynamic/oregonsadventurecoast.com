@@ -50,19 +50,19 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 **Saturday, July 20, Noon @ Shore Acres State Park Gardens - FREE ($5 parking fee at Shore Acres)**<br>Dance in the Park: Bahuru and Baduku Marimba Bands
 
-**Sunday, July 21, 2pm @ OIMB, Charleston**<br>Mipso at the Boathouse&nbsp;Presented by 7 Devils Brewing Co. Tickets at 7 Devils
+**Sunday, July 21, 2pm @ OIMB, Charleston - Cost TBD**<br>Mipso at the Boathouse&nbsp;Presented by 7 Devils Brewing Co. Tickets at 7 Devils
 
-Mon. 22: Adam Stern & Steven Moeckel Preview Concert I&nbsp;noon @ Umpqua Hall 109, SWOCC
+**Monday, July 22, noon @ Umpqua Hall 109, SWOCC - FREE**<br>Adam Stern & Steven Moeckel Preview Concert I&nbsp;
 
-Wed. 24: Adam Stern & Aaron Johnson Preview the Pops&nbsp;noon @ Umpqua Hall 109, SWOCC
+**Wednesday, July 24, noon @ Umpqua Hall 109, SWOCC - FREE**<br>Adam Stern & Aaron Johnson Preview the Pops&nbsp;
 
-Wed. 24: “The Empire Builders” Oregon Army National Guard Band:&nbsp;7pm @Hales Center SWOCC
+**Wednesday, July 24, 7pm @Hales Center SWOCC - FREE**<br>“The Empire Builders” Oregon Army National Guard Band
 
-Thur. 25: “No Brass No Ammo” Army National Guard Brass Street Band:&nbsp;noon @ Coos Bay Waterfront
+**Thursday, July 25, noon @ Coos Bay Waterfront - FREE**<br>“No Brass No Ammo” Army National Guard Brass Street Band
 
-Fri. 26: Adam Stern & Martin Majkut Preview Orchestra Concert II&nbsp;noon @ Umpqua Hall 109, SWOCC
+**Friday, July 26, noon @ Umpqua Hall 109, SWOCC - FREE**<br>Adam Stern & Martin Majkut Preview Orchestra Concert II&nbsp;
 
-Fri. 26: Redfish Music Quartet/Quintet: 7pm @ First Presbyterian Church, North Bend
+**Friday, July 26, 7pm @ First Presbyterian Church, North Bend - $20**<br>Redfish Music Quartet/Quintet:
 
 {{< spacer 25 >}}
 
