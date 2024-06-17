@@ -72,14 +72,22 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 **Tuesday, July 23 @ 7:30**<br>Marshfield High School Auditorium, Coos Bay<br>**OCMA Festival Orchestra Concert I**&nbsp;
 
+Maestro James Paul will conduct the opening concert. This will be a grand performance and a celebratory finale for our Music Director and Conductor of 31 years who is retiring this year. Maestro has chosen the following compositions: Sullivan: Overture to "The Yeomen of the Guard"; Vaughan Williams: The Lark Ascending with Steven Moeckel soloist; and Rachmaninoff: Symphony No.2.
+
 {{< spacer 50 >}}
 
+![Adam Stern conducts the orchestra.](/img/ocma-pops-concert-frankprice-web.jpg "Photograph Courtesy Frank Price")
+
 **Thursday, July 25 @ 7:30**<br>Marshfield High School Auditorium, Coos Bay<br>**OCMA Festival Orchestra Pops**
+
+Adam Stern returns to conduct the Thursday night Pops Concert with an excellent selection of music by American composers, including Gould, Joplin, Anderson, Bonds, Copland and Ellington. Saxophone soloist Aaron Johnson will join the Orchestra for three songs.
 
 {{< spacer 50 >}}
 
 ![The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July](/img/ocma-cellist-frankprice-web.jpg "The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July - Photo by Frank Price")
 
 **Saturday, July 27 @ 7:30**<br>Marshfield High School Auditorium, Coos Bay<br>**OCMA** ***Festival Finale*** **Festival Orchestra Concert II**&nbsp;
+
+The Saturday night performance (Orchestra II) will feature Guest Conductor Martin Majkut, who has selected Smetana: Vltava; Britten: Four Sea Interludes from Peter Grimes; and Dvořák: Symphony no. 9, From the New World. Majkut is Music Director for the Rogue Valley Symphony in Ashland, Oregon, Music Director of the Queens Symphony Orchestra in New York, and faculty member of Aaron Copland School of Music.
 
 {{< spacer 25 >}}
