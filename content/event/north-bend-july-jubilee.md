@@ -42,8 +42,8 @@ date: '2019-02-10T00:00:00.000+00:00'
 
 8:00am-10:00am - <a href="https://www.northbendoregon.us/forms.aspx?fid=598" target="_blank" rel="noopener">July Jubilee Jaunt Fun Run</a> 5K Run/Walk begins at North Bend Boardwalk - Registration at 8am, Run/Walk begins at 9am<br>9:00am Start - Disc Golf Tournament at Ferry Road & Windsor Parks - Two-Day Tournament<br>10:00am-3:00pm - Corn-Hole Tournament at North Bend Lanes/Back Alley Pub<br>10:00am-6:00pm - Family Activities at Pony Village Mall with a Market, Bounce House, Pole Vault, Face Painting and More!<br>10:00am-Noon - Oregon's Bay Area Beautification Event at North Bend Visitor Center, 745 California at Grant Circle<br>11:00am-6:00pm - <a href="https://www.oregonsadventurecoast.com/event/annual-margarita-mill/" target="_blank" rel="noopener">Margarita-Mill</a> at The Mill Casino \* Hotel<br>1:00pm-2:00pm - 75th Merci Box Train Car Celebration at Simpson Park<br>2:00pm - Journey Under the Sea at North Bend Library<br>7:00pm-9:00pm - <a href="https://thelibertytheatre.org/" target="_blank" rel="noopener">OPRY at The Liberty Theatre</a>
 
-![Tacos, Disc Golf and Softball.](/img/jj-sun-events.jpg)
+&nbsp;
 
 #### Sunday, July 14th
 
-9:00am Start - Disc Golf Tournament at Ferry Road & Windsor Parks - Two-Day Tournament<br>10:00am-12:00pm - Historic Walking Tour at Hotel North Bend<br>11:00am-1:00pm - Softball Game Fundraiser at Clyde Allen Field<br>Noon - 4:00pm - <a href="https://www.oregonsadventurecoast.com/event/annual-margarita-mill/" target="_blank" rel="noopener">Margarita-Mill</a> at The Mill Casino \* Hotel
+9:00am Start - Disc Golf Tournament at Ferry Road & Windsor Parks - Two-Day Tournament<br>10:00am-12:00pm - Historic Walking Tour at Hotel North Bend<br>11:00am-1:00pm - Softball Game Fundraiser at Clyde Allen Field
