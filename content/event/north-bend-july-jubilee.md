@@ -30,6 +30,8 @@ date: '2019-02-10T00:00:00.000+00:00'
 
 7:00pm - <a href="https://ci.ovationtix.com/36014/production/1194829" target="_blank" rel="noopener">Jacob Jolliff Band at The Liberty Theatre</a> - Jacob Jolliff is one of the world’s premier contemporary mandolinists.
 
+![The Opry, Disc Golf, and the Merci Box Car](/img/jj-sat-events.jpg)
+
 #### Friday, July 12th
 
 3:00pm-5:00pm - Cutlip Building Centennial Celebration, North Bend Powersports<br>4:00pm-9:00pm - <a href="https://www.oregonsadventurecoast.com/event/annual-margarita-mill/" target="_blank" rel="noopener">Margarita-Mill</a> at The Mill Casino \* Hotel<br>4:30pm-5:00pm - Honored Citizen Awards and Cake Cutting at Grant Circle<br>5:00pm-7:00pm - <a href="https://www.facebook.com/events/1208134170178498/?rdid=SfgMDplYATfdct9S&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F2oV9ZrGCrrQsu7NF%2F" target="_blank" rel="noopener">Sip N Stroll around Downtown North Bend</a> - starts at the new North Bend Visitor Center, 745 California at Grant Circle, downtown<br>7:00pm-9:00pm - <a href="https://thelibertytheatre.org/" target="_blank" rel="noopener">OPRY at The Liberty Theatre</a><br>7:30pm-9:30pm - After Stroll at The Back Alley Pub & Grill featuring Sly & Co
