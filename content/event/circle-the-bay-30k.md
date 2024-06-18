@@ -28,7 +28,7 @@ largeboxphoto: /img/circlebay-1024x395.jpg
 mediumboxphoto: /img/circlebay-667x355.jpg
 smallboxphoto: /img/circlebay-340x214.jpg
 ---
-![](/img/race-16.jpg)
+![Woman runner on North Bend, Oregon's Bridge](/img/race-16-small.jpg)
 
 ### 30K (18 mile) 3-person relay or 1-person 30K run
 
