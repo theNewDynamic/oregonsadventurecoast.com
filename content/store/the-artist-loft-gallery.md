@@ -16,4 +16,7 @@ address:
   zip: '97420'
 phone_local: (541) 756-4088
 website: https://www.facebook.com/theartistloftgallery
+coordinates:
+  lat: '43.36719546356098'
+  lng: '-124.21554127371049'
 ---
