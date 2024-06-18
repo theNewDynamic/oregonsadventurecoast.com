@@ -24,7 +24,11 @@ date: '2019-02-10T00:00:00.000+00:00'
 
 **It's Time to Celebrate North Bend's 121st Birthday with July Jubilee! Featuring live music, a Sip N Stroll, food, cornhole, a 5k fun run, a disc golf tournament, and more! And The Mill's Margarita-Mill event is happening too!**
 
-### {{< floatimage src="/img/july-jubilee-2024-final.png" float="left" alt="" size="" >}}Schedule of Events:
+## {{< floatimage src="/img/july-jubilee-2024-final.png" float="left" alt="" size="" >}}Schedule of Events:
+
+&nbsp;
+
+{{< spacer "50" >}}
 
 ![Sip N Stroll, Opry and Margaritas!](/img/jj-fri-events.jpg)
 
