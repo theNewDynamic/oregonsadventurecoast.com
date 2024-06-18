@@ -3,7 +3,7 @@ _schema: default
 title: The Artist Loft Gallery
 property_description: >-
   Experience the wonderful art, beautiful jewelry, and unique handcrafted gift
-  items handcrafted by our many talented local artists.
+  items handcrafted by our many talented local artists. 
 photo_name: /img/artloft.jpeg
 photo_alt: A sunflower painting done in golds, reds and greens.
 property_category:
