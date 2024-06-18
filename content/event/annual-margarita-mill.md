@@ -23,7 +23,7 @@ smallboxphoto: /img/margarita-340x214.jpg
 ---
 ![](/img/2407-margarita-mill-save-the-date-header.jpg)
 
-**Let’s&nbsp;*taco bout*&nbsp;Margarita-Mill! The Mill Casino \* Hotel & RV Park is hosting the 2nd Annual Taco and Margarita Festival.**
+**Let’s**&nbsp;***taco bout***&nbsp;**Margarita-Mill! The Mill Casino \* Hotel & RV Park is hosting the 2nd Annual Taco and Margarita Festival.**
 
 **Margaritas - Delicious Latin Flavors - Latin Dance! What could be better on a warm summer weekend?!**
 
@@ -31,7 +31,7 @@ Don't miss this two-day outdoor event featuring taco trucks and restauranteurs f
 
 Each vendor will have a full menu to serve to the public, as well a sample item, for purchase.
 
-**MORE DETAILS COMING SOON!**
+**The event will include live music from Grupo Masato and Dina Y los Rumberos Band.**
 
 ***Join us as we celebrate Latin culture at The Mill Casino!***
 
@@ -39,8 +39,8 @@ Each vendor will have a full menu to serve to the public, as well a sample item,
 
 ### EVENT SCHEDULE
 
-Coming Soon
+Friday, July 12, 2024 -  4 PM – 9 PM <br>Saturday, July 13, 2024 - 2 PM – 9 PM
 
 {{< spacer "25" >}}
 
-**Tickets Info Coming Soon!**
+**Tickets Info:<br>**Tickets On sale June 21, 2024 in Ko-Kwel Gifts <br>**$5 per day**
