@@ -90,9 +90,7 @@ Join fellow runners and walkers for the 1/2-mile kid’s run and the 4K for grow
 
 #### **Mingus Park Fun - July 4th**
 
-Spend the day with family and friends in Coos Bay's beautiful Mingus Park. Booths and fishing are set up from 11am to 2pm.
-
-Plus, Free Swim at Mingus Park Pool!
+Spend the day with family and friends in Coos Bay's beautiful Mingus Park. Events include the Boy Scouts Hamburger Stand fundraiser, Smokey the Bear with the Coos Forest Protective Association, ODFW's fishing pond, art, furry friends, and more from 11am - 2pm. Plus, Free Swim at Mingus Park Pool from 2pm to 4pm!
 
 {{< spacer 25 >}}
 
