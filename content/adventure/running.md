@@ -54,7 +54,7 @@ Oregon's Adventure Coast offers an exhilarating experience for avid runners and 
 
 **April \| 68 Mile Run or 24 Mile Walk**
 
-This is a beautiful course on quiet country roads along a river featuring waterfalls, big trees, and serious hills.&nbsp; This is a 68-mile, 5 person running team or 24-mile, 4 person walking team. Staggered start depending on predicted finishing time. &nbsp;The slowest running teams (or those who want to get more value for money) will start at 6AM. &nbsp;Runners start at KPIC-TV parking lot in Roseburg, walkers start in Laverne Park, Coquille. The race will finish at the Coos Bay History Museum. <a href="https://southcoastrunningclub.org/roseburg-to-coos-bay-relay/" target="_blank" rel="noopener">Click here for race information.</a>
+This is a beautiful course on quiet country roads along a river featuring waterfalls, big trees, and serious hills.&nbsp; This is a 68-mile, 5 person running team or 24-mile, 4 person walking team. Staggered start depending on predicted finishing time. &nbsp;The slowest running teams (or those who want to get more value for money) will start at 6AM. &nbsp;Runners start at KPIC-TV parking lot in Roseburg, walkers start in Laverne Park, Coquille. The race will finish at the Coos Bay History Museum. [Click here for race information.](/event/roseburg-to-coos-bay-relay)
 
 {{< spacer 60 >}}
 
