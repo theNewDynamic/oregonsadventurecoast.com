@@ -2,6 +2,7 @@
 _schema: default
 title: Your Guide to Golfing on Oregon’s South Coast
 draft: false
+date: 2024-06-21T10:00:00-07:00
 description: >-
   With its temperate weather, gorgeous views, and beautifully maintained golf
   courses, the Oregon Coast is known for being a golfer's paradise - and nowhere
