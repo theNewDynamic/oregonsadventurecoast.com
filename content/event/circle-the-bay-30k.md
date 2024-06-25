@@ -28,7 +28,7 @@ largeboxphoto: /img/circlebay-1024x395.jpg
 mediumboxphoto: /img/circlebay-667x355.jpg
 smallboxphoto: /img/circlebay-340x214.jpg
 ---
-![Woman runner on North Bend, Oregon's Bridge](/img/race-16-small.jpg)
+![Circle the Bay - 30K Running Event in August](/img/circle-the-bay-header-695x400.jpg)
 
 ### 30K (18 mile) 3-person relay or 1-person 30K run
 
@@ -44,15 +44,15 @@ smallboxphoto: /img/circlebay-340x214.jpg
 
 {{< spacer 50 >}}
 
+![group running and individual woman running on the North Bend bridge](/img/circle-the-bay-collage-695x322.jpg)
+
+![animated runner in the country](/img/running-only-banner-02.gif)
+
 #### PRICES
 
-**Individual 30K:**
+**Individual 30K:<br>**$40 Club member, Non-member $55 through July 21; July 22 through Race Day: $55 member/$70 Non-member
 
-$40 Club member, Non-member $55 through July 21; July 22 through Race Day: $55 member/$70 Non-member
-
-**Team Relay 30K:**
-
-$120 per team through July 21. $150 per team July 22 through Race Day.
+**Team Relay 30K:<br>**$120 per team through July 21. $150 per team July 22 through Race Day.
 
 **Additional participants can join your team** for $40/person. Those teams will not be eligible for awards.
 
@@ -80,9 +80,9 @@ Individual 30K and Relay team \#1 runners start at 8 AM. Walkers start at 6:30 A
 * Participants, their fans, and all volunteers are invited to enjoy a post-race barbecue and beverages. Beer is donated by 7-Devils.
 * Water will be available at the exchanges, approximately every 6 miles.
 
-[CHECK THE RACE WEBSITE FOR MORE INFORMATION!](https://southcoastrunningclub.org/circle-the-bay/)
+[CHECK THE RACE WEBSITE FOR MORE INFORMATION!](https://southcoastrunningclub.org/circle-the-bay)
 
-{{< spacer "20" >}}
+{{< spacer "40" >}}
 
 ![Running in Our Area header](/img/event-running-hdrs-695x125-v02.jpg)
 
