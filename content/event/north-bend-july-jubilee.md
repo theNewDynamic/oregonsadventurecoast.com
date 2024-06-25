@@ -24,28 +24,26 @@ date: '2019-02-10T00:00:00.000+00:00'
 
 **It's Time to Celebrate North Bend's 121st Birthday with July Jubilee! Featuring live music, a Sip N Stroll, food, cornhole, a 5k fun run, a disc golf tournament, and more! And The Mill's Margarita-Mill event is happening too!**
 
-## {{< floatimage src="/img/july-jubilee-2024-final.png" float="left" alt="" size="" >}}
-
-&nbsp;
+## ![Sip N Stroll, Opry and Margaritas!](/img/jj-fri-events.jpg)
 
 {{< spacer "50" >}}
 
 ## Schedule of Events:
 
-![Sip N Stroll, Opry and Margaritas!](/img/jj-fri-events.jpg)
-
 #### Friday, July 12th
 
-3:00pm-5:00pm - Cutlip Building Centennial Celebration, North Bend Powersports<br>4:00pm-9:00pm - <a href="https://www.oregonsadventurecoast.com/event/annual-margarita-mill/" target="_blank" rel="noopener">Margarita-Mill</a> at The Mill Casino \* Hotel<br>4:30pm-5:00pm - Honored Citizen Awards and Cake Cutting at Grant Circle<br>5:00pm-7:00pm - <a href="https://www.facebook.com/events/1208134170178498/?rdid=SfgMDplYATfdct9S&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F2oV9ZrGCrrQsu7NF%2F" target="_blank" rel="noopener">Sip N Stroll around Downtown North Bend</a> - starts at the new North Bend Visitor Center, 745 California at Grant Circle, downtown<br>7:00pm-9:00pm - <a href="https://thelibertytheatre.org/" target="_blank" rel="noopener">OPRY at The Liberty Theatre</a><br>7:30pm-9:30pm - After Stroll at The Back Alley Pub & Grill featuring Sly & Co
+3:00pm-5:00pm - Cutlip Building Centennial Celebration, North Bend Powersports<br>4:00pm-9:00pm - <a href="https://www.oregonsadventurecoast.com/event/annual-margarita-mill/" target="_blank" rel="noopener">Margarita-Mill</a> at The Mill Casino \* Hotel<br>4:30pm-5:00pm - Honored Citizen Awards and Cake Cutting at Grant Circle<br>5:00pm-7:00pm - <a href="https://www.facebook.com/events/1208134170178498/?rdid=SfgMDplYATfdct9S&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F2oV9ZrGCrrQsu7NF%2F" target="_blank" rel="noopener">Sip N Stroll around Downtown North Bend</a> - starts at the new North Bend Visitor Center, 745 California at Grant Circle, downtown<br>7:00pm-9:00pm - <a href="https://thelibertytheatre.org/" target="_blank" rel="noopener">OPRY at The Liberty Theatre</a><br>7:30pm-9:30pm - After Stroll at <a href="https://northbendlanes.com/Back-Alley-Pub-Grill" target="_blank" rel="noopener">The Back Alley Pub &amp; Grill</a> featuring Sly & Co
 
 ![The Opry, Disc Golf, and the Merci Box Car](/img/jj-sat-events.jpg)
 
 #### Saturday, July 13th
 
-8:00am-10:00am - <a href="https://www.northbendoregon.us/forms.aspx?fid=598" target="_blank" rel="noopener">July Jubilee Jaunt Fun Run</a> 5K Run/Walk begins at North Bend Boardwalk - Registration at 8am, Run/Walk begins at 9am<br>9:00am Start - Disc Golf Tournament at Ferry Road & Windsor Parks <br>10:00am-3:00pm - Corn-Hole Tournament at North Bend Lanes/Back Alley Pub<br>10:00am-6:00pm - Family Activities at Pony Village Mall with a Market, Bounce House, Pole Vault, Face Painting and More!<br>10:00am-Noon - Oregon's Bay Area Beautification Event at North Bend Visitor Center, 745 California at Grant Circle<br>1:00pm-2:00pm - 75th Merci Box Train Car Celebration at Simpson Park<br>2:00pm - Journey Under the Sea at North Bend Library<br>2:00pm-9:00pm - <a href="https://www.oregonsadventurecoast.com/event/annual-margarita-mill/" target="_blank" rel="noopener">Margarita-Mill</a> at The Mill Casino \* Hotel<br>7:00pm-9:00pm - <a href="https://thelibertytheatre.org/" target="_blank" rel="noopener">OPRY at The Liberty Theatre</a>
+8:00am-10:00am - <a href="https://www.northbendoregon.us/forms.aspx?fid=598" target="_blank" rel="noopener">July Jubilee Jaunt Fun Run</a> 5K Run/Walk begins at North Bend Boardwalk - Registration at 8am, Run/Walk begins at 9am<br>9:00am Start - <a href="/img/disc-golf-tourament-2024-july-jubilee-2.png" target="_blank" rel="noopener">Disc Golf Tournament at Ferry Road Park </a>\- FREE disc for first 50 registered on day of event. <br>10:00am-3:00pm - [Cornhole Tournament at North Bend Lanes/Back Alley Pub](/img/Cornhole-Tourney.pdf) sponsored by Ziply Fiber<br>10:00am-6:00pm - Family Activities at Pony Village Mall with a Market, Bounce House, Pole Vault, Face Painting and More!<br>10:00am-Noon - [Oregon's Bay Area Beautification Main Street Clean Up](/img/OBAB-Event.pdf) at North Bend Visitor Center, 745 California at Grant Circle<br>1:00pm-2:00pm - [75th Merci Box Train Car Celebration](/img/MERCI-TRAIN.pdf) at Simpson Park<br>2:00pm - Journey Under the Sea at North Bend Library<br>2:00pm-9:00pm - <a href="https://www.oregonsadventurecoast.com/event/annual-margarita-mill/" target="_blank" rel="noopener">Margarita-Mill</a> at The Mill Casino \* Hotel<br>7:00pm-9:00pm - <a href="https://thelibertytheatre.org/" target="_blank" rel="noopener">OPRY at The Liberty Theatre</a>
+
+<div class="cms-embed"></div>
 
 &nbsp;
 
 #### Sunday, July 14th
 
-10:00am-12:00pm - Historic Walking Tour at Hotel North Bend<br>11:00am-1:00pm - Softball Game Fundraiser at Clyde Allen Field
+10:00am-Noon - [North Bend Historic Walking Tour](/img/Historic-Walking-Tour.pdf) - Starts at North Bend Hotel with Dick Wagner<br>11:00am-1:00pm - Softball Game Fundraiser at Clyde Allen Field
