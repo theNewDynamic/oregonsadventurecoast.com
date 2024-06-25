@@ -9,7 +9,7 @@ address:
   street2: ''
   zip: '97549'
 phone_local: (541) 756-4613
-website: www.northbendoregon.us/julyjubilee
+website: https://www.northbendoregon.us/pview.aspx?id=55056&catid=26
 desktoptitle: July Jubilee - North Bend's 121st Birthday!
 mobiletitle: July Jubiliee - North Bend's 121st Birthday!
 hovertitle: Join Us as we celebrate North Bend's 121st Birthday!
