@@ -54,7 +54,7 @@ If you're looking for a more laid-back and family-friendly golfing experience, S
 
 ## **\#4- Bandon Crossings Golf Course, Bandon**
 
-![](/img/bandon-crossings-golf-course.jpg)
+![](/img/bandon-crossings-golf-course-1.jpg)
 
 *Photo courtesy of Bandon Crossings Golf Course*
 
