@@ -23,7 +23,7 @@ desktoptitle: Circle the Bay 30K!
 mobiletitle: Circle the Bay 30K!
 hovertitle: Circle the Bay 30K!
 hoverdescription: Take a challenging run around the Coos Bay!
-photo: /img/circlebay-2048x530.jpg
+photo: /img/circle-the-bay-page-header-2048x50.jpg
 largeboxphoto: /img/circlebay-1024x395.jpg
 mediumboxphoto: /img/circlebay-667x355.jpg
 smallboxphoto: /img/circlebay-340x214.jpg
