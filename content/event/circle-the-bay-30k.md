@@ -32,13 +32,11 @@ smallboxphoto: /img/circlebay-340x214.jpg
 
 ### 30K (18 mile) 3-person relay or 1-person 30K run
 
-{{< floatimage src="/img/ctbbridgerunner-200x300.jpg" float="left" alt="Runner coming over the North Bend Bridge." size="40" >}}This challenging course covers 30 kilometers (18.6 miles), from Ferry Road Park in North Bend through the Coos Bay waterfront, around the bay through Eastside, and finishing back at Ferry Road Park. Run the whole thing yourself or form a 3-person team and make it a run-cheer-athon. The first leg is relatively flat, the second is moderately rolling, and the third is for hill lovers!
+This challenging course covers 30 kilometers (18.6 miles), from Ferry Road Park in North Bend through the Coos Bay waterfront, around the bay through Eastside, and finishing back at Ferry Road Park. Run the whole thing yourself or form a 3-person team and make it a run-cheer-athon. The first leg is relatively flat, the second is moderately rolling, and the third is for hill lovers!
 
 *Note: prices listed are for the entire team. The team captain signs up and then team members join the team*.
 
-**Be aware!** The course is open to cars, which are bigger than you! Take a breather and let them pass!
-
-{{< spacer 50 >}}
+{{< spacer 30 >}}
 
 ### <a class="learn-more-anywhere-btn" target="_blank" href="https://runsignup.com/Race/OR/NorthBend/CircletheBayNorthBend">REGISTER HERE</a>
 
