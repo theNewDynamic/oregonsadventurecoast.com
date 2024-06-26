@@ -48,9 +48,9 @@ This challenging course covers 30 kilometers (18.6 miles), from Ferry Road Park 
 
 #### PRICES
 
-**Individual 30K:<br>**$40 Club member, Non-member $55 through July 21; July 22 through Race Day: $55 member/$70 Non-member
+**Individual 30K:<br>**$75  through July 19, 2024 *(Prices increase July 20, 2024)*
 
-**Team Relay 30K:<br>**$120 per team through July 21. $150 per team July 22 through Race Day.
+**Team Relay 30K (3 People):<br>**$225 through July 19, 2024 *(Prices increase July 20, 2024)*
 
 **Additional participants can join your team** for $40/person. Those teams will not be eligible for awards.
 
