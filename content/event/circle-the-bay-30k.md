@@ -52,7 +52,7 @@ This challenging course covers 30 kilometers (18.6 miles), from Ferry Road Park 
 
 **Team Relay 30K (3 People):<br>**$225 through July 19, 2024 *(Prices increase July 20, 2024)*
 
-**Additional participants can join your team** for $40/person. Those teams will not be eligible for awards.
+**Additional participants can join your team** for $75/person. Those teams will not be eligible for awards.
 
 {{< spacer 25 >}}
 
