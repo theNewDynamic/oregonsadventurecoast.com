@@ -21,7 +21,7 @@ largeboxphoto: /img/margarita-1024x395.jpg
 mediumboxphoto: /img/margarita-667x355.jpg
 smallboxphoto: /img/margarita-340x214.jpg
 ---
-![](/img/2407-margarita-mill-save-the-date-header.jpg)
+![](/img/margarita-mill-edit.jpg)
 
 **Let’s**&nbsp;***taco bout***&nbsp;**Margarita-Mill! The Mill Casino \* Hotel & RV Park is hosting the 2nd Annual Taco and Margarita Festival.**
 
@@ -43,4 +43,4 @@ Friday, July 12, 2024 -  4 PM – 9 PM <br>Saturday, July 13, 2024 - 2 PM – 
 
 {{< spacer "25" >}}
 
-**Tickets Info:<br>**Tickets On sale June 21, 2024 in Ko-Kwel Gifts <br>**$5 per day**
+**Tickets Info:<br>Tickets On sale June 21, 2024 in Ko-Kwel Gifts <br>$5 per day**
