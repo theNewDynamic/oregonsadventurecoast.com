@@ -46,6 +46,10 @@ This challenging course covers 30 kilometers (18.6 miles), from Ferry Road Park 
 
 ![animated runner in the country](/img/running-only-banner-02.gif)
 
+{{< youtube id="40ZZUerWZbk?si=hfh-DSalq68W8ItR" title="Circle the Bay 30K Run & Relay" >}}
+
+{{< spacer "50" >}}
+
 #### PRICES
 
 **Individual 30K:<br>**$75  through July 19, 2024 *(Prices increase July 20, 2024)*
