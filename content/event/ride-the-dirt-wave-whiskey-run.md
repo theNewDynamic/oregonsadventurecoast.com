@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Ride the Dirt Wave - Whiskey Run
-startdate: '2023-07-22'
-enddate: '2023-07-23'
+startdate: '2024-07-20'
+enddate: '2024-07-21'
 address:
   city:
   state: Oregon
@@ -34,25 +34,25 @@ This is a great opportunity to come out and get to know the trails in a fun and 
 
 The celebration of the trails will include food, music & beverages on site. Food cart and beer from 7 Devils Brewery will be available for purchase.
 
-Don't Miss these two days of fun biking events on the Southern Oregon Coast!
+It’s more than just biking – it’s a celebration of community and adventure on the Southern Oregon Coast! **Two days of fun biking events on the Southern Oregon Coast!**
 
-**<a target="_blank" href="https://www.thedirtwave.com/whiskey-run/">VISIT THE WEBSITE FOR REGISTRATION AND MORE INFORMATION!!</a>**
+<a href="https://www.thedirtwave.com/whiskey-run/" target="_blank" rel="noopener"><strong>VISIT THE WEBSITE FOR REGISTRATION AND MORE INFORMATION!!</strong></a>
 
 ### {{< spacer "25" >}}
 
 ### SCHEDULE
 
-**Saturday, July 22, 2023**<br>9:00AM - Check-in & day of registration<br>10:30AM - Rides start<br>10:30AM-1PM - Rides led by bike club (see below for options).<br>11:00AM-3:00PM - Food & beverage garden open for purchase<br>12:00-12:45PM - Packet pick up & Registration for the Flow Duro Challenge<br>1:00 PM - Pre-Ride of Flow Duro Challenge Course<br>1:00–3:00PM - Trail celebration ~ Music, food & beverage garden<br>3:00PM - End of Day at trails
+**Saturday, July 20, 2024**<br>9:00 AM&nbsp;Check-in & day of registration <br>10:30 AM&nbsp;Rides start <br>10:30 AM-1 PM&nbsp;Rides led by bike club (see below for options)<br>11:00 AM-3:00 PM&nbsp;Food & beverage garden open for purchase <br>12:15-2:00 PM&nbsp;Packet pick up & Registration for the Flow Duro Challenge <br>1:00 PM&nbsp;Pre-Ride of Flow Duro Challenge Course <br>1:00 – 3:00 PM&nbsp;Trail celebration ~ Music, food & beverage garden <br>3:00 PM&nbsp;End of Day at trails
 
-**Sunday, July 23, 2023**<br>7:00AM - Check-in & day of registration<br>8:15AM - Check-in Closes<br>9:00AM - Race begins<br>9:00AM-1:00PM - Flow Duro Challenge – 2x’s down the race course<br>11:00AM-2:30PM - Food & beverage garden open for purchase<br>\*1:30-2:30PM - Awards Ceremony \*or within 45 minutes of the race finish<br>2:30PM - End of Day at trails
+**Sunday, July 21, 2024**<br>7:00 AM Check-in & day of registration   (only for those that did not pick-up packet on Saturday)<br>8:00 AM Check-in Closes<br>9:00 AM Race begins<br>9:00-1:00 PM Flow Duro Challenge – 2x’s down the race course<br>11:00 AM-2:30 PM Food & beverage garden open for purchase<br>1:30-2:30 PM Awards Ceremony or within 45 minutes of the race finish<br>2:30 PM End of Day
 
-{{< spacer "25" >}}<img width="15" title="Click and drag to move" height="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
+{{< spacer "25" >}}<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" height="15" width="15" />
 
 ### EVENTS & COSTS:
 
 #### **SATURDAY RIDE OPTIONS:**
 
-<br>**$20 + $2 OBRA fee (if not a member)**<br>Map to trails: <a target="_blank" href="https://goo.gl/maps/5JLMCCiKdUiHz2EH9">https://goo.gl/maps/5JLMCCiKdUiHz2EH9</a>
+<br>**$25 + $2 OBRA fee (if not a member)**<br>Map to trails: <a href="https://goo.gl/maps/5JLMCCiKdUiHz2EH9" target="_blank" rel="noopener">https://goo.gl/maps/5JLMCCiKdUiHz2EH9</a>
 
 **Advanced Ride**<br>10:30AM - Advanced Cross Country Ride<br>Full Flight: 20+/- miles, Longer, faster-paced no-drop ride for advanced riders. Are you looking to push your mileage at a good pace with fellow stoked riders? The “advanced ride” is for those who want to keep their wheels (mostly) on the ground and are comfortable on a longer ride at a faster pace. We definitely won’t be racing, but this ride is for those that are confident enough to keep up and enjoy the best of the trail system on all level trails from Green to Black. Guided by Whiskey Run gurus, you will ride in and out of the trees, up and down the slopes, and really get a good taste of what Whiskey has to offer!
 
@@ -62,13 +62,15 @@ Don't Miss these two days of fun biking events on the Southern Oregon Coast!
 
 #### SUNDAY CHALLENGE RACE
 
-**“Flow Duro Challenge”&nbsp;<br>$40 + $5 OBRA fee (if not a member)**
+**“Flow Duro Challenge”&nbsp;<br>$50 + $5 OBRA fee (if not a member)**
 
-A **fun, fast pace, timed competition down a flowy black diamond trail**. Racers will be placed in divisions by age and class and have two timed runs on the trail. The Flow Duro Challenge takes place on Gnome Wrecker + Gnome Wrecker Extension, winner will be the best of 2 laps. This trail is fast, flows well, and will keep you on your toes. There is a mix of traditional loam tread, mixed flowing contour, and steeper grades. Look for drops, roots, & steep fadeaways. ¾ mile trail, 378 ft. descent, average time is approx. 4:00 minutes.
+**Get ready to shred Gnome Wrecker in the ultimate Flow Duro Challenge!** This fast-paced, timed race down a flowy black diamond trail promises non-stop excitement. Riders will be sorted into age and class divisions, each tackling two thrilling runs on the course.
 
-**We will have packet pick up and registration on Saturday, July 22nd from 12-12:45 PM for the Flow Duro Challenge**. There will be a Pre-Ride of the course on Saturday @ 1 PM.
+The competition heats up as racers aim to conquer the trail and claim victory based on their best time from two laps. With its speedy flow and challenging terrain, Gnome Wrecker will keep you on your toes with its mix of loam tread, flowing contours, and steep grades. Watch out for drops, roots, and thrilling fadeaways as you navigate this adrenaline-packed course.
 
-Here is the link to Trail Forks maps for more information & videos of trail:<br><a target="_blank" href="https://www.trailforks.com/region/whiskey-run-trails-21273/">https://www.trailforks.com/region/whiskey-run-trails-21273/</a>
+At just ¾ mile long with a 378 ft. descent, the average run time clocks in around 4 minutes, ensuring an action-packed ride from start to finish. Get ready to unleash your inner mountain biking champion!
+
+Here is the link to Trail Forks maps for more information & videos of trail:<br>[https://www.trailforks.com/region/whiskey-run-trails-21273/](https://www.trailforks.com/region/whiskey-run-trails-21273/)
 
 **Categories:**<br>Expert: Men & Women: 19-31, 32-44, 45+ & Junior 9-13 & 14-18<br>Sport: Men & Women: 19-31, 32-44, 45+ & Junior 9-13 & 14-18<br>E-Bikes: Class 1, pedal assist, no throttles allowed.
 
@@ -76,6 +78,6 @@ Here is the link to Trail Forks maps for more information & videos of trail:<br>
 
 {{< spacer "40" >}}
 
-**EVENT BROUGHT TO YOU BY:**<br>Oregon Coast Visitors Association<br>Bandon Chamber of Commerce<br>Oregon Rides & Events
+**EVENT BROUGHT TO YOU BY:**<br>Oregon Coast Visitors Association<br>Bandon Chamber of Commerce<br>Oregon´s Adventure Coast<br>Oregon Rides & Events
 
-**SPONSORS:**<br>Wild Rivers Coast Mountain Bicycling Association<br>Travel Southern Oregon Coast<br>Wild Rivers Coast Alliance<br>Oregon´s Adventure Coast<br>South Coast Bicycles<br>7 Devils Brewery
+**SPONSORS:**<br>Wild Rivers Coast Mountain Bicycling Association<br>Travel Southern Oregon Coast<br>Wild Rivers Coast Alliance<br>South Coast Bicycles<br>7 Devils Brewery
