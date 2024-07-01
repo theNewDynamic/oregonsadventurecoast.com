@@ -27,10 +27,4 @@ To help you get started discovering our exciting and exhilarating adventures, we
 
 Contact Oregon’s Adventure Coast with any questions you may have about things to do on your vacation!!
 
-{{< spacer "30" >}}
-
-
-
-[![](/img/crab-cake-bake-off-695wide-2ndannual-03-24.jpg)](/bake)
-
 {{< spacer 50 >}}
