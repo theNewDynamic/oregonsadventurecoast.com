@@ -34,9 +34,6 @@ slideshow:
     video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
-  - url: /bake
-    img: /img/crab-cake-bake-off-splash-v02-1.jpg
-    alt: Claw-some Crab Cake Bake-Off Contest
   - url: /coos-bay-150
     img: /img/city-coos-bay-150th-button-hm-page.jpg
     alt: City of Coos Bay Celebrating 150 Year Anniversary Button
