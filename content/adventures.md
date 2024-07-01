@@ -182,10 +182,6 @@ We invite you to explore, to discover, to feel, and to know the incredible adven
 {{< spacer 30 >}}
 
 
-## [![](/img/crab-cake-bake-off-2048x190-2ndannual-03-24.jpg)](/bake)
-
-{{< spacer 30 >}}
-
 {{< youtube id="lqZ8lTjprxg" >}}
 
 {{< spacer 50 >}}
