@@ -6,13 +6,13 @@
 {{ $s.SetInMap "data" "title" .name }}
 
 {{ if and $.latitude $.longitude }}
-  {{ $s.SetInMap "data" "_geo" (dict 
+  {{ $s.SetInMap "data" "_geo" (dict
     "lat" (float $.latitude)
     "lng" (float $.longitude)
   ) }}
 {{ end }}
 
-{{ range $key := slice 
+{{ range $key := slice
   "description"
 }}
   {{ with index $ $key }}
@@ -48,7 +48,7 @@
   {{ end }}
 {{ end }}
 
-
+{{ $categories := slice }}
 {{ with $.attributes }}
   {{ $phones := slice }}
   {{ range $object := . }}
@@ -60,7 +60,7 @@
       {{ else if eq .name "zip_code" }}
         {{ $s.SetInMap "data" "zip" $object.value }}
       {{ else if eq .name "restaurants_category" }}
-        {{ $s.SetInMap "data" "categories" (split $object.value "| ") }}
+        {{ $categories = split $object.value "| " }}
       {{ else if eq .name "phone" "phone1" "phone2" }}
         {{ $phones = $phones | append $object.value }}
       {{ end }}
@@ -70,5 +70,15 @@
     {{ $s.SetInMap "data" "phones" . }}
   {{ end }}
 {{ end }}
+
+{{ with .type }}
+  {{ with .name }}
+    {{ if eq . "Food Carts" }}
+      {{ $categories = $categories | append "Food Carts" }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $s.SetInMap "data" "categories" $categories }}
 
 {{ return $s.Get "data" }}
