@@ -4,11 +4,11 @@ title: Entertainment and Nightlife
 url: /entertainment-and-nightlife
 photo: /img/nightlife-entertainment-sub-header.jpg
 seo:
+  title: Oregon Coast Trips - Entertainment/Nightlife | Oregon's Adventure Coast
   description: >-
     Browse entertainment and nightlife options during your Oregon Coast trip!
     Our authentic, down-to-earth vibe promises an evening you won’t find
     anywhere else.
-  title: Oregon Coast Trips - Entertainment/Nightlife | Oregon's Adventure Coast
 aliases:
   - /activities/category/entertainment
 ---
@@ -34,15 +34,17 @@ Here are some of the best local places that support up and coming bands and musi
 
 **7 Devils Brewery**<br>247 S 2nd St.<br>Coos Bay, OR 97420<br>(541) 808-3738<br>[www.7devilsbrewery.com](http://www.7devilsbrewery.com)
 
-Located in downtown Coos Bay, this local brew pub has quickly become a favorite gathering place. It’s a great place to take in tunes from local bands like the Dale Inskeep Band, Che’s Lounge and even Portland-based music like Scratchdog String Band (Americana) and Cascade Crescendo (Bluegrass). Guests enjoy their seasonal menu selections and of course plenty of craft beer. If you stop in on a Monday night, stick around for Pub Trivia!
+Located in downtown Coos Bay, this local brew pub has quickly become a favorite gathering place. It’s a great place to take in tunes from local and regional bands. Guests enjoy their seasonal menu selections and of course plenty of craft beer. If you stop in on a Monday night, stick around for Pub Trivia! 7 Devils Brewery boasts the most wind protected outdoor lounge in Coos Bay! And to sweeten the deal, corn hole is available all day every day!
 
-divider
-![](/img/coney-station-entertainment.jpg)
+&nbsp;
+
+&nbsp;
+
+divider ![](/img/coney-station-entertainment.jpg)
 
 **Coney Station**<br>295 South Broadway<br>Coos Bay, OR 97420<br>(541)269-6948<br>[www.facebook.com/ConeyStation](https://www.facebook.com/ConeyStation)
 
-Coney Station offers a little something for everybody! From Dj Trivia, Live Music, NFL Picks, Texas Hold Em' poker, Happy Hour, Karaoke, and more their is always something going on. Located in the heart of downtown Coney Station strives to be the best place ever. Come aboard the Coney Station today!
-{{< /columns >}}
+Coney Station offers a little something for everybody! From Dj Trivia, Live Music, NFL Picks, Texas Hold Em' poker, Happy Hour, Karaoke, and more their is always something going on. Located in the heart of downtown Coney Station strives to be the best place ever. Come aboard the Coney Station today!{{< /columns >}}
 
 {{< spacer "30" >}}
 
