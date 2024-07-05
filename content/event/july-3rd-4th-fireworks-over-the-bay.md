@@ -57,7 +57,7 @@ Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [Th
 
 {{< spacer 15 >}}
 
-**Stick around for a 2nd night of Fireworks with the City of Coos Bay's Fireworks display over the Bay. The fireworks begin at dusk or approximately 9pm. The best viewing spot is from the Coos Bay Boardwalk!**
+**Stick around for a 2nd night of Fireworks with the City of Coos Bay's Fireworks display over the Bay. The fireworks begin at dark or approximately 10pm. The best viewing spot is from the Coos Bay Boardwalk!**
 
 Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen from most places along the Bay from The Coos History Museum to Eastside!
 
