@@ -9,7 +9,7 @@
 {{ $endpoints := dict
   "base" $base_url
   "calendar" "listings/?city=Coos+Bay,North+Bend,Charleston&type=events&app-nocache=true"
-  "dining" "listings/?city=Coos+Bay,North+Bend,Charleston&type=Restaurants&app-nocache=true"
+  "dining" "listings/?city=Coos+Bay,North+Bend,Charleston&type=Food+Carts|Restaurants&app-nocache=true"
 }}
 
 {{ with index $endpoints . }}
@@ -40,7 +40,7 @@
         }}
         {{ with resources.GetRemote
           $endpoint
-          $args 
+          $args
         }}
           {{ with .Err }}
             {{ warnf "%#v %#v" $endpoint . }}
