@@ -26,6 +26,12 @@ slideshow:
     photo_mobile:
     url: /atv-motorsports
     video:
+  - title:
+    photo: /img/circle-the-bay-home-slider-2024-2048x850.jpg
+    title_mobile:
+    photo_mobile: /img/circle-the-bay-mobile-2024-512x320.jpg
+    url: /event/circle-the-bay-30k
+    video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /coos-bay-150
