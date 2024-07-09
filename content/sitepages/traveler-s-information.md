@@ -84,7 +84,7 @@ There are a few things to keep in mind when bringing Fido along. Make sure you a
 
 And for the adventures that you can’t bring your pet along, we have plenty of pet sitting services who can help out! Please keep in mind you should check in advance with care providers to see what pet records are required.
 
-{{< columns number="3" >}}![Carol's Pet Sitting](/img/dog-01.jpg)
+{{< columns number="2" >}}![Carol's Pet Sitting](/img/dog-01.jpg)
 
 **Carol’s Pet Sitting** Coos Bay and Dunes City, OR (541) 297-6039 {{< link url="https://www.facebook.com/Carols-Pet-Sitting-301592177499/" >}}Carol's Pet Sitting{{< /link >}}
 
@@ -96,7 +96,13 @@ divider
 
 **Morgan Veterinary** 625 N Broadway, Coos Bay, OR (541) 269-5846 {{< link url="https://www.facebook.com/MorganVet/" >}}Morgan Veterinary{{< /link >}}
 
-Boarding and Day Care available for dogs, cats and birds. Their kennel attendants feed, nurture and lavish attention when you can’t be there. They provide tender loving care (such as brushing and cuddling), and supervised outdoor playtime to keep your pet happy and active. Hours are Mon-Fri 8:30am-5:30pm, weekend pick ups can be arranged.
+Boarding and Day Care available for dogs, cats and birds. Their kennel attendants feed, nurture and lavish attention when you can’t be there. They provide tender loving care (such as brushing and cuddling), and supervised outdoor playtime to keep your pet happy and active. Hours are Mon-Fri 8:30am-5:30pm, weekend pick ups can be arranged.{{< /columns >}}
+
+{{< columns number="2" >}}<img src="/img/dog-friendly-activities-oregon-coast-blog-695x322-jpg-1.png" alt="Howl A Day Inn" height="322" width="695" />
+
+**Howl A Day Inn** 12116 Wildwood Dr, North Bend, OR (541) 759-2642{{< link url="https://www.yelp.com/biz/howl-a-day-inn-north-bend" >}}[https://www.yelp.com/biz/howl-a-day-inn-north-bend](){{< /link >}}
+
+Howl A Day Inn offers boarding all sizes of dogs and cats. They provide food, bedding, and bowls, but pet owners are welcome to bring their pet's food and any blankets or toys that make their pet more comfortable. Howl A Day Inn strives to be a pet's "Home Away From Home".
 
 divider
 
