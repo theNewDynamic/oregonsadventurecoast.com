@@ -84,7 +84,8 @@ There are a few things to keep in mind when bringing Fido along. Make sure you a
 
 And for the adventures that you can’t bring your pet along, we have plenty of pet sitting services who can help out! Please keep in mind you should check in advance with care providers to see what pet records are required.
 
-{{< columns number="2" >}}![Carol's Pet Sitting](/img/dog-01.jpg)
+{{< columns number="2" >}}
+![Carol's Pet Sitting - Happy Dog on Road Trip](/img/dog-in-window-600x400.jpg)
 
 **Carol’s Pet Sitting** Coos Bay and Dunes City, OR (541) 297-6039 {{< link url="https://www.facebook.com/Carols-Pet-Sitting-301592177499/" >}}Carol's Pet Sitting{{< /link >}}
 
@@ -92,14 +93,14 @@ Pick up service at hotel or in town & short term care available for visitors; an
 
 divider
 
-![Morgan Veterinary](/img/dog-02.jpg)
+![Morgan Veterinary - Dog laying down with cat](/img/dog-w-cat-600x400.jpg)
 
 **Morgan Veterinary** 625 N Broadway, Coos Bay, OR (541) 269-5846 {{< link url="https://www.facebook.com/MorganVet/" >}}Morgan Veterinary{{< /link >}}
 
 Boarding and Day Care available for dogs, cats and birds. Their kennel attendants feed, nurture and lavish attention when you can’t be there. They provide tender loving care (such as brushing and cuddling), and supervised outdoor playtime to keep your pet happy and active. Hours are Mon-Fri 8:30am-5:30pm, weekend pick ups can be arranged.{{< /columns >}}
 
 {{< columns number="2" >}}
-![Howl A Day Inn - Dog Looking Happy](/img/howl-a-day-inn.jpg)
+![Howl a Day Inn - Happy black and white dog](/img/happy-black-and-white-dog-600x400.jpg)
 
 **Howl A Day Inn** 12116 Wildwood Dr, North Bend, OR (541) 759-2642{{< link url="https://www.yelp.com/biz/howl-a-day-inn-north-bend" >}}[https://www.yelp.com/biz/howl-a-day-inn-north-bend](){{< /link >}}
 
@@ -107,7 +108,7 @@ Howl A Day Inn offers boarding all sizes of dogs and cats. They provide food, be
 
 divider
 
-![Riverview Kennels](/img/dog-03.jpg)
+![Riverview Kennels - two dogs with chew pull toy](/img/dogw-w-tug-toy.600x400.jpg)
 
 **Riverview Kennels** 83737 North Bank Ln Bandon, OR (541) 347-4689 {{< link url="http://riverviewkennels.com" >}}RiverviewKennels.com{{< /link >}}
 
@@ -116,8 +117,6 @@ Riverview Kennels would be pleased to host your family pet member at our highly 
 ### SAFETY
 
 We want to make sure that you’re safe and sound while visiting, so here are a few tips to remember:
-
-
 
 * While our oceans are beautiful and there for your enjoyment, please remember to respect the power of the ocean.
 * **Never turn your back on the ocean.**
