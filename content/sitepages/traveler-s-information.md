@@ -99,7 +99,7 @@ divider
 Boarding and Day Care available for dogs, cats and birds. Their kennel attendants feed, nurture and lavish attention when you can’t be there. They provide tender loving care (such as brushing and cuddling), and supervised outdoor playtime to keep your pet happy and active. Hours are Mon-Fri 8:30am-5:30pm, weekend pick ups can be arranged.{{< /columns >}}
 
 {{< columns number="2" >}}
-![Morgan Veterinary](/img/dog-friendly-activities-300x200.png)
+![Howl A Day Inn - Dog Looking Happy](/img/howl-a-day-inn.jpg)
 
 **Howl A Day Inn** 12116 Wildwood Dr, North Bend, OR (541) 759-2642{{< link url="https://www.yelp.com/biz/howl-a-day-inn-north-bend" >}}[https://www.yelp.com/biz/howl-a-day-inn-north-bend](){{< /link >}}
 
@@ -116,6 +116,8 @@ Riverview Kennels would be pleased to host your family pet member at our highly 
 ### SAFETY
 
 We want to make sure that you’re safe and sound while visiting, so here are a few tips to remember:
+
+
 
 * While our oceans are beautiful and there for your enjoyment, please remember to respect the power of the ocean.
 * **Never turn your back on the ocean.**
