@@ -35,17 +35,19 @@ This three-day event will feature up to **20 food trucks from the Pacific Northw
 
 #### SCHEDULE:
 
-**Friday – August 2, 2024: 4:00 PM – 8:00 PM**
+**Friday – August 2, 2024: 4:00 PM – 9:00 PM**
 
-**Saturday – August 3, 2024: 11:00 AM – 6:00 PM**
+**Saturday – August 3, 2024: 12:00 AM – 6:00 PM**
 
 **Sunday – August 4, 2024: 12:00 PM – 4:00 PM**
 
-**LIVE MUSIC!<br>**There will be live music at the outdoor event on the Chuck Bracelin stage.
+**LIVE MUSIC!**<br>There will be live music at the outdoor event on the Chuck Bracelin stage.
 
 {{< spacer 50 >}}
 
-###### Tickets info coming soon!
+###### Tickets on Sale Now at Ko-Kwel Gifts in The Mill Casino or at the Gate!<br>$5 general admission per day
+
+*(portion will benefit the Boys & Girls Club of Southwestern Oregon)*
 
 #### {{< spacer 50 >}}
 
