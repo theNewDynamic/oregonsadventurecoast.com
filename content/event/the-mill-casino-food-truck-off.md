@@ -45,7 +45,7 @@ This three-day event will feature up to **20 food trucks from the Pacific Northw
 
 {{< spacer 50 >}}
 
-###### Tickets on Sale Now at Ko-Kwel Gifts in The Mill Casino or at the Gate!<br>$5 general admission per day
+##### Tickets on Sale Now at Ko-Kwel Gifts in The Mill Casino or at the Gate!<br>$5 general admission per day
 
 *(portion will benefit the Boys & Girls Club of Southwestern Oregon)*
 
