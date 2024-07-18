@@ -2,7 +2,7 @@
 _schema: default
 title: The Washed Ashore Project Open in North Bend!
 draft: false
-date: 2024-07-18T12:00:00-07:00
+date: 2024-07-18T10:00:00-07:00
 description: >-
   Since opening in 2010, thousands of residents and visitors of Oregon’s
   Adventure Coast have experienced the Washed Ashore Project, one of the most
