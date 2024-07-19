@@ -2,10 +2,8 @@
 _schema: default
 title: Red Lion Hotel
 property_description: >-
-  Experience Red Lion's signature blend of comfort and convenience mere blocks
-  from the bay. Spread out in comfortable rooms that feature plush pillow-top
-  beds, free Wi-Fi and HBO. Brickstone offers delicious dinners and Red Lion's
-  Signature breakfast.
+  Located mere blocks from the bay, this property is near shopping, dining, and
+  recreation options. Fitness room, free Wi-Fi, and EV Chargers available. 
 photo_name: /img/red-lion-cb.jpg
 photo_alt: Red Lion Hotel in Coos Bay, OR
 units: 144
