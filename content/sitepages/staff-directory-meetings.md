@@ -21,3 +21,7 @@ date: 2019-02-18T11:35:33-08:00
 **For Advertising/Marketing Inquiries, please contact our Advertising Agency of Record:**
 
 **ECHO CREATIVE**<br>Portland, OR<br>Rod Richards, [rod@echopdx.com](mailto:rod@echopdx.com)<br>Tim Goulet, [tim@echopdx.com](mailto:tim@echopdx.com)
+
+&nbsp;
+
+**Job Opening -** [**Visitor Services Manager**](/img/Visitor-Services-Mgr-Job-Description--2024.pdf)
