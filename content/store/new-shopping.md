@@ -11,4 +11,12 @@ address:
   street2:
   zip: '97420'
 phone_local: 541-888-4423
+coordinates:
+  lat: '43.38501852413691'
+  lng: '-124.28145513123013'
+seo:
+  title:
+  description: ''
+  imgalt:
+  image:
 ---
