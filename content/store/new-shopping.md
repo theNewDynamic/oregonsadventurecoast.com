@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: American Market
-draft: false
+draft: true
 property_description: Convenience store featuring fresh Indian food specialties.
 photo_name: /img/american-market-chicken-630x366-1.jpg
 address:
