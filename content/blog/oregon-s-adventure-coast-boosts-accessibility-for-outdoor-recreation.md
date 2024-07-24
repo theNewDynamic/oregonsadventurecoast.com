@@ -25,7 +25,7 @@ tags:
   - Coos Bay Visitor's Center
 warning: false
 ---
-&nbsp;
+*Photo above courtesy of* <a href="https://davidschair.org/" target="_blank" rel="noopener"><em>David's Chair Outdoor Mobility System</em></a>
 
 We believe everyone who visits **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston** should be able to enjoy its natural beauty and welcoming communities. To make our region a more inclusive destination, the [Oregon Coast Visitors Association (OCVA)](https://visittheoregoncoast.com/) and coastal partners like us are engaged in various initiatives to enhance Travelability, ensuring everyone can enjoy the Oregon coast. In addition, the Coos Bay Visitor Center recently added a solution for visitors with mobility challenges, so they can also enjoy the natural amenities that make Oregon’s South Coast such a special place to visit.
 
