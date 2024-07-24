@@ -41,11 +41,11 @@ This three-day event will feature up to **20 food trucks from the Pacific Northw
 
 **Sunday – August 4, 2024: 12:00 PM – 4:00 PM**
 
-**LIVE MUSIC ON THE ENTERTAINMENT STAGE!**<br>**Friday, August 2<br>**4pm-6pm – DJ Darryl<br>6pm-7pm Line Dancing with Cathy<br>7pm-9pm – DJ Darryl
+**LIVE MUSIC ON THE ENTERTAINMENT STAGE!**<br>**Friday, August 2**<br>4pm-6pm – DJ Darryl<br>6pm-7pm Line Dancing with Cathy<br>7pm-9pm – DJ Darryl
 
 **Saturday, August 3**<br>12pm-1pm - DJ Darryl<br>1pm-1:45pm – Line Dancing with Cathy<br>2pm- 4pm – Hit Machine Band<br>4pm-5pm - Line Dancing with Cathy<br>5pm- 6pm – Hit Machine Band
 
-**Sunday, August 4<br>**12pm-12:30pm – DJ Darryl<br>12:30pm-1:30pm - Line Dancing with Cathy<br>1:30pm- 3pm – Hit Machine Band<br>3pm-3:15pm Awards<br>3:15pm-4pm Hit Machine Band
+**Sunday, August 4**<br>12pm-12:30pm – DJ Darryl<br>12:30pm-1:30pm - Line Dancing with Cathy<br>1:30pm- 3pm – Hit Machine Band<br>3pm-3:15pm Awards<br>3:15pm-4pm Hit Machine Band
 
 {{< spacer 50 >}}
 
