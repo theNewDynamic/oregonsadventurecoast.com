@@ -40,9 +40,9 @@ tnd_socials:
     handle: oregonsadventurecoast
     url: https://www.tiktok.com/@oregonsadventurecoast?lang=en
 tnd_search:
-  template_storage: 
+  template_storage:
     templates_menu_item: &templates_menu_item
-      | 
+      |
       <label class="{{cssClasses.label }} {{#disabled}}disabled{{/disabled}}">
         <input type="checkbox" class="ais-refinement-list–checkbox" value="{{label}}" {{#isRefined}}checked="true"{{/isRefined}} {{#disabled}}disabled{{/disabled}}>
         {{label}}
@@ -92,7 +92,7 @@ tnd_search:
         item: refinement-item
       templates:
         item: *templates_menu_item
-    - &widget_hits 
+    - &widget_hits
       name: hits
       js: hits
       classes:
@@ -100,7 +100,7 @@ tnd_search:
         list: 'm-grid'
         item: 'm-lodging-item'
       templates:
-        item: | 
+        item: |
           <div class="photo" style="background-image:url({{image}});" alt="{{title}}">
           </div>
 
@@ -117,6 +117,7 @@ tnd_search:
               <h2>{{title}}</h2>
               <p class="address">
                 {{street}}<br>
+                {{#street_2}}{{street_2}}<br>{{/street_2}}
                 {{city}}, {{state}} {{zip}}<br>
                 {{#phone_links}}
                 {{{phone_links}}}
@@ -126,7 +127,7 @@ tnd_search:
             <div class="description">
               {{#units}}
                 <strong>
-                Units: {{units}} • {{cost}}: 
+                Units: {{units}} • {{cost}}:
                 </strong>
               {{/units}}
               {{{description}}}

@@ -55,6 +55,8 @@
     {{ with .schema }}
       {{ if eq .name "address1" }}
         {{ $s.SetInMap "data" "street" $object.value }}
+      {{ else if eq .name "address2" }}
+        {{ $s.SetInMap "data" "street_2" $object.value }}
       {{ else if eq .name "state" }}
         {{ $s.SetInMap "data" "state" $object.value }}
       {{ else if eq .name "zip_code" }}
