@@ -62,8 +62,8 @@ Concerts:<br>TBD<br>​​​​
 
 Featuring great music from some of our festival favorites! Stage is located at Central and 3rd Avenue.
 
-**Saturday, August 26th**<br>Bands TBD
+**Saturday, August 24th**<br>Bands TBD
 
-**Saturday, August 27th**<br>Bands TBD
+**Saturday, August 25th**<br>Bands TBD
 
 *The Blackberry Jam is brought to you by: Coos Bay Toyota and Pacific Properties*
