@@ -116,7 +116,7 @@ tnd_search:
             <div class="location">
               <h2>{{title}}</h2>
               <p class="address">
-                {{street}}<br>
+                {{#street}}{{street}}<br>{{/street}}
                 {{#street_2}}{{street_2}}<br>{{/street_2}}
                 {{city}}, {{state}} {{zip}}<br>
                 {{#phone_links}}
