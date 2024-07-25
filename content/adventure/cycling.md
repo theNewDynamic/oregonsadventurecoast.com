@@ -48,7 +48,7 @@ accordion_sections:
 ---
 ## Make Some Tracks!
 
-Whether you take to the road, fat bike on the beach, or careen around single-track trails, you will find heart pumping options on Oregon's Adventure Coast. Our friends at the Front Street Community Bike Works have put together a wonderful resource of cycling trail maps from no hills to dare devil! [Click here for the City Bike Riding Trails Map (PDF).](/img/FSCBW-BIKE-TRAIL-MAPS.pdf)
+Whether you take to the road, fat bike on the beach, or careen around single-track trails, you will find heart pumping options on Oregon's Adventure Coast. Our friends at the Front Street Community Bike Works have put together a wonderful resource of cycling trail maps from no hills to dare devil! [Click here for the City Bike Riding Trails Map (PDF).](/img/FSCBW-BIKE-TRAIL-MAPS.pdf) Rent e-bike cruisers from Bahama Boards in Coos Bay! Call (541) 808-3535 for more information!
 
 {{< spacer 50 >}}
 
