@@ -48,7 +48,7 @@ The **Blackberry Arts Festival** is a juried arts and craft festival that has be
 
 ![](/img/blackberry-bar.jpeg)
 
-[7 Devils Brewing Co](https://www.facebook.com/7DevilsBrewingCo) is the unofficial beer garden of **The Blackberry Arts Festival**! They will have live music and BBQ in the evenings, and Blackberry drink and dessert specials all weekend!
+[7 Devils Brewing Co](https://www.facebook.com/7DevilsBrewingCo) is the official beer garden of **The Blackberry Arts Festival**! They will have live music and BBQ in the evenings, and Blackberry drink and dessert specials all weekend!
 
 Concerts:<br>TBD<br>​​​​
 
