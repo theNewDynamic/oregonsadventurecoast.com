@@ -35,6 +35,6 @@ This 21+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.
 * Yodeling Competition
 * And More!!
 
-#### TICKETS
+#### {{< floatimage src="/img/oktoberfestlogo.jpg" float="left" alt="" size="" >}}TICKETS
 
 Tickets go on sale September 1st<br>**General Admission: $35**
