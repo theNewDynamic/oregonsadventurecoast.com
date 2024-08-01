@@ -18,6 +18,7 @@ amenityList:
   - 6 - WiFi Available
   - 8 - Meeting Facilities
   - 10 - Chamber Member
+  - 11 - EV Charging
 address:
   city: Charleston
   state: OR
