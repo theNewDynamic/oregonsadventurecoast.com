@@ -20,6 +20,10 @@ largeboxphoto: /img/oktoberfest1024x395.jpg
 mediumboxphoto: /img/germanband667x355.jpg
 smallboxphoto: /img/oktoberfest340x214.jpg
 ---
+&nbsp;
+
+![Oktoberfest at The Coos History Museum](/img/oktoberfestlogo.jpg "Oktoberfest at The Coos History Museum")
+
 #### Join our friends at The Coos History Museum for the first Annual Oktoberfest Fundraising Event!
 
 This 21+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.facebook.com/roseburggermanband" target="_blank" rel="noopener"><strong>Roseburg German Band</strong></a>, a&nbsp;**Biergarten**&nbsp;serving&nbsp;<a href="https://7devilsbrewery.com/" target="_blank" rel="noopener"><strong>7 Devils</strong></a>&nbsp;brews,&nbsp;**German&nbsp;food, a silent auction, cake walk**&nbsp;and&nbsp;**Oktoberfest themed fun and games**!&nbsp;
@@ -35,6 +39,6 @@ This 21+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.
 * Yodeling Competition
 * And More!!
 
-#### {{< floatimage src="/img/oktoberfestlogo.jpg" float="left" alt="" size="" >}}TICKETS
+#### TICKETS
 
 Tickets go on sale September 1st<br>**General Admission: $35**
