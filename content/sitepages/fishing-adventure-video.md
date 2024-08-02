@@ -5,4 +5,4 @@ draft: false
 url: /fishing-video-landing-page
 layout: headless
 ---
-{{< youtube id="aZcOWSDfTQY?si=UGzz8fk6VRE6kVYd" title="Oregon's Adventure Coast - Fishing Adventure" >}}
+{{< youtube id="FdOXZIvmsNM?si=Pjhp-ynib52gwY3h" title="Oregon's Adventure Coast - Fishing Adventure" >}}
