@@ -10,7 +10,7 @@ description: >-
   Visitor Center recently added a solution for visitors with mobility
   challenges, so they can also enjoy the natural amenities that make Oregon’s
   South Coast such a special place to visit.
-image: /img/david-s-chair-coos-bay-blog-695x322-jpg.jpg
+image: /img/davidschair-bastendorff-695x322.jpg
 tags:
   - Accessibility
   - Inclusion
