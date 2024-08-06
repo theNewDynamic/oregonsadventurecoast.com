@@ -3,6 +3,24 @@ _schema: default
 title: Announcing the Winners of Our 2024 "Claw-some" Crab Cake Bake-Off!
 draft: true
 date: 2024-08-07T10:00:00-07:00
+description: >-
+  Announcing the winners of the 2nd Annual "Claw-some" Crab Cake Bake-Off,
+  hosted by Oregon's Adventure Coast. Take a look at these winning crab-themed
+  cakes submitted by amateur and professional bakers alike!
+image: /img/2024-clawsome-crab-bake-winners-blog-695x322-jpg.jpg
+tags:
+  - Claw-some Crab Cake Bake-Off
+  - Baking Contest
+  - Dungeness crab
+  - Oregon's Adventure Coast
+  - Coos Bay
+  - North Bend
+  - Charleston
+  - Bake-Off
+  - Crab Cake Bake Off
+  - Crab Cake Bake Off Winners
+  - Contest
+  - Crab
 warning: false
 ---
 Early last spring, Oregon's Adventure Coast kicked off its [2nd Annual "Claw-some" Crab Cake Bake-Off](https://www.oregonsadventurecoast.com/crab-cake-bake-off/), inviting amateur and professional bakers to showcase their creativity with crab-inspired cakes (not actual crab dishes). We chose this theme to celebrate the historical significance of Dungeness crab in Oregon’s fishing industry—and to add an extra layer of fun to the competition!
