@@ -73,14 +73,6 @@
   {{ end }}
 {{ end }}
 
-{{ with .type }}
-  {{ with .name }}
-    {{ if eq . "Food Carts" }}
-      {{ $categories = $categories | append "Food Carts" }}
-    {{ end }}
-  {{ end }}
-{{ end }}
-
 {{ $s.SetInMap "data" "categories" $categories }}
 
 {{ return $s.Get "data" }}
