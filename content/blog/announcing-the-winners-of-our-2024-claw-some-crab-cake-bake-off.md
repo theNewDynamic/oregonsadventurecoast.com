@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Announcing the Winners of Our 2024 "Claw-some" Crab Cake Bake-Off!
-draft: true
+draft: false
 date: 2024-08-07T10:00:00-07:00
 description: >-
   Announcing the winners of the 2nd Annual "Claw-some" Crab Cake Bake-Off,
@@ -108,6 +108,7 @@ Turner Benedict from Kennewick, WA, placed 3rd in the Kids Category with his cre
 **A huge thank you to everyone who entered our 2024 "Claw-some" Crab Cake Bake-Off!** The creativity and craftsmanship displayed by our bakers were truly inspiring. If you missed out on this year’s contest, don’t fret - we have a feeling the Claw-some Crab Cake Bake-Off will return next year, bigger and better than ever! Stay tuned by following [Oregon’s Adventure Coast Facebook,](https://www.facebook.com/OregonsAdventureCoast/) [@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/), and [TikTok](https://www.tiktok.com/@oregonsadventurecoast?lang=en) and keeping an eye on our blog for the latest announcements!
 
 We are here to help you plan your next adventure on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. Visit our featured [adventures page](https://www.oregonsadventurecoast.com/adventures) and our [trip ideas page](https://www.oregonsadventurecoast.com/tripideas) to find more travel ideas and inspiration and [request your FREE visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform)!
+
 
 <br>
 
