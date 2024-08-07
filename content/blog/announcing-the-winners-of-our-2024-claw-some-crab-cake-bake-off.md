@@ -43,7 +43,7 @@ Keep reading to see the full list of our 1st, 2nd, and 3rd place winners and the
 
 ![1st Place Winner Professional: Kayla Brown - Oh How The Tides Have Turned](/img/1st-place-winner-kayla-brown-oh-how-the-tides-have-turned-1.jpg)
 
-Congratulations to Kayla Brown from Portland, OR, the first-place winner in our Professional Bakers category for her cake, *Oh How the Tides Have Turned!* This decadent vanilla cake with sea salt buttercream features house-made marshmallow fondant, rice crispy claws, and a graham cracker sea complete with a white chocolate broth. “Meet Crabatouille, the cutest, most monstrous chef-eating crab in the sea,” Kayla says of her creation. “Try to cook him, and he’ll steal your treasured recipe and use you for the main course! Argh \[in a pirate accent\]!”
+Congratulations to Kayla Brown from Portland, OR, the first-place winner in our Professional Bakers category for her cake, *Oh How the Tides Have Turned!* This decadent vanilla cake with sea salt buttercream features house-made marshmallow fondant, rice crispy claws, and a graham cracker sea complete with a white chocolate broth. “Meet Crabatouille, the cutest, most monstrous chef-eating crab in the sea,” Kayla says of her creation. “Try to cook him, and he’ll steal your treasured recipe and use you for the main course! Argh \[in your best pirate accent\]!”
 
 ### 2nd Place Winner: Chelsea Baker- *On the Dock at Kelly’s*
 
