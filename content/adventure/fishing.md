@@ -12,11 +12,15 @@ aliases:
   - /featured-adventures/fishing-crabbing-clamming
   - /activities/category/fishing
 ---
+&nbsp;
+
 <div class="float-right-350px">
 <p><img src="/img/fishing-wayne-225x.jpg" alt="Fishing is amazing on Oregon's Adventure Coast" width="100%" />
 </p><p>
 <img src="/img/wayne_middle_fork_drift_wide.jpg" alt="Fishing in a boat on the ocean" width="100%" /></p>
 </div>
+
+&nbsp;
 
 When it comes to fishing in Oregon, opportunities are in no short supply – especially here on Oregon’s Adventure Coast! There are fish for every season and an endless choice of prime fishing spots to select from.
 
@@ -32,7 +36,7 @@ We’ve also put together a [list of resources](/img/fishing-rackcard.pdf) that 
 
 ### {{< spacer "15" >}}
 
-![](/img/bassderby.jpg)
+![](/img/sub-page-fishing-small-mouth-bass-695x125.jpg)
 
 Each year, June to October, the Coquille River STEP Association and the Coquille Indian Tribe host a **Smallmouth Bass Derby**. If a fisherman catches a chipped smallmouth bass, they could win anywhere from $20 to $5,000!!! Bring your smallmouth bass to Sturdivant Park in Coquille on Saturdays from 4-8pm, Port of Coquille in Myrtle Point on Sundays from 4-8pm or Pioneer House in Powers on Thursdays from 4-8pm to have your fish scanned. <a href="https://www.facebook.com/profile.php?id=100095005862094" target="_blank" rel="noopener">Visit the Facebook Page for More</a>.
 
