@@ -20,6 +20,6 @@ date: 2019-02-18T11:35:33-08:00
 
 **For Advertising/Marketing Inquiries, please contact our Advertising Agency of Record:**
 
-**ECHO CREATIVE**<br>Portland, OR<br>Rod Richards, [rod@echopdx.com](mailto:rod@echopdx.com)<br>Tim Goulet, [tim@echopdx.com](mailto:tim@echopdx.com)
+**ECHO CREATIVE**<br>Portland, OR<br>(503) 892-2443<br>Rod Richards, [rod@echopdx.com](mailto:rod@echopdx.com)<br>Tim Goulet, [tim@echopdx.com](mailto:tim@echopdx.com)
 
 &nbsp;
