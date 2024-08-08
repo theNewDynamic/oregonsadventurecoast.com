@@ -42,11 +42,7 @@ According to Oregon fishing regulations, an Oregon fishing license is required f
 
 {{< spacer 20 >}}
 
-{{< floatimage src="/img/fishing-rackcard.png" float="left" alt="Fishing Information Rack Card PDF" size="20" >}}
-
-[Download our<br> Fishing Information<br> Rack Card here (PDF).](/img/fishing-rackcard.pdf)
-
-{{< spacer >}}
+<a href="/img/fishing-rackcard.pdf" target="_blank" rel="noopener"><img src="/img/fishing-rack-card-download-image.jpg" alt="click to download our fishing information rack card " /></a>
 
 ![fishing months and seasons](/img/fishing-months-01.jpg)
 
