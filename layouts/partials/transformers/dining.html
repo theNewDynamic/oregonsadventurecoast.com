@@ -55,6 +55,8 @@
     {{ with .schema }}
       {{ if eq .name "address1" }}
         {{ $s.SetInMap "data" "street" $object.value }}
+      {{ else if eq .name "address2" }}
+        {{ $s.SetInMap "data" "street_2" $object.value }}
       {{ else if eq .name "state" }}
         {{ $s.SetInMap "data" "state" $object.value }}
       {{ else if eq .name "zip_code" }}
@@ -68,14 +70,6 @@
   {{ end }}
   {{ with $phones }}
     {{ $s.SetInMap "data" "phones" . }}
-  {{ end }}
-{{ end }}
-
-{{ with .type }}
-  {{ with .name }}
-    {{ if eq . "Food Carts" }}
-      {{ $categories = $categories | append "Food Carts" }}
-    {{ end }}
   {{ end }}
 {{ end }}
 
