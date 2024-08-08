@@ -12,11 +12,15 @@ aliases:
   - /featured-adventures/fishing-crabbing-clamming
   - /activities/category/fishing
 ---
+&nbsp;
+
 <div class="float-right-350px">
 <p><img src="/img/fishing-wayne-225x.jpg" alt="Fishing is amazing on Oregon's Adventure Coast" width="100%" />
 </p><p>
 <img src="/img/wayne_middle_fork_drift_wide.jpg" alt="Fishing in a boat on the ocean" width="100%" /></p>
 </div>
+
+&nbsp;
 
 When it comes to fishing in Oregon, opportunities are in no short supply – especially here on Oregon’s Adventure Coast! There are fish for every season and an endless choice of prime fishing spots to select from.
 
@@ -28,11 +32,11 @@ There are more than [30 freshwater lakes and rivers](/tripideas/fresh-water-fish
 
 {{< floatimage src="img/varieties-fish-icon.png" float="left" alt="Different Varieties of Fish in Our Area" size="100" >}}[Click here for a look at all the different varieties of fishing available in our area.](/fishing-by-style)
 
-We’ve also put together a [list of resources](/img/fishing-rackcard.pdf) that will be helpful in planning your trip. Be sure to visit one of our [bait shops](https://www.oregonsadventurecoast.com/equipment-rent-and-buy) while in the area; they’re always willing to share pointers with visiting anglers.
+We’ve also put together a [list of resources](/img/fishing-rackcard.pdf) that will be helpful in planning your trip. Be sure to visit one of our [bait shops](/equipment-rent-and-buy) while in the area; they’re always willing to share pointers with visiting anglers.
 
 ### {{< spacer "15" >}}
 
-![](/img/bassderby.jpg)
+![](/img/sub-page-fishing-small-mouth-bass-695x125.jpg)
 
 Each year, June to October, the Coquille River STEP Association and the Coquille Indian Tribe host a **Smallmouth Bass Derby**. If a fisherman catches a chipped smallmouth bass, they could win anywhere from $20 to $5,000!!! Bring your smallmouth bass to Sturdivant Park in Coquille on Saturdays from 4-8pm, Port of Coquille in Myrtle Point on Sundays from 4-8pm or Pioneer House in Powers on Thursdays from 4-8pm to have your fish scanned. <a href="https://www.facebook.com/profile.php?id=100095005862094" target="_blank" rel="noopener">Visit the Facebook Page for More</a>.
 
