@@ -3,10 +3,10 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
-    photo: /img/circle-the-bay-home-slider-2024-2048x850.jpg
+    photo: /img/blackberry-artsfest-home-slider-24-2048x850.jpg
     title_mobile:
-    photo_mobile: /img/circle-the-bay-mobile-2024-512x320.jpg
-    url: /event/circle-the-bay-30k
+    photo_mobile: /img/blackberry-arts-fest-2024-mobile.jpg
+    url: /event/annual-blackberry-arts-festival
     video:
   - title:
     photo: /img/summer-getaway-beach-home-slider.jpg
