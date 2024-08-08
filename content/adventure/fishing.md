@@ -2,7 +2,7 @@
 _schema: default
 title: Fishing
 url: /fishing
-photo: /img/fishing-page-sub-header.jpg
+photo: /img/fishing-pg-header-north-spit-2048x630.jpg
 seo:
   title: Oregon Coast Things to Do - Fishing Trips | Oregon's Adventure Coast
   description: >-
@@ -12,15 +12,7 @@ aliases:
   - /featured-adventures/fishing-crabbing-clamming
   - /activities/category/fishing
 ---
-&nbsp;
-
-<div class="float-right-350px">
-<p><img src="/img/fishing-wayne-225x.jpg" alt="Fishing is amazing on Oregon's Adventure Coast" width="100%" />
-</p><p>
-<img src="/img/wayne_middle_fork_drift_wide.jpg" alt="Fishing in a boat on the ocean" width="100%" /></p>
-</div>
-
-&nbsp;
+![three men holding salmon they caught on a charter fishing outing](/img/fishing-3-salmon-695x322.jpg)
 
 When it comes to fishing in Oregon, opportunities are in no short supply – especially here on Oregon’s Adventure Coast! There are fish for every season and an endless choice of prime fishing spots to select from.
 
@@ -33,6 +25,8 @@ There are more than [30 freshwater lakes and rivers](/tripideas/fresh-water-fish
 {{< floatimage src="img/varieties-fish-icon.png" float="left" alt="Different Varieties of Fish in Our Area" size="100" >}}[Click here for a look at all the different varieties of fishing available in our area.](/fishing-by-style)
 
 We’ve also put together a [list of resources](/img/fishing-rackcard.pdf) that will be helpful in planning your trip. Be sure to visit one of our [bait shops](/equipment-rent-and-buy) while in the area; they’re always willing to share pointers with visiting anglers.
+
+![father and daughter lake fishing from a boat and couple holding fish from deep sea fishing](/img/fishing-lake-and-deep-sea-695x322.jpg)
 
 ### {{< spacer "15" >}}
 
@@ -48,11 +42,7 @@ According to Oregon fishing regulations, an Oregon fishing license is required f
 
 {{< spacer 20 >}}
 
-{{< floatimage src="/img/fishing-rackcard.png" float="left" alt="Fishing Information Rack Card PDF" size="20" >}}
-
-[Download our<br> Fishing Information<br> Rack Card here (PDF).](/img/fishing-rackcard.pdf)
-
-{{< spacer >}}
+<a href="/img/fishing-rackcard.pdf" target="_blank" rel="noopener"><img src="/img/fishing-rack-card-download-image.jpg" alt="click to download our fishing information rack card " /></a>
 
 ![fishing months and seasons](/img/fishing-months-01.jpg)
 
