@@ -13,4 +13,4 @@ layout: headless
 
 Fishing is an adventure in Coos Bay, North Bend, Charleston. Catch rockfish, bass, salmon, lingcod, halibut, and tuna from our oceans, jetties, lakes and rivers. Come to Oregon's Adventure Coast.
 
-Learn More
+### <a class="learn-more-anywhere-btn" target="" href="/fishing">Learn More</a>
