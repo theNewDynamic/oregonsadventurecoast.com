@@ -62,8 +62,8 @@ Concerts:<br>TBD<br>​​​​
 
 Featuring great music from some of our festival favorites! Stage is located at Central and 3rd Avenue.
 
-**Saturday, August 24th**<br>Bands TBD
+**Saturday, August 24th**<br>12:00 to 1:30 Jack Isenhart<br>2:00 to 3:30 Amber Yester and Ken Graber<br>4:00 to 5:30 Randy Nicholson
 
-**Saturday, August 25th**<br>Bands TBD
+**Saturday, August 25th**<br>1:00 to 1:30 Keely Whitney<br>2:00 to 3:30 Neil Gregory Johnson
 
 *The Blackberry Jam is brought to you by: Coos Bay Toyota and Pacific Properties*
