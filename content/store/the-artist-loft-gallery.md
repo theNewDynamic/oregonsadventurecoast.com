@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: The Artist Loft Gallery
+title: Artist Loft Gallery
 property_description: >-
   Experience the wonderful art, beautiful jewelry, and unique handcrafted gift
   items handcrafted by our many talented local artists. 
