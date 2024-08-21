@@ -30,6 +30,10 @@ This 21+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.
 
 ![Roseburg German Band in concert](/img/german-band.jpg "Roseburg German Band")
 
+#### DATE/TIME
+
+**Saturday, October 12th from 5:30pm-9:00pm**<br>Coos History Museum
+
 #### EVENT FEATURES
 
 * Live music with the Roseburg German Band
