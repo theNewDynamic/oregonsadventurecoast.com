@@ -7,7 +7,7 @@ property_description: >-
   Located across the street from the Bay, within easy walking distance to
   downtown shopping & dining. Comfortable, well-appointed rooms, some with
   in-room hot tubs.
-photo_name: /img/New-Best-Western-exterior.jpg
+photo_name: /img/best-western-holiday-hotel-2024.jpg
 photo_alt: Best Western Holiday Hotel in Coos Bay, OR
 units: 83
 property_category: 1 - Hotels, Motels & Inns
