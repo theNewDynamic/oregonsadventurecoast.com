@@ -6,7 +6,7 @@ property_description: >-
   adventures close by. The Edgewater Inn offers comfortable rooms & suites with
   fridge, microwave, & free wifi. Some rooms with in-room hot tubs.
   Fishing/observation deck offers beautiful views of the bay. 
-photo_name: /img/EdgewaterInn.jpg
+photo_name: /img/edgewater-inn-and-suites-2024.jpg
 photo_alt: Edgewater Inn on the banks of Coos Bay
 units: 82
 property_category: 1 - Hotels, Motels & Inns

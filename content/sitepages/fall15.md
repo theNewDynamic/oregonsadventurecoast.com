@@ -60,7 +60,7 @@ divider
 
 {{< columns number="2" >}}
 
-![](/img/EdgewaterInn.jpg)
+![Edgewater inn and suites building front](/img/edgewater-inn-and-suites-2024.jpg)
 
 **Edgewater Inn**<br>275 E. Johnson Avenue<br>Coos Bay, OR 97420<br>541-267-0423
 
