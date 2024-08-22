@@ -6,9 +6,9 @@ property_description: >-
   with in-room spa tubs. Free Wi-Fi is available in all of their smoke-free
   guest rooms. Within 2 miles of shopping, dining & entertainment in both Coos
   Bay and North Bend. Motel 6: Save more for what you travel for®
-photo_name: /img/Motel-6-CB.jpg
+photo_name: /img/motel-6-sign-2024.jpg
 photo_alt: Motel 6 in Coos Bay, OR
-units: '94'
+units: 94
 property_category: 1 - Hotels, Motels & Inns
 cost: 2 - $$
 amenityList:
@@ -20,10 +20,10 @@ amenityList:
   - 9 - Handicap Accessible
   - 10 - Chamber Member
 address:
-  street: 1445 N. Bayshore Drive
-  street2:
   city: Coos Bay
   state: OR
+  street: 1445 N. Bayshore Drive
+  street2:
   zip: '97420'
 phone_local: 541-267-7171
 phone_toll_free: 800-466-8356
