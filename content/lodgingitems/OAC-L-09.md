@@ -8,7 +8,7 @@ property_description: >-
   Bay and North Bend. Motel 6: Save more for what you travel for®
 photo_name: /img/motel-6-sign-2024.jpg
 photo_alt: Motel 6 in Coos Bay, OR
-units: '94'
+units: 94
 property_category: 1 - Hotels, Motels & Inns
 cost: 2 - $$
 amenityList:
