@@ -22,8 +22,6 @@ aliases:
 
 ### Embrace the Beauty of Fall with Our Exclusive 15% Lodging Special!
 
-![best western holiday hotel in coos bay front of building](/img/best-western-holiday-hotel-2024.jpg)
-
 Discover the magic of fall in a destination that promises adventures to invigorate and recharge your soul. Book a 2-night getaway at one of our participating lodging properties and unlock our Fall 15% Lodging Special. **Please contact the property directly to make your reservations and get your savings.**
 
 *Discount is valid October 1, 2024 through November 30, 2024. Some restrictions apply and subject to change.*
@@ -32,7 +30,7 @@ Discover the magic of fall in a destination that promises adventures to invigora
 
 {{< columns number="2" >}}
 
-![](/img/New-Best-Western-exterior.jpg)
+![best western holiday hotel in coos bay front of building](/img/best-western-holiday-hotel-2024.jpg)
 
 **Best Western Holiday Hotel**<br>411 N. Bayshore Drive<br>Coos Bay, OR 97420<br>800-228-8655 | 541-269-5111
 
