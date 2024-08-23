@@ -36,7 +36,7 @@ smallboxphoto: /img/ial-joey-hamilton-340x214.jpg
 
 ***Doors open at 4:30pm, Concert begins at 5:00pm***
 
-###### ![](/img/p1320602.jpg)
+###### ![In a landscape music in the wild at Shore Acres State Park](/img/in-a-landscape-group-under-piano-695x322.jpg)
 
 ###### {{< spacer 25 >}}
 
@@ -60,7 +60,7 @@ Once the grand estate of timber baron Louis J. Simpson, Shore Acres features a *
 
 {{< spacer 25 >}}
 
-###### ![Hunter Noack, classical pianist.](/img/hunter-zach-lewis-667x355.jpg "Photo courtesy of IN A LANDSCAPE. Photo by Zach Lewis")
+###### ![Hunter Noack, classical pianist.](/img/in-a-landscape-collage-2024.jpg "Photo courtesy of IN A LANDSCAPE. Photo by Zach Lewis")
 
 {{< spacer 25 >}}
 
@@ -80,7 +80,7 @@ If you need assistance in purchasing tickets, email our ticketing office at [tic
 
 {{< spacer 25 >}}
 
-![](/img/in-a-landscape-shore-acres-1024x395.jpg "Hunter's piano awaits his concerts at Shore Acres in August 2021.")
+![](/img/in-a-landscape-piano-only-695x322.jpg "Hunter's piano awaits his concerts at Shore Acres in August 2021.")
 
 #### **HEADPHONES**
 
