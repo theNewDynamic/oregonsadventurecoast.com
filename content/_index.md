@@ -6,7 +6,7 @@ slideshow:
     photo: /img/salmon-celebration-bay-area-fun-fest-2048x850.jpg
     title_mobile:
     photo_mobile: /img/salmon-celebration-hm-mobile-512x320.jpg
-    url: /event
+    url: /events
     video:
   - title:
     photo: /img/summer-getaway-beach-home-slider.jpg
