@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: The Washed Ashore Project Open in North Bend!
+title: The Washed Ashore Project Opens in North Bend!
 draft: false
 date: 2024-07-18T10:00:00-07:00
 description: >-
