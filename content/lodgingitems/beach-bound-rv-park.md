@@ -6,7 +6,7 @@ property_description: >-
   Bay and Cape Arago State Parks, this newest RV Park on Oregon's Adventure
   Coast boasts a beautiful wooded setting, fire pits, picnic tables, 50-amp
   power, water, wifi and more. RV or tent camp in any of the sites.
-photo_name: /img/beachboundrv.jpeg
+photo_name: /img/beach-bound-entrance-sign.jpg
 photo_alt: The entrance to Beach Bound RV
 units: 43
 property_category: 2 - RV Parks & Camping
