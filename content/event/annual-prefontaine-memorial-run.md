@@ -13,8 +13,8 @@ desktoptitle: Annual Prefontaine Memorial Run
 mobiletitle: Prefontaine Run
 hovertitle: Prefontaine Run
 hoverdescription: Race honors one of America’s greatest distance runners, Steve Prefontaine.
-photo: /img/prerun-hero-2048x530.jpg
-largeboxphoto: /img/prerun-legs-1024x395.jpg
+photo: /img/prefontaine-run-pg-header-2048x530.jpg
+largeboxphoto: /img/prefontaine-run-event-large.jpg
 mediumboxphoto: /img/pre-run-667x355.jpg
 smallboxphoto: /img/pre-run-340x214.jpg
 ---
