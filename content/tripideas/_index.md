@@ -28,3 +28,7 @@ To help you get started discovering our exciting and exhilarating adventures, we
 Contact Oregon’s Adventure Coast with any questions you may have about things to do on your vacation!!
 
 {{< spacer 50 >}}
+
+[![Fall 15% Lodging Special in coos bay, north bend, charleston oregon](/img/Fall-15-Special-695x-09-24.jpg)](/fall15)
+
+{{< spacer 50 >}}
