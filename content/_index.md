@@ -9,10 +9,10 @@ slideshow:
     url: /events
     video:
   - title:
-    photo: /img/summer-getaway-beach-home-slider.jpg
+    photo: /img/fall-15-hm-page-slider-2048x850.jpg
     title_mobile:
     photo_mobile:
-    url: /undeveloped-beaches
+    url: /fall15
     video:
   - title:
     photo: /img/summer-getaway-2023-home-slider.jpg
