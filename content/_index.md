@@ -31,6 +31,9 @@ home_splashes:
   - url: /coos-bay-150
     img: /img/city-coos-bay-150th-button-hm-page.jpg
     alt: City of Coos Bay Celebrating 150 Year Anniversary Button
+  - url: /fall15
+    img: /img/fall-15-promotion-splash-1200x473.jpg
+    alt: Fall 15% Lodging Special Oct 1 - Nov 30, 2024
 masonry1:
   desktopphoto: /img/store-image-desktop.jpg
   desktoptitle: Store
