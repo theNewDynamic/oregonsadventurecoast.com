@@ -15,22 +15,16 @@ slideshow:
     url: /fall15
     video:
   - title:
-    photo: /img/summer-getaway-2023-home-slider.jpg
+    photo: /img/fall-fishing-hm-slider-desktop.jpg
     title_mobile:
     photo_mobile:
-    url: /events
+    url: /fishing
     video:
-  - title:
-    photo: /img/summer-getaway-biker-home-slider.jpg
+  - title: Undeveloped Beaches
+    photo: /img/sunset-bay-sunset-hm-slider.jpg
     title_mobile:
     photo_mobile:
-    url: /cycling
-    video:
-  - title:
-    photo: /img/summer-getaway-dunes-home-slider.jpg
-    title_mobile:
-    photo_mobile:
-    url: /atv-motorsports
+    url: /undeveloped-beaches
     video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
