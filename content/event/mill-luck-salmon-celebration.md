@@ -41,22 +41,34 @@ Pre-sale tickets will go on sale in August. Tickets will be available in Ko-Kwel
 
 #### **Meal Prices:**&nbsp;
 
-**Coming Soon!**
+**Traditional Salmon Bake**
 
-**Menu:**<br>Traditional Pit Salmon<br>Brown Rice Prepared with Cranberries and Grilled Hazelnuts<br>Traditional Fry Bread served with Huckleberry Jam & Butter<br>Assorted Sodas & Freshly Brewed Coffee
+* Pre-sale tickets are $49 for adults and $39 for children 12 and under.
+* Tickets are available in Ko-Kwel Gifts beginning August 20th&nbsp;and includes a commemorative Salmon Celebration tee shirt (while supplies last).
+* Guests may also purchase their meal at the meal tent.
+* The price for the meal without the T-shirt is $35.00 for adults and $25.00 for children.
 
-*\*Elders of the Coquille Tribe will also have a booth selling fry bread and fry bread tacos to raise money for their Elders programs\* More info coming soon.*
+**Menu**
 
-{{< spacer 25 >}}
+* Traditional Pit Salmon
+* Brown Rice Prepared with Cranberries and Grilled Hazelnuts
+* Traditional Fry Bread served with Huckleberry Jam & Butter
+* Assorted Sodas & Freshly Brewed Coffee
+
+**Elders Fry Bread Booth**
+
+Elders of the Coquille Tribe will also have a booth selling fry bread and fry bread tacos to raise money for their Elders programs
+
+{{< spacer "15" >}}
 
 **This fun-filled weekend is full of family events and entertainment.**
 
-* Tribal canoe races
+* Tribal canoe races - Saturday, September 14th from 10 am – 12 pm.
+
+  Canoes will be in the water for exhibition and public rides on Sunday, September 15th&nbsp;from 11 am – 1 pm (weather permitting).
 
 * Outdoor tribal vendors and crafts (demonstrations and hands-on participation)
-
 * Traditional salmon bake meal
-
 * Live entertainment with authentic Native American dancing, drumming & flute playing
 
   {{< spacer 25 >}}
