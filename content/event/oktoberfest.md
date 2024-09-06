@@ -45,4 +45,4 @@ This 21+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.
 
 #### TICKETS
 
-Tickets go on sale September 1st<br>**General Admission: $35**
+<a href="https://cooshistory.org/annual-fundraiser-2024-oktoberfest/" target="_blank" rel="noopener"><strong>BUY TICKETS HERE!</strong></a><br>**General Admission: $35**
