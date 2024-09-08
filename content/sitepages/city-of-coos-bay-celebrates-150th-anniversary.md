@@ -92,6 +92,8 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *September 5 & 12 \| 7pm \| Mingus Park*<br>**Music on the Bay** brings us a great lineup of music for this year's concert series running eight Thursday's in a row from August 8th through September 12th. For a full line up of musicians and bands, visit the [Music on the Bay Facebook Page](https://www.facebook.com/musiconthebay).
 
+*September 5-16 \| Around Downtown Coos Bay<br>***Coos Bay 150th Birthday** <a href="https://www.coosbaylibrary.org/event/coos-bay-150th-birthday-scavenger-hunt-12494" target="_blank" rel="noopener"><strong>Scavenger Hunt</strong></a>**.** Celebrate Coos Bay's 150th Birthday by joining in a scavenger hunt that highlights our historic roots. Just pick up or download a clue sheet and then take a picture of yourself at each location. When you have completed the list come to the library to pick up a prize! Get a bonus prize if you post your picture to any social media platform and tag the Coos Bay Public Library!
+
 *September 6 \| TBD \| Dolphin Playhouse Parking Lot*<br>Join area non-profit organizations for a special fundraiser, the **Non-Profit Parking Lot Sale** held each year in the parking lot of The Dolphin Playhouse in Empire.
 
 *September 19 \| 6-7pm \| Coos History Museum*<br>Coos History Museum brings us a **Special Thursday Speaker Series** for the 150th Birthday! The September program features **The Story of Eastside and Empire**
