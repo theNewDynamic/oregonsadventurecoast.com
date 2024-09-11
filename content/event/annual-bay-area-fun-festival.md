@@ -31,6 +31,12 @@ As Summer winds down, the fun is just beginning here on the South Coast! [**The 
 
 Thousands of locals and visitors from afar come to enjoy the sights, sounds, and tastes of beautiful downtown Coos Bay and surrounding areas for this popular festival. Highlights include live entertainment, the famous **Cruz the Coos** featuring nearly 500 vintage automobiles, the **Prefontaine Memorial Run**, **Live Music**, the BAFF parade, and much more!
 
+**Join the Parade!** This year’s theme is:&nbsp;“Happy Birthday Coos Bay! Celebrating 150 years”. **Fill out the** <a href="/img/BAFF-parade-entry-form-2024.pdf" target="_blank" rel="noopener"><strong>form here to her register</strong></a>**!**
+
+The parade will be held on Saturday, September 21, 2024. Check in starts at 10am and will Line up to start as normal at 4th and Golden Avenue in Coos Bay. The parade starts at 1:00 pm.
+
+&nbsp;
+
 ![](/img/funfest-mosiac1.jpg) ![](/img/funfest-mosiac2.jpg) ![](/img/funfest-mosiac3.jpg) ![](/img/funfest-mosiac4.jpg) ![](/img/funfest-mosiac5.jpg) ![](/img/funfest-mosiac6.jpg) ![](/img/funfest-mosiac7.jpg) ![](/img/funfest-mosiac8.jpg) ![](/img/funfest-mosiac9.jpg) ![](/img/funfest-mosiac10.jpg)
 
 **Enjoy a variety of vendors, arts and crafts, the annual parade, and lots of different kinds of food.**
