@@ -26,6 +26,12 @@ slideshow:
     photo_mobile:
     url: /undeveloped-beaches
     video:
+  - title:
+    photo: /img/cultural-experience-hm-slider-2048-850.jpg
+    title_mobile:
+    photo_mobile:
+    url: /art-history-culture
+    video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /coos-bay-150
