@@ -31,7 +31,9 @@ As Summer winds down, the fun is just beginning here on the South Coast! [**The 
 
 Thousands of locals and visitors from afar come to enjoy the sights, sounds, and tastes of beautiful downtown Coos Bay and surrounding areas for this popular festival. Highlights include live entertainment, the famous **Cruz the Coos** featuring nearly 500 vintage automobiles, the **Prefontaine Memorial Run**, **Live Music**, the BAFF parade, and much more!
 
-**Join the Parade!** This year’s theme is:&nbsp;“Happy Birthday Coos Bay! Celebrating 150 years”. **Fill out the** <a href="/img/BAFF-parade-entry-form-2024.pdf" target="_blank" rel="noopener"><strong>form here to her register</strong></a>**!**
+#### **Join the Parade!**
+
+This year’s theme is:&nbsp;“Happy Birthday Coos Bay! Celebrating 150 years”. **Fill out the** <a href="/img/BAFF-parade-entry-form-2024.pdf" target="_blank" rel="noopener"><strong>form here to her register</strong></a>**!**
 
 The parade will be held on Saturday, September 21, 2024. Check in starts at 10am and will Line up to start as normal at 4th and Golden Avenue in Coos Bay. The parade starts at 1:00 pm.
 
@@ -43,11 +45,19 @@ The parade will be held on Saturday, September 21, 2024. Check in starts at 10am
 
 {{< spacer 50 >}}
 
-####
+#### SCHEDULE OF EVENTS:
+
+**Saturday September 21st<br>**9am to 6pm - Vendor Market First 3 blocks of Central Avenue<br>10am - 43rd Annual Prefontaine Memorial 10k run corner of 4th and Anderson<br>1pm - Bay Area Fun Festival Parade Downtown<br>6pm to 7:30pm - Rotary Cruz the Coos classic car cruise through the streets of downtown Coos Bay
+
+**Sunday September 22nd<br>**10am to 4pm - Vendor Market First 3 blocks of Central Avenue<br>1pm - Pre Run for Kids Marshfield High School Track
 
 #### BAFF ROCK FEST MUSIC STAGE
 
-**MORE INFORMATION COMING SOON!**
+*Corner of 3rd and Central in the new parking lot*
+
+**Saturday<br>**2pm to 3:30 Madeline Hawthorne<br>4pm to 5:30pm Goodnight Texas
+
+**Sunday<br>**12pm to 1:30pm The Throttles<br>2pm to 3:30pm Ocean Blvd
 
 {{< spacer "25" >}}
 
