@@ -15,22 +15,16 @@ slideshow:
     url: /fall15
     video:
   - title:
-    photo: /img/fall-fishing-hm-slider-desktop.jpg
-    title_mobile:
-    photo_mobile:
-    url: /fishing
-    video:
-  - title: Undeveloped Beaches
-    photo: /img/sunset-bay-sunset-hm-slider.jpg
-    title_mobile:
-    photo_mobile:
-    url: /undeveloped-beaches
-    video:
-  - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
     title_mobile:
     photo_mobile:
     url: /art-history-culture
+    video:
+  - title:
+    photo: /img/fall-fishing-hm-slider-desktop.jpg
+    title_mobile:
+    photo_mobile:
+    url: /fishing
     video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
