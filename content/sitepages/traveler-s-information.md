@@ -72,7 +72,9 @@ divider
 [![Coos History Museum View 2](/img/museum-view-2.jpg)](http://50.126.89.203:32771/playersite_60abdf30-ac35-4828-8811-86fd7465d96c.html)
 **Coos History Museum - View 2**
 
-{{< /columns >}}
+{{< /columns >}}*Note: on a monthly basis, the Coos History Museum cameras go through an upgrade. Please check back if those cameras are not functioning when you attempt to view them.*
+
+{{< spacer "15" >}}
 
 ### TRAVELING WITH PETS
 
