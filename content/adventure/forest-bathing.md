@@ -85,7 +85,7 @@ House of Asana is home of a rebel yogi and fitness lover. They provide a range o
 
 divider
 
-<img src="/img/mossy-lotus-345x220.jpg" alt="Mossy Lotus Forest Bathing" height="220" width="345" />
+![Mossy Lotus Forest Bathing](/img/mossy-lotus-345x220.jpg)
 
 **Mossy Lotus Forest Bathing**<br>Coos Bay, OR 97420<br>(541) 217-0400<br>[www.mossyyoga.com](https://mossyyoga.com/)
 
