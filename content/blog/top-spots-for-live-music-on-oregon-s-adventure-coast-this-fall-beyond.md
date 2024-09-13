@@ -32,6 +32,9 @@ tags:
 categories:
   - Arts & Culture
 warning: false
+warning_copy: >-
+  Please note, this post may contain details or information regarding events
+  that have already passed.
 ---
 *Image Courtesy of The Mill Casino*
 
