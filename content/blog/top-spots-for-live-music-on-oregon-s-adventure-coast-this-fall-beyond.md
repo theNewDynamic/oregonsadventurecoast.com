@@ -9,7 +9,7 @@ description: >-
   venue, a community concert in the park, or a special music-themed event, the
   region is brimming with musical moments that showcase the creativity and
   diversity of our local talent.
-image: /img/live-music-oregon-s-adventure-coast-blog-695x322-jpg-10.jpg
+image: /img/live-music-oregon-s-adventure-coast-blog-695x322-jpg-5.jpg
 tags:
   - Live Music
   - Festivals
@@ -39,11 +39,9 @@ There's something about Oregon’s South Coast that inspires a unique blend of m
 
 But beyond these marquee events, Oregon’s Adventure Coast offers numerous opportunities to experience live music that is distinctly our own. Whether it’s a local band playing at a cozy venue, a community concert in the park, or a special music-themed event, the region is brimming with musical moments that showcase the creativity and diversity of our local talent.
 
-<br>![](/img/live-music-oregon-s-adventure-coast-blog-695x322-jpg-1.jpg)
-
 Depending on the season, visitors can often catch live local and regional musicians performing at various venues across Coos Bay, North Bend, and Charleston. Enjoy ongoing events and live music at [The Mill Casino • Hotel & RV Park](https://www.themillcasino.com/), [7 Devils Brewery](https://7devilsbrewery.com/), [Wildflour Public House](https://www.wildflourpub.com/), and [Front Street Food Trucks](https://www.facebook.com/frontstreetfoodtrucks/). Other spots to catch live tunes include [The Captain's Cabin](https://www.yelp.com/biz/captains-cabin-bar-coos-bay-2), [Coney Station](https://www.facebook.com/ConeyStation/), and the [Coos Bay Downtown Farmers Market](https://www.facebook.com/CoosBayFarmersMarket/) every Wednesday May through October. To help you plan your next musical outing, here are some upcoming events that you won’t want to miss:
 
-[***2024 Music on the Bay Concert Series Continues***](https://musiconthebayoregon.com/) ***- August 29th, September 5th, September 12th***
+[***2024 Music on the Bay Concert Series Continues***](https://musiconthebayoregon.com/) ***\- August 29th, September 5th, September 12th***
 
 &nbsp;
 
@@ -83,13 +81,13 @@ If you’re a music lover, take note! For more than 87 years, The Coos County Co
 * **MusiKaravan - February 5 2024.** MusiKaravan, often described as a fun, imaginative “musical picnic,” was created by violinists Etienne Gara and YuEun Kim during the Covid-19 pandemic, who, along with cellist Stella Cho, toured in a 1971 VW bus to bring classical music to farmers, winemakers, and passersby, celebrating those who fed us physically and emotionally.
 * **Jason Lyle Black - March 12, 2025.** Jason Lyle Black returns to the Live on Stage roster with his new show, "100 Hits of Stage & Screen®," featuring 100 iconic songs from rock legends like Queen and ACDC, musicals like Wicked and Phantom of the Opera, and soundtracks from Pirates of the Caribbean to Star Wars—a fast-paced, family-friendly show filled with familiar hits.
 
-[***Annual Mill-Luck Salmon Celebration***](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/) ***- September 14-15, 2024***
+[***Annual Mill-Luck Salmon Celebration***](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/) ***\- September 14-15, 2024***
 
 ![](/img/live-music-oregon-s-adventure-coast-blog-695x322-jpg-6.jpg)*Image Courtesy of The Mill Casino*
 
 Join us for a weekend of cultural celebration and music honoring the traditions and the enduring spirit of the Coquille Indian Tribe and other Pacific Northwest Tribes! The 2-day festival, held annually at [The Mill Casino Hotel & RV Park](https://www.themillcasino.com/), is filled with free cultural demonstrations and captivating musical performances, including Native American storytellers, drummers, flutists, and dancers as well as a marketplace offering traditional goods and foods, canoe races, traditional games and activities for children and more. Highlighting the weekend is the traditional salmon bake meal, a ticketed event served from 11 AM – 5 PM Saturday and 11 AM – 4 PM Sunday.
 
-[***Annual Bay Area Fun Festival 2024***](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) ***- September 21-22, 2024***
+[***Annual Bay Area Fun Festival 2024***](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) ***\- September 21-22, 2024***
 
 ![](/img/live-music-oregon-s-adventure-coast-blog-695x322-jpg-3.jpg)
 
@@ -97,13 +95,13 @@ The third weekend of September is always a fun-filled one here on Oregon’s Adv
 
 ![](/img/live-music-oregon-s-adventure-coast-blog-695x322-jpg.jpg)
 
-[***Octoberfish***](https://www.oregonsadventurecoast.com/event/octoberfish/) ***- October 5, 2024***
+[***Octoberfish***](https://www.oregonsadventurecoast.com/event/octoberfish/) ***\- October 5, 2024***
 
 ![](/img/live-music-oregon-s-adventure-coast-blog-695x322-jpg-8.jpg)
 
 Experience great music and more at [Octoberfish](https://www.oregonsadventurecoast.com/event/octoberfish/), from 10 AM to 4 PM on Saturday, October 5th! Held annually at the [Oregon Institute of Marine Biology: OIMB](https://oimb.uoregon.edu/), this free, family-friendly event celebrates Coos culture with food, spirits, local art, and plenty of music. Enjoy activities for the kids, yoga workshops, a tuna cookout, and craft beer from 7 Devils Brewing Company. Don’t miss the fun—bring your lawn chair and help support the Charleston Food Bank! [Learn more.](https://www.oregonsadventurecoast.com/event/octoberfish/)
 
-[***Oktoberfest***](https://www.oregonsadventurecoast.com/event/oktoberfest/) ***- October 12, 2024***
+[***Oktoberfest***](https://www.oregonsadventurecoast.com/event/oktoberfest/) ***\- October 12, 2024***
 
 ![](/img/live-music-oregon-s-adventure-coast-blog-695x322-jpg-9.jpg)*Image Courtesy of the Roseburg German Band*
 
