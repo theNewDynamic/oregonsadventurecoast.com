@@ -47,17 +47,17 @@ The parade will be held on Saturday, September 21, 2024. Check in starts at 10am
 
 #### SCHEDULE OF EVENTS:
 
-**Saturday September 21st<br>**9am to 6pm - Vendor Market First 3 blocks of Central Avenue<br>10am - 43rd Annual Prefontaine Memorial 10k run corner of 4th and Anderson<br>1pm - Bay Area Fun Festival Parade Downtown<br>6pm to 7:30pm - Rotary Cruz the Coos classic car cruise through the streets of downtown Coos Bay
+**Saturday September 21st**<br>9am to 6pm - Vendor Market First 3 blocks of Central Avenue<br>10am - 43rd Annual Prefontaine Memorial 10k run corner of 4th and Anderson<br>1pm - Bay Area Fun Festival Parade Downtown<br>6pm to 7:30pm - Rotary Cruz the Coos classic car cruise through the streets of downtown Coos Bay
 
-**Sunday September 22nd<br>**10am to 4pm - Vendor Market First 3 blocks of Central Avenue<br>1pm - Pre Run for Kids Marshfield High School Track
+**Sunday September 22nd**<br>10am to 4pm - Vendor Market First 3 blocks of Central Avenue<br>1pm - Pre Run for Kids Marshfield High School Track
 
 #### BAFF ROCK FEST MUSIC STAGE
 
 *Corner of 3rd and Central in the new parking lot*
 
-**Saturday<br>**2pm to 3:30 Madeline Hawthorne<br>4pm to 5:30pm Goodnight Texas
+**Saturday**<br>2pm to 3:30 Madeline Hawthorne<br>4pm to 5:30pm Goodnight Texas
 
-**Sunday<br>**12pm to 1:30pm The Throttles<br>2pm to 3:30pm Ocean Blvd
+**Sunday**<br>12pm to 1:30pm The Throttles<br>2pm to 3:30pm Ocean Blvd
 
 {{< spacer "25" >}}
 
