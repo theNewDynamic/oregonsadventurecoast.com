@@ -40,7 +40,7 @@ As we embrace all that Oregon’s South Coast has to offer, it's important to re
 
 ###### ![](/img/leave-no-trace-blog-695x322-jpg.jpg)<br>***What are Leave No Trace (LNT) Principles?***
 
-Leave No Trace (LNT) Principles serve as a guide to sustainable and responsible travel. By following these guidelines, you can protect both yourself and Oregon's natural beauty and unique ecosystems for future generations. Here are some ways to apply the LNT Principles and help preserve the amazing natural treasures on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston.
+Leave No Trace (LNT) Principles serve as a guide to sustainable and responsible travel. By following these guidelines, you can protect both yourself and Oregon's natural beauty and unique ecosystems for future generations. Here are some ways to apply the LNT Principles and help preserve the amazing natural treasures on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**.
 
 ###### LNT Principle \#1- Plan Ahead and Prepare
 
@@ -56,15 +56,15 @@ To keep Oregon’s Adventure Coast clean and beautiful, dispose of all waste pro
 
 ###### LNT Principle \#4: Leave What You Find
 
-Respect the natural beauty on Oregon’s Adventure Coast by leaving everything as you found it. Avoid disturbing wildlife, picking plants, or moving rocks. Hike only on established trails and avoid building structures or leaving graffiti. Clean your gear to prevent the spread of invasive species and preserve the region's ecological balance. By minimizing your impact, you help maintain our natural surroundings for future generations to enjoy.
+Respect the natural beauty on Oregon’s Adventure Coast by leaving everything as you found it. Avoid disturbing wildlife, picking plants, or moving rocks. Hike only on established trails and avoid building structures or leaving graffiti. Before you go and after you return, clean your gear to prevent the spread of invasive species and preserve the region's ecological balance. By minimizing your impact, you help maintain our natural surroundings for future generations to enjoy.
 
 ###### LNT Principle \#5: Minimize Campfire Impacts
 
-While campfires can be a fun camping tradition, they can also harm the environment. Consider using a camp stove for cooking and stargazing instead of a fire. ** ** If fires are allowed, use established fire rings, keep them small, and only burn small sticks. Always fully extinguish the fire before leaving, and never bring firewood from home to avoid introducing pests.
+While campfires can be a fun camping tradition, they can also harm the environment. Consider using a camp stove for cooking and stargazing instead of a fire. \*\* \*\* If fires are allowed, use established fire rings, keep them small, and only burn small sticks. Always fully extinguish the fire before leaving, and never bring firewood from home to avoid introducing pestsand non-native species to the environment.
 
 ###### LNT Principle \#6: Respect Wildlife
 
-This principle is especially near and dear to our hearts. Respect Oregon’s wildlife by observing animals from a distance and never attempt to touch or interact with them. If you see wildlife (like baby seal pups), please appreciate it from afar and do not attempt to touch or interact with them — it is after all, their home. Avoid feeding wildlife, as it disrupts their natural behavior and can endanger them. Store food securely to prevent animals from becoming dependent on human food, and keep pets under control to protect both wildlife and your pet.
+This principle is especially near and dear to our hearts. Respect Oregon’s wildlife by observing animals (like baby seal pups) from a distance and never attempt to touch or interact with them — it is after all, their home. Avoid feeding wildlife, as it disrupts their natural behavior and can endanger them. Store food securely to prevent animals from becoming dependent on human food, and keep pets under control to protect both wildlife and your pet.
 
 ###### LNT Principle \#7: Be Considerate of Other Visitors
 
