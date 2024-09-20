@@ -40,7 +40,7 @@ As we embrace all that Oregon’s South Coast has to offer, it's important to re
 
 ###### ![](/img/leave-no-trace-blog-695x322-jpg.jpg)<br>***What are Leave No Trace (LNT) Principles?***
 
-Leave No Trace (LNT) Principles serve as a guide to sustainable and responsible travel. By following these guidelines, you can protect both yourself and Oregon's natural beauty and unique ecosystems for future generations. Here are some ways to apply the LNT Principles and help preserve the amazing natural treasures on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston.
+Leave No Trace (LNT) Principles serve as a guide to sustainable and responsible travel. By following these guidelines, you can protect both yourself and Oregon's natural beauty and unique ecosystems for future generations. Here are some ways to apply the LNT Principles and help preserve the amazing natural treasures on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**.
 
 ###### LNT Principle \#1- Plan Ahead and Prepare
 
@@ -56,21 +56,21 @@ To keep Oregon’s Adventure Coast clean and beautiful, dispose of all waste pro
 
 ###### LNT Principle \#4: Leave What You Find
 
-Respect the natural beauty on Oregon’s Adventure Coast by leaving everything as you found it. Avoid disturbing wildlife, picking plants, or moving rocks. Hike only on established trails and avoid building structures or leaving graffiti. Clean your gear to prevent the spread of invasive species and preserve the region's ecological balance. By minimizing your impact, you help maintain our natural surroundings for future generations to enjoy.
+Respect the natural beauty on Oregon’s Adventure Coast by leaving everything as you found it. Avoid disturbing wildlife, picking plants, or moving rocks. Hike only on established trails and avoid building structures or leaving graffiti. Before you go and after you return, clean your gear to prevent the spread of invasive species and preserve the region's ecological balance. By minimizing your impact, you help maintain our natural surroundings for future generations to enjoy.
 
 ###### LNT Principle \#5: Minimize Campfire Impacts
 
-While campfires can be a fun camping tradition, they can also harm the environment. Consider using a camp stove for cooking and stargazing instead of a fire. ** ** If fires are allowed, use established fire rings, keep them small, and only burn small sticks. Always fully extinguish the fire before leaving, and never bring firewood from home to avoid introducing pests.
+While campfires can be a fun camping tradition, they can also harm the environment. Consider using a camp stove for cooking and stargazing instead of a fire. \*\* \*\* If fires are allowed, use established fire rings, keep them small, and only burn small sticks. Always fully extinguish the fire before leaving, and never bring firewood from home to avoid introducing pestsand non-native species to the environment.
 
 ###### LNT Principle \#6: Respect Wildlife
 
-This principle is especially near and dear to our hearts. Respect Oregon’s wildlife by observing animals from a distance and never attempt to touch or interact with them. If you see wildlife (like baby seal pups), please appreciate it from afar and do not attempt to touch or interact with them — it is after all, their home. Avoid feeding wildlife, as it disrupts their natural behavior and can endanger them. Store food securely to prevent animals from becoming dependent on human food, and keep pets under control to protect both wildlife and your pet.
+This principle is especially near and dear to our hearts. Respect Oregon’s wildlife by observing animals (like baby seal pups) from a distance and never attempt to touch or interact with them — it is after all, their home. Avoid feeding wildlife, as it disrupts their natural behavior and can endanger them. Store food securely to prevent animals from becoming dependent on human food, and keep pets under control to protect both wildlife and your pet.
 
 ###### LNT Principle \#7: Be Considerate of Other Visitors
 
 Help create a positive experience for everyone seeking solitude and adventure on Oregon’s Adventure Coast by respecting others and showing them courtesy. Some examples of this behavior include keeping noise to a minimum, yielding to others on the trail, and respecting their personal boundaries. Walk, run, hike, and ride only on designated trails and keep pets, (yes, even well-behaved ones), on a leash and clean up after them.
 
-Whether you’re exploring our [trifecta of glorious state parks](https://www.oregonsadventurecoast.com/state-parks-and-national-lands), trekking through [ancient sand dunes](https://www.oregonsadventurecoast.com/untamed-dunes), or viewing wildlife on [South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/SS/Pages/About.aspx) following the 7 Leave No Trace principles will help to protect our most treasured natural resources. Here are some additional resources to help us become better stewards of the land on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston—or wherever your journey takes you.
+Whether you’re exploring our [trifecta of glorious state parks](https://www.oregonsadventurecoast.com/state-parks-and-national-lands), trekking through [ancient sand dunes](https://www.oregonsadventurecoast.com/untamed-dunes), or viewing wildlife on [South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/SS/Pages/About.aspx) following the 7 Leave No Trace principles will help to protect our most treasured natural resources. Here are some additional resources to help us all become better stewards of the land on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**—or wherever your journey takes you.
 
 * [The 7 Principles](https://lnt.org/why/7-principles/)
 * [Take Care Out There-Travel Oregon](https://traveloregon.com/things-to-do/outdoor-recreation/take-care-out-there/)
