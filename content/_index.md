@@ -5,7 +5,7 @@ slideshow:
   - title:
     photo: /img/fall-15-hm-page-slider-2048x850.jpg
     title_mobile:
-    photo_mobile:
+    photo_mobile: /img/fall-15-off-lodging-special-mobile.jpg
     url: /fall15
     video:
   - title:
