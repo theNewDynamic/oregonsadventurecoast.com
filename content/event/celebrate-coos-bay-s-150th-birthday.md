@@ -14,6 +14,7 @@ mobiletitle: Happy 150th Birthday Coos Bay!
 hovertitle: Happy 150th Birthday Coos Bay!
 hoverdescription: Come Celebrate Coos Bay's 150th Birthday at the Coos History Museum
 photo: /img/coos-bay-celebration-150th-2048x530.jpg
+largeboxphoto: /img/coos-bay-celebration-150th-1024x395.jpg
 mediumboxphoto: /img/poster-creative-150th-667x355.jpg
 smallboxphoto: /img/150-340x214.jpg
 ---
