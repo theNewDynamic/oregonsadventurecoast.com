@@ -8,6 +8,7 @@ address:
   state: Oregon
   street: 63466 Boat Basin Road
   zip: 97420
+website: https://naturalsciences.uoregon.edu/OIMB
 desktoptitle: Octoberfish
 mobiletitle: Octoberfish
 hovertitle: Fall Family Celebration
@@ -21,7 +22,7 @@ smallboxphoto: /img/octoberfish-sign-340x214.jpg
 
 #### **Enjoy food, spirits, art and lots of MUSIC.**
 
-Come join us for another year in celebration of Coos Culture, games and activities for the kids, great music for the adults, yoga & movement workshops, local art and a tuna cookout. 7 Devils Brewing Company will be serving their craft beer.
+Come join us on October 5, 2024 at the Oregon Institute of Marine Biology in Charleston to celebrate Coos Culture!  Octoberfish is an annual event featuring games and activities for the kids, great music for the adults, yoga & movement workshops, local art and a tuna cookout. 7 Devils Brewing Company will be serving their craft beer.
 
 **Saturday October 5th from 10am to 4pm! Don't Miss the Fun but bring your lawn chair!**
 
