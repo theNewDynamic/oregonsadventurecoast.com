@@ -56,7 +56,6 @@ Take a break in the garden house to cozy up and savor some cookies along with a 
 
 #### [![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle-1.png)](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381)
 
-### <a target="_blank" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381">[Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle-1.png)</a>
 
 #### {{< spacer "50" >}}
 
