@@ -26,6 +26,8 @@ photo: /img/holiday-events-2048x530.jpg
 largeboxphoto: /img/holiday-happenings-event-large.jpg
 mediumboxphoto: /img/tree-lighting-coosbay-667x355.jpg
 smallboxphoto: /img/Tree-Lighting-coosbay-340x214.jpg
+aliases:
+  - /holiday
 ---
 ### ![Holiday Happenings in Coos Bay North Bend Charleston two toy snowmen](/img/holiday-happenings-header-695x322-1.jpg)
 
