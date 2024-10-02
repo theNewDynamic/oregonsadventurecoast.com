@@ -3,6 +3,28 @@ _schema: default
 title: Spotlight on Whiskey Run Mountain Biking Trail!
 draft: true
 date: 2024-10-02T12:00:00-07:00
+description: >-
+  Since its debut, the Whiskey Run Mountain Bike Trail System has quickly become
+  one of Oregon's top destinations for riders of all skill levels. With the
+  upcoming Run Whiskey Run race on Saturday, October 12, 2024— now is the
+  perfect time to highlight this hot spot on Oregon’s South Coast.
+image: /img/whiskey-run-blog-695x322-jpg-2.jpg
+tags:
+  - Oregon Coast
+  - Whiskey Run Mountain Bike Trails
+  - Mountain Biking
+  - Whiskey Run
+  - Run Whiskey Run
+  - Oregon Coast Visitors Association
+  - Oregons Adventure Coast
+  - Coos Bay
+  - North Bend
+  - Charleston
+  - Bandon
+  - bike trails
+  - year round mountain biking
+categories:
+  - Outdoor Adventures
 warning: false
 ---
 Since its debut in 2017, the [Whiskey Run Mountain Bike Trail System](https://www.trailforks.com/region/whiskey-run-trails-21273/?activitytype=1&amp;z=12.4&amp;lat=43.21305&amp;lon=-124.36649) has quickly become one of Oregon's top destinations for riders of all skill levels. Nestled in the scenic Coos County Forest just minutes from the Pacific Ocean, this unique trail system is renowned for its smooth, rolling trails. With 64 thrilling paths spanning over 32 miles, Whiskey Run offers endless opportunities for adventure and exploration for riders of all skill levels, from seasoned pros to beginners. With the upcoming [Run Whiskey Run](https://www.oregonsadventurecoast.com/event/run-whiskey-run-and-clean-up-fun-run/) race on Saturday, October 12, 2024—a special event hosted by the [South Coast Running Club](https://southcoastrunningclub.org/) where the trails will be reserved exclusively for runners—now is the perfect time to highlight this hot spot on Oregon’s South Coast.
