@@ -1,6 +1,8 @@
 ---
 _schema: default
-draft: false
+title: Spotlight on Whiskey Run Mountain Biking Trail!
+draft: true
+date: 2024-10-02T12:00:00-07:00
 description: >-
   Since its debut, the Whiskey Run Mountain Bike Trail System has quickly become
   one of Oregon's top destinations for riders of all skill levels. With the
@@ -14,7 +16,7 @@ tags:
   - Whiskey Run
   - Run Whiskey Run
   - Oregon Coast Visitors Association
-  - Oregon’s Adventure Coast
+  - Oregons Adventure Coast
   - Coos Bay
   - North Bend
   - Charleston
@@ -48,5 +50,6 @@ Here are some additional resources to help you plan your mountain biking adventu
 * [Why Whiskey Run is the crown jewel of Oregon Coast mountain biking](https://www.statesmanjournal.com/story/travel/outdoors/2024/08/30/whiskey-run-mountain-biking-oregon-coast/74738643007/)
 
 Be sure to visit our featured [adventures page](https://www.oregonsadventurecoast.com/adventures) and our [trip ideas page](https://www.oregonsadventurecoast.com/tripideas) to find more travel ideas and inspiration. You can also follow [Oregon’s Adventure Coast Facebook](https://www.facebook.com/OregonsAdventureCoast/), [@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/),and [TikTok](https://www.tiktok.com/@oregonsadventurecoast?lang=en) to find inspiration on the best spots to visit, eat, stay and explore any time of the year.
+
 
 <br>
