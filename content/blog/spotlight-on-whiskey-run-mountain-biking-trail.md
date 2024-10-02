@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Spotlight on Whiskey Run Mountain Biking Trail!
+title: Spotlight on Whiskey Run Mountain Biking Trails!
 draft: true
 date: 2024-10-02T12:00:00-07:00
 description: >-
