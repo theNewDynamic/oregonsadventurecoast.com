@@ -59,6 +59,10 @@ The Charleston Fishing Families celebrate the season every year with a colorful,
 
 More info on this very special holiday event, brought to us by the [**Friends of Shore Acres**](https://shoreacres.net/about-us/about-friends-of-shore-acres-inc/) since 1986, and the Timed Parking System, [**click here**](/event/annual-holiday-lights-at-shore-acres/)!
 
+{{< spacer "30" >}}
+
+{{< youtube id="jHnNm_Gy7CA" >}}
+
 {{< spacer 50 >}}
 
 ![](/img/holiday-railroad-train-sub-section-hdr.jpg)
