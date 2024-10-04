@@ -24,8 +24,8 @@ hovertitle: Holiday Happenings
 hoverdescription: Don't miss all these fun holiday happenings on Oregon's Adventure Coast!
 photo: /img/holiday-events-2048x530.jpg
 largeboxphoto: /img/holiday-happenings-event-large.jpg
-mediumboxphoto: /img/tree-lighting-coosbay-667x355.jpg
-smallboxphoto: /img/Tree-Lighting-coosbay-340x214.jpg
+mediumboxphoto: /img/holiday-happenings-tree-lighting-medium.jpg
+smallboxphoto: /img/holiday-happenings-iceskating-small.jpg
 aliases:
   - /holiday
 ---
