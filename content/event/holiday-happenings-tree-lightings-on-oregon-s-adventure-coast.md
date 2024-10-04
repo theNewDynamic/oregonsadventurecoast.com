@@ -131,11 +131,11 @@ The North Bend Presbyterian Church will be filled with the sounds of winter this
 
 Christmas “Little Ole Opry on the Bay” returns to the Liberty Theatre just in time to celebrate the holiday season. This family-friendly show offers a diverse song list including both traditional and contemporary music, from “Away in a Manger” to “All I Want For Christmas Is You.” &nbsp;
 
-Tickets on-sale now at the box office and online at&nbsp;[www.thelibertytheatre.org](). Box office hours are 11-1 PM every Tuesday or call 541-756-4336.
+Tickets on-sale now at the box office and online at&nbsp;<a href="https://thelibertytheatre.org" target="_blank" rel="noopener">thelibertytheatre.org</a>. Box office hours are 11-1 PM every Tuesday or call 541-756-4336.
 
 **Liberty Theatre, Home of Little Theatre on the Bay**<br>2100 Sherman Ave, North Bend, OR 97420
 
-**Show dates & times:**&nbsp;&nbsp;<br>Friday, Dec 1 -&nbsp; 7:00pm<br>Saturday, Dec 2 - 2:00pm & 7:00pm<br>Sunday, Dec 3 - 2:00pm
+**Show dates & times:**&nbsp;&nbsp;<br>Friday, Dec 6 -&nbsp; 7:00pm<br>Saturday, Dec 7 - 2:00pm & 7:00pm<br>Sunday, Dec 8 - 2:00pm
 
 {{< spacer 50 >}}
 
@@ -147,39 +147,30 @@ The Empire District of Coos Bay will hold their annual Tree Lighting and Visits 
 
 #### ![North Bend Tree lighting festival, lighted truck parade and Ice skating](/img/north-bend-firetruck-sub-section-hdr-1.jpg)
 
-#### December 2, 2023<br>Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade in Downtown North Bend!
+#### December 7, 2024<br>Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade in Downtown North Bend!
 
-Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive deep into the holiday spirit from 9am-7:30pm.
-
-* **9:00am-11:00am - Waffles with Santa!** at the North Bend Fire Station - <a href="https://www.eventbrite.com/e/waffles-with-santa-tickets-749228210747?aff=oddtdtcreator" target="_blank" rel="noopener"><strong>Reserve Your Time</strong></a>
-* **10:00am - Noon - Storytime with Mrs. Claus** at the North Bend Public Library - Mrs. Claus will conduct two identical storytimes at 10am and 11am! After Storytime, children can write letters to Santa and make "magic" reindeer food! The event is FREE and has a capacity of 100 per session.
-* **11:00am-3:00pm - Ice Skating** on North Bend's Famous Ice Skating Rink! FREE
-* **1:00pm-3:00pm - Christmas on Main Street** in downtown North Bend - look for the mischievous Elf on the Shelf in participating businesses and enter to win Free Tickets to the Ice Skating Rink, North Bend's Winter Attraction!
-* **3:00pm-5:00pm - Holiday Block Party** in the Festival Tent near City Hall
-* **5:00pm - Annual North Bend Tree Lighting** in Grants Circle Roundabout outside City Hall&nbsp;
-* **5:30pm-6:30pm - Meet Santa!** in the Festival Tent near City Hall
-* **7:00pm-7:30pm - Lighted Truck Parade** cruises through downtown and midtown North Bend. *(Note:*&nbsp;*Parade Route follows the July Jubilee parade route)*
+Downtown North Bend transforms into a **Winter Wonderland.** Dive deep into the holiday spirit. Check back for more details as they get released.
 
 {{< spacer 50 >}}
 
 #### ![winter faire at Coos history museum](/img/ceramic-bells-sub-section-hdr.jpg)
 
-#### December 15-16, 2023<br>Winter Faire at Coos History Museum
+#### Dates TBD<br>Winter Faire at Coos History Museum
 
-Join local artisans, food vendors, and more for your annual Holiday Shopping at the Coos History Museum from 11am-4pm on December 15th and 16th. Entry to the Faire is Free!
+Join local artisans, food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Faire is Free!
 
 {{< spacer "50" >}}
 
 #### ![watch Christmas Vacation and enter to win the ugly sweater competition at the Egyptian Theater in Coos Bay](/img/vacation-movie-sweater-sub-section-hdr.jpg)
 
-#### December 16, 2023<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
+#### Date TBD<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
 
-The Egyptian Theatre is hosting this Holiday Classic Movie plus an Ugly Sweater Contest just in time for the Holidays! The Movie starts as 7:00pm, Doors open at 6:15pm. Adults $5, Seniors $4, Children $3
+The Egyptian Theatre is hosting this Holiday Classic Movie plus an Ugly Sweater Contest just in time for the Holidays!
 
 {{< spacer "50" >}}
 
 ![polar bear plunge into the pacific ocean on New Year's Day](/img/polar-bear-plunge-sub-section-hdr.jpg)
 
-#### January 1, 2024<br>Plunge into 2024 at the Polar Bear Plunge
+#### January 1, 2025<br>Plunge into 2025 at the Polar Bear Plunge
 
-Got New Year's plans? You do now! Kick off 2024 with the Polar Bear Plunge at 9:00am, January 1st at Sunset Bay State Park!
+Got New Year's plans? You do now! Kick off 2025 with the Polar Bear Plunge at 9:00am, January 1st at Sunset Bay State Park!
