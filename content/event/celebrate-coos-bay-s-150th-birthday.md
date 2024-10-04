@@ -30,7 +30,7 @@ Mark your calendar for the Big Birthday Party at the Coos History Museum and Coo
 
 #### Location of All Events
 
-**Coos History Museum and Coos Bay Village**<br>1210 N Front Street<br>Coos Bay, OR 97420
+**Coos History Museum and Coos Bay Village**<br>1210 N Front Street<br>Coos Bay, OR 97420<br>**FREE Admission to the Museum all day!**
 
 #### **Schedule of Events**
 
