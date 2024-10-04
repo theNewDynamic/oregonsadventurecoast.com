@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Holiday Happenings & Tree Lightings on Oregon's Adventure Coast!
-startdate: '2023-11-28'
-enddate: '2023-12-31'
+startdate: '2024-11-28'
+enddate: '2024-12-31'
 address:
   city: Coos Bay, North Bend, Empire, Charleston
   state: ''
@@ -39,15 +39,15 @@ aliases:
 
 #### ![](/img/shopping-sub-header-695x200.jpg)
 
-#### November 10 & 11, 2023<br>Downtown Coos Bay Holiday Open House
+#### November 8 & 9, 2024<br>Downtown Coos Bay Holiday Open House
 
-Visit participating businesses in Downtown Coos Bay during the Holiday Open House and enter to win door prizes! Shop for the holidays and keep your receipts to receive a commemorative mug on Shop Small Saturday (see below for more). Start your shopping journey at Katrina Kathleen’s Home Décor – 191 S Broadway or Checkerberry’s Flowers & Gifts – 1290 N. Bayshore Drive (Coos Bay Village) and pick up your Downtown Open House map to more shops all waiting to show you their latest for the gift-giving season. Friday, November 10th from 9am to 5pm and Saturday, November 11th from 10am to 4pm
+Get into the holiday spirit and work on your gift-giving lists at the Annual Downtown Holiday Open Houses. Participating businesses will open their doors on the second weekend in November for the Holiday Open Houses. Browse participating shops for gift-giving inspirations and holiday home decor while entering to win door prizes.
 
 {{< spacer 50 >}}
 
 #### ![Crab Pot Christmas Tree in Charleston Oregon](/img/crab-pot-sub-section-hdr.jpg)
 
-#### November TBD - December 31, 2023<br>Charleston Crab Pot Tree
+#### November TBD - December 31, 2024<br>Charleston Crab Pot Tree
 
 The Charleston Fishing Families celebrate the season every year with a colorful, lighted Crab Pot Tree in the parking lot of Fisherman's Grotto restaurant! Lights from the tree can be seen from Cape Arago Highway and across to the Charleston Marina! *Photo courtesy of Chris at Off the Edge Photography.*
 
@@ -55,7 +55,7 @@ The Charleston Fishing Families celebrate the season every year with a colorful,
 
 #### ![Holiday Lights at Shore Acres State Park in Charleston Oregon](/img/holiday-lights-sub-section-hdr.jpg)
 
-#### November 23-December 31, 2023<br>Holiday Lights at Shore Acres State Park
+#### November 28-December 31, 2024<br>Holiday Lights at Shore Acres State Park
 
 More info on this very special holiday event, brought to us by the [**Friends of Shore Acres**](https://shoreacres.net/about-us/about-friends-of-shore-acres-inc/) since 1986, and the Timed Parking System, [**click here**](/event/annual-holiday-lights-at-shore-acres/)!
 
@@ -63,7 +63,7 @@ More info on this very special holiday event, brought to us by the [**Friends of
 
 #### ![](/img/holiday-railroad-train-sub-section-hdr.jpg)
 
-#### November 23, 2023 - January 1, 2024<br>Oregon Coast Historic Railway Museum Lights
+#### November 28, 2024 - January 1, 2025<br>Oregon Coast Historic Railway Museum Lights
 
 Right in downtown Coos Bay is another spectacular holiday lights display - vintage railroad engines, cabooses and other equipment festooned in 100,000 lights and ornaments! You cannot miss this beautiful display as you travel along Hwy 101 through Coos Bay! View the lights from your vehicle or from the sidewalk in front of the museum. The display is always FREE! Youngsters will love spying the stuffed animals inside the windows of the train! The lights are illuminated from dusk until 11pm every night through New Year's Day.
 
@@ -71,31 +71,31 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 ![Coos Bay Tree lighting with Santa dn the movie Elf!](/img/coos-bay-tree-lighting-sub-sect-hdr.jpg)
 
-#### November 24, 2023<br>Tree Lighting at the Coos Bay Visitor Center with Santa, Plus ELF! at The Egyptian
+#### November 29, 2024<br>Tree Lighting at the Coos Bay Visitor Center with Santa, Plus ELF! at The Egyptian
 
-Join Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! The evening begins with cookies and cider in the Visitor Center at 4:30pm. Santa and the Mayor of Coos Bay will light the tree at 5:30pm. Following the tree lighting, follow Santa and the parade of revelers to The Egyptian Theatre for the traditional showing of&nbsp;**Elf** after the tree lighting! Santa will sit on stage and listen to the wishes of the boys and girls. Elf will begin at about 7pm. Don't forget your **balled up white socks** for the snowball fight!!!
+Join Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! The evening begins with cookies and cider in the Visitor Center at 4:30pm. Santa and the Mayor of Coos Bay will light the tree at 5:30pm. Following the tree lighting, follow Santa and the parade of revelers to The Egyptian Theatre for the traditional showing of&nbsp;**Elf** after the tree lighting! Santa will sit on stage and listen to the wishes of the boys and girls. Elf will begin at about 7pm. Don't forget your **balled up white socks** for the snowball fight! The donated socks will go to local homeless shelters. If you miss this event, you can catch another free showing of **Elf** will at 2:00 pm on Saturday with Santa.
 
 {{< spacer 50 >}}
 
 ![See the movie ELF! at the Egyptian Theater in Coos Bay Oregon](/img/elf-movie-sub-section-hdr.jpg)
 
-#### November 25, 2023<br>ELF! at The Egyptian
+#### November 30, 2024<br>ELF! at The Egyptian
 
-A second showing of **Elf** is planned for 2pm on Saturday, September 25th. Beginning at 12:30pm Santa will once again be available to hear all those wish lists!&nbsp;
+A second showing of **Elf** is planned for 2:00pm on Saturday, September 30th. Beginning at 12:30pm Santa will once again be available to hear all those wish lists!&nbsp;
 
 {{< spacer 50 >}}
 
 ![Small Business Saturday Shopping on Oregon's Adventure Coast](/img/small-business-shopping-sub-section-hdr.jpg)
 
-#### November 25, 2023<br>Shop Small Saturday and Downtown Coos Bay Commemorative Mug
+#### November 30, 2024<br>Shop Small Saturday and Downtown Coos Bay
 
-**Shop Small Saturday encourages us to shop at small, local shops this holiday season!**&nbsp;Coos Bay participating businesses are offering specials and door prizes all day. Also, keep your receipts for all purchases made in Downtown Coos Bay between November 10 and November 25. Collect $100 in receipts, bring those receipts to Jennie's Shoes (262 Central Ave) and receive a commemorative mug!
+**Shop Small Saturday encourages us to shop at small, local shops this holiday season!**&nbsp;The Coos Bay Downtown Association invites you to spend Saturday, after Thanksgiving in downtown Coos Bay for Shop Small Saturday. Shop Small Saturday encourages shoppers to support their neighborhood businesses and to embrace the day as a holiday shopping tradition. Shop Participating downtown businesses and sign up for door prizes.
 
 {{< spacer 50 >}}
 
 ![](/img/elfonshelfnb.jpg)
 
-#### November 25, 2023 - December 2, 2023<br>Elf on the Shelf Makes Mischief in North Bend!
+#### November 30, 2024 - December 7, 2024<br>Elf on the Shelf Makes Mischief in North Bend!
 
 Find the Mischievous Elf on the Shelf at participating businesses in North Bend! Each participating business will have its own mischievous Elf that moves within the business daily! Find the Elf and enter for a chance to win a wonderful gift. You can enter to win at each location. There will be one winner per business, but winners can only win from one business.&nbsp;
 
@@ -103,17 +103,17 @@ Find the Mischievous Elf on the Shelf at participating businesses in North Bend!
 
 ![](/img/fest-of-trees.jpeg)
 
-#### November 28 - December 6, 2023<br>Festival of Trees Holiday Showcase and Benefit Auction
+#### Dates TBD<br>Festival of Trees Holiday Showcase and Benefit Auction
 
-Visit <a target="_blank" rel="noopener" href="https://www.themillcasino.com/">The Mill Casino * Hotel &amp; RV Park</a> to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp; All trees will be Auctioned on Wednesday, December 6th at 7pm. Proceeds benefit the programs of the <a target="_blank" rel="noopener" href="https://www.facebook.com/cbnbrotary">Coos Bay-North Bend Rotary Club</a>.
+Visit <a href="https://www.themillcasino.com/" target="_blank" rel="noopener">The Mill Casino * Hotel &amp; RV Park</a> to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp; All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
 
 {{< spacer "50" >}}
 
 #### ![reindeer Roundup](/img/rukas-reindeer-sub-section-hdr-1.jpg)![](blob:https://app.cloudcannon.com/27de559c-a3c2-4d7c-9a9d-0f066950ac81)
 
-#### November 28 - December 20, 2023<br>Reindeer Roundup
+#### Dates TBD<br>Reindeer Roundup
 
-Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown instead of going back to the north pole following Santa’s visit. The reindeer will be hiding in businesses downtown. Find the reindeer in participating businesses, take a picture and then fill out an entry form to be entered to win a grand prize. (Business hours vary) The event will end on December 20th when the reindeer will return to the north pole to help Santa deliver toys to children around the world.
+Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown instead of going back to the north pole following Santa’s visit. The reindeer will be hiding in businesses downtown. Find the reindeer in participating businesses, take a picture and then fill out an entry form to be entered to win a grand prize. (Business hours vary) The event will end in late December when the reindeer will return to the north pole to help Santa deliver toys to children around the world.
 
 {{< spacer 50 >}}
 
@@ -151,7 +151,7 @@ The Empire District of Coos Bay will hold their annual Tree Lighting and Visits 
 
 Downtown North Bend transforms into a **Winter Wonderland** on Dec 2nd! Dive deep into the holiday spirit from 9am-7:30pm.
 
-* **9:00am-11:00am - Waffles with Santa!** at the North Bend Fire Station - **<a target="_blank" rel="noopener" href="https://www.eventbrite.com/e/waffles-with-santa-tickets-749228210747?aff=oddtdtcreator">Reserve Your Time</a>**
+* **9:00am-11:00am - Waffles with Santa!** at the North Bend Fire Station - <a href="https://www.eventbrite.com/e/waffles-with-santa-tickets-749228210747?aff=oddtdtcreator" target="_blank" rel="noopener"><strong>Reserve Your Time</strong></a>
 * **10:00am - Noon - Storytime with Mrs. Claus** at the North Bend Public Library - Mrs. Claus will conduct two identical storytimes at 10am and 11am! After Storytime, children can write letters to Santa and make "magic" reindeer food! The event is FREE and has a capacity of 100 per session.
 * **11:00am-3:00pm - Ice Skating** on North Bend's Famous Ice Skating Rink! FREE
 * **1:00pm-3:00pm - Christmas on Main Street** in downtown North Bend - look for the mischievous Elf on the Shelf in participating businesses and enter to win Free Tickets to the Ice Skating Rink, North Bend's Winter Attraction!
