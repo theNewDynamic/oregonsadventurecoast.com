@@ -117,7 +117,7 @@ Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown inste
 
 {{< spacer 50 >}}
 
-#### ![](/img/concertband.jpg)
+![](/img/concertband.jpg)
 
 #### Dates TBD<br>Bay Area Concert Band Fall into Winter Concert Series
 
@@ -125,7 +125,7 @@ The North Bend Presbyterian Church will be filled with the sounds of winter this
 
 {{< spacer "50" >}}
 
-#### ![Christmas Opry at Liberty Theatre in North Bend Oregon](/img/holiday-opry-sub-section-hdr.jpg)
+![Christmas Opry at Liberty Theatre in North Bend Oregon](/img/holiday-opry-sub-section-hdr.jpg)
 
 #### December 6 - 8, 2024<br>Christmas Opry Returns in December!
 
@@ -145,7 +145,9 @@ Tickets on-sale now at the box office and online at&nbsp;<a href="https://thelib
 
 The Empire District of Coos Bay will hold their annual Tree Lighting and Visits with Santa from 5pm to 7pm. Take photos with Santa and enjoy cookies, cider, caroling and more!
 
-#### ![North Bend Tree lighting festival, lighted truck parade and Ice skating](/img/north-bend-firetruck-sub-section-hdr-1.jpg)
+{{< spacer 50 >}}
+
+![North Bend Tree lighting festival, lighted truck parade and Ice skating](/img/north-bend-firetruck-sub-section-hdr-1.jpg)
 
 #### December 7, 2024<br>Ice Skating, North Bend Tree Lighting, Festival on Main & Lighted Truck Parade in Downtown North Bend!
 
@@ -153,7 +155,7 @@ Downtown North Bend transforms into a **Winter Wonderland.** Dive deep into the 
 
 {{< spacer 50 >}}
 
-#### ![winter faire at Coos history museum](/img/ceramic-bells-sub-section-hdr.jpg)
+![winter faire at Coos history museum](/img/ceramic-bells-sub-section-hdr.jpg)
 
 #### Dates TBD<br>Winter Faire at Coos History Museum
 
@@ -161,7 +163,7 @@ Join local artisans, food vendors, and more for your annual Holiday Shopping at 
 
 {{< spacer "50" >}}
 
-#### ![watch Christmas Vacation and enter to win the ugly sweater competition at the Egyptian Theater in Coos Bay](/img/vacation-movie-sweater-sub-section-hdr.jpg)
+![watch Christmas Vacation and enter to win the ugly sweater competition at the Egyptian Theater in Coos Bay](/img/vacation-movie-sweater-sub-section-hdr.jpg)
 
 #### Date TBD<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
 
