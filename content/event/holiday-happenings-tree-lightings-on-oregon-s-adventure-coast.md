@@ -37,7 +37,7 @@ aliases:
 
 {{< spacer "40" >}}
 
-#### ![](/img/shopping-sub-header-695x200.jpg)
+![](/img/shopping-sub-header-695x200.jpg)
 
 #### November 8 & 9, 2024<br>Downtown Coos Bay Holiday Open House
 
@@ -45,7 +45,7 @@ Get into the holiday spirit and work on your gift-giving lists at the Annual Dow
 
 {{< spacer 50 >}}
 
-#### ![Crab Pot Christmas Tree in Charleston Oregon](/img/crab-pot-sub-section-hdr.jpg)
+![Crab Pot Christmas Tree in Charleston Oregon](/img/crab-pot-sub-section-hdr.jpg)
 
 #### November TBD - December 31, 2024<br>Charleston Crab Pot Tree
 
@@ -53,7 +53,7 @@ The Charleston Fishing Families celebrate the season every year with a colorful,
 
 {{< spacer 50 >}}
 
-#### ![Holiday Lights at Shore Acres State Park in Charleston Oregon](/img/holiday-lights-sub-section-hdr.jpg)
+![Holiday Lights at Shore Acres State Park in Charleston Oregon](/img/holiday-lights-sub-section-hdr.jpg)
 
 #### November 28-December 31, 2024<br>Holiday Lights at Shore Acres State Park
 
@@ -61,7 +61,7 @@ More info on this very special holiday event, brought to us by the [**Friends of
 
 {{< spacer 50 >}}
 
-#### ![](/img/holiday-railroad-train-sub-section-hdr.jpg)
+![](/img/holiday-railroad-train-sub-section-hdr.jpg)
 
 #### November 28, 2024 - January 1, 2025<br>Oregon Coast Historic Railway Museum Lights
 
