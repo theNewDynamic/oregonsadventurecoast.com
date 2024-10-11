@@ -115,9 +115,9 @@ Visit <a href="https://www.themillcasino.com/" target="_blank" rel="noopener">Th
 
 ![Ice Skating in North Bend, Oregon](/img/ice-skating-north-bend-695x200.jpg)
 
-#### December 2024 - February, 2025<br>Ice Skating in Downtown North Bend!
+#### December 2024 - February 2025<br>Ice Skating in Downtown North Bend!
 
-Bring your friends, bring your family and enjoy the Only Ice Skating Rink on the Oregon Coast! From early December through February, lace up a pair of skates and take to the ice.&nbsp;Skate Rentals $5. Check back for opening dates and more details.
+Bring your friends, bring your family and enjoy the ONLY Ice Skating Rink on the Oregon Coast! From early December through February, lace up a pair of skates and take to the ice.&nbsp;Skate Rentals $5. Check back for opening dates and more details.
 
 {{< spacer "50" >}}
 
