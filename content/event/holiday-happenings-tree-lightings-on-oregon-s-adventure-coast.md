@@ -113,6 +113,14 @@ Visit <a href="https://www.themillcasino.com/" target="_blank" rel="noopener">Th
 
 {{< spacer "50" >}}
 
+![Ice Skating in North Bend, Oregon](/img/ice-skating-north-bend-695x200.jpg)
+
+#### December 2024 - February, 2025<br>Ice Skating in Downtown North Bend!
+
+Find the Mischievous Elf on the Shelf at participating businesses in North Bend! Each participatin
+
+{{< spacer "50" >}}
+
 ![](/img/rukas-reindeer-sub-section-hdr-1.jpg)
 
 #### Dates TBD<br>Reindeer Roundup
