@@ -25,8 +25,8 @@ hovertitle: Ice Skating in North Bend, OR!!
 hoverdescription: Lace up you ice skates and enjoy the only Ice Skating on the Coast!
 photo: /img/skating-rink-hero.jpg
 largeboxphoto: /img/skating-rink-1024x395.jpg
-mediumboxphoto: /img/skating-rink-667x355.jpg
-smallboxphoto: /img/skating-rink-340x214.jpg
+mediumboxphoto: /img/icerink-festive-667x355.jpg
+smallboxphoto: /img/icerink-helpers-340x214.jpg
 ---
 ![](/img/icerink-festive-med.jpg)
 
@@ -37,6 +37,8 @@ smallboxphoto: /img/skating-rink-340x214.jpg
 #### Bring your friends, bring your family and enjoy the Only Ice Skating Rink on the Oregon Coast! From early December through Valentine's Day, lace up a pair of skates and take to the ice.&nbsp;
 
 {{< spacer 25 >}}
+
+![Skating helpers all in a row.](/img/icerink-helpers-med.jpg "Even the skating helpers are festive!")
 
 #### Cost:
 
