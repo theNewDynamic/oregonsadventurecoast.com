@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Ice Skating in North Bend!
-startdate: '2023-12-02'
-enddate: '2024-02-18'
+startdate: '2024-12-07'
+enddate: '2025-02-16'
 address:
   city: North Bend
   state: OR
@@ -30,23 +30,13 @@ smallboxphoto: /img/skating-rink-340x214.jpg
 ---
 ![](/img/icerink-festive-med.jpg)
 
-#### EXTENDED! THROUGH FEBRUARY 18, 2024!!!!
+#### Ice Skating on the Oregon Coast! THROUGH FEBRUARY 16, 2025!!!!
 
 {{< spacer "15" >}}
 
 #### Bring your friends, bring your family and enjoy the Only Ice Skating Rink on the Oregon Coast! From early December through Valentine's Day, lace up a pair of skates and take to the ice.&nbsp;
 
 {{< spacer 25 >}}
-
-#### SPECIAL OPENING DAY EVENT! SATURDAY, DECEMBER 2ND
-
-**11:00am-3:00pm** - Glide on North Bend's Ice Rink - it's a **FREE** skate rental day!
-
-Below is the schedule for December Skating Activities. Several Theme Nights and Special events are planned!
-
-![](/img/ice-rink-february-rev.png)
-
-#### {{< spacer 50 >}}
 
 #### Cost:
 
@@ -56,7 +46,7 @@ Below is the schedule for December Skating Activities. Several Theme Nights and 
 
 #### Special Events at the Ice Rink!
 
-Visit the <a target="_blank" rel="noopener" href="https://www.facebook.com/NorthBendIceSkatingRink">Ice Rink's Facebook page</a> for information on special themed nights, including Disco Ice Skating Nights, Movie Ice Skating Nights, Costume Ice Skating Nights, Karaoke Ice Skating Nights, and much more!
+Visit the <a href="https://www.facebook.com/NorthBendIceSkatingRink" target="_blank" rel="noopener">Ice Rink's Facebook page</a> for information on special themed nights, including Disco Ice Skating Nights, Movie Ice Skating Nights, Costume Ice Skating Nights, Karaoke Ice Skating Nights, and much more!
 
 {{< spacer 25 >}}
 
