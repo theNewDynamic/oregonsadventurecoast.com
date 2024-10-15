@@ -92,7 +92,7 @@ The Events below are all proudly part of the **City's Summer of Celebration**. W
 
 *September 5 & 12 \| 7pm \| Mingus Park*<br>**Music on the Bay** brings us a great lineup of music for this year's concert series running eight Thursday's in a row from August 8th through September 12th. For a full line up of musicians and bands, visit the [Music on the Bay Facebook Page](https://www.facebook.com/musiconthebay).
 
-*September 5-16 \| Around Downtown Coos Bay<br>***Coos Bay 150th Birthday** <a href="https://www.coosbaylibrary.org/event/coos-bay-150th-birthday-scavenger-hunt-12494" target="_blank" rel="noopener"><strong>Scavenger Hunt</strong></a>**.** Celebrate Coos Bay's 150th Birthday by joining in a scavenger hunt that highlights our historic roots. Just pick up or download a clue sheet and then take a picture of yourself at each location. When you have completed the list come to the library to pick up a prize! Get a bonus prize if you post your picture to any social media platform and tag the Coos Bay Public Library!
+*September 5-16 \| Around Downtown Coos Bay<br>**Coos Bay 150th Birthday*** <a href="https://www.coosbaylibrary.org/event/coos-bay-150th-birthday-scavenger-hunt-12494" target="_blank" rel="noopener"><em><strong>Scavenger Hunt</strong></em></a>*.* Celebrate Coos Bay's 150th Birthday by joining in a scavenger hunt that highlights our historic roots. Just pick up or download a clue sheet and then take a picture of yourself at each location. When you have completed the list come to the library to pick up a prize! Get a bonus prize if you post your picture to any social media platform and tag the Coos Bay Public Library!
 
 *September 6 \| TBD \| Dolphin Playhouse Parking Lot*<br>Join area non-profit organizations for a special fundraiser, the **Non-Profit Parking Lot Sale** held each year in the parking lot of The Dolphin Playhouse in Empire.
 
@@ -124,7 +124,7 @@ Thousands of locals and visitors from afar come to enjoy the sights, sounds, and
 
 ### 150th Birthday BLOCK PARTY!
 
-*October 26 \| Time TBD \| Coos Bay Village, Coos History Museum and Front Street*<br>Join us for a blowout **Birthday Party to celebrate Coos Bay's Sesquicentennial**. There will be music, activities for the whole family, and of course, birthday cupcakes! *More details coming soon.*
+*October 26 \| 1-5pm \| Coos Bay Village and Coos History Museum*<br>Join us for a blowout **Birthday Party to celebrate Coos Bay's Sesquicentennial**. There will be music, activities for the whole family, and of course, birthday cupcakes! [*Visit our Events Page for all the Details!*](https://www.oregonsadventurecoast.com/event/celebrate-coos-bay-s-150th-birthday/)
 
 &nbsp;
 
