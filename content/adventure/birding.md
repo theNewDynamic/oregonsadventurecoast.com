@@ -1,16 +1,17 @@
 ---
+_schema: default
 title: Birding & Wildlife
-aliases:
-- "/featured-adventures/birding"
-- "/activities/category/birding"
-url: "/birding-and-wildlife"
-photo: "/img/blog-plover-header.jpg"
+url: /birding-and-wildlife
+photo: /img/blog-plover-header.jpg
 seo:
-  description: Rugged and largely undeveloped, this area of the Oregon Coast lures
-    birders to view wildlife seldom encountered! Plan your trip for birding and wildlife
-    viewing today.
   title: Trips to the Oregon Coast - Birding/Wildlife | Oregon's Adventure Coast
-
+  description: >-
+    Rugged and largely undeveloped, this area of the Oregon Coast lures birders
+    to view wildlife seldom encountered! Plan your trip for birding and wildlife
+    viewing today.
+aliases:
+  - /featured-adventures/birding
+  - /activities/category/birding
 ---
 ![Oyster Catcher on the Beach](/img/bandon_oystercatcher.jpg)
 
@@ -22,9 +23,9 @@ Rugged and largely undeveloped, Oregon’s south coast lures birders to view wil
 
 The South Slough National Estuarine Research Reserve near Charleston, with its 5,000 acres of saltwater marshes and mixed conifer forest, attracts Band-tailed Pigeons and Wrentits.
 
-In April and August, Bandon Marsh National Wildlife Refuge attracts rare shorebirds and is a feeding and resting stopover for migrating Pacific Golden-Plover, Dunlin, and Whimbrel.
+The Millacoma Marsh trail, on the Eastside of the Bay,  meanders through fresh and saltwater marshes with great opportunities to view wildlife. Shorebirds, waterfowl, and raptors are commonly seen from the trail. Evidence of raccoon, black tailed deer, beaver, bats, and moles can be found by the curious and watchful.
 
-Visit Oregon’s Adventure Coast in September for the annual [Oregon Shorebird Festival](https://www.oregonshorebirdfestival.org/). You’ll find field trips, talks, and a forum for all skill levels to share and exchange stories. Founded by the Cape Arago Audubon Society, and sponsored by several groups, you can expand your knowledge, and spend a long summer weekend on the Coast - what could be better?
+In April and August, Bandon Marsh National Wildlife Refuge attracts rare shorebirds and is a feeding and resting stopover for migrating Pacific Golden-Plover, Dunlin, and Whimbrel.
 
 {{< spacer 50 >}}
 
@@ -34,9 +35,9 @@ Visit Oregon’s Adventure Coast in September for the annual [Oregon Shorebird F
 
 **The Simpson Reef Interpretive Stop:** On Charleston’s Cape Arago Highway Loop, enjoy excellent views of Oregon’s largest haul-out of seals and sea lions.
 
-**Shell Island:** Part of the Oregon Islands National Wildlife Refuge, Shell Island offers viewing of Northern Elephant Seals, Harbor Seals, and Stellar Sea Lions. California Sea Lions take over Cape Arago every fall.
+**Shell Island:** Part of the Oregon Islands National Wildlife Refuge, Shell Island offers viewing of Northern Elephant Seals, Harbor Seals, and Stellar Sea Lions. California Sea Lions take over Cape Arago every fall. Shell Island can be seen from the Simpson Reef Interpretive Stop or the North Trail of Cape Arago State Park.
 
-**Simpson Beach:** Directly below Shore Acres State Park, a path leads to a secluded cove that provides great whale watching and a different view of Shell Island.
+**Simpson Beach:** Directly below Shore Acres State Park, a path leads to a secluded cove that provides a safe space for some seals and sea lions to sun on the beach. *If you see these specimens on the beach, please do not approach them but view them from a distance.*
 
 {{< spacer 50 >}}
 
