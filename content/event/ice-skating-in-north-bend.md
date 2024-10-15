@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Ice Skating in North Bend!
-startdate: '2023-12-02'
-enddate: '2024-02-18'
+startdate: '2024-12-07'
+enddate: '2025-02-16'
 address:
   city: North Bend
   state: OR
@@ -25,12 +25,12 @@ hovertitle: Ice Skating in North Bend, OR!!
 hoverdescription: Lace up you ice skates and enjoy the only Ice Skating on the Coast!
 photo: /img/skating-rink-hero.jpg
 largeboxphoto: /img/skating-rink-1024x395.jpg
-mediumboxphoto: /img/skating-rink-667x355.jpg
-smallboxphoto: /img/skating-rink-340x214.jpg
+mediumboxphoto: /img/icerink-festive-667x355.jpg
+smallboxphoto: /img/icerink-helpers-340x214.jpg
 ---
 ![](/img/icerink-festive-med.jpg)
 
-#### EXTENDED! THROUGH FEBRUARY 18, 2024!!!!
+#### Ice Skating on the Oregon Coast! THROUGH FEBRUARY 16, 2025!!!!
 
 {{< spacer "15" >}}
 
@@ -38,15 +38,7 @@ smallboxphoto: /img/skating-rink-340x214.jpg
 
 {{< spacer 25 >}}
 
-#### SPECIAL OPENING DAY EVENT! SATURDAY, DECEMBER 2ND
-
-**11:00am-3:00pm** - Glide on North Bend's Ice Rink - it's a **FREE** skate rental day!
-
-Below is the schedule for December Skating Activities. Several Theme Nights and Special events are planned!
-
-![](/img/ice-rink-february-rev.png)
-
-#### {{< spacer 50 >}}
+![Skating helpers all in a row.](/img/icerink-helpers-med.jpg "Even the skating helpers are festive!")
 
 #### Cost:
 
@@ -56,7 +48,7 @@ Below is the schedule for December Skating Activities. Several Theme Nights and 
 
 #### Special Events at the Ice Rink!
 
-Visit the <a target="_blank" rel="noopener" href="https://www.facebook.com/NorthBendIceSkatingRink">Ice Rink's Facebook page</a> for information on special themed nights, including Disco Ice Skating Nights, Movie Ice Skating Nights, Costume Ice Skating Nights, Karaoke Ice Skating Nights, and much more!
+Visit the <a href="https://www.facebook.com/NorthBendIceSkatingRink" target="_blank" rel="noopener">Ice Rink's Facebook page</a> for information on special themed nights, including Disco Ice Skating Nights, Movie Ice Skating Nights, Costume Ice Skating Nights, Karaoke Ice Skating Nights, and much more!
 
 {{< spacer 25 >}}
 
