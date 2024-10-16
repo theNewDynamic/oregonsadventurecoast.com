@@ -124,7 +124,29 @@ Thousands of locals and visitors from afar come to enjoy the sights, sounds, and
 
 ### 150th Birthday BLOCK PARTY!
 
-*October 26 \| 1-5pm \| Coos Bay Village and Coos History Museum*<br>Join us for a blowout **Birthday Party to celebrate Coos Bay's Sesquicentennial**. There will be music, activities for the whole family, and of course, birthday cupcakes! [*Visit our Events Page for all the Details!*](https://www.oregonsadventurecoast.com/event/celebrate-coos-bay-s-150th-birthday/)
+*October 26 \| 1-5pm \| Coos Bay Village and Coos History Museum*<br>Join us for a blowout **Birthday Party to celebrate Coos Bay's Sesquicentennial**. There will be music, activities for the whole family, and of course, birthday cupcakes!
+
+#### Location of All Events
+
+**Coos History Museum and Coos Bay Village**<br>1210 N Front Street<br>Coos Bay, OR 97420<br>**FREE Admission to the Museum all day!**
+
+#### **Schedule of Events**
+
+#### **1:00pm to 5:00pm**
+
+*Subject to Change*
+
+* **Welcome** from **Mayor Joe Benetti** and a few words from representatives from **The Coquille Indian Tribe**, the **Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians,** and the **Coos History Museum**
+* **Local Historian, Steve Greif**, will share some historical tidbits
+* **Ceremonial Cutting of the Birthday Cake**, cupcakes will be available as well
+* **Coast Guard Aerial Display over Coos Bay**
+* **Tribal Canoes on Display**
+* **Free Arts Projects** **with Josie’s Art Lab** (at the Museum)
+* **Free Hot Dogs and Pretzels**, provided by local service organizations and OCCI
+* **Special Events at Coos Bay Village Merchants**, with a chance to win a Basket of Goodies!
+* **Live Music from Blue Tide Blues Bands**, provided by [7 Devils Brewery](https://7devilsbrewery.com/)
+
+[*Visit our Events Page for all the Details!*](https://www.oregonsadventurecoast.com/event/celebrate-coos-bay-s-150th-birthday/)
 
 &nbsp;
 
