@@ -38,13 +38,14 @@ Mark your calendar for the Big Birthday Party at the Coos History Museum and Coo
 
 *Subject to Change*
 
-* **Welcome** from Mayor Joe Benetti and other Dignitaries
+* **Welcome** from **Mayor Joe Benetti** and&nbsp;a few words from representatives from **The Coquille Indian Tribe**, the **Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians,** and the **Coos History Museum**
 * **Local Historian, Steve Greif**, will share some historical tidbits
 * **Ceremonial Cutting of the Birthday Cake**, cupcakes will be available as well
 * **Coast Guard Aerial Display over Coos Bay**
-* **Arts Projects** **with Josie’s Art Lab**
-* **Special Events at Coos Bay Village Merchants**
-* **Live Music, provided by 7 Devils Brewery**
-* **Beer Garden** with non-alcoholic and specialty brews (for purchase)
+* **Tribal Canoes on Display**
+* **Free Arts Projects** **with Josie’s Art Lab** (at the Museum)
+* **Free Hot Dogs and Pretzels**, provided by local service organizations and OCCI
+* **Special Events at Coos Bay Village Merchants**, with a chance to win a Basket of Goodies!
+* **Live Music from Blue Tide Blues Bands**, provided by [7 Devils Brewery](https://7devilsbrewery.com/)
 
   <br>
