@@ -1,8 +1,6 @@
 ---
 _schema: default
 title: Holiday Happenings & Tree Lightings on Oregon's Adventure Coast!
-startdate: '2024-11-28'
-enddate: '2024-12-31'
 address:
   city: Coos Bay, North Bend, Empire, Charleston
   state: ''
