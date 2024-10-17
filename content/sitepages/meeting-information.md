@@ -22,6 +22,10 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 {{< spacer 25 >}}
 
+#### <a href="/Local-TLT-Explained-VCB-TaxingEntities.pdf" target="_blank" rel="noopener">Learn About Our Local Lodging Tax and the History of the VCB</a>
+
+{{< spacer "25" >}}
+
 #### HOW THE VCB IS FUNDED
 
 * **THE VCB IS SOLELY FUNDED THROUGH LODGING TAXES COLLECTED BY COMMERCIAL LODGING PROPERTIES WITHIN THE CITY LIMITS OF COOS BAY AND NORTH BEND, AT THE COQUILLE INDIAN TRIBE PROPERTIES, AND WITHIN A PRESCRIBED AREA AROUND CHARLESTON.** *The lodging tax rate is 9.5%.*
