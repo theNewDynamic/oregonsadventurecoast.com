@@ -46,6 +46,12 @@ smallboxphoto: /img/icerink-helpers-340x214.jpg
 
 **{{< spacer "25" >}}**
 
+#### Schedule:
+
+Fridays - 3:00pm to 7:00pm <br>Saturdays - 11:00am to 3:00pm<br>Saturday Theme Nights - 4:00pm to 8:00pm <br>Sundays - Noon to 4:00pm <br>*(Private Party Bookings are Available Sundays 4:30 to 6 p.m.)*
+
+{{< spacer "25" >}}
+
 #### Special Events at the Ice Rink!
 
 Visit the <a href="https://www.facebook.com/NorthBendIceSkatingRink" target="_blank" rel="noopener">Ice Rink's Facebook page</a> for information on special themed nights, including Disco Ice Skating Nights, Movie Ice Skating Nights, Costume Ice Skating Nights, Karaoke Ice Skating Nights, and much more!
