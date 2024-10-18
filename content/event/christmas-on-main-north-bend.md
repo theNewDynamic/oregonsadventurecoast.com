@@ -20,7 +20,7 @@ largeboxphoto: /img/lightedfiretruck-1024x395.jpg
 mediumboxphoto: /img/lightedfiretruck-667x355.jpg
 smallboxphoto: /img/lightedfiretruck-340x214.jpg
 ---
-![Lighted decorations with girls at downtown event.](/img/christmas-3.jpg "Enjoy the Lights in Downtown North Bend")
+![Lighted decorations with girls at downtown event.](/img/christmas-3.jpg "Enjoy the Lights in Downtown North Bend. Photo Credit Mr. Mike Photography")
 
 ### North Bend's Christmas on Main
 
@@ -28,7 +28,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 {{< spacer "25" >}}
 
-![Santa holding a plate of waffles](/img/waffleswithsanta-667x417-1.jpg "Enjoy Waffles with Santa!")
+![Santa holding a plate of waffles](/img/waffleswithsanta-667x417-1.jpg "Enjoy Waffles with Santa! Photo Credit Mr. Mike Photography")
 
 #### Waffles with Santa
 
@@ -36,7 +36,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 {{< spacer "25" >}}
 
-![Mrs. Claus reading to children](/img/mrsclausstory-667x355.jpg "Don't Miss Storytime with Mrs. Claus!")
+![Mrs. Claus reading to children](/img/mrsclausstory-667x355.jpg "Don't Miss Storytime with Mrs. Claus! Photo Credit Mr. Mike Photography")
 
 #### Story Time with Mrs. Claus
 
@@ -60,7 +60,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 {{< spacer "25" >}}
 
-![Lighted FireTruck in NB](/img/lightedfiretruck-667x355.jpg "A Festive Block Party, Tree Lighting and Truck Parade in North Bend!")
+![Lighted FireTruck in NB](/img/lightedfiretruck-667x355.jpg "A Festive Block Party, Tree Lighting and Truck Parade in North Bend!  Photo Credit Mr. Mike Photography")
 
 #### Holiday Block Party
 
