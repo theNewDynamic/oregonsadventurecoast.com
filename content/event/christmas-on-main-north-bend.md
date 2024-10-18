@@ -60,7 +60,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 {{< spacer "25" >}}
 
-![Festive lights](/img/north-bend-tree-lighting-event-sub-header.jpg "A Festive Block Party in North Bend!")
+![Lighted FireTruck in NB](/img/lightedfiretruck-667x355.jpg "A Festive Block Party, Tree Lighting and Truck Parade in North Bend!")
 
 #### Holiday Block Party
 
