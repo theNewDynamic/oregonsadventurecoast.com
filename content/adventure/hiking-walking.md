@@ -25,8 +25,9 @@ accordion_sections:
           soft, open sand.  There is also an easier interpretive loop hike.
 
 
-          #### [**Empire Lakes
-          Trail**](https://www.oregonhikers.org/field_guide/Empire_Lakes_Loop_Hike)
+          #### <a
+          href="https://www.oregonhikers.org/field_guide/Empire_Lakes_Loop_Hike"
+          target="_blank" rel="noopener"><strong>Empire Lakes Trail</strong></a>
 
 
           4 miles of paved and 1.5 miles of dirt paths around Upper and Lower
@@ -39,8 +40,9 @@ accordion_sections:
           .5 mile loop with interpretive birding trail
 
 
-          #### [**Mingus
-          Park**](https://www.coosbayor.gov/community/city-parks/mingus-park)
+          #### <a
+          href="https://www.coosbayor.gov/community/city-parks/mingus-park"
+          target="_blank" rel="noopener"><strong>Mingus Park</strong></a>
 
 
           1 mile trail in Coos Bay's city park that is paved, dirt and gravel,
@@ -132,6 +134,8 @@ South Slough National Estuarine Research Reserve is located off Cape Arago Highw
 #### Take a Virtual Tour of the South Slough Estuary Trails with Rick Dancer
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772887646142995%2F&amp;show_text=0&amp;width=695" width="695" height="391" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+
+&nbsp;
 
 &nbsp;
 
