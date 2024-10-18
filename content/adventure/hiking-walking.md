@@ -39,7 +39,8 @@ accordion_sections:
           .5 mile loop with interpretive birding trail
 
 
-          #### [**Mingus Park**](http://coosbay.org/departments/parks)
+          #### [**Mingus
+          Park**](https://www.coosbayor.gov/community/city-parks/mingus-park)
 
 
           1 mile trail in Coos Bay's city park that is paved, dirt and gravel,
@@ -77,6 +78,8 @@ accordion_sections:
           town, so check out as much of it as you have time and energy for. We
           hope you will enjoy learning more about the colorful past of the Coos
           Bay and North Bend area.
+  - title:
+    accordions:
 ---
 #### TAKE A HIKE! LITERALLY!
 
@@ -129,6 +132,8 @@ South Slough National Estuarine Research Reserve is located off Cape Arago Highw
 #### Take a Virtual Tour of the South Slough Estuary Trails with Rick Dancer
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772887646142995%2F&amp;show_text=0&amp;width=695" width="695" height="391" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+
+&nbsp;
 
 <div class="margin-50px-top">&nbsp;</div>
 
