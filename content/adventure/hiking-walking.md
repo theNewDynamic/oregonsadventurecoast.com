@@ -39,7 +39,8 @@ accordion_sections:
           .5 mile loop with interpretive birding trail
 
 
-          #### [**Mingus Park**](http://coosbay.org/departments/parks)
+          #### [**Mingus
+          Park**](https://www.coosbayor.gov/community/city-parks/mingus-park)
 
 
           1 mile trail in Coos Bay's city park that is paved, dirt and gravel,
@@ -77,6 +78,8 @@ accordion_sections:
           town, so check out as much of it as you have time and energy for. We
           hope you will enjoy learning more about the colorful past of the Coos
           Bay and North Bend area.
+  - title:
+    accordions:
 ---
 #### TAKE A HIKE! LITERALLY!
 
