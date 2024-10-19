@@ -177,7 +177,7 @@ Join local artisans, food vendors, and more for your annual Holiday Shopping at 
 
 ![watch Christmas Vacation and enter to win the ugly sweater competition at the Egyptian Theater in Coos Bay](/img/vacation-movie-sweater-sub-section-hdr.jpg)
 
-#### Date TBD<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
+#### December 21, 2024<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
 
 The Egyptian Theatre is hosting this Holiday Classic Movie plus an Ugly Sweater Contest just in time for the Holidays!
 
