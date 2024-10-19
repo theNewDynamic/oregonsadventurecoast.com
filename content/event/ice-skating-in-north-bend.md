@@ -46,7 +46,7 @@ smallboxphoto: /img/icerink-helpers-340x214.jpg
 
 **{{< spacer "25" >}}**
 
-#### Schedule:
+#### {{< floatimage src="/img/icerink-girlinpink-24.jpg" float="left" alt="Girls skating." size="" >}}Schedule:
 
 Fridays - 3:00pm to 7:00pm <br>Saturdays - 11:00am to 3:00pm<br>Saturday Theme Nights - 4:00pm to 8:00pm <br>Sundays - Noon to 4:00pm <br>*(Private Party Bookings are Available Sundays 4:30 to 6 p.m.)*
 
