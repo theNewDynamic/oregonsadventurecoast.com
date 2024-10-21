@@ -29,7 +29,7 @@ Additionally, the scenic beauty of our area offers a chance to practice mindfuln
 
 ## Massage, Yoga and More
 
-Add to your experience when you go Forest Bathing with [Mossy Lotus](https://mossyyoga.com/)for an immersion into the quiet contemplation of the forest. Take a yoga class at one of our many yoga studios. Get a massage, infusion, or other relaxing service at one of our two Day Spas – [Beautiful You Medi Spa](https://www.beautifulyou-pnw.com/) and [Hair Co. Etc - Salon & Day Spa](https://haircoetc.net/).
+Add to your experience when you go Forest Bathing with [Mossy Lotus](https://mossyyoga.com/)for an immersion into the quiet contemplation of the forest. Take a yoga class at one of our many yoga studios. Get a massage, infusion, or other relaxing service at one of our two Day Spas – <a href="https://www.beautifulyou-pnw.net/" target="_blank" rel="noopener">Beautiful You Medi Spa</a> and [Hair Co. Etc - Salon & Day Spa](https://haircoetc.net/).
 
 ## Healthy Eats
 
