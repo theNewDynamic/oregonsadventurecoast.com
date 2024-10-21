@@ -32,12 +32,13 @@ accordion_sections:
           track.
 
 
-          [EMPIRE
-          LAKES](http://coosbay.org/uploads/PDF/Operations/Parks/John_Topits_Park/JOHN_TOPITS_PARK_TRAIL_MAP.pdf)
-          - provides a more leisurely trail for biking but it is no less scenic.
-          The trail system, 4 miles paved and 1.5 miles dirt track, is in John
-          Topits Park, centered on the natural beauty of two lakes and
-          stabilized dunes within the park.
+          <a
+          href="https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes"
+          target="_blank" rel="noopener">EMPIRE LAKES</a> - provides a more
+          leisurely trail for biking but it is no less scenic. The trail system,
+          4 miles paved and 1.5 miles dirt track, is in John Topits Park,
+          centered on the natural beauty of two lakes and stabilized dunes
+          within the park.
 
 
           EUPHORIA RIDGE TRAILS - this 10 mile track begins on dirt road and
