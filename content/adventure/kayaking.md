@@ -52,7 +52,9 @@ We'd love to be able to say, "come on in, the water's fine" but it would be more
 
 {{< spacer 20 >}}
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&show_text=0&width=695" width="695" height="391" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&amp;show_text=0&amp;width=695" width="695" height="391" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+
+&nbsp;
 
 <div class="margin-50px-top"></div>
 
@@ -78,4 +80,4 @@ Tenmile Lakes is made up of two lakes (North and South) connected by a channel. 
 
 ## Equipment Rental
 
-Don't have your own kayak, paddleboard or surfboard? You can rent one and get some sage advice from our friends at [Waxer's Surf Shop](https://waxerssurfandskate.com/ "Waxer's Surf Shop") in downtown Coos Bay; [Bahama Boards](https://bahamaboardz.com/ "Bahama Boards")in Coos Bay; and [Coastal Kayak & SUP Rentals](https://coastalkayakandsuprentalsllc.com/) in the Empire District of Coos Bay.
+Don't have your own kayak, paddleboard or surfboard? You can rent one and get some sage advice from our friends at <a href="https://www.waxerssurfandskate.com" title="Waxer's Surf Shop" target="_blank" rel="noopener">Waxer's Surf Shop</a> in downtown Coos Bay; [Bahama Boards](https://bahamaboardz.com/ "Bahama Boards")in Coos Bay; and [Coastal Kayak & SUP Rentals](https://coastalkayakandsuprentalsllc.com/) in the Empire District of Coos Bay.
