@@ -52,7 +52,7 @@ A must-stop for railroad enthusiasts. Ring the bell of the signature 1922 Baldwi
 
 #### Marshfield Pioneer Cemetery
 
-Located adjacent to Marshfield High School, the Marshfield Pioneer Cemetery encompasses four acres of greenspace with more than 2,000 gravesites dating to pre-Civil War times. Explore the cemetery with a self-guided brochure and learn about shipwrecks, the Civil War prison escapees, and many of the immigrants who made this region home. The cemetery is on the National Register of Historic Places. [Learn more about the Marshfield Pioneer Cemetery.](https://sites.google.com/site/cbcemetery/)
+Located adjacent to Marshfield High School, the Marshfield Pioneer Cemetery encompasses four acres of greenspace with more than 2,000 gravesites dating to pre-Civil War times. Explore the cemetery with a self-guided brochure and learn about shipwrecks, the Civil War prison escapees, and many of the immigrants who made this region home. The cemetery is on the National Register of Historic Places. <a href="https://www.coosbayor.gov/community/city-parks/marshfield-pioneer-cemetery" target="_blank" rel="noopener">Learn more about the Marshfield Pioneer Cemetery.</a>
 
 {{< spacer 50 >}}
 
