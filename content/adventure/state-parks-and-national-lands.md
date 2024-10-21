@@ -26,7 +26,7 @@ On the Oregon Coast, many of the beaches are state parks and our area is no exce
 
 ![](/img/ShoreAcres-State-Park-v02-695x125.jpg)
 
-[**Shore Acres State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=68), the Oregon Coast’s crown jewel, was once the private estate of lumber baron, Louis Simpson, founder of the community of North Bend. Perched on rugged sandstone cliffs high above the ocean, Shore Acres State Park is an exciting and unexpected combination of beautiful natural and constructed features, including lushly planted gardens with plants and flowers from all over the world. Something is in bloom almost every day of the year.
+<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=68" target="_blank" rel="noopener"><strong>Shore Acres State Park</strong></a>, the Oregon Coast’s crown jewel, was once the private estate of lumber baron, Louis Simpson, founder of the community of North Bend. Perched on rugged sandstone cliffs high above the ocean, Shore Acres State Park is an exciting and unexpected combination of beautiful natural and constructed features, including lushly planted gardens with plants and flowers from all over the world. Something is in bloom almost every day of the year.
 
 In the landscaped area you'll discover a formal garden, a Japanese-style garden with a lily pond, and two rose gardens which include All American Rose Selections. From Thanksgiving through New Year's Eve, the gardens are ablaze with thousands of colored lights and holiday decorations put up by community volunteers and The Friends of Shore Acres in cooperation with the Oregon Parks and Recreation Department. [Click here](https://shoreacres.net/) for more information on Holiday Lights.
 
@@ -42,7 +42,7 @@ After seeing the garden, you can stroll down a trail to a secluded ocean cove at
 
 ![Sunset Bay State Park on Oregon's Adventure Coast](/img/Sunset-Bay-State-Park-v02-695x125.jpg)
 
-Situated in one of the most scenic areas on the Oregon coast, [**Sunset Bay State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=70) features beautiful sandy beaches protected by towering sea cliffs. Only a short walk from the beach, the campground has sites for tent camping and RV's, as well as cozy and comfortable yurts. Day-use and picnic facilities are located along the bay to allow easy access for beachcombing, fishing, swimming, and boating.
+Situated in one of the most scenic areas on the Oregon coast, <a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=70" target="_blank" rel="noopener"><strong>Sunset Bay State Park</strong></a> features beautiful sandy beaches protected by towering sea cliffs. Only a short walk from the beach, the campground has sites for tent camping and RV's, as well as cozy and comfortable yurts. Day-use and picnic facilities are located along the bay to allow easy access for beachcombing, fishing, swimming, and boating.
 
 A network of hiking trails connects Sunset Bay with nearby Shore Acres and Cape Arago State Parks. Hiking these trails will give you a chance to experience pristine coastal forests, seasonal wildflowers and spectacular ocean vistas from atop the rugged cliffs and headlands. From points along the trail, you'll be treated to views of Gregory Point and the Cape Arago lighthouse.
 
@@ -50,7 +50,7 @@ A network of hiking trails connects Sunset Bay with nearby Shore Acres and Cape 
 
 ![Cape Arago State Park on Oregon's Adventure Coast](/img/Cape-Arago-State-Park-695x125.jpg)
 
-[**Cape Arago State Park**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=66), may be the end of the road (the road out of Coos Bay goes no further), but it's really only the beginning if you want to explore the southern Oregon coast.
+<a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=66" target="_blank" rel="noopener"><strong>Cape Arago State Park</strong></a>, may be the end of the road (the road out of Coos Bay goes no further), but it's really only the beginning if you want to explore the southern Oregon coast.
 
 Located at the end of Cape Arago Highway about 15 miles southwest of Coos Bay, Cape Arago is a scenic headland jutting into the Pacific Ocean. Long used by native Americans, Cape Arago was first sighted by Europeans during one of Sir Francis Drake's expeditions in the late 1500s. Modern visitors can scan the horizon for migrating whales and other marine mammals, as well as fishing boats and ships entering and leaving nearby Coos Bay.
 
@@ -64,15 +64,17 @@ If you head inland, you’ll find [**Golden and Silver Falls State Park**](https
 
 Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the cascading waterfall and giant old-growth firs and cedars.
 
-<div class="margin-50px-top"> </div>
+<div class="margin-50px-top">&nbsp;</div>
 
 ### Take a Virtual Tour of Shore Acres State Park!
 
 {{< spacer 25 >}}
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772859196145840%2F&show_text=0&width=695" width="695" height="454" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772859196145840%2F&amp;show_text=0&amp;width=695" width="695" height="454" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
 
-<div class="margin-50px-top"> </div>
+&nbsp;
+
+<div class="margin-50px-top">&nbsp;</div>
 
 ![Wave Crash at Shore Acres State Park - Winter Stormwatching!](/img/wave-crash-charleston-bandon-tour.jpg)
 
@@ -100,7 +102,7 @@ The [**Oregon Dunes National Recreation Area**](https://www.fs.usda.gov/recarea/
 
 [**Charleston to Bandon Tour Route**](/tripideas/charleston-to-bandon-tour-route/)<br>A short spur off the Pacific Coast Scenic Byway, this route showcases a glorious stretch of coastline that includes six state parks, two National Wildlife Refuges, and America’s first National Estuarine Research Reserve. [**Read More &gt;&gt;**](/tripideas/charleston-to-bandon-tour-route)
 
-<div class="clearfix padding-20px-top"> </div>
+<div class="clearfix padding-20px-top">&nbsp;</div>
 
 <div class="trip-idea-thumbnail"><img alt="Cape Arago State Park - Over Look at Sunrise" src="/img/ti-cape-arago-loop-thumb.jpg" /></div>
 
