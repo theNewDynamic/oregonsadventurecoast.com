@@ -23,9 +23,10 @@ accordion_sections:
           When beach-combing and tide-pooling it’s crucial to make sure the tide
           is out during the time you’ll be on the beach. Visit <a
           href="https://tides4fishing.com/us/oregon/coos-bay#_tides"
-          target="_blank" rel="noopener">www.tides4fishing.com</a> and/or
-          [www.tideschart.com](https://www.tideschart.com/United-States/Oregon/Coos-Bay)
-          for an easy-to-use tide chart for the Coos Bay area.
+          target="_blank" rel="noopener">www.tides4fishing.com</a> and/or <a
+          href="https://www.tideschart.com/United-States/Oregon/Coos-Bay"
+          target="_blank" rel="noopener">www.tideschart.com</a> for an
+          easy-to-use tide chart for the Coos Bay area.
 
 
           #### Wear&nbsp;Shoes/Boots with Grip

@@ -47,7 +47,7 @@ Get into the holiday spirit and work on your gift-giving lists at the Annual Dow
 
 ![Crab Pot Christmas Tree in Charleston Oregon](/img/crab-pot-sub-section-hdr.jpg)
 
-#### December 2024<br>Charleston Crab Pot Tree
+#### Late November and December 2024<br>Charleston Crab Pot Tree
 
 The Charleston Fishing Families celebrate the season every year with a colorful, lighted Crab Pot Tree in the parking lot of Fisherman's Grotto restaurant! Lights from the tree can be seen from Cape Arago Highway and across to the Charleston Marina! *Photo courtesy of Chris at Off the Edge Photography.*
 
@@ -77,7 +77,7 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 #### November 29, 2024<br>Tree Lighting at the Coos Bay Visitor Center with Santa, Plus ELF! at The Egyptian
 
-Join Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! The evening begins with cookies and cider in the Visitor Center at 4:30pm. Santa and the Mayor of Coos Bay will light the tree at 5:30pm. Following the tree lighting, follow Santa and the parade of revelers to The Egyptian Theatre for the traditional showing of&nbsp;**Elf**! Santa will sit on stage and listen to the wishes of the boys and girls. Elf will begin at about 7pm. Don't forget your **NEW** **balled up white socks** for the snowball fight! The donated socks will go to local homeless shelters. If you miss this event, you can catch another free showing of **Elf** at 12:00 pm on Saturday with Santa, the movie follows at 2:00pm.
+Join Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! The evening begins with cookies and cider in the Visitor Center at 4:30pm. Santa and the Mayor of Coos Bay will light the tree at 5:30pm. Following the tree lighting, follow Santa and the parade of revelers to The Egyptian Theatre for the traditional showing of&nbsp;***Elf***! Santa will sit on stage and listen to the wishes of the boys and girls. Elf will begin at about 7pm. Don't forget your **NEW** **balled up white socks** for the snowball fight! The donated socks will go to local homeless shelters. If you miss this event, you can catch another free showing of ***Elf*** at 12:00 pm on Saturday with Santa, the movie follows at 2:00pm.
 
 {{< spacer 50 >}}
 
@@ -85,7 +85,7 @@ Join Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! Th
 
 #### November 30, 2024<br>ELF! at The Egyptian
 
-A second showing of **Elf** is planned for 2:00pm on Saturday, September 30th. Beginning at 12:00pm Santa will once again be available to hear all those wish lists!&nbsp;Another showing, but without Santa, at at 7:00pm, doors open at 6:30pm. Don't forget your **NEW** **balled up white socks** for the snowball fight! The donated socks will go to local homeless shelters.
+A second showing of ***Elf*** is planned for 2:00pm on Saturday, September 30th. Beginning at 12:00pm Santa will once again be available to hear all those wish lists!&nbsp;Another showing, but without Santa, at at 7:00pm, doors open at 6:30pm. Don't forget your **NEW** **balled up white socks** for the snowball fight! The donated socks will go to local homeless shelters.
 
 {{< spacer 50 >}}
 
@@ -105,22 +105,6 @@ Find the Mischievous Elf on the Shelf at participating businesses in North Bend!
 
 {{< spacer "50" >}}
 
-![](/img/fest-of-trees.jpeg)
-
-#### December 3-4, 2024<br>Festival of Trees Holiday Showcase and Benefit Auction
-
-Visit <a href="https://www.themillcasino.com/" target="_blank" rel="noopener">The Mill Casino * Hotel &amp; RV Park</a> to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp; All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
-
-{{< spacer "50" >}}
-
-![Ice Skating in North Bend, Oregon](/img/ice-skating-north-bend-695x200.jpg)
-
-#### December 7, 2024 - February 16, 2025<br>Ice Skating in Downtown North Bend!
-
-Bring your friends, bring your family and enjoy the ONLY <a href="https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/" target="_blank" rel="noopener">Ice Skating Rink on the Oregon Coast</a>! From early December through February, lace up a pair of skates and take to the ice.&nbsp;Skate Rentals $5. Visit our <a href="https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/" target="_blank" rel="noopener">Events Page</a> for more information!
-
-{{< spacer "50" >}}
-
 ![](/img/rukas-reindeer-sub-section-hdr-1.jpg)
 
 #### December 2-24, 2024<br>Reindeer Roundup
@@ -129,11 +113,21 @@ Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown Coos 
 
 {{< spacer 50 >}}
 
+![](/img/fest-of-trees.jpeg)
+
+#### December 3-4, 2024<br>Festival of Trees Holiday Showcase and Benefit Auction
+
+Visit <a href="https://www.themillcasino.com/" target="_blank" rel="noopener">The Mill Casino * Hotel &amp; RV Park</a> to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp; All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
+
+&nbsp;
+
+{{< spacer "50" >}}
+
 ![](/img/concertband.jpg)
 
-#### Dates TBD<br>Bay Area Concert Band Fall into Winter Concert Series
+#### Thursday, December 5 and Sunday, December 8, 2024<br>Bay Area Concert Band Fall into Winter Concert Series
 
-The North Bend Presbyterian Church will be filled with the sounds of winter this year as the Bay Area Concert Band performs two concerts. The 40-plus-year-old concert band will perform various holiday selections. These concerts are Free but Donations are Welcome!
+The North Bend Presbyterian Church, 2238 Pony Creek Road, will be filled with the sounds of winter this year as the Bay Area Concert Band performs two concerts. Concerts are Thursday, December 5th at 7:30pm and Sunday, December 8th at 2:00pm. The 40-plus-year-old concert band will perform various holiday selections. These concerts are Free but Donations are Welcome!
 
 {{< spacer "50" >}}
 
@@ -155,9 +149,17 @@ Tickets on-sale now at the box office and online at&nbsp;<a href="https://thelib
 
 #### December 6, 2023<br>Empire District Tree Lighting and Santa Visit
 
-The Empire District of Coos Bay will hold their annual Tree Lighting and Visits with Santa from 5pm to 7pm. Take photos with Santa and enjoy cookies, cider, caroling and more!
+The Empire District of Coos Bay will hold their annual Tree Lighting, Visits with Santa, Star of Hope Holiday Open House from 5pm to 7pm. Take photos with Santa and enjoy cookies, cider, caroling and more!
 
 {{< spacer 50 >}}
+
+![Ice Skating in North Bend, Oregon](/img/ice-skating-north-bend-695x200.jpg)
+
+#### December 7, 2024 - February 16, 2025<br>Ice Skating in Downtown North Bend!
+
+Bring your friends, bring your family and enjoy the ONLY <a href="https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/" target="_blank" rel="noopener">Ice Skating Rink on the Oregon Coast</a>! From early December through February, lace up a pair of skates and take to the ice. Skate Rentals $5. Visit our <a href="https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/" target="_blank" rel="noopener">Events Page</a> for more information!
+
+{{< spacer "50" >}}
 
 ![North Bend Tree lighting festival, lighted truck parade and Ice skating](/img/north-bend-firetruck-sub-section-hdr-1.jpg)
 
@@ -167,6 +169,14 @@ Downtown North Bend transforms into a **Winter Wonderland.** Dive deep into the 
 
 {{< spacer 50 >}}
 
+![Home Alone Image](/img/homealoneempire.jpg "Home Alone at The Dolphin Playhouse")
+
+#### December 7, 2024<br>Home Alone at The Dolphin Playhouse
+
+Join our friends from Empire for a special FREE showing of ***Home Alone*** at The Dolphin Playhouse on Saturday, December 7th at 11:00am!
+
+{{< spacer "50" >}}
+
 ![winter faire at Coos history museum](/img/ceramic-bells-sub-section-hdr.jpg)
 
 #### Dates TBD<br>Winter Faire at Coos History Museum
@@ -175,11 +185,19 @@ Join local artisans, food vendors, and more for your annual Holiday Shopping at 
 
 {{< spacer "50" >}}
 
+![](/img/miracle34thstreet.jpg)
+
+#### December 14, 2024<br>50th Annual Wurlitzer Organ Sounds of Christmas Concert with *Miracle on 34th Street*
+
+The Egyptian Theatre will hold its 50th Annual Wurlitzer Organ Sounds of Christmas Concert followed by a special showing of Miracle on 34th Street on Saturday, December 14th. Organ Concert begins at Noon with the movie following at 3:00pm.
+
+{{< spacer "50" >}}
+
 ![watch Christmas Vacation and enter to win the ugly sweater competition at the Egyptian Theater in Coos Bay](/img/vacation-movie-sweater-sub-section-hdr.jpg)
 
 #### December 21, 2024<br>Christmas Vacation and Ugly Sweater Contest at The Egyptian Theatre
 
-The Egyptian Theatre is hosting this Holiday Classic Movie plus an Ugly Sweater Contest just in time for the Holidays!
+The Egyptian Theatre is hosting this Holiday Classic Movie, ***National Lampoon's Christmas Vacation***, plus an Ugly Sweater Contest just in time for the Holidays! Movie at 7:00pm, doors open at 6:30pm.
 
 {{< spacer "50" >}}
 
