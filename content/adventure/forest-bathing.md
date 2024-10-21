@@ -41,7 +41,7 @@ Bring a picnic lunch or have a healthy dinner at one of our Farm to Table eateri
 * [So It Goes Coffeehouse](https://www.soitgoescoffee.com/)
 * [Fisherman’s Market on the Boardwalk](https://www.facebook.com/fishermensseafoodmarket/)
 * [Back Alley Pub](https://northbendlanes.com/Back-Alley-Pub-Grill)
-* [Himalayan Restaurant and Bar](https://www.talech.com/biz/ordering/514286/HIMALAYAN-RESTAURANT-BAR-COOS-BAY-OR?fbclid=IwAR2u8k6ZC5rgumnIOPUAcOytdMDRpfG6ziARbt3Rc2TTPMipzfL_71KX4_g#/menu)
+* <a href="https://www.restaurantji.com/or/coos-bay/himalayan-restaurants-and-bar-/" target="_blank" rel="noopener">Himalayan Restaurant and Bar</a>
 
 {{< spacer 40 >}}
 
