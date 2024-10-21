@@ -31,7 +31,7 @@ warning: false
 ---
 *You already know Oregon's Adventure Coast is a haven for anyone looking to unplug and reconnect with nature, but you may not know it is a premier destination for both beginners and experienced birders alike.*
 
-When the COVID-19 crisis began one year ago, our focus shifted quickly to promoting [family-friendly outdoor activities](https://www.oregonsadventurecoast.com/blog/five-fun-ways-to-social-distance-on-oregon-s-adventure-coast/) that any pandemic fatigued person can experience on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. In this post, we’re going to share some tips on another local favorite, [bird watching](https://www.oregonsadventurecoast.com/birding-and-wildlife/)! Whether you're a beginner looking for your first pair of binoculars or an experienced birder in search of identification tips, we have it all here for you.
+When the COVID-19 crisis began one year ago, our focus shifted quickly to promoting [family-friendly outdoor activities](/blog/five-fun-ways-to-social-distance-on-oregon-s-adventure-coast/) that any pandemic fatigued person can experience on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. In this post, we’re going to share some tips on another local favorite, [bird watching](/birding-and-wildlife/)! Whether you're a beginner looking for your first pair of binoculars or an experienced birder in search of identification tips, we have it all here for you.
 
 ![](/img/oregon-coast-bird-blog-695x322-jpg.png)
 
@@ -42,8 +42,6 @@ Birding also benefits your mental health by stimulating your brain and your sens
 ![](/img/coos-bay-birding-blog-695x322-jpg-1.png)
 
 **Where can you go birding in Coos Bay, North Bend & Charleston?** Birds are everywhere you look and it’s not uncommon to be surprised with an unexpected species hanging around our area. Having said this, there are several destinations that offer outstanding bird watching opportunities listed below in no particular order. Whichever trail you decide to follow, don’t forget your binoculars!
-
-*Source:* [*www.oregoncoastbirding.com*](http://www.oregoncoastbirding.com/)
 
 ![](/img/oregon-coast-bird-watching-blog-695x322-jpg.png)
 
@@ -61,7 +59,7 @@ Wander through cattail marsh and woodlands in late fall and winter to find Swamp
 
 A hidden gem in the dense coastal forests of southwestern Oregon, this area is hard to find, but worth the effort. Moss-covered Oregon myrtles shade the banks of Glenn and Silver Creeks, attracting Winter Wren, Chestnut-backed Chickadee, Golden-crowned Kinglet, Varied and Swainson’s Thrush and Pacific-sloped Flycatcher. Hike trails through scenic canyons to see the American Dipper at the base of either waterfall. Hike to the top of Golden Falls to get a raven’s eye view of the cascading water and giant old-growth firs and cedars.
 
-### **\#4-** [**Charleston Marina**](https://www.portofcoosbay.com/marinahome)
+### **\#4-** [**Charleston Marina**](https://www.portofcoosbay.com/charleston-marina)
 
 A quick stop at the marina can be rewarding. Scan the water of the bay for Pelagic, Brandt’s and Double-crested Cormorant, Horned, Red-necked, and Western Grebe, Common, Red-throated and Pacific Loon, Black, Surf and Whitewinged Scoter, Long-tailed Duck, Common Goldeneye, Greater Scaup, and Marbled Murrelet. The small sandy beach by ODFW and the fish packing facility is excellent for gulls during winter including Heermann’s, Western, California, Glaucous-winged, Mew, and occasionally Glaucous Gull.
 
@@ -79,28 +77,14 @@ A must see on the south coast, Cape Arago overlooks Simpson Reef, the largest ma
 
 Please visit these other helpful resources to plan your birdwatching trip to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston.
 
-[www.capearagoaudubon.org](http://www.capearagoaudubon.org/)
+[www.capearagoaudubon.org](https://www.facebook.com/aragoaudubon/)
 
 [www.alltrails.com/us/oregon/coos-bay/birding](https://www.alltrails.com/us/oregon/coos-bay/birding)
 
-[www.oregoncoasttravel.net/4/oregon\_coast/Bird-Watching.htm](https://www.oregoncoasttravel.net/4/oregon_coast/Bird-Watching.htm)
-
-[www.oregoncoastbirding.com](http://www.oregoncoastbirding.com/PDFs/4%20South%20Coast%20Listings.pdf)
-
 [www.audubon.org/birding](https://www.audubon.org/birding)
 
-[www.oregonsadventurecoast.com/birding-and-wildlife/](https://www.oregonsadventurecoast.com/birding-and-wildlife/)
-
-\*\***Be on the lookout for new information on the annual** [\*\*Oregon Shorebird Festival\_\_](https://www.oregonshorebirdfestival.org/) **in September. The 2020 event was canceled due to COVID-19, but we’re hoping to hear of new dates for upcoming festivals! \*\***
+[www.oregonsadventurecoast.com/birding-and-wildlife](/birding-and-wildlife/)
 
 ![](/img/180711_coosbay1960-1.jpg)
 
-Be sure to read about other excellent outdoor activities like [paddle boarding](https://www.oregonsadventurecoast.com/blog/the-best-stand-up-paddleboarding-spots-on-oregon-s-adventure-coast/),[kayaking](https://www.oregonsadventurecoast.com/water-recreation/), [hiking,](https://www.oregonsadventurecoast.com/hiking-walking/) [fishing](https://www.oregonsadventurecoast.com/blog/eight-things-you-need-to-know-to-plan-your-oregon-coast-fishing-adventure/), [clamming](https://www.oregonsadventurecoast.com/blog/where-to-find-razor-clams-on-oregon-s-adventure-coast/), [crabbing](https://www.oregonsadventurecoast.com/crabbing-clamming/), [outdoor dining](https://www.oregonsadventurecoast.com/blog/looking-for-outdoor-dining-options-coos-bay-north-bend-charleston-have-several-from-which-to-choose/), [mountain biking](https://www.oregonsadventurecoast.com/blog/adventure-spotlight-whiskey-run-mountain-bike-trails-on-oregon-s-south-coast/), [self-guided walking tours](https://www.oregonsadventurecoast.com/blog/trip-idea-a-walking-tour-of-historic-coos-bay-north-bend/), [camping](https://www.oregonsadventurecoast.com/blog/relax-recharge-with-a-safe-camping-getaway-on-oregon-s-adventure-coast/) and more.
-
-Editor’s Note: *As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.*
-
-*Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.*
-
-*If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage you to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.*
-
-*Please visit* [*https://ecs.page.link/xhV4h*](https://ecs.page.link/xhV4h "https://ecs.page.link/xhV4h") *for more information.*
+Be sure to read about other excellent outdoor activities like [paddle boarding](/blog/the-best-stand-up-paddleboarding-spots-on-oregon-s-adventure-coast/),[kayaking](https://www.oregonsadventurecoast.com/water-recreation/), [hiking,](/hiking-walking/) [fishing](/blog/eight-things-you-need-to-know-to-plan-your-oregon-coast-fishing-adventure/), [clamming](/blog/where-to-find-razor-clams-on-oregon-s-adventure-coast/), [crabbing](/crabbing-clamming/), [outdoor dining](/blog/looking-for-outdoor-dining-options-coos-bay-north-bend-charleston-have-several-from-which-to-choose/), [mountain biking](/blog/adventure-spotlight-whiskey-run-mountain-bike-trails-on-oregon-s-south-coast/), [self-guided walking tours](/blog/trip-idea-a-walking-tour-of-historic-coos-bay-north-bend/), [camping](/blog/relax-recharge-with-a-safe-camping-getaway-on-oregon-s-adventure-coast/) and more.
