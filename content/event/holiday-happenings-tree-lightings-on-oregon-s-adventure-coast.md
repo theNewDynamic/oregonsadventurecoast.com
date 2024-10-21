@@ -47,7 +47,7 @@ Get into the holiday spirit and work on your gift-giving lists at the Annual Dow
 
 ![Crab Pot Christmas Tree in Charleston Oregon](/img/crab-pot-sub-section-hdr.jpg)
 
-#### December 2024<br>Charleston Crab Pot Tree
+#### Late November and December 2024<br>Charleston Crab Pot Tree
 
 The Charleston Fishing Families celebrate the season every year with a colorful, lighted Crab Pot Tree in the parking lot of Fisherman's Grotto restaurant! Lights from the tree can be seen from Cape Arago Highway and across to the Charleston Marina! *Photo courtesy of Chris at Off the Edge Photography.*
 
@@ -182,6 +182,14 @@ Join our friends from Empire for a special FREE showing of ***Home Alone*** at T
 #### Dates TBD<br>Winter Faire at Coos History Museum
 
 Join local artisans, food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Faire is Free!
+
+{{< spacer "50" >}}
+
+![](/img/miracle34thstreet.jpg)
+
+#### December 14, 2024<br>50th Annual Wurlitzer Organ Sounds of Christmas Concert with *Miracle on 34th Street*
+
+The Egyptian Theatre will hold its 50th Annual Wurlitzer Organ Sounds of Christmas Concert followed by a special showing of Miracle on 34th Street on Saturday, December 14th. Organ Concert begins at Noon with the movie following at 3:00pm.
 
 {{< spacer "50" >}}
 
