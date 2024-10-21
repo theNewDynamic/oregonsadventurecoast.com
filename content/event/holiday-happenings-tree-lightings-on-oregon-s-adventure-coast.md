@@ -169,7 +169,7 @@ Downtown North Bend transforms into a **Winter Wonderland.** Dive deep into the 
 
 {{< spacer 50 >}}
 
-![Home Alone Image](/img/homealoneempire.jpg "Home Alone at The Dolphin Playhouse")
+![Home Alone at the Dolphin Playhouse](/img/homealoneempire.jpg)
 
 #### December 7, 2024<br>Home Alone at The Dolphin Playhouse
 
@@ -185,7 +185,7 @@ Join local artisans, food vendors, and more for your annual Holiday Shopping at 
 
 {{< spacer "50" >}}
 
-![](/img/miracle34thstreet.jpg)
+![](/img/miracle-on-34th-street-header-695x200.jpg)
 
 #### December 14, 2024<br>50th Annual Wurlitzer Organ Sounds of Christmas Concert with *Miracle on 34th Street*
 
