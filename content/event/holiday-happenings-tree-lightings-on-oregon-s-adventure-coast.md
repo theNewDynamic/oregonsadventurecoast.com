@@ -81,6 +81,14 @@ Join Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! Th
 
 {{< spacer 50 >}}
 
+![winter faire at Coos history museum](/img/ceramic-bells-sub-section-hdr.jpg)
+
+#### November 29-30, 2024<br>Winter Faire at Coos History Museum
+
+Join local artisans, food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Faire is Free!
+
+{{< spacer "50" >}}
+
 ![See the movie ELF! at the Egyptian Theater in Coos Bay Oregon](/img/elf-movie-sub-section-hdr.jpg)
 
 #### November 30, 2024<br>ELF! at The Egyptian
@@ -118,8 +126,6 @@ Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown Coos 
 #### December 3-4, 2024<br>Festival of Trees Holiday Showcase and Benefit Auction
 
 Visit <a href="https://www.themillcasino.com/" target="_blank" rel="noopener">The Mill Casino * Hotel &amp; RV Park</a> to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp; All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
-
-&nbsp;
 
 {{< spacer "50" >}}
 
@@ -174,14 +180,6 @@ Downtown North Bend transforms into a **Winter Wonderland.** Dive deep into the 
 #### December 7, 2024<br>Home Alone at The Dolphin Playhouse
 
 Join our friends from Empire for a special FREE showing of ***Home Alone*** at The Dolphin Playhouse on Saturday, December 7th at 11:00am!
-
-{{< spacer "50" >}}
-
-![winter faire at Coos history museum](/img/ceramic-bells-sub-section-hdr.jpg)
-
-#### Dates TBD<br>Winter Faire at Coos History Museum
-
-Join local artisans, food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Faire is Free!
 
 {{< spacer "50" >}}
 
