@@ -138,7 +138,7 @@ divider
 
 {{< spacer "25" >}}
 
-[![](/img/holiday-happenings-button.jpg)](event/holiday-happenings-tree-lightings-on-oregon-s-adventure-coast/)
+[![](/img/holiday-happenings-button.jpg)](/event/holiday-happenings-tree-lightings-on-oregon-s-adventure-coast)
 
 {{< spacer "30" >}}
 
