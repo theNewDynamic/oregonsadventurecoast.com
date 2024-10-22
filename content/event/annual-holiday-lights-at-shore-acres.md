@@ -90,17 +90,19 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 **The Shuttle will run from approximately 4:15pm to 8:00pm FROM the Marina TO the Park and will return patrons to the Marina between 5:00pm and 9:00pm.** *NOTE: the last shuttle TO the park will depart at 8:00pm from the Marina. This is to give everyone a chance to see the lights before Shore Acres State Park closes at 9:00pm.*
 
-**Special Thanks to this year's Santa's Shuttle Supporters:** <a href="https://www.gibsrvsuperstore.com/" target="_blank" rel="noopener"><strong>Gib's RV Superstore</strong></a>**,** <a href="https://www.pacificpower.net/" target="_blank" rel="noopener"><strong>Pacific Power</strong></a>**,** <a href="https://harmonyhomecareonline.com/" target="_blank" rel="noopener"><strong>Harmony Homecare</strong></a>**,** <a href="https://coosbaynorthbendrotary.org/rotary-coos-foundation/" target="_blank" rel="noopener"><strong>Coos Bay-North Bend Rotary Club Foundation</strong></a>**,** <a href="https://addcox.com/" target="_blank" rel="noopener"><strong>Addcox Heating Coos Bay</strong></a>**,** <a href="https://sause.com/locations/coos-bay/" target="_blank" rel="noopener"><strong>Sause Bros</strong></a>**,** <a href="https://ziplyfiber.com/new-fiber-locations/oregon/coosbay" target="_blank" rel="noopener"><strong>Ziply Fiber</strong></a>**,** <a href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html" target="_blank" rel="noopener"><strong>Best Western Coos Bay</strong></a>**,** <a href="https://www.kniferiver.com/" target="_blank" rel="noopener"><strong>Knife River</strong></a>**, and** <a href="https://www.englundmarine.com/" target="_blank" rel="noopener"><strong>Englund Marine</strong></a>**.**
+### **A Special Thanks to Santa's Shuttle Sponsors:**
+
+{{< spacer "25" >}}
+
+![Santa Shuttle Sponsor Logos](/img/shuttle-sponsor-logos-sm.jpg)
+
+<a href="https://www.gibsrvsuperstore.com/" target="_blank" rel="noopener"><strong>Gib's RV Superstore</strong></a>**,** <a href="https://www.pacificpower.net/" target="_blank" rel="noopener"><strong>Pacific Power</strong></a>**,** <a href="https://harmonyhomecareonline.com/" target="_blank" rel="noopener"><strong>Harmony Homecare</strong></a>**,** <a href="https://coosbaynorthbendrotary.org/rotary-coos-foundation/" target="_blank" rel="noopener"><strong>Coos Bay-North Bend Rotary Club Foundation</strong></a>**,** <a href="https://addcox.com/" target="_blank" rel="noopener"><strong>Addcox Heating Coos Bay</strong></a>**,** <a href="https://sause.com/locations/coos-bay/" target="_blank" rel="noopener"><strong>Sause Bros</strong></a>**,** <a href="https://ziplyfiber.com/new-fiber-locations/oregon/coosbay" target="_blank" rel="noopener"><strong>Ziply Fiber</strong></a>**,** <a href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html" target="_blank" rel="noopener"><strong>Best Western Coos Bay</strong></a>**,** <a href="https://www.kniferiver.com/" target="_blank" rel="noopener"><strong>Knife River</strong></a>**, and** <a href="https://www.englundmarine.com/" target="_blank" rel="noopener"><strong>Englund Marine</strong></a>**.**
 
 **And Special Thanks to the Bus Drivers of** <a href="https://firststudentinc.com/" target="_blank" rel="noopener"><strong>First Student Buses</strong></a>**!**
 
 {{< spacer "25" >}}
 
-### A Special Thanks to Our Santa's Shuttle Sponsors:
-
-{{< spacer "25" >}}
-
-![Santa Shuttle Sponsor Logos](/img/shuttle-sponsor-logos-sm.jpg)
+&nbsp;
 
 {{< spacer "25" >}}
 
