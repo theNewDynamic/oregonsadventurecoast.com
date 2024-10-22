@@ -90,7 +90,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 **The Shuttle will run from approximately 4:15pm to 8:00pm FROM the Marina TO the Park and will return patrons to the Marina between 5:00pm and 9:00pm.** *NOTE: the last shuttle TO the park will depart at 8:00pm from the Marina. This is to give everyone a chance to see the lights before Shore Acres State Park closes at 9:00pm.*
 
-### **A Special Thanks to this Year's Santa's Shuttle Sponsors:**
+### **A Special Thanks to Santa's Shuttle Sponsors:**
 
 {{< spacer "25" >}}
 
