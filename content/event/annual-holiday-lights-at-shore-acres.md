@@ -94,11 +94,19 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 **And Special Thanks to the Bus Drivers of** <a href="https://firststudentinc.com/" target="_blank" rel="noopener"><strong>First Student Buses</strong></a>**!**
 
-{{< spacer "50" >}}
+{{< spacer "25" >}}
+
+### A Special Thanks to Our Santa's Shuttle Sponsors:
+
+![Santa Shuttle Sponsor Logos](/img/shuttle-sponsor-logos-sm.jpg)
+
+{{< spacer "25" >}}
 
 ### ![](/img/garden-house-holiday-lights-695x322.jpg)
 
 {{< spacer "50" >}}
+
+&nbsp;
 
 ### Tips to make your Shore Acres visit more enjoyable
 
@@ -123,14 +131,6 @@ divider
 **Wheelchairs** - the park has a few wheelchairs available to those who may need them. These are available on a first-come basis.
 
 **Arrive Early -** Book an early time slot for the lights and see the ocean waves, the park, and the lights' sparkling transition from daylight to dark!{{< /columns >}}
-
-{{< spacer 50 >}}
-
-### Our Generous Sponsors for Santa's Shuttle this Year:
-
-&nbsp;
-
-![Santa Shuttle Sponsor Logos](/img/shuttle-sponsor-logos-sm.jpg)
 
 {{< spacer "25" >}}
 
