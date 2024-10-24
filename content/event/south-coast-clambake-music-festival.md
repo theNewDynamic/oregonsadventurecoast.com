@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: 'South Coast Clambake Music Festival '
-startdate: '2024-03-07'
-enddate: '2024-03-10'
+startdate: '2025-03-13'
+enddate: '2025-03-16'
 address:
   city: North Bend
   state: Oregon
@@ -42,32 +42,24 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 
 {{< spacer 50 >}}
 
-### <a target="_blank" rel="noopener" class="learn-more-anywhere-btn" href="https://www.eventbrite.com/e/south-coast-clambake-music-festival-tickets-754414623447?aff=ebdsoporgprofile">TICKETS ON SALE NOW!</a>
-
-{{< spacer "25" >}}
-
-![](/img/clambake-dance-lessons.jpeg)
-
-{{< spacer 50 >}}
-
 ![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-music-v01-695x322.jpg)
 
-### Featuring the music of bands all across these United States!
+### Featuring the music of bands all across these United States! Here's last year's list. 2025 List Coming Soon!!
 
 #### 2024 Bands Include:
 
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3782">Alpha Rhythm Kings</a>
-* <a target="_blank" rel="noopener" href="https://benricehustle.com/home">Ben Rice &amp; The PDX Hustle</a>
+* <a href="https://clambakemusic.com/?page_id=3782" target="_blank" rel="noopener">Alpha Rhythm Kings</a>
+* <a href="https://benricehustle.com/home" target="_blank" rel="noopener">Ben Rice &amp; The PDX Hustle</a>
 * [Danielle Kelly Soul Project](https://clambakemusic.com/?page_id=4362)
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=2250">Dave Bennett Quartet</a>
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3442">Good Co.</a>
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3449">Gino &amp; The Lone Gunmen</a>
-* <a target="_blank" rel="noopener" href="https://www.facebook.com/JasonThomasBand/">Jason Thomas Band</a>
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4367">Ocean Blvd</a>
+* <a href="https://clambakemusic.com/?page_id=2250" target="_blank" rel="noopener">Dave Bennett Quartet</a>
+* <a href="https://clambakemusic.com/?page_id=3442" target="_blank" rel="noopener">Good Co.</a>
+* <a href="https://clambakemusic.com/?page_id=3449" target="_blank" rel="noopener">Gino &amp; The Lone Gunmen</a>
+* <a href="https://www.facebook.com/JasonThomasBand/" target="_blank" rel="noopener">Jason Thomas Band</a>
+* <a href="https://clambakemusic.com/?page_id=4367" target="_blank" rel="noopener">Ocean Blvd</a>
 * Pony Creek (Thursday only)
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4055">Shaymus Hanlin Quartet</a>
+* <a href="https://clambakemusic.com/?page_id=4055" target="_blank" rel="noopener">Shaymus Hanlin Quartet</a>
 * Swinging in the Rain
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4091">The Throttles</a>
+* <a href="https://clambakemusic.com/?page_id=4091" target="_blank" rel="noopener">The Throttles</a>
 
 **For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks**! Visit the [website](https://clambakemusic.com/) for details.
 
