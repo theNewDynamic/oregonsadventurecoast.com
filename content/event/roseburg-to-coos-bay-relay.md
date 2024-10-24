@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Roseburg To Coos Bay Relay
-startdate: '2024-04-20'
-enddate: '2024-04-20'
+startdate: '2025-04-26'
+enddate: '2025-04-26'
 address:
   city: Coos Bay
   state: OR
@@ -30,8 +30,6 @@ smallboxphoto: /img/prerun-340x214.jpg
 ---
 ![](/img/roseburg-coos-waterfall.jpg)
 
-### Check back next year for details. In the meantime, here is last year's information:
-
 ### Bring Your Friends and Take On The Roseburg to Coos Bay Relay!
 
 The beautiful course on quiet country roads along a river features waterfalls, big trees, and serious hills. **This is a 68-mile, 5 person running team or 24-mile, 4 person walking team.**
@@ -42,23 +40,21 @@ Race begins with a staggered start depending on predicted finishing time. The sl
 
 **Race Start**
 
-Runners start at KPIC-TV parking lot in Roseburg, walkers start in Laverne Park, Coquille.
+Runners start at Adapt parking lot in Roseburg, next to the old KPIC parking lot, walkers start in Laverne Park, Coquille.
 
 **Race End**
 
 The race will finish at the Coos Bay History Museum (1210 N. Front Street, Coos Bay). There will be free dinner and a 7-Devils beer (thanks 7-Devils!) for all participants.
 
-#### <a class="learn-more-anywhere-btn" target="_blank" rel="noopener" href="https://runsignup.com/Race/OR/Roseburg/TheRoseburgtoCoosBayRelay">REGISTER ONLINE NOW</a>
-
 {{< spacer 50 >}}
 
 #### **IMPORTANT INFORMATION FOR&nbsp; RACERS**
 
-1\. We will no longer be handing out paper maps. **Please download the race packet to your smart phone BEFORE** starting the race or print on your computer at home. There is no cell service for most of the route, so make sure you download maps before you start. 2024 Maps will be updated as soon.
+1\. Reminder this is an **unsupported race**.&nbsp;Pack all the essentials of food, water, first aid, and clothes for warm, cold, rain, and snow.&nbsp; **Please download the race packet to your smart phone BEFORE** starting the race or print on your computer at home. There is no cell service for most of the route, so make sure you download maps before you start. 2025 Maps will be updated as soon.
 
 2\. &nbsp;Start times are based on the estimated 10k and 1 mile times you provided.&nbsp; Start times ensure that all teams finish roughly around the same time. Please come to the start line at least ½ hour before your start time to pick up your timing sheets and other race materials. There will be a brief meeting 15 minutes before start time. The coveted Race Director’s award will go to the team that finishes closest to their projected finish time. **We will post team start times a week before the race.**
 
-3\. The race now ends at the Coos Bay History Museum.&nbsp; This means that the person running the last leg gets an extra mile we know you all (secretly) wanted.
+3\. The race ends at the Coos Bay History Museum.&nbsp; This means that the person running the last leg gets an extra mile we know you all (secretly) wanted.
 
 4\. There will be a free dinner and free 7-Devil’s beer or non-alcoholic pro-biotic lemonade for all participants.&nbsp; Family and friends can purchase a meal at the event.&nbsp; Additional 7-Devils beer will be available for purchase.
 
