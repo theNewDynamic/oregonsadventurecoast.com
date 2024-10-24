@@ -56,7 +56,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### **Elf of the Shelf**
 
-**11:00am-5:00pm @ North Bend Main Street** <br>Head downtown and be on the lookout for mischievous Elves taking over Main Street! Spot one, and you could win some fantastic prizes just in time for the Christmas season. With over 20 winners, the more places you visit, the better your chances of scoring a win! While you're there, be sure to do some Christmas shopping and enjoy the local eateries and pubs.
+**11:00am-5:00pm @ North Bend Main Street** <br>Head downtown and be on the lookout for mischievous Elves taking over Main Street! Spot one, and you could win some fantastic prizes just in time for the Christmas season. With over 20 winners, the more places you visit, the better your chances of scoring a win! While you're there, be sure to do some Christmas shopping and enjoy the local eateries and pubs. Elf on the Shelf runs from December 1-12, 2024.
 
 {{< spacer "25" >}}
 
