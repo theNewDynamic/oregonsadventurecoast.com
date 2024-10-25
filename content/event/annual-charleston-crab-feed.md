@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual Charleston Crab Feed
-startdate: '2025-02-8'
-enddate: '2025-02-8'
+startdate: '2025-02-08'
+enddate: '2025-02-08'
 address:
   city: Charleston
   state: OR
