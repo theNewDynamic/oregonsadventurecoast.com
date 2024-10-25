@@ -1,15 +1,14 @@
 ---
 _schema: default
 title: Annual Charleston Crab Feed
-startdate: '2024-02-10'
-enddate: '2024-02-10'
+startdate: 2025-02-8
+enddate: 2025-02-8
 address:
   city: Charleston
   state: OR
   street: Charleston's Marine Biology Institute
   street2: 63466 Boat Basin Road
   zip: '97420'
-phone_local: 541-982-9345
 desktoptitle: Annual Charleston Crab Feed
 mobiletitle: Charleston Crab Feed
 hovertitle: Annual Charleston Crab Feed
@@ -21,27 +20,21 @@ smallboxphoto: /img/crab-feed-charleston-small.jpg
 ---
 ![Annual Charleston Crab Feed Logo](/img/crab-feed-logo.jpg)
 
-Join your friends from **Oregon's Adventure Coast: Coos Bay, North Bend & Charleston** for a feast of delicious Dungeness Crab at the **39th Annual Charleston Crab Feed**!
+Join your friends from **Oregon's Adventure Coast: Coos Bay, North Bend & Charleston** for a feast of delicious Dungeness Crab at the **40th Annual Charleston Crab Feed**!
 
-**NOW BACK IN CHARLESTON!! At the Oregon Institute of Marine Biology (OIMB) on Boat Basin Road.**
+**At the Oregon Institute of Marine Biology (OIMB) on Boat Basin Road from 11am to 3pm,** 63466 Boat Basin Road, Charleston, OR 97420 - across from the Charleston Marine Life Center in the Marina Complex.
 
-**This event will be from 11am to 3pm** at the Oregon Institute of Marine Biology, 63466 Boat Basin Road, Charleston, OR 97420 - across from the Charleston Marine Life Center in the Marina Complex.
-
-More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or half crabs at market price - include side dishes and a roll. Add a dessert for the perfect Oregon Coast meal. Area businesses provide items for raffle drawings. For those who want to attend but don't want to eat crab, a gourmet hot dog lunch with sides will also be available.
+More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or half crabs at market price - include side dishes and a roll. Add a dessert for the perfect Oregon Coast meal, provided for donation by the <a href="https://www.facebook.com/profile.php?id=61565684226356" target="_blank" rel="noopener">Charleston Fishing Families</a>. Area businesses provide items for raffle drawings. For those who want to attend but don't want to eat crab, a gourmet hot dog lunch with sides will also be available.
 
 {{< spacer 25 >}}
 
-### <a target="_blank" rel="noopener" class="learn-more-anywhere-btn" href="https://www.eventbrite.com/e/39th-annual-charleston-crab-feed-tickets-738239272537?aff=oddtdtcreator">TICKETS ON SALE NOW!</a>
-
-***Tickets will be available at the door as well!***
+***Tickets on sale Soon! Tickets will be available at the door as well!***
 
 {{< spacer 25 >}}
 
 Fresh Crab Meals, Whole or Half Crab; or choose the Hot Dog option for those who don't like crab!!!&nbsp;
 
-**Prices are based on Market Value -**&nbsp;*Whole Crab Meal $35, Half Crab Meal $22, HotDog Meal $14*
-
-Desserts & Cash Bar - additional cost at venue. Sales of these items benefit a local charity.
+**Prices are based on Market Value -**&nbsp;*Information coming soon.*
 
 ![](/img/crab-feed-collage.jpg)
 
