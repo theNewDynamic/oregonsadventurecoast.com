@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: City of Coos Bay 150th
-draft: false
+draft: true
 url: /coos-bay-150
 layout: contact
 photo: /img/coos-bay-celebration-150th-2048x530.jpg
