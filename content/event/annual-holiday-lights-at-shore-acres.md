@@ -80,9 +80,9 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 {{< spacer "30" >}}
 
-![School bus in front of Holiday Lights at Shore Acres](/img/bus-shore-acres-2023-540x243.jpg "Santa's Shuttle, a FREE ride to Holiday Lights!")
+![Holiday Lights Shuttle Bus Details header](/img/santas-shuttle-bus-header.jpg)
 
-#### Santa's Shuttle Rides Again in 2024!
+### Santa's Shuttle Rides Again in 2024!
 
 [**DOWNLOAD OUR FAQ**](/HOLIDAY-LIGHTS-SHUTTLE-FAQ.pdf)
 
