@@ -99,7 +99,7 @@ A second showing of ***Elf*** is planned for 2:00pm on Saturday, September 30th.
 
 ![Small Business Saturday Shopping on Oregon's Adventure Coast](/img/small-business-shopping-sub-section-hdr.jpg)
 
-#### November 30, 2024<br>Shop Small Saturday and Downtown Coos Bay
+#### November 30, 2024<br>Shop Small Saturday in Downtown Coos Bay and North Bend
 
 **Shop Small Saturday encourages us to shop at small, local shops this holiday season!**&nbsp;The Coos Bay Downtown Association and North Bend Main Street invite you to spend Saturday, after Thanksgiving in both downtown districts for Shop Small Saturday. Shop Small Saturday encourages shoppers to support their neighborhood businesses and to embrace the day as a holiday shopping tradition. In Coos Bay, shop participating downtown businesses and sign up for door prizes.
 
