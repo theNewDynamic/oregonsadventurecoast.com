@@ -32,7 +32,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### Waffles with Santa
 
-**9:00am-11:00am @ North Bend Fire Department** <br>Enjoy a delicious breakfast with the jolly man himself! Load up on toppings with the Miss Flame Court and visit with Volunteer Firefighters.&nbsp;&nbsp;Don't forget to share your holiday wishes with Santa and receive a complementary book from North Bend Library.&nbsp;&nbsp;
+**9:00am-11:00am @ North Bend Fire Department** <br>Enjoy a delicious breakfast with the jolly man himself! Load up on toppings with the Miss Flame Court and visit with Volunteer Firefighters.&nbsp;&nbsp;Don't forget to share your holiday wishes with Santa and receive a complementary book from North Bend Library.&nbsp;&nbsp;**Pre-registration Required.** <a href="https://www.eventbrite.com/e/waffles-with-santa-tickets-1072858301059?fbclid=IwY2xjawGYjT1leHRuA2FlbQIxMAABHboLyhB8fb5pWN-cTAPVfWFvyrU-RcJ3reOSBT44_vLeoUuNLXo0ljS9hg_aem_E48YDZavSkzwac0h4BGdDQ" target="_blank" rel="noopener"><strong>Click here to register</strong></a>**.**
 
 {{< spacer "25" >}}
 
