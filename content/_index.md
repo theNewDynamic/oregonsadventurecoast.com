@@ -9,7 +9,7 @@ slideshow:
     url: /event/annual-holiday-lights-at-shore-acres
     video:
       cover: /img/holiday-lights-hm-slide-cover-2022.jpg
-      source: /img/holiday_lights_2019_854.mp4
+      source: /img/lights-slider.mov
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /fall15
