@@ -3,23 +3,13 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
-    photo: /img/fall-15-hm-page-slider-2048x850.jpg
+    photo:
     title_mobile:
-    photo_mobile: /img/fall-15-off-lodging-special-mobile.jpg
+    photo_mobile: /img/holiday-lights-mobile-slider-2022.jpg
     url: /fall15
     video:
-  - title:
-    photo: /img/cultural-experience-hm-slider-2048-850.jpg
-    title_mobile:
-    photo_mobile:
-    url: /art-history-culture
-    video:
-  - title:
-    photo: /img/fall-fishing-hm-slider-desktop.jpg
-    title_mobile:
-    photo_mobile:
-    url: /fishing
-    video:
+      cover: /img/holiday-lights-hm-slide-cover-2022.jpg
+      source: /img/holiday_lights_2019_854.mp4
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /fall15
