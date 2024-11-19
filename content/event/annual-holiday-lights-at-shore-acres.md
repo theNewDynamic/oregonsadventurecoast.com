@@ -28,7 +28,7 @@ aliases:
 
 Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition **every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve** – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. **Admission is always free! However, parking at Shore Acres any time of the year is $5.**
 
-### <a class="learn-more-anywhere-btn" target="_blank" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381">BOOK PARKING PASS NOW</a>
+### <a class="learn-more-anywhere-btn" target="_blank" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">BOOK PARKING PASS NOW</a>
 
 {{< spacer "30" >}}
 
@@ -44,7 +44,7 @@ Since its inception in 1987, the annual Holiday Lights celebration has seen a re
 
 {{< spacer 30 >}}
 
-Take a break in the garden house to cozy up and savor some cookies along with a steaming cup of apple cider or coffee. Delve into the opulently adorned house and catch a glimpse of Santa "soaking" in the bathtub.
+**Take a break in the garden house to cozy up and savor some cookies along with a steaming cup of apple cider or coffee.** Delve into the opulently adorned house and catch a glimpse of Santa "soaking" in the bathtub.
 
 **Check out all the Holiday Happenings while you're here!**
 
@@ -54,7 +54,7 @@ Take a break in the garden house to cozy up and savor some cookies along with a 
 
 {{< spacer 50 >}}
 
-#### [![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle-1.png)](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381)
+#### [![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle-1.png)](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381)
 
 #### {{< spacer "50" >}}
 
@@ -68,7 +68,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 **Click the "Book Parking Pass Now" button below to secure your time-specific parking reservation. Don't forget to print your pass or catch a screen shot of your pass. You will need the printed or screen shot pass to enter the park. Have questions? Call (541) 888-3778, the local State Parks office.**
 
-### <a class="learn-more-anywhere-btn" target="_blank" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381">BOOK PARKING PASS NOW</a>
+### <a class="learn-more-anywhere-btn" target="_blank" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">BOOK PARKING PASS NOW</a>
 
 {{< spacer 25 >}}
 
@@ -90,7 +90,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 **The Shuttle will run from approximately 4:15pm to 8:00pm FROM the Marina TO the Park and will return patrons to the Marina between 5:00pm and 9:00pm.** *NOTE: the last shuttle TO the park will depart at 8:00pm from the Marina. This is to give everyone a chance to see the lights before Shore Acres State Park closes at 9:00pm.*
 
-**SPECIAL HOT COCOA, COFFEE, CIDER AND COOKIES WHILE YOU WAIT FOR THE SHUTTLE!** Each night of the run of the Shuttle, the <a href="https://www.facebook.com/profile.php?id=61565684226356" target="_blank" rel="noopener">Charleston Fishing Families</a> organization will open their doors to provide a warm place to wait for the bus and have a FREE hot drink. Kiddos can do a quick craft while they wait too! Their facility is adjacent to the parking lot at Guano Rock Lane and Crosline Road.
+**SPECIAL HOT COCOA, COFFEE, CIDER AND COOKIES WHILE YOU WAIT FOR THE SHUTTLE AT THE MARINA!** Each night of the run of the Shuttle, the <a href="https://www.facebook.com/profile.php?id=61565684226356" target="_blank" rel="noopener">Charleston Fishing Families</a> organization will open their doors to provide a warm place to wait for the bus at the marina and have a FREE hot drink. Kiddos can do a quick craft while they wait too! Their facility is adjacent to the parking lot at Guano Rock Lane and Crosline Road.
 
 ### **A Special Thanks to Santa's Shuttle Sponsors:**
 
