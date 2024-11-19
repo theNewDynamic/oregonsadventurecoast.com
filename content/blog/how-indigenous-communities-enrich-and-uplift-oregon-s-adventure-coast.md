@@ -41,6 +41,8 @@ warning: false
 ---
 Oregon’s Adventure Coast is deeply enriched by its Indigenous heritage, which has shaped the region for thousands of years. Long before European settlers arrived, Native communities thrived along the southern Oregon Coast, fishing, hunting, and gathering in harmony with the land. November is National Native American Heritage Month, an ideal time to honor the culture, ingenuity, and resilience of these tribes, including the [Coquille Indian Tribe](https://www.oregonsadventurecoast.com/tribal-heritage-coquilles/) and the [Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians](https://www.oregonsadventurecoast.com/tribal-heritage-confederated/). It’s also a chance to learn more about their lasting impact and significant contributions made socially, economically and culturally on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, and Southwest Oregon.
 
+![](/img/salmon-24-sm-4365.jpg)
+
 ## Coquille Indian Tribe
 
 The Coquille Indian Tribe's ancestors thrived in Southwestern Oregon, occupying over one million acres. The 1989 Coquille Restoration Act reestablished the Tribe’s sovereignty, and by 1996, they resumed stewardship of 5,410 acres of ancestral land. Today, nearly 1,200 members manage approximately 10,000 acres of sustainable forest.
