@@ -153,7 +153,7 @@ Tickets on-sale now at the box office and online at&nbsp;<a href="https://thelib
 
 ![](/img/empire-treelighting-sub-section-hdr.jpg)
 
-#### December 6, 2023<br>Empire District Tree Lighting and Santa Visit
+#### December 6, 2024<br>Empire District Tree Lighting and Santa Visit
 
 The Empire District of Coos Bay will hold their annual Tree Lighting, Visits with Santa, Star of Hope Holiday Open House from 5pm to 7pm. Take photos with Santa and enjoy cookies, cider, caroling and more!
 
