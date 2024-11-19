@@ -57,6 +57,8 @@ Grants emphasize key areas: education, public safety, arts and culture, environm
 
 **Ko-Kwel Wellness Center**<br>The Coquille Indian Tribe also invests its resources in the Ko-Kwel Wellness Center, which serves Coquille Tribal families, members of other American Indian and Alaska Native tribes, Coquille Tribal employees, and the general public as capacity allows. With locations in Coos Bay and Eugene, the center provides a holistic approach to healing in a welcoming, inclusive environment. The Coquille Indian Tribe Pharmacy is located within the Ko-Kwel Wellness Center in Coos Bay, which also offers mental health services and a full-service dental clinic. Visit [kokwelwellness.org](https://kokwelwellness.org/) to learn more.
 
+![](/img/salmon-24-sm-4479-2-1.jpg)
+
 ## Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians
 
 The Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians (CTCLUSI) are dedicated to promoting health and wellness among their Tribal families and the wider community. The names of the three major rivers in their region—Coos, Umpqua, and Siuslaw—are a testament to the rich heritage of the Tribes, as are many local lakes. Their original territory consisted of nearly 2 million acres of shorelines, rivers, lakes, estuaries and mixed forests. In 1954, the Tribes were stripped of their federal recognition, but after three decades of relentless efforts, they successfully regained their sovereign status on October 17, 1984. This historic day is honored annually with a remembrance hike and a community meal, celebrating the Tribes' resilience and enduring cultural legacy.
