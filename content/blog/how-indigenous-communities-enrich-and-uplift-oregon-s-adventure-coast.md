@@ -41,6 +41,8 @@ warning: false
 ---
 Oregon’s Adventure Coast is deeply enriched by its Indigenous heritage, which has shaped the region for thousands of years. Long before European settlers arrived, Native communities thrived along the southern Oregon Coast, fishing, hunting, and gathering in harmony with the land. November is National Native American Heritage Month, an ideal time to honor the culture, ingenuity, and resilience of these tribes, including the [Coquille Indian Tribe](https://www.oregonsadventurecoast.com/tribal-heritage-coquilles/) and the [Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians](https://www.oregonsadventurecoast.com/tribal-heritage-confederated/). It’s also a chance to learn more about their lasting impact and significant contributions made socially, economically and culturally on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, and Southwest Oregon.
 
+![](/img/salmon-24-sm-4365.jpg)
+
 ## Coquille Indian Tribe
 
 The Coquille Indian Tribe's ancestors thrived in Southwestern Oregon, occupying over one million acres. The 1989 Coquille Restoration Act reestablished the Tribe’s sovereignty, and by 1996, they resumed stewardship of 5,410 acres of ancestral land. Today, nearly 1,200 members manage approximately 10,000 acres of sustainable forest.
@@ -55,9 +57,13 @@ Grants emphasize key areas: education, public safety, arts and culture, environm
 
 **Ko-Kwel Wellness Center**<br>The Coquille Indian Tribe also invests its resources in the Ko-Kwel Wellness Center, which serves Coquille Tribal families, members of other American Indian and Alaska Native tribes, Coquille Tribal employees, and the general public as capacity allows. With locations in Coos Bay and Eugene, the center provides a holistic approach to healing in a welcoming, inclusive environment. The Coquille Indian Tribe Pharmacy is located within the Ko-Kwel Wellness Center in Coos Bay, which also offers mental health services and a full-service dental clinic. Visit [kokwelwellness.org](https://kokwelwellness.org/) to learn more.
 
+![](/img/salmon-24-sm-4479-2-1.jpg)
+
 ## Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians
 
 The Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians (CTCLUSI) are dedicated to promoting health and wellness among their Tribal families and the wider community. The names of the three major rivers in their region—Coos, Umpqua, and Siuslaw—are a testament to the rich heritage of the Tribes, as are many local lakes. Their original territory consisted of nearly 2 million acres of shorelines, rivers, lakes, estuaries and mixed forests. In 1954, the Tribes were stripped of their federal recognition, but after three decades of relentless efforts, they successfully regained their sovereign status on October 17, 1984. This historic day is honored annually with a remembrance hike and a community meal, celebrating the Tribes' resilience and enduring cultural legacy.
+
+![](/img/ctclusi-canoe.jpg)
 
 **The Three Rivers Foundation**<br>The Three Rivers Foundation, established in 2011 as the charitable giving arm of the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians and Three Rivers Casino and Hotel, is dedicated to enhancing the well-being of Southwest Oregon’s land and people. Reflecting the Tribe's culture and values, the foundation invests in community-driven initiatives across healthcare, education, public safety, environmental preservation, and more. This year, the foundation awarded more than $720,000 to 95 nonprofit organizations across Oregon, including first-time grant recipients like the North Bend Police Department, which will use funds for essential emergency response equipment. With a commitment to supporting impactful and innovative projects, the Three Rivers Foundation continues to invite applications annually, funding efforts that uplift the community and preserve the interconnectedness of land and people. Learn more at [ThreeRiversFoundation.org](https://www.threeriversfoundation.org/about).
 
