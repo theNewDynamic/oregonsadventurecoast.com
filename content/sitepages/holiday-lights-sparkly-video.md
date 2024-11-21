@@ -1,19 +1,17 @@
 ---
 _schema: default
-title: Holiday Lights Sparkly Video
+title: Fishing Video Landing Page
 draft: false
 url: /fishing-video-landing-page
 layout: nosidebar
-photo: /img/holiday-lights-house-sub-pg-header-03.jpg
+photo: /img/fishing-pg-header-north-spit-2048x630.jpg
 ---
-{{< youtube id="jHnNm_Gy7CA?si=dEOlpa70ADCVRguV" title="Oregon's Adventure Coast - Holiday Lights" >}}
+{{< youtube id="aZcOWSDfTQY?si=8sh4QBeRtCG8edRi" title="Oregon's Adventure Coast - Fishing Adventure" >}}
 
 {{< spacer "30" >}}
 
-## Dazzling Holiday Lights at Shore Acres State Park!
+## OCEAN AND FRESHWATER FISHING IN COOS BAY, NORTH BEND, AND CHARLESTON!
 
-Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition **every night from 4:30pm to 9:00pm, Thanksgiving through New Year’s Eve** – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. **Admission is always free! However, parking at Shore Acres any time of the year is $5.**
-
-### <a class="learn-more-anywhere-btn" target="" href="/holiday-lights">Learn More</a>
+There are more than [30 freshwater lakes and rivers](/tripideas/fresh-water-fishing-options-by-body-of-water) to choose from in Coos County, as well as fantastic [bay and ocean fishing](/tripideas/saltwater-fishing-ocean-bay) . And just as there are a wide variety of fish and fishing spots, so too are there lots of different ways to fish for them. Looking to paddle your kayak around a quiet fish-filled lake? We’ve got that. Want to cast a line for surfperch right off one of our beautiful beaches? No problem. Throw in a [crab pot](/crabbing-clamming/) or [dig for clams](/clamming/) ? You got it. Thinking [charter boat fishing](/tour-guides-and-charters/) for tuna, rockfish, halibut or salmon? You’ll find that on Oregon’s Adventure Coast too.
 
 {{< spacer "60" >}}
