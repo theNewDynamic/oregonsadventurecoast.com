@@ -12,9 +12,9 @@ photo: /img/travelers-information-header.jpg
 
 ## The Best Oregon Coast Storm Watching is at Shore Acres!
 
-Near Coos Bay, North Bend, and Charleston, watch turbulent seas smash into 80-foot cliffs creating up to 300-foot wave crashes, all from the safety of the park's Storm Watching Hut. Fall and winter is the best time to watch dramatic wave crashes resulting from winter storms on the Pacific during the months of November through March.
+Near Coos Bay, North Bend, and Charleston, experience the dramatic power of the Pacific as turbulent seas collide with 80-foot cliffs, sending waves crashing up to 300 feet high—all from the safety of the park's Storm Watching Hut. The best time to witness these awe-inspiring displays is during the fall and winter months, from November through March, when Pacific storms are at their peak.
 
-As Oregon Coast experts, we can assure you that it doesn’t matter how many times you have witnessed Mother Nature’s fury over the mighty Pacific, storm watchers have a different experience each and every time. Follow our Facebook page for conditions suitable for great storm watching.
+As Oregon Coast experts, we can assure you that no matter how many times you've seen Mother Nature's raw power, every storm offers a unique and unforgettable experience. Follow our [Facebook page](https://www.facebook.com/OregonsAdventureCoast) to stay updated on the best conditions for storm watching!
 
 ### <a class="learn-more-anywhere-btn" target="" href="/storm-watching">Learn More</a>
 
