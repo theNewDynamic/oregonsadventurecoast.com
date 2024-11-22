@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Storm Watching Wave Crash Video
-draft: true
+draft: false
 url: /storm-watching-video-landing-page
 layout: nosidebar
 photo: /img/travelers-information-header.jpg
