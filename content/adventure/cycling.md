@@ -97,6 +97,20 @@ Grab your big, balloon tires and bring your bike down to the beaches and the dun
 
 Wherever you go fat tire biking on Oregon's Adventure Coast, [check the tides](https://www.usharbors.com/harbor/oregon/coos-bay-or/tides/) and try to go during low tide as much as possible. Beware of [sneaker waves](https://www.oregon.gov/oprd/PARKS/Pages/beach_safety.aspx) and stay off rocks and small, enclosed beaches. Respect the sensitive micro-environments, whether it’s birds or anemones you encounter.
 
+{{< spacer "50" >}}
+
+![Cyclist on gravel path in forest](/img/milli-mania-2-695x322.jpg)
+
+## Gravel Cycling
+
+Gravel cycling is becoming a top attraction all over the country and right here in the Coos Bay Area. According to <a href="https://www.adventurecycling.org/" target="_blank" rel="noopener">www.adventurecycling.org</a>, when you think of gravel riding, you may think of being in a remote place surrounded by trees or mountains. However, gravel riding simply means riding on any manner of unpaved surfaces; even if it’s a completely flat, well-traveled dirt road. The joy of riding on unpaved surfaces is that they’re usually car-free or in low traffic and naturally scenic areas.
+
+In Coos Bay, <a href="https://dirtyfreehub.org/routes/oregon/milli-mania/" target="_blank" rel="noopener">Dirty Free Hub</a> has documented a fantastic Gravel Cycling Route through the Elliott State Forest to Golden & Silver Falls State Natural Area and the surrounding area. With an elevation gain of more than 3800 feet and a loop of 34 miles, this is a challenging ride, but the scenery cannot be beat.
+
+&nbsp;
+
+{{< spacer "50" >}}
+
 ![A family of four enjoy pedaling on the Coos Historic Railline.](/img/railriders-695x322.jpeg "Enjoy a scenic pedal on the Coos Historic Railline.")
 
 ## Pedal the Rails! (Seasonal Activity)
