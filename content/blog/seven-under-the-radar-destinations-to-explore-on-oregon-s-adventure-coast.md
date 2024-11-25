@@ -41,13 +41,17 @@ warning: false
 
 **\#4** [Hiking the Millicoma Marsh Trail](https://coostrails.com/millacoma-marsh/) **\-** Just a short drive from downtown Coos Bay, the Millicoma Marsh Trail features a 1.5-mile loop through wetland habitats, perfect for nature walks and birdwatching. Loved for its scenic views and excellent wildlife spotting—like Red-shouldered Hawks and Northern Shrikes—this quiet trail has well-maintained, flat paths and interpretive panels highlighting the area’s ecosystem and history, making it a hidden gem on Oregon’s Adventure Coast.
 
+![](/img/millicoma-marsh.jpg)
+
 **\#5 Coffee & Baked Treats at** [Ladybread Bakery in Coos Bay](https://theladybreadbakery.com/)  - Ladybread Bakery is a beloved artisan bakery in the Coos Bay area, known for its handcrafted breads available at specialty markets and farmers' markets. Now, with a brand-new brick-and-mortar location, visitors can savor freshly baked goods like their signature Tuscan bread, a variety of scones, and cinnamon rolls, all while experiencing the craftsmanship firsthand.
 
 **\#6** [The Oregon Merci Train Car](http://mercitrain.org/Oregon/)\- Restored and celebrated for its 75th anniversary in 2024, the Oregon Merci Train Car in North Bend is a unique piece of American history, symbolizing France's gratitude to the United States after World War II. One of 49 boxcars sent in 1949, this "forty and eight" model, used in both World Wars, is a tangible link to international friendship.
 
+![patio and fireplace at North Forty](/img/northfortybackpatio.jpg "A relaxing patio awaits at North Forty in North Bend.")
+
 **\#7 The Back Patio at** [North Forty Brewing in North Bend](https://www.northfortybeer.com/) - North Forty Brewing in North Bend is quickly becoming a favorite for its craft beer and delicious local menu, featuring highlights like the steak and frites sandwich. The real standout, however, is the stunning back patio with a cozy fireplace, offering the perfect setting to unwind and enjoy a drink after a day of exploring Oregon’s Adventure Coast.
 
-![](/img/northfortybackpatio.jpg)
+&nbsp;
 
 [Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston](https://www.oregonsadventurecoast.com/our-area/) is brimming with local gems that offer unique and memorable experiences. From peaceful nature trails and historic landmarks to incredible food and off-road adventures, these lesser-known spots invite you to explore beyond the usual tourist routes. No matter what adventure you choose, there’s something special here waiting here for you to discover. Be sure to visit our featured [adventures page](https://www.oregonsadventurecoast.com/adventures) and our [trip ideas page](https://www.oregonsadventurecoast.com/tripideas) to find more travel ideas and inspiration. You can also follow [Oregon’s Adventure Coast Facebook](https://www.facebook.com/OregonsAdventureCoast/) , [@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/) ,and [TikTok](https://www.tiktok.com/@oregonsadventurecoast?lang=en) to find inspiration on the best spots to visit, eat, stay and explore any time of the year.
 
