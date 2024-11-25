@@ -43,8 +43,6 @@ Zipping up and down the stunning Pacific Ocean beach dunes is a hair-raising goo
 
 **Steve’s ATV Rental**<br>68512 US-101<br>North Bend, OR 97459<br>844-278-3837<br>[www.stevesatvrentals.com](https://stevesatvrentals.com/oregon-dunes)
 
-**Sunbuggy Fun Rentals**<br>68860 Hauser Road<br>North Bend, OR 97459<br>866-728-4443<br>[www.sunbuggy.com/](https://www.sunbuggy.com/ "https://www.sunbuggy.com/")
-
 {{< spacer 25 >}}
 
 ### Explore Our Trip Ideas!
