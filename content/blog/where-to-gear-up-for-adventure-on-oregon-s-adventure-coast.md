@@ -85,7 +85,9 @@ Don't own your own kayak, paddleboard, or surfboard? No problem. You can rent on
 
 ## Adventure \#3- Fishing on Oregon's Adventure Coast
 
-![Oregon Coast Fishing Gear Rental and Guides](/img/oregon-s-adventure-coast-fishing-charters.jpg)Fishing is undoubtedly a favorite among the many outdoor recreational activities here on Oregon's Adventure Coast! Coos Bay, North Bend, and Charleston have abundant fishing options. After all, there are more than[<u>30 freshwater lakes and rivers</u>](https://www.oregonsadventurecoast.com/tripideas/fresh-water-fishing-options-by-body-of-water) to choose from in Coos County alone, as well as fantastic[<u>bay and ocean fishing</u>](https://www.oregonsadventurecoast.com/tripideas/saltwater-fishing-ocean-bay)! The winter months are a great time for[<u>winter steelhead fishing, rockfish</u>](https://www.oregonsadventurecoast.com/blog/winter-steelhead-fishing-forecast-for-2019/)/bottom fish, and surfperch. [<u>Download our Fishing Information Rack Card here (PDF).</u>](https://www.oregonsadventurecoast.com/img/fishing-rackcard.pdf)
+![Oregon Coast Fishing Gear Rental and Guides](/img/oregon-s-adventure-coast-fishing-charters.jpg)
+
+Fishing is undoubtedly a favorite among the many outdoor recreational activities here on Oregon's Adventure Coast! Coos Bay, North Bend, and Charleston have abundant fishing options. After all, there are more than[<u>30 freshwater lakes and rivers</u>](https://www.oregonsadventurecoast.com/tripideas/fresh-water-fishing-options-by-body-of-water) to choose from in Coos County alone, as well as fantastic[<u>bay and ocean fishing</u>](https://www.oregonsadventurecoast.com/tripideas/saltwater-fishing-ocean-bay)! The winter months are a great time for[<u>winter steelhead fishing, rockfish</u>](https://www.oregonsadventurecoast.com/blog/winter-steelhead-fishing-forecast-for-2019/)/bottom fish, and surfperch. [<u>Download our Fishing Information Rack Card here (PDF).</u>](https://www.oregonsadventurecoast.com/img/fishing-rackcard.pdf)
 
 Are you planning your fishing trip? We've compiled a[<u>list of resources</u>](https://www.oregonsadventurecoast.com/fishing/) to get you started. Remember, unless it's a designated Free Fishing Day, a license is required for fishing, crabbing, or clamming on the Oregon Coast. Visitors can rent or purchase equipment and obtain permits at local sporting goods stores and retailers. Whether you're a seasoned angler or a first-timer, these businesses have everything you need.
 
@@ -131,7 +133,9 @@ Numerous experienced fishing guides are available on **Oregon's Adventure Coast:
 
 Oregon's Adventure Coast may be renowned for its exceptional freshwater and saltwater fishing, but don't snooze on taking a[<u>crabbing</u>](https://www.oregonsadventurecoast.com/crabbing-clamming/) and/or[<u>clamming</u>](https://www.oregonsadventurecoast.com/clamming/) adventure! Crabbing and Clamming are adventures the whole family can enjoy with relative ease, as the necessary equipment for both crabbing and clamming is available for rent from our local bait and tackle shops. Make sure you have your shellfish license (14 and older requires a shellfish license), crab measuring tool, pots or rings, cooler, gloves, bait holders, and bait supply.[<u>Click here</u>](https://myodfw.com/articles/how-crab) for helpful crabbing tips from the Oregon Department of Fish and Wildlife.
 
-### ![Oregon Coast Clamming](/img/oregon-s-adventure-coast-clamming.jpg)**Where to Rent or Buy Crabbing & Clamming Supplies**
+### ![Oregon Coast Clamming](/img/oregon-s-adventure-coast-clamming.jpg)
+
+### **Where to Rent or Buy Crabbing & Clamming Supplies**
 
 * [Davey Jones Locker](https://www.yelp.com/biz/davey-jones-locker-coos-bay) Cape Arago Highway & Boat Basin Road ● Charleston ● 541-888-3941 ● Rent crab rings and purchase other supplies, including bait, groceries, and snacks.
 * [Monkey Business Marina Market](https://www.facebook.com/MonkeyBusinessFoodToGo) 63516 Kingfisher Rd. ● Charleston ● (541) 778-3650 ● Located in the Charleton Marina, adjacent to Monkey Business Restaurant. Bait, tackle, gear (buy & rental), ice, soft drinks, water, and more are available in the Charleston Marina. Look for the bright yellow building!
