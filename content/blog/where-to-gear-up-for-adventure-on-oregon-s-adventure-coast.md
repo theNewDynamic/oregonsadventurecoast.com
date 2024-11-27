@@ -72,16 +72,8 @@ Don't own your own kayak, paddleboard, or surfboard? No problem. You can rent on
 ### **Where to Book a Water Excursions**
 
 * [Coastal Kayak and SUP Rentals](https://coastalkayakandsuprentalsllc.com/) 319 North Wall Street ● Coos Bay ● 541-252-9201. Coastal rents recreational single, tandem, fishing kayaks, SUPs, life jackets, and paddles. They will deliver and pick up equipment for an extra fee. They also offer tours for groups.
-
-  &nbsp;
-
 * [South Coast Tours](https://southcoasttours.net/coos-bay/)Coos Bay ● 541-373-0487 ● South Coast Tours offers paddle adventures in Coos Bay, including a Wildlife Viewing Kayak Tour in the South Slough National Estuarine Research Reserve, a protected area of land and estuary. Fully equipped tours accommodate 2-11 people.
-
-  &nbsp;
-
 * [Wavecrest Discoveries](https://wavecrestdiscoveries.com/) ● P.O Box 1795 ● Coos Bay ● 541-267-4027 ● Marty Giles and Wavecrest Discoveries offer "mind-refreshing" tours of the Southern Oregon Coast, exploring dunes, beaches, tidepools, forests, and waterways.
-
-&nbsp;
 
 ## Adventure \#3- Fishing on Oregon's Adventure Coast
 
@@ -102,28 +94,17 @@ Are you planning your fishing trip? We've compiled a[<u>list of resources</u>](h
 * [ODFW Charleston Office](https://www.dfw.state.or.us/agency/directory/local_offices.asp) 63538 Boat Basin Dr ● Charleston ● 541-888-5515 ● ODFW's Charleston office only sells fishing licenses for those last-minute visitors who wish to go fishing while in the Charleston Marina but don't have a permit.
 * [Wal-Mart](https://www.walmart.com/) 2051 Newmark Ave ● Coos Bay ● 541-888-5488 ● Wal-Mart sells fishing gear and fishing licenses for the sport fisherman, along with all the snacks, beverages, coolers, and accessories you might need for your next fishing excursion.
 
-  &nbsp;
-
 ### **Where to Book an Experienced Fishing Guide**
 
 Numerous experienced fishing guides are available on **Oregon's Adventure Coast: Coos Bay, North Bend, and Charleston**. They are ready to lead the way and ensure a memorable adventure—don't forget your fishing license!
 
 * [Betty Kay Charters](https://bettykaycharters.com/) 90389 Albacore Ave ● Charleston 800-752-6303 ● Captain Kurt and Captain Alan are dedicated to providing a safe, fun, and memorable fishing trip. They'll go the extra mile to help you catch fish while offering tips and assistance. Fish near the shore in 60′ to 200′ of water, targeting rockfish, Cabazon, quillback, tiger rock, vermilion, and lingcod.
-
-  &nbsp;
-
 * [Coos Bay Charters](https://www.facebook.com/profile.php?id=100072975637763) Charleston Marina ● Charleston ● 831-428-2181 ● With 50 years of experience in South Coast fisheries, Captain John ensures a safe, successful trip targeting halibut, tuna, rockfish, lingcod, salmon, or crab. His 32-foot boat is perfect for the whole family!
-
-  &nbsp;
-
 * [Indigenous Adventures Guide Service](https://www.indigenousadventuresfishing.com/) Coos Bay ● 541-537-0256 ● Guided fishing trips for salmon, steelhead, shad, smallmouth bass, striped bass, pink fin perch, & sturgeon on the Coos, Coquille, Umpqua, Elk, & Sixes River systems. Bottom fishing & crabbing are also available off of the Coos Bay coast.
 * [Lucky Landings Guide Service](https://lucky-landings.com/) Coos Bay/Charleston ● 541-274-0972 ● Offering personalized fishing tours tailored to your skill level and preferences, ensuring an unforgettable experience for beginners and seasoned anglers alike.
 * [Lucky Me Charters](https://www.facebook.com/profile.php?id=100069484436004) Charleston Marina ● Charleston ● 541-948-3905 ● Join Captain Roy at Charleston Marina for fishing charters targeting tuna, salmon, snapper, lingcod, halibut, and crab aboard a 2020 Hewes 270 with twin 200hp engines. With 45 years of experience, a Coast Guard license, and up-to-date gear, he ensures a safe, fun trip for up to 6 passengers. Full-day, half-day, and whale-watching trips are available!
 * [Mayhem Charters](https://boatingcharter.com/) Charleston ● (541) 944-0420 ● Join Mayhem Charters for family-friendly fishing with a FREE pole for kids under 12! Fish for Lingcod, Rockfish, Salmon, and Halibut—everything is provided; just bring your license and enjoy the adventure!
 * [Pacific Charter Services](https://pacificcharterservices.com/) 63357 Boat Basin Rd ● Charleston ● 541-378-3040 ● Deep Sea Charter Fishing in Coos Bay and Charleston offers exclusive 6-pack guided trips for a personalized family adventure. Skip the "party boat" and enjoy expert guidance with all rods, reels, tackle, and bait provided.
-
-  &nbsp;
-
 * [Sharkys Charter Fishing](https://sharkyscharterfishing.com/) 63422 Kingfisher Road - Suite B ● Charleston ● 541-260-9110 ● Experience a Guided 6-Pack Ocean Fishing Charter from Charleston Marina with Coast Guard-licensed captains. Enjoy heated vessels with restrooms and fishing year-round for Lingcod, Halibut, Tuna, Salmon, and Rockfish. Single anglers welcome! Bay excursions, whale watching, and memorial services are also offered—an "Alaska-like" experience at a fraction of the cost.
 * [SOA Charters](https://fishingbooker.com/charters/view/6471)<u> </u>Albacore Lane ● Charleston ● 541-430-1013 ● Join Captain Travis Marsh from Charleston Marina aboard a 24-foot Hewes Craft deck boat to fish for Rockfish, Crab, Lingcod, Halibut, and Bluefin Tuna. With a USCG six-pack license and CPR/First-Aid certification, Captain Travis ensures a safe and expert-guided trip. Minimum group size: 3.
 
@@ -145,16 +126,13 @@ Oregon's Adventure Coast may be renowned for its exceptional freshwater and salt
 Crabbing and clamming are easy-to-learn activities you can enjoy on your own, but local experts are ready to guide you with the best, most sustainable techniques. Be sure to secure your shellfish license!
 
 * [Indigenous Adventures Guide Service](https://www.indigenousadventuresfishing.com/) Coos Bay ● 541-537-0256 ● Guided fishing trips for salmon, steelhead, shad, smallmouth bass, striped bass, pink fin perch, & sturgeon on the Coos, Coquille, Umpqua, Elk, & Sixes River systems. Bottom fishing & crabbing are also available off of the Coos Bay coast.
-
-  &nbsp;
-
 * [Wavecrest Discoveries](https://wavecrestdiscoveries.com/) ● P.O Box 1795 ● Coos Bay ● 541-267-4027 ● Marty Giles and Wavecrest Discoveries offer "mind-refreshing" tours of the Southern Oregon Coast, exploring dunes, beaches, tidepools, forests, and waterways. Their activities, including clamming and tidepooling, highlight the rich nature, history, and culture of Coos County.
 
 ## Adventure \#6: Hit the Coastal Biking Trails
 
 ![](/img/oregon-s-adventure-coast-mountain-biking.jpg)
 
-Did you know one of the highest-ranked Mountain Biking trails in Oregon is right in our backyard? The Whiskey Run Mountain Bike Trails is a one-of-a-kind trail system located about 15 minutes south of Coos Bay off Highway 101, in the mists of the coastal forest. Well-maintained trails, moderate climbing, and fun descending through the misty Coos County Forest make this 32-mile trail system worth the drive. If Mountain Biking isn't your speed, we're also conveniently located near the[<u>Oregon Coast Bike Route</u>](https://www.oregon.gov/ODOT/Programs/TDD%20Documents/oregon-coast-bike-route-map.pdf), the new [Gravel Cycling Route](https://dirtyfreehub.org/routes/oregon/milli-mania/), and many other road biking destinations.[<u>Click here for the City Bike Riding Trails Map (PDF).</u>](https://www.oregonsadventurecoast.com/img/FSCBW-BIKE-TRAIL-MAPS.pdf)
+Did you know one of the highest-ranked Mountain Biking trails in Oregon is right in our backyard? The Whiskey Run Mountain Bike Trails is a one-of-a-kind trail system located about 15 minutes south of Coos Bay off Highway 101, in the mists of the coastal forest. Well-maintained trails, moderate climbing, and fun descending through the misty Coos County Forest make this 32-mile trail system worth the drive. If Mountain Biking isn't your speed, we're also conveniently located near the [<u>Oregon Coast Bike Route</u>](https://www.oregon.gov/ODOT/Programs/TDD%20Documents/oregon-coast-bike-route-map.pdf), the new [Gravel Cycling Route](https://dirtyfreehub.org/routes/oregon/milli-mania/), and many other road biking destinations. [<u>Click here for the City Bike Riding Trails Map (PDF).</u>](https://www.oregonsadventurecoast.com/img/FSCBW-BIKE-TRAIL-MAPS.pdf)
 
 ### **Where to Purchase Bike Gear & Repair Services**
 
