@@ -7,7 +7,7 @@ description: >-
   Discover why Oregon's Adventure Coast: Coos Bay, North Bend, Charleston is the
   ultimate outdoor destination, complete with a resource guide to rentals and
   outfitting services for your next adventure.
-image: /img/rentals-and-guides-blog-695x322-jpg.jpg
+image: /img/rentals-and-guides-blog-695x322.jpg
 tags:
   - ATVing
   - fishing
