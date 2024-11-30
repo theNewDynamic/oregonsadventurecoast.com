@@ -12,7 +12,7 @@ slideshow:
       source: /img/lights-slider.mov
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
-  - url: /travelers-info
+  - url: /live-cam
     img: /img/live-cam-home-pg-button.png
     alt: Live Weather Cams to See Our Area
 masonry1:
