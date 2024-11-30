@@ -12,9 +12,9 @@ slideshow:
       source: /img/lights-slider.mov
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
-  - url: /fall15
-    img: /img/fall-15-promotion-splash-1200x473.jpg
-    alt: Fall 15% Lodging Special through Nov 30, 2024
+  - url: /travelers-info
+    img: /img/live-cam-home-pg-button.png
+    alt: Live Weather Cams to See Our Area
 masonry1:
   desktopphoto: /img/store-image-desktop.jpg
   desktoptitle: Store
