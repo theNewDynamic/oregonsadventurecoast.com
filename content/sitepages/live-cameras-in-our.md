@@ -2,7 +2,7 @@
 _schema: default
 title: Live Weather Cams of Our Area
 draft: false
-url: live-cam
+url: /live-cam
 layout: our-area
 photo: /img/north-spit-panoramic-pg-header.jpg
 ---
