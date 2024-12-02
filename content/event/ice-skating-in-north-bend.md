@@ -23,8 +23,8 @@ desktoptitle: Ice Skating in North Bend, OR!!
 mobiletitle: Ice Skating in North Bend, OR!!
 hovertitle: Ice Skating in North Bend, OR!!
 hoverdescription: Lace up you ice skates and enjoy the only Ice Skating on the Coast!
-photo: /img/skating-rink-hero.jpg
-largeboxphoto: /img/skating-rink-1024x395.jpg
+photo: /img/ice-rink-line-of-skaters-2048x530.jpg
+largeboxphoto: /img/ice-rink-line-of-skaters-1024x395.jpg
 mediumboxphoto: /img/icerink-festive-667x355.jpg
 smallboxphoto: /img/icerink-helpers-340x214.jpg
 ---
