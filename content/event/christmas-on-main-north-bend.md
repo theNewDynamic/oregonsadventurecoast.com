@@ -52,6 +52,12 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 {{< spacer "25" >}}
 
+#### Hot Cocoa Crawl
+
+**11:00-3:00pm @ Downtown North Bend Businesses** <br>Stroll Downtown North Bend for a festive Hot Cocoa Crawl! Enjoy complimentary cocoa & fun toppings at various locations. Suggested $5.00 donation for a glass mug or we have complimentary paper cups as well. The Hot Cocoa Crawl starts at the North Bend Visitor Information Center. Event is sponsored by NW Natural.
+
+{{< spacer "25" >}}
+
 ![Elf on the shelf among candy pieces](/img/elfonshelfnb.jpg "The Elf on the Shelf Knows All!")
 
 #### **Elf of the Shelf**
