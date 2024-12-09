@@ -45,14 +45,6 @@ Get into the holiday spirit and work on your gift-giving lists at the Annual Dow
 
 {{< spacer 50 >}}
 
-![Crab Pot Christmas Tree in Charleston Oregon](/img/crab-pot-sub-section-hdr.jpg)
-
-#### Late November and December 2024<br>Charleston Crab Pot Tree
-
-The Charleston Fishing Families celebrate the season every year with a colorful, lighted Crab Pot Tree in the parking lot of Fisherman's Grotto restaurant! Lights from the tree can be seen from Cape Arago Highway and across to the Charleston Marina! *Photo courtesy of Chris at Off the Edge Photography.*
-
-{{< spacer 50 >}}
-
 ![Holiday Lights at Shore Acres State Park in Charleston Oregon](/img/holiday-lights-sub-section-hdr.jpg)
 
 #### November 28-December 31, 2024<br>Holiday Lights at Shore Acres State Park
