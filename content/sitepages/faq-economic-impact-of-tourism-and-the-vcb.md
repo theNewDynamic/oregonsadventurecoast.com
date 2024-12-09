@@ -19,7 +19,7 @@ We often get questions about the importance of tourism to our local economy. We 
 
 **Q: What is Tourism and Why is it So Important to our Communities?**
 
-A: **Travel and Tourism bring outside money into our economy** when visitors from more than 50 miles away come to our communities for recreation, overnight stays, to visit friends and family, and to conduct business. This outside money adds to the economic vitality of our communities. See our latest <a href="/img/EOF-One-Sheet-2024---v3.pdf" target="_blank" rel="noopener">Economic Impact Statement</a>.
+A: **Travel and Tourism bring outside money into our economy** when visitors from more than 50 miles away come to our communities for recreation, overnight stays, to visit friends and family, and to conduct business. This outside money adds to the economic vitality of our communities. See our latest <a href="/EcoImpact-FY25-crab-10.pdf" target="_blank" rel="noopener">Economic Impact Statement</a>.
 
 {{< spacer 50 >}}
 
