@@ -7,7 +7,7 @@ description: >-
   Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is a wonderful
   destination for exploring nature and spotting diverse wildlife like migrating
   whales, seal and sea lions, shorebirds, and more.
-image: /img/wildlife-viewing-oregons-adventure-coast-blog-695x322-jpg-3-1.jpg
+image: /img/wildlife-viewing-oregons-adventure-coast-blog-695x322-jpg.jpg
 tags:
   - Oregon’s south coast
   - wildlife
