@@ -31,9 +31,6 @@ our_area:
   name: Coronavirus update
 
 travelers:
-- url: /covid-19
-  name: Coronavirus update
-  weight: 10
 - url: http://www.flyoth.com/
   name: Airline Tickets and Travel
   weight: 20
@@ -55,6 +52,9 @@ travelers:
 - url: https://www.tideschart.com/United-States/Oregon/Coos-Bay
   name: TidesChart.com Tide Times & Tide Charts
   weight: 80
+- url: /tsunamis
+  name: Tsunami Safety
+  weight: 85
 - url: /social-media-disclaimer/
   name: Social Media Disclaimer
   weight: 90
