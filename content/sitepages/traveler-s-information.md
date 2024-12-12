@@ -127,10 +127,6 @@ We want to make sure that you’re safe and sound while visiting, so here are a 
 * Be wary, especially in winter months and utilize storm watching sites during inclement weather.
 * The safest areas to view winter storms are at the storm watching hut at Shore Acres State Park, the bluff overlooking Bastendorff Beach, and Sunset Bay State Park.
 
-### Tsunamis
-
-While traveling on the coast, you’ll notice signs pointing to Tsunami safe zones. Tsunamis are rare, but it is still important to be up-to-speed on safety information and know what to do. <a href="/Tsunami_Safety_Presentation.pdf" target="_blank" rel="noopener">Click here for a list of tips and safe zones</a>. Our area is equipped with a tsunami warning system so you’ll hear a series of loud warning sirens letting you know when it’s time to get to higher ground.
-
 ### Medical Facilites
 
 We have the largest hospital on the Oregon Coast. While we hope you will not need to use our medical facilities while visiting, if you do, rest assured that you’ll be well taken care of.
