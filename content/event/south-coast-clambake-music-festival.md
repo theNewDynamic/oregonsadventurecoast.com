@@ -44,22 +44,22 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 
 ![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-music-v01-695x322.jpg)
 
-### Featuring the music of bands all across these United States! Here's last year's list. 2025 List Coming Soon!!
+### Featuring the music of bands all across these United States!
 
-#### 2024 Bands Include:
+#### 2025 Bands Include:
 
 * <a href="https://clambakemusic.com/?page_id=3782" target="_blank" rel="noopener">Alpha Rhythm Kings</a>
 * <a href="https://benricehustle.com/home" target="_blank" rel="noopener">Ben Rice &amp; The PDX Hustle</a>
 * [Danielle Kelly Soul Project](https://clambakemusic.com/?page_id=4362)
 * <a href="https://clambakemusic.com/?page_id=2250" target="_blank" rel="noopener">Dave Bennett Quartet</a>
-* <a href="https://clambakemusic.com/?page_id=3442" target="_blank" rel="noopener">Good Co.</a>
 * <a href="https://clambakemusic.com/?page_id=3449" target="_blank" rel="noopener">Gino &amp; The Lone Gunmen</a>
-* <a href="https://www.facebook.com/JasonThomasBand/" target="_blank" rel="noopener">Jason Thomas Band</a>
+* <a href="https://www.lisamannmusic.com/" target="_blank" rel="noopener">Lisa Mann Power Trio</a>
 * <a href="https://clambakemusic.com/?page_id=4367" target="_blank" rel="noopener">Ocean Blvd</a>
-* Pony Creek (Thursday only)
+* <a href="https://www.facebook.com/raegordonband/" target="_blank" rel="noopener">Rae Gordon Band</a>
 * <a href="https://clambakemusic.com/?page_id=4055" target="_blank" rel="noopener">Shaymus Hanlin Quartet</a>
-* Swinging in the Rain
+* <a href="https://clambakemusic.com/swingin-in-the-rain/" target="_blank" rel="noopener">Swinging in the Rain</a>
 * <a href="https://clambakemusic.com/?page_id=4091" target="_blank" rel="noopener">The Throttles</a>
+* <a href="https://tomrigney.com/home/" target="_blank" rel="noopener">Tom Rigney</a>
 
 **For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks**! Visit the [website](https://clambakemusic.com/) for details.
 
