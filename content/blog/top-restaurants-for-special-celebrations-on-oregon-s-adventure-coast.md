@@ -106,6 +106,8 @@ Diners also rave about the excellent service and high-quality food, with some cl
 
 “The service, staff and atmosphere here is phenomenal,” says [Eric D](https://www.google.com/maps/contrib/104062964995164353935/reviews?hl=en-US). “We had our daughter's birthday party in the covered patio in the back…We received the best service that I have ever experienced at any restaurant/venue in Coos County. If you're having an event and looking for a clean, new venue that can handle a crowd, look no further.” Visit [www.northbendlanes.com/Back-Alley-Pub-Grill](https://northbendlanes.com/Back-Alley-Pub-Grill) to learn more.
 
+{{< spacer "25" >}}
+
 Make sure to visit [oregonsadventurecoast.com/dining](https://oregonsadventurecoast.com/dining/) to see the full list of local restaurant gems in [Coos Bay](https://www.oregonsadventurecoast.com/our-area-coos-bay/), [North Bend](https://www.oregonsadventurecoast.com/our-area-north-bend/) and [Charleston](https://www.oregonsadventurecoast.com/our-area-charleston/)! Here are some additional local destinations that are perfect for special celebrations on Oregon's Adventure Coast:
 
 * [North Bend Lanes](https://northbendlanes.com/) is a lively and casual venue perfect for celebrations, featuring 14 lanes to accommodate groups of all sizes. With options like cosmic bowling, bumper bowling, and a ball ramp, everyone can join in the fun (be sure to reserve a lane in advance). Having [The Back Alley Pub & Grill](https://northbendlanes.com/Back-Alley-Pub-Grill) attached is an added bonus!
