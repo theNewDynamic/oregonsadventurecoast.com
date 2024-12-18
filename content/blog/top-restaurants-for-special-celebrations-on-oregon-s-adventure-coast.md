@@ -72,7 +72,7 @@ If your special occasion calls for sushi, Tokyo Bistro in Coos Bay’s Empire Di
 
 ## Hilltop House Restaurant & Lounge - North Bend
 
-![](/img/hilltop-house-north-bend.jpg)
+![](/img/hilltop-house-north-bend-1.jpg)
 
 For a classic seafood and steakhouse experience with a unique charm and lovely views of the bay, visit Hilltop House Restaurant & Lounge—a cherished landmark on Oregon’s Adventure Coast. Known for its fresh, local seafood and premium aged Midwest beef, Hilltop House has been delighting diners for decades. Chef Joseph Zamora masterfully captures the flavors of the Oregon Coast, creating dishes that celebrate the region’s rich maritime heritage and culture. Perched atop a hill, the restaurant offers breathtaking views of the upper bay and surrounding dunes, making it a truly memorable dining destination. Diners like [Michael B.](https://www.google.com/maps/contrib/104143809286675053255/reviews?hl=en-US) are quick to recognize the unique nature of this local treasure. “Such a cool throw back restaurant,” he says. “I've visited so many of these places throughout my life and it's a treasure to find one.”
 
