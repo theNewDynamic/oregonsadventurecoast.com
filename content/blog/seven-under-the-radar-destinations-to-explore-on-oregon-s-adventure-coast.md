@@ -47,9 +47,11 @@ warning: false
 
 **\#6** [The Oregon Merci Train Car](http://mercitrain.org/Oregon/)\- Restored and celebrated for its 75th anniversary in 2024, the Oregon Merci Train Car in North Bend is a unique piece of American history, symbolizing France's gratitude to the United States after World War II. One of 49 boxcars sent in 1949, this "forty and eight" model, used in both World Wars, is a tangible link to international friendship.
 
-![patio and fireplace at North Forty](/img/northfortybackpatio.jpg "A relaxing patio awaits at North Forty in North Bend.")
+**\#7** <a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=49" target="_blank" rel="noopener">Seven Devils State Recreation Site</a> - If you're seeking solitude and a place to reconnect with nature, you'll want to venture to this undiscovered gem in Coos County. Tucked slightly off the beaten path, this hidden treasure rewards visitors with breathtaking panoramic views and an expansive, uncrowded beach where you can often feel like you have the shoreline entirely to yourself.
 
-**\#7 The Back Patio at** [North Forty Brewing in North Bend](https://www.northfortybeer.com/) - North Forty Brewing in North Bend is quickly becoming a favorite for its craft beer and delicious local menu, featuring highlights like the steak and frites sandwich. The real standout, however, is the stunning back patio with a cozy fireplace, offering the perfect setting to unwind and enjoy a drink after a day of exploring Oregon’s Adventure Coast.
+The site features a well-maintained grassy picnic area, bathrooms, and convenient parking just steps from the sand. Beachcombers will delight in discovering driftwood, agates, rocks, and small shells scattered along the shore. Whether you're seeking a family-friendly picnic spot, or the thrill of finding coastal treasures, Seven Devils offers a slice of coastal paradise that's well worth the drive.  Click here to learn more about the undeveloped beaches on [Oregon's Adventure Coast](www.oregonsadventurecoast.com/undeveloped-beaches/).
+
+![](/img/seven-devils-state-recreation-site.jpg)
 
 &nbsp;
 
