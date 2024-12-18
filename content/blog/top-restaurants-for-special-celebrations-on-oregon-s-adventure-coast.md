@@ -109,17 +109,8 @@ Diners also rave about the excellent service and high-quality food, with some cl
 Make sure to visit [oregonsadventurecoast.com/dining](https://oregonsadventurecoast.com/dining/) to see the full list of local restaurant gems in [Coos Bay](https://www.oregonsadventurecoast.com/our-area-coos-bay/), [North Bend](https://www.oregonsadventurecoast.com/our-area-north-bend/) and [Charleston](https://www.oregonsadventurecoast.com/our-area-charleston/)! Here are some additional local destinations that are perfect for special celebrations on Oregon's Adventure Coast:
 
 * [North Bend Lanes](https://northbendlanes.com/) is a lively and casual venue perfect for celebrations, featuring 14 lanes to accommodate groups of all sizes. With options like cosmic bowling, bumper bowling, and a ball ramp, everyone can join in the fun (be sure to reserve a lane in advance). Having [The Back Alley Pub & Grill](https://northbendlanes.com/Back-Alley-Pub-Grill) attached is an added bonus!
-
-  &nbsp;
-
 * Have some fun at the [North Bend Ice Skating Rink](https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/), the ONLY ice skating rink on the Oregon Coast! The 3,250 sq. ft. synthetic ice skating rink, housed in a 60-foot by 83-foot event tent, is sure to keep spirits bright during the holiday season and beyond! There is no fee to enter, but ice skate rental is $5 per hour. Anyone with their own ice skates can skate for free. The skating rink operates seasonally and will be open through February 16, 2025.
-
-  &nbsp;
-
 * Celebrate a night out at one of our local neighborhood pubs - perfect for casual gatherings with friends or family! Visitors can often catch live local and regional musicians performing at various venues across Coos Bay, North Bend, and Charleston. Enjoy ongoing events and live music at [The Mill Casino • Hotel & RV Park,](https://www.themillcasino.com/) [7 Devils Brewery,](https://7devilsbrewery.com/) [Wildflour Public House,](https://www.wildflourpub.com/) and [Front Street Food Trucks.](https://www.facebook.com/frontstreetfoodtrucks/) Other spots to catch live tunes include [The Captain’s Cabin](https://www.yelp.com/biz/captains-cabin-bar-coos-bay-2) and [Coney Station](https://www.facebook.com/ConeyStation/).
-
-  &nbsp;
-
 * Spend the night gaming in one of [our two casinos](https://www.oregonsadventurecoast.com/gaming/)! Whether it’s slots, cards, or games, visitors will find round-the-clock adventure and indoor fun. [The Mill Casino \* Hotel & RV Park](https://www.themillcasino.com/) features Vegas-style table games, more than 600 slots, the only Sports Betting Casino on Oregon’s South Coast and more! If you play your cards right, you can also hit [Three Rivers Casino – Coos Bay,](https://www.threeriverscasino.com/coos-bay-casino) just ten minutes away!
 
   &nbsp;
