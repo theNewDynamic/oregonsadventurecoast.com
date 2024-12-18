@@ -11,7 +11,7 @@ description: >-
   natural setting are a few diamonds in our restaurant community that are good
   for celebrations - birthdays, anniversaries, romantic getaways, reunions, and
   more.
-image: /img/top-restaurants-for-special-celebrations-blog-695x322-jpg-1.jpg
+image: /img/top-restaurants-for-special-celebrations-blog-695x322-jpg-2.jpg
 tags:
   - Oregon's Adventure Coast
   - Oregon Coast
@@ -46,7 +46,7 @@ Looking for a local spot to celebrate a special occasion? Here are some top reco
 
 ## Wildflour Public House- North Bend
 
-![](/img/wildflour-entertainment-page.jpg)
+![](/img/wildflour-public-house-north-bend.jpg)
 
 Wildflour Public House in North Bend, Oregon, may be a newer addition to the restaurant scene on Oregon’s Adventure Coast, but its farm-to-table cuisine and inviting ambiance have quickly made it a favorite among both locals and visitors. Guests can enjoy live music every Wednesday night from 6–8 PM, adding to the restaurant's vibrant atmosphere.
 
@@ -90,7 +90,7 @@ Others agree and strongly recommend. “Absolutely the best steak and prime rib 
 
 ## 7 Devils Waterfront Alehouse - Coos Bay
 
-![](/img/7-devils-waterfront-alehouse.jpg)
+![](/img/7-devils-waterfront-alehouse-coos-bay.jpg)
 
 For a truly memorable celebration with great views and even greater food, 7 Devils Waterfront Alehouse in Coos Bay is an excellent choice. With two levels of dining, each featuring its own bar, and a prime waterfront location overlooking the bay, this vibrant spot has quickly become a favorite for its modern yet laid-back ambiance. As the second location of 7 Devils Brewing Co., the menu highlights authentic regional flavors, with high-quality seafood sourced from local fishermen paired with their craft beers. “This was our favorite meal that we had while visiting the Oregon coast,” says [Westley H](https://www.google.com/maps/contrib/116127343185307728825/reviews?hl=en-US). “Everything we had was very good. We will definitely be coming again on our next visit!”
 
