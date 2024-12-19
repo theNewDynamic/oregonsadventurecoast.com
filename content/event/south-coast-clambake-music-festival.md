@@ -36,13 +36,21 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 
 *Interesting fact! A Clambake is an old musical term for a Jam Session!*
 
-![south coast clambake music festival bands playing music](/img/clambake-giveaway-collage.jpg)
+![south coast clambake music festival bands playing music](/img/clambake-collage-02-695x322.jpg)
+
+{{< spacer "30" >}}
+
+{{< youtube id="6EcgBsQHFew" title="South Coast Clambake Music Festival Promotional Video" >}}
+
+{{< spacer "50" >}}
 
 The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hotel in North Bend on Oregon's Adventure Coast! The Mill hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar.
 
 {{< spacer 50 >}}
 
 ![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-music-v01-695x322.jpg)
+
+&nbsp;
 
 ### Featuring the music of bands all across these United States!
 
