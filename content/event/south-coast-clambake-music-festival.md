@@ -36,7 +36,7 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 
 *Interesting fact! A Clambake is an old musical term for a Jam Session!*
 
-![south coast clambake music festival bands playing music](/img/clambake-giveaway-collage.jpg)
+![south coast clambake music festival bands playing music](/img/clambake-collage-02-695x322.jpg)
 
 {{< spacer "30" >}}
 
