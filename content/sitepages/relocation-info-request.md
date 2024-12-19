@@ -17,7 +17,7 @@ Whether a first time visitor, prospective new resident or business owner conside
 
 ### Thinking of Moving Here?
 
-We love when people want to join our community. Request a relocation packet and let us help get you started. [Click here to Request Relocation Information](#relocationform)
+We love when people want to join our community. Request a relocation packet and let us help get you started. Scroll to the bottom of this page to find the relocation request form.
 
 ### Moving your business?
 
@@ -37,16 +37,28 @@ The [Southwestern Oregon Community College](https://www.socc.edu) (SWOCC) [Small
 
 [Southwestern’s Workforce Development Department](https://www.socc.edu) delivers high-quality technical and professional training in career-oriented programs that are specific to your employees needs. Whether your organization is for-profit or non-profit, private, public or government, we have experience in a wide variety of industry settings. Trainings can be delivered on-site, on campus or online. For more information, call (541) 888-7328.
 
+
+
+
+
+
+
 ### Downtown/Merchants Associations
 
-{{< columns number="2" >}}[**Coos Bay Downtown Association**](http://coosbaydowntown.org) Contact: Harv Schubothe, Main Street Manager (541)266-9706 <br>[mainstreetmanager@coosbaydowntown.com]()
+{{< columns number="3" >}}[**Coos Bay Downtown Association**](http://coosbaydowntown.org)<br>Contact: Harv Schubothe<br>Main Street Manager<br>(541)266-9706 <br>[Email Us](mailto:mainstreetmanager@coosbaydowntown.com)
 
 divider
 
-[**Charleston Merchants Association**](https://charlestonoregonmerchants.com) Contact: Tim Hyatt c/o Sunset Bay Golf Course (541) 888-9301{{< /columns >}}
+[**North Bend Main Street**](https://www.northbendoregon.us/pview.aspx?id=55034&catid=25)<br>Contact: Stephanie Wilson<br>(541) 756-4613<br>[Email Us](mailto:swilson@northbendcity.org)
+divider
 
+
+[**Charleston Merchants Association**](https://charlestonoregonmerchants.com)<br>Contact: Tim Hyatt c/o Sunset Bay Golf Course<br>(541) 888-9301<br>[Email Us](mailto:charliemerchants@gmail.com)
+{{< /columns >}}
 &nbsp;
 
 ### Relocation Information Request
 
-<script type="text/javascript" src="https://form.jotform.com/jsform/83167269356164"></script>
+&nbsp;
+
+&nbsp;
