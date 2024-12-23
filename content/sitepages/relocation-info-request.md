@@ -13,7 +13,7 @@ seo:
 ---
 **Oregon’s Adventure Coast**, consisting of Coos Bay, North Bend and Charleston, is truly unique. Our business and professional people accentuate individuality and character. Our retailers strike a balance between distinctively-local shops and nationally-known chains.
 
-Whether a first time visitor, prospective new resident or business owner considering relocation, once you come here, you’ll never want to leave. <a href="/img/Relocation-Guide.pdf" title="Coos Bay, North Bend, Charleston Relocation Guide PDF" target="_blank" rel="noopener">Download our Relocation Guide Here (PDF)</a>.
+Whether a first time visitor, prospective new resident or business owner considering relocation, once you come here, you’ll never want to leave. <a href="/img/Relocation-Brochure.pdf" title="Coos Bay, North Bend, Charleston Relocation Guide PDF" target="_blank" rel="noopener">Download our Relocation Guide Here (PDF)</a>.
 
 ### Thinking of Moving Here?
 
@@ -55,5 +55,9 @@ divider
 &nbsp;
 
 &nbsp;
-<script type="text/javascript" src="https://form.jotform.com/jsform/83167269356164"></script>
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
