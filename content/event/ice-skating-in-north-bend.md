@@ -27,6 +27,8 @@ photo: /img/ice-rink-line-of-skaters-2048x530.jpg
 largeboxphoto: /img/ice-rink-line-of-skaters-1024x395.jpg
 mediumboxphoto: /img/icerink-festive-667x355.jpg
 smallboxphoto: /img/icerink-helpers-340x214.jpg
+aliases:
+  - /ice-skating
 ---
 ![](/img/icerink-festive-med.jpg)
 
