@@ -9,7 +9,7 @@ slideshow:
     url: /storm-watching
     video:
       cover: /img/storm-watching-home-video-placeholder.jpg
-      source: /img/storm-watching-960x540-12-2020.mp4
+      source: /img/waves-web-slider-2023-sd-480p.mov
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /live-cam
