@@ -7,6 +7,7 @@ description: >-
   These winter storm images taken on Oregon’s Adventure Coast: Coos Bay, North
   Bend, and Charleston perfectly capture the raw power and magnificence of the
   ocean.
+image: /img/extraordinary-winter-storm-images-blog-695x322-jpg.jpg
 tags:
   - Winter Storms
   - Winter Storm Watching
