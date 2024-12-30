@@ -7,6 +7,7 @@ description: >-
   These winter storm images taken on Oregon’s Adventure Coast: Coos Bay, North
   Bend, and Charleston perfectly capture the raw power and magnificence of the
   ocean.
+image: /img/extraordinary-winter-storm-images-blog-695x322-jpg.jpg
 tags:
   - Winter Storms
   - Winter Storm Watching
@@ -44,9 +45,6 @@ If you haven’t witnessed the awe-inspiring power of winter storms on Oregon’
 **Is Winter Storm Watching Dangerous?** It’s exciting to get close to the action, but it can become hazardous very quickly if you get too close or are not careful. There are designated areas on Oregon’s Adventure Coast where visitors are high above the water and can experience the storm at a distance. Follow these tips to stay safe!
 
 * **Watch From a Distance.** As alluring as the waves can be, <u>always </u>watch from a safe distance like Shore Acres State Park. Sneaker waves—unexpectedly large and powerful—can appear without warning along beaches and low-lying surf areas and can have deadly consequences. Stay at least 100 feet from the water’s edge, and **Never Turn Your Back on the Ocean**. Be sure to obey all warning signs and barricades. If you’re taking photos or selfies, do so from a safe distance!
-
-  &nbsp;
-
 * **Avoid Walking on Logs, Jetties, and Cliff Edges.** Beach logs can quickly become dangerous during a sneaker wave, and jetties or cliff edges may be slippery and unstable in stormy weather. A sudden wave or gust of wind could cause a fall. Stay safe by sticking to designated viewpoints and trails. Better yet, stay off of beaches and jetties during winter storms as they can become hazardous due to dangerous surf conditions.
 
 **When can I see Winter Storms?** Only Mother Nature can plan these wild winter storms, so the key is to keep an eye on the forecast! The best storm-watching conditions typically occur between November and March. Check local and extended forecasts on sites like the [National Weather Service](https://www.weather.gov/), [AccuWeather](https://www.accuweather.com/)and [Northwest Weather Network,](http://northwesternweather.net/) and pack your bags when swells of 20-30 feet are predicted. You can also follow our[Facebook Page](https://www.facebook.com/OregonsAdventureCoast/) to find out when winter storms are coming.
@@ -72,28 +70,13 @@ Oregon’s Adventure Coast offers multiple vantage points for storm watchers and
 ### More Winter Storm Watching Tips on Oregon’s Adventure Coast
 
 * Shore Acres State Park, located 12 miles from downtown Coos Bay, is widely regarded as the premier storm-watching spot on the Oregon Coast. Perched atop an 80-foot cliff, it offers safe, breathtaking views of winter storms. Visitors can also enjoy the park’s storm-watching hut, providing a sheltered vantage point for the dramatic ocean swells.
-
-  &nbsp;
-
 * Other storm-watching options on Oregon’s Adventure Coast include the bluff overlooking[**Bastendorff Beach**](https://www.oregonsadventurecoast.com/undeveloped-beaches/), [**Sunset Bay State Park**](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/), and other parks along the [**Cape Arago Beach Loop**](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/).
-
-  &nbsp;
-
 * Be aware that some locations, like state parks, may charge a fee for access. Bring your credit or debit card or display your State Park Annual Pass.
-
-  &nbsp;
-
 * Make sure you pack quality rain gear along with light, windproof and waterproof jackets, and sweaters to help keep the cool, damp wind out. Don’t forget rainproof shoes or boots!
-
-  &nbsp;
-
 * Binoculars can enhance viewing of the spectacular waves and for potential gray whale sightings in December and January.
-
-  &nbsp;
-
 * There is never a dull day when you live near the mighty Pacific Ocean and there’s plenty to do in the winter! Research some itineraries or [trip ideas,](https://www.oregonsadventurecoast.com/tripideas/) or follow [@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/) and [Oregon’s Adventure Coast on Facebook](https://www.facebook.com/OregonsAdventureCoast/)to source suggestions on the best spots to visit, eat, stay and explore.
 
-<br>**Resources**
+  <br>**Resources**
 
 * [What is the Difference Between High Surf and King Tides?](https://www.oregonsadventurecoast.com/blog/what-is-the-difference-between-high-surf-and-king-tides-copy/)
 * [Adventure: Storm Watching](https://www.oregonsadventurecoast.com/storm-watching/)
