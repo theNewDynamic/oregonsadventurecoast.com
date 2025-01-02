@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual BBQ, Blues & Brews on the Bay
-startdate: '2024-05-25'
-enddate: '2024-05-26'
+startdate: '2025-05-24'
+enddate: '2025-05-25'
 address:
   city: North Bend
   street: 3201 Tremont St
@@ -30,11 +30,11 @@ smallboxphoto: /img/bbq-blues-event-small.jpg
 ---
 ![](/img/bbq-blues-brews-logo-695px.jpg)
 
-**Get ready for the return of lip-smackin' BBQ, incredible brews, and smokin' hot tunes. Memorial Weekend 2024, May 25-26.**
+**Get ready for the return of lip-smackin' BBQ, incredible brews, and smokin' hot tunes. Memorial Weekend 2025, May 24-25.**
 
 **The Mill Casino \* Hotel's Annual BBQ, Blues & Brews on the Bay** has grown into one of The Mill's most attended events. Finger-lickin' good barbecue, hand-crafted beers, and smokin’ hot tunes at the BBQ, Blues & Brews on the Bay, Memorial Day Weekend.
 
-Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, May 25-26, 2024 at [**The Mill Casino • Hotel & RV Park**](https://www.themillcasino.com/).
+Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, May 24-25, 2025 at [**The Mill Casino • Hotel & RV Park**](https://www.themillcasino.com/).
 
 [**Book your room now!**](https://oregonsadventurecoast.com/lodging/ "Lodging on Oregon's Adventure Coast!")
 
@@ -46,7 +46,7 @@ Whether you’re a grill master or just love to eat great barbecue, this event i
 
 #### BBQ!
 
-For the 11th Year, The Mill brings you **finger-lickin' good barbeque** for a Kansas City Barbecue Society Sanctioned Event, bringing the best grill masters and teams together, vying for the title of **Grand Champion!** See the schedule below for tasting times!
+For the 12th Year, The Mill brings you **finger-lickin' good barbeque** for a Kansas City Barbecue Society Sanctioned Event, bringing the best grill masters and teams together, vying for the title of **Grand Champion!** See the schedule below for tasting times!
 
 **How it Works**:<br>$5 entry fee gets you into the event each day. Participating vendors will have a 2 oz. sample of BBQ for sale. Attendees can also purchase a full meal from – The Mill Grill.
 
@@ -62,22 +62,28 @@ For the 11th Year, The Mill brings you **finger-lickin' good barbeque** for a Ka
 
 #### BREWS!
 
-NEW AND IMPROVED! At each of the three beer stations guests will be able to buy a commemorative logo’d pint cup for $10, or $15 for a cup and a 16oz beer pour of their choice. Full size 16oz beers on tap are $7 and sample size 5oz beer is $4. A selection of wine will also be available for purchase with cash or card. Upon exiting, guests will be able to vote for the People’s Choice Best Brew. Guests can use cash or card for all cup and beer purchases.
+At each of the three beer stations, guests will be able to buy a commemorative logo’d pint cup for $10, or $18 for a cup and a 16oz beer pour of their choice. Full size 16oz beers on tap are $9 and sample size 5oz beer is $4. A selection of wine will also be available for purchase with cash or card. Upon exiting, guests will be able to vote for the People’s Choice Best Brew. Guests can use cash or card for all cup and beer purchases.
 
-{{< spacer 50 >}}
+{{< spacer 25 >}}
+
+#### NEW IN 2025!
+
+**Cornhole Tournament -** Join in the cornhole tournament brought to you by Coquille Community Cornhole League. Enjoy friendly competition and great prizes on Saturday and Sunday. Sign up onsite or on Cornholio app. Details to come.
+
+{{< spacer "25" >}}
 
 ![](/img/bbq-blues-brews-competition-vendor.jpg)
 
 ### Schedule of Events
 
-**11th Annual BBQ, Blues & Brews <br>Saturday & Sunday, May 26 – 25, 2024**
+**12th Annual BBQ, Blues & Brews <br>Saturday & Sunday, May 24 – 25, 2025**
 
 **Saturday**
 
-12:00 PM – 6:00 PM – Enjoy vendors, live entertainment, craft brews and sample BBQ from competitors\* <br>12:00 PM – 3:00 PM – Live entertainment: Gabriel Cox Band <br>3:00 PM – 6:00 PM – Live entertainment: Ms. Vee and Badass Band
+12:00 PM – 6:00 PM – Enjoy vendors, live entertainment, craft brews and sample BBQ from competitors\* <br>12:00 PM – 1:00 PM – Cornhole tournament sign ups and warmups<br>12:00 PM – 3:00 PM – Live entertainment<br>1:00 PM – 4:00 PM – Cornhole tournament<br>3:00 PM – 6:00 PM – Live entertainment
 
 **Sunday**
 
-12:00 PM – 4:00 PM – Enjoy vendors, live entertainment, craft brews, and sample BBQ & mac ‘n cheese from competitors <br>12:00 PM – 2:00 PM – Live entertainment: Ms. Vee and Badass Band <br>2:00 PM – Jim Monihan Mac ‘N Cheese Challenge <br>2:00 PM – 4:00 PM – Live entertainment: Gabriel Cox Band <br>4:00 PM – Awards ceremony – $15,00 in prize money will be awarded to KCBS BBQ competitors, Mac ‘N Cheese winners will be announced!
+12:00 PM – 4:00 PM – Enjoy vendors, live entertainment, craft brews, and sample BBQ & mac ‘n cheese from competitors <br>12:00 PM – 1:00 PM – Cornhole tournament sign ups and warmups<br>12:00 PM – 2:00 PM – Live entertainment<br>1:00 PM – 4:00 PM – Cornhole tournament<br>2:00 PM – Jim Monihan Mac ‘N Cheese Challenge <br>2:00 PM – 4:00 PM – Live entertainment<br>4:00 PM – Awards ceremony – $15,00 in prize money will be awarded to KCBS BBQ competitors, Mac ‘N Cheese, best brew and cornhole winners will be announced!
 
 *\*ALL SAMPLES AVAILABLE AT FESTIVAL ARE WHILE SUPPLIES LAST*
