@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual High Tide Tattoo and Arts Festival
-startdate: '2024-04-26'
-enddate: '2024-04-28'
+startdate: '2025-04-25'
+enddate: '2025-04-27'
 address:
   city: North Bend
   state: OR
@@ -33,11 +33,9 @@ smallboxphoto: /img/tattoo-event-header-small.jpg
 ---
 ![](/img/tattoo-artist-header-695x322.jpg)
 
-#### The 2nd Annual High Tide Tattoo and Arts Festival will be held on the beautiful Oregon Coast!
+#### The 3rd Annual High Tide Tattoo and Arts Festival will be held on the beautiful Oregon Coast!
 
-The Mill Casino \* Hotel & RV Park along with Ragemore Events and 11:11 Tattoo Studio in North Bend bring you top tattoo artists from around the country for a weekend of great art.
-
-The best tattoo convention on the Oregon Coast; The High Tide Tattoo & Art Festival! This three-day event is filled with world-class tattoo artists from all over the country. Multi award-winning artist like Brandon Davenport, Jamy Carlton and former Ink Master contender Mat Valles will be competing for locally made custom trophies, bragging rights, and a prize provided by ShowNation. Attending guests will have the rare opportunity to work with artists directly to plan their next tattoo or witness others act as canvas for these artists inked imagination.
+The best tattoo convention on the Oregon Coast; High Tide Tattoo & Art Festival! This three-day event is filled with world-class tattoo artists from all over the country. Multi award-winning artists like Brandon Davenport, Jamy Carlton and former Ink Master contender Mat Valles will be competing for locally made custom trophies, bragging rights, and a prize provided by ShowNation. Attending guests will have the rare opportunity to work with artists directly to plan their next tattoo or witness others act as canvas for these artists inked imagination.
 
 **How It Works:**
 
@@ -74,4 +72,4 @@ Tattoo Booking: Most artist use social media as their preferred method of commun
 
 #### TICKETS
 
-Tickets go on-sale April 5, 2024 in Ko-Kwel Gifts. $10 entry fee gets you into the event each day. All ages are welcome; 17 and under must be accompanied by an adult; 12 and under will receive free admission.
+Tickets go on-sale April 4, 2025 in Ko-Kwel Gifts. $10 entry fee gets you into the event each day. All ages are welcome; 17 and under must be accompanied by an adult; 12 and under will receive free admission.
