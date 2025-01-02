@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Circle the Bay 30K
-startdate: '2024-08-10'
-enddate: '2024-08-10'
+startdate: '2025-08-09'
+enddate: '2025-08-09'
 address:
   city: North Bend
   state: OR
@@ -52,9 +52,9 @@ This challenging course covers 30 kilometers (18.6 miles), from Ferry Road Park 
 
 #### PRICES
 
-**Individual 30K:<br>**$75  through July 19, 2024 *(Prices increase July 20, 2024)*
+**Individual 30K:<br>**$75
 
-**Team Relay 30K (3 People):<br>**$225 through July 19, 2024 *(Prices increase July 20, 2024)*
+**Team Relay 30K (3 People):<br>**$225
 
 **Additional participants can join your team** for $75/person. Those teams will not be eligible for awards.
 
@@ -78,7 +78,7 @@ Individual 30K and Relay team \#1 runners start at 8 AM. Walkers start at 6:30 A
 
 #### AMENITIES
 
-* All racers that sign up by July 22 will receive a t-shirt.
+* All racers that sign up by July 18 will receive a t-shirt.
 * Participants, their fans, and all volunteers are invited to enjoy a post-race barbecue and beverages. Beer is donated by 7-Devils.
 * Water will be available at the exchanges, approximately every 6 miles.
 
