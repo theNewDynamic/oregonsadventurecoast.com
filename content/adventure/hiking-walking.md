@@ -26,7 +26,7 @@ accordion_sections:
 
 
           #### <a
-          href="https://www.oregonhikers.org/field_guide/Empire_Lakes_Loop_Hike"
+          href="https://www.coosbayor.gov/home/showpublisheddocument/182/637975270325000000"
           target="_blank" rel="noopener"><strong>Empire Lakes Trail</strong></a>
 
 
