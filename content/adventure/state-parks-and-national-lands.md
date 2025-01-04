@@ -20,6 +20,8 @@ The scenery that makes up the unique setting on Oregon’s Adventure Coast is sp
 
 ## State Parks
 
+![](/img/park-closure-010325.png)
+
 On the Oregon Coast, many of the beaches are state parks and our area is no exception. Along the 8 mile [Cape Arago Loop](/img/cape-arago-loop-itinerary.pdf) in Charleston you’ll find a trifecta of State Parks.
 
 {{< spacer 50 >}}
@@ -71,6 +73,12 @@ Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the casc
 {{< spacer 25 >}}
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772859196145840%2F&amp;show_text=0&amp;width=695" width="695" height="454" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
