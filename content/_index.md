@@ -2,11 +2,11 @@
 _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
-  - title:
-    photo:
-    title_mobile:
-    photo_mobile: /img/mobile-hm-slider-storm-watching-2023.jpg
-    url: /storm-watching
+  - title: Catch Your Own Feast!
+    photo: /img/crab-feed-home-page-slider.jpg
+    title_mobile: Catch Your Own Feast!
+    photo_mobile: /img/crab-feed-mobile-slider.jpg
+    url: /crabbing-clamming
     video:
       cover: /img/storm-watching-home-video-placeholder.jpg
       source: /img/waves-web-slider-2023-sd-480p.mov
