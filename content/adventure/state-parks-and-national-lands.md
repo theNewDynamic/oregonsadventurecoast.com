@@ -20,7 +20,13 @@ The scenery that makes up the unique setting on Oregon’s Adventure Coast is sp
 
 ## State Parks
 
-![](/img/park-closure-010325.png)
+<div class="warning">
+    <img src="/img/blog-warning-icon.png" alt="Warning on this post">
+    <div>
+      <strong>Emergency Closure - Effective January 3, 2025</strong><br>
+A significant slide has occurred beyond the Sunset Bay campground, but prior to Shore Acres State Park, along the Cape Arago Highway. The slide has caused substantial undermining of the roadway, leading to its closure. As a result, both Shore Acres State Park and Cape Arago State Park are currently inaccessible to vehicular traffic.
+    </div>
+  </div>
 
 On the Oregon Coast, many of the beaches are state parks and our area is no exception. Along the 8 mile [Cape Arago Loop](/img/cape-arago-loop-itinerary.pdf) in Charleston you’ll find a trifecta of State Parks.
 
@@ -31,7 +37,7 @@ On the Oregon Coast, many of the beaches are state parks and our area is no exce
 <div class="warning">
     <img src="/img/blog-warning-icon.png" alt="Warning on this post">
     <div>
-      Shore Acres State Park is temporarily closed due to weather-related road damage. Stay tuned for updates.
+      Due to recent weather-related damage, the road to Shore Acres State Park is temporarily closed to vehicular traffic. Stay tuned for updates.
     </div>
   </div>
 
@@ -61,7 +67,7 @@ A network of hiking trails connects Sunset Bay with nearby Shore Acres and Cape 
 <div class="warning">
     <img src="/img/blog-warning-icon.png" alt="Warning on this post">
     <div>
-      Cape Arago State Park is temporarily closed due to weather-related road damage. Stay tuned for updates.
+      Due to recent weather-related damage, the road to Cape Arago State Park is temporarily closed to vehicular traffic. Stay tuned for updates.
     </div>
   </div>
 
