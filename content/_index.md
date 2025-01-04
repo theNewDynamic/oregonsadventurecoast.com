@@ -2,9 +2,9 @@
 _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
-  - title: Get to Crabbing!
+  - title: Catch Your Own Feast!
     photo: /img/crab-feed-home-page-slider.jpg
-    title_mobile: Get to Crabbing!
+    title_mobile: Catch Your Own Feast!
     photo_mobile: /img/crab-feed-mobile-slider.jpg
     url: /crabbing-clamming
     video:
