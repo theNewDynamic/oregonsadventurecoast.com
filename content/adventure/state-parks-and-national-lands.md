@@ -38,7 +38,7 @@ On the Oregon Coast, many of the beaches are state parks and our area is no exce
 <div class="warning">
     <img src="/img/blog-warning-icon.png" alt="Warning on this post">
     <div>
-      Shore Acres State Park is temporarily closed due to weather-related road damage. Stay tuned for updates.
+      Due to recent weather-related damage, the road to Shore Acres State Park is temporarily closed to vehicular traffic. Stay tuned for updates.
     </div>
   </div>
 
@@ -68,7 +68,7 @@ A network of hiking trails connects Sunset Bay with nearby Shore Acres and Cape 
 <div class="warning">
     <img src="/img/blog-warning-icon.png" alt="Warning on this post">
     <div>
-      Cape Arago State Park is temporarily closed due to weather-related road damage. Stay tuned for updates.
+      Due to recent weather-related damage, the road to Cape Arago State Park is temporarily closed to vehicular traffic. Stay tuned for updates.
     </div>
   </div>
 
