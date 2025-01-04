@@ -28,6 +28,13 @@ On the Oregon Coast, many of the beaches are state parks and our area is no exce
 
 ![](/img/ShoreAcres-State-Park-v02-695x125.jpg)
 
+<div class="warning">
+    <img src="/img/blog-warning-icon.png" alt="Warning on this post">
+    <div>
+      Due to recent weather related damage, the road to Shore Acres State Park will be closed for the unforseeable future. Stay tuned as we wait for news. 
+    </div>
+  </div>
+
 <a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=68" target="_blank" rel="noopener"><strong>Shore Acres State Park</strong></a>, the Oregon Coast’s crown jewel, was once the private estate of lumber baron, Louis Simpson, founder of the community of North Bend. Perched on rugged sandstone cliffs high above the ocean, Shore Acres State Park is an exciting and unexpected combination of beautiful natural and constructed features, including lushly planted gardens with plants and flowers from all over the world. Something is in bloom almost every day of the year.
 
 In the landscaped area you'll discover a formal garden, a Japanese-style garden with a lily pond, and two rose gardens which include All American Rose Selections. From Thanksgiving through New Year's Eve, the gardens are ablaze with thousands of colored lights and holiday decorations put up by community volunteers and The Friends of Shore Acres in cooperation with the Oregon Parks and Recreation Department. [Click here](https://shoreacres.net/) for more information on Holiday Lights.
@@ -73,6 +80,8 @@ Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the casc
 {{< spacer 25 >}}
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772859196145840%2F&amp;show_text=0&amp;width=695" width="695" height="454" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+
+&nbsp;
 
 &nbsp;
 
