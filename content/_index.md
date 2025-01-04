@@ -8,8 +8,6 @@ slideshow:
     photo_mobile: /img/crab-feed-mobile-slider.jpg
     url: /crabbing-clamming
     video:
-      cover: /img/storm-watching-home-video-placeholder.jpg
-      source: /img/waves-web-slider-2023-sd-480p.mov
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /live-cam
