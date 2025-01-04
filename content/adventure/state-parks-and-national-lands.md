@@ -31,7 +31,7 @@ On the Oregon Coast, many of the beaches are state parks and our area is no exce
 <div class="warning">
     <img src="/img/blog-warning-icon.png" alt="Warning on this post">
     <div>
-      Due to recent weather related damage, the road to Shore Acres State Park will be closed for the unforseeable future. Stay tuned as we wait for news. 
+      Shore Acres State Park is temporarily closed due to weather-related road damage. Stay tuned for updates.
     </div>
   </div>
 
@@ -58,6 +58,12 @@ A network of hiking trails connects Sunset Bay with nearby Shore Acres and Cape 
 {{< spacer 50 >}}
 
 ![Cape Arago State Park on Oregon's Adventure Coast](/img/Cape-Arago-State-Park-695x125.jpg)
+<div class="warning">
+    <img src="/img/blog-warning-icon.png" alt="Warning on this post">
+    <div>
+      Cape Arago State Park is temporarily closed due to weather-related road damage. Stay tuned for updates.
+    </div>
+  </div>
 
 <a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=66" target="_blank" rel="noopener"><strong>Cape Arago State Park</strong></a>, may be the end of the road (the road out of Coos Bay goes no further), but it's really only the beginning if you want to explore the southern Oregon coast.
 
