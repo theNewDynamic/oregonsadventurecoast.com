@@ -84,6 +84,8 @@ Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the casc
 
 &nbsp;
 
+&nbsp;
+
 <div class="margin-50px-top">&nbsp;</div>
 
 ![Wave Crash at Shore Acres State Park - Winter Stormwatching!](/img/wave-crash-charleston-bandon-tour.jpg)
