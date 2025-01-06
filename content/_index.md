@@ -20,6 +20,12 @@ slideshow:
     photo_mobile:
     url: /beaches
     video:
+  - title:
+    photo: /img/cultural-experience-hm-slider-2048-850.jpg
+    title_mobile:
+    photo_mobile:
+    url:
+    video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /live-cam
