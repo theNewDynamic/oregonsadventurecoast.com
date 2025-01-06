@@ -28,13 +28,19 @@ More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or 
 
 {{< spacer 25 >}}
 
-***Tickets on sale Soon! Tickets will be available at the door as well!***
+#### <a href="https://www.eventbrite.com/e/40th-annual-crab-feed-fundraiser-tickets-1129860686729?aff=oddtdtcreator" target="_blank" rel="noopener"><em><strong>TICKETS ON SALE NOW!</strong></em></a> *** ***
+
+***Tickets will also be available at the door as well!***
 
 {{< spacer 25 >}}
 
 Fresh Crab Meals, Whole or Half Crab; or choose the Hot Dog option for those who don't like crab!!!&nbsp;
 
-**Prices are based on Market Value -**&nbsp;*Information coming soon.*
+**Prices are based on Market Value**
+
+Whole Crab Meal - $35<br>Half Crab Meal - $22<br>Gourmet Hot Dog Meal - $14
+
+{{< spacer "15" >}}
 
 ![](/img/crab-feed-collage.jpg)
 
