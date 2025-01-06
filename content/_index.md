@@ -8,6 +8,18 @@ slideshow:
     photo_mobile: /img/crab-feed-mobile-slider.jpg
     url: /crabbing-clamming
     video:
+  - title: World-Class Mtn Biking
+    photo: /img/whiskey-run-home-slider-2048x850.jpg
+    title_mobile:
+    photo_mobile:
+    url: /cycling
+    video:
+  - title: Breathtaking Beaches
+    photo: /img/bastendorff-home-slider-2048x850.jpg
+    title_mobile:
+    photo_mobile:
+    url: /beaches
+    video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /live-cam
