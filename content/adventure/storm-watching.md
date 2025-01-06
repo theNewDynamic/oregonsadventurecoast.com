@@ -20,8 +20,10 @@ aliases:
 
 ## THE MAJESTY OF MOTHER NATURE
 
+{{< spacer "25" >}}
+
 <div class="warning">
-    <img src="/img/blog-warning-icon.png" alt="Warning - road to Shore Acres State Park is closed to vehicular traffic">
+    <img src="/img/blog-warning-icon.png" alt="Warning - road to Shore Acres State Park is closed to vehicular traffic" />
     <div>
       Due to recent weather-related damage, the road to Shore Acres State Park is temporarily closed to vehicular traffic. Stay tuned for updates.
     </div>
