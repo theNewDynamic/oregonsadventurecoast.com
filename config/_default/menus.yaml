@@ -26,9 +26,6 @@ our_area:
 - url: /relocation-info-request
   name: Relocation Info Request
   weight: 80
-- url: /covid-19
-  weight: 90
-  name: Coronavirus update
 
 travelers:
 - url: http://www.flyoth.com/
