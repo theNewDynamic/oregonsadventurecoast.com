@@ -36,7 +36,7 @@ aliases:
 
 {{< spacer "15" >}}
 
-#### Bring your friends, bring your family and enjoy the Only Ice Skating Rink on the Oregon Coast! From early December through Valentine's Day, lace up a pair of skates and take to the ice.&nbsp;
+**Bring your friends, bring your family and enjoy the Only Ice Skating Rink on the Oregon Coast! Lace up a pair of skates and take to the ice.**&nbsp;
 
 {{< spacer 25 >}}
 
