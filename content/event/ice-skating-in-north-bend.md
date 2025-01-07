@@ -30,7 +30,7 @@ smallboxphoto: /img/icerink-helpers-340x214.jpg
 aliases:
   - /ice-skating
 ---
-![](/img/icerink-festive-med.jpg)
+![Ice skating father and daughter in north bend, oregon](/img/ice-skating-father-daughter-695.jpg)
 
 #### Ice Skating on the Oregon Coast! THROUGH FEBRUARY 16, 2025!!!!
 
@@ -40,7 +40,11 @@ aliases:
 
 {{< spacer 25 >}}
 
-![Skating helpers all in a row.](/img/icerink-helpers-med.jpg "Even the skating helpers are festive!")
+![family ice skating together in north bend, oregon](/img/family-skating.jpg "Even the skating helpers are festive!")
+
+![Family ice skating together and close up of blue ice skates in North Bend, Oregon](/img/girls-skating-close-up-skates.jpg)
+
+&nbsp;
 
 #### Cost:
 
