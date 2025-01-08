@@ -75,21 +75,24 @@ press_media:
   name: Email Us
   weight: 60
 open_meetings:
-- url: /open-meetings
-  name: Open Meetings
-  weight: 10
-- url: /stratplan
-  name: Strategic Plan
-  weight: 15
-- url: /staff-directory-meetings
-  name: Staff
-  weight: 20
-- url: /board-of-directors
-  name: Board Of Directors
-  weight: 30
 - url: /about-the-vcb
   name: About the VCB
-  weight: 40
+  weight: 10
+- url: /board-of-directors
+  name: Board Of Directors
+  weight: 20
 - url: /faq
   name: FAQ
+  weight: 30
+- url: /open-meetings
+  name: Open Meetings
+  weight: 40
+- url: /staff-directory-meetings
+  name: Staff
   weight: 50
+- url: /stratplan
+  name: Strategic Plan
+  weight: 60
+
+
+
