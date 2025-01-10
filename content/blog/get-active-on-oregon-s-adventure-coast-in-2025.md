@@ -71,7 +71,7 @@ Oregon’s Adventure Coast is a [runner’s paradise](https://www.oregonsadventu
 
 **Run with the locals.** Local groups like the [South Coast Running Club](https://southcoastrunningclub.org/) welcome newcomers and visitors who love to get out and be active with like-minded runners. Each week, there’s a chance to join the locals for a midweek [Hump Day Run](https://southcoastrunningclub.org/wednesday/) on Wednesday evenings or an invigorating [Thursday morning run](https://southcoastrunningclub.org/thursday/). We also recommend stopping by [Wild Coast Running Co.](https://www.wildcoastrunning.com/) in Coos Bay for quality athletic/running shoes, apparel, and accessories.
 
-{{< youtube id="v=igF3qT_t-dg" >}}
+{{< youtube id="igF3qT_t-dg" >}}
 
 ### Put the pedal to the metal.
 
