@@ -37,7 +37,7 @@ On the Oregon Coast, many of the beaches are state parks and our area is no exce
 <div class="warning">
     <img src="/img/blog-warning-icon.png" alt="Warning on this post">
     <div>
-      Due to recent weather-related damage, the road to Shore Acres State Park is temporarily closed to vehicular traffic. Stay tuned for updates.
+      Due to recent weather-related damage, the road to Shore Acres State Park is temporarily closed to vehicular traffic. Stay tuned for updates. The park remains open but is accessible only by hiking a 2-mile trail from the Sunset Bay Day Use Area to Shore Acres.
     </div>
   </div>
 
