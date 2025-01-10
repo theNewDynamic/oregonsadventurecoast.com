@@ -97,6 +97,8 @@ Grab your big, balloon tires and bring your bike down to the beaches and the dun
 
 Wherever you go fat tire biking on Oregon's Adventure Coast, [check the tides](https://www.usharbors.com/harbor/oregon/coos-bay-or/tides/) and try to go during low tide as much as possible. Beware of [sneaker waves](https://www.oregon.gov/oprd/PARKS/Pages/beach_safety.aspx) and stay off rocks and small, enclosed beaches. Respect the sensitive micro-environments, whether it’s birds or anemones you encounter.
 
+**RENTALS:** <a href="https://www.blueskybikeshop.com/" target="_blank" rel="noopener">Blue Sky Bike Shop</a> is **NOW OFFERING** fat tire bike rentals: Surly Bikes&nbsp;Wednesday (Med/Lg) and Ice Cream Truck (XL)! Give the shop a call (541-808-2646) or <a href="https://www.blueskybikeshop.com/articles/email-us-pg199.htm" target="_blank" rel="noopener">email</a> to reserve your rental today!
+
 {{< spacer "50" >}}
 
 ![Cyclist on gravel path in forest](/img/milli-mania-2-695x322.jpg)
