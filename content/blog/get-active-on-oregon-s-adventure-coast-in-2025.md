@@ -81,7 +81,7 @@ Oregon’s Adventure Coast is a [runner’s paradise](https://www.oregonsadventu
 
 Our friends at the [Front Street Community Bike Works](https://www.facebook.com/CoosCommunityBikes/) have put together a wonderful resource of cycling trail maps - click[here for the City Bike Riding Trails Map (PDF).](https://www.oregonsadventurecoast.com/img/FSCBW-BIKE-TRAIL-MAPS.pdf)
 
-{{< youtube id="v=Z-83k7KWCEM" >}}
+{{< youtube id="Z-83k7KWCEM" >}}
 
 ### Take a Hike!
 
@@ -97,7 +97,7 @@ Hiking on Oregon’s Adventure Coast offers adventures across a variety of lands
 * The[South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/ss/pages/default.aspx) (South Slough NERR)
 * Explore the many hidden “trails less traveled” on Oregon’s Adventure Coast, like [Empire Lakes Trail, Millicoma](https://www.coosbayor.gov/home/showpublisheddocument/182/637975270325000000)[Marsh Trail](https://coostrails.com/millacoma-marsh/), [Mingus Park](https://www.coosbayor.gov/community/city-parks/mingus-park), and [North Spit Of Coos Bay Trail System](https://www.blm.gov/visit/north-spit)
 
-{{< youtube id="v=4HPADFIXsNo" >}}
+{{< youtube id="4HPADFIXsNo" >}}
 
 ### Go Ice Skating.
 
@@ -113,7 +113,7 @@ Through February 16, 2025, enjoy ice skating at the [North Bend Ice Skating Rink
 
 <br>**Life’s a Beach!** The [undeveloped beaches](https://www.oregonsadventurecoast.com/undeveloped-beaches/) of Oregon’s Adventure Coast are a true natural treasure, offering miles of beautiful coastline perfect for surfing, swimming, running, walking the dog, or searching for hidden beach treasures. These uncrowded shores invite you to enjoy an invigorating walk or peaceful escape.
 
-{{< youtube id="https://www.youtube.com/watch?v=U3lLh7iPHIg" >}}
+{{< youtube id="U3lLh7iPHIg" >}}
 
 ### Tee up for adventure!
 
