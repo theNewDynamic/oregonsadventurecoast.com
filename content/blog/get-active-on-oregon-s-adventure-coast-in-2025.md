@@ -81,7 +81,7 @@ Oregon’s Adventure Coast is a [runner’s paradise](https://www.oregonsadventu
 
 Our friends at the [Front Street Community Bike Works](https://www.facebook.com/CoosCommunityBikes/) have put together a wonderful resource of cycling trail maps - click[here for the City Bike Riding Trails Map (PDF).](https://www.oregonsadventurecoast.com/img/FSCBW-BIKE-TRAIL-MAPS.pdf)
 
-{{< youtube id="v=Z-83k7KWCEM" >}}
+{{< youtube id="Z-83k7KWCEM" >}}
 
 ### Take a Hike!
 
@@ -97,7 +97,7 @@ Hiking on Oregon’s Adventure Coast offers adventures across a variety of lands
 * The[South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/ss/pages/default.aspx) (South Slough NERR)
 * Explore the many hidden “trails less traveled” on Oregon’s Adventure Coast, like [Empire Lakes Trail, Millicoma](https://www.coosbayor.gov/home/showpublisheddocument/182/637975270325000000)[Marsh Trail](https://coostrails.com/millacoma-marsh/), [Mingus Park](https://www.coosbayor.gov/community/city-parks/mingus-park), and [North Spit Of Coos Bay Trail System](https://www.blm.gov/visit/north-spit)
 
-{{< youtube id="v=4HPADFIXsNo" >}}
+{{< youtube id="4HPADFIXsNo" >}}
 
 ### Go Ice Skating.
 
@@ -113,7 +113,7 @@ Through February 16, 2025, enjoy ice skating at the [North Bend Ice Skating Rink
 
 <br>**Life’s a Beach!** The [undeveloped beaches](https://www.oregonsadventurecoast.com/undeveloped-beaches/) of Oregon’s Adventure Coast are a true natural treasure, offering miles of beautiful coastline perfect for surfing, swimming, running, walking the dog, or searching for hidden beach treasures. These uncrowded shores invite you to enjoy an invigorating walk or peaceful escape.
 
-{{< youtube id="https://www.youtube.com/watch?v=U3lLh7iPHIg" >}}
+{{< youtube id="U3lLh7iPHIg" >}}
 
 ### Tee up for adventure!
 
@@ -139,7 +139,7 @@ Stay active while enjoying the natural beauty of Coos Bay, North Bend, and Charl
 
 &nbsp;
 
-**Fitness-Friendly Hotels:** There are plenty of lodging options to help you stay on track with your fitness goals while exploring Oregon’s Adventure Coast. In North Bend, the **Itty Bitty Inn** provides complimentary bicycles for guests to explore the area, while **The Mill Casino • Hotel & RV Park** features a fitness center, pool, and relaxing hot tubs. In Coos Bay, **The Edgewater Inn** offers access to a fitness room, with some rooms featuring private hot tubs. Additionally, the **Best Western Holiday Hotel** and **Red Lion Hotel both** include a fitness room and pool, making it easier for guests to stay active during their stay.
+**Fitness-Friendly Hotels:** There are plenty of lodging options to help you stay on track with your fitness goals while exploring Oregon’s Adventure Coast. In North Bend, the **Itty Bitty Inn** provides complimentary bicycles for guests to explore the area, while **The Mill Casino • Hotel & RV Park** features a fitness center, pool, and relaxing hot tubs. In Coos Bay, **The Edgewater Inn** offers access to a fitness room, with some rooms featuring private hot tubs. In Coos Bay, the **Best Western Holiday Hotel** and **The Edgewater Inn** offer access to a fitness rooms and indoor heated pools, with some rooms featuring private hot tubs. Additionally, the **Red Lion Hotel** includes a fitness room and outdoor pool. Our fitness-friendly hotels make it easy for guests to stay active during their stay.
 
 [Click here](https://www.oregonsadventurecoast.com/lodging/) to see the complete list of all of our properties to find the one that's right for you!
 
