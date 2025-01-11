@@ -134,6 +134,9 @@ Oregon’s Adventure Coast is a dream destination for anyone who loves [a day of
 Stay active while enjoying the natural beauty of Coos Bay, North Bend, and Charleston. From campgrounds with trail access to hotels with top-notch amenities, here are some fitness-friendly places to stay:
 
 * **Campgrounds and RV Parks:** Many campgrounds and RV parks in the area provide easy access to outdoor adventures, making them ideal for fitness enthusiasts. If "glamping" is more your style, the Bay Point Landing Modern Camping Resort – Charleston features an indoor swimming pool and fitness center.
+
+  &nbsp;
+
 * **Fitness-Friendly Hotels:** There are plenty of lodging options to help you stay on track with your fitness goals while exploring Oregon’s Adventure Coast. In North Bend, the **Itty Bitty Inn** provides complimentary bicycles for guests to explore the area, while **The Mill Casino • Hotel & RV Park** features a fitness center, pool, and relaxing hot tubs. In Coos Bay, **The Edgewater Inn** offers access to a fitness room, with some rooms featuring private hot tubs. In Coos Bay, the **Best Western Holiday Hotel** and **The Edgewater Inn** offer access to a fitness rooms and indoor heated pools, with some rooms featuring private hot tubs. Additionally, the **Red Lion Hotel** includes a fitness room and outdoor pool. Our fitness-friendly hotels make it easy for guests to stay active during their stay.
 
 [Click here](https://www.oregonsadventurecoast.com/lodging/) to see the complete list of all of our properties to find the one that's right for you!
