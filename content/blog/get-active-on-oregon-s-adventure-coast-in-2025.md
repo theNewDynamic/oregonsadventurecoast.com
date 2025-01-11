@@ -139,7 +139,7 @@ Stay active while enjoying the natural beauty of Coos Bay, North Bend, and Charl
 
 &nbsp;
 
-**Fitness-Friendly Hotels:** There are plenty of lodging options to help you stay on track with your fitness goals while exploring Oregon’s Adventure Coast. In North Bend, the **Itty Bitty Inn** provides complimentary bicycles for guests to explore the area, while **The Mill Casino • Hotel & RV Park** features a fitness center, pool, and relaxing hot tubs. In Coos Bay, **The Edgewater Inn** offers access to a fitness room, with some rooms featuring private hot tubs. Additionally, the **Best Western Holiday Hotel** and **Red Lion Hotel both** include a fitness room and pool, making it easier for guests to stay active during their stay.
+**Fitness-Friendly Hotels:** There are plenty of lodging options to help you stay on track with your fitness goals while exploring Oregon’s Adventure Coast. In North Bend, the **Itty Bitty Inn** provides complimentary bicycles for guests to explore the area, while **The Mill Casino • Hotel & RV Park** features a fitness center, pool, and relaxing hot tubs. In Coos Bay, **The Edgewater Inn** offers access to a fitness room, with some rooms featuring private hot tubs. In Coos Bay, the **Best Western Holiday Hotel** and **The Edgewater Inn** offer access to a fitness rooms and indoor heated pools, with some rooms featuring private hot tubs. Additionally, the **Red Lion Hotel** includes a fitness room and outdoor pool. Our fitness-friendly hotels make it easy for guests to stay active during their stay.
 
 [Click here](https://www.oregonsadventurecoast.com/lodging/) to see the complete list of all of our properties to find the one that's right for you!
 
