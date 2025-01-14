@@ -12,6 +12,8 @@ seo:
 aliases:
   - /activities/category/beach
   - /listings/bastendorff-beach
+  - /beaches
+  - /beach
 accordion_sections:
   - title: ''
     accordions:
