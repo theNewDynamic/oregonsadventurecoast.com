@@ -51,25 +51,10 @@ The [state parks](https://www.oregonsadventurecoast.com/state-parks-and-national
 By now, you probably have heard about the extreme flooding and the small landslide in early January that damaged a section of the Cape Arago Beach Loop, temporarily limiting vehicle access to [Shore Acres](https://shoreacres.net/) and [Cape Arago State Parks](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=66). In this post, we’ll share the latest updates, answer common questions, and suggest alternatives for enjoying these beautiful state parks on Oregon’s South Coast this winter. Here is what we know so far:
 
 * On January 3, 2025, heavy rain and flooding caused a landslide that undercut a section of Cape Arago Highway (Oregon Route 540) near Norton’s Gulch, between Sunset Bay State Park and Shore Acres State Park.
-
-  &nbsp;
-
 * The landslide caused significant roadway damage but fortunately resulted in no injuries.
-
-  &nbsp;
-
 * Oregon Route 540 is temporarily closed to vehicle traffic, cutting off vehicle access to Shore Acres and Cape Arago State Parks. The road closure is past the entrances to both the Sunset Bay Campground and the Sunset Bay Golf Course.
-
-  &nbsp;
-
 * The Sunset Bay State Park day-use area remains open and accessible by vehicle, unaffected by the landslide. While the campground initially closed due to flooding, it has since reopened to campers, though availability may change with weather conditions.
-
-  &nbsp;
-
 * The [Oregon Parks and Recreation Department](https://www.oregon.gov/oprd/pages/index.aspx) (OPRD) is working with contractors and engineers to assess the damage and determine repair timelines for Cape Arago Loop. No estimated completion date is available yet.
-
-  &nbsp;
-
 * [Hiking trails](https://www.oregonsadventurecoast.com/hiking-walking/) along Cape Arago Highway, including a portion of the Oregon Coast Trail, remain open and safe for use. Visitors can access Shore Acres and Cape Arago State Parks via these trails.
 
 ![](/img/cape-arago-highway-landslide.jpg)
@@ -141,6 +126,8 @@ For easier access by vehicle, consider these alternative storm-watching location
 **Can I Take My Dog?** Yes, hikers with dogs can use the Oregon Coast Trail section that runs from Sunset Bay State Park to Cape Arago State Park, passing through Shore Acres State Park. However, dogs must remain on the trail or in the parking lot area only. Dogs are not permitted near the Observation Building, bathroom areas, or within the gardens (currently closed).
 
 ### **Looking for Alternatives?**
+
+![](/img/cape-arago-highway-closure-blog-695x322-jpg.png)
 
 If hiking to Shore Acres State Park and/or Cape Arago State Park from Sunset Bay State Park isn’t an option for you, there are plenty of other destinations along the [Charleston to Bandon Tour Route](https://www.oregonsadventurecoast.com/img/charleston-to-bandon-map.pdf) that offer beautiful vistas and unique experiences. Bring your camera and take lots of photos!
 
