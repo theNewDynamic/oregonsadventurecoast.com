@@ -18,7 +18,7 @@ slideshow:
     photo: /img/bastendorff-home-slider-2048x850.jpg
     title_mobile:
     photo_mobile:
-    url: /beaches
+    url: /undeveloped-beaches
     video:
   - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
