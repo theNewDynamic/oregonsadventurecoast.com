@@ -46,9 +46,11 @@ warning: false
 ---
 ***Cape Arago Highway (Oregon Route 540) Closure: What It Means for Visitors to Shore Acres and Cape Arago State Parks...for Now.***
 
-The [state parks](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) and [undeveloped beaches](https://www.oregonsadventurecoast.com/undeveloped-beaches/) along the [Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/) are among the most cherished destinations on the Oregon Coast. Known for their scenic trails, beaches, and wildlife, including seals and sea lions, these parks showcase the true beauty of Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston.
+The [state parks](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) and [undeveloped beaches](https://www.oregonsadventurecoast.com/undeveloped-beaches/) along the [Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/) are among the most cherished destinations on the Oregon Coast. Known for their scenic trails, beaches, and wildlife, including seals and sea lions, these parks showcase the true beauty of **Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston**.
 
-By now, you probably have heard about the extreme flooding and the small landslide in early January that damaged a section of the Cape Arago Beach Loop, temporarily limiting vehicle access to [Shore Acres](https://shoreacres.net/) and [Cape Arago State Parks](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=66). In this post, we’ll share the latest updates, answer common questions, and suggest alternatives for enjoying these beautiful state parks on Oregon’s South Coast this winter. Here is what we know so far:
+By now, you probably have heard about the extreme flooding and the small landslide in early January that damaged a section of the Cape Arago Beach Loop, temporarily limiting vehicle access to [Shore Acres](https://shoreacres.net/) and [Cape Arago State Parks](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=66). In this post, we’ll share the latest updates, answer common questions, and suggest alternatives for enjoying these beautiful state parks on Oregon’s South Coast this winter.
+
+Here is what we know so far:
 
 * On January 3, 2025, heavy rain and flooding caused a landslide that undercut a section of Cape Arago Highway (Oregon Route 540) near Norton’s Gulch, between Sunset Bay State Park and Shore Acres State Park.
 * The landslide caused significant roadway damage but fortunately resulted in no injuries.
@@ -103,6 +105,8 @@ OPRD spokesperson Lee Ricci emphasizes the importance of keeping visitors inform
 * Stay on designated trails to avoid further damage to the landscape and [follow Leave No Trace principles](https://www.oregonsadventurecoast.com/blog/leave-no-trace-7-guidelines-to-protect-oregon-s-adventure-coast-for-future-visitors/).
 * **Pro Tip:** Bring binoculars to enhance your experience. You’ll have excellent chances to spot sea lions, harbor seals, migrating whales, and seabirds from various viewpoints along the trail.
 
+![photographer watching storm waves](/img/extraordinary-winter-storm-images-blog-695x322-jpg.jpg "Shore Acres provides some of the most dramatic storm watching on the coast.")
+
 **What About Storm-Watching?** If you want to view the high surf and dramatic waves from Shore Acres and Cape Arago State Parks, you will have to walk there via the OCT from Sunset Bay State Park as mentioned above. However, hikers should exercise extreme caution. Emergency services may have difficulty reaching these areas due to road closures, so travel at your own risk. For your safety, stay on marked trails, avoid cliffs and unmarked areas, and keep a distance from the water. Bring a buddy, inform someone of your plans, and share your expected return time.
 
 For easier access by vehicle, consider these alternative storm-watching locations:
@@ -110,7 +114,9 @@ For easier access by vehicle, consider these alternative storm-watching location
 * **Bastendorff Beach Bluff**: Offers fantastic views of the ocean from a safe, elevated location.
 * **Sunset Bay State Park**: A convenient spot for wave-watching near the day-use parking area.
 
-**\*\*Safety Tips for Storm Watching during High Surf Events\*\***
+{{< spacer "15" >}}
+
+#### **\*\*Safety Tips for Storm Watching during High Surf Events\*\***
 
 * Check weather forecasts and tide charts to ensure safety during high surf events.
 * Stay on marked trails and avoid getting too close to cliffs or beaches.
