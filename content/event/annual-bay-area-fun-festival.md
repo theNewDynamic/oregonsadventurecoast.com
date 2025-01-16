@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Annual Bay Area Fun Festival 2024
+title: Annual Bay Area Fun Festival 2025
 startdate: '2025-09-20'
 enddate: '2025-09-21'
 address:
