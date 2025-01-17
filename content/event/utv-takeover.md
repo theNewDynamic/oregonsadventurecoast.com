@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: UTV TakeOver 2024
-startdate: '2024-06-25'
-enddate: '2024-06-30'
+title: UTV TakeOver 2025
+startdate: '2025-06-24'
+enddate: '2025-06-29'
 address:
   city: North Bend
   state: OR
@@ -27,7 +27,9 @@ largeboxphoto: /img/dunes-event-large.jpg
 mediumboxphoto: /img/dunes-event-medium.jpg
 smallboxphoto: /img/dunes-event-small.jpg
 ---
-**Every year, thousands of UTV enthusiasts from around the country participate in the largest community riding event of the year in Coos Bay/North Bend. This year's events are scheduled for June 25-30, 2024.**
+**Every year, thousands of UTV enthusiasts from around the country participate in the largest community riding event of the year in Coos Bay/North Bend. This year's events are scheduled for June 24-29, 2025.**
+
+**This year marks the 10th Anniversary of the UTV Takeover!**
 
 ![](/img/utv-takeover-2023-tour-logo-500px.png)
 
