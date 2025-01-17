@@ -9,6 +9,8 @@ address:
   street: Charleston's Marine Biology Institute
   street2: 63466 Boat Basin Road
   zip: '97420'
+phone_local: 541-260-6187
+website: https://charlestonoregon.org/
 desktoptitle: Annual Charleston Crab Feed
 mobiletitle: Charleston Crab Feed
 hovertitle: Annual Charleston Crab Feed
@@ -28,7 +30,7 @@ More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or 
 
 {{< spacer 25 >}}
 
-#### <a href="https://www.eventbrite.com/e/40th-annual-crab-feed-fundraiser-tickets-1129860686729?aff=oddtdtcreator" target="_blank" rel="noopener"><em><strong>TICKETS ON SALE NOW!</strong></em></a> *** ***
+#### <a href="https://www.eventbrite.com/e/40th-annual-crab-feed-fundraiser-tickets-1129860686729?aff=oddtdtcreator" target="_blank" rel="noopener"><em><strong>TICKETS ON SALE NOW!</strong></em></a> \*\*\* \*\*\*
 
 ***Tickets will also be available at the door as well!***
 
