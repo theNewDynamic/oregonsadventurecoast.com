@@ -53,3 +53,7 @@ Whole Crab Meal - $35<br>Half Crab Meal - $22<br>Gourmet Hot Dog Meal - $14
 This is the Main Fundraiser for the Charleston Visitors Center, but also provides assistance to other needs in the Charleston Community.
 
 Businesses from Charleston, Coos Bay and North Bend support this event with donations. Make sure to get your raffle tickets when you arrive for a chance at a number of great prizes!
+
+![woman holding dungeness crab by claws](/img/woman-holding-cooked-crab.jpg)
+
+&nbsp;
