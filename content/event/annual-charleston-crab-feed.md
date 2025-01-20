@@ -54,6 +54,6 @@ This is the Main Fundraiser for the Charleston Visitors Center, but also provide
 
 Businesses from Charleston, Coos Bay and North Bend support this event with donations. Make sure to get your raffle tickets when you arrive for a chance at a number of great prizes!
 
-![woman holding dungeness crab by claws](/img/woman-holding-cooked-crab.jpg)
+![woman holding Dungeness crab by claws](/img/woman-holding-cooked-crab.jpg)
 
 &nbsp;
