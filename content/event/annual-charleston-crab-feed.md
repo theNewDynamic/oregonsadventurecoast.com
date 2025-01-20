@@ -20,7 +20,7 @@ largeboxphoto: /img/crab-feed-charleston-large.jpg
 mediumboxphoto: /img/crab-feed-charleston-medium.jpg
 smallboxphoto: /img/crab-feed-charleston-small.jpg
 ---
-![Annual Charleston Crab Feed Logo](/img/crab-feed-logo.jpg)
+![Annual Charleston Crab Feed Logo](/img/crab-feed-logo-2025.jpg)
 
 Join your friends from **Oregon's Adventure Coast: Coos Bay, North Bend & Charleston** for a feast of delicious Dungeness Crab at the **40th Annual Charleston Crab Feed**!
 
@@ -44,7 +44,9 @@ Whole Crab Meal - $35<br>Half Crab Meal - $22<br>Gourmet Hot Dog Meal - $14
 
 {{< spacer "15" >}}
 
-![](/img/crab-feed-collage.jpg)
+![Dungeness crab on picnic table](/img/crab-on-table.jpg)
+
+![Couple with large crab feed food plate and ship with pile of crabs](/img/photo-collage-forcrab-feed.jpg)
 
 **Truly a Community Affair!** The 900+ lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab. The Charleston Fishing Families is serving dessert, and all proceeds from the desserts benefits that organization. South Slough Estuary and the Oregon Crab Commission will also be on hand with information. The Charleston Marine Life Center will be open all day!
 
