@@ -20,11 +20,11 @@ Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Musi
 ### The prize giveaway includes:
 
 * Two All Access Passes to the 2024 South Coast Clambake Music Festival in North Bend, Oregon *(Value $200)*
-* Three-Night Stay at <a target="_blank" rel="noopener" href="https://www.themillcasino.com/">The Mill Casino • Hotel &amp; RV Park</a> for Two in Double Room&nbsp;*(Value $900. Some restrictions may apply)*
-* Grab a Bite At:<br>\-&nbsp;<a target="_blank" rel="noopener" href="https://northbendlanes.com/Back-Alley-Pub-Grill">Back Alley Pub &amp; Grill</a>&nbsp;*(Value $40. Some restrictions may apply)*<br>\-&nbsp;<a target="_blank" rel="noopener" href="https://www.blueheronbistro.net/">Blue Heron Bistro</a> *(Value $50. Some restrictions may apply)*
+* Three-Night Stay at <a href="https://www.themillcasino.com/" target="_blank" rel="noopener">The Mill Casino • Hotel &amp; RV Park</a> for Two in Double Room&nbsp;*(Value $900. Some restrictions may apply)*
+* Grab a Bite At:<br>\-&nbsp;<a href="https://northbendlanes.com/Back-Alley-Pub-Grill" target="_blank" rel="noopener">Back Alley Pub &amp; Grill</a>&nbsp;*(Value $40. Some restrictions may apply)*<br>\-&nbsp;<a href="https://www.blueheronbistro.net/" target="_blank" rel="noopener">Blue Heron Bistro</a> *(Value $50. Some restrictions may apply)*
 * **Total value of this prize package is over $1,100!**
 
-<div class="cms-embed" data-cms-embed="PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly9mb3JtLmpvdGZvcm0uY29tL2pzZm9ybS8yNDAyNDYxMzYwMzExNDAiPjwvc2NyaXB0Pg=="><script type="text/javascript" src="https://form.jotform.com/jsform/240246136031140"></script></div>
+<div class="cms-embed"><script type="text/javascript" src="https://form.jotform.com/jsform/240246136031140"></script></div>
 
 ### {{< spacer "30" >}}
 
@@ -36,7 +36,7 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 
 ![south coast clambake music festival bands playing music](/img/clambake-giveaway-collage.jpg)
 
-The South Coast Clambake Music Festival is held at <a target="_blank" rel="noopener" href="https://themillcasino.com">The Mill Casino • Hotel &amp; RV Park</a> on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**! The Mill hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar!
+The South Coast Clambake Music Festival is held at <a href="https://themillcasino.com" target="_blank" rel="noopener">The Mill Casino • Hotel &amp; RV Park</a> on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**! The Mill hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar!
 
 ### Featuring the Music of Bands All Across these United States!
 
