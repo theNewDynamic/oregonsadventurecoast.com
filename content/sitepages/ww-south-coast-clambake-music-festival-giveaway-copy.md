@@ -2,7 +2,7 @@
 _schema: default
 title: WW-South Coast Clambake Music Festival Giveaway COPY
 draft: false
-url: ww-clambake-giveaway-copy
+url: /ww-clambake-giveaway-copy
 layout: contact
 photo: /img/clambake-music-fest-header-04.jpg
 seo:
