@@ -38,6 +38,26 @@ One of the nicest things about forest bathing is that it’s easy to do. Remembe
 * While it’s best not to have distractions, writing in a journal about what you’re experiencing can enhance your forest bathing experience by connecting you more closely with your surroundings. A small sketch pad or art set can provide a similar connection.
 * Breathe deeply. Not only will it help you slow down and focus on the moment, but if you’re in a forest full of trees, you’ll enjoy some physical benefits as well. Trees and plants emit antimicrobial compounds called phytoncides that, when inhaled, have been shown to strengthen the immune system. Forests have higher oxygen levels than urban areas, so breathing deeply helps bring in oxygen-rich air that’s good for the body and mind.
 
-  &nbsp;
+If you enjoy activities like yoga or tai chi, consider doing them outside in nature while you’re forest bathing. The benefits of the movements and mindfulness will be multiplied.
 
-  If you enjoy activities like yoga or tai chi, consider doing them outside in nature while you’re forest bathing. The benefits of the movements and mindfulness will be multiplied.
+**When – and how long – to forest bathe**
+
+Simply put, ** ** anytime is the right time for forest bathing. That said, there are no doubt times that may be more enjoyable than others – largely when the weather is pleasant. While you can engage your senses and be fully present in the moment when you’re outside in the middle of a rainstorm, you’re more likely to feel the positive impacts from forest bathing if you’re not shaking from the cold or roasting under a heat dome sun.
+
+Research has suggested that a minimum of two hours spent forest bathing will provide the biggest benefits, but don’t discount a shorter stint. A 15-minute solo stroll through a wooded park will be much better for you than another 15 minutes of scrolling on your phone.
+
+**Where to forest bathe**
+
+When the concept of forest bathing first came to light in the 1980s in Japan, stressed-out tech and industrial workers found respite on newly created nature trails designed to help them decompress. Since then – and since the health and emotional benefits of forest bathing have been researched and proven – it’s become clear that just about anywhere outside can work: forests, beaches, nature preserves, mountains, coastal overlooks, riverside trails, lakes, even urban parks and greenspaces.
+
+Here on Oregon’s Adventure Coast, the options are limitless. A few ideas:
+
+* [Sunset Bay State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) – Stroll across the sandy beach here, find a quiet spot to sit and breathe in the ocean breeze as it flows through the surrounding evergreens. There’s also a series of hiking trails that lead through swaying coastal forests, past wildflowers and along stunning cliff-top viewpoints.
+* [Cape Arago State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) – The views near this Pacific headland are dramatic, wild – and just right for a long session of mindful contemplation. Watch and listen for offshore seals and sea lions as well.
+* [Shore Acres State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) – Shore Acres State Park offers forest bathing options of all kinds, from beautiful, landscaped gardens to jagged shorelines that erupt and thunder with the crashing waves to forest trails that connect Shore Acres to Sunset Bay and Cape Arago State Parks.
+* [Horsfall Beach](https://www.oregonsadventurecoast.com/undeveloped-beaches) – One of the area’s pristine beaches, Horsfall Beach stretches north of North Bend. An easy walk can take you to a quiet hideaway surrounded by tall dune grass and far-off ocean views.
+* [Golden and Silver Falls State Natural Area](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=67) – A combination of plunging waterfalls, meandering creeks, and windswept forests await the forest bather at this inland gem. Short, easy hikes through the trees lead to awe-inspiring views of the two waterfalls.
+* [Mingus Park](https://www.coosbayor.gov/community/city-parks/mingus-park) – It’s in Coos Bay proper, but that doesn’t mean Mingus Park isn’t ideal for forest bathing. This park has a scenic pond and oriental garden with a quiet trail that winds its way through the grounds.
+* [Simpson Park](https://www.northbendoregon.us/facilityview.aspx?fid=25) – North Bend’s Simpson Park is strewn with pretty trees, green grass, and a pleasant nature trail that offers forest bathing goodness not far off the beaten path.
+* [John Topits Park](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes)[\[1\]](#_msocom_1) – With multiple peaceful lakes surrounded by protected coastal dunes and forest land, it’s hard to find a better place for a nature escape in Coos Bay than John Topits Park. Wander the shores of the Empire Lakes across some 5.5 miles of trails or just find a quiet cove, pull up a seat, and let the bathing begin. Another option: Launch a kayak on Middle Empire Lake and soak in the meditative benefits of forest bathing from out on the water.
+* [South Slough Reserve](https://www.oregon.gov/dsl/ss/Pages/default.aspx) – This is a valuable education center that’s home to forests, salt marshes, mudflats, and water channels that all comprise habitat for a range of local wildlife. Easy trails meander through it, providing ample opportunity for quiet time in nature.
