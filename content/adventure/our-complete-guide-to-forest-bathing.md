@@ -4,13 +4,13 @@ title: Our Complete Guide to Forest Bathing
 url: /forest-bathing-guide
 photo: /img/forest-bathing-page-header.jpg
 ---
-**What is forest bathing?**
+### What is forest bathing?
 
 Forest bathing is the practice of taking in the forest – or any natural, outside environment – through all of the senses. But it’s more than just soaking up the outside world; it’s also about being mindful and interacting with your natural surroundings – the sites, sounds, smells, and textures – to absorb the scientifically proven benefits of spending quiet time in nature.
 
 The concept of forest bathing originated in the 1980s in Japan, where it’s known as *shinrin-yoku.* According to [Harvard Medical School](https://www.health.harvard.edu/blog/can-forest-therapy-enhance-health-and-well-being-2020052919948), tech and industrial workers in Japan at the time were showing an increase in stress-related illnesses, which triggered leaders to create nature trails to entice people outside. Benefits ensued, including reduced stress, improved attention spans, boosted immune systems, and overall better moods.
 
-**Why forest bathe?**
+### Why forest bathe?
 
 Less stress. A sense of wonder. Experiencing natural beauty. Lowered blood pressure and a stronger immune system.
 
@@ -20,13 +20,13 @@ Another study in Japan showed that people who spent two nights and three days in
 
 Additionally, according to the [National Library of Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC2793341/#:~:text=A%20forest%20bathing%20trip%20involves,limonene%20%5B1%E2%80%934%5D.), [trees emit natural oils]()[\[1\]](#_msocom_1) called phytoncides that have been proven to enhance the immune system, lower blood pressure, ward off depression and help cut anxiety.
 
-**Who can do it?**
+### Who can do it?
 
 The simple answer: anyone. Young, old, fast, slow, stressed, or carefree, forest bathing is something that everyone can do. It’s not supposed to be strenuous. It is meant to help people slow down, relax, be mindful, and re-center themselves. Forest bathing also imparts the real benefits of time spent outside, which are physically and mentally good for anyone.
 
 Those who are more adventurous may find themselves hiking deep into one of the towering forests on Oregon’s Adventure Coast or making their way across the storied sand dunes. But forest bathing works just as well for those who want to walk just a few steps to a quiet greenspace, a peaceful park or a Pacific Ocean overlook, which are abundant on Oregon’s Adventure Coast.
 
-**How to forest bathe**
+### How to forest bathe
 
 One of the nicest things about forest bathing is that it’s easy to do. Remember, it’s all about being outside, in nature, quietly, slowing everything down and engaging all of your senses and being mindful, in the moment.
 
@@ -40,13 +40,13 @@ One of the nicest things about forest bathing is that it’s easy to do. Remembe
 
 If you enjoy activities like yoga or tai chi, consider doing them outside in nature while you’re forest bathing. The benefits of the movements and mindfulness will be multiplied.
 
-**When – and how long – to forest bathe**
+### When – and how long – to forest bathe
 
-Simply put, ** ** anytime is the right time for forest bathing. That said, there are no doubt times that may be more enjoyable than others – largely when the weather is pleasant. While you can engage your senses and be fully present in the moment when you’re outside in the middle of a rainstorm, you’re more likely to feel the positive impacts from forest bathing if you’re not shaking from the cold or roasting under a heat dome sun.
+Simply put, anytime is the right time for forest bathing. That said, there are no doubt times that may be more enjoyable than others – largely when the weather is pleasant. While you can engage your senses and be fully present in the moment when you’re outside in the middle of a rainstorm, you’re more likely to feel the positive impacts from forest bathing if you’re not shaking from the cold or roasting under a heat dome sun.
 
 Research has suggested that a minimum of two hours spent forest bathing will provide the biggest benefits, but don’t discount a shorter stint. A 15-minute solo stroll through a wooded park will be much better for you than another 15 minutes of scrolling on your phone.
 
-**Where to forest bathe**
+### Where to forest bathe
 
 When the concept of forest bathing first came to light in the 1980s in Japan, stressed-out tech and industrial workers found respite on newly created nature trails designed to help them decompress. Since then – and since the health and emotional benefits of forest bathing have been researched and proven – it’s become clear that just about anywhere outside can work: forests, beaches, nature preserves, mountains, coastal overlooks, riverside trails, lakes, even urban parks and greenspaces.
 
