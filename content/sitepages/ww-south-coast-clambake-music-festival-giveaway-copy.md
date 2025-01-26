@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: WW-South Coast Clambake Music Festival Giveaway COPY
-draft: true
+draft: false
 url: ww-clambake-giveaway-copy
 layout: contact
 photo: /img/clambake-music-fest-header-04.jpg
@@ -20,11 +20,8 @@ Enter to win **two All Access Event Passes to the 2024 South Coast Clambake Musi
 ### The prize giveaway includes:
 
 * Two All Access Passes to the 2024 South Coast Clambake Music Festival in North Bend, Oregon *(Value $200)*
-
 * Three-Night Stay at <a target="_blank" rel="noopener" href="https://www.themillcasino.com/">The Mill Casino • Hotel &amp; RV Park</a> for Two in Double Room&nbsp;*(Value $900. Some restrictions may apply)*
-
 * Grab a Bite At:<br>\-&nbsp;<a target="_blank" rel="noopener" href="https://northbendlanes.com/Back-Alley-Pub-Grill">Back Alley Pub &amp; Grill</a>&nbsp;*(Value $40. Some restrictions may apply)*<br>\-&nbsp;<a target="_blank" rel="noopener" href="https://www.blueheronbistro.net/">Blue Heron Bistro</a> *(Value $50. Some restrictions may apply)*
-
 * **Total value of this prize package is over $1,100!**
 
 <div class="cms-embed" data-cms-embed="PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly9mb3JtLmpvdGZvcm0uY29tL2pzZm9ybS8yNDAyNDYxMzYwMzExNDAiPjwvc2NyaXB0Pg=="><script type="text/javascript" src="https://form.jotform.com/jsform/240246136031140"></script></div>
