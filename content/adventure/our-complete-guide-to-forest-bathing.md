@@ -22,11 +22,15 @@ Another study in Japan showed that people who spent two nights and three days in
 
 Additionally, according to the [National Library of Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC2793341/#:~:text=A%20forest%20bathing%20trip%20involves,limonene%20%5B1%E2%80%934%5D.), [trees emit natural oils]()[\[1\]](#_msocom_1) called phytoncides that have been proven to enhance the immune system, lower blood pressure, ward off depression and help cut anxiety.
 
+![hand on mossy fallen tree and couple sitting on log in forest](/img/collage-hand-moss-couple-log.jpg)
+
 ### Who can do it?
 
 The simple answer: anyone. Young, old, fast, slow, stressed, or carefree, forest bathing is something that everyone can do. It’s not supposed to be strenuous. It is meant to help people slow down, relax, be mindful, and re-center themselves. Forest bathing also imparts the real benefits of time spent outside, which are physically and mentally good for anyone.
 
 Those who are more adventurous may find themselves hiking deep into one of the towering forests on Oregon’s Adventure Coast or making their way across the storied sand dunes. But forest bathing works just as well for those who want to walk just a few steps to a quiet greenspace, a peaceful park or a Pacific Ocean overlook, which are abundant on Oregon’s Adventure Coast.
+
+![woman near Great Spruce and island seen through trees](/img/collage-big-tree-island.jpg)
 
 ### How to forest bathe
 
@@ -47,6 +51,8 @@ If you enjoy activities like yoga or tai chi, consider doing them outside in nat
 Simply put, anytime is the right time for forest bathing. That said, there are no doubt times that may be more enjoyable than others – largely when the weather is pleasant. While you can engage your senses and be fully present in the moment when you’re outside in the middle of a rainstorm, you’re more likely to feel the positive impacts from forest bathing if you’re not shaking from the cold or roasting under a heat dome sun.
 
 Research has suggested that a minimum of two hours spent forest bathing will provide the biggest benefits, but don’t discount a shorter stint. A 15-minute solo stroll through a wooded park will be much better for you than another 15 minutes of scrolling on your phone.
+
+![young woman laying on ground near cliff overlooking pacific ocean](/img/girl-on-cliff-looking-at-ocean.jpg)
 
 ### Where to forest bathe
 
