@@ -22,19 +22,23 @@ smallboxphoto: /img/homeshow-340x214.jpg
 ---
 **The Bay Area Chamber of Commerce invites you to attend the**
 
-#### OREGONS' BAY AREA HOME SHOW
+#### Oregon Curb Appeal Presents<br>OREGONS' BAY AREA HOME SHOW
 
-##### Back after seven year hiatus!
+#### Back after seven year hiatus!
 
-&nbsp;
+{{< spacer "15" >}}
+
+![Woman holding house keys](/img/homeshow-667x355.jpg)
 
 **April 25-27 2025<br>The Pony Village Mall<br>North Bend**
 
 Vendors include home improvement companies, contractors, flooring and carpeting, fencing, landscaping and more.
 
-**More Information Coming Soon!**
+#### **More Information Coming Soon!**
 
-Sponsors include:
+{{< spacer "15" >}}
+
+#### Sponsors include:
 
 <a href="https://oregoncurbappeal.com/" target="_blank" rel="noopener"><strong>Oregon's Curb Appeal</strong></a>**<br>NW Natural<br>Ziply Fiber<br>Builders First Source<br>Sol Coast Consulting & Design<br>The Mill Casino Hotel & RV Park<br>RMLS<br>AmeriTitle<br>KMTR TV <br>BiCoastal Media <br>South Coast Shopper<br>Oregon's Adventure Coast<br>**
 
