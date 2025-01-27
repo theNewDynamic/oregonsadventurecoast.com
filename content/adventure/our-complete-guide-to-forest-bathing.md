@@ -4,6 +4,8 @@ title: Our Complete Guide to Forest Bathing
 url: /forest-bathing-guide
 photo: /img/forest-bathing-page-header.jpg
 ---
+![several bare feet on the ground in the forest](/img/istockphoto-1282367558-1024x1024.jpg)
+
 ### What is forest bathing?
 
 Forest bathing is the practice of taking in the forest – or any natural, outside environment – through all of the senses. But it’s more than just soaking up the outside world; it’s also about being mindful and interacting with your natural surroundings – the sites, sounds, smells, and textures – to absorb the scientifically proven benefits of spending quiet time in nature.
