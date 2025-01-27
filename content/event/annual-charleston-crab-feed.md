@@ -48,7 +48,9 @@ Whole Crab Meal - $35<br>Half Crab Meal - $22<br>Gourmet Hot Dog Meal - $14
 
 ![Couple with large crab feed food plate and ship with pile of crabs](/img/photo-collage-forcrab-feed.jpg)
 
-**Truly a Community Affair!** The 900+ lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab. The Charleston Fishing Families is serving dessert, and all proceeds from the desserts benefits that organization. South Slough Estuary and the Oregon Crab Commission will also be on hand with information. The Charleston Marine Life Center will be open all day!
+### Truly a Community Affair!
+
+The 900+ lb of crab is purchased from local Charleston crabbers. Chuck's Seafood in Charleston processes the crab. The Charleston Fishing Families is serving dessert, and all proceeds from the desserts benefits that organization. South Slough Estuary and the Oregon Crab Commission will also be on hand with information. **The Charleston Marine Life Center will be open all day!**
 
 This is the Main Fundraiser for the Charleston Visitors Center, but also provides assistance to other needs in the Charleston Community.
 
