@@ -25,7 +25,7 @@ aliases:
 <div class="warning">
     <img src="/img/blog-warning-icon.png" alt="Warning - road to Shore Acres State Park is closed to vehicular traffic" />
     <div>
-      Due to recent weather-related damage, the road to Shore Acres State Park is temporarily closed to vehicular traffic. The park remains open but is accessible only by hiking a 2-mile trail from the Sunset Bay Day Use Area to Shore Acres.
+      Due to weather-related damage, the road to Shore Acres State Park is temporarily closed to all vehicle, bike, and foot traffic. Visitors can still access the following areas: The Bog Trail between the campground and Yoakam Point; Sunset Bay day-use areas; The section of the Oregon Coast Trail (OCT) from South Sunset to Norton Gulch. Construction is expected to last several weeks. Please check back for updates.
     </div>
   </div>
 
