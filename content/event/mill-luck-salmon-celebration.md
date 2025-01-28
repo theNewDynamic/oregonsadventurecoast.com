@@ -27,7 +27,9 @@ smallboxphoto: /img/salmon-celebration-small.jpg
 
 **The Annual Mill-Luck Salmon Celebration** is a tribute to Native American and Coquille Tribal culture. Don't miss this **FREE OUTDOOR FESTIVAL**.
 
-{{< spacer 25 >}}
+{{< spacer 25 >}}![Man and woman dining on salmon with salmon pit in background.](/img/salmon-meal.jpg "A delicious meal of salmon is prepared over an open fire at The Mill Luck Salmon Celebration.")
+
+{{< spacer "15" >}}
 
 #### Hours:
 
@@ -61,6 +63,8 @@ Elders of the Coquille Tribe will also have a booth selling fry bread and fry br
 
 {{< spacer "15" >}}
 
+![Tribal canoe races](/img/salmon-canoe-races.jpg "Tribal canoe races add exhilaration to the day.")
+
 **This fun-filled weekend is full of family events and entertainment.**
 
 * Tribal canoe races - Saturday, September 13th from 10 am – 12 pm.
@@ -71,7 +75,9 @@ Elders of the Coquille Tribe will also have a booth selling fry bread and fry br
 * Traditional salmon bake meal
 * Live entertainment with authentic Native American dancing, drumming & flute playing
 
-  {{< spacer 25 >}}
+  {{< spacer 25 >}}![A native dancer in full regalia.](/img/salmon-dancer.jpg "Native dancer from one of the nine federally recognized tribes in Oregon attend the annual celebration.")
+
+{{< spacer "15" >}}
 
 The Festival is located in the south parking lot outside **The Mill Casino • Hotel**. Bring the whole family for a great weekend of fun! **Free to attend**.
 
