@@ -20,7 +20,7 @@ All of these benefits – and more – have been linked to forest bathing. Many 
 
 Another study in Japan showed that people who spent two nights and three days in a forest had an increase in the number and activity of certain immune cells that fight viruses and even cancer. People who spent the same amount of time in an urban setting didn’t enjoy the same kinds of benefits.
 
-Additionally, according to the [National Library of Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC2793341/#:~:text=A%20forest%20bathing%20trip%20involves,limonene%20%5B1%E2%80%934%5D.), [trees emit natural oils]()[\[1\]](#_msocom_1) called phytoncides that have been proven to enhance the immune system, lower blood pressure, ward off depression and help cut anxiety.
+Additionally, according to the [National Library of Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC2793341/#:~:text=A%20forest%20bathing%20trip%20involves,limonene%20%5B1%E2%80%934%5D.), <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2793341/#:~:text=A%20forest%20bathing%20trip%20involves,limonene%20%5B1%E2%80%934%5D." target="_blank" rel="noopener">trees emit natural oils called phytoncides</a> that have been proven to enhance the immune system, lower blood pressure, ward off depression and help cut anxiety.
 
 ![hand on mossy fallen tree and couple sitting on log in forest](/img/collage-hand-moss-couple-log.jpg)
 
