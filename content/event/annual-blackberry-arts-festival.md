@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual Blackberry Arts Festival
-startdate: '2024-08-24'
-enddate: '2024-08-25'
+startdate: '2025-08-23'
+enddate: '2025-08-24'
 address:
   city: Coos Bay
   street: 200 Central Ave
@@ -42,7 +42,7 @@ The **Blackberry Arts Festival** is a juried arts and craft festival that has be
 
 {{< spacer 50 >}}
 
-**This is a FREE event with activities centered on Central Avenue in downtown Coos Bay.** The festival is scheduled for August 24th and 25th this year.
+**This is a FREE event with activities centered on Central Avenue in downtown Coos Bay.** The festival is scheduled for August 23rd and 24th this year.
 
 {{< spacer 50 >}}
 
@@ -62,8 +62,6 @@ Concerts:<br>TBD<br>​​​​
 
 Featuring great music from some of our festival favorites! Stage is located at Central and 3rd Avenue.
 
-**Saturday, August 24th**<br>12:00 to 1:30 Jack Isenhart<br>2:00 to 3:30 Amber Yester and Ken Graber<br>4:00 to 5:30 Randy Nicholson
-
-**Saturday, August 25th**<br>1:00 to 1:30 Keely Whitney<br>2:00 to 3:30 Neil Gregory Johnson
+More information coming soon.
 
 *The Blackberry Jam is brought to you by: Coos Bay Toyota and Pacific Properties*
