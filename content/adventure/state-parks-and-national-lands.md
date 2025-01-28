@@ -23,8 +23,8 @@ The scenery that makes up the unique setting on Oregon’s Adventure Coast is sp
 <div class="warning">
     <img src="/img/blog-warning-icon.png" alt="Warning on this post">
     <div>
-      <strong>Emergency Closure - Effective January 3, 2025</strong><br>
-A significant slide has occurred beyond the Sunset Bay campground, but prior to Shore Acres State Park, along the Cape Arago Highway. The slide has caused substantial undermining of the roadway, leading to its closure. As a result, both Shore Acres State Park and Cape Arago State Park are currently inaccessible to vehicular traffic.
+      <strong>Emergency Closure - Effective January 28, 2025</strong><br>
+Due to weather-related damage, the road to Shore Acres State Park and Cape Arago State Park is temporarily closed to all vehicle, bike, and foot traffic. Visitors can still access the following areas: The Bog Trail between the campground and Yoakam Point; Sunset Bay day-use areas; The section of the Oregon Coast Trail (OCT) from South Sunset to Norton Gulch. Construction is expected to last several weeks. Stay tuned for updates.
     </div>
   </div>
 
@@ -37,7 +37,7 @@ On the Oregon Coast, many of the beaches are state parks and our area is no exce
 <div class="warning">
     <img src="/img/blog-warning-icon.png" alt="Warning on this post">
     <div>
-      Due to recent weather-related damage, the road to Shore Acres State Park is temporarily closed to vehicular traffic. Stay tuned for updates. The park remains open but is accessible only by hiking a 2-mile trail from the Sunset Bay Day Use Area to Shore Acres.
+      Due to recent weather-related damage, the road to Shore Acres State Park is temporarily closed to all vehicle, bike and foot traffic. Stay tuned for updates.
     </div>
   </div>
 
@@ -67,7 +67,7 @@ A network of hiking trails connects Sunset Bay with nearby Shore Acres and Cape 
 <div class="warning">
     <img src="/img/blog-warning-icon.png" alt="Warning on this post">
     <div>
-      Due to recent weather-related damage, the road to Cape Arago State Park is temporarily closed to vehicular traffic. Stay tuned for updates.
+      Due to recent weather-related damage, the road to Cape Arago State Park is temporarily closed to all vehicle, bike and foot traffic. Stay tuned for updates.
     </div>
   </div>
 
