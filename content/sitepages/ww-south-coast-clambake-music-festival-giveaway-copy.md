@@ -23,7 +23,6 @@ Enter to win **two All Access Event Passes to the 2025 South Coast Clambake Musi
 * Three-Night Stay at <a href="https://www.themillcasino.com/" target="_blank" rel="noopener">The Mill Casino • Hotel &amp; RV Park</a> for Two in Double Room&nbsp;*(Value $900. Some restrictions may apply)*
 * Grab a Bite At:<br>\-&nbsp;<a href="https://northbendlanes.com/Back-Alley-Pub-Grill" target="_blank" rel="noopener">Back Alley Pub &amp; Grill</a>&nbsp;*(Value $40. Some restrictions may apply)*<br>\-&nbsp;<a href="https://www.blueheronbistro.net/" target="_blank" rel="noopener">Blue Heron Bistro</a> *(Value $50. Some restrictions may apply)*
 * Friday Night Movie:<br>\- Two tickets to the Egyptian Theatre Friday 7pm showing of the 1967 Elvis classic *Clambake!*
-
 * **Total value of this prize package is over $1,100!**
 
 <div class="cms-embed"><script type="text/javascript" src="https://form.jotform.com/jsform/240246136031140"></script></div>
