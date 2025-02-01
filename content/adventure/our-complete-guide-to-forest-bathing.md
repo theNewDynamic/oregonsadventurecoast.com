@@ -4,7 +4,7 @@ title: Our Complete Guide to Forest Bathing
 url: /forest-bathing-guide
 photo: /img/forest-bathing-page-header.jpg
 ---
-![several bare feet on the ground in the forest](/img/istockphoto-1282367558-1024x1024.jpg)
+![several bare feet on the ground in the forest](/img/family-feet-in-forest-695x322.jpg)
 
 ### What is forest bathing?
 
@@ -22,7 +22,7 @@ Another study in Japan showed that people who spent two nights and three days in
 
 Additionally, according to the [National Library of Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC2793341/#:~:text=A%20forest%20bathing%20trip%20involves,limonene%20%5B1%E2%80%934%5D.), <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2793341/#:~:text=A%20forest%20bathing%20trip%20involves,limonene%20%5B1%E2%80%934%5D." target="_blank" rel="noopener">trees emit natural oils called phytoncides</a> that have been proven to enhance the immune system, lower blood pressure, ward off depression and help cut anxiety.
 
-![hand on mossy fallen tree and couple sitting on log in forest](/img/collage-hand-moss-couple-log.jpg)
+![hand on mossy fallen tree and couple sitting on log in forest](/img/collage-hand-moss-couple-695x322.jpg)
 
 ### Who can do it?
 
@@ -30,7 +30,7 @@ The simple answer: anyone. Young, old, fast, slow, stressed, or carefree, forest
 
 Those who are more adventurous may find themselves hiking deep into one of the towering forests on Oregon’s Adventure Coast or making their way across the storied sand dunes. But forest bathing works just as well for those who want to walk just a few steps to a quiet greenspace, a peaceful park or a Pacific Ocean overlook, which are abundant on Oregon’s Adventure Coast.
 
-![woman near Great Spruce and island seen through trees](/img/collage-big-tree-island.jpg)
+![woman near Great Spruce and island seen through trees](/img/collage-spruce-island-695x322.jpg)
 
 ### How to forest bathe
 
@@ -58,7 +58,7 @@ Research has suggested that a minimum of two hours spent forest bathing will pro
 
 When the concept of forest bathing first came to light in the 1980s in Japan, stressed-out tech and industrial workers found respite on newly created nature trails designed to help them decompress. Since then – and since the health and emotional benefits of forest bathing have been researched and proven – it’s become clear that just about anywhere outside can work: forests, beaches, nature preserves, mountains, coastal overlooks, riverside trails, lakes, even urban parks and greenspaces.
 
-Here on Oregon’s Adventure Coast, the options are limitless. A few ideas:
+**Here on Oregon’s Adventure Coast, the options are limitless. A few ideas:**
 
 * [**Sunset Bay State Park**](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) – Stroll across the sandy beach here, find a quiet spot to sit and breathe in the ocean breeze as it flows through the surrounding evergreens. There’s also a series of hiking trails that lead through swaying coastal forests, past wildflowers and along stunning cliff-top viewpoints.
 * [**Cape Arago State Park**](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) – The views near this Pacific headland are dramatic, wild – and just right for a long session of mindful contemplation. Watch and listen for offshore seals and sea lions as well.
