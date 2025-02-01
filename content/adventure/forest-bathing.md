@@ -17,7 +17,7 @@ seo:
 
 **Discover the Art of Forest Bathing**<br>Curious about forest bathing? Our complete [**Guide to Forest Bathing**](/forest-bathing-guide) answers all your questions—what it is, why it matters, who can do it, and how, when, and where to start.
 
-### <a class="learn-more-anywhere-btn" target="_blank" href="/forest-bathing-guide">Explore Our Guide</a>
+### <a class="learn-more-anywhere-btn" target="" href="/forest-bathing-guide">Explore Our Guide</a>
 
 {{< spacer "30" >}}
 
