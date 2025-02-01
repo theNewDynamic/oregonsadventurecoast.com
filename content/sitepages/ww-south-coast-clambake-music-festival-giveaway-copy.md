@@ -41,20 +41,30 @@ The South Coast Clambake Music Festival is held at <a href="https://themillcasin
 
 ### Featuring the Music of Bands All Across these United States!
 
-{{< columns number="2" >}}
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3782">Alpha Rhythm Kings</a>
-* <a target="_blank" rel="noopener" href="https://benricehustle.com/home">Ben Rice &amp; The PDX Hustle</a>
-* Dannielle Kelly
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=2250">Dave Bennett Quartet</a>
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3442">Good Co.</a>
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=3449">Gino &amp; The Lone Gunmen</a>
-divider
-* <a target="_blank" rel="noopener" href="https://www.facebook.com/JasonThomasBand/">Jason Thomas Band</a>
-* <a target="_blank" rel="noopener" href="https://www.facebook.com/p/Ocean-Blvd-100077473511119/">Ocean Blvd</a>
-* Pony Creek (Thursday only)
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4055">Shaymus Hanlin Quartet</a>
-* Swinging in the Rain
-* <a target="_blank" rel="noopener" href="https://clambakemusic.com/?page_id=4091">The Trottles</a>
-{{< /columns >}}
+{{< columns number="2" >}}2025 Bands Include:
+
+[Alpha Rhythm Kings](https://clambakemusic.com/?page_id=3782)
+
+[Ben Rice & The PDX Hustle](https://benricehustle.com/home)
+
+[Danielle Kelly Soul Project](https://clambakemusic.com/?page_id=4362)
+
+[Dave Bennett Quartet](https://clambakemusic.com/?page_id=2250)
+
+[Gino & The Lone Gunmen](https://clambakemusic.com/?page_id=3449)
+
+[Lisa Mann Power Trio](https://www.lisamannmusic.com)
+
+[Ocean Blvd](https://clambakemusic.com/?page_id=4367)
+
+[Rae Gordon Band](https://www.facebook.com/raegordonband)
+
+[Shaymus Hanlin Quartet](https://clambakemusic.com/?page_id=4055)
+
+[Swinging in the Rain](https://clambakemusic.com/swingin-in-the-rain)
+
+[The Throttles](https://clambakemusic.com/?page_id=4091)
+
+[Tom Rigney](https://tomrigney.com/home){{< /columns >}}
 
 **For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks**! Visit the <a href="https://clambakemusic.com/" target="_blank" rel="noopener">website</a> for details.
