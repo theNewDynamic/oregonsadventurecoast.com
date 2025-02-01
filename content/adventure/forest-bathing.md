@@ -17,7 +17,8 @@ seo:
 
 **Discover the Art of Forest Bathing<br>**Curious about forest bathing? Our complete [**Guide to Forest Bathing**](/forest-bathing-guide) answers all your questions—what it is, why it matters, who can do it, and how, when, and where to start.
 
-**Explore our Forest Bathing Guide**
+### <a class="learn-more-anywhere-btn" target="_blank" href="/forest-bathing-guide">Explore Our Guide</a>
+
 
 Some popular places for forest bathing on **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston** include the coastal forest trail along the cliffs between [Sunset Bay State Park](/state-parks-and-national-lands/) and [Cape Arago State Park](/state-parks-and-national-lands/), the cliffside at [Shore Acres State Park](/state-parks-and-national-lands/), Yoakam Point, [Horsfall Beach](/undeveloped-beaches) adjacent to the [Oregon Dunes National Recreation Area](/state-parks-and-national-lands/), [Golden & Silver Falls State Natural area](/state-parks-and-national-lands/), Mingus Park and Simpson Park.
 
