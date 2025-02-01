@@ -56,7 +56,7 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 
 #### 2025 Bands Include:
 
-{{< columns number="2" >}}2025 Bands Include:
+{{< columns number="2" >}}
 
 [Alpha Rhythm Kings](https://clambakemusic.com/?page_id=3782)
 
