@@ -2,7 +2,7 @@
 _schema: default
 title: Enter to Win South Coast Clambake Music FestivalGiveaway!
 draft: false
-url: ww-clambake-giveaway
+url: /ww-clambake-giveaway
 layout: contact
 photo: /img/clambake-music-fest-header-04.jpg
 seo:
