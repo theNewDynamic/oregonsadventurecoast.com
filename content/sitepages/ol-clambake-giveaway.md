@@ -41,6 +41,8 @@ The South Coast Clambake Music Festival is held at <a href="https://themillcasin
 
 ### Featuring the Music of Bands All Across these United States! 2025 Bands Include:
 
+&nbsp;
+
 {{< columns number="2" >}}
 
 [Alpha Rhythm Kings](https://clambakemusic.com/?page_id=3782)
