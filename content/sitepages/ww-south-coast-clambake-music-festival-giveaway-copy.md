@@ -55,6 +55,8 @@ The South Coast Clambake Music Festival is held at <a href="https://themillcasin
 
 [Lisa Mann Power Trio](https://www.lisamannmusic.com)
 
+divider
+
 [Ocean Blvd](https://clambakemusic.com/?page_id=4367)
 
 [Rae Gordon Band](https://www.facebook.com/raegordonband)
