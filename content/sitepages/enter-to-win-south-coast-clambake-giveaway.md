@@ -39,7 +39,7 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 
 The South Coast Clambake Music Festival is held at <a href="https://themillcasino.com" target="_blank" rel="noopener">The Mill Casino • Hotel &amp; RV Park</a> on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**! The Mill hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar!
 
-### Featuring the Music of Bands All Across these United States! 2025 Bands Include:
+### Featuring the Music of Bands All Across these United States! 2025 Bands Include:<br><br>
 
 {{< columns number="2" >}}
 
