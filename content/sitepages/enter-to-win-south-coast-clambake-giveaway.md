@@ -11,7 +11,7 @@ seo:
   imgalt: ''
   image: ''
 ---
-![](/img/clambake-giveaway-header-695x322.jpg)
+![South Coast Clambake Music Festival Logo, Enter to Win Giveaway](/img/clambake-giveaway-header-2025-695x322.jpg)
 
 ### Two All Access Event Passes, Lodging & Meals
 
