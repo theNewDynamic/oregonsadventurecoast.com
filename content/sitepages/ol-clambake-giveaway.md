@@ -2,7 +2,7 @@
 _schema: default
 title: Enter to Win Clambake Music Festival Giveaway!
 draft: false
-url: oregon-live-clambake-giveaway
+url: /kezi-clambake-giveaway
 layout: contact
 photo: /img/clambake-music-fest-header-04.jpg
 seo:
