@@ -15,7 +15,7 @@ seo:
 
 **Coos Bay, North Bend & Charleston**, on the Southern Oregon coast, offers a variety of natural landscapes for forest bathing, or forest therapy as it is also known, including dunes, wetlands, and forests. The surrounding areas are rich in flora and fauna, providing ample opportunities to connect with nature and practice forest bathing.
 
-**Discover the Art of Forest Bathing<br>**Curious about forest bathing? Our complete [**Guide to Forest Bathing**](/forest-bathing-guide) answers all your questions—what it is, why it matters, who can do it, and how, when, and where to start.
+\*\*Discover the Art of Forest Bathing<br>\*\*Curious about forest bathing? Our complete [**Guide to Forest Bathing**](/forest-bathing-guide) answers all your questions—what it is, why it matters, who can do it, and how, when, and where to start.
 
 **Explore our Forest Bathing Guide**
 
