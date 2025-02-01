@@ -2,7 +2,7 @@
 _schema: default
 title: Our Complete Guide to Forest Bathing
 url: /forest-bathing-guide
-photo: /img/forest-bathing-page-header.jpg
+photo: /img/forest-bathing-guide-hdr-2048x530.jpg
 ---
 ![several bare feet on the ground in the forest](/img/family-feet-in-forest-695x322.jpg)
 
