@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Enter to Win Clambake Music Festival Giveaway!
+title: Enter to Win Clambake Music Festival Getaway!
 draft: false
 url: /kezi-clambake-giveaway
 layout: contact
@@ -11,7 +11,7 @@ seo:
   imgalt: ''
   image: ''
 ---
-![South Coast Clambake Music Festival Logo, Enter to Win Giveaway](/img/clambake-giveaway-header-2025-695x322.jpg)
+![South Coast Clambake Music Festival Logo, Enter to Win Getaway](/img/clambake-giveaway-header-2025.jpg)
 
 ### Two All Access Event Passes, Lodging & Meals
 

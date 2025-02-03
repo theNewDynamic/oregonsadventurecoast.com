@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Thanks for Entering Our Clambake Music Festival Giveaway!
+title: Thanks for Entering Our Clambake Music Festival Getaway!!
 draft: false
 url: /clambake-contest-thank-you
 layout: contact
