@@ -17,8 +17,8 @@ amenityList:
   - 7 - Kitchens Available
   - 4 - Pool/Hot Tub
 address:
-  city:
-  state:
+  city: Bandon
+  state: OR
   street:
   street2:
   zip:
