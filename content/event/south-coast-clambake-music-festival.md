@@ -40,6 +40,8 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 ### <a class="learn-more-anywhere-btn" target="_blank" href="https://www.eventbrite.com/e/south-coast-clambake-music-festival-tickets-1235018075309">TICKETS ON SALE NOW!</a>
 
 
+### {{< spacer "30" >}}
+
 ![south coast clambake music festival bands playing music](/img/clambake-collage-02-695x322.jpg)
 
 {{< spacer "30" >}}
