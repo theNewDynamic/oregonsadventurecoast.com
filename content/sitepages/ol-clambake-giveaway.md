@@ -19,7 +19,7 @@ Enter to win **two All Access Event Passes to the 2025 South Coast Clambake Musi
 
 ### The Prize Getaway Includes:
 
-* Two All Access Passes to the 2025 South Coast Clambake Music Festival in North Bend, Oregon *(Value $200)*
+* Two All Access Passes to the 2025 South Coast Clambake Music Festival in North Bend, Oregon *(Value $220)*
 * Three-Night Stay at <a href="https://www.themillcasino.com/" target="_blank" rel="noopener">The Mill Casino • Hotel &amp; RV Park</a> for Two in Double Room&nbsp;*(Value $800. Some restrictions may apply)*
 * Grab a Bite At:<br>\-&nbsp;<a href="https://northbendlanes.com/Back-Alley-Pub-Grill" target="_blank" rel="noopener">Back Alley Pub &amp; Grill</a>&nbsp;*(Value $40. Some restrictions may apply)*<br>\-&nbsp;[7 Devils Brewery & Public House](https://7devilsbrewery.com) *(Value $50. Some restrictions may apply)*
 * Friday Night Movie:<br>\- Two tickets to the **Historic Egyptian Theatre** in Coos Bay, Friday 7pm showing of the **1967 Elvis classic film** ***Clambake**! Includes two small popcorn and two drinks. (Value $30. Some restrictions may apply.)*
