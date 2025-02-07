@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: OSCAR Short Film Festival
-startdate: '2024-09-10'
+startdate: '2025-02-21'
 enddate: '2025-02-23'
 address:
   city: Coos Bay
