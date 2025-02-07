@@ -15,8 +15,8 @@ desktoptitle: 2025 OSCAR Shorts Film Festival
 mobiletitle: OSCAR Shorts Film Festival
 hovertitle: 2025 OSCAR Shorts Film Festival Weekend
 hoverdescription: >-
-  Make it a Weekend Getaway: See the Year's Best Short Films in Animation, Live
-  Action & Documentary!
+  Join Us to Watch the Year's Best Short Films in Animation, Live Action &
+  Documentary!
 photo: /img/oscar-shorts-page-sub-hdr-2048x530.jpg
 largeboxphoto: /img/oscarshorts-lg-1024x395.jpg
 mediumboxphoto: /img/oscarshorts-md-667-355.jpg
