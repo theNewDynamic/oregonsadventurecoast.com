@@ -56,9 +56,9 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 
 ![South Coast Clambake Music Festvial - Band Playing Music and couple Dancing](/img/clambake-collage-2024.jpg)
 
-### Featuring the music of bands all across these United States!
+### Featuring the music of bands all across these United States! 2025 Bands Include:
 
-#### 2025 Bands Include:
+####
 
 {{< columns number="2" >}}
 
