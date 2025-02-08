@@ -20,15 +20,6 @@ aliases:
 
 ## THE MAJESTY OF MOTHER NATURE
 
-{{< spacer "25" >}}
-
-<div class="warning">
-    <img src="/img/blog-warning-icon.png" alt="Warning - road to Shore Acres State Park is closed to vehicular traffic" />
-    <div>
-      Due to weather-related damage, the road to Shore Acres State Park is temporarily closed to all vehicle, bike, and foot traffic. Visitors can still access the following areas: The Bog Trail between the campground and Yoakam Point; Sunset Bay day-use areas; The section of the Oregon Coast Trail (OCT) from South Sunset to Norton Gulch. Construction is expected to last several weeks. Please check back for updates.
-    </div>
-  </div>
-
 The Oregon Coast is famous for drama-the good kind! Fall and winter is the best time to watch dramatic wave crashes reaching up to 300 feet high resulting from winter storms on the Pacific during the months of November through March.
 
 As Oregon Coast experts, we can assure you that it doesn’t matter how many times you have witnessed Mother Nature’s fury over the mighty Pacific, storm watchers have a different experience each and every time.
