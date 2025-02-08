@@ -20,26 +20,12 @@ The scenery that makes up the unique setting on Oregon’s Adventure Coast is sp
 
 ## State Parks
 
-<div class="warning">
-    <img src="/img/blog-warning-icon.png" alt="Warning on this post">
-    <div>
-      <strong>Emergency Closure - Effective January 28, 2025</strong><br>
-Due to weather-related damage, the road to Shore Acres State Park and Cape Arago State Park is temporarily closed to all vehicle, bike, and foot traffic. Visitors can still access the following areas: The Bog Trail between the campground and Yoakam Point; Sunset Bay day-use areas; The section of the Oregon Coast Trail (OCT) from South Sunset to Norton Gulch. Construction is expected to last several weeks. Stay tuned for updates.
-    </div>
-  </div>
 
 On the Oregon Coast, many of the beaches are state parks and our area is no exception. Along the 8 mile [Cape Arago Loop](/img/cape-arago-loop-itinerary.pdf) in Charleston you’ll find a trifecta of State Parks.
 
 {{< spacer 50 >}}
 
 ![](/img/ShoreAcres-State-Park-v02-695x125.jpg)
-
-<div class="warning">
-    <img src="/img/blog-warning-icon.png" alt="Warning on this post">
-    <div>
-      Due to recent weather-related damage, the road to Shore Acres State Park is temporarily closed to all vehicle, bike and foot traffic. Stay tuned for updates.
-    </div>
-  </div>
 
 <a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=68" target="_blank" rel="noopener"><strong>Shore Acres State Park</strong></a>, the Oregon Coast’s crown jewel, was once the private estate of lumber baron, Louis Simpson, founder of the community of North Bend. Perched on rugged sandstone cliffs high above the ocean, Shore Acres State Park is an exciting and unexpected combination of beautiful natural and constructed features, including lushly planted gardens with plants and flowers from all over the world. Something is in bloom almost every day of the year.
 
@@ -64,12 +50,6 @@ A network of hiking trails connects Sunset Bay with nearby Shore Acres and Cape 
 {{< spacer 50 >}}
 
 ![Cape Arago State Park on Oregon's Adventure Coast](/img/Cape-Arago-State-Park-695x125.jpg)
-<div class="warning">
-    <img src="/img/blog-warning-icon.png" alt="Warning on this post">
-    <div>
-      Due to recent weather-related damage, the road to Cape Arago State Park is temporarily closed to all vehicle, bike and foot traffic. Stay tuned for updates.
-    </div>
-  </div>
 
 <a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=66" target="_blank" rel="noopener"><strong>Cape Arago State Park</strong></a>, may be the end of the road (the road out of Coos Bay goes no further), but it's really only the beginning if you want to explore the southern Oregon coast.
 
