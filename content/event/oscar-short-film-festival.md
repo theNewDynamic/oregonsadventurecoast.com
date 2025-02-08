@@ -26,9 +26,9 @@ smallboxphoto: /img/oscarshorts-sm-340x214.jpg
 
 ### Experience the 2025 Oscar-Nominated Short Films at the Historic Egyptian Theatre!
 
-Step into the grandeur of Hollywood’s golden age and experience the best in short filmmaking at the **Historic Egyptian Theatre** in Coos Bay! This year’s Oscar®-nominated shorts are taking center stage in a venue as spectacular as the films themselves. With its rich history, stunning architecture, and classic movie palace ambiance, the Egyptian Theatre provides the perfect setting to enjoy these cinematic masterpieces.
+Step into the grandeur of Hollywood’s golden age and experience the best in short filmmaking at the [**Historic Egyptian Theatre**](https://www.egyptiantheatre.events/) in Coos Bay! This year’s Oscar®-nominated shorts are taking center stage in a venue as spectacular as the films themselves. With its rich history, stunning architecture, and classic movie palace ambiance, the Egyptian Theatre provides the perfect setting to enjoy these cinematic masterpieces.
 
-Celebrating its 100th anniversary in 2025, the Egyptian Theatre is in the midst of a landmark year filled with incredible films, festivals, and special events. There's no better time to visit this beautifully preserved venue, listed on the National Register of Historic Places. From the intricate Egyptian Revival design to the glowing marquee, every detail of this iconic theatre will transport you back in time—making your moviegoing experience unforgettable.
+Celebrating its 100th anniversary in 2025, the Egyptian Theatre is in the midst of a landmark year filled with incredible films, festivals, and special events. There's no better time to visit this beautifully preserved venue, listed on the National Register of Historic Places. From the intricate Egyptian Revival design to the glowing marquee, every detail of this iconic theatre will transport you back in time—making your moviegoing experience unforgettable. [Visit the Egyptian Theatre's website.](https://www.egyptiantheatre.events/)
 
 ![Interior of the Historic Egyptian Theatre in Cos Bay](/img/interior-panoramic-695x405.jpg)
 
