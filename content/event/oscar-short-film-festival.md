@@ -38,6 +38,10 @@ Make a weekend of it—immerse yourself in the magic of the movies, explore hist
 
 ### Oscar® Short Film Festival Schedule
 
+#### Friday, February 21
+
+* **7:00 PM** – Live Action Shorts 2025
+
 #### Saturday, February 22
 
 * **12:00 PM** – Animation Shorts 2025
@@ -48,7 +52,6 @@ Make a weekend of it—immerse yourself in the magic of the movies, explore hist
 
 * **12:00 PM** – Animation Shorts 2025
 * **3:00 PM** – Documentary Shorts 2025
-* **7:00 PM** – Live Action Shorts 2025
 
 🎟 **Admission:** Adults $10 \| Seniors $9 \| Kids $8
 
