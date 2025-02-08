@@ -36,9 +36,7 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 
 *Interesting fact! A Clambake is an old musical term for a Jam Session!*
 
-
 ### <a class="learn-more-anywhere-btn" target="_blank" href="https://www.eventbrite.com/e/south-coast-clambake-music-festival-tickets-1235018075309">TICKETS ON SALE NOW!</a>
-
 
 ### {{< spacer "30" >}}
 
@@ -54,9 +52,9 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 
 {{< spacer 50 >}}
 
-![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-music-v01-695x322.jpg)
+![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-band-guitars.jpg)
 
-&nbsp;
+![South Coast Clambake Music Festvial - Band Playing Music and couple Dancing](/img/clambake-collage-2024.jpg)
 
 ### Featuring the music of bands all across these United States!
 
