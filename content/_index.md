@@ -26,6 +26,12 @@ slideshow:
     photo_mobile:
     url:
     video:
+  - title:
+    photo: /img/oscars-short-films-hm-slider-2048x850.jpg
+    title_mobile:
+    photo_mobile: /img/oscars-short-films-hm-mobile-512x320.jpg
+    url: /event/oscar-short-film-festival
+    video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /live-cam
