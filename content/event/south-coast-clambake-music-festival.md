@@ -56,9 +56,9 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 
 ![South Coast Clambake Music Festvial - Band Playing Music and couple Dancing](/img/clambake-collage-2024.jpg)
 
-### Featuring the music of bands all across these United States!
+### Featuring the music of bands all across these United States! 2025 Bands Include:
 
-#### 2025 Bands Include:
+####
 
 {{< columns number="2" >}}
 
@@ -90,4 +90,12 @@ divider
 
 **For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks**! Visit the [website](https://clambakemusic.com/) for details.
 
-![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-music-v02-695x322.jpg)
+![Elvis classic 1967 movie Clambake showing at the Egyptian Theatre](/img/elvis-clambake-movie.jpg)
+
+### Catch Elvis in the 1967 classic movie Clambake
+
+\*\*Historic Egyptian Theatre \| Coos Bay \| Friday, March 14th @ 7pm<br>\*\*The classic 1967 Elvis Presley film CLAMBAKE hits the [**Historic Egyptian Theatre**](https://www.egyptiantheatre.events/) in Coos Bay just in time for the South Coast Clambake Music Festival! Take a break from dancing and enjoy this beach party romantic musical romp.<br>Egyptian Theatre \| 229 South Broadway \| Coos Bay \| [www.egyptiantheatre.events](https://www.egyptiantheatre.events/)
+
+&nbsp;
+
+&nbsp;
