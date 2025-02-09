@@ -2,6 +2,12 @@
 _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
+  - title:
+    photo: /img/oscars-short-films-hm-slider-2048x850.jpg
+    title_mobile:
+    photo_mobile: /img/oscars-short-films-hm-mobile-512x320.jpg
+    url: /event/oscar-short-film-festival
+    video:
   - title: Catch Your Own Feast!
     photo: /img/crab-feed-home-page-slider.jpg
     title_mobile: Catch Your Own Feast!
@@ -25,12 +31,6 @@ slideshow:
     title_mobile:
     photo_mobile:
     url:
-    video:
-  - title:
-    photo: /img/oscars-short-films-hm-slider-2048x850.jpg
-    title_mobile:
-    photo_mobile: /img/oscars-short-films-hm-mobile-512x320.jpg
-    url: /event/oscar-short-film-festival
     video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
