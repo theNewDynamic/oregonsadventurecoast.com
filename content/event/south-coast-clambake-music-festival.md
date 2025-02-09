@@ -90,11 +90,13 @@ divider
 
 **For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks**! Visit the [website](https://clambakemusic.com/) for details.
 
+{{< spacer "30" >}}
+
 ![Elvis classic 1967 movie Clambake showing at the Egyptian Theatre](/img/elvis-clambake-movie.jpg)
 
 ### Catch Elvis in the 1967 classic movie Clambake
 
-\*\*Historic Egyptian Theatre \| Coos Bay \| Friday, March 14th @ 7pm<br>\*\*The classic 1967 Elvis Presley film CLAMBAKE hits the [**Historic Egyptian Theatre**](https://www.egyptiantheatre.events/) in Coos Bay just in time for the South Coast Clambake Music Festival! Take a break from dancing and enjoy this beach party romantic musical romp.<br>Egyptian Theatre \| 229 South Broadway \| Coos Bay \| [www.egyptiantheatre.events](https://www.egyptiantheatre.events/)
+**Historic Egyptian Theatre \| Coos Bay \| Friday, March 14th @ 7pm**<br>The classic 1967 Elvis Presley film CLAMBAKE hits the [**Historic Egyptian Theatre**](https://www.egyptiantheatre.events/) in Coos Bay just in time for the South Coast Clambake Music Festival! Take a break from dancing and enjoy this beach party romantic musical romp.<br><br>**Egyptian Theatre** \| 229 South Broadway \| Coos Bay \| [www.egyptiantheatre.events](https://www.egyptiantheatre.events/)
 
 &nbsp;
 
