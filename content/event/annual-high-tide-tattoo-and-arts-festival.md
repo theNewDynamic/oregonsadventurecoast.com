@@ -39,7 +39,7 @@ The best tattoo convention on the Oregon Coast; High Tide Tattoo & Art Festival!
 
 **How It Works:**
 
-$10 entry fee gets you into the event each day. All ages are welcome; 17 and under must be accompanied by an adult; 12 and under will receive free admission.
+$15 entry fee gets you into the event each day. All ages are welcome; 17 and under must be accompanied by an adult; 12 and under will receive free admission.
 
 Tattoo Booking: Most artist use social media as their preferred method of communication and will require guest to book directly through them.
 
@@ -72,4 +72,4 @@ Tattoo Booking: Most artist use social media as their preferred method of commun
 
 #### TICKETS
 
-Tickets go on-sale April 4, 2025 in Ko-Kwel Gifts. $10 entry fee gets you into the event each day. All ages are welcome; 17 and under must be accompanied by an adult; 12 and under will receive free admission.
+Tickets go on-sale April 4, 2025 in Ko-Kwel Gifts. $15 entry fee gets you into the event each day. All ages are welcome; 17 and under must be accompanied by an adult; 12 and under will receive free admission.
