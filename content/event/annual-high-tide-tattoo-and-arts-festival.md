@@ -45,28 +45,28 @@ Tattoo Booking: Most artist use social media as their preferred method of commun
 
 {{< spacer 30 >}}
 
-![](/img/high-tide-logo.jpeg)
+![](/img/high-tide-1.jpg)
 
 #### ARTISTS
 
 **Top Artist Showcase**
 
 * Mat Valles – Former Ink Master Contender
-* Brandon Davenport – Multi Award-Winning Artist
-* Bony Tony – Multi Award-Winning Artist
-* Jamy Carlton – Multi Award-Winning Artist
+* Pete Carreno – Multi-Award-Winning Artist
+* Bony Tony – Multi-Award-Winning Artist
+* Corey Clark – Multi-Award-Winning Artist
 
-**Also Showcasing Their Artistry**<br>Ruby Corral, Corey Clark, Rusty Needle Tattoo, Red Room Tattoo, Legacy Ink, Oracle Studios, Al Lunatik, Old School Tattoo & Supplies, Caster, 11:11 Tattoo, Carlos Sandoval, 13 Mag Tattoo, Captain Tattoo, Lisa Johnson, Noni Tattoos, Oregon City Tattoos.
+**Also Showcasing Their Artistry**<br>Carlos Lemon, A.J. Jamrose, James Mullin, Chad Hayden, Jamy Carlton, Oregon City Tattoos, Legacy Ink, 11:11 Tattoo, Old School Tattoo, Red Room Tattoos, Lisa Johnson, Golden Rose Tattoo, Chad Hayden, Raine Wright, Casper and many more.
 
 **Competition Highlights**<br>Artists will compete over a 3-day period, vying for:<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;Custom-made local trophies<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;Bragging rights<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;An exclusive prize, sponsored by Show Nation.<br>{{< spacer "25" >}}
 
 #### SCHEDULE OF EVENTS
 
-**Friday&nbsp; \|&nbsp; 12:00 PM – 10:00 PM**<br>Best of Day<br>GeometricalCover-Up<br>Most Unusual<br>Best Native Themed
+**Friday&nbsp; \|&nbsp; 12:00 PM – 10:00 PM**<br>Best of Day<br>Cover-Up<br>Most Unusual<br>Native Themed<br>Animal Portrait
 
-**Saturday&nbsp; \|&nbsp; 12:00 PM – 10:00 PM**<br>Best of Day<br>TraditionalBlack and Grey<br>Color<br>Color Portrait<br>Black and Grey Portrait
+**Saturday&nbsp; \|&nbsp; 12:00 PM – 10:00 PM**<br>Best of Day<br>Traditional<br>Black and Grey<br>Color<br>Color Portrait<br>Black and Grey Portrait
 
-**Sunday&nbsp; \|&nbsp; 12:00 PM – 8:00 PM**<br>Best of Day<br>Best Sleeve<br>Best Asian Themed<br>Best Large Tattoo (full chest, back or body suit)<br>Best of Show
+**Sunday&nbsp; \|&nbsp; 12:00 PM – 8:00 PM**<br>Best of Day<br>Best Sleeve<br>Asian Themed<br>Best Large Tattoo (full chest, back or body suit)<br>Best of Show
 
 {{< spacer "25" >}}
 
