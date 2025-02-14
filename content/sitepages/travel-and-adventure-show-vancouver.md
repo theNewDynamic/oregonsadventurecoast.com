@@ -2,7 +2,7 @@
 _schema: default
 title: Adventure Show 2025 - Vancouver
 draft: true
-url: travel-and-adventure-show-vancouver
+url: /travel-and-adventure-show-vancouver
 layout: headless
 seo:
   title: ''
