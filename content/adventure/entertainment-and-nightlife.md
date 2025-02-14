@@ -44,7 +44,7 @@ divider ![](/img/coney-station-entertainment.jpg)
 
 **Coney Station**<br>295 South Broadway<br>Coos Bay, OR 97420<br>(541)269-6948<br>[www.facebook.com/ConeyStation](https://www.facebook.com/ConeyStation)
 
-Coney Station offers a little something for everybody! From Dj Trivia, Live Music, NFL Picks, Texas Hold Em' poker, Happy Hour, Karaoke, and more their is always something going on. Located in the heart of downtown Coney Station strives to be the best place ever. Come aboard the Coney Station today!{{< /columns >}}
+Coney Station offers a little something for everybody! From Dj Trivia, Live Music, NFL Picks, Texas Hold Em' poker, Happy Hour, Karaoke, and more - there is always something going on. Located in the heart of downtown Coney Station strives to be the best place ever. Come aboard the Coney Station today!{{< /columns >}}
 
 {{< spacer "30" >}}
 
