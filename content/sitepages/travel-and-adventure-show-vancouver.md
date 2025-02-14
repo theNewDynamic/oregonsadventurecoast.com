@@ -10,4 +10,4 @@ seo:
   imgalt: ''
   image: ''
 ---
-Testing page haer
+<script type="text/javascript" src="https://form.jotform.com/jsform/200485987777172"></script>
