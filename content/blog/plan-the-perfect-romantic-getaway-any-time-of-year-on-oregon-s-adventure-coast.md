@@ -105,21 +105,9 @@ Stroll the lush gardens and dramatic cliffs at [Shore Acres State Park](https://
 Here are a few local hiking destinations to inspire your next romantic outing:
 
 * **South Slough National Estuarine Research Reserve (South Slough NERR**) – A [5,000-acre natural area](https://www.oregon.gov/dsl/ss/pages/default.aspx) near Charleston, perfect for reconnecting with nature. Trails wind through estuarine habitats, and the interpretive center offers insight into the area’s marine life.
-
-  &nbsp;
-
 * **Oregon Coast Trail** – Offering easy-to-moderate hikes with photo-worthy ocean views along the Cape Arago Highway. For a shorter route, try the 2.25-mile roundtrip from [Sunset Bay State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;amp;parkId=70) day-use area to Norton Gulch and back. Scenic coves provide great spots to pause and take in the beauty. [Click here for a trail map](https://shoreacres.net/wp-content/uploads/2016/06/Trail-Map-Card-2016-web.pdf).
-
-  &nbsp;
-
 * **Golden and Silver Falls State Natural Area** – Nestled in lush coastal forests northeast of Coos Bay, this area showcases two spectacular waterfalls. It’s an ideal setting for a refreshing hike and a bit of [Forest Bathing](https://www.oregonsadventurecoast.com/forest-bathing/)! [Learn More.](https://www.oregonsadventurecoast.com/blog/exploring-golden-and-silver-falls-a-guide-to-hiking-this-natural-wonder-on-oregon-s-adventure-coast/)
-
-  &nbsp;
-
 * **Oregon Dunes National Recreation Area** – Spanning over 32,000 acres of dunes, forests, and waterways, this landscape is perfect for exploration. The [John Dellenback Trail](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5427142.pdf) is a favorite for hikers and fat-tire bikers seeking sweeping dune views. [Learn More.](https://www.oregonsadventurecoast.com/tripideas/oregon-dunes-national-recreation-area/)
-
-  &nbsp;
-
 * **Trails Less Traveled** – For a quieter experience, explore: [Empire Lakes Trail](http://coosbay.org/uploads/PDF/Operations/Parks/John_Topits_Park/JOHN_TOPITS_PARK_TRAIL_MAP.pdf), Millicoma Marsh, [Mingus Park](http://coosbay.org/departments/parks), [North Spit Of Coos Bay Trail System](https://www.blm.gov/visit/north-spit), Simpson Park / Ferry Road Park in North Bend.
 
   &nbsp;
