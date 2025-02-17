@@ -68,7 +68,9 @@ tags:
   - Sharkbites Café
 warning: false
 ---
-Valentine’s Day may have come and gone, but that doesn’t mean romance is off the table. On Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, every day is an opportunity to celebrate love. This destination offers the perfect blend of Pacific Northwest beauty and a relaxed, adventurous spirit—making it an ideal escape for couples year-round. Whether you’re marking a special occasion, planning a spontaneous date night, or craving a weekend retreat, reconnecting with your significant other comes naturally here. From intimate dinners to outdoor adventures, we’ve gathered ideas to inspire your next unforgettable romantic getaway on Oregon’s Adventure Coast.
+Valentine’s Day may have come and gone, but that doesn’t mean romance is off the table. On Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, every day is an opportunity to celebrate love. This destination offers the perfect blend of Pacific Northwest beauty and a relaxed, adventurous spirit—making it an ideal escape for couples year-round.
+
+Whether you’re marking a special occasion, planning a spontaneous date night, or craving a weekend retreat, reconnecting with your significant other comes naturally here. From intimate dinners to outdoor adventures, we’ve gathered ideas to inspire your next unforgettable romantic getaway on Oregon’s Adventure Coast.
 
 ![](/img/romantic-adventures-oregon-coast-blog-695x322-3.jpg)
 
