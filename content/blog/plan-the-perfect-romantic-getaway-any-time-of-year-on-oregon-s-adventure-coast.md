@@ -4,11 +4,11 @@ title: Plan the Perfect Romantic Getaway—Any Time of Year on Oregon’s Advent
 draft: false
 date: 2025-02-14T14:00:00-08:00
 description: >-
-  *Whether you’re celebrating a special occasion, planning a spontaneous date
+  Whether you’re celebrating a special occasion, planning a spontaneous date
   night, or seeking a weekend escape, Oregon’s Adventure Coast: Coos Bay, North
   Bend, Charleston offers the perfect setting for a romantic retreat where
   lasting memories are made. From intimate dinners to outdoor adventures, we’ve
-  curated ideas to help you craft an unforgettable couples’ getaway.*
+  curated ideas to help you craft an unforgettable couples’ getaway.
 image: /img/romantic-adventures-oregon-coast-blog-695x322.jpg
 tags:
   - Oregon's Adventure Coast
