@@ -119,25 +119,10 @@ Here are a few local hiking destinations to inspire your next romantic outing:
 ![](/img/romantic-adventures-oregon-coast-blog-695x322-5.jpg)
 
 * Pamper yourself while overlooking the bay at [Beautiful You,](https://www.beautifulyou-pnw.net/) a Medi Day Spa in Coos Bay Village. Choose from a massage, facial, mani/pedi or all the above! Be sure to call and make an appointment before your trip to guarantee a session.
-
-  &nbsp;
-
 * Catch a classic film at the historic [Egyptian Theatre in Coos Bay](https://www.egyptiantheatre.events/), where the vintage charm and grand architecture create a uniquely romantic setting for a memorable date night.
-
-  &nbsp;
-
 * Explore local art, history, and marine life by visiting local [cultural gems](https://www.oregonsadventurecoast.com/art-history-culture/) like the [Coos History Museum](https://www.oregonsadventurecoast.com/blog/oregon-s-adventure-coast-spotlight-coos-history-museum/), [Coos Art Museum](https://www.coosart.org/), and the [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/).
-
-  &nbsp;
-
 * Spend quality time [exploring the unique shops, boutiques, and antique stores](https://www.oregonsadventurecoast.com/shopping/) in the downtown areas of Coos Bay, North Bend, and Charleston, and don’t miss a sweet stop at [Cranberry Sweets](https://cranberrysweets.com/) or [Sweet Street](https://www.facebook.com/sweetstreetcoosbay/), two local favorites.
-
-  &nbsp;
-
 * Try your luck at [The Mill Casino](https://www.themillcasino.com/) and [Three Rivers Casino](https://www.threeriverscasino.com/coos-bay-casino), two top gaming destinations on Oregon’s Adventure Coast, offering slots, cards, and nonstop entertainment just minutes apart. [Learn more.](https://www.oregonsadventurecoast.com/blog/try-your-luck-on-oregon-s-adventure-coast)
-
-  &nbsp;
-
 * Enjoy a lively night out with cosmic bowling at [North Bend Lanes](https://northbendlanes.com/) or unwind with a pint at [7 Devils Brewing Co](https://www.7devilsbrewery.com). or one of the area’s welcoming local pubs.
 
 ### Where to Dine
