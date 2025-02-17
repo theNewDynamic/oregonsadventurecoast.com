@@ -44,11 +44,9 @@ tags:
   - Whiskey Run Beach
 warning: false
 ---
-**UPDATED January 29, 2025** *Please read the following update from Oregon State Parks effective this week*
+***UPDATED February 10, 2025:** Cape Arago Highway (Oregon Route 540) has been repaired and is now open to all vehicle traffic! All State Parks and hiking trails impacted by the damage in early January and are open to the public and accessible by vehicle.*
 
-*Active construction on the Cape Arago Highway slide began on Monday, January 27th, 2025. The road is now closed to all vehicle, bike, and foot traffic. Visitors will still be able to access the Bog Trail between the campground and Yoakam Point, the day-use areas of Sunset Bay, and the portion of the Oregon Coast Trail (OCT) that goes from South Sunset Bay Day Use to Norton Gulch. **There will not be access to any trails south of Norton Gulch while construction is happening. Shore Acres and Cape Arago State Parks will be inaccessible during this time.** Construction is expected to last several weeks as contractors rebuild the road as well as repair infrastructure. Road work is extremely weather dependent, but the State Parks department will communicate via official channels an estimated date for reopen as they work through the construction.*
-
-***Cape Arago Highway (Oregon Route 540) Closure: What It Means for Visitors to Shore Acres and Cape Arago State Parks...for Now.***
+**Cape Arago Highway (Oregon Route 540) Closure: What It Means for Visitors to Shore Acres and Cape Arago State Parks...for Now.**
 
 The [state parks](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) and [undeveloped beaches](https://www.oregonsadventurecoast.com/undeveloped-beaches/) along the [Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/) are among the most cherished destinations on the Oregon Coast. Known for their scenic trails, beaches, and wildlife, including seals and sea lions, these parks showcase the true beauty of **Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston**.
 
