@@ -4,11 +4,11 @@ title: Plan the Perfect Romantic Getaway—Any Time of Year on Oregon’s Advent
 draft: false
 date: 2025-02-14T14:00:00-08:00
 description: >-
-  *Whether you’re celebrating a special occasion, planning a spontaneous date
+  Whether you’re celebrating a special occasion, planning a spontaneous date
   night, or seeking a weekend escape, Oregon’s Adventure Coast: Coos Bay, North
   Bend, Charleston offers the perfect setting for a romantic retreat where
   lasting memories are made. From intimate dinners to outdoor adventures, we’ve
-  curated ideas to help you craft an unforgettable couples’ getaway.*
+  curated ideas to help you craft an unforgettable couples’ getaway.
 image: /img/romantic-adventures-oregon-coast-blog-695x322.jpg
 tags:
   - Oregon's Adventure Coast
@@ -68,7 +68,9 @@ tags:
   - Sharkbites Café
 warning: false
 ---
-Valentine’s Day may have come and gone, but that doesn’t mean romance is off the table. On Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, every day is an opportunity to celebrate love. This destination offers the perfect blend of Pacific Northwest beauty and a relaxed, adventurous spirit—making it an ideal escape for couples year-round. Whether you’re marking a special occasion, planning a spontaneous date night, or craving a weekend retreat, reconnecting with your significant other comes naturally here. From intimate dinners to outdoor adventures, we’ve gathered ideas to inspire your next unforgettable romantic getaway on Oregon’s Adventure Coast.
+Valentine’s Day may have come and gone, but that doesn’t mean romance is off the table. On Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, every day is an opportunity to celebrate love. This destination offers the perfect blend of Pacific Northwest beauty and a relaxed, adventurous spirit—making it an ideal escape for couples year-round.
+
+Whether you’re marking a special occasion, planning a spontaneous date night, or craving a weekend retreat, reconnecting with your significant other comes naturally here. From intimate dinners to outdoor adventures, we’ve gathered ideas to inspire your next unforgettable romantic getaway on Oregon’s Adventure Coast.
 
 ![](/img/romantic-adventures-oregon-coast-blog-695x322-3.jpg)
 
@@ -86,7 +88,7 @@ History lovers will find romance in every corner of [Coos Bay Manor](https://www
 
 ![](/img/romantic-adventures-oregon-coast-blog-695x322-4.jpg)
 
-They say couples who play together, stay together—and Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is the perfect place to do just that. This destination is beloved by visitors because it offers something for every couple, no matter their interests, abilities, or pace. Whether you’re drawn to rugged outdoor adventures, scenic hikes, rich history, or local arts and culture, you’ll find endless ways to connect and create lasting memories together. To help you craft the perfect romantic escape, we’ve gathered a few ideas to inspire your next getaway.
+They say couples who play together, stay together—and Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is the perfect place to do just that. This destination is beloved by visitors because it offers something for every couple, no matter their interests, abilities, or pace. Whether you’re drawn to rugged outdoor adventures, scenic hikes, rich history, or local arts and culture, you’ll find endless ways to connect and create lasting memories together.
 
 **Idea \#1- Drive Along the Newly Reopened Cape Arago Beach Loop.** Exciting news—[Cape Arago Highway (Oregon Route 540)](https://www.oregonsadventurecoast.com/blog/how-to-navigate-the-temporary-closure-of-cape-arago-highway/) has officially reopened as of February 2025! This scenic 8-mile stretch, known as the [Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/), is one of the most beautiful drives along Oregon’s Adventure Coast. With the reopening, all three iconic state parks—[Sunset Bay State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=70), [Shore Acres State Park](http://www.oregonsadventurecoast.com/listings/shore-acres-state-park/), and [Cape Arago State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=66) —are once again open and accessible by vehicle. Along the way, you can also visit [Simpson Reef and Shell Island](https://www.shareoregon.com/things-to-do/en/listings/126105-simpson-reef-and-shell-island-oregon-islands-nwr), a prime spot to observe seals, sea lions, and the rugged beauty of Shell Island, part of the [Oregon Islands National Wildlife Refuge](https://www.fws.gov/refuge/oregon_islands/).
 
@@ -94,9 +96,7 @@ Stroll the lush gardens and dramatic cliffs at [Shore Acres State Park](https://
 
 **Idea \#2- Explore our Local Beaches.** February on Oregon’s Adventure Coast often surprises visitors with clear skies and mild temperatures—ideal for a romantic walk along [our pristine, uncrowded beaches](https://www.oregonsadventurecoast.com/undeveloped-beaches/). Explore the natural beauty of Horsfall Beach, Bastendorff Beach, Sunset Bay State Park, Seven Devils State Recreation Site, and Whiskey Run Beach. Seven Devils State Recreation Site offers panoramic views and a driftwood-strewn beach ideal for finding agates and shells. Just a few minutes away, Whiskey Run Beach—once a smuggler’s route during Prohibition—invites you to enjoy a quiet walk, hunt for unique rocks, or simply take in the peaceful surroundings. ***\*\*Safety is key when visiting the Oregon Coast\*\*** Sneaker waves, undertows, and drifting logs can pose unexpected dangers, so always stay aware and never turn your back on the ocean.*
 
-**Idea \#3- Go Lighthouse Hunting.** [Exploring the lighthouses](https://www.oregonsadventurecoast.com/lighthouses/) along Oregon’s South Coast offers couples a chance to step into a world where land and sea collide while creating memories of their own. This is a place where history, nature, and timeless beauty blend seamlessly. Lighthouses evoke stories of sailors, storms, and distant journeys while offering couples the chance to create memories of their own.
-
-Within an hour’s drive of Coos Bay and North Bend, you’ll find five iconic lighthouses, each with its own story and sweeping views of the ocean. **Cape Arago Lighthouse** in Charleston has stood on a rugged bluff since 1934, while **Coquille River Lighthouse** near Bandon, built in 1896, now serves as an interpretive center. **Umpqua River Lighthouse** in Reedsport, first illuminated in 1894, still flashes it's signature red and white light. **Heceta Head Lighthouse** near Florence, with the most powerful beam on the coast, has guided mariners since 1894. **Cape Blanco Lighthouse**, commissioned in 1870, marks the state’s westernmost point near Port Orford.
+**Idea \#3- Go Lighthouse Hunting.** [Exploring the lighthouses](https://www.oregonsadventurecoast.com/lighthouses/) along Oregon’s South Coast offers couples a chance to step into a world where land and sea collide while creating memories of their own. Within an hour’s drive of Coos Bay and North Bend, you’ll find five iconic lighthouses, each with its own story and sweeping views of the ocean. **Cape Arago Lighthouse** in Charleston has stood on a rugged bluff since 1934, while **Coquille River Lighthouse** near Bandon, built in 1896, now serves as an interpretive center. **Umpqua River Lighthouse** in Reedsport, first illuminated in 1894, still flashes it's signature red and white light. **Heceta Head Lighthouse** near Florence, with the most powerful beam on the coast, has guided mariners since 1894. **Cape Blanco Lighthouse**, commissioned in 1870, marks the state’s westernmost point near Port Orford.
 
 **Idea \#4- Take an Oregon Coast Hike.** Few experiences are more romantic than [hiking the coastal forests and dramatic landscapes of Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/hiking-walking/) with your loved one. Here, you’ll discover some of the most diverse and breathtaking scenery in the country. Whether you’re climbing ancient dunes, hiking through rugged woodlands, or strolling along paths with sweeping ocean views, an unforgettable outdoor adventure awaits.
 
@@ -105,21 +105,9 @@ Within an hour’s drive of Coos Bay and North Bend, you’ll find five iconic l
 Here are a few local hiking destinations to inspire your next romantic outing:
 
 * **South Slough National Estuarine Research Reserve (South Slough NERR**) – A [5,000-acre natural area](https://www.oregon.gov/dsl/ss/pages/default.aspx) near Charleston, perfect for reconnecting with nature. Trails wind through estuarine habitats, and the interpretive center offers insight into the area’s marine life.
-
-  &nbsp;
-
 * **Oregon Coast Trail** – Offering easy-to-moderate hikes with photo-worthy ocean views along the Cape Arago Highway. For a shorter route, try the 2.25-mile roundtrip from [Sunset Bay State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;amp;parkId=70) day-use area to Norton Gulch and back. Scenic coves provide great spots to pause and take in the beauty. [Click here for a trail map](https://shoreacres.net/wp-content/uploads/2016/06/Trail-Map-Card-2016-web.pdf).
-
-  &nbsp;
-
 * **Golden and Silver Falls State Natural Area** – Nestled in lush coastal forests northeast of Coos Bay, this area showcases two spectacular waterfalls. It’s an ideal setting for a refreshing hike and a bit of [Forest Bathing](https://www.oregonsadventurecoast.com/forest-bathing/)! [Learn More.](https://www.oregonsadventurecoast.com/blog/exploring-golden-and-silver-falls-a-guide-to-hiking-this-natural-wonder-on-oregon-s-adventure-coast/)
-
-  &nbsp;
-
 * **Oregon Dunes National Recreation Area** – Spanning over 32,000 acres of dunes, forests, and waterways, this landscape is perfect for exploration. The [John Dellenback Trail](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5427142.pdf) is a favorite for hikers and fat-tire bikers seeking sweeping dune views. [Learn More.](https://www.oregonsadventurecoast.com/tripideas/oregon-dunes-national-recreation-area/)
-
-  &nbsp;
-
 * **Trails Less Traveled** – For a quieter experience, explore: [Empire Lakes Trail](http://coosbay.org/uploads/PDF/Operations/Parks/John_Topits_Park/JOHN_TOPITS_PARK_TRAIL_MAP.pdf), Millicoma Marsh, [Mingus Park](http://coosbay.org/departments/parks), [North Spit Of Coos Bay Trail System](https://www.blm.gov/visit/north-spit), Simpson Park / Ferry Road Park in North Bend.
 
   &nbsp;
@@ -131,25 +119,10 @@ Here are a few local hiking destinations to inspire your next romantic outing:
 ![](/img/romantic-adventures-oregon-coast-blog-695x322-5.jpg)
 
 * Pamper yourself while overlooking the bay at [Beautiful You,](https://www.beautifulyou-pnw.net/) a Medi Day Spa in Coos Bay Village. Choose from a massage, facial, mani/pedi or all the above! Be sure to call and make an appointment before your trip to guarantee a session.
-
-  &nbsp;
-
 * Catch a classic film at the historic [Egyptian Theatre in Coos Bay](https://www.egyptiantheatre.events/), where the vintage charm and grand architecture create a uniquely romantic setting for a memorable date night.
-
-  &nbsp;
-
 * Explore local art, history, and marine life by visiting local [cultural gems](https://www.oregonsadventurecoast.com/art-history-culture/) like the [Coos History Museum](https://www.oregonsadventurecoast.com/blog/oregon-s-adventure-coast-spotlight-coos-history-museum/), [Coos Art Museum](https://www.coosart.org/), and the [Charleston Marine Life Center](http://www.charlestonmarinelifecenter.com/).
-
-  &nbsp;
-
 * Spend quality time [exploring the unique shops, boutiques, and antique stores](https://www.oregonsadventurecoast.com/shopping/) in the downtown areas of Coos Bay, North Bend, and Charleston, and don’t miss a sweet stop at [Cranberry Sweets](https://cranberrysweets.com/) or [Sweet Street](https://www.facebook.com/sweetstreetcoosbay/), two local favorites.
-
-  &nbsp;
-
 * Try your luck at [The Mill Casino](https://www.themillcasino.com/) and [Three Rivers Casino](https://www.threeriverscasino.com/coos-bay-casino), two top gaming destinations on Oregon’s Adventure Coast, offering slots, cards, and nonstop entertainment just minutes apart. [Learn more.](https://www.oregonsadventurecoast.com/blog/try-your-luck-on-oregon-s-adventure-coast)
-
-  &nbsp;
-
 * Enjoy a lively night out with cosmic bowling at [North Bend Lanes](https://northbendlanes.com/) or unwind with a pint at [7 Devils Brewing Co](https://www.7devilsbrewery.com). or one of the area’s welcoming local pubs.
 
 ### Where to Dine
