@@ -6,8 +6,8 @@ url: open-meetings
 layout: open-meetings
 photo: /img/undeveloped-beaches-sub-header.jpg
 seo:
-  description: ''
   title: ''
+  description: ''
   imgalt: ''
   image: ''
 aliases:
@@ -25,7 +25,7 @@ date: '2019-02-18T19:35:33.000+00:00'
 
 Board Meetings are generally held at [**The Mill Casino \* Hotel**](https://www.themillcasino.com/) in the 2nd floor meeting rooms of the hotel property.
 
-Board Meetings are usually held on the **2nd Thursday of the month from 8:30 am to approximately 9:45 am**.
+**UPDATED 2/2025:** Board Meetings are usually held on the **3rd Thursday of the month from 8:30 am to approximately 9:45 am**.
 
 *On occasion, changes are made to this schedule. To be informed of meeting times/locations,* [*please ask to be added*](mailto:janice@oregonsadventurecoast.com) *to the **Public Notice** email which goes out the Monday prior to the meeting.*
 
@@ -46,7 +46,7 @@ The presiding office has the inherent authority to keep order and impost reasona
 
 #### [**Ask to be added to the Public Notice Announcement!**](mailto:janice@oregonsadventurecoast.com "Add me to the Public Notice Announcement")
 
-{{< spacer 50 >}}<img width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" style="color: var(--color-carbon); font-family: var(--font-family); letter-spacing: 0.01rem;" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" /><img width="15" title="Click and drag to move" height="15" role="presentation" draggable="true" style="color: var(--color-carbon); font-family: var(--font-family); letter-spacing: 0.01rem;" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
+{{< spacer 50 >}}<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" height="15" width="15" /><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" height="15" width="15" />
 
 #### Board Packets
 
