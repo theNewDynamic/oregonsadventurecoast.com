@@ -3,7 +3,7 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
-    photo: /img/clambake-musicfest-home-sliderv02-2048x850.jpg
+    photo: /img/clambake-musicfest-home-slider-2048x850.webp
     title_mobile:
     photo_mobile: /img/clambake-musicfest-mobile-slider-512x320.jpg
     url: /event/south-coast-clambake-music-festival
