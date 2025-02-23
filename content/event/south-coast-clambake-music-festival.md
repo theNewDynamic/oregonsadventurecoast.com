@@ -50,6 +50,8 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 
 The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hotel in North Bend on Oregon's Adventure Coast! The Mill hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar.
 
+#### <a href="https://clambakemusic.com/wp-content/uploads/2025-clambake-band-schedule.pdf" target="_blank" rel="noopener">Click here for the full schedule!</a>
+
 {{< spacer 50 >}}
 
 ![Annual South Coast Clambake Music Festival - Bands Playing Music](/img/clambake-band-guitars.jpg)

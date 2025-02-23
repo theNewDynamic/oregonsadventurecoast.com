@@ -38,13 +38,13 @@ home_splashes:
     img: /img/live-cam-home-pg-button.png
     alt: Live Weather Cams to See Our Area
 masonry1:
-  desktopphoto: /img/store-image-desktop.jpg
-  desktoptitle: Store
-  hoverdescription: Shop for Oregon's Adventure Coast gear!
-  hovertitle: Get Gear
-  mobilephoto: /img/store-image-shirts-mobile.jpg
-  mobiletitle: The Adventure Store
-  url: /shop/
+  desktopphoto: /img/running-desktop-masonry-146x152.jpg
+  desktoptitle: Running
+  hoverdescription: Lace up your shoes for a run!
+  hovertitle: Running
+  mobilephoto: /img/running-mobile-masonry-345x160.jpg
+  mobiletitle: Running
+  url: /running
 masonry2:
   desktopphoto: /img/forest-bathing-masonry-desktop.jpg
   desktoptitle: Forest Bathing & Mindfulness
