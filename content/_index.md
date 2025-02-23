@@ -41,7 +41,7 @@ masonry1:
   desktopphoto: /img/running-desktop-masonry-146x152.jpg
   desktoptitle: Running
   hoverdescription: Lace up your shoes for a run!
-  hovertitle: Running
+  hovertitle: Lace Up!
   mobilephoto: /img/running-mobile-masonry-345x160.jpg
   mobiletitle: Running
   url: /running
