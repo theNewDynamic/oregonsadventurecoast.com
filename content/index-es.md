@@ -14,13 +14,13 @@ slideshow:
   photo: "/img/summer-spanish-hm-slider-lg.jpg"
 welcomeheadline: "¡Bienvenidos a Oregon’s Adventure Coast!"
 masonry1:
-  desktopphoto: "/img/store-image-desktop.jpg"
-  desktoptitle: Store
-  hoverdescription: Shop for Oregon's Adventure Coast gear!
-  hovertitle: Get Gear
-  mobilephoto: "/img/store-image-mobile.jpg"
-  mobiletitle: The Adventure Store
-  url: "/shop/"
+  desktopphoto: /img/running-desktop-masonry-146x152.jpg
+  desktoptitle: Running
+  hoverdescription: Lace up your shoes for a run!
+  hovertitle: Lace Up!
+  mobilephoto: /img/running-mobile-masonry-345x160.jpg
+  mobiletitle: Running
+  url: /running
 masonry2:
   desktopphoto: "/img/mtn-biking-masonry-large-desktop.jpg"
   desktoptitle: Year-Round Mountain Biking
@@ -82,15 +82,15 @@ home_splashes:
   url: "/adventures"
 
 ---
-Le damos la bienvenida a las ciudades de Coos Bay, North Bend y Charleston, conocidas en conjunto como Oregon's Adventure Coast. Aquí, el mar se encuentra con la tierra, permitiendo una variedad de experiencias. Lo invitamos a explorar, descubrir, sentir y experimentar. 
+Le damos la bienvenida a las ciudades de Coos Bay, North Bend y Charleston, conocidas en conjunto como Oregon's Adventure Coast. Aquí, el mar se encuentra con la tierra, permitiendo una variedad de experiencias. Lo invitamos a explorar, descubrir, sentir y experimentar.
 En Oregon's Adventure Coast, encontrará no solamente cosas que hacer, si no, sus actividades favoritas, con opciones de aventura, ecoturismo, exploración de fauna, cultura, arte y hasta actividades atléticas.
-Nuestras actividades acuáticas incluyen kayak, nado y surfeo, también pesca, incluidos cangrejos y almejas. Visite las dunas de arena en un ATV, escale por los caminos intrigantes de las montañas y corra los mismos caminos que la leyenda y héroe local, Steve Prefontaine. 
+Nuestras actividades acuáticas incluyen kayak, nado y surfeo, también pesca, incluidos cangrejos y almejas. Visite las dunas de arena en un ATV, escale por los caminos intrigantes de las montañas y corra los mismos caminos que la leyenda y héroe local, Steve Prefontaine.
 ## Admire la naturaleza y serenidad
 No podrá creer lo diverso que es nuestro paisaje. Por eones, el tiempo ha moldeado el paisaje aquí, donde las olas del océano crean hermosa neblina que cambia de forma. Usted puede realizar aventuras y meditar frente a la naturaleza.
 Pase tiempo admirando pozas de marea debajo de acantilados y piedras. Explore los estuarios activos. Nuestra área especial atrae a una amplia colección de pájaros y vida silvestre. Experimente la naturaleza a su propia velocidad, sin distracciones. En la tarde, relájese y recuerde su día, duerma viendo el bello atardecer.
 ## Opciones Urbanas
-Si busca un descanso de la actividad afuera, Adventure Coast lo tiene cubierto. Hay cuatro museos fascinantes y muchos sitios históricos interesantes. 
-El histórico Egyptian Theatre con su bello estilo de decoración egipcio es algo que usted tiene que ver. Hay eventos, música en vivo y películas frecuentemente. La historia del edificio emana de las paredes y la pintura original del 1925 que las cubre. 
+Si busca un descanso de la actividad afuera, Adventure Coast lo tiene cubierto. Hay cuatro museos fascinantes y muchos sitios históricos interesantes.
+El histórico Egyptian Theatre con su bello estilo de decoración egipcio es algo que usted tiene que ver. Hay eventos, música en vivo y películas frecuentemente. La historia del edificio emana de las paredes y la pintura original del 1925 que las cubre.
 Sin comparar con lo anterior, la locomotora de vapor Baldwin original del 1992, pieza central del Oregon Coast Historical Railway Museum es algo que tiene que visitar. Este mini-museo al aire libre tiene otro equipo único de trenes y tala de árboles – ¡Así que venga a explorar!
 Hay entretenimiento de sobra con música en vivo en muchos de los bares y restaurantes locales. Hay juegos de casino estilo Las Vegas las 24 horas del día, con juegos de mesa, blackjack, póker y cientos de slots en dos casinos locales.
 Nuestros sitios para comida están bajo constante evolución, muchos se concentran en el concepto de granja/océano hasta su mesa. Esto garantiza comida fresca y con ingredientes locales. Tenemos muchas cafeterías y tiendas de snacks, así como pastelerías y tiendas especializadas.
