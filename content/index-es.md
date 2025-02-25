@@ -45,7 +45,7 @@ masonry4:
   desktoptitle: Museums & History
   hoverdescription: >-
     Oregon's Adventure Coast has several fascinating museums and historical
-    sites! 
+    sites!
   hovertitle: Oregon's Largest Coastal Urban Center
   mobilephoto: /img/hm-mas-museum-mobile.jpg
   mobiletitle: Museums & History
@@ -87,14 +87,12 @@ promotional_banner: https://craterlakecountry.com/coos-bay/
 Le damos la bienvenida a las ciudades de Coos Bay, North Bend y Charleston, conocidas en conjunto como Oregon's Adventure Coast. Aquí, el mar se encuentra con la tierra, permitiendo una variedad de experiencias. Lo invitamos a explorar, descubrir, sentir y experimentar.
 En Oregon's Adventure Coast, encontrará no solamente cosas que hacer, si no, sus actividades favoritas, con opciones de aventura, ecoturismo, exploración de fauna, cultura, arte y hasta actividades atléticas.
 Nuestras actividades acuáticas incluyen kayak, nado y surfeo, también pesca, incluidos cangrejos y almejas. Visite las dunas de arena en un ATV, escale por los caminos intrigantes de las montañas y corra los mismos caminos que la leyenda y héroe local, Steve Prefontaine.
-
 ## Admire la naturaleza y serenidad
 
 No podrá creer lo diverso que es nuestro paisaje. Por eones, el tiempo ha moldeado el paisaje aquí, donde las olas del océano crean hermosa neblina que cambia de forma. Usted puede realizar aventuras y meditar frente a la naturaleza.
 Pase tiempo admirando pozas de marea debajo de acantilados y piedras. Explore los estuarios activos. Nuestra área especial atrae a una amplia colección de pájaros y vida silvestre. Experimente la naturaleza a su propia velocidad, sin distracciones. En la tarde, relájese y recuerde su día, duerma viendo el bello atardecer.
 
 ## Opciones Urbanas
-
 Si busca un descanso de la actividad afuera, Adventure Coast lo tiene cubierto. Hay cuatro museos fascinantes y muchos sitios históricos interesantes.
 El histórico Egyptian Theatre con su bello estilo de decoración egipcio es algo que usted tiene que ver. Hay eventos, música en vivo y películas frecuentemente. La historia del edificio emana de las paredes y la pintura original del 1925 que las cubre.
 Sin comparar con lo anterior, la locomotora de vapor Baldwin original del 1992, pieza central del Oregon Coast Historical Railway Museum es algo que tiene que visitar. Este mini-museo al aire libre tiene otro equipo único de trenes y tala de árboles – ¡Así que venga a explorar!
