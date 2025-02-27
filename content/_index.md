@@ -8,6 +8,12 @@ slideshow:
     photo_mobile: /img/clambake-musicfest-mobile-slider-512x320.jpg
     url: /event/south-coast-clambake-music-festival
     video:
+  - title:
+    photo: /img/cabin-fever-home-slider-2048x850.jpg
+    title_mobile:
+    photo_mobile:
+    url: /adventures
+    video:
   - title: Catch Your Own Feast!
     photo: /img/crab-feed-home-page-slider.jpg
     title_mobile: Catch Your Own Feast!
