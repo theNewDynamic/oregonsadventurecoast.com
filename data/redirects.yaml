@@ -1,5 +1,7 @@
 ---
 site_redirects:
+- to: "/"
+  from: "/shop/"
 - to: "/img/Oregon-Coast-Visifromr-Guide.pdf"
   from: "/wp-content/uploads/2018/06/Oregon-Coast-Visifromr-Guide.pdf"
 - to: "/durations/full-day"
