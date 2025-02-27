@@ -15,6 +15,10 @@ seo:
 
 # Duplicated COPY FOR NEXT YEAR INSERTION
 
+Our Contest has Closed
+
+Thanks for all who have participated. Don't forget, there is still time to get your tickets! [Visit the Event Page here for more information.](https://github.com/theNewDynamic/oregonsadventurecoast.com/blob/1a62c0a7bee995c3cc0ab2b10e6c9c6df5fac8c5/event/south-coast-clambake-music-festival)
+
 ### Two All Access Event Passes, Lodging & Meals
 
 Enter to win **two All Access Event Passes to the 2025 South Coast Clambake Music Festival in North Bend, Oregon – PLUS a 3-Night Stay, movie tickets and a bite at a couple of local favorite eateries**&nbsp;while you are here. If you are selected as the winner, you agree to allow us to use your name and image in promotional content. Prize package is specific to the weekend of March 13-16, 2025. No Cash Value. Certificates will not be replaced if lost, stolen or left behind. Certificates must be presented at time of use to festival entry, hotel, restaurant and/or movie. Transportation to/from Oregon’s Adventure Coast is not provided.&nbsp;**Contest ends February 28th, 2025**&nbsp;so we have time to pick our winner and you have time to pack and get ready for an amazing weekend!
