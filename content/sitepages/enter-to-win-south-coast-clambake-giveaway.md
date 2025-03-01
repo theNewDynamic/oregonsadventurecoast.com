@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Enter to Win South Coast Clambake Music Festival Getaway!
+title: South Coast Clambake Music Festival
 draft: false
 url: /ww-clambake-giveaway
 layout: contact
@@ -15,4 +15,4 @@ seo:
 
 ### Our Contest Has Closed
 
-Thanks for all who have participated. Don't forget, there is still time to get your tickets! [Visit the Event Page here for more information.](/event/south-coast-clambake-music-festival)
+Thanks for all who have participated. Don't forget, there is still time to get your tickets!  [Visit the Event Page here for more information.](/event/south-coast-clambake-music-festival)
