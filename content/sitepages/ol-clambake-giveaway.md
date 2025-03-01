@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Enter to Win Clambake Music Festival Getaway!
+title: South Coast Clambake Music Festival
 draft: false
 url: /kezi-clambake-giveaway
 layout: contact
