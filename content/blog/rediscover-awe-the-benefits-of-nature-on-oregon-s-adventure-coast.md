@@ -48,7 +48,9 @@ tags:
   - Shore Acres State Park
 warning: false
 ---
-What do hiking through [Golden and Silver Falls State Natural Area](https://www.oregonsadventurecoast.com/blog/2016-02-05-adventure-spotlight-golden-and-silver-falls/), spotting rare[shorebirds](https://www.oregonsadventurecoast.com/birding-and-wildlife/) in their natural habitat, discovering a beautiful [work of art](https://www.oregonsadventurecoast.com/art-history-culture/), and watching a magnificent sunset on a [beautiful beach](https://www.oregonsadventurecoast.com/undeveloped-beaches/) have in common? If you guessed "things you can do on Oregon’s Adventure Coast," you’re right! But these experiences share something even more powerful—they evoke awe, a feeling of wonder and amazement in response to something vast or inspiring. And awe isn’t just a beautiful experience—it also offers proven health benefits for both mind and body.
+What do hiking through [Golden and Silver Falls State Natural Area](https://www.oregonsadventurecoast.com/blog/2016-02-05-adventure-spotlight-golden-and-silver-falls/), spotting rare [shorebirds](https://www.oregonsadventurecoast.com/birding-and-wildlife/) in their natural habitat, discovering a beautiful [work of art](https://www.oregonsadventurecoast.com/art-history-culture/), and watching a magnificent sunset on a [beautiful beach](https://www.oregonsadventurecoast.com/undeveloped-beaches/) have in common? If you guessed "things you can do on Oregon’s Adventure Coast," you’re right!
+
+But these experiences share something even more powerful—they evoke awe, a feeling of wonder and amazement in response to something vast or inspiring. And awe isn’t just a beautiful experience—it also offers proven health benefits for both mind and body.
 
 ![](/img/oregon-coast-nature-therapy-blog-695x322-1.png)
 
