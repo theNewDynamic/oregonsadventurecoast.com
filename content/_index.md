@@ -3,15 +3,9 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
-    photo: /img/clambake-musicfest-home-slider-2048x850.webp
-    title_mobile:
-    photo_mobile: /img/clambake-musicfest-mobile-slider-512x320.jpg
-    url: /event/south-coast-clambake-music-festival
-    video:
-  - title:
     photo: /img/cabin-fever-home-slider-2048x850.jpg
     title_mobile:
-    photo_mobile:
+    photo_mobile: /img/cabin-fever-mobile-512x320.jpg
     url: /adventures
     video:
   - title: Catch Your Own Feast!
