@@ -10,4 +10,4 @@ seo:
   imgalt: ''
   image: ''
 ---
-<script type="text/javascript" src="https://form.jotform.com/jsform/200485987777172"></script>
+Thank you for your interest! The **Vancouver, BC, Outdoor Adventure Show Contest** hosted by **Travel Southern Oregon** has now closed. We appreciate everyone who entered and participated. Stay tuned for future contests and exciting travel opportunities!
