@@ -75,7 +75,7 @@ With so many campgrounds to choose from, finding the perfect place to set up cam
 * **Reservations:** Make your reservation in advance with [Oregon State Parks](https://oregonstateparks.reserveamerica.com/camping/sunset-bay-state-park/r/campgroundDetails.do?contractCode=OR&amp;parkId=402382) or by calling 800-452-5687.
 * **More Info:** [stateparks.oregon.gov](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=70)
 
-**2\. Bluebill Campground (North Bend)**
+#### **2\. Bluebill Campground (North Bend)**
 
 * **Best for:** Campers who enjoy fishing, [ATV/Motorsports](https://www.oregonsadventurecoast.com/atv-motorsports/), and a quieter camping experience. Visitors report hearing ATVs and horses in the distance during the day, but nights are peaceful.
 * **Why it's popular:** Nestled within the [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/untamed-dunes/), the campground offers proximity to Bluebill Lake and off-highway vehicle (OHV) trails.​
@@ -86,7 +86,7 @@ With so many campgrounds to choose from, finding the perfect place to set up cam
 * **Reservations:** Reserve online at [www.recreation.gov](https://www.recreation.gov/camping/campgrounds/234579) or phone 1.877.444.6777. All Bluebill campsites require a digital reservation and payment.
 * **More Info:** [www.fs.usda.gov/recarea/siuslaw](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42647)
 
-**3\. Bastendorff Beach County Park (Charleston, OR)**
+#### **3\. Bastendorff Beach County Park (Charleston, OR)**
 
 * **Best for:** Families, couples and friends who want proximity to the beach, fishing, and convenience.
 * **Why it's popular:** Located near the ocean, Bastendorff Beach County Park features well-maintained facilities, easy access to the [beach](https://www.oregonsadventurecoast.com/undeveloped-beaches/), and [water recreation](https://www.oregonsadventurecoast.com/water-recreation/).
@@ -98,7 +98,7 @@ With so many campgrounds to choose from, finding the perfect place to set up cam
 * **Reservations:** All reservations can be made up to 270 days in advance (two-night minimum stay required). [Click here](https://properties.camping.com/Bastendorff-County-Park-Coos-County/Reservations) to make a reservation.
 * **More Info:** [www.co.coos.or.us/parksrec/page/bastendorff](https://www.co.coos.or.us/parksrec/page/bastendorff)
 
-**4\. Horsfall Campground (North Bend)**
+#### **4\. Horsfall Campground (North Bend)**
 
 * **Best for:** [Off-road vehicle riders](https://www.oregonsadventurecoast.com/atv-motorsports/), campers who want access to [hiking trails](https://www.oregonsadventurecoast.com/hiking-walking/), [fishing](https://www.oregonsadventurecoast.com/fishing/), and [beachcombing](https://www.oregonsadventurecoast.com/undeveloped-beaches/).
 * **Why it's popular:** Located in the [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/untamed-dunes/), Horsfall Campground offers direct access to miles and miles of dunes for off-road vehicle riders, as well as nearby hiking trails, a lake, and ponds for a range of outdoor recreational activities.
@@ -110,7 +110,7 @@ With so many campgrounds to choose from, finding the perfect place to set up cam
 * **Reservations:** Reserve online at [www.recreation.gov](https://www.recreation.gov/camping/campgrounds/234267) or phone 877.444.6777. All Horsfall campsites require a digital reservation and payment.
 * **More Info:** [https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42629](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42629)
 
-**5\. Eel Creek Campground (Lakeside)**
+#### **5\. Eel Creek Campground (Lakeside)**
 
 * **Best for:** Hikers, birders, photographers, and anyone looking to explore a unique dune landscape.
 * **Why it's popular:** Situated at the edge of the [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/untamed-dunes/), this campground offers a one-of-a-kind dune camping experience. While set slightly inland, it still provides convenient access to the expansive Oregon Dunes.
