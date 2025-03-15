@@ -64,7 +64,7 @@ With so many campgrounds to choose from, finding the perfect place to set up cam
 
 **\*\*Tip: Set up your tent on higher ground with natural windbreaks to avoid flooding. Avoid trees, as falling branches or dripping moisture can soak your gear.\*\***
 
-**1\. Sunset Bay State Park (Charleston)**
+###### **1\. Sunset Bay State Park (Charleston)**
 
 * **Best for:** Campers seeking a mix of beach access, hiking opportunities, and scenic beauty.​
 * **Why it's popular:** Features a sheltered, crescent-shaped beach, tide pools, hiking trails, and a year-round campground.​
