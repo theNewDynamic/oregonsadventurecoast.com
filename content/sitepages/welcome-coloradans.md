@@ -12,6 +12,8 @@ Oregon’s Adventure Coast is excited to be **THE** Oregon Coast destination for
 
 Our area offers temperate weather and enough space for every visitor to do what they love, with room to spare.
 
+![Mountain Biking, Charter Salmon Fishing &amp; Sunset over Sunset Bay](/img/denver-welcome-collage-01.jpg)
+
 #### A few of our more popular activities include:
 
 * [**Deep-sea Charter Fishing**](/fishing) right out of our port in Charleston. Or try river, lake and shore fishing.
@@ -25,6 +27,8 @@ Our area offers temperate weather and enough space for every visitor to do what 
 * Ample areas to just plop down in a forest or other natural setting and really experience nature through [**Forest Bathing**](/forest-bathing). Anyone can do it, and we even have a [forest bathing how-to guide](/forest-bathing-guide) on this site.
 
 **Come. Explore. You won't want to** ***coast*** **anywhere else!**
+
+![forest bathing - woman with outstretched arms and woman holding crab](/img/denver-welcome-forest-bathing-crab.jpg)
 
 {{< spacer "25" >}}
 
