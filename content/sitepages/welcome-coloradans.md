@@ -26,7 +26,13 @@ Our area offers temperate weather and enough space for every visitor to do what 
 
 **Come. Explore. You won't want to** ***coast*** **anywhere else!**
 
-#### Book your DIRECT flight from "DEN to OTH" now on United
+{{< spacer "25" >}}
+
+![Airplane landing and Denver to North Bend Header](/img/sub-denver-direct-flight-695x125.jpg)
+
+Book your **direct** flight from **DEN to OTH** now on United! Daily flights begin **May 22, 2025, and run through October 29, 2025**. Search using the airport codes **DEN (Denver) and OTH (Southwest Oregon Regional Airport)** to find tickets and secure your adventure to Oregon’s Adventure Coast today!
+
+{{< spacer "20" >}}
 
 {{< columns number="2" >}}
 
@@ -36,6 +42,8 @@ divider
 
 <a href="https://www.cooscountyairportdistrict.com/" target="_blank" rel="noopener"><img src="/img/oth-logo-southwest-oregon-regional-airport.png" alt="Southwest Oregon Regional Airport" /></a>
 {{< /columns >}}
+
+&nbsp;
 
 (((LINK TO LODGING)))<br>(((LINK TO CALENDAR)))
 
