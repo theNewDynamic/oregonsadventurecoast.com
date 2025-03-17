@@ -2,7 +2,7 @@
 _schema: default
 title: Welcome Coloradans!
 draft: false
-url: /dev
+url: /den
 layout: contact
 photo: /img/denver-to-oth-page-hdr-2048x530.jpg
 ---
