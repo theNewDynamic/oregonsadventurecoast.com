@@ -14,6 +14,8 @@ Our area offers temperate weather and enough space for every visitor to do what 
 
 ![Mountain Biking, Charter Salmon Fishing &amp; Sunset over Sunset Bay](/img/denver-welcome-collage-01.jpg)
 
+{{< spacer "25" >}}
+
 #### A few of our more popular activities include:
 
 * [**Deep-sea Charter Fishing**](/fishing) right out of our port in Charleston. Or try river, lake and shore fishing.
@@ -47,8 +49,6 @@ divider
 <a href="https://www.cooscountyairportdistrict.com/" target="_blank" rel="noopener"><img src="/img/oth-logo-southwest-oregon-regional-airport.png" alt="Southwest Oregon Regional Airport" /></a>
 {{< /columns >}}
 
-&nbsp;
+The options are endless! Come rediscover your sense of awe and experience the benefits for yourself by visiting the forests, beaches, and natural beauty on **Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston**. <a href="/trip-ideas" target="_blank" rel="noopener">Click here</a> for unique trip itineraries, and browse through our suggestions as you plan your getaway.
 
-(((LINK TO LODGING)))<br>(((LINK TO CALENDAR)))
-
-&nbsp;
+<a href="/contact" target="_blank" rel="noopener">Contact us</a> to get even more tips, as well as the inside scoop, for finding the best local food, activities and [lodging](/lodging/) any time of the year, and visit our <a href="/adventures" target="_blank" rel="noopener">Adventure Page</a> for more ideas and inspiration. <a href="/img/Oregon-Coast-Visitor-Guide.pdf" target="_blank" rel="noopener">Download our Visitor Guide (PDF)</a>.
