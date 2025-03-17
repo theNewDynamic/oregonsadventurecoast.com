@@ -30,15 +30,13 @@ Our area offers temperate weather and enough space for every visitor to do what 
 
 {{< columns number="2" >}}
 
-United Flight
+<a href="https://www.united.com/en/us" target="_blank" rel="noopener"><img src="/img/united-airport-logo.png" alt="United Airlines Logo" /></a>
 
 divider
 
-OTH Logo & Link{{< /columns >}}
-
 <a href="https://www.cooscountyairportdistrict.com/" target="_blank" rel="noopener"><img src="/img/oth-logo-southwest-oregon-regional-airport.png" alt="Southwest Oregon Regional Airport" /></a>
+{{< /columns >}}
 
-<a href="https://www.united.com/en/us" target="_blank" rel="noopener"><img src="/img/united-airport-logo.png" alt="United Airlines Logo" /></a>
 
 (((LINK TO LODGING)))<br>(((LINK TO CALENDAR)))
 
