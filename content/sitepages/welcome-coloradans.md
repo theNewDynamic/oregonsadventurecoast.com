@@ -1,12 +1,14 @@
 ---
 _schema: default
-title: Welcome Coloradans!
+title: Oregon’s Adventure Coast Awaits!
 draft: false
 url: /den
 layout: contact
 photo: /img/denver-to-oth-page-hdr-2048x530.jpg
 ---
-![Sunset view of Oregon Coast cliffs with text promoting Daily Direct Flight to the Oregon Coast](/img/denver-page-sub-head-695x322.jpg)
+####
+
+![Sunset view of Oregon Coast cliffs with text promoting Daily Direct Flight to the Oregon Coast](/img/denver-page-sub-head-02.jpg)
 
 Oregon’s Adventure Coast is excited to be **THE** Oregon Coast destination for direct flights from Denver to North Bend, Oregon **(DEN to OTH).** United is offering non-stop flights from May 22 to October 29, 2025. So when you think you need a new outdoor adventure, you’ve found it. We feel kindred to our Colorado friends in that we are both known for being outdoorsy and into adrenaline sports with unique and tranquil natural surroundings.
 
