@@ -6,7 +6,7 @@ url: /den
 layout: contact
 photo: /img/denver-to-oth-page-hdr-2048x530.jpg
 ---
-#### Direct Flights from Denver to Paradise
+####
 
 ![Sunset view of Oregon Coast cliffs with text promoting Daily Direct Flight to the Oregon Coast](/img/denver-page-sub-head-02.jpg)
 
