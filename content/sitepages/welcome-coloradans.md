@@ -10,7 +10,7 @@ photo: /img/denver-to-oth-page-hdr-2048x530.jpg
 
 ![Sunset view of Oregon Coast cliffs with text promoting Daily Direct Flight to the Oregon Coast](/img/denver-page-sub-head-02.jpg)
 
-Oregon’s Adventure Coast is excited to be **THE** Oregon Coast destination for direct flights from Denver to North Bend, Oregon **(DEN to OTH).** United is offering non-stop flights from May 22 to October 29, 2025. So when you think you need a new outdoor adventure, you’ve found it. We feel kindred to our Colorado friends in that we are both known for being outdoorsy and into adrenaline sports with unique and tranquil natural surroundings.
+Oregon’s Adventure Coast is excited to be **THE** Oregon Coast destination for direct flights from Denver to North Bend, Oregon **(DEN to OTH).** <a href="https://www.united.com/en/us" target="_blank" rel="noopener">United Airlines</a> is offering daily non-stop flights from May 22 to October 29, 2025 to Oregon's South Coast and the only commercial airport on the Oregon Coast. So when you think you need a new outdoor adventure, you’ve found it. We feel kindred to our Colorado friends in that we are both known for being outdoorsy and into adrenaline sports with unique and tranquil natural surroundings.
 
 The Southern Oregon Coast offers temperate weather and enough space for every visitor to do what they love, with room to spare.
 
@@ -22,12 +22,12 @@ The Southern Oregon Coast offers temperate weather and enough space for every vi
 
 * [**Deep-sea Charter Fishing**](/fishing) right out of our port in Charleston. Or try river, lake and shore fishing.
 * Try your hand at two local favorite activities – [**Crabbing**](/crabbing-clamming) and [**Clamming**](/clamming).
-* Home to [**Steve Prefontaine**](/steve-prefontaine-story), famous for his record setting track records in the 1970’s we have become a draw for those into running.
+* Home to [**Steve Prefontaine**](/steve-prefontaine-story), famous for his record setting long distance running in the 1970’s, we have become a draw for those into running.
 * [**Hiking**](/hiking-walking) is also popular, on trails from forest to ocean cliffs and beaches.
 * World-Class mountain biking on [**Whiskey Run Trails**](/cycling).
 * [**Water Adventures**](/water-recreation) like Stand-Up Paddle Boarding, Kayaking, Surfing and Beach Combing.
 * Great [**ATV’ing**](/atv-motorsports) in [**The Oregon Dunes National Recreation Area**](/untamed-dunes), home to the largest coastal sand dunes in North America.
-* [**State Parks & National Lands**](/state-parks-and-national-lands) - Endless windswept ocean bluffs and cliffs, formed from eons of Pacific Ocean storms crashing against the bedrock, making for astounding visuals of Mother Nature’s power.
+* [**State Parks & National Lands**](/state-parks-and-national-lands) include endless windswept ocean bluffs and cliffs, formed from eons of Pacific Ocean storms crashing against the bedrock, making for astounding visuals of Mother Nature’s power.
 * Ample areas to just plop down in a forest or other natural setting and really experience nature through [**Forest Bathing**](/forest-bathing). Anyone can do it, and we even have a [forest bathing how-to guide](/forest-bathing-guide) on this site.
 
 **Come. Explore. You won't want to** ***coast*** **anywhere else!**
