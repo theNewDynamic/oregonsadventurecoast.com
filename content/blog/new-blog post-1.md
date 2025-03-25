@@ -32,6 +32,8 @@ tags:
   - sports travel
   - sports events
   - sports tournament
+categories:
+  - Oregon's Adventure Coast News & Info
 warning: false
 ---
 ***Oregon’s Adventure Coast Proudly Hosts 2025 OSAA 3A State Basketball Championships a.k.a. \#3ACoosBay***
