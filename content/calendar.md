@@ -18,4 +18,4 @@ There’s something special about Oregon’s Adventure Coast that you won’t fi
 
 ## Find the Right Special Activity During Your Vacation to the Oregon Coast
 
-With plenty of opportunities to take in arts, culture, live music, athletics, and more, the Oregon Coast is an excellent destination for a getaway or vacation. Make the most of your visit by trying a few new activities, any time of year.
+With plenty of opportunities to take in arts, culture, live music, athletics, and more, the Oregon Coast is an excellent destination for a getaway or vacation. Make the most of your visit by trying a few new activities, any time of year. For major events and festivals, check out our featured events [here](/events).
