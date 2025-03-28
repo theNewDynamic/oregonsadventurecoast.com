@@ -91,14 +91,11 @@ Some of the best advice you will receive will probably come from one of the fish
 Most clams in Coos Bay live just a few inches to a couple feet beneath the sand. Look for round holes about the size of a nickel or quarter—often signs of gaper or butter clams. Once you spot one, you can dig with a shovel or use a clam gun to retrieve it.
 
 * **Shovel Method:** Start about 6 inches from the clam’s “show” (the hole) and dig straight down with a small shovel, aiming to reach it from the side or underneath. Gapers may be 1–2 feet deep; butter clams and littlenecks are usually shallower. Go slow near the bottom—feel for the shell and pull it out gently to avoid breakage. Cockles are often just below the surface and can be found by raking or sifting the top few inches—kids love this “clam treasure hunt.”
-
-  &nbsp;
-
 * **Clam Gun Method:** Place the "gun" (usually made from a PVC or stainless steel tube) over the show hole, push it straight down, cover the top to create suction, and pull up a plug of sand. This method can be effective for deep clams like gapers and works well in Coos Bay's mudflats. It's easier on your back and helps prevent the hole from collapsing. No clam gun? No problem—a shovel works just as well, and some locals even prefer it. Try both and see what works best for you—either way, expect to get muddy and have fun.
 
 We could tell you more, but it's easier to show you—these videos demonstrate what to look for and how to find clams:
 
-{{< youtube id="Nk7PjEaMOA" >}}
+{{< youtube id="_Nk7PjEaMOA" >}}
 
 &nbsp;
 
