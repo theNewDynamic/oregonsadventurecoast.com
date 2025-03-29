@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Aspen Lace Boutique at Coos Bay Village
-draft: true
+draft: false
 property_description: >-
   Sister-owned Boutique located at Coos Bay Village carrying women's clothing,
   shoes, accessories and more! Open 11am-6pm Mon-Sat.
