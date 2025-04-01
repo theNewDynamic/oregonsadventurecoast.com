@@ -36,11 +36,11 @@ Join fellow fans for a weekend of thrilling action, mystery, and nostalgia in on
 
 <a href="https://www.egyptiantheatre.events/" target="_blank" rel="noopener">Visit the Egyptian Theatre’s website for showtimes and details.</a>
 
-{{< spacer "20" >}}
+{{< spacer "25" >}}
 
 ![Interior of grand Egyptian theatre with text reading 'more than a movie, it's an experience at the historic egyptian theater'](/img/interior-panoramic-695x405.jpg)
 
-{{< spacer "20" >}}
+{{< spacer "25" >}}
 
 ## Batman Weekend Film Festival Schedule
 
