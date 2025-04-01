@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Batman Film Festival Weekend
-startdate: '2025-06-01'
-enddate: '2025-06-06'
+startdate: '2025-04-25'
+enddate: '2025-04-25'
 address:
   city: Coos Bay
   state: Oregon
