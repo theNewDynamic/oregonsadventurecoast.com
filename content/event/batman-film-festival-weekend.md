@@ -11,7 +11,14 @@ address:
   zip: '97420'
 phone_local: 541-808-8295
 website: https://www.egyptiantheatre.events
-desktoptitle: Batman Film Festival Weekend
+desktoptitle: Batman Weekend Film Festival
+mobiletitle: Batman Film Festival
+hovertitle: Batman Weekend Film Festival!
+hoverdescription: >-
+  Batman fans, assemble! Spend the weekend watching iconic Batman films on the
+  big screen at the historic Egyptian Theatre in Coos Bay. With its stunning
+  architecture and classic cinema atmosphere, it’s the perfect place to
+  experience the Dark Knight like never before.
 ---
 ![Dark batman figure and text promoting Batman weekend film festival on May 16-18](/img/batman-page-header.jpg)
 
@@ -24,3 +31,5 @@ Celebrating its 100th anniversary in 2025, the Egyptian Theatre is the perfect s
 Join fellow fans for a weekend of thrilling action, mystery, and nostalgia in one of Oregon’s most spectacular historic theaters. Whether you’re a lifelong Batman aficionado or discovering these films for the first time, this festival is an experience you won’t want to miss.
 
 <a href="https://www.egyptiantheatre.events/" target="_blank" rel="noopener">Visit the Egyptian Theatre’s website for showtimes and details.</a>
+
+![Interior of grand Egyptian theatre with text reading 'more than a movie, it's an experience at the historic egyptian theater'](/img/interior-panoramic-695x405.jpg)
