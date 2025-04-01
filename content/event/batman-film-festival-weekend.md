@@ -24,6 +24,8 @@ smallboxphoto: /img/batman-small-event-banner.jpg
 ---
 ![Dark batman figure and text promoting Batman weekend film festival on May 16-18](/img/batman-page-header.jpg)
 
+{{< spacer "30" >}}
+
 ## **Experience the Ultimate Batman Film Festival at the Historic Egyptian Theatre!**
 
 On the weekend of May 16-18th, step into the grandeur of Hollywood’s golden age and immerse yourself in a weekend dedicated to the Dark Knight at the Historic Egyptian Theatre in Coos Bay! The Batman Weekend Film Festival brings Gotham’s most iconic cinematic moments to the big screen, from classic caped crusader adventures to modern masterpieces.
@@ -34,7 +36,11 @@ Join fellow fans for a weekend of thrilling action, mystery, and nostalgia in on
 
 <a href="https://www.egyptiantheatre.events/" target="_blank" rel="noopener">Visit the Egyptian Theatre’s website for showtimes and details.</a>
 
+{{< spacer "20" >}}
+
 ![Interior of grand Egyptian theatre with text reading 'more than a movie, it's an experience at the historic egyptian theater'](/img/interior-panoramic-695x405.jpg)
+
+{{< spacer "20" >}}
 
 ## Batman Weekend Film Festival Schedule
 
