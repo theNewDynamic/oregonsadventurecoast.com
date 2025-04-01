@@ -19,6 +19,7 @@ hoverdescription: >-
   big screen at the historic Egyptian Theatre in Coos Bay. With its stunning
   architecture and classic cinema atmosphere, it’s the perfect place to
   experience the Dark Knight like never before.
+photo: /img/batman-sub-page-header-2048x530.jpg
 ---
 ![Dark batman figure and text promoting Batman weekend film festival on May 16-18](/img/batman-page-header.jpg)
 
