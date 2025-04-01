@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Batman Film Festival Weekend
-startdate: '2025-04-05'
-enddate: '2025-04-05'
+startdate: '2025-05-16'
+enddate: '2025-05-18'
 address:
   city: Coos Bay
   state: Oregon
@@ -26,7 +26,7 @@ smallboxphoto: /img/batman-small-event-banner.jpg
 
 ## **Experience the Ultimate Batman Film Festival at the Historic Egyptian Theatre!**
 
-Step into the grandeur of Hollywood’s golden age and immerse yourself in a weekend dedicated to the Dark Knight at the Historic Egyptian Theatre in Coos Bay! The Batman Weekend Film Festival brings Gotham’s most iconic cinematic moments to the big screen, from classic caped crusader adventures to modern masterpieces.
+On the weekend of May 16-18th, step into the grandeur of Hollywood’s golden age and immerse yourself in a weekend dedicated to the Dark Knight at the Historic Egyptian Theatre in Coos Bay! The Batman Weekend Film Festival brings Gotham’s most iconic cinematic moments to the big screen, from classic caped crusader adventures to modern masterpieces.
 
 Celebrating its 100th anniversary in 2025, the Egyptian Theatre is the perfect setting for this legendary tribute. With its rich history, stunning architecture, and classic movie palace ambiance, this venue transports you straight into the world of Gotham—where shadows loom large, heroes rise, and unforgettable stories unfold.
 
@@ -35,3 +35,22 @@ Join fellow fans for a weekend of thrilling action, mystery, and nostalgia in on
 <a href="https://www.egyptiantheatre.events/" target="_blank" rel="noopener">Visit the Egyptian Theatre’s website for showtimes and details.</a>
 
 ![Interior of grand Egyptian theatre with text reading 'more than a movie, it's an experience at the historic egyptian theater'](/img/interior-panoramic-695x405.jpg)
+
+## Batman Weekend Film Festival Schedule
+
+### Friday, May 16
+
+* 7:00 PM – TBA
+
+### Saturday, May 17
+
+* 12:00 PM – TBA
+* 3:00 PM – TBA
+* 7:00 PM – TBA
+
+### Sunday, May 18
+
+* 12:00 PM – TBA
+* 3:00 PM – TBA
+
+🎟 Admission: TBA
