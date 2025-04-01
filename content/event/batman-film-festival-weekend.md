@@ -15,6 +15,12 @@ desktoptitle: Batman Film Festival Weekend
 ---
 ![Dark batman figure and text promoting Batman weekend film festival on May 16-18](/img/batman-page-header.jpg)
 
-The Historic Egyptian Theatre in Coos Bay is the ultimate Batcave for experiencing a legendary lineup of Batman films! This cinematic gem, listed on the National Register of Historic Places, sets the perfect stage for a weekend of caped crusading. Step inside, and you’ll feel like Gotham’s elite—just be sure to save a seat for Alfred!
+## **Experience the Ultimate Batman Film Festival at the Historic Egyptian Theatre!**
 
-Celebrating its 100th anniversary this year, the Egyptian Theatre is rolling out the Bat-Signal for a full year of films, festivals, and fun. Don’t miss your chance to see the Dark Knight’s greatest adventures on the big screen in this truly iconic venue. Grab your trusty sidekick, make a weekend of it, and embrace the magic of the movies—because some nights, you just can’t fight crime without popcorn!
+Step into the grandeur of Hollywood’s golden age and immerse yourself in a weekend dedicated to the Dark Knight at the Historic Egyptian Theatre in Coos Bay! The Batman Weekend Film Festival brings Gotham’s most iconic cinematic moments to the big screen, from classic caped crusader adventures to modern masterpieces.
+
+Celebrating its 100th anniversary in 2025, the Egyptian Theatre is the perfect setting for this legendary tribute. With its rich history, stunning architecture, and classic movie palace ambiance, this venue transports you straight into the world of Gotham—where shadows loom large, heroes rise, and unforgettable stories unfold.
+
+Join fellow fans for a weekend of thrilling action, mystery, and nostalgia in one of Oregon’s most spectacular historic theaters. Whether you’re a lifelong Batman aficionado or discovering these films for the first time, this festival is an experience you won’t want to miss.
+
+<a href="https://www.egyptiantheatre.events/" target="_blank" rel="noopener">Visit the Egyptian Theatre’s website for showtimes and details.</a>
