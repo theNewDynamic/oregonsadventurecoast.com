@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Batman Film Festival Weekend
-startdate: '2025-01-16'
-enddate: '2025-01-18'
+startdate: '2025-06-01'
+enddate: '2025-06-06'
 address:
   city: Coos Bay
   state: Oregon
@@ -20,6 +20,9 @@ hoverdescription: >-
   architecture and classic cinema atmosphere, it’s the perfect place to
   experience the Dark Knight like never before.
 photo: /img/batman-sub-page-header-2048x530.jpg
+largeboxphoto: /img/batman-large-event-banner.jpg
+mediumboxphoto: /img/batman-medium-event-banner.jpg
+smallboxphoto: /img/batman-small-event-banner.jpg
 ---
 ![Dark batman figure and text promoting Batman weekend film festival on May 16-18](/img/batman-page-header.jpg)
 
