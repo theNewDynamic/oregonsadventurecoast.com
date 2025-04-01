@@ -13,10 +13,10 @@ phone_local: 541-808-8295
 website: https://www.egyptiantheatre.events
 desktoptitle: Batman Weekend Film Festival
 mobiletitle: Batman Film Festival
-hovertitle: Batman Weekend Film Festival!
+hovertitle: Batman Film Festival!
 hoverdescription: >-
-  Batman fans, assemble and watch the iconic Batman films on the big screen at
-  the historic Egyptian Theatre.
+  Watch the iconic Batman films on the big screen at the historic Egyptian
+  Theatre.
 photo: /img/batman-sub-page-header-2048x530.jpg
 largeboxphoto: /img/batman-large-event-banner.jpg
 mediumboxphoto: /img/batman-medium-event-banner.jpg
