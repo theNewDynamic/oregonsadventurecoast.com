@@ -15,10 +15,8 @@ desktoptitle: Batman Weekend Film Festival
 mobiletitle: Batman Film Festival
 hovertitle: Batman Weekend Film Festival!
 hoverdescription: >-
-  Batman fans, assemble! Spend the weekend watching iconic Batman films on the
-  big screen at the historic Egyptian Theatre in Coos Bay. With its stunning
-  architecture and classic cinema atmosphere, it’s the perfect place to
-  experience the Dark Knight like never before.
+  Batman fans, assemble and watch the iconic Batman films on the big screen at
+  the historic Egyptian Theatre.
 photo: /img/batman-sub-page-header-2048x530.jpg
 largeboxphoto: /img/batman-large-event-banner.jpg
 mediumboxphoto: /img/batman-medium-event-banner.jpg
