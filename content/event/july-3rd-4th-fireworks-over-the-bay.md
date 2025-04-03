@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: July 3rd & 4th Fireworks Over The Bay
-startdate: '2024-07-03'
-enddate: '2024-07-04'
+startdate: '2025-07-03'
+enddate: '2025-07-04'
 address:
   city: ''
   street: ''
@@ -79,7 +79,7 @@ Join fellow runners and walkers for the 1/2-mile kid’s run and the 4K for grow
 
 **10:15am** (or whenever the kid’s run is over) – 4K Grown-up Run/Walk
 
-* **Free** for South Coast Running Club members, but please [sign up online](https://southcoastrunningclub.org/mayors-firecracker-run/)to help make race morning less crazy!
+* **Free** for South Coast Running Club members, but please [sign up online](https://southcoastrunningclub.org/mayors-firecracker-run/) to help make race morning less crazy!
 * **$10** for non-members. [Register online](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark). [Become a member and race for free!](https://southcoastrunningclub.org/membership/)
 
 {{< spacer 15 >}}
@@ -91,6 +91,8 @@ Join fellow runners and walkers for the 1/2-mile kid’s run and the 4K for grow
 #### **Mingus Park Fun - July 4th**
 
 Spend the day with family and friends in Coos Bay's beautiful Mingus Park. Events include the Boy Scouts Hamburger Stand fundraiser, Smokey the Bear with the Coos Forest Protective Association, ODFW's fishing pond, art, furry friends, and more from 11am - 2pm. Plus, Free Swim at Mingus Park Pool from 2pm to 4pm!
+
+*Events subject to change.*
 
 {{< spacer 25 >}}
 
