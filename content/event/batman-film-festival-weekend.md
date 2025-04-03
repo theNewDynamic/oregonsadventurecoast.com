@@ -46,17 +46,16 @@ Join fellow fans for a weekend of thrilling action, mystery, and nostalgia in on
 
 ### Friday, May 16
 
-* 7:00 PM – TBA
+* 7:00PM – BATMAN *(Staring Micheal Keaton)*
 
 ### Saturday, May 17
 
-* 12:00 PM – TBA
-* 3:00 PM – TBA
-* 7:00 PM – TBA
+* 2:00PM – BATMAN Returns *(Starring Micheal Keaton)*
+* 7:00PM – BATMAN Begins *(Starring Christian Bale)*
 
 ### Sunday, May 18
 
-* 12:00 PM – TBA
-* 3:00 PM – TBA
+* 12:00PM – The Dark Knight *(Starring Christian Bale)*
+* 4:00PM – The Dark Knight Rises *(Starring Christian Bale)*
 
-🎟 Admission: TBA
+**🎟 Admission: Adults $5 \| Seniors $4 \| Kids $3**
