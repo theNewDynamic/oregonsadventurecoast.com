@@ -38,9 +38,9 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 ### 47th Oregon Coast Music Festival Special Events and Concerts - July 12-26 2025
 
-**Saturday, July 12 - Noon-2pm<br>**Mingus Park Amphitheater, 725 N 10th St, Coos Bay<br>**Bay Area Concert Band Festival Opener<br>Free**
+**Saturday, July 12 - Noon-2pm**<br>Mingus Park Amphitheater, 725 N 10th St, Coos Bay<br>**Bay Area Concert Band Festival Opener<br>Free**
 
-**Sunday, July 13 - 2:00-3:30pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**Aaron Johnson Quartet** \- The Aaron Johnson Quartet Plays Brazilian and Latin Jazz<br>**$50 -** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/BOYYHBLYSDXFTNSLGBPMQ2TL" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
+**Sunday, July 13 - 2:00-3:30pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**Aaron Johnson Quartet** - The Aaron Johnson Quartet Plays Brazilian and Latin Jazz<br>**$50 -** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/BOYYHBLYSDXFTNSLGBPMQ2TL" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
 
 **Tuesday, July 15 - 10:00am-Noon**<br>Umpqua Hall – Southwestern Community College - 2110 Newmark Ave, Coos Bay<br>**Jazz Guitar, Voice and Wind Workshops<br>Free**
 
