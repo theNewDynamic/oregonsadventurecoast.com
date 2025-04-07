@@ -69,18 +69,14 @@ The Back Alley is a great place to stop by and eat at anytime of day. The prices
 
 {{< columns number="2" >}}
 
-![Liberty Pub in North Bend, Oregon](/img/ent-liberty-pub.jpg)
-
-**Liberty Pub**<br>2047 Sherman Avenue<br>North Bend, OR  97459<br>(541) 756-2550<br>[www.thelibpub.com](https://www.thelibpub.com)
-
-This North Bend local favorite offers patrons a great selection of beers, fish and chips, shepherd’s pie, pub rolls, pizza, and more beer to go along with its robust live music scene. Like most of our other pubs, Liberty Pub offers a warm and inviting atmosphere so you’ll feel right at home no matter from where you are visiting!
-
-divider
 ![](/img/wildflour-entertainment-page.jpg)
 
 **Wildflour Public House**<br>1987 Sherman Avenue<br>North Bend, OR 97459<br>(541) 808-3633<br>[www.wildflourpub.com](https://www.wildflourpub.com/home)
 
 We have live music every Wednesday night from 6-8pm. Celebrate the end of the week with us, join us for Fiesta Friday where we have margarita flights and weekly food specials. Craft Beer, Beer Flights, (and yes we will be BREWING our own! Our restaurant welcomes all ages, we have a wonderful kids menu, with crayons and butcher paper to color on.
+
+divider
+
 {{< /columns >}}
 
 {{< spacer "50" >}}
