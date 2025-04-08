@@ -2,7 +2,7 @@
 _schema: default
 title: ManCave 101 Memorabilia
 property_description: >-
-  Mancave 101 is a treasure trove of sports memorabilia, clothing, shoes,
+  ManCave 101 is a treasure trove of sports memorabilia, clothing, shoes,
   souvenirs, die-cast collectibles, Barbies, gifts, and more. A fun and eclectic
   shop with something for collectors, fans, and curious shoppers alike.
 photo_name: /img/fvmbq55y.jpeg
