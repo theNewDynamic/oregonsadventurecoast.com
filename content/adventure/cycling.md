@@ -71,7 +71,7 @@ Whether you take to the road, fat bike on the beach, or careen around single-tra
 
 Located in an active logging forest, Whiskey Run gives visitors a view of the Coos County Forest most do not get to see - seeing harvesting in this coastal forest while they are enjoying sweeping views, tranquil streams, and fern-covered forest floors. The trails are a blend of flow and cross country style, and are great for all levels of riders with open sightlines, easy climbs, and chances to catch some air if you want. You'll dip and wind through the forest in this unique South Coast environment.
 
-These professionally built trails are made to withstand the coast's weather, so when the weather is unfavorable in the Cascades and you want to ride some loam and clay, come on down to the coast. However, please don't ride if the trails are muddy. Check trail reports or call the local shops or guide services.
+These professionally built trails are made to withstand the coast's weather, so when the weather is unfavorable in the Cascades and you want to ride some loam and clay, come on down to the coast. However, please don't ride if the trails are muddy. Check trail reports or call the local shops or guide services.<br><br><a href="https://travelsouthernoregoncoast.com/mountain-biking-the-oregon-coast/" target="_blank" rel="noopener"><strong>Click here for even more information on Whiskey Run Trails.</strong></a>
 
 {{< spacer 25 >}}
 
