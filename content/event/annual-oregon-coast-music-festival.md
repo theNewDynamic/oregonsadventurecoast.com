@@ -44,13 +44,13 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 **Sunday, July 13 - 2:00-3:30pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**Aaron Johnson Quartet** - The Aaron Johnson Quartet Plays Brazilian and Latin Jazz<br>**$50 -** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/BOYYHBLYSDXFTNSLGBPMQ2TL" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
 
-**Tuesday, July 15 - 10:00am-Noon**<br>Umpqua Hall – Southwestern Community College - 2110 Newmark Ave, Coos Bay<br>**Jazz Guitar, Voice and Wind Workshops** with Aaron Johnson and friends**<br>Free**
+**Tuesday, July 15 - 10:00am-Noon**<br>Umpqua Hall – Southwestern Community College - 2110 Newmark Ave, Coos Bay<br>**Jazz Guitar, Voice and Wind Workshops** with Aaron Johnson and friends\*\*<br>Free\*\*
 
-**Wednesday, July 16 - 7:00pm**<br>Sprague Community Theatre, Bandon Community Center, 1200 11th St SW, Bandon<br>**Sugar Beets** - Americana, Rock, Soul, and Bluegrass**<br>$20-$25 -** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/DIPLKSKWZRQT3LO6RRHY4WCC" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
+**Wednesday, July 16 - 7:00pm**<br>Sprague Community Theatre, Bandon Community Center, 1200 11th St SW, Bandon<br>**Sugar Beets** - Americana, Rock, Soul, and Bluegrass\*\*<br>$20-$25 -\*\* <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/DIPLKSKWZRQT3LO6RRHY4WCC" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
 
 **Thursday, July 17 - 7:00pm**<br>SWOCC Hales Center for the Performing Arts, 1988 Newmark Ave, Coos Bay<br>**Voices of the Community** - Fantasia-harp, guitar and percussion; South Coast Folk Society Dancers, and Side of the Tide Morris Dancers.**<br>$15 -** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/EIWVWQBJYWQUZNGYFURES7UF" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
 
-**Friday, July 18 - 2:00pm**<br>North Bend Public Library, 1800 Sherman Ave, North Bend<br>**Afternoon Music Cafe** with Just Jensens and Tree-O**<br>Free**
+**Friday, July 18 - 2:00pm**<br>North Bend Public Library, 1800 Sherman Ave, North Bend<br>**Afternoon Music Cafe** with Just Jensens and Tree-O\*\*<br>Free\*\*
 
 {{< floatimage src="/img/family-mystic-1.jpeg" float="left" alt="Members of Family Mystic" size="" >}}**Saturday, July 19 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>**Family Mystic** - Marcelo Guitron - Guitar/Vocals, Matthew Serino - Bass/Vocals, Tommy Serino - Drums/Vocals; Love Covington - Keys/Vocals\*\*<br>Free - Parking $10\*\*
 
