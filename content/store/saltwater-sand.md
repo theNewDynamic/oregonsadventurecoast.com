@@ -23,7 +23,7 @@ address:
 phone_local: (541) 808-0676
 website: https://www.facebook.com/profile.php?id=61566587826064#
 coordinates:
-  lat: 43.36544185973837,
+  lat: 43.36544185973837
   lng: '-124.21349235749459'
 seo:
   title: Saltwater & Sand
