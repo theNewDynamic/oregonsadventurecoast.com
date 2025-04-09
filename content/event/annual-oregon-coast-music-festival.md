@@ -70,7 +70,7 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 ![The glittering, brilliant sounds of the Harp enhance every movement played by the Orchestra during the OR Coast Music Festival in Coos Bay.](/img/ocma-harpist-frankprice-web.jpg "The Orchestra features the glittering sounds of the harp - Photo by Frank Price")
 
-**Tuesday, July 22 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA Festival Orchestra Concert I**&nbsp;<br>**Melting Pot**: the Evening Concert of the Festival Orchestra. Conductor Martin Majkut with Dace Gregory, Cello, as a soloist.<br>**$20-$25 -** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/QUBLPKC42WV5EZLVNGL6UWA3" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
+{{< floatimage src="/img/dace-gregory.jpeg" float="left" alt="Dace Gregory with her Cello" size="" >}}**Tuesday, July 22 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA Festival Orchestra Concert I**&nbsp;<br>**Melting Pot**: the Evening Concert of the Festival Orchestra. Conductor Martin Majkut with Dace Gregory, Cello, as a soloist.<br>**$20-$25 -** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/QUBLPKC42WV5EZLVNGL6UWA3" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
 
 {{< spacer 50 >}}
 
@@ -82,6 +82,6 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 ![The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July](/img/ocma-cellist-frankprice-web.jpg "The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July - Photo by Frank Price")
 
-**Saturday, July 26 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA** ***Festival Finale*** **Festival Orchestra Concert II**&nbsp;<br>**Four Love Scenes**. OCMA Festival Orchestra provides final concert. Conductor Martin Majkut with Nancy Zhou, soloist.<br>**$20-$25 -** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/LASPUGUDDSWZDABHNXZTA4C5" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
+{{< floatimage src="/img/nancy-zhou-1.jpeg" float="left" alt="Violinist Nancy Zhou" size="" >}}**Saturday, July 26 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA** ***Festival Finale*** **Festival Orchestra Concert II**&nbsp;<br>**Four Love Scenes**. OCMA Festival Orchestra provides final concert. Conductor Martin Majkut with Nancy Zhou, soloist.<br>**$20-$25 -** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/LASPUGUDDSWZDABHNXZTA4C5" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
 
 {{< spacer 25 >}}
