@@ -32,6 +32,8 @@ Fondly referred to as the "Tanglewood" of the West Coast, the **Oregon Coast Mus
 
 You'll find a heady mix of classical and jazz art forms, taking place at venues around the Coos Bay area such as Shore Acres State Park Garden, the OIMB Boat House, stunning Mingus Park, plus a host of free seminars at the Southwest Oregon Community College. Enjoy two full weeks of outstanding music culminating with the 80-member Festival Orchestra performing three concerts in Marshfield High's Auditorium.&nbsp;
 
+{{< floatimage src="/img/martin-majkut-1.jpeg" float="left" alt="Martin Majkut " size="" >}}This year, the **OCMA welcomes Maestro Martin Majkut** as Music Director and Conductor
+
 {{< spacer 50 >}}
 
 ![The Festival Orchestra Concerts are a must attend each summer in Coos Bay.](/img/ocma-orchestra-frankprice-web.jpg "The Oregon Coast Music Festival Orchestra - Photo by Frank Price")
