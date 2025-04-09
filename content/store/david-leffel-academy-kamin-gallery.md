@@ -20,7 +20,7 @@ address:
   zip: '97459'
 website: https://www.facebook.com/profile.php?id=61567044945752
 coordinates:
-  lat: 43.40690648843531,
+  lat: '43.40690648843531'
   lng: '-124.22387413558229'
 seo:
   title: 'David Leffel Academy & Kamin Gallery '

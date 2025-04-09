@@ -21,7 +21,7 @@ address:
 phone_local: (541) 808-0184
 website: https://www.facebook.com/wylderootsbeautysalon/
 coordinates:
-  lat: 43.37808302628199,
+  lat: '43.37808302628199'
   lng: '-124.21565334585573'
 seo:
   title: Wylde Roots Beauty Salon
