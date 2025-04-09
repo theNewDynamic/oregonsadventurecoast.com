@@ -52,9 +52,7 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 **Friday, July 18 - 2:00pm**<br>North Bend Public Library, 1800 Sherman Ave, North Bend<br>**Afternoon Music Cafe<br>Free**
 
-![Members of Family Mystic](/img/family-mystic-1.jpeg "Family Mystic fills Shore Acres with Music")
-
-**Saturday, July 19 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>**Family Mystic** - Marcelo Guitron - Guitar/Vocals, Matthew Serino - Bass/Vocals, Tommy Serino - Drums/Vocals; Love Covington - Keys/Vocals\*\*<br>Free - Parking $10\*\*
+{{< floatimage src="/img/family-mystic-1.jpeg" float="left" alt="Members of Family Mystic" size="" >}}**Saturday, July 19 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>**Family Mystic** - Marcelo Guitron - Guitar/Vocals, Matthew Serino - Bass/Vocals, Tommy Serino - Drums/Vocals; Love Covington - Keys/Vocals\*\*<br>Free - Parking $10\*\*
 
 **Sunday, July 20 - 2:00pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**7 Devils Presents<br>$25 - Tickets coming soon**
 
