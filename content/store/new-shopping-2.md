@@ -23,7 +23,7 @@ address:
   zip: '97420'
 coordinates:
   lat: '43.3699199218162'
-  lng: ' -124.21358610863133'
+  lng: '-124.21358610863133'
 seo:
   title: Oregon Attic Finds
   description: >-
