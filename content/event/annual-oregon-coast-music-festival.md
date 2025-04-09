@@ -32,7 +32,7 @@ Fondly referred to as the "Tanglewood" of the West Coast, the **Oregon Coast Mus
 
 You'll find a heady mix of classical and jazz art forms, taking place at venues around the Coos Bay area such as Shore Acres State Park Garden, the OIMB Boat House, stunning Mingus Park, plus a host of free seminars at the Southwest Oregon Community College. Enjoy two full weeks of outstanding music culminating with the 80-member Festival Orchestra performing three concerts in Marshfield High's Auditorium.&nbsp;
 
-{{< floatimage src="/img/martin-majkut-1.jpeg" float="left" alt="Martin Majkut " size="" >}}This year, the **OCMA welcomes Maestro Martin Majkut** as Music Director and Conductor
+{{< floatimage src="/img/martin-majkut-1.jpeg" float="left" alt="Martin Majkut " size="" >}}This year, the **OCMA welcomes Maestro Martin Majkut** as Music Director and Conductor. Martin Majkut is an internationally recognized conductor known for his dynamic leadership and innovative programming. Majkut is the Music Director of the Rogue Valley Symphony Orchestra and has performed with the Slovak Philharmonic, Tacoma Opera, Rogue Opera, Southern Arizona Symphony Orchestra, among others.
 
 {{< spacer 50 >}}
 
@@ -52,7 +52,9 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 **Friday, July 18 - 2:00pm**<br>North Bend Public Library, 1800 Sherman Ave, North Bend<br>**Afternoon Music Cafe<br>Free**
 
-**Saturday, July 19 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>**Family Mystic<br>Free - Parking $10**
+![Members of Family Mystic](/img/family-mystic.jpeg "Family Mystic fills Shore Acres with Music")
+
+**Saturday, July 19 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>**Family Mystic** \- Marcelo Guitron - Guitar/Vocals, Matthew Serino - Bass/Vocals, Tommy Serino - Drums/Vocals; Love Covington - Keys/Vocals**<br>Free - Parking $10**
 
 **Sunday, July 20 - 2:00pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**7 Devils Presents<br>$25 - Tickets coming soon**
 
