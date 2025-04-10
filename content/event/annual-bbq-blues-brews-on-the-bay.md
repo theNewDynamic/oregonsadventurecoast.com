@@ -62,15 +62,11 @@ For the 12th Year, The Mill brings you **finger-lickin' good barbeque** for a Ka
 
 #### BREWS!
 
-At each of the three beer stations, guests will be able to buy a commemorative logo’d pint cup for $10, or $18 for a cup and a 16oz beer pour of their choice. Full size 16oz beers on tap are $9 and sample size 5oz beer is $4. A selection of wine will also be available for purchase with cash or card. Upon exiting, guests will be able to vote for the People’s Choice Best Brew. Guests can use cash or card for all cup and beer purchases.
+At each of the three beer stations, guests will be able to buy a commemorative logo’d pint cup for $10, or $18 for a cup and a 16oz beer pour of their choice. Full size 16oz beers on tap are $9 and sample size 5oz beer is $4. A selection of wine will also be available for purchase with cash or card.
 
 {{< spacer 25 >}}
 
-#### NEW IN 2025!
-
-**Cornhole Tournament -** Join in the cornhole tournament brought to you by Coquille Community Cornhole League. Enjoy friendly competition and great prizes on Saturday and Sunday. Sign up onsite or on Cornholio app. Details to come.
-
-{{< spacer "25" >}}
+####
 
 ![](/img/bbq-blues-brews-competition-vendor.jpg)
 
@@ -80,10 +76,10 @@ At each of the three beer stations, guests will be able to buy a commemorative l
 
 **Saturday**
 
-12:00 PM – 6:00 PM – Enjoy vendors, live entertainment, craft brews and sample BBQ from competitors\* <br>12:00 PM – 1:00 PM – Cornhole tournament sign ups and warmups<br>12:00 PM – 3:00 PM – Live entertainment<br>1:00 PM – 4:00 PM – Cornhole tournament<br>3:00 PM – 6:00 PM – Live entertainment
+12:00 PM – 6:00 PM – Enjoy vendors, live entertainment, craft brews and sample BBQ from competitors\* <br>12:30 PM – 2:00 PM – Live entertainment with Inner Limits<br>3:30 PM – 6:00 PM – Live entertainment with Blue Tide Blues Band<br>*New This Year: People’s Choice: Mac ‘n Cheese*
 
 **Sunday**
 
-12:00 PM – 4:00 PM – Enjoy vendors, live entertainment, craft brews, and sample BBQ & mac ‘n cheese from competitors <br>12:00 PM – 1:00 PM – Cornhole tournament sign ups and warmups<br>12:00 PM – 2:00 PM – Live entertainment<br>1:00 PM – 4:00 PM – Cornhole tournament<br>2:00 PM – Jim Monihan Mac ‘N Cheese Challenge <br>2:00 PM – 4:00 PM – Live entertainment<br>4:00 PM – Awards ceremony – $15,00 in prize money will be awarded to KCBS BBQ competitors, Mac ‘N Cheese, best brew and cornhole winners will be announced!
+12:00 PM – 4:00 PM – Enjoy vendors, live entertainment, craft brews, and sample BBQ & mac ‘n cheese from competitors <br>12:00 PM – 2:00 PM – Live entertainment with Blue Tide Blues Band<br>2:00 PM – 4:00 PM – Live entertainment with Inner Limits<br>4:15 PM – Awards Ceremony – $15,000 in prize money will be awarded to KCBS BBQ competitors and People’s Choice winners<br>*New This Year: People’s Choice: Oysters*
 
 *\*ALL SAMPLES AVAILABLE AT FESTIVAL ARE WHILE SUPPLIES LAST*
