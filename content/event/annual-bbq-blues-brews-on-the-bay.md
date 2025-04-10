@@ -36,6 +36,8 @@ smallboxphoto: /img/bbq-blues-event-small.jpg
 
 Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, May 24-25, 2025 at [**The Mill Casino • Hotel & RV Park**](https://www.themillcasino.com/).
 
+Live entertainment this year features the Blue Tide Blues Band and Inner Limits! **NEW THIS YEAR** - People’s Choice Awards for Mac N Cheese and Oysters. Big Moe Cason, Champion Pitmaster and host of National Geographic World of Flavor, will be back for public meet & greets, cookbook signing and more.
+
 [**Book your room now!**](https://oregonsadventurecoast.com/lodging/ "Lodging on Oregon's Adventure Coast!")
 
 {{< spacer 50 >}}
@@ -48,7 +50,7 @@ Whether you’re a grill master or just love to eat great barbecue, this event i
 
 For the 12th Year, The Mill brings you **finger-lickin' good barbeque** for a Kansas City Barbecue Society Sanctioned Event, bringing the best grill masters and teams together, vying for the title of **Grand Champion!** See the schedule below for tasting times!
 
-**How it Works**:<br>$5 entry fee gets you into the event each day. Participating vendors will have a 2 oz. sample of BBQ for sale. Attendees can also purchase a full meal from – The Mill Grill.
+**How it Works**:<br>$5 entry fee gets you into the event each day. Participating vendors will have a 2 oz. sample of BBQ for sale. Attendees can also purchase a full meal from The Mill Grab N Go.
 
 {{< spacer 50 >}}
 
@@ -76,10 +78,26 @@ At each of the three beer stations, guests will be able to buy a commemorative l
 
 **Saturday**
 
-12:00 PM – 6:00 PM – Enjoy vendors, live entertainment, craft brews and sample BBQ from competitors\* <br>12:30 PM – 2:00 PM – Live entertainment with Inner Limits<br>3:30 PM – 6:00 PM – Live entertainment with Blue Tide Blues Band<br>*New This Year: People’s Choice: Mac ‘n Cheese*
+12:00 PM – 6:00 PM – Enjoy vendors, live entertainment, craft brews and sample BBQ from competitors\* & People's Choice: Mac N Cheese<br>12:00 PM - 12:30 PM - DJ in the Music Tent<br>12:30 PM – 2:30 PM – Live entertainment with Inner Limits<br>2:30 PM - 3:30 PM - DJ in the Music Tent<br>3:30 PM – 5:30 PM – Live entertainment with Blue Tide Blues Band<br>5:30 PM - 6:00 PM - DJ in the Music Tent<br>*New This Year: People’s Choice: Mac ‘n Cheese*
 
 **Sunday**
 
-12:00 PM – 4:00 PM – Enjoy vendors, live entertainment, craft brews, and sample BBQ & mac ‘n cheese from competitors <br>12:00 PM – 2:00 PM – Live entertainment with Blue Tide Blues Band<br>2:00 PM – 4:00 PM – Live entertainment with Inner Limits<br>4:15 PM – Awards Ceremony – $15,000 in prize money will be awarded to KCBS BBQ competitors and People’s Choice winners<br>*New This Year: People’s Choice: Oysters*
+12:00 PM – 4:00 PM – Enjoy vendors, live entertainment, craft brews, and sample BBQ & People's Choice: Oysters<br>12:00 PM – 2:00 PM – Live entertainment with Blue Tide Blues Band<br>2:00 PM – 4:00 PM – Live entertainment with Inner Limits<br>4:15 PM – Awards Ceremony – $15,000 in prize money will be awarded to KCBS BBQ competitors and People’s Choice winners<br>*New This Year: People’s Choice: Oysters*
 
 *\*ALL SAMPLES AVAILABLE AT FESTIVAL ARE WHILE SUPPLIES LAST*
+
+### {{< spacer "25" >}}NEW IN 2025! CORNHOLE TOURNAMENT
+
+The Coquille Community Cornhole League and The Mill Casino bring you **“Cornhole for a Cause”** during the BBQ, Blues & Brews on the Bay event. Two days of a fundraising tournament to raise money for **Camp Millennium**, a nonprofit which provides a summer camp for children dealing with cancer.
+
+Saturday, May 24th will be team play, double elimination with two round robin rounds to set up the bracket. This guarantees at least four games for every team. Entry is $25 per person/$50 per team.
+
+Sunday, May 25th will be a singles play, double elimination with two round robin rounds. Entry will be $25 per person.
+
+There will be awards and prizes for 1st, 2nd and 3rd place in teach tournament.
+
+*100% of all proceeds will go to Camp Millennium.*
+
+**REGISTRATION ON SITE**
+
+&nbsp;
