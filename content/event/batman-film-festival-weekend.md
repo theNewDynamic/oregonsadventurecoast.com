@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Batman Film Festival Weekend
+title: Batman Weekend Film Festival
 startdate: '2025-05-16'
 enddate: '2025-05-18'
 address:
