@@ -4,14 +4,14 @@ title: Discover the Wonders of Tide-Pooling on Oregon’s Adventure Coast
 draft: false
 date: 2025-04-08T00:00:00-07:00
 description: >-
-  <p>Tide-Pooling, Tide Pools, Charleston Marine Life Center (CMLC), Oregon’s
+  Tide-Pooling, Tide Pools, Charleston Marine Life Center (CMLC), Oregon’s
   Adventure Coast, Marine Life, Coos Bay, North Bend, Charleston, Coos Bay,
   North Bend, Cape Arago Loop, Oregon State Parks, Sunset Bay State Park, Shore
   Acres State Park, Simpson Beach, Cape Arago State Park, Bastendorff Beach,
   Yoakam Point State Natural Site marine ecosystems, undeveloped beaches, state
   parks, beaches, habitats, bays, estuaries, coves, sea caves, sand dunes,
   Pacific Ocean, biodiversity, intertidal habitats, minus tides, intertidal
-  zone, high tide, low tide</p>
+  zone, high tide, low tide
 image: /img/tide-pooling-oregon-coast-blog-695x322.jpg
 tags:
   - Tide-Pooling
