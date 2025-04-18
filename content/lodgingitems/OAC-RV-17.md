@@ -5,7 +5,8 @@ property_description: >-
   Riley Ranch offers direct ATV access to the dunes with campsites & cabins,
   restroom/shower, lake fishing, & recreation opportunities. Butterfield Lake is
   open to boats but limits the size & restricts to electric trolling motors
-  only. 
+  only. Dogs are allowed at Coos County Parks but must be on leash and owners
+  must pick up their pets' waste.
 photo_name: /img/Riley-Ranch.jpg
 photo_alt: Riley Ranch County Park in North Bend, OR
 units: 114
