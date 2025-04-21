@@ -6,13 +6,13 @@ title: >-
 draft: false
 date: 2025-04-18T00:00:00-07:00
 description: >-
-  <p>With its rugged cliffs offering spectacular views of the Pacific Ocean,
-  lush forests to reconnect with nature, and easy access to popular activities
-  like fishing, ATV riding, kayaking, hiking, clamming, and crabbing, Oregon’s
+  With its rugged cliffs offering spectacular views of the Pacific Ocean, lush
+  forests to reconnect with nature, and easy access to popular activities like
+  fishing, ATV riding, kayaking, hiking, clamming, and crabbing, Oregon’s
   Adventure Coast: Coos Bay, North Bend, and Charleston is an ideal destination
   for RV trips. Whether you're an experienced traveler or new to RVing, these
   tips and recommendations will help you plan a memorable Oregon RV camping
-  adventure.</p>
+  adventure.
 image: /img/rv-camping-tips-oregon-coast-blog-695x322-1.jpg
 tags:
   - RV Camping
@@ -83,69 +83,21 @@ Choosing the right RV park can make your stay on Oregon’s Adventure Coast memo
 Consider essential amenities like Wi-Fi, showers, pet-friendliness, and site layouts. Ensure you understand your RV's power needs, bring extra hoses and cords, a surge protector for electrical safety, and cash for dump station fees. If you’re planning an RV trip along the Oregon Coast this spring or summer, explore these local destinations, each offering its own unique character and experience:
 
 * [Bastendorff Beach County Park](https://www.co.coos.or.us/parksrec/page/bastendorff) (Charleston) Perched on a scenic hill overlooking Bastendorff Beach, this 89-acre year-round county park welcomes RVs up to 45 feet and offers full hookups, high-speed internet, cable, a fish cleaning area, laundry facilities, handicap accessibility, and pet-friendly accommodations.
-
-  &nbsp;
-
 * [Bay Point Landing Modern Camping Resort](https://www.baypointlanding.com/) (Charleston)- Offering a modern camp experience year-round, this destination features RV sites, cabins, and Airstream rentals, along with amenities including an indoor swimming pool, fitness center, activity room, kids' den, event center, sandy beach access, laundry facilities, Wi-Fi, and pet-friendly accommodations.
-
-  &nbsp;
-
 * [Beach Bound RV Park](https://www.beachboundrvpark.com/) (Charleston)- Just steps from Bastendorff Beach and near Shore Acres, Sunset Bay, and Cape Arago State Parks, this newest RV park on Oregon’s Adventure Coast offers a scenic wooded setting with fire pits, picnic tables, 50-amp power, water, Wi-Fi, and flexible sites for RV or tent camping.
-
-  &nbsp;
-
 * [Bluebill Campground](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42647) (North Bend) - Located in the Horsfall Area just north of North Bend, Bluebill Campground offers easy access to off-road vehicle trails, Pacific beaches, and the Oregon Dunes, with amenities including drinking water, vault toilets, campfire pits, and dumpsters.
-
-  &nbsp;
-
 * [Box Car Hill Campground](https://boxcarhilloregon.com/) (North Bend) - Box Car Hill Campground features 60 spacious RV sites with full hookups or water and electric service, free Wi-Fi, and site sizes ranging from 60 to 75 feet long; guests enjoy direct access to over 6,000 acres of dunes and sandy beaches.
-
-  &nbsp;
-
 * [Charleston Marina RV Park](https://www.portofcoosbay.com/charleston-marina-rv-park) (Charleston) - Offering full-service RV sites and cozy yurts, this campground provides a comfortable stay just steps from the marina, shops, and dining—making it the perfect home base for relaxing or unwinding after a day of adventure.
-
-  &nbsp;
-
 * [Horsfall Beach OHV Campground](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42625) (North Bend) -Ideal for off-road vehicle riders and beachgoers alike, this campground offers flush toilets, drinking water, a picnic area, an accessible beach viewing platform, and easy access to dunes trails and open riding zones just north of the site.
-
-  &nbsp;
-
 * [Kelley’s RV Park](https://www.kelleys-rv-park.com/) (Coos Bay) - Known for offering "a quiet stay by the bay," Kelley’s provides concrete RV sites, a picnic area, and green lawns, along with amenities such as full hookups, a recreation area, handicap accessibility, pet-friendly policies, public restrooms, showers, cable, and laundry facilities, plus crab rings available for guest use.
-
-  &nbsp;
-
 * [Lucky Logger’s RV Park](https://rvinnstyleresorts.com/oregon/lucky-loggers-rv-park/) (Coos Bay) - Located on the waterfront in Coos Bay, Lucky Logger’s offers full hookups, 30/50 amp service, city water, RV supplies, and easy access to shops and dining, along with amenities such as Wi-Fi, a recreation area, security, dump station, handicap accessibility, pet-friendly policies, public restrooms, showers, cable, and laundry facilities; it is proudly part of the RV Inn Style Resorts family.
-
-  &nbsp;
-
 * [Mill Casino ● Hotel & RV Park](https://www.themillcasino.com/) (North Bend) Located along the shores of Coos Bay, The Mill Casino RV Park offers full-service, full hookup sites where guests can enjoy beautiful sunrises right from their campsite, along with friendly staff ready to provide local tips; Good Sam and AAA discounts are available.
-
-  &nbsp;
-
-* [Myrtlewood Factory RV Park](http://www.myrtlewood-hauserrvpark.com/) (North Bend) - For RV travelers seeking direct access to the Oregon Sand Dunes, Myrtlewood Factory & RV Park offers 86 paved campsites just 2/10 of a mile from the riding area, conveniently located at the Hauser Staging Area off Highway 101 in North Bend; this dry campground provides portable restrooms on-site, competitive rates, and no hidden fees.
-
-  &nbsp;
-
+* [Myrtlewood Factory RV Park](http://www.myrtlewood-hauserrvpark.com/) (North Bend) - For RV travelers seeking direct access to the Oregon Sand Dunes, Myrtlewood Factory & RV Park offers 86 paved campsites just 2/10 of a mile from the riding area, conveniently located at the Hauser Staging Area off Highway 101 in North Bend; this dry campground provides portable restrooms on-site, competitive rates, and no hidden fees
 * [Oregon Dunes KOA Kampgrounds](https://koa.com/campgrounds/oregon-dunes/) (North Bend) - This versatile campground accommodates RVs of any size and also offers tent sites, cabins, and a vintage caboose, with amenities including 50-amp full hookups, ATV access to the dunes, drinking water, a convenience store, playground, common cooking area, fire pits, herb gardens, high-speed internet, and pet-friendly policies.
-
-  &nbsp;
-
 * [Plainview Motel & RV Park](https://www.plainviewmotel.com/) (Coos Bay) - Offering 46 RV spots, Plainview Motel & RV Park is ideally located near Charleston along the scenic Southern Oregon Coast, with the added bonus of free use of crab rings and fishing poles for guests.
-
-  &nbsp;
-
 * [Riley Ranch County Park](https://www.co.coos.or.us/parksrec/page/riley-ranch) (North Bend) - Riley Ranch provides direct ATV access to the dunes along with campsites, cabins, restrooms, showers, lake fishing, and recreation opportunities; Butterfield Lake is open to boats with size limits and electric trolling motors only, and please note that pets are not allowed.
-
-  &nbsp;
-
 * [Spinreel Campground](https://www.fs.usda.gov/recarea/siuslaw/recreation/camping-cabins/recarea/?recid=42653&amp;actid=31) (North Bend) - Spinreel Campground, located along Tenmile Creek in the Oregon Dunes National Recreation Area, is an ATV rider’s dream with prime access to extensive off-road trails, offering amenities such as potable water, restrooms, fire pits, and picnic tables.
-
-  &nbsp;
-
 * [Sun Outdoors Coos Bay](https://www.sunoutdoors.com/oregon/sun-outdoors-coos-bay) (Charleston) - Unwind in vintage trailers, cottages, tents, or your own RV while enjoying a variety of amenities, including a convenient crab shack, free Wi-Fi, use of crab traps and clam-digging equipment, beach access, and an on-site general store.
-
-  &nbsp;
-
 * [Sunset Bay State Park Campground](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=70) (Charleston) - Located in one of the most scenic areas on the Oregon Coast, Sunset Bay State Park offers sandy beaches sheltered by towering sea cliffs, with a campground featuring tent sites, RV spots, and cozy yurts, along with opportunities for beachcombing, fishing, swimming, and boating.
 
 ![](/img/rv-camping-tips-oregon-coast-blog-695x322-1-1.jpg)
