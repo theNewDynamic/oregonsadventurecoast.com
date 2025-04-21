@@ -6,13 +6,13 @@ title: >-
 draft: false
 date: 2025-04-18T00:00:00-07:00
 description: >-
-  <p>With its rugged cliffs offering spectacular views of the Pacific Ocean,
-  lush forests to reconnect with nature, and easy access to popular activities
-  like fishing, ATV riding, kayaking, hiking, clamming, and crabbing, Oregon’s
+  With its rugged cliffs offering spectacular views of the Pacific Ocean, lush
+  forests to reconnect with nature, and easy access to popular activities like
+  fishing, ATV riding, kayaking, hiking, clamming, and crabbing, Oregon’s
   Adventure Coast: Coos Bay, North Bend, and Charleston is an ideal destination
   for RV trips. Whether you're an experienced traveler or new to RVing, these
   tips and recommendations will help you plan a memorable Oregon RV camping
-  adventure.</p>
+  adventure.
 image: /img/rv-camping-tips-oregon-coast-blog-695x322-1.jpg
 tags:
   - RV Camping
