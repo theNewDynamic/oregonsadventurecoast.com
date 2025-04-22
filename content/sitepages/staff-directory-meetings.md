@@ -24,7 +24,7 @@ divider
 
 ![headshot of joni eades, manager and marketing coordinator](/img/joni-eades-staff.jpg)
 
-<p>&nbsp;</p>
+<p></p>
 
 **Joni Eades**<br>Visitor Services Manager & Marketing Coordinator<br>541-269-1181 ext 2302<br>[Email Joni](mailto:joni@oregonsadventurecoast.com)
 
@@ -32,7 +32,7 @@ divider
 
 ![headshot of allison richards, marketing project manager](/img/allison-richards-staff.jpg)
 
-<p>&nbsp;</p>
+<p></p>
 
 **Allison Richards**<br>Marketing Projects Manager<br>541-269-1181 ext 2304<br>[Email Allison](mailto:allison@oregonsadventurecoast.com)
 
