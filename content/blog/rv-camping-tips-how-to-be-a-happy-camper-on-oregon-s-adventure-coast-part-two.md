@@ -13,7 +13,7 @@ description: >-
   for RV trips. Whether you're an experienced traveler or new to RVing, these
   tips and recommendations will help you plan a memorable Oregon RV camping
   adventure.
-image: /img/rv-camping-tips-oregon-coast-blog-695x322-1.jpg
+image: /img/rv-camping-tips-oregon-coast-blog-695x322.jpg
 tags:
   - RV Camping
   - RV Camping Tips
