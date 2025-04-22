@@ -41,7 +41,6 @@ divider
 {{< /columns >}}
 
 
-
 **For Advertising/Marketing Inquiries, please contact our Advertising Agency of Record:**
 
 **ECHO CREATIVE, INC**<br>Portland, OR<br>(503) 892-2443<br>Rod Richards, [rod@echopdx.com](mailto:rod@echopdx.com)<br>Tim Goulet, [tim@echopdx.com](mailto:tim@echopdx.com)
