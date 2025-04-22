@@ -12,13 +12,12 @@ seo:
   image: ''
 date: 2019-02-18T11:35:33-08:00
 ---
-{{< columns number="2" >}}
+
+{{< columns number="3" >}}
 ![headshot of janice langlinais, executive director](/img/janice-langlinais-staff.jpg)
 **Janice Langlinais**<br>Executive Director<br>541-269-1181 ext 2303<br>[janice@oregonsadventurecoast.com](mailto:janice@oregonsadventurecoast.com)
 
-divider{{< /columns >}}
-
-{{< columns number="2" >}}
+divider
 
 ![headshot of joni eades, manager and marketing coordinator](/img/joni-eades-staff.jpg)
 **Joni Eades**<br>Visitor Services Manager & Marketing Coordinator<br>541-269-1181 ext 2302<br>[joni@oregonsadventurecoast.com](mailto:joni@oregonsadventurecoast.com)
