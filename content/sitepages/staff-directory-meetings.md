@@ -38,7 +38,7 @@ divider
 
 {{< /columns >}}
 
-&nbsp;
+
 
 **For Advertising/Marketing Inquiries, please contact our Advertising Agency of Record:**
 
