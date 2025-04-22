@@ -16,7 +16,7 @@ date: 2019-02-18T11:35:33-08:00
 
 ![headshot of janice langlinais, executive director](/img/janice-langlinais-staff.jpg)
 
-<p>&nbsp;</p>
+<p></p>
 
 **Janice Langlinais**<br>Executive Director<br>541-269-1181 ext 2303<br>[Email Janice](mailto:janice@oregonsadventurecoast.com)
 
@@ -38,7 +38,7 @@ divider
 
 {{< /columns >}}
 
-<p>&nbsp;</p>
+&nbsp;
 
 **For Advertising/Marketing Inquiries, please contact our Advertising Agency of Record:**
 
