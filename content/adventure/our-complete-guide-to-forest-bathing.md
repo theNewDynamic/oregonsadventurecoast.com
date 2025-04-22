@@ -12,6 +12,9 @@ Forest bathing is the practice of taking in the forest – or any natural, outsi
 
 The concept of forest bathing originated in the 1980s in Japan, where it’s known as *shinrin-yoku.* According to [Harvard Medical School](https://www.health.harvard.edu/blog/can-forest-therapy-enhance-health-and-well-being-2020052919948), tech and industrial workers in Japan at the time were showing an increase in stress-related illnesses, which triggered leaders to create nature trails to entice people outside. Benefits ensued, including reduced stress, improved attention spans, boosted immune systems, and overall better moods.
 
+
+### <a class="learn-more-anywhere-btn" target="_blank" href="/img/complete-guide-to-forest-bathing.pdf">Download Our Guide (PDF)</a>
+
 ### Why forest bathe?
 
 Less stress. A sense of wonder. Experiencing natural beauty. Lowered blood pressure and a stronger immune system.
