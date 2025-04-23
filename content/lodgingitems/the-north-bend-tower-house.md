@@ -24,4 +24,7 @@ address:
   zip: '97459'
 phone_local: 541-294-6853
 website: https://www.airbnb.com/rooms/1101734954187424131
+coordinates:
+  lat: '43.40367175745569'
+  lng: '-124.22677343099937'
 ---
