@@ -23,4 +23,7 @@ address:
   zip: '97459'
 phone_local: 206-619-9989
 website: https://www.duneawaypark.com/
+coordinates:
+  lat: '43.50159933328539'
+  lng: '-124.22377514634132'
 ---
