@@ -10,7 +10,6 @@ property_description: >-
 property_name: Lucky Landings Guide Service
 equip_type:
   - Tour
-  - Equipment
 photo_name: /img/lucky-landing33-listingsize.jpg
 photo_alt: >-
   man wearing sunglasses and yellow sweatshirt holding up a giant halibut while
