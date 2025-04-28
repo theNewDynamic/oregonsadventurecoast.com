@@ -117,7 +117,6 @@ const facets = {
     'Dessert',
     'Dinner & Entertainment',
     'European',
-    'Fast Food',
     'Food Cart',
     'German',
     'Indian',
