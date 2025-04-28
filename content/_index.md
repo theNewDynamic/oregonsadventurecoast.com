@@ -3,10 +3,10 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
-    photo: /img/cabin-fever-home-slider-2048x850.jpg
+    photo: /img/bbq-blues-brews-hm-slider-2025-2048x850.jpg
     title_mobile:
-    photo_mobile: /img/cabin-fever-mobile-512x320.jpg
-    url: /adventures
+    photo_mobile: /img/bbq-blues-brews-mobile-hm-2025-512x320.jpg
+    url: /event/annual-bbq-blues-brews-on-the-bay/
     video:
   - title: Catch Your Own Feast!
     photo: /img/crab-feed-home-page-slider.jpg
