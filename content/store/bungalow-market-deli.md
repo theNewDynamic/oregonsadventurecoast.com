@@ -1,26 +1,25 @@
 ---
-title: Bungalow Market & Deli
-property_description: Neighborhood grocery & deli. Open Mon-Fri 730am-7pm; Sat-Sun
-  9am-7pm.
-photo_name: "/img/bungalowmrkt.jpg"
-photo_alt: ''
+_schema: default
+title: Bungalow Market
+property_description: Huge Selection of Oregon wine, beer and ciders.
+photo_name: /img/bungelow-market-630x366.jpg
+photo_alt: Wine bottles on a counter with a blurred background
 property_category:
-- Groceries
+  - Liquor Stores/ Growler Fills
+  - Groceries
 address:
+  city: North Bend
   street: 2506 sherman Ave.
   street2: ''
-  city: North Bend
   zip: '97459'
 phone_local: 541-751-0304
-phone_toll_free: ''
 website: https://www.facebook.com/Bungalow-Market-Deli-282965688442/
 coordinates:
   lat: '43.399521'
-  lng: "-124.224325"
+  lng: '-124.224325'
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-
 ---
