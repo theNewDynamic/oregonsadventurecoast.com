@@ -13,8 +13,8 @@ address:
 phone_local: (541) 808-9043
 website: https://www.facebook.com/ThriftySisters2/
 coordinates:
-  lat: '43.40219146164597'
-  lng: '-124.23269161577994'
+  lat: '43.40220705167765'
+  lng: '-124.23270234418604'
 seo:
   title: ''
   description: ''
