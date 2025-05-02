@@ -70,7 +70,7 @@ Here’s what visitors can expect at this year’s BBQ, Blues & Brews on the Bay
 
 **How much does it cost to get in?** Admission is just $5 per person, per day—kids 5 and under get in free! Entry passes go on sale Friday, May 2nd at [Ko-Kwel Gifts inside The Mill Casino](https://www.themillcasino.com/accommodations/ko-kwel-gifts/), or can be purchased onsite on the days of the event.
 
-**Do we need to purchase BBQ Bucks this year?** No. ** ** BBQ Bucks will <u>NOT</u> be available to the general public for the 2025 event. However, Mill Club VIPs will receive BBQ Bucks as part of their exclusive event invitation.
+**Do we need to purchase BBQ Bucks this year?** No. \*\* \*\* BBQ Bucks will <u>NOT</u> be available to the general public for the 2025 event. However, Mill Club VIPs will receive BBQ Bucks as part of their exclusive event invitation.
 
 **How will I be able to sample the BBQ?** Visitors can purchase BBQ samples directly from competing teams, with sample prices ranging from $2 to $6 each.
 
