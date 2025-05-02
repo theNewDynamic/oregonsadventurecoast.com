@@ -107,7 +107,7 @@ Wherever you go fat tire biking on Oregon's Adventure Coast, [check the tides](h
 
 Gravel cycling is becoming a top attraction all over the country and right here in the Coos Bay Area. According to <a href="https://www.adventurecycling.org/" target="_blank" rel="noopener">www.adventurecycling.org</a>, when you think of gravel riding, you may think of being in a remote place surrounded by trees or mountains. However, gravel riding simply means riding on any manner of unpaved surfaces; even if it’s a completely flat, well-traveled dirt road. The joy of riding on unpaved surfaces is that they’re usually car-free or in low traffic and naturally scenic areas.
 
-In Coos Bay, <a href="https://dirtyfreehub.org/routes/oregon/milli-mania/" target="_blank" rel="noopener">Dirty Free Hub</a> has documented a fantastic Gravel Cycling Route through the Elliott State Forest to Golden & Silver Falls State Natural Area and the surrounding area. With an elevation gain of more than 3800 feet and a loop of 34 miles, this is a challenging ride, but the scenery cannot be beat.
+In Coos Bay, <a href="https://dirtyfreehub.org/routes/oregon/double-go/" target="_blank" rel="noopener">Dirty Free Hub</a> has documented a fantastic Gravel Cycling Route through the Elliott State Forest to Golden & Silver Falls State Natural Area and the surrounding area. With an elevation gain of more than 3800 feet and a loop of 34 miles, this is a challenging ride, but the scenery cannot be beat.
 
 &nbsp;
 
