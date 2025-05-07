@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: CBDA Coos Bay Farmers Market Celebrates 25 Y
+title: CBDA Coos Bay Farmers Market Celebrates 25 Years!
 draft: false
 date: 2025-05-06T00:00:00-07:00
 description: >-
