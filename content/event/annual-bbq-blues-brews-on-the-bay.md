@@ -38,6 +38,8 @@ Whether you’re a grill master or just love to eat great barbecue, this event i
 
 Live entertainment this year features the Blue Tide Blues Band and Inner Limits! **NEW THIS YEAR** - People’s Choice Awards for Mac N Cheese and Oysters. Also **New This Year** - **Ice Carving & Whole Hog Demo**: On Saturday, May 24, at 4:00pm Rolling Smoke BBQ Team will be unveiling a **whole smoked hog** that will be offered out for samples. Make sure to stop by their booth to take a look, and a taste! On Sunday, May 25 from 12pm-3pm **Chef Chris Foltz, Master Ice Sculptor**, will create an ice masterpiece from a huge block of ice!
 
+Stop by the **Demo Tent** to catch Pitmasters, Oyster Farmers, Chef’s and more demonstrating how to make something that they specialize in. A schedule will be posted soon!
+
 **Big Moe Cason, Champion Pitmaster** and host of National Geographic World of Flavor, will be back for public meet & greets, cookbook signing and more.
 
 [**Book your room now!**](https://oregonsadventurecoast.com/lodging/ "Lodging on Oregon's Adventure Coast!")
