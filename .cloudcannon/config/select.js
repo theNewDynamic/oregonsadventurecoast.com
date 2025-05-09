@@ -2,6 +2,7 @@ module.exports = {
   layouts: [
     "contact",
     "adventures",
+    "adventure-sidebar",
     "calendarpage",
     "eventspage",
     "gallery",
