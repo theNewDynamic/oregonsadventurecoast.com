@@ -3,7 +3,7 @@ _schema: default
 title: Oregon’s Adventure Coast Awaits!
 draft: false
 url: /den
-layout: contact
+layout: adventure-sidebar
 photo: /img/denver-to-oth-page-hdr-2048x530.jpg
 ---
 ####
