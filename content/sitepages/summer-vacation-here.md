@@ -3,7 +3,7 @@ _schema: default
 title: Summer. Vacation Here.
 draft: false
 url: /vacation
-layout: contact
+layout: adventures
 photo: /img/sub-head-vacation-page-2048x530.jpg
 ---
 ![Couple with dog, running on beach toward the ocean](/img/vacation-subheader-04-25.jpg)
