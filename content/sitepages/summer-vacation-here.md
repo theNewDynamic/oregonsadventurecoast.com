@@ -6,7 +6,7 @@ url: /vacation
 layout: adventure-sidebar
 photo: /img/sub-head-vacation-page-2048x530.jpg
 ---
-![Couple with dog, running on beach toward the ocean](/img/vacation-subheader-04-25.jpg)
+![Couple with dog, running on beach toward the ocean](/img/unpack-once-couple-v02695x322.jpg)
 
 ## **Spend Your Vacation on Oregon’s Adventure Coast**
 
