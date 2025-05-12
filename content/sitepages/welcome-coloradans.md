@@ -5,6 +5,9 @@ draft: false
 url: /den
 layout: adventure-sidebar
 photo: /img/denver-to-oth-page-hdr-2048x530.jpg
+aliases:
+  - /denver
+  - /Denver
 ---
 ####
 
