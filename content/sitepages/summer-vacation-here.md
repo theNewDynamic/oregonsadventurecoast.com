@@ -32,7 +32,7 @@ You’ll get to select from an array [accommodations](/lodging), from bay front 
 
 **Summer. Vacation Here.**<br>Your extended getaway is waiting.
 
-### Here are some of our videos to really get familiar with Oregon's Adventure Coast
+### See what makes Oregon’s Adventure Coast special — watch now!
 
 {{< spacer "30" >}}
 
