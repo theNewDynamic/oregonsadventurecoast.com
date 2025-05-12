@@ -18,9 +18,13 @@ Whether you are a thrill seeker or a chill seeker we are the spot. We are a grea
 
 Awaken to fresh ocean air as you stroll along miles of uncrowded beaches. From there you can find adrenaline stirring excitement, or peace and serenity by engaging in [Forest Bathing](/forest-bathing) as you become one with nature or spend your down time beachcombing, tide-pooling, and just soaking in the beauty of the Pacific.
 
+![rocky pacific ocean cliffs at sunset and mother daughter silhouette at beach sunset with seagulls](/img/vacaton-collage-v01.jpg)
+
 **The Ultimate Home Base**<br>Stay longer and make yourself at home. All this dramatic scenery is set in the three distinct communities of Coos Bay, North Bend and Charleston, each with their own unique flavor blended to create the largest population on the Oregon coast. Stroll historic downtowns, sample fresh-caught seafood, and find cozy hideaways that are perfect for slowing down and reconnecting.
 
 You’ll get to select from an array [accommodations](/lodging), from bay front hotels to charming vacation rentals and cozy inns. Our welcoming restaurants serving everything from casual bites to chef-driven cuisine. And with a vibrant arts scene, local shops, and regular events, there’s always something happening to enrich your stay.
+
+![man on beach with dog and mirrored reflection on water](/img/vacaton-collage-v02.jpg)
 
 **Less Traffic, More Wonder**<br>Unlike less diverse, and more crowded destinations, Oregon’s Adventure Coast gives you the breathing room to truly enjoy your vacation. Wide-open spaces, friendly faces, and enchanting beauty around every corner culminate in the perfect place to unwind, explore at your own pace, and create a lifetime of memories.
 
