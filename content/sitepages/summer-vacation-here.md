@@ -45,17 +45,3 @@ You’ll get to select from an array [accommodations](/lodging), from bay front 
 {{< spacer "50" >}}
 
 {{< youtube id="Z-83k7KWCEM" >}}
-
-{{< spacer "50" >}}
-
-{{< youtube id="UGOlB26cMl8" >}}
-
-{{< spacer "50" >}}
-
-{{< youtube id="kkXrsIhp2O4" >}}
-
-{{< spacer "50" >}}
-
-{{< youtube id="bHCIae--his" >}}
-
-{{< spacer "50" >}}
