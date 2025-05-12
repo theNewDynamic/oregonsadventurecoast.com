@@ -27,3 +27,35 @@ You’ll get to select from an array [accommodations](/lodging), from bay front 
 **Make This Trip Truly Unforgettable**<br>This is your invitation to settle in and stay awhile. Spend your vacation the way it was meant to be spent — full of exploration, relaxation, and a touch of adventure. Come see why so many visitors return year after year, drawn back by the magic of **Oregon’s Adventure Coast**.
 
 **Summer. Vacation Here.**<br>Your extended getaway is waiting.
+
+### Here are some of our videos to really get familiar with Oregon's Adventure Coast
+
+{{< spacer "30" >}}
+
+{{< youtube id="4HPADFIXsNo" >}}
+
+{{< spacer "50" >}}
+
+{{< youtube id="x6Qro7ktN-w" >}}
+
+{{< spacer "50" >}}
+
+{{< youtube id="aZcOWSDfTQY" >}}
+
+{{< spacer "50" >}}
+
+{{< youtube id="Z-83k7KWCEM" >}}
+
+{{< spacer "50" >}}
+
+{{< youtube id="UGOlB26cMl8" >}}
+
+{{< spacer "50" >}}
+
+{{< youtube id="kkXrsIhp2O4" >}}
+
+{{< spacer "50" >}}
+
+{{< youtube id="bHCIae--his" >}}
+
+{{< spacer "50" >}}
