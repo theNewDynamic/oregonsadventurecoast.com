@@ -24,7 +24,7 @@ date: '2019-02-10T00:00:00.000+00:00'
 
 **It's Time to Celebrate North Bend's 122nd Birthday with July Jubilee! Featuring live music, a Sip N Stroll, food, cornhole, a 5k fun run, a disc golf tournament, and more!**
 
-## ![Sip N Stroll, Opry and Cornhole!](/img/jj-fri-events-25.jpg)
+## ![Sip N Stroll, Opry and Cornhole!](/img/jj-sat-events-1.jpg)
 
 {{< spacer "50" >}}
 
