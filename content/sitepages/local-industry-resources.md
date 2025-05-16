@@ -32,7 +32,7 @@ accordion_sections:
 
 The **Coos Bay-North Bend-Charleston Visitor & Convention Bureau (VCB)** and the Coos Bay Visitor Information Center provide the following information and documents to our local industry partners to assist in planning and requests.
 
-**Regular Monthly Meeting of the VCB Board of Directors**<br>The 2nd Thursday of every month is slated for the regular meeting of the Board of Directors of the Coos Bay-North Bend-Charleston Visitor & Convention (VCB). The meetings are held at 8:30am in the 2nd floor meeting rooms of The Mill Casino \* Hotel, located at 3201 Tremont (Hwy 101), North Bend, OR.<br>To receive an agenda, RSVP to attend in person and/or receive the Zoom link to attend virtually, please contact Janice Langlinais at [janice@oregonsadventurecoast.com](mailto:janice@oregonsadventurecoast.com).
+**Regular Monthly Meeting of the VCB Board of Directors**<br>The 3rd Thursday of every month is slated for the regular meeting of the Board of Directors of the Coos Bay-North Bend-Charleston Visitor & Convention (VCB). The meetings are held at 8:30am in the 2nd floor meeting rooms of The Mill Casino \* Hotel, located at 3201 Tremont (Hwy 101), North Bend, OR.<br>To receive an agenda, RSVP to attend in person and/or receive the Zoom link to attend virtually, please contact Janice Langlinais at [janice@oregonsadventurecoast.com](mailto:janice@oregonsadventurecoast.com).
 
 **Marketing Support**<br>The VCB attempts to market all the major events and activities happening in our area. To do that effectively, we need information provided to us based on this <a href="/img/VCB-Ad-Marketing-Timelines.pdf" target="_blank" rel="noopener">TIMELINE</a>. This document provides you with the types of information we need and when we need it.
 
