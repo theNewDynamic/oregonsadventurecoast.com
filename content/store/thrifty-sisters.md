@@ -2,7 +2,8 @@
 _schema: default
 title: Thrifty Sisters
 property_description: Gently used clothing for men, women & children. Open Weds-Sat 11am-4pm.
-photo_name: /img/thrifty_sisters_retailpg.jpg
+photo_name: /img/thrifty-sisters-630x366.jpg
+photo_alt: Thrifty Sisters interior and Vintage Retro Sign with sparkly shoes
 property_category:
   - Clothing
 address:
