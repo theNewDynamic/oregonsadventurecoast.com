@@ -15,11 +15,12 @@ accordion_sections:
     accordions:
       - title: Economic Impact Presentations - 2025 Ntl Tourism Week Luncheon
         content: >-
-          <a href="/img/NTTW-COOS-PRESENTATION.pdf" target="_blank"
+          <a href="/img/NTTW-COOS-PRESENTATION-2025.pdf" target="_blank"
           rel="noopener">CBNBC VCB Coos County Economic Impact Presentation</a>
 
 
-          Economic Impact of Tourism on the Local Economy - 2024
+          [Economic Impact of Tourism on the Local Economy -
+          2024](/img/Economic-Impact-2024-preliminary.pdf)
 ---
 ## Local Industry Resources
 
