@@ -19,8 +19,9 @@ accordion_sections:
           rel="noopener">CBNBC VCB Coos County Economic Impact Presentation</a>
 
 
-          [Economic Impact of Tourism on the Local Economy -
-          2024](/img/Economic-Impact-2024-preliminary.pdf)
+          <a href="/img/Economic-Impact-2024-preliminary.pdf" target="_blank"
+          rel="noopener">Economic Impact of Tourism on the Local Economy -
+          2024</a>
 ---
 ## Local Industry Resources
 
