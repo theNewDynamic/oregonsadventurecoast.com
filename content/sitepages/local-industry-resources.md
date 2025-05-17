@@ -13,20 +13,13 @@ seo:
 accordion_sections:
   - title:
     accordions:
-      - title: Economic Impact Presentations - 2023 Ntl Tourism Week Luncheon
+      - title: Economic Impact Presentations - 2025 Ntl Tourism Week Luncheon
         content: >-
-          <a target="_blank" rel="noopener"
-          href="/img/BayAreaChamber_May-2023.pdf">Travel Oregon Tourism Week
-          Presentation</a>
+          <a href="/img/NTTW-COOS-PRESENTATION.pdf" target="_blank"
+          rel="noopener">CBNBC VCB Coos County Economic Impact Presentation</a>
 
 
-          <a target="_blank" rel="noopener"
-          href="/img/NTTW-COOS-PRESENTATION.pdf">CBNBC VCB Coos County Economic
-          Impact Presentation</a>
-
-
-          [Semi-Annual Report - August
-          2023](/img/VCB---Semi-Annual-Report-to-Coos-Cty---AUG23.pdf)
+          Economic Impact of Tourism on the Local Economy - 2024
 ---
 ## Local Industry Resources
 
