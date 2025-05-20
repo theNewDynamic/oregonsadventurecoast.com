@@ -8,23 +8,23 @@ slideshow:
     photo_mobile: /img/bbq-blues-brews-mobile-hm-2025-512x320.jpg
     url: /event/annual-bbq-blues-brews-on-the-bay/
     video:
-  - title: Catch Your Own Feast!
-    photo: /img/crab-feed-home-page-slider.jpg
-    title_mobile: Catch Your Own Feast!
-    photo_mobile: /img/crab-feed-mobile-slider.jpg
-    url: /crabbing-clamming
+  - title:
+    photo: /img/makeweek-seagulls-hm-slider-desktop.jpg
+    title_mobile:
+    photo_mobile: /img/makeweek-seagulls-slider-mobile.jpg
+    url: /vacation
     video:
-  - title: World-Class Mtn Biking
-    photo: /img/whiskey-run-home-slider-2048x850.jpg
+  - title:
+    photo: /img/makeweek-manbeach-hm-slider-desktop.jpg
     title_mobile:
     photo_mobile:
-    url: /cycling
+    url: /vacation
     video:
-  - title: Breathtaking Beaches
-    photo: /img/bastendorff-home-slider-2048x850.jpg
+  - title:
+    photo: /img/makeweek-sunset-hm-slider-desktop-v01.jpg
     title_mobile:
     photo_mobile:
-    url: /undeveloped-beaches
+    url: /vacation
     video:
   - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
