@@ -77,7 +77,7 @@ Here are some recommended points of interest to help you get the full experience
 
 ### \#1 EXPLORE VIA OFF-ROAD VEHICLE
 
-![](/img/dunes-high-five-1.jpg)
+![](/img/Oregon%20Dunesblog-695x322-1.jpg)
 
 One of the more popular ways to explore the Oregon Dunes is on a thrilling [ATV or OHV ride](https://www.oregonsadventurecoast.com/atv-motorsports/). If you don’t own one, there are multiple businesses that offer rentals. All you need is a driver’s license and a sense of adventure!
 
@@ -118,7 +118,7 @@ Here are some of the reasons why it’s a can't-miss event:
 
 ### \#2 EXPLORE THE DUNES BY BIKE OR ON FOOT
 
-![](/img/dunes-hikers.jpg)
+![](/img/oregon-dunes-national-recreation-area-blog-695x322-4.jpg)
 
 Hiking and/or biking through sections of the Oregon Dunes National Recreation Area is a one-of-a-kind experience, where shifting sands, forested paths, and sweeping ocean views come together. Here are some of the top trails and destinations to explore on Oregon’s Adventure Coast:
 
@@ -127,6 +127,8 @@ Hiking and/or biking through sections of the Oregon Dunes National Recreation Ar
 * [John Dellenback Dunes Trail- Lakeside, OR](https://www.oregonhikers.org/field_guide/John_Dellenback_Dunes_Loop_Hike) The only non-motorized portion of the Dunes, the trail is a favorite for hikers looking to experience the raw beauty and diverse ecosystems of the dunes without the buzz of motorized vehicles.
 
 ### \#3 CAMPING IN THE OREGON DUNES NATIONAL RECREATION AREA
+
+![](/img/oregon-dunes-national-recreation-area-blog-695x322-3.jpg)
 
 Planning to go [camping](https://www.oregonsadventurecoast.com/blog/how-to-be-a-happy-camper-part-one-tent-camping-on-oregon-s-adventure-coast/) and [RVing](https://www.oregonsadventurecoast.com/blog/rv-camping-tips-how-to-be-a-happy-camper-on-oregon-s-adventure-coast-part-two/)on Oregon’s Adventure Coast? These campgrounds offer easy access to the Oregon Dunes National Recreation Area’s trails, ATV routes, and unforgettable adventures just steps from your campsite
 
