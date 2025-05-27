@@ -3,6 +3,10 @@ _schema: default
 title: Three Ways to Experience the Oregon Dunes National Recreation Area
 draft: false
 date: 2025-05-20T00:00:00-07:00
+image: /img/oregon-dunes-national-recreation-area-blog-695x322.jpg
+categories:
+  - Outdoor Adventures
+  - Local Spotlight
 warning: false
 ---
 ### *The Oregon Dunes National Recreation Area, a rare combination of forest, ocean, and desert, is one of our most unique and treasured natural destinations on Oregon’s Adventure Coast.*
@@ -15,11 +19,11 @@ Many visitors say the dunes are the highlight of their trip. Some even describe 
 
 With the 10th anniversary of [UTV Takeover](https://www.oregonsadventurecoast.com/event/utv-takeover/) happening June 24 to 29, 2025, it’s the perfect time to spotlight this bucket-list destination.
 
+{{< youtube id="qMTi05KIzCc" >}}
+
 ### WHEN TO VISIT
 
 The best times to explore the[Oregon Dunes National Recreation Area](https://www.stateparks.com/oregon_dunes.html)on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston are late spring through early fall, when the weather is mild and conditions are ideal for riding, hiking, and camping.
-
-&nbsp;
 
 * Late Spring (May–June) – Fewer crowds, but still some rain.
 * Summer (July–August) – Best weather but busiest season.
@@ -31,27 +35,17 @@ Here are some recommended points of interest to help you get the full experience
 
 ### \#1 EXPLORE VIA OFF-ROAD VEHICLE
 
-One of the more popular ways to explore the Oregon Dunes is on a thrilling [ATV or OHV ride](https://www.oregonsadventurecoast.com/atv-motorsports/). If you don’t own one, there are multiple businesses that offer rentals. All you need is a driver’s license and a sense of adventure!
+![](/img/dunes-high-five-1.jpg)
 
-&nbsp;
+One of the more popular ways to explore the Oregon Dunes is on a thrilling [ATV or OHV ride](https://www.oregonsadventurecoast.com/atv-motorsports/). If you don’t own one, there are multiple businesses that offer rentals. All you need is a driver’s license and a sense of adventure!
 
 **ATV Equipment Rentals and Tours**
 
 Here are some local businesses that have been recommended for ATV/UTV, Sand Board & Sled Rentals, and tours.
 
-&nbsp;
-
 * Dune Bug ATV Rentals- Behind Myrtlewood Factory at Hauser and Hwy 101, North Bend<br>[www.oregondunebugrentals.com/home.htm](https://oregondunebugrentals.com/home.htm)​
-
-&nbsp;
-
 * Spinreel Dune Buggy & ATV Rentals, Inc- 67045 Spinreel Rd, North Bend<br>[www.ridetheoregondunes.com](https://www.ridetheoregondunes.com/)
-
-&nbsp;
-
 * Steve’s ATV Rental - 68512 US-101, North Bend<br>[www.stevesatvrentals.com](https://stevesatvrentals.com/oregon-dunes)
-
-&nbsp;
 
 North Bend offers the largest riding area on the Oregon Coast, stretching from Spinreel Campground to Horsfall Road, just north of Coos Bay. Here’s how to make the most of your ride:
 
@@ -60,17 +54,13 @@ North Bend offers the largest riding area on the Oregon Coast, stretching from S
 * **Ride to the beach.** If you're going unguided, head toward [Horsfall Beach](https://traveloregon.com/plan-your-trip/places-to-stay/campgrounds/horsfall-beach/) for wide-open sand, ocean views, and a nearly empty stretch of shoreline. Start from Box Car Hill to access the Horsfall Dunes—a spacious area perfect for riding with direct access to the beach.
 * **Give yourself time.** Plan for at least two hours of ride time. That’s usually enough for beginners to explore the dunes, reach the beach, and take in stunning views of the ocean, lakes, and forests. Be sure to budget extra time for check-in and safety orientation—your ride officially starts once rental location staff clear you to go.
 
-&nbsp;
-
-**Featured Event UTV TAKEOVER June 24-29, 2025**
+### **Featured Event UTV TAKEOVER June 24-29, 2025**
 
 *“This year, for our 10th anniversary, we’re pushing the boundaries even further, creating bigger, better experiences that will help build memories for generations to come.”* - [UTV Takeover](https://www.utvtakeover.com/coos-bay-or/)
 
-&nbsp;
+![](/img/crushing-it-utv-cb.jpeg)
 
 [UTV Takeover](https://www.oregonsadventurecoast.com/event/utv-takeover/) is a family-friendly celebration of the off-road lifestyle happening June 24th through 29th at [Boxcar Hill Campground](https://boxcarhilloregon.com/). The annual event draws more than 30,000 attendees each year, bringing the ATV community, vendors, and sponsors together for a high-energy, adventure-filled experience on **Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston**.
-
-&nbsp;
 
 Launched in 2015 to create a family-focused off-road event, UTV Takeover has grown into the fastest-growing and most dynamic off-road series in the country.
 
@@ -85,6 +75,8 @@ Here are some of the reasons why it’s a can't-miss event:
 * Get the full schedule and start planning your trip:[UTV Takeover Coos Bay Activities](https://www.utvtakeover.com/coos-bay-or/activities/)
 
 ### \#2 EXPLORE THE DUNES BY BIKE OR ON FOOT
+
+![](/img/dunes-hikers.jpg)
 
 Hiking and/or biking through sections of the Oregon Dunes National Recreation Area is a one-of-a-kind experience, where shifting sands, forested paths, and sweeping ocean views come together. Here are some of the top trails and destinations to explore on Oregon’s Adventure Coast:
 
