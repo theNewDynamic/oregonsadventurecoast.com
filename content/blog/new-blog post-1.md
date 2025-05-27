@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Three Ways to Experience the Oregon Dunes National Recreation Area
+title: Top Ways to  Experience the Oregon Dunes National Recreation Area
 draft: false
 date: 2025-05-20T00:00:00-07:00
 image: /img/oregon-dunes-national-recreation-area-blog-695x322.jpg
