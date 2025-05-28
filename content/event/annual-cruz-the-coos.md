@@ -8,7 +8,7 @@ address:
   state: OR
   street: 50 Central Avenue
   zip: 97420
-phone_local: (541) 267-4441
+phone_local: (541) 297-0091
 website: https://cruzthecoos.com/
 desktoptitle: Annual Cruz The Coos
 mobiletitle: Cruz The Coos
