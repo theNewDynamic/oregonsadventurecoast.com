@@ -42,8 +42,6 @@ The best information about these fishing opportunities is available from [local 
 
 **Pacific Charter Services**<br>Ocean & Bay fishing and crabbing trips<br>63480 Crossline Road<br>Charleston, OR 97420<br>(541) 378-3040<br>[Website](http://www.pacificcharterservices.com)
 
-**PacificPond Charters**<br>Charleston, OR 97420<br>(541) 294-5252<br>[Website](https://www.facebook.com/PacificPondCharters)
-
 **Sharkys Charters**<br>6440 Bruce Road<br>Charleston, OR 97420<br>(541) 260-9110<br>[Website](http://www.SharkysCharterFishing.com)
 
 [More Charters and Guides](/tour-guides-and-charters/)
