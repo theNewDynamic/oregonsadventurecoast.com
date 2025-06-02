@@ -6,13 +6,13 @@ title: >-
 draft: false
 date: 2025-05-29T12:00:00-07:00
 description: >-
-  <p>Oregon's Adventure Coast: Coos Bay, North Bend, Charleston features the
-  very best of the Pacific Northwest natural beauty, a rich history, community
+  Oregon's Adventure Coast: Coos Bay, North Bend, Charleston features the very
+  best of the Pacific Northwest natural beauty, a rich history, community
   festivals, performing arts, food, and more family-friendly adventures than we
   can list in one post! Plan your escape from the heat this summer, kick back,
   and enjoy some blissfully cool, comfortable temperatures that average in the
   mid-high 60s. Here are eight events and activities we're looking forward to
-  this summer in Coos Bay, North Bend, and Charleston.</p>
+  this summer in Coos Bay, North Bend, and Charleston.
 image: >-
   /img/8-things-we-re-looking-forward-to-this-summer-in-coos-bay-north-bend-and-charleston-blog-695x322-9-1.jpg
 tags:
