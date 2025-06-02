@@ -39,7 +39,7 @@ Vendor booths, canoe races, demonstrations and other events:<br>**Saturday, Sept
 
 **Saturday, Sept 13 \| 11:00 AM – 5:00 PM<br>Sunday, Sept 14 \| 11:00 AM – 4:00 PM**
 
-Pre-sale tickets will go on sale in August. Tickets will be available in Ko-Kwel Gifts in The Mill Casino \* Hotel and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event.
+Pre-sale tickets will go on sale in August. Tickets will be available in Ko-Kwel Gifts in Ko-Kwel Casino Resort Coos Bay (formerly The Mill Casino \* Hotel) and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event.
 
 #### **Meal Prices:**&nbsp;
 
@@ -79,7 +79,7 @@ Elders of the Coquille Tribe will also have a booth selling fry bread and fry br
 
 {{< spacer "15" >}}
 
-The Festival is located in the south parking lot outside **The Mill Casino • Hotel**. Bring the whole family for a great weekend of fun! **Free to attend**.
+The Festival is located in the south parking lot outside **Ko-Kwel Casino Resort Coos Bay** (formerly The Mill Casino • Hotel). Bring the whole family for a great weekend of fun! **Free to attend**.
 
 {{< spacer 25 >}}
 
