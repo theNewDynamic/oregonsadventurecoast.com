@@ -13,13 +13,13 @@ equip_type:
 photo_name: /img/coos-bay-charters.jpg
 photo_alt: Captain John guides you to the best the Pacific has to offer!
 address:
+  city: Charleston
   state: OR
   street: Charleston Marina
   street2: ''
-  city: Charleston
   zip: '97420'
 phone_local: 831-428-2181
-website: https://www.facebook.com/profile.php?id=100072975637763
+website: https://coosbaychartersllc.com/
 coordinates:
   lat: '43.346531'
   lng: '-124.323945'
