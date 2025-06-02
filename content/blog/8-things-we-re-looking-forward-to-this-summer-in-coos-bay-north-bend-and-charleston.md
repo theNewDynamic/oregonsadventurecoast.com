@@ -121,8 +121,17 @@ For the ultimate summer adventure, nothing beats [getting out on the water,](htt
 Oregon's Adventure Coast comes alive every summer with music, festivals, and cultural celebrations that unite the community. A highlight of the season is the [47th Annual Oregon Coast Music Festival](https://www.oregonsadventurecoast.com/event/annual-oregon-coast-music-festival/) (OCMF), July 12–26, 2025. This two-week event features an impressive lineup of live performances at special venues like Shore Acres State Park, Mingus Park, and the OIMB Boat House. Nicknamed the "Tanglewood of the West Coast," OCMF is the longest-running music festival on the Oregon Coast and brings together more than 80 musicians from across the country. The celebration concludes with three grand performances by the Festival Orchestra, conducted by internationally acclaimed Maestro Martin Majkut, at the Marshfield High Auditorium. For event details and tickets, visit the [official festival website](https://www.oregoncoastmusic.org/). Here are some other performances we're looking forward to this summer.
 
 * **Coos Bay Shakespeare in the Park presents** ***A Midsummer Night's Dream*** **June 21-29, 2025**. Local performers are bringing Shakespeare to life with performances in Coos Bay's Mingus Park Amphitheater! Admission is FREE, visit [coosbayshakespeare.com/](http://coosbayshakespeare.com/) to learn more.
+
+  &nbsp;
+
 * **The Liberty Theatre in North Bend presents** ***You're a Good Man, Charlie Brown*** **June 20-29, 2025.** Audiences will love this heartwarming musical based on the Peanuts comic strip! Information and tickets are available at [thelibertytheatre.org](https://thelibertytheatre.org/).
+
+  &nbsp;
+
 * **Music on the Bay – Free Concert Series (Thursdays starting August 2025).** Enjoy live music at the Mingus Park Amphitheater every Thursday evening in August and September. Bring a picnic, relax with friends, dance to the music, and soak in the summer vibes—admission is free! Visit [www.facebook.com/musiconthebay](https://www.facebook.com/musiconthebay) for information on this year’s lineup and schedule.
+
+  &nbsp;
+
 * **Ongoing Performances at Local Venues.** Visitors can often catch live local and regional musicians performing at various venues across Coos Bay, North Bend, and Charleston like[<u>The Mill Casino • Hotel &amp; RV Park</u>](https://www.themillcasino.com/) (recently renamed the[<u>Ko-Kwel Casino Resort</u>](https://www.themillcasino.com/ko-kwel-casino-resort/)),[<u>7 Devils Brewery</u>](https://7devilsbrewery.com/),[<u>North Forty Brewing</u>](https://www.northfortybeer.com/) in North Bend,[<u>Wildflour Public House</u>](https://www.wildflourpub.com/),[<u>Front Street Food Trucks</u>](https://www.facebook.com/frontstreetfoodtrucks/) and[<u>NoBe Taphouse and Food Cart Pod</u>](https://www.facebook.com/profile.php?id=61550653942383), to name a few.[<u>The Captain's Cabin</u>](https://www.yelp.com/biz/captains-cabin-bar-coos-bay-2) and[<u>Coney Station</u>](https://www.facebook.com/ConeyStation/) are other spots to catch live tunes.
 
 ### **6) Attending Community Celebrations & Festivals**
