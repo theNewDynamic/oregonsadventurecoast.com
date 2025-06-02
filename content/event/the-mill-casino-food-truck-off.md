@@ -12,9 +12,9 @@ phone_local: (541) 756-8800
 website: https://www.themillcasino.com/event/food-truck-off/
 seo:
   imgalt: 'Mill Casino Food Truck Off '
-desktoptitle: Mill Casino Food Truck Off
-mobiletitle: Mill Food Trucks
-hovertitle: Mill Food Trucks
+desktoptitle: Annual Food Truck Off
+mobiletitle: Annual Food Truck Off
+hovertitle: Annual Food Truck Off
 hoverdescription: Food trucks, live music and more!
 photo: /img/truck-off-event-pg-header.jpg
 largeboxphoto: /img/truck-off-event-large.jpg
@@ -45,7 +45,7 @@ This three-day event will feature up to **20 food trucks from the Pacific Northw
 
 {{< spacer 50 >}}
 
-##### Tickets will be available at Ko-Kwel Gifts in <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener"><strong>Ko-Kwel Casino Resort | Coos Bay</strong></a> ** ** ***(formerly The Mill Casino)*** or at the Gate!<br>$5 general admission per day
+##### Tickets will be available at Ko-Kwel Gifts in <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener"><strong>Ko-Kwel Casino Resort | Coos Bay</strong></a> \*\* \*\* ***(formerly The Mill Casino)*** or at the Gate!<br>$5 general admission per day
 
 *(portion will benefit the Boys & Girls Club of Southwestern Oregon)*
 
