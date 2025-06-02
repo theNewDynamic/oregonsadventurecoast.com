@@ -144,7 +144,7 @@ Oregon's Adventure Coast comes alive each summer with various [events and festiv
 * [UTV TakeOver 2025](https://www.oregonsadventurecoast.com/event/utv-takeover/) - June 24-29, 2025
 * [2025 Independence Day Celebrations](https://www.oregonsadventurecoast.com/event/july-3rd-4th-fireworks-over-the-bay/?utm_source=Mailchimp&amp;utm_medium=april-2025&amp;utm_campaign=cbnbc-newsletter) - July 3-4, 2025
 * [2025 North Bend July Jubilee](https://www.oregonsadventurecoast.com/event/north-bend-july-jubilee/?utm_source=Mailchimp&amp;utm_medium=april-2025&amp;utm_campaign=cbnbc-newsletter) - July 18-20, 2025
-* [Mill Casino Truck Off](https://www.oregonsadventurecoast.com/event/the-mill-casino-food-truck-off/) - August 1-3, 2025
+* [Food Truck Off](https://www.oregonsadventurecoast.com/event/the-mill-casino-food-truck-off/) at Ko Kwel Casino Resort Coos Bay (formerly The Mill) - August 1-3, 2025
 * [Annual Blackberry Arts Festival](https://www.oregonsadventurecoast.com/event/annual-blackberry-arts-festival/?utm_source=Mailchimp&amp;utm_medium=april-2025&amp;utm_campaign=cbnbc-newsletter) - August 23-24, 2025
 * [Mill Luck Salmon Celebration](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/) - September 13-14, 2025
 * [Cruz the Coos](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/?utm_source=Mailchimp&amp;utm_medium=april-2025&amp;utm_campaign=cbnbc-newsletter) - September 20, 2025
