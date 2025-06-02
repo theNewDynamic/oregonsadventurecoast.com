@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Annual The Mill Casino Food Truck Off
+title: Annual Food Truck Off at Ko-Kwel Casino Resort Coos Bay
 startdate: '2025-08-01'
 enddate: '2025-08-03'
 address:
@@ -21,7 +21,7 @@ largeboxphoto: /img/truck-off-event-large.jpg
 mediumboxphoto: /img/truck-off-event-medium.jpg
 smallboxphoto: /img/truck-off-event-small.jpg
 ---
-![](/img/1708_food_truck_off_web850.jpg)
+![Food Truck Off graphic](/img/food-truck-off.jpg)
 
 #### **Enjoy a 3-day event featuring food trucks, live music and more.**
 
@@ -45,7 +45,7 @@ This three-day event will feature up to **20 food trucks from the Pacific Northw
 
 {{< spacer 50 >}}
 
-##### Tickets will be available at Ko-Kwel Gifts in The Mill Casino or at the Gate!<br>$5 general admission per day
+##### Tickets will be available at Ko-Kwel Gifts in <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener"><strong>Ko-Kwel Casino Resort | Coos Bay</strong></a> ** ** ***(formerly The Mill Casino)*** or at the Gate!<br>$5 general admission per day
 
 *(portion will benefit the Boys & Girls Club of Southwestern Oregon)*
 
@@ -55,6 +55,6 @@ This three-day event will feature up to **20 food trucks from the Pacific Northw
 
 {{< spacer 50 >}}
 
-Interested in Competing? Email The Mill's [Sales Department](mailto:salesdept@themillcasino.com)&nbsp;for more information
+Interested in Competing? Email Ko-Kwel Casino Resort's [Sales Department](mailto:salesdept@themillcasino.com)&nbsp;for more information
 
 {{< spacer 50 >}}
