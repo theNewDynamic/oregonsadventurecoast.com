@@ -22,7 +22,7 @@ date: '2019-02-10T00:00:00.000+00:00'
 ---
 ![July Jubilee this Summer in North Bend!](/img/2025-july-jubilee-cover-photo.png "July Jubilee this Summer in North Bend!")
 
-**It's Time to Celebrate North Bend's 122nd Birthday with July Jubilee! Featuring live music, a Sip N Stroll, food, cornhole, a 5k fun run, a disc golf tournament, and more!**
+**It's Time to Celebrate North Bend's 122nd Birthday with July Jubilee! Featuring live music, a Sip N Stroll, food, a 5k fun run, a disc golf tournament, and more!**
 
 ## ![Sip N Stroll, Opry and Cornhole!](/img/jj-sat-events-1.jpg)
 
