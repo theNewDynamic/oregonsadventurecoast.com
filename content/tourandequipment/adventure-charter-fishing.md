@@ -5,8 +5,8 @@ property_description: "Experience\_the thrill of the Pacific Ocean with Adventur
 property_name: Adventure Charter Fishing
 equip_type:
   - Tour
-photo_name: /img/adchfishignlogo.jpg
-photo_alt: Logo for Adventure Charter Fishing with cartoon fish leaping out of water
+photo_name: /img/adventure-fishing.png
+photo_alt: Adventure Charter Fishing boat at dock
 address:
   city: Charleston
   state: OR
