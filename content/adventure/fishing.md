@@ -32,7 +32,7 @@ We’ve also put together a [list of resources](/img/fishing-rackcard.pdf) that 
 
 ![](/img/sub-page-fishing-small-mouth-bass-695x125.jpg)
 
-Each year, June to October, the Coquille River STEP Association and the Coquille Indian Tribe host a **Smallmouth Bass Derby**. If a fisherman catches a chipped smallmouth bass, they could win anywhere from $20 to $5,000!!! Bring your smallmouth bass to Sturdivant Park in Coquille on Saturdays from 4-8pm, Port of Coquille in Myrtle Point on Sundays from 4-8pm or Pioneer House in Powers on Thursdays from 4-8pm to have your fish scanned. <a href="https://www.facebook.com/profile.php?id=100095005862094" target="_blank" rel="noopener">Visit the Facebook Page for More</a>.
+Each year, June to October, the Coquille River STEP Association and the Coquille Indian Tribe host a **Smallmouth Bass Derby**. If a fisherman catches a chipped smallmouth bass, they could win anywhere from $20 to $1,000!!! Bring your smallmouth bass to Sturdivant Park in Coquille on Saturdays from 4-8pm, Myrtle Point Boat Ramp on Sundays from 4-8pm or Pioneer House in Powers on Thursdays from 4-8pm to have your fish scanned. <a href="https://www.facebook.com/profile.php?id=100095005862094" target="_blank" rel="noopener">Visit the Facebook Page for More</a>.
 
 {{< spacer "25" >}}
 
