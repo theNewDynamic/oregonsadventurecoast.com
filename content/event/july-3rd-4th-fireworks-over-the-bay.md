@@ -35,9 +35,9 @@ photo_alt: Fireworks over Coos Bay
 
 {{< spacer 15 >}}
 
-Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [The Mill Casino](https://www.themillcasino.com/entertainment/july-3rd-fireworks-blast-by-the-bay/) will light up the skies over the Bay with this year's waterfront fireworks display.
+Don’t miss The Blast by the Bay, the Oregon Coast’s **largest fireworks display** on July 3rd. Ko-Kwel Casino Resort Coos Bay (formerly [The Mill Casino](https://www.themillcasino.com/entertainment/july-3rd-fireworks-blast-by-the-bay/)) will light up the skies over the Bay with this year's waterfront fireworks display.
 
-**The fireworks display will be located in front of The Mill Casino, but can be seen from just about anywhere along the Bay!**
+**The fireworks display will be located in front of Ko-Kwel Casino Resort, but can be seen from just about anywhere along the Bay!**
 
 **The 20-minute fireworks show commences at 10pm** but, before the fireworks, there is more to enjoy!!
 
@@ -59,7 +59,7 @@ Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [Th
 
 **Stick around for a 2nd night of Fireworks with the City of Coos Bay's Fireworks display over the Bay. The fireworks begin at dark or approximately 10pm. The best viewing spot is from the Coos Bay Boardwalk!**
 
-Like The Mill's display on July 3rd, the City of Coos Bay's display can be seen from most places along the Bay from The Coos History Museum to Eastside!
+Like the Ko-Kwel Casino Resort's display on July 3rd, the City of Coos Bay's display can be seen from most places along the Bay from The Coos History Museum to Eastside!
 
 {{< spacer 15 >}}
 
