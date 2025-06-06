@@ -9,14 +9,10 @@ ctas:
     url: /img/walking-map-cbnb.pdf
     action: Download (PDF)
     image: /img/brochure-cover-walking-map.jpg
-  - title: Local Restaurant & Dining Guide
-    url: /img/restaurants-booklet-web-08-24.pdf
+  - title: Dining & Coffee Shop Guide
+    url: /img/Dining-Coffee-Shop-Guide-06-25.pdf
     action: Download (PDF)
-    image: /img/brochure-cover-dining-guide-23.jpg
-  - title: Coffee Shops, Bakeries & More Guide
-    url: /img/coffeeshops-bakery-08-24.pdf
-    action: Download (PDF)
-    image: /img/brochure-cover-bakery-guide.jpg
+    image: /img/dining-guide-cover-2025.jpg
 seo:
   title: Oregon Coast Trips Vacations - Dining | Oregon's Adventure Coast
   description: >-
