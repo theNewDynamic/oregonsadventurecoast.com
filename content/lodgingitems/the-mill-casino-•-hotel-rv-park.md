@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Ko-Kwel Casino Resort Coos Bay
+title: Ko-Kwel Casino Resort Coos Bay (formerly The Mill Casino)
 property_description: >-
   Experience over 200 well-appointed rooms and suites in our Tower and Lodge,
   some with in-room hot tubs, Las Vegas-style gaming excitement, five excellent
