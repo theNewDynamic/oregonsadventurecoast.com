@@ -9,7 +9,7 @@ command = "hugo --gc"
   HUGO_VERSION = "0.91.2"
   GO_VERSION = "1.16.5"
   NODE_VERSION = "16.16.0"
-  SECRETS_SCAN_ENABLED = false
+  SECRETS_SCAN_ENABLED = "false"
 [context.production.environment]
 # Uncomment the next line when moving site to production
 HUGO_ENV = "production"
