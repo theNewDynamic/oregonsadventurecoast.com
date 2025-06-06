@@ -35,7 +35,7 @@ photo_alt: Fireworks over Coos Bay
 
 {{< spacer 15 >}}
 
-Don’t miss The Blast by the Bay, the Oregon Coast’s **largest fireworks display** on July 3rd. Ko-Kwel Casino Resort Coos Bay (formerly [The Mill Casino](https://www.themillcasino.com/entertainment/july-3rd-fireworks-blast-by-the-bay/)) will light up the skies over the Bay with this year's waterfront fireworks display.
+Don’t miss The Blast by the Bay, the Oregon Coast’s **largest fireworks display** on July 3rd. <a href="www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener"><strong>Ko-Kwel Casino Resort Coos Bay</strong></a> (formerly The Mill Casino) will light up the skies over the Bay with this year's waterfront fireworks display.
 
 **The fireworks display will be located in front of Ko-Kwel Casino Resort, but can be seen from just about anywhere along the Bay!**
 
