@@ -1,15 +1,15 @@
 ---
 _schema: default
 title: 'IN A LANDSCAPE: Classical Music in the Wild'
-startdate: '2024-09-04'
-enddate: '2024-09-05'
+startdate: '2025-09-06'
+enddate: '2025-09-07'
 address:
   city: Charleston
   state: OR
   street: 'Shore Acres State Park '
   street2: 89039 Cape Arago Hwy
   zip: '97420'
-phone_local: 541-269-0215
+phone_local: 503-308-2921
 website: https://www.inalandscape.org/
 coordinates:
   lat: ''
@@ -32,9 +32,9 @@ smallboxphoto: /img/ial-joey-hamilton-340x214.jpg
 ---
 ### IN A LANDSCAPE: Classical Music in the Wild™
 
-#### AT SHORE ACRES STATE PARK - September 4 & 5
+#### AT SHORE ACRES STATE PARK - September 6 & 7
 
-***Doors open at 4:30pm, Concert begins at 5:00pm***
+***Doors open at 4:00pm, Concert begins at 5:00pm***
 
 ###### ![In a landscape music in the wild at Shore Acres State Park](/img/in-a-landscape-group-under-piano-695x322.jpg)
 
@@ -46,7 +46,7 @@ To meet the acoustical challenges of performing in the wild, **music is transmit
 
 ###### {{< spacer 25 >}}
 
-**IN A LANDSCAPE: Classical Music in the Wild™ concerts are brought to you in partnership with the Oregon Parks and Recreation Department and Sponsors** [**Wild Rivers Coast Alliance**](https://wildriverscoastalliance.com/)**,** [**Travel Southern Oregon Coast**](https://www.oscrtn.com/tsoc.html)**, and** [**Oregon's Adventure Coast: Coos Bay, North Bend, Charleston**](https://www.oregonsadventurecoast.com/)**. This year's recipient of the donations will be Friends of Shore Acres!**
+**IN A LANDSCAPE: Classical Music in the Wild™ concerts are brought to you in partnership with the Oregon Parks and Recreation Department and Sponsors** <a href="https://bandondunesgolf.com/golf-resort-info/bandon-dunes-charitable-foundation/" target="_blank" rel="noopener"><strong>Bandon Dunes Charitable Foundation</strong></a> **and** [**Travel Southern Oregon Coast**](https://www.oscrtn.com/tsoc.html)**.**
 
 ###### {{< spacer 25 >}}
 
@@ -66,17 +66,17 @@ Once the grand estate of timber baron Louis J. Simpson, Shore Acres features a *
 
 #### TICKET
 
-**Shore Acres Concert - Wednesday, September 4th -** <a href="https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-tickets-793568483697?aff=ebdsoporgprofile" target="_blank" rel="noopener"><strong>BUY TICKETS</strong></a>
+**Shore Acres Concert - Wednesday, September 6th -** <a href="https://aftontickets.com/event/buyticket/p79plq63xk" target="_blank" rel="noopener"><strong>BUY TICKETS</strong></a>
 
-**Shore Acres Concert - Thursday, September 5th -** <a href="https://www.eventbrite.com/e/in-a-landscape-shore-acres-state-park-tickets-793567701357?aff=ebdsoporgprofile" target="_blank" rel="noopener"><strong>BUY TICKETS</strong></a>
+**Shore Acres Concert - Thursday, September 7th -** <a href="https://aftontickets.com/event/buyticket/om9o6y659g" target="_blank" rel="noopener"><strong>BUY TICKETS</strong></a>
 
-**General Admission Tickets: $40** *(plus EventBrite fees)*
+**General Admission Tickets: $45** *(plus service fees)*
 
 **Good Neighbor Tickets: Free \*\***
 
-*\*\* Thanks to the sponsorship of Oregon Parks & Recreation Department's Park Explorer program, a number of FREE tickets are available at this concert through IN A LANDSCAPE'S Good Neighbor Program\*.* [*To see if you qualify, click here.*](https://docs.google.com/forms/d/e/1FAIpQLSd0B9Atay9bgSwMOVlcUCNjNVL50_If3mzO9D83GdTTV62IWQ/viewform) *One free Good Neighbor Ticket per order. ID and/or EBT card required at check-in with all Good Neighbor tickets. Click on “Tickets” above for more details.*
+*\*\*  Supported by the **Marie Lamfrom Foundation**, IN A LANDSCAPE’s **Good Neighbor Program** provides access where needed.* *Limited quantities. Electronic Benefit Transfer (EBT) Cardholders use promo code: “goodneighbor” (EBT card required at check-in). To request a Good Neighbor ticket for another reason, please email* [*gnp@inalandscape.org*](mailto:gnp@inalandscape.org)
 
-If you need assistance in purchasing tickets, email our ticketing office at [tickets@inalandscape.org](mailto:tickets@inalandscape.org)
+If you need assistance in purchasing tickets, email the ticketing office at [tickets@inalandscape.org](mailto:tickets@inalandscape.org)
 
 {{< spacer 25 >}}
 
@@ -102,7 +102,7 @@ No chairs will be provided. We recommend bringing low-back chairs, in considerat
 
 **DIRECTIONS/PARKING<br>Shore Acres State Park** sits high on the cliffs overlooking the Pacific Ocean, 13 miles southwest of Coos Bay/North Bend and US Highway 101. Take Cape Arago Highway from Coos Bay, the park is located about 4 miles west of the small fishing village of Charleston.
 
-***$5.00 per day parking fee at Shore Acres State Park. Cash only, credit and debit cards not accepted. A valid annual State Park Pass or Oregon Coastal Pass will be accepted for parking.***
+***$10.00 per day parking fee at Shore Acres State Park. Credit and debit cards accepted at the Kiosk. A valid annual State Park Pass or Oregon Coastal Pass will be accepted for parking.***
 
 **ARRIVAL -** We suggest arriving up to 45 minutes prior to concert time in order to park, reach the site, check-in, get your headphones and get cozy before the concert starts.
 
