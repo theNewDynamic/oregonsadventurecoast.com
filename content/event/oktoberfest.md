@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Oktoberfest
+title: Oktoberfest at Coos History Museum
 startdate: '2025-09-27'
 enddate: '2025-09-27'
 address:
