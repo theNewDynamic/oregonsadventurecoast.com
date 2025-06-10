@@ -51,7 +51,7 @@ date: '2019-02-10T00:00:00.000+00:00'
 #### Sunday, July 20
 
 * 10:00 AM-12:00 PM I **Historic Walking Tour** - Starting from Hotel North Bend
-* 1100 AM-1:00 PM I **Softball Game Fundraiser** - North Bend -vs- Coos Bay at Clyde Allen Field
+* 11:00 AM-1:00 PM I **Softball Game Fundraiser** - North Bend -vs- Coos Bay at Clyde Allen Field
 * 2:00-4:00 PM I **Little Ole Opry on the Bay** - Country Opry at The Liberty Theatre
 
 &nbsp;

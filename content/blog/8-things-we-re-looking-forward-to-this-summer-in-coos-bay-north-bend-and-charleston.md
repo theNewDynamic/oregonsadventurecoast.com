@@ -80,7 +80,7 @@ tags:
   - Prefontaine Memorial Run
 warning: false
 ---
-*\*\*Please note: all scheduled events mentioned in this blog post are subject to change without notice. Please call ahead or visit our*[*<u>Events Page</u>*](https://www.oregonsadventurecoast.com/events/?utm_source=events-march-2022&amp;utm_medium=mailchimp&amp;utm_campaign=+cbnb-newsletter) *and*[*<u>Calendar</u>*](https://www.oregonsadventurecoast.com/calendar/?utm_source=events-march-2022&amp;utm_medium=mailchimp&amp;utm_campaign=+cbnb-newsletter) *for the complete list\*\**
+*\*\*Please note: all scheduled events mentioned in this blog post are subject to change without notice. Please call ahead or visit our* [*<u>Events Page</u>*](https://www.oregonsadventurecoast.com/events/?utm_source=events-march-2022&amp;utm_medium=mailchimp&amp;utm_campaign=+cbnb-newsletter) *and* [*<u>Calendar</u>*](https://www.oregonsadventurecoast.com/calendar/?utm_source=events-march-2022&amp;utm_medium=mailchimp&amp;utm_campaign=+cbnb-newsletter) *for the complete list\*\**
 
 Memorial Day weekend is history, and if you haven't made your summer travel plans, it's not too late to start! Oregon's Adventure Coast: Coos Bay, North Bend, Charleston is home to Oregon's largest and oldest coastal communities and deepest port. It features the very best of the Pacific Northwest natural beauty, a rich history, community festivals, performing arts, food, and more family-friendly adventures than we can list in one post!
 
@@ -102,7 +102,11 @@ That means on June 7, visitors won't have to pay to park at[<u>Shore Acres State
 
 Ever wonder why capital letters are called "upper case" and lowercase letters "lower case"? Or, where does the term "typing" originate from? You can learn the answers to these questions and more at [The Marshfield Sun Printing Museum](https://www.facebook.com/p/Marshfield-Sun-Printing-Museum-100071574391773/), a hidden gem located at the north end of Front Street on Coos Bay's historic waterfront. This hands-on museum showcases vintage printing presses, typesetting tools, and the craftsmanship behind early newspaper production. Open Wednesday through Saturday from 1 to 4 p.m., Memorial Day through Labor Day, the museum offers free admission, with donations gladly accepted. Combine a visit to the *Marshfield Sun* with a visit to the nearby [Coos History Museum](https://cooshistory.org/) for an afternoon of fascinating local history.
 
-The Special Olympics of Oregon is bringing its Regional Track & Field and Bocce competitions to Oregon's Adventure Coast: Coos Bay, North Bend, Charleston, June 21, 2025! We're proud to welcome these incredible athletes, their coaches, and their families for a day of sportsmanship and celebration.[<u>2025 SOOR Summer Regional Athletics</u>](https://soor.org/event/2025-soor-summer-regional-athletics-3/) (Track & Field events) will occur at North Bend High School, while[<u>2025 SOOR Summer Regional Bocce</u>](https://soor.org/event/2025-soor-summer-regional-bocce-3/) competitions will be held at Southwestern Oregon Community College. Join us to cheer on the athletes and be part of this inspiring day!
+### 3) Special Olympics of Oregon
+
+![](/img/8-things-we-re-looking-forward-to-this-summer-in-coos-bay-north-bend-and-charleston-blog-695x322.jpg)
+
+The Special Olympics of Oregon is bringing its Regional Track & Field and Bocce competitions to Oregon's Adventure Coast: Coos Bay, North Bend, Charleston, June 21, 2025! We're proud to welcome these incredible athletes, their coaches, and their families for a day of sportsmanship and celebration. [<u>2025 SOOR Summer Regional Athletics</u>](https://soor.org/event/2025-soor-summer-regional-athletics-3/) (Track & Field events) will occur at North Bend High School, while[<u>2025 SOOR Summer Regional Bocce</u>](https://soor.org/event/2025-soor-summer-regional-bocce-3/) competitions will be held at Southwestern Oregon Community College. Join us to cheer on the athletes and be part of this inspiring day!
 
 **Volunteers are needed!** Help make this event unforgettable by signing up to assist.[<u>Click here to volunteer</u>](https://bit.ly/4ma2o5s). Scroll to the June 21 events and select opportunities at SWOCC or NBHS. For more details on the event and how to participate or support, visit the[South Coast Local Program page](https://soor.org/program/southcoast/).
 
@@ -121,17 +125,8 @@ For the ultimate summer adventure, nothing beats [getting out on the water,](htt
 Oregon's Adventure Coast comes alive every summer with music, festivals, and cultural celebrations that unite the community. A highlight of the season is the [47th Annual Oregon Coast Music Festival](https://www.oregonsadventurecoast.com/event/annual-oregon-coast-music-festival/) (OCMF), July 12–26, 2025. This two-week event features an impressive lineup of live performances at special venues like Shore Acres State Park, Mingus Park, and the OIMB Boat House. Nicknamed the "Tanglewood of the West Coast," OCMF is the longest-running music festival on the Oregon Coast and brings together more than 80 musicians from across the country. The celebration concludes with three grand performances by the Festival Orchestra, conducted by internationally acclaimed Maestro Martin Majkut, at the Marshfield High Auditorium. For event details and tickets, visit the [official festival website](https://www.oregoncoastmusic.org/). Here are some other performances we're looking forward to this summer.
 
 * **Coos Bay Shakespeare in the Park presents** ***A Midsummer Night's Dream*** **June 21-29, 2025**. Local performers are bringing Shakespeare to life with performances in Coos Bay's Mingus Park Amphitheater! Admission is FREE, visit [coosbayshakespeare.com/](http://coosbayshakespeare.com/) to learn more.
-
-  &nbsp;
-
 * **The Liberty Theatre in North Bend presents** ***You're a Good Man, Charlie Brown*** **June 20-29, 2025.** Audiences will love this heartwarming musical based on the Peanuts comic strip! Information and tickets are available at [thelibertytheatre.org](https://thelibertytheatre.org/).
-
-  &nbsp;
-
 * **Music on the Bay – Free Concert Series (Thursdays starting August 2025).** Enjoy live music at the Mingus Park Amphitheater every Thursday evening in August and September. Bring a picnic, relax with friends, dance to the music, and soak in the summer vibes—admission is free! Visit [www.facebook.com/musiconthebay](https://www.facebook.com/musiconthebay) for information on this year’s lineup and schedule.
-
-  &nbsp;
-
 * **Ongoing Performances at Local Venues.** Visitors can often catch live local and regional musicians performing at various venues across Coos Bay, North Bend, and Charleston like[<u>The Mill Casino • Hotel &amp; RV Park</u>](https://www.themillcasino.com/) (recently renamed the[<u>Ko-Kwel Casino Resort</u>](https://www.themillcasino.com/ko-kwel-casino-resort/)),[<u>7 Devils Brewery</u>](https://7devilsbrewery.com/),[<u>North Forty Brewing</u>](https://www.northfortybeer.com/) in North Bend,[<u>Wildflour Public House</u>](https://www.wildflourpub.com/),[<u>Front Street Food Trucks</u>](https://www.facebook.com/frontstreetfoodtrucks/) and[<u>NoBe Taphouse and Food Cart Pod</u>](https://www.facebook.com/profile.php?id=61550653942383), to name a few.[<u>The Captain's Cabin</u>](https://www.yelp.com/biz/captains-cabin-bar-coos-bay-2) and[<u>Coney Station</u>](https://www.facebook.com/ConeyStation/) are other spots to catch live tunes.
 
 ### **6) Attending Community Celebrations & Festivals**
