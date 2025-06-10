@@ -22,7 +22,7 @@ smallboxphoto: /img/oktoberfest340x214.jpg
 ---
 &nbsp;
 
-![Oktoberfest at The Coos History Museum](/img/oktoberfest340x214.jpg "Oktoberfest at The Coos History Museum")
+![Oktoberfest at The Coos History Museum](/img/oktoberfest-pic-with-logo.jpg "Oktoberfest at The Coos History Museum")
 
 #### Join our friends at The Coos History Museum for the 2nd Annual Oktoberfest Fundraising Event and 10 Year Celebration!
 
