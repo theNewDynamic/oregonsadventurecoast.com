@@ -32,7 +32,9 @@ Find more special announcements about this year' run on the <a href="https://www
 
 {{< spacer 25 >}}
 
-#### **REGISTRATION COMING SOON**
+#### <a href="https://secure.getmeregistered.com/get_information.php?event_id=140932" target="_blank" rel="noopener"><strong>REGISTER TODAY</strong></a>
+
+**NEW THIS YEAR!** The Pre Memorial Run is going to offer **Prize Money** for this years run in September. In both the men’s and women’s categories, $500.00 for 1st, $300.00 for second and $200.00 for third.
 
 {{< spacer 25 >}}
 
