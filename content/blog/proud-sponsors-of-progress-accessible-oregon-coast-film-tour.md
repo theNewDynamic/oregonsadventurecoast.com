@@ -45,15 +45,15 @@ Last month, we were proud to host the premiere of *The Accessible Oregon Coast F
 
 We invite you to explore the films and learn more about how accessibility is transforming Oregon Coast communities. If you were unable to attend the screenings, the Oregon Coast Visitors Association (OCVA) has made the three videos available on their <a href="https://www.youtube.com/@visittheoregoncoast" target="_blank" rel="noopener">YouTube channel</a>, or you can watch them below.
 
-{{< youtube id="v=CaY4t-ZtZL0" >}}
+{{< youtube id="CaY4t-ZtZL0" >}}
 
 &nbsp;
 
-{{< youtube id="v=sYbZ8JBc_ac" >}}
+{{< youtube id="sYbZ8JBc_ac" >}}
 
 &nbsp;
 
-{{< youtube id="v=qPWN1Fnol08" >}}
+{{< youtube id="qPWN1Fnol08" >}}
 
 ### **A Commitment to Inclusion on Oregon's South Coast**
 
