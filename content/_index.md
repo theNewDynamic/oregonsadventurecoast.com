@@ -3,6 +3,12 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
+    photo: /img/4th-of-july-home-slider-2048x850-2024.jpg
+    title_mobile:
+    photo_mobile: /img/4th-of-july-mobile-slider-512x320-2024.jpg
+    url: /event/july-3rd-4th-fireworks-over-the-bay
+    video:
+  - title:
     photo: /img/makeweek-seagulls-hm-slider-desktop.jpg
     title_mobile:
     photo_mobile: /img/makeweek-seagulls-slider-mobile.jpg
