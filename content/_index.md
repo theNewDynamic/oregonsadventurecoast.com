@@ -26,6 +26,12 @@ slideshow:
     photo_mobile:
     url:
     video:
+  - title:
+    photo: /img/4th-of-july-home-slider-2048x850-2024.jpg
+    title_mobile:
+    photo_mobile: /img/4th-of-july-mobile-slider-512x320-2024.jpg
+    url: /event/july-3rd-4th-fireworks-over-the-bay
+    video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /live-cam
