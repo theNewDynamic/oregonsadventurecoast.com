@@ -2,11 +2,12 @@
 _schema: default
 title: Wild Pacific Guide Service
 property_description: >-
-  Captain Matt (Boogie) Strahan is a seasoned angler and business owner. Wild
-  Pacific Fishing is a top-tier fishing charter company that operates in the
-  waters around Coos Bay and North Bend Oregon. Wild Pacific will create a
-  personalized fishing excursion, offers fishing seminars and corporate fishing
-  events and provides fishing tips & tricks.
+  Captain Matt (Boogie) Strahan is a seasoned angler and owner of this top-tier
+  fishing charter company that operates in the waters around Coos Bay and North
+  Bend, OR. Wild Pacific will create a personalized fishing excursion, offers
+  fishing seminars and corporate fishing events, and provides fishing tips &
+  tricks. Whether it's salmon, rockfish, lingcod, bass, or Dungeness crab, Wild
+  Pacific has an excursion for you.
 property_name: Wild Pacific Guide Service
 equip_type:
   - Tour
