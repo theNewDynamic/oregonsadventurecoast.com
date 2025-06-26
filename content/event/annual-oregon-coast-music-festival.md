@@ -34,6 +34,8 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 {{< floatimage src="/img/martin-majkut-1.jpeg" float="left" alt="Martin Majkut " size="" >}}This year, the **OCMA welcomes Maestro Martin Majkut** as Music Director and Conductor. Martin Majkut is an internationally recognized conductor known for his dynamic leadership and innovative programming. Majkut is the Music Director of the Rogue Valley Symphony Orchestra and has performed with the Slovak Philharmonic, Tacoma Opera, Rogue Opera, Southern Arizona Symphony Orchestra, among others.
 
+*Photo credit: Chrisopher Briscoe*
+
 {{< spacer 50 >}}
 
 ![The Festival Orchestra Concerts are a must attend each summer in Coos Bay.](/img/ocma-orchestra-frankprice-web.jpg "The Oregon Coast Music Festival Orchestra - Photo by Frank Price")
