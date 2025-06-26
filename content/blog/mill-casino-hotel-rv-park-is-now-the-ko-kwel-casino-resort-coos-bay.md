@@ -37,8 +37,6 @@ warning: false
 ---
 Last month, the [Coquille Tribe](https://www.coquilletribe.org/) and the [Coquille Economic Development Corporation](https://www.tribal.one/) (CEDCO) [officially announced](https://www.coquilletribe.org/coquille-tribe-to-rename-casino-after-30-years-of-success/) a new chapter in the casino and hotel’s 30-year history: **The Mill Casino • Hotel & RV Park is now the** [Ko-Kwel Casino Resort \| Coos Bay](https://www.kokwelresorts.com/coos-bay/)**.**
 
-EMBED VIDEO [Introducing Ko-Kwel Casino Resort](https://www.youtube.com/watch?v=nKcNGKf79GU)
-
 {{< youtube id="nKcNGKf79GU" >}}
 
 Tribal leaders say the rebranding reflects the values, heritage, and ancestral lands of the Coquille people, whose ancestors once thrived across more than a million acres in Southwestern Oregon. The new name, **Ko-Kwel**, honors the traditional pronunciation of the Tribe’s name. Its roots go back generations, to a time when tribal members fished for lamprey, an eel-like fish they called *scoquel*. When white fur traders and settlers arrived on the southern Oregon coast, they began referring to the people in the region as “Coquille,” spelling it like the French word for “shell.” [Click here to learn more](https://www.coquilletribe.org/our-people/how-do-you-pronounce-that/) about the origins and proper pronunciation of the Coquille Indian Tribe’s name.
