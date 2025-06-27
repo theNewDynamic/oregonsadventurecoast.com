@@ -4,6 +4,11 @@ title: Tour Guides & Charters
 draft: false
 layout: tourcharters
 photo: /img/charters.jpg
+ctas:
+  - title:
+    url:
+    action:
+    image:
 seo:
   title: Tour Guides & Charters | Oregon's Adventure Coast
   description: >-
