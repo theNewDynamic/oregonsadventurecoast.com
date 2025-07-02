@@ -47,20 +47,7 @@ Be a part of the 2025 Bay Area Fun Festival Parade by registering [here.](http:/
 
 {{< spacer "50" >}}
 
-#### **ROAD CLOSURE INFORMATION:**
-
-{{< floatimage src="/img/101-road-closure-sept-2025.jpg" float="left" alt="Map of road closure" size="" >}}<br>ODOT has let us know that Hwy 101 South of Bandon will be closed the weekend of September 19th-21st. Here are more details:
-
-* **WHAT:**&nbsp;U.S. 101 will be closed for one weekend about six miles south of Bandon, Oregon.
-* **WHEN:**&nbsp;The closure is scheduled for Sept. 19-21 (Friday night to Sunday night).
-* **IMPACT:**&nbsp;For 48 hours, the highway will be completely closed. There are no local roads around the work zone.
-* **DETOUR:**&nbsp;The only detour available follows U.S. 199 (Redwood Highway) from Crescent City to Grants Pass, Interstate 5 from Grants Pass to Winston, and Oregon 42 from Winston to Coos Bay.
-* **DELAY:**&nbsp;The I-5 detour will add about 90 minutes of travel time for folks driving from Crescent City to Coos Bay.
-* **WHY:**&nbsp;We will replace a failing culvert that is 20 feet under the highway. We cannot keep both lanes of the highway open during construction.
-
 &nbsp;
-
-{{< spacer 50 >}}
 
 #### SCHEDULE OF EVENTS:
 
