@@ -2,10 +2,13 @@
 _schema: default
 title: Ko-Kwel Casino Resort Coos Bay (formerly The Mill Casino)
 property_description: >-
-  Experience over 200 well-appointed rooms and suites in our Tower and Lodge,
-  some with in-room hot tubs, Las Vegas-style gaming excitement, five excellent
-  dining venues and live entertainment – all with a great view along scenic Coos
-  Bay. Free WiFi, pool, hot tub & pets welcome.
+  Set along Oregon’s stunning South Coast, Ko-Kwel Casino Resort | Coos Bay
+  (formerly The Mill Casino • Hotel & RV Park) offers over 600 slots,
+  Vegas-style table games, and Oregon’s most rewarding player’s club. Enjoy
+  waterfront lodging in over 200 hotel rooms, more than 100 bayside RV sites,
+  dining with a view, and easy access to coastal adventures. Whether you’re here
+  to relax or explore, Ko-Kwel Casino Resort is your home base in Coos Bay. Free
+  WiFi, pool, hot tub & pets welcome.
 photo_name: /img/Mill-hotelfront-cement-fixed.jpg
 photo_alt: Ko-Kwel Casino Resort Coos Bay
 units: 204
