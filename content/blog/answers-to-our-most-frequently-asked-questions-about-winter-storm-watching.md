@@ -1,37 +1,37 @@
 ---
+_schema: default
 title: 'Answers to Our Most Frequently Asked Questions About Winter Storm Watching '
-date: 2021-10-28T04:00:00.000+00:00
-description: The magnificent waves resulting from winter storms over the Pacific Ocean
-  put on quite a show, sometimes soaring up to 300 feet when they crash into the rugged
-  coastline. We get a lot of questions about storm watching season, so in this post,
-  we’ll address some of our commonly asked questions.
-image: "/img/winter-storm-watching-oregon-coast-questions-answered-blog-695x322-jpg.png"
+draft: true
+date: 2021-10-28T04:00:00Z
+description: >-
+  The magnificent waves resulting from winter storms over the Pacific Ocean put
+  on quite a show, sometimes soaring up to 300 feet when they crash into the
+  rugged coastline. We get a lot of questions about storm watching season, so in
+  this post, we’ll address some of our commonly asked questions.
+image: >-
+  /img/winter-storm-watching-oregon-coast-questions-answered-blog-695x322-jpg.png
 tags:
-- Winter Storms
-- 'Winter Storm Watching '
-- Oregon Coast
-- Pacific Ocean
-- King Tides
-- " King Tides Oregon"
-- 'Shore Acres State Park '
-- Cape Arago Highway
-- Winter Storm Watching Safety
+  - Winter Storms
+  - 'Winter Storm Watching '
+  - Oregon Coast
+  - Pacific Ocean
+  - King Tides
+  - ' King Tides Oregon'
+  - 'Shore Acres State Park '
+  - Cape Arago Highway
+  - Winter Storm Watching Safety
 categories:
-- Outdoor Adventures
+  - Outdoor Adventures
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
 Updated November 2022
 
-_“Spectacular!” “Photos do not do it justice” “Breathtaking” “This is nature’s beauty at its best.”_ These are just a handful of comments we’ve heard visitors say after watching a winter storm on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. It’s a thing here, we call it [storm watching season](https://www.oregonsadventurecoast.com/storm-watching/)! The magnificent waves resulting from winter storms over the Pacific Ocean put on quite a show, sometimes soaring up to 300 feet when they crash into the rugged coastline. 
+*“Spectacular!” “Photos do not do it justice” “Breathtaking” “This is nature’s beauty at its best.”* These are just a handful of comments we’ve heard visitors say after watching a winter storm on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. It’s a thing here, we call it [storm watching season](https://www.oregonsadventurecoast.com/storm-watching/)! The magnificent waves resulting from winter storms over the Pacific Ocean put on quite a show, sometimes soaring up to 300 feet when they crash into the rugged coastline.
 
 We get a lot of questions at the visitors center about storm watching season. In this post, we’ll address our commonly asked questions.
 
@@ -39,7 +39,7 @@ We get a lot of questions at the visitors center about storm watching season. In
 
 [Winter storm watching](https://www.oregonsadventurecoast.com/storm-watching/) is an annual natural event that happens during the fall and winter on the Oregon coast. When Pacific storms rage in winter, ocean swells of up to 35 feet frequently result in a magicient show as they crash into the rugged cliffs of our coastline. This video will give you a better idea of what this looks like:
 
-{{< youtube "fKK3nZvM_go" >}}
+{{< youtube id="fKK3nZvM_go" >}}
 
 ### Is Winter Storm Watching Dangerous?
 
@@ -49,15 +49,15 @@ Excellent question! It’s exciting to get close to the action, but it can becom
 
 ### Where are the Best Places to Safely Watch the Winter Storms?
 
-[Shore Acres State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=68) is considered the premier storm watching spot on the entire Oregon Coast. Perched on top of an 80 foot cliff, this location allows for a safer distance above the waves while enjoying fantastic views. The park also has a storm watching hut where visitors can view winter storms. Other storm watching options on Oregon’s Adventure Coast include the bluff overlooking[ Bastendorff Beach](https://www.oregonsadventurecoast.com/undeveloped-beaches/), [Sunset Bay State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) and other parks along the [Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/).
+[Shore Acres State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=68) is considered the premier storm watching spot on the entire Oregon Coast. Perched on top of an 80 foot cliff, this location allows for a safer distance above the waves while enjoying fantastic views. The park also has a storm watching hut where visitors can view winter storms. Other storm watching options on Oregon’s Adventure Coast include the bluff overlooking[Bastendorff Beach](https://www.oregonsadventurecoast.com/undeveloped-beaches/), [Sunset Bay State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) and other parks along the [Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/).
 
 ### So it's not Safe to Watch From an Undesignated Area? What About the People in Your Photos?
 
-The people in our photos are watching from designated viewing areas and are safe. The angle of the camera sometimes makes them appear closer than they actually are. Do not stray from these viewing areas for a better view. There is always risk involved whenever you are close to the sea, especially during unpredictable weather events, so we’ll say it again (we can’t say it enough): **Never turn your back to the ocean and always watch from safe viewing areas.** Be sure to [read this post ](https://www.oregonsadventurecoast.com/blog/how-to-stay-safe-while-winter-storm-watching/)on how to safely view and photograph the sensational show the Pacific Ocean puts on throughout the winter months.
+The people in our photos are watching from designated viewing areas and are safe. The angle of the camera sometimes makes them appear closer than they actually are. Do not stray from these viewing areas for a better view. There is always risk involved whenever you are close to the sea, especially during unpredictable weather events, so we’ll say it again (we can’t say it enough): **Never turn your back to the ocean and always watch from safe viewing areas.** Be sure to [read this post](https://www.oregonsadventurecoast.com/blog/how-to-stay-safe-while-winter-storm-watching/)on how to safely view and photograph the sensational show the Pacific Ocean puts on throughout the winter months.
 
 ### How Do We Know When a Winter Storm is Rolling In?
 
-Prime storm watching conditions tend to happen between November and March. Check the local, extended forecast and/or weather websites like [National Weather Service](https://www.weather.gov/), [AccuWeather ](https://www.accuweather.com/)and [Northwest Weather Network,](http://northwesternweather.net/) and pack your bags when swells of 20-30 feet are predicted. You can also follow our[ Facebook Page](https://www.facebook.com/OregonsAdventureCoast/) to find out when winter storms are coming. Only Mother Nature can plan these wild winter storms, so we just have to keep an eye on the weather! For those who like to plan ahead, you might want to consider a trip to **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** when the [King Tides](https://kcby.com/news/local/citizen-scientists-wanted-to-document-1st-round-of-king-tides-on-oregon-coast-in-november) are in.
+Prime storm watching conditions tend to happen between November and March. Check the local, extended forecast and/or weather websites like [National Weather Service](https://www.weather.gov/), [AccuWeather](https://www.accuweather.com/)and [Northwest Weather Network,](http://northwesternweather.net/) and pack your bags when swells of 20-30 feet are predicted. You can also follow our[Facebook Page](https://www.facebook.com/OregonsAdventureCoast/) to find out when winter storms are coming. Only Mother Nature can plan these wild winter storms, so we just have to keep an eye on the weather! For those who like to plan ahead, you might want to consider a trip to **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** when the [King Tides](https://kcby.com/news/local/citizen-scientists-wanted-to-document-1st-round-of-king-tides-on-oregon-coast-in-november) are in.
 
 ### Will I Get Wet?
 
@@ -73,7 +73,7 @@ Oregon’s Adventure Coast is a [pet friendly destination](https://www.oregonsad
 
 ### Other than Storm Watching, is there Anything to Do on Oregon’s Adventure Coast During the Winter?
 
-There is never a dull day when you live near the mighty Pacific Ocean and there’s [plenty to do in the winter](https://www.oregonsadventurecoast.com/blog/2019-12-19-is-the-oregon-coast-a-winter-destination-yes/)! Research some itineraries or [trip ideas,](https://www.oregonsadventurecoast.com/tripideas/) or follow [Oregon’s Adventure Coast Facebook ](https://www.facebook.com/OregonsAdventureCoast/)to source suggestions on the best spots to visit, eat, stay and explore. You can also find inspiration by following [@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/) & [Twitter](https://twitter.com/travelcoosbay?lang=en)!
+There is never a dull day when you live near the mighty Pacific Ocean and there’s [plenty to do in the winter](https://www.oregonsadventurecoast.com/blog/2019-12-19-is-the-oregon-coast-a-winter-destination-yes/)! Research some itineraries or [trip ideas,](https://www.oregonsadventurecoast.com/tripideas/) or follow [Oregon’s Adventure Coast Facebook](https://www.facebook.com/OregonsAdventureCoast/)to source suggestions on the best spots to visit, eat, stay and explore. You can also find inspiration by following [@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/) & [Twitter](https://twitter.com/travelcoosbay?lang=en)!
 
 ### Other Tips
 

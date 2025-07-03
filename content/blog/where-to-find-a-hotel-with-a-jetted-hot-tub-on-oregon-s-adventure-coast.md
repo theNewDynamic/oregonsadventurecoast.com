@@ -1,32 +1,31 @@
 ---
+_schema: default
 title: Where To Find a Hotel with a Jetted Hot Tub on Oregon’s Adventure Coast
-date: 2021-02-26T05:00:00+00:00
-description: 'Question: How do you cap off the perfect day exploring Coos Bay, North
-  Bend, and Charleston? Answer: Relax in a Jetted Hot Tub! '
-image: "/img/mill-casino-hot-tub-suite-blog-695x322-jpg.png"
+draft: true
+date: 2021-02-26T05:00:00Z
+description: >-
+  Question: How do you cap off the perfect day exploring Coos Bay, North Bend,
+  and Charleston? Answer: Relax in a Jetted Hot Tub!
+image: /img/mill-casino-hot-tub-suite-blog-695x322-jpg.png
 tags:
-- jetted hot tub
-- hotels with jetted hot tubs
-- 'Oregon Coast '
-- 'Oregon Coast hotels '
-- Coos Bay
-- North Bend
-- Charleston
-- Lodging
-- Hot Tubs
-- Spas
+  - jetted hot tub
+  - hotels with jetted hot tubs
+  - 'Oregon Coast '
+  - 'Oregon Coast hotels '
+  - Coos Bay
+  - North Bend
+  - Charleston
+  - Lodging
+  - Hot Tubs
+  - Spas
 categories:
-- Miscellaneous
+  - Miscellaneous
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
 ### Question: How do you cap off the perfect day exploring Coos Bay, North Bend, and Charleston? Answer: Relax in a Jetted Hot Tub!
 
@@ -40,7 +39,7 @@ Visitors frequently ask us if there are any hotels on Oregon’s Adventure Coast
 
 411 N. Bayshore Drive
 Coos Bay, OR 97420
-541-269-5111 | 800-228-8655
+541-269-5111 \| 800-228-8655
 
 Units: 83 • $$$: Best Western Holiday Hotel offers a retreat for exploring the Oregon Coast, dunes, lighthouse, beaches, historic sites, and annual festivals & events. Located across the street from the Bay, within easy walking distance to downtown shopping & dining. Comfortable, well-appointed rooms, some with in-room hot tubs. The hotel also has an indoor pool, spa and exercise room.
 
@@ -48,7 +47,7 @@ Units: 83 • $$$: Best Western Holiday Hotel offers a retreat for exploring the
 
 275 E. Johnson Avenue
 Coos Bay, OR 97420
-541-267-0423 | 800-233-0423
+541-267-0423 \| 800-233-0423
 
 Units: 82 • $$$: The perfect place to relax before setting off to explore the many recreational adventures close by. The Edgewater Inn offers comfortable rooms & suites with fridge, microwave, & free Wi-Fi. The Edgewater Inn has jetted hot tub rooms and one jetted hot tub suite to choose from (ground floor unit is ADA accessible). The hotel also has an indoor pool, spa and exercise room. Fishing/observation deck offers beautiful views of the bay.
 
@@ -56,19 +55,19 @@ Units: 82 • $$$: The perfect place to relax before setting off to explore the 
 
 3201 Tremont Avenue
 North Bend, OR 97459
-541-756-8800 | 800-953-4800
+541-756-8800 \| 800-953-4800
 
-Units: 204 • $$$: Experience over 200 well-appointed rooms and suites in our Tower and Lodge, some with in-room hot tubs, Las Vegas-style gaming excitement, five excellent dining venues and live entertainment – all with a superb view along scenic Coos Bay. Free Wi-Fi, pool, hot tub & pets welcome. [Click here ](https://www.kokwelresorts.com/coos-bay/)to view their Tower Balcony Suite featuring a jetted hot tub overlooking the bay.
+Units: 204 • $$$: Experience over 200 well-appointed rooms and suites in our Tower and Lodge, some with in-room hot tubs, Las Vegas-style gaming excitement, five excellent dining venues and live entertainment – all with a superb view along scenic Coos Bay. Free Wi-Fi, pool, hot tub & pets welcome. [Click here](https://www.kokwelresorts.com/coos-bay/)to view their Tower Balcony Suite featuring a jetted hot tub overlooking the bay.
 
 ### [Motel 6](https://www.motel6.com/content/g6/en/home/motels.or.coos-bay.9258.html)
 
 1445 N. Bayshore Drive
 Coos Bay, OR 97420
-541-267-7171 | 800-466-8356
+541-267-7171 \| 800-466-8356
 
 Units: 94 • $$: Located on Hwy 101 in Coos Bay, Motel 6 offers various modern rooms with in-room jetted hot tubs (one unit is ADA accessible), kitchenettes, & free Wi-Fi. Within 5 miles of shopping, dining & entertainment in both Coos Bay and North Bend.
 
-Many of our local hotels not only feature a relaxing jetted hot tub and a comfortable place to lay your head at night, but plenty of other wonderful amenities to make your stay on Oregon’s Adventure Coast more comfortable! Be sure to visit our [Lodging Page ](https://www.oregonsadventurecoast.com/lodging/)to find the perfect accommodations in Coos Bay, North Bend, and Charleston. To learn what hotels are doing to protect their guests and employees from COVID-19, read our post, [How Hotels on Oregon’s Adventure Coast Are Keeping Guests Safe](https://www.oregonsadventurecoast.com/blog/how-hotels-on-oregon-s-adventure-coast-are-keeping-guests-safe/).
+Many of our local hotels not only feature a relaxing jetted hot tub and a comfortable place to lay your head at night, but plenty of other wonderful amenities to make your stay on Oregon’s Adventure Coast more comfortable! Be sure to visit our [Lodging Page](https://www.oregonsadventurecoast.com/lodging/)to find the perfect accommodations in Coos Bay, North Bend, and Charleston. To learn what hotels are doing to protect their guests and employees from COVID-19, read our post, [How Hotels on Oregon’s Adventure Coast Are Keeping Guests Safe](https://www.oregonsadventurecoast.com/blog/how-hotels-on-oregon-s-adventure-coast-are-keeping-guests-safe/).
 
 There is an adventure for everyone on [Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston](https://www.oregonsadventurecoast.com/). Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor activities, eclectic shopping, fine dining, special events, or an evening of entertainment, you will find it here. For more information, please contact the [Coos Bay – North Bend Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/contact/).
 

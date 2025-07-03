@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Adventure Spotlight: Whiskey Run Mountain Bike Trails on Oregon’s South Coast'
-draft: false
+draft: true
 date: 2021-02-18T05:00:00Z
 description: >-
   The Whiskey Run Mountain Biking Trail System, open year-round, flows and winds
