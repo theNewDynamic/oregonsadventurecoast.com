@@ -3,7 +3,7 @@ _schema: default
 title: >-
   Looking for Outdoor Dining Options? Coos Bay, North Bend & Charleston have
   Several from Which to Choose!
-draft: false
+draft: true
 date: 2021-02-27T01:00:00Z
 description: A comprehensive list of outdoor dining venues on Oregon's Adventure Coast
 image: /img/back-alley-outdoor.jpg

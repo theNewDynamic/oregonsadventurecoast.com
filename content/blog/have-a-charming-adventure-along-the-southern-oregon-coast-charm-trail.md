@@ -3,7 +3,7 @@ _schema: default
 title: >-
   Have a "Charming" Adventure Along the Southern Oregon Coast Charm Trail
   Updated
-draft: false
+draft: true
 date: 2021-02-04T15:00:00-08:00
 description: >-
   Grab a friend or family member and head over to Oregon's South Coast for a
@@ -16,7 +16,6 @@ tags:
   - Southern Oregon Coast Charm Bracelet
 categories:
   - Oregon's Adventure Coast News & Info
-aliases: []
 warning: true
 old_categories:
   - Culture & museums

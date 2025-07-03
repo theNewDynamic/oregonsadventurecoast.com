@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Flock to Oregon’s Adventure Coast for Premier Bird Watching! '
-draft: false
+draft: true
 date: 2021-03-24T04:00:00Z
 description: >-
   You already know Oregon's Adventure Coast is a haven for anyone looking to

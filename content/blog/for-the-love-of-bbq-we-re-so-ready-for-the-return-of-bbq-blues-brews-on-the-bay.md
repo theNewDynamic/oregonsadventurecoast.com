@@ -1,42 +1,41 @@
 ---
-title: 'For the Love of BBQ! We’re So Ready for the Return of BBQ, Blues & Brews on
-  the Bay '
-date: 2022-04-14T04:00:00.000+00:00
-description: 'BBQ, Blues & Brews on the Bay at The Mill Casino • Hotel & RV Park will
-  be back May 28-29, 2022! That’s right, 2 days of non-stop fun, music, craft brews
-  and of course, delicious finger-lickin’-lip-smackin’ BBQ are just weeks away! After
-  a 2 year hiatus, we’re so ready for the return of this beloved event! '
-image: "/img/bbq-blues-brews-competition-vendor.jpg"
+_schema: default
+title: >-
+  For the Love of BBQ! We’re So Ready for the Return of BBQ, Blues & Brews on
+  the Bay 
+draft: true
+date: 2022-04-14T04:00:00Z
+description: >-
+  BBQ, Blues & Brews on the Bay at The Mill Casino • Hotel & RV Park will be
+  back May 28-29, 2022! That’s right, 2 days of non-stop fun, music, craft brews
+  and of course, delicious finger-lickin’-lip-smackin’ BBQ are just weeks away!
+  After a 2 year hiatus, we’re so ready for the return of this beloved event!
+image: /img/bbq-blues-brews-competition-vendor.jpg
 tags:
-- 'BBQ, Blues & Brews on the Bay '
-- Coos Bay
-- 'North Bend Oregon '
-- Charleston Oregon
-- 'Mill Casino '
-- Festival
-- 'Oregon Coast '
-- BBQ
-- BBQ Competition
-- KCBS
+  - 'BBQ, Blues & Brews on the Bay '
+  - Coos Bay
+  - 'North Bend Oregon '
+  - Charleston Oregon
+  - 'Mill Casino '
+  - Festival
+  - 'Oregon Coast '
+  - BBQ
+  - BBQ Competition
+  - KCBS
 categories:
-- Local Food & Drink
+  - Local Food & Drink
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: true
-warning_copy: ''
-
 ---
-## _BBQ, Blues & Brews on the Bay is back May 28-29, 2022 at The Mill Casino • Hotel & RV Park._ [_Book your room now!_](https://oregonsadventurecoast.com/lodging/)
+## *BBQ, Blues & Brews on the Bay is back May 28-29, 2022 at The Mill Casino • Hotel & RV Park.* [*Book your room now!*](https://oregonsadventurecoast.com/lodging/)
 
-![](/img/bbq-blues-brews-logo-695px.jpg)
-_Images by Steven Michael Photography courtesy of The Mill Casino * Hotel & RV Park._
+![](/img/bbq-blues-brews-logo-695px.jpg) *Images by Steven Michael Photography courtesy of The Mill Casino \* Hotel & RV Park.*
 
-**Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is where you want to be this Memorial Day Weekend. How do we know this? **Because** [**BBQ, Blues & Brews on the Bay**](https://www.oregonsadventurecoast.com/event/annual-bbq-blues-brews-on-the-bay/) **at** [**The Mill Casino • Hotel & RV Park**](https://www.kokwelresorts.com/coos-bay/) **will be back May 28-29, 2022!__ That’s right, 2 days of non-stop fun, music, craft brews and of course, delicious finger-lickin’-lip-smackin’ BBQ are just weeks away! After a 2 year hiatus, we’re so ready for the return of this beloved *[KCBS](http://www.kcbs.us/) sanctioned event!
+**Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is where you want to be this Memorial Day Weekend. How do we know this? **Because** [**BBQ, Blues & Brews on the Bay**](https://www.oregonsadventurecoast.com/event/annual-bbq-blues-brews-on-the-bay/) **at** [**The Mill Casino • Hotel & RV Park**](https://www.kokwelresorts.com/coos-bay/) \*\*will be back May 28-29, 2022!\_\_ That’s right, 2 days of non-stop fun, music, craft brews and of course, delicious finger-lickin’-lip-smackin’ BBQ are just weeks away! After a 2 year hiatus, we’re so ready for the return of this beloved \*[KCBS](http://www.kcbs.us/) sanctioned event!
 
 ![](/img/bbq-blues-brews-millcasino.jpg)
 
@@ -53,7 +52,7 @@ Here is some information to help you plan your trip:
 * BBQ Bucks can also be used to purchase a full meal from the vendors – Hole in the Wall BBQ and The Mill Grill.
 * Event guests can purchase a commemorative glass and tokens to sample beers of their choice and vote for the People’s Choice Best Brew. Beer tokens are only good on the day of purchase.
 * We expect this event to attract lots of visitors, and we strongly recommend [booking your room](https://oregonsadventurecoast.com/lodging/) ASAP!
-* We recommend taking time to explore Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston while you’re here. [Request a visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform)! You can also see our[ Adventures page](https://www.oregonsadventurecoast.com/adventures) and our[ Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast, and/or contact the[ Coos Bay – North Bend Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/contact/).
+* We recommend taking time to explore Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston while you’re here. [Request a visitor’s packet today](https://www.oregonsadventurecoast.com/contact/#contactform)! You can also see our[Adventures page](https://www.oregonsadventurecoast.com/adventures) and our[Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast, and/or contact the[Coos Bay – North Bend Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/contact/).
 
 For more info, follow [BBQ, Blues & Brews on the Bay on Facebook](https://www.facebook.com/BbqBluesBrewsOnTheBay/)!
 

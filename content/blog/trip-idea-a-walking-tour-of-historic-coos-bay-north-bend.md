@@ -1,40 +1,39 @@
 ---
+_schema: default
 title: 'Trip Idea: A Walking Tour of Historic Coos Bay & North Bend'
-date: 2021-02-09T05:00:00.000+00:00
-description: 'The past and present converge as you stroll through historic regions
-  of Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. '
-image: "/img/coos-bay-north-bend-walking-tour-blog-695x322-jpg.png"
+draft: true
+date: 2021-02-09T05:00:00Z
+description: >-
+  The past and present converge as you stroll through historic regions of
+  Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston.
+image: /img/coos-bay-north-bend-walking-tour-blog-695x322-jpg.png
 tags:
-- Oregon Coast Landmarks
-- Walking Tour
-- Coos History Museum
-- Coos History
-- Coos County
-- 'Front Street Coos Bay '
-- Downtown Coos Bay
-- Coos Bay
-- North Bend Oregon
-- Downtown North Bend
-- Historic Walking Tours
-- Free Walking Tours
-- Self Guided Walking Tour
-- Oregon Coast
-- Oregon's Adventure Coast
-- Charleston Oregon
-- Tour de Pre
-- Historic Front Street
+  - Oregon Coast Landmarks
+  - Walking Tour
+  - Coos History Museum
+  - Coos History
+  - Coos County
+  - 'Front Street Coos Bay '
+  - Downtown Coos Bay
+  - Coos Bay
+  - North Bend Oregon
+  - Downtown North Bend
+  - Historic Walking Tours
+  - Free Walking Tours
+  - Self Guided Walking Tour
+  - Oregon Coast
+  - Oregon's Adventure Coast
+  - Charleston Oregon
+  - Tour de Pre
+  - Historic Front Street
 categories:
-- Arts & Culture
+  - Arts & Culture
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
 By now, you’ve probably heard about [Pandemic Fatigue](https://www.scientificamerican.com/article/how-we-can-deal-with-pandemic-fatigue/). It’s an actual thing and it’s affecting all of us. While many of us are feeling stir-crazy and longing to return to a “normal” world where we can gather with friends and family and do our favorite activities without thinking about quarantining, and social distancing, we have to accept the fact that we’re not there yet and focus on activities we CAN do safely, like walking tours
 
@@ -70,11 +69,11 @@ Fans of Steve Prefontaine will enjoy this one-of-a-kind experience led by his si
 
 You can also [explore additional Coos Bay & North Bend Downtown Walking Maps by clicking here](https://www.oregonsadventurecoast.com/img/walking-map-cbnb.pdf) where you will find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns. [Click here](https://www.oregonsadventurecoast.com/tripideas/) for more trip ideas and information.
 
-\---------   
-Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.  
-  
-Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.   
-  
-If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.  
-   
+\---------<br>
+Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.
+
+Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.
+
+If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.
+
 Please visit [https://ecs.page.link/xhV4h](https://ecs.page.link/xhV4h "https://ecs.page.link/xhV4h") for more information.

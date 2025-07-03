@@ -1,35 +1,34 @@
 ---
+_schema: default
 title: 'What is the Difference Between High Surf and King Tides? '
-date: 2021-12-20T05:00:00.000+00:00
-description: 'What are King Tides and do they cause High Surf conditions? Answers
-  to these and many other common questions visitors have. '
-image: "/img/king-tide-2-nov-2021-695x322-lprefontaine.jpg"
+draft: true
+date: 2021-12-20T05:00:00Z
+description: >-
+  What are King Tides and do they cause High Surf conditions? Answers to these
+  and many other common questions visitors have.
+image: /img/king-tide-2-nov-2021-695x322-lprefontaine.jpg
 tags:
-- King Tides
-- High Surf
-- Oregon Coast
-- Winter Storm Watching
-- High Surf Warning
-- high tide
-- Pacific Ocean
-- Oregon's Adventure Coast
-- Coos Bay
-- " North Bend"
-- Charleston Oregon
+  - King Tides
+  - High Surf
+  - Oregon Coast
+  - Winter Storm Watching
+  - High Surf Warning
+  - high tide
+  - Pacific Ocean
+  - Oregon's Adventure Coast
+  - Coos Bay
+  - ' North Bend'
+  - Charleston Oregon
 categories:
-- Outdoor Adventures
+  - Outdoor Adventures
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
-_Photo courtesy of Linda Prefontaine, 2021_
+*Photo courtesy of Linda Prefontaine, 2021*
 
 We recently published answers to [Our Most Frequently Asked Questions About Winter Storm Watching](https://www.oregonsadventurecoast.com/blog/answers-to-our-most-frequently-asked-questions-about-winter-storm-watching/), but we thought we’d dive in a little deeper to explain the difference between High Surf and King Tides (this is understandably a confusing issue).
 
@@ -56,10 +55,10 @@ Here are some additional resources to help you plan your next adventure on Orego
 * [Ten Things to Do This Winter on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/blog/ten-things-to-do-this-winter-on-oregon-s-adventure-coast/)
 * [Where & How to Explore the Amazing Tide-Pools on Oregon's Adventure Coast](https://www.oregonsadventurecoast.com/blog/where-how-to-explore-the-amazing-tide-pools-on-oregon-s-adventure-coast/)
 
-There is an [adventure for everyone](https://www.oregonsadventurecoast.com/adventure) on Oregon’s Adventure Coast. Learn more about vacation ideas on our site, or contact us for help planning your next trip or family getaway. [Click here for directions](https://www.oregonsadventurecoast.com/travelers-info/) and other important travel tips, or [contact ](https://www.oregonsadventurecoast.com/contact/)one of our friendly volunteers at the Coos Bay Visitor Information Center on Oregon’s Adventure Coast and start planning your trip today!
+There is an [adventure for everyone](https://www.oregonsadventurecoast.com/adventure) on Oregon’s Adventure Coast. Learn more about vacation ideas on our site, or contact us for help planning your next trip or family getaway. [Click here for directions](https://www.oregonsadventurecoast.com/travelers-info/) and other important travel tips, or [contact](https://www.oregonsadventurecoast.com/contact/)one of our friendly volunteers at the Coos Bay Visitor Information Center on Oregon’s Adventure Coast and start planning your trip today!
 
 \-——–
 
-_Editor’s Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction of our public health authorities, including the CDC, Oregon Health Authority, and Coos Health & Wellness, to protect yourself, our community and our visitors._
+*Editor’s Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction of our public health authorities, including the CDC, Oregon Health Authority, and Coos Health & Wellness, to protect yourself, our community and our visitors.*
 
-_If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage you to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19._ [_Click here_](https://www.oregonsadventurecoast.com/covid-19/) _for more information._
+*If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage you to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.* [*Click here*](https://www.oregonsadventurecoast.com/covid-19/) *for more information.*

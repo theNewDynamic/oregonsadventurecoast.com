@@ -1,58 +1,56 @@
 ---
+_schema: default
 title: Explore the Oregon Coast Public Art Trail
-date: 2021-04-22T04:00:00+00:00
-description: "The Oregon Coast Public Art Trail Features Many Gems Located Right in
-  Our Own Backyard! \n"
-image: "/img/steve-prefontaine-outdoor-mural.jpg"
+draft: true
+date: 2021-04-22T04:00:00Z
+description: >-
+  The Oregon Coast Public Art Trail Features Many Gems Located Right in Our Own
+  Backyard!
+image: /img/steve-prefontaine-outdoor-mural.jpg
 tags:
-- Oregon Coast Landmarks
-- 'Oregon Coast Art '
-- 'Oregon Coast Public Art Trail '
-- Oregon Coast Visitor's Association
-- 'Travel Oregon '
-- Murals
-- Coos Art Museum
-- Arts and Culture
-- Oregon Coast Museum
-- 'Oregon''s Adventure Coast '
-- Coos Bay
-- North Bend Oregon
-- Charleston Oregon
+  - Oregon Coast Landmarks
+  - 'Oregon Coast Art '
+  - 'Oregon Coast Public Art Trail '
+  - Oregon Coast Visitor's Association
+  - 'Travel Oregon '
+  - Murals
+  - Coos Art Museum
+  - Arts and Culture
+  - Oregon Coast Museum
+  - 'Oregon''s Adventure Coast '
+  - Coos Bay
+  - North Bend Oregon
+  - Charleston Oregon
 categories:
-- Arts & Culture
+  - Arts & Culture
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
-**_The Oregon Coast Public Art Trail Features Many Gems Located Right in Our Own Backyard!_**
+***The Oregon Coast Public Art Trail Features Many Gems Located Right in Our Own Backyard!***
 
 The unique setting on **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston** has been a source of inspiration to artists and performers from all over the world so it didn’t surprise us when we saw that the [Oregon Coast Visitors Association](https://visittheoregoncoast.com/) decided to highlight public art on the Oregon Coast by creating a [Public Art Trail map](https://visittheoregoncoast.com/oregon-coast-public-art-trail/). People can easily access this map to take a self-guided tour along the entire coast, or sections of the coast, to learn about public art pieces along the way.
 
 “The goal of this project is to help residents and visitors connect with artists, gain a deeper sense of place, and contribute in a meaningful way to artists’ livelihoods,” says OCVA Director, Marcus Hinz. “The public art trail is a perfect call to action for visitors venturing to the coast during the off-peak season.”
 
-![](/img/oregon-coast-art-trail.png)
-_Pictured Above: Simon Whiteowl Murals in North Bend_
+![](/img/oregon-coast-art-trail.png) *Pictured Above: Simon Whiteowl Murals in North Bend*
 
 ![](/img/public-art-coos-bay-blog-695x322-jpg.png)
 
-_Pictured Above: Coca-Cola Historical Ad Mural in Coos Bay_
+*Pictured Above: Coca-Cola Historical Ad Mural in Coos Bay*
 
 Locals and visitors to our region already know that **Oregon’s Adventure Coast: Coos Bay, North Bend and Charleston** has an impressive network of museums, galleries, and public art, but there are many other works of art and treasures waiting to be discovered. When you [access the OCVA Public Art Trail map](https://visittheoregoncoast.com/oregon-coast-public-art-trail/), you will have fun locating and learning more about the many artists and the variety of public art located all over the area- some are hidden and some in plain view.
 
-See if you can locate all the murals, sculptures, statues and the dozens of other works embedded throughout the Coos Bay, North Bend and Charleston area! Here are some other hand-picked adventures in art we encourage you to check out next time you visit. **_Please note that some of these businesses may still be closed due to COVID restrictions or have reduced hours of operation. Always call to confirm hours!_**
+See if you can locate all the murals, sculptures, statues and the dozens of other works embedded throughout the Coos Bay, North Bend and Charleston area! Here are some other hand-picked adventures in art we encourage you to check out next time you visit. ***Please note that some of these businesses may still be closed due to COVID restrictions or have reduced hours of operation. Always call to confirm hours!***
 
 ![](/img/coos-art-museum.png)
 
-_Pictured Above: Broken River Sculpture by Lee Kelly in Coos Bay_
+*Pictured Above: Broken River Sculpture by Lee Kelly in Coos Bay*
 
-**Coos Art Museum-** Founded by local artists in 1966, Coos Art Museum is the third oldest art museum in Oregon and the only one on its coast. Housed in a 1936 art deco building it features seven galleries with up to 24 changing exhibitions annually and a Steve Prefontaine Memorial Room. The Museum’s Permanent Collection highlights contemporary fine art printmaking and artworks in all media by Pacific Northwest Artists. Visit the[ Coos Art Museum website ](https://www.coosart.org/)for more information.
+**Coos Art Museum-** Founded by local artists in 1966, Coos Art Museum is the third oldest art museum in Oregon and the only one on its coast. Housed in a 1936 art deco building it features seven galleries with up to 24 changing exhibitions annually and a Steve Prefontaine Memorial Room. The Museum’s Permanent Collection highlights contemporary fine art printmaking and artworks in all media by Pacific Northwest Artists. Visit the[Coos Art Museum website](https://www.coosart.org/)for more information.
 
 **Coos History Museum-** Oregon’s oldest continuously operated historical society boasting more than 250,000 historic photographs. With ever-changing exhibits, event and rental space, a unique museum shop and a developing bayfront plaza, this community built facility opened in its current location in 2015. Gain a historic overview of the Coos and Coquille Indian tribes, as well as coal miners, loggers and shipbuilders that helped to shape the area. Local shipwrecks are chronicled, along with frequently changed exhibits on a wide variety of topics from pre-history to the present. Visit [cooshistory.org](https://cooshistory.org/) for more information.
 
@@ -64,8 +62,8 @@ _Pictured Above: Broken River Sculpture by Lee Kelly in Coos Bay_
 
 [Click here](https://www.oregonsadventurecoast.com/tripideas/) for more trip ideas and information.
 
-**_Editor’s Note:_** _As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors. Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained._
+***Editor’s Note:*** *As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors. Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.*
 
-_If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage you to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19._
+*If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage you to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.*
 
-_Please visit_ [_www.oregonsadventurecoast.com/covid-19_](https://www.oregonsadventurecoast.com/covid-19/ "www.oregonsadventurecoast.com/covid-19/") _for more information._
+*Please visit* [*www.oregonsadventurecoast.com/covid-19*](https://www.oregonsadventurecoast.com/covid-19/ "www.oregonsadventurecoast.com/covid-19/") *for more information.*

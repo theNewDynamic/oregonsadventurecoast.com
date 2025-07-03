@@ -1,39 +1,38 @@
 ---
+_schema: default
 title: 'Introducing Oregon’s Adventure Coast Online Store! '
-date: 2021-03-17T04:00:00.000+00:00
-description: 'We''re happy to announce our NEW online Adventure Store! You can browse
-  through our super cool selection of cool t-shirts, Myrtlewood pens, charm bracelets,
-  hoodies, hats, and masks from anywhere, any time you want! '
-image: "/img/oac-ocean-cliff-photo-blog-695x322.jpg"
+draft: true
+date: 2021-03-17T04:00:00Z
+description: >-
+  We're happy to announce our NEW online Adventure Store! You can browse through
+  our super cool selection of cool t-shirts, Myrtlewood pens, charm bracelets,
+  hoodies, hats, and masks from anywhere, any time you want!
+image: /img/oac-ocean-cliff-photo-blog-695x322.jpg
 tags:
-- Oregon Coast
-- T-Shirts
-- 'Oregon''s Adventure Coast '
-- Coos Bay
-- North Bend
-- Charleston
-- Myrtlewood pens
-- Southern Oregon Charm Trail
-- 'Oregon Travel '
-- 'Oregon Coast Souvenir '
-- Oregon's Adventure Coast Online Store
+  - Oregon Coast
+  - T-Shirts
+  - 'Oregon''s Adventure Coast '
+  - Coos Bay
+  - North Bend
+  - Charleston
+  - Myrtlewood pens
+  - Southern Oregon Charm Trail
+  - 'Oregon Travel '
+  - 'Oregon Coast Souvenir '
+  - Oregon's Adventure Coast Online Store
 categories:
-- Oregon's Adventure Coast News & Info
-- Outdoor Adventures
+  - Oregon's Adventure Coast News & Info
+  - Outdoor Adventures
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
 Ever wish you had a special souvenir to remind you of the good times you had on Oregon's Adventure Coast: Coos Bay, North Bend, Charleston? Want to get that laid-back Oregon Coast look? Are you searching for a unique and special gift for someone that cannot be found anywhere else? Were you too busy to drop by the Visitor’s Center during your last visit?
 
-If you answered yes to any of these questions, we have some fantastic news for you! We recently launched a [NEW online store](https://www.oregonsadventurecoast.com/shop/?utm_source=adventure-march-2021&utm_medium=mailchimp&utm_campaign=cbnb-newsletter) for your convenience! You can browse through our super cool selection of cool t-shirts, Myrtlewood pens, charm bracelets, hoodies, hats, and masks from anywhere, any time you want! Here are some of the features:
+If you answered yes to any of these questions, we have some fantastic news for you! We recently launched a [NEW online store](https://www.oregonsadventurecoast.com/shop/?utm_source=adventure-march-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter) for your convenience! You can browse through our super cool selection of cool t-shirts, Myrtlewood pens, charm bracelets, hoodies, hats, and masks from anywhere, any time you want! Here are some of the features:
 
 Shop from the Southern Oregon Charm Trail collection. Commemorate your visit with an adorable charm bracelet and customized charms from the [Southern Oregon Charm Trail](/img/Charm-Trail-Map.pdf)!
 

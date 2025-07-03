@@ -1,48 +1,47 @@
 ---
+_schema: default
 title: 'Wanted: First Time ATV Riders on the Oregon Dunes! '
-date: 2021-05-14T04:00:00.000+00:00
-description: The majestic dunes are known for their expansive hiking trails and surrounding
-  campgrounds, but the best way to fully experience the Oregon Dunes is a thrilling,
-  heart-pounding ride up and down the mighty hills in an All Terrain Vehicle (ATV)
-  or Off Highway Vehicle (OHV).
-image: "/img/oregon-dunes-blog-695x322-jpg.png"
+draft: true
+date: 2021-05-14T04:00:00Z
+description: >-
+  The majestic dunes are known for their expansive hiking trails and surrounding
+  campgrounds, but the best way to fully experience the Oregon Dunes is a
+  thrilling, heart-pounding ride up and down the mighty hills in an All Terrain
+  Vehicle (ATV) or Off Highway Vehicle (OHV).
+image: /img/oregon-dunes-blog-695x322-jpg.png
 tags:
-- Oregon Dunes
-- ATVing
-- Spinreel
-- ATV Rentals
-- 'Oregon Coast '
-- Dune Buggy Ride
-- North Bend Oregon
-- Charleston Oregon
-- 'Coos Bay '
-- 'Oregon Travel '
-- 'Adventure Ride '
-- Sand Dunes
+  - Oregon Dunes
+  - ATVing
+  - Spinreel
+  - ATV Rentals
+  - 'Oregon Coast '
+  - Dune Buggy Ride
+  - North Bend Oregon
+  - Charleston Oregon
+  - 'Coos Bay '
+  - 'Oregon Travel '
+  - 'Adventure Ride '
+  - Sand Dunes
 categories:
-- Outdoor Adventures
+  - Outdoor Adventures
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
 There's A LOT to love on **Oregon's Adventure Coast: Coos Bay, North Bend Charleston**, but some would say that the [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/tripideas/oregon-dunes-national-recreation-area/) tops the list. With 32,186 acres of dunes, forest, streams and lakes, it is the largest expanse of coastal dunes in North America, and one of the many natural attractions that sets our region apart from other destinations. Multiple visitors have told us that visiting these mysterious, ancient sand dunes was not only the highlight of their trip, they felt like they had been transported to another world.
 
 The majestic dunes are known for their expansive hiking trails and surrounding campgrounds, but the best way to fully experience the Oregon Dunes is a thrilling, heart-pounding ride up and down the mighty hills in an [All Terrain Vehicle (ATV) or Off Highway Vehicle (OHV).](https://www.oregonsadventurecoast.com/atv-motorsports/) We’d say it should be on EVERYONE’s bucket list. If you’re planning on visiting Oregon’s Adventure Coast any time soon, or if you’re looking for an extraordinary (some would say life-changing ) experience, we 100% recommend riding the dunes. All you need is a Driver’s License and a willingness to let go! The finest ATV riding on the Oregon Coast is in North Bend (we think so anyway). You’ll find the largest riding area at the Oregon Dunes between Spinreel Campground and Horsfall Road, just a few miles north of North Bend and Coos Bay.
 
-### _“From the views to feeling like a kid, a dream come true, it was a great time.” -_ [_ChiFam_](https://www.tripadvisor.com/Profile/976familyc)_, Trip Advisor Mar 2021_
+### *“From the views to feeling like a kid, a dream come true, it was a great time.” -* [*ChiFam*](https://www.tripadvisor.com/Profile/976familyc)*, Trip Advisor Mar 2021*
 
 If you’re a first-timer, no worries! We reached out to our friends at [Spinreel Dune Buggy & ATV Rentals](https://www.ridetheoregondunes.com/) and asked for some tips and advice for anyone who’s new to riding the Oregon Dunes. Here's what they had to say:
 
 **Rent your ATV/OHV equipment from a reputable business.** There are multiple local businesses recommended for ATV/UTV, Sand Board & Sled Rentals, and tours like [Sun Buggy](https://www.sunbuggy.com/oregon) and [Steve’s ATV Rental,](https://stevesatvrentals.com/) but first-time riders have consistently raved about [Spinreel Dune Buggy & ATV Rentals](https://www.ridetheoregondunes.com/) in [North Bend](https://traveloregon.com/places-to-go/cities/north-bend/). “This place runs like a well oiled machine,” says a recent visitor on TripAdvisor. “My son and I had a blast riding over the dunes. Anyone that’s wanting to rent ATVs or dune buggies in the North Bend area should definitely go here!” You can learn more in this news clip featuring Richard Burkholder, owner of Spinreel.
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FKVALnews%2Fvideos%2F783487412595362%2F&show_text=true&width=560" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FKVALnews%2Fvideos%2F783487412595362%2F&amp;show_text=true&amp;width=560" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <br>**Arrive early!** If you are renting a dune buggy or ATV from Spinreel, you can’t just show up and hop on your ATV and go. There are waivers to sign, paperwork to fill out, and a brief safety video to watch. The Spinreel staff recommend arriving 45 minutes in advance, so there is time to do the above, in addition to familiarizing yourself with the riding area map, and going through a vehicle orientation to make sure that all drivers and riders are comfortable with the vehicle operation.
 
@@ -110,15 +109,15 @@ For more tips on how to get the most out of your Oregon Dunes Adventure, please 
 
 [oregonsadventurecoast.com/atv-motorsports/](https://www.oregonsadventurecoast.com/atv-motorsports/)
 
-[www.fs.usda.gov](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42465)[ www.stateparks.com](https://www.stateparks.com/oregon_dunes_national_recreation_area_in_oregon.html)
+[www.fs.usda.gov](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42465)[www.stateparks.com](https://www.stateparks.com/oregon_dunes_national_recreation_area_in_oregon.html)
 
 [www.themillcasino.com/doing-the-oregon-dunes-safely/](https://www.kokwelresorts.com/coos-bay/)
 
-[www.duneguide.com/sand_dune_guide_oregon_coos_bay.htm](http://www.duneguide.com/sand_dune_guide_oregon_coos_bay.htm)
+[www.duneguide.com/sand\_dune\_guide\_oregon\_coos\_bay.htm](http://www.duneguide.com/sand_dune_guide_oregon_coos_bay.htm)
 
 [traveloregon.com](https://traveloregon.com/things-to-do/destinations/parks-forests-wildlife-areas/a-locals-guide-to-the-oregon-dunes/)
 
-[tripadvisor.com/Attraction_Review Spinreel_Dune_Buggy_and_ATV_Rental](https://www.tripadvisor.com/Attraction_Review-g51940-d1232726-Reviews-Spinreel_Dune_Buggy_and_ATV_Rental-Lakeside_Oregon.html)
+[tripadvisor.com/Attraction\_Review Spinreel\_Dune\_Buggy\_and\_ATV\_Rental](https://www.tripadvisor.com/Attraction_Review-g51940-d1232726-Reviews-Spinreel_Dune_Buggy_and_ATV_Rental-Lakeside_Oregon.html)
 
 \---------
 
