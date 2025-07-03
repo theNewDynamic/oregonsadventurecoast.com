@@ -33,10 +33,10 @@ warning_copy: ''
 ---
 ## _BBQ, Blues & Brews on the Bay is back May 28-29, 2022 at The Mill Casino • Hotel & RV Park._ [_Book your room now!_](https://oregonsadventurecoast.com/lodging/)
 
-![](/img/bbq-blues-brews-logo-695px.jpg)  
+![](/img/bbq-blues-brews-logo-695px.jpg)
 _Images by Steven Michael Photography courtesy of The Mill Casino * Hotel & RV Park._
 
-**Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is where you want to be this Memorial Day Weekend. How do we know this? **Because** [**BBQ, Blues & Brews on the Bay**](https://www.oregonsadventurecoast.com/event/annual-bbq-blues-brews-on-the-bay/) **at** [**The Mill Casino • Hotel & RV Park**](https://www.themillcasino.com/) **will be back May 28-29, 2022!__ That’s right, 2 days of non-stop fun, music, craft brews and of course, delicious finger-lickin’-lip-smackin’ BBQ are just weeks away! After a 2 year hiatus, we’re so ready for the return of this beloved *[KCBS](http://www.kcbs.us/) sanctioned event!
+**Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is where you want to be this Memorial Day Weekend. How do we know this? **Because** [**BBQ, Blues & Brews on the Bay**](https://www.oregonsadventurecoast.com/event/annual-bbq-blues-brews-on-the-bay/) **at** [**The Mill Casino • Hotel & RV Park**](https://www.kokwelresorts.com/coos-bay/) **will be back May 28-29, 2022!__ That’s right, 2 days of non-stop fun, music, craft brews and of course, delicious finger-lickin’-lip-smackin’ BBQ are just weeks away! After a 2 year hiatus, we’re so ready for the return of this beloved *[KCBS](http://www.kcbs.us/) sanctioned event!
 
 ![](/img/bbq-blues-brews-millcasino.jpg)
 

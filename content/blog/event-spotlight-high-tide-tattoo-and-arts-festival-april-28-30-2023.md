@@ -41,7 +41,7 @@ _This three-day event features live tattoo demonstrations, art exhibits, vendors
 
 {{< spacer 25 >}}
 
-Are you a fan of tattoos and art? Then you're going to love the newest festival on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**! The Annual High Tide Tattoo and Arts Festival, brought to you by Ragemore Events and 11:11 Tattoo, is making its regional debut at [The Mill Casino Hotel & RV Park](https://www.themillcasino.com/entertainment/high-tide-tattoo-arts-festival/2023-04-28/) the weekend of April 28-30, 2023. This three-day event is the ultimate celebration of creativity and self-expression, featuring some of the most talented tattoo artists and artisans from across the country. Whether you're a hard core tattoo enthusiast looking for inspiration, or you’re simply “tattoo curious” and want to soak up the creative atmosphere, this festival is the perfect destination for anyone who appreciates ink and art. So make your reservations (the earlier the better), pack your bags and prepare for a weekend of unforgettable experiences at this must-attend event.
+Are you a fan of tattoos and art? Then you're going to love the newest festival on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**! The Annual High Tide Tattoo and Arts Festival, brought to you by Ragemore Events and 11:11 Tattoo, is making its regional debut at [The Mill Casino Hotel & RV Park](https://www.kokwelresorts.com/coos-bay/) the weekend of April 28-30, 2023. This three-day event is the ultimate celebration of creativity and self-expression, featuring some of the most talented tattoo artists and artisans from across the country. Whether you're a hard core tattoo enthusiast looking for inspiration, or you’re simply “tattoo curious” and want to soak up the creative atmosphere, this festival is the perfect destination for anyone who appreciates ink and art. So make your reservations (the earlier the better), pack your bags and prepare for a weekend of unforgettable experiences at this must-attend event.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Finklifetour%2Fposts%2Fpfbid02Q4HkiYcUB2S9JwjuCXphDdTpUxhYLENz4CUB5PQ5Vu29HfevP1TgWbmv2qA55GWRl&show_text=true&width=500" width="500" height="498" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -85,7 +85,7 @@ These artists and many others will be on hand at the festival to showcase their 
 
 ## Interested in Getting A Tattoo at the Festival? Book Ahead!
 
-If you’re interested in booking a session, you must book an appointment ahead of time, though some artists will allow walk-ins. [Click here](https://www.themillcasino.com/entertainment/high-tide-tattoo-arts-festival/2023-04-28/) to learn how to book a session with your preferred artist.
+If you’re interested in booking a session, you must book an appointment ahead of time, though some artists will allow walk-ins. [Click here](https://www.kokwelresorts.com/coos-bay/) to learn how to book a session with your preferred artist.
 
 {{< spacer 25 >}}
 
@@ -95,7 +95,7 @@ If you're planning on attending the Annual High Tide Tattoo and Arts Festival, t
 
 ### Getting Here
 
-* The event venue, The [**Mill Casino Hotel & RV Park**](https://www.themillcasino.com/), is located on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. _See below for lodging information._
+* The event venue, The [**Mill Casino Hotel & RV Park**](https://www.kokwelresorts.com/coos-bay/), is located on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. _See below for lodging information._
 * **If you're flying in, the** [**Southwest Oregon Regional Airport**](https://cooscountyairportdistrict.com/) (Airport Code OTH) is the closest airport to the festival, and is located just a few miles from The Mill in North Bend, OR.
 * [**The Eugene Airport**](https://www.eugene-or.gov/4430/Airport), located 115 miles northeast of Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, is another option. Ground transportation options are limited to rental cars.
 * If you're driving, there are several highways and major roads that lead to North Bend, including Highway 101, Highway 38, and Highway 42. If you are coming south on I-5, we recommend Highway 38 south of Eugene. If you are heading north on I-5, take Highway 42!
@@ -113,7 +113,7 @@ There are several hotels and motels in and around North Bend that offer accommod
 
 ## Tickets
 
-Tickets to the High Tide Tattoo and Arts Festival go on sale April 7, 2023 in[ Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts/). Tickets are available to purchase at the event as well. The admission price is $10 per day, 12 and under is free.
+Tickets to the High Tide Tattoo and Arts Festival go on sale April 7, 2023 in[ Ko-Kwel Gifts](https://www.kokwelresorts.com/coos-bay/). Tickets are available to purchase at the event as well. The admission price is $10 per day, 12 and under is free.
 
 {{< spacer 25 >}}
 
@@ -138,7 +138,7 @@ Spring is an amazing time to visit Oregon’s Adventure Coast, and there are ple
 * Take a ride on the wild side and try [cycling](https://www.oregonsadventurecoast.com/cycling) and/or mountain biking on [Whiskey Run Mountain Bike Trails](https://www.oregonsadventurecoast.com/blog/gear-up-for-year-round-mountain-biking-on-the-whiskey-run-mountain-bike-trails/).
 * Learn more about the fascinating history of this region at the[ Coos History Museum and Maritime Collection](http://www.cooshistory.org/).
 
-With its focus on creativity, self-expression, and community, the [Annual High Tide Tattoo and Arts Festival](https://www.themillcasino.com/entertainment/high-tide-tattoo-arts-festival/2023-04-28/) offers a unique and unforgettable experience for everyone. We hope to see you here the weekend April 28-30, 2023!
+With its focus on creativity, self-expression, and community, the [Annual High Tide Tattoo and Arts Festival](https://www.kokwelresorts.com/coos-bay/) offers a unique and unforgettable experience for everyone. We hope to see you here the weekend April 28-30, 2023!
 
 {{< spacer 50 >}}
 
@@ -150,7 +150,7 @@ Got questions? Contact the[ Coos Bay – North Bend Visitor & Convention Bureau]
 
 [High Tide Tattoo and Arts Festival April 28-30 2023](https://ragemore.regfox.com/high-tide-tattoo-and-art-festival)
 
-[The Mill Casino](https://www.themillcasino.com/entertainment/high-tide-tattoo-arts-festival/2023-04-28/)
+[The Mill Casino](https://www.kokwelresorts.com/coos-bay/)
 
 [Ink Life Tattoo and Music Fest Facebook Page](https://www.facebook.com/inklifetour)
 

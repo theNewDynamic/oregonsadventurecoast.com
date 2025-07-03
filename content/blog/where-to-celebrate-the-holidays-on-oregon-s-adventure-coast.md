@@ -35,7 +35,7 @@ Join the South Coast Running Club this Thanksgiving Day for the annual Turkey Tr
 <b>Thanksgiving Buffet at The Mill Casino</b>
 Hand-carved prime rib & ham, roasted turkey, traditional stuffing & cornbread stuffing, Yukon gold mashed potatoes, pumpkin pie and all the fixings.
 Children 5-12 are half-price, ages 4 and Under Eat FREE! <b>When & Where:</b> Thursday, November 22, 2018  11 a.m.- 8 p.m.
-North Bend [www.themillcasino.com](https://www.themillcasino.com/dining/the-saw-blade-buffet)<p>
+North Bend [www.themillcasino.com](https://www.kokwelresorts.com/coos-bay/)<p>
 
 <b>32nd Annual Holiday Lights at Shore Acres</b><br>
 Famous for its beautiful 7-acre botanical gardens and Japanese lily pond. The gardens shine with over 325,000 lights, lighted sculptures and walk-through displays. <b>When & Where:</b> 4pm – 9:30 pm Thanksgiving through New Year’s Eve at Shore Acres State Park in Charleston, Oregon; just west of Coos Bay ($5 parking fee per vehicle). [www.shoreacres.net](http://shoreacres.net/)
@@ -55,13 +55,13 @@ Come be dazzled at the beautiful sights and sounds of the season when North Bend
 
 <b>North Bend Tree Lighting </b>
 Join us as we gather by the North Bend Community Christmas Tree for holiday fun! The event features decorations, music, food, cookies, cider, treats, giveaways, family activities and of course...SANTA! You won’t want to miss this fun and unforgettable evening!
-<b>When & Where:</b> 5:45 p.m. Wednesday, December 5th, North Bend Community Center. Visit or contact [www.northbendoregon.us](http://www.northbendoregon.us/) for more info. 
+<b>When & Where:</b> 5:45 p.m. Wednesday, December 5th, North Bend Community Center. Visit or contact [www.northbendoregon.us](http://www.northbendoregon.us/) for more info.
 
 <b>Downtown Coos Bay Wine Walk</b><br>
-Coos Bay invites you to Wine Walk the first Friday of the month! Visit various downtown businesses to wine taste and shop while supporting a great cause. Wine glasses and maps provided with a $10 donation to benefit the Coos Bay Public Library Foundation and community service of the Bay Area Rotary Club. <br><b>When & Where:</b>Starts at 5 p.m. December 7, 2018 Coos Bay Visitor Information Center. 
+Coos Bay invites you to Wine Walk the first Friday of the month! Visit various downtown businesses to wine taste and shop while supporting a great cause. Wine glasses and maps provided with a $10 donation to benefit the Coos Bay Public Library Foundation and community service of the Bay Area Rotary Club. <br><b>When & Where:</b>Starts at 5 p.m. December 7, 2018 Coos Bay Visitor Information Center.
 
 <b>Festival of Trees</b> <br>
-Each year, The Mill Casino • Hotel invites local businesses, individuals and organizations throughout the community to sponsor and decorate a tree or wreath for a worthy cause. All decorated trees and wreaths will be auctioned off in a live auction event. All proceeds benefit local services such as Shots for Tots, Kids HOPE Center, South Coast Family Harbor and many more. FREE ADMISSION.<br><b>When & Where:</b> Public Viewing: November 27 –  December 3, The Mill Hotel Lobby. Public Auction: December 4, 2018 at 7 pm, The Salmon Room. [www.themillcasino.com/](https://www.themillcasino.com/entertainment/festival-trees-auction-benefit-dinner/)
+Each year, The Mill Casino • Hotel invites local businesses, individuals and organizations throughout the community to sponsor and decorate a tree or wreath for a worthy cause. All decorated trees and wreaths will be auctioned off in a live auction event. All proceeds benefit local services such as Shots for Tots, Kids HOPE Center, South Coast Family Harbor and many more. FREE ADMISSION.<br><b>When & Where:</b> Public Viewing: November 27 –  December 3, The Mill Hotel Lobby. Public Auction: December 4, 2018 at 7 pm, The Salmon Room. [www.themillcasino.com/](https://www.kokwelresorts.com/coos-bay/)
 
 <b>Second Annual Holiday Open House and Artisan’s Market</b><br>
 Enjoy free admission at the Coos History Museum in addition to a Holiday Open House and Artisan’s Market. Exhibits and museum store open all day featuring a select group of artisans for holiday shopping and hands-on craft activities for the young and the young at heart!<br><b>When & Where: </b> December 1, 2018 10 a.m.- 4 p.m. Coos History Museum, Coos Bay [cooshistory.org](https://cooshistory.org/events/second-annual-holiday-open-house-and-artisans-market/)

@@ -32,7 +32,7 @@ You're already sharing your magical holiday photographs on social media sites li
 
 Share your photos and memories from the 31st Annual Shore Acres Holiday Lights Display happening November 23rd thru Dec. 31st, 2017 with the <strong>#CoosBayHoliday</strong> hashtag on Twitter or Instagram for a chance to win an Oregon's Adventure Coast Getaway Package that includes
 <p style="text-align: center;">A 2-Night Stay at the <a href="https://www.bestwestern.com/en_US/book/hotel-rooms.38071.html?iata=00171880&amp;ssob=BLBWI0004G&amp;cid=BLBWI0004G:google:gmb:38071">Best Western Holiday Inn</a>
-$60 Gift Card to use on any of the <a href="https://www.themillcasino.com/dining-bars/">five dining venues at The Mill Casino</a>
+$60 Gift Card to use on any of the <a href="https://www.kokwelresorts.com/coos-bay/">five dining venues at The Mill Casino</a>
 2 Passes to the <a href="https://cooshistory.org/who-we-are/">Coos History Museum</a>
 $20 Gift Certificate to <a href="http://www.7devilsbrewery.com/">7 Devils Brewery</a></p>
 There's more! The 2nd place winner will receive a $50 Giftcard to Amazon.com and the 3rd place winner will receive a $25 Giftcard to Amazon.com!

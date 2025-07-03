@@ -25,7 +25,7 @@ smallboxphoto: /img/cruz-340x214.jpg
 
 Cruz the Coos is one of the **longest-running and largest classic car cruises** on the Oregon Coast. It runs through the streets of downtown Coos Bay and is enjoyed by thousands of spectators.
 
-**The Show ‘n Shine** is an opportunity to see vintage cars and trucks that have been beautifully restored. Talk with the owners and visit restaurants and amenities offered at [The Mill Casino Hotel and RV Park](https://www.themillcasino.com/).
+**The Show ‘n Shine** is an opportunity to see vintage cars and trucks that have been beautifully restored. Talk with the owners and visit restaurants and amenities offered at [The Mill Casino Hotel and RV Park](https://www.kokwelresorts.com/coos-bay/).
 
 {{< spacer 25 >}}
 

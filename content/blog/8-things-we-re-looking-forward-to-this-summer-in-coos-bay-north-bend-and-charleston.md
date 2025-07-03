@@ -2,7 +2,7 @@
 _schema: default
 title: >-
   8 Things We're Looking Forward to This Summer in Coos Bay, North Bend, and
-  Charleston 
+  Charleston
 draft: false
 date: 2025-05-29T12:00:00-07:00
 description: >-
@@ -127,7 +127,7 @@ Oregon's Adventure Coast comes alive every summer with music, festivals, and cul
 * **Coos Bay Shakespeare in the Park presents** ***A Midsummer Night's Dream*** **June 21-29, 2025**. Local performers are bringing Shakespeare to life with performances in Coos Bay's Mingus Park Amphitheater! Admission is FREE, visit [coosbayshakespeare.com/](http://coosbayshakespeare.com/) to learn more.
 * **The Liberty Theatre in North Bend presents** ***You're a Good Man, Charlie Brown*** **June 20-29, 2025.** Audiences will love this heartwarming musical based on the Peanuts comic strip! Information and tickets are available at [thelibertytheatre.org](https://thelibertytheatre.org/).
 * **Music on the Bay – Free Concert Series (Thursdays starting August 2025).** Enjoy live music at the Mingus Park Amphitheater every Thursday evening in August and September. Bring a picnic, relax with friends, dance to the music, and soak in the summer vibes—admission is free! Visit [www.facebook.com/musiconthebay](https://www.facebook.com/musiconthebay) for information on this year’s lineup and schedule.
-* **Ongoing Performances at Local Venues.** Visitors can often catch live local and regional musicians performing at various venues across Coos Bay, North Bend, and Charleston like[<u>The Mill Casino • Hotel &amp; RV Park</u>](https://www.themillcasino.com/) (recently renamed the[<u>Ko-Kwel Casino Resort</u>](https://www.themillcasino.com/ko-kwel-casino-resort/)),[<u>7 Devils Brewery</u>](https://7devilsbrewery.com/),[<u>North Forty Brewing</u>](https://www.northfortybeer.com/) in North Bend,[<u>Wildflour Public House</u>](https://www.wildflourpub.com/),[<u>Front Street Food Trucks</u>](https://www.facebook.com/frontstreetfoodtrucks/) and[<u>NoBe Taphouse and Food Cart Pod</u>](https://www.facebook.com/profile.php?id=61550653942383), to name a few.[<u>The Captain's Cabin</u>](https://www.yelp.com/biz/captains-cabin-bar-coos-bay-2) and[<u>Coney Station</u>](https://www.facebook.com/ConeyStation/) are other spots to catch live tunes.
+* **Ongoing Performances at Local Venues.** Visitors can often catch live local and regional musicians performing at various venues across Coos Bay, North Bend, and Charleston like[<u>The Mill Casino • Hotel &amp; RV Park</u>](https://www.kokwelresorts.com/coos-bay/) (recently renamed the[<u>Ko-Kwel Casino Resort</u>](https://www.kokwelresorts.com/coos-bay/)),[<u>7 Devils Brewery</u>](https://7devilsbrewery.com/),[<u>North Forty Brewing</u>](https://www.northfortybeer.com/) in North Bend,[<u>Wildflour Public House</u>](https://www.wildflourpub.com/),[<u>Front Street Food Trucks</u>](https://www.facebook.com/frontstreetfoodtrucks/) and[<u>NoBe Taphouse and Food Cart Pod</u>](https://www.facebook.com/profile.php?id=61550653942383), to name a few.[<u>The Captain's Cabin</u>](https://www.yelp.com/biz/captains-cabin-bar-coos-bay-2) and[<u>Coney Station</u>](https://www.facebook.com/ConeyStation/) are other spots to catch live tunes.
 
 ### **6) Attending Community Celebrations & Festivals**
 

@@ -47,7 +47,7 @@ It’s been a while since this popular music festival has happened on Oregon’s
 
 **_Question: Where is it taking place?_**
 
-**Answer:** The South Coast Clambake Music Festival takes place in four different venues located in the [The Mill Casino • Hotel & RV Park](https://www.themillcasino.com/entertainment/2023-south-coast-clambake-music-festival/2023-03-10/) in North Bend. Each venue has a top of the line sound system, dance floor and bar.
+**Answer:** The South Coast Clambake Music Festival takes place in four different venues located in the [The Mill Casino • Hotel & RV Park](https://www.kokwelresorts.com/coos-bay/) in North Bend. Each venue has a top of the line sound system, dance floor and bar.
 
 **_Question: What kind of music can we expect?_**
 
@@ -95,7 +95,7 @@ Sunday All Day March 12th $30.00
 
 **Question: How do I get tickets?**
 
-**Answer:** Badges are on sale in [Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts/) now through noon on Friday, March 10. Patrons can also access [ticketing info here](https://www.eventbrite.com/e/the-south-coast-clambake-music-festival-tickets-466424106057?aff=erelexpmlt).
+**Answer:** Badges are on sale in [Ko-Kwel Gifts](https://www.kokwelresorts.com/coos-bay/) now through noon on Friday, March 10. Patrons can also access [ticketing info here](https://www.eventbrite.com/e/the-south-coast-clambake-music-festival-tickets-466424106057?aff=erelexpmlt).
 
 **Question: When should I get tickets and book my hotel?**
 

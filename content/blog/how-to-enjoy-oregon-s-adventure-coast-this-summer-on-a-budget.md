@@ -48,7 +48,7 @@ Even though we’re technically more than halfway through the summer season, the
 
 The sound of music is alive and well on Oregon’s Adventure Coast, and live music abounds all summer long! Here’s a quick round-up of just some of the FREE concerts to be on the lookout for this summer:
 
-**Rock the Dock Summer Concert Series 2023 (August 4-25, 2023)**\-The Mill Casino • Hotel & RV Park invites you to “Rock the Dock” with them each Friday night in August! This FREE concert series features some of the top tribute bands from all over the Pacific Northwest. More information: [<u>www.themillcasino.com/entertainment</u>](https://www.themillcasino.com/entertainment/rock-the-dock-free-summer-concert-series/2023-08-04/)**&nbsp;**
+**Rock the Dock Summer Concert Series 2023 (August 4-25, 2023)**\-The Mill Casino • Hotel & RV Park invites you to “Rock the Dock” with them each Friday night in August! This FREE concert series features some of the top tribute bands from all over the Pacific Northwest. More information: [<u>www.themillcasino.com/entertainment</u>](https://www.kokwelresorts.com/coos-bay/)**&nbsp;**
 
 <p class="text-center"><strong>Concert Lineup:</strong>&nbsp;</p>
 

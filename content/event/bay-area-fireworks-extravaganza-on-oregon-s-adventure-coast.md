@@ -26,7 +26,7 @@ website: http://www.oregonsadventurecoast.com
 
 ## The Largest Fireworks Display on the Coast over Coos Bay on July 3, 2021
 
-Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [The Mill Casino](https://www.themillcasino.com/), in conjunction with the [City of Coos Bay](http://coosbay.org/) and the [City of North Bend](https://www.northbendoregon.us/), will light up the skies over the Bay with this year's waterfront fireworks display.
+Don’t miss the Oregon Coast’s **largest fireworks display** on July 3rd. [The Mill Casino](https://www.kokwelresorts.com/coos-bay/), in conjunction with the [City of Coos Bay](http://coosbay.org/) and the [City of North Bend](https://www.northbendoregon.us/), will light up the skies over the Bay with this year's waterfront fireworks display.
 
 {{< spacer 25 >}}
 
@@ -42,7 +42,7 @@ K-DOCK 92.9 FM will present a pre-show at 9:00 pm featuring upbeat music to get 
 
 {{< spacer 25 >}}
 
-**It’s up to all of us to safely gather while watching the show – so please keep your distance and think of others’ safety during the event.** 
+**It’s up to all of us to safely gather while watching the show – so please keep your distance and think of others’ safety during the event.**
 
 {{< spacer 25 >}}
 

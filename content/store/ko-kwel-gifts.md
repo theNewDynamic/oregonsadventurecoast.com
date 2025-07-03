@@ -14,7 +14,7 @@ address:
   zip: '97459'
 phone_local: 541-756-8800
 phone_toll_free: ''
-website: https://www.themillcasino.com/accommodations/ko-kwel-gifts/
+website: https://www.kokwelresorts.com/coos-bay/
 coordinates:
   lat: '43.393806'
   lng: "-124.218881"

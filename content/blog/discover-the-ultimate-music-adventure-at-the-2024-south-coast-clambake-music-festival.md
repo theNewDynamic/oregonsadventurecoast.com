@@ -32,7 +32,7 @@ categories:
   - Special Events & Holidays
 warning: false
 ---
-Are you a fan of great music, fun, and adventure? If you answered yes, then you’re going to LOVE the [<u>South Coast Clambake Music Festival</u>](https://www.oregonsadventurecoast.com/event/south-coast-clambake-music-festival/) happening March 7-10, 2024 on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. If you’ve never been to this beloved annual music festival, make 2024 your year to change that! The event is so big that it takes place in four different performance venues located under one roof in the [<u>The Mill Casino • Hotel &amp; RV Park</u>](https://www.themillcasino.com/entertainment/2023-south-coast-clambake-music-festival/2023-03-10/) in North Bend.&nbsp;
+Are you a fan of great music, fun, and adventure? If you answered yes, then you’re going to LOVE the [<u>South Coast Clambake Music Festival</u>](https://www.oregonsadventurecoast.com/event/south-coast-clambake-music-festival/) happening March 7-10, 2024 on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. If you’ve never been to this beloved annual music festival, make 2024 your year to change that! The event is so big that it takes place in four different performance venues located under one roof in the [<u>The Mill Casino • Hotel &amp; RV Park</u>](https://www.kokwelresorts.com/coos-bay/) in North Bend.&nbsp;
 
 You might be wondering what a “Clambake” has to do with a music festival. It’s okay, we get that question a lot! “Clambake” is actually an old-time musical term for a “jam session”, so don’t expect clams at this music festival. But don’t worry, The Mill Casino & RV Park has restaurants and grab & go available, and there are plenty of delicious clam dishes and fresh seafood to enjoy in local restaurants all over Coos Bay, North Bend and Charleston!&nbsp;
 
@@ -50,7 +50,7 @@ If you can’t join us on the weekend of March 7-10, 2024 - there are multiple [
 * [<u>Captain's Cabin Bar&nbsp;</u>](https://www.yelp.com/biz/captains-cabin-bar-coos-bay-2)
 * [<u>Coney Station&nbsp;</u>](https://www.facebook.com/ConeyStation/)
 * [<u>The Liberty Theatre (home of Little Theatre by the Bay) </u>](https://thelibertytheatre.org/)k
-* [<u>Concerts &amp; Events @ The Mill Casino</u>](https://www.themillcasino.com/entertainment/category/all-events/)
+* [<u>Concerts &amp; Events @ The Mill Casino</u>](https://www.kokwelresorts.com/coos-bay/)
 
 To help you make the most of your trip to **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**, visit our[<u> Adventures page</u>](https://www.oregonsadventurecoast.com/adventures) and our[<u> Trip Ideas page</u>](https://www.oregonsadventurecoast.com/tripideas) to discover all there is to do here! You may also contact the[<u> Coos Bay – North Bend - Charleston Visitor &amp; Convention Bureau</u>](https://www.oregonsadventurecoast.com/) and follow us on[<u> Oregon’s Adventure Coast Facebook,</u>](https://www.facebook.com/OregonsAdventureCoast/)[<u> @travelcoosbay on Instagram,</u>](https://www.instagram.com/travelcoosbay/) and[<u> TikTok</u>](https://www.tiktok.com/@oregonsadventurecoast?lang=en).
 

@@ -59,7 +59,7 @@ And yes, all your favorite events are still on the calendar, including the [Annu
 
 ### **Learn More**
 
-Visitors to **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** can learn more about the Coquille Indian Tribe at the [Coos History Museum](https://cooshistory.org/). [Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts/) inside [Ko-Kwel Casino Resort](https://www.kokwelresorts.com/coos-bay/) is open to the public and features an exquisite selection of art, jewelry, and other handmade goods by members of the tribe.
+Visitors to **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** can learn more about the Coquille Indian Tribe at the [Coos History Museum](https://cooshistory.org/). [Ko-Kwel Gifts](https://www.kokwelresorts.com/coos-bay/) inside [Ko-Kwel Casino Resort](https://www.kokwelresorts.com/coos-bay/) is open to the public and features an exquisite selection of art, jewelry, and other handmade goods by members of the tribe.
 
 Want to learn more about the indigenous people of Southwest Oregon, their mission, and history? Here are some resources:
 

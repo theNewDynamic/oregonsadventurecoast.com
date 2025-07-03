@@ -63,7 +63,7 @@ But what does one do on those days when the weather isn’t cooperating and the 
 
 ### **Spend the Day (or Evening) Gaming**
 
-![](/img/casino-slotmachine-03.jpg) Whether it’s slots, cards, or games, visitors will find round-the-clock adventure and indoor fun at one of our two[<u> casinos</u>](https://oregonsadventurecoast.netlify.app/blog/try-your-luck-on-oregon-s-adventure-coast/)! [<u>The Mill Casino * Hotel &amp; RV Park</u>](https://www.themillcasino.com/) features Vegas-style table games, more than 600 slots, the only Sports Betting Casino on Oregon’s South Coast and more! If you play your cards right, you can also hit [<u>Three Rivers Casino – Coos Bay,</u>](https://www.threeriverscasino.com/coos-bay-casino) just ten minutes away!
+![](/img/casino-slotmachine-03.jpg) Whether it’s slots, cards, or games, visitors will find round-the-clock adventure and indoor fun at one of our two[<u> casinos</u>](https://oregonsadventurecoast.netlify.app/blog/try-your-luck-on-oregon-s-adventure-coast/)! [<u>The Mill Casino * Hotel &amp; RV Park</u>](https://www.kokwelresorts.com/coos-bay/) features Vegas-style table games, more than 600 slots, the only Sports Betting Casino on Oregon’s South Coast and more! If you play your cards right, you can also hit [<u>Three Rivers Casino – Coos Bay,</u>](https://www.threeriverscasino.com/coos-bay-casino) just ten minutes away!
 
 ### **Get Inspired at a Local Museum**
 

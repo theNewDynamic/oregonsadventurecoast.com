@@ -74,11 +74,11 @@ Discover the center of comfort with modern amenities, luxurious accents, and gen
 The perfect place to relax before setting off to explore the many recreational adventures close by. The Edgewater Inn offers comfortable rooms & suites with fridge, microwave, & free wifi. Fishing/observation deck offers beautiful views of the bay. 275 E. Johnson Avenue Coos Bay, OR 97420
 541-267-0423 | 800-233-0423
 
-**Global Inn**  
-Newly renovated and re-named, this small motel is ideally located on Hwy 101 in Coos Bay across from the Coos History Museum and Coos Bay Village with shops and restaurants. Each room includes free wifi, a flat-screen cable TV, a microwave, a refrigerator and tea & coffee-making facilities. 1001 N Bayshore Dr, Coos Bay, OR 97420  
+**Global Inn**
+Newly renovated and re-named, this small motel is ideally located on Hwy 101 in Coos Bay across from the Coos History Museum and Coos Bay Village with shops and restaurants. Each room includes free wifi, a flat-screen cable TV, a microwave, a refrigerator and tea & coffee-making facilities. 1001 N Bayshore Dr, Coos Bay, OR 97420
 (541) 808-0700
 
-[**Mill Casino • Hotel & RV Park**](https://www.themillcasino.com/)
+[**Mill Casino • Hotel & RV Park**](https://www.kokwelresorts.com/coos-bay/)
 Experience over 200 well-appointed rooms and suites in our Tower and Lodge, Las Vegas-style gaming excitement, five excellent dining venues and live entertainment – all with a great view along scenic Coos Bay. Free WiFi, pool, hot tub & pets welcome. 3201 Tremont Avenue North Bend, OR 97459
 541-756-8800 | 800-953-4800
 
@@ -108,7 +108,7 @@ Visitors will also find multiple RV Parks and campgrounds by going to [oregonsad
 
 Let us help you plan, get here, and enjoy your visit with your pet! We encourage you to Contact Us if you have any questions or stop in our visitor center to find out the inside track for the best food, events, and activities. Hope we see you soon!
 
-\---------  
+\---------
 Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.
 
 Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.
