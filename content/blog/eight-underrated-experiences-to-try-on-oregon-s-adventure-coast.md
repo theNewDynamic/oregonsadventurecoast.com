@@ -62,8 +62,6 @@ If you want to feel like you have the Oregon Coast to yourself, [Cape Arago Stat
 
 For an extra special adventure, [go tidepooling](https://www.oregonsadventurecoast.com/blog/discover-the-wonders-of-tide-pooling-on-oregon-s-adventure-coast/) and discover a new species or natural treasure. You can even go [tide pooling with an actual marine biologist](https://www.saltymactours.com/services-9)! We kindly ask that all visitors follow [Leave No Trace principles](https://www.oregonsadventurecoast.com/blog/leave-no-trace-7-guidelines-to-protect-oregon-s-adventure-coast-for-future-visitors/) and enjoy the area's beauty without disturbing wildlife or removing natural features.
 
-&nbsp;
-
 ### \#3) See Marine Life Up Close at the Charleston Marine Life Center
 
 ![](/img/eight-underrated-experiences-to-try-on-oregon-s-adventure-coast-blog-695x322-5.jpg)
