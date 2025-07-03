@@ -23,7 +23,7 @@ date: '2019-02-18T19:35:33.000+00:00'
 
 *These meetings are open to the public and are available for attendance in person or for viewing online via Zoom. To attend in person, RSVP is REQUIRED.*
 
-Board Meetings are generally held at [**The Mill Casino \* Hotel**](https://www.themillcasino.com/) in the 2nd floor meeting rooms of the hotel property.
+Board Meetings are generally held at [**The Mill Casino \* Hotel**](https://www.kokwelresorts.com/coos-bay/) in the 2nd floor meeting rooms of the hotel property.
 
 **UPDATED 2/2025:** Board Meetings are usually held on the **3rd Thursday of the month from 8:30 am to approximately 9:45 am**.
 

@@ -52,7 +52,7 @@ Coney Station offers a little something for everybody! From Dj Trivia, Live Musi
 
 ![Warehouse 101 inside The Mill Casino • Hotel &amp; RV Park in North Bend, Oregon](/img/ent-warehouse-101.jpg)
 
-**Warehouse 101** *(Inside The Mill Casino)*<br>3201 Tremont Street<br>North Bend, OR 97459<br>(541) 756-8800<br>[www.themillcasino.com](https://www.themillcasino.com)
+**Warehouse 101** *(Inside The Mill Casino)*<br>3201 Tremont Street<br>North Bend, OR 97459<br>(541) 756-8800<br>[www.themillcasino.com](https://www.kokwelresorts.com/coos-bay/)
 
 Take one part sports bar, pour in a splash of your favorite nightclub, mix generously and you’ll have Warehouse 101. Featuring a large selection of craft brews and the largest selection of wings in town! With newly added sports packages, the largest video wall in the area and additional flat screen TV’s; there’s no better place to catch your favorite game. Enjoy a great meal, a great drink or choose from 20 craft brews in a casual, fun and friendly environment.
 

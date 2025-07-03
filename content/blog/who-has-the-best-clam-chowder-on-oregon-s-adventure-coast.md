@@ -63,6 +63,6 @@ This take-out establishment located in the **Charleston Marina** is a relative n
 
 [Davey Jones' Locker ](https://www.facebook.com/Davey-Jones-Locker-275312836004/)- Charleston
 
-[Plank House Restaurant](https://www.themillcasino.com/dining-bars/) at the Mill Casino - North Bend
+[Plank House Restaurant](https://www.kokwelresorts.com/coos-bay/) at the Mill Casino - North Bend
 
 So next time you’re visiting Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston- be sure to visit these fine establishments and try their chowder and let us know what you think! Didn’t see YOUR favorite? Give them a shout-out on our Facebook page or leave a comment!

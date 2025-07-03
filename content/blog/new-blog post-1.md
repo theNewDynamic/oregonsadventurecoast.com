@@ -149,7 +149,7 @@ For more tips on how to get the most out of your Oregon Dunes Adventure, please 
 * [oregonsadventurecoast.com/atv-motorsports/](https://www.oregonsadventurecoast.com/atv-motorsports/)
 * [www.fs.usda.gov](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42465)
 * [www.stateparks.com](https://www.stateparks.com/oregon_dunes_national_recreation_area_in_oregon.html)
-* [www.themillcasino.com/doing-the-oregon-dunes-safely/](https://www.themillcasino.com/doing-the-oregon-dunes-safely/)
+* [www.themillcasino.com/doing-the-oregon-dunes-safely/](https://www.kokwelresorts.com/coos-bay/)
 * [traveloregon.com](https://traveloregon.com/things-to-do/destinations/parks-forests-wildlife-areas/a-locals-guide-to-the-oregon-dunes/)
 * [tripadvisor.com/Attraction\_Review Spinreel\_Dune\_Buggy\_and\_ATV\_Rental](https://www.tripadvisor.com/Attraction_Review-g51940-d1232726-Reviews-Spinreel_Dune_Buggy_and_ATV_Rental-Lakeside_Oregon.html)
 

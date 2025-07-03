@@ -20,7 +20,7 @@ Enter to win **two All Access Event Passes to the 2025 South Coast Clambake Musi
 ### The prize giveaway includes (XXXX CONFIRM THESE XXXX)
 
 * Two All Access Passes to the 2025 South Coast Clambake Music Festival in North Bend, Oregon *(Value $200)*
-* Three-Night Stay at <a href="https://www.themillcasino.com/" target="_blank" rel="noopener">The Mill Casino • Hotel &amp; RV Park</a> for Two in Double Room&nbsp;*(Value $900. Some restrictions may apply)*
+* Three-Night Stay at <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener">The Mill Casino • Hotel &amp; RV Park</a> for Two in Double Room&nbsp;*(Value $900. Some restrictions may apply)*
 * Grab a Bite At:<br>\-&nbsp;<a href="https://northbendlanes.com/Back-Alley-Pub-Grill" target="_blank" rel="noopener">Back Alley Pub &amp; Grill</a>&nbsp;*(Value $40. Some restrictions may apply)*<br>\-&nbsp;<a href="https://www.blueheronbistro.net/" target="_blank" rel="noopener">Blue Heron Bistro</a> *(Value $50. Some restrictions may apply)*
 * Friday Night Movie:<br>\- Two tickets to the Egyptian Theatre Friday 7pm showing of the 1967 Elvis classic *Clambake!*
 * **Total value of this prize package is over $1,100!**
@@ -37,7 +37,7 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 
 ![south coast clambake music festival bands playing music](/img/clambake-collage-02-695x322.jpg)
 
-The South Coast Clambake Music Festival is held at <a href="https://themillcasino.com" target="_blank" rel="noopener">The Mill Casino • Hotel &amp; RV Park</a> on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**! The Mill hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar!
+The South Coast Clambake Music Festival is held at <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener">The Mill Casino • Hotel &amp; RV Park</a> on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**! The Mill hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar!
 
 ### Featuring the Music of Bands All Across these United States!
 

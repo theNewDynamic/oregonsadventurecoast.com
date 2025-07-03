@@ -72,7 +72,7 @@ _“A sense of abundance and gratitude defines the Confederated Tribes of Coos, 
 
 * Festival attendees can enjoy free daily performances by Native American storytellers, drummers, flutists and dancers, a marketplace offering traditional wares and foods, a bay-front canoe exhibit and races, traditional games and activities for children, plus various cultural demonstrations and educational exhibits for the whole family.
 * The traditional salmon bake meal, a ticketed event, will be served from 11 AM – 5 PM Saturday and 11 AM – 4 PM Sunday.
-* Presale tickets for the Salmon Bake Meal are available in [Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts/) and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event. Please visit [www.themillcasino.com](https://www.themillcasino.com/entertainment/17th-annual-mill-luck-salmon-celebration/2021-09-12/) for schedule and Salmon Bake Dinner ticket information.
+* Presale tickets for the Salmon Bake Meal are available in [Ko-Kwel Gifts](https://www.kokwelresorts.com/coos-bay/) and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event. Please visit [www.themillcasino.com](https://www.kokwelresorts.com/coos-bay/) for schedule and Salmon Bake Dinner ticket information.
 
 #### **More Interesting Facts About the History of Indigenous People on Oregon’s South Coast**
 
@@ -87,7 +87,7 @@ _“A sense of abundance and gratitude defines the Confederated Tribes of Coos, 
 
 Bring the whole family for a wonderful weekend of fun on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**! [Visit our lodging page](https://www.oregonsadventurecoast.com/lodging/) to search through the great options of hotels and inns in the Coos Bay area.
 
-Visitors to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston can learn more about the Coquille Indian Tribe at the [Coos History Museum](https://cooshistory.org/). [Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts/) inside [The Mill Casino](https://www.themillcasino.com/) is open to the public and features an exquisite selection of art, jewelry, and other handmade goods by members of the tribe. Visitors can even view multiple exhibits and displays paying tribute to Coquille history while strolling through the Mill Casino Hotel lobby.
+Visitors to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston can learn more about the Coquille Indian Tribe at the [Coos History Museum](https://cooshistory.org/). [Ko-Kwel Gifts](https://www.kokwelresorts.com/coos-bay/) inside [The Mill Casino](https://www.kokwelresorts.com/coos-bay/) is open to the public and features an exquisite selection of art, jewelry, and other handmade goods by members of the tribe. Visitors can even view multiple exhibits and displays paying tribute to Coquille history while strolling through the Mill Casino Hotel lobby.
 
 Learn more about indigenous people of Southwest Oregon, specifically the Coquille Indian Tribe, their mission and history:
 

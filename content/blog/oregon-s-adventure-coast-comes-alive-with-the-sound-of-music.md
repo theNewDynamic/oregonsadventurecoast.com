@@ -148,7 +148,7 @@ Our area features several [<u>entertainment venues and nightlife options</u>](ht
 
 [<u>The Liberty Theatre (home of Little Theatre by the Bay)&nbsp;</u>](https://thelibertytheatre.org/)
 
-[<u>Concerts &amp; Events @ The Mill Casino</u>](https://www.themillcasino.com/entertainment/category/all-events/)
+[<u>Concerts &amp; Events @ The Mill Casino</u>](https://www.kokwelresorts.com/coos-bay/)
 
 **<u>BONUS:</u>** Listen to live organ music at the [<u>Egyptian Theatre</u>](https://www.egyptiantheatre.events/wednesday-market) for FREE! This summer, visitors can hear spectacular music every Wednesday from 12 p.m. - 1 p.m. on The Mighty Wurlitzer. Feel free to bring your lunch in while you listen! Located in the heart of downtown Coos Bay, this destination is fun for the whole family. This free concert is popular with Farmer’s Market visitors, both local and visiting tourists.
 

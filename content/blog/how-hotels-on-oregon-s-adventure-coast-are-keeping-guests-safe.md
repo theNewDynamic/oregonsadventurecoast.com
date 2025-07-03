@@ -26,7 +26,7 @@ categories:
 - Oregon's Adventure Coast News & Info
 
 ---
-**What Travelers Can Expect As We Reopen Oregon’s Adventure Coast**  
+**What Travelers Can Expect As We Reopen Oregon’s Adventure Coast**
 There’s an old saying that goes “Expect the Unexpected”. Who would have expected just a few months ago that we’d all find ourselves navigating a world facing a pandemic? The COVID-19 crisis has impacted travel all over the world, and Oregon’s Adventure Coast is no exception. Earlier this month, [we entered into Phase Two of the reopening process](https://www.oregonsadventurecoast.com/blog/ready.set.adventure-what-travelers-can-expect-as-we-reopen-oregon-s-adventure-coast/) which means that we are ready to welcome our visitors back this summer, but travelers staying in hotels will notice a few changes. Here are some FAQ’s we’ve received about traveling to Oregon’s Adventure Coast this summer.
 
 **Will my family and I be safe staying in a hotel?** Local hotels are going above and beyond to ensure the safety of their guests. While each hotel has adopted their own individual responses to COVID-19, all businesses entering into Phase Two must follow specific guidelines set by local health authorities.
@@ -46,7 +46,7 @@ There’s an old saying that goes “Expect the Unexpected”. Who would have ex
 
 Here are some links to COVID-19 responses and guidelines from some of our local hotels. _Please contact your individual hotel for more details._
 
-[Best Western Hotels & Resort](https://www.bestwestern.com/en_US/hotels/discover-best-western/we-care-clean.html) • [Captain John's Motel](https://capitanjohnsmotel.wixsite.com/captjohnsmotel/informqtion-faq)  • [Mill Casino • Hotel & RV Park](https://www.themillcasino.com/update-on-our-response-to-covid-19/) • [ Motel 6](https://www.motel6.com/en/covid19.html)  • [Red Lion Hotel](https://www.redlion.com/red-lion-hotels/or/coos-bay/red-lion-hotel-coos-bay) • [Super 8 by Wyndham](https://www.wyndhamhotels.com/about-us/faq-covid-19)
+[Best Western Hotels & Resort](https://www.bestwestern.com/en_US/hotels/discover-best-western/we-care-clean.html) • [Captain John's Motel](https://capitanjohnsmotel.wixsite.com/captjohnsmotel/informqtion-faq)  • [Mill Casino • Hotel & RV Park](https://www.kokwelresorts.com/coos-bay/) • [ Motel 6](https://www.motel6.com/en/covid19.html)  • [Red Lion Hotel](https://www.redlion.com/red-lion-hotels/or/coos-bay/red-lion-hotel-coos-bay) • [Super 8 by Wyndham](https://www.wyndhamhotels.com/about-us/faq-covid-19)
 
 If your [lodging option](https://www.oregonsadventurecoast.com/lodging/) is not on the above list, please contact the business directly for COVID-19 updates. Additional information about [RV Parks and Camping Sites on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/lodging/) can be found on our website.
 

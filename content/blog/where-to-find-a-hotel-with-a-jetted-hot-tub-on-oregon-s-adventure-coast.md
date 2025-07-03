@@ -52,13 +52,13 @@ Coos Bay, OR 97420
 
 Units: 82 • $$$: The perfect place to relax before setting off to explore the many recreational adventures close by. The Edgewater Inn offers comfortable rooms & suites with fridge, microwave, & free Wi-Fi. The Edgewater Inn has jetted hot tub rooms and one jetted hot tub suite to choose from (ground floor unit is ADA accessible). The hotel also has an indoor pool, spa and exercise room. Fishing/observation deck offers beautiful views of the bay.
 
-### [Mill Casino • Hotel & RV Park](https://www.themillcasino.com/accommodations/hotel/tower-rooms/)
+### [Mill Casino • Hotel & RV Park](https://www.kokwelresorts.com/coos-bay/)
 
 3201 Tremont Avenue
 North Bend, OR 97459
 541-756-8800 | 800-953-4800
 
-Units: 204 • $$$: Experience over 200 well-appointed rooms and suites in our Tower and Lodge, some with in-room hot tubs, Las Vegas-style gaming excitement, five excellent dining venues and live entertainment – all with a superb view along scenic Coos Bay. Free Wi-Fi, pool, hot tub & pets welcome. [Click here ](https://www.themillcasino.com/hotel-room/tower-balcony-suite/)to view their Tower Balcony Suite featuring a jetted hot tub overlooking the bay.
+Units: 204 • $$$: Experience over 200 well-appointed rooms and suites in our Tower and Lodge, some with in-room hot tubs, Las Vegas-style gaming excitement, five excellent dining venues and live entertainment – all with a superb view along scenic Coos Bay. Free Wi-Fi, pool, hot tub & pets welcome. [Click here ](https://www.kokwelresorts.com/coos-bay/)to view their Tower Balcony Suite featuring a jetted hot tub overlooking the bay.
 
 ### [Motel 6](https://www.motel6.com/content/g6/en/home/motels.or.coos-bay.9258.html)
 
@@ -72,11 +72,11 @@ Many of our local hotels not only feature a relaxing jetted hot tub and a comfor
 
 There is an adventure for everyone on [Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston](https://www.oregonsadventurecoast.com/). Whether you are on the hunt for awe-inspiring landscapes, thrilling outdoor activities, eclectic shopping, fine dining, special events, or an evening of entertainment, you will find it here. For more information, please contact the [Coos Bay – North Bend Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/contact/).
 
-\---------   
-Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.  
-  
-Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.   
-  
-If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.  
-   
+\---------
+Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.
+
+Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.
+
+If you are ready to travel, we are ready to welcome you back to Oregon’s Adventure Coast. However, if you are feeling ill or not comfortable traveling right now, we encourage to stay home and stay healthy. Let’s all do our part to stop the spread of COVID-19.
+
 Please visit [https://ecs.page.link/xhV4h](https://ecs.page.link/xhV4h "https://ecs.page.link/xhV4h") for more information.

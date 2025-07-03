@@ -67,7 +67,7 @@ While you are here, be sure to check out our locally-owned shops throughout the 
 
 * [Painted Zebra Boutique](https://www.facebook.com/paintedzebraboutique/) — When we asked our Facebook followers for their recommendations, Painted Zebra was heavily endorsed. Stylish clothing, jewelry, handbags, organic lotions and much more for women and juniors. In downtown North Bend.
 * [Katrina Kathleen’s Home Decor & Gifts](https://www.facebook.com/katrinakathleens/?rf=212911775714072) — Home accents, holiday items and ornaments, jewelry, floral, accessories, antiques and more. In downtown Coos Bay.
-* [Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts/) — Handcrafted jewelry and bead work, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members. Inside The Mill Casino * Hotel & RV Park.
+* [Ko-Kwel Gifts](https://www.kokwelresorts.com/coos-bay/) — Handcrafted jewelry and bead work, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members. Inside The Mill Casino * Hotel & RV Park.
 * [Checkerberry’s Flowers and Gifts](https://checkerberrys.com/) — In addition to beautiful holiday arrangements and centerpieces, look for high-quality fashion pieces and jewelry! In downtown Coos Bay.
 * [Pony Village Mall](https://ponyvm.com/) — Be sure to check out the multiple new clothing stores in this North Bend mall.
 
@@ -78,7 +78,7 @@ While you are here, be sure to check out our locally-owned shops throughout the 
 #### FOR THE HISTORY BUFF
 
 * [Coos History Museum & Maritime Collection](https://cooshistory.org/museum-store/) — Local history books, jewelry and fused glass art can be found in their gift shop. In Coos Bay.
-* 
+*
 
 #### FOR THE DECORATOR/COLLECTOR
 
@@ -99,5 +99,5 @@ While you are here, be sure to check out our locally-owned shops throughout the 
 
 ![](/img/wear-a-mask-oregon-s-adventure-coast.png)
 
-{{< spacer 25 >}}  
+{{< spacer 25 >}}
 We look forward to welcoming you back to **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. We ask that you to follow Oregon’s [Safe+Strong guidelines](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you) to keep our community safe and remember that face coverings are required in public spaces. Please don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.

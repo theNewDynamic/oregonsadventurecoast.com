@@ -43,6 +43,6 @@ There’s no place on earth like the [Oregon Dunes](/untamed-dunes). Wind-sculpt
 
 ### Hit a Strike or Strike it Rich
 
-Small towns aren’t without big thrills: the Coos Bay, North Bend and Charleston area is home to <a href="http://northbendlanes.com" target="_blank">North Bend Lanes</a>, where you can Cosmic Bowl on a stormy winter evening.  <a href="https://www.themillcasino.com" target="_blank">The Mill Casino • Hotel & RV Park</a> and <a href="https://www.threeriverscasino.com/coos-bay-casino" target="_blank">Three Rivers Coos Bay</a> offer non-stop casino action just waiting for you. With more than 750 slots, Vegas-style table games, restaurants and lounges, there’s something going on 24 hours a day at our two casinos.
+Small towns aren’t without big thrills: the Coos Bay, North Bend and Charleston area is home to <a href="http://northbendlanes.com" target="_blank">North Bend Lanes</a>, where you can Cosmic Bowl on a stormy winter evening.  <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank">The Mill Casino • Hotel & RV Park</a> and <a href="https://www.threeriverscasino.com/coos-bay-casino" target="_blank">Three Rivers Coos Bay</a> offer non-stop casino action just waiting for you. With more than 750 slots, Vegas-style table games, restaurants and lounges, there’s something going on 24 hours a day at our two casinos.
 
 _This article was originally written by Emily Forsha for Travel Oregon._

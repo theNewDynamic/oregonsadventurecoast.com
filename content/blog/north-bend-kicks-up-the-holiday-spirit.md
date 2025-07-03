@@ -47,17 +47,17 @@ For much of Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, Christ
 
 ![](/img/north-bend.jpeg)
 
-  
+
 ![](/img/north-bend-tree-lighting-2.jpeg)
 
-![](/img/north-bend-tree-lighting.jpeg)  
+![](/img/north-bend-tree-lighting.jpeg)
 Here’s a quick list of more North Bend attractions you’ll want to explore this winter. [Click here ](https://www.oregonsadventurecoast.com/event/christmas-at-the-coast/)to learn more about all our Holiday Happenings on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, including the [Holiday Lights at Shore Acres](https://www.oregonsadventurecoast.com/event/annual-holiday-lights-at-shore-acres/).
 
 ### **Explore North Bend’s Historic Downtown**
 
-To get a true feel for North Bend’s unique history, head to the [North Bend Information Center](https://www.oregonsadventurecoast.com/contact/) before embarking on a [historic walking tour of North Bend](https://www.oregonsadventurecoast.com/tripideas/historic-walking-tour-of-north-bend/). On your tour, feel free to browse and do some holiday shopping in the unique local shops like [Painted Zebra](https://www.facebook.com/paintedzebraboutique), [Petal to the Metal](http://www.petaltothemetalflowers.com/), [Books by the Bay](https://www.facebook.com/Books-By-The-Bay-232314893488700), [Fat Cat Antiques](https://fat-cat-antiques.business.site/?utm_source=gmb&utm_medium=referral), and many others. Other shopping options in North Bend include the [Pony Village Mall](http://ponyvm.com/), [The Myrtlewood Factory](http://www.myrtlewood-hauserrvpark.com/index.html), and [Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts) at The Mill Casino * Hotel & RV Park. And for the outdoor enthusiasts, [Moe’s Bike Shop](https://www.facebook.com/profile.php?id=100057227899293) and [North Bend PowerSports](https://www.facebook.com/NORTHBENDPOWERSPORTS) fill the bill.
+To get a true feel for North Bend’s unique history, head to the [North Bend Information Center](https://www.oregonsadventurecoast.com/contact/) before embarking on a [historic walking tour of North Bend](https://www.oregonsadventurecoast.com/tripideas/historic-walking-tour-of-north-bend/). On your tour, feel free to browse and do some holiday shopping in the unique local shops like [Painted Zebra](https://www.facebook.com/paintedzebraboutique), [Petal to the Metal](http://www.petaltothemetalflowers.com/), [Books by the Bay](https://www.facebook.com/Books-By-The-Bay-232314893488700), [Fat Cat Antiques](https://fat-cat-antiques.business.site/?utm_source=gmb&utm_medium=referral), and many others. Other shopping options in North Bend include the [Pony Village Mall](http://ponyvm.com/), [The Myrtlewood Factory](http://www.myrtlewood-hauserrvpark.com/index.html), and [Ko-Kwel Gifts](https://www.kokwelresorts.com/coos-bay/) at The Mill Casino * Hotel & RV Park. And for the outdoor enthusiasts, [Moe’s Bike Shop](https://www.facebook.com/profile.php?id=100057227899293) and [North Bend PowerSports](https://www.facebook.com/NORTHBENDPOWERSPORTS) fill the bill.
 
-### **Get Your Game On at** [**Mill Casino**](https://www.themillcasino.com/)
+### **Get Your Game On at** [**Mill Casino**](https://www.kokwelresorts.com/coos-bay/)
 
 Looking for some thrilling casino action? Or perhaps you’re simply after an entertaining evening? Whether your game is slots, cards, or other Vegas style gaming, you'll find round-the-clock adventure, fun, and (fingers crossed) a jackpot right here.
 

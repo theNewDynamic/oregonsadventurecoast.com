@@ -37,9 +37,9 @@ Saturday, May 25, 2024 \| 12:00 PM – 6:00 PM<br>Sunday, May 26, 2024 \| 12:00 
 
 **Admission:** A $5 entry fee gets you into the event each day.
 
-**Food & Beverage: Participating** vendors will have a 2 oz. sample of BBQ for sale. Attendees can also purchase a full meal from – The Mill Grill. There will be 20+ breweries in three beer stations. [Click here for more info.](https://www.themillcasino.com/event/bbq-blues-brews/beer/)
+**Food & Beverage: Participating** vendors will have a 2 oz. sample of BBQ for sale. Attendees can also purchase a full meal from – The Mill Grill. There will be 20+ breweries in three beer stations. [Click here for more info.](https://www.kokwelresorts.com/coos-bay/)
 
-**Entertainment:** The event will feature live performances from some of the best blues musicians in the region. [See schedule for times and bands.](https://www.themillcasino.com/event/bbq-blues-brews/schedule/)
+**Entertainment:** The event will feature live performances from some of the best blues musicians in the region. [See schedule for times and bands.](https://www.kokwelresorts.com/coos-bay/)
 
 Here are other fun ideas to experience the best of Oregon’s Adventure Coast!
 

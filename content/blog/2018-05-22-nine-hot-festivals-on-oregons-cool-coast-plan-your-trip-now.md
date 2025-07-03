@@ -45,7 +45,7 @@ Coos Bay is home to the longest-running music festival on the Oregon Coast! Each
 
 <h2>2018 Mill Casino Food Truck Off</h2>
 
-Bring the whole family to enjoy this great outdoor event featuring food trucks, live music and more. Feast yourself on the goods while the trucks compete in a cook-off for the best in several categories. <a href="[https://www.themillcasino.com/entertainment/4th-annual-food-truck-off/2022-08-05/](https://www.themillcasino.com/entertainment/4th-annual-food-truck-off/2022-08-05/ "https://www.themillcasino.com/entertainment/4th-annual-food-truck-off/2022-08-05/")">Click here </a>for information.
+Bring the whole family to enjoy this great outdoor event featuring food trucks, live music and more. Feast yourself on the goods while the trucks compete in a cook-off for the best in several categories. <a href="[https://www.kokwelresorts.com/coos-bay/ "https://www.kokwelresorts.com/coos-bay/")">Click here </a>for information.
 
 <strong>When & Where: August 3rd-5th, North Bend, OR</strong>
 
