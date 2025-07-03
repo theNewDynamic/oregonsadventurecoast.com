@@ -42,6 +42,10 @@ Of all the potential hazards, the [dangerous sneaker wave](https://nbc16.com/new
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 The best way to avoid being caught in a powerful and deadly sneaker wave is to **never turn your back to the ocean and always keep your eyes on the water**.
 
 ![How to avoid sneaker waves on the Oregon Coast](/img/44211334_10157134465702448_1362730214634815488_n-1-.jpg)
