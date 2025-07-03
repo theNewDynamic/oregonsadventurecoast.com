@@ -1,38 +1,40 @@
 ---
+_schema: default
 title: How to Enjoy Your Fresh Oregon Dungeness Crab
-date: 2016-01-12T01:07:31.000+00:00
-description: A fresh Dungeness crab meal is something every Oregon Coast visitor should
-  experience during their stay. Many adventurous travelers enjoy catching their own
-  Dungeness crab in the waters of lower Coos Bay for an unforgettable feast. We are
-  following up on our local crabbing tips with suggestions on how to enjoy your fresh
-  catch!
+draft: true
+date: 2016-01-12T01:07:31Z
+description: >-
+  A fresh Dungeness crab meal is something every Oregon Coast visitor should
+  experience during their stay. Many adventurous travelers enjoy catching their
+  own Dungeness crab in the waters of lower Coos Bay for an unforgettable feast.
+  We are following up on our local crabbing tips with suggestions on how to
+  enjoy your fresh catch!
 tags:
-- Crab
-- Crab Louis
-- Crabbing
-- Crabbing & Clamming
-- Dungeness Crab
-- Dungeness Crab Recipes
-- Fishermen’s Wharf
-- Fishing
-- Crabbing & Clamming
-- How to clean crab
-- How to Clean Dungeness Crab
-- how to cook Dungeness Crab
-- local
-- oregon coast crab
-- Oregon Coast Crabbing
-- Oregon Dungeness Crab
-- the Charleston boat
-- where to go crabbing
-old_categories:
-- Eat & Drink
-- Fishing
-- Crabbing & Clamming
-image: ''
+  - Crab
+  - Crab Louis
+  - Crabbing
+  - Crabbing & Clamming
+  - Dungeness Crab
+  - Dungeness Crab Recipes
+  - Fishermen’s Wharf
+  - Fishing
+  - Crabbing & Clamming
+  - How to clean crab
+  - How to Clean Dungeness Crab
+  - how to cook Dungeness Crab
+  - local
+  - oregon coast crab
+  - Oregon Coast Crabbing
+  - Oregon Dungeness Crab
+  - the Charleston boat
+  - where to go crabbing
 categories:
-- Local Food & Drink
-
+  - Local Food & Drink
+warning: false
+old_categories:
+  - Eat & Drink
+  - Fishing
+  - Crabbing & Clamming
 ---
 A fresh Dungeness crab meal is something every Oregon Coast visitor should experience during their stay. Many adventurous travelers enjoy catching their own Dungeness crab in the waters of lower Coos Bay for an unforgettable feast. We are following up on our <a href="/2014/12/when-where-and-how-to-find-the-best-dungeness-crab-on-oregons-coast/" target="_blank">local crabbing tips</a> with suggestions on how to enjoy your fresh catch!
 
@@ -43,10 +45,10 @@ To have your crab(s) cooked and cleaned for a reasonable fee, we recommend check
 </p>
 
 <p style="padding-left: 30px;">
-<strong>Fishermen’s Wharf</strong><br /> Floating market located just off “D” Dock in the Charleston boat basin. Pick your own Dungeness Crab from their live tank or one of their pre-cooked iced crab – done daily. They will cook and clean your catch.   63534 Kingfisher S-1 Charleston, OR 97420 541-888-8862 <a href="http://www.fishermenswharforegon.com/" target="_blank">www.fishermenswharforegon.com</a>
+<strong>Fishermen’s Wharf</strong><br /> Floating market located just off “D” Dock in the Charleston boat basin. Pick your own Dungeness Crab from their live tank or one of their pre-cooked iced crab – done daily. They will cook and clean your catch.&nbsp;&nbsp; 63534 Kingfisher S-1 Charleston, OR 97420 541-888-8862 <a href="http://www.fishermenswharforegon.com/" target="_blank">www.fishermenswharforegon.com</a>
 </p>
 
-Keep your cooked crab refrigerated until ready to eat and follow these easy steps we found on the <a href="http://oregondungeness.org/consumer-info/cleaning-instructions/" target="_blank">Oregon Dungeness Crab Commission’s website</a>.  Watch the below video for more tips.
+Keep your cooked crab refrigerated until ready to eat and follow these easy steps we found on the <a href="http://oregondungeness.org/consumer-info/cleaning-instructions/" target="_blank">Oregon Dungeness Crab Commission’s website</a>.&nbsp; Watch the below video for more tips.
 
 * To remove the back, hold base of crab with one hand, place thumb under shell at mid-point, and pull off the shell.
 * The leaf-like gills are now exposed. Gently scrape them away with thumb or spoon edge.
