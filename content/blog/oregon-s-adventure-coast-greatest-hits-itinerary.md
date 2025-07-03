@@ -1,58 +1,57 @@
 ---
+_schema: default
 title: Oregon’s Adventure Coast “Greatest Hits” Itinerary
-date: 2022-10-31T04:00:00+00:00
-description: Keep reading for an itinerary featuring some of our “Greatest Hits” on
-  Oregon’s Adventure Coast that every first-time (or second, third, fourth time) visitor
-  should experience!
-image: "/img/Oregon Dunes ATV OVA blog-695x322.jpg"
+draft: true
+date: 2022-10-31T04:00:00Z
+description: >-
+  Keep reading for an itinerary featuring some of our “Greatest Hits” on
+  Oregon’s Adventure Coast that every first-time (or second, third, fourth time)
+  visitor should experience!
+image: /img/Oregon Dunes ATV OVA blog-695x322.jpg
 tags:
-- Oregon Dunes
-- 'Oregon Dunes National Recreation Area '
-- Itinerary
-- First Time Oregon Coast Visitor
-- Oregon
-- Oregon's Adventure Coast
-- Coos Bay
-- North Bend Oregon
-- Charleston Oregon
-- Clausen Oysters
-- Coos Bay Visitor Information Center
-- Mill Casino Hotel & RV Park
-- Oregon Coast Casino
-- Three Rivers Casino
-- Cape Arago Hwy Loop
-- Charleston Marine Life Center,
-- Fishing
-- Oregon Coast Fishing
-- Crabbing
-- Oregon Coast Crabbing
-- Clamming
-- Oregon Coast Clamming
-- 'Sunset Bay State Park '
-- 'Shore Acres State Park '
-- Cape Arago State Park
-- Davey Jones' Locker
-- " charter fishing "
-- Coos History Museum
-- " 7 Devils Brewery"
+  - Oregon Dunes
+  - 'Oregon Dunes National Recreation Area '
+  - Itinerary
+  - First Time Oregon Coast Visitor
+  - Oregon
+  - Oregon's Adventure Coast
+  - Coos Bay
+  - North Bend Oregon
+  - Charleston Oregon
+  - Clausen Oysters
+  - Coos Bay Visitor Information Center
+  - Mill Casino Hotel & RV Park
+  - Oregon Coast Casino
+  - Three Rivers Casino
+  - Cape Arago Hwy Loop
+  - Charleston Marine Life Center,
+  - Fishing
+  - Oregon Coast Fishing
+  - Crabbing
+  - Oregon Coast Crabbing
+  - Clamming
+  - Oregon Coast Clamming
+  - 'Sunset Bay State Park '
+  - 'Shore Acres State Park '
+  - Cape Arago State Park
+  - Davey Jones' Locker
+  - ' charter fishing '
+  - Coos History Museum
+  - ' 7 Devils Brewery'
 categories:
-- Itineraries
+  - Itineraries
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
 When [Everyday Northwest](https://www.facebook.com/everydaynorthwest/?__tn__=-UC) recently featured some of the fantastic adventures waiting for travelers on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, this got us thinking about an itinerary for first-time visitors!
 
 {{< spacer 50 >}}
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Feverydaynorthwest%2Fvideos%2F799309454623086%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Feverydaynorthwest%2Fvideos%2F799309454623086%2F&amp;show_text=true&amp;width=560&amp;t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 {{< spacer 50 >}}
 
@@ -78,7 +77,7 @@ Before checking into your hotel, be sure to stop in the [Coos Bay Visitor Inform
 
 Start your morning with a hotel breakfast or a delicious and hearty meal at the [Pancake Mill Restaurant and Pie Shoppe](http://www.pancakemill.com/). Depending on the day, there may be a wait - but it’s worth it! After breakfast, hop in the car and head towards Charleston, our quaint working fishing village, for a scenic drive like none other along the [Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/).
 
-Along the 8 mile drive, you’ll find a trifecta of State Parks, including [Shore Acres State Park](http://www.oregonsadventurecoast.com/listings/shore-acres-state-park/) (Oregon Coast’s crown jewel), [Sunset Bay State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70) and [Cape Arago State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=66). Here are some of our favorite ways to explore the loop:
+Along the 8 mile drive, you’ll find a trifecta of State Parks, including [Shore Acres State Park](http://www.oregonsadventurecoast.com/listings/shore-acres-state-park/) (Oregon Coast’s crown jewel), [Sunset Bay State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=70) and [Cape Arago State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=66). Here are some of our favorite ways to explore the loop:
 
 * Take a walk and watch the surfers on Bastendorff Beach.
 * Search for natural treasures in tidepools in the protected beach in Sunset Bay State Park.
@@ -96,11 +95,11 @@ After a satisfying morning of adventure and wildlife viewing, grab a quick and d
 
 Next up, head to [Davey Jones' Locker](https://www.facebook.com/Davey-Jones-Locker-275312836004/) to gear up for an afternoon of [fishing](https://oregonsadventurecoast.netlify.app/fishing/), [crabbing](https://oregonsadventurecoast.netlify.app/crabbing-clamming/) or [clamming](https://oregonsadventurecoast.netlify.app/clamming/). Our local bait and tackle stores are a local treasure trove of fishing, clamming and crabbing tips and a great place to rent a crab ring. If [charter fishing](https://www.oregonsadventurecoast.com/tour-guides-and-charters/) is more your speed, there are several businesses more than willing to help you make the most of your Oregon’s Adventure Coast experience!
 
-After a fun day along our beautiful, rugged coast, head out for a relaxing, delicious meal from one of our [local restaurants](http://oregonsadventurecoast.com/dining) (too many to list). There are many establishments that have stood the test of time, like [Shark Bites in Coos Bay](http://www.sharkbites.cafe/home), [Hilltop House Restaurant and Lounge](https://hilltophouserestaurant.com/), [Blue Heron Bistro](http://www.blueheronbistro.net/),[ Captain’s Choice Family Fish House ](http://www.captainschoicefishhouse.com/)and many more. After dinner, head out for a beer and fun night of bowling at [The Back Alley Pub & Grill](https://northbendlanes.com/Back-Alley-Pub-Grill) at [North Bend Lanes,](https://northbendlanes.com/) or live music at [Liberty Pub](https://www.thelibpub.com/) (on select nights only). A trip to [7 Devils Brewing Co](http://www.7devilsbrewery.com/#/) in Coos Bay, recently featured in [Everyday Northwest](https://www.facebook.com/everydaynorthwest/?__tn__=-UC-R), will not disappoint! See video below
+After a fun day along our beautiful, rugged coast, head out for a relaxing, delicious meal from one of our [local restaurants](http://oregonsadventurecoast.com/dining) (too many to list). There are many establishments that have stood the test of time, like [Shark Bites in Coos Bay](http://www.sharkbites.cafe/home), [Hilltop House Restaurant and Lounge](https://hilltophouserestaurant.com/), [Blue Heron Bistro](http://www.blueheronbistro.net/),[Captain’s Choice Family Fish House](http://www.captainschoicefishhouse.com/)and many more. After dinner, head out for a beer and fun night of bowling at [The Back Alley Pub & Grill](https://northbendlanes.com/Back-Alley-Pub-Grill) at [North Bend Lanes,](https://northbendlanes.com/) or live music at [Liberty Pub](https://www.thelibpub.com/) (on select nights only). A trip to [7 Devils Brewing Co](http://www.7devilsbrewery.com/#/) in Coos Bay, recently featured in [Everyday Northwest](https://www.facebook.com/everydaynorthwest/?__tn__=-UC-R), will not disappoint! See video below
 
 {{< spacer 50 >}}
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Feverydaynorthwest%2Fvideos%2F481300347110316%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Feverydaynorthwest%2Fvideos%2F481300347110316%2F&amp;show_text=true&amp;width=560&amp;t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 {{< spacer 50 >}}
 

@@ -1,38 +1,37 @@
 ---
+_schema: default
 title: 'Oregon Whale Watch Week Returns to Oregon’s Adventure Coast!  '
-date: 2022-12-07T05:00:00+00:00
-description: Oregon Winter Whale Watch Week Returns December 28, 2022 – Sunday, January
-  1, 2023!
-image: "/img/_oregon-whale-watch-week-blog-695x322-jpg.jpg"
+draft: true
+date: 2022-12-07T05:00:00Z
+description: >-
+  Oregon Winter Whale Watch Week Returns December 28, 2022 – Sunday, January 1,
+  2023!
+image: /img/_oregon-whale-watch-week-blog-695x322-jpg.jpg
 tags:
-- gray whales
-- whale watching
-- Whales Spoken Here
-- Shore Acres State Park
-- 'Oregon Coast '
-- 'Oregon Coast Whales '
-- Pacific Ocean
-- Migrating Whales
-- Coos Bay
-- North Bend Oregon
-- Charleston Oregon
+  - gray whales
+  - whale watching
+  - Whales Spoken Here
+  - Shore Acres State Park
+  - 'Oregon Coast '
+  - 'Oregon Coast Whales '
+  - Pacific Ocean
+  - Migrating Whales
+  - Coos Bay
+  - North Bend Oregon
+  - Charleston Oregon
 categories:
-- State Parks & National Lands
-- Oregon's Adventure Coast News & Info
+  - State Parks & National Lands
+  - Oregon's Adventure Coast News & Info
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
 **Oregon Winter Whale Watch Week Returns December 28, 2022 – Sunday, January 1, 2023**
 
-We have great news for whale watchers: after a two year hiatus, Oregon Whale Watch Week is back! Thanks to the knowledgeable volunteers from the[ Whale Watching Spoken Here®](https://oregonstateparks.org/index.cfm?do=thingstodo.dsp_whalewatching) program, Oregon Coast visitors can learn more about the mysterious and awe-inspiring gray whales and their annual migration in [designated Whale Watching Spoken Here® sites](https://www.google.com/maps/d/viewer?hl=en&t=m&msa=0&z=7&source=embed&ie=UTF8&mid=zweC21xpv7NQ.krK2xC0y40W4) (like [Shore Acres State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/)) between **10am and 1pm December 28, 2022 – Sunday, January 1, 2023.**
+We have great news for whale watchers: after a two year hiatus, Oregon Whale Watch Week is back! Thanks to the knowledgeable volunteers from the[Whale Watching Spoken Here®](https://oregonstateparks.org/index.cfm?do=thingstodo.dsp_whalewatching) program, Oregon Coast visitors can learn more about the mysterious and awe-inspiring gray whales and their annual migration in [designated Whale Watching Spoken Here® sites](https://www.google.com/maps/d/viewer?hl=en&amp;t=m&amp;msa=0&amp;z=7&amp;source=embed&amp;ie=UTF8&amp;mid=zweC21xpv7NQ.krK2xC0y40W4) (like [Shore Acres State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/)) between **10am and 1pm December 28, 2022 – Sunday, January 1, 2023.**
 
 Bring your binoculars, you just may witness the beautiful sight of gray whales blowing, breaching and fluking as they pass by, and don't forget to dress in layers and bring a waterproof coat!
 
@@ -52,7 +51,7 @@ Did you know that gray whales travel up to 12,000 miles (round trip) on their jo
 * The Oregon coast produces lots of phytoplankton (small marine plants) eaten by zooplankton (small marine animals), including bottom dwelling amphipods and mysid shrimp – primary food of the Gray Whales.
 * The only natural predators of Gray Whales are Orcas (killer whales) and large sharks. Even though some countries are still whaling, the biggest threat to the whales is pollution in the oceans.
 
-Click here for [local lodging options,](https://www.oregonsadventurecoast.com/lodging/) and be sure to download the Oregon Parks and Recreation Department [whale watching brochure](https://oregonstateparks.org/index.cfm?do=main.loadFile&load=_siteFiles%2Fpublications%2F45512_Whale_Watching_Brochure%28web%29032315.pdf) to learn more!
+Click here for [local lodging options,](https://www.oregonsadventurecoast.com/lodging/) and be sure to download the Oregon Parks and Recreation Department [whale watching brochure](https://oregonstateparks.org/index.cfm?do=main.loadFile&amp;load=_siteFiles%2Fpublications%2F45512_Whale_Watching_Brochure%28web%29032315.pdf) to learn more!
 
 Here are some other adventures and trip ideas to consider during your visit to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston.
 
