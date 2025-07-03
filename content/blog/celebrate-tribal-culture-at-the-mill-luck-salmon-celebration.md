@@ -1,41 +1,41 @@
 ---
+_schema: default
 title: 'Celebrate Tribal Culture at the Mill-Luck Salmon Celebration! '
-date: 2022-08-30T04:00:00.000+00:00
-description: 'Annual outdoor festival celebrating the culture and traditions of the
-  Coquille Indian Tribe and other Pacific Northwest Tribes, will be back on Oregon’s
-  Adventure Coast: Coos Bay, North Bend, Charleston September 10-11, 2022'
-image: "/img/celebrate-tribal-culture-at-the-mill-luck-salmon-celebration-blog-695x322-jpg.jpg"
+draft: true
+date: 2022-08-30T04:00:00Z
+description: >-
+  Annual outdoor festival celebrating the culture and traditions of the Coquille
+  Indian Tribe and other Pacific Northwest Tribes, will be back on Oregon’s
+  Adventure Coast: Coos Bay, North Bend, Charleston September 10-11, 2022
+image: >-
+  /img/celebrate-tribal-culture-at-the-mill-luck-salmon-celebration-blog-695x322-jpg.jpg
 tags:
-- Mill Luck Salmon Celebration
-- Tribal Culture
-- North Bend Oregon
-- Coos Bay
-- Charleston Oregon
-- outdoor festival
-- Coquille Indian Tribe
-- Pacific Northwest Tribes
-- Indigenous people
-- 'Pacific Northwest '
-- 'Salmon Bake Dinner '
-- Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians
-- Coos County
-- 'Oregon''s South Coast '
-- Travel Oregon
-- 'Tribal Nations '
+  - Mill Luck Salmon Celebration
+  - Tribal Culture
+  - North Bend Oregon
+  - Coos Bay
+  - Charleston Oregon
+  - outdoor festival
+  - Coquille Indian Tribe
+  - Pacific Northwest Tribes
+  - Indigenous people
+  - 'Pacific Northwest '
+  - 'Salmon Bake Dinner '
+  - Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians
+  - Coos County
+  - 'Oregon''s South Coast '
+  - Travel Oregon
+  - 'Tribal Nations '
 categories:
-- Special Events & Holidays
+  - Special Events & Holidays
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: true
-warning_copy: ''
-
 ---
-**_Annual outdoor festival celebrating the culture and traditions of the Coquille Indian Tribe and other Pacific Northwest Tribes, will be back on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston September 10-11, 2022_**
+***Annual outdoor festival celebrating the culture and traditions of the Coquille Indian Tribe and other Pacific Northwest Tribes, will be back on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston September 10-11, 2022***
 
 ![](/img/our-area-coquilles.jpg)
 
@@ -45,9 +45,9 @@ Travel Oregon recently took the important step of publishing a new guide to Trib
 
 #### **About the Coquille Indian Tribe**
 
-_“Our ancestors flourished among the forests, rivers, meadows and beaches of southwestern Oregon. The land and water offered endless life-sustaining resources, and our people adapted ingeniously to this waterside paradise.”_ - Coquille Indian Tribe
+*“Our ancestors flourished among the forests, rivers, meadows and beaches of southwestern Oregon. The land and water offered endless life-sustaining resources, and our people adapted ingeniously to this waterside paradise.”* - Coquille Indian Tribe
 
-* Ancestors of the Coquille Indian Tribe spoke multiple languages. Those living near Bandon and along Coos Bay’s South Slough spoke[ Miluk](https://en.wikipedia.org/wiki/Miluk_language), while those farther south and east spoke an [Athabaskan dialect](https://en.wikipedia.org/wiki/Athabaskan_languages#).
+* Ancestors of the Coquille Indian Tribe spoke multiple languages. Those living near Bandon and along Coos Bay’s South Slough spoke[Miluk](https://en.wikipedia.org/wiki/Miluk_language), while those farther south and east spoke an [Athabaskan dialect](https://en.wikipedia.org/wiki/Athabaskan_languages#).
 * In 1989, Congress passed the Coquille Restoration Act, and the Tribe was once again recognized as a sovereign nation of Indian people. In 1996, the Coquille Tribe resumed stewardship of 5,410 acres, a fraction of their ancestral homeland.
 * Today the [Coquille Indian Tribe](http://www.coquilletribe.org) numbers nearly 1,200 people and controls about 10,000 acres of their ancestral homeland as sustainable forest.
 * The Coquille Indian Tribe is the Coos Bay area’s second-largest employer, active in hospitality, forestry, health care, construction and other ventures. The tribe’s growing network of enterprises provides $20 million a year in local salaries and benefits, and inject millions into the local economy.
@@ -56,7 +56,7 @@ _“Our ancestors flourished among the forests, rivers, meadows and beaches of s
 
 #### **About the Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians**
 
-_“A sense of abundance and gratitude defines the Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians, a cultural identity that springs from the richness of their ancestral homeland.”_ - [Travel Oregon](https://traveloregon.com/places-to-go/tribal-nations/confederated-tribes-of-coos-lower-umpqua-and-siuslaw-indians/)
+*“A sense of abundance and gratitude defines the Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians, a cultural identity that springs from the richness of their ancestral homeland.”* - [Travel Oregon](https://traveloregon.com/places-to-go/tribal-nations/confederated-tribes-of-coos-lower-umpqua-and-siuslaw-indians/)
 
 * For millennia, the miluk (Coos), hanis (Coos), shayuushtl’a (Siuslaw) and quuiich (Lower Umpqua) people thrived along the freshwater rivers and saltwater bays of what today is called the Central and South Coast of Oregon. Their historic territory extended some 2,500 square miles, from the wind-sculpted sand dunes along the Pacific to the ancient forests of the Coast Range.
 * The names of the three major rivers in our region, Coos, Umpqua and Siuslaw can be traced to the heritage of the Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians, as can many of their lakes.

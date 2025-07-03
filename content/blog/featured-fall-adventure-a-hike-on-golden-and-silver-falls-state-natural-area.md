@@ -1,22 +1,19 @@
 ---
+_schema: default
 title: 'Featured Fall Adventure: A Hike on Golden and Silver Falls State Natural Area'
-date: 2022-09-30T04:00:00+00:00
-description: 'Hiking Golden and Silver Falls State Natural Area, “a hidden gem” in
-  our region, is high on our list of outdoor favorites. Here are some tips to help
-  you make the most of your day! '
-image: "/img/Golden and Silver Falls blog695x322.jpg"
-tags: []
-categories: []
+draft: true
+date: 2022-09-30T04:00:00Z
+description: >-
+  Hiking Golden and Silver Falls State Natural Area, “a hidden gem” in our
+  region, is high on our list of outdoor favorites. Here are some tips to help
+  you make the most of your day!
+image: /img/Golden and Silver Falls blog695x322.jpg
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
 Summer may be over, but the need for fresh-air and adventure is year-round. Fortunately, there are plenty of outdoor activities that can be enjoyed well into the autumn months and beyond on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**! Hiking Golden and Silver Falls State Natural Area, “a hidden gem” in our region, is high on our list of outdoor favorites.
 
@@ -46,7 +43,7 @@ Golden and Silver Falls State Natural Area is the ideal place to unwind and reco
 
 A note about the drive up Hwy 241. Please be aware that the road leading up to the parking area for Golden & Silver Falls is sometimes only one lane and more dirt than pavement. Take the drive slowly to avoid potentially dangerous situations, including meeting other vehicles traveling in the opposite direction and rough traveling conditions. Believe us when we say, the drive up is part of the adventure! And well worth the effort.
 
-![](/img/girlfalls_dsc_0072.JPG)  
+![](/img/girlfalls_dsc_0072.JPG)<br>
 Check out the resources below for more information and directions to the Golden & Silver Falls State Park!
 
 [Golden and Silver Falls State Park - Oregon's Adventure Coast](https://www.oregonsadventurecoast.com/img/Golden-Silver-Falls-Directions.pdf)
@@ -57,6 +54,6 @@ Check out the resources below for more information and directions to the Golden 
 
 ![](/img/golden-silver-falls-map.jpg)
 
-There is an [adventure for everyone](https://www.oregonsadventurecoast.com/adventure) on Oregon’s Adventure Coast. Want more autumn adventure ideas? Research some itineraries or [trip ideas](https://www.oregonsadventurecoast.com/tripideas/) from Oregon’s Adventure Coast experts. Check [Oregon’s Adventure Coast Facebook ](https://www.facebook.com/OregonsAdventureCoast/)to source suggestions on the best spots to visit, eat, stay and explore. You can also find inspiration by following [@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/) & [Twitter](https://twitter.com/travelcoosbay?lang=en)!
+There is an [adventure for everyone](https://www.oregonsadventurecoast.com/adventure) on Oregon’s Adventure Coast. Want more autumn adventure ideas? Research some itineraries or [trip ideas](https://www.oregonsadventurecoast.com/tripideas/) from Oregon’s Adventure Coast experts. Check [Oregon’s Adventure Coast Facebook](https://www.facebook.com/OregonsAdventureCoast/)to source suggestions on the best spots to visit, eat, stay and explore. You can also find inspiration by following [@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/) & [Twitter](https://twitter.com/travelcoosbay?lang=en)!
 
-Request or download a [free visitors guide](https://www.oregonsadventurecoast.com/contact/#contactform) for inspiration and to help you discover the lay of the land. [Click here for directions](https://www.oregonsadventurecoast.com/travelers-info/) and other important travel tips, or [contact ](https://www.oregonsadventurecoast.com/contact/)one of our friendly volunteers at the Coos Bay Visitor Information Center on Oregon’s Adventure Coast and start planning your trip today!
+Request or download a [free visitors guide](https://www.oregonsadventurecoast.com/contact/#contactform) for inspiration and to help you discover the lay of the land. [Click here for directions](https://www.oregonsadventurecoast.com/travelers-info/) and other important travel tips, or [contact](https://www.oregonsadventurecoast.com/contact/)one of our friendly volunteers at the Coos Bay Visitor Information Center on Oregon’s Adventure Coast and start planning your trip today!
