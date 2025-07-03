@@ -36,23 +36,24 @@ date: '2019-02-10T00:00:00.000+00:00'
 * 2:00-3:00 PM I **Afternoon Music Cafe** - <a href="https://www.oregonsadventurecoast.com/event/annual-oregon-coast-music-festival/" target="_blank" rel="noopener">Oregon Coast Music Festival</a> live music event at the North Bend Library
 * 4:00-5:00 PM I **Kick-Off Celebration & Honored Citizen Awards** - Cake cutting & Awards at the North Bend Fire Department
 * 5:00-7:00 PM I **Sip N Stroll** - Sponsored by Ziply Fiber (21 + Over) starting at the Visitor Information Center
-* 7:00-9:00 PM I **Little Ole Opry on the Bay** - Country Opry at The Liberty Theatre
+* 7:00-9:00 PM I **Little Ole Opry on the Bay** - Country Opry at The Liberty Theatre - <a href="https://ci.ovationtix.com/36014/production/1230471" target="_blank" rel="noopener">Buy Tickets</a>
 * 7:30-9:30 PM I **After Stroll** - Sponsored by Midwest Coast Flooring - Featuring Rockipedia at Back Alley Pub & Grill
 
 #### &nbsp;Saturday, July 19
 
 * 8:00 AM-3:00 PM I **Show 'n Shine: Mustang & Ford Club** - Car show at North Bend Lanes
-* 8:00-10:00 AM I **July Jubilee Jaunt** - Sponsored by Juul Insurance - SK Run/Walk from the Boardwalk to Grant Circle
+* 8:00-10:00 AM I **July Jubilee Jaunt** - Sponsored by Juul Insurance - SK Run/Walk from the Boardwalk to Grant Circle - [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSeQP5JEhoFEaNi_0rZivaHQ44N8cH8CBFvNicHlVfIgd23GXw/viewform?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExTDV6U2xqMU9lUDlHWnFwcQEedlTwK9MJgVxMEezSDU4Csbe48HDg7zS-bOREc-R4fTl3eL2I8tNHHGhsbUk_aem_tj2C1Ob4GDV699oa9i3rZQ)
 * 10:00 AM-3:00 PM I **Disc Golf Tournament** At Windsor & Ferry Park Course
 * 10:00 AM-4:00 PM I **GAME ON!** Family Activities & South Coast Market At Pony Village Mall
-* 2:00 PM I **Hula Hoop Kid's Event** At North Bend Library
-* 7:00-9:00 PM I **Little Ole Opry on the Bay** - Country Opry at The Liberty Theatre
+* 11:00 AM - 1:00 PM I **FREE Kids Bowling!** (Ages 2-15) - North Bend Lanes
+* 2:00 PM I **Hula Hoop Spectacular** At North Bend Library - **Presenting Shanda Brown** with jaw-dropping hula hoop choreography and tricks!
+* 7:00-9:00 PM I **Little Ole Opry on the Bay** - Country Opry at The Liberty Theatre - <a href="https://ci.ovationtix.com/36014/production/1230471" target="_blank" rel="noopener">Buy Tickets</a>
 
 #### Sunday, July 20
 
 * 10:00 AM-12:00 PM I **Historic Walking Tour** - Starting from Hotel North Bend
 * 11:00 AM-1:00 PM I **Softball Game Fundraiser** - North Bend -vs- Coos Bay at Clyde Allen Field
-* 2:00-4:00 PM I **Little Ole Opry on the Bay** - Country Opry at The Liberty Theatre
+* 2:00-4:00 PM I **Little Ole Opry on the Bay** - Country Opry at The Liberty Theatre - <a href="https://ci.ovationtix.com/36014/production/1230471" target="_blank" rel="noopener">Buy Tickets</a>
 
 &nbsp;
 
