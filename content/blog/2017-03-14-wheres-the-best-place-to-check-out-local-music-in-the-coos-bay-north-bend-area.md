@@ -1,35 +1,38 @@
 ---
-title: Seven Destinations to Check Out Live Local Music in Coos Bay ~ North Bend ~
+_schema: default
+title: >-
+  Seven Destinations to Check Out Live Local Music in Coos Bay ~ North Bend ~
   Charleston
-date: 2019-12-20T05:00:00.000+00:00
-description: With a thriving and growing restaurant and arts scene, it’s natural for
-  our eclectic music culture to grow as well. The Coos Bay/North Bend region already
-  hosts a fantastic selection of fun annual festivals featuring a range of musical
-  genres (i.e. Oregon Coast Music Festival, Music on the Bay, BBQ, Blues and Brews
-  by the Bay and many more), so we’re happy to see that our local music scene continues
-  to grow as well.
+draft: true
+date: 2019-12-20T05:00:00Z
+description: >-
+  With a thriving and growing restaurant and arts scene, it’s natural for our
+  eclectic music culture to grow as well. The Coos Bay/North Bend region already
+  hosts a fantastic selection of fun annual festivals featuring a range of
+  musical genres (i.e. Oregon Coast Music Festival, Music on the Bay, BBQ, Blues
+  and Brews by the Bay and many more), so we’re happy to see that our local
+  music scene continues to grow as well.
+image: /img/Live Music Coos Bay.jpg
 tags:
-- Coos Bay Brew Pub
-- Coos May Music Venue
-- local bands
-- Local Music
-- North Bend Music Venue
-old_categories:
-- Entertainment & Nightlife
-image: "/img/Live Music Coos Bay.jpg"
-seo:
-  image: "/img/Live Music Coos Bay.jpg"
-  imgalt: LIve Music in Coos Bay
-warning: true
+  - Coos Bay Brew Pub
+  - Coos May Music Venue
+  - local bands
+  - Local Music
+  - North Bend Music Venue
 categories:
-- Shopping & Entertainment
-
+  - Shopping & Entertainment
+seo:
+  imgalt: LIve Music in Coos Bay
+  image: /img/Live Music Coos Bay.jpg
+warning: true
+old_categories:
+  - Entertainment & Nightlife
 ---
 Oregon's Adventure Coast already has a thriving restaurant and arts scene, so it's no wonder that our music culture is also growing.
 
-The Coos Bay\~North Bend\~Charleston area already hosts a fantastic selection of fantastic annual festivals featuring a range of musical genres like the [South Coast Clambake Music Festival ](https://www.oregonsadventurecoast.com/event/32nd-south-coast-clambake-music-festival/) (coming up March 13th, 2020!), the [Oregon Coast Music Festival](https://www.oregoncoastmusic.org/calendar-events/) (July), and a series of free concerts that take places throughout the summer in various destinations.
+The Coos Bay~North Bend~Charleston area already hosts a fantastic selection of fantastic annual festivals featuring a range of musical genres like the [South Coast Clambake Music Festival](https://www.oregonsadventurecoast.com/event/32nd-south-coast-clambake-music-festival/) (coming up March 13th, 2020!), the [Oregon Coast Music Festival](https://www.oregoncoastmusic.org/calendar-events/) (July), and a series of free concerts that take places throughout the summer in various destinations.
 
-Our area also boasts multiple entertainment venues like [The Liberty Theatre ](http://thelibertytheatre.org/)(home of Little Theatre by the Bay), the beautifully restored historic [Egyptian Theatre ](https://egyptiantheatreoregon.com/)where visitors can frequently find great local music and entertainment options.
+Our area also boasts multiple entertainment venues like [The Liberty Theatre](http://thelibertytheatre.org/)(home of Little Theatre by the Bay), the beautifully restored historic [Egyptian Theatre](https://egyptiantheatreoregon.com/)where visitors can frequently find great local music and entertainment options.
 
 But it's inside our rustic beloved local pub where one can find a treasure trove of hidden musical gems! If you are looking for hipster listening rooms or glitzy pop venues, you’re just not going to find it here. However, if you are seeking a down-to-earth Oregon Coast vibe, we have some recommendations for you. Here is what our locals say are the best local places to support up and coming bands and musicians.
 
@@ -41,7 +44,7 @@ Located in the heart of downtown Coos Bay, Coney Station is a local favorite tha
 
 ## [7 Devils Brewery](https://www.7devilsbrewery.com/events.html)
 
-Located in downtown Coos Bay, this local brewpub has quickly become a favorite gathering place. It’s a great place to take in tunes from local bands like the Dale Inskeep Band, Che’s Lounge and Bay City Swing, and even Portland-based music like Scratchdog String Band (Americana) and Cascade Crescendo (Bluegrass). Guests enjoy their seasonal menu selections and, of course, plenty of craft beer. If you stop in on a Monday night, stick around for Pub Trivia!  Located at 247 S 2nd St, Coos Bay, OR 97420
+Located in downtown Coos Bay, this local brewpub has quickly become a favorite gathering place. It’s a great place to take in tunes from local bands like the Dale Inskeep Band, Che’s Lounge and Bay City Swing, and even Portland-based music like Scratchdog String Band (Americana) and Cascade Crescendo (Bluegrass). Guests enjoy their seasonal menu selections and, of course, plenty of craft beer. If you stop in on a Monday night, stick around for Pub Trivia! &nbsp;Located at 247 S 2nd St, Coos Bay, OR 97420
 
 ## [Gooney’s Sports Bar](http://www.gooneyssportsbar.com/)
 
@@ -53,7 +56,7 @@ The Blue Moon has it all. Their convenient and central location in Coos Bay, Ore
 
 ## [Warehouse 101](https://www.kokwelresorts.com/coos-bay/)
 
-This well known North Bend establishment is part nightclub, part sports bar. Located inside [The Mill Casino](https://www.kokwelresorts.com/coos-bay/), _Warehouse 101_ is a great place to catch live bands every Friday and Saturday night. Their massive widescreen TVs and vast selection of craft beer and wings also make it a fun place to catch the game (Tip- The Mill Casino now offers Sports Betting right outside Warehouse 101). And if that’s not enough, they offer Trivia Night every Tuesday evening, and hilarious stand-up comedy each Wednesday night!
+This well known North Bend establishment is part nightclub, part sports bar. Located inside [The Mill Casino](https://www.kokwelresorts.com/coos-bay/), *Warehouse 101* is a great place to catch live bands every Friday and Saturday night. Their massive widescreen TVs and vast selection of craft beer and wings also make it a fun place to catch the game (Tip- The Mill Casino now offers Sports Betting right outside Warehouse 101). And if that’s not enough, they offer Trivia Night every Tuesday evening, and hilarious stand-up comedy each Wednesday night!
 
 ## [Liberty Pub](https://www.facebook.com/TheLibertyPub/)
 

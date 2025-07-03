@@ -1,45 +1,44 @@
 ---
-title: Experience something new on the Southern Oregon Coast during the Live Culture
+_schema: default
+title: >-
+  Experience something new on the Southern Oregon Coast during the Live Culture
   Coast
-date: 2019-10-02T04:00:00.000+00:00
-description: Live Culture Coast, beginning October 18th, celebrates the wonders of
-  Oregon's South Coast.  Residents and visitors can register for over 90 hand-on experiences
-  focused on art and culture, food and farms, and people and places all along the
-  Oregon Southern Coast.
-image: "/img/live-culture-logo-header.jpg"
+draft: true
+date: 2019-10-02T04:00:00Z
+description: >-
+  Live Culture Coast, beginning October 18th, celebrates the wonders of Oregon's
+  South Coast.  Residents and visitors can register for over 90 hand-on
+  experiences focused on art and culture, food and farms, and people and places
+  all along the Oregon Southern Coast.
+image: /img/live-culture-logo-header.jpg
 tags:
-- 7 Devils Brewery
-- Oregon's South Coast
-- Live Culture Coast
-- North Bend Lanes
-- Bayside Coffee
-- Coos Head Food Co-Op
-- " Stillwagon Distillery"
-- Cape Arago State Park
-- yoga
-- hiking
-- culture
-- Umpqua River Lighthouse
-- South Slough Reserve
-- The Egyptian Theatre
-- The Biggest Little Farm
-old_categories: []
+  - 7 Devils Brewery
+  - Oregon's South Coast
+  - Live Culture Coast
+  - North Bend Lanes
+  - Bayside Coffee
+  - Coos Head Food Co-Op
+  - ' Stillwagon Distillery'
+  - Cape Arago State Park
+  - yoga
+  - hiking
+  - culture
+  - Umpqua River Lighthouse
+  - South Slough Reserve
+  - The Egyptian Theatre
+  - The Biggest Little Farm
+categories:
+  - Arts & Culture
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: true
-warning_copy: ''
-categories:
-- Arts & Culture
-
 ---
 The first-ever [Live Culture Coast](http://www.liveculturecoast.org), a unique and diverse celebration of culture, food, drink, nature, art, people, and places on Oregon's South Coast is happening in just over 2 weeks! This nine-day event, beginning October 18th and ending October 27th, celebrates the wonders of the 135 beautiful miles from Reedsport to Bookings.  Residents and visitors can register for over 90 hand-on experiences focused on art and culture, food and farms, and people and places all along the Oregon Southern Coast.
 
-If you can only spend a few days at the festival, we’d love to have you here on Oregon's Adventure Coast from October 18-22 to experience our region in a completely new way. Event registration is available online and will fill up quickly, so plan early. We also [recommend booking accommodations now](https://www.oregonsadventurecoast.com/lodging/) if you have not already done so. 
+If you can only spend a few days at the festival, we’d love to have you here on Oregon's Adventure Coast from October 18-22 to experience our region in a completely new way. Event registration is available online and will fill up quickly, so plan early. We also [recommend booking accommodations now](https://www.oregonsadventurecoast.com/lodging/) if you have not already done so.
 
 Here's a summary of events happening in the towns of Coos Bay, North Bend and Charleston. [Please click here](https://www.liveculturecoast.org/new-events) for details and the full schedule.
 
@@ -64,7 +63,7 @@ Tour [Stillwagon Distillery](http://stillwagondistillery.com/) and learn about i
 "Hop-on-over" (get it?) to the [7 Devils Brewing](https://www.7devilsbrewery.com/)for an effervescent afternoon with 7 Devils brewer Carmen Matthews, CEO Annie Pollard, and the whole brew crew. After enjoying a brief history of beer brewing and fermented drinks, you’ll taste cask ales, sip probiotic sodas, and learn about the fermented drinks you can make at home. 2:00 PM-4:00 PM
 
 [MOVIE NIGHT AT THE EGYPTIAN (Coos Bay)](https://www.liveculturecoast.org/new-events/movie-night-at-the-egyptian)
-Head over to one of Coos Bay's most famous landmarks, [The Egyptian Theatre ](https://egyptiantheatreoregon.com/)to watch [The Biggest Little Farm](https://www.biggestlittlefarmmovie.com/), which chronicles a couple's 8-year quest to bring 200 acres of barren farmland into harmony with nature.
+Head over to one of Coos Bay's most famous landmarks, [The Egyptian Theatre](https://egyptiantheatreoregon.com/)to watch [The Biggest Little Farm](https://www.biggestlittlefarmmovie.com/), which chronicles a couple's 8-year quest to bring 200 acres of barren farmland into harmony with nature.
 
 #### Tuesday, October 22, 2019
 

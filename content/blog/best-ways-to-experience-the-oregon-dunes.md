@@ -1,39 +1,43 @@
 ---
+_schema: default
 title: 'Best Ways to Experience the Oregon Dunes '
-date: 2019-05-08T21:00:00.000-07:00
-description: 'Whether you are seeking an off-roading adventure on a quad or ATV, a
-  good hike, natural photo opportunities, camping, or simply seeking some peace and
-  quiet- you will find it somewhere in the Oregon Dunes National Recreation Area. '
-image: "/img/Oregon Dunesblog-695x322.jpg"
+draft: true
+date: 2019-05-08T21:00:00-07:00
+description: >-
+  Whether you are seeking an off-roading adventure on a quad or ATV, a good
+  hike, natural photo opportunities, camping, or simply seeking some peace and
+  quiet- you will find it somewhere in the Oregon Dunes National Recreation
+  Area.
+image: /img/Oregon Dunesblog-695x322.jpg
 tags:
-- Oregon Dunes
-- ATV Rental
-- Camping
-- Hiking
-- Dunes
-- Spinreel
-- Oregon Dunes National Recreation Area
-old_categories:
-- Oregon Dunes
+  - Oregon Dunes
+  - ATV Rental
+  - Camping
+  - Hiking
+  - Dunes
+  - Spinreel
+  - Oregon Dunes National Recreation Area
 categories:
-- Outdoor Adventures
-
+  - Outdoor Adventures
+warning: false
+old_categories:
+  - Oregon Dunes
 ---
 There's lots to love about Oregon's Adventure Coast, but some would say that the Oregon Dunes National Recreation Area, the largest expanse of coastal dunes in North America, is what truly sets us apart from other travel destinations.
 
 Whether you are seeking an off-roading adventure on a quad or ATV, a good hike, natural photo opportunities, camping, or simply seeking some peace and quiet- you will find it somewhere in the 32,186 acres of dunes, forest, streams and lakes.
 
-![](/img/Oregon Dunes ATV OVA blog-695x322.jpg)
+!\[\](/img/Oregon Dunes ATV OVA blog-695x322.jpg)
 
 “Just the massiveness of this area is worth the stop,” says a visitor on TripAdvisor. “Just going there to sit in the sand and reflect on the beauty and the music that the ocean offers. The sunsets are breathtaking and it just gives you a chance to get away from all the hustle, noise, devices and crazy that our current lives offer. What an experience.”
 
 Even travel journalist, Rick Dancer, had this to say on [ExplOregon The Back Stories:](https://www.facebook.com/ExplOregon-The-Back-Stories-110944429810670/)
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F110944429810670%2Fvideos%2F286834055530097%2F&show_text=1&width=560" width="560" height="546" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F110944429810670%2Fvideos%2F286834055530097%2F&amp;show_text=1&amp;width=560" width="560" height="546" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
 
-![](/img/Oregon Dunes Recreational Park blog-695x322.jpg)
+!\[\](/img/Oregon Dunes Recreational Park blog-695x322.jpg)
 
-![](/img/oregon dunes atv blog-695x322.jpg)Here are some recommended points of interest to help you get the full experience of the beautiful Oregon Dunes and build memories that last a lifetime:
+!\[\](/img/oregon dunes atv blog-695x322.jpg)Here are some recommended points of interest to help you get the full experience of the beautiful Oregon Dunes and build memories that last a lifetime:
 
 ### WHERE TO BEGIN
 
@@ -43,9 +47,9 @@ Oregon Dunes National Recreation Area Visitor Center (in nearby Reedsport, Orego
 
 You’ll find the largest riding area at the Oregon Dunes between Spinreel Campground and Horsfall Road, just a few miles north of North Bend and Coos Bay. Here are some local businesses that have been recommended for ATV/UTV, Sand Board & Sled Rentals and tours.
 
-[Spinreel Dune Buggy & ATV Rentals](https://www.ridetheoregondunes.com/)- North Bend, OR
+[Spinreel Dune Buggy & ATV Rentals](https://www.ridetheoregondunes.com/)\- North Bend, OR
 
-[Doon Bugs](http://www.oregondunebugrentals.com/)- North Bend, OR
+[Doon Bugs](http://www.oregondunebugrentals.com/)\- North Bend, OR
 
 [Steve’s ATV Rental-](https://stevesatvrentals.com/) North Bend, OR
 
@@ -76,4 +80,4 @@ Located south of Lakeside, Spinreel Campground offers fishing, boating, horsebac
 
 Wild Mare Horse Campground- North Bend, OR Located in the southwest corner of the Oregon Dunes National Recreation Area, provides 12 campsites with fire pits and tables. Each camp site has a horse corral! [www.recreation.gov/camping](https://www.recreation.gov/camping/campgrounds/232184)
 
-For more tips on how to get the most out of your Oregon Dunes Adventure, please visit these resources: [oregonsadventurecoast.com/untamed-dunes ](https://oregonsadventurecoast.com/untamed-dunes/ )[www.fs.usda.gov ](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42465)[www.stateparks.com](https://www.stateparks.com/oregon_dunes_national_recreation_area_in_oregon.html)
+For more tips on how to get the most out of your Oregon Dunes Adventure, please visit these resources: [oregonsadventurecoast.com/untamed-dunes](https://oregonsadventurecoast.com/untamed-dunes/)[www.fs.usda.gov](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42465)[www.stateparks.com](https://www.stateparks.com/oregon_dunes_national_recreation_area_in_oregon.html)
