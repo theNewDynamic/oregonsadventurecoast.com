@@ -1,20 +1,18 @@
 ---
+_schema: default
 title: Charleston Marine Life Center is a Hidden Gem
-date: 2019-03-20T21:00:00.000-07:00
-description: 'One of our most prized hidden gems is the Charleston Marine Life Center,
-  part of the OIMB - The Oregon Institute of Marine Biology. From the outside, you''d
-  never know that a wealth of knowledge about the Oregon Coast and it''s mysterious
-  ocean life is available to all. It''s nearly impossible to visit the exhibits and
-  not learn something new.
-
-'
-image: "/img/Charleston Marine Life Center blog-695x322.jpg"
-tags: []
-old_categories: []
-warning: true
+draft: true
+date: 2019-03-20T21:00:00-07:00
+description: >-
+  One of our most prized hidden gems is the Charleston Marine Life Center, part
+  of the OIMB - The Oregon Institute of Marine Biology. From the outside, you'd
+  never know that a wealth of knowledge about the Oregon Coast and it's
+  mysterious ocean life is available to all. It's nearly impossible to visit the
+  exhibits and not learn something new.
+image: /img/Charleston Marine Life Center blog-695x322.jpg
 categories:
-- Local Spotlight
-
+  - Local Spotlight
+warning: true
 ---
 The Pacific Ocean is filled with a vibrant array of marine life and rich ecosystems. Those of us who live here or are visiting Oregon's South Coast are very fortunate to have such extraordinary access to these precious natural habitats and curiosities. It's no wonder this area is an epicenter for everyone from marine biologists to the naturally curious.
 
@@ -26,17 +24,17 @@ The 6,000-square-foot marine center was recently described by one visitor as "A 
 
 Much of the success of the Charleston Marine Life Center should be credited to amazing work done by its volunteers and a dedicated staff led by Trish Mace, the former Manager of Ocean Education at the Smithsonian's National Museum of Natural History. Read what other visitors have been saying:
 
-> "This marine centre was highly recommended in our travel magazine. We paid $4 each (AAA rate) and spent about an hour touring both floors. The knowledgeable volunteers answered our questions and provided us with plenty of additional information. The starfish exhibit was great. The shell display upstairs is impressive. Take time to read all the informational boards. The whale skeletons hanging from the central ceiling were interesting. This is a great place to learn more about the local sea creatures." **- Google Review, March 2019**
+> "This marine centre was highly recommended in our travel magazine. We paid $4 each (AAA rate) and spent about an hour touring both floors. The knowledgeable volunteers answered our questions and provided us with plenty of additional information. The starfish exhibit was great. The shell display upstairs is impressive. Take time to read all the informational boards. The whale skeletons hanging from the central ceiling were interesting. This is a great place to learn more about the local sea creatures." **\- Google Review, March 2019**
 >
-> "This Marine Life Center is part museum, part small aquarium. It is right on the marina overlooking the water. There are live animals in tanks and lots of skeletons and preserved specimens. The exhibits include touching various aquatic animals and looking at specimens under microscopes. It is small and inexpensive but young kids have fun and learn about what is in the water outside the windows." **--TripAdvisor, October 2018**
+> "This Marine Life Center is part museum, part small aquarium. It is right on the marina overlooking the water. There are live animals in tanks and lots of skeletons and preserved specimens. The exhibits include touching various aquatic animals and looking at specimens under microscopes. It is small and inexpensive but young kids have fun and learn about what is in the water outside the windows." **\--TripAdvisor, October 2018**
 >
-> This is a little gem of an aquarium. The displays are informative, very understandable and well done. There is something interesting for every age level, and we all learned some new things about Oregon marine life. The volunteers there are friendly and knowledgeable, too. Well worth the small price of admission! **- TripAdvisor June 2018**
+> This is a little gem of an aquarium. The displays are informative, very understandable and well done. There is something interesting for every age level, and we all learned some new things about Oregon marine life. The volunteers there are friendly and knowledgeable, too. Well worth the small price of admission! **\- TripAdvisor June 2018**
 >
-> "Fantastic space and beautifully done. All the kids were engaged with the exhibits and the staff were excellent about answering their questions!" **- Facebook, April 2018**
+> "Fantastic space and beautifully done. All the kids were engaged with the exhibits and the staff were excellent about answering their questions!" **\- Facebook, April 2018**
 >
 > "What a hidden gem! Went on my daughter's field trip. Touch pool for kids, whale n turtle skeletons plus more. Variety of objects to touch n look under microscope n magnifying glass. Just awesome."- **Google Review, March 2019**
 >
-> "Loved it, great for both kids and adults! Small, intimate and with tons of knowledge!"**- Google Review, March 2019**
+> "Loved it, great for both kids and adults! Small, intimate and with tons of knowledge!"**\- Google Review, March 2019**
 >
 > "Such an interesting place. So many things to see! We could've spent the whole day, but didn't have it. Will return to do it justice one day. Loved the touching pond, the many, many shells, the whale skeleton parts, etc." **Google Review, Jan 2019**
 
