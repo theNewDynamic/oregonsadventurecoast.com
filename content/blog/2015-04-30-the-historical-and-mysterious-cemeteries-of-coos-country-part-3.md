@@ -1,28 +1,30 @@
 ---
+_schema: default
 title: The Historical and Mysterious Cemeteries of Coos Country (Part 3)
-date: 2017-07-09T07:03:00.000+00:00
-description: If you have been following the adventures of our guest writer Steven
-  Michael, you know that the Southern Oregon Coast is full of mystery. The beautiful
-  historical cemeteries in and around Coos Country are excellent places to uncover
-  the fascinating history behind the community we are today.
+draft: true
+date: 2017-07-09T07:03:00Z
+description: >-
+  If you have been following the adventures of our guest writer Steven Michael,
+  you know that the Southern Oregon Coast is full of mystery. The beautiful
+  historical cemeteries in and around Coos Country are excellent places to
+  uncover the fascinating history behind the community we are today.
 tags:
-- Coos Bay Cemetery
-- Coos Bay History
-- Coos County Cemetery
-- Coos County History
-- Family Cemetery
-- Historical Cemeteries
-- Oregon Coast Cemetery
-old_categories:
-- Historical
-image: ''
+  - Coos Bay Cemetery
+  - Coos Bay History
+  - Coos County Cemetery
+  - Coos County History
+  - Family Cemetery
+  - Historical Cemeteries
+  - Oregon Coast Cemetery
 categories:
-- Arts & Culture
-
+  - Arts & Culture
+warning: false
+old_categories:
+  - Historical
 ---
 **For the full article along with impressive images,** [**visit the original blog post HERE**](https://pacificnorthwestadventures.weebly.com/blog/8-coos-county-cemeteries)**.**
 
-If you have been following the adventures of our guest writer Steven Michael, you know that the Southern Oregon Coast is full of mystery. The beautiful [historical cemeteries](http://www.findagrave.com/cgi-bin/fg.cgi?page=csr&CScnty=2210&CSsr=41&) in and around Coos Country are excellent places to uncover the fascinating history behind the community we are today.
+If you have been following the adventures of our guest writer Steven Michael, you know that the Southern Oregon Coast is full of mystery. The beautiful [historical cemeteries](http://www.findagrave.com/cgi-bin/fg.cgi?page=csr&amp;CScnty=2210&amp;CSsr=41&amp;) in and around Coos Country are excellent places to uncover the fascinating history behind the community we are today.
 
 In this post, guest writer Steven Michael of [Steven Michael Photography](https://www.facebook.com/StevenMichaelPhotographyOregon?ref=br_tf) shares more examples of the many interesting, scenic and historic cemeteries in Coos County we recommend exploring.
 
@@ -56,7 +58,7 @@ The Norway Cemetery is one of the oldest cemeteries in Coos County dating back t
 
 So many children were dying that a place for burial was needed immediately. With the location proximity between Coquille, Arago, and Myrtle Point, and that it only cost $50 to bury a child in the cemetery, the Norway Cemetery became the destination for immediate burials. The year 1920 was an especially deadly year for the families with infant children of the Coquille Valley.
 
-One year-old Eleanor Endicott died of Dysentery in 1920, eleven month old William Barklow died of Influenza in 1920.  According to the headstone belonging to the Johnston family, hardship of loss was severe and most likely, emotionally devastating. In 1905, the birth of a daughter named Opal was cut short when she died in the same year. Five years later, twin girls were born in 1910, but their lives were also cut short when both died in the same year of their birth. It is unclear of how the girls died.
+One year-old Eleanor Endicott died of Dysentery in 1920, eleven month old William Barklow died of Influenza in 1920.&nbsp; According to the headstone belonging to the Johnston family, hardship of loss was severe and most likely, emotionally devastating. In 1905, the birth of a daughter named Opal was cut short when she died in the same year. Five years later, twin girls were born in 1910, but their lives were also cut short when both died in the same year of their birth. It is unclear of how the girls died.
 
 The Norway Cemetery resides on a steep grassy hillside surrounded by a forest of Douglas Fir, Hemlock, and the rare Myrtlewood. This is not a cemetery for the weak of knees. The hill is steep and sliding or falling is common. Lawn mowing maintenance is tricky with such steep slopes, but the cemetery is kept up nicely.
 
