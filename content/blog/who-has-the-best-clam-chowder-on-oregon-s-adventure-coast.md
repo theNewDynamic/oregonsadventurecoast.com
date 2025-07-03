@@ -1,27 +1,26 @@
 ---
+_schema: default
 title: Who Has the BEST Clam Chowder on Oregon’s Adventure Coast?
-date: 2020-12-02T05:00:00.000+00:00
-description: 'Find out who has the best clam chowder on Oregon’s Adventure Coast:
-  Coos Bay, North Bend, Charleston According to our “Very Unscientific and Unofficial
-  Facebook Poll”.'
-image: "/img/oregon-coast-clam-chowder-blog-695x322-jpg.png"
+draft: true
+date: 2020-12-02T05:00:00Z
+description: >-
+  Find out who has the best clam chowder on Oregon’s Adventure Coast: Coos Bay,
+  North Bend, Charleston According to our “Very Unscientific and Unofficial
+  Facebook Poll”.
+image: /img/oregon-coast-clam-chowder-blog-695x322-jpg.png
 tags:
-- Clam Chowder
-- 'BEST Clam Chowder '
+  - Clam Chowder
+  - 'BEST Clam Chowder '
 categories:
-- Local Food & Drink
+  - Local Food & Drink
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
-_Updated 2/4/2022_
+*Updated 2/4/2022*
 
 Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston is truly a destination for all seasons and winter is no exception. Visitors can find refuge here during the week and on weekends by exploring our glorious state parks, the Oregon Dunes, undeveloped beaches, and more. Whether it’s fishing, hiking, crabbing, clamming or all of the above - there’s nothing like capping off a day spent social distancing in the great outdoors with a hot, delicious bowl of savory Oregon Clam Chowder.
 
@@ -49,7 +48,7 @@ This take-out establishment located in the **Charleston Marina** is a relative n
 
 [Sea Basket](https://www.facebook.com/Sea-Basket-143134055733251/) in Charleston
 
-[Coach House ](https://www.thecoachhousecoosbayor.com/)in Coos Bay
+[Coach House](https://www.thecoachhousecoosbayor.com/)in Coos Bay
 
 [The Boat](https://www.facebook.com/The-Boat-1658642967582777/) in Coos Bay
 
@@ -61,7 +60,7 @@ This take-out establishment located in the **Charleston Marina** is a relative n
 
 [The Portside Restaurant - Charleston, Oregon Seafood](https://www.facebook.com/PortsideRestaurant/)
 
-[Davey Jones' Locker ](https://www.facebook.com/Davey-Jones-Locker-275312836004/)- Charleston
+[Davey Jones' Locker](https://www.facebook.com/Davey-Jones-Locker-275312836004/)\- Charleston
 
 [Plank House Restaurant](https://www.kokwelresorts.com/coos-bay/) at the Mill Casino - North Bend
 

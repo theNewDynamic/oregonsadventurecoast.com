@@ -1,36 +1,36 @@
 ---
-title: 'Ready. Set. Adventure! What Travelers Can Expect As We Reopen Oregon’s Adventure
-  Coast '
-date: 2020-06-16T04:00:00.000+00:00
-description: As Oregon’s Adventure Coast begins to carefully reopen, it’s important
-  that visitors make informed decisions and prepare themselves for our “now normal”
-  (because this won’t be forever!). Here are some answers to questions you may have
-  to help you decide if you and your family are ready for an Oregon Coast Adventure!
-image: "/img/fishing-ready-set-adventure-695x322.jpg"
+_schema: default
+title: >-
+  Ready. Set. Adventure! What Travelers Can Expect As We Reopen Oregon’s
+  Adventure Coast 
+draft: true
+date: 2020-06-16T04:00:00Z
+description: >-
+  As Oregon’s Adventure Coast begins to carefully reopen, it’s important that
+  visitors make informed decisions and prepare themselves for our “now normal”
+  (because this won’t be forever!). Here are some answers to questions you may
+  have to help you decide if you and your family are ready for an Oregon Coast
+  Adventure!
+image: /img/fishing-ready-set-adventure-695x322.jpg
 tags:
-- Phase Two Reopening
-- " Oregon Coast"
-- " Oregon Travel"
-- " Oregon's Adventure Coast"
-- Coos Bay
-- North Bend Oregon
-- Charleston Oregon
-- What's open on Oregon's Adventure Coast
-- State Parks
-- Oregon Travel
-old_categories: []
+  - Phase Two Reopening
+  - ' Oregon Coast'
+  - ' Oregon Travel'
+  - ' Oregon''s Adventure Coast'
+  - Coos Bay
+  - North Bend Oregon
+  - Charleston Oregon
+  - What's open on Oregon's Adventure Coast
+  - State Parks
+  - Oregon Travel
+categories:
+  - Oregon's Adventure Coast News & Info
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: true
-warning_copy: ''
-categories:
-- Oregon's Adventure Coast News & Info
-
 ---
 So much has changed in our world since the COVID-19 crisis began a few months ago, but we are beginning to see the light at the end of the tunnel. Although it will take time to “get back to normal”, steps are being made in the right direction. On June 6th, 2020 Coos Bay/North Bend/Charleston a.k.a. Oregon’s Adventure Coast was allowed to enter into Phase 2 of the reopening process. This means that our community has spent at least 21 days in Phase 1 and saw no significant increase in COVID-19 cases. If you’re planning on traveling this summer and fall, you’re probably wondering what’s open and what’s safe.
 
@@ -49,15 +49,15 @@ As Oregon’s Adventure Coast begins to carefully reopen, it’s important that 
 **Parks and Public Lands.** Parks and public lands began to reopen as of May 29, 2020 for day use only and have since begun slowly opening overnight camping facilities. Please bear in mind that guidelines and open status are subject to change without notice and depend on which agency manages it. Here’s a quick run-down of what outdoor destinations are open (remember, this list is subject to change). Be sure to research current guidelines before making the trip! Check the [Oregon State Parks Status Map](https://oregonstateparks.org/index.cfm?do=v.dsp_parkstatus) for the most up-to-date list.
 
 * [Bastendorff Beach](https://kcby.com/search?find=%20Bastendorff%20Beach) - Bastendorff Beach is currently open for day use and was one of the first developed sites managed by the Bureau of Land Management in Oregon to reopen. “Visitors should be aware that sanitation services may be limited, and restrooms may take additional time to reopen," the Coos Bay District BLM said.
-* [Cape Arago State Park](https://stateparks.oregon.gov/index.cfm?do=parkPage.dsp_parkPage&parkId=66)- Park is open to limited day use. Restroom closed; use restroom in Sunset Bay Day-use Area or Shore Acres State Park.
-* [Golden and Silver Falls State Natural Area](https://stateparks.oregon.gov/index.cfm?do=parkPage.dsp_parkPage&parkId=67) Park and trails are open to limited daytime use. Vault restroom is open. Note: facilities may close without notice.
-* [Horsfall Beach Day Use OHV Staging](https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42627)- Open for Day Use ONLY. [Campground](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42625) is closed until June 18th, 2020.
-* [Oregon Dunes National Recreation Area](https://www.fs.usda.gov/detail/siuslaw/home/?cid=fseprd712205)- most national forest boat ramps, day-use sites, and trailheads throughout the forest, and off-highway vehicle staging areas on the Oregon Dunes, will be available for day use, in many cases with limited or no services. Barring unforeseen circumstances related to community readiness, starting June 18th, most camps at the Oregon Dunes and campgrounds throughout the forest will reopen with limited services. Most (if not all) [ATVing & Motorsports rental shops](https://www.oregonsadventurecoast.com/atv-motorsports/) are also now open.
-* [Shore Acres State Park](https://shoreacres.net/)- Day-use area and gardens are open to limited daytime use. Be prepared to turn around if crowded. Facilities may close without notice.
+* [Cape Arago State Park](https://stateparks.oregon.gov/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=66)\- Park is open to limited day use. Restroom closed; use restroom in Sunset Bay Day-use Area or Shore Acres State Park.
+* [Golden and Silver Falls State Natural Area](https://stateparks.oregon.gov/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=67) Park and trails are open to limited daytime use. Vault restroom is open. Note: facilities may close without notice.
+* [Horsfall Beach Day Use OHV Staging](https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42627)\- Open for Day Use ONLY. [Campground](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42625) is closed until June 18th, 2020.
+* [Oregon Dunes National Recreation Area](https://www.fs.usda.gov/detail/siuslaw/home/?cid=fseprd712205)\- most national forest boat ramps, day-use sites, and trailheads throughout the forest, and off-highway vehicle staging areas on the Oregon Dunes, will be available for day use, in many cases with limited or no services. Barring unforeseen circumstances related to community readiness, starting June 18th, most camps at the Oregon Dunes and campgrounds throughout the forest will reopen with limited services. Most (if not all) [ATVing & Motorsports rental shops](https://www.oregonsadventurecoast.com/atv-motorsports/) are also now open.
+* [Shore Acres State Park](https://shoreacres.net/)\- Day-use area and gardens are open to limited daytime use. Be prepared to turn around if crowded. Facilities may close without notice.
 * [South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/SS/Pages/About.aspx). All hiking trails are currently open. The Reserve Visitor Center is closed until further notice. All South Slough Reserve programs, field trips, events and meetings have been canceled until further notice though some online events are now available.
-* [Sunset Bay State Park](https://stateparks.oregon.gov/index.cfm?do=parkPage.dsp_parkPage&parkId=70)- Day-use area is open and some overnight camping is allowed as of June 9th. Reservations for camping are required - call 800-452-5687. Walk-ups will not be accepted. Shower facilities will remain closed but restrooms are open.
+* [Sunset Bay State Park](https://stateparks.oregon.gov/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=70)\- Day-use area is open and some overnight camping is allowed as of June 9th. Reservations for camping are required - call 800-452-5687. Walk-ups will not be accepted. Shower facilities will remain closed but restrooms are open.
 
-**Some Indoor & Outdoor Entertainment.** As we mentioned earlier in the post, there is plenty of space on Oregon’s Adventure Coast to spread out and stay safe. In addition to our State Parks and Public Lands mentioned above, visitors will find that other sources of [fun and entertainment ](https://www.oregonsadventurecoast.com/entertainment-and-nightlife/)are now available under Phase Two with some restrictions.
+**Some Indoor & Outdoor Entertainment.** As we mentioned earlier in the post, there is plenty of space on Oregon’s Adventure Coast to spread out and stay safe. In addition to our State Parks and Public Lands mentioned above, visitors will find that other sources of [fun and entertainment](https://www.oregonsadventurecoast.com/entertainment-and-nightlife/)are now available under Phase Two with some restrictions.
 
 * [Coos Bay Speedway](https://theworldlink.com/sports/local/speedway-gets-back-to-racing/article_2a0c1b2e-abe8-11ea-a7a1-0b0046785b48.html). Phase Two allows the Speedway to open as long as they follow safety guidelines set by local health officials to keep employees, drivers and fans safe. Crowds will be limited in size and only every third row will be open to facilitate social distancing. Anyone showing symptoms of COVID-19 will not be permitted to enter.
 * [North Bend Lanes](https://northbendlanes.com/) on Virginia Avenue is now open with additional safety measures that include social distancing between lanes and enhanced sanitizing to keep everyone safe and healthy.

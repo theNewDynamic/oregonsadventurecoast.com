@@ -1,45 +1,43 @@
 ---
+_schema: default
 title: 'Spotlight On: Conde B. McCullough Memorial Bridge'
-date: 2020-12-17T05:00:00+00:00
-description: The McCullough Memorial Bridge, one of our most beloved landmarks, is
-  the perfect symbol for the gateway to Oregon’s South Coast. As you approach this
-  magnificent mile long bridge along  U.S. Route 101, you know that you are about
-  to cross into someplace very special.
-image: "/img/mccullough-bridge-blog-695x322-jpg.png"
+draft: true
+date: 2020-12-17T05:00:00Z
+description: >-
+  The McCullough Memorial Bridge, one of our most beloved landmarks, is the
+  perfect symbol for the gateway to Oregon’s South Coast. As you approach this
+  magnificent mile long bridge along  U.S. Route 101, you know that you are
+  about to cross into someplace very special.
+image: /img/mccullough-bridge-blog-695x322-jpg.png
 tags:
-- McCullough Memorial Bridge
-- U.S. Route 101
-- Coos Bay
-- North Bend
-- " North Bend Oregon"
-- Charleston Oregon
-- 'Oregon '
-- Oregon Coast
-- Travel Oregon
-- Conde B. McCullough Memorial Bridge
-- 'Conde B. McCullough '
-- Bridges
-- Famous Bridges
-- Oregon's South Coast
-- Oregon's Bay Area
-- Oregon Coast Landmarks
+  - McCullough Memorial Bridge
+  - U.S. Route 101
+  - Coos Bay
+  - North Bend
+  - ' North Bend Oregon'
+  - Charleston Oregon
+  - 'Oregon '
+  - Oregon Coast
+  - Travel Oregon
+  - Conde B. McCullough Memorial Bridge
+  - 'Conde B. McCullough '
+  - Bridges
+  - Famous Bridges
+  - Oregon's South Coast
+  - Oregon's Bay Area
+  - Oregon Coast Landmarks
 categories:
-- Local Spotlight
+  - Local Spotlight
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
-#### _“Bridges do more than connect two bits of land—they span centuries of history, ignite the imagination, and inspire with their beauty. Crossing a famous bridge becomes an event, a moment of drama that can crystallize your experience of a city.”-_ [Frommers.com](https://www.frommers.com/slideshows/847997-7-iconic-bridges-you-must-see-before-you-die)
+#### *“Bridges do more than connect two bits of land—they span centuries of history, ignite the imagination, and inspire with their beauty. Crossing a famous bridge becomes an event, a moment of drama that can crystallize your experience of a city.”-* [Frommers.com](https://www.frommers.com/slideshows/847997-7-iconic-bridges-you-must-see-before-you-die)
 
-  
-Bridges have a long history of adding function and flair to a destination. Not only do bridges fulfill a necessary function in getting people across bodies of water, but they also add a certain mystique and visual charm to the landscape. The [McCullough Memorial Bridge](https://en.wikipedia.org/wiki/Conde_McCullough_Memorial_Bridge), one of our most beloved landmarks, is the perfect symbol for the gateway to Oregon’s South Coast. As you approach this magnificent mile-long bridge along [U.S. Route 101](https://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon), you know that you are about to cross into someplace very special. The bridge was designed by and eventually named after[ Conde McCullough](https://www.oregonencyclopedia.org/articles/conde_balcom_mccullough/#.X9qIetjYpD8), one of the leading bridge engineers in the United States. It is considered by many to be the crown jewel of all of McCullough’s greatest designs.
+Bridges have a long history of adding function and flair to a destination. Not only do bridges fulfill a necessary function in getting people across bodies of water, but they also add a certain mystique and visual charm to the landscape. The [McCullough Memorial Bridge](https://en.wikipedia.org/wiki/Conde_McCullough_Memorial_Bridge), one of our most beloved landmarks, is the perfect symbol for the gateway to Oregon’s South Coast. As you approach this magnificent mile-long bridge along [U.S. Route 101](https://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon), you know that you are about to cross into someplace very special. The bridge was designed by and eventually named after[Conde McCullough](https://www.oregonencyclopedia.org/articles/conde_balcom_mccullough/#.X9qIetjYpD8), one of the leading bridge engineers in the United States. It is considered by many to be the crown jewel of all of McCullough’s greatest designs.
 
 ![](/img/mccullough-memorial-bridge.png)
 
@@ -55,13 +53,13 @@ The McCullough Memorial Bridge had a significant impact on travel and business o
 
 ![](/img/coos_bay_bridge-_construction_-32091766393.jpg)
 
-_Construction, 1935 Source: Wikipedia_
+*Construction, 1935 Source: Wikipedia*
 
 ![](/img/mccullough-memorial-bridge.jpeg)
 
 > “This is a really striking and beautiful bridge,” [writes a September 2020 visitor.](https://www.tripadvisor.com/Attraction_Review-g51813-d4725395-Reviews-McCullough_Memorial_Bridge-Coos_Bay_Oregon.html) “It is a mile long cantilever span with symmetrical multi-arch approaches on both ends. Best viewed from the west side on Horsfall Beach Road. Being under it and looking at the exposed steel understructure has been compared to visiting a cathedral.”
 
-Do you have special memories or photos of the [McCullough Memorial Bridge](https://en.wikipedia.org/wiki/Conde_McCullough_Memorial_Bridge)? Share them on our[ Facebook Page](https://www.facebook.com/OregonsAdventureCoast/)!
+Do you have special memories or photos of the [McCullough Memorial Bridge](https://en.wikipedia.org/wiki/Conde_McCullough_Memorial_Bridge)? Share them on our[Facebook Page](https://www.facebook.com/OregonsAdventureCoast/)!
 
 You can find more information on the bridge and it's history here:
 

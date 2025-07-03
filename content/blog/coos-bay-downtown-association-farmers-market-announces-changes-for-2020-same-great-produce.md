@@ -1,37 +1,36 @@
 ---
+_schema: default
 title: Coos Bay Downtown Association Farmers Market Announces Changes for 2020
-date: 2020-05-27T04:00:00.000+00:00
-description: CBDA Farmers Market announces it will open June 3, 2020 as an Essential
-  Grocery-type Layout not a “Social Gathering” site. Read other changes can be expected
-image: "/img/coos-bay-farmers-market-695x322-jpg.png"
+draft: true
+date: 2020-05-27T04:00:00Z
+description: >-
+  CBDA Farmers Market announces it will open June 3, 2020 as an Essential
+  Grocery-type Layout not a “Social Gathering” site. Read other changes can be
+  expected
+image: /img/coos-bay-farmers-market-695x322-jpg.png
 tags:
-- Farmers Market
-- " Coos Bay Farmers Market"
-- events
-- CBDA Farmers Market
-- 'Coos Bay Downtown Association Farmers Market '
-- 2020 Coos Bay Farmers Market
-- 'Coos Bay Downtown Association '
-- CBDA
-- Local Produce
-- Local food
-old_categories: []
+  - Farmers Market
+  - ' Coos Bay Farmers Market'
+  - events
+  - CBDA Farmers Market
+  - 'Coos Bay Downtown Association Farmers Market '
+  - 2020 Coos Bay Farmers Market
+  - 'Coos Bay Downtown Association '
+  - CBDA
+  - Local Produce
+  - Local food
+categories:
+  - Special Events & Holidays
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: true
-warning_copy: ''
-categories:
-- Special Events & Holidays
-
 ---
 ### Coos Bay Downtown Association Farmers Market Returns for 20th Season June 3, 2020
 
-For nearly two decades, the opening of the[ CBDA Farmers Market](https://coosbaydowntown.org/farmers-market/) has been a rite of spring that we have all looked forward to. The market, which typically operates Wednesdays from May through October, features fresh, locally grown produce, eggs, honey, meat, baked goods, coffee, and much much more. Not only has the CBDA Farmers Market served as a wonderful destination to buy fresh local food, for many years it has served as a true community gathering place here on Oregon’s Adventure Coast.
+For nearly two decades, the opening of the[CBDA Farmers Market](https://coosbaydowntown.org/farmers-market/) has been a rite of spring that we have all looked forward to. The market, which typically operates Wednesdays from May through October, features fresh, locally grown produce, eggs, honey, meat, baked goods, coffee, and much much more. Not only has the CBDA Farmers Market served as a wonderful destination to buy fresh local food, for many years it has served as a true community gathering place here on Oregon’s Adventure Coast.
 
 However, in order to comply with Oregon’s Phase 1 Reopening Plan, CDC Guidelines, and the Oregon Farmers Market Association (OFMA) our beloved downtown Farmers Market is going to operate a little differently this year in response to the global pandemic. Farmers Market Manager Melissa Hasart says this year, the market will open as an essential grocery-type layout not a “Social Gathering” site.
 

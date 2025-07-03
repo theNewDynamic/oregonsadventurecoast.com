@@ -1,42 +1,41 @@
 ---
+_schema: default
 title: 'Savor the Flavors Along the Wild Rivers Coast Food Trail '
-date: 2020-09-25T04:00:00.000+00:00
-description: This fall, treat yourself to a one-of-a-kind tasting adventure you can
-  only find along the Wild Rivers Coast Food Trail, a collaborative effort to connect
+draft: true
+date: 2020-09-25T04:00:00Z
+description: >-
+  This fall, treat yourself to a one-of-a-kind tasting adventure you can only
+  find along the Wild Rivers Coast Food Trail, a collaborative effort to connect
   locals and visitors to the bounty available on Oregon’s South Coast.
-image: "/img/wild-rivers-coast-food-trail-blog-695x322-jpg.png"
+image: /img/wild-rivers-coast-food-trail-blog-695x322-jpg.png
 tags:
-- Wild Rivers Coast Food Trail
-- 'farms '
-- farm-to-table
-- seafood
-- farmers markets
-- Mahaffy Ranch
-- Coos Bay Farmers Market
-- Coos Head Food Co-Op
-- Wildflour Cafe & Catering
-- Noster Kitchen
-- Tokyo Bistro
-- Shark Bites Seafood Cafe
-- Bayside Coffee & Tea
-- 7 Devils Brewing Co.
-- Stillwagon Distillery
-old_categories:
-- 'Food & Drink '
+  - Wild Rivers Coast Food Trail
+  - 'farms '
+  - farm-to-table
+  - seafood
+  - farmers markets
+  - Mahaffy Ranch
+  - Coos Bay Farmers Market
+  - Coos Head Food Co-Op
+  - Wildflour Cafe & Catering
+  - Noster Kitchen
+  - Tokyo Bistro
+  - Shark Bites Seafood Cafe
+  - Bayside Coffee & Tea
+  - 7 Devils Brewing Co.
+  - Stillwagon Distillery
+categories:
+  - Local Food & Drink
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: true
-warning_copy: ''
-categories:
-- Local Food & Drink
-
+old_categories:
+  - 'Food & Drink '
 ---
-**_Get Your Local Food Fix and Let Your Taste Buds Run Wild This Fall_**
+***Get Your Local Food Fix and Let Your Taste Buds Run Wild This Fall***
 
 It’s been an extraordinary year for many of us and chances are your taste buds probably need a break too! This fall, treat yourself to a one-of-a-kind tasting adventure you can only find along the [Wild Rivers Coast Food Trail](https://www.wrcfoodtrail.com/), a collaborative effort to connect locals and visitors to the bounty available on Oregon’s South Coast.
 
@@ -82,19 +81,19 @@ We are especially proud to have multiple businesses representing **Oregon’s Ad
 >
 > {{< spacer 20 >}}
 
-The is open to visitors year-round and designed to be explored at your own pace. Based on your taste and the season, you can plan your own itinerary, or you can choose from one of theirs: [https://www.wrcfoodtrail.com/itineraries](https://www.wrcfoodtrail.com/itineraries "https://www.wrcfoodtrail.com/itineraries"). The _Timeless Beauty from Reedsport to Brookings_ itinerary features multiple stops on Oregon’s Adventure Coast.
+The is open to visitors year-round and designed to be explored at your own pace. Based on your taste and the season, you can plan your own itinerary, or you can choose from one of theirs: [https://www.wrcfoodtrail.com/itineraries](https://www.wrcfoodtrail.com/itineraries "https://www.wrcfoodtrail.com/itineraries"). The *Timeless Beauty from Reedsport to Brookings* itinerary features multiple stops on Oregon’s Adventure Coast.
 
 “Further south in Coos Bay, stop in at Coos Head Food Co-Op for energy-packed snacks and beverages to take with you. Stroll the lush formal gardens at Shore Acres State Park and view dramatic surf crashing below the soaring cliffline. The trails in Cape Arago State Park provide breathtaking beauty of hidden coves and seascapes along the headland. Stop at Charleston’s Bayside Coffee Shop for organic fair-trade coffee.”
 
 For inspiration, check out Chef Bob Neroni in this video that highlights several of the Food Trail members (including Stillwagon Distillery!)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZCnwOxyEni4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZCnwOxyEni4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-{{< spacer 25>}}
+{{< spacer 25 >}}
 
 **Before You Go, Read These Helpful Tips!**
 
 * While restaurants & brewpubs are open year-round, you can expect local foods to be served primarily during their respective seasons. Cranberries: (Mid-October – early December), Pumpkin Patches: (Late September – late October), Farmers Markets: (May – October).
 * Farms & markets are typically open seasonally, so be sure to check the brochure or business's websites for up-to-date information about each location.
 * To ensure a positive experience, please check the hours of operation for each business online or by phone and note when reservations or appointments are required.
-* Check out their brochure! Get a hard copy at participating businesses or local visitor centers to follow along or use[ this online pdf](https://www.wrcfoodtrail.com/s/44989-WRC-Food-Trail-Brochureweb-1.pdf).
+* Check out their brochure! Get a hard copy at participating businesses or local visitor centers to follow along or use[this online pdf](https://www.wrcfoodtrail.com/s/44989-WRC-Food-Trail-Brochureweb-1.pdf).

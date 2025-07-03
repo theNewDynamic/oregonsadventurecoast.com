@@ -1,32 +1,35 @@
 ---
+_schema: default
 title: Spring and Summer Blooms at Shore Acres State Park
-date: 2020-04-20T16:57:33.000+00:00
-description: While the rest of the country has been staying home and social distancing,
-  the glorious spring and summer blooms at Shore Acres State Park haven't missed a
-  beat. We would normally encourage you to pack your bags and head down to Oregon's
-  Adventure Coast asap so you can see them for yourself- but this is not the time.
+draft: true
+date: 2020-04-20T16:57:33Z
+description: >-
+  While the rest of the country has been staying home and social distancing, the
+  glorious spring and summer blooms at Shore Acres State Park haven't missed a
+  beat. We would normally encourage you to pack your bags and head down to
+  Oregon's Adventure Coast asap so you can see them for yourself- but this is
+  not the time.
+image: /img/shore-acres-spring-flowers-695x322.jpg
 tags:
-- Beaches
-- Cape Arago
-- Coast
-- Coos Bay
-- flowers
-- gardens
-- Louis Simpson
-- Oregon Coast
-- recreation
-- Shore Acres
-- Shore Acres State Park
-- Spring Travel
-- State Parks
-- State Parks and National Lands
-old_categories:
-- State Parks & National Lands
-image: "/img/shore-acres-spring-flowers-695x322.jpg"
-warning: true
+  - Beaches
+  - Cape Arago
+  - Coast
+  - Coos Bay
+  - flowers
+  - gardens
+  - Louis Simpson
+  - Oregon Coast
+  - recreation
+  - Shore Acres
+  - Shore Acres State Park
+  - Spring Travel
+  - State Parks
+  - State Parks and National Lands
 categories:
-- State Parks & National Lands
-
+  - State Parks & National Lands
+warning: true
+old_categories:
+  - State Parks & National Lands
 ---
 While the rest of the country has been staying home and social distancing, the glorious spring and summer blooms at Shore Acres State park haven't missed a beat. We would normally encourage you to pack your bags and head down to Oregon's Adventure Coast asap so you can see them for yourself- but this is not the time.
 
@@ -38,11 +41,17 @@ In 1942, Simpson’s beloved Shore Acres was purchased by the state of Oregon fo
 
 Here are some recent images to enjoy:
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F206248449391886%2Fvideos%2F2859929507456295%2F&show_text=0&width=695" width="695" height="391" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F206248449391886%2Fvideos%2F2859929507456295%2F&amp;show_text=0&amp;width=695" width="695" height="391" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+
+
 <br><br>
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D3471415456208486%26id%3D206248449391886&width=695" width="695" height="950" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D3471415456208486%26id%3D206248449391886&amp;width=695" width="695" height="950" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
 <br>
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D3468017039881661%26id%3D206248449391886&width=695" width="695" height="880" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D3468017039881661%26id%3D206248449391886&amp;width=695" width="695" height="880" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Here's to many more blooms and brighter days ahead!
 

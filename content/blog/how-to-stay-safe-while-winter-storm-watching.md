@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: How To Stay Safe While Winter Storm Watching
-draft: false
+draft: true
 date: 2020-11-18T05:00:00Z
 description: >-
   Even though a trip to Oregon’s Adventure Coast: Coos Bay, North Bend,
@@ -41,8 +41,6 @@ Even though a trip to Oregon’s Adventure Coast: Coos Bay, North Bend, Charlest
 **\#1 Never turn your back to the ocean and stay off of jetties, they can be extremely dangerous.** "Stay away from the surf zone and off of jetties," forecasters warn. "Area beaches may become hazardous due to dangerous surf conditions." Also, stay off the logs you may find on the beach. These can roll in high surf, causing injury or even death.
 
 **\#2 Always watch from safe viewing areas.** There is a designated viewing area for storm watching at[Shore Acres State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) ($5 to park) and while no viewing location is completely safe, this is considered one of the safest. Another great local storm watching spot is at the bluff overlooking[Bastendorff Beach](https://www.oregonsadventurecoast.com/undeveloped-beaches/) and at[Sunset Bay State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) along[Cape Arago Highway](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/).
-
-
 
 \#3 Since there is still a pandemic to contend with, **please be sure to follow Oregon’s** [**Safe+Strong guidelines**](https://coronavirus.oregon.gov/Pages/default.aspx#:~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you)**and wear a face covering and stay at least 6 feet away from others.**
 
