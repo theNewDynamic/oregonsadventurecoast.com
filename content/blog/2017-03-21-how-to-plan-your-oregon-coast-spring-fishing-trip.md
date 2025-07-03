@@ -1,30 +1,31 @@
 ---
+_schema: default
 title: How to Plan Your Oregon Coast Spring Fishing Trip
-date: 2017-03-21T21:11:10.000+00:00
-description: "With such of range of prime fishing spots, it's no wonder Coos Bay,
-  North Bend and Charleston area is an angler's dream come true! Between the bay,
-  ocean and 30+ lakes and rivers, you're all but guaranteed to enjoy a fishing trip
-  worth bragging about this spring and summer. Here's a step-by-step guide to help
-  you plan the ultimate fishing adventure this spring!\n\n"
+draft: true
+date: 2017-03-21T21:11:10Z
+description: >-
+  With such of range of prime fishing spots, it's no wonder Coos Bay, North Bend
+  and Charleston area is an angler's dream come true! Between the bay, ocean and
+  30+ lakes and rivers, you're all but guaranteed to enjoy a fishing trip worth
+  bragging about this spring and summer. Here's a step-by-step guide to help you
+  plan the ultimate fishing adventure this spring!
 tags:
-- Beaches
-- Coos Bay
-- Crabbing & Clamming
-- 'Fishing and Crabbing:'
-- Fishing
-- Crabbing & Clamming
-- kayak fishing
-- Oregon
-- Oregon Coast
-- Sunset Bay State Park
-old_categories:
-- Fishing
-- Crabbing & Clamming
-image: ''
-warning: true
+  - Beaches
+  - Coos Bay
+  - Crabbing & Clamming
+  - 'Fishing and Crabbing:'
+  - Fishing
+  - Crabbing & Clamming
+  - kayak fishing
+  - Oregon
+  - Oregon Coast
+  - Sunset Bay State Park
 categories:
-- Fishing
-
+  - Fishing
+warning: true
+old_categories:
+  - Fishing
+  - Crabbing & Clamming
 ---
 With such of range of prime fishing spots, it’s no wonder Coos Bay, North Bend and Charleston area is an angler’s dream come true! Between the bay, ocean, and 30+ lakes and rivers, you’re all but guaranteed to enjoy a fishing trip worth bragging about this spring and summer. Here’s a step-by-step guide to help you plan the ultimate fishing adventure this spring!
 
@@ -42,7 +43,7 @@ As you can see, there are numerous options to choose from!
 
 ### Step two: Once you have an idea on what you want to catch, do some quick research!
 
-We strongly recommend checking current fishing conditions by going to <a href="http://www.dfw.state.or.us/RR/southwest/#fishing" target="_blank" rel="noopener noreferrer">Oregon Department of Fish and Wildlife’s website</a>. Visitors will also find excellent tips and recommendations by calling local businesses like <a href="https://www.facebook.com/basintacklecharleston/" target="_blank" rel="noopener noreferrer">Basin Tackle Shop</a> and <a href="https://www.yelp.com/biz/bites-on-bait-and-tackle-coos-bay" target="_blank" rel="noopener noreferrer">Bite’s On Bait & Tackle</a>. Their employees are known to be a friendly and helpful resource for anyone that needs fishing, clamming, or crabbing tips and gear and current information.
+We strongly recommend checking current fishing conditions by going to <a href="http://www.dfw.state.or.us/RR/southwest/#fishing" target="_blank" rel="noopener noreferrer">Oregon Department of Fish and Wildlife’s website</a>. Visitors will also find excellent tips and recommendations by calling local businesses like <a href="https://www.facebook.com/basintacklecharleston/" target="_blank" rel="noopener noreferrer">Basin Tackle Shop</a> and <a href="https://www.yelp.com/biz/bites-on-bait-and-tackle-coos-bay" target="_blank" rel="noopener noreferrer">Bite’s On Bait &amp; Tackle</a>. Their employees are known to be a friendly and helpful resource for anyone that needs fishing, clamming, or crabbing tips and gear and current information.
 
 ### Step Three: Map out your adventure.
 
@@ -52,21 +53,21 @@ After doing a bit of research, you’ll have a good idea of where you will want 
 * **Largemouth Bass** – Bradley Lake, Butterfield Lake, Eel Lake, Empire Lakes, Hall Lake, Powers Park Pond, Saunders Lake, Tenmile Lakes.
 * **Chinook Salmon (Spring)** – Pacific Ocean.
 * **Surfperch** – Coos Bay, Bastendorff Beach, Horsfall Beach, Cape Arago State Park
-* **Cutthroat Trout** – _Note: Trout season in streams and rivers opens <span class="aBn" tabindex="0" data-term="goog_80746845"><span class="aQJ">May 22nd</span></span>. _ Bradley Lake, Coquille River (east fork), Coquille River (middle fork), Coquille River (north fork), Coquille River (south fork), Eel Lake, Hall Lake, Millicoma River (east fork), Millicoma River (west fork), New River, Shuttpelz Lake, Tenmile Lakes, Tioga Creek.
-* **Rainbow Trout** – _Note: Rainbow trout are stocked into the lakes and the lakes are open all year._ Bluebill Lake, Bradley Lake, Butterfield Lake, Eel Lake, Empire Lakes, Sru Lake, Powers Park Pond, Saunders Lake, Tenmile Lakes.
-* **Sea Run Cutthroat Trout** – _Note: Trout season in streams and rivers opens <span class="aBn" tabindex="0" data-term="goog_80746845"><span class="aQJ">May 22nd</span></span>. _Coos River, Coos River (south fork), Coquille River (north fork), Millicoma River.
+* **Cutthroat Trout** – \_Note: Trout season in streams and rivers opens <span class="aBn" tabindex="0" data-term="goog_80746845"><span class="aQJ">May 22nd</span></span>.&nbsp;\_ Bradley Lake, Coquille River (east fork), Coquille River (middle fork), Coquille River (north fork), Coquille River (south fork), Eel Lake, Hall Lake, Millicoma River (east fork), Millicoma River (west fork), New River, Shuttpelz Lake, Tenmile Lakes, Tioga Creek.
+* **Rainbow Trout** – *Note:&nbsp;Rainbow trout are stocked into the lakes and the lakes are open all year.* Bluebill Lake, Bradley Lake, Butterfield Lake, Eel Lake, Empire Lakes, Sru Lake, Powers Park Pond, Saunders Lake, Tenmile Lakes.
+* **Sea Run Cutthroat Trout** – \_Note: Trout season in streams and rivers opens <span class="aBn" tabindex="0" data-term="goog_80746845"><span class="aQJ">May 22nd</span></span>.&nbsp;\_Coos River, Coos River (south fork), Coquille River (north fork), Millicoma River.
 * **Yellow Perch** – Empire Lakes, Saunders Lake, Tenmile Lakes
 
 ### Step Four: Get an Oregon fishing license!
 
-A fishing license is required for those aged 12 years or older. Daily licenses are available. Most fishing charters, bait shops and sporting goods stores can supply these for you. You can purchase a fishing license locally in stores like Bi-Mart, Big 5 Sporting Goods, Fred Myer, the ODFW Office (licenses only) in Charleston and Walmart.  [Click here](https://www.oregonsadventurecoast.com/fishing-license-requirements/) to see the fishing license requirement.
+A fishing license is required for those aged 12 years or older. Daily licenses are available. Most fishing charters, bait shops and sporting goods stores can supply these for you. You can purchase a fishing license locally in stores like Bi-Mart, Big 5 Sporting Goods, Fred Myer, the ODFW Office (licenses only) in Charleston and Walmart. &nbsp;[Click here](https://www.oregonsadventurecoast.com/fishing-license-requirements/) to see the fishing license requirement.
 
 ### Step Four: Make arrangements.
 
-There are a number of resources to help you with your accommodations. [Camping options](http://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70) as well as <a href="http://www.rvparkreviews.com/regions/oregon/coos-bay" target="_blank" rel="noopener noreferrer">RV parks</a> and [hotels](http://www.oregonsadventurecoast.com/lodging/) to choose from.
+There are a number of resources to help you with your accommodations. [Camping options](http://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=70) as well as <a href="http://www.rvparkreviews.com/regions/oregon/coos-bay" target="_blank" rel="noopener noreferrer">RV parks</a> and&nbsp;[hotels](http://www.oregonsadventurecoast.com/lodging/) to choose from.
 
 ### Step Five: Pack accordingly.
 
-The weather changes often so pack accordingly. Layers are key! No matter what season, be sure to pack a jacket, long pants and sweaters. Other essentials include: windbreaker, sunscreen, lip balm, wide-brimmed hat, Polarized sunglasses, waterproof jacket and rain pants, bug spray, small first aid kit, hand sanitizer and/or wipes, backpack, collapsible cooler, reusable drinking bottle, waterproof bag…gosh, we could devote an entire blog post to this subject alone!
+The weather changes often so pack accordingly. Layers are key! No matter what season, be sure to pack a jacket, long pants and sweaters. Other essentials include: windbreaker, sunscreen, lip balm, wide-brimmed hat, Polarized sunglasses, waterproof jacket and rain pants, bug spray, small first aid kit, hand sanitizer and/or wipes,&nbsp;backpack, collapsible cooler, reusable drinking bottle, waterproof bag…gosh, we could devote an entire blog post to this subject alone!
 
 Follow these five steps and you’ll be well on your way!
