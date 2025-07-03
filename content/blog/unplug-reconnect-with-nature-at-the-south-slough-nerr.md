@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Unplug & Reconnect With Nature at the South Slough NERR
-draft: false
+draft: true
 date: 2020-10-23T21:00:00-07:00
 description: >-
   South Slough NERR is the ideal destination to find some peace and reconnect
@@ -10,7 +10,6 @@ description: >-
   along wooded trails, exploring open water channels, tidal and freshwater
   wetlands, riparian areas, and forested uplands.
 image: /img/south-slough-nerr-blog-695x322-jpg-1-1.png
-tags: []
 categories:
   - State Parks & National Lands
 seo:
@@ -18,10 +17,7 @@ seo:
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: true
-old_categories: []
 ---
 In case you haven’t heard, there’s an abundance of wide, open spaces in Coos Bay, North Bend & Charleston for visitors to safely explore while following Oregon’s Safe+Strong guidelines. We are, after all, known as “Oregon’s Adventure Coast”! For those of us fortunate enough to reside here, we can’t get enough of beautiful outdoor destinations like [The South Slough National Estuarine Research Reserve (South Slough NERR)](https://www.oregon.gov/dsl/SS/Pages/About.aspx), 5,000-acre natural area located in the Coos estuary.
 

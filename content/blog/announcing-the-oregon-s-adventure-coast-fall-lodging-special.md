@@ -1,37 +1,36 @@
 ---
+_schema: default
 title: 'Announcing the Oregon’s Adventure Coast Fall Lodging Special! '
-date: 2020-09-28T04:00:00.000+00:00
-description: Spend a few days with us this fall and receive a 15% discount at participating
-  lodging properties between October 1, 2020- November 30, 2020. Some restrictions
-  apply and subject to change.
-image: "/img/announcing-the-oregon-s-adventure-coast-fall-lodging-special-blog-695x322-jpg.png"
+draft: true
+date: 2020-09-28T04:00:00Z
+description: >-
+  Spend a few days with us this fall and receive a 15% discount at participating
+  lodging properties between October 1, 2020- November 30, 2020. Some
+  restrictions apply and subject to change.
+image: >-
+  /img/announcing-the-oregon-s-adventure-coast-fall-lodging-special-blog-695x322-jpg.png
 tags:
-- Oregon Coast Getaway
-- Oregon Coast Hotel Discount
-- 'Autumn vacation '
-- Coos Bay
-- North Bend Oregon
-- 'Charleston Oregon '
-- Oregon Coast Hotels
-- North Bend Oregon Hotels
-- 'Coos Bay Hotels '
-- 'Oregon''s South Coast '
-- 'Hotel Savings '
-old_categories: []
+  - Oregon Coast Getaway
+  - Oregon Coast Hotel Discount
+  - 'Autumn vacation '
+  - Coos Bay
+  - North Bend Oregon
+  - 'Charleston Oregon '
+  - Oregon Coast Hotels
+  - North Bend Oregon Hotels
+  - 'Coos Bay Hotels '
+  - 'Oregon''s South Coast '
+  - 'Hotel Savings '
+categories:
+  - Oregon's Adventure Coast News & Info
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: true
-warning_copy: ''
-categories:
-- Oregon's Adventure Coast News & Info
-
 ---
-## _Save 15% Off Participating Properties Between October 1, 2020 through November 30, 2020_
+## *Save 15% Off Participating Properties Between October 1, 2020 through November 30, 2020*
 
 ![](/img/announcing-the-oregon-s-adventure-coast-fall-lodging-special-blog-695x322-jpg-2.png)
 
@@ -55,22 +54,22 @@ We could give you more ideas on ways to safely enjoy an Oregon Coast getaway thi
 
 You could go stand-up paddleboarding
 
-{{< youtube "7kidwJG10vA" >}}
+{{< youtube id="7kidwJG10vA" >}}
 
 {{< spacer 30 >}}
 
 And/or kayaking
 
-{{< youtube "XM8iebLuClI" >}}
+{{< youtube id="XM8iebLuClI" >}}
 
 {{< spacer 30 >}}
 
 And all of this!
 
-{{< youtube "IBkNO3WwACo" >}}
+{{< youtube id="IBkNO3WwACo" >}}
 
 {{< spacer 50 >}}
 
 [Click here to see more adventures](https://www.oregonsadventurecoast.com/adventures/) you can do this fall and plan your own itinerary!
 
-You must take advantage of this 15% off lodging offer before November 30th, [click here to see details ](https://www.oregonsadventurecoast.com/fall15/)and a list of participating hotels. We look forward to welcoming you back to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston - all we ask is for you to follow Oregon’s [Safe+Strong guidelines ](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you)to keep our community safe and remember that face coverings are required in public spaces. Please don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
+You must take advantage of this 15% off lodging offer before November 30th, [click here to see details](https://www.oregonsadventurecoast.com/fall15/)and a list of participating hotels. We look forward to welcoming you back to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston - all we ask is for you to follow Oregon’s [Safe+Strong guidelines](https://coronavirus.oregon.gov/Pages/default.aspx#:~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you)to keep our community safe and remember that face coverings are required in public spaces. Please don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.

@@ -1,42 +1,41 @@
 ---
+_schema: default
 title: 'The Best Stand-Up Paddleboarding Spots on Oregon''s Adventure Coast '
-date: 2020-09-04T04:00:00.000+00:00
-description: 'Let us introduce you to stand-up paddleboarding, or SUP for short, and
-  Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston has several great spots
-  to choose from. You just have to know where to look. Here are some of the best local
-  spots for stand-up paddleboarding (SUP).'
-image: "/img/paddleboarding-oregon-s-adventure-coast-blog-695x322-jpg.png"
+draft: true
+date: 2020-09-04T04:00:00Z
+description: >-
+  Let us introduce you to stand-up paddleboarding, or SUP for short, and
+  Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston has several great
+  spots to choose from. You just have to know where to look. Here are some of
+  the best local spots for stand-up paddleboarding (SUP).
+image: /img/paddleboarding-oregon-s-adventure-coast-blog-695x322-jpg.png
 tags:
-- Stand Up Paddleboarding
-- SUP
-- Oregon's Adventure Coast
-- Coos Bay
-- North Bend Oregon
-- Charleston Oregon
-- 'Oregon Coast '
-- 'Oregon Travel '
-- 'Oregon''s South Coast '
-- 'Water Recreation '
-- 'Sunset Bay State Park '
-- 'South Slough National Estuarine Research Reserve '
-- 'Tenmile Lake '
-old_categories: []
+  - Stand Up Paddleboarding
+  - SUP
+  - Oregon's Adventure Coast
+  - Coos Bay
+  - North Bend Oregon
+  - Charleston Oregon
+  - 'Oregon Coast '
+  - 'Oregon Travel '
+  - 'Oregon''s South Coast '
+  - 'Water Recreation '
+  - 'Sunset Bay State Park '
+  - 'South Slough National Estuarine Research Reserve '
+  - 'Tenmile Lake '
+categories:
+  - Outdoor Adventures
+  - Oregon's Adventure Coast News & Info
 seo:
   title: 'The Best Stand-Up Paddleboarding Spots on Oregon''s Adventure Coast '
-  description: 'Let us introduce you to stand-up paddleboarding, or SUP for short,
-    and Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston has several great
-    spots to choose from. You just have to know where to look. Here are some of the
-    best local spots for stand-up paddleboarding (SUP).'
+  description: >-
+    Let us introduce you to stand-up paddleboarding, or SUP for short, and
+    Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston has several great
+    spots to choose from. You just have to know where to look. Here are some of
+    the best local spots for stand-up paddleboarding (SUP).
   imgalt: ''
-  image: "/img/paddleboarding-oregon-s-adventure-coast-blog-695x322-jpg.png"
-aliases: []
-accordion_sections: []
+  image: /img/paddleboarding-oregon-s-adventure-coast-blog-695x322-jpg.png
 warning: true
-warning_copy: ''
-categories:
-- Outdoor Adventures
-- Oregon's Adventure Coast News & Info
-
 ---
 Everyone knows that getting out on the water is a great way to connect to nature, but what if we said you could also get in a full-body workout and improve your balance all while having fun out on the water? Let us introduce you to stand-up [paddleboarding, or SUP for short](https://www.oregonsadventurecoast.com/water-recreation/), and **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** has several great spots to choose from. You just have to know where to look. Here are some of the best local spots for stand-up paddleboarding (SUP).
 
@@ -50,7 +49,7 @@ Embarking on a SUP tour of the [South Slough National Estuarine Research Reserve
 
 ![](/img/paddleboarding-on-oregon-s-adventure-coast.png)
 
-Situated in one of the most scenic areas on the Oregon coast, [Sunset Bay State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=70) features beautiful sandy beaches protected by towering sea cliffs. Day-use and picnic facilities are located along the bay to allow easy access for paddleboarders as well as beachcombing, fishing, swimming, and kayaking. Only a short walk from the beach, the campground has sites for tent camping and RV’s, as well as cozy and comfortable yurts.
+Situated in one of the most scenic areas on the Oregon coast, [Sunset Bay State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=70) features beautiful sandy beaches protected by towering sea cliffs. Day-use and picnic facilities are located along the bay to allow easy access for paddleboarders as well as beachcombing, fishing, swimming, and kayaking. Only a short walk from the beach, the campground has sites for tent camping and RV’s, as well as cozy and comfortable yurts.
 
 ![](/img/sunset-bay-state-park-paddleboarding.jpg)
 
@@ -63,4 +62,4 @@ Just 15 miles north of Coos Bay, you will find approximately 2,000 acres of calm
 **Where Can I Rent SUP Gear on Oregon’s Adventure Coast?**
 Want to learn more or want to rent your own Stand-Up Paddleboard? Contact one of our local outfitters, including [Waxers Surf Shop](https://waxerssurfandskate.com/) in downtown Coos Bay; [Bahama Boards](https://bahamastyles.com/coos-bay-shop/) in Coos Bay; and [South Coast Tours](https://www.southcoasttours.net/). Be sure to ask about renting a wetsuit in case you fall in!
 
-When you are ready to visit, we will be here to help you plan your trip and stay safe. **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is the perfect destination to spread out, relax and recharge this fall. To keep our community safe, we ask all visitors to follow [Oregon’s Safe+Strong guidelines](https://coronavirus.oregon.gov/Pages/default.aspx#:\~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you). Be sure to[ keep a distance of six feet or more](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Ftransmission.html) between yourself and others outside of your group while in public and don’t forget that face covering are required in public spaces. Visit our [Adventure Page](https://www.oregonsadventurecoast.com/adventures/) for more cool ideas and inspiration and don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
+When you are ready to visit, we will be here to help you plan your trip and stay safe. **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is the perfect destination to spread out, relax and recharge this fall. To keep our community safe, we ask all visitors to follow [Oregon’s Safe+Strong guidelines](https://coronavirus.oregon.gov/Pages/default.aspx#:~:text=Oregonians%20must%20come%20together%20to,once%20it's%20available%20to%20you). Be sure to[keep a distance of six feet or more](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Ftransmission.html) between yourself and others outside of your group while in public and don’t forget that face covering are required in public spaces. Visit our [Adventure Page](https://www.oregonsadventurecoast.com/adventures/) for more cool ideas and inspiration and don’t hesitate to [contact us](https://www.oregonsadventurecoast.com/contact/) with any questions.
