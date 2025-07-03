@@ -1,43 +1,43 @@
 ---
-title: Everything You Need to Know About the 2022 Holiday Lights at Shore Acres State
+_schema: default
+title: >-
+  Everything You Need to Know About the 2022 Holiday Lights at Shore Acres State
   Park
-date: 2022-09-22T04:00:00+00:00
-description: We Have Answers to the Most Frequently Asked Questions About the NEW
-  Timed Entry System for the 2022 Holiday Lights Display at Shore Acres State Park!
-image: "/img/holiday-lights-shore-acres-panoramic.jpg"
+draft: true
+date: 2022-09-22T04:00:00Z
+description: >-
+  We Have Answers to the Most Frequently Asked Questions About the NEW Timed
+  Entry System for the 2022 Holiday Lights Display at Shore Acres State Park!
+image: /img/holiday-lights-shore-acres-panoramic.jpg
 tags:
-- 'Shore Acres State Park '
-- Shore Acres Holiday Lights
-- Holiday Lights Coos Bay
-- Holiday Lights at Shore Acres
-- Friends of Shore Acres
-- Holiday Lights Time Entry System
-- Oregon Coast
-- Christmas
-- Holidays
-- Coos Bay
-- North Bend Oregon
-- Charleston Oregon
+  - 'Shore Acres State Park '
+  - Shore Acres Holiday Lights
+  - Holiday Lights Coos Bay
+  - Holiday Lights at Shore Acres
+  - Friends of Shore Acres
+  - Holiday Lights Time Entry System
+  - Oregon Coast
+  - Christmas
+  - Holidays
+  - Coos Bay
+  - North Bend Oregon
+  - Charleston Oregon
 categories:
-- Special Events & Holidays
+  - Special Events & Holidays
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-aliases: []
-accordion_sections: []
 warning: false
-warning_copy: ''
-
 ---
-_We Have Answers to the Most Frequently Asked Questions About the NEW Timed Entry System for the 2022 Holiday Lights Display at Shore Acres State Park!_
+*We Have Answers to the Most Frequently Asked Questions About the NEW Timed Entry System for the 2022 Holiday Lights Display at Shore Acres State Park!*
 
 ![](/img/Shore-Acres-Holiday-Lights-Collage-3.jpg)
 
 Autumn officially begins this week, which means [Holiday Lights at Shore Acres State Park](https://www.oregonsadventurecoast.com/event/annual-holiday-lights-at-shore-acres/) is just around the corner! This will be the first time since 2019 the beautiful holiday lights will sparkle and dazzle on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** - and the anticipation could not be greater!
 
-To prevent extreme traffic and maintain visitor’s safety on Cape Arago Highway, [Oregon State Parks](https://stateparks.oregon.gov/) has implemented [a new timed entry system](https://oregonstateparks.reserveamerica.com/tourList.do?parkId=402381&contractCode=OR) that all park visitors, regardless of residency, must sign up for **_in advance_**, or else be turned away. For those of us who have attended year after year, this might take a little getting used to! But don’t worry, we have it on good authority that the holiday lights will be brighter and better than ever! An army of volunteers from Friends of Shore Acres (that’s right- volunteers) are hard at work to ensure our visitors have as smooth and easy experiences as possible.
+To prevent extreme traffic and maintain visitor’s safety on Cape Arago Highway, [Oregon State Parks](https://stateparks.oregon.gov/) has implemented [a new timed entry system](https://oregonstateparks.reserveamerica.com/tourList.do?parkId=402381&amp;contractCode=OR) that all park visitors, regardless of residency, must sign up for ***in advance***, or else be turned away. For those of us who have attended year after year, this might take a little getting used to! But don’t worry, we have it on good authority that the holiday lights will be brighter and better than ever! An army of volunteers from Friends of Shore Acres (that’s right- volunteers) are hard at work to ensure our visitors have as smooth and easy experiences as possible.
 
 We want to do our part to communicate these changes with the public, please read the following CAREFULLY to ensure your visit is a joyful experience!
 
@@ -47,7 +47,7 @@ We want to do our part to communicate these changes with the public, please read
 Holiday Lights display will be open daily from 4 p.m. - 9:30 p.m. Thanksgiving Day (Nov. 24, 2022) and will twinkle for all to enjoy through Dec. 31, 2022, even on Christmas Eve and Christmas Day.
 
 **What is required to enter?**
-A parking ticket will now be required to enter the event. All park visitors[ must reserve their spot](https://oregonstateparks.reserveamerica.com/tourList.do?parkId=402381&contractCode=OR) and have their ticket ready to show the ranger at the booth when they arrive at their selected times.
+A parking ticket will now be required to enter the event. All park visitors[must reserve their spot](https://oregonstateparks.reserveamerica.com/tourList.do?parkId=402381&amp;contractCode=OR) and have their ticket ready to show the ranger at the booth when they arrive at their selected times.
 
 **When should I reserve my spot?**
 Now. If you have not already done so, we suggest reserving your time slot as soon as possible! However, if you are not yet sure which night you plan to attend, we encourage you to purchase no later than 7 days prior to your preferred date to ensure you can get a parking spot.
@@ -59,10 +59,10 @@ Although visitors can reserve their timed entry parking spot now, additional spo
 No. Visitors will no longer have the option to purchase a parking permit onsite to park and attend.
 
 **Do I have to reserve a time slot if I am a resident?**
-Yes. Everyone wishing to see the Lights this year will be required to [reserve a spot](https://oregonstateparks.reserveamerica.com/tourList.do?parkId=402381&contractCode=OR) and have their ticket ready to show the ranger at the booth when they arrive at their selected times, regardless of residency.
+Yes. Everyone wishing to see the Lights this year will be required to [reserve a spot](https://oregonstateparks.reserveamerica.com/tourList.do?parkId=402381&amp;contractCode=OR) and have their ticket ready to show the ranger at the booth when they arrive at their selected times, regardless of residency.
 
 **How do I reserve my time slot?**
-Date and timed entry parking tickets are[ available now online](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381). Reservations can also be made by calling 800-452-5687.
+Date and timed entry parking tickets are[available now online](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381). Reservations can also be made by calling 800-452-5687.
 
 **How many tickets will I need?**
 One (1) ticket will be required **per vehicle** regardless of how many people are in the vehicle.
@@ -88,4 +88,4 @@ To help you plan your trip to see the [Holiday Lights at Shore Acres](https://ww
 **Who are The Friends of Shore Acres?**
 The Friends of Shore Acres is a group of volunteers dedicated to the beautification and preservation of Shore Acres State Park, the “crown jewel” of the Oregon State Park system. The group of volunteers launched the Holiday Lights show in 1987, and it continued to delight visitors through 2019. The event was paused 2020-2021 for visitor safety during the pandemic. In 2019, nearly 60,000 visitors attended. Park staff expect the light show to be as popular in 2022, if not more, after a two-year absence.
 
-Got more questions? Visit the [Friends of Shore Acres](https://shoreacres.net/) website or the [Oregon State Parks website](https://stateparks.oregon.gov/) for information! Visit our [Adventure Page](https://www.oregonsadventurecoast.com/adventures/) for more resources to plan the perfect Oregon Coast getaway! [Click here for directions](https://www.oregonsadventurecoast.com/travelers-info/) and other important travel tips, or [contact ](https://www.oregonsadventurecoast.com/contact/)one of our friendly volunteers at the Coos Bay Visitor Information Center on Oregon’s Adventure Coast and start planning your trip today!
+Got more questions? Visit the [Friends of Shore Acres](https://shoreacres.net/) website or the [Oregon State Parks website](https://stateparks.oregon.gov/) for information! Visit our [Adventure Page](https://www.oregonsadventurecoast.com/adventures/) for more resources to plan the perfect Oregon Coast getaway! [Click here for directions](https://www.oregonsadventurecoast.com/travelers-info/) and other important travel tips, or [contact](https://www.oregonsadventurecoast.com/contact/)one of our friendly volunteers at the Coos Bay Visitor Information Center on Oregon’s Adventure Coast and start planning your trip today!
