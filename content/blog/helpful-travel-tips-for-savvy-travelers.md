@@ -1,33 +1,36 @@
 ---
+_schema: default
 title: Helpful Travel Tips For Savvy Travelers
-date: 2019-01-10T21:00:00.000-08:00
-description: Planning a trip to Oregon’s South Coast? Whether you’re spending two
-  weeks or just a weekend, you likely want to make the most of your vacation. That’s
-  where smart planning comes in. Taking the time to plan an itinerary and be mindful
-  while exploring the area can help ensure you come away with memories that last a
-  lifetime. Here are some top tips that will help you make the most of your trip.
-image: "/img/mccullough-bridge-blog-695x322.jpg"
+draft: true
+date: 2019-01-10T21:00:00-08:00
+description: >-
+  Planning a trip to Oregon’s South Coast? Whether you’re spending two weeks or
+  just a weekend, you likely want to make the most of your vacation. That’s
+  where smart planning comes in. Taking the time to plan an itinerary and be
+  mindful while exploring the area can help ensure you come away with memories
+  that last a lifetime. Here are some top tips that will help you make the most
+  of your trip.
+image: /img/mccullough-bridge-blog-695x322.jpg
 tags:
-- Oregon Coast Travel
-- " Traveling to the Oregon Coast"
-- " Coos Bay"
-- North Bend Oregon
-- Charleston Oregon
-- Oregon Travel Trip
-old_categories:
-- 'Travel Tips '
-warning: true
+  - Oregon Coast Travel
+  - ' Traveling to the Oregon Coast'
+  - ' Coos Bay'
+  - North Bend Oregon
+  - Charleston Oregon
+  - Oregon Travel Trip
 categories:
-- Miscellaneous
-- Oregon's Adventure Coast News & Info
-
+  - Miscellaneous
+  - Oregon's Adventure Coast News & Info
+warning: true
+old_categories:
+  - 'Travel Tips '
 ---
 Planning a trip to Oregon’s South Coast? Whether you’re spending two weeks or just a weekend, you likely want to make the most of your vacation. That’s where smart planning comes in. Taking the time to plan an itinerary and be mindful while exploring the area can help ensure you come away with memories that last a lifetime. Here are some top tips that will help you make the most of your trip.
 
 **Eat Locally** Want to get a true sense of the Southern Oregon coast food & culture? Try one of the many [local restaurants on Oregon's Adventure Coas](https://oregonsadventurecoast.com/dining/)t specializing in everything from fresh seafood (of course) to authentic Italian, Sushi, American Deli, Mexican, Thai and more- and that’s just on one city block! You will learn a great deal about the local culture, not to mention help support the economy, by eating locally. Ask locals for their recommendations and ask the server what their favorite item on the menu is.
 
 **Ask Around**
-Don’t be afraid to ask people for advice when planning your trip, as well as when you’re walking around! Before your trip, use platforms like the [Oregon’s Adventure Coast Facebook  ](https://www.facebook.com/OregonsAdventureCoast/)to source suggestions on the best spots to visit, eat, stay and explore. You can also find inspiration by following [@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/) & [Twitter](https://twitter.com/travelcoosbay?lang=en)!  Forums like Reddit are also excellent for finding unique suggestions, especially for travelers with niche interests like antiquing and beer tasting.
+Don’t be afraid to ask people for advice when planning your trip, as well as when you’re walking around! Before your trip, use platforms like the [Oregon’s Adventure Coast Facebook](https://www.facebook.com/OregonsAdventureCoast/)to source suggestions on the best spots to visit, eat, stay and explore. You can also find inspiration by following [@travelcoosbay on Instagram](https://www.instagram.com/travelcoosbay/) & [Twitter](https://twitter.com/travelcoosbay?lang=en)!  Forums like Reddit are also excellent for finding unique suggestions, especially for travelers with niche interests like antiquing and beer tasting.
 
 **Wear Sunscreen**
 Even on a cold or overcast day, don’t underestimate the strength of the sun. Nothing can put a damper on a trip more than a painful sunburn, especially when you’ll be trekking up and down the coast. Apply sunscreen every day before heading outside, and reapply every hour.
