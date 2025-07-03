@@ -27,8 +27,8 @@ Slots, cards, or table games, AND breathtaking views - [The Mill Casino](http://
 **Get there:** The Mill Casino • Hotel & RV Park 3201 Tremont St, North Bend, OR (800) 953-4800  
 [www.themillcasino.com](http://www.themillcasino.com/)
 
-[Click here ](https://www.themillcasino.com/casino/promotions/)for promotions  
-[Click here](https://www.themillcasino.com/accommodations/hotel/) for hotel accommodations.
+[Click here ](https://www.kokwelresorts.com/coos-bay/)for promotions
+[Click here](https://www.kokwelresorts.com/coos-bay/) for hotel accommodations.
 
 ### **Three Rivers Casino – Coos Bay**
 

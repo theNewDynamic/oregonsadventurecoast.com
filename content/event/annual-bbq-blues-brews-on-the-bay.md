@@ -9,7 +9,7 @@ address:
   zip: '97459'
 phone_local: 541-756-8800
 phone_toll_free: 800-953-4800
-website: https://www.themillcasino.com/bbq-event/
+website: https://www.kokwelresorts.com/coos-bay/
 seo:
   title: BBQ, Blues & Brews
   description: >-
@@ -34,7 +34,7 @@ smallboxphoto: /img/bbq-blues-event-small.jpg
 
 **The Mill Casino \* Hotel's Annual BBQ, Blues & Brews on the Bay** has grown into one of The Mill's most attended events. Finger-lickin' good barbecue, hand-crafted beers, and smokin’ hot tunes at the BBQ, Blues & Brews on the Bay, Memorial Day Weekend.
 
-Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, May 24-25, 2025 at [**The Mill Casino • Hotel & RV Park**](https://www.themillcasino.com/).
+Whether you’re a grill master or just love to eat great barbecue, this event is for you. BBQ, Blues & Brews on the Bay, May 24-25, 2025 at [**The Mill Casino • Hotel & RV Park**](https://www.kokwelresorts.com/coos-bay/).
 
 Live entertainment this year features the Blue Tide Blues Band and Inner Limits! **NEW THIS YEAR** - People’s Choice Awards for Mac N Cheese and Oysters. Also **New This Year** - **Ice Carving & Whole Hog Demo**: On Saturday, May 24, at 4:00pm Rolling Smoke BBQ Team will be unveiling a **whole smoked hog** that will be offered out for samples. Make sure to stop by their booth to take a look, and a taste! On Sunday, May 25 from 12pm-3pm **Chef Chris Foltz, Master Ice Sculptor**, will create an ice masterpiece from a huge block of ice!
 

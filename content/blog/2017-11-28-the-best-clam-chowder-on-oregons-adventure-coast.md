@@ -52,7 +52,7 @@ The chowder served up at these dining establishments were also recommended with 
 
 
 
-<b><a href="https://www.themillcasino.com/dining/plank-house/" target="_blank" rel="noopener noreferrer">The Plank House Restaurant</a> 3201 Tremont Ave, North Bend</b>
+<b><a href="https://www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener noreferrer">The Plank House Restaurant</a> 3201 Tremont Ave, North Bend</b>
 
 The Plank House Restaurant in The Mill Casino not only has some of the best clam chowder in Coos Bay, North Bend, and Charleston, this restaurant has one of the best views of the bay!
 

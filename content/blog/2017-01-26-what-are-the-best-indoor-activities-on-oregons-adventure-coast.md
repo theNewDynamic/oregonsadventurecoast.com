@@ -41,7 +41,7 @@ The beautifully restored and historic Egyptian features classic movies and live 
 
 ### #2- Strike it Rich at The Mill Casino
 
-The Coos Bay, North Bend and Charleston area is home to <a href="http://traveloregon.com/see-do/oregon-heritage/native-american-heritage/the-mill-casino/" target="_blank">The Mill Casino</a>, where non-stop casino action is waiting for you. With over 700 slots, Vegas-style table games, and two lounges, there’s something going on 24 hours a day. Not up for gambling? That’s ok! Guests can enjoy top notch entertainment in the form of music and comedy throughout the month and dine at one of The Mill Casino’s many <a href="https://www.themillcasino.com/dining-bars/" target="_blank">restaurants and bars</a>.
+The Coos Bay, North Bend and Charleston area is home to <a href="http://traveloregon.com/see-do/oregon-heritage/native-american-heritage/the-mill-casino/" target="_blank">The Mill Casino</a>, where non-stop casino action is waiting for you. With over 700 slots, Vegas-style table games, and two lounges, there’s something going on 24 hours a day. Not up for gambling? That’s ok! Guests can enjoy top notch entertainment in the form of music and comedy throughout the month and dine at one of The Mill Casino’s many <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank">restaurants and bars</a>.
 
 ### #3- Become Inspired at The Coos Art Museum
 

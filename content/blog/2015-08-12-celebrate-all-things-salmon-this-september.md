@@ -37,7 +37,7 @@ The Mill-Luck Salmon Celebration offers visitors the opportunity to experience N
 
 The celebration is perhaps best known for it’s traditional salmon bake dinner where fresh salmon is prepared in the time-honored Coquille open-pit manner.
 
-To learn more, visit <a href="[https://www.themillcasino.com/entertainment/17th-annual-mill-luck-salmon-celebration/all/](https://www.themillcasino.com/entertainment/17th-annual-mill-luck-salmon-celebration/all/ "https://www.themillcasino.com/entertainment/17th-annual-mill-luck-salmon-celebration/all/")" >
+To learn more, visit <a href="[https://www.kokwelresorts.com/coos-bay/ "https://www.kokwelresorts.com/coos-bay/")" >
 
 ### Coos Basin Salmon Derby
 

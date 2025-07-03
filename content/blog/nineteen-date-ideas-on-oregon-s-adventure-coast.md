@@ -38,13 +38,13 @@ There’s just something about **Oregon’s Adventure Coast: Coos Bay, North Ben
 
 ![](/img/oregon-dunes-atv-ova-blog-695x322-1.jpg)
 
-**#3- Wine & Dine in a locally owned restaurant.** Enjoy a romantic dinner at a local restaurant with ambiance or beautiful views like[7 Devils Waterfront Alehouse](https://7devilsbrewery.com/waterfront-ale-house/), [Hilltop House](https://hilltophouserestaurant.com/), [The Portside Restaurant](https://www.facebook.com/PortsideRestaurant/), [The Plank House](https://www.themillcasino.com/dining/plank-house/) and [Restaurant O](http://restauranto.us/) (we recommend reservations). [Download our Local Restaurant Guide](https://www.oregonsadventurecoast.com/img/Restaurants-BOOKLET.pdf) guide to help you choose the right spot!
+**#3- Wine & Dine in a locally owned restaurant.** Enjoy a romantic dinner at a local restaurant with ambiance or beautiful views like[7 Devils Waterfront Alehouse](https://7devilsbrewery.com/waterfront-ale-house/), [Hilltop House](https://hilltophouserestaurant.com/), [The Portside Restaurant](https://www.facebook.com/PortsideRestaurant/), [The Plank House](https://www.kokwelresorts.com/coos-bay/) and [Restaurant O](http://restauranto.us/) (we recommend reservations). [Download our Local Restaurant Guide](https://www.oregonsadventurecoast.com/img/Restaurants-BOOKLET.pdf) guide to help you choose the right spot!
 ![](/img/oregon-coast-date-ideas-blog-695x322-jpg.png)
 
 **#4 - Oregon Coast Ice Skating!** Go ice skating at the [North Bend Ice Skating Rink](https://www.facebook.com/NorthBendIceSkatingRink), open through February 19, 2023!
 ![](/img/ice-skating-oregon-coast-695x322-jpg.jpg)
 
-**#5- Reserve a special hotel package.** Book a [Valentine’s Day Package](https://www.themillcasino.com/accommodations/packages/) at [The Mill Casino * Hotel & RV Park](https://www.themillcasino.com/) between Friday, February 10 – Tuesday, February 14, 2023 and receive a $50 Dining voucher, two $10 Free Slot Play vouchers, a custom chocolate treat and rose petals and sweetheart swans on the bed! [Click here](https://www.oregonsadventurecoast.com/lodging/) to see all other lodging options.
+**#5- Reserve a special hotel package.** Book a [Valentine’s Day Package](https://www.kokwelresorts.com/coos-bay/) at [The Mill Casino * Hotel & RV Park](https://www.kokwelresorts.com/coos-bay/) between Friday, February 10 – Tuesday, February 14, 2023 and receive a $50 Dining voucher, two $10 Free Slot Play vouchers, a custom chocolate treat and rose petals and sweetheart swans on the bed! [Click here](https://www.oregonsadventurecoast.com/lodging/) to see all other lodging options.
 ![](/img/_mill-casino-valentines-blog-695x322-jpg.jpg)
 
 **#6- Explore Shore Acres State Park**. Enjoy a stroll through the gardens and amazing views of the ocean at [Shore Acres State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=68), the crown jewel of the Oregon Coast.

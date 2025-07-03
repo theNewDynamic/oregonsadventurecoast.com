@@ -48,7 +48,7 @@ The 2025 summer flight schedule is perfectly timed for vacationers and weekend w
 * [2025 North Bend July Jubilee](https://www.oregonsadventurecoast.com/event/north-bend-july-jubilee/)\- July 18-20, 2025
 * [7th Annual Food Truck Off](https://www.oregonsadventurecoast.com/event/the-mill-casino-food-truck-off/)\- August 1-3, 2025
 * [Annual Blackberry Arts Festival](https://coosbaydowntown.com/blackberry-arts-festival/) August 23rd and 24th, 2025
-* [20th Mill-Luck Salmon Celebration](https://www.themillcasino.com/event/18th-annual-mill-luck-salmon-celebration/), September 13 & 14, 2025
+* [20th Mill-Luck Salmon Celebration](https://www.kokwelresorts.com/coos-bay/), September 13 & 14, 2025
 * [Prefontaine Memorial Run](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/) - September 20, 2025
 * [Cruz the Coos](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/) - Sept 20, 2025
 * [Annual Bay Area Fun Festival](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/)\- Sept 20-21, 2025

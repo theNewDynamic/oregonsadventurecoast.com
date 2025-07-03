@@ -117,7 +117,7 @@ Ruckus, the Reindeer, has convinced Santa’s reindeer to explore downtown Coos 
 
 #### December 3-4, 2024<br>Festival of Trees Holiday Showcase and Benefit Auction
 
-Visit <a href="https://www.themillcasino.com/" target="_blank" rel="noopener">The Mill Casino * Hotel &amp; RV Park</a> to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp; All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
+Visit <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener">The Mill Casino * Hotel &amp; RV Park</a> to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp; All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
 
 {{< spacer "50" >}}
 

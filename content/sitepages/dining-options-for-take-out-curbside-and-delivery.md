@@ -192,7 +192,7 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 [**Tai’s Dynasty**](http://taidynasty.com/) - NB -  **Dine-in** and take-out of the Chinese menu only, 11am-8pm daily (541) 756-3475
 
-[**Timbers** **& Warehouse 101at The Mill**](https://www.themillcasino.com/dining-bars/) - NB - Take-out from Timbers Cafe with social distancing dining in the Saw Blade Buffet. And dine-in at Warehouse 101. (541) 756-8800
+[**Timbers** **& Warehouse 101at The Mill**](https://www.kokwelresorts.com/coos-bay/) - NB - Take-out from Timbers Cafe with social distancing dining in the Saw Blade Buffet. And dine-in at Warehouse 101. (541) 756-8800
 
 [**Tin Thistle**](https://www.facebook.com/thetinthistlecafe/) - NB - **Dine-in,** take-out, curbside pick up of full menu (541) 267-0267
 
@@ -212,9 +212,9 @@ CB = Coos Bay; NB = North Bend; CH = Charleston
 
 #### Restaurants Temporarily Closing until the restrictions on seated dining are lifted. Please keep these establishments in your thoughts and plan to visit them when they re-open.
 
-**Aromas**, North Bend  
-**Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags  
-**Outdoor-In**, Coos Bay  
-**Saw Blade Buffet, Plankhouse, Whitecaps** at The Mill Casino Hotel & RV Park, North Bend  
-**Sizzler**, North Bend  
+**Aromas**, North Bend
+**Brickstone's at The Red Lion** - CLOSED; Hotel guest can receive breakfast to go bags
+**Outdoor-In**, Coos Bay
+**Saw Blade Buffet, Plankhouse, Whitecaps** at The Mill Casino Hotel & RV Park, North Bend
+**Sizzler**, North Bend
 **Wildflour Cafe**, North Bend

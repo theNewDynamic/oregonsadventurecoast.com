@@ -48,7 +48,7 @@ If there is time, we also recommend grabbing your camera (if you already haven�
 
 ### Early Evening
 
-For your evening itinerary, you can’t beat a neighborhood dining experience at a locally owned restaurant like **Ciccarelli’s** or **Hilltop House Restaurant and Lounge** overlooking the water. After dinner, hit <a href="https://www.themillcasino.com" target="_blank" rel="noopener">The Mill Casino • Hotel &amp; RV Park</a>and take your chances with lady luck on their massive selection of Vegas style slots and table games.
+For your evening itinerary, you can’t beat a neighborhood dining experience at a locally owned restaurant like **Ciccarelli’s** or **Hilltop House Restaurant and Lounge** overlooking the water. After dinner, hit <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener">The Mill Casino • Hotel &amp; RV Park</a>and take your chances with lady luck on their massive selection of Vegas style slots and table games.
 
 ### Late Evening
 

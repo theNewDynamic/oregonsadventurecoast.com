@@ -2,7 +2,7 @@
 _schema: default
 title: >-
   Featured Adventure: Take a Ride on the “Wild Side” With the Spinreel Follow Me
-  Tour 
+  Tour
 draft: false
 date: 2023-09-28T00:00:00-07:00
 description: >-
@@ -70,7 +70,7 @@ We’re here to help you plan an adventure you and your family will remember for
 
 [<u>www.fs.usda.gov</u>](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42465)[<u> www.stateparks.com</u>](https://www.stateparks.com/oregon_dunes_national_recreation_area_in_oregon.html)
 
-[<u>www.themillcasino.com/doing-the-oregon-dunes-safely/</u>](https://www.themillcasino.com/doing-the-oregon-dunes-safely/)
+[<u>www.themillcasino.com/doing-the-oregon-dunes-safely/</u>](https://www.kokwelresorts.com/coos-bay/)
 
 [<u>traveloregon.com</u>](https://traveloregon.com/things-to-do/destinations/parks-forests-wildlife-areas/a-locals-guide-to-the-oregon-dunes/)
 

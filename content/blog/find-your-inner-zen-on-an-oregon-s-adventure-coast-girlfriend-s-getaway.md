@@ -90,7 +90,7 @@ Be sure to hit the ice cream parlor inside the relatively new [Face Rock Creamer
 
 **EVENING: DINNER & CASINO GAMING**
 
-Wind down and enjoy a slightly more upscale restaurant experience at the [Hilltop House Restaurant & Lounge](https://hilltophouserestaurant.com/), [Coach House Restaurant & Lounge](https://www.thecoachhousecoosbayor.com/) or [Restaurant O,](http://restauranto.us/) (_reservations recommended_) before hitting our two [casinos](https://www.oregonsadventurecoast.com/gaming/). The Mill Casino and Three Rivers Casino Coos Bay are sure to give you a thrilling experience! Enjoy a nightcap at [Warehouse 101](https://www.themillcasino.com/dining/warehouse-101/) inside The Mill Casino.
+Wind down and enjoy a slightly more upscale restaurant experience at the [Hilltop House Restaurant & Lounge](https://hilltophouserestaurant.com/), [Coach House Restaurant & Lounge](https://www.thecoachhousecoosbayor.com/) or [Restaurant O,](http://restauranto.us/) (_reservations recommended_) before hitting our two [casinos](https://www.oregonsadventurecoast.com/gaming/). The Mill Casino and Three Rivers Casino Coos Bay are sure to give you a thrilling experience! Enjoy a nightcap at [Warehouse 101](https://www.kokwelresorts.com/coos-bay/) inside The Mill Casino.
 
 ### Girlfriend’s Getaway Itinerary Day Three:
 

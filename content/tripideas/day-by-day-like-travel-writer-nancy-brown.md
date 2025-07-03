@@ -37,7 +37,7 @@ A few years back, we hosted Travel Writer <a href="http://www.nancydbrown.com/20
 * Breakfast at a [local eatery](/dining).
 * Morning touring the Oregon Dunes National Recreation Area at <a href="http://www.ridetheoregondunes.com" target="_blank">Spinreel Dunebuggy & ATV Rentals</a>.
 * Lunch to sample the Crab Melt Sandwich at the Plank House Restaurant inside The Mill Casino * Hotel.
-* Check into <a href="https://www.themillcasino.com" target="_blank">The Mill Casino * Hotel</a> in one of their luxury suites, with soaking tub and balcony.
+* Check into <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank">The Mill Casino * Hotel</a> in one of their luxury suites, with soaking tub and balcony.
 * Afternoon guided tour to <a href="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=67" target="_blank">Golden & Silver Falls</a> with nature guide Marty Giles of <a href="http://wavecrestdiscoveries.com" target="_blank">Wavecrest Discoveries</a>.
 * Dinner at the <a href="http://www.thecoachhousecoosbayor.com" target="_blank">Coach House</a>.
 

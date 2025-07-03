@@ -117,7 +117,7 @@ Our region is full of independently owned dining establishments serving up every
 
 [Katrina Kathleen’s Home Decor & Gifts](https://www.facebook.com/katrinakathleens/?rf=212911775714072) - Home accents, holiday items and ornaments, jewelry, floral, accessories, antiques and more. In downtown Coos Bay.
 
-[Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts/) - Handcrafted jewelry and beadwork, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members. Inside The Mill Casino * Hotel & RV Park.
+[Ko-Kwel Gifts](https://www.kokwelresorts.com/coos-bay/) - Handcrafted jewelry and beadwork, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members. Inside The Mill Casino * Hotel & RV Park.
 
 [Canard Labs](https://canardlabs.com/)– Shoppers will find amazing and luxurious ways to pamper themselves with decadent soaps, lotions, organic skincare, soothing candles and more. In downtown Coos Bay.
 
@@ -153,7 +153,7 @@ Our region is full of independently owned dining establishments serving up every
 
 [Katrina Kathleen’s Home Decor & Gifts](https://www.facebook.com/katrinakathleens/?rf=212911775714072) - Home accents, holiday items and ornaments, jewelry, floral, accessories, antiques and more. In downtown Coos Bay.
 
-[Ko-Kwel Gifts](https://www.themillcasino.com/accommodations/ko-kwel-gifts/) - Handcrafted jewelry and bead work, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members. Inside The Mill Casino * Hotel & RV Park.
+[Ko-Kwel Gifts](https://www.kokwelresorts.com/coos-bay/) - Handcrafted jewelry and bead work, carved wood pieces, glassware and regional photography are among the many creations offered by Coquille Tribal members. Inside The Mill Casino * Hotel & RV Park.
 
 [Shore Acres Holiday Lights Gift Center](https://www.shoreacres.net) - Local art, jewelry, historical books, toys, puzzles ornaments, souvenirs and unique LED light features you can take home. Outside Charleston on Cape Arago Highway.
 

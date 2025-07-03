@@ -100,7 +100,7 @@ Fortunately, Spinreel makes the safety orientation easy, helpful AND fun! “The
 
 **Make Reservations.** Spinreel recommends making reservations for rental vehicles for their first available times (June–August at 9:30 a.m. and September–May at 10:30 a.m.). Reservations can be made online or by phone if you have further questions. Making reservations will ensure there are vehicles available for you, and will make the process much smoother.
 
-**Leave no trace**. The Oregon Dunes National Recreation Area, a rare combination of forest, ocean and desert, is one of our most unique treasured natural destinations on Oregon’s Adventure Coast. It is up to us to be good stewards of the land. If you see wildlife, please appreciate it from afar and do not attempt to touch or interact with them - it is after all, their home. All visitors are responsible for their own actions, and we ask they take special care and [follow Leave No Trace principles](https://lnt.org/learn/seven-principles-overview).  Please learn more and consider supporting conversation efforts from organizations like [Save the Oregon Dunes](https://www.saveoregondunes.org/). 
+**Leave no trace**. The Oregon Dunes National Recreation Area, a rare combination of forest, ocean and desert, is one of our most unique treasured natural destinations on Oregon’s Adventure Coast. It is up to us to be good stewards of the land. If you see wildlife, please appreciate it from afar and do not attempt to touch or interact with them - it is after all, their home. All visitors are responsible for their own actions, and we ask they take special care and [follow Leave No Trace principles](https://lnt.org/learn/seven-principles-overview).  Please learn more and consider supporting conversation efforts from organizations like [Save the Oregon Dunes](https://www.saveoregondunes.org/).
 
 We’re here to help you plan an adventure you and your family will remember for years to come.
 
@@ -112,7 +112,7 @@ For more tips on how to get the most out of your Oregon Dunes Adventure, please 
 
 [www.fs.usda.gov](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42465)[ www.stateparks.com](https://www.stateparks.com/oregon_dunes_national_recreation_area_in_oregon.html)
 
-[www.themillcasino.com/doing-the-oregon-dunes-safely/](https://www.themillcasino.com/doing-the-oregon-dunes-safely/)
+[www.themillcasino.com/doing-the-oregon-dunes-safely/](https://www.kokwelresorts.com/coos-bay/)
 
 [www.duneguide.com/sand_dune_guide_oregon_coos_bay.htm](http://www.duneguide.com/sand_dune_guide_oregon_coos_bay.htm)
 

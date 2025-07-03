@@ -9,7 +9,7 @@ address:
   street: 3201 Tremont St.
   zip: 97459
 phone_local: (541) 756-8800
-website: https://www.themillcasino.com/event/food-truck-off/
+website: https://www.kokwelresorts.com/coos-bay/
 seo:
   imgalt: 'Mill Casino Food Truck Off '
 desktoptitle: Annual Food Truck Off

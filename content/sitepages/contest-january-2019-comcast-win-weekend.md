@@ -27,7 +27,7 @@ Thank you for all who participated!
 
 You Will Receive Meal Vouchers for Each of the Venues Listed Below in the Amount Specified. _Alcohol and gratuity not included. No cash value._
 
-* $75 Comp Card - The Mill Casino • Hotel & RV Park ([themillcasino.com](https://www.themillcasino.com/))
+* $75 Comp Card - The Mill Casino • Hotel & RV Park ([themillcasino.com](https://www.kokwelresorts.com/coos-bay/))
 * $50 - 7 Devils Brewing Co. ([7devilsbrewery.com](https://www.7devilsbrewery.com/ "https://www.7devilsbrewery.com/"))
 * $50 - Rodeo Steakhouse & Grill ([rodeosteakhousegrill.com](https://www.rodeosteakhousegrill.com/ "https://www.rodeosteakhousegrill.com/"))
 * $35 - Sharkbites Cafe ([sharkbites.cafe](http://www.sharkbites.cafe/ "http://www.sharkbites.cafe/"))

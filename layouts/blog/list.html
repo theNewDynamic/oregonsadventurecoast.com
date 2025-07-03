@@ -6,13 +6,13 @@
     <div class="m-standard-nav -hide-mobile">
         {{ partial "blogsidebar" . }}
     </div>
-    
+
     <div class="m-standard-content m-blog-post">
         <h1>Our Adventure Blog</h1>
         {{ range (.Paginator 20).Pages.ByPublishDate.Reverse }}
         <div class="list-post">
             {{ if .Params.image }}
-            
+
                 <div class="blog-image"><a href="{{ .Permalink }}"><img data-pin-url="{{ .Permalink }}" src="{{ .Params.image }}" alt="{{ .Title }}" /></a>
                     <div class="share">
                         <span class="share-trigger">
@@ -26,7 +26,7 @@
                 <div class="mobile-share">
                     {{ partial "mobileshare" (dict "title" .Title "url" .Permalink) }}
                 </div>
-            
+
             {{ end }}
             <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
 
@@ -43,7 +43,7 @@
                 </ul>
                 {{ end }}
             </div>
-        
+
             <div class="introtext clearfix">
                 <p>{{ .Description }}...
                     <div class="meta-mobile">
@@ -60,7 +60,7 @@
                 </p>
             </div>
 
-            
+
         </div>
         {{ end }}
 

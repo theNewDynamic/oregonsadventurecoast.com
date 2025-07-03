@@ -51,9 +51,9 @@ This Coos Bay bar and restaurant is best known for its friendly and welcoming at
 
 The Blue Moon has it all. Their convenient and central location in Coos Bay, Oregon is an easy stop for locals as well as travelers making their way down Highway 101. With two separate sections, patrons can enjoy a stiff drink in the saloon or bring family into the cafe for some of the best breakfast in town. The saloon boasts a music venue with karaoke nights, pool table and video lottery machines.
 
-## [Warehouse 101](https://www.themillcasino.com/dining/warehouse-101/)
+## [Warehouse 101](https://www.kokwelresorts.com/coos-bay/)
 
-This well known North Bend establishment is part nightclub, part sports bar. Located inside [The Mill Casino](https://www.themillcasino.com/), _Warehouse 101_ is a great place to catch live bands every Friday and Saturday night. Their massive widescreen TVs and vast selection of craft beer and wings also make it a fun place to catch the game (Tip- The Mill Casino now offers Sports Betting right outside Warehouse 101). And if that’s not enough, they offer Trivia Night every Tuesday evening, and hilarious stand-up comedy each Wednesday night!
+This well known North Bend establishment is part nightclub, part sports bar. Located inside [The Mill Casino](https://www.kokwelresorts.com/coos-bay/), _Warehouse 101_ is a great place to catch live bands every Friday and Saturday night. Their massive widescreen TVs and vast selection of craft beer and wings also make it a fun place to catch the game (Tip- The Mill Casino now offers Sports Betting right outside Warehouse 101). And if that’s not enough, they offer Trivia Night every Tuesday evening, and hilarious stand-up comedy each Wednesday night!
 
 ## [Liberty Pub](https://www.facebook.com/TheLibertyPub/)
 

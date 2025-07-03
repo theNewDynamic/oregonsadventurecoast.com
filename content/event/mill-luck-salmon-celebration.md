@@ -11,7 +11,7 @@ address:
   zip: 97459
 phone_local: 800-953-4800
 phone_toll_free: 541-756-8800
-website: https://www.themillcasino.com/event/18th-annual-mill-luck-salmon-celebration/
+website: https://www.kokwelresorts.com/coos-bay/
 desktoptitle: Mill-Luck Salmon Celebration
 mobiletitle: Salmon Celebration
 hovertitle: Salmon Celebration

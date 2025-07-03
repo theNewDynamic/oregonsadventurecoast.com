@@ -49,7 +49,7 @@ _**Please note: all scheduled events mentioned in this blog post are subject to 
 
 **#1 Celebrate Independence Day with FREE Admission to the following events:**
 
-* July 3, 2022 - Watch the largest fireworks display on the Oregon Coast at [The Mill Casino](https://www.themillcasino.com/)! The waterfront fireworks display will be located in front of The Mill Casino, but can be seen from anywhere along the Bay! Tune in to [K-DOCK radio 92.9 fm](https://kdockfm.com/) for the live remote and firework display broadcast!
+* July 3, 2022 - Watch the largest fireworks display on the Oregon Coast at [The Mill Casino](https://www.kokwelresorts.com/coos-bay/)! The waterfront fireworks display will be located in front of The Mill Casino, but can be seen from anywhere along the Bay! Tune in to [K-DOCK radio 92.9 fm](https://kdockfm.com/) for the live remote and firework display broadcast!
 * July 4, 2022 - Stick around for many events throughout the day in Mingus Park, and cap it off with a 2nd night of fireworks with the City of Coos Bay’s fireworks display! The display can also be seen from most places along the Bay, from The Coos History Museum to Eastside!
 
 **#2 The** [**Coos History Museum**](https://cooshistory.org/) **offers FREE Admission on the** [**Second Saturday**](https://cooshistory.org/events/second-saturday-aug-2022/) **of each month!** Join their new CHM Explorer’s Club with children’s activities in the Sprague Gallery from 10 am-12 noon. Regular museum admission ranges from just $3-$7, and it is always free to members, active-duty service, and children under five.

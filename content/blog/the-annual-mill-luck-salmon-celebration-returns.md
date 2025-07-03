@@ -38,7 +38,7 @@ draft: true
 
 “Our ancestors flourished among the forests, rivers, meadows and beaches of southwestern Oregon. The land and water offered endless life-sustaining resources, and our people adapted ingeniously to this waterside paradise.” **- Coquille Indian Tribe**
 
-Much like the Salmon return upstream, the [Mill-Luck Salmon Celebration](https://www.themillcasino.com/entertainment/17th-annual-mill-luck-salmon-celebration/2021-09-12/) returns to the Mill Casino in North Bend after a hiatus in 2020 due to the COVID shutdown.
+Much like the Salmon return upstream, the [Mill-Luck Salmon Celebration](https://www.kokwelresorts.com/coos-bay/) returns to the Mill Casino in North Bend after a hiatus in 2020 due to the COVID shutdown.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmillcasino%2Fposts%2F10165913457920294&show_text=true&width=500" width="500" height="403" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -53,7 +53,7 @@ Learn more about the festivities and traditions below.
 
 The main event is free to attend, and tickets for the salmon bake meal are $35 for adults and $30 for children (12 and under). Tickets will be available in Ko-Kwel Gifts and include a commemorative Salmon Celebration tee shirt (while supplies last) starting August 10, 2021. Guests may also purchase their meal at the meal tent during the event. The price for the meal without the T-shirt is $27 for adults and $20 for children.
 
-Bring the whole family for a wonderful weekend of fun! **Please visit** [**www.themillcasino.com**](https://www.themillcasino.com/entertainment/17th-annual-mill-luck-salmon-celebration/2021-09-12/) **for schedule and Salmon Bake Dinner ticket information.**
+Bring the whole family for a wonderful weekend of fun! **Please visit** [**www.themillcasino.com**](https://www.kokwelresorts.com/coos-bay/) **for schedule and Salmon Bake Dinner ticket information.**
 
 FYI- September is a wonderful time to visit **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**, so we recommend booking accommodations before it's too late! [Visit our lodging page](https://www.oregonsadventurecoast.com/lodging/) to search through the great options of hotels and inns in the Coos Bay area.
 
