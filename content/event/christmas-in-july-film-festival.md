@@ -22,7 +22,7 @@ largeboxphoto: /img/batman-large-event-banner.jpg
 mediumboxphoto: /img/batman-medium-event-banner.jpg
 smallboxphoto: /img/batman-small-event-banner.jpg
 ---
-&nbsp;
+![striped box of popcorn on a shiny counter with christmas decorations](/img/christmas-in-july-header-695x322.jpg)
 
 {{< spacer "30" >}}
 
