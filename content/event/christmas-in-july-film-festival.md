@@ -18,9 +18,9 @@ hoverdescription: >-
   Watch three iconic holiday films on the big screen at the historic Egyptian
   Theatre.
 photo: /img/christmas-in-july-page-hdr-2048-530.jpg
-largeboxphoto: /img/batman-large-event-banner.jpg
-mediumboxphoto: /img/batman-medium-event-banner.jpg
-smallboxphoto: /img/batman-small-event-banner.jpg
+largeboxphoto: /img/christmas-july-cover-large.jpg
+mediumboxphoto: /img/christmas-july-cover-medium.jpg
+smallboxphoto: /img/christmas-july-cover-small.jpg
 ---
 ![striped box of popcorn on a shiny counter with christmas decorations](/img/christmas-in-july-header-695x322.jpg)
 
