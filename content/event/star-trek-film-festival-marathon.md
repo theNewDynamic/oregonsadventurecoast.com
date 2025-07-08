@@ -17,12 +17,12 @@ hovertitle: Star Trek Marathon
 hoverdescription: >-
   Watch three iconic Star Trek films on the big screen at the historic Egyptian
   Theatre.
-photo: /img/christmas-in-july-page-hdr-2048-530.jpg
-largeboxphoto: /img/christmas-july-cover-large.jpg
-mediumboxphoto: /img/christmas-july-cover-medium.jpg
-smallboxphoto: /img/christmas-july-cover-small.jpg
+photo: /img/star-trek-marathon-subhdr-2048x530.jpg
+largeboxphoto: /img/star-trek-cover-large.jpg
+mediumboxphoto: /img/star-trek-cover-medium.jpg
+smallboxphoto: /img/star-trek-cover-small.jpg
 ---
-&nbsp;
+![Star Trek Marathon with original Enterprise Ship](/img/star-trek-header-695x322.jpg)
 
 {{< spacer "30" >}}
 
