@@ -26,15 +26,15 @@ smallboxphoto: /img/batman-small-event-banner.jpg
 
 {{< spacer "30" >}}
 
-## **Experience the Ultimate Batman Film Festival at the Historic Egyptian Theatre!**
+## **Experience the Magic of Christmas in July at the Historic Egyptian Theatre!**
 
-On the weekend of May 16-18th, step into the grandeur of Hollywood’s golden age and immerse yourself in a weekend dedicated to the Dark Knight at the Historic Egyptian Theatre in Coos Bay! The Batman Weekend Film Festival brings Gotham’s most iconic cinematic moments to the big screen, from classic caped crusader adventures to modern masterpieces.
+From July 19–21, escape the summer heat and step into a winter wonderland of holiday cheer at the Historic Egyptian Theatre in Coos Bay! **The Christmas in July Film Festival** brings beloved holiday classics back to the big screen—including *Elf*, *Home Alone*, and *The Shop Around the Corner*—for a weekend of laughter, nostalgia, and heartwarming fun.
 
-Celebrating its 100th anniversary in 2025, the Egyptian Theatre is the perfect setting for this legendary tribute. With its rich history, stunning architecture, and classic movie palace ambiance, this venue transports you straight into the world of Gotham—where shadows loom large, heroes rise, and unforgettable stories unfold.
+As the Egyptian Theatre approaches its 100th anniversary in 2025, there’s no better place to relive these timeless favorites than inside this beautifully preserved movie palace. With its golden-era charm and festive atmosphere, you’ll feel like you’ve been transported straight to the North Pole (without the snow!).
 
-Join fellow fans for a weekend of thrilling action, mystery, and nostalgia in one of Oregon’s most spectacular historic theaters. Whether you’re a lifelong Batman aficionado or discovering these films for the first time, this festival is an experience you won’t want to miss.
+Bring your friends, family, or that one cousin who keeps their Christmas lights up year-round—and celebrate the season of joy a little early this year. Whether you’ve watched these films a hundred times or are experiencing them for the first time, this holiday weekend at the Egyptian Theatre is sure to warm your heart.
 
-<a href="https://www.egyptiantheatre.events/" target="_blank" rel="noopener">Visit the Egyptian Theatre’s website for showtimes and details.</a>
+<a href="https://www.egyptiantheatre.events" target="_blank" rel="noopener">Visit the Egyptian Theatre’s website for showtimes and details.</a>
 
 {{< spacer "25" >}}
 
