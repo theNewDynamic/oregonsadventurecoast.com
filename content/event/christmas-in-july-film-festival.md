@@ -28,7 +28,7 @@ smallboxphoto: /img/christmas-july-cover-small.jpg
 
 ## **Experience the Magic of Christmas in July at the Historic Egyptian Theatre!**
 
-From July 19–21, escape the summer heat and step into a winter wonderland of holiday cheer at the Historic Egyptian Theatre in Coos Bay! **The Christmas in July Film Festival** brings beloved holiday classics back to the big screen—including *Elf*, *Home Alone*, and *The Shop Around the Corner*—for a weekend of laughter, nostalgia, and heartwarming fun.
+On July 25–26, escape the summer heat and step into a winter wonderland of holiday cheer at the Historic Egyptian Theatre in Coos Bay! **The Christmas in July Film Festival** brings beloved holiday classics back to the big screen—including *Elf*, *Home Alone*, and *The Shop Around the Corner*—for a weekend of laughter, nostalgia, and heartwarming fun.
 
 As the Egyptian Theatre approaches its 100th anniversary in 2025, there’s no better place to relive these timeless favorites than inside this beautifully preserved movie palace. With its golden-era charm and festive atmosphere, you’ll feel like you’ve been transported straight to the North Pole (without the snow!).
 
