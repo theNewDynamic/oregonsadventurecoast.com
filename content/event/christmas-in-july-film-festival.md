@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Christmas in July Film Festival
-startdate: '2025-07-10'
+startdate: '2025-07-25'
 enddate: '2025-07-26'
 address:
   city: Coos Bay
