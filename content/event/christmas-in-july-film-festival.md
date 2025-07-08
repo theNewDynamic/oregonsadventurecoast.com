@@ -22,7 +22,7 @@ largeboxphoto: /img/batman-large-event-banner.jpg
 mediumboxphoto: /img/batman-medium-event-banner.jpg
 smallboxphoto: /img/batman-small-event-banner.jpg
 ---
-![Dark batman figure and text promoting Batman weekend film festival on May 16-18](/img/batman-page-header.jpg)
+&nbsp;
 
 {{< spacer "30" >}}
 
