@@ -22,7 +22,7 @@ largeboxphoto: /img/christmas-july-cover-large.jpg
 mediumboxphoto: /img/christmas-july-cover-medium.jpg
 smallboxphoto: /img/christmas-july-cover-small.jpg
 ---
-![striped box of popcorn on a shiny counter with christmas decorations](/img/christmas-in-july-header-695x322.jpg)
+&nbsp;
 
 {{< spacer "30" >}}
 
