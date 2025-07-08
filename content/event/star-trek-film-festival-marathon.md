@@ -26,13 +26,13 @@ smallboxphoto: /img/christmas-july-cover-small.jpg
 
 {{< spacer "30" >}}
 
-## **Experience the Magic of Christmas in July at the Historic Egyptian Theatre!**
+## **Boldly Go to the Star Trek Marathon at the Historic Egyptian Theatre!**
 
-On July 25–26, escape the summer heat and step into a winter wonderland of holiday cheer at the Historic Egyptian Theatre in Coos Bay! **The Christmas in July Film Festival** brings beloved holiday classics back to the big screen—including *Elf*, *Home Alone*, and *The Shop Around the Corner*—for a weekend of laughter, nostalgia, and heartwarming fun.
+On **September 5–6**, embark on an epic journey through space and time at the Historic Egyptian Theatre in Coos Bay! The **Star Trek Weekend Marathon** brings three fan-favorite films back to the big screen—*Star Trek II: The Wrath of Khan*, *Star Trek III: The Search for Spock*, and *Star Trek IV: The Voyage Home*—for a two-day celebration of sci-fi adventure, camaraderie, and intergalactic drama.
 
-As the Egyptian Theatre approaches its 100th anniversary in 2025, there’s no better place to relive these timeless favorites than inside this beautifully preserved movie palace. With its golden-era charm and festive atmosphere, you’ll feel like you’ve been transported straight to the North Pole (without the snow!).
+As the Egyptian Theatre nears its 100th anniversary in 2025, this beautifully restored movie palace is the perfect setting to revisit these cinematic voyages. With its iconic architecture and vintage movie magic, you’ll feel like you’re stepping onto the bridge of the Enterprise itself.
 
-Bring your friends, family, or that one cousin who keeps their Christmas lights up year-round—and celebrate the season of joy a little early this year. Whether you’ve watched these films a hundred times or are experiencing them for the first time, this holiday weekend at the Egyptian Theatre is sure to warm your heart.
+Whether you’re a lifelong Trekkie or a curious newcomer, join fellow fans for a weekend of legendary storytelling, unforgettable characters, and warp-speed nostalgia. Set your phasers to fun—this Star Trek Marathon at the Egyptian Theatre is one mission you won’t want to miss.
 
 <a href="https://www.egyptiantheatre.events" target="_blank" rel="noopener">Visit the Egyptian Theatre’s website for showtimes and details.</a>
 
@@ -42,15 +42,15 @@ Bring your friends, family, or that one cousin who keeps their Christmas lights 
 
 {{< spacer "25" >}}
 
-## Christmas in July Film Festival Schedule
+## Star Trek Marathon Film Festival Schedule
 
-### Friday, July 25
+### Friday, September 5
 
-* 7:00PM – ELF
+* 7:00PM – Star Trek II: The Wrath of Khan
 
-### Saturday, July 26
+### Saturday, September 6
 
-* 2:00PM – Home Alone
-* 7:00PM – The Shop Around the Corner
+* 2:00PM – Star Trek III: The Search for Spock
+* 7:00PM – Star Trek IV: The Voyage Home
 
 **🎟 Admission: Adults $5 \| Seniors $4 \| Kids $3**
