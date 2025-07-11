@@ -22,7 +22,7 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 {{< spacer 25 >}}
 
-#### <a target="_blank" rel="noopener">Learn About Our Local Lodging Tax and the History of the VCB</a>
+#### <a target="_blank" rel="noopener" href="/img/local-tlt-explained-vcb-taxingentities-fy26-1.pdf">Learn About Our Local Lodging Tax and the History of the VCB</a>
 
 {{< spacer "25" >}}
 
