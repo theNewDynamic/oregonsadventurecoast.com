@@ -4,10 +4,10 @@ title: 18 Free Things You Can Do on Oregon's Adventure Coast This Summer
 draft: false
 date: 2025-07-11T12:00:00-07:00
 description: >-
-  <br>From free festivals and outdoor adventures to complimentary access to
-  local museums, there is no shortage of budget-friendly experiences waiting for
-  you here. Join us as we explore some of our top picks for enjoying Coos Bay,
-  North Bend, and Charleston for free (or on the cheap).
+  From free festivals and outdoor adventures to complimentary access to local
+  museums, there is no shortage of budget-friendly experiences waiting for you
+  here. Join us as we explore some of our top picks for enjoying Coos Bay, North
+  Bend, and Charleston for free (or on the cheap).
 image: /img/free-things-you-can-do-oregons-adventure-coast-blog-695x322.jpg
 tags:
   - Oregon Coast
