@@ -23,14 +23,14 @@ date: '2019-02-18T19:35:33.000+00:00'
 
 *These meetings are open to the public and are available for attendance in person or for viewing online via Zoom. To attend in person, RSVP is REQUIRED.*
 
-Board Meetings are generally held at [**The Mill Casino \* Hotel**](https://www.kokwelresorts.com/coos-bay/) in the 2nd floor meeting rooms of the hotel property.
+Board Meetings are generally held at [**Ko-Kwel Casino Resort Coos Bay**](https://www.kokwelresorts.com/coos-bay/) in the 2nd floor meeting rooms of the hotel property.
 
 **UPDATED 2/2025:** Board Meetings are usually held on the **3rd Thursday of the month from 8:30 am to approximately 9:45 am**.
 
 *On occasion, changes are made to this schedule. To be informed of meeting times/locations,* [*please ask to be added*](mailto:janice@oregonsadventurecoast.com) *to the **Public Notice** email which goes out the Monday prior to the meeting.*
 
 * **Those who wish to attend in person must RSVP** to the [Executive Director](mailto:janice@oregonsadventurecoast.com) to ensure adequate seating and spacing in the meeting room.
-* **Those who wish to attend via Zoom**, are able to do so by clicking on the link in the Agenda for the meeting or by [clicking this link](https://us02web.zoom.us/j/81105093209?pwd=ZTFobnJYWFV0UWdvaXJETktBSmNyZz09). Agendas are sent with the **Public Notice Announcement**.
+* **Those who wish to attend via Zoom**, are able to do so by clicking on the link in the Agenda for the meeting or by [clicking this link](https://us02web.zoom.us/j/81584270155?pwd=Sp9vhAEKykFiw4iLzfDnGsb36ZLWQ1.1). Agendas are sent with the **Public Notice Announcement**.
 
 {{< spacer 25 >}}
 
@@ -46,7 +46,7 @@ The presiding office has the inherent authority to keep order and impost reasona
 
 #### [**Ask to be added to the Public Notice Announcement!**](mailto:janice@oregonsadventurecoast.com "Add me to the Public Notice Announcement")
 
-{{< spacer 50 >}}<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" height="15" width="15" /><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" height="15" width="15" />
+{{< spacer 50 >}}<img title="Click and drag to move" height="15" width="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" /><img title="Click and drag to move" height="15" width="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
 
 #### Board Packets
 
