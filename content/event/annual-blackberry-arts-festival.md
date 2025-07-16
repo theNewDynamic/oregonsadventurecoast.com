@@ -34,6 +34,8 @@ Blackberry arts, food, and drink are the fare at this popular event in downtown 
 
 {{< spacer 50 >}}
 
+![](/img/bbarts-banner-1.jpg)
+
 The **Blackberry Arts Festival** is a juried arts and craft festival that has been happening for 40 years. It was started to highlight the works of local artists and crafters during the annual harvest of the blackberry. It features an impressive array of metalwork, jewelry, quilts, candles, hand-painted clothing, wine, carved wood, and much more available for purchase. The festival also includes food vendors. The Street Fair and Vendors will be open on Central Ave.&nbsp;***SAT. 9am-6pm and SUN. 10am-4pm***.
 
 {{< spacer 50 >}}
