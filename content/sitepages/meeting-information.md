@@ -64,4 +64,6 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 **THE VCB’s TOTAL BUDGET FOR FISCAL YEAR 2026 IS $1,542,160**
 
+<a href="/img/CBNB-MarketingBudget-07-25-FINAL-FINAL-FINAL-reduced size.pdf" target="_blank" rel="noopener"><strong>Adopted FY26 Marketing &amp; Advertising Plan</strong></a>
+
 &nbsp;
