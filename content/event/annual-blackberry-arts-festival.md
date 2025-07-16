@@ -42,15 +42,15 @@ The **Blackberry Arts Festival** is a juried arts and craft festival that has be
 
 {{< spacer 50 >}}
 
-**This is a FREE event with activities centered on Central Avenue in downtown Coos Bay.** The festival is scheduled for August 23rd and 24th this year.
+{{< floatimage src="/img/bbarts-recipe-infor.png" float="left" alt="" size="" >}}**Blackberry Recipe Contest** - every year, the festival includes a recipe contest using the beloved blackberry. More information on how to participate in the annual recipe contest coming soon!
+
+**This is a FREE event with activities centered on Central Avenue in downtown Coos Bay.**
 
 {{< spacer 50 >}}
 
 ![](/img/blackberry-bar.jpeg)
 
-[7 Devils Brewing Co](https://www.facebook.com/7DevilsBrewingCo) is the official beer garden of **The Blackberry Arts Festival**! They will have live music and BBQ in the evenings, and Blackberry drink and dessert specials all weekend!
-
-Concerts:<br>TBD<br>​​​​
+[7 Devils Brewing Co](https://www.facebook.com/7DevilsBrewingCo) is the official beer garden of **The Blackberry Arts Festival**! They will have live music and BBQ in the evenings, and Blackberry drink and dessert specials all weekend!<br>​​​​
 
 {{< spacer "25" >}}
 
@@ -58,10 +58,12 @@ Concerts:<br>TBD<br>​​​​
 
 ### Blackberry Jam!
 
-#####
-
 Featuring great music from some of our festival favorites! Stage is located at Central and 3rd Avenue.
 
-More information coming soon.
+#### **Scheduled Musicians:**
+
+**Saturday August 23rd** <br>Noon-1:30pm - Russell Johnson<br>2:00pm-3:30pm - James Howard<br>4:00pm-5:30pm - Greg Douglass
+
+**Sunday August 24th** <br>Noon-1:30pm - Tim Buster/Tiller of the Moon<br>2:00pm-3:30pm - Ty Curtis
 
 *The Blackberry Jam is brought to you by: Coos Bay Toyota and Pacific Properties*
