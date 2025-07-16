@@ -55,7 +55,7 @@ The **Blackberry Arts Festival** is a juried arts and craft festival that has be
 * Each winner will be awarded an apron, and a wooden Spoon.
 * (See Official Entry Form for more Contest Rules!)
 
-[**Enter the Contest!**](/img/black-berry-arts-recipe.pdf)<br>{{< spacer "25" >}}
+[**Enter the Contest!**]()<br>{{< spacer "25" >}}
 
 **This is a FREE event with activities centered on Central Avenue in downtown Coos Bay.**
 
