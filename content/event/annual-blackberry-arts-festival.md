@@ -42,7 +42,20 @@ The **Blackberry Arts Festival** is a juried arts and craft festival that has be
 
 {{< spacer 50 >}}
 
-{{< floatimage src="/img/bbarts-recipe-infor.png" float="left" alt="" size="" >}}**Blackberry Recipe Contest** - every year, the festival includes a recipe contest using the beloved blackberry. More information on how to participate in the annual recipe contest coming soon!
+{{< floatimage src="/img/bbarts-recipe-infor.png" float="left" alt="" size="" >}}**Blackberry Recipe Contest** - every year, the festival includes a recipe contest using the beloved blackberry.
+
+**Rules:**
+
+* Each recipe must include Blackberries!
+* Entries will be accepted at The Coos Bay Elks No. 1160, located at 265 Central from 9am-11am.
+* One entry per person.
+* Each entry must be sizable enough for six “tastes”.
+* Judging will be from 12pm to 2pm.
+* Winners will be announced at 4pm.
+* Each winner will be awarded an apron, and a wooden Spoon.
+* (See Official Entry Form for more Contest Rules!)
+
+[**Enter the Contest!**]()<br>{{< spacer "25" >}}
 
 **This is a FREE event with activities centered on Central Avenue in downtown Coos Bay.**
 
