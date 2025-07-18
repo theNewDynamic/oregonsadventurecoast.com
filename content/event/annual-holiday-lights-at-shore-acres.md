@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual Holiday Lights at Shore Acres
-startdate: '2024-11-28'
-enddate: '2024-12-31'
+startdate: '2025-11-27'
+enddate: '2025-12-31'
 address:
   city: Charleston
   state: OR
@@ -26,7 +26,7 @@ aliases:
 
 ### **The brightest and most beautiful place on the Oregon Coast Shines**
 
-Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition **every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve** – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. **Admission is always free! However, parking at Shore Acres any time of the year is $5.**
+Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition **every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve** – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. **Admission is always free! However, parking at Shore Acres any time of the year is $10.**
 
 ### <a class="learn-more-anywhere-btn" target="_blank" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">BOOK PARKING PASS NOW</a>
 
@@ -36,7 +36,7 @@ Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this s
 
 {{< spacer "30" >}}
 
-Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring more than 325,000 holiday lights (nearly all of them LED), 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished community tradition is made possible by the <a href="https://shoreacres.net/" target="_blank" rel="noopener">Friends of Shore Acres</a>, the dedicated efforts of more than 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in thousands of visitors from all over the world!
+Since its inception in 1987, the annual Holiday Lights celebration has seen a remarkable transformation. What started with just 6,000 miniature lights and a single Christmas tree has evolved into a dazzling spectacle featuring more than 325,000 LED holiday lights, 26 splendid Christmas trees, an array of illuminated sculptures, including some captivating animated ones, and enchanting landscape lights adorning the majestic trees that encircle the garden. This cherished community tradition is made possible by the <a href="https://shoreacres.net/" target="_blank" rel="noopener">Friends of Shore Acres</a>, the dedicated efforts of more than 1,500 volunteers, the invaluable support of local businesses, state park personnel, and the wholehearted backing of the community. Each season, it draws in thousands of visitors from all over the world!
 
 {{< spacer 30 >}}
 
@@ -64,7 +64,7 @@ Since its inception in 1987, the annual Holiday Lights celebration has seen a re
 
 #### **Time-Specific Parking Pass**
 
-If you're planning to drive, you will need a special **Time-Specific Parking Pass**&nbsp;in advance again this year. In an effort to reduce wait times and backed up traffic conditions, you'll be required to make a **Parking Pass reservation** to visit. These Parking Passes are **per vehicle, not per person**. The passes are only $5 per vehicle, unless you already have an annual park pass *(see Important Park Pass Information below)*. ***Either way, an advance online reservation is required.*** Parking Passes are managed by the <a href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381" target="_blank" rel="noopener"><strong>Oregon State Parks</strong></a>.
+If you're planning to drive, you will need a special **Time-Specific Parking Pass**&nbsp;in advance again this year. In an effort to reduce wait times and backed up traffic conditions, you'll be required to make a **Parking Pass reservation** to visit. These Parking Passes are **per vehicle, not per person**. The passes are only $10 per vehicle, unless you already have an annual park pass *(see Important Park Pass Information below)*. ***Either way, an advance online reservation is required.*** Parking Passes are managed by the <a href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381" target="_blank" rel="noopener"><strong>Oregon State Parks</strong></a>.
 
 **Click the "Book Parking Pass Now" button below to secure your time-specific parking reservation. Don't forget to print your pass or catch a screen shot of your pass. You will need the printed or screen shot pass to enter the park. Have questions? Call (541) 888-3778, the local State Parks office.**
 
@@ -72,7 +72,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 {{< spacer 25 >}}
 
-***Important Park Pass Information:** If you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $5 will be waived. **You still have to book online.**&nbsp;**You will need to present your event parking pass AND your special pass at the gate.***
+***Important Park Pass Information:** If you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $10 will be waived. **You still have to book online.**&nbsp;**You will need to present your event parking pass AND your special pass at the gate.***
 
 *{{< spacer 50 >}}*
 
@@ -82,23 +82,21 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 ![Holiday Lights Shuttle Bus Details header](/img/santas-shuttle-bus-header.jpg)
 
-### Santa's Shuttle Rides Again in 2024!
+### Santa's Shuttle Rides Again in 2025!
 
-[**DOWNLOAD OUR FAQ**](/HOLIDAY-LIGHTS-SHUTTLE-FAQ.pdf)
+<a href="/img/holiday-lights-shuttle-faq.pdf" target="_blank" rel="noopener"><strong>DOWNLOAD OUR FAQ</strong></a>
 
 **Every Friday, Saturday and Sunday evening** from Thanksgiving to New Year's Eve, plus the four holiday nights of Thanksgiving, Christmas Eve, Christmas and New Year's Eve, take the **FREE** shuttle from the Charleston Marina (parking lot at the corner of <a href="https://maps.app.goo.gl/noFi8BJ8hB6w2epb8" target="_blank" rel="noopener">Guano Rock Lane and Crossline Road</a> in the Marina) to Shore Acres State Park!
 
-**The Shuttle will run from approximately 4:15pm to 8:00pm FROM the Marina TO the Park and will return patrons to the Marina between 5:00pm and 9:00pm.** *NOTE: the last shuttle TO the park will depart at 8:00pm from the Marina. This is to give everyone a chance to see the lights before Shore Acres State Park closes at 9:00pm.*
+**The Shuttle will run from approximately 4:15pm to 8:00pm FROM the Marina TO the Park and will return patrons to the Marina between 5:00pm and 9:00pm.** *NOTE: the last shuttle TO the park will depart at 8:10pm from the Marina. This is to give everyone a chance to see the lights before Shore Acres State Park closes at 9:00pm.*
 
-**SPECIAL HOT COCOA, COFFEE, CIDER AND COOKIES WHILE YOU WAIT FOR THE SHUTTLE AT THE MARINA!** Each night of the run of the Shuttle, the <a href="https://www.facebook.com/profile.php?id=61565684226356" target="_blank" rel="noopener">Charleston Fishing Families</a> organization will open their doors to provide a warm place to wait for the bus at the marina and have a FREE hot drink. Kiddos can do a quick craft while they wait too! Their facility is adjacent to the parking lot at Guano Rock Lane and Crosline Road.
+**SPECIAL HOT COCOA, COFFEE, CIDER AND COOKIES WHILE YOU WAIT FOR THE SHUTTLE AT THE MARINA!** Each night of the run of the Shuttle, the <a href="https://www.facebook.com/profile.php?id=61565684226356" target="_blank" rel="noopener">Charleston Fishing Families</a> organization will open their doors to provide a warm place to wait for the bus at the marina and have a FREE hot drink. Kiddos can do a quick craft while they wait too! Their facility is adjacent to the parking lot at Guano Rock Lane and Crossline Road.
 
 ### **A Special Thanks to Santa's Shuttle Sponsors:**
 
 {{< spacer "25" >}}
 
-![Santa Shuttle Sponsor Logos](/img/shuttle-sponsor-logos-sm-v2.jpg)
-
-<a href="https://www.gibsrvsuperstore.com/" target="_blank" rel="noopener"><strong>Gib's RV Superstore</strong></a>**,** <a href="https://www.pacificpower.net/" target="_blank" rel="noopener"><strong>Pacific Power</strong></a>**,** <a href="https://harmonyhomecareonline.com/" target="_blank" rel="noopener"><strong>Harmony Homecare</strong></a>**,** <a href="https://coosbaynorthbendrotary.org/rotary-coos-foundation/" target="_blank" rel="noopener"><strong>Coos Bay-North Bend Rotary Club Foundation</strong></a>**,** <a href="https://addcox.com/" target="_blank" rel="noopener"><strong>Addcox Heating Coos Bay</strong></a>**,** <a href="https://sause.com/locations/coos-bay/" target="_blank" rel="noopener"><strong>Sause Bros</strong></a>**,** <a href="https://ziplyfiber.com/new-fiber-locations/oregon/coosbay" target="_blank" rel="noopener"><strong>Ziply Fiber</strong></a>**,** <a href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html" target="_blank" rel="noopener"><strong>Best Western Coos Bay</strong></a>**,** <a href="https://www.kniferiver.com/" target="_blank" rel="noopener"><strong>Knife River</strong></a>**, and** <a href="https://www.englundmarine.com/" target="_blank" rel="noopener"><strong>Englund Marine</strong></a>**.**
+<a href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html" target="_blank" rel="noopener"><strong>Best Western Coos Bay</strong></a>**,** <a href="https://harmonyhomecareonline.com/" target="_blank" rel="noopener"><strong>Harmony Homecare</strong></a>**,** <a href="https://www.threeriverscasino.com/coos-bay-casino" target="_blank" rel="noopener"><strong>Three Rivers Casino Coos Bay</strong></a>**,** <a href="https://www.pacificpower.net/" target="_blank" rel="noopener"><strong>Pacific Power</strong></a>**,** <a href="https://sause.com/locations/coos-bay/" target="_blank" rel="noopener"><strong>Sause Bros</strong></a>**,** <a href="https://www.oregonpacificbank.com/" target="_blank" rel="noopener"><strong>Oregon Pacific Bank</strong></a>**,** <a href="https://www.nwnatural.com/" target="_blank" rel="noopener"><strong>NW Natural</strong></a>**,** **and** <a href="https://www.englundmarine.com/" target="_blank" rel="noopener"><strong>Englund Marine</strong></a>**.**
 
 **And Special Thanks to the Bus Drivers of**
 
@@ -152,4 +150,4 @@ In **Charleston**, stop in at the [Charleston Marine Life Center](http://www.cha
 
 In **Coos Bay**, take a stroll along the boardwalk and visit the Coos Bay Visitor Information Center where you will see the 30' lighted tree! Visit the [Coos History Museum](https://cooshistory.org/) and explore our area's culture and history. Visit the [Coos Art Museum](https://www.coosart.org/) to see the latest exhibition, their permanent collection, and the Steve Prefontaine Gallery. And [catch a bite to eat](https://oregonsadventurecoast.com/dining/) at one of our many casual restaurants and coffee shops.
 
-In **North Bend**, take a stroll downtown and visit [quaint, one-of-a-kind shops](https://oregonsadventurecoast.com/shopping/) and cafes. Take to the ice at the only <a href="https://www.facebook.com/NorthBendIceSkatingRink" target="_blank" rel="noopener">Ice Skating Rink</a> on the Oregon Coast! (December 2nd to Valentine's Day) Cross over the historic McCullough Bridge on your way to Horsfall Beach at the tip of the [Oregon Dunes National Recreation Area](https://oregonsadventurecoast.com/untamed-dunes/) and one of the many ATV rental locations in the area.
+In **North Bend**, take a stroll downtown and visit [quaint, one-of-a-kind shops](https://oregonsadventurecoast.com/shopping/) and cafes. Take to the ice at the only <a href="https://www.facebook.com/NorthBendIceSkatingRink" target="_blank" rel="noopener">Ice Skating Rink</a> on the Oregon Coast! (November 15-January 31) Cross over the historic McCullough Bridge on your way to Horsfall Beach at the tip of the [Oregon Dunes National Recreation Area](https://oregonsadventurecoast.com/untamed-dunes/) and one of the many ATV rental locations in the area.
