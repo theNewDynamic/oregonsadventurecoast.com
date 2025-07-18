@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Ice Skating in North Bend!
-startdate: '2024-12-07'
-enddate: '2025-02-16'
+startdate: '2025-11-15'
+enddate: '2026-01-31'
 address:
   city: North Bend
   state: OR
@@ -32,7 +32,7 @@ aliases:
 ---
 ![Ice skating father and daughter in north bend, oregon](/img/ice-skating-father-daughter-695.jpg)
 
-#### Ice Skating on the Oregon Coast! THROUGH FEBRUARY 16, 2025!!!!
+#### Ice Skating on the Oregon Coast! THROUGH JANUARY 31, 2025!!!!
 
 {{< spacer "15" >}}
 
@@ -52,13 +52,11 @@ aliases:
 
 **{{< spacer "25" >}}**
 
-#### {{< floatimage src="/img/icerink-girlinpink-24.jpg" float="left" alt="Girls skating." size="" >}}Schedule:
+#### {{< floatimage src="/img/icerink-girlinpink-24.jpg" float="left" alt="Girls skating." size="" >}}Schedule: Coming Soon
 
-Fridays - 3:00pm to 7:00pm <br>Saturdays - 11:00am to 3:00pm<br>Saturday Theme Nights - 4:00pm to 8:00pm <br>Sundays - Noon to 4:00pm <br>*(Private Party Bookings are Available Sundays 4:30 to 6 p.m.)*
+&nbsp;
 
-![](/img/january-ice-skating-rink-schedule.png)
-
-{{< spacer "25" >}}
+{{< spacer "50" >}}
 
 #### Special Events at the Ice Rink!
 
