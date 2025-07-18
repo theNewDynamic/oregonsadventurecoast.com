@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Run Whiskey Run
-startdate: '2024-10-12'
-enddate: '2024-10-12'
+startdate: '2025-10-11'
+enddate: '2025-10-11'
 address:
   city: Charleson
   state:
@@ -28,11 +28,11 @@ smallboxphoto: /img/runninginforest-340x214.jpg
 
 If you have ever wanted to take to the trails at Whiskey Run, but not on a mountain bike, this is your chance!
 
-The **<a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/">South Coast Running Club</a>** invites runners for this one-of-a-kind run through our now famous, single-track, top-rated, mountain biking trail system - cordoned off specifically for runners for this race.
+The <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/"><strong>South Coast Running Club</strong></a> invites runners for this one-of-a-kind run through our now famous, single-track, top-rated, mountain biking trail system - cordoned off specifically for runners for this race.
 
 The run will start and finish at the main **Whiskey Run Trailhead**. &nbsp;<a target="_blank" rel="noopener" href="https://www.google.com/maps?q=Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411&amp;ftid=0x54c4818dc596de61:0xe64719ece591060f&amp;hl=en-US&amp;gl=us&amp;entry=gps&amp;g_ep=CAIYAQ%3D%3D&amp;shorturl=1">Trailhead location&nbsp;</a>&nbsp;
 
-Our chosen section of Whiskey Run is shaded and sheltered, which means these trails are rolling, smooth, and oh so loamy.
+The chosen section of Whiskey Run is shaded and sheltered, which means these trails are rolling, smooth, and oh so loamy.
 
 #### **Course options include the following:**&nbsp;&nbsp;
 
@@ -54,7 +54,7 @@ Our chosen section of Whiskey Run is shaded and sheltered, which means these tra
 
 #### PRICES
 
-**<a target="_blank" rel="noopener" href="https://runsignup.com/Race/OR/Bandon/RunWhiskeyRun">Online</a>**<br>$15 Club member (your discount will appear at check-out), Non-member $25. &nbsp; &nbsp;
+<a target="_blank" rel="noopener" href="https://runsignup.com/Race/OR/Bandon/RunWhiskeyRun"><strong>Online</strong></a><br>$15 Club member (your discount will appear at check-out), Non-member $25. &nbsp; &nbsp;
 
 **Day of race**<br>$20 Club member, Non-member $30
 
@@ -74,7 +74,7 @@ Students: $5.00. &nbsp;*Use the code Student2022 to register. &nbsp;To avoid cre
 
 **Day of race registration and packet pick up begins at 8:00 at Whiskey Run Trailhead**
 
-**<a target="_blank" rel="noopener" href="https://www.google.com/maps/place/Whiskey+Run+Mountain+Biking+Trail+Parking/@43.2189727,-124.3422167,17z/data=!3m1!4b1!4m6!3m5!1s0x54c4818dc596de61:0xe64719ece591060f!8m2!3d43.2189727!4d-124.3422167!16s%2Fg%2F11f57g_cf4?hl=en-US&amp;entry=ttu">Directions to Trailhead</a>** &nbsp;&nbsp;
+<a target="_blank" rel="noopener" href="https://www.google.com/maps/place/Whiskey+Run+Mountain+Biking+Trail+Parking/@43.2189727,-124.3422167,17z/data=!3m1!4b1!4m6!3m5!1s0x54c4818dc596de61:0xe64719ece591060f!8m2!3d43.2189727!4d-124.3422167!16s%2Fg%2F11f57g_cf4?hl=en-US&amp;entry=ttu"><strong>Directions to Trailhead</strong></a> &nbsp;&nbsp;
 
 **IMPORTANT INFO:**
 
