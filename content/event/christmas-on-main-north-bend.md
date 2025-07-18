@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Christmas on Main - North Bend
-startdate: '2024-12-07'
-enddate: '2024-12-07'
+startdate: '2025-12-06'
+enddate: '2025-12-06'
 address:
   city: North Bend
   state: OR
@@ -32,7 +32,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### Waffles with Santa
 
-**9:00am-11:00am @ North Bend Fire Department** <br>Enjoy a delicious breakfast with the jolly man himself! Load up on toppings with the Miss Flame Court and visit with Volunteer Firefighters.&nbsp;&nbsp;Don't forget to share your holiday wishes with Santa and receive a complementary book from North Bend Library.&nbsp;&nbsp;**Pre-registration Required.** <a href="https://www.eventbrite.com/e/waffles-with-santa-tickets-1072858301059?fbclid=IwY2xjawGYjT1leHRuA2FlbQIxMAABHboLyhB8fb5pWN-cTAPVfWFvyrU-RcJ3reOSBT44_vLeoUuNLXo0ljS9hg_aem_E48YDZavSkzwac0h4BGdDQ" target="_blank" rel="noopener"><strong>Click here to register</strong></a>**.**
+**9:00am-11:00am @ North Bend Fire Department** <br>Enjoy a delicious breakfast with the jolly man himself! Load up on toppings with the Miss Flame Court and visit with Volunteer Firefighters.&nbsp;&nbsp;Don't forget to share your holiday wishes with Santa and receive a complementary book from North Bend Library.&nbsp;&nbsp;**Pre-registration Required.** Registration Coming Soon
 
 {{< spacer "25" >}}
 
@@ -40,13 +40,13 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### Story Time with Mrs. Claus
 
-**10:00am & 11:00am @ Books by the Bay** <br>Cozy up for enchanting holiday tales read by Mrs. Claus. Get ready to move around with holiday sign along with the North Bend Library staff.&nbsp;&nbsp;This year the reindeer food making and letters to Santa will be moved to the holiday block party.
+**10:00am & 11:00am @ North Bend Public Library** <br>Cozy up for enchanting holiday tales read by Mrs. Claus. Get ready to move around with holiday sign along with the North Bend Library staff.&nbsp;&nbsp;This year the reindeer food making and letters to Santa will be moved to the holiday block party.
 
 {{< spacer "25" >}}
 
 ![Ice skaters on the North Bend Rink](/img/holiday-happenings-ice-skating-medium.jpg "Take a spin around the Only Ice Skating Rink on the Oregon Coast!")
 
-#### Free Ice Skating – Opening Day
+#### Free Ice Skating
 
 **11:00-3:00pm @ North Bend Ice Rink** <br>Glide across the ice with family and friends during Free Skating for all ages.&nbsp;&nbsp;Enjoy holiday music and spread holiday cheer by donating an item to the Bus Jam for a FREE gift!
 
