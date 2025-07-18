@@ -56,7 +56,7 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 {{< floatimage src="/img/family-mystic-1.jpeg" float="left" alt="Members of Family Mystic" size="" >}}**Saturday, July 19 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>**Family Mystic** - Marcelo Guitron - Guitar/Vocals, Matthew Serino - Bass/Vocals, Tommy Serino - Drums/Vocals; Love Covington - Keys/Vocals<br>**Free - Parking $10**
 
-**Sunday, July 20 - 2:00pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**7 Devils Presents<br>$25 - Tickets coming soon**
+**Sunday, July 20 - 2:00pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**7 Devils Presents** [**Stillhouse Junkies**](https://stillhousejunkies.com/)**<br>$25 - Tickets coming soon**
 
 **Monday, July 21 - Noon**<br>Umpqua Hall, Room 109, Southwestern Community College - 2110 Newmark Ave, Coos Bay<br>**Lunch & Learn:** Bring your lunch and learn more about tomorrow night's Opening Orchestra concert<br>**FREE**
 
