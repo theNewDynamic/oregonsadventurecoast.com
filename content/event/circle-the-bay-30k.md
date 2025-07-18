@@ -28,7 +28,7 @@ largeboxphoto: /img/circlebay-1024x395.jpg
 mediumboxphoto: /img/circlebay-667x355.jpg
 smallboxphoto: /img/circlebay-340x214.jpg
 ---
-![Circle the Bay - 30K Running Event in August](/img/circle-the-bay-header-695x400.jpg)
+![Circle the Bay - 30K Running Event in August](/img/circle-the-bay-header-2025695x400.jpg)
 
 ### 30K (18 mile) 3-person relay or 1-person 30K run
 
