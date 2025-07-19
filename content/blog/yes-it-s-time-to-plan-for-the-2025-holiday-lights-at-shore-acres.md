@@ -65,7 +65,7 @@ The 2025 [Holiday Lights at Shore Acres State Park](https://www.oregonsadventure
 
 **Timed-entry reservations for 2025 are now open.** To help traffic flow smoothly and keep everyone safe, [Oregon State Parks](https://stateparks.oregon.gov/index.cfm?do=v.feature-article&amp;articleId=364) requires visitors to reserve a timed-entry vehicle pass in advance. Visitors must reserve their date and time, and pay the $10 Oregon State Park parking fee BEFORE arrival. Only one pass is required per vehicle, not per person. **Reservations must be made in advance**; no onsite permits will be available for purchase during event hours. Visitors can make their reservations by visiting[<u>bit.ly/2025holidaylights</u>](https://bit.ly/2025holidaylights) or calling ReserveAmerica at 800-452-5687, Monday through Friday, from 8:00 a.m. to 5:00 p.m.
 
-***Tip:** Weekends are the busiest. For a more relaxed experience, consider visiting on Monday through Thursday or earlier in the evening to enjoy the daylight, sunset, and lights all in one trip.*
+***Tip:** Weekends are the busiest. For a more relaxed experience, **consider visiting on Monday through Thursday** or earlier in the evening to enjoy the daylight, sunset, and lights all in one trip.*
 
 **IMPORTANT! Print or save a screenshot of your pass before you leave for the park.** Park staff will check each vehicle upon arrival to verify that it has a valid vehicle reservation pass for the correct date and time. To keep traffic moving, have your pass, permit, or confirmation clearly showing the date, time, ticket ID, and visitor name printed or saved to your phone and ready to show park staff. ***There is no internet at the park, so visitors may not be able to access their ReserveAmerica account***.
 
