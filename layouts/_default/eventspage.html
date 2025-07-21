@@ -9,7 +9,7 @@
         <div class="introtext">
             {{ .Content }}
         </div>
-        
+
     </div>
 </div>
 {{ with $events }}
@@ -34,7 +34,7 @@
 
 
 <div class="m-events-list" id="more-events">
-    {{ range ((complement (first 6 $events) ($events)).GroupByParamDate "enddate" "January 2006").Reverse }}
+    {{ range ((complement (first 6 $events) ($events)).GroupByParamDate "startdate" "January 2006").Reverse }}
         <div>
             <div class="month-wrap">
                 <h2 class="month">{{ .Key }}</h2>
