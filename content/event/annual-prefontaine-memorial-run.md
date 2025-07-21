@@ -22,7 +22,7 @@ smallboxphoto: /img/pre-run-340x214.jpg
 ---
 ![](/img/prefontaine-run-starting-line-695x3xx.jpg)
 
-#### **THE RACE IS ON!! Saturday, September 20, 2025**
+#### **THE RACE IS ON!! Saturday, September 20, 2025 - See below for some NEW elements this year!**
 
 A rolling and challenging course, this 10K road race honors one of America’s greatest distance runners, Steve Prefontaine. Event includes the 10K run and a 2M walk. Hilly, out and back.
 
@@ -35,6 +35,10 @@ Find more special announcements about this year' run on the <a href="https://www
 #### <a href="https://secure.getmeregistered.com/get_information.php?event_id=140932" target="_blank" rel="noopener"><strong>REGISTER TODAY</strong></a>
 
 **NEW THIS YEAR!** The Pre Memorial Run is going to offer **Prize Money** for this years run in September. In both the men’s and women’s categories, $500.00 for 1st, $300.00 for second and $200.00 for third.
+
+{{< floatimage src="/img/premedal.jpg" float="right" alt="Image of the Prefontaine Memorial Run medal." size="" >}}**Get A Pre Medal** for completing the race. There is a limited number of medals so make sure you are registered - the earlier the better!
+
+**ALSO NEW THIS YEAR! Virtual Run** - participate virtually! The VR does not have to be run on 9/20. You have a week to accomplish and document.
 
 {{< spacer 25 >}}
 
