@@ -10,7 +10,7 @@ ctas:
     action: Download (PDF)
     image: /img/brochure-cover-walking-map.jpg
   - title: Dining & Coffee Shop Guide
-    url: /img/Dining-Coffee-Shop-Guide-06-25.pdf
+    url: /img/Dining-Coffee-Shop-Guide-07-25.pdf
     action: Download (PDF)
     image: /img/dining-guide-cover-2025.jpg
 seo:
@@ -31,7 +31,7 @@ outputs:
 ---
 Wherever you are on Oregon’s Adventure Coast: Coos Bay, North Bend & Charleston, you will have a wide variety of dining and meal options. We have several family-style eateries, as well as ethnic, chain, seafood and fine dining restaurants.
 
-***\*Note: due to the popularity of some restaurants and/or staffing issues, we recommend contacting the restaurant of your choice prior to visiting the establishment for reservations or seating information.***
+***\*Note: due to the popularity of some restaurants and/or staffing issues, we recommend contacting the restaurant of your choice prior to visiting the establishment for reservations or seating  information.***
 
 {{< ctas >}}
 
