@@ -11,7 +11,8 @@ address:
 phone_local: (541) 756-8800
 website: https://www.kokwelresorts.com/event/7th-annual-food-truck-off/
 seo:
-  imgalt: 'Mill Casino Food Truck Off '
+  description: ''
+  imgalt: 'Ko-Kwel Food Truck Off '
 desktoptitle: Annual Food Truck Off
 mobiletitle: Annual Food Truck Off
 hovertitle: Annual Food Truck Off
@@ -20,6 +21,9 @@ photo: /img/truck-off-event-pg-header.jpg
 largeboxphoto: /img/truck-off-event-large.jpg
 mediumboxphoto: /img/truck-off-event-medium.jpg
 smallboxphoto: /img/truck-off-event-small.jpg
+aliases:
+  - /the-mill-casino-food-truck-off
+  - /events/the-mill-casino-food-truck-off
 ---
 ![Food Truck Off graphic](/img/food-truck-off.jpg)
 
