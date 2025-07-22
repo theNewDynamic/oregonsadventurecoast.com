@@ -23,7 +23,7 @@ mediumboxphoto: /img/truck-off-event-medium.jpg
 smallboxphoto: /img/truck-off-event-small.jpg
 aliases:
   - /the-mill-casino-food-truck-off
-  - /events/the-mill-casino-food-truck-off
+  - /event/the-mill-casino-food-truck-off
 ---
 ![Food Truck Off graphic](/img/food-truck-off.jpg)
 
