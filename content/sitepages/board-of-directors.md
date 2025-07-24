@@ -22,9 +22,9 @@ date: '2019-02-18T19:35:33.000+00:00'
 
 As per the IGA, the Board of Directors of the VCB is made up of one (1) representative from each of the IGA Partners, plus one (1) Chamber of Commerce representative and one (1) Lodging Industry representative. Currently, the VCB Board of Directors are:
 
-* **Lucinda DiNovo**, The Mill Casino and Coquille Indian Tribe Representative, Chair
-* **Larry Garboden**, The City of North Bend Representative, Vice Chair
-* **Nichole Rutherford**, The City of Coos Bay Representative
+* **Lucinda DiNovo**, Ko-Kwel Casino Resort and Coquille Indian Tribe Representative, Chair
+* **Larry Garboden**, City Councilman/CPA and The City of North Bend Representative, Vice Chair
+* **Nichole Rutherford**, City Manager and The City of Coos Bay Representative
 * **Tim Hyatt,** The Charleston Merchants Association and Coos County Representative
 * **Mark Mattecheck**, North Bend Lanes and Chamber Representative,
 * **Joseph Monahan**, Best Western Holiday Hotel and Lodging Industry Representative
