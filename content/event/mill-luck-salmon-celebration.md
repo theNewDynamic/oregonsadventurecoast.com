@@ -25,7 +25,7 @@ smallboxphoto: /img/salmon-celebration-small.jpg
 ---
 ![Mill Luck Salmon Celebration Man With Salmon](/img/salmon-celebration-medium.jpg)
 
-**The Annual Mill-Luck Salmon Celebration** is a tribute to Native American and Coquille Tribal culture. Don't miss this **FREE OUTDOOR FESTIVAL**.
+**The 20th Annual Mill-Luck Salmon Celebration** is a tribute to Native American and Coquille Tribal culture. Don't miss this **FREE OUTDOOR FESTIVAL**.
 
 {{< spacer 25 >}}![Man and woman dining on salmon with salmon pit in background.](/img/salmon-meal.jpg "A delicious meal of salmon is prepared over an open fire at The Mill Luck Salmon Celebration.")
 
@@ -39,7 +39,7 @@ Vendor booths, canoe races, demonstrations and other events:<br>**Saturday, Sept
 
 **Saturday, Sept 13 \| 11:00 AM – 5:00 PM<br>Sunday, Sept 14 \| 11:00 AM – 4:00 PM**
 
-Pre-sale tickets will go on sale in August. Tickets will be available in Ko-Kwel Gifts in Ko-Kwel Casino Resort Coos Bay (formerly The Mill Casino \* Hotel) and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event.
+Pre-sale tickets will go on sale in August. Tickets will be available in Ko-Kwel Gifts in Ko-Kwel Casino Resort Coos Bay (*formerly The Mill Casino \* Hotel*) and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event.
 
 #### **Meal Prices:**&nbsp;
 
