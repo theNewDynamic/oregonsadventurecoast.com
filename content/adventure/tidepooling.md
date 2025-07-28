@@ -24,15 +24,7 @@ Located on the edge of the harbor in Charleston, OR, the Oregon Institute of Mar
 
 **Charleston Marine Life Center**<br> 63466 Boat Basin Road<br> Charleston, OR 97420<br> (541) 888-2581<br> [https://cmlc.uoregon.edu/](https://cmlc.uoregon.edu/ "https://cmlc.uoregon.edu/")
 
-<div class="margin-50px-top"></div>
-
-#### Take a Virtual Tour of the Charleston Marine Life Center!
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1771112492987177%2F&amp;show_text=0&amp;width=695" width="695" height="391" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
-
-&nbsp;
-
-<div class="margin-50px-top"></div>
+{{< spacer "20" >}}
 
 ![Tidepooling on Oregon's Adventure Coast](/img/tidepooling-pointing-at-anemones.jpg)
 
