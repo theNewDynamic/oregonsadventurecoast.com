@@ -3,6 +3,12 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
+    photo: /img/circle-the-bay-home-slider-2048x850-2025.jpg
+    title_mobile:
+    photo_mobile: /img/circle-the-bay-mobile-2025-512x320.jpg
+    url: /event/circle-the-bay-30k
+    video:
+  - title:
     photo: /img/makeweek-seagulls-hm-slider-desktop.jpg
     title_mobile:
     photo_mobile: /img/makeweek-seagulls-slider-mobile.jpg
@@ -25,12 +31,6 @@ slideshow:
     title_mobile:
     photo_mobile:
     url:
-    video:
-  - title:
-    photo: /img/circle-the-bay-home-slider-2048x850-2025.jpg
-    title_mobile:
-    photo_mobile: /img/circle-the-bay-mobile-2025-512x320.jpg
-    url: /event/circle-the-bay-30k
     video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
