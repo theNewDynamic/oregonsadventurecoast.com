@@ -45,7 +45,28 @@ This three-day event will feature up to **20 food trucks from the Pacific Northw
 
 **Sunday – 12:00 PM – 4:00 PM**
 
-**LIVE MUSIC ON THE ENTERTAINMENT STAGE!**<br>There will be live music all three days. Details to come.
+**LIVE MUSIC ON THE ENTERTAINMENT STAGE!**<br>
+
+#### Here are the Food Trucks Attending this year!
+
+* [Authentic Filipino food by weng Llc](https://www.facebook.com/profile.php?id=100092881329294)
+* Porkys Tacos
+* Greenhorn Smokehouse
+* [Papas Doggs](https://www.facebook.com/papasdoggs)
+* [Angelina's Mexican Restaurant](https://www.facebook.com/bestmexicanfoodintown)
+* [Betty's Scones](https://www.facebook.com/profile.php?id=61578673801349)
+* [Toasted Cheese](https://www.facebook.com/PNWToastedCheese)
+* [Yoda’s Hut](https://www.facebook.com/profile.php?id=100083001505445)
+* [Feathers & Flavors](https://www.facebook.com/profile.php?id=61562411663813)
+* [John's Grotto LLC](https://www.facebook.com/profile.php?id=61571994211885)
+* [Smokin Aces Kettle corn](https://www.facebook.com/profile.php?id=100087813498393)
+* [Sublyme Burgers](https://www.facebook.com/profile.php?id=61566469423341)
+* [CABA Authentic Argentine Empanadas](https://www.facebook.com/profile.php?id=100063686883679)
+* [Coastal Slice](https://www.facebook.com/profile.php?id=61564282543690)
+* [Fire Bros BBQ](https://www.facebook.com/profile.php?id=100065283498838)
+* [Mountain Mama Mobile Kitchen](https://www.facebook.com/profile.php?id=61572996575499)
+* [On The Strip Food Truck](https://www.facebook.com/profile.php?id=100077516762201)
+* [Pomeroy Family BBQ](https://www.facebook.com/pomeroyfamilybbq)
 
 {{< spacer 50 >}}
 
