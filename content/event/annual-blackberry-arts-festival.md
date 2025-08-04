@@ -24,9 +24,11 @@ date: 2019-02-10T14:01:16-08:00
 ---
 ![Nothing is more refreshing than ice cream and this blackberry ice cream is the best at the Blackberry Arts Festival!](/img/blackberry-ice-cream-medium.jpg "Blackberry Ice Cream! Yum!")
 
-#### The annual **Blackberry Arts Festival** celebrates the delicious blackberry and ART!
+#### The annual **Blackberry Arts Festival** celebrates the ART and the delicious blackberry!
 
-Blackberry arts, food, and drink are the fare at this popular event in downtown Coos Bay. Featuring live music with the **Blackberry Jam** all weekend long!
+The **Blackberry Arts Festival** is a **juried arts and craft festival** that has been happening for more than 40 years. The Festival highlights the works of local and regional artists and crafters in August, the typical timing of the annual harvest of the blackberry.
+
+The **Blackberry Arts Festival** features an impressive array of metalwork, jewelry, quilts, candles, hand-painted clothing, wine, carved wood, and much more available for purchase. The festival also includes food vendors, some featuring delicious items made from Oregon blackberries, and features live music on the **Blackberry Jam** concert stage all weekend long!
 
 {{< spacer 50 >}}
 
@@ -36,7 +38,11 @@ Blackberry arts, food, and drink are the fare at this popular event in downtown 
 
 ![](/img/bbarts-banner-1.jpg)
 
-The **Blackberry Arts Festival** is a juried arts and craft festival that has been happening for 40 years. It was started to highlight the works of local artists and crafters during the annual harvest of the blackberry. It features an impressive array of metalwork, jewelry, quilts, candles, hand-painted clothing, wine, carved wood, and much more available for purchase. The festival also includes food vendors. The Street Fair and Vendors will be open on Central Ave.&nbsp;***SAT. 9am-6pm and SUN. 10am-4pm***.
+#### SCHEDULE:
+
+The Street Fair and Vendors will be open on Central Ave, between Hwy 101 and 4th Street,&nbsp;***SAT. 9am-6pm and SUN. 10am-4pm***.
+
+**This is a FREE event with activities centered on Central Avenue in downtown Coos Bay.**
 
 {{< spacer 50 >}}
 
@@ -59,13 +65,13 @@ The **Blackberry Arts Festival** is a juried arts and craft festival that has be
 
 [**Enter the Contest!**]()<br>{{< spacer "25" >}}
 
-**This is a FREE event with activities centered on Central Avenue in downtown Coos Bay.**
+&nbsp;
 
 {{< spacer 50 >}}
 
 ![](/img/blackberry-bar.jpeg)
 
-[7 Devils Brewing Co](https://www.facebook.com/7DevilsBrewingCo) is the official beer garden of **The Blackberry Arts Festival**! They will have live music and BBQ in the evenings, and Blackberry drink and dessert specials all weekend!<br>​​​​
+[7 Devils Brewing Co](https://www.facebook.com/7DevilsBrewingCo) is the official sponsor of the beer garden of **The Blackberry Arts Festival** at the Blackberry Jam concert stage area at Central & 3rd. They will have live music and BBQ in the evenings, and Blackberry drink and dessert specials all weekend!<br>​​​​
 
 {{< spacer "25" >}}
 
@@ -73,7 +79,7 @@ The **Blackberry Arts Festival** is a juried arts and craft festival that has be
 
 ### Blackberry Jam!
 
-Featuring great music from some of our festival favorites! Stage is located at Central and 3rd Avenue.
+Featuring great music from some of our festival favorites! Concert stage is located at Central and 3rd Avenue.
 
 #### **Scheduled Musicians:**
 
