@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Star Trek Film Festival Marathon
+title: Star Trek Film Festival Weekend
 startdate: '2025-09-05'
 enddate: '2025-09-06'
 address:
