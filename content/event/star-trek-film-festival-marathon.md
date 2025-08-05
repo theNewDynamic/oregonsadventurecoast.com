@@ -22,13 +22,13 @@ largeboxphoto: /img/star-trek-cover-large.jpg
 mediumboxphoto: /img/star-trek-cover-medium.jpg
 smallboxphoto: /img/star-trek-cover-small.jpg
 ---
-![Star Trek Marathon with original Enterprise Ship](/img/star-trek-header-695x322.jpg)
+![Star Trek Film Festival Weekend with original Enterprise Ship and Cast](/img/star-trek-hero-image-695x434.jpg)
 
 {{< spacer "30" >}}
 
-## **Boldly Go to the Star Trek Marathon at the Historic Egyptian Theatre!**
+## **Boldly Go to the Star Trek Film Festival Weekend at the Historic Egyptian Theatre!**
 
-On **September 5–6**, embark on an epic journey through space and time at the Historic Egyptian Theatre in Coos Bay! The **Star Trek Weekend Marathon** brings three fan-favorite films back to the big screen—*Star Trek II: The Wrath of Khan*, *Star Trek III: The Search for Spock*, and *Star Trek IV: The Voyage Home*—for a two-day celebration of sci-fi adventure, camaraderie, and intergalactic drama.
+On **September 5–6**, embark on an epic journey through space and time at the Historic Egyptian Theatre in Coos Bay! The **Star Trek Film Festival Weekend** brings three fan-favorite films back to the big screen—*Star Trek II: The Wrath of Khan*, *Star Trek III: The Search for Spock*, and *Star Trek IV: The Voyage Home*—for a two-day celebration of sci-fi adventure, camaraderie, and intergalactic drama.
 
 As the Egyptian Theatre nears its 100th anniversary in 2025, this beautifully restored movie palace is the perfect setting to revisit these cinematic voyages. With its iconic architecture and vintage movie magic, you’ll feel like you’re stepping onto the bridge of the Enterprise itself.
 
