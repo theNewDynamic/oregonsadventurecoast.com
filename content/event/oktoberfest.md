@@ -26,13 +26,13 @@ smallboxphoto: /img/oktoberfest340x214.jpg
 
 #### Join our friends at The Coos History Museum for the 2nd Annual Oktoberfest Fundraising Event and 10 Year Celebration!
 
-This 21+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.facebook.com/roseburggermanband" target="_blank" rel="noopener"><strong>Roseburg German Band</strong></a>, a&nbsp;**Biergarten**&nbsp;serving&nbsp;<a href="https://7devilsbrewery.com/" target="_blank" rel="noopener"><strong>7 Devils</strong></a>&nbsp;brews,&nbsp;**German&nbsp;food, a silent auction, cake walk**&nbsp;and&nbsp;**Oktoberfest themed fun and games**!&nbsp;Toast the **10 year anniversary** of the Coos History Museum **at its beautiful bayfront location.**
+This 18+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.facebook.com/roseburggermanband" target="_blank" rel="noopener"><strong>Roseburg German Band</strong></a>, a&nbsp;**Biergarten**&nbsp;serving&nbsp;<a href="https://7devilsbrewery.com/" target="_blank" rel="noopener"><strong>7 Devils</strong></a>&nbsp;brews,&nbsp;**German&nbsp;food, a silent auction, cake walk**&nbsp;and&nbsp;**Oktoberfest themed fun and games**!&nbsp;Toast the **10 year anniversary** of the Coos History Museum **at its beautiful bayfront location.**
 
 ![Roseburg German Band in concert](/img/german-band.jpg "Roseburg German Band")
 
 #### DATE/TIME
 
-**Saturday, September 27th from 5:30pm-9:00pm**<br>Coos History Museum
+**Saturday, September 27th from 5:00pm-9:00pm**<br>Coos History Museum
 
 ![Man in German garb holding pretzel](/img/oktoberfest-5194-pretzel.jpg "Good eats at Oktoberfest!")
 
@@ -49,4 +49,4 @@ This 21+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.
 
 #### TICKETS
 
-Coming Soon!<br>
+<a href="https://cooshistory.org/annual-fundraiser-2024-oktoberfest/" target="_blank" rel="noopener"><strong>ON SALE NOW!</strong></a><br>
