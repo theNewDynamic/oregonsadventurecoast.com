@@ -26,7 +26,7 @@ smallboxphoto: /img/oktoberfest340x214.jpg
 
 #### Join our friends at The Coos History Museum for the 2nd Annual Oktoberfest Fundraising Event and 10 Year Celebration!
 
-This 18+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.facebook.com/roseburggermanband" target="_blank" rel="noopener"><strong>Roseburg German Band</strong></a>, a&nbsp;**Biergarten**&nbsp;serving&nbsp;<a href="https://7devilsbrewery.com/" target="_blank" rel="noopener"><strong>7 Devils</strong></a>&nbsp;brews,&nbsp;**German&nbsp;food, a silent auction, cake walk**&nbsp;and&nbsp;**Oktoberfest themed fun and games**!&nbsp;Toast the **10 year anniversary** of the Coos History Museum **at its beautiful bayfront location.**
+This 18+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.facebook.com/roseburggermanband" target="_blank" rel="noopener"><strong>Roseburg German Band</strong></a>, a&nbsp;**Biergarten**&nbsp;serving&nbsp;<a href="https://7devilsbrewery.com/" target="_blank" rel="noopener"><strong>7 Devils</strong></a>&nbsp;brews,&nbsp;**German&nbsp;food, a silent auction, cake walk**&nbsp;and&nbsp;**Oktoberfest themed fun and games**!&nbsp;PROST to **10 years** of the Coos History Museum **at its beautiful bayfront location.**
 
 ![Roseburg German Band in concert](/img/german-band.jpg "Roseburg German Band")
 
@@ -40,9 +40,12 @@ This 18+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.
 
 * Live music with the Roseburg German Band
 * Biergarten
+* Stein Holding Contest
 * German Food
 * Silent Auction
-* Games
+* Cake Walk
+* Bavarian-style dinner(German sausage & potatoes)
+* Bavarian Snacks & Desserts
 * And More!!
 
 &nbsp;
