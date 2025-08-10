@@ -66,9 +66,9 @@ Once the grand estate of timber baron Louis J. Simpson, Shore Acres features a *
 
 #### TICKET
 
-**Shore Acres Concert - Wednesday, September 6th -** <a href="https://aftontickets.com/event/buyticket/p79plq63xk" target="_blank" rel="noopener"><strong>BUY TICKETS</strong></a>
+**Shore Acres Concert - Saturday, September 6th -** <a href="https://aftontickets.com/event/buyticket/p79plq63xk" target="_blank" rel="noopener"><strong>BUY TICKETS</strong></a>
 
-**Shore Acres Concert - Thursday, September 7th -** <a href="https://aftontickets.com/event/buyticket/om9o6y659g" target="_blank" rel="noopener"><strong>BUY TICKETS</strong></a>
+**Shore Acres Concert - Sunday, September 7th -** <a href="https://aftontickets.com/event/buyticket/om9o6y659g" target="_blank" rel="noopener"><strong>BUY TICKETS</strong></a>
 
 **General Admission Tickets: $45** *(plus service fees)*
 
