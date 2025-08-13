@@ -4,6 +4,7 @@ title: Stay an Extra Night & Save
 draft: false
 url: /stay-extra-night
 layout: contact
+photo: /img/stay-extra-page-hdr-1200x311.jpg
 seo:
   title: ''
   description: ''
@@ -15,6 +16,8 @@ seo:
 <style>
 .fa-w-16{ width: 1em;}
 </style>
+
+&nbsp;
 
 ![Sunday Night Lodging Special - Skip the traffic, the detour and Save](/img/stay-extra-page-hdr-695x322-v02-1.jpg)
 
