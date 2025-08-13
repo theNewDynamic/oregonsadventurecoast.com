@@ -85,7 +85,7 @@ divider
 
 {{< columns number="2" >}}
 
-![The Mill Casino • Hotel & RV Park building](/img/Mill-hotelfront-cement-fixed.jpg)
+![Ko-Kwel Casino Resort Coos Bay building](/img/Mill-hotelfront-cement-fixed.jpg)
 
 **Ko-Kwel Casino Resort Coos Bay (formerly The Mill Casino)**<br>3201 Tremont Avenue<br>North Bend, OR 97459<br>800-953-4800 | 541-756-8800
 
@@ -98,7 +98,7 @@ divider
 
 divider
 
-![](/img/Itty-Bitty.jpg)
+![oceanside campsite](/img/Oceanside-RV-camp.jpg)
 
 **Sun Outdoors Coos Bay**<br>90281 Cape Arago Highway<br>Charleston, OR 97420<br>541-888-2598
 
