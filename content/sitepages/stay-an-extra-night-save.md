@@ -10,13 +10,13 @@ seo:
   imgalt: ''
   image: ''
 ---
+&nbsp;
+
 <style>
 .fa-w-16{ width: 1em;}
 </style>
 
-&nbsp;
-
-![Sunday Night Lodging Special - beat the traffic, detour and save](/img/stay-extra-page-hdr-695x322.jpg)
+![Sunday Night Lodging Special - Skip the traffic, the detour and Save](/img/stay-extra-page-hdr-695x322-v02-1.jpg)
 
 ### **Make Your Festival Weekend Last a Little Longer**
 
