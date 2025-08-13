@@ -10,17 +10,9 @@ seo:
   imgalt: ''
   image: ''
 ---
-&nbsp;
-
-&nbsp;
-
 <style>
 .fa-w-16{ width: 1em;}
 </style>
-
-&nbsp;
-
-&nbsp;
 
 ![Sunday Night Lodging Special - beat the traffic, detour and save](/img/stay-extra-page-hdr-695x322.jpg)
 
