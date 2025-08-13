@@ -11,8 +11,6 @@ seo:
   imgalt: ''
   image: ''
 ---
-&nbsp;
-
 <style>
 .fa-w-16{ width: 1em;}
 </style>
