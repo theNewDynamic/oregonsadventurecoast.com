@@ -44,7 +44,7 @@ divider
 
 **Best Western Holiday Hotel**<br>411 N. Bayshore Drive<br>Coos Bay, OR 97420<br>800-228-8655 | 541-269-5111
 
-**{{% colortext color="#d74029" %}}**Note: Please Call Property Directly with Code "STAY-X" to Take Advantage of this Offer.**{{% /colortext %}}**
+**{{% colortext color="#d74029" %}}**Offer: Stay Friday & Saturday (Sept 19 & 20, 2025) and Sunday is 50% Off. Please Call Property Directly with Code "STAY-X" to Take Advantage of this Offer.**{{% /colortext %}}**
 
 **Units: 83 • $$$:** Best Western Holiday Hotel offers a retreat for exploring the Oregon Coast, dunes, lighthouse, beaches, historic sites, and annual festivals & events. Located across the street from the Bay, within easy walking distance to downtown shopping & dining. Comfortable, well-appointed rooms, some with in-room hot tubs.
 
