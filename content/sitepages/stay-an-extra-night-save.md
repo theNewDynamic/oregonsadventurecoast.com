@@ -16,11 +16,15 @@ seo:
 
 &nbsp;
 
+&nbsp;
+
 ![](/img/fall-15-2023-header-695x322.jpg)
 
-### Embrace the Beauty of Fall with Our Exclusive 15% Lodging Special!
+### **Make Your Festival Weekend Last a Little Longer**
 
-Discover the magic of fall in a destination that promises adventures to invigorate and recharge your soul. Book a 2-night getaway at one of our participating lodging properties and unlock our Fall 15% Lodging Special. **Please contact the property directly to make your reservations and get your savings.**
+After the Bay Area Fun Festival, Annual Prefontaine Run, and Cruz the Coos, why rush home? Our local lodging partners are offering special Sunday night discounts so you can extend your stay, relax, and enjoy more of **Oregon’s Adventure Coast**. If you’re traveling south, keep in mind that Highway 101 will have a Sunday night detour due to construction — the perfect excuse to stay over, avoid the extra drive, and make your weekend even better. Each property’s offer is a little different — listing below for full details and booking information.
+
+**Please contact the property directly to make your reservations and get your savings.**
 
 *Discount is valid October 1, 2024 through November 30, 2024. Some restrictions apply and subject to change.*
 
