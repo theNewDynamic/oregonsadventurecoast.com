@@ -41,6 +41,10 @@ The parade will be held on Saturday, September 20, 2025. Check in starts at 10am
 
 Be a part of the 2025 Bay Area Fun Festival Parade by registering [here.](http://coosbaydowntown.com/wp-content/uploads/2020/09/BAFF-parade-entry-form-2024-1.pdf)
 
+{{< spacer 25 >}}
+[![Sunday Night Lodging Special - Skip the traffic the detour and save](/img/baff-stay-x-offer-button-1.jpg)](/stay-extra-night)
+{{< spacer 25 >}}
+
 ![](/img/funfest-mosiac1.jpg) ![](/img/funfest-mosiac2.jpg) ![](/img/funfest-mosiac3.jpg) ![](/img/funfest-mosiac4.jpg) ![](/img/funfest-mosiac5.jpg) ![](/img/funfest-mosiac6.jpg) ![](/img/funfest-mosiac7.jpg) ![](/img/funfest-mosiac8.jpg) ![](/img/funfest-mosiac9.jpg) ![](/img/funfest-mosiac10.jpg)
 
 **Enjoy a variety of vendors, arts and crafts, the annual parade, and lots of different kinds of food.**
