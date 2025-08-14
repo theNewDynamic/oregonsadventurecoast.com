@@ -31,6 +31,8 @@ A rolling and challenging course, this 10K road race honors one of America’s g
 Find more special announcements about this year' run on the <a href="https://www.facebook.com/profile.php?id=100091479487534" target="_blank" rel="noopener">Pre Foundation's Facebook page</a>.
 
 {{< spacer 25 >}}
+[![Sunday Night Lodging Special - Skip the traffic the detour and save](/img/baff-stay-x-offer-button-1.jpg)](/stay-extra-night)
+{{< spacer 25 >}}
 
 #### <a href="https://secure.getmeregistered.com/get_information.php?event_id=140932" target="_blank" rel="noopener"><strong>REGISTER TODAY</strong></a>
 
