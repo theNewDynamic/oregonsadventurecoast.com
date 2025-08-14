@@ -29,6 +29,10 @@ Cruz the Coos is one of the **longest-running and largest classic car cruises** 
 
 {{< spacer 25 >}}
 
+[![Sunday Night Lodging Special - Skip the traffic the detour and save](/img/baff-stay-x-offer-button-1.jpg)](/stay-extra-night)
+
+{{< spacer 25 >}}
+
 #### Saturday, September 20 Schedule
 
 **11am - 2pm - Show 'n Shine**<br>Ko-Kwel Casino Parking Lot<br>*Can Still sign up that morning between 7:30am-9am*
