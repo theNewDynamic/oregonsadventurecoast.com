@@ -11,7 +11,7 @@ address:
   zip: 97459
 phone_local: 800-953-4800
 phone_toll_free: 541-756-8800
-website: https://www.kokwelresorts.com/coos-bay/
+website: https://www.kokwelresorts.com/event/20th-annual-salmon-celebration/
 desktoptitle: Mill-Luck Salmon Celebration
 mobiletitle: Salmon Celebration
 hovertitle: Salmon Celebration
@@ -39,14 +39,14 @@ Vendor booths, canoe races, demonstrations and other events:<br>**Saturday, Sept
 
 **Saturday, Sept 13 \| 11:00 AM – 5:00 PM<br>Sunday, Sept 14 \| 11:00 AM – 4:00 PM**
 
-Pre-sale tickets will go on sale in August. Tickets will be available in Ko-Kwel Gifts in Ko-Kwel Casino Resort Coos Bay (*formerly The Mill Casino \* Hotel*) and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event.
+Tickets for the Salmon Bake are on sale now in Ko-Kwel Gifts in Ko-Kwel Casino Resort Coos Bay (*formerly The Mill Casino \* Hotel*) and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event as well.
 
 #### **Meal Prices:**&nbsp;
 
 **Traditional Salmon Bake**
 
-* Pre-sale tickets are $49 for adults and $39 for children 12 and under.
-* Tickets are available in Ko-Kwel Gifts beginning August 20th&nbsp;and includes a commemorative Salmon Celebration tee shirt (while supplies last).
+* Pre-sale tickets are $49 for adults and $39 for children 12 and under and includes a commemorative Salmon Celebration tee shirt (while supplies last).
+* Tickets are available in Ko-Kwel Gifts beginning August 20th&nbsp;.
 * Guests may also purchase their meal at the meal tent.
 * The price for the meal without the T-shirt is $35.00 for adults and $25.00 for children.
 
