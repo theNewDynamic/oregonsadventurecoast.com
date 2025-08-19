@@ -35,4 +35,4 @@ Wherever you are on Oregon’s Adventure Coast: Coos Bay, North Bend & Charlesto
 
 {{< ctas >}}
 
-[**View Our Updated Outdoor Dining Options Page**](/blog/looking-for-outdoor-dining-options-coos-bay-north-bend-charleston-have-several-from-which-to-choose/)
+&nbsp;
