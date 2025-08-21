@@ -9,22 +9,22 @@ slideshow:
     url: /event/annual-blackberry-arts-festival
     video:
   - title:
-    photo: /img/makeweek-seagulls-hm-slider-desktop.jpg
+    photo: /img/star-trek-home-slider-2048x850-2025.jpg
     title_mobile:
-    photo_mobile: /img/makeweek-seagulls-slider-mobile.jpg
-    url: /vacation
+    photo_mobile: /img/mobile-star-trek-slider-2025.jpg
+    url: /event/star-trek-film-festival-marathon
     video:
   - title:
-    photo: /img/makeweek-manbeach-hm-slider-desktop.jpg
+    photo: /img/bay-area-salmon-2025-2048x850.jpg
     title_mobile:
-    photo_mobile:
-    url: /vacation
+    photo_mobile: /img/mobile-mill-luck-salmon-celebration-2025.jpg
+    url: /event/mill-luck-salmon-celebration
     video:
   - title:
-    photo: /img/makeweek-sunset-hm-slider-desktop-v01.jpg
+    photo: /img/bay-area-fun-fest-2025-2048x850.jpg
     title_mobile:
-    photo_mobile:
-    url: /vacation
+    photo_mobile: /img/mobile-bay-area-fun-fest-2025.jpg
+    url: /event/annual-bay-area-fun-festival
     video:
   - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
