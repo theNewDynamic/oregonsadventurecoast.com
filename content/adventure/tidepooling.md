@@ -36,10 +36,8 @@ Charleston is on some of the most spectacular coastline in Oregon. This area is 
 
 Explore the varied seashore and marvel at one-of-a-kind tidepools! Learn about what it is like to live where the waves crash and plants and animals are sometimes left in pools just waiting for the next tide.
 
-Go out with an experienced guide and ensure your experience is amazing while protecting our delicate eco system. [Salty Mac Tours](https://www.saltymactours.com/) is a good option!
-
 {{< floatimage src="/img/tidepooling-careful-icon.png" float="left" alt="Please remember to treat the area with care" size="100" >}}
 
 Observe and study sea stars, limpets, sea slugs, snails, chitons, mussels, barnacles, crabs, worms, fish and octopods. Explore the different adaptations these animals have for holding on, moving and eating in the busy world at the edge of the sea.
 
-***Please remember to treat the area with care.  These are living plants and animals in their natural environment.***
+***Please remember to treat the area with care.  These are living plants and animals in their natural environment. For more on Tidepooling in Oregon,*** <a href="https://oregontidepools.org/" target="_blank" rel="noopener"><em><strong>click here</strong></em></a>***.***
