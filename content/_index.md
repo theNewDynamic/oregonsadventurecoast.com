@@ -15,7 +15,7 @@ slideshow:
     url: /event/star-trek-film-festival-marathon
     video:
   - title:
-    photo: /img/bay-area-salmon-2025-2048x850.jpg
+    photo: /img/mill-luck-salmon-only-homeslider-2025.jpg
     title_mobile:
     photo_mobile: /img/mobile-mill-luck-salmon-celebration-2025.jpg
     url: /event/mill-luck-salmon-celebration
