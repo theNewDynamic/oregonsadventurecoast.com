@@ -38,7 +38,7 @@ warning: false
 
 The year was 1975. The Vietnam War had finally ended, Gerald Ford was the President of the United States, and a new comedy sketch show called *Saturday Night Live* had debuted on NBC. That summer, a young director named Steven Spielberg released his second feature film, *Jaws*, starring Robert Shaw, Richard Dreyfuss, Lorraine Gary, and a former resident of Oregon's Adventure Coast by the name of Roy Scheider.
 
-That's right. Roy Scheider. The actor who delivered one of the most iconic lines in cinema history: "You're gonna need a bigger boat"*. That* Roy Scheider. ** ** Twenty years before the award-winning actor starred as a small-town police chief in the film *Jaws*, Scheider was stationed here on **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston**, where he made his mark on our very own[<u>Little Theatre on the Bay</u>](https://thelibertytheatre.org/) (LTOB).
+That's right. Roy Scheider. The actor who delivered one of the most iconic lines in cinema history: "You're gonna need a bigger boat"*. That* Roy Scheider. \*\* \*\* Twenty years before the award-winning actor starred as a small-town police chief in the film *Jaws*, Scheider was stationed here on **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston**, where he made his mark on our very own[<u>Little Theatre on the Bay</u>](https://thelibertytheatre.org/) (LTOB).
 
 ![](/img/ltob-roy-scheider-north-bend.png)
 
