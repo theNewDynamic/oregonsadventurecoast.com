@@ -5,12 +5,12 @@ draft: false
 date: 2025-08-18T14:00:00-07:00
 description: >-
   Twenty years before he became the small-town police chief in the blockbuster
-  *Jaws*, award-winning actor Roy Scheider was honing his craft on the stage of
+  Jaws, award-winning actor Roy Scheider was honing his craft on the stage of
   Little Theatre on the Bay (LTOB) in Coos Bay, North Bend, and Charleston. He
   acted, directed, and even built sets for the community theater that helped
-  shape his early career. As *Jaws* celebrates its 50th anniversary, we’re
-  looking back at the formative years this Hollywood legend spent on Oregon’s
-  Adventure Coast.
+  shape his early career. As Jaws celebrates its 50th anniversary, we’re looking
+  back at the formative years this Hollywood legend spent on Oregon’s Adventure
+  Coast.
 image: /img/roy-scheider-ai.jpg
 tags:
   - Jaws
