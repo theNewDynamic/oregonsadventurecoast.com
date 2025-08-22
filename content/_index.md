@@ -3,12 +3,6 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
-    photo: /img/blackberry-artsfest-home-slider-25-2048x850.jpg
-    title_mobile:
-    photo_mobile: /img/blackberry-arts-fest-2025-mobile.jpg
-    url: /event/annual-blackberry-arts-festival
-    video:
-  - title:
     photo: /img/star-trek-home-slider-2048x850-2025.jpg
     title_mobile:
     photo_mobile: /img/mobile-star-trek-slider-2025.jpg
