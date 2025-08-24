@@ -10,7 +10,7 @@ ctas:
     action: Download (PDF)
     image: /img/brochure-cover-walking-map.jpg
   - title: Dining & Coffee Shop Guide
-    url: /img/Dining-Coffee-Shop-Guide-07-25.pdf
+    url: /img/Dining-Coffee-Shop-Guide-08-25.pdf
     action: Download (PDF)
     image: /img/dining-guide-cover-2025.jpg
 seo:
