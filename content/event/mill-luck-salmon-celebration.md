@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Annual Mill-Luck Salmon Celebration
+title: Annual Salmon Celebration
 startdate: '2025-09-13'
 enddate: '2025-09-14'
 address:
@@ -12,7 +12,7 @@ address:
 phone_local: 800-953-4800
 phone_toll_free: 541-756-8800
 website: https://www.kokwelresorts.com/event/20th-annual-salmon-celebration/
-desktoptitle: Mill-Luck Salmon Celebration
+desktoptitle: 20th Annual Salmon Celebration
 mobiletitle: Salmon Celebration
 hovertitle: Salmon Celebration
 hoverdescription: >-
@@ -25,7 +25,7 @@ smallboxphoto: /img/salmon-celebration-small.jpg
 ---
 ![Mill Luck Salmon Celebration Man With Salmon](/img/salmon-celebration-medium.jpg)
 
-**The 20th Annual Mill-Luck Salmon Celebration** is a tribute to Native American and Coquille Tribal culture. Don't miss this **FREE OUTDOOR FESTIVAL**.
+**The 20th Annual Salmon Celebration** is a tribute to Native American and Coquille Tribal culture. Don't miss this **FREE OUTDOOR FESTIVAL**.
 
 {{< spacer 25 >}}![Man and woman dining on salmon with salmon pit in background.](/img/salmon-meal.jpg "A delicious meal of salmon is prepared over an open fire at The Mill Luck Salmon Celebration.")
 
