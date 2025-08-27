@@ -12,7 +12,7 @@ slideshow:
     photo: /img/bay-area-salmon-2025-2048x850-v03.jpg
     title_mobile:
     photo_mobile: /img/mobile-mill-luck-salmon-celebration-2025-v02.jpg
-    url: /event/mill-luck-salmon-celebration
+    url: /event/salmon-celebration
     video:
   - title:
     photo: /img/bay-area-fun-fest-2025-2048x850.jpg
