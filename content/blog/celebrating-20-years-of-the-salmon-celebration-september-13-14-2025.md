@@ -39,13 +39,13 @@ warning: false
 ---
 *If you don't honor the sacrifices made on your behalf, the resources you count on may not be there for you in the future.* - **Coquille Indian Tribe Chief, Jason Younker**
 
-In the spirit of the salmon's return upstream, the[Salmon Celebration](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/) will once again return to **Oregon's Adventure Coast: Coos Bay, North Bend, and Charleston**, marking its 20th year since local Indigenous communities first opened this sacred tradition to the public in 2005. At a time when many feel disconnected from nature and ancestral roots,[Coquille Indian Chief Jason Younker](https://news.uoregon.edu/expert/jason-younker-department-anthropology) sees the celebration as a remedy.
+In the spirit of the salmon's return upstream, the [Salmon Celebration](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/) will once again return to **Oregon's Adventure Coast: Coos Bay, North Bend, and Charleston**, marking its 20th year since local Indigenous communities first opened this sacred tradition to the public in 2005. At a time when many feel disconnected from nature and ancestral roots, [Coquille Indian Chief Jason Younker](https://news.uoregon.edu/expert/jason-younker-department-anthropology) sees the celebration as a remedy.
 
 "The Salmon Celebration replicates our first Salmon Ceremony," he explains. "The more people who understand the importance of salmon to Oregon Coast tribes, the more it fosters environmental stewardship."
 
 ![](/img/2025-salmon-celebration-blog-695x322-jpg.jpg)
 
-Known for its traditional open-pit salmon bake, canoe racing, Native American arts, dance, music, and cultural activities, **the Annual Salmon Celebration will take place September 13–14, 2025, at the newly rebranded**[**Ko-Kwel Casino Resort Coos Bay**](https://www.kokwelresorts.com/event/20th-annual-salmon-celebration/) (formerly The Mill Casino Hotel & RV Park). In this post, we'll explore not only the history of the celebration but also the reasons behind it and the enduring significance of salmon to tribes across Oregon.
+Known for its traditional open-pit salmon bake, canoe racing, Native American arts, dance, music, and cultural activities, **the Annual Salmon Celebration will take place September 13–14, 2025, at the newly rebranded** [**Ko-Kwel Casino Resort Coos Bay**](https://www.kokwelresorts.com/event/20th-annual-salmon-celebration/) (formerly The Mill Casino Hotel & RV Park). In this post, we'll explore not only the history of the celebration but also the reasons behind it and the enduring significance of salmon to tribes across Oregon.
 
 ### A Rich History of Indigenous People on Oregon's South Coast
 
@@ -129,15 +129,15 @@ I think I have cooked for the Salmon Celebration each year with the exception of
 
 ![](/img/annual-mill-luck-salmon-celebration-blog-8-695x322.jpg)
 
-The annual[Salmon Celebration](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/) is a free outdoor festival celebrating the heritage, culture, and traditions of the[Coquille Indian Tribe](https://www.coquilletribe.org/) and other Pacific Northwest Tribes, with residents and visitors to Oregon's Adventure Coast: Coos Bay, North Bend, and Charleston. Here are some of the details:
+The annual [Salmon Celebration](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/) is a free outdoor festival celebrating the heritage, culture, and traditions of the [Coquille Indian Tribe](https://www.coquilletribe.org/) and other Pacific Northwest Tribes, with residents and visitors to Oregon's Adventure Coast: Coos Bay, North Bend, and Charleston. Here are some of the details:
 
-* Dates & Times: Saturday, September 13, 2025, 10:00 AM – 5:00 PM & Sunday, September 14, 2025, 11:00 AM – 4:00 PM
-* The festival is free and open to all, though tickets must be purchased for the Traditional Salmon Bake, served from 11 AM–5 PM on Saturday and 11 AM–4 PM on Sunday.
-* Presale tickets for the Salmon Bake Meal are available in [Ko-Kwel Gifts](https://www.kokwelresorts.com/event/20th-annual-salmon-celebration/) and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event.
+* **Dates & Times:** Saturday, September 13, 2025, 10:00 AM – 5:00 PM & Sunday, September 14, 2025, 11:00 AM – 4:00 PM
+* **The festival is free and open to all**, though tickets must be purchased for the Traditional Salmon Bake, served from 11 AM–5 PM on Saturday and 11 AM–4 PM on Sunday.
+* **Presale tickets for the Salmon Bake Meal are available in** [**Ko-Kwel Gifts**](https://www.kokwelresorts.com/event/20th-annual-salmon-celebration/) and include a commemorative Salmon Celebration tee shirt (while supplies last). Guests may also purchase their meal at the meal tent during the event.
 * Festivalgoers can enjoy free daily performances by Native American storytellers, drummers, flutists, and dancers, along with a marketplace of traditional wares and foods, bay-front canoe races, games, and cultural demonstrations and exhibits for all ages.
-* [Click here for event schedule](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/), including canoe race details and Salmon Bake Dinner ticket information.
+* [**Click here for event schedule**](https://www.oregonsadventurecoast.com/event/mill-luck-salmon-celebration/), including canoe race details and Salmon Bake Dinner ticket information.
 
-Visitors to Oregon's Adventure Coast: Coos Bay, North Bend, Charleston can learn more about the Coquille Indian Tribe at the[Coos History Museum](https://cooshistory.org/). Ko-Kwel Gifts inside[Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) is open to the public and features an exquisite selection of art, jewelry, and other handmade goods by members of the Tribe.
+Visitors to Oregon's Adventure Coast: Coos Bay, North Bend, Charleston can learn more about the Coquille Indian Tribe at the [Coos History Museum](https://cooshistory.org/). Ko-Kwel Gifts inside [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) is open to the public and features an exquisite selection of art, jewelry, and other handmade goods by members of the Tribe.
 
 Learn more about the indigenous people of Southwest Oregon:
 
@@ -155,7 +155,7 @@ Learn more about the indigenous people of Southwest Oregon:
 
 [Tribal Heritage - Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians](https://www.oregonsadventurecoast.com/tribal-heritage-confederated/)
 
-September is a wonderful time to visit Oregon's Adventure Coast: Coos Bay, North Bend, Charleston, so bring the whole family for a wonderful weekend of fun\![Visit our lodging page](https://www.oregonsadventurecoast.com/lodging/) to search through the great options of hotels and inns in the area. For more travel inspiration, visit our[Adventures page](https://www.oregonsadventurecoast.com/adventures) and our[Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to discover all there is to do on Oregon's Adventure Coast, or[request a visitor's packet today](https://www.oregonsadventurecoast.com/contact/#contactform)!
+September is a wonderful time to visit Oregon's Adventure Coast: Coos Bay, North Bend, Charleston, so bring the whole family for a wonderful weekend of fun\![Visit our lodging page](https://www.oregonsadventurecoast.com/lodging/) to search through the great options of hotels and inns in the area. For more travel inspiration, visit our [Adventures page](https://www.oregonsadventurecoast.com/adventures) and our [Trip Ideas page](https://www.oregonsadventurecoast.com/tripideas) to discover all there is to do on Oregon's Adventure Coast, or [request a visitor's packet today](https://www.oregonsadventurecoast.com/contact/#contactform)!
 
 &nbsp;
 
