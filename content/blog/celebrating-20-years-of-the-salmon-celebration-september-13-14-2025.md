@@ -7,10 +7,9 @@ description: >-
   In the spirit of the salmon’s return, the Salmon Celebration comes back to
   Oregon’s Adventure Coast on September 13–14, 2025, commemorating 20 years
   since local Indigenous communities first shared this sacred tradition with the
-  public. Highlights include the open-pit salmon bake, canoe races, and Native
-  American arts, music, dance, and cultural activities. Coquille Indian Tribe
-  Chief Jason Younker joined us to reflect on the celebration’s history,
-  purpose, and the enduring significance of salmon to Oregon’s tribes.
+  public.  Coquille Indian Tribe Chief Jason Younker joined us to reflect on the
+  celebration’s history, purpose, and the enduring significance of salmon to
+  Oregon’s tribes.
 image: /img/annual-mill-luck-salmon-celebration-blog-1-695x322.jpg
 tags:
   - Salmon Celebration
