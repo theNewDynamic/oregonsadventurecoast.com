@@ -72,7 +72,7 @@ Today, the Coquille Indian Tribe stewards more than 10,000 acres of sustainable 
 
 This year will be especially meaningful as he is joined by his daughter, niece, and nephew, who will learn the sacred details of preparing the salmon, from tending the fire to the timing of the roast, and the returning of the bones.
 
-{{< youtube id="v=dpDb4qL-SfE" >}}
+{{< youtube id="dpDb4qL-SfE" >}}
 
 Chief Younker recently sat down with us to share his reflections on the history of the Salmon Celebration. What stood out most was not only his reverence for the sacred traditions, but also the camaraderie and humor he recalled—from the playful pranks shared among teammates to the joy of working together. The Salmon Celebration, at its heart, is a family affair where everyone is invited to take part.
 
