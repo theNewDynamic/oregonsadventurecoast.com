@@ -3,7 +3,38 @@ _schema: default
 title: 'Celebrating 20 Years of the Salmon Celebration September 13-14, 2025 '
 draft: false
 date: 2025-08-25T00:00:00-07:00
+description: >-
+  In the spirit of the salmon’s return, the Salmon Celebration comes back to
+  Oregon’s Adventure Coast on September 13–14, 2025, commemorating 20 years
+  since local Indigenous communities first shared this sacred tradition with the
+  public. Highlights include the open-pit salmon bake, canoe races, and Native
+  American arts, music, dance, and cultural activities. Coquille Indian Tribe
+  Chief Jason Younker joined us to reflect on the celebration’s history,
+  purpose, and the enduring significance of salmon to Oregon’s tribes.
 image: /img/annual-mill-luck-salmon-celebration-blog-1-695x322.jpg
+tags:
+  - Salmon Celebration
+  - salmon
+  - Coquille Indian Tribe
+  - Confederated Tribes of Coos
+  - Lower Umpqua
+  - and Siuslaw Indians
+  - Jason Younker
+  - Doug Barrett
+  - Oregon Coast tribes
+  - Indigenous People
+  - Oregon's South Coast
+  - Oregon's Adventure Coast
+  - Coos Bay
+  - North Bend
+  - Charleston
+  - Pacific Northwest Tribes
+  - Traditional Salmon Bake
+  - Ko-Kwel Casino Resort Coos Bay
+categories:
+  - Special Events & Holidays
+  - Local Spotlight
+  - Arts & Culture
 warning: false
 ---
 *If you don't honor the sacrifices made on your behalf, the resources you count on may not be there for you in the future.* - **Coquille Indian Tribe Chief, Jason Younker**
@@ -44,7 +75,7 @@ This year will be especially meaningful as he is joined by his daughter, niece, 
 
 {{< youtube id="v=dpDb4qL-SfE" >}}
 
-Chief Younker recently sat down with us to share his reflections on the history of the Coquille's Mill-Luck Salmon Celebration. What stood out most was not only his reverence for the sacred traditions, but also the camaraderie and humor he recalled—from the playful pranks shared among teammates to the joy of working together. The Salmon Celebration, at its heart, is a family affair where everyone is invited to take part.
+Chief Younker recently sat down with us to share his reflections on the history of the Salmon Celebration. What stood out most was not only his reverence for the sacred traditions, but also the camaraderie and humor he recalled—from the playful pranks shared among teammates to the joy of working together. The Salmon Celebration, at its heart, is a family affair where everyone is invited to take part.
 
 ![](/img/salmon-celebration-shirod-younker-blog-695x322-jpg.jpg)
 
