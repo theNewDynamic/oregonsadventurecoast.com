@@ -76,7 +76,9 @@ This year will be especially meaningful as he is joined by his daughter, niece, 
 
 Chief Younker recently sat down with us to share his reflections on the history of the Salmon Celebration. What stood out most was not only his reverence for the sacred traditions, but also the camaraderie and humor he recalled—from the playful pranks shared among teammates to the joy of working together. The Salmon Celebration, at its heart, is a family affair where everyone is invited to take part.
 
-![](/img/salmon-celebration-shirod-younker-blog-695x322-jpg.jpg)
+![](/img/annual-mill-luck-salmon-celebration-blog-10-695x322.jpg)
+
+*Chief Jason Younker pictured  above with his brother, **Shirod Younker**, who oversees the canoe races during the annual Salmon Celebration. A well-known Pacific Northwest artist, Shirod has also designed the artwork featured on the event’s T-shirts and posters for the past 20 years.*
 
 ![](/img/2025-salmon-celebration-blog-jpg.jpg)
 
