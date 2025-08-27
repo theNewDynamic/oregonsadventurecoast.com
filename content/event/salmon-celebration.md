@@ -22,12 +22,17 @@ photo: /img/salmon-image-02.jpg
 largeboxphoto: /img/salmon-celebration-large.jpg
 mediumboxphoto: /img/salmon-celebration-medium.jpg
 smallboxphoto: /img/salmon-celebration-small.jpg
+aliases:
+  - /event/mill-luck-salmon-celebration
+  - /mill-luck-salmon-celebration
 ---
-![Mill Luck Salmon Celebration Man With Salmon](/img/salmon-celebration-medium.jpg)
+![Annual Salmon Celebration Man With Salmon](/img/salmon-celebration-medium.jpg)
 
 **The 20th Annual Salmon Celebration** is a tribute to Native American and Coquille Tribal culture. Don't miss this **FREE OUTDOOR FESTIVAL**.
 
-{{< spacer 25 >}}![Man and woman dining on salmon with salmon pit in background.](/img/salmon-meal.jpg "A delicious meal of salmon is prepared over an open fire at The Mill Luck Salmon Celebration.")
+{{< spacer 25 >}}
+
+![Man and woman dining on salmon with salmon pit in background.](/img/salmon-meal.jpg "A delicious meal of salmon is prepared over an open fire at The Annual Salmon Celebration.")
 
 {{< spacer "15" >}}
 
