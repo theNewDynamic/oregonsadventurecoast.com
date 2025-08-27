@@ -7,10 +7,9 @@ description: >-
   In the spirit of the salmon’s return, the Salmon Celebration comes back to
   Oregon’s Adventure Coast on September 13–14, 2025, commemorating 20 years
   since local Indigenous communities first shared this sacred tradition with the
-  public. Highlights include the open-pit salmon bake, canoe races, and Native
-  American arts, music, dance, and cultural activities. Coquille Indian Tribe
-  Chief Jason Younker joined us to reflect on the celebration’s history,
-  purpose, and the enduring significance of salmon to Oregon’s tribes.
+  public.  Coquille Indian Tribe Chief Jason Younker joined us to reflect on the
+  celebration’s history, purpose, and the enduring significance of salmon to
+  Oregon’s tribes.
 image: /img/annual-mill-luck-salmon-celebration-blog-1-695x322.jpg
 tags:
   - Salmon Celebration
@@ -73,11 +72,13 @@ Today, the Coquille Indian Tribe stewards more than 10,000 acres of sustainable 
 
 This year will be especially meaningful as he is joined by his daughter, niece, and nephew, who will learn the sacred details of preparing the salmon, from tending the fire to the timing of the roast, and the returning of the bones.
 
-{{< youtube id="v=dpDb4qL-SfE" >}}
+{{< youtube id="dpDb4qL-SfE" >}}
 
 Chief Younker recently sat down with us to share his reflections on the history of the Salmon Celebration. What stood out most was not only his reverence for the sacred traditions, but also the camaraderie and humor he recalled—from the playful pranks shared among teammates to the joy of working together. The Salmon Celebration, at its heart, is a family affair where everyone is invited to take part.
 
-![](/img/salmon-celebration-shirod-younker-blog-695x322-jpg.jpg)
+![](/img/annual-mill-luck-salmon-celebration-blog-10-695x322.jpg)
+
+*Chief Jason Younker pictured  above with his brother, **Shirod Younker**, who oversees the canoe races during the annual Salmon Celebration. A well-known Pacific Northwest artist, Shirod has also designed the artwork featured on the event’s T-shirts and posters for the past 20 years.*
 
 ![](/img/2025-salmon-celebration-blog-jpg.jpg)
 
