@@ -39,11 +39,9 @@ This year’s theme is: **<u>“Sunsets and Sandy Shores”</u>**
 
 The parade will be held on Saturday, September 20, 2025. Check in starts at 10am and will Line up to start as normal at 4th and Golden Avenue in Coos Bay. The parade starts at 1:00 pm.
 
-Be a part of the 2025 Bay Area Fun Festival Parade by registering [here.](http://coosbaydowntown.com/wp-content/uploads/2020/09/BAFF-parade-entry-form-2024-1.pdf)
+Be a part of the 2025 Bay Area Fun Festival Parade by downloading, filling out the form, and returning it to the Coos Bay Downtown Association. (Note: this is a fillable PDF form.) <a href="/img/bay-area-fun-festival-parade-entry-form.pdf" target="_blank" rel="noopener">Click here for the Form</a>.
 
-{{< spacer 25 >}}
-[![Sunday Night Lodging Special - Skip the traffic the detour and save](/img/baff-stay-x-offer-button-1.jpg)](/stay-extra-night)
-{{< spacer 25 >}}
+{{< spacer 25 >}} [![Sunday Night Lodging Special - Skip the traffic the detour and save](/img/baff-stay-x-offer-button-1.jpg)](/stay-extra-night) {{< spacer 25 >}}
 
 ![](/img/funfest-mosiac1.jpg) ![](/img/funfest-mosiac2.jpg) ![](/img/funfest-mosiac3.jpg) ![](/img/funfest-mosiac4.jpg) ![](/img/funfest-mosiac5.jpg) ![](/img/funfest-mosiac6.jpg) ![](/img/funfest-mosiac7.jpg) ![](/img/funfest-mosiac8.jpg) ![](/img/funfest-mosiac9.jpg) ![](/img/funfest-mosiac10.jpg)
 
