@@ -41,9 +41,13 @@ There are numerous reasons why Oregon's Adventure Coast: Coos Bay, North Bend, C
 
 However, Coos Bay may be best known as the hometown of internationally acclaimed distance runner [Steve Prefontaine](https://www.oregonsadventurecoast.com/steve-prefontaine-story/), the athlete who helped inspire the running movement that is still gaining traction and growing in popularity to this day. Our small town is where "Pre" honed his skills and discovered his fierce competitiveness and determination that would soon captivate fans all over the world.
 
+![](/img/reflections-of-a-champion-program-06-07-1975-back-cover.jpg)
+
 We are proud to host visitors who have traveled from far and wide each year to Oregon's Adventure Coast to participate in the [Prefontaine Memorial Run](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/), part of the annual [Bay Area Fun Festival](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/). The yearly memorial run is a challenging 10K road race across one of his former training courses with its finish line at the high school track where he first competed. "At no place is the celebration of Steve Prefontaine and his story more personal than in Coos Bay, Oregon, where he was born in 1951 and discovered his gift for running fast and far as a student at Marshfield High School," say event organizers. "Here, he developed his hunger to be the best in the field, and more, to do it with style—to create beauty when he ran, to show people something they had never seen before."
 
-2025 Prefontaine Memorial Run & Bay Area Fun Festival
+### 2025 Prefontaine Memorial Run & Bay Area Fun Festival
+
+![](/img/2025-prefontaine-memorial-run-blog-12-695x322-1.jpg)
 
 This year promises to be a race to remember! Runners from across the country will gather on Saturday, September 20, 2025, for the Annual Prefontaine Memorial Run in Coos Bay. To mark the 50th anniversary of Steve Prefontaine's passing, organizers are honoring his legacy with exciting new additions to this year's event:
 
@@ -56,25 +60,29 @@ This event is sanctioned by the [Road Runners Club of America](http://www.rrca.o
 
 While you're here, be sure to enjoy the [Annual Bay Area Fun Festival](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) presented by [Coos Bay Downtown Association](https://coosbaydowntown.com/) September 20-21, 2025! This popular annual event, often seen as one last hurrah before we say goodbye to summer, features live entertainment, local vendors, delicious food and drink, the [Annual Cruz the Coos & Show' n Shine](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/), a parade through downtown Coos Bay, and more! It's the perfect way to say farewell to summer 2025 and usher in the autumn season!
 
-Take Advantage of one of the Sunday Night Lodging Specials & Avoid U.S. Hwy 101 South Roadwork!
+### **Take Advantage of one of the** [**Sunday Night Lodging Specials**](https://www.oregonsadventurecoast.com/stay-extra-night/) **& Avoid U.S. Hwy 101 South Roadwork!!**
 
-Will you be impacted by ODOT's closure of U.S. Hwy 101 south of Bandon over the weekend? Visitors coming from south of this construction site will need to make alternate travel plans to reach Coos Bay and return home after the run. If you plan ahead, you can completely avoid the traffic and make it a full weekend on Oregon's Adventure Coast by coming in during the day on Friday, staying through the weekend, and leaving Monday morning! Several of our local lodging partners are offering special Sunday night discounts so you can extend your stay, relax, and enjoy more of Oregon's Adventure Coast. [Click here to learn more](https://www.oregonsadventurecoast.com/stay-extra-night/).
+Will you be impacted by <a href="https://kobi5.com/news/hwy-101-to-be-closed-south-of-bandon-for-weekend-in-september-281623/" target="_blank" rel="noopener">ODOT's closure of U.S. Hwy 101 south of Bandon</a> over the weekend? Visitors coming from south of this construction site will need to make alternate travel plans to reach Coos Bay and return home after the run. **If you plan ahead, you can completely avoid the traffic and make it a full weekend on Oregon's Adventure Coast by coming in during the day on Friday, staying through the weekend, and leaving Monday morning!** Several of our local lodging partners are offering special Sunday night discounts so you can extend your stay, relax, and enjoy more of Oregon's Adventure Coast. [Click here to learn more](https://www.oregonsadventurecoast.com/stay-extra-night/).
 
-About Steve Prefontaine
+### About Steve Prefontaine
+
+![Steve Prefontaine](/img/preformal-portrait.jpg "Steve Prefontaine")
 
 Steve Prefontaine was born and raised in Coos Bay, Oregon, and graduated from [Marshfield High School](http://marshfield.cbd9.net/). When he enrolled at the [University of Oregon](http://www.goducks.com/ViewArticle.dbml?ATCLID=30594) in 1969, he was already one of the most highly sought-after high school track athletes in the school's history. Steve's sister, Linda Prefontaine, recalls her brother's competitiveness.“It was great to watch him compete,” she says. “I was a very proud sister. He was exciting and entertaining to watch. He made people, from all walks of life, want to watch him. He made the sport exciting.” You can hear Linda speak of her brother in her own words in [this video](https://www.youtube.com/watch?v=9nuPfMf8vQY).
+
+![](/img/steve-s-first-sub-4-minute-mile-06-06-1970-1.jpg)
 
 Steve went on to compete in international meets against the USSR, Germany, Great Britain, and a combined European team. He appeared on the cover of Sports Illustrated as "America's Distance Prodigy". Eventually, he helped to popularize the new Nike brand in the 1970s through his partnership with co-founder and former coach Bill Bowerman. “Pre was a rebel from a working-class background, a guy full of cockiness and guts,” says Nike co-founder Phil Knight. “Pre’s spirit is the cornerstone of this company’s soul.”
 
 His life was tragically cut short in a car accident at the age of 24 on May 30, 1975, in Eugene, Oregon. At the time of his death, Pre held every American distance running record from 2 miles through 10,000 meters.
 
-Nike recently featured Steve Prefontaine in a special profile on the 50th anniversary of his death:
+Nike recently featured Steve Prefontaine in a <a href="https://about.nike.com/en/stories/how-steve-prefontaine-set-the-pace-for-nike" target="_blank" rel="noopener">special profile</a> on the 50th anniversary of his death:
 
-His legacy is multifaceted. To generations of athletes at all levels, he embodies the philosophy of training incredibly hard and going all out in competition. For Nike, he was both a muse on the track and a trailblazer who pioneered a highly original and personal way of inspiring athletes with the brand. For fellow runners hamstrung by the AAU, Prefontaine was a leader who helped turn the tide towards professionalism. - Nike
+> His legacy is multifaceted. To generations of athletes at all levels, he embodies the philosophy of training incredibly hard and going all out in competition. For Nike, he was both a muse on the track and a trailblazer who pioneered a highly original and personal way of inspiring athletes with the brand. For fellow runners hamstrung by the AAU, Prefontaine was a leader who helped turn the tide towards professionalism.
 
 Be sure to read [How Steve Prefontaine Set the Pace for Nike](https://about.nike.com/en/stories/how-steve-prefontaine-set-the-pace-for-nike) for the full story.
 
-Points of Interest for Fans of Steve Prefontaine
+### Points of Interest for Fans of Steve Prefontaine
 
 Fans of Steve Prefontaine may want to explore these destinations and/or activities while visiting Oregon's Adventure Coast. Be sure to stop in the Coos Bay Visitor’s Center for maps and more information on our hometown hero!
 
@@ -90,15 +98,19 @@ Fans of Steve Prefontaine may want to explore these destinations and/or activiti
 
   &nbsp;
 
-* The Pre Mural in downtown Coos Bay. Walking down Central Avenue, you cannot miss this massive mural, located across from [Restaurant O](http://restauranto.us/). Designed by Erik Nicolaisen and painted by Old City Artists, LLC in 2017, it makes for a perfect photo opportunity for visitors. The three-panel work captures pivotal stages of Steve Prefontaine’s legendary running career: his record-setting years at Marshfield High School, his rise as a collegiate star at the University of Oregon, and his post-collegiate triumphs, including his electrifying performance at the 1972 Munich Olympics.
+* <a href="https://theclio.com/entry/89809" target="_blank" rel="noopener">Steve’s childhood home</a>, located on the corner of Elrod Avenue and 9th Street (marked with a commemorative plaque). Please remember this is a private residence. Visitors are welcome to stop and take photographs from outside, but we ask that you respect the privacy of the current residents by not entering the property or crossing the fence.
 
   &nbsp;
 
-* [Marshfield High School](http://marshfield.cbd9.net/): Steve Prefontaine's alma mater. Under the guidance of Coach Walt McClure, "Pre" became a force to be reckoned with, and he set his last American record on May 9, 1975, at 2,000 meters in 5:01.4. Please note that this is a functioning public school with students in session. For safety and security reasons, the campus is not open for unscheduled tours or walk-throughs. We kindly ask that you respect the students, staff, and learning environment when paying tribute to Steve's legacy.
+* <a href="https://prefontainerun.net/pre-murals/" target="_blank" rel="noopener">The Pre Mural in downtown Coos Bay.</a> Walking down Central Avenue, you cannot miss this massive mural, located across from [Restaurant O](http://restauranto.us/). Designed by Erik Nicolaisen and painted by Old City Artists, LLC in 2017, it makes for a perfect photo opportunity for visitors. The three-panel work captures pivotal stages of Steve Prefontaine’s legendary running career: his record-setting years at Marshfield High School, his rise as a collegiate star at the University of Oregon, and his post-collegiate triumphs, including his electrifying performance at the 1972 Munich Olympics.
 
   &nbsp;
 
-* [Sunset Memorial Park](http://www.imortuary.com/cemeteries/oregon/coos-bay/sunset-memorial-park-cemetery/): Steve Prefontaine was laid to rest just south of Coos Bay, where many come to pay tribute and reflect on this extraordinary life taken too soon.
+* <a href="http://marshfield.cbd9.net/" target="_blank" rel="noopener">Marshfield High School</a>: Steve Prefontaine's alma mater. Under the guidance of Coach Walt McClure, "Pre" became a force to be reckoned with, and he set his last American record on May 9, 1975, at 2,000 meters in 5:01.4. Please note that this is a functioning public school with students in session. For safety and security reasons, the campus is not open for unscheduled tours or walk-throughs. We kindly ask that you respect the students, staff, and learning environment when paying tribute to Steve's legacy.
+
+  &nbsp;
+
+* <a href="http://www.imortuary.com/cemeteries/oregon/coos-bay/sunset-memorial-park-cemetery/" target="_blank" rel="noopener">Sunset Memorial Park</a>: Steve Prefontaine was laid to rest just south of Coos Bay, where many come to pay tribute and reflect on this extraordinary life taken too soon.
 
   &nbsp;
 
