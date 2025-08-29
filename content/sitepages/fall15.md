@@ -24,6 +24,10 @@ aliases:
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ![Lodging Special Fall 15% Discount in Coos Bay, North Bend, Charleston](/img/fall-15-2025-header-695x322.jpg)
 
 ### Embrace the Beauty of Fall with Our Exclusive 15% Lodging Special!
