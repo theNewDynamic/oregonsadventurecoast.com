@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Your Bucket List Destination
+title: Your Bucket List Must
 draft: false
 url: /unplug
 layout: adventure-sidebar
@@ -10,7 +10,9 @@ photo: /img/sub-head-vacation-page-2048x530.jpg
 
 It’s time to leave the crowds behind and discover a bucket list destination where adventure meets relaxation — **Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston**. Stretch out your vacation with an extended stay on our dramatic coastline, where rugged cliffs, lush forests, charming towns, and endless outdoor activities invite you to explore, unwind, and reconnect. Check out some of our most popular [trip ideas](/tripideas).
 
-\*\*More Days, More Adventures<br>\*\*Whether you are a thrill seeker or a chill seeker, this is the spot. Oregon’s Adventure Coast is a great getaway, but we invite you to take the time to really experience it all.  [More to Do & More to Explore](/adventures)
+#### More Days, More Adventures
+
+Whether you are a thrill seeker or a chill seeker, this is the spot. Oregon’s Adventure Coast is a great getaway, but we invite you to take the time to really experience it all.  [More to Do & More to Explore](/adventures)
 
 Awaken to fresh ocean air as you stroll along miles of uncrowded beaches. From there you can find [adrenaline stirring excitement](/adventures), or peace and serenity by engaging in [Forest Bathing](/forest-bathing) as you become one with nature or spend your down time beachcombing, tide-pooling, and just soaking in the beauty of the Pacific.
 
