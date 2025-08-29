@@ -33,6 +33,8 @@ tags:
   - Sunset Memorial Park
   - South Coast Running Club
   - The Pre Foundation
+categories:
+  - Local Spotlight
 warning: false
 ---
 ### “To give anything less than your best is to sacrifice the gift.” - Steve Prefontaine
