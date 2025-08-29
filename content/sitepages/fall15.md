@@ -18,13 +18,15 @@ aliases:
 .fa-w-16{ width: 1em;}
 </style>
 
+&nbsp;
+
 ![](/img/fall-15-2023-header-695x322.jpg)
 
 ### Embrace the Beauty of Fall with Our Exclusive 15% Lodging Special!
 
-Discover the magic of fall in a destination that promises adventures to invigorate and recharge your soul. Book a 2-night getaway at one of our participating lodging properties and unlock our Fall 15% Lodging Special. **Please contact the property directly to make your reservations and get your savings.**
+Discover the magic of fall in a destination that promises adventures to invigorate and recharge your soul. Book your getaway at one of our participating lodging properties and unlock our Fall 15% Lodging Special. **Please contact the property directly to make your reservations and get your savings.**
 
-*Discount is valid October 1, 2024 through November 30, 2024. Some restrictions apply and subject to change.*
+*Discount is valid October 1, 2025 through November 30, 2025. Some restrictions apply and subject to change.*
 
 {{< spacer "50" >}}
 
