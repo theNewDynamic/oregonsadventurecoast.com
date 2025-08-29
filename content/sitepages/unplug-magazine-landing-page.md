@@ -1,14 +1,12 @@
 ---
 _schema: default
-title: Unplug Magazine Landing Page
+title: Your Bucket List Destination
 draft: false
 url: /unplug
 layout: adventure-sidebar
 photo: /img/sub-head-vacation-page-2048x530.jpg
 ---
-&nbsp;
-
-## **Spend Your Vacation on Oregon’s Adventure Coast**
+![rugged cliffs on the southern Oregon coast at sunset](/img/unplug-page-header-695x322.jpg)
 
 It’s time to leave the crowds behind and discover a place where adventure meets relaxation — Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston. Stretch out your vacation with an extended stay on our breathtaking coastline, where rugged and windswept cliffs, lush forests, charming towns, and endless outdoor activities invite you to explore, unwind, and reconnect. Check out some of our more popular [trip ideas](/tripideas).
 
