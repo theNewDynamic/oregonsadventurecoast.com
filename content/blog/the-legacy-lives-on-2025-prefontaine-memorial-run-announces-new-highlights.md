@@ -39,7 +39,7 @@ warning: false
 ---
 ### “To give anything less than your best is to sacrifice the gift.” - Steve Prefontaine
 
-There are numerous reasons why Oregon's Adventure Coast: Coos Bay, North Bend, Charleston is a popular destination with runners and track and field fans. Yes, natural running trails are abundant, yes, the scenery is spectacular and unlike anything you'll see anywhere else in the country, and yes, we have several [well-organized races](https://www.oregonsadventurecoast.com/running/) that runners want to participate in each year.
+There are numerous reasons why **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston** is a popular destination with runners and track and field fans. Yes, natural running trails are abundant, yes, the scenery is spectacular and unlike anything you'll see anywhere else in the country, and yes, we have several [well-organized races](https://www.oregonsadventurecoast.com/running/) that runners want to participate in each year.
 
 However, Coos Bay may be best known as the hometown of internationally acclaimed distance runner [Steve Prefontaine](https://www.oregonsadventurecoast.com/steve-prefontaine-story/), the athlete who helped inspire the running movement that is still gaining traction and growing in popularity to this day. Our small town is where "Pre" honed his skills and discovered his fierce competitiveness and determination that would soon captivate fans all over the world.
 
@@ -51,20 +51,20 @@ We are proud to host visitors who have traveled from far and wide each year to O
 
 ![](/img/2025-prefontaine-memorial-run-blog-12-695x322-1.jpg)
 
-This year promises to be a race to remember! Runners from across the country will gather on Saturday, September 20, 2025, for the Annual Prefontaine Memorial Run in Coos Bay. To mark the 50th anniversary of Steve Prefontaine's passing, organizers are honoring his legacy with exciting new additions to this year's event:
+This year promises to be a race to remember! Runners from across the country will gather on **Saturday, September 20, 2025, for the Annual Prefontaine Memorial Run in Coos Bay**. To mark the 50th anniversary of Steve Prefontaine's passing, organizers are honoring his legacy with exciting new additions to this year's event:
 
-* Cash Awards: The top three male and female finishers will receive cash prizes! 1st place: $500, 2nd place: $300, 3rd place: $200.
-* Commemorative Medals: Race participants will receive a special medal (while supplies last).
-* Special Guests: This year's race will feature appearances by legendary long-distance runner Jacqueline Hansen, as well as runner Thomas Valles, who was depicted in the film McFarland USA (with a special screening at the [Egyptian Theatre](https://www.egyptiantheatre.events/) in downtown Coos Bay on September 19th at 7:00 p.m.). The Tauranga Cross Country Team will also be visiting from New Zealand.
-* Virtual Option: Can't make it in person? Register for the Virtual 10K or 2K Run/Walk by midnight on September 5th to receive a bib, shirt, and medal.
+* **Cash Awards:** The top three male and female finishers will receive cash prizes! 1st place: $500, 2nd place: $300, 3rd place: $200.
+* **Commemorative Medals:** Race participants will receive a special medal (while supplies last).
+* **Special Guests:** This year's race will feature appearances by legendary long-distance runner Jacqueline Hansen, as well as runner Thomas Valles, who was depicted in the film McFarland USA (with a special screening at the [Egyptian Theatre](https://www.egyptiantheatre.events/) in downtown Coos Bay on September 19th at 7:00 p.m.). The Tauranga Cross Country Team will also be visiting from New Zealand.
+* **Virtual Option:** Can't make it in person? Register for the Virtual 10K or 2K Run/Walk by midnight on September 5th to receive a bib, shirt, and medal.
 
-This event is sanctioned by the [Road Runners Club of America](http://www.rrca.org/).
+*This event is sanctioned by the* [*Road Runners Club of America*](http://www.rrca.org/)*.*
 
-While you're here, be sure to enjoy the [Annual Bay Area Fun Festival](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) presented by [Coos Bay Downtown Association](https://coosbaydowntown.com/) September 20-21, 2025! This popular annual event, often seen as one last hurrah before we say goodbye to summer, features live entertainment, local vendors, delicious food and drink, the [Annual Cruz the Coos & Show' n Shine](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/), a parade through downtown Coos Bay, and more! It's the perfect way to say farewell to summer 2025 and usher in the autumn season!
+**While you're here, be sure to enjoy the** [**Annual Bay Area Fun Festival**](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/) **presented by** [**Coos Bay Downtown Association**](https://coosbaydowntown.com/) **September 20-21, 2025!** This popular annual event, often seen as one last hurrah before we say goodbye to summer, features live entertainment, local vendors, delicious food and drink, the [Annual Cruz the Coos & Show' n Shine](https://www.oregonsadventurecoast.com/event/annual-cruz-the-coos/), a parade through downtown Coos Bay, and more! It's the perfect way to say farewell to summer 2025 and usher in the autumn season!
 
 ### **Take Advantage of one of the** [**Sunday Night Lodging Specials**](https://www.oregonsadventurecoast.com/stay-extra-night/) **& Avoid U.S. Hwy 101 South Roadwork!!**
 
-Will you be impacted by <a href="https://kobi5.com/news/hwy-101-to-be-closed-south-of-bandon-for-weekend-in-september-281623/" target="_blank" rel="noopener">ODOT's closure of U.S. Hwy 101 south of Bandon</a> over the weekend? Visitors coming from south of this construction site will need to make alternate travel plans to reach Coos Bay and return home after the run. **If you plan ahead, you can completely avoid the traffic and make it a full weekend on Oregon's Adventure Coast by coming in during the day on Friday, staying through the weekend, and leaving Monday morning!** Several of our local lodging partners are offering special Sunday night discounts so you can extend your stay, relax, and enjoy more of Oregon's Adventure Coast. [Click here to learn more](https://www.oregonsadventurecoast.com/stay-extra-night/).
+Will you be impacted by <a href="https://kobi5.com/news/hwy-101-to-be-closed-south-of-bandon-for-weekend-in-september-281623/" target="_blank" rel="noopener">ODOT's closure of U.S. Hwy 101 south of Bandon</a> over the weekend? Visitors coming from south of this construction site will need to make alternate travel plans to reach Coos Bay and return home after the run. If you plan ahead, you can completely avoid the traffic and make it a full weekend on Oregon's Adventure Coast by coming in during the day on Friday, staying through the weekend, and leaving Monday morning! ***Several of our local lodging partners are offering special Sunday night discounts so you can extend your stay, relax, and enjoy more of Oregon's Adventure Coast.*** [***Click here to learn more***](https://www.oregonsadventurecoast.com/stay-extra-night/)***.***
 
 ### About Steve Prefontaine
 
