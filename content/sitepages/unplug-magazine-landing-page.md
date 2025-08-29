@@ -8,11 +8,9 @@ photo: /img/sub-head-vacation-page-2048x530.jpg
 ---
 ![rugged cliffs on the southern Oregon coast at sunset](/img/unplug-page-header-695x322.jpg)
 
-It’s time to leave the crowds behind and discover a place where adventure meets relaxation — Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston. Stretch out your vacation with an extended stay on our breathtaking coastline, where rugged and windswept cliffs, lush forests, charming towns, and endless outdoor activities invite you to explore, unwind, and reconnect. Check out some of our more popular [trip ideas](/tripideas).
+It’s time to leave the crowds behind and discover a bucket list destination where adventure meets relaxation — **Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston**. Stretch out your vacation with an extended stay on our dramatic coastline, where rugged cliffs, lush forests, charming towns, and endless outdoor activities invite you to explore, unwind, and reconnect. Check out some of our most popular [trip ideas](/tripideas).
 
-**More Days, More Adventures**<br>Skip the tired old northern coastal spots and head south to this majestic backdrop for [more to do, and more to explore](/adventures).
-
-Whether you are a thrill seeker or a chill seeker we are the spot. We are a great weekend getaway, but Oregon’s Adventure Coast wants you to have the time to really experience it all.
+**More Days, More Adventures<br>**Whether you are a thrill seeker or a chill seeker, this is the spot. Oregon’s Adventure Coast is a great getaway, but we invite you to take the time to really experience it all.  [More to Do & More to Explore](/adventures)
 
 Awaken to fresh ocean air as you stroll along miles of uncrowded beaches. From there you can find [adrenaline stirring excitement](/adventures), or peace and serenity by engaging in [Forest Bathing](/forest-bathing) as you become one with nature or spend your down time beachcombing, tide-pooling, and just soaking in the beauty of the Pacific.
 
@@ -27,8 +25,6 @@ You’ll get to select from an array [accommodations](/lodging), from bay front 
 **Less Traffic, More Wonder**<br>Unlike less diverse, and more crowded destinations, Oregon’s Adventure Coast gives you the breathing room to truly enjoy your vacation. Wide-open spaces, friendly faces, and enchanting beauty around every corner culminate in the perfect place to unwind, explore at your own pace, and create a lifetime of memories.
 
 **Make This Trip Truly Unforgettable**<br>This is your invitation to settle in and stay awhile. Spend your vacation the way it was meant to be spent — full of exploration, relaxation, and a touch of adventure. Come see why so many visitors return year after year, drawn back by the magic of **Oregon’s Adventure Coast**.
-
-**Summer. Vacation Here.**<br>Your extended getaway is waiting.
 
 ### See what makes Oregon’s Adventure Coast special — watch now!
 
