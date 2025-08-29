@@ -16,7 +16,7 @@ Whether you are a thrill seeker or a chill seeker, this is the spot. Oregon’s 
 
 Awaken to fresh ocean air as you stroll along miles of uncrowded beaches. From there you can find [adrenaline stirring excitement](/adventures), or peace and serenity by engaging in [Forest Bathing](/forest-bathing) as you become one with nature or spend your down time beachcombing, tide-pooling, and just soaking in the beauty of the Pacific.
 
-![rocky pacific ocean cliffs at sunset and mother daughter silhouette at beach sunset with seagulls](/img/vacaton-collage-v01.jpg)
+![woman standing on log forest bathing and ATV in dunes](/img/forest-bathing-atv-695-collage-1.jpg)
 
 **The Ultimate Home Base**<br>Stay longer and make yourself at home. All this dramatic scenery is set in the three distinct communities of Coos Bay, North Bend and Charleston, each with their own unique flavor blended to create the largest population on the Oregon coast. Stroll historic downtowns, sample fresh-caught seafood, and find cozy hideaways that are perfect for slowing down and reconnecting.
 
