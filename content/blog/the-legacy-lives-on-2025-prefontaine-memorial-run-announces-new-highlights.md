@@ -89,33 +89,12 @@ Be sure to read [How Steve Prefontaine Set the Pace for Nike](https://about.nike
 Fans of Steve Prefontaine may want to explore these destinations and/or activities while visiting Oregon's Adventure Coast. Be sure to stop in the Coos Bay Visitor’s Center for maps and more information on our hometown hero!
 
 * [Tour de Pre](http://prefontaineproductions.com/).[Steve Prefontaine's](https://www.oregonsadventurecoast.com/steve-prefontaine-story/) sister, Linda Prefontaine, continues to honor her brother's legacy with Tour de Pre. With this special one-of-a-kind experience, fans can explore the Coos Bay area, explore where Pre grew up, and appreciate where his brilliant career began while hearing personal stories and anecdotes that only Linda can offer. Advanced reservations are required. Be sure to [read this Travel Oregon article](https://traveloregon.com/things-to-do/events/running-events/take-tour-de-pre-coos-bay/) to learn more about Linda and the tour.
-
-  &nbsp;
-
 * The Prefontaine Memorial at the [Coos Bay Visitor Information Center](https://www.facebook.com/CoosBayVisitorInfoCtr/). This commemorative monument honors hometown hero Steve Prefontaine with a bronze likeness of “Pre” that captures his confident stride, while inscriptions list every American record he held at the time of his death in May 1975, from 2,000 to 10,000 meters. More than a tribute to his achievements, the site reflects his enduring legacy and the inspiration he continues to give runners worldwide.
-
-  &nbsp;
-
 * [Steve Prefontaine Memorial Room](https://coosartmuseum.org/exhibitions/steve-prefontaine-memorial-room/) at the [Coos Art Museum](https://coosartmuseum.org/). Here, you will find the museum's permanent collection of Steve's awards and rare memorabilia, as well as many photographs highlighting his illustrious running career.
-
-  &nbsp;
-
 * <a href="https://theclio.com/entry/89809" target="_blank" rel="noopener">Steve’s childhood home</a>, located on the corner of Elrod Avenue and 9th Street (marked with a commemorative plaque). Please remember this is a private residence. Visitors are welcome to stop and take photographs from outside, but we ask that you respect the privacy of the current residents by not entering the property or crossing the fence.
-
-  &nbsp;
-
 * <a href="https://prefontainerun.net/pre-murals/" target="_blank" rel="noopener">The Pre Mural in downtown Coos Bay.</a> Walking down Central Avenue, you cannot miss this massive mural, located across from [Restaurant O](http://restauranto.us/). Designed by Erik Nicolaisen and painted by Old City Artists, LLC in 2017, it makes for a perfect photo opportunity for visitors. The three-panel work captures pivotal stages of Steve Prefontaine’s legendary running career: his record-setting years at Marshfield High School, his rise as a collegiate star at the University of Oregon, and his post-collegiate triumphs, including his electrifying performance at the 1972 Munich Olympics.
-
-  &nbsp;
-
 * <a href="http://marshfield.cbd9.net/" target="_blank" rel="noopener">Marshfield High School</a>: Steve Prefontaine's alma mater. Under the guidance of Coach Walt McClure, "Pre" became a force to be reckoned with, and he set his last American record on May 9, 1975, at 2,000 meters in 5:01.4. Please note that this is a functioning public school with students in session. For safety and security reasons, the campus is not open for unscheduled tours or walk-throughs. We kindly ask that you respect the students, staff, and learning environment when paying tribute to Steve's legacy.
-
-  &nbsp;
-
 * <a href="http://www.imortuary.com/cemeteries/oregon/coos-bay/sunset-memorial-park-cemetery/" target="_blank" rel="noopener">Sunset Memorial Park</a>: Steve Prefontaine was laid to rest just south of Coos Bay, where many come to pay tribute and reflect on this extraordinary life taken too soon.
-
-  &nbsp;
-
 * Local groups like the [South Coast Running Club](https://southcoastrunningclub.org/) welcome newcomers and visitors who love to get out and be active with like-minded runners. Each week, there's a chance to join the locals for a midweek [Hump Day Run](https://southcoastrunningclub.org/wednesday/) on Wednesday evenings or an invigorating [Thursday morning run](https://southcoastrunningclub.org/thursday/). We also recommend stopping by [Wild Coast Running Co.](https://www.wildcoastrunning.com/) in Coos Bay for quality athletic/running shoes, apparel, and accessories.
 
 Whatever brings you to Oregon's Adventure Coast: Coos Bay, North Bend, and Charleston, you will surely find unforgettable experiences for every interest. Book your accommodations in Coos Bay, North Bend, and Charleston early by [clicking here](https://www.oregonsadventurecoast.com/lodging/?utm_source=events-march-2022&amp;utm_medium=mailchimp&amp;utm_campaign=+cbnb-newsletter)! For more information, please get in touch with the [Coos Bay–North Bend-Charleston Visitor & Convention Bureau](https://www.oregonsadventurecoast.com/contact/), and we will be happy to assist.
