@@ -23,6 +23,7 @@ aliases:
 
 ### Embrace the Beauty of Fall with Our Exclusive 15% Lodging Special!
 
+
 Discover the magic of fall in a destination that promises adventures to invigorate and recharge your soul. Book your getaway at one of our participating lodging properties and unlock our Fall 15% Lodging Special. **Please contact the property directly to make your reservations and get your savings.**
 
 *Discount is valid October 1, 2025 through November 30, 2025. Some restrictions apply and subject to change.*
