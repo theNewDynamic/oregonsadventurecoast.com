@@ -107,7 +107,7 @@ divider
 
 ![Ko-Kwel Casino Resort Coos Bay - RV Park Overhead Shot](/img/Mill-RV-overhead-1944.jpg)
 
-**Mill Casino ● Hotel & RV Park**<br>3201 Tremont Avenue<br>North Bend, OR 97459<br>800-953-4800 | 541-756-8800
+**Ko-Kwel Casino Resort Coos Bay (formerly The Mill Casino)**<br>3201 Tremont Avenue<br>North Bend, OR 97459<br>800-953-4800 | 541-756-8800
 
 **{{% colortext color="#d74029" %}}**Note: Please Call Property Directly with Code "FALL 15 SPECIAL" to Take Advantage of this Offer.**{{% /colortext %}}**
 
