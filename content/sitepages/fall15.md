@@ -30,9 +30,7 @@ Discover the magic of fall in a destination that promises adventures to invigora
 
 {{< spacer "50" >}}
 
-
 {{< columns number="2" >}}
-
 
 ![best western holiday hotel in coos bay front of building](/img/best-western-holiday-hotel-2024.jpg)
 
