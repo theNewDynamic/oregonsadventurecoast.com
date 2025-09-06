@@ -10,7 +10,7 @@ address:
   street2:
   zip: '97420'
 phone_local: 541-756-6320
-website: https://cooshistory.org/annual-fundraiser-2024-oktoberfest/
+website: https://cooshistory.org/annual-fundraiser-2025-oktoberfest/
 desktoptitle: Oktoberfest! at the Coos History Museum
 mobiletitle: Oktoberfest!
 hovertitle: Oktoberfest! at the Coos History Museum
