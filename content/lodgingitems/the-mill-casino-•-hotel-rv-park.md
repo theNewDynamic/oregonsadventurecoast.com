@@ -9,7 +9,7 @@ property_description: >-
   dining with a view, and easy access to coastal adventures. Whether you’re here
   to relax or explore, Ko-Kwel Casino Resort is your home base in Coos Bay. Free
   WiFi, pool, hot tub & pets welcome.
-photo_name: /img/Mill-hotelfront-cement-fixed.jpg
+photo_name: /img/ko-kwel-hotel-front-630x366.jpg
 photo_alt: Ko-Kwel Casino Resort Coos Bay
 units: 204
 property_category: 1 - Hotels, Motels & Inns
