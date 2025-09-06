@@ -56,4 +56,4 @@ This 18+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.
 
 ### TICKETS
 
-### <a href="https://cooshistory.org/annual-fundraiser-2024-oktoberfest/" target="_blank" rel="noopener"><strong>ON SALE NOW!</strong></a><br>
+### <a href="https://cooshistory.org/annual-fundraiser-2025-oktoberfest/" target="_blank" rel="noopener"><strong>ON SALE NOW!</strong></a><br>
