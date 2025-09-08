@@ -27,4 +27,8 @@ To help you get started discovering our exciting and exhilarating adventures, we
 
 Contact Oregon’s Adventure Coast with any questions you may have about things to do on your vacation!!
 
+{{< spacer 30 >}}
+
+<a href="/fall15"><img src="/img/fall15-695x100-09-25.jpg" alt="15% Off Fall Lodging Special Discount Banner"></a>
+
 {{< spacer 50 >}}
