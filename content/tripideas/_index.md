@@ -29,6 +29,6 @@ Contact Oregon’s Adventure Coast with any questions you may have about things 
 
 {{< spacer 30 >}}
 
-![15% Off Fall Lodging Discount Banner](/img/fall15-695x100-09-25.jpg)
+<a href="/fall15"><img src="/img/fall15-695x100-09-25.jpg" alt="15% Off Fall Lodging Special Discount Banner"></a>
 
 {{< spacer 50 >}}
