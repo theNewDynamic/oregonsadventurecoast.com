@@ -25,6 +25,9 @@ home_splashes:
   - url: /live-cam
     img: /img/live-cam-home-pg-button.png
     alt: Live Weather Cams to See Our Area
+  - url: /fall15
+    img: /img/fall15-2048x190-09-25.jpg
+    alt: 15% Fall Lodging Special - Book Now Banner
 masonry1:
   desktopphoto: /img/running-desktop-masonry-146x152.jpg
   desktoptitle: Running
