@@ -3,16 +3,16 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
-    photo: /img/fall-15-special-hm-pg-slider-2048x850-2025.jpg
-    title_mobile:
-    photo_mobile: /img/fall-15-mobile-slider-2025.jpg
-    url: /fall15
-    video:
-  - title:
     photo: /img/bay-area-fun-fest-2025-2048x850.jpg
     title_mobile:
     photo_mobile: /img/mobile-bay-area-fun-fest-2025.jpg
     url: /event/annual-bay-area-fun-festival
+    video:
+  - title:
+    photo: /img/fall-15-special-hm-pg-slider-2048x850-2025.jpg
+    title_mobile:
+    photo_mobile: /img/fall-15-mobile-slider-2025.jpg
+    url: /fall15
     video:
   - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
