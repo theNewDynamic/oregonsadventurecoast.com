@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: VCB & Industry Information
+title: Economic Impact FAQ
 draft: false
 url: /faq
 layout: open-meetings
