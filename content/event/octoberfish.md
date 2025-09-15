@@ -17,7 +17,7 @@ largeboxphoto: /img/octoberfish-gathering-1024x395.jpg
 mediumboxphoto: /img/octoberfish-667x395.jpg
 smallboxphoto: /img/octoberfish-sign-340x214.jpg
 ---
-![](/img/octoberfish-gathering-1024x395.jpg)
+![Orange graphic fish arching over a psychedelic cove and ocean.](/img/octoberfish-logo.png "Octoberfish is the first Saturday in October each year.")
 
 #### **Enjoy food, spirits, art and lots of MUSIC.**
 
