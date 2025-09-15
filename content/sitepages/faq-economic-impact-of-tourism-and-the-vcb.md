@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'FAQ: Economic Impact of Tourism and the VCB'
+title: VCB & Industry Information
 draft: false
 url: /faq
 layout: open-meetings
