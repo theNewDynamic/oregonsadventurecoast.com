@@ -14,6 +14,12 @@ slideshow:
     photo_mobile:
     url:
     video:
+  - title:
+    photo: /img/fall-15-special-hm-pg-slider-2048x850-2025.jpg
+    title_mobile:
+    photo_mobile: /img/fall-15-mobile-slider-2025.jpg
+    url: /fall15
+    video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /live-cam
