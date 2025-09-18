@@ -6,7 +6,7 @@
 
 				<div class="m-ft-contact__contact">
 					<div class="phone">(541) 269-0215</div>
-					
+
 					<div class="address">50 Central Ave, Coos Bay, OR 97420</div>
 				</div>
 
@@ -15,10 +15,10 @@
 					<p>Get the latest deals &amp; events.</p>
 
 					<form action="https://oregonsadventurecoast.us17.list-manage.com/subscribe/post?u=23d20aa9dd6b1cc84d8ba12c6&amp;id=2e9c9509c9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate newsletter-form clearfix" target="_blank" novalidate>
-	                
+
 						<input type="email" value=" " name="EMAIL" class="text" id="mce-EMAIL" placeholder="Enter Email Address">
 						<input type="submit" value="&nbsp;" name="subscribe" id="mc-embedded-subscribe" class="btn">
-		
+
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_23d20aa9dd6b1cc84d8ba12c6_2e9c9509c9" tabindex="-1" value=""></div>
 					</form>
 				</div>
@@ -37,7 +37,7 @@
 					<li class="traveler"><a href="/travelers-info">Traveler's Info</a></li>
 					<li class="meetings"><a href="/meeting-planners">Meetings, Groups &amp; Conventions</a></li>
 					<li class="press"><a href="/press-media-industry">Press, Media &amp; Industry</a></li>
-					<li class="open-meetings"><a href="/open-meetings">Open Meetings</a></li>
+					<li class="open-meetings"><a href="/open-meetings">VCB & Industry</a></li>
 					<li class="guide"><a href="/contact/#contactform">Get Our Free Visitor Guide</a></li>
 					{{ with .Site.GetPage "/newsletter-archive" }}
 						<li class="newsletter"><a href="{{ .RelPermalink }}">Newsletter Archive</a></li>
@@ -49,14 +49,14 @@
 					</div>
 				</ul>
 
-				
+
 			</div>
 
 		</div>
 
 		<div class="clearfix m-copyright-footer">
 			<p class="locations"><a href="/our-area-coos-bay">Coos Bay</a> <span class="g-swoosh-bullet"></span> <a href="/our-area-north-bend">North Bend</a> <span class="g-swoosh-bullet"></span> <a href="/our-area-charleston">Charleston</a></p>
-			<p class="copyright">&copy; Oregon’s Adventure Coast, {{ dateFormat "2006" now }}. All rights reserved. 
+			<p class="copyright">&copy; Oregon’s Adventure Coast, {{ dateFormat "2006" now }}. All rights reserved.
 				{{ range slice "social-media-disclaimer" "privacy-policy" }}
 					{{ with site.GetPage (print "sitepages/" .) }}
 						<a href="{{ .RelPermalink }}">{{ .Title }}</a>.

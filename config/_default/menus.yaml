@@ -82,7 +82,7 @@ open_meetings:
   name: Board Of Directors
   weight: 20
 - url: /faq
-  name: FAQ
+  name: Economic Impact FAQ
   weight: 30
 - url: /open-meetings
   name: Open Meetings
