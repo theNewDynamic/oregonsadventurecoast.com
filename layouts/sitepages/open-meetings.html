@@ -4,8 +4,8 @@
 
 <div class="g-wrap clearfix">
     <div class="m-standard-nav">
-        <h3>Open Meetings</h3>
-    
+        <h3>VCB & Industry</h3>
+
         <ul>
             {{ range site.Menus.open_meetings }}
                 {{ $blank := in .URL "http" }}
@@ -13,10 +13,10 @@
             {{ end }}
         </ul>
     </div>
-    
+
     <div class="m-standard-content">
         <h1>{{ .Title }}</h1>
-    
+
         <div class="introtext clearfix">
             {{ .Content }}
         </div>
