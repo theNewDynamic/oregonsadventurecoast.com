@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Encrhoma Glasses Giveaway
-draft: true
+title: Enchroma Glasses Giveaway
+draft: false
 url: /enchroma-giveaway
 layout: contact
 photo: /img/enchroma-glasses-giveway-subpg-header.jpg
