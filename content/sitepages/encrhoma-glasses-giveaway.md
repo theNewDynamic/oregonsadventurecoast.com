@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Encrhoma Glasses Giveaway
+title: Enchroma Glasses Giveaway
 draft: true
 url: /enchroma-giveaway
 layout: contact
