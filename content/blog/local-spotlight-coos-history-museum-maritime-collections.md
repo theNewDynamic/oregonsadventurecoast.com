@@ -63,7 +63,7 @@ Its exhibits span centuries, covering everything from prehistory through the 197
 
 Last year, the Coos History Museum was featured on [*<u>All Across Oregon</u>*](https://www.pbs.org/show/all-across-oregon/), a food and travel series on PBS hosted by Chef Vinny DiCostanzo. The show follows DiCostanzo as he explores the fascinating people and one-of-a-kind experiences that make Oregon a unique place. In the episode, DiCostanzo visits the museum for a guided tour with Executive Director Heather Christenbury and Board Member and historian Steven Greif. Together, they share insights into Coos County's cultural influences and our region's lasting impact on the Pacific Northwest. **You can watch the full episode below:**
 
-{{< youtube id="v=O8MSSvLKFEo" >}}
+{{< youtube id="O8MSSvLKFEo" >}}
 
 ### 2nd Annual Oktoberfest Fundraiser - September 27, 2025
 
