@@ -83,37 +83,13 @@ The Coos History Museum & Maritime Collections is located at 1210 N. Front Stree
 While you're in the area, take some time to explore other fascinating historical & cultural points of interest. **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston**, is home to several [<u>museums and heritage experiences</u>](https://oregonsadventurecoast.com/art-history-culture/) that offer even more insight into the region's past. Here are a few ideas to add to your itinerary.
 
 * Stop by the [<u>Coos Bay Visitors Center</u>](https://www.oregonsadventurecoast.com/contact/) and explore our collection of historical books, souvenirs, regional information, and more at 50 Central Avenue. You may also contact us at (541) 269-0215.
-
-  &nbsp;
-
 * Take a [<u>self-guided walking tour of Coos Bay</u>](https://www.oregonsadventurecoast.com/tripideas/historic-walking-tour-of-coos-bay/) and explore its unique history. We also encourage visitors to explore [<u>North Bend's rich and interesting past</u>](https://www.oregonsadventurecoast.com/tripideas/historic-walking-tour-of-north-bend/)!
-
-  &nbsp;
-
 * Be inspired at [<u>Coos Art Museum,</u>](https://www.coosart.org/) the cornerstone of the visual arts on Oregon's Southern Coast.
-
-  &nbsp;
-
 * Visit the 6,000-square-foot [<u>Charleston Marine Life Center</u>](http://www.charlestonmarinelifecenter.com/) - a beloved educational facility and local gem in Charleston, Oregon.
-
-  &nbsp;
-
 * Visit the Historic [Egyptian Theatre](https://www.egyptiantheatre.events/), built in 1925. This downtown Coos Bay landmark is listed on the National Register of Historic Places and boasts one of the only remaining operable Wurlitzer Organs in the state.
-
-  &nbsp;
-
 * Restored and celebrated for its 75th anniversary in 2024, [the Oregon Merci Train BoxCar](http://mercitrain.org/Oregon/) in North Bend is a unique piece of American history, symbolizing France's gratitude to the United States after World War II.
-
-  &nbsp;
-
 * Explore the [<u>Old Marshfield Pioneer Cemetery</u>](https://www.coosbayor.gov/community/city-parks/marshfield-pioneer-cemetery#:~:text=The%20cemetery%20was%20officially%20dedicated,were%20buried%20in%20the%20cemetery.) (750 S 7th St), where many of the city's early settlers are buried. This peaceful resting place provides a poignant reminder of the generations that have shaped Coos Bay. Stop at the Coos Bay Visitor Center for the gate code.
-
-  &nbsp;
-
 * Take a trip back in time at the [<u>Oregon Coast Historical Railway Museum</u>](https://visittheoregoncoast.com/cities/coos-bay/activities/oregon-coast-historical-railway-museum/) (766 South 1st St).
-
-  &nbsp;
-
 * Explore the fascinating history of The Sun newspaper (1891-1944) at the [<u>Marshfield Sun Printing Museum</u>](https://www.facebook.com/p/Marshfield-Sun-Printing-Museum-100071574391773/), a historic newspaper and job printing shop that features exhibits on printing and local history. *Open seasonally from Memorial Day to Labor Day or by appointment for large groups.*
 
 For more information, please contact the [<u>Coos Bay-North Bend-Charleston Visitor &amp; Convention Bureau</u>](https://www.oregonsadventurecoast.com/).
