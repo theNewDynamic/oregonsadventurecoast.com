@@ -14,6 +14,12 @@ slideshow:
     photo_mobile:
     url:
     video:
+  - title:
+    photo: /img/run-whiskey-run-hm-slider-2048x850.jpg
+    title_mobile:
+    photo_mobile: /img/run-whiskey-run-mobile-slider-09-25.jpg
+    url: /event/run-whiskey-run-and-clean-up-fun-run
+    video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /live-cam
