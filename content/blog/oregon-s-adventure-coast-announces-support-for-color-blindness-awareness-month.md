@@ -3,16 +3,38 @@ _schema: default
 title: Oregon’s Adventure Coast Announces Support for Color Blindness Awareness Month
 draft: false
 date: 2025-09-22T00:00:00-07:00
+description: >-
+  Oregon’s Adventure Coast is partnering with EnChroma, creators of glasses for
+  color blindness, to promote International Color Blindness Awareness Month this
+  September; learn how you can enter to win one of two free pairs of EnChroma
+  outdoor glasses!
 image: /img/color-blindness-awareness-month-blog-12-695x322.jpg
+tags:
+  - color blindness
+  - Enchroma
+  - Enchroma color blindness glasses
+  - Color Blindness month
+  - Giveaway
+  - Coos Art Museum
+  - Coos History Museum
+  - Coos Bay
+  - North Bend
+  - and Charleston
+  - Charleston Marine Life Center
+  - accessibility
+  - Color Vision Deficiency (CVD)
+  - Accessibility Verified
+categories:
+  - Oregon's Adventure Coast News & Info
 warning: false
 ---
 The addition of the EnChroma glasses for color blindness reflects our mission to make the Oregon Coast accessible to all. - Janice Langlinais, Director of the Coos Bay-North Bend-Charleston Visitor & Convention Bureau, aka Oregon’s Adventure Coast.
 
-Anywhere you look on Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston, you’ll likely find a kaleidoscope of color that many of us take for granted. Fiery red and orange sunsets over the Pacific, lush green forests, golden sunrises on the bay, and the dazzling gardens and holiday lights at[<u>Shore Acres State Park</u>](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=68) make the region come alive. Tidepools reveal entire ecosystems in brilliant hues, while[<u>local galleries</u>](https://www.oregonsadventurecoast.com/art-history-culture/) showcase vibrant works of art.
+Anywhere you look on Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston, you’ll likely find a kaleidoscope of color that many of us take for granted. Fiery red and orange sunsets over the Pacific, lush green forests, golden sunrises on the bay, and the dazzling gardens and holiday lights at [<u>Shore Acres State Park</u>](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=68) make the region come alive. Tidepools reveal entire ecosystems in brilliant hues, while [<u>local galleries</u>](https://www.oregonsadventurecoast.com/art-history-culture/) showcase vibrant works of art.
 
 For those who are color blind, however, the whole picture isn’t always easy to see.
 
-That is why the Coos Bay–North Bend–Charleston Visitor & Convention Bureau (Oregon’s Adventure Coast) is partnering with[<u>EnChroma</u>](https://enchroma.com/), creators of glasses for color blindness, to promote International Color Blindness Awareness Month this September. Oregon’s Adventure Coast now offers outdoor glasses for both the most common and rarer forms of color blindness, with options for adults and children, free to borrow for up to seven days. Additionally,[<u>Coos Art Museum</u>](https://coosartmuseum.org/),[<u>Coos History Museum</u>](https://cooshistory.org/), and the[<u>Charleston Marine Life Center</u>](https://cmlc.uoregon.edu/) have indoor EnChroma glasses available for visitors to borrow free of charge during their visit to the museums.
+That is why the Coos Bay–North Bend–Charleston Visitor & Convention Bureau (Oregon’s Adventure Coast) is partnering with [<u>EnChroma</u>](https://enchroma.com/), creators of glasses for color blindness, to promote International Color Blindness Awareness Month this September. Oregon’s Adventure Coast now offers outdoor glasses for both the most common and rarer forms of color blindness, with options for adults and children, free to borrow for up to seven days. Additionally, [<u>Coos Art Museum</u>](https://coosartmuseum.org/),[<u>Coos History Museum</u>](https://cooshistory.org/), and the [<u>Charleston Marine Life Center</u>](https://cmlc.uoregon.edu/) have indoor EnChroma glasses available for visitors to borrow free of charge during their visit to the museums.
 
 "The addition of the EnChroma glasses for color blindness reflects our mission to make the Oregon Coast accessible to all," said Janice Langlinais, Executive Director of the Coos Bay-North Bend-Charleston Visitor & Convention Bureau, aka Oregon’s Adventure Coast. "From 'Accessibility Verified' businesses with Wheel the World, to David's Chair mobility devices and accessible kayak launches, we're creating a destination where everyone feels welcome and empowered to explore."
 
@@ -29,6 +51,20 @@ To highlight how Color Vision Deficiency (CVD) can affect visitors and limit the
 ### Enter to Win a FREE Pair of EnChroma® Color Blind Glasses!
 
 In recognition of International Color Blindness Awareness Month, Oregon’s Adventure Coast is proud to partner with [EnChroma®](https://enchroma.com/) to offer a [special giveaway](https://www.oregonsadventurecoast.com/enchroma-giveaway/) designed to help raise awareness about Color Vision Deficiency (CVD).
+
+From now through **October 15, 2025**, color-blind visitors are invited to stop by the [Coos Bay Visitor Center](https://www.oregonsadventurecoast.com/contact/) (located at 50 Central Avenue in Coos Bay, OR) to [take the color-blindness test](https://enchroma.com/pages/test), try EnChroma glasses, experience the difference for themselves, and enter to win one of two free pairs of EnChroma outdoor glasses.
+
+**How to Enter:** You can enter online or in person at the Coos Bay Visitor Center.
+
+Simply [take the color-blindness test](https://enchroma.com/pages/test), try on a pair of glasses (not required for online entries), [complete a short form](https://www.oregonsadventurecoast.com/enchroma-giveaway/)selecting either kid or adult glasses, the type of glasses (either Deutan or Protan, regular or fit-over), and you’ll be entered into the drawing.
+
+Entry to the contest may also be [completed online](https://www.oregonsadventurecoast.com/enchroma-giveaway/), but still requires the [color-blindness test](https://enchroma.com/pages/test) to ensure the need and the correct type of color-blindness glasses.
+
+**Winners will be selected at random and announced by October 30, 2025.** Each winner will receive a complimentary pair of EnChroma outdoor glasses, shipped directly from EnChroma.
+
+*Winners must not require prescription lenses, though contact lens wearers and those who only need reading or driving glasses are eligible. To verify eligibility, participants must take* [*<u>EnChroma’s color blindness test,</u>*](https://enchroma.com/pages/test) *which cannot be intentionally manipulated. When entering, you agree to the Official Rules listed at the bottom of this post. Additional terms and conditions may apply.*
+
+&nbsp;
 
 ![](/img/intl-cbam-giveaway-04.jpg)
 
