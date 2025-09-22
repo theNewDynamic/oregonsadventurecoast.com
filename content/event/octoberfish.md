@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Octoberfish
+title: Octoberfish & Seafood Festival
 startdate: '2025-10-04'
 enddate: '2025-10-04'
 address:
@@ -27,6 +27,14 @@ Come join us on October 4, 2025 at the Oregon Institute of Marine Biology in Cha
 
 ![](/img/octoberfish-crafts-667x355.jpg)
 
-**Always the first Saturday in October, and always Free to attend!!**
+#### **NEW THIS YEAR!!! <br>CHARLESTON SEAFOOD FESTIVAL**
 
-**Proceeds from Octoberfish support the Charleston Food Bank.**
+![Grey wood background with graphics of shells and octopi with the Seafood Festival data](/img/seafood-fest-banner.png "The Long Awaited Return of the Charleston Seafood Festival!")
+
+Thanks to the support of the Octoberfish event, the Charleston Seafood Festival is making its long-awaited return this October!
+
+This year’s Octoberfish will feature an incredible lineup of local vendors—including <a href="https://www.facebook.com/7DevilsBrewingCo" target="_blank" rel="noopener">7 Devils Brewing Co</a>, <a href="https://www.chucksseafood.com/" target="_blank" rel="noopener">Chuck’s Seafood</a>, <a href="https://www.facebook.com/fishermensseafoodmarket/" target="_blank" rel="noopener">Fishermen's Seafood Market</a>, and many more—serving up a variety of seafood delicacies straight from our coastal fisheries.
+
+We’re thrilled to have this beloved tradition back in the community and can’t wait to celebrate with you all. See you there!
+
+***Proceeds from Octoberfish support the Charleston Food Bank.***
