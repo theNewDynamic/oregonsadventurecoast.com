@@ -30,6 +30,20 @@ To highlight how Color Vision Deficiency (CVD) can affect visitors and limit the
 
 In recognition of International Color Blindness Awareness Month, Oregon’s Adventure Coast is proud to partner with [EnChroma®](https://enchroma.com/) to offer a [special giveaway](https://www.oregonsadventurecoast.com/enchroma-giveaway/) designed to help raise awareness about Color Vision Deficiency (CVD).
 
+From now through **October 15, 2025**, color-blind visitors are invited to stop by the [Coos Bay Visitor Center](https://www.oregonsadventurecoast.com/contact/) (located at 50 Central Avenue in Coos Bay, OR) to [take the color-blindness test](https://enchroma.com/pages/test), try EnChroma glasses, experience the difference for themselves, and enter to win one of two free pairs of EnChroma outdoor glasses.
+
+**How to Enter:** You can enter online or in person at the Coos Bay Visitor Center.
+
+Simply [take the color-blindness test](https://enchroma.com/pages/test), try on a pair of glasses (not required for online entries), [complete a short form](https://www.oregonsadventurecoast.com/enchroma-giveaway/)selecting either kid or adult glasses, the type of glasses (either Deutan or Protan, regular or fit-over), and you’ll be entered into the drawing.
+
+Entry to the contest may also be [completed online](https://www.oregonsadventurecoast.com/enchroma-giveaway/), but still requires the [color-blindness test](https://enchroma.com/pages/test) to ensure the need and the correct type of color-blindness glasses.
+
+**Winners will be selected at random and announced by October 30, 2025.** Each winner will receive a complimentary pair of EnChroma outdoor glasses, shipped directly from EnChroma.
+
+*Winners must not require prescription lenses, though contact lens wearers and those who only need reading or driving glasses are eligible. To verify eligibility, participants must take* [*<u>EnChroma’s color blindness test,</u>*](https://enchroma.com/pages/test) *which cannot be intentionally manipulated. When entering, you agree to the Official Rules listed at the bottom of this post. Additional terms and conditions may apply.*
+
+&nbsp;
+
 ![](/img/intl-cbam-giveaway-04.jpg)
 
 ### About Color Vision Deficiency
