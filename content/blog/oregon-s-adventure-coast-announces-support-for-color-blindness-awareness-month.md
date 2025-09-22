@@ -28,7 +28,7 @@ categories:
   - Oregon's Adventure Coast News & Info
 warning: false
 ---
-The addition of the EnChroma glasses for color blindness reflects our mission to make the Oregon Coast accessible to all. - Janice Langlinais, Director of the Coos Bay-North Bend-Charleston Visitor & Convention Bureau, aka Oregon’s Adventure Coast.
+*The addition of the EnChroma glasses for color blindness reflects our mission to make the Oregon Coast accessible to all.* - **Janice Langlinais, Director of the Coos Bay-North Bend-Charleston Visitor & Convention Bureau, aka Oregon’s Adventure Coast.**
 
 Anywhere you look on **Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston**, you’ll likely find a kaleidoscope of color that many of us take for granted. Fiery red and orange sunsets over the Pacific, lush green forests, golden sunrises on the bay, and the dazzling gardens and holiday lights at [<u>Shore Acres State Park</u>](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=68) make the region come alive. Tidepools reveal entire ecosystems in brilliant hues, while [<u>local galleries</u>](https://www.oregonsadventurecoast.com/art-history-culture/) showcase vibrant works of art.
 
