@@ -3,7 +3,29 @@ _schema: default
 title: Oregon’s Adventure Coast Announces Support for Color Blindness Awareness Month
 draft: false
 date: 2025-09-22T00:00:00-07:00
+description: >-
+  Oregon’s Adventure Coast is partnering with EnChroma, creators of glasses for
+  color blindness, to promote International Color Blindness Awareness Month this
+  September; learn how you can enter to win one of two free pairs of EnChroma
+  outdoor glasses!
 image: /img/color-blindness-awareness-month-blog-12-695x322.jpg
+tags:
+  - color blindness
+  - Enchroma
+  - Enchroma color blindness glasses
+  - Color Blindness month
+  - Giveaway
+  - Coos Art Museum
+  - Coos History Museum
+  - Coos Bay
+  - North Bend
+  - and Charleston
+  - Charleston Marine Life Center
+  - accessibility
+  - Color Vision Deficiency (CVD)
+  - Accessibility Verified
+categories:
+  - Oregon's Adventure Coast News & Info
 warning: false
 ---
 The addition of the EnChroma glasses for color blindness reflects our mission to make the Oregon Coast accessible to all. - Janice Langlinais, Director of the Coos Bay-North Bend-Charleston Visitor & Convention Bureau, aka Oregon’s Adventure Coast.
