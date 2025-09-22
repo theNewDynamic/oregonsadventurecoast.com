@@ -8,8 +8,8 @@ address:
   state: Oregon
   street: 63466 Boat Basin Road
   zip: 97420
-desktoptitle: Octoberfish
-mobiletitle: Octoberfish
+desktoptitle: Octoberfish & Seafood Fest
+mobiletitle: Octoberfish & Seafood Fest
 hovertitle: Fall Family Celebration
 hoverdescription: Fall Family Celebration
 photo: /img/charleston-marina-2048x530.jpg
