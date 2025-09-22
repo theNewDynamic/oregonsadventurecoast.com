@@ -36,17 +36,17 @@ The chosen section of Whiskey Run is shaded and sheltered, which means these tra
 
 #### **Course options include the following:**&nbsp;&nbsp;
 
-*Note that projected distances and actual distances may vary, kinda like the amount of whiskey consumption you report to your doctor! &nbsp;These maps also don’t start at the parking lot, which you will, so show up a little short.*
+*Note that projected distances and actual distances may vary, kinda like the amount of whiskey consumption you report to your doctor! &nbsp;These maps also don’t start at the parking lot, which you will, so show up a little short. Note that the course has changed in 2025 since some of the trails are closed due to logging.*
 
 * **1\.5 Mile (Shirley Temple)**
   * A shorter loop, but still challenging. Great for walkers and adventurous families wishing to wet their whistles!
-  * <a target="_blank" rel="noopener" href="https://www.trailforks.com/ridelog/planner/view/333046/">Shirley Temple Map</a>
+  * <a target="_blank" rel="noopener" href="https://ridewithgps.com/routes/52600400">Shirley Temple Map</a>
 * **5 Mile (Whiskey Ginger)**
   * A full loop on super-premium top-shelf trails, cheers!
-  * <a target="_blank" rel="noopener" href="https://www.trailforks.com/ridelog/planner/view/333049/">Whiskey Ginger Map</a>
+  * <a target="_blank" rel="noopener" href="https://ridewithgps.com/routes/52600406">Whiskey Ginger Map</a>
 * **10 Mile (Double Shot)**
   * If one just isn’t enough, imbibe 2 full loops – stay thirsty, my friends!
-  * <a target="_blank" rel="noopener" href="https://www.trailforks.com/ridelog/planner/view/335749/">Double Shot Map</a>
+  * <a target="_blank" rel="noopener" href="https://ridewithgps.com/routes/52600406">Double Shot Map</a>
 
 *Please note that all courses are 100% trail, so not stroller friendly. &nbsp;These are single-track trails and a dog can take you out. &nbsp;We love dogs, but please leave your dog at home!*
 
