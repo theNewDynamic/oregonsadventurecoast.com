@@ -30,17 +30,17 @@ warning: false
 ---
 The addition of the EnChroma glasses for color blindness reflects our mission to make the Oregon Coast accessible to all. - Janice Langlinais, Director of the Coos Bay-North Bend-Charleston Visitor & Convention Bureau, aka Oregon’s Adventure Coast.
 
-Anywhere you look on Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston, you’ll likely find a kaleidoscope of color that many of us take for granted. Fiery red and orange sunsets over the Pacific, lush green forests, golden sunrises on the bay, and the dazzling gardens and holiday lights at [<u>Shore Acres State Park</u>](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=68) make the region come alive. Tidepools reveal entire ecosystems in brilliant hues, while [<u>local galleries</u>](https://www.oregonsadventurecoast.com/art-history-culture/) showcase vibrant works of art.
+Anywhere you look on **Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston**, you’ll likely find a kaleidoscope of color that many of us take for granted. Fiery red and orange sunsets over the Pacific, lush green forests, golden sunrises on the bay, and the dazzling gardens and holiday lights at [<u>Shore Acres State Park</u>](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=68) make the region come alive. Tidepools reveal entire ecosystems in brilliant hues, while [<u>local galleries</u>](https://www.oregonsadventurecoast.com/art-history-culture/) showcase vibrant works of art.
 
 For those who are color blind, however, the whole picture isn’t always easy to see.
+
+![](/img/color-blindness-awareness-month-blog-12-695x322-4.jpg)
 
 That is why the Coos Bay–North Bend–Charleston Visitor & Convention Bureau (Oregon’s Adventure Coast) is partnering with [<u>EnChroma</u>](https://enchroma.com/), creators of glasses for color blindness, to promote International Color Blindness Awareness Month this September. Oregon’s Adventure Coast now offers outdoor glasses for both the most common and rarer forms of color blindness, with options for adults and children, free to borrow for up to seven days. Additionally, [<u>Coos Art Museum</u>](https://coosartmuseum.org/),[<u>Coos History Museum</u>](https://cooshistory.org/), and the [<u>Charleston Marine Life Center</u>](https://cmlc.uoregon.edu/) have indoor EnChroma glasses available for visitors to borrow free of charge during their visit to the museums.
 
 "The addition of the EnChroma glasses for color blindness reflects our mission to make the Oregon Coast accessible to all," said Janice Langlinais, Executive Director of the Coos Bay-North Bend-Charleston Visitor & Convention Bureau, aka Oregon’s Adventure Coast. "From 'Accessibility Verified' businesses with Wheel the World, to David's Chair mobility devices and accessible kayak launches, we're creating a destination where everyone feels welcome and empowered to explore."
 
 To highlight how Color Vision Deficiency (CVD) can affect visitors and limit their ability to fully experience the vibrant colors on Oregon’s Adventure Coast, we used EnChroma’s Chromatic Vision Simulator to illustrate the difference between normal color vision and CVD.
-
-![](/img/color-blindness-awareness-month-blog-12-695x322-4.jpg)
 
 ![](/img/color-blindness-awareness-month-blog-12-695x322-1.jpg)
 
