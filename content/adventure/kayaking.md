@@ -58,6 +58,8 @@ We'd love to be able to say, "come on in, the water's fine" but it would be more
 
 &nbsp;
 
+&nbsp;
+
 <div class="margin-50px-top"></div>
 
 ### Bastendorff Beach Hints Video
@@ -82,4 +84,4 @@ Tenmile Lakes is made up of two lakes (North and South) connected by a channel. 
 
 ## Equipment Rental
 
-Don't have your own kayak, paddleboard or surfboard? You can rent one and get some sage advice from our friends at <a href="https://www.waxerssurfandskate.com" title="Waxer's Surf Shop" target="_blank" rel="noopener">Waxer's Surf Shop</a> in downtown Coos Bay; [Bahama Boards](https://bahamaboardz.com/ "Bahama Boards")in Coos Bay; and [Coastal Kayak & SUP Rentals](https://coastalkayakandsuprentalsllc.com/) in the Empire District of Coos Bay.
+Don't have your own kayak, paddleboard or surfboard? You can rent one and get some sage advice from our friends at <a href="https://www.waxerssurfandskate.com" title="Waxer's Surf Shop" target="_blank" rel="noopener">Waxer's Surf Shop</a> in downtown Coos Bay (paddleboards & surfboards); [Bahama Boards](https://bahamaboardz.com/ "Bahama Boards") (kayaks, paddleboards, surfboards and sandboards) in Coos Bay; and [Coastal Kayak & SUP Rentals](https://coastalkayakandsuprentalsllc.com/) in the Empire District of Coos Bay with a kayak/SUP kiosk available at John Topits Park in Coos Bay.
