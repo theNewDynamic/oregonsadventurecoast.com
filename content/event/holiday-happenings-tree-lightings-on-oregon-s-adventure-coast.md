@@ -81,7 +81,7 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 ![winter faire at Coos history museum](/img/ceramic-bells-sub-section-hdr.jpg)
 
-#### November TBD<br>Winter Faire at Coos History Museum
+#### November 28th & 29th<br>Winter Faire at Coos History Museum
 
 Join local artisans, food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Faire is Free!
 
