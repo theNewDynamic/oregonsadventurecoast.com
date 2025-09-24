@@ -39,9 +39,9 @@ aliases:
 
 ![](/img/shopping-sub-header-695x200.jpg)
 
-#### November TBD<br>Downtown Coos Bay Holiday Open House
+#### November 14-15<br>Downtown Coos Bay Holiday Open House
 
-Get into the holiday spirit and work on your gift-giving lists at the Annual Downtown Coos Bay Holiday Open House. Participating businesses will open their doors on the second weekend in November for the Holiday Open House. Browse participating shops for gift-giving inspirations and holiday home decor while entering to win door prizes. Keep your receipts for purchase in the downtown area between November 7-29 and redeem them for a holiday mug on Shop Small Saturday, November 29th at Jennie's Shoes!
+Get into the holiday spirit and work on your gift-giving lists at the Annual Downtown Coos Bay Holiday Open House. Browse participating shops for gift-giving inspirations and holiday home decor while entering to win door prizes. Keep your receipts for purchase in the downtown area between November 14-29 and redeem them for a holiday mug on Shop Small Saturday, November 29th at Jennie's Shoes!
 
 {{< spacer 50 >}}
 
@@ -73,9 +73,9 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 ![Coos Bay Tree lighting with Santa dn the movie Elf!](/img/coos-bay-tree-lighting-sub-sect-hdr.jpg)
 
-#### November 29, 2025<br>Tree Lighting at the Coos Bay Visitor Center with Santa
+#### November 29, 2025<br>Santa Visit, Parade & Tree Lighting at the Coos Bay Visitor Center with Santa
 
-***NOTE: This event is on Saturday this year.*** Join Santa at Coos Bay City Hall to share your wish list and get your holiday photo, then meet Santa at the **Coos Bay Visitor Center** for the Coos Bay Tree Lighting! The Tree Lighting event begins with cookies and cider in the Visitor Center at 4:30pm. Santa and the Mayor of Coos Bay will light the tree at 5:30pm. More details coming soon.
+***NOTE: This event is on Saturday this year.*** Join Santa at **Coos Bay Visitor Center** to share your wish list and get your holiday photo from 2:30 to 4:30pm, then meet Santa at 5pm at **Coos Bay City Hall** for  the **Walking Lighted Parade** to the Visitor Center for the **Coos Bay Tree Lighting**! The Tree Lighting event begins with cookies and cider in the Visitor Center at 4:30pm for those who do not wish to be part of the parade. Santa will light the tree at 5:30pm in the Visitor Center parking lot located at 50 Central Ave at Highway 101.
 
 {{< spacer 50 >}}
 
@@ -92,6 +92,8 @@ Join local artisans, food vendors, and more for your annual Holiday Shopping at 
 #### November 29, 2025<br>Shop Small Saturday in Downtown Coos Bay and North Bend
 
 **Shop Small Saturday encourages us to shop at small, local shops this holiday season!**&nbsp;The Coos Bay Downtown Association and North Bend Main Street invite you to spend Saturday after Thanksgiving in both downtown districts for Shop Small Saturday. Shop Small Saturday encourages shoppers to support their neighborhood businesses and to embrace the day as a holiday shopping tradition.
+
+In Coos Bay, enjoy the **Nog & Cider Walk** from 11am to 3pm at participating businesses. Egg nog and cider will be served while you shop for wonderful holiday gifts. Pick up a map of businesses at Jennie's Shoes on Central Avenue. ***And don't forget Santa will be at the Coos Bay Visitor Center from 2:30 to 4:30 and the tree lighting will be at 5:30pm.***
 
 {{< spacer 50 >}}
 
