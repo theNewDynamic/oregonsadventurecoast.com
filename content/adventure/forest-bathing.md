@@ -55,31 +55,19 @@ Bring a picnic lunch or have a healthy dinner at one of our Farm to Table eateri
 
 {{< spacer 20 >}}
 
-{{< columns number="2" >}}
+{{< columns number="2" >}}<img alt="Woman in yoga pose with harp in background." title="Center of Attention Yoga" height="220" width="345" src="/img/mona2-345x220.jpg" />
 
-![](/img/charlo-mindfulness-center.jpg)
+**Center of Attention Massage and Yoga**<br>161 Date Avenue Coos Bay, OR 97420 (916) 251-6920 <a href="http://bit.ly/4mKFBMW" target="_blank" rel="noopener">//bit.ly/4mKFBMW</a>
 
-**Charlo Mindfulness Center**
-1260 N. Bayshore Drive, Suite 204
-Coos Bay, OR 97420
-(541) 808-2008
-[charlomindfulness.com](http://charlomindfulness.com/)
-
-The Center provides Vinyasa yoga classes, mindfulness courses, personalized coaching, and creative writing workshops in addition to special events that celebrate the pursuit of creative and mindful connections. All classes are developed to meet the needs of the students present in the class. You do not need any experience or prior classes in order to participate.
+The Center of Attention is a wellness-based, small boutique Yoga studio, offering Massage, Traditional Hatha Yoga, Yin Yoga, and Alignment Flow Yoga, Breathwork, Meditation, and Sound Bath events in a peaceful setting.
 
 divider
 
-![downtown health & fitness in coos bay, oregon](/img/downtown-fitness-center.jpg)
+![downtown health &amp; fitness in coos bay, oregon](/img/downtown-fitness-center.jpg)
 
-**Downtown Health & Fitness**
-440 Central Avenue
-Coos Bay, OR 97420
-(541) 267-3948
-[www.dhfitness.net](https://www.dhfitness.net/ "https://www.dhfitness.net/")
+**Downtown Health & Fitness** <br>440 Central Avenue Coos Bay, OR 97420 (541) 267-3948 [www.dhfitness.net](https://www.dhfitness.net/ "https://www.dhfitness.net/")
 
-Downtown Health and Fitness aims to provide a clean, safe, and helpful environment. Offering a variety of group fitness classes, including yoga, chair yoga and gentle yoga, these classes are designed to accommodate all ages and fitness levels. The facility includes dressing rooms with lockers and showers. All areas are handicap accessible.
-
-{{< /columns >}}
+Downtown Health and Fitness aims to provide a clean, safe, and helpful environment. Offering a variety of group fitness classes, including yoga, chair yoga and gentle yoga, these classes are designed to accommodate all ages and fitness levels. The facility includes dressing rooms with lockers and showers. All areas are handicap accessible.{{< /columns >}}
 
 {{< spacer 20 >}}
 
@@ -93,7 +81,7 @@ divider
 
 ![Mossy Lotus Forest Bathing](/img/mossy-lotus-345x220.jpg)
 
-**Mossy Lotus Forest Bathing**<br>Coos Bay, OR 97420<br>(541) 217-0400<br><a href="https://mossylotus.com/" target="_blank" rel="noopener">www.</a><a href="https://mossylotus.com/" target="_blank" rel="noopener">mossylotus.com/</a>
+**Mossy Lotus Forest Bathing**<br>Coos Bay, OR 97420<br>(541) 217-0400<br><a href="https://mossylotus.com/" target="_blank" rel="noopener">www.mossylotus.com/</a><br>
 
 With over 20 years of combined experience as field biologists and 30+ years practicing yoga, Daniel and Sailee have both spent thousands of hours in heartfelt connection with Mother Nature and learning and teaching the full practices of yoga to all levels of students. This land, this rugged, wild earth is their inspiration. It is their passion for living in balance with nature that drives them.{{< /columns >}}
 
