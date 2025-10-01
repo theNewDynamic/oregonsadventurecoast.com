@@ -55,9 +55,9 @@ Bring a picnic lunch or have a healthy dinner at one of our Farm to Table eateri
 
 {{< spacer 20 >}}
 
-{{< columns number="2" >}}<img alt="Woman in yoga pose with harp in background." title="Center of Attention Yoga" height="220" width="345" src="/img/mona2-345x220.jpg" />
+{{< columns number="2" >}}<img alt="Woman in yoga pose with harp in background." height="220" width="345" src="/img/mona2-345x220.jpg" />
 
-**Center of Attention Massage and Yoga**<br>161 Date Avenue Coos Bay, OR 97420 (916) 251-6920 <a href="http://bit.ly/4mKFBMW" target="_blank" rel="noopener">//bit.ly/4mKFBMW</a>
+**Center of Attention Massage and Yoga**<br> 161 Date Avenue <br>Coos Bay, OR 97420<br> (916) 251-6920<br> <a href="http://bit.ly/4mKFBMW" target="_blank" rel="noopener">Visit Our Facebook</a>
 
 The Center of Attention is a wellness-based, small boutique Yoga studio, offering Massage, Traditional Hatha Yoga, Yin Yoga, and Alignment Flow Yoga, Breathwork, Meditation, and Sound Bath events in a peaceful setting.
 
@@ -65,7 +65,7 @@ divider
 
 ![downtown health &amp; fitness in coos bay, oregon](/img/downtown-fitness-center.jpg)
 
-**Downtown Health & Fitness** <br>440 Central Avenue Coos Bay, OR 97420 (541) 267-3948 [www.dhfitness.net](https://www.dhfitness.net/ "https://www.dhfitness.net/")
+**Downtown Health & Fitness** <br>440 Central Avenue<br> Coos Bay, OR 97420<br> (541) 267-3948<br> [www.dhfitness.net](https://www.dhfitness.net/ "https://www.dhfitness.net/")
 
 Downtown Health and Fitness aims to provide a clean, safe, and helpful environment. Offering a variety of group fitness classes, including yoga, chair yoga and gentle yoga, these classes are designed to accommodate all ages and fitness levels. The facility includes dressing rooms with lockers and showers. All areas are handicap accessible.{{< /columns >}}
 
