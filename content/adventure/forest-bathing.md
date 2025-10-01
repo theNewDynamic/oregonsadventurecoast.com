@@ -97,10 +97,10 @@ With over 20 years of combined experience as field biologists and 30+ years prac
 
 ![Beautiful You - Medical Spa](/img/beautiful-you-spa.jpg)
 
-**Beautiful You - Medical Spa**
-1280 N Bayshore Dr. Suite 101
-Coos Bay, OR, 97420
-(541) 297-7546
+**Beautiful You - Medical Spa**<br><br>
+1280 N Bayshore Dr. Suite 101<br>
+Coos Bay, OR, 97420<br>
+(541) 297-7546<br>
 [www.beautifulyou-pnw.com](https://www.beautifulyou-pnw.com/)
 
 Beautiful You is a Medi Spa, which is a combination of an aesthetic medical center and a day spa that provides nonsurgical aesthetic medical services under the supervision of a licensed physician.
@@ -109,10 +109,10 @@ divider
 
 ![Hair Co. Etc. Salon & Day Spa woman getting massage](/img/hair-inc-etc-345x220.jpg)
 
-**Hair Co. Etc. - Salon & Day Spa**
-275 Golden Avenue
-Coos Bay, OR 97420
-(541) 269-5223
+**Hair Co. Etc. - Salon & Day Spa**<br>
+275 Golden Avenue<br>
+Coos Bay, OR 97420<br>
+(541) 269-5223<br>
 [haircoetc.net](https://haircoetc.net/ "https://haircoetc.net/")
 
 Hair Co. Etc Salon & Day Spa offers Hair Treatments, Nail Treatments, Massage and Body Treatments in downtown Coos Bay on the beautiful Southern Oregon Coast.
