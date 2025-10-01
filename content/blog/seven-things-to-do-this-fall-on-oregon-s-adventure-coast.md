@@ -42,6 +42,8 @@ warning: false
 ---
 ### *Unlimited Autumn Adventures + Save 15% on Participating Hotels!*
 
+&nbsp;
+
 **Yes, we all love summer, but autumn is one of the best-kept secrets on Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston -** ask any local! Whether you have a week, a weekend, or just a day to spare, fall is the perfect season to escape the hustle of busy schedules and discover a place where adventure meets one-of-a-kind experiences you can only find on Oregon’s South Coast.
 
 To make your fall getaway even sweeter, several of our hotel properties are offering our visitors 15% off lodging for a limited time! The discount is valid **from October 1, 2025, through November 30, 2025**. Some restrictions apply and are subject to change. [**<u>Click Here</u>**](https://www.oregonsadventurecoast.com/fall15/) **for all the details!**
