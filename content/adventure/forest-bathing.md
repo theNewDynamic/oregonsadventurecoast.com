@@ -97,7 +97,7 @@ With over 20 years of combined experience as field biologists and 30+ years prac
 
 ![Beautiful You - Medical Spa](/img/beautiful-you-spa.jpg)
 
-**Beautiful You - Medical Spa**<br><br>
+**Beautiful You - Medical Spa**<br>
 1280 N Bayshore Dr. Suite 101<br>
 Coos Bay, OR, 97420<br>
 (541) 297-7546<br>
