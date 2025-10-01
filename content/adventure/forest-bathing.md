@@ -57,7 +57,7 @@ Bring a picnic lunch or have a healthy dinner at one of our Farm to Table eateri
 
 {{< columns number="2" >}}
 
-![Woman in yoga pose with harp in background](/img/mona2-345x220.jpg)
+![Woman in yoga pose with harp in background](/img/mona2-344x220-1.jpg)
 
 **Center of Attention Massage and Yoga**<br> 161 Date Avenue <br>Coos Bay, OR 97420<br> (916) 251-6920<br> <a href="http://bit.ly/4mKFBMW" target="_blank" rel="noopener">Visit Our Facebook</a>
 
