@@ -25,7 +25,7 @@ hoverdescription: Don't miss all these fun holiday happenings on Oregon's Advent
 photo: /img/holiday-events-2048x530.jpg
 largeboxphoto: /img/holiday-happenings-event-large.jpg
 mediumboxphoto: /img/holiday-happenings-tree-lighting-medium.jpg
-smallboxphoto: /img/holiday-happenings-iceskating-small.jpg
+smallboxphoto: /img/tree-lighting-340x214.jpg
 aliases:
   - /holiday
 ---
@@ -39,7 +39,7 @@ aliases:
 
 ![](/img/shopping-sub-header-695x200.jpg)
 
-#### November 14-15<br>Downtown Coos Bay Holiday Open House
+#### November 14-15, 2025<br>Downtown Coos Bay Holiday Open House
 
 Get into the holiday spirit and work on your gift-giving lists at the Annual Downtown Coos Bay Holiday Open House. Browse participating shops for gift-giving inspirations and holiday home decor while entering to win door prizes. Keep your receipts for purchase in the downtown area between November 14-29 and redeem them for a holiday mug on Shop Small Saturday, November 29th at Jennie's Shoes!
 
@@ -109,7 +109,7 @@ Find the Mischievous Elf on the Shelf at participating businesses in North Bend!
 
 #### December TBD<br>Festival of Trees Holiday Showcase and Benefit Auction
 
-Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) (formerly The Mill Casino \* Hotel & RV Park) to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp; All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
+Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) (*formerly The Mill Casino \* Hotel & RV Park*) to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp; All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
 
 {{< spacer "50" >}}
 
@@ -119,11 +119,15 @@ Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) 
 
 The North Bend Presbyterian Church, 2238 Pony Creek Road, will be filled with the sounds of winter this year as the Bay Area Concert Band performs two concerts. The 40-plus-year-old concert band will perform various holiday selections. These concerts are Free but Donations are Welcome! More information coming soon.
 
+#### December 8, 2025<br>Coos Singers Community Choir Holiday Concert
+
+Marshfield High's Auditorium will be filled with the sounds of the holidays as the Coos Singers take the stage for their annual Holiday Concert. The concert begins at 7pm and admission is free.
+
 {{< spacer "50" >}}
 
 ![Christmas Opry at Liberty Theatre in North Bend Oregon](/img/holiday-opry-sub-section-hdr.jpg)
 
-#### December TBD<br>Christmas Opry in December!
+#### December 5-7, 2025<br>Christmas Opry in December!
 
 Christmas “Little Ole Opry on the Bay” returns to the Liberty Theatre just in time to celebrate the holiday season. This family-friendly show offers a diverse song list including both traditional and contemporary music, from “Away in a Manger” to “All I Want For Christmas Is You.” &nbsp;More information coming soon.
 
@@ -133,7 +137,7 @@ Christmas “Little Ole Opry on the Bay” returns to the Liberty Theatre just i
 
 ![](/img/empire-treelighting-sub-section-hdr.jpg)
 
-#### December TBD<br>Empire District Tree Lighting and Santa Visit
+#### December 5, 2025<br>Empire District Tree Lighting and Santa Visit
 
 The Empire District of Coos Bay will hold their annual Tree Lighting, Visits with Santa, Star of Hope Holiday Open House from 5pm to 7pm. Take photos with Santa and enjoy cookies, cider, caroling and more!
 
