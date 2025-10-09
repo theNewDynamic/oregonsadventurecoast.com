@@ -71,19 +71,23 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 {{< spacer 50 >}}
 
+![Ceramic bells hanging in a display](/img/ceramic-bells-sub-section-hdr.jpg "Holiday Market at Coos history museum")
+
+#### November 28th & 29th<br>Holiday Market at Coos History Museum
+
+Join local artisans, crafts people,  food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Market is Free!
+
+{{< spacer 50 >}}
+
 ![Coos Bay Tree lighting with Santa dn the movie Elf!](/img/coos-bay-tree-lighting-sub-sect-hdr.jpg)
 
 #### November 29, 2025<br>Santa Visit, Parade & Tree Lighting at the Coos Bay Visitor Center with Santa
 
 ***NOTE: This event is on Saturday this year.*** Join Santa at **Coos Bay Visitor Center** to share your wish list and get your holiday photo from 2:30 to 4:30pm, then meet Santa at 5pm at **Coos Bay City Hall** for  the **Walking Lighted Parade** to the Visitor Center for the **Coos Bay Tree Lighting**! The Tree Lighting event begins with cookies and cider in the Visitor Center at 4:30pm for those who do not wish to be part of the parade. Santa will light the tree at 5:30pm in the Visitor Center parking lot located at 50 Central Ave at Highway 101.
 
-{{< spacer 50 >}}
+&nbsp;
 
-![winter faire at Coos history museum](/img/ceramic-bells-sub-section-hdr.jpg)
-
-#### November 28th & 29th<br>Winter Faire at Coos History Museum
-
-Join local artisans, food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Faire is Free!
+&nbsp;
 
 {{< spacer "50" >}}
 
@@ -107,7 +111,7 @@ Find the Mischievous Elf on the Shelf at participating businesses in North Bend!
 
 ![](/img/fest-of-trees.jpeg)
 
-#### December TBD<br>Festival of Trees Holiday Showcase and Benefit Auction
+#### December 4, 2024<br>Festival of Trees Holiday Showcase and Benefit Auction
 
 Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) (*formerly The Mill Casino \* Hotel & RV Park*) to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp; All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
 
@@ -115,7 +119,7 @@ Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) 
 
 ![](/img/concertband.jpg)
 
-#### Dates TBD<br>Bay Area Concert Band Fall into Winter Concert Series
+#### December 4 & 7, 2025<br>Bay Area Concert Band Fall into Winter Concert Series
 
 The North Bend Presbyterian Church, 2238 Pony Creek Road, will be filled with the sounds of winter this year as the Bay Area Concert Band performs two concerts. The 40-plus-year-old concert band will perform various holiday selections. These concerts are Free but Donations are Welcome! More information coming soon.
 
