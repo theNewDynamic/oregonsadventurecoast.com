@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Summer. Vacation Here.
+title: Vacation Here.
 draft: false
 url: /vacation
 layout: adventure-sidebar
