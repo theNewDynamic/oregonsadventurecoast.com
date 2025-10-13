@@ -88,13 +88,13 @@ If you’re looking for unique and fun accommodations in town, [The Itty Bitty I
 
 ### Try sandboarding at Oregon Dunes National Recreation Area
 
-![](/img/10-can-t-miss-things-to-do-on-oregons-adventure-coast-gwyn-and-ami-blog-45-2.jpg)
+&nbsp;
 
 One of the most unique and fun activities to do around Coos Bay is sandboarding and sand sledding! Sandboarding is a lot like *snow*boarding, but you ride down sand instead of snow! This takes some practice, and good balance. If you want something a little more ‘tame’ I recommend a sand sled, which can be ridden while seated.
 
 I recommend [renting sandboards from Bahama Boards](https://bahamaboardz.com/). As of summer 2025 their sandboards and sand sleds rented for $20 for the full day (10 am - 5 pm), or $25 for 24 hours. We used our sandboards at Hall Lake, which is located in the Oregon Dunes National Recreation Site. This area does not allow ATVs or dune buggies, making it ideal for safe sandboarding. Park [here](https://maps.app.goo.gl/gURjHoDLJJjdtrYe9) and walk up the dunes behind the lake to get to the best sandboarding spots.
 
-![](/img/10-can-t-miss-things-to-do-on-oregons-adventure-coast-gwyn-and-ami-blog-45-8.jpg)
+![Two female sand boarders holding sand boards while standing on the Oregon Dunes.](/img/10-can-t-miss-things-to-do-on-oregons-adventure-coast-gwyn-and-ami-blog-45-8.jpg)
 
 ### Enjoy fresh fish and chips at Fishermen’s Seafood Market
 
