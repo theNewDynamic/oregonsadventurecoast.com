@@ -53,6 +53,9 @@ tags:
   - 7 Devils Brewery & Tap Room
   - Golden and Silver Falls
   - waterfalls
+categories:
+  - State Parks & National Lands
+  - Local Spotlight
 warning: false
 ---
 Oregon's Adventure Coast (Coos Bay, North Bend, Charleston) is the ultimate adventure and relaxation destination in Oregon! Whether you’re looking to relax on the beach, fly a stunt kite, take a hike along the coast, or indulge in local treats and food, Coos Bay has something for everyone. **See below for 10 can’t-miss things to do in Coos Bay, North Bend & Charleston on the Southern Oregon Coast.. These unique activities are perfect for a family-friendly weekend on the southern Oregon coast.**
