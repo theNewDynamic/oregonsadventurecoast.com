@@ -93,7 +93,6 @@ To date, including both this program and previous assessments, more than 750 hot
 * [Oregon's Adventure Coast Boosts Accessibility for Outdoor Recreation](https://www.oregonsadventurecoast.com/blog/oregon-s-adventure-coast-boosts-accessibility-for-outdoor-recreation/)
 * [Proud Sponsors of Progress: Accessible Oregon Coast Film Tour](https://www.oregonsadventurecoast.com/blog/proud-sponsors-of-progress-accessible-oregon-coast-film-tour/)
 * [Wheel the World Blog: Coos Bay Accessibility Insights: Where to Stay and What to Do](https://blog.wheeltheworld.com/where-to-stay-and-what-to-do-in-coos-bay-and-their-accessibility/)
-
 * [Travel Oregon: Wheel the World Program](https://industry.traveloregon.com/programs/accessible-travel/wheel-the-world-program/)
 * [Oregon Coast: Wheel the World page](https://wheeltheworld.com/accessible-travel/usa/oregon/oregon-coast)
 * [Oregon Coast Visitors Association (OCVA) News: Oregon Coast Destinations Contribute to Landmark Accessibility Verified Designation](https://industry.visittheoregoncoast.com/industry-news/oregon-coast-destinations-contribute-to-landmark-accessibility-verified-designation/)
