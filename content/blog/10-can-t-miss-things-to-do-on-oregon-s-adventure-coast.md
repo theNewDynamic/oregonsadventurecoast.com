@@ -3,8 +3,56 @@ _schema: default
 title: 10 Can’t-Miss Things to Do on Oregon’s Adventure Coast
 draft: false
 date: 2025-10-10T12:00:00-07:00
+description: >-
+  From majestic dunes to exceptional seafood, Oregon's Adventure Coast: Coos
+  Bay, North Bend, Charleston offers something for everyone, whether you’re
+  planning a weekend escape or a family vacation. In this guest post, adventure
+  travel experts Gwyn and Ami Manser share their top recommendations for 10
+  can’t-miss experiences in Coos Bay, North Bend, and Charleston.
 image: >-
   /img/10-can-t-miss-things-to-do-on-oregons-adventure-coast-gwyn-and-ami-blog-695x322.jpg
+tags:
+  - Oregon’s Adventure Coast
+  - Coos Bay
+  - North Bend
+  - Charleston
+  - Oregon
+  - beach
+  - stunt kite
+  - hiking
+  - family-friendly
+  - Oregon coast
+  - Gwyn and Ami Manser
+  - Gwyn and Ami
+  - Guest Blogger
+  - Southern Oregon Coast
+  - Pacif­ic North­west
+  - adven­ture trav­el
+  - travel itineraries
+  - camping
+  - Sunset Bay State Park Campground
+  - Bastendorff Beach Park
+  - Bay Point Landing
+  - Itty Bitty Inn
+  - sandboarding
+  - Oregon Dunes National Recreation Area
+  - Bahama Boards
+  - Fishermen’s Seafood Market
+  - Cape Arago State Park
+  - whale watching
+  - beachcombing
+  - and tide pooling
+  - South Cove Beach
+  - Hall Lake
+  - Cranberry Sweets Candy Factory
+  - kayak
+  - kayak rental
+  - John Topits Park
+  - SUP Rentals
+  - forest bathing
+  - 7 Devils Brewery & Tap Room
+  - Golden and Silver Falls
+  - waterfalls
 warning: false
 ---
 Oregon's Adventure Coast (Coos Bay, North Bend, Charleston) is the ultimate adventure and relaxation destination in Oregon! Whether you’re looking to relax on the beach, fly a stunt kite, take a hike along the coast, or indulge in local treats and food, Coos Bay has something for everyone. **See below for 10 can’t-miss things to do in Coos Bay, North Bend & Charleston on the Southern Oregon Coast.. These unique activities are perfect for a family-friendly weekend on the southern Oregon coast.**
