@@ -9,12 +9,6 @@ slideshow:
     url: /fall15
     video:
   - title:
-    photo: /img/run-whiskey-run-hm-slider-2048x850.jpg
-    title_mobile:
-    photo_mobile: /img/run-whiskey-run-mobile-slider-09-25.jpg
-    url: /event/run-whiskey-run-and-clean-up-fun-run
-    video:
-  - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
     title_mobile:
     photo_mobile:
