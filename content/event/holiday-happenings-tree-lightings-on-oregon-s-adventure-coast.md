@@ -133,9 +133,9 @@ Marshfield High's Auditorium will be filled with the sounds of the holidays as t
 
 #### December 5-7, 2025<br>Christmas Opry in December!
 
-Christmas “Little Ole Opry on the Bay” returns to the Liberty Theatre just in time to celebrate the holiday season. This family-friendly show offers a diverse song list including both traditional and contemporary music, from “Away in a Manger” to “All I Want For Christmas Is You.” &nbsp;More information coming soon.
+Christmas “Little Ole Opry on the Bay” returns to the Liberty Theatre just in time to celebrate the holiday season. This family-friendly show offers a diverse song list including both traditional and contemporary music, from “Away in a Manger” to “All I Want For Christmas Is You.” &nbsp;Shows run 7-9 pm Friday & Saturday, with matinees at 2pm on Saturday & Sunday.
 
-**Liberty Theatre, Home of Little Theatre on the Bay**<br>2100 Sherman Ave, North Bend, OR 97420
+<a href="https://thelibertytheatre.org/" target="_blank" rel="noopener"><strong>Liberty Theatre, Home of Little Theatre on the Bay</strong></a><br>2100 Sherman Ave, North Bend, OR 97420
 
 {{< spacer 50 >}}
 
