@@ -54,7 +54,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### Hot Cocoa Crawl
 
-**11:00-3:00pm @ Downtown North Bend Businesses** <br>Stroll Downtown North Bend for a festive Hot Cocoa Crawl! Enjoy complimentary cocoa & fun toppings at various locations. Suggested $5.00 donation for a glass mug or we have complimentary paper cups as well. The Hot Cocoa Crawl starts at the North Bend Visitor Information Center. Event is sponsored by NW Natural.
+**11:00-2:00pm @ Downtown North Bend Businesses** <br>Stroll Downtown North Bend for a festive Hot Cocoa Crawl! Enjoy complimentary cocoa & fun toppings at various locations. Suggested $5.00 donation for a glass mug or we have complimentary paper cups as well. The Hot Cocoa Crawl starts at the North Bend Visitor Information Center. Event is sponsored by NW Natural.
 
 {{< spacer "25" >}}
 
@@ -62,7 +62,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### **Elf of the Shelf**
 
-**11:00am-5:00pm @ North Bend Main Street** <br>Head downtown and be on the lookout for mischievous Elves taking over Main Street! Spot one, and you could win some fantastic prizes just in time for the Christmas season. With over 20 winners, the more places you visit, the better your chances of scoring a win! While you're there, be sure to do some Christmas shopping and enjoy the local eateries and pubs. Elf on the Shelf runs from December 1-12, 2024.
+**11:00am-2:00pm @ North Bend Main Street** <br>Head downtown and be on the lookout for mischievous Elves taking over Main Street! Spot one, and you could win some fantastic prizes just in time for the Christmas season. With over 20 winners, the more places you visit, the better your chances of scoring a win! While you're there, be sure to do some Christmas shopping and enjoy the local eateries and pubs. Elf on the Shelf runs from December 1-12, 2024.
 
 {{< spacer "25" >}}
 
@@ -70,15 +70,19 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### Holiday Block Party
 
-**3:00pm-5:00pm @ Visitor Information Center Parking Lot** <br>Celebrate the season with live music, local non-profits, festive treats, petting zoo, face painting, and more.&nbsp;&nbsp;
+**2:00pm-5:00pm @ Visitor Information Center Parking Lot** <br>Celebrate the season with holiday crafting, face painting, and more. Food trucks will be on site and tables provided inside the festival tent. Santa arrives at 3:00pm.
 
 #### Annual Tree Lighting
 
-**5:00pm - 6:30 @ Grant Circle / City Hall** <br>Watch the magical moment as the North Bend Mayor and Santa light the tree and illuminate the night.&nbsp;&nbsp;Christmas caroling and dance performances will add to the festivities around the Christmas Tree!&nbsp;&nbsp;After the tree lighting enjoy fire truck rides and visit with Santa.
+**5:00pm - 6:30 @ Grant Circle / City Hall** <br>Watch the magical moment as the Mayor Engelke and Santa light the tree illuminating the night. Tree lighting will be around 5:10, immediately following everyone is welcomed to gather in the festival tent for holiday fun. Complementary Cider will be offered in the Visitor Information Center next to the festival tent. Food trucks will be on site nearby.
 
 #### Lighted Christmas Parade
 
-**6:30pm-7:00pm** <br>The parade passes through the nearby neighborhood passing by the Fire Station, Library, and City Hall.&nbsp; Marvel at the twinkling lights and festive vehicles as they parade through the streets in a dazzling display of holiday cheer.
+**7:00pm-6:30pm** <br>The parade passes through the nearby neighborhood passing by the Fire Station, Library, and City Hall.&nbsp; Marvel at the twinkling lights and festive vehicles as they parade through the streets in a dazzling display of holiday cheer.
+
+#### Christmas OPRY
+
+**7:00pm-9:00pm<br>**Celebrate the season with a spectacular mix of traditional carols and contemporary holiday hits! This family favorite features an incredible band, singers, and dancers that will bring the holiday spirit to life. This is a wonderful way to end out a day long Christmas celebration and is a perfect way to support arts and culture in our community. At the Liberty Theatre,  2100 Sherman Ave. Tickets available soon.
 
 **Don't miss out on this unforgettable holiday experience!**&nbsp;&nbsp;
 
