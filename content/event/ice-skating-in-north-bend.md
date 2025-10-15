@@ -40,7 +40,7 @@ aliases:
 
 {{< spacer 25 >}}
 
-![family ice skating together in north bend, oregon](/img/family-skating.jpg)
+&nbsp;
 
 ![Family ice skating together and close up of blue ice skates in North Bend, Oregon](/img/girls-skating-close-up-skates.jpg)
 
