@@ -111,9 +111,9 @@ Find the Mischievous Elf on the Shelf at participating businesses in North Bend!
 
 ![](/img/fest-of-trees.jpeg)
 
-#### December 4, 2024<br>Festival of Trees Holiday Showcase and Benefit Auction
+#### December 2, 3 & 4, 2024<br>Festival of Trees Holiday Showcase and Benefit Auction
 
-Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) (*formerly The Mill Casino \* Hotel & RV Park*) to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp; All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
+Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) (*formerly The Mill Casino \* Hotel & RV Park*) to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp;Trees and wreathes on display December 2nd & 3rd. Auction and dinner on December 4th. All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
 
 {{< spacer "50" >}}
 
