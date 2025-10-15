@@ -82,7 +82,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### Christmas OPRY
 
-**7:00pm-9:00pm<br>**Celebrate the season with a spectacular mix of traditional carols and contemporary holiday hits! This family favorite features an incredible band, singers, and dancers that will bring the holiday spirit to life. This is a wonderful way to end out a day long Christmas celebration and is a perfect way to support arts and culture in our community. At the Liberty Theatre,  2100 Sherman Ave. Tickets available soon.
+\*\*7:00pm-9:00pm<br>\*\*Celebrate the season with a spectacular mix of traditional carols and contemporary holiday hits! This family favorite features an incredible band, singers, and dancers that will bring the holiday spirit to life. This is a wonderful way to end out a day long Christmas celebration and is a perfect way to support arts and culture in our community. At the Liberty Theatre,  2100 Sherman Ave. Tickets available soon.
 
 **Don't miss out on this unforgettable holiday experience!**&nbsp;&nbsp;
 
