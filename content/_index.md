@@ -9,12 +9,6 @@ slideshow:
     url: /fall15
     video:
   - title:
-    photo: /img/cultural-experience-hm-slider-2048-850.jpg
-    title_mobile:
-    photo_mobile:
-    url:
-    video:
-  - title:
     photo: /img/fall-fishing-hm-slider-desktop.jpg
     title_mobile:
     photo_mobile:
@@ -25,6 +19,12 @@ slideshow:
     title_mobile:
     photo_mobile: /img/holiday-lights-mobile-slider-2022.jpg
     url: /event/annual-holiday-lights-at-shore-acres
+    video:
+  - title:
+    photo: /img/cultural-experience-hm-slider-2048-850.jpg
+    title_mobile:
+    photo_mobile:
+    url:
     video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
