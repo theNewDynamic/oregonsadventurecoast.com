@@ -121,7 +121,7 @@ Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) 
 
 #### December 4 & 7, 2025<br>Bay Area Concert Band Fall into Winter Concert Series
 
-The North Bend Presbyterian Church, 2238 Pony Creek Road, will be filled with the sounds of winter this year as the Bay Area Concert Band performs two concerts. The 40-plus-year-old concert band will perform various holiday selections. These concerts are Free but Donations are Welcome! More information coming soon.
+The North Bend Presbyterian Church, 2238 Pony Creek Road, will be filled with the sounds of winter this year as the Bay Area Concert Band performs two concerts. The 40-plus-year-old concert band will perform various holiday selections. These concerts are Free but Donations are Welcome! Concerts are Thursday, Dec 4th at 7:30pm and Sunday, December 7th at 2:00pm.
 
 #### December 8, 2025<br>Coos Singers Community Choir Holiday Concert
 
