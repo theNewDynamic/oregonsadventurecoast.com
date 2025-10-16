@@ -54,7 +54,7 @@ Since its inception in 1987, the annual Holiday Lights celebration has seen a re
 
 {{< spacer 50 >}}
 
-#### [![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle-1.png)](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381)
+#### [![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle-1.png)](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381)
 
 #### {{< spacer "50" >}}
 
