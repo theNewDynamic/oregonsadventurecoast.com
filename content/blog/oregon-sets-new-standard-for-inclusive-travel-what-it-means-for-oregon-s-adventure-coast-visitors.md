@@ -60,7 +60,7 @@ This milestone aligns with our vision that everyone who visits **Oregon's Advent
 
 In this video (below), you can watch parts of Shane's and Hannah's experiences on the Oregon Coast, including their experiences on the [<u>Coos Bay Boardwalk</u>](https://visittheoregoncoast.com/cities/coos-bay/activities/coos-bay-boardwalk/) and at [7 Devils Waterfront Alehouse](https://7devilsbrewery.com/waterfront-ale-house/)!
 
-{{< youtube id="si=OJ7zpgn8nQEsS_it" >}}
+{{< youtube id="OJ7zpgn8nQEsS_it" >}}
 
 <br>&nbsp;<br>
 
