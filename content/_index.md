@@ -14,6 +14,18 @@ slideshow:
     photo_mobile:
     url:
     video:
+  - title:
+    photo: /img/fall-fishing-hm-slider-desktop.jpg
+    title_mobile:
+    photo_mobile:
+    url: /fishing
+    video:
+  - title:
+    photo: /img/holiday-lights-hm-slide-cover-2022.jpg
+    title_mobile:
+    photo_mobile: /img/holiday-lights-mobile-slider-2022.jpg
+    url: /event/annual-holiday-lights-at-shore-acres
+    video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /live-cam
