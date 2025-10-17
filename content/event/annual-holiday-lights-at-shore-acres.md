@@ -54,7 +54,7 @@ Since its inception in 1987, the annual Holiday Lights celebration has seen a re
 
 {{< spacer 50 >}}
 
-#### [![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle-1.png)](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&parkId=402381)
+#### [![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle-1.png)](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381)
 
 #### {{< spacer "50" >}}
 
@@ -96,7 +96,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 {{< spacer "25" >}}
 
-<a href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html" target="_blank" rel="noopener"><strong>Best Western Coos Bay</strong></a>**,** <a href="https://harmonyhomecareonline.com/" target="_blank" rel="noopener"><strong>Harmony Homecare</strong></a>**,** <a href="https://www.threeriverscasino.com/coos-bay-casino" target="_blank" rel="noopener"><strong>Three Rivers Casino Coos Bay</strong></a>**,** <a href="https://www.pacificpower.net/" target="_blank" rel="noopener"><strong>Pacific Power</strong></a>**,** <a href="https://sause.com/locations/coos-bay/" target="_blank" rel="noopener"><strong>Sause Bros</strong></a>**,** <a href="https://www.oregonpacificbank.com/" target="_blank" rel="noopener"><strong>Oregon Pacific Bank</strong></a>**,** <a href="https://www.nwnatural.com/" target="_blank" rel="noopener"><strong>NW Natural</strong></a>**,** **and** <a href="https://www.englundmarine.com/" target="_blank" rel="noopener"><strong>Englund Marine</strong></a>**.**
+<a href="https://www.gibsrvsuperstore.com/" target="_blank" rel="noopener"><strong>Gib's RV Superstore</strong></a>**,** <a href="https://www.peakcu.org/" target="_blank" rel="noopener"><strong>PEAK Credit Union</strong></a>**,** <a href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html" target="_blank" rel="noopener"><strong>Best Western Coos Bay</strong></a>**,** <a href="https://harmonyhomecareonline.com/" target="_blank" rel="noopener"><strong>Harmony Homecare</strong></a>**,** <a href="https://www.threeriverscasino.com/coos-bay-casino" target="_blank" rel="noopener"><strong>Three Rivers Casino Coos Bay</strong></a>**,** <a href="https://www.pacificpower.net/" target="_blank" rel="noopener"><strong>Pacific Power</strong></a>**,** <a href="https://sause.com/locations/coos-bay/" target="_blank" rel="noopener"><strong>Sause Bros</strong></a>**,** <a href="https://www.oregonpacificbank.com/" target="_blank" rel="noopener"><strong>Oregon Pacific Bank</strong></a>**,** <a href="https://coosbaynorthbendrotary.org/rotary-coos-foundation/" target="_blank" rel="noopener"><strong>Coos Bay-North Bend Rotary Foundation</strong></a>**,** <a href="https://www.nwnatural.com/" target="_blank" rel="noopener"><strong>NW Natural</strong></a>**,** **and** <a href="https://www.englundmarine.com/" target="_blank" rel="noopener"><strong>Englund Marine</strong></a>**.**
 
 **And Special Thanks to the Bus Drivers of**
 
