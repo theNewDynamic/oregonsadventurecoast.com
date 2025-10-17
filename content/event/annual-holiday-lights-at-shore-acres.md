@@ -90,7 +90,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 **The Shuttle will run from approximately 4:15pm to 8:00pm FROM the Marina TO the Park and will return patrons to the Marina between 5:00pm and 9:00pm.** *NOTE: the last shuttle TO the park will depart at 8:10pm from the Marina. This is to give everyone a chance to see the lights before Shore Acres State Park closes at 9:00pm.*
 
-**SPECIAL HOT COCOA, COFFEE, CIDER AND COOKIES WHILE YOU WAIT FOR THE SHUTTLE AT THE MARINA!** Each night of the run of the Shuttle, the <a href="https://www.facebook.com/profile.php?id=61565684226356" target="_blank" rel="noopener">Charleston Fishing Families</a> organization will open their doors to provide a warm place to wait for the bus at the marina and have a FREE hot drink. Kiddos can do a quick craft while they wait too! Their facility is adjacent to the parking lot at Guano Rock Lane and Crossline Road.
+**SPECIAL HOT COCOA, COFFEE, CIDER AND COOKIES WHILE YOU WAIT FOR THE SHUTTLE AT THE MARINA!** Each night of the run of the Shuttle, the <a href="https://www.facebook.com/profile.php?id=61565684226356" target="_blank" rel="noopener">Charleston Fishing Families</a> organization will open their doors to provide a warm place to wait for the bus at the marina and have a FREE hot drink. Kiddos can do a quick craft while they wait too! Their facility is adjacent to the parking lot at Guano Rock Lane and Crossline Road. Donations gratefully accepted.
 
 ### **A Special Thanks to Santa's Shuttle Sponsors:**
 
