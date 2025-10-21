@@ -50,7 +50,7 @@ This milestone aligns with our vision that everyone who visits **Oregon's Advent
 
 <br>Shane Burcaw is well aware of the challenges disabled travelers face. There's uncertainty in any new location when it comes to transportation, restrooms, hotel rooms, dining spaces, and more, not to mention navigating through busy airports and pathways. So when he and his wife, [<u>Hannah Burcaw</u>](https://www.instagram.com/hannahayl/?hl=en), took a trip to Oregon in spring 2025, they were delighted to have what he calls a "stress-free experience" thanks to the state's newest efforts to welcome travelers of all mobilities.
 
-![](/img/wtw-coast-coos-bay-tai10133.jpg)
+![A man in a wheel chair and a woman explore the Coos Bay boardwalk on a sunny day.](/img/wtw-coast-coos-bay-tai10133.jpg)
 
 *Image courtesy of Travel Oregon*
 
