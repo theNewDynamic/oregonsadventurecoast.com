@@ -62,7 +62,7 @@ Oregon's Adventure Coast (Coos Bay, North Bend, Charleston) is the ultimate adve
 
 ### About the authors, [Gwyn and Ami Manser](https://gwynandami.com/)
 
-![Gwyn and Ami taking a selfie at Shore Acres State Park](/img/10-can-t-miss-things-to-do-on-oregons-adventure-coast-gwyn-and-ami-blog-45-13.jpg)
+![Two woman taking a selfie in front of the roses at Shore Acres State Park](/img/10-can-t-miss-things-to-do-on-oregons-adventure-coast-gwyn-and-ami-blog-45-13.jpg)
 
 *We’re Gwyn and Ami! Based in Wash­ing­ton, we’re your guides to the Pacif­ic North­west and beyond! We’re adven­ture trav­el experts, and our goal is to help you find the best hikes, week­end getaways, and unique expe­ri­ences in the Unit­ed States and abroad. You can find more travel itineraries and hik­ing inspiration* [on our blog](https://gwynandami.com/)*,* [Insta­gram](https://www.instagram.com/gwynandami/)*, and* [TikTok](https://www.tiktok.com/@gwynandami)*.*
 
