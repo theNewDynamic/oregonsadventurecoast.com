@@ -7,6 +7,9 @@ property_description: >-
   features wood slabs, unique gifts, and rotating works from local and regional
   artists.
 photo_name: /img/the-wood-anvil-630x366.jpg
+photo_alt: >-
+  A collection of assorted wooden planks, blocks, and carved pieces, including a
+  small wooden stool or table.
 property_category:
   - Arts & Crafts
   - Home Goods
