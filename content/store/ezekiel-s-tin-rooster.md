@@ -14,7 +14,7 @@ property_category:
   - Specialty Foods
 address:
   city: North Bend
-  state: OR
+  state:
   street: 2082 Sherman Avenue
   street2:
   zip: '97459'
