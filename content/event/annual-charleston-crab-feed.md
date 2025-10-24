@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual Charleston Crab Feed
-startdate: '2025-02-08'
-enddate: '2025-02-08'
+startdate: '2026-02-14'
+enddate: '2026-02-14'
 address:
   city: Charleston
   state: OR
@@ -22,7 +22,7 @@ smallboxphoto: /img/crab-feed-charleston-small.jpg
 ---
 ![Annual Charleston Crab Feed Logo](/img/crab-feed-logo-2025.jpg)
 
-Join your friends from **Oregon's Adventure Coast: Coos Bay, North Bend & Charleston** for a feast of delicious Dungeness Crab at the **40th Annual Charleston Crab Feed**!
+Join your friends from **the Charleston Merchants Association and the Charleston Visitor Center** for a feast of delicious Dungeness Crab at the **41st Annual Charleston Crab Feed**!
 
 **At the Oregon Institute of Marine Biology (OIMB) on Boat Basin Road from 11am to 3pm,** 63466 Boat Basin Road, Charleston, OR 97420 - across from the Charleston Marine Life Center in the Marina Complex.
 
@@ -38,9 +38,9 @@ More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or 
 
 Fresh Crab Meals, Whole or Half Crab; or choose the Hot Dog option for those who don't like crab!!!&nbsp;
 
-**Prices are based on Market Value**
+**Prices are based on Market Value - TBD**
 
-Whole Crab Meal - $35<br>Half Crab Meal - $22<br>Gourmet Hot Dog Meal - $14
+Whole Crab Meal - tbd<br>Half Crab Meal - tbd<br>Gourmet Hot Dog Meal - tbd
 
 {{< spacer "15" >}}
 
