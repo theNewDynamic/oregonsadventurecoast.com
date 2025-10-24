@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: 'South Coast Clambake Music Festival '
-startdate: '2025-03-13'
-enddate: '2025-03-16'
+startdate: '2026-03-12'
+enddate: '2026-03-15'
 address:
   city: North Bend
   state: Oregon
@@ -30,7 +30,7 @@ largeboxphoto: /img/clambake-music-fest-large.jpg
 mediumboxphoto: /img/clambake-music-fest-medium-03.jpg
 smallboxphoto: /img/clambake-music-fest-small-02.jpg
 ---
-{{< floatimage src="/img/southcoast-clambake-music-fest-logo.jpg" float="right" alt="Annual South Coast Clambake Music Festival" size="100" >}}
+![Artists drawing of three seals &amp; sea lions on a soft sandy beach.](/img/sc-clambake-sealions.jpg "Even the Seals &amp; Sea Lions like to jump, jive &amp; boogy!")
 
 Polish up those dancin’ shoes and get ready for the exciting musical extravaganza known as the **South Coast Clambake Music Festival**! The Clambake Music Festival features incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, and big band! Dancers and music enthusiasts from up and down the West Coast, visit each year, as the Clambake Music Festival has developed a reputation as a favorite.
 
@@ -48,9 +48,9 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 
 {{< spacer "50" >}}
 
-The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hotel in North Bend on Oregon's Adventure Coast! The Mill hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar.
+The **South Coast Clambake Music Festival** is held at the luxurious Ko-Kwel Casino Resort \| Coos Bay (formerly The Mill Casino Hotel) on the beautiful Coos Bay in North Bend on Oregon's Adventure Coast! Ko-Kwel Casino hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar.
 
-#### <a href="https://clambakemusic.com/wp-content/uploads/2025-clambake-band-schedule.pdf" target="_blank" rel="noopener">Click here for the full schedule!</a>
+#### Full Schedule Coming Soon!
 
 {{< spacer 50 >}}
 
@@ -58,48 +58,36 @@ The South Coast Clambake Music Festival is held at the luxurious Mill Casino Hot
 
 ![South Coast Clambake Music Festvial - Band Playing Music and couple Dancing](/img/clambake-collage-2024.jpg)
 
-### Featuring the music of bands all across these United States! 2025 Bands Include:
+### Featuring the music of bands all across these United States! Invited Bands for 2026 Include:
 
 ####
 
-{{< columns number="2" >}}
-
-[Alpha Rhythm Kings](https://clambakemusic.com/?page_id=3782)
+{{< columns number="2" >}}[Alpha Rhythm Kings](https://clambakemusic.com/?page_id=3782)
 
 [Ben Rice & The PDX Hustle](https://benricehustle.com/home)
 
-[Danielle Kelly Soul Project](https://clambakemusic.com/?page_id=4362)
+<a href="https://www.stuckeyville.net/" target="_blank" rel="noopener">Dave Stuckey &amp; The Hot House Gang</a>
 
-[Dave Bennett Quartet](https://clambakemusic.com/?page_id=2250)
+<a href="https://clambakemusic.com/fenix-rising/" target="_blank" rel="noopener">Fenix Rising</a>
 
 [Gino & The Lone Gunmen](https://clambakemusic.com/?page_id=3449)
 
-[Lisa Mann Power Trio](https://www.lisamannmusic.com)
-
 divider
 
-[Ocean Blvd](https://clambakemusic.com/?page_id=4367)
+<a href="https://jaysiproof.com/" target="_blank" rel="noopener">Jay Si Proof</a>
+
+<a href="https://clambakemusic.com/lisa-mann/" target="_blank" rel="noopener">Lisa Mann Power Trio</a>
 
 [Rae Gordon Band](https://www.facebook.com/raegordonband)
 
-[Shaymus Hanlin Quartet](https://clambakemusic.com/?page_id=4055)
-
-[Swinging in the Rain](https://clambakemusic.com/swingin-in-the-rain)
+[Shaymus Hanlin](https://clambakemusic.com/?page_id=4055)
 
 [The Throttles](https://clambakemusic.com/?page_id=4091)
 
-[Tom Rigney](https://tomrigney.com/home){{< /columns >}}
+[Tom Rigney](https://tomrigney.com/home) & Flambeau{{< /columns >}}
 
 **For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks**! Visit the [website](https://clambakemusic.com/) for details.
 
-{{< spacer "30" >}}
-
-![Elvis classic 1967 movie Clambake showing at the Egyptian Theatre](/img/elvis-clambake-movie.jpg)
-
-### Catch Elvis in the 1967 classic movie Clambake
-
-**Historic Egyptian Theatre \| Coos Bay \| Friday, March 14th @ 7pm**<br>The classic 1967 Elvis Presley film ***CLAMBAKE*** hits the [**Historic Egyptian Theatre**](https://www.egyptiantheatre.events/) in Coos Bay just in time for the South Coast Clambake Music Festival! Take a break from dancing and enjoy this beach party romantic musical romp.<br><br>**Egyptian Theatre** \| 229 South Broadway \| Coos Bay \| [www.egyptiantheatre.events](https://www.egyptiantheatre.events/)
-
-&nbsp;
+![Artist rendering of an octopus lounging on a seaside rocky outcropping.](/img/sc-clambake-octopus.jpg)
 
 &nbsp;
