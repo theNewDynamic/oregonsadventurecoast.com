@@ -30,7 +30,7 @@ More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or 
 
 {{< spacer 25 >}}
 
-### <a class="learn-more-anywhere-btn" target="_blank" href="https://www.eventbrite.com/e/40th-annual-crab-feed-fundraiser-tickets-1129860686729?aff=oddtdtcreator">TICKETS ON SALE NOW!</a>
+### Tickets on sale Soon!
 
 ***Tickets will also be available at the door as well!***
 
