@@ -36,7 +36,7 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 
 *Interesting fact! A Clambake is an old musical term for a Jam Session!*
 
-### <a class="learn-more-anywhere-btn" target="_blank" href="https://www.eventbrite.com/e/south-coast-clambake-music-festival-tickets-1235018075309">TICKETS ON SALE NOW!</a>
+### Tickets on sale Soon!
 
 ### {{< spacer "30" >}}
 
