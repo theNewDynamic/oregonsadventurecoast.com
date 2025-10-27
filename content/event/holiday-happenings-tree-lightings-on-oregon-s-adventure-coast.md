@@ -53,7 +53,7 @@ Bring your friends, bring your family and enjoy the ONLY <a href="https://www.or
 
 ![Holiday Lights at Shore Acres State Park in Charleston Oregon](/img/holiday-lights-sub-section-hdr.jpg)
 
-#### November 27-December 31, 2024<br>Holiday Lights at Shore Acres State Park
+#### November 27-December 31, 2025<br>Holiday Lights at Shore Acres State Park
 
 More info on this very special holiday event, brought to us by the [**Friends of Shore Acres**](https://shoreacres.net/about-us/about-friends-of-shore-acres-inc/) since 1986, and the Timed Parking System, [**click here**](/event/annual-holiday-lights-at-shore-acres/)!
 
@@ -73,7 +73,7 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 ![Ceramic bells hanging in a display](/img/ceramic-bells-sub-section-hdr.jpg "Holiday Market at Coos history museum")
 
-#### November 28th & 29th<br>Holiday Market at Coos History Museum
+#### November 28-29, 2025<br>Holiday Market at Coos History Museum
 
 Join local artisans, crafts people,  food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Market is Free!
 
@@ -111,7 +111,7 @@ Find the Mischievous Elf on the Shelf at participating businesses in North Bend!
 
 ![](/img/fest-of-trees.jpeg)
 
-#### December 2, 3 & 4, 2024<br>Festival of Trees Holiday Showcase and Benefit Auction
+#### December 2, 3 & 4, 2025<br>Festival of Trees Holiday Showcase and Benefit Auction
 
 Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) (*formerly The Mill Casino \* Hotel & RV Park*) to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp;Trees and wreathes on display December 2nd & 3rd. Auction and dinner on December 4th. All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
 
