@@ -41,7 +41,9 @@ aliases:
 
 #### November 14-15, 2025<br>Downtown Coos Bay Holiday Open House
 
-Get into the holiday spirit and work on your gift-giving lists at the <a href="https://coosbaydowntown.com/2025/10/annual-downtown-holiday-open-house/" target="_blank" rel="noopener">Annual Downtown Coos Bay Holiday Open House</a>. Browse participating shops for gift-giving inspirations and holiday home decor while entering to win door prizes. Keep your receipts for purchase in the downtown area between November 14-29 and redeem them for a holiday mug on Shop Small Saturday, November 29th at Jennie's Shoes!
+Get into the holiday spirit and work on your gift-giving lists at the <a href="https://coosbaydowntown.com/2025/10/annual-downtown-holiday-open-house/" target="_blank" rel="noopener">Annual Downtown Coos Bay Holiday Open House</a>. Browse participating shops for gift-giving inspirations and holiday home decor while entering to win door prizes. Enjoy refreshments and enter to win door prizes. You just might be able to finish that gift giving list early! Start your shopping journey either downtown at Leaf’s Treehouse Mini Mall – 311 S Broadway or at the Coos Bay Village at Checkerberry’s Flowers &amp; Gifts – 1290 N. Bayshore Drive where you can pick up the Downtown Open House list of participating businesses.
+
+Keep your receipts for purchase in the downtown area between November 14-29 and redeem them for a holiday mug on Shop Small Saturday, November 29th at Jennie's Shoes!
 
 {{< spacer 50 >}}
 
