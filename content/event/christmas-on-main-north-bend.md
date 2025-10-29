@@ -32,7 +32,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### Waffles with Santa
 
-**9:00am-11:00am @ North Bend Fire Department** <br>Enjoy a delicious breakfast with the jolly man himself! Load up on toppings with the Miss Flame Court and visit with Volunteer Firefighters.&nbsp;&nbsp;Don't forget to share your holiday wishes with Santa and receive a complementary book from North Bend Library.&nbsp;&nbsp;**Pre-registration Required.** Registration Coming Soon
+**9:00am-11:00am @ North Bend Fire Department** <br>Enjoy a delicious breakfast with the jolly man himself! Load up on toppings with the Miss Flame Court and visit with Volunteer Firefighters.&nbsp;&nbsp;Don't forget to share your holiday wishes with Santa and receive a complementary book from North Bend Library.&nbsp;&nbsp;**Pre-registration Required.** Free to attend, registration required. <a href="https://www.eventbrite.com/e/1841857719019?aff=oddtdtcreator" target="_blank" rel="noopener">REGISTER HERE</a>!
 
 {{< spacer "25" >}}
 
@@ -40,7 +40,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### Story Time with Mrs. Claus
 
-**10:00am & 11:00am @ North Bend Public Library** <br>Cozy up for enchanting holiday tales read by Mrs. Claus. Get ready to move around with holiday sign along with the North Bend Library staff.&nbsp;&nbsp;This year the reindeer food making and letters to Santa will be moved to the holiday block party.
+**10:00am & 11:00am @ North Bend Public Library** <br>Cozy up for enchanting holiday tales read by Mrs. Claus. Get ready to move around with holiday sign along with the North Bend Library staff.&nbsp;
 
 {{< spacer "25" >}}
 
@@ -48,7 +48,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### Free Ice Skating
 
-**11:00-3:00pm @ North Bend Ice Rink** <br>Glide across the ice with family and friends during Free Skating for all ages.&nbsp;&nbsp;Enjoy holiday music and spread holiday cheer by donating an item to the Bus Jam for a FREE gift!
+**11:00-3:00pm @ North Bend Ice Rink** <br>Glide across the ice with family and friends during Free Skating for all ages.&nbsp;&nbsp;Enjoy holiday music and spread holiday cheer by donating an item to the Bus Jam for a FREE gift! FREE Skating is sponsored by <a href="https://ziplyfiber.com/" target="_blank" rel="noopener">Ziply Fiber</a>.
 
 {{< spacer "25" >}}
 
@@ -70,7 +70,11 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### Holiday Block Party
 
-**2:00pm-5:00pm @ Visitor Information Center Parking Lot** <br>Celebrate the season with holiday crafting, face painting, and more. Food trucks will be on site and tables provided inside the festival tent. Santa arrives at 3:00pm.
+**2:00pm-5:00pm @ Visitor Information Center Parking Lot** <br>Celebrate the season with holiday crafting, face painting, and more, including:
+
+* Non Profit vendors will be set up with holiday crafting, plus free face painting and reindeer food making with North Bend Library!&nbsp;<br>
+* Holiday Photo Booth with Candid By Stefani inside Visitor Center 2:00pm-4:00pm.&nbsp;&nbsp;<br>
+* North Bend Middle and High School students with caroling at 4:00pm and dancing at 4:30pm
 
 #### Annual Tree Lighting
 
@@ -78,11 +82,11 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### Lighted Christmas Parade
 
-**7:00pm-6:30pm** <br>The parade passes through the nearby neighborhood passing by the Fire Station, Library, and City Hall.&nbsp; Marvel at the twinkling lights and festive vehicles as they parade through the streets in a dazzling display of holiday cheer.
+**6:00pm-6:30pm** <br>The parade passes through the nearby neighborhood passing by the Fire Station, Library, and City Hall.&nbsp; Marvel at the twinkling lights and festive vehicles as they parade through the streets in a dazzling display of holiday cheer. Join the parade by signing up here: <a href="https://northbendor.municipalone.com/web-form/584/city-of-north-bend-lighted-christmas-parade" target="_blank" rel="noopener">City of North Bend Lighted Christmas Parade - City of North Bend</a>
 
 #### Christmas OPRY
 
-\*\*7:00pm-9:00pm<br>\*\*Celebrate the season with a spectacular mix of traditional carols and contemporary holiday hits! This family favorite features an incredible band, singers, and dancers that will bring the holiday spirit to life. This is a wonderful way to end out a day long Christmas celebration and is a perfect way to support arts and culture in our community. At the Liberty Theatre,  2100 Sherman Ave. Tickets available soon.
+**7:00pm-9:00pm**<br>Celebrate the season with a spectacular mix of traditional carols and contemporary holiday hits! This family favorite features an incredible band, singers, and dancers that will bring the holiday spirit to life. This is a wonderful way to end out a day long Christmas celebration and is a perfect way to support arts and culture in our community. At the Liberty Theatre,  2100 Sherman Ave. Tickets available soon.
 
 **Don't miss out on this unforgettable holiday experience!**&nbsp;&nbsp;
 
