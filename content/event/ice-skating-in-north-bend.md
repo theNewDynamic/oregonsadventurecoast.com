@@ -32,7 +32,7 @@ aliases:
 ---
 ![Ice skating father and daughter in north bend, oregon](/img/ice-skating-father-daughter-695.jpg)
 
-#### Ice Skating on the Oregon Coast! THROUGH JANUARY 31, 2025!!!!
+#### Ice Skating on the Oregon Coast! THROUGH JANUARY 31, 2026!!!!
 
 {{< spacer "15" >}}
 
