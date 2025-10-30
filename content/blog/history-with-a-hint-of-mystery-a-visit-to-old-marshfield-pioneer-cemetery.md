@@ -32,7 +32,7 @@ tags:
   - Oregon Historical Cemetery
 warning: false
 ---
-#### Discover the stories of the past at historic cemeteries like Old Marshfield Pioneer Cemetery on Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston.
+**Discover the stories of the past at historic cemeteries like Old Marshfield Pioneer Cemetery on Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston.**
 
 ####
 
