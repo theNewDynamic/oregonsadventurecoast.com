@@ -1,0 +1,2 @@
+{{ $data := dict "data" (partial "func/getters/GetAll" "GetAll") }}
+{{ $data | jsonify | transform.Remarshal "yaml" }}

@@ -1,0 +1,10 @@
+{{ $durations := partial "func/getters/GetTerms" (dict "taxonomy" "durations" "type" "taxonomyDuration") }}
+{{ $towns := partial "func/getters/GetTerms" (dict "taxonomy" "towns" "type" "taxonomyTown") }}
+{{ $terms := slice }}
+{{ range $durations }}
+  {{ $terms = $terms | append . }}
+{{ end }}
+{{ range $towns }}
+  {{ $terms = $terms | append . }}
+{{ end }}
+{{ return $terms }}

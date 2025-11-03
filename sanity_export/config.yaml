@@ -1,0 +1,46 @@
+baseUrl: 'https://www.oregonsadventurecoast.com'
+removeAccents: true
+disableKinds:
+- sitemap
+- section
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+  - json
+  - yaml
+caches:
+  getresource:
+    maxAge: 0
+outputFormats:
+  yaml:
+    mediaType: 'application/yaml'
+module:
+  mounts:
+  - source: content
+    target: content
+  - source: ../content
+    target: content
+    # In case some files breaks the import:
+    excludeFiles:
+    #- /somefile.md
+  - source: layouts
+    target: layouts
+  - source: data
+    target: data
+  - source: ../data
+    target: data
+
+taxonomies:
+  category: categories
+  tag: tags
+  duration: durations
+  town: towns
+  tripadventure: tripadventures
+
+params:
+  domain: 'https://www.oregonsadventurecoast.com'
+  #skip_assets: true
+  #skip_relationships: true

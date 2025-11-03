@@ -1,0 +1,8 @@
+{{ $divider := "divider" }}
+<div class="m-content-columns" data-columns="{{ cond (eq (.Get "number") "2") 2 3 | safeHTMLAttr }}">
+    {{ range (split .Inner $divider) }}
+    <div class="m-content-columns__col">
+        {{ $.Page.RenderString . }}
+    </div>
+    {{ end }}
+</div>

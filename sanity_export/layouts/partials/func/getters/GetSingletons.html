@@ -1,0 +1,51 @@
+{{ $singletons := slice
+  "home"
+  "chairs"
+}}
+{{ $entries := slice }}
+{{ $s := newScratch }}
+{{ if in $singletons "home" }}
+  {{ $s.Set "data" dict }}
+  {{ $s.SetInMap "data" "_type" "home" }}
+  {{ $s.SetInMap "data" "_id" "home" }}
+  {{ with site.GetPage "/_index.md" }}
+    {{ $s.SetInMap "data" "title" .Title }}
+    {{ with .Params.description }}
+      {{ $s.SetInMap "data" "descriptionHTML" . }}
+    {{ end }}
+    {{ with .Params.images }}
+      {{ with index . 0 }}
+        {{ with partial "transformers/imageObject" . }}
+          {{ $image := . }}
+          {{ $s.SetInMap "data" "image" $image }}
+          {{ $s.SetInMap "data" "hero" (dict
+            "image" $image
+          )  }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $entries = $entries | append ($s.Get "data") }}
+  {{ end }}
+{{ end }}
+
+{{ if in $singletons "contact" }}
+  {{ $s.Set "data" dict }}
+  {{ $s.SetInMap "data" "_type" "pageContact" }}
+  {{ $s.SetInMap "data" "_id" "pageContact" }}
+  {{ $s.SetInMap "data" "slug" (dict
+    "_type" "slug"
+    "current" "contact"
+  )  }}
+  {{ with site.GetPage "/contact" }}
+    {{ $s.SetInMap "data" "title" .Title }}
+    {{ with .Params.description }}
+      {{ $s.SetInMap "data" "descriptionHTML" . }}
+    {{ end }}
+    {{ with .Content }}
+      {{ $s.SetInMap "data" "bodyHTML" . }}
+    {{ end }}
+    {{ $entries = $entries | append ($s.Get "data") }}
+  {{ end }}
+{{ end }}
+
+{{ return $entries }}

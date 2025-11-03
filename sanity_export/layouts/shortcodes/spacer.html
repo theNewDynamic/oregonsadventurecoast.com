@@ -1,0 +1,3 @@
+{{ $size := .Get "size" | default (.Get 0) }}
+{{- $json := dict "size" $size | merge (dict "_type" "pt.spacer") -}}
+<div id="shortcode">{{ jsonify $json }}</div>

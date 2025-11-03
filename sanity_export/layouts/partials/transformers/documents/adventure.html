@@ -1,0 +1,48 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" (partial "transformers/documents/base.html" .) }}
+
+{{ $s.SetInMap "data" "_type" "adventure" }}
+
+{{ with .Params.description }}
+  {{ $s.SetInMap "data" "descriptionHTML" ($.Page.RenderString .) }}
+{{ end }}
+
+{{ with .Date }}
+  {{ $s.SetInMap "data" "publishedAt" . }}
+{{ end }}
+
+{{ with .Params.images }}
+  {{ with index . 0 }}
+    {{ with partial "transformers/image" . }}
+      {{ $s.SetInMap "data" "imageMain" . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+
+{{ $source := dict }}
+{{ with .Params.link_to_original }}
+  {{ $source = merge $source (dict "href" .) }}
+{{ end }}
+{{ with .Params.source }}
+  {{ $source = merge $source (dict "source_name" .) }}
+{{ end }}
+{{ with $source }}
+  {{ $s.SetInMap "data" "source" . }}
+{{ end }}
+
+{{ with .Content }}
+  {{ $s.SetInMap "data" "bodyHTML" (partial "transformers/body" .) }}
+{{ end }}
+
+
+{{/* We'll deal with taxonomies later */}}
+{{ with .Params.topics }}
+  {{ $topic := dict
+    "_type" "reference"
+    "_ref" (printf "post_topic-%s" (md5 (lower .)))
+  }}
+  {{ $s.SetInMap "data" "post_topic" $topic }}
+{{ end }}
+
+{{ return $s.Get "data" }}

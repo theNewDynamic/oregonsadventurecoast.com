@@ -1,0 +1,22 @@
+{{ $ref := dict }}
+{{ if not site.Params.skip_relationships }}
+  {{ with . }}
+    {{ $path := . }}
+    {{ if ne (printf "%#T" $path) "string" }}
+      {{ with $path.File.Path }}
+        {{ $path = . }}
+      {{ end }}
+    {{ end }}
+    {{ with $page := site.GetPage $path }}
+      {{ if and (not .Draft) (eq .Kind "page") }}
+        {{ with partial "func/GetID" . }}
+          {{ $ref = dict 
+            "_type" "reference"
+            "_ref" .
+          }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $ref }}

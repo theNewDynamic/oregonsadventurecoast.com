@@ -1,0 +1,56 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+
+{{ $translation := dict }}
+{{ with .Translations }}
+  {{ with index . 0 }}
+    {{ $translation = . }}
+  {{ end }}
+{{ end }}
+
+{{ $s.SetInMap "data" "_type" "page" }}
+{{ $s.SetInMap "data" "_pt_migrate" false }}
+{{ $s.SetInMap "data" "title" .Title }}
+
+{{ with .File.UniqueID }}
+  {{ $s.SetInMap "data" "_id" . }}
+{{ end }}
+
+
+{{ $slug := .Slug | default (urlize .Title) }}
+{{ with .Params.url }}
+  {{ $slug = trim . "/" }}
+{{ end }}
+
+{{ with $slug }}
+  {{ $s.SetInMap "data" "slug" (dict
+    "_type" "slug"
+    "current" .
+  ) }}
+{{ end }}
+
+{{ with .Date }}
+  {{ $s.SetInMap "data" "publishedAt" . }}
+{{ end }}
+
+
+{{ with .Params.description }}
+  {{ $s.SetInMap "data" "description" . }}
+{{ end }}
+
+{{ with .Content }}
+  {{ $s.SetInMap "data" "bodyHTML" ($.Page.RenderString .) }}
+{{ end }}
+
+{{ $seo := dict }}
+{{ with .Params.seo }}
+  {{ $seo = partial "transformers/seo" . }}
+{{ end }}
+{{ with .Params.private }}
+  {{ $seo = merge $seo (dict "private" .) }}
+{{ end }}
+{{ with $seo }}
+  {{ $s.SetInMap "data" "seo" . }}
+{{ end }}
+
+{{ return $s.Get "data" }}

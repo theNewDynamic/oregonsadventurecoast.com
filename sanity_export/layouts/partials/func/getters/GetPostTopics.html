@@ -1,0 +1,16 @@
+{{ $entries := slice }}
+{{ $taxo := "post_topic" }}
+{{ $topics := slice "News" "Tips" }}
+{{ range $label := $topics }}
+  {{ $key := lower . }}
+  {{ $entries = $entries | append (dict
+    "title" $label
+    "_type" "post_topic"
+    "_id" (printf "%s-%s" $taxo (md5 $key))
+    "slug" (dict
+      "_type" "slug"
+      "current" (urlize $key)
+    )
+  ) }}
+{{ end }}
+{{ return $entries }}

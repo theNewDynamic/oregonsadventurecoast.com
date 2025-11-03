@@ -13,7 +13,13 @@
   "scripts": {
     "index": "node tools/lunr-run.js",
     "deploy": "HUGO_ENV=production bin/hugo* -e skip-json -F --gc --minify --cleanDestinationDir",
-    "start": "HUGO_ENV=development bin/hugo* server -F -D --navigateToChanged --noHTTPCache"
+    "start": "HUGO_ENV=development bin/hugo* server -F -D --navigateToChanged --noHTTPCache",
+    "gen:build": "hugo -s sanity_export --cleanDestinationDir -F",
+    "gen": "hugo --quiet -F -D -s sanity_export --cleanDestinationDir && node sanity_export/cms/pt && cat sanity_export/public/index.json | json2nd > ./sanity_export.ndjson",
+    "export:test": "node sanity_export/cms/migration/test",
+		"export": "cd sanity_export/cms && sanity dataset import ../../sanity_export.ndjson production --allow-failing-assets --replace",
+    "export:missing": "cd sanity_export/cms && sanity dataset import ../../sanity_export.ndjson production --allow-failing-assets --missings",
+    "dataset:delete": "cd sanity_export/cms && sanity dataset delete production"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
