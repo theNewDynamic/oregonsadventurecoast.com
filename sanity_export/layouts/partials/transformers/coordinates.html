@@ -1,0 +1,12 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" (dict "_type" "geopoint") }}
+
+{{ with .lat }}
+  {{ $s.SetInMap "data" "lat" (float .) }}
+{{ end }}
+
+{{ with .lng }}
+  {{ $s.SetInMap "data" "lng" (float .) }}
+{{ end }}
+
+{{ return $s.Get "data" }}

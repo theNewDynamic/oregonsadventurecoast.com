@@ -30,6 +30,9 @@ check_relationships = (data) => {
       'taxonomySection',
       'sponsors',
       'venue',
+      'amenities',
+      'costs',
+      'categories',
     ]
     if(true) {
       fields.forEach(field => {
@@ -46,8 +49,8 @@ check_relationships = (data) => {
           })
         }
       })
-  
-      /*  
+
+      /*
         Production credits is a bit different as the relationships are nested inside an array entry under `staffMembers`.
       */
       if(typeof document.production_credits !== "undefined") {
@@ -62,7 +65,7 @@ check_relationships = (data) => {
         })
       }
     }
-    
+
   })
 }
 
@@ -73,5 +76,5 @@ jsonReader(filepath, (err, data) => {
   }
   check_relationships(data)
   check_duplicated_ids(data)
-  
+
 });

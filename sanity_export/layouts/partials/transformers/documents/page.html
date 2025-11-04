@@ -1,6 +1,8 @@
 {{ $s := newScratch }}
 {{ $s.Set "data" dict }}
 
+
+
 {{ $translation := dict }}
 {{ with .Translations }}
   {{ with index . 0 }}
@@ -53,4 +55,7 @@
   {{ $s.SetInMap "data" "seo" . }}
 {{ end }}
 
+{{ with partial "func/GetWidgets" . }}
+  {{ $s.SetInMap "data" "widgets" . }}
+{{ end }}
 {{ return $s.Get "data" }}

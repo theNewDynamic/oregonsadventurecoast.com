@@ -2,6 +2,10 @@
 {{ if eq .term "Nonfiction" }}
   {{ $term = "Non Fiction" }}
 {{ end }}
-{{ $key := urlize $term }}
 
+{{ if (in (slice "$" "$$" "$$$") $term) }}
+  {{ $term = len $term }}
+{{ end }}
+{{ $key := $term }}
+{{ $key = urlize $term }}
 {{ return (printf "%s-%s" .taxonomy $key | md5) }}

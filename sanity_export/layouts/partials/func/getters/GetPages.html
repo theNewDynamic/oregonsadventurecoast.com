@@ -1,5 +1,34 @@
+
+{{/* WARN  "open-meetings"
+WARN  "press-media-industry"
+WARN  "contact"
+WARN  "headless"
+WARN  "our-area"
+WARN  "diningpage"
+WARN  "meeting-planners-sub"
+WARN  "nosidebar"
+WARN  "travelersinfo"
+WARN  "meeting-planners"
+WARN  "adventure-sidebar"
+WARN  "thank-you" */}}
 {{ $entries := slice }}
-{{ with where site.AllPages "Type" "pages" }}
+{{ $input := where site.RegularPages ".Type" "sitepages" }}
+{{ $input = where $input ".Layout" "in" (slice
+  "open-meetings"
+  "press-media-industry"
+  "contact"
+  "headless"
+  "our-area"
+  "diningpage"
+  "meeting-planners-sub"
+  "nosidebar"
+  "travelersinfo"
+  "meeting-planners"
+  "adventure-sidebar"
+  "thank-you"
+) }}
+
+{{ with $input }}
   {{ $entries = $entries | append (apply . "partial" "transformers/documents/page" ".") }}
 {{ end }}
 

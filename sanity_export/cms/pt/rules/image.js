@@ -19,7 +19,7 @@ module.exports = {
     let public
     let caption = ''
     if(src.includes('http') ){
-      public = src
+      public = src.replace('blob:', '')
     } else {
       src = src.replace('/uploads', '')
       public = `https://www.oregonsadventurecoast.com${src}`

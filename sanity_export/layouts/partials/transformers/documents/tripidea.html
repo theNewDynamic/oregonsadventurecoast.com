@@ -19,7 +19,7 @@
 
 {{ with .Params.photo }}
   {{ with partial "transformers/image" . }}
-    {{ $s.SetInMap "data" "hero" (dict "image" .) }}
+    {{ $s.SetInMap "data" "heroes" (slice (dict "_type" "hero.image" "image" .)) }}
   {{ end }}
 {{ end }}
 

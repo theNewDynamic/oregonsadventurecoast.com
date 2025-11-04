@@ -1,0 +1,127 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+
+{{ $s.SetInMap "data" "title" .Title }}
+{{ $s.SetInMap "data" "_id" (partial "func/GetID" $) }}
+
+{{ $s.SetInMap "data" "_type" "property" }}
+
+{{ if eq $.Type "lodgingitems" }}
+  {{ $s.SetInMap "data" "associations" (slice "lodging") }}
+{{ else if eq $.Type "store" }}
+  {{ $s.SetInMap "data" "associations" (slice "store") }}
+{{ end }}
+
+{{ with .Params.units }}
+  {{ $s.SetInMap "data" "units" (int .) }}
+{{ end }}
+
+{{ with .Params.equip_type }}
+  {{ if in . "Tour" }}
+      {{ $s.SetInMap "data" "associations" (slice "tour") }}
+  {{ end }}
+  {{ if in . "Equipment" }}
+      {{ $s.SetInMap "data" "associations" (slice "equipment") }}
+  {{ end }}
+{{ end }}
+{{ with .Params.description }}
+  {{ $s.SetInMap "data" "descriptionHTML" ($.Page.RenderString .) }}
+{{ end }}
+
+
+
+{{ with .Date }}
+  {{ $s.SetInMap "data" "publishedAt" . }}
+{{ end }}
+
+{{ with .Params.photo_name }}
+  {{ $imageObj := dict "image" . }}
+  {{ with $.Params.photo_alt }}
+    {{ $imageObj = merge $imageObj (dict "alt" .) }}
+  {{ end }}
+  {{ with $imageObj }}
+    {{ with partial "transformers/imageObject" . }}
+          {{ $s.SetInMap "data" "image" . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ with .Params.photo }}
+  {{ with partial "transformers/image" . }}
+    {{ $s.SetInMap "data" "heroes" (slice (dict "_type" "hero.image" "image" .)) }}
+  {{ end }}
+{{ end }}
+
+{{ with .Params.property_name }}
+  {{ if ne $.Title . }}
+    {{ $s.SetInMap "data" "propertyName" . }}
+  {{ end }}
+{{ end }}
+
+{{ with .Params.property_description }}
+  {{ $s.SetInMap "data" "descriptionHTML" . }}
+{{ end }}
+
+
+{{ $address := dict }}
+{{ with .Params.address }}
+  {{ $address = partial "transformers/address" . }}
+{{ end }}
+
+{{ with .Params.phone_toll_free }}
+  {{ $address = merge $address (dict "phoneFree" .) }}
+{{ end }}
+
+{{ with .Params.phone_local }}
+  {{ $address = merge $address (dict "phone" .) }}
+{{ end }}
+
+{{ with .Params.website }}
+  {{ $address = merge $address (dict "url" .) }}
+{{ end }}
+
+{{ with .Params.coordinates }}
+  {{ $address = merge $address (dict "coordinates" (partial "transformers/coordinates" .)) }}
+{{ end }}
+
+{{ $s.SetInMap "data" "address" $address }}
+
+{{ $inputs := slice
+  (dict "key" "amenityList" "taxonomy" "taxonomyAmenity" "field" "amenities")
+  (dict "key" "cost" "taxonomy" "taxonomyCost" "field" "costs")
+}}
+{{ if eq $.Type "lodgingitems" }}
+  {{ $inputs = $inputs | append (dict "key" "property_category" "taxonomy" "taxonomyLodgingCategory" "field" "lodgingCategories") }}
+{{ else if eq $.Type "store" }}
+  {{ $inputs = $inputs | append (dict "key" "property_category" "taxonomy" "taxonomyStoreCategory" "field" "storeCategories") }}
+{{ end }}
+
+{{ range $input := $inputs }}
+  {{ with index $.Params $input.key }}
+    {{ $list := . }}
+    {{ if not (reflect.IsSlice .) }}
+      {{ $list = slice . }}
+    {{ end }}
+    {{ $terms := slice }}
+    {{ range $list }}
+      {{ if not (reflect.IsMap .) }}
+        {{ $term := . }}
+        {{/* If the taxo uses a numbered sytem (1 - Something) */}}
+        {{ if in $term " - " }}
+          {{ $split := split . " - " }}
+          {{ $term = index $split 1 }}
+        {{ end }}
+        {{ $obj := dict "taxonomy" $input.taxonomy "term" $term }}
+        {{ $terms = $terms | append (dict
+          "_type" "reference"
+          "_ref" (partial "func/GetTermID" $obj)
+        ) }}
+      {{ end }}
+    {{ end }}
+    {{ with $terms }}
+      {{ $s.SetInMap "data" $input.field . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ return $s.Get "data" }}

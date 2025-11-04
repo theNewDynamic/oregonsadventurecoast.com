@@ -25,7 +25,8 @@ module:
     target: content
     # In case some files breaks the import:
     excludeFiles:
-    #- /somefile.md
+    # Sports facilities page is breaking export... not sure why.
+    - sitepages/sports-facilities.md
   - source: layouts
     target: layouts
   - source: data

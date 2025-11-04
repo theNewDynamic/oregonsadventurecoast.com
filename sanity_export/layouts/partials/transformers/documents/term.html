@@ -1,0 +1,19 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+{{ $s.SetInMap "data" "title" .term }}
+{{ $s.SetInMap "data" "_type" .taxonomy }}
+{{ $slug := $.term }}
+{{ if in (slice "$" "$$" "$$$") $slug }}
+  {{ $slug = len $slug }}
+{{ end }}
+{{ $slug := partial "func/Slugify" (urlize $slug) }}
+{{ $id := partial "func/GetTermID" (dict
+  "taxonomy" $.taxonomy
+  "term" $slug
+) }}
+{{ $s.SetInMap "data" "_id" $id }}
+{{ $s.SetInMap "data" "slug" (dict
+  "_type" "slug"
+  "current" $slug
+) }}
+{{ return $s.Get "data" }}

@@ -1,0 +1,18 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+
+{{ with .street }}
+  {{ $s.SetInMap "data" "addressLine1" . }}
+{{ end }}
+
+{{ with .street2 }}
+  {{ $s.SetInMap "data" "addressLine2" . }}
+{{ end }}
+
+{{ range $key := slice "city" "state" "zip" }}
+  {{ with index $ . }}
+    {{ $s.SetInMap "data" $key (string .) }}
+  {{ end }}
+{{ end }}
+
+{{ return $s.Get "data" }}

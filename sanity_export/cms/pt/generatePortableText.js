@@ -5,6 +5,8 @@ const imageRule = require('./rules/image')
 const shortcodeRule = require('./rules/shortcode')
 const figureRule = require('./rules/figure')
 const htmlRule = require('./rules/html')
+const highlight = require("./rules/highlight");
+const pureHtml = require("./rules/pureHtml");
 module.exports = function(html) {
   // Start with compiling a schema we can work against
   const defaultSchema = Schema.compile({
@@ -40,8 +42,10 @@ module.exports = function(html) {
       parseHtml: (html) => new JSDOM(html).window.document,
       rules: [
         imageRule,
-        //shortcodeRule,
+        highlight,
+        shortcodeRule,
         htmlRule,
+        pureHtml,
         //figureRule
       ]
     }

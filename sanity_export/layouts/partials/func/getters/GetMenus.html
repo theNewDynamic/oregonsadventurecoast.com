@@ -1,0 +1,24 @@
+{{ $menus := slice }}
+{{ range $index, $menu := site.Menus }}
+  {{ $nav := (dict
+    "title" (humanize $index)
+    "_type" "navigation"
+    "_id" (partial "func/GetIDString" $index)
+  ) }}
+  {{ $items := slice }}
+  {{ range $menu }}
+    {{ $url := print (strings.TrimSuffix "/" .URL) "/" }}
+    {{ $items = $items | append (dict
+        "_type" "link"
+        "linkType" "url"
+        "copy" .Name
+        "url" $url
+    ) }}
+  {{ end }}
+  {{ with $items }}
+    {{ $nav = merge $nav (dict "items" $items ) }}
+  {{ end }}
+  {{ $menus = $menus | append $nav }}
+{{ end }}
+
+{{ return $menus }}

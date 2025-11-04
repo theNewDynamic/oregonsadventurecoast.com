@@ -6,7 +6,11 @@ module.exports = {
     if (el.id !== 'shortcode') {
       return undefined
     }
-    parameters = JSON.parse(el.innerHTML)
+    const processedHtml = el.innerHTML.replace('<strong>', '').replace('</strong>', '')
+    parameters = JSON.parse(processedHtml)
+    if(parameters.size && parameters._type == "pt.spacer") {
+      parameters.size = Math.floor(parameters.size / 10)
+    }
     return block(parameters)
   },
 }

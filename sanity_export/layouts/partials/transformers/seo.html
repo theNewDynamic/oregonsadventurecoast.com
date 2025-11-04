@@ -7,6 +7,11 @@
   {{ end }}
 {{ end }}
 {{ with .image }}
-  {{ $s.SetInMap "data" "image" (partial "transformers/image" .)  }}
+  {{ $s.SetInMap "data" "image" (partial "transformers/image" .) }}
+{{ end }}
+{{ with .title }}
+  {{ if in . " | Oregon's Adventure Coast" }}
+    {{ $s.SetInMap "data" "title" (strings.TrimSuffix " | Oregon's Adventure Coast" . ) }}
+  {{ end }}
 {{ end }}
 {{ return $s.Get "data" }}

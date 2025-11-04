@@ -2,6 +2,7 @@
 {{ $s.Set "data" dict }}
 {{ $file := "" }}
 {{ $caption := "" }}
+{{ $alt := "" }}
 {{ $skip_assets := site.Params.skip_assets }}
 {{ if (not $skip_assets) }}
   {{ if reflect.IsMap $ }}
@@ -9,13 +10,19 @@
     {{ with $.caption }}
       {{ $caption = . }}
     {{ end }}
+    {{ with $.alt }}
+      {{ $alt = . }}
+    {{ end }}
   {{ else }}
     {{ $file = $ }}
   {{ end }}
-  
+
   {{ with $file }}
     {{ with $caption }}
       {{ $s.SetInMap "data" "caption" . }}
+    {{ end }}
+    {{ with $alt }}
+      {{ $s.SetInMap "data" "altText" . }}
     {{ end }}
     {{ with partialCached "transformers/image" . . }}
       {{ range $k, $v := . }}

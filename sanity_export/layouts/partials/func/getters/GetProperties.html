@@ -1,0 +1,7 @@
+{{ $entries := slice }}
+
+{{ with where site.RegularPages "Type" "in" (slice "lodgingitems" "store") }}
+  {{ $entries = $entries | append (apply . "partial" "transformers/documents/property" ".") }}
+{{ end }}
+
+{{ return $entries }}

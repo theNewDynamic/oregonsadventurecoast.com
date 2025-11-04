@@ -1,0 +1,95 @@
+our_area:
+- url: /our-area
+  name: Our Area
+  weight: 10
+- url: /our-area-coos-bay
+  name: Coos Bay
+  weight: 20
+- url: /our-area-north-bend
+  name: North Bend
+  weight: 30
+- url: /our-area-charleston
+  name: Charleston
+  weight: 40
+- url: /tribal-heritage-coquilles
+  name: 'Tribal Heritage: Coquilles'
+  weight: 50
+- url: /tribal-heritage-confederated
+  name: 'Tribal Heritage: The Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians'
+  weight: 52
+- url: /steve-prefontaine-story
+  name: The Steve Prefontaine Story
+  weight: 60
+- url: /bay-area-chamber
+  name: Bay Area Chamber
+  weight: 70
+- url: /relocation-info-request
+  name: Relocation Info Request
+  weight: 80
+
+travelers:
+- url: http://www.flyoth.com/
+  name: Airline Tickets and Travel
+  weight: 20
+- url: /medical-urgent-dental
+  name: Medical, Urgent, Dental & Veterinary Services
+  weight: 30
+- url: https://myodfw.com/
+  name: Recreation Report
+  weight: 40
+- url: https://www.tripcheck.com/Pages/Road-Conditions?mainNav=RoadConditions&curRegion=4
+  name: Road & Travel Conditions
+  weight: 50
+- url: /fishing-license-requirements
+  name: Fishing License Requirements
+  weight: 60
+- url: https://tides4fishing.com/us/oregon/coos-bay
+  name: Tides4Fishing.com Tides & Solunar Charts
+  weight: 70
+- url: https://www.tideschart.com/United-States/Oregon/Coos-Bay
+  name: TidesChart.com Tide Times & Tide Charts
+  weight: 80
+- url: /tsunamis
+  name: Tsunami Safety
+  weight: 85
+- url: /social-media-disclaimer/
+  name: Social Media Disclaimer
+  weight: 90
+press_media:
+- url: /press-media-industry
+  name: Press & Media Industry
+  weight: 10
+- url: /staff-directory
+  name: Staff Directory
+  weight: 20
+- url: /local-industry-resources
+  name: Local Industry Resources
+  weight: 30
+- url: /gallery
+  name: Image Asset Gallery
+  weight: 40
+- url: /newsletter-archive
+  name: Newsletter Archive
+  weight: 50
+- url: mailto:info@oregonsadventurecoast.com
+  name: Email Us
+  weight: 60
+open_meetings:
+- url: /about-the-vcb
+  name: About the VCB
+  weight: 10
+- url: /board-of-directors
+  name: Board Of Directors
+  weight: 20
+- url: /faq
+  name: Economic Impact FAQ
+  weight: 30
+- url: /open-meetings
+  name: Open Meetings
+  weight: 40
+- url: /staff-directory-meetings
+  name: Staff
+  weight: 50
+- url: /stratplan
+  name: Strategic Plan
+  weight: 60

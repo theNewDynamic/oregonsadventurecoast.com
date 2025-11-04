@@ -1,6 +1,10 @@
 {{ $s := newScratch }}
 {{ $s.Set "data" dict }}
 
+{{ with .Params.seo }}
+  {{ $s.SetInMap "data" "seo" (partial "transformers/seo" .) }}
+{{ end }}
+
 {{ $s.SetInMap "data" "title" .Title }}
 {{ $s.SetInMap "data" "_id" (partial "func/GetID" $) }}
 

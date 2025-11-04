@@ -1,0 +1,20 @@
+{{ $widgets := slice }}
+{{ $menuMapping := (dict
+  "our-area" "our_area"
+  "press-media-industry" "press_media"
+  "travelersinfo" "travelers"
+  "open-meetings" "open_meetings"
+) }}
+{{ with .Layout }}
+  {{ with index $menuMapping . }}
+    {{ $widgets = $widgets | append (dict
+        "_type" "blocks/widgets.menu"
+        "navigation"  (dict
+            "_type" "reference"
+            "_ref" (partial "func/GetIDString" .)
+        )
+      ) }}
+  {{ end }}
+{{ end }}
+
+{{ return $widgets }}

@@ -1,0 +1,43 @@
+{{ $properties := where site.RegularPages ".Type" "in" (slice "lodgingitems" "store") }}
+{{ $terms := slice }}
+
+{{ range $prop := $properties }}
+  {{ $inputs := slice
+    (dict "key" "amenityList" "taxonomy" "taxonomyAmenity")
+    (dict "key" "cost" "taxonomy" "taxonomyCost")
+  }}
+  {{ if eq $prop.Type "lodgingitems" }}
+    {{ $inputs = $inputs | append (dict "key" "property_category" "taxonomy" "taxonomyLodgingCategory") }}
+  {{ else if eq $prop.Type "store" }}
+    {{ $inputs = $inputs | append (dict "key" "property_category" "taxonomy" "taxonomyStoreCategory") }}
+  {{ end }}
+  {{ range $input := $inputs }}
+    {{ with index $prop.Params $input.key }}
+      {{ $list := . }}
+      {{ if not (reflect.IsSlice .) }}
+        {{ $list = slice . }}
+      {{ end }}
+      {{ range $list }}
+        {{ if not (reflect.IsMap .) }}
+          {{ $term := . }}
+          {{/* If the taxo uses a numbered sytem (1 - Something) */}}
+          {{ if in $term " - " }}
+            {{ $split := split . " - " }}
+            {{ $term = index $split 1 }}
+          {{ end }}
+          {{ $obj := dict "taxonomy" $input.taxonomy "term" $term }}
+          {{ if not (in $terms $obj) }}
+            {{ $terms = $terms | append $obj }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $termsOutput := slice }}
+{{ range $terms }}
+  {{ $termsOutput = $termsOutput | append (partial "transformers/documents/term" .) }}
+{{ end }}
+
+{{ return $termsOutput }}
