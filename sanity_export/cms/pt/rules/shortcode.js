@@ -1,3 +1,4 @@
+const parseObject = require('../parseObject')
 module.exports = {
   deserialize(el, next, block) {
     if(typeof el.tagName == "undefined") {
@@ -11,6 +12,7 @@ module.exports = {
     if(parameters.size && parameters._type == "pt.spacer") {
       parameters.size = Math.floor(parameters.size / 10)
     }
+    parameters = parseObject(parameters)
     return block(parameters)
   },
 }
