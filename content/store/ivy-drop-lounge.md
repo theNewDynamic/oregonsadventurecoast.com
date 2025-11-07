@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: Ivy Drop Lounge
+title: IVY Drip Lounge
 property_description: >-
-  Ivy Drip Lounge offers IV hydration and vitamin therapy to boost energy,
+  IVY Drip Lounge offers IV hydration and vitamin therapy to boost energy,
   immunity, recovery, and overall wellness. From hangovers to glow-ups, enjoy
   personalized treatments that help you feel refreshed, revitalized, and
   thriving.
