@@ -3,7 +3,40 @@ _schema: default
 title: 'Egyptian Theatre: 100 Years of History in Coos Bay'
 draft: false
 date: 2025-11-10T23:10:00-08:00
+description: >-
+  If classic cinema and entertainment in a historic venue sound appealing, then
+  the Egyptian Theatre is a great destination to add to your Oregon Coast travel
+  itinerary. With its ornate hieroglyphic décor, towering pharaoh statues, and a
+  magnificent Wurlitzer organ still filling the theatre with music 100 years
+  later, it’s an experience you won’t soon forget.
 image: /img/egyptian-theatre-blog-695x322.jpg
+tags:
+  - Egyptian Theatre Coos Bay
+  - Coos Bay history
+  - Oregon’s Adventure Coast
+  - Historic theatres Oregon
+  - Coos Bay attractions
+  - 100th anniversary celebration
+  - Things to do in Coos Bay
+  - Coos Bay events
+  - Oregon Coast culture
+  - Downtown Coos Bay
+  - Egyptian Revival architecture
+  - Historic landmarks Oregon
+  - Wurlitzer pipe organ
+  - Oregon Coast history
+  - Coos Bay entertainment
+  - Oregon Coast heritage sites
+  - heritage travel
+  - Historic preservation
+  - Oregon movie theatres
+  - Classic cinema Oregon
+  - Arts and culture Oregon Coast
+  - Family-friendly events Coos Bay
+  - Heritage tourism Oregon
+categories:
+  - Arts & Culture
+  - Local Spotlight
 warning: false
 ---
 *Special thanks to Laura Fisher, Kara Long, and Jill Rasmusen for their research and contributions to this story.*
