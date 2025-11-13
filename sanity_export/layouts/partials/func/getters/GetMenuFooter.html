@@ -1,0 +1,32 @@
+{{ $menu := slice }}
+
+{{ $paths := slice
+  "equipment-rent-and-buy.md"
+  "tour-guides-and-charters.md"
+  "sitepages/traveler-s-information.md"
+  "sitepages/conventions-groups-meeting-planners.md"
+  "sitepages/press-media-industry.md"
+  "sitepages/contact-us.md"
+}}
+
+{{ $nav := (dict
+  "title" "Footer"
+  "_type" "navigation"
+  "locations" (slice "footer")
+  "_id" (partial "func/GetIDString" "Footer")
+) }}
+{{ $items := slice }}
+{{ range $paths }}
+  {{ with site.GetPage . }}
+    {{ $items = $items | append (dict
+        "_type" "link"
+        "linkType" "entry"
+        "entry" (dict "_type" "reference" "_ref" .File.UniqueID)
+    ) }}
+  {{ end }}
+{{ end }}
+{{ with $items }}
+  {{ $nav = merge $nav (dict "items" $items) }}
+{{ end }}
+
+{{ return $nav }}

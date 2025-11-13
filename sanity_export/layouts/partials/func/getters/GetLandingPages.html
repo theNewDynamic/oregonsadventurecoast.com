@@ -13,6 +13,7 @@
 {{ $input = where $input ".File.Path" "in" $paths }}
 {{ $entries := slice }}
 {{ $input = $input | append (site.GetPage "adventure/shopping.md") }}
+{{ $input = $input | append (site.GetPage "tripideas/_index.md") }}
 {{ with $input }}
   {{ $entries = $entries | append (apply . "partial" "transformers/documents/landing-page" ".") }}
 {{ end }}

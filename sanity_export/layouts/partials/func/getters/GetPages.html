@@ -13,6 +13,7 @@ WARN  "adventure-sidebar"
 WARN  "thank-you" */}}
 {{ $entries := slice }}
 {{ $input := where site.RegularPages ".Type" "sitepages" }}
+
 {{ $input = where $input ".Layout" "in" (slice
   "open-meetings"
   "press-media-industry"
@@ -27,7 +28,9 @@ WARN  "thank-you" */}}
   "adventure-sidebar"
   "thank-you"
 ) }}
-
+{{ with site.GetPage "/gallery" }}
+  {{ $input = $input | append . }}
+{{ end }}
 {{ with $input }}
   {{ $entries = $entries | append (apply . "partial" "transformers/documents/page" ".") }}
 {{ end }}

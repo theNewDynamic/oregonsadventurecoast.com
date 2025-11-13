@@ -9,6 +9,7 @@
   "calendar.md" (dict "title" "Calendar" "section" "calendar")
   "events.md" (dict "title" "Events" "section" "events")
   "dining.md" (dict "title" "Dining" "section" "dining")
+  "tripideas/_index.md" (dict "title" "Trip Ideas" "section" "tripideas")
   "adventure/shopping.md" (dict "title" "Shopping" "section" "shopping")
   "equipment-rent-and-buy.md" (dict "title" "Equipments" "section" "equipments")
   "tour-guides-and-charters.md" (dict "title" "Tours" "section" "tours")
@@ -35,9 +36,13 @@
 {{ with $blocks }}
   {{ $s.SetInMap "data" "blocks" . }}
 {{ end }}
-
+{{ $slug := .File.BaseFileName }}
+{{ if eq $slug "_index" }}
+  {{ $slug = "tripideas" }}
+{{ end }}
 {{ $s.SetInMap "data" "slug" (dict
   "_type" "slug"
-  "current" .File.BaseFileName
+  "current" $slug
 )  }}
+
 {{ return $s.Get "data" }}

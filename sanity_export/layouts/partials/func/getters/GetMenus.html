@@ -8,17 +8,34 @@
   {{ $items := slice }}
   {{ range $menu }}
     {{ $url := print (strings.TrimSuffix "/" .URL) "/" }}
-    {{ $items = $items | append (dict
+    {{ with where site.AllPages ".RelPermalink" $url }}
+      {{ with index . 0 }}
+        {{ $items = $items | append (dict
+            "_type" "link"
+            "linkType" "entry"
+            "copy" .Name
+            "entry" (dict "_type" "reference" "_ref" .File.UniqueID)
+        ) }}
+      {{ end }}
+    {{ else }}
+      {{ warnf "nope for %#v" $url }}
+      {{ $items = $items | append (dict
         "_type" "link"
         "linkType" "url"
         "copy" .Name
         "url" $url
     ) }}
+    {{ end }}
+
+
   {{ end }}
   {{ with $items }}
     {{ $nav = merge $nav (dict "items" $items ) }}
   {{ end }}
   {{ $menus = $menus | append $nav }}
 {{ end }}
+
+{{ $menus = $menus | append (partial "func/getters/GetMenuMain" "a") }}
+{{ $menus = $menus | append (partial "func/getters/GetMenuFooter" "a") }}
 
 {{ return $menus }}

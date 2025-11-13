@@ -1,0 +1,32 @@
+{{ $menu := slice }}
+
+{{ $paths := slice
+  "adventures.md"
+  "lodging.md"
+  "dining.md"
+  "events.md"
+  "calendar.md"
+  "tripideas/_index.md"
+}}
+
+{{ $nav := (dict
+  "title" "Main"
+  "_type" "navigation"
+  "locations" (slice "header")
+  "_id" (partial "func/GetIDString" "Main")
+) }}
+{{ $items := slice }}
+{{ range $paths }}
+  {{ with site.GetPage . }}
+    {{ $items = $items | append (dict
+        "_type" "link"
+        "linkType" "entry"
+        "entry" (dict "_type" "reference" "_ref" .File.UniqueID)
+    ) }}
+  {{ end }}
+{{ end }}
+{{ with $items }}
+  {{ $nav = merge $nav (dict "items" $items) }}
+{{ end }}
+
+{{ return $nav }}
