@@ -1,6 +1,6 @@
 
-const fs = require("fs");
-const parseObject = require('./parseObject')
+import fs from "fs"
+import parseObject from "./parseObject.js";
 const filepath = "./sanity_export/public/index.json"
 
 function jsonReader(filePath, cb) {
@@ -33,24 +33,6 @@ function gauge(current, max) {
   if(current == max - 1) {
     console.log('...100%')
   }
-}
-
-if(false) {
-  test_parse = {
-    bodyHTML: `<p>hello</p>`,
-    title: 'Hello world',
-    header: {
-      bodyHTML: `<span>damn</span>`
-    },
-    blocks: [
-      {
-        _type: "stateSection",
-        copyHTML: `<h2>title here</h2>`
-      }
-    ]
-  }
-  console.log(parseObject(test_parse))
-  return;
 }
 
 jsonReader(filepath, (err, data) => {

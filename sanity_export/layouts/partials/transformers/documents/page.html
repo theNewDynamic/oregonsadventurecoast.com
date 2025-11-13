@@ -40,6 +40,12 @@
   {{ $s.SetInMap "data" "description" . }}
 {{ end }}
 
+{{ with .Params.photo }}
+  {{ with partial "transformers/image" . }}
+    {{ $s.SetInMap "data" "heroes" (slice (dict "_type" "hero.image" "image" .)) }}
+  {{ end }}
+{{ end }}
+
 {{ with .Content }}
   {{ $s.SetInMap "data" "bodyHTML" ($.Page.RenderString .) }}
 {{ end }}
@@ -58,4 +64,5 @@
 {{ with partial "func/GetWidgets" . }}
   {{ $s.SetInMap "data" "widgets" . }}
 {{ end }}
+
 {{ return $s.Get "data" }}

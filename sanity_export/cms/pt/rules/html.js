@@ -10,7 +10,7 @@ function getVideoIdFromUrl(url) {
   }
 }
 
-module.exports = {
+export default {
   deserialize(el, next, block) {
     if(typeof el.tagName == "undefined") {
       return undefined
@@ -22,14 +22,14 @@ module.exports = {
     if(url) {
       if(getVideoIdFromUrl(url)) {
         return block({
-          _type: "blockVideo",
+          _type: "pt.video",
           id: getVideoIdFromUrl(url)
         })
       }
     }
     const html = el.outerHTML
     return block({
-      _type: 'blockHTML',
+      _type: 'pt.html',
       html
     })
   },

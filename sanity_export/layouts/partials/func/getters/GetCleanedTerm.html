@@ -1,0 +1,7 @@
+{{ $term := . }}
+{{ if in $term " - " }}
+  {{ $split := split . " - " }}
+  {{ $term = index $split 1 }}
+{{ end }}
+
+{{ return $term }}

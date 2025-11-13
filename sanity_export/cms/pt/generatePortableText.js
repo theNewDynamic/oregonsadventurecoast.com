@@ -1,13 +1,13 @@
-const { JSDOM } = require("jsdom");
-const { Schema } = require('@sanity/schema')
-const { htmlToBlocks } = require('@sanity/block-tools')
-const imageRule = require('./rules/image')
-const shortcodeRule = require('./rules/shortcode')
-const figureRule = require('./rules/figure')
-const htmlRule = require('./rules/html')
-const highlight = require("./rules/highlight");
-const pureHtml = require("./rules/pureHtml");
-module.exports = function(html) {
+import { JSDOM } from "jsdom";
+import { Schema } from '@sanity/schema';
+import { htmlToBlocks } from '@sanity/block-tools';
+import imageRule from './rules/image.js'
+import shortcodeRule from './rules/shortcode.js'
+//import figureRule from './rules/figure'
+import htmlRule from './rules/html.js'
+import highlight from "./rules/highlight.js";
+import pureHtml from "./rules/pureHtml.js";
+export default (html) => {
   // Start with compiling a schema we can work against
   const defaultSchema = Schema.compile({
     name: 'myBlog',

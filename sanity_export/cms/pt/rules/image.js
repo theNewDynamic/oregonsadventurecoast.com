@@ -6,7 +6,7 @@ What We want to return
 }
  */
 
-module.exports = {
+export default {
   deserialize(el, next, block) {
     if(typeof el.tagName == "undefined") {
       return undefined
@@ -16,20 +16,20 @@ module.exports = {
       return undefined
     }
     let src = el.getAttribute("src")
-    let public
+    let publicSrc
     let caption = ''
     if(src.includes('http') ){
-      public = src.replace('blob:', '')
+      publicSrc = src.replace('blob:', '')
     } else {
       src = src.replace('/uploads', '')
-      public = `https://www.oregonsadventurecoast.com${src}`
+      publicSrc = `https://www.oregonsadventurecoast.com${src}`
     }
     if(el.getAttribute("data-caption")) {
       caption = el.getAttribute("data-caption")
     }
     return block({
       _type: "image",
-      _sanityAsset: `image@${public}`,
+      _sanityAsset: `image@${publicSrc}`,
       caption,
     })
   },

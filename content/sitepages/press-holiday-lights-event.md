@@ -21,13 +21,13 @@ You are cordially invited to come to Coos Bay, North Bend, Charleston, Oregon, f
 
 ### Dates & Details
 
-Wednesday, November 9, 2022, from 4:00 pm to 6:30 pm  
+Wednesday, November 9, 2022, from 4:00 pm to 6:30 pm
 Shore Acres State Park - 89039 Cape Arago Hwy, Charleston, Oregon
 
-**FREE OVERNIGHT STAY!**  
+**FREE OVERNIGHT STAY!**
 We are able to offer lodging at one of our local hotels, for you or editorial/reporter from your organization, for November 9, 2022. (1 room per organization)
 
-**ADDITIONAL FEATURE**  
+**ADDITIONAL FEATURE**
 Shore Acres State Park is regularly identified as THE BEST location for Pacific storm watching on the entire Oregon coast. You'll have an opportunity to see the best viewing spots in advance of the January - March storm watching season.
 
 {{< spacer 30 >}}

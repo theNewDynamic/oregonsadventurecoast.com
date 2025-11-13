@@ -124,4 +124,13 @@
   {{ end }}
 {{ end }}
 
+{{ with .Params.address.city }}
+  {{ if in (slice "Coos Bay" "North Bend" "Charleston") . }}
+    {{ $s.SetInMap "data" "town" (dict
+        "_type" "reference"
+        "_ref" (partial "func/GetTermID" (dict "term" (urlize .) "taxonomy" "towns"))
+    ) }}
+  {{ end }}
+{{ end }}
+
 {{ return $s.Get "data" }}

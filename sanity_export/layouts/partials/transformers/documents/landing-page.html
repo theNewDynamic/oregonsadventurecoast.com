@@ -1,0 +1,43 @@
+{{ $s := newScratch }}
+
+{{ $s.Set "data" (partial "transformers/documents/page" .) }}
+{{ $s.SetInMap "data" "_type" "sectionLandingPage" }}
+
+{{ $sectionMapping := dict
+  "adventures.md" (dict "title" "Adventures")
+  "lodging.md" (dict "title" "Lodging" "section" "lodging")
+  "calendar.md" (dict "title" "Calendar" "section" "calendar")
+  "events.md" (dict "title" "Events" "section" "events")
+  "dining.md" (dict "title" "Dining" "section" "dining")
+  "adventure/shopping.md" (dict "title" "Shopping" "section" "shopping")
+  "equipment-rent-and-buy.md" (dict "title" "Equipments" "section" "equipments")
+  "tour-guides-and-charters.md" (dict "title" "Tours" "section" "tours")
+}}
+
+{{ with index $sectionMapping .File.Path }}
+  {{ with .title }}
+    {{ $s.SetInMap "data" "title" . }}
+  {{ end }}
+  {{ with .section }}
+    {{ $s.SetInMap "data" "section" . }}
+  {{ end }}
+{{ end }}
+
+{{ $blocks := slice }}
+{{ with $.Params.boxes }}
+  {{ $blocks = $blocks | append (partial "transformers/blocks/cards" (dict
+  "block" (dict
+    "title" "Some Adventures"
+    "boxes" .
+  )
+)) }}
+{{ end }}
+{{ with $blocks }}
+  {{ $s.SetInMap "data" "blocks" . }}
+{{ end }}
+
+{{ $s.SetInMap "data" "slug" (dict
+  "_type" "slug"
+  "current" .File.BaseFileName
+)  }}
+{{ return $s.Get "data" }}

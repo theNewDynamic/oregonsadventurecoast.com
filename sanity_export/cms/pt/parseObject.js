@@ -1,4 +1,4 @@
-const generatePortableText = require('./generatePortableText')
+import generatePortableText from './generatePortableText.js'
 
 const parseObject = (theObject) => {
   if(Array.isArray(theObject)){
@@ -18,4 +18,4 @@ const parseObject = (theObject) => {
   }
 }
 
-module.exports = parseObject
+export default parseObject

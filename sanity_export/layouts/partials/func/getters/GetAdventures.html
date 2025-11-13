@@ -1,7 +1,9 @@
 {{ $entries := slice }}
 
 {{ with where site.AllPages "Type" "adventure" }}
-  {{ $entries = $entries | append (apply . "partial" "transformers/documents/adventure" ".") }}
+  {{ with where . ".File.Path" "ne" "adventure/shopping.md" }}
+    {{ $entries = $entries | append (apply . "partial" "transformers/documents/adventure" ".") }}
+  {{ end }}
 {{ end }}
 
 {{ return $entries }}

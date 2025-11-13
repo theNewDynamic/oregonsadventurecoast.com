@@ -1,0 +1,20 @@
+
+{{ $input := where site.RegularPages ".Type" "page" }}
+{{ $paths := slice
+  "adventures.md"
+  "lodging.md"
+  "calendar.md"
+  "dining.md"
+  "events.md"
+  "store.md"
+  "equipment-rent-and-buy.md"
+  "tour-guides-and-charters.md"
+}}
+{{ $input = where $input ".File.Path" "in" $paths }}
+{{ $entries := slice }}
+{{ $input = $input | append (site.GetPage "adventure/shopping.md") }}
+{{ with $input }}
+  {{ $entries = $entries | append (apply . "partial" "transformers/documents/landing-page" ".") }}
+{{ end }}
+
+{{ return $entries }}

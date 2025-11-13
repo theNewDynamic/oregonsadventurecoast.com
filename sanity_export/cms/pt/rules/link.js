@@ -6,7 +6,7 @@ What We want to return
 }
  */
 
-module.exports = {
+export default {
   deserialize(el, next, block) {
     if(typeof el.tagName == "undefined") {
       return undefined
@@ -15,16 +15,16 @@ module.exports = {
     if (el.tagName.toLowerCase() != 'a') {
       return undefined
     }
-    let public
+    let publicSrc
     const href = el.getAttribute("href")
     if(!href.startsWith('/uploads/') ){
       return undefined
     } else {
-      public = `{domain}${href}`
+      publicSrc = `{domain}${href}`
     }
     return block({
       _type: "file",
-      _sanityAsset: `file@${public}`,
+      _sanityAsset: `file@${publicSrc}`,
     })
   },
 }

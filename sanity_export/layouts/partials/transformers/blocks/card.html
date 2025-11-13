@@ -1,0 +1,28 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" (dict "_type" "genericItem") }}
+{{ $s.Set "secondary" dict }}
+{{ with .desktoptitle }}
+  {{ $s.SetInMap "data" "title" . }}
+{{ end }}
+
+{{ with .desktopphoto }}
+  {{ $s.SetInMap "data" "image" (partial "transformers/image" .) }}
+{{ end }}
+
+{{ with .url }}
+  {{ $s.SetInMap "data" "url" . }}
+{{ end }}
+
+{{ with .hoverdescription }}
+  {{ $s.SetInMap "data" "description" . }}
+{{ end }}
+
+{{ with .hovertitle }}
+  {{ $s.SetInMap "secondary" "title" . }}
+{{ end }}
+
+{{ with $s.Get "secondary" }}
+  {{ $s.SetInMap "data" "secondary" . }}
+{{ end }}
+
+{{ return $s.Get "data" }}

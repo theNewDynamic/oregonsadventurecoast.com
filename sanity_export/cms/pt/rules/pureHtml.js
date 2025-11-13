@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   deserialize(el, next, block) {
     if(typeof el.tagName == "undefined") {
       return undefined
@@ -7,13 +7,11 @@ module.exports = {
     if(!["div", "script"].includes(tagName)) {
       return undefined
     }
-
     if(el.style || tagName == "script") {
       const html = el.outerHTML
       return block({
-        _type: 'pt.codeHtml',
-        code:html,
-        language: 'html',
+        _type: 'pt.html',
+        html,
       })
     }
     return undefined

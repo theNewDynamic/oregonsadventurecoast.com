@@ -1,0 +1,20 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+{{ with $.block }}
+  {{ $s.SetInMap "data" "_type" "blocks/cards" }}
+  {{ with .title }}
+    {{ $s.SetInMap "data" "title" . }}
+  {{ end }}
+  {{ with .boxes }}
+    {{ $boxes := slice }}
+    {{ range $box := . }}
+      {{ $boxes = $boxes | append (partial "transformers/blocks/card" .) }}
+    {{ end }}
+    {{ with $boxes }}
+      {{ $s.SetInMap "data" "entries" . }}
+    {{ end }}
+  {{ end }}
+
+{{ end }}
+
+{{ return $s.Get "data" }}

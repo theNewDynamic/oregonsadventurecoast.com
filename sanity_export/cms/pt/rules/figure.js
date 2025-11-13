@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   deserialize(el, next, block) {
     if(typeof el.tagName == "undefined") {
       return undefined

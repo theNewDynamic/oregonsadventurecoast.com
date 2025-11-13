@@ -1,16 +1,53 @@
 {{ $s := newScratch }}
 {{ $s.Set "data" dict }}
+{{ $slugMap := dict
+  "Meeting Facilities" "meeting"
+  "Handicap Accessible" "accessible"
+  "Restaurant/Bar/Rm Service" "restaurant"
+  "EV Charging" "evcharge"
+  "Chamber Member" "chamber"
+  "Pool/Hot Tub" "pool"
+  "Pet Friendly" "pet"
+  "Fitness Center" "fitness"
+  "Kitchens Available" "kitchen"
+  "WiFi Available" "wifi"
+  "Continental or Full Bkfst" "breakfast"
+}}
+
+{{ $descMap := (dict
+  "$" "Up to $99"
+  "$$" "$100 to $199"
+  "$$$" "$200+"
+) }}
+
 {{ $s.SetInMap "data" "title" .term }}
 {{ $s.SetInMap "data" "_type" .taxonomy }}
 {{ $slug := $.term }}
 {{ if in (slice "$" "$$" "$$$") $slug }}
   {{ $slug = len $slug }}
 {{ end }}
+
 {{ $slug := partial "func/Slugify" (urlize $slug) }}
+
 {{ $id := partial "func/GetTermID" (dict
   "taxonomy" $.taxonomy
   "term" $slug
 ) }}
+
+{{ if eq .taxonomy "taxonomyAmenity" }}
+  {{ $identifier := $slug }}
+  {{ with index $slugMap .term }}
+    {{ $identifier = . }}
+  {{ end }}
+  {{ $s.SetInMap "data" "identifier" $identifier }}
+{{ end }}
+
+{{ if eq .taxonomy "taxonomyCost" }}
+  {{ with index $descMap .term }}
+    {{ $s.SetInMap "data" "description" . }}
+  {{ end }}
+{{ end }}
+
 {{ $s.SetInMap "data" "_id" $id }}
 {{ $s.SetInMap "data" "slug" (dict
   "_type" "slug"
