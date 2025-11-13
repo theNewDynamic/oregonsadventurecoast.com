@@ -6,7 +6,7 @@ enddate: '2026-03-15'
 address:
   city: North Bend
   state: Oregon
-  street: The Mill Casino • Hotel & RV Park
+  street: Ko-Kwel Casino Resort | Coos Bay
   street2: 3201 Tremont Avenue
   zip: 97459
 website: https://clambakemusic.com/
@@ -36,7 +36,7 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 
 *Interesting fact! A Clambake is an old musical term for a Jam Session!*
 
-### Tickets on sale Soon!
+### <a href="https://www.eventbrite.com/e/south-coast-clambake-music-festival-2026-tickets-1816408710349" target="_blank" rel="noopener">Tickets on sale NOW!</a>
 
 ### {{< spacer "30" >}}
 
