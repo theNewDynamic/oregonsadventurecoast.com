@@ -1,3 +1,4 @@
+import cleanHtml from '../cleanHtml.js'
 import parseObject from '../parseObject.js'
 
 export default {
@@ -8,7 +9,7 @@ export default {
     if (el.id !== 'shortcode') {
       return undefined
     }
-    const processedHtml = el.innerHTML.replace('<strong>', '').replace('</strong>', '')
+    const processedHtml = cleanHtml(el.innerHTML)
     let parameters = JSON.parse(processedHtml)
     if (parameters.size && parameters._type == "pt.spacer") {
       parameters.size = Math.floor(parameters.size / 10)

@@ -24,6 +24,10 @@
 {{ end }}
 
 
+{{ with .Content }}
+  {{ $s.SetInMap "data" "bodyHTML" (partial "transformers/body" .) }}
+{{ end }}
+
 
 {{ $address := dict }}
 {{ with .Params.address }}

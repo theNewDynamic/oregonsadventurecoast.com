@@ -1,0 +1,10 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+
+{{ with . }}
+  {{ with partial "transformers/image" . }}
+    {{ $s.SetInMap "data" "desktop" . }}
+  {{ end }}
+{{ end }}
+
+{{ return $s.Get "data" }}
