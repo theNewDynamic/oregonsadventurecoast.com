@@ -3,6 +3,12 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
+    photo: /img/holiday-lights-hm-slide-cover-2022.jpg
+    title_mobile:
+    photo_mobile: /img/holiday-lights-mobile-slider-2022.jpg
+    url: /event/annual-holiday-lights-at-shore-acres
+    video:
+  - title:
     photo: /img/fall-15-special-hm-pg-slider-2048x850-2025.jpg
     title_mobile:
     photo_mobile: /img/fall-15-mobile-slider-2025.jpg
@@ -13,12 +19,6 @@ slideshow:
     title_mobile:
     photo_mobile:
     url: /fishing
-    video:
-  - title:
-    photo: /img/holiday-lights-hm-slide-cover-2022.jpg
-    title_mobile:
-    photo_mobile: /img/holiday-lights-mobile-slider-2022.jpg
-    url: /event/annual-holiday-lights-at-shore-acres
     video:
   - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
