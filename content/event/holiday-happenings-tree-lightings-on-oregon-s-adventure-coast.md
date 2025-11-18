@@ -127,7 +127,7 @@ The North Bend Presbyterian Church, 2238 Pony Creek Road, will be filled with th
 
 #### December 8, 2025<br>Coos Singers Community Choir Holiday Concert
 
-Marshfield High's Auditorium will be filled with the sounds of the holidays as the Coos Singers take the stage for their annual Holiday Concert. The concert begins at 7pm and admission is free.
+Marshfield High's Auditorium will be filled with the sounds of the holidays as the Coos Singers take the stage for their annual “SING WE NOW...” Holiday Concert. This year, special guest cellist, Dace Gregory, will join the choir. This Langlois resident, born in Latvia, is an internationally recognized musician. The concert begins at 7pm and admission is free. Donations gratefully accepted.
 
 {{< spacer "50" >}}
 
