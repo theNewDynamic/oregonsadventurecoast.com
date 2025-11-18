@@ -1,6 +1,6 @@
 {{ $entries := slice }}
 
-{{ with where site.AllPages "Type" "blog" }}
+{{ with where site.RegularPages "Type" "blog" }}
   {{ $entries = $entries | append (apply . "partial" "transformers/documents/post" ".") }}
 {{ end }}
 

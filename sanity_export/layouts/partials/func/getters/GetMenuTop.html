@@ -1,0 +1,39 @@
+{{ $menu := slice }}
+
+{{ $entries := slice
+  (dict
+    "path" "blog/_index.md"
+    "title" "Blog"
+  )
+  (dict
+    "path" "sitepages/traveler-s-information.md"
+    "title" "Travel Info"
+  )
+  (dict
+    "path" "sitepages/contact-us.md"
+    "title" "Contact Us"
+  )
+}}
+
+{{ $nav := (dict
+  "title" "Top"
+  "_type" "navigation"
+  "locations" (slice "top")
+  "_id" (partial "func/GetIDString" "Top")
+) }}
+{{ $items := slice }}
+{{ range $entry := $entries }}
+  {{ with site.GetPage .path }}
+    {{ $items = $items | append (dict
+        "_type" "link"
+        "linkType" "entry"
+        "entry" (dict "_type" "reference" "_ref" .File.UniqueID)
+        "copy" $entry.title
+    ) }}
+  {{ end }}
+{{ end }}
+{{ with $items }}
+  {{ $nav = merge $nav (dict "items" $items) }}
+{{ end }}
+
+{{ return $nav }}

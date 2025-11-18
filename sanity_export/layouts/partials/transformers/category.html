@@ -1,12 +1,18 @@
 {{ $s := newScratch }}
 {{ $s.Set "data" (dict
-  "_type" "taxonomyPostsCategory"
+  "_type" "taxonomyCategory"
 ) }}
 
 {{ $s.SetInMap "data" "title" .Title }}
 {{ $s.SetInMap "data" "_id" (partial "func/GetTermID" (dict
-  "taxonomy" "category"
+  "taxonomy" "taxonomyCategory"
   "term" .Title
 )) }}
+
+{{ $slug := partial "func/GetSlug" .Page }}
+{{ $s.SetInMap "data" "slug" (dict
+  "_type" "slug"
+  "current" $slug
+) }}
 
 {{ return $s.Get "data" }}

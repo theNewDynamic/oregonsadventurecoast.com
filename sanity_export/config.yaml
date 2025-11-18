@@ -27,6 +27,11 @@ module:
     excludeFiles:
     # Sports facilities page is breaking export... not sure why.
     - sitepages/sports-facilities.md
+    - blog/2017-08-16-bay-area-fun-festival-in-coos-bay-oregon.md
+    - blog/blogmill-luck-salmon-celebration-returns-to-oregon-s-adventure-coast.md
+    - blog/book-your-2018-holiday-lights.md
+    - blog/countdown-to-the-2023-annular-solar-eclipse.md
+    - blog/eleven-epic-sunsets-captured-on-oregon-s-adventure-coast.md
   - source: layouts
     target: layouts
   - source: data

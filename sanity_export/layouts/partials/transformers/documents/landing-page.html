@@ -10,6 +10,7 @@
   "events.md" (dict "title" "Events" "section" "events")
   "dining.md" (dict "title" "Dining" "section" "dining")
   "tripideas/_index.md" (dict "title" "Trip Ideas" "section" "tripideas")
+  "blog/_index.md" (dict "title" "Blog" "section" "blog")
   "adventure/shopping.md" (dict "title" "Shopping" "section" "shopping")
   "equipment-rent-and-buy.md" (dict "title" "Equipments" "section" "equipments")
   "tour-guides-and-charters.md" (dict "title" "Tours" "section" "tours")
@@ -38,7 +39,7 @@
 {{ end }}
 {{ $slug := .File.BaseFileName }}
 {{ if eq $slug "_index" }}
-  {{ $slug = "tripideas" }}
+  {{ $slug = trim .File.Dir "/" }}
 {{ end }}
 {{ $s.SetInMap "data" "slug" (dict
   "_type" "slug"

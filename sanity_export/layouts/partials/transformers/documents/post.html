@@ -11,12 +11,10 @@
   {{ $s.SetInMap "data" "publishedAt" . }}
 {{ end }}
 
-{{ with .Params.images }}
-  {{ with index . 0 }}
+{{ with .Params.image }}
     {{ with partial "transformers/image" . }}
-      {{ $s.SetInMap "data" "imageMain" . }}
+      {{ $s.SetInMap "data" "image" . }}
     {{ end }}
-  {{ end }}
 {{ end }}
 
 {{ with $.GetTerms "categories" }}
@@ -24,10 +22,10 @@
   {{ range . }}
     {{ $categories = $categories | append (dict
       "_type" "reference"
-      "_ref" (partial "func/GetTermID" (dict "taxonomy" "category" "term" .Page.Title))  
+      "_ref" (partial "func/GetTermID" (dict "taxonomy" "taxonomyCategory" "term" .Page.Title))
     ) }}
   {{ end }}
-  {{ $s.SetInMap "data" "categories" $categories }}
+  {{ $s.SetInMap "data" "taxonomyCategories" $categories }}
 {{ end }}
 
 {{ $source := dict }}
@@ -39,15 +37,6 @@
 {{ end }}
 {{ with $source }}
   {{ $s.SetInMap "data" "source" . }}
-{{ end }}
-
-{{ with .Params.related_book }}
-  {{ with site.GetPage . }}
-    {{ $s.SetInMap "data" "related_books" (slice (dict
-      "_type" "reference"
-      "_ref" .File.UniqueID
-    )) }}
-  {{ end }}
 {{ end }}
 
 {{ with .Content }}
