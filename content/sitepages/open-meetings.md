@@ -44,7 +44,7 @@ The presiding office has the inherent authority to keep order and impost reasona
 
 {{< spacer "50" >}}
 
-#### [**Ask to be added to the Public Notice Announcement!**](mailto:janice@oregonsadventurecoast.com "Add me to the Public Notice Announcement")
+#### <a href="https://www.oregonsadventurecoast.com/local-industry-resources" title="Add me to the Public Notice Announcement" target="_blank" rel="noopener"><strong>Ask to be added to the Public Notice Announcement!</strong></a>
 
 {{< spacer 50 >}}<img title="Click and drag to move" height="15" width="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" /><img title="Click and drag to move" height="15" width="15" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" />
 
