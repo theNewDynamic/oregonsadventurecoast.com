@@ -145,7 +145,7 @@ Christmas “Little Ole Opry on the Bay” returns to the Liberty Theatre just i
 
 #### December 5, 2025<br>Empire District Tree Lighting, Gingerbread House Display and Santa Visit
 
-The Empire District of Coos Bay will hold their annual Tree Lighting, Gingerbread House display, Visits with Santa, and Star of Hope Holiday Open House from 5pm to 7pm. Vote for your favorite Empire District business decorations. Take photos with Santa and enjoy cookies, cider, caroling and more!
+The Empire District of Coos Bay will hold their annual Tree Lighting, Gingerbread House display, Visits with Santa, and Star of Hope Holiday Open House from 5pm to 7pm. Vote for your favorite Empire District business decorations. Take photos with Santa and enjoy cookies, cider, caroling and more! <a href="https://www.facebook.com/profile.php?id=100068452241223" target="_blank" rel="noopener">More Information Here</a>.
 
 {{< spacer 50 >}}
 
