@@ -32,6 +32,8 @@ warning: false
 
 *In 2021, we published answers to* [*Our Most Frequently Asked Questions About Winter Storm Watching*](https://www.oregonsadventurecoast.com/blog/answers-to-our-most-frequently-asked-questions-about-winter-storm-watching/)*, but we thought we’d dive in a little deeper to explain the difference between High Surf and King Tides (this is understandably a confusing issue).*
 
+<a href="https://www.koin.com/video/when-to-see-oregons-stormy-coastline/11258861" target="_blank" rel="noopener"><strong>Click here to watch </strong></a>**KOIN 6 Chief Meteorologist Josh Cozart talks with Janice Langlinais, executive director of Oregon's Adventure Coast, about what makes the perfect wave-watching conditions along the southern Oregon Coast.**
+
 **What are King Tides?** The King Tides are winter’s highest tide sequences on the Oregon Coast, and they occur when the Earth, moon, and sun are aligned to produce the greatest tidal effects of the year. The 2025 king tides in Oregon are scheduled for **November 5–7, December 4–6, and January 1–4, 2026**.
 
 **How is a King Tide Different from a Normal High Tide?** King Tides bring unusually high water levels, and they can cause local tidal flooding. King Tides preview how sea-level rise will affect coastal places.
