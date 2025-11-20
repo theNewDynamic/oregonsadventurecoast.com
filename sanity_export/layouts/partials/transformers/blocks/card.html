@@ -10,11 +10,26 @@
 {{ end }}
 
 {{ with .url }}
-  {{ $s.SetInMap "data" "url" . }}
+  {{ $link := (dict
+    "linkType" "url"
+    "url" .
+  ) }}
+  {{ with where site.RegularPages ".RelPermalink" (print . "/") }}
+    {{ with index . 0 }}
+      {{ $link = (dict
+        "linkType" "entry"
+        "entry" (dict
+          "_type" "reference"
+          "_ref" (partial "func/GetID" .)
+        )
+      ) }}
+    {{ end }}
+  {{ end }}
+  {{ $s.SetInMap "data" "link" $link }}
 {{ end }}
 
 {{ with .hoverdescription }}
-  {{ $s.SetInMap "data" "description" . }}
+  {{ $s.SetInMap "data" "copyHTML" . }}
 {{ end }}
 
 {{ with .hovertitle }}
