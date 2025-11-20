@@ -2,4 +2,4 @@
 {{- if not (in $color "#") -}}
   {{- $color = print "#" $color -}}
 {{- end -}}
-<span style="color: {{ $color }}">{{ .Inner | markdownify }}</span>
+<span class="highlight" style="color: {{ $color }}">{{ .Inner | markdownify }}</span>

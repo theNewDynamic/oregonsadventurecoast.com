@@ -6,7 +6,7 @@ export default {
     if (el.tagName !== 'span') {
       return undefined
     }
-    if(el.style.color) {
+    if(el.style.color && el.classList.contains('highlight')) {
       return {
         _type: 'span',
         marks: [
