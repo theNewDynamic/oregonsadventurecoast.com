@@ -41,7 +41,9 @@ aliases:
 
 #### November 14-15, 2025<br>Downtown Coos Bay Holiday Open House
 
-Get into the holiday spirit and work on your gift-giving lists at the Annual Downtown Coos Bay Holiday Open House. Browse participating shops for gift-giving inspirations and holiday home decor while entering to win door prizes. Keep your receipts for purchase in the downtown area between November 14-29 and redeem them for a holiday mug on Shop Small Saturday, November 29th at Jennie's Shoes!
+Get into the holiday spirit and work on your gift-giving lists at the <a href="https://coosbaydowntown.com/2025/10/annual-downtown-holiday-open-house/" target="_blank" rel="noopener">Annual Downtown Coos Bay Holiday Open House</a>. Browse participating shops for gift-giving inspirations and holiday home decor while entering to win door prizes. Enjoy refreshments and enter to win door prizes. You just might be able to finish that gift giving list early! Start your shopping journey either downtown at Leaf’s Treehouse Mini Mall – 311 S Broadway or at the Coos Bay Village at Checkerberry’s Flowers & Gifts – 1290 N. Bayshore Drive where you can pick up the Downtown Open House list of participating businesses.
+
+Keep your receipts for purchase in the downtown area between November 14-29 and redeem them for a holiday mug on Shop Small Saturday, November 29th at Jennie's Shoes!
 
 {{< spacer 50 >}}
 
@@ -53,7 +55,7 @@ Bring your friends, bring your family and enjoy the ONLY <a href="https://www.or
 
 ![Holiday Lights at Shore Acres State Park in Charleston Oregon](/img/holiday-lights-sub-section-hdr.jpg)
 
-#### November 27-December 31, 2024<br>Holiday Lights at Shore Acres State Park
+#### November 27-December 31, 2025<br>Holiday Lights at Shore Acres State Park
 
 More info on this very special holiday event, brought to us by the [**Friends of Shore Acres**](https://shoreacres.net/about-us/about-friends-of-shore-acres-inc/) since 1986, and the Timed Parking System, [**click here**](/event/annual-holiday-lights-at-shore-acres/)!
 
@@ -73,7 +75,7 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 ![Ceramic bells hanging in a display](/img/ceramic-bells-sub-section-hdr.jpg "Holiday Market at Coos history museum")
 
-#### November 28th & 29th<br>Holiday Market at Coos History Museum
+#### November 28-29, 2025<br>Holiday Market at Coos History Museum
 
 Join local artisans, crafts people,  food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Market is Free!
 
@@ -103,7 +105,7 @@ In Coos Bay, enjoy the **Nog & Cider Walk** from 11am to 3pm at participating bu
 
 ![](/img/elfonshelfnb.jpg)
 
-#### December TBD<br>Elf on the Shelf Makes Mischief in North Bend!
+#### December 1st through 12th<br>Elf on the Shelf Makes Mischief in North Bend!
 
 Find the Mischievous Elf on the Shelf at participating businesses in North Bend! During the 12 days of Christmas, each participating business will have its own mischievous Elf that moves within the business daily! Find the Elf and enter for a chance to win a wonderful gift. You can enter to win at each location. There will be one winner per business, but winners can only win from one business.&nbsp;
 
@@ -111,7 +113,7 @@ Find the Mischievous Elf on the Shelf at participating businesses in North Bend!
 
 ![](/img/fest-of-trees.jpeg)
 
-#### December 2, 3 & 4, 2024<br>Festival of Trees Holiday Showcase and Benefit Auction
+#### December 2, 3 & 4, 2025<br>Festival of Trees Holiday Showcase and Benefit Auction
 
 Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) (*formerly The Mill Casino \* Hotel & RV Park*) to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp;Trees and wreathes on display December 2nd & 3rd. Auction and dinner on December 4th. All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
 
@@ -125,7 +127,7 @@ The North Bend Presbyterian Church, 2238 Pony Creek Road, will be filled with th
 
 #### December 8, 2025<br>Coos Singers Community Choir Holiday Concert
 
-Marshfield High's Auditorium will be filled with the sounds of the holidays as the Coos Singers take the stage for their annual Holiday Concert. The concert begins at 7pm and admission is free.
+Marshfield High's Auditorium will be filled with the sounds of the holidays as the Coos Singers take the stage for their annual “SING WE NOW...” Holiday Concert. This year, special guest cellist, Dace Gregory, will join the choir. This Langlois resident, born in Latvia, is an internationally recognized musician. The concert begins at 7pm and admission is free. Donations gratefully accepted.
 
 {{< spacer "50" >}}
 
@@ -143,7 +145,7 @@ Christmas “Little Ole Opry on the Bay” returns to the Liberty Theatre just i
 
 #### December 5, 2025<br>Empire District Tree Lighting, Gingerbread House Display and Santa Visit
 
-The Empire District of Coos Bay will hold their annual Tree Lighting, Gingerbread House display, Visits with Santa, and Star of Hope Holiday Open House from 5pm to 7pm. Vote for your favorite Empire District business decorations. Take photos with Santa and enjoy cookies, cider, caroling and more!
+The Empire District of Coos Bay will hold their annual Tree Lighting, Gingerbread House display, Visits with Santa, and Star of Hope Holiday Open House from 5pm to 7pm. Vote for your favorite Empire District business decorations. Take photos with Santa and enjoy cookies, cider, caroling and more! <a href="https://www.facebook.com/profile.php?id=100068452241223" target="_blank" rel="noopener">More Information Here</a>.
 
 {{< spacer 50 >}}
 

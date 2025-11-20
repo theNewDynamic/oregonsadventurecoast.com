@@ -12,8 +12,8 @@ When you select Oregon’s Adventure Coast for your meeting, convention, group t
 
 * <a href="/img/Catering-Options-3-24.pdf" target="_blank" rel="noopener">Catering Options PDF</a>
 * [Event & Wedding Services PDF](/img/event-wedding-services.pdf)
-* <a href="/img/Group-Attractions-10-2023.pdf" target="_blank" rel="noopener">Group Friendly Attractions PDF</a>
-* <a href="/img/Group-Friendly-Properties-10-23.pdf" target="_blank" rel="noopener">Group-Friendly Lodging Properties PDF</a>
+* <a href="/img/group-attractions-11-2025.pdf" target="_blank" rel="noopener">Group Friendly Attractions PDF</a>
+* <a href="/img/group-friendly-properties-2025.pdf" target="_blank" rel="noopener">Group-Friendly Lodging Properties PDF</a>
 * [Mileage Chart PDF](/img/mileage-chart.pdf)
 * <a href="/img/Transportation-Options-3-24.pdf" target="_blank" rel="noopener">Transportation Options PDF</a>
 
