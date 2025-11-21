@@ -10,4 +10,13 @@
 
 {{ $s.SetInMap "data" "slug" (partial "transformers/slug" .) }}
 
+{{ with .Params.aliases }}
+  {{ $aliases := slice }}
+  {{ range . }}
+    {{ $clean := strings.TrimSuffix "/" . }}
+    {{ $aliases = $aliases | append (print $clean "/") }}
+  {{ end }}
+  {{ $s.SetInMap "data" "aliases" $aliases }}
+{{ end }}
+
 {{ return $s.Get "data" }}

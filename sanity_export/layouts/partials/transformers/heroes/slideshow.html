@@ -1,0 +1,14 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" (dict "_type" "hero.carousel" "titleHTML" `Unpack Once.
+Explore all week.`) }}
+
+{{ $slides := slice }}
+{{ range $slide := . }}
+  {{ $slides = $slides | append (partial "transformers/heroes/slide" .) }}
+{{ end }}
+
+{{ with $slides }}
+  {{ $s.SetInMap "data" "entries" . }}
+{{ end }}
+
+{{ return $s.Get "data" }}

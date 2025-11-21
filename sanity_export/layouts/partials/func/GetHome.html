@@ -1,5 +1,0 @@
-{{ $home := dict }}
-{{ with site.Sites.First.Home }}
-  {{ $home = partial "transformers/home" . }}
-{{ end }}
-{{ return $home }}

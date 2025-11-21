@@ -1,6 +1,12 @@
 
 {{ $input := where site.RegularPages ".Type" "page" }}
+{{ $input = $input | append (site.GetPage "adventure/shopping.md") }}
+{{ $input = $input | append (site.GetPage "tripideas/_index.md") }}
+{{ $input = $input | append (site.GetPage "blog/_index.md") }}
 {{ $paths := slice
+  "adventure/shopping.md"
+  "blog/_index.md"
+  "tripideas/_index.md"
   "adventures.md"
   "lodging.md"
   "calendar.md"
@@ -11,10 +17,8 @@
   "tour-guides-and-charters.md"
 }}
 {{ $input = where $input ".File.Path" "in" $paths }}
+
 {{ $entries := slice }}
-{{ $input = $input | append (site.GetPage "adventure/shopping.md") }}
-{{ $input = $input | append (site.GetPage "tripideas/_index.md") }}
-{{ $input = $input | append (site.GetPage "blog/_index.md") }}
 {{ with $input }}
   {{ $entries = $entries | append (apply . "partial" "transformers/documents/landing-page" ".") }}
 {{ end }}

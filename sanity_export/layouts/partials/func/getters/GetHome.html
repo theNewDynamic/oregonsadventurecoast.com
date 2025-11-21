@@ -1,0 +1,5 @@
+{{ $home := dict }}
+{{ with site.Home }}
+  {{ $home = partial "transformers/documents/home" . }}
+{{ end }}
+{{ return slice $home }}

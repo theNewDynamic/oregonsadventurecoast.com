@@ -1,0 +1,17 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" (dict "_type" "hero.carousel.image") }}
+
+{{ $responsiveImage := dict }}
+{{ with .photo }}
+  {{ $responsiveImage = merge $responsiveImage (dict "desktop" (partial "transformers/image" .)) }}
+{{ end }}
+{{ with .photo_mobile }}
+  {{ $responsiveImage = merge $responsiveImage (dict "mobile" (partial "transformers/image" .)) }}
+{{ end }}
+{{ with $responsiveImage }}
+  {{ $s.SetInMap "data" "responsiveImage" . }}
+{{ end }}
+{{ with .url }}
+  {{ $s.SetInMap "data" "link" (dict "linkType" "url" "url" .) }}
+{{ end }}
+{{ return $s.Get "data" }}
