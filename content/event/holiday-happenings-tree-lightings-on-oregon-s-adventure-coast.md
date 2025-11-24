@@ -87,10 +87,6 @@ Join local artisans, crafts people,  food vendors, and more for your annual Holi
 
 ***NOTE: This event is on Saturday this year.*** Join Santa at **Coos Bay Visitor Center** to share your wish list and get your holiday photo from 2:30 to 4:30pm, then meet Santa at 5pm at **Coos Bay City Hall** for  the **Walking Lighted Parade** to the Visitor Center for the **Coos Bay Tree Lighting**! The Tree Lighting event begins with cookies and cider in the Visitor Center at 4:30pm for those who do not wish to be part of the parade. Santa will light the tree at 5:30pm in the Visitor Center parking lot located at 50 Central Ave at Highway 101.
 
-&nbsp;
-
-&nbsp;
-
 {{< spacer "50" >}}
 
 ![Small Business Saturday Shopping on Oregon's Adventure Coast](/img/small-business-shopping-sub-section-hdr.jpg)
@@ -115,7 +111,7 @@ Find the Mischievous Elf on the Shelf at participating businesses in North Bend!
 
 #### December 2, 3 & 4, 2025<br>Festival of Trees Holiday Showcase and Benefit Auction
 
-Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) (*formerly The Mill Casino \* Hotel & RV Park*) to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp;Trees and wreathes on display December 2nd & 3rd. Auction and dinner on December 4th. All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
+Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) (*formerly The Mill Casino \* Hotel & RV Park*) to view the amazing trees and wreaths decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp;Trees and wreaths on display December 2nd & 3rd. Auction and dinner on December 4th. All trees will be auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
 
 {{< spacer "50" >}}
 
