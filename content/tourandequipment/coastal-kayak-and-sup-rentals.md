@@ -11,7 +11,7 @@ property_description: >-
 property_name: Coastal Kayak and SUP Rentals
 equip_type:
   - Equipment
-photo_name: /img/coastal-kayak.jpeg
+photo_name: /img/gwynami-1549.jpg
 photo_alt: Coastal Kayaks and SUP Rentals for waterways around Coos Bay!
 address:
   city: Coos Bay
