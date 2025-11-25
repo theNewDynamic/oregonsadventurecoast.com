@@ -159,7 +159,7 @@ Our region has plenty of talent, and the holiday season is a perfect time to exp
 
 ## Any Other Holiday Events we Should Mark our Calendars for?
 
-&nbsp;
+![Three friends laugh together while holding hot drinks beside the ice rink in Downtown North Bend, where visitors can enjoy the only ice skating rink on the Oregon Coast now through January 31, 2026.](/img/north-bend-ice-skating.jpg "Three friends laugh together while holding hot drinks beside the ice rink in Downtown North Bend, where visitors can enjoy the only ice skating rink on the Oregon Coast now through January 31, 2026.")
 
 In addition to performances and light displays, here are a few more holiday events you’ll want to add to your calendar.
 
