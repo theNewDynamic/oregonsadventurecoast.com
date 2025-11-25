@@ -141,7 +141,7 @@ Christmas “Little Ole Opry on the Bay” returns to the Liberty Theatre just i
 
 {{< spacer 50 >}}
 
-![](/img/empire-treelighting-sub-section-hdr.jpg)
+![family standing in front of a christmas tree lighting](/img/empire-treelighting-sub-section-hdr.jpg)
 
 #### December 5, 2025<br>Empire District Tree Lighting, Gingerbread House Display and Santa Visit
 
