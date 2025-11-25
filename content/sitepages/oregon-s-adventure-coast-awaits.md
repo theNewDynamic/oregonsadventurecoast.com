@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Oregon’s Adventure Coast Awaits!
-draft: true
+draft: false
 url: /sfo
 layout: adventure-sidebar
 photo: /img/denver-to-oth-page-hdr-2048x530.jpg
@@ -10,7 +10,7 @@ aliases:
 ---
 ####
 
-![Sunset view of Oregon Coast cliffs with text promoting Daily Direct Flight to the Oregon Coast](/img/denver-page-sub-head-02.jpg)
+&nbsp;
 
 Oregon’s Adventure Coast is excited to be **THE** Oregon Coast destination for nonstop flights from San Francisco to North Bend, Oregon **(SFO to OTH).** <a href="https://www.united.com/en/us" target="_blank" rel="noopener">United Airlines</a> is offering several nonstop flights a week to Oregon's South Coast and the only commercial airport on the Oregon Coast. You may already know our area—or perhaps you’ve heard of us because of the world-renowned [Bandon Dunes Golf Resort](https://bandondunesgolf.com), just down the road. Either way, when you need a new outdoor adventure, you’ve found it.  We feel a strong kinship with our friends in the Bay Area, who share our passion for outdoor adventure, big views, and easy access to nature.
 
