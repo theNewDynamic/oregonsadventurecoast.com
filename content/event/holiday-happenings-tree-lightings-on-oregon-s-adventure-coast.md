@@ -73,7 +73,7 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 {{< spacer 50 >}}
 
-![Ceramic bells hanging in a display](/img/ceramic-bells-sub-section-hdr.jpg "Holiday Market at Coos history museum")
+![Ceramic bells hanging in a display](/img/ceramic-bells-sub-section-hdr.jpg)
 
 #### November 28-29, 2025<br>Holiday Market at Coos History Museum
 
