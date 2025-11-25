@@ -121,6 +121,10 @@ Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) 
 
 The North Bend Presbyterian Church, 2238 Pony Creek Road, will be filled with the sounds of winter this year as the Bay Area Concert Band performs two concerts. The 40-plus-year-old concert band will perform various holiday selections. These concerts are Free but Donations are Welcome! Concerts are Thursday, Dec 4th at 7:30pm and Sunday, December 7th at 2:00pm.
 
+{{< spacer "50" >}}
+
+![Evergreen and holiday sheet music](/img/choir-singers-holiday-happenings-695x200-1.jpg)
+
 #### December 8, 2025<br>Coos Singers Community Choir Holiday Concert
 
 Marshfield High's Auditorium will be filled with the sounds of the holidays as the Coos Singers take the stage for their annual “SING WE NOW...” Holiday Concert. This year, special guest cellist, Dace Gregory, will join the choir. This Langlois resident, born in Latvia, is an internationally recognized musician. The concert begins at 7pm and admission is free. Donations gratefully accepted.
