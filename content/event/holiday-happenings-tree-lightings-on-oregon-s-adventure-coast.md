@@ -157,6 +157,8 @@ Downtown North Bend transforms into a **Winter Wonderland.** Dive deep into the 
 
 {{< spacer 50 >}}
 
+![cup of hot cocoa on table with evergreen](/img/hot-coca-mug-695x200.jpg)
+
 #### December 20, 2025<br>Hot Chocolate Sip N Stroll
 
 Join the Charleston Merchants Association for the **First Annual Hot Chocolate Sip N’ Stroll** on **Saturday, December 20, from 4–8 pm**. Pick up your keepsake mug, event map, and wristband at the Charleston Visitor Center (91143 Cape Arago Hwy), then enjoy sweet treats and stops at participating local shops. After the stroll, head to the Charleston Marina parking lot to catch the **Holiday Lights Santa’s Shuttle** for a festive ride to the Shore Acres Holiday Lights.
