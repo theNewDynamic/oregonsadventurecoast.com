@@ -7,6 +7,7 @@ import shortcodeRule from './rules/shortcode.js'
 import htmlRule from './rules/html.js'
 import highlight from "./rules/highlight.js";
 import pureHtml from "./rules/pureHtml.js";
+import floatImage from "./rules/floatImage.js";
 export default (html) => {
   // Start with compiling a schema we can work against
   const defaultSchema = Schema.compile({
@@ -46,6 +47,7 @@ export default (html) => {
         shortcodeRule,
         htmlRule,
         pureHtml,
+        floatImage,
         //figureRule
       ]
     }

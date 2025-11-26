@@ -1,10 +1,14 @@
 {{ $durations := partial "func/getters/GetTerms" (dict "taxonomy" "durations" "type" "taxonomyDuration") }}
 {{ $towns := partial "func/getters/GetTerms" (dict "taxonomy" "towns" "type" "taxonomyTown") }}
+{{ $taxoAdventures := partial "func/getters/GetTerms" (dict "taxonomy" "tripadventures" "type" "taxonomyTripAdventure" ) }}
 {{ $terms := slice }}
 {{ range $durations }}
   {{ $terms = $terms | append . }}
 {{ end }}
 {{ range $towns }}
+  {{ $terms = $terms | append . }}
+{{ end }}
+{{ range $taxoAdventures }}
   {{ $terms = $terms | append . }}
 {{ end }}
 {{ return $terms }}

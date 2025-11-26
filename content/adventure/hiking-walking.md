@@ -7,7 +7,7 @@ seo:
   title: Oregon Coast Outdoor Activities - Hiking/Biking | Oregon's Adventure Coast
   description: >-
     The Oregon Coast offers a variety of outdoor activities including an entire
-    system of hiking and biking trails in the immediate and surrounding area. 
+    system of hiking and biking trails in the immediate and surrounding area.
 aliases:
   - /featured-adventures/walking-hiking
   - /activities/category/hiking

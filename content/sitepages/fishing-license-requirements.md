@@ -16,7 +16,7 @@ According to Oregon fishing regulations, an Oregon fishing license is required f
 
 {{< spacer 15 >}}
 
-[{{< floatimage src="/img/odfw-logo.png" float="left" alt="Purchase a Fishing License Online from the ODFW" size="100" >}}Purchase a Fishing License or Tag Online from the Oregon Department of Fish & Wildlife.](https://myodfw.com/articles/how-buy-license-or-tag) <div style="clear:both; margin-top:15px;"></div> {{< columns number="2" >}}
+{{< floatimage src="/img/odfw-logo.png" float="left" alt="Purchase a Fishing License Online from the ODFW" size="100" >}}Purchase a Fishing License or Tag Online from the Oregon Department of Fish & Wildlife. <div style="clear:both; margin-top:15px;"></div> {{< columns number="2" >}}
 
 ![](/img/bi-mart-fishing-license-pg.jpg)
 
@@ -48,12 +48,12 @@ Get your fishing license and gear at Big 5 Sporting Goods in North Bend!
 
 ![](/img/fred-meyer.jpeg)
 
-**Fred Meyer**  
-1020 S 1st St  
-Coos Bay, OR 97420  
+**Fred Meyer**
+1020 S 1st St
+Coos Bay, OR 97420
 (541) 269-4000
 
-Fred Meyer sells fishing gear and fishing licenses for the sport fisherman, along with all the snacks, beverages, coolers, and accessories you might need for your next fishing excursion. 
+Fred Meyer sells fishing gear and fishing licenses for the sport fisherman, along with all the snacks, beverages, coolers, and accessories you might need for your next fishing excursion.
 
 divider
 
@@ -74,6 +74,6 @@ Wal-Mart sells fishing gear and fishing licenses for the sport fisherman, along 
 
 **ODFW Charleston Office**<br> 63538 Boat Basin Drive<br> Charleston, OR 97420<br> (541) 888-5515
 
-_(Licenses Only)_ ODFW's Charleston office only sells fishing licenses for those last-minute visitors who wish to go fishing while in the Charleston Marina but don't have a license. 
+_(Licenses Only)_ ODFW's Charleston office only sells fishing licenses for those last-minute visitors who wish to go fishing while in the Charleston Marina but don't have a license.
 
 {{< /columns >}}

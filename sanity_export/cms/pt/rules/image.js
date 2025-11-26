@@ -27,10 +27,18 @@ export default {
     if(el.getAttribute("data-caption")) {
       caption = el.getAttribute("data-caption")
     }
+    let link
+    if(el.parentElement.tagName.toLowerCase() == "a") {
+      link = {
+        linkType: 'url',
+        url: el.parentElement.getAttribute('href')
+      }
+    }
     return block({
       _type: "image",
       _sanityAsset: `image@${publicSrc}`,
       caption,
+      link,
     })
   },
 }

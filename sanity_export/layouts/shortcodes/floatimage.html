@@ -1,16 +1,28 @@
-{{ if eq (.Get "float") "left" }}
-    {{ .Scratch.Set "floatClass" "float-left" }}
-{{ else if eq (.Get "float") "right" }}
-    {{ .Scratch.Set "floatClass" "float-right" }}
-{{ else }}
-    {{ .Scratch.Set "floatClass" "" }}
-{{ end }}
+{{- $json := "" -}}
+{{- $float := .Get "float" -}}
+{{- $size := .Get "size" -}}
+{{- $alt := .Get "alt" -}}
+{{- $src := .Get "src" -}}
+{{- $s := newScratch -}}
+{{- $s.Set "data" (dict "_type" "image") -}}
 
-{{ if ne (.Get "size") "" }}
-    {{ .Scratch.Set "sizeVal" (.Get "size") }}
-{{ else }}
-    {{ .Scratch.Set "sizeVal" "default" }}
-{{ end }}
-<div class="m-floatimage {{ .Scratch.Get "floatClass" }} size-{{ .Scratch.Get "sizeVal" }}">
-    <img src="{{ .Get "src" | relURL }}" alt="{{ .Get "alt" }}">
-</div>
+{{- with $float -}}
+{{- $s.SetInMap "data" "display" (print "float-" .) -}}
+{{- end -}}
+{{- with $size -}}
+{{- if ne . "undefined" -}}
+{{- $s.SetInMap "data" "size" (int .) -}}
+{{- end -}}
+{{- end -}}
+{{- with $alt -}}
+{{- if ne . "undefined" -}}
+    {{- $s.SetInMap "data" "alt" . -}}
+{{- end -}}
+
+{{- end -}}
+{{- with $src -}}
+    {{- $json = merge $json (partial "transformers/image" . ) ($s.Get "data") -}}
+{{- end -}}
+{{- with $json -}}
+<div id="float-image">{{- jsonify . -}}</div>
+{{- end -}}

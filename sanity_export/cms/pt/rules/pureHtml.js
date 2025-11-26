@@ -7,7 +7,7 @@ export default {
     if(!["div", "script"].includes(tagName)) {
       return undefined
     }
-    if(el.style || tagName == "script") {
+    if(el.getAttribute('style') || tagName == "script") {
       const html = el.outerHTML
       return block({
         _type: 'pt.html',

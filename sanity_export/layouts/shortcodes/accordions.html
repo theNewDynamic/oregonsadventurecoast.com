@@ -1,3 +1,21 @@
 {{ $id := .Get "id" | default (.Get 0) }}
-{{- $json := dict "id" $id | merge (dict "_type" "pt.accordions") -}}
-<div id="shortcode">{{ jsonify $json }}</div>
+{{ $accordions := slice }}
+{{ with .Page.Params.accordion_sections }}
+  {{ range . }}
+    {{ range .accordions }}
+      {{ $accordion := dict }}
+    {{ with .title }}
+      {{ $accordion = merge $accordion (dict "title" .) }}
+    {{ end }}
+    {{ with .content }}
+      {{ $accordion = merge $accordion (dict "bodyHTML" ($.Page.RenderString .)) }}
+    {{ end }}
+    {{ $accordions = $accordions | append $accordion }}
+    {{ end }}
+
+  {{ end }}
+{{ end }}
+{{ with $accordions }}
+  {{- $json := dict "_type" "pt.accordions" "entries" . -}}
+  <div id="shortcode">{{ jsonify $json }}</div>
+{{ end }}

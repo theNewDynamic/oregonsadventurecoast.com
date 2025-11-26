@@ -23,7 +23,7 @@
   {{ end }}
 {{ end }}
 
-{{ range $taxonomy := slice "durations" "towns" }}
+{{ range $taxonomy := slice "durations" "towns" "tripadventures" }}
   {{ with $.GetTerms . }}
     {{ $categories := slice }}
     {{ range . }}
@@ -33,7 +33,11 @@
         "_ref" (partial "func/GetTermID" (dict "taxonomy" $taxonomy "term" $slug))
       ) }}
     {{ end }}
-    {{ $s.SetInMap "data" $taxonomy $categories }}
+    {{ $key := $taxonomy }}
+    {{ if eq $taxonomy "tripadventures" }}
+      {{ $key = "tripAdventures" }}
+    {{ end }}
+    {{ $s.SetInMap "data" $key $categories }}
   {{ end }}
 {{ end }}
 

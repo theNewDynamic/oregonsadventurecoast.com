@@ -1,0 +1,12 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+{{ $s.SetInMap "data" "_type" "siteSettings" }}
+{{ $s.SetInMap "data" "_id" "siteSettings" }}
+{{ $s.SetInMap "data" "title" "Oregon's Adventure Coast" }}
+{{ $s.SetInMap "data" "description" "Travel to the Oregon Coast to experience a vacation full of adventure, nature, wildlife, shopping, arts, and more. Your adventure awaits!" }}
+{{ $s.SetInMap "data" "visitorsGuide" (dict
+  "linkType" "file"
+  "file" (partial "transformers/file" "/img/Oregon-Coast-Visitor-Guide.pdf")
+) }}
+
+{{ return slice ($s.Get "data") }}
