@@ -9,10 +9,10 @@ slideshow:
     url: /event/annual-holiday-lights-at-shore-acres
     video:
   - title:
-    photo: /img/fall-fishing-hm-slider-desktop.jpg
+    photo: /img/storm-watching-hm-slider-2084x850.jpg
     title_mobile:
     photo_mobile:
-    url: /fishing
+    url: /storm-watching
     video:
   - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
