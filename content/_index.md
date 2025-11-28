@@ -9,12 +9,6 @@ slideshow:
     url: /event/annual-holiday-lights-at-shore-acres
     video:
   - title:
-    photo: /img/fall-15-special-hm-pg-slider-2048x850-2025.jpg
-    title_mobile:
-    photo_mobile: /img/fall-15-mobile-slider-2025.jpg
-    url: /fall15
-    video:
-  - title:
     photo: /img/fall-fishing-hm-slider-desktop.jpg
     title_mobile:
     photo_mobile:
@@ -31,9 +25,6 @@ home_splashes:
   - url: /live-cam
     img: /img/live-cam-home-pg-button.png
     alt: Live Weather Cams to See Our Area
-  - url: /fall15
-    img: /img/fall15-2048x190-09-25.jpg
-    alt: 15% Fall Lodging Special - Book Now Banner
 masonry1:
   desktopphoto: /img/running-desktop-masonry-146x152.jpg
   desktoptitle: Running
