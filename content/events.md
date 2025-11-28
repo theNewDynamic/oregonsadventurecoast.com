@@ -17,7 +17,7 @@ aliases:
 
 {{< spacer 30 >}}
 <div style="width:100%">
-<a href="/fall15"><img src="/img/fall15-2048x190-09-25.jpg" alt="15% Off Fall Lodging Special in Coos Bay, North Bend, Charleston" style="height: 100%; width: 100%; object-fit: contain"></a>
+<a href="/event/annual-holiday-lights-at-shore-acres/"><img src="/img/holidaylights-2048x190-11-23.jpg" alt="Holiday Lights at Shore Acres State Park thanksgiving through new years eve" style="height: 100%; width: 100%; object-fit: contain" /></a>
 </div>
 
 {{< spacer 50 >}}

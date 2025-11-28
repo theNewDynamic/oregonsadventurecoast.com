@@ -29,6 +29,6 @@ Contact Oregon’s Adventure Coast with any questions you may have about things 
 
 {{< spacer 30 >}}
 
-<a href="/fall15"><img src="/img/fall15-695x100-09-25.jpg" alt="15% Off Fall Lodging Special Discount Banner"></a>
+[![Holiday Happenings explore the festivities and goings-on](/img/holiday-happenings-button-1.jpg)](/event/holiday-happenings-tree-lightings-on-oregon-s-adventure-coast/)
 
 {{< spacer 50 >}}
