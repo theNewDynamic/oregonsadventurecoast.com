@@ -182,7 +182,7 @@ We invite you to explore, to discover, to feel, and to know the incredible adven
 {{< spacer 30 >}}
 
 <div style="width:100%">
-<a href="/fall15"><img src="/img/fall15-2048x190-09-25.jpg" alt="15% Off Fall Lodging Special in Coos Bay, North Bend, Charleston" style="height: 100%; width: 100%; object-fit: contain"></a>
+<a href="/storm-watching"><img src="/img/StormWatching-2024-Banner-2048x190.jpg" alt="huge wave crash with Best Storm Watching on the entire Oregon Coast" style="height: 100%; width: 100%; object-fit: contain" /></a>
 </div>
 
 {{< spacer 30 >}}
