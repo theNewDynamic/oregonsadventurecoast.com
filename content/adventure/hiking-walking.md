@@ -97,7 +97,7 @@ We have a whole system of hiking trails in the immediate and surrounding area, b
 
 ## Oregon Coast Trail *(Sunset Bay to Cape Arago)*
 
-Take Cape Arago Highway west from Charleston and you’ll find four miles of trails (one way) that trace a path along one of Oregon’s most spectacular stretches of coastline. From Sunset Bay, the trail winds around the coastal bluffs, offering spectacular views of the rugged, cliff-lined Pacific Ocean. It then runs past Shore Acres Botanical Gardens and the Simpson Reef viewing area before ending at the captivating Cape Arago State Park. [Visit the Oregon Coast Trail website *(Sunset Bay to Cape Arago,*](https://www.oregon.gov/oprd/PARKS/Pages/OCT_main.aspx) *Segment 7*[*)*](https://www.oregon.gov/oprd/PARKS/Pages/OCT_main.aspx). [Click here for a trail map](https://shoreacres.net/wp-content/uploads/2016/06/Trail-Map-Card-2016-web.pdf).
+Take Cape Arago Highway west from Charleston and you’ll find four miles of trails (one way) that trace a path along one of Oregon’s most spectacular stretches of coastline. From Sunset Bay, the trail winds around the coastal bluffs, offering spectacular views of the rugged, cliff-lined Pacific Ocean. It then runs past Shore Acres Botanical Gardens and the Simpson Reef viewing area before ending at the captivating Cape Arago State Park. [Visit the Oregon Coast Trail website *(Sunset Bay to Cape Arago,*](https://www.oregon.gov/oprd/PARKS/Pages/OCT_main.aspx) *Segment 7*[*)*](https://www.oregon.gov/oprd/PARKS/Pages/OCT_main.aspx). <a href="/img/State-Parks-and-Hiking-Brochure.pdf" target="_blank" rel="noopener">Click here for a trail map</a>.
 
 ### Know Before You Go
 
@@ -134,6 +134,8 @@ South Slough National Estuarine Research Reserve is located off Cape Arago Highw
 #### Take a Virtual Tour of the South Slough Estuary Trails with Rick Dancer
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772887646142995%2F&amp;show_text=0&amp;width=695" width="695" height="391" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+
+&nbsp;
 
 &nbsp;
 
