@@ -14,11 +14,9 @@ date: 2019-02-18T11:35:33-08:00
 ---
 ####
 
-{{< columns number="3" >}}
+{{< columns number="3" >}}![headshot of janice langlinais, executive director](/img/janice-langlinais-staff.jpg)
 
-![headshot of janice langlinais, executive director](/img/janice-langlinais-staff.jpg)
-
-<p></p>
+&nbsp;
 
 **Janice Langlinais**<br>Executive Director<br>541-269-1181 ext 2303<br>[Email Janice](mailto:janice@oregonsadventurecoast.com)
 
@@ -26,7 +24,7 @@ divider
 
 ![headshot of joni eades, manager and marketing coordinator](/img/joni-eades-staff.jpg)
 
-<p></p>
+&nbsp;
 
 **Joni Eades**<br>Visitor Services Manager & Marketing Coordinator<br>541-269-1181 ext 2302<br>[Email Joni](mailto:joni@oregonsadventurecoast.com)
 
@@ -34,12 +32,9 @@ divider
 
 ![headshot of allison richards, marketing project manager](/img/allison-richards-staff.jpg)
 
-<p></p>
+&nbsp;
 
-**Allison Richards**<br>Marketing Projects Manager<br>541-269-1181 ext 2304<br>[Email Allison](mailto:allison@oregonsadventurecoast.com)
-
-{{< /columns >}}
-
+**Allison Richards**<br>Stakeholder & Industry Relations Manager<br>541-269-1181 ext 2304<br>[Email Allison](mailto:allison@oregonsadventurecoast.com){{< /columns >}}
 
 **For Advertising/Marketing Inquiries, please contact our Advertising Agency of Record:**
 
