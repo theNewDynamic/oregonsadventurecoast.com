@@ -30,7 +30,7 @@ More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or 
 
 {{< spacer 25 >}}
 
-### Tickets on sale Soon!
+### [Tickets on sale NOW!](https://charlestonoregon.org/events#1abd198d-4f1c-4af7-9588-71a2c9c4af85)
 
 ***Tickets will also be available at the door as well!***
 
@@ -38,9 +38,9 @@ More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or 
 
 Fresh Crab Meals, Whole or Half Crab; or choose the Hot Dog option for those who don't like crab!!!&nbsp;
 
-**Prices are based on Market Value - TBD**
+**Prices are based on Market Value**
 
-Whole Crab Meal - tbd<br>Half Crab Meal - tbd<br>Gourmet Hot Dog Meal - tbd
+Whole Crab Meal - $40<br>Half Crab Meal - $28<br>Gourmet Hot Dog Meal - $18
 
 {{< spacer "15" >}}
 
