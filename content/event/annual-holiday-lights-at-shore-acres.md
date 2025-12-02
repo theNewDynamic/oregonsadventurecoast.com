@@ -86,7 +86,9 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 <a href="/img/holiday-lights-shuttle-faq.pdf" target="_blank" rel="noopener"><strong>DOWNLOAD OUR FAQ</strong></a>
 
-**Every Friday, Saturday and Sunday evening** from Thanksgiving to New Year's Eve, plus the four holiday nights of Thanksgiving, Christmas Eve, Christmas and New Year's Eve, take the **FREE** shuttle from the Charleston Marina (parking lot at the corner of <a href="https://maps.app.goo.gl/noFi8BJ8hB6w2epb8" target="_blank" rel="noopener">Guano Rock Lane and Crossline Road</a> in the Marina) to Shore Acres State Park!
+**Every Friday, Saturday and Sunday evening** from Thanksgiving to New Year's Eve, plus the four holiday nights of Thanksgiving, Christmas Eve, Christmas and New Year's Eve, take the **FREE** shuttle from the Charleston Marina (parking lot at the corner of <a href="https://maps.app.goo.gl/noFi8BJ8hB6w2epb8" target="_blank" rel="noopener">Guano Rock Lane and Crossline Road</a> in the Marina) to Shore Acres State Park! Turn at the Fish Mural on Pacific Seafood's Building!
+
+![A mural of colorful fish adorn the outside of a warehouse building.](/img/img-1655.jpg "The Boys &amp; Girls Club created this colorful mural of fish and mammels!")
 
 **The Shuttle will run from approximately 4:15pm to 8:00pm FROM the Marina TO the Park and will return patrons to the Marina between 5:00pm and 9:00pm.** *NOTE: the last shuttle TO the park will depart at 8:10pm from the Marina. This is to give everyone a chance to see the lights before Shore Acres State Park closes at 9:00pm.*
 
