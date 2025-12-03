@@ -3,6 +3,7 @@ _schema: default
 title: Accessibility
 draft: true
 url: /accessibility
+layout: travelersinfo
 ---
 Accessibility is about far more than checking boxes or meeting minimum ADA standards. On Oregon’s Adventure Coast, it’s a commitment—a promise to open our doors wider so everyone can see, hear, explore, and fully experience the beauty and possibilities this region holds.
 
