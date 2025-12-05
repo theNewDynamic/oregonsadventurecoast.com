@@ -21,6 +21,7 @@ smallboxphoto: /img/holiday-lights-small.jpg
 aliases:
   - /holidaylights
   - /HolidayLights
+  - /tags/free-shuttle
 ---
 ![Holiday Lights at Shore Acres State Park - Logo](/img/holidaylights-logo-header-1.jpg)
 
