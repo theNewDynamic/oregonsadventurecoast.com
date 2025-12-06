@@ -75,7 +75,11 @@ The remaining king tides in Oregon this season are scheduled for December 4–6,
 
 {{< youtube id="RPypT9dOvSY" >}}
 
+&nbsp;
+
 {{< youtube id="INpbehjv6Mg" >}}
+
+&nbsp;
 
 * **Stay Off Jetties, Beaches, and Logs During Storm Events.** These areas can become extremely dangerous in seconds as waves sweep much farther inland than expected. Logs that look harmless can roll without warning and cause the person to be trapped, and jetties become slippery, unstable, and unsafe during rough conditions.
 * **Keep a close eye on kids and pets at the Oregon Coast.** Little ones and four-legged explorers can wander into risky spots before you know it. Staying nearby and setting some boundaries goes a long way in keeping everyone safe. Always keep your pets on a leash.
