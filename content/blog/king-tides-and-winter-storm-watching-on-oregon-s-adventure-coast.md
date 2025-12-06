@@ -3,7 +3,40 @@ _schema: default
 title: 'King Tides and Winter Storm  Watching on Oregon’s Adventure Coast '
 draft: false
 date: 2025-12-06T00:00:00-08:00
+description: >-
+  The Oregon Coast is famous for its natural beauty, but anyone who visits knows
+  the weather and ocean can change in an instant. This winter, we encourage
+  visitors to Coast Like a Local by checking weather patterns and tide schedules
+  before heading out. Our Executive Director, Janice Langlinais, recently sat
+  down with KOIN 6 Chief Meteorologist Josh Cozart to talk about the winter
+  storm season on the Southern Oregon Coast, including the difference between
+  King Tides and High Surf events. You can watch the full KOIN 6 Interview with
+  Janice and Josh here, but here are some key takeaways from that important
+  conversation.
 image: /img/2025-winter-storm-season-is-here-blog-695x322.jpg
+tags:
+  - Oregon winter storms
+  - Oregon Coast storm watching
+  - Oregon Coast safety tips
+  - King Tides Oregon
+  - High Surf Events Oregon
+  - Shore Acres storm watching
+  - Coos Bay winter storms
+  - Oregon’s Adventure Coast
+  - Southern Oregon Coast travel
+  - Oregon coast photography
+  - winter storm photography tips
+  - Oregon coastal hazards
+  - sneaker wave safety
+  - Oregon Coast travel planning
+  - Cape Arago storm watching
+  - Oregon tide schedules
+  - Oregon Coast trip ideas
+  - winter travel Oregon
+  - Coos Bay North Bend Charleston
+  - Oregon State Parks winter safety
+categories:
+  - Outdoor Adventures
 warning: false
 ---
 It’s only December, but there is already plenty of big storm energy here on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**! Winter Storm season is typically November through March, but the Pacific Ocean wasted no time kicking off storm season this year, as evidenced by this recent post from local photographer [<u>Steven Michael.</u>](https://www.instagram.com/stevenmichaelfotog/)
@@ -23,15 +56,15 @@ Locals know to **never turn their back on the ocean**. [<u>Sneaker waves</u>](ht
 
 **Winter Storm Watching Tips for 2025-2026**
 
-Our Executive Director, Janice Langlinais, recently sat down with[<u>KOIN 6 Chief Meteorologist Josh Cozart</u>](https://www.koin.com/author/josh-cozart/) to talk about the winter storm season on the Southern Oregon Coast, including the difference between King Tides and High Surf events. You can[<u>watch the full KOIN 6 Interview with Janice and Josh here</u>](https://www.koin.com/video/when-to-see-oregons-stormy-coastline/11258861/), but here are some key takeaways from that important conversation.
+Our Executive Director, Janice Langlinais, recently sat down with [<u>KOIN 6 Chief Meteorologist Josh Cozart</u>](https://www.koin.com/author/josh-cozart/) to talk about the winter storm season on the Southern Oregon Coast, including the difference between King Tides and High Surf events. You can [<u>watch the full KOIN 6 Interview with Janice and Josh here</u>](https://www.koin.com/video/when-to-see-oregons-stormy-coastline/11258861/), but here are some key takeaways from that important conversation.
 
 ![Janice Langlinais speaking to KOIN 6 Chief Meteorologist Josh Cozart about Winter Storm Watching.](/img/koin-6-winter-storm-watching-tips-interview-with-janice-and-josh.jpg)
 
-**\#1- Understand the**[**<u>difference between King Tides and High Surf Events.</u>**](https://www.oregonsadventurecoast.com/blog/what-is-the-difference-between-high-surf-and-king-tides-copy-2/) **King Tides** are predictable and caused by the gravitational pull of the moon and sun. These unusually high water levels can cause some minor flooding and give us a preview of how rising sea levels may affect our coastal communities in the future. **High Surf Events** are less predictable and are caused by storm energy out at sea. High surf creates the dramatic, explosive waves that people go to Shore Acres to see, and it is also the more dangerous of the two.
+**\#1- Understand the** [**<u>difference between King Tides and High Surf Events.</u>**](https://www.oregonsadventurecoast.com/blog/what-is-the-difference-between-high-surf-and-king-tides-copy-2/) **King Tides** are predictable and caused by the gravitational pull of the moon and sun. These unusually high water levels can cause some minor flooding and give us a preview of how rising sea levels may affect our coastal communities in the future. **High Surf Events** are less predictable and are caused by storm energy out at sea. High surf creates the dramatic, explosive waves that people go to Shore Acres to see, and it is also the more dangerous of the two.
 
 The remaining king tides in Oregon this season are scheduled for December 4–6, 2025, and January 1–4, 2026.
 
-**\#2- Watch for High Surf Advisories or Warnings.** The best way to know if big waves are on the way is to look for a[<u>High Surf Advisory or High Surf Warning from the National Weather Service</u>](https://forecast.weather.gov/showsigwx.php?warnzone=ORZ021&amp;warncounty=ORC011&amp;firewxzone=ORZ615&amp;local_place1=6+Miles+NNE+Bandon+OR&amp;product1=High+Surf+Advisory), which often includes phrases like “large breaking waves 20 to 30 feet.” Before you head out, check forecasts at[<u>weather.gov/Medford</u>](http://weather.gov/Medford) or a trusted weather app, and review marine forecasts and swell height predictions. You can also keep an eye on the[<u>Oregon’s Adventure Coast Facebook page</u>](https://www.facebook.com/OregonsAdventureCoast/) for local storm and surf updates.
+**\#2- Watch for High Surf Advisories or Warnings.** The best way to know if big waves are on the way is to look for a [<u>High Surf Advisory or High Surf Warning from the National Weather Service</u>](https://forecast.weather.gov/showsigwx.php?warnzone=ORZ021&amp;warncounty=ORC011&amp;firewxzone=ORZ615&amp;local_place1=6+Miles+NNE+Bandon+OR&amp;product1=High+Surf+Advisory), which often includes phrases like “large breaking waves 20 to 30 feet.” Before you head out, check forecasts at [<u>weather.gov/Medford</u>](http://weather.gov/Medford) or a trusted weather app, and review marine forecasts and swell height predictions. You can also keep an eye on the [<u>Oregon’s Adventure Coast Facebook page</u>](https://www.facebook.com/OregonsAdventureCoast/) for local storm and surf updates.
 
 **\#3 - Time Your Visit Around the Incoming Tide.** You do not need a high tide for huge waves at Shore Acres, but incoming tides plus a strong swell give you the best chance. Mid-to-high tide can amplify the action against the cliffs. Low tide still produces incredible waves, but they may hit lower on the rock shelf.
 
@@ -40,16 +73,16 @@ The remaining king tides in Oregon this season are scheduled for December 4–6,
 * **Watch From a Safe Distance:** Shore Acres State Park is one of the most iconic and safest places to watch and photograph winter waves on the Oregon Coast, but it’s not the only option. Cape Arago State Park and the bluff overlooking Bastendorff Beach, both along the same road, also offer great views. You can also catch impressive storm action from Sunset Bay State Park along Cape Arago Highway. There is a $10 Day-Use Parking Fee to park at all the state parks along Cape Arago Highway.
 * **Never Turn Your Back to the Ocean**. As mentioned previously, unexpected “sneaker waves” can surge far higher and farther than the waves before them. They arrive suddenly with no warning, carrying enough force to knock you off your feet and pull you into the water. People are swept off the rocks and beaches every year because their backs were facing the ocean, and they did not see the sneaker wave coming.
 
-{{< youtube id="v=RPypT9dOvSY" >}}
+{{< youtube id="RPypT9dOvSY" >}}
 
-{{< youtube id="v=INpbehjv6Mg" >}}
+{{< youtube id="INpbehjv6Mg" >}}
 
 * **Stay Off Jetties, Beaches, and Logs During Storm Events.** These areas can become extremely dangerous in seconds as waves sweep much farther inland than expected. Logs that look harmless can roll without warning and cause the person to be trapped, and jetties become slippery, unstable, and unsafe during rough conditions.
 * **Keep a close eye on kids and pets at the Oregon Coast.** Little ones and four-legged explorers can wander into risky spots before you know it. Staying nearby and setting some boundaries goes a long way in keeping everyone safe. Always keep your pets on a leash.
 * **Exercise extreme caution near cliffs.** Most cliffs along the coast have sharp, slippery rocks, so it is important to wear sturdy shoes and stay well back from the edges. The bases of cliffs can be just as dangerous, since loose soil or rock can fall without warning. During high-surf events, it is best to avoid cliff edges and bases altogether. It is simply not worth the risk.
 * **Respect Park Closures and Barriers.** Always \*\* \*\* adhere to the posted rules and regulations along the beach and in the surrounding areas. If Oregon State Parks ropes off an area or posts warnings, it is for a good reason. High surf can damage trails, throw debris, and create unstable footing.
 
-More safety tips, advice, and resources can be found on the[<u>Oregon Coast Visitors Association's website</u>](https://visittheoregoncoast.com/coast-like-a-local/) and[<u>Oregon State Parks’ Beach Exploration Page.</u>](https://stateparks.oregon.gov/index.cfm?do=v.page&amp;id=96) Sign up for emergency alerts from[<u>OR-Alert</u>](https://oralert.gov/).
+More safety tips, advice, and resources can be found on the [<u>Oregon Coast Visitors Association's website</u>](https://visittheoregoncoast.com/coast-like-a-local/) and [<u>Oregon State Parks’ Beach Exploration Page.</u>](https://stateparks.oregon.gov/index.cfm?do=v.page&amp;id=96) Sign up for emergency alerts from [<u>OR-Alert</u>](https://oralert.gov/).
 
 Here are some other adventures and trip ideas to consider during your visit to **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** [(click here for local lodging options](https://www.oregonsadventurecoast.com/lodging/)):
 
@@ -67,7 +100,7 @@ Here are some other adventures and trip ideas to consider during your visit to *
 * [Shopping](https://www.oregonsadventurecoast.com/shopping)
 * [Birding & Wildlife](https://www.oregonsadventurecoast.com/birding-and-wildlife)
 
-For more travel inspiration, see our[<u>Adventures page</u>](https://www.oregonsadventurecoast.com/adventures) and our[<u>Trip Ideas page</u>](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast! Or[<u>request a visitor’s packet today</u>](https://www.oregonsadventurecoast.com/contact/#contactform). Do not hesitate to[<u>contact us</u>](https://www.oregonsadventurecoast.com/contact/) with any questions. Come prepared to have a one-of-a-kind experience you won’t soon forget.
+For more travel inspiration, see our [<u>Adventures page</u>](https://www.oregonsadventurecoast.com/adventures) and our [<u>Trip Ideas page</u>](https://www.oregonsadventurecoast.com/tripideas) to see all there is to do on Oregon’s Adventure Coast! Or [<u>request a visitor’s packet today</u>](https://www.oregonsadventurecoast.com/contact/#contactform). Do not hesitate to [<u>contact us</u>](https://www.oregonsadventurecoast.com/contact/) with any questions. Come prepared to have a one-of-a-kind experience you won’t soon forget.
 
 &nbsp;
 
