@@ -88,7 +88,7 @@ The remaining king tides in Oregon this season are scheduled for December 4–6,
 
 More safety tips, advice, and resources can be found on the [<u>Oregon Coast Visitors Association's website</u>](https://visittheoregoncoast.com/coast-like-a-local/) and [<u>Oregon State Parks’ Beach Exploration Page.</u>](https://stateparks.oregon.gov/index.cfm?do=v.page&amp;id=96) Sign up for emergency alerts from [<u>OR-Alert</u>](https://oralert.gov/).
 
-Here are some other adventures and trip ideas to consider during your visit to **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** [(click here for local lodging options](https://www.oregonsadventurecoast.com/lodging/)):
+Here are some other adventures and trip ideas to consider during your visit to **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** [(click here for local lodging options](https://www.oregonsadventurecoast.com/lodging/))
 
 * [Winter Storm Watching](https://www.oregonsadventurecoast.com/storm-watching)
 * [Winter Fun On Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/tripideas/winter-fun-in-oregons-adventure-coast/)
