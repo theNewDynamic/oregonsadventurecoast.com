@@ -28,7 +28,7 @@ divider
 
 {{< /columns >}}
 
-{{< spacer "30" >}}
+{{< spacer "30" >}} 
 
 {{< columns number="2" >}}
 
