@@ -68,7 +68,6 @@ divider
 
 {{< /columns >}}
 
-
 ### Hearing Loops
 
 Hearing loop technology ensures that visitors with hearing loss can fully participate in performances, conversations, and visitor experiences. These systems deliver clear, direct sound to hearing aids and cochlear implants equipped with telecoils. [**Learn more about hearing loops.**](https://www.hearingloss.org/find-help/hearing-assistive-technology/hearing-loop-technology/)
