@@ -37,11 +37,19 @@ Oregon’s Adventure Coast is proud to offer **EnChroma outdoor glasses**, avail
 
 **In addition, Indoor Color Blindness Glasses are available at these participating locations:**
 
-· [**Coos Art Museum**](https://coosartmuseum.org/) – 235 Anderson Ave., Coos Bay
+{{< columns number="3" >}}
 
-· [Coos History Museum](https://cooshistory.org/) – 1210 N. Front St., Coos Bay
+[**Coos Art Museum**](https://coosartmuseum.org/) – 235 Anderson Ave., Coos Bay
 
-· [Charleston Marine Life Center](https://cmlc.uoregon.edu/) – 63531 Boat Basin Rd., Charleston
+divider
+
+[Coos History Museum](https://cooshistory.org/) – 1210 N. Front St., Coos Bay
+
+divider
+
+[Charleston Marine Life Center](https://cmlc.uoregon.edu/) – 63531 Boat Basin Rd., Charleston
+
+{{< /columns >}}
 
 ![woman in red kayak at accessible kayak launch](/img/tsoc-kayak-launch-695x322.jpg "Photo courtesy of TSOC")
 
@@ -67,8 +75,13 @@ Hearing loop technology ensures that visitors with hearing loss can fully partic
 
 **Locations offering Hearing Loops include:**
 
-· **Coos Bay Visitor Center – 50 Central Ave., Coos Bay**
+{{< columns number="2" >}}
+**Coos Bay Visitor Center – 50 Central Ave., Coos Bay**
 
-· **Liberty Theatre** – 2100 Sherman Ave., North Bend
+divider
+
+**Liberty Theatre** – 2100 Sherman Ave., North Bend
+
+{{< /columns >}}
 
 PHOTO: liberty interior or liberty building
