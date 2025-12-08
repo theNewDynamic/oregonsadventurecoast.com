@@ -12,11 +12,19 @@ seo:
   image: ''
 date: 2019-02-18T11:35:33-08:00
 ---
-{{< columns number="3" >}}![headshot of janice langlinais](/img/janice-langlinais-staff.jpg)
+{{< columns number="2" >}}
+
+![headshot of janice langlinais](/img/janice-langlinais-staff.jpg)
 
 **Janice Langlinais**<br>Executive Director<br>541-269-1181 ext 2303<br>[Email Janice](mailto:janice@oregonsadventurecoast.com)
 
 divider
+
+![headshot of allison richards](/img/allison-richards-staff.jpg)
+
+**Allison Richards**<br>Stakeholder & Industry Relations Manager<br>541-269-1181 ext 2304<br>[Email Allison](mailto:allison@oregonsadventurecoast.com)
+
+{{< columns number="2" >}}
 
 ![headshot of joni eades](/img/joni-eades-staff.jpg)
 
@@ -24,9 +32,11 @@ divider
 
 divider
 
-![headshot of allison richards](/img/allison-richards-staff.jpg)
+![headshot of lehea desousa](/img/lehea.jpg)
 
-**Allison Richards**<br>Stakeholder & Industry Relations Manager<br>541-269-1181 ext 2304<br>[Email Allison](mailto:allison@oregonsadventurecoast.com){{< /columns >}}
+**Lehea DeSousa**<br>Visitor Services Coordinator<br>541-269-1181 ext 2300<br>[Email Lehea](mailto:lehea@visitoac.com)
+
+{{< /columns >}}
 
 **For Advertising/Marketing Inquiries, please contact our Advertising Agency of Record:**
 
