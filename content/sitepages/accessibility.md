@@ -9,7 +9,9 @@ Accessibility is about far more than checking boxes or meeting minimum ADA stand
 
 ### Wheel the World
 
-Oregon has always been a pioneer—and now, thanks to a powerful partnership between [Travel Oregon](https://traveloregon.com/) and [Wheel the World](https://wheeltheworld.com/accessible-travel/usa/oregon/coos-bay), that pioneering spirit has reached a new milestone. Oregon is officially the first state in the U.S. to be designated [“Accessibility Verified”](https://industry.traveloregon.com/programs/accessible-travel/wheel-the-world-program/) by Wheel the World, marking an exciting moment for inclusive travel. Oregon’s Adventure Coast: Coos Bay-North Bend-Charleston, along with a dozen other coastal destinations, is proud to be recognized as a [Destination Verified](https://wheeltheworld.com/accessible-travel/usa/oregon/coos-bay) community.
+Oregon has always been a pioneer—and now, thanks to a powerful partnership between [Travel Oregon](https://traveloregon.com/) and [Wheel the World](https://wheeltheworld.com/accessible-travel/usa/oregon/coos-bay), that pioneering spirit has reached a new milestone. Oregon is officially the first state in the U.S. to be designated [“Accessibility Verified”](https://industry.traveloregon.com/programs/accessible-travel/wheel-the-world-program/) by Wheel the World, marking an exciting moment for inclusive travel. Oregon’s Adventure Coast: Coos Bay-North Bend-Charleston, along with a dozen other coastal destinations, is proud to be recognized as a Destination Verified community.
+
+[![Wheel the World Destination Verified community](/img/wheel-the-world-destination-verified-banner.jpg)](https://wheeltheworld.com/accessible-travel/usa/oregon/coos-bay)
 
 This achievement reflects our unwavering belief that everyone who visits Oregon’s Adventure Coast; Coos Bay-North Bend-Charleston, and our surrounding communities—should be able to experience the beauty, wonder, and adventure of this region without barriers.
 
