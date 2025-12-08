@@ -26,6 +26,8 @@ divider
 
 {{< /columns >}}
 
+{{< spacer "30" >}}
+
 {{< columns number="2" >}}
 
 ![headshot of joni eades](/img/joni-eades-staff.jpg)
