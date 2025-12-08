@@ -43,6 +43,8 @@ Oregon’s Adventure Coast is proud to offer **EnChroma outdoor glasses**, avail
 
 · [Charleston Marine Life Center](https://cmlc.uoregon.edu/) – 63531 Boat Basin Rd., Charleston
 
+![woman in red kayak at accessible kayak launch](/img/tsoc-kayak-launch-695x322.jpg)
+
 ### Accessible Kayak Launches
 
 Our accessible kayak launches and viewing platforms open the door to water adventures that many once thought were out of reach. These thoughtfully designed features allow visitors with mobility challenges to explore Oregon’s waterways with confidence and ease.
