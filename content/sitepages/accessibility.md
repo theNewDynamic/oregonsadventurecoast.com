@@ -43,7 +43,7 @@ Oregon’s Adventure Coast is proud to offer **EnChroma outdoor glasses**, avail
 
 · [Charleston Marine Life Center](https://cmlc.uoregon.edu/) – 63531 Boat Basin Rd., Charleston
 
-![woman in red kayak at accessible kayak launch](/img/tsoc-kayak-launch-695x322.jpg)
+![woman in red kayak at accessible kayak launch](/img/tsoc-kayak-launch-695x322.jpg "Photo courtesy of TSOC")
 
 ### Accessible Kayak Launches
 
@@ -51,11 +51,15 @@ Our accessible kayak launches and viewing platforms open the door to water adven
 
 **Accessible kayak launches can be found at:**
 
-· [John Topits Park](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes) – 298 Hull St., Coos Bay, OR
+{{< columns number="2" >}}
+[John Topits Park](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes) – 298 Hull St., Coos Bay, OR
 
-· [William M. Tugman State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69) – 72549 Hwy 101, Lakeside, OR
+divider
 
-PHOTO: couple launching kayak at eel lake, courtesy of TSOC
+[William M. Tugman State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69) – 72549 Hwy 101, Lakeside, OR
+
+{{< /columns >}}
+
 
 ### Hearing Loops
 
