@@ -24,6 +24,8 @@ divider
 
 **Allison Richards**<br>Stakeholder & Industry Relations Manager<br>541-269-1181 ext 2304<br>[Email Allison](mailto:allison@oregonsadventurecoast.com)
 
+{{< /columns >}}
+
 {{< columns number="2" >}}
 
 ![headshot of joni eades](/img/joni-eades-staff.jpg)
