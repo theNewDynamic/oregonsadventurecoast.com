@@ -86,5 +86,3 @@ divider
 **Liberty Theatre** – 2100 Sherman Ave., North Bend
 
 {{< /columns >}}
-
-PHOTO: liberty interior or liberty building
