@@ -7,6 +7,8 @@ layout: travelersinfo
 ---
 Accessibility is about far more than checking boxes or meeting minimum ADA standards. On Oregon’s Adventure Coast, it’s a commitment—a promise to open our doors wider so everyone can see, hear, explore, and fully experience the beauty and possibilities this region holds.
 
+&nbsp;
+
 ![girl in wheelchair looking at flowering garden](/img/wheel-the-world-hdr-695x322.jpg)
 
 ### Wheel the World
@@ -28,6 +30,8 @@ Thanks to the generosity and collaboration of local partners, **David’s Chair 
 With support from a recent Travel Oregon grant, a new, even more beach-friendly track chair is now available at the Coos Bay Visitor Center, complete with a tow-and-go trailer for easy transport.
 
 For more details about David's Chair availability contact the Coos Bay–North Bend–Charleston Visitor & Convention Bureau at [info@visitoac.com](mailto:info@visitoac.com). [**Learn more about David's Chair.**](https://davidschair.org/)
+
+![woman in forest showing normal color vision and color blindness](/img/color-blindness-awareness-month-blog-12-695x322.jpg)
 
 ### EnChroma Glasses
 
