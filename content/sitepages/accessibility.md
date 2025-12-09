@@ -33,9 +33,9 @@ With support from a recent Travel Oregon grant, a new, even more beach-friendly 
 
 For more details about David's Chair availability contact the Coos Bay–North Bend–Charleston Visitor & Convention Bureau at [info@visitoac.com](mailto:info@visitoac.com). [**Learn more about David's Chair.**](https://davidschair.org/)
 
-![woman in forest showing normal color vision and color blindness](/img/color-blindness-awareness-month-blog-12-695x322.jpg)
-
 &nbsp;
+
+![woman in forest showing normal color vision and color blindness](/img/color-blindness-awareness-month-blog-12-695x322.jpg)
 
 ### EnChroma Glasses
 
