@@ -7,7 +7,7 @@ layout: travelersinfo
 ---
 Accessibility is about far more than checking boxes or meeting minimum ADA standards. On Oregon’s Adventure Coast, it’s a commitment—a promise to open our doors wider so everyone can see, hear, explore, and fully experience the beauty and possibilities this region holds.
 
-&nbsp;
+{{< spacer "30" >}}
 
 ![girl in wheelchair looking at flowering garden](/img/wheel-the-world-hdr-695x322.jpg)
 
@@ -21,7 +21,7 @@ This achievement reflects our unwavering belief that everyone who visits Oregon�
 
 Being Destination Verified means visitors with disabilities and mobility challenges can now plan their trips using an online resource built with accessibility at its core. Increasing access and inclusivity has long been a guiding priority for Coos Bay–North Bend–Charleston Visitor & Convention Bureau. [**Learn more about Wheel the World.**](https://wheeltheworld.com/accessible-travel/usa/oregon/coos-bay)
 
-&nbsp;
+{{< spacer "40" >}}
 
 ![David's Chair mobility system with track-based chair](/img/davids-chair.jpg)
 
@@ -33,7 +33,7 @@ With support from a recent Travel Oregon grant, a new, even more beach-friendly 
 
 For more details about David's Chair availability contact the Coos Bay–North Bend–Charleston Visitor & Convention Bureau at [info@visitoac.com](mailto:info@visitoac.com). [**Learn more about David's Chair.**](https://davidschair.org/)
 
-&nbsp;
+{{< spacer "40" >}}
 
 ![woman in forest showing normal color vision and color blindness](/img/color-blindness-awareness-month-blog-12-695x322.jpg)
 
@@ -50,7 +50,7 @@ Oregon’s Adventure Coast is proud to offer **EnChroma outdoor glasses**, avail
 ![placeholder image](/img/place-holder-image.jpg)<br><br>
 **Coos Art Museum**<br>
 235 Anderson Avenue<br>
-Coos Bay | [Visit Website](https://coosartmuseum.org/) 
+Coos Bay | [Visit Website](https://coosartmuseum.org/)
 
 divider
 ![placeholder image](/img/place-holder-image.jpg)<br><br>
@@ -64,7 +64,9 @@ divider
 63531 Boat Basin Road<br>
 Charleston | [Visit Website](https://cmlc.uoregon.edu/)
 
-{{< /columns >}} &nbsp;
+{{< /columns >}}
+
+{{< spacer "40" >}}
 
 ![woman in red kayak at accessible kayak launch](/img/tsoc-kayak-launch-695x322.jpg "Photo courtesy of TSOC")
 
@@ -88,7 +90,7 @@ Lakeside | [Visit Website](https://stateparks.oregon.gov/index.cfm?do=park.profi
 
 {{< /columns >}}
 
-&nbsp;
+{{< spacer "40" >}}
 
 ![middle aged man sitting in theater smiling and applauding](/img/hearing-loop-695x322.jpg)
 
