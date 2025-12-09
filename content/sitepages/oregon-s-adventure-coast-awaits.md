@@ -24,23 +24,17 @@ The Southern Oregon Coast offers temperate weather and enough space for every vi
 
 {{< spacer "25" >}}
 
-#### A few of our more popular activities include:
+**The Ultimate Home Base**<br>Stay longer and make yourself at home. All this dramatic scenery is set in the three distinct communities of Coos Bay, North Bend and Charleston, each with their own unique flavor blended to create the largest population on the Oregon coast. Stroll historic downtowns, sample fresh-caught seafood, and find cozy hideaways that are perfect for slowing down and reconnecting.
 
-* [**Deep-sea Charter Fishing**](/fishing) right out of our port in Charleston. Or try river, lake and shore fishing.
-* Try your hand at two local favorite activities – [**Crabbing**](/crabbing-clamming) and [**Clamming**](/clamming).
-* Home to [**Steve Prefontaine**](/steve-prefontaine-story), famous for his record setting long distance running in the 1970’s, we have become a draw for those into running.
-* [**Hiking**](/hiking-walking) is also popular, on trails from forest to ocean cliffs and beaches.
-* World-Class mountain biking on [**Whiskey Run Trails**](/cycling). Bring your own gear! [United Airlines](https://www.united.com/en/us)’ non-stop flight is designed with extra storage for oversized items like mountain bikes, making it easier than ever to transport your ride and hit the ribbons of clay dirt when you arrive.
-* [**Water Adventures**](/water-recreation) like Stand-Up Paddle Boarding, Kayaking, Surfing and Beach Combing.
-* Great [**ATV’ing**](/atv-motorsports) in [**The Oregon Dunes National Recreation Area**](/untamed-dunes), home to the largest coastal sand dunes in North America.
-* [**State Parks & National Lands**](/state-parks-and-national-lands) include endless windswept ocean bluffs and cliffs, formed from eons of Pacific Ocean storms crashing against the bedrock, making for astounding visuals of Mother Nature’s power.
-* Ample areas to just plop down in a forest or other natural setting and really experience nature through [**Forest Bathing**](/forest-bathing). Anyone can do it, and we even have a [forest bathing how-to guide](/forest-bathing-guide) on this site.
+You’ll get to select from an array [accommodations](/lodging) , from bay front hotels to charming vacation rentals and cozy inns. Our welcoming restaurants serve everything from casual bites to chef-driven cuisine. And with a vibrant arts scene, local shops, and regular events, there’s always something happening to enrich your stay. **Come. Explore. You won't want to** ***coast*** **anywhere else!**
 
-**Come. Explore. You won't want to** ***coast*** **anywhere else!**
-
-![forest bathing - woman with outstretched arms and woman holding crab](/img/denver-welcome-forest-bathing-crab.jpg)
+![man and dog walking on peaceful wet reflective beach with dunes in the background](/img/vacaton-collage-v02.jpg)
 
 {{< spacer "25" >}}
+
+**Less Traffic, More Wonder**<br>Unlike less diverse, and more crowded destinations, Oregon’s Adventure Coast gives you the breathing room to truly enjoy your vacation. Wide-open spaces, friendly faces, and enchanting beauty around every corner culminate in the perfect place to unwind, explore at your own pace, and create a lifetime of memories.
+
+**Make This Trip Truly Unforgettable**<br>This is your invitation to settle in and stay awhile. Spend your vacation the way it was meant to be spent — full of exploration, relaxation, and a touch of adventure. Come see why so many visitors return year after year, drawn back by the magic of **Oregon’s Adventure Coast**.
 
 ![Airplane landing and San Francisco to North Bend Header](/img/sfo-nonstop-flight-695x125.jpg)
 
