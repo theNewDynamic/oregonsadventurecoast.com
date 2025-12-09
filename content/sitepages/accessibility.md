@@ -33,6 +33,8 @@ For more details about David's Chair availability contact the Coos Bay–North B
 
 ![woman in forest showing normal color vision and color blindness](/img/color-blindness-awareness-month-blog-12-695x322.jpg)
 
+&nbsp;
+
 ### EnChroma Glasses
 
 More than 350 million people worldwide experience some form of color vision deficiency—most commonly red-green color blindness. EnChroma’s mission is simple and powerful: to help people see more of the color, vibrancy, and joy the world has to offer.
@@ -54,6 +56,7 @@ divider
 [Charleston Marine Life Center](https://cmlc.uoregon.edu/) – 63531 Boat Basin Rd., Charleston
 
 {{< /columns >}}
+&nbsp;
 
 ![woman in red kayak at accessible kayak launch](/img/tsoc-kayak-launch-695x322.jpg "Photo courtesy of TSOC")
 
@@ -71,6 +74,7 @@ divider
 [William M. Tugman State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69) – 72549 Hwy 101, Lakeside, OR
 
 {{< /columns >}}
+&nbsp;
 
 ### Hearing Loops
 
