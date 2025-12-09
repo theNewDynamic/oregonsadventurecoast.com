@@ -87,12 +87,12 @@ Hearing loop technology ensures that visitors with hearing loss can fully partic
 **Locations offering Hearing Loops include:**
 
 {{< columns number="2" >}}
-![coos bay visitor center at dusk](/img/sm-visitor-center.jpg)
+![coos bay visitor center at dusk](/img/sm-visitor-center.jpg)<br><br>
 **Coos Bay Visitor Center**<br>
 50 Central Ave, Coos Bay
 
 divider
-![liberty theater building with red front doors](/img/liberty-theater-400x267.jpg)
+![liberty theater building with red front doors](/img/liberty-theater-400x267.jpg)<br><br>
 **Liberty Theatre**<br>
 2100 Sherman Ave, North Bend
 
