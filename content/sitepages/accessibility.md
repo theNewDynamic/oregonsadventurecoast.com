@@ -74,7 +74,11 @@ divider
 
 [William M. Tugman State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69) – 72549 Hwy 101, Lakeside, OR
 
-{{< /columns >}} &nbsp;
+{{< /columns >}}
+
+&nbsp;
+
+![middle aged man sitting in theater smiling and applauding](/img/hearing-loop-695x322.jpg)
 
 ### Hearing Loops
 
