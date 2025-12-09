@@ -52,3 +52,21 @@ divider
 The options are endless! Come rediscover your sense of awe and experience the benefits for yourself by visiting the forests, beaches, and natural beauty on **Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston**. [Click here](/trip-ideas) for unique trip itineraries, and browse through our suggestions as you plan your getaway.
 
 [Contact us](/contact) to get even more tips, as well as the inside scoop, for finding the best local food, activities and [lodging](/lodging/) any time of the year, and visit our [Adventure Page](/adventures) for more ideas and inspiration. <a href="/img/Oregon-Coast-Visitor-Guide.pdf" target="_blank" rel="noopener">Download our Visitor Guide (PDF)</a>.
+
+### See what makes Oregon’s Adventure Coast special — watch now!
+
+{{< spacer "30" >}}
+
+{{< youtube id="4HPADFIXsNo" >}}
+
+{{< spacer "50" >}}
+
+{{< youtube id="x6Qro7ktN-w" >}}
+
+{{< spacer "50" >}}
+
+{{< youtube id="aZcOWSDfTQY" >}}
+
+{{< spacer "50" >}}
+
+{{< youtube id="Z-83k7KWCEM" >}}
