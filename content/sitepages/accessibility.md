@@ -4,6 +4,7 @@ title: Accessibility
 draft: true
 url: /accessibility
 layout: travelersinfo
+photo: /img/accessibility-page-header-2048x531.jpg
 ---
 Accessibility is about far more than checking boxes or meeting minimum ADA standards. On Oregon’s Adventure Coast, it’s a commitment—a promise to open our doors wider so everyone can see, hear, explore, and fully experience the beauty and possibilities this region holds.
 
@@ -21,7 +22,7 @@ This achievement reflects our unwavering belief that everyone who visits Oregon�
 
 Being Destination Verified means visitors with disabilities and mobility challenges can now plan their trips using an online resource built with accessibility at its core. Increasing access and inclusivity has long been a guiding priority for Coos Bay–North Bend–Charleston Visitor & Convention Bureau. [**Learn more about Wheel the World.**](https://wheeltheworld.com/accessible-travel/usa/oregon/coos-bay)
 
-{{< spacer "40" >}}
+{{< spacer "50" >}}
 
 ![David's Chair mobility system with track-based chair](/img/davids-chair.jpg)
 
@@ -33,7 +34,7 @@ With support from a recent Travel Oregon grant, a new, even more beach-friendly 
 
 For more details about David's Chair availability contact the Coos Bay–North Bend–Charleston Visitor & Convention Bureau at [info@visitoac.com](mailto:info@visitoac.com). [**Learn more about David's Chair.**](https://davidschair.org/)
 
-{{< spacer "40" >}}
+{{< spacer "50" >}}
 
 ![woman in forest showing normal color vision and color blindness](/img/color-blindness-awareness-month-blog-12-695x322.jpg)
 
@@ -47,26 +48,26 @@ Oregon’s Adventure Coast is proud to offer **EnChroma outdoor glasses**, avail
 
 {{< columns number="3" >}}
 
-![placeholder image](/img/place-holder-image.jpg)<br><br>
+![two women admiring a large sculptural art piece at the Coos Art Museum](/img/coos-art-museum-400x267.jpg)<br><br>
 **Coos Art Museum**<br>
 235 Anderson Avenue<br>
 Coos Bay | [Visit Website](https://coosartmuseum.org/)
 
 divider
-![placeholder image](/img/place-holder-image.jpg)<br><br>
+![mother and child reading sign next to a boat in the coos history museum](/img/coos-history-museum-400x267.jpg)<br><br>
 **Coos History Museum**<br>
 1210 N. Front Street<br>
 Coos Bay | [Visit Website](https://cooshistory.org/)
 
 divider
-![placeholder image](/img/place-holder-image.jpg)<br><br>
+![kids with their hands in a tide pool tank at the charleston marine life center](/img/charleston-marine-life-center-400x267.jpg)<br><br>
 **Charleston Marine Life Ctr**<br>
 63531 Boat Basin Road<br>
 Charleston | [Visit Website](https://cmlc.uoregon.edu/)
 
 {{< /columns >}}
 
-{{< spacer "40" >}}
+{{< spacer "50" >}}
 
 ![woman in red kayak at accessible kayak launch](/img/tsoc-kayak-launch-695x322.jpg "Photo courtesy of TSOC")
 
@@ -90,7 +91,7 @@ Lakeside | [Visit Website](https://stateparks.oregon.gov/index.cfm?do=park.profi
 
 {{< /columns >}}
 
-{{< spacer "40" >}}
+{{< spacer "50" >}}
 
 ![middle aged man sitting in theater smiling and applauding](/img/hearing-loop-695x322.jpg)
 
