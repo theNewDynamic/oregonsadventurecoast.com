@@ -22,7 +22,7 @@ This achievement reflects our unwavering belief that everyone who visits Oregon�
 
 Being Destination Verified means visitors with disabilities and mobility challenges can now plan their trips using an online resource built with accessibility at its core. Increasing access and inclusivity has long been a guiding priority for Coos Bay–North Bend–Charleston Visitor & Convention Bureau. [**Learn more about Wheel the World.**](https://wheeltheworld.com/accessible-travel/usa/oregon/coos-bay)
 
-{{< spacer "40" >}}
+{{< spacer "50" >}}
 
 ![David's Chair mobility system with track-based chair](/img/davids-chair.jpg)
 
@@ -34,7 +34,7 @@ With support from a recent Travel Oregon grant, a new, even more beach-friendly 
 
 For more details about David's Chair availability contact the Coos Bay–North Bend–Charleston Visitor & Convention Bureau at [info@visitoac.com](mailto:info@visitoac.com). [**Learn more about David's Chair.**](https://davidschair.org/)
 
-{{< spacer "40" >}}
+{{< spacer "50" >}}
 
 ![woman in forest showing normal color vision and color blindness](/img/color-blindness-awareness-month-blog-12-695x322.jpg)
 
@@ -67,7 +67,7 @@ Charleston | [Visit Website](https://cmlc.uoregon.edu/)
 
 {{< /columns >}}
 
-{{< spacer "40" >}}
+{{< spacer "50" >}}
 
 ![woman in red kayak at accessible kayak launch](/img/tsoc-kayak-launch-695x322.jpg "Photo courtesy of TSOC")
 
@@ -91,7 +91,7 @@ Lakeside | [Visit Website](https://stateparks.oregon.gov/index.cfm?do=park.profi
 
 {{< /columns >}}
 
-{{< spacer "40" >}}
+{{< spacer "50" >}}
 
 ![middle aged man sitting in theater smiling and applauding](/img/hearing-loop-695x322.jpg)
 
