@@ -4,6 +4,7 @@ title: Accessibility
 draft: true
 url: /accessibility
 layout: travelersinfo
+photo: /img/accessibility-page-header-2048x531.jpg
 ---
 Accessibility is about far more than checking boxes or meeting minimum ADA standards. On Oregon’s Adventure Coast, it’s a commitment—a promise to open our doors wider so everyone can see, hear, explore, and fully experience the beauty and possibilities this region holds.
 
@@ -42,7 +43,6 @@ For more details about David's Chair availability contact the Coos Bay–North B
 More than 350 million people worldwide experience some form of color vision deficiency—most commonly red-green color blindness. EnChroma’s mission is simple and powerful: to help people see more of the color, vibrancy, and joy the world has to offer.
 
 Oregon’s Adventure Coast is proud to offer **EnChroma outdoor glasses**, available for both common and rare forms of color blindness. Adults and children can borrow these glasses for **up to seven days**, free of charge, from the Coos Bay Visitor Center at 50 Central Ave., Coos Bay. [**Learn more about EnChroma.**](https://enchroma.com)
-
 
 **In addition, Indoor Color Blindness Glasses are available at these locations:**
 
