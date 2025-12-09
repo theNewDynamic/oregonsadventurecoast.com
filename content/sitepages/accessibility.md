@@ -68,11 +68,17 @@ Our accessible kayak launches and viewing platforms open the door to water adven
 **Accessible kayak launches can be found at:**
 
 {{< columns number="2" >}}
-[John Topits Park](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes) – 298 Hull St., Coos Bay, OR
+![placeholder image](/img/place-holder-image.jpg)<br><br>
+**John Topits Park**<br>
+298 Hull St<br>
+Coos Bay, OR<br>
+[Visit Website](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes) – 
 
 divider
-
-[William M. Tugman State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69) – 72549 Hwy 101, Lakeside, OR
+![placeholder image](/img/place-holder-image.jpg)<br><br>
+**William M. Tugman State Park**<br>
+72549 Hwy 101, Lakeside, OR<br>
+[Visit Website](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69)
 
 {{< /columns >}}
 
@@ -97,6 +103,3 @@ divider
 2100 Sherman Ave, North Bend
 
 {{< /columns >}}
-
-
-
