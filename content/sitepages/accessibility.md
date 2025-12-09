@@ -21,7 +21,9 @@ This achievement reflects our unwavering belief that everyone who visits Oregon�
 
 Being Destination Verified means visitors with disabilities and mobility challenges can now plan their trips using an online resource built with accessibility at its core. Increasing access and inclusivity has long been a guiding priority for Coos Bay–North Bend–Charleston Visitor & Convention Bureau. [**Learn more about Wheel the World.**](https://wheeltheworld.com/accessible-travel/usa/oregon/coos-bay)
 
-PHOTO: maybe a photo of Shore Acres gardens with someone in a wheel chair
+&nbsp;
+
+![David's Chair mobility system with track-based chair](/img/davids-chair.jpg)
 
 ### David’s Chair
 
@@ -55,8 +57,7 @@ divider
 
 [Charleston Marine Life Center](https://cmlc.uoregon.edu/) – 63531 Boat Basin Rd., Charleston
 
-{{< /columns >}}
-&nbsp;
+{{< /columns >}} &nbsp;
 
 ![woman in red kayak at accessible kayak launch](/img/tsoc-kayak-launch-695x322.jpg "Photo courtesy of TSOC")
 
@@ -73,8 +74,7 @@ divider
 
 [William M. Tugman State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69) – 72549 Hwy 101, Lakeside, OR
 
-{{< /columns >}}
-&nbsp;
+{{< /columns >}} &nbsp;
 
 ### Hearing Loops
 
