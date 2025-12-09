@@ -43,23 +43,24 @@ More than 350 million people worldwide experience some form of color vision defi
 
 Oregon’s Adventure Coast is proud to offer **EnChroma outdoor glasses**, available for both common and rare forms of color blindness. Adults and children can borrow these glasses for **up to seven days**, free of charge, from the Coos Bay Visitor Center at 50 Central Ave., Coos Bay. [**Learn more about EnChroma.**](https://enchroma.com)
 
+
 **In addition, Indoor Color Blindness Glasses are available at these locations:**
 
 {{< columns number="3" >}}
 
-![placeholder image](/img/place-holder-image.jpg)<br><br>
+![two women admiring a large sculptural art piece at the Coos Art Museum](/img/coos-art-museum-400x267.jpg)<br><br>
 **Coos Art Museum**<br>
 235 Anderson Avenue<br>
 Coos Bay | [Visit Website](https://coosartmuseum.org/)
 
 divider
-![placeholder image](/img/place-holder-image.jpg)<br><br>
+![mother and child reading sign next to a boat in the coos history museum](/img/coos-history-museum-400x267.jpg)<br><br>
 **Coos History Museum**<br>
 1210 N. Front Street<br>
 Coos Bay | [Visit Website](https://cooshistory.org/)
 
 divider
-![placeholder image](/img/place-holder-image.jpg)<br><br>
+![kids with their hands in a tide pool tank at the charleston marine life center](/img/charleston-marine-life-center-400x267.jpg)<br><br>
 **Charleston Marine Life Ctr**<br>
 63531 Boat Basin Road<br>
 Charleston | [Visit Website](https://cmlc.uoregon.edu/)
