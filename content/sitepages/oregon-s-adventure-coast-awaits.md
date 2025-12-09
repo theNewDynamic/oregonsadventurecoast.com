@@ -1,10 +1,10 @@
 ---
 _schema: default
-title: Oregon’s Adventure Coast Awaits!
+title: Your Bucket List Must
 draft: false
 url: /sfo
 layout: adventure-sidebar
-photo: /img/denver-to-oth-page-hdr-2048x530.jpg
+photo: /img/commerical-airport-header-2048x531.jpg
 aliases:
   - /san-francisco
 ---
@@ -12,7 +12,11 @@ aliases:
 
 ![dramatic cliff overlooking pacific ocean at sunset with Welcome San Franciscans](/img/sfo-page-sub-head.jpg)
 
-Oregon’s Adventure Coast is excited to be **THE** Oregon Coast destination for nonstop flights from San Francisco to North Bend, Oregon **(SFO to OTH).** <a href="https://www.united.com/en/us" target="_blank" rel="noopener">United Airlines</a> is offering several nonstop flights a week to Oregon's South Coast and the only commercial airport on the Oregon Coast. You may already know our area—or perhaps you’ve heard of us because of the world-renowned [Bandon Dunes Golf Resort](https://bandondunesgolf.com), just down the road. Either way, when you need a new outdoor adventure, you’ve found it.  We feel a strong kinship with our friends in the Bay Area, who share our passion for outdoor adventure, big views, and easy access to nature.
+Oregon’s Adventure Coast is excited to be **THE** Oregon Coast, Bucket List destination for our friends in Northern California. There are several nonstop flights a week between San Francisco (SFO) and Oregon’s South Coast, North Bend, Oregon **(SFO to OTH) on** <a href="https://www.united.com/en/us" target="_blank" rel="noopener">United Airlines</a>. OTH is the only commercial airport on the Oregon Coast.
+
+So, when it’s time to leave the crowds behind and discover a bucket list destination where adventure meets relaxation — **Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston affords a quick and non-stop opportunity for you**.
+
+Stretch out your vacation with an extended stay on our dramatic coastline, where rugged cliffs, lush forests, charming towns, and endless outdoor activities invite you to explore, unwind, and reconnect. Check out some of our most popular [trip ideas](/tripideas).
 
 The Southern Oregon Coast offers temperate weather and enough space for every visitor to do what they love, with room to spare.
 
