@@ -60,7 +60,7 @@ Coos Bay | [Visit Website](https://cooshistory.org/)
 
 divider
 ![placeholder image](/img/place-holder-image.jpg)<br><br>
-**Charleston Marine Life Center**<br><br>
+**Charleston Marine Life Ctr**<br><br>
 63531 Boat Basin Road<br>
 Charleston | [Visit Website](https://cmlc.uoregon.edu/)
 
