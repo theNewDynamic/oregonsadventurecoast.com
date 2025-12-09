@@ -55,7 +55,7 @@ Coos Bay | [Visit Website](https://coosartmuseum.org/)
 divider
 ![placeholder image](/img/place-holder-image.jpg)<br><br>
 **Coos History Museum**<br>
-1210 N. Front Street
+1210 N. Front Street<br>
 Coos Bay | [Visit Website](https://cooshistory.org/)
 
 divider
@@ -101,13 +101,13 @@ Hearing loop technology ensures that visitors with hearing loss can fully partic
 {{< columns number="2" >}}
 ![coos bay visitor center at dusk](/img/sm-visitor-center.jpg)<br><br>
 **Coos Bay Visitor Center**<br>
-50 Central Avenue, Coos Bay<br>
-[Visit Page](/contact)
+50 Central Avenue<br>
+Coos Bay | [Visit Page](/contact)
 
 divider
 ![liberty theater building with red front doors](/img/liberty-theater-400x267.jpg)<br><br>
 **Liberty Theatre**<br>
-2100 Sherman Avenue, North Bend<br>
-[Visit Website](https://thelibertytheatre.org)
+2100 Sherman Avenue<br>
+North Bend | [Visit Website](https://thelibertytheatre.org)
 
 {{< /columns >}}
