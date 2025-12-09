@@ -47,15 +47,19 @@ Oregon’s Adventure Coast is proud to offer **EnChroma outdoor glasses**, avail
 
 {{< columns number="3" >}}
 
-[**Coos Art Museum**](https://coosartmuseum.org/) – 235 Anderson Ave., Coos Bay
+![placeholder image](/img/place-holder-image.jpg)<br><br>
+**Coos Art Museum**<br>
+235 Anderson Avenue, Coos Bay | [Visit Website](https://coosartmuseum.org/) – 
 
 divider
-
-[Coos History Museum](https://cooshistory.org/) – 1210 N. Front St., Coos Bay
+![placeholder image](/img/place-holder-image.jpg)<br><br>
+**Coos History Museum**<br>
+1210 N. Front Street, Coos Bay | [Visit Website](https://cooshistory.org/)
 
 divider
-
-[Charleston Marine Life Center](https://cmlc.uoregon.edu/) – 63531 Boat Basin Rd., Charleston
+![placeholder image](/img/place-holder-image.jpg)<br><br>
+**Charleston Marine Life Center**<br><br>
+63531 Boat Basin Road, Charleston | [Visit Website](https://cmlc.uoregon.edu/)
 
 {{< /columns >}} &nbsp;
 
@@ -70,15 +74,12 @@ Our accessible kayak launches and viewing platforms open the door to water adven
 {{< columns number="2" >}}
 ![placeholder image](/img/place-holder-image.jpg)<br><br>
 **John Topits Park**<br>
-298 Hull St<br>
-Coos Bay, OR<br>
-[Visit Website](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes) – 
+298 Hull Street, Coos Bay | [Visit Website](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes) – 
 
 divider
 ![placeholder image](/img/place-holder-image.jpg)<br><br>
 **William M. Tugman State Park**<br>
-72549 Hwy 101, Lakeside, OR<br>
-[Visit Website](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69)
+72549 Hwy 101, Lakeside | [Visit Website](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69)
 
 {{< /columns >}}
 
@@ -95,11 +96,11 @@ Hearing loop technology ensures that visitors with hearing loss can fully partic
 {{< columns number="2" >}}
 ![coos bay visitor center at dusk](/img/sm-visitor-center.jpg)<br><br>
 **Coos Bay Visitor Center**<br>
-50 Central Ave, Coos Bay
+50 Central Avenue, Coos Bay | [Visit Page](/contact)
 
 divider
 ![liberty theater building with red front doors](/img/liberty-theater-400x267.jpg)<br><br>
 **Liberty Theatre**<br>
-2100 Sherman Ave, North Bend
+2100 Sherman Avenue, North Bend | [Visit Website](https://thelibertytheatre.org)
 
 {{< /columns >}}
