@@ -84,7 +84,7 @@ Our accessible kayak launches and viewing platforms open the door to water adven
 Coos Bay | [Visit Website](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes)
 
 divider
-![placeholder image](/img/place-holder-image.jpg)<br><br>
+![two women readying a kayak at an accessible launch into a lake](/img/eel-lake-launch-400x267.jpg)<br><br>
 **William M. Tugman State Park**<br>
 72549 Hwy 101<br>
 Lakeside | [Visit Website](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69)
