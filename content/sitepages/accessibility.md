@@ -78,12 +78,13 @@ Our accessible kayak launches and viewing platforms open the door to water adven
 **Accessible kayak launches can be found at:**
 
 {{< columns number="2" >}}
-![placeholder image](/img/place-holder-image.jpg)<br><br>
+![Woman with blue life vest and sunglasses, kayaking](/img/ami-kayaking-40067.jpg)<br><br>
 **John Topits Park**<br>
 298 Hull Street<br>
 Coos Bay | [Visit Website](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes)
 
 divider
+
 ![two women readying a kayak at an accessible launch into a lake](/img/eel-lake-launch-400x267.jpg)<br><br>
 **William M. Tugman State Park**<br>
 72549 Hwy 101<br>
