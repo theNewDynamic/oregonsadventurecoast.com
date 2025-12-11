@@ -77,7 +77,7 @@ Our accessible kayak launches and viewing platforms open the door to water adven
 
 **Accessible kayak launches can be found at:**
 
-{{< columns number="2" >}}
+{{< columns number="3" >}}
 ![Woman with blue life vest and sunglasses, kayaking](/img/ami-kayaking-40067.jpg)<br><br>
 **John Topits Park**<br>
 298 Hull Street<br>
@@ -88,6 +88,13 @@ divider
 ![two women readying a kayak at an accessible launch into a lake](/img/eel-lake-launch-400x267.jpg)<br><br>
 **William M. Tugman State Park**<br>
 72549 Hwy 101<br>
+Lakeside | [Visit Website](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69)
+
+divider
+
+![two women readying a kayak at an accessible launch into a lake](/img/eel-lake-launch-400x267.jpg)<br><br>
+**North Tenmile Lake**<br>
+325 S 8th Street<br>
 Lakeside | [Visit Website](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69)
 
 {{< /columns >}}
