@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Accessibility
-draft: true
+draft: false
 url: /accessibility
 layout: travelersinfo
 photo: /img/accessibility-page-header-2048x531.jpg
