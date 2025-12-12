@@ -86,16 +86,16 @@ Coos Bay | [Visit Website](https://www.coosbayor.gov/community/city-parks/john-t
 divider
 
 ![two women readying a kayak at an accessible launch into a lake](/img/eel-lake-launch-400x267.jpg)<br><br>
-**William M. Tugman State Park**<br>
+**Tugman State Park - Eel Lake**<br>
 72549 Hwy 101<br>
-Lakeside | [Visit Website](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69)
+Lakeside | [Visit Website](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=69)
 
 divider
 
-![two women readying a kayak at an accessible launch into a lake](/img/eel-lake-launch-400x267.jpg)<br><br>
-**North Tenmile Lake**<br>
-325 S 8th Street<br>
-Lakeside | [Visit Website](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69)
+![Woman on dock holding kayak paddle with woman in kayak on the water](/img/tenmile-lake-400x267.jpg)<br><br>
+**Tenmile Lake**<br>
+205 S 11th Street<br>
+Lakeside | [Visit Website](https://www.co.coos.or.us/parksrec/page/tenmile-lakes-park)
 
 {{< /columns >}}
 
