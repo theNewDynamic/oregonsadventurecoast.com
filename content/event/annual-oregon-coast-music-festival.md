@@ -62,7 +62,7 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 ![Adam Stern conducts the orchestra.](/img/ocma-pops-concert-frankprice-web.jpg "Photograph Courtesy Frank Price")
 
-**Thursday, July 23 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA Festival Orchestra Pops<br>**Information Coming Soon
+**Thursday, July 23 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>\*\*OCMA Festival Orchestra Pops<br>\*\*Information Coming Soon
 
 {{< spacer 50 >}}
 
