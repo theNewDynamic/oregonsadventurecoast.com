@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual Oregon Coast Music Festival
-startdate: '2025-07-12'
-enddate: '2025-07-26'
+startdate: '2026-07-11'
+enddate: '2026-07-25'
 address:
   city: Coos Bay
   street: ''
@@ -24,15 +24,15 @@ date: 2019-02-10T13:57:25-08:00
 ---
 ![The 80 Member Festival Orchestra fills Marshfield High with souring sounds.](/img/ocma-pops-concert-frankprice-web.jpg "The Annual Oregon Coast Music Festival in Coos Bay - Photo by Frank Price")
 
-#### **The 47th Oregon Coast Music Festival will fill us up with stunning music in July.**
+#### **The 48th Oregon Coast Music Festival will fill us up with stunning music in July.**
 
 {{< spacer 50 >}}
 
-Fondly referred to as the "Tanglewood" of the West Coast, the **Oregon Coast Music Festival** will celebrates its 47th Season and is the longest running music festival on the Oregon Coast! This annual festival boasts two full weeks, including three Saturdays, of classical music and music education for all ages and welcomes more than 80 musicians from across the country.
+Fondly referred to as the "Tanglewood" of the West Coast, the **Oregon Coast Music Festival** will celebrates its 48th Season and is the longest running music festival on the Oregon Coast! This annual festival boasts two full weeks, including three Saturdays, of classical music and music education for all ages and welcomes more than 80 musicians from across the country.
 
 You'll find a heady mix of classical and jazz art forms, taking place at venues around the Coos Bay area such as Shore Acres State Park Garden, the OIMB Boat House, stunning Mingus Park, plus a host of free seminars at the Southwest Oregon Community College. Enjoy two full weeks of outstanding music culminating with the 80-member Festival Orchestra performing three concerts in Marshfield High's Auditorium.&nbsp;
 
-{{< floatimage src="/img/martin-majkut-1.jpeg" float="left" alt="Martin Majkut " size="" >}}This year, the **OCMA welcomes Maestro Martin Majkut** as Music Director and Conductor. Martin Majkut is an internationally recognized conductor known for his dynamic leadership and innovative programming. Majkut is the Music Director of the Rogue Valley Symphony Orchestra and has performed with the Slovak Philharmonic, Tacoma Opera, Rogue Opera, Southern Arizona Symphony Orchestra, among others.
+{{< floatimage src="/img/martin-majkut-1.jpeg" float="left" alt="Martin Majkut " size="" >}} **OCMA's Conductor Maestro Martin Majkut** is  internationally recognized, known for his dynamic leadership and innovative programming. Majkut is the Music Director of the Rogue Valley Symphony Orchestra and has performed with the Slovak Philharmonic, Tacoma Opera, Rogue Opera, Southern Arizona Symphony Orchestra, among others.
 
 *Photo credit: Chrisopher Briscoe*
 
@@ -40,31 +40,15 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 ![The Festival Orchestra Concerts are a must attend each summer in Coos Bay.](/img/ocma-orchestra-frankprice-web.jpg "The Oregon Coast Music Festival Orchestra - Photo by Frank Price")
 
-### 47th Oregon Coast Music Festival Special Events and Concerts - July 12-26 2025
+### 48th Oregon Coast Music Festival Special Events and Concerts - July 11-25 2026
 
-**Saturday, July 12 - Noon-2pm**<br>Mingus Park Amphitheater, 725 N 10th St, Coos Bay<br>**Bay Area Concert Band Festival Opener<br>Free**
+**Saturday, July 11 - Noon-2pm**<br>Mingus Park Amphitheater, 725 N 10th St, Coos Bay<br>**Bay Area Concert Band Festival Opener<br>Free**
 
-**Sunday, July 13 - 2:00-3:30pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**Aaron Johnson Quartet** - The Aaron Johnson Quartet Plays Brazilian and Latin Jazz<br>**$50 -** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/BOYYHBLYSDXFTNSLGBPMQ2TL" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
+**Sunday, July 12 - 2:00-3:30pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>Information Coming Soon
 
-**Tuesday, July 15 - 10:00am-Noon**<br>Umpqua Hall – Southwestern Community College - 2110 Newmark Ave, Coos Bay<br>**Jazz Guitar, Voice and Wind Workshops** with Aaron Johnson and friends<br>**Free**
+{{< floatimage src="/img/family-mystic-1.jpeg" float="left" alt="Members of Family Mystic" size="" >}}**Saturday, July 18 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>Information Coming Soon
 
-**Wednesday, July 16 - 7:00pm**<br>Sprague Community Theatre, Bandon Community Center, 1200 11th St SW, Bandon<br>**Sugar Beets** - Americana, Rock, Soul, and Bluegrass<br>**$20-$25** - <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/DIPLKSKWZRQT3LO6RRHY4WCC" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
-
-**Thursday, July 17 - 7:00pm**<br>SWOCC Hales Center for the Performing Arts, 1988 Newmark Ave, Coos Bay<br>**Voices of the Community** - Fantasia-harp, guitar and percussion; South Coast Folk Society Dancers, and Side of the Tide Morris Dancers.**<br>$15 -** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/EIWVWQBJYWQUZNGYFURES7UF" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
-
-**Friday, July 18 - 2:00pm**<br>North Bend Public Library, 1800 Sherman Ave, North Bend<br>**Afternoon Music Cafe** with Just Jensens and Tree-O<br>**Free**
-
-{{< floatimage src="/img/family-mystic-1.jpeg" float="left" alt="Members of Family Mystic" size="" >}}**Saturday, July 19 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>**Family Mystic** - Marcelo Guitron - Guitar/Vocals, Matthew Serino - Bass/Vocals, Tommy Serino - Drums/Vocals; Love Covington - Keys/Vocals<br>**Free - Parking $10**
-
-**Sunday, July 20 - 2:00pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**7 Devils Presents** [**Stillhouse Junkies**](https://stillhousejunkies.com/)**<br>$25 - Tickets coming soon**
-
-**Monday, July 21 - Noon**<br>Umpqua Hall, Room 109, Southwestern Community College - 2110 Newmark Ave, Coos Bay<br>**Lunch & Learn:** Bring your lunch and learn more about tomorrow night's Opening Orchestra concert<br>**FREE**
-
-**Wednesday, July 23 - Noon**<br>Umpqua Hall, Room 109, Southwestern Community College - 2110 Newmark Ave, Coos Bay<br>**Lunch & Learn:** Bring your lunch and learn more about tomorrow night's Orchestra Pops concert with Adam Stern and Aaron Johnson<br>**FREE**
-
-**Friday, July 25 - Noon**<br>Umpqua Hall, Room 109, Southwestern Community College - 2110 Newmark Ave, Coos Bay<br>**Lunch & Learn:** Bring your lunch and learn more about tomorrow night's Final Orchestra concert<br>**FREE**
-
-**Friday, July 25 - 7:00pm**<br>First Presbyterian Church, 2238 Pony Creek Rd, North Bend<br>**Redfish Piano Trio<br>$20 - Tickets at the Door**
+**More Information Coming Soon!**
 
 {{< spacer 25 >}}
 
@@ -72,18 +56,18 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 ![The glittering, brilliant sounds of the Harp enhance every movement played by the Orchestra during the OR Coast Music Festival in Coos Bay.](/img/ocma-harpist-frankprice-web.jpg "The Orchestra features the glittering sounds of the harp - Photo by Frank Price")
 
-{{< floatimage src="/img/dace-gregory.jpeg" float="left" alt="Dace Gregory with her Cello" size="" >}}**Tuesday, July 22 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA Festival Orchestra Concert I**&nbsp;<br>**Melting Pot**: the Evening Concert of the Festival Orchestra. Conductor Martin Majkut with Dace Gregory, Cello, as a soloist. Selections include:<br>**Sinfonia** by Mazzoli<br>**Cello Concerto** by Dvořák, Dace Gregory, cello soloist<br>**West Side Story**: Symphonic Dances by Bernstein<br>**$20-$25 -** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/QUBLPKC42WV5EZLVNGL6UWA3" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
+**Tuesday, July 21 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA Festival Orchestra Concert I**&nbsp;<br>Information Coming Soon
 
 {{< spacer 50 >}}
 
 ![Adam Stern conducts the orchestra.](/img/ocma-pops-concert-frankprice-web.jpg "Photograph Courtesy Frank Price")
 
-**Thursday, July 24 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA Festival Orchestra Pops<br>Summer Travels:** Conductor Adam Stern provides a diverse array of music. Featuring Aaron Johnson, soloist<br>Includes musical selections by **GRIEG, JOPLIN, GRAINGER, GOULD, PORTER**, and many more<br>**$20-$25 -** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/63ORVL3SBSJQAMBHZKIRSIDI" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
+**Thursday, July 23 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA Festival Orchestra Pops<br>**Information Coming Soon
 
 {{< spacer 50 >}}
 
 ![The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July](/img/ocma-cellist-frankprice-web.jpg "The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July - Photo by Frank Price")
 
-{{< floatimage src="/img/nancy-zhou-1.jpeg" float="left" alt="Violinist Nancy Zhou" size="" >}}**Saturday, July 26 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA** ***Festival Finale*** **Festival Orchestra Concert II**&nbsp;<br>**Four Love Scenes**. OCMA Festival Orchestra provides final concert. Conductor Martin Majkut with Nancy Zhou, soloist. Selections include:<br>**Bickering Love** by Berlioz: Béatrice et Bénédict<br>**Forbidden Love** by He Zhanhao: The Butterfly Lovers Violin Concerto Nancy Zhou, violin<br>**Love Beyond Grave** by Wagner: Tristan und Isolde: Prelude & Liebestod <br>**Love Conquers All** by Stravinsky: The Firebird Suite<br>**$20-$25 -** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/LASPUGUDDSWZDABHNXZTA4C5" target="_blank" rel="noopener"><strong>Buy Tickets</strong></a>
+**Saturday, July 25 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA** ***Festival Finale*** **Festival Orchestra Concert II**&nbsp;<br>Information Coming Soon
 
 {{< spacer 25 >}}
