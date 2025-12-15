@@ -28,6 +28,9 @@ our_area:
   weight: 80
 
 travelers:
+- url: /accessibility/
+  name: Accessibility
+  weight: 10
 - url: http://www.flyoth.com/
   name: Airline Tickets and Travel
   weight: 20
