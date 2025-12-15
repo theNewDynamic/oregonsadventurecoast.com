@@ -85,7 +85,7 @@ divider
 
 divider
 
-![Woman on dock holding kayak paddle with woman in kayak on the water](/img/tenmile-lake-400x267.jpg)<br><br> **Tenmile Lake**<br> 205 S 11th Street<br> Lakeside \| [Visit Website](https://www.co.coos.or.us/parksrec/page/tenmile-lakes-park)<br>*Photo courtesy Manuela Durson*{{< /columns >}}
+![Woman on dock holding kayak paddle with woman in kayak on the water](/img/tenmile-lake-400x267.jpg)<br><br> **Tenmile Lake**<br> 205 S 11th Street<br> Lakeside \| [Visit Website](https://www.co.coos.or.us/parksrec/page/tenmile-lakes-park)<br>*Photo: Manuela Durson*{{< /columns >}}
 
 {{< spacer "50" >}}
 
