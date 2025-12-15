@@ -75,6 +75,8 @@ Charleston | [Visit Website](https://cmlc.uoregon.edu/)
 
 Our accessible kayak launches and viewing platforms open the door to water adventures that many once thought were out of reach. These thoughtfully designed features allow visitors with mobility challenges to explore Oregon’s waterways with confidence and ease.
 
+&nbsp;
+
 **Accessible kayak launches can be found at:**
 
 {{< columns number="3" >}}![Woman with blue life vest and sunglasses, kayaking](/img/ami-kayaking-40067.jpg)<br><br> **John Topits Park**<br> 298 Hull Street<br> Coos Bay \| [Visit Website](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes)
