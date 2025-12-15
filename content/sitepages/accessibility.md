@@ -77,27 +77,15 @@ Our accessible kayak launches and viewing platforms open the door to water adven
 
 **Accessible kayak launches can be found at:**
 
-{{< columns number="3" >}}
-![Woman with blue life vest and sunglasses, kayaking](/img/ami-kayaking-40067.jpg)<br><br>
-**John Topits Park**<br>
-298 Hull Street<br>
-Coos Bay | [Visit Website](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes)
+{{< columns number="3" >}}![Woman with blue life vest and sunglasses, kayaking](/img/ami-kayaking-40067.jpg)<br><br> **John Topits Park**<br> 298 Hull Street<br> Coos Bay \| [Visit Website](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes)
 
 divider
 
-![two women readying a kayak at an accessible launch into a lake](/img/eel-lake-launch-400x267.jpg)<br><br>
-**Tugman State Park - Eel Lake**<br>
-72549 Hwy 101<br>
-Lakeside | [Visit Website](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=69)
+![two women readying a kayak at an accessible launch into a lake](/img/eel-lake-launch-400x267.jpg)<br><br> **Tugman State Park - Eel Lake**<br> 72549 Hwy 101<br> Lakeside \| [Visit Website](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69)
 
 divider
 
-![Woman on dock holding kayak paddle with woman in kayak on the water](/img/tenmile-lake-400x267.jpg)<br><br>
-**Tenmile Lake**<br>
-205 S 11th Street<br>
-Lakeside | [Visit Website](https://www.co.coos.or.us/parksrec/page/tenmile-lakes-park)
-
-{{< /columns >}}
+![Woman on dock holding kayak paddle with woman in kayak on the water](/img/tenmile-lake-400x267.jpg)<br><br> **Tenmile Lake**<br> 205 S 11th Street<br> Lakeside \| [Visit Website](https://www.co.coos.or.us/parksrec/page/tenmile-lakes-park)<br>*Photo courtesy Manuela Durson*{{< /columns >}}
 
 {{< spacer "50" >}}
 
