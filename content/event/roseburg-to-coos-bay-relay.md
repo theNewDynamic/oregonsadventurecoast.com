@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Roseburg To Coos Bay Relay
-startdate: '2025-04-26'
-enddate: '2025-04-26'
+startdate: '2026-04-25'
+enddate: '2026-04-25'
 address:
   city: Coos Bay
   state: OR
@@ -10,7 +10,7 @@ address:
   street2: ''
   zip: '97420'
 phone_local: '541-260-3298 '
-website: https://southcoastrunningclub.org/roseburg-to-coos-bay-relay/
+website: https://www.southcoastrunningclub.com/events/roseburg-to-coos-bay-relay
 coordinates:
   lat: ''
   lng: ''
@@ -23,10 +23,10 @@ desktoptitle: Roseburg to Coos Bay Relay
 mobiletitle: Roseburg to Coos Bay Relay
 hovertitle: Roseburg to Coos Bay Relay
 hoverdescription: Run 68 Miles of Gorgeous Countryside with your Best Running Buddies!
-photo: /img/prerun-hero-2048x530.jpg
-largeboxphoto: /img/prerun-legs-1024x395.jpg
-mediumboxphoto: /img/prerun-667x355.jpg
-smallboxphoto: /img/prerun-340x214.jpg
+photo: /img/runners-2048x530-2.jpg
+largeboxphoto: /img/runners-1024x395-1.jpg
+mediumboxphoto: /img/runners-667x355.jpg
+smallboxphoto: /img/runners-340x214.jpg
 ---
 ![](/img/roseburg-coos-waterfall.jpg)
 
@@ -62,7 +62,7 @@ The race will finish at the Coos Bay History Museum (1210 N. Front Street, Coos 
 
 6\. &nbsp;Remember this course is not supported. You are responsible for ensuring your team makes it to the finish line safely. Bring lots of water and snacks. The roads are open to traffic and locals drive fast and furious.&nbsp; Please be aware at all times and wear bright colors.
 
-[**CHECK THE RACE WEBSITE FOR MORE INFORMATION!**](https://southcoastrunningclub.org/roseburg-to-coos-bay-relay/)
+<a href="https://www.southcoastrunningclub.com/events/roseburg-to-coos-bay-relay" target="_blank" rel="noopener"><strong>CHECK THE RACE WEBSITE FOR MORE INFORMATION!</strong></a>
 
 **{{< spacer "20" >}}**
 
