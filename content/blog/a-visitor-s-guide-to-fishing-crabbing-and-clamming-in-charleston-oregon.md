@@ -37,6 +37,10 @@ tags:
   - outdoor recreation Oregon Coast
   - seafood and fishing towns Oregon
   - coastal Oregon vacation planning
+categories:
+  - Fishing
+  - Crabbing
+  - Clamming
 warning: false
 ---
 Ahhh, Charleston… how we love this unique **Oregon’s Adventure Coast** treasure, a place locals love and where daily life revolves around the water. If [fishing, crabbing, or clamming](https://www.oregonsadventurecoast.com/tripideas/a-weekend-of-fishing-and-so-much-more-on-oregon-s-adventure-coast/) are on your must-do list, [Charleston, Oregon](https://www.oregonsadventurecoast.com/our-area-charleston/), is a great place to start. This active fishing port offers easy access to the ocean, bays, estuary, and rivers, along with a bustling marina, public beaches, and some of the freshest seafood on the West Coast. With so many [different fishing styles](https://www.oregonsadventurecoast.com/fishing-by-style/) and catches available throughout the year, Charleston is a true year-round destination for casting a line.
@@ -94,7 +98,7 @@ Charleston is a perfect option for first-time clammers as it has [well-known spo
 * **Check the tides.** Always go at low tide for a successful outing. Zero and minus tides are even better because they expose large areas of mudflat, providing the best access. Tide tables are available online, at local retailers, and at [Visitor Information Centers in Coos Bay, North Bend, and Charleston](https://www.oregonsadventurecoast.com/contact/).
 * **Get a shellfish license (it’s required for clamming).** Anyone age 12 and older must have a valid Oregon shellfish license. Licenses can be purchased [online through the Oregon Department of Fish and Wildlife](https://myodfw.com/articles/how-buy-license-or-tag) or at [local retailers such as sporting goods stores and tackle shops](https://myodfw.com/articles/find-odfw-licensed-agents-or-vendors).
 * **Check current regulations and health advisories before harvesting shellfish**. Temporary closures and safety updates are posted by the Oregon Department of Fish and Wildlife and the Oregon Health Authority.
-* **There are** [local bait-and-tackle shops that will rent clamming tools](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/) ** ** and can provide guidance on timing and locations. Basic equipment includes a bucket or mesh bag, a shovel, rake, or clam gun, waterproof boots (trust us on that one), and waterproof gloves. Consider bringing a cooler, access to fresh water for rinsing, towels, and a tide chart.
+* **There are** [local bait-and-tackle shops that will rent clamming tools](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/) \*\* \*\* and can provide guidance on timing and locations. Basic equipment includes a bucket or mesh bag, a shovel, rake, or clam gun, waterproof boots (trust us on that one), and waterproof gloves. Consider bringing a cooler, access to fresh water for rinsing, towels, and a tide chart.
 
   &nbsp;
 
@@ -111,7 +115,7 @@ Charleston is a perfect option for first-time clammers as it has [well-known spo
 
 In addition to fishing, crabbing, and clamming, Charleston offers easy access to state parks, beaches, and educational attractions. Many of these sites are connected by the Cape Arago Highway and can be explored in a single day.
 
-**Cape Arago Highway Loop-** The[6.5-mile Cape Arago Highway Loop](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/) connects [Sunset Bay State Park, Shore Acres State Park, and Cape Arago State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) and makes for a beautiful drive. Visitors will find hiking and walking trails, beach access, viewpoints, picnic areas, and restrooms along the route.
+**Cape Arago Highway Loop-** The[6\.5-mile Cape Arago Highway Loop](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/) connects [Sunset Bay State Park, Shore Acres State Park, and Cape Arago State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) and makes for a beautiful drive. Visitors will find hiking and walking trails, beach access, viewpoints, picnic areas, and restrooms along the route.
 
 **Sunset Bay State Park -** [Sunset Bay State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=70) features beach access, short coastal trails, and connections to nearby headlands and parks. The bay offers a protected shoreline and easy walking paths. Parking is $10 per vehicle - *pass may also be used at Shore Acres State Park and Cape Arago State Park if you are visiting any or all of these on the same day.*
 
