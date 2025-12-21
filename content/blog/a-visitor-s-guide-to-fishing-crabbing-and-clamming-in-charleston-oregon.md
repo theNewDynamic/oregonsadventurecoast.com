@@ -37,6 +37,10 @@ tags:
   - outdoor recreation Oregon Coast
   - seafood and fishing towns Oregon
   - coastal Oregon vacation planning
+categories:
+  - Fishing
+  - Crabbing
+  - Clamming
 warning: false
 ---
 Ahhh, Charleston… how we love this unique **Oregon’s Adventure Coast** treasure, a place locals love and where daily life revolves around the water. If [fishing, crabbing, or clamming](https://www.oregonsadventurecoast.com/tripideas/a-weekend-of-fishing-and-so-much-more-on-oregon-s-adventure-coast/) are on your must-do list, [Charleston, Oregon](https://www.oregonsadventurecoast.com/our-area-charleston/), is a great place to start. This active fishing port offers easy access to the ocean, bays, estuary, and rivers, along with a bustling marina, public beaches, and some of the freshest seafood on the West Coast. With so many [different fishing styles](https://www.oregonsadventurecoast.com/fishing-by-style/) and catches available throughout the year, Charleston is a true year-round destination for casting a line.
