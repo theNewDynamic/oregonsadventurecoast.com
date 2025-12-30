@@ -29,6 +29,6 @@ Contact Oregon’s Adventure Coast with any questions you may have about things 
 
 {{< spacer 30 >}}
 
-[![Holiday Happenings explore the festivities and goings-on](/img/holiday-happenings-button-1.jpg)](/event/holiday-happenings-tree-lightings-on-oregon-s-adventure-coast/)
+[![Huge Wave Crash - Best Storm Watching on the Entire Oregon Coast](/img/storm-watching-2024-banner-695x86.jpg)](/storm-watching)
 
 {{< spacer 50 >}}
