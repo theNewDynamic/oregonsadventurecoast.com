@@ -17,7 +17,7 @@ aliases:
 
 {{< spacer 30 >}}
 <div style="width:100%">
-<a href="/event/annual-holiday-lights-at-shore-acres/"><img src="/img/holidaylights-2048x190-11-23.jpg" alt="Holiday Lights at Shore Acres State Park thanksgiving through new years eve" style="height: 100%; width: 100%; object-fit: contain" /></a>
+<a href="/storm-watching"><img src="/img/StormWatching-2024-Banner-2048x190.jpg" alt="Huge Wave Crash with Best Storm Watching on the Entire Oregon Coast" style="height: 100%; width: 100%; object-fit: contain" /></a>
 </div>
 
 {{< spacer 50 >}}
