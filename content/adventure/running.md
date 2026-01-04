@@ -94,7 +94,7 @@ This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A ver
 
 **September \| 5K, 10K, Fun Run & Wheelchair Run**
 
-Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a race that pays homage to the legendary Steve Prefontaine. Held in the beautiful landscape of Oregon's Adventure Coast, this event invites athletes to honor Prefontaine's spirit and determination by pushing their own limits. Whether you're a seasoned runner or a novice, this race is an opportunity to channel your inner Prefontaine and embrace the passion for running that he inspired in so many. Join us in remembering a true icon of the sport and experience the thrill of running in his footsteps. <a href="/event/annual-prefontaine-memorial-run" target="_blank" rel="noopener">Click here for race information.</a>
+Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a race that pays homage to the legendary Steve Prefontaine. Held in the beautiful landscape of Oregon's Adventure Coast, this event invites athletes to honor Prefontaine's spirit and determination by pushing their own limits. Whether you're a seasoned runner or a novice, this race is an opportunity to channel your inner Prefontaine and embrace the passion for running that he inspired in so many. Join us in remembering a true icon of the sport and experience the thrill of running in his footsteps. [Click here for race information.](/event/annual-prefontaine-memorial-run)
 
 {{< spacer 60 >}}
 
@@ -108,7 +108,7 @@ If you have ever wanted to take to the trails at Whiskey Run, but not on a mount
 
 {{< spacer 40 >}}
 
-If you're curious about other races happening in our area, the <a href="https://southcoastrunningclub.org/calendar/" target="_blank" rel="noopener">South Coast Running Club's calendar</a> is your go-to resource. It's packed with exciting events that'll keep you on your toes and connected with fellow running enthusiasts!
+If you're curious about other races happening in our area, the <a href="https://www.southcoastrunningclub.com/race-calender" target="_blank" rel="noopener">South Coast Running Club's calendar</a> is your go-to resource. It's packed with exciting events that'll keep you on your toes and connected with fellow running enthusiasts!
 
 {{< spacer "60" >}}
 
@@ -118,7 +118,7 @@ If you're curious about other races happening in our area, the <a href="https://
 
 **South Coast Running Club**<br>PO Box 1001<br>Coos Bay, OR US 97420<br>Phone: 541-260-3298<br>[southcoastrunningclub.com](https://southcoastrunningclub.com "https://southcoastrunningclub.com")
 
-Founded in the early 1970’s, SCRC is a volunteer based, non-profit club. They are a member of the Road Runners Clubs of America, as well as an active participant in their local community. They organize 10-12 annual low cost events with attendance of 50-500 people, and pride themselves with welcoming all to participate. They maintain an annual memorial scholarship to the high-school and college youth in our community and many of their events support a local charity.&nbsp;<a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">Visit their calendar for all the details.</a>
+Founded in the early 1970’s, SCRC is a volunteer based, non-profit club. They are a member of the Road Runners Clubs of America, as well as an active participant in their local community. They organize 10-12 annual low cost events with attendance of 50-500 people, and pride themselves with welcoming all to participate. They maintain an annual memorial scholarship to the high-school and college youth in our community and many of their events support a local charity.&nbsp;<a target="_blank" rel="noopener" href="https://www.southcoastrunningclub.com/race-calender">Visit their calendar for all the details.</a>
 
 divider
 
