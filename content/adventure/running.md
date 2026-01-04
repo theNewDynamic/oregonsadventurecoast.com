@@ -84,7 +84,7 @@ Experience the ultimate individual or team challenge at the "Circle the Bay" on 
 
 **September \| 1/2 Marathon, 15K, 4-Mile Trail Run, 1-Mile Beach Fun Run**
 
-This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A very challenging course for the longer distances and the views will take what breath you have left away. &nbsp;Seriously, this race has it all, killer hills through the woods, an amazing mostly flat cliff section where you’ll see sea lions, ocean rocks, the deep blue sea, and if you’re very lucky, a passing whale. <a href="https://southcoastrunningclub.org/sunset-bay-trail-runs/" target="_blank" rel="noopener">Click here for race information.</a>
+This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A very challenging course for the longer distances and the views will take what breath you have left away. &nbsp;Seriously, this race has it all, killer hills through the woods, an amazing mostly flat cliff section where you’ll see sea lions, ocean rocks, the deep blue sea, and if you’re very lucky, a passing whale. <a href="https://www.southcoastrunningclub.com/events/sunset-bay-trail-runs" target="_blank" rel="noopener">Click here for race information.</a>
 
 {{< spacer 60 >}}
 
@@ -116,7 +116,7 @@ If you're curious about other races happening in our area, the <a href="https://
 
 {{< columns number="2" >}}![south coast running club logo](/img/southcoast-running-club-logo.jpg)
 
-**South Coast Running Club**<br>PO Box 1001<br>Coos Bay, OR US 97420<br>Phone: 541-260-3298<br>[southcoastrunningclub.org](https://southcoastrunningclub.org "https://southcoastrunningclub.org")
+**South Coast Running Club**<br>PO Box 1001<br>Coos Bay, OR US 97420<br>Phone: 541-260-3298<br>[southcoastrunningclub.com](https://southcoastrunningclub.com "https://southcoastrunningclub.com")
 
 Founded in the early 1970’s, SCRC is a volunteer based, non-profit club. They are a member of the Road Runners Clubs of America, as well as an active participant in their local community. They organize 10-12 annual low cost events with attendance of 50-500 people, and pride themselves with welcoming all to participate. They maintain an annual memorial scholarship to the high-school and college youth in our community and many of their events support a local charity.&nbsp;<a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">Visit their calendar for all the details.</a>
 
