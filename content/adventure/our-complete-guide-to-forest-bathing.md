@@ -24,7 +24,7 @@ Another study in Japan showed that people who spent two nights and three days in
 
 Additionally, according to the [National Library of Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC2793341/#:~:text=A%20forest%20bathing%20trip%20involves,limonene%20%5B1%E2%80%934%5D.), <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2793341/#:~:text=A%20forest%20bathing%20trip%20involves,limonene%20%5B1%E2%80%934%5D." target="_blank" rel="noopener">trees emit natural oils called phytoncides</a> that have been proven to enhance the immune system, lower blood pressure, ward off depression and help cut anxiety.
 
-![hand on mossy fallen tree and couple sitting on log in forest](/img/collage-hand-moss-couple-695x322.jpg)
+![hand on mossy fallen tree and woman sitting on tree with eyes closed](/img/forest-bathing-collage-new-695x322.jpg)
 
 ### Who can do it?
 
