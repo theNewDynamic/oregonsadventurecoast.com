@@ -14,32 +14,35 @@ date: 2019-02-18T11:35:33-08:00
 ---
 ####
 
-{{< columns number="3" >}}
+{{< columns number="2" >}}
 
-![headshot of janice langlinais, executive director](/img/janice-langlinais-staff.jpg)
-
-<p></p>
+![headshot of janice langlinais](/img/janice-langlinais-staff.jpg)
 
 **Janice Langlinais**<br>Executive Director<br>541-269-1181 ext 2303<br>[Email Janice](mailto:janice@oregonsadventurecoast.com)
 
 divider
 
-![headshot of joni eades, manager and marketing coordinator](/img/joni-eades-staff.jpg)
+![headshot of allison richards](/img/allison-richards-staff.jpg)
 
-<p></p>
+**Allison Richards**<br>Stakeholder & Industry Relations Manager<br>541-269-1181 ext 2304<br>[Email Allison](mailto:allison@oregonsadventurecoast.com)
+
+{{< /columns >}}
+
+{{< spacer "30" >}} 
+
+{{< columns number="2" >}}
+
+![headshot of joni eades](/img/joni-eades-staff.jpg)
 
 **Joni Eades**<br>Visitor Services Manager & Marketing Coordinator<br>541-269-1181 ext 2302<br>[Email Joni](mailto:joni@oregonsadventurecoast.com)
 
 divider
 
-![headshot of allison richards, marketing project manager](/img/allison-richards-staff.jpg)
+![headshot of lehea desousa](/img/lehea.jpg)
 
-<p></p>
-
-**Allison Richards**<br>Marketing Projects Manager<br>541-269-1181 ext 2304<br>[Email Allison](mailto:allison@oregonsadventurecoast.com)
+**Lehea DeSousa**<br>Visitor Services Coordinator<br>541-269-1181 ext 2300<br>[Email Lehea](mailto:lehea@visitoac.com)
 
 {{< /columns >}}
-
 
 **For Advertising/Marketing Inquiries, please contact our Advertising Agency of Record:**
 

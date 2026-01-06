@@ -21,12 +21,13 @@ smallboxphoto: /img/holiday-lights-small.jpg
 aliases:
   - /holidaylights
   - /HolidayLights
+  - /tags/free-shuttle
 ---
 ![Holiday Lights at Shore Acres State Park - Logo](/img/holidaylights-logo-header-1.jpg)
 
 ### **The brightest and most beautiful place on the Oregon Coast Shines**
 
-Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition **every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve** – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. **Admission is always free! However, parking at Shore Acres any time of the year is $10.**
+Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition **every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve** – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. **Admission is always free! However, parking at Shore Acres any time of the year is $10. Or Take the** [**Holiday Lights Shuttle**](/img/holiday-lights-shuttle-faq.pdf) **on Fridays, Saturdays or Sundays for free.**
 
 ### <a class="learn-more-anywhere-btn" target="_blank" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">BOOK PARKING PASS NOW</a>
 
@@ -54,7 +55,7 @@ Since its inception in 1987, the annual Holiday Lights celebration has seen a re
 
 {{< spacer 50 >}}
 
-#### [![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle-1.png)](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381)
+#### ![Purchase your time-specific parking pass or ride the FREE shuttle this year!](/img/parking-pass-or-shuttle-1.png)
 
 #### {{< spacer "50" >}}
 
@@ -86,7 +87,9 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 <a href="/img/holiday-lights-shuttle-faq.pdf" target="_blank" rel="noopener"><strong>DOWNLOAD OUR FAQ</strong></a>
 
-**Every Friday, Saturday and Sunday evening** from Thanksgiving to New Year's Eve, plus the four holiday nights of Thanksgiving, Christmas Eve, Christmas and New Year's Eve, take the **FREE** shuttle from the Charleston Marina (parking lot at the corner of <a href="https://maps.app.goo.gl/noFi8BJ8hB6w2epb8" target="_blank" rel="noopener">Guano Rock Lane and Crossline Road</a> in the Marina) to Shore Acres State Park!
+**Every Friday, Saturday and Sunday evening** from Thanksgiving to New Year's Eve, plus the four holiday nights of Thanksgiving, Christmas Eve, Christmas and New Year's Eve, take the **FREE** shuttle from the Charleston Marina (parking lot at the corner of <a href="https://maps.app.goo.gl/noFi8BJ8hB6w2epb8" target="_blank" rel="noopener">Guano Rock Lane and Crossline Road</a> in the Marina) to Shore Acres State Park! Turn at the Fish Mural on Pacific Seafood's Building!
+
+![A mural of colorful fish adorn the outside of a warehouse building.](/img/img-1655.jpg "The Boys &amp; Girls Club created this colorful mural of fish and mammels!")
 
 **The Shuttle will run from approximately 4:15pm to 8:00pm FROM the Marina TO the Park and will return patrons to the Marina between 5:00pm and 9:00pm.** *NOTE: the last shuttle TO the park will depart at 8:10pm from the Marina. This is to give everyone a chance to see the lights before Shore Acres State Park closes at 9:00pm.*
 

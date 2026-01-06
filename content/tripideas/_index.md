@@ -29,6 +29,6 @@ Contact Oregon’s Adventure Coast with any questions you may have about things 
 
 {{< spacer 30 >}}
 
-<a href="/fall15"><img src="/img/fall15-695x100-09-25.jpg" alt="15% Off Fall Lodging Special Discount Banner"></a>
+[![Huge Wave Crash - Best Storm Watching on the Entire Oregon Coast](/img/storm-watching-2024-banner-695x86.jpg)](/storm-watching)
 
 {{< spacer 50 >}}

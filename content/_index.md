@@ -3,23 +3,13 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
-    photo: /img/holiday-lights-hm-slide-cover-2022.jpg
+    photo:
     title_mobile:
-    photo_mobile: /img/holiday-lights-mobile-slider-2022.jpg
-    url: /event/annual-holiday-lights-at-shore-acres
+    photo_mobile: /img/mobile-hm-slider-storm-watching-2023.jpg
+    url: /storm-watching
     video:
-  - title:
-    photo: /img/fall-15-special-hm-pg-slider-2048x850-2025.jpg
-    title_mobile:
-    photo_mobile: /img/fall-15-mobile-slider-2025.jpg
-    url: /fall15
-    video:
-  - title:
-    photo: /img/fall-fishing-hm-slider-desktop.jpg
-    title_mobile:
-    photo_mobile:
-    url: /fishing
-    video:
+      cover: /img/storm-watching-home-slider-placeholder.jpg
+      source: /img/waves-web-slider-2023-sd-480p.mov
   - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
     title_mobile:
@@ -31,9 +21,6 @@ home_splashes:
   - url: /live-cam
     img: /img/live-cam-home-pg-button.png
     alt: Live Weather Cams to See Our Area
-  - url: /fall15
-    img: /img/fall15-2048x190-09-25.jpg
-    alt: 15% Fall Lodging Special - Book Now Banner
 masonry1:
   desktopphoto: /img/running-desktop-masonry-146x152.jpg
   desktoptitle: Running

@@ -16,7 +16,7 @@ Run away on Oregon’s Adventure Coast – the perfect place to lace up your sho
 
 What makes Oregon’s Adventure Coast a runner’s paradise? For starters, there’s some storied running history here. Coos Bay is the birthplace of [Steve Prefontaine](/steve-prefontaine-story), possibly one of the best distance runners ever. It was here that Pre gained his love for running, where he honed his skills and where he trained to race himself to the top of the pack.
 
-Oregon’s Adventure Coast is also home to unparalleled terrain for running – think ocean views, forested mountains, charming neighborhoods and parks galore. Looking for a scenic easy loop with Pacific Ocean vistas? We’ve got that. A longer, more challenging run to get you up to speed for the annual 10K Prefontaine Memorial Run? No problem. How about a weekly run with a group of friendly folks who love to get out and active with like-minded runners. With the <a href="https://southcoastrunningclub.org/" target="_blank" rel="noopener">South Coast Running Club</a>, we’ve got that too.&nbsp;
+Oregon’s Adventure Coast is also home to unparalleled terrain for running – think ocean views, forested mountains, charming neighborhoods and parks galore. Looking for a scenic easy loop with Pacific Ocean vistas? We’ve got that. A longer, more challenging run to get you up to speed for the annual 10K Prefontaine Memorial Run? No problem. How about a weekly run with a group of friendly folks who love to get out and active with like-minded runners. With the <a href="https://www.southcoastrunningclub.com" target="_blank" rel="noopener">South Coast Running Club</a>, we’ve got that too.&nbsp;
 
 {{< spacer "30" >}}
 
@@ -34,7 +34,7 @@ Oregon’s Adventure Coast is a fantastic place to get your running miles in. Yo
 
 #### Running with the Locals&nbsp;
 
-When visiting the Coos Bay, North Bend, and Charleston area, adventure-seeking travelers have the opportunity to connect with the pulse of the community through an exciting activity: **Running with the Locals!**&nbsp;Each week, there's a chance to join the locals for a midweek <a href="https://southcoastrunningclub.org/wednesday/" target="_blank" rel="noopener">Hump Day Run</a>&nbsp;on Wednesday evenings or an invigorating <a href="https://southcoastrunningclub.org/thursday/" target="_blank" rel="noopener">Thursday morning run</a>. It's a fantastic way to lace up your running shoes, hit the road, and discover the heart and soul of the destination. So, when planning your vacation, make sure to mark this experience on your itinerary—it's a run you won't want to miss!
+When visiting the Coos Bay, North Bend, and Charleston area, adventure-seeking travelers have the opportunity to connect with the pulse of the community through an exciting activity: **Running with the Locals!**&nbsp;Each week, there's a chance to join the locals for a midweek <a href="https://www.wildcoastrunning.com/runwithus" target="_blank" rel="noopener">Hump Day Run</a>&nbsp;on Wednesday evenings or an invigorating <a href="https://southcoastrunningclub.org/thursday/" target="_blank" rel="noopener">Thursday morning run</a>. It's a fantastic way to lace up your running shoes, hit the road, and discover the heart and soul of the destination. So, when planning your vacation, make sure to mark this experience on your itinerary—it's a run you won't want to miss!
 
 #### Running with Pre
 
@@ -84,7 +84,7 @@ Experience the ultimate individual or team challenge at the "Circle the Bay" on 
 
 **September \| 1/2 Marathon, 15K, 4-Mile Trail Run, 1-Mile Beach Fun Run**
 
-This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A very challenging course for the longer distances and the views will take what breath you have left away. &nbsp;Seriously, this race has it all, killer hills through the woods, an amazing mostly flat cliff section where you’ll see sea lions, ocean rocks, the deep blue sea, and if you’re very lucky, a passing whale. <a href="https://southcoastrunningclub.org/sunset-bay-trail-runs/" target="_blank" rel="noopener">Click here for race information.</a>
+This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A very challenging course for the longer distances and the views will take what breath you have left away. &nbsp;Seriously, this race has it all, killer hills through the woods, an amazing mostly flat cliff section where you’ll see sea lions, ocean rocks, the deep blue sea, and if you’re very lucky, a passing whale. <a href="https://www.southcoastrunningclub.com/events/sunset-bay-trail-runs" target="_blank" rel="noopener">Click here for race information.</a>
 
 {{< spacer 60 >}}
 
@@ -94,7 +94,7 @@ This race is a hilly and scenic trail along the scenic Oregon Coast. &nbsp;A ver
 
 **September \| 5K, 10K, Fun Run & Wheelchair Run**
 
-Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a race that pays homage to the legendary Steve Prefontaine. Held in the beautiful landscape of Oregon's Adventure Coast, this event invites athletes to honor Prefontaine's spirit and determination by pushing their own limits. Whether you're a seasoned runner or a novice, this race is an opportunity to channel your inner Prefontaine and embrace the passion for running that he inspired in so many. Join us in remembering a true icon of the sport and experience the thrill of running in his footsteps. <a href="/event/annual-prefontaine-memorial-run" target="_blank" rel="noopener">Click here for race information.</a>
+Celebrate the legacy of a running legend at the "Prefontaine Memorial Run," a race that pays homage to the legendary Steve Prefontaine. Held in the beautiful landscape of Oregon's Adventure Coast, this event invites athletes to honor Prefontaine's spirit and determination by pushing their own limits. Whether you're a seasoned runner or a novice, this race is an opportunity to channel your inner Prefontaine and embrace the passion for running that he inspired in so many. Join us in remembering a true icon of the sport and experience the thrill of running in his footsteps. [Click here for race information.](/event/annual-prefontaine-memorial-run)
 
 {{< spacer 60 >}}
 
@@ -108,7 +108,7 @@ If you have ever wanted to take to the trails at Whiskey Run, but not on a mount
 
 {{< spacer 40 >}}
 
-If you're curious about other races happening in our area, the <a href="https://southcoastrunningclub.org/calendar/" target="_blank" rel="noopener">South Coast Running Club's calendar</a> is your go-to resource. It's packed with exciting events that'll keep you on your toes and connected with fellow running enthusiasts!
+If you're curious about other races happening in our area, the <a href="https://www.southcoastrunningclub.com/race-calender" target="_blank" rel="noopener">South Coast Running Club's calendar</a> is your go-to resource. It's packed with exciting events that'll keep you on your toes and connected with fellow running enthusiasts!
 
 {{< spacer "60" >}}
 
@@ -116,9 +116,9 @@ If you're curious about other races happening in our area, the <a href="https://
 
 {{< columns number="2" >}}![south coast running club logo](/img/southcoast-running-club-logo.jpg)
 
-**South Coast Running Club**<br>PO Box 1001<br>Coos Bay, OR US 97420<br>Phone: 541-260-3298<br>[southcoastrunningclub.org](https://southcoastrunningclub.org "https://southcoastrunningclub.org")
+**South Coast Running Club**<br>PO Box 1001<br>Coos Bay, OR US 97420<br>Phone: 541-260-3298<br>[southcoastrunningclub.com](https://southcoastrunningclub.com "https://southcoastrunningclub.com")
 
-Founded in the early 1970’s, SCRC is a volunteer based, non-profit club. They are a member of the Road Runners Clubs of America, as well as an active participant in their local community. They organize 10-12 annual low cost events with attendance of 50-500 people, and pride themselves with welcoming all to participate. They maintain an annual memorial scholarship to the high-school and college youth in our community and many of their events support a local charity.&nbsp;<a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/calendar/">Visit their calendar for all the details.</a>
+Founded in the early 1970’s, SCRC is a volunteer based, non-profit club. They are a member of the Road Runners Clubs of America, as well as an active participant in their local community. They organize 10-12 annual low cost events with attendance of 50-500 people, and pride themselves with welcoming all to participate. They maintain an annual memorial scholarship to the high-school and college youth in our community and many of their events support a local charity.&nbsp;<a target="_blank" rel="noopener" href="https://www.southcoastrunningclub.com/race-calender">Visit their calendar for all the details.</a>
 
 divider
 

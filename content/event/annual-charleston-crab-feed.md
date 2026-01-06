@@ -24,13 +24,13 @@ smallboxphoto: /img/crab-feed-charleston-small.jpg
 
 Join your friends from **the Charleston Merchants Association and the Charleston Visitor Center** for a feast of delicious Dungeness Crab at the **41st Annual Charleston Crab Feed**!
 
-**At the Oregon Institute of Marine Biology (OIMB) on Boat Basin Road from 11am to 3pm,** 63466 Boat Basin Road, Charleston, OR 97420 - across from the Charleston Marine Life Center in the Marina Complex.
+**At the Oregon Institute of Marine Biology (OIMB) on Boat Basin Road from 11am to 4pm,** 63466 Boat Basin Road, Charleston, OR 97420 - across from the Charleston Marine Life Center in the Marina Complex.
 
 More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or half crabs at market price - include side dishes and a roll. Add a dessert for the perfect Oregon Coast meal, provided for donation by the <a href="https://www.facebook.com/profile.php?id=61565684226356" target="_blank" rel="noopener">Charleston Fishing Families</a>. Area businesses provide items for raffle drawings. For those who want to attend but don't want to eat crab, a gourmet hot dog lunch with sides will also be available.
 
 {{< spacer 25 >}}
 
-### Tickets on sale Soon!
+### [Tickets on sale NOW!](https://charlestonoregon.org/events#1abd198d-4f1c-4af7-9588-71a2c9c4af85)
 
 ***Tickets will also be available at the door as well!***
 
@@ -38,9 +38,9 @@ More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or 
 
 Fresh Crab Meals, Whole or Half Crab; or choose the Hot Dog option for those who don't like crab!!!&nbsp;
 
-**Prices are based on Market Value - TBD**
+**Prices are based on Market Value**
 
-Whole Crab Meal - tbd<br>Half Crab Meal - tbd<br>Gourmet Hot Dog Meal - tbd
+Whole Crab Meal - $40<br>Half Crab Meal - $28<br>Gourmet Hot Dog Meal - $18
 
 {{< spacer "15" >}}
 

@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual High Tide Tattoo and Arts Festival
-startdate: '2025-04-25'
-enddate: '2025-04-27'
+startdate: '2026-04-24'
+enddate: '2026-04-26'
 address:
   city: North Bend
   state: OR
@@ -33,9 +33,9 @@ smallboxphoto: /img/tattoo-event-header-small.jpg
 ---
 ![](/img/tattoo-artist-header-695x322.jpg)
 
-#### The 3rd Annual High Tide Tattoo and Arts Festival will be held on the beautiful Oregon Coast!
+#### The 4th Annual High Tide Tattoo and Arts Festival will be held on the beautiful Oregon Coast!
 
-The best tattoo convention on the Oregon Coast; High Tide Tattoo & Art Festival! This three-day event is filled with world-class tattoo artists from all over the country. Multi award-winning artists like Brandon Davenport, Jamy Carlton and former Ink Master contender Mat Valles will be competing for locally made custom trophies, bragging rights, and a prize provided by ShowNation. Attending guests will have the rare opportunity to work with artists directly to plan their next tattoo or witness others act as canvas for these artists inked imagination.
+The best tattoo convention happens on the Oregon Coast; **High Tide Tattoo & Art Festival**! This three-day event is filled with world-class tattoo artists from all over the country. Multi award-winning artists like Brandon Davenport, Jamy Carlton and former Ink Master contender Mat Valles will be competing for locally made custom trophies, bragging rights, and a prize provided by ShowNation. Attending guests will have the rare opportunity to work with artists directly to plan their next tattoo or witness others act as canvas for these artists' inked imagination.
 
 **How It Works:**
 
@@ -49,14 +49,7 @@ Tattoo Booking: Most artist use social media as their preferred method of commun
 
 #### ARTISTS
 
-**Top Artist Showcase**
-
-* Mat Valles – Former Ink Master Contender
-* Pete Carreno – Multi-Award-Winning Artist
-* Bony Tony – Multi-Award-Winning Artist
-* Corey Clark – Multi-Award-Winning Artist
-
-**Also Showcasing Their Artistry**<br>Carlos Lemon, A.J. Jamrose, James Mullin, Chad Hayden, Jamy Carlton, Oregon City Tattoos, Legacy Ink, 11:11 Tattoo, Old School Tattoo, Red Room Tattoos, Lisa Johnson, Golden Rose Tattoo, Chad Hayden, Raine Wright, Casper and many more.
+**Top Artist Showcase - Info Coming Soon**
 
 **Competition Highlights**<br>Artists will compete over a 3-day period, vying for:<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;Custom-made local trophies<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;Bragging rights<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;An exclusive prize, sponsored by Show Nation.<br>{{< spacer "25" >}}
 
@@ -72,4 +65,4 @@ Tattoo Booking: Most artist use social media as their preferred method of commun
 
 #### TICKETS
 
-Tickets go on-sale April 4, 2025 in Ko-Kwel Gifts. $15 entry fee gets you into the event each day. All ages are welcome; 17 and under must be accompanied by an adult; 12 and under will receive free admission.
+Tickets go on-sale in early April in Ko-Kwel Gifts. $15 entry fee gets you into the event each day. All ages are welcome; 17 and under must be accompanied by an adult; 12 and under will receive free admission.

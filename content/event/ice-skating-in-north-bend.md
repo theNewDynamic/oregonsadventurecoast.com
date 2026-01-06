@@ -52,7 +52,9 @@ aliases:
 
 **{{< spacer "25" >}}**
 
-#### {{< floatimage src="/img/icerink-girlinpink-24.jpg" float="left" alt="Girls skating." size="" >}}Schedule: Coming Soon
+#### {{< floatimage src="/img/icerink-girlinpink-24.jpg" float="left" alt="Girls skating." size="" >}}Schedule: January Special Events
+
+![Calendar schedule of events at the North Bend Ice Rink](/img/january-schedule-ice-rink.png "Check out all the fun theme nights and music events for January.")
 
 &nbsp;
 

@@ -73,7 +73,7 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 {{< spacer 50 >}}
 
-![Ceramic bells hanging in a display](/img/ceramic-bells-sub-section-hdr.jpg "Holiday Market at Coos history museum")
+![Ceramic bells hanging in a display](/img/ceramic-bells-sub-section-hdr.jpg)
 
 #### November 28-29, 2025<br>Holiday Market at Coos History Museum
 
@@ -86,10 +86,6 @@ Join local artisans, crafts people,  food vendors, and more for your annual Holi
 #### November 29, 2025<br>Santa Visit, Parade & Tree Lighting at the Coos Bay Visitor Center with Santa
 
 ***NOTE: This event is on Saturday this year.*** Join Santa at **Coos Bay Visitor Center** to share your wish list and get your holiday photo from 2:30 to 4:30pm, then meet Santa at 5pm at **Coos Bay City Hall** for  the **Walking Lighted Parade** to the Visitor Center for the **Coos Bay Tree Lighting**! The Tree Lighting event begins with cookies and cider in the Visitor Center at 4:30pm for those who do not wish to be part of the parade. Santa will light the tree at 5:30pm in the Visitor Center parking lot located at 50 Central Ave at Highway 101.
-
-&nbsp;
-
-&nbsp;
 
 {{< spacer "50" >}}
 
@@ -115,7 +111,7 @@ Find the Mischievous Elf on the Shelf at participating businesses in North Bend!
 
 #### December 2, 3 & 4, 2025<br>Festival of Trees Holiday Showcase and Benefit Auction
 
-Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) (*formerly The Mill Casino \* Hotel & RV Park*) to view the amazing trees and wreathes decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp;Trees and wreathes on display December 2nd & 3rd. Auction and dinner on December 4th. All trees will be Auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
+Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) (*formerly The Mill Casino \* Hotel & RV Park*) to view the amazing trees and wreaths decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp;Trees and wreaths on display December 2nd & 3rd. Auction and dinner on December 4th. All trees will be auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
 
 {{< spacer "50" >}}
 
@@ -124,6 +120,10 @@ Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) 
 #### December 4 & 7, 2025<br>Bay Area Concert Band Fall into Winter Concert Series
 
 The North Bend Presbyterian Church, 2238 Pony Creek Road, will be filled with the sounds of winter this year as the Bay Area Concert Band performs two concerts. The 40-plus-year-old concert band will perform various holiday selections. These concerts are Free but Donations are Welcome! Concerts are Thursday, Dec 4th at 7:30pm and Sunday, December 7th at 2:00pm.
+
+{{< spacer "50" >}}
+
+![Evergreen and holiday sheet music](/img/choir-singers-holiday-happenings-695x200-1.jpg)
 
 #### December 8, 2025<br>Coos Singers Community Choir Holiday Concert
 
@@ -141,7 +141,7 @@ Christmas “Little Ole Opry on the Bay” returns to the Liberty Theatre just i
 
 {{< spacer 50 >}}
 
-![](/img/empire-treelighting-sub-section-hdr.jpg)
+![family standing in front of a christmas tree lighting](/img/empire-treelighting-sub-section-hdr.jpg)
 
 #### December 5, 2025<br>Empire District Tree Lighting, Gingerbread House Display and Santa Visit
 
@@ -157,7 +157,13 @@ Downtown North Bend transforms into a **Winter Wonderland.** Dive deep into the 
 
 {{< spacer 50 >}}
 
-&nbsp;
+![cup of hot cocoa on table with evergreen](/img/hot-coca-mug-695x200.jpg)
+
+#### December 20, 2025<br>Hot Chocolate Sip N Stroll
+
+Join the Charleston Merchants Association for the **First Annual Hot Chocolate Sip N’ Stroll** on **Saturday, December 20, from 4–8 pm**. Pick up your keepsake mug, event map, and wristband at the Charleston Visitor Center (91143 Cape Arago Hwy), then enjoy sweet treats and stops at participating local shops. After the stroll, head to the Charleston Marina parking lot to catch the **Holiday Lights Santa’s Shuttle** for a festive ride to the Shore Acres Holiday Lights.
+
+{{< spacer "50" >}}
 
 ![polar bear plunge into the pacific ocean on New Year's Day](/img/polar-bear-plunge-sub-section-hdr.jpg)
 
