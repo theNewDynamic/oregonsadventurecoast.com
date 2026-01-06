@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: Great Winter Adventure Getaway
+title: Local Vacation Loot
 draft: false
-url: /winter26
+url: /loot
 layout: adventure-sidebar
 ---
 Winter 2026 Pick Your Adventure Getaway
