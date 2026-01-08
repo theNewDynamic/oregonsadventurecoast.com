@@ -48,6 +48,6 @@ Vendors include home improvement companies, contractors, flooring and carpeting,
 
 #### Sponsors include:
 
-**Primal Property Management<br>**
+**Primal Property Management, Ziply Fiber, NW Natural, South Coast Shopper, Bicoastal Media, and many more.<br>**
 
 &nbsp;
