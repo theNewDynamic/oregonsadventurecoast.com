@@ -24,7 +24,9 @@ smallboxphoto: /img/homeshow-340x214.jpg
 
 #### Primal Property Management Presents<br>OREGONS' BAY AREA HOME SHOW
 
-#### Find the very best in home repair services, furnishings, food and more!
+{{< spacer "10" >}}
+
+##### Find the very best in home repair services, furnishings, food and more!
 
 The&nbsp;South&nbsp;Coast’s&nbsp;premier&nbsp;event&nbsp;for&nbsp;home,&nbsp;garden,&nbsp;lifestyle,&nbsp;and&nbsp;property&nbsp;services is hosted&nbsp;inside&nbsp;and&nbsp;outside&nbsp;Pony&nbsp;Village&nbsp;Mall in North Bend.
 
