@@ -50,7 +50,9 @@ divider
 
 *Charter Fishing, ATVing and Kayaking will also fill up fast. Book at least several days in advance by calling the locations directly to set up your excursion.*
 
-{{< columns number="2" >}}**FISHING CHARTERS**
+{{< columns number="2" >}}
+
+####FISHING CHARTERS
 
 **Adventure Charter Fishing**<br>833-746-3474<br>[Visit Our Website](https://adventurecharterfishing.com)
 
@@ -60,11 +62,11 @@ divider
 
 divider
 
-**ATV/TOURS OUTFITTERS**
+####ATV/TOURS OUTFITTERS
 
 **Spinreel Dune Buggy & ATV Rentals, Inc**<br>541-759-3313<br>[Visit Our Website](https://ridetheoregondunes.com)
 
-**KAYAKING OUTFITTERS**
+####KAYAKING OUTFITTERS
 
 **Coastal Kayaks**<br>541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/){{< /columns >}}
 
