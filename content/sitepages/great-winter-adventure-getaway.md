@@ -28,6 +28,8 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 
 ![Participating Hotels Header](/img/participating-hotels-header-695x125.jpg)
 
+*Hotel properties participating in this promotion may fill up quickly. Book as far in advance as possible. Blackout dates may apply. Note: Ko-Kwel Casino Resort \| Coos Bay and the Best Western Holiday Hotel Blackout Dates are March 4-7, 2026.*
+
 {{< columns number="3" >}}
 
 **Best Western Holiday Hotel**<br>411 N. Bayshore Drive<br>Coos Bay, OR 97420<br>541-269-5111<br>[Visit Our Website](https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html)
@@ -102,9 +104,7 @@ divider
 
 &nbsp;
 
-*Hotel properties participating in this promotion may fill up quickly. Book as far in advance as possible*
-
-*Blackout dates may apply. Note: Ko-Kwel Casino Resort \| Coos Bay and the Best Western Holiday Hotel Blackout Dates are March 4-7, 2026.*
+&nbsp;
 
 *Local Vacation Loot Coupons are only valid between February 1 and March 31, 2026 and require a two-night stay at a participating hotel property.*
 
