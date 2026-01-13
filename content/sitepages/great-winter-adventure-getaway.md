@@ -26,7 +26,7 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 
 &nbsp;
 
-### Participating Hotels
+![Participating Hotels Header](/img/participating-hotels-header-695x125.jpg)
 
 {{< columns number="3" >}}
 
