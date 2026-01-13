@@ -48,6 +48,8 @@ divider
 
 ![Participating Outfitters](/img/participating-outfitters-header-695x125.jpg)
 
+*Charter Fishing, ATVing and Kayaking will also fill up fast. Book at least several days in advance by calling the locations directly to set up your excursion.*
+
 {{< columns number="2" >}}**FISHING CHARTERS**
 
 **Adventure Charter Fishing**<br>833-746-3474<br>[Visit Our Website](https://adventurecharterfishing.com)
@@ -74,7 +76,7 @@ divider
 
 *Local Vacation Loot Coupons are only valid between February 1 and March 31, 2026 and require a two-night stay at a participating hotel property.*
 
-*Charter Fishing, ATVing and Kayaking will also fill up fast. Book at least several days in advance by calling the locations directly to set up your excursion.*
+&nbsp;
 
 *Coupon have No Cash Value and gratuities are not included.*
 
