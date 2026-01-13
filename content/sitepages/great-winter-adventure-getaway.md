@@ -46,9 +46,13 @@ divider
 
 **Quality Inn & Suites at Coos Bay**<br>1503 Virginia Avenue<br>North Bend, OR 97459<br>541-756-3191<br>[Visit Our Website](https://www.coosbayinn.com/){{< /columns >}}
 
-![Participating Outfitters](/img/participating-outfitters-header-695x125.jpg)
+![Participating Outfitters](/img/participating-outfitters-header02-695x125.jpg)
 
-{{< columns number="2" >}}**FISHING CHARTERS**
+*Charter Fishing, ATVing and Kayaking will also fill up fast. Book at least several days in advance by calling the locations directly to set up your excursion.*
+
+{{< columns number="2" >}}
+
+####FISHING CHARTERS
 
 **Adventure Charter Fishing**<br>833-746-3474<br>[Visit Our Website](https://adventurecharterfishing.com)
 
@@ -58,13 +62,13 @@ divider
 
 divider
 
-**ATV/TOURS OUTFITTERS**
+####ATV/TOURS OUTFITTERS
 
 **Spinreel Dune Buggy & ATV Rentals, Inc**<br>541-759-3313<br>[Visit Our Website](https://ridetheoregondunes.com)
 
-**KAYAKING OUTFITTERS**
+####KAYAKING OUTFITTERS
 
-**Coastal Kayaks<br>**541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/){{< /columns >}}
+**Coastal Kayaks**<br>541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/){{< /columns >}}
 
 &nbsp;
 
@@ -74,7 +78,7 @@ divider
 
 *Local Vacation Loot Coupons are only valid between February 1 and March 31, 2026 and require a two-night stay at a participating hotel property.*
 
-*Charter Fishing, ATVing and Kayaking will also fill up fast. Book at least several days in advance by calling the locations directly to set up your excursion.*
+&nbsp;
 
 *Coupon have No Cash Value and gratuities are not included.*
 
