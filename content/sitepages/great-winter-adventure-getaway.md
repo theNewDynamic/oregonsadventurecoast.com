@@ -28,9 +28,7 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 
 ![Participating Hotels Header](/img/participating-hotels-header-695x125.jpg)
 
-{{< columns number="3" >}}
-
-**Best Western Holiday Hotel**<br>411 N. Bayshore Drive<br>Coos Bay, OR 97420<br>800-228-8655 \| 541-269-5111<br>[Visit Our Website](https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html)
+{{< columns number="3" >}}**Best Western Holiday Hotel**<br>411 N. Bayshore Drive<br>Coos Bay, OR 97420<br>541-269-5111<br>[Visit Our Website](https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html)
 
 **Captain John's Motel**<br>63360 Kingfisher Drive<br>Charleston, OR 97420<br>541-888-4041<br>[Visit Our Website](https://capitanjohnsmotel.wixsite.com/captjohnsmotel)
 
@@ -42,14 +40,11 @@ divider
 
 **Itty Bitty Inn**<br>1504 Sherman Avenue<br>North Bend, OR 97459<br>541-756-6398<br>[Visit Our Website](https://ittybittyinn.com)
 
-**Ko-Kwel Casino Resort \| Coos Bay**<br>3201 Tremont Avenue<br>North Bend, OR 97459<br>541-756-8800<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay/)
-divider
+**Ko-Kwel Casino Resort \| Coos Bay**<br>3201 Tremont Avenue<br>North Bend, OR 97459<br>541-756-8800<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay/) divider
 
-**Motel 6 \| Coos Bay**<br>1445 N. Bayshore Drive<br>Coos Bay, OR 97420<br>800-466-8356 \| 541-267-7171<br>[Visit Our Website](https://www.motel6.com/property/motel-coos-bay-oregon-us-294535/)
+**Motel 6 \| Coos Bay**<br>1445 N. Bayshore Drive<br>Coos Bay, OR 97420<br>541-267-7171<br>[Visit Our Website](https://www.motel6.com/property/motel-coos-bay-oregon-us-294535/)
 
-**Quality Inn & Suites at Coos Bay**<br>1503 Virginia Avenue<br>North Bend, OR 97459<br>541-756-3191<br>[Visit Our Website](https://www.coosbayinn.com/)
-
-{{< /columns >}}
+**Quality Inn & Suites at Coos Bay**<br>1503 Virginia Avenue<br>North Bend, OR 97459<br>541-756-3191<br>[Visit Our Website](https://www.coosbayinn.com/){{< /columns >}}
 
 &nbsp;
 
