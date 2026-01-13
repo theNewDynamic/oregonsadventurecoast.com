@@ -46,7 +46,7 @@ divider
 
 **Quality Inn & Suites at Coos Bay**<br>1503 Virginia Avenue<br>North Bend, OR 97459<br>541-756-3191<br>[Visit Our Website](https://www.coosbayinn.com/){{< /columns >}}
 
-![Participating Outfitters](/img/participating-outfitters-header-695x125.jpg)
+![Participating Outfitters](/img/participating-outfitters-header02-695x125.jpg)
 
 *Charter Fishing, ATVing and Kayaking will also fill up fast. Book at least several days in advance by calling the locations directly to set up your excursion.*
 
