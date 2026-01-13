@@ -12,6 +12,8 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 
 **Local Vacation Loot** adds a little extra to your stay on **Oregon’s Adventure Coast.** Book **two nights at a participating hotel** and receive up to **$120 in Local Vacation Loot** to spend on select local adventures, dining, and attractions. More adventure, more flavor, more of the coast—baked right into your stay! Promotion runs February 1st - March 31st, 2026.
 
+![fishing, ATV in Dunes, Kayaking and Woman eating a burger](/img/photo-collage-4up-695x166.jpg)
+
 ### How it works
 
 **1\. Book Your Stay**<br>Call one of the participating hotels listed below and book a stay of **at least two nights for two people**. Be sure to mention the **Local Vacation Loot** promotion when you book.
