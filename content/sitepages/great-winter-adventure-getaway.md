@@ -46,6 +46,26 @@ divider
 
 **Quality Inn & Suites at Coos Bay**<br>1503 Virginia Avenue<br>North Bend, OR 97459<br>541-756-3191<br>[Visit Our Website](https://www.coosbayinn.com/){{< /columns >}}
 
+![Participating Outfitters](/img/participating-outfitters-header-695x125.jpg)
+
+{{< columns number="2" >}}**FISHING CHARTERS**
+
+**Adventure Charter Fishing**<br>833-746-3474<br>[Visit Our Website](https://adventurecharterfishing.com)
+
+**Fish On Charter Services**<br>458-710-0870<br>[Visit Our Website](https://fishoncoosbay.com)
+
+**Lucky Landings Guide Service**<br>541-274-0972<br>[Visit Our Website](https://lucky-landings.com)
+
+divider
+
+**ATV/TOURS OUTFITTERS**
+
+**Spinreel Dune Buggy & ATV Rentals, Inc**<br>541-759-3313<br>[Visit Our Website](https://ridetheoregondunes.com)
+
+**KAYAKING OUTFITTERS**
+
+**Coastal Kayaks<br>**541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/){{< /columns >}}
+
 &nbsp;
 
 *Hotel properties participating in this promotion may fill up quickly. Book as far in advance as possible*
