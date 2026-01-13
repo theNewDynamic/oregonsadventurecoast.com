@@ -52,7 +52,7 @@ divider
 
 {{< columns number="2" >}}
 
-####FISHING CHARTERS
+#### FISHING CHARTERS
 
 **Adventure Charter Fishing**<br>833-746-3474<br>[Visit Our Website](https://adventurecharterfishing.com)
 
@@ -62,11 +62,11 @@ divider
 
 divider
 
-####ATV/TOURS OUTFITTERS
+#### ATV/TOURS OUTFITTERS
 
 **Spinreel Dune Buggy & ATV Rentals, Inc**<br>541-759-3313<br>[Visit Our Website](https://ridetheoregondunes.com)
 
-####KAYAKING OUTFITTERS
+#### KAYAKING OUTFITTERS
 
 **Coastal Kayaks**<br>541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/){{< /columns >}}
 
