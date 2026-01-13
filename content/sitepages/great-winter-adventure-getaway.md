@@ -28,7 +28,9 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 
 ![Participating Hotels Header](/img/participating-hotels-header-695x125.jpg)
 
-{{< columns number="3" >}}**Best Western Holiday Hotel**<br>411 N. Bayshore Drive<br>Coos Bay, OR 97420<br>541-269-5111<br>[Visit Our Website](https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html)
+{{< columns number="3" >}}
+
+**Best Western Holiday Hotel**<br>411 N. Bayshore Drive<br>Coos Bay, OR 97420<br>541-269-5111<br>[Visit Our Website](https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html)
 
 **Captain John's Motel**<br>63360 Kingfisher Drive<br>Charleston, OR 97420<br>541-888-4041<br>[Visit Our Website](https://capitanjohnsmotel.wixsite.com/captjohnsmotel)
 
@@ -68,7 +70,35 @@ divider
 
 #### KAYAKING OUTFITTERS
 
-**Coastal Kayaks**<br>541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/){{< /columns >}}
+**Coastal Kayaks**<br>541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/)
+
+{{< /columns >}}
+
+{{< columns number="3" >}}
+
+**7 Devils Brewing Co.**<br>541-808-3738<br>[Visit Our Website](https://7devilsbrewery.com)
+
+**7 Devils Waterfront Alehouse**<br>541-808-2699<br>[Visit Our Website](https://7devilsbrewery.com/waterfront-ale-house)
+
+**Back Alley Pub & Grill @ North Bend Lanes**<br>541-756-0571<br>[Visit Our Website](https://northbendlanes.com/Back-Alley-Pub-Grill)
+
+divider
+
+**Blue Heron Bistro**<br>541-267-3933<br>[Visit Our Website](https://www.blueheronbistro.net)
+
+**Monkey Business**<br>541-778-3650<br>[Visit Our Website](https://www.facebook.com/MonkeyBusinessFoodToGo)
+
+**Restaurant O**<br>541-808-9300<br>[Visit Our Website](https://www.facebook.com/RestaurantO)
+
+divider
+
+**Shark Bites Seafood Café**<br>541-269-7475<br>[Visit Our Website](https://www.sharkbites.cafe)
+
+**Warehouse 101 @ Ko-Kwel Casino Resort**<br>541-756-8800<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay)
+
+**Wildflour Public House**<br>541-808-3633<br>[Visit Our Website](https://www.wildflourpub.com/home)
+
+{{< /columns >}}
 
 &nbsp;
 
