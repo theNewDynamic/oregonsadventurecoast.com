@@ -110,8 +110,6 @@ divider
 
 *Local Vacation Loot Coupons are only valid between February 1 and March 31, 2026 and require a two-night stay at a participating hotel property.*
 
-&nbsp;
-
 *Coupon have No Cash Value and gratuities are not included.*
 
 *$50 Coupons will be accepted at the Outfitters and Restaurants listed above and on the inside cover of the Coupon Booklet you will receive with you check into your hotel. Coupons good toward the cost of a fishing charter, an ATV rental or tour, a kayak rental, or dining out.*
