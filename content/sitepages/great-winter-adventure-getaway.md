@@ -66,7 +66,7 @@ divider
 
 **KAYAKING OUTFITTERS**
 
-**Coastal Kayaks<br>**541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/){{< /columns >}}
+**Coastal Kayaks**<br>541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/){{< /columns >}}
 
 &nbsp;
 
