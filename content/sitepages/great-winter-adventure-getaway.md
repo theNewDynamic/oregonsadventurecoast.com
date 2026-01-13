@@ -24,7 +24,7 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 * Two passes to a participating museum (choose one of three local museums)
 * 20% off one item at the Coos Bay Visitor Information Center
 
-&nbsp;
+{{< spacer "30" >}}
 
 ![Partner Hotels Header](/img/participating-hotels-header-695x125-1.jpg)
 
@@ -50,9 +50,11 @@ divider
 
 **Quality Inn & Suites at Coos Bay**<br>1503 Virginia Avenue<br>North Bend, OR 97459<br>541-756-3191<br>[Visit Our Website](https://www.coosbayinn.com/){{< /columns >}}
 
+{{< spacer "30" >}}
+
 ![Partner Outfitters Header](/img/participating-outfitters-header02-695x125-1.jpg)
 
-*Charter Fishing, ATVing and Kayaking will also fill up fast. Book at least several days in advance by calling the locations directly to set up your excursion.*
+*Charter Fishing, ATVing and Kayaking will fill up fast. Book at least several days in advance by calling the locations directly to set up your excursion.*
 
 {{< columns number="2" >}}
 
@@ -75,6 +77,8 @@ divider
 **Coastal Kayaks**<br>541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/)
 
 {{< /columns >}}
+
+{{< spacer "30" >}}
 
 ![Partner Restaurants Header](/img/participating-restaurants-695x125.jpg)
 
@@ -103,10 +107,6 @@ divider
 **Wildflour Public House**<br>541-808-3633<br>[Visit Our Website](https://www.wildflourpub.com/home)
 
 {{< /columns >}}
-
-&nbsp;
-
-&nbsp;
 
 *Local Vacation Loot Coupons are only valid between February 1 and March 31, 2026 and require a two-night stay at a participating hotel property.*
 
