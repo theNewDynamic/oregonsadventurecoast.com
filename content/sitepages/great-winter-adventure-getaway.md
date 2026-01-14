@@ -16,7 +16,7 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 
 ### How it works
 
-**1\. Book Your Stay**<br>Call one of the participating hotels listed below and book a stay of **at least two nights for two people**. Be sure to mention the **Local Vacation Loot** promotion when you book.
+**1\. Book Your Stay**<br>Call one of the participating hotels listed below **directly** and book a stay of **at least two nights for two people**. Be sure to mention the **Local Vacation Loot** promotion when you book. *Note: you must call the hotel front desk directly to book your stay and get the promotion.*
 
 **2\. Check In & Get Your Loot**<br>When you arrive, you’ll receive a **Local Vacation Loot** package at check-in—everything you need to start exploring.
 
@@ -32,31 +32,29 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 
 *Hotel properties participating in this promotion may fill up quickly. Book as far in advance as possible. Blackout dates may apply. Note: Ko-Kwel Casino Resort \| Coos Bay and the Best Western Holiday Hotel Blackout Dates are March 4-7, 2026.*
 
-{{< columns number="3" >}}
+{{< columns number="3" >}}**Best Western Holiday Hotel**<br>411 N. Bayshore Drive<br>Coos Bay, OR 97420<br>**541-269-5111**<br>[Visit Our Website](https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html)
 
-**Best Western Holiday Hotel**<br>411 N. Bayshore Drive<br>Coos Bay, OR 97420<br>541-269-5111<br>[Visit Our Website](https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html)
+**Captain John's Motel**<br>63360 Kingfisher Drive<br>Charleston, OR 97420<br>**541-888-4041**<br>[Visit Our Website](https://capitanjohnsmotel.wixsite.com/captjohnsmotel)
 
-**Captain John's Motel**<br>63360 Kingfisher Drive<br>Charleston, OR 97420<br>541-888-4041<br>[Visit Our Website](https://capitanjohnsmotel.wixsite.com/captjohnsmotel)
-
-**Edgewater Inn**<br>275 E. Johnson Avenue<br>Coos Bay, OR 97420<br>541-267-0423<br>[Visit Our Website](https://www.choicehotels.com/en-ca/oregon/coos-bay/choice-hotels/or339)
+**Edgewater Inn**<br>275 E. Johnson Avenue<br>Coos Bay, OR 97420<br>**541-267-0423**<br>[Visit Our Website](https://www.choicehotels.com/en-ca/oregon/coos-bay/choice-hotels/or339)
 
 divider
 
-**Global Inn**<br>1001 N. Bayshore Drive<br>Coos Bay, OR 97420<br>541-808-0700<br>[Visit Our Website](https://www.globalinnhotelcoosbay.com/)
+**Global Inn**<br>1001 N. Bayshore Drive<br>Coos Bay, OR 97420<br>**541-808-0700**<br>[Visit Our Website](https://www.globalinnhotelcoosbay.com/)
 
-**Itty Bitty Inn**<br>1504 Sherman Avenue<br>North Bend, OR 97459<br>541-756-6398<br>[Visit Our Website](https://ittybittyinn.com)
+**Itty Bitty Inn**<br>1504 Sherman Avenue<br>North Bend, OR 97459<br>**541-756-6398**<br>[Visit Our Website](https://ittybittyinn.com)
 
-**Ko-Kwel Casino Resort \| Coos Bay**<br>3201 Tremont Avenue<br>North Bend, OR 97459<br>541-756-8800<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay/) divider
+**Ko-Kwel Casino Resort \| Coos Bay**<br>3201 Tremont Avenue<br>North Bend, OR 97459<br>**541-756-8800**<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay/) divider
 
-**Motel 6 \| Coos Bay**<br>1445 N. Bayshore Drive<br>Coos Bay, OR 97420<br>541-267-7171<br>[Visit Our Website](https://www.motel6.com/property/motel-coos-bay-oregon-us-294535/)
+**Motel 6 \| Coos Bay**<br>1445 N. Bayshore Drive<br>Coos Bay, OR 97420<br>**541-267-7171**<br>[Visit Our Website](https://www.motel6.com/property/motel-coos-bay-oregon-us-294535/)
 
-**Quality Inn & Suites at Coos Bay**<br>1503 Virginia Avenue<br>North Bend, OR 97459<br>541-756-3191<br>[Visit Our Website](https://www.coosbayinn.com/){{< /columns >}}
+**Quality Inn & Suites at Coos Bay**<br>1503 Virginia Avenue<br>North Bend, OR 97459<br>**541-756-3191 Option \#2**<br>[Visit Our Website](https://www.coosbayinn.com/){{< /columns >}}
 
 {{< spacer "30" >}}
 
 ![Partner Outfitters Header](/img/participating-outfitters-header02-695x125-1.jpg)
 
-*Charter Fishing, ATVing and Kayaking will fill up fast. Book at least several days in advance by calling the locations directly to set up your excursion.*
+*Charter Fishing, ATVing and Kayaking will fill up fast. Book at least several days in advance by calling the locations directly to set up your excursion. Mention that you will be using **Local Vacation Loot** when you book.*
 
 {{< columns number="2" >}}
 
@@ -84,9 +82,7 @@ divider
 
 ![Partner Restaurants Header](/img/participating-restaurants-695x125.jpg)
 
-{{< columns number="3" >}}
-
-**7 Devils Brewing Co.**<br>541-808-3738<br>[Visit Our Website](https://7devilsbrewery.com)
+{{< columns number="3" >}}**7 Devils Brewing Co.**<br>541-808-3738<br>[Visit Our Website](https://7devilsbrewery.com)
 
 **7 Devils Waterfront Alehouse**<br>541-808-2699<br>[Visit Our Website](https://7devilsbrewery.com/waterfront-ale-house)
 
@@ -95,6 +91,8 @@ divider
 divider
 
 **Blue Heron Bistro**<br>541-267-3933<br>[Visit Our Website](https://www.blueheronbistro.net)
+
+**EZ Thai**<br>541-267-8404<br><a href="https://ez-thai.com/" target="_blank" rel="noopener">Visit Our Website</a>
 
 **Monkey Business**<br>541-778-3650<br>[Visit Our Website](https://www.facebook.com/MonkeyBusinessFoodToGo)
 
@@ -106,13 +104,11 @@ divider
 
 **Warehouse 101 @ Ko-Kwel Casino Resort**<br>541-756-8800<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay)
 
-**Wildflour Public House**<br>541-808-3633<br>[Visit Our Website](https://www.wildflourpub.com/home)
-
-{{< /columns >}}
+**Wildflour Public House**<br>541-808-3633<br>[Visit Our Website](https://www.wildflourpub.com/home){{< /columns >}}
 
 ### Important Information
 
 * **Local Vacation Loot** coupons are only valid between February 1 and March 31, 2026 and require a two-night stay at a participating hotel property.
-* Coupon have No Cash Value and gratuities are not included.
+* Coupon have No Cash Value and gratuities are not included. Please tip your guide and/or waitstaff appropriately.
 * $50 Coupons will be accepted at the Outfitters and Restaurants listed above and on the inside cover of the Coupon Booklet you will receive when you check into your hotel. Coupons good toward the cost of a fishing charter, an ATV rental or tour, a kayak rental, or dining out.
 * If your purchase is more than $50, you will be responsible for the remainder of the costs. If your purchase is less than $50, unfortunately, you will forfeit the remainder of the coupon as change cannot be given.
