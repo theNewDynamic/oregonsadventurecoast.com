@@ -24,5 +24,5 @@ As you plan your vacation to the Oregon Coast, browse our list of places to stay
 You can pick accommodations on the Oregon Coast that will suit your needs and preferences, whether you need a place to stay that is pet-friendly, offers a fitness center, has a kitchen, and a variety of other additions. Look through these options and take the next step in planning your trip to the Oregon Coast!<br>**($ = Up to $99; $$ = $100-$199; $$$ = $200+)**
 
 <div style="width:100%">
-<a href="/storm-watching"><img src="/img/StormWatching-2024-Banner-2048x190.jpg" alt="Huge Wave Crash with Best Storm Watching on the Entire Oregon Coast" style="height: 100%; width: 100%; object-fit: contain" /></a>
+<a href="/loot"><img src="/img/lvl-insite-kayaker-banner-2048.jpg" alt="Kayakers on River and $120 Local Vacation Loot Promotion" style="height: 100%; width: 100%; object-fit: contain" /></a>
 </div>
