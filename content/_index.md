@@ -3,6 +3,12 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
+    photo: /img/lvl-home-sliders-2048x850.jpg
+    title_mobile:
+    photo_mobile: /img/lvl-home-page-mobile-512x320.jpg
+    url: /loot
+    video:
+  - title:
     photo: /img/storm-watching-hm-slider-2084x850.jpg
     title_mobile:
     photo_mobile: /img/mobile-hm-slider-storm-watching-2023.jpg
