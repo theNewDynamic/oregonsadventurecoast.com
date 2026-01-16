@@ -58,15 +58,15 @@ divider
 
 *Charter Fishing, ATVing and Kayaking will fill up fast. Book at least several days in advance by calling the locations directly to set up your excursion. Mention that you will be using **Local Vacation Loot** when you book.*
 
-{{< columns number="2" >}}
-
-#### FISHING CHARTERS
+{{< columns number="2" >}}#### FISHING CHARTERS
 
 **Adventure Charter Fishing**<br>833-746-3474<br>[Visit Our Website](https://adventurecharterfishing.com)
 
 **Fish On Charter Services**<br>458-710-0870<br>[Visit Our Website](https://fishoncoosbay.com)
 
 **Lucky Landings Guide Service**<br>541-274-0972<br>[Visit Our Website](https://lucky-landings.com)
+
+**Sharky's Charters**<br>541-260-9110<br><a href="https://sharkyscharterfishing.com/" target="_blank" rel="noopener">Visit Our Website</a>
 
 divider
 
@@ -76,9 +76,7 @@ divider
 
 #### KAYAKING OUTFITTERS
 
-**Coastal Kayaks**<br>541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/)
-
-{{< /columns >}}
+**Coastal Kayaks**<br>541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/){{< /columns >}}
 
 {{< spacer "30" >}}
 
