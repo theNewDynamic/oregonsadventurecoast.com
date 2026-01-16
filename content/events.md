@@ -1,4 +1,4 @@
-et---
+---
 _schema: default
 title: Amazing Outdoor Events & Things to Do on the Oregon Coast
 draft: false
@@ -17,3 +17,8 @@ aliases:
 
 {{< spacer 30 >}}
 
+<div style="width:100%">
+<a href="/loot"><img src="/img/LVL-insite-sunset-bay-banner-2048.jpg" alt="Sunset Bay at Sunset and $120 Local Vacation Loot Promotion" style="height: 100%; width: 100%; object-fit: contain" /></a>
+</div>
+
+{{< spacer 30 >}}
