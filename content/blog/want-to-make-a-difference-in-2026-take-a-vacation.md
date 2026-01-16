@@ -115,9 +115,21 @@ Participating hotels may fill up fast, so try to book as early as you can.
 **❐ Check out itineraries or** [trip ideas](https://www.oregonsadventurecoast.com/tripideas/) **from Oregon’s Adventure Coast experts.** Before your trip, use the [<u>Oregon’s Adventure Coast Facebook page</u>](https://www.facebook.com/OregonsAdventureCoast/)<u> </u>o r[<u>@travelcoosbay on Instagram</u>](https://www.instagram.com/travelcoosbay/) for tips on the best places to visit, eat, stay, and explore. Here are a few easy itineraries to get you started:
 
 * [10 Can’t-Miss Things to Do on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/blog/10-can-t-miss-things-to-do-on-oregon-s-adventure-coast/)**.** From beautiful dunes to great seafood, Oregon's Adventure Coast has something for everyone, whether you’re planning a weekend trip or a family vacation. In this guest post, adventure travel experts Gwyn and Ami Manser share their top picks for 10 must-try experiences in Coos Bay, North Bend, and Charleston.
+
+  &nbsp;
+
 * [Explore the Cape Arago Beach Loop.](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/)<u> </u>This route is perfect for first-time visitors to Oregon’s Adventure Coast. The Cape Arago Beach Loop takes you to several beaches and state parks, like [<u>Bastendorff Beach</u>](https://www.oregonsadventurecoast.com/undeveloped-beaches/) and [<u>Sunset Bay State Park,</u>](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) where you can enjoy amazing views and spot seals and sea lions. Dress comfortably and bring your camera! For more details, [<u>download our PDF Guide</u>](https://www.oregonsadventurecoast.com/img/cape-arago-loop-itinerary-2018.pdf).
+
+  &nbsp;
+
 * [Explore the Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/tripideas/oregon-dunes-national-recreation-area/)**.** It’s the largest stretch of coastal sand dunes in North America and truly unique. With over 32,000 acres of dunes, forests, streams, and lakes, you’ll find plenty of ways to have an amazing adventure.
+
+  &nbsp;
+
 * [Fishing, crabbing, and clamming.](https://www.oregonsadventurecoast.com/tripideas/a-weekend-of-fishing-and-so-much-more-on-oregon-s-adventure-coast/) Whether you’re new to these activities or have lots of experience, Oregon’s Adventure Coast is a great place to get out on the water and catch your own dinner. Coos County boasts more than 30 lakes and rivers, plus lots of bay and ocean fishing. [<u>Check out our</u>](https://www.oregonsadventurecoast.com/fishing) resources to help plan your trip. Stop by a local bait shop for tips, they’re always happy to help visitors. Don’t forget your fishing or shellfishing license! [<u>Learn more about crabbing</u>](https://www.oregonsadventurecoast.com/crabbing-clamming) and [<u>clamming</u>](https://www.oregonsadventurecoast.com/clamming) in Coos Bay, North Bend, and Charleston.
+
+  &nbsp;
+
 * [Eight Underrated Experiences to Try on Oregon's Adventure Coast](https://www.oregonsadventurecoast.com/blog/eight-underrated-experiences-to-try-on-oregon-s-adventure-coast/)**.** The famous spots like Shore Acres State Park and the Oregon Dunes National Recreation Area are great, but there’s much more to discover. Look a little deeper and you’ll find many hidden gems that make for a memorable trip.
 
 **❐ Finally, reach out to** the [<u>Coos Bay or North Bend Visitor Information Centers</u>](https://www.oregonsadventurecoast.com/contact/) for help planning your trip! Our volunteers are ready to help you make the most of your well-deserved vacation, so you can relax and come home refreshed.
