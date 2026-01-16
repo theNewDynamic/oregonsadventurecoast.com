@@ -18,9 +18,11 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 
 **1\. Book Your Stay**<br>Call one of the participating hotels listed below **directly** and book a stay of **at least two nights for two people**. Be sure to mention the **Local Vacation Loot** promotion when you book. *Note: you must call the hotel front desk directly to book your stay and get the promotion.*
 
-**2\. Check In & Get Your Loot**<br>When you arrive, you’ll receive a **Local Vacation Loot** package at check-in—everything you need to start exploring.
+**2\. Book Your Adventure<br>**Check the list of **participating outfitters and providers below** and book your adventure in advance. Charter fishing and ATVing, in particular, fill up fast. It's best to book those before you head to Oregon's Adventure Coast.
 
-**3\. Your Local Vacation Loot Includes:**
+**3\. Check In & Get Your Loot**<br>When you arrive, you’ll receive a **Local Vacation Loot** package at check-in—everything you need to start exploring.
+
+**4\. Your Local Vacation Loot Includes:**
 
 * Two $50 coupons (one per person) to use toward select charter fishing, ATV rentals, kayak rentals, or dining
 * Two passes to a participating museum (choose one of three local museums)
