@@ -22,9 +22,13 @@ smallboxphoto: /img/homeshow-340x214.jpg
 ---
 **The Bay Area Chamber of Commerce invites you to attend the**
 
-#### Oregon Curb Appeal Presents<br>OREGONS' BAY AREA HOME SHOW
+#### Primal Property Management Presents<br>OREGONS' BAY AREA HOME SHOW
 
-#### Find the very best in home repair services, furnishings, food and more!
+{{< spacer "10" >}}
+
+##### Find the very best in home repair services, furnishings, food and more!
+
+The&nbsp;South&nbsp;Coast’s&nbsp;premier&nbsp;event&nbsp;for&nbsp;home,&nbsp;garden,&nbsp;lifestyle,&nbsp;and&nbsp;property&nbsp;services is hosted&nbsp;inside&nbsp;and&nbsp;outside&nbsp;Pony&nbsp;Village&nbsp;Mall in North Bend.
 
 {{< spacer "15" >}}
 
@@ -46,6 +50,6 @@ Vendors include home improvement companies, contractors, flooring and carpeting,
 
 #### Sponsors include:
 
-**Oregon Curb Appeal • NW Natural • Ziply Fiber • Builders First Source • Banner Bank • Addcox Heating & Air Conditioning • Sol Coast Consulting & Design • Coos County Board of Realtors (CCBOR) • AmeriTitle • Epuerto • Roto Rooter • Bigfoot Beverage • KMTR TV • Bicoastal Media • South Coast Shopper<br>**
+**Primal Property Management, Ziply Fiber, NW Natural, South Coast Shopper, Bicoastal Media, and many more.<br>**
 
 &nbsp;

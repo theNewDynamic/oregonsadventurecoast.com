@@ -16,8 +16,9 @@ aliases:
 ### [Visit our Calendar page](/calendar), for more events happening in Coos Bay, North Bend & Charleston!
 
 {{< spacer 30 >}}
+
 <div style="width:100%">
-<a href="/storm-watching"><img src="/img/StormWatching-2024-Banner-2048x190.jpg" alt="Huge Wave Crash with Best Storm Watching on the Entire Oregon Coast" style="height: 100%; width: 100%; object-fit: contain" /></a>
+<a href="/loot"><img src="/img/LVL-insite-sunset-bay-banner-2048.jpg" alt="Sunset Bay at Sunset and $120 Local Vacation Loot Promotion" style="height: 100%; width: 100%; object-fit: contain" /></a>
 </div>
 
-{{< spacer 50 >}}
+{{< spacer 30 >}}

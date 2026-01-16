@@ -26,7 +26,7 @@ Join your friends from **the Charleston Merchants Association and the Charleston
 
 **At the Oregon Institute of Marine Biology (OIMB) on Boat Basin Road from 11am to 4pm,** 63466 Boat Basin Road, Charleston, OR 97420 - across from the Charleston Marine Life Center in the Marina Complex.
 
-More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or half crabs at market price - include side dishes and a roll. Add a dessert for the perfect Oregon Coast meal, provided for donation by the <a href="https://www.facebook.com/profile.php?id=61565684226356" target="_blank" rel="noopener">Charleston Fishing Families</a>. Area businesses provide items for raffle drawings. For those who want to attend but don't want to eat crab, a gourmet hot dog lunch with sides will also be available.
+More than 900 pounds of Fresh Dungeness Crab will be served. Dinners - whole or half crabs at market price - include side dishes and a roll. Area businesses provide items for raffle drawings. For those who want to attend but don't want to eat crab, a gourmet hot dog lunch with sides will also be available.
 
 {{< spacer 25 >}}
 

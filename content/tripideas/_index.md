@@ -29,6 +29,6 @@ Contact Oregon’s Adventure Coast with any questions you may have about things 
 
 {{< spacer 30 >}}
 
-[![Huge Wave Crash - Best Storm Watching on the Entire Oregon Coast](/img/storm-watching-2024-banner-695x86.jpg)](/storm-watching)
+[![kayaker with $120 Local Vacation Loot Promotion](/img/lvl-insite-kayaker-695x179.jpg)](/loot)
 
 {{< spacer 50 >}}
