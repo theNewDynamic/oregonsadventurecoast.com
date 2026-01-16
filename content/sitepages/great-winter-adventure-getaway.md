@@ -74,6 +74,8 @@ divider
 
 **Spinreel Dune Buggy & ATV Rentals, Inc**<br>541-759-3313<br>[Visit Our Website](https://ridetheoregondunes.com)
 
+**Steve's ATV Rentals**<br>844-278-3837<br>[Visit Our Website](https://stevesatvrentals.com/oregon-dunes-atv-rentals/)<br>*Voucher good on rentals only.*
+
 #### KAYAKING OUTFITTERS
 
 **Coastal Kayaks**<br>541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/){{< /columns >}}
