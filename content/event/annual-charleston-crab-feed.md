@@ -50,7 +50,7 @@ Whole Crab Meal - $40<br>Half Crab Meal - $28<br>Gourmet Hot Dog Meal - $18
 
 ### Make a Day of It in Charleston!
 
-Start by exploring the fresh catch—over 900 lbs of crab purchased directly from local Charleston crabbers and expertly processed by&nbsp;**Chuck’s Seafood**. Enjoy delicious desserts served by the&nbsp;**Charleston Fishing Families**, with all proceeds supporting their vital organization. Dive into fascinating exhibits at&nbsp;the **Charleston Marine Life Center, which will be open ALL DAY!**&nbsp;Plus, learn more about local marine life and conservation efforts from&nbsp;**South Slough Estuary**&nbsp;and the&nbsp;**Oregon Crab Commission**. There’s something for everyone—plan to spend the whole day enjoying all Charleston has to offer!
+Start by exploring the fresh catch—over 900 lbs of crab purchased directly from local Charleston crabbers and expertly processed by&nbsp;**Chuck’s Seafood**. Dive into fascinating exhibits at&nbsp;the **Charleston Marine Life Center, which will be open ALL DAY!**&nbsp;Plus, learn more about local marine life and conservation efforts from&nbsp;**South Slough Estuary**&nbsp;and the&nbsp;**Oregon Crab Commission**. There’s something for everyone—plan to spend the whole day enjoying all Charleston has to offer!
 
 This is the Main Fundraiser for the Charleston Visitors Center, but also provides assistance to other needs in the Charleston Community.
 
