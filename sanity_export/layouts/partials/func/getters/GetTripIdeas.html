@@ -1,6 +1,6 @@
 {{ $entries := slice }}
 
-{{ with where site.AllPages "Type" "tripideas" }}
+{{ with where site.RegularPages "Type" "tripideas" }}
   {{ $entries = $entries | append (apply . "partial" "transformers/documents/tripidea" ".") }}
 {{ end }}
 

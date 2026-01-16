@@ -11,6 +11,10 @@
   {{ $s.SetInMap "data" "timeEnd" . }}
 {{ end }}
 
+{{ with .Params.hoverdescription }}
+  {{ $s.SetInMap "data" "descriptionHTML" . }}
+{{ end }}
+
 {{ with .Params.photo }}
   {{ with partial "transformers/image" . }}
     {{ $s.SetInMap "data" "heroes" (slice (dict "_type" "hero.image" "image" .)) }}
