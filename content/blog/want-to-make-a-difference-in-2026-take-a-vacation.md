@@ -83,11 +83,11 @@ Participating hotels may fill up fast, so try to book as early as you can.
 
 ![A group of people sit in beach chairs on the sand, facing the ocean and watching a calm sunset over the water.](/img/take-a-vacation-in-2026-blog-940x788-2.jpg)
 
-❐ **Check the**[local, extended forecast.](https://www.accuweather.com/en/us/coos-bay/97420/daily-weather-forecast/335297) ** ** This will help you decide what to pack and which activities to plan. You can also check tides at[<u>tides-forecast.com</u>](https://www.tide-forecast.com/regions/Oregon).
+❐ **Check the**[local, extended forecast.](https://www.accuweather.com/en/us/coos-bay/97420/daily-weather-forecast/335297) \*\* \*\* This will help you decide what to pack and which activities to plan. You can also check tides at[<u>tides-forecast.com</u>](https://www.tide-forecast.com/regions/Oregon).
 
 ​❐ **Book your Adventure.** If charter fishing or ATVing is your adventure of choice, it’s best to book those at the same time you book your hotel to ensure you get the adventure you desire. Check the [Local Vacation Loot page](https://www.oregonsadventurecoast.com/loot/) for participating providers.
 
-**❐ Request or download a**[** ** <u>free visitors' guide</u>](https://www.oregonsadventurecoast.com/img/Oregon-Coast-Visitor-Guide.pdf)<u> </u>for inspiration and to help you discover the lay of the land.
+**❐ Request or download a**[\*\* \*\* <u>free visitors' guide</u>](https://www.oregonsadventurecoast.com/img/Oregon-Coast-Visitor-Guide.pdf)<u> </u>for inspiration and to help you discover the lay of the land.
 
 **❐ Pack smart.** Dress in layers so you can adjust to changing temperatures. This is a good idea any time of year, but especially in cooler months. Here’s what to pack in your suitcase.
 
