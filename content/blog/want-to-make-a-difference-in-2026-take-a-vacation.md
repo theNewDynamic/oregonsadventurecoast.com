@@ -3,6 +3,12 @@ _schema: default
 title: Want to make a difference in 2026? Take a vacation!
 draft: false
 date: 2026-01-14T13:00:00-08:00
+description: >-
+  Vacation travel benefits mental and physical health, and it also plays an
+  important role in supporting local businesses and job creation in communities
+  like Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. Stepping away
+  from work can lead to better focus, higher productivity, and greater overall
+  satisfaction when people return.
 image: /img/take-a-vacation-in-2026-blog-695x322.jpg
 tags:
   - Oregon’s Adventure Coast
