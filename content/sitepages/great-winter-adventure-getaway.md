@@ -26,7 +26,7 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 
 * Two $50 coupons (one per person) to use toward select charter fishing, ATV rentals, kayak rentals, or dining
 * Two passes to a participating museum (choose one of three local museums)
-* 20% off one item at the Coos Bay Visitor Information Center
+* 20% off one item at the Coos Bay Visitor Information Center or the North Bend Visitor Information Center
 
 {{< spacer "30" >}}
 
@@ -107,6 +107,20 @@ divider
 **Warehouse 101 @ Ko-Kwel Casino Resort**<br>541-756-8800<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay)
 
 **Wildflour Public House**<br>541-808-3633<br>[Visit Our Website](https://www.wildflourpub.com/home){{< /columns >}}
+
+{{< spacer "30" >}}
+
+![Partner museum header](/img/participating-museums-695x125.jpg)
+
+{{< columns number="3" >}}**Coos Art Museum**<br>541-267-3901<br>[Visit Our Website](https://coosartmuseum.org)
+
+divider
+
+**Coos History Museum**<br>541-756-6320<br>[Visit Our Website](https://cooshistory.org)
+
+divider
+
+**Charleston Marine Life Center**<br>541-346-7280<br>[Visit Our Website](https://cmlc.uoregon.edu){{< /columns >}}
 
 ### Important Information
 
