@@ -10,7 +10,7 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 
 ### Stay 2 Nights: Score $120 Local Vacation Loot!
 
-**Local Vacation Loot** adds a little extra to your stay on **Oregon’s Adventure Coast.** Book **two nights at a participating hotel** and receive up to **$120 in Local Vacation Loot** to spend on select local adventures, dining, and attractions. More adventure, more flavor, more of the coast—baked right into your stay! Promotion runs February 1st - March 31st, 2026.
+**Welcome!** Whether you’re a return visitor or exploring our area for the first time, we know you will find plenty to do here. **Local Vacation Loot** adds a little extra to your stay on **Oregon’s Adventure Coast.** Book **two nights at a participating hotel** and receive up to **$120 in Local Vacation Loot** to spend on select local adventures, dining, and attractions. More adventure, more flavor, more of the coast—baked right into your stay! Promotion runs February 1st - March 31st, 2026.
 
 ![fishing, ATV in Dunes, Kayaking and Woman eating a burger](/img/photo-collage-4up-695x166.jpg)
 
