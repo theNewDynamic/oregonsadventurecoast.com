@@ -18,5 +18,5 @@ address:
   street: 242 S. Broadway
   zip: '97420'
 phone_local: 541-266-9020
-website: https://waxerssurfandskate.com/
+website: https://www.waxerssurfandskate.com/
 ---
