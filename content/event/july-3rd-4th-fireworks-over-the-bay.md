@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: July 3rd & 4th Fireworks Over The Bay
-startdate: '2025-07-03'
-enddate: '2025-07-04'
+startdate: '2026-07-03'
+enddate: '2026-07-04'
 address:
   city: ''
   street: ''
@@ -23,7 +23,7 @@ photo_alt: Fireworks over Coos Bay
 ---
 ![](/img/4th-of-july-fireworks-coos-bay-674x447.jpg)
 
-## 3rd & 4th of July Fireworks Over The Bay
+## 3rd & 4th of July Fireworks Over The Bay<br>Celebrating our Nation's 250th Birthday!
 
 {{< spacer 50 >}}
 
@@ -35,7 +35,7 @@ photo_alt: Fireworks over Coos Bay
 
 {{< spacer 15 >}}
 
-Don’t miss The Blast by the Bay, the Oregon Coast’s **largest fireworks display** on July 3rd. <a href="www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener"><strong>Ko-Kwel Casino Resort Coos Bay</strong></a> (formerly The Mill Casino) will light up the skies over the Bay with this year's waterfront fireworks display.
+Don’t miss **Blast by the Bay**, the Oregon Coast’s **largest fireworks display** on July 3rd. <a href="www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener"><strong>Ko-Kwel Casino Resort | Coos Bay</strong></a> *(formerly The Mill Casino)* will light up the skies over the Bay with this year's waterfront fireworks display.
 
 **The fireworks display will be located in front of Ko-Kwel Casino Resort, but can be seen from just about anywhere along the Bay!**
 
@@ -53,7 +53,7 @@ Don’t miss The Blast by the Bay, the Oregon Coast’s **largest fireworks disp
 
 {{< spacer 15 >}}
 
-#### More Fireworks Over Coos Bay
+#### More Fireworks Over Coos Bay Celebrating the Nation's 250th Birthday!
 
 {{< spacer 15 >}}
 
@@ -79,8 +79,8 @@ Join fellow runners and walkers for the 1/2-mile kid’s run and the 4K for grow
 
 **10:15am** (or whenever the kid’s run is over) – 4K Grown-up Run/Walk
 
-* **Free** for South Coast Running Club members, but please [sign up online](https://southcoastrunningclub.org/mayors-firecracker-run/) to help make race morning less crazy!
-* **$10** for non-members. [Register online](https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark). [Become a member and race for free!](https://southcoastrunningclub.org/membership/)
+* **Free** for South Coast Running Club members, but please <a href="https://www.southcoastrunningclub.com/events/firecracker-run" target="_blank" rel="noopener">sign up online</a> to help make race morning less crazy!
+* **$10** for non-members. <a href="https://runsignup.com/Race/OR/CoosBay/MayorsFirecrackerRunMingusPark" target="_blank" rel="noopener">Register online</a>.
 
 {{< spacer 15 >}}
 
