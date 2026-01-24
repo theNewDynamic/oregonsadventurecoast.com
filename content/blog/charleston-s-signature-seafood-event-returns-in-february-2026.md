@@ -72,7 +72,7 @@ Why not stay for the whole weekend?
 
 **Score $120 Local Vacation Loot with our NEW Promotion!** If you take your vacation between February 1st and March 31st, 2026, you can take advantage of significant savings with our Local Vacation Loot package! Book two nights at a participating hotel and receive up to $120 in vouchers to spend on select local adventures, dining, and attractions.
 
-**​Call one of the**[**<u>participating hotels</u>**](https://www.oregonsadventurecoast.com/loot/) **directly** to book a stay of at least **2 nights for 2 people. Be sure to mention the**[** ** <u>Local Vacation Loot promotion</u>](https://www.oregonsadventurecoast.com/loot/) **when you book.** *Note: You must call the hotel front desk directly to book your stay and get the promotion.*
+**​Call one of the**[**<u>participating hotels</u>**](https://www.oregonsadventurecoast.com/loot/) **directly** to book a stay of at least **2 nights for 2 people. Be sure to mention the**[\*\* \*\* <u>Local Vacation Loot promotion</u>](https://www.oregonsadventurecoast.com/loot/) **when you book.** *Note: You must call the hotel front desk directly to book your stay and get the promotion.*
 
 When you check in, you’ll get a Local Vacation Loot package that includes:
 
