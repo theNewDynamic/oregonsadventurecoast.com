@@ -10,7 +10,7 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 
 ### Stay 2 Nights: Score $120 Local Vacation Loot!
 
-**Local Vacation Loot** adds a little extra to your stay on **Oregon’s Adventure Coast.** Book **two nights at a participating hotel** and receive up to **$120 in Local Vacation Loot** to spend on select local adventures, dining, and attractions. More adventure, more flavor, more of the coast—baked right into your stay! Promotion runs February 1st - March 31st, 2026.
+**Welcome!** Whether you’re a return visitor or exploring our area for the first time, we know you will find plenty to do here. **Local Vacation Loot** adds a little extra to your stay on **Oregon’s Adventure Coast.** Book **two nights at a participating hotel** and receive up to **$120 in Local Vacation Loot** to spend on select local adventures, dining, and attractions. More adventure, more flavor, more of the coast—baked right into your stay! Promotion runs February 1st - March 31st, 2026.
 
 ![fishing, ATV in Dunes, Kayaking and Woman eating a burger](/img/photo-collage-4up-695x166.jpg)
 
@@ -26,7 +26,7 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 
 * Two $50 coupons (one per person) to use toward select charter fishing, ATV rentals, kayak rentals, or dining
 * Two passes to a participating museum (choose one of three local museums)
-* 20% off one item at the Coos Bay Visitor Information Center
+* 20% off one item at the Coos Bay Visitor Information Center or the North Bend Visitor Information Center
 
 {{< spacer "30" >}}
 
@@ -74,6 +74,8 @@ divider
 
 **Spinreel Dune Buggy & ATV Rentals, Inc**<br>541-759-3313<br>[Visit Our Website](https://ridetheoregondunes.com)
 
+**Steve's ATV Rentals**<br>844-278-3837<br>[Visit Our Website](https://stevesatvrentals.com/oregon-dunes-atv-rentals/)<br>*Voucher good on rentals only.*
+
 #### KAYAKING OUTFITTERS
 
 **Coastal Kayaks**<br>541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/){{< /columns >}}
@@ -105,6 +107,20 @@ divider
 **Warehouse 101 @ Ko-Kwel Casino Resort**<br>541-756-8800<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay)
 
 **Wildflour Public House**<br>541-808-3633<br>[Visit Our Website](https://www.wildflourpub.com/home){{< /columns >}}
+
+{{< spacer "30" >}}
+
+![Partner museum header](/img/participating-museums-695x125.jpg)
+
+{{< columns number="3" >}}**Coos Art Museum**<br>541-267-3901<br>[Visit Our Website](https://coosartmuseum.org)
+
+divider
+
+**Coos History Museum**<br>541-756-6320<br>[Visit Our Website](https://cooshistory.org)
+
+divider
+
+**Charleston Marine Life Center**<br>541-346-7280<br>[Visit Our Website](https://cmlc.uoregon.edu){{< /columns >}}
 
 ### Important Information
 

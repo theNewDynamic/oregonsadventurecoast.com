@@ -38,3 +38,5 @@ Discover the thrill of exploring the great outdoors with our diverse range of [D
 Sandboarding is the latest thrill for the entire family. Beginners should be safe and start on the roped off bunny slopes. There are several affordable rental companies in the area so all you need to bring is an extra pair of socks, and long pants.
 
 And of course, anyone who feels up to it, can hike in the dunes.  So when you come to Oregon's Adventure Coast, make sure you get in, and experience a very special and unexpected part of our varied natural offerings.  This is truly a treasure trove of natural beauty.
+
+Rent Sandboards at <a href="https://www.waxerssurfandskate.com/" target="_blank" rel="noopener">Waxers Surf Shop</a> and <a href="https://bahamaboardz.com/coos-bay-shop/" target="_blank" rel="noopener">Bahama Boards</a> in Coos Bay or <a href="https://oregondunebugrentals.com/home.htm" target="_blank" rel="noopener">Dune Bug ATV Rentals</a> in North Bend.

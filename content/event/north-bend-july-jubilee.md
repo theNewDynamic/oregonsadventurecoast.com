@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual July Jubilee
-startdate: '2025-07-18'
-enddate: '2025-07-20'
+startdate: '2026-07-17'
+enddate: '2026-07-19'
 address:
   city: North Bend
   street: ''
@@ -20,17 +20,17 @@ mediumboxphoto: /img/disc-golf-closeup-owned-667x355.jpg
 smallboxphoto: /img/disc-golf-closeup-owned-340x214.jpg
 date: '2019-02-10T00:00:00.000+00:00'
 ---
-![July Jubilee this Summer in North Bend!](/img/2025-july-jubilee-cover-photo.png "July Jubilee this Summer in North Bend!")
+![graphic logo for July Jubilee event](/img/julyjubileename.jpg)
 
-**It's Time to Celebrate North Bend's 122nd Birthday with July Jubilee! Featuring live music, a Sip N Stroll, Show N Shine at North Bend Lanes, food, a 5k fun run, a disc golf tournament, and more!**
+**It's Time to Celebrate North Bend's 123rd Birthday with July Jubilee! Featuring live music, a Sip N Stroll, Show N Shine at North Bend Lanes, food, a 5k fun run, a disc golf tournament, and more!**
 
-## ![Sip N Stroll, Opry and Cornhole!](/img/jj-sat-events-1.jpg)
+## ![Opry, Fun Run, and Disc Golf! Oh My!](/img/jj-sat-events-1.jpg)
 
 {{< spacer "50" >}}
 
-## Schedule of Events:
+## Schedule of Events: *(subject to change)*
 
-#### Friday, July 18
+#### Friday, July 17
 
 * 12:00-1:00 PM I **Cards at Noon** - North Bend Public Library - A fun and great way to enjoy old-school card games with friends.
 * 2:00-3:00 PM I **Afternoon Music Cafe** - <a href="https://www.oregonsadventurecoast.com/event/annual-oregon-coast-music-festival/" target="_blank" rel="noopener">Oregon Coast Music Festival</a> live music event at the North Bend Library
@@ -39,7 +39,7 @@ date: '2019-02-10T00:00:00.000+00:00'
 * 7:00-9:00 PM I **Little Ole Opry on the Bay** - Country Opry at The Liberty Theatre - <a href="https://ci.ovationtix.com/36014/production/1230471" target="_blank" rel="noopener">Buy Tickets</a>
 * 7:30-9:30 PM I **After Stroll** - Sponsored by Midwest Coast Flooring - Featuring Rockipedia at Back Alley Pub & Grill
 
-#### &nbsp;Saturday, July 19
+#### &nbsp;Saturday, July 18
 
 * 8:00 AM-3:00 PM I **Show 'n Shine: Mustang & Ford Club** - Car show at North Bend Lanes
 * 8:00-10:00 AM I **July Jubilee Jaunt** - Sponsored by Juul Insurance - SK Run/Walk from the Boardwalk to Grant Circle - [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSeQP5JEhoFEaNi_0rZivaHQ44N8cH8CBFvNicHlVfIgd23GXw/viewform?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExTDV6U2xqMU9lUDlHWnFwcQEedlTwK9MJgVxMEezSDU4Csbe48HDg7zS-bOREc-R4fTl3eL2I8tNHHGhsbUk_aem_tj2C1Ob4GDV699oa9i3rZQ)
@@ -49,7 +49,7 @@ date: '2019-02-10T00:00:00.000+00:00'
 * 2:00 PM I **Hula Hoop Spectacular** At North Bend Library - **Presenting Shanda Brown** with jaw-dropping hula hoop choreography and tricks!
 * 7:00-9:00 PM I **Little Ole Opry on the Bay** - Country Opry at The Liberty Theatre - <a href="https://ci.ovationtix.com/36014/production/1230471" target="_blank" rel="noopener">Buy Tickets</a>
 
-#### Sunday, July 20
+#### Sunday, July 19
 
 * 10:00 AM-12:00 PM I **Historic Walking Tour** - Starting from Hotel North Bend
 * 11:00 AM-1:00 PM I **Softball Game Fundraiser** - North Bend -vs- Coos Bay at Clyde Allen Field
