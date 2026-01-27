@@ -25,6 +25,12 @@
   {{ end }}
 {{ end }}
 
+{{ if eq .File.Path "blog/_index.md" "tripideas/_index.md" }}
+  {{ with partial "transformers/responsiveImage" "/img/trip-ideas-lighthouse.jpg" }}
+    {{ $s.SetInMap "data" "heroes" (slice (dict "_type" "hero.image" "responsiveImage" .)) }}
+  {{ end }}
+{{ end }}
+
 {{ $blocks := slice }}
 {{ with $.Params.boxes }}
   {{ $blocks = $blocks | append (partial "transformers/blocks/cards" (dict
