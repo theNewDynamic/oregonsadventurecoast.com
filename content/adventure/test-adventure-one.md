@@ -13,7 +13,6 @@ aliases:
   - /featured-adventures/atving-motorsports
   - /activities/category/atv-motorsports
 ---
-&nbsp;
 
 [![ATV in dunes with $120 in Local Vacation Loot promotion](/img/lvl-dunes-695x179-01-26.jpg)](/loot)
 
