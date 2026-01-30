@@ -13,7 +13,13 @@ aliases:
   - /featured-adventures/atving-motorsports
   - /activities/category/atv-motorsports
 ---
+&nbsp;
+
+[![ATV in dunes with $120 in Local Vacation Loot promotion](/img/lvl-dunes-695x179-01-26.jpg)](/loot)
+
 <div class="float-right-350px"><p><img alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast" width="100%" src="/img/atv-jump-cropped.jpg" /></p><p><img alt="Kids and Families ATVing on the Untamed Dunes near North Bend, Oregon" width="100%" src="/img/kids-dunes.jpg" /></p><img alt="Sand Buggy on the Dunes on Oregon's Adventure Coast" width="100%" src="/img/sandbuggy-cropped.jpg" /></div>
+
+&nbsp;
 
 Pulse-pounding adventure hides over and around every new dune on Oregon's Adventure Coast!
 
@@ -47,6 +53,10 @@ Zipping up and down the stunning Pacific Ocean beach dunes is a hair-raising goo
 
 ### Explore Our Trip Ideas!
 
+&nbsp;
+
 <div class="trip-idea-thumbnail"><img alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast" src="/img/ti-hiking-dunes-thumb-4pxline.jpg" /></div>
+
+&nbsp;
 
 [**Oregon Dunes National Recreation Area**](/tripideas/oregon-dunes-national-recreation-area)<br>The Oregon Dunes National Recreation Area is the largest expanse of coastal sand dunes in North America, and it is like no place on earth. The majestic dunes are one of our favorite attractions on the Southern Oregon Coast because they give visitors plenty of opportunities to find... [**Read More &gt;&gt;**](/tripideas/oregon-dunes-national-recreation-area)
