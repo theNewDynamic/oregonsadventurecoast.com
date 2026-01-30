@@ -29,6 +29,6 @@ Contact Oregon’s Adventure Coast with any questions you may have about things 
 
 {{< spacer 30 >}}
 
-[![kayaker with $120 Local Vacation Loot Promotion](/img/lvl-insite-kayaker-695x179.jpg)](/loot)
+[![kayaker with $120 Local Vacation Loot Promotion](/img/lvl-kayaking-695x179-01-26.jpg)](/loot)
 
 {{< spacer 50 >}}
