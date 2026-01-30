@@ -12,6 +12,8 @@ aliases:
 
 ![dramatic cliff overlooking pacific ocean at sunset with Welcome San Franciscans](/img/sfo-page-sub-head.jpg)
 
+[![$120 Local Vacation Loot promotion - stay 2 nights and get $120 to spend on adventures, eats and attractions](/img/lvl-728x90-01-26-v01.jpg)](/loot)
+
 Oregon’s Adventure Coast is excited to be **THE** Oregon Coast, Bucket List destination for our friends in Northern California. There are several nonstop flights a week between San Francisco (SFO) and Oregon’s South Coast, North Bend, Oregon **(SFO to OTH) on** <a href="https://www.united.com/en/us" target="_blank" rel="noopener">United Airlines</a>. OTH is the only commercial airport on the Oregon Coast.
 
 So, when it’s time to leave the crowds behind and discover a bucket list destination where adventure meets relaxation — **Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston affords a quick and non-stop opportunity for you**.
