@@ -33,15 +33,15 @@ warning: false
 ---
 *“Beyond their visual appeal, murals can create a sense of safety and belonging, turning public spaces into places where people feel connected.”* - Steven Micheal, Coos Bay Photographer/Author
 
+![Large octopus mural in downtown Coos Bay painted on a blue brick wall behind the Little Fish Fine Seafood Restaurant and Market, showing a red Pacific octopus stretching its arms across the wall beside a landscaped garden area.](/img/octopus-mural-coos-bay.jpg "Large octopus mural in downtown Coos Bay painted on a blue brick wall behind the Little Fish Fine Seafood Restaurant and Market, showing a red Pacific octopus stretching its arms across the wall beside a landscaped garden area.")
+
 Murals have a way of catching you off guard. You are out and about to grab a cup of coffee, or heading out for a day of fishing, and suddenly there it is. A story on a wall. A moment frozen in paint. A reminder that creativity lives right alongside everyday life.
 
-Local photographer, Steven Michael, recently photographed many of these artistic treasures located throughout Coos Bay, North Bend and Charleston and [shared them in this post.](https://pacificnorthwestadventures.weebly.com/blog/oregons-adventure-coast-city-murals)
-
-“Murals carry rich symbolism and serve many meaningful purposes,” he says.“Beyond their visual appeal, murals can create a sense of safety and belonging, turning public spaces into places where people feel connected.”
+Local photographer, Steven Michael, recently photographed many of these artistic treasures located throughout Coos Bay, North Bend and Charleston and [shared them in this post.](https://pacificnorthwestadventures.weebly.com/blog/oregons-adventure-coast-city-murals) “Murals carry rich symbolism and serve many meaningful purposes,” he says.“Beyond their visual appeal, murals can create a sense of safety and belonging, turning public spaces into places where people feel connected.”
 
 That sense of connection is not hard to find on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. Artists have long been drawn to our corner of the Pacific Northwest, inspired by the landscape, the working waterfront, and the people who call it home. Over time, those artists have left their mark in a very public way.
 
-To help visitors explore the many public art treasures along the Oregon Coast, the [Oregon Coast Visitors Association](https://visittheoregoncoast.com/) created a [Public Art Trail map](https://visittheoregoncoast.com/oregon-coast-public-art-trail/) that highlights murals, sculptures, and installations. You can follow the entire route or pick a section and wander at your own pace. On Oregon’s Adventure Coast, the map opens the door to pieces that are sometimes right in front of you and sometimes tucked into places you might otherwise pass by.
+To help visitors explore the many public art treasures along the Oregon Coast, the [Oregon Coast Visitors Association](https://visittheoregoncoast.com/) created a [Public Art Trail map](https://visittheoregoncoast.com/oregon-coast-public-art-trail/) that highlights murals, sculptures, and installations. You can follow the entire route or pick a section and wander at your own pace.
 
 Many visitors already know about the unique network of [museums and galleries in Coos Bay, North Bend, and Charleston](https://www.oregonsadventurecoast.com/art-history-culture/). What often comes as a surprise is how much art lives outdoors, woven into neighborhoods, businesses, and gathering spaces. Here are just a few places to start looking. A special thanks to Steven Michael for allowing us to share some of his photography and research in our post. **For a more complete list with images, be sure to visit Steven Michael’s post,** [Oregon's Adventure Coast - City Murals](https://pacificnorthwestadventures.weebly.com/blog/oregons-adventure-coast-city-murals)**.**
 
@@ -49,7 +49,7 @@ Many visitors already know about the unique network of [museums and galleries in
 
 1 - Crossing into North Bend, one of the first murals many visitors encounter is at the [Itty Bitty Inn](https://ittybittyinn.com/)on Sherman Avenue. Owned by Rik Villarreal, the inn is known for its playful personality and retro spirit, and the murals match that energy. Painted by Simon Whiteowl, the exterior features themes inspired by Star Wars, Star Trek, Bigfoot, and the outdoors. It is fun, unapologetically quirky, and a perfect introduction to North Bend’s creative side.
 
-![](/img/itty-bitty-inn-north-inn-mural.jpg)
+![Exterior mural at the Itty Bitty Inn in North Bend, Oregon showing Bigfoot hugging a robot in a forest setting beneath a banner reading “I Love You So Much,” with the colorful Itty Bitty Inn sign visible nearby.](/img/itty-bitty-inn-north-inn-mural.jpg "Exterior mural at the Itty Bitty Inn in North Bend, Oregon showing Bigfoot hugging a robot in a forest setting beneath a banner reading “I Love You So Much,” with the colorful Itty Bitty Inn sign visible nearby.")
 
 2 - A few blocks away, the Boom Tender Mural offers a more historical perspective. Painted in 1991 by artist Peggy O’Neal, it depicts the dangerous work of boom tendering, when workers balanced on floating logs to sort and prepare timber for shipment. The mural honors a tough job that shaped the local economy and continues to resonate today. While the mural sits in a privately owned courtyard, it is easily viewed from the sidewalk along Highway 101.
 
