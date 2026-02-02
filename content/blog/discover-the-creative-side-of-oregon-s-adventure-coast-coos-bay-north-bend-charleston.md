@@ -31,19 +31,21 @@ tags:
   - Steven Michael photography
 warning: false
 ---
-*“Beyond their visual appeal, murals can create a sense of safety and belonging, turning public spaces into places where people feel connected.”* - Steven Micheal, Coos Bay Photographer/Author
-
-![Large octopus mural in downtown Coos Bay painted on a blue brick wall behind the Little Fish Fine Seafood Restaurant and Market, showing a red Pacific octopus stretching its arms across the wall beside a landscaped garden area.](/img/octopus-mural-coos-bay.jpg "Large octopus mural in downtown Coos Bay painted on a blue brick wall behind the Little Fish Fine Seafood Restaurant and Market, showing a red Pacific octopus stretching its arms across the wall beside a landscaped garden area.")
+***“Beyond their visual appeal, murals can create a sense of safety and belonging, turning public spaces into places where people feel connected.”*** **- Steven Micheal, Coos Bay Photographer/Author**
 
 Murals have a way of catching you off guard. You are out and about to grab a cup of coffee, or heading out for a day of fishing, and suddenly there it is. A story on a wall. A moment frozen in paint. A reminder that creativity lives right alongside everyday life.
 
 Local photographer, Steven Michael, recently photographed many of these artistic treasures located throughout Coos Bay, North Bend and Charleston and [shared them in this post.](https://pacificnorthwestadventures.weebly.com/blog/oregons-adventure-coast-city-murals) “Murals carry rich symbolism and serve many meaningful purposes,” he says.“Beyond their visual appeal, murals can create a sense of safety and belonging, turning public spaces into places where people feel connected.”
 
+![Large mural in downtown Coos Bay painted on a blue brick wall behind the Little Fish Fine Seafood Restaurant and Market, showing a red Pacific octopus stretching its arms across the wall beside a landscaped garden area.](/img/octopus-mural-coos-bay.jpg "Large mural in downtown Coos Bay painted on a blue brick wall behind the Little Fish Fine Seafood Restaurant and Market, showing a red Pacific octopus stretching its arms across the wall beside a landscaped garden area.")
+
 That sense of connection is not hard to find on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. Artists have long been drawn to our corner of the Pacific Northwest, inspired by the landscape, the working waterfront, and the people who call it home. Over time, those artists have left their mark in a very public way.
 
 To help visitors explore the many public art treasures along the Oregon Coast, the [Oregon Coast Visitors Association](https://visittheoregoncoast.com/) created a [Public Art Trail map](https://visittheoregoncoast.com/oregon-coast-public-art-trail/) that highlights murals, sculptures, and installations. You can follow the entire route or pick a section and wander at your own pace.
 
-Many visitors already know about the unique network of [museums and galleries in Coos Bay, North Bend, and Charleston](https://www.oregonsadventurecoast.com/art-history-culture/). What often comes as a surprise is how much art lives outdoors, woven into neighborhoods, businesses, and gathering spaces. Here are just a few places to start looking. A special thanks to Steven Michael for allowing us to share some of his photography and research in our post. **For a more complete list with images, be sure to visit Steven Michael’s post,** [Oregon's Adventure Coast - City Murals](https://pacificnorthwestadventures.weebly.com/blog/oregons-adventure-coast-city-murals)**.**
+Many visitors already know about the unique network of [museums and galleries in Coos Bay, North Bend, and Charleston](https://www.oregonsadventurecoast.com/art-history-culture/). What often comes as a surprise is how much art lives outdoors, woven into neighborhoods, businesses, and gathering spaces. Here are just a few places to start looking.
+
+A special thanks to Steven Michael for allowing us to share some of his photography and research in our post. **For a more complete list with images, be sure to visit Steven Michael’s post,** [Oregon's Adventure Coast - City Murals](https://pacificnorthwestadventures.weebly.com/blog/oregons-adventure-coast-city-murals)**.**
 
 ### **Murals of North Bend**
 
