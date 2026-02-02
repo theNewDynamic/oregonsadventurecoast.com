@@ -31,7 +31,7 @@ tags:
   - Steven Michael photography
 warning: false
 ---
-***“Beyond their visual appeal, murals can create a sense of safety and belonging, turning public spaces into places where people feel connected.”*** **- Steven Micheal, Coos Bay Photographer/Author**
+***“Beyond their visual appeal, murals can create a sense of safety and belonging, turning public spaces into places where people feel connected.”*** **\- Steven Micheal, Coos Bay Photographer/Author**
 
 Murals have a way of catching you off guard. You are out and about to grab a cup of coffee, or heading out for a day of fishing, and suddenly there it is. A story on a wall. A moment frozen in paint. A reminder that creativity lives right alongside everyday life.
 
