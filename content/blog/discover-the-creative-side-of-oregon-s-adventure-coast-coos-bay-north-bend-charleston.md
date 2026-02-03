@@ -89,12 +89,6 @@ A special thanks to Steven Michael for allowing us to share some of his photogra
 
 ![Close-up detail of the Empire Welcome Mural showing the letter “P” filled with a painted scene of the Hollering Place pier in the Empire District of Coos Bay, with a wooden walkway extending over the water beneath a colorful sky.](/img/empire-mural-3-p.jpg "Close-up detail of the Empire Welcome Mural showing the letter “P” filled with a painted scene of the Hollering Place pier in the Empire District of Coos Bay, with a wooden walkway extending over the water beneath a colorful sky.")
 
-2 - Nearby, the 101 Ship Wall Murals transform once-overlooked brick walls into bold maritime scenes. Painted by Mike Vaughn, the murals resemble the hulls of ships and feature named tugboats guiding vessels safely to port. What was once an eyesore has become a point of interest that reflects the area's working spirit.
-
-![Artist Mike Vaughn paints the 101 Ship Wall Murals in the Empire District of Coos Bay, showing a long black wall transformed with stylized blue waves, a tugboat, and maritime imagery alongside an industrial waterfront setting.](/img/101-ship-wall-murals.jpg "Artist Mike Vaughn paints the 101 Ship Wall Murals in the Empire District of Coos Bay, showing a long black wall transformed with stylized blue waves, a tugboat, and maritime imagery alongside an industrial waterfront setting.")
-
-![Wide view of the 101 Ship Wall Mural in the Empire District of Coos Bay showing painted tugboats riding blue waves along a long black wall, with an active industrial port and cargo ship visible behind it.](/img/101-ship-wall-mural.jpg "Wide view of the 101 Ship Wall Mural in the Empire District of Coos Bay showing painted tugboats riding blue waves along a long black wall, with an active industrial port and cargo ship visible behind it.")
-
 ### **Murals of Charleston, Oregon**
 
 1 - In Charleston, art often appears where you least expect it. One favorite is the Jetty Mural tucked into a grassy alley in the Charleston Boat Basin. It feels like a discovery, rewarding those who wander just a little off the main path.
