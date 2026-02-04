@@ -31,19 +31,21 @@ tags:
   - Steven Michael photography
 warning: false
 ---
-*“Beyond their visual appeal, murals can create a sense of safety and belonging, turning public spaces into places where people feel connected.”* - Steven Micheal, Coos Bay Photographer/Author
-
-![Large octopus mural in downtown Coos Bay painted on a blue brick wall behind the Little Fish Fine Seafood Restaurant and Market, showing a red Pacific octopus stretching its arms across the wall beside a landscaped garden area.](/img/octopus-mural-coos-bay.jpg "Large octopus mural in downtown Coos Bay painted on a blue brick wall behind the Little Fish Fine Seafood Restaurant and Market, showing a red Pacific octopus stretching its arms across the wall beside a landscaped garden area.")
+***“Beyond their visual appeal, murals can create a sense of safety and belonging, turning public spaces into places where people feel connected.”*** **\- Steven Micheal, Coos Bay Photographer/Author**
 
 Murals have a way of catching you off guard. You are out and about to grab a cup of coffee, or heading out for a day of fishing, and suddenly there it is. A story on a wall. A moment frozen in paint. A reminder that creativity lives right alongside everyday life.
 
 Local photographer, Steven Michael, recently photographed many of these artistic treasures located throughout Coos Bay, North Bend and Charleston and [shared them in this post.](https://pacificnorthwestadventures.weebly.com/blog/oregons-adventure-coast-city-murals) “Murals carry rich symbolism and serve many meaningful purposes,” he says.“Beyond their visual appeal, murals can create a sense of safety and belonging, turning public spaces into places where people feel connected.”
 
+![Large mural in downtown Coos Bay painted on a blue brick wall behind the Little Fish Fine Seafood Restaurant and Market, showing a red Pacific octopus stretching its arms across the wall beside a landscaped garden area.](/img/octopus-mural-coos-bay.jpg "Large mural in downtown Coos Bay painted on a blue brick wall behind the Little Fish Fine Seafood Restaurant and Market, showing a red Pacific octopus stretching its arms across the wall beside a landscaped garden area.")
+
 That sense of connection is not hard to find on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. Artists have long been drawn to our corner of the Pacific Northwest, inspired by the landscape, the working waterfront, and the people who call it home. Over time, those artists have left their mark in a very public way.
 
 To help visitors explore the many public art treasures along the Oregon Coast, the [Oregon Coast Visitors Association](https://visittheoregoncoast.com/) created a [Public Art Trail map](https://visittheoregoncoast.com/oregon-coast-public-art-trail/) that highlights murals, sculptures, and installations. You can follow the entire route or pick a section and wander at your own pace.
 
-Many visitors already know about the unique network of [museums and galleries in Coos Bay, North Bend, and Charleston](https://www.oregonsadventurecoast.com/art-history-culture/). What often comes as a surprise is how much art lives outdoors, woven into neighborhoods, businesses, and gathering spaces. Here are just a few places to start looking. A special thanks to Steven Michael for allowing us to share some of his photography and research in our post. **For a more complete list with images, be sure to visit Steven Michael’s post,** [Oregon's Adventure Coast - City Murals](https://pacificnorthwestadventures.weebly.com/blog/oregons-adventure-coast-city-murals)**.**
+Many visitors already know about the unique network of [museums and galleries in Coos Bay, North Bend, and Charleston](https://www.oregonsadventurecoast.com/art-history-culture/). What often comes as a surprise is how much art lives outdoors, woven into neighborhoods, businesses, and gathering spaces. Here are just a few places to start looking.
+
+A special thanks to Steven Michael for allowing us to share some of his photography and research in our post. **For a more complete list with images, be sure to visit Steven Michael’s post,** [Oregon's Adventure Coast - City Murals](https://pacificnorthwestadventures.weebly.com/blog/oregons-adventure-coast-city-murals)**.**
 
 ### **Murals of North Bend**
 
@@ -86,12 +88,6 @@ Many visitors already know about the unique network of [museums and galleries in
 ![Large colorful “Empire” welcome mural painted on a building wall in the Empire District of Coos Bay, with each letter illustrating scenes of local history, waterfront views, and community landmarks along a street corner.](/img/empire-welcome-mural-coos-bay.jpg "Large colorful “Empire” welcome mural painted on a building wall in the Empire District of Coos Bay, with each letter illustrating scenes of local history, waterfront views, and community landmarks along a street corner.")
 
 ![Close-up detail of the Empire Welcome Mural showing the letter “P” filled with a painted scene of the Hollering Place pier in the Empire District of Coos Bay, with a wooden walkway extending over the water beneath a colorful sky.](/img/empire-mural-3-p.jpg "Close-up detail of the Empire Welcome Mural showing the letter “P” filled with a painted scene of the Hollering Place pier in the Empire District of Coos Bay, with a wooden walkway extending over the water beneath a colorful sky.")
-
-2 - Nearby, the 101 Ship Wall Murals transform once-overlooked brick walls into bold maritime scenes. Painted by Mike Vaughn, the murals resemble the hulls of ships and feature named tugboats guiding vessels safely to port. What was once an eyesore has become a point of interest that reflects the area's working spirit.
-
-![Artist Mike Vaughn paints the 101 Ship Wall Murals in the Empire District of Coos Bay, showing a long black wall transformed with stylized blue waves, a tugboat, and maritime imagery alongside an industrial waterfront setting.](/img/101-ship-wall-murals.jpg "Artist Mike Vaughn paints the 101 Ship Wall Murals in the Empire District of Coos Bay, showing a long black wall transformed with stylized blue waves, a tugboat, and maritime imagery alongside an industrial waterfront setting.")
-
-![Wide view of the 101 Ship Wall Mural in the Empire District of Coos Bay showing painted tugboats riding blue waves along a long black wall, with an active industrial port and cargo ship visible behind it.](/img/101-ship-wall-mural.jpg "Wide view of the 101 Ship Wall Mural in the Empire District of Coos Bay showing painted tugboats riding blue waves along a long black wall, with an active industrial port and cargo ship visible behind it.")
 
 ### **Murals of Charleston, Oregon**
 
