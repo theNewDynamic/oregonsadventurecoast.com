@@ -16,7 +16,7 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 
 ### How it works
 
-**1\. Book Your Stay**<br>Call one of the participating hotels listed below **directly** and book a stay of **at least two nights for two people**. Be sure to mention the **Local Vacation Loot** promotion when you book. *Note: you must call the hotel front desk directly to book your stay and get the promotion.*
+**1\. Book Your Stay**<br>Call one of the participating hotels listed below **directly** and book a stay of **at least two nights for two people**. Be sure to mention the **Local Vacation Loot** promotion when you book. *Note: you must call the hotel front desk directly to book your stay and get the promotion. Promotion not valid with other hotel promotions.*
 
 **2\. Book Your Adventure**<br>Check the list of **participating outfitters and providers below** and book your adventure in advance. Charter fishing and ATVing, in particular, fill up fast. It's best to book those before you head to Oregon's Adventure Coast. *Note: your Loot can be used toward the cost of an adventure or meal but may not cover the entire bill.*
 
