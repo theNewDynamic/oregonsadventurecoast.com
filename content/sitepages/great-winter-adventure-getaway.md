@@ -18,7 +18,7 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 
 **1\. Book Your Stay**<br>Call one of the participating hotels listed below **directly** and book a stay of **at least two nights for two people**. Be sure to mention the **Local Vacation Loot** promotion when you book. *Note: you must call the hotel front desk directly to book your stay and get the promotion.*
 
-**2\. Book Your Adventure**<br>Check the list of **participating outfitters and providers below** and book your adventure in advance. Charter fishing and ATVing, in particular, fill up fast. It's best to book those before you head to Oregon's Adventure Coast.
+**2\. Book Your Adventure**<br>Check the list of **participating outfitters and providers below** and book your adventure in advance. Charter fishing and ATVing, in particular, fill up fast. It's best to book those before you head to Oregon's Adventure Coast. *Note: your Loot can be used toward the cost of an adventure or meal but may not cover the entire bill.*
 
 **3\. Check In & Get Your Loot**<br>When you arrive, you’ll receive a **Local Vacation Loot** package at check-in—everything you need to start exploring.
 
@@ -27,6 +27,8 @@ photo: /img/kayker-local-adventure-loot-2048x531.jpg
 * Two $50 coupons (one per person) to use toward select charter fishing, ATV rentals, kayak rentals, or dining
 * Two passes to a participating museum (choose one of three local museums)
 * 20% off one item at the Coos Bay Visitor Information Center or the North Bend Visitor Information Center
+
+***Note: adventure excursions may be cancelled due to no fault of the provider, due to inclement weather, small craft advisories, and other issues beyond the control of either the provider or the hotel. Refunds will not be provided on hotel stays if adventures are cancelled and guest decides to leave early. Vouchers are good through March 31, 2026.***
 
 {{< spacer "30" >}}
 
@@ -80,6 +82,8 @@ divider
 
 **Coastal Kayaks**<br>541-252-9201<br>[Visit Our Website](https://coastalkayakandsuprentalsllc.com/){{< /columns >}}
 
+***Note: adventure excursions may be cancelled due to no fault of the provider, due to inclement weather, small craft advisories, and other issues beyond the control of either the provider or the hotel. Refunds will not be provided on hotel stays if adventures are cancelled and guest decides to leave early. Vouchers are good through March 31, 2026.***
+
 {{< spacer "30" >}}
 
 ![Partner Restaurants Header](/img/participating-restaurants-695x125.jpg)
@@ -128,3 +132,4 @@ divider
 * Coupon have No Cash Value and gratuities are not included. Please tip your guide and/or waitstaff appropriately.
 * $50 Coupons will be accepted at the Outfitters and Restaurants listed above and on the inside cover of the Coupon Booklet you will receive when you check into your hotel. Coupons good toward the cost of a fishing charter, an ATV rental or tour, a kayak rental, or dining out.
 * If your purchase is more than $50, you will be responsible for the remainder of the costs. If your purchase is less than $50, unfortunately, you will forfeit the remainder of the coupon as change cannot be given.
+* *Note: adventure excursions may be cancelled due to no fault of the provider, due to inclement weather, small craft advisories, and other issues beyond the control of either the provider or the hotel. Refunds will not be provided on hotel stays if adventures are cancelled and guest decides to leave early. Vouchers are good through March 31, 2026.*
