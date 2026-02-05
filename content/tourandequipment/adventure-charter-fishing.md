@@ -5,7 +5,7 @@ property_description: "Experience\_the thrill of the Pacific Ocean with Adventur
 property_name: Adventure Charter Fishing
 equip_type:
   - Tour
-photo_name: /img/adventure-fishing.png
+photo_name: /img/adventure-charters-boat.jpg
 photo_alt: Adventure Charter Fishing boat at dock
 address:
   city: Charleston
