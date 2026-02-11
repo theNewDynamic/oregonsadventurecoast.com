@@ -4,7 +4,7 @@ title: Your Bucket List Must
 draft: false
 url: /1859
 layout: adventure-sidebar
-photo: /img/commerical-airport-header-2048x531.jpg
+photo: /img/sunset-bay-at-sunset-2048x530.jpg
 ---
 ![rugged cliffs on the southern Oregon coast at sunset](/img/unplug-page-header-695x322.jpg)
 
