@@ -2,9 +2,11 @@
 _schema: default
 title: Your Bucket List Must
 draft: false
-url: /1859
+url: /bucket-list
 layout: adventure-sidebar
 photo: /img/sunset-bay-at-sunset-2048x530.jpg
+aliases:
+  - /1859
 ---
 ![rugged cliffs on the southern Oregon coast at sunset](/img/unplug-page-header-695x322.jpg)
 
