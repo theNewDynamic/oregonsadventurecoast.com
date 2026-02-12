@@ -108,13 +108,7 @@ This is a new promotion and we understand that you might have some questions, so
 **Wait, Oregon’s Adventure Coast has museums?** *It does, and this package includes admission to one museum of your choice from the following options.*
 
 * [*Coos Art Museum*](https://coosartmuseum.org/)*, the third oldest art museum in Oregon, features rotating exhibitions, touring shows, and a strong collection of Pacific Northwest art. Don’t miss the Prefontaine Memorial Gallery honoring this hometown hero. Visit the Coos Art Museum website for more information.*
-
-  &nbsp;
-
 * *​The* [*Coos History Museum*](https://cooshistory.org/) *is Oregon’s oldest continuously operated historical society, featuring more than 250,000 historic photographs and changing exhibits that highlight the region’s tribes, industries, and coastal history. Visit cooshistory.org for more information.*
-
-  &nbsp;
-
 * [*Charleston Marine Life Center*](https://cmlc.uoregon.edu/)*\: The Charleston Marine Life Center is a hidden gem on Oregon’s South Coast, featuring interactive exhibits like the Marine Ecosystem Gallery, Underwater Oregon Gallery, and an open air Oregon Fisheries Gallery overlooking the harbor, along with touch tanks, whale skeletons, and more.*
 
 **Tell me about the adventures and dining I get to choose from!** *We have partnered with several local outfitters to bring you exciting Oregon Coast adventures. Be sure to book at least several days in advance by calling the locations directly to set up your excursion. Mention that you will be using Local Vacation Loot when you book.*
