@@ -49,11 +49,11 @@ warning: false
 ---
 Do you love a good deal? Do you enjoy trying new things? Do you like getting the most out of your travel budget? Does it make you happy to pay less for dining out? Would you like to get up to $120 to use towards local experiences when you visit **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**?
 
-**If you answered yes to any of these, you’ll want to take advantage of the**[**<u>Local Vacation Loot promotion</u>**](https://www.oregonsadventurecoast.com/loot/) **happening now through March 31, 2026, on Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston!**
+**If you answered yes to any of these, you’ll want to take advantage of the** [**<u>Local Vacation Loot promotion</u>**](https://www.oregonsadventurecoast.com/loot/) **happening now through March 31, 2026, on Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston!**
 
 ### **Here’s how it works.**
 
-Book a two-night stay at one of our partner hotels listed below (also listed on our [Local Vacation Loot page](https://www.oregonsadventurecoast.com/loot/)) before March 31, 2026, by **calling the front desk directly and mentioning the**[** **](https://www.oregonsadventurecoast.com/loot/)**promotion**. *This offer does not apply to online bookings.* Once you arrive and check in, you’ll get up to $120 in Local Vacation Loot to use on select adventures, dining, and attractions. If you plan to spend some of your “loot” on ATVing, fishing or kayaking experiences, you will need to call in advance and reserve a time as those slots fill up quickly.
+Book a two-night stay at one of our partner hotels listed below (also listed on our [Local Vacation Loot page](https://www.oregonsadventurecoast.com/loot/)) before March 31, 2026, by **calling the front desk directly and mentioning the promotion**. *This offer does not apply to online bookings.* Once you arrive and check in, you’ll get up to $120 in Local Vacation Loot to use on select adventures, dining, and attractions. If you plan to spend some of your “loot” on ATVing, fishing or kayaking experiences, you will need to call in advance and reserve a time as those slots fill up quickly.
 
 Please note that some restrictions and blackout dates may apply.
 
