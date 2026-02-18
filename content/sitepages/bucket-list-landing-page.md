@@ -2,9 +2,11 @@
 _schema: default
 title: Your Bucket List Must
 draft: false
-url: /unplug
+url: /bucket-list
 layout: adventure-sidebar
-photo: /img/commerical-airport-header-2048x531.jpg
+photo: /img/sunset-bay-at-sunset-2048x530.jpg
+aliases:
+  - /1859
 ---
 ![rugged cliffs on the southern Oregon coast at sunset](/img/unplug-page-header-695x322.jpg)
 
