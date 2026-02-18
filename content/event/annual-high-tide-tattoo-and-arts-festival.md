@@ -45,7 +45,7 @@ Tattoo Booking: Most artist use social media as their preferred method of commun
 
 {{< spacer 30 >}}
 
-![](/img/high-tide-1.jpg)
+&nbsp;
 
 #### ARTISTS
 
