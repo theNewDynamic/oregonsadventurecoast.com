@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: OSCAR Short Film Festival
-startdate: 2026-03-4
-enddate: 2026-03-8
+startdate: '2026-03-04'
+enddate: '2026-03-08'
 address:
   city: Coos Bay
   state: Oregon
@@ -43,29 +43,19 @@ Make a weekend of it—immerse yourself in the magic of the movies, explore hist
 #### Wednesday, March 4
 
 * **7:00 PM** – Best Animated Short Film 2026
-
   1. In the Shadow of the Cypress by Hossein Molayemi and Shirin Sohani
-
   2. The Only Girl in the Orchestra by Molly O’Brien
-
   3. I’m Not a Robot by Victoria Warmerdam
-
   4. A Friend of Dorothy by Lee Knight
-
   5. The Quinta’s Ghost by James A. Castillo
 
 #### Thursday, March 5
 
-* **7:00 PM** – Live Action Shorts 2026
-
+* **7:00 PM** – Best Live Action Shorts 2026
   1. Retirement Plan by John Kelly
-
   2. The Last Goodbye by Maria Garcia
-
   3. The Silent Echo by David Chen
-
   4. The Unseen by Sarah Thompson
-
   5. The Weight of Water by Emily Johnson
 
   &nbsp;
@@ -73,20 +63,15 @@ Make a weekend of it—immerse yourself in the magic of the movies, explore hist
 #### Friday, March 6
 
 * **7:00 PM** – Best Documentary Short Film 2026
-
   1. The Alabama Solution by Mark Smith
-
   2. Apocalypse in the Tropics by Laura Green
-
   3. 2000 Meters to Andriivka by Alexei Petrov
-
   4. The Perfect Neighbor by Rachel Adams
-
   5. Voices of the Forgotten by Samira Khan
 
 #### Saturday, March 7
 
-* **7:00 PM** – Live Action Shorts 2026
+* **7:00 PM** – Best Live Action Shorts 2026
 
   (See March 5th for Lineup)
 
