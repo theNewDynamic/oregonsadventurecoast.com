@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: OSCAR Short Film Festival
-startdate: '2025-02-21'
-enddate: '2025-02-23'
+startdate: 2026-03-4
+enddate: 2026-03-8
 address:
   city: Coos Bay
   state: Oregon
@@ -11,9 +11,9 @@ address:
   zip: '97420'
 phone_local: 541-808-8295
 website: https://www.egyptiantheatre.events/
-desktoptitle: 2025 OSCAR Shorts Film Festival
+desktoptitle: 2026 OSCAR Shorts Film Festival
 mobiletitle: OSCAR Shorts Film Festival
-hovertitle: 2025 OSCAR Shorts Film Festival Weekend
+hovertitle: 2026 OSCAR Shorts Film Festival Weekend
 hoverdescription: >-
   Join Us to Watch the Year's Best Short Films in Animation, Live Action &
   Documentary!
@@ -24,11 +24,13 @@ smallboxphoto: /img/oscarshorts-sm-340x214.jpg
 ---
 ![Egyptian Theatre 2025 Oscar Shorts Film Festival Page Header with Oscar Statue](/img/oscar-animation-page-header.gif)
 
-### Experience the 2025 Oscar-Nominated Short Films at the Historic Egyptian Theatre!
+### Experience the 2026 Oscar-Nominated Short Films at the Historic Egyptian Theatre!
 
 Step into the grandeur of Hollywood’s golden age and experience the best in short filmmaking at the [**Historic Egyptian Theatre**](https://www.egyptiantheatre.events/) in Coos Bay! This year’s Oscar®-nominated shorts are taking center stage in a venue as spectacular as the films themselves. With its rich history, stunning architecture, and classic movie palace ambiance, the Egyptian Theatre provides the perfect setting to enjoy these cinematic masterpieces.
 
-Celebrating its 100th anniversary in 2025, the Egyptian Theatre is in the midst of a landmark year filled with incredible films, festivals, and special events. There's no better time to visit this beautifully preserved venue, listed on the National Register of Historic Places. From the intricate Egyptian Revival design to the glowing marquee, every detail of this iconic theatre will transport you back in time—making your moviegoing experience unforgettable. [Visit the Egyptian Theatre's website.](https://www.egyptiantheatre.events/)
+There's no better time to visit this beautifully preserved venue, listed on the National Register of Historic Places, than in March 2026! Take advantage of the <a href="https://www.oregonsadventurecoast.com/loot/" target="_blank" rel="noopener">Local Vacation Loot</a> promotion and, with a 2-night stay, receive $120 in vacation loot to spend while in the Coos Bay area.
+
+From the intricate Egyptian Revival design to the glowing marquee, every detail of this iconic theatre will transport you back in time—making your moviegoing experience unforgettable. [Visit the Egyptian Theatre's website.](https://www.egyptiantheatre.events/)
 
 ![Interior of the Historic Egyptian Theatre in Cos Bay](/img/interior-panoramic-695x405.jpg)
 
@@ -38,20 +40,61 @@ Make a weekend of it—immerse yourself in the magic of the movies, explore hist
 
 ### Oscar® Short Film Festival Schedule
 
-#### Friday, February 21
+#### Wednesday, March 4
 
-* **7:00 PM** – Live Action Shorts 2025
+* **7:00 PM** – Best Animated Short Film 2026
 
-#### Saturday, February 22
+  1. In the Shadow of the Cypress by Hossein Molayemi and Shirin Sohani
 
-* **12:00 PM** – Animation Shorts 2025
-* **3:00 PM** – Documentary Shorts 2025
-* **7:00 PM** – Live Action Shorts 2025
+  2. The Only Girl in the Orchestra by Molly O’Brien
 
-#### Sunday, February 23
+  3. I’m Not a Robot by Victoria Warmerdam
 
-* **12:00 PM** – Animation Shorts 2025
-* **3:00 PM** – Documentary Shorts 2025
+  4. A Friend of Dorothy by Lee Knight
+
+  5. The Quinta’s Ghost by James A. Castillo
+
+#### Thursday, March 5
+
+* **7:00 PM** – Live Action Shorts 2026
+
+  1. Retirement Plan by John Kelly
+
+  2. The Last Goodbye by Maria Garcia
+
+  3. The Silent Echo by David Chen
+
+  4. The Unseen by Sarah Thompson
+
+  5. The Weight of Water by Emily Johnson
+
+  &nbsp;
+
+#### Friday, March 6
+
+* **7:00 PM** – Best Documentary Short Film 2026
+
+  1. The Alabama Solution by Mark Smith
+
+  2. Apocalypse in the Tropics by Laura Green
+
+  3. 2000 Meters to Andriivka by Alexei Petrov
+
+  4. The Perfect Neighbor by Rachel Adams
+
+  5. Voices of the Forgotten by Samira Khan
+
+#### Saturday, March 7
+
+* **7:00 PM** – Live Action Shorts 2026
+
+  (See March 5th for Lineup)
+
+#### Sunday, March 8
+
+* **2:00 PM** – Best Documentary Short Film 2026
+
+  (See March 6th for Lineup)
 
 🎟 **Admission:** Adults $10 \| Seniors $9 \| Kids $8
 
