@@ -4,11 +4,19 @@
 {{ $s.SetInMap "data" "_type" "event" }}
 
 {{ with .Params.startdate }}
-  {{ $s.SetInMap "data" "timeStart" . }}
+  {{ $time := . }}
+  {{ if eq (len .) 10 }}
+    {{ $time = print $time "T05:00:00Z" }}
+  {{ end }}
+  {{ $s.SetInMap "data" "timeStart" (partial "transformers/date" $time) }}
 {{ end }}
 
 {{ with .Params.enddate }}
-  {{ $s.SetInMap "data" "timeEnd" . }}
+  {{ $time := . }}
+  {{ if eq (len .) 10 }}
+    {{ $time = print $time "T05:00:00Z" }}
+  {{ end }}
+  {{ $s.SetInMap "data" "timeEnd" (partial "transformers/date" $time) }}
 {{ end }}
 
 {{ with .Params.hoverdescription }}
