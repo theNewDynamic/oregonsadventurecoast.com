@@ -22,7 +22,7 @@ largeboxphoto: /img/oscarshorts-lg-1024x395.jpg
 mediumboxphoto: /img/oscarshorts-md-667-355.jpg
 smallboxphoto: /img/oscarshorts-sm-340x214.jpg
 ---
-![Egyptian Theatre 2025 Oscar Shorts Film Festival Page Header with Oscar Statue](/img/oscar-animation-page-header.gif)
+![Egyptian Theatre 2026 Oscar Shorts Film Festival Page Header with Oscar Statue](/img/oscarshorts-md-667-355.jpg)
 
 ### Experience the 2026 Oscar-Nominated Short Films at the Historic Egyptian Theatre!
 
