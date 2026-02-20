@@ -42,17 +42,29 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 ### 48th Oregon Coast Music Festival Special Events and Concerts - July 11-25 2026
 
+{{< spacer "10" >}}
+
 #### SPECIAL CONCERTS
 
-**Saturday, July 11 - Noon-2pm**<br>Mingus Park Amphitheater, 725 N 10th St, Coos Bay<br>**Bay Area Concert Band Festival Opener<br>Free**
+**Saturday, July 11 - Noon-2pm**<br>Mingus Park Amphitheater, 725 N 10th St, Coos Bay<br>**Bay Area Concert Band Festival Opener<br>FREE**
 
-{{< floatimage src="/img/darrell-grant-1.jpg" float="left" alt="Musician Darrell Grant wearing African inspired shirt and blue hat." size="" >}}**Sunday, July 12 - 2:00-3:30pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**Darrell Grant: Songs for the Soul<br>**Darrell Grant is a creative artist who harnesses the power of music to create change. Whether through performing, composing, teaching, or organizing musical initiatives around community, sustainability or social justice, he seeks to leverage a deeper level of engagement and connection.<br>**Tickets $60**
+{{< spacer "10" >}}
+
+{{< floatimage src="/img/darrell-grant-1.jpg" float="left" alt="Musician Darrell Grant wearing African inspired shirt and blue hat." size="" >}}**Sunday, July 12 - 2:00-3:30pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**Darrell Grant: Songs for the Soul**<br>Darrell Grant is a creative artist who harnesses the power of music to create change. Whether through performing, composing, teaching, or organizing musical initiatives around community, sustainability or social justice, he seeks to leverage a deeper level of engagement and connection.<br>**Tickets $60**
+
+{{< spacer "10" >}}
 
 **Wednesday, June 15 - 4:00pm**<br>Wildflour Public House, 1987 Sherman Avenue, North Bend<br>**A Taste of Jazz: Aaron Johnson and Friends**<br>Local favorite, Aaron Johnson, returns to OCMF for a special concert with friends at Wildflour Public House.
 
-{{< floatimage src="/img/gothardsisters340x214.jpg" float="left" alt="Members of Family Mystic" size="" >}}**Saturday, July 18 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>**The Gothard Sisters**<br>The Gothard Sisters blend Celtic, folk, world, classical and new age musical influences to life with violin, acoustic guitar, mandolin, bodhran, djembe, whistle and vocal harmonies, creating music that is “vivid, inspirational and captivating.” *(Tim Carroll, Folk Words Review 2018)<br>***FREE**
+{{< spacer "10" >}}
+
+{{< floatimage src="/img/gothardsisters340x214.jpg" float="left" alt="Members of Family Mystic" size="" >}}**Saturday, July 18 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>**The Gothard Sisters**<br>The Gothard Sisters blend Celtic, folk, world, classical and new age musical influences to life with violin, acoustic guitar, mandolin, bodhran, djembe, whistle and vocal harmonies, creating music that is “vivid, inspirational and captivating.” (Tim Carroll, Folk Words Review 2018)<br>**FREE**
+
+{{< spacer "10" >}}
 
 #### **ORCHESTRA PREVIEWS**
+
+{{< spacer "10" >}}
 
 ![Bassoonist Martin Kuuskmann holding his bassoon.](/img/martin-kuuskmann.jpg "Bassoon Soloist Martin Kuuskmann Joins OCMF for Orchestra Concert 1")
 
@@ -72,7 +84,7 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 ![Adam Stern conducts the orchestra.](/img/ocma-pops-concert-frankprice-web.jpg "Photograph Courtesy Frank Price")
 
-**Thursday, July 23 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>\*\*OCMA Festival Orchestra Pops<br>\*\*Information Coming Soon
+**Thursday, July 23 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>OCMA Festival Orchestra Pops<br>Information Coming Soon
 
 {{< spacer 50 >}}
 
