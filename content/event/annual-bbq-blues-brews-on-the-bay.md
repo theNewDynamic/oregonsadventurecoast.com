@@ -32,7 +32,7 @@ smallboxphoto: /img/bbq-blues-event-small.jpg
 
 **Get ready for the return of lip-smackin' BBQ, incredible brews, and smokin' hot tunes. Memorial Weekend 2026, May 23-24.**
 
-**Ko-Kwel Casino Resort's Annual BBQ, Blues & Brews on the Bay** has grown into one of Resort's most attended events. Finger-lickin' good barbecue, hand-crafted beers, and smokin’ hot tunes at the **BBQ, Blues & Brews on the Bay**, Memorial Day Weekend.
+**Ko-Kwel Casino Resort's Annual BBQ, Blues & Brews on the Bay** has grown into one of Resort's most attended events. Finger-lickin' good barbecue, hand-crafted beers, and smokin’ hot tunes at the **BBQ, Blues & Brews on the Bay**, Memorial Day Weekend, with special guest Moe Cason!
 
 ***Whether you’re a grill master or just love to eat great barbecue, this event is for you.***
 
@@ -48,7 +48,7 @@ smallboxphoto: /img/bbq-blues-event-small.jpg
 
 For the 13th Year, Ko-Kwel Casino Resort brings you **finger-lickin' good barbeque** for a Kansas City Barbecue Society Sanctioned Event, bringing the best grill masters and teams together, vying for the title of **Grand Champion!** See the schedule below for tasting times!
 
-**Details Coming Soon on Ticket Prices and Schedules of Events**
+**How it Works**<br>$5 entry fee gets you into the event each day. Participating vendors will have a 2 oz. sample of BBQ for sale.
 
 {{< spacer 50 >}}
 
@@ -74,8 +74,8 @@ At each of the three beer stations, guests will be able to buy a commemorative l
 
 **13th Annual BBQ, Blues & Brews <br>Saturday & Sunday, May 23 – 24, 2026**
 
-**Details Coming Soon**
+Saturday, May 23, 2026 \| 12 PM – 6 PM<br>Sunday, May 24, 2026 \| 12 PM – 4 PM
 
-###
+**Stay tuned for more information on a Cooking Class with the Bob & Moe BBQ Show that will be hosted on Friday, May 22 at the Ko-Kwel Casino Resort \| Coos Bay. Spots are limited and will sell quickly!**
 
 &nbsp;
