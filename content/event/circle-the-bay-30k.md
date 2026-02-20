@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Circle the Bay 30K
-startdate: '2025-08-09'
-enddate: '2025-08-09'
+startdate: '2026-08-08'
+enddate: '2026-08-08'
 address:
   city: North Bend
   state: OR
@@ -10,7 +10,7 @@ address:
   street2: ''
   zip: '97459'
 phone_local: '541-260-3298 '
-website: https://southcoastrunningclub.org/circle-the-bay/
+website: https://www.southcoastrunningclub.com/events/circle-the-bay
 coordinates:
   lat: ''
   lng: ''
@@ -28,7 +28,7 @@ largeboxphoto: /img/circlebay-1024x395.jpg
 mediumboxphoto: /img/circlebay-667x355.jpg
 smallboxphoto: /img/circlebay-340x214.jpg
 ---
-![Circle the Bay - 30K Running Event in August](/img/circle-the-bay-header-695x322-2025.jpg)
+&nbsp;
 
 ### 30K (18 mile) 3-person relay or 1-person 30K run
 
@@ -82,7 +82,7 @@ Individual 30K and Relay team \#1 runners start at 8 AM. Walkers start at 6:30 A
 * Participants, their fans, and all volunteers are invited to enjoy a post-race barbecue and beverages. Beer is donated by 7-Devils.
 * Water will be available at the exchanges, approximately every 6 miles.
 
-[CHECK THE RACE WEBSITE FOR MORE INFORMATION!](https://southcoastrunningclub.org/circle-the-bay)
+[CHECK THE RACE WEBSITE FOR MORE INFORMATION!](https://www.southcoastrunningclub.com/events/circle-the-bay)
 
 {{< spacer "40" >}}
 
