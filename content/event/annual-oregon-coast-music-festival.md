@@ -68,9 +68,15 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 ![Bassoonist Martin Kuuskmann holding his bassoon.](/img/martin-kuuskmann.jpg "Bassoon Soloist Martin Kuuskmann Joins OCMF for Orchestra Concert 1")
 
-**Monday, July 20 - Noon-2pm**<br>SWOCC Umpqua Hall<br>**Preview of Orchestra I with Soloist Martin Kuuskmann**<br>Meet Bassoon Soloist Martin Kuuskmann and learn about the orchestral selections for Orchestra I: Our Solar System
+**Monday, July 20 - Noon-2pm**<br>SWOCC Umpqua Hall<br>**Preview of Orchestra I with Soloist Martin Kuuskmann**<br>Meet Bassoon Soloist Martin Kuuskmann and learn about the orchestral selections for Orchestra I: Our Solar System.<br>**FREE**
 
-&nbsp;
+{{< spacer "10" >}}
+
+**Wednesday, July 22 - Noon-2pm**<br>SWOCC Umpqua Hall<br>**Preview of Pops Orchestra Concert with Conductor Adam Stern<br>**The Stuff of Legends includes selections that are inspired by myths and fables.<br>**FREE**
+
+{{< spacer "10" >}}
+
+**Friday, July 24 - Noon-2pm**<br>SWOCC Umpqua Hall<br>**Preview of Orchestra II with Percussionist Terry Longshore<br>**Meet Percussion soloist Terry Longshore and learn about the music selections for Orchestra Concert II: Our Blue Home.<br>**FREE**
 
 {{< spacer 25 >}}
 
@@ -78,18 +84,18 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 ![The glittering, brilliant sounds of the Harp enhance every movement played by the Orchestra during the OR Coast Music Festival in Coos Bay.](/img/ocma-harpist-frankprice-web.jpg "The Orchestra features the glittering sounds of the harp - Photo by Frank Price")
 
-**Tuesday, July 21 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA Festival Orchestra Concert I**&nbsp;<br>Information Coming Soon
+**Tuesday, July 21 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA Festival Orchestra Concert I**&nbsp;<br>Maestro Martin Majkut Conductor & Bassoon Soloist Martin Kuuskmann bring music that evokes our vast solar system in Concert I, featuring Nielsen: Helios Overture, Kõrvits: Beyond the Solar Fields, Martin Kuuskmann, bassoon (This is the North American Premiere), Weber: Andante & Rondo ongarese, Martin Kuuskmann, bassoon, and Brahms: Symphony No. 3<br>**Tickets $30**
 
 {{< spacer 50 >}}
 
 ![Adam Stern conducts the orchestra.](/img/ocma-pops-concert-frankprice-web.jpg "Photograph Courtesy Frank Price")
 
-**Thursday, July 23 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>OCMA Festival Orchestra Pops<br>Information Coming Soon
+**Thursday, July 23 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA Festival Orchestra Pops**<br>**The Stuff of Legends** featuring Conductor Adam Stern includes selections that are inspired by myths and fables.<br>**Tickets $30**
 
 {{< spacer 50 >}}
 
 ![The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July](/img/ocma-cellist-frankprice-web.jpg "The Annual Oregon Coast Music Festival fills the Auditorium with amazing music each July - Photo by Frank Price")
 
-**Saturday, July 25 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA** ***Festival Finale*** **Festival Orchestra Concert II**&nbsp;<br>Information Coming Soon
+**Saturday, July 25 - 7:00pm**<br>Marshfield High School Auditorium, 972 Ingersoll Ave, Coos Bay<br>**OCMA** **Festival Orchestra Concert II**&nbsp;<br>Maestro Martin Majkut, Conductor & Terry Longshore, Percussion Soloist present Our Blue Home featuring Haydn: The Representation of Chaos from “The Creation”, Beethoven: Symphony No. 6, Pastorale, Adam Schoenberg: Losing Earth, with Terry Longshore, percussion (This is the Oregon Coastal Premiere of this percussion concerto)<br>**Tickets $30**
 
 {{< spacer 25 >}}
