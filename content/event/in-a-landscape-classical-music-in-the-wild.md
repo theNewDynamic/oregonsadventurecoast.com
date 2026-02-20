@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: 'IN A LANDSCAPE: Classical Music in the Wild'
-startdate: '2025-09-06'
-enddate: '2025-09-07'
+startdate: '2026-08-29'
+enddate: '2026-08-29'
 address:
   city: Charleston
   state: OR
@@ -22,9 +22,7 @@ seo:
 desktoptitle: Classical Music in the Wild
 mobiletitle: Classical Music in the Wild
 hovertitle: Classical Music in the Wild
-hoverdescription: >-
-  Join classical pianist Hunter Noack for a special 2-night concert series at
-  Shore Acres!
+hoverdescription: Join classical pianist Hunter Noack for a special concert at Shore Acres!
 photo: /img/inalandscape-2048x530.jpg
 largeboxphoto: /img/landscape1024x395.jpg
 mediumboxphoto: /img/landscape-667x395.jpg
@@ -32,7 +30,7 @@ smallboxphoto: /img/ial-joey-hamilton-340x214.jpg
 ---
 ### IN A LANDSCAPE: Classical Music in the Wild™
 
-#### AT SHORE ACRES STATE PARK - September 6 & 7
+#### AT SHORE ACRES STATE PARK - August 29
 
 ***Doors open at 4:00pm, Concert begins at 5:00pm***
 
@@ -46,9 +44,7 @@ To meet the acoustical challenges of performing in the wild, **music is transmit
 
 ###### {{< spacer 25 >}}
 
-**IN A LANDSCAPE: Classical Music in the Wild™ concerts are brought to you in partnership with the Oregon Parks and Recreation Department and Sponsors** <a href="https://bandondunesgolf.com/golf-resort-info/bandon-dunes-charitable-foundation/" target="_blank" rel="noopener"><strong>Bandon Dunes Charitable Foundation</strong></a> **and** [**Travel Southern Oregon Coast**](https://www.oscrtn.com/tsoc.html)**.**
-
-###### {{< spacer 25 >}}
+######
 
 #### **ABOUT THIS LANDSCAPE**
 
@@ -66,15 +62,13 @@ Once the grand estate of timber baron Louis J. Simpson, Shore Acres features a *
 
 #### TICKET
 
-**Shore Acres Concert - Saturday, September 6th -** <a href="https://aftontickets.com/event/buyticket/p79plq63xk" target="_blank" rel="noopener"><strong>BUY TICKETS</strong></a>
-
-**Shore Acres Concert - Sunday, September 7th -** <a href="https://aftontickets.com/event/buyticket/om9o6y659g" target="_blank" rel="noopener"><strong>BUY TICKETS</strong></a>
+**Shore Acres Concert - Saturday, August 29th -** <a href="https://inalandscape.org/shore-acres-state-park-8-29-2026/" target="_blank" rel="noopener"><strong>BUY TICKETS</strong></a>
 
 **General Admission Tickets: $45** *(plus service fees)*
 
 **Good Neighbor Tickets: Free \*\***
 
-*\*\*  Supported by the **Marie Lamfrom Foundation**, IN A LANDSCAPE’s **Good Neighbor Program** provides access where needed.* *Limited quantities. Electronic Benefit Transfer (EBT) Cardholders use promo code: “goodneighbor” (EBT card required at check-in). To request a Good Neighbor ticket for another reason, please email* [*gnp@inalandscape.org*](mailto:gnp@inalandscape.org)
+*\*\*  IN A LANDSCAPE’s **Good Neighbor Program** provides access where needed.* *Limited quantities. Electronic Benefit Transfer (EBT) Cardholders use promo code: “inthewild” (EBT card required at check-in). To request a Good Neighbor ticket for another reason, please email* [*gnp@inalandscape.org*](mailto:gnp@inalandscape.org)
 
 If you need assistance in purchasing tickets, email the ticketing office at [tickets@inalandscape.org](mailto:tickets@inalandscape.org)
 
@@ -102,9 +96,9 @@ No chairs will be provided. We recommend bringing low-back chairs, in considerat
 
 **DIRECTIONS/PARKING<br>Shore Acres State Park** sits high on the cliffs overlooking the Pacific Ocean, 13 miles southwest of Coos Bay/North Bend and US Highway 101. Take Cape Arago Highway from Coos Bay, the park is located about 4 miles west of the small fishing village of Charleston.
 
-***$10.00 per day parking fee at Shore Acres State Park. Credit and debit cards accepted at the Kiosk. A valid annual State Park Pass or Oregon Coastal Pass will be accepted for parking.***
+***$10.00 per day parking fee at Shore Acres State Park. Credit and debit cards accepted at the Kiosk. A valid annual State Park Pass will be accepted for parking.***
 
-**ARRIVAL -** We suggest arriving up to 45 minutes prior to concert time in order to park, reach the site, check-in, get your headphones and get cozy before the concert starts.
+**ARRIVAL -** We suggest arriving up to 45-60 minutes prior to concert time in order to park, reach the site, check-in, get your headphones and get cozy before the concert starts.
 
 **PETS -** No animals are permitted in Shore Acres, except for service animals.
 
