@@ -20,6 +20,12 @@ slideshow:
     photo_mobile:
     url:
     video:
+  - title:
+    photo: /img/clambake-musicfest-2026-home-slider-2048x850.jpg
+    title_mobile:
+    photo_mobile:
+    url: /event/south-coast-clambake-music-festival
+    video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /live-cam
