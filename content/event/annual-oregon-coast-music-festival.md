@@ -32,13 +32,13 @@ Fondly referred to as the "Tanglewood" of the West Coast, the **Oregon Coast Mus
 
 You'll find a heady mix of classical and jazz art forms, taking place at venues around the Coos Bay area such as Shore Acres State Park Garden, the OIMB Boat House, stunning Mingus Park, plus a host of free seminars at the Southwest Oregon Community College. Enjoy two full weeks of outstanding music culminating with the 80-member Festival Orchestra performing three concerts in Marshfield High's Auditorium.&nbsp;
 
-{{< floatimage src="/img/martin-majkut-1.jpeg" float="left" alt="Martin Majkut " size="" >}} **OCMA's Conductor Maestro Martin Majkut** is  internationally recognized, known for his dynamic leadership and innovative programming. Majkut is the Music Director of the Rogue Valley Symphony Orchestra and has performed with the Slovak Philharmonic, Tacoma Opera, Rogue Opera, Southern Arizona Symphony Orchestra, among others.
+![OCMA's Conductor Maestro Martin Majkut](/img/martin-portrait-695x322.jpg)
 
-*Photo credit: Chrisopher Briscoe*
+**OCMA's Conductor Maestro Martin Majkut** is  internationally recognized, known for his dynamic leadership and innovative programming. Majkut is the Music Director of the Rogue Valley Symphony Orchestra and has performed with the Slovak Philharmonic, Tacoma Opera, Rogue Opera, Southern Arizona Symphony Orchestra, among others. *Photo credit: Christopher Briscoe*
 
 {{< spacer 50 >}}
 
-![The Festival Orchestra Concerts are a must attend each summer in Coos Bay.](/img/ocma-orchestra-frankprice-web.jpg "The Oregon Coast Music Festival Orchestra - Photo by Frank Price")
+![woodwind and cello musicians](/img/cello-woodwinds-965x322.jpg)
 
 ### 48th Oregon Coast Music Festival Special Events and Concerts - July 11-25 2026
 
@@ -50,7 +50,9 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 {{< spacer "20" >}}
 
-{{< floatimage src="/img/darrell-grant-1.jpg" float="left" alt="Musician Darrell Grant wearing African inspired shirt and blue hat." size="" >}}**Sunday, July 12 - 2:00-3:30pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**Darrell Grant: Songs for the Soul**<br>Darrell Grant is a creative artist who harnesses the power of music to create change. Whether through performing, composing, teaching, or organizing musical initiatives around community, sustainability or social justice, he seeks to leverage a deeper level of engagement and connection.<br>**Tickets $60**
+{{< floatimage src="/img/darrell-grant-1.jpg" float="left" alt="Musician Darrell Grant wearing African inspired shirt and blue hat." size="" >}}
+
+**Sunday, July 12 - 2:00-3:30pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**Darrell Grant: Songs for the Soul**<br>Darrell Grant is a creative artist who harnesses the power of music to create change. Whether through performing, composing, teaching, or organizing musical initiatives around community, sustainability or social justice, he seeks to leverage a deeper level of engagement and connection.<br>**Tickets $60**
 
 {{< spacer "20" >}}
 
