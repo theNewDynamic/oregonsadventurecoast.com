@@ -16,7 +16,7 @@ hovertitle: Oregon Coast Music Festival
 hoverdescription: >-
   A heady mix of classical and jazz art forms, taking place at venues around the
   Coos Bay area. 
-photo: /img/ocma-full-orchestra-frankprice-hero.jpg
+photo: /img/or-coast-music-festival-pg-hdr-2048x531.jpg
 largeboxphoto: /img/ocma-image-1024x395.jpg
 mediumboxphoto: /img/ocma-image-667x355.jpg
 smallboxphoto: /img/ocma-image-340x214.jpg
