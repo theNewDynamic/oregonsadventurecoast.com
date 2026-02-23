@@ -27,9 +27,7 @@ WARN  "thank-you" */}}
   "adventure-sidebar"
   "thank-you"
 ) }}
-{{ with site.GetPage "/gallery" }}
-  {{ $input = $input | append . }}
-{{ end }}
+
 {{ with site.GetPage "/sitepages/_index.md" }}
   {{ $input = $input | append . }}
 {{ end }}

@@ -65,4 +65,8 @@
   {{ $s.SetInMap "data" "widgets" . }}
 {{ end }}
 
+{{ with .Params.gallery }}
+  {{ $s.SetInMap "data" "extraPT" (slice (partial "transformers/gallery" .)) }}
+{{ end }}
+
 {{ return $s.Get "data" }}

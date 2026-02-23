@@ -1,0 +1,11 @@
+
+{{ $entries := slice }}
+{{ $input := slice }}
+{{ with site.GetPage "/gallery" }}
+  {{ $input = $input | append . }}
+{{ end }}
+{{ with $input }}
+  {{ $entries = $entries | append (apply . "partial" "transformers/documents/page" ".") }}
+{{ end }}
+
+{{ return $entries }}

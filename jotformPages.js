@@ -1,0 +1,20 @@
+export const jotformPages = [
+  { slug: 'sportsman-show-giveaway', jotformId: '260216617928158' },
+  { slug: 'press-holiday-lights', jotformId: '222785805493163' },
+  { slug: '/participate', jotformId: '253495432867166' },
+  { slug: '/trade-show-signup', jotformId: '252997364785175' },
+  { slug: '/local-industry-resources', jotformId: '231117507748154' },
+  { slug: '/ww-clambake-giveaway-copy', jotformId: '240246136031140' },
+  { slug: 'cool-at-coast-giveaway', jotformId: '232075892793064' },
+  { slug: '/utm-builder', jotformId: '231706985213155' },
+  { slug: '/testing-form', jotformId: '83166502598161' },
+  { slug: 'sportsman-show-contest', jotformId: '230247266970156' },
+  { slug: '/social-utm', jotformId: '231705027410039' },
+  { slug: '/relocation-info-request', jotformId: '83167269356164' },
+  { slug: 'visitor-guide-download', jotformId: '212006131788147' },
+  { slug: 'newsletter-signup', jotformId: '211596451244152' },
+  { slug: 'oregon-live-clambake-giveaway-clone', jotformId: '250316492271150' },
+  { slug: 'crab-cake-bake-off-form', jotformId: '230595150201040' },
+  { slug: '/meeting-planners', jotformId: '83166502598161' },
+];
+

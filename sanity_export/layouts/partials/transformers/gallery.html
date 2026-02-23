@@ -1,13 +1,21 @@
-{{ $gallery := slice }}
-{{ with index . 0 }}
-  {{ with .slices }}
-    {{ range $slide := . }}
-      {{ with .image }}
-        {{ with partial "transformers/imageObject" $slide }}
-          {{ $gallery = $gallery | append . }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
+{{ $images := slice }}
+{{ $s := newScratch }}
+
+
+{{ range . }}
+  {{ $image := (dict
+    "_type" "mosaicItem.image"
+    "editorTitle" .title
+    "image" (partial "transformers/imageObject" .image)
+    "colDistribution" 4
+    "rowDistribution" 1
+  ) }}
+  {{ $images = $images | append $image }}
 {{ end }}
-{{ return $gallery }}
+
+{{ $s.Set "data" (dict
+  "_type" "pt.gallery.mosaic"
+  "items" $images
+) }}
+
+{{ return $s.Get "data" }}
