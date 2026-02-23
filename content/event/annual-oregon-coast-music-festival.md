@@ -22,7 +22,7 @@ mediumboxphoto: /img/ocma-image-667x355.jpg
 smallboxphoto: /img/ocma-image-340x214.jpg
 date: 2019-02-10T13:57:25-08:00
 ---
-![The 80 Member Festival Orchestra fills Marshfield High with souring sounds.](/img/ocma-pops-concert-frankprice-web.jpg "The Annual Oregon Coast Music Festival in Coos Bay - Photo by Frank Price")
+![Bassoonists in Oregon Coast Music Festival](/img/bassoon-sub-head-695x322.jpg)
 
 #### **The 48th Oregon Coast Music Festival will fill us up with stunning music in July.**
 
