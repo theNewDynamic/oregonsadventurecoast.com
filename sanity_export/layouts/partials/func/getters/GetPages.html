@@ -26,11 +26,17 @@ WARN  "thank-you" */}}
   "meeting-planners"
   "adventure-sidebar"
   "thank-you"
+  "headless"
 ) }}
 
 {{ with site.GetPage "/sitepages/_index.md" }}
   {{ $input = $input | append . }}
 {{ end }}
+
+{{ with site.GetPage "/sports-facilities" }}
+  {{ $input = slice . }}
+{{ end }}
+
 {{ with $input }}
   {{ $entries = $entries | append (apply . "partial" "transformers/documents/page" ".") }}
 {{ end }}

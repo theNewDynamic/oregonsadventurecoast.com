@@ -69,4 +69,8 @@
   {{ $s.SetInMap "data" "extraPT" (slice (partial "transformers/gallery" .)) }}
 {{ end }}
 
+{{ if eq .Layout "headless" }}
+  {{ $s.SetInMap "data" "presentation" (dict "chromeless" true) }}
+{{ end }}
+
 {{ return $s.Get "data" }}
