@@ -5,8 +5,6 @@
 {{ $sections := slice
   "TripIdeas"
   "Tours"
-  "Properties"
-  "PropertyTerms"
   "Menus"
   "PostsCategories"
   "Settings"
@@ -14,16 +12,18 @@
   "TripTerms"
   "Home"
   "LandingPages"
-  "Events"
   "Posts"
   "SpecialPages"
   "Pages"
+  "Properties"
+  "PropertyTerms"
+  "Events"
 }}
 {{ $entries := slice }}
 {{/* This set to true is used to limit the types to get */}}
 {{ if true }}
   {{/* Use this to limit the gen/export scripts to limited sections */}}
-  {{ $sections = last 1 $sections }}
+  {{ $sections = last 2 $sections }}
 {{ end }}
 
 {{ range $section := $sections }}

@@ -13,6 +13,9 @@ export default {
     let parameters = JSON.parse(processedHtml)
     if (parameters.size && parameters._type == "pt.spacer") {
       parameters.size = Math.floor(parameters.size / 10)
+      if(parameters.size > 2 ) {
+        parameters.size = 2
+      }
     }
     if(parameters) {
       parameters = parseObject(parameters)

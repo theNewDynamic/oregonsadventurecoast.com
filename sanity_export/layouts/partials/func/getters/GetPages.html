@@ -1,4 +1,3 @@
-
 {{/* WARN  "open-meetings"
 WARN  "press-media-industry"
 WARN  "contact"
@@ -31,10 +30,6 @@ WARN  "thank-you" */}}
 
 {{ with site.GetPage "/sitepages/_index.md" }}
   {{ $input = $input | append . }}
-{{ end }}
-
-{{ with site.GetPage "/sports-facilities" }}
-  {{ $input = slice . }}
 {{ end }}
 
 {{ with $input }}
