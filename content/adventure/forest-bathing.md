@@ -35,7 +35,7 @@ Additionally, the scenic beauty of our area offers a chance to practice mindfuln
 
 ## Massage, Yoga and More
 
-Add to your experience when you go Forest Bathing with <a href="https://mossylotus.com/" target="_blank" rel="noopener">Mossy Lotus</a> for an immersion into the quiet contemplation of the forest. Take a yoga class at one of our many yoga studios. Get a massage, infusion, or other relaxing service at one of our two Day Spas – <a href="https://www.beautifulyou-pnw.net/" target="_blank" rel="noopener">Beautiful You Medi Spa</a> and [Hair Co. Etc - Salon & Day Spa](https://haircoetc.net/).
+Take a yoga class at one of our many yoga studios. Get a massage, infusion, or other relaxing service at one of our two Day Spas – <a href="https://www.beautifulyou-pnw.net/" target="_blank" rel="noopener">Beautiful You Medi Spa</a> and [Hair Co. Etc - Salon & Day Spa](https://haircoetc.net/).
 
 ## Healthy Eats
 
@@ -81,11 +81,7 @@ House of Asana is home of a rebel yogi and fitness lover. They provide a range o
 
 divider
 
-![Mossy Lotus Forest Bathing](/img/mossy-lotus-345x220.jpg)
-
-**Mossy Lotus Forest Bathing**<br>Coos Bay, OR 97420<br>(541) 217-0400<br><a href="https://mossylotus.com/" target="_blank" rel="noopener">www.mossylotus.com/</a><br>
-
-With over 20 years of combined experience as field biologists and 30+ years practicing yoga, Daniel and Sailee have both spent thousands of hours in heartfelt connection with Mother Nature and learning and teaching the full practices of yoga to all levels of students. This land, this rugged, wild earth is their inspiration. It is their passion for living in balance with nature that drives them.{{< /columns >}}
+&nbsp;{{< /columns >}}
 
 {{< spacer 40 >}}
 

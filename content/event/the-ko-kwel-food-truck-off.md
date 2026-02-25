@@ -1,15 +1,15 @@
 ---
 _schema: default
 title: Annual Food Truck Off at Ko-Kwel Casino Resort Coos Bay
-startdate: '2025-08-01'
-enddate: '2025-08-03'
+startdate: '2026-08-07'
+enddate: '2026-08-09'
 address:
   city: North Bend
   state: OR
   street: 3201 Tremont St.
   zip: 97459
 phone_local: (541) 756-8800
-website: https://www.kokwelresorts.com/event/7th-annual-food-truck-off/
+website: https://www.kokwelresorts.com
 seo:
   description: ''
   imgalt: 'Ko-Kwel Food Truck Off '
@@ -21,9 +21,6 @@ photo: /img/truck-off-event-pg-header.jpg
 largeboxphoto: /img/truck-off-event-large.jpg
 mediumboxphoto: /img/truck-off-event-medium.jpg
 smallboxphoto: /img/truck-off-event-small.jpg
-aliases:
-  - /the-mill-casino-food-truck-off
-  - /event/the-mill-casino-food-truck-off
 ---
 ![Food Truck Off graphic](/img/food-truck-off.jpg)
 
@@ -37,7 +34,7 @@ This three-day event will feature up to **20 food trucks from the Pacific Northw
 
 {{< spacer 50 >}}
 
-#### SCHEDULE:
+#### SCHEDULE: Subject to change
 
 **Friday – 4:00 PM – 9:00 PM**
 
@@ -49,28 +46,11 @@ This three-day event will feature up to **20 food trucks from the Pacific Northw
 
 #### Here are the Food Trucks Attending this year!
 
-* [Authentic Filipino food by weng Llc](https://www.facebook.com/profile.php?id=100092881329294)
-* Porkys Tacos
-* Greenhorn Smokehouse
-* [Papas Doggs](https://www.facebook.com/papasdoggs)
-* [Angelina's Mexican Restaurant](https://www.facebook.com/bestmexicanfoodintown)
-* [Betty's Scones](https://www.facebook.com/profile.php?id=61578673801349)
-* [Toasted Cheese](https://www.facebook.com/PNWToastedCheese)
-* [Yoda’s Hut](https://www.facebook.com/profile.php?id=100083001505445)
-* [Feathers & Flavors](https://www.facebook.com/profile.php?id=61562411663813)
-* [John's Grotto LLC](https://www.facebook.com/profile.php?id=61571994211885)
-* [Smokin Aces Kettle corn](https://www.facebook.com/profile.php?id=100087813498393)
-* [Sublyme Burgers](https://www.facebook.com/profile.php?id=61566469423341)
-* [CABA Authentic Argentine Empanadas](https://www.facebook.com/profile.php?id=100063686883679)
-* [Coastal Slice](https://www.facebook.com/profile.php?id=61564282543690)
-* [Fire Bros BBQ](https://www.facebook.com/profile.php?id=100065283498838)
-* [Mountain Mama Mobile Kitchen](https://www.facebook.com/profile.php?id=61572996575499)
-* [On The Strip Food Truck](https://www.facebook.com/profile.php?id=100077516762201)
-* [Pomeroy Family BBQ](https://www.facebook.com/pomeroyfamilybbq)
+Coming Soon!
 
 {{< spacer 50 >}}
 
-##### Tickets will be available at Ko-Kwel Gifts in <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener"><strong>Ko-Kwel Casino Resort | Coos Bay</strong></a> \*\* \*\* ***(formerly The Mill Casino)*** or at the Gate!<br>$5 general admission per day
+##### Tickets will be available at Ko-Kwel Gifts in <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener"><strong>Ko-Kwel Casino Resort | Coos Bay</strong></a> ***(formerly The Mill Casino)*** or at the Gate!<br>$5 general admission per day
 
 *(portion will benefit the Boys & Girls Club of Southwestern Oregon)*
 
