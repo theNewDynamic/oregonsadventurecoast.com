@@ -60,6 +60,10 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 {{< spacer "20" >}}
 
+**Thursday, July 16 - 7pm**<br>Hales PAC Southwestern Oregon Community College<br>**Cello and Piano with Dace Gregory & Rachel Palen plus Swingin’ in the Rain Big Band**<br>World renowned Cellist, Dace Gregory, joins local pianist Rachel Palen for a night of beautiful music followed by a performance from local big band artists, Swingin' in the Rain.<br>**Tickets $20**
+
+{{< spacer "20" >}}
+
 {{< floatimage src="/img/gothardsisters340x214.jpg" float="left" alt="Members of Family Mystic" size="" >}}**Saturday, July 18 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>**The Gothard Sisters**<br>The Gothard Sisters blend Celtic, folk, world, classical and new age musical influences to life with violin, acoustic guitar, mandolin, bodhran, djembe, whistle and vocal harmonies, creating music that is “vivid, inspirational and captivating.” (Tim Carroll, Folk Words Review 2018)<br>**FREE**
 
 {{< spacer "20" >}}
@@ -81,6 +85,10 @@ SWOCC Umpqua Hall<br>**Preview of Pops Orchestra Concert with Conductor Adam Ste
 #### Friday, July 24 - Noon-2pm
 
 SWOCC Umpqua Hall<br>**Preview of Orchestra II with Percussionist Terry Longshore**<br>Meet Percussion soloist Terry Longshore and learn about the music selections for Orchestra Concert II: Our Blue Home. **FREE**
+
+{{< spacer "20" >}}
+
+![Percussionist Terry Longshore sitting in a grey chair holding a drum and drum sticks.](/img/terry-longshore.jpg "Percussionist Terry Longshore joins the OCMA Orchestra II.")
 
 {{< spacer 25 >}}
 
