@@ -94,13 +94,15 @@ divider
 
 **Back Alley Pub & Grill @ North Bend Lanes**<br>541-756-0571<br>[Visit Our Website](https://northbendlanes.com/Back-Alley-Pub-Grill)
 
-divider
-
 **Blue Heron Bistro**<br>541-267-3933<br>[Visit Our Website](https://www.blueheronbistro.net)
+
+divider
 
 **EZ Thai**<br>541-267-8404<br><a href="https://ez-thai.com/" target="_blank" rel="noopener">Visit Our Website</a>
 
 **Monkey Business**<br>541-778-3650<br>[Visit Our Website](https://www.facebook.com/MonkeyBusinessFoodToGo)
+
+**Plank House Restaurant**<br>541-756-8800<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay/dining/plank-house-restaurant/)
 
 **Restaurant O**<br>541-808-9300<br>[Visit Our Website](https://www.facebook.com/RestaurantO)
 
