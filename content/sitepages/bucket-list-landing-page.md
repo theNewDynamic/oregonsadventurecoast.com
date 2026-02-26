@@ -7,6 +7,7 @@ layout: adventure-sidebar
 photo: /img/sunset-bay-at-sunset-2048x530.jpg
 aliases:
   - /1859
+  - /ocva
 ---
 ![rugged cliffs on the southern Oregon coast at sunset](/img/unplug-page-header-695x322.jpg)
 
