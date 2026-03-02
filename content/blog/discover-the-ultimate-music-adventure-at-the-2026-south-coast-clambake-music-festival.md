@@ -34,7 +34,7 @@ warning: false
 ---
 Do you enjoy great music, fun, and adventure? If so, you’ll love the [South Coast Clambake Music Festival](https://www.oregonsadventurecoast.com/event/south-coast-clambake-music-festival/) coming up March 12-15, 2026, on **Oregon’s Adventure Coast in Coos Bay, North Bend, and Charleston**. If you haven’t experienced this popular annual festival yet, 2026 is the perfect time to join in. The event is so large that it takes over four performance venues, all under one roof at Ko-Kwel Casino Resort in North Bend (*formerly The Mill Casino Hotel & RV Park*).
 
-{{< youtube id="eCQYP1oCF28&t=11s " >}}
+{{< youtube id="v=eCQYP1oCF28&t=11s " >}}
 
 ​You might be curious about why it’s called a “Clambake” Music Festival, when they don’t serve clams! We get that question often. In music, “clambake” is an old jazz term for a jam session, so while this isn’t a food festival, the Ko-Kwel Casino Resort offers several dining options, and you’ll find plenty of fresh seafood at [<u>local restaurants throughout Coos Bay, North Bend, and Charleston</u>](https://www.oregonsadventurecoast.com/dining/).
 
