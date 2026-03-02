@@ -28,11 +28,11 @@ largeboxphoto: /img/bbq-blues-event-large.jpg
 mediumboxphoto: /img/bbq-blues-event-medium.jpg
 smallboxphoto: /img/bbq-blues-event-small.jpg
 ---
-![](/img/bbq-blues-brews-logo-695px.jpg)
+![13th Annual BBQ, Blues, Brews &amp; Bourbon on the Bay](/img/bbq-blues-brews-bourbon-2026-logo.jpg)
 
 **Get ready for the return of lip-smackin' BBQ, incredible brews, and smokin' hot tunes. Memorial Weekend 2026, May 23-24.**
 
-**Ko-Kwel Casino Resort's Annual BBQ, Blues & Brews on the Bay** has grown into one of Resort's most attended events. Finger-lickin' good barbecue, hand-crafted beers, and smokin’ hot tunes at the **BBQ, Blues & Brews on the Bay**, Memorial Day Weekend, with special guest Moe Cason!
+**Ko-Kwel Casino Resort's Annual BBQ, Blues, Brews & Bourbon on the Bay** has grown into one of Resort's most attended events. Finger-lickin' good barbecue, hand-crafted beers, and smokin’ hot tunes at the **BBQ, Blues, Brews & Bourbon on the Bay**, Memorial Day Weekend, with special guest Moe Cason!
 
 ***Whether you’re a grill master or just love to eat great barbecue, this event is for you.***
 
