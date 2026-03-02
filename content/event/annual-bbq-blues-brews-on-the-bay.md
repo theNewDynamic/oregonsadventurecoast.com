@@ -72,7 +72,7 @@ At each of the three beer stations, guests will be able to buy a commemorative l
 
 ### Schedule of Events
 
-**13th Annual BBQ, Blues & Brews <br>Saturday & Sunday, May 23 – 24, 2026**
+**13th Annual BBQ, Blues, Brews & Bourbon on the Bay<br>Saturday & Sunday, May 23 – 24, 2026**
 
 Saturday, May 23, 2026 \| 12 PM – 6 PM<br>Sunday, May 24, 2026 \| 12 PM – 4 PM
 
