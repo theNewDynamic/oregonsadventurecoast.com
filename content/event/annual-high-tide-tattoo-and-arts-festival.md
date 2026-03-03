@@ -11,7 +11,7 @@ address:
   zip: '97459'
 phone_local: 541-756-8800
 phone_toll_free: 800-953-4800
-website: https://www.kokwelresorts.com/coos-bay/
+website: https://www.kokwelresorts.com/event/high-tide-tattoo-art-festival/
 coordinates:
   lat: ''
   lng: ''
@@ -35,7 +35,7 @@ smallboxphoto: /img/tattoo-event-header-small.jpg
 
 #### The 4th Annual High Tide Tattoo and Arts Festival will be held on the beautiful Oregon Coast!
 
-The best tattoo convention happens on the Oregon Coast; **High Tide Tattoo & Art Festival**! This three-day event is filled with world-class tattoo artists from all over the country. Multi award-winning artists like Brandon Davenport, Jamy Carlton and former Ink Master contender Mat Valles will be competing for locally made custom trophies, bragging rights, and a prize provided by ShowNation. Attending guests will have the rare opportunity to work with artists directly to plan their next tattoo or witness others act as canvas for these artists' inked imagination.
+The **4th Annual High Tide Tattoo & Art Festival** is back with official host shop <a href="https://www.instagram.com/11_11tattoostudio" target="_blank" rel="noreferrer noopener">11:11 Tattoo</a>! This three-day event is filled with world-class tattoo artists from all over the country. Multi award-winning artist like Pete Carreno, andformer Ink Master contender Mat Valles will be here. Guests will have the rare opportunity to work with these artists directly to plan their next tattoo.
 
 **How It Works:**
 
@@ -45,13 +45,19 @@ Tattoo Booking: Most artist use social media as their preferred method of commun
 
 {{< spacer 30 >}}
 
-&nbsp;
+![4th Annual High Tide Tattoo Art Festival Graphic](/img/2604-high-tide-tattoo-and-art-festival-web.jpg)
 
 #### ARTISTS
 
-**Top Artist Showcase - Info Coming Soon**
+**Top Artist Showcase**
 
-**Competition Highlights**<br>Artists will compete over a 3-day period, vying for:<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;Custom-made local trophies<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;Bragging rights<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;An exclusive prize, sponsored by Show Nation.<br>{{< spacer "25" >}}
+<a href="https://www.instagram.com/vallestattoo" target="_blank" rel="noreferrer noopener">Mat Valles</a> *(Former Ink Master contender)<br>*<a href="https://www.instagram.com/petecarreno/" target="_blank" rel="noreferrer noopener">Pete Carreno</a> *(Multi award-winning artist)<br>*<a href="https://www.instagram.com/bonytony666" target="_blank" rel="noreferrer noopener">Bony Tony</a> *(Multi award-winning artist)*<br><a href="https://www.instagram.com/coreyclarktattoos" target="_blank" rel="noreferrer noopener">Corey Clark</a> *(Multi-award winning artist)*
+
+Carlos Lemon, A.J. Jamrose, James Mullin, Chad Hayden, Jamy Carlton, Oregon City Tattoos, Legacy Ink, 11:11 Tattoo, Old School Tattoo, Red Room Tattoos, Lisa Johnson, Golden Rose Tattoo, Chad Hayden, Raine Wright, Casper and many more.
+
+**Competition Highlights**<br>Artists will compete over a 3-day period, vying for:<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;Custom-made local trophies<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;Bragging rights
+
+<br>{{< spacer "25" >}}
 
 #### SCHEDULE OF EVENTS
 
