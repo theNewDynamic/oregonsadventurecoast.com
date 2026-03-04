@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Annual BBQ, Blues & Brews on the Bay
+title: Annual BBQ, Blues, Brews & Bourbon on the Bay
 startdate: '2026-05-23'
 enddate: '2026-05-24'
 address:
@@ -9,7 +9,7 @@ address:
   zip: '97459'
 phone_local: 541-756-8800
 phone_toll_free: 800-953-4800
-website: https://www.kokwelresorts.com/coos-bay/
+website: https://www.kokwelresorts.com/event/bbq-blues-brews-bourbon/
 seo:
   title: BBQ, Blues & Brews
   description: >-
