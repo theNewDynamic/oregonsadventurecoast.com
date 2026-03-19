@@ -9,12 +9,6 @@ slideshow:
     url: /loot
     video:
   - title:
-    photo: /img/storm-watching-hm-slider-2084x850.jpg
-    title_mobile:
-    photo_mobile: /img/mobile-hm-slider-storm-watching-2023.jpg
-    url: /storm-watching
-    video:
-  - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
     title_mobile:
     photo_mobile:

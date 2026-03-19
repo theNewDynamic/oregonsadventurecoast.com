@@ -56,7 +56,7 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 {{< spacer "20" >}}
 
-**Wednesday, June 15 - 4:00pm**<br>Wildflour Public House, 1987 Sherman Avenue, North Bend<br>**A Taste of Jazz: Aaron Johnson and Friends**<br>Local favorite, Aaron Johnson, returns to OCMF for a special concert with friends at Wildflour Public House.
+**Wednesday, July 15 - 4:00pm**<br>Wildflour Public House, 1987 Sherman Avenue, North Bend<br>**A Taste of Jazz: Aaron Johnson and Friends**<br>Local favorite, Aaron Johnson, returns to OCMF for a special concert with friends at Wildflour Public House.
 
 {{< spacer "20" >}}
 
