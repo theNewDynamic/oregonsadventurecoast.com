@@ -1,21 +1,21 @@
 ---
 _schema: default
 title: Annual Bay Area Fun Festival 2025
-startdate: '2025-09-20'
-enddate: '2025-09-21'
+startdate: '2026-09-19'
+enddate: '2026-09-20'
 address:
   city: Coos Bay
   state: Oregon
   street: 50 Central Ave.
   zip: 97420
 phone_local: (541) 266-9706
-website: https://coosbaydowntown.com/bay-area-fun-festival/
+website: https://coosbaydowntown.com/
 desktoptitle: Bay Area Fun Festival
 mobiletitle: Bay Area Fun Festival
 hovertitle: Annual Bay Fun Fun Festival
 hoverdescription: >-
-  Famous Cruz the Coos vintage autos, Prefontaine Memorial Run, K-DOCK RockFest
-  & Parade.
+  Famous Cruz the Coos vintage autos, Prefontaine Memorial Run, Live Music &
+  Parade.
 photo: /img/funfest-2048x530.jpg
 largeboxphoto: /img/funfest-1024x395.jpg
 mediumboxphoto: /img/funfest-667x355.jpg
@@ -25,23 +25,17 @@ aliases:
 ---
 ![](/img/bay-area-fun-fest-hder.jpg)
 
-***NOTE ROAD CLOSURE INFORMATION BELOW FOR TRAVELERS COMING NORTH ON HIGHWAY 101 SOUTH OF BANDON.***
+#### **The Bay Area Fun Festival - the last big party of the summer - will happen September 19-20, 2026!**
 
-#### **The Bay Area Fun Festival - the last big party of the summer - will happen September 20-21, 2025!**
-
-As Summer winds down, the fun is just beginning here on the South Coast! [**The Bay Area Fun Festival**](https://coosbaydowntown.com/bay-area-fun-festival/), also known as the greatest last party of the summer, happens here in Coos Bay and surrounding areas on the third weekend in September!
+As Summer winds down, the fun is just beginning here on the South Coast! **The Bay Area Fun Festival**, also known as the greatest last party of the summer, happens here in Coos Bay and surrounding areas on the third weekend in September!
 
 Thousands of locals and visitors from afar come to enjoy the sights, sounds, and tastes of beautiful downtown Coos Bay and surrounding areas for this popular festival. Highlights include live entertainment, the famous **Cruz the Coos** featuring nearly 500 vintage automobiles, the **Prefontaine Memorial Run**, **Live Music**, the BAFF parade, and much more!
 
 #### **Join the Parade!**
 
-This year’s theme is: **<u>“Sunsets and Sandy Shores”</u>**
+Details coming soon!
 
-The parade will be held on Saturday, September 20, 2025. Check in starts at 10am and will Line up to start as normal at 4th and Golden Avenue in Coos Bay. The parade starts at 1:00 pm.
-
-Be a part of the 2025 Bay Area Fun Festival Parade by downloading, filling out the form, and returning it to the Coos Bay Downtown Association. (Note: this is a fillable PDF form.) <a href="/img/bay-area-fun-festival-parade-entry-form.pdf" target="_blank" rel="noopener">Click here for the Form</a>.
-
-{{< spacer 25 >}} [![Sunday Night Lodging Special - Skip the traffic the detour and save](/img/baff-stay-x-offer-button-1.jpg)](/stay-extra-night) {{< spacer 25 >}}
+{{< spacer 25 >}}
 
 ![](/img/funfest-mosiac1.jpg) ![](/img/funfest-mosiac2.jpg) ![](/img/funfest-mosiac3.jpg) ![](/img/funfest-mosiac4.jpg) ![](/img/funfest-mosiac5.jpg) ![](/img/funfest-mosiac6.jpg) ![](/img/funfest-mosiac7.jpg) ![](/img/funfest-mosiac8.jpg) ![](/img/funfest-mosiac9.jpg) ![](/img/funfest-mosiac10.jpg)
 
@@ -53,9 +47,9 @@ Be a part of the 2025 Bay Area Fun Festival Parade by downloading, filling out t
 
 #### SCHEDULE OF EVENTS:
 
-**Saturday September 20th**<br>9am to 6pm - Vendor Market First 3 blocks of Central Avenue<br>10am - 43rd Annual Prefontaine Memorial 10k run corner of 4th and Anderson<br>1pm - Bay Area Fun Festival Parade Downtown<br>6pm to 7:30pm - Rotary Cruz the Coos classic car cruise through the streets of downtown Coos Bay
+**Saturday September 19th**<br>9am to 6pm - Vendor Market First 3 blocks of Central Avenue<br>10am - 44th Annual Prefontaine Memorial 10k run corner of 4th and Anderson<br>1pm - Bay Area Fun Festival Parade Downtown<br>6pm to 7:30pm - Rotary Cruz the Coos classic car cruise through the streets of downtown Coos Bay
 
-**Sunday September 21st**<br>10am to 4pm - Vendor Market First 3 blocks of Central Avenue<br>1pm - Pre Run for Kids Marshfield High School Track
+**Sunday September 20th**<br>10am to 4pm - Vendor Market First 3 blocks of Central Avenue<br>1pm - Pre Run for Kids Marshfield High School Track
 
 #### BAFF ROCK FEST MUSIC STAGE - Info Coming Soon
 
