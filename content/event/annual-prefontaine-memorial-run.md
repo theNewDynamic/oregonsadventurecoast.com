@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual Prefontaine Memorial Run
-startdate: '2025-09-20'
-enddate: '2025-09-20'
+startdate: '2026-09-19'
+enddate: '2026-09-19'
 address:
   city: Coos Bay
   state: OR
@@ -22,25 +22,19 @@ smallboxphoto: /img/pre-run-340x214.jpg
 ---
 ![](/img/prefontaine-run-starting-line-695x3xx.jpg)
 
-#### **THE RACE IS ON!! Saturday, September 20, 2025 - See below for some NEW elements this year!**
+#### **THE RACE IS ON!! Saturday, September 19, 2026 !**
 
 A rolling and challenging course, this 10K road race honors one of America’s greatest distance runners, Steve Prefontaine. Event includes the 10K run and a 2M walk. Hilly, out and back.
 
-**From Linda Prefontaine:<br>"This year’s PREFONTAINE MEMORIAL RUN will be different. 2025 will mark 50 years of Steve's passing. This year's run will not be a celebration of his death, it will be a run commemorating his life, spirit and his legacy. That can only be done where it all started, in Coos Bay, Oregon. Come to Coos Bay on September 20th to run or walk in THE SPIRIT OF PRE."**
-
-Find more special announcements about this year' run on the <a href="https://www.facebook.com/profile.php?id=100091479487534" target="_blank" rel="noopener">Pre Foundation's Facebook page</a>.
-
-{{< spacer 25 >}}
-[![Sunday Night Lodging Special - Skip the traffic the detour and save](/img/baff-stay-x-offer-button-1.jpg)](/stay-extra-night)
 {{< spacer 25 >}}
 
 #### <a href="https://secure.getmeregistered.com/get_information.php?event_id=140932" target="_blank" rel="noopener"><strong>REGISTER TODAY</strong></a>
 
-**NEW THIS YEAR!** The Pre Memorial Run is going to offer **Prize Money** for this years run in September. In both the men’s and women’s categories, $500.00 for 1st, $300.00 for second and $200.00 for third.
+**THIS YEAR,** The Pre Memorial Run is going to offer **Prize Money** for this years run in September. In both the men’s and women’s categories, $500.00 for 1st, $300.00 for second and $200.00 for third.
 
-{{< floatimage src="/img/premedal.jpg" float="right" alt="Image of the Prefontaine Memorial Run medal." size="" >}}**Get A Pre Medal** for completing the race. There is a limited number of medals so make sure you are registered - the earlier the better!
+{{< floatimage src="/img/premedal.jpg" float="right" alt="Image of the 2025 Prefontaine Memorial Run medal." size="" >}}**Get A Pre Medal** for completing the race. There is a limited number of medals so make sure you are registered - the earlier the better! *(Image shown is the 2025 medal.)*
 
-**ALSO NEW THIS YEAR! Virtual Run** - participate virtually! The VR does not have to be run on 9/20. You have a week to accomplish and document.
+**ALSO CONTINUING THIS YEAR! Virtual Run** - participate virtually! The VR does not have to be run on 9/19. You have a week to accomplish and document.
 
 {{< spacer 25 >}}
 
@@ -68,13 +62,13 @@ The corner of 4th & Anderson in downtown Coos Bay
 
 **FUN WALK:** A fun walk will be held in conjunction with the 10K run. Walkers have their choice of walking the entire 10K route or the shorter 2-mile course. Walkers will start at the rear of the starting pack and follow the same course until reaching the corner of 10th & Central, where the 2-mile walkers take a left turn on 10th toward the stadium (see course map.) Chip timing will be provided for the 2-mile fun walk. Race timing devices will be turned off at 11:45 A.M. so we can produce timely and accurate race results. Full course walkers finishing prior to 11:45 A.M. will receive official times.
 
-**ENTRY FEE:** Details Coming Soon.
+**ENTRY FEE:** <a href="https://prefontainerun.net/" target="_blank" rel="noopener">Details Available Here</a>.
 
-**REGISTRATION:** Applications may be submitted online at <a href="https://prefontainerun.net/race-details/" target="_blank" rel="noopener">prefontainerun.net</a> or mailed to Prefontaine Memorial Run, P.O. Box 1380, Coos Bay, OR 97420. On September 19th and 20th, registration will be held at the St. Monica Catholic Church Parish Hall, 357 S. 6th St., Coos Bay. Registration hours at St. Monica are 4 P.M. to 6:00 P.M. on Friday and 8:00 A.M. to 9:30 A.M. on race day. No applications will be accepted after 9:30 A.M. on race day.
+**REGISTRATION:** Applications may be submitted online at <a href="https://prefontainerun.net/race-details/" target="_blank" rel="noopener">prefontainerun.net</a> or mailed to Prefontaine Memorial Run, P.O. Box 1380, Coos Bay, OR 97420. On September 18th and 19th, registration will be held at the St. Monica Catholic Church Parish Hall, 357 S. 6th St., Coos Bay. Registration hours at St. Monica are 4 P.M. to 6:00 P.M. on Friday and 8:00 A.M. to 9:30 A.M. on race day. No applications will be accepted after 9:30 A.M. on race day.
 
-**PACKETS:** Packets and t-shirts will be available at the St. Monica Parish Hall on September 19th and 20th.&nbsp;
+**PACKETS:** Packets and t-shirts will be available at the St. Monica Parish Hall on September 18th and 19th.&nbsp;
 
-**T-SHIRTS:** An attractive t-shirt is included in the entry fee and can be picked up with your registration packet at the St. Monica Parish Hall on September 19th and 20th during registration hours.
+**T-SHIRTS:** An attractive t-shirt is included in the entry fee and can be picked up with your registration packet at the St. Monica Parish Hall on September 18th and 19th during registration hours.
 
 {{< spacer "25" >}}
 
@@ -86,7 +80,7 @@ The corner of 4th & Anderson in downtown Coos Bay
 
 {{< spacer 25 >}}
 
-**Part of the annual Bay Area Fun Fest, September 20-21, 2025.**
+**Part of the annual Bay Area Fun Fest, September 19-20, 2026.**
 
 {{< spacer 50 >}}
 
