@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Run Whiskey Run
-startdate: '2025-10-11'
-enddate: '2025-10-11'
+startdate: '2026-10-10'
+enddate: '2026-10-10'
 address:
   city: Charleson
   state:
@@ -10,7 +10,7 @@ address:
   street2:
   zip:
 phone_local: '541-260-3298 '
-website: https://southcoastrunningclub.org/run-whiskey-run/
+website: https://www.southcoastrunningclub.com/events/run-whiskey-run
 desktoptitle: Run Whiskey Run!
 mobiletitle: Run Whiskey Run!
 hovertitle: Run Whiskey Run!
@@ -28,7 +28,7 @@ smallboxphoto: /img/runninginforest-340x214.jpg
 
 If you have ever wanted to take to the trails at Whiskey Run, but not on a mountain bike, this is your chance!
 
-The <a target="_blank" rel="noopener" href="https://southcoastrunningclub.org/"><strong>South Coast Running Club</strong></a> invites runners for this one-of-a-kind run through our now famous, single-track, top-rated, mountain biking trail system - cordoned off specifically for runners for this race.
+The <a target="_blank" rel="noopener" href="https://www.southcoastrunningclub.com/"><strong>South Coast Running Club</strong></a> invites runners for this one-of-a-kind run through our now famous, single-track, top-rated, mountain biking trail system - cordoned off specifically for runners for this race.
 
 The run will start and finish at the main **Whiskey Run Trailhead**. &nbsp;<a target="_blank" rel="noopener" href="https://www.google.com/maps?q=Whiskey+Run+Mountain+Biking+Trail+Parking,+E+Humphreys+Rd,+Bandon,+OR+97411&amp;ftid=0x54c4818dc596de61:0xe64719ece591060f&amp;hl=en-US&amp;gl=us&amp;entry=gps&amp;g_ep=CAIYAQ%3D%3D&amp;shorturl=1">Trailhead location&nbsp;</a>&nbsp;
 
@@ -36,17 +36,17 @@ The chosen section of Whiskey Run is shaded and sheltered, which means these tra
 
 #### **Course options include the following:**&nbsp;&nbsp;
 
-*Note that projected distances and actual distances may vary, kinda like the amount of whiskey consumption you report to your doctor! &nbsp;These maps also don’t start at the parking lot, which you will, so show up a little short. Note that the course has changed in 2025 since some of the trails are closed due to logging.*
+*Note that projected distances and actual distances may vary, kinda like the amount of whiskey consumption you report to your doctor! &nbsp;These maps also don’t start at the parking lot, which you will, so show up a little short. Note that the course has changed in 2026 since some of the trails are closed due to logging.*
 
 * **1\.5 Mile (Shirley Temple)**
   * A shorter loop, but still challenging. Great for walkers and adventurous families wishing to wet their whistles!
-  * <a target="_blank" rel="noopener" href="https://ridewithgps.com/routes/52600400">Shirley Temple Map</a>
+  * <a target="_blank" rel="noopener" href="https://www.trailforks.com/ridelog/planner/view/333046/">Shirley Temple Map</a>
 * **5 Mile (Whiskey Ginger)**
   * A full loop on super-premium top-shelf trails, cheers!
-  * <a target="_blank" rel="noopener" href="https://ridewithgps.com/routes/52600406">Whiskey Ginger Map</a>
+  * <a target="_blank" rel="noopener" href="https://www.trailforks.com/ridelog/planner/view/333049/">Whiskey Ginger Map</a>
 * **10 Mile (Double Shot)**
   * If one just isn’t enough, imbibe 2 full loops – stay thirsty, my friends!
-  * <a target="_blank" rel="noopener" href="https://ridewithgps.com/routes/52600406">Double Shot Map</a>
+  * <a target="_blank" rel="noopener" href="https://www.trailforks.com/ridelog/planner/view/335749/">Double Shot Map</a>
 
 *Please note that all courses are 100% trail, so not stroller friendly. &nbsp;These are single-track trails and a dog can take you out. &nbsp;We love dogs, but please leave your dog at home!*
 
@@ -54,11 +54,11 @@ The chosen section of Whiskey Run is shaded and sheltered, which means these tra
 
 #### PRICES
 
-<a target="_blank" rel="noopener" href="https://runsignup.com/Race/OR/Bandon/RunWhiskeyRun"><strong>Online</strong></a><br>$15 Club member (your discount will appear at check-out), Non-member $25. &nbsp; &nbsp;
+<a target="_blank" rel="noopener" href="https://runsignup.com/Race/OR/Bandon/RunWhiskeyRun"><strong>Online</strong></a><br>$15 Club member (your discount will appear at check-out)<br>$25 Non-member &nbsp; &nbsp;
 
-**Day of race**<br>$20 Club member, Non-member $30
+**Day of race**<br>$20 Club member<br>$30 Non-member
 
-Students: $5.00. &nbsp;*Use the code Student2022 to register. &nbsp;To avoid credit card charges, students will not be charged at on-line registration. &nbsp;Please bring $5 (exact change appreciated) to registration!*&nbsp;
+Students: $5.00. &nbsp;*Use the code Student2026 to register. &nbsp;To avoid credit card charges, students will not be charged at on-line registration. &nbsp;Please bring $5 (exact change appreciated) to registration!*&nbsp;
 
 #### <a class="learn-more-anywhere-btn" target="_blank" rel="noopener" href="https://runsignup.com/Race/OR/Bandon/RunWhiskeyRun">SIGN UP HERE!!!</a>
 
@@ -66,9 +66,9 @@ Students: $5.00. &nbsp;*Use the code Student2022 to register. &nbsp;To avoid cre
 
 #### START TIMES
 
-* 9am (10 Mile Double Shot)
+* 9:00am (10 Mile Double Shot)
 * 9:30am (5 Mile Whiskey Ginger)
-* 9:45 (1.5 Mile Shirley Temple)
+* 9:45am (1.5 Mile Shirley Temple)
 
 ***Course support ends at 12 PM.***
 
