@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual Cruz The Coos
-startdate: '2025-09-20'
-enddate: '2025-09-20'
+startdate: '2026-09-19'
+enddate: '2026-09-19'
 address:
   city: Coos Bay
   state: OR
@@ -25,15 +25,11 @@ smallboxphoto: /img/cruz-340x214.jpg
 
 Cruz the Coos is one of the **longest-running and largest classic car cruises** on the Oregon Coast. It runs through the streets of downtown Coos Bay and is enjoyed by thousands of spectators.
 
-**The Show ‘n Shine** is an opportunity to see vintage cars and trucks that have been beautifully restored. Talk with the owners and visit restaurants and amenities offered at [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) (formerly The Mill Casino Hotel and RV Park).
+**The Show ‘n Shine** is an opportunity to see vintage cars and trucks that have been beautifully restored. Talk with the owners and visit restaurants and amenities offered at [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) (*formerly The Mill Casino Hotel and RV Park*).
 
 {{< spacer 25 >}}
 
-[![Sunday Night Lodging Special - Skip the traffic the detour and save](/img/baff-stay-x-offer-button-1.jpg)](/stay-extra-night)
-
-{{< spacer 25 >}}
-
-#### Saturday, September 20 Schedule
+#### Saturday, September 19 Schedule
 
 **11am - 2pm - Show 'n Shine**<br>Ko-Kwel Casino Parking Lot<br>*Can Still sign up that morning between 7:30am-9am*
 
@@ -51,9 +47,9 @@ While you’re in the area, enjoy the **Bay Area Fun Festival**, one of the larg
 
 {{< spacer 15 >}}
 
-#### Do you have a classic car, 1979 or older? Bring it to the Annual Cruz the Coos!
+#### Do you have a classic car, 1979 or older? Bring it to the Annual Cruz the Coos! Registration Coming Soon!
 
-[![Register Early for Cruz the Coos this year](/img/register-early-banner-07-22-v02.jpg)](https://www.eventbrite.com/e/2025-cruz-the-coos-show-n-shine-tickets-1302705720879?aff=oddtdtcreator)
+![Register Early for Cruz the Coos this year](/img/register-early-banner-07-22-v02.jpg)
 
 {{< spacer 50 >}}
 
