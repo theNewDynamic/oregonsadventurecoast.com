@@ -45,7 +45,7 @@ Solo runners of all skill levels appreciate the meditative experience of running
 
 Oregon’s Adventure Coast is home to multiple popular annual running events that blend camaraderie, challenge, and friendly competition. Here are some races to consider and start training for now.
 
-{{< youtube id="v=40ZZUerWZbk" >}}
+{{< youtube id="v=igF3qT_t-dg&t=8s" >}}
 
 Be sure to sign up soon, as many of these registration deadlines are fast approaching!
 
@@ -57,7 +57,7 @@ This scenic route follows quiet country roads along a river, passing waterfalls,
 
 ### **Circle the Bay 30K- August 8, 2026**
 
-{{< youtube id="40ZZUerWZbk" >}}
+{{< youtube id="v=40ZZUerWZbk" >}}
 
 ![A runner wearing a hydration vest approaches a roadside aid station, reaching for a paper cup of water offered by volunteers standing beside a cooler during a race.](/img/oregon-coast-races.jpg)
 
