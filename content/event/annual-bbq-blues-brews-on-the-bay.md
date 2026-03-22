@@ -11,17 +11,18 @@ phone_local: 541-756-8800
 phone_toll_free: 800-953-4800
 website: https://www.kokwelresorts.com/event/bbq-blues-brews-bourbon/
 seo:
-  title: BBQ, Blues & Brews
+  title: BBQ, Blues, Brews & Bourbon
   description: >-
-    The Mill's BBQ, Blues & Brews on the Bay has grown into one of The Mill's
-    most attended events. Finger lickin’ good barbecue, hand-crafted beers and
-    smokin’ hot tunes at the BBQ, Blues & Brews on the Bay, Memorial Day
-    Weekend.
+    The Ko-Kwel's BBQ, Blues, Brews & Bourbon on the Bay has grown into one of
+    Ko-Kwel Casino Resort's most attended events. Finger lickin’ good barbecue,
+    hand-crafted beers, bourbon tasting from the new Ko-Kwel's Spirits and
+    smokin’ hot tunes at the BBQ, Blues, Brews & Bourbon on the Bay, Memorial
+    Day Weekend.
   imgalt: BBQ, Blues & Brews at The Mill
   image: /img/bbq-blues-event-medium.jpg
-desktoptitle: BBQ, Blues & Brews Festival
-mobiletitle: BBQ, Blues & Brews
-hovertitle: BBQ, Blues & Brews
+desktoptitle: BBQ, Blues, Brews & Bourbon
+mobiletitle: BBQ, Blues, Brews & Bourbon
+hovertitle: BBQ, Blues, Brews & Bourbon
 hoverdescription: KCBS Sanctioned BBQ Event at Ko-Kwel Casino Resort | Coos Bay!
 photo: /img/bbq-blue-subpage-header.jpg
 largeboxphoto: /img/bbq-blues-event-large.jpg
@@ -30,7 +31,7 @@ smallboxphoto: /img/bbq-blues-event-small.jpg
 ---
 ![13th Annual BBQ, Blues, Brews &amp; Bourbon on the Bay](/img/bbq-blues-brews-bourbon-2026-logo.jpg)
 
-**Get ready for the return of lip-smackin' BBQ, incredible brews, and smokin' hot tunes. Memorial Weekend 2026, May 23-24.**
+**Get ready for the return of lip-smackin' BBQ, incredible brews, tastings of the new Ko-Kwel Spirits' bourbon and smokin' hot tunes. Memorial Weekend 2026, May 23-24.**
 
 **Ko-Kwel Casino Resort's Annual BBQ, Blues, Brews & Bourbon on the Bay** has grown into one of Resort's most attended events. Finger-lickin' good barbecue, hand-crafted beers, and smokin’ hot tunes at the **BBQ, Blues, Brews & Bourbon on the Bay**, Memorial Day Weekend, with special guest Moe Cason!
 
