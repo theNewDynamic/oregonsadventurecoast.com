@@ -59,6 +59,8 @@ This scenic route follows quiet country roads along a river, passing waterfalls,
 
 {{< youtube id="watch?v=40ZZUerWZbk" >}}
 
+{{< spacer "20" >}}
+
 ![A runner wearing a hydration vest approaches a roadside aid station, reaching for a paper cup of water offered by volunteers standing beside a cooler during a race.](/img/oregon-coast-races.jpg)
 
 Circle the Bay 30K is an 18-mile course around the bay, for which Coos Bay was named, that you can run solo or as part of a 3-person relay. The course typically starts at Ferry Road Park in North Bend, goes along the Coos Bay waterfront, circles the bay through Eastside, and finishes back at Ferry Road Park. Runners will enjoy the mix of team spirit, beautiful coastline, and a healthy mix of flat and hilly terrain. For race details,[<u>please click here.</u>](https://www.oregonsadventurecoast.com/event/circle-the-bay-30k/)
