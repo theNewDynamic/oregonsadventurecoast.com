@@ -45,7 +45,7 @@ Solo runners of all skill levels appreciate the meditative experience of running
 
 Oregon’s Adventure Coast is home to multiple popular annual running events that blend camaraderie, challenge, and friendly competition. Here are some races to consider and start training for now.
 
-{{< youtube id="watch?v=igF3qT_t-dg&t=8s" >}}
+{{< youtube id="v=igF3qT_t-dg&t=8s" >}}
 
 Be sure to sign up soon, as many of these registration deadlines are fast approaching!
 
