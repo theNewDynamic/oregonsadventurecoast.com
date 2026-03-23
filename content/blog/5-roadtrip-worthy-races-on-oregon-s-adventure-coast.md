@@ -57,7 +57,7 @@ This scenic route follows quiet country roads along a river, passing waterfalls,
 
 ### **Circle the Bay 30K- August 8, 2026**
 
-{{< youtube id="40ZZUerWZbk?si=wZauFZ-qnBBh81FR" >}}
+{{< youtube id="watch?v=40ZZUerWZbk" >}}
 
 ![A runner wearing a hydration vest approaches a roadside aid station, reaching for a paper cup of water offered by volunteers standing beside a cooler during a race.](/img/oregon-coast-races.jpg)
 
