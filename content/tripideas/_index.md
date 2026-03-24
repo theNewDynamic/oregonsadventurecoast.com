@@ -28,7 +28,3 @@ To help you get started discovering our exciting and exhilarating adventures, we
 Contact Oregon’s Adventure Coast with any questions you may have about things to do on your vacation!!
 
 {{< spacer 30 >}}
-
-[![Stay 2 Nights get $120 in Vacation Loot and woman in kayak](/img/lvl-kayaking-695x179-01-26-1.jpg)](/loot)
-
-{{< spacer 50 >}}
