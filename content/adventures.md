@@ -181,12 +181,6 @@ We invite you to explore, to discover, to feel, and to know the incredible adven
 
 {{< spacer 30 >}}
 
-<div style="width:100%">
-<a href="/loot"><img src="/img/lvl-insite-kayaker-banner-2048.jpg" alt="Kayakers on River and $120 Local Vacation Loot Promotion" style="height: 100%; width: 100%; object-fit: contain" /></a>
-</div>
-
-{{< spacer 30 >}}
-
 {{< youtube id="LuQK7D5IJv4" >}}
 
 {{< spacer 50 >}}
