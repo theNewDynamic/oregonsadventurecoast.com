@@ -40,10 +40,6 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 
 {{< spacer "30" >}}
 
-[![Stay 2 Nights and Score $120 in Local Vacation Loot](/img/lvl-728x90-01-26-v01.jpg)](/loot)
-
-{{< spacer "30" >}}
-
 ![south coast clambake music festival bands playing music](/img/clambake-collage-02-695x322.jpg)
 
 {{< spacer "30" >}}
