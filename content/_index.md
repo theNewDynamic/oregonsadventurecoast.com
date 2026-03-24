@@ -3,10 +3,16 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
-    photo: /img/lvl-home-sliders-2048x850.jpg
+    photo: /img/roseburg-to-coosbay-relay-hm-slider.jpg
     title_mobile:
-    photo_mobile: /img/lvl-home-page-mobile-512x320.jpg
-    url: /loot
+    photo_mobile: /img/roseburg-to-coosbay-mobile-slider.jpg
+    url: /event/roseburg-to-coos-bay-relay/
+    video:
+  - title:
+    photo: /img/cabin-fever-home-slider-2048x850.jpg
+    title_mobile:
+    photo_mobile:
+    url: /adventures
     video:
   - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
