@@ -16,8 +16,6 @@ aliases:
 ---
 On Oregon's Adventure Coast, water activities abound, from kayaking, paddleboarding, scuba diving and surfing to world-class [fishing](/fishing), [crabbing](/crabbing-clamming) and [clamming](/clamming).
 
-[![Woman kayaking and Stay 2 Nights and get $120 in Local Vacation Loot to Spend](/img/lvl-kayaking-695x179-01-26-1.jpg)](/loot)
-
 ## Kayaking & Paddleboarding
 
 Getting out on the water in a self-propelled vessel is to truly connect to the surroundings. With a number of lakes, rivers, ocean bays, and estuaries, Oregon's south coast offers kayakers and paddleboarders of all skill levels with an abundance of options. For example, take a guided tour of the [**South Slough National Estuarine Research Reserve**](https://www.oregon.gov/dsl/SS/Pages/About.aspx), a protected area of land and estuary. Guided tours are offered by the Slough staff and [**local tour guides**](/tour-guides-and-charters). There are a variety of birds that utilize this beautiful area including Bald Eagles, Osprey, Great Blue Herons, Egrets and Belted Kingfishers. The tides are great in this estuary so we will plan to ride the ebbing and flowing tides to make this paddle a little easier.
@@ -53,6 +51,8 @@ We'd love to be able to say, "come on in, the water's fine" but it would be more
 {{< spacer 20 >}}
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&amp;show_text=0&amp;width=695" width="695" height="391" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+
+&nbsp;
 
 &nbsp;
 
