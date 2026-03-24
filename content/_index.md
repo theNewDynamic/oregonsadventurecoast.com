@@ -3,16 +3,28 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
-    photo: /img/lvl-home-sliders-2048x850.jpg
+    photo: /img/roseburg-to-relay-2026.jpg
     title_mobile:
-    photo_mobile: /img/lvl-home-page-mobile-512x320.jpg
-    url: /loot
+    photo_mobile: /img/roseburg-to-coos-relay-mobile.jpg
+    url: /event/roseburg-to-coos-bay-relay/
+    video:
+  - title:
+    photo: /img/cabin-fever-home-slider-2048x850.jpg
+    title_mobile:
+    photo_mobile:
+    url: /adventures
     video:
   - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
     title_mobile:
     photo_mobile:
     url:
+    video:
+  - title:
+    photo: /img/bbq-blues-brews-bourbon-hm-slider-2026.jpg
+    title_mobile:
+    photo_mobile: /img/bbq-blues-brews-mobile.jpg
+    url: /event/annual-bbq-blues-brews-on-the-bay/
     video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
