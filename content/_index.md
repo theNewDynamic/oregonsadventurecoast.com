@@ -15,16 +15,16 @@ slideshow:
     url: /adventures
     video:
   - title:
-    photo: /img/cultural-experience-hm-slider-2048-850.jpg
-    title_mobile:
-    photo_mobile:
-    url:
-    video:
-  - title:
     photo: /img/bbq-blues-brews-bourbon-hm-slider-2026.jpg
     title_mobile:
     photo_mobile: /img/bbq-blues-brews-mobile.jpg
     url: /event/annual-bbq-blues-brews-on-the-bay/
+    video:
+  - title:
+    photo: /img/cultural-experience-hm-slider-2048-850.jpg
+    title_mobile:
+    photo_mobile:
+    url:
     video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
