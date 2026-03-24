@@ -13,12 +13,7 @@ aliases:
   - /featured-adventures/atving-motorsports
   - /activities/category/atv-motorsports
 ---
-
-[![ATV in dunes with $120 in Local Vacation Loot promotion](/img/lvl-dunes-695x179-01-26.jpg)](/loot)
-
 <div class="float-right-350px"><p><img alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast" width="100%" src="/img/atv-jump-cropped.jpg" /></p><p><img alt="Kids and Families ATVing on the Untamed Dunes near North Bend, Oregon" width="100%" src="/img/kids-dunes.jpg" /></p><img alt="Sand Buggy on the Dunes on Oregon's Adventure Coast" width="100%" src="/img/sandbuggy-cropped.jpg" /></div>
-
-&nbsp;
 
 Pulse-pounding adventure hides over and around every new dune on Oregon's Adventure Coast!
 
