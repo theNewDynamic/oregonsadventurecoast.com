@@ -1,0 +1,55 @@
+{{ $menu := slice }}
+{{ $adventureEntries := where site.RegularPages "Type" "adventure" }}
+{{ $list := slice
+  "Hiking & Walking"
+  "Running"
+  "ATV'ing & Motorsports"
+  "Undeveloped Beaches"
+  "Shopping"
+  "Birding & Wildlife"
+  "Lighthouses"
+  "Art, History & Culture"
+  "Forest Bathing & Mindfulness"
+  "State Parks & National Lands"
+  "Storm Watching"
+  "Fishing"
+  "Gaming"
+  "Cycling"
+  "Ocean Life & Tidepooling"
+  "Theatres"
+  "Crabbing"
+  "Clamming"
+  "Scenic Drives"
+  "Untamed Dunes"
+  "Entertainment & Nightlife"
+  "Golfing"
+  "Water Recreation"
+}}
+{{ $menuItems := slice }}
+{{ range $list }}
+  {{ with where $adventureEntries ".Title" . }}
+    {{ with index . 0 }}
+      {{ $menuItems = $menuItems | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $nav := (dict
+  "title" "Adventures"
+  "_type" "navigation"
+  "locations" (slice "adventures")
+  "_id" (partial "func/GetIDString" "Adventure")
+) }}
+{{ $items := slice }}
+{{ range $menuItems }}
+  {{ $items = $items | append (dict
+      "_type" "link"
+      "linkType" "entry"
+      "entry" (dict "_type" "reference" "_ref" .File.UniqueID)
+  ) }}
+{{ end }}
+{{ with $items }}
+  {{ $nav = merge $nav (dict "items" $items) }}
+{{ end }}
+
+{{ return $nav }}

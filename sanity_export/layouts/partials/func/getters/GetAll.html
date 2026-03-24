@@ -18,12 +18,13 @@
   "Properties"
   "PropertyTerms"
   "Events"
+  "Menus"
 }}
 {{ $entries := slice }}
 {{/* This set to true is used to limit the types to get */}}
 {{ if true }}
   {{/* Use this to limit the gen/export scripts to limited sections */}}
-  {{ $sections = last 2 $sections }}
+  {{ $sections = last 1 $sections }}
 {{ end }}
 
 {{ range $section := $sections }}

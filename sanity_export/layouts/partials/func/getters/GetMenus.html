@@ -34,8 +34,14 @@
   {{ end }}
   {{ $menus = $menus | append $nav }}
 {{ end }}
+{{ $menus = slice }}
 
 {{ $menus = $menus | append (partial "func/getters/GetMenuMain" "a") }}
-{{ $menus = $menus | append (partial "func/getters/GetMenuFooter" "a") }}
-{{ $menus = $menus | append (partial "func/getters/GetMenuTop" "a") }}
+{{ $menus = $menus | append (partial "func/getters/GetMenuAdventures" "a") }}
+{{ if false }}
+  {{ $menus = $menus | append (partial "func/getters/GetMenuFooter" "a") }}
+  {{ $menus = $menus | append (partial "func/getters/GetMenuTop" "a") }}
+
+{{ end }}
+
 {{ return $menus }}
