@@ -43,13 +43,13 @@ smallboxphoto: /img/bbq-blues-event-small.jpg
 
 ![](/img/bbq-blue-subpage-header.jpg)
 
+&nbsp;
+
 {{< spacer 25 >}}
 
 #### BBQ!
 
 For the 13th Year, Ko-Kwel Casino Resort brings you **finger-lickin' good barbeque** for a Kansas City Barbecue Society Sanctioned Event, bringing the best grill masters and teams together, vying for the title of **Grand Champion!** See the schedule below for tasting times!
-
-**How it Works**<br>$5 entry fee gets you into the event each day. Participating vendors will have a 2 oz. sample of BBQ for sale.
 
 {{< spacer 50 >}}
 
@@ -67,7 +67,11 @@ At each of the three beer stations, guests will be able to buy a commemorative l
 
 {{< spacer 25 >}}
 
-####
+#### BOURBON!
+
+Taste the newest addition to the Ko-Kwel Casino Resort \| Coos Bay - Ko-Kwel Spirits Bourbon!
+
+&nbsp;
 
 ![](/img/bbq-blues-brews-competition-vendor.jpg)
 
@@ -78,5 +82,19 @@ At each of the three beer stations, guests will be able to buy a commemorative l
 Saturday, May 23, 2026 \| 12 PM – 6 PM<br>Sunday, May 24, 2026 \| 12 PM – 4 PM
 
 **Stay tuned for more information on a Cooking Class with the Bob & Moe BBQ Show that will be hosted on Friday, May 22 at the Ko-Kwel Casino Resort \| Coos Bay. Spots are limited and will sell quickly!**
+
+{{< spacer "15" >}}
+
+#### Entertainment
+
+**Saturday, May 23**
+
+12:00 PM – 2:00 PM \| The Strange Tones <br>2:30 PM – 3:30 PM \| Texas Flood <br>4:00 PM – 6:00 PM \| Inner Limits
+
+**Texas Flood Concert** in the Salmon Room Doors open at 6:00 PM, concert at 7:00 PM <br>Tickets on sale Friday, April 24 at Ko-Kwel Gifts \| $35 or $30 with Ko-Kwel Rewards Card
+
+**Sunday, May 24**
+
+12:00 PM – 2:00 PM \| Inner Limits <br>2:00 PM – 4:00 PM \| The Strange Tones <br>4:15 PM \| Awards
 
 &nbsp;
