@@ -43,7 +43,11 @@ smallboxphoto: /img/bbq-blues-event-small.jpg
 
 ![](/img/bbq-blue-subpage-header.jpg)
 
-&nbsp;
+{{< spacer "10" >}}
+
+#### **How it Works**
+
+<br>$5 entry fee gets you into the event each day. Participating vendors will have a 2 oz. sample of BBQ for sale. (*while supplies last*)
 
 {{< spacer 25 >}}
 
@@ -79,9 +83,11 @@ Taste the newest addition to the Ko-Kwel Casino Resort \| Coos Bay - Ko-Kwel Spi
 
 **13th Annual BBQ, Blues, Brews & Bourbon on the Bay<br>Saturday & Sunday, May 23 – 24, 2026**
 
-Saturday, May 23, 2026 \| 12 PM – 6 PM<br>Sunday, May 24, 2026 \| 12 PM – 4 PM
+**Friday, May 22, 2026**<br>10 AM - 4 PM - **Cooking Class with Moe Cason and Bob Trudnak** of the Bob & Moe BBQ Show. Spots are limited and will sell out quickly. [**Register Today!**](https://www.kokwelresorts.com/wp-content/uploads/2026/02/2605-BBQ-Cooking-Class-Registration.pdf)
 
-**Stay tuned for more information on a Cooking Class with the Bob & Moe BBQ Show that will be hosted on Friday, May 22 at the Ko-Kwel Casino Resort \| Coos Bay. Spots are limited and will sell quickly!**
+**Saturday, May 23, 2026** <br>12 PM – 6 PM - BBQ Tasting, Beer & Bourbon, plus Hot Tunes!
+
+**Sunday, May 24, 2026** <br>12 PM – 4 PM - BBQ Tasting, Beer & Bourbon, plus Hot Tunes!<br>4:15 PM - Awards Ceremony
 
 {{< spacer "15" >}}
 
@@ -95,6 +101,6 @@ Saturday, May 23, 2026 \| 12 PM – 6 PM<br>Sunday, May 24, 2026 \| 12 PM – 4 
 
 **Sunday, May 24**
 
-12:00 PM – 2:00 PM \| Inner Limits <br>2:00 PM – 4:00 PM \| The Strange Tones <br>4:15 PM \| Awards
+12:00 PM – 2:00 PM \| Inner Limits <br>2:00 PM – 4:00 PM \| The Strange Tones
 
 &nbsp;
