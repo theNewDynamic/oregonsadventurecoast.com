@@ -29,13 +29,13 @@ warning: false
 ---
 ### Annual Memorial Day Weekend festival features music, brews, plenty of delicious BBQ, and fun, May 23-24, 2026!
 
-If you have attended the annual BBQ, Blues, and Brews on the Bay festival before and thought, “Something is missing, but I just can’t name it.” Well, you weren’t wrong! This year, the[Ko-Kwel Casino Resort](https://www.kokwelresorts.com/coos-bay/) (*formerly The Mill Casino • Hotel & RV Park*) has added a new element to its famously tasty annual festival: Bourbon!
+If you have attended the annual BBQ, Blues, and Brews on the Bay festival before and thought, “Something is missing, but I just can’t name it.” Well, you weren’t wrong! This year, the [Ko-Kwel Casino Resort](https://www.kokwelresorts.com/coos-bay/) (*formerly The Mill Casino • Hotel & RV Park*) has added a new element to its famously tasty annual festival: Bourbon!
 
 That’s right, the annual BBQ, Blues, and Brews on the Bay is now the annual [BBQ, Blues, Brews & Bourbon on the Bay](https://www.oregonsadventurecoast.com/event/annual-bbq-blues-brews-on-the-bay/), and we are here for it!
 
 ![](/img/bbq-blues-brews-bourbon-2026-logo.jpg)
 
-**Why Bourbon?** The question shouldn’t be “why bourbon?”, but rather “Why NOT bourbon?” When the [Coquille Indian Tribe](https://www.coquilletribe.org/) and the [Coquille Economic Development Corporation](https://www.tribal.one/) (CEDCO) announced the[renaming of The Mill Casino • Hotel & RV Park to Ko-Kwel Casino Resort \| Coos Bay](https://www.oregonsadventurecoast.com/blog/mill-casino-hotel-rv-park-is-now-the-ko-kwel-casino-resort-coos-bay/) last year, they also shared plans for a major expansion to include [Oregon’s first tribally owned distillery](https://heritagedistilling.com/pages/hdc-at-the-mill-casino-hotel-coming-soon?srsltid=AfmBOooshrCjVoRVfxYuaXHiPh6Pg4MMNrSuOgX1Nb2KKXfuJgcC7gLH%20%20https://kobi5.com/news/top-stories/oregons-first-tribal-distillery-is-months-ahead-of-schedule-291210/), which will produce and sell a variety of distilled spirits, including…you guessed it…bourbon!
+**Why Bourbon?** The question shouldn’t be “why bourbon?”, but rather “Why NOT bourbon?” When the [Coquille Indian Tribe](https://www.coquilletribe.org/) and the [Coquille Economic Development Corporation](https://www.tribal.one/) (CEDCO) announced the [renaming of The Mill Casino • Hotel & RV Park to Ko-Kwel Casino Resort \| Coos Bay](https://www.oregonsadventurecoast.com/blog/mill-casino-hotel-rv-park-is-now-the-ko-kwel-casino-resort-coos-bay/) last year, they also shared plans for a major expansion to include [Oregon’s first tribally owned distillery](https://heritagedistilling.com/pages/hdc-at-the-mill-casino-hotel-coming-soon?srsltid=AfmBOooshrCjVoRVfxYuaXHiPh6Pg4MMNrSuOgX1Nb2KKXfuJgcC7gLH%20%20https://kobi5.com/news/top-stories/oregons-first-tribal-distillery-is-months-ahead-of-schedule-291210/), which will produce and sell a variety of distilled spirits, including…you guessed it…bourbon!
 
 The [recent renovation of the Plank House Restaurant](https://kcby.com/news/local/ko-kwel-casino-resort-reopens-plank-house-restaurant-after-renovation-adding-60-jobs-ahead-of-summer-north-bend-coos-county-oregon) includes a tasting room featuring their own Ko-Kwel Spirits. This marks a significant milestone for the Tribe, so it’s only fitting to rename one of their biggest events of the year to reflect this exciting new addition!
 
@@ -46,7 +46,7 @@ The [recent renovation of the Plank House Restaurant](https://kcby.com/news/loca
 Highlights of this [Kansas City Barbecue Society-sanctioned event](https://www.kcbs.us/) include:
 
 * An appearance by Pit master, television personability, and [cookbook author, Moe Cason](https://www.amazon.com/stores/author/B0CHX6HZTS?ccs_id=4bf627e3-9f07-41a2-8f93-a3f45d762c50).
-* A [cooking class](https://www.kokwelresorts.com/wp-content/uploads/2026/02/2605-BBQ-Cooking-Class-Registration.pdf)with the Bob & Moe BBQ Show on Friday, May 22 at the Ko-Kwel Casino Resort \| Coos Bay. Advanced registration required; space is limited.
+* A [cooking class](https://www.kokwelresorts.com/wp-content/uploads/2026/02/2605-BBQ-Cooking-Class-Registration.pdf) with the Bob & Moe BBQ Show on Friday, May 22 at the Ko-Kwel Casino Resort \| Coos Bay. Advanced registration required; space is limited.
 * 2 oz mouth-watering samples for purchase from dozens of pit-masters from around the country as they gather to compete for the coveted first-place prize.
 * Three beer stations where guests can buy a commemorative logo’d pint cup and delicious craft beers and wine in various sizes.
 * Tastings of the Ko-Kwel Spirits Bourbons.
@@ -80,19 +80,19 @@ Sunday, May 24, 2026 \| 12 PM – 4 PM
   * [Coney Station](https://www.facebook.com/ConeyStation/)
   * [NoBe Taphouse, and Food Cart Pod](https://www.facebook.com/profile.php?id=61550653942383) & [Front Street Food Trucks](https://www.facebook.com/frontstreetfoodtrucks)
 
-&nbsp;
+  &nbsp;
 
 * If [fishing](https://www.oregonsadventurecoast.com/fishing/) is your thing, Oregon’s South Coast is the place for you! With over[30 freshwater lakes and rivers](https://www.oregonsadventurecoast.com/tripideas/fresh-water-fishing-options-by-body-of-water) in Coos County alone, plus outstanding[bay and ocean fishing](https://www.oregonsadventurecoast.com/tripideas/saltwater-fishing-ocean-bay), there is something for everyone. [Local sporting goods stores](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/) make it easy to [gear up](https://www.oregonsadventurecoast.com/blog/where-to-gear-up-for-adventure-on-oregon-s-adventure-coast/), offering rentals, licenses, and expert advice. Remember: a license is required for fishing, crabbing, or clamming unless it is a designated Free Fishing Day. Check with the [Oregon Fish & Wildlife Commission (ODFW)](https://myodfw.com/fishing) for more information, and be sure to download[our Fishing Information Rack Card here (PDF).](https://www.oregonsadventurecoast.com/img/fishing-rackcard.pdf)
 
-&nbsp;
+  &nbsp;
 
 * Explore the 32,186 acres of dunes, forest, streams, and lakes in the [Oregon Dunes National Recreation Area](https://www.oregonsadventurecoast.com/tripideas/oregon-dunes-national-recreation-area/). Riding the Oregon Dunes on an ATV or UTV is a favorite local activity, but you can also enjoy the dunes on foot or on a fat-tire bike and take in the amazing natural scenery on some of the non-motorized trails like the John Dellenback Trail.
 
-&nbsp;
+  &nbsp;
 
 * Visit the majestic [Oregon State Parks](https://www.oregonsadventurecoast.com/blog/celebrate-oregon-state-parks-on-oregon-s-adventure-coast/) along Cape Arago Highway. For just $10 per vehicle per day, you can visit [Sunset Bay State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;amp;parkId=70), [Cape Arago State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;amp;parkId=66), and [Shore Acres State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/), the “crown jewel” of the Oregon Coast. Watch for seals and sea lions relaxing in the sun on [Simpson Reef and Shell Island](https://shoreacres.net/about-us/simpson-reef-and-shell-island/), between Shore Acres and Cape Arago State Parks.
 
-&nbsp;
+  &nbsp;
 
 * Try a local restaurant. There are numerous local restaurants dishing out fresh seafood and chowder. Download our Local Restaurant Guide to carry with you, or visit[<u>Oregonsadventurecoast.com/dining</u>](http://oregonsadventurecoast.com/dining) to see all our local restaurants.
 
