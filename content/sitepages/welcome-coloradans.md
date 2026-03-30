@@ -13,7 +13,7 @@ aliases:
 
 ![Sunset view of Oregon Coast cliffs with text promoting Daily Direct Flight to the Oregon Coast](/img/denver-page-sub-head-02.jpg)
 
-Oregon’s Adventure Coast is excited to be **THE** Oregon Coast destination for direct flights from Denver to North Bend, Oregon **(DEN to OTH).** <a href="https://www.united.com/en/us" target="_blank" rel="noopener">United Airlines</a> is offering daily non-stop flights from **May 22 to October 25, 2025** to Oregon's South Coast and the only commercial airport on the Oregon Coast. You may already know our area—or perhaps you’ve heard of us because of the world-renowned [Bandon Dunes Golf Resort](https://bandondunesgolf.com), just down the road. Either way, when you need a new outdoor adventure, you’ve found it. We feel kindred to our Colorado friends in that we are both known for being outdoorsy and into adrenaline sports with unique and tranquil natural surroundings.
+Oregon’s Adventure Coast is excited to be **THE** Oregon Coast destination for non-stop flights from Denver to North Bend, Oregon **(DEN to OTH)** on the Southern Oregon Coast**.** <a href="https://www.united.com/en/us" target="_blank" rel="noopener">United Airlines</a> is offering daily non-stop flights from **May 21 to October 24, 2026** to Oregon's South Coast and the only commercial airport on the Oregon Coast. You may already know our area—or perhaps you’ve heard of us because of the world-renowned [Bandon Dunes Golf Resort](https://bandondunesgolf.com), just down the road. Either way, when you need a new outdoor adventure, you’ve found it. We feel kindred to our Colorado friends in that we are both known for being outdoorsy and into adrenaline sports with unique and tranquil natural surroundings.
 
 The Southern Oregon Coast offers temperate weather and enough space for every visitor to do what they love, with room to spare.
 
@@ -41,7 +41,7 @@ The Southern Oregon Coast offers temperate weather and enough space for every vi
 
 ![Airplane landing and Denver to North Bend Header](/img/sub-denver-direct-flight-695x125.jpg)
 
-Book your **direct** flight from **DEN to OTH** now on United! Daily flights begin **May 22, 2025, and run through October 29, 2025**. Search using the airport codes **DEN (Denver) and OTH (Southwest Oregon Regional Airport)** to find tickets and secure your adventure to Oregon’s Adventure Coast today!
+Book your **non-stop** flight from **DEN to OTH** now on United! Daily flights begin **May 21, 2026, and run through October 24, 2026**. Search using the airport codes **DEN (Denver) and OTH (Southwest Oregon Regional Airport)** to find tickets and secure your adventure to Oregon’s Adventure Coast today!
 
 {{< spacer "20" >}}
 
