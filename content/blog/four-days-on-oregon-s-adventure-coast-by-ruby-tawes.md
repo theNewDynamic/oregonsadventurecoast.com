@@ -73,7 +73,7 @@ At the end of the Cape Arago Highway, you’ll find the namesake **Cape Arago St
 
 One of my hands-down favorite parts of exploring any new area is wandering around town, pretending I live there, and trying the best local coffee shops, restaurants, and bars available. I’ll be honest, it can be hard to get a perfect latte or a great meal in a lot of adventure destinations, but not in Oregon’s Adventure Coast. Check out <a href="https://blackanchorcoffeehouse.com/" target="_blank" rel="noopener">Black Anchor</a> for your coffee cravings, <a href="https://www.sharkbites.cafe/" target="_blank" rel="noopener">SharkBite’s Café</a> for some of the incredible seafood Oregon is known for, and <a href="https://7devilsbrewery.com/" target="_blank" rel="noopener">7 Devils Brewery</a> for a local libation.
 
-![7 Devils Brewing Waterfront Alehouse along the bay with a rainbow arching overhead, cloudy skies, and a waterside walkway beside the building.](/img/7devils-waterfront-under-rainbow-sr25-1.jpg "7 Devils Brewing Waterfront Alehouse. Photo by Steven Ryan.")
+![Exterior of 7 Devils Brewery in Coos Bay featuring a large mural map, outdoor patio seating with red umbrellas, and sunny blue skies.](/img/7devils.jpg "Exterior of 7 Devils Brewery in Coos Bay.")
 
 **<u>Forest Bathing</u>**
 
