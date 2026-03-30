@@ -71,7 +71,9 @@ At the end of the Cape Arago Highway, you’ll find the namesake **Cape Arago St
 
 **<u>Downtown, Down Time</u>**
 
-One of my hands-down favorite parts of exploring any new area is wandering around town, pretending I live there, and trying the best local coffee shops, restaurants, and bars available. I’ll be honest, it can be hard to get a perfect latte or a great meal in a lot of adventure destinations, but not in Oregon’s Adventure Coast. Check out <a href="https://blackanchorcoffeehouse.com/" target="_blank" rel="noopener">Black Anchor</a> for your coffee cravings, <a href="https://www.sharkbites.cafe/" target="_blank" rel="noopener">SharkBite’s Café</a> for some of the incredible seafood Oregon is known for, and <a href="https://7devilsbrewery.com/" target="_blank" rel="noopener">7 Devils Brewery and Tap Room</a> for a local libation.
+One of my hands-down favorite parts of exploring any new area is wandering around town, pretending I live there, and trying the best local coffee shops, restaurants, and bars available. I’ll be honest, it can be hard to get a perfect latte or a great meal in a lot of adventure destinations, but not in Oregon’s Adventure Coast. Check out <a href="https://blackanchorcoffeehouse.com/" target="_blank" rel="noopener">Black Anchor</a> for your coffee cravings, <a href="https://www.sharkbites.cafe/" target="_blank" rel="noopener">SharkBite’s Café</a> for some of the incredible seafood Oregon is known for, and <a href="https://7devilsbrewery.com/" target="_blank" rel="noopener">7 Devils Brewery</a> for a local libation.
+
+![7 Devils Brewing Waterfront Alehouse along the bay with a rainbow arching overhead, cloudy skies, and a waterside walkway beside the building.](/img/7devils-waterfront-under-rainbow-sr25-1.jpg "7 Devils Brewing Waterfront Alehouse. Photo by Steven Ryan.")
 
 **<u>Forest Bathing</u>**
 
@@ -79,7 +81,7 @@ Let’s be honest, life moves fast (and sometimes even too fast). There’s so m
 
 ![Caleb sits on a fallen log in a lush forest, looking up at tall evergreen trees surrounded by dense greenery and ferns along a wooded trail during a visit to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston.](/img/forest-bathing-oregon-s-adventure-coast.jpg "Caleb sits on a fallen log in a lush forest, looking up at tall evergreen trees surrounded by dense greenery and ferns along a wooded trail during a visit to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston. Photo by Ruby Tawes.")
 
-Our whole trip lasted 4 days, and it genuinely flew by in the best way possible. Plus, there were so many things we didn’t have time to fit in, like exploring the untamed sand dunes on foot or sandboard, whale watching, or kayaking in the estuary that runs through town! Luckily, with nonstop flights from Denver to North Bend, we won’t have to wait too long to come back and keep the adventure going!
+Our whole trip lasted 4 days, and it genuinely flew by in the best way possible. Plus, there were so many things we didn’t have time to fit in, like exploring the untamed sand dunes on foot or sandboard, whale watching, or kayaking in the estuary that runs through town! Luckily, with nonstop flights from <a href="https://www.oregonsadventurecoast.com/den/" target="_blank" rel="noopener">Denver to North Bend</a>, we won’t have to wait too long to come back and keep the adventure going!
 
 **<u>About the Author</u>**
 
