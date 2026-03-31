@@ -20,7 +20,7 @@ mediumboxphoto: /img/disc-golf-closeup-owned-667x355.jpg
 smallboxphoto: /img/disc-golf-closeup-owned-340x214.jpg
 date: '2019-02-10T00:00:00.000+00:00'
 ---
-![graphic logo for July Jubilee event](/img/julyjubileename.jpg)
+![graphic logo for July Jubilee event](/img/1.png)
 
 **It's Time to Celebrate North Bend's 123rd Birthday with July Jubilee! Featuring live music, a Sip N Stroll, Show N Shine at North Bend Lanes, food, a 5k fun run, a disc golf tournament, and more!**
 
