@@ -11,7 +11,7 @@ aliases:
 ---
 ####
 
-![Sunset view of Oregon Coast cliffs with text promoting Daily Direct Flight to the Oregon Coast](/img/denver-page-sub-head-02.jpg)
+![elcome Coloradans! Nonstop flight to the Oregon Coast — promotional banner featuring dramatic coastal cliffs and ocean at sunset.](/img/denver-page-sub-head-02-695x322.jpg)
 
 Oregon’s Adventure Coast is excited to be **THE** Oregon Coast destination for non-stop flights from Denver to North Bend, Oregon **(DEN to OTH)** on the Southern Oregon Coast. <a href="https://www.united.com/en/us" target="_blank" rel="noopener">United Airlines</a> is offering daily non-stop flights from **May 21 to October 24, 2026** to Oregon's South Coast and the only commercial airport on the Oregon Coast. You may already know our area—or perhaps you’ve heard of us because of the world-renowned [Bandon Dunes Golf Resort](https://bandondunesgolf.com), just down the road. Either way, when you need a new outdoor adventure, you’ve found it. We feel kindred to our Colorado friends in that we are both known for being outdoorsy and into adrenaline sports with unique and tranquil natural surroundings.
 
