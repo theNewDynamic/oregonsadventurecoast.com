@@ -2,7 +2,7 @@
 _schema: default
 title: Every Day is Earth Day on Oregon’s Adventure Coast
 draft: false
-date: 2026-04-07T00:00:00-07:00
+date: 2026-04-06T00:00:00-07:00
 description: >-
   Most visitors want to be good stewards of our land. So, in honor of Earth Day
   later this month (April 22, 2026), we’ve put together a list of some of our
