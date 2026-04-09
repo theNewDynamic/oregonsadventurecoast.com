@@ -55,7 +55,7 @@ Tattoo Booking: Most artist use social media as their preferred method of commun
 
 Carlos Lemon, A.J. Jamrose, James Mullin, Chad Hayden, Jamy Carlton, Oregon City Tattoos, Legacy Ink, 11:11 Tattoo, Old School Tattoo, Red Room Tattoos, Lisa Johnson, Golden Rose Tattoo, Chad Hayden, Raine Wright, Casper and many more.
 
-**Competition Highlights**<br>Artists will compete over a 3-day period, vying for:<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;Custom-made local trophies<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;Bragging rights
+**Competition Highlights**<br>Artists will compete over a 3-day period, vying for:<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;Custom-made local trophies{{< spacer "25" >}}<br>&nbsp;&nbsp; &nbsp;• &nbsp; &nbsp;Bragging rights
 
 <br>{{< spacer "25" >}}
 
@@ -72,3 +72,7 @@ Carlos Lemon, A.J. Jamrose, James Mullin, Chad Hayden, Jamy Carlton, Oregon City
 #### TICKETS
 
 Tickets go on-sale in early April in Ko-Kwel Gifts. $15 entry fee gets you into the event each day. All ages are welcome; 17 and under must be accompanied by an adult; 12 and under will receive free admission.
+
+{{< spacer "25" >}}
+
+{{< youtube id="1m-tHdyYGu8" >}}
