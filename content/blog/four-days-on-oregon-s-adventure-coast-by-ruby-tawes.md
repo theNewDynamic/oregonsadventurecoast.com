@@ -37,6 +37,7 @@ tags:
 categories:
   - Itineraries
   - Outdoor Adventures
+  - Local Food & Drink
 warning: false
 ---
 **Editor's Note:** *This special guest post is written by Ruby Tawes, a full-time Colorado-based freelance photographer, content creator, and traveler specializing in hiking, van life, and national park exploration. Over five years, she has visited 36 states, 27 national parks, and 9 countries, focusing on inspiring others to get outside. Ruby and her partner Caleb recently spent a few days here on Oregon's Adventure Coast: Coos Bay, North Bend, Charleston and shared some of their adventures with us.*
