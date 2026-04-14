@@ -7,7 +7,7 @@ description: >-
   This special guest post is written by Ruby Tawes, a full-time Colorado-based
   freelance photographer, content creator, and traveler specializing in hiking,
   van life, and national park exploration.
-image: /img/four-days-on-oregons-adventure-coast-blog-695x322.jpg
+image: /img/four-days-on-oregon-s-adventure-coast-by-ruby-tawes-blog-1400-x-649.jpg
 tags:
   - Ruby Tawes
   - Photography
