@@ -52,7 +52,7 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 {{< floatimage src="/img/darrell-grant-1.jpg" float="left" alt="Musician Darrell Grant wearing African inspired shirt and blue hat." size="" >}}
 
-**Sunday, July 12 - 2:00-3:30pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**Darrell Grant: Songs for the Soul**<br>Darrell Grant is a creative artist who harnesses the power of music to create change. Whether through performing, composing, teaching, or organizing musical initiatives around community, sustainability or social justice, he seeks to leverage a deeper level of engagement and connection.<br>**Tickets $60**
+**Sunday, July 12 - 2:00-3:30pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**Darrell Grant: Songs for the Soul**<br>Darrell Grant is a creative artist who harnesses the power of music to create change. Whether through performing, composing, teaching, or organizing musical initiatives around community, sustainability or social justice, he seeks to leverage a deeper level of engagement and connection.<br>**Tickets $60** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/RXSNYVZWIUWFRZUDYKMATWBD" target="_blank" rel="noopener"><strong>BUY TICKETS LINK</strong></a>
 
 {{< spacer "20" >}}
 
