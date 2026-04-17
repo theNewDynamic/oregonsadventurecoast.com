@@ -12,8 +12,6 @@ description: >-
 image: /img/surf-paddle-oregon-coast-blog-1400-x-649.jpg
 warning: false
 ---
-&nbsp;
-
 Experiencing Oregon’s Adventure Coast by [surfing, kayaking, and stand-up paddleboarding (SUP)](https://www.oregonsadventurecoast.com/water-recreation/) is a delightful way to unplug and reconnect with nature. With so many lakes, rivers, and beaches to choose from, it’s not surprising that our area is a haven for outdoor lovers of all skill levels.
 
 **SURFING**
@@ -31,19 +29,15 @@ Recognized as one of the finest and most exhilarating surfing spots on Oregon’
 
 **KAYAKING & WATER SPORTS: PADDLE THROUGH OREGON'S ADVENTURE COAST**
 
-&nbsp;
+![Silhouette of a person kayaking across calm water at sunset, with orange and gold reflections on the surface and a tree-lined shoreline in the distance.](/img/surf-paddle-oregon-coast-blog.jpg)
 
 ***Important: a*** [PFD or life jacket](https://www.oregon.gov/osmb/boater-info/pages/life-jackets.aspx) ***can save your life, even for experienced swimmers!***
 
 If you're looking for a more leisurely way to explore the Oregon Coast, [kayaking and stand-up paddleboarding](https://www.oregonsadventurecoast.com/water-recreation/) might be more your speed, and this region offers an abundance of options for all skill levels.
 
-[https://www.youtube.com/watch?v=XM8iebLuClI](https://www.youtube.com/watch?v=XM8iebLuClI)
-
-&nbsp;
+{{< youtube id="XM8iebLuClI" >}}
 
 The beautiful Coos Bay, featured in the video above, is right in our backyard and easy to access, and it's one of our favorite spots for a fun paddle adventure! Here are some other destinations to consider for a paddle adventure:
-
-&nbsp;
 
 **SOUTH SLOUGH NATIONAL ESTUARINE RESEARCH RESERVE**
 
@@ -57,25 +51,19 @@ Ask any local where they prefer to kayak and paddleboard, and the answer will li
 
 Head just 15 miles north of Coos Bay, and you will find approximately 2,000 acres of calm, picturesque water surrounded by mountains and lush natural beauty. [Tenmile Lakes](https://traveloregon.com/things-to-do/destinations/lakes-reservoirs/tenmile-lake/) consists of two lakes: North and South Tenmile Lakes, with a combined shoreline of 42 miles, making it the largest freshwater lake on the Southern Oregon Coast and the second-largest on the entire coast. In addition to a swimming and wading area, the lakes have multiple boat ramps, a fishing dock, ample parking, picnic tables, and more. The 120-acre [Empire Lakes](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes) are another great option for water recreation and are located in [John Topits Park](https://www.google.com/search?q=John+Topits+Park&amp;oq=what+is+Empire+Lakes+in+oregon&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCDUyMjFqMGo0qAIDsAIB8QUtOVS-mFiDdA&amp;sourceid=chrome&amp;ie=UTF-8&amp;mstk=AUtExfBOqxtrcdF4XhvaLrQLXe7d-B3sCJZu1aBpsgQZJh15-jFpM5BEWujxH6dW7AGMxpl4SYg3QJKO8g9jC9JnKQSmU_WcWSRhibCZmpwJ9hGtHX_c00XRZLZQLB4qh7KesBk1VUtRw4lsjTR5AVe1qAlzJ9TDDxoIOPIMDjJyi8I7BGbwGILsQUUdQ2Y9Fj6XeVCsfqffzevg3qkkACtmxvumS3H1Q5HQhCmhTBUZSVogaQ&amp;csui=3&amp;ved=2ahUKEwjZuqOXj9mTAxXH4skDHcubEqgQgK4QegQIARAC). [Click here](https://www.oregonsadventurecoast.com/tripideas/fresh-water-fishing-options-by-body-of-water/) to view other freshwater lakes near Coos Bay.
 
-&nbsp;
+![Person wearing a life jacket sits in a red kayak at a dock, holding a paddle while others assist with launching into a calm lake surrounded by trees.](/img/eel-lake-kayak-launch-ribbon-cutting-ceremony-28-tsoc.jpg)
 
 Accessible kayak launches and viewing platforms at[William M. Tugman State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69) and[John Topits Park](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes) enable individuals with mobility challenges to access the water.
 
-&nbsp;
-
 **LOCAL RIVERS**
 
-If rivers are more your style, the Umpqua, Coos, or Coquille rivers await, offering ideal settings for peaceful canoe outings and kayak fishing.
+If rivers are more your style, the Umpqua, Coos, or Coquille rivers await, offering ideal settings for peaceful canoe outings and kayak fishing. Take a virtual SUP tour of Coos River, in beautiful Coos Bay, Oregon on the Southern Oregon Coast.
 
-Take a virtual SUP tour of Coos River, in beautiful Coos Bay, Oregon on the Southern Oregon Coast.
-
-[https://www.youtube.com/watch?v=7kidwJG10vA](https://www.youtube.com/watch?v=7kidwJG10vA)
-
-&nbsp;
+{{< youtube id="7kidwJG10vA" >}}
 
 **WHERE TO RENT OR PURCHASE WATER RECREATION EQUIPMENT**
 
-&nbsp;
+![A woman and her white dog stand on an orange paddleboard on calm blue water, with a rocky tree-topped island in the background at Sunset Bay, Oregon.](/img/sunset-bay.jpg)
 
 **Don’t own your own kayak, paddleboard, or surfboard? No problem.** For gear rentals and expert tips, reach out to these locally-owned businesses in the Coos Bay, North Bend, and Charleston area. Here are three to consider contacting:
 
