@@ -53,7 +53,7 @@ Head just 15 miles north of Coos Bay, and you will find approximately 2,000 acre
 
 ![Person wearing a life jacket sits in a red kayak at a dock, holding a paddle while others assist with launching into a calm lake surrounded by trees.](/img/eel-lake-kayak-launch-ribbon-cutting-ceremony-28-tsoc.jpg)
 
-Accessible kayak launches and viewing platforms at[William M. Tugman State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69) and[John Topits Park](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes) enable individuals with mobility challenges to access the water.
+Accessible kayak launches and viewing platforms at [William M. Tugman State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=69) and [John Topits Park](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes) enable individuals with mobility challenges to access the water.
 
 **LOCAL RIVERS**
 
