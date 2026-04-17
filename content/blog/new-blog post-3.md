@@ -80,7 +80,7 @@ Take a virtual SUP tour of Coos River, in beautiful Coos Bay, Oregon on the Sout
 
 [Coastal Kayak and SUP Rentals](https://coastalkayakandsuprentalsllc.com/) in Coos Bay (phone: 541-252-9201). Coastal rents recreational single- and tandem kayaks, fishing kayaks, SUPs, life jackets, and paddles. They will deliver and pick up equipment for an extra fee. If you prefer to not have to make reservations, they also offer self-service Kayak Kiosks at Tenmile Boat Ramp Co Park and [John Topits Park/ Empire Lakes](https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes), open daily 7 am to 7 pm.
 
-[Waxer’s Surf Shop](https://www.waxerssurfandskate.com/) in Coos Bay (phone: 541-266-9020), rents and sells surfboards, longboards, skimboards, paddleboards, Hobie kayaks, sandboards, skateboards, wetsuits, and related accessories. Contact Waxer’s Surf Shop to check rental inventory, rates, and lesson details.
+[Waxer’s Surf Shop](https://www.waxerssurfandskate.com/) in Coos Bay (phone: 541-266-9020), rents and sells surfboards, longboards, paddleboards, sandboards, wetsuits, and related accessories. Contact Waxer’s Surf Shop to check rental inventory, rates, and lesson details.
 
 Ready to plan your trip? Contact us now for personalized tips and the inside scoop on the best local food and activities year-round. Visit our [Adventure Page](https://www.oregonsadventurecoast.com/adventures/) for more inspiration.
 
