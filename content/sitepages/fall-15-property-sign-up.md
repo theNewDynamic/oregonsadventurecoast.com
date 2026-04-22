@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Winter Adventure Promotion Sign Up
+title: Summer Gas Promotion Sign Up
 draft: false
 url: /participate
 layout: headless
