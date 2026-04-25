@@ -3,22 +3,16 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
-    photo: /img/roseburg-to-relay-2026.jpg
+    photo: /img/bbq-blues-brews-bourbon-hm-slider-2026.jpg
     title_mobile:
-    photo_mobile: /img/roseburg-to-coos-relay-mobile.jpg
-    url: /event/roseburg-to-coos-bay-relay/
+    photo_mobile: /img/bbq-blues-brews-mobile.jpg
+    url: /event/annual-bbq-blues-brews-on-the-bay/
     video:
   - title:
     photo: /img/cabin-fever-home-slider-2048x850.jpg
     title_mobile:
     photo_mobile:
     url: /adventures
-    video:
-  - title:
-    photo: /img/bbq-blues-brews-bourbon-hm-slider-2026.jpg
-    title_mobile:
-    photo_mobile: /img/bbq-blues-brews-mobile.jpg
-    url: /event/annual-bbq-blues-brews-on-the-bay/
     video:
   - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
