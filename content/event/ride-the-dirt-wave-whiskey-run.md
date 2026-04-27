@@ -42,9 +42,9 @@ It’s more than just biking – it’s a celebration of community and adventure
 
 ### SCHEDULE & DETAILED INFORMATION COMING SOON
 
-**Cash Prizes will be awarded this year, courtesy of** <a href="https://www.facebook.com/p/Moes-Bike-Shop-100057227899293/" target="_blank" rel="noopener"><strong>Moe's Bike Shop</strong></a> **in North Bend, OR!**
+**Cash Prizes will be awarded this year, courtesy of** <a href="https://www.facebook.com/p/Moes-Bike-Shop-100057227899293/" target="_blank" rel="noopener"><strong>Moe's Bike Shop</strong></a> **in North Bend, OR! $250 each for 1st Place Expert Male Division and Expert Female Division and $100 for 1st Place Expert E-Biker.**
 
-#### Saturday, July 18, 2026 
+#### Saturday, July 18, 2026
 
 10:00 AM&nbsp;Check-in & day of registration
 
@@ -56,7 +56,7 @@ It’s more than just biking – it’s a celebration of community and adventure
 
 2:00 PM — Pre-Ride of Race Course A non-race pace guided ride of Sunday’s race course. Open to all participants. If you picked up your packet earlier, you are all set and ready to roll!
 
-#### Sunday, July 19, 2026 
+#### Sunday, July 19, 2026
 
 7:00 AM — Check-in, registration, and packet pickup
 
@@ -114,7 +114,7 @@ Categories may be combined if fewer than 5 participants register in a given cate
 
 &nbsp;
 
-#### EVENT BROUGHT TO YOU BY: 
+#### EVENT BROUGHT TO YOU BY:
 
 Oregon Coast Visitors Association <br>Bandon Chamber of Commerce <br>Oregon's Adventure Coast <br>Oregon Rides & Events
 
