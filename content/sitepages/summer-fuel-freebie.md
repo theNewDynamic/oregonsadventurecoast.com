@@ -35,7 +35,7 @@ Whether you've been here before or you're making the trip for the first time, **
 
 **Captain John's Motel**<br>63360 Kingfisher Drive<br>Charleston, OR 97420<br>**541-888-4041**<br>[Visit Our Website](https://capitanjohnsmotel.wixsite.com/captjohnsmotel)
 
-**Coos Bay Manor B &amp; B**<br>955 S. 5th Street<br>Coos Bay, OR 97420<br>**541-290-9779 Code SUMMER2026**<br>[Visit Our Website](https://www.thecoosbaymanor.com)
+**Coos Bay Manor B&B**<br>955 S. 5th Street<br>Coos Bay, OR 97420<br>**541-290-9779 Code SUMMER2026**<br>[Visit Our Website](https://www.thecoosbaymanor.com)
 
 **Global Inn**<br>1001 N. Bayshore Drive<br>Coos Bay, OR 97420<br>**541-808-0700 Code GAS75**<br>[Visit Our Website](https://www.globalinnhotelcoosbay.com)
 
