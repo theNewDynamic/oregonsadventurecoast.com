@@ -20,8 +20,8 @@ Whether you've been here before or you're making the trip for the first time, **
 
 ## How it works
 
-1. **Call to Book:<br>**Call any participating hotel directly at the local phone number listed below and reserve a minimum two-night stay. When you call, mention our **$75 Summer Fuel Freebie** promotion. *(Online bookings are not eligible — you must call the hotel front desk directly to book.)<br>*
-2. **Check In & Pick Up Your Card<br>**When you arrive, your **$75 VISA gift card** will be ready and waiting. That's it.
+1. **Call to Book:**<br>Call any participating hotel directly at the local phone number listed below and reserve a minimum two-night stay. When you call, mention our **$75 Summer Fuel Freebie** promotion. *(Online bookings are not eligible — you must call the hotel front desk directly to book.)<br>*
+2. **Check In & Pick Up Your Card**<br>When you arrive, your **$75 VISA gift card** will be ready and waiting. That's it.
 
 **Book by July 31 for stays June 1 – September 20.** Participating hotels fill up fast — book as early as possible. Limited supply.
 
