@@ -6,50 +6,39 @@ url: /fuel
 layout: adventure-sidebar
 photo: /img/kayker-local-adventure-loot-2048x531.jpg
 ---
-![three men holding salmon on a fishing charter and Local Vacation Loot Logo](/img/lvl-page-header-695x322.jpg)
+![van bus at ocean side with sunshine in background](/img/sff-page-header-1400-650.jpg)
 
-### Stay 2 Nights: Score $120 Local Vacation Loot!
+## Drive Down. Stay Two Nights. Pocket $75.
 
-**Welcome!** Whether you’re a return visitor or exploring our area for the first time, we know you will find plenty to do here. **Local Vacation Loot** adds a little extra to your stay on **Oregon’s Adventure Coast.** Book **two nights at a participating hotel** and receive up to **$120 in Local Vacation Loot** to spend on select local adventures, dining, and attractions. More adventure, more flavor, more of the coast—baked right into your stay! Promotion runs February 1st - March 31st, 2026.
+Whether you've been here before or you're making the trip for the first time, **Oregon's Adventure Coast** is worth the drive — and now we're helping cover it. Book two nights directly with a participating hotel and we'll send you home with a **$75 VISA gift card**. Simple as that!
 
 ![fishing, ATV in Dunes, Kayaking and Woman eating a burger](/img/photo-collage-4up-695x166.jpg)
 
-### How it works
+## How it works
 
-**1\. Book Your Stay**<br>Call one of the participating hotels listed below **directly** and book a stay of **at least two nights for two people**. **You MUST mention the** **Local Vacation Loot** promotion when you book. *Note: you must call the hotel front desk directly to book your stay and get the promotion. Promotion not valid with other hotel promotions.*
+1. **Call to Book:** Call any participating hotel directly and reserve a minimum two-night stay. When you call, mention the **Gas75 Promotion**. *(Online bookings are not eligible — you must call the hotel front desk.)*
+2. **Check In & Pick Up Your Card** When you arrive, your $75 VISA gift card will be ready and waiting. That's it.
 
-**2\. Book Your Adventure**<br>Check the list of **participating outfitters and providers below** and book your adventure in advance. Charter fishing and ATVing, in particular, fill up fast. It's best to book those before you head to Oregon's Adventure Coast. *Note: your Loot can be used toward the cost of an adventure or meal but may not cover the entire bill.*
-
-**3\. Check In & Get Your Loot**<br>When you arrive, you’ll receive a **Local Vacation Loot** package at check-in—everything you need to start exploring.
-
-**4\. Your Local Vacation Loot Includes:**
-
-* Two $50 coupons (one per person) to use toward select charter fishing, ATV rentals, kayak rentals, or dining
-* Two passes to a participating museum (choose one of three local museums)
-* 20% off one item at the Coos Bay Visitor Information Center or the North Bend Visitor Information Center
-
-***Note: adventure excursions may be cancelled due to no fault of the provider, due to inclement weather, small craft advisories, and other issues beyond the control of either the provider or the hotel. Refunds will not be provided on hotel stays if adventures are cancelled and guest decides to leave early. Vouchers are good through March 31, 2026.***
-
-{{< spacer "30" >}}
+**Book by July 31 for stays June 1 – September 20.** Participating hotels fill up fast — book as early as possible. Limited packages available. Blackout dates may apply.
 
 ![Partner Hotels Header](/img/participating-hotels-header-695x125-1.jpg)
 
-*Hotel properties participating in this promotion may fill up quickly. Book as far in advance as possible. Blackout dates may apply. Note: Ko-Kwel Casino Resort \| Coos Bay and the Best Western Holiday Hotel Blackout Dates are March 4-7, 2026.*
+*Hotel properties participating in this promotion may fill up quickly. Book as far in advance as possible. Blackout dates may apply.*
 
-{{< columns number="3" >}}**Best Western Holiday Hotel**<br>411 N. Bayshore Drive<br>Coos Bay, OR 97420<br>**541-269-5111**<br>[Visit Our Website](https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html)
+{{< columns number="2" >}}**Best Western Holiday Hotel**<br>411 N. Bayshore Drive<br>Coos Bay, OR 97420<br>**541-269-5111**<br>[Visit Our Website](https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html)
 
 **Captain John's Motel**<br>63360 Kingfisher Drive<br>Charleston, OR 97420<br>**541-888-4041**<br>[Visit Our Website](https://capitanjohnsmotel.wixsite.com/captjohnsmotel)
 
 **Edgewater Inn**<br>275 E. Johnson Avenue<br>Coos Bay, OR 97420<br>**541-267-0423**<br>[Visit Our Website](https://www.choicehotels.com/en-ca/oregon/coos-bay/choice-hotels/or339)
 
-divider
-
 **Global Inn**<br>1001 N. Bayshore Drive<br>Coos Bay, OR 97420<br>**541-808-0700**<br>[Visit Our Website](https://www.globalinnhotelcoosbay.com/)
+
+divider
 
 **Itty Bitty Inn**<br>1504 Sherman Avenue<br>North Bend, OR 97459<br>**541-756-6398**<br>[Visit Our Website](https://ittybittyinn.com)
 
-**Ko-Kwel Casino Resort \| Coos Bay**<br>3201 Tremont Avenue<br>North Bend, OR 97459<br>**541-756-8800**<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay/) divider
+**Ko-Kwel Casino Resort \| Coos Bay**<br>3201 Tremont Avenue<br>North Bend, OR 97459<br>**Call Hotel Directly: 541-756-8800 - Mention Code GAS75**<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay/) 
 
-**Motel 6 \| Coos Bay**<br>1445 N. Bayshore Drive<br>Coos Bay, OR 97420<br>**541-267-7171**<br>[Visit Our Website](https://www.motel6.com/property/motel-coos-bay-oregon-us-294535/)
+**Motel 6 \| Coos Bay**<br>1445 N. Bayshore Drive<br>Coos Bay, OR 97420<br>**Call Hotel Directly 541-267-7171**<br>[Visit Our Website](https://www.motel6.com/property/motel-coos-bay-oregon-us-294535/)
 
 **Quality Inn & Suites at Coos Bay**<br>1503 Virginia Avenue<br>North Bend, OR 97459<br>**541-756-3191 Option \#2**<br>[Visit Our Website](https://www.coosbayinn.com/){{< /columns >}}
