@@ -29,7 +29,11 @@ Whether you've been here before or you're making the trip for the first time, **
 
 {{< columns number="2" >}}### **Bay Point Landing**
 
-*Only valid for Cabins or Airstreams.*<br>92443 Cape Arago Highway<br>Charleston, OR 97420<br>**Call Property Directly:<br>541-351-9160<br>Mention Code: GAS75**<br>[Visit Our Website](https://www.baypointlanding.com)
+*Only valid for Cabins or Airstreams.*<br>92443 Cape Arago Highway<br>Charleston, OR 97420
+
+> **Call Property Directly:<br>541-351-9160<br>Mention Code: GAS75**
+
+[Visit Our Website](https://www.baypointlanding.com)
 
 **Best Western Holiday Hotel**<br>411 N. Bayshore Drive<br>Coos Bay, OR 97420<br>**541-269-5111**<br>[Visit Our Website](https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html)
 
