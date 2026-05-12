@@ -25,7 +25,7 @@ Whether you've been here before or you're making the trip for the first time, **
 
 ![Partner Hotels Header](/img/participating-hotels-header-695x125-1.jpg)
 
-*Hotel properties participating in this promotion may fill up quickly. Book as far in advance as possible. Blackout dates may apply.*
+*Hotel properties participating in this promotion may fill up quickly. Book as far in advance as possible. Limited supply.*
 
 {{< columns number="2" >}}### **Bay Point Landing**
 
