@@ -28,7 +28,7 @@ warning: false
 ---
 **Oregon's Adventure Coast: Coos Bay, North Bend, and Charleston** is known as a destination to slow down, get outside, and reconnect with nature. What people don't always know is that this stretch of the Southern Oregon Coast happens to be one of the best birding destinations in the state, whether you've been at it for decades or have never picked up a pair of binoculars in your life.
 
-We've got estuaries, old-growth forests, sea cliffs, mudflats, and one of the[<u>largest marine mammal haulouts on the West Coast</u>](https://shoreacres.net/about-us/simpson-reef-and-shell-island/), all packed into a pretty small geography. With habitat variety like that, the birds tend to notice.
+We've got estuaries, old-growth forests, sea cliffs, mudflats, and one of the [<u>largest marine mammal haulouts on the West Coast</u>](https://shoreacres.net/about-us/simpson-reef-and-shell-island/), all packed into a pretty small geography. With habitat variety like that, the birds tend to notice.
 
 ![A pair of harlequin ducks resting on a coastal rock, with sea stacks and ocean waves blurred in the background.](/img/harlequin-duck-00460.jpg)
 
