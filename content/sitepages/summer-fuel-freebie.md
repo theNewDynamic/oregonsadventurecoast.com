@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Summer Fuel Freebie
+title: $75 Summer Fuel Freebie
 draft: false
 url: /fuel
 layout: adventure-sidebar
