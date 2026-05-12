@@ -4,7 +4,7 @@ title: Summer Fuel Freebie
 draft: false
 url: /fuel
 layout: adventure-sidebar
-photo: /img/kayker-local-adventure-loot-2048x531.jpg
+photo: /img/summer-fuel-header-2048x530.jpg
 ---
 ![van bus at ocean side with sunshine in background](/img/sff-page-header-1400-650.jpg)
 
@@ -37,7 +37,7 @@ divider
 
 **Itty Bitty Inn**<br>1504 Sherman Avenue<br>North Bend, OR 97459<br>**541-756-6398**<br>[Visit Our Website](https://ittybittyinn.com)
 
-**Ko-Kwel Casino Resort \| Coos Bay**<br>3201 Tremont Avenue<br>North Bend, OR 97459<br>**Call Hotel Directly: 541-756-8800 - Mention Code GAS75**<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay/) 
+**Ko-Kwel Casino Resort \| Coos Bay**<br>3201 Tremont Avenue<br>North Bend, OR 97459<br>**Call Hotel Directly: 541-756-8800 - Mention Code GAS75**<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay/)
 
 **Motel 6 \| Coos Bay**<br>1445 N. Bayshore Drive<br>Coos Bay, OR 97420<br>**Call Hotel Directly 541-267-7171**<br>[Visit Our Website](https://www.motel6.com/property/motel-coos-bay-oregon-us-294535/)
 
