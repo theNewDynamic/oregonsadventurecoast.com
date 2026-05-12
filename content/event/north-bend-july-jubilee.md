@@ -42,7 +42,7 @@ date: '2019-02-10T00:00:00.000+00:00'
 #### &nbsp;Saturday, July 18
 
 * 8:00 AM-3:00 PM I **Show 'n Shine: Mustang & Ford Club** - Car show at North Bend Lanes
-* 8:00-10:00 AM I **July Jubilee Jaunt** - Sponsored by Juul Insurance - 5K Run/Walk from the Boardwalk to Grant Circle - Registration Coming Soon
+* 8:00-10:00 AM I **July Jubilee Jaunt** - Sponsored by Juul Insurance - 5K Run/Walk from the Boardwalk to Grant Circle - [Registration at this link](https://docs.google.com/forms/d/e/1FAIpQLSdnDWap5OonJptCgNpivkNQyqM6IYwiVKbmEpvltM4dDzMAVw/viewform)
 * 10:00 AM-3:00 PM I **Disc Golf Tournament** At Windsor & Ferry Park Course
 * 10:00 AM-4:00 PM I **GAME ON!** Family Activities & South Coast Market At Pony Village Mall
 * 11:00 AM - 1:00 PM I **FREE Kids Bowling!** (Ages 2-15) - North Bend Lanes
