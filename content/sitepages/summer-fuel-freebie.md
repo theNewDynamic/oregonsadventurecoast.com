@@ -14,6 +14,10 @@ Whether you've been here before or you're making the trip for the first time, **
 
 {{< spacer "30" >}}
 
+![Fishing, Dunes, Kayaker and eating burger](/img/photo-collage-4up-695x166.jpg)
+
+{{< spacer "30" >}}
+
 ## How it works
 
 1. **Call to Book:** Call any participating hotel directly at the local phone number listed below and reserve a minimum two-night stay. When you call, mention our **$75 Summer Fuel Freebie**. *(Online bookings are not eligible — you must call the hotel front desk directly to book.)*
