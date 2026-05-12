@@ -71,4 +71,4 @@ divider
 
 ### Sun Outdoors
 
-Valid Only for Cabins.<br>90281 Cape Arago Highway<br>Charleston, OR 97420<br>**Call Property Directly:**<br>**541-888-2598<br>Mention Code: GAS75**<br>[Visit Our Website](https://www.sunoutdoors.com/oregon/sun-outdoors-coos-bay){{< /columns >}}
+*Valid Only for Cabins.*<br>90281 Cape Arago Highway<br>Charleston, OR 97420<br>**Call Property Directly:**<br>**541-888-2598<br>Mention Code: GAS75**<br>[Visit Our Website](https://www.sunoutdoors.com/oregon/sun-outdoors-coos-bay){{< /columns >}}
