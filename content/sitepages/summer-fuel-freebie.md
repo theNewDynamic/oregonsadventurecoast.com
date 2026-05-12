@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Summer Fuel Freebie
+title: $75 Summer Fuel Freebie
 draft: false
 url: /fuel
 layout: adventure-sidebar
@@ -11,6 +11,10 @@ photo: /img/summer-fuel-header-2048x530.jpg
 ## Drive. Stay Two Nights. Pocket $75.
 
 Whether you've been here before or you're making the trip for the first time, **Oregon's Adventure Coast** is worth the drive — and now we're helping cover it. Book two nights directly with a participating hotel and we'll send you home with a **$75 VISA gift card**. Simple as that!
+
+{{< spacer "30" >}}
+
+![Fishing, Dunes, Kayaker and eating burger](/img/photo-collage-4up-695x166.jpg)
 
 {{< spacer "30" >}}
 
