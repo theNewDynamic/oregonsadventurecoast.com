@@ -57,10 +57,18 @@ divider
 
 1504 Sherman Avenue<br>North Bend, OR 97459<br>**Call Inn Directly:**<br>**541-756-6398<br>Mention Code: GAS75**<br>[Visit Our Website](https://ittybittyinn.com)
 
-**Ko-Kwel Casino Resort \| Coos Bay**<br>3201 Tremont Avenue<br>North Bend, OR 97459<br>**Call Resort Directly:<br>541-756-8800<br>Mention Code: GAS75**<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay/)
+### Ko-Kwel Casino Resort \| Coos Bay
 
-**Quality Inn & Suites at Coos Bay**<br>1503 Virginia Avenue<br>North Bend, OR 97459<br>**Call Inn & Suites Directly:**<br>**541-756-3191 Option \#2<br>Mention Code: LGAS**<br>[Visit Our Website](https://www.coosbayinn.com/)
+3201 Tremont Avenue<br>North Bend, OR 97459<br>**Call Resort Directly:<br>541-756-8800<br>Mention Code: GAS75**<br>[Visit Our Website](https://www.kokwelresorts.com/coos-bay/)
 
-**Red Lion Hotel - Coos Bay**<br>1313 N. Bayshore Drive<br>Coos Bay, OR 97420<br>**Call Hotel Directly:**<br>**541-267-4141<br>Mention Code: GAS75**<br>[Visit Our Website](https://www.sonesta.com/red-lion-hotels/or/coos-bay/red-lion-hotel-coos-bay)
+### Quality Inn & Suites at Coos Bay
 
-**Sun Outdoors**<br>Valid Only for Cabins.<br>90281 Cape Arago Highway<br>Charleston, OR 97420<br>**Call Property Directly:**<br>**541-888-2598<br>Mention Code: GAS75**<br>[Visit Our Website](https://www.sunoutdoors.com/oregon/sun-outdoors-coos-bay){{< /columns >}}
+1503 Virginia Avenue<br>North Bend, OR 97459<br>**Call Inn & Suites Directly:**<br>**541-756-3191 Option \#2<br>Mention Code: LGAS**<br>[Visit Our Website](https://www.coosbayinn.com/)
+
+### Red Lion Hotel - Coos Bay
+
+1313 N. Bayshore Drive<br>Coos Bay, OR 97420<br>**Call Hotel Directly:**<br>**541-267-4141<br>Mention Code: GAS75**<br>[Visit Our Website](https://www.sonesta.com/red-lion-hotels/or/coos-bay/red-lion-hotel-coos-bay)
+
+### Sun Outdoors
+
+Valid Only for Cabins.<br>90281 Cape Arago Highway<br>Charleston, OR 97420<br>**Call Property Directly:**<br>**541-888-2598<br>Mention Code: GAS75**<br>[Visit Our Website](https://www.sunoutdoors.com/oregon/sun-outdoors-coos-bay){{< /columns >}}
