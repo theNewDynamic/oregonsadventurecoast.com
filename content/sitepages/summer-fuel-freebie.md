@@ -10,7 +10,7 @@ photo: /img/summer-fuel-header-2048x530.jpg
 
 ## Drive. Stay Two Nights. Pocket $75.
 
-Whether you've been here before or you're making the trip for the first time, **Oregon's Adventure Coast** is worth the drive — and now we're helping cover the trip. Book two nights directly with a participating hotel and we'll send you home with a **$75 VISA gift card**. Simple as that!
+Whether you've been here before or you're making the trip for the first time, **Oregon's Adventure Coast** is worth the drive — and now we're helping cover the trip. Book two nights directly with a participating lodging property and we'll send you home with a **$75 VISA gift card** to help offset the cost of your travel. Simple as that!
 
 {{< spacer "30" >}}
 
@@ -20,16 +20,16 @@ Whether you've been here before or you're making the trip for the first time, **
 
 ## How it works
 
-1. **Call to Book:**<br>Call any participating hotel directly at the local phone number listed below and reserve a minimum two-night stay. When you call for the **$75 Summer Fuel Freebie** promotion, mention the code associated with that property. *(Online bookings are not eligible — you must call the hotel front desk directly to book.)<br>*
+1. **Call to Book:**<br>Call any participating lodging property directly at the local phone number listed below and reserve a minimum two-night stay. When you call for the **$75 Summer Fuel Freebie** promotion, mention the code associated with that property. *(Online bookings are not eligible — you must call the property front desk directly to book.)<br>*
 2. **Check In & Pick Up Your Card**<br>When you arrive, your **$75 VISA gift card** will be ready and waiting. That's it.
 
-**Book by July 31, 2026 for stays June 1 – September 20, 2026.** Participating hotels fill up fast — book as early as possible. A limited supply of VISA gift cards are available.
+**Book by July 31, 2026 for stays June 1 – September 20, 2026.** Participating lodging properties may fill up quickly — book as early as possible. A limited supply of VISA gift cards are available.
 
 {{< spacer "40" >}}
 
 ![Partner Hotels Header](/img/participating-hotels-header-695x125-1.jpg)
 
-*Hotel properties participating in this promotion may fill up quickly. Book as far in advance as possible. Reservation must be made before July 31, 2026. A limited supply of VISA gift cards are available.*
+*Lodging properties participating in this promotion may fill up quickly. Book as far in advance as possible. Reservation must be made before July 31, 2026. A limited supply of VISA gift cards are available.*
 
 {{< columns number="2" >}}### Bay Point Landing
 
