@@ -47,17 +47,8 @@ And it's good for the rest of us, who could probably stand to be outside more th
 Birds turn up everywhere on Oregon’s Adventure Coast. We've had visitors spot rarities from their motel parking lot. But these are some of the places we recommend to avid birders visiting for the first time:
 
 * **South Slough National Estuarine Research Reserve.** Just south of Charleston, [South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/ss/pages/default.aspx) is about 5,000 acres of forest, saltwater marsh, freshwater wetland, and mudflat. Wander the wooded trails, and you'll likely run into Wrentits, Winter Wrens, Band-tailed Pigeons, Rufous Hummingbirds, Varied Thrushes, and Sharp-shinned Hawks. Head down to the boardwalk, and you might spot Great Egrets, Ospreys, White-tailed Kites, Buffleheads, and Bald Eagles. Stop in at the Interpretive Center for trail guides, bird checklists, and exhibits. They also run guided outings throughout the year, which we recommend if you're new and want someone to point out the highlights.
-
-  &nbsp;
-
 * **Millicoma Marsh** is the kind of unexpected, magical destination you'd never believe was minutes from downtown Coos Bay. The one-mile loop trail winds through cattail marsh, woodlands, and brambles, with flat, easy footing that makes it welcoming for all ages and abilities. Winter is a great season for birdwatching here. Watch for Swamp and White-throated Sparrows, Yellow-rumped Warblers, Golden-crowned Kinglets, Black Phoebes, and sometimes rare birds like Clay-colored or Harris's Sparrows. The freshwater marsh is home to Red-winged Blackbirds and Marsh Wrens, and in summer, nest boxes bring in Tree Swallows and Purple Martins. At dawn and dusk, you might spot Barn Owls flying low over the salt marsh. One tip before you head out: wear your rubber boots (wellies). The trail can get muddy.
-
-  &nbsp;
-
 * **Golden and Silver Falls State Natural Area.** Not to be confused with Silver Falls State Park near Salem, [Golden and Silver Falls State Natural Area](https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=67) **in Coos County** is one of our favorite hidden gems on Oregon’s South Coast. The drive is winding, and the last few miles are gravel, but you’ll be rewarded with a mossy, fern-filled forest, rushing creeks, and two beautiful waterfalls. The Oregon myrtles along Glenn and Silver Creeks attract Chestnut-backed Chickadees, Pacific-slope Flycatchers, Swainson's Thrushes, and Golden-crowned Kinglets. If you hike to the base of either waterfall, you might see American Dippers in the spray.
-
-  &nbsp;
-
 * **Charleston Marina.** A visit to the marina is almost always worth it. The small sandy beach near the [Oregon Department of Fish & Wildlife](https://www.fws.gov/) office (63538 Boat Basin Rd, Charleston, OR) is a great place to see gulls like Heermann's, Western, California, Glaucous-winged, Mew, and sometimes even Glaucous. Look out over the bay for Pelagic and Brandt's Cormorants, three types of loons, three types of scoters, Marbled Murrelets, and Long-tailed Ducks.
 
   &nbsp;
@@ -66,11 +57,7 @@ Birds turn up everywhere on Oregon’s Adventure Coast. We've had visitors spot 
 
 * **Sunset Bay, Shore Acres, and Cape Arago State Parks.** These [three state parks](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/) are connected by coastal hiking trails and make up one of the best birding routes on the Oregon coast.
   * **Sunset Bay** is a great place to see Western, Glaucous-winged, Mew, Ring-billed, and Bonaparte’s Gulls. The high sea cliffs protect the area from summer winds. In summer, Double-crested Cormorants nest in dead trees on a small island offshore. In winter, you might spot Marbled and Ancient Murrelets. Hiking trails connect Sunset Bay with Shore Acres and Cape Arago, taking you through rainforest and along ocean views. Watch for Black Oystercatchers, Surfbirds, Black Turnstones, Fox Sparrows, Hairy Woodpeckers, Chestnut-backed Chickadees, Steller’s Jays, and Winter Wrens.
-
-  &nbsp;
   * **Shore Acres State Park** combines a native spruce forest with the formal gardens of Louis Simpson’s old estate. The gardens attract Golden-crowned Kinglets, Cedar Waxwings, White-crowned Sparrows, Dark-eyed Juncos, and both Violet-green and Barn Swallows. Along the coast, look for Black, Surf, and White-winged Scoters, Black Oystercatchers, and Marbled Murrelets.
-
-  &nbsp;
   * **Cape Arago State Park sits** at the end of the road and overlooks Simpson Reef, Oregon’s largest gathering spot for seals and sea lions. The rocky shore attracts Harlequin Ducks, Pigeon Guillemots, Surfbirds, Black Turnstones, and sometimes Rock Sandpipers. From the viewing deck, you can also spot Common Murres and all three local cormorant species.
 
 ![A Steller's Jay with a black crest and vivid blue body perched on a bare branch in the forest.](/img/stellar-blue-jay-00272-1-1.jpg)
