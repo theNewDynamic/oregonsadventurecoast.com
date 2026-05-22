@@ -9,6 +9,12 @@ slideshow:
     url: /event/annual-bbq-blues-brews-on-the-bay/
     video:
   - title:
+    photo: /img/75-summer-fuel-freebie-home-slider-25-2048x850.jpg
+    title_mobile:
+    photo_mobile:
+    url: /fuel
+    video:
+  - title:
     photo: /img/cabin-fever-home-slider-2048x850.jpg
     title_mobile:
     photo_mobile:
