@@ -9,12 +9,6 @@ slideshow:
     url: /fuel
     video:
   - title:
-    photo: /img/cabin-fever-home-slider-2048x850.jpg
-    title_mobile:
-    photo_mobile:
-    url: /adventures
-    video:
-  - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
     title_mobile:
     photo_mobile:
