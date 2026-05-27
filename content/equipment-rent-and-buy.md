@@ -19,3 +19,8 @@ aliases:
 With so many options for adventure, you might need a little equipment to help you along the way. Here's a list of resources to help you get the most out of your time here.
 
 {{< spacer 30 >}}
+
+
+<div style="width:100%"><a href="/fuel"><img src="/img/sff-seagulls-2048x158-05-26.jpg" alt="Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston. Details online." style='height: 100%; width: 100%; object-fit: contain'/></a></div>
+
+{{< spacer 30 >}}
