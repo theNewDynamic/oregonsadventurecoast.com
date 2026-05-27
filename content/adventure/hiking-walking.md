@@ -91,6 +91,10 @@ We have a whole system of hiking trails in the immediate and surrounding area, b
 
 {{< spacer "30" >}}
 
+[![Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston.](/img/728x90-fuel-freebie-van-kids-05-26.jpg)](/fuel)
+
+{{< spacer "30" >}}
+
 {{< youtube id="4HPADFIXsNo" title="Explore Oregon's Adventure Coast - Hiking" >}}
 
 ## {{< spacer "30" >}}
@@ -107,7 +111,7 @@ Take Cape Arago Highway west from Charleston and you’ll find four miles of tra
 
 <div class="margin-50px-top">&nbsp;</div>
 
-![Golden &amp; Silver Falls State Natural Area on Oregon's Adventure Coast](/img/hiking-falls-woman-dog.jpg)
+![Golden  Silver Falls State Natural Area on Oregon's Adventure Coast](/img/hiking-falls-woman-dog.jpg)
 
 ## Golden & Silver Falls State Natural Area
 
