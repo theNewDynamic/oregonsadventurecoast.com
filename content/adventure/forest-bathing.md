@@ -93,7 +93,7 @@ divider
 
 {{< spacer 20 >}}
 
-{{< columns number="2" >}}![Frog Blossom - Medical Spa](https://frogblossom.com/)
+{{< columns number="2" >}}<img src="/img/beautiful-you-spa.jpg" alt="Frog Blossom - Medical Spa" height="220" width="345" />
 
 **Frog Blossom - Medical Spa**<br> 1554 Sherman Avenue<br> North Bend, OR, 97459<br> (530) 399-8092<br> <a href="https://frogblossom.com/" target="_blank" rel="noopener">frogblossom.com</a>
 
@@ -106,7 +106,5 @@ divider
 **Hair Co. Etc. - Salon & Day Spa**<br> 275 Golden Avenue<br> Coos Bay, OR 97420<br> (541) 269-5223<br> <a href="https://www.facebook.com/HairCoEtc/" target="_blank" rel="noopener">Facebook</a>
 
 Hair Co. Etc Salon & Day Spa offers Hair Treatments, Nail Treatments, Massage and Body Treatments in downtown Coos Bay on the beautiful Southern Oregon Coast.
-
-{{< spacer "15" >}}
 
 &nbsp;{{< /columns >}}
