@@ -25,3 +25,7 @@ accordion_sections:
 When you're in the mood to have someone else show the way, trust one of our many professionals to show you a great time. From chartered boats, planes and ATV tours, you'll be able to see Oregon's Adventure Coast from a local's point of view.
 
 {{< spacer 30 >}}
+
+<div style="width:100%"><a href="/fuel"><img src="/img/sff-seagulls-2048x158-05-26.jpg" alt="Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston. Details online." style='height: 100%; width: 100%; object-fit: contain'/></a></div>
+
+{{< spacer "30" >}}
