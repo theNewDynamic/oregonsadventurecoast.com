@@ -39,7 +39,7 @@ Additionally, the scenic beauty of our area offers a chance to practice mindfuln
 
 ## Massage, Yoga and More
 
-Take a yoga class at one of our many yoga studios. Get a massage, infusion, or other relaxing service at one of our two Day Spas – <a href="https://www.beautifulyou-pnw.net/" target="_blank" rel="noopener">Beautiful You Medi Spa</a> and [Hair Co. Etc - Salon & Day Spa](https://haircoetc.net/).
+Take a yoga class at one of our many yoga studios. Get a massage, infusion, or other relaxing service at one of our Day Spas – <a href="https://www.ivydriplounge.online/" target="_blank" rel="noopener">IVY Drip Lounge</a>, <a href="https://frogblossom.com/" target="_blank" rel="noopener">Frog Blossom</a>, and <a href="https://www.facebook.com/HairCoEtc/" target="_blank" rel="noopener">Hair Co. Etc - Salon &amp; Day Spa</a>.
 
 ## Healthy Eats
 
@@ -93,28 +93,20 @@ divider
 
 {{< spacer 20 >}}
 
-{{< columns number="2" >}}
+{{< columns number="2" >}}![Frog Blossom - Medical Spa](https://frogblossom.com/)
 
-![Beautiful You - Medical Spa](/img/beautiful-you-spa.jpg)
+**Frog Blossom - Medical Spa**<br> 1554 Sherman Avenue<br> North Bend, OR, 97459<br> (530) 399-8092<br> <a href="https://frogblossom.com/" target="_blank" rel="noopener">frogblossom.com</a>
 
-**Beautiful You - Medical Spa**<br>
-1280 N Bayshore Dr. Suite 101<br>
-Coos Bay, OR, 97420<br>
-(541) 297-7546<br>
-[www.beautifulyou-pnw.com](https://www.beautifulyou-pnw.com/)
-
-Beautiful You is a Medi Spa, which is a combination of an aesthetic medical center and a day spa that provides nonsurgical aesthetic medical services under the supervision of a licensed physician.
+At Frog Blossom, their mission is to enhance natural beauty through a unique and artistic approach that blends medical expertise with holistic care using thoughtful, minimally invasive treatments that support long-term wellness and confidence.
 
 divider
 
-![Hair Co. Etc. Salon & Day Spa woman getting massage](/img/hair-inc-etc-345x220.jpg)
+![Hair Co. Etc. Salon  Day Spa woman getting massage](/img/hair-inc-etc-345x220.jpg)
 
-**Hair Co. Etc. - Salon & Day Spa**<br>
-275 Golden Avenue<br>
-Coos Bay, OR 97420<br>
-(541) 269-5223<br>
-[haircoetc.net](https://haircoetc.net/ "https://haircoetc.net/")
+**Hair Co. Etc. - Salon & Day Spa**<br> 275 Golden Avenue<br> Coos Bay, OR 97420<br> (541) 269-5223<br> <a href="https://www.facebook.com/HairCoEtc/" target="_blank" rel="noopener">Facebook</a>
 
 Hair Co. Etc Salon & Day Spa offers Hair Treatments, Nail Treatments, Massage and Body Treatments in downtown Coos Bay on the beautiful Southern Oregon Coast.
 
-{{< /columns >}}
+{{< spacer "15" >}}
+
+&nbsp;{{< /columns >}}
