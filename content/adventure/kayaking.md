@@ -16,6 +16,10 @@ aliases:
 ---
 On Oregon's Adventure Coast, water activities abound, from kayaking, paddleboarding, scuba diving and surfing to world-class [fishing](/fishing), [crabbing](/crabbing-clamming) and [clamming](/clamming).
 
+&nbsp;
+
+[![Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston.](/img/728x90-fuel-freebie-family-05-26.jpg)](/fuel)
+
 ## Kayaking & Paddleboarding
 
 Getting out on the water in a self-propelled vessel is to truly connect to the surroundings. With a number of lakes, rivers, ocean bays, and estuaries, Oregon's south coast offers kayakers and paddleboarders of all skill levels with an abundance of options. For example, take a guided tour of the [**South Slough National Estuarine Research Reserve**](https://www.oregon.gov/dsl/SS/Pages/About.aspx), a protected area of land and estuary. Guided tours are offered by the Slough staff and [**local tour guides**](/tour-guides-and-charters). There are a variety of birds that utilize this beautiful area including Bald Eagles, Osprey, Great Blue Herons, Egrets and Belted Kingfishers. The tides are great in this estuary so we will plan to ride the ebbing and flowing tides to make this paddle a little easier.
