@@ -88,6 +88,10 @@ Come on in, the water’s warm (well, not really). But that is part of the charm
 
 Oregon’s Adventure Coast features the most versatile coastal destination on the Oregon Coast! There is much to love about visiting Oregon's Adventure Coast, but the miles and miles of beautiful, undeveloped beaches may be one of our greatest natural assets. The beaches on Oregon's South Coast are ideal for anyone searching for a quiet, undisturbed spot to watch the tide roll in and out. They are also perfect for those looking for a place to surf, swim, walk the dogs or search for hidden beach treasures.
 
+[![Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston.](/img/728x90-fuel-freebie-surfers-05-26.jpg)](/fuel)
+
+{{< spacer "30" >}}
+
 ![Surfers at Sunset Bay](/img/beaches-sunset-bay.jpg)
 
 Our pristine Pacific coastline offers so many different options. Visitors seeking a unique and personal experience can take their pick of terrain, vistas and privacy to connect with nature.

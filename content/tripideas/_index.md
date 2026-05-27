@@ -28,3 +28,7 @@ To help you get started discovering our exciting and exhilarating adventures, we
 Contact Oregon’s Adventure Coast with any questions you may have about things to do on your vacation!!
 
 {{< spacer 30 >}}
+
+[![Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston.](/img/728x90-fuel-freebie-family-05-26.jpg)](/fuel)
+
+{{< spacer "30" >}}
