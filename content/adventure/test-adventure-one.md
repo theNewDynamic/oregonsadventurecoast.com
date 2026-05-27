@@ -13,7 +13,7 @@ aliases:
   - /featured-adventures/atving-motorsports
   - /activities/category/atv-motorsports
 ---
-<div class="float-right-350px"><p><img alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast" width="100%" src="/img/atv-jump-cropped.jpg" /></p><p><img alt="Kids and Families ATVing on the Untamed Dunes near North Bend, Oregon" width="100%" src="/img/kids-dunes.jpg" /></p><img alt="Sand Buggy on the Dunes on Oregon's Adventure Coast" width="100%" src="/img/sandbuggy-cropped.jpg" /></div>
+<div class="float-right-350px"><p><img alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast" width="100%" src="/img/atv-jump-cropped.jpg"></p><p><img alt="Kids and Families ATVing on the Untamed Dunes near North Bend, Oregon" width="100%" src="/img/kids-dunes.jpg"></p><img alt="Sand Buggy on the Dunes on Oregon's Adventure Coast" width="100%" src="/img/sandbuggy-cropped.jpg"></div>
 
 Pulse-pounding adventure hides over and around every new dune on Oregon's Adventure Coast!
 
@@ -23,7 +23,11 @@ The [Oregon Dunes National Recreation Area](https://www.stateparks.com/oregon_du
 
 Zipping up and down the stunning Pacific Ocean beach dunes is a hair-raising good time that’s sure to be remembered for years to come. The dunes extend inland as much as two-and-a-half miles and are the perfect place to create unforgettable stories. The shifting, sand-sculpted nature of [The Dunes means every adventure is one of a kind here](https://www.stateparks.com/oregon_dunes.html).
 
-{{< spacer 50 >}}
+{{< spacer 30 >}}
+
+[![Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston.](/img/728x90-fuel-freebie-van-kids-05-26.jpg)](/fuel)
+
+{{< spacer "50" >}}
 
 {{< youtube id="x6Qro7ktN-w" >}}
 
@@ -49,7 +53,7 @@ Zipping up and down the stunning Pacific Ocean beach dunes is a hair-raising goo
 
 &nbsp;
 
-<div class="trip-idea-thumbnail"><img alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast" src="/img/ti-hiking-dunes-thumb-4pxline.jpg" /></div>
+<div class="trip-idea-thumbnail"><img alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast" src="/img/ti-hiking-dunes-thumb-4pxline.jpg"></div>
 
 &nbsp;
 
