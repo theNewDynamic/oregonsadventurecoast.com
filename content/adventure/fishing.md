@@ -18,6 +18,12 @@ When it comes to fishing in Oregon, opportunities are in no short supply – esp
 
 There are more than [30 freshwater lakes and rivers](/tripideas/fresh-water-fishing-options-by-body-of-water) to choose from in Coos County, as well as fantastic [bay and ocean fishing](/tripideas/saltwater-fishing-ocean-bay). And just as there are a wide variety of fish and fishing spots, so too are there lots of different ways to fish for them. Looking to paddle your kayak around a quiet fish-filled lake? We’ve got that. Want to cast a line for surfperch right off one of our beautiful beaches? No problem. Throw in a [crab pot](/crabbing-clamming/) or [dig for clams](/clamming/)? You got it. Thinking [charter boat fishing](/tour-guides-and-charters/) for tuna, rockfish, halibut or salmon? You’ll find that on Oregon’s Adventure Coast too.
 
+{{< spacer "30" >}}
+
+[![Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston.](/img/728x90-fuel-freebie-seagulls-05-26.jpg)](/fuel)
+
+{{< spacer "30" >}}
+
 {{< youtube id="mF-TeunOhms" >}}
 
 {{< spacer 20 >}}
@@ -42,7 +48,7 @@ According to Oregon fishing regulations, an Oregon fishing license is required f
 
 {{< spacer 20 >}}
 
-<a href="/img/fishing-rackcard.pdf" target="_blank" rel="noopener"><img alt="click to download our fishing information rack card " src="/img/fishing-rack-card-download-image.jpg" /></a>
+<a href="/img/fishing-rackcard.pdf" target="_blank" rel="noopener"><img alt="click to download our fishing information rack card " src="/img/fishing-rack-card-download-image.jpg"></a>
 
 ![fishing months and seasons](/img/fishing-months-01.jpg)
 
