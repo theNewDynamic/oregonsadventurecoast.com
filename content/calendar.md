@@ -19,3 +19,8 @@ There’s something special about Oregon’s Adventure Coast that you won’t fi
 ## Find the Right Special Activity During Your Vacation to the Oregon Coast
 
 With plenty of opportunities to take in arts, culture, live music, athletics, and more, the Oregon Coast is an excellent destination for a getaway or vacation. Make the most of your visit by trying a few new activities, any time of year.<br>For major events and festivals, check out our featured events [here](/events).
+
+
+<div style="width:100%"><a href="/fuel"><img src="/img/sff-seagulls-2048x158-05-26.jpg" alt="Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston. Details online." style='height: 100%; width: 100%; object-fit: contain'/></a></div>
+
+{{< spacer 30 >}}
