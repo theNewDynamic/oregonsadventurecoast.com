@@ -117,7 +117,7 @@ Hair Co. Etc Salon & Day Spa offers Hair Treatments, Nail Treatments, Massage an
 
 {{< columns number="2" >}}
 
-![House of Asana - Yoga &amp; Classes](/img/house-of-asana-345x220.jpg)
+![IVY Drip Lounge Sign on wall with ivy and sconces.](/img/ivy-drip-lounge-345x220.jpg)
 
 **IVY Drip Lounge**<br>126 E Market Avenue<br>Coos Bay, OR 97420<br>(541)-808-0655<br>[www.ivydriplounge.online](https://www.ivydriplounge.online "https://www.ivydriplounge.online")
 
@@ -128,9 +128,3 @@ divider
 &nbsp;
 
 {{< /columns >}}
-
-
-
-
-
-
