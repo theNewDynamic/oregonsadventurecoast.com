@@ -77,7 +77,9 @@ Downtown Health and Fitness aims to provide a clean, safe, and helpful environme
 
 {{< spacer 20 >}}
 
-{{< columns number="2" >}}![House of Asana - Yoga &amp; Classes](/img/house-of-asana-345x220.jpg)
+{{< columns number="2" >}}
+
+![House of Asana - Yoga &amp; Classes](/img/house-of-asana-345x220.jpg)
 
 **House of Asana**<br>180 Central Avenue<br>Coos Bay, OR 97420<br>(541) 252-2434<br>[www.houseofasana.com](https://www.houseofasana.com/ "https://www.houseofasana.com/")
 
@@ -93,7 +95,9 @@ divider
 
 {{< spacer 20 >}}
 
-{{< columns number="2" >}}<img src="/img/beautiful-you-spa.jpg" alt="Frog Blossom - Medical Spa" height="220" width="345" />
+{{< columns number="2" >}}
+
+![Frog Blossom - Medical Spa](/img/beautiful-you-spa.jpg)
 
 **Frog Blossom - Medical Spa**<br> 1554 Sherman Avenue<br> North Bend, OR, 97459<br> (530) 399-8092<br> <a href="https://frogblossom.com/" target="_blank" rel="noopener">frogblossom.com</a>
 
@@ -107,4 +111,26 @@ divider
 
 Hair Co. Etc Salon & Day Spa offers Hair Treatments, Nail Treatments, Massage and Body Treatments in downtown Coos Bay on the beautiful Southern Oregon Coast.
 
-&nbsp;{{< /columns >}}
+{{< /columns >}}
+
+{{< spacer 20 >}}
+
+{{< columns number="2" >}}
+
+![House of Asana - Yoga &amp; Classes](/img/house-of-asana-345x220.jpg)
+
+**IVY Drip Lounge**<br>126 E Market Avenue<br>Coos Bay, OR 97420<br>(541)-808-0655<br>[www.ivydriplounge.online](https://www.ivydriplounge.online "https://www.ivydriplounge.online")
+
+IVY Drip Lounge provides hydration and vitamin support in a calm, welcoming space designed to help you reset and feel your best. The nurse-led team offers both walk-in availability and scheduled appointments to fit real life.
+
+divider
+
+&nbsp;
+
+{{< /columns >}}
+
+
+
+
+
+
