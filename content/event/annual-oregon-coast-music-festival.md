@@ -64,7 +64,7 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 {{< spacer "20" >}}
 
-{{< floatimage src="/img/gothardsisters340x214.jpg" float="left" alt="Members of Family Mystic" size="" >}}**Saturday, July 18 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>**The Gothard Sisters**<br>The Gothard Sisters blend Celtic, folk, world, classical and new age musical influences to life with violin, acoustic guitar, mandolin, bodhran, djembe, whistle and vocal harmonies, creating music that is “vivid, inspirational and captivating.” (Tim Carroll, Folk Words Review 2018)<br>**FREE**
+{{< floatimage src="/img/gothardsisters340x214.jpg" float="left" alt="Members of Family Mystic" size="" >}}**Saturday, July 18 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>**The Gothard Sisters**<br>The Gothard Sisters blend Celtic, folk, world, classical and new age musical influences to life with violin, acoustic guitar, mandolin, bodhran, djembe, whistle and vocal harmonies, creating music that is “vivid, inspirational and captivating.” (Tim Carroll, Folk Words Review 2018)<br>**FREE** *(Note: There is a $10 parking fee at Shore Acres; An annual State Park Pass accepted as well.)*
 
 {{< spacer "20" >}}
 
