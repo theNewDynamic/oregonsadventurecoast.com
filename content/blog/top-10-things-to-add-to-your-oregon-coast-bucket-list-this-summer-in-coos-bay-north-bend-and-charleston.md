@@ -1,8 +1,6 @@
 ---
 _schema: default
-title: >-
-  Top 10 Things to Add to Your Oregon Coast Bucket List This Summer in Coos Bay,
-  North Bend, and Charleston
+title: 'Top Ten Oregon''s Adventure Coast Summer Bucket List '
 draft: false
 date: 2026-06-11T00:00:00-07:00
 description: >-
