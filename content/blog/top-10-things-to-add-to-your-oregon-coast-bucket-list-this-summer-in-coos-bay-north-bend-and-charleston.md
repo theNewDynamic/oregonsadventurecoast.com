@@ -5,9 +5,85 @@ title: >-
   North Bend, and Charleston
 draft: false
 date: 2026-06-11T00:00:00-07:00
+description: >-
+  Oregon's Adventure Coast: Coos Bay, North Bend, Charleston offers the very
+  best of Pacific Northwest natural beauty, rich history, community festivals,
+  performing arts, and endless family-friendly adventures. Plus, visitors who
+  book qualifying 2-night or longer stays can receive a $75 VISA gift card to
+  help cover gas. Visit our $75 Summer Fuel Freebie page for full details. Here
+  are some adventures to add to your Summer Bucket List!
 image: /img/summer-bucket-list-oregon-s-adventure-coast-blog-1400-x-649.jpg
 tags:
   - Oregon Coast Festival
+  - Coos Bay
+  - North Bend
+  - Charleston Oregon
+  - Charleston Seafood Festival
+  - Oregon Coast Events
+  - community festivals
+  - performing arts
+  - family-friendly adventures
+  - $75 Summer Fuel Freebie
+  - Summer Bucket List
+  - Oregon Dunes
+  - Oregon Dunes National Recreation Area
+  - ATV
+  - kayaking
+  - stand-up paddleboarding
+  - surfing
+  - swimming
+  - Bastendorff Beach
+  - Horsfall Beach
+  - Sunset Bay State Park
+  - Oregon State Parks
+  - Cape Arago Highway
+  - Shore Acres State Park
+  - Cape Arago State Park
+  - sea lions
+  - seals
+  - Simpson Reef overlook
+  - Golden and Silver Falls
+  - hiking
+  - Mountain Biking
+  - Whiskey Run Mountain Bike Trails
+  - fishing
+  - forest bathing
+  - South Slough Reserve
+  - John Topits Park
+  - Coos Bay Farmers Market
+  - Coos Bay Visitor Center
+  - UTV TakeOver
+  - Coos Bay Downtown Wine Walk
+  - Independence Day Celebrations
+  - North Bend Main Street Summer Sip N' Stroll
+  - July Jubilee - North Bend
+  - Oregon Coast Food & Wine Celebration
+  - Food Truck Off - Ko-Kwel Casino Resort
+  - Annual Cruz The Coos
+  - Bay Area Fun Festival
+  - Marshfield Sun Printing Museum
+  - Coos Bay Shakespeare in the Park
+  - Bay Area Concert Band
+  - 48th Oregon Coast Music Festival
+  - Music on the Bay
+  - Blackberry Arts Festival
+  - 'In a Landscape: Classical Music Concert at Shore Acres State Park'
+  - Salmon Celebration
+  - Coos Sand ‘n Sea Quilters
+  - Coos Art Museum
+  - Coos History Museum
+  - Charleston Marine Life Center
+  - Egyptian Theatre Coos Bay
+  - Marshfield Pioneer Cemetery
+  - Oregon Coast Historic Railway Museum
+  - South Coast Running Club
+  - Steve Prefontaine
+  - Tour de Pre
+  - Special Olympics of Oregon
+  - Ride the Dirt Wave - Whiskey Run
+  - Circle the Bay 30K
+  - Sunset Bay Trail Runs
+  - Prefontaine Memorial Run
 warning: false
 ---
 #
@@ -16,7 +92,7 @@ warning: false
 
 **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston** features the very best of the Pacific Northwest natural beauty, a rich history, community festivals, performing arts, food, and more family-friendly adventures than we can list in one post…but we’ll try.
 
-​Oh, and if that isn’t reason enough,[<u>we are literally giving visitors who book qualifying 2-night or longer stays</u>](https://www.oregonsadventurecoast.com/blog/learn-how-to-get-75-for-qualifying-stays-on-oregon-s-adventure-coast/) a $75 VISA gift card to help fill their gas tank! *Applies only to participating lodging properties through September 20, 2026. Must call participating hotel directly to book by July 31, 2026 - visit our*[* * <u>$75 Summer Fuel Freebie page</u>](https://www.oregonsadventurecoast.com/fuel/) *for full details.*
+​Oh, and if that isn’t reason enough,[<u>we are literally giving visitors who book qualifying 2-night or longer stays</u>](https://www.oregonsadventurecoast.com/blog/learn-how-to-get-75-for-qualifying-stays-on-oregon-s-adventure-coast/) a $75 VISA gift card to help fill their gas tank! *Applies only to participating lodging properties through September 20, 2026. Must call participating hotel directly to book by July 31, 2026 - visit our*[\* \* <u>$75 Summer Fuel Freebie page</u>](https://www.oregonsadventurecoast.com/fuel/) *for full details.*
 
 ![A family of four enjoys a coastal trail among beach grasses with ocean views in the background. Text reads: Stay 2 Nights, $75 Summer Fuel Freebie. Details online. Book Your Stay Now. Oregon's Adventure Coast, Coos Bay, North Bend, Charleston.](/img/sff-social-family-1080x1080-05-26-1.jpg)
 
@@ -74,7 +150,7 @@ One of Oregon's highest-rated mountain biking destinations is right here on Oreg
 
 ![Two anglers in rain gear fish from a charter boat on a foggy morning off Oregon's Adventure Coast, with a second fishing vessel visible in the misty background.](/img/deep-sea-fishing-oregon-s-adventure-coast.jpg)
 
-With no less than[30 freshwater lakes and rivers](https://www.oregonsadventurecoast.com/tripideas/fresh-water-fishing-options-by-body-of-water) in Coos County alone, plus countless locations for[<u>bay and ocean fishing</u>](https://www.oregonsadventurecoast.com/tripideas/saltwater-fishing-ocean-bay), Oregon’s Adventure Coast is your[<u>gateway to premier Oregon Coast fishing</u>](https://www.oregonsadventurecoast.com/fishing/). Our[<u>local sporting goods stores</u>](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/) make it easy to[<u>gear up</u>](https://www.oregonsadventurecoast.com/blog/where-to-gear-up-for-adventure-on-oregon-s-adventure-coast/), offering rentals, licenses, and expert advice*. Remember: a license is required for fishing, crabbing, or clamming unless it is a designated Free Fishing Day.* Check with the[<u>Oregon Fish &amp; Wildlife Commission (ODFW)</u>](https://myodfw.com/fishing) for more information, and be sure to[<u>download our Fishing Information Rack Card here (PDF).</u>](https://www.oregonsadventurecoast.com/img/fishing-rackcard.pdf)
+With no less than[30 freshwater lakes and rivers](https://www.oregonsadventurecoast.com/tripideas/fresh-water-fishing-options-by-body-of-water) in Coos County alone, plus countless locations for[<u>bay and ocean fishing</u>](https://www.oregonsadventurecoast.com/tripideas/saltwater-fishing-ocean-bay), Oregon’s Adventure Coast is your[<u>gateway to premier Oregon Coast fishing</u>](https://www.oregonsadventurecoast.com/fishing/). Our[<u>local sporting goods stores</u>](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/) make it easy to[<u>gear up</u>](https://www.oregonsadventurecoast.com/blog/where-to-gear-up-for-adventure-on-oregon-s-adventure-coast/), offering rentals, licenses, and expert advice\*. Remember: a license is required for fishing, crabbing, or clamming unless it is a designated Free Fishing Day.\* Check with the[<u>Oregon Fish &amp; Wildlife Commission (ODFW)</u>](https://myodfw.com/fishing) for more information, and be sure to[<u>download our Fishing Information Rack Card here (PDF).</u>](https://www.oregonsadventurecoast.com/img/fishing-rackcard.pdf)
 
 Consider booking one of our local guides and charter fishing excursions, including the newer program: [Salty Sisters All Women Tuna Adventure](https://www.saltysistersfishing.com/albacore-tuna-adventure), designed to be welcoming, fun, and accessible for women of all experience levels!
 
@@ -133,7 +209,6 @@ Summer on Oregon's Adventure Coast means live music, a celebration of the arts, 
 * Sept. 12 -13 \*[Annual Salmon Celebration](https://www.oregonsadventurecoast.com/event/salmon-celebration/)
 * Sept. 17 \*[Music on the Bay - The Nikki Jones Band](https://www.facebook.com/musiconthebay)<u> </u>(Mingus Park)
 * Sept. 19 - 20[<u>Sea of Quilts Show by Coos Sand ‘n Sea Quilters</u>](https://coosbayquiltguild.com/)
-
 * Ongoing-[<u>Events &amp; Exhibits at the Coos Art Museum</u>](https://coosartmuseum.org/exhibitions/)
 * Ongoing-[<u>Events &amp; Exhibits at Coos History Museum</u>](https://cooshistory.org/)
 * Ongoing-[<u>Exhibits at the Charleston Marine Life Center</u>](https://cmlc.uoregon.edu/exhibits/)
