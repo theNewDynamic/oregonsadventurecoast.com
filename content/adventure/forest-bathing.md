@@ -77,17 +77,17 @@ Downtown Health and Fitness aims to provide a clean, safe, and helpful environme
 
 {{< spacer 20 >}}
 
+
+
 {{< columns number="2" >}}
 
-![House of Asana - Yoga &amp; Classes](/img/house-of-asana-345x220.jpg)
+![Group of women holding arms overhead in a low lunge during a yoga class at Bloom studio in Coos Bay.](/img/bloom-yoga-345x220.jpg)
 
-**House of Asana**<br>180 Central Avenue<br>Coos Bay, OR 97420<br>(541) 252-2434<br>[www.houseofasana.com](https://www.houseofasana.com/ "https://www.houseofasana.com/")
+**Bloom**<br>137 Hall Avenue<br>Coos Bay, OR 97420<br>[www.bloomcoosbay.com](https://www.bloomcoosbay.com/)
 
-House of Asana is home of a rebel yogi and fitness lover. They provide a range of classes from slow restorative yoga to fast-paced power yoga classes. Most of the classes are heated with infrared lights. They offer an unpretentious and results-oriented community that’s invested in your goals and success. Their core values are grit, authenticity, community, and compassion.
+A welcoming yoga and wellness studio focused on helping you move well. With approachable classes and a supportive atmosphere, all bodies and experience levels are encouraged to show up just as they are.
 
-divider
-
-&nbsp;{{< /columns >}}
+divider{{< /columns >}}
 
 {{< spacer 40 >}}
 
