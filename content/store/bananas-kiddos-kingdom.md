@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Bananas Kiddos Kingdom
+title: Bananas Kiddo Kingdom
 property_description: >-
   Bananas Kiddo Kingdom is an indoor play and party center offering safe, fun
   activities for children ages 6 months to 14 years, with play areas, events,
