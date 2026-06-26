@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Meetings, Conventions, Group Tour Planners
+title: Meetings, Conventions, Weddings, Group Tour Planners
 draft: false
 url: /meeting-planners
 layout: meeting-planners
@@ -18,7 +18,7 @@ aliases:
   - /group-travel/sports-facilities/southwestern-oregon-community-college
   - /groups
 ---
-![The Salmon Room at The Mill Casino • Hotel &amp; RV Park](/img/salmonroom-mill-casino.jpg)
+![The Salmon Room at Ko-Kwel Casino Resort | Coos Bay](/img/salmonroom-mill-casino.jpg)
 
 Thank you for having your gathering, meeting, wedding or group tour here. We know that you need to meet specific logistical items to have a successful event, such as hotel rooms, venue space, catering, access and support services, and more. To that end, rest assured that **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** has the ability to host small gatherings, of as few as 10, all the way up to large groups up to 500 people. We are here to assist you find the best activities, dining options, and experiences on our part of the Oregon coast.
 
