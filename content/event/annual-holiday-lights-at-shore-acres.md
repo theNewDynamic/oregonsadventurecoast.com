@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Annual Holiday Lights at Shore Acres
-startdate: '2025-11-27'
-enddate: '2025-12-31'
+startdate: '2026-11-26'
+enddate: '2026-12-31'
 address:
   city: Charleston
   state: OR
@@ -13,7 +13,7 @@ website: http://shoreacres.net/
 desktoptitle: Holiday Lights at Shore Acres
 mobiletitle: Shore Acres Holiday Lights
 hovertitle: Shore Acres Holiday Lights
-hoverdescription: It's the Brightest Event on the Oregon Coast!
+hoverdescription: A Holiday Tradition on the Oregon Coast!
 photo: /img/shore-acres-holiday-lights-header.jpg
 largeboxphoto: /img/holiday-lights-large.jpg
 mediumboxphoto: /img/holiday-lights-medium.jpg
@@ -27,7 +27,7 @@ aliases:
 
 ### **The brightest and most beautiful place on the Oregon Coast Shines**
 
-Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition **every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve** – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. **Admission is always free! However, parking at Shore Acres any time of the year is $10. Or Take the** [**Holiday Lights Shuttle**](/img/holiday-lights-shuttle-faq.pdf) **on Fridays, Saturdays or Sundays for free.**
+Holiday Lights are set to sparkle again on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** this season at Shore Acres State Park. Perched on the rugged cliffs overlooking the Pacific Ocean, Shore Acres State Park is famous for its beautiful 7-acre botanical gardens and Japanese lily pond. Visitors get a chance to stroll through this holiday tradition **every night from 4:30pm to 9:00pm, Thanksgiving through New Year's Eve** – including Christmas Eve and Christmas Day. It has become a real holiday tradition for the whole family. **Admission is always free! However, parking at Shore Acres any time of the year is $10. Or Take the** [**Holiday Lights Shuttle**](/img/holiday-lights-shuttle-faq.pdf) **on Fridays, Saturdays or Sundays for free.**
 
 ### <a class="learn-more-anywhere-btn" target="_blank" href="https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381">BOOK PARKING PASS NOW</a>
 
@@ -73,7 +73,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 {{< spacer 25 >}}
 
-***Important Park Pass Information:** If you have an annual park pass (12- or 24-month), the Oregon Pacific Coast Passport, a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $10 will be waived. **You still have to book online.**&nbsp;**You will need to present your event parking pass AND your special pass at the gate.***
+***Important Park Pass Information:** If you have an annual park pass (12- or 24-month), a current OR State Park camping confirmation that coincides with the date of event visit, or a special access pass (see website above for more info), the $10 will be waived. **You still have to book online.**&nbsp;**You will need to present your event parking pass AND your special pass at the gate.***
 
 *{{< spacer 50 >}}*
 
@@ -87,11 +87,11 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 <a href="/img/holiday-lights-shuttle-faq.pdf" target="_blank" rel="noopener"><strong>DOWNLOAD OUR FAQ</strong></a>
 
-**Every Friday, Saturday and Sunday evening** from Thanksgiving to New Year's Eve, plus the four holiday nights of Thanksgiving, Christmas Eve, Christmas and New Year's Eve, take the **FREE** shuttle from the Charleston Marina (parking lot at the corner of <a href="https://maps.app.goo.gl/noFi8BJ8hB6w2epb8" target="_blank" rel="noopener">Guano Rock Lane and Crossline Road</a> in the Marina) to Shore Acres State Park! Turn at the Fish Mural on Pacific Seafood's Building!
+**Every Friday, Saturday and Sunday evening** from Thanksgiving to New Year's Eve, plus the three holiday nights of Thanksgiving, Christmas Eve, and New Year's Eve, which all fall on Thursdays this year, take the **FREE** shuttle from the Charleston Marina (parking lot at the corner of <a href="https://maps.app.goo.gl/noFi8BJ8hB6w2epb8" target="_blank" rel="noopener">Guano Rock Lane and Crossline Road</a> in the Marina) to Shore Acres State Park! Turn at the Fish Mural on Pacific Seafood's Building!
 
 ![A mural of colorful fish adorn the outside of a warehouse building.](/img/img-1655.jpg "The Boys &amp; Girls Club created this colorful mural of fish and mammels!")
 
-**The Shuttle will run from approximately 4:15pm to 8:00pm FROM the Marina TO the Park and will return patrons to the Marina between 5:00pm and 9:00pm.** *NOTE: the last shuttle TO the park will depart at 8:10pm from the Marina. This is to give everyone a chance to see the lights before Shore Acres State Park closes at 9:00pm.*
+**The Shuttle will run from approximately 4:15pm to 8:00pm FROM the Marina TO the Park and will return patrons to the Marina between 5:00pm and 9:00pm.** *NOTE: the last shuttle TO the park will depart no later than 8:10pm from the Marina. This is to give everyone a chance to see the lights before Shore Acres State Park closes at 9:00pm.*
 
 *Note: if you are bringing small children, here is information on what is allowed on the shuttle buses: Infant carriers are ok.&nbsp; Strollers are ok if they can be folded up and stowed. No car seats allowed because they cannot be secured properly.*
 
@@ -101,7 +101,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 {{< spacer "25" >}}
 
-<a href="https://www.gibsrvsuperstore.com/" target="_blank" rel="noopener"><strong>Gib's RV Superstore</strong></a>**,** <a href="https://www.peakcu.org/" target="_blank" rel="noopener"><strong>PEAK Credit Union</strong></a>**,** <a href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html" target="_blank" rel="noopener"><strong>Best Western Coos Bay</strong></a>**,** <a href="https://harmonyhomecareonline.com/" target="_blank" rel="noopener"><strong>Harmony Homecare</strong></a>**,** <a href="https://www.threeriverscasino.com/coos-bay-casino" target="_blank" rel="noopener"><strong>Three Rivers Casino Coos Bay</strong></a>**,** <a href="https://www.pacificpower.net/" target="_blank" rel="noopener"><strong>Pacific Power</strong></a>**,** <a href="https://sause.com/locations/coos-bay/" target="_blank" rel="noopener"><strong>Sause Bros</strong></a>**,** <a href="https://www.oregonpacificbank.com/" target="_blank" rel="noopener"><strong>Oregon Pacific Bank</strong></a>**,** <a href="https://coosbaynorthbendrotary.org/rotary-coos-foundation/" target="_blank" rel="noopener"><strong>Coos Bay-North Bend Rotary Foundation</strong></a>**,** <a href="https://www.nwnatural.com/" target="_blank" rel="noopener"><strong>NW Natural</strong></a>**,** **and** <a href="https://www.englundmarine.com/" target="_blank" rel="noopener"><strong>Englund Marine</strong></a>**.**
+**(Information coming soon)**
 
 **And Special Thanks to the Bus Drivers of**
 
