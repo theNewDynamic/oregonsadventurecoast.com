@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Planning Your Meeting, Retreat, Reunion or Convention
+title: Planning Your Meeting, Retreat, Wedding, Reunion or Convention
 draft: false
 url: /mtg-planning-meeting-convention
 layout: meeting-planners-sub
@@ -14,6 +14,6 @@ To start, we’ve created some planning tools to help you get organized and host
 
 * [Things to consider when planning a Meeting or Convention](/img/things-to-consider.pdf)
 * [Conventions Checklist](/uploads/Convention-Checklist-04-23.pdf)
-* [Small Gatherings](/uploads/Small-Gathering-Checklist-04-23.pdf) Checklist *(Retreats & Family Reunions)*
+* [Small Gatherings](/uploads/Small-Gathering-Checklist-04-23.pdf) Checklist *(Weddings, Retreats & Family Reunions)*
 
 If you’d like more personalized help, e-mail us today at [info@oregonsadventurecoast.com](mailto:info@oregonsadventurecoast.com).
