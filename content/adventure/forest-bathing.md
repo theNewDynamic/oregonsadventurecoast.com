@@ -70,7 +70,7 @@ divider
 
 **Bridge to Healing**<br>1611 Virginia Ave, #212A<br>North Bend, OR 97459<br>(541) 362-4325<br>[www.bridgetohealingbowenwork.com](https://www.bridgetohealingbowenwork.com/)
 
-Bridge to Healing offers Bowenwork, a gentle yet effective alternative healing modality that relieves pain — from stiff necks and frozen shoulders to low back pain and sciatica — while also helping to balance internal systems and emotions. By stimulating the body's natural rest-and-restore response, Bowenwork supports your own capacity to heal.
+A gentle yet effective alternative healing practice specializing in Bowenwork — a soft tissue technique that relieves pain, from stiff necks and frozen shoulders to low back pain and sciatica, while supporting the body's own natural ability to heal.
 
 
 {{< /columns >}}
@@ -83,7 +83,7 @@ Bridge to Healing offers Bowenwork, a gentle yet effective alternative healing m
 
 **Center of Attention Massage and Yoga**<br> 161 Date Avenue <br>Coos Bay, OR 97420<br> (916) 251-6920<br> <a href="http://bit.ly/4mKFBMW" target="_blank" rel="noopener">Visit Our Facebook</a>
 
-The Center of Attention is a wellness-based, small boutique Yoga studio, offering Massage, Traditional Hatha Yoga, Yin Yoga, and Alignment Flow Yoga, Breathwork, Meditation, and Sound Bath events in a peaceful setting.
+A peaceful boutique wellness studio offering massage, Traditional Hatha, Yin, and Alignment Flow Yoga, along with Breathwork, Meditation, and Sound Bath events in a calm, supportive setting.
 
 divider
 
@@ -91,14 +91,15 @@ divider
 
 **Downtown Health & Fitness** <br>440 Central Avenue<br> Coos Bay, OR 97420<br> (541) 267-3948<br> [www.dhfitness.net](https://www.dhfitness.net)
 
-Downtown Health and Fitness aims to provide a clean, safe, and helpful environment. Offering a variety of group fitness classes, including yoga, chair yoga and gentle yoga, these classes are designed to accommodate all ages and fitness levels. The facility includes dressing rooms with lockers and showers. All areas are handicap accessible.{{< /columns >}}
+A clean, welcoming facility offering a variety of group fitness classes — including yoga, chair yoga, and gentle yoga — designed for all ages and fitness levels, with full amenities and handicap-accessible facilities throughout.
+{{< /columns >}}
 
 {{< columns number="2" >}}
 
 ![A practitioner administers a Reiki energy healing session with hands gently placed on a woman's head as she rests with eyes closed.](/img/reike-massage.jpg)
 
-**PuraVida Reiki**<br>1096 Virginia Ave<br>North Bend, OR 97459<br>(541) 297-3433 [www.puravidareiki.com](https://www.puravidareiki.com)
-PuraVida Reiki believes you are your own healer. Offering Reiki and Biofield Tuning, their holistic energy work provides gentle, restorative support for the physical, emotional, and mental body — helping you release deep patterns, ease life's transitions, and return to balance.
+**PuraVida Reiki**<br>1096 Virginia Ave<br>North Bend, OR 97459<br>(541) 297-3433<br>[www.puravidareiki.com](https://www.puravidareiki.com)
+A holistic energy healing practice offering Reiki and Biofield Tuning to support the physical, emotional, and mental body — helping you release what no longer serves you and return to a place of balance and well-being.
 divider
 {{< /columns >}}
 
