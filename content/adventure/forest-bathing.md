@@ -89,15 +89,18 @@ divider
 
 ![downtown health &amp; fitness in coos bay, oregon](/img/downtown-fitness-center.jpg)
 
-**Downtown Health & Fitness** <br>440 Central Avenue<br> Coos Bay, OR 97420<br> (541) 267-3948<br> [www.dhfitness.net](https://www.dhfitness.net/ "https://www.dhfitness.net/")
+**Downtown Health & Fitness** <br>440 Central Avenue<br> Coos Bay, OR 97420<br> (541) 267-3948<br> [www.dhfitness.net](https://www.dhfitness.net)
 
 Downtown Health and Fitness aims to provide a clean, safe, and helpful environment. Offering a variety of group fitness classes, including yoga, chair yoga and gentle yoga, these classes are designed to accommodate all ages and fitness levels. The facility includes dressing rooms with lockers and showers. All areas are handicap accessible.{{< /columns >}}
 
-
+{{< columns number="2" >}}
 
 ![A practitioner administers a Reiki energy healing session with hands gently placed on a woman's head as she rests with eyes closed.](/img/reike-massage.jpg)
 
-&nbsp;
+**PuraVida Reiki**<br>1096 Virginia Ave<br>North Bend, OR 97459<br>(541) 297-3433 [www.puravidareiki.com](https://www.puravidareiki.com)
+PuraVida Reiki believes you are your own healer. Offering Reiki and Biofield Tuning, their holistic energy work provides gentle, restorative support for the physical, emotional, and mental body — helping you release deep patterns, ease life's transitions, and return to balance.
+divider
+{{< /columns >}}
 
 {{< spacer 40 >}}
 
