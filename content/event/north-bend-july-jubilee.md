@@ -42,7 +42,7 @@ date: '2019-02-10T00:00:00.000+00:00'
 * 8:00 AM-2:00 PM I **Show 'n Shine: Mustang & Ford Club** - Car show at North Bend Lanes
 * 8:00 AM-10:00 AM I **July Jubilee Jaunt** - Sponsored by Juul Insurance - 5K Run/Walk from the Boardwalk to Grant Circle - [Registration at this link](https://docs.google.com/forms/d/e/1FAIpQLSdnDWap5OonJptCgNpivkNQyqM6IYwiVKbmEpvltM4dDzMAVw/viewform)
 * 10:30 AM Start Time I **Disc Golf Tournament** At Winsor & Ferry Park Course - <a href="https://docs.google.com/forms/d/e/1FAIpQLSeScWAYm_8ZJy8SxEUydR-0v5zXsKF0q9awk9snECE19kQJkA/viewform" target="_blank" rel="noopener">Register at this link</a>
-* 10:00 AM-4:00 PM I **GAME ON!** Family Activities & South Coast Market At Pony Village Mall
+* 10:00 AM-4:00 PM I **Jump into Jubilee!** Family Activities, Bounce House’s, Vendors, Face Painting, Balloon Drop, and more at Pony Village Mall
 * 6:00 PM Start Time I **Softball Game Fundraiser** - North Bend -vs- Coos Bay at Clyde Allen Field
 * 7:00-9:00 PM I **Little Ole Opry on the Bay** - Country Opry at The Liberty Theatre - <a href="https://ci.ovationtix.com/36014/production/1267012?performanceId=11772284" target="_blank" rel="noopener">Buy Tickets</a>
 
