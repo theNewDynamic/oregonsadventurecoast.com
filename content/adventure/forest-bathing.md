@@ -37,9 +37,6 @@ Additionally, the scenic beauty of our area offers a chance to practice mindfuln
 
 **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is a wonderful place for forest bathing, offering opportunities for both physical and mental wellness. Whether you prefer hiking, yoga, or simply sitting in a quiet spot, there is something for everyone in the natural beauty here. By taking the time to slow down, relax, and connect with nature, while disconnecting from the rest of the noise, you can improve your physical and mental health and experience the benefits of forest bathing.
 
-## Massage, Yoga and More
-
-Take a yoga class at one of our many yoga studios. Get a massage, infusion, or other relaxing service at one of our Day Spas – <a href="https://www.ivydriplounge.online/" target="_blank" rel="noopener">IVY Drip Lounge</a>, <a href="https://frogblossom.com/" target="_blank" rel="noopener">Frog Blossom</a>, and <a href="https://www.facebook.com/HairCoEtc/" target="_blank" rel="noopener">Hair Co. Etc - Salon &amp; Day Spa</a>.
 
 ## Healthy Eats
 
@@ -55,7 +52,28 @@ Bring a picnic lunch or have a healthy dinner at one of our Farm to Table eateri
 
 {{< spacer 40 >}}
 
-![yoga studios header](/img/yoga-studios-subheader-695x125.jpg)
+## Yoga Studios, Massage, Fitness & Wellness
+
+{{< spacer 20 >}}
+
+{{< columns number="2" >}}
+
+![Group of women holding arms overhead in a low lunge during a yoga class at Bloom studio in Coos Bay.](/img/bloom-yoga-345x220.jpg)
+
+**Bloom**<br>137 Hall Avenue<br>Coos Bay, OR 97420<br>[www.bloomcoosbay.com](https://www.bloomcoosbay.com/)
+
+A welcoming yoga and wellness studio focused on helping you move well. With approachable classes and a supportive atmosphere, all bodies and experience levels are encouraged to show up just as they are.
+
+divider
+
+![A practitioner performs a Bowenwork session with gentle hands-on soft tissue moves on a client's knee.](/img/bridge-to-healing-1400x947.jpg)
+
+**Bridge to Healing**<br>1611 Virginia Ave, #212A<br>North Bend, OR 97459<br>(541) 362-4325<br>[www.bridgetohealingbowenwork.com](https://www.bridgetohealingbowenwork.com/)
+
+Bridge to Healing offers Bowenwork, a gentle yet effective alternative healing modality that relieves pain — from stiff necks and frozen shoulders to low back pain and sciatica — while also helping to balance internal systems and emotions. By stimulating the body's natural rest-and-restore response, Bowenwork supports your own capacity to heal.
+
+
+{{< /columns >}}
 
 {{< spacer 20 >}}
 
@@ -75,19 +93,11 @@ divider
 
 Downtown Health and Fitness aims to provide a clean, safe, and helpful environment. Offering a variety of group fitness classes, including yoga, chair yoga and gentle yoga, these classes are designed to accommodate all ages and fitness levels. The facility includes dressing rooms with lockers and showers. All areas are handicap accessible.{{< /columns >}}
 
-{{< spacer 20 >}}
 
 
+![A practitioner administers a Reiki energy healing session with hands gently placed on a woman's head as she rests with eyes closed.](/img/reike-massage.jpg)
 
-{{< columns number="2" >}}
-
-![Group of women holding arms overhead in a low lunge during a yoga class at Bloom studio in Coos Bay.](/img/bloom-yoga-345x220.jpg)
-
-**Bloom**<br>137 Hall Avenue<br>Coos Bay, OR 97420<br>[www.bloomcoosbay.com](https://www.bloomcoosbay.com/)
-
-A welcoming yoga and wellness studio focused on helping you move well. With approachable classes and a supportive atmosphere, all bodies and experience levels are encouraged to show up just as they are.
-
-divider{{< /columns >}}
+&nbsp;
 
 {{< spacer 40 >}}
 
