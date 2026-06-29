@@ -99,6 +99,7 @@ A clean, welcoming facility offering a variety of group fitness classes — incl
 ![A practitioner administers a Reiki energy healing session with hands gently placed on a woman's head as she rests with eyes closed.](/img/reike-massage.jpg)
 
 **PuraVida Reiki**<br>1096 Virginia Ave<br>North Bend, OR 97459<br>(541) 297-3433<br>[www.puravidareiki.com](https://www.puravidareiki.com)
+
 A holistic energy healing practice offering Reiki and Biofield Tuning to support the physical, emotional, and mental body — helping you release what no longer serves you and return to a place of balance and well-being.
 divider
 {{< /columns >}}
