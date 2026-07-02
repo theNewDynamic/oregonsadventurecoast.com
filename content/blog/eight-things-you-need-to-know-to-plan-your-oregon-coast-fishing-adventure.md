@@ -68,53 +68,31 @@ You’ll have your choice of prime fishing spots to select from with more than [
 
 ### IN COOS BAY
 
-**COOS BAY BOARDWALK** *Salmon*
-Relatively easy bank fishing for fall Chinook and coho salmon from the boardwalk in downtown Coos Bay. Located at the foot of Anderson St. and Central Ave.
-Amenities: picnic
+**COOS BAY BOARDWALK** *Salmon* Relatively easy bank fishing for fall Chinook and coho salmon from the boardwalk in downtown Coos Bay. Located at the foot of Anderson St. and Central Ave. Amenities: picnic
 
-**DORA’S PLACE BOAT RAMP** *Salmon, shad*
-Boat ramp on lower Millicoma River about 1/4 mi. upriver from its confluence with South Coos River. Take Coos River Hwy 241 east out of Coos Bay. About 3 miles out of town, cross the green Chandler Bridge and continue up Coos River about 4 miles to Dora’s Place.
-Amenities: boat launch or ramp
+**DORA’S PLACE BOAT RAMP** *Salmon, shad* Boat ramp on lower Millicoma River about 1/4 mi. upriver from its confluence with South Coos River. Take Coos River Hwy 241 east out of Coos Bay. About 3 miles out of town, cross the green Chandler Bridge and continue up Coos River about 4 miles to Dora’s Place. Amenities: boat launch or ramp
 
-**EMPIRE BOAT RAMP & PIER** *Surfperch, crab, salmon*
-Fishing and crabbing pier, boat ramp and fish cleaning station. Located at the west end of Newmark Ave. in Coos Bay’s Empire District.
-Amenities: boat launch or ramp; picnic; restrooms
+**EMPIRE BOAT RAMP & PIER** *Surfperch, crab, salmon* Fishing and crabbing pier, boat ramp and fish cleaning station. Located at the west end of Newmark Ave. in Coos Bay’s Empire District. Amenities: boat launch or ramp; picnic; restrooms
 
-**EMPIRE LAKES** *Rainbow trout, bluegill, crappie, yellow perch, largemouth bass*
-Rainbow trout and warm water fishery in both Middle and Lower Empire lakes. The lakes are within John Topits City Park and have primitive gravel launches for canoes, kayaks and non-motorized boats. Paved trail system around the lakes. Two entrances off Newmark Ave. in Coos Bay near Southwestern Oregon Community College.
-Amenities: boat launch or ramp; picnic; restrooms
+**EMPIRE LAKES** *Rainbow trout, bluegill, crappie, yellow perch, largemouth bass* Rainbow trout and warm water fishery in both Middle and Lower Empire lakes. The lakes are within John Topits City Park and have primitive gravel launches for canoes, kayaks and non-motorized boats. Paved trail system around the lakes. Two entrances off Newmark Ave. in Coos Bay near Southwestern Oregon Community College. Amenities: boat launch or ramp; picnic; restrooms
 
-**MYRTLE TREE BOAT RAMP** *Salmon, shad*
-Take Coos River Hwy 241 east out of Coos Bay. Turn left to pass under the green Chandler Bridge and continue up the Coos River Hwy about 4 miles.
-Amenities: picnic; restrooms; campground
+**MYRTLE TREE BOAT RAMP** *Salmon, shad* Take Coos River Hwy 241 east out of Coos Bay. Turn left to pass under the green Chandler Bridge and continue up the Coos River Hwy about 4 miles. Amenities: picnic; restrooms; campground
 
-**ROOKE-HIGGINS BOAT RAMP** *Salmon, shad*
-Fall salmon and spring shad fishing in tidewater of Millicoma River. Take Coos River Hwy 241 east out of Coos Bay. Cross the green Chandler Bridge and continue up the Coos River and Millicoma River about 6 miles. Located next to Rooke-Higgins County Park.
-Amenities: boat launch or ramp; picnic; restrooms; campground
+**ROOKE-HIGGINS BOAT RAMP** *Salmon, shad* Fall salmon and spring shad fishing in tidewater of Millicoma River. Take Coos River Hwy 241 east out of Coos Bay. Cross the green Chandler Bridge and continue up the Coos River and Millicoma River about 6 miles. Located next to Rooke-Higgins County Park. Amenities: boat launch or ramp; picnic; restrooms; campground
 
 ### IN NORTH BEND
 
-**BUTTERFIELD LAKE** *Rainbow trout, bass, warmouth*
-Butterfield is the only area lake known to have warmouth, a small but aggressive panfish. Primitive, gravel launch for non-motorized watercraft. From North Bend, take Hwy 101 about 6 miles north to Riley Ranch County Park/Campground.
-Amenities: restrooms; picnic; campground
+**BUTTERFIELD LAKE** *Rainbow trout, bass, warmouth* Butterfield is the only area lake known to have warmouth, a small but aggressive panfish. Primitive, gravel launch for non-motorized watercraft. From North Bend, take Hwy 101 about 6 miles north to Riley Ranch County Park/Campground. Amenities: restrooms; picnic; campground
 
-**HORSFALL BEACH** *Surfperch*
-Beach fishing for redtail surfperch. From North Bend, take Hwy 101 north across the McCullough Bridge. Turn left onto Trans-Pacific Parkway to Horsfall Rd. in Oregon Dunes National Recreation Area. Go 2 miles to parking area. Hike over dunes to beach.
-Amenities: picnic; restrooms; campground; day use, fee, or parking pass required
+**HORSFALL BEACH** *Surfperch* Beach fishing for redtail surfperch. From North Bend, take Hwy 101 north across the McCullough Bridge. Turn left onto Trans-Pacific Parkway to Horsfall Rd. in Oregon Dunes National Recreation Area. Go 2 miles to parking area. Hike over dunes to beach. Amenities: picnic; restrooms; campground; day use, fee, or parking pass required
 
-**SAUNDERS LAKE** *Rainbow trout, bluegill, largemouth bass*
-Rainbow trout and warm water fishing. From North Bend, take Hwy 101 north about 7 miles to Jack Ripper County Park.
-Amenities: boat launch or ramp; picnic; restrooms
+**SAUNDERS LAKE** *Rainbow trout, bluegill, largemouth bass* Rainbow trout and warm water fishing. From North Bend, take Hwy 101 north about 7 miles to Jack Ripper County Park. Amenities: boat launch or ramp; picnic; restrooms
 
 ### **IN CHARLESTON**
 
-**BASTENDORFF BEACH/SOUTH JETTY** *Surfperch, rockfish, razor clams*
-From Charleston, travel south on Cape Arago Hwy about 0.5 miles and turn right onto Coos Head Rd. to the beach. Surfperch fishing and razor clams on the beach. Surfperch, rockfish, and other marine fish can be caught off Coos Bay’s South Jetty.
-Amenities: restrooms
+**BASTENDORFF BEACH/SOUTH JETTY** *Surfperch, rockfish, razor clams* From Charleston, travel south on Cape Arago Hwy about 0.5 miles and turn right onto Coos Head Rd. to the beach. Surfperch fishing and razor clams on the beach. Surfperch, rockfish, and other marine fish can be caught off Coos Bay’s South Jetty. Amenities: restrooms
 
-**CHARLESTON DOCKS** *Crab, baitfish, smelt, clamming*
-Recreational crabbing off docks in the Charleston Marina boat basin and docks just upstream and downstream of the Charleston Bridge. Jigging for baitfish and surf smelt available when these fish are “running.” Bay clam beds nearby.
-Amenities: boat launch or ramp; picnic; restrooms
+**CHARLESTON DOCKS** *Crab, baitfish, smelt, clamming* Recreational crabbing off docks in the Charleston Marina boat basin and docks just upstream and downstream of the Charleston Bridge. Jigging for baitfish and surf smelt available when these fish are “running.” Bay clam beds nearby. Amenities: boat launch or ramp; picnic; restrooms
 
 There are many other fishing destinations on this list, including several more in Coos County. [Click here](https://myodfw.com/articles/50-places-go-fishing-south-coast) to see the full list.
 
@@ -150,8 +128,7 @@ Look through these options and take the next step in planning your trip to the O
 
 ### IN CHARLESTON
 
-**Captain John's Motel- 63360 Kingfisher Drive 541-888-404**1
-*Located near the Charleston Marina, offers fish cleaning stations.*
+**Captain John's Motel- 63360 Kingfisher Drive 541-888-404**1 *Located near the Charleston Marina, offers fish cleaning stations.*
 
 **Charleston Harbor Inn- 63361 Kingfisher Rd- 541-888-1178 \| 877-888-1178** *Within walking distance of the Charleston Docks, boat parking available.*
 
@@ -171,17 +148,13 @@ We can’t wait to welcome you back to Oregon’s Adventure Coast: Coos Bay, Nor
 
 ### **More Trip Ideas & Inspiration**
 
-Crabbing & Clamming
-[Crabbing and Clamming](https://www.oregonsadventurecoast.com/tripideas/crabbing-and-clamming/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter) [Clamming on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/clamming/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter) [Crabbing on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/crabbing-clamming/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter) [Equipment Rent & Buy](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter)
+Crabbing & Clamming [Crabbing and Clamming](https://www.oregonsadventurecoast.com/tripideas/crabbing-and-clamming/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter) [Clamming on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/clamming/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter) [Crabbing on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/crabbing-clamming/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter) [Equipment Rent & Buy](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter)
 
-Kayak Fishing
-[Kayak Fishing 101 on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/tags/kayak-fishing-oregon-coast/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter) [Kayak Fishing On The South Coast](https://www.oregonsadventurecoast.com/tripideas/kayak-fishing-on-the-south-coast/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter)
+Kayak Fishing [Kayak Fishing 101 on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/tags/kayak-fishing-oregon-coast/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter) [Kayak Fishing On The South Coast](https://www.oregonsadventurecoast.com/tripideas/kayak-fishing-on-the-south-coast/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter)
 
-Winter Steelhead Fishing
-[Winter Steelhead Fishing Trip Idea](https://www.oregonsadventurecoast.com/blog/winter-steelhead-fishing-forecast-for-2019/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter)
+Winter Steelhead Fishing [Winter Steelhead Fishing Trip Idea](https://www.oregonsadventurecoast.com/blog/winter-steelhead-fishing-forecast-for-2019/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter)
 
-\---------<br>
-Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.
+\---------<br> Editor's Note: As the developments in Coronavirus (COVID-19) continue to unfold, please follow the direction from our public health authorities including the CDC, Oregon Health Authority, and Coos Health & Wellness to protect yourself, our community and our visitors.
 
 Face coverings are mandatory for all when inside a public space AND outdoors when 6 ft distancing cannot be maintained.
 
