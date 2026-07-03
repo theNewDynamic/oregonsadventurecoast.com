@@ -35,6 +35,8 @@ Fishing, crabbing, and clamming on [Oregon’s Adventure Coast: Coos Bay, North 
 
 Whether you want to fish by boat, by foot, by kayak, or by charter, there is a fishing adventure that is waiting for you on Oregon’s Adventure Coast!
 
+![A group of five anglers on a boat with fishing rods deployed, surrounded by fog and calm water](/img/oregon-fishing-adventure.jpg)
+
 If you have a competitive streak, from June through October each year, the Coquille River STEP Association and the Coquille Indian Tribe team up to put on a Smallmouth Bass Derby. Anglers who reel in a tagged smallmouth bass can win prizes ranging from $20 to $1,000! To get your catch scanned, stop by one of three locations: Sturdivant Park in Coquille on Saturdays (4–8 pm), the Myrtle Point Boat Ramp on Sundays (4–8 pm), or Pioneer House in Powers on Thursdays (4–8 pm).[<u>Visit the Facebook Page for More</u>](https://www.facebook.com/profile.php?id=100095005862094).
 
 Here are nine things you need to know as you plan your trip:
@@ -49,6 +51,8 @@ You don’t need a license to fish, crab, or clam anywhere in Oregon during desi
 
 **\#2 Current Fishing, Crabbing and Clamming Regulations.** This is very important as conditions and regulations often change in Oregon! Check with the [Oregon Department of Fish & Wildlife](https://myodfw.com/recreation-report/fishing-report/marine-zone) for the latest recreation reports and regulation updates for our region.
 
+![A family fishing together on a boat, with an adult helping a girl hold her fishing rod as another woman and child fish nearby, an American flag flying at the stern.](/img/fishing-on-southern-oregon-coast.jpg)
+
 **\#3- Current Conditions.** Tides and weather play a major role in when and where you can safely fish, crab, or clam. Always check the weather before heading out, and familiarize yourself with the tides by checking the following sites:
 
 * [Tides4Fishing.com - Times and Solunar Charts](https://tides4fishing.com/us/oregon/coos-bay)
@@ -56,7 +60,11 @@ You don’t need a license to fish, crab, or clam anywhere in Oregon during desi
 
 **\#4- Local Fishing Seasons.** There are fish for every season and an endless choice of prime fishing spots to select from. Follow our seasonal fishing guide below, or download this [Fishing Information Rack Card (PDF)](https://www.oregonsadventurecoast.com/img/fishing-rackcard.pdf) to keep track of what is in season.
 
+![Two women on a fishing boat smiling and holding up rockfish they caught, with a cloudy sky and ocean in the background.](/img/oregon-coast-fishing.jpg)
+
 **\#5- Best Fishing Spots.** You’ll have your choice of prime fishing spots to select from with more than [30 lakes and rivers](https://www.oregonsadventurecoast.com/tripideas/fresh-water-fishing-options-by-body-of-water) to choose from in Coos County, and endless [bay and ocean fishing](https://www.oregonsadventurecoast.com/tripideas/saltwater-fishing-ocean-bay) spots. Do you want [Fresh Water Fishing Options](https://www.oregonsadventurecoast.com/tripideas/fresh-water-fishing-options-by-body-of-water/) or [Saltwater Fishing – Ocean & Bay](https://www.oregonsadventurecoast.com/tripideas/saltwater-fishing-ocean-bay/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter)? Depending on what you want to catch, you can do both! Here are some local fishing spots recommended by the [Oregon Department of Fish & Wildlife (ODFW)](https://myodfw.com/articles/50-places-go-fishing-south-coast).
+
+![Silhouette of a person fishing from a pier at sunset, with a colorful orange and pink sky over the water.](/img/fishing-in-coos-bay-hollering-place.jpg)
 
 ### IN COOS BAY
 
@@ -64,27 +72,22 @@ You don’t need a license to fish, crab, or clam anywhere in Oregon during desi
   * Salmon
   * Relatively easy bank fishing for fall Chinook and coho salmon from the boardwalk in downtown Coos Bay. Located at the foot of Anderson St. and Central Ave.
   * Amenities: picnic
-
 * DORA’S PLACE BOAT RAMP
   * Salmon, shad
   * Boat ramp on lower Millicoma River about 1/4 mi. upriver from its confluence with South Coos River. Take Coos River Hwy 241 east out of Coos Bay. About 3 miles out of town, cross the green Chandler Bridge and continue up Coos River about 4 miles to Dora’s Place.
   * Amenities: boat launch or ramp
-
 * EMPIRE BOAT RAMP & PIER
   * Surfperch, crab, salmon
   * Fishing and crabbing pier, boat ramp and fish cleaning station. Located at the west end of Newmark Ave. in Coos Bay’s Empire District.
   * Amenities: boat launch or ramp; picnic; restrooms
-
 * EMPIRE LAKES
   * Rainbow trout, bluegill, crappie, yellow perch, largemouth bass
   * Rainbow trout and warm water fishery in both Middle and Lower Empire lakes. The lakes are within John Topits City Park and have primitive gravel launches for canoes, kayaks and non-motorized boats. Paved trail system around the lakes. Two entrances off Newmark Ave. in Coos Bay near Southwestern Oregon Community College.
   * Amenities: boat launch or ramp; picnic; restrooms
-
 * MYRTLE TREE BOAT RAMP
   * Salmon, shad
   * Take Coos River Hwy 241 east out of Coos Bay. Turn left to pass under the green Chandler Bridge and continue up the Coos River Hwy about 4 miles.
   * Amenities: picnic; restrooms; campground
-
 * ROOKE-HIGGINS BOAT RAMP
   * Salmon, shad
   * Fall salmon and spring shad fishing in tidewater of the Millicoma River. Take Coos River Hwy 241 east out of Coos Bay. Cross the green Chandler Bridge and continue up the Coos River and Millicoma River about 6 miles. Located next to Rooke-Higgins County Park.
@@ -96,12 +99,10 @@ You don’t need a license to fish, crab, or clam anywhere in Oregon during desi
   * *Rainbow trout, bass, warmouth*
   * Butterfield is the only area lake known to have warmouth, a small but aggressive panfish. Primitive, gravel launch for non-motorized watercraft. From North Bend, take Hwy 101 about 6 miles north to Riley Ranch County Park/Campground.
   * Amenities: restrooms; picnic; campground
-
 * **HORSFALL BEACH**
   * *Surfperch*
   * Beach fishing for redtail surfperch. From North Bend, take Hwy 101 north across the McCullough Bridge. Turn left onto Trans-Pacific Parkway to Horsfall Rd. in Oregon Dunes National Recreation Area. Go 2 miles to parking area. Hike over dunes to beach.
   * Amenities: picnic; restrooms; campground; day use, fee, or parking pass required
-
 * **SAUNDERS LAKE**
   * *Rainbow trout, bluegill, largemouth bass*
   * Rainbow trout and warm water fishing. From North Bend, take Hwy 101 north about 7 miles to Jack Ripper County Park.
@@ -113,7 +114,6 @@ You don’t need a license to fish, crab, or clam anywhere in Oregon during desi
   * *Surfperch, rockfish, razor clams*
   * From Charleston, travel south on Cape Arago Hwy about 0.5 miles and turn right onto Coos Head Rd. to the beach. Surfperch fishing and razor clams on the beach. Surfperch, rockfish, and other marine fish can be caught off Coos Bay’s South Jetty.
   * Amenities: restrooms
-
 * **CHARLESTON DOCKS**
   * *Crab, baitfish, smelt, clamming*
   * Recreational crabbing off docks in the Charleston Marina boat basin and docks just upstream and downstream of the Charleston Bridge. Jigging for baitfish and surf smelt available when these fish are “running.” Bay clam beds nearby.
@@ -122,6 +122,8 @@ You don’t need a license to fish, crab, or clam anywhere in Oregon during desi
 There are many other fishing destinations on this list, including several more in Coos County. [Click here](https://myodfw.com/articles/50-places-go-fishing-south-coast) to see the full list.
 
 **\#6- Where to Find Tour Guides & Charters.** When you’re in the mood to have someone else show the way, trust one of our many professionals to show you a great time. From chartered boats to ATV tours, you’ll be able to see Oregon’s Adventure Coast from a local’s point of view. See [Tour Guides & Charters](https://www.oregonsadventurecoast.com/tour-guides-and-charters/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter) for more information.
+
+![View from the back of a fishing boat with rods and colorful lures in the foreground, twin outboard motors churning white wake, and a marina with docked fishing boats in the distance under cloudy skies.](/img/fishing-oregon-coast.jpg)
 
 **\#7-Where to Buy or Rent the Equipment You’ll Need.** Not sure where to get a fishing rod, tackle, or bait? No problem. With so many options for adventure, you might need a little equipment to help you along the way. Here’s a list of resources to help you get the most out of your time here: [Equipment Rent & Buy](https://www.oregonsadventurecoast.com/equipment-rent-and-buy/?utm_source=adventure-february-2021&amp;utm_medium=mailchimp&amp;utm_campaign=cbnb-newsletter)
 
