@@ -2,7 +2,7 @@
 _schema: default
 title: Untamed Dunes
 url: /untamed-dunes
-photo: /img/dunes-subpage-hdr-2048x530.jpg
+photo: /img/dunes-new-header-2048x531.jpg
 seo:
   title: Oregon Coast Outdoor Activities - Untamed Dunes | Oregon's Adventure Coast
   description: >-
