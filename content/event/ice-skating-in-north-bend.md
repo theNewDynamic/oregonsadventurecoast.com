@@ -2,7 +2,7 @@
 _schema: default
 title: Ice Skating in North Bend!
 startdate: '2026-11-21'
-enddate: '2027-01-31'
+enddate: '2027-02-14'
 address:
   city: North Bend
   state: OR
