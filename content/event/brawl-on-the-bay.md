@@ -20,6 +20,8 @@ largeboxphoto: /img/brawl-1024x395.jpg
 mediumboxphoto: /img/brawl-667x355.jpg
 smallboxphoto: /img/brawl-340x214.jpg
 ---
+![Brawl on the Bay MMA event logo featuring two fighters in a cage match, with a raised fist graphic between the text.](/img/2608-brawl-on-the-bay-web.jpg "4th Annual Brawl on the Bay comes back to Ko-Kwel Casino Resort | Coos Bay")
+
 #### LIVE-ACTION MMA ON THE DOCK
 
 #### Brawl on the Bay <br>
