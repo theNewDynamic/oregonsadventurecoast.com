@@ -7,6 +7,22 @@ description: >-
   North Bend, Oregon, turns 123 this month, and to honor the occasion, let’s get
   to know the town that anchors the north end of Coos Bay!
 image: /img/north-bend-oregon-blog-1400-x-649-1.jpg
+tags:
+  - North Bend Oregon
+  - Oregon's Adventure Coast
+  - Oregon Coast Travel
+  - North Bend History
+  - Oregon Dunes National Recreation Area
+  - ATV & Motorsports
+  - Undeveloped Beaches
+  - Horsfall Beach
+  - North Bend Lodging
+  - $75 Summer Fuel Freebie
+  - Ko-Kwel Casino Resort
+  - North Bend Parks
+  - Downtown North Bend
+  - North Bend Restaurants
+  - Tribal Heritage
 warning: false
 ---
 ### ***North Bend, Oregon, turns 123 this month, and to honor the occasion, let’s get to know the town that anchors the north end of Coos Bay!***
