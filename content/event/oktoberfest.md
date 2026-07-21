@@ -30,7 +30,7 @@ smallboxphoto: /img/oktoberfest340x214.jpg
 
 This 21+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.facebook.com/roseburggermanband" target="_blank" rel="noopener"><strong>Roseburg German Band</strong></a>, a&nbsp;**Biergarten**,&nbsp;**German&nbsp;food, a silent auction, cake walk**&nbsp;and&nbsp;**Oktoberfest themed fun and games**!&nbsp;
 
-![Roseburg German Band in concert](/img/german-band.jpg "Roseburg German Band")
+![Men and women in German clothing playing a variety of musical instruments.](/img/german-band.jpg "Roseburg German Band")
 
 #### DATE/TIME
 
@@ -46,7 +46,7 @@ This 21+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.
 
 {{< spacer "10" >}}
 
-![Man in German garb holding pretzel](/img/oktoberfest-5194-pretzel.jpg "Good eats at Oktoberfest!")
+![Man in German garb holding pretzel in front of a photo of a german village.](/img/oktoberfest-5194-pretzel.jpg "Good eats at Oktoberfest!")
 
 #### {{< floatimage src="/img/oktoberfest-5236-beer.jpg" float="left" alt="Man holding beer stein" size="" >}}EVENT FEATURES
 
