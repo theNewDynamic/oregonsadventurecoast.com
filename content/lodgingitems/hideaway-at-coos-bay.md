@@ -5,7 +5,7 @@ property_description: >-
   This North Bend home is close to dunes, beaches, fishing charters and crabbing
   docks. It’s a friendly, practical space for families or small groups who want
   comfort after a day outdoors. Not suited for parties or late-night gatherings.
-  Walkable to coffee shops and Simpson Park.
+  Walkable to coffee shops and Simpson Park. This home sleeps 5 comfortably.
 photo_name: /img/hideaway.jpg
 photo_alt: >-
   Elevated view of a light blue two-story house with white trim, steep gabled
@@ -25,4 +25,7 @@ address:
   street2:
   zip:
 website: https://www.coosduneretreats.com/listings/462290
+coordinates:
+  lat: '43.4110743549329'
+  lng: '-124.22753637424546'
 ---
