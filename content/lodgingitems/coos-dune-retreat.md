@@ -26,4 +26,7 @@ address:
   street2:
   zip:
 website: https://www.coosduneretreats.com/listings/465483
+coordinates:
+  lat: '43.4145859463465'
+  lng: '-124.22054130308089'
 ---
