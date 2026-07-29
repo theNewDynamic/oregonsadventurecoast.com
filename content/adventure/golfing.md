@@ -18,12 +18,12 @@ For many, adventure means hitting the links.  And what better place to do that t
 
 {{< floatimage src="/img/golfing-jason-images.jpg" float="right" alt="Golfing on Oregon's Adventure Coast" size="100" >}}
 
-**Bandon Dunes Golf Resort, Bandon**<br> Nationally and internationally ranked courses. Built on a stretch of dunes, above the Pacific; designed by T. Doak, B. Coore, B. Crenshaw and D. M. Kidd in the links golf tradition.<br> {{< link url="http://www.bandondunesgolf.com" >}}www.bandondunesgolf.com{{< /link >}}
+**Bandon Dunes Golf Resort, Bandon**<br>Nationally and internationally ranked courses. Built on a stretch of dunes, above the Pacific; designed by T. Doak, B. Coore, B. Crenshaw and D. M. Kidd in the links golf tradition.<br> {{< link url="http://www.bandondunesgolf.com" >}}www.bandondunesgolf.com{{< /link >}}
 
 **Bandon Crossings Golf Course, Bandon**<br>18 hole, par 72 course. Follow natural contours of dunes through links land, over streams and into open coastal forest.<br>{{< link url="http://www.bandoncrossings.com" >}}www.bandoncrossings.com{{< /link >}}
 
-**Coos Golf Club, Coos Bay**<br> Known as the "Best Kept Secret on the Oregon Coast," Coos Golf Club, founded in 1923, offers golfers 18 unique and challenging holes in a beautiful setting.&nbsp; The facility also features a driving range, chipping area and two practice putting greens.<br> [http://coosgolfclub.com/](http://coosgolfclub.com/ "http://coosgolfclub.com/")
+**Coos Golf Club, Coos Bay**<br>Known as the "Best Kept Secret on the Oregon Coast," Coos Golf Club, founded in 1923, offers golfers 18 unique and challenging holes in a beautiful setting.&nbsp; The facility also features a driving range, chipping area and two practice putting greens.<br> [http://coosgolfclub.com/](http://coosgolfclub.com/ "http://coosgolfclub.com/")
 
-**Sunset Bay Golf Course, Charleston**<br> Professionally designed 12 hole, par 47 course; valley setting. Family friendly and welcoming everyone for a relaxed game of golf.<br> {{< link url="https://www.sunsetbaygolf.net/" >}}https://www.sunsetbaygolf.net{{< /link >}}
+**Sunset Bay Golf Course, Charleston**<br>Professionally designed 12 hole, par 47 course; valley setting. Family friendly and welcoming everyone for a relaxed game of golf.<br> {{< link url="https://www.sunsetbaygolf.net/" >}}https://www.sunsetbaygolf.net{{< /link >}}
 
 **FORE!**
