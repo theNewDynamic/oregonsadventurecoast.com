@@ -8,6 +8,7 @@ photo: /img/north-spit-panoramic-pg-header.jpg
 ---
 Welcome to our live camera views showcasing the stunning beauty of the Coos Bay, North Bend, and Charleston area. From the tranquil shores to the bustling harbors, our live cameras provide a real-time glimpse into the ever-changing beauty of these interconnected communities. Whether you're a local looking to stay connected or a virtual traveler seeking a taste of Oregon's Adventure Coast charm, these live camera feeds will transport you to the heart of Coos Bay, North Bend, and Charleston no matter where you are.
 
+**Charleston Marina - Live Cam**
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; overflow: hidden;">
   <iframe
     title="Coos Bay - Oregon's Adventure Coast Cam"
@@ -17,6 +18,8 @@ Welcome to our live camera views showcasing the stunning beauty of the Coos Bay,
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
   ></iframe>
 </div>
+
+{{< spacer 30 >}}
 
 {{< columns number="2" >}}
 [![California Street Boat Ramp](/img/nb_cam_california_street.jpg)](https://www.northbendoregon.us/pview.aspx?id=55013)
