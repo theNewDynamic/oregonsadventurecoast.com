@@ -2,7 +2,7 @@
 _schema: default
 title: Untamed Dunes
 url: /untamed-dunes
-photo: /img/dunes-subpage-hdr-2048x530.jpg
+photo: /img/dunes-new-header-2048x531.jpg
 seo:
   title: Oregon Coast Outdoor Activities - Untamed Dunes | Oregon's Adventure Coast
   description: >-
@@ -20,8 +20,6 @@ aliases:
 ## A DIFFERENT KIND OF WILDERNESS
 
 If you're looking for a really unique experience during your coastal vacation, make sure you check out our beach dunes!  We have the largest expanse of coastal sand dunes in North America; 40 miles in all. Some areas rise up to 500 feet, and extend 2.5 miles inland. This 32,186 acres of dunes, forest, streams and lakes were set aside as the Oregon Dunes National Recreation Area in 1972.
-
-[![ATV in dunes with $120 in Local Vacation Loot promotion](/img/lvl-dunes-695x179-01-26.jpg)](/loot)
 
 ### ATV & Motorsports
 

@@ -16,14 +16,14 @@ property_category:
 address:
   city: Coos Bay
   state: OR
-  street: 235 North Broadway
+  street: 134 South Broadway
   street2:
   zip: '97420'
 phone_local: (541) 808-2646
 website: https://www.blueskybikeshop.com
 coordinates:
-  lat: '43.36930186211556'
-  lng: '-124.21325560788296'
+  lat: '43.367660763132605'
+  lng: '-124.21290597427847'
 seo:
   title: Blue Sky Bike Shop
   description: >-

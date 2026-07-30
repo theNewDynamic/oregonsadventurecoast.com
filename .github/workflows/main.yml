@@ -1,8 +1,9 @@
 name: Trigger API Calls
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs twice a day around 6am and 6pm Pacific Time (~14:00 and 01:00 UTC)
+    - cron: '0 14 * * *'
+    - cron: '0 1 * * *'
 jobs:
   build:
     name: Trigger Production Build (clear cache)

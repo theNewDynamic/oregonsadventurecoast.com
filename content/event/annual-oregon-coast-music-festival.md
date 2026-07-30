@@ -52,17 +52,27 @@ You'll find a heady mix of classical and jazz art forms, taking place at venues 
 
 {{< floatimage src="/img/darrell-grant-1.jpg" float="left" alt="Musician Darrell Grant wearing African inspired shirt and blue hat." size="" >}}
 
-**Sunday, July 12 - 2:00-3:30pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**Darrell Grant: Songs for the Soul**<br>Darrell Grant is a creative artist who harnesses the power of music to create change. Whether through performing, composing, teaching, or organizing musical initiatives around community, sustainability or social justice, he seeks to leverage a deeper level of engagement and connection.<br>**Tickets $60**
+**Sunday, July 12 - 2:00-3:30pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**Darrell Grant: Songs for the Soul**<br>Darrell Grant is a creative artist who harnesses the power of music to create change. Whether through performing, composing, teaching, or organizing musical initiatives around community, sustainability or social justice, he seeks to leverage a deeper level of engagement and connection.<br>**Tickets $60** <a href="https://checkout.square.site/merchant/SJZJJSCY29RN4/checkout/RXSNYVZWIUWFRZUDYKMATWBD" target="_blank" rel="noopener"><strong>BUY TICKETS LINK</strong></a>
 
 {{< spacer "20" >}}
 
-**Wednesday, June 15 - 4:00pm**<br>Wildflour Public House, 1987 Sherman Avenue, North Bend<br>**A Taste of Jazz: Aaron Johnson and Friends**<br>Local favorite, Aaron Johnson, returns to OCMF for a special concert with friends at Wildflour Public House.
+**Wednesday, July 15 - 4:00pm**<br>Wildflour Public House, 1987 Sherman Avenue, North Bend<br>**A Taste of Jazz: Aaron Johnson and Friends**<br>Local favorite, Aaron Johnson, returns to OCMF for a special concert with friends at Wildflour Public House. **Reservations are kindly requested, with tables reserved for 90 minutes**. <a href="https://www.wildflourpub.com/reservations" target="_blank" rel="noopener"><strong>RESERVATION LINK</strong></a>
 
 {{< spacer "20" >}}
 
-{{< floatimage src="/img/gothardsisters340x214.jpg" float="left" alt="Members of Family Mystic" size="" >}}**Saturday, July 18 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>**The Gothard Sisters**<br>The Gothard Sisters blend Celtic, folk, world, classical and new age musical influences to life with violin, acoustic guitar, mandolin, bodhran, djembe, whistle and vocal harmonies, creating music that is “vivid, inspirational and captivating.” (Tim Carroll, Folk Words Review 2018)<br>**FREE**
+**Thursday, July 16 - 7pm**<br>Hales PAC Southwestern Oregon Community College<br>**Cello and Piano with Dace Gregory & Rachel Palen plus Swingin’ in the Rain Big Band**<br>World renowned Cellist, Dace Gregory, joins local pianist Rachel Palen for a night of beautiful music followed by a performance from local big band artists, Swingin' in the Rain.<br>**Tickets $20**
 
 {{< spacer "20" >}}
+
+{{< floatimage src="/img/gothardsisters340x214.jpg" float="left" alt="Members of Family Mystic" size="" >}}**Saturday, July 18 - Noon**<br>Shore Acres State Park Gardens, Charleston<br>**The Gothard Sisters**<br>The Gothard Sisters blend Celtic, folk, world, classical and new age musical influences to life with violin, acoustic guitar, mandolin, bodhran, djembe, whistle and vocal harmonies, creating music that is “vivid, inspirational and captivating.” (Tim Carroll, Folk Words Review 2018)<br>**FREE** *(Note: There is a $10 parking fee at Shore Acres; An annual State Park Pass accepted as well.)*
+
+{{< spacer "20" >}}
+
+{{< floatimage src="/img/horse-feathers.jpg" float="left" alt="Five-piece string band posing for a promotional photo. Two members stand in back holding a banjo and upright bass; two stand to the sides holding a fiddle and banjo. One member sits in front holding an acoustic guitar. All wear casual patterned clothing in front of a painted nature backdrop." size="" >}}**Sunday, July 19 - 2pm**<br>OIMB Boathouse, 63466 Boat Basin Rd, Charleston<br>**7-Devils Presents Horse Feathers at the Boathouse**<br>Horse Feathers is an indie-folk band based in Astoria, OR that has been bringing lush arrangements for 20 years. Fronted by Justin Ringle, the band has gone through several transformations during that time, and has developed a truly unique sound born from the Pacific Northwest.Beer and wine will be available for purchase at the event, as well as some onsite food offerings. 7 Devils Brewing is partnering once again with the Oregon Coast Music Festival to bring world class music to our coastal community.<br>**Tickets $35** <a href="https://7devilsbrewery.com/product/concert-tickets/" target="_blank" rel="noopener"><strong>BUY TICKETS LINK</strong></a>
+
+{{< spacer "20" >}}
+
+**Friday, July 24 - 8pm**<br>7 Devils Brewing Co <br>**Ian George and the Knee Pockets**<br>Ian George delivers the sort of concert you’ll dance, sway, sing, laugh and probably cry too. The performance teems with whimsicality, clever arrangements – interrupted by triumphant tangents – and outlandish solos grounded by George’s emotive and gauzy voice and by the simple strength of a good song. Expect an engaging and dynamic string of gentle and not so gentle folk-rock adventures.<br>**FREE**
 
 #### **ORCHESTRA PREVIEWS**
 
@@ -81,6 +91,10 @@ SWOCC Umpqua Hall<br>**Preview of Pops Orchestra Concert with Conductor Adam Ste
 #### Friday, July 24 - Noon-2pm
 
 SWOCC Umpqua Hall<br>**Preview of Orchestra II with Percussionist Terry Longshore**<br>Meet Percussion soloist Terry Longshore and learn about the music selections for Orchestra Concert II: Our Blue Home. **FREE**
+
+{{< spacer "20" >}}
+
+![Percussionist Terry Longshore sitting in a grey chair holding a drum and drum sticks.](/img/terry-longshore.jpg "Percussionist Terry Longshore joins the OCMA Orchestra II.")
 
 {{< spacer 25 >}}
 

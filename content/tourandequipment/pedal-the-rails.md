@@ -1,6 +1,7 @@
 ---
 _schema: default
 title: Pedal the Rails!
+draft: true
 property_description: >-
   For a unique experience, pedal the Coos Historic Railway on an open-air
   four-seater quadricycle! The 12-mile round trip starts and ends in Coquille,

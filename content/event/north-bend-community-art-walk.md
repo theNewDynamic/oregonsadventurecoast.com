@@ -29,4 +29,23 @@ smallboxphoto: /img/artwalk-340x214-1.jpg
 
 Take in live art demonstrations, music, art step, interactive fun performances, crafting and more.
 
-**More information and Schedule of Events Coming Soon.**
+**Starts at the North Bend Visitor Center, 745 California Avenue in downtown North Bend**
+
+This Oregon Main Street award winning event is open to all ages and brings art to life throughout downtown North Bend.
+
+**What to expect**
+
+* Local galleries and pop up artists inside downtown businesses
+* Roots youth art display featuring local student art work
+* Interactive art experiences for all ages
+* Art Step- Fashion Show featuring painted pieces by North Bend High School students
+* Live music throughout the district
+* Face art and hands on crafting
+* Ice carving demonstrations
+* Live artist painting
+
+![Art Walk Schedule of Events with QR Code](/img/art-walk.jpg)
+
+&nbsp;
+
+&nbsp;

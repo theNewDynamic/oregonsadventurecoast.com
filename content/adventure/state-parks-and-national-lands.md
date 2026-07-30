@@ -72,27 +72,6 @@ Hike 1.4 miles to the top of Golden Falls to get an eagle's-eye view of the casc
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772859196145840%2F&amp;show_text=0&amp;width=695" width="695" height="454" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <div class="margin-50px-top">&nbsp;</div>
 

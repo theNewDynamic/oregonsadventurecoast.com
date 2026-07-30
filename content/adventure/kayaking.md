@@ -16,7 +16,9 @@ aliases:
 ---
 On Oregon's Adventure Coast, water activities abound, from kayaking, paddleboarding, scuba diving and surfing to world-class [fishing](/fishing), [crabbing](/crabbing-clamming) and [clamming](/clamming).
 
-[![Woman kayaking and Stay 2 Nights and get $120 in Local Vacation Loot to Spend](/img/lvl-kayaking-695x179-01-26-1.jpg)](/loot)
+&nbsp;
+
+[![Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston.](/img/728x90-fuel-freebie-family-05-26.jpg)](/fuel)
 
 ## Kayaking & Paddleboarding
 
@@ -53,6 +55,12 @@ We'd love to be able to say, "come on in, the water's fine" but it would be more
 {{< spacer 20 >}}
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FThatOregonLife%2Fvideos%2F1772772586154501%2F&amp;show_text=0&amp;width=695" width="695" height="391" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 

@@ -110,15 +110,3 @@ Gravel cycling is becoming a top attraction all over the country and right here 
 In Coos Bay, <a href="https://dirtyfreehub.org/routes/oregon/double-go/" target="_blank" rel="noopener">Dirty Free Hub</a> has documented a fantastic Gravel Cycling Route through the Elliott State Forest to Golden & Silver Falls State Natural Area and the surrounding area. With an elevation gain of more than 3800 feet and a loop of 34 miles, this is a challenging ride, but the scenery cannot be beat.
 
 &nbsp;
-
-{{< spacer "50" >}}
-
-![A family of four enjoy pedaling on the Coos Historic Railline.](/img/railriders-695x322.jpeg "Enjoy a scenic pedal on the Coos Historic Railline.")
-
-## Pedal the Rails! (Seasonal Activity)
-
-For something completely different, take to the rails with the [Joy Rails Coquille](https://joyrails.com/locations/coquille-oregon/). Pedal along the beautiful Coquille River towards Coos Bay on a four seater quardricycle on the scenic Coos Bay Historic Railway for six miles. The trip begins in the community of Coquille just 17 miles inland from Coos Bay. Rail trips are available May through September.
-
-You will pedal &nbsp;round trip for about twelve miles on unused track. Staff will turn your four seated railrider around as you take a break.
-
-**Help Save the Rails!**&nbsp;Pedal the rails to save the rails and preserve railroad history. Railriding is a stupendous way to experience the out- of -doors and experience first-hand rail corridors seen only by railroad workers or perhaps an excursion train or two.

@@ -9,14 +9,14 @@ photo_alt: A sunflower painting done in golds, reds and greens.
 property_category:
   - Arts & Crafts
 address:
-  city: Coos Bay
+  city: North Bend
   state: OR
-  street: 134 S. Broadway
+  street: 2100 Union Avenue
   street2:
-  zip: '97420'
+  zip: '97459'
 phone_local: (541) 756-4088
 website: https://www.facebook.com/theartistloftgallery
 coordinates:
-  lat: '43.36719546356098'
-  lng: '-124.21554127371049'
+  lat: '43.40524065313602'
+  lng: '-124.22538713194758'
 ---

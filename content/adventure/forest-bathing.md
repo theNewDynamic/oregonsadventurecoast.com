@@ -11,6 +11,10 @@ seo:
 ---
 ![two people in forest holding arms up celebrating the sun and nature](/img/forest-bathing-hero-main-image.jpg)
 
+{{< spacer "30" >}}
+
+[![Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston.](/img/728x90-fuel-freebie-seagulls-05-26.jpg)](/fuel)
+
 **Forest bathing, also known as Shinrin-yoku, is the practice of immersing oneself in nature to improve physical and mental health.** It involves spending time in forests, parks, or other natural environments and using all five senses to connect with nature. The idea is to slow down, relax, and be mindful of the present moment.
 
 **Coos Bay, North Bend & Charleston**, on the Southern Oregon coast, offers a variety of natural landscapes for forest bathing, or forest therapy as it is also known, including dunes, wetlands, and forests. The surrounding areas are rich in flora and fauna, providing ample opportunities to connect with nature and practice forest bathing.
@@ -33,9 +37,6 @@ Additionally, the scenic beauty of our area offers a chance to practice mindfuln
 
 **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is a wonderful place for forest bathing, offering opportunities for both physical and mental wellness. Whether you prefer hiking, yoga, or simply sitting in a quiet spot, there is something for everyone in the natural beauty here. By taking the time to slow down, relax, and connect with nature, while disconnecting from the rest of the noise, you can improve your physical and mental health and experience the benefits of forest bathing.
 
-## Massage, Yoga and More
-
-Take a yoga class at one of our many yoga studios. Get a massage, infusion, or other relaxing service at one of our two Day Spas – <a href="https://www.beautifulyou-pnw.net/" target="_blank" rel="noopener">Beautiful You Medi Spa</a> and [Hair Co. Etc - Salon & Day Spa](https://haircoetc.net/).
 
 ## Healthy Eats
 
@@ -51,7 +52,28 @@ Bring a picnic lunch or have a healthy dinner at one of our Farm to Table eateri
 
 {{< spacer 40 >}}
 
-![yoga studios header](/img/yoga-studios-subheader-695x125.jpg)
+## Yoga Studios, Massage, Fitness & Wellness
+
+{{< spacer 20 >}}
+
+{{< columns number="2" >}}
+
+![Group of women holding arms overhead in a low lunge during a yoga class at Bloom studio in Coos Bay.](/img/bloom-yoga-345x220.jpg)
+
+**Bloom**<br>137 Hall Avenue<br>Coos Bay, OR 97420<br>[www.bloomcoosbay.com](https://www.bloomcoosbay.com/)
+
+A welcoming yoga and wellness studio focused on helping you move well. With approachable classes and a supportive atmosphere, all bodies and experience levels are encouraged to show up just as they are.
+
+divider
+
+![A practitioner performs a Bowenwork session with gentle hands-on soft tissue moves on a client's knee.](/img/bridge-to-healing-1400x947.jpg)
+
+**Bridge to Healing**<br>1611 Virginia Ave, #212A<br>North Bend, OR 97459<br>(541) 362-4325<br>[www.bridgetohealingbowenwork.com](https://www.bridgetohealingbowenwork.com/)
+
+A gentle yet effective alternative healing practice specializing in Bowenwork — a soft tissue technique that relieves pain, from stiff necks and frozen shoulders to low back pain and sciatica, while supporting the body's own natural ability to heal.
+
+
+{{< /columns >}}
 
 {{< spacer 20 >}}
 
@@ -61,27 +83,26 @@ Bring a picnic lunch or have a healthy dinner at one of our Farm to Table eateri
 
 **Center of Attention Massage and Yoga**<br> 161 Date Avenue <br>Coos Bay, OR 97420<br> (916) 251-6920<br> <a href="http://bit.ly/4mKFBMW" target="_blank" rel="noopener">Visit Our Facebook</a>
 
-The Center of Attention is a wellness-based, small boutique Yoga studio, offering Massage, Traditional Hatha Yoga, Yin Yoga, and Alignment Flow Yoga, Breathwork, Meditation, and Sound Bath events in a peaceful setting.
+A peaceful boutique wellness studio offering massage, Traditional Hatha, Yin, and Alignment Flow Yoga, along with Breathwork, Meditation, and Sound Bath events in a calm, supportive setting.
 
 divider
 
 ![downtown health &amp; fitness in coos bay, oregon](/img/downtown-fitness-center.jpg)
 
-**Downtown Health & Fitness** <br>440 Central Avenue<br> Coos Bay, OR 97420<br> (541) 267-3948<br> [www.dhfitness.net](https://www.dhfitness.net/ "https://www.dhfitness.net/")
+**Downtown Health & Fitness** <br>440 Central Avenue<br> Coos Bay, OR 97420<br> (541) 267-3948<br> [www.dhfitness.net](https://www.dhfitness.net)
 
-Downtown Health and Fitness aims to provide a clean, safe, and helpful environment. Offering a variety of group fitness classes, including yoga, chair yoga and gentle yoga, these classes are designed to accommodate all ages and fitness levels. The facility includes dressing rooms with lockers and showers. All areas are handicap accessible.{{< /columns >}}
+A clean, welcoming facility offering a variety of group fitness classes — including yoga, chair yoga, and gentle yoga — designed for all ages and fitness levels, with full amenities and handicap-accessible facilities throughout.
+{{< /columns >}}
 
-{{< spacer 20 >}}
+{{< columns number="2" >}}
 
-{{< columns number="2" >}}![House of Asana - Yoga &amp; Classes](/img/house-of-asana-345x220.jpg)
+![A practitioner administers a Reiki energy healing session with hands gently placed on a woman's head as she rests with eyes closed.](/img/reike-massage.jpg)
 
-**House of Asana**<br>180 Central Avenue<br>Coos Bay, OR 97420<br>(541) 252-2434<br>[www.houseofasana.com](https://www.houseofasana.com/ "https://www.houseofasana.com/")
+**PuraVida Reiki**<br>1096 Virginia Ave<br>North Bend, OR 97459<br>(541) 297-3433<br>[www.puravidareiki.com](https://www.puravidareiki.com)
 
-House of Asana is home of a rebel yogi and fitness lover. They provide a range of classes from slow restorative yoga to fast-paced power yoga classes. Most of the classes are heated with infrared lights. They offer an unpretentious and results-oriented community that’s invested in your goals and success. Their core values are grit, authenticity, community, and compassion.
-
+A holistic energy healing practice offering Reiki and Biofield Tuning to support the physical, emotional, and mental body — helping you release what no longer serves you and return to a place of balance and well-being.
 divider
-
-&nbsp;{{< /columns >}}
+{{< /columns >}}
 
 {{< spacer 40 >}}
 
@@ -91,26 +112,34 @@ divider
 
 {{< columns number="2" >}}
 
-![Beautiful You - Medical Spa](/img/beautiful-you-spa.jpg)
+![Frog Blossom - Medical Spa](/img/beautiful-you-spa.jpg)
 
-**Beautiful You - Medical Spa**<br>
-1280 N Bayshore Dr. Suite 101<br>
-Coos Bay, OR, 97420<br>
-(541) 297-7546<br>
-[www.beautifulyou-pnw.com](https://www.beautifulyou-pnw.com/)
+**Frog Blossom - Medical Spa**<br> 1554 Sherman Avenue<br> North Bend, OR, 97459<br> (530) 399-8092<br> <a href="https://frogblossom.com/" target="_blank" rel="noopener">frogblossom.com</a>
 
-Beautiful You is a Medi Spa, which is a combination of an aesthetic medical center and a day spa that provides nonsurgical aesthetic medical services under the supervision of a licensed physician.
+At Frog Blossom, their mission is to enhance natural beauty through a unique and artistic approach that blends medical expertise with holistic care using thoughtful, minimally invasive treatments that support long-term wellness and confidence.
 
 divider
 
-![Hair Co. Etc. Salon & Day Spa woman getting massage](/img/hair-inc-etc-345x220.jpg)
+![Hair Co. Etc. Salon  Day Spa woman getting massage](/img/hair-inc-etc-345x220.jpg)
 
-**Hair Co. Etc. - Salon & Day Spa**<br>
-275 Golden Avenue<br>
-Coos Bay, OR 97420<br>
-(541) 269-5223<br>
-[haircoetc.net](https://haircoetc.net/ "https://haircoetc.net/")
+**Hair Co. Etc. - Salon & Day Spa**<br> 275 Golden Avenue<br> Coos Bay, OR 97420<br> (541) 269-5223<br> <a href="https://www.facebook.com/HairCoEtc/" target="_blank" rel="noopener">Facebook</a>
 
 Hair Co. Etc Salon & Day Spa offers Hair Treatments, Nail Treatments, Massage and Body Treatments in downtown Coos Bay on the beautiful Southern Oregon Coast.
+
+{{< /columns >}}
+
+{{< spacer 20 >}}
+
+{{< columns number="2" >}}
+
+![IVY Drip Lounge Sign on wall with ivy and sconces.](/img/ivy-drip-lounge-345x220.jpg)
+
+**IVY Drip Lounge**<br>126 E Market Avenue<br>Coos Bay, OR 97420<br>(541)-808-0655<br>[www.ivydriplounge.online](https://www.ivydriplounge.online "https://www.ivydriplounge.online")
+
+IVY Drip Lounge provides hydration and vitamin support in a calm, welcoming space designed to help you reset and feel your best. The nurse-led team offers both walk-in availability and scheduled appointments to fit real life.
+
+divider
+
+&nbsp;
 
 {{< /columns >}}

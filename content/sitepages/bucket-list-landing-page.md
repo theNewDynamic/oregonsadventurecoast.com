@@ -7,10 +7,9 @@ layout: adventure-sidebar
 photo: /img/sunset-bay-at-sunset-2048x530.jpg
 aliases:
   - /1859
+  - /ocva
 ---
 ![rugged cliffs on the southern Oregon coast at sunset](/img/unplug-page-header-695x322.jpg)
-
-[![$120 Local Vacation Loot promotion - stay 2 nights and get $120 to spend on adventures, eats and attractions](/img/lvl-728x90-01-26-v01.jpg)](/loot)
 
 It’s time to leave the crowds behind and discover a bucket list destination where adventure meets relaxation — **Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston**. Stretch out your vacation with an extended stay on our dramatic coastline, where rugged cliffs, lush forests, charming towns, and endless outdoor activities invite you to explore, unwind, and reconnect. Check out some of our most popular [trip ideas](/tripideas).
 

@@ -29,6 +29,6 @@ Contact Oregon’s Adventure Coast with any questions you may have about things 
 
 {{< spacer 30 >}}
 
-[![Stay 2 Nights get $120 in Vacation Loot and woman in kayak](/img/lvl-kayaking-695x179-01-26-1.jpg)](/loot)
+[![Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston.](/img/728x90-fuel-freebie-family-05-26.jpg)](/fuel)
 
-{{< spacer 50 >}}
+{{< spacer "30" >}}

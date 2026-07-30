@@ -1,28 +1,27 @@
 ---
+_schema: default
 title: Bahama Boards
-property_description: Family owned surf, paddle board and skate shop. Great advice
-  on where to surf, paddle and skate in the Coos Bay area - Open Tues-Sat 10am-5pm,
-  Sundays by appointment.
-photo_name: "/img/bahamaboards.jpg"
-photo_alt: ''
+property_description: >-
+  Family owned surf, paddle board and skate shop. Great advice on where to surf,
+  paddle and skate in the Coos Bay area - Open Tues-Sat 10am-5pm, Sundays by
+  appointment.
+photo_name: /img/bahamaboards.jpg
 property_category:
-- Sporting Goods
+  - Sporting Goods
 address:
+  city: Coos Bay
+  state: ''
   street: 650 Ivy Street
   street2: ''
-  city: Coos Bay
   zip: '97420'
-  state: ''
-phone_local: "(541) 808-3535"
-phone_toll_free: ''
-website: https://bahamaboardz.com/coos-bay-shop/
+phone_local: (541) 808-3535
+website: https://bahamaboardz.com/
 coordinates:
   lat: '43.378166'
-  lng: "-124.217716"
+  lng: '-124.217716'
 seo:
   title: ''
   description: ''
   imgalt: ''
   image: ''
-
 ---

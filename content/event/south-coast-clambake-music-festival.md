@@ -40,10 +40,6 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 
 {{< spacer "30" >}}
 
-[![Stay 2 Nights and Score $120 in Local Vacation Loot](/img/lvl-728x90-01-26-v01.jpg)](/loot)
-
-{{< spacer "30" >}}
-
 ![south coast clambake music festival bands playing music](/img/clambake-collage-02-695x322.jpg)
 
 {{< spacer "30" >}}
@@ -54,7 +50,7 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 
 The **South Coast Clambake Music Festival** is held at the luxurious Ko-Kwel Casino Resort \| Coos Bay (formerly The Mill Casino Hotel) on the beautiful Coos Bay in North Bend on Oregon's Adventure Coast! Ko-Kwel Casino hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar.
 
-#### Full Schedule Coming Soon!
+#### Full Schedule Can Be Found <a href="https://clambakemusic.com/wp-content/uploads/2026-clambake-band-schedule.pdf" target="_blank" rel="noopener">HERE</a>!
 
 {{< spacer 50 >}}
 
