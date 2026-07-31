@@ -18,6 +18,7 @@ export default {
     let src = el.getAttribute("src")
     let publicSrc
     let caption = ''
+    let altText = ''
     if(src.includes('http') ){
       publicSrc = src.replace('blob:', '')
     } else {
@@ -26,6 +27,9 @@ export default {
     }
     if(el.getAttribute("data-caption")) {
       caption = el.getAttribute("data-caption")
+    }
+    if(el.getAttribute('alt')) {
+      altText = el.getAttribute("alt")
     }
     let link
     if(el.parentElement.tagName.toLowerCase() == "a") {
@@ -38,6 +42,7 @@ export default {
       _type: "image",
       _sanityAsset: `image@${publicSrc}`,
       caption,
+      altText,
       link,
     })
   },
