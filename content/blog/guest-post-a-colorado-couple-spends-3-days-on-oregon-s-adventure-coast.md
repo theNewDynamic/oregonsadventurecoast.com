@@ -47,7 +47,7 @@ warning: false
 
 *In addition to regular flights between San Francisco (SFO) and Southwest Oregon Regional Airport (OTH) in North Bend, United Airlines offers seasonal daily nonstop flights between Denver International Airport (DEN) and North Bend through October 24, 2026, meaning travelers can go from airplane seat to adventure in minutes.*
 
-*Earlier this summer, we had the pleasure of hosting adventure bloggers Sarah and Myles Anderson from Colorado, of*[adventuringeyes.com](http://adventuringeyes.com)*, who took that flight to be here. Here's what they had to say.*
+*Earlier this summer, we had the pleasure of hosting adventure bloggers Sarah and Myles Anderson from Colorado, of* [adventuringeyes.com](http://adventuringeyes.com)*, who took that flight to be here. Here's what they had to say.*
 
 ## Guest Post: An Adventurer’s 3 Day Itinerary on Oregon’s Adventure Coast *by Sarah and Myles Anderson*
 
