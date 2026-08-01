@@ -140,4 +140,10 @@ Return your sandboard and end the day with brews and burgers at [7 Devils Waterf
 
 ![Couple relaxing in Adirondack chairs on a stone patio outside a modern dark-sided cabin at Bay Point Landing.](/img/guest-post-an-adventurer-s-3-day-itinerary-on-oregon-s-adventure-coast-blog-4.jpg "Photography by Adventuring Eyes")
 
+**About Adventuringeyes.com**<br>Sarah and Myles Anderson are a Colorado-based couple who run Adventuring Eyes, a blog about adventure travel. Based in Denver, they focus on off-the-beaten-path guides, sharing hikes, national park itineraries, and road trip content on their blog, Instagram ([@adventuringeyes](https://www.instagram.com/adventuringeyes)), and YouTube channel. Visit[adventuringeyes.com](https://adventuringeyes.com/) to read more.
+
+About Southwest Oregon Regional Airport (OTH)<br>Southwest Oregon Regional Airport (OTH) in North Bend is the only commercial airport on the Oregon Coast offering passenger service. Owned and operated by the Coos County Airport District, OTH provides convenient access to Oregon’s Adventure Coast and serves as a gateway to the scenic and recreational riches of the southern coast. For more information, visit[www.flyoth.com](https://www.flyoth.com).
+
+&nbsp;
+
 &nbsp;
