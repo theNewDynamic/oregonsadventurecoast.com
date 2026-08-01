@@ -27,9 +27,9 @@ Whether you've been here before or you're making the trip for the first time, **
 1. **Call to Book:**<br>Call any participating lodging property directly at the local phone number listed below and reserve a minimum two-night stay. This offer is valid for new reservations only. When you call for the **$75 Summer Fuel Freebie** promotion, mention the code associated with that property. *(Online bookings are not eligible — you must call the property front desk directly to book.)<br><br>*
 2. **Check In & Pick Up Your Card**<br>When you arrive, your **$75 VISA gift card** will be ready and waiting. That's it.
 
-**Book by July 31, 2026 for stays June 1 – September 20, 2026.** Participating lodging properties may fill up quickly — book as early as possible. A limited supply of VISA gift cards are available.
+**EXTENDED! Book by August 14, 2026 for stays June 1 – September 20, 2026.** Participating lodging properties may fill up quickly — book as early as possible. **A limited supply of VISA gift cards are available.**
 
-{{< spacer "40" >}}
+**{{< spacer "40" >}}**
 
 ![Partner Hotels Header](/img/participating-hotels-header-695x125-1.jpg)
 
