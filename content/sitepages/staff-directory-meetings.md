@@ -28,19 +28,9 @@ divider
 
 {{< spacer "30" >}}
 
-{{< columns number="2" >}}
+{{< columns number="2" >}}![headshot of lehea desousa](/img/lehea.jpg)
 
-![headshot of joni eades](/img/joni-eades-staff.jpg)
-
-**Joni Eades**<br>Visitor Services Manager & Marketing Coordinator<br>541-269-1181 ext 2302<br>[Email Joni](mailto:joni@oregonsadventurecoast.com)
-
-divider
-
-![headshot of lehea desousa](/img/lehea.jpg)
-
-**Lehea DeSousa**<br>Visitor Services Coordinator<br>541-269-1181 ext 2300<br>[Email Lehea](mailto:lehea@visitoac.com)
-
-{{< /columns >}}
+**Lehea DeSousa**<br>Visitor Services Manager<br>541-269-1181 ext 2308<br>[Email Lehea](mailto:lehea@visitoac.com){{< /columns >}}
 
 **For Advertising/Marketing Inquiries, please contact our Advertising Agency of Record:**
 
