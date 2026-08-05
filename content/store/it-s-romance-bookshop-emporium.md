@@ -15,15 +15,15 @@ property_category:
 address:
   city: Coos Bay
   state:
-  street: '340 Central Avenue '
+  street: '375 Central Avenue '
   street2:
   zip: '97420'
 phone_local: (541) 808-0313
 website: >-
   https://itsromancebookshop.com/?fbclid=IwY2xjawNmNT9leHRuA2FlbQIxMABicmlkETFObkYxVjlVeUFsQzFkZnhMAR4F2EIsBDtxtI18knzJ7B3gcWuqAL58pmQD7h_F21Um62GxZle0Sc0chumzWw_aem_XRE335yKI3QNiensmyepUg
 coordinates:
-  lat: '43.36823925796627'
-  lng: '-124.21552869004512'
+  lat: '43.367779'
+  lng: '-124.215805'
 seo:
   title: It's Romance...Bookstore & Emporium
   description: >-
