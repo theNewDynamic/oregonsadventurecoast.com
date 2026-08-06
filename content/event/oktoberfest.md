@@ -36,13 +36,13 @@ This 21+ event features live&nbsp;music&nbsp;from the&nbsp;<a href="https://www.
 
 **Saturday, October 10th from 2:00pm-6:00pm**<br>Coos History Museum
 
-#### TICKETS GO ON SALE AUGUST 1ST
+#### TICKETS ON SALE NOW!
 
 * **General Entry - $50** *(includes admission to the event, German meal, live entertainment, access to games & more!)*
 * **Heritage Supporter - $75** *(includes all General Entry benefits, plus limited edition Octoberfest sticker, Heritage Supporter badge, and more)*
 * **Legacy Patron - $125** *(includes all Heritage Supporter benefits, plus complimentary drink, Legacy Patron badge, discounts at museum store)*
 
-**Call 541-756-6320 for ticket information.**
+<a href="https://cooshistory.org/event-registration/" target="_blank" rel="noopener"><strong>GET TICKETS AT THIS LINK</strong></a>
 
 {{< spacer "10" >}}
 
