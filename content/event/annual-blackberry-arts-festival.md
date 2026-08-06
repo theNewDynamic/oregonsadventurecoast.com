@@ -48,7 +48,7 @@ The Street Fair and Vendors will be open on Central Ave, between Hwy 101 and 4th
 
 {{< spacer 50 >}}
 
-{{< floatimage src="/img/bbarts-recipe-infor.png" float="left" alt="" size="" >}}**Blackberry Recipe Contest** - every year, the festival includes a recipe contest using the beloved blackberry.
+**Blackberry Recipe Contest** - every year, the festival includes a recipe contest using the beloved blackberry.
 
 **Rules:**
 
@@ -69,7 +69,7 @@ The Street Fair and Vendors will be open on Central Ave, between Hwy 101 and 4th
 
 ![](/img/blackberry-bar.jpeg)
 
-[7 Devils Brewing Co](https://www.facebook.com/7DevilsBrewingCo) is the official sponsor of the beer garden of **The Blackberry Arts Festival** at the Blackberry Jam concert stage area at Central & 3rd. They will have live music and BBQ in the evenings, and Blackberry drink and dessert specials all weekend!<br>​​​​
+[7 Devils Brewing Co](https://www.facebook.com/7DevilsBrewingCo) is the official sponsor of the beer garden of **The Blackberry Arts Festival** at the Blackberry Jam concert stage area at Central & 3rd. They will be serving delicious brews and blackberry-inspired drinks.<br>​​​​
 
 {{< spacer "25" >}}
 
@@ -79,10 +79,8 @@ The Street Fair and Vendors will be open on Central Ave, between Hwy 101 and 4th
 
 Featuring great music from some of our festival favorites! Concert stage is located at Central and 3rd Avenue.
 
-#### **Scheduled Musicians: Coming Soon**
+##### The weekend includes two can’t-miss live shows: Family Mystic kicks things off Friday, 8/21, with a little pre-festival groove, followed by pub favorite Marty O’Reilly on Saturday, 8/22, after the first day of the festival.
 
-**Saturday August 22nd**<br>Noon-1:30pm - <br>2:00pm-3:30pm - <br>4:00pm-5:30pm -
-
-**Sunday August 23rd**<br>Noon-1:30pm - <br>2:00pm-3:30pm -
+&nbsp;
 
 *The Blackberry Jam is brought to you by: Coos Bay Toyota and Pacific Properties*
