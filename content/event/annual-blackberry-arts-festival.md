@@ -53,13 +53,16 @@ The Street Fair and Vendors will be open on Central Ave, between Hwy 101 and 4th
 **Rules:**
 
 * Each recipe must include Blackberries!
-* Entries location: TBA
+* Entries location: North Point Real Estate Office located at the Corner of Hwy 101 & Central Ave
+* Drop off time: 10:00am-11:30am
 * One entry per person.
-* Each entry must be sizable enough for six “tastes”.
-* Judging will be from 12pm to 2pm.
-* Winners will be announced at 4pm.
-* Each winner will be awarded an apron, and a wooden Spoon.
-* (See Official Entry Form for more Contest Rules!)
+* Entry must include a copy of a detailed recipe with credit given to the original source; for example Betty Crocker’s CookBook or great grandma Lulu’s family recipe
+* Each entry must be sizable enough for six “tastes”
+* Judging time: Noon
+* Winners will be announced between 1:30pm-2:00pm.
+* Each winner will be awarded an apron, and a cutting board
+
+  &nbsp;
 
 {{< spacer "25" >}}
 
