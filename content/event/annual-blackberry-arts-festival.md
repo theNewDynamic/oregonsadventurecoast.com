@@ -60,7 +60,7 @@ The Street Fair and Vendors will be open on Central Ave, between Hwy 101 and 4th
 * Each entry must be sizable enough for six “tastes”
 * Judging time: Noon
 * Winners will be announced between 1:30pm-2:00pm.
-* Each winner will be awarded an apron, and a cutting board
+* Each winner will be awarded an apron and a cutting board
 
   &nbsp;
 
