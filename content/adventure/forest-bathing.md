@@ -13,8 +13,6 @@ seo:
 
 {{< spacer "30" >}}
 
-[![Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston.](/img/728x90-fuel-freebie-seagulls-05-26.jpg)](/fuel)
-
 **Forest bathing, also known as Shinrin-yoku, is the practice of immersing oneself in nature to improve physical and mental health.** It involves spending time in forests, parks, or other natural environments and using all five senses to connect with nature. The idea is to slow down, relax, and be mindful of the present moment.
 
 **Coos Bay, North Bend & Charleston**, on the Southern Oregon coast, offers a variety of natural landscapes for forest bathing, or forest therapy as it is also known, including dunes, wetlands, and forests. The surrounding areas are rich in flora and fauna, providing ample opportunities to connect with nature and practice forest bathing.
@@ -36,7 +34,6 @@ On Oregon's Adventure Coast, you can engage in various activities that enhance y
 Additionally, the scenic beauty of our area offers a chance to practice mindfulness and appreciate the present moment. Observing the changing colors of the leaves, the rhythmic sounds of the ocean, the patterns of sunlight filtering through the trees, and the sounds of birds and other wildlife can bring a sense of peace and calm.
 
 **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is a wonderful place for forest bathing, offering opportunities for both physical and mental wellness. Whether you prefer hiking, yoga, or simply sitting in a quiet spot, there is something for everyone in the natural beauty here. By taking the time to slow down, relax, and connect with nature, while disconnecting from the rest of the noise, you can improve your physical and mental health and experience the benefits of forest bathing.
-
 
 ## Healthy Eats
 
