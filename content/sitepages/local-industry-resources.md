@@ -33,8 +33,6 @@ The **Coos Bay-North Bend-Charleston Visitor & Convention Bureau (VCB)** and the
 
 **Reader Board Policies**<br>To have your message appear on the Visitor Information Reader Board, you must comply with these Policies. [Reader Board Policies - PDF](/img/reader-board-policies-2024-revised-1.pdf)
 
-**Requests for VCB Grant Funds**<br>The VCB has very limited funds available for first time events and initial costs of a new project or program. These funds are based on the available budget the VCB is allotted based on Lodging Tax collections. A maximum of $3,000 can be awarded and an application process is required. Grant application: [Tourism Grant Program - CBNB PDF](/img/tourism-grant-program-cbnb.pdf).
-
 {{< accordions >}}
 
 **Sign Up for Our Local Industry Newsletter and Public Notifications of Meetings**<br>Stay up to date with the latest goings-on with community leaders and local partnerships! We promise not to inundate your inbox.
