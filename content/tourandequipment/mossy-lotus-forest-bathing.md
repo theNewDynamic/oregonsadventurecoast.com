@@ -1,6 +1,7 @@
 ---
 _schema: default
 title: Mossy Lotus Forest Bathing
+draft: true
 property_description: >-
   Experience Forest Bathing, also known as Shinrin-yoku, the practice of
   immersing oneself in nature to improve physical and mental health, with
