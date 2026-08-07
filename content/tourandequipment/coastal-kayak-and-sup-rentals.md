@@ -17,6 +17,7 @@ address:
   street: 319 North Wall Street
   street2: ''
   zip: '97420'
+phone_local: 971-303-5793
 website: https://sites.google.com/view/coastalkayakandsuprentalsllc/home
 coordinates:
   lat: ''
