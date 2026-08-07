@@ -8,13 +8,9 @@ photo: /img/summer-fuel-header-2048x530.jpg
 ---
 ![van bus at ocean side with sunshine in background](/img/sff-page-header-1400-650.jpg)
 
-## EXTENDED THROUGH AUGUST 14TH!
+## Thank You for Joining Us!
 
-## Drive. Stay Two Nights. Pocket $75.
-
-Whether you've been here before or you're making the trip for the first time, **Oregon's Adventure Coast** is worth the drive — and now we're helping cover the trip. Book two nights directly with a participating lodging property and we'll send you home with a **$75 VISA gift card** to help offset the cost of your travel. Simple as that!
-
-**You asked. We listened.&nbsp;Turns out,&nbsp;giving away a $75 Gift Card just for staying at one of our partner hotels on Oregon's Adventure Coast: Coos Bay, North&nbsp;Bend,&nbsp;Charleston is&nbsp;an&nbsp;incredibly&nbsp;popular thing to do!**&nbsp;So we snagged a few extra cards, and we extended our deadline to reserve your summer getaway (stays must be completed by Sept 20) to Friday, Aug 14th or while supplies last. **Get Your Card Now!**
+Our Summer Fuel Freebie promotion has wrapped up, and the gift cards are officially gone. Thank you to everyone who made the drive and stayed with us this summer — we loved every minute of it. Oregon's Adventure Coast will be here for your next getaway, cool breezes and all.
 
 {{< spacer "30" >}}
 
