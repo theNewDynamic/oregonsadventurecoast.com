@@ -3,12 +3,6 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
-    photo: /img/75-summer-fuel-freebie-home-slider-25-2048x850.jpg
-    title_mobile:
-    photo_mobile: /img/75-summer-fuel-freebie-mobile-slider-25-2048x850.jpg
-    url: /fuel
-    video:
-  - title:
     photo: /img/blackberry-artsfest-home-slider-2026-2048x850.jpg
     title_mobile:
     photo_mobile: /img/blackberry-arts-fest-2026-mobile.jpg
