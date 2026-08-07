@@ -20,6 +20,8 @@ The VCB’s primary mission is to promote the Coos Bay, North Bend & Charleston 
 
 As per the IGA, the Board of Directors of the VCB is made up of one (1) representative from each of the IGA Partners, plus one (1) Chamber of Commerce representative and one (1) Lodging Industry representative. [**Click here for more information about the VCB Board**](/board-of-directors/)**.**
 
+In a separate agreement between the VCB and the City of Coos Bay, the VCB also manages the operations of the Coos Bay Visitor Information Center (VIC).
+
 {{< spacer 25 >}}
 
 #### <a target="_blank" rel="noopener" href="/img/local-tlt-explained-vcb-taxingentities-fy26-1.pdf">Learn About Our Local Lodging Tax and the History of the VCB</a>
@@ -41,29 +43,29 @@ As per the IGA, the Board of Directors of the VCB is made up of one (1) represen
 
 {{< spacer 50 >}}
 
-#### FY26 ADOPTED BUDGET
+#### FY27 ADOPTED BUDGET
 
-<a href="/img/fy26-approved.pdf" target="_blank" rel="noopener">Click here to see the FY26 Adopted Budget</a>
+[Click here to see the FY27 Adopted Budget](/img/fy27-adopted-budget-for-web.pdf)
 
 **THE VCB’s OVERALL BUDGET IS SPLIT BETWEEN TWO DEPARTMENTS: THE VCB (TOURISM PROMOTIONS) AND THE COOS BAY VIC (TOURISM FACILITIES).**
 
 **THE VCB's TOURISM PROMOTION BUDGET IS SPLIT BETWEEN PROMOTION AND ADMINISTRATION:**
 
-* BUDGETED EXPENDITURES FOR PROMOTION/MARKETING/ADVERTISING FOR FISCAL YEAR 2026 TOTALS $910,350 or approximately 73% of our budget
-* BUDGETED EXPENDITURES FOR ADMINISTRATION TOTALS $350,200 or approximately 27%
-* BUDGETED RAINY DAY FUND, as well as other non-administrative expenditures for debt service and potential capital outlay TOTALS $156,010
-* TOTAL BUDGET FOR THE VCB DEPARTMENT = $1,416,560
+* BUDGETED EXPENDITURES FOR PROMOTION/MARKETING/ADVERTISING FOR FISCAL YEAR 2027 TOTALS $830,122 or approximately 71% of our budget
+* BUDGETED EXPENDITURES FOR ADMINISTRATION TOTALS $336,000 or approximately 29%
+* BUDGETED RAINY DAY FUND, as well as other non-administrative expenditures for debt service and potential capital outlay TOTALS $214,000
+* TOTAL BUDGET FOR THE VCB DEPARTMENT = $1,380,122
 
 {{< spacer 25 >}}
 
 **THE VCB’S BUDGET FOR TOURISM FACILITIES CURRENTLY COVERS THE COST OF MANAGING THE COOS BAY VISITOR INFORMATION CENTER (VIC).** *The City of Coos Bay remits additional funding to the VCB to cover these costs*.
 
-* BUDGETED EXPENDITURES FOR THE MANAGEMENT OF THE COOS BAY VISITOR INFORMATION CENTER FOR FISCAL YEAR 2026 TOTAL $125,600
+* BUDGETED EXPENDITURES FOR THE MANAGEMENT OF THE COOS BAY VISITOR INFORMATION CENTER FOR FISCAL YEAR 2027 TOTAL $121,750
 
 {{< spacer 50 >}}
 
-**THE VCB’s TOTAL BUDGET FOR FISCAL YEAR 2026 IS $1,542,160**
+**THE VCB’s TOTAL BUDGET FOR FISCAL YEAR 2027 IS $1,501,872**
 
-<a href="/img/CBNB-MarketingBudget-07-25-FINAL-FINAL-FINAL-reduced size.pdf" target="_blank" rel="noopener"><strong>Adopted FY26 Marketing &amp; Advertising Plan</strong></a>
+<a href="/img/marketingbudget-2026-final-forweb.pdf" target="_blank" rel="noopener"><strong>Adopted FY27 Marketing &amp; Advertising Plan</strong></a>
 
 &nbsp;
