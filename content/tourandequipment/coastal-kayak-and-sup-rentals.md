@@ -14,7 +14,7 @@ photo_alt: Coastal Kayaks and SUP Rentals at John Topits Park in Coos Bay!
 address:
   city: Coos Bay
   state: OR
-  street: 319 North Wall Street
+  street:
   street2: ''
   zip: '97420'
 phone_local: 971-303-5793
