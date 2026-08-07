@@ -35,7 +35,7 @@ A: In real dollars, the Tourism sector is our third largest industry in Coos Cou
 
 For the County, during the pandemic, visitor spending dropped by almost $100 Million, primarily in our retail and restaurant sectors, but also in our arts, recreation, and entertainment sector. Post-pandemic, in 2021, we saw a recovery of more than half the amount we lost, or $58 Million in visitor spending, and in 2022 we exceeded the visitor spending we had seen in 2019 by more than $22 million. 2023 saw an additional 8.6% increase in visitor spending. From 2024 to 2025, the County saw an additional 5.6% increase.
 
-For Coos Bay, North Bend & Charleston, for every dollar that the VCB spends on marketing and advertising our destination, more than $24.25 is returned in the form of visitor spending and taxes. This is a **24 : 1 Return on Investment (ROI)**. *Average ROI in the tourism industry is between 5:1 and 10:1.*
+For Coos Bay, North Bend & Charleston, for every dollar that the VCB spends on marketing and advertising our destination, more than $17 is returned in the form of visitor spending and taxes. This is a **17 : 1 Return on Investment (ROI)**. *Average ROI in the tourism industry is between 5:1 and 10:1.*
 
 {{< spacer 50 >}}
 
