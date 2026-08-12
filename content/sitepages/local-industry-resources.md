@@ -33,6 +33,8 @@ The **Coos Bay-North Bend-Charleston Visitor & Convention Bureau (VCB)** and the
 
 **Reader Board Policies**<br>To have your message appear on the Visitor Information Reader Board, you must comply with these Policies. [Reader Board Policies - PDF](/img/reader-board-policies-2024-revised-1.pdf)
 
+**Tourism Acronyms List**<br>This industry is full of acronyms! Here's a list of the most common acronyms you might encounter when dealing with the tourism industry in your area. <a href="/img/tourism-cheat-sheet-update-2026.pdf" target="_blank" rel="noopener">Click here for the List</a>.
+
 {{< accordions >}}
 
 **Sign Up for Our Local Industry Newsletter and Public Notifications of Meetings**<br>Stay up to date with the latest goings-on with community leaders and local partnerships! We promise not to inundate your inbox.
