@@ -48,7 +48,7 @@ The Street Fair and Vendors will be open on Central Ave, between Hwy 101 and 4th
 
 {{< spacer 50 >}}
 
-**Blackberry Recipe Contest** - every year, the festival includes a recipe contest using the beloved blackberry.
+**Blackberry Recipe Contest** - every year, the festival includes a recipe contest using the beloved blackberry. Pick up entry forms at the Coos Bay Visitor Center, 50 Central Ave.
 
 **Rules:**
 
@@ -61,6 +61,7 @@ The Street Fair and Vendors will be open on Central Ave, between Hwy 101 and 4th
 * Judging time: Noon
 * Winners will be announced between 1:30pm-2:00pm.
 * Each winner will be awarded an apron and a cutting board
+* [More information at this Link](https://www.facebook.com/photo?fbid=1528103952689199&amp;set=a.627320059434264)
 
   &nbsp;
 
