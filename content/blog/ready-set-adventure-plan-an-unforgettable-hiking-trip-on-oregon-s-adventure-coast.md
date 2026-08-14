@@ -78,7 +78,7 @@ Our communities are coming together to make the Oregon Coast a more inclusive de
 
 ## Can I bring my dog?
 
-![&quot;Man in a blue cap standing with a leashed dog on a misty, pine-lined coastal trail.](/img/oregon-coast-hiking.jpg)
+![Man in a blue cap standing with a leashed dog on a misty, pine-lined coastal trail.](/img/oregon-coast-hiking.jpg)
 
 There are miles and miles of trails on Oregon's Adventure Coast, and well-behaved dogs are welcome on most of them, as long as you clean up after them and they're leashed as required by law. Picking up after your pet is not only considerate to fellow hikers, it helps prevent pollution and protects local wildlife. Keep your pet (and yourself) hydrated and take plenty of breaks!
 
@@ -92,21 +92,13 @@ Most hiking trails on Oregon's Adventure Coast are well-maintained and safe as l
 
 Personal safety also largely depends on preparation, and we encourage you to always hike with others and familiarize yourself with [Travel Oregon's Take Care Out There](https://traveloregon.com/things-to-do/outdoor-recreation/take-care-out-there/) principles to stay safe!
 
-If you are planning a hike close to the water, we urge you to learn & follow [critical Oregon beach safety guidelines](https://www.oregonsadventurecoast.com/blog/what-every-visitor-needs-to-know-about-beach-safety-on-oregon-s-adventure-coast/). What should be a beautiful day by the Pacific Ocean could suddenly become unsafe without warning if you are not careful. Check the tide times at[tides-forecast.com](https://www.tide-forecast.com/locations/Charleston-Oregon/tides/latest). Read[Safe Ways to Explore the Beach](https://oregonstateparks.org/index.cfm?do=v.page&amp;id=96) for more information.
+If you are planning a hike close to the water, we urge you to learn & follow [critical Oregon beach safety guidelines](https://www.oregonsadventurecoast.com/blog/what-every-visitor-needs-to-know-about-beach-safety-on-oregon-s-adventure-coast/). What should be a beautiful day by the Pacific Ocean could suddenly become unsafe without warning if you are not careful. Check the tide times at [tides-forecast.com](https://www.tide-forecast.com/locations/Charleston-Oregon/tides/latest). Read [Safe Ways to Explore the Beach](https://oregonstateparks.org/index.cfm?do=v.page&amp;id=96) for more information.
 
 ## Got any other tips?
 
-* **Leave No Trace.** Oregon's Adventure Coast is full of treasured natural destinations to enjoy, and it is up to us to be good stewards of the land. All visitors are responsible for their own actions, and we ask them to take special care and[follow Leave No Trace principles](https://www.oregonsadventurecoast.com/blog/leave-no-trace-7-guidelines-to-protect-oregon-s-adventure-coast-for-future-visitors/). Please do not touch the wildlife under any circumstances! If you see wildlife, please appreciate it from afar and do not attempt to touch or interact with it - it is, after all, their home.
-
-  &nbsp;
-
-* Fuel up before and after your hike. Don't go out on the trails on an empty stomach! There are many locally owned restaurants dishing out hearty breakfasts, satisfying lunches/dinners, and the freshest seafood you could hope for. [Download our Local Restaurant & Coffee Shop Guide](https://www.oregonsadventurecoast.com/img/Dining-Coffee-Shop-Guide-02-26.pdf) to keep with you, or visit[Oregonsadventurecoast.com/dining](https://oregonsadventurecoast.com/dining/) to see all our local restaurants.
-
-  &nbsp;
-
-* Book a comfortable place to rest at the end of the day. To feel the full benefits of your hike, stay a night or two. Oregon's Adventure Coast offers plenty of comfortable lodging options in[Coos Bay, North Bend, and Charleston](https://www.oregonsadventurecoast.com/lodging/) to suit your needs and preferences.
-
-  &nbsp;
+* **Leave No Trace.** Oregon's Adventure Coast is full of treasured natural destinations to enjoy, and it is up to us to be good stewards of the land. All visitors are responsible for their own actions, and we ask them to take special care and [follow Leave No Trace principles](https://www.oregonsadventurecoast.com/blog/leave-no-trace-7-guidelines-to-protect-oregon-s-adventure-coast-for-future-visitors/). Please do not touch the wildlife under any circumstances! If you see wildlife, please appreciate it from afar and do not attempt to touch or interact with it - it is, after all, their home.
+* **Fuel up before and after your hike.** Don't go out on the trails on an empty stomach! There are many locally owned restaurants dishing out hearty breakfasts, satisfying lunches/dinners, and the freshest seafood you could hope for. [Download our Local Restaurant & Coffee Shop Guide](https://www.oregonsadventurecoast.com/img/Dining-Coffee-Shop-Guide-02-26.pdf) to keep with you, or visit [Oregonsadventurecoast.com/dining](https://oregonsadventurecoast.com/dining/) to see all our local restaurants.
+* **Book a comfortable place to rest at the end of the day.** To feel the full benefits of your hike, stay a night or two. Oregon's Adventure Coast offers plenty of comfortable lodging options in [Coos Bay, North Bend, and Charleston](https://www.oregonsadventurecoast.com/lodging/) to suit your needs and preferences.
 
 Whether you're looking for the perfect place to lay your head after a long day of hiking or an adventure, the volunteers in the Visitor Centers in Coos Bay, North Bend, and Charleston are always glad to help you plan and get the most out of your trip! Call us at (541) 269-0215 or email info@oregonsadventurecoast.com.
 
