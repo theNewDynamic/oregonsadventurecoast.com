@@ -3,6 +3,7 @@ _schema: default
 title: 'Adventure Spotlight: Biking & Cycling on Oregon’s South Coast'
 draft: false
 date: 2026-08-24T00:00:00-07:00
+image: /img/biking-and-cycling-oregon-coast-blog-1400-x-649.jpg
 warning: false
 ---
 ## **Discover Pedal-Powered Adventures on Oregon’s Adventure Coast**
