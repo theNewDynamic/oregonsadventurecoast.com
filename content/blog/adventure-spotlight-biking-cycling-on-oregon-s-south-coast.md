@@ -89,8 +89,6 @@ Gravel biking is increasingly popular for its quiet, low-traffic routes and natu
 * [Catching Blue Route:](https://dirtyfreehub.org/routes/oregon/catching-blue) This 23-mile lollipop loop includes 2,300 feet of climbing. The route passes local sloughs and farm fields before ascending into the timber on Blue Ridge.
 * [Milli-Mania](https://dirtyfreehub.org/routes/oregon/milli-mania/)/**Elliott State Forest Loops:** Advanced riders can tackle remote, rugged forestry tracks here with over 3,800 feet of elevation gain across challenging 34-mile routes.
 
-Share post -[<u>https://www.facebook.com/groups/ridingoregongravel/posts/2014507139171176/</u>](https://www.facebook.com/groups/ridingoregongravel/posts/2014507139171176/) ​
-
 **More Resources**
 
 * [Oregon Coast Visitors Association: Gravel Biking the Oregon Coast](https://visittheoregoncoast.com/activities/biking-oregon-coast/gravel-biking-the-oregon-coast/)
