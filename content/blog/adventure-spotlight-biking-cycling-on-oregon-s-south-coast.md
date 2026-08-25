@@ -3,7 +3,29 @@ _schema: default
 title: 'Adventure Spotlight: Biking & Cycling on Oregon’s South Coast'
 draft: false
 date: 2026-08-24T00:00:00-07:00
+description: >-
+  If you are an active traveler who enjoys exploring by bike, bring your sense
+  of adventure. This is the cycling destination you have been seeking on the
+  Oregon Coast. Whatever your style, this is an ideal place to cycle. Consider
+  these four standout cycling adventures for your Oregon Adventure Coast
+  itinerary.
 image: /img/biking-and-cycling-oregon-coast-blog-1400-x-649.jpg
+tags:
+  - biking Oregon Coast
+  - cycling Oregon's Adventure Coast
+  - Coos Bay biking
+  - North Bend cycling
+  - Charleston Oregon biking
+  - southern Oregon Coast cycling
+  - Whiskey Run Mountain Bike Trails
+  - mountain biking Oregon Coast
+  - Oregon Coast Bike Route
+  - road cycling Oregon Coast
+  - gravel biking Oregon Coast
+  - fat tire biking Oregon Coast
+  - beach biking Oregon
+  - Oregon Dunes biking
+  - bike rentals Coos Bay
 warning: false
 ---
 ## **Discover Pedal-Powered Adventures on Oregon’s Adventure Coast**
