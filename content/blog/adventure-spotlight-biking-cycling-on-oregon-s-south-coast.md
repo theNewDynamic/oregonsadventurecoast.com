@@ -44,7 +44,6 @@ If mountain biking isn’t for you, consider the[<u>Oregon Coast Bike Route (OCB
 
 * [Coos Bay Loop to Shore Acres State Park](https://www.komoot.com/smarttour/e1380650255/coos-bay-loop-to-shore-acres-state-park): This moderate 28.4-mile (45.6 km) road cycling route takes just over two hours to complete and is popular for its scenic Pacific views and proximity to state parks.
 * [Oregon Coast Scenic Bikeway:](https://www.komoot.com/smarttour/e1380773310/oregon-coast-scenic-bikeway) This moderate 69.9-mile (112.5 km) path, distinct from the OCBR, offers extensive views of the Pacific coastline and is a favorite among local road cyclists.
-
 * [Circle the Bay Loop](https://www.komoot.com/smarttour/e1400543191/circle-the-bay-loop): This 18.3-mile loop is ideal for beginners and features smooth bayfront views around Coos Bay. The route primarily follows paved roads, including streets, state roads, and cycleways, making it less challenging than local mountain or gravel rides.
 
 [Front Street Community Bike Works](https://www.facebook.com/CoosCommunityBikes/) offers a comprehensive resource of cycling trail maps. Access[the City Bike Riding Trails Map (PDF)](https://www.cooscommunitybicycles.org/_files/ugd/ef107c_8d3f6d0eeeda475fb2f0c4ec424135a1.pdf) here.
