@@ -96,29 +96,13 @@ More Resources
 
 ## **Where to Gear Up and Get Help**
 
-[**<u>Blue Sky Bike Shop</u>**<u> </u>](https://www.blueskybikeshop.com/)– Whether you need new tires, a tune-up, or a full bike build, the team at Blue Sky Bike Shop can assist. Their staff knows local trails, stocks gear for all types of riding, and offers rentals for visitors.
+[**<u>Blue Sky Bike Shop</u>**<u> </u>](https://www.blueskybikeshop.com/)– Whether you need new tires, a tune-up, or a full bike build, the team at Blue Sky Bike Shop can assist. Their staff knows local trails, stocks gear for all types of riding, and offers rentals for visitors. 235 N. Broadway, Coos Bay 541-808-2646
 
-235 N. Broadway, Coos Bay
+[**Front Street Community Bike Works**](https://www.facebook.com/CoosCommunityBikes/) - A nonprofit shop offering tools, advice, and trail maps. It is an excellent resource for quick repairs or local cycling tips. 791 N Front St, Coos Bay (541) 217-6912​
 
-541-808-2646
+[**Moe's Bike Shop**](https://www.facebook.com/p/Moes-Bike-Shop-100057227899293/) - A local favorite known for quality work, fair prices, and friendly staff. 1397 Sherman Ave, North Bend (541) 756-7536​
 
-[Front Street Community Bike Works](https://www.facebook.com/CoosCommunityBikes/) - A nonprofit shop offering tools, advice, and trail maps. It is an excellent resource for quick repairs or local cycling tips.
-
-791 N Front St, Coos Bay
-
-(541) 217-6912​
-
-[Moe's Bike Shop](https://www.facebook.com/p/Moes-Bike-Shop-100057227899293/) - A local favorite known for quality work, fair prices, and friendly staff.
-
-1397 Sherman Ave, North Bend
-
-(541) 756-7536​
-
-[Bahama Boards](https://bahamaboardz.com/)\- Offers e-bike cruiser rentals.
-
-650 Ivy St, Coos Bay
-
-(541) 808-3535
+[**Bahama Boards**](https://bahamaboardz.com/)\- Offers e-bike cruiser rentals. 650 Ivy St, Coos Bay (541) 808-3535
 
 ### **Why Oregon’s Adventure Coast?**
 
