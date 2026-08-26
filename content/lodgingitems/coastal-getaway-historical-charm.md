@@ -6,7 +6,7 @@ property_description: >-
   Marshfield High, the downtown Farmers Market and attractions, and minutes from
   the beach and state parks. Newly renovated historical farm style home with
   original hardwood floors & doors create a cozy home away from home.
-photo_name: /img/mahaffy-str-2-1.jpg
+photo_name: /img/hideaway.jpg
 photo_alt: >-
   White two-story duplex featuring brown cedar-shake entry portico, arched
   windows, and a dormer. A concrete walkway with metal railings leads up a
