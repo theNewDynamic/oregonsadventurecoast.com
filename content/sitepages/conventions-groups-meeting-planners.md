@@ -31,5 +31,3 @@ If you’d like more personalized help, e-mail us today at [info@oregonsadventur
 *(**The form below is to request assistance with planning a meeting/convention, wedding, small group gathering or a stop for a group tour.** Please do not use it to submit events to the VCB. Please use this* <a href="https://submit.jotform.com/241066022852146" target="_blank" rel="noopener"><em>form to submit events</em></a>*.* *Thank You.)*
 
 ### Meeting & Convention Information Request
-
-<script type="text/javascript" src="https://form.jotform.com/jsform/83166502598161"></script>

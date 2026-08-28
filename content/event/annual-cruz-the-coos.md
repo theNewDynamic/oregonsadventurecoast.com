@@ -49,7 +49,7 @@ While you’re in the area, enjoy the **Bay Area Fun Festival**, one of the larg
 
 #### Do you have a classic car, 1979 or older? Bring it to the Annual Cruz the Coos! Registration Coming Soon!
 
-![Register Early for Cruz the Coos this year](/img/register-early-banner-07-22-v02.jpg)
+<a href="https://www.eventbrite.com/e/2026-cruz-the-coos-show-n-shine-tickets-1985231215005?aff=oddtdtcreator&amp;keep_tld=true" target="_blank" rel="noopener"><img alt="Register Early for Cruz the Coos this year" src="/img/register-early-banner-07-22-v02.jpg"></a>
 
 {{< spacer 50 >}}
 
