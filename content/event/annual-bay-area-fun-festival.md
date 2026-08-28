@@ -33,9 +33,9 @@ Thousands of locals and visitors from afar come to enjoy the sights, sounds, and
 
 #### **Join the Parade!**
 
-Details coming soon!
+The 2026 Parade Theme is **Big Fun at the Bay**! Applications and information can be found on the [Bay Area Fun Festival](https://coosbaydowntown.com/bay-area-fun-festival/#paradebaff) website.
 
-{{< spacer 25 >}}
+{{< spacer "15" >}}
 
 ![](/img/funfest-mosiac1.jpg) ![](/img/funfest-mosiac2.jpg) ![](/img/funfest-mosiac3.jpg) ![](/img/funfest-mosiac4.jpg) ![](/img/funfest-mosiac5.jpg) ![](/img/funfest-mosiac6.jpg) ![](/img/funfest-mosiac7.jpg) ![](/img/funfest-mosiac8.jpg) ![](/img/funfest-mosiac9.jpg) ![](/img/funfest-mosiac10.jpg)
 
