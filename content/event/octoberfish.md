@@ -23,7 +23,7 @@ smallboxphoto: /img/octoberfish-sign-340x214.jpg
 
 Come join us on October 3, 2026 at the Oregon Institute of Marine Biology in Charleston to celebrate Coos Culture!  Octoberfish is an annual event featuring games and activities for the kids, great music for the adults, yoga & movement workshops, local art and a tuna cookout. 7 Devils Brewing Company will be serving their craft beer.
 
-**Saturday October 4th from 11am to 4pm! Don't Miss the Fun but bring your lawn chair!**
+**Saturday October 3rd from 11am to 4pm! Don't Miss the Fun but bring your lawn chair!**
 
 ![](/img/octoberfish-crafts-667x355.jpg)
 
