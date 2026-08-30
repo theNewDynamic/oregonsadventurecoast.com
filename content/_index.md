@@ -3,6 +3,18 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
+    photo: /img/salmon-celebration-homeslider-desktop.jpg
+    title_mobile:
+    photo_mobile: /img/mobile-salmon-celebration-slider-202256.jpg
+    url: /event/salmon-celebration/
+    video:
+  - title:
+    photo: /img/bay-area-fun-fest-2026-2048x850.jpg
+    title_mobile:
+    photo_mobile: /img/baff-mobile-home-slider-2026.jpg
+    url: /event/annual-bay-area-fun-festival/
+    video:
+  - title:
     photo: /img/cool-at-the-coast-home-slider-2048x850.jpg
     title_mobile:
     photo_mobile:
@@ -13,12 +25,6 @@ slideshow:
     title_mobile:
     photo_mobile:
     url:
-    video:
-  - title:
-    photo: /img/bay-area-fun-fest-2026-2048x850.jpg
-    title_mobile:
-    photo_mobile: /img/baff-mobile-home-slider-2026.jpg
-    url: /event/salmon-celebration/
     video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
