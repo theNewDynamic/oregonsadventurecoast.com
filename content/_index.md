@@ -3,6 +3,18 @@ _schema: home
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
   - title:
+    photo: /img/salmon-celebration-homeslider-desktop.jpg
+    title_mobile:
+    photo_mobile: /img/mobile-salmon-celebration-slider-202256.jpg
+    url: /event/salmon-celebration/
+    video:
+  - title:
+    photo: /img/bay-area-fun-fest-2026-2048x850.jpg
+    title_mobile:
+    photo_mobile: /img/baff-mobile-home-slider-2026.jpg
+    url: /event/annual-bay-area-fun-festival/
+    video:
+  - title:
     photo: /img/cool-at-the-coast-home-slider-2048x850.jpg
     title_mobile:
     photo_mobile:
@@ -30,10 +42,10 @@ masonry1:
 masonry2:
   desktopphoto: /img/forest-bathing-masonry-desktop.jpg
   desktoptitle: Forest Bathing & Mindfulness
-  hoverdescription: >-
-    Spend time in our beautiful forests and other natural environments and use
-    all five senses to connect with Mother Nature. Slow down, relax, and be
-    mindful of the present moment. Join us for a guided adventure!
+  hoverdescription: Spend time in our beautiful forests and other natural
+    environments and use all five senses to connect with Mother Nature. Slow
+    down, relax, and be mindful of the present moment. Join us for a guided
+    adventure!
   hovertitle: Earth - Wind - Inspire
   mobilephoto: /img/forest-bathing-masonry-345x160.jpg
   mobiletitle: Forest Bathing & Mindfulness
@@ -80,9 +92,9 @@ masonry7:
   url: /crabbing-clamming/
 seo:
   title: Oregon Coast Trips Vacations | Oregon's Adventure Coast
-  description: >-
-    Travel to the Oregon Coast to experience a vacation full of adventure,
-    nature, wildlife, shopping, arts, and more. Your adventure awaits!
+  description: Travel to the Oregon Coast to experience a vacation full of
+    adventure, nature, wildlife, shopping, arts, and more. Your adventure
+    awaits!
   imgalt:
   image:
 aliases:
