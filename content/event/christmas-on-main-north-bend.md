@@ -32,7 +32,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### Waffles with Santa
 
-**9:00am-11:00am @ North Bend Fire Department** <br>Enjoy a delicious breakfast with the jolly man himself! Load up on toppings with the Miss Flame Court and visit with Volunteer Firefighters.&nbsp;&nbsp;Don't forget to share your holiday wishes with Santa and receive a complementary book from North Bend Library.&nbsp;&nbsp;**Pre-registration Required.** Free to attend, registration required. <a href="https://www.eventbrite.com/e/1841857719019?aff=oddtdtcreator" target="_blank" rel="noopener">REGISTER HERE</a>!
+**9:00am-11:00am @ North Bend Fire Department** <br>Enjoy a delicious breakfast with the jolly man himself! Load up on toppings with the Miss Flame Court and visit with Volunteer Firefighters.&nbsp;&nbsp;Don't forget to share your holiday wishes with Santa and receive a complementary book from North Bend Library.&nbsp;&nbsp;**Pre-registration Required.** Free to attend. Registration Coming Soon.
 
 {{< spacer "25" >}}
 
@@ -40,7 +40,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### Story Time with Mrs. Claus
 
-**10:00am & 11:00am @ North Bend Public Library** <br>Cozy up for enchanting holiday tales read by Mrs. Claus. Get ready to move around with holiday sign along with the North Bend Library staff.&nbsp;
+**10:00am & 11:00am @ North Bend Public Library** <br>Cozy up for enchanting holiday tales read by Mrs. Claus herself! Get ready to move around with holiday sign along with the North Bend Library staff.&nbsp;
 
 {{< spacer "25" >}}
 
@@ -62,7 +62,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 #### **Elf of the Shelf**
 
-**11:00am-2:00pm @ North Bend Main Street** <br>Head downtown and be on the lookout for mischievous Elves taking over Main Street! Spot one, and you could win some fantastic prizes just in time for the Christmas season. With over 20 winners, the more places you visit, the better your chances of scoring a win! While you're there, be sure to do some Christmas shopping and enjoy the local eateries and pubs. Elf on the Shelf runs from December 1-12, 2025.
+**11:00am-2:00pm @ North Bend Main Street** <br>Head downtown and be on the lookout for mischievous Elves taking over Main Street! Spot one, and you could win some fantastic prizes just in time for the Christmas season. With over 20 winners, the more places you visit, the better your chances of scoring a win! While you're there, be sure to do some Christmas shopping and enjoy the local eateries and pubs. Elf on the Shelf runs from December 1-12, 2026.
 
 {{< spacer "25" >}}
 
@@ -72,13 +72,13 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 **2:00pm-5:00pm @ Visitor Information Center Parking Lot** <br>Celebrate the season with holiday crafting, face painting, and more, including:
 
-* Non Profit vendors will be set up with holiday crafting, plus free face painting and reindeer food making with North Bend Library!&nbsp;<br>
-* Holiday Photo Booth with Candid By Stefani inside Visitor Center 2:00pm-4:00pm.&nbsp;&nbsp;<br>
-* North Bend Middle and High School students with caroling at 4:00pm and dancing at 4:30pm
+* Non Profit vendors will be set up with holiday crafting, plus free face painting and reindeer food making with North Bend Library!&nbsp;
+* Holiday Photo Booth with Candid By Stefani inside Visitor Center 2:00pm-4:00pm.&nbsp;&nbsp;
+* North Bend Middle and High School students with caroling at 4:00pm and dancing at 4:30pm.
 
 #### Annual Tree Lighting
 
-**5:00pm - 6:30 @ Grant Circle / City Hall** <br>Watch the magical moment as the Mayor Engelke and Santa light the tree illuminating the night. Tree lighting will be around 5:10, immediately following everyone is welcomed to gather in the festival tent for holiday fun. Complementary Cider will be offered in the Visitor Information Center next to the festival tent. Food trucks will be on site nearby.
+**5:00pm - 6:30 @ Grant Circle / City Hall** <br>Watch the magical moment as the Mayor and Santa light the tree illuminating the night. Tree lighting will be around 5:10, immediately following everyone is welcomed to gather in the festival tent for holiday fun. Complementary Cider will be offered in the Visitor Information Center next to the festival tent. Food trucks will be on site nearby.
 
 #### Lighted Christmas Parade
 
