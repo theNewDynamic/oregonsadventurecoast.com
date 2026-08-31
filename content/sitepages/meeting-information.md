@@ -20,7 +20,7 @@ The VCB’s primary mission is to promote the Coos Bay, North Bend & Charleston 
 
 As per the IGA, the Board of Directors of the VCB is made up of one (1) representative from each of the IGA Partners, plus one (1) Chamber of Commerce representative and one (1) Lodging Industry representative. [**Click here for more information about the VCB Board**](/board-of-directors/)**.**
 
-In a separate agreement between the VCB and the City of Coos Bay, the VCB also manages the operations of the Coos Bay Visitor Information Center (VIC).
+In a separate agreement between the VCB and the City of Coos Bay, the VCB also manages the operations of the Coos Bay Visitor Information Center (VIC) .
 
 {{< spacer 25 >}}
 
