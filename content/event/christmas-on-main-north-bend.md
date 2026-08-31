@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Christmas on Main - North Bend
-startdate: '2025-12-06'
-enddate: '2025-12-06'
+startdate: '2026-12-05'
+enddate: '2026-12-05'
 address:
   city: North Bend
   state: OR
@@ -60,7 +60,7 @@ Get ready for a magical holiday experience in Downtown North Bend! Join us for a
 
 ![Elf on the shelf among candy pieces](/img/elfonshelfnb.jpg "The Elf on the Shelf Knows All!")
 
-#### **Elf of the Shelf**
+#### Elf of the Shelf
 
 **11:00am-2:00pm @ North Bend Main Street** <br>Head downtown and be on the lookout for mischievous Elves taking over Main Street! Spot one, and you could win some fantastic prizes just in time for the Christmas season. With over 20 winners, the more places you visit, the better your chances of scoring a win! While you're there, be sure to do some Christmas shopping and enjoy the local eateries and pubs. Elf on the Shelf runs from December 1-12, 2026.
 
