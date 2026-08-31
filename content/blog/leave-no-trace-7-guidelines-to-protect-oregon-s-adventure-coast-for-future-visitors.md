@@ -81,7 +81,7 @@ Whether you’re exploring our [trifecta of glorious state parks](https://www.or
 * [Explore the Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/)
 * [Five Hiking Destinations to Explore on Oregon's South Coast](https://www.oregonsadventurecoast.com/blog/hit-the-trails-six-hiking-destinations-to-explore-on-oregon-s-adventure-coast/)
 * [Oregon’s Adventure Coast “Greatest Hits” Itinerary](https://www.oregonsadventurecoast.com/blog/oregon-s-adventure-coast-greatest-hits-itinerary/)
-* <u>Dos and Don'ts</u>[of Traveling with Pets to Oregon's Adventure Coast](https://www.oregonsadventurecoast.com/blog/do-s-and-don-ts-of-traveling-with-pets-to-oregon-s-adventure-coast/)
+* [Dos and Don'ts of Traveling with Pets to Oregon's Adventure Coast](https://www.oregonsadventurecoast.com/blog/do-s-and-don-ts-of-traveling-with-pets-to-oregon-s-adventure-coast/)
 * [Birding & Wildlife](https://www.oregonsadventurecoast.com/birding-and-wildlife/)
 * [How to Plan the Perfect Hiking Adventure on Oregon’s Adventure Coast](https://www.oregonsadventurecoast.com/blog/how-to-plan-the-perfect-hiking-adventure-on-oregon-s-adventure-coast/)
 * [Featured Adventure: Take a Kayak Tour on Oregon's South Coast](https://www.oregonsadventurecoast.com/blog/2018-05-18-featured-adventure-take-a-kayak-tour-on-oregons-south-coast/)
