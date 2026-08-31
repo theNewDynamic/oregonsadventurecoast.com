@@ -5,9 +5,8 @@ url: /fishing
 photo: /img/fishing-pg-header-north-spit-2048x630.jpg
 seo:
   title: Oregon Coast Things to Do - Fishing Trips | Oregon's Adventure Coast
-  description: >-
-    The Oregon Coast is a great place for fishing adventures! Come by boat, by
-    foot, by kayak, or by charter, the fish are biting!
+  description: The Oregon Coast is a great place for fishing adventures! Come by
+    boat, by foot, by kayak, or by charter, the fish are biting!
 aliases:
   - /featured-adventures/fishing-crabbing-clamming
   - /activities/category/fishing
@@ -17,10 +16,6 @@ aliases:
 When it comes to fishing in Oregon, opportunities are in no short supply – especially here on Oregon’s Adventure Coast! There are fish for every season and an endless choice of prime fishing spots to select from.
 
 There are more than [30 freshwater lakes and rivers](/tripideas/fresh-water-fishing-options-by-body-of-water) to choose from in Coos County, as well as fantastic [bay and ocean fishing](/tripideas/saltwater-fishing-ocean-bay). And just as there are a wide variety of fish and fishing spots, so too are there lots of different ways to fish for them. Looking to paddle your kayak around a quiet fish-filled lake? We’ve got that. Want to cast a line for surfperch right off one of our beautiful beaches? No problem. Throw in a [crab pot](/crabbing-clamming/) or [dig for clams](/clamming/)? You got it. Thinking [charter boat fishing](/tour-guides-and-charters/) for tuna, rockfish, halibut or salmon? You’ll find that on Oregon’s Adventure Coast too.
-
-{{< spacer "30" >}}
-
-[![Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston.](/img/728x90-fuel-freebie-seagulls-05-26.jpg)](/fuel)
 
 {{< spacer "30" >}}
 
