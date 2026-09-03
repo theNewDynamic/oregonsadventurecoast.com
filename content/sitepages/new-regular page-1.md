@@ -42,6 +42,8 @@ divider
 
 **Sun Outdoors Coos Bay**<br>90281 Cape Arago Hwy<br>Charleston, OR 97420<br>541-888-2598 \| <a href="https://www.sunoutdoors.com/oregon/sun-outdoors-coos-bay" target="_blank" rel="noopener"><strong>Website</strong></a>{{< /columns >}}
 
+![Two Fall Pass cards for Oregon's Adventure Coast, valid Oct-Nov 2026: A Little Extra for Your Fall Getaway!](/img/fall-pass-card-695px.jpg)
+
 ## Fall Pass Savings
 
 Flash your **Fall Pass** card at any of these local favorites for the savings below.
