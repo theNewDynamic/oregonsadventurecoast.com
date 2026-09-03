@@ -48,7 +48,7 @@ Flash your **Fall Pass** card at any of these local favorites for the savings be
 
 ### Restaurants & Coffee Shops
 
-<div style="width: 100%; height: 3px; background-color: #363c40;"></div>
+<div style="width: 100%; height: 3px; background-color: #363c40; margin-bottom:15px;"></div>
 
 {{< columns number="2" >}}**Back Alley Pub & Grill**<br>1225 Virginia Ave<br>North Bend, OR 97459<br>541-756-0571<br>**OFFER:** *20% Off dinner*
 
@@ -68,7 +68,7 @@ divider
 
 ### Outfitters & Rentals
 
-<div style="width: 100%; height: 3px; background-color: #363c40;"></div>
+<div style="width: 100%; height: 3px; background-color: #363c40; margin-bottom:15px;"></div>
 
 {{< columns number="2" >}}**Captain John's Fishermans Wharf**<br>Charleston Marina Dock D<br>Charleston, OR 97420<br>541-260-9110 \| <a href="https://www.facebook.com/profile.php?id=61574447611196" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *FREE- 2lbs. of Crab Bait*
 
@@ -82,7 +82,7 @@ divider
 
 ### Attractions
 
-<div style="width: 100%; height: 3px; background-color: #363c40;"></div>
+<div style="width: 100%; height: 3px; background-color: #363c40; margin-bottom:15px;"></div>
 
 {{< columns number="2" >}}**Bananas Kiddo Kingdom**<br>222 S Broadway<br>Coos Bay, OR 97420<br>541-435-7675 \| <a href="https://www.facebook.com/profile.php?id=61573109316441" target="_blank" rel="noopener"><strong>Facebook(opens in new tab)</strong></a><br>**OFFER:** *Half off all your kids day passes.*
 
@@ -94,7 +94,7 @@ divider
 
 ### Shopping & Gifts
 
-<div style="width: 100%; height: 3px; background-color: #363c40;"></div>
+<div style="width: 100%; height: 3px; background-color: #363c40; margin-bottom:15px;"></div>
 
 {{< columns number="2" >}}**Blue Sky Bike Shop**<br>134 S Broadway<br>Coos Bay, OR 97420<br>541-808-2646 \| <a href="https://www.facebook.com/p/Blue-Sky-Bike-Shop-61552349062894/" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *15% OFF apparel, protection, accessories, nutrition. Cannot be combined w/ other offers. Does not include bicycles, components or service.*
 
