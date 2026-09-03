@@ -15,12 +15,6 @@ slideshow:
     url: /event/annual-bay-area-fun-festival/
     video:
   - title:
-    photo: /img/cool-at-the-coast-home-slider-2048x850.jpg
-    title_mobile:
-    photo_mobile:
-    url: /undeveloped-beaches
-    video:
-  - title:
     photo: /img/cultural-experience-hm-slider-2048-850.jpg
     title_mobile:
     photo_mobile:
