@@ -14,7 +14,7 @@ address:
   state: OR
   street: 68609 Sandy Way Rd
   street2: ''
-  zip: OR
+  zip: '97459'
 phone_local: 541-660-5300
 website: https://oregondunebugrentals.com/home.htm
 coordinates:
