@@ -41,3 +41,9 @@ layout: headless
 <p><strong>Wild Coast Running Co</strong><br>145 S Broadway<br>Coos Bay, OR 97420<br>541-808-9700 | <a href="https://www.facebook.com/wildcoastrunningco"><strong>Facebook</strong></a><br><strong>OFFER:</strong> <em>10% Off In-Store Purchase, excluding sale items</em></p>
 <p><strong>Yesterday's Charm Vintage &amp; More</strong><br>170 Empire Blvd<br>Coos Bay, OR 97420<br>541-534-4072 | <a href="https://www.facebook.com/share/17p9ebJenY/?mibextid=wwXIfr"><strong>Facebook</strong></a><br><strong>OFFER:</strong> <em>20% Off Purchase</em></p>
 </div>
+
+[![Oregon's Adventure Coast: Coos Bay - North Bend - Charleston full color logo.](/img/oac-full-color-logo-600w.jpg)](/)
+
+### Ready for more? Explore everything Oregon's Adventure Coast has to offer. [Visit the home page to get started](/)!
+
+&nbsp;
