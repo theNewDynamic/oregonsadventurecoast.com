@@ -44,7 +44,7 @@ divider
 
 **North Bend Lanes**<br>1225 Virginia Ave<br>North Bend, OR 97459<br>541-756-0571<br>**OFFER:** *Buy 1 hour of bowling get one free*
 
-Shopping & Gifts
+## Shopping & Gifts
 
 **Blue Sky Bike Shop**<br>134 S Broadway<br>Coos Bay, OR 97420<br>541-808-2646 \| [**Facebook**](https://www.facebook.com/p/Blue-Sky-Bike-Shop-61552349062894/)<br>**OFFER:** *15% OFF apparel, protection, accessories, nutrition. Cannot be combined w/ other offers. Does not include bicycles, components or service.*
 
