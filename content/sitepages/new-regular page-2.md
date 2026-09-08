@@ -1,5 +1,6 @@
 ---
 _schema: default
+title: Fall Pass Savings 2026
 draft: false
 url: /fall-pass-listings
 layout: headless
@@ -9,6 +10,7 @@ layout: headless
 Use your card for special offers at various local restaurants, coffee houses, rental shops, and more! ***Valid October 1 – November 30, 2026, at participating partners listed below.***
 
 ## Restaurants
+<div style="width: 100%; height: 3px; background-color: #363c40; margin-bottom:15px;"></div>
 
 **Back Alley Pub & Grill**<br>1225 Virginia Ave<br>North Bend, OR 97459<br>541-756-0571<br>**OFFER:** *20% Off dinner*
 
@@ -25,6 +27,7 @@ Use your card for special offers at various local restaurants, coffee houses, re
 **Wildflour Public House**<br>1987 Sherman Ave<br>North Bend, OR 97459<br>541-808-3633<br>**OFFER:** *10% off any entree, at anytime. And a complimentary house made baguette.*
 
 ## Outfitters & Rentals
+<div style="width: 100%; height: 3px; background-color: #363c40; margin-bottom:15px;"></div>
 
 **Captain John's Fishermans Wharf**<br>Charleston Marina Dock D<br>Charleston, OR 97420<br>541-260-9110 \| [**Facebook**](https://www.facebook.com/profile.php?id=61574447611196)<br>**OFFER:** *FREE- 2lbs. of Crab Bait*
 
@@ -35,6 +38,7 @@ Use your card for special offers at various local restaurants, coffee houses, re
 **Waxer's Surf & Skate**<br>242 S Broadway<br>Coos Bay, OR 97420<br>541-266-9020 \| [**Facebook**](https://www.facebook.com/profile.php?id=100057040255516)<br>**OFFER:** *Buy 1 rental and get your second rental for free.*
 
 ## Attractions
+<div style="width: 100%; height: 3px; background-color: #363c40; margin-bottom:15px;"></div>
 
 **Bananas Kiddo Kingdom**<br>222 S Broadway<br>Coos Bay, OR 97420<br>541-435-7675 \| [**Facebook**](https://www.facebook.com/profile.php?id=61573109316441)<br>**OFFER:** *Half off all your kids day passes.*
 
@@ -45,6 +49,7 @@ divider
 **North Bend Lanes**<br>1225 Virginia Ave<br>North Bend, OR 97459<br>541-756-0571<br>**OFFER:** *Buy 1 hour of bowling get one free*
 
 ## Shopping & Gifts
+<div style="width: 100%; height: 3px; background-color: #363c40; margin-bottom:15px;"></div>
 
 **Blue Sky Bike Shop**<br>134 S Broadway<br>Coos Bay, OR 97420<br>541-808-2646 \| [**Facebook**](https://www.facebook.com/p/Blue-Sky-Bike-Shop-61552349062894/)<br>**OFFER:** *15% OFF apparel, protection, accessories, nutrition. Cannot be combined w/ other offers. Does not include bicycles, components or service.*
 
