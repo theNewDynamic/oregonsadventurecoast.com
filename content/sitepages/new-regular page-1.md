@@ -12,7 +12,7 @@ aliases:
 ---
 ## A Free Perk for Your Oregon Coast Fall Getaway
 
-Book a stay on Oregon's Adventure Coast this fall, at one of our participating lodging properties, and a **FREE Fall Pass Savings Card** will be waiting for you at check-in. Spend your days kayaking, hiking, deep sea fishing, or exploring the dunes — and use your card along the way for special offers at various local restaurants, coffee houses, rental shops, and more!
+Book a stay on Oregon's Adventure Coast this fall, at one of our participating lodging properties, and a **FREE Fall Pass Savings Card** will be waiting for you at check-in. Spend your days kayaking, hiking, deep sea fishing, or exploring the dunes — and use your card along the way for special offers at various local restaurants, coffee houses, rental shops, and more! No special codes needed. Book online or by calling the property directly.
 
 ***Valid October 1 – November 30, 2026, at participating partners.***
 
