@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: 'South Coast Clambake Music Festival '
-startdate: '2026-03-12'
-enddate: '2026-03-15'
+startdate: '2027-03-11'
+enddate: '2027-03-14'
 address:
   city: North Bend
   state: Oregon
@@ -12,25 +12,26 @@ address:
 website: https://clambakemusic.com/
 seo:
   title: Clambake Music Festival
-  description: >-
-    Polish up those dancin’ shoes and get ready for the exciting musical
-    extravaganza known as the South Coast Clambake Music Festival! The Clambake
-    Music Festival features incredible music that ranges from traditional jazz
-    to 50’s rock, including swing, doo-wop, blues, big band and Zydeco! 
+  description: 'Polish up those dancin’ shoes and get ready for the exciting
+    musical extravaganza known as the South Coast Clambake Music Festival! The
+    Clambake Music Festival features incredible music that ranges from
+    traditional jazz to 50’s rock, including swing, doo-wop, blues, big band and
+    Zydeco! '
   imgalt: Rocking at the Clambake Music Festival
   image: /img/clambake-music-fest-medium-03.jpg
 desktoptitle: South Coast Clambake Music Fest
 mobiletitle: Clambake Music Fest
 hovertitle: Clambake Music Festival
-hoverdescription: >-
-  The Clambake Music Festival features incredible music that ranges from
-  traditional jazz to 50’s rock!
+hoverdescription: The Clambake Music Festival features incredible music that
+  ranges from traditional jazz to 50’s rock!
 photo: /img/clambake-music-fest-header-03.jpg
 largeboxphoto: /img/clambake-music-fest-large.jpg
 mediumboxphoto: /img/clambake-music-fest-medium-03.jpg
 smallboxphoto: /img/clambake-music-fest-small-02.jpg
 ---
-![Artists drawing of three seals &amp; sea lions on a soft sandy beach.](/img/sc-clambake-sealions.jpg "Even the Seals &amp; Sea Lions like to jump, jive &amp; boogy!")
+![Artists drawing of three seals &amp; sea lions on a soft sandy beach.](/img/clambake-dates.png "Even the Seals &amp; Sea Lions like to jump, jive &amp; boogy!")
+
+#### SAVE THE DATE!!! March 11-14, 2027!!!
 
 Polish up those dancin’ shoes and get ready for the exciting musical extravaganza known as the **South Coast Clambake Music Festival**! The Clambake Music Festival features incredible music that ranges from traditional jazz to 50’s rock, including swing, doo-wop, blues, and big band! Dancers and music enthusiasts from up and down the West Coast, visit each year, as the Clambake Music Festival has developed a reputation as a favorite.
 
@@ -48,9 +49,9 @@ Polish up those dancin’ shoes and get ready for the exciting musical extravaga
 
 {{< spacer "50" >}}
 
-The **South Coast Clambake Music Festival** is held at the luxurious Ko-Kwel Casino Resort \| Coos Bay (formerly The Mill Casino Hotel) on the beautiful Coos Bay in North Bend on Oregon's Adventure Coast! Ko-Kwel Casino hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar.
+The **South Coast Clambake Music Festival** is held at the luxurious Ko-Kwel Casino Resort \| Coos Bay on the beautiful Bay in North Bend on Oregon's Adventure Coast! Ko-Kwel Casino hosts four venues under one roof. Each venue has a top of the line sound system, dance floor and bar.
 
-#### Full Schedule Can Be Found <a href="https://clambakemusic.com/wp-content/uploads/2026-clambake-band-schedule.pdf" target="_blank" rel="noopener">HERE</a>!
+#### Full Schedule Coming Soon.
 
 {{< spacer 50 >}}
 
@@ -58,7 +59,7 @@ The **South Coast Clambake Music Festival** is held at the luxurious Ko-Kwel Cas
 
 ![South Coast Clambake Music Festvial - Band Playing Music and couple Dancing](/img/clambake-collage-2024.jpg)
 
-### Featuring the music of bands all across these United States! Invited Bands for 2026 Include:
+### Featuring the music of bands all across these United States! Invited Bands for 2026 Included:
 
 ####
 
@@ -88,6 +89,6 @@ divider
 
 **For Clambake Music Fans there are discounts from several Hotels, Motels and RV Parks**! Visit the [website](https://clambakemusic.com/) for details.
 
-![Artist rendering of an octopus lounging on a seaside rocky outcropping.](/img/sc-clambake-octopus.jpg)
+&nbsp;
 
 &nbsp;
