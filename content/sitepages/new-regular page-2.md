@@ -1,5 +1,6 @@
 ---
 _schema: default
+title: Fall Pass Savings 2026
 draft: false
 url: /fall-pass-listings
 layout: headless
