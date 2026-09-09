@@ -12,7 +12,7 @@ aliases:
 ---
 ## A Free Perk for Your Oregon Coast Fall Getaway
 
-Book a stay on Oregon's Adventure Coast this fall, at one of our participating lodging properties, and a **FREE Fall Pass Savings Card** will be waiting for you at check-in. Spend your days kayaking, hiking, deep sea fishing, or exploring the dunes — and use your card along the way for special offers at various local restaurants, coffee houses, rental shops, and more! No special codes needed. Book online or by calling the property directly.
+Stay on Oregon's Adventure Coast this fall, at one of our participating lodging properties, and a **FREE Fall Pass Savings Card** will be waiting for you at check-in. Spend your days kayaking, hiking, deep sea fishing, or exploring the dunes — and use your card along the way for special offers at various local restaurants, coffee houses, rental shops, and more! No special codes needed. Book online, call the property directly or just drop in.
 
 ***Valid October 1 – November 30, 2026, at participating partners.***
 
@@ -20,7 +20,7 @@ Book a stay on Oregon's Adventure Coast this fall, at one of our participating l
 
 ## Participating Lodging Properties
 
-Book your stay at one of these participating lodging properties and when you check-in, you'll get your **FREE Fall Pass Savings Card**! It's that easy!
+Stay at one of these participating lodging properties and when you check-in, you'll get your **FREE Fall Pass Savings Card**! It's that easy!
 
 {{< columns number="2" >}}**Bay Point Landing**<br>92443 Cape Arago Hwy<br>Charleston, OR 97420<br>541-351-9160 \| <a href="http://www.baypointlanding.com/" target="_blank" rel="noopener"><strong>Website</strong></a>
 
