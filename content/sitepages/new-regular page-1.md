@@ -54,35 +54,37 @@ Flash your **Fall Pass** card at any of these local favorites for the savings be
 
 <div style="width: 100%; height: 3px; background-color: #363c40; margin-bottom:15px;"></div>
 
-{{< columns number="2" >}}**Back Alley Pub & Grill**<br>1225 Virginia Ave<br>North Bend, OR 97459<br>541-756-0571<br>**OFFER:** *20% Off dinner*
+{{< columns number="2" >}}**Back Alley Pub & Grill**<br>1225 Virginia Ave<br>North Bend, OR 97459<br>541-297-0577 \| [Back Alley Pub & Grill Website](https://northbendlanes.com/Back-Alley-Pub-Grill)<br>**OFFER:** *20% Off dinner*
 
-**Blue Heron Bistro**<br>100 W Commercial Ave<br>Coos Bay, OR 97420<br>541-267-3933 \| <a href="https://www.facebook.com/Blueheronbistro" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *Free Dessert with Purchase of an Entree.*
+**Blue Heron Bistro**<br>100 Commercial Ave<br>Coos Bay, OR 97420<br>541-267-3933 \| [Blue Heron Bistro Website](https://www.blueheronbistro.net/)<br>**OFFER:** *Free Dessert with Purchase of an Entree.*
 
-**Plank House**<br>3201 Tremont Ave<br>North Bend, OR 97459<br>541-756-8800<br>**OFFER:** *Complimentary Dessert with Purchase of Entree*
+**Plank House at Ko-Kwel Casino Resort**<br>3201 Tremont Ave<br>North Bend, OR 97459<br>541-756-8800 \| [Plank House at Ko-Kwel Casino Resort Website](https://www.kokwelresorts.com/coos-bay/dining/plank-house-restaurant/)<br>**OFFER:** *Complimentary Dessert with Purchase of Entree*
 
-**SharkBite's Seafood Cafe**<br>242 S Broadway Ave<br>Coos Bay, OR 97420<br>541-269-7475 \| <a href="https://www.facebook.com/sharkbitesseafoodcafe" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *1 free dessert with the purchase of 2 entrees. Available for dine in only.*
+**SharkBite's Seafood Cafe**<br>242 S Broadway<br>Coos Bay, OR 97420<br>541-269-7475 \| [SharkBite's Seafood Cafe Website](https://www.sharkbites.cafe/)<br>**OFFER:** *1 free dessert with the purchase of 2 entrees. Available for dine in only.*
 
 divider
 
-**So It Goes Coffeehouse**<br>190 Central Ave<br>Coos Bay, OR 97420<br>541-808-9333 \| <a href="https://www.facebook.com/soitgoescoffeehouse" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *10% Off*
+**So It Goes Coffeehouse**<br>190 Central Ave<br>Coos Bay, OR 97420<br>541-808-9333 \| [So It Goes Coffeehouse Website](https://www.soitgoescoffee.com/)<br>**OFFER:** *10% Off*
 
-**Tin Thistle**<br>1972 Sherman Ave<br>North Bend, OR 97459<br>541-267-0267<br>**OFFER:** *10% off*
+**The Tin Thistle**<br>1972 Sherman Ave<br>North Bend, OR 97459<br>541-267-0267 \| [The Tin Thistle Facebook](https://www.facebook.com/thetinthistlecafe)<br>**OFFER:** *10% Off*
 
-**Wildflour Public House**<br>1987 Sherman Ave<br>North Bend, OR 97459<br>541-808-3633<br>**OFFER:** *10% off any entree, at anytime. And a complimentary house made baguette.*{{< /columns >}}
+**Wildflour Public House**<br>1987 Sherman Ave<br>North Bend, OR 97459<br>541-808-3633 \| [Wildflour Public House Website](https://www.wildflourpub.com/)<br>**OFFER:** *10% Off any entree, at anytime. And a complimentary house made baguette.*{{< /columns >}}
 
 ### Outfitters & Rentals
 
 <div style="width: 100%; height: 3px; background-color: #363c40; margin-bottom:15px;"></div>
 
-{{< columns number="2" >}}**Captain John's Fishermans Wharf**<br>Charleston Marina Dock D<br>Charleston, OR 97420<br>541-260-9110 \| <a href="https://www.facebook.com/profile.php?id=61574447611196" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *FREE- 2lbs. of Crab Bait*
+{{< columns number="2" >}}**Captain John's Fishermans Wharf**<br>63534 Kingfisher Rd, D-Dock Charleston Marina<br>Charleston, OR 97420<br>541-260-9110 \| [Captain John's Fishermans Wharf Facebook](https://www.facebook.com/p/Captain-Johns-Fishermans-Wharf-61574447611196/)<br>**OFFER:** *FREE - 2 lbs. Crab Bait: Tues-Sun, Noon-5pm*
 
-**Coastal Kayak & SUP Rentals**<br>Coos Bay, OR 97420<br>971-303-5793 \| <a href="https://www.facebook.com/paddleitup97420" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *ROGO - Rent One Get One Free (Must contact Coastal Kayak with an hour's notice to get the free rental)*
+**Coastal Kayak & SUP Rentals**<br>Rental kiosks at John Topits Park/Empire Lakes (Coos Bay) and Ten Mile Boat Ramp (Lakeside)<br>971-303-5793 \| [Coastal Kayak & SUP Rentals Facebook](https://www.facebook.com/paddleitup97420/)<br>**OFFER:** *ROGO - Rent One Get One Free (Must contact Coastal Kayak with an hour's notice to get the free rental)*
+
+**Davey Jones Locker**<br>91139 Cape Arago Hwy<br>Charleston, OR 97420<br>541-888-3941 \| [Davey Jones Locker Facebook](https://www.facebook.com/profile.php?id=100057440118391)<br>**OFFER:** *1 FREE Crab Pot Rental per group.*
 
 divider
 
-**Davey Jones Locker**<br>91139 Cape Arago Highway<br>Charleston, OR 97420<br>541-888-3941 \| <a href="https://www.facebook.com/profile.php?id=100057440118391" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *1 FREE Crab Pot Rental per group.*
+**Lucky Landings Fishing Charter**<br>Charleston Marina Boat Launch<br>Charleston, OR 97420<br>541-274-0972 \| [Lucky Landings Fishing Charter Website](https://lucky-landings.com/)<br>**OFFER 1:** *Book two available seats within 48 hours of departure and receive $50 off your booking. Subject to availability; applies to a booking of two available seats made within 48 hours of departure during the Fall Pass promotional period.*<br>**OFFER 2:** *Make a reservation for a qualifying 2027 fishing trip between Oct 1 and Nov 30, 2026, and get complimentary crabbing added using promo code FALLLUCKY. Subject to availability, season, weather and ocean conditions; applies to qualifying 2027 trips.*
 
-**Waxer's Surf & Skate**<br>242 S Broadway<br>Coos Bay, OR 97420<br>541-266-9020 \| <a href="https://www.facebook.com/profile.php?id=100057040255516" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *Buy 1 rental and get your second rental for free.*{{< /columns >}}
+**Waxer's Surf & Skate**<br>242 S Broadway<br>Coos Bay, OR 97420<br>541-266-9020 \| [Waxer's Surf & Skate Website](https://www.waxerssurfandskate.com/)<br>**OFFER:** *Buy 1 rental and get your second rental for free.*{{< /columns >}}
 
 ### Attractions
 
