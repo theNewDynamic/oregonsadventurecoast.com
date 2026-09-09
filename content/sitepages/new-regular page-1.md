@@ -106,22 +106,26 @@ divider
 
 <div style="width: 100%; height: 3px; background-color: #363c40; margin-bottom:15px;"></div>
 
-{{< columns number="2" >}}**Blue Sky Bike Shop**<br>134 S Broadway<br>Coos Bay, OR 97420<br>541-808-2646 \| <a href="https://www.facebook.com/p/Blue-Sky-Bike-Shop-61552349062894/" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *15% OFF apparel, protection, accessories, nutrition. Cannot be combined w/ other offers. Does not include bicycles, components or service.*
+{{< columns number="2" >}}**Bayshore Gifts & Gallery**<br>264 S Broadway<br>Coos Bay, OR 97420<br>541-808-0878 \| [Bayshore Gifts & Gallery Facebook](https://www.facebook.com/p/Bayshore-Gifts-Gallery-61555025407392/)<br>**OFFER:** *FREE souvenir pin, charm or keychain with any purchase of $5 or more.*
 
-**Boardwalk Bubbles**<br>1950 Sherman Ave<br>North Bend, OR 97459<br>541-630-0454 \| <a href="https://www.facebook.com/BoardwalkBubbles/" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *15% Off*
+**Blue Sky Bike Shop**<br>134 S Broadway<br>Coos Bay, OR 97420<br>541-808-2646 \| [Blue Sky Bike Shop Website](https://www.blueskybikeshop.com/)<br>**OFFER:** *15% Off apparel, protection, accessories, nutrition. Cannot be combined w/ other offers. Does not include bicycles, components or service.*
 
-**It's Romance Bookstore & Emporium**<br>375 Central Ave<br>Coos Bay, OR 97420<br>541-808-0313 \| <a href="https://www.facebook.com/profile.php?id=61579183192391" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *A free spin on our prize wheel! You could win a free bookmark, a percentage off purchase or even a free â€œblind date with a boo*
+**Boardwalk Bubbles**<br>1950 Sherman Ave<br>North Bend, OR 97459<br>541-630-0454 \| [Boardwalk Bubbles Website](https://www.boardwalkbubbles.com/)<br>**OFFER:** *15% Off*
 
-**Ko-Kwel Spirits Retail**<br>3201 Tremont Ave<br>North Bend, OR 97459<br>541-756-8800<br>**OFFER:** *10% Off Entire Purchase - excludes alcohol, tobacco and tribal consignment items*
+**It's Romance Bookstore & Emporium**<br>375 Central Ave<br>Coos Bay, OR 97420<br>541-808-0313 \| [It's Romance Bookstore & Emporium Facebook](https://www.facebook.com/profile.php?id=61579183192391)<br>**OFFER:** *A free spin on our prize wheel! You could win a free bookmark, a percentage off purchase or even a free "blind date with a book"!*
 
-**Ko-Kwel Gifts**<br>3201 Tremont St<br>North Bend, OR 97459<br>541-756-8800<br>**OFFER:** *10% Off Entire Purchase - excludes alcohol, tobacco and tribal consignment items*
+**Ko-Kwel Gifts**<br>3201 Tremont Ave<br>North Bend, OR 97459<br>541-756-8800 \| [Ko-Kwel Gifts Website](https://www.kokwelresorts.com/coos-bay/)<br>**OFFER:** *10% Off Entire Purchase - excludes alcohol, tobacco and tribal consignment items*
+
+**Ko-Kwel Spirits Retail**<br>3201 Tremont<br>North Bend, OR 97459<br>541-756-8800 \| [Ko-Kwel Spirits Retail Website](https://www.kokwelresorts.com/coos-bay/)<br>**OFFER:** *10% Off Entire Purchase - excludes alcohol, tobacco and tribal consignment items*
 
 divider
 
-**Leafs Treehouse**<br>311 S Broadway<br>Coos Bay, OR 97420<br>541-266-7348 \| <a href="https://www.facebook.com/TreehouseMall" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *20% OFF one item over $25*
+**Leafs Treehouse**<br>311 S Broadway<br>Coos Bay, OR 97420<br>541-266-7348 \| [Leafs Treehouse Facebook](https://www.facebook.com/TreehouseMall/)<br>**OFFER:** *20% Off one item over $25*
 
-**Saltwater & Sand**<br>347 South Broadway<br>Coos Bay, OR 97420<br>541-808-0676 \| <a href="https://www.facebook.com/profile.php?id=61566587826064" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *20% OFF one item over $25*
+**Saltwater & Sand**<br>347 S Broadway<br>Coos Bay, OR 97420<br>541-808-0676 \| [Saltwater & Sand Facebook](https://www.facebook.com/p/Saltwater-Sand-61566587826064/)<br>**OFFER:** *20% Off one item over $25*
 
-**Wild Coast Running Co**<br>145 S Broadway<br>Coos Bay, OR 97420<br>541-808-9700 \| <a href="https://www.facebook.com/wildcoastrunningco" target="_blank" rel="noopener"><strong>Facebook</strong></a><br>**OFFER:** *10% Off In-Store Purchase, excluding sale items*
+**Vintage 101**<br>270 S Broadway<br>Coos Bay, OR 97420<br>541-808-0980 \| [Vintage 101 Facebook](https://www.facebook.com/Vintage101CoosBay/)<br>**OFFER:** *Two FREE pieces of gourmet chocolate with any purchase*
 
-**Yesterday's Charm Vintage & More**<br>170 Empire Blvd<br>Coos Bay, OR 97420<br>541-534-4072 \| <a href="https://www.facebook.com/share/17p9ebJenY/?mibextid=wwXIfr" target="_blank" rel="noopener"><strong>Facebook(opens in new tab)</strong></a><br>**OFFER:** *20% Off Purchase*{{< /columns >}}
+**Wild Coast Running Co**<br>147 S Broadway<br>Coos Bay, OR 97420<br>541-808-9700 \| [Wild Coast Running Co Website](https://www.wildcoastrunning.com/)<br>**OFFER:** *10% Off In-Store Purchase, excluding sale items*
+
+**Yesterday's Charm Vintage & More**<br>170 S Empire Blvd<br>Coos Bay, OR 97420<br>541-297-6810 \| [Yesterday's Charm Vintage & More Facebook](https://www.facebook.com/profile.php?id=61570728262938)<br>**OFFER:** *20% Off Purchase*{{< /columns >}}
