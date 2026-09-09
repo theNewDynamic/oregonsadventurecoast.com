@@ -5,10 +5,9 @@ url: /atv-motorsports
 photo: /img/adventures-atv-motorsports.jpg
 seo:
   title: Oregon Coast Outdoor Activities - ATV/Motorsport | Oregon's Adventure Coast
-  description: >-
-    Looking for the best outdoor activities for your Oregon Coast vacation?
-    Pulse-pounding adventure hides over every dune! Include ATV & motorsports in
-    your next coastal vacation.
+  description: Looking for the best outdoor activities for your Oregon Coast
+    vacation? Pulse-pounding adventure hides over every dune! Include ATV &
+    motorsports in your next coastal vacation.
 aliases:
   - /featured-adventures/atving-motorsports
   - /activities/category/atv-motorsports
@@ -23,9 +22,7 @@ The [Oregon Dunes National Recreation Area](https://www.stateparks.com/oregon_du
 
 Zipping up and down the stunning Pacific Ocean beach dunes is a hair-raising good time that’s sure to be remembered for years to come. The dunes extend inland as much as two-and-a-half miles and are the perfect place to create unforgettable stories. The shifting, sand-sculpted nature of [The Dunes means every adventure is one of a kind here](https://www.stateparks.com/oregon_dunes.html).
 
-{{< spacer 30 >}}
-
-[![Stay two nights and receive a $75 Summer Fuel Freebie — Oregon's Adventure Coast, Coos Bay, North Bend, Charleston.](/img/728x90-fuel-freebie-van-kids-05-26.jpg)](/fuel)
+For current riding conditions and other information about the Oregon Dunes, visit Oregon Dunes Guide.
 
 {{< spacer "50" >}}
 
