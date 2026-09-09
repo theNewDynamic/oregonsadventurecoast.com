@@ -43,13 +43,15 @@ Use your card for special offers at various local restaurants, coffee houses, re
 
 <div style="width: 100%; height: 3px; background-color: #363c40; margin-bottom:15px;"></div>
 
-**Bananas Kiddo Kingdom**<br>222 S Broadway<br>Coos Bay, OR 97420<br>541-435-7675 \| [**Facebook**](https://www.facebook.com/profile.php?id=61573109316441)<br>**OFFER:** *Half off all your kids day passes.*
+**Bananas Kiddo Kingdom**<br>222 S Broadway<br>Coos Bay, OR 97420<br>541-435-7675 \| [Bananas Kiddo Kingdom Website](https://www.bananaskiddokingdom.org/)<br>**OFFER:** *Half Off all your kids day passes*
 
-**Egyptian Theater**<br>229 S Broadway<br>Coos Bay, OR 97420<br>541-808-8295<br>**OFFER:** *FREE Small Popcorn and Medium Soda with a ticket purchase to any event*
+**Coos Art Museum**<br>235 Anderson Ave<br>Coos Bay, OR 97420<br>541-267-3901 \| [Coos Art Museum Website](https://coosartmuseum.org/)<br>**OFFER:** *Buy One Entry, Receive a Complimentary Entry to the oldest Art Museum on the Oregon Coast*
 
-divider
+**The Dolphin Playhouse**<br>580 Newmark Ave<br>Coos Bay, OR 97420<br>541-808-2611 \| [The Dolphin Playhouse Website](https://www.thedolphinplayhouse.com/)<br>**OFFER:** *"Bring a Friend" Combo—get two tickets plus two free popcorns for just $25! For The Lost Virginity Tour production, October 10-25.*
 
-**North Bend Lanes**<br>1225 Virginia Ave<br>North Bend, OR 97459<br>541-756-0571<br>**OFFER:** *Buy 1 hour of bowling get one free*
+**Egyptian Theater**<br>229 S Broadway<br>Coos Bay, OR 97420<br>541-808-8295 \| [Egyptian Theater Website](https://www.egyptiantheatre.events/)<br>**OFFER:** *FREE Small Popcorn and Medium Soda with a ticket purchase to any event*
+
+**North Bend Lanes**<br>1225 Virginia Ave<br>North Bend, OR 97459<br>541-297-0577 \| [North Bend Lanes Website](https://northbendlanes.com/)<br>**OFFER:** *Buy 1 Hour of Bowling get one Free*
 
 ## Shopping & Gifts
 
