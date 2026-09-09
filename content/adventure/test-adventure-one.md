@@ -22,6 +22,8 @@ The [Oregon Dunes National Recreation Area](https://www.stateparks.com/oregon_du
 
 Zipping up and down the stunning Pacific Ocean beach dunes is a hair-raising good time that’s sure to be remembered for years to come. The dunes extend inland as much as two-and-a-half miles and are the perfect place to create unforgettable stories. The shifting, sand-sculpted nature of [The Dunes means every adventure is one of a kind here](https://www.stateparks.com/oregon_dunes.html).
 
+For current riding conditions and other information about the Oregon Dunes, visit Oregon Dunes Guide.
+
 {{< spacer "50" >}}
 
 {{< youtube id="x6Qro7ktN-w" >}}
