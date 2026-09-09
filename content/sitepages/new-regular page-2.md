@@ -13,19 +13,19 @@ Use your card for special offers at various local restaurants, coffee houses, re
 
 <div style="width: 100%; height: 3px; background-color: #363c40; margin-bottom:15px;"></div>
 
-**Back Alley Pub & Grill**<br>1225 Virginia Ave<br>North Bend, OR 97459<br>541-756-0571<br>**OFFER:** *20% Off dinner*
+**Back Alley Pub & Grill**<br>1225 Virginia Ave<br>North Bend, OR 97459<br>541-297-0577 \| [Back Alley Pub & Grill Website](https://northbendlanes.com/Back-Alley-Pub-Grill)<br>**OFFER:** *20% Off dinner*
 
-**Blue Heron Bistro**<br>100 W Commercial Ave<br>Coos Bay, OR 97420<br>541-267-3933 \| [**Facebook**](https://www.facebook.com/Blueheronbistro)<br>**OFFER:** *Free Dessert with Purchase of an Entree.*
+**Blue Heron Bistro**<br>100 Commercial Ave<br>Coos Bay, OR 97420<br>541-267-3933 \| [Blue Heron Bistro Website](https://www.blueheronbistro.net/)<br>**OFFER:** *Free Dessert with Purchase of an Entree.*
 
-**Plank House**<br>3201 Tremont Ave<br>North Bend, OR 97459<br>541-756-8800<br>**OFFER:** *Complimentary Dessert with Purchase of Entree*
+**Plank House at Ko-Kwel Casino Resort**<br>3201 Tremont Ave<br>North Bend, OR 97459<br>541-756-8800 \| [Plank House at Ko-Kwel Casino Resort Website](https://www.kokwelresorts.com/coos-bay/dining/plank-house-restaurant/)<br>**OFFER:** *Complimentary Dessert with Purchase of Entree*
 
-**SharkBite's Seafood Cafe**<br>242 S Broadway Ave<br>Coos Bay, OR 97420<br>541-269-7475 \| [**Facebook**](https://www.facebook.com/sharkbitesseafoodcafe)<br>**OFFER:** *1 free dessert with the purchase of 2 entrees. Available for dine in only.*
+**SharkBite's Seafood Cafe**<br>242 S Broadway<br>Coos Bay, OR 97420<br>541-269-7475 \| [SharkBite's Seafood Cafe Website](https://www.sharkbites.cafe/)<br>**OFFER:** *1 free dessert with the purchase of 2 entrees. Available for dine in only.*
 
-**So It Goes Coffeehouse**<br>190 Central Ave<br>Coos Bay, OR 97420<br>541-808-9333 \| [**Facebook**](https://www.facebook.com/soitgoescoffeehouse)<br>**OFFER:** *10% Off*
+**So It Goes Coffeehouse**<br>190 Central Ave<br>Coos Bay, OR 97420<br>541-808-9333 \| [So It Goes Coffeehouse Website](https://www.soitgoescoffee.com/)<br>**OFFER:** *10% Off*
 
-**Tin Thistle**<br>1972 Sherman Ave<br>North Bend, OR 97459<br>541-267-0267<br>**OFFER:** *10% off*
+**The Tin Thistle**<br>1972 Sherman Ave<br>North Bend, OR 97459<br>541-267-0267 \| [The Tin Thistle Facebook](https://www.facebook.com/thetinthistlecafe)<br>**OFFER:** *10% Off*
 
-**Wildflour Public House**<br>1987 Sherman Ave<br>North Bend, OR 97459<br>541-808-3633<br>**OFFER:** *10% off any entree, at anytime. And a complimentary house made baguette.*
+**Wildflour Public House**<br>1987 Sherman Ave<br>North Bend, OR 97459<br>541-808-3633 \| [Wildflour Public House Website](https://www.wildflourpub.com/)<br>**OFFER:** *10% Off any entree, at anytime. And a complimentary house made baguette.*
 
 ## Outfitters & Rentals
 
