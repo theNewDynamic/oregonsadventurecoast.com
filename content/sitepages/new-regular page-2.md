@@ -7,6 +7,8 @@ layout: headless
 ---
 # Fall Pass Savings 2026
 
+![Fall Pass banner: Savings for your fall getaway.](/img/fall-pass-stripped-listings.jpg)
+
 Use your card for special offers at various local restaurants, coffee houses, rental shops, and more! ***Valid October 1 – November 30, 2026, at participating partners listed below.***
 
 ## Restaurants
