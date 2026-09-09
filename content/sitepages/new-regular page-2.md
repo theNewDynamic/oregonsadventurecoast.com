@@ -85,7 +85,7 @@ Use your card for special offers at various local restaurants, coffee houses, re
 
 **Yesterday's Charm Vintage & More**<br>170 S Empire Blvd<br>Coos Bay, OR 97420<br>541-297-6810 \| [Yesterday's Charm Vintage & More Facebook](https://www.facebook.com/profile.php?id=61570728262938)<br>**OFFER:** *20% Off Purchase*
 
-<img src="/img/oac-full-color-logo-600w.jpg" alt="Oregon's Adventure Coast: Coos Bay - North Bend - Charleston full color logo." style="max-width: 100%; height: auto; display: block;">
+<a href="/" aria-label="Home"><img src="/img/oac-full-color-logo-600w.jpg" alt="Oregon's Adventure Coast: Coos Bay - North Bend - Charleston full color logo." style="max-width: 100%; height: auto; display: block;"></a>
 
 ### Ready for more? Explore everything Oregon's Adventure Coast has to offer. [Visit the home page to get started](/)!
 
