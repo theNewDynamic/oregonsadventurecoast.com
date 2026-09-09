@@ -6,13 +6,11 @@ url: /fall-pass-listings
 layout: headless
 ---
 
-<div style="margin:20px;">
-
-# Fall Pass Savings 2026
-
+<div style="margin:20px 20px 30px 20px;">
 
 <img src="/img/fall-pass-stripped-listings.jpg" alt="Fall Pass banner: Savings for your fall getaway." style="max-width: 100%; height: auto; display: block;">
 
+# Fall Pass Savings 2026
 Use your card for special offers at various local restaurants, coffee houses, rental shops, and more! ***Valid October 1 – November 30, 2026, at participating partners listed below.***
 
 ## Restaurants
@@ -90,6 +88,5 @@ Use your card for special offers at various local restaurants, coffee houses, re
 <img src="/img/oac-full-color-logo-600w.jpg" alt="Oregon's Adventure Coast: Coos Bay - North Bend - Charleston full color logo." style="max-width: 100%; height: auto; display: block;">
 
 ### Ready for more? Explore everything Oregon's Adventure Coast has to offer. [Visit the home page to get started](/)!
-</div>
 
-&nbsp;
+</div>
