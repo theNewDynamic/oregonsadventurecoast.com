@@ -67,7 +67,7 @@ Use your card for special offers at various local restaurants, coffee houses, re
 
 **Ko-Kwel Gifts**<br>3201 Tremont Ave<br>North Bend, OR 97459<br>541-756-8800 \| [Ko-Kwel Gifts Website](https://www.kokwelresorts.com/coos-bay/)<br>**OFFER:** *10% Off Entire Purchase - excludes alcohol, tobacco and tribal consignment items*
 
-**Ko-Kwel Spirits Retail**<br>3201 Tremont<br>North Bend, OR 97459<br>541-756-8800 \| [Ko-Kwel Spirits Retail Website](https://www.kokwelresorts.com/coos-bay/)<br>**OFFER:** *10% Off Entire Purchase - excludes alcohol, tobacco and tribal consignment items*
+**Ko-Kwel Spirits Retail**<br>3201 Tremont Ave<br>North Bend, OR 97459<br>541-756-8800 \| [Ko-Kwel Spirits Retail Website](https://www.kokwelresorts.com/coos-bay/)<br>**OFFER:** *10% Off Entire Purchase - excludes alcohol, tobacco and tribal consignment items*
 
 **Leafs Treehouse**<br>311 S Broadway<br>Coos Bay, OR 97420<br>541-266-7348 \| [Leafs Treehouse Facebook](https://www.facebook.com/TreehouseMall/)<br>**OFFER:** *20% Off one item over $25*
 
