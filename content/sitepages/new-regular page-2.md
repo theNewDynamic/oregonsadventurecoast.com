@@ -31,13 +31,15 @@ Use your card for special offers at various local restaurants, coffee houses, re
 
 <div style="width: 100%; height: 3px; background-color: #363c40; margin-bottom:15px;"></div>
 
-**Captain John's Fishermans Wharf**<br>Charleston Marina Dock D<br>Charleston, OR 97420<br>541-260-9110 \| [**Facebook**](https://www.facebook.com/profile.php?id=61574447611196)<br>**OFFER:** *FREE- 2lbs. of Crab Bait*
+**Captain John's Fishermans Wharf**<br>63534 Kingfisher Rd, D-Dock Charleston Marina<br>Charleston, OR 97420<br>541-260-9110 \| [Captain John's Fishermans Wharf Facebook](https://www.facebook.com/p/Captain-Johns-Fishermans-Wharf-61574447611196/)<br>**OFFER:** *FREE - 2 lbs. Crab Bait: Tues-Sun, Noon-5pm*
 
-**Coastal Kayak & SUP Rentals**<br>Coos Bay, OR 97420<br>971-303-5793 \| [**Facebook**](https://www.facebook.com/paddleitup97420)<br>**OFFER:** *ROGO - Rent One Get One Free (Must contact Coastal Kayak with an hour's notice to get the free rental)*
+**Coastal Kayak & SUP Rentals**<br>Rental kiosks at John Topits Park/Empire Lakes (Coos Bay) and Ten Mile Boat Ramp (Lakeside)<br>971-303-5793 \| [Coastal Kayak & SUP Rentals Facebook](https://www.facebook.com/paddleitup97420/)<br>**OFFER:** *ROGO - Rent One Get One Free (Must contact Coastal Kayak with an hour's notice to get the free rental)*
 
-**Davey Jones Locker**<br>91139 Cape Arago Highway<br>Charleston, OR 97420<br>541-888-3941 \| [**Facebook**](https://www.facebook.com/profile.php?id=100057440118391)<br>**OFFER:** *1 FREE Crab Pot Rental per group.*
+**Davey Jones Locker**<br>91139 Cape Arago Hwy<br>Charleston, OR 97420<br>541-888-3941 \| [Davey Jones Locker Facebook](https://www.facebook.com/profile.php?id=100057440118391)<br>**OFFER:** *1 FREE Crab Pot Rental per group.*
 
-**Waxer's Surf & Skate**<br>242 S Broadway<br>Coos Bay, OR 97420<br>541-266-9020 \| [**Facebook**](https://www.facebook.com/profile.php?id=100057040255516)<br>**OFFER:** *Buy 1 rental and get your second rental for free.*
+**Lucky Landings Fishing Charter**<br>Charleston Marina Boat Launch<br>Charleston, OR 97420<br>541-274-0972 \| [Lucky Landings Fishing Charter Website](https://lucky-landings.com/)<br>**OFFER 1:** *Book two available seats within 48 hours of departure and receive $50 off your booking. Subject to availability; applies to a booking of two available seats made within 48 hours of departure during the Fall Pass promotional period.*<br>**OFFER 2:** *Make a reservation for a qualifying 2027 fishing trip between Oct 1 and Nov 30, 2026, and get complimentary crabbing added using promo code FALLLUCKY. Subject to availability, season, weather and ocean conditions; applies to qualifying 2027 trips.*
+
+**Waxer's Surf & Skate**<br>242 S Broadway<br>Coos Bay, OR 97420<br>541-266-9020 \| [Waxer's Surf & Skate Website](https://www.waxerssurfandskate.com/)<br>**OFFER:** *Buy 1 rental and get your second rental for free.*
 
 ## Attractions
 
