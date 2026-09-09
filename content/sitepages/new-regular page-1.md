@@ -34,6 +34,8 @@ Book your stay at one of these participating lodging properties and when you che
 
 divider
 
+**Global Inn<br>**1001 N. Bayshore Dr<br>Coos Bay, OR 97420<br>541-808-0700 \| [Website](https://www.globalinnhotelcoosbay.com/)
+
 **Ko-Kwel Casino Resort \| Coos Bay**<br>3201 Tremont Ave<br>North Bend, OR 97459<br>541-756-8800 \| <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener"><strong>Website</strong></a>
 
 **Quality Inn & Suites**<br>1503 Virginia Ave<br>North Bend, OR 97459<br>541-756-3191 \| <a href="http://www.coosbayinn.com/" target="_blank" rel="noopener"><strong>Website</strong></a>
