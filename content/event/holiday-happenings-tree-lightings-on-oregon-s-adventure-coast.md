@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Holiday Happenings & Tree Lightings on Oregon's Adventure Coast!
-startdate: '2025-11-29'
+startdate: '2026-11-29'
 enddate: '2026-01-01'
 address:
   city: Coos Bay, North Bend, Empire, Charleston
@@ -39,23 +39,23 @@ aliases:
 
 ![](/img/shopping-sub-header-695x200.jpg)
 
-#### November 14-15, 2025<br>Downtown Coos Bay Holiday Open House
+#### November 13-14, 2026<br>Downtown Coos Bay Holiday Open House
 
-Get into the holiday spirit and work on your gift-giving lists at the <a href="https://coosbaydowntown.com/2025/10/annual-downtown-holiday-open-house/" target="_blank" rel="noopener">Annual Downtown Coos Bay Holiday Open House</a>. Browse participating shops for gift-giving inspirations and holiday home decor while entering to win door prizes. Enjoy refreshments and enter to win door prizes. You just might be able to finish that gift giving list early! Start your shopping journey either downtown at Leaf’s Treehouse Mini Mall – 311 S Broadway or at the Coos Bay Village at Checkerberry’s Flowers & Gifts – 1290 N. Bayshore Drive where you can pick up the Downtown Open House list of participating businesses.
+Get into the holiday spirit and work on your gift-giving lists at the **Annual Downtown Coos Bay Holiday Open House**. Browse participating shops for gift-giving inspirations and holiday home decor. Enjoy refreshments and enter to win door prizes. You just might be able to finish that gift giving list early! More information coming soon.
 
-Keep your receipts for purchase in the downtown area between November 14-29 and redeem them for a holiday mug on Shop Small Saturday, November 29th at Jennie's Shoes!
+Keep your receipts for purchase in the downtown area between November 13-28 and redeem them for a holiday mug on Shop Small Saturday, November 28th at Jennie's Shoes!
 
 {{< spacer 50 >}}
 
 ![Ice Skating in North Bend, Oregon](/img/ice-skating-north-bend-695x200.jpg)
 
-#### November 15, 2025-January 31, 2026<br>Ice Skating in Downtown North Bend!
+#### November 21, 2026-Valentine's Day 2027<br>Ice Skating in Downtown North Bend!
 
-Bring your friends, bring your family and enjoy the ONLY <a href="https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/" target="_blank" rel="noopener">Ice Skating Rink on the Oregon Coast</a>! From mid-November through the end of January, lace up a pair of skates and take to the ice. Skate Rentals $5. Visit our <a href="https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/" target="_blank" rel="noopener">Events Page</a> for more information!
+Bring your friends, bring your family and enjoy the ONLY <a href="https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/" target="_blank" rel="noopener">Ice Skating Rink on the Oregon Coast</a>! From mid-November through Valentine's Day, lace up a pair of skates and take to the ice. Skate Rentals $5. Visit our <a href="https://www.oregonsadventurecoast.com/event/ice-skating-in-north-bend/" target="_blank" rel="noopener">Events Page</a> for more information!
 
 ![Holiday Lights at Shore Acres State Park in Charleston Oregon](/img/holiday-lights-sub-section-hdr.jpg)
 
-#### November 27-December 31, 2025<br>Holiday Lights at Shore Acres State Park
+#### November 26-December 31, 2026<br>Holiday Lights at Shore Acres State Park
 
 More info on this very special holiday event, brought to us by the [**Friends of Shore Acres**](https://shoreacres.net/about-us/about-friends-of-shore-acres-inc/) since 1986, and the Timed Parking System, [**click here**](/event/annual-holiday-lights-at-shore-acres/)!
 
@@ -67,7 +67,7 @@ More info on this very special holiday event, brought to us by the [**Friends of
 
 ![](/img/holiday-railroad-train-sub-section-hdr.jpg)
 
-#### November 28, 2025 - January 1, 2026<br>Oregon Coast Historic Railway Museum Lights
+#### November TBD, 2026 - January 1, 2027<br>Oregon Coast Historic Railway Museum Lights
 
 Right in downtown Coos Bay is another spectacular holiday lights display - vintage railroad engines, cabooses and other equipment festooned in 100,000 lights and ornaments! You cannot miss this beautiful display as you travel along Hwy 101 through Coos Bay! View the lights from your vehicle or from the sidewalk in front of the museum. The display is always FREE! Youngsters will love spying the stuffed animals inside the windows of the train! The lights are illuminated from dusk until 11pm every night through New Year's Day.
 
@@ -75,7 +75,7 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 ![Ceramic bells hanging in a display](/img/ceramic-bells-sub-section-hdr.jpg)
 
-#### November 28-29, 2025<br>Holiday Market at Coos History Museum
+#### November TBD, 2026<br>Holiday Market at Coos History Museum
 
 Join local artisans, crafts people,  food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Market is Free!
 
@@ -83,19 +83,17 @@ Join local artisans, crafts people,  food vendors, and more for your annual Holi
 
 ![Coos Bay Tree lighting with Santa dn the movie Elf!](/img/coos-bay-tree-lighting-sub-sect-hdr.jpg)
 
-#### November 29, 2025<br>Santa Visit, Parade & Tree Lighting at the Coos Bay Visitor Center with Santa
+#### November 28, 2025<br>Tree Lighting at the Coos Bay Visitor Center with Santa Plus a Santa Parade & Visit with the Kiddos
 
-***NOTE: This event is on Saturday this year.*** Join Santa at **Coos Bay Visitor Center** to share your wish list and get your holiday photo from 2:30 to 4:30pm, then meet Santa at 5pm at **Coos Bay City Hall** for  the **Walking Lighted Parade** to the Visitor Center for the **Coos Bay Tree Lighting**! The Tree Lighting event begins with cookies and cider in the Visitor Center at 4:30pm for those who do not wish to be part of the parade. Santa will light the tree at 5:30pm in the Visitor Center parking lot located at 50 Central Ave at Highway 101.
+***NOTE: This event is on Saturday this year.*** Meet Santa at 5pm at **Coos Bay City Hall** for a **Walking Lighted Parade** to the Coos Bay Visitor Center for the **Coos Bay Tree Lighting**! The Tree Lighting event begins with cookies and cider in the Visitor Center at 4:30pm for those who do not wish to be part of the parade. Santa will light the tree at 5:30pm in the Visitor Center parking lot located at 50 Central Ave at Highway 101. Following the Tree Lighting, join Santa in the **Coos Bay Visitor Center** to share your wish list and get your holiday photo.
 
 {{< spacer "50" >}}
 
 ![Small Business Saturday Shopping on Oregon's Adventure Coast](/img/small-business-shopping-sub-section-hdr.jpg)
 
-#### November 29, 2025<br>Shop Small Saturday in Downtown Coos Bay and North Bend
+#### November 28, 2025<br>Shop Small Saturday in Downtown Coos Bay and North Bend
 
 **Shop Small Saturday encourages us to shop at small, local shops this holiday season!**&nbsp;The Coos Bay Downtown Association and North Bend Main Street invite you to spend Saturday after Thanksgiving in both downtown districts for Shop Small Saturday. Shop Small Saturday encourages shoppers to support their neighborhood businesses and to embrace the day as a holiday shopping tradition.
-
-In Coos Bay, enjoy the **Nog & Cider Walk** from 11am to 3pm at participating businesses. Egg nog and cider will be served while you shop for wonderful holiday gifts. Pick up a map of businesses at Jennie's Shoes on Central Avenue. ***And don't forget Santa will be at the Coos Bay Visitor Center from 2:30 to 4:30 and the tree lighting will be at 5:30pm.***
 
 {{< spacer 50 >}}
 
@@ -109,31 +107,31 @@ Find the Mischievous Elf on the Shelf at participating businesses in North Bend!
 
 ![](/img/fest-of-trees.jpeg)
 
-#### December 2, 3 & 4, 2025<br>Festival of Trees Holiday Showcase and Benefit Auction
+#### December 1-3, 2026<br>Festival of Trees Holiday Showcase and Benefit Auction
 
-Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) (*formerly The Mill Casino \* Hotel & RV Park*) to view the amazing trees and wreaths decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp;Trees and wreaths on display December 2nd & 3rd. Auction and dinner on December 4th. All trees will be auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
+Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) to view the amazing trees and wreaths decorated by local businesses and organizations for the annual fundraiser, Festival of Trees.&nbsp;Trees and wreaths on display December 1st & 2nd. Auction and dinner on December 3rd. All trees will be auctioned. Proceeds benefit the programs of the <a href="https://www.facebook.com/cbnbrotary" target="_blank" rel="noopener">Coos Bay-North Bend Rotary Club</a>.
 
 {{< spacer "50" >}}
 
 ![](/img/concertband.jpg)
 
-#### December 4 & 7, 2025<br>Bay Area Concert Band Fall into Winter Concert Series
+#### December 3rd & 6th, 2026<br>Bay Area Concert Band Fall into Winter Concert Series
 
-The North Bend Presbyterian Church, 2238 Pony Creek Road, will be filled with the sounds of winter this year as the Bay Area Concert Band performs two concerts. The 40-plus-year-old concert band will perform various holiday selections. These concerts are Free but Donations are Welcome! Concerts are Thursday, Dec 4th at 7:30pm and Sunday, December 7th at 2:00pm.
+The North Bend Presbyterian Church, 2238 Pony Creek Road, will be filled with the sounds of winter this year as the Bay Area Concert Band performs two concerts. The 40-plus-year-old concert band will perform various holiday selections. These concerts are Free but Donations are Welcome! Concerts are Thursday, Dec 3rd at 7:30pm and Sunday, December 6th at 2:00pm.
 
 {{< spacer "50" >}}
 
 ![Evergreen and holiday sheet music](/img/choir-singers-holiday-happenings-695x200-1.jpg)
 
-#### December 8, 2025<br>Coos Singers Community Choir Holiday Concert
+#### December TBD, 2026<br>Coos Singers Community Choir Holiday Concert
 
-Marshfield High's Auditorium will be filled with the sounds of the holidays as the Coos Singers take the stage for their annual “SING WE NOW...” Holiday Concert. This year, special guest cellist, Dace Gregory, will join the choir. This Langlois resident, born in Latvia, is an internationally recognized musician. The concert begins at 7pm and admission is free. Donations gratefully accepted.
+Marshfield High's Auditorium will be filled with the sounds of the holidays as the Coos Singers take the stage for their annual “SING WE NOW...” Holiday Concert. The concert begins at 7pm and admission is free. Donations gratefully accepted.
 
 {{< spacer "50" >}}
 
 ![Christmas Opry at Liberty Theatre in North Bend Oregon](/img/holiday-opry-sub-section-hdr.jpg)
 
-#### December 5-7, 2025<br>Christmas Opry in December!
+#### December 4-6, 2025<br>Christmas Opry in December!
 
 Christmas “Little Ole Opry on the Bay” returns to the Liberty Theatre just in time to celebrate the holiday season. This family-friendly show offers a diverse song list including both traditional and contemporary music, from “Away in a Manger” to “All I Want For Christmas Is You.” &nbsp;Shows run 7-9 pm Friday & Saturday, with matinees at 2pm on Saturday & Sunday.
 
@@ -143,30 +141,24 @@ Christmas “Little Ole Opry on the Bay” returns to the Liberty Theatre just i
 
 ![family standing in front of a christmas tree lighting](/img/empire-treelighting-sub-section-hdr.jpg)
 
-#### December 5, 2025<br>Empire District Tree Lighting, Gingerbread House Display and Santa Visit
+#### December 4, 2026<br>Empire District Tree Lighting, Gingerbread House Display and Santa Visit
 
-The Empire District of Coos Bay will hold their annual Tree Lighting, Gingerbread House display, Visits with Santa, and Star of Hope Holiday Open House from 5pm to 7pm. Vote for your favorite Empire District business decorations. Take photos with Santa and enjoy cookies, cider, caroling and more! <a href="https://www.facebook.com/profile.php?id=100068452241223" target="_blank" rel="noopener">More Information Here</a>.
+The Empire District of Coos Bay will hold their annual Tree Lighting, Gingerbread House display, Visits with Santa, and Star of Hope Holiday Open House from 5pm to 7pm. Vote for your favorite Empire District business decorations. Take photos with Santa and enjoy cookies, cider, caroling and more!
 
 {{< spacer 50 >}}
 
 ![North Bend Tree lighting festival, lighted truck parade and Ice skating](/img/north-bend-firetruck-sub-section-hdr-1.jpg)
 
-#### December 6, 2025<br>North Bend's Christmas On Main
+#### December 5, 2026<br>North Bend's Christmas On Main
 
 Downtown North Bend transforms into a **Winter Wonderland.** Dive deep into the holiday spirit. Events include Ice Skating, North Bend Tree Lighting, & Lighted Truck Parade in Downtown North Bend! Visit our <a href="https://www.oregonsadventurecoast.com/event/christmas-on-main-north-bend/" target="_blank" rel="noopener">Events Page</a> for more information.
 
 {{< spacer 50 >}}
 
-![cup of hot cocoa on table with evergreen](/img/hot-coca-mug-695x200.jpg)
-
-#### December 20, 2025<br>Hot Chocolate Sip N Stroll
-
-Join the Charleston Merchants Association for the **First Annual Hot Chocolate Sip N’ Stroll** on **Saturday, December 20, from 4–8 pm**. Pick up your keepsake mug, event map, and wristband at the Charleston Visitor Center (91143 Cape Arago Hwy), then enjoy sweet treats and stops at participating local shops. After the stroll, head to the Charleston Marina parking lot to catch the **Holiday Lights Santa’s Shuttle** for a festive ride to the Shore Acres Holiday Lights.
-
-{{< spacer "50" >}}
+&nbsp;
 
 ![polar bear plunge into the pacific ocean on New Year's Day](/img/polar-bear-plunge-sub-section-hdr.jpg)
 
-#### January 1, 2026<br>Plunge into 2026 at the Polar Bear Plunge
+#### January 1, 2027<br>Plunge into 2027 at the Polar Bear Plunge
 
-Got New Year's plans? You do now! Kick off 2026 with the Polar Bear Plunge at 9:00am, January 1st at Sunset Bay State Park!
+Got New Year's plans? You do now! Kick off 2027 with the Polar Bear Plunge at 9:00am, January 1st at Sunset Bay State Park!
