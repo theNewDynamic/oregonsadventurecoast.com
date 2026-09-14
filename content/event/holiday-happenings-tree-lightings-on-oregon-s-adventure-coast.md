@@ -85,7 +85,7 @@ Join local artisans, crafts people,  food vendors, and more for your annual Holi
 
 #### November 28, 2025<br>Tree Lighting at the Coos Bay Visitor Center with Santa Plus a Santa Parade & Visit with the Kiddos
 
-***NOTE: This event is on Saturday this year.*** Meet Santa at 5pm at **Coos Bay City Hall** for a **Walking Lighted Parade** to the Coos Bay Visitor Center for the **Coos Bay Tree Lighting**! The Tree Lighting event begins with cookies and cider in the Visitor Center at 4:30pm for those who do not wish to be part of the parade. Santa will light the tree at 5:30pm in the Visitor Center parking lot located at 50 Central Ave at Highway 101. Following the Tree Lighting, join Santa in the **Coos Bay Visitor Center** to share your wish list and get your holiday photo.
+***NOTE: This event is on Saturday this year.*** Santa will hear from all the wishes from the kiddos from 3pm-5pm at the **Coos Bay Downtown Association** Office (ground floor) at 320 Central Ave. Santa will then lead the **Walking Lighted Parade** to the Coos Bay Visitor Center for the **Coos Bay Tree Lighting** beginning at 5:30pm. The Tree Lighting event begins with cookies and cider in the Visitor Center at 4:30pm for those who do not wish to be part of the parade. Santa will light the tree at 5:45pm in the Visitor Center parking lot located at 50 Central Ave at Highway 101.
 
 {{< spacer "50" >}}
 
