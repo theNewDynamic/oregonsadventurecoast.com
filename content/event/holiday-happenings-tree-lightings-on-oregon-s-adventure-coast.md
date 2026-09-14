@@ -113,37 +113,31 @@ Visit [Ko-Kwel Casino Resort Coos Bay](https://www.kokwelresorts.com/coos-bay/) 
 
 {{< spacer "50" >}}
 
-![](/img/concertband.jpg)
-
-#### December 3rd & 6th, 2026<br>Bay Area Concert Band Fall into Winter Concert Series
-
-The North Bend Presbyterian Church, 2238 Pony Creek Road, will be filled with the sounds of winter this year as the Bay Area Concert Band performs two concerts. The 40-plus-year-old concert band will perform various holiday selections. These concerts are Free but Donations are Welcome! Concerts are Thursday, Dec 3rd at 7:30pm and Sunday, December 6th at 2:00pm.
-
-{{< spacer "50" >}}
-
-![Evergreen and holiday sheet music](/img/choir-singers-holiday-happenings-695x200-1.jpg)
-
-#### December TBD, 2026<br>Coos Singers Community Choir Holiday Concert
-
-Marshfield High's Auditorium will be filled with the sounds of the holidays as the Coos Singers take the stage for their annual “SING WE NOW...” Holiday Concert. The concert begins at 7pm and admission is free. Donations gratefully accepted.
-
-{{< spacer "50" >}}
-
 ![Christmas Opry at Liberty Theatre in North Bend Oregon](/img/holiday-opry-sub-section-hdr.jpg)
 
 #### December 4-6, 2025<br>Christmas Opry in December!
 
-Christmas “Little Ole Opry on the Bay” returns to the Liberty Theatre just in time to celebrate the holiday season. This family-friendly show offers a diverse song list including both traditional and contemporary music, from “Away in a Manger” to “All I Want For Christmas Is You.” &nbsp;Shows run 7-9 pm Friday & Saturday, with matinees at 2pm on Saturday & Sunday.
+Christmas “Little Ole Opry on the Bay” returns to the Liberty Theatre just in time to celebrate the holiday season. This family-friendly show offers a diverse song list including both traditional and contemporary music, from “Away in a Manger” to “All I Want For Christmas Is You.” Shows run 7-9 pm Friday & Saturday, with matinees at 2pm on Saturday & Sunday.
 
 <a href="https://thelibertytheatre.org/" target="_blank" rel="noopener"><strong>Liberty Theatre, Home of Little Theatre on the Bay</strong></a><br>2100 Sherman Ave, North Bend, OR 97420
 
 {{< spacer 50 >}}
 
+![Evergreen and holiday sheet music](/img/choir-singers-holiday-happenings-695x200-1.jpg)
+
+#### December 6th & 7th, 2026<br>Bay Area Concert Band Fall into Winter Concert Series Featuring the Coos Singers
+
+The Marshfield High School Auditorium will be filled with the sounds of the holidays this year as the Bay Area Concert Band performs two concerts featuring the Coos Singers. The 50-plus-year-old concert band will perform various holiday selections. The Coos Singers will perform a selection of holiday favorites. Then the Concert Band and the Singers will come together for an explosive Finale! These concerts are Free but Donations are Welcome! Concerts are Sunday, December 6th at 2:00pm and Monday, December 7th at 7:00pm. Marshfield High is located at 972 Ingersoll Ave, Coos Bay.
+
+{{< spacer "50" >}}
+
+####
+
 ![family standing in front of a christmas tree lighting](/img/empire-treelighting-sub-section-hdr.jpg)
 
-#### December 4, 2026<br>Empire District Tree Lighting, Gingerbread House Display and Santa Visit
+#### December 4, 2026<br>Empire District Tree Lighting, Caroling and Santa Visit
 
-The Empire District of Coos Bay will hold their annual Tree Lighting, Gingerbread House display, Visits with Santa, and Star of Hope Holiday Open House from 5pm to 7pm. Vote for your favorite Empire District business decorations. Take photos with Santa and enjoy cookies, cider, caroling and more!
+The Empire District of Coos Bay will hold their annual Tree Lighting, Caroling, and Visits with Santa  from 5pm to 7pm. More information coming soon!
 
 {{< spacer 50 >}}
 
