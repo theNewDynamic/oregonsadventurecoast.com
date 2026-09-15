@@ -89,4 +89,8 @@ Use your card for special offers at various local restaurants, coffee houses, re
 
 ### Ready for more? Explore everything Oregon's Adventure Coast has to offer. [Visit the home page to get started](/)!
 
+
+<small style="font-size: 0.7rem; line-height: 1.4; font-style: italic; display: block;">
+Fall Pass Savings Card terms: One (1) Fall Pass Savings Card per room, per stay. Card is complimentary with a stay at a participating lodging property and is issued at check-in — it cannot be requested or redeemed without an active reservation. Valid October 1 – November 30, 2026, at participating partners only; not valid before or after these dates. Card must be presented at the time of purchase to receive the listed discount; discounts cannot be applied retroactively to a prior purchase. Individual merchant offers are subject to that business's own hours, availability, and restrictions (for example, dine-in only, one redemption per visit, or advance notice required) — please confirm details with the merchant. Offers cannot be combined with other discounts, coupons, or promotions unless the individual offer states otherwise. No cash value; card and offers may not be sold, exchanged, or redeemed for cash. Participating properties and merchants, and the specific offers listed, are subject to change or discontinuation without notice. Oregon's Adventure Coast is not responsible for the quality, availability, or fulfillment of goods and services provided by participating businesses. Void where prohibited.</small>
+
 </div>
