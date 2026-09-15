@@ -14,6 +14,12 @@ slideshow:
     photo_mobile:
     url:
     video:
+  - title:
+    photo: /img/fall-pass-hm-slider-desktop.jpg
+    title_mobile:
+    photo_mobile: /img/fall-pass-hm-slider-mobile.jpg
+    url: /fall-pass
+    video:
 welcomeheadline: Oregon Coast Vacations - Adventure is Our Middle Name
 home_splashes:
   - url: /live-cam
