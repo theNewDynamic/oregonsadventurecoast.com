@@ -75,7 +75,7 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 ![Ceramic bells hanging in a display](/img/ceramic-bells-sub-section-hdr.jpg)
 
-#### November TBD, 2026<br>Holiday Market at Coos History Museum
+#### November 20-21, 2026<br>Holiday Market at Coos History Museum
 
 Join local artisans, crafts people,  food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Market is Free!
 
