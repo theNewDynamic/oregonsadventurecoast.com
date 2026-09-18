@@ -5,15 +5,16 @@ url: /art-history-culture
 photo: /img/museum-cultural-sub-header.jpg
 seo:
   title: Oregon Coast Trips - Art/History/Culture | Oregon's Adventure Coast
-  description: >-
-    Include arts, history, & culture on your trip to the Oregon Coast! Coos Bay,
-    North Bend, & Charleston offer amazing museums, galleries, and live
-    performances.
+  description: Include arts, history, & culture on your trip to the Oregon Coast!
+    Coos Bay, North Bend, & Charleston offer amazing museums, galleries, and
+    live performances.
 aliases:
   - /featured-adventures/history-culture
   - /activities/category/culture-museums
   - /activities/category/historical
 ---
+[![](/img/fall-pass-page-banner-695x149.png)](/fall-pass)
+
 **Oregon's Adventure Coast: Coos Bay, North Bend, Charleston** has an amazing network of museums, galleries, and live performances.  Browse your way through our site or take advantage of some of our hand-picked adventures in art.
 
 {{< floatimage src="/img/coos-museum.jpg" float="left" alt="Coos Bay Art Museum" size="40" >}}
@@ -93,20 +94,20 @@ The Dolphin Playhouse is home of the Dolphin Players who produce six to seven fu
 ### Explore our Trip Ideas!
 
 <div class="trip-idea-thumbnail">
-<img src="/img/ti-walking-historic-thumb.jpg" alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast" /></div>
+<img src="/img/ti-walking-historic-thumb.jpg" alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast"></div>
 
 [**Discover Historic Front Street**](/tripideas/discover-historic-front-street)<br> Hidden in plain sight, Coos Bay’s Front Street was originally a wharf which became the bustling heart of a water-dependent community (then called Marshfield).  From the mid-1850s until the 1920s, the south end of the waterfront street(now 101 paralleling the boardwalk) ... [**Read More &gt;&gt;**](/tripideas/discover-historic-front-street)
 
 <div class="clearfix"></div>
 
 <div class="trip-idea-thumbnail">
-<img src="/img/ti-walking-northbend-thumb.jpg" alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast" /></div>
+<img src="/img/ti-walking-northbend-thumb.jpg" alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast"></div>
 
 [**Historic Walking Tour of North Bend**](/tripideas/historic-walking-tour-of-north-bend)<br> Asa Simpson – sea captain, shipbuilder, lumberman – built a sawmill and shipyard in the mid 1850s at the north bend of the Coos Bay. Most famous of the 55 vessels built here (1858-1903) was the Western Shore, a three-masted “Oregon clipper” that sailed between Portland and ... [**Read More &gt;&gt;**](/tripideas/historic-walking-tour-of-north-bend)
 
 <div class="clearfix"></div>
 
 <div class="trip-idea-thumbnail">
-<img src="/img/ti-walking-coosbay-thumb.jpg" alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast" /></div>
+<img src="/img/ti-walking-coosbay-thumb.jpg" alt="ATVing in the Untamed Dunes on Oregon's Adventure Coast"></div>
 
 [**Historic Walking Tour of Coos Bay**](/tripideas/historic-walking-tour-of-coos-bay)<br> What now makes up the central district of Coos Bay was called Marshfield until 1944, when residents voted to change the name to Coos Bay to match the name of the bay itself. The City of Marshfield was named after the Massachusetts home town of the... [**Read More &gt;&gt;**](/tripideas/historic-walking-tour-of-coos-bay)
