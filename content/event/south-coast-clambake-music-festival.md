@@ -29,7 +29,7 @@ largeboxphoto: /img/clambake-music-fest-large.jpg
 mediumboxphoto: /img/clambake-music-fest-medium-03.jpg
 smallboxphoto: /img/clambake-music-fest-small-02.jpg
 ---
-![A multi-piece rockabilly-swing band performs on an outdoor stage at night, with singers, guitarists, a horn section, and a bassist in coordinated black and red stage outfits, backed by string lights and a crowd of festival-goers.](/img/sc-clambake-graphic-2027.jpg "South Coast Clambake brings together top musicians every March.")
+![A multi-piece rockabilly-swing band performs on an outdoor stage at night, with singers, guitarists, a horn section, and a bassist in coordinated black and red stage outfits, backed by string lights and a crowd of festival-goers.](/img/sc-clambake-graphic-2027-1.jpg "South Coast Clambake brings together top musicians every March.")
 
 #### SAVE THE DATE!!! March 11-14, 2027!!!
 
