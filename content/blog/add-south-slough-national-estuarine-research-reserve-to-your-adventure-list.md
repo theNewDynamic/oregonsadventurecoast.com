@@ -3,7 +3,52 @@ _schema: default
 title: Add South Slough National Estuarine Research Reserve to Your Adventure List
 draft: false
 date: 2026-09-18T00:00:00-07:00
+description: Visitors have described the South Slough NERR as one of the
+  "best-kept secrets" on the Oregon Coast, praising its well-maintained
+  “Beautiful, peaceful nature trails,” perfect for birdwatching, and the
+  interpretive center's local history exhibits. Read why this special
+  destination belongs on your list of adventures.
 image: /img/south-slough-national-estuarine-research-reserve-blog-1400px-x-650px.jpg
+tags:
+  - South Slough NERR
+  - National Estuarine Research Reserve
+  - Oregon's Adventure Coast
+  - Coos Bay
+  - North Bend
+  - Charleston
+  - Estuaries
+  - National Estuaries Week
+  - Nature Reserve
+  - Outdoor Recreation
+  - Hiking Trails
+  - Birdwatching
+  - Bald Eagles
+  - Wildlife Viewing
+  - Kayaking
+  - Canoeing
+  - Water Trails
+  - Wetlands
+  - Salt Marsh
+  - Tidal Flats
+  - Coastal Ecosystems
+  - Estuary Education
+  - Visitor Center
+  - Accessible Trails
+  - Big Cedar Trail
+  - Family Activities
+  - Nature Walks
+  - Guided Tours
+  - NOAA
+  - Conservation
+  - Oregon Coast Travel
+  - Things to Do in Oregon
+  - Pacific Northwest Nature
+  - Ecotourism
+  - Dungeness Crab
+  - Coastal Wildlife
+  - Outdoor Adventure
+categories:
+  - Outdoor Adventures
 warning: false
 ---
 ## Why South Slough National Estuarine Research Reserve Will Be Your New Favorite Destination to Unplug & Reconnect With Nature
