@@ -24,6 +24,8 @@ Zipping up and down the stunning Pacific Ocean beach dunes is a hair-raising goo
 
 For current riding conditions and other information about the Oregon Dunes, visit [Oregon Dunes Guide](https://oregondunesguide.com/?utm_source=oregonsadventurecoast&amp;utm_medium=referral&amp;utm_campaign=visitor_resources).
 
+[![](/img/fall-pass-page-banner-695x149.png)](/fall-pass)
+
 {{< spacer "50" >}}
 
 {{< youtube id="x6Qro7ktN-w" >}}
