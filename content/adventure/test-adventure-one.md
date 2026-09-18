@@ -26,7 +26,7 @@ For current riding conditions and other information about the Oregon Dunes, visi
 
 [![](/img/fall-pass-page-banner-695x149.png)](/fall-pass)
 
-{{< spacer "50" >}}
+{{< spacer "30" >}}
 
 {{< youtube id="x6Qro7ktN-w" >}}
 
