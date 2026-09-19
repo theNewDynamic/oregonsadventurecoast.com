@@ -49,8 +49,6 @@ accordion_sections:
 
 Coos Bay, North Bend and Charleston in Coos County are an adventure waiting to happen. Grab your hiking boots and take in nature. There are many levels of difficulty, so whatever your skill level, we think you’ll find a way to breathe in the fresh air and explore.
 
-&nbsp;
-
 [![](/img/fall-pass-page-banner-1400x300.jpg)](/fall-pass)
 
 We have a whole system of hiking trails in the immediate and surrounding area, but listed below are some of our favorites:
