@@ -5,10 +5,9 @@ url: /untamed-dunes
 photo: /img/dunes-new-header-2048x531.jpg
 seo:
   title: Oregon Coast Outdoor Activities - Untamed Dunes | Oregon's Adventure Coast
-  description: >-
-    If you’re looking for a really unique experience during your Oregon Coast
-    vacation, make sure you check out our outdoor activities - try untamed beach
-    dunes - perfect for adventure seekers!
+  description: If you’re looking for a really unique experience during your Oregon
+    Coast vacation, make sure you check out our outdoor activities - try untamed
+    beach dunes - perfect for adventure seekers!
   image: ''
 aliases:
   - /featured-adventures/undeveloped-beaches
@@ -16,6 +15,8 @@ aliases:
   - /activities/category/dunes
 ---
 ![Oregon's Adventure Coast Dunes Selfie Photo](/img/dunes-selfie-stick.jpg)
+
+[![](/img/fall-pass-page-banner-1400x300.jpg)](/fall-pass)
 
 ## A DIFFERENT KIND OF WILDERNESS
 
