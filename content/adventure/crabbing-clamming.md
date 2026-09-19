@@ -11,6 +11,8 @@ seo:
 ---
 ## Crabbing on Oregon's Adventure Coast
 
+[![](/img/fall-pass-page-banner-1400x300.jpg)](/fall-pass)
+
 {{< floatimage src="/img/kids-crabbing-141.jpg" float="right" alt="Family Crabbing at the Charleston Marina" size="100" >}}
 
 No trip to **Oregon’s Adventure Coast** is complete without Dungeness crab, and the best crab are always the ones you bring up yourself from the waters of lower Coos Bay. Rent or buy a crab ring and try your luck; the payoff will be a fresh crab feast you’ll always remember. And you’ll keep coming back for more!
