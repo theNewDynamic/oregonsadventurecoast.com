@@ -5,87 +5,53 @@ url: /hiking-walking
 photo: /img/adventures-main-and-hiking.jpg
 seo:
   title: Oregon Coast Outdoor Activities - Hiking/Biking | Oregon's Adventure Coast
-  description: >-
-    The Oregon Coast offers a variety of outdoor activities including an entire
-    system of hiking and biking trails in the immediate and surrounding area. 
+  description: 'The Oregon Coast offers a variety of outdoor activities including
+    an entire system of hiking and biking trails in the immediate and
+    surrounding area. '
 aliases:
   - /featured-adventures/walking-hiking
   - /activities/category/hiking
 accordion_sections:
   - accordions:
       - title: MORE TRAILS TO EXPLORE
-        content: >-
-          #### [**John Dellenback Dunes
-          Trail**](https://www.oregonhikers.org/field_guide/John_Dellenback_Dunes_Loop_Hike)
+        content: |-
+          #### [**John Dellenback Dunes Trail**](https://www.oregonhikers.org/field_guide/John_Dellenback_Dunes_Loop_Hike)
 
+          Part of the Oregon Dunes National Recreation Area where motorized vehicles are prohibited. 2.7 Miles of the Dellenback trail leads to the beach, but the hike will seem longer as hikers are walking on soft, open sand.  There is also an easier interpretive loop hike.
 
-          Part of the Oregon Dunes National Recreation Area where motorized
-          vehicles are prohibited. 2.7 Miles of the Dellenback trail leads to
-          the beach, but the hike will seem longer as hikers are walking on
-          soft, open sand.  There is also an easier interpretive loop hike.
+          #### <a href="https://www.coosbayor.gov/home/showpublisheddocument/182/637975270325000000" target="_blank" rel="noopener"><strong>Empire Lakes Trail</strong></a>
 
-
-          #### <a
-          href="https://www.coosbayor.gov/home/showpublisheddocument/182/637975270325000000"
-          target="_blank" rel="noopener"><strong>Empire Lakes Trail</strong></a>
-
-
-          4 miles of paved and 1.5 miles of dirt paths around Upper and Lower
-          Empire Lakes in Coos Bay.
-
+          4 miles of paved and 1.5 miles of dirt paths around Upper and Lower Empire Lakes in Coos Bay.
 
           #### Millicoma Marsh
 
-
           .5 mile loop with interpretive birding trail
 
+          #### <a href="https://www.coosbayor.gov/community/city-parks/mingus-park" target="_blank" rel="noopener"><strong>Mingus Park</strong></a>
 
-          #### <a
-          href="https://www.coosbayor.gov/community/city-parks/mingus-park"
-          target="_blank" rel="noopener"><strong>Mingus Park</strong></a>
+          1 mile trail in Coos Bay's city park that is paved, dirt and gravel, includes a secluded Zen garden, a Japanese inspired bridge over the pond in the middle of park, and an outdoor stage for musical events.
 
+          #### [**North Spit of Coos Bay Trail System**](https://www.blm.gov/visit/north-spit)
 
-          1 mile trail in Coos Bay's city park that is paved, dirt and gravel,
-          includes a secluded Zen garden, a Japanese inspired bridge over the
-          pond in the middle of park, and an outdoor stage for musical events.
-
-
-          #### [**North Spit of Coos Bay Trail
-          System**](https://www.blm.gov/visit/north-spit)
-
-
-          Made up of open sand dunes, forested islands, and wetlands, the North
-          Spit of Coos Bay is at the southern-most end of a series of sand dunes
-          extending along the Oregon coastline from Florence to Coos Bay. There
-          are 10 miles of hiking/horse trails, sand driving roads, an
-          undeveloped staging area and miles of beach waiting for you to
-          explore. The North Spit of Coos Bay is home to the threatened western
-          snowy plover. From March 15 to September 15 each year, access
-          restrictions are in place on the dry sand along the ocean shore to
-          protect the nesting birds.
-
+          Made up of open sand dunes, forested islands, and wetlands, the North Spit of Coos Bay is at the southern-most end of a series of sand dunes extending along the Oregon coastline from Florence to Coos Bay. There are 10 miles of hiking/horse trails, sand driving roads, an undeveloped staging area and miles of beach waiting for you to explore. The North Spit of Coos Bay is home to the threatened western snowy plover. From March 15 to September 15 each year, access restrictions are in place on the dry sand along the ocean shore to protect the nesting birds.
 
           #### Simpson Park/Ferry Road
 
+          1 mile loops in North Bend city park with disk golf, playground and other amenities.
 
-          1 mile loops in North Bend city park with disk golf, playground and
-          other amenities.
+          #### [**Sawmill & Tribal Trail**](/img/SawmillTribalTrail_BROCHURE-sm.pdf)
 
-
-          #### [**Sawmill & Tribal
-          Trail**](/img/SawmillTribalTrail_BROCHURE-sm.pdf)
-
-
-          The Sawmill & Tribal Trail can be accessed from many points around
-          town, so check out as much of it as you have time and energy for. We
-          hope you will enjoy learning more about the colorful past of the Coos
-          Bay and North Bend area.
+          The Sawmill & Tribal Trail can be accessed from many points around town, so check out as much of it as you have time and energy for. We hope you will enjoy learning more about the colorful past of the Coos Bay and North Bend area.
   - title:
     accordions:
 ---
 #### TAKE A HIKE! LITERALLY!
 
 Coos Bay, North Bend and Charleston in Coos County are an adventure waiting to happen. Grab your hiking boots and take in nature. There are many levels of difficulty, so whatever your skill level, we think you’ll find a way to breathe in the fresh air and explore.
+
+&nbsp;
+
+[![](/img/fall-pass-page-banner-1400x300.jpg)](/fall-pass)
 
 We have a whole system of hiking trails in the immediate and surrounding area, but listed below are some of our favorites:
 
