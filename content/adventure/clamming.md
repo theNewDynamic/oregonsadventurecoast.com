@@ -1,17 +1,19 @@
 ---
+_schema: default
 title: Clamming
-url: "/clamming"
-photo: "/img/clamming-sub-page-header.jpg"
+url: /clamming
+photo: /img/clamming-sub-page-header.jpg
 seo:
-  description: One of Oregon's highlights is clamming on the Oregon Coast. It is relatively
-    easy and the rewards are tasty treats. Visit Oregon’s Adventure Coast and try
-    for yourself.
   title: Clamming on the Oregon Coast | Oregon’s Adventure Coast
-
+  description: One of Oregon's highlights is clamming on the Oregon Coast. It is
+    relatively easy and the rewards are tasty treats. Visit Oregon’s Adventure
+    Coast and try for yourself.
 ---
 ### Clamming on Oregon's Adventure Coast
 
 {{< spacer 20 >}}
+
+[![](/img/fall-pass-page-banner-1400x300.jpg)](/fall-pass)
 
 {{< floatimage src="/img/crabbing-and-clamming.jpg" float="right" alt="Girl Clamming in " size="50" >}}
 
@@ -29,35 +31,35 @@ Local bait and tackle shops are usually the best resource for first (and second,
 
 **Ready to give it a shot?**  Here are some more tips for first-time clammers:
 
-**1. Get your shellfish license.**
+**1\. Get your shellfish license.**
 
 <p class="bullet-para-indent">Clams can be harvested all year on our coast, but ODFW does require a license. <a href="https://myodfw.com/crabbing-clamming/licensing-info">Click here to get your license.</a> </p>
 
-**2. Make sure it's safe.**
+**2\. Make sure it's safe.**
 
 <p class="bullet-para-indent">Occasionally, clamming on the Oregon Coast is closed due to a temporary rise in biotoxins in ocean water. Check the <a href="https://www.oregon.gov/oda/programs/foodsafety/shellfish/pages/shellfishclosures.aspx">Oregon Health Authority website</a> or call the hotline at 1-800-448-2474 to find out about any shellfish closures.</p>
 
-**3. Wear waterproof boots (trust us).**
+**3\. Wear waterproof boots (trust us).**
 
 <p class="bullet-para-indent">Just take a look at the photos and you will see the necessity of waterproof boots. Otherwise, you may lose or ruin your shoes!</p>
 
-**4. Dress in layers!**
+**4\. Dress in layers!**
 
 <p class="bullet-para-indent">It doesn’t matter what season it is, it can get chilly out there! Dress in layers that can get dirty.</p>
 
-**5. Go to a bait and tackle shop before you head out.**
+**5\. Go to a bait and tackle shop before you head out.**
 
 <p class="bullet-para-indent">Some of the best advice you will receive will probably come from one of the fishing experts at one of our <a href="https://www.oregonsadventurecoast.com/equipment-rent-and-buy">local bait and tackle stores</a>. They can tell you when the best time of day to dig would be based on the tides. They can also help you make sure you have the right equipment, including a bucket, a shovel (can be rented or borrowed) and/or a tube a.k.a. a "clam gun."</p>
 
-**6. Keep track of how many clams you dig.**
+**6\. Keep track of how many clams you dig.**
 
 <p class="bullet-para-indent">You are allowed 20 bay clams per day in the aggregate, only 12 of which may be Gaper or Empire clams. <a href="https://myodfw.com/articles/oregon-shellfish-regulations">Click here for ODFW's Regulations Summary for Marine Shellfish.</a></p>
 
-**7. Watch this tutorial and learn from the pros!**
+**7\. Watch this tutorial and learn from the pros!**
 
 <p class="bullet-para-indent">Watch this informational video to learn the basics:</p>
 
-{{< youtube "tO9nP3CcAoI" >}}
+{{< youtube id="tO9nP3CcAoI" >}}
 
 {{< spacer 50 >}}
 
@@ -91,8 +93,7 @@ Clamming in Charleston is excellent throughout and access is easy. Rental shops 
 
 <div class="trip-idea-thumbnail"> <img src="/img/thumbnail-crabbing-4px-line.jpg" alt="Crabbing on the Oregon's Adventure Coast"></div>
 
-[**Crabbing**](/crabbing-clamming)  
-Oregon's Adventure Coast is not just known for great clamming, but excellent crabbing. No trip is complete without Dungeness crab, and the best crab are always the ones you bring up yourself from the waters of lower Coos Bay. [Learn more about Crabbing on Oregon’s Adventure Coast >>](/crabbing-clamming)
+[**Crabbing**](/crabbing-clamming)<br> Oregon's Adventure Coast is not just known for great clamming, but excellent crabbing. No trip is complete without Dungeness crab, and the best crab are always the ones you bring up yourself from the waters of lower Coos Bay. [Learn more about Crabbing on Oregon’s Adventure Coast &gt;&gt;](/crabbing-clamming)
 
 <div class="clearfix"></div>
 
@@ -100,5 +101,4 @@ Oregon's Adventure Coast is not just known for great clamming, but excellent cra
 
 <div class="trip-idea-thumbnail"> <img src="/img/thumbnail-fishing-4px-line.jpg" alt="World-Class Fishing on the Oregon's Adventure Coast"></div>
 
-[**World-Class Fishing**](/fishing)  
-Fishing opportunities are in no short supply here. There are fish for every season and an endless choice of prime fishing spots to select from.[Visit our Fishing page for information on charters and more! >>](/fishing)
+[**World-Class Fishing**](/fishing)<br> Fishing opportunities are in no short supply here. There are fish for every season and an endless choice of prime fishing spots to select from.[Visit our Fishing page for information on charters and more! &gt;&gt;](/fishing)
