@@ -5,51 +5,29 @@ url: /cycling
 photo: /img/adventures-biking-header.jpg
 seo:
   title: Cycling | Oregon's Adventure Coast
-  description: >-
-    Whether you take to the road, fat bike on the beach, or careen around
-    single-track trails, you will find heart pumping biking routes on Oregon’s
-    Adventure Coast. 
+  description: 'Whether you take to the road, fat bike on the beach, or careen
+    around single-track trails, you will find heart pumping biking routes on
+    Oregon’s Adventure Coast. '
 aliases:
   - /activities/category/cycling
 accordion_sections:
   - title: ''
     accordions:
       - title: Other Mountain Biking Trails
-        content: >-
-          [BLUE RIDGE
-          LOOP](https://www.mtbproject.com/trail/7028954/blue-ridge-loop) - is a
-          multi-use trail system that gets some motorcycle traffic. It is a
-          scenic area to ride, though despite it’s elevation, views of lower
-          areas are limited to non-existent. Given the different roads
-          throughout the area, there are multiple ride options.
+        content: |-
+          [BLUE RIDGE LOOP](https://www.mtbproject.com/trail/7028954/blue-ridge-loop) - is a multi-use trail system that gets some motorcycle traffic. It is a scenic area to ride, though despite it’s elevation, views of lower areas are limited to non-existent. Given the different roads throughout the area, there are multiple ride options.
 
+          [WINCHESTER NORTH](https://www.mtbproject.com/trail/7032115/winchester-north) - are used primarily by mountain bikers and motorcycles. The trails challenge even the best of riders. There are lots of ruts, roots, steep terrain, and other obstacles on the 17 miles of winding single track.
 
-          [WINCHESTER
-          NORTH](https://www.mtbproject.com/trail/7032115/winchester-north) -
-          are used primarily by mountain bikers and motorcycles. The trails
-          challenge even the best of riders. There are lots of ruts, roots,
-          steep terrain, and other obstacles on the 17 miles of winding single
-          track.
+          <a href="https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes" target="_blank" rel="noopener">EMPIRE LAKES</a> - provides a more leisurely trail for biking but it is no less scenic. The trail system, 4 miles paved and 1.5 miles dirt track, is in John Topits Park, centered on the natural beauty of two lakes and stabilized dunes within the park.
 
-
-          <a
-          href="https://www.coosbayor.gov/community/city-parks/john-topits-park-empire-lakes"
-          target="_blank" rel="noopener">EMPIRE LAKES</a> - provides a more
-          leisurely trail for biking but it is no less scenic. The trail system,
-          4 miles paved and 1.5 miles dirt track, is in John Topits Park,
-          centered on the natural beauty of two lakes and stabilized dunes
-          within the park.
-
-
-          EUPHORIA RIDGE TRAILS - this 10 mile track begins on dirt road and
-          quickly moves to single-track trails, through meadows, forest land,
-          and tribal lands. [Euphoria Ridge Middle
-          Trail](https://www.oregonsadventurecoast.com/cycling) and [Euphoria
-          Ridge Upper Trail](https://www.oregonsadventurecoast.com/cycling)
+          EUPHORIA RIDGE TRAILS - this 10 mile track begins on dirt road and quickly moves to single-track trails, through meadows, forest land, and tribal lands. [Euphoria Ridge Middle Trail](https://www.oregonsadventurecoast.com/cycling) and [Euphoria Ridge Upper Trail](https://www.oregonsadventurecoast.com/cycling)
 ---
 ## Make Some Tracks!
 
 Whether you take to the road, fat bike on the beach, or careen around single-track trails, you will find heart pumping options on Oregon's Adventure Coast. Our friends at the Front Street Community Bike Works have put together a wonderful resource of cycling trail maps from no hills to dare devil! [Click here for the City Bike Riding Trails Map (PDF).](/img/FSCBW-BIKE-TRAIL-MAPS.pdf) Rent e-bike cruisers from Bahama Boards in Coos Bay! Call (541) 808-3535 for more information!
+
+[![](/img/fall-pass-page-banner-1400x300.jpg)](/fall-pass)
 
 {{< spacer 50 >}}
 
