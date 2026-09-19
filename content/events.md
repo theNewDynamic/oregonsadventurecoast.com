@@ -6,9 +6,9 @@ layout: eventspage
 photo: /img/running-page-large-header.jpg
 seo:
   title: Oregon Coast Trips - Events | Oregon's Adventure Coast
-  description: >-
-    Find special events throughout the Oregon Coast during your trip! From
-    seasonal and holiday events to live music and more, the fun is infectious!
+  description: Find special events throughout the Oregon Coast during your trip!
+    From seasonal and holiday events to live music and more, the fun is
+    infectious!
 aliases:
   - /Event
   - /event
@@ -17,6 +17,6 @@ aliases:
 
 {{< spacer 20 >}}
 
-<div style="width:100%"><a href="/fall-pass"><img src="/img/Fall-Pass-SiteBanners-2048.jpg" alt="Visitor Fall Pass cards, savings valid Oct & Nov 2026. Oregon's Adventure Coast: Coos Bay, North Bend, Charleston." style='height: 100%; width: 100%; object-fit: contain'/></a></div>
+<div style="width:100%"><a href="/fall-pass"><img src="/img/Fall-Pass-SiteBanners-2048.jpg" alt="Visitor Fall Pass cards, savings valid Oct &amp; Nov 2026. Oregon's Adventure Coast: Coos Bay, North Bend, Charleston." style="height: 100%; width: 100%; object-fit: contain"></a></div>
 
-{{< spacer 20 >}}
+{{< spacer 30 >}}
