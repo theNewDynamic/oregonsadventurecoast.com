@@ -5,8 +5,7 @@ url: /undeveloped-beaches
 photo: /img/beach-undeveloped-pg-header.jpg
 seo:
   title: Oregon Coast Vacations - Undeveloped Beaches | Oregon's Adventure Coast
-  description: >-
-    The Oregon Coast offers a versatile coastal vacation with various
+  description: The Oregon Coast offers a versatile coastal vacation with various
     undeveloped beaches! Take advantage of the ocean, numerous lakes and rivers
     offering exciting water adventures.
 aliases:
@@ -87,6 +86,8 @@ accordion_sections:
 Come on in, the water’s warm (well, not really). But that is part of the charm here.
 
 Oregon’s Adventure Coast features the most versatile coastal destination on the Oregon Coast! There is much to love about visiting Oregon's Adventure Coast, but the miles and miles of beautiful, undeveloped beaches may be one of our greatest natural assets. The beaches on Oregon's South Coast are ideal for anyone searching for a quiet, undisturbed spot to watch the tide roll in and out. They are also perfect for those looking for a place to surf, swim, walk the dogs or search for hidden beach treasures.
+
+[![](/img/fall-pass-page-banner-1400x300.jpg)](/fall-pass)
 
 {{< spacer "30" >}}
 
