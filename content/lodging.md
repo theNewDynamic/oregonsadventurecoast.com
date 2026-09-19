@@ -24,3 +24,7 @@ As you plan your vacation to the Oregon Coast, browse our list of places to stay
 You can pick accommodations on the Oregon Coast that will suit your needs and preferences, whether you need a place to stay that is pet-friendly, offers a fitness center, has a kitchen, and a variety of other additions. Look through these options and take the next step in planning your trip to the Oregon Coast!<br>**($ = Up to $99; $$ = $100-$199; $$$ = $200+)**
 
 {{< spacer "30" >}}
+
+<div style="width:100%"><a href="/fall-pass"><img src="/img/Fall-Pass-SiteBanners-2048.jpg" alt="Visitor Fall Pass cards, savings valid Oct &amp; Nov 2026. Oregon's Adventure Coast: Coos Bay, North Bend, Charleston." style="height: 100%; width: 100%; object-fit: contain"></a></div>
+
+{{< spacer 30 >}}

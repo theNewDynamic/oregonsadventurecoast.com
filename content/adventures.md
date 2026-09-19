@@ -183,4 +183,8 @@ We invite you to explore, to discover, to feel, and to know the incredible adven
 
 {{< youtube id="LuQK7D5IJv4" >}}
 
-{{< spacer 50 >}}
+{{< spacer 30 >}}
+
+<div style="width:100%"><a href="/fall-pass"><img src="/img/Fall-Pass-SiteBanners-2048.jpg" alt="Visitor Fall Pass cards, savings valid Oct &amp; Nov 2026. Oregon's Adventure Coast: Coos Bay, North Bend, Charleston." style="height: 100%; width: 100%; object-fit: contain"></a></div>
+
+{{< spacer 30 >}}
