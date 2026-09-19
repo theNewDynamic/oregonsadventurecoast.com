@@ -14,12 +14,13 @@ tripadventures:
   - ''
 seo:
   title: Oregon Coast Trips Vacations Ideas | Oregon's Adventure Coast
-  description: >-
-    Get ideas for your trip to the Oregon Coast! Discover exciting and
+  description: Get ideas for your trip to the Oregon Coast! Discover exciting and
     exhilarating adventures from this collection of half-day, full-day, and long
     weekend travel ideas.
 ---
 Oregon’s Adventure Coast invites you to explore all we have to offer! We know you will find your perfect getaway “Where the Soul Meets the Sea” on Oregon’s Adventure Coast!
+
+[![](/img/fall-pass-page-banner-1400x300.jpg)](/fall-pass)
 
 ## Ideas for Oregon Coast Day-Trips or Longer Adventures
 
