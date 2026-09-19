@@ -15,4 +15,8 @@ aliases:
 ---
 ### [Visit our Calendar page](/calendar), for more events happening in Coos Bay, North Bend & Charleston!
 
-{{< spacer 30 >}}
+{{< spacer 20 >}}
+
+<div style="width:100%"><a href="/fall-pass"><img src="/img/Fall-Pass-SiteBanners-2048.jpg" alt="Visitor Fall Pass cards, savings valid Oct & Nov 2026. Oregon's Adventure Coast: Coos Bay, North Bend, Charleston." style='height: 100%; width: 100%; object-fit: contain'/></a></div>
+
+{{< spacer 20 >}}
