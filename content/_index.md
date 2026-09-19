@@ -9,7 +9,7 @@ slideshow:
     url: /event/annual-bay-area-fun-festival/
     video:
   - title:
-    photo: /img/fall-pass-hm-slider-desktop.jpg
+    photo: /img/fall-pass-hm-desktop-slider-2048.jpg
     title_mobile:
     photo_mobile: /img/fall-pass-hm-slider-mobile.jpg
     url: /fall-pass
