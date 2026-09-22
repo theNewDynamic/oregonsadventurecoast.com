@@ -30,11 +30,15 @@ Stay at one of these participating lodging properties and when you check-in, you
 
 **Coos Bay Manor B&B**<br>955 S. 5th St<br>Coos Bay, OR 97420<br>541-808-0009 \| <a href="https://www.thecoosbaymanor.com/" target="_blank" rel="noopener"><strong>Website</strong></a>
 
+**Edgewater Inn**<br>275 E. Johnson Ave<br>Coos Bay, OR 97420<br>541-267-0423 \| [Website](https://www.choicehotels.com/en-ca/oregon/coos-bay/choice-hotels/or339)
+
 **Itty Bitty Inn**<br>1504 Sherman Ave<br>North Bend, OR 97459<br>541-756-6398 \| <a href="http://www.ittybittyinn.com/" target="_blank" rel="noopener"><strong>Website</strong></a>
 
 divider
 
 **Global Inn**<br>1001 N. Bayshore Dr<br>Coos Bay, OR 97420<br>541-808-0700 \| [Website](https://www.globalinnhotelcoosbay.com/)
+
+**Motel 6**<br>1445 N. Bayshore Dr<br>Coos Bay, OR 97420<br>541-267-7171 \| [Website](motel6.com/en/home/motels.or.coos-bay.9258.html)
 
 **Ko-Kwel Casino Resort \| Coos Bay**<br>3201 Tremont Ave<br>North Bend, OR 97459<br>541-756-8800 \| <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener"><strong>Website</strong></a>
 
