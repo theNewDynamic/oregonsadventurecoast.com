@@ -40,7 +40,7 @@ divider
 
 **Ko-Kwel Casino Resort \| Coos Bay**<br>3201 Tremont Ave<br>North Bend, OR 97459<br>541-756-8800 \| <a href="https://www.kokwelresorts.com/coos-bay/" target="_blank" rel="noopener"><strong>Website</strong></a>
 
-**Motel 6**<br>1445 N. Bayshore Dr<br>Coos Bay, OR 97420<br>541-267-7171 \| [Website](motel6.com/en/home/motels.or.coos-bay.9258.html)
+**Motel 6**<br>1445 N. Bayshore Dr<br>Coos Bay, OR 97420<br>541-267-7171 \| [Website](https://www.motel6.com/property/motel-coos-bay-oregon-us-294535/)
 
 **Quality Inn & Suites**<br>1503 Virginia Ave<br>North Bend, OR 97459<br>541-756-3191 \| <a href="http://www.coosbayinn.com/" target="_blank" rel="noopener"><strong>Website</strong></a>
 
