@@ -21,7 +21,7 @@ address:
   state: Oregon
   street: 955 S. 5th St.
   zip: '97420'
-phone_local: 541-808-0009
+phone_local: 541-260-2320
 website: https://www.thecoosbaymanor.com/
 coordinates:
   lat: '43.358852'
