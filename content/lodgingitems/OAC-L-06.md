@@ -1,16 +1,16 @@
 ---
 _schema: default
 title: Edgewater Inn
-property_description: >-
-  The perfect place to relax before setting off to explore the many recreational
-  adventures close by. The Edgewater Inn offers comfortable rooms & suites with
-  fridge, microwave, & free wifi. Some rooms with in-room hot tubs.
-  Fishing/observation deck offers beautiful views of the bay. 
+property_description: 'The perfect place to relax before setting off to explore
+  the many recreational adventures close by. The Edgewater Inn offers
+  comfortable rooms & suites with fridge, microwave, & free wifi. Some rooms
+  with in-room hot tubs. Fishing/observation deck offers beautiful views of the
+  bay. '
 photo_name: /img/edgewater-inn-front-twilight-630x366.jpg
 photo_alt: Front of Edgewater Inn property at twilight
 units: 82
 property_category: 1 - Hotels, Motels & Inns
-cost: 3 - $$$
+cost: 2 - $$
 amenityList:
   - 2 - Continental or Full Bkfst
   - 3 - Fitness Center
