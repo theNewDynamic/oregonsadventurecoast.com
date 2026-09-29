@@ -47,6 +47,14 @@ Keep your receipts for purchase in the downtown area between November 13-28 and 
 
 {{< spacer 50 >}}
 
+![Ceramic bells hanging in a display](/img/ceramic-bells-sub-section-hdr.jpg)
+
+#### November 20-21, 2026<br>Holiday Market at Coos History Museum
+
+Join local artisans, crafts people, food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Market is Free! Market hours 10am-4pm each day.
+
+{{< spacer 50 >}}
+
 ![Ice Skating in North Bend, Oregon](/img/ice-skating-north-bend-695x200.jpg)
 
 #### November 21, 2026-Valentine's Day 2027<br>Ice Skating in Downtown North Bend!
@@ -67,17 +75,9 @@ More info on this very special holiday event, brought to us by the [**Friends of
 
 ![](/img/holiday-railroad-train-sub-section-hdr.jpg)
 
-#### November TBD, 2026 - January 1, 2027<br>Oregon Coast Historic Railway Museum Lights
+#### November 26, 2026 - January 1, 2027<br>Oregon Coast Historic Railway Museum Lights
 
 Right in downtown Coos Bay is another spectacular holiday lights display - vintage railroad engines, cabooses and other equipment festooned in 100,000 lights and ornaments! You cannot miss this beautiful display as you travel along Hwy 101 through Coos Bay! View the lights from your vehicle or from the sidewalk in front of the museum. The display is always FREE! Youngsters will love spying the stuffed animals inside the windows of the train! The lights are illuminated from dusk until 11pm every night through New Year's Day.
-
-{{< spacer 50 >}}
-
-![Ceramic bells hanging in a display](/img/ceramic-bells-sub-section-hdr.jpg)
-
-#### November 20-21, 2026<br>Holiday Market at Coos History Museum
-
-Join local artisans, crafts people,  food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Market is Free!
 
 {{< spacer 50 >}}
 
