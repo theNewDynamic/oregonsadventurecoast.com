@@ -106,7 +106,7 @@ Thanks to mild weather, mountain bikers from across the Pacific Northwest can en
 
 **Oregon's Adventure Coast** is packed with ways to keep the whole family entertained, rain or shine. Get the kids bouncing, climbing, and playing all day at [Bananas Kiddo Kingdom](https://www.bananaskiddokingdom.org/), or head to [North Bend Lanes](https://northbendlanes.com/) for a few rounds of bowling and some friendly family competition and dinner at the delicious, popular [Back Alley Pub & Grill.](https://northbendlanes.com/Back-Alley-Pub-Grill) FALL PASS holders get discounts at both of these family-favorite spots, making it easy to build a full day around them.
 
-Eat Your Heart Out!
+## Eat Your Heart Out
 
 Ready to experience fresh seafood and seasonal cuisine this fall? FALL PASS holders receive special offers at establishments such as [Back Alley Pub & Grill](https://northbendlanes.com/Back-Alley-Pub-Grill), [Blue Heron Bistro](https://www.blueheronbistro.net/), [Plank House at Ko-Kwel Casino Resort](https://www.kokwelresorts.com/coos-bay/dining/plank-house-restaurant/), [SharkBite's Seafood Cafe](https://www.sharkbites.cafe/), [So It Goes Coffeehouse](https://www.soitgoescoffee.com/), [The Tin Thistle](https://www.facebook.com/thetinthistlecafe), and [Wildflour Public House](https://www.wildflourpub.com/). Download our [Local Restaurant Guide](https://www.oregonsadventurecoast.com/img/Dining-Coffee-Shop-Guide-02-26.pdf) or visit [oregonsadventurecoast.com/dining](https://www.oregonsadventurecoast.com/dining/) for a full list of options.
 
