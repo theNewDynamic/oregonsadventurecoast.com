@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Seagate Guest House
+title: Seagate Manor & Guest House
 property_description: Dog-friendly bayfront home with water access, private hot
   tub, retro-style charm. With gorgeous water views & space for up 7 guests,
   you'll never want to leave! Near the Oregon Dunes National Recreation Area,
