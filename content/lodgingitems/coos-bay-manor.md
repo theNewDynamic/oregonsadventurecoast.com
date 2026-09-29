@@ -12,7 +12,7 @@ property_description: >-
 photo_name: /img/coos-bay-manor.jpeg
 units: 4
 property_category: 3 - Bed & Breakfasts
-cost: 2 - $$
+cost: 3 - $$$
 amenityList:
   - 2 - Continental or Full Bkfst
   - 6 - WiFi Available
