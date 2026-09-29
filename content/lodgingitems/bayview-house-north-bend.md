@@ -20,7 +20,7 @@ address:
   street: ''
   street2: ''
   zip: '97459'
-website: https://www.vrbo.com/1877612?mpd=USD&mpe=1790709536&endDate=2026-10-17&adults=2&startDate=2026-10-13&mpb=1093.72&mpa=2970.00&mpq=915.25&clickref=1110l4vP8Wxo&CID=a_ph_6&utm_source=aff_ph&utm_medium=partner&utm_campaign=bluepillowspa_1101l252&utm_content=0&k_clickid=1110l4vP8Wxo&affcid=VRBO-US.DIRECT.PHG.1101l89641&affdtl=PHG.1110l4vP8Wxo.6abc0f35713a90224df10555
+website: https://www.vrbo.com/1877612
 coordinates:
   lat: '43.41602625148186'
   lng: '-124.2231107288363'
