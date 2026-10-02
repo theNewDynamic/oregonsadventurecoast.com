@@ -59,7 +59,7 @@ The **South Coast Clambake Music Festival** is held at the luxurious Ko-Kwel Cas
 
 ![South Coast Clambake Music Festvial - Band Playing Music and couple Dancing](/img/clambake-collage-2024.jpg)
 
-### Featuring the music of bands all across these United States! Invited Bands for 2026 Included:
+### Featuring the music of bands all across these United States! Invited Bands for 2027 Included:
 
 ####
 
