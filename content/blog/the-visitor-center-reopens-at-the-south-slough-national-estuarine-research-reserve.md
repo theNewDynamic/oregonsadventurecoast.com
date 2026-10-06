@@ -1,13 +1,11 @@
 ---
 _schema: default
-title: >-
-  The Visitor Center Reopens at The South Slough National Estuarine Research
-  Reserve! 
+title: 'The Visitor Center Reopens at The South Slough National Estuarine
+  Research Reserve! '
 draft: true
 date: 2022-05-25T04:00:00Z
-description: >-
-  South Slough National Estuarine Research Reserve (SSNERR) Welcomes Back
-  Visitors with Regular Hours, a New Exhibit, and a Calendar of Community
+description: South Slough National Estuarine Research Reserve (SSNERR) Welcomes
+  Back Visitors with Regular Hours, a New Exhibit, and a Calendar of Community
   Programs!
 image: /img/South Slough Hike blog-695x322.jpg
 tags:
@@ -41,7 +39,7 @@ warning: false
 ---
 ### *South Slough National Estuarine Research Reserve (SSNERR) Welcomes Back Visitors with Regular Hours, a New Exhibit, and a Calendar of Community Programs!*
 
-Little by little, a return to something resembling “normal” is gradually happening here on [Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston](https://www.oregonsadventurecoast.com/our-area/). We recently learned that the [Charleston Marine Life Center](https://cmlc.uoregon.edu/)has returned to their normal hours, and we’re now happy to report that [South Slough National Estuarine Research Reserve (SSNERR)](https://www.oregon.gov/DSL/SS/Pages/About.aspx) is re-opening the doors of its Visitor Center after two years of limited operations!
+Little by little, a return to something resembling “normal” is gradually happening here on [Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston](https://www.oregonsadventurecoast.com/our-area/). We recently learned that the [Charleston Marine Life Center](https://cmlc.uoregon.edu/)has returned to their normal hours, and we’re now happy to report that [South Slough National Estuarine Research Reserve (SSNERR)](https://www.oregon.gov/dsl/ss/Pages/default.aspx) is re-opening the doors of its Visitor Center after two years of limited operations!
 
 SSNERR is a natural area and center for coastal education, research, stewardship, and training. The 7,000 acres of protected wetlands, forests, and riparian areas, located along the Coos Estuary, is perfect for families, [hikers](https://www.oregon.gov/dsl/SS/Documents/south_slough_brochure_0415.pdf), [kayakers](https://www.oregon.gov/dsl/SS/Documents/Paddling%20South%20Slough.pdf), [wild-life watchers](https://www.oregonsadventurecoast.com/blog/flock-to-oregon-s-adventure-coast-for-premier-bird-watching/) and everyone in between.
 
@@ -57,7 +55,7 @@ As part of a partnership with local Tribes, South Slough NERR is also displaying
 
 If you haven’t had the opportunity to visit South Slough NERR, we urge you to do so! In addition to exploring the Visitor Center and various hiking trails around South Slough Reserve, adults and children can also take part in [multiple events and classes](https://www.oregon.gov/dsl/SS/Pages/CommunityClassReg.aspx)scheduled in the coming months. [Guided hikes](https://www.oregon.gov/dsl/SS/Documents/south_slough_brochure_0415.pdf), kayak and canoe trips, birding and other community classes are now open for registration. Many of these events are free. Learn more and register on the South Slough Reserve website.
 
-South Slough NERR is located at 61907 Seven Devils Road Charleston, OR 97420. Go to[www.oregon.gov](http://www.oregon.gov/dsl/SSNERR/Pages/index.aspx) or call (541) 888-5558 for info.
+South Slough NERR is located at 61907 Seven Devils Road Charleston, OR 97420. Go to [www.oregon.gov](https://www.oregon.gov/dsl/ss/Pages/default.aspx) or call (541) 888-5558 for info.
 
 {{< spacer 50 >}}
 
