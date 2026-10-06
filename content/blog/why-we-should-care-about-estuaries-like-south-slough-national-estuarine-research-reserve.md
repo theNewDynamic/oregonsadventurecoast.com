@@ -1,14 +1,12 @@
 ---
 _schema: default
-title: >-
-  Why We Should Care About Estuaries Like South Slough National Estuarine
-  Research Reserve 
+title: 'Why We Should Care About Estuaries Like South Slough National Estuarine
+  Research Reserve '
 draft: false
 date: 2023-09-12T00:00:00-07:00
-description: >-
-  *In honor of National Estuaries Week (September 16-23, 2023), here are some
-  interesting facts about South Slough National Estuarine Research Reserve
-  (SSNERR) you might not know about.*
+description: '*In honor of National Estuaries Week (September 16-23, 2023), here
+  are some interesting facts about South Slough National Estuarine Research
+  Reserve (SSNERR) you might not know about.*'
 image: /img/south-slough-blog-695x322-jpg.png
 tags:
   - National Estuaries Week
@@ -32,14 +30,11 @@ warning: false
 ---
 **Did you know?**&nbsp;One of the richest ecosystems and most bio-diverse destinations on the Oregon Coast is right in our own backyard? The South Slough National Estuarine Research Reserve (SSNERR) is among the most precious natural habitats on the Oregon coast. You’ve heard us say that **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston** is where the land meets the bay and the sea; estuaries like SSNERR are where rivers meet the sea.&nbsp;
 
-In general, many people do not know the impact that estuaries have on our ecosystem and daily lives until they visit one. Estuaries such as the <a target="_blank" rel="noopener" href="https://www.oregon.gov/dsl/ss/pages/about.aspx">South Slough</a> are vital to our way of life for the following reasons:&nbsp;
+In general, many people do not know the impact that estuaries have on our ecosystem and daily lives until they visit one. Estuaries such as the <a target="_blank" rel="noopener" href="https://www.oregon.gov/dsl/ss/Pages/default.aspx">South Slough</a> are vital to our way of life for the following reasons:&nbsp;
 
 * They help to mitigate the devastating impacts of flooding by acting as a natural barrier against storms, while also absorbing and storing carbon.&nbsp;
-
 * They provide essential habitats for both commercial and recreational fisheries.&nbsp;
-
 * They enhance water quality by effectively filtering out sediment and pollutants.
-
 * They are nurturing grounds for a diverse array of species, including various fish, shellfish, and invertebrates. Basically, South Slough is a nursery for our dungeness crab, salmon, herring, oystersand other fish species!
 
 ![Kayaking in the South Slough on a sunny day.](/img/kayaking-on-a-sunny-day.jpg "Kayaking in the South Slough on a sunny day.")
@@ -66,7 +61,7 @@ In honor of <a target="_blank" rel="noopener" href="https://estuaries.org/get-in
 
 **\#10-** Wildlife abounds in estuaries like South Slough National Estuarine Research Reserve. Its forest is home to numerous small mammals, bats, elk, black bear, bobcats as well many species of birds, amphibians and reptiles. The forest streams support the salmon population as well as other native fish, oysters, crabs and beavers.&nbsp;
 
-**\#11-** The reserve includes open water channels, tidal and freshwater wetlands that visitors may access by kayak and canoe. Water Trails Kayaks and canoes can be launched at Hinch Bridge or in Charleston. A paddler’s brochure is available at the Interpretive Center. [<u>Click here </u>](http://www.oregon.gov/dsl/SS/Pages/CommunityClassReg.aspx)for a schedule of their guided tours and other programs.&nbsp;
+**\#11-** The reserve includes open water channels, tidal and freshwater wetlands that visitors may access by kayak and canoe. Water Trails Kayaks and canoes can be launched at Hinch Bridge or in Charleston. A paddler’s brochure is available at the Interpretive Center. [<u>Click here </u>](https://www.oregon.gov/dsl/ss/Pages/learning.aspx)for a schedule of their guided tours and other programs.&nbsp;
 
 **\#12-** The reserve is free for the public to visit; however, there are fees associated with some classes and activities.&nbsp;
 
