@@ -3,12 +3,11 @@ _schema: default
 title: Surf & Paddle Your Way Through Oregon’s Adventure Coast
 draft: false
 date: 2026-04-16T00:00:00-07:00
-description: >-
-  Are you searching for a unique adventure to break out of your rut this spring
-  or summer? Getting out on the water might do the trick. When you come to
-  Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, you’ll find no
-  shortage of options to explore our region’s natural beauty and experience the
-  Oregon Coast in a new way.
+description: 'Are you searching for a unique adventure to break out of your rut
+  this spring or summer? Getting out on the water might do the trick. When you
+  come to Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, you’ll
+  find no shortage of options to explore our region’s natural beauty and
+  experience the Oregon Coast in a new way.'
 image: /img/surf-paddle-oregon-coast-blog-1400-x-649.jpg
 warning: false
 ---

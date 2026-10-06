@@ -3,14 +3,12 @@ _schema: default
 title: '  Top Ten Things to Do in Coos Bay, North Bend and Charleston This Summer'
 draft: false
 date: 2023-06-12T00:00:00-07:00
-description: >-
-  Whatever brings you here this summer, we can all but guarantee you will find
-  plenty of wonderful adventures to suit every preference: water activities,
-  hiking, world-class fishing, crabbing, clamming, ATVing, biking, Vegas-style
-  gaming and more! Here are the top rated activities to enjoy this summer in
-  Coos Bay, North Bend and Charleston (according to our visitors).
-image: >-
-  /img/top-ten-things-to-do-in-coos-bay-north-bend-and-charleston-this-summer-blog-695x322-jpg.png
+description: 'Whatever brings you here this summer, we can all but guarantee you
+  will find plenty of wonderful adventures to suit every preference: water
+  activities, hiking, world-class fishing, crabbing, clamming, ATVing, biking,
+  Vegas-style gaming and more! Here are the top rated activities to enjoy this
+  summer in Coos Bay, North Bend and Charleston (according to our visitors).'
+image: /img/top-ten-things-to-do-in-coos-bay-north-bend-and-charleston-this-summer-blog-695x322-jpg.png
 tags:
   - Coos Bay–North Bend-Charleston Visitor & Convention Bureau
   - Coos Bay
@@ -29,18 +27,17 @@ tags:
   - Whiskey Run Mountain Bike Trails
 categories:
   - Itineraries
-aliases: []
 warning: false
 ---
 Without question, summer is one of our favorite seasons on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**. What makes summer so special here? Maybe it’s that distinct, laid-back, Oregon Coast vibe that’s especially palpable in the summer. Or, it could be escaping the heat and enjoying some blissfully cool, comfortable temperatures that average in the mid-high 60s. Perhaps it's the lively summer-time events and festivals that make our region so special. Or, it might be the natural beauty that radiates from the beautiful Pacific Ocean, bays, lakes, rivers and coastal forests that lure travelers here from all over the country.&nbsp;
 
 Whatever brings you here this summer, we can all but guarantee you will find plenty of wonderful adventures to suit every preference: water activities, hiking, world-class fishing, crabbing, clamming, ATVing, biking, Vegas-style gaming and more! Here are the top rated activities to enjoy this summer in Coos Bay, North Bend and Charleston (according to our visitors).&nbsp;
 
-## **\#1)&nbsp;[<u>Go Mountain Biking and/or Cycling</u>](https://www.oregonsadventurecoast.com/cycling).**
+## **\#1)**&nbsp;[**<u>Go Mountain Biking and/or Cycling</u>**](https://www.oregonsadventurecoast.com/cycling)**.**
 
 ![](/img/whiskey-run-blog-695x322-jpg-1.jpg)Did you know one of the highest-ranked Mountain Biking trails in the state of Oregon is right in our own backyard? The Whiskey Run Mountain Bike Trails is a one-of-a-kind trail system located about 15 minutes south of Coos Bay off Highway 101, in the mists of the coastal forest. Moderate climbing, sweeping views and fun descending make this 30-mile trail system worth the drive. If Mountain Biking isn’t your speed, we’re also conveniently located near the [<u>The Oregon Coast Bike Route</u>](https://www.oregon.gov/ODOT/Programs/TDD%20Documents/oregon-coast-bike-route-map.pdf) and many other road biking destinations. [<u>Click here for the City Bike Riding Trails Map (PDF).</u>](https://www.oregonsadventurecoast.com/img/FSCBW-BIKE-TRAIL-MAPS.pdf)&nbsp;
 
-## **\#2)&nbsp;[<u>Get Out on the Water</u>](https://www.oregonsadventurecoast.com/water-recreation).**
+## **\#2)**&nbsp;[**<u>Get Out on the Water</u>**](https://www.oregonsadventurecoast.com/water-recreation)**.**
 
 ![](/img/kayak-tour-coos-bayblog-695x322.jpg)With so many lakes, rivers, bays, estuaries and more, Oregon's Adventure Coast is the gateway to some of the best outdoor fun on the Oregon Coast. Choose from kayaking, stand-up paddleboarding, surfing, and skiing!&nbsp; For the ultimate South Coast Adventure, it doesn’t get much better than fishing, wildlife viewing, and exploring the peaceful waterways on a guided kayak tour along Oregon's South Coast.
 
@@ -50,7 +47,7 @@ Whatever brings you here this summer, we can all but guarantee you will find ple
 
 ## **\#4) Visit South Slough National Estuarine Research Reserve.**
 
-![](/img/south-slough-hike-blog-695x322.jpg)We can’t get enough of beautiful outdoor destinations, like t[<u>he South Slough National Estuarine Research Reserve (South Slough NERR)</u>](https://www.oregon.gov/dsl/SS/Pages/About.aspx), a 5,000-acre natural area located in the Coos estuary near Charleston. Not only are there miles of hiking trails and waterways to explore, but visitors can also enjoy an abundance of wildlife viewing. Take a self-guided tour through this protected area of land and estuary, and you’ll likely spot various [<u>birds and wildlife</u>](https://www.oregonsadventurecoast.com/birding-and-wildlife) like Bald Eagles, Osprey, Great Blue Herons, Egrets and Belted Kingfishers.&nbsp;
+![](/img/south-slough-hike-blog-695x322.jpg)We can’t get enough of beautiful outdoor destinations, like t[<u>he South Slough National Estuarine Research Reserve (South Slough NERR)</u>](https://www.oregon.gov/dsl/ss/Pages/default.aspx), a 5,000-acre natural area located in the Coos estuary near Charleston. Not only are there miles of hiking trails and waterways to explore, but visitors can also enjoy an abundance of wildlife viewing. Take a self-guided tour through this protected area of land and estuary, and you’ll likely spot various [<u>birds and wildlife</u>](https://www.oregonsadventurecoast.com/birding-and-wildlife) like Bald Eagles, Osprey, Great Blue Herons, Egrets and Belted Kingfishers.&nbsp;
 
 ## **\#5) Check out one of our local events!**
 
@@ -69,23 +66,23 @@ Whatever brings you here this summer, we can all but guarantee you will find ple
 * [Annual Prefontaine Memorial Run - September 16, 2023](https://www.oregonsadventurecoast.com/event/annual-prefontaine-memorial-run/)
 * [Annual Bay Area Fun Festival - September 16-17, 2023](https://www.oregonsadventurecoast.com/event/annual-bay-area-fun-festival/)
 
-## **\#6)&nbsp;[<u>Experience the Thrill of the Oregon Dunes National Recreation Area</u>](https://www.oregonsadventurecoast.com/untamed-dunes).**
+## **\#6)**&nbsp;[**<u>Experience the Thrill of the Oregon Dunes National Recreation Area</u>**](https://www.oregonsadventurecoast.com/untamed-dunes)**.**
 
 ![](/img/oregon-dunes-atv-blog-695x322.jpg)For a truly unique Oregon coast adventure, [<u>rent an ATV and go for a thrilling ride</u>](https://www.oregonsadventurecoast.com/atv-motorsports) or hike in the only non-motorized section of the Oregon Dunes National Recreation Area, the John Dellenback Trails. This national treasure is the largest expanse of coastal sand dunes in North America; 40 miles in all. For guides, rentals and more, [<u>click here</u>](https://oregonsadventurecoast.com/untamed-dunes/).&nbsp;
 
-**\#7)&nbsp;[<u>Observe Marine Life in a Natural Setting</u>](https://www.oregonsadventurecoast.com/ocean-life-and-tidepooling).**
+**\#7)**&nbsp;[**<u>Observe Marine Life in a Natural Setting</u>**](https://www.oregonsadventurecoast.com/ocean-life-and-tidepooling)**.**
 
 ![](/img/oregon-whale-watching-blog-695x322-jpg.jpg)Diverse marine habitats and ecosystems abound on Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston, and can frequently be observed in one-of-a-kind tidepools as you stroll along our [<u>undeveloped beaches</u>](https://www.oregonsadventurecoast.com/undeveloped-beaches) and estuaries. ***Please remember to treat the area with care. These are living plants and animals in their natural environment.*** You could also visit the 6,000-square-foot [<u>Charleston Marine Life Center</u>](http://www.charlestonmarinelifecenter.com/) - a beloved educational facility and local gem in Charleston, Oregon. Come explore their permanent exhibits, including a Marine Ecosystem Gallery, an Underwater Oregon Gallery, and an Oregon Fisheries Gallery (an open-air deck where visitors can watch fishing vessels coming and going from the harbor).
 
-## **\#8)&nbsp;[<u>Try a New Dish at a Local Restaurant</u>](https://www.oregonsadventurecoast.com/dining/).**
+## **\#8)**&nbsp;[**<u>Try a New Dish at a Local Restaurant</u>**](https://www.oregonsadventurecoast.com/dining/)**.**
 
 ![](/img/dining-blog-695-x-395.jpg)There are many local restaurants dishing out the freshest seafood and chowder you could hope for! Try one of our vegan restaurants or get a taste of farm to fork establishments featured on the [<u>Wild Rivers Coast Food Trail</u>](https://www.wrcfoodtrail.com/).&nbsp; [<u>Download our Local Restaurant Guide</u>](https://www.oregonsadventurecoast.com/img/restaurants-booklet-web-04-23.pdf) to carry with you, or visit [<u>oregonsadventurecoast.com/dining</u>](https://oregonsadventurecoast.com/dining/) to see all our local restaurants.
 
-## **\#9) Go on a [<u>Scenic Drive</u>](https://www.oregonsadventurecoast.com/scenic-drives).**
+## **\#9) Go on a** [**<u>Scenic Drive</u>**](https://www.oregonsadventurecoast.com/scenic-drives)**.**
 
 ![](/img/blog-nature-695x322-1.png)Sometimes, the best way to unwind is to just go on a drive - and there are so many incredible drives to choose from! Take a scenic drive along the [<u>Cape Arago Highway Beach Loop</u>](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/), or try [<u>Lighthouse hunting, </u>](https://www.oregonsadventurecoast.com/lighthouses/)[<u>Charleston to Bandon Tour Route</u>](https://www.oregonsadventurecoast.com/tripideas/charleston-to-bandon-tour-route/). [<u>Download our Charleston Bandon Tour Route Map (PDF)</u>](https://www.oregonsadventurecoast.com/img/charleston-to-bandon-map.pdf) - This chunk of Pacific Coast Scenic Byway showcases a glorious stretch of coastline. Included in this drive are six state parks, two National Wildlife Refuges, and America’s first National Estuarine Research Reserve.&nbsp;
 
-## **\#10)&nbsp;[<u>Take a Hike! to Golden and Silver Falls</u>](https://www.oregonsadventurecoast.com/hiking-walking/).**
+## **\#10)**&nbsp;[**<u>Take a Hike! to Golden and Silver Falls</u>**](https://www.oregonsadventurecoast.com/hiking-walking/)**.**
 
 ![](/img/golden-silver-falls-695x322-jpg-1.jpg)For adventure lovers, Golden and Silver Falls (about 30 miles from Highway 101, on Highway 241) does not disappoint! This is a perfect place to enjoy nature and solitude [<u>as you hike</u>](https://www.oregonsadventurecoast.com/hiking-walking) through scenic canyons and lush coastal forests to two magnificent waterfalls. The drive to the falls is part of the adventure, with winding roads that narrow in places and can take almost an hour to traverse.[<u> Click here</u>](https://oregonsadventurecoast.com/blog/2016-02-05-adventure-spotlight-golden-and-silver-falls/) for our tips and more info.&nbsp;
 
