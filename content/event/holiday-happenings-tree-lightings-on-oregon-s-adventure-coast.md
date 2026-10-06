@@ -95,7 +95,7 @@ Right in downtown Coos Bay is another spectacular holiday lights display - vinta
 
 **Shop Small Saturday encourages us to shop at small, local shops this holiday season!**&nbsp;The Coos Bay Downtown Association and North Bend Main Street invite you to spend Saturday after Thanksgiving in both downtown districts for Shop Small Saturday. Shop Small Saturday encourages shoppers to support their neighborhood businesses and to embrace the day as a holiday shopping tradition.
 
-A Cider Walk is planned for downtown Coos Bay from 11am-3pm beginning at Jennie's Shoes. Bring your receipts from all your purchases between Nov 13 and Nov 28 to receive a special holiday mug.
+A **Cider Walk** is planned for downtown Coos Bay from 11am-3pm beginning at Jennie's Shoes. Bring your receipts from all your purchases between Nov 13 and Nov 28 to receive a special holiday mug while you are there.
 
 {{< spacer 50 >}}
 
