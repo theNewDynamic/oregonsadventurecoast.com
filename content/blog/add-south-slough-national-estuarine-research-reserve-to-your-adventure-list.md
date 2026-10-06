@@ -53,7 +53,7 @@ warning: false
 ---
 ## Why South Slough National Estuarine Research Reserve Will Be Your New Favorite Destination to Unplug & Reconnect With Nature
 
-With so many special outdoor destinations to explore on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**, it might be easy to overlook natural gems like the[South Slough National Estuarine Research Reserve (South Slough NERR)](https://www.oregon.gov/dsl/SS/Pages/About.aspx), a nearly 5,000-acre natural area located in the Coos estuary.
+With so many special outdoor destinations to explore on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**, it might be easy to overlook natural gems like the [South Slough National Estuarine Research Reserve (South Slough NERR)](https://www.oregon.gov/dsl/ss/Pages/default.aspx), a nearly 5,000-acre natural area located in the Coos estuary.
 
 ![Aerial view of a forested estuary landscape with a winding river leading out to the ocean](/img/south-slough-national-estuarine-research-reserve.jpg)
 
@@ -73,7 +73,7 @@ However, if you ask us, missing this sometimes overlooked natural gem would be a
 
 ### What is an Estuary?
 
-​An estuary is a partially enclosed body of water along the coast where freshwater from rivers and streams meets and mixes with saltwater from the ocean. The[National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov/heritage/resource-collections/building-network-of-estuaries) describes estuaries as “key junctions in the great planetary hydrologic (water) cycle. They are the zones on continental coasts where fresh river water streaming from mountains and plains reaches sea level and mingles with the salty ocean tides.” Estuarine environments create more organic matter each year than comparably sized areas of forest, grassland, or agricultural land. The tidal, sheltered waters of estuaries also support unique communities of plants and function as a nursery ground for animals and marine life vital to our region, such as Dungeness crab.
+​An estuary is a partially enclosed body of water along the coast where freshwater from rivers and streams meets and mixes with saltwater from the ocean. The [National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov/heritage/resource-collections/building-network-of-estuaries) describes estuaries as “key junctions in the great planetary hydrologic (water) cycle. They are the zones on continental coasts where fresh river water streaming from mountains and plains reaches sea level and mingles with the salty ocean tides.” Estuarine environments create more organic matter each year than comparably sized areas of forest, grassland, or agricultural land. The tidal, sheltered waters of estuaries also support unique communities of plants and function as a nursery ground for animals and marine life vital to our region, such as Dungeness crab.
 
 ​Established in 1974, the South Slough NERR **was the very first reserve in the country designated** under the National Estuarine Research Reserve System. With [National Estuaries Week](https://estuaries.org/get-involved/national-estuaries-week/) coming up September 19–26, 2026, we wanted to take a moment to spotlight this very special gem.
 
