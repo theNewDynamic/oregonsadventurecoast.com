@@ -1,13 +1,11 @@
 ---
 _schema: default
-title: "Seven Reasons to Visit the Coos Bay-North Bend-Charleston Area This Summer\_"
+title: Seven Reasons to Visit the Coos Bay-North Bend-Charleston Area This Summer 
 draft: false
 date: 2023-05-11T00:00:00-07:00
-description: >-
-  There Are Many Reasons to Join Us for an Epic Adventure this Summer, Here are
-  Just a Few.
-image: >-
-  /img/top-reasons-to-visit-coos-bay-north-bend-charleston-summer-blog-695x322-jpg.jpg
+description: There Are Many Reasons to Join Us for an Epic Adventure this
+  Summer, Here are Just a Few.
+image: /img/top-reasons-to-visit-coos-bay-north-bend-charleston-summer-blog-695x322-jpg.jpg
 tags:
   - Oregon's Aventure Coast
   - Oregon Coast
@@ -28,7 +26,6 @@ tags:
   - Coos Bay/North Bend/Charleston
 categories:
   - Oregon's Adventure Coast News & Info
-aliases: []
 warning: false
 ---
 There’s always something happening on **Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston**, and the summer months are no exception! Not only is there typically plenty of sunshine and cooler temperatures to escape to, visitors can experience unique events, natural beauty and coastal views that can’t be found anywhere else in the country. Here are the top seven reasons why summer is one of our favorite seasons on Oregon’s Adventure Coast.&nbsp;
@@ -43,9 +40,9 @@ There’s always something happening on **Oregon’s Adventure Coast: Coos Bay, 
 
 **\#5 Visitors can explore Oregon's South Coast by kayak, stand-up paddleboard and more.** For the ultimate south coast adventure, it doesn’t get much better than fishing, wildlife viewing, and exploring the peaceful waterways on a guided kayak tour or paddleboard excursion along Oregon's South Coast. Don’t have your own kayak, paddleboard or surfboard? You can rent one and get some sage advice from our friends at [<u>Waxer’s Surf Shop</u>](https://waxerssurfandskate.com/) in downtown Coos Bay; [<u>Bahama Boards </u>](https://bahamaboardz.com/)in Coos Bay; and [<u>Coastal Kayak &amp; SUP Rentals</u>](https://coastalkayakandsuprentalsllc.com/) in the Empire District of Coos Bay. Coastal Kayak will even deliver your equipment where you plan to recreate! [<u>Click here</u>](https://www.oregonsadventurecoast.com/water-recreation/) for more info.
 
-**\#6** **You have to see South Slough National Estuarine Research Reserve in the summer.&nbsp;**We can’t get enough of beautiful outdoor destinations, like t[<u>he South Slough National Estuarine Research Reserve (South Slough NERR)</u>](https://www.oregon.gov/dsl/SS/Pages/About.aspx), a 5,000-acre natural area located in the Coos estuary near Charleston. Not only are there miles of hiking trails and waterways to explore, but visitors can also enjoy an abundance of wildlife viewing. Take a self-guided tour through this protected area of land and estuary, and you’ll likely spot various birds like Bald Eagles, Osprey, Great Blue Herons, Egrets and Belted Kingfishers. Read more about [<u>South Slough NERR</u>](https://www.oregonsadventurecoast.com/blog/unplug-reconnect-with-nature-at-the-south-slough-nerr/).&nbsp;
+**\#6** \*\*You have to see South Slough National Estuarine Research Reserve in the summer.&nbsp;\*\*We can’t get enough of beautiful outdoor destinations, like [t<u>he South Slough National Estuarine Research Reserve (South Slough NERR)</u>](https://www.oregon.gov/dsl/ss/Pages/default.aspx), a 5,000-acre natural area located in the Coos estuary near Charleston. Not only are there miles of hiking trails and waterways to explore, but visitors can also enjoy an abundance of wildlife viewing. Take a self-guided tour through this protected area of land and estuary, and you’ll likely spot various birds like Bald Eagles, Osprey, Great Blue Herons, Egrets and Belted Kingfishers.&nbsp;
 
-**\#7 Because the events and festivals are hopping this summer!** If you’re looking for amazing outdoor events the whole family can enjoy on the Oregon Coast this summer, look no further. Here’s a quick round-up of the events happening in Coos Bay/North Bend/Charleston. For more information, please visit our [<u>Featured Events Page</u>](https://www.oregonsadventurecoast.com/events/) and/or our[<u> full calendar of events</u>](https://www.oregonsadventurecoast.com/calendar/)**.&nbsp;**
+**\#7 Because the events and festivals are hopping this summer!** If you’re looking for amazing outdoor events the whole family can enjoy on the Oregon Coast this summer, look no further. Here’s a quick round-up of the events happening in Coos Bay/North Bend/Charleston. For more information, please visit our [<u>Featured Events Page</u>](https://www.oregonsadventurecoast.com/events/) and/or our[<u> full calendar of events</u>](https://www.oregonsadventurecoast.com/calendar/)**.**&nbsp;
 
 ### **May/June 2023**
 
@@ -53,7 +50,7 @@ May 27-28, 2023 [<u>Annual BBQ, Blues &amp; Brews on the Bay</u>](https://www.or
 
 June 21-25, 2023 [<u>UTV TakeOver 2023</u>](https://www.oregonsadventurecoast.com/event/utv-takeover/)&nbsp;
 
-### **July/August 2023&nbsp;**
+### **July/August 2023**&nbsp;
 
 July 3-4, 2023 [<u>July 3rd &amp; 4th Fireworks Over The Bay</u>](https://www.oregonsadventurecoast.com/event/july-3rd-july-4th-on-oregon-s-adventure-coast-1/)&nbsp;
 
@@ -67,7 +64,7 @@ Aug 12, 2023 [<u>Circle the Bay 30K</u>](https://www.oregonsadventurecoast.com/e
 
 Aug 26 - Aug 27, 2023 [<u>Annual Blackberry Arts Festival</u>](https://www.oregonsadventurecoast.com/event/annual-blackberry-arts-festival/)
 
-### **September 2023&nbsp;**
+### **September 2023**&nbsp;
 
 Sep 7 - Sep 8, 2023 [<u>IN A LANDSCAPE: Classical Music in the Wild</u>](https://www.oregonsadventurecoast.com/event/in-a-landscape-classical-music-in-the-wild/)
 
