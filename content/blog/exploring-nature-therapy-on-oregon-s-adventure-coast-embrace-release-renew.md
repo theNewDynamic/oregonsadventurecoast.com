@@ -1,12 +1,12 @@
 ---
 _schema: default
-title: 'Exploring Nature Therapy on Oregon''s Adventure Coast: Embrace, Release, Renew'
+title: "Exploring Nature Therapy on Oregon's Adventure Coast: Embrace, Release, Renew"
 draft: false
 date: 2024-03-07T00:00:00-08:00
-description: >-
-  With spring and summer just around the corner, we thought this would be the
-  perfect time to demonstrate how simple it is to reconnect with nature on
-  Oregon’s Adventure Coast: Coos Bay, North Bend, Charleston.&nbsp;&nbsp;
+description: 'With spring and summer just around the corner, we thought this
+  would be the perfect time to demonstrate how simple it is to reconnect with
+  nature on Oregon’s Adventure Coast: Coos Bay, North Bend,
+  Charleston.&nbsp;&nbsp;'
 image: /img/nature-thearapy-oregon-coast-blog-695x322-jpg.png
 tags:
   - Nature Therapy
@@ -34,7 +34,7 @@ Nature therapy, a.k.a. “forest therapy” or “forest bathing”, is a redisc
 
 ### \#1 South Slough National Estuarine Research Reserve
 
-[<u>South Slough National Estuarine Research Reserve (South Slough NERR)</u>](https://www.oregon.gov/dsl/SS/Pages/About.aspx) is a 5,000-acre natural area located in the Coos estuary near Charleston, with one of the richest ecosystems on the Oregon Coast. Not only are there miles of hiking trails and waterways to explore, but visitors can also enjoy an abundance of wildlife viewing. Take a self-guided tour through this protected area of land and estuary, and you’ll likely spot various [<u>birds and wildlife</u>](https://www.oregonsadventurecoast.com/birding-and-wildlife) like Bald Eagles, Osprey, Great Blue Herons, Egrets and Belted Kingfishers. South Slough NERR is more than a beautiful destination to hike and unwind; it is a living, breathing natural resource dedicated to sustaining the environment and coastal way of life. The reserve is located at 61907 Seven Devils Road Charleston, OR 97420.&nbsp; For more information, visit [<u>www.oregon.gov</u>](http://www.oregon.gov/dsl/SSNERR/Pages/index.aspx).&nbsp;&nbsp;
+[<u>South Slough National Estuarine Research Reserve (South Slough NERR)</u>](https://www.oregon.gov/dsl/ss/Pages/default.aspx) is a 5,000-acre natural area located in the Coos estuary near Charleston, with one of the richest ecosystems on the Oregon Coast. Not only are there miles of hiking trails and waterways to explore, but visitors can also enjoy an abundance of wildlife viewing. Take a self-guided tour through this protected area of land and estuary, and you’ll likely spot various [<u>birds and wildlife</u>](https://www.oregonsadventurecoast.com/birding-and-wildlife) like Bald Eagles, Osprey, Great Blue Herons, Egrets and Belted Kingfishers. South Slough NERR is more than a beautiful destination to hike and unwind; it is a living, breathing natural resource dedicated to sustaining the environment and coastal way of life. The reserve is located at 61907 Seven Devils Road Charleston, OR 97420.&nbsp; For more information, visit [<u>www.oregon.gov</u>](https://www.oregon.gov/dsl/ss/Pages/default.aspx).&nbsp;&nbsp;
 
 ### \#2- Cape Arago Beach Loop
 
