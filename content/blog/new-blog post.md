@@ -3,10 +3,10 @@ _schema: default
 title: Six Major Milestones We’re Celebrating This Year on Oregon’s Adventure Coast
 draft: false
 date: 2024-04-22T00:00:00-07:00
-description: >-
-  It’s worth noting that 2024 brings a tapestry of special anniversaries and
-  milestones that have shaped our history and character. Join us this year as we
-  celebrate these organizations and institutions that make this region unique!
+description: It’s worth noting that 2024 brings a tapestry of special
+  anniversaries and milestones that have shaped our history and character. Join
+  us this year as we celebrate these organizations and institutions that make
+  this region unique!
 image: /img/six-major-milestones-worth-celebrating-blog-695x322-jpg.jpg
 tags:
   - Coos Bay 150 Celebration
@@ -44,7 +44,7 @@ Join us this year as we celebrate these organizations and institutions that make
 
 ![](/img/oimb.jpg)
 
-**August & September 2024 - South Slough Reserve 50th Anniversary Celebration.** South Slough National Estuarine Research Reserve, the first such estuary in the country, is celebrating its 50th Birthday. South Slough is a protected estuary and natural area located on state-owned land in the Coos estuary on Oregon’s southern coast. It is managed in partnership with the Oregon Department of State Lands and the National Oceanic and Atmospheric Administration. The Reserve manages and studies nearly 7,000 acres of natural area, including open water channels, tidal and freshwater wetlands, riparian areas, and forested lands. [Click here to learn more](https://www.oregon.gov/DSL/SS/Pages/About.aspx)and stay tuned for updates on the 50th Anniversary Celebration! [Oregon Department of State Lands : About South Slough Reserve](https://www.oregon.gov/DSL/SS/Pages/About.aspx)
+**August & September 2024 - South Slough Reserve 50th Anniversary Celebration.** South Slough National Estuarine Research Reserve, the first such estuary in the country, is celebrating its 50th Birthday. South Slough is a protected estuary and natural area located on state-owned land in the Coos estuary on Oregon’s southern coast. It is managed in partnership with the Oregon Department of State Lands and the National Oceanic and Atmospheric Administration. The Reserve manages and studies nearly 7,000 acres of natural area, including open water channels, tidal and freshwater wetlands, riparian areas, and forested lands. [Click here to learn more](https://www.oregon.gov/dsl/ss/Pages/default.aspx) and stay tuned for updates on the 50th Anniversary Celebration! [Oregon Department of State Lands : About South Slough Reserve](https://www.oregon.gov/dsl/ss/Pages/default.aspx)
 
 ![](/img/south-slough-reserve.jpg)
 
