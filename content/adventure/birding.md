@@ -5,10 +5,9 @@ url: /birding-and-wildlife
 photo: /img/blog-plover-header.jpg
 seo:
   title: Trips to the Oregon Coast - Birding/Wildlife | Oregon's Adventure Coast
-  description: >-
-    Rugged and largely undeveloped, this area of the Oregon Coast lures birders
-    to view wildlife seldom encountered! Plan your trip for birding and wildlife
-    viewing today.
+  description: Rugged and largely undeveloped, this area of the Oregon Coast lures
+    birders to view wildlife seldom encountered! Plan your trip for birding and
+    wildlife viewing today.
 aliases:
   - /featured-adventures/birding
   - /activities/category/birding
@@ -21,7 +20,7 @@ Rugged and largely undeveloped, Oregon’s south coast lures birders to view wil
 
 {{< floatimage src="/img/birdwatching.jpg" float="left" alt="Birdwatching on Oregon's Adventure Coast" size="80" >}}
 
-The South Slough National Estuarine Research Reserve near Charleston, with its 5,000 acres of saltwater marshes and mixed conifer forest, attracts Band-tailed Pigeons and Wrentits.
+The [South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/ss/Pages/default.aspx) near Charleston, with its 5,000 acres of saltwater marshes and mixed conifer forest, attracts Band-tailed Pigeons and Wrentits.
 
 The Millacoma Marsh trail, on the Eastside of the Bay,  meanders through fresh and saltwater marshes with great opportunities to view wildlife. Shorebirds, waterfowl, and raptors are commonly seen from the trail. Evidence of raccoon, black tailed deer, beaver, bats, and moles can be found by the curious and watchful.
 
