@@ -1,10 +1,9 @@
 ---
 _schema: default
 title: Bahama Boards
-property_description: >-
-  Rent kayaks, boogie boards, surfboards, stand up paddleboards, sand boards,
-  PFDs, wetsuits, supplies and more. At the corner of Hwy 101 and Ivy Street.
-  Open Tues-Sat 10am-6pm, Sun by Appt.
+property_description: 'Rent kayaks, boogie boards, surfboards, stand up
+  paddleboards, sand boards, PFDs, wetsuits, supplies and more. At the corner of
+  Hwy 101 and Ivy Street. '
 property_name: Bahama Boards
 equip_type:
   - Equipment
