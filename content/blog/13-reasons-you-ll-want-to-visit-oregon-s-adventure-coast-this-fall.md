@@ -75,7 +75,7 @@ Wanna know a well-kept travel secret? Fall is undoubtedly one of the BEST times 
 
 ![](/img/fishing-tripideas-collage.jpg)
 
-**\#9- Fantastic Bird Watching Conditions.** The relatively mild climate on Oregon’s Adventure Coast creates ideal conditions for migrating birds and waterfowl year-round, and autumn is no exception. [The South Slough National Estuarine Research Reserve (South Slough NERR)](https://www.oregon.gov/dsl/SS/Pages/About.aspx), a 5,000-acre natural area located in the Coos estuary, offers some of the best bird watching in the state!
+**\#9- Fantastic Bird Watching Conditions.** The relatively mild climate on Oregon’s Adventure Coast creates ideal conditions for migrating birds and waterfowl year-round, and autumn is no exception. [The South Slough National Estuarine Research Reserve (South Slough NERR)](https://www.oregon.gov/dsl/ss/Pages/default.aspx), a 5,000-acre natural area located in the Coos estuary, offers some of the best bird watching in the state!
 
 ![](/img/coos-bay-birding-blog-695x322-jpg-1.png)
 

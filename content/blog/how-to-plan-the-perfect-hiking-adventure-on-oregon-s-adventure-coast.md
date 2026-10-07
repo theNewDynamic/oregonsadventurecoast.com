@@ -76,7 +76,7 @@ We have a whole system of hiking trails in the immediate and surrounding area, b
 
 For adventure lovers, Golden and Silver Falls (about an hour off Highway 101, on Highway 241) does not disappoint! This is a perfect place to enjoy nature and solitude as you hike through scenic canyons and lush coastal forests to two magnificent waterfalls. [Click here](https://oregonsadventurecoast.com/blog/2016-02-05-adventure-spotlight-golden-and-silver-falls/) for our tips and more info. A small parking and picnic area is located along the banks of Glenn and Silver Creeks, set in an old-growth forest of Douglas fir, Big Leaf Maple and Oregon Myrtle trees.
 
-#### [**South Slough National Estuarine Research Reserve**](https://www.oregon.gov/dsl/SS/Pages/About.aspx)
+#### [**South Slough National Estuarine Research Reserve**](https://www.oregon.gov/dsl/ss/Pages/default.aspx)
 
 The trails at South Slough National Estuarine Research Reserve (SSNERR) are one of Oregon’s best-kept secrets. This glorious nature preserve, located off Cape Arago Highway, on 7 Devils Road, near Charleston, covers 19,000 acres and offers miles of beautiful hiking trails and waterways to explore for all ability levels. Visitors say these trails are well maintained and relatively easy to hike, however, there are uphill portions to conquer, so be prepared. SSNERR is also home to various marine life, plant and bird species - so be sure to bring binoculars with you! [Visit the South Slough Reserve webpage for more information.](https://www.oregon.gov/DSL/SS/Pages/About.aspx) [Click here for the Estuary Study Trails map (pdf).](https://www.oregon.gov/dsl/SS/Documents/south_slough_brochure_0415.pdf)
 

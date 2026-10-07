@@ -34,7 +34,7 @@ warning: true
 old_categories:
   - National Lands
 ---
-[National Estuaries Week (NEW)](https://estuaries.org/get-involved/new/) is happening THIS WEEK (September 14th-21st) and we wanted to take the opportunity to help raise awareness for these precious water systems and spotlight our own local estuary and local gem, [The South Slough National Estuarine Research Reserve (South Slough NERR)](https://www.oregon.gov/dsl/SS/Pages/About.aspx)!
+[National Estuaries Week (NEW)](https://estuaries.org/get-involved/new/) is happening THIS WEEK (September 14th-21st) and we wanted to take the opportunity to help raise awareness for these precious water systems and spotlight our own local estuary and local gem, [The South Slough National Estuarine Research Reserve (South Slough NERR)](https://www.oregon.gov/dsl/ss/Pages/default.aspx)!
 
 Many do not realize the important role that estuaries have in our ecosystem and in our lives. Estuarine ecosystems serve as natural barriers to buffer against storms and floods, absorb and store carbon, and provide critical habitat for commercial and recreational fisheries. The need to protect and restore these critical places has never been more pressing.
 
@@ -50,7 +50,7 @@ Curious about the importance of our nation’s estuaries? Here are some answers 
 
 **Why are they important?** Estuarine environments are among the most productive on earth, creating more organic matter each year than comparably-sized areas of forest, grassland, or agricultural land. The tidal, sheltered waters of estuaries also support unique communities of plants and animals especially adapted for life at the margin of the sea. Thousands of species of birds, mammals, fish, and other wildlife depend on estuarine habitats as places to live, feed, and reproduce. Many marine organisms, including most commercially-important species of fish and crab, depend on estuaries at some point during their development. *Source:* [*www.water.epa.gov*](http://water.epa.gov/type/oceb/nep/about.cfm)
 
-**Are there estuarine environments on Oregon’s South Coast?** Yes. [The South Slough NERR](https://www.oregon.gov/dsl/SS/Pages/About.aspx) is located in Charleston Oregon. This 5,000-acre natural area is a place like no other. It encompasses a mixture of open water channels, tidal and freshwater wetlands, riparian areas, forested uplands and open water habitats.
+**Are there estuarine environments on Oregon’s South Coast?** Yes. [The South Slough NERR](https://www.oregon.gov/dsl/ss/Pages/default.aspx) is located in Charleston Oregon. This 5,000-acre natural area is a place like no other. It encompasses a mixture of open water channels, tidal and freshwater wetlands, riparian areas, forested uplands and open water habitats.
 
 **What kind of activities are available here?** There are many ways to enjoy the South Slough. Taking an educational class, guided birding, kayaking, attending a native plant workshop, hiking the trails, viewing of the marsh or visiting the Interpretive Center art gallery and seeing works of local painters are just a few of the activities you will find here.
 

@@ -35,7 +35,7 @@ Here are a few more local destinations where you can get your paddle on!
 
 **SOUTH SLOUGH NATIONAL ESTUARINE RESEARCH RESERVE**
 
-With more than 4,800 acres of open water channels, tidal and freshwater wetlands, [South Slough National Estuarine Research Reserve](http://www.oregon.gov/DSL/SSNERR/Pages/index.aspx) is a paddlers' paradise. This local natural treasure is home to various marine life, including shellfish, salmon and birds including Bald Eagles, Osprey, Great Blue Herons, Egrets and Belted Kingfishers. Guided tours of the[South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/SS/Pages/About.aspx) have been offered by the Slough staff and local tour guides in the past and are likely to resume as Coos County enters into the moderate or low risk category for COVID-19.
+With more than 4,800 acres of open water channels, tidal and freshwater wetlands, [South Slough National Estuarine Research Reserve](http://www.oregon.gov/DSL/SSNERR/Pages/index.aspx) is a paddlers' paradise. This local natural treasure is home to various marine life, including shellfish, salmon and birds including Bald Eagles, Osprey, Great Blue Herons, Egrets and Belted Kingfishers. Guided tours of the[South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/ss/Pages/default.aspx) have been offered by the Slough staff and local tour guides in the past and are likely to resume as Coos County enters into the moderate or low risk category for COVID-19.
 
 For more tips, be sure to read [Paddling Trip Information: How to Come Prepared](https://www.oregon.gov/dsl/SS/Documents/KayakCanoe.pdf).
 

@@ -2,7 +2,7 @@
 _schema: default
 title: >-
   Ready. Set. Adventure! What Travelers Can Expect As We Reopen Oregon’s
-  Adventure Coast 
+  Adventure Coast
 draft: true
 date: 2020-06-16T04:00:00Z
 description: >-
@@ -54,7 +54,7 @@ As Oregon’s Adventure Coast begins to carefully reopen, it’s important that 
 * [Horsfall Beach Day Use OHV Staging](https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42627)\- Open for Day Use ONLY. [Campground](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42625) is closed until June 18th, 2020.
 * [Oregon Dunes National Recreation Area](https://www.fs.usda.gov/detail/siuslaw/home/?cid=fseprd712205)\- most national forest boat ramps, day-use sites, and trailheads throughout the forest, and off-highway vehicle staging areas on the Oregon Dunes, will be available for day use, in many cases with limited or no services. Barring unforeseen circumstances related to community readiness, starting June 18th, most camps at the Oregon Dunes and campgrounds throughout the forest will reopen with limited services. Most (if not all) [ATVing & Motorsports rental shops](https://www.oregonsadventurecoast.com/atv-motorsports/) are also now open.
 * [Shore Acres State Park](https://shoreacres.net/)\- Day-use area and gardens are open to limited daytime use. Be prepared to turn around if crowded. Facilities may close without notice.
-* [South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/SS/Pages/About.aspx). All hiking trails are currently open. The Reserve Visitor Center is closed until further notice. All South Slough Reserve programs, field trips, events and meetings have been canceled until further notice though some online events are now available.
+* [South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/ss/Pages/default.aspx). All hiking trails are currently open. The Reserve Visitor Center is closed until further notice. All South Slough Reserve programs, field trips, events and meetings have been canceled until further notice though some online events are now available.
 * [Sunset Bay State Park](https://stateparks.oregon.gov/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=70)\- Day-use area is open and some overnight camping is allowed as of June 9th. Reservations for camping are required - call 800-452-5687. Walk-ups will not be accepted. Shower facilities will remain closed but restrooms are open.
 
 **Some Indoor & Outdoor Entertainment.** As we mentioned earlier in the post, there is plenty of space on Oregon’s Adventure Coast to spread out and stay safe. In addition to our State Parks and Public Lands mentioned above, visitors will find that other sources of [fun and entertainment](https://www.oregonsadventurecoast.com/entertainment-and-nightlife/)are now available under Phase Two with some restrictions.
