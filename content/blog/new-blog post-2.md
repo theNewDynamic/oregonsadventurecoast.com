@@ -106,7 +106,7 @@ To help you experience Oregon’s Adventure Coast like a local, we’ve gathered
 * [Charleston Marine Life Center](https://cmlc.uoregon.edu/)
 * [Yoakam Point State Park](https://stateparks.com/yoakam_point_state_natural_site_in_oregon.html)
 * [Sunset Bay State Park](https://www.oregonsadventurecoast.com/state-parks-and-national-lands)
-* [South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/SS/Pages/About.aspx)
+* [South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/ss/Pages/default.aspx)
 * [Scenic Drives](https://www.oregonsadventurecoast.com/scenic-drives)
 * [Winter Storm Watching](https://www.oregonsadventurecoast.com/storm-watching)
 * [Forest Bathing & Mindfulness](https://www.oregonsadventurecoast.com/forest-bathing)

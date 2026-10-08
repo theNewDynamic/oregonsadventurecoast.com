@@ -115,7 +115,7 @@ For easier access by vehicle, consider these alternative storm-watching location
 
 There are plenty of other destinations along the [Charleston to Bandon Tour Route](https://www.oregonsadventurecoast.com/img/charleston-to-bandon-map.pdf) that offer beautiful vistas and unique experiences. Bring your camera and take lots of photos!
 
-[**South Slough National Estuarine Research Reserve**](https://www.oregon.gov/dsl/SS/Pages/About.aspx) (SSNERR)-This south coast gem is home to diverse marine life, including shellfish, salmon, and seabirds. The South Slough National Estuarine Research Reserve features a variety of hiking and paddling trails that wind through estuarine habitats, as well as an informative interpretive center.
+[**South Slough National Estuarine Research Reserve**](https://www.oregon.gov/dsl/ss/Pages/default.aspx) (SSNERR)-This south coast gem is home to diverse marine life, including shellfish, salmon, and seabirds. The South Slough National Estuarine Research Reserve features a variety of hiking and paddling trails that wind through estuarine habitats, as well as an informative interpretive center.
 
 [**Seven Devils State Recreation Site**](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=49) **\-** Located just 26 minutes (20.1 miles) south of Coos Bay via US-101 S and W Beaver Hill Road, Seven Devils State Recreation Site is a hidden gem in Coos County offering panoramic views and a vast, uncrowded beach where you can often feel at one with nature. Beachcombers will delight in finding driftwood, agates, rocks, and small shells scattered along the shoreline.
 

@@ -43,7 +43,7 @@ Everyone knows that getting out on the water is a great way to connect to nature
 
 ![](/img/180712_wildcoastmisc_591-1.jpg)
 
-Embarking on a SUP tour of the [South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/SS/Pages/About.aspx), a protected area of land and estuary in Charleston, offers an opportunity like no other. As you glide through the calm water, take in the sights of the many birds that utilize this beautiful area including Bald Eagles, Osprey, Great Blue Herons, Egrets and Belted Kingfishers. The tides are great in this estuary so plan to ride the ebbing and flowing tides to make this paddle a little easier.
+Embarking on a SUP tour of the [South Slough National Estuarine Research Reserve](https://www.oregon.gov/dsl/ss/Pages/default.aspx), a protected area of land and estuary in Charleston, offers an opportunity like no other. As you glide through the calm water, take in the sights of the many birds that utilize this beautiful area including Bald Eagles, Osprey, Great Blue Herons, Egrets and Belted Kingfishers. The tides are great in this estuary so plan to ride the ebbing and flowing tides to make this paddle a little easier.
 
 ### SUNSET BAY STATE PARK
 

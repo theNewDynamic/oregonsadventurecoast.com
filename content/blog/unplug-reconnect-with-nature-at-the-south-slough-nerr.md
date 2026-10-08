@@ -19,7 +19,7 @@ seo:
   image: ''
 warning: true
 ---
-In case you haven’t heard, there’s an abundance of wide, open spaces in Coos Bay, North Bend & Charleston for visitors to safely explore while following Oregon’s Safe+Strong guidelines. We are, after all, known as “Oregon’s Adventure Coast”! For those of us fortunate enough to reside here, we can’t get enough of beautiful outdoor destinations like [The South Slough National Estuarine Research Reserve (South Slough NERR)](https://www.oregon.gov/dsl/SS/Pages/About.aspx), 5,000-acre natural area located in the Coos estuary.
+In case you haven’t heard, there’s an abundance of wide, open spaces in Coos Bay, North Bend & Charleston for visitors to safely explore while following Oregon’s Safe+Strong guidelines. We are, after all, known as “Oregon’s Adventure Coast”! For those of us fortunate enough to reside here, we can’t get enough of beautiful outdoor destinations like [The South Slough National Estuarine Research Reserve (South Slough NERR)](https://www.oregon.gov/dsl/ss/Pages/default.aspx), 5,000-acre natural area located in the Coos estuary.
 
 What is an estuary you ask? It’s defined as a partially enclosed body of water along the coast where freshwater from rivers and streams meets and mixes with saltwater from the ocean. Estuarine environments are among the most productive on earth, creating more organic matter each year than comparably-sized areas of forest, grassland, or agricultural land. The tidal, sheltered waters of estuaries also support unique communities of plants and animals especially adapted for life at the margin of the sea. Source: [www.water.epa.gov](http://water.epa.gov/type/oceb/nep/about.cfm)
 

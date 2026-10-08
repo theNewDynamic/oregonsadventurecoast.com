@@ -65,7 +65,7 @@ Then it was shopping time! North Bend and Coos Bay have some [eclectic shops ](/
 
 And we wrapped up our day trying our luck at the [casinos](/gaming/). There are two in the Coos Bay and North Bend area. One of us got very lucky but we all had a great time!
 
-Sunday, we knew we had to head home but we got in one last adventure before we did. A morning hike through [South Slough National Estuarine Research Center](https://www.oregon.gov/dsl/SS/Pages/About.aspx). While the Interpretive Center was not open when we went, we were able to [download the trail map](https://www.oregon.gov/dsl/SS/Documents/south_slough_brochure_0415.pdf) and easily follow the trails through thick forest land down to the water of the estuary. It was strenuous but a great hike. We saw mushrooms and newts and so many plants we couldn’t identify!
+Sunday, we knew we had to head home but we got in one last adventure before we did. A morning hike through [South Slough National Estuarine Research Center](https://www.oregon.gov/dsl/ss/Pages/default.aspx). While the Interpretive Center was not open when we went, we were able to [download the trail map](https://www.oregon.gov/dsl/SS/Documents/south_slough_brochure_0415.pdf) and easily follow the trails through thick forest land down to the water of the estuary. It was strenuous but a great hike. We saw mushrooms and newts and so many plants we couldn’t identify!
 
 ![Girlfriends hugging goodbye at the beach](/img/girlfriends-hug-at-beach.jpg)
 

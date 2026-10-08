@@ -58,7 +58,7 @@ We’re confident that you will not only find something “outdoorsy” to do, y
 
 **Who’s it for:** Gal pals, bachelorette parties, adventure seekers.&nbsp;
 
-**Highlights:** Exploring the [<u>Oregon Dunes National Recreation Area</u>](https://oregonsadventurecoast.netlify.app/untamed-dunes/), kayaking on [<u>Sunset Bay State Park</u>](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/), hiking through [<u>Shore Acres State Park</u>](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/), watching seals and sea lions from the Simpson Reef Overlook, trip to the [<u>Coos History Museum</u>](https://cooshistory.org/), hiking through [<u>South Slough National Estuarine Research Center</u>](https://www.oregon.gov/dsl/SS/Pages/About.aspx), shopping, dining and relaxing.&nbsp;&nbsp;
+**Highlights:** Exploring the [<u>Oregon Dunes National Recreation Area</u>](https://oregonsadventurecoast.netlify.app/untamed-dunes/), kayaking on [<u>Sunset Bay State Park</u>](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/), hiking through [<u>Shore Acres State Park</u>](https://www.oregonsadventurecoast.com/state-parks-and-national-lands/), watching seals and sea lions from the Simpson Reef Overlook, trip to the [<u>Coos History Museum</u>](https://cooshistory.org/), hiking through [<u>South Slough National Estuarine Research Center</u>](https://www.oregon.gov/dsl/ss/Pages/default.aspx), shopping, dining and relaxing.&nbsp;&nbsp;
 
 **Bonus Content**\:&nbsp;
 

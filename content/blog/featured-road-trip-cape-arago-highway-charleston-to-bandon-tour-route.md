@@ -49,7 +49,7 @@ The Cape Arago Highway and the Charleston to Bandon tour route are amazing on th
 
 To follow the Charleston to Bandon Tour Route, retrace your route northeast on Cape Arago for six miles and turn right on Seven Devils Road. Continue south, and you will find the 5th stop along your journey.
 
-**Stop \#5 South Slough National Estuarine Research Reserve**<br> This local natural treasure is home to a variety of marine life, including shellfish, salmon and seabirds. The {{< link url="https://www.oregon.gov/dsl/SS/Pages/About.aspx" >}}South Slough National Estuarine Research{{< /link >}} offers a number of hiking and paddling trails through estuaries habitat and features an interpretive center.
+**Stop \#5 South Slough National Estuarine Research Reserve**<br> This local natural treasure is home to a variety of marine life, including shellfish, salmon and seabirds. The {{< link url="https://www.oregon.gov/dsl/ss/Pages/default.aspx" >}}South Slough National Estuarine Research{{< /link >}} offers a number of hiking and paddling trails through estuaries habitat and features an interpretive center.
 
 **Stop \#6 Seven Devils State Recreation Site**<br> Another side trip to your side trip is {{< link url="https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=49" >}}Seven Devils State Recreation Site{{< /link >}}, where you will find access to several miles of beach popular with agate hunters.
 
