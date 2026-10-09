@@ -51,7 +51,7 @@ Keep your receipts for purchase in the downtown area between November 13-28 and 
 
 #### November 20-21, 2026<br>Holiday Market at Coos History Museum
 
-Join local artisans, crafts people, food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Market is Free! Market hours 10am-4pm each day.
+Join local artisans, crafts people, food vendors, and more for your annual Holiday Shopping at the Coos History Museum. Entry to the Market is Free! Market hours 10am-4pm each day. Maker Demonstrations: Spinning & Weaving, 11am-1pm both days.
 
 {{< spacer 50 >}}
 
