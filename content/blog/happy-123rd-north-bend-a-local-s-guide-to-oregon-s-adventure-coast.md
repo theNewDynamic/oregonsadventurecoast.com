@@ -1,11 +1,10 @@
 ---
 _schema: default
-title: 'Happy 123rd, North Bend: A Local''s Guide to Oregon''s Adventure Coast '
+title: "Happy 123rd, North Bend: A Local's Guide to Oregon's Adventure Coast "
 draft: false
 date: 2026-07-17T00:00:00-07:00
-description: >-
-  North Bend, Oregon, turns 123 this month, and to honor the occasion, let’s get
-  to know the town that anchors the north end of Coos Bay!
+description: North Bend, Oregon, turns 123 this month, and to honor the
+  occasion, let’s get to know the town that anchors the north end of Coos Bay!
 image: /img/north-bend-oregon-blog-1400-x-649-1.jpg
 tags:
   - North Bend Oregon
@@ -27,7 +26,7 @@ warning: false
 ---
 ### ***North Bend, Oregon, turns 123 this month, and to honor the occasion, let’s get to know the town that anchors the north end of Coos Bay!***
 
-[North Bend, Oregon](https://www.oregonsadventurecoast.com/our-area-north-bend/), part of Oregon’s Adventure Coast, has a special history and character of its own. Shipping tycoon Louis J. Simpson founded North Bend in 1903, naming it for its location on the bay's north bend. But the town's story stretches back thousands of years before Simpson ever arrived.
+[North Bend, Oregon](/our-area-north-bend), part of Oregon’s Adventure Coast, has a special history and character of its own. Shipping tycoon Louis J. Simpson founded North Bend in 1903, naming it for its location on the bay's north bend. But the town's story stretches back thousands of years before Simpson ever arrived.
 
 Native communities lived on this land well before European settlers showed up roughly 400 years ago. Walk the streets downtown, and you'll find that layered history everywhere, from Indigenous sites to the logging and maritime industries that built the modern town.
 
