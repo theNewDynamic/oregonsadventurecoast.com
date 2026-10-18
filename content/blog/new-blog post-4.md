@@ -11,7 +11,7 @@ warning: false
 ---
 *Answers to the Most Frequently Asked Questions About the 2026 Holiday Lights Display at Shore Acres State Park*
 
-The [38th Annual Holiday Lights at Shore Acres State Park](https://www.oregonsadventurecoast.com/event/annual-holiday-lights-at-shore-acres/)is just around the corner! An army of volunteers from the Friends of Shore Acres (that’s right, volunteers) is hard at work transforming the gardens at Shore Acres State Park into a holiday wonderland. From Thanksgiving, November 26, through NeWe have answers to the most frequently asked questions about the 2026 Holiday Lights display at Shore Acres State Park!w Year’s Eve, the display, featuring over 325,000 LED lights, 26 large holiday trees, landscape lighting, and animated/lighted marine sculptures, will sparkle, dazzle, and twinkle across the park’s botanical gardens every night from 4:30 to 9 p.m., including Christmas Eve and Christmas Day.
+The [38th Annual Holiday Lights at Shore Acres State Park](https://www.oregonsadventurecoast.com/event/annual-holiday-lights-at-shore-acres/) is just around the corner! An army of volunteers from the Friends of Shore Acres (that’s right, volunteers) is hard at work transforming the gardens at Shore Acres State Park into a holiday wonderland. From Thanksgiving, November 26, through New Year’s Eve, the display, featuring over 325,000 LED lights, 26 large holiday trees, landscape lighting, and animated/lighted marine sculptures, will sparkle, dazzle, and twinkle across the park’s botanical gardens every night from 4:30 to 9 p.m., including Christmas Eve and Christmas Day.
 
 What began in 1987 with 6,000 lights and a single tree has grown into one of the most beloved holiday traditions on Oregon’s Adventure Coast: Coos Bay, North Bend and Charleston. Last year alone, the park welcomed an estimated [40,000-50,000 visitors from across the United States and 29 countries](https://shoreacres.net/wp-content/uploads/2026/04/Stats-2025-Fnl.pdf)!
 
@@ -25,13 +25,13 @@ Please read the following carefully to make sure your visit is a joyful one!
 
 **When will the Shore Acres State Park Holiday Lights Display be open to the public?** The Holiday Lights display will be open daily from 4:30 p.m. to 9:30 p.m. from Thanksgiving Day (Nov. 26) through New Year’s Eve (Dec. 31), including Christmas Eve and Christmas Day.
 
-**Is it self-guided?** Yes, the holiday lights tour at[Shore Acres State Park](https://www.google.com/search?kgmid=%2Fm%2F026lbgq) is a self-guided tour. Visitors walk at their own pace along the designated walking paths through the 7-acre formal botanical gardens. Inside the decorated Garden House, visitors are treated to complimentary hot cocoa, coffee, cookies, and apple cider.
+**Is it self-guided?** Yes, the holiday lights tour at [Shore Acres State Park](https://www.google.com/search?kgmid=%2Fm%2F026lbgq) is a self-guided tour. Visitors walk at their own pace along the designated walking paths through the 7-acre formal botanical gardens. Inside the decorated Garden House, visitors are treated to complimentary hot cocoa, coffee, cookies, and apple cider.
 
-**How much is it to see the Holiday Lights Display?** Admission is always free! However, visitors who park at Shore Acres to see the Holiday Lights display must reserve a ticket in advance and pay the Oregon State Parks rate of $10 per vehicle (not per person). If you prefer not to drive, take the[Holiday Lights Shuttle](https://www.oregonsadventurecoast.com/img/holiday-lights-shuttle-faq.pdf) on Fridays, Saturdays, or Sundays for free.
+**How much is it to see the Holiday Lights Display?** Admission is always free! However, visitors who park at Shore Acres to see the Holiday Lights display must reserve a ticket in advance and pay the Oregon State Parks rate of $10 per vehicle (not per person). If you prefer not to drive, take the [Holiday Lights Shuttle](https://www.oregonsadventurecoast.com/img/holiday-lights-shuttle-faq.pdf) on Fridays, Saturdays, or Sundays for free.
 
 **Is it wheelchair accessible?** Yes, Shore Acres State Park is wheelchair accessible around its main formal botanical gardens, observation building, and paved paths. The park has a few wheelchairs available to those who may need them. These are available on a first-come basis.
 
-**Are strollers allowed?** Yes, strollers are allowed at[Shore Acres State Park](https://www.google.com/search?kgmid=%2Fm%2F026lbgq).
+**Are strollers allowed?** Yes, strollers are allowed at [Shore Acres State Park](https://www.google.com/search?kgmid=%2Fm%2F026lbgq).
 
 **Are pets allowed?** No. Dogs and other pets are not allowed in [Shore Acres State Park](https://www.google.com/search?kgmid=%2Fm%2F026lbgq). Pets are strictly prohibited from entering the botanical and formal gardens. However, trained service animals are legally permitted everywhere service animals are allowed under ADA guidelines.
 
@@ -43,11 +43,9 @@ Please read the following carefully to make sure your visit is a joyful one!
 
 ## GETTING THERE
 
-![Two visitors walk down a garden path at night beneath a large tree wrapped in blue and warm white holiday lights, with hedges and shrubs along the path glowing in gold, purple, white and red.]()
+![A tiled fountain sits in the foreground of the Shore Acres garden at night, with a path leading back to a small house outlined in lights. Shrubs along the path glow in green, purple, red and white holiday lights, lighted bird figures hover in the air, and a lit gazebo stands to the right.](/img/holiday-lights-shore-acres-2026-blog-1400-x-649-1.jpg)
 
 [Shore Acres State Park](https://www.google.com/search?kgmid=%2Fm%2F026lbgq) is located on the southern Oregon coast, 13 miles southwest of Coos Bay and North Bend along the Cape Arago Highway. The address is 89039 Cape Arago Hwy, Coos Bay, OR 97420. For Holiday Lights, visitors have two options: purchase a timed parking pass in advance or take the \*FREE Santa’s Shuttle departing from the Charleston Marina parking lot.
-
-&nbsp;
 
 *\*Santa’s Shuttle operates on Friday, Saturday, and Sunday evening from Thanksgiving to New Year’s Eve, plus the three holiday nights of Thanksgiving, Christmas Eve, and New Year’s Eve. The shuttle is not available Monday- Thursday (Thanksgiving, Christmas Eve, and New Year’s Eve are the exception).*
 
@@ -79,6 +77,8 @@ To prevent heavy traffic and protect visitors' safety on Cape Arago Highway, Ore
 
 ### If You Are Planning to Park at the Charleston Marina and Take Santa’s Shuttle
 
+![A yellow First Student school bus with a shuttle sign in its windshield is parked at dusk beside a white-columned pavilion at Shore Acres State Park, where visitors gather near holiday light displays. The First Student logo appears in the lower right corner.](/img/free-shuttle-at-shore-acres-state-park-holiday-lights.jpg)
+
 If going through the Oregon State Parks timed entry system for this event is not an option for your group, you may take the FREE Shuttle that operates on Friday, Saturday, and Sunday evening from Thanksgiving to New Year’s Eve, plus the three holiday nights of Thanksgiving, Christmas Eve, and New Year’s Eve, which all fall on Thursdays this year.
 
 **Where can I catch the shuttle?** You can catch the FREE shuttle from the Charleston Marina (parking lot at the corner of [Guano Rock Lane and Crossline Street in the marina](https://maps.app.goo.gl/noFi8BJ8hB6w2epb8), by the Boat Washing Station). Turn at the Fish Mural on Pacific Seafood’s Building! Across Guano Rock Lane is the Charleston Fishing Families facility. They'll serve hot beverages and offer a warm place to wait for the shuttles.
@@ -97,9 +97,13 @@ If going through the Oregon State Parks timed entry system for this event is not
 
 ## INFO FOR OUT-OF-TOWN VISITORS
 
-**I’m planning on visiting from out of town. Where’s the best place to stay?** To help you plan your trip, we’ve put together a list of places to stay located throughout Coos Bay, North Bend, and Charleston. Choose accommodations that suit your needs and preferences, whether you need a pet-friendly place, a fitness center, a kitchen, or other amenities. [Click here](https://www.oregonsadventurecoast.com/lodging/) to start planning!
+![A tall Christmas tree covered in green and gold lights with a star on top stands at dusk, framed by a glowing archway of warm white lights. Lighted reindeer figures stand on the plaza in front of the tree, with bare branches in the foreground.](/img/north-bend-christmas-on-main-2026-blog-1400-x-649.jpg)
+
+**I’m planning on visiting from out of town. Where’s the best place to stay?** To help you plan your trip, we’ve put together [a list of places to stay located throughout Coos Bay, North Bend, and Charleston](https://www.oregonsadventurecoast.com/lodging/). Choose accommodations that suit your needs and preferences, whether you need a pet-friendly place, a fitness center, a kitchen, or other amenities.
 
 **What other holiday events are happening in town while I visit?** Multiple holiday events take place across Coos Bay, North Bend, and Charleston in November and December. Visit our list of [Holiday Happenings & Tree Lightings on Oregon's Adventure Coast](https://www.oregonsadventurecoast.com/event/holiday-happenings-tree-lightings-on-oregon-s-adventure-coast/) for the latest info.
+
+![Santa, the Grinch and an elf pose on the ice with polar bear and penguin skating aids in front of a lighted Christmas sign.](/img/north-bend-ice-skating-2026-blog-1400-x-649.jpg)
 
 **2026 Coos Bay Events**
 
@@ -124,6 +128,6 @@ If going through the Oregon State Parks timed entry system for this event is not
 
 * Polar Bear Plunge at Sunset Bay State Park: January 1, 2027 (9:00 AM)
 
-Got more questions? Visit the [Friends of Shore Acres](https://shoreacres.net/) website or the [Oregon State Parks website](https://stateparks.oregon.gov/) for information! Visit our [Adventure Page](https://www.oregonsadventurecoast.com/adventures/) for more resources to plan the perfect Oregon Coast getaway! [Click here for directions](https://www.oregonsadventurecoast.com/travelers-info/) and other important travel tips, or [contact](https://www.oregonsadventurecoast.com/contact/)one of our friendly volunteers at the Coos Bay Visitor Information Center on Oregon’s Adventure Coast and start planning your trip today!
+Got more questions? Visit the [Friends of Shore Acres website](https://shoreacres.net/) or the [Oregon State Parks website](https://stateparks.oregon.gov/) for information! Visit our [Adventure Page](https://www.oregonsadventurecoast.com/adventures/) for more resources to plan the perfect Oregon Coast getaway! [Get directions and other important travel tips,](https://www.oregonsadventurecoast.com/travelers-info/) or [contact](https://www.oregonsadventurecoast.com/contact/) one of our friendly volunteers at the Coos Bay Visitor Information Center on Oregon’s Adventure Coast and start planning your trip today!
 
 &nbsp;
