@@ -57,91 +57,49 @@ To prevent heavy traffic and protect visitors' safety on Cape Arago Highway, Ore
 
 **What is required to enter?** Visitors who drive [must reserve their spot](https://oregonstateparks.reserveamerica.com/tourList.do?parkId=402381&amp;contractCode=OR) in advance and have their parking pass/ticket with them to show the ranger at the booth when they arrive at their selected times. Your parking pass/ticket may be printed or presented to park staff digitally by downloading and saving to a cell phone <u>prior to arrival</u>. *There is NO cell service or internet at park.* Visitors who take the [Holiday Lights Shuttle](https://www.oregonsadventurecoast.com/img/holiday-lights-shuttle-faq.pdf) on Fridays, Saturdays, or Sundays are not required to have a ticket.
 
-&nbsp;
-
 **When should I reserve my spot?** Now. If you have not already done so, we suggest reserving your time slot as soon as possible! However, if you are not yet sure which night you plan to attend, we encourage you to purchase no later than 7 days prior to your preferred date to ensure you can get a parking spot.
-
-&nbsp;
 
 **What if all the spots are taken before we make our plans?** Additional spots will be released closer to the event and are available through a seven-day rolling window. If your preferred time is unavailable, please check again, as new inventory is released daily at 6 a.m. For details, visit the Oregon State Parks website.
 
-&nbsp;
-
 **Can’t I just show up and pay my parking fee in person?** No. Visitors must purchase a parking pass/ticket in advance and bring it when they arrive for their timed entry, or they will be turned away.
-
-&nbsp;
 
 **Do I have to reserve a time slot if I am a resident?** Yes. Everyone wishing to see the Lights this year must [reserve a spot](https://oregonstateparks.reserveamerica.com/tourList.do?parkId=402381&amp;contractCode=OR) and have their ticket ready to show the ranger at the booth when they arrive at their selected time, regardless of residency.
 
-&nbsp;
-
 **How do I reserve my time slot?** Date and timed entry parking tickets are[<u>available now online</u>](https://oregonstateparks.reserveamerica.com/tourParkDetail.do?contractCode=OR&amp;parkId=402381). Reservations can also be made by calling 800-452-5687.
-
-&nbsp;
 
 **How many tickets will I need?** One (1) ticket will be required **per vehicle** regardless of how many people are in the vehicle.
 
-&nbsp;
-
 **Why does Oregon State Parks have a timed entry system for the Holiday Lights at Shore Acres?** This process will help people enter the parking area quickly and prevent long waits, which will improve safety on the Cape Arago Highway. In previous years, long lines backed up on narrow highways and blocked side roads, hindering traffic and emergency vehicle access.
-
-&nbsp;
 
 **What do we do with the printed ticket?** Present the printed or downloaded digital ticket to park staff at entry to keep traffic moving. Present the ticket to park staff at entry, along with a selected pass, permit, or current campground confirmation letter.
 
-&nbsp;
-
 **What if I already have an Oregon State Park Parking Permit?** <u>You will still need to reserve your timed entry in advance</u> and have your ticket ready to show the ranger when you arrive during your scheduled time. However, the $10 fee may be waived if one of the following applies to you (you will need to select the option during the reservation process): You have a 12- or 24-month parking permit; a special access pass for either veterans with service-connected disabilities or foster, guardian, and adoptive foster parents of Oregon foster children; current Oregon State Park camping confirmation that coincides with the date of the event visit; or an Oregon Pacific Coast Passport.
 
-&nbsp;
-
 **What if our plans change? Can we change the date? Will we get a refund?** Tickets can be changed or canceled online or by calling 800-452-5687 until the date of the tour, as long as they haven't been printed or previewed. Refunds will not be issued for cancellations.
-
-&nbsp;
 
 ### If You Are Planning to Park at the Charleston Marina and Take Santa’s Shuttle
 
 If going through the Oregon State Parks timed entry system for this event is not an option for your group, you may take the FREE Shuttle that operates on Friday, Saturday, and Sunday evening from Thanksgiving to New Year’s Eve, plus the three holiday nights of Thanksgiving, Christmas Eve, and New Year’s Eve, which all fall on Thursdays this year.
 
-&nbsp;
-
 **Where can I catch the shuttle?** You can catch the FREE shuttle from the Charleston Marina (parking lot at the corner of [Guano Rock Lane and Crossline Street in the marina](https://maps.app.goo.gl/noFi8BJ8hB6w2epb8), by the Boat Washing Station). Turn at the Fish Mural on Pacific Seafood’s Building! Across Guano Rock Lane is the Charleston Fishing Families facility. They'll serve hot beverages and offer a warm place to wait for the shuttles.
-
-&nbsp;
 
 **Is shuttle service free?** YES! This shuttle is completely FREE! A tip for the bus driver is welcome but not required. Shuttle riders don't have to pay the parking fee for Shore Acres State Park since they aren't parking. Entry into the Holiday Lights at Shore Acres is free.
 
-&nbsp;
-
 **Do shuttle riders have to reserve in advance?** Nope! The shuttle runs on a First Come/First Served Basis. We will have two buses running continuously between the Marina and Shore Acres on the nights noted above. To ensure a seat on a shuttle, we highly recommend patrons arrive at the Marina between 4 pm and 7:45 pm. The last bus to the lights will depart the Marina no later than 8:10 pm.
-
-&nbsp;
 
 **What hours does the shuttle operate?** Santa’s Shuttle will run FROM the Marina TO Shore Acres every 20 minutes or so beginning at 4:15pm and ending no later than 8:10pm. The shuttle will run FROM Shore Acres back TO the Marina between 5 pm and 9 pm. Shore Acres State Park closes at 9 pm. All shuttle riders must be out of the park by 9 pm.
 
-&nbsp;
-
 **Where do I get on the shuttle?** The Holiday Lights Santa’s Shuttle runs from the large parking lot in the Charleston Marina to Shore Acres.
-
-&nbsp;
 
 **Are the shuttles wheelchair-accessible?** Yes, Holiday Lights Santa’s Shuttle is wheelchair-accessible.
 
-&nbsp;
-
 **I am bringing small children. Are strollers and car seats allowed?** Parents can bring strollers on the shuttle if they can be folded and stowed; infant carriers are also allowed. However, car seats are not allowed because they cannot be secured properly.
-
-&nbsp;
 
 ## INFO FOR OUT-OF-TOWN VISITORS
 
 **I’m planning on visiting from out of town. Where’s the best place to stay?** To help you plan your trip, we’ve put together a list of places to stay located throughout Coos Bay, North Bend, and Charleston. Choose accommodations that suit your needs and preferences, whether you need a pet-friendly place, a fitness center, a kitchen, or other amenities. [Click here](https://www.oregonsadventurecoast.com/lodging/) to start planning!
 
-&nbsp;
-
 **What other holiday events are happening in town while I visit?** Multiple holiday events take place across Coos Bay, North Bend, and Charleston in November and December. Visit our list of [Holiday Happenings & Tree Lightings on Oregon's Adventure Coast](https://www.oregonsadventurecoast.com/event/holiday-happenings-tree-lightings-on-oregon-s-adventure-coast/) for the latest info.
-
-&nbsp;
 
 **2026 Coos Bay Events**
 
@@ -153,8 +111,6 @@ If going through the Oregon State Parks timed entry system for this event is not
 * Empire District Tree Lighting, Caroling, and Visits with Santa: December 4
 * Bay Area Concert Band Fall into Winter Concert Series Featuring the Coos Singers: December 6 & 7
 
-&nbsp;
-
 **2026 North Bend Events**
 
 * Downtown Ice Skating: November 21, 2026 – February 14, 2027 ($5 rentals)
@@ -164,13 +120,9 @@ If going through the Oregon State Parks timed entry system for this event is not
 * Christmas “Little Ole Opry on the Bay” at Liberty Theatre: December 4-6
 * North Bend Christmas On Main Tree Lighting & Lighted Truck Parade: December 5
 
-&nbsp;
-
 **2026 Charleston & Area Events**
 
 * Polar Bear Plunge at Sunset Bay State Park: January 1, 2027 (9:00 AM)
-
-&nbsp;
 
 Got more questions? Visit the [Friends of Shore Acres](https://shoreacres.net/) website or the [Oregon State Parks website](https://stateparks.oregon.gov/) for information! Visit our [Adventure Page](https://www.oregonsadventurecoast.com/adventures/) for more resources to plan the perfect Oregon Coast getaway! [Click here for directions](https://www.oregonsadventurecoast.com/travelers-info/) and other important travel tips, or [contact](https://www.oregonsadventurecoast.com/contact/)one of our friendly volunteers at the Coos Bay Visitor Information Center on Oregon’s Adventure Coast and start planning your trip today!
 
