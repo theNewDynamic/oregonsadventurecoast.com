@@ -71,7 +71,7 @@ After exploring the dunes, have a late lunch or early dinner at Clausen Oysters,
 
 Before checking into your hotel, visit the [Coos Bay Visitor Information Center for resources about Oregon’s South Coast.](https://oregonsadventurecoast.netlify.app/contact/)
 
-After settling in, spend the evening at Ko-Kwel Casino Resort Coos Bay, which offers a variety of gaming options. Three Rivers Casino – Coos Bay is also nearby, providing a second casino choice.
+After settling in, spend the evening at [Ko-Kwel Casino Resort](https://www.kokwelresorts.com/coos-bay/), which offers a variety of gaming options. [Three Rivers Casino – Coos Bay]() is also nearby, providing a second casino choice.
 
 ![Three smiling women with drinks play roulette at a casino table while a dealer in a light blue shirt places chips on the felt. Brightly lit slot machines fill the background.](/img/48-hours-on-oregon-s-adventure-coast-2026-blog-1400-x-649-2.jpg)
 
