@@ -51,13 +51,13 @@ warning: false
 
 Fall is one of the best times to visit Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston. While summer is popular, fall provides an ideal getaway for any length of stay. Many locals refer to autumn as the Oregon Coast’s “Second Summer.”
 
-Guests staying at participating properties from October 1 to November 30 will receive a “Fall Pass” savings card with exclusive offers at merchants and restaurants in Coos Bay, North Bend, and Charleston. Additional reasons to visit this fall include:
+Guests staying at participating properties from October 1 to November 30 will receive a [“Fall Pass” savings card](https://www.oregonsadventurecoast.com/blog/the-best-season-to-visit-just-got-a-new-perk-the-fall-pass/)with exclusive offers at merchants and restaurants in Coos Bay, North Bend, and Charleston. Additional reasons to visit this fall include:
 
 **Beautiful Weather. Autumn features many** sunny days, with average highs in the upper 60s to low 70s. The ocean is often warmer in fall than in summer, which is unique to this area.
 
-**Smaller Crowds. With fewer visitors, fall is ideal for** early holiday shopping in local[shops and antique stores](https://www.oregonsadventurecoast.com/shopping/). Restaurants usually have minimal wait times, and traffic remains light.
+**Smaller Crowds. With fewer visitors, fall is ideal for** early holiday shopping in local [shops and antique stores](https://www.oregonsadventurecoast.com/shopping/). Restaurants usually have minimal wait times, and traffic remains light.
 
-**Enjoy Secluded Beaches. With fewer visitors, you can enjoy** beachcombing, picnicking, and tide pooling in state parks and on[local beaches](https://www.oregonsadventurecoast.com/undeveloped-beaches/) such as Bastendorff Beach, Cape Arago State Park, Horsfall Beach, Shore Acres State Park, Simpson Beach, and Sunset Bay State Park.
+**Enjoy Secluded Beaches. With fewer visitors, you can enjoy** beachcombing, picnicking, and tide pooling in state parks and on [local beaches](https://www.oregonsadventurecoast.com/undeveloped-beaches/) such as Bastendorff Beach, Cape Arago State Park, Horsfall Beach, Shore Acres State Park, Simpson Beach, and Sunset Bay State Park.
 
 Continue reading for an itinerary featuring highlights of Oregon’s Adventure Coast.
 
@@ -69,7 +69,7 @@ Day one includes both outdoor and indoor activities. Start at the Oregon Dunes N
 
 After exploring the dunes, have a late lunch or early dinner at Clausen Oysters, a local favorite for fresh and smoked oysters, oyster baskets, po'boys, shooters, and chowder. Clausen Oysters is located on Highway 101, north of North Bend and McCullough Bridge.
 
-Before checking into your hotel, visit the[Coos Bay Visitor Information Center for resources about Oregon’s South Coast.](https://oregonsadventurecoast.netlify.app/contact/)
+Before checking into your hotel, visit the [Coos Bay Visitor Information Center for resources about Oregon’s South Coast.](https://oregonsadventurecoast.netlify.app/contact/)
 
 After settling in, spend the evening at Ko-Kwel Casino Resort Coos Bay, which offers a variety of gaming options. Three Rivers Casino – Coos Bay is also nearby, providing a second casino choice.
 
@@ -79,19 +79,19 @@ After settling in, spend the evening at Ko-Kwel Casino Resort Coos Bay, which of
 
 ![Golden sunset light washes over jagged, layered sandstone rock formations as waves crash and foam around them, with forested cliffs along the shoreline and the sun glowing low over the ocean.](/img/48-hours-on-oregon-s-adventure-coast-2026-blog-1400-x-649-3.jpg)
 
-Begin your morning with breakfast at your hotel or at the[Pancake Mill Restaurant and Pie Shoppe](http://www.pancakemill.com/). Then drive to Charleston, a working fishing village, and enjoy the scenic[Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/).
+Begin your morning with breakfast at your hotel or at the [Pancake Mill Restaurant and Pie Shoppe](http://www.pancakemill.com/). Then drive to Charleston, a working fishing village, and enjoy the scenic [Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/tripideas/explore-the-cape-arago-beach-loop/).
 
-Along the 8-mile drive, you will find several state parks, including Shore Acres State Park,[Sunset Bay State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=70), and[Cape Arago State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=66). Consider visiting the marina and boatyard in Charleston, which are active year-round with commercial and recreational boats.
+Along the 8-mile drive, you will find several state parks, including Shore Acres State Park, [Sunset Bay State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=70), and [Cape Arago State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&amp;parkId=66). Consider visiting the marina and boatyard in Charleston, which are active year-round with commercial and recreational boats.
 
-For complete details, download our[PDF guide for the Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/img/cape-arago-loop-itinerary.pdf).
+For complete details, download our [PDF guide for the Cape Arago Beach Loop](https://www.oregonsadventurecoast.com/img/cape-arago-loop-itinerary.pdf).
 
-After a morning of adventure and wildlife viewing, have lunch at a local seafood restaurant in Charleston. Then visit the[Charleston Marine Life Center](https://cmlc.uoregon.edu/) on the harbor to explore coastal ecosystems, tide pool touch tanks, marine skeletons, underwater video, and specimens that showcase the region’s marine diversity. *The center is open Wednesday through Saturday, 11 am to 5 pm.*
+After a morning of adventure and wildlife viewing, have lunch at a local seafood restaurant in Charleston. Then visit the [Charleston Marine Life Center](https://cmlc.uoregon.edu/) on the harbor to explore coastal ecosystems, tide pool touch tanks, marine skeletons, underwater video, and specimens that showcase the region’s marine diversity. *The center is open Wednesday through Saturday, 11 am to 5 pm.*
 
-Next, visit[Davey Jones' Locker](https://www.facebook.com/Davey-Jones-Locker-275312836004/) to prepare for an afternoon of[fishing](https://oregonsadventurecoast.netlify.app/fishing/),[crabbing,](https://oregonsadventurecoast.netlify.app/crabbing-clamming/) or[clamming](https://oregonsadventurecoast.netlify.app/clamming/). Local bait and tackle stores offer equipment rentals and expert advice. Charter fishing services are also available to enhance your experience on Oregon’s Adventure Coast.
+Next, visit [Davey Jones' Locker](https://www.facebook.com/Davey-Jones-Locker-275312836004/) to prepare for an afternoon of [fishing](https://oregonsadventurecoast.netlify.app/fishing/), [crabbing,](https://oregonsadventurecoast.netlify.app/crabbing-clamming/) or [clamming](https://oregonsadventurecoast.netlify.app/clamming/). Local bait and tackle stores offer equipment rentals and expert advice. Charter fishing services are also available to enhance your experience on Oregon’s Adventure Coast.
 
-On your return to Coos Bay or North Bend, stop at[Cranberry Sweets](https://cranberrysweets.com/) for treats made from Oregon cranberries and other flavors. Candy production can be observed on most weekdays, and samples are available.
+On your return to Coos Bay or North Bend, stop at [Cranberry Sweets](https://cranberrysweets.com/) for treats made from Oregon cranberries and other flavors. Candy production can be observed on most weekdays, and samples are available.
 
-After a day outdoors, have dinner at a local restaurant. In the evening, consider bowling at[The Back Alley Pub & Grill](https://northbendlanes.com/Back-Alley-Pub-Grill) at[North Bend Lanes](https://northbendlanes.com/) or attending live music at[7 Devils Brewery and Public House](https://7devilsbrewery.com/) or[Wildflour Public House](https://www.wildflourpub.com/)<u> </u>on select nights.
+After a day outdoors, have dinner at a local restaurant. In the evening, consider bowling at [The Back Alley Pub & Grill](https://northbendlanes.com/Back-Alley-Pub-Grill) at [North Bend Lanes](https://northbendlanes.com/) or attending live music at [7 Devils Brewery and Public House](https://7devilsbrewery.com/) or [Wildflour Public House](https://www.wildflourpub.com/)<u> </u>on select nights.
 
 ![A red bowling ball rolls down a glossy lane during cosmic bowling, with colorful red, green and blue lights scattered across the lanes and glowing arrow markers and gutter lights in the dim room.](/img/48-hours-on-oregon-s-adventure-coast-2026-blog-1400-x-649-5.jpg)
 
@@ -105,7 +105,7 @@ Before departing, visit the Coos Bay Visitor Information Center to provide feedb
 
 Now that you have this information, let us help you plan your next trip to Oregon’s Adventure Coast: Coos Bay, North Bend, and Charleston. Explore our trip itineraries and suggestions as you prepare your getaway.
 
-[Contact the Vistor Center](https://oregonsadventurecoast.com/contact/) for more tips on local food and year-round activities. Visit our[Adventure Page](https://www.oregonsadventurecoast.com/adventures/) for more ideas and inspiration, and[<u>download our Visitor Guide (PDF).</u>](https://www.oregonsadventurecoast.com/img/Oregon-Coast-Visitor-Guide.pdf)
+[Contact the Vistor Center](https://oregonsadventurecoast.com/contact/) for more tips on local food and year-round activities. Visit our [Adventure Page](https://www.oregonsadventurecoast.com/adventures/) for more ideas and inspiration, and [<u>download our Visitor Guide (PDF).</u>](https://www.oregonsadventurecoast.com/img/Oregon-Coast-Visitor-Guide.pdf)
 
 &nbsp;
 
