@@ -1,8 +1,7 @@
 ---
 _schema: default
-title: >-
-  Ready. Set. Adventure. Plan an Unforgettable Hiking Trip on Oregon's Adventure
-  Coast
+title: Ready. Set. Adventure. Plan an Unforgettable Hiking Trip on Oregon's
+  Adventure Coast
 draft: false
 date: 2026-08-14T00:00:00-07:00
 description: >-
@@ -80,7 +79,7 @@ Our communities are coming together to make the Oregon Coast a more inclusive de
 
 ![Man in a blue cap standing with a leashed dog on a misty, pine-lined coastal trail.](/img/oregon-coast-hiking.jpg)
 
-There are miles and miles of trails on Oregon's Adventure Coast, and well-behaved dogs are welcome on most of them, as long as you clean up after them and they're leashed as required by law. Picking up after your pet is not only considerate to fellow hikers, it helps prevent pollution and protects local wildlife. Keep your pet (and yourself) hydrated and take plenty of breaks!
+There are miles and miles of trails on Oregon's Adventure Coast, and well-behaved dogs are welcome on most of them, as long as you clean up after them and they're leashed as required by law. Picking up after your pet is not only considerate to fellow hikers, it helps prevent pollution and protects local wildlife. Keep your pet (and yourself) hydrated and take plenty of breaks! [Pets are welcome at Sunset Bay State Park](https://parksandpets.com/oregon/state-parks/sunset-bay) as well as [Cape Arago State Park](https://parksandpets.com/oregon/state-parks/cape-arago) and many other hiking trails throughout Coos Bay, North Bend, and Charleston.
 
 ***Important Note About Shore Acres State Park.*** If you are planning to take your pet to Shore Acres State Park, please note that no animals, except for service animals, are allowed outside of vehicles in Shore Acres State Park and its formal gardens. Hikers with dogs already on the Oregon Coast Trail, which runs from Sunset Bay State Park to Cape Arago State Park through Shore Acres State Park, may continue along the trail. However, dogs must remain on the trail and in the parking lot area only. The trail does not extend to the area around the Observation Building, bathroom facilities, or the gardens.
 
