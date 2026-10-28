@@ -101,7 +101,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 {{< spacer "25" >}}
 
-**(Information coming soon)**
+**Gib's RV Superstore, Best Western Holiday Hotel Coos Bay, PEAK Credit Union, Three Rivers Casino Resort, Oregon Pacific Bank, Harmony Homecare, Coos Bay-North Bend Rotary Foundation, Sause Bros., Ziply Fiber and local Edward Jones agents.**
 
 **And Special Thanks to the Bus Drivers of**
 
