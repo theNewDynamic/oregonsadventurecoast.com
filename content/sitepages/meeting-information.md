@@ -24,7 +24,7 @@ In a separate agreement between the VCB and the City of Coos Bay, the VCB also m
 
 {{< spacer 25 >}}
 
-#### <a target="_blank" rel="noopener" href="/img/local-tlt-explained-vcb-taxingentities-fy26-1.pdf">Learn About Our Local Lodging Tax and the History of the VCB</a>
+#### <a target="_blank" rel="noopener" href="/img/local-tlt-explained-vcb-taxingentities-fy27.pdf">Learn About Our Local Lodging Tax and the History of the VCB</a>
 
 {{< spacer "25" >}}
 
