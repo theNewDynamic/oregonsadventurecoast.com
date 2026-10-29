@@ -85,7 +85,7 @@ If you're planning to drive, you will need a special **Time-Specific Parking Pas
 
 ### Santa's Shuttle Rides Again in 2025!
 
-<a href="/img/holiday-lights-shuttle-faq.pdf" target="_blank" rel="noopener"><strong>DOWNLOAD OUR FAQ</strong></a>
+<a href="/img/holiday-lights-shuttle-faq-2026.pdf" target="_blank" rel="noopener"><strong>DOWNLOAD OUR FAQ</strong></a>
 
 **Every Friday, Saturday and Sunday evening** from Thanksgiving to New Year's Eve, plus the three holiday nights of Thanksgiving, Christmas Eve, and New Year's Eve, which all fall on Thursdays this year, take the **FREE** shuttle from the Charleston Marina (parking lot at the corner of <a href="https://maps.app.goo.gl/noFi8BJ8hB6w2epb8" target="_blank" rel="noopener">Guano Rock Lane and Crossline Road</a> in the Marina) to Shore Acres State Park! Turn at the Fish Mural on Pacific Seafood's Building!
 
