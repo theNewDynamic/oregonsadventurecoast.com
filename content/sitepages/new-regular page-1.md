@@ -22,7 +22,7 @@ Stay on Oregon's Adventure Coast this fall, at one of our participating lodging 
 
 Stay at one of these participating lodging properties and when you check-in, you'll get your **FREE Fall Pass Savings Card**! It's that easy!
 
-{{< columns number="2" >}}**Bay Point Landing**<br>92443 Cape Arago Hwy<br>Charleston, OR 97420<br>541-351-9160 \| <a href="http://www.baypointlanding.com/" target="_blank" rel="noopener"><strong>Website</strong></a>
+{{< columns number="2" >}}**Bay Point Landing**<br>92443 Cape Arago Hwy<br>Charleston, OR 97420<br>541-351-9160 \| <a href="http://www.baypointlanding.com/" target="_blank" rel="noopener"><strong>Website</strong></a>**<br>(Cabins & Airstreams only)**
 
 **Best Western Holiday Hotel**<br>411 N. Bayshore Dr<br>Coos Bay, OR 97420<br>541-269-5111 \| <a href="https://www.bestwestern.com/en_US/book/hotels-in-coos-bay/best-western-holiday-hotel/propertyCode.38071.html" target="_blank" rel="noopener"><strong>Website</strong></a>
 
@@ -46,7 +46,7 @@ divider
 
 **Red Lion Hotel**<br>1313 N. Bayshore Dr<br>Coos Bay, OR 97420<br>541-267-4141 \| <a href="https://www.redlion.com/red-lion-hotels/or/coos-bay/red-lion-hotel-coos-bay" target="_blank" rel="noopener"><strong>Website</strong></a>
 
-**Sun Outdoors Coos Bay**<br>90281 Cape Arago Hwy<br>Charleston, OR 97420<br>541-888-2598 \| <a href="https://www.sunoutdoors.com/oregon/sun-outdoors-coos-bay" target="_blank" rel="noopener"><strong>Website</strong></a>{{< /columns >}}
+**Sun Outdoors Coos Bay**<br>90281 Cape Arago Hwy<br>Charleston, OR 97420<br>541-888-2598 \| <a href="https://www.sunoutdoors.com/oregon/sun-outdoors-coos-bay" target="_blank" rel="noopener"><strong>Website</strong></a>**<br>(Cabins only)**{{< /columns >}}
 
 ![Two Fall Pass cards for Oregon's Adventure Coast, valid Oct-Nov 2026: A Little Extra for Your Fall Getaway!](/img/fall-pass-card-695px.jpg)
 
