@@ -12,9 +12,9 @@ seo:
   image: ''
 date: 2019-02-18T11:35:33-08:00
 ---
-#### **The Coos Bay-North Bend Visitor & Convention Bureau (VCB)**
+#### **The Coos Bay-North Bend-Charleston Visitor & Convention Bureau (VCB)**
 
-was created through an Intergovernmental Agreement (IGA) between the City of Coos Bay, the City of North Bend, and the Coquille Indian Tribe. In 2022, Coos County was added to a Restated IGA when voters approved tax collection in the unincorporated Charleston area. The IGA is the Governing Document of the VCB. A Board of Directors oversees the Policies and Activities of the VCB.
+The VCB was created through an Intergovernmental Agreement (IGA) between the City of Coos Bay, the City of North Bend, and the Coquille Indian Tribe. In 2022, Coos County was added to a Restated IGA when voters approved tax collection in the unincorporated Charleston area. The IGA is the Governing Document of the VCB. A Board of Directors oversees the Policies and Activities of the VCB.
 
 The VCB’s primary mission is to promote the Coos Bay, North Bend & Charleston areas as ***Oregon’s Adventure Coast*** to encourage tourism to the area, and, therefore, economic vitality from tourism.
 
